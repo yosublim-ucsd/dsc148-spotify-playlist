@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s pop. Photo : Tate McRae",
-  "num_followers": 231792,
+  "num_followers": 231857,
   "original_name": "Nouveaut\u00e9s Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTkyM2FlNzBlMTFlMWUzM2FkNjQ3NjdhOTg4YmI0NmEzZDZiYjZl",
+  "snapshot_id": "MCwzMTQ1MDQxOTAyNGQyY2Q4ODY0YWUxNTExYjJmYjM3ZDQ0ODllYTI4",
   "tracks": [
     {
       "added_at": "2023-11-16 23:00:00",
@@ -543,6 +543,22 @@
       "duration_ms": 157600,
       "name": "TALK!",
       "url": "https://open.spotify.com/track/45kFJyDpXX4AuKpvdWyTwW"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
+        "name": "Baby Blue",
+        "url": "https://open.spotify.com/album/4SZISLudRb6XD44SO2NBtZ"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 124451,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/5ZDdx332AQj2n6TOW0LlZU"
     },
     {
       "added_at": "2023-11-16 23:00:00",

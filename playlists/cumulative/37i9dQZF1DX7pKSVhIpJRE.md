@@ -4,7 +4,7 @@
 
 > Change will challenge tradition\. Listen to the music from and inspired by The Crown, streaming only on Netflix.
 
-139 songs - 8 hr 1 min
+140 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Future King](https://open.spotify.com/track/27IRxuyClRLi1yesYjoxGa) | [Rupert Gregson\-Williams](https://open.spotify.com/artist/2vuXYcTqreOLLnlKtMV5UG), [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [The Crown Season Two \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/6tsowIchdILlq2bWXdVK0m) | 2:21 | 2023-11-16 |  |
 | [Girls on Film](https://open.spotify.com/track/7feSbMqJGg9yL0s6ypxy9S) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 3:27 | 2023-11-16 |  |
 | [Good Enough](https://open.spotify.com/track/3uvTySdxejOSPEACJsajdW) | [Dodgy](https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W) | [Free Peace Sweet](https://open.spotify.com/album/2C5AMWVyaTWboPCe49JVnl) | 4:01 | 2023-11-16 |  |
-| [Got Love if You Want It](https://open.spotify.com/track/1a8EesGDv7GFU42NOJBfjh) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe\)](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 3:46 | 2023-11-16 |  |
+| [Got Love if You Want It](https://open.spotify.com/track/1a8EesGDv7GFU42NOJBfjh) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe\)](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 3:46 | 2023-11-16 | 2023-11-18 |
+| [Got Love If You Want It](https://open.spotify.com/track/1eAC3UVDEUGx27mg5MrW1W) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe Edition\)](https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ) | 3:46 | 2023-11-16 |  |
 | [Government](https://open.spotify.com/track/4DQ9mK9HR5Dtzdf6b69EXn) | [Rupert Gregson\-Williams](https://open.spotify.com/artist/2vuXYcTqreOLLnlKtMV5UG) | [The Crown: Season One \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/6ng66yiXAHS3lYzt7C6AD5) | 4:06 | 2023-11-16 |  |
 | [Gunpowder](https://open.spotify.com/track/01kfO1rkb7lmYoVvhXW0fH) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Five \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4kecm8cI0FFGF70NiNYkSE) | 3:31 | 2023-11-16 |  |
 | [Hasnat](https://open.spotify.com/track/7IHdnVAftQMgmBnuxI5wGu) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Five \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4kecm8cI0FFGF70NiNYkSE) | 3:02 | 2023-11-16 |  |

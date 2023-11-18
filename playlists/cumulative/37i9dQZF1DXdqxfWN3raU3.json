@@ -348,7 +348,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 228500,
       "name": "Aire.",
       "url": "https://open.spotify.com/track/69iMg2FY6RPtF84ilGrkRB"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 227626,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/1mOkcnpixz3u51MsWgGIXV"
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 154401,
       "name": "como te va?",
       "url": "https://open.spotify.com/track/64gyDJ9fXpZvsycMEHRLUG"
@@ -1424,6 +1424,28 @@
       "duration_ms": 221538,
       "name": "De Ti Me Olvid\u00e9",
       "url": "https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb"
+    },
+    {
+      "album": {
+        "name": "dec\u00eddete",
+        "url": "https://open.spotify.com/album/4gJIXcAlMbC5yagmVTUgMN"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        },
+        {
+          "name": "Absa G.",
+          "url": "https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161311,
+      "name": "dec\u00eddete",
+      "url": "https://open.spotify.com/track/33MvQLMWwL0vP55gnBh6L5"
     },
     {
       "album": {
@@ -2137,6 +2159,24 @@
     },
     {
       "album": {
+        "name": "Fin De Semana / Demasiado R\u00e1pido",
+        "url": "https://open.spotify.com/album/3Ad9PD3O28FZHKbJydxHt9"
+      },
+      "artists": [
+        {
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186285,
+      "name": "Fin De Semana",
+      "url": "https://open.spotify.com/track/4JtB5gVuzcbnMhWr37SdX4"
+    },
+    {
+      "album": {
         "name": "flores",
         "url": "https://open.spotify.com/album/3oBilaX7gnZ5RJreXT7DNj"
       },
@@ -2518,7 +2558,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 190120,
       "name": "I'd Better",
       "url": "https://open.spotify.com/track/4P7DLtlGZ3IGyTdH9YR6qJ"
@@ -2628,6 +2668,24 @@
       "duration_ms": 160386,
       "name": "KRMA",
       "url": "https://open.spotify.com/track/4okYg73pQX4BWiarAKE6Nz"
+    },
+    {
+      "album": {
+        "name": "La Baby",
+        "url": "https://open.spotify.com/album/6sowfPq2DeL2VDArb7pUlj"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161333,
+      "name": "La Baby",
+      "url": "https://open.spotify.com/track/460Zx6PCNYFHaA1A9rjiNL"
     },
     {
       "album": {
@@ -2800,6 +2858,28 @@
       "duration_ms": 210560,
       "name": "la que calla",
       "url": "https://open.spotify.com/track/1MxFX1v93jngElLiOqpdJx"
+    },
+    {
+      "album": {
+        "name": "La Serenata",
+        "url": "https://open.spotify.com/album/7pFJqxrRMrCsYfZZR2yrio"
+      },
+      "artists": [
+        {
+          "name": "Dani Ribba",
+          "url": "https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204521,
+      "name": "La Serenata",
+      "url": "https://open.spotify.com/track/2FtfaSWn9AFc1uDXNo3LKY"
     },
     {
       "album": {
@@ -3949,7 +4029,7 @@
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 206117,
+      "duration_ms": 206116,
       "name": "Numb The Pain",
       "url": "https://open.spotify.com/track/79Chy1FyRUT1GXvPS22OPe"
     },

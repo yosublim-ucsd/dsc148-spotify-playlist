@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: J-Rod Sullivan",
+  "description": "New jazz for open minds. Cover: Andr\u00e9 3000",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -1880,10 +1880,28 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 207812,
       "name": "AT EASE",
       "url": "https://open.spotify.com/track/1w8qCPaSGag0pzg9VkbVoj"
+    },
+    {
+      "album": {
+        "name": "AT EASE",
+        "url": "https://open.spotify.com/album/4nqipThYFxdUaxHPev4KbD"
+      },
+      "artists": [
+        {
+          "name": "Moses Yoofee Trio",
+          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207812,
+      "name": "AT EASE",
+      "url": "https://open.spotify.com/track/4KDbR4DBM6bcqhA0Y4PoCp"
     },
     {
       "album": {
@@ -3876,10 +3894,28 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 216733,
       "name": "Captain Zorg",
       "url": "https://open.spotify.com/track/26gg3Q7vbK22k255tZNSum"
+    },
+    {
+      "album": {
+        "name": "Nostalgia Blitz",
+        "url": "https://open.spotify.com/album/5jLc5Vrug16IJK3lqM4EWP"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Herman",
+          "url": "https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216899,
+      "name": "Captain Zorg",
+      "url": "https://open.spotify.com/track/4sVOoDp5wynMHOSaUDg6DO"
     },
     {
       "album": {
@@ -4368,6 +4404,28 @@
       "duration_ms": 135626,
       "name": "Cloud 10",
       "url": "https://open.spotify.com/track/64LoHwr9Npu5dMmoaFOLyD"
+    },
+    {
+      "album": {
+        "name": "Six",
+        "url": "https://open.spotify.com/album/0k821NyEThNcYPxBa6fO6E"
+      },
+      "artists": [
+        {
+          "name": "Oli Howe",
+          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
+        },
+        {
+          "name": "HOWES3",
+          "url": "https://open.spotify.com/artist/5kAArX8MAwHcmpsbdKhsuE"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396256,
+      "name": "Cobham",
+      "url": "https://open.spotify.com/track/6p46VYGOLxUbhPJB3pGxEt"
     },
     {
       "album": {
@@ -9881,6 +9939,24 @@
     },
     {
       "album": {
+        "name": "New Blue Sun",
+        "url": "https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 740010,
+      "name": "I swear, I Really Wanted To Make A \"Rap\" Album But This Is Literally The Way The Wind Blew Me This Time",
+      "url": "https://open.spotify.com/track/1lbjDy6IIerHFGZWKG0hno"
+    },
+    {
+      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/5nqCI1rOU2bhoTNAmxU0jM"
       },
@@ -12505,6 +12581,24 @@
     },
     {
       "album": {
+        "name": "Lounge Lizard",
+        "url": "https://open.spotify.com/album/4W6s4LdmewGx1WB1f0kWR0"
+      },
+      "artists": [
+        {
+          "name": "Molly Lewis",
+          "url": "https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229720,
+      "name": "Lounge Lizard",
+      "url": "https://open.spotify.com/track/39mehRLHX9wvfrooKeiWxa"
+    },
+    {
+      "album": {
         "name": "love + war",
         "url": "https://open.spotify.com/album/3XWMDQNFu7M1QwSCLIkx7h"
       },
@@ -13584,7 +13678,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 309340,
       "name": "Ministry of Love",
       "url": "https://open.spotify.com/track/6cbX2oMafEsIZZBTsq1cEp"
@@ -14496,7 +14590,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 215695,
       "name": "New Meaning",
       "url": "https://open.spotify.com/track/6mPQan4lLDiKid0LWGIPHm"
@@ -19974,7 +20068,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 269994,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/3YuChPkMnt1T6Qeujs8D8d"

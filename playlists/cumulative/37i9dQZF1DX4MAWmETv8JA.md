@@ -4,7 +4,7 @@
 
 > O melhor do trance feito na América Latina / Lo mejor del trance latino\. Foto: Delta Species, Middle\-D
 
-88 songs - 8 hr 36 min
+89 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Beautiful Hallucinations](https://open.spotify.com/track/7ugYCF480SGyKGD3wcbHUn) | [4i20](https://open.spotify.com/artist/3zlIIVkWyNrNpeN8lO49aH), [Rinkadink](https://open.spotify.com/artist/06ldxpPnHY1OEWgxglSHA4), [3LMT](https://open.spotify.com/artist/5qzMTiRkqiq6fpHCxIeGCo) | [Beautiful Hallucinations](https://open.spotify.com/album/7FkTrMH0QDRshT4VMHutJR) | 7:27 | 2022-03-04 |  |
 | [Breakdown](https://open.spotify.com/track/3i0Qw0LxoruonsiBW1fl1y) | [4i20](https://open.spotify.com/artist/3zlIIVkWyNrNpeN8lO49aH), [DreamVibes!](https://open.spotify.com/artist/333xTovyP8Mj9sK4fIUpgu) | [Breakdown](https://open.spotify.com/album/4DRAUTptsiqSTrKgEThENR) | 5:50 | 2022-03-04 |  |
 | [Come Close](https://open.spotify.com/track/71aoIeMlKuQdrkHljBf0nU) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Neelix](https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Come Close](https://open.spotify.com/album/7LXjqvXTHa1why9BbvhYcG) | 3:14 | 2022-03-04 |  |
+| [Cosmic Sound](https://open.spotify.com/track/0k0gi1B9yaxmKj2bzPFDgs) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH), [FNX](https://open.spotify.com/artist/4SV13zPKUXeAku0yjABUHB), [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6) | [Cosmic Sound](https://open.spotify.com/album/16f09BX0OadQaytqhIarnh) | 6:46 | 2023-11-17 |  |
 | [Cs](https://open.spotify.com/track/1R2y3RQgaajj7yfxl1ettI) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH) | [Cs](https://open.spotify.com/album/6FMwZx1f6pxgkQZtk43knE) | 6:30 | 2022-03-04 |  |
 | [CS](https://open.spotify.com/track/3EHB7RlZQDF7p66KEId0pW) | [Chapeleiro](https://open.spotify.com/artist/5M5NrRoOEBa49sW1hzKkuH) | [CS](https://open.spotify.com/album/5maIIXHJxLP0eQa1qqaH4j) | 6:30 | 2022-03-04 | 2022-07-29 |
 | [Cura Medicina](https://open.spotify.com/track/3qASbU4o3Lhfm3vK1lukrq) | [Aho](https://open.spotify.com/artist/0Sw30VrTPlYt6c7LrYuFSH) | [Cura Medicina](https://open.spotify.com/album/1A822hC98q3Kow03ZuzUW7) | 7:25 | 2022-03-04 |  |

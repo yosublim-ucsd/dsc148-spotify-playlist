@@ -1,13 +1,73 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: NOTD & Emei",
-  "num_followers": 137049,
+  "description": "The hottest new pop with all the drops. Cover: Marshmello & Tyla",
+  "num_followers": 137098,
   "original_name": "Fresh Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Nzk1YWMxYmUwODZmYTI5MTdhOTcyMGViMDU2NjYzZjY3YmU2NWYx",
+  "snapshot_id": "MCwyZTljNzZjZDVhM2U1NjYxNGFiNjc0NDkwM2IyMmMyZmQwODA5MmFm",
   "tracks": [
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "duration_ms": 191733,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Body Moving",
+        "url": "https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 154215,
+      "name": "Body Moving",
+      "url": "https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "You Don\u2019t Even Know Me",
+        "url": "https://open.spotify.com/album/1YSZG8X5xJNi3KL9pxgghn"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 151698,
+      "name": "You Don't Even Know Me",
+      "url": "https://open.spotify.com/track/0gqspClYQRq1Bdc3R48lnj"
+    },
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
@@ -29,6 +89,62 @@
       "url": "https://open.spotify.com/track/5asMstLe5UTmy01PCdM43c"
     },
     {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Waste My Love",
+        "url": "https://open.spotify.com/album/1EO0Y4276SxEbYcYjDHdtg"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "duration_ms": 167183,
+      "name": "Waste My Love",
+      "url": "https://open.spotify.com/track/5zaGLvozFFC1XFLI0klf8o"
+    },
+    {
+      "added_at": "2023-11-17 16:05:15",
+      "album": {
+        "name": "I Hate That I Care",
+        "url": "https://open.spotify.com/album/76PLp48INGRaOBffDFT5t3"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "I Hate That I Care",
+      "url": "https://open.spotify.com/track/2PQSqRFBhbPtQ39sHRbZkE"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "HiROQUEST 2: Double Helix",
+        "url": "https://open.spotify.com/album/2Y5AL4Rd7wOyEWycA1kRzO"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "duration_ms": 196849,
+      "name": "Us ft. ERNEST",
+      "url": "https://open.spotify.com/track/1pNvwvyu0toAciKIigdbO5"
+    },
+    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Houdini",
@@ -43,6 +159,26 @@
       "duration_ms": 185917,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
+    {
+      "added_at": "2023-11-17 14:43:16",
+      "album": {
+        "name": "thicc",
+        "url": "https://open.spotify.com/album/7CGatMISsY9SZCJhVsYiT5"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Cosha",
+          "url": "https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg"
+        }
+      ],
+      "duration_ms": 222682,
+      "name": "thicc",
+      "url": "https://open.spotify.com/track/3tda2VED1rPj3MmVf3mXTo"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -63,6 +199,26 @@
       "duration_ms": 147432,
       "name": "When We Were Young (The Logical Song)",
       "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Pa las Baby's Y Belikeada",
+        "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "duration_ms": 143327,
+      "name": "HARLEY QUINN",
+      "url": "https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -196,7 +352,7 @@
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/3StjwfadugiV10gNhLDu29"
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
       },
       "artists": [
         {
@@ -206,12 +362,12 @@
       ],
       "duration_ms": 237866,
       "name": "Hold On To Now",
-      "url": "https://open.spotify.com/track/4sB1OmmCi2Iwe9MaVlUubR"
+      "url": "https://open.spotify.com/track/2DNHzFyCUHNLl5IH1NSM8h"
     },
     {
       "added_at": "2023-10-27 05:01:16",
       "album": {
-        "name": "Rule The World (Everybody) [Ti\u00ebsto with Tears For Fears, NIIKO X SWAE and GUDFELLA]",
+        "name": "Rule The World (Everybody)",
         "url": "https://open.spotify.com/album/6Br9xGHQxq9VrTjsiYJ7NJ"
       },
       "artists": [
@@ -233,7 +389,7 @@
         }
       ],
       "duration_ms": 172500,
-      "name": "Rule The World (Everybody) [Ti\u00ebsto with Tears For Fears, NIIKO X SWAE and GUDFELLA]",
+      "name": "Rule The World (Everybody)",
       "url": "https://open.spotify.com/track/2f2dRxjiUOoV5qhZFbnVO6"
     },
     {
@@ -967,8 +1123,8 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Tension",
-        "url": "https://open.spotify.com/album/2AormSzZz3LkqREG7mubJA"
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
       },
       "artists": [
         {
@@ -978,7 +1134,7 @@
       ],
       "duration_ms": 216453,
       "name": "Tension",
-      "url": "https://open.spotify.com/track/1HteYUSXKUMm6A8vdZid7p"
+      "url": "https://open.spotify.com/track/6435Ra0NWQzPyZAcd1ojWI"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1247,46 +1403,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Wrong Places",
-        "url": "https://open.spotify.com/album/4xdwfPgqKdggDhdQ8C1Eg4"
-      },
-      "artists": [
-        {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
-        }
-      ],
-      "duration_ms": 175081,
-      "name": "Wrong Places",
-      "url": "https://open.spotify.com/track/1SRkfplefIkfa22aq7Jg6s"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Drinkin'",
-        "url": "https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 149545,
-      "name": "Drinkin'",
-      "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Koala",
         "url": "https://open.spotify.com/album/6TZqWG1Kk5y32ZVdrJM8aK"
       },
@@ -1299,26 +1415,6 @@
       "duration_ms": 155668,
       "name": "Koala",
       "url": "https://open.spotify.com/track/0qWInbxDZ6sKLcKLRZS60E"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/4dvts8ZkUUsbQdGASHVmbi"
-      },
-      "artists": [
-        {
-          "name": "Toby Romeo",
-          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
-        },
-        {
-          "name": "Declan J Donovan",
-          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
-        }
-      ],
-      "duration_ms": 148086,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/2KlnRC8jhbWokqr3PQMwgO"
     },
     {
       "added_at": "2023-10-06 04:00:00",

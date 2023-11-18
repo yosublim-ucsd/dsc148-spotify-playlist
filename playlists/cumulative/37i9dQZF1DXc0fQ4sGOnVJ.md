@@ -4,12 +4,13 @@
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-164 songs - 9 hr 25 min
+165 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Country Girl Can Survive](https://open.spotify.com/track/4KAXqEF9LkQKEgSNMmxDHJ) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz) | [A Country Girl Can Survive](https://open.spotify.com/album/3lPzSJhe2dcc94oMqRMnSe) | 2:53 | 2022-04-15 |  |
 | [A Hard Working Man \(feat\. Billy Ray Cyrus & Snoop Dogg\)](https://open.spotify.com/track/0RNHYswDxxq1xooRh3PLza) | [Avila Brothers](https://open.spotify.com/artist/0rK0A2f8enfBGIQghyAOmV), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [A Hard Working Man \(feat\. Billy Ray Cyrus & Snoop Dogg\)](https://open.spotify.com/album/4xcTuorr2ywyrsnbzXqTbM) | 2:47 | 2022-09-30 | 2023-11-11 |
+| [A Hard Working Man \(feat\. Billy Ray Cyrus & Snoop Dogg\)](https://open.spotify.com/track/0xJ1DE4mn3hvsUnwkz2rs8) | [Avila Brothers](https://open.spotify.com/artist/0rK0A2f8enfBGIQghyAOmV), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [A Hard Working Man \(feat\. Billy Ray Cyrus & Snoop Dogg\)](https://open.spotify.com/album/6X0C99LUzWygqeylOdwvRD) | 2:47 | 2023-11-10 |  |
 | [Ammunition](https://open.spotify.com/track/5z4lIzved0Jy9AJcwb44uS) | [Jesslee](https://open.spotify.com/artist/7Bve7xtrpHJaFvwn4XIJV1) | [Ammunition](https://open.spotify.com/album/5lTeytt3nJN1hz8bZAiegJ) | 3:04 | 2023-01-02 |  |
 | [AutoPilot](https://open.spotify.com/track/4P9Ubi9gxlFNNR27g3ML1t) | [DurtE](https://open.spotify.com/artist/6VZRx4elqkf5cXo3nrc8y7), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU) | [AutoPilot](https://open.spotify.com/album/5PlAnlR9c9kuwFRAde1cwp) | 3:40 | 2021-07-23 | 2023-01-03 |
 | [Back to Them Backroads](https://open.spotify.com/track/1VGwVRbEfLsVsKxrRK05Xo) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [We The People, Vol\. 1](https://open.spotify.com/album/1GDmEkvh5AFiIVhWPrSuR0) | 3:11 | 2023-05-19 |  |
@@ -137,7 +138,7 @@
 | [Southern Boy](https://open.spotify.com/track/3fdSYv0zOMlcKe2jkybFBJ) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Dirt Road Revival](https://open.spotify.com/album/4pWCmw4I5E9tBFbJ6noURB) | 3:14 | 2023-05-19 | 2023-08-24 |
 | [Standard American](https://open.spotify.com/track/0pjDpLLR4716mecRz06ikh) | [Gunnar & The Grizzly Boys](https://open.spotify.com/artist/1MaT8tk94UkY3k2thWudot) | [Mud Digger 5](https://open.spotify.com/album/0BqGica9dtGm0fAhLWsfsl) | 3:29 | 2021-05-21 |  |
 | [STICKS](https://open.spotify.com/track/1cuYOdYKx2tWkOdLzqnboR) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [STICKS](https://open.spotify.com/album/08aU8OfWq8Qq3rXQc7NH2S) | 2:37 | 2022-04-15 |  |
-| [Stomp Them Boots](https://open.spotify.com/track/1x3kToYa48N2Zb0MOc7iiG) | [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [Twang and Round](https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM) | [Stomp Them Boots](https://open.spotify.com/album/2k5eUp67yseXCF3pe4FjMJ) | 3:55 | 2023-05-19 |  |
+| [Stomp Them Boots](https://open.spotify.com/track/1x3kToYa48N2Zb0MOc7iiG) | [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [Twang and Round](https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM) | [Stomp Them Boots](https://open.spotify.com/album/2k5eUp67yseXCF3pe4FjMJ) | 3:55 | 2023-05-19 | 2023-11-18 |
 | [Stomp Them Boots](https://open.spotify.com/track/5JGPBq7QfcAq19MviRkbpf) | [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [Twang and Round](https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM) | [Stomp Them Boots](https://open.spotify.com/album/2WsT4YurJw25uWF3ESj6Oy) | 3:55 | 2022-07-22 | 2023-05-13 |
 | [Stomp Them Boots](https://open.spotify.com/track/5Nwyg9vefS3tLj8AnId4PD) | [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [Twang and Round](https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM) | [Mud Digger 9](https://open.spotify.com/album/5RBysFw9eejDJw9jdQYQrD) | 3:55 | 2021-05-21 | 2022-07-29 |
 | [STOMP YOUR BOOTS](https://open.spotify.com/track/2di1pqbuFLM3tLsBVPHqdf) | [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [STOMP YOUR BOOTS](https://open.spotify.com/album/6Eu2ZNWz1pL800FFjxyxEZ) | 2:31 | 2021-11-05 |  |

@@ -93,6 +93,28 @@
     },
     {
       "album": {
+        "name": "123 Special",
+        "url": "https://open.spotify.com/album/6xU7InFUfV2b582y07I6JI"
+      },
+      "artists": [
+        {
+          "name": "JyroGvo",
+          "url": "https://open.spotify.com/artist/75NziVeibeBcHBboy8wpdk"
+        },
+        {
+          "name": "Angeloh",
+          "url": "https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "123 Special",
+      "url": "https://open.spotify.com/track/6TiDxFH6UbbidPDAGfv1M1"
+    },
+    {
+      "album": {
         "name": "4 Jesus",
         "url": "https://open.spotify.com/album/1M3Uj8t7ImkwhUMQNR5TcL"
       },
@@ -1110,6 +1132,24 @@
       "duration_ms": 380000,
       "name": "Amen",
       "url": "https://open.spotify.com/track/0q9XNfMNbQn1x3ztBFlAyI"
+    },
+    {
+      "album": {
+        "name": "Ami Medi O (Acoustic)",
+        "url": "https://open.spotify.com/album/3pvOFwVQpxvbTIQNwqqcJc"
+      },
+      "artists": [
+        {
+          "name": "Henry praise",
+          "url": "https://open.spotify.com/artist/1X0clNkDAFGRPTC9F2buZo"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Ami Medi O - Acoustic",
+      "url": "https://open.spotify.com/track/3AuxGJ8Xci68LV1HkM7MLo"
     },
     {
       "album": {
@@ -4700,6 +4740,24 @@
       "duration_ms": 229176,
       "name": "Dis net genade",
       "url": "https://open.spotify.com/track/42urV2zj1oB3PvUReuRs8g"
+    },
+    {
+      "album": {
+        "name": "distractions...",
+        "url": "https://open.spotify.com/album/4I9uV4AiRVOK0tKC7dN1io"
+      },
+      "artists": [
+        {
+          "name": "itsjamer",
+          "url": "https://open.spotify.com/artist/3mCv51R0mWs08fIwjK2g07"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145612,
+      "name": "distractions...",
+      "url": "https://open.spotify.com/track/5WeTVsnktGqDBnF3yXMjfn"
     },
     {
       "album": {

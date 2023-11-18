@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA1NTgsYjYyNzZiODZjMjQ5YzRlNWUyMmE3MGM3NjM2NjUwM2MwMjFmZmZkNA==",
+  "snapshot_id": "MTA1NTksMmVjZjk4Nzk2ZWQ1MzUzYzdmOWZmZjEzNjY5NTQ5NTYxMWExOGM5MA==",
   "tracks": [
     {
       "added_at": "2023-11-10 21:45:45",
@@ -2535,6 +2535,22 @@
       "duration_ms": 215646,
       "name": "Feel The Need",
       "url": "https://open.spotify.com/track/2wa4S5WSyATZVQUN7fL4L0"
+    },
+    {
+      "added_at": "2023-11-17 18:47:24",
+      "album": {
+        "name": "White Lie",
+        "url": "https://open.spotify.com/album/6g3FQBSHayd37yO3a77AIH"
+      },
+      "artists": [
+        {
+          "name": "Haywyre",
+          "url": "https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "White Lie",
+      "url": "https://open.spotify.com/track/05W5WSaPyW5GCiNY5gOuyH"
     }
   ],
   "unique_name": "Moving Castle Monthly",

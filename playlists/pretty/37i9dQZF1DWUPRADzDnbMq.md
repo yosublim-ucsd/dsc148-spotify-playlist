@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 
 > Chill, beachy tunes to soundtrack your summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,468 likes - 87 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,467 likes - 87 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 | 77 | [Waves](https://open.spotify.com/track/1NqxPghuptyRlGwKOZANG4) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Waves](https://open.spotify.com/album/0cFNX1KyyhJWqryF4ofYM0) | 3:29 |
 | 78 | [Tropical Depression](https://open.spotify.com/track/119MCYCfTSVavgqpeg3ExO) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Greatest Hits Volume II](https://open.spotify.com/album/0tFm46KzjtCgyyfD8iCaiJ) | 2:57 |
 | 79 | [Everyone She Knows](https://open.spotify.com/track/0OURixtwzJF8pON5JpMHKv) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Here And Now](https://open.spotify.com/album/0t7ccDIa3CbqzFrL9rOpaw) | 3:24 |
-| 80 | [Watermelon Moonshine](https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Watermelon Moonshine](https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82) | 3:28 |
+| 80 | [Watermelon Moonshine](https://open.spotify.com/track/3sYBFUXTv0STUoUINx9Qe8) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:28 |
 | 81 | [Dashboard Hula Girl](https://open.spotify.com/track/4G7022Uud1H67FSyfu4ic1) | [Kristian Bush](https://open.spotify.com/artist/6H2X3nGSnuLh8UeEyair9A) | [Summertime Six\-Pack](https://open.spotify.com/album/3QpdL2vmiTvHreU6KTqzTn) | 3:27 |
 | 82 | [Amarillo By Morning](https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Strait From The Heart](https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t) | 2:53 |
 | 83 | [June, July, August](https://open.spotify.com/track/5yKupI1bQpTf5SLsVmxLMt) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [June, July, August](https://open.spotify.com/album/38yRWYiQ0SjHgZR3uyuPYC) | 3:01 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 | 86 | [Waves](https://open.spotify.com/track/1q3bxSdQF660hnNnNVtYwP) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [American Soul Summer \(Deluxe Edition\)](https://open.spotify.com/album/06PwRq6kGK8gE8mbu7yb6O) | 3:26 |
 | 87 | [Gettin' Down in a Pirate Town](https://open.spotify.com/track/0HbInFeaBStCiH4BJc6o1q) | [Jesse Rice](https://open.spotify.com/artist/053e8lWzA8BFhruid11TKQ) | [The Pirate Sessions](https://open.spotify.com/album/3AD64aLvBqR67GUefFM9Wj) | 4:16 |
 
-Snapshot ID: `MCw3YTdmZmRiYzFiZDY1NzM3ZDM3OWI3MDM5YmE3ZjI3NjMxNDlhYjUx`
+Snapshot ID: `MCwwMGZlY2UyODc4OTcwY2Y0MDFiYjFiMmFkMWIxYjRlYTQ2YWE5ZGI5`

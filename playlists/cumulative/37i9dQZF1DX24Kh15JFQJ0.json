@@ -1138,10 +1138,32 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 253637,
       "name": "Cry Myself To Sleep",
       "url": "https://open.spotify.com/track/1yuQdcpI7ngCtwMYVdljVv"
+    },
+    {
+      "album": {
+        "name": "Cry Myself To Sleep",
+        "url": "https://open.spotify.com/album/4ZgJVAmBnRJzb93mRERihX"
+      },
+      "artists": [
+        {
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        },
+        {
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253637,
+      "name": "Cry Myself To Sleep",
+      "url": "https://open.spotify.com/track/5hQDxoENKpSa3qC0WYr3qG"
     },
     {
       "album": {
@@ -2276,6 +2298,24 @@
       "duration_ms": 199493,
       "name": "I Like It When It's Stormy",
       "url": "https://open.spotify.com/track/0RGaAfyeo6VspXL6eK3l4l"
+    },
+    {
+      "album": {
+        "name": "Familiar Faces",
+        "url": "https://open.spotify.com/album/1IJk3ueX658qXNVN0uLM1p"
+      },
+      "artists": [
+        {
+          "name": "The Frontmen",
+          "url": "https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211173,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/2wXsYNHOjPzbjQUWOphOLs"
     },
     {
       "album": {

@@ -1,15 +1,55 @@
 {
-  "description": "Music from the gaming series \"Yakuza: Like a Dragon\" -\u300c\u9f8d\u304c\u5982\u304f7\u5916\u4f1d \u540d\u3092\u6d88\u3057\u305f\u7537\u300d\u767a\u58f2\u8a18\u5ff5\uff01\u30b7\u30ea\u30fc\u30ba\u6b74\u4ee3\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u3001\u30b5\u30f3\u30c8\u30e9\u697d\u66f2\u3092\u7db2\u7f85\u3057\u305f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u767b\u5834",
-  "num_followers": 40986,
+  "description": "Music from the gaming series \"Yakuza: Like a Dragon\" -\u300c\u9f8d\u304c\u5982\u304f7\u5916\u4f1d \u540d\u3092\u6d88\u3057\u305f\u7537\u300d\u767a\u58f2\u8a18\u5ff5\uff01\u30b7\u30ea\u30fc\u30ba\u6b74\u4ee3\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u3001\u30b5\u30f3\u30c8\u30e9\u697d\u66f2\u3092\u7db2\u7f85\u3057\u305f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u304c\u767b\u5834",
+  "num_followers": 41029,
   "original_name": "\u9f8d\u304c\u5982\u304f -Yakuza: Like a Dragon-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGExNjRiNDkxZGJjMjVmMmFhYWYzOWE5ZmM0ZDlhMDNkNDlkNzgx",
+  "snapshot_id": "MCwzN2UyMDE1NmJkY2Q2NDY5YjljY2MzYWVjMGJhM2M1NDFmYWU4OGU3",
   "tracks": [
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u82b1\u7530 \u5553\u592a\u6717",
+          "url": "https://open.spotify.com/artist/1rouXc6iBnQS4Xc27JY99Z"
+        }
+      ],
+      "duration_ms": 142973,
+      "name": "Obedience",
+      "url": "https://open.spotify.com/track/0GrAxKSr7Bz0CrZyLwbYTb"
+    },
+    {
+      "added_at": "2023-11-17 02:43:52",
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u5c0f\u6797 \u79c0\u8061",
+          "url": "https://open.spotify.com/artist/0hUaNfEHmXkQQgxzSGkD3X"
+        }
+      ],
+      "duration_ms": 156146,
+      "name": "Hannya's Attack",
+      "url": "https://open.spotify.com/track/38RZDYEJLHsnrSlcYmwuvb"
+    },
+    {
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
         "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
@@ -24,12 +64,144 @@
           "url": "https://open.spotify.com/artist/57wo2Em3UktCMqpCRK5pFv"
         }
       ],
-      "duration_ms": 248133,
-      "name": "In The Name Of",
-      "url": "https://open.spotify.com/track/4HN9ojfqPcGhgoPf3tDEYo"
+      "duration_ms": 140573,
+      "name": "Two Faced Castle",
+      "url": "https://open.spotify.com/track/6GHmxVpI3yHDyuFqHc01NB"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u82b1\u7530 \u5553\u592a\u6717",
+          "url": "https://open.spotify.com/artist/1rouXc6iBnQS4Xc27JY99Z"
+        }
+      ],
+      "duration_ms": 88186,
+      "name": "Nouveau Riche",
+      "url": "https://open.spotify.com/track/7hgz5zFXQj0ukl3QUXABR1"
+    },
+    {
+      "added_at": "2023-11-17 02:43:52",
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u9752\u6728 \u5343\u7d18",
+          "url": "https://open.spotify.com/artist/1D2ap5fmnmdRb5SWBxtoFz"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "I\u2019m Fading Away",
+      "url": "https://open.spotify.com/track/6N1imaUHeYFar4zMZM2hNj"
+    },
+    {
+      "added_at": "2023-11-17 02:43:52",
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u5c3e\u6c60 \u667a\u53f2",
+          "url": "https://open.spotify.com/artist/6uzmmp0fEZY2brLf0S54Ho"
+        }
+      ],
+      "duration_ms": 92080,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/7J1wA8eLKbUoT6wNbF37JX"
+    },
+    {
+      "added_at": "2023-11-17 02:43:52",
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u6c34\u91ce \u5065\u6cbb",
+          "url": "https://open.spotify.com/artist/5f9u63A1rfNgf5BBsnISqW"
+        }
+      ],
+      "duration_ms": 133053,
+      "name": "Reception at Coliseum",
+      "url": "https://open.spotify.com/track/3deWyw0vJNROgjP0KomsIN"
+    },
+    {
+      "added_at": "2023-11-17 02:43:52",
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u798f\u7530 \u907c",
+          "url": "https://open.spotify.com/artist/4uKqJoShYWfv5yrwjFlAi7"
+        }
+      ],
+      "duration_ms": 92253,
+      "name": "Good Taste",
+      "url": "https://open.spotify.com/track/1IDegbxxxHU4FBbyD7KRFw"
+    },
+    {
+      "added_at": "2023-11-17 02:43:52",
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp"
+        }
+      ],
+      "duration_ms": 308426,
+      "name": "SAYONARA Silent Night - Full Spec Edition",
+      "url": "https://open.spotify.com/track/12IUwXqHngfkifbdpkLavs"
+    },
+    {
+      "added_at": "2023-11-17 02:43:52",
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp"
+        }
+      ],
+      "duration_ms": 257265,
+      "name": "SHIN\uff65I\uff65CHI\uff65ZU\uff65ZAMURAI - Full Spec Edition",
+      "url": "https://open.spotify.com/track/65bYGJ2GyyxqOynZlgL182"
+    },
+    {
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "\u4e00\u756a\u6b4c",
         "url": "https://open.spotify.com/album/2H98HIfvUyuGMBJsB0OAVg"
@@ -49,27 +221,7 @@
       "url": "https://open.spotify.com/track/3KpKnheFsY52KFOSsLAk3C"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
-      "album": {
-        "name": "\u9f8d\u304c\u5982\u304f \u7dad\u65b0! \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
-        "url": "https://open.spotify.com/album/0KsRvbwK7YVhTn8GYPXaAx"
-      },
-      "artists": [
-        {
-          "name": "SEGA SOUND TEAM",
-          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
-        },
-        {
-          "name": "\u5e84\u53f8 \u82f1\u5fb3",
-          "url": "https://open.spotify.com/artist/5HOu40y4JzaPi68Juxb7gF"
-        }
-      ],
-      "duration_ms": 202846,
-      "name": "Receive You The Archetype",
-      "url": "https://open.spotify.com/track/4jHGBmn0GEwLF0KOrMQrXI"
-    },
-    {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "\u9f8d\u304c\u5982\u304f \u7dad\u65b0! \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
         "url": "https://open.spotify.com/album/37sbazjUwRXJ0d5mLUIoFH"
@@ -85,7 +237,7 @@
       "url": "https://open.spotify.com/track/1IFmX1oMmlI0Mru3OjozNE"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/6cI2wOigB9ve7pjNnTRAdL"
@@ -101,7 +253,7 @@
       "url": "https://open.spotify.com/track/038ibKsl5lpjWfP27cMfwv"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/6cI2wOigB9ve7pjNnTRAdL"
@@ -117,7 +269,7 @@
       "url": "https://open.spotify.com/track/0TMIymda8Ll0oNJSs4MmaR"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "GALAXY",
         "url": "https://open.spotify.com/album/7mwyKRv88venpHvwhTXF9j"
@@ -133,7 +285,7 @@
       "url": "https://open.spotify.com/track/2vETONR6Cg38Cutr15cm61"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "JINSEI KAKETE BOKU WA",
         "url": "https://open.spotify.com/album/5dWke9BKYdBq7YXbb7jrLC"
@@ -149,7 +301,7 @@
       "url": "https://open.spotify.com/track/30CenAPBR2VmH91r4Um32b"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "\u6e58\u5357\u4e43\u98a8 \u301cCOME AGAIN\u301c",
         "url": "https://open.spotify.com/album/0rfIbXcXQYQDslQw1cvNPh"
@@ -165,7 +317,7 @@
       "url": "https://open.spotify.com/track/7Kyh4musIxUJhuhOVgR60f"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "Kazuma Kiryu Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
         "url": "https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj"
@@ -181,23 +333,7 @@
       "url": "https://open.spotify.com/track/140e5u8qAM2IzhCyPqHfNG"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
-      "album": {
-        "name": "YAKUZA 6: THE SONG OF LIFE ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/0HMKppHnFphltdEzp3Sz7K"
-      },
-      "artists": [
-        {
-          "name": "\u6850\u751f \u4e00\u99ac(\u9ed2\u7530 \u5d07\u77e2)",
-          "url": "https://open.spotify.com/artist/0Vj7kpS0MofQRxTy1Getdn"
-        }
-      ],
-      "duration_ms": 212342,
-      "name": "hands - Full Spec Edition",
-      "url": "https://open.spotify.com/track/2kBo896zEH6RuI82OmLxAA"
-    },
-    {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "\u9f8d\u304c\u5982\u304f0 \u8a93\u3044\u306e\u5834\u6240 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Side A)",
         "url": "https://open.spotify.com/album/3WXNB1IEdCsW6zRLU4Kjt0"
@@ -221,7 +357,7 @@
       "url": "https://open.spotify.com/track/03VWoSbfWvZhRF5HXOxgX8"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "SUBWAY EXPRESS 2 (50th Anniversary Remastered)",
         "url": "https://open.spotify.com/album/28VMhd1eZ2ldWKUcOoYZjI"
@@ -237,39 +373,7 @@
       "url": "https://open.spotify.com/track/2I0WPizsVHeTWkB8GHSYCd"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
-      "album": {
-        "name": "\u9f8d\u304c\u5982\u304f\u6975 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/3OXykbM2OLQgTEXuq1iyKy"
-      },
-      "artists": [
-        {
-          "name": "\u6850\u751f \u4e00\u99ac(\u9ed2\u7530 \u5d07\u77e2)",
-          "url": "https://open.spotify.com/artist/0Vj7kpS0MofQRxTy1Getdn"
-        }
-      ],
-      "duration_ms": 279485,
-      "name": "TONIGHT-restart from this night- - Full Spec Edition",
-      "url": "https://open.spotify.com/track/1zjEnUbUuq7Kt1YzjQjZr4"
-    },
-    {
-      "added_at": "2023-11-08 15:00:00",
-      "album": {
-        "name": "\u9f8d\u304c\u5982\u304f OF THE END \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Volume2)",
-        "url": "https://open.spotify.com/album/3ekg0kdMqduIysdGxDA4DL"
-      },
-      "artists": [
-        {
-          "name": "SEGA SOUND TEAM",
-          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
-        }
-      ],
-      "duration_ms": 210591,
-      "name": "\u308f\u3059\u308c\u306a\u3044",
-      "url": "https://open.spotify.com/track/30FuMk37tWuBQ7BNKpR8pO"
-    },
-    {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "Kazuma Kiryu Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
         "url": "https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj"
@@ -285,7 +389,7 @@
       "url": "https://open.spotify.com/track/4xXu9UO2qdBotUOfqru2UC"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "GALAXY",
         "url": "https://open.spotify.com/album/7mwyKRv88venpHvwhTXF9j"
@@ -301,7 +405,7 @@
       "url": "https://open.spotify.com/track/4mwL32lnMsw2X9RIPqi5jZ"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "\u9f8d\u304c\u5982\u304f4 \u4f1d\u8aac\u3092\u7d99\u3050\u3082\u306e \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Volume2)",
         "url": "https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp"
@@ -317,7 +421,7 @@
       "url": "https://open.spotify.com/track/3g80KGbeo6QCuzKEGLAkPW"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "Ketsunopolis5",
         "url": "https://open.spotify.com/album/4ilbi6RzOeNicKIYbI00kJ"
@@ -333,7 +437,7 @@
       "url": "https://open.spotify.com/track/17c8p1kMZpogd4vhmrmrcC"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "Ryu ga gotoku Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
         "url": "https://open.spotify.com/album/3CDrfULuyQrpvM4SDCQuU6"
@@ -349,7 +453,7 @@
       "url": "https://open.spotify.com/track/22tEijyxz920RizPo8pMN2"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "YAKUZA LIKE A DRAGON ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/6cI2wOigB9ve7pjNnTRAdL"
@@ -365,7 +469,7 @@
       "url": "https://open.spotify.com/track/7vaUNjMhcOYvlO8SGgF50C"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "Ryu ga gotoku Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
         "url": "https://open.spotify.com/album/3CDrfULuyQrpvM4SDCQuU6"
@@ -381,7 +485,7 @@
       "url": "https://open.spotify.com/track/1n6eakU3mozez5M2F7HY1w"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "\u9f8d\u304c\u5982\u304f\u6975 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/3OXykbM2OLQgTEXuq1iyKy"
@@ -397,7 +501,7 @@
       "url": "https://open.spotify.com/track/1qfQpyJ6rPnYsWBG1R3LRj"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "\u9f8d\u304c\u5982\u304f4 \u4f1d\u8aac\u3092\u7d99\u3050\u3082\u306e \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Volume2)",
         "url": "https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp"
@@ -413,7 +517,7 @@
       "url": "https://open.spotify.com/track/0qmtwmjJIpHZyCSItymVqr"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "Goro Majima Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
         "url": "https://open.spotify.com/album/1aIDQgb9nklXl66X0C1Drc"
@@ -429,7 +533,7 @@
       "url": "https://open.spotify.com/track/5EMX5Ed9GIlhTuQTiU8hxc"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "\u9f8d\u304c\u5982\u304f0 \u8a93\u3044\u306e\u5834\u6240 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Side B)",
         "url": "https://open.spotify.com/album/10WPZVyYzxJBnn592ooY1u"
@@ -445,7 +549,7 @@
       "url": "https://open.spotify.com/track/1xt1FjDzNrTIGHTNwnQ4QB"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "\u9f8d\u304c\u5982\u304f5 \u5922\u3001\u53f6\u3048\u3057\u8005 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
         "url": "https://open.spotify.com/album/1acbItX6640Hn3nCC0sUAr"
@@ -465,7 +569,7 @@
       "url": "https://open.spotify.com/track/7d9SZZEOhF49sVaGRfPKv0"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "\u9f8d\u304c\u5982\u304f5 \u5922\u3001\u53f6\u3048\u3057\u8005 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
         "url": "https://open.spotify.com/album/1acbItX6640Hn3nCC0sUAr"
@@ -489,7 +593,7 @@
       "url": "https://open.spotify.com/track/2OPU1hw8yQoWAtTVTjrzNv"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "\u9f8d\u304c\u5982\u304f0 \u8a93\u3044\u306e\u5834\u6240 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Side B)",
         "url": "https://open.spotify.com/album/10WPZVyYzxJBnn592ooY1u"
@@ -509,7 +613,7 @@
       "url": "https://open.spotify.com/track/7519s7yaJNhvRV1QcVFfcn"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "\u9f8d\u304c\u5982\u304f5 \u5922\u3001\u53f6\u3048\u3057\u8005 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
         "url": "https://open.spotify.com/album/1acbItX6640Hn3nCC0sUAr"
@@ -533,7 +637,7 @@
       "url": "https://open.spotify.com/track/4KzwEBfoXQ3TgUCpVORmgg"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "\u9f8d\u304c\u5982\u304f4 \u4f1d\u8aac\u3092\u7d99\u3050\u3082\u306e \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Volume2)",
         "url": "https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp"
@@ -549,7 +653,7 @@
       "url": "https://open.spotify.com/track/3BMaKx6wNyIxMzJicTGbG8"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "\u9f8d\u304c\u5982\u304f4 \u4f1d\u8aac\u3092\u7d99\u3050\u3082\u306e \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Volume2)",
         "url": "https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp"
@@ -565,23 +669,7 @@
       "url": "https://open.spotify.com/track/3Ws4ohNQGBrVTHs2LHDztM"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
-      "album": {
-        "name": "\u9f8d\u304c\u5982\u304f4 \u4f1d\u8aac\u3092\u7d99\u3050\u3082\u306e \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Volume1)",
-        "url": "https://open.spotify.com/album/2jJC6auMHxikdCswfLAJns"
-      },
-      "artists": [
-        {
-          "name": "SEGA SOUND TEAM",
-          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
-        }
-      ],
-      "duration_ms": 209891,
-      "name": "For Faith",
-      "url": "https://open.spotify.com/track/7srBxCuuOUkZTvBhkJ6DXS"
-    },
-    {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "YES (50th Anniversary Remastered)",
         "url": "https://open.spotify.com/album/02MlLY7GeHVDXCSXyjUvWS"
@@ -597,7 +685,7 @@
       "url": "https://open.spotify.com/track/4ZdHdVHDpbZcXKEHoBwQge"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "Kazuma Kiryu Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
         "url": "https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj"
@@ -613,23 +701,7 @@
       "url": "https://open.spotify.com/track/5a6SBFado9c4MmKQlXnOR2"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
-      "album": {
-        "name": "Goro Majima Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
-        "url": "https://open.spotify.com/album/1aIDQgb9nklXl66X0C1Drc"
-      },
-      "artists": [
-        {
-          "name": "\u771f\u5cf6\u543e\u6717(\u5b87\u57a3\u79c0\u6210)",
-          "url": "https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn"
-        }
-      ],
-      "duration_ms": 316172,
-      "name": "GET TO THE TOP! - Remix OF THE END",
-      "url": "https://open.spotify.com/track/4AGBW4uky6MckcAWtVwyg8"
-    },
-    {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "\u9f8d\u304c\u5982\u304f5 \u5922\u3001\u53f6\u3048\u3057\u8005 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
         "url": "https://open.spotify.com/album/1acbItX6640Hn3nCC0sUAr"
@@ -653,7 +725,7 @@
       "url": "https://open.spotify.com/track/7a688ehMsOesi6RR6lNVQm"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "Black World/White Heat",
         "url": "https://open.spotify.com/album/3cFa32IThm0QOnid4cvsj9"
@@ -681,7 +753,7 @@
       "url": "https://open.spotify.com/track/17fzZod0jPS0RWsUJqzsNk"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "\u9f8d\u304c\u5982\u304f0 \u8a93\u3044\u306e\u5834\u6240 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Side B)",
         "url": "https://open.spotify.com/album/10WPZVyYzxJBnn592ooY1u"
@@ -697,23 +769,7 @@
       "url": "https://open.spotify.com/track/0fQv8Ok7Zp0MRFD2kvKvHA"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
-      "album": {
-        "name": "\u9f8d\u304c\u5982\u304f4 \u4f1d\u8aac\u3092\u7d99\u3050\u3082\u306e \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Volume1)",
-        "url": "https://open.spotify.com/album/2jJC6auMHxikdCswfLAJns"
-      },
-      "artists": [
-        {
-          "name": "SEGA SOUND TEAM",
-          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
-        }
-      ],
-      "duration_ms": 176540,
-      "name": "Receive and Bite You",
-      "url": "https://open.spotify.com/track/5V0nm46PQuRbl65hPX0aPg"
-    },
-    {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "A",
         "url": "https://open.spotify.com/album/043ZPXFPotTR0yjuQ7cCKf"
@@ -729,7 +785,7 @@
       "url": "https://open.spotify.com/track/77shkefXyUkPU45nis6XkK"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "\u30d0\u30d6\u30eb",
         "url": "https://open.spotify.com/album/1BLnyEzYSFlRMeeGJePkOP"
@@ -745,7 +801,7 @@
       "url": "https://open.spotify.com/track/5Pa2BpTFCW3QCXDWYqml9W"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "Goro Majima Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
         "url": "https://open.spotify.com/album/1aIDQgb9nklXl66X0C1Drc"
@@ -765,7 +821,7 @@
       "url": "https://open.spotify.com/track/6qjNszXxA6chVxq8ARWBCk"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "25th Anniversary BEST ALBUM \"GREATEST ANTHOLOGY\"",
         "url": "https://open.spotify.com/album/2bT5vw23kS7odJDy32HSNd"
@@ -781,39 +837,7 @@
       "url": "https://open.spotify.com/track/3x097zSgBwU3NlX9eFdRLk"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
-      "album": {
-        "name": "\u6e58\u5357\u4e43\u98a8 \u301c2023\u301c",
-        "url": "https://open.spotify.com/album/56fvIjP1swwRcNNTNPqJ2n"
-      },
-      "artists": [
-        {
-          "name": "Shonan No Kaze",
-          "url": "https://open.spotify.com/artist/70x6gPIjIhWtxjczooKl3p"
-        }
-      ],
-      "duration_ms": 312146,
-      "name": "Born to be WILD",
-      "url": "https://open.spotify.com/track/5ibgvjYvwzuA1guRMV1XuJ"
-    },
-    {
-      "added_at": "2023-11-08 15:00:00",
-      "album": {
-        "name": "\u9f8d\u304c\u5982\u304f\u6975 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/3OXykbM2OLQgTEXuq1iyKy"
-      },
-      "artists": [
-        {
-          "name": "\u6850\u751f \u4e00\u99ac(\u9ed2\u7530 \u5d07\u77e2)",
-          "url": "https://open.spotify.com/artist/0Vj7kpS0MofQRxTy1Getdn"
-        }
-      ],
-      "duration_ms": 232188,
-      "name": "\u610f\u5730\u685c2000 - Full Spec Edition",
-      "url": "https://open.spotify.com/track/28LKuw2CNTZ6y1xI6NDyhf"
-    },
-    {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "\u9f8d\u304c\u5982\u304f \u7dad\u65b0! \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
         "url": "https://open.spotify.com/album/37sbazjUwRXJ0d5mLUIoFH"
@@ -829,7 +853,7 @@
       "url": "https://open.spotify.com/track/5tSE70eZAUF10eH9GBfKDl"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "\u9f8d\u304c\u5982\u304f \u7dad\u65b0! \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
         "url": "https://open.spotify.com/album/37sbazjUwRXJ0d5mLUIoFH"
@@ -845,7 +869,7 @@
       "url": "https://open.spotify.com/track/035uuOzl46CUtesB5WKvXg"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "\u9f8d\u304c\u5982\u304f4 \u4f1d\u8aac\u3092\u7d99\u3050\u3082\u306e \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Volume2)",
         "url": "https://open.spotify.com/album/0TFUPjHC7uubOXRNdCzOOp"
@@ -861,7 +885,7 @@
       "url": "https://open.spotify.com/track/5gaoeg4XdKm8VcgXAi21ne"
     },
     {
-      "added_at": "2023-11-08 15:00:00",
+      "added_at": "2023-11-17 02:43:52",
       "album": {
         "name": "Goro Majima Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
         "url": "https://open.spotify.com/album/1aIDQgb9nklXl66X0C1Drc"

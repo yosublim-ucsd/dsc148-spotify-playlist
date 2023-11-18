@@ -4,7 +4,7 @@
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-100 songs - 5 hr 42 min
+101 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Atenti pebeta](https://open.spotify.com/track/4aLT7Jg103QAoZI9K3cS5I) | [La Fulana Tango](https://open.spotify.com/artist/0A4dBvTbLRuAFzBmiOhepA) | [Atenti pebeta](https://open.spotify.com/album/4Dvuv4RNoWSiv0kUQcpoCp) | 2:50 | 2023-08-11 |  |
 | [Balada para el](https://open.spotify.com/track/03fOQBpMpTkb5L2KBMuKv1) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Vientos del Sur](https://open.spotify.com/album/0yKgc464tz08rsNg709BE6) | 4:29 | 2021-12-03 | 2022-07-29 |
 | [Balada para el](https://open.spotify.com/track/7bgQHZYKli3IE0vI379Yso) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Vientos del Sur](https://open.spotify.com/album/1VzmZvoHSg9ecyFb9W3jaR) | 4:29 | 2022-07-08 | 2022-08-18 |
+| [Balada para el](https://open.spotify.com/track/1h4TqxxnNm24UGJeDRZu0P) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Vientos del Sur](https://open.spotify.com/album/7mPR2s0BKY9FLSAMfx7lL1) | 4:29 | 2023-08-11 |  |
 | [Balada para un Loco](https://open.spotify.com/track/7elVvHs5wE7rSvU3Slz6lo) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 5:37 | 2021-12-03 |  |
 | [Baldosa floja](https://open.spotify.com/track/3clM50Tz1GwVDXY3zqLaGl) | [Agustina Cirulnik](https://open.spotify.com/artist/2osnonnqTrIhJQVWRZ4J7u) | [Portal](https://open.spotify.com/album/0GqkkGEdfWT7ah9pWWpygr) | 2:56 | 2021-12-03 | 2022-07-29 |
 | [Baldosa Floja](https://open.spotify.com/track/38Umd4ALhVqbmvDSamftBR) | [Soledad Villamil](https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD) | [Canta](https://open.spotify.com/album/6PDbU5wE5nZCAkXVIuvVm8) | 2:10 | 2021-12-03 |  |
@@ -25,7 +26,7 @@
 | [Cafetín de Buenos Aires](https://open.spotify.com/track/36NEktz9d2npV7RojXQJNU) | [Virginia Luque](https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc) | [Virginia Luque Interpreta a Discépolo](https://open.spotify.com/album/3fHmSlpFfyNaP33X9CKYZF) | 3:30 | 2021-12-03 | 2022-07-28 |
 | [Canto de Amor](https://open.spotify.com/track/0kqiPmUKNjYmqy2MZjUU21) | [Luisina Mathieu](https://open.spotify.com/artist/7f6Rk0hZPT0CiiY2LgFKQz), [Amalia Escobar](https://open.spotify.com/artist/2GGAAknvnoewTg4PPmwRNL) | [Te Soñé](https://open.spotify.com/album/5vy5Gs4HozMUX8wKLaOGq1) | 3:22 | 2021-12-03 | 2022-07-29 |
 | [Caserón de Tejas](https://open.spotify.com/track/76iHnpsVxQwhKx9JYQ20Up) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Jorge Calandrelli](https://open.spotify.com/artist/3cjxn6Z8XrhJuuEcxxQHmm) | [María](https://open.spotify.com/album/7cA8YfWeBERZoGS55NIylD) | 4:10 | 2021-12-03 | 2022-07-29 |
-| [Caserón de Tejas \(feat\. Jorge Calandrelli\)](https://open.spotify.com/track/0Elfdj2gQ0Ib0h49kCKb2R) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Jorge Calandrelli](https://open.spotify.com/artist/3cjxn6Z8XrhJuuEcxxQHmm) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 4:10 | 2022-07-08 |  |
+| [Caserón de Tejas \(feat\. Jorge Calandrelli\)](https://open.spotify.com/track/0Elfdj2gQ0Ib0h49kCKb2R) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Jorge Calandrelli](https://open.spotify.com/artist/3cjxn6Z8XrhJuuEcxxQHmm) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 4:10 | 2022-07-08 | 2023-11-18 |
 | [Che bandoneon](https://open.spotify.com/track/2nNttXpVNiyEewXhZUTHNu) | [Susy Leiva](https://open.spotify.com/artist/4gRdLOmvGZUprym6lU6Xaz) | [Susy Leiva \- Grandes Exitos \-](https://open.spotify.com/album/2yeB0qqmekdprMgK6xF4mG) | 2:58 | 2021-12-03 | 2022-07-21 |
 | [Como Dos Extraños](https://open.spotify.com/track/6u14b3JnkqTc1W3hTLNtJ9) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Vuelve el Tango](https://open.spotify.com/album/6Ew5SpAE83uV8grDDawz5m) | 2:48 | 2021-12-03 |  |
 | [Confidencias](https://open.spotify.com/track/0Vu4EpjrI7g8m6r7DSlhcj) | [Mirta Uguet](https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O) | [Confidencias](https://open.spotify.com/album/0hbD19vNbfBDwO6XTujWSR) | 3:28 | 2021-12-03 | 2022-08-03 |

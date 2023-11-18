@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-369 songs - 1 day 4 hr 25 min
+370 songs - 1 day 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Black Crow](https://open.spotify.com/track/51zuwsjfn77J6NBQodv0WW) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [SuperBlue](https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe) | [Black Crow](https://open.spotify.com/album/08GqtDhcOftdywr5cL1Buv) | 3:34 | 2023-07-14 |  |
 | [Black Octopus](https://open.spotify.com/track/2cDgtkuxmABPn530SRo5bo) | [Brian Auger](https://open.spotify.com/artist/304senzcXGpWqcpssNpmXJ) | [Search Party](https://open.spotify.com/album/2X18R3tkxqnZgeoivKFKWa) | 3:51 | 2022-04-08 |  |
 | [Blood Chief \- Live in Studio](https://open.spotify.com/track/4cV7k8bph31wVkk74TbRCv) | [Whatitdo Archive Group](https://open.spotify.com/artist/0unbh6hstakLyzQ09UezhO) | [Live At: Archive Group Studios](https://open.spotify.com/album/0IENaoZTdX50sMypwcgD4H) | 3:18 | 2022-05-06 | 2023-09-30 |
+| [Blue Raz](https://open.spotify.com/track/6pnx7j90PjcBjW1zCLsOzK) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [SAM GREENFIELD RULES](https://open.spotify.com/album/5OtJfcbiA85pLR4X03GyOU) | 4:54 | 2023-11-17 |  |
 | [Blues 3+1](https://open.spotify.com/track/36GrhjwWLnKgkPdPt2ARhB) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Bluesmith](https://open.spotify.com/album/2SOx7jfiPndedYKj8HSZx5) | 4:52 | 2020-10-09 |  |
 | [Blues for Ben](https://open.spotify.com/track/5tfAI5PpUlO6wUBW17KYbG) | [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Skerik](https://open.spotify.com/artist/00uSjAOZMB626Y0W2ij3Md) | [All Kooked out!](https://open.spotify.com/album/6NnQ67dG6cM88SGs9W3fh7) | 4:59 | 2020-10-09 |  |
 | [Bonita Applebum \(Daylight\)](https://open.spotify.com/track/7lJUAQCxvZVIUA6W0UgnYT) | [Soul Supreme](https://open.spotify.com/artist/3EIBaQfCxQvOXkNh4rywTy) | [Award Tour \(We Gettin' Down\) / Bonita Applebum \(Daylight\)](https://open.spotify.com/album/6CEhge3xbNldIrK6czWdgR) | 4:04 | 2022-04-01 |  |
@@ -83,7 +84,7 @@
 | [Desert Rain](https://open.spotify.com/track/3BhIyhUaz8s4QeJqyWc6R5) | [Doug Carn](https://open.spotify.com/artist/1PWbiGBEBaiLJI0Lvhnoha), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Doug Carn JID005](https://open.spotify.com/album/2NECEnZwEaR6at7uEP8Kmj) | 3:47 | 2021-04-09 | 2023-04-29 |
 | [Desert Rain](https://open.spotify.com/track/3KfBhRPQ7AaxQYh6r1CAXw) | [Doug Carn](https://open.spotify.com/artist/1PWbiGBEBaiLJI0Lvhnoha), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Doug Carn JID005](https://open.spotify.com/album/7KGmy3wpG6ofn4ZC79Ih7W) | 3:47 | 2021-04-09 |  |
 | [Diamond Ring](https://open.spotify.com/track/0lmy3IKmljVgfvGB11T3Az) | [Jonah Nilsson](https://open.spotify.com/artist/3kjUc2BfNgd4fBUZf1Tkw5), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Diamond Ring](https://open.spotify.com/album/0MqCJJBWl1gVwgz2jeNK6G) | 5:08 | 2021-08-06 | 2023-04-22 |
-| [Dinky Doinky](https://open.spotify.com/track/201ZmH4WWYflWBpg2CJ8uc) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [Dinky Doinky](https://open.spotify.com/album/3ua0yfjr5aZfh7kOaEHja7) | 3:48 | 2023-09-29 |  |
+| [Dinky Doinky](https://open.spotify.com/track/201ZmH4WWYflWBpg2CJ8uc) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [Dinky Doinky](https://open.spotify.com/album/3ua0yfjr5aZfh7kOaEHja7) | 3:48 | 2023-09-29 | 2023-11-18 |
 | [Dirty Sunday](https://open.spotify.com/track/3x9RyZ3wghoQUKtPSnexTZ) | [Los Músicos De José](https://open.spotify.com/artist/4TmuqEtY8PysZouSgBKizd) | [Dirty Sunday](https://open.spotify.com/album/1oo2NZgtfmfnja68GzEVDe) | 4:01 | 2021-07-09 |  |
 | [Disconnections](https://open.spotify.com/track/2yi9iYn6gL9Rtg5DpTiYJX) | [Final Step](https://open.spotify.com/artist/278pNEL794WGvrxqTBfJDS) | [Disconnections](https://open.spotify.com/album/5I8Mdt715i0tGH2I2Gcw6l) | 5:34 | 2021-06-18 |  |
 | [Driving](https://open.spotify.com/track/6dT65xQ9mLooOD9or4oWvX) | [Riot Jazz Brass Band](https://open.spotify.com/artist/1txSIgiNjE6LpvkxP7sYyP) | [Driving](https://open.spotify.com/album/5BRGf4KjeBFPG7WpPAgxxH) | 3:06 | 2023-01-27 | 2023-11-11 |

@@ -4,7 +4,7 @@
 
 > Sitar, flute, and sounds inspired by India.
 
-170 songs - 12 hr 18 min
+173 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Dance with the Gods](https://open.spotify.com/track/2CbuXkrjjd5SlbleoqUKhB) | [Mystic Flute](https://open.spotify.com/artist/6M39PKc1oDclJBcQVpOgyc) | [Vaayu \- Elemental Indian Bamboo Flute](https://open.spotify.com/album/7cNbb370gpMoNVvgKgTOJ7) | 10:59 | 2022-04-04 | 2023-02-10 |
 | [Dark to Light](https://open.spotify.com/track/6OTMqCpaAzJXu8TuR1ou2p) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Indigo Sky](https://open.spotify.com/album/10s61p3x4e2Y3wBR7kgQz5) | 3:44 | 2022-10-08 | 2023-10-05 |
 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 | 2022-04-04 |  |
-| [Daydreaming \(feat\. Nils Frahm\)](https://open.spotify.com/track/08IQgQca4bYkWRWAhHon0K) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Daydreaming \(feat\. Nils Frahm\)](https://open.spotify.com/album/06SvUgsMwpMaYc4MEXN7dU) | 3:41 | 2023-10-04 |  |
+| [Daydreaming \(feat\. Nils Frahm\)](https://open.spotify.com/track/08IQgQca4bYkWRWAhHon0K) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Daydreaming \(feat\. Nils Frahm\)](https://open.spotify.com/album/06SvUgsMwpMaYc4MEXN7dU) | 3:41 | 2023-10-04 | 2023-11-18 |
+| [Daydreaming \(feat\. Nils Frahm\)](https://open.spotify.com/track/1wr7KOai1oBNM8XuIvmL2A) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Daydreaming \(feat\. Nils Frahm\)](https://open.spotify.com/album/4ersWcNSeusxCiIkF4kcWW) | 3:41 | 2023-11-17 |  |
 | [Dervish Dream](https://open.spotify.com/track/3hGwUpndi1F8yEISLTJ0oH) | [Karunesh](https://open.spotify.com/artist/4M6YdvdCPW1fvQYbLwmNWZ) | [Colors of the East](https://open.spotify.com/album/2txU1Fihy0kyBEZHBYvp16) | 5:54 | 2022-04-04 |  |
 | [Designated Solitude](https://open.spotify.com/track/1KD5sDTDCSj2yPBh3OxQ1i) | [Sight of Wonders](https://open.spotify.com/artist/4TVuWsAEx3S4UnsJhA7QYD) | [Designated Solitude](https://open.spotify.com/album/1DDlDMpNFef0ksiYQCZ6j4) | 3:03 | 2022-04-04 |  |
 | [Dharawi Nights](https://open.spotify.com/track/7J0ZO7IO5rcPG5cbTWoRuF) | [Secretpath](https://open.spotify.com/artist/3CgMjC9kBPZPgUZEmcjsnU) | [Dharawi Nights](https://open.spotify.com/album/1ZVSgPi74n655eUn8cXdGI) | 3:57 | 2022-04-04 |  |
@@ -82,6 +83,7 @@
 | [Koodu Beat](https://open.spotify.com/track/3eWSufYeo9lVW9QvorDuPz) | [Qalander](https://open.spotify.com/artist/1fgzNEfvwvl89CVNprnohN) | [Koodu Beat](https://open.spotify.com/album/2HMB79pfnDfhWUtC3uosfV) | 3:35 | 2022-04-04 |  |
 | [Kramina](https://open.spotify.com/track/3W5kk8r0aKHUN5QwOIy7qh) | [Bahn Kramina](https://open.spotify.com/artist/3fBzknNOKdMhLJ0oSuYMqA) | [Mountains](https://open.spotify.com/album/5BPUrS4ypZSS836CGQ75mp) | 2:59 | 2022-12-09 |  |
 | [Krishna's Bansuri](https://open.spotify.com/track/5UkTQNURKXrJ0lKRns4Vxi) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0), [Vedic Moon](https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7) | [Krishna's Bansuri](https://open.spotify.com/album/2AqZxQZwDWHCcFbLqrPunj) | 3:53 | 2023-07-13 |  |
+| [Krishna's Dance](https://open.spotify.com/track/7az5T72uDzzrEu01KzlnS1) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0), [Vedic Moon](https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7) | [Krishna's Dance](https://open.spotify.com/album/4jLl0JHr0WTg2MBjRFCP06) | 3:53 | 2023-11-17 |  |
 | [Lakshmi](https://open.spotify.com/track/6WZEQkILxxdTFQkeIoRCkr) | [Palace on Wheels](https://open.spotify.com/artist/0uZC41CwMO6fAbyQQzmjcv) | [Mahadevi](https://open.spotify.com/album/4KxdcRgJnuuiZllTc1sFMQ) | 4:52 | 2023-11-10 |  |
 | [Let Go](https://open.spotify.com/track/25zCv1s82H8p5ZeK5XiVJ9) | [Tabla Trance](https://open.spotify.com/artist/0oQittCs5XPUfsdhUI5SAw) | [Let Go](https://open.spotify.com/album/1i7rkhXIJjHhSt2mJAQ8zq) | 2:48 | 2023-06-23 |  |
 | [Lok Samastha \- Instrumental Version](https://open.spotify.com/track/4l3rzdMhFlvk48wCQhAqyN) | [Pawan Krishna](https://open.spotify.com/artist/7MYonYhUeKuW4KKXg3EJ1O) | [Indigo Sky](https://open.spotify.com/album/10s61p3x4e2Y3wBR7kgQz5) | 2:44 | 2022-10-08 | 2023-10-05 |
@@ -100,6 +102,7 @@
 | [Mother's Wingspan](https://open.spotify.com/track/1AkzLojIonXnbbwujQZofk) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX) | [Devotion Collection 1 \- Blessings of the Heart](https://open.spotify.com/album/02CVgMWdeo6X7VfqajyEry) | 8:33 | 2022-04-04 | 2022-07-29 |
 | [Mother's Wingspan](https://open.spotify.com/track/2InC8TNlBd9N5E0leI2l8G) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/5sl94ANcRPBvU2jfOe01Ub) | 8:33 | 2022-10-08 |  |
 | [Mother's Wingspan](https://open.spotify.com/track/58j7x742K2P6jhthofQwBp) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/3vERpdSCKMGDzreizY178B) | 8:33 | 2022-07-18 | 2022-10-13 |
+| [My Temple](https://open.spotify.com/track/5hbUbPjNhuuZBFKq5sOlDW) | [Vidisha Sira](https://open.spotify.com/artist/5yPHyhOu41VKZG1M5vdT7R) | [My Temple](https://open.spotify.com/album/314Lzl95NfhTmtAaDhH176) | 2:33 | 2023-11-17 |  |
 | [Mystery Location Chillgroove](https://open.spotify.com/track/3aN9QVC2KQycHnnk9KjFUl) | [Tanpura Express](https://open.spotify.com/artist/7hPMJKe8pUwG21kfjZToqS) | [Mystery Location Chillgroove](https://open.spotify.com/album/2w330uz5CPBGTkzFs9gO6e) | 1:58 | 2022-04-04 | 2023-07-29 |
 | [Mystiqal](https://open.spotify.com/track/3BHlTxvHcHkyPG5X7MXiaN) | [Vugh Gardens](https://open.spotify.com/artist/1HxBL3Ls3YdMjJjFCzqEm6) | [Mystiqal](https://open.spotify.com/album/5n0SyqxC9Tv3q8KrjNJNKC) | 3:28 | 2022-04-04 |  |
 | [Naked](https://open.spotify.com/track/7KoXzM3IboDJxRl7DXIT7y) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Rise](https://open.spotify.com/album/5v2AgCxdfQlVcoXQ0QQEoP) | 4:16 | 2022-04-04 | 2023-08-25 |

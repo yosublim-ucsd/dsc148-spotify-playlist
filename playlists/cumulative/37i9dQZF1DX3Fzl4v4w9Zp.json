@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: Allison Russell",
+  "description": "Keep your finger on the pulse of Americana. Cover: The War & Treaty",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -756,6 +756,28 @@
       "duration_ms": 197145,
       "name": "Back to You",
       "url": "https://open.spotify.com/track/0nf0prxGiJlvNomPmYxe86"
+    },
+    {
+      "album": {
+        "name": "Crossing Lines",
+        "url": "https://open.spotify.com/album/0iXQJDkspV7JKEcpm6G1uu"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232763,
+      "name": "Beautiful Lies",
+      "url": "https://open.spotify.com/track/4CJQwcIon6uKc3gfIivuhS"
     },
     {
       "album": {
@@ -3432,7 +3454,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 197426,
       "name": "Hands To Myself",
       "url": "https://open.spotify.com/track/6reRI1DvoOPCWJjHSpJADD"
@@ -4806,7 +4828,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 233840,
       "name": "Joy Train",
       "url": "https://open.spotify.com/track/4w5iyFl701rTcsw8VFenfe"
@@ -5194,6 +5216,24 @@
       "duration_ms": 176232,
       "name": "Letting People Down",
       "url": "https://open.spotify.com/track/2pFFjOgqqpNEVSi9ks7xyo"
+    },
+    {
+      "album": {
+        "name": "Life Lessons",
+        "url": "https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195505,
+      "name": "Life Lessons",
+      "url": "https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM"
     },
     {
       "album": {
@@ -6064,7 +6104,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 161666,
       "name": "Night After Night",
       "url": "https://open.spotify.com/track/5CL6QLlz3pLtZg5T0EeNbS"
@@ -6602,7 +6642,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 192670,
       "name": "Paranoid Heart",
       "url": "https://open.spotify.com/track/3ZUsOcc2xcgSXDMWx1zned"
@@ -6638,7 +6678,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 303836,
       "name": "Parted Ways - Acoustic Version",
       "url": "https://open.spotify.com/track/6xySuu99uUYsziFbBxSLYQ"
@@ -6862,7 +6902,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 181498,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
@@ -8595,6 +8635,24 @@
     },
     {
       "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222326,
+      "name": "The Garden - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/57mPJPpQCVS7bisURsmrJZ"
+    },
+    {
+      "album": {
         "name": "It's Gonna Be a Long Night",
         "url": "https://open.spotify.com/album/4xeuhyLufa4YRXhkCxhY19"
       },
@@ -10033,6 +10091,24 @@
     },
     {
       "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169243,
+      "name": "Winter's Come and Gone - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/7vN6yDVTOphQUXJ1leQgPB"
+    },
+    {
+      "album": {
         "name": "Wise River",
         "url": "https://open.spotify.com/album/6mO5zwMf0C8msEZSP8P05P"
       },
@@ -10066,6 +10142,24 @@
       "duration_ms": 204248,
       "name": "Wish for You",
       "url": "https://open.spotify.com/track/3vcWkX0FKNN2bMuFVsSCVi"
+    },
+    {
+      "album": {
+        "name": "Wondering Why",
+        "url": "https://open.spotify.com/album/5WtlaMCff9QS0I76EE7lge"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232917,
+      "name": "Wondering Why",
+      "url": "https://open.spotify.com/track/158mZIMC4X58ZJK4fJfH1b"
     },
     {
       "album": {

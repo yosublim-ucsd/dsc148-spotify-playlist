@@ -429,6 +429,28 @@
     },
     {
       "album": {
+        "name": "Afropaty",
+        "url": "https://open.spotify.com/album/5fOaa75x89O1eBzazgjGu7"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Afropaty",
+      "url": "https://open.spotify.com/track/3MtyP815SMmI3bMeLnxDWB"
+    },
+    {
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
@@ -1469,6 +1491,36 @@
     },
     {
       "album": {
+        "name": "BANDIDONA",
+        "url": "https://open.spotify.com/album/3le9u1jM09SXaQY0HyeEpK"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "DJ Biel do Furduncinho",
+          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "BANDIDONA",
+      "url": "https://open.spotify.com/track/70t5xVFE5WJcg80wklPbcX"
+    },
+    {
+      "album": {
         "name": "Bandit (with YoungBoy Never Broke Again)",
         "url": "https://open.spotify.com/album/3t6Z2qoBVCS4NHNI25XECH"
       },
@@ -2324,7 +2376,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 203713,
       "name": "Carta Aberta",
       "url": "https://open.spotify.com/track/69Q81hch5PAcKbqAXuFfej"
@@ -3876,7 +3928,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 163569,
       "name": "f:)da-se",
       "url": "https://open.spotify.com/track/2UBAm99YG2MubgLymHqXOl"
@@ -6369,6 +6421,24 @@
     },
     {
       "album": {
+        "name": "NOVA ERA Part. I",
+        "url": "https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188976,
+      "name": "Mal\u00edcia",
+      "url": "https://open.spotify.com/track/2QZ1rsYyn93YttD5SlybTh"
+    },
+    {
+      "album": {
         "name": "MAMA.CITA (hasta la vista)",
         "url": "https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX"
       },
@@ -7744,6 +7814,24 @@
       "duration_ms": 167076,
       "name": "Nu",
       "url": "https://open.spotify.com/track/74myq4QbO9E8bTtLQuOWYY"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o consigo ir embora",
+        "url": "https://open.spotify.com/album/206GxB67tKFcuG70Sg9tr8"
+      },
+      "artists": [
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116571,
+      "name": "N\u00e3o consigo ir embora",
+      "url": "https://open.spotify.com/track/5OLUTfWPXyMGL696s54mnW"
     },
     {
       "album": {
@@ -11518,7 +11606,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 171536,
       "name": "S\u00f3 Minha",
       "url": "https://open.spotify.com/track/5MWedCrdHFDo0LA9CA6Giz"
@@ -11784,7 +11872,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 195066,
       "name": "Tenemos que hablar - Real Magic",
       "url": "https://open.spotify.com/track/4wjURqSdOtZKt4qlQeioFJ"

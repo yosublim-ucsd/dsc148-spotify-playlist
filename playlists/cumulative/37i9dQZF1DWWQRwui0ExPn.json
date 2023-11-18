@@ -62961,6 +62961,24 @@
     },
     {
       "album": {
+        "name": "Lunar Lull",
+        "url": "https://open.spotify.com/album/3seI3wUvZuOd2atIYTu5Th"
+      },
+      "artists": [
+        {
+          "name": "Pi Teddy",
+          "url": "https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121463,
+      "name": "Lunar Lull",
+      "url": "https://open.spotify.com/track/5ffzlptK9U9oGU2h8H9mPl"
+    },
+    {
+      "album": {
         "name": "Lunar Walk",
         "url": "https://open.spotify.com/album/4QLZmgAZNL2SIzgn1L4XhB"
       },
@@ -68060,7 +68078,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 135000,
       "name": "Monogatari",
       "url": "https://open.spotify.com/track/7JF6UFBq1v7ryBWrxR7lwd"
@@ -102286,7 +102304,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 117073,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/2KVNiKawbApJZVsB5FFREq"
@@ -119426,6 +119444,24 @@
       "duration_ms": 164598,
       "name": "With You Again",
       "url": "https://open.spotify.com/track/28k2wGIJwENhGFt61KFJIo"
+    },
+    {
+      "album": {
+        "name": "With your eyes!",
+        "url": "https://open.spotify.com/album/2WomwpHMSA6E2yrMSEJxCI"
+      },
+      "artists": [
+        {
+          "name": "Duos On Mars",
+          "url": "https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149815,
+      "name": "With your eyes!",
+      "url": "https://open.spotify.com/track/1USmYJcOKa94oA58sRnOXJ"
     },
     {
       "album": {

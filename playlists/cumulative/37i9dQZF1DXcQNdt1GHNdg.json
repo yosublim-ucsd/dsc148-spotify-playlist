@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 167142,
       "name": "Court",
       "url": "https://open.spotify.com/track/1weINSMgJOVHx4apkdMr1C"
@@ -867,7 +867,7 @@
         },
         {
           "name": "Azaad",
-          "url": "https://open.spotify.com/artist/21wSW3l3ykp9cMOkbfMbQo"
+          "url": "https://open.spotify.com/artist/1OyC6DVO89fCq0vDtDwBj4"
         }
       ],
       "date_added": "2023-07-18",
@@ -1162,6 +1162,32 @@
       "duration_ms": 152608,
       "name": "Wait & Watch (From \"Babbar\")",
       "url": "https://open.spotify.com/track/6ryOGfMaBty1cmkiJt9Qzz"
+    },
+    {
+      "album": {
+        "name": "Watch Out",
+        "url": "https://open.spotify.com/album/11tfAS197RiPG4po110Tre"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "Sikander Kahlon",
+          "url": "https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236168,
+      "name": "Watch Out",
+      "url": "https://open.spotify.com/track/3ZzUOWnQuNxenx2MbZqtYq"
     },
     {
       "album": {

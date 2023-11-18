@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 244589,
+  "num_followers": 245010,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWY5ZThiNTkzMzAzNmNkYzRlY2FlNmRlNDA4NmNjMzE1YmU3Yzhl",
+  "snapshot_id": "MCw1NDc4NjlhOTI5NTEwMDk2MzIxYzVlODg2MjBkN2E3NjYwNGY0NzAz",
   "tracks": [
     {
       "added_at": "2023-11-10 11:30:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-11-10 11:30:00",
       "album": {
-        "name": "Inside My Head",
-        "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
-      },
-      "artists": [
-        {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
-        }
-      ],
-      "duration_ms": 419164,
-      "name": "Inside My Head",
-      "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
-    },
-    {
-      "added_at": "2023-11-10 11:30:00",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/3hxZY3I3EEj1IriFow919T"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 400172,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/4N8P1RCABm0BBiTKCRThTh"
+    },
+    {
+      "added_at": "2023-11-10 11:30:00",
+      "album": {
+        "name": "Inside My Head",
+        "url": "https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "duration_ms": 419164,
+      "name": "Inside My Head",
+      "url": "https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB"
     },
     {
       "added_at": "2023-11-10 11:30:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-11-10 11:30:00",
       "album": {
-        "name": "About My Dreams",
-        "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
-      },
-      "artists": [
-        {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "About My Dreams",
-      "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
-    },
-    {
-      "added_at": "2023-11-10 11:30:00",
-      "album": {
         "name": "Roll the Dice",
         "url": "https://open.spotify.com/album/01gHHJybHczwlyVZqwvCSZ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 276357,
       "name": "Roll the Dice",
       "url": "https://open.spotify.com/track/4WPdis6kH2iI0a7zXpmUfW"
+    },
+    {
+      "added_at": "2023-11-10 11:30:00",
+      "album": {
+        "name": "About My Dreams",
+        "url": "https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "About My Dreams",
+      "url": "https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn"
     },
     {
       "added_at": "2023-11-10 11:30:00",

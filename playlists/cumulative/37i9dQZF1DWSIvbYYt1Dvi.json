@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "hungria \u00e9 AULAS ",
+  "description": "brime \u00e9 AULAS ",
   "name": "AULAS",
   "tracks": [
     {
@@ -248,7 +248,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 324473,
       "name": "A Divina Com\u00e9dia 3",
       "url": "https://open.spotify.com/track/15jaB4U3dPbSoxoj1dIRNb"
@@ -1006,6 +1006,60 @@
       "duration_ms": 386658,
       "name": "Boombap Gold",
       "url": "https://open.spotify.com/track/60FUbcsCoJB5GyYsFkvpZm"
+    },
+    {
+      "album": {
+        "name": "BRIME! (Deluxe)",
+        "url": "https://open.spotify.com/album/7x8LGjA3UHinpeu3S8yXUY"
+      },
+      "artists": [
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        },
+        {
+          "name": "Sodomita",
+          "url": "https://open.spotify.com/artist/3Cp40adI2d1cngPRDC1kX2"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "VND",
+          "url": "https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP"
+        },
+        {
+          "name": "Well",
+          "url": "https://open.spotify.com/artist/7byATPeaNnI0hs8T0Z0Qli"
+        },
+        {
+          "name": "Mirral ONE",
+          "url": "https://open.spotify.com/artist/3a4dqCPvI8aisuZL1XzYN2"
+        },
+        {
+          "name": "Ravi Lobo",
+          "url": "https://open.spotify.com/artist/3lX9FCkrHIdj4RZwWRtBXW"
+        },
+        {
+          "name": "Pivete Nobre",
+          "url": "https://open.spotify.com/artist/26bQwhpZ9s1feRnvyLLV1D"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428571,
+      "name": "BRIMEVISION (feat. Sodomita, SD9, VND, Well, Mirral ONE, Ravi Lobo & Pivete Nobre)",
+      "url": "https://open.spotify.com/track/1brdvsMJDwOCrsLsNjC7By"
     },
     {
       "album": {

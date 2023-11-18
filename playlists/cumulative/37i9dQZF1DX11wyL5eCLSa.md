@@ -2,9 +2,9 @@
 
 ### [EL ROCK NO HA MUERTO](https://open.spotify.com/playlist/37i9dQZF1DX11wyL5eCLSa)
 
-> Sangre fresca en las escenas del indie y el rock\. Jay de la Cueva en Portada.
+> Sangre fresca en las escenas del indie y el rock\. Jonaz en Portada.
 
-375 songs - 22 hr 44 min
+377 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Luces y Colores](https://open.spotify.com/track/19ghWfVSY6IYt6Q1vXnm2L) | [Viajeros Äcidos](https://open.spotify.com/artist/1QTEjmsa763gkfiieZyunB) | [Luces y Colores](https://open.spotify.com/album/4N5Js5cEfwV2l4Xk3ebQN2) | 4:03 | 2022-08-19 | 2022-09-03 |
 | [Luciana](https://open.spotify.com/track/1btgrD66tOkrj6C8NjnCWs) | [Los Flakos](https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah) | [Flotador](https://open.spotify.com/album/2YhGmP5XIC2uMBfmuFK2M6) | 3:17 | 2022-09-28 | 2022-12-17 |
 | [Lunedad](https://open.spotify.com/track/48fTQdTObHQn1NjY4ftQk0) | [Hueso Colorado](https://open.spotify.com/artist/2xdzVFCqT6qAaKObPiH59W), [Caro Valenzuela](https://open.spotify.com/artist/1FnofQUJuuKmigKaan0XT3) | [Eva](https://open.spotify.com/album/2zb3I1hIU1kUHfoejnKOB6) | 3:08 | 2023-06-30 |  |
+| [Lxs Vampirxs](https://open.spotify.com/track/7BdvEr27dk6v2X8OY2ZPi0) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Lxs Vampirxs](https://open.spotify.com/album/7BzIXzDZRnFZEHo1OfYsfy) | 2:29 | 2023-11-17 |  |
 | [Mal Negocio](https://open.spotify.com/track/1cwTYi0DRI0QfCfYUImTE9) | [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [Mal Negocio](https://open.spotify.com/album/1xPDCNo9ghP9xoCthbcvbn) | 3:22 | 2023-11-10 |  |
 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 | 2023-03-31 | 2023-10-21 |
 | [Manía Cardiaca](https://open.spotify.com/track/7rhKh1Ool2Yel5JXmiemZB) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [El Segundo Es Felino](https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe) | 4:08 | 2021-12-17 | 2022-04-23 |
@@ -255,7 +256,7 @@
 | [No](https://open.spotify.com/track/5WtamSoWfV3Zj2NKMSTGhy) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [No](https://open.spotify.com/album/63zjSmsePSeevbbaSB80Ga) | 3:44 | 2021-12-17 | 2022-07-12 |
 | [No Digas Nada](https://open.spotify.com/track/6YiWdUMnMUJ84Ik9JUG7NL) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [No Digas Nada](https://open.spotify.com/album/11oUQbgiKOlQopjkZhvp5Z) | 4:07 | 2023-09-01 |  |
 | [No Estoy](https://open.spotify.com/track/1kP5YGbeWnYLVlWbuX6rLG) | [Kinder Malo](https://open.spotify.com/artist/1Aoj8qX6kPfLTagb7qbKg0) | [No Estoy](https://open.spotify.com/album/1O776s0DpVKXrEvv2k5MVg) | 2:33 | 2023-05-19 | 2023-06-24 |
-| [No les Dire La verdad](https://open.spotify.com/track/2kVAt63gbF3zsZeNVg9dRo) | [Ceci Bastida](https://open.spotify.com/artist/7xKtg8mN9eQ8jBiLRnbq8U) | [Every Thing Taken Away](https://open.spotify.com/album/0uPQPiLFNbIUuRJA02soOs) | 2:56 | 2023-10-13 |  |
+| [No les Dire La verdad](https://open.spotify.com/track/2kVAt63gbF3zsZeNVg9dRo) | [Ceci Bastida](https://open.spotify.com/artist/7xKtg8mN9eQ8jBiLRnbq8U) | [Every Thing Taken Away](https://open.spotify.com/album/0uPQPiLFNbIUuRJA02soOs) | 2:56 | 2023-10-13 | 2023-11-18 |
 | [No Me Impulses a Ser Así](https://open.spotify.com/track/2QtUidiBF0jjlejAyNNDAm) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [No Me Impulses a Ser Así](https://open.spotify.com/album/5sQiPEkdWXYChUHdO6uos4) | 2:32 | 2023-03-03 | 2023-09-23 |
 | [No Olvidamos](https://open.spotify.com/track/5RBuyILfyRzNEQecmDVweI) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [No Olvidamos](https://open.spotify.com/album/26kvfgqmq2SoSBw1Kh1x76) | 4:34 | 2022-04-09 | 2022-08-10 |
 | [No Puede Parar De Soñar](https://open.spotify.com/track/7ujRdKjA7G7QvFkq0YV0dO) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7), [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [No Puede Parar De Soñar](https://open.spotify.com/album/5BmtSXjM8FVLNGVWGz63z8) | 3:17 | 2023-07-14 |  |
@@ -294,7 +295,7 @@
 | [Pronto](https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [Pronto](https://open.spotify.com/album/6EfoITktkpVnCNs8VjxLNl) | 3:19 | 2023-01-27 | 2023-02-19 |
 | [Pulitzer](https://open.spotify.com/track/2iscOVkAkT0a51h0IAtZHf) | [Onyricats](https://open.spotify.com/artist/5jkxhCPVAKnHBSGxS9wSyn) | [Pulitzer](https://open.spotify.com/album/3PPCTscj18LHjbpuWFCvvF) | 4:23 | 2023-02-24 | 2023-03-11 |
 | [Punk](https://open.spotify.com/track/28fb2X931nhjyCHMKbNOPt) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Punk](https://open.spotify.com/album/0ALZJahmwF0u1AReCWtiZP) | 3:13 | 2022-02-11 | 2023-06-24 |
-| [Que fue lo que Pasó](https://open.spotify.com/track/6e705fkOBUYIBAe7MVczDD) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Que fue lo que Pasó](https://open.spotify.com/album/52lw9gZ6CxwOj0KLt5aJEW) | 3:29 | 2023-09-29 |  |
+| [Que fue lo que Pasó](https://open.spotify.com/track/6e705fkOBUYIBAe7MVczDD) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Que fue lo que Pasó](https://open.spotify.com/album/52lw9gZ6CxwOj0KLt5aJEW) | 3:29 | 2023-09-29 | 2023-11-18 |
 | [Quería Olvidarte](https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Quería Olvidarte](https://open.spotify.com/album/1epND6FkZBn8fueQXMX32w) | 2:46 | 2023-03-10 |  |
 | [Quisiera Saber \(with Natalia Lafourcade\)](https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg) | [Los Daniels](https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [A Casa](https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll) | 3:29 | 2021-12-17 |  |
 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 | 2023-03-24 | 2023-06-24 |
@@ -371,6 +372,7 @@
 | [Vespa](https://open.spotify.com/track/7INcpSg0DEDdtm5DWmmYX9) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Vespa](https://open.spotify.com/album/2map2oGnNT48ExwHCy5juA) | 3:29 | 2022-07-29 | 2022-08-10 |
 | [Visita](https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 | 2021-12-17 | 2023-06-24 |
 | [vitaminas](https://open.spotify.com/track/1uQTZD3fC0WJJW9mogGS13) | [Diego Andlovin](https://open.spotify.com/artist/1chJuOnLfskX7vm5iIXZJ7), [Chavo Cherry](https://open.spotify.com/artist/7ekjgkRxIUo3QGSvcYaX63) | [vitaminas](https://open.spotify.com/album/6wsL8YTGACwO0A8owjdQEv) | 3:15 | 2022-05-08 | 2022-06-03 |
+| [vivo del aire](https://open.spotify.com/track/3tHNE5g3k7553UMCix0fwX) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [vivo del aire](https://open.spotify.com/album/3Pa0BLpFOK8hVg9KqTq035) | 2:48 | 2023-11-17 |  |
 | [VOID](https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [VOID](https://open.spotify.com/album/5KidTGNtKDsqsItKqUcG9V) | 3:19 | 2023-05-19 | 2023-06-24 |
 | [Vueltas](https://open.spotify.com/track/27yF4FbBzJ2vy65aqNdCTm) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Vueltas](https://open.spotify.com/album/4yK2y4i9chYEAEwzn1fzSx) | 3:32 | 2023-07-07 |  |
 | [Vuelve A Empezar Sin Mí](https://open.spotify.com/track/7DWdZdw7Rshp7b8LqRB9x4) | [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [Vuelve A Empezar Sin Mí](https://open.spotify.com/album/2IFmsvDIWtDE9e7lCUT7bi) | 4:01 | 2023-03-10 | 2023-05-19 |

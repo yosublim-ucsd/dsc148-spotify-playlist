@@ -4,7 +4,7 @@
 
 > Thunder is coming.
 
-99 songs - 11 hr 21 min
+100 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Captured Moments](https://open.spotify.com/track/4ckmG9O7QH2qNA67QbDzjk) | [Collapse Under The Empire](https://open.spotify.com/artist/34OB6veglJfOx8CzSsu0XY) | [Find a Place to Be Safe](https://open.spotify.com/album/7xnGXpy5HE5AbAgshq0wGw) | 4:25 | 2020-10-20\* |  |
 | [Ce que révèle l'éclipse](https://open.spotify.com/track/32ALgQvmpOXfIIPMRDBXG9) | [L'Effondras](https://open.spotify.com/artist/7MlGEYuOaC0SzJmAuvjZ4y) | [Stellar Frequencies Sessions](https://open.spotify.com/album/1Sz7eNhtBzBrhpU1xE3061) | 10:17 | 2022-09-30 | 2023-10-20 |
 | [Children](https://open.spotify.com/track/6lgUuPNqAPnihWXs66mRVP) | [sleepmakeswaves](https://open.spotify.com/artist/0EnDtiDrCgklr97QMJOSPv) | [Children](https://open.spotify.com/album/54HUczZ6IE8t8rrDuhWLaE) | 4:34 | 2023-10-19 |  |
-| [Colors In Stereo](https://open.spotify.com/track/2ThL97UJtUQwqZHpgtkktm) | [Moonlit Sailor](https://open.spotify.com/artist/3YX8jgxBqkl30HXjazVXXU) | [Colors In Stereo](https://open.spotify.com/album/6QWZgvK9Gid1Nu8w3rLfCx) | 3:39 | 2020-10-20\* |  |
+| [Colors In Stereo](https://open.spotify.com/track/2ThL97UJtUQwqZHpgtkktm) | [Moonlit Sailor](https://open.spotify.com/artist/3YX8jgxBqkl30HXjazVXXU) | [Colors In Stereo](https://open.spotify.com/album/6QWZgvK9Gid1Nu8w3rLfCx) | 3:39 | 2020-10-20\* | 2023-11-18 |
 | [Coolverine](https://open.spotify.com/track/0h0smRHEjrkSFUhNWQh8SR) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Coolverine](https://open.spotify.com/album/4VbkhUhlZDvaxqXadIdtjk) | 6:16 | 2020-10-20\* | 2021-02-19 |
 | [Darkfield](https://open.spotify.com/track/2aovLXeN9SYnqKKs4LA8BK) | [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [Darkfield](https://open.spotify.com/album/7KAOFjxkdtA3Daw4RdLRc6) | 6:36 | 2020-10-20\* | 2021-10-27 |
 | [De la Orquídea y la Avispa](https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [De la Orquídea y la Avispa](https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d) | 6:47 | 2022-09-30 |  |
@@ -103,6 +103,7 @@
 | [Water from the Same Source](https://open.spotify.com/track/27u4kp7Ra7J18Jmpc6MkWs) | [Christian Erik Frederickson](https://open.spotify.com/artist/2Gl0BI6yJTFHtkSBdDV4Dn), [Jason Bingham Noble](https://open.spotify.com/artist/37icBaQPxG3PZU6h5pTQMK), [Rachel Grimes](https://open.spotify.com/artist/3NkEUEwXXgy5IQixHpsHQ9), [Rachel's](https://open.spotify.com/artist/0sXLPUQAB1hir58hoQnxZa) | [Systems / Layers](https://open.spotify.com/album/1r59HmRjb5ixCXI0TtF1RK) | 6:18 | 2021-06-09 | 2022-07-29 |
 | [Water from the Same Source](https://open.spotify.com/track/7vVoaTSJ0k4i2quvEDa3cP) | [Christian Erik Frederickson](https://open.spotify.com/artist/2Gl0BI6yJTFHtkSBdDV4Dn), [Jason Bingham Noble](https://open.spotify.com/artist/37icBaQPxG3PZU6h5pTQMK), [Rachel Grimes](https://open.spotify.com/artist/3NkEUEwXXgy5IQixHpsHQ9), [Rachel's](https://open.spotify.com/artist/0sXLPUQAB1hir58hoQnxZa) | [Systems / Layers](https://open.spotify.com/album/3CnIIKifMcJsclpMDEG9y4) | 6:18 | 2022-01-17 |  |
 | [We Grew Old Too Soon](https://open.spotify.com/track/3bISPUFe5nbO9wTHH1fOEi) | [We Came From The North](https://open.spotify.com/artist/1Gz4eaCY3apix9Wd9wBznb) | [Low Sun, Long Shadow](https://open.spotify.com/album/6SUmSpQ8dW7yfhiivSYPHm) | 2:58 | 2020-10-20\* | 2023-10-20 |
+| [We'll Find the Light in Darkness](https://open.spotify.com/track/1aWPIurjGonozOh46AzNcj) | [The Mantra Discord](https://open.spotify.com/artist/7qGUciCek4iIXfo65Gl7zA) | [We'll Find the Light in Darkness](https://open.spotify.com/album/7JOwJdBWGN0GAKcEf1qanb) | 4:41 | 2023-10-19 |  |
 | [Worth Everything Ever Wished for](https://open.spotify.com/track/2j3qLgBCLoLhv4zbzNmc16) | [The End Of The Ocean](https://open.spotify.com/artist/4AXRViJcT2cJ0x1CxSSldW) | [Pacific•atlantic](https://open.spotify.com/album/0AcN6qKwf00huBIs83EcSO) | 5:54 | 2020-10-20\* |  |
 | [Your Hand In Mine](https://open.spotify.com/track/69QoB2je3pKldFoxXuBOAu) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Rough Trade Shops: 15 Years Of Bella Union Records](https://open.spotify.com/album/7JeBg7iHhs78r08mIjPBBi) | 8:15 | 2020-10-20\* | 2022-07-29 |
 | [Your Hand In Mine](https://open.spotify.com/track/4sYn64V9gqP6bpkOGw5B9k) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Earth Is Not a Cold Dead Place](https://open.spotify.com/album/49buCcKCJwxvdl0R2dMoIU) | 8:17 | 2022-01-17 |  |

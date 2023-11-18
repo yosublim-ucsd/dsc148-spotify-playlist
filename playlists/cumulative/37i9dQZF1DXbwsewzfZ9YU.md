@@ -4,7 +4,7 @@
 
 > open the pit\. cover: Scowl
 
-165 songs - 6 hr 54 min
+166 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Apology Denied](https://open.spotify.com/track/2XwNSG0m9nrLFxi9twvJCQ) | [Bad Blood](https://open.spotify.com/artist/3IBbnAgFWe1zOEuoNS8n53) | [Apology Denied](https://open.spotify.com/album/5tRUQCtgNounNjP9yjapsB) | 2:21 | 2023-03-08 |  |
 | [Attainable](https://open.spotify.com/track/4QUgb2DKAg4My1m2sbmNgw) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Attainable](https://open.spotify.com/album/0sqW3ChYBPwj3U7YJ0jbBx) | 1:43 | 2023-02-24 |  |
 | [Attitude](https://open.spotify.com/track/57WYmdUYggjpXqTsU5BT9n) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Attitude](https://open.spotify.com/album/7cp19grH5E1gFFSEQ0hjM2) | 0:51 | 2023-02-24 | 2023-08-12 |
+| [Avenge](https://open.spotify.com/track/0aMPSVbotlEJJ7RHKKOmh5) | [Sentinel](https://open.spotify.com/artist/52vLjSY4OTo3YyIr0zTJgE) | [Avenge](https://open.spotify.com/album/5WYedUR5YPq1Cwdt4ZS6M7) | 1:40 | 2023-11-14 |  |
 | [BATTERY NOT INCLUDED](https://open.spotify.com/track/7ACF2rwvNReujse9eedE56) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [SKIN](https://open.spotify.com/album/6gl8rX7dP20vjIQPi1mlDO) | 2:53 | 2023-02-24 | 2023-05-20 |
 | [Big Disappointment](https://open.spotify.com/track/79KaITjubucfKzHLM7Hg5c) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [All Roads Lead To The Gun \(Deluxe\)](https://open.spotify.com/album/6bAXgNDkSgTZRvl5mUlHFq) | 2:34 | 2023-02-24 | 2023-03-11 |
 | [Bite The Hook](https://open.spotify.com/track/3aOCnkGig7Zz7oXCW2OqpM) | [Incendiary](https://open.spotify.com/artist/3nS4tSuT4VwGiZH6BtlJfC) | [Bite The Hook](https://open.spotify.com/album/4O73RVcXZeXUDtBZSHnd8p) | 2:55 | 2023-03-17 |  |
@@ -88,7 +89,7 @@
 | [Memories](https://open.spotify.com/track/3kRG115JtsxkjfvUHNvK4d) | [Never Ending Game](https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp) | [Memories \- Never Die](https://open.spotify.com/album/5BhjGKh1kSckdDEPsmiVAn) | 2:34 | 2023-04-03 |  |
 | [Mental Static](https://open.spotify.com/track/4BitkoFiMhrWFiGH7JMbnh) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Shock Therapy](https://open.spotify.com/album/6Ju7Ef2xrpkAq9Rqhpf2xV) | 1:55 | 2023-02-24 | 2023-04-09 |
 | [Modern Fatigue](https://open.spotify.com/track/2noRrGlgsZyGHK8bFaPEke) | [Long Knife](https://open.spotify.com/artist/3SsyiDM90YglLgxOXaaJCA) | [Curb Stomp Earth](https://open.spotify.com/album/7LziAYYYgbI8Hdn7UrqKoV) | 2:40 | 2023-02-24 |  |
-| [My Anchor](https://open.spotify.com/track/76DOdPpL7iz7YFCiV5SeRv) | [With Honor](https://open.spotify.com/artist/3jHWCx8YiFqlbOmRR6f5Ul) | [My Anchor](https://open.spotify.com/album/4eysI52E7L77BPEtpI9Jxi) | 2:44 | 2023-07-18 |  |
+| [My Anchor](https://open.spotify.com/track/76DOdPpL7iz7YFCiV5SeRv) | [With Honor](https://open.spotify.com/artist/3jHWCx8YiFqlbOmRR6f5Ul) | [My Anchor](https://open.spotify.com/album/4eysI52E7L77BPEtpI9Jxi) | 2:44 | 2023-07-18 | 2023-11-18 |
 | [Myopic](https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Myopic](https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i) | 2:58 | 2023-03-10 |  |
 | [Neila Forever](https://open.spotify.com/track/0kDAjR7duweezdNqzEOvhg) | [The Hirs Collective](https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl), [Jeremy Bolm](https://open.spotify.com/artist/5DGjzHqlmOlJl962qJJ9s1), [Jordan Dreyeri](https://open.spotify.com/artist/7kgjZM6kPLX0DkuMq5AKVQ) | [We're Still Here](https://open.spotify.com/album/0byX67r0zvqZAMBiO8o2Yr) | 0:49 | 2023-04-03 | 2023-04-30 |
 | [Neila Forever](https://open.spotify.com/track/0sRMDXzVxrxIIRYjzTWmaG) | [The Hirs Collective](https://open.spotify.com/artist/1NV2n4DkUNfCCuaaxsWJnl), [Jeremy Bolm](https://open.spotify.com/artist/5DGjzHqlmOlJl962qJJ9s1), [Jordan Dreyeri](https://open.spotify.com/artist/7kgjZM6kPLX0DkuMq5AKVQ) | [We're Still Here](https://open.spotify.com/album/71DPihEMEmNsXe05FVHJN7) | 0:49 | 2023-04-21 | 2023-07-18 |

@@ -1,12 +1,12 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: SOLE, Sung Si Kyung)",
-  "num_followers": 392391,
+  "num_followers": 392420,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDZmY2M1MDVhYmJkZmRhZDJjZjQ1YjRiNmIwM2FiNDFkZDQ5MmI2",
+  "snapshot_id": "MCxkNzVlYzc3YWE2M2M0ZjhiZmMwYjg3MmM4MTI3NGQxNzllMmE5NDEx",
   "tracks": [
     {
       "added_at": "2023-11-10 01:35:32",
@@ -463,26 +463,6 @@
     {
       "added_at": "2023-11-10 01:35:32",
       "album": {
-        "name": "See you",
-        "url": "https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx"
-      },
-      "artists": [
-        {
-          "name": "amin",
-          "url": "https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N"
-        },
-        {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "See you",
-      "url": "https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq"
-    },
-    {
-      "added_at": "2023-11-10 01:35:32",
-      "album": {
         "name": "I Wanna Be - The 1st Album Repackage",
         "url": "https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 193263,
       "name": "I Wanna Be",
       "url": "https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i"
+    },
+    {
+      "added_at": "2023-11-10 01:35:32",
+      "album": {
+        "name": "See you",
+        "url": "https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx"
+      },
+      "artists": [
+        {
+          "name": "amin",
+          "url": "https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N"
+        },
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "See you",
+      "url": "https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq"
     },
     {
       "added_at": "2023-11-10 01:35:32",
@@ -583,22 +583,26 @@
     {
       "added_at": "2023-11-10 01:35:32",
       "album": {
-        "name": "Layin' Low (feat. Jooyoung)",
-        "url": "https://open.spotify.com/album/6wPJh6aQa1SoplBJcDPlZW"
+        "name": "THIS NIGHT",
+        "url": "https://open.spotify.com/album/4XPkeXge5bJLJsGCpJ1nVi"
       },
       "artists": [
         {
-          "name": "HYOLYN",
-          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
         },
         {
-          "name": "Jooyoung",
-          "url": "https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH"
+          "name": "Blue.D",
+          "url": "https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY"
+        },
+        {
+          "name": "Jhnovr",
+          "url": "https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez"
         }
       ],
-      "duration_ms": 188146,
-      "name": "Layin' Low (feat. Jooyoung)",
-      "url": "https://open.spotify.com/track/1B2vkECYhw0XEcyOexAq6e"
+      "duration_ms": 215213,
+      "name": "This Night (feat. Blue.D, Jhnovr)",
+      "url": "https://open.spotify.com/track/626C6JMdKevCTv10pLeHJf"
     },
     {
       "added_at": "2023-11-10 01:35:32",
@@ -643,26 +647,22 @@
     {
       "added_at": "2023-11-10 01:35:32",
       "album": {
-        "name": "THIS NIGHT",
-        "url": "https://open.spotify.com/album/4XPkeXge5bJLJsGCpJ1nVi"
+        "name": "Layin' Low (feat. Jooyoung)",
+        "url": "https://open.spotify.com/album/6wPJh6aQa1SoplBJcDPlZW"
       },
       "artists": [
         {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
         },
         {
-          "name": "Blue.D",
-          "url": "https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY"
-        },
-        {
-          "name": "Jhnovr",
-          "url": "https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez"
+          "name": "Jooyoung",
+          "url": "https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH"
         }
       ],
-      "duration_ms": 215213,
-      "name": "This Night (feat. Blue.D, Jhnovr)",
-      "url": "https://open.spotify.com/track/626C6JMdKevCTv10pLeHJf"
+      "duration_ms": 188146,
+      "name": "Layin' Low (feat. Jooyoung)",
+      "url": "https://open.spotify.com/track/1B2vkECYhw0XEcyOexAq6e"
     },
     {
       "added_at": "2023-11-10 01:35:32",
@@ -831,6 +831,26 @@
     {
       "added_at": "2023-11-10 01:35:32",
       "album": {
+        "name": "with HER",
+        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 211346,
+      "name": "Let Me Go (with TAEYEON)",
+      "url": "https://open.spotify.com/track/0W1BHowUDWND1AIQU6nUbD"
+    },
+    {
+      "added_at": "2023-11-10 01:35:32",
+      "album": {
         "name": "World Peace Project Vol.2",
         "url": "https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 213000,
       "name": "What Is Love",
       "url": "https://open.spotify.com/track/7DvK5WiY7UjwOnDg69XMEn"
-    },
-    {
-      "added_at": "2023-11-10 01:35:32",
-      "album": {
-        "name": "with HER",
-        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 211346,
-      "name": "Let Me Go (with TAEYEON)",
-      "url": "https://open.spotify.com/track/0W1BHowUDWND1AIQU6nUbD"
     },
     {
       "added_at": "2023-11-10 01:35:32",
@@ -971,6 +971,26 @@
     {
       "added_at": "2023-11-10 01:35:32",
       "album": {
+        "name": "with HER",
+        "url": "https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 208786,
+      "name": "She Said (with BIBI)",
+      "url": "https://open.spotify.com/track/53ea1y50REK9XOjzEmsm4W"
+    },
+    {
+      "added_at": "2023-11-10 01:35:32",
+      "album": {
         "name": "Flower Language",
         "url": "https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 232720,
       "name": "Anemone",
       "url": "https://open.spotify.com/track/6KJB9aBaZhTLTNH59WCxvg"
-    },
-    {
-      "added_at": "2023-11-10 01:35:32",
-      "album": {
-        "name": "Love(Prod.Rocoberry)",
-        "url": "https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "Lee sung kyung",
-          "url": "https://open.spotify.com/artist/7AqcQSFPIpFD44ZNRm22m4"
-        }
-      ],
-      "duration_ms": 220626,
-      "name": "Love(Prod.Rocoberry)",
-      "url": "https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS"
     }
   ],
   "unique_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",

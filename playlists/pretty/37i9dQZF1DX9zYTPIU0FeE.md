@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be?si=I4u0nPYhSEGd1qydwDJU3Q">Pilani Bubu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,764 likes - 57 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,792 likes - 57 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 3 | [Gadija \(Pt\. 1\)](https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W) | [Born Coloured, not Born\-Free](https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4) | 5:34 |
 | 4 | [uThixo uKhona](https://open.spotify.com/track/4z9U5r5eo5B1ZiNbqIz2Zh) | [iPhupho L'ka Biko](https://open.spotify.com/artist/69TRZAKuYvfQEpDIkKYQaq) | [Azania](https://open.spotify.com/album/1bnZlO6f8M5cawXgLGIj9v) | 4:13 |
 | 5 | [Words](https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ) | [Sibusiso Mash Mashiloane](https://open.spotify.com/artist/5yJ0HJIMqayqNQjm8gTHKI) | [IZIBONGO](https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg) | 6:52 |
-| 6 | [Rainbow Revisited](https://open.spotify.com/track/36eemDjGxpm6323UrcC8Mn) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Rainbow Revisited](https://open.spotify.com/album/1dCytQDx5VX09Hl3q2oinS) | 7:13 |
+| 6 | [Rainbow Revisited](https://open.spotify.com/track/3yATpiGQJGOrYidye4ebc9) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Rainbow Revisited](https://open.spotify.com/album/63wLAGAGfVOEoDHM2kO8TA) | 7:13 |
 | 7 | [Piece of Ground](https://open.spotify.com/track/4x69jUo3ULAWef7TggDHG7) | [DJ Kenzhero & Tha\_Muzik](https://open.spotify.com/artist/0hHcjndk8IV2oO2wvBA1uh), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [What Is Wrong With Groovin'](https://open.spotify.com/album/08ytgP2RhHhihp6HpKaPEs) | 4:25 |
 | 8 | [Tiya Mowa](https://open.spotify.com/track/6t6mUpSFj0AeLJuTSuAfud) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Tiya Mowa](https://open.spotify.com/album/41VmcZQLMt06F7UVVQ5zUd) | 4:35 |
 | 9 | [The Only Way](https://open.spotify.com/track/3GMXYzMmRHOi6Al01r68Pz) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C) | [The Baddies of Isandlwana](https://open.spotify.com/album/2Qb0wKVzovx3uKAn0ktgOc) | 4:16 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 56 | [Nandi's Suite \(1st Mov\)](https://open.spotify.com/track/1O1qPvS595hMv3WxXprDlx) | [Ndabo Zulu](https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33), [Umgidi Ensemble](https://open.spotify.com/artist/3urMiFwlK23Hjs6zd9Wr5S), [Afrika Mkhize](https://open.spotify.com/artist/6BxxONpaeoIFqbZXzlbzGf), [Ayanda Sikade](https://open.spotify.com/artist/6F9LoTvwNSxtAVFj5i6Hnh), [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Mbuso Khoza](https://open.spotify.com/artist/0IqdIwmnDCHg3LogqhJvpW), [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Ngari Ndong](https://open.spotify.com/artist/3hSbU7bsDQSnZSZhbDEpAO), [Njabulo Shabalala](https://open.spotify.com/artist/0rwnXBO4t7iivrfkI6qbsq), [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Siya Charles](https://open.spotify.com/artist/1QZspTSI3KM0AArNidhH3g), [Sphelelo Mazibuko](https://open.spotify.com/artist/0GueyvsufjRXgZBARevbZT) | [Queen Nandi: The African Symphony](https://open.spotify.com/album/5zXUIyeSDzpj1oCohjCZii) | 17:09 |
 | 57 | [Kucheza](https://open.spotify.com/track/6xSE8mjOiwe0qrIpd8YTvc) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 4:32 |
 
-Snapshot ID: `MCxjZWU5NjU2MDBiYmNhNDYyYWI2MmU2MGE0MzE0ODM2MDBjYjE2Y2Fl`
+Snapshot ID: `MCwzMmU2Y2U1NGI3MTVkODNjN2UzMDA0ZjVlNmQzMGM2NDQwMjNmZDIz`

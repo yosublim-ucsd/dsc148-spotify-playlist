@@ -1,12 +1,12 @@
 {
   "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30fb\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u6b21\u3005\u3068\u51fa\u73fe\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002Check out artists of the new Internet age! Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 109145,
+  "num_followers": 109253,
   "original_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmRlNTY4OWU3Y2JkODM2YjJiNWJhYjUwMDhiZjU3YzJiMjQyMDZk",
+  "snapshot_id": "MCxlYTRiYTE3ZjA4MGZmNTBiMDQzMDVhZWMwOWMyNjg3YmU2ZTdmZTU3",
   "tracks": [
     {
       "added_at": "2023-11-16 15:00:00",
@@ -235,8 +235,8 @@
     {
       "added_at": "2023-11-16 15:00:00",
       "album": {
-        "name": "\u3084\u3063\u3061\u3083\u3063\u305f\u308f",
-        "url": "https://open.spotify.com/album/2R3BmVGXanFTzQmsMS9zmi"
+        "name": "yattyattawa",
+        "url": "https://open.spotify.com/album/0BQD8PXJk9cxt2Mzt20iSp"
       },
       "artists": [
         {
@@ -245,8 +245,8 @@
         }
       ],
       "duration_ms": 161800,
-      "name": "\u3084\u3063\u3061\u3083\u3063\u305f\u308f",
-      "url": "https://open.spotify.com/track/5FpALRE5R6UbONSBLF9Vhq"
+      "name": "yattyattawa",
+      "url": "https://open.spotify.com/track/4yHNww1JcnVXjL4OxKwdyr"
     },
     {
       "added_at": "2023-11-16 15:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2023-11-16 15:00:00",
       "album": {
-        "name": "\u98db\u5929",
-        "url": "https://open.spotify.com/album/2zSKObXruYrvHWrAN8UOgD"
-      },
-      "artists": [
-        {
-          "name": "Ayase",
-          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
-        },
-        {
-          "name": "R-shitei",
-          "url": "https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb"
-        }
-      ],
-      "duration_ms": 183692,
-      "name": "\u98db\u5929",
-      "url": "https://open.spotify.com/track/6MId4xKGdUNhndCtpZC4Bl"
-    },
-    {
-      "added_at": "2023-11-16 15:00:00",
-      "album": {
         "name": "\u30a2\u30a4\u30ef\u30ca\u30e0\u30c1\u30e5\u30fc",
         "url": "https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 205733,
       "name": "\u30a2\u30a4\u30ef\u30ca\u30e0\u30c1\u30e5\u30fc",
       "url": "https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv"
+    },
+    {
+      "added_at": "2023-11-16 15:00:00",
+      "album": {
+        "name": "\u98db\u5929",
+        "url": "https://open.spotify.com/album/2zSKObXruYrvHWrAN8UOgD"
+      },
+      "artists": [
+        {
+          "name": "Ayase",
+          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
+        },
+        {
+          "name": "R-shitei",
+          "url": "https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb"
+        }
+      ],
+      "duration_ms": 183692,
+      "name": "\u98db\u5929",
+      "url": "https://open.spotify.com/track/6MId4xKGdUNhndCtpZC4Bl"
     },
     {
       "added_at": "2023-11-16 15:00:00",

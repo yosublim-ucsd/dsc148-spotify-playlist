@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:5ITI6SEoUZMIXXkzCfr4oE\">Aluna</a>'s favorite tracks. Updated regularly. Curated by Aluna. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 35314,
+  "num_followers": 35326,
   "original_name": "Aluna's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzJiN2UxMDY2ZWJlNTdkMGIwNTViMDhjZTU4ODJkZmE2MWJjNzMx",
+  "snapshot_id": "MCxlNTg4NzQwZmViOTY3NTc2ZjlkNWU3ZjgwY2Q5NjRlNTc2ZGFkY2M4",
   "tracks": [
     {
       "added_at": "2023-11-02 16:55:55",
@@ -49,48 +49,64 @@
       "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
+      "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Vitamina da Alegria",
-        "url": "https://open.spotify.com/album/6WGX4JdA1je20NBrImFC6B"
+        "name": "Lmk Pt. 1 (RICHTANNER\u00ae Remix)",
+        "url": "https://open.spotify.com/album/4cG95ddsN82FCuMFrQvDCJ"
       },
       "artists": [
         {
-          "name": "Afrozone",
-          "url": "https://open.spotify.com/artist/2bncMt3cwq65emAK2CTWFl"
+          "name": "RM47",
+          "url": "https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL"
         },
         {
-          "name": "LiloCox",
-          "url": "https://open.spotify.com/artist/72PekNwjrVD4vIpnA6Kxy4"
+          "name": "MAAD",
+          "url": "https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd"
         },
         {
-          "name": "Fabio Dance",
-          "url": "https://open.spotify.com/artist/4stujpFkuv7VfnMahPtmdi"
+          "name": "Raleigh",
+          "url": "https://open.spotify.com/artist/4wj7NpN3vew4FXcbYF7m2C"
+        },
+        {
+          "name": "RICHTANNER\u00ae",
+          "url": "https://open.spotify.com/artist/4FNt3NCIaotQhqsfXVpv8r"
         }
       ],
-      "duration_ms": 263621,
-      "name": "Vitamina da Alegria",
-      "url": "https://open.spotify.com/track/3JOiML2mmvkPAtAkEMQXUf"
+      "duration_ms": 228196,
+      "name": "Lmk Pt. 1 (RICHTANNER\u00ae Remix)",
+      "url": "https://open.spotify.com/track/7dyKCXrzSOXXmu413mdQVQ"
     },
     {
-      "added_at": "2023-11-02 16:55:55",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Beggin'",
-        "url": "https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V"
+        "name": "Pain & Pleasure (feat. VANYFOX & F\u00e9d\u00e9ration Internationale du Bruit)",
+        "url": "https://open.spotify.com/album/4Jz3pVofJLIfyyslzejjqo"
       },
       "artists": [
         {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+          "name": "Moonshine",
+          "url": "https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX"
+        },
+        {
+          "name": "Amaal Nuux",
+          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
         },
         {
           "name": "Aluna",
           "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Vanyfox",
+          "url": "https://open.spotify.com/artist/5fXfvsAoc9N5dIMif1quGe"
+        },
+        {
+          "name": "F\u00e9d\u00e9ration Internationale du Bruit",
+          "url": "https://open.spotify.com/artist/66hejf9UqC4CcRtxOrA3XV"
         }
       ],
-      "duration_ms": 183397,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
+      "duration_ms": 243205,
+      "name": "Pain & Pleasure (feat. VANYFOX & F\u00e9d\u00e9ration Internationale du Bruit)",
+      "url": "https://open.spotify.com/track/1NHZzHDim0aiS8fhJLPdqk"
     },
     {
       "added_at": "2023-11-02 16:55:55",
@@ -131,6 +147,26 @@
       "duration_ms": 195000,
       "name": "Bigger Than Prince - Marco Lys Remix",
       "url": "https://open.spotify.com/track/1JTGpoOr4o6eC7AiEjLdum"
+    },
+    {
+      "added_at": "2023-11-02 16:55:55",
+      "album": {
+        "name": "Beggin'",
+        "url": "https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 183397,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -175,6 +211,30 @@
       "duration_ms": 161111,
       "name": "Yo Fam!",
       "url": "https://open.spotify.com/track/3bo6O0oUgrE3V2wqdzQKuE"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Vitamina da Alegria",
+        "url": "https://open.spotify.com/album/6WGX4JdA1je20NBrImFC6B"
+      },
+      "artists": [
+        {
+          "name": "Afrozone",
+          "url": "https://open.spotify.com/artist/2bncMt3cwq65emAK2CTWFl"
+        },
+        {
+          "name": "LiloCox",
+          "url": "https://open.spotify.com/artist/72PekNwjrVD4vIpnA6Kxy4"
+        },
+        {
+          "name": "Fabio Dance",
+          "url": "https://open.spotify.com/artist/4stujpFkuv7VfnMahPtmdi"
+        }
+      ],
+      "duration_ms": 263621,
+      "name": "Vitamina da Alegria",
+      "url": "https://open.spotify.com/track/3JOiML2mmvkPAtAkEMQXUf"
     },
     {
       "added_at": "2023-11-02 16:55:55",
@@ -233,36 +293,24 @@
       "url": "https://open.spotify.com/track/2vjOxwogHbLSHbiewgCqd6"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
+      "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Pain & Pleasure (feat. VANYFOX & F\u00e9d\u00e9ration Internationale du Bruit)",
-        "url": "https://open.spotify.com/album/4Jz3pVofJLIfyyslzejjqo"
+        "name": "Blue Lights (Major League DJz Remix)",
+        "url": "https://open.spotify.com/album/36ilkzGej6DS1vnWof1uT1"
       },
       "artists": [
         {
-          "name": "Moonshine",
-          "url": "https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX"
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
         },
         {
-          "name": "Amaal Nuux",
-          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        },
-        {
-          "name": "Vanyfox",
-          "url": "https://open.spotify.com/artist/5fXfvsAoc9N5dIMif1quGe"
-        },
-        {
-          "name": "F\u00e9d\u00e9ration Internationale du Bruit",
-          "url": "https://open.spotify.com/artist/66hejf9UqC4CcRtxOrA3XV"
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
         }
       ],
-      "duration_ms": 243205,
-      "name": "Pain & Pleasure (feat. VANYFOX & F\u00e9d\u00e9ration Internationale du Bruit)",
-      "url": "https://open.spotify.com/track/1NHZzHDim0aiS8fhJLPdqk"
+      "duration_ms": 505277,
+      "name": "Blue Lights - Major League DJz Remix",
+      "url": "https://open.spotify.com/track/7sLsdhg4lYmftExXvRv4C2"
     },
     {
       "added_at": "2023-11-02 16:55:55",
@@ -1031,22 +1079,6 @@
     {
       "added_at": "2023-11-02 16:55:55",
       "album": {
-        "name": "Essa // Work",
-        "url": "https://open.spotify.com/album/5t581wL9SliUyQ6aTOmuVv"
-      },
-      "artists": [
-        {
-          "name": "SIDD",
-          "url": "https://open.spotify.com/artist/7ok3oCifQBgzKJtiL0z3DU"
-        }
-      ],
-      "duration_ms": 188307,
-      "name": "Essa",
-      "url": "https://open.spotify.com/track/33zoPV2LvkbsvBmG5RQLWI"
-    },
-    {
-      "added_at": "2023-11-02 16:55:55",
-      "album": {
         "name": "Killing Me",
         "url": "https://open.spotify.com/album/5yeTnVxNU9I1rdfvVN26Fm"
       },
@@ -1147,30 +1179,6 @@
       "duration_ms": 234240,
       "name": "woo",
       "url": "https://open.spotify.com/track/0tksRX4P1eRw7iI5YTnlZJ"
-    },
-    {
-      "added_at": "2023-11-02 16:55:55",
-      "album": {
-        "name": "Magic (Dave + Sam Remix)",
-        "url": "https://open.spotify.com/album/2xpxws9wbjWas9aXI0NPhT"
-      },
-      "artists": [
-        {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
-        },
-        {
-          "name": "Baby Sol",
-          "url": "https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ"
-        },
-        {
-          "name": "Dave + Sam",
-          "url": "https://open.spotify.com/artist/5C7HgyosSspofglYFe2UZf"
-        }
-      ],
-      "duration_ms": 261290,
-      "name": "Magic - Dave + Sam Remix",
-      "url": "https://open.spotify.com/track/40ZMNSpiY0JvcdJZdqeY7f"
     },
     {
       "added_at": "2023-11-02 16:55:55",

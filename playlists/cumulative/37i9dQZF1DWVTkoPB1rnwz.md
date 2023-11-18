@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-332 songs - 19 hr 7 min
+333 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Beach Dreams](https://open.spotify.com/track/1ATjxfN3std5jroa3p7KYi) | [wallyPDF](https://open.spotify.com/artist/1bzy63aGMcbSpAHuemeCUk) | [Beach Dreams](https://open.spotify.com/album/15E73VRNvQ3oKbD7KBdKe4) | 2:18 | 2022-11-18 | 2022-12-22 |
 | [Besides You](https://open.spotify.com/track/0Ux83HlRGB8O4DPFXMPuT3) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Oliver](https://open.spotify.com/album/1Zy4HydcCJHo5KstRHgiRG) | 1:20 | 2021-10-16 | 2022-07-27 |
 | [Best Friend](https://open.spotify.com/track/4w8VsxvzOYAPnjp2XyiAOW) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [Max Green](https://open.spotify.com/artist/2dzz9G09zy2vDqCFo1emQd) | [Best Friend / Right](https://open.spotify.com/album/7cRu4qxuNI2Iv8X7DID5wb) | 1:47 | 2022-04-23 | 2022-07-29 |
-| [Between the Floating Mist](https://open.spotify.com/track/1ECVGziI63ZGz779wfbvHW) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Between the Floating Mist](https://open.spotify.com/album/1IiKjh1hkDGzEV8xR8HiHk) | 2:59 | 2021-10-16 | 2023-10-21 |
+| [Between the Floating Mist](https://open.spotify.com/track/1ECVGziI63ZGz779wfbvHW) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Between the Floating Mist](https://open.spotify.com/album/1IiKjh1hkDGzEV8xR8HiHk) | 2:59 | 2021-10-16 |  |
 | [Between the Floating Mist](https://open.spotify.com/track/2onHlrzBTERSDk1BJhQu6Y) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Between the Floating Mist](https://open.spotify.com/album/3ZhHzKQmAvyiTVs6QHehJQ) | 2:59 | 2021-10-16 | 2022-07-19 |
 | [Bird of Paradise](https://open.spotify.com/track/6H1CY0MUYusgj8KTsoRQRS) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Music for Living Spaces](https://open.spotify.com/album/1wO5nsIQP1vDzJShd7BLgk) | 4:30 | 2021-10-16 | 2022-07-26 |
 | [Birds](https://open.spotify.com/track/21mBoSP0nJ6jRNkUZf8OZs) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Birds](https://open.spotify.com/album/7neCEFOLdrKgpvvd1k7Q3L) | 2:19 | 2021-10-16 | 2022-07-29 |
@@ -113,7 +113,7 @@
 | [First Defeat](https://open.spotify.com/track/3wUYmc0vGveoD4ltYeOdZt) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 3:15 | 2021-10-16 |  |
 | [floating](https://open.spotify.com/track/2d7z7wZhWV4mbbblWogbj4) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [dylanwesch](https://open.spotify.com/artist/4cJkh0ixPviJyRB2mStQDC) | [floating](https://open.spotify.com/album/6kOBHeeHa9KgcGbRoWaqpF) | 2:25 | 2022-01-12 |  |
 | [Floating City](https://open.spotify.com/track/58AFaNzitIUSooczRTGrGH) | [Dan Abrams](https://open.spotify.com/artist/6ZHdX5Gv1g9L5pd23gyDfx) | [Orbital Planes & Passenger Trains](https://open.spotify.com/album/7HvQOW1Uz5oaF8flNxyNQk) | 3:56 | 2021-10-16 | 2022-07-29 |
-| [Flyaway](https://open.spotify.com/track/33EcVBfPUuaelqga7f4FVm) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/2cQ0edhqTMSqJyU6kwaNzZ) | 2:19 | 2021-10-16 |  |
+| [Flyaway](https://open.spotify.com/track/33EcVBfPUuaelqga7f4FVm) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/2cQ0edhqTMSqJyU6kwaNzZ) | 2:19 | 2021-10-16 | 2023-11-18 |
 | [Flyaway](https://open.spotify.com/track/4SVId1J6a0U8VVPA0BuE7X) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/5aYSZXvc6VcNWB3jdaqQBK) | 2:19 | 2021-10-16 | 2022-10-26 |
 | [Fog Rolls Out Rabun Gap](https://open.spotify.com/track/61qcyE6AKeRlbNUzgamxwv) | [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Cicada Waves](https://open.spotify.com/album/3eJ7IPcsYrKu0GAf9RqIW6) | 6:42 | 2021-10-16 |  |
 | [Fog Rolls Out Rabun Gap](https://open.spotify.com/track/7eaBu838V5ABXX1i3QvvPZ) | [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Cicada Waves](https://open.spotify.com/album/4x027fiQuq8CqSCz02eTNp) | 6:42 | 2021-10-16 | 2023-04-30 |
@@ -137,7 +137,7 @@
 | [Highlight](https://open.spotify.com/track/4UOwkSAq6Ox2Wl3kUecHcH) | [dné](https://open.spotify.com/artist/65lDioVoAjIBR4S1yYL8Bf) | [Nothing Like Before](https://open.spotify.com/album/7EIQYctuyetizGcVclCMcg) | 2:02 | 2021-10-16 | 2022-07-29 |
 | [Highlight](https://open.spotify.com/track/7edlbffSl8CmIp3fqM6Mcd) | [dné](https://open.spotify.com/artist/65lDioVoAjIBR4S1yYL8Bf) | [Nothing Like Before \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2uu7KIkpPuQlmLrQQyzvNy) | 2:02 | 2021-10-16 |  |
 | [Hope!](https://open.spotify.com/track/1hIPTXl8fGnLxn4P6qYInV) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Hope!](https://open.spotify.com/album/6KojVBlOOuoyp3e3AsDBf3) | 2:43 | 2022-01-12 |  |
-| [Horo](https://open.spotify.com/track/6z0jUF4tN2400ybr30TP1g) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA) | 1:58 | 2023-01-12 |  |
+| [Horo](https://open.spotify.com/track/6z0jUF4tN2400ybr30TP1g) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA) | 1:58 | 2023-01-12 | 2023-11-18 |
 | [Hounds](https://open.spotify.com/track/3XPupK9gKBCtyACYH6Ynxi) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [Hounds](https://open.spotify.com/album/7lJJkUlTnBK26FYYOn0E4m) | 5:01 | 2023-10-23 |  |
 | [How to Be Invisible](https://open.spotify.com/track/4Xfi7e0KgofJ5PgCBBauGf) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9) | [Piano Works](https://open.spotify.com/album/6CNfqzu5WvgJeS2GegpHnp) | 3:06 | 2021-10-16 |  |
 | [How to Be Invisible](https://open.spotify.com/track/6GEX4BBT1EHwIiO6qkYSUR) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9) | [Piano Works](https://open.spotify.com/album/6k6xZ06qceVGxE3NLPrj5x) | 3:06 | 2021-10-16 | 2022-10-23 |
@@ -165,6 +165,7 @@
 | [lake hylia](https://open.spotify.com/track/1DE2OTIUPBhBCmwrfSgnu4) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [lake hylia](https://open.spotify.com/album/1iGEDqPy6ZLwqO2mSIUqg3) | 1:51 | 2021-10-16 | 2022-09-20 |
 | [lake hylia](https://open.spotify.com/track/4vvZKGxwq09jL4F30aF1Om) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [lake hylia](https://open.spotify.com/album/2pajMS0QgB2rk8TwXu1Tfo) | 1:51 | 2021-10-16 | 2022-11-13 |
 | [Le danseur dans la boîte](https://open.spotify.com/track/0vGbsSDK7St7mNqbs19nUC) | [Isaac Symonds](https://open.spotify.com/artist/7mvHnjqntcNNecYAHHbdM2), [Yaehsun](https://open.spotify.com/artist/2EzEflueqj8hSyiCNSTxbB), [Camille Paquette\-Roy](https://open.spotify.com/artist/1pVlFqIC1hmzaUf9UPIpFZ) | [Natura Sophia](https://open.spotify.com/album/1m9tfsXeu1A6GOh7lzVphq) | 4:58 | 2021-10-16 | 2022-07-29 |
+| [Lemon Haze](https://open.spotify.com/track/18XJez0do5aWzd6j9ZoiyT) | [emune](https://open.spotify.com/artist/4gkhq1EjcLZjP60fbvOyJT), [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [SP\-Ecials](https://open.spotify.com/album/3zzyKVOMGp0ljBUGmFttqA) | 1:14 | 2021-10-16 |  |
 | [Life Tools](https://open.spotify.com/track/1UnID8JHQyfGHZhX8mTkOz) | [Joel Manson](https://open.spotify.com/artist/3LnOPPGBiRtRJAOdjQqQMx) | [Life Tools](https://open.spotify.com/album/38hMfjKQMQTUYpbtku1KRK) | 1:44 | 2021-10-16 |  |
 | [Light](https://open.spotify.com/track/3is4aHMSpsFnrDx0btsuEW) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [No Thoughts I](https://open.spotify.com/album/7zCzUUixLiKDCNcoHfVkd0) | 1:50 | 2021-10-16 | 2022-11-19 |
 | [Light](https://open.spotify.com/track/4oFJKYQ32w0jIMXwYBWg4i) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [No Thoughts I](https://open.spotify.com/album/2cIwdGl2fnwNFqnpQlKdem) | 1:50 | 2021-10-16 |  |

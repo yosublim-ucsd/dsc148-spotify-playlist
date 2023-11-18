@@ -331,6 +331,24 @@
     },
     {
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/184CyMEhWh2T7O32DlVucH"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186382,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/5aDbyGU5A2TScEkKczGVUM"
+    },
+    {
+      "album": {
         "name": "Love and Light",
         "url": "https://open.spotify.com/album/4Ey6awVzVJAAROedfxTnrJ"
       },
@@ -492,6 +510,32 @@
       "duration_ms": 190243,
       "name": "High",
       "url": "https://open.spotify.com/track/6UUmEHfkUtMOskNYjlf9kx"
+    },
+    {
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/32vyKRiiUI07Mqd0KEKL5f"
+      },
+      "artists": [
+        {
+          "name": "Chwezimadeit",
+          "url": "https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm"
+        },
+        {
+          "name": "JdM Officiall",
+          "url": "https://open.spotify.com/artist/2AoAtbPPpR9DsmiQwrQpq9"
+        },
+        {
+          "name": "Play01",
+          "url": "https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220909,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2m310ptnkUrI39sdNQjwcs"
     },
     {
       "album": {
@@ -688,7 +732,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 223703,
       "name": "Kiiba (feat. Smarty)",
       "url": "https://open.spotify.com/track/5KNegRmSjP4ahtaWaecDHp"
@@ -900,7 +944,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 231500,
       "name": "Luberera",
       "url": "https://open.spotify.com/track/4tWynXHlhctDDWr0Spw6Zn"
@@ -1494,6 +1538,28 @@
       "duration_ms": 177000,
       "name": "REALLY NEED",
       "url": "https://open.spotify.com/track/4GAks9f8yY8OVTChkfmHev"
+    },
+    {
+      "album": {
+        "name": "River Nile",
+        "url": "https://open.spotify.com/album/1tUosBioWR9zjs2qRIR4gk"
+      },
+      "artists": [
+        {
+          "name": "Ceee",
+          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
+        },
+        {
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "River Nile",
+      "url": "https://open.spotify.com/track/6e1t9WWPexddWCd9hiwpsg"
     },
     {
       "album": {

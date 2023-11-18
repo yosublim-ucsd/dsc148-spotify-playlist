@@ -2,9 +2,9 @@
 
 ### [Top Christian Rock](https://open.spotify.com/playlist/37i9dQZF1DX0N57moxx9BL)
 
-> Listen to the recent hits of Christian Rock\.  Cover:  <a href="https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk?si=gnYOdOZxT\_\-mL\-QVsbRxKQ">Red</a>
+> Listen to the recent hits of Christian Rock\.  Cover:  <a href="spotify:artist:09LCTrVGnMsGbxexUFJoap">Lacey Sturm</a>
 
-160 songs - 10 hr 31 min
+161 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Psycho In My Head](https://open.spotify.com/track/6VWocK4U2rcTQeVrfDlCMV) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Psycho In My Head](https://open.spotify.com/album/4Zc1iqCZrZFjR8XGI9gecJ) | 3:17 | 2023-02-17 | 2023-04-22 |
 | [Pulp](https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi) | [Pulp](https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ) | 3:59 | 2022-10-29 |  |
 | [Radio \(NW Hesh\)](https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL) | [Fallstar](https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST) | [Future Golden Age](https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV) | 3:21 | 2021-05-28 |  |
-| [Ready to Roll](https://open.spotify.com/track/0EXcCSchvgDuLnR7ZspnPJ) | [LAST DAY RISING](https://open.spotify.com/artist/06a678upYFB5zg0Kriv5LZ) | [Last Day Rising](https://open.spotify.com/album/3hUVTerCmO0mc6DgF09Btp) | 4:02 | 2021-05-28 |  |
+| [Ready to Roll](https://open.spotify.com/track/0EXcCSchvgDuLnR7ZspnPJ) | [LAST DAY RISING](https://open.spotify.com/artist/06a678upYFB5zg0Kriv5LZ) | [Last Day Rising](https://open.spotify.com/album/3hUVTerCmO0mc6DgF09Btp) | 4:02 | 2021-05-28 | 2023-11-18 |
+| [Reconcile](https://open.spotify.com/track/18nu97knXqpk2HHEjKqOnd) | [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Kenotic Metanoia](https://open.spotify.com/album/0yZGwoSScfeRA5dbZ6NGy3) | 3:55 | 2023-11-17 |  |
 | [Reconcile](https://open.spotify.com/track/5zKSAeW37infPkROOsspcl) | [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Reconcile](https://open.spotify.com/album/2y3qKglDxxrKcVaYSFq2jo) | 3:55 | 2023-07-07 |  |
 | [Rise to the Call](https://open.spotify.com/track/4TVEUT6InpWqdUAXnsd4Uv) | [Stryper](https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv) | [Rise to the Call](https://open.spotify.com/album/3v0BOWMnf9wrExM0vXl4xb) | 3:47 | 2022-10-29 |  |
 | [Run \- Twenty Version](https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Twenty](https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ) | 4:22 | 2022-10-29 |  |

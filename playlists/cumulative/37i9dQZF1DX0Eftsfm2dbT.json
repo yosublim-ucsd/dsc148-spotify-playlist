@@ -885,6 +885,24 @@
     },
     {
       "album": {
+        "name": "CheckMate",
+        "url": "https://open.spotify.com/album/4P33EqCD2BlfS5d57VgGRw"
+      },
+      "artists": [
+        {
+          "name": "Ashley",
+          "url": "https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146423,
+      "name": "CheckMate",
+      "url": "https://open.spotify.com/track/5CbBaIi8ATyn3fJ8PnfYgN"
+    },
+    {
+      "album": {
         "name": "Row",
         "url": "https://open.spotify.com/album/0Jzosb7p7X2JM4gNuNYNLS"
       },
@@ -1791,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "FUKANZENTAI",
+        "url": "https://open.spotify.com/album/1tjVnpdBdKOpp949HPjpj9"
+      },
+      "artists": [
+        {
+          "name": "Young Coco",
+          "url": "https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183770,
+      "name": "FUKANZENTAI",
+      "url": "https://open.spotify.com/track/7dw89jsZA6UBnFHpsB4YlV"
+    },
+    {
+      "album": {
         "name": "JAPANESE AMAPIANO",
         "url": "https://open.spotify.com/album/1HWNAyuS01dk3hyspkwyyk"
       },
@@ -1806,7 +1842,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 265714,
       "name": "Gas City",
       "url": "https://open.spotify.com/track/6BplH7R9tKDPu0lVqxGPk7"
@@ -4318,8 +4354,8 @@
           "url": "https://open.spotify.com/artist/4hKWXkmygX8rY3e0YI0IQk"
         },
         {
-          "name": "Mud",
-          "url": "https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf"
+          "name": "MUD",
+          "url": "https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q"
         }
       ],
       "date_added": "2023-11-14",
@@ -4474,6 +4510,28 @@
       "duration_ms": 195000,
       "name": "Shoutotsu",
       "url": "https://open.spotify.com/track/2Tp7eNHiWdtrOz4wbp1vOs"
+    },
+    {
+      "album": {
+        "name": "Brain Screen",
+        "url": "https://open.spotify.com/album/0WPV0XX09CCMBiLLBAhVy0"
+      },
+      "artists": [
+        {
+          "name": "Deey",
+          "url": "https://open.spotify.com/artist/2KkIoc6KfxH0zeJHe5xLlI"
+        },
+        {
+          "name": "Creek Ville",
+          "url": "https://open.spotify.com/artist/4ur1Mqhk79gf2YvylQtazh"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163916,
+      "name": "SKY WALK",
+      "url": "https://open.spotify.com/track/1AhLDLjBFvHENZ8mJ7Rkj4"
     },
     {
       "album": {
@@ -5480,7 +5538,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 183770,
       "name": "\u4e0d\u5b8c\u5168\u614b",
       "url": "https://open.spotify.com/track/2759vyolJCyVOjcz5zXogO"
@@ -5520,7 +5578,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 253492,
       "name": "\u559c\u54c0",
       "url": "https://open.spotify.com/track/0LiN597XAlatsK7v6zsnAv"

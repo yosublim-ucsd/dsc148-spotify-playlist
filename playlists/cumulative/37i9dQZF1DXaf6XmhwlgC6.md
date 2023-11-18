@@ -4,7 +4,7 @@
 
 > Music from the ether to focus and study to.
 
-254 songs - 13 hr 16 min
+256 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Gentle Whisper](https://open.spotify.com/track/0SdF87pVzhydKwygD13H6B) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [Gentle Whisper](https://open.spotify.com/album/3bXYLFr7nzmlliZo0yJ0S2) | 2:58 | 2022-03-30 |  |
 | [Grounded](https://open.spotify.com/track/7mVts0s26dcB926oonXeoT) | [Pursue Earth](https://open.spotify.com/artist/2p9T2VRJ5VITfZP2brFNVE) | [Grounded](https://open.spotify.com/album/2SVEO24jsb84iynbMSJbo8) | 2:25 | 2023-06-09 |  |
 | [Happy Easters](https://open.spotify.com/track/7fRke8rCGhCzTkPzIh7jqE) | [Gareth Dickson](https://open.spotify.com/artist/5K679k3u9KgR60ESQxyihW) | [Quite A Way Away](https://open.spotify.com/album/2FeEWF8kbqpAjMFv5elAwM) | 5:56 | 2022-03-30 |  |
+| [Haze on the Sea](https://open.spotify.com/track/1ul3sO72SOw0uGEbQcvS4b) | [Johan Glössner](https://open.spotify.com/artist/5KJdosgv4mDOieI9FWMhYa) | [Desert after Storm](https://open.spotify.com/album/42tweibZbb3WNAz9SyqJGw) | 3:18 | 2023-11-17 |  |
 | [Held In Velvet](https://open.spotify.com/track/3MHBNI5EhD59IHZHyQ8H2m) | [Leap Skies](https://open.spotify.com/artist/31OicMGohVViTImbsvwiuS) | [Held In Velvet](https://open.spotify.com/album/0SwTQCqd6id601EbwWwgA6) | 3:06 | 2023-08-25 |  |
 | [High Up](https://open.spotify.com/track/794SxkpLERVaBoag5946LG) | [Mirror Inside](https://open.spotify.com/artist/7qoAxsJr24mbtIRupSaI3Z) | [High Up](https://open.spotify.com/album/4DrcJ7w0o3G59qIlS25Mdx) | 2:18 | 2022-03-30 |  |
 | [High Windows](https://open.spotify.com/track/7dIO4IrjIlLhKsnj4o5nCn) | [Aatom](https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh) | [High Windows](https://open.spotify.com/album/0UbucpkXmpzONj8JWSA6Zj) | 2:37 | 2023-08-11 |  |
@@ -209,6 +210,7 @@
 | [summer silence](https://open.spotify.com/track/3vROTGlX31Rem9VaTqdBzS) | [Niveous](https://open.spotify.com/artist/3KIXk1rxDXMHyRgUvKplyx) | [summer silence](https://open.spotify.com/album/2l1GqNZKHiPQxt4dMJr5Oq) | 2:55 | 2022-07-15 |  |
 | [Swirl](https://open.spotify.com/track/6LPsWnHxhhnUuAQMye688I) | [Echoparks](https://open.spotify.com/artist/0vzMle1blMhmCOyAUhLJhF) | [Swirl](https://open.spotify.com/album/01Qt1xfREQwMLZVPceyipW) | 2:09 | 2023-02-09 |  |
 | [Tailwind](https://open.spotify.com/track/6iayCFA7f9WPT1fFquReHx) | [Elena Aedile](https://open.spotify.com/artist/7wL3hF2m2FvX6LHb0REUMs) | [Morning Breeze](https://open.spotify.com/album/6ixmeJsmJfMKdrrAChdc4g) | 2:47 | 2022-03-30 |  |
+| [Take Some Time](https://open.spotify.com/track/0kxt7uTJNVt4F2cFSpXue8) | [Skyrios](https://open.spotify.com/artist/55uEL0DabWyI3Yv8dt1Y0Q) | [Take Some Time](https://open.spotify.com/album/08z23SckSlbseclzjxRy7f) | 2:19 | 2023-11-17 |  |
 | [taming the tiger](https://open.spotify.com/track/5iR4ziuzYZO1VondRmrvsc) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [Under And Can't Roll](https://open.spotify.com/album/04IciDXb3cgCpsdfavYvom) | 2:17 | 2022-03-30 | 2023-10-06 |
 | [Tattersail](https://open.spotify.com/track/0IHbvuQpvJlWyaGmrTgFjB) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [There, Nearly](https://open.spotify.com/album/45A6tOKDWTOjmbfZzPEkCf) | 2:34 | 2023-01-13 |  |
 | [Taurus](https://open.spotify.com/track/0cZQXAwomBlCnuSvTCsKWn) | [Tolga Kahani](https://open.spotify.com/artist/2JwKOYKRy4sxxF8nkpA3ig) | [Taurus](https://open.spotify.com/album/7geRmxkwEeS7IvDLfebFOq) | 2:14 | 2022-03-30 |  |

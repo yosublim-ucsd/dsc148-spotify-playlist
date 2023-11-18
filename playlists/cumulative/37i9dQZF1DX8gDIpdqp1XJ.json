@@ -304,7 +304,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 226373,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/5XfG0OjDoHFAOOBtPcSmX8"
@@ -438,6 +438,24 @@
       "duration_ms": 204653,
       "name": "All I Am in You / The Big Worm",
       "url": "https://open.spotify.com/track/6MUvjuQpaE8CiK4iLvziV4"
+    },
+    {
+      "album": {
+        "name": "We Can Go Anywhere From Here",
+        "url": "https://open.spotify.com/album/1ndEe4zbpgT4br8JgV6Az7"
+      },
+      "artists": [
+        {
+          "name": "sir Was",
+          "url": "https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258906,
+      "name": "All I Have",
+      "url": "https://open.spotify.com/track/0vEcgIXyjgWCLTYiu01G3p"
     },
     {
       "album": {
@@ -4096,7 +4114,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -5150,7 +5168,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 228825,
       "name": "Gabo's Last Resort",
       "url": "https://open.spotify.com/track/2kKwmioPqFwnNUFridIrIt"
@@ -5928,7 +5946,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 246400,
       "name": "Heaven Surrounds Us Like a Hood",
       "url": "https://open.spotify.com/track/3nEGqUkkHyrDE9od2Uh2FM"
@@ -7654,7 +7672,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 192960,
       "name": "Kepler-22b",
       "url": "https://open.spotify.com/track/1d7amkMBfY5jwDaVYpWKUv"
@@ -7708,10 +7726,28 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 276317,
       "name": "Kimosab\u00e8",
       "url": "https://open.spotify.com/track/06oSt0nOjewappkOBrsFME"
+    },
+    {
+      "album": {
+        "name": "Kimosab\u00e8",
+        "url": "https://open.spotify.com/album/3gMgItWPVNpinFuRp9NMgC"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276317,
+      "name": "Kimosab\u00e8",
+      "url": "https://open.spotify.com/track/6ThLeHskGmgionXRoqGyYS"
     },
     {
       "album": {
@@ -8324,7 +8360,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 167066,
       "name": "Lonely One",
       "url": "https://open.spotify.com/track/7dW6aiHZG0A8xApW0Xg40G"
@@ -8602,7 +8638,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 247949,
       "name": "Low Lights and Throwback Tunes",
       "url": "https://open.spotify.com/track/6p0uCWOGRJBm3Fh2g1gYzM"
@@ -9158,7 +9194,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 277986,
       "name": "Meshuggah",
       "url": "https://open.spotify.com/track/7FpD6W73sZuEEp4dNRCwy9"
@@ -9332,7 +9368,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 196266,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/5f9oC5j4H4gmZx7NqQVD2J"
@@ -11415,6 +11451,24 @@
     },
     {
       "album": {
+        "name": "Puppet",
+        "url": "https://open.spotify.com/album/68rJY7Zio90SZPpWJyLGfx"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197431,
+      "name": "Puppet",
+      "url": "https://open.spotify.com/track/400F8qcb3vxxk7iqRhV1tr"
+    },
+    {
+      "album": {
         "name": "Pure Romance",
         "url": "https://open.spotify.com/album/3F2WGXzvaI7ptsLumZk5Xz"
       },
@@ -11822,7 +11876,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 311282,
       "name": "Rosemary Hemphill",
       "url": "https://open.spotify.com/track/6Euq9b3bwdvMp4W8TQIQGw"
@@ -13142,7 +13196,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
@@ -13698,7 +13752,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 203076,
       "name": "SYT",
       "url": "https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi"
@@ -13724,6 +13778,24 @@
       "duration_ms": 193168,
       "name": "Taba",
       "url": "https://open.spotify.com/track/03FTvTBI4sBC9xbU83tlbE"
+    },
+    {
+      "album": {
+        "name": "Tabadaboum",
+        "url": "https://open.spotify.com/album/0ajc0Cy1f3XqMxLojKZY1l"
+      },
+      "artists": [
+        {
+          "name": "Japanese Television",
+          "url": "https://open.spotify.com/artist/5LLn18vxU1UTY1ypouVGNW"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212918,
+      "name": "Tabadaboum",
+      "url": "https://open.spotify.com/track/7qzj5s3D7Vo0FlEPqPOrD3"
     },
     {
       "album": {
@@ -15231,6 +15303,24 @@
     },
     {
       "album": {
+        "name": "II (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1boMSpoKkFe901QZaU7Gb3"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446733,
+      "name": "Two Generations of Excess",
+      "url": "https://open.spotify.com/track/3yNBnPv3JbGxGvTiIhndvx"
+    },
+    {
+      "album": {
         "name": "Type A",
         "url": "https://open.spotify.com/album/03O3Qga2r9yZmvoIEXsGII"
       },
@@ -15488,7 +15578,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 203380,
       "name": "Vega",
       "url": "https://open.spotify.com/track/7D1poocJhg7k7b0bSqmks6"
@@ -15756,7 +15846,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 206012,
       "name": "Warning Sign",
       "url": "https://open.spotify.com/track/3HpfHYxvRacvmEPFR9ovF7"
@@ -15912,7 +16002,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 310840,
       "name": "We're Not In Orbit Yet\u2026",
       "url": "https://open.spotify.com/track/15byzavN7tdiwSTjirvyfh"

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,821 likes - 64 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,399 likes - 65 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Silent Night](https://open.spotify.com/track/3sPnX1oNBvVfxf8NzhsZQf) | [Ginga Nesto](https://open.spotify.com/artist/1dNyjcuUQztBbx0zk7MBRc) | [You Are My Sunshine \- Harp Classics](https://open.spotify.com/album/5a8OWw2hbEJofxPO4YFwBE) | 3:24 |
-| 2 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6rBDrbfQOtnJNp0vNq9LuW) | [Rex Miller](https://open.spotify.com/artist/2p9DbVZjPWxDe9o716M43d) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/4xXA2kyLlGXNEzCcyUHscD) | 2:01 |
-| 3 | [We Wish You a Merry Christmas \- Piano](https://open.spotify.com/track/3szNR5TwMJxBC4PAc4SIYl) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [we're home for Christmas \(Piano\)](https://open.spotify.com/album/0ne2v4nlcqGxX9BdEONxcY) | 2:31 |
-| 4 | [Deck The Halls](https://open.spotify.com/track/4E4q1ISp6Q416ozStCAZoK) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Do You Want to Build A Snowman?](https://open.spotify.com/album/6vaGiLu1MD3JcsZmkQXp6Q) | 1:50 |
-| 5 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3L5EJDtpqmkS01BskuanyU) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [Gentle Christmas Mood](https://open.spotify.com/album/0FtpBaMRchX5x7ojhr7sMt) | 2:12 |
-| 6 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/2BoZggvVcb2crngoyJKIYK) | [Loona Björk](https://open.spotify.com/artist/2k0OWZxkmZYagyvm0lP2Jz) | [Christmas Songs Peaceful Harp](https://open.spotify.com/album/04atZZp9uct3Golu1zeEcP) | 1:53 |
-| 7 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/6YxMWJd7FWGYh3HbpBvjd9) | [Jeff Wahl](https://open.spotify.com/artist/3z975VInlGLspa4qHMmZwM) | [Christmas Guitar](https://open.spotify.com/album/3DhGSShEDNgIqqecW8EqnR) | 2:15 |
-| 8 | [Auld Lang Syne](https://open.spotify.com/track/05JzXrAMXWpNmvQgsxxYwB) | [Elsa Ekelöf](https://open.spotify.com/artist/4inKxBzHNdu9I7yp2iY8e8) | [Twinkle, Twinkle, Little Star](https://open.spotify.com/album/4kn6vjaZBrC25WwrizfxrH) | 1:17 |
-| 9 | [Sussex Carol](https://open.spotify.com/track/1vCKQqP4EIInHeXIAmaaKi) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:25 |
-| 10 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/4lywk6avy47Pfa0z6z65wR) | [Vlad Kotsky](https://open.spotify.com/artist/4dXJTtjTNvhUGdt2j7CU2M) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/2eaychKI038gk5D6zdYHCO) | 1:44 |
+| 1 | [Silent Night](https://open.spotify.com/track/1DR9eaJOZgazwu5PZWBr7H) | [Elsa Ekelöf](https://open.spotify.com/artist/4inKxBzHNdu9I7yp2iY8e8) | [Silent Night](https://open.spotify.com/album/6GXdvyxnjzBYejYmdFMO4T) | 2:26 |
+| 2 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/6N1IeXVmfMBsboeEszaDYo) | [Anna Niva](https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/0bqSvjvoa6kdw4KDzoCPYO) | 1:12 |
+| 3 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6rBDrbfQOtnJNp0vNq9LuW) | [Rex Miller](https://open.spotify.com/artist/2p9DbVZjPWxDe9o716M43d) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/4xXA2kyLlGXNEzCcyUHscD) | 2:01 |
+| 4 | [We Wish You a Merry Christmas \- Piano](https://open.spotify.com/track/3szNR5TwMJxBC4PAc4SIYl) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [we're home for Christmas \(Piano\)](https://open.spotify.com/album/0ne2v4nlcqGxX9BdEONxcY) | 2:31 |
+| 5 | [Deck The Halls](https://open.spotify.com/track/4E4q1ISp6Q416ozStCAZoK) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Do You Want to Build A Snowman?](https://open.spotify.com/album/6vaGiLu1MD3JcsZmkQXp6Q) | 1:50 |
+| 6 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3L5EJDtpqmkS01BskuanyU) | [Lea van der Eule](https://open.spotify.com/artist/2Irdbe7WQkenoyvCcEl6np) | [Gentle Christmas Mood](https://open.spotify.com/album/0FtpBaMRchX5x7ojhr7sMt) | 2:12 |
+| 7 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/2BoZggvVcb2crngoyJKIYK) | [Loona Björk](https://open.spotify.com/artist/2k0OWZxkmZYagyvm0lP2Jz) | [Christmas Songs Peaceful Harp](https://open.spotify.com/album/04atZZp9uct3Golu1zeEcP) | 1:53 |
+| 8 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/6YxMWJd7FWGYh3HbpBvjd9) | [Jeff Wahl](https://open.spotify.com/artist/3z975VInlGLspa4qHMmZwM) | [Christmas Guitar](https://open.spotify.com/album/3DhGSShEDNgIqqecW8EqnR) | 2:15 |
+| 9 | [Auld Lang Syne](https://open.spotify.com/track/05JzXrAMXWpNmvQgsxxYwB) | [Elsa Ekelöf](https://open.spotify.com/artist/4inKxBzHNdu9I7yp2iY8e8) | [Twinkle, Twinkle, Little Star](https://open.spotify.com/album/4kn6vjaZBrC25WwrizfxrH) | 1:17 |
+| 10 | [Sussex Carol](https://open.spotify.com/track/1vCKQqP4EIInHeXIAmaaKi) | [Stian Jarrell](https://open.spotify.com/artist/7xbTF9Vk9lIWrYFwZgeX9v) | [Seven Joys Of Mary](https://open.spotify.com/album/5rkt6ySKd4ozKi1xXOWj3m) | 2:25 |
 | 11 | [Where Are You Christmas](https://open.spotify.com/track/5PErjyynAj7MW07Rkyj4Rr) | [Milo Stavos](https://open.spotify.com/artist/4qJYgLgyq8lH4yaQ4qrJYP) | [I Saw Three Ships](https://open.spotify.com/album/159FJPsslJcKtheKUuKVeP) | 3:50 |
 | 12 | [Greensleaves](https://open.spotify.com/track/6UDKYg6iEDCM0JGshKbAi5) | [The Harp Players](https://open.spotify.com/artist/51gWjFUuvRVjXQctDzFCIj) | [Classical Baby Harp](https://open.spotify.com/album/0SoCLTx3BVF2CddiM8Hr2H) | 1:33 |
 | 13 | [The Holly and the Ivy](https://open.spotify.com/track/2OSplb5nVkiivpWjjoSsuO) | [The Poet](https://open.spotify.com/artist/37LEXAV1tfykNBoe1FgSPy) | [The Holly and the Ivy](https://open.spotify.com/album/2jpNCKfqEBi7eTSZODKfZo) | 2:46 |
@@ -71,6 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 | 61 | [Ave Maria](https://open.spotify.com/track/1igkY9A1HcPCcvq3PIMReq) | [Jonta Lei](https://open.spotify.com/artist/5bRtL6wZclxJEQiqsR9lNC) | [Religous Harp](https://open.spotify.com/album/4ThFe1arVGMNwLQTNONbWn) | 3:01 |
 | 62 | [Emmanuel](https://open.spotify.com/track/26FxkfhUC6opL8Kr7ej5nM) | [Will Ackerman](https://open.spotify.com/artist/5MHSgzpt7607DgUgvOTlLd) | [Windham Hill Holiday Guitar Collection](https://open.spotify.com/album/0wMljJkbo5ZcspfK2VzMgz) | 2:25 |
 | 63 | [Christ Child's Lullaby \(Instrumental Version\)](https://open.spotify.com/track/4mIDI8cbAsw2sVD4oG3vCl) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Christmas Sounds on Harp](https://open.spotify.com/album/4jiBc5Y3OuHOlllmKb0zb3) | 3:14 |
-| 64 | [We Three Kings \(Instrumental\)](https://open.spotify.com/track/4K9nBWXE1KaAuORjR6fafU) | [Rockabye Lullaby](https://open.spotify.com/artist/3y0d6ljlxup7X9hZKSdKbr) | [Christmas Lullabies Vol 3](https://open.spotify.com/album/17kPYRSo1D9KTGZy4fKB7n) | 3:23 |
+| 64 | [Once in Royal David's City](https://open.spotify.com/track/0SCNnJ3DAYT3obCiGpEs5s) | [The Harpatons](https://open.spotify.com/artist/0PX2FmQQ5HuoI2uSsIhfKt) | [Once in Royal David's City](https://open.spotify.com/album/3uLkmeBBV0sDJVWt4TwyYo) | 2:04 |
+| 65 | [We Three Kings \(Instrumental\)](https://open.spotify.com/track/4K9nBWXE1KaAuORjR6fafU) | [Rockabye Lullaby](https://open.spotify.com/artist/3y0d6ljlxup7X9hZKSdKbr) | [Christmas Lullabies Vol 3](https://open.spotify.com/album/17kPYRSo1D9KTGZy4fKB7n) | 3:23 |
 
-Snapshot ID: `MCxiNjE0YmEyMzUwMjBlNTg5MGJlMGE3ZjM3ZjdiNzFmMTYyNWIyNDg1`
+Snapshot ID: `MCwxYzQ4NmE2YTdhZmQ2YzhlZTk4M2I1NzNlZjQwZjA2ZGI0NzFiZjE2`

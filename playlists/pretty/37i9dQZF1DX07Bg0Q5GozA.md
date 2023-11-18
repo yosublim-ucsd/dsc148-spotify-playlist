@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Biig Piig
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,472 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,547 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Watch Me](https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Watch Me](https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85) | 3:40 |
 | 2 | [The Same](https://open.spotify.com/track/1CVsGcOxtoEAqKyIT1ZbZk) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [The Same](https://open.spotify.com/album/1OapbmDsoY1AgT8xqhWFlU) | 4:13 |
-| 3 | [Swirl \- Roosevelt Remix](https://open.spotify.com/track/5hwwsF2ghUGZL7VQKKV16k) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Swirl \(Roosevelt Remix\)](https://open.spotify.com/album/0X20eVtWg9OdCVTL1mX8Ua) | 5:03 |
+| 3 | [Swirl \- Roosevelt Remix](https://open.spotify.com/track/7sH9vN5ziCJ3snQ2nxJtMG) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Swirl \(Roosevelt Remix\)](https://open.spotify.com/album/0JcAcT7K4l5dp5grqmiIaN) | 5:03 |
 | 4 | [EST](https://open.spotify.com/track/1ojCQ0v59O77rKZbwN8aQh) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [EST](https://open.spotify.com/album/0uTa7zuhN42yVclpAkJL9i) | 5:36 |
 | 5 | [sweatshop](https://open.spotify.com/track/1NbSzuTZwGgTgGpIq4ljHZ) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [sweatshop](https://open.spotify.com/album/4zcnApdR65SRUbftcGRyvS) | 2:29 |
 | 6 | [Hell & Heaven](https://open.spotify.com/track/1GNecsOsY6eplkYgqsBzwU) | [Jaakko Eino Kalevi](https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3), [Faux Real](https://open.spotify.com/artist/0853SMh8o0PpHpSTDHttsO) | [Hell & Heaven](https://open.spotify.com/album/1PcdjiOHD0AclkaSet5pmF) | 4:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Jaguar](https://open.spotify.com/track/1EbPebzZXIn4QmYsL31Ahy) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Jaguar](https://open.spotify.com/album/4j3hoMAsgK8U1FDCXY8qIc) | 2:55 |
 | 75 | [Skipping Like A Stone \(feat\. Beck\) \- Gerd Janson Remix](https://open.spotify.com/track/3qDaCdP9xU4wMoLYJCipyo) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Skipping Like A Stone \(feat\. Beck\) \[Gerd Janson Remix\]](https://open.spotify.com/album/1sTGjuVWoBksS49T9pOp4b) | 3:05 |
 
-Snapshot ID: `MCw2ZmYxNjY2ZTYzZGY2NmE2ZDc5MzMyNzIyZDUxNzQ2NjhiNDdjYTA1`
+Snapshot ID: `MCwzZjU5MDhmNGMxZDMwOTQyYjI0OTdhNGY3NDk3ZDg3YzEzNmY3ODI3`

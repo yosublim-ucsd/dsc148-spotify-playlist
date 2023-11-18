@@ -2,9 +2,9 @@
 
 ### [Bambai Bantai](https://open.spotify.com/playlist/37i9dQZF1DXbSaMQIHweTw)
 
-> Rapping into your hearts from the alleys of Mumbai\. Cover\- Nazz
+> Rapping into your hearts from the alleys of Mumbai\. Cover\- Emiway Bantai & Yo Yo Honey Singh
 
-110 songs - 5 hr 57 min
+111 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Drill Karte](https://open.spotify.com/track/66qAXPAHwLKPLi8Gx58x5z) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 3:29 | 2023-03-17 |  |
 | [Ek Din Pyaar](https://open.spotify.com/track/0uk9sQ7MjK0CdAUinD4xBV) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Tadipaar](https://open.spotify.com/album/7e8kTENVFU4Klbpxos631b) | 3:06 | 2023-03-17 |  |
 | [Ghost Rider](https://open.spotify.com/track/1uu8WLy7yw6kG6SwwpluuJ) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Ghost Rider](https://open.spotify.com/album/7LZBdskdqo3OHvjlRYplgp) | 2:46 | 2023-03-17 | 2023-04-25 |
+| [Good Boy](https://open.spotify.com/track/1CN0mBmNtNqV70GqWzVruC) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Good Boy](https://open.spotify.com/album/7CVCPyl3tb2xShy7YGzmrK) | 2:41 | 2023-11-15 |  |
 | [GRIND](https://open.spotify.com/track/16xg7UwH9hbs96vCD8k6bC) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [GRIND](https://open.spotify.com/album/7DSQCxFH7gCzV8kiydlVDX) | 2:55 | 2023-03-17 |  |
 | [GUESS](https://open.spotify.com/track/2Xv14bnP2GP8CybxqUswoK) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [GUESS](https://open.spotify.com/album/576uoepdv4Ygap72dx37gA) | 2:48 | 2023-03-17 |  |
 | [Gulab Aur Kaante](https://open.spotify.com/track/4EU7KUawcpfOVIdlDdHsLX) | [Nazz](https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB) | [Gulab Aur Kaante](https://open.spotify.com/album/37wInAUaqFnnUogrDxOMDu) | 3:28 | 2023-10-19 |  |

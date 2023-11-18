@@ -2,9 +2,9 @@
 
 ### [Disney Hits France](https://open.spotify.com/playlist/37i9dQZF1DWYa24lU2SeaC)
 
-> Tous vos Hits Disney préférés, y compris les chansons de La Petite Sirène.
+> Tous vos Hits Disney préférés, y compris les chansons de "Wish: Asha et la bonne étoile".
 
-88 songs - 4 hr 39 min
+89 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Into the Unknown](https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:14 | 2023-09-15 |  |
 | [It's All Right \- From "Soul"/Duet Version](https://open.spotify.com/track/5aEJj3gYSSp82NUy2yaIpe) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [It's All Right \(From "Soul"/Duet Version\)](https://open.spotify.com/album/3cY3iLpzQzRZcUabdnHH4f) | 2:49 | 2023-09-15 |  |
 | [J'en ai rêvé](https://open.spotify.com/track/75yUhJ5RQVY3NrWarzaoB9) | [Chorus \- Sleeping Beauty](https://open.spotify.com/artist/1c4ltuRXEIo20Y9UOPxiA0) | [La Belle au Bois Dormant \(Bande originale française du Film\)](https://open.spotify.com/album/1ryxETKkdyF4JDjV6zu89w) | 2:57 | 2023-09-15 |  |
+| [Je fais le vœu \- De "Wish: Asha et la bonne étoile"](https://open.spotify.com/track/58VPveIauJU5sF9gLvfBHW) | [Océane Demontis](https://open.spotify.com/artist/5hq8TtVzFt7DOL4j5zWrHs) | [Je fais le vœu \(De "Wish: Asha et la bonne étoile"\)](https://open.spotify.com/album/4AQumbdEn2H943eOL1TBOu) | 3:25 | 2023-11-17 |  |
 | [Je reviens plus fort \- Inspiré par "Soul"](https://open.spotify.com/track/3KvQ0jFAI3ltc0A4qlxVVI) | [Abi Bernadoth](https://open.spotify.com/artist/0kqNd43r9g26Rn23EsSxCW) | [Soul \(Bande Originale Française du Film\)](https://open.spotify.com/album/5q9FKuWalQkrTSNEg6DDko) | 2:33 | 2023-09-15 |  |
 | [Je souhaite/Un chant \- De "Blanche Neige et les Septs Nains"/Bande Originale Française du Film](https://open.spotify.com/track/0aWyB8vIEH0C9LI042YSz2) | [Rachel Pignot](https://open.spotify.com/artist/6CYc4D54ss72OegrKuum7W), [Olivier Cantore](https://open.spotify.com/artist/1bgfRhCNZLMTshdUBlIfWF) | [Blanche Neige et les Septs Nains](https://open.spotify.com/album/0zxZvGCjP1MnLIDiyblWR0) | 3:08 | 2023-09-15 |  |
 | [Je suis ton meilleur ami](https://open.spotify.com/track/4vUUc1DdyXjieKqANrPA4T) | [Anthony Kavanagh](https://open.spotify.com/artist/6PnzwaATnHONRc26Zs81XO) | [Aladdin \(Bande Originale Française du Film\)](https://open.spotify.com/album/18T11IG7AT2AMKi9iMEAMa) | 2:35 | 2023-09-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Big riffs and pounding drums to help you strut the streets.",
-  "num_followers": 2309911,
+  "num_followers": 2309946,
   "original_name": "Walk Like A Badass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDZjMTBjZDI5MDI4NzYyYjlhZGI2OWQ1NWU1NTBiMzdmYzY5N2Ix",
+  "snapshot_id": "MCxhYmU0NDM4MGE0YWRjNWYzZWVjYmRlNWRhZGIzNjY0NTFkYWRiOGU0",
   "tracks": [
     {
       "added_at": "2023-07-25 00:14:57",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-07-25 00:14:57",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 176707,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
-    },
-    {
-      "added_at": "2023-07-25 00:14:57",
-      "album": {
         "name": "The Midnight Demon Club",
         "url": "https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 196135,
       "name": "Natural Born Killer",
       "url": "https://open.spotify.com/track/4nMUPQeTor23d8RxiiJO9W"
+    },
+    {
+      "added_at": "2023-07-25 00:14:57",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 176707,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
     },
     {
       "added_at": "2023-07-25 00:14:57",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-07-25 00:14:57",
       "album": {
+        "name": "Inside Voices / Outside Voices",
+        "url": "https://open.spotify.com/album/1Ct0Q2DpQ7TjqdG3Ys453S"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 225033,
+      "name": "Weirdo",
+      "url": "https://open.spotify.com/track/140FZc81yT89NfXsooPWWW"
+    },
+    {
+      "added_at": "2023-07-25 00:14:57",
+      "album": {
         "name": "Country Life",
         "url": "https://open.spotify.com/album/1lPzPrmioCkfZIGLzg2XgT"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 176907,
       "name": "All The Problems",
       "url": "https://open.spotify.com/track/0yMBgZk0AkUKBqx4noEW19"
-    },
-    {
-      "added_at": "2023-07-25 00:14:57",
-      "album": {
-        "name": "Inside Voices / Outside Voices",
-        "url": "https://open.spotify.com/album/1Ct0Q2DpQ7TjqdG3Ys453S"
-      },
-      "artists": [
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 225033,
-      "name": "Weirdo",
-      "url": "https://open.spotify.com/track/140FZc81yT89NfXsooPWWW"
     },
     {
       "added_at": "2023-07-25 00:14:57",

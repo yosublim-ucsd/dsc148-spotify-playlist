@@ -1,15 +1,59 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Westside Gunn",
-  "num_followers": 1617859,
+  "num_followers": 1617861,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODA5NjFkZTQ1MDFmNjU5ZjAxYTY1M2Y4MzEwNzFiYjg3MDc5ZTg4",
+  "snapshot_id": "MCwyOGJhMTU4MzI0ODBlOTZlMTc4ZjBiMzM5ZGNhNjhkOTkyYWNjMTk1",
   "tracks": [
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
+      "album": {
+        "name": "For All The Dogs Scary Hours Edition",
+        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 227692,
+      "name": "Evil Ways (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa"
+    },
+    {
+      "added_at": "2023-11-17 04:00:00",
+      "album": {
+        "name": "Welcome 2 Collegrove",
+        "url": "https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "duration_ms": 313397,
+      "name": "Oprah & Gayle (feat. Benny The Butcher)",
+      "url": "https://open.spotify.com/track/0CFqRIdR0LbMGGHSjTaQYt"
+    },
+    {
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
@@ -25,71 +69,35 @@
       "url": "https://open.spotify.com/track/3zLwDjumhvIFFwAAZaDNPL"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
       "album": {
-        "name": "Realest (with Eminem)",
-        "url": "https://open.spotify.com/album/2qJd6dBsXw6hZrZp8L8n2P"
+        "name": "No Yeast (Remix) [feat. Boldy James & Westside Gunn]",
+        "url": "https://open.spotify.com/album/1cTjjDQu00jgCLmSQLNF4G"
       },
       "artists": [
         {
-          "name": "Ez Mil",
-          "url": "https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 217470,
-      "name": "Realest (with Eminem)",
-      "url": "https://open.spotify.com/track/049m5wlslFiYLQuqxrG6QB"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "VOIR DIRE",
-        "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
         },
         {
           "name": "The Alchemist",
           "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 113186,
-      "name": "Vin Skully",
-      "url": "https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "Montagna",
-        "url": "https://open.spotify.com/album/2uShVWVliRbY4ePhpQ1MG9"
-      },
-      "artists": [
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
         },
         {
-          "name": "Wun Two",
-          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         },
         {
-          "name": "Goosebytheway",
-          "url": "https://open.spotify.com/artist/7Lbpx0EuKekUdtfDuNStfh"
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
         }
       ],
-      "duration_ms": 174545,
-      "name": "Montagna",
-      "url": "https://open.spotify.com/track/5mk53q4ragqU6CMaTH6JQ3"
+      "duration_ms": 227240,
+      "name": "No Yeast (feat. Boldy James & Westside Gunn) - Remix",
+      "url": "https://open.spotify.com/track/3g94P2bRVtVe1GqJnYOoV1"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "And Then You Pray For Me",
         "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
@@ -117,27 +125,23 @@
       "url": "https://open.spotify.com/track/5DBkCzSGttobRr6ApIEd4f"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
       "album": {
-        "name": "What You Don\u2019t Get?!",
-        "url": "https://open.spotify.com/album/21nWEdfRl0qTZOpaqy2GuK"
+        "name": "For All The Dogs Scary Hours Edition",
+        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
       },
       "artists": [
         {
-          "name": "Domo Genesis",
-          "url": "https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6"
-        },
-        {
-          "name": "Graymatter",
-          "url": "https://open.spotify.com/artist/79sVZ1pbm24IZ9GbbCWlLv"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 93653,
-      "name": "Adonis",
-      "url": "https://open.spotify.com/track/4lkfqrvGrVIlJlxH5ppFui"
+      "duration_ms": 160049,
+      "name": "Red Button",
+      "url": "https://open.spotify.com/track/5Mc8XDfGQCMkOEZm9rS1cE"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "Blowfly (with Ab-Soul)",
         "url": "https://open.spotify.com/album/6LTCNeWyfbzaIP3O0tcEXD"
@@ -157,7 +161,7 @@
       "url": "https://open.spotify.com/track/2tRcF1bE5ESw9c8ljLXLsR"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "Flying High, Part 2",
         "url": "https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz"
@@ -177,7 +181,7 @@
       "url": "https://open.spotify.com/track/0MZPezONUuxbQZGsWeFWra"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "GUNSHY",
         "url": "https://open.spotify.com/album/4Pb1VAoIs7HsNqD3ShHZXl"
@@ -193,7 +197,7 @@
       "url": "https://open.spotify.com/track/0We0xZsKHRpCd4r8cuMTXP"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "Chops on the Blade",
         "url": "https://open.spotify.com/album/1W8rO7SBVNsjB2v197I0bk"
@@ -213,7 +217,47 @@
       "url": "https://open.spotify.com/track/74Fqn1olHLrMlL6deu4ExE"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
+      "album": {
+        "name": "Brand New Chanel Kicks",
+        "url": "https://open.spotify.com/album/6hhkrorDAK63EkCNs0S0Sx"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 229642,
+      "name": "Brand New Chanel Kicks",
+      "url": "https://open.spotify.com/track/0prAuFTSQwbptjREc7vWpH"
+    },
+    {
+      "added_at": "2023-11-17 04:00:00",
+      "album": {
+        "name": "Realest (with Eminem)",
+        "url": "https://open.spotify.com/album/2qJd6dBsXw6hZrZp8L8n2P"
+      },
+      "artists": [
+        {
+          "name": "Ez Mil",
+          "url": "https://open.spotify.com/artist/1IQ4CjwKkdARjL5KtYiMt4"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 217470,
+      "name": "Realest (with Eminem)",
+      "url": "https://open.spotify.com/track/049m5wlslFiYLQuqxrG6QB"
+    },
+    {
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
@@ -229,7 +273,27 @@
       "url": "https://open.spotify.com/track/4NW3t9GA7CyBisyoROefUs"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
+      "album": {
+        "name": "VOIR DIRE",
+        "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 113186,
+      "name": "Vin Skully",
+      "url": "https://open.spotify.com/track/09kYuK9gLUai92QYwsrU49"
+    },
+    {
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "Magic 3",
         "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
@@ -249,7 +313,99 @@
       "url": "https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
+      "album": {
+        "name": "And Then You Pray For Me",
+        "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "duration_ms": 107992,
+      "name": "FLYGOD 2x",
+      "url": "https://open.spotify.com/track/5VyqeKoQ31p0ZPoRMpoDkx"
+    },
+    {
+      "added_at": "2023-11-17 04:00:00",
+      "album": {
+        "name": "Max Julien",
+        "url": "https://open.spotify.com/album/0pXT8h1meziQU01MyMA89Z"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "Max Julien",
+      "url": "https://open.spotify.com/track/6qYCswyML9pHuvYDBdZJYd"
+    },
+    {
+      "added_at": "2023-11-17 04:00:00",
+      "album": {
+        "name": "RIP Human Art",
+        "url": "https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Spillage Village",
+          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+        }
+      ],
+      "duration_ms": 274558,
+      "name": "Flavors of Karma",
+      "url": "https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7"
+    },
+    {
+      "added_at": "2023-11-17 04:00:00",
+      "album": {
+        "name": "Flying High, Part 2",
+        "url": "https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz"
+      },
+      "artists": [
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "duration_ms": 177360,
+      "name": "Vertigo (feat. Action Bronson)",
+      "url": "https://open.spotify.com/track/7BbppQIMIrxOkJIfdM4syU"
+    },
+    {
+      "added_at": "2023-11-17 04:00:00",
+      "album": {
+        "name": "Burning Desire",
+        "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "plz don\u2019t cut my wings - feat. Earl Sweatshirt",
+      "url": "https://open.spotify.com/track/1ic7rjvkA5LzguZHZHAe6M"
+    },
+    {
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "VOIR DIRE",
         "url": "https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6"
@@ -273,79 +429,23 @@
       "url": "https://open.spotify.com/track/3G2Xq0ZA5nra0iHMjbXOYD"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
       "album": {
-        "name": "RIP Human Art",
-        "url": "https://open.spotify.com/album/1RDjmGZKjYCMTCTzUBSIVf"
+        "name": "Balut",
+        "url": "https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG"
       },
       "artists": [
         {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Spillage Village",
-          "url": "https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 274558,
-      "name": "Flavors of Karma",
-      "url": "https://open.spotify.com/track/56Nv3kZNdUPL6BsC1I0jd7"
+      "duration_ms": 207507,
+      "name": "Balut",
+      "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "And Then You Pray For Me",
-        "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
-      },
-      "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        }
-      ],
-      "duration_ms": 107992,
-      "name": "FLYGOD 2x",
-      "url": "https://open.spotify.com/track/5VyqeKoQ31p0ZPoRMpoDkx"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "Max Julien",
-        "url": "https://open.spotify.com/album/0pXT8h1meziQU01MyMA89Z"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Max Julien",
-      "url": "https://open.spotify.com/track/6qYCswyML9pHuvYDBdZJYd"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "The Patience",
-        "url": "https://open.spotify.com/album/7GlMEHJyohBhILSQYQIFgI"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Smoke Break-Dance (feat. JID)",
-      "url": "https://open.spotify.com/track/01HF0G0K6CPvVIub1JpO4f"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "Tha Fix Before Tha VI",
         "url": "https://open.spotify.com/album/7aWNHIpUIFnlu2UhOWqooG"
@@ -361,7 +461,23 @@
       "url": "https://open.spotify.com/track/4mnjagpaCTWFLqiRMHbFAm"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
+      "album": {
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "duration_ms": 137197,
+      "name": "black mirror",
+      "url": "https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw"
+    },
+    {
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "Magic 2",
         "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
@@ -381,103 +497,7 @@
       "url": "https://open.spotify.com/track/7cXlDCmulkI5UWLCtSjhRF"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "Burning Desire",
-        "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
-      },
-      "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "plz don\u2019t cut my wings - feat. Earl Sweatshirt",
-      "url": "https://open.spotify.com/track/1ic7rjvkA5LzguZHZHAe6M"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "Balut",
-        "url": "https://open.spotify.com/album/3lCIdX7XZlrO6SbxAne7QG"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 207507,
-      "name": "Balut",
-      "url": "https://open.spotify.com/track/3PvChJcbDMKFCQppIRYQo9"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "The Caliphate (feat. Vince Staples)",
-        "url": "https://open.spotify.com/album/3MIxWOJ1dM0H5mO4p6OXGD"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 230720,
-      "name": "The Caliphate (feat. Vince Staples)",
-      "url": "https://open.spotify.com/track/5zdaRJpmbs5lUHCOKn3K6e"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "Flying High, Part 2",
-        "url": "https://open.spotify.com/album/21cT6jnDfeUTCN1J2bzllz"
-      },
-      "artists": [
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        }
-      ],
-      "duration_ms": 177360,
-      "name": "Vertigo (feat. Action Bronson)",
-      "url": "https://open.spotify.com/track/7BbppQIMIrxOkJIfdM4syU"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "Sundial",
-        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        }
-      ],
-      "duration_ms": 137197,
-      "name": "black mirror",
-      "url": "https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "And Then You Pray For Me",
         "url": "https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU"
@@ -497,7 +517,7 @@
       "url": "https://open.spotify.com/track/7KuoNaz8JL1xppLQRSHuO5"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/0E7eTPalfTym6o2ljSdIcc"
@@ -513,7 +533,7 @@
       "url": "https://open.spotify.com/track/0YVAbRnpG4mVxxwob9DdS8"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "DeNiro & Pesci",
         "url": "https://open.spotify.com/album/0FH0RTdtqMNg8dtXmM785x"
@@ -533,7 +553,7 @@
       "url": "https://open.spotify.com/track/1FJWjfuUpgm8Amd9Wg5Gt3"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "MAYNARD VIGNETTE [Feat. T.I., JID, and Jacquees]",
         "url": "https://open.spotify.com/album/60JfsbLNllrEy2zwjO2qzL"
@@ -561,43 +581,7 @@
       "url": "https://open.spotify.com/track/4H8RhDIpZidT57dKw30k1C"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "Magic 3",
-        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 197519,
-      "name": "I Love This Feeling",
-      "url": "https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "The Patience",
-        "url": "https://open.spotify.com/album/7GlMEHJyohBhILSQYQIFgI"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Show & Tell (feat. Freddie Gibbs)",
-      "url": "https://open.spotify.com/track/20r9RAF5u8jbM70PYrGufL"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "Asteroids",
         "url": "https://open.spotify.com/album/5jPlekW4E787N4lgsC9G3w"
@@ -617,7 +601,31 @@
       "url": "https://open.spotify.com/track/7vTTOzp0E9D04XJVdt5qP5"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
+      "album": {
+        "name": "The Caliphate (feat. Vince Staples)",
+        "url": "https://open.spotify.com/album/3MIxWOJ1dM0H5mO4p6OXGD"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 230720,
+      "name": "The Caliphate (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/5zdaRJpmbs5lUHCOKn3K6e"
+    },
+    {
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "Sundial",
         "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
@@ -641,7 +649,7 @@
       "url": "https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/3Vjb7MVaReVbjw4yXbMp5j"
@@ -661,7 +669,7 @@
       "url": "https://open.spotify.com/track/4SDtLLn8LmbOStJeL9Vhkk"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "Burning Desire",
         "url": "https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9"
@@ -677,7 +685,7 @@
       "url": "https://open.spotify.com/track/2KKrlVEhlXqfrLR1okapHp"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "Magic 3",
         "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
@@ -688,12 +696,12 @@
           "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 194397,
-      "name": "Based On True Events, Pt. 2",
-      "url": "https://open.spotify.com/track/6VIF7IamWzKuMlEcW6Bmw8"
+      "duration_ms": 197519,
+      "name": "I Love This Feeling",
+      "url": "https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "MICHAEL (Deluxe)",
         "url": "https://open.spotify.com/album/5dhb5ZpYSm2gH8OCxAKTn1"
@@ -709,7 +717,7 @@
       "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "Soul Assassins 3: Death Valley",
         "url": "https://open.spotify.com/album/2mdiBHkwcyU6EBnhLtStoD"
@@ -733,87 +741,7 @@
       "url": "https://open.spotify.com/track/3D8zRq1zN0hCwxgQutkKma"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "Runway",
-        "url": "https://open.spotify.com/album/5pKCdjwCiOVwVVy28d2sFV"
-      },
-      "artists": [
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        },
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        },
-        {
-          "name": "Rome Streetz",
-          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
-        }
-      ],
-      "duration_ms": 186491,
-      "name": "Runway",
-      "url": "https://open.spotify.com/track/1OnukNKu7NWY4ouTc7w26u"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/3AFkefqinn7Jz7DuvuvLoe"
-      },
-      "artists": [
-        {
-          "name": "Millyz",
-          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
-        }
-      ],
-      "duration_ms": 185838,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/6oVLxrogWL86DNet6SR6y2"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "Sundial",
-        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        }
-      ],
-      "duration_ms": 193973,
-      "name": "beauty supply",
-      "url": "https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "The Elephant Man's Bones",
-        "url": "https://open.spotify.com/album/3Kkrsa5dgEgl2fYyO51EEf"
-      },
-      "artists": [
-        {
-          "name": "Roc Marciano",
-          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "Daddy Kane (feat. Action Bronson)",
-      "url": "https://open.spotify.com/track/5e6EI6FnKVBvM3i8mZsLRU"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "Bobby Boucher",
         "url": "https://open.spotify.com/album/7HOrAl8yqZsqW8UUVeVYZY"
@@ -837,7 +765,127 @@
       "url": "https://open.spotify.com/track/2b1oIoYHq5vj5q1hrQ5WQy"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
+      "album": {
+        "name": "Runway",
+        "url": "https://open.spotify.com/album/5pKCdjwCiOVwVVy28d2sFV"
+      },
+      "artists": [
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "Rome Streetz",
+          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
+        }
+      ],
+      "duration_ms": 186491,
+      "name": "Runway",
+      "url": "https://open.spotify.com/track/1OnukNKu7NWY4ouTc7w26u"
+    },
+    {
+      "added_at": "2023-11-17 04:00:00",
+      "album": {
+        "name": "Magic 3",
+        "url": "https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 194397,
+      "name": "Based On True Events, Pt. 2",
+      "url": "https://open.spotify.com/track/6VIF7IamWzKuMlEcW6Bmw8"
+    },
+    {
+      "added_at": "2023-11-17 04:00:00",
+      "album": {
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "duration_ms": 193973,
+      "name": "beauty supply",
+      "url": "https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF"
+    },
+    {
+      "added_at": "2023-11-17 04:00:00",
+      "album": {
+        "name": "The Elephant Man's Bones",
+        "url": "https://open.spotify.com/album/3Kkrsa5dgEgl2fYyO51EEf"
+      },
+      "artists": [
+        {
+          "name": "Roc Marciano",
+          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "Daddy Kane (feat. Action Bronson)",
+      "url": "https://open.spotify.com/track/5e6EI6FnKVBvM3i8mZsLRU"
+    },
+    {
+      "added_at": "2023-11-17 04:00:00",
+      "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/3AFkefqinn7Jz7DuvuvLoe"
+      },
+      "artists": [
+        {
+          "name": "Millyz",
+          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
+        }
+      ],
+      "duration_ms": 185838,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/6oVLxrogWL86DNet6SR6y2"
+    },
+    {
+      "added_at": "2023-11-17 04:00:00",
+      "album": {
+        "name": "Montagna",
+        "url": "https://open.spotify.com/album/2uShVWVliRbY4ePhpQ1MG9"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        },
+        {
+          "name": "Goosebytheway",
+          "url": "https://open.spotify.com/artist/7Lbpx0EuKekUdtfDuNStfh"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Montagna",
+      "url": "https://open.spotify.com/track/5mk53q4ragqU6CMaTH6JQ3"
+    },
+    {
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "SUNDAY DINNER",
         "url": "https://open.spotify.com/album/43C9qcFuylC5QjGspwpqTl"
@@ -853,7 +901,7 @@
       "url": "https://open.spotify.com/track/50bZ9l5bg1jgoglj6qgy8J"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "Free My Mind",
         "url": "https://open.spotify.com/album/1j9mROY31VbmxKmls37QJX"
@@ -869,7 +917,7 @@
       "url": "https://open.spotify.com/track/4kYOrgTRLZzKi8DcuwXfqM"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "Magic 2",
         "url": "https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz"
@@ -885,7 +933,7 @@
       "url": "https://open.spotify.com/track/2oOMMKZV7SmCLdjALkOgkA"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "California Poppy 3",
         "url": "https://open.spotify.com/album/2rQcJDMTU24dEnylHwZX9q"
@@ -901,7 +949,27 @@
       "url": "https://open.spotify.com/track/5yKFERRRuX8fxBGnJkFY8o"
     },
     {
-      "added_at": "2023-11-10 04:00:00",
+      "added_at": "2023-11-17 04:00:00",
+      "album": {
+        "name": "Dead Men (feat. Cozz)",
+        "url": "https://open.spotify.com/album/5kwKgot9Kn11YSbiuWJr7O"
+      },
+      "artists": [
+        {
+          "name": "408 Darwin",
+          "url": "https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS"
+        },
+        {
+          "name": "Cozz",
+          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
+        }
+      ],
+      "duration_ms": 171989,
+      "name": "Dead Men (feat. Cozz)",
+      "url": "https://open.spotify.com/track/6yy0W5bgERNnQ5diS20fdT"
+    },
+    {
+      "added_at": "2023-11-17 04:00:00",
       "album": {
         "name": "FromTheProjects (feat. Raekwon & Westside Gunn)",
         "url": "https://open.spotify.com/album/1gBwiVRUudP3d2z5ti1oUB"
@@ -923,70 +991,6 @@
       "duration_ms": 155003,
       "name": "FromTheProjects (feat. Raekwon & Westside Gunn)",
       "url": "https://open.spotify.com/track/5BKde6HGrLmsGCOIwYwhwY"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "Dead Men (feat. Cozz)",
-        "url": "https://open.spotify.com/album/5kwKgot9Kn11YSbiuWJr7O"
-      },
-      "artists": [
-        {
-          "name": "408 Darwin",
-          "url": "https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS"
-        },
-        {
-          "name": "Cozz",
-          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
-        }
-      ],
-      "duration_ms": 171989,
-      "name": "Dead Men (feat. Cozz)",
-      "url": "https://open.spotify.com/track/6yy0W5bgERNnQ5diS20fdT"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "The Elephant Man's Bones",
-        "url": "https://open.spotify.com/album/3Kkrsa5dgEgl2fYyO51EEf"
-      },
-      "artists": [
-        {
-          "name": "Roc Marciano",
-          "url": "https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 157360,
-      "name": "The Elephant Man's Bones",
-      "url": "https://open.spotify.com/track/0l2cfkm5quNvOiaHTmgUwu"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "Harlem World 97 (feat. Estelle)",
-        "url": "https://open.spotify.com/album/0pOSCZ2yuQhY5qBYnbAwjF"
-      },
-      "artists": [
-        {
-          "name": "Smoke DZA",
-          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
-        },
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        },
-        {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
-        }
-      ],
-      "duration_ms": 137945,
-      "name": "Harlem World 97 (feat. Estelle)",
-      "url": "https://open.spotify.com/track/66c6S7LLdZ6V4LdqnB1k2M"
     }
   ],
   "unique_name": "Spilled Ink",

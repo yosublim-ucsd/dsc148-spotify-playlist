@@ -4,7 +4,7 @@
 
 > los mejores beats producidos en tierras mexicanas 🌵
 
-117 songs - 4 hr 44 min
+119 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [En el Tianguis Lo\-Fi](https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw) | [Bandido Beat](https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL) | [En el Tianguis Lo\-Fi](https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF) | 5:19 | 2023-05-05 |  |
 | [Erick](https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr) | [Erick](https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL) | 2:52 | 2023-05-05 |  |
 | [Extraños \(Strangers\)](https://open.spotify.com/track/4zjGq47FUV76qFoSbD9pl9) | [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Ocaso Sin Fin](https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz) | 1:51 | 2023-05-05 |  |
+| [find me](https://open.spotify.com/track/5qI8YB7bbbWkTh65Jh70vX) | [Shy Guy](https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR) | [find me](https://open.spotify.com/album/4fax9eSjZUijcXqMDfCxEd) | 2:08 | 2023-11-17 |  |
 | [garra de leon](https://open.spotify.com/track/4gfdPZgxnRawkEpTDthXOX) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [garra de leon](https://open.spotify.com/album/7CclyjtDDQtLblH4Wxadbw) | 2:49 | 2023-05-16 |  |
 | [Good things take time](https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5) | [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Good things take time](https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL) | 1:39 | 2023-05-05 |  |
 | [Géminis](https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Géminis](https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm) | 3:17 | 2023-05-05 |  |
@@ -72,11 +73,11 @@
 | [Lo\-Fi en la Fila de la Tortilleria](https://open.spotify.com/track/0gPUW4qsIqJYUQ39bLpsca) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lo\-Fi en la Fila de la Tortilleria](https://open.spotify.com/album/0jyumxuWRrgx7YvxtgthGs) | 3:17 | 2023-05-05 | 2023-11-16 |
 | [Lo\-Fi en la Micro](https://open.spotify.com/track/6YeGCk4Iafikmg9gn4YNW7) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lo\-Fi en la Micro](https://open.spotify.com/album/6IObXVY8Z6oG92MfWQZDb7) | 2:33 | 2023-05-05 |  |
 | [Lo\-Fi Festival del Día De La Madres](https://open.spotify.com/track/1TUqTpVMhnfILfrNhX41jZ) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lo\-Fi Festival del Día De La Madres](https://open.spotify.com/album/6qXgQzWzlyW0j3MU9H7jp2) | 1:43 | 2023-05-05 | 2023-10-21 |
-| [Lo\-Fi Fronteras](https://open.spotify.com/track/16AtJwMCngSeTMxW3pfwPu) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lo\-Fi Fronteras](https://open.spotify.com/album/7I2aEEaPNRKkVmDr4qQqcg) | 3:40 | 2023-05-05 |  |
+| [Lo\-Fi Fronteras](https://open.spotify.com/track/16AtJwMCngSeTMxW3pfwPu) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lo\-Fi Fronteras](https://open.spotify.com/album/7I2aEEaPNRKkVmDr4qQqcg) | 3:40 | 2023-05-05 | 2023-11-18 |
 | [Lo\-Fi Hermoso Cariño](https://open.spotify.com/track/4XUnlt0Jy0oTIaOlM53kPI) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lo\-Fi Hermoso Cariño](https://open.spotify.com/album/1lQfuhqMxiRSZZyo2rHLBD) | 2:37 | 2023-05-05 |  |
 | [Lo\-fi Mañana en CDMX](https://open.spotify.com/track/3gZvQkmyMV7vnszgqI2lTM) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lo\-fi Mañana en CDMX](https://open.spotify.com/album/1cmxAJZi1MzXbG9BeVWBTf) | 2:49 | 2023-05-05 |  |
 | [Lo\-Fi México Distopico](https://open.spotify.com/track/5a98rYWPsPNB9GrN5B46og) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Mexico Cyberpunk](https://open.spotify.com/album/36jNCbgo5xLxGVw1Swc5H7) | 2:04 | 2023-05-05 | 2023-10-10 |
-| [Lo\-Fi Para Pasar la Cuarentena en Tu Ranchito](https://open.spotify.com/track/592koziQwKu4Wc9SQ76dnm) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lo\-Fi Para Pasar la Cuarentena en Tu Ranchito](https://open.spotify.com/album/5rC9aAhcMObg8TuOSANGNG) | 2:15 | 2023-05-05 |  |
+| [Lo\-Fi Para Pasar la Cuarentena en Tu Ranchito](https://open.spotify.com/track/592koziQwKu4Wc9SQ76dnm) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lo\-Fi Para Pasar la Cuarentena en Tu Ranchito](https://open.spotify.com/album/5rC9aAhcMObg8TuOSANGNG) | 2:15 | 2023-05-05 | 2023-11-18 |
 | [Lo\-Fi Tamales Oaxaqueños](https://open.spotify.com/track/6rvQ28O9tuIeFsMNmjocWA) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lo\-Fi Tamales Oaxaqueños](https://open.spotify.com/album/2GLiwF4qRwE2o3QtFtYsZr) | 3:53 | 2023-05-05 | 2023-10-21 |
 | [Lofi en el Tianguis](https://open.spotify.com/track/6QITrnUssmol226F51JWLO) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lofi en el Tianguis](https://open.spotify.com/album/6DU1SoThNC7JcPRDkAJklN) | 1:28 | 2023-05-05 |  |
 | [Lofi En La Mamalona](https://open.spotify.com/track/3A9LDHqyjxxeKpR4RXze5n) | [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lofi En La Mamalona](https://open.spotify.com/album/41685iR0qvhsPhQZuuNMCL) | 1:56 | 2023-05-05 |  |
@@ -97,6 +98,7 @@
 | [New Home](https://open.spotify.com/track/5KKQG2TeOKq7iOEjMkOUVu) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [New Home](https://open.spotify.com/album/0A6MhfkctyoEnqlnkamG18) | 2:12 | 2023-05-05 |  |
 | [Noche En México](https://open.spotify.com/track/0qzQjKgvQHDClS2rs4iRG6) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [El Día Más Largo](https://open.spotify.com/album/5OtT7lgaBIPbXjpMYqcsMj) | 1:46 | 2023-05-05 | 2023-10-21 |
 | [Nos Usamos](https://open.spotify.com/track/1is3m5JZequlsvuWF11f7s) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Nos Usamos](https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND) | 4:29 | 2023-05-05 |  |
+| [Nostalgia en Ruta](https://open.spotify.com/track/28T16XoS5KsQSLrRPuwSH5) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Nostalgia en Ruta](https://open.spotify.com/album/4nFhPJ9oLs4RBZSB7RXz5P) | 1:55 | 2023-11-17 |  |
 | [Not Fun](https://open.spotify.com/track/37bHCkrekBrZIXbqtRoGwD) | [Chili Dog](https://open.spotify.com/artist/514loz93308G5SYu5YPG6a) | [Not Fun](https://open.spotify.com/album/2cZcbkeegNG4Jc0RdXEpdh) | 2:26 | 2023-05-05 |  |
 | [Oaxaca Querida](https://open.spotify.com/track/0ilXr3akfenujLJuRfKFBt) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Oaxaca Querida](https://open.spotify.com/album/6nfxNdvQvFFKxINmsaD7Ea) | 1:52 | 2023-05-05 |  |
 | [Opinable](https://open.spotify.com/track/6tSkvfWiXCkjqUXKXbLFKk) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Opinable](https://open.spotify.com/album/5f7XpTfXYCt8GWvk9sqEjT) | 3:05 | 2023-05-05 |  |

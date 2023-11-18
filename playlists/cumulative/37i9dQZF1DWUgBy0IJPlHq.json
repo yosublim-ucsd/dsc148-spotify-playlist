@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Goldie Boutilier",
+  "description": "A new shade of Country. Cover: Flatland Cavalry",
   "name": "Indigo",
   "tracks": [
     {
@@ -736,7 +736,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 224903,
       "name": "Bed of Roses",
       "url": "https://open.spotify.com/track/1KiOU4CV744ifyal32xXP6"
@@ -4166,7 +4166,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 286120,
       "name": "I Ain't Living Long Like This",
       "url": "https://open.spotify.com/track/0NBKvnJAAG865ENj9bOhvD"
@@ -5057,6 +5057,24 @@
     },
     {
       "album": {
+        "name": "Life Lessons",
+        "url": "https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195505,
+      "name": "Life Lessons",
+      "url": "https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM"
+    },
+    {
+      "album": {
         "name": "Life of Sin",
         "url": "https://open.spotify.com/album/1q0iylqwruS3d76PYeptK7"
       },
@@ -5133,6 +5151,24 @@
     },
     {
       "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215733,
+      "name": "Live Off",
+      "url": "https://open.spotify.com/track/3967Uo1G05njseUUCnev2w"
+    },
+    {
+      "album": {
         "name": "Live Off",
         "url": "https://open.spotify.com/album/6H501XrhEEyC0ptAfiWO1C"
       },
@@ -5144,7 +5180,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 215733,
       "name": "Live Off",
       "url": "https://open.spotify.com/track/62NCBgd9im9741RNTVNahK"
@@ -5756,7 +5792,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 249920,
       "name": "Mountain Song",
       "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
@@ -7811,6 +7847,24 @@
     },
     {
       "album": {
+        "name": "Life & Love",
+        "url": "https://open.spotify.com/album/6kHaj9UYr9j0WB3XgtvZkO"
+      },
+      "artists": [
+        {
+          "name": "Nolan Taylor",
+          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252736,
+      "name": "Tear Drop",
+      "url": "https://open.spotify.com/track/1AXUPeXgY7NM5XC8qvGaP1"
+    },
+    {
+      "album": {
         "name": "Tehachapi",
         "url": "https://open.spotify.com/album/4XxGDVn3sIpcFmdw3tGyZ3"
       },
@@ -9330,7 +9384,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 256418,
       "name": "Wicked Ways",
       "url": "https://open.spotify.com/track/3hk1nq3xRWJpsXkRjIjtiT"
@@ -9449,6 +9503,24 @@
     },
     {
       "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169243,
+      "name": "Winter's Come and Gone - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/7vN6yDVTOphQUXJ1leQgPB"
+    },
+    {
+      "album": {
         "name": "Wishing I Was Wrong",
         "url": "https://open.spotify.com/album/3Pz8RqCxcBLkjKLHVgFIvY"
       },
@@ -9482,6 +9554,24 @@
       "duration_ms": 272024,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/48WgsmbLBu9emLSodjG0O5"
+    },
+    {
+      "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229357,
+      "name": "Wool - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/4hoqP9dIAu2Nk6u5LvxOR4"
     },
     {
       "album": {

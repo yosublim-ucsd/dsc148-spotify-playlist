@@ -5213,6 +5213,24 @@
     },
     {
       "album": {
+        "name": "Wondering Why",
+        "url": "https://open.spotify.com/album/5WtlaMCff9QS0I76EE7lge"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232917,
+      "name": "Wondering Why",
+      "url": "https://open.spotify.com/track/158mZIMC4X58ZJK4fJfH1b"
+    },
+    {
+      "album": {
         "name": "Working Poor",
         "url": "https://open.spotify.com/album/2vnCT14EXHJ5ZWdwpqPj7E"
       },

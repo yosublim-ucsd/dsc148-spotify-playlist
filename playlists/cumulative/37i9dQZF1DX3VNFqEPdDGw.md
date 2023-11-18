@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Intense & G.Sidhu
 
-99 songs - 5 hr 13 min
+100 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Built Different](https://open.spotify.com/track/5tIr2cGQsj0oeqLk2tAU0L) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:07 | 2021-12-18 | 2022-01-11 |
 | [Busy Getting Paid](https://open.spotify.com/track/6JQuDtJCyQcfVdtA0K8ivR) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Busy Getting Paid](https://open.spotify.com/album/7cyE3wvdW2DEf6nUBmygBK) | 3:07 | 2023-07-26 |  |
 | [C Walk](https://open.spotify.com/track/78SUtcXKU42oqnW105CUZS) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Way Maker](https://open.spotify.com/album/3LgutfrQ1qA1wt09i9JpB0) | 2:45 | 2022-02-17 |  |
+| [Case](https://open.spotify.com/track/0TdWXMXyfTQ2qp5vvU9LID) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:15 | 2023-11-17 |  |
 | [Chandigarh](https://open.spotify.com/track/0C3E2mfHDxqrSQjQ5702g4) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [Guri](https://open.spotify.com/artist/6wmETiZFS8CviwUTaeoVgf) | [Chandigarh](https://open.spotify.com/album/6b3e1cebG8me8nmeBVpJto) | 2:17 | 2022-02-07 |  |
 | [Chandigarh Kare Aashiqui Title Track \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/track/1PDnTLpadsuLNSs6LCQtQh) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Jassi Sidhu](https://open.spotify.com/artist/2VXIKojJeuVC7NyOQs4JlE), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG) | [Chandigarh Kare Aashiqui Title Track \(From "Chandigarh Kare Aashiqui"\)](https://open.spotify.com/album/3J0XOvaaEByP4xeGTtYa9Y) | 2:33 | 2021-12-18 | 2022-01-11 |
 | [Click That B Kickin It \(Yaar Jatt De\)](https://open.spotify.com/track/5SzPs3C9TLb7CGDwlB5kaZ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Click That B Kickin It \(Yaar Jatt De\)](https://open.spotify.com/album/16T7F58qWvIfjLri9fotfN) | 4:07 | 2021-12-18 | 2022-01-11 |
@@ -99,7 +100,7 @@
 | [Try Me](https://open.spotify.com/track/5RaK2eqyHaBSyjEtI27w3T) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 3:15 | 2023-09-01 |  |
 | [Umbrella](https://open.spotify.com/track/7fBeejW1BoZFTd4hTP6JvV) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp) | [Umbrella](https://open.spotify.com/album/3S3ekcemSjVZ6Pi3ojBEhq) | 3:13 | 2021-12-18 | 2022-01-11 |
 | [Unfollow](https://open.spotify.com/track/06yD1YQajTZhCsBfLSrEXL) | [G\. Sidhu](https://open.spotify.com/artist/1cqZQSRjE8Bl0PABOkVU9c), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Members Only](https://open.spotify.com/album/1BUqgzWZeWCbMWJXb8L76Y) | 2:54 | 2023-09-01 | 2023-10-21 |
-| [Vekh Vekh](https://open.spotify.com/track/4S704cDbxjj5O6lIonYgeL) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Shaan & Verinder](https://open.spotify.com/artist/2uG6VR36Iw0g9AmrKRbdOa) | [Vekh Vekh](https://open.spotify.com/album/781bPmBq4Fwat19xjUlNNh) | 2:34 | 2023-10-20 |  |
+| [Vekh Vekh](https://open.spotify.com/track/4S704cDbxjj5O6lIonYgeL) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Shaan & Verinder](https://open.spotify.com/artist/2uG6VR36Iw0g9AmrKRbdOa) | [Vekh Vekh](https://open.spotify.com/album/781bPmBq4Fwat19xjUlNNh) | 2:34 | 2023-10-20 | 2023-11-18 |
 | [Vibe](https://open.spotify.com/track/44gJjTJwY4eba0jpNnrlld) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:35 | 2021-12-18 |  |
 | [Vibe](https://open.spotify.com/track/4cQFpei7RioqdK8BVcUN7n) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Back Stage to Front Stage](https://open.spotify.com/album/69TgJFh6UhCJoMAEEBCVmm) | 2:50 | 2022-02-01 | 2023-05-26 |
 | [Video Call](https://open.spotify.com/track/3lqOcc7LKwXwbbCAIihRPc) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Back Stage to Front Stage](https://open.spotify.com/album/69TgJFh6UhCJoMAEEBCVmm) | 3:06 | 2022-02-01 | 2023-05-26 |

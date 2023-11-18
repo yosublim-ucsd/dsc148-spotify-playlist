@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 
 > <a href="spotify:artist:29mRqqZ15WaYjEsKNzcRkv">Robert Finley</a> is taking over to share his blues favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,956 likes - 33 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,228 likes - 33 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcnkReojaCnV.md) - [plain]
 | 32 | [Insane Asylum \- Single Version](https://open.spotify.com/track/4GVJDAJpl0qpPunyEL5sa6) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R), [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Koko Taylor](https://open.spotify.com/album/4kUcacQmakJzzQ0UppaBTy) | 4:23 |
 | 33 | [What Goes Around \(Comes Around\)](https://open.spotify.com/track/4ArW5tVkwq0GZARjZuAbSx) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Nobody Wants To Be Lonely](https://open.spotify.com/album/4VQuUtKFBB9BjBjFvqWXJl) | 3:36 |
 
-Snapshot ID: `MCxkMzY2MGRhYjI3Y2NjMmRjNmIzZmE2MWVkMmM0OTk5NzkyY2U4ZTNk`
+Snapshot ID: `MCwzZTI2OGMzYjRhZjE2YWE1Nzc0MTY5YTIwZGZiMjhhMDA5NzI3ZDgw`

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Zombie daughter (Original Soundtrack) : A long dream",
+        "url": "https://open.spotify.com/album/7zr4nKroD3nQUDsHLSOzCd"
+      },
+      "artists": [
+        {
+          "name": "ThorThor",
+          "url": "https://open.spotify.com/artist/59i2jZRFSm4qh7QqhyoU9V"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213972,
+      "name": "A long dream (Full Ver.)",
+      "url": "https://open.spotify.com/track/6Mw5Gg8WGqsTWE5LpoWpGi"
+    },
+    {
+      "album": {
         "name": "Beautiful GunbarI OST",
         "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
       },
@@ -518,7 +536,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 247793,
       "name": "Mindless",
       "url": "https://open.spotify.com/track/7wKSQwBzevrfI4nsSNGnuM"

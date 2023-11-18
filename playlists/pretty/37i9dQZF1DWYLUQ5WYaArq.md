@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > Celebrate the 2023 ARIA Awards with ARIA Award\-winning throwbacks! Cover: Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,546 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,542 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 59 | [Jubilee Street](https://open.spotify.com/track/7rbw06Ngndbs8X4iPdepES) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Push the Sky Away](https://open.spotify.com/album/6CBN58EXbkJ7lIxvmLUxVA) | 6:35 |
 | 60 | [Robot Stop](https://open.spotify.com/track/4bbZcD92nLvQnbrblZTS1K) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Nonagon Infinity](https://open.spotify.com/album/4imRDpzmb4zwvxKhNzJhxr) | 5:22 |
 
-Snapshot ID: `MCxjZTljMDJhMjY2MGNkYWVlYjg2ZDhiOTU0MTNmYTJmODQ1OTkzOGQ2`
+Snapshot ID: `MCwxZjlkY2ZjMzZkZWIyZjYyYTQxNDdjNTI5YTc0Y2RlYzY3M2UxMzEx`

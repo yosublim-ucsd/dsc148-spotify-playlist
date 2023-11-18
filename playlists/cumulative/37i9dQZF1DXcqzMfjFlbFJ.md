@@ -4,7 +4,7 @@
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 広瀬香美 ■小沢健二の「LIFE」がヒット ■「すったもんだがありました」（宮沢りえ）、「イチロー \(効果\)」、「同情するならカネをくれ」（安達祐実）が新語・流行語大賞の年間大賞 ■ ジュリアナ東京閉店。 ■「プレイステーション」発売。■ 映画「ショーシャンクの空に」が世界的ヒット
 
-98 songs - 7 hr 40 min
+99 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [BOY MEETS GIRL](https://open.spotify.com/track/2vLRmKMZWRr86ayAUc6GTZ) | [TRF](https://open.spotify.com/artist/74UwkYjA5WAPyrTYFO3mW9) | [WORKS \-THE BEST OF TRF\-](https://open.spotify.com/album/0bCdbK91fN3zZILeQtcmQH) | 4:48 | 2023-07-22 |  |
 | [Breathe Again](https://open.spotify.com/track/1xFliXOpcu7E89AsDAZ7JV) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Toni Braxton](https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz) | 4:29 | 2023-07-22 |  |
 | [Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 2:39 | 2023-07-22 |  |
+| [Bump n' Grind](https://open.spotify.com/track/0DBIL8arX0Zo6eAuxNIpik) | [R\. Kelly](https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ) | [12 Play](https://open.spotify.com/album/11UWeyxXNreHeZwEViqs3y) | 4:16 | 2023-07-22 |  |
 | [Can You Feel The Love Tonight](https://open.spotify.com/track/67HKtdqchK0rmODxsBeWT8) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Love Songs](https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD) | 4:00 | 2023-07-22 |  |
 | [Circle of Life](https://open.spotify.com/track/5vKkaZHPzuqQheytfKuXzp) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 4:51 | 2023-07-22 |  |
 | [Creep](https://open.spotify.com/track/1aWV3uY3SIEZVbmv45oFWS) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:28 | 2023-07-22 |  |

@@ -4,7 +4,7 @@
 
 > Gotta catch 'em all.
 
-366 songs - 22 hr 54 min
+370 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Cheap Magic](https://open.spotify.com/track/7uaH0m2kKoT9YrHATuQn0P) | [Turbowolf](https://open.spotify.com/artist/1NyswKLrbbWby73lOfJRZH), [Sebastien Grainger](https://open.spotify.com/artist/5HTY4xpY9n7atMo4z8FTNh) | [The Free Life](https://open.spotify.com/album/4gT3GcSihWfQqAr5MBWfQ0) | 2:56 | 2022-11-02 |  |
 | [Circles](https://open.spotify.com/track/2jmBc2dTGXU9quHYTkpxSL) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 4:09 | 2022-11-02 |  |
 | [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 | 2023-01-25 |  |
-| [Clarkson](https://open.spotify.com/track/4vnlMcxPWvjMV2A5Gl8AY3) | [Sly Withers](https://open.spotify.com/artist/59vpAv1Esa36VUiOvx0nYX) | [Gardens](https://open.spotify.com/album/7LRECQRoA5uv2D281CLBIB) | 2:57 | 2023-10-16 |  |
+| [Clarkson](https://open.spotify.com/track/4vnlMcxPWvjMV2A5Gl8AY3) | [Sly Withers](https://open.spotify.com/artist/59vpAv1Esa36VUiOvx0nYX) | [Gardens](https://open.spotify.com/album/7LRECQRoA5uv2D281CLBIB) | 2:57 | 2023-10-16 | 2023-11-18 |
+| [Closer](https://open.spotify.com/track/1wBy0okEa7TIBWizzo5acb) | [Sly Withers](https://open.spotify.com/artist/59vpAv1Esa36VUiOvx0nYX) | [Closer](https://open.spotify.com/album/6JE92lOONx7GauCCIsKX3s) | 4:01 | 2023-11-16 |  |
 | [Colorblind](https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:40 | 2021-12-15 |  |
 | [Come Back](https://open.spotify.com/track/6FIJGWyovgbmDkjMp6a5x7) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [One By One \(Expanded Edition\)](https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx) | 7:47 | 2021-12-15 |  |
 | [Come Down](https://open.spotify.com/track/6aoslVx9b2J5tbYvbp3TbD) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Anymore](https://open.spotify.com/album/1MtHTmOWEN7bpDj8sgCmHt) | 3:15 | 2021-12-15 |  |
@@ -75,6 +76,7 @@
 | [Cut Your Ribbon](https://open.spotify.com/track/1DYud4lcStjYxJ8JBBva6g) | [Sparta](https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR) | [Wiretap Scars](https://open.spotify.com/album/2Lg6QTklBKk6eIJs5onQQl) | 3:04 | 2022-09-21 |  |
 | [Damp](https://open.spotify.com/track/0JWqrfdT8tHqUqSaKwh1do) | [Daylight](https://open.spotify.com/artist/2YBfAy7PwhFaLNqIo99uTv) | [The Difference In Good And Bad Dreams](https://open.spotify.com/album/1QGtBydGsro5sLeruIAmUt) | 2:42 | 2022-11-02 |  |
 | [Damp](https://open.spotify.com/track/25j4M1pG4B47DvNxrPCGgp) | [Daylight](https://open.spotify.com/artist/2YBfAy7PwhFaLNqIo99uTv) | [The Difference In Good And Bad Dreams](https://open.spotify.com/album/5lIEYw1JQzSKicpDjb099k) | 2:42 | 2021-12-15 | 2022-07-29 |
+| [Daylily](https://open.spotify.com/track/6AgtouHw1KrKy1PsoLjY3o) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:28 | 2023-11-16 |  |
 | [Degenerate](https://open.spotify.com/track/3PhGAJcRQ1otFFAkQbJSe2) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Munki](https://open.spotify.com/album/6MdsCUxxSnrkVkcKUfl2kn) | 5:30 | 2021-12-15 | 2022-07-29 |
 | [Demons](https://open.spotify.com/track/5fh9jzxClibVuXUqKTTpR7) | [Calm Attack](https://open.spotify.com/artist/1ViIytqQaJwmMneD4YvFJg) | [Demons](https://open.spotify.com/album/7cxJkNduZUo9HIhuKxC2pj) | 3:37 | 2022-06-23 | 2022-07-28 |
 | [Diagrams](https://open.spotify.com/track/5VqAjVRFH6p7i4rCNWmQ0z) | [The Tupolev Ghost](https://open.spotify.com/artist/6mkJisamgOukxQTaArgBr0) | [The Tupolev Ghost](https://open.spotify.com/album/2nZVma4yFaY6fiBQP7rLhG) | 3:24 | 2022-04-15 | 2022-07-21 |
@@ -120,6 +122,7 @@
 | [Glorious Sunset](https://open.spotify.com/track/6JrhNM8Z6XARzHjUKQSrWD) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/2Wk0YO4JkdqrkMR5GjdAa0) | 3:59 | 2023-01-25 | 2023-02-27 |
 | [Gold](https://open.spotify.com/track/4Kx4tZHPRKg7DVFeyh9xMA) | [Black Map](https://open.spotify.com/artist/6rCmNHjnotXZpGxnCM7tkq) | [...And We Explode](https://open.spotify.com/album/1xnNpamKRzpuKyF4pWNdZd) | 2:45 | 2021-12-15 | 2022-07-27 |
 | [Goldfinger](https://open.spotify.com/track/4Qtu0Y2KSnqwr5NJTDQX0C) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9) | 4:31 | 2023-02-27 | 2023-11-11 |
+| [Goldfinger](https://open.spotify.com/track/7npgVYPIv7jzYC9yFKKHig) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/1fxOFs3nc2mGf69PEbEQbf) | 4:31 | 2023-11-16 |  |
 | [Great Escape](https://open.spotify.com/track/5Asy34XZ0sYoOI1DU44vze) | [Moneen](https://open.spotify.com/artist/4V5SMPpyCIxr6VpvJ5cWpp) | [The World I Want To Leave Behind](https://open.spotify.com/album/02dQ8nApLHZ6Sfyuv9cqxE) | 3:12 | 2022-04-15 | 2022-04-21 |
 | [Grey Flap](https://open.spotify.com/track/2sNc1BGA2hqnGLHLNfRHQO) | [Pist.On](https://open.spotify.com/artist/7i5SNZSnLm9J4QImRyS3Pr) | [Number One](https://open.spotify.com/album/1ebPLIDXDzTqLlRlizuZ8Z) | 3:57 | 2021-12-15 |  |
 | [Grounded](https://open.spotify.com/track/5cbpFhNhLtccw5s4rCeNjl) | [My Vitriol](https://open.spotify.com/artist/75SjeTpGbsxZDpwPeVGERn) | [Finelines](https://open.spotify.com/album/4c2WjXHuK2BbKapEeAX10R) | 2:33 | 2022-11-02 | 2023-01-26 |
@@ -213,7 +216,7 @@
 | [Narrow](https://open.spotify.com/track/4ofBUvD4rrcEbDq7d8VTvv) | [Chokebore](https://open.spotify.com/artist/5BiMbLBGVfPD3SG12obiNj) | [A Taste For Bitters](https://open.spotify.com/album/2WJMvI72kgyx7hex8MogVQ) | 2:43 | 2022-02-02 | 2022-07-17 |
 | [Narrow Mouth](https://open.spotify.com/track/2iyoZuHyuaaBGmLbl6eIEY) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [Imbue](https://open.spotify.com/album/6NnNzBbQKK59S2x6KJzQjI) | 4:30 | 2021-12-15 |  |
 | [Near](https://open.spotify.com/track/4sy4XhaARpaQ1GmHbuoKec) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [Near](https://open.spotify.com/album/2iWnS0S4Yi16kehnILCcML) | 4:56 | 2021-12-15 | 2022-04-16 |
-| [Needles](https://open.spotify.com/track/6try2MFpWKn55HnMNS7vZz) | [Handsome](https://open.spotify.com/artist/3HAILRXvRhFoBrlYv8be3V) | [Handsome](https://open.spotify.com/album/4Erk4K1hOnmQbfamo4xgid) | 3:12 | 2021-12-15 |  |
+| [Needles](https://open.spotify.com/track/6try2MFpWKn55HnMNS7vZz) | [Handsome](https://open.spotify.com/artist/3HAILRXvRhFoBrlYv8be3V) | [Handsome](https://open.spotify.com/album/4Erk4K1hOnmQbfamo4xgid) | 3:12 | 2021-12-15 | 2023-11-18 |
 | [Neon Brother](https://open.spotify.com/track/3onvqHzdPZXZrPo5GfLqGE) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 3:55 | 2021-12-15 |  |
 | [Neon Circus](https://open.spotify.com/track/0HygTZjzB9GQhohzMzoaeD) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [Philophobia](https://open.spotify.com/album/7FBIJfH1Ks0YIvAOMbXy08) | 3:36 | 2021-12-15 | 2023-01-26 |
 | [Neurotic](https://open.spotify.com/track/2xQoftRvm3Uk1V77dcArB3) | [Hundredth](https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0) | [RARE](https://open.spotify.com/album/7cO0T3BJ6xAkv0BX3TXFAp) | 3:37 | 2021-12-15 |  |
@@ -290,7 +293,7 @@
 | [Stained Silver](https://open.spotify.com/track/6WnG5MU8GbAiQVFnXZQorG) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Antenna](https://open.spotify.com/album/4c0qhRcK2cIa7cgxaZf585) | 4:08 | 2023-04-29 | 2023-10-05 |
 | [Stars](https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3) | [Hum](https://open.spotify.com/artist/6sM2JCBjZprP7JLMTZZSxX) | [You'd Prefer An Astronaut](https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o) | 5:09 | 2021-12-15 |  |
 | [Static King](https://open.spotify.com/track/30c7yitaxCPDer72DuJMpw) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Static King](https://open.spotify.com/album/6Ff2MALnanTK465bO5rIsa) | 3:37 | 2021-12-15 |  |
-| [Stuck In A Loop](https://open.spotify.com/track/4jjavTdo58RR0CEzTa2TjJ) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Stuck In A Loop](https://open.spotify.com/album/0E35wkZniQNbAxGTu8XqeI) | 2:53 | 2023-03-14 |  |
+| [Stuck In A Loop](https://open.spotify.com/track/4jjavTdo58RR0CEzTa2TjJ) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Stuck In A Loop](https://open.spotify.com/album/0E35wkZniQNbAxGTu8XqeI) | 2:53 | 2023-03-14 | 2023-11-18 |
 | [Succubus](https://open.spotify.com/track/6Dunt2D6P0zuWM8XvusCAm) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Dream Soda](https://open.spotify.com/album/5OZyAu46HVgniWby7lqAWD) | 3:41 | 2021-12-15 | 2022-01-29 |
 | [Sunday](https://open.spotify.com/track/5ZNdRdZ2inm4ksA8keadDs) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [A Thousand Leaves](https://open.spotify.com/album/2SDi8NTSiq6qQ2WTkrp9X4) | 4:51 | 2023-03-29 |  |
 | [Super\-fire](https://open.spotify.com/track/1eZDNesUK5TuhHikfQ8K6U) | [Girls Against Boys](https://open.spotify.com/artist/33HLOae9rhJfw6Mh0e8g5r) | [House of GVSB](https://open.spotify.com/album/2h0DWaP2Etm0F6NyoRFziW) | 3:18 | 2021-12-15 | 2022-07-26 |
@@ -298,12 +301,13 @@
 | [Swallow](https://open.spotify.com/track/5zodPVnHmq8hOERLIDBmpC) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:50 | 2021-12-15 |  |
 | [Taking Back Control](https://open.spotify.com/track/56keKJyWpp84gKhI5llSCK) | [Sparta](https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR) | [Threes](https://open.spotify.com/album/2tlhHOxSGAcN7Z9KNtJlJP) | 3:41 | 2023-03-29 |  |
 | [Teenage Angst](https://open.spotify.com/track/3GKEh2H15w9ZECfi1BtQ20) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Placebo](https://open.spotify.com/album/7Jyg6ic5h9BDJ3WuYWYA6K) | 2:42 | 2023-03-29 |  |
-| [The Big What If](https://open.spotify.com/track/0j8qJI1KjzSJwuOwggXv2s) | [Pulled Apart By Horses](https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy) | [The Haze](https://open.spotify.com/album/6Q4AoT2DyqrhWibThNfRWO) | 3:15 | 2022-11-02 |  |
+| [The Big What If](https://open.spotify.com/track/0j8qJI1KjzSJwuOwggXv2s) | [Pulled Apart By Horses](https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy) | [The Haze](https://open.spotify.com/album/6Q4AoT2DyqrhWibThNfRWO) | 3:15 | 2022-11-02 | 2023-11-18 |
 | [The Big What If](https://open.spotify.com/track/5cnjSorGZUm4ytova9wQAn) | [Pulled Apart By Horses](https://open.spotify.com/artist/0AUkXuvc92Zd0E9qKbkfsy) | [The Haze](https://open.spotify.com/album/0lM0xW6y3TiB2GyBSZ545d) | 3:15 | 2021-12-15 | 2022-10-21 |
 | [The Cascade](https://open.spotify.com/track/0tnXJpTXjBBVslItvjRdkR) | [Moving Mountains](https://open.spotify.com/artist/7xJHGz571pfkVGNxzPO9NY) | [Waves](https://open.spotify.com/album/1rmsVaiDaLIE1OCbEd8MoI) | 4:43 | 2021-12-15 | 2022-07-28 |
 | [The Cascade Blues](https://open.spotify.com/track/5jtTTlyVf0kbZhUmarBxks) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [The Cascade Blues](https://open.spotify.com/album/20WoZb1k0N4Jh24lEebcXe) | 3:27 | 2022-01-11 | 2022-06-26 |
 | [The Hey Man!](https://open.spotify.com/track/2L3nP5MydvAh79nFo38eLd) | [Emanuel](https://open.spotify.com/artist/4uv4EEYdWrejczjqB8GGUO) | [Soundtrack to a Headrush](https://open.spotify.com/album/0KQXjbh2Yh3pfoGpHrXyml) | 3:48 | 2021-12-15 | 2023-11-11 |
 | [The Last Great Train Robbery](https://open.spotify.com/track/4Wi5BTtRNtX3mb2bDs1Vyi) | [Freeze the Atlantic](https://open.spotify.com/artist/4tEmJrqsn6ePHw8pbBz80B) | [Freeze the Atlantic](https://open.spotify.com/album/0dq0NPBl3DNDwKMRsP9tki) | 3:18 | 2021-12-15 | 2022-12-30 |
+| [The Long Defeat](https://open.spotify.com/track/0LiwVQusyq7nakql6TIQNG) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [To Be Everywhere Is to Be Nowhere](https://open.spotify.com/album/5i3Vd8CipVhDocbVVFYvVv) | 4:11 | 2023-11-16 |  |
 | [The Long Defeat](https://open.spotify.com/track/27PKLv7rXE18wNbVrMA068) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [To Be Everywhere Is To Be Nowhere](https://open.spotify.com/album/4hFDcpvIU9F4OleRAR9nNZ) | 4:11 | 2022-11-02 | 2023-11-11 |
 | [The Modern Leper](https://open.spotify.com/track/3aunzvczA4MkwIrHuARjqM) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [The Midnight Organ Fight](https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09) | 3:48 | 2023-02-27 |  |
 | [The Night I Drove Alone](https://open.spotify.com/track/33Wx1OQWGptIxD4dEA4PEK) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Youth](https://open.spotify.com/album/5INnUqfQphgiGDskkTJFaF) | 2:13 | 2021-12-15 | 2022-07-29 |

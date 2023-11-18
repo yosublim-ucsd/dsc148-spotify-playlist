@@ -1,12 +1,12 @@
 {
   "description": "Lovely, acoustic pop. Cover: Haley Joelle",
-  "num_followers": 137917,
+  "num_followers": 137976,
   "original_name": "Acoustic Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjA1YjI5MzM2YjU2ZjE1MTM3OWJjMGFkNWIyYWZkMTI4ZDQ2N2I5",
+  "snapshot_id": "MCwxYmZkNzEwZDcyNTMwNjYzZTc0MDExYTNiNDM3NTUyYTJlYWZkMjhl",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -79,6 +79,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios",
+        "url": "https://open.spotify.com/album/4qgs0gHJBgycj5SKqafFOB"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 598150,
+      "name": "All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios",
+      "url": "https://open.spotify.com/track/1n3b9Eekoy3S9ZSZ5DmTW1"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
@@ -91,6 +107,26 @@
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/2aewyGiYU8HtQflj03vfLu"
+      },
+      "artists": [
+        {
+          "name": "HAPPIE",
+          "url": "https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9"
+        },
+        {
+          "name": "The Human Experience",
+          "url": "https://open.spotify.com/artist/1NWjumiUC54F8S21p2W6cG"
+        }
+      ],
+      "duration_ms": 220397,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/6WOCRPBxJqRhOyfLygAOJ5"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -495,30 +531,6 @@
       "duration_ms": 196923,
       "name": "Thunderclouds",
       "url": "https://open.spotify.com/track/3dFLOHljbnOZ9sFo6SjcVd"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "0800 HEAVEN (Acoustic)",
-        "url": "https://open.spotify.com/album/0mCdfKtiB1IFVpPhBClsq3"
-      },
-      "artists": [
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        },
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 228270,
-      "name": "0800 HEAVEN - Acoustic",
-      "url": "https://open.spotify.com/track/0mcegVVpLwrLRZB7a6bMgk"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1311,22 +1323,6 @@
       "duration_ms": 178626,
       "name": "Remember - Acoustic",
       "url": "https://open.spotify.com/track/5aXfGM7WVcqyAvqnL7k0y3"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios",
-        "url": "https://open.spotify.com/album/4qgs0gHJBgycj5SKqafFOB"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 598150,
-      "name": "All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios",
-      "url": "https://open.spotify.com/track/1n3b9Eekoy3S9ZSZ5DmTW1"
     },
     {
       "added_at": "2023-11-10 05:00:00",

@@ -553,6 +553,28 @@
     },
     {
       "album": {
+        "name": "Chori Chori",
+        "url": "https://open.spotify.com/album/54qD3kzrnxe7HwUOc04LGh"
+      },
+      "artists": [
+        {
+          "name": "Amaal Mallik",
+          "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+        },
+        {
+          "name": "Aariana Chhibber",
+          "url": "https://open.spotify.com/artist/4pDDJcfX2toBb3QZIfjm5N"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169011,
+      "name": "Chori Chori",
+      "url": "https://open.spotify.com/track/5qCJMsO0GDpk0q6uN3bsmH"
+    },
+    {
+      "album": {
         "name": "Coffee Ke Bahane",
         "url": "https://open.spotify.com/album/4GaUOWLIyCS4jn3mz4DU77"
       },
@@ -1476,7 +1498,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 160854,
       "name": "jaanu na",
       "url": "https://open.spotify.com/track/7C0IvBW7ZTk0cyyQQid44w"

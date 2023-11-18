@@ -4,11 +4,12 @@
 
 > Peaceful instrumentals to help you keep calm.
 
-344 songs - 16 hr 24 min
+345 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Different Ways](https://open.spotify.com/track/0qQYLDf5A6ezcYaYYAnhDI) | [Soleia](https://open.spotify.com/artist/5hD3baa7qYspuXyB859Eml) | [Ups and Downs](https://open.spotify.com/album/2Qgmkjkmj2ojKATQ8hSDvc) | 2:32 | 2020-10-20\* | 2023-01-07 |
+| [A Gentle Touch](https://open.spotify.com/track/4PEWJM5Bz6Ax2uuzeuPIPM) | [Paix Sonique](https://open.spotify.com/artist/5g4W27S2ZTFOatbUBDXCwd) | [A Gentle Touch](https://open.spotify.com/album/5yOWOb71BXYF2BUR3B9Skd) | 2:31 | 2023-11-17 |  |
 | [A new day](https://open.spotify.com/track/36rrXNpPdOpmHpI2vZECFd) | [Nadine Gaertner](https://open.spotify.com/artist/20pShYixHbYfabMneFBBAW) | [A new day](https://open.spotify.com/album/6PaweQ9HpdnCbZyYDMAwrc) | 2:40 | 2020-10-20\* |  |
 | [A Presence Felt](https://open.spotify.com/track/1Uli6hijxurqXnmkNCZuyK) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [The Crossing](https://open.spotify.com/album/5o7ZYBKSmXLLm9mIHIqJUc) | 3:04 | 2022-07-22 |  |
 | [A Presence Felt](https://open.spotify.com/track/1nhuTS6xotWZima4bQJUvX) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [The Crossing](https://open.spotify.com/album/5PdN1hbgdNfgEKFG5nsq24) | 3:04 | 2020-10-20\* | 2022-07-29 |
@@ -211,7 +212,7 @@
 | [Oceanbird Song](https://open.spotify.com/track/3bkDRZy33aVQHK8PZsIPLH) | [Europa Falls](https://open.spotify.com/artist/3JR6Brrb2Uq8lXcXph5oxz) | [Salt Dreams](https://open.spotify.com/album/2eoTpRBGtm9GtB88nb1aNS) | 3:25 | 2020-10-20\* |  |
 | [Of Memories To Come](https://open.spotify.com/track/3jWBAmCDeMGFc5iBOfy4rl) | [Suraj Ives](https://open.spotify.com/artist/4VPaJH2YvHn7jNz6SVVgwn) | [Of Memories To Come](https://open.spotify.com/album/2YdafUakSLmNYhErroZ6tp) | 2:11 | 2022-10-15 |  |
 | [Old Habit](https://open.spotify.com/track/4FoGnUdmnEsTxrsvRofMZr) | [Jutila](https://open.spotify.com/artist/58Rq5hbLIcvGAlFeMAQFWn) | [Old Habit](https://open.spotify.com/album/1jOnTWP253diSiCFev3UKJ) | 2:03 | 2020-10-20\* |  |
-| [Omnipresence](https://open.spotify.com/track/6scYL80ldtoY5U8Iv2vtsq) | [Wynton Davidson](https://open.spotify.com/artist/37Q6iiVFO4GhLHVbjIbwTg) | [Omnipresence](https://open.spotify.com/album/1ORZeqjuP3L6nf2DVEtB25) | 2:45 | 2020-10-20\* |  |
+| [Omnipresence](https://open.spotify.com/track/6scYL80ldtoY5U8Iv2vtsq) | [Wynton Davidson](https://open.spotify.com/artist/37Q6iiVFO4GhLHVbjIbwTg) | [Omnipresence](https://open.spotify.com/album/1ORZeqjuP3L6nf2DVEtB25) | 2:45 | 2020-10-20\* | 2023-11-18 |
 | [Origins of Light](https://open.spotify.com/track/1cFNjRpfevyUzmUnyHLPfe) | [Night Poets](https://open.spotify.com/artist/13Dj1DIYUAAhlmDPdgoDui) | [Parts Unknown](https://open.spotify.com/album/0DY9PT0TNIiAmWSPw3GhK6) | 3:18 | 2020-10-20\* |  |
 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 | 2020-10-20\* | 2022-08-13 |
 | [Paragliders](https://open.spotify.com/track/2aZASr8jOyTi0GBHBzPnlc) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Paragliders](https://open.spotify.com/album/0QzF3Mk7KFvlDnhHqBrr99) | 3:07 | 2023-08-18 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy trendy & chill Korean R&B music. (Cover: meenoi(\ubbf8\ub178\uc774))",
+  "description": "Enjoy trendy & chill Korean R&B music. (Cover: Jay Park(\ubc15\uc7ac\ubc94))",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -812,7 +812,7 @@
       },
       "artists": [
         {
-          "name": "meenoi",
+          "name": "MEENOI",
           "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
         },
         {
@@ -1124,6 +1124,24 @@
       "duration_ms": 192585,
       "name": "B.T.W (feat. Jay Park) - Prod. Cha Cha Malone",
       "url": "https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2"
+    },
+    {
+      "album": {
+        "name": "WOOOF!",
+        "url": "https://open.spotify.com/album/1y4t87ut2gkVbmGfNjaPyV"
+      },
+      "artists": [
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267857,
+      "name": "Baby I Know",
+      "url": "https://open.spotify.com/track/6Qrz1XYQHe0yTVZw5r3KCs"
     },
     {
       "album": {
@@ -2174,7 +2192,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 186019,
       "name": "Candy (Feat. Zion.T)",
       "url": "https://open.spotify.com/track/0luFANDtNNjcBXKazh3dV8"
@@ -3624,7 +3642,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 220000,
       "name": "Dreaming of You (Feat. Sonny Zero)",
       "url": "https://open.spotify.com/track/139QSany5ZxsIl7rtBXtDB"
@@ -5694,7 +5712,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 210106,
       "name": "I Want to Be Closer to You",
       "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
@@ -5814,7 +5832,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 168800,
       "name": "In The Mood",
       "url": "https://open.spotify.com/track/1f7WTvoghCDULXgxMrwXAY"
@@ -6986,7 +7004,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 199640,
       "name": "Love Me A Little",
       "url": "https://open.spotify.com/track/66RK4bz7fZGrfyBb3y9Yal"
@@ -9622,7 +9640,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 267080,
       "name": "Restless",
       "url": "https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe"
@@ -11837,6 +11855,24 @@
     },
     {
       "album": {
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173226,
+      "name": "Up Late",
+      "url": "https://open.spotify.com/track/0zGHkO156T5MNaYmaS7fNP"
+    },
+    {
+      "album": {
         "name": "Up Late",
         "url": "https://open.spotify.com/album/4WP3fm7ewSHgbQLHn84oaf"
       },
@@ -12473,6 +12509,24 @@
     },
     {
       "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208573,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY"
+    },
+    {
+      "album": {
         "name": "Why (Feat. Hoody)",
         "url": "https://open.spotify.com/album/00nRSfDSImQs5Y3K0xDO8s"
       },
@@ -12602,7 +12656,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 168870,
       "name": "Winter blossom (feat. Ashley Alisha & nobody likes you pat)",
       "url": "https://open.spotify.com/track/5fTjaxacUujHQzT8qPHKoq"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Jay de la Cueva en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Jonaz en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -3661,6 +3661,24 @@
     },
     {
       "album": {
+        "name": "Lxs Vampirxs",
+        "url": "https://open.spotify.com/album/7BzIXzDZRnFZEHo1OfYsfy"
+      },
+      "artists": [
+        {
+          "name": "Los Blenders",
+          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149250,
+      "name": "Lxs Vampirxs",
+      "url": "https://open.spotify.com/track/7BdvEr27dk6v2X8OY2ZPi0"
+    },
+    {
+      "album": {
         "name": "Mal Negocio",
         "url": "https://open.spotify.com/album/1xPDCNo9ghP9xoCthbcvbn"
       },
@@ -4650,7 +4668,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 176335,
       "name": "No les Dire La verdad",
       "url": "https://open.spotify.com/track/2kVAt63gbF3zsZeNVg9dRo"
@@ -5380,7 +5398,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 209250,
       "name": "Que fue lo que Pas\u00f3",
       "url": "https://open.spotify.com/track/6e705fkOBUYIBAe7MVczDD"
@@ -6832,6 +6850,24 @@
       "duration_ms": 195317,
       "name": "vitaminas",
       "url": "https://open.spotify.com/track/1uQTZD3fC0WJJW9mogGS13"
+    },
+    {
+      "album": {
+        "name": "vivo del aire",
+        "url": "https://open.spotify.com/album/3Pa0BLpFOK8hVg9KqTq035"
+      },
+      "artists": [
+        {
+          "name": "Depresi\u00f3n Sonora",
+          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168539,
+      "name": "vivo del aire",
+      "url": "https://open.spotify.com/track/3tHNE5g3k7553UMCix0fwX"
     },
     {
       "album": {

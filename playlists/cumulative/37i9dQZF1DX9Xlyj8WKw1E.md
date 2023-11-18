@@ -4,7 +4,7 @@
 
 > Midwest music breaking waves\. Cover: <a href="spotify:artist:3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>
 
-526 songs - 1 day 1 hr 36 min
+527 songs - 1 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,7 +419,8 @@
 | [SHAKE SUMN \(with Sexyy Red\) \- REMIX](https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SHAKE SUMN \(with Sexyy Red\) \[REMIX\]](https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS) | 2:04 | 2023-07-14 | 2023-07-29 |
 | [Shameless](https://open.spotify.com/track/5TXHfDONIkjJo9L3VbeNPp) | [Presto Baker](https://open.spotify.com/artist/11mHRqnlqIiSCmR81oiD9w), [Soledad](https://open.spotify.com/artist/2246kGulaALPWwrZv1M2Uv) | [Shameless](https://open.spotify.com/album/4adl3y5F8OSRlNPAzQcy70) | 2:42 | 2022-06-07 | 2022-07-19 |
 | [Shordie \(with Gunna\)](https://open.spotify.com/track/6H6ZtVp6DymejLOJLdRzOI) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:56 | 2022-10-25 | 2023-04-16 |
-| [Show & Tell \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/20r9RAF5u8jbM70PYrGufL) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [The Patience](https://open.spotify.com/album/7GlMEHJyohBhILSQYQIFgI) | 4:20 | 2023-08-25 |  |
+| [Show & Tell \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/20r9RAF5u8jbM70PYrGufL) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [The Patience](https://open.spotify.com/album/7GlMEHJyohBhILSQYQIFgI) | 4:20 | 2023-08-25 | 2023-11-18 |
+| [Show & Tell \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/4iJVfdFivbtN9n72aUtgOx) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [The Patience](https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87) | 4:20 | 2023-10-28 |  |
 | [Sick of Y'all](https://open.spotify.com/track/2vRz2l7Ma7r5g3u1VAgIzH) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Sick of Y'all](https://open.spotify.com/album/3e0u3v8vK1gTiXCcs4HpnY) | 1:57 | 2022-06-07 | 2022-07-02 |
 | [SIDEKICK \(with Joyce Wrice\) \- BONUS](https://open.spotify.com/track/3vHyRGuJDnZ5IqK4BwjWXW) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [moreward\(FORWARD\)](https://open.spotify.com/album/4dz4CiyJKCoHWyA7MuHbBx) | 2:14 | 2023-10-13 |  |
 | [Sincerely Face](https://open.spotify.com/track/1waGPIj1dVvVj1K7g2Qqkl) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [FACE](https://open.spotify.com/album/4cy5H3elTd4senApZFBA1g) | 2:41 | 2022-02-18 | 2022-06-08 |

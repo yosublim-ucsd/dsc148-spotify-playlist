@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover: <a href="spotify:artist:3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,410 likes - 61 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,433 likes - 61 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 31 | [I'm Geekin \(feat\. NLE Choppa & BIA\) \- Remix](https://open.spotify.com/track/5TGkqW4UfYV1jQVLrhz4Yc) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [I'm Geekin \(feat\. NLE Choppa & BIA\) \[Remix\]](https://open.spotify.com/album/00Lj9HDscsRLpbBG3stE2g) | 3:09 |
 | 32 | [Fee](https://open.spotify.com/track/4nQ5xs6NAax7PzMJq7z8ZU) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL) | [Caturday](https://open.spotify.com/album/3Fv9b8VejFy3EktLiQorku) | 4:28 |
 | 33 | [Back In Office](https://open.spotify.com/track/5rrtDWbFizKTZ7GcsHYHh7) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH) | [Back In Office](https://open.spotify.com/album/3ytxE6VpY5QAeqWQBeI4eg) | 2:53 |
-| 34 | [Show & Tell \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/20r9RAF5u8jbM70PYrGufL) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [The Patience](https://open.spotify.com/album/7GlMEHJyohBhILSQYQIFgI) | 4:20 |
+| 34 | [Show & Tell \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/4iJVfdFivbtN9n72aUtgOx) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [The Patience](https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87) | 4:20 |
 | 35 | [Yea Yea \(with Dreezy\)](https://open.spotify.com/track/5vDaxi6wSFM79RSI8AWJFS) | [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Yea Yea](https://open.spotify.com/album/2o8jRK4gRgKFnJKpRpKrMv) | 3:03 |
 | 36 | [WANT EM HOOD](https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [WANT EM HOOD](https://open.spotify.com/album/5RDX2YRAeBPI5ayzMqHubO) | 2:45 |
 | 37 | [HATERS](https://open.spotify.com/track/2dAfy2HHB4KLJOtD2bZrTT) | [SoloSam](https://open.spotify.com/artist/45hmyXoTVMtPASGkZwUqY7) | [HATERS](https://open.spotify.com/album/2EeLrBQquhoobsYNCVuwQH) | 2:45 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 60 | [Tell Shyanne](https://open.spotify.com/track/5kCWAi0N7NIWcEfW8kKpwi) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Tell Shyanne](https://open.spotify.com/album/1hZAoVLexmc57NQ0BB2W76) | 2:23 |
 | 61 | [Love Is Long](https://open.spotify.com/track/3AzDKKpGEnIY8roLn07foy) | [Ebony Loren](https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY) | [Love Is Long](https://open.spotify.com/album/7bJxRFnNk4H4jhrKjBfbTM) | 3:19 |
 
-Snapshot ID: `MCw0YjA4ODc4ZTk4YTNmZjcxMmU2MmM2ZTUwMTE5MjYyZTVkZWYyMmQz`
+Snapshot ID: `MCxhZWY3ZGVlNGIwMGE1MDI1YjE3YWNmMjhkZWU3NTU2ZGZmNmExYzFk`

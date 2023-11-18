@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. Foto: Marcela Morelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,764 likes - 30 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,773 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 6 | [Esa Musiquita \(with Teresa Parodi\)](https://open.spotify.com/track/2Ez9mTUUoXZYpJmr6OFEUu) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Cantora](https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl) | 3:07 |
 | 7 | [Acaramelao / Endúlzame los Oídos \- Headphone Mix](https://open.spotify.com/track/4nbDc7f97uUIno916znqQM) | [Patricia Sosa](https://open.spotify.com/artist/4kyLueNyhG8PKhJagDDOJD), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Endúlzame los Oídos / Acaramelao \(Headphone Mix\)](https://open.spotify.com/album/7C6WY8UbWT2ny3Oogkpu8E) | 2:47 |
 | 8 | [Aunque Reste Tiempo](https://open.spotify.com/track/2n12lyjWRx534CyUUSa5Dw) | [Noelia Recalde](https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv) | [Tiempo al Sol](https://open.spotify.com/album/13iykFFEcCbq2G2669E1Hd) | 1:35 |
-| 9 | [La Batalla](https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [La Batalla](https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf) | 4:56 |
+| 9 | [Azúcar del Estero](https://open.spotify.com/track/6KVOOiZ0QWZiYbwHVzncru) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Tiempo Mariposa](https://open.spotify.com/album/5nTp3qal7e64coF2pnjS7P) | 4:29 |
 | 10 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
-| 11 | [Azúcar del Estero](https://open.spotify.com/track/6KVOOiZ0QWZiYbwHVzncru) | [Elena Roger](https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie) | [Tiempo Mariposa](https://open.spotify.com/album/5nTp3qal7e64coF2pnjS7P) | 4:29 |
+| 11 | [La Batalla](https://open.spotify.com/track/3MLYtPOOPhzmmsL5yLLFqu) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [La Batalla](https://open.spotify.com/album/4Xd4pfERdR1UulMgvMvfNf) | 4:56 |
 | 12 | [Paloma](https://open.spotify.com/track/1hVPHCzRy4X0O84ouOVY9Q) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Celesteacustica](https://open.spotify.com/album/1tQKUvIE5Hy2AAu5vQ42xe) | 3:17 |
 | 13 | [No Podrás](https://open.spotify.com/track/0hBEnza4ST0mYX73QHTev1) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Tu Mejor Plan](https://open.spotify.com/album/2lQjC0dJQ6Ez3mFTSx6NaI) | 3:15 |
 | 14 | [La Jardinera](https://open.spotify.com/track/00zT0eMDElv45NrSp2xOjF) | [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF), [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q) | [Las Flores Buenas](https://open.spotify.com/album/6W6hyz4Wg8S0Uwxwhbs46q) | 3:54 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 29 | [Antes De Gira](https://open.spotify.com/track/06rdl9IZtSAVkYjeuKuQMV) | [María Rosa Yorio](https://open.spotify.com/artist/2GrKE2j3FFdSw8eAtrZqmq) | [Antes De Gira](https://open.spotify.com/album/18cGj1u47imxFyt40dZHjQ) | 3:33 |
 | 30 | [Crecer con todo](https://open.spotify.com/track/6SHyHEHReOLnQafBSfF68L) | [Julia Zenko](https://open.spotify.com/artist/5zsw1AANYqHiLeJ9GGHjLP) | [Crecer Con Todo](https://open.spotify.com/album/4B4Mv52aAJQCmDhgtOufEu) | 4:21 |
 
-Snapshot ID: `MCw2YWViZjk4M2UyYzU2NjFjYmQwZDEzM2E1N2Y3ZmJhMzk4ZTU1MGVh`
+Snapshot ID: `MCw3ODFjYzRmZjczNzgyZjI0ZWNjYTExNTNiZjlhMTVlMGVhMDczMzFk`

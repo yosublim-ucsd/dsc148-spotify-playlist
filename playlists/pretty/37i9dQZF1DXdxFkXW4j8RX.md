@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: Liricistas & Utopiko.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,353 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,518 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 90 | [LEGEND](https://open.spotify.com/track/7JD8Mw6Kg58thpwN0nmgMJ) | [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [JOSE SPAACE](https://open.spotify.com/artist/2rNJ5aQFR3gAnEIbpqUtF6), [Lan](https://open.spotify.com/artist/7xWssG0O4bIc1vUhdqMWHg) | [LEGEND](https://open.spotify.com/album/49UsGxXPbBwqLL3HW11TYU) | 3:28 |
 | 91 | [Suerte](https://open.spotify.com/track/7oZLCoxcIMZzBE9hEHCWR0) | [Zita Zoe](https://open.spotify.com/artist/5w3yQZC4IFbbGaOTTne3Nk), [Gonem Beats](https://open.spotify.com/artist/15dlqhwACW4PoQRIsSQUYJ), [Nef Talib](https://open.spotify.com/artist/432tb6qpPvFIC2Djm5FoRQ) | [Suerte](https://open.spotify.com/album/0Rllfr3QR8wKH1ZjJ4TtB6) | 2:25 |
 | 92 | [Punto Final](https://open.spotify.com/track/7wJvS7ox9hDnnZUACT95lA) | [Mamborap](https://open.spotify.com/artist/1R4SZjsnu91VWf5BhkKdH0) | [Punto Final](https://open.spotify.com/album/1M0XyP5IuWZ33d0weKZDr6) | 4:02 |
-| 93 | [Caribbean Connectah](https://open.spotify.com/track/7twCigufBJOoA6tSzVLSzw) | [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m) | [Caribbean Connectah](https://open.spotify.com/album/28ZpAE4Os1XP0uuPkxCRDy) | 3:44 |
+| 93 | [Caribbean Connectah](https://open.spotify.com/track/7twCigufBJOoA6tSzVLSzw) | [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Cristoblah](https://open.spotify.com/artist/13fex8ULY9z5x5Mw5XYkkM) | [Caribbean Connectah](https://open.spotify.com/album/28ZpAE4Os1XP0uuPkxCRDy) | 3:44 |
 | 94 | [Dame Tiempo](https://open.spotify.com/track/6jDYfzI08C4pMLEASAexb4) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Hazhe](https://open.spotify.com/artist/4p362NN14lMGC5NOnFR0lk) | [Dame Tiempo](https://open.spotify.com/album/4DV5dX49qFimq6JM1xPL8Q) | 3:25 |
 | 95 | [El Lamento del Pueblo](https://open.spotify.com/track/5nTnKJ1eDoU4dxwsjrXFql) | [Cevlade](https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY) | [El Lamento del Pueblo](https://open.spotify.com/album/1VwM1cng7ptbUgkSWVSBYS) | 4:07 |
 | 96 | [Capital Bacteria](https://open.spotify.com/track/0rfUN5Pqg5bonCr9JO9gXv) | [Soledades Pasajeras](https://open.spotify.com/artist/7zEThbBAXC72yuedExxjUE), [Benour](https://open.spotify.com/artist/3fXjWSQMP1Uq1zHyq9wBHV) | [Capital Bacteria](https://open.spotify.com/album/4xhnubL68qjOAijDJg7TZt) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 99 | [Cuentos](https://open.spotify.com/track/1Qo4WtxrJ11TRLiwnMpxkJ) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4), [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Cuentos](https://open.spotify.com/album/7a5a20D7POPe4lKraQkpVf) | 3:12 |
 | 100 | [De Donde Vengo](https://open.spotify.com/track/0B7YG0Rd4Jp3IMwaq6mAJL) | [Rapacortes](https://open.spotify.com/artist/4vpADGNWS3zDDxd2hQrOoM), [Kainos Mc](https://open.spotify.com/artist/24GzJuRlLgJhXKlIivLtFx) | [De Donde Vengo](https://open.spotify.com/album/7rmjij4qA9ZnOzZEPAwvAb) | 3:24 |
 
-Snapshot ID: `MCxiYjllODg4MjEzNWFiY2MwM2VmNjdmMjE1NmI4NjU4OWQ2NjZlMzMw`
+Snapshot ID: `MCxjOGY5ZmJlOWExMGYyMmE5ZmVhYWU5NzA3NGM0YjUzMzI1MzFlNTI3`

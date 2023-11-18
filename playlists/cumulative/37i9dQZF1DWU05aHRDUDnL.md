@@ -4,7 +4,7 @@
 
 > Put your headphones on and enjoy your day.
 
-41 songs - 2 hr 32 min
+42 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,9 @@
 | [Dirty Girl](https://open.spotify.com/track/14OBGVZHB5KEWoYyr5Lb2w) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [World on Fire](https://open.spotify.com/album/0HBgPC1vbZUmQziDZS78Rg) | 4:14 | 2015-08-05 | 2022-07-29 |
 | [Dirty Girl](https://open.spotify.com/track/5BrQMw5Xy8OU8a1qQGGv8Y) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [World On Fire](https://open.spotify.com/album/3ZyFMWdKyIYxCLbK40OvcV) | 4:14 | 2015-08-05 |  |
 | [Dr\. Feelgood](https://open.spotify.com/track/3srPnN4EqPhdvMROVESuIA) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feel Good](https://open.spotify.com/album/3RhyN522lhBDZSbi7Axl9z) | 4:49 | 2015-08-05 | 2022-07-29 |
-| [Dr\. Feelgood](https://open.spotify.com/track/2cc9k15AifO7RfxxuEExkS) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD) | 4:51 | 2015-08-05 |  |
+| [Dr\. Feelgood](https://open.spotify.com/track/2cc9k15AifO7RfxxuEExkS) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD) | 4:51 | 2015-08-05 | 2023-11-18 |
 | [Dr\. Feelgood](https://open.spotify.com/track/47IUkJHzpwzTzbJjO4AcoF) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [The Dirt Soundtrack](https://open.spotify.com/album/1FeIa1My6QQ6oQjUYxI36O) | 4:51 | 2015-08-05 | 2022-11-13 |
+| [Dr\. Feelgood \(2021\- Remaster\)](https://open.spotify.com/track/35Aj3CGTmWkjGr4bjYmkk5) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(40th Anniversary;2021 \- Remaster\)](https://open.spotify.com/album/2EToovm9UH7cVPepJOg1B6) | 4:49 | 2015-08-05 |  |
 | [Figure It Out](https://open.spotify.com/track/3MjrueDQKVr6xDDseZwhEd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 3:03 | 2015-08-05 | 2022-07-29 |
 | [Figure It Out](https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:03 | 2015-08-05 |  |
 | [Figure It Out](https://open.spotify.com/track/0QdNZ4eqC6FMa7xZ7rYplc) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [So F\*\*kInG cOoL \- Alternative Hits](https://open.spotify.com/album/3W8va9bsPnWq2Ohph6Nqs8) | 3:04 | 2015-08-05 | 2022-11-13 |

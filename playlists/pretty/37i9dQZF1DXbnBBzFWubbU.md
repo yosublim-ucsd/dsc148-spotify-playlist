@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,712 likes - 85 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,947 likes - 85 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 | 21 | [Saiyaan](https://open.spotify.com/track/5tvugIiSGeRfuGygvD0Lob) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Mudra 2](https://open.spotify.com/album/5cAOUQrYPMiwte6QZqYyWI) | 2:30 |
 | 22 | [Aja Sawariya](https://open.spotify.com/track/1YiwARhwbWkDELenG8Toi6) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Aja Sawariya](https://open.spotify.com/album/3DW4dwDoi4pGl5f55YqsKK) | 2:52 |
 | 23 | [Bop](https://open.spotify.com/track/3YHweGUJ3Qds95EScnZewK) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Bop](https://open.spotify.com/album/4rJKZBpvy22QPs3S5h7cUj) | 5:08 |
-| 24 | [Pali](https://open.spotify.com/track/51CJlM8PSO8rW77NFjbp15) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Avneet Khurmi](https://open.spotify.com/artist/25rYHJjDq8FFPApQnj3LXT) | [Pali](https://open.spotify.com/album/5FBaOyvLb0hJ8ahrrKnBUi) | 2:59 |
+| 24 | [Pali](https://open.spotify.com/track/4jvrLxIw2hGRDNsOt9PEGs) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Avneet Khurmi](https://open.spotify.com/artist/25rYHJjDq8FFPApQnj3LXT) | [Pali](https://open.spotify.com/album/0Hvpv9kEqwM5wFqRky6WTf) | 2:59 |
 | 25 | [Mera Dil Ye Pukare \- Tu Aaja \- Heartlock Mix](https://open.spotify.com/track/6bJmYR0sjTZNJxwdw52ern) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Heartlock](https://open.spotify.com/artist/0XqW9UITIzCIQ4CurIcgwz) | [Mera Dil Ye Pukare \- Tu Aaja \(Heartlock Mix\)](https://open.spotify.com/album/313XQLTvs8g357smdl4S0j) | 2:02 |
 | 26 | [Sitar Flex](https://open.spotify.com/track/2uQPkioasNry7ehHaEnsyV) | [Sodhivine](https://open.spotify.com/artist/2S6ptKppxWXwvrTaabpeT0) | [Future Bollywood Trap Sounds](https://open.spotify.com/album/6jbG2VTBM4KAD652A2uhxQ) | 2:14 |
 | 27 | [Dilbar](https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD) | 2:48 |

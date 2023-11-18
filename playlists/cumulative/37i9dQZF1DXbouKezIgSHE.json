@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "Where drum & bass comes alive. Cover: Fitch",
+  "description": "Where drum & bass comes alive. Cover: Shockone",
   "name": "Long Live DnB",
   "tracks": [
     {
@@ -1487,6 +1487,28 @@
     },
     {
       "album": {
+        "name": "Higher Rush (feat. Freaks & Geeks)",
+        "url": "https://open.spotify.com/album/0QDxzWlZ3pLlNyl3pYkggD"
+      },
+      "artists": [
+        {
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+        },
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205002,
+      "name": "Higher Rush (feat. Freaks & Geeks)",
+      "url": "https://open.spotify.com/track/0VnWY7NrE3356pI7jv91Uq"
+    },
+    {
+      "album": {
         "name": "Alchemy",
         "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
       },
@@ -1502,6 +1524,28 @@
       "duration_ms": 196598,
       "name": "Higher Than Ever Before",
       "url": "https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh"
+    },
+    {
+      "album": {
+        "name": "Hold Back",
+        "url": "https://open.spotify.com/album/3O5kjXn6NzRtrW7fUzbK7Q"
+      },
+      "artists": [
+        {
+          "name": "Sly Chaos",
+          "url": "https://open.spotify.com/artist/02QaTKGbI6W9D80tPSqJ6i"
+        },
+        {
+          "name": "Jaz Paterson",
+          "url": "https://open.spotify.com/artist/5iLjZUPG66SIQx9sTjSxp5"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256551,
+      "name": "Hold Back",
+      "url": "https://open.spotify.com/track/44F0WC5Edt3TIYkghjmXUA"
     },
     {
       "album": {

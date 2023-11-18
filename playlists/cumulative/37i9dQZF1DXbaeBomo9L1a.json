@@ -805,6 +805,24 @@
     },
     {
       "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/51VWvFuTcJuqfvms0SLXQr"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165230,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/3Ku8Zc9cnCkKwvXs7qErVQ"
+    },
+    {
+      "album": {
         "name": "Good Days",
         "url": "https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7"
       },
@@ -1352,7 +1370,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 169090,
       "name": "Mabiland Hotline: Cobuz & Bustta",
       "url": "https://open.spotify.com/track/343PbZqiWOFGS629yyTD9J"

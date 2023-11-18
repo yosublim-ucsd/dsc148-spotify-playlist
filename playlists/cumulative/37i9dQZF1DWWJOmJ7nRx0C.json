@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: Beartooth",
+  "description": "Instructions: volume up. Cover: Five Finger Death Punch",
   "name": "Rock Hard",
   "tracks": [
     {
@@ -536,6 +536,24 @@
       "duration_ms": 200000,
       "name": "Agony",
       "url": "https://open.spotify.com/track/6TwbNA8sNXsKm2qXTs5Ogl"
+    },
+    {
+      "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/36WjrK0Tv7WhAX0BZim8sG"
+      },
+      "artists": [
+        {
+          "name": "Porno for Pyros",
+          "url": "https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229900,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/1FVPHZcQQGiEO7XUmqsxCh"
     },
     {
       "album": {
@@ -2348,7 +2366,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 223080,
       "name": "Breakout",
       "url": "https://open.spotify.com/track/3rWtfyhHQM7PmeXJjcK2D2"
@@ -2535,6 +2553,28 @@
     },
     {
       "album": {
+        "name": "Burn MF (feat. Rob Zombie)",
+        "url": "https://open.spotify.com/album/6VPBlSRkkWju1JgMxpVFqU"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217847,
+      "name": "Burn MF (feat. Rob Zombie)",
+      "url": "https://open.spotify.com/track/4zFrUrmwGjLWWDvlyOTcTu"
+    },
+    {
+      "album": {
         "name": "Burn With You",
         "url": "https://open.spotify.com/album/4RxTruqh7IQ6zMG44NAdhS"
       },
@@ -2716,6 +2756,24 @@
       "duration_ms": 197233,
       "name": "Can't Get High Enough",
       "url": "https://open.spotify.com/track/29x83ECDaWQ0CUXLv8fxOk"
+    },
+    {
+      "album": {
+        "name": "Self Defeater",
+        "url": "https://open.spotify.com/album/7wKkoiFNlTDk9B0HyRpbKn"
+      },
+      "artists": [
+        {
+          "name": "Post Profit",
+          "url": "https://open.spotify.com/artist/0nLFDUWGeYyJ88FNXnx4Xg"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193120,
+      "name": "Cancer Culture",
+      "url": "https://open.spotify.com/track/6r11yrpfazZuVI9QcwQZqU"
     },
     {
       "album": {
@@ -4116,7 +4174,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 202408,
       "name": "Dead Weight",
       "url": "https://open.spotify.com/track/6zESIOIYKaxZQJP2hxgDlB"
@@ -4510,7 +4568,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 191565,
       "name": "Diary Of A Masochist",
       "url": "https://open.spotify.com/track/1WvNXN1ctrGptr5vd9wHKO"
@@ -5342,6 +5400,24 @@
       "duration_ms": 214175,
       "name": "Empty",
       "url": "https://open.spotify.com/track/6gw8oHxB3u5naUO7tc7Zmg"
+    },
+    {
+      "album": {
+        "name": "THE INDIGO FAULT",
+        "url": "https://open.spotify.com/album/5MUbgqjnog8yzzTFWrYHJJ"
+      },
+      "artists": [
+        {
+          "name": "FOXCULT",
+          "url": "https://open.spotify.com/artist/7L6kMvKSw3xxrjQjkHxTVO"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229600,
+      "name": "EMPTY SPACE",
+      "url": "https://open.spotify.com/track/6qUpA6jKMP6CSSqtam1nUC"
     },
     {
       "album": {
@@ -6222,7 +6298,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 192542,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/6HNdvD3w5HAV9FDUQAZzLS"
@@ -8646,7 +8722,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 262631,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE"
@@ -10519,6 +10595,24 @@
     },
     {
       "album": {
+        "name": "MERCY KILL",
+        "url": "https://open.spotify.com/album/0XzfAfWHhZlL7WSL6acUnx"
+      },
+      "artists": [
+        {
+          "name": "VUKOVI",
+          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186341,
+      "name": "MERCY KILL",
+      "url": "https://open.spotify.com/track/2vX1GxoaaomoYsbRy5VjK6"
+    },
+    {
+      "album": {
         "name": "End of an era",
         "url": "https://open.spotify.com/album/5dTaJdgmqgz5hcmpSVNgVF"
       },
@@ -11039,6 +11133,24 @@
     },
     {
       "album": {
+        "name": "Mystic Cord",
+        "url": "https://open.spotify.com/album/3jVi4YL9O4ZIoe7eFFJQKE"
+      },
+      "artists": [
+        {
+          "name": "Many Eyes",
+          "url": "https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181400,
+      "name": "Mystic Cord",
+      "url": "https://open.spotify.com/track/2gO2rwntCs0InXql4AOQTV"
+    },
+    {
+      "album": {
         "name": "Natural Born Killer/Pink Lullabye",
         "url": "https://open.spotify.com/album/379z7WiokF2pa4kKUgVjRF"
       },
@@ -11054,6 +11166,24 @@
       "duration_ms": 196135,
       "name": "Natural Born Killer",
       "url": "https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H"
+    },
+    {
+      "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197400,
+      "name": "Need A Favor",
+      "url": "https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy"
     },
     {
       "album": {
@@ -11086,7 +11216,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 197400,
       "name": "Need A Favor",
       "url": "https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ"
@@ -11534,10 +11664,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 194960,
       "name": "NOTHINGNESS",
       "url": "https://open.spotify.com/track/0QRK0E7CwPfw1ON6kIGfNX"
+    },
+    {
+      "album": {
+        "name": "NOTHINGNESS",
+        "url": "https://open.spotify.com/album/52xz4kyfRQtTdreXxWRJG1"
+      },
+      "artists": [
+        {
+          "name": "ROMES",
+          "url": "https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194960,
+      "name": "NOTHINGNESS",
+      "url": "https://open.spotify.com/track/1aSBGwV7KTJQhkyQ86TmXQ"
     },
     {
       "album": {
@@ -13326,7 +13474,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 253746,
       "name": "Revelation",
       "url": "https://open.spotify.com/track/0cWQy0wDjVJbuUDDZabWfu"
@@ -14392,6 +14540,24 @@
       "duration_ms": 258786,
       "name": "Silver Tongue",
       "url": "https://open.spotify.com/track/5uNazTJV7Rpd8zAtWDiSiG"
+    },
+    {
+      "album": {
+        "name": "Sin So Sweet",
+        "url": "https://open.spotify.com/album/45GYmPkrKlJKNoEumS726f"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201053,
+      "name": "Sin So Sweet",
+      "url": "https://open.spotify.com/track/4N3mpuGDYO39LYh4XepwbO"
     },
     {
       "album": {
@@ -17197,6 +17363,24 @@
     },
     {
       "album": {
+        "name": "The Fear of Fear",
+        "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281052,
+      "name": "Too Close / Too Late",
+      "url": "https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3"
+    },
+    {
+      "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
       },
@@ -17992,7 +18176,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 239904,
       "name": "War Machine",
       "url": "https://open.spotify.com/track/5HrNebS0Z8YJq2xz4zZ9zl"

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,037 likes - 98 songs - 12 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,094 likes - 98 songs - 12 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Decisions Have Already Been Made](https://open.spotify.com/track/4Onumx4fzG3PyhhcRfKX7e) | [East Axis](https://open.spotify.com/artist/0A9QoZUtf7eeT2aFWlNpr4) | [No Subject](https://open.spotify.com/album/2ovHJyY0S04AWDikBhgwna) | 10:17 |
 | 2 | [In the Beginning](https://open.spotify.com/track/1lsAgWb8bSBTyU8kh2WsgU) | [New Age Doom](https://open.spotify.com/artist/6iU5QzSQAqgii8yIGQp0Ni), [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [In the Beginning](https://open.spotify.com/album/587gr5QhKHOifSJjLkbRPF) | 11:00 |
-| 3 | [Chancelot](https://open.spotify.com/track/07BN3WGtVwKfLZhynxgaO9) | [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Shinpei Ruike](https://open.spotify.com/artist/5hIsqTfC2qj4oawLhTDLs1) | [Chancelot](https://open.spotify.com/album/0whxfN7HPyYtxdM5gXnqVu) | 2:30 |
+| 3 | [Chancelot](https://open.spotify.com/track/4s6J9TbdsogLZrwYprdxzC) | [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Shinpei Ruike](https://open.spotify.com/artist/5hIsqTfC2qj4oawLhTDLs1) | [Nostalgia Blitz](https://open.spotify.com/album/5jLc5Vrug16IJK3lqM4EWP) | 2:30 |
 | 4 | [New Dawn](https://open.spotify.com/track/35vLmAqKYb2R9KwKP2aKOV) | [Jeff Coffin](https://open.spotify.com/artist/0nQtFR0hKvnxrmBydLJt5D), [Johnny Vidacovich](https://open.spotify.com/artist/33yKP7Dqn5kkMNcxUoJwWA), [James Singleton](https://open.spotify.com/artist/3A07LOMMmRbj9cFQ7xAqQt), [Tony Dagradi](https://open.spotify.com/artist/7jY3IF3mLOfmkuTMZr5d70) | [Look For Water](https://open.spotify.com/album/2fFPASABUYoAT64T6KSbCZ) | 6:45 |
 | 5 | [Melt All the Guns](https://open.spotify.com/track/4zpN6HASOz9T15MhpBvM4A) | [Devin Gray](https://open.spotify.com/artist/4Ivo3FWLlLMJLnscn6Z6Ha), [Ralph Alessi](https://open.spotify.com/artist/2yHcAgHAPUdUhVuiIWWcba), [Angelica Sanchez](https://open.spotify.com/artist/5nTk4mPlKGQn2HCrJIsEFi) | [Melt All the Guns](https://open.spotify.com/album/6Bpgr7virRwtyK3stIIb4R) | 4:31 |
 | 6 | [Rush](https://open.spotify.com/track/4dzF4kL1JEodFrKIB98CkX) | [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Rush](https://open.spotify.com/album/1Ziua7CFzE6Aoho1nu6rey) | 5:35 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 97 | [Breaking Point](https://open.spotify.com/track/08didpMJM0vsICBS3uu2Xd) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [The Essential Blue Note Collection](https://open.spotify.com/album/7dDZGuJMNFpIHa2J2jSdJT) | 10:19 |
 | 98 | [Conduction No.186 \- Live](https://open.spotify.com/track/10oUh9vQB9J36UmsGuWxRl) | [Nublu Orchestra](https://open.spotify.com/artist/3kir4KuUljdyYGWpQ3tPX9), [Butch Morris](https://open.spotify.com/artist/180iBifQGB9dLM5dSelaAK) | [Live in Lisbon](https://open.spotify.com/album/5WnPY79tkeyhrRcInkUjMp) | 43:14 |
 
-Snapshot ID: `MCw1YzIxM2JiMDExNjA5OWI3MTdhZjc5YzcwNTE1NDk0MDAwNTk3MDk1`
+Snapshot ID: `MCw2OTQ2YmFiOGVjZWQyMTc1N2I2YmU0MGUxM2IyYzI0Y2M5OTZlZmI4`

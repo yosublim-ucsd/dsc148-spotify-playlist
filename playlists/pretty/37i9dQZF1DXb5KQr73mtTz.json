@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 16644,
+  "num_followers": 16684,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDYzNmNjYjk4YmQzNThiZGNmYTM1YjZmNzcxZDY4NmY1ZWMyYjFl",
+  "snapshot_id": "MCwwNDRmNmZkNjdlMjE3M2VjZTg3ODI2ZGZkY2Q2M2FkMDA4ODBjNjg1",
   "tracks": [
     {
       "added_at": "2023-11-03 06:22:09",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-11-03 06:22:09",
       "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/3OI0ZIZFK6K1CKbgNtL6LY"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 258321,
-      "name": "The Hardest Part",
-      "url": "https://open.spotify.com/track/0iJhBjjOrLKG8RwmjWWSfF"
-    },
-    {
-      "added_at": "2023-11-03 06:22:09",
-      "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 227360,
       "name": "Clockwork",
       "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
+    },
+    {
+      "added_at": "2023-11-03 06:22:09",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/3OI0ZIZFK6K1CKbgNtL6LY"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 258321,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/0iJhBjjOrLKG8RwmjWWSfF"
     },
     {
       "added_at": "2023-11-03 06:22:09",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Rei & YSY A en la casa del Trap Argentino.",
+  "description": "MP El Juvenil & Lucho SSJ en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -1344,7 +1344,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 102669,
       "name": "Drill Ar 6",
       "url": "https://open.spotify.com/track/4WDbhOoYYizdcM0ifB62wp"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 131134,
       "name": "Duo Dinamico 1",
       "url": "https://open.spotify.com/track/048g5LujX43MfQdmhfPNLO"
@@ -2478,7 +2478,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 251473,
       "name": "Lambo - Remix",
       "url": "https://open.spotify.com/track/6TcRhfejpeeSSGlh433wcD"
@@ -3147,6 +3147,24 @@
     },
     {
       "album": {
+        "name": "M\u00fasica de Barrio",
+        "url": "https://open.spotify.com/album/3yXHx5bO1DX9pk114uWe6n"
+      },
+      "artists": [
+        {
+          "name": "John C",
+          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "Nike",
+      "url": "https://open.spotify.com/track/4bhrb6cU8a6t2RYWuNUT5O"
+    },
+    {
+      "album": {
         "name": "NO PARA",
         "url": "https://open.spotify.com/album/2Yir8cApTfiPzWE4HwMRq5"
       },
@@ -3678,7 +3696,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 106800,
       "name": "Poka Luz",
       "url": "https://open.spotify.com/track/05h2p4OlGsBFNeVMLrKuJE"
@@ -4576,6 +4594,28 @@
       "duration_ms": 159834,
       "name": "T.O.P",
       "url": "https://open.spotify.com/track/0n7FYkpKt7bQ61jolNhV78"
+    },
+    {
+      "album": {
+        "name": "Tamo En On",
+        "url": "https://open.spotify.com/album/1O4bAUoHJd7Fjoy5KVDNOs"
+      },
+      "artists": [
+        {
+          "name": "MP El Juvenil",
+          "url": "https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3"
+        },
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208458,
+      "name": "Tamo En On",
+      "url": "https://open.spotify.com/track/5oD5AjdSGiWNswzMYqBbK0"
     },
     {
       "album": {

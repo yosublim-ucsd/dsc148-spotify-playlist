@@ -2,7 +2,7 @@
 
 ### [Jump Up!](https://open.spotify.com/playlist/37i9dQZF1DX4to60X6goeK)
 
-> Go hard or go home\. Cover: Bou
+> Go hard or go home\. Cover: Kanine
 
 153 songs - 10 hr 24 min
 

@@ -4992,7 +4992,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 222066,
       "name": "Going Mobile",
       "url": "https://open.spotify.com/track/236pPQUEDapfH7Jn6rbhBa"
@@ -8274,6 +8274,24 @@
     {
       "album": {
         "name": "Sladest (Expanded)",
+        "url": "https://open.spotify.com/album/4KITxQrMFcbvB84oOKHREf"
+      },
+      "artists": [
+        {
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178093,
+      "name": "Look Wot You Dun",
+      "url": "https://open.spotify.com/track/0O0lamRAL12DbF9ey1JSxM"
+    },
+    {
+      "album": {
+        "name": "Sladest (Expanded)",
         "url": "https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW"
       },
       "artists": [
@@ -8284,7 +8302,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 178093,
       "name": "Look Wot You Dun",
       "url": "https://open.spotify.com/track/0nSJyhmf9IJXO9cKI1vyrr"
@@ -8856,6 +8874,10 @@
         {
           "name": "Andwella",
           "url": "https://open.spotify.com/artist/0q2sVY3IwEi4dq2pyTBNNb"
+        },
+        {
+          "name": "Andwellas Dream",
+          "url": "https://open.spotify.com/artist/4DV83JtR2UWtGzIyvEyGA8"
         }
       ],
       "date_added": "2022-01-05",
@@ -11220,7 +11242,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 234920,
       "name": "Romeo And The Lonely Girl",
       "url": "https://open.spotify.com/track/6KqIjAkxFmCCMrjFJJJFve"
@@ -14263,6 +14285,24 @@
     },
     {
       "album": {
+        "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
+        "url": "https://open.spotify.com/album/6cv47fKkAyi9Lm5wwud4It"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203973,
+      "name": "This Time Tomorrow (2020 Stereo Remaster)",
+      "url": "https://open.spotify.com/track/1gnP3cx9uzFAVll8OfBcqz"
+    },
+    {
+      "album": {
         "name": "Lola vs. Powerman and the Moneygoround, Pt. One + Percy (Super Deluxe)",
         "url": "https://open.spotify.com/album/6lL6HugNEN4Vlc8sj0Zcse"
       },
@@ -14292,7 +14332,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 203973,
       "name": "This Time Tomorrow - 2020 Stereo Remaster",
       "url": "https://open.spotify.com/track/4KvaAwAeXLKyRjroj2QyjE"

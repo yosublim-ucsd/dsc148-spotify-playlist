@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 82266,
+  "num_followers": 82378,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDhlYTkzZmU0NjhlOTlkZDFlOGE0NDUzY2FlODc3ZTA3ODg3M2Nh",
+  "snapshot_id": "MCxiMTY2NjM3OGZhYWViNDhmYTU3ZTBjMzZjZGY3ZjcwYjk2OGM4OTdm",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -247,6 +247,22 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Ella Fitzgerald Sings The George And Ira Gershwin Song Book",
+        "url": "https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 211480,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/4AlPwIoAo5TzpQQ6b8KwBv"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
         "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 358640,
       "name": "How Long Has This Been Going On?",
       "url": "https://open.spotify.com/track/5axYHelFYVT2Qb5R49LMX6"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Ella Fitzgerald Sings The George And Ira Gershwin Song Book",
-        "url": "https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 211480,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/4AlPwIoAo5TzpQQ6b8KwBv"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -319,26 +319,6 @@
       "duration_ms": 642240,
       "name": "Cuban Overture",
       "url": "https://open.spotify.com/track/3NVtWlBvgoSd3RDAbH5Btd"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Gershwin: 6 Songs / Corea: Children's Songs",
-        "url": "https://open.spotify.com/album/0mTvzUX0Uxz1wdKJlZCZr3"
-      },
-      "artists": [
-        {
-          "name": "Leon Bates",
-          "url": "https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR"
-        },
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        }
-      ],
-      "duration_ms": 78000,
-      "name": "3 Preludes : Allegro Ben Ritmato E Deciso",
-      "url": "https://open.spotify.com/track/2e0YXuNYzhUb9dKpBnGmWq"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -399,6 +379,26 @@
       "duration_ms": 132826,
       "name": "7 Virtuoso Etudes: No. 1, I Got Rhythm (after G. Gershwin)",
       "url": "https://open.spotify.com/track/1MCCJo3HPgOZkGAd2BmTuZ"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: 6 Songs / Corea: Children's Songs",
+        "url": "https://open.spotify.com/album/0mTvzUX0Uxz1wdKJlZCZr3"
+      },
+      "artists": [
+        {
+          "name": "Leon Bates",
+          "url": "https://open.spotify.com/artist/0UoEMuGYplZvgcwHbAcmbR"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "duration_ms": 78000,
+      "name": "3 Preludes : Allegro Ben Ritmato E Deciso",
+      "url": "https://open.spotify.com/track/2e0YXuNYzhUb9dKpBnGmWq"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -592,34 +592,6 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         },
         {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        },
-        {
-          "name": "Stefano Bollani",
-          "url": "https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7"
-        },
-        {
-          "name": "Gewandhausorchester",
-          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
-        }
-      ],
-      "duration_ms": 389173,
-      "name": "Concerto in F: 3. Allegro agitato",
-      "url": "https://open.spotify.com/track/0VIGqlNjBUuRs37Habo8Rn"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Gershwin: Rhapsody in Blue; Piano Concerto in F; Catfish Row etc",
-        "url": "https://open.spotify.com/album/5xOmD6lLCcDtmsj61EbxOi"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
           "name": "Walter Donaldson",
           "url": "https://open.spotify.com/artist/6zeneEyiHJB78Lthi6CHuQ"
         },
@@ -639,6 +611,34 @@
       "duration_ms": 275720,
       "name": "Rialto Ripples (Rag)",
       "url": "https://open.spotify.com/track/0VEWcDQ9GHPKVlHT3CrGhR"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Rhapsody in Blue; Piano Concerto in F; Catfish Row etc",
+        "url": "https://open.spotify.com/album/5xOmD6lLCcDtmsj61EbxOi"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        },
+        {
+          "name": "Stefano Bollani",
+          "url": "https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        }
+      ],
+      "duration_ms": 389173,
+      "name": "Concerto in F: 3. Allegro agitato",
+      "url": "https://open.spotify.com/track/0VIGqlNjBUuRs37Habo8Rn"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -763,6 +763,30 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Gershwin - Set: Bernstein/Ozawa/Previn/Levine",
+        "url": "https://open.spotify.com/album/4OCPUWvxvehvgxAv5nOJ4i"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Gil Shaham",
+          "url": "https://open.spotify.com/artist/6ALhP2ILfgcSmpTefE4C3Q"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "duration_ms": 79226,
+      "name": "3 Preludes for Piano Solo - Arr. Jascha Heifetz: 3. Allegro ben ritmato e deciso",
+      "url": "https://open.spotify.com/track/1lgbpTmHtXHHEhhcckBSXS"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Michael Tilson Thomas Conducts Gershwin",
         "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
       },
@@ -787,30 +811,6 @@
       "duration_ms": 426866,
       "name": "Oh, Kay!: Overture",
       "url": "https://open.spotify.com/track/1lEk5GMiLnHZZtMwXaFQcu"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Gershwin - Set: Bernstein/Ozawa/Previn/Levine",
-        "url": "https://open.spotify.com/album/4OCPUWvxvehvgxAv5nOJ4i"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Gil Shaham",
-          "url": "https://open.spotify.com/artist/6ALhP2ILfgcSmpTefE4C3Q"
-        },
-        {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
-        }
-      ],
-      "duration_ms": 79226,
-      "name": "3 Preludes for Piano Solo - Arr. Jascha Heifetz: 3. Allegro ben ritmato e deciso",
-      "url": "https://open.spotify.com/track/1lgbpTmHtXHHEhhcckBSXS"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -919,26 +919,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin Take Two",
-        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Simon Tedeschi",
-          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
-        }
-      ],
-      "duration_ms": 131400,
-      "name": "Three-Quarter Blues",
-      "url": "https://open.spotify.com/track/0YOj32JKSgt2MQXz7yvpVS"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin Fantasy",
         "url": "https://open.spotify.com/album/3ALYEbd3u0h6EIu7300FaR"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 1224000,
       "name": "Fantasy for Violin and Orchestra on Porgy and Bess (excerpts)",
       "url": "https://open.spotify.com/track/7s4gJpuzOOTsFkmrlhvsvy"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin Take Two",
+        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Simon Tedeschi",
+          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
+        }
+      ],
+      "duration_ms": 131400,
+      "name": "Three-Quarter Blues",
+      "url": "https://open.spotify.com/track/0YOj32JKSgt2MQXz7yvpVS"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Rhapsody In Blue: Saint-S\u00e4ens, Ravel, Gershwin",
+        "url": "https://open.spotify.com/album/4QYd77TXZufEvBsJYlBOgw"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Benjamin Grosvenor",
+          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
+        }
+      ],
+      "duration_ms": 239693,
+      "name": "Love Walked In",
+      "url": "https://open.spotify.com/track/06JM3tfixqVhSO48XbDRUJ"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Michael Tilson Thomas Conducts Gershwin",
         "url": "https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o"
       },
@@ -1043,26 +1063,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Rhapsody In Blue: Saint-S\u00e4ens, Ravel, Gershwin",
-        "url": "https://open.spotify.com/album/4QYd77TXZufEvBsJYlBOgw"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Benjamin Grosvenor",
-          "url": "https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj"
-        }
-      ],
-      "duration_ms": 239693,
-      "name": "Love Walked In",
-      "url": "https://open.spotify.com/track/06JM3tfixqVhSO48XbDRUJ"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin: Three Preludes: II. Andante con moto e poco rubato (Live)",
         "url": "https://open.spotify.com/album/3fPIgWLlF96SEKMV55Nd4i"
       },
@@ -1083,8 +1083,8 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Kiri sings Gershwin",
-        "url": "https://open.spotify.com/album/0DbXv4zODvHFF9Imo88NR3"
+        "name": "Gershwin: Piano Concerto/Copland: El sal\u00f3n Mexico, etc.",
+        "url": "https://open.spotify.com/album/5S77nfKK1NxxwBaoLY7mWk"
       },
       "artists": [
         {
@@ -1092,45 +1092,21 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         },
         {
-          "name": "Kiri Te Kanawa",
-          "url": "https://open.spotify.com/artist/3fcsflK8xu26XH4OYTcm5T"
+          "name": "Peter Jablonski",
+          "url": "https://open.spotify.com/artist/0mCOV3Lihl1xpkHv1ZY89E"
         },
         {
-          "name": "New Princess Theater Orchestra",
-          "url": "https://open.spotify.com/artist/59pisH3wBlKCZ6Ym2WbVWj"
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
         },
         {
-          "name": "John McGlinn",
-          "url": "https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK"
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
         }
       ],
-      "duration_ms": 187826,
-      "name": "Gershwin Love Walked In (From \"The Goldwyn Follies\") [Orch. Powell]",
-      "url": "https://open.spotify.com/track/6fqUacLto2pt1ipANMkjG2"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Gershwin - Set: Bernstein/Ozawa/Previn/Levine",
-        "url": "https://open.spotify.com/album/4OCPUWvxvehvgxAv5nOJ4i"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Gil Shaham",
-          "url": "https://open.spotify.com/artist/6ALhP2ILfgcSmpTefE4C3Q"
-        },
-        {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
-        }
-      ],
-      "duration_ms": 204920,
-      "name": "3 Preludes for Piano Solo: 2. Andante con moto e poco rubato (Arr. Jascha Heifetz)",
-      "url": "https://open.spotify.com/track/0SIRzB0ZuR3LTPisCFPsAp"
+      "duration_ms": 799826,
+      "name": "Piano Concerto in F: 2. Adagio",
+      "url": "https://open.spotify.com/track/6pgaNRblhbixTnmoP6hOvn"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1163,8 +1139,8 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: Piano Concerto/Copland: El sal\u00f3n Mexico, etc.",
-        "url": "https://open.spotify.com/album/5S77nfKK1NxxwBaoLY7mWk"
+        "name": "Gershwin - Set: Bernstein/Ozawa/Previn/Levine",
+        "url": "https://open.spotify.com/album/4OCPUWvxvehvgxAv5nOJ4i"
       },
       "artists": [
         {
@@ -1172,21 +1148,45 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         },
         {
-          "name": "Peter Jablonski",
-          "url": "https://open.spotify.com/artist/0mCOV3Lihl1xpkHv1ZY89E"
+          "name": "Gil Shaham",
+          "url": "https://open.spotify.com/artist/6ALhP2ILfgcSmpTefE4C3Q"
         },
         {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
         }
       ],
-      "duration_ms": 799826,
-      "name": "Piano Concerto in F: 2. Adagio",
-      "url": "https://open.spotify.com/track/6pgaNRblhbixTnmoP6hOvn"
+      "duration_ms": 204920,
+      "name": "3 Preludes for Piano Solo: 2. Andante con moto e poco rubato (Arr. Jascha Heifetz)",
+      "url": "https://open.spotify.com/track/0SIRzB0ZuR3LTPisCFPsAp"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Kiri sings Gershwin",
+        "url": "https://open.spotify.com/album/0DbXv4zODvHFF9Imo88NR3"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Kiri Te Kanawa",
+          "url": "https://open.spotify.com/artist/3fcsflK8xu26XH4OYTcm5T"
+        },
+        {
+          "name": "New Princess Theater Orchestra",
+          "url": "https://open.spotify.com/artist/59pisH3wBlKCZ6Ym2WbVWj"
+        },
+        {
+          "name": "John McGlinn",
+          "url": "https://open.spotify.com/artist/7MLdWFrAVzSOm150RT4KFK"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Gershwin Love Walked In (From \"The Goldwyn Follies\") [Orch. Powell]",
+      "url": "https://open.spotify.com/track/6fqUacLto2pt1ipANMkjG2"
     },
     {
       "added_at": "2022-08-05 04:02:00",

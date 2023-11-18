@@ -3546,10 +3546,28 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 197080,
       "name": "Y Volvere",
       "url": "https://open.spotify.com/track/0BKQcXaeCmqhGv72P4Fo25"
+    },
+    {
+      "album": {
+        "name": "Divas del Mariachi",
+        "url": "https://open.spotify.com/album/2dxMFiI5snjmKAZKNC6Nd9"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197080,
+      "name": "Y Volvere",
+      "url": "https://open.spotify.com/track/5NQD1UTDqELITz9G9ehD6l"
     },
     {
       "album": {

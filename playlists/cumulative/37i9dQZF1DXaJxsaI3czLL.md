@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-357 songs - 1 day 1 hr 22 min
+359 songs - 1 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Chiisana Yume](https://open.spotify.com/track/169bY9djGFRpPcqMMm9hik) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Chiisana Yume](https://open.spotify.com/album/0OWqyw14hYLK0842eXNNLg) | 3:24 | 2022-12-13 | 2023-02-01 |
 | [Comfort](https://open.spotify.com/track/7CU1CM6k3f50TFJUwzZUgC) | [Asami Tono](https://open.spotify.com/artist/5uyECggyaBp2soVsms3MNK) | [Comfort](https://open.spotify.com/album/0vcBFyLhnRZP2ay5vHa7Yf) | 4:24 | 2023-02-22 | 2023-03-15 |
 | [Dawn in the Adan](https://open.spotify.com/track/03fJjiNTn1gyzbqHl1Hskt) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA) | 4:45 | 2022-10-20 | 2023-11-17 |
+| [Dawn in the Adan](https://open.spotify.com/track/5Wdyg2LLFZPPlYUntexViV) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/0LxeUCxtPfUtnHTKbW52MB) | 4:45 | 2023-11-16 |  |
 | [Days](https://open.spotify.com/track/0s4yqLuXcjig9VJH6XNMG7) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Days](https://open.spotify.com/album/4N5nEU0I2SW89TXSuvBvbb) | 3:19 | 2023-01-24 | 2023-02-01 |
 | [Days](https://open.spotify.com/track/26o4oI2sYBD4r0Oq0sV5GY) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Days](https://open.spotify.com/album/6y6EKuZFTF27DVWz2CckWK) | 3:19 | 2023-01-24 | 2023-01-26 |
 | [December](https://open.spotify.com/track/6OTYbrTn8BUb1WViI9HaAS) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [5am](https://open.spotify.com/album/1dLcTY0iMPyX7i6yrz5KjP) | 4:15 | 2023-08-29 |  |
@@ -129,9 +130,10 @@
 | [More Bitter, Mocha Better](https://open.spotify.com/track/7Eas2Kp8CmRqHEphZWIMBG) | [The Burning Deadwoods](https://open.spotify.com/artist/2lj0Y6kO4BIGSvRGQq3V9k), [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [More Bitter, Mocha Better](https://open.spotify.com/album/5vxSSnVFtIL5ZVsWQp4zoO) | 3:50 | 2023-08-01 | 2023-08-09 |
 | [Mori no kotoba](https://open.spotify.com/track/6SFm3HdywAFS4wRM4S5izc) | [Marter](https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1) | [Songs of Four Seasons](https://open.spotify.com/album/1sCFYE7ZW7GhWkaKqiU2CS) | 5:12 | 2022-10-20 | 2023-04-04 |
 | [Mother And Me](https://open.spotify.com/track/2TiZH7Hu0CE482TGuz4Ad0) | [Somewhere](https://open.spotify.com/artist/1nDq6lPB8DMpBpnxLFqXO2) | [Mother And Me](https://open.spotify.com/album/3ynbxx9HX2CBj9Ut4G62GP) | 4:21 | 2022-12-27 | 2023-01-23 |
+| [MY Muchu](https://open.spotify.com/track/5RKl9ZF16aYLq7b13KYfew) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [MY Muchu](https://open.spotify.com/album/1a8vwLkZpdqT2bOiyr9v3D) | 4:09 | 2023-11-16 |  |
 | [My name \- Naked ver.](https://open.spotify.com/track/6XOOMTG1WGOCJombJPV6pS) | [シモムラナナ](https://open.spotify.com/artist/5wIlRdmDJEodDDQrz112bj) | [My name \(Naked ver.\)](https://open.spotify.com/album/3rkmKaE6moOMCdK0pI9biO) | 3:55 | 2023-06-20 | 2023-07-19 |
 | [My Slot Car](https://open.spotify.com/track/1W4iG65cgTXUrPdwI8O0E7) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [Existence](https://open.spotify.com/album/348rwtEAV91PW1jbKu9Ova) | 3:18 | 2023-05-30 | 2023-07-12 |
-| [MY夢中](https://open.spotify.com/track/02EC8p59zsfwJmyHzXXDGw) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [MY夢中](https://open.spotify.com/album/4aDn3y7PU3lAMdGE9C62Ka) | 4:09 | 2023-11-16 |  |
+| [MY夢中](https://open.spotify.com/track/02EC8p59zsfwJmyHzXXDGw) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [MY夢中](https://open.spotify.com/album/4aDn3y7PU3lAMdGE9C62Ka) | 4:09 | 2023-11-16 | 2023-11-18 |
 | [Natsu no Yoru ni Hibiku Melody](https://open.spotify.com/track/32JDuLlXMmWWXLFiHaiK2G) | [Sou Yamasaki](https://open.spotify.com/artist/0ZVL58XQLY5kUCSKRIVhOs) | [Natsu no Yoru ni Hibiku Melody](https://open.spotify.com/album/48E8ijxYmqGN5S5pQcIiIx) | 5:19 | 2023-06-27 | 2023-07-19 |
 | [Natsumoyo no Neko](https://open.spotify.com/track/2jtPfFJBSkpMPKeLOyalbp) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Hello EP](https://open.spotify.com/album/5rvHzkXSu2JBL1wT6nem2h) | 2:12 | 2023-05-30 | 2023-09-06 |
 | [NAVY](https://open.spotify.com/track/5JAgoN0ZK8uIZXtFj1pxrR) | [上野大樹](https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF) | [NAVY](https://open.spotify.com/album/0lHJa75DcFWZSb0UAdRrDc) | 2:24 | 2023-01-14 | 2023-03-23 |
@@ -196,7 +198,7 @@
 | [Twinkle Stars \(feat\. BIM\)](https://open.spotify.com/track/2xOLmtjnAX12xklZD05SOw) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 4:46 | 2023-10-24 |  |
 | [ukikusa](https://open.spotify.com/track/3ivnjXjOSK824zgeZuzCsZ) | [Beard](https://open.spotify.com/artist/3fm8mLgvvLfi3wFof8a8zN), [YELIKK](https://open.spotify.com/artist/0VpOZTcCUCHMj5RMrEwwVp) | [ukikusa](https://open.spotify.com/album/3Svl3VxVlvyVWQUxJYekRe) | 4:18 | 2022-10-20 | 2022-10-26 |
 | [Under the Blue Sky in February](https://open.spotify.com/track/24dJcWeBneYoscgCMSgg80) | [Kohei Okutani](https://open.spotify.com/artist/5tihKbpd8nwdRbZcuIomTd) | [Under the Blue Sky in February](https://open.spotify.com/album/1vMofeVrrypr0vp9K6WwW6) | 5:30 | 2023-07-11 | 2023-07-19 |
-| [Unknown](https://open.spotify.com/track/73F0eYAZnToLIKZ9UmD2zj) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [Unknown](https://open.spotify.com/album/1DrPgAzH0NM59iDqrThG4L) | 4:04 | 2023-06-13 |  |
+| [Unknown](https://open.spotify.com/track/73F0eYAZnToLIKZ9UmD2zj) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [Unknown](https://open.spotify.com/album/1DrPgAzH0NM59iDqrThG4L) | 4:04 | 2023-06-13 | 2023-11-18 |
 | [Utero](https://open.spotify.com/track/6Ni01Ptke62rV8WkAYiBMM) | [jan and naomi](https://open.spotify.com/artist/4V7c0eZEtXXBFJLY6WpSmT) | [Leeloo and Alexandra](https://open.spotify.com/album/1Qi0J8woiPDk8J8WltPdzb) | 4:44 | 2023-01-31 | 2023-05-24 |
 | [Weight](https://open.spotify.com/track/3J3bxrFCscf5KgNgBpQUo7) | [PAELLAS](https://open.spotify.com/artist/6ELS2XYR8tvJdQyEx8s3ZT) | [sequential souls](https://open.spotify.com/album/0ERZRcTZO8ZUAIKT9Aa87q) | 4:42 | 2022-10-20 | 2022-11-14 |
 | [white dress](https://open.spotify.com/track/7qod4wNweZVfZZfV5MeC3t) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [white dress](https://open.spotify.com/album/70YR5JgtDVD3Hqx4SuoLNS) | 2:52 | 2023-06-06 | 2023-08-20 |

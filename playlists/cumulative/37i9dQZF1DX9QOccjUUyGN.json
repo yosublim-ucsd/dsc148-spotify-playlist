@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "tranquilo e calmo, no flow. Foto: G.A",
+  "description": "tranquilo e calmo, no flow. Foto: Penedo",
   "name": "tamo flex",
   "tracks": [
     {
@@ -28,6 +28,28 @@
       "duration_ms": 128503,
       "name": "01 N\u00e3o \u00c9 02",
       "url": "https://open.spotify.com/track/27ECP9NCzTAoTpxXNePZuS"
+    },
+    {
+      "album": {
+        "name": "PROD\u00cdGIO",
+        "url": "https://open.spotify.com/album/2nOhblCsrKSO9ImIQn1Zsa"
+      },
+      "artists": [
+        {
+          "name": "Tillmann",
+          "url": "https://open.spotify.com/artist/4ozkb2MvrszWeLI6moQi8h"
+        },
+        {
+          "name": "Doode",
+          "url": "https://open.spotify.com/artist/3Ns5FA1ANQOzsHLWspsrC6"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193613,
+      "name": "1 Carro Por M\u00eas",
+      "url": "https://open.spotify.com/track/5blbXhDaRRuepTvD5WNTTD"
     },
     {
       "album": {
@@ -847,6 +869,32 @@
     },
     {
       "album": {
+        "name": "Ano da Prata",
+        "url": "https://open.spotify.com/album/7nHLdQg1wP747fTOsZpIRC"
+      },
+      "artists": [
+        {
+          "name": "Artthur Lima",
+          "url": "https://open.spotify.com/artist/1wh3EI7Bcs149sCxjJtdDn"
+        },
+        {
+          "name": "Trelli",
+          "url": "https://open.spotify.com/artist/6rt4HppOC4vLG5CIF4AnSM"
+        },
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192038,
+      "name": "Ano da Prata",
+      "url": "https://open.spotify.com/track/43fI3nySSR1PwjTEJ63dsC"
+    },
+    {
+      "album": {
         "name": "Escamosa",
         "url": "https://open.spotify.com/album/0eV2v4FSzFvn8fi5AY0VGf"
       },
@@ -910,6 +958,28 @@
       "duration_ms": 205440,
       "name": "Apenas o Come\u00e7o",
       "url": "https://open.spotify.com/track/6lTq6zVD3RUTkCW0AIy92N"
+    },
+    {
+      "album": {
+        "name": "V\u00caNUS\u2260netuno",
+        "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183380,
+      "name": "APOCAL\u00cdPTIKA",
+      "url": "https://open.spotify.com/track/4pdHinWMilOcFb65irdH8w"
     },
     {
       "album": {
@@ -2304,7 +2374,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 103448,
       "name": "Charme",
       "url": "https://open.spotify.com/track/6PikSmzgvfpSNC4hj038rX"
@@ -3055,6 +3125,36 @@
     },
     {
       "album": {
+        "name": "Descanso de Tela",
+        "url": "https://open.spotify.com/album/2boa2yzlE1amlQzyVZiOwa"
+      },
+      "artists": [
+        {
+          "name": "Golden Tears",
+          "url": "https://open.spotify.com/artist/3plkOZoZTpgkYUtfN2LQ8T"
+        },
+        {
+          "name": "Orfeu",
+          "url": "https://open.spotify.com/artist/18uMcBWoSMzUxHBvz9vzRi"
+        },
+        {
+          "name": "Odin Chan",
+          "url": "https://open.spotify.com/artist/0qbrywRB2LieMLyAtfWSPR"
+        },
+        {
+          "name": "Osij\u00e9",
+          "url": "https://open.spotify.com/artist/6TyVy8z8gEOLqXbcdfvFME"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172203,
+      "name": "Descanso de Tela",
+      "url": "https://open.spotify.com/track/6wM0ZuX5eOxmbDPciwt7zb"
+    },
+    {
+      "album": {
         "name": "OgEMr",
         "url": "https://open.spotify.com/album/57JDkF9dsWZhjgqQoo8yBQ"
       },
@@ -3353,6 +3453,24 @@
     },
     {
       "album": {
+        "name": "Doente de Amor",
+        "url": "https://open.spotify.com/album/01aK5tuEUfVgI7BEi7H2Mx"
+      },
+      "artists": [
+        {
+          "name": "Penedo",
+          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "Doente de Amor",
+      "url": "https://open.spotify.com/track/3Xh7yWSduG8Jl3CMYeAeAk"
+    },
+    {
+      "album": {
         "name": "Dona da Vibe",
         "url": "https://open.spotify.com/album/6gaR9YishjVc1XiLLsbYFr"
       },
@@ -3534,6 +3652,24 @@
       "duration_ms": 200000,
       "name": "Dybala",
       "url": "https://open.spotify.com/track/23u5FqmveMzEAvtlyRxrZJ"
+    },
+    {
+      "album": {
+        "name": "A BRABA \u00c9 ELA 2",
+        "url": "https://open.spotify.com/album/23cbfoApa2IEWN8rscmIBi"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183913,
+      "name": "Efeito Domin\u00f3",
+      "url": "https://open.spotify.com/track/2EyL0fiZ873owdwySqOMpc"
     },
     {
       "album": {
@@ -4464,7 +4600,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 273230,
       "name": "Fazendo as folhas",
       "url": "https://open.spotify.com/track/5gsJeyFDj3a4G0v33sUmQE"
@@ -5708,7 +5844,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 182068,
       "name": "J\u00e1 Vai Tarde",
       "url": "https://open.spotify.com/track/05WyRbEEtiaaREAdG6QQmk"
@@ -6184,7 +6320,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 147857,
       "name": "LV",
       "url": "https://open.spotify.com/track/78vOfeGlO1B9cRwzVdm3fR"
@@ -6490,6 +6626,44 @@
       "duration_ms": 138739,
       "name": "Mavi",
       "url": "https://open.spotify.com/track/6aaL0hlqYBL06TrCbDAq05"
+    },
+    {
+      "album": {
+        "name": "Ma\u00e7arico",
+        "url": "https://open.spotify.com/album/61djLxKnm3rKgsHMqkUPen"
+      },
+      "artists": [
+        {
+          "name": "A\u00e7\u00faK",
+          "url": "https://open.spotify.com/artist/7371NJait6rRIpctnfbuWM"
+        },
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        },
+        {
+          "name": "Danike",
+          "url": "https://open.spotify.com/artist/5utjRtQc65CvfyqVPw0asK"
+        },
+        {
+          "name": "Shark47",
+          "url": "https://open.spotify.com/artist/32x7enJjI5BDRQUZNAHj3F"
+        },
+        {
+          "name": "Kayin",
+          "url": "https://open.spotify.com/artist/42TGK7zUYHdMcKOPRg8g61"
+        },
+        {
+          "name": "MUC4",
+          "url": "https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219181,
+      "name": "Ma\u00e7arico",
+      "url": "https://open.spotify.com/track/1h6FNuvJMkgqnXIQqDadnv"
     },
     {
       "album": {
@@ -8190,7 +8364,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 244067,
       "name": "O Que Ela Quer",
       "url": "https://open.spotify.com/track/3FaJUNbE7IoWvJ2trxgCGd"
@@ -9872,7 +10046,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 201951,
       "name": "Raba Linda (feat. Predella) - Remix",
       "url": "https://open.spotify.com/track/6AjBuRuCKedpHeEyAzF8dc"
@@ -10437,6 +10611,32 @@
     },
     {
       "album": {
+        "name": "Se Joga",
+        "url": "https://open.spotify.com/album/0SAq4PdeIvB5fjDCQV17aX"
+      },
+      "artists": [
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "Lovadi",
+          "url": "https://open.spotify.com/artist/2r0iGc9C6snK3SuIaOgdzT"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131612,
+      "name": "Se Joga",
+      "url": "https://open.spotify.com/track/6q1j6eiqz0PsNFPnc1qjca"
+    },
+    {
+      "album": {
         "name": "Segredo",
         "url": "https://open.spotify.com/album/1ASqKOHKRjm5j0qQlSCGz3"
       },
@@ -10652,7 +10852,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 188571,
       "name": "Sess\u00e3o de Cria 2: Beroba Freestyle",
       "url": "https://open.spotify.com/track/1Y8kuDt5jXMJWnswUbmBHh"

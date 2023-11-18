@@ -4,7 +4,7 @@
 
 > 80s workout jams.
 
-50 songs - 3 hr 24 min
+51 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Eye of the Tiger](https://open.spotify.com/track/2KH16WveTQWT6KOG9Rg6e2) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:05 | 2023-01-20 |  |
 | [Feel the Heat](https://open.spotify.com/track/5ZF6C6EdmJnOmisRh0nlbU) | [Jean Beauvoir](https://open.spotify.com/artist/3n99AZrLOuuAtHvu12uDDC) | [Drums Along the Mohawk](https://open.spotify.com/album/6nP6m9Xc6hG8JbCLtpg6o4) | 4:03 | 2023-01-20 |  |
 | [Fire to Burn](https://open.spotify.com/track/4Ar7Eby1joalj1sFyXg6Jb) | [Saraya](https://open.spotify.com/artist/3ruACf0oMHNYWImFGj10c6) | [Saraya](https://open.spotify.com/album/1KogbTSOYl4u0jZrAoXnko) | 4:38 | 2023-01-20 |  |
-| [Girls, Girls, Girls](https://open.spotify.com/track/549Go7a66CX6k523uK9kUv) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(Deluxe Version\)](https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k) | 4:30 | 2023-01-20 |  |
+| [Girls, Girls, Girls](https://open.spotify.com/track/549Go7a66CX6k523uK9kUv) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(Deluxe Version\)](https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k) | 4:30 | 2023-01-20 | 2023-11-18 |
+| [Girls, Girls, Girls](https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8) | 4:30 | 2023-01-20 |  |
 | [Hangin On](https://open.spotify.com/track/6MHg1scv1JEbFhyGpGeCKo) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [Winger](https://open.spotify.com/album/4aMtQDeDMAHBfh7cE87PWo) | 3:35 | 2023-01-20 |  |
 | [Head Games](https://open.spotify.com/track/5nk6wxUSFUBxUKxjz0fKD6) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Head Games](https://open.spotify.com/album/05Z3MG7G3Vl5ThsFQkWjiJ) | 3:37 | 2023-01-20 |  |
 | [Hearts On Fire \- From "Rocky IV" Soundtrack](https://open.spotify.com/track/5vI0C3TDTxySR6Oq8NWjE0) | [John Cafferty](https://open.spotify.com/artist/0fPK3TAseRcy6sAS8U8pEw) | [Rocky IV](https://open.spotify.com/album/3t3BbpFJiGcXl4jI5CRLLA) | 4:12 | 2023-01-20 |  |

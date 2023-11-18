@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-163 songs - 8 hr 2 min
+165 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Cold Space](https://open.spotify.com/track/33oiYhxqhWDNq4j4gVtb6t) | [Jo Quinn](https://open.spotify.com/artist/29czqjCABTikrt0O7y1wBr) | [Cold Space](https://open.spotify.com/album/3k1SxanqNeUuQYV3UD8DT6) | 3:13 | 2023-02-09 |  |
 | [Consapevolezza](https://open.spotify.com/track/1FrBUnhD9T673kr9nfbdGP) | [Trinitah](https://open.spotify.com/artist/50MIKfXvxiyqZDE3xFm9iC) | [Consapevolezza](https://open.spotify.com/album/2QMr6qobtdVlPn7Y6UZdf2) | 2:05 | 2022-12-02 |  |
 | [contextures](https://open.spotify.com/track/7vE97xuXIoWRAzKRPk3TuI) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [mise\-en\-scène](https://open.spotify.com/album/3TKTuzJj6Wdngg3Fm7dVzZ) | 1:47 | 2022-06-24 | 2023-07-29 |
+| [Convolution](https://open.spotify.com/track/4pNMPkliqqgKnhIyVvrVHq) | [Elevated Ground](https://open.spotify.com/artist/1RzaYiehVD1lcOsYtuY1NV) | [Convolution](https://open.spotify.com/album/3GfOlgSYXCtwjVcPMiqv6m) | 2:28 | 2023-11-17 |  |
 | [Deliverance](https://open.spotify.com/track/1iiNGLareyph69mzwYYBnn) | [12dust](https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J) | [Deliverance](https://open.spotify.com/album/0m45a3uHxy34FO0Lv3VfF6) | 5:11 | 2022-11-11 |  |
 | [Desire](https://open.spotify.com/track/4B65VdJ4nSXcdNsjQcYPyl) | [Jero Toga](https://open.spotify.com/artist/7udo52qeGxSsK69WMRmBvP) | [Desire](https://open.spotify.com/album/5aKMHMuWCuWH2AeiLElqzQ) | 2:46 | 2022-02-28 | 2023-05-06 |
 | [Distant Voices](https://open.spotify.com/track/3eR65X6SJv94InSu0RCqMf) | [Billie Mercedez](https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG) | [Distant Voices](https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5) | 2:56 | 2022-02-28 |  |
@@ -169,6 +170,7 @@
 | [Way Of Life](https://open.spotify.com/track/08dGh7Xg9ipUo1o7tLIvl8) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [Way Of Life](https://open.spotify.com/album/7loccJFmLOoynAmTy4Ltr4) | 2:37 | 2023-04-06 |  |
 | [Wherever You Go](https://open.spotify.com/track/29vkYjTn6LlSkyLKzhvNhM) | [Yasmin Ryan](https://open.spotify.com/artist/5yNo2UDxYyUsMrH7UdPW1g) | [Wherever You Go](https://open.spotify.com/album/6rfPi75eYBbCaiHCIAIW7U) | 2:35 | 2022-11-11 |  |
 | [Whisper in the wind](https://open.spotify.com/track/5ZSqAynin0lj0U8fVA5p8W) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Whisper in the wind](https://open.spotify.com/album/5BZ2gwkDuYlpVkObyPMCr3) | 3:02 | 2023-01-27 |  |
+| [Whispers of Rest](https://open.spotify.com/track/4EMWK2dNi6leMozs4PVH4i) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [Whispers of Rest](https://open.spotify.com/album/56ISW5BsAhkyXXpYD5qhhn) | 3:01 | 2023-11-17 |  |
 | [You´re All I Need](https://open.spotify.com/track/0hSiaMpXMWhtgNXu3bpIIi) | [Amat Leony](https://open.spotify.com/artist/4K1GXs9pVanGFIl1LIPCms) | [You´re All I Need](https://open.spotify.com/album/43Hsx3jgETYWnsv7qg1xvy) | 2:40 | 2023-04-06 |  |
 | [Zenya](https://open.spotify.com/track/5ks86NE9jyrLfQJinAcfiA) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Zenya](https://open.spotify.com/album/3loauhCt2lDAVpdhYSTgrE) | 4:21 | 2022-08-05 | 2023-08-25 |
 

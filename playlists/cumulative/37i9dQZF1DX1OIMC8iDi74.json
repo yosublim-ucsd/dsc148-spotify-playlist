@@ -1,8 +1,34 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of electronic trap. Cover: G Jones",
+  "description": "The best of electronic trap. Cover: Boombox Cartel & FrostTop",
   "name": "Trap Mojito",
   "tracks": [
+    {
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/74Dy1dquFmryKSxtw8mlKY"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "cupcakKe",
+          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
+        },
+        {
+          "name": "Chase Icon",
+          "url": "https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169663,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/6Xdh9gHP0JJAEFQbz60PKf"
+    },
     {
       "album": {
         "name": "Act Like You Know",
@@ -406,7 +432,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 192941,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/3D37T7euWvVJ45evRmriIh"
@@ -476,7 +502,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 193714,
       "name": "Blame (Tim Gunter Remix)",
       "url": "https://open.spotify.com/track/4wzHOPBchA7Ab5wOmBHkiO"
@@ -778,7 +804,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 118522,
       "name": "Chicken Wang",
       "url": "https://open.spotify.com/track/30DR47jeEqFXbZ7ezJ37Xs"
@@ -1397,6 +1423,24 @@
     },
     {
       "album": {
+        "name": "Erotica",
+        "url": "https://open.spotify.com/album/7HDr5VKcImOdCCENS9WatP"
+      },
+      "artists": [
+        {
+          "name": "JAWNS",
+          "url": "https://open.spotify.com/artist/5dXHoJzpLuiEug5rSXeCib"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175999,
+      "name": "Erotica",
+      "url": "https://open.spotify.com/track/7tVRemm7dzzf2m1AfWqiKZ"
+    },
+    {
+      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/1GykPsowuX6anZe67MflnU"
       },
@@ -1548,6 +1592,32 @@
       "duration_ms": 214714,
       "name": "Feel It (feat. Tunji Ige)",
       "url": "https://open.spotify.com/track/3Vad9kkHv0DZZ0ioJdRrYV"
+    },
+    {
+      "album": {
+        "name": "Feel It 2",
+        "url": "https://open.spotify.com/album/2LKfw7bBcVhlLuFZrjyuah"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "FrostTop",
+          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
+        },
+        {
+          "name": "Transviolet",
+          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246222,
+      "name": "Feel It 2",
+      "url": "https://open.spotify.com/track/6VbAz8YPZgIye7oHyyBEK5"
     },
     {
       "album": {
@@ -1734,7 +1804,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 249600,
       "name": "Flying Spaghetti Monster",
       "url": "https://open.spotify.com/track/4VzDr8H5SCS1P14tyguB1a"
@@ -1872,7 +1942,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 201642,
       "name": "Gangsta Gangsta (feat. Baby Eazy-E)",
       "url": "https://open.spotify.com/track/5w6rgrtYFhC6NkUknX1exC"
@@ -2061,6 +2131,36 @@
     },
     {
       "album": {
+        "name": "Greengate Adhesive (Visages Remix)",
+        "url": "https://open.spotify.com/album/3JFwG81QlceBkuzZ5XJeqt"
+      },
+      "artists": [
+        {
+          "name": "Regents",
+          "url": "https://open.spotify.com/artist/4BmXLF6dxW3qdkKPL8zthd"
+        },
+        {
+          "name": "Strategy",
+          "url": "https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3"
+        },
+        {
+          "name": "Cartridge",
+          "url": "https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn"
+        },
+        {
+          "name": "Visages",
+          "url": "https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195534,
+      "name": "Greengate Adhesive - Visages Remix",
+      "url": "https://open.spotify.com/track/1UIxXFrvd3nDXPteSv3get"
+    },
+    {
+      "album": {
         "name": "GUD VIBRATIONS",
         "url": "https://open.spotify.com/album/1ABYsJwhqu0MoN3HVn3tKi"
       },
@@ -2076,7 +2176,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 224210,
       "name": "GUD VIBRATIONS",
       "url": "https://open.spotify.com/track/2BVUOGciUUUqOPSLtHwLGp"
@@ -2184,7 +2284,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 196664,
       "name": "Harlem Shake",
       "url": "https://open.spotify.com/track/01XFgRZfZI7oBagNf1Loml"
@@ -2552,7 +2652,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-02",
+      "date_removed": null,
       "duration_ms": 181020,
       "name": "In Motion (feat. Reo Cragun)",
       "url": "https://open.spotify.com/track/53d5dxYPtRLPmqPe9VpZ67"
@@ -2604,6 +2704,32 @@
       "duration_ms": 189133,
       "name": "In Your Head",
       "url": "https://open.spotify.com/track/1NhilkWAvuOHN3c0m88N98"
+    },
+    {
+      "album": {
+        "name": "INSD",
+        "url": "https://open.spotify.com/album/0faui9BG5fl1tgabXYGNwp"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        },
+        {
+          "name": "msft",
+          "url": "https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx"
+        },
+        {
+          "name": "Blush",
+          "url": "https://open.spotify.com/artist/13PiNC8qn2wXQLxYSm2E3X"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142962,
+      "name": "INSD",
+      "url": "https://open.spotify.com/track/4BFONPyknhWomROCBDZTUp"
     },
     {
       "album": {
@@ -3118,7 +3244,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 165675,
       "name": "LOUD",
       "url": "https://open.spotify.com/track/4gWvFjp9fFZ77mOW5FUaDh"
@@ -5141,6 +5267,24 @@
     },
     {
       "album": {
+        "name": "THE POWER! (VIP)",
+        "url": "https://open.spotify.com/album/75ZfyeR8GrrVeokHYxZihB"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "THE POWER! (VIP)",
+      "url": "https://open.spotify.com/track/2LhZPgEi7pOZhha28lv6Bg"
+    },
+    {
+      "album": {
         "name": "Thief (Flux Pavilion Remix)",
         "url": "https://open.spotify.com/album/4kFd3dIqukGfolHILzWddZ"
       },
@@ -5254,7 +5398,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 177658,
       "name": "Touch",
       "url": "https://open.spotify.com/track/2a7kFbxMwmmZWDvH0JbZFU"
@@ -5388,7 +5532,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": null,
       "duration_ms": 173350,
       "name": "Trust",
       "url": "https://open.spotify.com/track/3kJ4a4eMZ6pg51DW7lhZyO"
@@ -5724,7 +5868,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 154616,
       "name": "WARDOGZ",
       "url": "https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC"

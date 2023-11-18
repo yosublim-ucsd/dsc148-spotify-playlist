@@ -6514,7 +6514,7 @@
     {
       "album": {
         "name": "Maintain The Golden Ratio",
-        "url": "https://open.spotify.com/album/7zJ2Ho6A5Nf6s46wDX4FnK"
+        "url": "https://open.spotify.com/album/5dV2HXWXjGWqR4oOTXJw4Z"
       },
       "artists": [
         {
@@ -6525,6 +6525,24 @@
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 282702,
+      "name": "The Golden Ratio (Version)",
+      "url": "https://open.spotify.com/track/2bQ2B1Zvk8ecLp1VAcI0bt"
+    },
+    {
+      "album": {
+        "name": "Maintain The Golden Ratio",
+        "url": "https://open.spotify.com/album/7zJ2Ho6A5Nf6s46wDX4FnK"
+      },
+      "artists": [
+        {
+          "name": "Cybotron",
+          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
       "duration_ms": 282702,
       "name": "The Golden Ratio (Version)",
       "url": "https://open.spotify.com/track/3ZxsyZd3tXRpTh4fCYyeAr"

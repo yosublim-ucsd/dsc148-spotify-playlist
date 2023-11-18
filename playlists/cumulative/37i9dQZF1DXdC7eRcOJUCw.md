@@ -4,7 +4,7 @@
 
 > Estas damas sí que tienen carácter\. Alicia Villarreal en portada.
 
-208 songs - 11 hr 16 min
+209 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,8 @@
 | [Vuelve Gaviota](https://open.spotify.com/track/0uuC1RO0CwNWNFKEu8LAjM) | [Mercedes Castro](https://open.spotify.com/artist/0CZHGs5YoJggljCPh3a7bK) | [15 Éxitos 15](https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ) | 2:32 | 2021-11-26 | 2022-04-19 |
 | [Vámonos](https://open.spotify.com/track/0dtDYTLPsBjnJHvOfny8te) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 2:59 | 2021-11-26 |  |
 | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/track/5xOBLLJftwLwqNQgpqlPiu) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Y Tú, ¿Qué Ganas?](https://open.spotify.com/album/1PBWmz5f1IkWiAYXKtnnFE) | 2:58 | 2022-06-08 | 2023-02-18 |
-| [Y Volvere](https://open.spotify.com/track/0BKQcXaeCmqhGv72P4Fo25) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Desafío De Divas](https://open.spotify.com/album/0AtvVJ8iAYBi0drA2wqDU2) | 3:17 | 2022-06-08 |  |
+| [Y Volvere](https://open.spotify.com/track/0BKQcXaeCmqhGv72P4Fo25) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Desafío De Divas](https://open.spotify.com/album/0AtvVJ8iAYBi0drA2wqDU2) | 3:17 | 2022-06-08 | 2023-11-18 |
+| [Y Volvere](https://open.spotify.com/track/5NQD1UTDqELITz9G9ehD6l) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Divas del Mariachi](https://open.spotify.com/album/2dxMFiI5snjmKAZKNC6Nd9) | 3:17 | 2023-11-10 |  |
 | [Y Volvere](https://open.spotify.com/track/6jEeiPJzflqEBPPMED1MKi) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Rancheras](https://open.spotify.com/album/7de2kW1O6r8poOQG0cS3wU) | 3:17 | 2022-06-08 | 2022-11-13 |
 | [Y Volveré...](https://open.spotify.com/track/2jLCF9svTRPh0dF2Ugv1AB) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Cariño de Mis Cariños](https://open.spotify.com/album/6v7iTP4Lh5C9adz8mXIi7G) | 3:19 | 2021-11-26 | 2022-07-29 |
 | [Ya Me Voy Para Siempre](https://open.spotify.com/track/1zCfG4iMtCvcCjkoa2kJa7) | [Chayito Valdez](https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04) | [15 Éxitos: Chayito Valdez](https://open.spotify.com/album/36a05M8c3EUno9kl5gePDs) | 3:17 | 2021-11-26 |  |

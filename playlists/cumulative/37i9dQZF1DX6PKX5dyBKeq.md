@@ -4,7 +4,7 @@
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Tion Wayne & M24
 
-1,597 songs - 3 day 9 hr 31 min
+1,599 songs - 3 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Bad Luck](https://open.spotify.com/track/79MeA7V0mJxfl8N0xi15zL) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Bad Luck](https://open.spotify.com/album/497LTCtceTdLMUNMFvplyB) | 2:27 | 2020-05-22\* | 2020-07-03 |
 | [Bad One](https://open.spotify.com/track/55HHh45WOyOZtF4cPMR1W0) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Bad One](https://open.spotify.com/album/2dRuU6vLhrV2PJDhX1I9uR) | 2:14 | 2022-07-14 | 2022-10-22 |
 | [Badman](https://open.spotify.com/track/6emAmGeNo54tUIMaZqF7QK) | [Jordan](https://open.spotify.com/artist/4Cnaew6nY21DjfeARQPhn7), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Morrisson](https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA), [Turner](https://open.spotify.com/artist/1sWqR7KUB8nWY4PtsuaEUx) | [Crooks and Queens](https://open.spotify.com/album/4HlLIPfIaEwHEbLDNuXzLj) | 3:08 | 2022-11-18 | 2023-03-10 |
-| [BADMAN](https://open.spotify.com/track/0Huo2MOsAvEhpmXLcKYYY9) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [BADMAN](https://open.spotify.com/album/4Wz8kZJqiiUDGvLlkqRoDk) | 1:57 | 2023-11-17 |  |
+| [BADMAN](https://open.spotify.com/track/0Huo2MOsAvEhpmXLcKYYY9) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [BADMAN](https://open.spotify.com/album/4Wz8kZJqiiUDGvLlkqRoDk) | 1:57 | 2023-11-17 | 2023-11-18 |
+| [BADMAN](https://open.spotify.com/track/3FEAgxuYNeFjKzwNqRcnwV) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [FREEDOM](https://open.spotify.com/album/2QRJBU3HqPYYfE1Qh8Njy3) | 1:57 | 2023-11-17 |  |
 | [Badnis](https://open.spotify.com/track/6AWaDNtM8Cn4wyjauorXVR) | [M1llionz](https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq) | [Badnis](https://open.spotify.com/album/54UedcLI2rvaMEtWin2yzi) | 3:30 | 2021-02-03 | 2021-03-14 |
 | [BAG](https://open.spotify.com/track/0OPQWaC7klOsCK7K5XyZY0) | [Dreya Mac](https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP) | [BAG](https://open.spotify.com/album/77a1a68ChKH5lojujVv939) | 2:19 | 2021-03-02 | 2021-04-09 |
 | [BAIT](https://open.spotify.com/track/49AXGo5xCbtp05KIzKCkRT) | [Berna](https://open.spotify.com/artist/4r533q4JGGMJ5ufDV6iOed), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [BAIT](https://open.spotify.com/album/5C0LFcVmfY2iH5dAkEov4u) | 2:54 | 2021-01-21 | 2021-02-27 |
@@ -304,7 +305,8 @@
 | [caution \(dee dee bangs\)](https://open.spotify.com/track/3DVZBbAjheiMafUmBWeGop) | [AM](https://open.spotify.com/artist/6qYIqnnJM4TkFtVKiqQgmm) | [caution \(dee dee bangs\)](https://open.spotify.com/album/14UkG6zfVyw3hOPRGACxng) | 2:38 | 2021-09-11 | 2021-10-16 |
 | [CELLY](https://open.spotify.com/track/7ItFjL0zfTNC6QPn3tUlaD) | [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9), [Rushy](https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J) | [RUSH HOUR](https://open.spotify.com/album/7uiiweBAaAaw8JtpivRhxU) | 2:51 | 2023-09-14 | 2023-11-17 |
 | [Cemetery Walks](https://open.spotify.com/track/5sunkMkYj9jU4uC4EtysRY) | [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Cemetery Walks](https://open.spotify.com/album/0Sdd4D7e1wGdqZXCw4nBGt) | 3:02 | 2020-11-23 | 2021-01-08 |
-| [Central](https://open.spotify.com/track/551Gr4ec61KvIbY1GW0Zaq) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf), [Fizzler](https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV) | [Central](https://open.spotify.com/album/1klGrXVG1kRSBObvDHpc9d) | 2:43 | 2023-11-17 |  |
+| [Central](https://open.spotify.com/track/0qcfldI35P1RCX5OP0qwEC) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf), [Fizzler](https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV) | [Man of the House](https://open.spotify.com/album/4vxI3lknboYWif8zi4H5Ea) | 2:43 | 2023-11-17 |  |
+| [Central](https://open.spotify.com/track/551Gr4ec61KvIbY1GW0Zaq) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf), [Fizzler](https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV) | [Central](https://open.spotify.com/album/1klGrXVG1kRSBObvDHpc9d) | 2:43 | 2023-11-17 | 2023-11-18 |
 | [Cerberus \(feat\. K Trap x Loski\)](https://open.spotify.com/track/0XUP048w4VaGp7SOeDHfKs) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn) | [City Of God](https://open.spotify.com/album/1iTe0WOidFXuSNpfhWX4lT) | 2:52 | 2021-08-20 | 2021-10-01 |
 | [Champagne Problems \(Remix\)](https://open.spotify.com/track/2okQeCCpMsrhZNC7eLoBn2) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Champagne Problems \(Remix\)](https://open.spotify.com/album/7Ccdml4YmOXbB4slYOpyGa) | 2:37 | 2023-03-08 | 2023-03-09 |
 | [Change](https://open.spotify.com/track/6Dr6f20AZfsGZoaSucRM7m) | [V9](https://open.spotify.com/artist/4wxuAb9fWzcKg0s7VVKb3v) | [Change](https://open.spotify.com/album/78lL6tJbAgvIHP2plIvkVM) | 2:32 | 2021-10-09 | 2021-10-30 |

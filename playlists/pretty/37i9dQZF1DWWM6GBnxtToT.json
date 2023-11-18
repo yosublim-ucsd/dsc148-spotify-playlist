@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 579362,
+  "num_followers": 579439,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjQwNjNhMDM1MTA5NjY5M2MzMjE1MGFmNGNkYWJmNmNkNTNlMGE3",
+  "snapshot_id": "MCw4OWQ5MTgxZGJlNWExMTdkYmIxN2E1NDU1Yzk4Y2IwMDkxMDVkMWYy",
   "tracks": [
     {
       "added_at": "2023-10-19 09:54:20",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Day/Night",
-        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 219335,
-      "name": "Free - Single Version",
-      "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "My Big Day",
         "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 215986,
       "name": "Diving - feat. Holly Humberstone",
       "url": "https://open.spotify.com/track/786ApDDgJHMbvYaJCA4psT"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Day/Night",
+        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 219335,
+      "name": "Free - Single Version",
+      "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "Twister",
+        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 232447,
+      "name": "Easy Way Out",
+      "url": "https://open.spotify.com/track/59eGr21mOIQP3rcodg2IfL"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "minuit",
         "url": "https://open.spotify.com/album/71bHefIH4lQ3fjypk9Tv89"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 225013,
       "name": "minuit",
       "url": "https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "Twister",
-        "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 232447,
-      "name": "Easy Way Out",
-      "url": "https://open.spotify.com/track/59eGr21mOIQP3rcodg2IfL"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Leoniden",
-        "url": "https://open.spotify.com/album/3vLc37mAx6aIQedeIlol7E"
-      },
-      "artists": [
-        {
-          "name": "Leoniden",
-          "url": "https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX"
-        }
-      ],
-      "duration_ms": 191169,
-      "name": "Sisters",
-      "url": "https://open.spotify.com/track/0xfUruKo8PubvGKs9hVN7b"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Don\u2019t Let Me Down",
         "url": "https://open.spotify.com/album/427L6hniDKMN8kWwSI4uc8"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 200391,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/5hsOIinKbxVIVIggR55OAQ"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Leoniden",
+        "url": "https://open.spotify.com/album/3vLc37mAx6aIQedeIlol7E"
+      },
+      "artists": [
+        {
+          "name": "Leoniden",
+          "url": "https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX"
+        }
+      ],
+      "duration_ms": 191169,
+      "name": "Sisters",
+      "url": "https://open.spotify.com/track/0xfUruKo8PubvGKs9hVN7b"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Complex Happenings Reduced To A Simple Design",
-        "url": "https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF"
-      },
-      "artists": [
-        {
-          "name": "Leoniden",
-          "url": "https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Dice",
-      "url": "https://open.spotify.com/track/1PYXkGTAy509qlSFvwkjTe"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Good Mmornin",
         "url": "https://open.spotify.com/album/3FoDNOhHqVS1c9mw6NJW3T"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 336506,
       "name": "Small Worlds",
       "url": "https://open.spotify.com/track/1Wi0vXVg2cAXmfkrHwoQx4"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Complex Happenings Reduced To A Simple Design",
+        "url": "https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF"
+      },
+      "artists": [
+        {
+          "name": "Leoniden",
+          "url": "https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "Dice",
+      "url": "https://open.spotify.com/track/1PYXkGTAy509qlSFvwkjTe"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Go Out",
-        "url": "https://open.spotify.com/album/2z6JzCGNzecll4UW7BSDm4"
-      },
-      "artists": [
-        {
-          "name": "KYTES",
-          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
-        }
-      ],
-      "duration_ms": 154452,
-      "name": "Go Out",
-      "url": "https://open.spotify.com/track/7sDwxV8qrVNdxvljSkjp0n"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Mellow Moon",
         "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
       },
@@ -1167,22 +1151,18 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Hole Digger",
-        "url": "https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb"
+        "name": "Go Out",
+        "url": "https://open.spotify.com/album/2z6JzCGNzecll4UW7BSDm4"
       },
       "artists": [
         {
-          "name": "Camel Power Club",
-          "url": "https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG"
-        },
-        {
-          "name": "Desingly",
-          "url": "https://open.spotify.com/artist/7e75N4iueWn6bCBMR74oWd"
+          "name": "KYTES",
+          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
         }
       ],
-      "duration_ms": 185076,
-      "name": "Hole Digger",
-      "url": "https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf"
+      "duration_ms": 154452,
+      "name": "Go Out",
+      "url": "https://open.spotify.com/track/7sDwxV8qrVNdxvljSkjp0n"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1203,6 +1183,26 @@
       "duration_ms": 228092,
       "name": "In Plain Sight",
       "url": "https://open.spotify.com/track/4BRx9dbjHmxUGRZAhQta3d"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Hole Digger",
+        "url": "https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb"
+      },
+      "artists": [
+        {
+          "name": "Camel Power Club",
+          "url": "https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG"
+        },
+        {
+          "name": "Desingly",
+          "url": "https://open.spotify.com/artist/7e75N4iueWn6bCBMR74oWd"
+        }
+      ],
+      "duration_ms": 185076,
+      "name": "Hole Digger",
+      "url": "https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "Why You Lacking Energy?",
+        "url": "https://open.spotify.com/album/5Oky6qpyguBJj42ajNfxEu"
+      },
+      "artists": [
+        {
+          "name": "Cassia",
+          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
+        }
+      ],
+      "duration_ms": 182480,
+      "name": "Right There",
+      "url": "https://open.spotify.com/track/3Y9CkOkl5eotKgClQMZvdw"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "Waste My Life",
         "url": "https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH"
       },
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Why You Lacking Energy?",
-        "url": "https://open.spotify.com/album/5Oky6qpyguBJj42ajNfxEu"
-      },
-      "artists": [
-        {
-          "name": "Cassia",
-          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
-        }
-      ],
-      "duration_ms": 182480,
-      "name": "Right There",
-      "url": "https://open.spotify.com/track/3Y9CkOkl5eotKgClQMZvdw"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Majored In Broken Hearts",
         "url": "https://open.spotify.com/album/04nHRjoevp8LZ3J6IYR9PV"
       },
@@ -1363,22 +1363,6 @@
       "duration_ms": 191499,
       "name": "Majored In Broken Hearts",
       "url": "https://open.spotify.com/track/1zIqRF5cnIkUnrKwIbFxUc"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "Get High",
-        "url": "https://open.spotify.com/album/4NqTaiWEVCaEK4AXrPCgyn"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 222936,
-      "name": "Get High",
-      "url": "https://open.spotify.com/track/2ZrCz6tDHMvzJSrJGVO3zT"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1591,22 +1575,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Falling for You",
-        "url": "https://open.spotify.com/album/3jRlCgPRb4MXYYxa4Y9MCO"
-      },
-      "artists": [
-        {
-          "name": "Charlotte OC",
-          "url": "https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH"
-        }
-      ],
-      "duration_ms": 206290,
-      "name": "Falling for You",
-      "url": "https://open.spotify.com/track/2mkjdGgwSprfQNVoX7N92q"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Take Me Home Boy",
         "url": "https://open.spotify.com/album/5FZw2VvfuXtRP77R0vnK0L"
       },
@@ -1619,6 +1587,22 @@
       "duration_ms": 193163,
       "name": "Take Me Home Boy",
       "url": "https://open.spotify.com/track/08wsm7epFKstVWWaE2n9XG"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Falling for You",
+        "url": "https://open.spotify.com/album/3jRlCgPRb4MXYYxa4Y9MCO"
+      },
+      "artists": [
+        {
+          "name": "Charlotte OC",
+          "url": "https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH"
+        }
+      ],
+      "duration_ms": 206290,
+      "name": "Falling for You",
+      "url": "https://open.spotify.com/track/2mkjdGgwSprfQNVoX7N92q"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1683,6 +1667,22 @@
       "duration_ms": 215610,
       "name": "Smiling Face",
       "url": "https://open.spotify.com/track/083YqmGxSLpgr8Hr6HeFNx"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Red & Blue",
+        "url": "https://open.spotify.com/album/4LwCWinuYbTmzTBuiXQsU7"
+      },
+      "artists": [
+        {
+          "name": "Razz",
+          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
+        }
+      ],
+      "duration_ms": 213418,
+      "name": "Red & Blue",
+      "url": "https://open.spotify.com/track/3bmhQ0lxeJeLDe8ElVLOND"
     }
   ],
   "unique_name": "Feelgood Indie",

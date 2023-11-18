@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKjl2C2FKWY.md) - [plain]
 
 > Soft acoustic sounds for your massage session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,670 likes - 99 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,707 likes - 99 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKjl2C2FKWY.md) - [plain]
 | 77 | [Easy From Now On](https://open.spotify.com/track/1zKF9MlZymZ5uuMVv4Us1G) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Easy From Now On](https://open.spotify.com/album/27eQoki17KCvSJWtta6xlq) | 3:18 |
 | 78 | [I'll Be Here In The Morning](https://open.spotify.com/track/1ixqz9BFlp0UFVU7qHpgLq) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [I'll Be Here In The Morning](https://open.spotify.com/album/2nW7jJPpAPCgmscjywyL11) | 3:07 |
 | 79 | [Don't Be Cruel](https://open.spotify.com/track/7vtFqEe5DJRyV2S06Kwz9z) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Don't Be Cruel](https://open.spotify.com/album/5I0vtlkT4LxPddbRCtOpvq) | 2:41 |
-| 80 | [Annie’s Song](https://open.spotify.com/track/25FlnyyFGyuinq9s0o4KMG) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Annie's Song](https://open.spotify.com/album/3BdPldIWLfVrHDMUcANP5o) | 2:55 |
+| 80 | [Annie’s Song](https://open.spotify.com/track/2GAK2qFjh7mOCE24RiGi7i) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Covers, Vol\. 1](https://open.spotify.com/album/0e1s7jQdJ0VsdzSnMXAPX9) | 2:55 |
 | 81 | [Mountains](https://open.spotify.com/track/3f7rnCS8YUMOK0YE9olnoA) | [Robbie Wadge](https://open.spotify.com/artist/4kLNypIZnb0dYilQZTIHVq) | [Mountains](https://open.spotify.com/album/7MILm8aG1st3tp8Uk0XtNP) | 4:47 |
 | 82 | [Have You Ever Seen the Rain \- Acoustic](https://open.spotify.com/track/1MPMpqmDKREPHRguiYzq5S) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw), [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Have You Ever Seen the Rain \(Acoustic\)](https://open.spotify.com/album/5p474hS01UBEVVqLi1xaaL) | 2:46 |
 | 83 | [Cool](https://open.spotify.com/track/0B6Gf49UuiyYiKM3cCdfzW) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Cool](https://open.spotify.com/album/3Y5mbHm9zcwmAmhKlORakx) | 4:03 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKjl2C2FKWY.md) - [plain]
 | 98 | [Time After Time](https://open.spotify.com/track/1gcciAKMxnfM5wpiGmWMWe) | [Theresa Sokyrka](https://open.spotify.com/artist/2zAv7AJFf3oFv3OSYijDZV), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Time After Time](https://open.spotify.com/album/5nK2Jv9zFovAu7eu3SeeB2) | 3:48 |
 | 99 | [Lightning Crashes](https://open.spotify.com/track/7e5dQ0xfbBFC4RWg7ogstX) | [Suzana Maximiliano](https://open.spotify.com/artist/0swyjVW2UWXf3aixsKCGc1) | [Lightning Crashes](https://open.spotify.com/album/45YVxODHqrMEgn8wU9qBaN) | 4:41 |
 
-Snapshot ID: `MCxhMWUzZDM2MWRkYzU3ZDdlNGNmY2E2NTM3NTI4NTIwM2Q5OTAyMDkz`
+Snapshot ID: `MCw5OWRmM2M2N2QxMmQyM2Y4MDZhOWNhMDQ5N2E0NTQwYjhjOTA1ZmVm`

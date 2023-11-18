@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,273 likes - 101 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,471 likes - 101 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 14 | [The Limit](https://open.spotify.com/track/5xZhh4ZLFnUltMJ5xVur6a) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT), [AYA](https://open.spotify.com/artist/1IPTC92TkaOIMj9Gohi8MF) | [The Limit](https://open.spotify.com/album/5P6N1ibaaDY8KYwJzthatT) | 3:34 |
 | 15 | [Guitar for Robots](https://open.spotify.com/track/0wVNSb7KCG02MiBK0Di0fN) | [Cool Aid](https://open.spotify.com/artist/5eouF3YpHk4ZcPXd2FkaKc) | [Guitar for Robots](https://open.spotify.com/album/10nJahT2mV6gRG1PYEcJgt) | 3:56 |
 | 16 | [Tie Me Up](https://open.spotify.com/track/0Ad3yGSw8Mqmad5XQQUOAu) | [Zackey Force Funk](https://open.spotify.com/artist/18CPbmxYOdkMCEkq3j9CBd), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [Tie Me Up](https://open.spotify.com/album/31HFBkKWLTp87WMpCQXOj6) | 3:54 |
-| 17 | [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/677Ket8qKGVOMtXgE4Gpfk) | 3:49 |
+| 17 | [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/05nmIjhawOHWTiA21xKpFE) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/3sx9ynPOj1lBDPrnwWkGD1) | 3:49 |
 | 18 | [Back to School](https://open.spotify.com/track/5qUdaHRGN3n9yBfJwtjkKb) | [Pink Flamingo Rhythm Revue](https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp) | [Back to School](https://open.spotify.com/album/3Yy2lKiKtm4o2N9ZUCJzY5) | 2:58 |
 | 19 | [Like Water](https://open.spotify.com/track/31AMYOkmTXQryJ27RGCoXj) | [Ivan Makvel](https://open.spotify.com/artist/2NnG0MYrJ9KcBClx1Ja2Q4), [Maya Killtron](https://open.spotify.com/artist/00kg3zOGx3pJytYkDxK0q2) | [Like Water / Step It Up](https://open.spotify.com/album/7CIdJODHRFNDmgAgdulpUs) | 3:24 |
 | 20 | [Million Miles Away \- Edit](https://open.spotify.com/track/3bVVmBBPPQ47Go4NkGC3XW) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2), [Milk Talk](https://open.spotify.com/artist/739rlT7CS6nZDmGB9Y9qCR) | [Million Miles Away \(Edit\)](https://open.spotify.com/album/7lMcEyaYZeeI4DBC3d8bRq) | 3:31 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 100 | [Alcool](https://open.spotify.com/track/6c6XMB1tD84ldzSBrbhHvA) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/0yzYRvOYlV5ryYCAXUZAsG) | 2:49 |
 | 101 | [Dress Code \- Radio Edit](https://open.spotify.com/track/57fQJMdLNaA6excz33WY0N) | [Julien Granel](https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45) | [Dress Code](https://open.spotify.com/album/6H4df75uGhXNqNn9ufwRW0) | 3:20 |
 
-Snapshot ID: `MCwzNzhkNmZhZWNkZTIyZmQwNDdlYTRmODJhYWU5YTc3YzE5NDAzMzQ3`
+Snapshot ID: `MCxiNTkyMDE1YTI5YzBjMGZmOGI2MDYxY2YxMWYzMTI4ZmFjYzQ5MTEy`

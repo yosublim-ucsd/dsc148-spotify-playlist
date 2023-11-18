@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 
 > Tejano's new wave! La nueva ola de música tejana\. Cover: Gary Hobbs
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,542 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,548 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 30 | [Estoy Encariñado](https://open.spotify.com/track/3qK4WO2Ce5s9snSR6V6bEY) | [Magnifico 7](https://open.spotify.com/artist/6zuG09EcKizF0eInZDECWm) | [Estoy Encariñado](https://open.spotify.com/album/4dRU5z6FXddnElpKP66L7H) | 3:00 |
 | 31 | [Una Ilusión](https://open.spotify.com/track/2kYq6e5BuHzKr8iRsl5AWo) | [Isabel Marie](https://open.spotify.com/artist/1i4JicYEjrRhkORObJYf89) | [Una Ilusión](https://open.spotify.com/album/4r0G7rL668VA5YsHTwzVsU) | 3:16 |
 | 32 | [Anda Vuela Y Vete](https://open.spotify.com/track/2MvbaM5Xr5WhIivUQ8ofWq) | [Kamryn Ramirez](https://open.spotify.com/artist/5aymaxJUjnEDpKqnlZJ6Md) | [Anda Vuela Y Vete](https://open.spotify.com/album/7MLTri6EzzNH2BduIXholw) | 2:45 |
-| 33 | [Increible](https://open.spotify.com/track/5oleBetA6x9DZgnjFxzVnL) | [MARISELA HERNANDEZ](https://open.spotify.com/artist/0hpmUWNOBWVBpjOHv54CFZ) | [Increible](https://open.spotify.com/album/5MdQjoBT8WWX4vxA7Bi0VK) | 3:41 |
-| 34 | [Volverás](https://open.spotify.com/track/7ARQgwWu1HNr6GVo7OIlfb) | [Jenny B](https://open.spotify.com/artist/3BaCKKe6NFRb12KYkYAhgB) | [Volverás](https://open.spotify.com/album/6ixTsLJz2DcMzqHtJneQkZ) | 3:20 |
+| 33 | [Volverás](https://open.spotify.com/track/7ARQgwWu1HNr6GVo7OIlfb) | [Jenny B](https://open.spotify.com/artist/3BaCKKe6NFRb12KYkYAhgB) | [Volverás](https://open.spotify.com/album/6ixTsLJz2DcMzqHtJneQkZ) | 3:20 |
+| 34 | [Increible](https://open.spotify.com/track/5oleBetA6x9DZgnjFxzVnL) | [MARISELA HERNANDEZ](https://open.spotify.com/artist/0hpmUWNOBWVBpjOHv54CFZ) | [Increible](https://open.spotify.com/album/5MdQjoBT8WWX4vxA7Bi0VK) | 3:41 |
 | 35 | [Pura Sabrosura](https://open.spotify.com/track/3etkEQi64KOu73UexyHvCU) | [Severo y Grupo Fuego](https://open.spotify.com/artist/6KZCZ4IGZLiJpvVysat6F6) | [Pura Sabrosura](https://open.spotify.com/album/007AGLSQRBYHMtIvW8Z2mv) | 2:39 |
 | 36 | [Porque Vivo Enamorado](https://open.spotify.com/track/32ovEWIxJqBuOr5WGrPGGx) | [Roel Martinez](https://open.spotify.com/artist/4RikQLyFZfarbZVAapJ7fe) | [Porque Vivo Enamorado](https://open.spotify.com/album/5GtBt9MN0FOppVuMy2vvWS) | 3:42 |
 | 37 | [Quiereme \- Hard Core Tex\-Mex Version](https://open.spotify.com/track/0Mw3XtMS8mVa0TePH6JWPS) | [El Tiempo](https://open.spotify.com/artist/0DxGeLKI2FB9WsIi8dmPr2), [Juan P\. Moreno](https://open.spotify.com/artist/0tlZzUtqFwN2raxLbHTH5I) | [Quiereme \(Hard Core Tex\-Mex Version\)](https://open.spotify.com/album/0ZprEjt9HQi9GHR6dZAD8m) | 3:27 |
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 40 | [Si Manana No Me Ves](https://open.spotify.com/track/4hkokOj67Cb9gzt6QV2nUd) | [Anikka](https://open.spotify.com/artist/3hkqKQ2qlIE4STNnjFLDnh) | [Si Manana No Me Ves](https://open.spotify.com/album/3NqmmCyTpThcgwBSalVtH6) | 3:21 |
 | 41 | [Me Estoy Enamorando](https://open.spotify.com/track/125nNouH95Q996cSYS79lb) | [Potente](https://open.spotify.com/artist/5bvI6ngb2zCeNFMe2wDSWD) | [Me Estoy Enamorando](https://open.spotify.com/album/5RJg4RhFCjohxFLkga8e4C) | 3:13 |
 | 42 | [El Error Más Bello](https://open.spotify.com/track/53gfKh57VZYYkQtoxHmxUt) | [Juan Treviño](https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG) | [El Error Más Bello](https://open.spotify.com/album/7o7d17PLyFmjGB0an0yovJ) | 3:25 |
-| 43 | [Necesito Borrarte](https://open.spotify.com/track/4z9yJA8koT5fwoTma6E8K4) | [G5](https://open.spotify.com/artist/2H8HtciXlTYidtcVuh7jpA) | [Necesito Borrarte](https://open.spotify.com/album/5aQ0e23H4UD9BrXFrUwnGe) | 4:14 |
-| 44 | [Mas Tequila Por Favor](https://open.spotify.com/track/1VNObsfdjnomFIjmYAcKOU) | [Cristelo](https://open.spotify.com/artist/1DCvzR9znRe6tL9TEp6jW9) | [Mas Tequila Por Favor](https://open.spotify.com/album/6c8zLJghD3wMxjum5l0e03) | 3:20 |
+| 43 | [Mas Tequila Por Favor](https://open.spotify.com/track/1VNObsfdjnomFIjmYAcKOU) | [Cristelo](https://open.spotify.com/artist/1DCvzR9znRe6tL9TEp6jW9) | [Mas Tequila Por Favor](https://open.spotify.com/album/6c8zLJghD3wMxjum5l0e03) | 3:20 |
+| 44 | [Necesito Borrarte](https://open.spotify.com/track/4z9yJA8koT5fwoTma6E8K4) | [G5](https://open.spotify.com/artist/2H8HtciXlTYidtcVuh7jpA) | [Necesito Borrarte](https://open.spotify.com/album/5aQ0e23H4UD9BrXFrUwnGe) | 4:14 |
 | 45 | [No Olvides Nuestro Amor](https://open.spotify.com/track/1Ta3yiAmE3pwV0PTHh7aQi) | [Savannah V.](https://open.spotify.com/artist/4tIM2vdL2VzMLAG4HjvcCo) | [No Olvides Nuestro Amor](https://open.spotify.com/album/3n0v17UcuyufwjmzRz4jFg) | 3:05 |
-| 46 | [Amor Eterno](https://open.spotify.com/track/2eqC236uwgGhieuk0ZeK9B) | [ANGELICA](https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50), [Grupo Moneda](https://open.spotify.com/artist/6MZ41CkqrTJO9ypkLlEGx4) | [Amor Eterno](https://open.spotify.com/album/5fNv9Q7DujaEYk7DxauhKl) | 3:43 |
-| 47 | [Infraganti](https://open.spotify.com/track/5nXpvGtAZJfVtkeJgxhwbN) | [Monica Saldivar](https://open.spotify.com/artist/6DsEG8AZVx2LpveCIwzkMw) | [Soy Mas Fuerte \(Deluxe\)](https://open.spotify.com/album/2BwD5INs8kHprriWKDmbP6) | 3:49 |
+| 46 | [Infraganti](https://open.spotify.com/track/5nXpvGtAZJfVtkeJgxhwbN) | [Monica Saldivar](https://open.spotify.com/artist/6DsEG8AZVx2LpveCIwzkMw) | [Soy Mas Fuerte \(Deluxe\)](https://open.spotify.com/album/2BwD5INs8kHprriWKDmbP6) | 3:49 |
+| 47 | [Amor Eterno](https://open.spotify.com/track/2eqC236uwgGhieuk0ZeK9B) | [ANGELICA](https://open.spotify.com/artist/0pFaDLD1l1EmgZyVSIlZ50), [Grupo Moneda](https://open.spotify.com/artist/6MZ41CkqrTJO9ypkLlEGx4) | [Amor Eterno](https://open.spotify.com/album/5fNv9Q7DujaEYk7DxauhKl) | 3:43 |
 | 48 | [Super Heroe](https://open.spotify.com/track/1JG96INBN360PdDZnWztog) | [David Lee Garza Y Los Musicales](https://open.spotify.com/artist/6BeHKwIrRR7n4U3QDKpxvR) | [Solamente Tu](https://open.spotify.com/album/1siVRqGXvQK3vQY1Ps3rD2) | 3:26 |
 | 49 | [Sedúceme](https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL) | [Juan Treviño](https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG) | [Sedúceme](https://open.spotify.com/album/0G49TBSDw4AQAuf6heH1U4) | 3:29 |
 | 50 | [Porque Te Amo](https://open.spotify.com/track/7zHFYAKZG0yBG2yqTYYmKB) | [Boyz of Kumbia](https://open.spotify.com/artist/2HeR4Dpca4cva6SUlEHuEA) | [Porque Te Amo](https://open.spotify.com/album/0drmVwgibymg1PiFUMnyhe) | 3:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19FiqS4SYCP.md) - [plain]
 | 79 | [Ilusiones](https://open.spotify.com/track/2ppb8UJGd46K2s3amo3Tdf) | [Inspirazion](https://open.spotify.com/artist/0VsDIktkT2MwCO9U48QBvZ) | [Ilusiones](https://open.spotify.com/album/3RuGEPSv2fjAkSAZ3zi06i) | 3:17 |
 | 80 | [Los Laureles](https://open.spotify.com/track/4X934GVbVTB738dLh2fsDG) | [Grupo Rumores](https://open.spotify.com/artist/7yTayx79xvmK2D61aPGprO) | [La Faldita](https://open.spotify.com/album/3PloZ7lDWnocn5J8b8qIYd) | 3:12 |
 
-Snapshot ID: `MCw0YWQyMWZkYzMxZGNkMDVlMDYzMDBjMTc0NWEwODliYWUyNTdlMWFi`
+Snapshot ID: `MCw5NTcxYzQzYzk1Yzk2NjVhYTQ3M2ZmOWJjZWZiNWI0Y2JkZWYwYmI5`

@@ -4,7 +4,7 @@
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: svegliaginevra
 
-797 songs - 1 day 16 hr 3 min
+798 songs - 1 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,8 @@
 | [Che peccato](https://open.spotify.com/track/47v7cCqDp0CDNQFEN8RU3W) | [Adelasia](https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw) | [Che peccato](https://open.spotify.com/album/6vbUAkhROYvAE5LFS0GoF3) | 2:31 | 2023-07-05 | 2023-08-02 |
 | [Che schifezza che è l'amore](https://open.spotify.com/track/74fNa1DP8ROdHfz1oIIXF0) | [fefe](https://open.spotify.com/artist/7ogDSrnAKBrwJ9mbnPTI4T) | [Che schifezza che è l'amore](https://open.spotify.com/album/17BGquEPQU9VbBrWfWZKtO) | 3:20 | 2022-04-05 | 2022-05-04 |
 | [che schifo](https://open.spotify.com/track/7qOgaWfur4j539o6eTGPaZ) | [Valucre](https://open.spotify.com/artist/6Aw7jZkZ38TArxniZ04Sma) | [che schifo](https://open.spotify.com/album/1fxr2HLBgpl9q2JAiWmo11) | 2:40 | 2022-11-01 | 2022-12-01 |
-| [Che t'o dico a fa'](https://open.spotify.com/track/20qlAd6sHAYjc7TrrM5VeY) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Che t'o dico a fa'](https://open.spotify.com/album/7kILSxiEN9pJrFyr7Bs8OE) | 3:07 | 2023-11-07 |  |
+| [Che t'o dico a fa'](https://open.spotify.com/track/20qlAd6sHAYjc7TrrM5VeY) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Che t'o dico a fa'](https://open.spotify.com/album/7kILSxiEN9pJrFyr7Bs8OE) | 3:07 | 2023-11-07 | 2023-11-18 |
+| [Che t’o dico a fa’](https://open.spotify.com/track/7sBmJhD1J7qt33jgxH7Jf9) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Che t’o dico a fa’](https://open.spotify.com/album/06ngD2b3wsMNEKynEGt24o) | 3:07 | 2023-11-07 |  |
 | [Cherie](https://open.spotify.com/track/7tqqfZnZuNwVwKmQxlCMvN) | [La Messa](https://open.spotify.com/artist/0d8W1CF5vivAV6Fps5ELPZ) | [Cherie](https://open.spotify.com/album/0xEaAqphKRU7JkT4AKtQ03) | 2:47 | 2023-08-01 | 2023-09-07 |
 | [Chevanton](https://open.spotify.com/track/1FB9iu04mM6Mc1a5fAjQBb) | [Telemagenta](https://open.spotify.com/artist/3L5YgkO7QX7dNtzUiyOfkF) | [Chevanton](https://open.spotify.com/album/0y4ti83XPhOMbM49jmJxll) | 2:31 | 2022-09-06 | 2022-11-02 |
 | [Chi non ha](https://open.spotify.com/track/2HHiNwpO67Dbia2goFZNAx) | [Nada](https://open.spotify.com/artist/37x1MqNXlCtuLLYSXYX7jA) | [Chi non ha](https://open.spotify.com/album/6lPFmusDCrK39XLXHNM1dF) | 3:46 | 2022-10-06 | 2022-12-01 |

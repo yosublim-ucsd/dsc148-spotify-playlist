@@ -629,6 +629,36 @@
     },
     {
       "album": {
+        "name": "BANDIDONA",
+        "url": "https://open.spotify.com/album/3le9u1jM09SXaQY0HyeEpK"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "DJ Biel do Furduncinho",
+          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "BANDIDONA",
+      "url": "https://open.spotify.com/track/70t5xVFE5WJcg80wklPbcX"
+    },
+    {
+      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/65gaJhM7QYfPtjO2lg4B9V"
       },
@@ -2259,6 +2289,28 @@
     },
     {
       "album": {
+        "name": "La Muerte",
+        "url": "https://open.spotify.com/album/1ZJGLtqMXz4zETyqQw6qDG"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "La Muerte",
+      "url": "https://open.spotify.com/track/1B7qwIcI3gbPS5Mm4CBLjD"
+    },
+    {
+      "album": {
         "name": "LARISSA",
         "url": "https://open.spotify.com/album/70sY3crXMsRLyKBhDhqcNy"
       },
@@ -2500,7 +2552,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 194400,
       "name": "Mais Um Voo",
       "url": "https://open.spotify.com/track/39uMV1Ix79vlMNssVxACuU"
@@ -4048,7 +4100,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 173653,
       "name": "Raridade",
       "url": "https://open.spotify.com/track/3u89ugK8QORSu1A7ZgpvV5"

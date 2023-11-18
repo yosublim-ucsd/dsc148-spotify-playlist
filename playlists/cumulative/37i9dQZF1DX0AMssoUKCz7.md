@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-657 songs - 1 day 9 hr 21 min
+658 songs - 1 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Give Me Your Love](https://open.spotify.com/track/5aYRFQqCBxTQBkYjtZgrNw) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Esemty](https://open.spotify.com/artist/5wfl3jyyjGGkVbB6ojSwcF), [SebDell](https://open.spotify.com/artist/4JilqgKuNlwLPG6IppSVuK) | [Give Me Your Love](https://open.spotify.com/album/7m6kMGE891tL1wjpkAB67U) | 2:25 | 2022-07-15 | 2022-09-26 |
 | [Give Me Your Summer](https://open.spotify.com/track/1Q2ca16lCXmdJb2hMiCIiP) | [Color Codes](https://open.spotify.com/artist/0L4swFqe6aAXjmTN3TmO2L) | [Give Me Your Summer](https://open.spotify.com/album/6L3drsVQw2PE1ZPNvAO2MS) | 2:50 | 2022-04-01 | 2022-07-28 |
 | [Glowing State](https://open.spotify.com/track/3mHAqQWWO4BWRME0sSFzEj) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [Always Me](https://open.spotify.com/album/5PENGIvIfC8JOAgxmdtS6p) | 4:49 | 2022-04-01 |  |
-| [Go There With You](https://open.spotify.com/track/3wiW6zoK6kMxwr0FgdGDHw) | [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf), [Mecdoux](https://open.spotify.com/artist/2LEcQU88INN9wulB59Xo0Q) | [Go There With You](https://open.spotify.com/album/4dCjZpw7sKRFT99qhQd563) | 3:16 | 2022-06-03 |  |
+| [Go There With You](https://open.spotify.com/track/3wiW6zoK6kMxwr0FgdGDHw) | [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf), [Mecdoux](https://open.spotify.com/artist/2LEcQU88INN9wulB59Xo0Q) | [Go There With You](https://open.spotify.com/album/4dCjZpw7sKRFT99qhQd563) | 3:16 | 2022-06-03 | 2023-11-18 |
 | [Going Away](https://open.spotify.com/track/7ukxpGl0ZKJibFICrSIhQK) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [Honey](https://open.spotify.com/artist/4lQERYdwY63QCoTVxt0aP9) | [Going Away](https://open.spotify.com/album/4dzOrYGcvYlSuf107EiKcy) | 2:32 | 2023-10-27 |  |
 | [Gold](https://open.spotify.com/track/52xRalpJsWgk2AprDKvR6g) | [Leviro](https://open.spotify.com/artist/50rU4gBfyrar1G08tnxdTl) | [Gold](https://open.spotify.com/album/1ZDWXDisS7Qnl6YbNKzdGz) | 2:24 | 2022-12-23 | 2023-03-29 |
 | [Gonna Love Ya](https://open.spotify.com/track/4MCU3lOwRiapFjE9kxiW0f) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Gonna Love Ya](https://open.spotify.com/album/5GMy8VTyvntUIsi5Fp5jXE) | 3:35 | 2022-02-18 | 2022-04-02 |
@@ -350,6 +350,7 @@
 | [Maaya](https://open.spotify.com/track/6p8uFTidsF68EHK5p753gU) | [Achtabahn](https://open.spotify.com/artist/2bnHA3uft5ff7aFQLvscV5) | [Maaya](https://open.spotify.com/album/6eW0O5Pw4fGnyVBS3avc79) | 3:13 | 2022-01-14 | 2022-04-22 |
 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 | 2022-05-20 |  |
 | [Magnificent](https://open.spotify.com/track/14OYnc2WqxyReHJCmVxvcb) | [Daniel Glaven](https://open.spotify.com/artist/2Po6PWRViaK7I9kvFiILxF), [WLZN](https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce) | [Magnificent](https://open.spotify.com/album/38QksNTcfrNeEHAqIQRd6F) | 2:20 | 2022-10-28 | 2022-12-02 |
+| [Magnificent](https://open.spotify.com/track/1tydCMu7fASKBXKpQ4vP9R) | [Daniel Glaven](https://open.spotify.com/artist/2Po6PWRViaK7I9kvFiILxF), [WLZN](https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce) | [Magnificent](https://open.spotify.com/album/4dSkHfJJAdXlNQTmq9DP6p) | 2:20 | 2023-10-27 |  |
 | [Malibu](https://open.spotify.com/track/7J54b6dPrL7obVHhxtSAJf) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh), [kaii](https://open.spotify.com/artist/30FKMLZe54ybKyWQRSp8ye) | [Malibu](https://open.spotify.com/album/27kBIneDwz5OgFKNkv0HKG) | 2:27 | 2022-09-30 |  |
 | [Matter of Time \- Deepend Remix](https://open.spotify.com/track/3JzqZV4ALUxonpQheJjbLk) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time \(Deepend Remix\)](https://open.spotify.com/album/4RVcYGRLef8g3PLEuTLDfm) | 3:10 | 2023-01-13 | 2023-03-23 |
 | [Matter of Time \- Deepend Remix](https://open.spotify.com/track/5I0W4t45t9xzxWpDqVpP7A) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time \(Deepend Remix\)](https://open.spotify.com/album/3M7Ir3JU4O022waLZ179KY) | 3:10 | 2023-02-10 |  |

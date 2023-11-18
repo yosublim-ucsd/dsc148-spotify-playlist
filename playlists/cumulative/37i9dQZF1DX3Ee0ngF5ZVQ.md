@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Flatland Cavalry
 
-567 songs - 1 day 9 hr 46 min
+568 songs - 1 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [Nothing No More](https://open.spotify.com/track/0kLyVOwCvlxsT7Z3dSJpNg) | [JB and the Moonshine Band](https://open.spotify.com/artist/0fY9RWMWc5guge9XOKe4OW) | [Nothing No More](https://open.spotify.com/album/0yJqJ8of9DVX60BsRP1qEf) | 3:12 | 2023-07-07 | 2023-08-26 |
 | [Nothin’s Changed](https://open.spotify.com/track/55Dy9OWWGmV4QQyU9uqjK1) | [Bart Crow](https://open.spotify.com/artist/0Vdv0pEg0SwdqoEbpP3MJ1) | [Nothin’s Changed](https://open.spotify.com/album/1mfsIkwIlh9UJ851daTUt2) | 3:02 | 2023-08-04 | 2023-10-07 |
 | [OK Cowboy](https://open.spotify.com/track/01lARb2d5zmKIVUaHjSfZM) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [OK Cowboy](https://open.spotify.com/album/0n9B105tgMqX1zG6qtvCoZ) | 3:24 | 2023-10-20 |  |
+| [Oklahoma](https://open.spotify.com/track/6whzN4pEb9ArYN4z9FqijU) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Oklahoma](https://open.spotify.com/album/4UjSoAyBIRZu3cGSEA6MXM) | 3:39 | 2023-11-17 |  |
 | [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 | 2022-09-02 |  |
 | [On My Way](https://open.spotify.com/track/5KZzV6eNfHLFjQW4tSoTnr) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u) | [On My Way](https://open.spotify.com/album/18lEO0bUtImvRtUHn9FDgy) | 3:03 | 2022-06-10 | 2022-07-16 |
 | [Once in a Blue Moon](https://open.spotify.com/track/0T57qwTgUjH26XH3mmHWNq) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Once in a Blue Moon](https://open.spotify.com/album/7il1OFIKfeTBSiYBFlH1Mk) | 3:07 | 2022-04-01 | 2023-02-12 |
@@ -493,7 +494,7 @@
 | [This Time Around](https://open.spotify.com/track/52fmgQqhNWTXXKPPoJG58M) | [Matt Daniel](https://open.spotify.com/artist/6QiblG2jfJUChehe6UpFvT) | [This Time Around](https://open.spotify.com/album/09REi8SfRMiwYGEBz7JfID) | 3:27 | 2022-01-14 | 2022-03-19 |
 | [Thorns](https://open.spotify.com/track/1t5JzFzRDHdiPf5K8vT5rr) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Thorns](https://open.spotify.com/album/6ztMuvkxG1L53wV9y0O408) | 3:17 | 2022-04-15 | 2022-05-20 |
 | [Threw Away](https://open.spotify.com/track/6y9xknJBdsTfllYj1HQIYo) | [Braydon Zink](https://open.spotify.com/artist/71HnAsSWgf87Mi2pT0EvOO) | [Time](https://open.spotify.com/album/7nC872HsgMGjoYr7vmIyvs) | 4:16 | 2022-03-04 | 2022-07-16 |
-| [Time of The Rambler](https://open.spotify.com/track/5jvph0QWRjgxRq2jM0bGZO) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Time of The Rambler](https://open.spotify.com/album/52fzMuwSfWE2y7AxN8Yq0G) | 3:13 | 2023-11-03 |  |
+| [Time of The Rambler](https://open.spotify.com/track/5jvph0QWRjgxRq2jM0bGZO) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Time of The Rambler](https://open.spotify.com/album/52fzMuwSfWE2y7AxN8Yq0G) | 3:13 | 2023-11-03 | 2023-11-18 |
 | [To Be Loved By You](https://open.spotify.com/track/5Ykc3Wr4L4wef5QDdaaxM7) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [To Be Loved By You](https://open.spotify.com/album/6Vtd35xUUyiFApy5kFdqVu) | 3:18 | 2021-12-17 | 2022-01-08 |
 | [Too Many Honky Tonks](https://open.spotify.com/track/2GCLQ7aeFcAWM0Mc8x8a2U) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Too Many Honky Tonks](https://open.spotify.com/album/5OxoWGOhNG6g8qOTMFfCl8) | 3:13 | 2023-09-29 |  |
 | [Too Much Texas](https://open.spotify.com/track/3hEWrpdstTH1OLaQdBZWG0) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Too Much Texas](https://open.spotify.com/album/09QxnbZzFjWyoZVStprhUJ) | 2:37 | 2022-03-18 | 2022-07-28 |

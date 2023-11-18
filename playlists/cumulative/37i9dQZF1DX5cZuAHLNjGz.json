@@ -2551,6 +2551,32 @@
     },
     {
       "album": {
+        "name": "Khadaak",
+        "url": "https://open.spotify.com/album/0Wjak0wq7GXx6Gkf0FN1Q5"
+      },
+      "artists": [
+        {
+          "name": "Shooter Kahlon",
+          "url": "https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS"
+        },
+        {
+          "name": "Shevv",
+          "url": "https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok"
+        },
+        {
+          "name": "Micheal",
+          "url": "https://open.spotify.com/artist/4HITSZH8b5ITVXjg91mFY1"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157590,
+      "name": "Khadaak",
+      "url": "https://open.spotify.com/track/2l4WWoL2e7XL77hT3r4iee"
+    },
+    {
+      "album": {
         "name": "The Lifestyle",
         "url": "https://open.spotify.com/album/1zIvQYNdDnl4f7iF2s6HHj"
       },
@@ -5316,7 +5342,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 153210,
       "name": "Untouchable",
       "url": "https://open.spotify.com/track/2hDMBVN3P47GEhH5VtmA6m"

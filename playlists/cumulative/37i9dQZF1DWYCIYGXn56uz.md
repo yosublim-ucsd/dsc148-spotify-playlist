@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Mida
 
-275 songs - 12 hr 38 min
+276 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Che bella che sei](https://open.spotify.com/track/5hKnSsWTspcGHY7iciiVwT) | [Cricca](https://open.spotify.com/artist/0oiJDgttDtTb1OGGPZmQBX) | [CRICCA](https://open.spotify.com/album/3GUQc2bZUzFlK9MwnrFfWI) | 2:43 | 2023-06-22 | 2023-07-07 |
 | [CHE FAI](https://open.spotify.com/track/2sTg9dCPOJKJ52BnZGRoBt) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [CHE FAI](https://open.spotify.com/album/0ZuHFQf7VRevzAHfXBbjah) | 2:21 | 2023-11-07 |  |
 | [Che mettevi sempre](https://open.spotify.com/track/5STrHzIUfsWe9glyyUCGjx) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK), [Federica Carta](https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L) | [Che mettevi sempre](https://open.spotify.com/album/2XdkDYtLGXJ8lAQaMWxtFN) | 3:03 | 2023-03-23 | 2023-04-14 |
-| [Che t'o dico a fa'](https://open.spotify.com/track/20qlAd6sHAYjc7TrrM5VeY) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Che t'o dico a fa'](https://open.spotify.com/album/7kILSxiEN9pJrFyr7Bs8OE) | 3:07 | 2023-10-05 |  |
+| [Che t'o dico a fa'](https://open.spotify.com/track/20qlAd6sHAYjc7TrrM5VeY) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Che t'o dico a fa'](https://open.spotify.com/album/7kILSxiEN9pJrFyr7Bs8OE) | 3:07 | 2023-10-05 | 2023-11-18 |
+| [Che t’o dico a fa’](https://open.spotify.com/track/7sBmJhD1J7qt33jgxH7Jf9) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Che t’o dico a fa’](https://open.spotify.com/album/06ngD2b3wsMNEKynEGt24o) | 3:07 | 2023-11-16 |  |
 | [Chi Sono Veramente](https://open.spotify.com/track/5Xxz4XYpz2aViGUfW50Y4O) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [CHI SONO VERAMENTE EP](https://open.spotify.com/album/5fEPgkaJVP12LRMZ5T6fhI) | 2:50 | 2023-03-23 |  |
 | [Ci penserò domani](https://open.spotify.com/track/1feHjTOSRoZSh71HuIvnoT) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Ci penserò domani](https://open.spotify.com/album/3BHBF3r3tkcAAruf7wlqYw) | 2:17 | 2023-06-15 | 2023-07-07 |
 | [Ci pensi mai?](https://open.spotify.com/track/4vir2LGu3hdVNbzJqdEago) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [DANI](https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp) | [Ci pensi mai?](https://open.spotify.com/album/5ee4xYz1FK0VDC4bTARTiD) | 1:44 | 2023-10-19 | 2023-11-17 |

@@ -1502,10 +1502,28 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 206240,
       "name": "Hold My Halo",
       "url": "https://open.spotify.com/track/0JFNEmvxVfMOV8HsICZkOj"
+    },
+    {
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206240,
+      "name": "Hold My Halo",
+      "url": "https://open.spotify.com/track/29O197ONSFNzq063eb0869"
     },
     {
       "album": {
@@ -2170,7 +2188,7 @@
     {
       "album": {
         "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
       },
       "artists": [
         {
@@ -2181,6 +2199,24 @@
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 255413,
+      "name": "New Friends",
+      "url": "https://open.spotify.com/track/0kmeLaaMiIGBI8UhrM1bYQ"
+    },
+    {
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
       "duration_ms": 255413,
       "name": "New Friends",
       "url": "https://open.spotify.com/track/3UXO74viaatyxa6vIxsK3g"
@@ -2950,7 +2986,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 168120,
       "name": "Smell Like Smoke",
       "url": "https://open.spotify.com/track/3FQL51eEwEDRw8YQj9Vlwc"
@@ -2972,6 +3008,24 @@
       "duration_ms": 168120,
       "name": "Smell Like Smoke",
       "url": "https://open.spotify.com/track/4KxfeI9XB1BdKn4zlomB3R"
+    },
+    {
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168120,
+      "name": "Smell Like Smoke",
+      "url": "https://open.spotify.com/track/6hWUxgcCGGCd17i2eZ5qbJ"
     },
     {
       "album": {
@@ -3722,7 +3776,7 @@
     {
       "album": {
         "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
       },
       "artists": [
         {
@@ -3733,6 +3787,24 @@
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 208853,
+      "name": "Watermelon Moonshine",
+      "url": "https://open.spotify.com/track/3sYBFUXTv0STUoUINx9Qe8"
+    },
+    {
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
       "duration_ms": 208853,
       "name": "Watermelon Moonshine",
       "url": "https://open.spotify.com/track/7Fa7EcDrcGw2SUh8WjX3zo"

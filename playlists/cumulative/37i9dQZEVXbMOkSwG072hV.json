@@ -12730,7 +12730,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 376035,
       "name": "Eu Sou Teu Pai - Ao Vivo",
       "url": "https://open.spotify.com/track/34eKejr8wd69fFpL38IIfv"
@@ -16838,7 +16838,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 73624,
       "name": "idyll",
       "url": "https://open.spotify.com/track/4DDUkQ9uqDpWBzJQuPErrI"
@@ -24390,6 +24390,36 @@
       "duration_ms": 160946,
       "name": "Nobody Like U",
       "url": "https://open.spotify.com/track/4bV5sf2B4hWBBd5HQ8S7KB"
+    },
+    {
+      "album": {
+        "name": "Noite Dos Perdidos",
+        "url": "https://open.spotify.com/album/5Daso30Ue6dC3bFySoOCta"
+      },
+      "artists": [
+        {
+          "name": "DJ JV DO SG",
+          "url": "https://open.spotify.com/artist/1vb3NH4REyIWVAKShUYQUh"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "Mc Dudu Sk",
+          "url": "https://open.spotify.com/artist/1CKLOLezvcRuPRzOiGvxS1"
+        },
+        {
+          "name": "DJ WV Oficial",
+          "url": "https://open.spotify.com/artist/01tECeLpHN4yRu1gBqZ6WZ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156525,
+      "name": "Noite Dos Perdidos",
+      "url": "https://open.spotify.com/track/0llpifaw5Kle6wQxrdUy5p"
     },
     {
       "album": {
@@ -34194,6 +34224,24 @@
       "duration_ms": 126226,
       "name": "Taurus",
       "url": "https://open.spotify.com/track/1H1WtGFwc4GfMdwNYPQBDd"
+    },
+    {
+      "album": {
+        "name": "Tbt 2023 Voume 02",
+        "url": "https://open.spotify.com/album/3gVFPGX2n50XAjiL4tG6yk"
+      },
+      "artists": [
+        {
+          "name": "Guilherme Silva",
+          "url": "https://open.spotify.com/artist/46NHIGaIM5YNY9Wu1kIqvP"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 558471,
+      "name": "Tbt 2023 Voume 02",
+      "url": "https://open.spotify.com/track/2bKVoz5aOjC5zl2skpmPUc"
     },
     {
       "album": {

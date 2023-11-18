@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Sfera Ebbasta
 
-[Spotify](https://open.spotify.com/user/spotify) - 873,366 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 873,694 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 32 | [Paradiso Artificiale \(feat\. Baby Gang & Kid Yugi\)](https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 2:42 |
 | 33 | [CADILLAC \(feat\. MV Killa, Geolier, Tony Effe\)](https://open.spotify.com/track/1xp1EsyBT4OAWWd8Gkhl60) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [WE THE SQUAD Vol\. 1](https://open.spotify.com/album/2QQRt0wNQI4hN0pyFAfqxK) | 2:53 |
 | 34 | [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb) | 3:09 |
-| 35 | [F\*\*k the club up \(feat\. Diss Gacha\)](https://open.spotify.com/track/0pSQ12PmPwGkrwbekf40UF) | [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Diss Gacha](https://open.spotify.com/artist/7vq2lBmy9Fpzr9dPeBdMZc) | [F\*\*k the club up \(feat\. Diss Gacha\)](https://open.spotify.com/album/6mQDsMcWWITYk79BxBGhnQ) | 2:20 |
+| 35 | [F\*\*k the club up \(feat\. Diss Gacha\)](https://open.spotify.com/track/0pSQ12PmPwGkrwbekf40UF) | [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [F\*\*k the club up \(feat\. Diss Gacha\)](https://open.spotify.com/album/6mQDsMcWWITYk79BxBGhnQ) | 2:20 |
 | 36 | [Victoria's Secret \(feat\. Niky Savage\)](https://open.spotify.com/track/6e6l7PYajMX9SVpbEDqowH) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [Victoria's Secret \(feat\. Niky Savage\)](https://open.spotify.com/album/1fhQ6ZcU9gOnp6jubU91x9) | 2:27 |
 | 37 | [Seconda Generazione](https://open.spotify.com/track/5JynzqA5qFHXs28M078yl6) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Seconda Generazione](https://open.spotify.com/album/24IVSn11Caw7nz7bbIAkFa) | 2:17 |
 | 38 | [Passa Il Tempo \(feat\. Nabi\)](https://open.spotify.com/track/2eVBudzixqw5GDDXy7D9H7) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [OFFLINE](https://open.spotify.com/album/4QjJhfVACjKRN34TYYSDAE) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [POLO \(feat\. Geolier\)](https://open.spotify.com/track/1BTMLhdA6ewk2uXuzMsQWQ) | [Neves17](https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe), [Rox is Here](https://open.spotify.com/artist/13HqsTAccw3xoINURqecVX), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IERI, OGGI E DOMANI](https://open.spotify.com/album/5Vqyjj1Ijl1cqOUDqbZLC5) | 2:30 |
 | 50 | [La Zona \(feat\. Néza, ASHE 22 & 3dnan\)](https://open.spotify.com/track/2C1jzRQhFgsbYDI4KLsn4O) | [SHB](https://open.spotify.com/artist/4uiEeT7dw0guTJ5CPMsX83), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4), [3dnan](https://open.spotify.com/artist/0sYwl6DQa61XcXmqaWQldz) | [La Zona \(feat\. Néza, ASHE 22 & 3dnan\)](https://open.spotify.com/album/69mTgcq0CndvT7lb7Iatnw) | 3:16 |
 
-Snapshot ID: `MCw2YjkwMzU1OTc1YTExMzUxZDM2NDdkMWI0Y2FhN2JiNGIxN2RiZWRl`
+Snapshot ID: `MCxiZDBmNjUyNmViZTZhODI2ZTE0OTkyOWQzMGJkNTI3MWJjOWEyZDU0`

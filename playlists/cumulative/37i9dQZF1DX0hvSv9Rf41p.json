@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Chase & Status",
+  "description": "All things <a href=\"spotify:genre:bass\">bass</a> with NGHTMRE, Rezz & DeathbyRomy",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -38,6 +38,28 @@
       "duration_ms": 181056,
       "name": "24 HRS",
       "url": "https://open.spotify.com/track/17QLFEbGJMGA9iyrkx4jbd"
+    },
+    {
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/3iTuXWdNjq2uPoi2tW0rZW"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Doctor P",
+          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196713,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/252xDqb6Td8BCFqvX3QmM7"
     },
     {
       "album": {
@@ -250,6 +272,32 @@
       "duration_ms": 196875,
       "name": "All In My Head (feat. grandson) - Saint Punk Remix",
       "url": "https://open.spotify.com/track/5GzBDqFoMUrjjfGtHEbGfY"
+    },
+    {
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/5crYO6MbmHmFPHW9G6hr3p"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "DeathbyRomy",
+          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208846,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/68udexWA5NqZQh8YXJkHky"
     },
     {
       "album": {
@@ -4013,6 +4061,28 @@
     },
     {
       "album": {
+        "name": "F.Y.U.",
+        "url": "https://open.spotify.com/album/6VVz3SsKCYbokxhmfzm38Q"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161708,
+      "name": "F.Y.U.",
+      "url": "https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb"
+    },
+    {
+      "album": {
         "name": "Fall Into Me",
         "url": "https://open.spotify.com/album/7pydg30ApU7ce5KzBeIiET"
       },
@@ -4395,6 +4465,32 @@
     },
     {
       "album": {
+        "name": "Feel It 2",
+        "url": "https://open.spotify.com/album/2LKfw7bBcVhlLuFZrjyuah"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "FrostTop",
+          "url": "https://open.spotify.com/artist/6T9vLiLn2HpWHNaaEajGB4"
+        },
+        {
+          "name": "Transviolet",
+          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246222,
+      "name": "Feel It 2",
+      "url": "https://open.spotify.com/track/6VbAz8YPZgIye7oHyyBEK5"
+    },
+    {
+      "album": {
         "name": "Feel No Pain",
         "url": "https://open.spotify.com/album/3y7BcgeKhEpG9OAk4PZeCO"
       },
@@ -4684,7 +4780,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 221601,
       "name": "FLATLINE - Eliminate Remix",
       "url": "https://open.spotify.com/track/3a5LILnpCITemhDUZzB3D3"
@@ -4882,7 +4978,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 229558,
       "name": "For The Love",
       "url": "https://open.spotify.com/track/1LFooC64Ibh6SaFs9Nf8f9"
@@ -6429,6 +6525,32 @@
     },
     {
       "album": {
+        "name": "INSD",
+        "url": "https://open.spotify.com/album/0faui9BG5fl1tgabXYGNwp"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        },
+        {
+          "name": "msft",
+          "url": "https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx"
+        },
+        {
+          "name": "Blush",
+          "url": "https://open.spotify.com/artist/13PiNC8qn2wXQLxYSm2E3X"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142962,
+      "name": "INSD",
+      "url": "https://open.spotify.com/track/4BFONPyknhWomROCBDZTUp"
+    },
+    {
+      "album": {
         "name": "Interference",
         "url": "https://open.spotify.com/album/3clju4r9HK4aE2tQ3TUHwd"
       },
@@ -6996,7 +7118,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 179310,
       "name": "LEFT TO RIGHT - Subsonic Remix",
       "url": "https://open.spotify.com/track/2GAsRV6TNEFPosAHtbIaxo"
@@ -7474,6 +7596,28 @@
       "duration_ms": 174657,
       "name": "Loving You Kills Me",
       "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
+    },
+    {
+      "album": {
+        "name": "low",
+        "url": "https://open.spotify.com/album/6aZcESFNYUK1sBs6Xf6VnS"
+      },
+      "artists": [
+        {
+          "name": "Cadmium",
+          "url": "https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy"
+        },
+        {
+          "name": "Andreas Stone",
+          "url": "https://open.spotify.com/artist/4Z63ecu9ZjtVVsIuuOfua3"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "low",
+      "url": "https://open.spotify.com/track/0MeVLXYXl55nom0wFD2hZm"
     },
     {
       "album": {
@@ -8187,6 +8331,28 @@
     },
     {
       "album": {
+        "name": "Nan Slapper",
+        "url": "https://open.spotify.com/album/0w3qxx32q76Rmx5UK58bEH"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "B Live",
+          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263314,
+      "name": "Nan Slapper",
+      "url": "https://open.spotify.com/track/3119sJaLXEShGT5e8frnMj"
+    },
+    {
+      "album": {
         "name": "NECROMANCER EP",
         "url": "https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w"
       },
@@ -8790,7 +8956,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 268800,
       "name": "OH LAWD",
       "url": "https://open.spotify.com/track/7lKkzOnRvY7OeLSFWBwlii"
@@ -9296,7 +9462,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 225600,
       "name": "Paper Moon",
       "url": "https://open.spotify.com/track/0QkLyxDS85ZsgqMazrhOMK"
@@ -9686,7 +9852,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 264827,
       "name": "Pump",
       "url": "https://open.spotify.com/track/0wdmg7VuwWNWnRkDWOh27n"
@@ -10076,7 +10242,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 192344,
       "name": "Redline",
       "url": "https://open.spotify.com/track/4n7npue0fQKKmgC1CcHmao"
@@ -11504,7 +11670,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 228004,
       "name": "Skanka (VIP)",
       "url": "https://open.spotify.com/track/4HUsOtjhCpXPUHZfYtPSo8"
@@ -11842,6 +12008,28 @@
       "duration_ms": 201600,
       "name": "Spirit Showdown",
       "url": "https://open.spotify.com/track/0a1Bc8bJJ0xIZU4KMrO7et"
+    },
+    {
+      "album": {
+        "name": "Spirit Tears",
+        "url": "https://open.spotify.com/album/2EzKWSocoKYVwgmHffobBT"
+      },
+      "artists": [
+        {
+          "name": "Zingara",
+          "url": "https://open.spotify.com/artist/5LxbXRVEMOw6i1WSa2YQn1"
+        },
+        {
+          "name": "Lowcation",
+          "url": "https://open.spotify.com/artist/2ZDOuw4H9VnD6sB3Lsjmta"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202962,
+      "name": "Spirit Tears",
+      "url": "https://open.spotify.com/track/2whbKzW1aEtAT89dQXNb5V"
     },
     {
       "album": {
@@ -12260,6 +12448,28 @@
       "duration_ms": 148114,
       "name": "Symptoms",
       "url": "https://open.spotify.com/track/4inYiXI3aHvJMK9LGRDsKa"
+    },
+    {
+      "album": {
+        "name": "Take 2",
+        "url": "https://open.spotify.com/album/6dheHcTDf71XC3OEWZPIrU"
+      },
+      "artists": [
+        {
+          "name": "Slippy",
+          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
+        },
+        {
+          "name": "Darby",
+          "url": "https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228800,
+      "name": "Take 2",
+      "url": "https://open.spotify.com/track/2SMhyjOfbnXSqbnGWkxASl"
     },
     {
       "album": {
@@ -12988,7 +13198,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 197538,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2nUDK9SvpAA5EEMOJ4Bsn4"

@@ -4,7 +4,7 @@
 
 > Uma viagem no tempo através de grandes clássicos do Rock!
 
-52 songs - 2 hr 21 min
+53 songs - 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Burning Love](https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 2:50 | 2023-07-21 |  |
 | [Come On, Let's Go](https://open.spotify.com/track/4cRfSR0QxDlXRHTKyEOu93) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:04 | 2023-07-21 |  |
 | [Crazy \- Single Version](https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Showcase](https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh) | 2:44 | 2023-07-21 |  |
-| [Do You Remember Walter? \- 2023 Remaster](https://open.spotify.com/track/7xDsY0n9YNr4D3Fw7OU6u0) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [The Journey \- Pt\. 1](https://open.spotify.com/album/06DVyuQqluIXo2RAR4TF4s) | 2:25 | 2023-07-21 |  |
+| [Do You Remember Walter?](https://open.spotify.com/track/3PDbj2jeM96cPrlz9td6L8) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [The Journey \- Pt\. 1](https://open.spotify.com/album/3pMMPsGXOpkvX3m21YCGX5) | 2:25 | 2023-11-10 |  |
+| [Do You Remember Walter? \- 2023 Remaster](https://open.spotify.com/track/7xDsY0n9YNr4D3Fw7OU6u0) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [The Journey \- Pt\. 1](https://open.spotify.com/album/06DVyuQqluIXo2RAR4TF4s) | 2:25 | 2023-07-21 | 2023-11-18 |
 | [Dreams \- Live at the Fabulous Forum, Inglewood, CA, 08/29/77](https://open.spotify.com/track/4u7yarl2MgYqmuyG8ruseL) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Dreams \(Live at the Fabulous Forum, Inglewood, CA 08/29/77\)](https://open.spotify.com/album/3DWQp7uq3XlPvC03gZuGeq) | 4:08 | 2023-07-21 |  |
 | [Dry in the Sun](https://open.spotify.com/track/6MPCoaMn3QSPv5uxZD6d5j) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Dry in the Sun](https://open.spotify.com/album/3yY0fxvifGp07P7uLkXxmP) | 2:52 | 2023-07-21 |  |
 | [Eu Sou Terrível \- Versão remasterizada](https://open.spotify.com/track/0RsLc3KwTvUTr3W6jiciZK) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Em Ritmo de Aventura \(Remasterizado\)](https://open.spotify.com/album/3KeKUu9wPs4UblQt710AVl) | 2:47 | 2023-07-21 |  |

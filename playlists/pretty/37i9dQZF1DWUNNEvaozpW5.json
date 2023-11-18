@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Robe.",
-  "num_followers": 569507,
+  "num_followers": 569885,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWFiZWU1NWZmNzRmYjc4YTAyODk2NzJkODVjZDQ4MTA4MjQ4OTFi",
+  "snapshot_id": "MCw2NWM3MDE4NmMxZGEzZmZjN2QyN2VkYzg1NGQ1ZTEyNDJmZDk3NTNk",
   "tracks": [
     {
       "added_at": "2023-11-16 22:59:00",
@@ -111,18 +111,18 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+        "name": "4 Canciones",
+        "url": "https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8"
       },
       "artists": [
         {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+          "name": "Los Ronaldos",
+          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
         }
       ],
-      "duration_ms": 234813,
-      "name": "Para no olvidar",
-      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
+      "duration_ms": 254840,
+      "name": "No Puedo Vivir Sin Ti",
+      "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "4 Canciones",
-        "url": "https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8"
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
       "artists": [
         {
-          "name": "Los Ronaldos",
-          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
         }
       ],
-      "duration_ms": 254840,
-      "name": "No Puedo Vivir Sin Ti",
-      "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
+      "duration_ms": 234813,
+      "name": "Para no olvidar",
+      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "Enemigos de lo ajeno (2008 Remaster)",
-        "url": "https://open.spotify.com/album/5EnwReRtJtSNMVNEd5KwLZ"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo De La Fila",
-          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
-        }
-      ],
-      "duration_ms": 133040,
-      "name": "Insurrecci\u00f3n - 2008 Remaster",
-      "url": "https://open.spotify.com/track/7803rmspVDTFR78bj5KLPk"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "Besos de Perro",
         "url": "https://open.spotify.com/album/3ZaBh55fphLCCkgYdsWMyz"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 267186,
       "name": "La luna me sabe a poco",
       "url": "https://open.spotify.com/track/16taQAqrrfqCwbkbKFr2OH"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "Enemigos de lo ajeno (2008 Remaster)",
+        "url": "https://open.spotify.com/album/5EnwReRtJtSNMVNEd5KwLZ"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo De La Fila",
+          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
+        }
+      ],
+      "duration_ms": 133040,
+      "name": "Insurrecci\u00f3n - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7803rmspVDTFR78bj5KLPk"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "La Rosa De Los Vientos",
-        "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
-      },
-      "artists": [
-        {
-          "name": "La Frontera",
-          "url": "https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3"
-        }
-      ],
-      "duration_ms": 275026,
-      "name": "El Limite",
-      "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "Su\u00e9ltate el pelo",
         "url": "https://open.spotify.com/album/3Qz4Fa379ez2RFvMp4sXWz"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 171904,
       "name": "Su\u00e9ltate el pelo",
       "url": "https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "La Rosa De Los Vientos",
+        "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
+      },
+      "artists": [
+        {
+          "name": "La Frontera",
+          "url": "https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3"
+        }
+      ],
+      "duration_ms": 275026,
+      "name": "El Limite",
+      "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "Devil Came to Me",
-        "url": "https://open.spotify.com/album/31cccvot053zKCeLHnnic1"
-      },
-      "artists": [
-        {
-          "name": "Dover",
-          "url": "https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW"
-        }
-      ],
-      "duration_ms": 234280,
-      "name": "Serenade",
-      "url": "https://open.spotify.com/track/4tzi4VV1vCTZsT4SEKQIKJ"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "Sopa fria",
         "url": "https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 297106,
       "name": "Miedo",
       "url": "https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "Devil Came to Me",
+        "url": "https://open.spotify.com/album/31cccvot053zKCeLHnnic1"
+      },
+      "artists": [
+        {
+          "name": "Dover",
+          "url": "https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW"
+        }
+      ],
+      "duration_ms": 234280,
+      "name": "Serenade",
+      "url": "https://open.spotify.com/track/4tzi4VV1vCTZsT4SEKQIKJ"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "Jugar Al Gua",
-        "url": "https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0"
-      },
-      "artists": [
-        {
-          "name": "Rosendo",
-          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
-        }
-      ],
-      "duration_ms": 262626,
-      "name": "Flojos de pantal\u00f3n",
-      "url": "https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "Devil Came to Me",
         "url": "https://open.spotify.com/album/31cccvot053zKCeLHnnic1"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 276360,
       "name": "Devil Came to Me",
       "url": "https://open.spotify.com/track/2Kmosqo7RmbvzziWLoy4gM"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "Jugar Al Gua",
+        "url": "https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0"
+      },
+      "artists": [
+        {
+          "name": "Rosendo",
+          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
+        }
+      ],
+      "duration_ms": 262626,
+      "name": "Flojos de pantal\u00f3n",
+      "url": "https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1231,22 +1231,6 @@
       "duration_ms": 294200,
       "name": "Palabras Para Julia",
       "url": "https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
-        "name": "Fugitivos De Paraiso",
-        "url": "https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk"
-      },
-      "artists": [
-        {
-          "name": "Doctor Deseo",
-          "url": "https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Corazon de Tango",
-      "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
+        "name": "Fugitivos De Paraiso",
+        "url": "https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk"
+      },
+      "artists": [
+        {
+          "name": "Doctor Deseo",
+          "url": "https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Corazon de Tango",
+      "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
         "name": "Bailar\u00e9 sobre tu tumba",
         "url": "https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw"
       },
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "Veo Veo Mamoneo",
-        "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
-      },
-      "artists": [
-        {
-          "name": "Rosendo",
-          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
-        }
-      ],
-      "duration_ms": 243040,
-      "name": "Masculino singular",
-      "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "Marines A Pleno Sol",
         "url": "https://open.spotify.com/album/2Gl1kSSy7uO04VggpET539"
       },
@@ -1407,6 +1391,38 @@
       "duration_ms": 188106,
       "name": "Tras la barra",
       "url": "https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "Veo Veo Mamoneo",
+        "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
+      },
+      "artists": [
+        {
+          "name": "Rosendo",
+          "url": "https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N"
+        }
+      ],
+      "duration_ms": 243040,
+      "name": "Masculino singular",
+      "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "Calle Melancol\u00eda",
+        "url": "https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD"
+      },
+      "artists": [
+        {
+          "name": "Robe",
+          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
+        }
+      ],
+      "duration_ms": 380973,
+      "name": "Calle Melancol\u00eda",
+      "url": "https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "Calle Melancol\u00eda",
-        "url": "https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD"
-      },
-      "artists": [
-        {
-          "name": "Robe",
-          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
-        }
-      ],
-      "duration_ms": 380973,
-      "name": "Calle Melancol\u00eda",
-      "url": "https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/0HIuFgi8KJqL6Xp9a30tF9"
       },
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "El doble de tu mitad",
-        "url": "https://open.spotify.com/album/2S06GoLfAKn93qbHwL6b8u"
-      },
-      "artists": [
-        {
-          "name": "Rulo y la contrabanda",
-          "url": "https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs"
-        }
-      ],
-      "duration_ms": 240760,
-      "name": "Noviembre",
-      "url": "https://open.spotify.com/track/3FVGNCVHynlBTqizeinqQS"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "Destrozares, Canciones para el Final de los Tiempos",
         "url": "https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 429000,
       "name": "Del Tiempo Perdido",
       "url": "https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "El doble de tu mitad",
+        "url": "https://open.spotify.com/album/2S06GoLfAKn93qbHwL6b8u"
+      },
+      "artists": [
+        {
+          "name": "Rulo y la contrabanda",
+          "url": "https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "Noviembre",
+      "url": "https://open.spotify.com/track/3FVGNCVHynlBTqizeinqQS"
     },
     {
       "added_at": "2023-11-16 22:59:00",

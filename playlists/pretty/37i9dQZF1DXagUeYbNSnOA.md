@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Alan Troy\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,794 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,796 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 2 | [Hija De P](https://open.spotify.com/track/6JJOE8YrmGN7N9y9yDuEVz) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Hija De P](https://open.spotify.com/album/5ayP0qmXTKQfGUgMRXoEg9) | 2:05 |
 | 3 | [Tarea](https://open.spotify.com/track/2dcsG9tJO9KrC4HOyl8Msu) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Qué Momento Pa' Estar Vivo](https://open.spotify.com/album/7q7oXa6wkdqTIuM9cpHxNF) | 2:31 |
 | 4 | [Despreocupada](https://open.spotify.com/track/7CzLquUWwgZwhUffzKhbZp) | [Adri Torron](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Despreocupada](https://open.spotify.com/album/2QNRUKcpeSaji2VqeegtK6) | 2:46 |
-| 5 | [Loca](https://open.spotify.com/track/42ZIjZrupprcycctf8YdKK) | [Alx Bel](https://open.spotify.com/artist/0SUNzNDa5JW41DGQf14skD) | [Loca](https://open.spotify.com/album/5rsI8bpPo65FeFvh6LD2OY) | 2:28 |
+| 5 | [Loc@](https://open.spotify.com/track/42ZIjZrupprcycctf8YdKK) | [Alx Bel](https://open.spotify.com/artist/0SUNzNDa5JW41DGQf14skD) | [Loc@](https://open.spotify.com/album/5rsI8bpPo65FeFvh6LD2OY) | 2:28 |
 | 6 | [A las 9:05](https://open.spotify.com/track/17NFVJcGuyMnATW0VyWYPW) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6) | [Mi Otra Mitad](https://open.spotify.com/album/2yj8afBHgfBKRUBKC7t5j3) | 4:04 |
 | 7 | [Egoísta](https://open.spotify.com/track/4U7m7FV5UoQXgoFdkzaFxi) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [Egoísta](https://open.spotify.com/album/4eSKN0zYDwRAS0ZN8BsPy4) | 2:36 |
 | 8 | [Es Por Ti](https://open.spotify.com/track/6bdnzAuBEre1uyroThAmlj) | [Hugo Coronel](https://open.spotify.com/artist/0RGnnaJ9xMIKNvKCuvNvfj) | [Hugo](https://open.spotify.com/album/6SjTDS9JTkgneC8y2Gw3LE) | 3:46 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 26 | [no es culpa mía](https://open.spotify.com/track/3carpytTJk59ujDuX0gs8I) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [no es culpa mía](https://open.spotify.com/album/5ZbHwgfry7ONiynI2424Uq) | 3:05 |
 | 27 | [Siempre Tendré Mi Voz](https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Siempre Tendré Mi Voz](https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4) | 2:45 |
 | 28 | [Diamante y Lágrima](https://open.spotify.com/track/76SatmEoGFfKiA6qVuBg7s) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [Diamante y Lágrima](https://open.spotify.com/album/5LUxPQ5YEkWH0rKz20FQLY) | 3:20 |
-| 29 | [Una historia que contar](https://open.spotify.com/track/0T3y7Z7Nx4RMPJH1L594EZ) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [Una historia que contar](https://open.spotify.com/album/2DTN8LKAtN4SqPHzAgh1vk) | 3:06 |
+| 29 | [ntendp](https://open.spotify.com/track/2PedtXa3HI4oGbfgJSi7W5) | [Iván Ivengo](https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x), [Luis Mint](https://open.spotify.com/artist/1kGLVoWLKArhbWhADndMKu) | [ntendp](https://open.spotify.com/album/5IESmcewxuYZh3A4OMtXIv) | 2:28 |
 | 30 | [Riley](https://open.spotify.com/track/3tQpd0YrAwWK8YGP3aRj8D) | [I AM](https://open.spotify.com/artist/67g2E0HwTkrMj3nPvw46mR) | [Riley \(S\)](https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0) | 2:58 |
-| 31 | [ntendp](https://open.spotify.com/track/2PedtXa3HI4oGbfgJSi7W5) | [Iván Ivengo](https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x), [Luis Mint](https://open.spotify.com/artist/1kGLVoWLKArhbWhADndMKu) | [ntendp](https://open.spotify.com/album/5IESmcewxuYZh3A4OMtXIv) | 2:28 |
+| 31 | [Una historia que contar](https://open.spotify.com/track/0T3y7Z7Nx4RMPJH1L594EZ) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [Una historia que contar](https://open.spotify.com/album/2DTN8LKAtN4SqPHzAgh1vk) | 3:06 |
 | 32 | [Nada va a quedar](https://open.spotify.com/track/7JSuVdzogccF5zuudGEZAo) | [Jorge Prada](https://open.spotify.com/artist/7MNJy93yO4MA7MWAzfAMGo) | [Nada va a quedar](https://open.spotify.com/album/64zQT3GwCnWEDzvkVBRFaF) | 2:43 |
 | 33 | [Drowning](https://open.spotify.com/track/3oa7Q4VLpv9YYbpp741qih) | [Adrie](https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto) | [Motel Kilomango](https://open.spotify.com/album/2Et2imBWvYQ8XJYrBbwsqp) | 2:53 |
 | 34 | [Aire.](https://open.spotify.com/track/69iMg2FY6RPtF84ilGrkRB) | [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP) | [Si yo sé hablar es por ti](https://open.spotify.com/album/3SWn0kBDOKFxwYHB2JUTEe) | 3:48 |
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 36 | [Ya Se Fue](https://open.spotify.com/track/6JQ3tU4PwJr51FW9YRKq43) | [Gonzalo Brancciari](https://open.spotify.com/artist/2kvcov0e0ppYAVU5NywB2x) | [Ya Se Fue](https://open.spotify.com/album/6SFW7nOwBJK61hJLnfU2PX) | 2:50 |
 | 37 | [¿Quién Fue?](https://open.spotify.com/track/7BSxbFNHZr4Zl5GXb2d8dy) | [Calisur](https://open.spotify.com/artist/26qAmOvljJQWP1TK2zK7qS) | [¿Quién Fue?](https://open.spotify.com/album/0pnIgEH1xMkp1RB1BBKi2H) | 2:38 |
 | 38 | [Evil Dead](https://open.spotify.com/track/0ZyrbgosyeinetxLfJ31Lu) | [Justo Antes de la Guerra con los Esquimales](https://open.spotify.com/artist/0E8okIJZJy58uvxYajtFor) | [Evil Dead](https://open.spotify.com/album/4zlAqUr4qS76Ci1BeEawVr) | 2:55 |
-| 39 | [the homesick song](https://open.spotify.com/track/3bnDb8pF6JHDPmiguP7kEY) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [the homesick song](https://open.spotify.com/album/44zlKZzMSMxv3zyPdnDa2T) | 3:04 |
-| 40 | [el gil](https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7) | [Camarú](https://open.spotify.com/artist/36yItyZJx0Tw3OpFQADb8z) | [el gil](https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD) | 4:32 |
-| 41 | [No llamaste](https://open.spotify.com/track/3Ai0LAvak9jRvvNiNav1dr) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [No llamaste](https://open.spotify.com/album/1VybcvZTjsmeh2YTcIQF5H) | 3:54 |
+| 39 | [No llamaste](https://open.spotify.com/track/3Ai0LAvak9jRvvNiNav1dr) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [No llamaste](https://open.spotify.com/album/1VybcvZTjsmeh2YTcIQF5H) | 3:54 |
+| 40 | [the homesick song](https://open.spotify.com/track/3bnDb8pF6JHDPmiguP7kEY) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [the homesick song](https://open.spotify.com/album/44zlKZzMSMxv3zyPdnDa2T) | 3:04 |
+| 41 | [el gil](https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7) | [Camarú](https://open.spotify.com/artist/36yItyZJx0Tw3OpFQADb8z) | [el gil](https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD) | 4:32 |
 | 42 | [Limón](https://open.spotify.com/track/3k5ZMjRq5zffP96YHCgPNn) | [Mister Monk](https://open.spotify.com/artist/4QvxrhdsNDesKqrfGpX24Q) | [Limón](https://open.spotify.com/album/6lAhiTHG3kXbI3i028N3oa) | 2:23 |
-| 43 | [Estrella](https://open.spotify.com/track/4COmqB89xOVYDmn61wSM1c) | [Caws DGP](https://open.spotify.com/artist/09Pc2WJtZqREapbEbn40xd) | [Estrella](https://open.spotify.com/album/5k6JbuPTyD8TMeAukHVNpy) | 2:39 |
-| 44 | [Tattoo](https://open.spotify.com/track/3JOaWtqZIoilfjtcDe1Qzb) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Tattoo](https://open.spotify.com/album/0N8VLr0WiDxkexS9wLr6f0) | 2:18 |
+| 43 | [Tattoo](https://open.spotify.com/track/3JOaWtqZIoilfjtcDe1Qzb) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Tattoo](https://open.spotify.com/album/0N8VLr0WiDxkexS9wLr6f0) | 2:18 |
+| 44 | [Estrella](https://open.spotify.com/track/4COmqB89xOVYDmn61wSM1c) | [Caws DGP](https://open.spotify.com/artist/09Pc2WJtZqREapbEbn40xd) | [Estrella](https://open.spotify.com/album/5k6JbuPTyD8TMeAukHVNpy) | 2:39 |
 | 45 | [Yo nunca te dejo de amar](https://open.spotify.com/track/2vpJ7cjkfTf6hBFEZmRtr6) | [Mueres en el mar](https://open.spotify.com/artist/7nDRCrPWyorRS27T7fMJKe), [SCD](https://open.spotify.com/artist/3RNW1BijjM21MXFDIca2nJ) | [El Canto de Todas \- Concurso Scottie Scott, Vol\. 5](https://open.spotify.com/album/7ow3h7qhk2HFNvKAAfiVfO) | 3:23 |
 | 46 | [Esa Mirada](https://open.spotify.com/track/4yi0kfcsQ2rmv80YmPjeEz) | [Sónico Vivo](https://open.spotify.com/artist/4gKGHKgKXprf8kvRCmcrpe) | [Esa Mirada](https://open.spotify.com/album/7zduZ2xm5zwl6EN4ZgqvWs) | 3:18 |
 | 47 | [Dancing On My Own](https://open.spotify.com/track/3TjbbftuoUzgLTEO9PQZNC) | [Nikki Fölk](https://open.spotify.com/artist/1IqDQ0QXIztvieg3qzs3l8) | [Dancing On My Own](https://open.spotify.com/album/5ssQifWkrp5GngAIX7Of6A) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Ayer](https://open.spotify.com/track/4YTOFkHCSED65DBPGGGwtk) | [LUR](https://open.spotify.com/artist/29EKu93j5KOjAyXGUiLuIs) | [Ayer](https://open.spotify.com/album/4s0vu5iTqHocp9zKbd2IA1) | 3:32 |
 | 50 | [¿A qué le tiras?](https://open.spotify.com/track/5YdurFSX0XI9LSEBWFPDbl) | [Feelder](https://open.spotify.com/artist/5hlVR9GtWAmGrx9GLJhHxr) | [¿A qué le tiras?](https://open.spotify.com/album/3MQyQ487oNDMIbv2uO2maE) | 1:48 |
 
-Snapshot ID: `MCw3NDRkZmM4MjVmNTMxZTQwOThhNDE0M2M4YjZjNzU5NmViMjYwYTEx`
+Snapshot ID: `MCw1NGRlYTI2NGMwODg0OGMwMWNlNGZmOWQ0YTE4ODg1ZWJmOWExMDU3`

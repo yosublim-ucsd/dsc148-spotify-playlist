@@ -92,7 +92,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 147400,
       "name": "9 lives",
       "url": "https://open.spotify.com/track/0v3qc1Q0LFX9jN7xQWasII"
@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "bella / i can't find anyone",
+        "url": "https://open.spotify.com/album/3AJEvGdq17HHvF20ITVbD7"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199466,
+      "name": "bella",
+      "url": "https://open.spotify.com/track/2i5q9JRYHVkPNegErZ2WvA"
+    },
+    {
+      "album": {
         "name": "Benchmark",
         "url": "https://open.spotify.com/album/0nDORNahzyOzSM4jBwNMEz"
       },
@@ -1032,7 +1050,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 205173,
       "name": "Can I Talk My Shit?",
       "url": "https://open.spotify.com/track/1tXn4yWAAyzFikNsJ3bMow"
@@ -1054,6 +1072,24 @@
       "duration_ms": 205173,
       "name": "Can I Talk My Shit?",
       "url": "https://open.spotify.com/track/52qozr06OygMerkZTWPQzL"
+    },
+    {
+      "album": {
+        "name": "Heaven knows",
+        "url": "https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223680,
+      "name": "Capable of love",
+      "url": "https://open.spotify.com/track/52qxHBgcQGVV2JrMwPhYJl"
     },
     {
       "album": {
@@ -1498,7 +1534,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 165731,
       "name": "daylight falls",
       "url": "https://open.spotify.com/track/3JTXbLod8F36ErFytqlxID"
@@ -1978,7 +2014,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 207486,
       "name": "Familiarity",
       "url": "https://open.spotify.com/track/6hB5O4G6L5xa4r3wKSisH3"
@@ -3549,6 +3585,24 @@
     },
     {
       "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219598,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/6bniCXManaPDnCN34waQs6"
+    },
+    {
+      "album": {
         "name": "jm'en bas les couilles",
         "url": "https://open.spotify.com/album/61lVQh4YSAFeBU0XATTDh7"
       },
@@ -3712,6 +3766,24 @@
       "duration_ms": 166932,
       "name": "Like That",
       "url": "https://open.spotify.com/track/5zDo9mZyUdCZ1tVj515SZS"
+    },
+    {
+      "album": {
+        "name": "the star factory",
+        "url": "https://open.spotify.com/album/3uOmDnsAd5bFVaOx6nsUTB"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182233,
+      "name": "limbo",
+      "url": "https://open.spotify.com/track/0JFUAuI5jrh7xHaY0kRFW1"
     },
     {
       "album": {
@@ -4026,6 +4098,24 @@
       "duration_ms": 197153,
       "name": "Mad",
       "url": "https://open.spotify.com/track/5jyrsygTAsGvAKsFGxTd6t"
+    },
+    {
+      "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb"
+      },
+      "artists": [
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183080,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/3FvmEqbtSbggcZUnevF5Ng"
     },
     {
       "album": {
@@ -4392,7 +4482,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 113624,
       "name": "no way out",
       "url": "https://open.spotify.com/track/2jPbjvYVWWzQNkMLKP30nX"
@@ -4486,6 +4576,24 @@
       "duration_ms": 186940,
       "name": "Oatmeal Pancakes",
       "url": "https://open.spotify.com/track/3Qazns0pMnqN6cbDJTxj9a"
+    },
+    {
+      "album": {
+        "name": "Obsessed With Your Mind",
+        "url": "https://open.spotify.com/album/2SKWZrwD8DeJHpU4kpFC3U"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188153,
+      "name": "Obsessed With Your Mind",
+      "url": "https://open.spotify.com/track/6jZHeTl4JfyOaJZtc8i37k"
     },
     {
       "album": {
@@ -6372,7 +6480,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 160601,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/4uIVFtMN3AlkLfGYGV7TPM"

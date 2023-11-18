@@ -557,6 +557,28 @@
     },
     {
       "album": {
+        "name": "Az\u00f3tala",
+        "url": "https://open.spotify.com/album/55ExulX5jSoh3oGKjd1hnA"
+      },
+      "artists": [
+        {
+          "name": "DJ Pedro Fuentes",
+          "url": "https://open.spotify.com/artist/6Ez7LiWGLxUAl9Gso9zEDs"
+        },
+        {
+          "name": "Versatil Boy",
+          "url": "https://open.spotify.com/artist/0tLQM6502ofNyYTW2NFnZM"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151243,
+      "name": "Az\u00f3tala",
+      "url": "https://open.spotify.com/track/3aa1QyOvrdZqe9H0dNf22o"
+    },
+    {
+      "album": {
         "name": "B-Day",
         "url": "https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2"
       },
@@ -1348,7 +1370,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 164536,
       "name": "Como Pastel",
       "url": "https://open.spotify.com/track/5io6V1OJaLVh7YoJCMJq1U"
@@ -1891,6 +1913,28 @@
     },
     {
       "album": {
+        "name": "Diablito de Barrio",
+        "url": "https://open.spotify.com/album/4KOZGVfMT90YctD4Ijbmjn"
+      },
+      "artists": [
+        {
+          "name": "Charly Gynn",
+          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
+        },
+        {
+          "name": "Dj Chekesito",
+          "url": "https://open.spotify.com/artist/4S0i7CxFJybFWyCsB0vwil"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192475,
+      "name": "Diablito de Barrio",
+      "url": "https://open.spotify.com/track/2ofuB1R1niYONCwd78T52O"
+    },
+    {
+      "album": {
         "name": "DIAMANTES",
         "url": "https://open.spotify.com/album/3FWcTBE082Glwf0XJMcjk6"
       },
@@ -2349,6 +2393,28 @@
     },
     {
       "album": {
+        "name": "EN EL GHETTO #5 (La Discoteca)",
+        "url": "https://open.spotify.com/album/21dki85kzvBAgKHcEfuerB"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165523,
+      "name": "EN EL GHETTO #5 (La Discoteca)",
+      "url": "https://open.spotify.com/track/5xRkr1I0KweRrK0gJ9XqMq"
+    },
+    {
+      "album": {
         "name": "Enredados",
         "url": "https://open.spotify.com/album/38pp7lSGyrfc8Wm9jokuA0"
       },
@@ -2422,7 +2488,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 162693,
       "name": "Es tu culpa",
       "url": "https://open.spotify.com/track/6FUlTqITf2JYTdu5Go6CfN"
@@ -3686,7 +3752,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 173617,
       "name": "LA CHAMBA",
       "url": "https://open.spotify.com/track/1gjAVqB8sPT5i96wXUWcJR"
@@ -4006,7 +4072,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 168680,
       "name": "Le Mete",
       "url": "https://open.spotify.com/track/5ZMz7ZUtLXfRChCR9Y3FFw"
@@ -4582,7 +4648,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 160000,
       "name": "Malo Malo",
       "url": "https://open.spotify.com/track/4Lp6g21jhwdJ0omSrBeLNk"
@@ -5684,7 +5750,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 176322,
       "name": "Pa Cali",
       "url": "https://open.spotify.com/track/6zC1X5dmpUvr8xkJ2rLTvn"
@@ -6345,6 +6411,24 @@
     },
     {
       "album": {
+        "name": "POEMA A TUS PROBLEMAS",
+        "url": "https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209857,
+      "name": "POEMA A TUS PROBLEMAS",
+      "url": "https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u"
+    },
+    {
+      "album": {
         "name": "Ponte Puti",
         "url": "https://open.spotify.com/album/1QQv0eRIX26yJKH6AijxOT"
       },
@@ -6494,6 +6578,28 @@
       "duration_ms": 196800,
       "name": "Putifina",
       "url": "https://open.spotify.com/track/3gUp6IANwYGseAZZIPbs3X"
+    },
+    {
+      "album": {
+        "name": "PVTIVUELTA",
+        "url": "https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143798,
+      "name": "PVTIVUELTA",
+      "url": "https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA"
     },
     {
       "album": {
@@ -7588,6 +7694,40 @@
       "duration_ms": 240680,
       "name": "SUFICIENTEPUNTOWAV",
       "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
+    },
+    {
+      "album": {
+        "name": "SUITE PRESIDENCIAL",
+        "url": "https://open.spotify.com/album/6L24CgGwx51OiBnhAIDfhI"
+      },
+      "artists": [
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "Ruso Beats",
+          "url": "https://open.spotify.com/artist/046MM5OvGEg7muuuoFNaXe"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260426,
+      "name": "SUITE PRESIDENCIAL",
+      "url": "https://open.spotify.com/track/44laHIYcGhxx0IEySoExVj"
     },
     {
       "album": {

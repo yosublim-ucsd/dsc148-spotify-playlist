@@ -3954,7 +3954,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 133000,
       "name": "Quartinho",
       "url": "https://open.spotify.com/track/0dPM34hzGW7EBf7BTzE4xE"
@@ -4056,6 +4056,24 @@
       "duration_ms": 167461,
       "name": "REGRESSO",
       "url": "https://open.spotify.com/track/5AL8P55NaoIcO6UzVTyxli"
+    },
+    {
+      "album": {
+        "name": "reluz",
+        "url": "https://open.spotify.com/album/4RhsyCCyX1IViJF9P7MBVM"
+      },
+      "artists": [
+        {
+          "name": "As\u00fa",
+          "url": "https://open.spotify.com/artist/33niI54BdTNsMN18d5lLM0"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193053,
+      "name": "reluz",
+      "url": "https://open.spotify.com/track/2NqY3ZHWi8NxHiz6RlTyqu"
     },
     {
       "album": {
@@ -4867,6 +4885,24 @@
     },
     {
       "album": {
+        "name": "tudo que eu fa\u00e7o",
+        "url": "https://open.spotify.com/album/5fj9SAx9TZ6CwSSc8Tg219"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4",
+          "url": "https://open.spotify.com/artist/0DuebGyOlpHONL8lMizMGQ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143766,
+      "name": "tudo que eu fa\u00e7o",
+      "url": "https://open.spotify.com/track/4RDOaLRGMorHJpAndOgWo3"
+    },
+    {
+      "album": {
         "name": "Tudo Vai Bem",
         "url": "https://open.spotify.com/album/0nXl05xPz5CU3kUGdbiftb"
       },
@@ -4914,7 +4950,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 146605,
       "name": "T\u00e1 Subindo",
       "url": "https://open.spotify.com/track/4UUpgJ1TP5IvcYU6YYzJBF"

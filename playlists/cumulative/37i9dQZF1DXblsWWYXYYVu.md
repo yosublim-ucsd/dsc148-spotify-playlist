@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-186 songs - 10 hr 24 min
+187 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Alice](https://open.spotify.com/track/5sjUQ1Yj3ZjjwT3bxMwdkS) | [Ashley Campbell](https://open.spotify.com/artist/49mvmawPDTzmEaEPY5z0ew) | [Something Lovely](https://open.spotify.com/album/6oWAsxdtL5vHS1isSKuqeA) | 3:24 | 2021-04-19 |  |
 | [All Is Found \- Kacey Musgraves Version](https://open.spotify.com/track/5EeQQ8BVJTRkp1AIKJILGY) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:03 | 2021-04-19 |  |
 | [Amsterdam \- Acoustic](https://open.spotify.com/track/7duwk0wCezbso7J84vYIlh) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Amsterdam \(Acoustic\)](https://open.spotify.com/album/2BW6kuO4sejPFXAYDxXznj) | 3:24 | 2022-05-06 |  |
-| [Annie’s Song](https://open.spotify.com/track/25FlnyyFGyuinq9s0o4KMG) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Annie's Song](https://open.spotify.com/album/3BdPldIWLfVrHDMUcANP5o) | 2:55 | 2022-06-10 |  |
+| [Annie’s Song](https://open.spotify.com/track/25FlnyyFGyuinq9s0o4KMG) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Annie's Song](https://open.spotify.com/album/3BdPldIWLfVrHDMUcANP5o) | 2:55 | 2022-06-10 | 2023-11-18 |
+| [Annie’s Song](https://open.spotify.com/track/2GAK2qFjh7mOCE24RiGi7i) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Covers, Vol\. 1](https://open.spotify.com/album/0e1s7jQdJ0VsdzSnMXAPX9) | 2:55 | 2022-06-10 |  |
 | [Anyone For You \(Tiger Lily\) \- Acoustic](https://open.spotify.com/track/1Fh2slksBn9TpTu3tSHSMa) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Tiger Lily\)](https://open.spotify.com/album/70YBSblGdiJmHDbqg5LSrc) | 3:23 | 2022-03-04 |  |
 | [Anyone For You \(Tiger Lily\) \- Acoustic](https://open.spotify.com/track/63GCfMcEOqDyexn30KcSfU) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You \(Acoustic\)](https://open.spotify.com/album/2vX9cytf4MTjZEUzqIA5r4) | 3:23 | 2022-03-04 | 2022-12-11 |
 | [Arms of a Lion](https://open.spotify.com/track/0zvAcSS9nyruBqRHZsbUfJ) | [Heather Morgan](https://open.spotify.com/artist/2oASyTmErmgYx5ueawNzRX), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Borrowed Heart](https://open.spotify.com/album/3lpNC3vjXCes2WvGEmfoD3) | 4:00 | 2021-04-19 | 2022-04-29 |

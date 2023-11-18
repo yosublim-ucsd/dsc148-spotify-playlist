@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Christone \"Kingfish\" Ingram",
-  "num_followers": 164848,
+  "num_followers": 164915,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWViNTZhOWJlZWEyYjE4MTY0YWNjODRmMTEyYWFmM2I0ZWZjYTkz",
+  "snapshot_id": "MCwyNDAxM2NjOTYxMGU1NjAyYmQ1ZDNhMTEzMDAwN2U0OWU2YTlkZTgx",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -39,6 +39,26 @@
       "duration_ms": 456997,
       "name": "Always Free (Live in Austin)",
       "url": "https://open.spotify.com/track/7lcoqPnMvytTtYPBqS2LNO"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Blood Brothers: Live in Canada",
+        "url": "https://open.spotify.com/album/7n3CH6Tm2VeHkXSaL6TY6A"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        },
+        {
+          "name": "Albert Castiglia",
+          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
+        }
+      ],
+      "duration_ms": 318899,
+      "name": "No Good Woman - Live",
+      "url": "https://open.spotify.com/track/2aCnOIxkx3zcZzdCQUjyd8"
     },
     {
       "added_at": "2023-05-26 04:01:00",

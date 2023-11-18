@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-405 songs - 1 day 1 hr 7 min
+406 songs - 1 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Lofi Sauce](https://open.spotify.com/track/3bAUmGi6G9MNWIkTmap9WD) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Lofi Sauce](https://open.spotify.com/album/5Ea0SCW5c3zEukb5nKMp6p) | 3:23 | 2022-06-02 | 2023-03-16 |
 | [Lonely Streets](https://open.spotify.com/track/6OLMBzS4PV7EXkxzkcx7Z6) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [At Least I Know](https://open.spotify.com/album/3cBbti8W4QwIjKRjvVtFYN) | 6:08 | 2023-08-10 |  |
 | [Look Up](https://open.spotify.com/track/5OkkZtwYmuSLbAFxcqolw3) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Look Up](https://open.spotify.com/album/6y4VhfTSv5cVpJHobgYybd) | 5:34 | 2022-04-22 | 2023-03-21 |
-| [Looking West](https://open.spotify.com/track/0rTSet5VAdwJDwfORauwwD) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Fortune Favor](https://open.spotify.com/album/7gbsBmLPC2Guw1oQ9rue5l) | 3:58 | 2023-10-27 |  |
+| [Looking West](https://open.spotify.com/track/0rTSet5VAdwJDwfORauwwD) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Fortune Favor](https://open.spotify.com/album/7gbsBmLPC2Guw1oQ9rue5l) | 3:58 | 2023-10-27 | 2023-11-18 |
 | [Love In Your Arms](https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 3:22 | 2023-03-20 |  |
 | [Love is the answer](https://open.spotify.com/track/4ArAroGQnEyFxkjMkabaj7) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Sunset over Paris](https://open.spotify.com/album/0VBhxJPWzkCEEuRMlOKpTF) | 5:56 | 2023-05-04 |  |
 | [Love on a Lonely Street](https://open.spotify.com/track/4Ol91F33J7jGfPjRubHbEk) | [The Ebbing Tides](https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3) | [Love on a Lonely Street](https://open.spotify.com/album/0o7H8gUcxfOs6Ir1BCAyer) | 3:03 | 2023-04-13 |  |
@@ -381,6 +381,7 @@
 | [Valencia](https://open.spotify.com/track/5Fy8kjcF0moa6jtC0e1eJd) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Valencia](https://open.spotify.com/album/1fYibTIKGYuOV0le0LwMvZ) | 2:28 | 2022-11-23 | 2023-05-05 |
 | [Valencia](https://open.spotify.com/track/73BMJYyFBU2Awsz8HL27cz) | [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Valencia](https://open.spotify.com/album/4HMi4x83Z9sJHOUi5MhVsE) | 2:28 | 2022-02-24 | 2022-11-20 |
 | [Views Of Dawn](https://open.spotify.com/track/3XCyhZ9xWZyF1Rn9lZJqCZ) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Views Of Dawn](https://open.spotify.com/album/6ffUhpiJexNGF2eL5DVJxM) | 4:53 | 2023-03-20 |  |
+| [Vilan](https://open.spotify.com/track/2aGwfZZKECwKRRavMZzEGW) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Vilan](https://open.spotify.com/album/5E8XgcpE1y2kI1ypRdww3g) | 2:54 | 2023-11-17 |  |
 | [Vine Street](https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Vine Street](https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1) | 2:26 | 2023-03-20 |  |
 | [Visions of Love \- Instrumental](https://open.spotify.com/track/4YeTyqLeTfemvVh99ol2ic) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ) | [Visions of Love \(Instrumental\)](https://open.spotify.com/album/58wfPcZLdLv2ncEVFa5HeD) | 3:28 | 2022-02-17 | 2022-04-23 |
 | [Vortex](https://open.spotify.com/track/6VtRGov8SEpPMq569x76mz) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Vortex](https://open.spotify.com/album/4s3HbuAOfH5ua6RctwNGlq) | 2:18 | 2022-02-17 | 2022-04-23 |

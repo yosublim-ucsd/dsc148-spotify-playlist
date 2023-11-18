@@ -3221,6 +3221,24 @@
     },
     {
       "album": {
+        "name": "east side",
+        "url": "https://open.spotify.com/album/0TqA7jHzMVftg6xeMa9ZZj"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165578,
+      "name": "east side",
+      "url": "https://open.spotify.com/track/2AqZLF7yk7Jf17Be1i6jcO"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/3xpvsUs6cAeZu8pVDtanTX"
       },
@@ -5899,6 +5917,24 @@
     },
     {
       "album": {
+        "name": "Isn't It Obvious",
+        "url": "https://open.spotify.com/album/20qybCQYkW2B6pONKi8u0v"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158130,
+      "name": "Isn't It Obvious",
+      "url": "https://open.spotify.com/track/5QDtGxC2khjwLEq1bXhdEj"
+    },
+    {
+      "album": {
         "name": "3TERNITY",
         "url": "https://open.spotify.com/album/3boXTQdSoIt4RCJqXWArsx"
       },
@@ -5990,7 +6026,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 165942,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/2awBXPPzbOhux8MwSLozg9"
@@ -8442,7 +8478,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 256945,
       "name": "Petals on the Moon",
       "url": "https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC"
@@ -8878,6 +8914,24 @@
       "duration_ms": 99217,
       "name": "Regressa",
       "url": "https://open.spotify.com/track/1dlOr60VqwO8DIGn9TLeeu"
+    },
+    {
+      "album": {
+        "name": "Remember When",
+        "url": "https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192079,
+      "name": "Remember When",
+      "url": "https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm"
     },
     {
       "album": {
@@ -10498,7 +10552,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 211406,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/5SmJPXHVK4G0oKOdn3D5LP"

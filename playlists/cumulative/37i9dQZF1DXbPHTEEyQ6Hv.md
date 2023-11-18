@@ -4,7 +4,7 @@
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-165 songs - 6 hr 13 min
+168 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/2JPjsCvn379yvhrQ3Mdlfv) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [A Solo Piano Christmas](https://open.spotify.com/album/2bG3qQqkhWssPLeGtEwvzY) | 5:15 | 2021-12-14 |  |
 | [Jingle Bells](https://open.spotify.com/track/4E42u4CFeuIyFdaEWN7Wty) | [Brandon Mills](https://open.spotify.com/artist/0lfAQQLGm6TkTJ4JL9La2z) | [Jingle Bells](https://open.spotify.com/album/5MsKGEDUhXdPo1DirR0pa4) | 3:59 | 2021-12-14 |  |
 | [Joy To The World](https://open.spotify.com/track/3Gra28fwqeouNiY7E0u2fV) | [Isobel Watkins](https://open.spotify.com/artist/7q33Rk7eAyVKYNQ8e1yNeq) | [Joy To The World](https://open.spotify.com/album/5HIAhNoTbZvIpTlKk80CYj) | 2:27 | 2021-12-14 |  |
+| [Jul Jul Strålande Jul](https://open.spotify.com/track/2MLFCn2PCIPvefTxZ1DBha) | [Alex Lehtonen](https://open.spotify.com/artist/2Qs1BrpMAPz379lAsH39Qb) | [Jul Jul Strålande Jul](https://open.spotify.com/album/5BXVy2bviNY6oL6QVp0a0q) | 3:00 | 2023-11-13 |  |
 | [Jul jul strålande jul](https://open.spotify.com/track/7BBEjxq9mITNoUYkgl4Caa) | [Dylan Francis](https://open.spotify.com/artist/7iB04gHXi381OdMYrbdQQN) | [Jul jul strålande jul](https://open.spotify.com/album/0VMWJC1J2Rq9APjJNtTL7s) | 2:11 | 2023-10-03 |  |
 | [Last Christmas](https://open.spotify.com/track/5eSP3DjZX4jfaXF8b4fqpt) | [Calmer Still](https://open.spotify.com/artist/24c4AG30uUmfxrlnYkrntk) | [Last Christmas](https://open.spotify.com/album/3eIDPuVtFSHI3WFgvKnkdK) | 2:34 | 2023-10-03 |  |
 | [Last Christmas](https://open.spotify.com/track/5LenSKghLjYnM6CVIbUu9M) | [Vittoria Emanuelle](https://open.spotify.com/artist/0qQapHASppA0D5wvOcRe7Q) | [Last Christmas](https://open.spotify.com/album/2osHsjjJFWmlYFUWsQVl3N) | 2:37 | 2022-10-14 | 2023-10-04 |
@@ -123,10 +124,12 @@
 | [Maybe This Christmas](https://open.spotify.com/track/4i5ZpTxLoHCqeotiLOWv7K) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [A Peaceful Christmas](https://open.spotify.com/album/2mLz7vHJjwBedvfErCH30A) | 2:07 | 2021-12-14 |  |
 | [My Christmas Tree](https://open.spotify.com/track/4OEboSrggxr9MYywDKBNOA) | [Ray Wilshire](https://open.spotify.com/artist/7LuCANGo1IuYQvcOWPywMZ) | [My Christmas Tree](https://open.spotify.com/album/1tZjTM9mNiAgPADNRFJkav) | 2:10 | 2023-10-03 |  |
 | [O Come, All Ye Faithful](https://open.spotify.com/track/0TtPfPGcVawHTlLI8ckF3f) | [Eternal Hands](https://open.spotify.com/artist/16eZQHN2Px0yh5pdPsEGvz) | [O Come, All Ye Faithful](https://open.spotify.com/album/6jAZnvcbyBJPHmpbxr4wGg) | 2:11 | 2023-10-24 |  |
-| [O Come, O Come, Emmanuel](https://open.spotify.com/track/35gC0HgthUIWZKj2gtLLD2) | [Eden Parks](https://open.spotify.com/artist/4s4Bb2TBJLW89tZOV5pz8G) | [Advent](https://open.spotify.com/album/2Jxr4H0uHLKyfTcJT0fRvK) | 3:20 | 2021-12-14 |  |
+| [O Come, O Come, Emmanuel](https://open.spotify.com/track/1cM0pwwhTWwgivR0eQOyl1) | [Cedric Everglen](https://open.spotify.com/artist/4Y7mB4gR5LDCmloQWn9oEZ) | [O Come, O Come, Emmanuel](https://open.spotify.com/album/0YtWJyMypMhXHXtzbvZ5r8) | 2:28 | 2023-11-13 |  |
+| [O Come, O Come, Emmanuel](https://open.spotify.com/track/35gC0HgthUIWZKj2gtLLD2) | [Eden Parks](https://open.spotify.com/artist/4s4Bb2TBJLW89tZOV5pz8G) | [Advent](https://open.spotify.com/album/2Jxr4H0uHLKyfTcJT0fRvK) | 3:20 | 2021-12-14 | 2023-11-18 |
 | [O Holy Night](https://open.spotify.com/track/2ClC0UkO46ZOGLk9R6M8c2) | [Diego de Galdeano](https://open.spotify.com/artist/0VN4x01SCzLmIMFzuPzAKU) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/5MaXMlmiT3f2wZ5oqYKebv) | 2:13 | 2022-11-09 |  |
 | [O Joyful Night](https://open.spotify.com/track/6tDm66FzHKam2FVgtepBuW) | [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [O Joyful Night](https://open.spotify.com/album/3gnrP3C5jbN0o2WXTHh8Zj) | 2:59 | 2023-09-26 |  |
-| [O Little Town of Bethlehem](https://open.spotify.com/track/1hmwBO0NO72Kn6jcRubbXZ) | [Milos Foreman](https://open.spotify.com/artist/76UnKxgXMyljNuYnFp2ieZ) | [O Little Town of Bethlehem](https://open.spotify.com/album/1jkYdCQ6NU6EkTKvOvtTHF) | 2:21 | 2022-10-14 |  |
+| [O Little Town of Bethlehem](https://open.spotify.com/track/1hmwBO0NO72Kn6jcRubbXZ) | [Milos Foreman](https://open.spotify.com/artist/76UnKxgXMyljNuYnFp2ieZ) | [O Little Town of Bethlehem](https://open.spotify.com/album/1jkYdCQ6NU6EkTKvOvtTHF) | 2:21 | 2022-10-14 | 2023-11-18 |
+| [O Little Town of Bethlehem](https://open.spotify.com/track/2Vgvh2D6l10uK4xaJb4vi2) | [Silas Northwind](https://open.spotify.com/artist/3GY0u4Ib7ByBVi0JQvIyND) | [O Little Town of Bethlehem](https://open.spotify.com/album/7nZNe41s9JDCtvWr4rRzdT) | 2:37 | 2023-11-13 |  |
 | [Oh Christmas Tree](https://open.spotify.com/track/2Tgnu0yfBZdOUshJHND7Mr) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Oh Christmas Tree](https://open.spotify.com/album/2U3JUK5LEXsxPZ2cW32TYs) | 2:08 | 2023-10-24 |  |
 | [Oh Holy Night](https://open.spotify.com/track/5aKLsTh2eSp1cZxWidGU8K) | [Stephen Thorpe](https://open.spotify.com/artist/62R1usQ6dISiLd8Ogw8wKD) | [Oh Holy Night](https://open.spotify.com/album/6MxlnQlKdMrLDZwPnzbGXZ) | 4:04 | 2021-12-14 | 2022-11-10 |
 | [Peaceful Midnight Vignette](https://open.spotify.com/track/5lu9eIMZWM5jhwezjP9VAt) | [Leila Milki](https://open.spotify.com/artist/4DXSD40PBK0g20FwbdMUON) | [Holiday Improvisations](https://open.spotify.com/album/308ccuyDr8CgJ9NNFhDcZo) | 1:19 | 2022-12-16 | 2023-09-27 |

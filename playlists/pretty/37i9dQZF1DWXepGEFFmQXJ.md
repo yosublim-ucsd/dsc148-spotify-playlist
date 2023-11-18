@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Lane Pittman
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,688 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,795 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 3 | [Ain't Too Much To Ask](https://open.spotify.com/track/5i1zwHDWoKrUKOjfCOLxcv) | [Lane Pittman](https://open.spotify.com/artist/4amB7X5ESMq5PB1ve3HmYZ) | [Ain't Too Much To Ask](https://open.spotify.com/album/3OVvIjcMve3JjzJFsnjXT4) | 3:17 |
 | 4 | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g) | 2:21 |
 | 5 | [Call It A Day](https://open.spotify.com/track/4qLUfteMobl6D5b9psoyrV) | [Zac & George](https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh) | [Call It A Day](https://open.spotify.com/album/5bb1vKHBhujvkX7ziKLijA) | 3:02 |
-| 6 | [Whose Rearview](https://open.spotify.com/track/2ap4uymOqE43iFdzSoUoRq) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Highway Desperado](https://open.spotify.com/album/13LwHOvi9moGBu9Q9uYNpI) | 3:16 |
+| 6 | [Whose Rearview](https://open.spotify.com/track/2HsgNeT6LrzRofhkykFKRT) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Highway Desperado](https://open.spotify.com/album/2SCppOPkT7XTKBJV2XIQUw) | 3:16 |
 | 7 | [Good Things](https://open.spotify.com/track/4mhwfPRY7ATYVM8WdYn84z) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Good Things](https://open.spotify.com/album/7uzhXoVrdgBYfrd54Yxo6R) | 3:20 |
 | 8 | [Mamaw's House](https://open.spotify.com/track/4HeViKsdSOLkOvwfcRVkK8) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [20 Number Ones \(Bonus Version\)](https://open.spotify.com/album/5H2qv56KuvEfPjPVYWStUe) | 3:07 |
 | 9 | [Leather](https://open.spotify.com/track/5Z4RdNOVrxle5k7rHeaROb) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:13 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 32 | [On One Hand](https://open.spotify.com/track/0HsgQEjBv4P0cwx8VsIC8b) | [Troy Kemp](https://open.spotify.com/artist/3o6t3UAOCyBn3jNytoNNoT) | [On One Hand](https://open.spotify.com/album/1s3wNlFSNI6DIEaLTOCqt9) | 3:10 |
 | 33 | [Growin' Up and Gettin' Old](https://open.spotify.com/track/24Z0qiHUR9cTB4UfGUqCnj) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:53 |
 | 34 | [The Tree](https://open.spotify.com/track/2ulmNFm5fVsK5mlOQNdhJI) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [The Bridge](https://open.spotify.com/album/2SX47JWeyg4hlKfYwQ3AdA) | 3:25 |
-| 35 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/4Bee3PcNdfeqO1B80dDgFn) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:57 |
+| 35 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 |
 | 36 | [Ain't The One](https://open.spotify.com/track/0pI8ooKQA99dJOKxc4khYJ) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Ain't The One](https://open.spotify.com/album/3dxiEuuXYgLO8gCbXK2YaO) | 3:05 |
 | 37 | [Somewhere In Mexico](https://open.spotify.com/track/6V1Lz4fHzpeQPkyA1OAVXs) | [Tori Darke](https://open.spotify.com/artist/2HzkV2TeZkSlipQVSHbzAj) | [Somewhere In Mexico](https://open.spotify.com/album/6epWsRvTYtr8LouzE0CLck) | 2:32 |
 | 38 | [Summer You](https://open.spotify.com/track/0ji6YIynl98z5b5qRYaVbj) | [Route 33](https://open.spotify.com/artist/5KDFgnaOWRd3B8V1WQWZlE) | [Summer You](https://open.spotify.com/album/6jRppK7fDnHxfA5D8MWLHD) | 3:21 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 79 | [We Ride](https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Poets & Old Souls](https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss) | 3:08 |
 | 80 | [Dance With You](https://open.spotify.com/track/5SIb4S2seQAeCHPXxiNHBL) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Dance With You](https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp) | 3:03 |
 
-Snapshot ID: `MCw2N2JjODAzMDMxNjdiYmZiZGZmZTJjYWQ3ZTBiMTk1YTY0MzlhNzI4`
+Snapshot ID: `MCxkYTZkYjIyYTdkYjk3YWJjN2ExNDY2OTVjMmMzMzJmZTU2OWJmYjJk`

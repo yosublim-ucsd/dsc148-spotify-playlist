@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 64659,
+  "num_followers": 64667,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDFjZTc1MTQ5MTRjZWIwZDI1MTE2NGFjMjM1Y2Q2OGViNWYyNmU4",
+  "snapshot_id": "MCw5ODRkNzc4M2JkYzIxNWMwNWM3NWM3MGIwN2RhZDY3MTc5N2MzMWIz",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -63,8 +63,8 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Digging Deeper",
-        "url": "https://open.spotify.com/album/0bZtJTjE90SXIW0PIChpnl"
+        "name": "The Love Invention",
+        "url": "https://open.spotify.com/album/0IFJIteIlg43nl0JNBysDT"
       },
       "artists": [
         {
@@ -78,7 +78,7 @@
       ],
       "duration_ms": 197853,
       "name": "Digging Deeper",
-      "url": "https://open.spotify.com/track/7iKNMytdMotGpqTxyRL4qA"
+      "url": "https://open.spotify.com/track/3WbVnXG3EaWAWkcyAThXm5"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -455,26 +455,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Tunnel",
-        "url": "https://open.spotify.com/album/1HBAAAthpIYZLWtcr6NZUX"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 310573,
-      "name": "Tunnel",
-      "url": "https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "The Juicebox",
         "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 177409,
       "name": "Bonafide (feat. Chiiild)",
       "url": "https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Tunnel",
+        "url": "https://open.spotify.com/album/1HBAAAthpIYZLWtcr6NZUX"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 310573,
+      "name": "Tunnel",
+      "url": "https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT"
     },
     {
       "added_at": "2023-03-10 05:01:00",

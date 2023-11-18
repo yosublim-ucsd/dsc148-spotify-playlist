@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2588635,
+  "num_followers": 2588844,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2RiNmI3MGJjOGQ5ZmJiOWY2NGM0NDcyY2Q3YzNlYmU3NTY1YjQ2",
+  "snapshot_id": "MCxiNDJkNGM0NDVlYjE0ZDFlZmRhNzdlYWRjN2IzMDJjZjVkMzBhNTBh",
   "tracks": [
     {
       "added_at": "2023-10-24 23:00:00",
@@ -1203,30 +1203,6 @@
     {
       "added_at": "2023-10-24 23:00:00",
       "album": {
-        "name": "GORILLA WARFARE",
-        "url": "https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx"
-      },
-      "artists": [
-        {
-          "name": "DIESEL",
-          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
-        },
-        {
-          "name": "CELO",
-          "url": "https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "WARFARE",
-      "url": "https://open.spotify.com/track/6lKOsX2JpmCcOf1ja3Xu6g"
-    },
-    {
-      "added_at": "2023-10-24 23:00:00",
-      "album": {
         "name": "TIKTOK",
         "url": "https://open.spotify.com/album/4cmm7HDh19mkyFit9wb2c3"
       },
@@ -1247,6 +1223,26 @@
       "duration_ms": 150193,
       "name": "TIKTOK",
       "url": "https://open.spotify.com/track/3nJxqghn6qVTWNzYa5Syc7"
+    },
+    {
+      "added_at": "2023-10-24 23:00:00",
+      "album": {
+        "name": "Rainbow Brain",
+        "url": "https://open.spotify.com/album/0jbN6pCIbmO9hPXMynQ2P8"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "Jantsen",
+          "url": "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Burn Up The Floor",
+      "url": "https://open.spotify.com/track/5nz3dwffS8W2WDWRa9SgfR"
     },
     {
       "added_at": "2023-10-24 23:00:00",
@@ -1275,22 +1271,26 @@
     {
       "added_at": "2023-10-24 23:00:00",
       "album": {
-        "name": "Rainbow Brain",
-        "url": "https://open.spotify.com/album/0jbN6pCIbmO9hPXMynQ2P8"
+        "name": "GORILLA WARFARE",
+        "url": "https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx"
       },
       "artists": [
         {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
         },
         {
-          "name": "Jantsen",
-          "url": "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
+          "name": "CELO",
+          "url": "https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
         }
       ],
-      "duration_ms": 226206,
-      "name": "Burn Up The Floor",
-      "url": "https://open.spotify.com/track/5nz3dwffS8W2WDWRa9SgfR"
+      "duration_ms": 156800,
+      "name": "WARFARE",
+      "url": "https://open.spotify.com/track/6lKOsX2JpmCcOf1ja3Xu6g"
     },
     {
       "added_at": "2023-10-24 23:00:00",
@@ -1379,6 +1379,30 @@
     {
       "added_at": "2023-10-24 23:00:00",
       "album": {
+        "name": "NO FEAR",
+        "url": "https://open.spotify.com/album/36SmlBYQsx9egrbscTMe9D"
+      },
+      "artists": [
+        {
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "NO FEAR",
+      "url": "https://open.spotify.com/track/0xy1H3TnhU478kNe7E8Wxc"
+    },
+    {
+      "added_at": "2023-10-24 23:00:00",
+      "album": {
         "name": "Valley Of Violence",
         "url": "https://open.spotify.com/album/3fblenkjskYmPpOOAm58My"
       },
@@ -1419,30 +1443,6 @@
       "duration_ms": 177600,
       "name": "Moshpit",
       "url": "https://open.spotify.com/track/6EgTYGPIKWgKUf4QnJ3dr7"
-    },
-    {
-      "added_at": "2023-10-24 23:00:00",
-      "album": {
-        "name": "NO FEAR",
-        "url": "https://open.spotify.com/album/36SmlBYQsx9egrbscTMe9D"
-      },
-      "artists": [
-        {
-          "name": "DIESEL",
-          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
-        },
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
-        }
-      ],
-      "duration_ms": 174400,
-      "name": "NO FEAR",
-      "url": "https://open.spotify.com/track/0xy1H3TnhU478kNe7E8Wxc"
     },
     {
       "added_at": "2023-10-24 23:00:00",
@@ -1527,42 +1527,46 @@
     {
       "added_at": "2023-10-24 23:00:00",
       "album": {
-        "name": "Wall Of Death",
-        "url": "https://open.spotify.com/album/6qiabMcuYx4PI3JRqscOhZ"
+        "name": "The Pit",
+        "url": "https://open.spotify.com/album/2ORFeGP84Wx8BlRJmLx7A3"
       },
       "artists": [
         {
-          "name": "Eptic",
-          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
         },
         {
-          "name": "MARAUDA",
-          "url": "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
         }
       ],
-      "duration_ms": 168960,
-      "name": "Wall Of Death",
-      "url": "https://open.spotify.com/track/0adOv7C57abcznr40leSHx"
+      "duration_ms": 152500,
+      "name": "The Pit",
+      "url": "https://open.spotify.com/track/4tjA1bnIrvCt1O4uaC476a"
     },
     {
       "added_at": "2023-10-24 23:00:00",
       "album": {
-        "name": "Work That Body",
-        "url": "https://open.spotify.com/album/57kFGkW79KjN2fWTyfiq8h"
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/0LNjCowJXfTpBCyNyG65vR"
       },
       "artists": [
         {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
         },
         {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Work That Body",
-      "url": "https://open.spotify.com/track/1Oryb6TjgqwR97WZc8nuAH"
+      "duration_ms": 195428,
+      "name": "HEAT",
+      "url": "https://open.spotify.com/track/2GqpGnSsaS4WY4wgURygHO"
     }
   ],
   "unique_name": "Hype",

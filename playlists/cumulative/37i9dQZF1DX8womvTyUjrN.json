@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Adri Torron",
+  "description": "Fresh Latin pop on the rise. Cover: Donovan Morales",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -682,6 +682,28 @@
       "duration_ms": 172200,
       "name": "Aquel Bolero",
       "url": "https://open.spotify.com/track/6DSyWW8BpzXBdymdZ9N61l"
+    },
+    {
+      "album": {
+        "name": "Aqu\u00ed Sigo (Remix)",
+        "url": "https://open.spotify.com/album/0k111CK5XkSEH9hFObcrYu"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208167,
+      "name": "Aqu\u00ed Sigo (Remix)",
+      "url": "https://open.spotify.com/track/6eUx5EQY61BFNHafU1Ow8s"
     },
     {
       "album": {
@@ -1834,6 +1856,28 @@
       "duration_ms": 166805,
       "name": "Combustible",
       "url": "https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2"
+    },
+    {
+      "album": {
+        "name": "Como Si Nada",
+        "url": "https://open.spotify.com/album/4a8vhvGoU8VFZvE3Hrc7RI"
+      },
+      "artists": [
+        {
+          "name": "Donovan Morales",
+          "url": "https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax"
+        },
+        {
+          "name": "ILAMIKE",
+          "url": "https://open.spotify.com/artist/4W0rQhlraEK244nKmDosJi"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186209,
+      "name": "Como Si Nada",
+      "url": "https://open.spotify.com/track/0WOZZpdj3HKxYKtZlLjdJg"
     },
     {
       "album": {
@@ -3146,7 +3190,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 191232,
       "name": "Entr\u00e9gate",
       "url": "https://open.spotify.com/track/5ZDQSDUVyBDesqJxWrWsnv"
@@ -5690,7 +5734,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 132300,
       "name": "Movie",
       "url": "https://open.spotify.com/track/2vEHy7aNrhjv93pxX44KCc"

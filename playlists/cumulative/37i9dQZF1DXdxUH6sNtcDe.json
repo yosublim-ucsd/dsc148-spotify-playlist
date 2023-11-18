@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 202546,
       "name": "Amarillo Sky",
       "url": "https://open.spotify.com/track/0axUHkhMMY0YSC1jFBVWqv"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 204200,
       "name": "Big Green Tractor",
       "url": "https://open.spotify.com/track/4KAzYqfcijCSZa2P3etHoM"
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 306026,
       "name": "Hicktown",
       "url": "https://open.spotify.com/track/0WYbR2GSfl4ehvmLmcpAqi"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-06",
+      "date_removed": null,
       "duration_ms": 248800,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/18wDkct4lkK046D6gcCASs"
@@ -2084,7 +2084,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 283560,
       "name": "Red Ragtop",
       "url": "https://open.spotify.com/track/5xErd5QhOvTKFU7l8dffWC"
@@ -2106,6 +2106,24 @@
       "duration_ms": 221333,
       "name": "Redneck Woman",
       "url": "https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG"
+    },
+    {
+      "album": {
+        "name": "My Kind Of Livin'",
+        "url": "https://open.spotify.com/album/3TQGJlrqggOeyVWF6wDIPn"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230373,
+      "name": "Redneck Yacht Club",
+      "url": "https://open.spotify.com/track/19TKY0KksXTyTGhAImxwQ1"
     },
     {
       "album": {
@@ -2192,7 +2210,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 220573,
       "name": "She's Country",
       "url": "https://open.spotify.com/track/0PspNrE4MSjr1JeB4OW0jn"
@@ -2246,7 +2264,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
+      "date_removed": null,
       "duration_ms": 257646,
       "name": "Smoke Rings In The Dark",
       "url": "https://open.spotify.com/track/47tVV7s6UzdcyTJBoIW7aX"
@@ -2412,6 +2430,24 @@
       "duration_ms": 201493,
       "name": "That's What I Love About Sunday",
       "url": "https://open.spotify.com/track/1fmi1hOBtH8xfUiWz4LVtE"
+    },
+    {
+      "album": {
+        "name": "My Kind Of Livin'",
+        "url": "https://open.spotify.com/album/3TQGJlrqggOeyVWF6wDIPn"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201493,
+      "name": "That's What I Love About Sunday",
+      "url": "https://open.spotify.com/track/2nKvLnpExkH7Mfc14c6a7H"
     },
     {
       "album": {
@@ -2884,7 +2920,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 213733,
       "name": "Why",
       "url": "https://open.spotify.com/track/65Jn2gZWMren03Rz0fCMqs"

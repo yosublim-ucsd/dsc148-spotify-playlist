@@ -1,8 +1,34 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Sometimes a cover can be even better than the original. You decide. Cover: Duran Duran",
+  "description": "The very best rock covers. Cover: Dolly Parton",
   "name": "Rock Covers",
   "tracks": [
+    {
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233362,
+      "name": "(I Can\u2019t Get No) Satisfaction",
+      "url": "https://open.spotify.com/track/2vw3beLeIQSgMxi72RnJHn"
+    },
     {
       "album": {
         "name": "What Doesn't Kill Us",
@@ -52,7 +78,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 209586,
       "name": "...Baby One More Time",
       "url": "https://open.spotify.com/track/1wb2o0e5qrwSSoDUVIz6WM"
@@ -275,6 +301,24 @@
     },
     {
       "album": {
+        "name": "GODMODE",
+        "url": "https://open.spotify.com/album/2c1e4GA90vn9Arbo4b8CU7"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190271,
+      "name": "ARMY OF ME",
+      "url": "https://open.spotify.com/track/2AVYRVgHgIhRPs8a1d4ynL"
+    },
+    {
+      "album": {
         "name": "ARMY OF ME",
         "url": "https://open.spotify.com/album/5Asim1a8EcJdU358R3hGpV"
       },
@@ -286,7 +330,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 190271,
       "name": "ARMY OF ME",
       "url": "https://open.spotify.com/track/2BlT24FgI1HCXif1VJlG0L"
@@ -340,7 +384,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 123733,
       "name": "Bag Lady / Split - Live",
       "url": "https://open.spotify.com/track/6V3J9NK2BK2KbwmkGgTjip"
@@ -358,7 +402,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-10",
+      "date_removed": null,
       "duration_ms": 249853,
       "name": "Ballroom Blitz",
       "url": "https://open.spotify.com/track/0NRdZwAM8JSoStfYrb813s"
@@ -442,11 +486,15 @@
         {
           "name": "Rise Against",
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        },
+        {
+          "name": "Tim Mcllrath",
+          "url": "https://open.spotify.com/artist/5Wh9p9gSQ918Rtuv6qCBiw"
         }
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-29",
+      "date_removed": null,
       "duration_ms": 246695,
       "name": "Beds Are Burning (feat. Tim Mcllrath of Rise Against)",
       "url": "https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N"
@@ -518,7 +566,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 281373,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7sZD8tOmfRUObogGX8VzfZ"
@@ -590,7 +638,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 276013,
       "name": "Blinded By The Light - From \"Super Troopers 2\" Soundtrack",
       "url": "https://open.spotify.com/track/3kgtj0csPcN5uqPyEObXu9"
@@ -801,6 +849,28 @@
     },
     {
       "album": {
+        "name": "Cannonball",
+        "url": "https://open.spotify.com/album/6xIsMnly5676OlHaOoJnzg"
+      },
+      "artists": [
+        {
+          "name": "Venus & the Flytraps",
+          "url": "https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF"
+        },
+        {
+          "name": "Molly Martin",
+          "url": "https://open.spotify.com/artist/0hNMW0XhqFyhHaDpdo9qTp"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/6lVL2Ffb0c0hxAwB8gYdnz"
+    },
+    {
+      "album": {
         "name": "Finding Beauty In Negative Spaces (Bonus Track Version)",
         "url": "https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo"
       },
@@ -884,7 +954,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/7uYwtxCDbqPEmhX0UyHq5d"
@@ -972,6 +1042,24 @@
     {
       "album": {
         "name": "Live & Inspired",
+        "url": "https://open.spotify.com/album/6QOoJkjaJw5mp6FUp6KCkN"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226293,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/30KaTTGsHO8z9esyfuJuU6"
+    },
+    {
+      "album": {
+        "name": "Live & Inspired",
         "url": "https://open.spotify.com/album/4qq3w5Bfb46Rw9kE6QSYNT"
       },
       "artists": [
@@ -1000,7 +1088,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 212240,
       "name": "Crawling",
       "url": "https://open.spotify.com/track/2hGx3rghGVc4agPAB2gFby"
@@ -1108,7 +1196,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 209813,
       "name": "Dancing on My Own",
       "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
@@ -1162,7 +1250,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 215922,
       "name": "DJ Got Us Fallin in Love",
       "url": "https://open.spotify.com/track/5QOWi9IVukyO3DGOIBM5To"
@@ -1342,7 +1430,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 177413,
       "name": "Eleanor Rigby",
       "url": "https://open.spotify.com/track/4Etfey30ejf9x6zzUwipdz"
@@ -1386,6 +1474,28 @@
       "duration_ms": 262693,
       "name": "Enter Sandman",
       "url": "https://open.spotify.com/track/5zpubzwKoDQupHOCI6kgMf"
+    },
+    {
+      "album": {
+        "name": "Enter Sandman",
+        "url": "https://open.spotify.com/album/7sIrH5m7rD2dxhZVWehQjH"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        },
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263693,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/2XGnAEodeIvFvoH60V251s"
     },
     {
       "album": {
@@ -1598,7 +1708,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-17",
+      "date_removed": null,
       "duration_ms": 292040,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
@@ -1634,7 +1744,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 203520,
       "name": "Fortunate Son",
       "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
@@ -1706,7 +1816,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-12",
+      "date_removed": null,
       "duration_ms": 214325,
       "name": "Give Me One Reason (The Plug)",
       "url": "https://open.spotify.com/track/5N27JJr0UkCu0kWkiPIygQ"
@@ -1912,7 +2022,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 293732,
       "name": "Hello",
       "url": "https://open.spotify.com/track/2d0uBfr5XlbvlIlfq1loz7"
@@ -2050,10 +2160,28 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 211616,
       "name": "Highway to Hell (feat. Bruce Springsteen & Eddie Vedder)",
       "url": "https://open.spotify.com/track/30BltpTtw0lEHf34NesoUu"
+    },
+    {
+      "album": {
+        "name": "Holding Out for a Hero (Stripped)",
+        "url": "https://open.spotify.com/album/03v7PCLu8jomBjLh96hPG4"
+      },
+      "artists": [
+        {
+          "name": "Kelsy Karter & The Heroines",
+          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Holding Out for a Hero - Stripped",
+      "url": "https://open.spotify.com/track/5N9LUibd7Fwxa7y2hEzGU6"
     },
     {
       "album": {
@@ -2162,7 +2290,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-04",
+      "date_removed": null,
       "duration_ms": 189248,
       "name": "Hungry Like the Wolf - Recorded Live at AIR Studios, London",
       "url": "https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv"
@@ -2556,7 +2684,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 167508,
       "name": "Immigrant Song",
       "url": "https://open.spotify.com/track/3g5kQgKEllNBUklsmARGg8"
@@ -2834,7 +2962,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 190586,
       "name": "Landslide - Remastered",
       "url": "https://open.spotify.com/track/2dc1BYopTHgviDXawShfME"
@@ -2913,6 +3041,32 @@
     },
     {
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267859,
+      "name": "Let It Be",
+      "url": "https://open.spotify.com/track/59QGjZF7BhSoPZvPQeFnCX"
+    },
+    {
+      "album": {
         "name": "Songs That Saved My Life",
         "url": "https://open.spotify.com/album/5XkUTL5Ccl5krryba7M7JI"
       },
@@ -2964,7 +3118,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 259188,
       "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
@@ -3108,7 +3262,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 269946,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P"
@@ -3126,7 +3280,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-30",
+      "date_removed": null,
       "duration_ms": 205341,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6ikRLztllCPsloUL2jCYpJ"
@@ -3277,6 +3431,24 @@
     },
     {
       "album": {
+        "name": "Sounds From Beyond The Abyss (Vol. 1)",
+        "url": "https://open.spotify.com/album/3MBwzr71e3WZL0gCa5wt5v"
+      },
+      "artists": [
+        {
+          "name": "The Funeral Portrait",
+          "url": "https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215176,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/6ga5MQ9qQUlwOJpVIYFqft"
+    },
+    {
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/759xTRwjc0HF1m64zkRm0L"
       },
@@ -3324,7 +3496,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 152973,
       "name": "Mississippi Queen",
       "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
@@ -3342,7 +3514,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-13",
+      "date_removed": null,
       "duration_ms": 152377,
       "name": "My Sharona - Live Session from Abbey Road Studios, London, UK",
       "url": "https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH"
@@ -3378,7 +3550,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 330653,
       "name": "No Ordinary Love - 2005 Remaster",
       "url": "https://open.spotify.com/track/2lwkf3MVqTYmo5NoAoWFqN"
@@ -3636,7 +3808,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 146526,
       "name": "One Step Closer \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/3PmNDKYfKGALpIRz5CEQD1"
@@ -3712,7 +3884,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 147082,
       "name": "People Are Strange",
       "url": "https://open.spotify.com/track/3PX33J7MsHibdN9kmubVTk"
@@ -3766,7 +3938,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 236450,
       "name": "Personal Jesus - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9"
@@ -3784,7 +3956,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 262746,
       "name": "Pony",
       "url": "https://open.spotify.com/track/108U9FAOtfHOAIGdHG12Fc"
@@ -3994,7 +4166,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 213878,
       "name": "ROCKIN' IN THE FREE WORLD",
       "url": "https://open.spotify.com/track/31krf2frQwDTGrHeyqEhsP"
@@ -4084,7 +4256,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-22",
+      "date_removed": null,
       "duration_ms": 204653,
       "name": "Royals",
       "url": "https://open.spotify.com/track/3RZxpy9ic7FhK3UPvxmPET"
@@ -4124,6 +4296,28 @@
       "duration_ms": 261216,
       "name": "Run",
       "url": "https://open.spotify.com/track/2a2X3OXuaM2DgkH9ZJpRyb"
+    },
+    {
+      "album": {
+        "name": "The Stage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        },
+        {
+          "name": "Warren Fitzgerald",
+          "url": "https://open.spotify.com/artist/42Wl7GLDaY4vAQrbttojF5"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169319,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/071hmHI51coELRK8hoH12U"
     },
     {
       "album": {
@@ -4312,7 +4506,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 242666,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/1NdfWHmjZkJDi1YpgoBZyS"
@@ -4648,7 +4842,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-17",
+      "date_removed": null,
       "duration_ms": 231368,
       "name": "Table For Glasses",
       "url": "https://open.spotify.com/track/2eYqYMFIyOq9yJSZzAy6B7"
@@ -4724,7 +4918,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-29",
+      "date_removed": null,
       "duration_ms": 218746,
       "name": "Telepath",
       "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
@@ -4829,6 +5023,24 @@
     },
     {
       "album": {
+        "name": "The Chain",
+        "url": "https://open.spotify.com/album/6isNHMQ20tEx8dJ7CUAiAT"
+      },
+      "artists": [
+        {
+          "name": "Toothgrinder",
+          "url": "https://open.spotify.com/artist/03YfzFNcD7l9uskxK7WaPP"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275146,
+      "name": "The Chain",
+      "url": "https://open.spotify.com/track/6Y3AzfzJP4NswhfLOpd8aY"
+    },
+    {
+      "album": {
         "name": "The Chain (From \"Gears 5\")",
         "url": "https://open.spotify.com/album/1QgqZD9a32WpKpVQjmfCZO"
       },
@@ -4930,7 +5142,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-17",
+      "date_removed": null,
       "duration_ms": 284935,
       "name": "The Only Exception - Spotify Single",
       "url": "https://open.spotify.com/track/3aemIcBosf7udts37BAvXx"
@@ -4952,6 +5164,24 @@
       "duration_ms": 284935,
       "name": "The Only Exception - Spotify Single",
       "url": "https://open.spotify.com/track/4GSP51OmKGNs57ZT9coUDF"
+    },
+    {
+      "album": {
+        "name": "Brass Against II",
+        "url": "https://open.spotify.com/album/1afUsHGp4SFpKAUxapIvtI"
+      },
+      "artists": [
+        {
+          "name": "Brass Against",
+          "url": "https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381398,
+      "name": "The Pot",
+      "url": "https://open.spotify.com/track/08Ui0p0Jk3UBwiEKAxs4Xf"
     },
     {
       "album": {
@@ -5208,7 +5438,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-09",
+      "date_removed": null,
       "duration_ms": 259689,
       "name": "Uninvited",
       "url": "https://open.spotify.com/track/735Ge0JqNmz6hKYEB1q7vZ"
@@ -5287,6 +5517,24 @@
     },
     {
       "album": {
+        "name": "War Pigs",
+        "url": "https://open.spotify.com/album/4haqVeS7A9FV60e3mgyP1x"
+      },
+      "artists": [
+        {
+          "name": "Eva Under Fire",
+          "url": "https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309888,
+      "name": "War Pigs",
+      "url": "https://open.spotify.com/track/7jJDnZAjjI4wiKZd3IRKlE"
+    },
+    {
+      "album": {
         "name": "The Real Thing",
         "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
       },
@@ -5316,7 +5564,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 194359,
       "name": "Watching The Wheels",
       "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
@@ -5468,7 +5716,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 245757,
       "name": "White Room (feat. Jacoby Shaddix)",
       "url": "https://open.spotify.com/track/1rsQ4JPGrMDAW9OZb4ChL6"
@@ -5642,7 +5890,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 263733,
       "name": "Working Class Hero",
       "url": "https://open.spotify.com/track/1rls1uw64JiGI2O7MZABWj"

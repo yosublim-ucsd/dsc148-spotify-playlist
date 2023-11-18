@@ -4,7 +4,7 @@
 
 > Check out the Official Spiderhead Playlist\. Watch now on Netflix
 
-33 songs - 1 hr 52 min
+34 songs - 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Redemption](https://open.spotify.com/track/3Tqd7D4DjwboPzsoAYOQg5) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M), [Tonality](https://open.spotify.com/artist/5pcicNTH7aIJujRAA7WFXg) | [Spiderhead \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/5haACGpU0WzL5FkCUr6YGI) | 2:31 | 2022-06-17 | 2022-11-17 |
 | [Rise](https://open.spotify.com/track/1TsmHRIXvMTLP7Vu53XsUV) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Rise](https://open.spotify.com/album/7HY0aAzDNhAqmFHATtABPY) | 7:37 | 2022-06-17 |  |
 | [Shanghai Express](https://open.spotify.com/track/5oqDSbyHSMKSQocnTx6U28) | [Maurizio Dami](https://open.spotify.com/artist/5TVeAJmehYn5Feb2mojsAF) | [Heart Of The Chart](https://open.spotify.com/album/2tlyQK9gIlVCbunjrPFOHH) | 3:02 | 2022-06-17 |  |
-| [She Blinded Me With Science](https://open.spotify.com/track/5FphpVbf4MCNEglT9yexvn) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [Halloween: A Thomas Dolby Creation](https://open.spotify.com/album/6pLzq5yYpq1oRki19bysnu) | 3:41 | 2022-07-15 |  |
+| [She Blinded Me With Science](https://open.spotify.com/track/4RkKf3UBRxF2kn2Vh0ww8l) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [The Golden Age of Wireless](https://open.spotify.com/album/0MaTs2V3oNCaTVoB7rr6Dj) | 3:41 | 2022-07-15 |  |
+| [She Blinded Me With Science](https://open.spotify.com/track/5FphpVbf4MCNEglT9yexvn) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [Halloween: A Thomas Dolby Creation](https://open.spotify.com/album/6pLzq5yYpq1oRki19bysnu) | 3:41 | 2022-07-15 | 2023-11-18 |
 | [She Blinded Me With Science](https://open.spotify.com/track/6HYf9ZEZKuxy581QVmYA6c) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [The Golden Age Of Wireless](https://open.spotify.com/album/3V177EgHtR65iBY1NHZxp4) | 3:41 | 2022-06-17 | 2023-11-03 |
 | [She Blinded Me With Science \- 2009 Remastered Version](https://open.spotify.com/track/6y9VZNRczyKeQihebHSMJ8) | [Thomas Dolby](https://open.spotify.com/artist/2Uz58cSxlJgefDaSikxYQ7) | [The Golden Age Of Wireless](https://open.spotify.com/album/6B0ZeHngr24VJ1MABDW2Yz) | 3:42 | 2022-07-15 | 2023-11-04 |
 | [Solfetietto, En Ut Mineur](https://open.spotify.com/track/5BGe92r3hyLf14Uq3ea5mA) | [The Swingle Singers](https://open.spotify.com/artist/2Rn34e82tV2YfbLfP1omlS) | [Going Baroque](https://open.spotify.com/album/6EbmD7EGlv0qeWQxz3Wghl) | 0:54 | 2022-06-17 |  |

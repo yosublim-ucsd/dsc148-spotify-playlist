@@ -4,7 +4,7 @@
 
 > The soundtrack to your festive get\-together!
 
-124 songs - 7 hr 15 min
+125 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Merry Xmas Everybody](https://open.spotify.com/track/3iwZ8hg0q1kTBB5kjg0nO4) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Wall Of Hits](https://open.spotify.com/album/3qQsv8mJaD5Qn10yCEuk84) | 3:25 | 2021-10-28 | 2022-07-29 |
 | [Merry Xmas Everybody](https://open.spotify.com/track/1ZRTVtN69huY2k4F9m6xOa) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Merry Xmas Everybody: 50 Christmas and Holiday Hits](https://open.spotify.com/album/3vK6l0IQhxGhweR4zMQAzq) | 3:43 | 2021-10-28 | 2022-11-13 |
 | [Merry Xmas Everybody](https://open.spotify.com/track/4dBQWyoZmmgvFBlALGlqZi) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Merry Xmas Everybody](https://open.spotify.com/album/05p2SZoivHg20xFgM0ibTy) | 3:43 | 2021-10-28 | 2022-10-11 |
-| [Merry Xmas Everybody](https://open.spotify.com/track/2unvC2MlubBY3GxXqrRW00) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Crackers](https://open.spotify.com/album/5Zr9iBEJfPSNEEjaeQilDt) | 3:43 | 2021-10-28 |  |
+| [Merry Xmas Everybody](https://open.spotify.com/track/0z5jr9YE1siursT3dJUwDV) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Merry Xmas Everybody](https://open.spotify.com/album/7cXMFYNCEh5rFiwK7kTglA) | 3:43 | 2023-11-10 |  |
+| [Merry Xmas Everybody](https://open.spotify.com/track/2unvC2MlubBY3GxXqrRW00) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Crackers](https://open.spotify.com/album/5Zr9iBEJfPSNEEjaeQilDt) | 3:43 | 2021-10-28 | 2023-11-18 |
 | [Naughty List \(with Dixie\)](https://open.spotify.com/track/2Y0ktCGrGoGcQFXsGztvhi) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Naughty List \(with Dixie\)](https://open.spotify.com/album/2xvYb1xTCb5hhxzXub0RdM) | 2:34 | 2021-10-28 |  |
 | [One I've Been Missing](https://open.spotify.com/track/4VpnrB9Lai2uHsRbh5C8Ft) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [One I've Been Missing](https://open.spotify.com/album/2s0uYI8G5VpBHYaXHQaXJg) | 3:12 | 2021-10-28 | 2022-07-29 |
 | [One I've Been Missing](https://open.spotify.com/track/632gXr9GJAsy7UBd7Dg7G4) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti \(Expanded Edition\)](https://open.spotify.com/album/0KDISpxSUWynoaqwEaEeX8) | 3:12 | 2021-10-28 |  |

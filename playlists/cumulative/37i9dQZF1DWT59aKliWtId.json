@@ -2866,10 +2866,28 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 315395,
       "name": "Damn That Frequency",
       "url": "https://open.spotify.com/track/3Dq4DtnxHqAAf5Eezo0xbL"
+    },
+    {
+      "album": {
+        "name": "INNERSTANDING",
+        "url": "https://open.spotify.com/album/100l2UVS0ORWZkue4Yao1f"
+      },
+      "artists": [
+        {
+          "name": "Dhani Harrison",
+          "url": "https://open.spotify.com/artist/0BNG5EOWoNlIE1Q1c4L0Kh"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315395,
+      "name": "Damn That Frequency",
+      "url": "https://open.spotify.com/track/3GvDRFYypFhlvk7VIlsG08"
     },
     {
       "album": {
@@ -10672,10 +10690,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 221534,
       "name": "One Like You",
       "url": "https://open.spotify.com/track/1sc4k2nZ3usRzszLfbAfTl"
+    },
+    {
+      "album": {
+        "name": "Love Lines",
+        "url": "https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221534,
+      "name": "One Like You",
+      "url": "https://open.spotify.com/track/4AKxFYKasB3lbakwXLkQWy"
     },
     {
       "album": {

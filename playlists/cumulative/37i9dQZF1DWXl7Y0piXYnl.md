@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-389 songs - 1 day 5 hr 27 min
+390 songs - 1 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,7 +340,8 @@
 | [The Corpse of a Frozen Flower](https://open.spotify.com/track/6jFqs5z2EMkkbprCyOIgvV) | [Dumbo Tracks](https://open.spotify.com/artist/3qfR6VhvpEf7VWvpaGqnd5), [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Dumbo Tracks](https://open.spotify.com/album/1zZlS9NOEVUsyf1liL78cC) | 4:48 | 2022-10-27 | 2022-12-03 |
 | [The Corpse of a Frozen Flower \- Eiko Ishibashi Vocal Version](https://open.spotify.com/track/1KFlfBqzvIWGSdmSXy3ZpP) | [Dumbo Tracks](https://open.spotify.com/artist/3qfR6VhvpEf7VWvpaGqnd5), [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [The Corpse of a Frozen Flower \(Eiko Ishibashi Vocal Version\)](https://open.spotify.com/album/7i3xLVHJCNgB74tQjLOWRy) | 4:49 | 2022-10-27 | 2022-11-21 |
 | [The Double Bong Cloud \(Denial I\)](https://open.spotify.com/track/4dur4K6e2xvmjjDv1tg1V3) | [Deadbeat](https://open.spotify.com/artist/0rd7M5S6AdFkideaBtseOo) | [Kübler\-Ross Soliloquies](https://open.spotify.com/album/4ESDVIyRppgFvwQYvHodks) | 7:29 | 2023-10-05 |  |
-| [The Golden Ratio \(Version\)](https://open.spotify.com/track/3ZxsyZd3tXRpTh4fCYyeAr) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Maintain The Golden Ratio](https://open.spotify.com/album/7zJ2Ho6A5Nf6s46wDX4FnK) | 4:42 | 2023-11-16 |  |
+| [The Golden Ratio \(Version\)](https://open.spotify.com/track/2bQ2B1Zvk8ecLp1VAcI0bt) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Maintain The Golden Ratio](https://open.spotify.com/album/5dV2HXWXjGWqR4oOTXJw4Z) | 4:42 | 2023-11-16 |  |
+| [The Golden Ratio \(Version\)](https://open.spotify.com/track/3ZxsyZd3tXRpTh4fCYyeAr) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Maintain The Golden Ratio](https://open.spotify.com/album/7zJ2Ho6A5Nf6s46wDX4FnK) | 4:42 | 2023-11-16 | 2023-11-18 |
 | [The Hand That Rocks](https://open.spotify.com/track/7bFBrClkE5rE3sTCDF8wuR) | [Thomas P\. Heckmann](https://open.spotify.com/artist/4QLCqJ3RSF3y6DdvboPk9m) | [Body Music](https://open.spotify.com/album/0wIKFaleCVx8JF6O63uAUa) | 7:09 | 2023-09-28 | 2023-10-14 |
 | [The Low](https://open.spotify.com/track/0VGmel9RQUjYxuqZkeublB) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [The Low](https://open.spotify.com/album/1fdz9eOqE4fcayb5wIqErG) | 3:38 | 2023-09-14 | 2023-10-06 |
 | [The Mover](https://open.spotify.com/track/3xOaeQQlhgG3GOGyM0mtv1) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU), [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Break](https://open.spotify.com/album/6g10dg2gIRvdJdxUpCV2ao) | 2:57 | 2023-08-24 | 2023-09-08 |

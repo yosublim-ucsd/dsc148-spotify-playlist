@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,771 songs - 3 day 7 hr 18 min
+1,772 songs - 3 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,7 +512,7 @@
 | [Field of Joy](https://open.spotify.com/track/5Dupg1ztlsHXxhmBDVqww2) | [Jonathan Beaujean](https://open.spotify.com/artist/02L0LCjnSfGqoP3dBRNxei) | [Field of Joy](https://open.spotify.com/album/0iRcFoOpH69QSXovmNfa5N) | 3:16 | 2022-12-22 | 2023-02-25 |
 | [Fields](https://open.spotify.com/track/2mALzHMGNFFjCIip1M0SyY) | [Kylian Rebour](https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX) | [Fields](https://open.spotify.com/album/1K2SNUso7fWzSAzqRoAwQD) | 2:03 | 2021-05-20 | 2022-04-14 |
 | [Fields](https://open.spotify.com/track/60YiyS0YJeSOI3DYcKSVdn) | [Will Kaufman](https://open.spotify.com/artist/1qw4AAqrPMSwFoEc1RBRLU) | [Fields](https://open.spotify.com/album/6OF6dKWs58XhWlD34KmzS8) | 3:44 | 2021-04-29 | 2022-04-25 |
-| [fields of forever \- sleep rework](https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [fields of forever \(sleep rework\)](https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS) | 3:41 | 2023-04-15 |  |
+| [fields of forever \- sleep rework](https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [fields of forever \(sleep rework\)](https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS) | 3:41 | 2023-04-15 | 2023-11-18 |
 | [Fields of Gold](https://open.spotify.com/track/0x7k2hGRMup7V0Fh8nqlFg) | [Gordon Matthew Thomas Sumner](https://open.spotify.com/artist/4d4MQI2dt3yVSJixoVNfgK), [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Fields of Gold](https://open.spotify.com/album/1MSTcPEOnMjUJ2FX7gB2z4) | 3:44 | 2021-12-21 | 2022-07-28 |
 | [Fields Of Love](https://open.spotify.com/track/38GNL3kBcQafMTKT5tom7c) | [Reinhard Krause](https://open.spotify.com/artist/51sDI12AiFuof8oXlSrdnM) | [Fields Of Love](https://open.spotify.com/album/1a1T9YpoJoiwP9iESKlJSN) | 2:17 | 2023-10-10 |  |
 | [Fields of Rye](https://open.spotify.com/track/2bwnUq3oGta2YSeTPnFCOw) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Fields of Rye](https://open.spotify.com/album/16n1NtIrjhjjhzYyUVvwjz) | 2:37 | 2021-04-24 | 2022-04-17 |
@@ -578,6 +578,7 @@
 | [Fristad](https://open.spotify.com/track/4G5Zl5CAe63eqW5XrAq9w2) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Fristad](https://open.spotify.com/album/5t8CKlRIPsIXa5QITQRjKn) | 2:38 | 2021-10-25 | 2022-07-29 |
 | [From Above](https://open.spotify.com/track/5LIsR2QFLqxot9tX9huYwi) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Your Story](https://open.spotify.com/album/02mdAAH2cPIPnDCP8qgln2) | 1:46 | 2022-12-22 | 2023-04-16 |
 | [From Home](https://open.spotify.com/track/02VydYQOYaLGZX2MWoCCQ8) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [From Home](https://open.spotify.com/album/7BF0crTRDCArRVfdCX94Yt) | 3:22 | 2022-12-22 | 2023-10-11 |
+| [From Home](https://open.spotify.com/track/0EgbLbMqBzyEjIySBupBqH) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [From Home](https://open.spotify.com/album/4s631bf05BJesvz6XT3iDT) | 3:22 | 2023-11-14 |  |
 | [From The Heart](https://open.spotify.com/track/5WyysbGeEUoJ02Xf1tMpac) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [From The Heart](https://open.spotify.com/album/0tcoSiHe5QZxj5S5WdQMDN) | 3:23 | 2021-03-18 | 2021-12-19 |
 | [Frosty The Snowman](https://open.spotify.com/track/5XB4pCmfsspHUDOSTck6tM) | [Clark Anthony](https://open.spotify.com/artist/4LmgGaZAPNgnIWDtwaWMck) | [My Christmas](https://open.spotify.com/album/1tSOQefweVeEW65XKip9X0) | 2:55 | 2021-04-27 | 2022-04-18 |
 | [Früh](https://open.spotify.com/track/7J6nPXzpkCcAOdVgCkCNtM) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Früh](https://open.spotify.com/album/6rYq4871w4zJ9YrD5xmYIL) | 2:07 | 2022-07-27 | 2022-08-14 |

@@ -1,12 +1,12 @@
 {
   "description": "Songs from Canadian artists that dominated the 1990s. Cover: LEN",
-  "num_followers": 56241,
+  "num_followers": 56275,
   "original_name": "Canadian '90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzI3YWI1Mzg1ZTgwMmFmY2MxZTRkYzE4NWUzOWQ0NGFjYWJjY2Y4",
+  "snapshot_id": "MCw4NGY0OTJlZTc2NzJhMDI2YzBhOTQ2YTNkZTZiMjgwYjhhNzVhNTBl",
   "tracks": [
     {
       "added_at": "2021-09-21 20:57:50",
@@ -187,6 +187,22 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
+        "name": "Clumsy",
+        "url": "https://open.spotify.com/album/4mWNf9f6fkznoMKchh2u1M"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "Superman's Dead",
+      "url": "https://open.spotify.com/track/5AqdEGne9bWAMPTI5UUmQY"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
         "name": "Hell To Pay",
         "url": "https://open.spotify.com/album/31DS8fyjbe15k7L4B20kp1"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 247306,
       "name": "Building a Mystery",
       "url": "https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Clumsy",
-        "url": "https://open.spotify.com/album/4mWNf9f6fkznoMKchh2u1M"
-      },
-      "artists": [
-        {
-          "name": "Our Lady Peace",
-          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
-        }
-      ],
-      "duration_ms": 255400,
-      "name": "Superman's Dead",
-      "url": "https://open.spotify.com/track/5AqdEGne9bWAMPTI5UUmQY"
     },
     {
       "added_at": "2021-09-21 20:57:50",

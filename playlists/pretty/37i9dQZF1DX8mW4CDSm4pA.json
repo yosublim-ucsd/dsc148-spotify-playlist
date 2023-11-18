@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/domfishback/\">Dominique Fishback</a>. ",
-  "num_followers": 380,
+  "num_followers": 379,
   "original_name": "Dominique's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzFkYjNhMzMxY2FiNTY0NzAxYzE2NmM4MjE0YzcwNTA5YzU4NDc0",
+  "snapshot_id": "MCxiMWRlYTkxYWNmMWUwNzBjYTYwYTc4OTUxNGJhMGRiNjc5YTIzNmIy",
   "tracks": [
     {
       "added_at": "2023-06-01 04:00:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
+        "name": "Born Sinner (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 277200,
+      "name": "Let Nas Down",
+      "url": "https://open.spotify.com/track/6WouUO5WEg0ncfGn6dkB4I"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
         "name": "534",
         "url": "https://open.spotify.com/album/3toLn9BAnrscDsY8PoDLXM"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 173200,
       "name": "Dear Summer",
       "url": "https://open.spotify.com/track/5VkuqayHiiU5ZHyYEH4Oeb"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
-        "name": "Born Sinner (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 277200,
-      "name": "Let Nas Down",
-      "url": "https://open.spotify.com/track/6WouUO5WEg0ncfGn6dkB4I"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Blame",
-        "url": "https://open.spotify.com/album/71DZFJCQscYip43tFMaWbN"
+        "name": "Something Melancholy",
+        "url": "https://open.spotify.com/album/5vjsx7xcvF3WA7UbNZRPqK"
       },
       "artists": [
         {
-          "name": "Dhuwii",
-          "url": "https://open.spotify.com/artist/4K99Xrq0vBtnKg1AAkSSxC"
+          "name": "AMYRA",
+          "url": "https://open.spotify.com/artist/6xIk8My2lEjdywaDBeN5qC"
         }
       ],
-      "duration_ms": 191999,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/7mQpC4igq6LyBjoNMiaXpm"
+      "duration_ms": 392808,
+      "name": "Burning in Birmingham",
+      "url": "https://open.spotify.com/track/4SAGhPbeUoYH2w2BP85AK2"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Something Melancholy",
-        "url": "https://open.spotify.com/album/5vjsx7xcvF3WA7UbNZRPqK"
+        "name": "Blame",
+        "url": "https://open.spotify.com/album/71DZFJCQscYip43tFMaWbN"
       },
       "artists": [
         {
-          "name": "AMYRA",
-          "url": "https://open.spotify.com/artist/6xIk8My2lEjdywaDBeN5qC"
+          "name": "Dhuwii",
+          "url": "https://open.spotify.com/artist/4K99Xrq0vBtnKg1AAkSSxC"
         }
       ],
-      "duration_ms": 392808,
-      "name": "Burning in Birmingham",
-      "url": "https://open.spotify.com/track/4SAGhPbeUoYH2w2BP85AK2"
+      "duration_ms": 191999,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/7mQpC4igq6LyBjoNMiaXpm"
     },
     {
       "added_at": "2023-06-01 04:00:00",

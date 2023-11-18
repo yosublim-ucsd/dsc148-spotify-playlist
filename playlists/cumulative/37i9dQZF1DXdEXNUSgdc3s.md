@@ -4,7 +4,7 @@
 
 > Alpha frequencies to reach the point of ultimate relaxation.
 
-82 songs - 4 hr 9 min
+84 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Binaural Alpha : Ajna chakra](https://open.spotify.com/track/5Ng9BFy18wc1jXadJPzyZ5) | [Ellie Yogi](https://open.spotify.com/artist/0GyG8Z6xnh9KnQtt3ElFFU) | [Binaural Alpha : Ganesha](https://open.spotify.com/album/4S550TOMwqIBQLINIIAO3a) | 1:32 | 2023-04-28 | 2023-07-29 |
 | [Binaural Alpha Deep 45,5 + 49 hz](https://open.spotify.com/track/5pGpcXSHImdddmdCylkRWP) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Alpha Horizon](https://open.spotify.com/album/6GnCnCvllPPRsgxHIWPi5Z) | 2:34 | 2023-04-28 |  |
 | [Binaural Alpha Drone](https://open.spotify.com/track/57Ilh5Ja4DipqilIkfcYYW) | [Sonic Brainwaves](https://open.spotify.com/artist/1W33je0c01FrHZvRH8voH7) | [Alpha Stress Reduction](https://open.spotify.com/album/0Gqz4kIZgtNKcc1kf08Gko) | 3:22 | 2023-04-28 |  |
+| [Binaural Alpha Focus \(104\-112 Hz\)](https://open.spotify.com/track/18kpD95Vf2lIxL2JvLNVx3) | [Sassani](https://open.spotify.com/artist/4pSqmGRy49ZNSXzbOKfXol) | [Binaural Alpha Focus \(104\-112 Hz\)](https://open.spotify.com/album/1qh4A5LJNy6wtGvUlkjDDq) | 2:33 | 2023-11-16 |  |
 | [Binaural Alpha Focus \(119\-127 Hz\)](https://open.spotify.com/track/37odfI6yMYDixRskdTBzvf) | [Sassani](https://open.spotify.com/artist/4pSqmGRy49ZNSXzbOKfXol) | [Binaural Alpha Focus \(119\-127 Hz\)](https://open.spotify.com/album/0NyBTPWs6xOVk8N0gAA5xK) | 2:32 | 2023-09-29 |  |
 | [Binaural Alpha Sinus 100 Hz \- 108 Hz](https://open.spotify.com/track/5jybuYzW5AGQWMJNUh0URP) | [Goodness Gr8ness](https://open.spotify.com/artist/55rbsxmvnIOixAbVNg0LlA) | [Binaural Alpha Sinus 160 Hz \- 164 Hz](https://open.spotify.com/album/6EVolwCnTo3kSr3IE4Xupp) | 2:30 | 2023-04-28 |  |
 | [Binaural Alpha Sinus 100 Hz \- 108 Hz](https://open.spotify.com/track/4m9mcrSgs6uJk8ddws1Yz7) | [Vorssenn](https://open.spotify.com/artist/0V8dBTheanSubEjlU0dlvf) | [Alpha 8\-14 Hz Drones](https://open.spotify.com/album/1xvR00hIQDx1fiAQtoMHfI) | 3:26 | 2023-04-28 |  |
@@ -55,6 +56,7 @@
 | [Circumspect Alpha 10Hz](https://open.spotify.com/track/6xa4tQjf1T53fTB2RfZyGi) | [Sine Soothers](https://open.spotify.com/artist/3heVgDPxG5RpofyonEqwX9) | [Circumspect Alpha 10Hz](https://open.spotify.com/album/3pe61os5F0RnpPjMCvVbiw) | 3:19 | 2023-04-28 | 2023-10-06 |
 | [Deep Focus Alpha Sinus 92Hz \- 99Hz](https://open.spotify.com/track/2Bp0ZhtzZz4hz8DrF8L5Xo) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Deep Binaural](https://open.spotify.com/album/1e7LhfQ3uHCh3nJDqpQZ5v) | 3:17 | 2023-04-28 |  |
 | [Deep state \- Alpha Sinus 138 Hz \- 140 Hz](https://open.spotify.com/track/2qjnXfgxjXtvS5lAbiteFh) | [Bit Rain](https://open.spotify.com/artist/58KNAmC26pbsrRUnDloPyt) | [Alpha Sinus Concentration](https://open.spotify.com/album/387DVKFQngZZf8hzWBjIAH) | 2:52 | 2023-04-28 |  |
+| [Dust Settle G Alpha \(96\-108hz\)](https://open.spotify.com/track/1qhpoFWll8RJHM8sKla8CA) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Celestial Blink Alpha](https://open.spotify.com/album/2TZ4Ks3FtnQz558iczbZAQ) | 2:10 | 2023-11-16 |  |
 | [Eventi Alpha SInus 88\-94 Hz](https://open.spotify.com/track/3fiD14RIJ0BA6IACMli2rW) | [Restful SInus](https://open.spotify.com/artist/6S3sDcK2WIHZ9a2eMLJJYX) | [Attractive Alpha](https://open.spotify.com/album/0xOcPoHBjNrr6fhi31rw3z) | 2:40 | 2023-04-28 |  |
 | [Freedom Alpha Sinus \- 130 hz \-132 hz](https://open.spotify.com/track/0l4gghzRLKNYNKYtD2QEze) | [Binaural Landscapes](https://open.spotify.com/artist/5F1SC2pxuIO4iT2LnMIjQn) | [Alpha Sinus Moments](https://open.spotify.com/album/7HbRDOMi06vfQgudWIeIIK) | 3:16 | 2023-04-28 |  |
 | [Gathering Strenght \(Alpha Waves\)](https://open.spotify.com/track/5LClC3g56RONSzKN7QG56c) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [The Deepest Dream \(Binaural Beats\)](https://open.spotify.com/album/6nv46CNtutXIqarQSn4XnR) | 2:46 | 2023-04-28 |  |

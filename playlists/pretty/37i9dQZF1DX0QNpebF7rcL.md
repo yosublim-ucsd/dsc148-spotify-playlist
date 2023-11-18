@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,523 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,548 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dear Mr\. Fantasy](https://open.spotify.com/track/6pC50pZwVynieHSurJjSQa) | [Dave Mason](https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dear Mr\. Fantasy](https://open.spotify.com/album/1LgM96v1LWKd8585co5Hai) | 4:34 |
-| 2 | [Waste Of Time](https://open.spotify.com/track/6hN0tXlbsFFPJ3rADk48hk) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Black Bayou](https://open.spotify.com/album/642WUw47i5QRd5iN0l4rho) | 3:34 |
-| 3 | [Black Magic](https://open.spotify.com/track/4GuQf92xMVo9FYRYnj37OL) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Black Magic](https://open.spotify.com/album/2AfgpZdbs8CI1MvjFaus2A) | 4:25 |
+| 1 | [Wild Love](https://open.spotify.com/track/6ZLLEQPZ5RfwKQUG5ebPKB) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Wild Love](https://open.spotify.com/album/0cExTBqPKBwY4o3Ubv4C6u) | 4:23 |
+| 2 | [Dear Mr\. Fantasy](https://open.spotify.com/track/6pC50pZwVynieHSurJjSQa) | [Dave Mason](https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Dear Mr\. Fantasy](https://open.spotify.com/album/1LgM96v1LWKd8585co5Hai) | 4:34 |
+| 3 | [Waste Of Time](https://open.spotify.com/track/6hN0tXlbsFFPJ3rADk48hk) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Black Bayou](https://open.spotify.com/album/642WUw47i5QRd5iN0l4rho) | 3:34 |
 | 4 | [Heartbreaker](https://open.spotify.com/track/35j5tUnce6812hJBmwxXGV) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Heartbreaker](https://open.spotify.com/album/516Bv1lX91UTFGLIdpKYYt) | 3:50 |
 | 5 | [The Distance](https://open.spotify.com/track/4aZEjenUO0PzdCPtMUSZIe) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Sari Schorr](https://open.spotify.com/artist/65EcwCjlQu3XbQEbSqYBGl) | [Joyful Sky](https://open.spotify.com/album/082aBhB5n3cwYW7wLoudGo) | 2:56 |
 | 6 | [Is It Safe To Go Home](https://open.spotify.com/track/7p0zvKPEscOjVBlCZ6RA5p) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe Vol\. 2](https://open.spotify.com/album/0PliVtWtF3rmnJsXT8AjlP) | 6:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Always Free](https://open.spotify.com/track/0vD4NlJVWTYE8rdj1UGsAt) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends](https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2) | 2:57 |
 | 100 | [She Calls Me Kingfish](https://open.spotify.com/track/7txQNFAmmzHJezbLSVCclc) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:12 |
 
-Snapshot ID: `MCwwOWM3ZjFmMGM1MmZhN2Q2Yzc2MTdlN2RlMGE4ZGQ1YzUzZDQ5OWNi`
+Snapshot ID: `MCxmNjQyYmEwY2I4ZTk2ZGEzNTQ1YWY1NDk4MzgxOGM3ZjRjZjIwMGQ4`

@@ -736,7 +736,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 134842,
       "name": "BLUE DREAM",
       "url": "https://open.spotify.com/track/1fOLDhre8l8JHpzHLQ2248"
@@ -1908,6 +1908,24 @@
       "duration_ms": 131518,
       "name": "Egg Rollz",
       "url": "https://open.spotify.com/track/5swljGcGse2QRMLWji89yv"
+    },
+    {
+      "album": {
+        "name": "eggplants & oregano",
+        "url": "https://open.spotify.com/album/1xqBqzSAxguUoi25iST312"
+      },
+      "artists": [
+        {
+          "name": "buggy beats",
+          "url": "https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97569,
+      "name": "eggplants & oregano",
+      "url": "https://open.spotify.com/track/4NFpLeNabRQZa5ri80KRcA"
     },
     {
       "album": {
@@ -4065,6 +4083,24 @@
     },
     {
       "album": {
+        "name": "LIFE",
+        "url": "https://open.spotify.com/album/2AlBd43zrdIshx5p8DUvti"
+      },
+      "artists": [
+        {
+          "name": "Sloppy Jo",
+          "url": "https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136704,
+      "name": "LIFE",
+      "url": "https://open.spotify.com/track/6CEfKrDJPDNKHvnCcQjfkd"
+    },
+    {
+      "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/45d85cjZ1WpzNanWJXE23f"
       },
@@ -4728,6 +4764,24 @@
       "duration_ms": 108007,
       "name": "millions",
       "url": "https://open.spotify.com/track/5I20Xa98Zm3YQlSfRQgwxt"
+    },
+    {
+      "album": {
+        "name": "Mimoza Sunday",
+        "url": "https://open.spotify.com/album/5715RIP9BE8KIkmA05Mt0G"
+      },
+      "artists": [
+        {
+          "name": "Dasunny",
+          "url": "https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131235,
+      "name": "Mimoza Sunday",
+      "url": "https://open.spotify.com/track/4SWNsSXHBxrwaOr4yP8xV5"
     },
     {
       "album": {
@@ -6574,7 +6628,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 193816,
       "name": "Shroom",
       "url": "https://open.spotify.com/track/6mxnpHQMS44u4eQ9IQrus5"
@@ -7220,7 +7274,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 134318,
       "name": "Sunny Side",
       "url": "https://open.spotify.com/track/1JywCZds4lp3TBWaWX9VCc"
@@ -7242,6 +7296,24 @@
       "duration_ms": 134318,
       "name": "Sunny Side",
       "url": "https://open.spotify.com/track/6w7XfL3G07XIolgpUaJOUF"
+    },
+    {
+      "album": {
+        "name": "Sunny Side Up",
+        "url": "https://open.spotify.com/album/0zl4VbPHBAtR1zhucRvmyY"
+      },
+      "artists": [
+        {
+          "name": "Euphemism",
+          "url": "https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118604,
+      "name": "Sunny Side Up",
+      "url": "https://open.spotify.com/track/501Cc7uHAE8rUkE1ey5P5k"
     },
     {
       "album": {
@@ -8382,7 +8454,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 116000,
       "name": "Voxter",
       "url": "https://open.spotify.com/track/7aoKOVATErohs5ebJmeIlt"

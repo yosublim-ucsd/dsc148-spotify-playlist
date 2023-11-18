@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/317l1YGA14Vl2sRaVL8INT.md) - [plain]
 
 > Its pop punk, its the best
 
-[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 44,150 likes - 114 songs - 6 hr 9 min
+[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 44,152 likes - 114 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

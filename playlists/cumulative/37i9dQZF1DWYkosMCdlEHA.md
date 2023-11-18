@@ -4,7 +4,7 @@
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-78 songs - 5 hr 2 min
+79 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Versos Simples \- Ao Vivo](https://open.spotify.com/track/3REzLdUlfQRpRG6psodExG) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH), [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Ao Vivo em Buenos Aires](https://open.spotify.com/album/6awNZk5um5gkMuPZ8Kg8BD) | 3:07 | 2023-07-07 |  |
 | [Você Me Encantou Demais \- Ao Vivo](https://open.spotify.com/track/5iI2yN0RGxzFgdzlcQsTHi) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i) | 3:31 | 2023-07-07 |  |
 | [Vá Viver \- Acústico / Ao Vivo](https://open.spotify.com/track/6TuiSfDGYyVZ7C5fxKOszw) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Acústico Na Casa Do Lago \(Acústico / Ao Vivo\)](https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60) | 3:25 | 2023-07-07 |  |
-| [Zoio De Lula \- Ao Vivo](https://open.spotify.com/track/5LEVrEIMJ63r9w6BGu6BnB) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Rock Acústico Nacional](https://open.spotify.com/album/17XHBdjmUUCDWHm7W6r6bm) | 3:44 | 2023-07-07 |  |
+| [Zoio De Lula \- Ao Vivo](https://open.spotify.com/track/12eZEpPuG8eJl0FVWvLSrP) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Reggae Nacional](https://open.spotify.com/album/23f508qelLXWabAaI6Er7x) | 3:44 | 2023-10-13 |  |
+| [Zoio De Lula \- Ao Vivo](https://open.spotify.com/track/5LEVrEIMJ63r9w6BGu6BnB) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Rock Acústico Nacional](https://open.spotify.com/album/17XHBdjmUUCDWHm7W6r6bm) | 3:44 | 2023-07-07 | 2023-11-18 |
 | [É Bonito de Ver](https://open.spotify.com/track/6JXOaARzGXPf2AFBadmKYt) | [Madayati](https://open.spotify.com/artist/1O2fKaLzlTYxvMe5aY738K) | [É Bonito de Ver](https://open.spotify.com/album/61gzMs1yYECO4jWiZ3I2T3) | 3:21 | 2023-07-07 |  |
 
 \*This playlist was first scraped on 2023-07-10. Prior content cannot be recovered.

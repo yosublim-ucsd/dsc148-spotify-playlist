@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Argeb Lega",
+        "url": "https://open.spotify.com/album/20pQj78Ek0kM2clAVKCPsi"
+      },
+      "artists": [
+        {
+          "name": "Zayed Bin Saber",
+          "url": "https://open.spotify.com/artist/0TNuRg9zAJbDy4chgGD4Cs"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225264,
+      "name": "Argeb Lega",
+      "url": "https://open.spotify.com/track/2p47AbcWY2wDKC1RjEX4jA"
+    },
+    {
+      "album": {
         "name": "Atmna Shoftak",
         "url": "https://open.spotify.com/album/1zu44llZrXAdX0XQgTDSxF"
       },
@@ -942,7 +960,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 247176,
       "name": "\u0627\u0644\u0639\u0634\u0642 \u064a\u062c\u0645\u0639\u0646\u0627",
       "url": "https://open.spotify.com/track/6muHAEoB1eZZeY3KDCbRyW"
@@ -1375,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "\u062d\u0627\u0644\u0629 \u0627\u0644\u0638\u0627\u0645\u064a",
+        "url": "https://open.spotify.com/album/3rSNBkuNZeYZO5zY426S5h"
+      },
+      "artists": [
+        {
+          "name": "\u0641\u0631\u0642\u0629 \u0623\u0628\u0646\u0627\u0621 \u0627\u0644\u0645\u0632\u0627\u0631\u064a\u0639 \u0627\u0644\u062d\u0631\u0628\u064a\u0629",
+          "url": "https://open.spotify.com/artist/3fs6zGBIqV7MzH4auGofUF"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337343,
+      "name": "\u062d\u0627\u0644\u0629 \u0627\u0644\u0638\u0627\u0645\u064a",
+      "url": "https://open.spotify.com/track/6gL56sIf5dmgjNPNMqFbhr"
+    },
+    {
+      "album": {
         "name": "\u062d\u0628 \u062f\u0627\u064a\u0645",
         "url": "https://open.spotify.com/album/2HXnUpiRSKG95hFKj5PXAV"
       },
@@ -1426,6 +1462,28 @@
       "duration_ms": 185015,
       "name": "\u062d\u0628\u0643 \u0633\u0637\u0627",
       "url": "https://open.spotify.com/track/1vSF4Ge4kcKuop1UQyPDyw"
+    },
+    {
+      "album": {
+        "name": "\u062d\u0638 \u0633\u0644\u0633\u0627\u0644\u0647",
+        "url": "https://open.spotify.com/album/7gvR3TlvCPoRe9fVhpYCbk"
+      },
+      "artists": [
+        {
+          "name": "\u063a\u0631\u064a\u0628 \u0627\u0644 \u0645\u062e\u0644\u0635",
+          "url": "https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep"
+        },
+        {
+          "name": "Abdullah Al Mukhles",
+          "url": "https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170089,
+      "name": "\u062d\u0638 \u0633\u0644\u0633\u0627\u0644\u0647",
+      "url": "https://open.spotify.com/track/4RVQJwIJ30oX6p6NRA4Hj1"
     },
     {
       "album": {
@@ -2146,7 +2204,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 231038,
       "name": "\u0637\u064a\u0651\u0628 \u0631\u0627\u0633 \u062d\u0635\u0631\u064a\u0627\u064b",
       "url": "https://open.spotify.com/track/0g4kXlcCcSZHbhTVCEYmRz"
@@ -2200,7 +2258,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 201790,
       "name": "\u0639\u0644\u0645\u0648\u0647",
       "url": "https://open.spotify.com/track/1Oai1tYTHNm8x0O1dPfUK5"
@@ -2222,7 +2280,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 202282,
       "name": "\u063a\u0627\u0628 \u0639\u0646\u064a",
       "url": "https://open.spotify.com/track/2WNwUzT1gr7pL9C4H1rdxI"

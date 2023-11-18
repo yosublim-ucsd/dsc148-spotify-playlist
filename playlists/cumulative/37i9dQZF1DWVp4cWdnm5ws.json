@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover new artists on the horizon this 2023. Cover: DEN\u0232\n",
+  "description": "Discover new artists on the horizon this 2023. Cover: Alamat\n\n",
   "name": "RADAR Philippines",
   "tracks": [
     {
@@ -488,6 +488,24 @@
       "duration_ms": 206740,
       "name": "DADA",
       "url": "https://open.spotify.com/track/34GGrpp24dGP5boVzfC7kS"
+    },
+    {
+      "album": {
+        "name": "IsaPuso",
+        "url": "https://open.spotify.com/album/48SFmU4Nkq63p7Oxy6PAzl"
+      },
+      "artists": [
+        {
+          "name": "Alamat",
+          "url": "https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150720,
+      "name": "Dagundong",
+      "url": "https://open.spotify.com/track/3cAcIiIJ7VJeKjTqeTzjMf"
     },
     {
       "album": {
@@ -1447,6 +1465,24 @@
     },
     {
       "album": {
+        "name": "LOKA",
+        "url": "https://open.spotify.com/album/0xpuBL6ayhNOiewu8ftmXy"
+      },
+      "artists": [
+        {
+          "name": "G22",
+          "url": "https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153530,
+      "name": "LOKA",
+      "url": "https://open.spotify.com/track/64WXbwaUOH3McbHrcxLe7l"
+    },
+    {
+      "album": {
         "name": "Made For All",
         "url": "https://open.spotify.com/album/0SOSnP1ZoEnNwRg3ioo4C7"
       },
@@ -1776,6 +1812,24 @@
       "duration_ms": 297001,
       "name": "Pagsamo",
       "url": "https://open.spotify.com/track/34YfLWuoxLEcvJQNxdI9P2"
+    },
+    {
+      "album": {
+        "name": "Pantropiko",
+        "url": "https://open.spotify.com/album/3NYOeU6Uwj2FP1Zz1rWVz8"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225466,
+      "name": "Pantropiko",
+      "url": "https://open.spotify.com/track/6Csrqur3IfnVp0EtHskjMw"
     },
     {
       "album": {
@@ -2848,6 +2902,24 @@
       "duration_ms": 344800,
       "name": "You'll Be Safe Here",
       "url": "https://open.spotify.com/track/4whLOE7hwNIAykoMcSZmvO"
+    },
+    {
+      "album": {
+        "name": "Yugto",
+        "url": "https://open.spotify.com/album/4hU4tzVSx4DBxMk0FLlvCS"
+      },
+      "artists": [
+        {
+          "name": "Paul Pablo",
+          "url": "https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252215,
+      "name": "Yugto",
+      "url": "https://open.spotify.com/track/2S4oKxRl8Dh1rGzqWccCde"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws"

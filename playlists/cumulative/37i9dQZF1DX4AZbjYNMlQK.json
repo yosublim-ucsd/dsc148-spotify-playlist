@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Fresh Christmas songs para los d\u00edas festivos. Cover: DannyLux",
+  "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Matisse",
   "name": "Feliz Navidad",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 190205,
       "name": "Adornemos los Salones",
       "url": "https://open.spotify.com/track/2nvVj2x4cwZBY8c6b2KYP1"
@@ -389,6 +389,28 @@
     },
     {
       "album": {
+        "name": "Una Navidad Con Matisse",
+        "url": "https://open.spotify.com/album/3B994PoU9wHZrxXFdUDOTo"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160862,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/0q2BYFO6ilmH7noQfXIGVZ"
+    },
+    {
+      "album": {
         "name": "Noel Es Navidad (Deluxe)",
         "url": "https://open.spotify.com/album/3xSNVFvU4c5wMtsIXsA2T5"
       },
@@ -556,7 +578,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 152766,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/6fWLEZCVpWpmOX7cVN6dqX"
@@ -734,7 +756,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 166891,
       "name": "Duende",
       "url": "https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot"
@@ -756,6 +778,24 @@
       "duration_ms": 325397,
       "name": "El A\u00f1o Que Vendr\u00e1 Querido Amigo",
       "url": "https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9"
+    },
+    {
+      "album": {
+        "name": "Somos Navidad",
+        "url": "https://open.spotify.com/album/3N4AKHUNLfkdLpPTsBpWea"
+      },
+      "artists": [
+        {
+          "name": "KYEN?ES?",
+          "url": "https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "El A\u00f1o Viejo",
+      "url": "https://open.spotify.com/track/1QaJZFc1feLLJRuZm7EJ46"
     },
     {
       "album": {
@@ -954,7 +994,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 215310,
       "name": "Esta Navidad",
       "url": "https://open.spotify.com/track/4NaX0GnWbYcgTSkmvRLYYC"
@@ -972,7 +1012,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 182000,
       "name": "ESTE DICIEMBRE",
       "url": "https://open.spotify.com/track/0ZmIPz8CGosi4bwranJTbT"
@@ -1110,7 +1150,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 255125,
       "name": "Human Nature - En Espa\u00f1ol",
       "url": "https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB"
@@ -1132,6 +1172,28 @@
       "duration_ms": 178427,
       "name": "I'll Be Home For Christmas",
       "url": "https://open.spotify.com/track/6SiKqI0vm3N5NBjdgM2V9m"
+    },
+    {
+      "album": {
+        "name": "Noel Es Navidad",
+        "url": "https://open.spotify.com/album/3npLN8rO2sxZb2jbzEWmFI"
+      },
+      "artists": [
+        {
+          "name": "Noel Schajris",
+          "url": "https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh"
+        },
+        {
+          "name": "Jesus Molina",
+          "url": "https://open.spotify.com/artist/7Gl7yiOLDSRr1cZyPwpGv4"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185973,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/71Eb9RfYpKqmUB5kUkjfHt"
     },
     {
       "album": {
@@ -1656,7 +1718,7 @@
       ],
       "date_added": "2022-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 181574,
       "name": "Mi Regalito Eres Tu",
       "url": "https://open.spotify.com/track/2EgcqhH32EIu8qlcuAnToy"
@@ -1881,6 +1943,24 @@
     },
     {
       "album": {
+        "name": "Navidad Sin Ti (Radio Version)",
+        "url": "https://open.spotify.com/album/02PaeXrAxgcSm2IdQE7upl"
+      },
+      "artists": [
+        {
+          "name": "Ralphy Dreamz",
+          "url": "https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192960,
+      "name": "Navidad Sin Ti - Radio Version",
+      "url": "https://open.spotify.com/track/2Db34X2w44TI9rJdqUDjHB"
+    },
+    {
+      "album": {
         "name": "Navidad, Feel The Magic",
         "url": "https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO"
       },
@@ -1935,6 +2015,24 @@
     },
     {
       "album": {
+        "name": "Navisad",
+        "url": "https://open.spotify.com/album/4CvfMBqnVE3Hfltq69KDEI"
+      },
+      "artists": [
+        {
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186775,
+      "name": "Navisad",
+      "url": "https://open.spotify.com/track/4DrWtI8bBJ8rHqV2h53T9o"
+    },
+    {
+      "album": {
         "name": "Noche de Paz",
         "url": "https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW"
       },
@@ -1976,6 +2074,24 @@
       "duration_ms": 191965,
       "name": "Noche De Paz",
       "url": "https://open.spotify.com/track/0bxz99lTmipy9D9MXcRRke"
+    },
+    {
+      "album": {
+        "name": "Noche de Paz - Recorded at Electric Lady Studios NYC - Spotify Studios NYC",
+        "url": "https://open.spotify.com/album/6ko0lFEORJ1r844s60Zh3f"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124989,
+      "name": "Noche de Paz - Recorded at Electric Lady Studios NYC - Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6lxZad9QvvupcZmt0BwKPJ"
     },
     {
       "album": {
@@ -2102,7 +2218,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 177329,
       "name": "Para Navidad",
       "url": "https://open.spotify.com/track/7GX2qkdqQmi8rDNkl5terB"
@@ -2737,6 +2853,24 @@
     },
     {
       "album": {
+        "name": "Un Vaquero En Navidad (Spotify Singles Holiday)",
+        "url": "https://open.spotify.com/album/53N3BvckuE8dwVPMNNNdfB"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233337,
+      "name": "Un Vaquero En Navidad - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/1nOpu7a0wobR8Fa9zUqS2s"
+    },
+    {
+      "album": {
         "name": "Una Navidad Sin Nieve",
         "url": "https://open.spotify.com/album/54ylQUQYODLfUCIZ782l7G"
       },
@@ -2972,6 +3106,24 @@
       "duration_ms": 217024,
       "name": "Viva La Navidad",
       "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
+    },
+    {
+      "album": {
+        "name": "Volvernos a Encontrar",
+        "url": "https://open.spotify.com/album/6oIN2uymnjEuWbrgMzE4X1"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186130,
+      "name": "Volvernos a Encontrar",
+      "url": "https://open.spotify.com/track/2rvfoWKvT0axDiXB96X4jO"
     },
     {
       "album": {

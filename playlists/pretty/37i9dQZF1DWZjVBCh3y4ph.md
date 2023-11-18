@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Maureen x Mik L
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,855 likes - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,937 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [En sang](https://open.spotify.com/track/0uUF8ZLICJbqW0WrnGpbqj) | [ADJA](https://open.spotify.com/artist/4f8FFKe4ZyOO8tNMxz3Ijp) | [En sang](https://open.spotify.com/album/5PB3y3i9V2mkvHU3P3jTbP) | 3:07 |
 | 40 | [Stop](https://open.spotify.com/track/2eYCmlVnHxy838TI9LKE05) | [Colette GAZE](https://open.spotify.com/artist/2rRmWyQHBvAMVd1O4q9Q6U) | [Stop](https://open.spotify.com/album/1V7JUIgcybhG8s3SRzpD4V) | 3:14 |
 
-Snapshot ID: `MCwzYjk3YTk2Nzk3NmI0MDkyNmY1ZjdlYmUyYWYwNTRhMGM5MGRhMjk5`
+Snapshot ID: `MCxhYmU0ZGZkYWFhOTU4NWY5NzExYWQ5NDAzODI3M2Q4OGEwZDY3OThi`

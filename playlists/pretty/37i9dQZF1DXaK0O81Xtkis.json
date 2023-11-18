@@ -1,12 +1,12 @@
 {
   "description": "make it pop! cover: Will Linley",
-  "num_followers": 211112,
+  "num_followers": 211149,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODFkYTRmOTI0OGI0Y2Q0YzYxMjkwY2MyYTNiM2QwM2MyZDkyNjRm",
+  "snapshot_id": "MCxjNzJjYWZkYzVhODZlMjUwNTRkOWYxN2EzODk0Y2ViYTc1OGIyNmVm",
   "tracks": [
     {
       "added_at": "2023-11-10 05:41:14",
@@ -23,6 +23,22 @@
       "duration_ms": 193386,
       "name": "Magic",
       "url": "https://open.spotify.com/track/1ozTHWtYAhhLeJ2CejjNyF"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Yes I'm A Mess",
+        "url": "https://open.spotify.com/album/0mbu9tcivddH45l4FuazT4"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 164973,
+      "name": "Yes I'm A Mess",
+      "url": "https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT"
     },
     {
       "added_at": "2023-11-10 05:41:14",
@@ -57,6 +73,22 @@
       "url": "https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I"
     },
     {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "I Hope It All Works Out",
+        "url": "https://open.spotify.com/album/4Y7hxshp2MXAMXW5BwqZ6s"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 167083,
+      "name": "I Hope It All Works Out",
+      "url": "https://open.spotify.com/track/2u2claSA1aCUMrVRsBD4Ik"
+    },
+    {
       "added_at": "2023-11-10 05:41:14",
       "album": {
         "name": "Yard Sale",
@@ -73,6 +105,38 @@
       "url": "https://open.spotify.com/track/7aphaNjz17A97xNyD00LBn"
     },
     {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "forever",
+        "url": "https://open.spotify.com/album/3Tp9D49OesqcRIgAArAlye"
+      },
+      "artists": [
+        {
+          "name": "ellis",
+          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
+        }
+      ],
+      "duration_ms": 240067,
+      "name": "forever",
+      "url": "https://open.spotify.com/track/4qkgz8ubKhUeqQohjjM2ey"
+    },
+    {
+      "added_at": "2023-11-10 05:41:14",
+      "album": {
+        "name": "Good To Be",
+        "url": "https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 147166,
+      "name": "Good To Be",
+      "url": "https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6"
+    },
+    {
       "added_at": "2023-11-10 05:41:14",
       "album": {
         "name": "The Day We Met",
@@ -87,6 +151,22 @@
       "duration_ms": 156284,
       "name": "Don't Hate Me When It's Over",
       "url": "https://open.spotify.com/track/76pV06GMcz7OMVEnmjV83e"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Baby Blue",
+        "url": "https://open.spotify.com/album/4SZISLudRb6XD44SO2NBtZ"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 124451,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/5ZDdx332AQj2n6TOW0LlZU"
     },
     {
       "added_at": "2023-11-10 05:41:14",
@@ -135,6 +215,22 @@
       "duration_ms": 159981,
       "name": "i should call my friends",
       "url": "https://open.spotify.com/track/7u0JipKqt3pIxbvgjOqd4R"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "4321",
+        "url": "https://open.spotify.com/album/5cqnDDzRKXFsjpax8cY2yo"
+      },
+      "artists": [
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "duration_ms": 232957,
+      "name": "4321",
+      "url": "https://open.spotify.com/track/22ZjKxmxtMXoAnJSN9gpq5"
     },
     {
       "added_at": "2023-11-10 05:41:14",
@@ -199,6 +295,22 @@
       "duration_ms": 223051,
       "name": "Swinging at the Stars",
       "url": "https://open.spotify.com/track/0plgpP6pbcptrfbCEHKKcA"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Sweet Moment",
+        "url": "https://open.spotify.com/album/2nFkX9nkVdBdXvTSt1zXqL"
+      },
+      "artists": [
+        {
+          "name": "Mackenzy Mackay",
+          "url": "https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl"
+        }
+      ],
+      "duration_ms": 127204,
+      "name": "Sweet Moment",
+      "url": "https://open.spotify.com/track/3C29msNvApwxpOxhuqD2rX"
     },
     {
       "added_at": "2023-11-10 05:41:14",
@@ -267,22 +379,6 @@
       "duration_ms": 190452,
       "name": "Strawberry Ice Cream",
       "url": "https://open.spotify.com/track/5zd3ZyWEjTvVyiyKocCPqT"
-    },
-    {
-      "added_at": "2023-11-10 05:41:14",
-      "album": {
-        "name": "Good To Be",
-        "url": "https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 147166,
-      "name": "Good To Be",
-      "url": "https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6"
     },
     {
       "added_at": "2023-11-10 05:41:14",

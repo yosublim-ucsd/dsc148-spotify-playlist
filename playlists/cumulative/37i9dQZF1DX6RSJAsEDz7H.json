@@ -866,10 +866,32 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 471826,
       "name": "Disco Devil",
       "url": "https://open.spotify.com/track/6vX22fwRmM4bI0WpWtAvuJ"
+    },
+    {
+      "album": {
+        "name": "The Best of Lee Perry",
+        "url": "https://open.spotify.com/album/2KAaDokIGE8kXHEwisFk3X"
+      },
+      "artists": [
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        },
+        {
+          "name": "Full Experience",
+          "url": "https://open.spotify.com/artist/0uskrxhZacFBjwhUUEcJZv"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471826,
+      "name": "Disco Devil (Extended Version)",
+      "url": "https://open.spotify.com/track/6wQIJNrcLbbGzkOHv3ZUId"
     },
     {
       "album": {
@@ -1787,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Shout At The Devil",
+        "url": "https://open.spotify.com/album/61tegsknhtO0WKmkyPqvly"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247840,
+      "name": "Looks That Kill",
+      "url": "https://open.spotify.com/track/1Cznl5CD5aaEYMfJq1l9Hd"
+    },
+    {
+      "album": {
         "name": "The Dirt Soundtrack",
         "url": "https://open.spotify.com/album/1FeIa1My6QQ6oQjUYxI36O"
       },
@@ -1816,7 +1856,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 247840,
       "name": "Looks That Kill",
       "url": "https://open.spotify.com/track/74BDVL4TC3P8wyrYViuVjO"

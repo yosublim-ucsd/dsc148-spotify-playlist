@@ -4450,7 +4450,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 212430,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/2UWoUC9m7nmewGGKujsJOs"
@@ -6732,7 +6732,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 169250,
       "name": "DEMO #1: Karol",
       "url": "https://open.spotify.com/track/4RjAW7vhj1CHEvmBYpbzkE"
@@ -11498,7 +11498,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 221714,
       "name": "Heridas",
       "url": "https://open.spotify.com/track/1bectpQhg99WBgecDJIntY"
@@ -12264,7 +12264,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 73624,
       "name": "idyll",
       "url": "https://open.spotify.com/track/4DDUkQ9uqDpWBzJQuPErrI"
@@ -14038,6 +14038,24 @@
       "duration_ms": 208065,
       "name": "LEFT RIGHT",
       "url": "https://open.spotify.com/track/3v5o91PrUtf0nmO6j8J7dZ"
+    },
+    {
+      "album": {
+        "name": "Libertad",
+        "url": "https://open.spotify.com/album/7qOKVfkQG7Wu2yqKOOaYBG"
+      },
+      "artists": [
+        {
+          "name": "FiltraKlein",
+          "url": "https://open.spotify.com/artist/5n01UDkoC8H8HuPxiYAr1X"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120581,
+      "name": "Libertad",
+      "url": "https://open.spotify.com/track/1hV979H1ZWygHrEUP8CNaP"
     },
     {
       "album": {
@@ -28228,7 +28246,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 237573,
       "name": "Un Ramito De Violetas",
       "url": "https://open.spotify.com/track/3exX0sgCdCHq91Emx4z2Fz"

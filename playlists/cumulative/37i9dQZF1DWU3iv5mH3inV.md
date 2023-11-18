@@ -4,7 +4,7 @@
 
 > Dembow dominicano to el día\. Foto: Tokischa
 
-414 songs - 22 hr 32 min
+415 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Amaneci Contento](https://open.spotify.com/track/7LYul65sg4QXvejKlzqN4t) | [Secreto "El Famoso Biberon"](https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf) | [Exito, Vol 1](https://open.spotify.com/album/3ZrQLEdE1eL42Z4IRYcfai) | 3:59 | 2022-05-28 | 2023-03-04 |
 | [Amaneci Contento](https://open.spotify.com/track/2Al5sYcnRhzNnhz7GyPCyp) | [Secreto "El Famoso Biberon"](https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf) | [Exitos, Vol\. 1](https://open.spotify.com/album/5xvwSHItuJUUyeklBpjJdZ) | 3:59 | 2021-12-10 | 2022-06-30 |
 | [Ando en 30](https://open.spotify.com/track/26MGlZKXyaJ5ElE5wn7ZDW) | [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e), [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul) | [Ando en 30](https://open.spotify.com/album/0kaO1SK6vJmRhLh11W2d6D) | 3:00 | 2022-03-18 |  |
-| [Ayayai](https://open.spotify.com/track/0YI55FQIlBuy7CKSVZ5ygp) | [Breycoo](https://open.spotify.com/artist/5Sewfh7SjZE6gheTG6L35H), [El Pepo Show](https://open.spotify.com/artist/12DrMYv3haAHRxjWzxVRFB) | [Ayayai](https://open.spotify.com/album/5La0K5s0ftUoLMUGAAHgjG) | 2:46 | 2023-02-18 |  |
+| [Ayayai](https://open.spotify.com/track/0YI55FQIlBuy7CKSVZ5ygp) | [Breycoo](https://open.spotify.com/artist/5Sewfh7SjZE6gheTG6L35H), [El Pepo Show](https://open.spotify.com/artist/12DrMYv3haAHRxjWzxVRFB) | [Ayayai](https://open.spotify.com/album/5La0K5s0ftUoLMUGAAHgjG) | 2:46 | 2023-02-18 | 2023-11-18 |
 | [Bailalo](https://open.spotify.com/track/5qq6alfo5oP3H2vAdnAXkW) | [El Fother](https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Bailalo](https://open.spotify.com/album/1rfDlUcAZZALSkz3FWGbwQ) | 4:10 | 2021-12-10 | 2022-07-28 |
 | [Bailalo](https://open.spotify.com/track/0WIZPUEYMsLBMidzp9wf5j) | [El Fother](https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug), [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [HIT DEMBOW](https://open.spotify.com/album/53nhDhd29gXKOnE3vUS1DR) | 4:10 | 2022-05-28 |  |
 | [Bailalo](https://open.spotify.com/track/7nO4lwCsURRXPjHo2ogvyF) | [Es Ariiel](https://open.spotify.com/artist/5GZ8MDYCuRFNoWG6Hepilz) | [Bailalo](https://open.spotify.com/album/7sGSTHZcGu1bMJ5amdW648) | 3:30 | 2022-01-04 | 2022-07-14 |
@@ -110,6 +110,7 @@
 | [El Humo](https://open.spotify.com/track/5FdOHGl0IWBXPfsxr5oiWs) | [Atomic Otro Way](https://open.spotify.com/artist/05i5DIXDf4Ai4NEPEi3uBZ) | [Hip Hop Dominicano](https://open.spotify.com/album/4B1KvVgA8s8UipqrKoAXWn) | 3:19 | 2021-12-10 | 2022-07-05 |
 | [El Kun Kun](https://open.spotify.com/track/6qVgUhyZcP3SqEC44DpMB8) | [Mr Black El Presidente](https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Darmiko](https://open.spotify.com/artist/6AeznZajNbXUulT7W4tK5l) | [El Kun Kun](https://open.spotify.com/album/20w0Oi13axY5skXpwhtuVZ) | 3:01 | 2023-02-18 |  |
 | [El Maiz](https://open.spotify.com/track/7h1mAn097dAvRuXCByrRTX) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [Exitos del Dembow](https://open.spotify.com/album/58UaKpvZpeuefnHUhIrap0) | 3:43 | 2022-01-04 | 2022-07-28 |
+| [El Mario De Tu Mujer](https://open.spotify.com/track/1f1G5MnOof1LHXVAxsqEPJ) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf), [Sensato](https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS) | [Exitos](https://open.spotify.com/album/670TJ2hsrv8Lqump0NmLoN) | 4:07 | 2023-10-19 |  |
 | [El Mario de Tu Mujer](https://open.spotify.com/track/2CC8kheTSKvDiNbJsRMvBU) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf), [Sensato](https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS) | [Exitos](https://open.spotify.com/album/6DPfFTw3XRVYC1BjKa8UZP) | 4:07 | 2022-05-28 | 2023-11-16 |
 | [El Mario de Tu Mujer \(feat\. Sensato\)](https://open.spotify.com/track/02DaDbZtjht8xRERVwL7Zb) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf), [Sensato](https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS) | [Exitos](https://open.spotify.com/album/42RU6umN39He1k4je9NuXr) | 4:06 | 2021-12-10 | 2022-07-28 |
 | [El Maíz](https://open.spotify.com/track/0y2ZDd5F0ufYtxyLLUIEH6) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj) | [El Maíz](https://open.spotify.com/album/1aeojoH4LbCtGiLKyUOqRr) | 3:43 | 2023-05-26 |  |

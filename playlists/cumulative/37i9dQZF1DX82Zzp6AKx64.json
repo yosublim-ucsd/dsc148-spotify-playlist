@@ -704,7 +704,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 278858,
       "name": "Don't Go Away Mad (Just Go Away) - 2021 - Remaster",
       "url": "https://open.spotify.com/track/4kXV4Kf4IeeA9Ah9RH3VY1"
@@ -1035,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "The Time of the Oath",
+        "url": "https://open.spotify.com/album/1NWq90Tc3ZTnKnpUXT7dTH"
+      },
+      "artists": [
+        {
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234533,
+      "name": "Forever and One (Neverland)",
+      "url": "https://open.spotify.com/track/1hMT8qwcJyFgbsbMwTBcp5"
+    },
+    {
+      "album": {
         "name": "The Headless Children",
         "url": "https://open.spotify.com/album/73tznjCvNu9tDQW5jcrglq"
       },
@@ -1334,7 +1352,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 239080,
       "name": "Home Sweet Home",
       "url": "https://open.spotify.com/track/2C0hJUVjp7FSchyhYiceJq"
@@ -1838,9 +1856,9 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-19",
+      "date_removed": null,
       "duration_ms": 287533,
-      "name": "Life Goes On - Remastered",
+      "name": "Life Goes On - Remastered 2003",
       "url": "https://open.spotify.com/track/2OWKsyrgUINadOG21dR0Fh"
     },
     {
@@ -2684,7 +2702,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-14",
+      "date_removed": null,
       "duration_ms": 283933,
       "name": "Sometimes She Cries",
       "url": "https://open.spotify.com/track/0m5RdyFFcOKhut3sGkeWHG"
@@ -3570,7 +3588,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 270186,
       "name": "Without You",
       "url": "https://open.spotify.com/track/2Pntw3RoGXhANFihOS8XyD"

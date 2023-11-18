@@ -1863,6 +1863,24 @@
     },
     {
       "album": {
+        "name": "Jul Jul Str\u00e5lande Jul",
+        "url": "https://open.spotify.com/album/5BXVy2bviNY6oL6QVp0a0q"
+      },
+      "artists": [
+        {
+          "name": "Alex Lehtonen",
+          "url": "https://open.spotify.com/artist/2Qs1BrpMAPz379lAsH39Qb"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Jul Jul Str\u00e5lande Jul",
+      "url": "https://open.spotify.com/track/2MLFCn2PCIPvefTxZ1DBha"
+    },
+    {
+      "album": {
         "name": "Jul jul str\u00e5lande jul",
         "url": "https://open.spotify.com/album/0VMWJC1J2Rq9APjJNtTL7s"
       },
@@ -2079,6 +2097,24 @@
     },
     {
       "album": {
+        "name": "O Come, O Come, Emmanuel",
+        "url": "https://open.spotify.com/album/0YtWJyMypMhXHXtzbvZ5r8"
+      },
+      "artists": [
+        {
+          "name": "Cedric Everglen",
+          "url": "https://open.spotify.com/artist/4Y7mB4gR5LDCmloQWn9oEZ"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148541,
+      "name": "O Come, O Come, Emmanuel",
+      "url": "https://open.spotify.com/track/1cM0pwwhTWwgivR0eQOyl1"
+    },
+    {
+      "album": {
         "name": "Advent",
         "url": "https://open.spotify.com/album/2Jxr4H0uHLKyfTcJT0fRvK"
       },
@@ -2090,7 +2126,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 200000,
       "name": "O Come, O Come, Emmanuel",
       "url": "https://open.spotify.com/track/35gC0HgthUIWZKj2gtLLD2"
@@ -2144,10 +2180,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 141209,
       "name": "O Little Town of Bethlehem",
       "url": "https://open.spotify.com/track/1hmwBO0NO72Kn6jcRubbXZ"
+    },
+    {
+      "album": {
+        "name": "O Little Town of Bethlehem",
+        "url": "https://open.spotify.com/album/7nZNe41s9JDCtvWr4rRzdT"
+      },
+      "artists": [
+        {
+          "name": "Silas Northwind",
+          "url": "https://open.spotify.com/artist/3GY0u4Ib7ByBVi0JQvIyND"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157589,
+      "name": "O Little Town of Bethlehem",
+      "url": "https://open.spotify.com/track/2Vgvh2D6l10uK4xaJb4vi2"
     },
     {
       "album": {

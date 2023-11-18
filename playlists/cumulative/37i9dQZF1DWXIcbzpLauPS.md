@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: Hollow Front
 
-767 songs - 2 day 0 hr 7 min
+768 songs - 2 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Castaway](https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Castaway](https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2) | 3:31 | 2023-09-15 |  |
 | [Cathedral](https://open.spotify.com/track/4Y5xe7x4gQkhgOwLvlGNY8) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [Cathedral](https://open.spotify.com/album/7lms8BTHcXigzIUEkTNUmK) | 2:55 | 2022-07-13 | 2022-07-18 |
 | [Caved In](https://open.spotify.com/track/2BAuNSD3o86LargMzbXNrQ) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Caved In](https://open.spotify.com/album/0pI5Rz0PX9eo0CxUulTOaG) | 2:58 | 2022-07-13 | 2022-07-23 |
-| [Cellar Door](https://open.spotify.com/track/0seYEimfvmRFTXxODTNcqb) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cellar Door](https://open.spotify.com/album/2On9UxYqSqp8hBwgiGS9F1) | 4:43 | 2023-10-27 |  |
+| [Cellar Door](https://open.spotify.com/track/0seYEimfvmRFTXxODTNcqb) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cellar Door](https://open.spotify.com/album/2On9UxYqSqp8hBwgiGS9F1) | 4:43 | 2023-10-27 | 2023-11-18 |
+| [Cellar Door](https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cellar Door](https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt) | 4:43 | 2023-10-27 |  |
 | [Chainbreaker](https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD) | [Shrine of Malice](https://open.spotify.com/artist/6NPqqqYcR7tAEHL4ORm6pQ) | [Chainbreaker](https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B) | 4:35 | 2022-07-13 | 2022-07-21 |
 | [Changes](https://open.spotify.com/track/1UE2CNieJRlvAL5xxyQgPT) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN), [Nico Sallach](https://open.spotify.com/artist/02UmgKnxslxUbrVpHhF9bb) | [Changes](https://open.spotify.com/album/4gDPDFL9lxg1865PN8niQB) | 3:47 | 2022-01-07 | 2022-02-11 |
 | [CHAOS CORP](https://open.spotify.com/track/5LqIY3LZUgdvOqfGb9H1gx) | [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4), [Sadzilla](https://open.spotify.com/artist/6B6IodMdAjoGX2fZuYyGpc), [Depths of Titan](https://open.spotify.com/artist/3jSBNEKdOdu1tuHSjx62q8) | [CHAOS CORP](https://open.spotify.com/album/4IJiZ1DlWNSsIAk2pEDlal) | 3:41 | 2022-06-24 | 2022-09-15 |

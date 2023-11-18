@@ -1,13 +1,45 @@
 {
-  "description": "where folk flowers bloom. cover: Searows <3",
-  "num_followers": 71884,
+  "description": "where folk flowers bloom. cover: John Vincent III <3",
+  "num_followers": 71994,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTc0YTdmNDRlOGViYmY3ZGM1Njg3MDY4ZjlmZDc4YWI4MDdlODMw",
+  "snapshot_id": "MCxiYmNhNWYyOTU0YTBiMDMwODJkZDlhMjNlMWM0NDU1ZGQyMzgwNTQ4",
   "tracks": [
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Songs For The Canyon",
+        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Bluebird Singing",
+      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/2SLgmMY9hC8pM6qPwNRBWK"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/2LF1EjI7vMM37yRUzEWk8s"
+    },
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
@@ -47,18 +79,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "End Of The World",
-        "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
+        "name": "i am not who i was",
+        "url": "https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId"
       },
       "artists": [
         {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
         }
       ],
-      "duration_ms": 389393,
-      "name": "I Can and I Will",
-      "url": "https://open.spotify.com/track/3veBdtlaLO4NH8ZkGyriU4"
+      "duration_ms": 145438,
+      "name": "i am not who i was",
+      "url": "https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -75,6 +107,54 @@
       "duration_ms": 243969,
       "name": "Hitchhiking",
       "url": "https://open.spotify.com/track/4Xus7PhuqSihGgFJJZ1Ayu"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 389393,
+      "name": "I Can and I Will",
+      "url": "https://open.spotify.com/track/3veBdtlaLO4NH8ZkGyriU4"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Springtime Red Tulips",
+        "url": "https://open.spotify.com/album/42pl1MIpxGddTozmgG0or1"
+      },
+      "artists": [
+        {
+          "name": "Bo Staloch",
+          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
+        }
+      ],
+      "duration_ms": 274976,
+      "name": "Springtime Red Tulips",
+      "url": "https://open.spotify.com/track/7jrwX0azm3t7IHqR3B0jNe"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 252850,
+      "name": "Cedar",
+      "url": "https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -127,22 +207,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 252850,
-      "name": "Cedar",
-      "url": "https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Stranger in the Alps (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
       },
@@ -159,22 +223,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "i am not who i was",
-        "url": "https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 145438,
-      "name": "i am not who i was",
-      "url": "https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "The Roads",
         "url": "https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k"
       },
@@ -187,6 +235,26 @@
       "duration_ms": 250597,
       "name": "The Roads",
       "url": "https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "You Could Start A Cult (with Lizzy McAlpine)",
+        "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 194869,
+      "name": "You Could Start A Cult (with Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -299,26 +367,6 @@
       "duration_ms": 277777,
       "name": "October (October Version)",
       "url": "https://open.spotify.com/track/3yNu9MBN7cBxMY17fxinZD"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "You Could Start A Cult (with Lizzy McAlpine)",
-        "url": "https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 194869,
-      "name": "You Could Start A Cult (with Lizzy McAlpine)",
-      "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -437,6 +485,22 @@
       "url": "https://open.spotify.com/track/68jZByx2c1UWtRyIX7gpN7"
     },
     {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Streetsigns",
+        "url": "https://open.spotify.com/album/3ytRP86zw3i2e7VK5dzfej"
+      },
+      "artists": [
+        {
+          "name": "Black Polish",
+          "url": "https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP"
+        }
+      ],
+      "duration_ms": 221500,
+      "name": "Streetsigns",
+      "url": "https://open.spotify.com/track/6WOYkYXFXy80r2GZlqSstW"
+    },
+    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Mole in the Ground",
@@ -547,22 +611,6 @@
       "duration_ms": 163149,
       "name": "In Dreams - Alternative Version",
       "url": "https://open.spotify.com/track/0xJDTRuEuSlP95wHnrLnLx"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "That's Just The Way It Is, Babe",
-        "url": "https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 208253,
-      "name": "That\u2019s Just The Way It Is, Babe",
-      "url": "https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -679,22 +727,6 @@
       "duration_ms": 221571,
       "name": "Willows",
       "url": "https://open.spotify.com/track/0skYZXWfbJtGlmRRRvQI4A"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/2SLgmMY9hC8pM6qPwNRBWK"
-      },
-      "artists": [
-        {
-          "name": "Henrik",
-          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/2LF1EjI7vMM37yRUzEWk8s"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -855,22 +887,6 @@
       "duration_ms": 133069,
       "name": "there they go",
       "url": "https://open.spotify.com/track/1Tr4Zir6TrVDXtJk4TRm6j"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Springtime Red Tulips",
-        "url": "https://open.spotify.com/album/42pl1MIpxGddTozmgG0or1"
-      },
-      "artists": [
-        {
-          "name": "Bo Staloch",
-          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
-        }
-      ],
-      "duration_ms": 274976,
-      "name": "Springtime Red Tulips",
-      "url": "https://open.spotify.com/track/7jrwX0azm3t7IHqR3B0jNe"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1352,7 +1368,7 @@
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Never Learned To Dance",
-        "url": "https://open.spotify.com/album/5ms3VD6BeAQjId7vGPPznI"
+        "url": "https://open.spotify.com/album/15DLC8piIZiAbi5g5tfOHG"
       },
       "artists": [
         {
@@ -1362,7 +1378,7 @@
       ],
       "duration_ms": 224080,
       "name": "Never Learned To Dance",
-      "url": "https://open.spotify.com/track/3u6qjHq0y3rmXRQa4iz9OD"
+      "url": "https://open.spotify.com/track/6Q91XsqLpcBOK71BsCNl3U"
     },
     {
       "added_at": "2023-11-10 05:00:00",

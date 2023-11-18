@@ -919,6 +919,46 @@
     },
     {
       "album": {
+        "name": "EN LA MA\u00d1ANA",
+        "url": "https://open.spotify.com/album/6F0xELstPslG3d9Fqv2hRX"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153391,
+      "name": "EN LA MA\u00d1ANA",
+      "url": "https://open.spotify.com/track/2G7KZHdWfYtoosTp7ssdsv"
+    },
+    {
+      "album": {
+        "name": "Enam\u00f3rate",
+        "url": "https://open.spotify.com/album/17FLF5NkLfUNkEYjQkaO32"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147785,
+      "name": "Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/332fAqelC3Uik91QPxPcB8"
+    },
+    {
+      "album": {
         "name": "Esa Noche",
         "url": "https://open.spotify.com/album/2b6gyhvMfDym3AhymhDXIm"
       },
@@ -986,7 +1026,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 172837,
       "name": "FANTASMAS",
       "url": "https://open.spotify.com/track/5oc0avV70I9FIJIRyIeRU4"
@@ -1665,6 +1705,24 @@
     },
     {
       "album": {
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188930,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt"
+    },
+    {
+      "album": {
         "name": "Muchacha",
         "url": "https://open.spotify.com/album/1m4htGCBmlM2TzVk3IonWP"
       },
@@ -2104,7 +2162,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 226666,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/6NLQEgFuVhTXU3pekoaKAF"
@@ -2126,7 +2184,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 216284,
       "name": "Qu\u00e9date Cerquita",
       "url": "https://open.spotify.com/track/1Dxg9BakAeiYcQt31hKt8g"
@@ -2436,6 +2494,24 @@
       "duration_ms": 152066,
       "name": "Sin Tab\u00fa",
       "url": "https://open.spotify.com/track/3XBoKsUcft4IFc3y10SDeW"
+    },
+    {
+      "album": {
+        "name": "LOS MUCHACHOS",
+        "url": "https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199591,
+      "name": "SINCERAMENTE",
+      "url": "https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88"
     },
     {
       "album": {
@@ -2778,7 +2854,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 137684,
       "name": "Temperatura",
       "url": "https://open.spotify.com/track/2UfpfV2WxigRmD18l9ZljV"

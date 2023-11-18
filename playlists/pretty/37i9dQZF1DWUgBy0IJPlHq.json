@@ -1,28 +1,44 @@
 {
-  "description": "A new shade of Country. Cover: Goldie Boutilier",
-  "num_followers": 491459,
+  "description": "A new shade of Country. Cover: Flatland Cavalry",
+  "num_followers": 491615,
   "original_name": "Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzgyMDA3NjJmMDIxZGNkZjI2ZWFiMGNmMzQzOGQ2Yzg3ODc0N2Ux",
+  "snapshot_id": "MCxkNGE3M2Q5MzA2NjQ0Yjg5NDExZTJiMzY3ZWU3MjMxMDI5NjJjMTIy",
   "tracks": [
     {
-      "added_at": "2023-11-10 05:00:00",
+      "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Cowboy Gangster Politician",
-        "url": "https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc"
+        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
       },
       "artists": [
         {
-          "name": "Goldie Boutilier",
-          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Cowboy Gangster Politician",
-      "url": "https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo"
+      "duration_ms": 229357,
+      "name": "Wool - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/4hoqP9dIAu2Nk6u5LvxOR4"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Atlanta Millionaires Club",
+        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Kingston",
+      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -45,6 +61,38 @@
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "duration_ms": 169243,
+      "name": "Winter's Come and Gone - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/7vN6yDVTOphQUXJ1leQgPB"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Life Lessons",
+        "url": "https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "duration_ms": 195505,
+      "name": "Life Lessons",
+      "url": "https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM"
+    },
+    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "No Better Time",
@@ -61,20 +109,20 @@
       "url": "https://open.spotify.com/track/3fNV0e9te9ZJeGEvSPR6N5"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
+      "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Wandering Star",
-        "url": "https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab"
+        "name": "Life & Love",
+        "url": "https://open.spotify.com/album/6kHaj9UYr9j0WB3XgtvZkO"
       },
       "artists": [
         {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+          "name": "Nolan Taylor",
+          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
         }
       ],
-      "duration_ms": 253965,
-      "name": "Spinnin'",
-      "url": "https://open.spotify.com/track/0k1MIumc7GxFeiQsKgRBys"
+      "duration_ms": 252736,
+      "name": "Tear Drop",
+      "url": "https://open.spotify.com/track/1AXUPeXgY7NM5XC8qvGaP1"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -111,50 +159,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Wicked Ways",
-        "url": "https://open.spotify.com/album/6Oj6IEnSiCkioP5S2wUuLu"
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
       "artists": [
         {
-          "name": "Nolan Taylor",
-          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 256418,
-      "name": "Wicked Ways",
-      "url": "https://open.spotify.com/track/3hk1nq3xRWJpsXkRjIjtiT"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Atlanta Millionaires Club",
-        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Kingston",
-      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Family Ties",
-        "url": "https://open.spotify.com/album/02EsOo5OwUGCPuBWuMkdY6"
-      },
-      "artists": [
-        {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
-        }
-      ],
-      "duration_ms": 276880,
-      "name": "Miner Imperfections",
-      "url": "https://open.spotify.com/track/4GCtc95vUfhaa673o1vbv6"
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -171,22 +187,6 @@
       "duration_ms": 225826,
       "name": "In Your Love",
       "url": "https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -223,6 +223,22 @@
       "duration_ms": 223764,
       "name": "Mornings With You (with Kaitlin Butts)",
       "url": "https://open.spotify.com/track/7pNCw2WPlLImrZSSI3tXC8"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Cowboy Gangster Politician",
+        "url": "https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Cowboy Gangster Politician",
+      "url": "https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -287,6 +303,22 @@
       "duration_ms": 265488,
       "name": "Grief is Only Love",
       "url": "https://open.spotify.com/track/3ahuBtIP8Hh1n5L8jUUzXD"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Family Ties",
+        "url": "https://open.spotify.com/album/02EsOo5OwUGCPuBWuMkdY6"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "duration_ms": 276880,
+      "name": "Miner Imperfections",
+      "url": "https://open.spotify.com/track/4GCtc95vUfhaa673o1vbv6"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -427,6 +459,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Wandering Star",
+        "url": "https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 253965,
+      "name": "Spinnin'",
+      "url": "https://open.spotify.com/track/0k1MIumc7GxFeiQsKgRBys"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Coal",
         "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
       },
@@ -527,8 +575,8 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Live Off",
-        "url": "https://open.spotify.com/album/6H501XrhEEyC0ptAfiWO1C"
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
       },
       "artists": [
         {
@@ -538,7 +586,7 @@
       ],
       "duration_ms": 215733,
       "name": "Live Off",
-      "url": "https://open.spotify.com/track/62NCBgd9im9741RNTVNahK"
+      "url": "https://open.spotify.com/track/3967Uo1G05njseUUCnev2w"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1491,22 +1539,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Bed of Roses",
-        "url": "https://open.spotify.com/album/1UK1SQs4pkjWsjZPxR58le"
-      },
-      "artists": [
-        {
-          "name": "El Dorodo",
-          "url": "https://open.spotify.com/artist/6sUWXsmu4XcTynrokoDkg7"
-        }
-      ],
-      "duration_ms": 224903,
-      "name": "Bed of Roses",
-      "url": "https://open.spotify.com/track/1KiOU4CV744ifyal32xXP6"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Angel Band",
         "url": "https://open.spotify.com/album/0UITnXFaup7lHYV1WcQSFT"
       },
@@ -1519,22 +1551,6 @@
       "duration_ms": 372160,
       "name": "Angel Band - Jubilee Version",
       "url": "https://open.spotify.com/track/2phdhdIaCUVJgxuRVP2N18"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "The Essential Waylon Jennings",
-        "url": "https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 286120,
-      "name": "I Ain't Living Long Like This",
-      "url": "https://open.spotify.com/track/0NBKvnJAAG865ENj9bOhvD"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1599,22 +1615,6 @@
       "duration_ms": 252346,
       "name": "Quite Like You",
       "url": "https://open.spotify.com/track/0KVeQWIL6r8ALPy6Lxjlx6"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Mountain Song",
-        "url": "https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 249920,
-      "name": "Mountain Song",
-      "url": "https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6"
     },
     {
       "added_at": "2023-11-10 05:00:00",

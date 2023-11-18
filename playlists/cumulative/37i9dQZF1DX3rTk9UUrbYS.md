@@ -4,7 +4,7 @@
 
 > Avant\-garde, experimental and free jazz.
 
-134 songs - 18 hr 3 min
+135 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Canopy](https://open.spotify.com/track/2h9BKEX4eg6SCiwllNxc2T) | [Steph Richards](https://open.spotify.com/artist/04zMek0jIqqa8HWAIGCBol) | [Supersense](https://open.spotify.com/album/2g4gMm8Pq3rLMANMRHlLNj) | 3:41 | 2020-10-23 | 2023-04-30 |
 | [Canopy](https://open.spotify.com/track/464AJmrhTyMNb2UFgSStEg) | [Steph Richards](https://open.spotify.com/artist/04zMek0jIqqa8HWAIGCBol) | [Supersense](https://open.spotify.com/album/0F8tOgvAKvDrIpSySWhjJG) | 3:41 | 2021-06-04 |  |
 | [Ceiba Portal](https://open.spotify.com/track/6tVppbfMTjDEZtIyCTVc9z) | [Angelica Sanchez](https://open.spotify.com/artist/5nTk4mPlKGQn2HCrJIsEFi), [Marilyn Crispell](https://open.spotify.com/artist/0w4mLSXg39n1UuyK7eNLTD) | [How to Turn the Moon](https://open.spotify.com/album/2Av1aOBp5UDgNH3RkryrN8) | 8:10 | 2020-10-02 |  |
-| [Chancelot](https://open.spotify.com/track/07BN3WGtVwKfLZhynxgaO9) | [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Shinpei Ruike](https://open.spotify.com/artist/5hIsqTfC2qj4oawLhTDLs1) | [Chancelot](https://open.spotify.com/album/0whxfN7HPyYtxdM5gXnqVu) | 2:30 | 2023-08-25 |  |
+| [Chancelot](https://open.spotify.com/track/07BN3WGtVwKfLZhynxgaO9) | [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Shinpei Ruike](https://open.spotify.com/artist/5hIsqTfC2qj4oawLhTDLs1) | [Chancelot](https://open.spotify.com/album/0whxfN7HPyYtxdM5gXnqVu) | 2:30 | 2023-08-25 | 2023-11-18 |
+| [Chancelot](https://open.spotify.com/track/4s6J9TbdsogLZrwYprdxzC) | [Benjamin Herman](https://open.spotify.com/artist/1dZtTzcPTFBsbmqNohoKUR), [Shinpei Ruike](https://open.spotify.com/artist/5hIsqTfC2qj4oawLhTDLs1) | [Nostalgia Blitz](https://open.spotify.com/album/5jLc5Vrug16IJK3lqM4EWP) | 2:30 | 2023-08-25 |  |
 | [Chapter I](https://open.spotify.com/track/1KklL9FNVjoGqQpkOpUBZJ) | [Matthew Shipp](https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r), [Chad Fowler](https://open.spotify.com/artist/7ttY2znRRuk0WwrI8i6oFj) | [Old Stories](https://open.spotify.com/album/422P2lhtz2RthEFuTYgjmF) | 6:14 | 2022-04-22 |  |
 | [Chapter I](https://open.spotify.com/track/6Sz3J0ifbdSZoW8O2BIM1S) | [Matthew Shipp](https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r), [Chad Fowler](https://open.spotify.com/artist/7ttY2znRRuk0WwrI8i6oFj) | [Old Stories](https://open.spotify.com/album/6UqK3CSEE52UwtK2e9JQPc) | 6:14 | 2022-04-15 | 2023-04-30 |
 | [Chapter IV](https://open.spotify.com/track/0OyJo5lpxGmRzsGqyMYBTc) | [Matthew Shipp](https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r), [Chad Fowler](https://open.spotify.com/artist/7ttY2znRRuk0WwrI8i6oFj) | [Old Stories](https://open.spotify.com/album/422P2lhtz2RthEFuTYgjmF) | 3:52 | 2022-04-15 |  |

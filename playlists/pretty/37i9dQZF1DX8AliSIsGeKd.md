@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Amelie Lens
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,523 likes - 89 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,849 likes - 89 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 66 | [Klub Organica](https://open.spotify.com/track/1kPdEljDtVHvgYpEF1jEId) | [Santé](https://open.spotify.com/artist/2MMQGv11auKaxIgY947hjE) | [Klub Organica](https://open.spotify.com/album/604Kq2Div9w3bzLh5q98m1) | 6:20 |
 | 67 | [Lee More Touchy](https://open.spotify.com/track/6DEw5kE16LHC15K75H6uoI) | [Italoboyz](https://open.spotify.com/artist/6k8RSKqoLD2ypryepmkvkI), [Marco Donato](https://open.spotify.com/artist/2mc7ExM6ve0Bk45mZHsPP3) | [Neon, Pt\. 3](https://open.spotify.com/album/6winyKDC3P0jPjSJb8dA4C) | 6:10 |
 | 68 | [Phoenix Rising](https://open.spotify.com/track/2C27VRUbiIxPTuHsYpb6Dp) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Phoenix Rising](https://open.spotify.com/album/1p69I6bs1jTJ2m1CywyES0) | 4:17 |
-| 69 | [Exited](https://open.spotify.com/track/187VhQwN2cm3iwgni4T2L3) | [Torsten Kanzler](https://open.spotify.com/artist/6ivd3NhMvn9EIN64Q3lqik) | [Exited](https://open.spotify.com/album/2ws4ocsDTsbdkioTBmbluh) | 6:42 |
+| 69 | [Excited](https://open.spotify.com/track/2qIKLARjTOfkZYAhe9e2vo) | [Torsten Kanzler](https://open.spotify.com/artist/6ivd3NhMvn9EIN64Q3lqik) | [Rave the Planet: Supporter Series, Vol\. 018](https://open.spotify.com/album/6aPrAqD2WDtO24SwxTZ0Lx) | 6:42 |
 | 70 | [I Got You](https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [I Got You](https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv) | 2:44 |
 | 71 | [Rave Alert](https://open.spotify.com/track/6ps0ug4M1qOOL33KNcN0jD) | [AXXX7en](https://open.spotify.com/artist/1l3VzLTekQWDt5z2Q5eZnq), [Chris Veron](https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S) | [Rave Alert](https://open.spotify.com/album/7vGBqOTTqBdXQ5603uhBNJ) | 3:24 |
 | 72 | [Feel That](https://open.spotify.com/track/2nNGXBE75rNTs6WpZNtFvC) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [Feel That / Haute Couture](https://open.spotify.com/album/1TDFUDjyLBY0zf48GkphAu) | 3:21 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 88 | [DDG Talk](https://open.spotify.com/track/4I6p213xGciXe0Euyl6rUI) | [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [DDG Talk](https://open.spotify.com/album/113qnKo8Hy83Dh0yiXSPCB) | 5:59 |
 | 89 | [These Things Take Time \- AK Remix](https://open.spotify.com/track/1oir1oGiRYsPRYuMmw5Wap) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [These Things Take Time \(AK Remix\)](https://open.spotify.com/album/2uNQfjGaUKDqpgmeeHzO4N) | 3:01 |
 
-Snapshot ID: `MCxhYTliYzEwYTU5M2VkYTA2Y2ZmZTM0NWRlMzRkOGM3YjJhYjBmZjVl`
+Snapshot ID: `MCwzNGZjZDQzNDYwMDRmNDI1ZmY3YjFlOWNhZjQwNDc4NWU5YjM3YzM2`

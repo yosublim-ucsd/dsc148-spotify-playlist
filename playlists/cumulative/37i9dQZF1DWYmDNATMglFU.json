@@ -11255,6 +11255,28 @@
     },
     {
       "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/75tCOwMwjcKr9j9SMY4qCf"
+      },
+      "artists": [
+        {
+          "name": "Rare Americans",
+          "url": "https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt"
+        },
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120333,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/5OiIkkbuzSkkJUDCq9EaWP"
+    },
+    {
+      "album": {
         "name": "Too Many Things",
         "url": "https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx"
       },

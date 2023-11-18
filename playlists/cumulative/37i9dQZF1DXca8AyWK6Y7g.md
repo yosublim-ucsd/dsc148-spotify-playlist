@@ -2,9 +2,9 @@
 
 ### [young & free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g)
 
-> livin' life in your 250 sq ft apt cover: Jenna Raine
+> livin' life in your 250 sq ft apt cover: flowerovlove
 
-1,857 songs - 3 day 22 hr 3 min
+1,860 songs - 3 day 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Bleach](https://open.spotify.com/track/2SJ0IHOPYRB4NvfyIqSoYa) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Banish The Banshee](https://open.spotify.com/album/5G55JBphRFFY6DaYELM6Gk) | 3:39 | 2022-06-17 | 2022-07-08 |
 | [Bleachers](https://open.spotify.com/track/0dVtDcgWqGSymest1S9IO1) | [bluffs.](https://open.spotify.com/artist/7qUKLfpyWl1FhbMKZUBrka) | [Bleachers](https://open.spotify.com/album/0FvWCReYVHBzEjvP9ZyN7S) | 4:02 | 2022-02-15 | 2022-03-26 |
 | [Blemish](https://open.spotify.com/track/16YhYvvC1AH2Lalc7YDFLA) | [Mae Mae](https://open.spotify.com/artist/53ZthSp6EXqpBgOKrS5EsL), [The Colourist](https://open.spotify.com/artist/7b6oBvtYW1T5jFcgEk19Dq) | [Gummy Heart Eyes](https://open.spotify.com/album/0t6obDBvb3lga9pCR2RcOG) | 3:13 | 2022-01-28 | 2022-03-12 |
+| [BLIND](https://open.spotify.com/track/5zr5aYz9hJJJ25wotnbVzH) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [BLIND](https://open.spotify.com/album/4SJLNHToJtakGJw8CwPWfU) | 2:33 | 2023-11-13 |  |
 | [Blonde](https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Blonde](https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI) | 3:01 | 2022-08-12 | 2023-01-28 |
 | [BLONDE](https://open.spotify.com/track/75N877K375q1iE3S1mEcHB) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [BLONDE](https://open.spotify.com/album/1fObqVmcM8zZFZg4Jr8VzH) | 2:57 | 2022-03-25 | 2022-10-16 |
 | [Blondes](https://open.spotify.com/track/6kzP50E3nRuuLjtU5Qp56m) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Blondes](https://open.spotify.com/album/4EvsXD4pmepFBKYHoORrP1) | 2:46 | 2021-11-12 | 2022-06-07 |
@@ -798,11 +799,12 @@
 | [I F\*cking Love You](https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/2CslMUzH2LTc4rnAuATJCE) | 3:00 | 2022-04-29 | 2022-11-02 |
 | [I Hate Cardio](https://open.spotify.com/track/5w6EF3wgPvME78cSrxnIuj) | [Ellee Duke](https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N) | [I Hate Cardio](https://open.spotify.com/album/0pP7mQFtuoZ9q5BU6Nj3Yc) | 3:29 | 2022-09-16 | 2023-04-22 |
 | [I Haven't Seen You Since The Summer](https://open.spotify.com/track/3LQnvTX0E4cwig42VTbX3X) | [Beeson](https://open.spotify.com/artist/2x2B1ZRBmx1TTzvPuKj0I8) | [I Haven't Seen You Since The Summer](https://open.spotify.com/album/5adGcBqBz7d9z9mCU0ntAt) | 3:20 | 2023-07-14 | 2023-08-28 |
+| [I Hope It All Works Out](https://open.spotify.com/track/2u2claSA1aCUMrVRsBD4Ik) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [I Hope It All Works Out](https://open.spotify.com/album/4Y7hxshp2MXAMXW5BwqZ6s) | 2:47 | 2023-11-17 |  |
 | [I Just Came To Dance](https://open.spotify.com/track/2LQ3i7FKz0i2mrkcjWGeIg) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Just Came To Dance](https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3) | 2:24 | 2022-10-28 | 2023-06-17 |
 | [I Just Wanna Know](https://open.spotify.com/track/6e7Bk20FzoWgPlVN7AmQ0Q) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Just Wanna Know](https://open.spotify.com/album/6LcSLQzHh8lVFC20Vm4f2T) | 2:24 | 2023-05-19 | 2023-06-17 |
 | [I Just Want a Lover](https://open.spotify.com/track/1rwMM6ixKWnsRQMUeRbXeT) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:21 | 2022-09-16 | 2022-09-24 |
 | [I Like You Better](https://open.spotify.com/track/5Q8GpY56OWmPs7H7At4tNY) | [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [I Like You Better](https://open.spotify.com/album/33tX95q6w1a0jPgUDj4vDh) | 2:16 | 2022-09-02 | 2022-10-15 |
-| [I Love Making Bad Boys Cry](https://open.spotify.com/track/5LxrXfUFQV3JfWJLcCrH29) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [I Love Making Bad Boys Cry](https://open.spotify.com/album/46Gq9avMetlmFdWLXbLy9n) | 2:21 | 2023-11-10 |  |
+| [I Love Making Bad Boys Cry](https://open.spotify.com/track/5LxrXfUFQV3JfWJLcCrH29) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [I Love Making Bad Boys Cry](https://open.spotify.com/album/46Gq9avMetlmFdWLXbLy9n) | 2:21 | 2023-11-10 | 2023-11-18 |
 | [i love you, I'M NOT SORRY](https://open.spotify.com/track/51K6VapRIoRAVRdjjQZ29j) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [i love you, I'M NOT SORRY](https://open.spotify.com/album/08KTTahjmotUyxQY49APM5) | 2:34 | 2023-03-24 | 2023-04-01 |
 | [i loved a boy](https://open.spotify.com/track/7fDBvYEvsInjsVWsnlWC0d) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [i loved a boy](https://open.spotify.com/album/6YwhtYV8vYjaJzA7Df4mHi) | 2:25 | 2023-03-31 | 2023-07-01 |
 | [I LUV U](https://open.spotify.com/track/1f4hiNCEGip1N4B6QjCAJm) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [I LUV U](https://open.spotify.com/album/1u14LWDFohYHEqptZhDo8i) | 2:20 | 2022-08-12 | 2022-09-03 |
@@ -915,7 +917,7 @@
 | [Kill You Boy](https://open.spotify.com/track/71Y5owvHyof8o5NtrAr912) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [Kill You Boy](https://open.spotify.com/album/0k04UZ8pBPvS2anavEPrjG) | 2:36 | 2022-06-10 | 2022-07-16 |
 | [Killer](https://open.spotify.com/track/3MKBHqQ5EtXnChdVF4P3ji) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Killer](https://open.spotify.com/album/3UgmPtg6ADEBPEef7RImgg) | 3:00 | 2022-10-28 | 2022-12-10 |
 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 | 2022-01-21 |  |
-| [killing time](https://open.spotify.com/track/51jmw8SLKHpN7WDsqzk4uQ) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [killing time](https://open.spotify.com/album/6nlfXRWDo8dqfjqsp4LjJI) | 2:53 | 2023-11-10 |  |
+| [killing time](https://open.spotify.com/track/51jmw8SLKHpN7WDsqzk4uQ) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [killing time](https://open.spotify.com/album/6nlfXRWDo8dqfjqsp4LjJI) | 2:53 | 2023-11-10 | 2023-11-18 |
 | [Kinda Famous](https://open.spotify.com/track/4YwpoXjq8jy5aWLU2cP4uU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Manic Dream Pixie](https://open.spotify.com/album/37v0q6s1IB9jSCPMIpFwFN) | 2:54 | 2023-04-28 | 2023-06-03 |
 | [Kinda Hate U Kinda Love U](https://open.spotify.com/track/6y4A9PmtRYhK0wtldpb1Wo) | [Alex Sloane](https://open.spotify.com/artist/2oKcZslW7y9ILALBZJhoha) | [Kinda Hate U Kinda Love U](https://open.spotify.com/album/7KM2iRC5ZkdERil3MHJq9y) | 3:13 | 2021-11-26 | 2022-02-09 |
 | [Kiss Face](https://open.spotify.com/track/41dnfaWIa5at38F5ANOZr3) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Kiss Face](https://open.spotify.com/album/6fAWKIRjxt4NTIdENraWci) | 2:35 | 2022-08-12 | 2022-09-17 |
@@ -1040,7 +1042,7 @@
 | [Madonna \(with Audrey Mika\)](https://open.spotify.com/track/7xU12s4CHm1wT2M3YMmCqg) | [Deux Twins](https://open.spotify.com/artist/7t39GP2opSKuK107Dp0Iae), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Madonna \(with Audrey Mika\)](https://open.spotify.com/album/3Rrfdu8t7w0fn8h0c6YRwI) | 2:42 | 2022-07-01 | 2022-07-23 |
 | [Magic](https://open.spotify.com/track/4WnLmvKvb1tSPme5GejUFG) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Magic](https://open.spotify.com/album/6HzqtOh4KjlZ8MuKZAyL7k) | 2:18 | 2021-08-06 | 2022-01-22 |
 | [Magic](https://open.spotify.com/track/4XsrQYCU60mBHzjFVImgFf) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/46vqvAYDetWqC04lXDzTmc) | 6:48 | 2021-07-16 | 2022-03-26 |
-| [Magic](https://open.spotify.com/track/1ozTHWtYAhhLeJ2CejjNyF) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Magic](https://open.spotify.com/album/4ArIrhbEuQiYmNsePoj1OJ) | 3:13 | 2023-11-10 |  |
+| [Magic](https://open.spotify.com/track/1ozTHWtYAhhLeJ2CejjNyF) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Magic](https://open.spotify.com/album/4ArIrhbEuQiYmNsePoj1OJ) | 3:13 | 2023-11-10 | 2023-11-18 |
 | [Magic In The Hamptons \(feat\. Lil Yachty\)](https://open.spotify.com/track/2Yer0p7uB2lVBUAtANuuQp) | [Social House](https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Magic In The Hamptons \(feat\. Lil Yachty\)](https://open.spotify.com/album/3p81zUBFZ3zdzxceXKeVSK) | 2:44 | 2020-06-13 | 2021-04-13 |
 | [magic wand](https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2), [Inadelle](https://open.spotify.com/artist/2oJwuBtgqtIuzTpU27zay8) | [magic wand](https://open.spotify.com/album/5iad3isgt69GOlLzHQtdOM) | 3:24 | 2021-04-24 | 2021-11-20 |
 | [Make It Thru the Day.](https://open.spotify.com/track/5i0S6dVDfTRGpjfVwBHIbU) | [Ben Zaidi](https://open.spotify.com/artist/5gpdr2m2nOvvKrEgtbD16W) | [Make It Thru the Day.](https://open.spotify.com/album/3o7pxHq7wPCb1hRCq37POT) | 2:54 | 2020-04-21 | 2020-09-30 |
@@ -1169,6 +1171,7 @@
 | [Not Like I’m In Love With You](https://open.spotify.com/track/3A9x6yHdlP1H5BY5Pz3l7P) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Not Like I’m In Love With You](https://open.spotify.com/album/5Rf1ieZNxALb2P41tvVTfQ) | 3:05 | 2022-04-29 | 2022-06-25 |
 | [Not OK](https://open.spotify.com/track/06V8tMMLJS1lNNejvWFzDt) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Not OK](https://open.spotify.com/album/6oXcqvLT6Pi4ZorJetT4Gg) | 2:39 | 2023-02-03 |  |
 | [not okay \(feat\. mazie\)](https://open.spotify.com/track/3hf7tTSZ6jgIdLIiT9Kgq0) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q), [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [not okay \(feat\. mazie\)](https://open.spotify.com/album/660EN7ZkbkMuho9k4ajJgC) | 2:43 | 2021-08-18 | 2022-01-15 |
+| [Not The 1975](https://open.spotify.com/track/15sze1xMQqq3nkC2fH3vbh) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Not The 1975 \(Acoustic\)](https://open.spotify.com/album/56a8vWZVQQeEmh1G1SBM10) | 3:18 | 2023-11-10 |  |
 | [Not The 1975](https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Not The 1975](https://open.spotify.com/album/4euE3ToFxRXkSXHew4gYCw) | 3:18 | 2023-07-21 | 2023-11-11 |
 | [Nothing](https://open.spotify.com/track/6AxRGtu8gdKPeynxdHsmzC) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Nothing](https://open.spotify.com/album/6vxh3eBU46aqiwersrZ090) | 2:42 | 2019-09-29 | 2021-03-21 |
 | [Nothing](https://open.spotify.com/track/2DhYQXK6ZkOTB1665GTagQ) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Nothing](https://open.spotify.com/album/3eVCwZNAC04pBYjnx2ITLF) | 2:54 | 2022-03-25 | 2023-03-08 |

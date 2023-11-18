@@ -523,6 +523,28 @@
     },
     {
       "album": {
+        "name": "The Love Invention",
+        "url": "https://open.spotify.com/album/0IFJIteIlg43nl0JNBysDT"
+      },
+      "artists": [
+        {
+          "name": "Alison Goldfrapp",
+          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
+        },
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197853,
+      "name": "Digging Deeper",
+      "url": "https://open.spotify.com/track/3WbVnXG3EaWAWkcyAThXm5"
+    },
+    {
+      "album": {
         "name": "Digging Deeper",
         "url": "https://open.spotify.com/album/0bZtJTjE90SXIW0PIChpnl"
       },
@@ -538,7 +560,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 197853,
       "name": "Digging Deeper",
       "url": "https://open.spotify.com/track/7iKNMytdMotGpqTxyRL4qA"

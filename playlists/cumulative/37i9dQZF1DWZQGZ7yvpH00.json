@@ -523,6 +523,32 @@
     },
     {
       "album": {
+        "name": "Chanelita",
+        "url": "https://open.spotify.com/album/6sYFY7He71eJ8kCm03IUcJ"
+      },
+      "artists": [
+        {
+          "name": "Angel Perez",
+          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
+        },
+        {
+          "name": "XODERICK",
+          "url": "https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG"
+        },
+        {
+          "name": "MILAS",
+          "url": "https://open.spotify.com/artist/3TKgamKsMMP7pmm1likOgY"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193299,
+      "name": "Chanelita",
+      "url": "https://open.spotify.com/track/4JhpZksyQOrf13HYgy7sFq"
+    },
+    {
+      "album": {
         "name": "Claro Que Te Amo",
         "url": "https://open.spotify.com/album/1uO2tuBoVL3QF5K8p874fC"
       },
@@ -596,7 +622,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 186834,
       "name": "CRIES IN SPANISH",
       "url": "https://open.spotify.com/track/6eL3Q0m0VJkbCyKAmvYTEy"
@@ -1382,7 +1408,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 156352,
       "name": "Falt\u00f3",
       "url": "https://open.spotify.com/track/3YMbT29QAQNiuC6VWP1uic"
@@ -4051,6 +4077,28 @@
     },
     {
       "album": {
+        "name": "Tu Belleza",
+        "url": "https://open.spotify.com/album/3wzeBIxedazMhG0oiSryZ8"
+      },
+      "artists": [
+        {
+          "name": "Christian Lara",
+          "url": "https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200955,
+      "name": "Tu Belleza",
+      "url": "https://open.spotify.com/track/7J9QvKA6f5BhZtRbWnL7tI"
+    },
+    {
+      "album": {
         "name": "Tu decisi\u00f3n",
         "url": "https://open.spotify.com/album/2DMbxG78FoNUx2oGK2SF9f"
       },
@@ -4163,6 +4211,28 @@
     },
     {
       "album": {
+        "name": "RefleXi\u00f3n",
+        "url": "https://open.spotify.com/album/1yYqbbaHWQZsUeji3C3YGS"
+      },
+      "artists": [
+        {
+          "name": "Reflejo Nuevo",
+          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
+        },
+        {
+          "name": "Lily Baez",
+          "url": "https://open.spotify.com/artist/2q7elVTQXIgbMh5vA6mlFs"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222893,
+      "name": "T\u00fa Goza",
+      "url": "https://open.spotify.com/track/2CQk0GyIQzfcvdrthOKmu0"
+    },
+    {
+      "album": {
         "name": "T\u00fa Me Llevas a Un Espacio",
         "url": "https://open.spotify.com/album/7pSl9SJcRDNSuSaafs5CA8"
       },
@@ -4200,7 +4270,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 190466,
       "name": "T\u00fa Te Mereces",
       "url": "https://open.spotify.com/track/0jSCU4pckTESxGEzNu2Zz0"

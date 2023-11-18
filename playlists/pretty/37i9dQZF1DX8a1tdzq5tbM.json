@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1428402,
+  "num_followers": 1428791,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTI4NmZmOTM4ZjI2YTllMjY4MjJiOWJlMTNiZTBlNDA2NmQ0YjMx",
+  "snapshot_id": "MCxmNTBhNTNhZTg5MTFlOWMxZWMzNTY5Y2QzNThjM2RmNmNmN2VhN2Yz",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 443426,
-      "name": "Adagio For Strings",
-      "url": "https://open.spotify.com/track/3Q2M6sNKDwoqZGBvwdFqZr"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Toca (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2snIy07hupBGM5rLYtgImH"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 200483,
       "name": "Toca's Miracle - Radio Edit",
       "url": "https://open.spotify.com/track/6oE5yvroDXWNYWpIFz2JJB"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 443426,
+      "name": "Adagio For Strings",
+      "url": "https://open.spotify.com/track/3Q2M6sNKDwoqZGBvwdFqZr"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Poetica (feat. Nadia Ali)",
         "url": "https://open.spotify.com/album/64cR11AqqLidCg6VGjUzxD"
       },
@@ -539,22 +523,18 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Day 'N' Nite (Crookers Remix)",
-        "url": "https://open.spotify.com/album/6tisDlBrOOltEsFFq2vy6F"
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
       },
       "artists": [
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 281080,
-      "name": "Day 'N' Nite - Crookers Remix",
-      "url": "https://open.spotify.com/track/6ouTGbETM7ZdID1eMXZJde"
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -571,6 +551,26 @@
       "duration_ms": 214379,
       "name": "Let the Music Play",
       "url": "https://open.spotify.com/track/6b9hm8mvZ2KH7Fl7LLA5ct"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Day 'N' Nite (Crookers Remix)",
+        "url": "https://open.spotify.com/album/6tisDlBrOOltEsFFq2vy6F"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "duration_ms": 281080,
+      "name": "Day 'N' Nite - Crookers Remix",
+      "url": "https://open.spotify.com/track/6ouTGbETM7ZdID1eMXZJde"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/5mqwlg4T5XrpKj77J6g587"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 169426,
+      "name": "Call On Me - Radio Edit",
+      "url": "https://open.spotify.com/track/6E0dc82Da4W5QWXR8ktoGT"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Orbital 2",
         "url": "https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 228140,
       "name": "Don't Call Me Baby",
       "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/5mqwlg4T5XrpKj77J6g587"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 169426,
-      "name": "Call On Me - Radio Edit",
-      "url": "https://open.spotify.com/track/6E0dc82Da4W5QWXR8ktoGT"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -859,6 +859,30 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/15UjVcCwrMwAEPzAoVrZ55"
+      },
+      "artists": [
+        {
+          "name": "DJ Sammy",
+          "url": "https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT"
+        },
+        {
+          "name": "Yanou",
+          "url": "https://open.spotify.com/artist/5SWX583ExJOL7cv8572Crs"
+        },
+        {
+          "name": "Do",
+          "url": "https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0KT6DLAELYSbgfUemzwGPX"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Perfect Day",
         "url": "https://open.spotify.com/album/33PsrSS1xpCUl1kJy39DZV"
       },
@@ -871,22 +895,6 @@
       "duration_ms": 218586,
       "name": "What Hurts The Most",
       "url": "https://open.spotify.com/track/2rVa6UVT2f95l3bGcMGCWQ"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Strictly Hardrive",
-        "url": "https://open.spotify.com/album/58gDcsComtrCGQGzSuD031"
-      },
-      "artists": [
-        {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
-        }
-      ],
-      "duration_ms": 392293,
-      "name": "Deep Inside",
-      "url": "https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -919,6 +927,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Strictly Hardrive",
+        "url": "https://open.spotify.com/album/58gDcsComtrCGQGzSuD031"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        }
+      ],
+      "duration_ms": 392293,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Bunkka",
         "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
       },
@@ -935,30 +959,6 @@
       "duration_ms": 253933,
       "name": "Ready Steady Go - Extended Mix",
       "url": "https://open.spotify.com/track/595nqFsvxhQ6CO2YG65W2D"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/15UjVcCwrMwAEPzAoVrZ55"
-      },
-      "artists": [
-        {
-          "name": "DJ Sammy",
-          "url": "https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT"
-        },
-        {
-          "name": "Yanou",
-          "url": "https://open.spotify.com/artist/5SWX583ExJOL7cv8572Crs"
-        },
-        {
-          "name": "Do",
-          "url": "https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/0KT6DLAELYSbgfUemzwGPX"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Move For Me",
+      "url": "https://open.spotify.com/track/5KOt1QRD9YQQrrzwLCWuTN"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5djOwKQnkgTv6eUgCtdFAz"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 211533,
       "name": "Together - Radio Edit",
       "url": "https://open.spotify.com/track/4PQCrz4sk00dIEmkwmmJCr"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Move For Me",
-      "url": "https://open.spotify.com/track/5KOt1QRD9YQQrrzwLCWuTN"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Transphormer",
-        "url": "https://open.spotify.com/album/4ajNKZkMmn46mVusmeJUc7"
-      },
-      "artists": [
-        {
-          "name": "Alter Ego",
-          "url": "https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj"
-        }
-      ],
-      "duration_ms": 288053,
-      "name": "Rocker",
-      "url": "https://open.spotify.com/track/4oNm4AlbUo8XEDayfLxoup"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Take Me Away (Into the Night)",
         "url": "https://open.spotify.com/album/4WB7XNlgLRBQHt0I6cLqIc"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 191120,
       "name": "Take Me Away - Vocal Radio Mix",
       "url": "https://open.spotify.com/track/2iXSGmkft1qLUwxkRolc9U"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Transphormer",
+        "url": "https://open.spotify.com/album/4ajNKZkMmn46mVusmeJUc7"
+      },
+      "artists": [
+        {
+          "name": "Alter Ego",
+          "url": "https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj"
+        }
+      ],
+      "duration_ms": 288053,
+      "name": "Rocker",
+      "url": "https://open.spotify.com/track/4oNm4AlbUo8XEDayfLxoup"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1719,18 +1719,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Strange Condition",
-        "url": "https://open.spotify.com/album/0xAiJhllwbeJH9HGMR5FnI"
+        "name": "Believer (feat. Wynter Gordon)",
+        "url": "https://open.spotify.com/album/0sd07wZssqlLugldAokk6K"
       },
       "artists": [
         {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+          "name": "Freemasons",
+          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
+        },
+        {
+          "name": "Wynter Gordon",
+          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
         }
       ],
-      "duration_ms": 213546,
-      "name": "Strange Condition - Inpetto Radio Edit",
-      "url": "https://open.spotify.com/track/74rPAWzJdu1g43PtBpTGrf"
+      "duration_ms": 189388,
+      "name": "Believer (feat. Wynter Gordon) (Radio Edit)",
+      "url": "https://open.spotify.com/track/2tjCwTjbuEc6bXyp9iS08B"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1751,6 +1755,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Strange Condition",
+        "url": "https://open.spotify.com/album/0xAiJhllwbeJH9HGMR5FnI"
+      },
+      "artists": [
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        }
+      ],
+      "duration_ms": 213546,
+      "name": "Strange Condition - Inpetto Radio Edit",
+      "url": "https://open.spotify.com/track/74rPAWzJdu1g43PtBpTGrf"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Perfect Day",
         "url": "https://open.spotify.com/album/33PsrSS1xpCUl1kJy39DZV"
       },
@@ -1763,26 +1783,6 @@
       "duration_ms": 168793,
       "name": "Faded",
       "url": "https://open.spotify.com/track/6vVBwOqsm2qOhL8ewESBBu"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Believer (feat. Wynter Gordon)",
-        "url": "https://open.spotify.com/album/0sd07wZssqlLugldAokk6K"
-      },
-      "artists": [
-        {
-          "name": "Freemasons",
-          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
-        },
-        {
-          "name": "Wynter Gordon",
-          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
-        }
-      ],
-      "duration_ms": 189388,
-      "name": "Believer (feat. Wynter Gordon) (Radio Edit)",
-      "url": "https://open.spotify.com/track/2tjCwTjbuEc6bXyp9iS08B"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1939,6 +1939,26 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Girlfriend (2008 Remix)",
+        "url": "https://open.spotify.com/album/78ehClbvFAiT3iJjJrNml9"
+      },
+      "artists": [
+        {
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+        },
+        {
+          "name": "Keylime",
+          "url": "https://open.spotify.com/artist/0Id47LmcZuneJKiCqlsSJA"
+        }
+      ],
+      "duration_ms": 435986,
+      "name": "Girlfriend - 2008 Remix",
+      "url": "https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Medicine",
         "url": "https://open.spotify.com/album/5EsmdhzhjPlDZDtEH2FFey"
       },
@@ -1967,26 +1987,6 @@
       "duration_ms": 171280,
       "name": "Make Your Move - Radio Edit",
       "url": "https://open.spotify.com/track/2Ug4PnkxcwkcL3fhM0B9Xe"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Girlfriend (2008 Remix)",
-        "url": "https://open.spotify.com/album/78ehClbvFAiT3iJjJrNml9"
-      },
-      "artists": [
-        {
-          "name": "Robbie Rivera",
-          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
-        },
-        {
-          "name": "Keylime",
-          "url": "https://open.spotify.com/artist/0Id47LmcZuneJKiCqlsSJA"
-        }
-      ],
-      "duration_ms": 435986,
-      "name": "Girlfriend - 2008 Remix",
-      "url": "https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2039,6 +2039,30 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Everything (feat. Myah)",
+        "url": "https://open.spotify.com/album/4UQ7RwcGBPWvZQL2WzJGI2"
+      },
+      "artists": [
+        {
+          "name": "Ron Reeser",
+          "url": "https://open.spotify.com/artist/2dxYclwJqZsLonuWRS5sQY"
+        },
+        {
+          "name": "Dan Saenz",
+          "url": "https://open.spotify.com/artist/7dz7HkYG1BTjGpIkzTR1l8"
+        },
+        {
+          "name": "Myah",
+          "url": "https://open.spotify.com/artist/0zVkEWAv7FUL8YEBz3wlWt"
+        }
+      ],
+      "duration_ms": 228986,
+      "name": "Everything (feat. Myah) - Radio Edit",
+      "url": "https://open.spotify.com/track/0l9xKcujIQJ4mDUgWb7852"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Nervous Rewind 2008",
         "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
       },
@@ -2071,30 +2095,6 @@
       "duration_ms": 205200,
       "name": "Crush (Radio Edit)",
       "url": "https://open.spotify.com/track/7mafch6fDbXB2on5mxijln"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Everything (feat. Myah)",
-        "url": "https://open.spotify.com/album/4UQ7RwcGBPWvZQL2WzJGI2"
-      },
-      "artists": [
-        {
-          "name": "Ron Reeser",
-          "url": "https://open.spotify.com/artist/2dxYclwJqZsLonuWRS5sQY"
-        },
-        {
-          "name": "Dan Saenz",
-          "url": "https://open.spotify.com/artist/7dz7HkYG1BTjGpIkzTR1l8"
-        },
-        {
-          "name": "Myah",
-          "url": "https://open.spotify.com/artist/0zVkEWAv7FUL8YEBz3wlWt"
-        }
-      ],
-      "duration_ms": 228986,
-      "name": "Everything (feat. Myah) - Radio Edit",
-      "url": "https://open.spotify.com/track/0l9xKcujIQJ4mDUgWb7852"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q"
-      },
-      "artists": [
-        {
-          "name": "Velvet",
-          "url": "https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Chemistry - Radio Edit",
-      "url": "https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "The Girl You Lost To Cocaine",
         "url": "https://open.spotify.com/album/0psPpltnZMSDnU67ma2hID"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 180133,
       "name": "The Girl You Lost to Cocaine - Sander van Doorn Edit",
       "url": "https://open.spotify.com/track/223Vmr6rEbuujhHLFpsgVj"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/3Cu39vkUTn1XEqEFRwsk5Q"
+      },
+      "artists": [
+        {
+          "name": "Velvet",
+          "url": "https://open.spotify.com/artist/5J5a0hqBGCelowVl8EkK7z"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Chemistry - Radio Edit",
+      "url": "https://open.spotify.com/track/6mMeuIonqBIcuzCGY5Soqe"
     },
     {
       "added_at": "2023-03-22 14:00:00",

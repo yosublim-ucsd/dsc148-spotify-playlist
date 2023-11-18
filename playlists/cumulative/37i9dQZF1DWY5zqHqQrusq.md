@@ -4,7 +4,7 @@
 
 > Chill, take a long walk and clear your mind
 
-65 songs - 3 hr 38 min
+66 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,10 +16,11 @@
 | [Bright Outside](https://open.spotify.com/track/4cuhSC70d2pVMkgiQXQNd9) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Bright Outside](https://open.spotify.com/album/0rTeZFpcIKYjfp3sMLsiDM) | 2:12 | 2022-11-11 |  |
 | [Can't Get Enough](https://open.spotify.com/track/553jHYX9KWMe4ww9XnQSb9) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Can't Get Enough](https://open.spotify.com/album/7EHk9suPUmKdravDqbzrb2) | 3:57 | 2022-11-11 |  |
 | [CHANGES](https://open.spotify.com/track/7zbnpZxFc5xlqHvDr7bZE0) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [SAVAGE LEVEL](https://open.spotify.com/album/4PsVnXWUWZxtGddkxSX110) | 3:24 | 2022-11-11 | 2023-04-29 |
+| [Chikwere](https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 4:41 | 2023-11-17 |  |
 | [Compare](https://open.spotify.com/track/2308PKp1LrwpZwRMtW6bWn) | [Africanvic](https://open.spotify.com/artist/49TbpwxzixxceH2mXHXkby) | [Ex Chronicles](https://open.spotify.com/album/1SWq4D1CuKTVaURbKLOIQa) | 4:02 | 2022-11-11 | 2023-04-29 |
 | [dawa](https://open.spotify.com/track/6DywLDHN945BpPggycAYYW) | [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE), [Junior Nyong'o](https://open.spotify.com/artist/6imCo4PzrfhOcKgLubOyXW) | [dawa](https://open.spotify.com/album/567zkX4DjYyss366DTflSG) | 2:38 | 2023-04-28 |  |
 | [Enough](https://open.spotify.com/track/604EBEcVgETlw2yG0qH4Sr) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Enough](https://open.spotify.com/album/5GvLqmGHBeQ82Yo4TQ6Sgc) | 3:37 | 2022-11-11 |  |
-| [Enough](https://open.spotify.com/track/2dDXkA6w6uq2PIlJwnSfjy) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT) | [City On A Hill](https://open.spotify.com/album/3DGmGgR6pEBaet5DnSRUtX) | 3:32 | 2022-11-11 |  |
+| [Enough](https://open.spotify.com/track/2dDXkA6w6uq2PIlJwnSfjy) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT) | [City On A Hill](https://open.spotify.com/album/3DGmGgR6pEBaet5DnSRUtX) | 3:32 | 2022-11-11 | 2023-11-18 |
 | [Fade](https://open.spotify.com/track/7FuyHQVU2rdPy7nmQhzOye) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP), [Pikes](https://open.spotify.com/artist/3iYk1tEjUMPcs5roPxv533) | [Oasis Park III](https://open.spotify.com/album/0gyKYbsf4q8U5RaSBSqp3s) | 3:58 | 2022-11-11 |  |
 | [Feel Me](https://open.spotify.com/track/5iMw8GaqHxk88HD4Ix1udK) | [Rkeiii](https://open.spotify.com/artist/1ZQSlTL8k2sGHuInXtLVTO), [Shirley G.](https://open.spotify.com/artist/6El818H33eiaEFkUBqRyPA) | [Feel Me \(Pack\)](https://open.spotify.com/album/0VgXjHK7YUA2qVjQfkYgVI) | 3:16 | 2022-11-11 | 2023-10-27 |
 | [For Keeps \- A COLORS SHOW](https://open.spotify.com/track/0sdE23tPOZsVF6QLMCNIZl) | [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [For Keeps \- A COLORS SHOW](https://open.spotify.com/album/3KwVjyCfMY0FgYLZIJiGL3) | 4:14 | 2023-10-20 |  |

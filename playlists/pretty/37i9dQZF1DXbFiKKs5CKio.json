@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 52113,
+  "num_followers": 52314,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,26 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
+        "name": "S\u00f3 Vem",
+        "url": "https://open.spotify.com/album/0ZN6uJremDuf27alIbotKn"
+      },
+      "artists": [
+        {
+          "name": "Leo Guima",
+          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
+        },
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        }
+      ],
+      "duration_ms": 188168,
+      "name": "Debochada",
+      "url": "https://open.spotify.com/track/4tBMQ34V6afrpBGddtx42P"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
         "name": "Falando Dela 2",
         "url": "https://open.spotify.com/album/68pf9T0gTuRSDWO9rdCjaF"
       },
@@ -127,42 +147,6 @@
       "duration_ms": 122263,
       "name": "Falando Dela 2",
       "url": "https://open.spotify.com/track/1ebphlBWJHENEs1StX3FYP"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "Os Garotin Session",
-        "url": "https://open.spotify.com/album/1TmShjmZqjOqvhCbma8B4s"
-      },
-      "artists": [
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        }
-      ],
-      "duration_ms": 171465,
-      "name": "Pouco a Pouco",
-      "url": "https://open.spotify.com/track/2XpLF91lmKXTduqNIAhsqe"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "S\u00f3 Vem",
-        "url": "https://open.spotify.com/album/0ZN6uJremDuf27alIbotKn"
-      },
-      "artists": [
-        {
-          "name": "Leo Guima",
-          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
-        },
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        }
-      ],
-      "duration_ms": 188168,
-      "name": "Debochada",
-      "url": "https://open.spotify.com/track/4tBMQ34V6afrpBGddtx42P"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -219,18 +203,18 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Sinto a Sua Falta",
-        "url": "https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL"
+        "name": "Os Garotin Session",
+        "url": "https://open.spotify.com/album/1TmShjmZqjOqvhCbma8B4s"
       },
       "artists": [
         {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
         }
       ],
-      "duration_ms": 201620,
-      "name": "Sinto a Sua Falta",
-      "url": "https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n"
+      "duration_ms": 171465,
+      "name": "Pouco a Pouco",
+      "url": "https://open.spotify.com/track/2XpLF91lmKXTduqNIAhsqe"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -267,6 +251,22 @@
       "duration_ms": 173677,
       "name": "Leve",
       "url": "https://open.spotify.com/track/5FPEUByLcA5J6bXqAW25ja"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "Sinto a Sua Falta",
+        "url": "https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL"
+      },
+      "artists": [
+        {
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+        }
+      ],
+      "duration_ms": 201620,
+      "name": "Sinto a Sua Falta",
+      "url": "https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "s\u00f3 eu sei",
-        "url": "https://open.spotify.com/album/64lnpVXtLJjZVA1sScIbGo"
-      },
-      "artists": [
-        {
-          "name": "Hanifah",
-          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
-        }
-      ],
-      "duration_ms": 115636,
-      "name": "s\u00f3 eu sei",
-      "url": "https://open.spotify.com/track/1B11lI2bkyrqE7ZfReu7if"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "Mergulhei",
         "url": "https://open.spotify.com/album/4raO1hapwBztV4pxrNSzps"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 211524,
       "name": "Mergulhei",
       "url": "https://open.spotify.com/track/58H4xYSRZ65vvmZPEAZ91H"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "s\u00f3 eu sei",
+        "url": "https://open.spotify.com/album/64lnpVXtLJjZVA1sScIbGo"
+      },
+      "artists": [
+        {
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+        }
+      ],
+      "duration_ms": 115636,
+      "name": "s\u00f3 eu sei",
+      "url": "https://open.spotify.com/track/1B11lI2bkyrqE7ZfReu7if"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -419,22 +419,22 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Como eu vim parar aqui?",
-        "url": "https://open.spotify.com/album/3ZMXh0gQOYgGYGpGQMSNAK"
+        "name": "Sede",
+        "url": "https://open.spotify.com/album/79vUuqDZJBkGZiY17zTbC5"
       },
       "artists": [
         {
-          "name": "Akin",
-          "url": "https://open.spotify.com/artist/1rHhyIAiFS59m0cjtVzusv"
+          "name": "LUTHULY",
+          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
         },
         {
-          "name": "Jucy",
-          "url": "https://open.spotify.com/artist/4L31ewbdCE5LxYxwGO3oR1"
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
         }
       ],
-      "duration_ms": 306500,
-      "name": "Meu Querubim",
-      "url": "https://open.spotify.com/track/2yBr0BtvA0fDD7ciQApe4b"
+      "duration_ms": 184893,
+      "name": "Sede",
+      "url": "https://open.spotify.com/track/6btHns78ZYe8iGoZz3uhpA"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -455,22 +455,22 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Sede",
-        "url": "https://open.spotify.com/album/79vUuqDZJBkGZiY17zTbC5"
+        "name": "Como eu vim parar aqui?",
+        "url": "https://open.spotify.com/album/3ZMXh0gQOYgGYGpGQMSNAK"
       },
       "artists": [
         {
-          "name": "LUTHULY",
-          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
+          "name": "Akin",
+          "url": "https://open.spotify.com/artist/1rHhyIAiFS59m0cjtVzusv"
         },
         {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+          "name": "Jucy",
+          "url": "https://open.spotify.com/artist/4L31ewbdCE5LxYxwGO3oR1"
         }
       ],
-      "duration_ms": 184893,
-      "name": "Sede",
-      "url": "https://open.spotify.com/track/6btHns78ZYe8iGoZz3uhpA"
+      "duration_ms": 306500,
+      "name": "Meu Querubim",
+      "url": "https://open.spotify.com/track/2yBr0BtvA0fDD7ciQApe4b"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
+        "name": "Aeroporto",
+        "url": "https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 209537,
+      "name": "Aeroporto",
+      "url": "https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
         "name": "Corpo Poss\u00edvel (Deluxe)",
         "url": "https://open.spotify.com/album/5DPQYWvyndISm87e1Clu6e"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 177301,
       "name": "Me Chama de Novo",
       "url": "https://open.spotify.com/track/7plqJ0mkyadrFLGHPmmJab"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "Aeroporto",
-        "url": "https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 209537,
-      "name": "Aeroporto",
-      "url": "https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -611,42 +611,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Dava Praia",
-        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
-      },
-      "artists": [
-        {
-          "name": "Guinu",
-          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
-        },
-        {
-          "name": "Juliane Gamboa",
-          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "Dava Praia",
-      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "93",
-        "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
-      },
-      "artists": [
-        {
-          "name": "Kynnie",
-          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "Me Curar",
-      "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "Me Faz Sentir",
         "url": "https://open.spotify.com/album/2Bpby9CAKbp5H9aSndSTs2"
       },
@@ -671,6 +635,38 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
+        "name": "93",
+        "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
+      },
+      "artists": [
+        {
+          "name": "Kynnie",
+          "url": "https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "Me Curar",
+      "url": "https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
         "name": "Correria",
         "url": "https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ"
       },
@@ -691,50 +687,22 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "\u00cdndigo (Te Venero)",
-        "url": "https://open.spotify.com/album/0w0NCCZiMTaLmPYXZRtBqT"
+        "name": "Dava Praia",
+        "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
       },
       "artists": [
         {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
-        }
-      ],
-      "duration_ms": 194137,
-      "name": "\u00cdndigo (Te Venero)",
-      "url": "https://open.spotify.com/track/73Yn2f5eGn3iG4bzTB98tl"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "Pulando",
-        "url": "https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN"
-      },
-      "artists": [
+          "name": "Guinu",
+          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
+        },
         {
-          "name": "K\u00e9lanie",
-          "url": "https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c"
+          "name": "Juliane Gamboa",
+          "url": "https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Pulando",
-      "url": "https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V"
+      "duration_ms": 163240,
+      "name": "Dava Praia",
+      "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -759,6 +727,22 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
+        "name": "Pulando",
+        "url": "https://open.spotify.com/album/1Q6GcZEN6IU3l0j8b49CrN"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9lanie",
+          "url": "https://open.spotify.com/artist/6B62E3pQWPaGQsS8YWQl3c"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Pulando",
+      "url": "https://open.spotify.com/track/4zEKANXr86uqH5tPyhGSnT"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
         "name": "Rosas & Violetas fa\u00e7o um buqu\u00ea. Eu quero queimar um ******* com voc\u00ea.",
         "url": "https://open.spotify.com/album/0k2BGd2ImMmPcGFLIa5bOg"
       },
@@ -771,26 +755,6 @@
       "duration_ms": 180000,
       "name": "Tempo Pra Pensar",
       "url": "https://open.spotify.com/track/0KfUCubX9qFf58eHJOy5o7"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "Brincava de Amar",
-        "url": "https://open.spotify.com/album/3il965mOJh8Jk3KjcxX4fg"
-      },
-      "artists": [
-        {
-          "name": "Carol Olly",
-          "url": "https://open.spotify.com/artist/1eOQwXqT0DJ1XbXMdOp1QR"
-        },
-        {
-          "name": "Lil Glass",
-          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
-        }
-      ],
-      "duration_ms": 125217,
-      "name": "Brincava de Amar",
-      "url": "https://open.spotify.com/track/2l2FbvWn2uathty65JcJCD"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -811,6 +775,26 @@
       "duration_ms": 183005,
       "name": "P\u00e2nico",
       "url": "https://open.spotify.com/track/6XqlM74zaJcniZAFLPDUYx"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "Brincava de Amar",
+        "url": "https://open.spotify.com/album/3il965mOJh8Jk3KjcxX4fg"
+      },
+      "artists": [
+        {
+          "name": "Carol Olly",
+          "url": "https://open.spotify.com/artist/1eOQwXqT0DJ1XbXMdOp1QR"
+        },
+        {
+          "name": "Lil Glass",
+          "url": "https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq"
+        }
+      ],
+      "duration_ms": 125217,
+      "name": "Brincava de Amar",
+      "url": "https://open.spotify.com/track/2l2FbvWn2uathty65JcJCD"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -911,22 +895,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Perfeita Demais",
-        "url": "https://open.spotify.com/album/4TVvIDkA9n06aB2FzEvRU9"
-      },
-      "artists": [
-        {
-          "name": "R0DR1",
-          "url": "https://open.spotify.com/artist/2VpY3fWHu7VbsHZSyQKOGZ"
-        }
-      ],
-      "duration_ms": 200281,
-      "name": "Perfeita Demais",
-      "url": "https://open.spotify.com/track/0iNOiUAd5TjdGTA60iiPCJ"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "That's Why I Love You",
         "url": "https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV"
       },
@@ -943,6 +911,38 @@
       "duration_ms": 218000,
       "name": "That's Why I Love You",
       "url": "https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "Perfeita Demais",
+        "url": "https://open.spotify.com/album/4TVvIDkA9n06aB2FzEvRU9"
+      },
+      "artists": [
+        {
+          "name": "R0DR1",
+          "url": "https://open.spotify.com/artist/2VpY3fWHu7VbsHZSyQKOGZ"
+        }
+      ],
+      "duration_ms": 200281,
+      "name": "Perfeita Demais",
+      "url": "https://open.spotify.com/track/0iNOiUAd5TjdGTA60iiPCJ"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "Tra\u00e7os",
+        "url": "https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L"
+      },
+      "artists": [
+        {
+          "name": "Pedro Stone",
+          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Tra\u00e7os",
+      "url": "https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC"
     },
     {
       "added_at": "2023-11-10 03:01:00",

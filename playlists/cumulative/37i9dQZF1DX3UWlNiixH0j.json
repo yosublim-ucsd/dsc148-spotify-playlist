@@ -1605,6 +1605,24 @@
     },
     {
       "album": {
+        "name": "Diffusion of Responsibility",
+        "url": "https://open.spotify.com/album/7JLobvu32MBmKrDL2QXB6L"
+      },
+      "artists": [
+        {
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243700,
+      "name": "Bystanders",
+      "url": "https://open.spotify.com/track/3KdhgPWqcU3pThQudClzWO"
+    },
+    {
+      "album": {
         "name": "c r a z y",
         "url": "https://open.spotify.com/album/559cpQp7ZCDP8RdiKEuyXR"
       },
@@ -4618,7 +4636,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 221728,
       "name": "honomekashi",
       "url": "https://open.spotify.com/track/0OymTpnvzQNQ4EpHs7gZrg"
@@ -8090,7 +8108,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 240000,
       "name": "PYG",
       "url": "https://open.spotify.com/track/13IMFBAxT8hngUC79TTcXR"
@@ -13524,6 +13542,24 @@
       "duration_ms": 222000,
       "name": "\u30a6\u30a3\u30f3\u30c7\u30a3\u30fc",
       "url": "https://open.spotify.com/track/0QI2f7Fb9EoWkQc0C2Qg0k"
+    },
+    {
+      "album": {
+        "name": "\u30aa\u30fc\u30d7\u30f3\u30a8\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/08GxJarYWyPK3qic88we7u"
+      },
+      "artists": [
+        {
+          "name": "\u5bb6\u4e3b",
+          "url": "https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306346,
+      "name": "\u30aa\u30fc\u30d7\u30f3\u30a8\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/69wC7CS0O12zmn0GYP31aR"
     },
     {
       "album": {

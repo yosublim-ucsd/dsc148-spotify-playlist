@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWaD7ByJaBc.md) - [plain]
 
 > Artist, producer and writer behind many of your favourite songs makes his Pride selection for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,164 likes - 23 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,163 likes - 23 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWaD7ByJaBc.md) - [plain]
 | 22 | [MNEK: Pride \- \#PressPlayForPride](https://open.spotify.com/track/5ShOjEUeSBr4fgBelfB7Vd) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [\#PressPlayForPride](https://open.spotify.com/album/3pjz5PfLYPdrxQfHuM7nao) | 0:25 |
 | 23 | [Final Song](https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Final Song](https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z) | 3:55 |
 
-Snapshot ID: `MCwwMTQyMGQ5YTZhMTljZGE1ODZlZjk3YjBmOTY4MTQwY2Q1YWZlYTBl`
+Snapshot ID: `MCwxNmI3M2RlNDhiN2E3ZmQwYWVlMjE2NDI2Njg1MTE3MzM5NDEzYjcw`

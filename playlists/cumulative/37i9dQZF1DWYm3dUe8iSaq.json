@@ -226,7 +226,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 244400,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/6xzQYj4Xdt8GDvfE8bHTIK"
@@ -1249,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "I Don't Think I Do (Demo Versions)",
+        "url": "https://open.spotify.com/album/5sWsinLSTjwtVFOSeOrsLc"
+      },
+      "artists": [
+        {
+          "name": "Augusta",
+          "url": "https://open.spotify.com/artist/7yqaPPacsc3ANzPAfU7pTu"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226186,
+      "name": "Give Me A Reason - Demo Version",
+      "url": "https://open.spotify.com/track/76u9IeQG9eJKeUMp9EmuMZ"
+    },
+    {
+      "album": {
         "name": "Give Me Love",
         "url": "https://open.spotify.com/album/0Gg7esLkSTocFYZBt1WPsP"
       },
@@ -1553,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "End Of The World",
+        "url": "https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389393,
+      "name": "I Can and I Will",
+      "url": "https://open.spotify.com/track/3veBdtlaLO4NH8ZkGyriU4"
+    },
+    {
+      "album": {
         "name": "Our Day",
         "url": "https://open.spotify.com/album/5EpS9xRiHoo93AsV1Y6ShI"
       },
@@ -1654,7 +1690,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 242773,
       "name": "I Hate Myself",
       "url": "https://open.spotify.com/track/0c0S1M4ik3EnhHdqH43VTv"
@@ -1744,7 +1780,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 175680,
       "name": "I Never Danced",
       "url": "https://open.spotify.com/track/5cUsHnbf2tthokeAMQR5km"
@@ -1820,6 +1856,24 @@
       "duration_ms": 141517,
       "name": "If You Had a Long Day",
       "url": "https://open.spotify.com/track/0eCX3ptohLUY3vW4Ehh68L"
+    },
+    {
+      "album": {
+        "name": "In The End",
+        "url": "https://open.spotify.com/album/2YhJJxFJUEh7yuRqOKHbAU"
+      },
+      "artists": [
+        {
+          "name": "Fiona O' Connell",
+          "url": "https://open.spotify.com/artist/0EycwYy6PGKtlZntaQThjr"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280154,
+      "name": "In The End",
+      "url": "https://open.spotify.com/track/0EzrpH6IwHdPbZKHqtIS4Q"
     },
     {
       "album": {
@@ -1906,10 +1960,28 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 194832,
       "name": "Jacob",
       "url": "https://open.spotify.com/track/26qFewy8bvThU3YwLl4Gus"
+    },
+    {
+      "album": {
+        "name": "June in July",
+        "url": "https://open.spotify.com/album/6rW5WavhcmgFDRdkcwiG0S"
+      },
+      "artists": [
+        {
+          "name": "Murdo Mitchell",
+          "url": "https://open.spotify.com/artist/1hxBd0Mu9CDjEoBuEpxpxt"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "June in July",
+      "url": "https://open.spotify.com/track/08eZYNlEShS5cV2zKTe2ys"
     },
     {
       "album": {
@@ -2656,7 +2728,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 216986,
       "name": "racing raindrops",
       "url": "https://open.spotify.com/track/5a8vUea67BZ7oO9aQq87BB"
@@ -2768,6 +2840,24 @@
       "duration_ms": 196000,
       "name": "Roadkill",
       "url": "https://open.spotify.com/track/6GVkrP8EWvcZ0xnq9HJBSA"
+    },
+    {
+      "album": {
+        "name": "Songs For The Canyon",
+        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151960,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/00qJKFfHIjJ5qKC5JtqBSZ"
     },
     {
       "album": {
@@ -3326,7 +3416,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 150929,
       "name": "The World Seen Through Your Eyes",
       "url": "https://open.spotify.com/track/3wZJx9WqtJpWwtJ0rRjRFv"
@@ -3456,6 +3546,24 @@
       "duration_ms": 190899,
       "name": "Time Difference - Acoustic",
       "url": "https://open.spotify.com/track/4yqe8S8sc2OkU8WMjIHRU7"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/0FpJ9wlktoKInqfSpgBSjf"
+      },
+      "artists": [
+        {
+          "name": "Rosie H Sullivan",
+          "url": "https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273687,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/3AZ3iDuNNkxIKYZJiFzYvc"
     },
     {
       "album": {

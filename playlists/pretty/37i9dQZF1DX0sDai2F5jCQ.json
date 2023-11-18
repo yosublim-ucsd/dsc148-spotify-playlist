@@ -1,12 +1,12 @@
 {
   "description": "Hip-Hop's hottest from Australia, New Zealand and beyond. Cover: Jack Harlow",
-  "num_followers": 436512,
+  "num_followers": 436570,
   "original_name": "A1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTAyZDk3NWUxYWRkNjY5NDM4OGE2NjMwODI2ZGRlYTI0NjNkMWU5",
+  "snapshot_id": "MCw5NmZhYmZjNDhlYTUzNDYyOGVmYWE2M2VlNmZjMTdmZTcwNDhhYTMy",
   "tracks": [
     {
       "added_at": "2023-11-16 13:00:00",
@@ -23,6 +23,26 @@
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "added_at": "2023-11-17 02:08:15",
+      "album": {
+        "name": "For All The Dogs Scary Hours Edition",
+        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 227692,
+      "name": "Evil Ways (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa"
     },
     {
       "added_at": "2023-11-16 13:00:00",
@@ -75,8 +95,8 @@
     {
       "added_at": "2023-11-16 13:00:00",
       "album": {
-        "name": "BADMAN",
-        "url": "https://open.spotify.com/album/4Wz8kZJqiiUDGvLlkqRoDk"
+        "name": "FREEDOM",
+        "url": "https://open.spotify.com/album/2QRJBU3HqPYYfE1Qh8Njy3"
       },
       "artists": [
         {
@@ -90,7 +110,7 @@
       ],
       "duration_ms": 117839,
       "name": "BADMAN",
-      "url": "https://open.spotify.com/track/0Huo2MOsAvEhpmXLcKYYY9"
+      "url": "https://open.spotify.com/track/3FEAgxuYNeFjKzwNqRcnwV"
     },
     {
       "added_at": "2023-11-16 13:00:00",
@@ -287,8 +307,8 @@
     {
       "added_at": "2023-11-16 13:00:00",
       "album": {
-        "name": "When I Was Dead (Original Version)",
-        "url": "https://open.spotify.com/album/706gbProQVkQA9pAz5aSjc"
+        "name": "When I Was Dead",
+        "url": "https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR"
       },
       "artists": [
         {
@@ -298,7 +318,7 @@
       ],
       "duration_ms": 165765,
       "name": "Lemme See",
-      "url": "https://open.spotify.com/track/24yqhl33zaZf84naREO04L"
+      "url": "https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1"
     },
     {
       "added_at": "2023-11-16 13:00:00",

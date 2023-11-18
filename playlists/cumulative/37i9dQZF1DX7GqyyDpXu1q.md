@@ -4,7 +4,7 @@
 
 > Southern rock swagger served neat\. Cover: Chris Stapleton
 
-217 songs - 13 hr 17 min
+220 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Heavy Shoes](https://open.spotify.com/track/4kUKD5Ndc5nNBeSTuilhod) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:10 | 2022-06-14 |  |
 | [Heavy Shoes](https://open.spotify.com/track/5CkCBRgNV3CgpyRa3CVsrX) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/0KlUUvWNagvZn3hLexfpFb) | 3:10 | 2021-06-11 | 2022-07-29 |
 | [Heavy Soul](https://open.spotify.com/track/5qwc4qqv0CHfbJN6byvExp) | [David Shaw](https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe) | [Heavy Soul](https://open.spotify.com/album/3OvB15dImXdgGbmn3ew162) | 3:02 | 2021-02-26 |  |
-| [High Road](https://open.spotify.com/track/3a8JgRmYWnREuCLkar4jMT) | [Black Heart Saints](https://open.spotify.com/artist/2CTB1wGYcMnQP7PhbR6BkE) | [High Road](https://open.spotify.com/album/687EnxJy2uBKIZj8RQdcv1) | 4:34 | 2022-03-21 |  |
+| [High Road](https://open.spotify.com/track/3a8JgRmYWnREuCLkar4jMT) | [Black Heart Saints](https://open.spotify.com/artist/2CTB1wGYcMnQP7PhbR6BkE) | [High Road](https://open.spotify.com/album/687EnxJy2uBKIZj8RQdcv1) | 4:34 | 2022-03-21 | 2023-11-18 |
 | [High Time](https://open.spotify.com/track/2A5Xy5HWeRWvWjvv7ObIFZ) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Get Rollin'](https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb) | 3:54 | 2023-09-12 |  |
 | [High Time](https://open.spotify.com/track/37cUGI1BZADBtseJQJ4Nld) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Get Rollin'](https://open.spotify.com/album/660c34OZzJ4gUd0rXe8ARp) | 3:54 | 2022-11-18 | 2023-11-04 |
 | [Highway Will](https://open.spotify.com/track/5NK0LWKSpXco6ozy72CZal) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Highway Will](https://open.spotify.com/album/6NG3wHuPma92oH37i68GYe) | 3:13 | 2021-06-25 |  |
@@ -155,8 +155,9 @@
 | [Naturally Wild](https://open.spotify.com/track/3Qi4gIj4fB6PF3lDKC1DDd) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY), [John 5](https://open.spotify.com/artist/7mAqCk75DUBWgcC0sqhzwX) | [Co\-Starring Too](https://open.spotify.com/album/2qdRjOgx6MnLayfn9QZiJE) | 3:14 | 2022-06-14 |  |
 | [Naturally Wild](https://open.spotify.com/track/4knNAr5ucLNBK87EbrcaM1) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY), [John 5](https://open.spotify.com/artist/7mAqCk75DUBWgcC0sqhzwX) | [Best Of Texas](https://open.spotify.com/album/7n5kk7GcghkAhiclSlRScR) | 3:14 | 2022-10-28 | 2022-11-13 |
 | [Naturally Wild](https://open.spotify.com/track/5qg7MzDQ51X2TTDuTIqh2o) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY), [John 5](https://open.spotify.com/artist/7mAqCk75DUBWgcC0sqhzwX) | [Naturally Wild](https://open.spotify.com/album/6EGo7nlEgTBejeViAv1NOk) | 3:14 | 2022-02-11 | 2022-07-29 |
+| [Need A Favor](https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:17 | 2023-11-17 |  |
 | [Need A Favor](https://open.spotify.com/track/5jUOG0aeAofL5u3UWyrtDO) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Need A Favor](https://open.spotify.com/album/72HQoHvsJTqQaCh3tKyVrd) | 3:17 | 2023-05-12 | 2023-06-10 |
-| [Need A Favor](https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:17 | 2023-06-09 |  |
+| [Need A Favor](https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:17 | 2023-06-09 | 2023-11-18 |
 | [Nervous](https://open.spotify.com/track/5fQF78hwHmuRS6s6VRTAMG) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Nervous](https://open.spotify.com/album/2nzUJkFqobo7AeMczO9v7q) | 3:15 | 2023-05-12 |  |
 | [Never Enough](https://open.spotify.com/track/4W8zk9Kyvg3FzwAk0kjtuj) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 4:03 | 2021-01-29 | 2023-07-15 |
 | [New York Comeback](https://open.spotify.com/track/625yUfXi4e8pyFnYsLxXOt) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Where The Song Will Find Me](https://open.spotify.com/album/4RbN6hi2eMIEDz3SDYdZ4N) | 4:14 | 2023-06-09 | 2023-07-22 |
@@ -178,6 +179,7 @@
 | [Ride It Hard](https://open.spotify.com/track/6zqSYGnRnqwpNpCGI5dVfL) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Ride It Hard](https://open.spotify.com/album/09TSAcZhjfhqjnej2rcfIV) | 2:30 | 2022-10-28 |  |
 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi) | 3:06 | 2021-09-03 |  |
 | [Rock and Roll \(Ain't No Simple Thing\)](https://open.spotify.com/track/76kfV1gUWJ4wskDtiMfK36) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [No Simple Thing](https://open.spotify.com/album/7m23UIStg6wDZJpjGRzQQV) | 3:23 | 2021-05-28 |  |
+| [Rockstar](https://open.spotify.com/track/6SDLnwEFTJzKXyU12M7EgJ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Rockstar](https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2) | 4:36 | 2023-11-17 |  |
 | [Rolling Off My Tongue](https://open.spotify.com/track/7qzXjNuwpSgqydOt5lv3PJ) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Rolling Off My Tongue](https://open.spotify.com/album/51VR4e9Pbf2J6NADaSwEMO) | 3:18 | 2020-08-21 | 2022-01-22 |
 | [Shaking off the Evil](https://open.spotify.com/track/3ciJVCGD7fJmHQPyVGcG2U) | [Moon Fever](https://open.spotify.com/artist/1CYg3IXkeWG2riXsL0Df1u) | [Shaking off the Evil](https://open.spotify.com/album/5d0TZJlxMGzDsIhAbJOyQR) | 3:53 | 2020-08-21 | 2022-07-29 |
 | [Shaking Off The Evil](https://open.spotify.com/track/4WtE2YBjbAXq252VSmAu1R) | [Moon Fever](https://open.spotify.com/artist/1CYg3IXkeWG2riXsL0Df1u) | [Shaking off the Evil](https://open.spotify.com/album/47U87lVnq682jHjg6YUp92) | 3:53 | 2022-06-14 | 2023-01-06 |
@@ -187,7 +189,8 @@
 | [Sing Along](https://open.spotify.com/track/0JwtuqKYYCA1iJ5cubotGW) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [SOUND & FURY](https://open.spotify.com/album/2ITJBRqMwZ0luWBnnZQ4Hq) | 2:54 | 2021-10-01 | 2022-02-19 |
 | [Smokestack Lightning](https://open.spotify.com/track/0AA58C0kJduvq8gvDF1E4r) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Smokestack Lightning](https://open.spotify.com/album/1mS7rSoYHzeyCHk7KHuERv) | 3:58 | 2022-04-08 | 2023-06-08 |
 | [Smokestack Lightning](https://open.spotify.com/track/2bPgtSoGMHuNC4rSicZD1u) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [You Broke Me](https://open.spotify.com/album/6FUkiLmFmp38aCV9DP6vAh) | 3:58 | 2023-05-12 |  |
-| [Sober](https://open.spotify.com/track/46NdO4T844WlG2nIfETxVl) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Sober](https://open.spotify.com/album/248lL8djvrPqwARAXJDbDa) | 2:36 | 2021-08-13 |  |
+| [Sober](https://open.spotify.com/track/46NdO4T844WlG2nIfETxVl) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Sober](https://open.spotify.com/album/248lL8djvrPqwARAXJDbDa) | 2:36 | 2021-08-13 | 2023-11-18 |
+| [Sober](https://open.spotify.com/track/0fYEckNsTfncGvfwafcsEx) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads of the Broken](https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL) | 2:36 | 2023-11-17 |  |
 | [SOLD OUT](https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [SOLD OUT](https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm) | 3:22 | 2022-03-18 | 2022-10-08 |
 | [Son Of A Sinner](https://open.spotify.com/track/25VQoiuyc0HkC5FQTj1a8G) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads Of The Broken](https://open.spotify.com/album/4aWPCLZWr9gG0ucLIMJavx) | 3:52 | 2021-09-17 | 2023-05-13 |
 | [Soul Sweet Song](https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Soul Sweet Song](https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud) | 3:55 | 2022-08-16 | 2023-05-13 |

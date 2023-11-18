@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-07-14",
-  "description": "Louder, faster! Kickass metal tracks to drive you forward.",
-  "name": "Metal Charge",
+  "description": "Attribute to the strength built through the years, as Robb would say.",
+  "name": "Blood, Sweat & Cheers",
   "tracks": [
     {
       "album": {
@@ -956,7 +956,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 283957,
       "name": "Cellar Door",
       "url": "https://open.spotify.com/track/0seYEimfvmRFTXxODTNcqb"
@@ -1890,7 +1890,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 173174,
       "name": "Holy Roller",
       "url": "https://open.spotify.com/track/3q7kMFce0TnDafVUzq8IpE"
@@ -2168,7 +2168,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 171491,
       "name": "Keep Your Distance",
       "url": "https://open.spotify.com/track/1LnId5vVcxflSKqF7VbdNY"
@@ -2204,7 +2204,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 284026,
       "name": "Kickstart My Heart",
       "url": "https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn"
@@ -2672,7 +2672,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 265750,
       "name": "Obsolete",
       "url": "https://open.spotify.com/track/4d8iN5Re3A6UOYVxZAbJ7v"
@@ -2924,7 +2924,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 239779,
       "name": "Painless",
       "url": "https://open.spotify.com/track/4IkCvLPQfBEclen1NuIDIL"
@@ -3050,7 +3050,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 241871,
       "name": "Prisoner",
       "url": "https://open.spotify.com/track/745kdUEA8U8K2AoigX7Myx"
@@ -3714,6 +3714,24 @@
       "duration_ms": 430213,
       "name": "Temple Of Circadia",
       "url": "https://open.spotify.com/track/4DkdmrJ1P8v1PFZrBZIuoV"
+    },
+    {
+      "album": {
+        "name": "The Burning Red",
+        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "The Blood, the Sweat, the Tears",
+      "url": "https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV"
     },
     {
       "album": {

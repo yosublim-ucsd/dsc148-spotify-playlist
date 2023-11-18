@@ -4,7 +4,7 @@
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-268 songs - 15 hr 52 min
+269 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Ain't Great \(Reimagined\)](https://open.spotify.com/track/0x5A9QV12kA4zbn9xwd488) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [SKRWD: Reimagined](https://open.spotify.com/album/1h8DWjioTR1ftWJSNgyFNM) | 3:10 | 2021-02-08 | 2022-07-28 |
 | [All Star](https://open.spotify.com/track/0HkRMt2KB4m4DMrrzzbCFW) | [Future Teens](https://open.spotify.com/artist/4psGjIN7MDwMYJTlRjauKr) | [Sensitive Sessions](https://open.spotify.com/album/6povHARLx59tDWzF7Crvup) | 5:47 | 2022-04-04 | 2022-04-21 |
 | [Amber](https://open.spotify.com/track/5wujDwycsfXFaPomv4KhFh) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Amber](https://open.spotify.com/album/6hZ4mbO692UE2BOiInYcPa) | 3:42 | 2021-02-08 | 2022-04-11 |
+| [Aquamarine \(Acoustic\)](https://open.spotify.com/track/0HU0bozP9c79zhdEvJw8ls) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [The Afterglow / Aquamarine](https://open.spotify.com/album/1mBqUWC3jWAzjOXcId04LN) | 3:52 | 2022-04-04 |  |
 | [Aquamarine \- Acoustic](https://open.spotify.com/track/6z2m3ZQTUXm03accvTLVoi) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [The Afterglow / Aquamarine](https://open.spotify.com/album/7v8VHfKqywRoN3ZsHkDimo) | 3:52 | 2022-04-04 | 2023-11-11 |
 | [Aquamarine \- Acoustic](https://open.spotify.com/track/53LGV6RURvOGCx2w8J9LaF) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [The Afterglow / Aquamarine](https://open.spotify.com/album/2Twnd33eoKXJojSFRXZPS7) | 3:52 | 2021-02-08 | 2022-07-29 |
 | [Atlantic \- Acoustic](https://open.spotify.com/track/1PoASGPXqcK2cPkS2QywaW) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [Punk Goes Acoustic, Vol\. 3](https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6) | 3:50 | 2021-02-08 | 2022-07-16 |
@@ -185,7 +186,7 @@
 | [Passing Through a Screen Door](https://open.spotify.com/track/7ePkayJpwG3OxNT6UN20ZU) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K), [Little Kruta](https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe) | [Burst & Decay \(Volume II\)](https://open.spotify.com/album/6IIV6gHEqxVCydojrHVm6L) | 4:05 | 2021-02-08 | 2022-07-29 |
 | [Patience](https://open.spotify.com/track/1xwJpkTCba8guExNTHFd1H) | [Cory Wells](https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG) | [Patience](https://open.spotify.com/album/3LbFLyD7bHKLYds3UFw6G8) | 3:44 | 2021-02-08 | 2022-07-29 |
 | [Patience](https://open.spotify.com/track/3Tdm0rR9xKlHDVr6QY1dYU) | [Cory Wells](https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG) | [The Way We Are](https://open.spotify.com/album/35Gpjsc0v57PxfeCNL8ovv) | 3:45 | 2022-04-04 |  |
-| [Pavement \(Acoustic\)](https://open.spotify.com/track/6x6aHBeRb6Yy7gU29ctYMy) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Pavement \(Acoustic\)](https://open.spotify.com/album/6EjQOwjTQoiM9X8MW8azuP) | 4:00 | 2022-04-04 |  |
+| [Pavement \(Acoustic\)](https://open.spotify.com/track/6x6aHBeRb6Yy7gU29ctYMy) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Pavement \(Acoustic\)](https://open.spotify.com/album/6EjQOwjTQoiM9X8MW8azuP) | 4:00 | 2022-04-04 | 2023-11-18 |
 | [Pavement \(Acoustic\)](https://open.spotify.com/track/7ewuuvaj84vzUKpq8SYwCn) | [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [Pavement \(Acoustic\)](https://open.spotify.com/album/7c84hLBvFMTGpCXL0drPB9) | 4:00 | 2021-02-08 | 2022-07-29 |
 | [Peace of Mind \- Acoustic](https://open.spotify.com/track/1coIjlaBlQw11S1OPu2AcW) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Alone in the Dark](https://open.spotify.com/album/0TlOemPEohRjRYtVV4u7NC) | 4:06 | 2021-02-08 | 2022-07-06 |
 | [Pieces \(Acoustic\)](https://open.spotify.com/track/1bQcJc71ScYiurNEGNIaOx) | [MariaHill](https://open.spotify.com/artist/1n70LfQ2jXSKxoK1PI7oLt) | [Lie to Me](https://open.spotify.com/album/6I0naPXaPOIFFmqOMlzQYB) | 3:22 | 2021-02-08 | 2022-07-27 |

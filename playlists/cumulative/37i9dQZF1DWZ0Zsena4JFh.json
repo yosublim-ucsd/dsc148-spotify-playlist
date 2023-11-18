@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "All In Vain",
+        "url": "https://open.spotify.com/album/63HRl5LuCZyHWNXRkS3ZUC"
+      },
+      "artists": [
+        {
+          "name": "bob junior",
+          "url": "https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne"
+        },
+        {
+          "name": "Inner Wave",
+          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188907,
+      "name": "All In Vain",
+      "url": "https://open.spotify.com/track/3ZINqVgKWFWJ6eNjtHRcYl"
+    },
+    {
+      "album": {
         "name": "Artefact (feat. Le\u00f3n Larregui)",
         "url": "https://open.spotify.com/album/1xknqSH8BF4brwlQlDjk0L"
       },
@@ -265,6 +287,24 @@
     },
     {
       "album": {
+        "name": "Crashing Through",
+        "url": "https://open.spotify.com/album/0M64PelFgrQAN5hnkB3vMi"
+      },
+      "artists": [
+        {
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223771,
+      "name": "Crashing Through",
+      "url": "https://open.spotify.com/track/3KO92UFKrYFiPxC7Je8vop"
+    },
+    {
+      "album": {
         "name": "Deep In The Night",
         "url": "https://open.spotify.com/album/0all27jwHZPzarvQ86tj6p"
       },
@@ -276,7 +316,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 207133,
       "name": "Deep In The Night",
       "url": "https://open.spotify.com/track/6gtHOp7wydpyIguAIxWrTb"
@@ -338,7 +378,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 201375,
       "name": "Elton",
       "url": "https://open.spotify.com/track/6Dwr4poNQsDck8RY8LLnUk"
@@ -646,7 +686,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 157000,
       "name": "Isolette - Edit",
       "url": "https://open.spotify.com/track/4s8bmFAHXhmPHrBasuGx62"
@@ -761,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Lunar Eclipse",
+        "url": "https://open.spotify.com/album/5eHQVvyhbGQdSgPdwngpQ6"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176578,
+      "name": "Lunar Eclipse",
+      "url": "https://open.spotify.com/track/0dE7NZN4VVLlLxJ7WPgpqd"
+    },
+    {
+      "album": {
         "name": "Melody Experiment",
         "url": "https://open.spotify.com/album/08WSSXUZVNGgS6yTQ0l4Ho"
       },
@@ -808,7 +866,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 257200,
       "name": "My Room",
       "url": "https://open.spotify.com/track/6lUndwwkTFbuVSNytr62pG"
@@ -1066,10 +1124,28 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 245933,
       "name": "Seaforth",
       "url": "https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH"
+    },
+    {
+      "album": {
+        "name": "Thank You Happy Birthday (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3jytOUwcg7ba7sMnma78k9"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237060,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/54W4dN6L58ySaW7WkWlTQ5"
     },
     {
       "album": {
@@ -1084,7 +1160,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 205546,
       "name": "Sidelines",
       "url": "https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW"
@@ -1185,6 +1261,28 @@
     },
     {
       "album": {
+        "name": "Forever Never Cares",
+        "url": "https://open.spotify.com/album/7pearr4dOjSf9cNDe5lHeL"
+      },
+      "artists": [
+        {
+          "name": "Busty and the Bass",
+          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
+        },
+        {
+          "name": "Jordan Brown",
+          "url": "https://open.spotify.com/artist/4bp25HfiPZW8JLc4DUEhP6"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227583,
+      "name": "Starstruck",
+      "url": "https://open.spotify.com/track/6xfghae1MOkdMCf3xDCcxP"
+    },
+    {
+      "album": {
         "name": "Stay For Something",
         "url": "https://open.spotify.com/album/7FKbJ9vC8xVqDoD9OAPTBS"
       },
@@ -1214,7 +1312,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 352670,
       "name": "Sun Girl",
       "url": "https://open.spotify.com/track/0sMgwHapnEjJ7ixPHuvE8m"
@@ -1261,6 +1359,28 @@
     },
     {
       "album": {
+        "name": "Typical",
+        "url": "https://open.spotify.com/album/2DjjY1hhVEV4B6X6cEUCc6"
+      },
+      "artists": [
+        {
+          "name": "Daniel Noah Miller",
+          "url": "https://open.spotify.com/artist/0ofVQtXisiSCBVTW9tNUTS"
+        },
+        {
+          "name": "Lewis Del Mar",
+          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201386,
+      "name": "Typical",
+      "url": "https://open.spotify.com/track/6E7pDd86Ps7k9eJonSQfh9"
+    },
+    {
+      "album": {
         "name": "Vampire Empire",
         "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
       },
@@ -1276,6 +1396,24 @@
       "duration_ms": 192127,
       "name": "Vampire Empire",
       "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
+    },
+    {
+      "album": {
+        "name": "Wall Of Eyes",
+        "url": "https://open.spotify.com/album/200fExjblMBQHdfptuDUra"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305946,
+      "name": "Wall Of Eyes",
+      "url": "https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J"
     },
     {
       "album": {

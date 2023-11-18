@@ -922,10 +922,28 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 164444,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/0nVeZ5dj57NhFomDVVxQsZ"
+    },
+    {
+      "album": {
+        "name": "In The Morning",
+        "url": "https://open.spotify.com/album/4rEM6qbMmPiVgOxMTuaCzu"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164444,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/6qU4WFDcW9ENITjPMdY3bC"
     },
     {
       "album": {
@@ -1414,6 +1432,24 @@
     {
       "album": {
         "name": "Sunny",
+        "url": "https://open.spotify.com/album/5FyY9wYLHeJoFzPl0tOU5k"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211406,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/2PQNbNPuSfNa3B3r447fbL"
+    },
+    {
+      "album": {
+        "name": "Sunny",
         "url": "https://open.spotify.com/album/2i3jnMLFQZewasZEC3gVOB"
       },
       "artists": [
@@ -1424,7 +1460,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 211406,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/5SmJPXHVK4G0oKOdn3D5LP"

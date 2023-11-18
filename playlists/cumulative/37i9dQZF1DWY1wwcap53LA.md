@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Reyna Roberts
 
-182 songs - 9 hr 25 min
+183 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Song of the Summer](https://open.spotify.com/track/54RQicVADP64aUiorGLj2K) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo), [Una Healy](https://open.spotify.com/artist/0yPAOmYRSrkuKnp70eLKLx) | [Song of the Summer](https://open.spotify.com/album/1ta49NPJlUEf6ZdvY2YKDy) | 3:07 | 2021-12-03 | 2023-02-18 |
 | [Southern Curls](https://open.spotify.com/track/2PXlqCswcJk7DHm605QFoP) | [Julie Williams](https://open.spotify.com/artist/4sRUZFWl0hDJg6MW9lHKR9) | [Southern Curls](https://open.spotify.com/album/0xea2CsAsnZK4JljMCXcJ5) | 4:38 | 2021-12-03 |  |
 | [Standards](https://open.spotify.com/track/1XQcnIA8QsYmNuNVUzWVMQ) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [The Best Thing](https://open.spotify.com/album/7Gw93eT5wLVQfpRVizuNka) | 2:54 | 2021-12-03 |  |
+| [Stay in Bed](https://open.spotify.com/track/4iwjHOttd1glzNXJTEOSdV) | [Michael Warren](https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq) | [Stay in Bed](https://open.spotify.com/album/6Rvln9KI4IeotOFYLdasN0) | 2:46 | 2023-11-17 |  |
 | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/track/65pPit9Qk9ZTlhO2mMtwR2) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Strawberry Wine \- Spotify Singles](https://open.spotify.com/album/3ylahM5yMii7H2Z8FkoxZy) | 4:20 | 2021-12-03 |  |
 | [Stuck In The Middle](https://open.spotify.com/track/4ApYBiJuL9cKgrjYVQ6nNb) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Stuck In The Middle](https://open.spotify.com/album/6BVZYnD89rJA6USQhwfm2P) | 2:49 | 2023-02-17 | 2023-08-15 |
 | [Stuck In The Middle](https://open.spotify.com/track/4Tz1V1PaksTofLYLZVoaVr) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Blood Harmony](https://open.spotify.com/album/1qWvMwDIbDa9Qt5cuHFLRy) | 2:49 | 2023-08-11 |  |

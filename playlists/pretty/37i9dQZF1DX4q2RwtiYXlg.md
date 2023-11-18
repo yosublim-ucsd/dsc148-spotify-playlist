@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4q2RwtiYXlg.md) - [plain]
 
 > You can vote for Worldwide Fans' Choice Category by listening to the song of the artist you support for longer than 30 seconds\. \(First streams only per day\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,778 likes - 20 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,038 likes - 20 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4q2RwtiYXlg.md) - [plain]
 | 19 | [SET ME FREE](https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:01 |
 | 20 | [In Bloom](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 3:00 |
 
-Snapshot ID: `MCw1N2NmOGJiMGI1OTQ2ZGQ1NDc1OTc0YzcyZjk5OGRmOTVhODg2ODdk`
+Snapshot ID: `MCxhNjc1NDQyYzczMjFkOGU2ZTgyNDYxOTlhNmYwMzEyNGJjMWYyMTBk`

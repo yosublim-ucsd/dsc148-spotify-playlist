@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > <a href="http://spotify.com/transvisibility">Take action to support the transgender community.</a> Cover: Cry Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,823 likes - 65 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,844 likes - 65 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 32 | [Forever In Sunset](https://open.spotify.com/track/7ofb8SMiE4pDit5ewXNArn) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [All Of Us Flames](https://open.spotify.com/album/5vO3cJcNAgBv91ADrMnc8l) | 4:22 |
 | 33 | [Brave](https://open.spotify.com/track/6pVWyzDnj5gazL2QpZN9Qv) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [Angelica](https://open.spotify.com/album/2FRhqyhCl2pz7Bx7IiugOI) | 3:04 |
 | 34 | [Milk Crates](https://open.spotify.com/track/2aQFOiBluW27W0QgX8OyT0) | [Pigeon Pit](https://open.spotify.com/artist/4Bmvzoo0CzEGV4EczcG9rv) | [Feather River Canyon Blues](https://open.spotify.com/album/5IKZagP7WqllsU8uE0weeC) | 2:58 |
-| 35 | [Sharkbait](https://open.spotify.com/track/1u5UqFrPc3h6FMQGS1kw9M) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Sharkbait](https://open.spotify.com/album/2rfrl6hCzss0k9DZMf0pwB) | 3:38 |
+| 35 | [Sharkbait](https://open.spotify.com/track/7x2TvlkZVff8NNmKt69qF9) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Sharkbait](https://open.spotify.com/album/51usdyS2IkMuLteds1Inta) | 3:38 |
 | 36 | [Softness As A Weapon](https://open.spotify.com/track/1NlXQ0Qrxyp1GdMWMzjzly) | [Kindness](https://open.spotify.com/artist/6SYIsHAQ1sPokVxmzpaDBU) | [Something Like A War](https://open.spotify.com/album/74G1akk8NptEEoJgZHDYhz) | 5:08 |
 | 37 | [Kaleidoscópica](https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:34 |
 | 38 | [Nothing Really Changes](https://open.spotify.com/track/1leEYX5WwLXsMftG6XzEo1) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Brain Worms](https://open.spotify.com/album/5qAcUPxM27DFP7xvO4nHho) | 4:41 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 64 | [Snow Globe](https://open.spotify.com/track/0HIgjxzpOhYH63sSu8Fy3f) | [Reggii](https://open.spotify.com/artist/6vbpxLwv8WN7U5Yr6rnLdP) | [Snow Globe](https://open.spotify.com/album/3fkg3Lc4FhrTwzkDVnquzo) | 3:23 |
 | 65 | [Rendezvous](https://open.spotify.com/track/5UNRCb1mKJHiU6iQlGlKuv) | [Miss Benny](https://open.spotify.com/artist/4tcbyfp5CTM0m9AQYGduIX) | [Rendezvous](https://open.spotify.com/album/7jWbadSB4MhmBmt5ZgpW1e) | 3:16 |
 
-Snapshot ID: `MCxiMGUwZDNjMjEyNjFhMzVlZmI0ODZhNTU4NTJhMDE5ODU2ZGY4ZjM4`
+Snapshot ID: `MCxjMjQ4ZGI4NGM2Y2FmMTYwMTk4NGE2ZWMyNDViMjU3ODEyYTNiNjZi`

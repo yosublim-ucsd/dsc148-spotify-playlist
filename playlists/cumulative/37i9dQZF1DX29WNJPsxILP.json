@@ -81,6 +81,28 @@
     },
     {
       "album": {
+        "name": "Graveyard Shift",
+        "url": "https://open.spotify.com/album/4JANSUDMyIlEcMuM1QeFAe"
+      },
+      "artists": [
+        {
+          "name": "yungsta",
+          "url": "https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB"
+        },
+        {
+          "name": "Sez on the Beat",
+          "url": "https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231644,
+      "name": "Aamdani",
+      "url": "https://open.spotify.com/track/7cUXdknIYp5WapBSweV4Xl"
+    },
+    {
+      "album": {
         "name": "Abey Yaar",
         "url": "https://open.spotify.com/album/0TL3cakInbP0w8mRY7mFr4"
       },
@@ -570,6 +592,28 @@
       "duration_ms": 198117,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/4cbN08AlbNtanvMNhPVcPe"
+    },
+    {
+      "album": {
+        "name": "Drifta",
+        "url": "https://open.spotify.com/album/0s7h4UyNaW4j3mwOQwbCgV"
+      },
+      "artists": [
+        {
+          "name": "Ruhaan79",
+          "url": "https://open.spotify.com/artist/5SF0jmBaNgXoDE7VuUypTL"
+        },
+        {
+          "name": "DAKSH",
+          "url": "https://open.spotify.com/artist/78bNETOrFeEr5MISnz1wMH"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166472,
+      "name": "Drifta",
+      "url": "https://open.spotify.com/track/7mdYZBW0QlFjClvN1a7hyL"
     },
     {
       "album": {
@@ -2302,7 +2346,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 200479,
       "name": "War",
       "url": "https://open.spotify.com/track/6mRccKSAN4IChtUsnAzVGl"

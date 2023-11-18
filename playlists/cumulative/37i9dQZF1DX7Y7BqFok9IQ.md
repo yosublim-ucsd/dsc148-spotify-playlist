@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Rival Sons
 
-258 songs - 16 hr 19 min
+260 songs - 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Baby Blue](https://open.spotify.com/track/7syfhu9aBNf1pm0X3PPnkp) | [Gyasi](https://open.spotify.com/artist/58hf5laRpsJcrGFitleHuj) | [Baby Blue](https://open.spotify.com/album/4voq4iXsadEaw7fAq6JRAV) | 3:23 | 2023-02-17 | 2023-04-30 |
 | [Back to the Good](https://open.spotify.com/track/5lJeApjTsFOmSb0Q3iCmQs) | [Chris Antonik](https://open.spotify.com/artist/55m5gPmPkNV7Ztg6vBDcvD) | [Morningstar](https://open.spotify.com/album/5ON1Hg65ctPjcsaoFfm52F) | 4:13 | 2022-08-12 |  |
 | [Bad Luck & The Blues](https://open.spotify.com/track/3qzBFSuSn5znP9VoejSbVs) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Bad Luck & The Blues](https://open.spotify.com/album/6VrFipxIHUZiZfGjiisw6p) | 4:09 | 2023-06-23 | 2023-08-26 |
+| [Bad News](https://open.spotify.com/track/1E79K11SaKfzGPpzPKBvAp) | [Ace Monroe](https://open.spotify.com/artist/7Lcyr9TK4WHr4ojZiYhbYV) | [Ace Monroe](https://open.spotify.com/album/2cJSZ0UN4WeZpD2yXwEuCd) | 3:05 | 2023-11-17 |  |
 | [Bad Spell](https://open.spotify.com/track/5ixdi1J5GIRKmmwqJiyINe) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:15 | 2023-04-25 |  |
 | [Ball And Chain](https://open.spotify.com/track/0QQIcQzNDvqgiVhIpIQegS) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Ball And Chain](https://open.spotify.com/album/4d4u7hmfuqvEmuXEQXONnk) | 5:04 | 2021-04-09 | 2022-07-29 |
 | [Ballad of a Thin Man](https://open.spotify.com/track/2xwHS9jXykoQIEVzbQzycq) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Trouble Is..\. 25](https://open.spotify.com/album/4AhbhmM5KARl99yljXbZ5m) | 6:33 | 2022-11-04 | 2023-08-26 |
@@ -56,9 +57,10 @@
 | [Dark Side](https://open.spotify.com/track/0mQyWnVZ09hgVRITJMACgJ) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Dark Side](https://open.spotify.com/album/5b96aKOHRQ9J7vtX6r1P4E) | 3:23 | 2023-08-04 |  |
 | [Death by Misadventure](https://open.spotify.com/track/1rHGpxJKJZb5QzcKUlhfb1) | [The Infamists](https://open.spotify.com/artist/5rqXUA24KUryMCNvNTqR6B) | [Live Evil](https://open.spotify.com/album/06wuQ81ou2JE8xdXXlqMSB) | 3:26 | 2023-04-07 |  |
 | [Destination Unknown](https://open.spotify.com/track/2svcyE4LIiCKgBOVGtLDdC) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Destination Unknown](https://open.spotify.com/album/11HPOujLHHqTCpAbVNnBd5) | 4:50 | 2022-09-09 | 2023-04-22 |
+| [Dirt On My Diamonds](https://open.spotify.com/track/5EtjaLlwWCGojDkPc3aFfO) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Dirt On My Diamonds, Vol\. 1](https://open.spotify.com/album/6mAmIXjkf15GnL9LFpW8yL) | 3:23 | 2023-11-17 |  |
 | [dirty claws](https://open.spotify.com/track/4dTnpAfrXeEWuGQt1cA3SF) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [play it pretty](https://open.spotify.com/album/7fip95aV1gjbCJBqHoa8lR) | 3:56 | 2022-06-10 |  |
 | [Don't Hold Back](https://open.spotify.com/track/7KuzFCe2TWROqlvBzfIuAV) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [Don't Hold Back](https://open.spotify.com/album/7wwoBmP3QNiAEhYcjaBYQr) | 4:06 | 2023-05-26 | 2023-06-24 |
-| [Don't Look Down](https://open.spotify.com/track/4AlmXv44tiJ9dbJSeX8EKD) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Don't Look Down](https://open.spotify.com/album/1fKlDb2Fk6pRpnt1DFQVTO) | 4:16 | 2023-07-07 |  |
+| [Don't Look Down](https://open.spotify.com/track/4AlmXv44tiJ9dbJSeX8EKD) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Don't Look Down](https://open.spotify.com/album/1fKlDb2Fk6pRpnt1DFQVTO) | 4:16 | 2023-07-07 | 2023-11-18 |
 | [Down On The Bottom](https://open.spotify.com/track/42E1wt4PuswhRLnpoGJu7y) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Down On The Bottom](https://open.spotify.com/album/0TQOj4sXi3e53CH2V4odAX) | 4:36 | 2021-08-06 |  |
 | [Down the Drain](https://open.spotify.com/track/17VWykhZ1NSS57S2BbzBQ9) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Down the Drain](https://open.spotify.com/album/5k7nwqMONpVKz3wir3fHw6) | 3:28 | 2022-10-28 | 2022-11-28 |
 | [Eagle Birds](https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:40 | 2020-10-16 | 2023-08-19 |
@@ -212,7 +214,7 @@
 | [Suit in the Back](https://open.spotify.com/track/4EzxzCXgjuHFgWx1j2xDHc) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [QCNH](https://open.spotify.com/album/0kGed2LeKgJxM3wiX8ykt2) | 2:53 | 2020-10-16 |  |
 | [Sunshine Lady](https://open.spotify.com/track/2bsJZptUrnp4Rt786WKxc6) | [The Shelter People](https://open.spotify.com/artist/3m1rUUzCaulww0FUM2Gw1i) | [Sunshine Lady / Rock n Roll](https://open.spotify.com/album/0LZ5hsTglEgJovaQgDru6v) | 3:01 | 2022-06-03 |  |
 | [Superhuman](https://open.spotify.com/track/5IT0dXkBnNZ1cefzaSWDWx) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Superhuman](https://open.spotify.com/album/1B25jVWUCH41IhBo6iz5WK) | 4:05 | 2021-12-07 | 2023-08-05 |
-| [Sweet & Low](https://open.spotify.com/track/4RuruayuG27N6NOw6fis9I) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Sweet & Low](https://open.spotify.com/album/3C2esoQ2IvOC6cccE6y5kE) | 3:55 | 2023-08-25 |  |
+| [Sweet & Low](https://open.spotify.com/track/4RuruayuG27N6NOw6fis9I) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Sweet & Low](https://open.spotify.com/album/3C2esoQ2IvOC6cccE6y5kE) | 3:55 | 2023-08-25 | 2023-11-18 |
 | [Sweet Life](https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Sweet Life](https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB) | 3:33 | 2023-08-18 | 2023-09-23 |
 | [Taking Me Back](https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Taking Me Back](https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw) | 4:05 | 2021-10-22 | 2023-03-04 |
 | [Tell Me](https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:17 | 2021-02-26 |  |

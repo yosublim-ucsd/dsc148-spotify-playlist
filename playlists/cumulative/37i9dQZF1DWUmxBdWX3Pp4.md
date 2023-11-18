@@ -4,7 +4,7 @@
 
 > Éxitos del Trap Latino\. Foto: Bad Bunny.
 
-397 songs - 22 hr 34 min
+398 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Los De Siempre](https://open.spotify.com/track/5IsTVBbwSjU38VqJbZNokS) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Los De Siempre](https://open.spotify.com/album/4PIRLjzQkVZNsb2ZEeIwPQ) | 3:25 | 2021-12-06 | 2023-04-29 |
 | [Los Dioses](https://open.spotify.com/track/770EsvNdHAr56fPBhZxUH6) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Los Dioses](https://open.spotify.com/album/0sZfidgxELPkiEOuZabbyd) | 4:38 | 2021-12-06 | 2022-01-15 |
 | [Los Palos](https://open.spotify.com/track/4k6vZMg6TlrLyGHreUmsv1) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Los Palos](https://open.spotify.com/album/7IIXEfoZCt2CTTqHbhF9E0) | 4:40 | 2023-01-20 | 2023-03-18 |
+| [Los Tiempos Cambian](https://open.spotify.com/track/53nAFsYHR43IlJ4h8G1ybd) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 3:25 | 2023-11-17 |  |
 | [LOUD \(feat\. Piero 47, 3TRIPLE J, JulianoChieff\)](https://open.spotify.com/track/4urZ3ocnvCpgU0Rv1P6Pd5) | [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T), [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [3TRIPLE J](https://open.spotify.com/artist/2lvn0dSSamgNsFZPaJPzoR), [JulianoChieff](https://open.spotify.com/artist/1GiKprzvYnLD4hBNxaA50l) | [LOUD \(feat\. Piero 47, 3TRIPLE J, JulianoChieff\)](https://open.spotify.com/album/6FtE6zJfTCiDMh0ju5B8nN) | 5:41 | 2023-06-30 |  |
 | [Ma' G](https://open.spotify.com/track/4iFSDLdPrWIaYo2VQeCv4f) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Ma' G](https://open.spotify.com/album/4jSlgVZD4bbTuxOYrXTPWe) | 3:46 | 2021-12-06 | 2022-04-16 |
 | [Malbec](https://open.spotify.com/track/6KEb17S00Inf0v1qYDgUAj) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 2:55 | 2021-12-06 |  |

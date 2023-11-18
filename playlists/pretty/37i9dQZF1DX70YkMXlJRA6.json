@@ -1,12 +1,12 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 47599,
+  "num_followers": 47628,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDFiOTU2ZjM4YThkZDc0YTE4NTM0NjgyZDA4YjA0ZThlOTMzZGYx",
+  "snapshot_id": "MCwwMGFlM2VjYzQzOGY1ZWYwZTM0ZjllMTM3NjhiZjBiZTU2NWI5MTVm",
   "tracks": [
     {
       "added_at": "2022-06-07 16:47:23",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx"
-      },
-      "artists": [
-        {
-          "name": "Bruxas",
-          "url": "https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "M\u00e1s Profundo",
-      "url": "https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "Matanza",
         "url": "https://open.spotify.com/album/53Ckzqd3sEAJ6inu7Vgozq"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 368176,
       "name": "Canto al Fuego",
       "url": "https://open.spotify.com/track/3R9l60BDCH4pq8iaR44i0O"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx"
+      },
+      "artists": [
+        {
+          "name": "Bruxas",
+          "url": "https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "M\u00e1s Profundo",
+      "url": "https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt"
     },
     {
       "added_at": "2023-03-31 18:10:31",
@@ -651,6 +651,30 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "#S\u00e1dico",
+        "url": "https://open.spotify.com/album/37IMDq8KEAMXmi78I5UpDe"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        },
+        {
+          "name": "Sunsplash",
+          "url": "https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr"
+        }
+      ],
+      "duration_ms": 273063,
+      "name": "#S\u00e1dico - Sunsplash & Ferraz Remix",
+      "url": "https://open.spotify.com/track/6biNxZAZzW1qmWZu78ao5C"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Magnetica",
         "url": "https://open.spotify.com/album/4RcIb3FX6H4PLqsjzB9onL"
       },
@@ -683,30 +707,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "#S\u00e1dico",
-        "url": "https://open.spotify.com/album/37IMDq8KEAMXmi78I5UpDe"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        },
-        {
-          "name": "Sunsplash",
-          "url": "https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr"
-        }
-      ],
-      "duration_ms": 273063,
-      "name": "#S\u00e1dico - Sunsplash & Ferraz Remix",
-      "url": "https://open.spotify.com/track/6biNxZAZzW1qmWZu78ao5C"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "Bonito",
         "url": "https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL"
       },
@@ -723,26 +723,6 @@
       "duration_ms": 183829,
       "name": "Bonito",
       "url": "https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "La Tercera Vision",
-        "url": "https://open.spotify.com/album/0uGchBfeYkbD9NyK3uKm9X"
-      },
-      "artists": [
-        {
-          "name": "Lagartijeando",
-          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
-        },
-        {
-          "name": "Khalil Mounji",
-          "url": "https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK"
-        }
-      ],
-      "duration_ms": 235418,
-      "name": "Mano de Fatima",
-      "url": "https://open.spotify.com/track/1823wxCop81BdNRMKcfygg"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -773,6 +753,42 @@
       "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
     },
     {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "La Tercera Vision",
+        "url": "https://open.spotify.com/album/0uGchBfeYkbD9NyK3uKm9X"
+      },
+      "artists": [
+        {
+          "name": "Lagartijeando",
+          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
+        },
+        {
+          "name": "Khalil Mounji",
+          "url": "https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK"
+        }
+      ],
+      "duration_ms": 235418,
+      "name": "Mano de Fatima",
+      "url": "https://open.spotify.com/track/1823wxCop81BdNRMKcfygg"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "El Baile de las Ara\u00f1as",
+        "url": "https://open.spotify.com/album/6BHC6zcjaMC9gilqBS68Tw"
+      },
+      "artists": [
+        {
+          "name": "PAAX (Tulum)",
+          "url": "https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd"
+        }
+      ],
+      "duration_ms": 404351,
+      "name": "Elelu Tomassita",
+      "url": "https://open.spotify.com/track/1RGmt75GiXpnUxM1jYeiCW"
+    },
+    {
       "added_at": "2022-06-30 17:42:11",
       "album": {
         "name": "Duele",
@@ -795,18 +811,18 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "El Baile de las Ara\u00f1as",
-        "url": "https://open.spotify.com/album/6BHC6zcjaMC9gilqBS68Tw"
+        "name": "Cookin' Gumbo",
+        "url": "https://open.spotify.com/album/4pJ5dsbsazELJyHyMBS5Qe"
       },
       "artists": [
         {
-          "name": "PAAX (Tulum)",
-          "url": "https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd"
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
         }
       ],
-      "duration_ms": 404351,
-      "name": "Elelu Tomassita",
-      "url": "https://open.spotify.com/track/1RGmt75GiXpnUxM1jYeiCW"
+      "duration_ms": 209672,
+      "name": "Speakin' Nuyorican",
+      "url": "https://open.spotify.com/track/19TS1MDtT4FT2I5WO3Vdbz"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -827,22 +843,6 @@
       "duration_ms": 215466,
       "name": "Conexi\u00f3n Total",
       "url": "https://open.spotify.com/track/2NC0w4Z6RuW5j7tGTy73E8"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Cookin' Gumbo",
-        "url": "https://open.spotify.com/album/4pJ5dsbsazELJyHyMBS5Qe"
-      },
-      "artists": [
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
-        }
-      ],
-      "duration_ms": 209672,
-      "name": "Speakin' Nuyorican",
-      "url": "https://open.spotify.com/track/19TS1MDtT4FT2I5WO3Vdbz"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -895,6 +895,26 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Diablo",
+        "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
+      },
+      "artists": [
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        },
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+        }
+      ],
+      "duration_ms": 172293,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Venimos",
         "url": "https://open.spotify.com/album/6LVxpWNwPBJBfZSIotbjJ1"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 211367,
       "name": "Venimos",
       "url": "https://open.spotify.com/track/4RZ6HrfPP5ML2L3D7bsPXW"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Diablo",
-        "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
-      },
-      "artists": [
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        },
-        {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
-        }
-      ],
-      "duration_ms": 172293,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
     },
     {
       "added_at": "2022-06-07 16:47:23",

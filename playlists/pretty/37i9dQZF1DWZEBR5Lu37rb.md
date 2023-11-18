@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,419 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,586 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 99 | [Zeze](https://open.spotify.com/track/0SopH24w1T4KFqDSF7ZObO) | [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv) | [Girlfriend](https://open.spotify.com/album/3paXpDLkQ42bCZM2XNI223) | 4:03 |
 | 100 | [Vaileti](https://open.spotify.com/track/3C9HNfpYE8IbTuwN8WtIBy) | [Matonya](https://open.spotify.com/artist/2nHyoDQinKKGYIzSkK3IwI) | [Best of Tanzania Bongo Classics 2](https://open.spotify.com/album/3ZWfP82qw9qk6iCaaeiMir) | 4:49 |
 
-Snapshot ID: `MCxlNWI4OGNkNzFkZDZiNmQ3ZjhlZjU5OTg5N2I1NTkxODc2NmFkMmNm`
+Snapshot ID: `MCxkOTU4NjExZGM4ZGRiY2Y1YzkzYjkyOGI2ODJhZTE4NGNmNDk1ZDRi`

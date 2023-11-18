@@ -1,12 +1,12 @@
 {
   "description": "Please stand for your personal anthems. Cover: Fall Out Boy",
-  "num_followers": 3029051,
+  "num_followers": 3029308,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTgzYjA3ZTAyMDI5MWQxMmVkNTAzZDI1M2VkMDI5MmRmZDBjNGQ4",
+  "snapshot_id": "MCxlYWFkNWZiYTJkYmFmZWEyYWFmNmU2ZDUwYWUwNDgxNDcwYzE1MmQ0",
   "tracks": [
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1325,6 +1325,22 @@
       "url": "https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR"
     },
     {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "Let's Cheers To This",
+        "url": "https://open.spotify.com/album/3RSJ0kbP7TxLRqH7BqX8Gl"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 250240,
+      "name": "If You Can't Hang",
+      "url": "https://open.spotify.com/track/2Tc9VznHtQUmfOgE3L1RdN"
+    },
+    {
       "added_at": "2023-02-10 16:26:23",
       "album": {
         "name": "Love Bites",
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2023-02-10 16:26:23",
       "album": {
-        "name": "...And Out Come The Wolves",
-        "url": "https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 144585,
-      "name": "Time Bomb",
-      "url": "https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177"
-    },
-    {
-      "added_at": "2023-02-10 16:26:23",
-      "album": {
         "name": "Pennybridge Pioneers",
         "url": "https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC"
       },
@@ -1405,20 +1405,20 @@
       "url": "https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk"
     },
     {
-      "added_at": "2023-01-25 14:57:38",
+      "added_at": "2023-02-10 16:26:23",
       "album": {
-        "name": "Let's Cheers To This",
-        "url": "https://open.spotify.com/album/3RSJ0kbP7TxLRqH7BqX8Gl"
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/5M490pS7xcqY9V3lgKkrRE"
       },
       "artists": [
         {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 250240,
-      "name": "If You Can't Hang",
-      "url": "https://open.spotify.com/track/2Tc9VznHtQUmfOgE3L1RdN"
+      "duration_ms": 144585,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/56hwcJKj0M40A3qdhV3177"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1451,6 +1451,22 @@
       "duration_ms": 166053,
       "name": "I Just Wanna Live",
       "url": "https://open.spotify.com/track/5TjwiYZVMHVrGvRzbeCaV7"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/6cAugG8D1T6q0qniM3bqsw"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 213034,
+      "name": "December (again) [feat. Mark Hoppus]",
+      "url": "https://open.spotify.com/track/1Ztka7fCyxUv46FW1mZH9T"
     },
     {
       "added_at": "2023-02-10 16:26:23",
@@ -1499,22 +1515,6 @@
       "duration_ms": 207633,
       "name": "Everything Is Alright",
       "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/6cAugG8D1T6q0qniM3bqsw"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 213034,
-      "name": "December (again) [feat. Mark Hoppus]",
-      "url": "https://open.spotify.com/track/1Ztka7fCyxUv46FW1mZH9T"
     },
     {
       "added_at": "2023-01-25 14:57:38",

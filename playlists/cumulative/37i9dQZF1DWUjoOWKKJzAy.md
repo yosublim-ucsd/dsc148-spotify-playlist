@@ -4,7 +4,7 @@
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-83 songs - 5 hr 16 min
+84 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,8 +37,9 @@
 | [Família](https://open.spotify.com/track/7MFq7ihwl8ZolUaPCc4sKh) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Titãs \- iCollection](https://open.spotify.com/album/7sH8F9Nh0ud7Q4q4OrmV6A) | 3:33 | 2020-10-16 |  |
 | [Faroeste Caboclo](https://open.spotify.com/track/6ttKOudrrD5yjt4saUjhNa) | [Legião Urbana](https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t) | [Que Pais E Este](https://open.spotify.com/album/5dtcavvE7Hy2bmWb2XpiUe) | 9:07 | 2020-10-16 |  |
 | [Flores em você](https://open.spotify.com/track/74I1z55PBTBkBC6Ay5ydf5) | [Ira!](https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7) | [Dose Dupla Ira!](https://open.spotify.com/album/3dU5eiwvDAj229oIBpbY6p) | 1:55 | 2020-10-16 |  |
+| [Fullgás](https://open.spotify.com/track/0FjOKPV8de1qeCEVkQSjJD) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [MPB das Antigas](https://open.spotify.com/album/0z32eKIoo9B6Ynj6P4RXOe) | 4:07 | 2023-10-13 |  |
 | [Fullgás](https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Fullgás](https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP) | 4:07 | 2020-10-16 | 2022-07-29 |
-| [Fullgás](https://open.spotify.com/track/42ChWRndfQZ4AdoUXylEF1) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Mulheres da MPB](https://open.spotify.com/album/5xmXt1N4JJU6oupEeC2z2B) | 4:07 | 2020-10-16 |  |
+| [Fullgás](https://open.spotify.com/track/42ChWRndfQZ4AdoUXylEF1) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Mulheres da MPB](https://open.spotify.com/album/5xmXt1N4JJU6oupEeC2z2B) | 4:07 | 2020-10-16 | 2023-11-18 |
 | [Fullgás](https://open.spotify.com/track/6HHoojJSxvkAEgPntE0uqZ) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [TBT Clássicos](https://open.spotify.com/album/5CBYPKEaP58UK4zqVanWaN) | 4:07 | 2020-10-16 | 2022-11-14 |
 | [Garota de Berlim](https://open.spotify.com/track/0i2pVaXri1ne58mfEC5TK1) | [Tokyo](https://open.spotify.com/artist/16NdOHGyaRuFv1365u0XEf), [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj) | [Tokyo](https://open.spotify.com/album/0IraYmdQ0putFc89YQ3awM) | 3:05 | 2020-10-16 |  |
 | [Independência](https://open.spotify.com/track/4vFUs0A9jyeCZ6pwVBjs2g) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Flashback Anos 80](https://open.spotify.com/album/1mKCvVc1yy8WBKTrLkRYrq) | 3:04 | 2020-10-16 |  |

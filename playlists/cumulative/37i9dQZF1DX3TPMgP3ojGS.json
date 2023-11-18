@@ -9148,7 +9148,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 221702,
       "name": "fields of forever - sleep rework",
       "url": "https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx"
@@ -10326,6 +10326,24 @@
       "duration_ms": 202732,
       "name": "From Home",
       "url": "https://open.spotify.com/track/02VydYQOYaLGZX2MWoCCQ8"
+    },
+    {
+      "album": {
+        "name": "From Home",
+        "url": "https://open.spotify.com/album/4s631bf05BJesvz6XT3iDT"
+      },
+      "artists": [
+        {
+          "name": "Vivian Roost",
+          "url": "https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202732,
+      "name": "From Home",
+      "url": "https://open.spotify.com/track/0EgbLbMqBzyEjIySBupBqH"
     },
     {
       "album": {

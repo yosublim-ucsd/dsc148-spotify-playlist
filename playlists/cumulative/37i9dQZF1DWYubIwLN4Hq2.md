@@ -4,7 +4,7 @@
 
 > It's a Saturday night in the country, all the time!
 
-94 songs - 5 hr 3 min
+95 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [My Truck \(feat\. Sam Hunt\) \- Remix](https://open.spotify.com/track/0vInSJATtcoZZ0GofWNGjP) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Cross Country: The Extra Mile](https://open.spotify.com/album/47Neda2C9GGMDkgyM3fuqs) | 2:39 | 2023-08-31 |  |
 | [My Truck \(feat\. Sam Hunt\) \- Remix](https://open.spotify.com/track/1akB0Fn6w8U0j2hrDcj1kZ) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [BRELAND EP](https://open.spotify.com/album/61oSbcEqPRT4bTnP4YCQvt) | 2:39 | 2022-07-18 | 2023-09-19 |
 | [My Wave](https://open.spotify.com/track/6wEWlttx3wUooRC7ydITFL) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:32 | 2022-07-18 |  |
-| [Need A Favor](https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:17 | 2023-08-09 |  |
+| [Need A Favor](https://open.spotify.com/track/07on0OB2cdPt79IFsgdRUy) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:17 | 2023-11-09 |  |
+| [Need A Favor](https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:17 | 2023-08-09 | 2023-11-18 |
 | [Neon Soul](https://open.spotify.com/track/25Gxi8mBqLUMuEAGTzUSQc) | [O'Shea](https://open.spotify.com/artist/194o33PqUyeBl8BCOImebX) | [Neon Soul](https://open.spotify.com/album/4ysEjN3nv2ZeGYuSntqcMa) | 3:12 | 2022-07-18 |  |
 | [Never Give Up On A Good Time](https://open.spotify.com/track/5u0gLNySNwgBE9bqWSgJAA) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Never Give Up On A Good Time](https://open.spotify.com/album/7n8ypK3KRGbAVtH2NcXZBA) | 3:17 | 2023-08-31 |  |
 | [Nobody's More Country](https://open.spotify.com/track/3e9GzPcnquUu3vLZU3man4) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Nobody's More Country](https://open.spotify.com/album/6Ty3A6KMug1QL8CAXmdcz5) | 2:52 | 2023-08-31 |  |

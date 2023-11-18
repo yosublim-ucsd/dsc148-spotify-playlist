@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Sfera Ebbasta, Neima Ezza, Nerissima Serpe e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,238 likes - 100 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,278 likes - 100 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 7 | [FASHION](https://open.spotify.com/track/2GrgmzXmNHOfqIcrDSQmQa) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [FASHION](https://open.spotify.com/album/6F9abOtP5f8U6AVCHFN8Tl) | 2:29 |
 | 8 | [CVLT \(feat\. Kid Yugi\)](https://open.spotify.com/track/6hANXZUS2wryG1zSocof7J) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [CVLT](https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1) | 3:46 |
 | 9 | [G63](https://open.spotify.com/track/0lqGKcPzUX4RO4PYysoLes) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:49 |
-| 10 | [F\*\*k the club up \(feat\. Diss Gacha\)](https://open.spotify.com/track/0pSQ12PmPwGkrwbekf40UF) | [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Diss Gacha](https://open.spotify.com/artist/7vq2lBmy9Fpzr9dPeBdMZc) | [F\*\*k the club up \(feat\. Diss Gacha\)](https://open.spotify.com/album/6mQDsMcWWITYk79BxBGhnQ) | 2:20 |
+| 10 | [F\*\*k the club up \(feat\. Diss Gacha\)](https://open.spotify.com/track/0pSQ12PmPwGkrwbekf40UF) | [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [F\*\*k the club up \(feat\. Diss Gacha\)](https://open.spotify.com/album/6mQDsMcWWITYk79BxBGhnQ) | 2:20 |
 | 11 | [Freaky \(feat\. Shiva & Niky Savage\)](https://open.spotify.com/track/32rxE3UsuYr3KndIKPfMg6) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY) | [TRAPHOUSE](https://open.spotify.com/album/64jt2HI09H65a1YPqhOYfS) | 2:57 |
 | 12 | [Calcolatrici](https://open.spotify.com/track/6bN41HjY008ggroMFxNLaa) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:25 |
 | 13 | [Pesos \(feat\. 8blevrai\)](https://open.spotify.com/track/1RY1d6oUioU8PG7GMIEcVB) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [4ever Young](https://open.spotify.com/album/7JGo8geTlXXnc182JQZwU5) | 2:36 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 21 | [DM 7](https://open.spotify.com/track/6R5II1wAAQ6D3p4vTa8oZR) | [Sisco](https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE), [DiglieloMosi](https://open.spotify.com/artist/1mRo02HeQHdWL4q6gVJCRK) | [DM 7](https://open.spotify.com/album/6EXSCswY3KcpYWd0BOHZVE) | 1:00 |
 | 22 | [A VUO FRNÌ](https://open.spotify.com/track/0ZNZzAfNAqTi6zvHmfcIp9) | [Matteo Paolillo](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J) | [A VUO FRNÌ](https://open.spotify.com/album/2uZtsCmnf5aG7N70iTnsji) | 2:59 |
 | 23 | [Perdonare questo](https://open.spotify.com/track/3LX8dHTRZnY1zHvFWOQLxs) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [Perdonare questo](https://open.spotify.com/album/00mAqQNnqKy350vGobvXhU) | 2:42 |
-| 24 | [Lo Faccio Lo Stesso ⠀](https://open.spotify.com/track/3CBjMT0NwzW9e8NkBR1EUt) | [rooc lee](https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8) | [Lo Faccio Lo Stesso ⠀](https://open.spotify.com/album/3HCzc4jRvGBvAUNLILsUu7) | 1:45 |
+| 24 | [Lo Faccio Lo Stesso](https://open.spotify.com/track/3CBjMT0NwzW9e8NkBR1EUt) | [rooc lee](https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8) | [Lo Faccio Lo Stesso](https://open.spotify.com/album/3HCzc4jRvGBvAUNLILsUu7) | 1:45 |
 | 25 | [BRUTTO TEMPO](https://open.spotify.com/track/272ISQAytR9Pw5pKUEz0dG) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN) | [BRUTTO TEMPO](https://open.spotify.com/album/58DNXCQAymvhEiA3xdhDwK) | 2:45 |
 | 26 | [Casa era piccola \(feat\. Sosa Priority\)](https://open.spotify.com/track/5pohNwTkA0AMWMDdvKcMrc) | [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov), [Sosa Priority](https://open.spotify.com/artist/0gDbGOh9itthM6koQpDLoc) | [Demoni](https://open.spotify.com/album/1h8reAXVLWNnhOy6hurY4A) | 2:20 |
 | 27 | [Guadagno x2](https://open.spotify.com/track/5DMzIWTK9HtRZOcJxxfUHq) | [Flame](https://open.spotify.com/artist/21L6MycWS5ozaHjts8wrIt) | [Guadagno x2](https://open.spotify.com/album/1PP93VHTU31A0juYtEOlsl) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 99 | [Indipendente freestyle](https://open.spotify.com/track/5Eo1jdhrv5gSNn4LB2eWUz) | [MR Rizzus](https://open.spotify.com/artist/1lbjFxJSZCuCjiOKuMfmiO) | [SORVEGLIATO SPECIALE MIXTAPE](https://open.spotify.com/album/4quGLERXIUVQ8ZtdcUM6kf) | 1:19 |
 | 100 | [MENTALITÉ](https://open.spotify.com/track/3qVucXBmqvWWsqM4wedd3o) | [Mido](https://open.spotify.com/artist/4IDQpLt670azHbRBQkwZQP) | [MENTALITÉ](https://open.spotify.com/album/6034Syj80TAAbBqcNmVB53) | 2:32 |
 
-Snapshot ID: `MCwxZjYxODBkMzJhOWJjNzc2MWUxYzFjMWE0NjAwZWYwYTE1NDE3NDZh`
+Snapshot ID: `MCxkNjQyMDg1ZDBkZDEyY2M5NGUwZGJjMjU5Y2VhNmI5OTMxYWI3MDM0`

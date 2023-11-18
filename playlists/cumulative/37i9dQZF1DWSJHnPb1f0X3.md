@@ -4,7 +4,7 @@
 
 > Upbeat dance pop to keep your heart pumping.
 
-622 songs - 1 day 7 hr 4 min
+623 songs - 1 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [History \(feat\. Maggie Szabo\)](https://open.spotify.com/track/3VXCwR1wRVt4sHyDtOvFgI) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [History \(feat\. Maggie Szabo\)](https://open.spotify.com/album/1bJ94admkYHcdFcCOp2ETa) | 3:22 | 2022-03-25 | 2022-04-19 |
 | [Hit 'Em Up Style \(Oops!\)](https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Hit 'Em Up Style \(Oops!\)](https://open.spotify.com/album/5OlOJVvdqUc8BoMMjTGamk) | 2:39 | 2023-03-24 | 2023-07-22 |
 | [Hold Me Close \(feat\. Ella Henderson\)](https://open.spotify.com/track/24aN8j7dBw0FxxKUBlCtd6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hold Me Close \(feat\. Ella Henderson\)](https://open.spotify.com/album/17S4c0rf1RXLZ0u4ez15E5) | 3:05 | 2021-12-17 | 2022-05-04 |
-| [Hold On Me \(feat\. Emei\)](https://open.spotify.com/track/5asMstLe5UTmy01PCdM43c) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Hold On Me \(feat\. Emei\)](https://open.spotify.com/album/0tMVeea5aLMQqOFGSPWwyI) | 2:29 | 2023-11-10 |  |
+| [Hold On Me \(feat\. Emei\)](https://open.spotify.com/track/5asMstLe5UTmy01PCdM43c) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Hold On Me \(feat\. Emei\)](https://open.spotify.com/album/0tMVeea5aLMQqOFGSPWwyI) | 2:29 | 2023-11-10 | 2023-11-18 |
 | [Holiday](https://open.spotify.com/track/5p23tD2akeZYiDZHE1r4yi) | [ILY](https://open.spotify.com/artist/6CVPDt9FXmWEaq3jCoKAZb) | [Holiday](https://open.spotify.com/album/1VKV62S8RLZcEeQPZojj1V) | 3:36 | 2022-03-25 | 2022-04-19 |
 | [Home](https://open.spotify.com/track/388KEbT8ZXJBwtbw3ZS7s1) | [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy) | [Home](https://open.spotify.com/album/3x6AIVoG1mHw3ay0BzDN8Y) | 3:16 | 2022-04-01 | 2022-04-21 |
 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2022-07-28 | 2023-10-28 |
@@ -590,6 +590,7 @@
 | [Wasted](https://open.spotify.com/track/6m2JzXBYsdlxODhZawjPnl) | [NEW CITY](https://open.spotify.com/artist/4X5U7EjHMofqX4mUAkJm23) | [Wasted](https://open.spotify.com/album/1CZYiZnl7rNnTjAGv5Bkjz) | 3:30 | 2022-03-25 | 2022-04-20 |
 | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/album/0i72GjB523RgrjK8HUa61B) | 2:19 | 2021-12-17 |  |
 | [Watcha Gonna Do](https://open.spotify.com/track/2mJ7jA9PV3SmQKGuv8QC9G) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [Watcha Gonna Do](https://open.spotify.com/album/45WoXwfsZFTq3mnqXRG3OR) | 2:25 | 2022-04-15 | 2022-04-20 |
+| [Water](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Water](https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D) | 3:11 | 2023-11-17 |  |
 | [WATER\. \(feat\. Bryce Vine\)](https://open.spotify.com/track/57Zhe3iZ0PGDXm5qpeoXIh) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [WATER\. \(feat\. Bryce Vine\)](https://open.spotify.com/album/6rin0eQVQWe4kAA7tCLmyX) | 2:46 | 2022-04-29 | 2022-05-06 |
 | [Way Back Home \(feat\. Kyra Mastro\)](https://open.spotify.com/track/5ZdAikqsPUJaPs9Ioqhlqp) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Way Back Home \(feat\. Kyra Mastro\)](https://open.spotify.com/album/5WzpEhm6xOfn6e47lFtpr2) | 2:46 | 2022-03-25 | 2022-06-01 |
 | [We're Good \- Dillon Francis Remix](https://open.spotify.com/track/5Ja8ZlVexmTQKbWAQgZ3f0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [We're Good \(Dillon Francis Remix\)](https://open.spotify.com/album/5WGdFx6zypKOC8JQRgGtdz) | 3:06 | 2021-12-17 | 2022-04-21 |

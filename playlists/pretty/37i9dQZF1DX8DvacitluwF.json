@@ -1,12 +1,12 @@
 {
   "description": "Only the best in South African and international RnB. Cover: <a href=\"https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS?si=de_fFd_ASGy4EPjE-EqLyg\">Una Rams</a>",
-  "num_followers": 7597,
+  "num_followers": 7620,
   "original_name": "BlueZA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjk3MGY4NTI5NTZhNjM5YjFhOTJhNWIzYTE0ODE5ZDQxY2ZhZGZl",
+  "snapshot_id": "MCxkOGIyYTI0Njg3NjRlOWFkNjE2N2JjNTNjZDdmZTkzZmViMTkzNzcz",
   "tracks": [
     {
       "added_at": "2023-11-16 23:00:00",
@@ -267,6 +267,26 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
+        "name": "After the Butterflies",
+        "url": "https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 190498,
+      "name": "All or Nothing (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/4SPazIWgMqArA81XKxgDZa"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
         "name": "All Things Considered",
         "url": "https://open.spotify.com/album/3dXzrmCSb1CHRz8HgyWvyP"
       },
@@ -312,7 +332,7 @@
           "url": "https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS"
         }
       ],
-      "duration_ms": 210000,
+      "duration_ms": 142139,
       "name": "Gentle Magic",
       "url": "https://open.spotify.com/track/7lczAygHoTb5pgd8fdiVz3"
     },
@@ -480,7 +500,7 @@
           "url": "https://open.spotify.com/artist/5qov3hiFB9QhOcdqDEL839"
         }
       ],
-      "duration_ms": 224000,
+      "duration_ms": 221696,
       "name": "Duet (feat. Jillz)",
       "url": "https://open.spotify.com/track/7m07xNnm2xJnpkRN9JRScv"
     },

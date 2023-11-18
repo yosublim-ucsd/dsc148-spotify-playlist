@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: mxmtoon
 
-1,258 songs - 3 day 4 hr 0 min
+1,259 songs - 3 day 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1045,7 +1045,8 @@
 | [SUNDAY](https://open.spotify.com/track/4StWXtY1kRDuzpl5FZQTae) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [SUNDAY](https://open.spotify.com/album/5Bv3n1noEkwI5QbRItwuTf) | 2:04 | 2023-07-06 | 2023-08-12 |
 | [Sunday](https://open.spotify.com/track/0HporKYsqmHmFsnGfeX2JU) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8) | [In a relationship with\_](https://open.spotify.com/album/2hlwXuR4KCfiqyDzpesX7x) | 2:38 | 2022-03-31 | 2022-04-15 |
 | [Sunflower \- Slowed Down](https://open.spotify.com/track/47gwnqfpI6Om0OBLCgGptN) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Sunflower Versions](https://open.spotify.com/album/5807uTIjCiX0QKbxNj5YCP) | 2:54 | 2022-06-24 | 2022-08-05 |
-| [Sunny](https://open.spotify.com/track/5SmJPXHVK4G0oKOdn3D5LP) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Sunny](https://open.spotify.com/album/2i3jnMLFQZewasZEC3gVOB) | 3:31 | 2023-09-22 |  |
+| [Sunny](https://open.spotify.com/track/2PQNbNPuSfNa3B3r447fbL) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Sunny](https://open.spotify.com/album/5FyY9wYLHeJoFzPl0tOU5k) | 3:31 | 2023-11-13 |  |
+| [Sunny](https://open.spotify.com/track/5SmJPXHVK4G0oKOdn3D5LP) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Sunny](https://open.spotify.com/album/2i3jnMLFQZewasZEC3gVOB) | 3:31 | 2023-09-22 | 2023-11-18 |
 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-07-15 | 2022-09-30 |
 | [Sunset Sensory](https://open.spotify.com/track/0ECsJAG3NChMyj84hKupSq) | [Mai Davika](https://open.spotify.com/artist/7LWOi14A1E3fgoQuJajQ4G) | [Sunset Sensory](https://open.spotify.com/album/7zIX5owJgjY8yHOWewF0jG) | 2:51 | 2023-09-01 | 2023-09-30 |
 | [Sunset Tower In The Rain](https://open.spotify.com/track/0HgvhanwLzUzBxOxDVP1to) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [Sunset Tower In The Rain](https://open.spotify.com/album/5DA29es9Jmn4JSPXMDzv5H) | 3:20 | 2022-10-13 | 2023-01-28 |

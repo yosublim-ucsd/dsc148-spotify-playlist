@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-573 songs - 1 day 10 hr 46 min
+574 songs - 1 day 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [aurora](https://open.spotify.com/track/3TfFyMlTwIvoPBOBvzK4Fy) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [Δ](https://open.spotify.com/album/4p9YWsADpDBsYl2RfOqW18) | 5:07 | 2023-08-15 | 2023-08-17 |
 | [aurora](https://open.spotify.com/track/5EzFxshZyFFCkhqLh8Gif7) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [Δ](https://open.spotify.com/album/3TZsIPMjf82EUqMjNb9BG6) | 5:07 | 2023-08-15 | 2023-08-25 |
 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 | 2022-10-20 |  |
+| [Baby Blue](https://open.spotify.com/track/5ZDdx332AQj2n6TOW0LlZU) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Baby Blue](https://open.spotify.com/album/4SZISLudRb6XD44SO2NBtZ) | 2:04 | 2023-11-16 |  |
 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-08-24 |  |
 | [Back On 74](https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Back On 74](https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s) | 3:29 | 2023-07-27 | 2023-08-14 |
 | [Back To Life](https://open.spotify.com/track/3HqPsN2UyQAn4QxMJKbs1w) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Back To Life](https://open.spotify.com/album/7aJdFN1wN5WTF9kP0tJQVz) | 4:13 | 2023-06-29 | 2023-07-12 |

@@ -4,7 +4,7 @@
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-155 songs - 7 hr 20 min
+156 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [My Initial Intentions](https://open.spotify.com/track/2ImnNnUAgYopWTWBacxfqp) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [Marble Sounds](https://open.spotify.com/album/49tRpXhp2kVugqFW41k7Z2) | 5:12 | 2022-09-09 | 2022-11-09 |
 | [My Initial Intentions](https://open.spotify.com/track/7h7R6kTMVdqFnoP0DFu1Ov) | [Marble Sounds](https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp) | [The Ever After](https://open.spotify.com/album/0fJwTIqN5z5PklqgqZB4x9) | 5:12 | 2022-09-02 | 2022-10-11 |
 | [My Son](https://open.spotify.com/track/3wtpKMUkSiZPDRH5vxYLmz) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [My Son](https://open.spotify.com/album/2adunymdxS0IP1zEhYzLXr) | 1:58 | 2022-06-03 | 2022-11-09 |
-| [Nerevar Rising \- From "The Elder Scrolls III: Morrowind"](https://open.spotify.com/track/1nX8a8tlmhQXz4koqOYf8Z) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v), [Czech National Symphony Orchestra](https://open.spotify.com/artist/4QwB1zntRnSrgqcqqnDwAX), [Paul Bateman](https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk) | [Nerevar Rising \(From "The Elder Scrolls III: Morrowind"\)](https://open.spotify.com/album/0tgWVVP5Ylcn0yiJ257p9Q) | 1:31 | 2022-11-08 |  |
+| [Nerevar Rising \- From "The Elder Scrolls III: Morrowind"](https://open.spotify.com/track/1nX8a8tlmhQXz4koqOYf8Z) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v), [Czech National Symphony Orchestra](https://open.spotify.com/artist/4QwB1zntRnSrgqcqqnDwAX), [Paul Bateman](https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk) | [Nerevar Rising \(From "The Elder Scrolls III: Morrowind"\)](https://open.spotify.com/album/0tgWVVP5Ylcn0yiJ257p9Q) | 1:31 | 2022-11-08 | 2023-11-18 |
+| [Nerevar Rising \- From "The Elder Scrolls III: Morrowind"](https://open.spotify.com/track/0yTRXdMLTtp8zJJlPhrMmt) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v), [Czech National Symphony Orchestra, Prague](https://open.spotify.com/artist/5sywRx2uuyXtkfnXCdyQX0), [Paul Bateman](https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk) | [Reading Music](https://open.spotify.com/album/4PWcxALctM4bMAiE5eAEkO) | 1:31 | 2023-07-14 |  |
 | [Now Is The Time To Leave](https://open.spotify.com/track/2RbeJPjEW9kcoFVmiQabnU) | [August Wilhelmsson](https://open.spotify.com/artist/34hmgPKKRJX6fvkosRxDO7) | [Departure](https://open.spotify.com/album/45vmEN7UhIUPAYAXoPJzlW) | 2:08 | 2022-03-09 | 2022-11-09 |
 | [Okinawa River](https://open.spotify.com/track/5XWOjKm9uFZC5dpUXMhi26) | [Contra La Muerte De La Luz](https://open.spotify.com/artist/7C19Hdd6VZQcs5tqzJl7QE) | [Okinawa River](https://open.spotify.com/album/5P43AVNHUMn67YpTJi42ZY) | 2:23 | 2022-06-03 | 2022-11-09 |
 | [Once in a Lifetime](https://open.spotify.com/track/00BHa28nUX4B9U8BGeacqx) | [Nikolas Ricard](https://open.spotify.com/artist/1r72qpS4rK1Sq1TvRxi3rf) | [Once in a Lifetime](https://open.spotify.com/album/5oFBExdi3Xlfy4eMTdO9QE) | 2:37 | 2022-03-09 | 2022-11-09 |

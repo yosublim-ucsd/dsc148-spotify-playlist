@@ -2,7 +2,7 @@
 
 ### [K\-Webtoon OSTs \(웹툰 OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DWZgZGWDUJK7v)
 
-> Meet the popular webtoon OSTs now! \(Cover: No Office Romance!\(사내연애 사절! \)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
+> Meet the popular webtoon OSTs now! \(Cover: Operation: True Love\(작전명 순정\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
 155 songs - 9 hr 27 min
 

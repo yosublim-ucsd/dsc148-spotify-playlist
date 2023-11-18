@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "La Fuente",
       "url": "https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj"
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 97387,
       "name": "Mexican Mood",
       "url": "https://open.spotify.com/track/1GlBh7jgGCrZOY1SrzvMkx"
@@ -1978,10 +1978,28 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 321173,
       "name": "\u00c0 Antiga",
       "url": "https://open.spotify.com/track/4x1IWqS2ItKnZlvZUVF8NG"
+    },
+    {
+      "album": {
+        "name": "Sempiterna",
+        "url": "https://open.spotify.com/album/1L5pMdUqXr0JYHmchngpyp"
+      },
+      "artists": [
+        {
+          "name": "Royal Bermuda",
+          "url": "https://open.spotify.com/artist/2IvpGxRjmROXKWi7rgTFBM"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "\u00c0 Antiga",
+      "url": "https://open.spotify.com/track/7nSGXqLZ0wZBdfEq3xNt85"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXd0RRszxFFrw"

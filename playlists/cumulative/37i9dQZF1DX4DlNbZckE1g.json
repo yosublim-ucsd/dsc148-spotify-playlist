@@ -780,7 +780,7 @@
     {
       "album": {
         "name": "Hotel Surrender",
-        "url": "https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ"
+        "url": "https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq"
       },
       "artists": [
         {
@@ -791,6 +791,24 @@
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 222936,
+      "name": "Get High",
+      "url": "https://open.spotify.com/track/3q8bVATKAOwjc8C0jY3DRd"
+    },
+    {
+      "album": {
+        "name": "Hotel Surrender",
+        "url": "https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
       "duration_ms": 222936,
       "name": "Get High",
       "url": "https://open.spotify.com/track/5hs90BPAzJzTl31m9eouyC"

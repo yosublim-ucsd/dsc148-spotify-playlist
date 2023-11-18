@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組<a href="https://rapstar2023.jp/">「ラップスタア誕生」</a>歴代出場者、審査員の楽曲を特集。 Cover: ShowyVICTOR
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,923 likes - 103 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,930 likes - 103 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 | 102 | [HARINONAI TOKEI](https://open.spotify.com/track/6WBrpaNr21TgWDSKf0KwZ0) | [mindboi](https://open.spotify.com/artist/1TU0H6JeRyFmIl9uHdjws1) | [LIVING HOUSE](https://open.spotify.com/album/2NAWm5R3sWFl7a91rR8yRy) | 3:42 |
 | 103 | [Madoguchi](https://open.spotify.com/track/7niuHNCb7ObPcE9lP63bAV) | [noma](https://open.spotify.com/artist/5lL3ZTc535xQeLqXH9cB3V) | [6th Anniversery Best Mixtape](https://open.spotify.com/album/16AybzZDQLpAwJUy4KrmXu) | 2:57 |
 
-Snapshot ID: `MCxkMjk5ZTZhYzhhYWFlNDg0MTA5ZTIyMWNiYzk3OTk0YTg0NjNmMjVj`
+Snapshot ID: `MCxhMjQzMDQ0OTQ3ODMyNWMxMGMwNzExZWY4MTY5ZGVmOWFiYjZkYjcw`

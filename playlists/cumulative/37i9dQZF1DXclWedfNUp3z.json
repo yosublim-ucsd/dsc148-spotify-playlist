@@ -534,7 +534,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 243921,
       "name": "Atlantic Diva",
       "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
@@ -762,6 +762,24 @@
       "duration_ms": 80000,
       "name": "Besides You",
       "url": "https://open.spotify.com/track/0Ux83HlRGB8O4DPFXMPuT3"
+    },
+    {
+      "album": {
+        "name": "Birdy Island",
+        "url": "https://open.spotify.com/album/2Juy4gK69leZMQohtTDJKv"
+      },
+      "artists": [
+        {
+          "name": "Howie Lee",
+          "url": "https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147579,
+      "name": "Birdy Island",
+      "url": "https://open.spotify.com/track/2YbmzDGhrwcl5s1X3lLU5O"
     },
     {
       "album": {
@@ -2820,7 +2838,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 186634,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/0XQoOGwbUn930qZGji0885"
@@ -3388,7 +3406,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 253600,
       "name": "Lineoa",
       "url": "https://open.spotify.com/track/3ZHLXe62MxnwGz7YjxmHeO"
@@ -6816,7 +6834,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 164583,
       "name": "wading through the wetlands",
       "url": "https://open.spotify.com/track/41DB59gjQcplKWlQPI89lt"
@@ -7162,7 +7180,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 132958,
       "name": "Yawn Machine",
       "url": "https://open.spotify.com/track/3wXAeVIUbRF9pReSBdgpkE"

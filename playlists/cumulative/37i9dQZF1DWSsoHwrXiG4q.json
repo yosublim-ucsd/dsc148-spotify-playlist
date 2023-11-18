@@ -393,6 +393,24 @@
     },
     {
       "album": {
+        "name": "distancing",
+        "url": "https://open.spotify.com/album/6DJDsF7GiuDLcuRPspsiSo"
+      },
+      "artists": [
+        {
+          "name": "dreem",
+          "url": "https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187586,
+      "name": "distancing",
+      "url": "https://open.spotify.com/track/3eybUXqj9pijBRPpfKN4oy"
+    },
+    {
+      "album": {
         "name": "Days Like These EP",
         "url": "https://open.spotify.com/album/4v5HIb6e4LJpB1R7u7brRK"
       },
@@ -818,6 +836,24 @@
       "duration_ms": 284137,
       "name": "I've Been Missing You",
       "url": "https://open.spotify.com/track/3R9b1PpbmKKZ24rJpRnX5X"
+    },
+    {
+      "album": {
+        "name": "Pink Poppy",
+        "url": "https://open.spotify.com/album/4ZCV3sUH3EoKPmyv0FCKlL"
+      },
+      "artists": [
+        {
+          "name": "Heyson",
+          "url": "https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169922,
+      "name": "IGGY",
+      "url": "https://open.spotify.com/track/3Jhhgy33bLgTRTjr0hEM1F"
     },
     {
       "album": {
@@ -1482,6 +1518,24 @@
       "duration_ms": 181806,
       "name": "Recollection",
       "url": "https://open.spotify.com/track/51RQWDo2qhcL0py5n916hi"
+    },
+    {
+      "album": {
+        "name": "Red Slogan",
+        "url": "https://open.spotify.com/album/2uIvUrT2Vo8HUJJH7xSkRn"
+      },
+      "artists": [
+        {
+          "name": "Echo Oasis",
+          "url": "https://open.spotify.com/artist/3Hd9jxZB8QuC0kdCwbkk3n"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240710,
+      "name": "Red Slogan",
+      "url": "https://open.spotify.com/track/41chr9BH5daDinJZ2bkEki"
     },
     {
       "album": {

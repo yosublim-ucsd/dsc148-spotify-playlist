@@ -4,7 +4,7 @@
 
 > All the music from Barracuda Queens..\. now on Netflix.
 
-25 songs - 1 hr 40 min
+26 songs - 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Rhythm Is A Dancer](https://open.spotify.com/track/1IWzfq3sLedGQ3fb2hAMBA) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [The Madman's Return](https://open.spotify.com/album/2TrNT4qm7qDIRTUVn9jBW4) | 5:32 | 2023-06-05 | 2023-11-04 |
 | [Rhythm Is a Dancer](https://open.spotify.com/track/5uFYYOyT3EclOVhiFzPJSz) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [The Madman's Return](https://open.spotify.com/album/4XbUZbCiZynKWMCWFoNSbY) | 5:32 | 2023-06-05 |  |
 | [Saturday Night](https://open.spotify.com/track/2zedBY48WiPY8WV8uCdtRz) | [Whigfield](https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq) | [Whigfield](https://open.spotify.com/album/5VkDIwr3T1bnrRTe2dW4yD) | 3:43 | 2023-06-05 |  |
-| [Se på mig](https://open.spotify.com/track/0x29B8qeLXUq5FB7CH8wrz) | [Jan Johansen](https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf) | [Alla hjärtans dag](https://open.spotify.com/album/22R8mKMHKFTw6GqaKgn8Qd) | 3:07 | 2023-06-05 |  |
+| [Se på mig](https://open.spotify.com/track/0x29B8qeLXUq5FB7CH8wrz) | [Jan Johansen](https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf) | [Alla hjärtans dag](https://open.spotify.com/album/22R8mKMHKFTw6GqaKgn8Qd) | 3:07 | 2023-06-05 | 2023-11-18 |
+| [Se på mig](https://open.spotify.com/track/7nqogta9WJDwXkSNHu9wfJ) | [Jan Johansen](https://open.spotify.com/artist/4Nd6R1oljERR3D2893MpJf) | [Melodifestivalen \- Vinnare och favoriter](https://open.spotify.com/album/7FeC5fIidHKzKLKitJPtKC) | 3:07 | 2023-06-05 |  |
 | [Sun Lover](https://open.spotify.com/track/1XhlKQadaisM9eFwXhmb58) | [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [Kpm 1000 Series: Open Air Volume 2](https://open.spotify.com/album/3MSmL04g7WHN4Czmkld8R2) | 3:11 | 2023-06-05 |  |
 | [You've Got Me Falling](https://open.spotify.com/track/4E0Ztea9nHbIWjJTGvJFEb) | [Blanches](https://open.spotify.com/artist/5G9rJDotuVF6BoVc42I4GW), [Skylar](https://open.spotify.com/artist/2reUb4fkfA5x0tTIHmfOtd) | [You've Got Me Falling Mixpack](https://open.spotify.com/album/2RkpeLsqO6g1hkcPy4YmsN) | 3:09 | 2023-06-05 |  |
 

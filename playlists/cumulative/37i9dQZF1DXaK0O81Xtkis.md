@@ -4,7 +4,7 @@
 
 > make it pop! cover: Will Linley
 
-799 songs - 1 day 15 hr 48 min
+805 songs - 1 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [3am in nyc](https://open.spotify.com/track/1qk8eEUJaGK2xWHhq8QZD5) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [IT'S OKAY, WE'RE DREAMING II: don't worry, i'll be fine](https://open.spotify.com/album/4aI8eV2NI3p6HdNMk43pcq) | 3:09 | 2022-08-26 | 2022-09-24 |
 | [3am in nyc](https://open.spotify.com/track/6gyTRWKIQ9XFjZrxrslFsg) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [3am in nyc](https://open.spotify.com/album/24eFlf4LVYWjP2ytw8CC8M) | 3:09 | 2022-08-19 | 2022-08-27 |
 | [3D Feelings](https://open.spotify.com/track/1OkW0tv1k3kNB0IXDN2oPL) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [3D Feelings](https://open.spotify.com/album/0ZY2Lg0utycFyUQSDlK3MZ) | 3:17 | 2021-11-05 | 2022-02-26 |
+| [4321](https://open.spotify.com/track/22ZjKxmxtMXoAnJSN9gpq5) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [4321](https://open.spotify.com/album/5cqnDDzRKXFsjpax8cY2yo) | 3:52 | 2023-11-17 |  |
 | [6AM](https://open.spotify.com/track/5AJ9oWWYzHvSJYX6IBEvMK) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [6AM](https://open.spotify.com/album/0rRFHYaPCKGwQ7pWB3H2JG) | 3:10 | 2021-10-29 | 2022-02-05 |
 | [6am in amsterdam.](https://open.spotify.com/track/4SRmLLMhqGvYc4QuvVhFsO) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [as the world is passing by.](https://open.spotify.com/album/4D98wniyXPAR0xBjmJvpge) | 3:27 | 2022-12-02 | 2023-01-21 |
 | [a girl like me](https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [a girl like me](https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z) | 2:42 | 2023-11-10 |  |
@@ -58,6 +59,7 @@
 | [Australia](https://open.spotify.com/track/0qiHOHIkb4UEoxpKq6WhVZ) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f) | 3:49 | 2023-09-22 |  |
 | [Baby Benzing](https://open.spotify.com/track/422nNdTyp1em6ZsctFoc2B) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Aloha Soul 1](https://open.spotify.com/album/5sBtr4v8F3m4P1c06LAEc6) | 2:40 | 2023-01-20 | 2023-03-25 |
 | [Baby Blue](https://open.spotify.com/track/4FSIfpGQEdJsLXIbufqvOo) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [When Facing the Things We Turn Away From](https://open.spotify.com/album/5T1HI88OceUlUExSsAM3GQ) | 3:43 | 2022-04-01 | 2022-04-09 |
+| [Baby Blue](https://open.spotify.com/track/5ZDdx332AQj2n6TOW0LlZU) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Baby Blue](https://open.spotify.com/album/4SZISLudRb6XD44SO2NBtZ) | 2:04 | 2023-11-17 |  |
 | [Baby Lay Your Head Down](https://open.spotify.com/track/5fbnIAZDVlcPfKOnYeUn1d) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Baby Lay Your Head Down](https://open.spotify.com/album/0wkGlMn6cgQ3L7LA70dXfl) | 3:44 | 2023-01-27 | 2023-02-25 |
 | [Back in Bed](https://open.spotify.com/track/5ukj5LamvwlSh0cYAkQ5by) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Back in Bed](https://open.spotify.com/album/47bzBG5kB4H9ohJJwbC3dy) | 2:38 | 2022-07-08 | 2022-08-27 |
 | [Back To The Future](https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho) | 2:53 | 2022-02-04 | 2022-04-16 |
@@ -228,6 +230,7 @@
 | [Fling for the Summer](https://open.spotify.com/track/2gtm8uC0kTOm87OKcuvLxo) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Fling for the Summer](https://open.spotify.com/album/1R3ckMl7RHuEhYEPFACpUM) | 2:06 | 2023-07-28 | 2023-09-16 |
 | [flowers](https://open.spotify.com/track/6trA1yKo3IGgLyvg9lBwOJ) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [flowers](https://open.spotify.com/album/1ZmIdhZgJn91DMGk86iC1R) | 3:12 | 2022-11-18 | 2023-02-04 |
 | [For My Friends](https://open.spotify.com/track/6vs83ufnw4IVbotV0qv6C8) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [For My Friends](https://open.spotify.com/album/7hfIFmFhdPoLzeeDGPaYAw) | 3:35 | 2022-03-18 | 2022-05-28 |
+| [forever](https://open.spotify.com/track/4qkgz8ubKhUeqQohjjM2ey) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [forever](https://open.spotify.com/album/3Tp9D49OesqcRIgAArAlye) | 4:00 | 2023-11-17 |  |
 | [Forever & Again \(From Barbie The Album\)](https://open.spotify.com/track/6Ky8ROf2VWY5vwoGfMet7x) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Forever & Again \(From Barbie The Album\)](https://open.spotify.com/album/0PHUzNM9vbkW3EMUiKOxo7) | 2:19 | 2023-07-21 | 2023-08-19 |
 | [Forgot About You](https://open.spotify.com/track/4hg4C9pqzoNW3sIFfoNrNL) | [Dylan Brady](https://open.spotify.com/artist/69Lf9TlJ7qID862aDGbZx1) | [Forgot About You](https://open.spotify.com/album/64f35H4RwwAQ2h03NNSRHj) | 3:08 | 2023-10-20 |  |
 | [Frank Ocean](https://open.spotify.com/track/6aCJMCOZEmcFsGDHY2jRte) | [Richard Fairlie](https://open.spotify.com/artist/3LsDFxj4WpnS55c4NW2VOb) | [Frank Ocean](https://open.spotify.com/album/0b2NhFLMS1EhbIyFCZzE3R) | 2:29 | 2023-06-30 | 2023-07-29 |
@@ -333,6 +336,7 @@
 | [I Don’t Think That I Like Her](https://open.spotify.com/track/0zRezEuKtaAXHcB4eruwi2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [I Don’t Think That I Like Her](https://open.spotify.com/album/5f7yRF519Ruz1yE9x97jID) | 3:08 | 2022-09-16 | 2022-10-17 |
 | [I Don’t Think That I Like Her](https://open.spotify.com/track/3iLBFgaQJ94iarMgzrTuWb) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:08 | 2022-09-16 | 2022-11-11 |
 | [i hate her boyfriend's face](https://open.spotify.com/track/5sixigDZ86eDzCHXbfzrDu) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [i hate her boyfriend's face](https://open.spotify.com/album/2CMIqzHeKsxhR8xSvD9Cwy) | 2:25 | 2022-05-13 | 2022-07-23 |
+| [I Hope It All Works Out](https://open.spotify.com/track/2u2claSA1aCUMrVRsBD4Ik) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [I Hope It All Works Out](https://open.spotify.com/album/4Y7hxshp2MXAMXW5BwqZ6s) | 2:47 | 2023-11-17 |  |
 | [I Just Want a Lover](https://open.spotify.com/track/0FgUAGSUZr5KKt3brc9Vi0) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/340COGAWuXWO66Qc4TxJuN) | 3:21 | 2022-09-16 | 2022-10-29 |
 | [I Just Want a Lover](https://open.spotify.com/track/1rwMM6ixKWnsRQMUeRbXeT) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:21 | 2022-09-16 | 2022-10-07 |
 | [I Like That](https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I Like That](https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI) | 2:38 | 2021-10-29 | 2022-02-19 |
@@ -674,6 +678,7 @@
 | [Superstitious](https://open.spotify.com/track/1KK30lewGW8fa1u5m0HiXo) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Another Life](https://open.spotify.com/album/3bSDWZhx8tem5bR8lbkBlH) | 3:13 | 2023-06-02 | 2023-07-01 |
 | [Surrender](https://open.spotify.com/track/0MWcbfTaDRtQDhqthVmVon) | [August Royals](https://open.spotify.com/artist/75lrknh4n2savTcDGbMchq) | [Surrender](https://open.spotify.com/album/2F2p7EEpNEkswISRXQukHf) | 3:15 | 2022-03-11 | 2022-04-29 |
 | [Sway](https://open.spotify.com/track/2TdpWim6jts6tKEUAYdyo3) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Sway](https://open.spotify.com/album/1zqdoo5Kk7t77JG798yLZD) | 2:16 | 2022-06-10 | 2022-08-27 |
+| [Sweet Moment](https://open.spotify.com/track/3C29msNvApwxpOxhuqD2rX) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Sweet Moment](https://open.spotify.com/album/2nFkX9nkVdBdXvTSt1zXqL) | 2:07 | 2023-11-17 |  |
 | [Swing & A Miss](https://open.spotify.com/track/1572zYzvWUopUEbwmjeLiO) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears](https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC) | 2:59 | 2022-02-18 | 2022-03-12 |
 | [Swinging at the Stars](https://open.spotify.com/track/0plgpP6pbcptrfbCEHKKcA) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Just Because](https://open.spotify.com/album/2ArWkmluhZLOmbwCfyKurF) | 3:43 | 2023-10-06 |  |
 | [Symphony Of Lights](https://open.spotify.com/track/65uoNTX681VJpRyuVSWSdd) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Apocalypse Whenever](https://open.spotify.com/album/0d56QBHMTuBgehoYAZ2s25) | 4:19 | 2022-01-28 | 2022-02-26 |
@@ -797,6 +802,7 @@
 | [XXL](https://open.spotify.com/track/4kFbxA8gCGx47zJrZ9KiQT) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/198gsVHJBnvsKSdLbucwVI) | 3:26 | 2023-09-29 |  |
 | [y can’t we b friends?](https://open.spotify.com/track/0RU3WmtsA8oUpgbH3XxTpj) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [y can’t we b friends?](https://open.spotify.com/album/6HAp1zaGP4uL7IxXKAI5K8) | 2:35 | 2022-05-27 | 2022-07-09 |
 | [Yard Sale](https://open.spotify.com/track/7aphaNjz17A97xNyD00LBn) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Yard Sale](https://open.spotify.com/album/6NrKSg2op9PLJI9BjpwPXe) | 2:54 | 2023-11-10 |  |
+| [Yes I'm A Mess](https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Yes I'm A Mess](https://open.spotify.com/album/0mbu9tcivddH45l4FuazT4) | 2:44 | 2023-11-17 |  |
 | [You Don't Even](https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/57DIram00k8ChKYxsWJB5l) | 2:18 | 2023-09-08 | 2023-10-24 |
 | [You Don't Even](https://open.spotify.com/track/6jTGHYU466eF0XxVOQuQMy) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/1Vw2QQWVguHw3kTwCq3kaf) | 2:18 | 2023-10-20 |  |
 | [You Make Me Mad](https://open.spotify.com/track/5WyBmMS2qDyOz8O0OIQUY5) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [A Safe Place To Be](https://open.spotify.com/album/2Bn7ms5tZRXGvZOOT55OOf) | 3:06 | 2021-10-29 | 2022-01-08 |

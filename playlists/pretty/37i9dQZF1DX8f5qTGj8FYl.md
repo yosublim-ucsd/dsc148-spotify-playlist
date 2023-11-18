@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,629 likes - 150 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,692 likes - 150 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 93 | [Thankful](https://open.spotify.com/track/70E9nuuyPTvNPkfKafHtAD) | [Pablo Ojeda](https://open.spotify.com/artist/0V62WYCDy3mT7xUsCYJk9W) | [Thankful](https://open.spotify.com/album/402bUU8HIw8M3mK8RZftqi) | 3:42 |
 | 94 | [Funky Greens](https://open.spotify.com/track/2LmgXH9uTwVVTCVaUWj9V7) | [Patrick Bradley](https://open.spotify.com/artist/6z9nWRXEPunshulSa2lwck) | [Intangible](https://open.spotify.com/album/5dluPd7QfBUGLS83XIAZFd) | 4:08 |
 | 95 | [Here We Go!](https://open.spotify.com/track/5qC0s0cGubyzJ0NLyJ6oTS) | [Adam Gibbons](https://open.spotify.com/artist/4KtY2GA4jEW6Ql2QCQz5tN), [Lack Of Afro](https://open.spotify.com/artist/5e3Z7HYpiVcP3TlU0a4yap) | [Here We Go! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2HZqw2eugGypZO5ZuNauxZ) | 2:07 |
-| 96 | [Wishbone \- Deluxe Edition Bonus Track](https://open.spotify.com/track/4XSI6vXCaovfgVboUrQNpA) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/3C5Dlf8RweGoTH4p2M0ISo) | 3:21 |
+| 96 | [Wishbone \(Deluxe Edition Bonus Track\)](https://open.spotify.com/track/05NJyGGPmJwOcAS8Mn6WuX) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/2sQ1tG5dvAZFQVa5HaI3Hy) | 3:21 |
 | 97 | [Prime \(Electric Kiss\)](https://open.spotify.com/track/2LdeIrenmyRV7zYpLzyfgE) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [contributions \(Side B\)](https://open.spotify.com/album/1SQOJ3Biss7BCXmhQQhmok) | 3:04 |
 | 98 | [Ethiopian Airlines](https://open.spotify.com/track/2RxQC6uIqDJanickJntvG9) | [Whatitdo Archive Group](https://open.spotify.com/artist/0unbh6hstakLyzQ09UezhO) | [The Black Stone Affair](https://open.spotify.com/album/5EFN2PLtgFkIuPPZBhKfuE) | 4:00 |
 | 99 | [When It Hits](https://open.spotify.com/track/14ysAyuv7YTQehcQpMdf35) | [The Jazztronauts](https://open.spotify.com/artist/5BDqasby7EHFEtTQJQdWcG) | [When It Hits](https://open.spotify.com/album/60DolNauIU1EFAaXzzBOwu) | 2:35 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 149 | [Look\-A Py Py](https://open.spotify.com/track/18Z1Tro6FApXmBeP4EICsn) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Undercover Mixtape](https://open.spotify.com/album/6XnaRujtyMCICItpFo4lQY) | 2:33 |
 | 150 | [Goliath](https://open.spotify.com/track/3xGsGKZtO9igxUGjC6SFcv) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Into The Infrasounds](https://open.spotify.com/album/73HHKGxaTm3f0GognR7hBv) | 5:03 |
 
-Snapshot ID: `MCwxZTYzMDhlOTMwOTI2NWY0ZDc4ZGQyZmRhZmUwZjI5ODc2OWM5MTJh`
+Snapshot ID: `MCwxMTI5NjNhNTU0ZjNjMjA5ZDdmZTkxYWI5ZWVhMmRlYzA5MWM2NzU2`

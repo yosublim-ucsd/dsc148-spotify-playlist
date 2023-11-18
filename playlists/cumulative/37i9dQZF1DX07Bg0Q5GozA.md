@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: Biig Piig
 
-548 songs - 1 day 13 hr 48 min
+549 songs - 1 day 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,7 +461,8 @@
 | [sweatshop](https://open.spotify.com/track/1NbSzuTZwGgTgGpIq4ljHZ) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [sweatshop](https://open.spotify.com/album/4zcnApdR65SRUbftcGRyvS) | 2:29 | 2023-11-16 |  |
 | [Swept Up \- Shakedown Remix](https://open.spotify.com/track/7GQskDnCN4IeyiM6bcav68) | [Shuttle](https://open.spotify.com/artist/5QtW5ZhAsPzCUqZYldTWCh), [Shakedown](https://open.spotify.com/artist/0vSfjPjAbekoehCpmy1RV1) | [Swept Up \(Shakedown Remix\)](https://open.spotify.com/album/2F4EWvGw0sCvM4752tw7Lx) | 3:01 | 2023-08-24 |  |
 | [Swimming Away](https://open.spotify.com/track/52uK2lEzonx7t74TIdnqKE) | [Marta](https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7), [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [When It's Going Wrong](https://open.spotify.com/album/1y9pZMiGd5JbIi4rimq0Ja) | 2:42 | 2023-03-30 | 2023-04-14 |
-| [Swirl \- Roosevelt Remix](https://open.spotify.com/track/5hwwsF2ghUGZL7VQKKV16k) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Swirl \(Roosevelt Remix\)](https://open.spotify.com/album/0X20eVtWg9OdCVTL1mX8Ua) | 5:03 | 2023-11-16 |  |
+| [Swirl \- Roosevelt Remix](https://open.spotify.com/track/5hwwsF2ghUGZL7VQKKV16k) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Swirl \(Roosevelt Remix\)](https://open.spotify.com/album/0X20eVtWg9OdCVTL1mX8Ua) | 5:03 | 2023-11-16 | 2023-11-18 |
+| [Swirl \- Roosevelt Remix](https://open.spotify.com/track/7sH9vN5ziCJ3snQ2nxJtMG) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Swirl \(Roosevelt Remix\)](https://open.spotify.com/album/0JcAcT7K4l5dp5grqmiIaN) | 5:03 | 2023-11-16 |  |
 | [Take a Chance](https://open.spotify.com/track/5YKHh24xKQNW7XT29gNIRp) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Take a Chance](https://open.spotify.com/album/5FGc2Uy94y4BVsRSkxmOkZ) | 3:23 | 2023-03-23 | 2023-09-08 |
 | [Take It Or Leave It](https://open.spotify.com/track/1o50D29tsnzInFW2ACAwjN) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54), [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Take It Or Leave It](https://open.spotify.com/album/3BGvWKf4IdoJxrktOZgdUC) | 2:34 | 2023-03-23 | 2023-07-01 |
 | [Take Me to the Bridge](https://open.spotify.com/track/4swOfLpGpRXhJaJjYjBuIH) | [Vera](https://open.spotify.com/artist/0FkJ8SID5QlL8bWQBMmtmh) | [Take Me to the Bridge / Jumpin' \(Get Hot, Hit the Spot\)](https://open.spotify.com/album/3lXdkMownWe2ZcAw4DB5Hx) | 7:03 | 2022-12-30 | 2023-01-02 |

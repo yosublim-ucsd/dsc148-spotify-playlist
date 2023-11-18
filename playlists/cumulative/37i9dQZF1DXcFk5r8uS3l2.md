@@ -2,9 +2,9 @@
 
 ### [Blues Roots](https://open.spotify.com/playlist/37i9dQZF1DXcFk5r8uS3l2)
 
-> You've come to the crossroads of soul, folk, and the blues\. Cover: Vintage Trouble
+> You've come to the crossroads of soul, folk, and the blues\. Cover: ZZ Ward
 
-329 songs - 20 hr 42 min
+331 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [How Deep Is Your Love](https://open.spotify.com/track/5O7oXGr6wariuJbTNNX4oy) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL) | [How Deep Is Your Love](https://open.spotify.com/album/4p2PP3RIx6tghBjEJZurTh) | 4:08 | 2021-12-17 | 2022-06-11 |
 | [Howl](https://open.spotify.com/track/32ioHHPhIoZjPtwUw5TVfE) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Howl](https://open.spotify.com/album/35a3US8iAh300740OipUz0) | 4:53 | 2022-04-01 | 2022-07-29 |
 | [Hustlin' \[Feat\. Jerry Douglas & Chris Eldridge\]](https://open.spotify.com/track/69Sgn7yVDF59YyR9xCaTZE) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Chris Eldridge](https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW) | [Hearts Town](https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY) | 3:39 | 2021-12-17 | 2022-09-27 |
+| [I Drink Alone](https://open.spotify.com/track/3uiPbbS5yy5wuENxzsS01Q) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [I Drink Alone](https://open.spotify.com/album/2qD3wp0RGuqCDJCJYH5OTi) | 3:46 | 2023-11-17 |  |
 | [I Feel A Sin Coming On](https://open.spotify.com/track/0BgoEUr5NlIr3smY951qll) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/3RbTP1BoNM2obRu7Zr31kJ) | 3:52 | 2021-12-17 | 2022-07-29 |
 | [I Feel A Sin Coming On](https://open.spotify.com/track/0PuUP76HkRAdUrwKX1uUXd) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 3:52 | 2022-05-27 | 2023-02-25 |
 | [I Know How You Feel](https://open.spotify.com/track/2y6i0SqujGvBIU8CdsIQDz) | [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg), [Thomas Lindsey](https://open.spotify.com/artist/6HgqFc4JO1dbSw6oIqrdVi) | [Amitié](https://open.spotify.com/album/46lxdP9TY1y8hLJyy2NWFE) | 2:35 | 2021-12-17 | 2022-06-24 |
@@ -195,7 +196,7 @@
 | [Mistakes](https://open.spotify.com/track/0Sox7tv3MK5h6AkFLUPHtY) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Side Pony](https://open.spotify.com/album/1pXxKrTopCyALgXX7h5tmX) | 4:08 | 2021-12-17 |  |
 | [Mood](https://open.spotify.com/track/0W5jMo5MpHvLTGVnAN8c1R) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Mood](https://open.spotify.com/album/1Q1qs8DABP6SgIyRyadg8s) | 3:29 | 2022-10-21 |  |
 | [More Than Love](https://open.spotify.com/track/2aOFeTEHfs2fXvzBtpdfni) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 3:07 | 2022-07-26 |  |
-| [Mountain Road](https://open.spotify.com/track/7o2FUCaN5BkqzGrM7kajEo) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Mountain Road](https://open.spotify.com/album/7c1Es2Z6SAV6LwwZc2knQp) | 3:13 | 2023-05-05 |  |
+| [Mountain Road](https://open.spotify.com/track/7o2FUCaN5BkqzGrM7kajEo) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Mountain Road](https://open.spotify.com/album/7c1Es2Z6SAV6LwwZc2knQp) | 3:13 | 2023-05-05 | 2023-11-18 |
 | [Mrs.](https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:02 | 2021-12-17 | 2023-02-25 |
 | [My Kentucky](https://open.spotify.com/track/353KDYzMxofC6davOZ1oH6) | [Kamara Thomas & the Ghost Gamblers](https://open.spotify.com/artist/7c4SDBbtEW9iX2MPBGhn4q) | [Earth Hero](https://open.spotify.com/album/6u5saPFGrin6Q16nQ5CvV3) | 7:01 | 2021-12-17 | 2022-06-11 |
 | [Mystery](https://open.spotify.com/track/0YsLm3mpqjELlj7N8iRoO4) | [David Myles](https://open.spotify.com/artist/0C52ChHxEwG9E6Mi7Kmlkf) | [It's Only a Little Loneliness](https://open.spotify.com/album/4ZRQS7I2IlLKLNyDV6ON7P) | 3:25 | 2022-05-27 |  |
@@ -291,6 +292,7 @@
 | [The Lengths](https://open.spotify.com/track/7nl6fbpRrLAED8KR2pUgTp) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Rubber Factory](https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5) | 4:54 | 2021-12-17 | 2023-05-06 |
 | [The Love That Once Lingered \- feat\. Lady Blackbird](https://open.spotify.com/track/4vlATschiZVKFlngUwN4k9) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0), [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [The Love That Once Lingered](https://open.spotify.com/album/0oMr2919OXeWIhGqvbKsfv) | 3:54 | 2023-05-12 | 2023-06-24 |
 | [The Map](https://open.spotify.com/track/7lBcer2WtpdnPpHVcVpROp) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [The Map](https://open.spotify.com/album/2qabf6Z1Q1Bt1nXKoTunWd) | 3:35 | 2021-12-17 | 2023-03-11 |
+| [The Mend](https://open.spotify.com/track/3lsi95o89SYcpyuqGw0qeg) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Dirty Shine \(Dirty Deluxe\)](https://open.spotify.com/album/4GTwClQjdN0otMH75u6MYr) | 3:37 | 2023-11-17 |  |
 | [The Preacher Man](https://open.spotify.com/track/0vOTVTfIG7e0FihbmfB72d) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Old Habits](https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y) | 2:48 | 2022-09-23 | 2022-10-22 |
 | [The Reckoning](https://open.spotify.com/track/0JoT21QZNDV1f52oKAiyCA) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [The Reckoning](https://open.spotify.com/album/4SpmzZschXxbCnNAFTTESm) | 3:38 | 2022-06-17 | 2022-06-25 |
 | [The Tools](https://open.spotify.com/track/28l58QQjZkeghQ60oJciFZ) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [Are You Mad Yet?](https://open.spotify.com/album/5hqt9vPCSmnDdcJMX1VG0h) | 2:27 | 2022-03-18 | 2022-03-30 |
@@ -303,7 +305,7 @@
 | [This Will Be Our Year](https://open.spotify.com/track/2oy3hJGwD5aJSlFy4OnAkL) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [This Will Be Our Year](https://open.spotify.com/album/1aunApiIbz5beHK7ty68bT) | 2:37 | 2022-11-11 | 2023-03-25 |
 | [Through The Darkest Night](https://open.spotify.com/track/0L5K4w34pUNo5azuKac5zd) | [Ollee Owens](https://open.spotify.com/artist/36BxlE2IWlXTNTAwyMx1DD) | [CANNOT BE UNHEARD](https://open.spotify.com/album/72GY9mSMI5tivnkggaudXS) | 5:14 | 2022-09-16 | 2023-03-11 |
 | [Throw That Stone](https://open.spotify.com/track/0BGr6RE0hPLyDjCTlYzfcx) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Throw That Stone](https://open.spotify.com/album/408CkVwXz2NDA1au1j5cJV) | 2:58 | 2023-01-20 | 2023-07-22 |
-| [Tin Cups](https://open.spotify.com/track/622IlDFXeH6TSdmPJCBJCz) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Tin Cups](https://open.spotify.com/album/6OJY1tKwM6ZCTsWANfRT1e) | 3:02 | 2022-10-14 |  |
+| [Tin Cups](https://open.spotify.com/track/622IlDFXeH6TSdmPJCBJCz) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Tin Cups](https://open.spotify.com/album/6OJY1tKwM6ZCTsWANfRT1e) | 3:02 | 2022-10-14 | 2023-11-18 |
 | [To Rise You Gotta Fall](https://open.spotify.com/track/5zp4hfK7UcGn9EHhcP6bDE) | [Nicki Bluhm](https://open.spotify.com/artist/0Ti7wMIMMaYKv582YN47Hh) | [To Rise You Gotta Fall](https://open.spotify.com/album/4lgm1KUaNO3bp6FYRImcPL) | 4:56 | 2021-12-17 | 2023-03-11 |
 | [Too Late](https://open.spotify.com/track/0bt4QO4xZOj3MwVqTc78AU) | [Jesse Ray and the Carolina Catfish](https://open.spotify.com/artist/4Qafc3GarByfVBFGCi81zy) | [Too Late](https://open.spotify.com/album/1TR3lXR7Mwf1MRpXnZVcCY) | 3:25 | 2023-07-28 |  |
 | [Transit Damage](https://open.spotify.com/track/4nUpA4KhunJgxvVvjHfRzB) | [Shinyribs](https://open.spotify.com/artist/3xkZ4A3btzE9F5oVuY25UF) | [Transit Damage](https://open.spotify.com/album/6Dn9kpVuqyaAzLSuBWiqlW) | 4:25 | 2023-07-14 |  |

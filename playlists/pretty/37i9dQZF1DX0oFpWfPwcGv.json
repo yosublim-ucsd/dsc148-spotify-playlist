@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 55790,
+  "num_followers": 55882,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjc2MTFkODZmODIwZjAyY2VmM2M3OGRlNzJhZGRhMWY3NjVjNjdl",
+  "snapshot_id": "MCw3NDkzNmYyN2Y4MTVhMGJkYjc2NjMxNTViOTdmZWJjMGQ0ZDc1MjA4",
   "tracks": [
     {
       "added_at": "2023-09-18 17:33:17",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
-        "name": "Karen Carpenter",
-        "url": "https://open.spotify.com/album/6UgcD23f6L1MlbBOheTNoJ"
-      },
-      "artists": [
-        {
-          "name": "Karen Carpenter",
-          "url": "https://open.spotify.com/artist/36RONzYVz7gBzAI1k6kot1"
-        }
-      ],
-      "duration_ms": 225160,
-      "name": "My Body Keeps Changing My Mind",
-      "url": "https://open.spotify.com/track/2JJuLnRim5bNDMWEewpfcA"
-    },
-    {
-      "added_at": "2023-09-18 17:33:17",
-      "album": {
         "name": "Risqu\u00e9 (2018 Remaster)",
         "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 274960,
       "name": "My Forbidden Lover - 2018 Remaster",
       "url": "https://open.spotify.com/track/1HUTQRf1kFERMNNVvCU5R4"
+    },
+    {
+      "added_at": "2023-09-18 17:33:17",
+      "album": {
+        "name": "Karen Carpenter",
+        "url": "https://open.spotify.com/album/6UgcD23f6L1MlbBOheTNoJ"
+      },
+      "artists": [
+        {
+          "name": "Karen Carpenter",
+          "url": "https://open.spotify.com/artist/36RONzYVz7gBzAI1k6kot1"
+        }
+      ],
+      "duration_ms": 225160,
+      "name": "My Body Keeps Changing My Mind",
+      "url": "https://open.spotify.com/track/2JJuLnRim5bNDMWEewpfcA"
     },
     {
       "added_at": "2023-09-18 17:33:17",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2023-09-18 17:33:17",
       "album": {
+        "name": "Lectric Lady",
+        "url": "https://open.spotify.com/album/4tNDvBMJt5PU0QPjySVa7A"
+      },
+      "artists": [
+        {
+          "name": "Carol Williams",
+          "url": "https://open.spotify.com/artist/5QqgCq8kssGoXgqxBlGgJM"
+        },
+        {
+          "name": "Tom Moulton",
+          "url": "https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6"
+        }
+      ],
+      "duration_ms": 473240,
+      "name": "Love Is You (A Tom Moulton Mix)",
+      "url": "https://open.spotify.com/track/62ibP0siVUFoOJJVPOR0Xc"
+    },
+    {
+      "added_at": "2023-09-18 17:33:17",
+      "album": {
         "name": "Twelve Inch Classics from the 70s, Vol. 2",
         "url": "https://open.spotify.com/album/0G6pHS6CdJEUAPzE4RmkMa"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 750560,
       "name": "The Love I Lost - A Tom Moulton Mix",
       "url": "https://open.spotify.com/track/6kTRD53rZvscOShCDotKVy"
-    },
-    {
-      "added_at": "2023-09-18 17:33:17",
-      "album": {
-        "name": "Lectric Lady",
-        "url": "https://open.spotify.com/album/4tNDvBMJt5PU0QPjySVa7A"
-      },
-      "artists": [
-        {
-          "name": "Carol Williams",
-          "url": "https://open.spotify.com/artist/5QqgCq8kssGoXgqxBlGgJM"
-        },
-        {
-          "name": "Tom Moulton",
-          "url": "https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6"
-        }
-      ],
-      "duration_ms": 473240,
-      "name": "Love Is You (A Tom Moulton Mix)",
-      "url": "https://open.spotify.com/track/62ibP0siVUFoOJJVPOR0Xc"
     },
     {
       "added_at": "2023-09-18 17:33:17",

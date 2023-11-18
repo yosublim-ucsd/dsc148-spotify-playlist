@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Aftershine
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Happy Asmara
 
-239 songs - 19 hr 47 min
+241 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Ambyar Mak Pyar \- Keroncong Version](https://open.spotify.com/track/74xhzdyLf8NFPg0YEkl2zx) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Ambyar Mak Pyar \(Keroncong Version\)](https://open.spotify.com/album/2p3qceONrEXQAjo1tpUKY9) | 4:38 | 2022-05-26 | 2022-09-02 |
 | [Angel](https://open.spotify.com/track/1J6ws7eOvY1GKzTdd3rrau) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Angel](https://open.spotify.com/album/27YY9UwgvQI4sQ6PR1FFUq) | 4:47 | 2022-05-26 | 2023-02-10 |
 | [angin dalu](https://open.spotify.com/track/658ox296pj18QSjzTBGWWy) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [angin dalu](https://open.spotify.com/album/398tNxv0AePP2zEWNYOmKs) | 4:19 | 2022-05-26 |  |
+| [Apik](https://open.spotify.com/track/4wKs47lXYzgdkhEfU2X1L6) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Apik](https://open.spotify.com/album/0U63NlQb7uOyrEMEv4TCRK) | 5:42 | 2023-11-17 |  |
 | [Balik Kanan Wae](https://open.spotify.com/track/3r55XFoo88uz9e084F2RFU) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Balik Kanan Wae](https://open.spotify.com/album/73xxVGK2GFvA8yxTBvDjGz) | 4:06 | 2022-05-26 | 2023-05-20 |
 | [Banyu Moto](https://open.spotify.com/track/1UqXKWMR9HXUSabmXxxUiB) | [Sleman Receh](https://open.spotify.com/artist/0jcgtGZTWxoepAUgADwcHP) | [Banyu Moto](https://open.spotify.com/album/4aeI54j6CouhfK7LqwJpCV) | 4:09 | 2022-05-26 |  |
 | [Bar Lebaran Tak Lamar](https://open.spotify.com/track/7pHfBvGfoyB62oYvAb9sDm) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Bar Lebaran Tak Lamar](https://open.spotify.com/album/38oVaFR9gB0U9beNc29c8h) | 5:28 | 2022-12-08 | 2023-08-11 |
@@ -243,6 +244,7 @@
 | [Wes Tatas](https://open.spotify.com/track/6g6tlaJKQWsL6Ysrt6anxs) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Wes Tatas](https://open.spotify.com/album/0st0wABUWgfiEPkF3fPhsz) | 4:07 | 2023-05-19 |  |
 | [Widodari](https://open.spotify.com/track/6NboFmEGgwlzpVG7dFfJUV) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Widodari](https://open.spotify.com/album/43jrtZTMIedkZMxTpfWCxa) | 4:56 | 2022-05-26 | 2023-07-14 |
 | [Wingi Dele Saiki Tempe](https://open.spotify.com/track/5Q3c8a4Z12UyDXWDzwZfYc) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Wingi Dele Saiki Tempe](https://open.spotify.com/album/30DhyZgunBAiosUbswKeaA) | 6:29 | 2022-05-26 | 2022-06-10 |
+| [Wirang](https://open.spotify.com/track/31CJowm1yKm0GMKEEcODtP) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Wirang](https://open.spotify.com/album/4SckpzyjbJpKjXnWBxxWGs) | 5:18 | 2023-11-17 |  |
 | [Wis Dadi Siji](https://open.spotify.com/track/3V4psN224kLrGMNQ6nPYW2) | [Yoga Pratama](https://open.spotify.com/artist/4xb4qXz0TEBMoQCARbOPV1), [Mayangsari](https://open.spotify.com/artist/3rFjxo9yivNNj7ARVjSAzQ), [ALIM MAHAKARYA](https://open.spotify.com/artist/2Nzt5yxDZ24I6byUHRgjGF) | [Wis Dadi Siji](https://open.spotify.com/album/2WRKywqxFsv91baqQwyhu7) | 4:53 | 2023-09-28 |  |
 | [Wkwkwk](https://open.spotify.com/track/07AZnO1UhduzhZdiL7iZKo) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Wkwkwk](https://open.spotify.com/album/18Gtv8JfqAIwVwLuShicWm) | 4:03 | 2022-07-14 | 2022-07-22 |
 | [Yang](https://open.spotify.com/track/3v7OoIuqKeR2cm1UraZAGn) | [AVIWKILA](https://open.spotify.com/artist/5wZoqr9DBLE7BYXUC1PhSs) | [Yang](https://open.spotify.com/album/7fexpNRf6OG0n9MfL75j5y) | 4:34 | 2022-05-26 | 2022-11-14 |

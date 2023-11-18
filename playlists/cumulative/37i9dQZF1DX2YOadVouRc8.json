@@ -3023,6 +3023,28 @@
     },
     {
       "album": {
+        "name": "Lonely At The Top EP",
+        "url": "https://open.spotify.com/album/0WIxPJuMx4lPD05uGltfgN"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Lonely At The Top - Acoustic",
+      "url": "https://open.spotify.com/track/2CJrNQCkBPfmMQaHjH7f1H"
+    },
+    {
+      "album": {
         "name": "Love & Trust",
         "url": "https://open.spotify.com/album/1R0lN0IUKzFO6eLUlzDFSJ"
       },

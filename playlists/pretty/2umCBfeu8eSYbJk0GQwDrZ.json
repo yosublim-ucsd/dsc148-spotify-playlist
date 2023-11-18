@@ -1,13 +1,29 @@
 {
   "description": "Stay current with the latest indie-alt tracks.",
-  "num_followers": 28582,
+  "num_followers": 28580,
   "original_name": "Hipster Radar",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "NzU1Myw0YjgwNGUwOWMxMmNlNGNjMjYxOGQxN2JhNTZjYTBhZTc1MWVhZTUz",
+  "snapshot_id": "NzU5MCxiYjVmZDdjMmJjNjFjYTQwNmZjNmQzOWM1NzA4NTMxZTcwNzA0N2U1",
   "tracks": [
+    {
+      "added_at": "2023-11-17 18:07:30",
+      "album": {
+        "name": "The Glass",
+        "url": "https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 211190,
+      "name": "The Glass",
+      "url": "https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W"
+    },
     {
       "added_at": "2023-11-10 16:48:19",
       "album": {
@@ -23,6 +39,110 @@
       "duration_ms": 221217,
       "name": "Heartbeat Highway",
       "url": "https://open.spotify.com/track/2YbJ0qJ5uqOPfLGvqMLkaK"
+    },
+    {
+      "added_at": "2023-11-17 18:04:04",
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 220311,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr"
+    },
+    {
+      "added_at": "2023-11-17 18:06:05",
+      "album": {
+        "name": "Crazy Again",
+        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "duration_ms": 197877,
+      "name": "Crazy Again",
+      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
+    },
+    {
+      "added_at": "2023-11-17 18:36:41",
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/0dUDaUYs1k6kZyZmgA1AtP"
+      },
+      "artists": [
+        {
+          "name": "Glitter Party",
+          "url": "https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "27",
+      "url": "https://open.spotify.com/track/1i6ouOa3fsOOM4te6l8iax"
+    },
+    {
+      "added_at": "2023-11-17 18:33:30",
+      "album": {
+        "name": "I'm Around (Both Sides)",
+        "url": "https://open.spotify.com/album/0P3HQidbFAVWRnKR76qEH3"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        },
+        {
+          "name": "Cate",
+          "url": "https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph"
+        }
+      ],
+      "duration_ms": 200987,
+      "name": "I'm Around (Both Sides)",
+      "url": "https://open.spotify.com/track/6En9mJVkwVSgIIURTSFHv7"
+    },
+    {
+      "added_at": "2023-11-17 19:45:26",
+      "album": {
+        "name": "Girl With No Face",
+        "url": "https://open.spotify.com/album/0a4MWnmeWK3BP462nqaYaU"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        }
+      ],
+      "duration_ms": 263859,
+      "name": "Girl With No Face",
+      "url": "https://open.spotify.com/track/0EQJc4WYegeTU1VDaiI8Tj"
+    },
+    {
+      "added_at": "2023-11-17 19:42:32",
+      "album": {
+        "name": "Artefact (feat. Le\u00f3n Larregui)",
+        "url": "https://open.spotify.com/album/1xknqSH8BF4brwlQlDjk0L"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 201586,
+      "name": "Artefact (feat. Le\u00f3n Larregui)",
+      "url": "https://open.spotify.com/track/2XvRfxK4qTbX9ZOloiomxv"
     },
     {
       "added_at": "2023-11-10 16:48:19",
@@ -43,6 +163,54 @@
       "duration_ms": 206833,
       "name": "Separate Ways (feat. The Mar\u00edas)",
       "url": "https://open.spotify.com/track/4fwPxcF4rZQIBZr1h6Qd2S"
+    },
+    {
+      "added_at": "2023-11-17 19:37:20",
+      "album": {
+        "name": "Anna",
+        "url": "https://open.spotify.com/album/5YQToGEsFBM6QxkX75FMH7"
+      },
+      "artists": [
+        {
+          "name": "Soran",
+          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
+        }
+      ],
+      "duration_ms": 201310,
+      "name": "Anna",
+      "url": "https://open.spotify.com/track/1nGgr8h9Sqz43VhJbo5yxZ"
+    },
+    {
+      "added_at": "2023-11-17 19:43:27",
+      "album": {
+        "name": "Lunar Eclipse",
+        "url": "https://open.spotify.com/album/5eHQVvyhbGQdSgPdwngpQ6"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "duration_ms": 176578,
+      "name": "Lunar Eclipse",
+      "url": "https://open.spotify.com/track/0dE7NZN4VVLlLxJ7WPgpqd"
+    },
+    {
+      "added_at": "2023-11-17 19:47:13",
+      "album": {
+        "name": "Brambles",
+        "url": "https://open.spotify.com/album/1LqHcvT0n9mb3DSp6oL8NB"
+      },
+      "artists": [
+        {
+          "name": "Frank Carter & The Rattlesnakes",
+          "url": "https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc"
+        }
+      ],
+      "duration_ms": 212025,
+      "name": "Brambles",
+      "url": "https://open.spotify.com/track/2sHWoU97dgQfATRm99WFzr"
     },
     {
       "added_at": "2023-11-10 16:48:19",
@@ -143,6 +311,38 @@
       "duration_ms": 275277,
       "name": "Penthouse in The Sky",
       "url": "https://open.spotify.com/track/5UC5kPr4qlY0PDrGwE31zA"
+    },
+    {
+      "added_at": "2023-11-17 19:39:47",
+      "album": {
+        "name": "New Favorite",
+        "url": "https://open.spotify.com/album/4923u4enjlvwTRTgYU9NTL"
+      },
+      "artists": [
+        {
+          "name": "Shaina Hayes",
+          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
+        }
+      ],
+      "duration_ms": 159589,
+      "name": "New Favorite",
+      "url": "https://open.spotify.com/track/5SJXG5kzLdWgBwNG0IpCXj"
+    },
+    {
+      "added_at": "2023-11-17 19:46:29",
+      "album": {
+        "name": "Remember When",
+        "url": "https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 192079,
+      "name": "Remember When",
+      "url": "https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm"
     },
     {
       "added_at": "2023-11-10 16:48:19",
@@ -675,38 +875,6 @@
     {
       "added_at": "2023-11-10 16:48:19",
       "album": {
-        "name": "Waterfall (I Adore You)",
-        "url": "https://open.spotify.com/album/2JMwjCJEkSI2jskt9bMkG9"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 292940,
-      "name": "Waterfall (I Adore You)",
-      "url": "https://open.spotify.com/track/2xDglkKUh1x6SDHtlv8H8J"
-    },
-    {
-      "added_at": "2023-11-10 16:48:19",
-      "album": {
-        "name": "I'm Around",
-        "url": "https://open.spotify.com/album/7g1ir5F6KEuOJ8NUdZztfS"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        }
-      ],
-      "duration_ms": 200202,
-      "name": "I'm Around",
-      "url": "https://open.spotify.com/track/2zfxZsXityOS6bJYWNLgJR"
-    },
-    {
-      "added_at": "2023-11-10 16:48:19",
-      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/34uN9whtj0faUPaF9jrbDV"
       },
@@ -719,182 +887,6 @@
       "duration_ms": 181223,
       "name": "Crush",
       "url": "https://open.spotify.com/track/1qpMpd6otkEvU1X8o4rN54"
-    },
-    {
-      "added_at": "2023-11-10 16:48:19",
-      "album": {
-        "name": "UPSAHL PRESENTS: THE PHX TAPES",
-        "url": "https://open.spotify.com/album/4ehJjs7mB5D5sTgsEAKG8Y"
-      },
-      "artists": [
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 137003,
-      "name": "NO HANDS (SIDE A)",
-      "url": "https://open.spotify.com/track/322B6Not1OsMLCCxHg6sZl"
-    },
-    {
-      "added_at": "2023-11-10 16:48:19",
-      "album": {
-        "name": "bella / i can't find anyone",
-        "url": "https://open.spotify.com/album/2oMSoRAvlKoz4yPK2iFgwD"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 199466,
-      "name": "bella",
-      "url": "https://open.spotify.com/track/5NIiWGCKe6gtR5rKrlQ6KR"
-    },
-    {
-      "added_at": "2023-11-10 16:48:19",
-      "album": {
-        "name": "Sorority",
-        "url": "https://open.spotify.com/album/5rmWWYeXjHCusQpIMe5U3t"
-      },
-      "artists": [
-        {
-          "name": "ELIO",
-          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
-        }
-      ],
-      "duration_ms": 213806,
-      "name": "Sorority",
-      "url": "https://open.spotify.com/track/5MwA2Z1ZEBZKY8E2Qd8lq0"
-    },
-    {
-      "added_at": "2023-11-10 16:48:19",
-      "album": {
-        "name": "All Eyes On Me (feat. BENEE, Chad Hugo & Pusha T)",
-        "url": "https://open.spotify.com/album/1WQFkEZ6ebRQ7ty6Ygbujl"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        },
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        },
-        {
-          "name": "Chad Hugo",
-          "url": "https://open.spotify.com/artist/6HObKCGcJkXr84jyo0ZzPp"
-        }
-      ],
-      "duration_ms": 146440,
-      "name": "All Eyes on Me (feat. BENEE, Chad Hugo & Pusha T)",
-      "url": "https://open.spotify.com/track/4r48NKo5H3NHpe5nmxDFvv"
-    },
-    {
-      "added_at": "2023-11-10 16:48:19",
-      "album": {
-        "name": "Cousin",
-        "url": "https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 251386,
-      "name": "Levee",
-      "url": "https://open.spotify.com/track/3LjINbaBQeitJZD36pVdP4"
-    },
-    {
-      "added_at": "2023-11-10 16:48:19",
-      "album": {
-        "name": "Set Your Pussy Free",
-        "url": "https://open.spotify.com/album/1rFvnyuIMTng2oCAVTrxf6"
-      },
-      "artists": [
-        {
-          "name": "NOBRO",
-          "url": "https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs"
-        }
-      ],
-      "duration_ms": 168736,
-      "name": "Who The Hell Am I?",
-      "url": "https://open.spotify.com/track/6c3Yq5A0jHVNLJvMMb0KWI"
-    },
-    {
-      "added_at": "2023-11-10 16:48:19",
-      "album": {
-        "name": "My Simple Jeep (feat. Mac DeMarco)",
-        "url": "https://open.spotify.com/album/3RiKNDu7x3qjRM4mhyBQc0"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 179810,
-      "name": "My Simple Jeep (feat. Mac DeMarco)",
-      "url": "https://open.spotify.com/track/0ZpC3Exz0loDQahf1jPErB"
-    },
-    {
-      "added_at": "2023-11-10 16:48:19",
-      "album": {
-        "name": "Shuggie",
-        "url": "https://open.spotify.com/album/3VOKfUcD53RMoNCLnQ9KmW"
-      },
-      "artists": [
-        {
-          "name": "Yukon Blonde",
-          "url": "https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN"
-        }
-      ],
-      "duration_ms": 194529,
-      "name": "Lovers in a Crowded Room",
-      "url": "https://open.spotify.com/track/1tBK324bQxGL98PeDpvep6"
-    },
-    {
-      "added_at": "2023-11-10 16:48:19",
-      "album": {
-        "name": "Grapevines",
-        "url": "https://open.spotify.com/album/5AQ6N4oqZx3ao74YsAIG11"
-      },
-      "artists": [
-        {
-          "name": "Jade LeMac",
-          "url": "https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63"
-        }
-      ],
-      "duration_ms": 151755,
-      "name": "Grapevines",
-      "url": "https://open.spotify.com/track/5qA6S1VE2dUrp6p3RlvoW6"
-    },
-    {
-      "added_at": "2023-11-10 16:48:19",
-      "album": {
-        "name": "Better Half",
-        "url": "https://open.spotify.com/album/3Y7WzwS5rnSWbyn16WbJYH"
-      },
-      "artists": [
-        {
-          "name": "Sarcastic Sounds",
-          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
-        }
-      ],
-      "duration_ms": 147533,
-      "name": "Better Half",
-      "url": "https://open.spotify.com/track/3VpkzjArrs2821pG3VVvwl"
     },
     {
       "added_at": "2023-11-10 16:48:19",

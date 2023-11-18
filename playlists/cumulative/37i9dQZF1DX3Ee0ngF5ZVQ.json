@@ -6293,6 +6293,24 @@
     },
     {
       "album": {
+        "name": "Oklahoma",
+        "url": "https://open.spotify.com/album/4UjSoAyBIRZu3cGSEA6MXM"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219799,
+      "name": "Oklahoma",
+      "url": "https://open.spotify.com/track/6whzN4pEb9ArYN4z9FqijU"
+    },
+    {
+      "album": {
         "name": "Summertime Blues",
         "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
       },
@@ -9022,7 +9040,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 193613,
       "name": "Time of The Rambler",
       "url": "https://open.spotify.com/track/5jvph0QWRjgxRq2jM0bGZO"

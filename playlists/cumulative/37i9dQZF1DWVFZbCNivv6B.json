@@ -242,7 +242,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 176774,
       "name": "Agua de Grifo",
       "url": "https://open.spotify.com/track/3oJdoVXcGrt6BtAl5TTfpI"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 239000,
       "name": "Alzypher Vol. 8",
       "url": "https://open.spotify.com/track/2q5bIRmfQVowa6qhNVhvWI"
@@ -2665,6 +2665,28 @@
     },
     {
       "album": {
+        "name": "El Morrillo",
+        "url": "https://open.spotify.com/album/6KRYRynSZ3tdOHfzNtw1jd"
+      },
+      "artists": [
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        },
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167333,
+      "name": "El Morrillo",
+      "url": "https://open.spotify.com/track/11ca4YK18NT1OZZKkjgvzV"
+    },
+    {
+      "album": {
         "name": "El M\u00e1s Bravo",
         "url": "https://open.spotify.com/album/2WqwLDhHE0t1by83OFH6Ny"
       },
@@ -4152,7 +4174,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 170232,
       "name": "La Familia",
       "url": "https://open.spotify.com/track/7MrOL3OjCSmYj39yTcvOtB"
@@ -4748,6 +4770,44 @@
       "duration_ms": 142634,
       "name": "Locura",
       "url": "https://open.spotify.com/track/3f3mosFgSX31bjliFnbBve"
+    },
+    {
+      "album": {
+        "name": "Los Que Habitan Los Maizales Cap\u00edtulo 3",
+        "url": "https://open.spotify.com/album/5lW7GR51Ccx5eldclVIfNr"
+      },
+      "artists": [
+        {
+          "name": "Bizor",
+          "url": "https://open.spotify.com/artist/7F6fxMv0tz2Clj8H02Y2k7"
+        },
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Doble P Ache Ene",
+          "url": "https://open.spotify.com/artist/5yh17UV0XSFV1lzzFC39XR"
+        },
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Metrik Vader",
+          "url": "https://open.spotify.com/artist/47zSpyjndukb8rBLQSSU3T"
+        },
+        {
+          "name": "Solo Cadaver",
+          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334499,
+      "name": "Los Que Habitan Los Maizales Cap\u00edtulo 3",
+      "url": "https://open.spotify.com/track/2yDtx0UZPvu5Unm9JPvTUr"
     },
     {
       "album": {
@@ -6234,7 +6294,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 231068,
       "name": "Pa' Que Mami No Llore",
       "url": "https://open.spotify.com/track/3l4ir792nfcHySkiAbKd3U"
@@ -7606,6 +7666,28 @@
       "duration_ms": 214864,
       "name": "Round 7",
       "url": "https://open.spotify.com/track/32IndMzD07SrdRxWQ7G7Fd"
+    },
+    {
+      "album": {
+        "name": "La teor\u00eda de la evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/30zKUDTiOMivJHuDs14vzP"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230084,
+      "name": "Ruedo",
+      "url": "https://open.spotify.com/track/7Gq1dZ8eDuSX4uHCfZDkLP"
     },
     {
       "album": {
@@ -9538,6 +9620,32 @@
       "duration_ms": 185000,
       "name": "Verano",
       "url": "https://open.spotify.com/track/2gRfZmrE8X5gM2p6ADuINn"
+    },
+    {
+      "album": {
+        "name": "Japan Trip",
+        "url": "https://open.spotify.com/album/4jNcsKzxjFtjFqTPCKXGcH"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "AKLO",
+          "url": "https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb"
+        },
+        {
+          "name": "MIYACHI",
+          "url": "https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237439,
+      "name": "Vida Callejera",
+      "url": "https://open.spotify.com/track/2E3dGYCkGR30v8UjJANf04"
     },
     {
       "album": {

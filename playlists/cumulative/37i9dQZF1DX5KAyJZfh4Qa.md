@@ -4,7 +4,7 @@
 
 > it's just one of those days w/ <a href="https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa?si=9cd8ab93c60b4919"> Sweet Pill</a>.
 
-156 songs - 8 hr 43 min
+159 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,12 +31,15 @@
 | [Call From You](https://open.spotify.com/track/5yNbprUaJXG7SPppQeNEMR) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Little Green House](https://open.spotify.com/album/0YCfpM119gohGGBYBLECfj) | 3:01 | 2022-12-20 | 2023-09-30 |
 | [Callin Me](https://open.spotify.com/track/1u6DEiPt9CI214nVfF09Uu) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 2:52 | 2022-11-25 | 2022-12-02 |
 | [Callin Me](https://open.spotify.com/track/274U15M8V7uahnK8OfEWz4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 2:52 | 2022-11-25 |  |
+| [Can We Just Get High?](https://open.spotify.com/track/3H7W6oVFTRBqrsiQvSVYCy) | [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [Can We Just Get High?](https://open.spotify.com/album/3WuvVJiKeP4XMNouE25KWL) | 2:52 | 2023-11-17 |  |
 | [Chessie](https://open.spotify.com/track/0WIQLsu3mwen4hXLFEaAlh) | [twentythreenineteen](https://open.spotify.com/artist/3phLzwJCbHic9zg954ocXE) | [Chessie](https://open.spotify.com/album/2OxC56M17RF8VFlOm9vMJO) | 2:53 | 2023-09-22 |  |
 | [Circling the Drain](https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Circling the Drain](https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g) | 3:49 | 2022-11-25 | 2023-04-15 |
+| [Clean](https://open.spotify.com/track/28OHFYWmXQf4rjVXAVDkmM) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Clean](https://open.spotify.com/album/0RXJVNNoCXQ3YgL16NsRcL) | 2:55 | 2023-11-17 |  |
 | [clearview](https://open.spotify.com/track/1cbG0tcZYcUsyBXfTGRdyf) | [awakebutstillinbed](https://open.spotify.com/artist/0NvYpRJfbFyOI4QdsLJ1Jw) | [clearview](https://open.spotify.com/album/3L2YzcUsgL2ih8fUld03tz) | 3:58 | 2023-10-14 |  |
 | [closure](https://open.spotify.com/track/0PnpSFbRM8BoUFHXCKTQNX) | [Frat Mouse](https://open.spotify.com/artist/5KyiJcvybfUdX8Qm9OhMy8) | [closure](https://open.spotify.com/album/4wizf68w9Q5Uz7UFTUKqp3) | 2:34 | 2023-02-11 |  |
 | [Company Calls Epilogue](https://open.spotify.com/track/1Y8BZ7eR0mPp9oO1RLPrvE) | [Equipment](https://open.spotify.com/artist/1xxn3mhlUmOugl1ZhE0Mcx) | [Company Calls Epilogue](https://open.spotify.com/album/4u10umzNn7CKQFSlOSB6F5) | 4:32 | 2022-11-25 | 2023-02-12 |
 | [computer exploder](https://open.spotify.com/track/1H7FYm7jZgINmMAsWsLaQL) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [sore thumb](https://open.spotify.com/album/5Qcv0Vr8N5XOwfR7IyzOh8) | 3:18 | 2022-11-25 | 2023-08-09 |
+| [Concrete \(A Love Song\)](https://open.spotify.com/track/5jb2VoiVXYrwpo4FrioHlC) | [worlds greatest dad](https://open.spotify.com/artist/4CJ5eNfmJHQ5spEAvaxj8F) | [Concrete \(A Love Song\)](https://open.spotify.com/album/0kukvkeqmw3jQ0lx5rzkjP) | 3:39 | 2023-11-17 |  |
 | [Crawl II](https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Crawl II](https://open.spotify.com/album/3CTvjgbFrgEiv8dSm05M6k) | 3:15 | 2023-03-17 |  |
 | [Crawling](https://open.spotify.com/track/0P4A7IE22FzgcerZuf0fTs) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Raw Emotion](https://open.spotify.com/album/5giGovo1IyngRkyi58nxtY) | 2:44 | 2022-11-25 | 2022-12-18 |
 | [Crawling](https://open.spotify.com/track/3uXRPo8BHWB3ZJIfL4PrgB) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Soft Slam](https://open.spotify.com/album/6qexqy400QLAyDIu8Cf5Fe) | 2:44 | 2022-12-09 | 2022-12-19 |
@@ -56,12 +59,12 @@
 | [Emergency Contact](https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:00 | 2023-04-14 | 2023-09-23 |
 | [Emergency Contact](https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Emergency Contact](https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH) | 4:00 | 2022-11-25 | 2023-05-05 |
 | [Face To Face](https://open.spotify.com/track/1zhAN1I4op6mUw0FvUSCUJ) | [Troubled Minds](https://open.spotify.com/artist/2sdTNct8FjErtvxUMyD92E) | [Disconnect](https://open.spotify.com/album/3SNqO4GPBDnHckxX87zj0N) | 3:01 | 2022-11-25 | 2023-05-20 |
-| [Fading](https://open.spotify.com/track/4A47nHEgN6z3BXpOdwX0Bd) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Dog Bless](https://open.spotify.com/album/6Vt0JBlyS72DFXoU0RFAud) | 2:35 | 2023-07-26 |  |
+| [Fading](https://open.spotify.com/track/4A47nHEgN6z3BXpOdwX0Bd) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Dog Bless](https://open.spotify.com/album/6Vt0JBlyS72DFXoU0RFAud) | 2:35 | 2023-07-26 | 2023-11-18 |
 | [Ferrari](https://open.spotify.com/track/1MpPv7wnIzfqJMdnSAnV6a) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Ferrari](https://open.spotify.com/album/5NAncxqbc4XMu0AOpIHYcM) | 2:25 | 2023-04-14 |  |
 | [Fireplace](https://open.spotify.com/track/1mSJOi7nlvNPAKrveLxWPv) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Cheap Grills](https://open.spotify.com/album/3OicTD14V4nO5N1lLvcKRz) | 3:12 | 2023-09-22 |  |
 | [Glass](https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme) | [Forest Green](https://open.spotify.com/artist/63lRjOZ8TCzjHaxZr1ZToc) | [Glass](https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc) | 4:43 | 2023-02-11 |  |
 | [Greetings](https://open.spotify.com/track/16UutHGhIXTmBDEhBAVda4) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Greetings / Barely](https://open.spotify.com/album/6CP9XN6RxItTpvryygnpkd) | 2:14 | 2022-11-25 | 2023-04-30 |
-| [Greetings](https://open.spotify.com/track/7u5yayMCOSG6n4XsBoAsMc) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Greetings / Barely](https://open.spotify.com/album/2vbyKCjxxPaiGMDWGXe3IF) | 2:14 | 2023-04-14 |  |
+| [Greetings](https://open.spotify.com/track/7u5yayMCOSG6n4XsBoAsMc) | [Gulfer](https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ) | [Greetings / Barely](https://open.spotify.com/album/2vbyKCjxxPaiGMDWGXe3IF) | 2:14 | 2023-04-14 | 2023-11-18 |
 | [Hangover Game](https://open.spotify.com/track/0KgqfFDS6vvzZ50IozlD1Y) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Boat Songs](https://open.spotify.com/album/1G5OaCbp7Tb0YJlSInBeYu) | 2:16 | 2022-11-25 | 2023-04-30 |
 | [Hangover Game](https://open.spotify.com/track/5I2qACyvSTaasSNaWiT90G) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Boat Songs](https://open.spotify.com/album/22gbAfr4V10JH93bV7dKW0) | 2:16 | 2023-04-14 | 2023-05-20 |
 | [Haunted](https://open.spotify.com/track/2gIgCnJIJxk8hqjyRzKV3d) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [Haunted](https://open.spotify.com/album/28IfOPBv7xdi0qW72LOFVc) | 3:43 | 2023-05-19 | 2023-08-26 |
@@ -86,7 +89,7 @@
 | [Kerosene](https://open.spotify.com/track/7M68k5EAqfS2iPkGJjLoYl) | [Mayfield](https://open.spotify.com/artist/3FUshY39aDStFuHeyl92gj) | [Kerosene](https://open.spotify.com/album/7dN18W1xfDDgWvLydFSUyO) | 3:27 | 2022-11-25 | 2023-08-22 |
 | [King Bee](https://open.spotify.com/track/7zIHAwiZvJZIQQ3AKximtT) | [Prairie Fire](https://open.spotify.com/artist/5LiZglQ0vLYvvEqa7oCXfd) | [King Bee](https://open.spotify.com/album/2Jo9Gu7tQloGevEX8NhGmL) | 2:43 | 2023-05-19 |  |
 | [Kiss the Ladder](https://open.spotify.com/track/41QBT1Al5RQ9u9UIHOuXnj) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 1:17 | 2022-11-25 | 2023-09-23 |
-| [KO](https://open.spotify.com/track/468kQ0vnRFF9uS6XhCy4Ee) | [worlds greatest dad](https://open.spotify.com/artist/4CJ5eNfmJHQ5spEAvaxj8F) | [KO](https://open.spotify.com/album/5C2nV2SPIEmNxEC2PMTjGd) | 3:22 | 2023-09-22 |  |
+| [KO](https://open.spotify.com/track/468kQ0vnRFF9uS6XhCy4Ee) | [worlds greatest dad](https://open.spotify.com/artist/4CJ5eNfmJHQ5spEAvaxj8F) | [KO](https://open.spotify.com/album/5C2nV2SPIEmNxEC2PMTjGd) | 3:22 | 2023-09-22 | 2023-11-18 |
 | [Lefty](https://open.spotify.com/track/7sjrz7oVPOncAQib1yjMrd) | [Seahaven](https://open.spotify.com/artist/0jLpeMAu3aYRlvbjZd65np) | [Lefty](https://open.spotify.com/album/48kSmY1m45ylHWli72bgdQ) | 3:33 | 2023-06-16 | 2023-09-30 |
 | [Lifers](https://open.spotify.com/track/3Ooa1FETAj6ShTc2bHXd1M) | [Spanish Love Songs](https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV) | [No Joy](https://open.spotify.com/album/5bmC9YAnux6z8pkahL9SmP) | 3:34 | 2023-08-25 |  |
 | [live from the ufo](https://open.spotify.com/track/4LYWWt5bpBdTj0e29Wsctx) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [re: turn](https://open.spotify.com/album/1iA09V577wlsPIUfhj8RN0) | 2:30 | 2022-11-25 | 2023-09-23 |

@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Song Ga\-In\(송가인\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-820 songs - 1 day 22 hr 52 min
+821 songs - 1 day 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -621,7 +621,7 @@
 | [To your side](https://open.spotify.com/track/0ta3WpGiovwG1131y52khK) | [sungmo Jo](https://open.spotify.com/artist/5NzEQOONnoipbJ6kIDB775), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Bongsungah school PART11](https://open.spotify.com/album/5m6Y65eU3N3LmBJlzh0fzo) | 4:03 | 2022-04-07 |  |
 | [Today is young](https://open.spotify.com/track/1bn8KPcyQdJXPQG0XhBcdC) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART26](https://open.spotify.com/album/5O3IqGbIkx9JZAbfAXVPnW) | 3:20 | 2022-04-21 | 2022-07-29 |
 | [Together in the rain](https://open.spotify.com/track/1zSzl0XZ6ZTrOqETlxQ5AV) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Bongsungah school PART10](https://open.spotify.com/album/5yzyorzCF8cBIhgXJZqXHN) | 3:20 | 2022-04-22 | 2022-07-12 |
-| [Together in the rain](https://open.spotify.com/track/3LWrzcBkiKaXNZSUKoCTlb) | [Oh Seungeun](https://open.spotify.com/artist/7nCfLz9ZdOnTkH5PW4IWqy), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART20](https://open.spotify.com/album/1fMNZMCXM4NAQEZaaVWQNa) | 3:19 | 2023-09-28 |  |
+| [Together in the rain](https://open.spotify.com/track/3LWrzcBkiKaXNZSUKoCTlb) | [Oh Seungeun](https://open.spotify.com/artist/7nCfLz9ZdOnTkH5PW4IWqy), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART20](https://open.spotify.com/album/1fMNZMCXM4NAQEZaaVWQNa) | 3:19 | 2023-09-28 | 2023-11-18 |
 | [Traditional Market](https://open.spotify.com/track/7imk0My0UHl3DSG3XJ4rN4) | [KangNam, Tae Jin\-Ah](https://open.spotify.com/artist/5q65ClodpGOfxXtRxNnbf8) | [Traditional Market](https://open.spotify.com/album/58oRrFuBlJXlQCKkg8AEhS) | 3:24 | 2022-04-22 | 2022-07-19 |
 | [Tralalala](https://open.spotify.com/track/4p46qIOHJXGNpgNtL75Tvz) | [UV](https://open.spotify.com/artist/2oZuwz3cAbFhsEOoXJ2Mem), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART35](https://open.spotify.com/album/1jMXZXkQijYdiy2VXDwWYQ) | 6:18 | 2022-04-22 |  |
 | [Tree ring love](https://open.spotify.com/track/0Xjmh0iUPEq5jWJTLlROi0) | [김나희](https://open.spotify.com/artist/6PsdTnZrbimJm8FMc7i6nl) | [Tree ring love](https://open.spotify.com/album/31SKQ85jRGYIorOFsG0k4w) | 3:04 | 2023-09-08 | 2023-10-13 |
@@ -716,6 +716,7 @@
 | [You Were My Twenties](https://open.spotify.com/track/5X7LFM8f2xNwKL18QZBJfP) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center PART32](https://open.spotify.com/album/2ILRXQMJw8fGbuz7vhvShU) | 4:00 | 2022-05-03 | 2022-06-14 |
 | [You who are going back to memory](https://open.spotify.com/track/3Q6fKLUJO8j0DoCMSAYHzn) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Music source of Mr.Trot LEGEND MISSION BEST](https://open.spotify.com/album/0TCVzamNSSkb47YwavJqfO) | 3:36 | 2022-04-22 | 2022-07-14 |
 | [You're right](https://open.spotify.com/track/2l9YndjC22IeY3w5gJDxyQ) | [Oh Seungeun](https://open.spotify.com/artist/7nCfLz9ZdOnTkH5PW4IWqy) | [Love call center PART20](https://open.spotify.com/album/1fMNZMCXM4NAQEZaaVWQNa) | 3:21 | 2022-05-03 | 2022-06-05 |
+| [You're the Best](https://open.spotify.com/track/1vEKswGid6hglrYIIMa0h3) | [Kim So Yeon](https://open.spotify.com/artist/27ScewTLvhPP2F856R16ck) | [You're the Best](https://open.spotify.com/album/1tST9jLBCVx8Z0bwvwLAh2) | 3:27 | 2023-11-17 |  |
 | [You, my lover](https://open.spotify.com/track/2a0qm2eAdSyMiS5WSPSh5n) | [Kim yong Im](https://open.spotify.com/artist/5FNkDTSAhK4O0IHZ3uoar4), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART27](https://open.spotify.com/album/2DU9d9af7JUSwchkA6gBTs) | 3:07 | 2022-04-22 |  |
 | [You, the only one](https://open.spotify.com/track/2Km2z8akK2jfjVvmJF9Cis) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Bongsungah school PART7](https://open.spotify.com/album/03aZK99AztPHiwh4XMta3i) | 3:19 | 2022-04-07 | 2022-04-26 |
 | [Young](https://open.spotify.com/track/02AZfdWXmL4BgWAm2wUtmy) | [Jieun Yang](https://open.spotify.com/artist/3RfRPUmzPijYom1BhlhLp4) | [Let's be my daughter PART13](https://open.spotify.com/album/46wGaUyoK1JiRlFnBREd4h) | 2:43 | 2022-04-07 | 2022-06-01 |

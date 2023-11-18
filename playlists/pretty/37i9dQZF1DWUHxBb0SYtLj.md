@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Ascolta a tutto volume queste straordinarie artiste italiane! Cover: svegliaginevra
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,697 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,695 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gelatai](https://open.spotify.com/track/3Wx807nizmqn4rU0esPC33) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Gelatai](https://open.spotify.com/album/7ro4CirH2GXfXnAZVHZ6f1) | 2:56 |
-| 2 | [Che t'o dico a fa'](https://open.spotify.com/track/20qlAd6sHAYjc7TrrM5VeY) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Che t'o dico a fa'](https://open.spotify.com/album/7kILSxiEN9pJrFyr7Bs8OE) | 3:07 |
+| 2 | [Che t’o dico a fa’](https://open.spotify.com/track/7sBmJhD1J7qt33jgxH7Jf9) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Che t’o dico a fa’](https://open.spotify.com/album/06ngD2b3wsMNEKynEGt24o) | 3:07 |
 | 3 | [IO, ME ED ALTRI GUAI](https://open.spotify.com/track/6nOxxnYoJAgsQFhGxlk32L) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [IO, ME ED ALTRI GUAI](https://open.spotify.com/album/0EcYVyXLbn4z2KA8gBSmtS) | 2:57 |
 | 4 | [UN'ALTRA ORA](https://open.spotify.com/track/0bYcA8vuiQI4JJRsYwdMRk) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 2:55 |
 | 5 | [Cuore in Gola](https://open.spotify.com/track/6t4dhFqiP2W05yqPX4ebI4) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [Cuore in Gola](https://open.spotify.com/album/6YOAAMsWhRujHGP7rPdG4G) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 49 | [2 vite in 1 minuto](https://open.spotify.com/track/54vG6nk5bN1C6ohD22wbon) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [2 vite in 1 minuto](https://open.spotify.com/album/1XI2p80TbQBJpPl5a5FOyv) | 3:01 |
 | 50 | [My Best](https://open.spotify.com/track/6IJXxt8NCCjiBIIoNEWeCG) | [Kuni](https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG) | [My Best](https://open.spotify.com/album/5kzMtLRcuNtHU3Hwr09qoG) | 2:41 |
 
-Snapshot ID: `MCwzMGViY2YzNGY1MjExOGU2OWRlNzNlYzQ2MWNmMjcwNjczMzY3YWYz`
+Snapshot ID: `MCwwOThkOTExN2U4OGZhMGFkZjI2YjIwNWFhOWUzNzkxZDFhYWYwZGU2`

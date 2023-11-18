@@ -173,6 +173,42 @@
     },
     {
       "album": {
+        "name": "J.000.$",
+        "url": "https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w"
+      },
+      "artists": [
+        {
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165506,
+      "name": "Ailleurs",
+      "url": "https://open.spotify.com/track/7ujxY1bqVRvMe1sR5iFmxt"
+    },
+    {
+      "album": {
+        "name": "Akrapo 7",
+        "url": "https://open.spotify.com/album/5HNtYiR4vYnDFBv2jnGh6X"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189618,
+      "name": "Akrapo 7",
+      "url": "https://open.spotify.com/track/1C6E3aZ4S4fMN1HIgj73MQ"
+    },
+    {
+      "album": {
         "name": "Saison 00",
         "url": "https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf"
       },
@@ -228,6 +264,28 @@
       "duration_ms": 186439,
       "name": "Allo",
       "url": "https://open.spotify.com/track/3IWsDAFAwPNVnnTeQyUj7w"
+    },
+    {
+      "album": {
+        "name": "Allo",
+        "url": "https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD"
+      },
+      "artists": [
+        {
+          "name": "Moha K",
+          "url": "https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E"
+        },
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195375,
+      "name": "Allo",
+      "url": "https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ"
     },
     {
       "album": {
@@ -316,6 +374,24 @@
       "duration_ms": 227026,
       "name": "Amour plastique",
       "url": "https://open.spotify.com/track/3vTQ939Tlk6CXYtQgMOFUR"
+    },
+    {
+      "album": {
+        "name": "Fountain Baby",
+        "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142613,
+      "name": "Angels in Tibet",
+      "url": "https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u"
     },
     {
       "album": {
@@ -450,7 +526,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
@@ -628,6 +704,42 @@
       "duration_ms": 170435,
       "name": "Business (feat. Naza)",
       "url": "https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk"
+    },
+    {
+      "album": {
+        "name": "CDG",
+        "url": "https://open.spotify.com/album/4clpqQJzQv6rSt78i46kXD"
+      },
+      "artists": [
+        {
+          "name": "Benash",
+          "url": "https://open.spotify.com/artist/53loJtHWjCG1TyKarW2mzk"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190813,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/4OrzZjZHVfayEVfZPE1uhk"
+    },
+    {
+      "album": {
+        "name": "B\u00e9cane - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB"
+      },
+      "artists": [
+        {
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182440,
+      "name": "B\u00e9cane - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
     },
     {
       "album": {
@@ -830,7 +942,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 88000,
       "name": "Chou Daddy",
       "url": "https://open.spotify.com/track/6e4UhRfZqwC8xdbgDs1gb1"
@@ -1012,7 +1124,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 232333,
       "name": "Dana dana",
       "url": "https://open.spotify.com/track/6rCqxeSD0lvxyTHiO8nqI8"
@@ -1030,7 +1142,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 224093,
       "name": "Dans les yeux d'\u00c9milie",
       "url": "https://open.spotify.com/track/2kkuEKckbZRRZDbpFR5OuN"
@@ -1140,10 +1252,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 264263,
       "name": "Diamondz n Roses",
       "url": "https://open.spotify.com/track/3tUufRrj0xTrfzvuRa5QhU"
+    },
+    {
+      "album": {
+        "name": "Diamondz n Roses",
+        "url": "https://open.spotify.com/album/2ZqkqA3r1QaLaALOWbs60S"
+      },
+      "artists": [
+        {
+          "name": "VaporGod",
+          "url": "https://open.spotify.com/artist/2OXa1OHxPJrgxTMzcvysxm"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264263,
+      "name": "Diamondz n Roses",
+      "url": "https://open.spotify.com/track/7Aua757VSl2zj4YZ6HHMfH"
     },
     {
       "album": {
@@ -1216,7 +1346,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 182426,
       "name": "Donna",
       "url": "https://open.spotify.com/track/4mLzkKIOllZqAEU3JHc10y"
@@ -1238,7 +1368,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 222226,
       "name": "DRILL FR 5 (feat. Hamza)",
       "url": "https://open.spotify.com/track/44DmnZDl6ZZ0lPtgZansqV"
@@ -1482,10 +1612,32 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 117360,
       "name": "Gar\u00e7on princesse",
       "url": "https://open.spotify.com/track/3fDwyKeatBpkTL7Yhz0SYy"
+    },
+    {
+      "album": {
+        "name": "Gar\u00e7on princesse",
+        "url": "https://open.spotify.com/album/2YgMGtDlBzf7KD2x3Bn8QE"
+      },
+      "artists": [
+        {
+          "name": "HB VIZ",
+          "url": "https://open.spotify.com/artist/2YvqH9hhReN1V77RTUxU8I"
+        },
+        {
+          "name": "prodJk8",
+          "url": "https://open.spotify.com/artist/05DLS5SkKnecZtiMk1qoZm"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117360,
+      "name": "Gar\u00e7on princesse",
+      "url": "https://open.spotify.com/track/3j3pZBvHyEA0ZlKsmd28aE"
     },
     {
       "album": {
@@ -1834,7 +1986,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 229266,
       "name": "Kalash",
       "url": "https://open.spotify.com/track/1ACqqQiBkxSOoEYUW57Itl"
@@ -1946,7 +2098,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 168184,
       "name": "La cosa",
       "url": "https://open.spotify.com/track/5eIYYCyRdXK3V2OqJ1i1Kw"
@@ -2036,7 +2188,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 134853,
       "name": "Le Monde - From Talk to Me",
       "url": "https://open.spotify.com/track/424DkevE18QJazwlljiTD4"
@@ -2102,6 +2254,24 @@
       "duration_ms": 280493,
       "name": "Lettre du front (feat. Sefyu)",
       "url": "https://open.spotify.com/track/3vI3PFBqUXeZDznKU4GjYG"
+    },
+    {
+      "album": {
+        "name": "Lil Boo Thang",
+        "url": "https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114233,
+      "name": "Lil Boo Thang",
+      "url": "https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3"
     },
     {
       "album": {
@@ -2729,6 +2899,24 @@
     },
     {
       "album": {
+        "name": "La nuit bleue",
+        "url": "https://open.spotify.com/album/1Ss5JF0wGSdHbIP5KVIX0w"
+      },
+      "artists": [
+        {
+          "name": "Brice Conrad",
+          "url": "https://open.spotify.com/artist/242ASvDG4LKautD1K2QTwD"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200043,
+      "name": "Oh la",
+      "url": "https://open.spotify.com/track/36obIpPE10B8VGMMgRDTOP"
+    },
+    {
+      "album": {
         "name": "Night Swim",
         "url": "https://open.spotify.com/album/1excMWyBjh9UJqk2xYZ7o0"
       },
@@ -2784,6 +2972,24 @@
       "duration_ms": 214546,
       "name": "O\u00f9 \u00e7a ?",
       "url": "https://open.spotify.com/track/31LJIscAenFujxtsS5zBqz"
+    },
+    {
+      "album": {
+        "name": "Paqueta",
+        "url": "https://open.spotify.com/album/7pJ5pRbkQQFcZfE3M2uDBX"
+      },
+      "artists": [
+        {
+          "name": "Gambino",
+          "url": "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179146,
+      "name": "Paqueta",
+      "url": "https://open.spotify.com/track/1MVFkoITWetg97ZJCrJV1I"
     },
     {
       "album": {
@@ -3479,6 +3685,32 @@
     },
     {
       "album": {
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229938,
+      "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+      "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
+    },
+    {
+      "album": {
         "name": "Brol",
         "url": "https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC"
       },
@@ -3798,7 +4030,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 173617,
       "name": "WeWe",
       "url": "https://open.spotify.com/track/6vy5gmpM2yuLAhDRtGOtPw"

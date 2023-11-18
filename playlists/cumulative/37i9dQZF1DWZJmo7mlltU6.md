@@ -4,7 +4,7 @@
 
 > Beyond genre, beyond language, beyond borders\. Cover: Claire Rosinkranz.
 
-798 songs - 1 day 19 hr 48 min
+800 songs - 1 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,8 @@
 | [Hi\-Fidelity](https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Hi\-Fidelity](https://open.spotify.com/album/0ggU3YqRVqieE3EThAiNl7) | 3:19 | 2022-06-17 | 2022-10-08 |
 | [Highway](https://open.spotify.com/track/3QFxLZjHX9JTNtJCzcL8aj) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Highway](https://open.spotify.com/album/6PonXs74VPHGxwAMsGSh9I) | 2:26 | 2022-01-14 | 2022-02-05 |
 | [Hit and Miss](https://open.spotify.com/track/3V95NfurFzbKGNj2m8OWCq) | [Elianie](https://open.spotify.com/artist/5ZvEUeYlNSsQNMHSyNTsxF), [Calvin Bennett](https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R) | [Hit and Miss](https://open.spotify.com/album/1IZ7EG4KS029ycQkrZYnWK) | 2:36 | 2023-05-05 | 2023-07-15 |
-| [hold me, never let go](https://open.spotify.com/track/6QC5Dtp38M05T536UONe6J) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Her Favorite Flowers](https://open.spotify.com/album/5rFnAfQqhy7sFGSq15gN7g) | 3:13 | 2023-09-22 |  |
+| [hold me, never let go](https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Her Favorite Flowers](https://open.spotify.com/album/3ZtwVDikRanGqN17IGpWgh) | 3:13 | 2023-10-20 |  |
+| [hold me, never let go](https://open.spotify.com/track/6QC5Dtp38M05T536UONe6J) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Her Favorite Flowers](https://open.spotify.com/album/5rFnAfQqhy7sFGSq15gN7g) | 3:13 | 2023-09-22 | 2023-11-18 |
 | [Hold U](https://open.spotify.com/track/09gpC13mw1Pm5KqWIu9h0g) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Hold U](https://open.spotify.com/album/4PvSSF6O0I2pIByN3rHBwU) | 4:16 | 2022-01-14 | 2022-01-29 |
 | [Holding On \(to me\)](https://open.spotify.com/track/14yuV4Bo8csljf4SMRKRkg) | [Rocketman](https://open.spotify.com/artist/4PSlXQjt2u6ua1YxEsHfsQ) | [Holding On \(to me\)](https://open.spotify.com/album/1pIv4AY3aQ7eqK3wjVtphV) | 3:59 | 2022-07-22 | 2022-10-08 |
 | [Hole](https://open.spotify.com/track/6OOkbVOvc8umM48aIEA3aK) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Hole](https://open.spotify.com/album/4PXmj9895vqvTuuz6trOW8) | 2:54 | 2022-01-14 | 2022-04-02 |
@@ -355,7 +356,8 @@
 | [Know My Name](https://open.spotify.com/track/0QWR6uiZacqptTeDT9mJ90) | [溫室雜草](https://open.spotify.com/artist/6DZ6tvZTWTDO1vEBvUYfbP) | [Know My Name](https://open.spotify.com/album/014tkHvPWy9f3pyig03eYV) | 3:29 | 2022-01-14 | 2022-02-19 |
 | [Konami](https://open.spotify.com/track/4CJ4WBeEZZVFulKVS6zmqz) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Konami](https://open.spotify.com/album/5Jp2HWoJEBkYtNuZXFE1pB) | 2:48 | 2023-02-10 | 2023-03-18 |
 | [Koszulka](https://open.spotify.com/track/58GULPDRRkVUMm2AKaBEMm) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Koszulka](https://open.spotify.com/album/0GY7Jpt1L0C891A5WdgUPe) | 4:12 | 2022-07-22 | 2022-08-27 |
-| [l\-o\-v\-e](https://open.spotify.com/track/1ML8rcXL01drra8Aut0nMF) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [l\-o\-v\-e](https://open.spotify.com/album/3PHwiMN0H4vbsrqo4gxarQ) | 3:34 | 2023-01-13 |  |
+| [l\-o\-v\-e](https://open.spotify.com/track/1ML8rcXL01drra8Aut0nMF) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [l\-o\-v\-e](https://open.spotify.com/album/3PHwiMN0H4vbsrqo4gxarQ) | 3:34 | 2023-01-13 | 2023-11-18 |
+| [l\-o\-v\-e](https://open.spotify.com/track/6aka4wYLwW0wH2qjxleJWG) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [l\-o\-v\-e](https://open.spotify.com/album/4RVPzB9TKPYa4e3gtmfIlr) | 3:34 | 2023-10-20 |  |
 | [La Boda](https://open.spotify.com/track/4CxBy3zCERopNB0sqaY4p4) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [La Boda](https://open.spotify.com/album/1Csii0zzduzTYqvXS7Us3W) | 4:11 | 2023-09-01 | 2023-09-23 |
 | [La fin](https://open.spotify.com/track/2GgyYB3Hstk8KrX6AsGemA) | [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z) | [La rivière](https://open.spotify.com/album/72DZjGPRX4fd8rpHmvb3Vt) | 2:59 | 2022-02-25 | 2022-06-11 |
 | [La Final](https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [La Final](https://open.spotify.com/album/2sqCeR4NoJOJ6wN2mkiOP3) | 3:18 | 2022-03-28 | 2022-08-27 |

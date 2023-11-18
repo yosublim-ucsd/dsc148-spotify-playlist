@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Paul Blanco\(폴블랑코\)\)
 
-271 songs - 15 hr 12 min
+272 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Untitled](https://open.spotify.com/track/7qoNik0g1HwjxPlIXkXoAD) | [DOHU](https://open.spotify.com/artist/2R1wgdbaWY2KJG9xLWJ2Vh) | [Untitled](https://open.spotify.com/album/2sgztJsIjPUwd6qWA5qw3E) | 3:22 | 2022-11-14 | 2023-04-28 |
 | [Up Late](https://open.spotify.com/track/1UGQ0UbDJ69eTfUvrqMwNz) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Up Late](https://open.spotify.com/album/4WP3fm7ewSHgbQLHn84oaf) | 2:53 | 2023-08-17 |  |
 | [Upside Down](https://open.spotify.com/track/1qUHvpyJHIf6c34nmGFZCD) | [DAHEE](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [Upside Down](https://open.spotify.com/album/58c2r9nwDcKaBIFILWchdA) | 2:34 | 2023-11-02 |  |
+| [UUU](https://open.spotify.com/track/5c4c8g4QFDaNv3NHogfokl) | [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd) | [The Drive](https://open.spotify.com/album/40yZ2AKA4dGdLavr5x7H8S) | 3:17 | 2023-11-17 |  |
 | [Waltz](https://open.spotify.com/track/6QgCE1SNW6XUhNBLKg2jax) | [ChoiS](https://open.spotify.com/artist/3e8qNsrEMf6hFCa9XygPyC) | [Waltz](https://open.spotify.com/album/7pcQW4zF50WuC5ecrRGDPG) | 3:18 | 2023-03-27 | 2023-09-19 |
 | [wandering \(feat\. george\)](https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2) | [basecamp](https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [wandering \(feat\. george\)](https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP) | 3:24 | 2022-05-28 | 2022-08-19 |
 | [Wash me](https://open.spotify.com/track/11xruTNYBtkgJVuc7ebgvW) | [Boni](https://open.spotify.com/artist/0TeEkMKteI2ncRUrNLSOau) | [Wash me](https://open.spotify.com/album/1eqIFpJ2RxKJilG8j5CNQf) | 3:44 | 2022-07-27 | 2022-12-14 |

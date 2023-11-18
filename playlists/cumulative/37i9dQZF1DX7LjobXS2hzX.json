@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "Voici les hits du moment. Photo: Teddy Swims",
+  "description": "Voici les hits du moment. Photo: Charlotte Cardin",
   "name": "La Hit Liste",
   "tracks": [
     {
@@ -4796,7 +4796,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 235455,
       "name": "Puppy",
       "url": "https://open.spotify.com/track/01sURX8cx2KhgUgNFKKLAg"
@@ -5996,6 +5996,24 @@
       "duration_ms": 165557,
       "name": "Un jour je marierai un ange",
       "url": "https://open.spotify.com/track/5EWPzyWm0b9McPS5Qyaijp"
+    },
+    {
+      "album": {
+        "name": "Une semaine \u00e0 Paris",
+        "url": "https://open.spotify.com/album/0bCd5P38zFjnlTYD6j569u"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154535,
+      "name": "Un peu trop",
+      "url": "https://open.spotify.com/track/3jiS0ETithGTKn2uGT6dbF"
     },
     {
       "album": {

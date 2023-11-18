@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Rapping into your hearts from the alleys of Mumbai. Cover- Nazz",
+  "description": "Rapping into your hearts from the alleys of Mumbai. Cover- Emiway Bantai & Yo Yo Honey Singh",
   "name": "Bambai Bantai",
   "tracks": [
     {
@@ -864,6 +864,28 @@
       "duration_ms": 166304,
       "name": "Ghost Rider",
       "url": "https://open.spotify.com/track/1uu8WLy7yw6kG6SwwpluuJ"
+    },
+    {
+      "album": {
+        "name": "Good Boy",
+        "url": "https://open.spotify.com/album/7CVCPyl3tb2xShy7YGzmrK"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        },
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161020,
+      "name": "Good Boy",
+      "url": "https://open.spotify.com/track/1CN0mBmNtNqV70GqWzVruC"
     },
     {
       "album": {

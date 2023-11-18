@@ -4,7 +4,7 @@
 
 > Cozy Christmas vibes\. Cover: Norah Jones
 
-125 songs - 6 hr 58 min
+127 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 | 2021-12-23 | 2022-11-12 |
 | [I Believe in Father Christmas](https://open.spotify.com/track/096SOCaNvutZ2JZoyS2zEu) | [Greg Lake](https://open.spotify.com/artist/6Uw88LgaxdanDItfR0JyJ8) | [I Believe in Father Christmas](https://open.spotify.com/album/0KgHRky9j8HbAUcKqBQ9bC) | 3:32 | 2022-12-05 |  |
 | [I Believe in Father Christmas \- 2017 \- Remaster](https://open.spotify.com/track/3S912b5gdxMeZyGeNEgS0H) | [Greg Lake](https://open.spotify.com/artist/6Uw88LgaxdanDItfR0JyJ8) | [The Anthology: A Musical Journey](https://open.spotify.com/album/43VmZUbMrvwyENjNIDtsnr) | 3:33 | 2022-12-05 | 2023-11-03 |
-| [I Dream Of Christmas](https://open.spotify.com/track/0OYglQniaQNazYF0fJblbV) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Extended\)](https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj) | 3:22 | 2021-12-23 |  |
+| [I Dream Of Christmas](https://open.spotify.com/track/0OYglQniaQNazYF0fJblbV) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Extended\)](https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj) | 3:22 | 2021-12-23 | 2023-11-18 |
+| [I Dream Of Christmas](https://open.spotify.com/track/1w9L9fIwzau66Old8bYW5F) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 3:23 | 2022-12-05 |  |
 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/1ipD9uq7lzGAwGjfjXzdoa) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Mr\. Christmas](https://open.spotify.com/album/5ZsuWI1KwuIIjlhjEjpVri) | 2:51 | 2021-12-23 |  |
 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/1qSBHo7rjtqYdd0XJB8ngq) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 2:34 | 2022-11-12 |  |
 | [I Need You Christmas](https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Need You Christmas](https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR) | 3:26 | 2022-11-12 |  |
@@ -68,7 +69,8 @@
 | [In the Bleak Midwinter](https://open.spotify.com/track/65l1Ue8MpwtvQOmIaoWG8b) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Merry Christmas, Love](https://open.spotify.com/album/4VtCw9qGrC4NnbqcRGDzYc) | 4:21 | 2022-11-12 |  |
 | [It Came Upon The Midnight Clear](https://open.spotify.com/track/4zjQjevGJIUCjAJB2qbThT) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Evergreen](https://open.spotify.com/album/7HgVH7ChzqayHdf1eAi9c1) | 3:09 | 2021-12-23 |  |
 | [It's Almost Christmas](https://open.spotify.com/track/4KZcqAcWleiOuz5y6cOdNE) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [It's Almost Christmas](https://open.spotify.com/album/2wxHZ6ht0voWVM2kb8nCiY) | 3:51 | 2022-11-12 |  |
-| [It's Only Christmas Once A Year](https://open.spotify.com/track/5kDCucAnvfAmpW1QD6UpNo) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas](https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO) | 2:04 | 2021-12-23 |  |
+| [It's Only Christmas Once A Year](https://open.spotify.com/track/5mGkaXIy3B6Xh8D2nMQrhR) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 2:04 | 2022-12-05 |  |
+| [It's Only Christmas Once A Year](https://open.spotify.com/track/5kDCucAnvfAmpW1QD6UpNo) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas](https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO) | 2:04 | 2021-12-23 | 2023-11-18 |
 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/2AYgvrtpFIbF6Fkb02WVZ6) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Merry Christmas, Y’all](https://open.spotify.com/album/23PILNfWCzNg9M4tSpBoaA) | 2:56 | 2022-11-12 |  |
 | [It's the Most Wonderful Time of the Year \- Spotify Singles Holiday](https://open.spotify.com/track/7878uDHPFOucHPBEZNqvdO) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [It's the Most Wonderful Time of the Year \(Spotify Singles Holiday\)](https://open.spotify.com/album/4BuhsOIhCtbXzuDzJeyH1e) | 3:25 | 2021-12-23 | 2022-11-12 |
 | [I’ll Be Home For Christmas \(feat\. Ella Jane\)](https://open.spotify.com/track/6i8DfgC9GbM4uj414QBlve) | [Cece Coakley](https://open.spotify.com/artist/41cBCgJoK9bpY0Qy2SWIRN), [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [I’ll Be Home For Christmas \(feat\. Ella Jane\)](https://open.spotify.com/album/12d69q94iPjV8fJTZqvvEd) | 3:14 | 2022-11-12 |  |

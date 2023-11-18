@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-01",
-  "description": "\u00c9xitos rom\u00e1nticos, de hoy y de siempre. Foto: Laura Pausini",
+  "description": "\u00c9xitos rom\u00e1nticos, de hoy y de siempre. Foto: Chayanne",
   "name": "Hits Rom\u00e1nticos",
   "tracks": [
     {
@@ -552,6 +552,28 @@
       "duration_ms": 262680,
       "name": "Amiga M\u00eda",
       "url": "https://open.spotify.com/track/4cIJMoLbUOG1YEppzrfwUz"
+    },
+    {
+      "album": {
+        "name": "La cuarta hoja",
+        "url": "https://open.spotify.com/album/2Iqhzdnwa1SlsTtqfQXWfn"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233755,
+      "name": "Amigos (con Maria Becerra)",
+      "url": "https://open.spotify.com/track/20NeR3CwuyGfRktTncKRU7"
     },
     {
       "album": {
@@ -1742,7 +1764,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 230346,
       "name": "Disparo al Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5828oiHxe6DSSAuIrPSeVT"
@@ -1796,7 +1818,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 297640,
       "name": "Due\u00f1o De Nada",
       "url": "https://open.spotify.com/track/7pGDUA6P7j1uaD9sr1Dgx1"
@@ -2024,6 +2046,28 @@
       "duration_ms": 228493,
       "name": "El Cielo a Mi Favor",
       "url": "https://open.spotify.com/track/0BJwrbkZKf7KwlwBOJbD8i"
+    },
+    {
+      "album": {
+        "name": "El Correcto",
+        "url": "https://open.spotify.com/album/1mM3IeOAt840NlJXVNWUWH"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168124,
+      "name": "El Correcto",
+      "url": "https://open.spotify.com/track/4tYgQrGwhpvjfq4ryajgUo"
     },
     {
       "album": {
@@ -2812,7 +2856,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 335773,
       "name": "Fuego de Noche, Nieve de D\u00eda",
       "url": "https://open.spotify.com/track/1f6XyjXx6wUb7zdk9JWzl9"
@@ -4008,7 +4052,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 192973,
       "name": "Me Duele Amarte",
       "url": "https://open.spotify.com/track/2VLcpwzuZVSZQUCQDQRM8n"
@@ -4434,6 +4478,28 @@
       "duration_ms": 205160,
       "name": "Mientes",
       "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
+    },
+    {
+      "album": {
+        "name": "Mis Impulsos Sobre Ti",
+        "url": "https://open.spotify.com/album/07R6N3nhqDnZpFMUCvaqxu"
+      },
+      "artists": [
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242100,
+      "name": "Mis Impulsos Sobre Ti",
+      "url": "https://open.spotify.com/track/1k6Q5x5CkuGOm4TSRHICDP"
     },
     {
       "album": {
@@ -5642,7 +5708,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 307106,
       "name": "Prometo",
       "url": "https://open.spotify.com/track/4Wc0FFBjYDVNJ3Zx3fck6s"
@@ -7436,7 +7502,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 191586,
       "name": "Toneladas",
       "url": "https://open.spotify.com/track/5VD3oQilL00HfIEW6ICSQq"
@@ -7758,7 +7824,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 224066,
       "name": "Underneath Your Clothes",
       "url": "https://open.spotify.com/track/15f8Cv8RXUlOOCIf2oaceN"
@@ -7978,10 +8044,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 320392,
       "name": "Voy a Perder La Cabeza Por Tu Amor",
       "url": "https://open.spotify.com/track/6vB7FXOL9ncjF4be2bdRiY"
+    },
+    {
+      "album": {
+        "name": "La Historia del Puma",
+        "url": "https://open.spotify.com/album/0a7n1tbZkr87slBdcFPFkY"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228586,
+      "name": "Voy a Perder la Cabeza por Tu Amor (Edited Version)",
+      "url": "https://open.spotify.com/track/72Waik38CMN90HrbZdvKC6"
     },
     {
       "album": {

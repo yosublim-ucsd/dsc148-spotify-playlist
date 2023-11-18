@@ -150,7 +150,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 229346,
       "name": "Before the Petals Fall",
       "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
@@ -251,6 +251,28 @@
     },
     {
       "album": {
+        "name": "COVID-19",
+        "url": "https://open.spotify.com/album/1RKCttAVNGpm1pTar0drh5"
+      },
+      "artists": [
+        {
+          "name": "BUMKEY",
+          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
+        },
+        {
+          "name": "SUPERBEE",
+          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196793,
+      "name": "COVID-19 (feat. SUPERBEE)",
+      "url": "https://open.spotify.com/track/32qLwcEpoKeutWxwrJM4FX"
+    },
+    {
+      "album": {
         "name": "Crush on you",
         "url": "https://open.spotify.com/album/15XmBCE8jEWzbqzD0Z1vuw"
       },
@@ -298,7 +320,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 177666,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/6LyZwzZAu3DP7RSMJcsy6D"
@@ -898,6 +920,24 @@
       "duration_ms": 258146,
       "name": "Let's Stay Well (My love X Roy Kim)",
       "url": "https://open.spotify.com/track/3BlFzuu8yqE4bMrHKTViee"
+    },
+    {
+      "album": {
+        "name": "Like Yesterday",
+        "url": "https://open.spotify.com/album/4AiaH90xPWh74ufcITVlnl"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Like Yesterday",
+      "url": "https://open.spotify.com/track/2BgxxQRs0sxzLGzDQ3NQ33"
     },
     {
       "album": {

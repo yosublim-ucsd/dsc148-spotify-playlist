@@ -773,6 +773,24 @@
     },
     {
       "album": {
+        "name": "Am I Enough",
+        "url": "https://open.spotify.com/album/07IrU6rEh8La5R8GSJwoQ8"
+      },
+      "artists": [
+        {
+          "name": "Loi",
+          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167920,
+      "name": "Am I Enough",
+      "url": "https://open.spotify.com/track/3Rk34rntbN3CdrBodGA9CY"
+    },
+    {
+      "album": {
         "name": "Autumn Variations",
         "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
       },
@@ -860,6 +878,24 @@
       "duration_ms": 165067,
       "name": "Another Man's Jeans",
       "url": "https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv"
+    },
+    {
+      "album": {
+        "name": "Answer Phone",
+        "url": "https://open.spotify.com/album/64J78r5rx9qs9ZJZ4xSkBt"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160019,
+      "name": "Answer Phone",
+      "url": "https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe"
     },
     {
       "album": {
@@ -1892,7 +1928,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 221510,
       "name": "Black Friday",
       "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
@@ -2900,7 +2936,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 128626,
       "name": "Cold",
       "url": "https://open.spotify.com/track/1puAdUyTT8jhtguWD0Rkpr"
@@ -3788,7 +3824,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 199161,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/172M4kIkFD7k0B3Q8DH35U"
@@ -4855,6 +4891,24 @@
     },
     {
       "album": {
+        "name": "Everything is Fine",
+        "url": "https://open.spotify.com/album/5aJzcpDenTBL3HloJ84ckJ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Gene Penner",
+          "url": "https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246111,
+      "name": "Everything is Fine",
+      "url": "https://open.spotify.com/track/0FXrF08gtaPJA85kzaplzq"
+    },
+    {
+      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0"
       },
@@ -5036,7 +5090,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 175247,
       "name": "favorite kind of high",
       "url": "https://open.spotify.com/track/63ZSZznbGQhzJhOHPZ6WkT"
@@ -6231,6 +6285,24 @@
     },
     {
       "album": {
+        "name": "Harder To Love",
+        "url": "https://open.spotify.com/album/5mqDXhMQaCgyQ2zRFOTAr1"
+      },
+      "artists": [
+        {
+          "name": "Liam Barrack",
+          "url": "https://open.spotify.com/artist/6J3nuRRUXPFTFGcWcOJvtG"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205259,
+      "name": "Harder To Love",
+      "url": "https://open.spotify.com/track/4aVezSe1eAxdn8QAMN44jS"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0C1QF5MYNtmIJno4gzufLi"
       },
@@ -6318,6 +6390,24 @@
       "duration_ms": 183804,
       "name": "Hawa\u00ef",
       "url": "https://open.spotify.com/track/384bcP4iK4dp3t6DgYMZ5w"
+    },
+    {
+      "album": {
+        "name": "he never will",
+        "url": "https://open.spotify.com/album/3LRXevJN62aaXJZuxPPVJI"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171133,
+      "name": "he never will",
+      "url": "https://open.spotify.com/track/3gt3BD4A92u4nv6oS5Jkmq"
     },
     {
       "album": {
@@ -6888,7 +6978,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 141876,
       "name": "HOSTAGE",
       "url": "https://open.spotify.com/track/1p1EeOGryPK0AQRraHw6fW"
@@ -7841,6 +7931,24 @@
     },
     {
       "album": {
+        "name": "If Anybody Cares At All",
+        "url": "https://open.spotify.com/album/16V0IPiQhbzoZNnkdSkOPM"
+      },
+      "artists": [
+        {
+          "name": "Jake Hope",
+          "url": "https://open.spotify.com/artist/44PkBtAQLIQ45IDNop6d78"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177579,
+      "name": "If Anybody Cares At All",
+      "url": "https://open.spotify.com/track/2rjyhx1TEZEAoGYkJjkdSI"
+    },
+    {
+      "album": {
         "name": "If Anything's Left",
         "url": "https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY"
       },
@@ -8174,6 +8282,24 @@
       "duration_ms": 143669,
       "name": "Is It Love",
       "url": "https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7"
+    },
+    {
+      "album": {
+        "name": "Isn't It Obvious",
+        "url": "https://open.spotify.com/album/20qybCQYkW2B6pONKi8u0v"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158130,
+      "name": "Isn't It Obvious",
+      "url": "https://open.spotify.com/track/5QDtGxC2khjwLEq1bXhdEj"
     },
     {
       "album": {
@@ -8806,7 +8932,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 147931,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/5OZKS9KNi1srgZ3GNowMnX"
@@ -9418,6 +9544,24 @@
     {
       "album": {
         "name": "Love Lines",
+        "url": "https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263297,
+      "name": "Long Goodbye",
+      "url": "https://open.spotify.com/track/2UwkYWLgKM9IWlAwDZGR4K"
+    },
+    {
+      "album": {
+        "name": "Love Lines",
         "url": "https://open.spotify.com/album/1FY6Ov9aGkNEhXa7GbeRwM"
       },
       "artists": [
@@ -9428,7 +9572,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 263297,
       "name": "Long Goodbye",
       "url": "https://open.spotify.com/track/5HFouuI6G4RNFoQFnr0cOU"
@@ -9893,6 +10037,24 @@
     },
     {
       "album": {
+        "name": "Loved",
+        "url": "https://open.spotify.com/album/18tIPlqKkCdABDtKridZP5"
+      },
+      "artists": [
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194772,
+      "name": "Loved",
+      "url": "https://open.spotify.com/track/5TrIYP0VcwpwSs2Qk9G8Rn"
+    },
+    {
+      "album": {
         "name": "Stellaria",
         "url": "https://open.spotify.com/album/5UHVVt48bKChmsZNguXZIu"
       },
@@ -10244,6 +10406,42 @@
       "duration_ms": 188373,
       "name": "Maybe Next Time",
       "url": "https://open.spotify.com/track/3NZDpFKjCApF6WkI5g6iFg"
+    },
+    {
+      "album": {
+        "name": "ME MYSELF AND YOU",
+        "url": "https://open.spotify.com/album/26bq2zFIGStfUYHqzuQXFx"
+      },
+      "artists": [
+        {
+          "name": "Braden Bales",
+          "url": "https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134512,
+      "name": "ME MYSELF AND YOU",
+      "url": "https://open.spotify.com/track/0DHBocC3mQFnoiqWWD92TB"
+    },
+    {
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/39D1A6YzvcAGdELvfnh9YG"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Gaskin",
+          "url": "https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162346,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/28xPS2Els3jTO6pdgp2znH"
     },
     {
       "album": {
@@ -11714,6 +11912,24 @@
     {
       "album": {
         "name": "The Things I Left Unsaid",
+        "url": "https://open.spotify.com/album/0x68nTDfyciGgU7UXNmm44"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205786,
+      "name": "Only Place",
+      "url": "https://open.spotify.com/track/3gM1niIIDvVwfbm4fsvFjS"
+    },
+    {
+      "album": {
+        "name": "The Things I Left Unsaid",
         "url": "https://open.spotify.com/album/2MbohPX2P1ms4RjAo9X0iW"
       },
       "artists": [
@@ -11724,7 +11940,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 205786,
       "name": "Only Place",
       "url": "https://open.spotify.com/track/5GFsYPZY1eebEMuO3gfVkG"
@@ -12012,7 +12228,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 226000,
       "name": "Parallel",
       "url": "https://open.spotify.com/track/6gOVpgsAf80mReuix9Inxt"
@@ -14084,7 +14300,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 181818,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/7BF4v7S6SJqjC7Dm0Zr0aw"
@@ -14402,7 +14618,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 178746,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/7xxmW8ieHp9YnACGc0PfNz"
@@ -15340,7 +15556,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 219648,
       "name": "Time After Time - Spotify Singles",
       "url": "https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W"
@@ -15575,6 +15791,24 @@
     },
     {
       "album": {
+        "name": "Two Hearts",
+        "url": "https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246796,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m"
+    },
+    {
+      "album": {
         "name": "UNHEALTHY (feat. Shania Twain)",
         "url": "https://open.spotify.com/album/6QEbEpz7fWR5N3HoIiSHFo"
       },
@@ -15590,7 +15824,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 149653,
       "name": "UNHEALTHY (feat. Shania Twain)",
       "url": "https://open.spotify.com/track/2doTn2LWTKN1Z0lZJG2WQw"
@@ -15774,7 +16008,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 217727,
       "name": "Waiting for this Love to Die",
       "url": "https://open.spotify.com/track/34E2VmDjfqvmNayzDnBUBp"
@@ -16012,7 +16246,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 211346,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/7DpgZ3lHeulnpPPoSSLkqt"
@@ -17098,7 +17332,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 180640,
       "name": "You & I",
       "url": "https://open.spotify.com/track/1CxL4oRSsY0wOQ5DYE8329"

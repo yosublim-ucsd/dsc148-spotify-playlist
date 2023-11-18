@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "4321",
+        "url": "https://open.spotify.com/album/5cqnDDzRKXFsjpax8cY2yo"
+      },
+      "artists": [
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232957,
+      "name": "4321",
+      "url": "https://open.spotify.com/track/22ZjKxmxtMXoAnJSN9gpq5"
+    },
+    {
+      "album": {
         "name": "6AM",
         "url": "https://open.spotify.com/album/0rRFHYaPCKGwQ7pWB3H2JG"
       },
@@ -942,6 +960,24 @@
       "duration_ms": 223182,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/4FSIfpGQEdJsLXIbufqvOo"
+    },
+    {
+      "album": {
+        "name": "Baby Blue",
+        "url": "https://open.spotify.com/album/4SZISLudRb6XD44SO2NBtZ"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124451,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/5ZDdx332AQj2n6TOW0LlZU"
     },
     {
       "album": {
@@ -4061,6 +4097,24 @@
     },
     {
       "album": {
+        "name": "forever",
+        "url": "https://open.spotify.com/album/3Tp9D49OesqcRIgAArAlye"
+      },
+      "artists": [
+        {
+          "name": "ellis",
+          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240067,
+      "name": "forever",
+      "url": "https://open.spotify.com/track/4qkgz8ubKhUeqQohjjM2ey"
+    },
+    {
+      "album": {
         "name": "Forever & Again (From Barbie The Album)",
         "url": "https://open.spotify.com/album/0PHUzNM9vbkW3EMUiKOxo7"
       },
@@ -5992,6 +6046,24 @@
       "duration_ms": 145444,
       "name": "i hate her boyfriend's face",
       "url": "https://open.spotify.com/track/5sixigDZ86eDzCHXbfzrDu"
+    },
+    {
+      "album": {
+        "name": "I Hope It All Works Out",
+        "url": "https://open.spotify.com/album/4Y7hxshp2MXAMXW5BwqZ6s"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167083,
+      "name": "I Hope It All Works Out",
+      "url": "https://open.spotify.com/track/2u2claSA1aCUMrVRsBD4Ik"
     },
     {
       "album": {
@@ -12285,6 +12357,24 @@
     },
     {
       "album": {
+        "name": "Sweet Moment",
+        "url": "https://open.spotify.com/album/2nFkX9nkVdBdXvTSt1zXqL"
+      },
+      "artists": [
+        {
+          "name": "Mackenzy Mackay",
+          "url": "https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127204,
+      "name": "Sweet Moment",
+      "url": "https://open.spotify.com/track/3C29msNvApwxpOxhuqD2rX"
+    },
+    {
+      "album": {
         "name": "Cowboy Tears",
         "url": "https://open.spotify.com/album/1ETtnOFdO0JSOy0SRLAmTC"
       },
@@ -14548,6 +14638,24 @@
       "duration_ms": 174196,
       "name": "Yard Sale",
       "url": "https://open.spotify.com/track/7aphaNjz17A97xNyD00LBn"
+    },
+    {
+      "album": {
+        "name": "Yes I'm A Mess",
+        "url": "https://open.spotify.com/album/0mbu9tcivddH45l4FuazT4"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164973,
+      "name": "Yes I'm A Mess",
+      "url": "https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT"
     },
     {
       "album": {

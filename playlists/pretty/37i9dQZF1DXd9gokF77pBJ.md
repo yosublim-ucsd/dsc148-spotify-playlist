@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO's </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,494 likes - 64 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,535 likes - 64 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 56 | [It's My Life](https://open.spotify.com/track/2fOxxLz9JVe53itq6pfBak) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Singles Collection](https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2) | 3:45 |
 | 57 | [What You Done](https://open.spotify.com/track/5IouffaYEX67BICjTSCckE) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [What You Done](https://open.spotify.com/album/1Ov1O2B3CeuAmHhFG5f0yL) | 2:54 |
 | 58 | [Addicted/Love Hurts](https://open.spotify.com/track/74KQE5c5BlYiOTL1AbPkTd) | [Kahm](https://open.spotify.com/artist/065yX5XFWKTDKszc6wQ7xM), [Cassius Clifford](https://open.spotify.com/artist/5OR79hXbdNdI6kIhMKXqga) | [Addicted/Love Hurts](https://open.spotify.com/album/1v2oa4SfHQ6Bs3lASv8PTR) | 2:32 |
-| 59 | [Padam Padam \- HAAi Remix](https://open.spotify.com/track/1ZWoNoCNSZjxpEj7pYHkAo) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Padam Padam \(HAAi Remix\)](https://open.spotify.com/album/7FMt7Ip2v9QKjNchUx1zFI) | 6:32 |
+| 59 | [Padam Padam \(HAAi Remix\)](https://open.spotify.com/track/0hnYC81Psn8poERBlfkIFv) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Padam Padam \(HAAi Remix\)](https://open.spotify.com/album/1R0FX77T9YmpsHgKsMg2wA) | 6:32 |
 | 60 | [Magic K](https://open.spotify.com/track/3mRHm4kn7NMe1N3ZWQkwqw) | [Master H](https://open.spotify.com/artist/3PgHsTUSjZkBi2OEhXD2dw) | [Mayflower](https://open.spotify.com/album/3s351ceYJ2bhMjXHal3Nou) | 7:09 |
 | 61 | [Bottom Heavy](https://open.spotify.com/track/4IZbdCvDLuiK1sPF0YPNr5) | [Danny Tenaglia](https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm) | [Hard & Soul](https://open.spotify.com/album/4Ra2EDqqbyxeTJgnVVYkZk) | 5:56 |
 | 62 | [Menta Y Menta](https://open.spotify.com/track/4Lb5mlLEmSQH8NYKJwKHt3) | [Yu Su](https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0) | [I Want an Earth](https://open.spotify.com/album/3jp1Cv6bTFyGN1jQWC2uSN) | 4:09 |
 | 63 | [At Dawn](https://open.spotify.com/track/3Wpp6NmbrhNkGCFHEKrozI) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [At Dawn](https://open.spotify.com/album/3FBW0RcapjzuAsSctHBI1S) | 5:15 |
 | 64 | [Dream in Colour](https://open.spotify.com/track/1U4ISP7PHD5htMyAbZf0wT) | [Gee Dee](https://open.spotify.com/artist/6zhznXCXUsNdkOSr3QfBSz) | [Dream in Colour EP](https://open.spotify.com/album/0PFITwpnr4yarSMkITb11Y) | 6:24 |
 
-Snapshot ID: `MCw5NzU4YjVkODc1MTNkZWVkMzgwNDFmYTEyNWI0NDIwZDU5NjhhYjc2`
+Snapshot ID: `MCw5NTgwZmI0NGI2ZmM3YmQzMjIwNDY5NjkyYjk2OWU4ODM2Y2QxZWYw`

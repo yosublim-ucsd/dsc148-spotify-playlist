@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 
 > Sounds that inspired the designers of <a href="https://lagosfashionweek.ng/">Lagos Fashion Week 2023.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,973 likes - 47 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,981 likes - 47 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 | 30 | [Sowa](https://open.spotify.com/track/1AScQHvOOjfz5U1JOc9wrx) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fatou](https://open.spotify.com/album/0AkYV0mq8RuPYk07G8221P) | 3:06 |
 | 31 | [Cruisin'](https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Cruisin'](https://open.spotify.com/album/6MBKxiS8fFEw9V6nRoIeRm) | 3:27 |
 | 32 | [Ouchies](https://open.spotify.com/track/18EGw1StZNDftpUcX8PM74) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 2:02 |
-| 33 | [Tension](https://open.spotify.com/track/1HteYUSXKUMm6A8vdZid7p) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension](https://open.spotify.com/album/2AormSzZz3LkqREG7mubJA) | 3:36 |
+| 33 | [Tension](https://open.spotify.com/track/6435Ra0NWQzPyZAcd1ojWI) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:36 |
 | 34 | [Deep End](https://open.spotify.com/track/6w2WWyBAOXQeP6waVT9s5O) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Deep End](https://open.spotify.com/album/5lxES27OgTtXmCDhsBrvKP) | 3:22 |
 | 35 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 |
 | 36 | [Ending \- 2018 Version](https://open.spotify.com/track/2bdcjvz9xilANvSfkCDtlv) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Yours](https://open.spotify.com/album/6XUpmmF38NqTp1Nf6QcUfq) | 4:11 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 | 46 | [WATU](https://open.spotify.com/track/6sL8aTVG9XSHU4r9nL9yq6) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [WATU](https://open.spotify.com/album/4as7NXKH74TSNB1YrVRtXf) | 2:54 |
 | 47 | [Dance Now \(feat\. Kenny Mason\)](https://open.spotify.com/track/2WrldKXSBVbNNm3A9vJryi) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:47 |
 
-Snapshot ID: `MCwxNjU0NzJkYzg4YjEzZDljZTkxODViMzhhOTE2MGE3ZDFkMjlhZDk4`
+Snapshot ID: `MCxlOTdjY2I1ZWEyOGFhMjczYzJhZmQxM2Q1MDYwNzA0ZDM0ZmE1YzNj`

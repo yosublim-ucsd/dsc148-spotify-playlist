@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: KNEECAP
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,869 likes - 85 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,950 likes - 85 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 22 | [Death By Entertainment](https://open.spotify.com/track/7cIzu3i160H3v9hnIi5iNA) | [Sam Akpro](https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2) | [Death By Entertainment](https://open.spotify.com/album/4nEMpYUUZi4GSp2gIajr0J) | 3:28 |
 | 23 | [The Mad Stone](https://open.spotify.com/track/11XzBaJr6r8pksRGEix6x6) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [The Mad Stone](https://open.spotify.com/album/2v4O0wtWNwhoaUQbhRfnE4) | 3:45 |
 | 24 | [Boy Problems](https://open.spotify.com/track/3HflSAiRSzyDrAuMsewh3i) | [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Boy Problems](https://open.spotify.com/album/0wKiBnh7sl2OYVy66s8O69) | 4:57 |
-| 25 | [I Touch \- Taylor Skye Remix](https://open.spotify.com/track/2n9x5USWpRg0c88EGbW6KV) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k), [Taylor Skye](https://open.spotify.com/artist/4fsQyHWKED0KhPzgQBPWh2) | [I<3UQTINVU](https://open.spotify.com/album/6dBMy5XXlOdEvj59IJC1WH) | 4:39 |
+| 25 | [I Touch](https://open.spotify.com/track/2n9x5USWpRg0c88EGbW6KV) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k), [Taylor Skye](https://open.spotify.com/artist/4fsQyHWKED0KhPzgQBPWh2) | [I<3UQTINVU](https://open.spotify.com/album/6dBMy5XXlOdEvj59IJC1WH) | 4:39 |
 | 26 | [6.0](https://open.spotify.com/track/5CuGhDqfPQKVNt09deoxwF) | [House of Women](https://open.spotify.com/artist/69hDEF4aqs1XvGs9jHlIwf) | [People Printing](https://open.spotify.com/album/2q8j2IVYrNaM5pAWug6Er1) | 2:06 |
 | 27 | [Could You Help Me](https://open.spotify.com/track/5BEFUHkJkE96hq89ESAfgF) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Could You Help Me](https://open.spotify.com/album/02grbmPkJrTIPpb1MYMn7L) | 2:46 |
 | 28 | [Chemtrails & Starsigns](https://open.spotify.com/track/6GzRfO6yRIjA08Jfa8uQrj) | [Jordan Nash](https://open.spotify.com/artist/3FdBkTRuQog4cyBE1FRR7A) | [Chemtrails & Starsigns](https://open.spotify.com/album/7AZI4KP5EEKd1tDDTIADf0) | 2:05 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 54 | [No Body](https://open.spotify.com/track/4BdA7ZtP00Dda9UWiSAn2F) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [No Body](https://open.spotify.com/album/37Oqe9dvGu7jWs19pVLGPW) | 2:42 |
 | 55 | [Run Run Run](https://open.spotify.com/track/08SkuBh4lrdQTthEc3J1kN) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Run Run Run](https://open.spotify.com/album/6hV5hdmEp1eMTTBeeAiC0K) | 2:53 |
 | 56 | [Black Hole](https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:21 |
-| 57 | [Good Girl \- Taylor Skye Remix](https://open.spotify.com/track/2Hgtu5s75EqH0skGGdICIr) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k), [Taylor Skye](https://open.spotify.com/artist/4fsQyHWKED0KhPzgQBPWh2) | [Good Girl \(Taylor Skye Remix\)](https://open.spotify.com/album/6PBYAA2PcyiiB8p6dYAGyV) | 4:02 |
+| 57 | [Good Girl](https://open.spotify.com/track/2Hgtu5s75EqH0skGGdICIr) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k), [Taylor Skye](https://open.spotify.com/artist/4fsQyHWKED0KhPzgQBPWh2) | [Good Girl \(Taylor Skye Remix\)](https://open.spotify.com/album/6PBYAA2PcyiiB8p6dYAGyV) | 4:02 |
 | 58 | [Funny](https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Funny](https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2) | 5:02 |
 | 59 | [Fingerlickin' Goodness](https://open.spotify.com/track/2QyDW2O9bISuK7nvZEeeMY) | [Big Sleep](https://open.spotify.com/artist/06llXpGPHg8QROCGNxw80a) | [Isn't That Sweet](https://open.spotify.com/album/37j8XZS9Wh9eMBXuyy513D) | 3:18 |
 | 60 | [Cry Me A River](https://open.spotify.com/track/1l8JstRdpupds1kZgWT4Hg) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Cry Me A River](https://open.spotify.com/album/58xaelY1o0uH8hxeuZYYrl) | 3:40 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 84 | [pink dress](https://open.spotify.com/track/2MBuWN9LjsJSKyGlWSJOXo) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [pink dress](https://open.spotify.com/album/2By8efmDvVvtVaWyJdyx0s) | 2:53 |
 | 85 | [Paradise](https://open.spotify.com/track/5WtnRVYXnK5cp71j61j9Xz) | [VENICE](https://open.spotify.com/artist/61CQzFXZaNgVL2fgXOY5kn) | [Paradise](https://open.spotify.com/album/1DCEweXzKPXxQuK88aEzpH) | 3:19 |
 
-Snapshot ID: `MCxkZWNiZDllNGY1YzFmNGI3YjRiZDA5ZGFiOTNlYTU0M2QwOTU1YjFj`
+Snapshot ID: `MCwzMDYxN2M1ZGYzYzVlYjc4M2I5YzVmOGI1MDI0NzkyZGNiZjRiMTYy`

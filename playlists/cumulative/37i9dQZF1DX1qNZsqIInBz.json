@@ -2427,6 +2427,24 @@
     },
     {
       "album": {
+        "name": "nightmares",
+        "url": "https://open.spotify.com/album/63t2KnssSonLbVh4WtwjhI"
+      },
+      "artists": [
+        {
+          "name": "skyfall beats",
+          "url": "https://open.spotify.com/artist/6ORJGSfnPFkJFFs5wXEClO"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "nightmares",
+      "url": "https://open.spotify.com/track/4YR40xH1Zxq1RKOxk49YcO"
+    },
+    {
+      "album": {
         "name": "nightriders",
         "url": "https://open.spotify.com/album/0WvOrokciCcRELMBURq18R"
       },

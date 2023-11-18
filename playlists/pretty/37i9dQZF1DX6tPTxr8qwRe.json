@@ -1,13 +1,65 @@
 {
-  "description": "Dark, hard hitting pop. Cover: Mad Tsai",
-  "num_followers": 394049,
+  "description": "Dark, hard hitting pop. Cover: emlyn",
+  "num_followers": 394114,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2RmNDhjMzRlOWY2YjM2OGNhY2U3NDQ3OTY0OTNmNzBmZDhiZGZm",
+  "snapshot_id": "MCwyOGVjNzY5YjVhZWY5ZGMyMzJkYjE5NzVhYTY5OTAzZWIzYjQ5YzQ2",
   "tracks": [
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "that's how you make a villain - chapter 1",
+        "url": "https://open.spotify.com/album/0Emn3IfYVITZP4hcQYSN0C"
+      },
+      "artists": [
+        {
+          "name": "emlyn",
+          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
+        },
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "duration_ms": 210954,
+      "name": "build a boy",
+      "url": "https://open.spotify.com/track/59BEuButSI6B9CZuPYZjNa"
+    },
+    {
+      "added_at": "2023-11-17 07:30:59",
+      "album": {
+        "name": "I AM",
+        "url": "https://open.spotify.com/album/386kgx8oUr4TFpLXuEMzBh"
+      },
+      "artists": [
+        {
+          "name": "Ashley Sienna",
+          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/5psxNqlcbQhHuMLY7NT5Hr"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "little miss misogyny",
+        "url": "https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS"
+      },
+      "artists": [
+        {
+          "name": "audalei",
+          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
+        }
+      ],
+      "duration_ms": 147205,
+      "name": "little miss misogyny",
+      "url": "https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D"
+    },
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
@@ -25,20 +77,20 @@
       "url": "https://open.spotify.com/track/799zCg04fIPgcbmplT3ecQ"
     },
     {
-      "added_at": "2023-10-20 04:00:00",
+      "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Lethal Woman",
-        "url": "https://open.spotify.com/album/25JZaVPcasGATDbLqizABZ"
+        "name": "not ur baby",
+        "url": "https://open.spotify.com/album/0dja5BzekkrBNOa9xfAETW"
       },
       "artists": [
         {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+          "name": "KINGS",
+          "url": "https://open.spotify.com/artist/6YQuBpbzdPGNFnyADC9QC3"
         }
       ],
-      "duration_ms": 126264,
-      "name": "Lethal Woman",
-      "url": "https://open.spotify.com/track/4GnjXzJfmPcVEt0S7zIS9L"
+      "duration_ms": 169445,
+      "name": "not ur baby",
+      "url": "https://open.spotify.com/track/5xP6KmGWbPdz5ICUT7apYt"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -59,6 +111,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Lethal Woman",
+        "url": "https://open.spotify.com/album/25JZaVPcasGATDbLqizABZ"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        }
+      ],
+      "duration_ms": 126264,
+      "name": "Lethal Woman",
+      "url": "https://open.spotify.com/track/4GnjXzJfmPcVEt0S7zIS9L"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Scatterbrain",
         "url": "https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v"
       },
@@ -73,20 +141,20 @@
       "url": "https://open.spotify.com/track/0DRJILxCmuHsrJpYYqXMed"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
+      "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "little miss misogyny",
-        "url": "https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS"
+        "name": "THEY ALL DIE IN THE END",
+        "url": "https://open.spotify.com/album/7BF7vzi4vGitNCfTm9VYro"
       },
       "artists": [
         {
-          "name": "audalei",
-          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
+          "name": "safesp8ce",
+          "url": "https://open.spotify.com/artist/4ag9JIDeFbLg9vwAz6QqxO"
         }
       ],
-      "duration_ms": 147205,
-      "name": "little miss misogyny",
-      "url": "https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D"
+      "duration_ms": 165150,
+      "name": "THEY ALL DIE IN THE END",
+      "url": "https://open.spotify.com/track/3EMjyCdzpAVapByDEhict6"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -153,6 +221,22 @@
       "url": "https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR"
     },
     {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "crawl",
+        "url": "https://open.spotify.com/album/3rf35ZOJylG4lrQ74sCdJS"
+      },
+      "artists": [
+        {
+          "name": "marg\u00f8",
+          "url": "https://open.spotify.com/artist/2yClxSQHoqAeiYVhafSWKU"
+        }
+      ],
+      "duration_ms": 181904,
+      "name": "crawl",
+      "url": "https://open.spotify.com/track/6PdNcUnU7szJ0uU5GBCLe8"
+    },
+    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Bittersweet",
@@ -183,6 +267,22 @@
       "duration_ms": 161171,
       "name": "Bite Marks",
       "url": "https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia"
+    },
+    {
+      "added_at": "2023-11-17 07:30:59",
+      "album": {
+        "name": "Might Not Wanna Wake Up",
+        "url": "https://open.spotify.com/album/2WkLnhgtyRxu32qkmTea4G"
+      },
+      "artists": [
+        {
+          "name": "Lxandra",
+          "url": "https://open.spotify.com/artist/6kveFlWW2CZY1bfiX51UnW"
+        }
+      ],
+      "duration_ms": 214694,
+      "name": "FU4EVER",
+      "url": "https://open.spotify.com/track/4iMD2wIbbGPaJqW2Hw4HMF"
     },
     {
       "added_at": "2023-11-10 05:34:58",
@@ -387,22 +487,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 203369,
-      "name": "ballad of a homeschooled girl",
-      "url": "https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "WEIRDO",
         "url": "https://open.spotify.com/album/6rDokynybvQJty9nxAAGVh"
       },
@@ -559,22 +643,6 @@
       "duration_ms": 161206,
       "name": "faceplant",
       "url": "https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "EMOTION SICKNESS",
-        "url": "https://open.spotify.com/album/7qpJHu4q1taE6JOFvdm6YA"
-      },
-      "artists": [
-        {
-          "name": "Fefe Dobson",
-          "url": "https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ"
-        }
-      ],
-      "duration_ms": 163760,
-      "name": "SHUT UP AND KISS ME",
-      "url": "https://open.spotify.com/track/69XM2hnoX1hVwqDGnnGZSq"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -915,22 +983,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "that's how you make a villain",
-        "url": "https://open.spotify.com/album/14MGqlLRlNWV90Z1sZRnPE"
-      },
-      "artists": [
-        {
-          "name": "emlyn",
-          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
-        }
-      ],
-      "duration_ms": 209383,
-      "name": "that's how you make a villain",
-      "url": "https://open.spotify.com/track/43oNw6eBz19yCSrebBYqUY"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Freak Show",
         "url": "https://open.spotify.com/album/2R4cBv4crCsgmscopkR67j"
       },
@@ -1179,22 +1231,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Deja Vu You",
-        "url": "https://open.spotify.com/album/7oM9ghGzzUN86fiofWhS61"
-      },
-      "artists": [
-        {
-          "name": "Samantha Margret",
-          "url": "https://open.spotify.com/artist/6tyLi4JY6t4BEyZHaKwApN"
-        }
-      ],
-      "duration_ms": 135500,
-      "name": "Deja Vu You",
-      "url": "https://open.spotify.com/track/4I7U3jsgLSAqFmLAfx6iBJ"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Pretty Little Addict",
         "url": "https://open.spotify.com/album/18LCyUkyiBeDRbxsNEYAv8"
       },
@@ -1223,42 +1259,6 @@
       "duration_ms": 154250,
       "name": "BLURRY",
       "url": "https://open.spotify.com/track/1bMUGYJ8N8ftjoaLL9FOBM"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Unthinkable",
-        "url": "https://open.spotify.com/album/1Nvd2bGAy6ofku8h1kOt16"
-      },
-      "artists": [
-        {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
-        }
-      ],
-      "duration_ms": 167248,
-      "name": "FU In My Head",
-      "url": "https://open.spotify.com/track/6BGtSuLFU0X35Igkftxqfr"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Pretty In The Dark",
-        "url": "https://open.spotify.com/album/3rH35zsxg2ppSufxr57UPw"
-      },
-      "artists": [
-        {
-          "name": "Ashley Sienna",
-          "url": "https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi"
-        },
-        {
-          "name": "Ellise",
-          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
-        }
-      ],
-      "duration_ms": 176423,
-      "name": "Pretty In The Dark",
-      "url": "https://open.spotify.com/track/3iuk1CB6yWPZDQ08WVOUjB"
     },
     {
       "added_at": "2023-10-06 04:00:00",

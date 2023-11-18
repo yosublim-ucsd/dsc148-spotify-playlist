@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: Jonah Yano
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,425 likes - 85 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,625 likes - 85 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 46 | [Hot](https://open.spotify.com/track/4LCWffAoLQJ2AAJupPR91a) | [Foshe](https://open.spotify.com/artist/0KCuUspc7QtrKkeTqXGHKZ), [Indira Elias](https://open.spotify.com/artist/6ILJ4BFUKsb3ocmlBrDMcZ) | [FOSHIRA](https://open.spotify.com/album/6S64R5mbSiFuRJgyQ1Nowy) | 3:52 |
 | 47 | [Dogtown](https://open.spotify.com/track/5ktCZMdlQ5jf1o6vqKFSso) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [Stings](https://open.spotify.com/album/6VinTZHoP04RXMsQk3W4A4) | 6:30 |
 | 48 | [TWIX](https://open.spotify.com/track/7sDrbISYUrsxQuqzCJjlk0) | [Dann Dib](https://open.spotify.com/artist/7zKpsWi7nGfM6AREKbpMoj) | [TWIX](https://open.spotify.com/album/5G0KbmUasvNGrih6kfvH0N) | 2:46 |
-| 49 | [Safe From Harm \(feat\. Reginald AK\)](https://open.spotify.com/track/6zczzMm469kNZuPTqp0oLf) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K), [Reginald AK](https://open.spotify.com/artist/0kHgwv7BrZSTH06wEtYQQa) | [Safe From Harm \(feat\. Reginald AK\)](https://open.spotify.com/album/5RJG4hvaVACcuORpFWiuV6) | 5:40 |
+| 49 | [Safe From Harm \(feat\. Reginald AK\)](https://open.spotify.com/track/1crJ36QxInBL1wTJGCwqJm) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K), [Reginald AK](https://open.spotify.com/artist/0kHgwv7BrZSTH06wEtYQQa) | [This Is How You Do It](https://open.spotify.com/album/47DkehCKqt88KC3gqFK9Ga) | 5:40 |
 | 50 | [Reflections](https://open.spotify.com/track/70NoGzQstw0zYukOY2PVBl) | [First Beige](https://open.spotify.com/artist/0QLkmmM8acu07MIT5GcSPT) | [Reflections](https://open.spotify.com/album/7b607glTYc3E06eB9hQusa) | 4:25 |
 | 51 | [meek // flip](https://open.spotify.com/track/0nEPmXlrxnugrEdJQxc2L2) | [Jetson](https://open.spotify.com/artist/2bkf2PmiVyfCqg2uzIFIqJ) | [meek // flip](https://open.spotify.com/album/4Y472pfv0bIB7IMfjpqI36) | 1:19 |
 | 52 | [I Met God](https://open.spotify.com/track/6v9CIwn1623LQd9x6qXodk) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [I Met God](https://open.spotify.com/album/3TUtl9BQPfP4kWqXveAyv6) | 4:22 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 | 84 | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/track/1nsaIli1TgKxLjHmWqDRmE) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Black Classical Music](https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET) | 3:58 |
 | 85 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
 
-Snapshot ID: `MCw5ZGFiMmNhZGI2NzRiNzJlZGNlNDJkODU4MzFiMGE1MTMxMjNlOGZh`
+Snapshot ID: `MCxjNDVjZGM5M2YwM2UyYjU0NGM2ZWE2ODljYzk1YjRjNWE3ZTI3ZTZl`

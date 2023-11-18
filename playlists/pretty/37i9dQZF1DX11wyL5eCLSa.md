@@ -2,30 +2,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 ### [EL ROCK NO HA MUERTO](https://open.spotify.com/playlist/37i9dQZF1DX11wyL5eCLSa)
 
-> Sangre fresca en las escenas del indie y el rock\. Jay de la Cueva en Portada.
+> Sangre fresca en las escenas del indie y el rock\. Jonaz en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,161 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,186 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mal Negocio](https://open.spotify.com/track/1cwTYi0DRI0QfCfYUImTE9) | [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [Mal Negocio](https://open.spotify.com/album/1xPDCNo9ghP9xoCthbcvbn) | 3:22 |
 | 2 | [Tokyo](https://open.spotify.com/track/4YETK2Zs4oJ6YIAVbfqYMH) | [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Tokyo](https://open.spotify.com/album/2XbAH4JRlR941sejnT2suC) | 3:14 |
-| 3 | [Está todo mal](https://open.spotify.com/track/1TCuzqT6yRfNgS5tWNLEW7) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Está todo mal](https://open.spotify.com/album/5uYVPB3uqQNzB5nHEpvRXc) | 2:44 |
-| 4 | [Cabras](https://open.spotify.com/track/0Z6NjrgKeVaR3G1lAOk4at) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jimena González](https://open.spotify.com/artist/7C2SYZIxEKVRD1VacM3xxc) | [Cabras](https://open.spotify.com/album/4l3SJgabo5QTmFqTfW3KM5) | 3:41 |
-| 5 | [Fútbol Rock](https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Fútbol Rock](https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR) | 4:13 |
-| 6 | [Dame Una Oportunidad](https://open.spotify.com/track/3TedsdGhsTOv7afpvNapKc) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Dame Una Oportunidad](https://open.spotify.com/album/6QllYuDuxeQNLGTfEOK3vO) | 3:18 |
-| 7 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
-| 8 | [LFO \(Lupe Finds Oliveros\)](https://open.spotify.com/track/67D1DphJpan1hFNs7H5O8i) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [LFO \(Lupe Finds Oliveros\)](https://open.spotify.com/album/0DkVX02cJFDAvuovLNz16Y) | 3:06 |
-| 9 | [La Sombra del Amanecer](https://open.spotify.com/track/6Rtf7VGfor2jIfkLkLula0) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [La Sombra del Amanecer](https://open.spotify.com/album/25i71egTd0RdShae3PQcve) | 6:16 |
-| 10 | [Un Pecado](https://open.spotify.com/track/6231K4fFlHPJGpsipCPW9U) | [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [Un Pecado](https://open.spotify.com/album/3RIoz236bukwbpck1Xvqg6) | 3:31 |
-| 11 | [La edad que tengo](https://open.spotify.com/track/365MK5X3FgXaW7IWmNzNV5) | [La Paloma](https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv) | [La edad que tengo](https://open.spotify.com/album/4K6OaFr9gVOzPPBgjvyVn4) | 2:54 |
-| 12 | [Respuesta Sensorial](https://open.spotify.com/track/2A7JX4Cu4UtwCMazGBS2YN) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Respuesta Sensorial](https://open.spotify.com/album/4pT7vS03zzAfG9gNQ4chNR) | 3:40 |
-| 13 | [Club de Fans de John Boy](https://open.spotify.com/track/04bVV45KVRvd1h0hfLqRjQ) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Club de Fans de John Boy](https://open.spotify.com/album/0AX6fEdcmURGqUXk5DDf9Y) | 3:38 |
-| 14 | [Estática](https://open.spotify.com/track/1tJy7CJuv33Tre4DmrZgx3) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Estática](https://open.spotify.com/album/4epHlWTKUURK4kDlRcKASZ) | 3:53 |
-| 15 | [Hojas de té \- 2023](https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Hojas de té \(2023\)](https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe) | 3:29 |
-| 16 | [No les Dire La verdad](https://open.spotify.com/track/2kVAt63gbF3zsZeNVg9dRo) | [Ceci Bastida](https://open.spotify.com/artist/7xKtg8mN9eQ8jBiLRnbq8U) | [Every Thing Taken Away](https://open.spotify.com/album/0uPQPiLFNbIUuRJA02soOs) | 2:56 |
-| 17 | [El rock and roll pasó de moda](https://open.spotify.com/track/38V1ucCpi0TjlITJStqg5L) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp), [Lucas Jaubet](https://open.spotify.com/artist/2l3yo52RkuDBVnalY9pBpr) | [El rock and roll pasó de moda](https://open.spotify.com/album/0njdapBFMgKnJQeE5g00UB) | 4:01 |
-| 18 | [Que fue lo que Pasó](https://open.spotify.com/track/6e705fkOBUYIBAe7MVczDD) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Que fue lo que Pasó](https://open.spotify.com/album/52lw9gZ6CxwOj0KLt5aJEW) | 3:29 |
+| 3 | [vivo del aire](https://open.spotify.com/track/3tHNE5g3k7553UMCix0fwX) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [vivo del aire](https://open.spotify.com/album/3Pa0BLpFOK8hVg9KqTq035) | 2:48 |
+| 4 | [Está todo mal](https://open.spotify.com/track/1TCuzqT6yRfNgS5tWNLEW7) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Está todo mal](https://open.spotify.com/album/5uYVPB3uqQNzB5nHEpvRXc) | 2:44 |
+| 5 | [Lxs Vampirxs](https://open.spotify.com/track/7BdvEr27dk6v2X8OY2ZPi0) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Lxs Vampirxs](https://open.spotify.com/album/7BzIXzDZRnFZEHo1OfYsfy) | 2:29 |
+| 6 | [Cabras](https://open.spotify.com/track/0Z6NjrgKeVaR3G1lAOk4at) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jimena González](https://open.spotify.com/artist/7C2SYZIxEKVRD1VacM3xxc) | [Cabras](https://open.spotify.com/album/4l3SJgabo5QTmFqTfW3KM5) | 3:41 |
+| 7 | [Fútbol Rock](https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Fútbol Rock](https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR) | 4:13 |
+| 8 | [Dame Una Oportunidad](https://open.spotify.com/track/3TedsdGhsTOv7afpvNapKc) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Dame Una Oportunidad](https://open.spotify.com/album/6QllYuDuxeQNLGTfEOK3vO) | 3:18 |
+| 9 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
+| 10 | [LFO \(Lupe Finds Oliveros\)](https://open.spotify.com/track/67D1DphJpan1hFNs7H5O8i) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [LFO \(Lupe Finds Oliveros\)](https://open.spotify.com/album/0DkVX02cJFDAvuovLNz16Y) | 3:06 |
+| 11 | [La Sombra del Amanecer](https://open.spotify.com/track/6Rtf7VGfor2jIfkLkLula0) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [La Sombra del Amanecer](https://open.spotify.com/album/25i71egTd0RdShae3PQcve) | 6:16 |
+| 12 | [Un Pecado](https://open.spotify.com/track/6231K4fFlHPJGpsipCPW9U) | [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [Un Pecado](https://open.spotify.com/album/3RIoz236bukwbpck1Xvqg6) | 3:31 |
+| 13 | [La edad que tengo](https://open.spotify.com/track/365MK5X3FgXaW7IWmNzNV5) | [La Paloma](https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv) | [La edad que tengo](https://open.spotify.com/album/4K6OaFr9gVOzPPBgjvyVn4) | 2:54 |
+| 14 | [Respuesta Sensorial](https://open.spotify.com/track/2A7JX4Cu4UtwCMazGBS2YN) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Respuesta Sensorial](https://open.spotify.com/album/4pT7vS03zzAfG9gNQ4chNR) | 3:40 |
+| 15 | [Club de Fans de John Boy](https://open.spotify.com/track/04bVV45KVRvd1h0hfLqRjQ) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Club de Fans de John Boy](https://open.spotify.com/album/0AX6fEdcmURGqUXk5DDf9Y) | 3:38 |
+| 16 | [Estática](https://open.spotify.com/track/1tJy7CJuv33Tre4DmrZgx3) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Estática](https://open.spotify.com/album/4epHlWTKUURK4kDlRcKASZ) | 3:53 |
+| 17 | [Hojas de té \- 2023](https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Hojas de té \(2023\)](https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe) | 3:29 |
+| 18 | [El rock and roll pasó de moda](https://open.spotify.com/track/38V1ucCpi0TjlITJStqg5L) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp), [Lucas Jaubet](https://open.spotify.com/artist/2l3yo52RkuDBVnalY9pBpr) | [El rock and roll pasó de moda](https://open.spotify.com/album/0njdapBFMgKnJQeE5g00UB) | 4:01 |
 | 19 | [Fuera de Control](https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Fuera de Control](https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt) | 3:30 |
 | 20 | [Ardiendo Lento](https://open.spotify.com/track/7G3WYQW7DrFjmm8a4wPleH) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl) | [Ardiendo Lento](https://open.spotify.com/album/6rYACTUC0TXKlu3pc3dbID) | 2:56 |
 | 21 | [Buenas Noches](https://open.spotify.com/track/2LAOTPxQ3xrfuewC4g6Mwo) | [Nunca Jamas](https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7) | [Buenas Noches](https://open.spotify.com/album/4KwTOLVtWGRWXNJfEdcEY9) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 99 | [como me encanta](https://open.spotify.com/track/6LkquZ7k3q1eeBtltF63lj) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [como me encanta](https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE) | 5:21 |
 | 100 | [Enemigo \(Acústico\)](https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enemigo \(Acústico\)](https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB) | 4:02 |
 
-Snapshot ID: `MCxhOGY5NzU5ZTExM2JkMTlmNzgwNjNmNjNkYTZlN2M5MTYzMTg0Zjc5`
+Snapshot ID: `MCxiNmY1ZTE5ZDg5MTkxYWU0ZjljOTAwNzIwODdkN2U1YTJiODYwYWNm`

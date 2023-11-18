@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 158446,
       "name": "Bout That",
       "url": "https://open.spotify.com/track/4DnUESBaSNsZfChXEGgsUH"
@@ -1958,7 +1958,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 163659,
       "name": "CAJH DAY*",
       "url": "https://open.spotify.com/track/00V6wJD84jcHSS13txR5Wd"
@@ -4263,6 +4263,24 @@
     },
     {
       "album": {
+        "name": "FREE JUJU",
+        "url": "https://open.spotify.com/album/2IXonXiyWUpW7uWTOYmfVR"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129649,
+      "name": "FREE JUJU",
+      "url": "https://open.spotify.com/track/5oygsLUWlwCjpfr8R4NIJr"
+    },
+    {
+      "album": {
         "name": "Free My Dawgs",
         "url": "https://open.spotify.com/album/6p1vAfv5WEsu2yNjn1lclB"
       },
@@ -4606,7 +4624,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 146285,
       "name": "GEEKALEEK (feat. Cash Kidd)",
       "url": "https://open.spotify.com/track/2f9JzwRy6Ofr5ixvN0ojKt"
@@ -5035,6 +5053,24 @@
     },
     {
       "album": {
+        "name": "Groupies",
+        "url": "https://open.spotify.com/album/0gsHL3Op4I3SGSdw0BCub8"
+      },
+      "artists": [
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151709,
+      "name": "Groupies",
+      "url": "https://open.spotify.com/track/2bne21mDet36kxTZctUuOn"
+    },
+    {
+      "album": {
         "name": "Had To Make It",
         "url": "https://open.spotify.com/album/1PZpVsOgwl3RVlxNED29T8"
       },
@@ -5362,6 +5398,36 @@
       "duration_ms": 178688,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/6VedgheUzpD7cVQD4Zy1Ge"
+    },
+    {
+      "album": {
+        "name": "Rule of Thumb: Rule 1",
+        "url": "https://open.spotify.com/album/2wozTc5rLDVTI8wl0nh5fk"
+      },
+      "artists": [
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Philthy Rich",
+          "url": "https://open.spotify.com/artist/3n6RTmT1sgWeNNCfPyJMw3"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "BG",
+          "url": "https://open.spotify.com/artist/331Xmbd0r2nu2TxnA4aQQR"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288191,
+      "name": "High-End (feat. Philthy Rich, Gucci Mane & BG)",
+      "url": "https://open.spotify.com/track/1yTv2RYIcq8vkyGYfaZZuZ"
     },
     {
       "album": {
@@ -10638,7 +10704,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 162151,
       "name": "Sinners Prayer",
       "url": "https://open.spotify.com/track/23Yn4UXcXoJFQknGdAdrQI"
@@ -10692,10 +10758,32 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 134325,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/0jRiVMnGBnuyXQsIVwbDSK"
+    },
+    {
+      "album": {
+        "name": "Slow It Down (feat. 310babii) [Remix]",
+        "url": "https://open.spotify.com/album/07nA13Tm7sd6fnjQtcUWHM"
+      },
+      "artists": [
+        {
+          "name": "John Mackk",
+          "url": "https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw"
+        },
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171572,
+      "name": "Slow It Down (feat. 310babii) - Remix",
+      "url": "https://open.spotify.com/track/4ZBAIrRUGcRnTWWNEVlnWi"
     },
     {
       "album": {
@@ -11574,6 +11662,36 @@
       "duration_ms": 167547,
       "name": "That's My Dawg",
       "url": "https://open.spotify.com/track/6B82nEUsmDZgjh0agenqn6"
+    },
+    {
+      "album": {
+        "name": "Say it ain't So",
+        "url": "https://open.spotify.com/album/5xbSHGSKKw5Bg10t380Wty"
+      },
+      "artists": [
+        {
+          "name": "Rucci",
+          "url": "https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA"
+        },
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        },
+        {
+          "name": "Gudda Brvckin",
+          "url": "https://open.spotify.com/artist/1uBM3OueZouNJbNhutkJXm"
+        },
+        {
+          "name": "ShyBelligerent",
+          "url": "https://open.spotify.com/artist/0kIV5wm9cHgWaP6Z4E6uzM"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198672,
+      "name": "That's Norf, Pt. 3 (feat. Baby Stone Gorillas, Gudda Brvckin & ShyBelligerent)",
+      "url": "https://open.spotify.com/track/7rx5gY6IUE7XKaal5nEH35"
     },
     {
       "album": {
@@ -12456,7 +12574,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 124965,
       "name": "Walk",
       "url": "https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz"

@@ -4,7 +4,7 @@
 
 > Beautiful indie tracks from around the world\. Cover: beabadoobee.
 
-85 songs - 4 hr 38 min
+87 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [No News No Blues](https://open.spotify.com/track/3dI1uxPuy9SwEMveMwpDJn) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn), [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Back On the Music!](https://open.spotify.com/album/3ltD9P5ZMjlEl03fLGa7AB) | 3:53 | 2022-11-30 | 2023-04-30 |
 | [No News No Blues](https://open.spotify.com/track/4uvUEE8EtbiJxBcB45XURq) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Back On the Music!](https://open.spotify.com/album/1gNBcewWJYihYyatTLv3GR) | 3:53 | 2022-11-30 |  |
 | [Nobody Like You](https://open.spotify.com/track/10HqYPk8krVdDYQCgYh3z7) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [When I Close My Eyes](https://open.spotify.com/album/2Hlkq5I3ntvKGPJq130yzF) | 2:03 | 2022-11-30 |  |
-| [odoriko](https://open.spotify.com/track/1uK4zAdMcBRyinAOArUA5X) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [odoriko](https://open.spotify.com/album/5GYj8Dv4xReZAEA8sp4S5y) | 3:50 | 2022-11-30 |  |
+| [odoriko](https://open.spotify.com/track/1uK4zAdMcBRyinAOArUA5X) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [odoriko](https://open.spotify.com/album/5GYj8Dv4xReZAEA8sp4S5y) | 3:50 | 2022-11-30 | 2023-11-18 |
 | [Open Your Mind](https://open.spotify.com/track/6Hix9sKooZFXywNvpap932) | [Vlossom](https://open.spotify.com/artist/6fchbydDZlEemGC9wiovuj) | [Open Your Mind](https://open.spotify.com/album/54lSmyWcVY2w8znYpWKmdi) | 3:25 | 2022-11-30 |  |
 | [OTT](https://open.spotify.com/track/7vfVFDOOwErIDLt2vi2Q3W) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [MAYBE IN ANOTHER LIFE...](https://open.spotify.com/album/5vvbek95UXDUAbdeDArk7m) | 2:37 | 2022-11-30 |  |
 | [Paracas Cavernas](https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Paracas Cavernas](https://open.spotify.com/album/0rYpO9guHXOLfNeuNPTqgk) | 4:28 | 2022-11-30 |  |
@@ -71,7 +71,8 @@
 | [Say Hello](https://open.spotify.com/track/3mW60TGPwzkLxCTqK0grhR) | [Gym and Swim](https://open.spotify.com/artist/03vGezkHp9TYoKOtxZlUj4) | [Say Hello](https://open.spotify.com/album/5uSHHBZufgqaqrs3jYfcxr) | 3:43 | 2022-11-30 |  |
 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/6zTbYrkYJSiNOw6jL7nM5H) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [HISTORY](https://open.spotify.com/album/6IwONZNPHt81ip42NboklH) | 4:13 | 2022-11-30 |  |
 | [spin you round](https://open.spotify.com/track/2LO5hQnz5rEaRwkGUvZcHN) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [spin you round](https://open.spotify.com/album/3crMTdCiX7xKxIbYvKqOkK) | 2:06 | 2022-11-30 | 2023-01-14 |
-| [spin you round](https://open.spotify.com/track/5OrqsVgAX1ZM0w96yJvzjn) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [spin you round](https://open.spotify.com/album/1HcTMUxiH3zXmU4bShh8Zr) | 2:06 | 2022-11-30 |  |
+| [spin you round](https://open.spotify.com/track/5OrqsVgAX1ZM0w96yJvzjn) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [spin you round](https://open.spotify.com/album/1HcTMUxiH3zXmU4bShh8Zr) | 2:06 | 2022-11-30 | 2023-11-18 |
+| [spin you round](https://open.spotify.com/track/7rulewysad9ow7ICTIIlUe) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [spin you round](https://open.spotify.com/album/5eilEOUrgRIs0Ryz8rh9BI) | 2:06 | 2022-11-30 |  |
 | [STILL IN LOVE](https://open.spotify.com/track/4FRcozchBrkIDCsxc1EPnY) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [FULL TIME LOVER](https://open.spotify.com/album/1h8IiVZrZcdG68TYvxduLt) | 2:38 | 2022-11-30 |  |
 | [Stranger With A Wall](https://open.spotify.com/track/01kfjty2wVYRg53xiwrGtr) | [thepicnik](https://open.spotify.com/artist/4SMvJNBPlNx6JsonzNi3Nw) | [Stranger With A Wall](https://open.spotify.com/album/1Xwbb0gjsrPdx90mhmJLR5) | 3:45 | 2022-11-30 |  |
 | [Tainted Love](https://open.spotify.com/track/4ZGtGVsSemEMqVXU3cox7m) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Banish The Banshee](https://open.spotify.com/album/5G55JBphRFFY6DaYELM6Gk) | 3:21 | 2022-11-30 |  |
@@ -92,6 +93,7 @@
 | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/track/0DzmuigZNTpqOedCW3e6cb) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/14JPvukY07RrXQSBAM31eF) | 2:38 | 2022-11-30 |  |
 | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/track/1L2IdFAsssLzcv2oLTL1kn) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎can't ‎u ‎tell ‎?](https://open.spotify.com/album/6hLJGtNPcfDbOPQjGs5XMo) | 2:38 | 2022-11-30 | 2023-10-18 |
 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 | 2022-11-30 |  |
+| [踊り子](https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:49 | 2022-11-30 |  |
 | [踊り子](https://open.spotify.com/track/4UeWKazLR1ZwwSVnLw9Ir9) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [踊り子](https://open.spotify.com/album/3qDlmj2bxxsDO7EdVgwb7j) | 3:50 | 2022-11-30 | 2023-10-05 |
 
 \*This playlist was first scraped on 2022-12-09. Prior content cannot be recovered.

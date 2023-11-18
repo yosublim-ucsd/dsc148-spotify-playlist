@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Avenge",
+        "url": "https://open.spotify.com/album/5WYedUR5YPq1Cwdt4ZS6M7"
+      },
+      "artists": [
+        {
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/52vLjSY4OTo3YyIr0zTJgE"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100102,
+      "name": "Avenge",
+      "url": "https://open.spotify.com/track/0aMPSVbotlEJJ7RHKKOmh5"
+    },
+    {
+      "album": {
         "name": "SKIN",
         "url": "https://open.spotify.com/album/6gl8rX7dP20vjIQPi1mlDO"
       },
@@ -1460,7 +1478,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 164167,
       "name": "My Anchor",
       "url": "https://open.spotify.com/track/76DOdPpL7iz7YFCiV5SeRv"

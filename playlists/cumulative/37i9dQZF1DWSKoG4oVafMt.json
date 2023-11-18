@@ -2169,6 +2169,24 @@
     },
     {
       "album": {
+        "name": "Chann Da Ghar",
+        "url": "https://open.spotify.com/album/5sauoyA0rdI9NsIxCWAxnm"
+      },
+      "artists": [
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357473,
+      "name": "Chann Da Ghar",
+      "url": "https://open.spotify.com/track/4zVSoXEX5aG2BKwomRnmFN"
+    },
+    {
+      "album": {
         "name": "Chann Naal Taare",
         "url": "https://open.spotify.com/album/0veWAgTtygASgJILWSw8FC"
       },
@@ -10130,7 +10148,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 170387,
       "name": "No Love",
       "url": "https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp"

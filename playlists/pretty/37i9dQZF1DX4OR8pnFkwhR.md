@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: とた
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,359 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,396 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 79 | [あなたへのおすすめ\(A\-bug Remix\)](https://open.spotify.com/track/1FA49CNEIxQS8Kv6Qw0v71) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL), [A\-bug](https://open.spotify.com/artist/5kDZSgsJllCJAkgTiFsOJT) | [あなたへのおすすめ\(A\-bug Remix\)](https://open.spotify.com/album/0epGDt5NBxIiSV4Z8i5Fnh) | 4:05 |
 | 80 | [言わせない](https://open.spotify.com/track/2pqjnwREQKF3RYgP3gsGAY) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [dig saw](https://open.spotify.com/album/5TaLQKn5KHpyL0b9V44kWl) | 3:17 |
 
-Snapshot ID: `MCxmNjg3YjI5ZjlhNzI0YmQzYzUyM2NlOWFmYThiYTQ0ZmU2ZjUxM2Iy`
+Snapshot ID: `MCw4ODkyMjc4NTQxYWY1MmRjMjU2YTA2NzgyYmQ1NjI0ZTVlNDI3NzFh`

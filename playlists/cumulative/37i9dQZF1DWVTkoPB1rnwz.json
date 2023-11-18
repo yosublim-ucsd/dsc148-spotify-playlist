@@ -804,7 +804,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 179583,
       "name": "Between the Floating Mist",
       "url": "https://open.spotify.com/track/1ECVGziI63ZGz779wfbvHW"
@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 139500,
       "name": "Flyaway",
       "url": "https://open.spotify.com/track/33EcVBfPUuaelqga7f4FVm"
@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 118399,
       "name": "Horo",
       "url": "https://open.spotify.com/track/6z0jUF4tN2400ybr30TP1g"
@@ -2996,6 +2996,28 @@
       "duration_ms": 298694,
       "name": "Le danseur dans la bo\u00eete",
       "url": "https://open.spotify.com/track/0vGbsSDK7St7mNqbs19nUC"
+    },
+    {
+      "album": {
+        "name": "SP-Ecials",
+        "url": "https://open.spotify.com/album/3zzyKVOMGp0ljBUGmFttqA"
+      },
+      "artists": [
+        {
+          "name": "emune",
+          "url": "https://open.spotify.com/artist/4gkhq1EjcLZjP60fbvOyJT"
+        },
+        {
+          "name": "Mujo",
+          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
+        }
+      ],
+      "date_added": "2021-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74164,
+      "name": "Lemon Haze",
+      "url": "https://open.spotify.com/track/18XJez0do5aWzd6j9ZoiyT"
     },
     {
       "album": {

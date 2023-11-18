@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 
 > All juice
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,476 likes - 154 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,514 likes - 154 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 | 88 | [Rush](https://open.spotify.com/track/6cn2qPW4Xb7n6CVOMldvDw) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Rush](https://open.spotify.com/album/6dr7L7mHSIjWAbgHYztMzd) | 3:36 |
 | 89 | [Runaway](https://open.spotify.com/track/3umVRp5FJtkvh6VUZpra8C) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [Affirmations](https://open.spotify.com/album/7fLkWAvOwyWLPQDytTukiJ) | 2:45 |
 | 90 | [Keep It Burning](https://open.spotify.com/track/7Ewp4wV3NqvQb1qBeUc6ek) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Keep It Burning](https://open.spotify.com/album/5W6A8Fmm0dz02oKVCO1d4l) | 2:30 |
-| 91 | [Padam Padam \- HAAi Remix](https://open.spotify.com/track/1ZWoNoCNSZjxpEj7pYHkAo) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Padam Padam \(HAAi Remix\)](https://open.spotify.com/album/7FMt7Ip2v9QKjNchUx1zFI) | 6:32 |
+| 91 | [Padam Padam \(HAAi Remix\)](https://open.spotify.com/track/0hnYC81Psn8poERBlfkIFv) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Padam Padam \(HAAi Remix\)](https://open.spotify.com/album/1R0FX77T9YmpsHgKsMg2wA) | 6:32 |
 | 92 | [Fever](https://open.spotify.com/track/1KAZ7QTfcTzLSnKu5dtlmE) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 2:52 |
 | 93 | [UMA](https://open.spotify.com/track/485Hx0qqpIPkSmhJfNrxIe) | [fenoaltea](https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L), [d/rose](https://open.spotify.com/artist/6h0OZeWlXrzF2akE3yNBta) | [UMA](https://open.spotify.com/album/58nPyikuNDmwCLdfOQEsm1) | 2:36 |
 | 94 | [Lab \- black balloons Remix](https://open.spotify.com/track/34zfM258Ht6YwQToo7Olr9) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [DARKOWA](https://open.spotify.com/artist/71DzcVT1Deu8uS7LIkTn53), [black balloons](https://open.spotify.com/artist/5DoHtCZw1txGuSakzmbhEe) | [Lab \(black balloons Remix\)](https://open.spotify.com/album/7fOZVWTZuyLMOmFpUE86Os) | 3:22 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 | 153 | [Four Tet Is My Godmother](https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Four Tet Is My Godmother](https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP) | 5:00 |
 | 154 | [It's Very Loud](https://open.spotify.com/track/4pVpPtYTEGLVhfgljGM2Xl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [It's Very Loud](https://open.spotify.com/album/6IERtDEcLcMkt23FEueAH7) | 6:20 |
 
-Snapshot ID: `MCwxOTMyNGM3MDhiZmQ4NTMwNDA0ODM5ZDNkMmI3NzViZTY2ODRlN2Vl`
+Snapshot ID: `MCw2NjFiMDM0ZDBmZWFjZGExN2ZkZGQ0ZGUxZDFiMGVlMjQwNWZiYTEx`

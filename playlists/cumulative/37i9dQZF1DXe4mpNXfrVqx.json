@@ -195,6 +195,28 @@
     },
     {
       "album": {
+        "name": "V\u00caNUS\u2260netuno",
+        "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183380,
+      "name": "APOCAL\u00cdPTIKA",
+      "url": "https://open.spotify.com/track/4pdHinWMilOcFb65irdH8w"
+    },
+    {
+      "album": {
         "name": "Aquela",
         "url": "https://open.spotify.com/album/7nfk0v1E5ioLL9cSlABxqs"
       },
@@ -1677,7 +1699,7 @@
     },
     {
       "album": {
-        "name": "IRREVERSS\u00cdVEL",
+        "name": "IRREVERS\u00cdVEL",
         "url": "https://open.spotify.com/album/0WZzO4lMc7tz4KpMUKNpR9"
       },
       "artists": [
@@ -1694,7 +1716,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184607,
-      "name": "IRREVERSS\u00cdVEL",
+      "name": "IRREVERS\u00cdVEL",
       "url": "https://open.spotify.com/track/2VNpMBY9uV6JlqEjMSUu0T"
     },
     {
@@ -1802,7 +1824,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 141818,
       "name": "Lealdade",
       "url": "https://open.spotify.com/track/02qzKn3hIHuPL7jf1gxZY6"

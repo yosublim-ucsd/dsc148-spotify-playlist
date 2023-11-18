@@ -2,9 +2,9 @@
 
 ### [GLOW Italia](https://open.spotify.com/playlist/37i9dQZF1DXbj3m6LiQbmy)
 
-> Free to be! Musica dalla comunità LGBQTIA+ italiana\. ARIETE in cover! ✨
+> Vieni a conoscere GLOW alla Milano Music Week il 22/11, <a href="https://www.milanomusicweek.it/evento/spotify\-presenta\-glow\-ascolta\-le\-voci\-della\-comunita\-lgbtqia">iscriviti gratuitamente qua</a>\. Con Giolì & Assia, Asteria, Yosef e KAPUT! ✨
 
-326 songs - 19 hr 28 min
+327 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [OSCENO](https://open.spotify.com/track/12W5ZS8wfY2Y6ujUgdqyGr) | [Lilly Meraviglia](https://open.spotify.com/artist/3BVrBQOg6F6UtsnsF5E1A7) | [OSCENO](https://open.spotify.com/album/1Oojbbxjob29dwZGHGUezC) | 2:50 | 2022-06-12 | 2022-06-27 |
 | [Painted Eyes](https://open.spotify.com/track/0YKFG6iCL1Nn5y7aLLy7qA) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Aerea Negrot](https://open.spotify.com/artist/4ix8eWGATi2Ot5ZmWITDaJ) | [Blue Songs](https://open.spotify.com/album/1DBdOP00GcAqZO67GUZDV9) | 6:01 | 2022-06-26 | 2022-07-19 |
 | [Painted Eyes \- Original Mix](https://open.spotify.com/track/7Aaig6TQeCjY6vjy9TlsCw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Aerea Negrot](https://open.spotify.com/artist/4ix8eWGATi2Ot5ZmWITDaJ) | [Blue Songs](https://open.spotify.com/album/07DoR2BYZ3bApdUCpjf38P) | 6:03 | 2022-07-21 | 2023-01-25 |
+| [paranormale che](https://open.spotify.com/track/1RdllQCAMgg8MFC7nB6XtR) | [chesma](https://open.spotify.com/artist/14qfpqRSUFUcZOK424qddH) | [paranormale che](https://open.spotify.com/album/4Dv3N0tGiSGPGwx1O3ubPZ) | 2:36 | 2023-11-16 |  |
 | [Parigi \(mi manchi\) \- Hey Cabrera! Remix](https://open.spotify.com/track/0uf3THPz59F1SmobBeTgaB) | [Thomas Costantin](https://open.spotify.com/artist/0WKjXc8BCwyL9ds9cNRlWW), [Hey Cabrera!](https://open.spotify.com/artist/4mGJlxDbUm6OelkTrUDSoW) | [Le città](https://open.spotify.com/album/6QWVKKra5NxI0AlS4h4u0t) | 4:24 | 2023-10-27 |  |
 | [Parigi \(mi manchi\) \- Hey Cabrera! Remix](https://open.spotify.com/track/4yDG7Q9kemM7LS2AfxcFs9) | [Thomas Costantin](https://open.spotify.com/artist/0WKjXc8BCwyL9ds9cNRlWW), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf) | [Le città](https://open.spotify.com/album/6VCWcupYXk4UdIeXJNjC07) | 4:24 | 2021-11-19 | 2023-11-02 |
 | [Parlate di moralità \- 2016 Remastered](https://open.spotify.com/track/6vDp1QyfCJxPBB0sZvYFjx) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Streaking \(Remastered\)](https://open.spotify.com/album/1zxOsO2mcs1zmSzNLftC00) | 3:55 | 2022-06-26 | 2022-07-28 |

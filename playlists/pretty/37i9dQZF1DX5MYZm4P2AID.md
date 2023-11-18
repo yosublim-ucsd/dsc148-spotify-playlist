@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,508 likes - 174 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,531 likes - 174 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 26 | [Palm Trees](https://open.spotify.com/track/0dy38OIA6UqWLsRVtwNBhW) | [Often](https://open.spotify.com/artist/7BFGaVvOZLQtSLfWCvJeKW) | [Outer Banks: Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5) | 2:57 |
 | 27 | [Silver Timothy](https://open.spotify.com/track/0dRM84FDv9MN2HGnuJsSCi) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Brothers and Sisters of the Eternal Son \(Deluxe Edition\)](https://open.spotify.com/album/1RRHi23DOwVOwimc3BjnBv) | 3:16 |
 | 28 | [Time Moves On](https://open.spotify.com/track/7s10VGMnD39Brqpaem8km2) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Midnight Manor](https://open.spotify.com/album/3OePCCzmF2nfuEJWQ521eQ) | 4:56 |
-| 29 | [Powerman \- 2020 Stereo Remaster](https://open.spotify.com/track/71lOPSGbq1hSepmhwSZs2p) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. 1](https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0) | 4:17 |
+| 29 | [Powerman \(2020 Stereo Remaster\)](https://open.spotify.com/track/0dJ6WCwjkVBfh4h3vyzIeb) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. 1](https://open.spotify.com/album/6cv47fKkAyi9Lm5wwud4It) | 4:17 |
 | 30 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 |
 | 31 | [Mad Man](https://open.spotify.com/track/1AfSmc6gyRXsRtwaS1b3za) | [Born Free](https://open.spotify.com/artist/3EcPBdr1pRn1jc3ePUL7qO) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 2 \(1972\-1977\)](https://open.spotify.com/album/6qCtWW3buD52Z2yRDSx0QF) | 2:36 |
 | 32 | [Your Love Is Too Cold](https://open.spotify.com/track/2droFTbnKBmZXNFqhwcbLy) | [Bobby Oroza](https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [This Love](https://open.spotify.com/album/39kK4zu9bciGPZnCCdGcQj) | 3:57 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 173 | [Never Gonna Let You Go](https://open.spotify.com/track/5LDysQO7wtl5rTdgCggcfj) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Never Gonna Let You Go b/w Everytime It Rains](https://open.spotify.com/album/3YZTPPJrD1pj8tg43O6n1a) | 2:31 |
 | 174 | [The Raft](https://open.spotify.com/track/34WtaNeWz7O2W9ivsCGAt1) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Dr\. Boondigga & The Big BW](https://open.spotify.com/album/5ynDiqo0C63GVjc9q1ijAO) | 7:11 |
 
-Snapshot ID: `MCw0YzU5MDliOWVjNGM2MDQzMThjYjc2YmE5MGZjNTRkMGMxN2IxMWQz`
+Snapshot ID: `MCw5MDRmYTM5NGNhYWM2NWQ3NjNkYWVlMzJlMDkyZmI3Mzk0MTcyYTZj`

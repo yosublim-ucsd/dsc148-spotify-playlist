@@ -290,7 +290,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 259250,
       "name": "ALL 4 U - Radio Edit",
       "url": "https://open.spotify.com/track/3jrVIohjKXXea0Of7LZcFx"
@@ -3196,7 +3196,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 231758,
       "name": "Falling Fast",
       "url": "https://open.spotify.com/track/2YIzh2AjR9d1A0fEZ2M66b"
@@ -4942,7 +4942,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 147665,
       "name": "Inhale, Exhale",
       "url": "https://open.spotify.com/track/0ym3MgItsOpHT9q5DDpXLo"
@@ -4998,6 +4998,32 @@
       "duration_ms": 207710,
       "name": "Inthecut",
       "url": "https://open.spotify.com/track/5kMJJgZUFjY2jA0usqjpYt"
+    },
+    {
+      "album": {
+        "name": "Into The Storm",
+        "url": "https://open.spotify.com/album/0O5qHNMceIAjbefcDNhrea"
+      },
+      "artists": [
+        {
+          "name": "XL the Band",
+          "url": "https://open.spotify.com/artist/5Dr4feymCwbAmK7bvXpSbl"
+        },
+        {
+          "name": "Swollen Members",
+          "url": "https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM"
+        },
+        {
+          "name": "Prevail",
+          "url": "https://open.spotify.com/artist/6tGVYlNv8xjbagVnIMyTqU"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229967,
+      "name": "Into The Storm",
+      "url": "https://open.spotify.com/track/6vEvwMUjgD7ory8TiEL3yu"
     },
     {
       "album": {
@@ -7335,6 +7361,28 @@
     },
     {
       "album": {
+        "name": "26% MIXTAPE",
+        "url": "https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi"
+      },
+      "artists": [
+        {
+          "name": "B-ahwe",
+          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
+        },
+        {
+          "name": "NEONE the Wonderer",
+          "url": "https://open.spotify.com/artist/72RMKo8u5oIuTtyE8HAv5E"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221409,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/5z9JBWHqRO5Wvz3cWwkCih"
+    },
+    {
+      "album": {
         "name": "HOOLIGAN",
         "url": "https://open.spotify.com/album/3byDnC0iRpI37tfzKBtJG8"
       },
@@ -8848,6 +8896,28 @@
       "duration_ms": 206637,
       "name": "Spirit Speak",
       "url": "https://open.spotify.com/track/1d5iBVkBll0xhKH0jk9qaj"
+    },
+    {
+      "album": {
+        "name": "stages",
+        "url": "https://open.spotify.com/album/2WknuPmwC4O32U20tfZlFZ"
+      },
+      "artists": [
+        {
+          "name": "namesbliss",
+          "url": "https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM"
+        },
+        {
+          "name": "Parkland",
+          "url": "https://open.spotify.com/artist/4XbBH4j7yy6wK4VNDB2voR"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104680,
+      "name": "stages",
+      "url": "https://open.spotify.com/track/7myaznBiseByhlshLINZY2"
     },
     {
       "album": {

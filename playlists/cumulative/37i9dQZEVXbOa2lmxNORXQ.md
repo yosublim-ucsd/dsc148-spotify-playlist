@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Colombia.
 
-807 songs - 1 day 20 hr 31 min
+808 songs - 1 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,6 +540,7 @@
 | [Otro Atardecer](https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:04 | 2022-05-07 | 2022-07-11 |
 | [Otro Día](https://open.spotify.com/track/4n4ByTYlWGgnXbGHLIzBFp) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Hecho En Medellín](https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh) | 2:56 | 2021-10-29 | 2021-10-30 |
 | [OTRO FILI](https://open.spotify.com/track/4iDhQFNWG6uHWi7LOKhmkP) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [OTRO FILI](https://open.spotify.com/album/5o6DNQH8TFROqbcvnikXkj) | 3:22 | 2021-06-13 | 2021-06-22 |
+| [Oye BB](https://open.spotify.com/track/2QftZPguVY5lKNwyXPDywB) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Oye BB](https://open.spotify.com/album/3dRkgg45xl85zTpkZvSqPV) | 2:27 | 2023-11-17 |  |
 | [Pa La Vuelta](https://open.spotify.com/track/60j2ltMI9yTYlyv6rhpCHn) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM), [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas) | [Pa La Vuelta](https://open.spotify.com/album/1BjIbXjHacTp8MBmroBu1s) | 3:04 | 2022-12-20 | 2022-12-29 |
 | [Pa' Guayarte](https://open.spotify.com/track/77J8t2pFJYI8k4tZgJ3ybY) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:17 | 2021-09-12 | 2021-09-13 |
 | [Pa' La Playa](https://open.spotify.com/track/21LcaVx8JTXBBN0Cthatx7) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Pa' La Playa](https://open.spotify.com/album/4p9kf9jzgpUEI9TfVr9Yfo) | 2:59 | 2023-07-04 | 2023-07-09 |
@@ -776,7 +777,7 @@
 | [Vidax](https://open.spotify.com/track/3VT3Pp9b6rnMBtCisGdspb) | [The Willsi](https://open.spotify.com/artist/4MbvF2hlj5qeYCY7QXPzvB), [Baskiat](https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU) | [Vidax](https://open.spotify.com/album/7HY9TCqPP7xQhyWoRpErhP) | 2:31 | 2022-11-02 | 2022-11-19 |
 | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR) | 3:07 | 2022-06-14 | 2022-08-25 |
 | [VIP Feat\. Totoy El Frio](https://open.spotify.com/track/37PGGNAF1QheeikFCvwqFI) | [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [VIP Feat\. Totoy El Frio](https://open.spotify.com/album/3gLMROXvvqfEly0VFvYQcB) | 4:05 | 2022-07-30 | 2022-08-01 |
-| [VISAJE](https://open.spotify.com/track/6P8exce0caeTZ1uaKkS2wT) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [VISAJE](https://open.spotify.com/album/3rmJz1xTuiVeUPGRwpfDmb) | 2:47 | 2023-11-11 |  |
+| [VISAJE](https://open.spotify.com/track/6P8exce0caeTZ1uaKkS2wT) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [VISAJE](https://open.spotify.com/album/3rmJz1xTuiVeUPGRwpfDmb) | 2:47 | 2023-11-11 | 2023-11-18 |
 | [VISTA AL MAR](https://open.spotify.com/track/5q86iSKkBtOoNkdgEDY5WV) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 3:00 | 2023-01-21 | 2023-03-15 |
 | [VISTA AL MAR](https://open.spotify.com/track/7iwJOi3hlMqZt6pj1sQOBj) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [VISTA AL MAR](https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW) | 3:00 | 2022-11-29 | 2023-01-24 |
 | [VOL 2](https://open.spotify.com/track/3YZyRP5bddC0iQTeALPQep) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:10 | 2023-09-30 | 2023-10-03 |

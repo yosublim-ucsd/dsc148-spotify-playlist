@@ -4,7 +4,7 @@
 
 > 150%
 
-284 songs - 12 hr 20 min
+285 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Bad Things \- Sped Up](https://open.spotify.com/track/01Ag73XJaADRBQZYfSArbV) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Bad Things \(Sped Up\)](https://open.spotify.com/album/5KagIh6QAHKnfcAQelJW5h) | 3:09 | 2023-07-28 | 2023-11-17 |
 | [BALENCI FLEECE](https://open.spotify.com/track/5znKhweP1MFPlZLCR4VFFA) | [LUC](https://open.spotify.com/artist/4eO5uWzhurHz9CBH42W2gc), [Mumble](https://open.spotify.com/artist/6BZVK0SCbzkU50rTlRKFHb) | [BALENCI FLEECE](https://open.spotify.com/album/1G3mW3uO9iwRhjuJFGCnhb) | 1:29 | 2023-02-10 | 2023-06-30 |
 | [Black Out Days \- Sped Up](https://open.spotify.com/track/2pXZpxidEYMMNUlPOBADGa) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [Esteve](https://open.spotify.com/artist/5vxQVYuckN4XHIB46zPvXy) | [Black Out Days \(Sped Up\)](https://open.spotify.com/album/6Ac5Ik66ewaCqABSkrKJal) | 3:01 | 2022-06-09 | 2023-03-22 |
-| [Blonde Chaya \- Sped up](https://open.spotify.com/track/30vcuzW3d8goJci3OBUNt9) | [Amaru](https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz), [Gringo Bamba](https://open.spotify.com/artist/26rewgSEfGzNpapjPw5VZh) | [Blonde Chaya \(Sped up\)](https://open.spotify.com/album/1AEkNrupHvnPkit7mBJUKY) | 3:01 | 2023-11-16 |  |
+| [Blonde Chaya \- Sped up](https://open.spotify.com/track/30vcuzW3d8goJci3OBUNt9) | [Amaru](https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz), [Gringo Bamba](https://open.spotify.com/artist/26rewgSEfGzNpapjPw5VZh) | [Blonde Chaya \(Sped up\)](https://open.spotify.com/album/1AEkNrupHvnPkit7mBJUKY) | 3:01 | 2023-11-16 | 2023-11-18 |
+| [Blonde Chaya \- Sped Up](https://open.spotify.com/track/6WbDwAoc5xr0kFflHZW0A4) | [Amaru](https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz), [Gringo Bamba](https://open.spotify.com/artist/26rewgSEfGzNpapjPw5VZh) | [Blonde Chaya \(Sped Up\)](https://open.spotify.com/album/6XFhvAghhMETC42WFMhRjc) | 3:01 | 2023-11-16 |  |
 | [Break it off \- Bonus](https://open.spotify.com/track/78ul3D77noQsYjSwvwiPU1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:36 | 2022-06-09 | 2023-05-06 |
 | [Cali4nia \(sped up\)](https://open.spotify.com/track/3xswzs1u96atRKqj1ciOpU) | [KANADA THE LOOP](https://open.spotify.com/artist/0memvAGubR0iSAZmXnY4ta) | [Cali4nia \(alt versions\)](https://open.spotify.com/album/4roCZCqx5Ua1T8xHm6bhJ7) | 2:37 | 2022-12-09 | 2022-12-14 |
 | [Can I Call You Tonight? \- sped\-up](https://open.spotify.com/track/24RbayMQzBnvvoYutYnryg) | [DJ Nightshade](https://open.spotify.com/artist/48ETWZKdDpQYa5OgNnNjHq) | [Fuzzybrain \(sped\-up\)](https://open.spotify.com/album/3DDSJ8PNqvNpRF0aFo7rxl) | 3:30 | 2022-09-09 | 2023-04-09 |
@@ -67,7 +68,7 @@
 | [dumb dumb \- sped up](https://open.spotify.com/track/2pJmSaPh5lMe4npn0Z6m8A) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [the rainbow cassette \(bonus\)](https://open.spotify.com/album/0SHvk3FxlmTOyldiqaVT8k) | 1:42 | 2022-09-30 |  |
 | [dumiri \(Sped Up\)](https://open.spotify.com/track/6a2CPvoOR6AYucxHxJhsNK) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys), [Nightcore Warped](https://open.spotify.com/artist/2jlZstmgG9Y4hoLMhfjOdu) | [dumiri \(Sped Up\)](https://open.spotify.com/album/1L1pI24Czropj5CRT8uYlm) | 2:38 | 2023-04-07 | 2023-05-20 |
 | [Duvet \- Sped Up Version](https://open.spotify.com/track/0wEeW8Bwr0fHXuS2zLiDXk) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Duvet](https://open.spotify.com/album/1Pui3ok2FUI74QId9sdmNY) | 3:02 | 2023-07-11 |  |
-| [Džanum \- Sped Up](https://open.spotify.com/track/0MsTPYCpMwTlhq3XrtRTT1) | [Teya Dora](https://open.spotify.com/artist/5japL3H3OQvvJfhtsNh3eU) | [Dzanum \- Sped up](https://open.spotify.com/album/2vuMXOH1OPzMrMxInxmnaB) | 2:17 | 2023-11-16 |  |
+| [Džanum \- Sped Up](https://open.spotify.com/track/0MsTPYCpMwTlhq3XrtRTT1) | [Teya Dora](https://open.spotify.com/artist/5japL3H3OQvvJfhtsNh3eU) | [Džanum \- Sped up](https://open.spotify.com/album/2vuMXOH1OPzMrMxInxmnaB) | 2:17 | 2023-11-16 |  |
 | [ecstacy](https://open.spotify.com/track/2CIlKt4lRwAAUx5fYgCBxN) | [SUICIDAL\-IDOL](https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI) | [ecstacy](https://open.spotify.com/album/1xCyOqwylZT5Syi5LwHF4q) | 1:36 | 2023-09-26 |  |
 | [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 | 2023-04-11 |  |
 | [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 | 2022-11-28 | 2023-04-16 |

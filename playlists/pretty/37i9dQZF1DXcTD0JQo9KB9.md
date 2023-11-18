@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 
 > 每人都有講唔出嘅難處同感受，但記住：我哋有彼此。見字撐住啊！
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,599 likes - 106 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,671 likes - 106 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 102 | [白日夢一場](https://open.spotify.com/track/4yA1wA3ncst6Ihc2dxmZ49) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [淺藍色的號角](https://open.spotify.com/album/61MuBBu3HpPKGngw0Sa3Ha) | 3:38 |
 | 103 | [若世界在明日結束](https://open.spotify.com/track/6TW6Q5BnQph1zkR5shovqx) | [粉紅A](https://open.spotify.com/artist/2EzbvLK5Q66fXB66NRfs8C) | [為藝術犧牲](https://open.spotify.com/album/5td7IpItIQBQbVzBFeXCu6) | 4:31 |
 | 104 | [見字飲水](https://open.spotify.com/track/4qVOU5UXelKdNIiYdosFS4) | [Lam1Hey](https://open.spotify.com/artist/5VYb36tskZeBekEyPPgEBV) | [見字飲水](https://open.spotify.com/album/29sqfKwN73ZQbOWAliIFuR) | 3:11 |
-| 105 | [水花四濺](https://open.spotify.com/track/6W8mNQAQ1KCImOwk2iCdwJ) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [Hocc2](https://open.spotify.com/album/1PdlpIshEOqK48gms7JFd7) | 4:16 |
+| 105 | [水花四濺](https://open.spotify.com/track/42DleX9v5bbIzWJDvkiYRo) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [廣東勵志歌集](https://open.spotify.com/album/0E59wmj03ppImPuzwE2onD) | 4:17 |
 | 106 | [哲學家](https://open.spotify.com/track/1wdPW3bn0ysQVdRhWET6XL) | [Candy Lo](https://open.spotify.com/artist/51ZbCFgOspWvhBjd1DUYEV) | [哲學家](https://open.spotify.com/album/3bI27pOCKevhTpBHTDPTdW) | 4:34 |
 
-Snapshot ID: `MCw0YzMzOTFkZjFlNDI5OTFlOTYyZmFiMzBhZWY0NDUxZTQ5NTBmNTAz`
+Snapshot ID: `MCxmM2VlYTVkMGI1Y2NjNjA4ZDljZTEzZjVlMTU3Y2JiNzQ2YjJiODVk`

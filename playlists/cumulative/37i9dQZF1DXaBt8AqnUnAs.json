@@ -239,6 +239,28 @@
     },
     {
       "album": {
+        "name": "Al\u00f4 Amor",
+        "url": "https://open.spotify.com/album/7ci8vvRmsY3zeRaIkVMpFF"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "TR3VAS",
+          "url": "https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Al\u00f4 Amor",
+      "url": "https://open.spotify.com/track/0bOPEzKI2S1jCh33GGkLY4"
+    },
+    {
+      "album": {
         "name": "Amizade Colorida",
         "url": "https://open.spotify.com/album/7hznLbksGP4RpBEPGNAkd2"
       },
@@ -1249,6 +1271,28 @@
     },
     {
       "album": {
+        "name": "Medo \u00c9 S\u00f3 Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu"
+      },
+      "artists": [
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116005,
+      "name": "Cai\u00e7ara",
+      "url": "https://open.spotify.com/track/5Ql31Bbt41b0Tu5EFCluSt"
+    },
+    {
+      "album": {
         "name": "Calma, Beb\u00ea!",
         "url": "https://open.spotify.com/album/1r9wCZceI3QoeuSU2ledD1"
       },
@@ -1264,7 +1308,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 159529,
       "name": "Calma, Beb\u00ea!",
       "url": "https://open.spotify.com/track/0dEaaQY4pj0DB89Nx51OVJ"
@@ -1688,7 +1732,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 189845,
       "name": "Como Sua Vida Anda",
       "url": "https://open.spotify.com/track/3V3hYHmZFVXmAoxYFPvfc6"
@@ -1960,6 +2004,76 @@
       "duration_ms": 184363,
       "name": "Deixa Rolar",
       "url": "https://open.spotify.com/track/4FDp39kZIKmTFPbk3H1Yyj"
+    },
+    {
+      "album": {
+        "name": "Dejavu",
+        "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Felipe Rosa",
+          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
+    },
+    {
+      "album": {
+        "name": "EU TIVE UM SONHO",
+        "url": "https://open.spotify.com/album/12QqwradopCY1XRLm866Aw"
+      },
+      "artists": [
+        {
+          "name": "tchelo rodrigues",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173192,
+      "name": "DELINEADO",
+      "url": "https://open.spotify.com/track/2CJQjO1SZDNAM2GN6BxWiP"
+    },
+    {
+      "album": {
+        "name": "Depois das 3",
+        "url": "https://open.spotify.com/album/3eLUNYjIAwW7lIlt8iln67"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Duarte D.A.T",
+          "url": "https://open.spotify.com/artist/0jxleHFjX2N8LxSDZ1vvlM"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120923,
+      "name": "Depois das 3",
+      "url": "https://open.spotify.com/track/00dVJecRfStHBFtlP22iqL"
     },
     {
       "album": {
@@ -4364,7 +4478,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 189295,
       "name": "Lulu Santos",
       "url": "https://open.spotify.com/track/5GwnZRiw7DdrWASBuWAHy9"
@@ -4718,7 +4832,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 141615,
       "name": "Mas Existe um Lugar - speed",
       "url": "https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a"
@@ -4898,6 +5012,32 @@
       "duration_ms": 229326,
       "name": "Melhor S\u00f3",
       "url": "https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a"
+    },
+    {
+      "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/2dLZ8uPEO7ZME7WaAu2mPC"
+      },
+      "artists": [
+        {
+          "name": "Zero Pacceli",
+          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
+        },
+        {
+          "name": "\u00e9oTGL",
+          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
+        },
+        {
+          "name": "Wav",
+          "url": "https://open.spotify.com/artist/7iLM6Q1zaaBEfulJi73b69"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152578,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/76TGI32KPntOenqouYugE9"
     },
     {
       "album": {
@@ -5662,7 +5802,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 130746,
       "name": "Nunca Mais",
       "url": "https://open.spotify.com/track/0rhO3XOqZ8GznWntfhLIPu"
@@ -5932,7 +6072,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 180512,
       "name": "O Problema",
       "url": "https://open.spotify.com/track/5CbrGAsgdSMcyEr9gtciil"
@@ -7947,6 +8087,36 @@
     },
     {
       "album": {
+        "name": "BRIME!",
+        "url": "https://open.spotify.com/album/4SthjdqHeQOrm8JfZIq979"
+      },
+      "artists": [
+        {
+          "name": "Febem",
+          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
+        },
+        {
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        },
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222896,
+      "name": "SOHO (feat. Luccas Carlos)",
+      "url": "https://open.spotify.com/track/0xDsijdF8yTUVIqPowC7iO"
+    },
+    {
+      "album": {
         "name": "Som Intrigante",
         "url": "https://open.spotify.com/album/32GX2bFYCc5SvXPDG3rNOO"
       },
@@ -8222,7 +8392,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 144822,
       "name": "TE ENCONTREI",
       "url": "https://open.spotify.com/track/5H3m39zgDfXU2bFVA3e2YQ"

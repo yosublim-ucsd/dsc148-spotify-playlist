@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Jack Harlow, Kodak Black, Lil Durk and The Kid LAROI!",
+  "description": "Today's Hip-Hop with 2 Chainz, Lil Wayne, Drake and Jack Harlow!",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -1828,6 +1828,32 @@
       "duration_ms": 151272,
       "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
       "url": "https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e"
+    },
+    {
+      "album": {
+        "name": "Welcome 2 Collegrove",
+        "url": "https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199597,
+      "name": "Big Diamonds (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/5FDc4ljIWyW8wClzt54dhs"
     },
     {
       "album": {
@@ -3695,6 +3721,28 @@
     },
     {
       "album": {
+        "name": "Covered in Ice",
+        "url": "https://open.spotify.com/album/5jRNG9CAXduWmj4NrDQs5H"
+      },
+      "artists": [
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169588,
+      "name": "Covered in Ice",
+      "url": "https://open.spotify.com/track/01tr4fGvHSR96HkrNrbFS0"
+    },
+    {
+      "album": {
         "name": "Creepers",
         "url": "https://open.spotify.com/album/1MkTOfJ6KeXotp6u2QRqzt"
       },
@@ -5033,6 +5081,28 @@
     },
     {
       "album": {
+        "name": "For All The Dogs Scary Hours Edition",
+        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227692,
+      "name": "Evil Ways (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa"
+    },
+    {
+      "album": {
         "name": "Anyways, Life\u2019s Great\u2026Bonus Edition",
         "url": "https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf"
       },
@@ -5983,6 +6053,28 @@
     },
     {
       "album": {
+        "name": "FREAK (feat. Freddie Dredd)",
+        "url": "https://open.spotify.com/album/3piuGUdzaWK8FRwh3MzLUa"
+      },
+      "artists": [
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        },
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140069,
+      "name": "FREAK (feat. Freddie Dredd)",
+      "url": "https://open.spotify.com/track/3N1ze49Sbg9KF3DcxqTv37"
+    },
+    {
+      "album": {
         "name": "Can't Make This Shit Up",
         "url": "https://open.spotify.com/album/6OOqyEEPgcF7ofECJn45jL"
       },
@@ -6108,7 +6200,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 204800,
       "name": "From The Hood",
       "url": "https://open.spotify.com/track/7jVMNHk15YGRHRXYFoCXK8"
@@ -11054,7 +11146,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 133286,
       "name": "MY DAY IS RUINED !",
       "url": "https://open.spotify.com/track/4vjZMm2Dz7sxgLfNWpiwTG"
@@ -12353,6 +12445,24 @@
     },
     {
       "album": {
+        "name": "oyabun",
+        "url": "https://open.spotify.com/album/1VawFFfcDx2LHBJCxW3FS0"
+      },
+      "artists": [
+        {
+          "name": "FRVRFRIDAY",
+          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138198,
+      "name": "oyabun",
+      "url": "https://open.spotify.com/track/71aPPvFrFAiveqBXUqlt8E"
+    },
+    {
+      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -13160,7 +13270,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 185453,
       "name": "Presha (with Lil Wayne)",
       "url": "https://open.spotify.com/track/6N7TGPYfGP2oxiy9Cpaz9G"
@@ -14376,7 +14486,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 193426,
       "name": "Say Too Much",
       "url": "https://open.spotify.com/track/3ivlOgTCKS7zk1lXlZsebF"
@@ -15220,7 +15330,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 192647,
       "name": "SORRY",
       "url": "https://open.spotify.com/track/5icZ87FcdUCMYAp9VXWdd9"
@@ -16846,7 +16956,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 164795,
       "name": "Tip Toes",
       "url": "https://open.spotify.com/track/2AQQu9575Fa8o8tkbSrFoG"

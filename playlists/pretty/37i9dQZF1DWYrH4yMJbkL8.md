@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Jeremy Dutcher.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,866 likes - 33 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,908 likes - 33 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 | 32 | [Duohta Lieđit](https://open.spotify.com/track/1gbwDV4K1HTAomf2PqW1Dj) | [Lávre](https://open.spotify.com/artist/3j4VmDsP3MHV0tBCKAhOIk) | [Duohta Lieđit](https://open.spotify.com/album/65bpAyvh4m4lijSLzTEwFn) | 3:50 |
 | 33 | [Sakom](https://open.spotify.com/track/3WY6yYsdDJH1JpqzJDXdft) | [Jeremy Dutcher](https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f) | [Motewolonuwok](https://open.spotify.com/album/5evC3RTGfXXhUekGgGSWuD) | 2:01 |
 
-Snapshot ID: `MCwxMTkxOGUzODExYTJhMWJhM2QyNDA4NjhiNzQ2NzI3YjExMDNlMDU5`
+Snapshot ID: `MCxmNGEwZDc0MDljM2EwNmQ3MjRlMmUyYzQxYWZkMjUyZDkzOGQ3ZjJk`

@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-370 songs - 1 day 10 hr 25 min
+371 songs - 1 day 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Dreams Of You \(feat\. Rae Morris\)](https://open.spotify.com/track/6pu5jQqenr37n0z6eBKOh0) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Dreams Of You \(feat\. Rae Morris\)](https://open.spotify.com/album/26et8vS0ynfWtbIFKKtZi4) | 4:51 | 2021-11-26 | 2022-01-21 |
 | [Dreamy Rhodes](https://open.spotify.com/track/1o0SAhxNL4fDKyICLKMzTv) | [Elisa Elisa](https://open.spotify.com/artist/2Fxcs2AZB1EkSjLon18RHI) | [Tropicao](https://open.spotify.com/album/5r04ubtq9l8z8VS4UrbJUr) | 6:50 | 2022-01-14 | 2022-06-13 |
 | [Drive](https://open.spotify.com/track/2tjWqC7s6tKPl1nBFuHX0m) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Le Funk](https://open.spotify.com/album/2zTfxzoPO5BWpg5FVVM0ec) | 3:59 | 2023-02-05 | 2023-11-04 |
+| [Drive](https://open.spotify.com/track/61k7UiVsYL4S19A2XgJYhi) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [Le Funk](https://open.spotify.com/album/60BqgLIFbLMXQTBiTQqiyp) | 3:59 | 2023-11-14 |  |
 | [Drone Me Up, Flashy \- &ME Remix](https://open.spotify.com/track/6iNhl5IcRJfm3F42plOPA4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Sophia Kennedy](https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5) | [Knock Knock Remixes](https://open.spotify.com/album/2juRFnVLI1Zo3BlVXIa7T4) | 9:06 | 2022-05-03 | 2022-08-13 |
 | [Easy on You](https://open.spotify.com/track/6WIF0BMg7kr4dbqgrPYQ4T) | [Marcus Cito](https://open.spotify.com/artist/3r26IN2ktuEyJs4hUoOlzC) | [Easy on You](https://open.spotify.com/album/0irWZNe7kJgU49Z7t7J6B4) | 3:09 | 2021-11-26 | 2022-08-13 |
 | [Egyptian Sun](https://open.spotify.com/track/0Y3xTcu928EXNhF5yuPOvH) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Egyptian Sun](https://open.spotify.com/album/1S9zeICRVy9V9DxSH0XAaa) | 4:17 | 2023-06-30 | 2023-08-03 |
@@ -226,7 +227,7 @@
 | [Never Mind Me](https://open.spotify.com/track/5v1THpvivshw6seLfT9mp2) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Never Mind Me](https://open.spotify.com/album/20NtOTJvWrSdMQ9N75Xllk) | 3:21 | 2022-08-12 | 2022-09-03 |
 | [Never Sleep Again \- Keinemusik Remix](https://open.spotify.com/track/3LwZ0ernvIRIkhdHgAYY4q) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [Nobody Is Not Loved, Remixes, Pt\. 3](https://open.spotify.com/album/5bFS2PZfzq8CGP58M23ktV) | 7:12 | 2022-06-24 | 2022-10-01 |
 | [Neverland \- Aparde Remix](https://open.spotify.com/track/6Z5NPPpYnWRxGHQyWz2bPx) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96), [Aparde](https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS) | [Stars Wrapped In Skin EP](https://open.spotify.com/album/493mL9Bv6rYSOjTj8CLFJr) | 6:27 | 2021-11-26 | 2023-04-29 |
-| [Nice to Meet You](https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Nice to Meet You](https://open.spotify.com/album/3s82Nf6qJ4CmQCvMXkJ2Y6) | 6:13 | 2022-11-25 |  |
+| [Nice to Meet You](https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Nice to Meet You](https://open.spotify.com/album/3s82Nf6qJ4CmQCvMXkJ2Y6) | 6:13 | 2022-11-25 | 2023-11-18 |
 | [Nice to Meet You](https://open.spotify.com/track/43wAEql15k2lLyDC568uTE) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Nice to Meet You](https://open.spotify.com/album/2Kv7OqpLhnBEEuYVXGZb4Y) | 6:13 | 2022-09-30 | 2022-12-15 |
 | [Night Jaguars](https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Heaven Or Hell](https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY) | 3:52 | 2022-04-04 | 2023-09-05 |
 | [Nightshift \- Enduro Disco Noir Mix](https://open.spotify.com/track/5mOSdL0j3yjaBhteIFdmbS) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Fiora](https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM), [Enduro Disco](https://open.spotify.com/artist/0r9Ob20iuGWepC4KwjTNbj) | [Nightshift \(Enduro Disco Noir Mix\)](https://open.spotify.com/album/7GuzQOgG0RxMZGZzyLNmNz) | 3:32 | 2022-04-04 | 2022-07-29 |

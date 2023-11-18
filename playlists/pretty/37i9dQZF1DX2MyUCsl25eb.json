@@ -1,13 +1,81 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 983577,
+  "num_followers": 983600,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmZhZjk1OWFmM2YwNjM5ZTY3YmIyZDhmMWFhYWU3YjEwNTEwYzll",
+  "snapshot_id": "MCw4M2I1ZDExM2UwMmQ2MGIzMWU4N2ExY2Q5M2YyYmEyNDNmYjYxMGRl",
   "tracks": [
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Loved",
+        "url": "https://open.spotify.com/album/18tIPlqKkCdABDtKridZP5"
+      },
+      "artists": [
+        {
+          "name": "Leslie Odom Jr.",
+          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
+        }
+      ],
+      "duration_ms": 194772,
+      "name": "Loved",
+      "url": "https://open.spotify.com/track/5TrIYP0VcwpwSs2Qk9G8Rn"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Some Things I'll Never Know (feat. Maren Morris)",
+        "url": "https://open.spotify.com/album/1iUKdH9SrtKcSaCbIVcrNj"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 242317,
+      "name": "Some Things I'll Never Know (feat. Maren Morris)",
+      "url": "https://open.spotify.com/track/3oSGigVd5RezNkTV9PRGmL"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Two Hearts",
+        "url": "https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 246796,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/51VWvFuTcJuqfvms0SLXQr"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 165230,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/3Ku8Zc9cnCkKwvXs7qErVQ"
+    },
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
@@ -83,26 +151,6 @@
       "duration_ms": 234420,
       "name": "Realized",
       "url": "https://open.spotify.com/track/7Fj4rj1zxtabjjydlUNXll"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Show Me",
-        "url": "https://open.spotify.com/album/1Yfyyfp4la2cNoonBHmoxr"
-      },
-      "artists": [
-        {
-          "name": "Leslie Odom Jr.",
-          "url": "https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN"
-        },
-        {
-          "name": "Tatiana Marie Clark",
-          "url": "https://open.spotify.com/artist/2ovAB32IEY5k4Mgdl5eSfq"
-        }
-      ],
-      "duration_ms": 207878,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/3g2fynyyFDpBjQhECDPkpp"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -183,22 +231,6 @@
       "duration_ms": 134268,
       "name": "Before We Step Inside",
       "url": "https://open.spotify.com/track/6bxfwQ5z8qe2uoEOiO35YG"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Sunday",
-        "url": "https://open.spotify.com/album/34Pax5tBAPlhxGXfmfypNO"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "Sunday",
-      "url": "https://open.spotify.com/track/7xxmW8ieHp9YnACGc0PfNz"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -460,7 +492,7 @@
       "added_at": "2023-09-15 04:01:00",
       "album": {
         "name": "The Things I Left Unsaid",
-        "url": "https://open.spotify.com/album/2MbohPX2P1ms4RjAo9X0iW"
+        "url": "https://open.spotify.com/album/0x68nTDfyciGgU7UXNmm44"
       },
       "artists": [
         {
@@ -470,13 +502,13 @@
       ],
       "duration_ms": 184746,
       "name": "Empty Room",
-      "url": "https://open.spotify.com/track/3rhWu9LLv0LleWbO9LuQrO"
+      "url": "https://open.spotify.com/track/56s9OQ9s0YX3U0JncipqLU"
     },
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
         "name": "Love Lines",
-        "url": "https://open.spotify.com/album/1FY6Ov9aGkNEhXa7GbeRwM"
+        "url": "https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL"
       },
       "artists": [
         {
@@ -486,7 +518,7 @@
       ],
       "duration_ms": 210980,
       "name": "Dayglow",
-      "url": "https://open.spotify.com/track/0klBAxKxrNhC2ED94AKa5n"
+      "url": "https://open.spotify.com/track/4YAaaOovDd3v20msKGvqdp"
     },
     {
       "added_at": "2023-08-18 04:01:00",
@@ -1445,22 +1477,6 @@
       "url": "https://open.spotify.com/track/1yVG9iuNxfOe30LRKy1dJf"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "A Year Ago",
-        "url": "https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 170830,
-      "name": "A Year Ago",
-      "url": "https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD"
-    },
-    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "How Long (Single Version)",
@@ -1727,22 +1743,6 @@
       "duration_ms": 212991,
       "name": "Sandman",
       "url": "https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Far Too Much (Edit)",
-        "url": "https://open.spotify.com/album/3lX0OPG0tJAgcNjsUCmKm2"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        }
-      ],
-      "duration_ms": 195945,
-      "name": "Far Too Much - Edit",
-      "url": "https://open.spotify.com/track/7IwYXEY1pLVnoWlmvdmMU1"
     }
   ],
   "unique_name": "Morning Commute",

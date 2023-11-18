@@ -2,9 +2,9 @@
 
 ### [Indie Chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Todo el sonido indie de Chile\. Foto: Fármacos
+> Todo el sonido indie de Chile\. Foto: Pedropiedra
 
-431 songs - 1 day 1 hr 57 min
+433 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [Los chicos están tristes](https://open.spotify.com/track/7IrF5Ej7qYZrWnN5gofepC) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [Los chicos están tristes](https://open.spotify.com/album/4q5k1NJ7LYj5efxUatjm7L) | 3:04 | 2022-05-06 | 2023-05-13 |
 | [Lunachena](https://open.spotify.com/track/3IrwrEJzH75G8Iitfkrzhw) | [Tu Temple](https://open.spotify.com/artist/5s3HMKPs4Jn0nWvkXXASuF) | [Lunachena](https://open.spotify.com/album/2qTJJyW8DpSmZAzCOzsv3d) | 4:17 | 2023-09-29 | 2023-10-13 |
 | [Madre Mía](https://open.spotify.com/track/1KfTE7KeZzP9re6Z5iVwTT) | [Oye, Elizabeth](https://open.spotify.com/artist/38qv984wcg1RA24MVl4BVP) | [Madre Mía](https://open.spotify.com/album/71oVyBiwTfXKZJ4vd7Cg0W) | 3:15 | 2022-04-15 | 2022-12-10 |
-| [Magnetismo](https://open.spotify.com/track/6Ng7uPbsuGEXmKWvgV7x9I) | [Makoli](https://open.spotify.com/artist/16sCjMefLVg125Gu1Eo8YY), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [CASI PÚRPURA](https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ) | 2:48 | 2023-03-10 |  |
+| [Magnetismo](https://open.spotify.com/track/6Ng7uPbsuGEXmKWvgV7x9I) | [Makoli](https://open.spotify.com/artist/16sCjMefLVg125Gu1Eo8YY), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [CASI PÚRPURA](https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ) | 2:48 | 2023-03-10 | 2023-11-18 |
 | [mala](https://open.spotify.com/track/0NizLHiBid5U3tEdcfMD1b) | [carla martinez](https://open.spotify.com/artist/61boNdzdBfHexUTjbd1mrg) | [mala](https://open.spotify.com/album/3fV24ioWRPE5jfTlwhZiLj) | 3:26 | 2023-07-07 | 2023-08-24 |
 | [mala idea](https://open.spotify.com/track/5ZSzF6bKMt057Uv4pSOHqY) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [mala idea](https://open.spotify.com/album/16ye3Pgj6dZgviuOtoR60Z) | 3:43 | 2023-05-12 | 2023-11-17 |
 | [Maldita Canción de Amor](https://open.spotify.com/track/5Y88RAG3qCTgAZRQiJclRN) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [Maldita Canción de Amor](https://open.spotify.com/album/30Nej0tlaXSbJrahd70YLm) | 3:54 | 2022-04-15 | 2022-12-10 |
@@ -337,6 +337,7 @@
 | [Ruinas Circulares](https://open.spotify.com/track/0sMqiuWolXiUdkmHpnMqgL) | [Cuáles i Quiénes](https://open.spotify.com/artist/7nKsmOz9yJIo3w0SAD0qBq) | [Mañana Siempre es Tarde!](https://open.spotify.com/album/1XovlbyG0ylD7ODD3POfMY) | 5:00 | 2022-04-15 | 2022-07-29 |
 | [Ruiseñor](https://open.spotify.com/track/40GU1Arl19P6U2bO25gOq8) | [Elegía al Atardecer](https://open.spotify.com/artist/4bx2oTuOp3BSx0xlnEEzn7) | [Ruiseñor](https://open.spotify.com/album/3rtVmKiXgVGkzMz4jdhVJ3) | 3:18 | 2022-04-15 | 2022-07-28 |
 | [Río](https://open.spotify.com/track/3fOK6EErTZPEPYfcUP88H9) | [Los Mil Jinetes](https://open.spotify.com/artist/5H8rz8dQLNWvaHojkHyQMn) | [Río](https://open.spotify.com/album/35y2ja42BcPxY5P98sARzo) | 3:25 | 2022-04-15 | 2022-07-25 |
+| [Sabes](https://open.spotify.com/track/1zvFHmZkxyxUOpAaMRi2qm) | [Ciudad Nómade](https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA) | [Espiral, Pt\. 1](https://open.spotify.com/album/77BAbdA4KSnWqkdBGFxFft) | 2:54 | 2023-11-17 |  |
 | [Sabes](https://open.spotify.com/track/7ldFXJQVQkyE4sYc3YJf4i) | [Los Tristes](https://open.spotify.com/artist/5QFSZNKhWVCHkA0ZlSYrbK) | [Sabes](https://open.spotify.com/album/52antku4m9Xw7CZceClUIg) | 3:35 | 2022-04-15 | 2022-07-27 |
 | [Sal \- Reversión](https://open.spotify.com/track/3ftpY64u6Vgv6KzerJJs8U) | [Pancho Gana](https://open.spotify.com/artist/4I9qrx9Lb6RDDKkMgXd1yM), [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [Sal \(Reversión\)](https://open.spotify.com/album/5ROTJPrKaWvaKNkIRn1ZgL) | 2:32 | 2023-02-24 | 2023-06-03 |
 | [Salvaje y tierno](https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Al calor de un sol que acaba de morir](https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9) | 3:07 | 2023-09-29 |  |
@@ -411,7 +412,8 @@
 | [Un X100To](https://open.spotify.com/track/3qqpcNOdikbvhBHfuNmNv0) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Un X100To](https://open.spotify.com/album/3qFH6xUlirc58HvKzoaQnU) | 2:47 | 2023-08-11 |  |
 | [Un Último Encuentro](https://open.spotify.com/track/7c4UxItuj8p1l6ZOhWSTMa) | [Lomberr](https://open.spotify.com/artist/0Tfp8FQQcN3bRpFI5J70Rz) | [Un Último Encuentro](https://open.spotify.com/album/5IikbrVGPIEv6tnCr2tO76) | 5:37 | 2022-04-15 | 2022-07-29 |
 | [Una Calma](https://open.spotify.com/track/5nQj5zdIaN4saUEfwMTUWF) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Una Calma](https://open.spotify.com/album/42hxDhsnYMq64qqGxL6nr1) | 4:31 | 2022-04-15 | 2022-11-29 |
-| [Una Mitad de Mí](https://open.spotify.com/track/38bIIeg1Dcjnry2PhkvPdo) | [Era de Oro](https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [Una Mitad de Mí](https://open.spotify.com/album/5CqhXaK5UZoArCo1xMFhZ8) | 3:41 | 2023-01-27 |  |
+| [Una Mitad de Mí](https://open.spotify.com/track/38bIIeg1Dcjnry2PhkvPdo) | [Era de Oro](https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [Una Mitad de Mí](https://open.spotify.com/album/5CqhXaK5UZoArCo1xMFhZ8) | 3:41 | 2023-01-27 | 2023-11-18 |
+| [VALOR](https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [VALOR](https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s) | 3:43 | 2023-11-17 |  |
 | [Vamos a Almorzar](https://open.spotify.com/track/1Exy9Y5em8PcfNIDs41nS5) | [Colombina Parra](https://open.spotify.com/artist/1s60AzQYm7kiHJJoqx7nDk) | [Flores Como Gato](https://open.spotify.com/album/2qQjsD0f7yHuRHoVj1LX4B) | 3:12 | 2022-04-15 | 2022-07-21 |
 | [Vaso de agua](https://open.spotify.com/track/1ZWArrmgFGakWumTH24Isn) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Vaso de agua](https://open.spotify.com/album/3J5DPUm1L0l2aW28N4K5Bh) | 3:42 | 2023-05-26 | 2023-07-07 |
 | [Venenos](https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3) | [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [El día libre de Polux](https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do) | 3:49 | 2023-03-31 | 2023-09-30 |

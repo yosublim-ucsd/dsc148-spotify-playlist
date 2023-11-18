@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Tous vos Hits Disney pr\u00e9f\u00e9r\u00e9s, y compris les chansons de La Petite Sir\u00e8ne.",
+  "description": "Tous vos Hits Disney pr\u00e9f\u00e9r\u00e9s, y compris les chansons de \"Wish: Asha et la bonne \u00e9toile\".",
   "name": "Disney Hits France",
   "tracks": [
     {
@@ -586,6 +586,24 @@
       "duration_ms": 177573,
       "name": "J'en ai r\u00eav\u00e9",
       "url": "https://open.spotify.com/track/75yUhJ5RQVY3NrWarzaoB9"
+    },
+    {
+      "album": {
+        "name": "Je fais le v\u0153u (De \"Wish: Asha et la bonne \u00e9toile\")",
+        "url": "https://open.spotify.com/album/4AQumbdEn2H943eOL1TBOu"
+      },
+      "artists": [
+        {
+          "name": "Oc\u00e9ane Demontis",
+          "url": "https://open.spotify.com/artist/5hq8TtVzFt7DOL4j5zWrHs"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205480,
+      "name": "Je fais le v\u0153u - De \"Wish: Asha et la bonne \u00e9toile\"",
+      "url": "https://open.spotify.com/track/58VPveIauJU5sF9gLvfBHW"
     },
     {
       "album": {

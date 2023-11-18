@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Alusa Why Are You Topless?",
+        "url": "https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281860,
+      "name": "Chikwere",
+      "url": "https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu"
+    },
+    {
+      "album": {
         "name": "Ex Chronicles",
         "url": "https://open.spotify.com/album/1SWq4D1CuKTVaURbKLOIQa"
       },
@@ -234,7 +252,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 212508,
       "name": "Enough",
       "url": "https://open.spotify.com/track/2dDXkA6w6uq2PIlJwnSfjy"

@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-682 songs - 1 day 6 hr 31 min
+683 songs - 1 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [HANABI](https://open.spotify.com/track/6sRHCRBuZIRGJtdwXDk2Mc) | [Takashi Kobayashi](https://open.spotify.com/artist/1mbhGqrhvIKVy2h9s9ulvw) | [HANABI](https://open.spotify.com/album/3JnH9rEoWKbQSzjebIU5ZP) | 2:22 | 2022-07-07 | 2022-07-23 |
 | [Hapuna](https://open.spotify.com/track/1iJ2MDg18Ufor1crX5TDFy) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Hapuna](https://open.spotify.com/album/1Y1xcpOvUfv6jWhxoQGmmw) | 2:58 | 2022-05-19 | 2023-10-20 |
 | [hario island](https://open.spotify.com/track/4pwrnZ6t6KwUgUoQiBe70M) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [hario island](https://open.spotify.com/album/6t6geCz3BtiM0WXFNeWGyY) | 2:36 | 2023-01-19 | 2023-02-05 |
+| [HARU](https://open.spotify.com/track/5JhwlmQCauaK3cxXXRo5wz) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [HARU](https://open.spotify.com/album/5A2GCI8off7bbcyfqafcuu) | 5:11 | 2023-11-16 |  |
 | [harukaze](https://open.spotify.com/track/0XflCyWk28wErpgiBPnNTK) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [harukaze](https://open.spotify.com/album/3pur6jiK9PCVKajSXvlWjJ) | 2:33 | 2023-03-02 | 2023-04-29 |
 | [Harukaze](https://open.spotify.com/track/4M9XmxpfF1QtUpZWpFwcez) | [Sorto & Nodo](https://open.spotify.com/artist/4SihmxdDSTESQsCMfk121P) | [彩雲](https://open.spotify.com/album/2da4qmcNbV330XtKdJthX5) | 6:04 | 2023-06-13 | 2023-09-29 |
 | [Heavy Rain](https://open.spotify.com/track/0D7VlZ5PRHvjGMARkvwyne) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [Heavy Rain](https://open.spotify.com/album/06Q46ZGejs53a5s5AxRC3c) | 1:38 | 2023-05-11 | 2023-05-13 |
@@ -619,7 +620,7 @@
 | [Tokyo State of Mind \- Instrumental](https://open.spotify.com/track/4jRYRpw7YTLPrxrRqxnowU) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [Beats Only Part.Ⅰ](https://open.spotify.com/album/5S7d7U3lrxUS6tZwwSnn4P) | 2:13 | 2021-12-23 | 2022-07-27 |
 | [tombi](https://open.spotify.com/track/7D9fL5OnKFxUG9e5PMNBF1) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [tombi](https://open.spotify.com/album/4IF7VEO4FXEzQ8t04qI6xz) | 2:20 | 2023-11-09 |  |
 | [tomoshibi](https://open.spotify.com/track/7H26mrFeD2oE8cJu0BroBy) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [tomoshibi](https://open.spotify.com/album/1OzUBhA1PotfdYvF4ED2LP) | 3:07 | 2022-08-11 | 2023-05-05 |
-| [Toucan](https://open.spotify.com/track/2znBuVaZLvA1Kn9xL5tVnT) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0) | [Toucan](https://open.spotify.com/album/1AybPKANweher1ysHuXOC7) | 3:34 | 2022-01-13 |  |
+| [Toucan](https://open.spotify.com/track/2znBuVaZLvA1Kn9xL5tVnT) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0) | [Toucan](https://open.spotify.com/album/1AybPKANweher1ysHuXOC7) | 3:34 | 2022-01-13 | 2023-11-18 |
 | [touch](https://open.spotify.com/track/1tZt5VNrrJBjld65OiZGKc) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [touch](https://open.spotify.com/album/6c8K3yA92WDlMN6WguocxP) | 1:28 | 2023-09-28 | 2023-09-30 |
 | [touch](https://open.spotify.com/track/4N9k6Nklzns7QzslAABaTq) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [touch](https://open.spotify.com/album/0Y8r76clygH0KolOk3ohpR) | 1:28 | 2023-09-28 |  |
 | [Toy Coffee](https://open.spotify.com/track/7JpvzCoiFbTGglpNVDG5GQ) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Toy Coffee](https://open.spotify.com/album/3r1bAeGCOzZhBzeYRhYTzY) | 2:08 | 2021-12-23 | 2022-07-01 |

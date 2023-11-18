@@ -3160,7 +3160,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 170995,
       "name": "Closer to You (feat. Major Lazer)",
       "url": "https://open.spotify.com/track/06Qo2fYR2KS1F7bL338iVT"
@@ -3592,7 +3592,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 252488,
       "name": "Da Elly 7sal - \u062f\u0627 \u0627\u0644\u0644\u064a \u062d\u0635\u0644",
       "url": "https://open.spotify.com/track/5eRUK0x3XJSbrk57aET9aX"
@@ -6854,7 +6854,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 185917,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
@@ -8870,7 +8870,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -12400,7 +12400,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 146684,
       "name": "Please Don't Change (feat. DJ Snake)",
       "url": "https://open.spotify.com/track/0k0GtcnyQLMiXrdEDbLXmJ"
@@ -18915,6 +18915,24 @@
     },
     {
       "album": {
+        "name": "\u0628\u0627\u0644\u062f\u0645\u0639\u0629 - \u0645\u0633\u0631\u0639\u0647",
+        "url": "https://open.spotify.com/album/16htPOJSDERrYHKIsSUPUI"
+      },
+      "artists": [
+        {
+          "name": "MaqamMusic",
+          "url": "https://open.spotify.com/artist/7BEbEqXU1xU7Uw0lO7jfme"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184436,
+      "name": "\u0628\u0627\u0644\u062f\u0645\u0639\u0629 - \u0645\u0633\u0631\u0639\u0647",
+      "url": "https://open.spotify.com/track/7bZPmBQExH5dfTLcn1erJm"
+    },
+    {
+      "album": {
         "name": "\u0628\u0627\u0644\u062f\u0645\u0639\u0647 - \u0645\u0633\u0631\u0639\u0647",
         "url": "https://open.spotify.com/album/0xczrMhODIIXnOzS3an0V8"
       },
@@ -20024,7 +20042,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-09",
+      "date_removed": null,
       "duration_ms": 189913,
       "name": "\u0643\u062f\u0647 \u0643\u062f\u0647 \u0628\u0627\u064a\u0638\u0647",
       "url": "https://open.spotify.com/track/6JIL1FI26WjTEnHZbOHXzZ"
@@ -20150,7 +20168,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-23",
+      "date_removed": null,
       "duration_ms": 198019,
       "name": "\u0645\u062e\u0635\u0645\u0627\u0643",
       "url": "https://open.spotify.com/track/71lgZsFMawXgnG4vcICNbS"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "Music from the gaming series \"Yakuza: Like a Dragon\" -\u300c\u9f8d\u304c\u5982\u304f7\u5916\u4f1d \u540d\u3092\u6d88\u3057\u305f\u7537\u300d\u767a\u58f2\u8a18\u5ff5\uff01\u30b7\u30ea\u30fc\u30ba\u6b74\u4ee3\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u3001\u30b5\u30f3\u30c8\u30e9\u697d\u66f2\u3092\u7db2\u7f85\u3057\u305f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u767b\u5834",
+  "description": "Music from the gaming series \"Yakuza: Like a Dragon\" -\u300c\u9f8d\u304c\u5982\u304f7\u5916\u4f1d \u540d\u3092\u6d88\u3057\u305f\u7537\u300d\u767a\u58f2\u8a18\u5ff5\uff01\u30b7\u30ea\u30fc\u30ba\u6b74\u4ee3\u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u3001\u30b5\u30f3\u30c8\u30e9\u697d\u66f2\u3092\u7db2\u7f85\u3057\u305f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u304c\u767b\u5834",
   "name": "\u9f8d\u304c\u5982\u304f -Yakuza: Like a Dragon-",
   "tracks": [
     {
@@ -74,6 +74,28 @@
       "duration_ms": 251837,
       "name": "24\u6642\u9593\u30b7\u30f3\u30c7\u30ec\u30e9 - Full Spec Edition",
       "url": "https://open.spotify.com/track/5cWxbtuack9EjQyqXYEErq"
+    },
+    {
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u5c3e\u6c60 \u667a\u53f2",
+          "url": "https://open.spotify.com/artist/6uzmmp0fEZY2brLf0S54Ho"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92080,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/7J1wA8eLKbUoT6wNbF37JX"
     },
     {
       "album": {
@@ -240,7 +262,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 312146,
       "name": "Born to be WILD",
       "url": "https://open.spotify.com/track/5ibgvjYvwzuA1guRMV1XuJ"
@@ -390,7 +412,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 209891,
       "name": "For Faith",
       "url": "https://open.spotify.com/track/7srBxCuuOUkZTvBhkJ6DXS"
@@ -408,7 +430,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 316172,
       "name": "GET TO THE TOP! - Remix OF THE END",
       "url": "https://open.spotify.com/track/4AGBW4uky6MckcAWtVwyg8"
@@ -433,6 +455,28 @@
     },
     {
       "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u798f\u7530 \u907c",
+          "url": "https://open.spotify.com/artist/4uKqJoShYWfv5yrwjFlAi7"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92253,
+      "name": "Good Taste",
+      "url": "https://open.spotify.com/track/1IDegbxxxHU4FBbyD7KRFw"
+    },
+    {
+      "album": {
         "name": "YAKUZA 6: THE SONG OF LIFE ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/0HMKppHnFphltdEzp3Sz7K"
       },
@@ -444,7 +488,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 212342,
       "name": "hands - Full Spec Edition",
       "url": "https://open.spotify.com/track/2kBo896zEH6RuI82OmLxAA"
@@ -484,6 +528,28 @@
       "duration_ms": 212342,
       "name": "hands - Full Spec Edition",
       "url": "https://open.spotify.com/track/4swoDlKfBGqhzAWdoSHd7g"
+    },
+    {
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u5c0f\u6797 \u79c0\u8061",
+          "url": "https://open.spotify.com/artist/0hUaNfEHmXkQQgxzSGkD3X"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156146,
+      "name": "Hannya's Attack",
+      "url": "https://open.spotify.com/track/38RZDYEJLHsnrSlcYmwuvb"
     },
     {
       "album": {
@@ -574,7 +640,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 248133,
       "name": "In The Name Of",
       "url": "https://open.spotify.com/track/4HN9ojfqPcGhgoPf3tDEYo"
@@ -600,6 +666,28 @@
       "duration_ms": 248133,
       "name": "In The Name Of",
       "url": "https://open.spotify.com/track/6OPMim0rgtwyyorkCxsyY1"
+    },
+    {
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u9752\u6728 \u5343\u7d18",
+          "url": "https://open.spotify.com/artist/1D2ap5fmnmdRb5SWBxtoFz"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "I\u2019m Fading Away",
+      "url": "https://open.spotify.com/track/6N1imaUHeYFar4zMZM2hNj"
     },
     {
       "album": {
@@ -813,6 +901,50 @@
     },
     {
       "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u82b1\u7530 \u5553\u592a\u6717",
+          "url": "https://open.spotify.com/artist/1rouXc6iBnQS4Xc27JY99Z"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88186,
+      "name": "Nouveau Riche",
+      "url": "https://open.spotify.com/track/7hgz5zFXQj0ukl3QUXABR1"
+    },
+    {
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u82b1\u7530 \u5553\u592a\u6717",
+          "url": "https://open.spotify.com/artist/1rouXc6iBnQS4Xc27JY99Z"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142973,
+      "name": "Obedience",
+      "url": "https://open.spotify.com/track/0GrAxKSr7Bz0CrZyLwbYTb"
+    },
+    {
+      "album": {
         "name": "Ryu ga gotoku Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
         "url": "https://open.spotify.com/album/3CDrfULuyQrpvM4SDCQuU6"
       },
@@ -860,7 +992,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 176540,
       "name": "Receive and Bite You",
       "url": "https://open.spotify.com/track/5V0nm46PQuRbl65hPX0aPg"
@@ -900,10 +1032,32 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 202846,
       "name": "Receive You The Archetype",
       "url": "https://open.spotify.com/track/4jHGBmn0GEwLF0KOrMQrXI"
+    },
+    {
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u6c34\u91ce \u5065\u6cbb",
+          "url": "https://open.spotify.com/artist/5f9u63A1rfNgf5BBsnISqW"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133053,
+      "name": "Reception at Coliseum",
+      "url": "https://open.spotify.com/track/3deWyw0vJNROgjP0KomsIN"
     },
     {
       "album": {
@@ -969,6 +1123,24 @@
     },
     {
       "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308426,
+      "name": "SAYONARA Silent Night - Full Spec Edition",
+      "url": "https://open.spotify.com/track/12IUwXqHngfkifbdpkLavs"
+    },
+    {
+      "album": {
         "name": "Goro Majima Karaoke hit song collection(Ryu ga gotoku7 hikari to yami no yukue)",
         "url": "https://open.spotify.com/album/1aIDQgb9nklXl66X0C1Drc"
       },
@@ -984,6 +1156,24 @@
       "duration_ms": 390443,
       "name": "Shiawase-nara-iiya - Full Spec Edition",
       "url": "https://open.spotify.com/track/795netq7zSVvayTiDkbePw"
+    },
+    {
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
+          "url": "https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257265,
+      "name": "SHIN\uff65I\uff65CHI\uff65ZU\uff65ZAMURAI - Full Spec Edition",
+      "url": "https://open.spotify.com/track/65bYGJ2GyyxqOynZlgL182"
     },
     {
       "album": {
@@ -1052,7 +1242,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 279485,
       "name": "TONIGHT-restart from this night- - Full Spec Edition",
       "url": "https://open.spotify.com/track/1zjEnUbUuq7Kt1YzjQjZr4"
@@ -1110,6 +1300,28 @@
       "duration_ms": 279485,
       "name": "TONIGHT-restart from this night- - Full Spec Edition",
       "url": "https://open.spotify.com/track/7bdRmM99BqfRGNo4NwSLCE"
+    },
+    {
+      "album": {
+        "name": "LIKE A DRAGON GAIDEN The Man Who Erased His Name",
+        "url": "https://open.spotify.com/album/0Ut5nt09qUJ3V9EdefN3Ry"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "\u5409\u7530 \u6c99\u7e54",
+          "url": "https://open.spotify.com/artist/57wo2Em3UktCMqpCRK5pFv"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140573,
+      "name": "Two Faced Castle",
+      "url": "https://open.spotify.com/track/6GHmxVpI3yHDyuFqHc01NB"
     },
     {
       "album": {
@@ -1254,7 +1466,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 210591,
       "name": "\u308f\u3059\u308c\u306a\u3044",
       "url": "https://open.spotify.com/track/30FuMk37tWuBQ7BNKpR8pO"
@@ -1558,7 +1770,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 232188,
       "name": "\u610f\u5730\u685c2000 - Full Spec Edition",
       "url": "https://open.spotify.com/track/28LKuw2CNTZ6y1xI6NDyhf"

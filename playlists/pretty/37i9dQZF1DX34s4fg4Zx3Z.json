@@ -1,12 +1,12 @@
 {
   "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: Kim Kunni; thi\u1ebft k\u1ebf: Isu Kim",
-  "num_followers": 20393,
+  "num_followers": 20432,
   "original_name": "Fresh Finds Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTY3NzU0MTAyZGEzNmRlYmY0YzhmOWYwYjJkZTA2NTUxMWVhZDdl",
+  "snapshot_id": "MCxiNTE4MzZmYjM3YTgzYjY2OTJiNzhiYmQzZjA4NGQ1OGU1ZjUxNjg5",
   "tracks": [
     {
       "added_at": "2023-11-16 17:00:00",
@@ -291,6 +291,26 @@
       "duration_ms": 172835,
       "name": "Tan Ra",
       "url": "https://open.spotify.com/track/4XnoMuBj41O64lftF4HgQ1"
+    },
+    {
+      "added_at": "2023-11-17 02:11:33",
+      "album": {
+        "name": "\u00caM",
+        "url": "https://open.spotify.com/album/2GuZKvxEf3OsN0JJ9Tvtkt"
+      },
+      "artists": [
+        {
+          "name": "th?o",
+          "url": "https://open.spotify.com/artist/0CJTieKztFYr15TVkUg1RK"
+        },
+        {
+          "name": "S\u1ef9 Tu\u1ec7",
+          "url": "https://open.spotify.com/artist/3ZhtDtZd7N4B3NlCPUQVpR"
+        }
+      ],
+      "duration_ms": 157290,
+      "name": "\u00caM",
+      "url": "https://open.spotify.com/track/0AtMASLGDvdicZmyyQxNRv"
     },
     {
       "added_at": "2023-11-16 17:00:00",
@@ -915,6 +935,50 @@
     {
       "added_at": "2023-11-16 17:00:00",
       "album": {
+        "name": "Ai R\u1ed3i C\u0169ng",
+        "url": "https://open.spotify.com/album/55H1DIdRbQF774BOsPPKxy"
+      },
+      "artists": [
+        {
+          "name": "Qu\u1ed1c To\u1ea3n",
+          "url": "https://open.spotify.com/artist/6HJ6SHEULYvjk9Syx9d0q4"
+        },
+        {
+          "name": "BMZ",
+          "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
+        }
+      ],
+      "duration_ms": 290322,
+      "name": "Ai R\u1ed3i C\u0169ng",
+      "url": "https://open.spotify.com/track/2LPmvV3yq4CSFw26arPC98"
+    },
+    {
+      "added_at": "2023-11-16 17:00:00",
+      "album": {
+        "name": "Gi\u1ea3 V\u1edd Y\u00eau",
+        "url": "https://open.spotify.com/album/34bmpc00dedXf1xLdAzKNU"
+      },
+      "artists": [
+        {
+          "name": "EREN",
+          "url": "https://open.spotify.com/artist/1CmpPe389rlcewV0pAmxyq"
+        },
+        {
+          "name": "Taki",
+          "url": "https://open.spotify.com/artist/3S02OuFY2tDT8xq9eluV3f"
+        },
+        {
+          "name": "shi",
+          "url": "https://open.spotify.com/artist/1i2NUr3ZPfZcUlf9C9oGXZ"
+        }
+      ],
+      "duration_ms": 148235,
+      "name": "Gi\u1ea3 V\u1edd Y\u00eau",
+      "url": "https://open.spotify.com/track/75MrfFS6k8sWflAWjUucSK"
+    },
+    {
+      "added_at": "2023-11-16 17:00:00",
+      "album": {
         "name": "Tr\u00e1i Tim Mu\u1ed1n \u0110i\u1ec1u N\u00f3 Mu\u1ed1n",
         "url": "https://open.spotify.com/album/1VcFrA0GalGzx9iVC2i9hc"
       },
@@ -1211,6 +1275,22 @@
       "duration_ms": 178543,
       "name": "Em H\u00e3y Qu\u00ean H\u1ebft \u0110i",
       "url": "https://open.spotify.com/track/7xBpp13BtpV7HKXEVO3ENd"
+    },
+    {
+      "added_at": "2023-11-16 17:00:00",
+      "album": {
+        "name": "M\u00e2y",
+        "url": "https://open.spotify.com/album/7v51Mdyt3OGmJxNVbe22fY"
+      },
+      "artists": [
+        {
+          "name": "djquantaboo",
+          "url": "https://open.spotify.com/artist/6EP8XH45Dmwt73nwr1QGbK"
+        }
+      ],
+      "duration_ms": 177769,
+      "name": "M\u00e2y",
+      "url": "https://open.spotify.com/track/6gT13SvE8SFR1x4oLdC21b"
     },
     {
       "added_at": "2023-11-16 17:00:00",

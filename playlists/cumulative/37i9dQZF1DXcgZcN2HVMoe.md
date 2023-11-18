@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-722 songs - 1 day 19 hr 10 min
+724 songs - 1 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Bright Lights](https://open.spotify.com/track/6O7nutKXJu3B95Hgs0nsv0) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Laps Around The Sun](https://open.spotify.com/album/6JYmn58l1Lj90pF1a9mdh5) | 3:37 | 2022-07-22 |  |
 | [Bright Star](https://open.spotify.com/track/2GU7Yy8fZVbtmSafEOXcjQ) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bright Star](https://open.spotify.com/album/2DqpMCRbrMb4VRb1GNtYXg) | 3:10 | 2021-12-17 | 2022-07-25 |
 | [Bright Star](https://open.spotify.com/track/2MzJjyG6MWkAY8wQIfDMSZ) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell](https://open.spotify.com/album/1ZpLitOlsiSKy0Sdmhudi6) | 3:10 | 2022-07-22 | 2023-11-11 |
+| [Bright Star](https://open.spotify.com/track/582t08OyJrrpS35HyWSruM) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell](https://open.spotify.com/album/2XVyQw7WE4hAozLKcUTuHD) | 3:10 | 2023-10-06 |  |
 | [Brush Fire](https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Brush Fire](https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB) | 3:10 | 2021-12-17 |  |
 | [Built For This](https://open.spotify.com/track/7vA2Np8N7Yu1KfTQ43oLwF) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Love and Heartache](https://open.spotify.com/album/1kIEcVx2bLpobnhKmY73pc) | 2:35 | 2022-01-24 | 2022-04-20 |
 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 | 2022-07-22 |  |
@@ -106,8 +107,9 @@
 | [cardigan \- cabin in candlelight version](https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [cardigan \(cabin in candlelight version\)](https://open.spotify.com/album/3kqqalY92DENp7FiztDOjH) | 3:48 | 2021-12-17 |  |
 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 | 2022-06-29 |  |
 | [Cast Iron Skillet](https://open.spotify.com/track/2VmvnRlD3SaKz5YxabzlZe) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Cast Iron Skillet](https://open.spotify.com/album/0SWyzfjH7D2mXqSr4nBfrQ) | 3:24 | 2023-04-28 | 2023-07-10 |
+| [Cast Iron Skillet](https://open.spotify.com/track/30xTTsQlMrkhisyvxzEIpX) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 3:24 | 2023-10-06 |  |
 | [Caught in the Middle](https://open.spotify.com/track/7aKCwhBjb8zuTEBGzf48Qm) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet/Caught in the Middle](https://open.spotify.com/album/6hPjqER5erz9bS5C3fxq1L) | 2:42 | 2022-01-24 | 2022-04-21 |
-| [Champagne Supernova \(OurVinyl Sessions\)](https://open.spotify.com/track/0C0bw3UZM525pEFU6hYfVH) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Jillette Johnson \| OurVinyl Sessions](https://open.spotify.com/album/3EWf23G2C83dLTXmh8Ynzj) | 4:14 | 2022-07-29 |  |
+| [Champagne Supernova \(OurVinyl Sessions\)](https://open.spotify.com/track/0C0bw3UZM525pEFU6hYfVH) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Jillette Johnson \| OurVinyl Sessions](https://open.spotify.com/album/3EWf23G2C83dLTXmh8Ynzj) | 4:14 | 2022-07-29 | 2023-11-18 |
 | [Champagne Supernova \(OurVinyl Sessions\)](https://open.spotify.com/track/158cW9xy5JPL1l9mfdTuSI) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Champagne Supernova \(OurVinyl Sessions\)](https://open.spotify.com/album/7vntpiKkI45NgUgjdAxeAY) | 4:14 | 2021-12-17 | 2022-07-03 |
 | [Change It All](https://open.spotify.com/track/58h15p2z6LMURhFn3G18a4) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Change It All](https://open.spotify.com/album/1dEqHzlsanDYiakbPgnl7s) | 4:07 | 2022-01-24 | 2022-04-19 |
 | [Change It All](https://open.spotify.com/track/7lWKpA4JZrGVqYURuz7cnu) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Change It All](https://open.spotify.com/album/0dkUKtlAdUxzlhmvS4BVmU) | 4:07 | 2022-07-22 | 2023-03-29 |
@@ -536,7 +538,7 @@
 | [Say Something](https://open.spotify.com/track/6il3b4TaENjcTkZ7I72NTJ) | [Emma McGrath](https://open.spotify.com/artist/3PZyI7b9LfYnS0QU827W8z) | [Say Something](https://open.spotify.com/album/6eKeZMJNnc13y8xs6vIkBQ) | 3:06 | 2022-01-24 | 2022-04-21 |
 | [Say Something Now](https://open.spotify.com/track/7jkrRIkeZaW87c54Q2uwhg) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Say Something Now](https://open.spotify.com/album/5MQSXVuerRkqvIn2yqK0MI) | 3:29 | 2021-12-17 | 2022-07-11 |
 | [Seaside](https://open.spotify.com/track/04VGLPVSGvnqaVAWJV54G8) | [Zach Oliver](https://open.spotify.com/artist/3mUGzseAIqVvSM5m3vJ4GX) | [Seaside](https://open.spotify.com/album/5LAwVyP3DUeJ073aQhYiTb) | 3:03 | 2021-12-17 | 2022-07-29 |
-| [Seasons](https://open.spotify.com/track/5fkbOmiHN3RnG1qjzNFMyi) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Out of Body](https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf) | 4:03 | 2023-04-28 |  |
+| [Seasons](https://open.spotify.com/track/5fkbOmiHN3RnG1qjzNFMyi) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Out of Body](https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf) | 4:03 | 2023-04-28 | 2023-11-18 |
 | [Seasons](https://open.spotify.com/track/0C4IaD9aowgnPgqVA9WIxT) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Hang On / Seasons](https://open.spotify.com/album/6om9QgG1aY3whjxSTqvzXM) | 4:03 | 2021-12-17 | 2022-07-29 |
 | [Second](https://open.spotify.com/track/7xNh85nWehExA33uAqFIKP) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Second](https://open.spotify.com/album/5C0WgGqN1ugH3Jbw0kTzh1) | 3:29 | 2021-12-17 | 2022-07-29 |
 | [Sedona \- The Voice Performance](https://open.spotify.com/track/63NCB9nUsL8acHNk51klHy) | [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5) | [Sedona \(The Voice Performance\)](https://open.spotify.com/album/1XJWCFvDApRcTaxQvRdPZ0) | 3:25 | 2021-12-17 | 2022-06-22 |

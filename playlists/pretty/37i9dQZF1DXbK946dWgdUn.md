@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK946dWgdUn.md) - [plain](/playlists/plain/37i9dQZF1DXbK946dWgdUn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbK946dWgdUn)
 
-### [Cocomelon Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXbK946dWgdUn)
+### [CoComelon Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXbK946dWgdUn)
 
-> Groove to your favorite tracks from Cocomelon!
+> Groove to your favorite tracks from CoComelon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,421 likes - 89 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,446 likes - 89 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK946dWgdUn.md) - [plain]
 | 88 | [This Little Light of Mine \- \(Sing Along\)](https://open.spotify.com/track/3awnhwdpf4clxETaYZZCjN) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Fun with Family and Friends](https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N) | 3:11 |
 | 89 | [Knick Knack Jam](https://open.spotify.com/track/4vZBuQk8DLfraxg9VSMhJQ) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Fun with Family and Friends](https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N) | 3:04 |
 
-Snapshot ID: `MCw3MzliNzg0NmE2Njg3ZmFhMTJmNjE3OWRhNDQ0NjBlOWY1ZGZhZDY3`
+Snapshot ID: `MCw1MGM2ZWU2ZTNlZWFkYzY4ZDYxNmRkMzEzYzVkMDJjNzZkYWQ4ZGQ5`

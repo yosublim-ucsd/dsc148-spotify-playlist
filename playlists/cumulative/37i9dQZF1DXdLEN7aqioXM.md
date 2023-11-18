@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-460 songs - 1 day 8 hr 48 min
+462 songs - 1 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [At the Crash Site](https://open.spotify.com/track/6LIc7O2AijxjFzcybwkF3Y) | [ELFL](https://open.spotify.com/artist/72xDdmrHFi38fW3rdLzvnU) | [Black Sunrise](https://open.spotify.com/album/24WBB2p74iHyxqN5eDiLJh) | 3:25 | 2023-10-27 |  |
 | [Athena](https://open.spotify.com/track/1lLHIagfhBabAoaOowk6zv) | [Turbo Knight](https://open.spotify.com/artist/7hsyLArBqyxYqQF2ODoT3c), [Edictum](https://open.spotify.com/artist/11e1I6BUAcdUOAf7AJUXWd) | [Athena](https://open.spotify.com/album/3Xw2pZX3J0Ikx7r5ZBAzYm) | 4:57 | 2023-06-30 |  |
 | [Atmosfer \- Dr\. Parnassus Remix](https://open.spotify.com/track/38B8FogBbXu8sIkZK9NFmt) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo), [Dr Parnassus](https://open.spotify.com/artist/5XEyV45wxK8tHOXIhJMOtk) | [Mikrokozmos](https://open.spotify.com/album/3sinUlAK8IZ2TqCAmpmWpj) | 7:00 | 2022-02-04 | 2023-04-09 |
-| [Automaton](https://open.spotify.com/track/6rXoA0cB6iWGY8LvlY1e8B) | [1788\-L](https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN) | [Parallel: S](https://open.spotify.com/album/59h7GpKrIO5bFUDE2ZoPfw) | 3:51 | 2021-10-15 |  |
+| [Automaton](https://open.spotify.com/track/6rXoA0cB6iWGY8LvlY1e8B) | [1788\-L](https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN) | [Parallel: S](https://open.spotify.com/album/59h7GpKrIO5bFUDE2ZoPfw) | 3:51 | 2021-10-15 | 2023-11-18 |
 | [Backbone of the Night](https://open.spotify.com/track/0U2HJ0JMW4kMr3Np1ePFZ3) | [D/A/D](https://open.spotify.com/artist/5yLMZlxETbRl2DQChBBkuS) | [The Construct](https://open.spotify.com/album/1y7EUn0wZFWNeGcHB5V7YC) | 4:51 | 2022-07-22 | 2023-10-24 |
 | [Backbone of the Night](https://open.spotify.com/track/2pNUmkx55kiyccsZCXKuNs) | [D/A/D](https://open.spotify.com/artist/5yLMZlxETbRl2DQChBBkuS) | [The Construct](https://open.spotify.com/album/0imjZumVsOunsT3qoIxoKI) | 4:51 | 2022-04-01 | 2022-07-28 |
 | [Bad Night at Black's Beach](https://open.spotify.com/track/2vgL4j2cyWWBul8FWQ3GQO) | [L.A\. Takedown](https://open.spotify.com/artist/1XB4jI2i8cikuntyOuUi1v) | [Bad Night At Black's Beach](https://open.spotify.com/album/3gjBetsmhoUBsikaY4e6bQ) | 2:50 | 2021-10-15 | 2022-07-29 |
@@ -330,7 +330,7 @@
 | [Patission Street](https://open.spotify.com/track/6J7Q5juj1OHA7UdgHbxGht) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Horizon's Glow](https://open.spotify.com/album/0lrDYbaeW955aR9WzAGuqk) | 3:08 | 2022-04-01 | 2022-10-22 |
 | [Pelée](https://open.spotify.com/track/4Y6m4bvuII4X6UkeolyPOq) | [Brothertiger](https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE) | [Fundamentals, Vol\. III](https://open.spotify.com/album/0gI1nOpgl8BJV9jIUM4suh) | 5:16 | 2022-02-04 |  |
 | [Peripheral Vision](https://open.spotify.com/track/7JjpqTuimad5QSRyw2X4xT) | [Geographer](https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ) | [Peripheral Vision](https://open.spotify.com/album/6Ldmn3CqdXYp38q0thv2RO) | 4:10 | 2022-04-01 | 2022-04-20 |
-| [Persona](https://open.spotify.com/track/1HXJiwsbj0afbCvmIZFCkE) | [Baldocaster](https://open.spotify.com/artist/20e5120PlAttn4jofcH9uB) | [Memorie](https://open.spotify.com/album/1EK85nz4MUvwAfQLAKvWOO) | 3:26 | 2023-10-23 |  |
+| [Persona](https://open.spotify.com/track/1HXJiwsbj0afbCvmIZFCkE) | [Baldocaster](https://open.spotify.com/artist/20e5120PlAttn4jofcH9uB) | [Memorie](https://open.spotify.com/album/1EK85nz4MUvwAfQLAKvWOO) | 3:26 | 2023-10-23 | 2023-11-18 |
 | [Power Light](https://open.spotify.com/track/2jyAfwmsqF6wynsf70zIUQ) | [Æ7](https://open.spotify.com/artist/68Rpj4TxoMVq6JRyH13UAO) | [Power Light](https://open.spotify.com/album/4rCh8RUK2Me7KY7y6zafQg) | 4:21 | 2022-06-10 |  |
 | [Power Rush](https://open.spotify.com/track/2ytQbzITABN8A3BTkCjDE5) | [A Space Love Adventure](https://open.spotify.com/artist/13Y66UFvrqqifH7wx4ymVS) | [Power Rush](https://open.spotify.com/album/4g2nO5T2ihR793lKVnP52y) | 3:00 | 2021-10-15 | 2022-10-15 |
 | [Prime Operator](https://open.spotify.com/track/2jwc7czRortvzSg9HSKdKB) | [Mitch Murder](https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e) | [The Real Deal](https://open.spotify.com/album/0sESV8DNdZUnQgMNfiJOrj) | 3:55 | 2021-10-15 | 2022-07-29 |
@@ -370,6 +370,7 @@
 | [SILHOUETTE](https://open.spotify.com/track/7F74wZ1QC7uSi9GYpR4gcn) | [Mord Fustang](https://open.spotify.com/artist/34hwBP1esafQoCVtLz7F6K) | [SILHOUETTE](https://open.spotify.com/album/6si1qI4PoJCdrOUkRVxclZ) | 5:31 | 2022-09-09 |  |
 | [Silicon Tare](https://open.spotify.com/track/1JFkrUDkIubIAFwbSnTFNC) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Silicon Tare](https://open.spotify.com/album/3ftWeKrk8xQYkf5S6AMcH5) | 4:02 | 2022-07-22 | 2022-12-24 |
 | [Silicon Tare](https://open.spotify.com/track/6YYpEOBjVdQbn9Inrl0Ja0) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Silicon Tare](https://open.spotify.com/album/4W0SW2PgLJ9Ea4IfVfEh4v) | 4:02 | 2022-04-01 | 2022-04-20 |
+| [Sin](https://open.spotify.com/track/1WWGZ20EZSVGaLF8tu9njX) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF) | [Sin](https://open.spotify.com/album/4Twd8iMGjSbUt7LwhE1BiT) | 4:23 | 2023-11-16 |  |
 | [Slasher](https://open.spotify.com/track/5vM6DijoozNO7hLQGJtc6H) | [Cassetter](https://open.spotify.com/artist/6rzOP8pWzUuXlniCGCtrcE) | [Slasher](https://open.spotify.com/album/5QUP91rvNu4bXxoTP4IuQk) | 3:58 | 2021-10-15 | 2022-03-11 |
 | [Slow Motion](https://open.spotify.com/track/5GmbqgyKi1bZOPMvjAnWSu) | [Wojciech Golczewski](https://open.spotify.com/artist/7GTDYl4iOKyUUdQVJXlmy0) | [Slow Motion](https://open.spotify.com/album/6W8n6ed7MoZYyU7sEmeV2v) | 3:02 | 2023-01-13 |  |
 | [Sorcery](https://open.spotify.com/track/4HWC8Ymr2TlkTo97ttMiIq) | [The Toxic Avenger](https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s) | [Sorcery](https://open.spotify.com/album/4IYbrkAnrVG6gtK4vDJvIn) | 5:18 | 2021-10-15 |  |
@@ -442,6 +443,7 @@
 | [Tsukuyomi](https://open.spotify.com/track/61vC11KWndHG1OmoCqhELP) | [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5) | [Tsukuyomi](https://open.spotify.com/album/6hkKkB6BqmPXiVl559OdyO) | 4:30 | 2022-07-08 |  |
 | [Ultimo](https://open.spotify.com/track/0jtagVogty503eUAY7psju) | [Barretso](https://open.spotify.com/artist/0G0B56LpavF77LhE2IGtgB) | [Celeste](https://open.spotify.com/album/2AkabzuOF5cIiED2GcgCKp) | 5:24 | 2021-10-15 | 2023-10-24 |
 | [Under Control](https://open.spotify.com/track/2E6G3HkQb3OuEz3JKHaXUK) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Music Made Paradise](https://open.spotify.com/album/3SXL5zoZi1fvPCg1Ia6hRU) | 5:39 | 2022-02-04 | 2022-04-09 |
+| [Uni\-Verse](https://open.spotify.com/track/2GNktRlF6uSSDBpecepGCe) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [The Florentian Cabaret](https://open.spotify.com/artist/3lCSDhZueO35GkIKaI3DRS) | [Uni\-Verse](https://open.spotify.com/album/3lgJunX75g6tt5X19HtOlW) | 5:50 | 2023-11-16 |  |
 | [Universalis](https://open.spotify.com/track/6atY0RDzRUDd4HFi7ttaDs) | [Peshay](https://open.spotify.com/artist/07ogfrunSUmnsEsPQdRQUB), [VSY](https://open.spotify.com/artist/7nUVCYVFeFP4gKdNEjhcoS) | [Universalis](https://open.spotify.com/album/1Jz4Pat434iCabuHTDRgba) | 8:52 | 2022-04-01 | 2022-04-20 |
 | [UNIX 82](https://open.spotify.com/track/2sMHHYFv6nOLVhQO5RKRpL) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Space Waves](https://open.spotify.com/album/7zuSBEmYo1iPEdQkyZEroD) | 2:48 | 2023-06-30 |  |
 | [Vahiné](https://open.spotify.com/track/26v6llTYEHKniedyvmjizX) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb), [Antoine Lang](https://open.spotify.com/artist/6VzqME1rYw3Wo30KRu5ncz) | [Amour](https://open.spotify.com/album/6CXuOOz7PsLFqEJ26tNEJ4) | 3:49 | 2022-11-11 | 2022-12-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2e5iuTsMOoD.md) - [plain]
 
 > Uma viagem no tempo através de grandes clássicos do Rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,571 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,619 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2e5iuTsMOoD.md) - [plain]
 | 6 | [Johnny B\. Goode](https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Berry Is On Top](https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL) | 2:41 |
 | 7 | [Hit The Road Jack](https://open.spotify.com/track/4w7nHS3WCD0u25SkMUvq3a) | [Jeff Zavac](https://open.spotify.com/artist/3wlGboM57eZwqMIM2o31GL), [The Craetts](https://open.spotify.com/artist/4fnabfYrvg3fMDspxKcGRl) | [Miami Lighthouse for the Blind Presents: Instrumental Magic](https://open.spotify.com/album/5j7NYV0Nk1lPR70kqIDvDF) | 2:09 |
 | 8 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 6:31 |
-| 9 | [Do You Remember Walter? \- 2023 Remaster](https://open.spotify.com/track/7xDsY0n9YNr4D3Fw7OU6u0) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [The Journey \- Pt\. 1](https://open.spotify.com/album/06DVyuQqluIXo2RAR4TF4s) | 2:25 |
+| 9 | [Do You Remember Walter?](https://open.spotify.com/track/3PDbj2jeM96cPrlz9td6L8) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [The Journey \- Pt\. 1](https://open.spotify.com/album/3pMMPsGXOpkvX3m21YCGX5) | 2:25 |
 | 10 | [Hey Bulldog \- 2023 Mix](https://open.spotify.com/track/3iGns07SjzqHZGn6h8FKVS) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 – 1970 \(2023 Edition\)](https://open.spotify.com/album/2AlPRfYeskAMxhJS00xjeP) | 3:11 |
 | 11 | [Great Balls of Fire \- Live](https://open.spotify.com/track/6LivLb2QdgYkSDvN1QVTT8) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Live From Austin, TX](https://open.spotify.com/album/3NSxRV7EdnPJdsRUaFKs5R) | 1:49 |
 | 12 | [Blue Suede Shoes](https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2e5iuTsMOoD.md) - [plain]
 | 49 | [Let The Good Times Roll](https://open.spotify.com/track/7lcCLXghOHf8xERQ9BkS3n) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Let The Good Times Roll](https://open.spotify.com/album/4JeCuwh2ciataXUhq3XUox) | 3:04 |
 | 50 | [These Boots Are Made for Walkin'](https://open.spotify.com/track/2HEgBBls7l0smWTxPx0MtZ) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Start Walkin' 1965\-1976](https://open.spotify.com/album/1J3CtRxcG9Tkuw2xQ59NEk) | 2:46 |
 
-Snapshot ID: `MCxkMGM3YmY5NGFlNTM1MTUyMjBkMGMxOWNhMTRiMjdlZmMyNDkwMWY0`
+Snapshot ID: `MCwyNjQ1NmU3NmYzNDc3OGQ3Mzk2YThlNWRmZjliMjFlMzZmMjFhN2Jl`

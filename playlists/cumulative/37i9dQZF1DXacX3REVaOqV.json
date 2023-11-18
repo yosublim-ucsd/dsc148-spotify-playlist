@@ -1774,7 +1774,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 284460,
       "name": "Eros",
       "url": "https://open.spotify.com/track/3HJr6Bql5OLIqMfg2qm990"
@@ -6457,6 +6457,24 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/1wR8GmaQ6xYVL1i1918Ilw"
+      },
+      "artists": [
+        {
+          "name": "gome",
+          "url": "https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233346,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/7tRVTrvTIpYC15QvLkI3Tv"
+    },
+    {
+      "album": {
         "name": "Tell You What It Is",
         "url": "https://open.spotify.com/album/6DSU3tmrRd6nymUrEaapbu"
       },
@@ -7052,6 +7070,28 @@
       "duration_ms": 278706,
       "name": "Warning (feat. Lynn Lockamy) - Mixed",
       "url": "https://open.spotify.com/track/4lVQ27mBsZva3LVf216HcQ"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191733,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Faul Gayo, Selfi Yamma",
+  "description": "Dendang Dangdut teratas. Cover: Maulana Ardiansyah",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -368,6 +368,24 @@
       "duration_ms": 223304,
       "name": "Cinta Sejati",
       "url": "https://open.spotify.com/track/5Hr4r6S8DND2ef1BsUqsEU"
+    },
+    {
+      "album": {
+        "name": "Cinta Yang Rumit",
+        "url": "https://open.spotify.com/album/5IDUI32I8DRXTOUJnSradA"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245347,
+      "name": "Cinta Yang Rumit",
+      "url": "https://open.spotify.com/track/6Atv6SpeVJ0sgGyFlkcsGX"
     },
     {
       "album": {
@@ -1313,6 +1331,28 @@
     },
     {
       "album": {
+        "name": "Dua Jelita",
+        "url": "https://open.spotify.com/album/2R79D0s9BDN6c2Fp1pPhsK"
+      },
+      "artists": [
+        {
+          "name": "Novi Ayla",
+          "url": "https://open.spotify.com/artist/5mf5kk94dM7dPugSKwvxy1"
+        },
+        {
+          "name": "Angel Lelga",
+          "url": "https://open.spotify.com/artist/43TweGBrE4hm7UoxWqpUIF"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Matematika Cinta",
+      "url": "https://open.spotify.com/track/2qHc1g7cWJwvSzIK7NqFtw"
+    },
+    {
+      "album": {
         "name": "Mendung Tanpo Udan",
         "url": "https://open.spotify.com/album/71G3sO1tdp632dquXZFMNE"
       },
@@ -1360,10 +1400,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 308341,
       "name": "Menepuk Air di Dulang",
       "url": "https://open.spotify.com/track/0NCkhLWAhJSam1Qr21x5M3"
+    },
+    {
+      "album": {
+        "name": "Menepuk Air Didulang",
+        "url": "https://open.spotify.com/album/7Lj33EIrcBUrTsk8CoOGNH"
+      },
+      "artists": [
+        {
+          "name": "Evie Tamala",
+          "url": "https://open.spotify.com/artist/518KzpAUCquD9HcSLDklzd"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308341,
+      "name": "Menepuk Air Didulang",
+      "url": "https://open.spotify.com/track/2AMNSOCtgVIgSk3mxOGGPD"
     },
     {
       "album": {

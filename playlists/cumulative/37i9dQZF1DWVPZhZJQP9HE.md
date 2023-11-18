@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Ashwin Vinayagamoorthy
 
-467 songs - 1 day 3 hr 41 min
+468 songs - 1 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [Urave \- Eternal Love](https://open.spotify.com/track/0z0vwW7BLfwxYrjgNWwpP6) | [Manoj Krishna](https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM), [Jananie S.V](https://open.spotify.com/artist/76AjpgQpgJLWeONwNfW2zg) | [Urave \(Eternal Love\)](https://open.spotify.com/album/1TEc2E0eZ3zjOy4YlL6n0G) | 4:27 | 2023-01-13 | 2023-07-15 |
 | [Usharana Pullingo](https://open.spotify.com/track/3C3J9YUc4sVqfYm0UrO0GG) | [MC Jango](https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf) | [SIRAI](https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ) | 1:54 | 2022-07-27 | 2022-08-12 |
 | [Uyire Azhage](https://open.spotify.com/track/03GYKMI1OxOed4fki5bPzF) | [Karthik Rk](https://open.spotify.com/artist/2xDMtjAA117jAB1DOO6np4), [Arun Rathor](https://open.spotify.com/artist/4CBF6drrY0At3ZQVex2Q6M) | [Uyire Azhage](https://open.spotify.com/album/24MQFLY2mUea3LR5mioRCS) | 3:15 | 2022-11-21 | 2023-02-07 |
+| [Uyire Urave](https://open.spotify.com/track/4xtSrcg87lOmRLEsqISBVj) | [Joseph Vijay](https://open.spotify.com/artist/1GkrvUf71uUhmbV0lvfX7p), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Uyire Urave](https://open.spotify.com/album/2LIKp3hkXZ7dnOXnUsQ8dV) | 3:21 | 2023-11-17 |  |
 | [Uyirin Osai](https://open.spotify.com/track/5N17hbr2AuNLeHeUaoqVgr) | [Bhavana Isvi](https://open.spotify.com/artist/4nQarXr83H5tWPyWepz9k5), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Uyirin Osai](https://open.spotify.com/album/3Q1jXs3QuvIO2w6igltZsd) | 4:02 | 2022-12-15 | 2023-01-11 |
 | [Uyirthuli \- Anthem on Breastfeeding Awareness](https://open.spotify.com/track/5tmf8OpFN5yGqJC93vha4j) | [Ashok Sridharan](https://open.spotify.com/artist/4wWSViEITfnoFY1eWFmnHK), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [Uyirthuli \(Anthem on Breastfeeding Awareness\)](https://open.spotify.com/album/2U4aMbFzfp6rwibbOp2rkB) | 4:29 | 2022-07-25 | 2022-08-12 |
 | [Vaa Kanmani](https://open.spotify.com/track/17TL62JqWKgaqBiK7LncU1) | [Gurinder Seagal](https://open.spotify.com/artist/0liUJ2xG9JRPSrYGZALfgX), [Aditya Iyengar](https://open.spotify.com/artist/47DIrvE03m9rQzgFXu9eJo) | [Vaa Kanmani](https://open.spotify.com/album/6EUM58NOzqq6AvgFqqKBwq) | 2:15 | 2023-08-28 |  |

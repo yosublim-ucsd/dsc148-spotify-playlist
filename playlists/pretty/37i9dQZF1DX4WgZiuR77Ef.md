@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,959 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,965 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 74 | [Journey](https://open.spotify.com/track/17bXySNIfVmyYBZnXoxFm5) | [Secret Night Gang](https://open.spotify.com/artist/5h5gnysIprQOTY2HoM5ge0) | [Journey](https://open.spotify.com/album/6rXDUFPDscd0L9j8IG0lOq) | 5:32 |
 | 75 | [It's My Thing \(You Can't Tell Me Who To Sock It To\)](https://open.spotify.com/track/0QvnLJFbSHr4xhDLweP40h) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo) | [It's My Thing \(You Can't Tell Me Who To Sock It To\)](https://open.spotify.com/album/4D1RGmSzBOuToTwzWGGVMG) | 2:59 |
 | 76 | [Wildman](https://open.spotify.com/track/0CgmMmdisUyp72qfEEUtbw) | [Cha Wa](https://open.spotify.com/artist/18OO8F6DbNshxJbZ5ugprO) | [My People](https://open.spotify.com/album/5Z1GzBZmKbok1f6iCacE6c) | 4:31 |
-| 77 | [Nothing I Wanna Know About](https://open.spotify.com/track/1QPkENda17YtGTbtYOrAL1) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Nothing I Wanna Know About](https://open.spotify.com/album/3r5BxCunystsYCUstSbjYF) | 4:07 |
+| 77 | [Nothing I Wanna Know About](https://open.spotify.com/track/25nVJKeHsqMDnxwXXy4kgt) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/2sQ1tG5dvAZFQVa5HaI3Hy) | 4:07 |
 | 78 | [Super Solid Soul Vehicle](https://open.spotify.com/track/1iU70BDVxffXYeY9R9XgNG) | [Tom McGuire & the Brassholes](https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp) | [Super Solid Soul Vehicle](https://open.spotify.com/album/3V3LrCNJUo1bhVpO1yuM47) | 4:37 |
-| 79 | [Power Without Greed](https://open.spotify.com/track/1r0nn0QF5tNJDtzoIj2mIB) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Power Without Greed](https://open.spotify.com/album/3fS1sPIokWl3Mzld0YGsXN) | 3:58 |
+| 79 | [Power Without Greed](https://open.spotify.com/track/1lbsfDpGi4DTQRfNmoRN20) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/2sQ1tG5dvAZFQVa5HaI3Hy) | 3:58 |
 | 80 | [Mother Funkin' Robots](https://open.spotify.com/track/0GjSGefxut8enOP0LFPlln) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Mother Funkin' Robots](https://open.spotify.com/album/2ogCxU0sbWf4sfeFBK1nz8) | 3:39 |
 | 81 | [Can't Buy Groove](https://open.spotify.com/track/2AHtozTlrSktpu5CiWUpFf) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Can't Buy Groove](https://open.spotify.com/album/1NgLnJ3z4gu093e180StsA) | 2:54 |
 | 82 | [Rock Steady \- Zigaboo Version \- Remastered](https://open.spotify.com/track/6W8053NfZcRCSO2EAnDF3b) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Kenya Hathaway](https://open.spotify.com/artist/3OOcpvOBvRu9XAb7YvasHB), [Bill Champlin](https://open.spotify.com/artist/5pLqzTJecAKKbWw0MrDASt), [Zigaboo Modeliste](https://open.spotify.com/artist/0nWyZCX1qLoZzRGC9ZmuaV) | [Rock Steady](https://open.spotify.com/album/4Tg10fXYYEuHtgFaDXSwPn) | 4:34 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 87 | [Gumbo](https://open.spotify.com/track/70UPa0pzNUMKcRcq8JZ0YZ) | [The Gold Magnolias](https://open.spotify.com/artist/52YDbdT312mNbnVxG52i1d) | [Ready to Run](https://open.spotify.com/album/51TDlrWxFYRtIvu49Bbm3Z) | 4:54 |
 | 88 | [Cross The Track](https://open.spotify.com/track/5GpVsLkTn20sUOjiFKKlCT) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Soul Food: Cooking With Maceo](https://open.spotify.com/album/5Gov2tT73ooJR5WQienGoH) | 5:05 |
 | 89 | [Witness 4 The Prosecution \- Version 1 \- 2020 Remaster](https://open.spotify.com/track/0DnYgTugNUhBcALAkNvwz1) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign O' The Times \(Super Deluxe Edition\)](https://open.spotify.com/album/0TQG9HCLZGushGzSwvtxC1) | 3:59 |
-| 90 | [Hard Up](https://open.spotify.com/track/2r5zwMQ5dKB04MqVfc0IeH) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up](https://open.spotify.com/album/7BwuJqR6TBtothKdN6TY72) | 4:15 |
+| 90 | [Hard Up](https://open.spotify.com/track/1Wb09hTo6O41UzdOq7Pd2i) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/2sQ1tG5dvAZFQVa5HaI3Hy) | 4:15 |
 | 91 | [Dance Like This](https://open.spotify.com/track/4KeZ70RzWqbcplRkOfrku9) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [XX](https://open.spotify.com/album/3B6JmsgFu4k50ctzvjQ414) | 4:41 |
 | 92 | [Look in My Eyes](https://open.spotify.com/track/3xq9srnNN0LBvha15ZWpTU) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Step Up](https://open.spotify.com/album/3iiNHgr5Pl3fmoqQdSTWlr) | 3:44 |
 | 93 | [Turn up the Sound](https://open.spotify.com/track/3xDvyv5KF5Jvnycgutrgb9) | [The Brooks](https://open.spotify.com/artist/7GnRzYsBXvLyhcdFEtCAei) | [Turn up the Sound](https://open.spotify.com/album/29y8juHtLWWahTrNE7A6uz) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WgZiuR77Ef.md) - [plain]
 | 99 | [Let's Celebrate Our Love](https://open.spotify.com/track/6esXoqILAGbmzh5P7IWS9I) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Step Up](https://open.spotify.com/album/3iiNHgr5Pl3fmoqQdSTWlr) | 4:35 |
 | 100 | [Until I Met You](https://open.spotify.com/track/7uil4nygkuyV7Fnv3ujt7f) | [cleaveland jones](https://open.spotify.com/artist/0sCCnNKvvYWRFZqJQRoiqM) | [Heart & Sol](https://open.spotify.com/album/4vMxEkLHiF6ETEtqB85EmD) | 3:20 |
 
-Snapshot ID: `MCxlMzFkZDk1NDY1YTdkYzIwNDkzMGZiN2UxODAzYjhlZTNlMGI3Mjlj`
+Snapshot ID: `MCxiNzFhYzJlYTFkMDhiYjA0NTc3ZDU1ZGNiZTI3MWI1Y2ZhZmZlZDAz`

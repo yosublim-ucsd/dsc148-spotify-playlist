@@ -1,12 +1,12 @@
 {
   "description": "why is this game so hard goddamnit #SpotifyWrapped",
-  "num_followers": 15399,
+  "num_followers": 15428,
   "original_name": "dance tracks we smashed our controllers to in 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGE3N2Q1MzQ1ZmNhN2JhN2E2MjExZjMyYmQ0Njk2NTQ4NDA1Y2Jk",
+  "snapshot_id": "MCw3Njg3ZTRkNTdhZWQxZWU4NmNhMmM4ZTIwODcxZmMzNTBjNjI2YWQ4",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Addicted 2 U",
-        "url": "https://open.spotify.com/album/0nEy6XV1GHyRZJd1yTgcX6"
-      },
-      "artists": [
-        {
-          "name": "Oddprophet",
-          "url": "https://open.spotify.com/artist/6KqmNCHompcbyvzpesJTYU"
-        }
-      ],
-      "duration_ms": 296112,
-      "name": "Addicted 2 U",
-      "url": "https://open.spotify.com/track/75A3usA2hRJmaqnABohyAG"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Once Upon A Time In Cyberworld",
         "url": "https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 225346,
       "name": "Deathstalker",
       "url": "https://open.spotify.com/track/3jToiObyGXOLaK5Xo15GZc"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Addicted 2 U",
+        "url": "https://open.spotify.com/album/0nEy6XV1GHyRZJd1yTgcX6"
+      },
+      "artists": [
+        {
+          "name": "Oddprophet",
+          "url": "https://open.spotify.com/artist/6KqmNCHompcbyvzpesJTYU"
+        }
+      ],
+      "duration_ms": 296112,
+      "name": "Addicted 2 U",
+      "url": "https://open.spotify.com/track/75A3usA2hRJmaqnABohyAG"
     },
     {
       "added_at": "2022-11-30 13:46:00",

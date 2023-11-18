@@ -4,7 +4,7 @@
 
 > Novedades y clásicos del popular género colombiano\. Foto: Silvestre Dangond
 
-109 songs - 7 hr 40 min
+110 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [BACANO](https://open.spotify.com/track/4lHjc7jgioQhACpJADMsED) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | ['TA MALO](https://open.spotify.com/album/75BaMB8qvdrjZrIYwRBNOZ) | 3:10 | 2023-11-03 |  |
 | [Bailar Contigo](https://open.spotify.com/track/1KbX1VuFIgsRa9JjnQtRYA) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Corazón Profundo \(Versión Deluxe\)](https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl) | 4:12 | 2022-09-02 |  |
 | [Bandolera](https://open.spotify.com/track/66RZtIysZkIVCVwfVDxC2T) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB), [Alberto Kammerer](https://open.spotify.com/artist/5PZgiiLyMOIQxO8oUdR6sl) | [Bandolera](https://open.spotify.com/album/2JxZO69Tr7zwmhQyoEEjYS) | 4:11 | 2023-06-16 |  |
+| [Besarte](https://open.spotify.com/track/33doG1bU7G1pl97qR1VfLv) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB), [José Rafael Romero](https://open.spotify.com/artist/0WRbK5vX0nLzj5FG2PSacF) | [Besarte](https://open.spotify.com/album/2ioOUklTolYp7LabZEiTvC) | 3:44 | 2023-11-17 |  |
 | [Busca Un Confidente](https://open.spotify.com/track/63kq9VZGTYhBELP0jX3qsq) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Lenguaje Universal](https://open.spotify.com/album/1HXorJHIRNwFXQzV2GLC5k) | 4:06 | 2023-02-17 |  |
 | [Busca Un Confidente](https://open.spotify.com/track/5P9Rhc64ZcSGSlBDXEVGOw) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Lenguaje Universal](https://open.spotify.com/album/2HSz2kwEVkfiK932bWB7Wc) | 4:06 | 2022-09-02 | 2023-04-03 |
 | [Busca un Confidente](https://open.spotify.com/track/5kZqgRmBLc4yR9NzLAljEv) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Sólo Clásicos](https://open.spotify.com/album/5DfBSF2fVwXHH8z5jT2mpj) | 4:06 | 2022-10-21 | 2022-11-14 |
@@ -62,7 +63,7 @@
 | [Manantial de Amor](https://open.spotify.com/track/4fjpYExoflfn8tLFo1T4f0) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/6tb0dUes8ZvDbOqQuFLHEW) | 4:21 | 2022-10-21 | 2022-11-13 |
 | [Manantial De Amor](https://open.spotify.com/track/7Jj7xLUrsvHCiwOsNxzPPC) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Seguimos Por Lo Alto](https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0) | 4:21 | 2022-09-02 |  |
 | [Mañanita De Invierno \(feat\. Silvestre Dangond\)](https://open.spotify.com/track/661BYmEBVdUPhMY8X6DhKz) | [Poncho Zuleta](https://open.spotify.com/artist/1FrVJr7a4ZTOCSnKz3Fuq1), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Poncho Zuleta 45 Años](https://open.spotify.com/album/5K5ALlnrnBQUwtzzcA4qCy) | 8:37 | 2022-09-02 |  |
-| [Me Das Y Me Quitas Todo](https://open.spotify.com/track/3hRLE4fGujnPKx3lJi7Y5K) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt), [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek) | [Dos Épocas \(Segunda Edición\)](https://open.spotify.com/album/2PxwFOfB6afTLTGxYgwICy) | 4:48 | 2023-10-06 |  |
+| [Me Das Y Me Quitas Todo](https://open.spotify.com/track/3hRLE4fGujnPKx3lJi7Y5K) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt), [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek) | [Dos Épocas \(Segunda Edición\)](https://open.spotify.com/album/2PxwFOfB6afTLTGxYgwICy) | 4:48 | 2023-10-06 | 2023-11-18 |
 | [Me Gustas Mucho](https://open.spotify.com/track/5KsBV3bKtUtU64TmqCgVP7) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Sergio Luis Rodrí](https://open.spotify.com/artist/1ynyzPMXLuvZ3Of56x8i8A) | [Ni Un Paso Atrás](https://open.spotify.com/album/1p5Pm8Vqk932S2VFVUAoi4) | 3:28 | 2022-09-02 |  |
 | [Me Llevó a La Luna](https://open.spotify.com/track/3Xb8tWqcrIDB3DjOIOEFrT) | [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [Esto Que Dice!](https://open.spotify.com/album/1GEQTKbUhZTn8Gt22ao8kH) | 3:17 | 2023-04-05 |  |
 | [Me Llevó a la Luna](https://open.spotify.com/track/7Jf4BXs1gNxvNfyvRdrgRr) | [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [Me Llevó a la Luna](https://open.spotify.com/album/081pGgewGVZcmXyvP5pjLH) | 3:17 | 2022-09-02 | 2023-05-20 |

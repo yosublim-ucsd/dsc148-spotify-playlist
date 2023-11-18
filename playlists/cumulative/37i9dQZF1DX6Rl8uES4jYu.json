@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "Black Mona Lisa",
+        "url": "https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27"
+      },
+      "artists": [
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180695,
+      "name": "Black Mona Lisa",
+      "url": "https://open.spotify.com/track/7lmZTo2AochYJZH1oRsdI2"
+    },
+    {
+      "album": {
         "name": "Bluffin",
         "url": "https://open.spotify.com/album/6Ucl39vNPWlrVvvgKvSrB5"
       },
@@ -4414,7 +4432,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 243373,
       "name": "Mama Please Don't Worry",
       "url": "https://open.spotify.com/track/1uB095Io7q4aYT2BOhYjWA"
@@ -5752,7 +5770,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 184067,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/4WEsRq6qDqJdH7nAkmKevM"
@@ -8206,6 +8224,24 @@
       "duration_ms": 160560,
       "name": "Ya Feelin' Good?",
       "url": "https://open.spotify.com/track/68dUug5nr1tqRvzI8wa7Yw"
+    },
+    {
+      "album": {
+        "name": "Yee Yee",
+        "url": "https://open.spotify.com/album/0nSgtwHRnvZf4CAiTjjdZj"
+      },
+      "artists": [
+        {
+          "name": "Lady Bri",
+          "url": "https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163422,
+      "name": "Yee Yee",
+      "url": "https://open.spotify.com/track/1reQ2tpMpbOI6g51GGyIxi"
     },
     {
       "album": {

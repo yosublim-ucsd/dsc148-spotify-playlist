@@ -1229,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/1JhWmyKkdLe6Q8OdA2gxWl"
+      },
+      "artists": [
+        {
+          "name": "Brad Gibbons",
+          "url": "https://open.spotify.com/artist/07HQ4bkB1wrpo6AyJ5wCQh"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192607,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/4LoPAEHD6VdEmBgMiWgEu2"
+    },
+    {
+      "album": {
         "name": "Chill in Saint Tropez",
         "url": "https://open.spotify.com/album/2gofzKGHpl3kezVkubqwNT"
       },

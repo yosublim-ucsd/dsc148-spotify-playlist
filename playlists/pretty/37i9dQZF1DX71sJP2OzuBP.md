@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,723 likes - 110 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,729 likes - 110 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [不懂絕望](https://open.spotify.com/track/1RLSpChhEUOWkPKRvWt9oY) | [陳威全](https://open.spotify.com/artist/1AXBUAKorwcXfesS9xj5m5) | [MAMAK](https://open.spotify.com/album/7J5hXDwdHTzIycAm38yZ65) | 4:09 |
 | 2 | [夕阳向晚](https://open.spotify.com/track/7wVkmnvRbMjbb3zni8ysxf) | [Kelly Yu](https://open.spotify.com/artist/5R56NYbLCC2HpOwlYBnmeN) | [夕阳向晚](https://open.spotify.com/album/5oFIiEruyZ9y4iZRXFaHOo) | 4:40 |
-| 3 | [Lion of the Sun](https://open.spotify.com/track/1lJKxwBp7sHTVpoN4xA7BY) | [Edward Chen](https://open.spotify.com/artist/0dfSUAJNqVKUe9Zqs2gQoY) | [Almost Human](https://open.spotify.com/album/3koA5RKrfbPs5EaCHSPsL5) | 4:19 |
+| 3 | [Lion of the Sun](https://open.spotify.com/track/1lJKxwBp7sHTVpoN4xA7BY) | [Edward Chen](https://open.spotify.com/artist/3caZxmZkahlga1xtnOtahu) | [Almost Human](https://open.spotify.com/album/3koA5RKrfbPs5EaCHSPsL5) | 4:19 |
 | 4 | [念念不忘 \- 电影《念念相忘》主题曲](https://open.spotify.com/track/0HJi9bUARUsxztKT7iHjzo) | [Jane Zhang](https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu) | [念念不忘 \(电影《念念相忘》主题曲\)](https://open.spotify.com/album/1TSwpFghoNHeSOjfAagTEV) | 4:06 |
 | 5 | [你是我這輩子最想愛的呀](https://open.spotify.com/track/4NF4arILnIdBOZu2FkRV8P) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [你是我這輩子最想愛的呀](https://open.spotify.com/album/30pjHo1kj2exb6bIUfCvVv) | 4:24 |
 | 6 | [和解局 \(影視劇《無所畏懼》片尾曲\)](https://open.spotify.com/track/3tVr8N43kw5gwt34fMeJb5) | [周蕙](https://open.spotify.com/artist/6ew1z502mb9PeBPTVybZ2l) | [和解局 \(影視劇《無所畏懼》片尾曲\)](https://open.spotify.com/album/0J7s25xuXBCyveSLEd4fOU) | 3:35 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 109 | [沒有名字的地方](https://open.spotify.com/track/3rKtWI49zelWKvyejCaLLE) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [半熟理想](https://open.spotify.com/album/1qE3IWG3xPJZdLkAXB1rAs) | 4:05 |
 | 110 | [也許路很長](https://open.spotify.com/track/2h8nkZW9vo6ikAPnY6z4xi) | [蕭人豪](https://open.spotify.com/artist/0oquPSgD0uI6QRHBJqMJfq) | [也許路很長](https://open.spotify.com/album/78aNvZpHJiGL8Z8DkohZLh) | 3:55 |
 
-Snapshot ID: `MCxjZWQ2Njc2OTc2NWFkZmRlZTVkZmQ4NmFhNDdmY2Y2ZmRlYTlhMjNk`
+Snapshot ID: `MCw3YWMxZmFjN2MzODNhYjc5MzZlNTg4OTUwNzEyNmQzZGYxMmFhNmNh`

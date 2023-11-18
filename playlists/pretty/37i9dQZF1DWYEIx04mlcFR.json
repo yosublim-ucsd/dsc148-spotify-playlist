@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de artistas con Humbe en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 65192,
+  "num_followers": 65221,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGNkYTYxN2E4Yzg0NjZhY2E1NjhhMzMwYzMwNTQzMDI2ZjExM2Yz",
+  "snapshot_id": "MCwxZGM2YzVkNmRkYTk2OWJiZGNlZjE1Nzk2MDBlYjhmYjQwODU4Mjky",
   "tracks": [
     {
       "added_at": "2023-11-03 06:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
+        "name": "Medianoche",
+        "url": "https://open.spotify.com/album/3XCI5ZjZMArpKdOcyqVFZL"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Un Ratito",
+      "url": "https://open.spotify.com/track/6B5qbGyX9UPkdWJIkJlfnP"
+    },
+    {
+      "added_at": "2023-10-21 01:26:40",
+      "album": {
         "name": "mE vALe maDRE :)",
         "url": "https://open.spotify.com/album/2NU9IGazkM2S6l0C0i1EaP"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 229573,
       "name": "Ya No Es Lo Mismo",
       "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"
-    },
-    {
-      "added_at": "2023-10-21 01:26:40",
-      "album": {
-        "name": "Medianoche",
-        "url": "https://open.spotify.com/album/3XCI5ZjZMArpKdOcyqVFZL"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Un Ratito",
-      "url": "https://open.spotify.com/track/6B5qbGyX9UPkdWJIkJlfnP"
     },
     {
       "added_at": "2023-10-21 01:26:40",
@@ -799,8 +799,24 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
-        "name": "nunca me dejes </3",
-        "url": "https://open.spotify.com/album/1DjcS2GNrwG9nkt6J1rcR0"
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
+    },
+    {
+      "added_at": "2023-10-21 01:26:40",
+      "album": {
+        "name": "odiarte",
+        "url": "https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA"
       },
       "artists": [
         {
@@ -808,9 +824,9 @@
           "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 206250,
-      "name": "nunca me dejes </3",
-      "url": "https://open.spotify.com/track/1Fo6FrFsz0QygL1Ti103Aj"
+      "duration_ms": 190000,
+      "name": "odiarte",
+      "url": "https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU"
     },
     {
       "added_at": "2023-10-21 01:26:40",
@@ -835,18 +851,18 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+        "name": "Felicidad y Otros Mitos",
+        "url": "https://open.spotify.com/album/5sNU3aUBHNEo1Y1pjHOdFI"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
         }
       ],
-      "duration_ms": 188560,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
+      "duration_ms": 201182,
+      "name": "Palabras De Papel (Veneno)",
+      "url": "https://open.spotify.com/track/37nE3DnKSFMyYIsUngPjjI"
     },
     {
       "added_at": "2023-10-21 01:26:40",
@@ -863,22 +879,6 @@
       "duration_ms": 200339,
       "name": "Agua Caliente",
       "url": "https://open.spotify.com/track/1iUIeyrLRtHXc1K1Xjzxvf"
-    },
-    {
-      "added_at": "2023-10-21 01:26:40",
-      "album": {
-        "name": "Felicidad y Otros Mitos",
-        "url": "https://open.spotify.com/album/5sNU3aUBHNEo1Y1pjHOdFI"
-      },
-      "artists": [
-        {
-          "name": "Urb\u00f8i",
-          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
-        }
-      ],
-      "duration_ms": 201182,
-      "name": "Palabras De Papel (Veneno)",
-      "url": "https://open.spotify.com/track/37nE3DnKSFMyYIsUngPjjI"
     },
     {
       "added_at": "2023-10-21 01:26:40",
@@ -903,8 +903,8 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
-        "name": "odiarte",
-        "url": "https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA"
+        "name": "nunca me dejes </3",
+        "url": "https://open.spotify.com/album/1DjcS2GNrwG9nkt6J1rcR0"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 190000,
-      "name": "odiarte",
-      "url": "https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU"
+      "duration_ms": 206250,
+      "name": "nunca me dejes </3",
+      "url": "https://open.spotify.com/track/1Fo6FrFsz0QygL1Ti103Aj"
     },
     {
       "added_at": "2023-10-21 01:26:40",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
-        "name": "Brillantina",
-        "url": "https://open.spotify.com/album/6xJf96sSXhVYsAlNJ4WWUl"
+        "name": "LO QUE PAS\u00d3 UNA VEZ",
+        "url": "https://open.spotify.com/album/46AiJ3b8zW1Mg7L8oZHf8t"
       },
       "artists": [
         {
-          "name": "Urb\u00f8i",
-          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+          "name": "Ervin River",
+          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
         }
       ],
-      "duration_ms": 207428,
-      "name": "Brillantina",
-      "url": "https://open.spotify.com/track/6jdmBiyGFqqSmShFLoNkkL"
+      "duration_ms": 150013,
+      "name": "LO QUE PAS\u00d3 UNA VEZ",
+      "url": "https://open.spotify.com/track/3DEuPFTumozG70UjBuZDTL"
     },
     {
       "added_at": "2023-10-21 01:26:40",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
-        "name": "LO QUE PAS\u00d3 UNA VEZ",
-        "url": "https://open.spotify.com/album/46AiJ3b8zW1Mg7L8oZHf8t"
+        "name": "Brillantina",
+        "url": "https://open.spotify.com/album/6xJf96sSXhVYsAlNJ4WWUl"
       },
       "artists": [
         {
-          "name": "Ervin River",
-          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
         }
       ],
-      "duration_ms": 150013,
-      "name": "LO QUE PAS\u00d3 UNA VEZ",
-      "url": "https://open.spotify.com/track/3DEuPFTumozG70UjBuZDTL"
+      "duration_ms": 207428,
+      "name": "Brillantina",
+      "url": "https://open.spotify.com/track/6jdmBiyGFqqSmShFLoNkkL"
     },
     {
       "added_at": "2023-10-21 01:26:40",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-10-21 01:26:40",
       "album": {
+        "name": "La Lista",
+        "url": "https://open.spotify.com/album/6vF9qaVzcUaOh9A0fuA7PP"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 224363,
+      "name": "La Lista",
+      "url": "https://open.spotify.com/track/0AtNOujrNexbsOjJkD7NEF"
+    },
+    {
+      "added_at": "2023-10-21 01:26:40",
+      "album": {
         "name": "CLAR%SCURO",
         "url": "https://open.spotify.com/album/27oMHySev9yNNTbME6hAJL"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 170803,
       "name": "cansada de verte en todas partes",
       "url": "https://open.spotify.com/track/09uBE5fjZUWZfjD2ensCGR"
-    },
-    {
-      "added_at": "2023-10-21 01:26:40",
-      "album": {
-        "name": "La Lista",
-        "url": "https://open.spotify.com/album/6vF9qaVzcUaOh9A0fuA7PP"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 224363,
-      "name": "La Lista",
-      "url": "https://open.spotify.com/track/0AtNOujrNexbsOjJkD7NEF"
     },
     {
       "added_at": "2023-10-21 01:26:40",

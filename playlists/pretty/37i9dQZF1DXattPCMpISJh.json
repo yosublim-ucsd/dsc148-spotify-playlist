@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Idina Menzel",
-  "num_followers": 101143,
+  "num_followers": 101181,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjExZGI2OGU4MTNkNDlhODIzYmY4MDVmNzBjM2RjOWE2NGViZTgz",
+  "snapshot_id": "MCw1NzZlMzJjZDgwM2VlZGRlNTc5ZDQwMDIyZmVjYzJkYjkyOGNkM2Ji",
   "tracks": [
     {
       "added_at": "2023-10-13 04:01:00",
@@ -103,6 +103,26 @@
       "duration_ms": 220000,
       "name": "Fight My Demons",
       "url": "https://open.spotify.com/track/6qmuDfuovbFjz6kMgiSokm"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Mess It Up (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/0L6IypGWr61krz90boqPDD"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 215370,
+      "name": "Mess It Up - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/7wkTF8cHGCurrfNATqvJLc"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -688,7 +708,7 @@
       "added_at": "2022-04-08 04:01:00",
       "album": {
         "name": "Infinite Disco",
-        "url": "https://open.spotify.com/album/7FuqPFZVmhRJ96S5XajcoJ"
+        "url": "https://open.spotify.com/album/22FbsSjPqf7kxayE4M5ut3"
       },
       "artists": [
         {
@@ -697,8 +717,8 @@
         }
       ],
       "duration_ms": 193026,
-      "name": "Slow / Love to Love You Baby - From the Infinite Disco Livestream",
-      "url": "https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H"
+      "name": "Slow / Love to Love You Baby (From the Infinite Disco Livestream)",
+      "url": "https://open.spotify.com/track/0AocMj1DZuKPXGVrCICNNu"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1899,22 +1919,6 @@
       "duration_ms": 171903,
       "name": "Lost Tonight",
       "url": "https://open.spotify.com/track/7yz9JSRAHicHMCzXUT4OBq"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "Ticket to the Moon",
-        "url": "https://open.spotify.com/album/5PuxGOFsboXuUmD8X7jShz"
-      },
-      "artists": [
-        {
-          "name": "Carvel'",
-          "url": "https://open.spotify.com/artist/0I4uy2IXjgZo96j10CpaMf"
-        }
-      ],
-      "duration_ms": 162733,
-      "name": "Ticket to the Moon",
-      "url": "https://open.spotify.com/track/1fXfLc7IUxBFUXWz63R7qy"
     }
   ],
   "unique_name": "Nu-Disco",

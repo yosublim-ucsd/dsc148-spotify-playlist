@@ -698,7 +698,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 245643,
       "name": "Already Won",
       "url": "https://open.spotify.com/track/5J5kD4jXgjQ69FsCS0gFYS"
@@ -3008,10 +3008,28 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 185211,
       "name": "Choose You",
       "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
+    },
+    {
+      "album": {
+        "name": "Christlike",
+        "url": "https://open.spotify.com/album/7AT9CduyNSv6yF2O4K07p2"
+      },
+      "artists": [
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159230,
+      "name": "Christlike",
+      "url": "https://open.spotify.com/track/0N5m0V3VZ4TLTHhiTxeFV1"
     },
     {
       "album": {
@@ -3554,6 +3572,28 @@
       "duration_ms": 181379,
       "name": "ctrl+z",
       "url": "https://open.spotify.com/track/6pMeOcymjegRatCWqDaQAh"
+    },
+    {
+      "album": {
+        "name": "Daily Bread",
+        "url": "https://open.spotify.com/album/0eazU1DxDuxZYpJKllml9C"
+      },
+      "artists": [
+        {
+          "name": "EmanuelDaProphet",
+          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99137,
+      "name": "Daily Bread",
+      "url": "https://open.spotify.com/track/2sCaeamb3MHqMHL7YS5bMm"
     },
     {
       "album": {
@@ -7703,6 +7743,24 @@
     },
     {
       "album": {
+        "name": "Jesus Saves",
+        "url": "https://open.spotify.com/album/6SOjKdL4QokqG6J62NGO5v"
+      },
+      "artists": [
+        {
+          "name": "Kidd Lee",
+          "url": "https://open.spotify.com/artist/0M120oS8JMyuyba6YoweKS"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189737,
+      "name": "Jesus Saves",
+      "url": "https://open.spotify.com/track/48xzr5gRIJIGHEKPCbqwmA"
+    },
+    {
+      "album": {
         "name": "FTLOG (DELUXE)",
         "url": "https://open.spotify.com/album/5oKd3jyns6sVMUbbfB8TcG"
       },
@@ -10204,7 +10262,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 161538,
       "name": "NO FRIENDS",
       "url": "https://open.spotify.com/track/02ukrJfoHTagogj3cTR9sO"
@@ -12590,7 +12648,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 242564,
       "name": "Red Light Green Light",
       "url": "https://open.spotify.com/track/7vhLO7AIWYlMjLk2aAED7x"
@@ -15816,7 +15874,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 173972,
       "name": "Up",
       "url": "https://open.spotify.com/track/3bY6606BZNDJsMJiFUQ9qj"

@@ -1250,7 +1250,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 179213,
       "name": "I Like Christmas",
       "url": "https://open.spotify.com/track/7vbUA4qsHGQy7weCqhVmus"
@@ -3094,6 +3094,28 @@
       "duration_ms": 227653,
       "name": "Wonderful Christmastime [Edited Version] - Remastered 2011 / Edited Version",
       "url": "https://open.spotify.com/track/7Lbxvt42JsNSKVCaN63qhD"
+    },
+    {
+      "album": {
+        "name": "Wrap Me Up",
+        "url": "https://open.spotify.com/album/0M6OuM3H038lJkpl5EMzik"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Fallon",
+          "url": "https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148027,
+      "name": "Wrap Me Up",
+      "url": "https://open.spotify.com/track/1tGlu4k3SPA1kHVSpDSo3u"
     },
     {
       "album": {

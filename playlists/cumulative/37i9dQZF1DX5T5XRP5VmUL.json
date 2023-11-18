@@ -475,6 +475,24 @@
     },
     {
       "album": {
+        "name": "Baby It\u2019s Not Christmas Without You",
+        "url": "https://open.spotify.com/album/5Mmo9hY5lKWUBmiBB7mEtJ"
+      },
+      "artists": [
+        {
+          "name": "Stacey Ryan",
+          "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167133,
+      "name": "Baby It\u2019s Not Christmas Without You",
+      "url": "https://open.spotify.com/track/01jcUhKrle6a3YLPPAPVPl"
+    },
+    {
+      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv"
       },
@@ -508,7 +526,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 219400,
       "name": "Back Home Christmas",
       "url": "https://open.spotify.com/track/2rEVJTkweG9QW6HPXyDJI4"
@@ -660,7 +678,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 107791,
       "name": "Broke Christmas",
       "url": "https://open.spotify.com/track/2PrTOuCSGN9mbQLMq9QIbS"
@@ -999,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "Christmas in California",
+        "url": "https://open.spotify.com/album/7zDHDUi94poNUi2prXFPSQ"
+      },
+      "artists": [
+        {
+          "name": "STACEY",
+          "url": "https://open.spotify.com/artist/1rfYzEJpmnmhVM1V6LUHTQ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189046,
+      "name": "Christmas in California",
+      "url": "https://open.spotify.com/track/7Giga9qA0SLacsMlIRD4X8"
+    },
+    {
+      "album": {
         "name": "Christmas Is a Way of Life, My Dear",
         "url": "https://open.spotify.com/album/6yCtY3ddfiDBqwuJ1a90nD"
       },
@@ -1104,6 +1140,24 @@
       "duration_ms": 242495,
       "name": "Christmas Lights",
       "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
+    },
+    {
+      "album": {
+        "name": "christmas lights",
+        "url": "https://open.spotify.com/album/72Sm4S7HImUd9m25k8K1oV"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268101,
+      "name": "christmas lights",
+      "url": "https://open.spotify.com/track/30rSSHrRnhtUxU9hbW1CFE"
     },
     {
       "album": {
@@ -1450,7 +1504,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 220960,
       "name": "Count Your Blessings Instead Of Sheep",
       "url": "https://open.spotify.com/track/0pgP4ROMLqFVDby6dedXwz"
@@ -1558,7 +1612,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 197167,
       "name": "Don't Hang The Mistletoe",
       "url": "https://open.spotify.com/track/2rosR0KdbTVUxuHuyPrhwG"
@@ -2530,7 +2584,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 180923,
       "name": "I'll Be Home for Christmas",
       "url": "https://open.spotify.com/track/6kDt7UcDZJMrAluOxTSWV1"
@@ -2584,7 +2638,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 145139,
       "name": "I'm Ready For Christmas",
       "url": "https://open.spotify.com/track/7MMXcvgISOTgjwJq8RAj9f"
@@ -2746,7 +2800,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 240000,
       "name": "It Won't Be Christmas ('till You're Here)",
       "url": "https://open.spotify.com/track/71JECBTllXdl37lGVkH33S"
@@ -2822,6 +2876,24 @@
       "duration_ms": 217398,
       "name": "It's Christmas (Snow is Falling)",
       "url": "https://open.spotify.com/track/1lXkOnvzw4o6dncgSc9kwU"
+    },
+    {
+      "album": {
+        "name": "It's Not Christmas Till Somebody Cries",
+        "url": "https://open.spotify.com/album/1kmXMD3SJfTEt4NmrSKRhe"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172250,
+      "name": "It's Not Christmas Till Somebody Cries",
+      "url": "https://open.spotify.com/track/18J9Wt6fBBFjkQciPsxa3g"
     },
     {
       "album": {
@@ -3150,10 +3222,48 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 269124,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/7q8Fv75FWwsbx1XXAiEHQN"
+    },
+    {
+      "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/5M5dF1R53sHPHUGuPMRz4R"
+      },
+      "artists": [
+        {
+          "name": "Virginia To Vegas",
+          "url": "https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi"
+        },
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        },
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        },
+        {
+          "name": "New Friends",
+          "url": "https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb"
+        },
+        {
+          "name": "noelle",
+          "url": "https://open.spotify.com/artist/0UBB7UD8Lvt7UesGnXDRpy"
+        },
+        {
+          "name": "Shawn Hook",
+          "url": "https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168738,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/0u74xi5AJEulKPccore7B2"
     },
     {
       "album": {
@@ -3848,7 +3958,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 251800,
       "name": "Mittens",
       "url": "https://open.spotify.com/track/7CAktr74xIvZnE8eJHGYPX"
@@ -4210,6 +4320,24 @@
       "duration_ms": 188313,
       "name": "Paper Planes",
       "url": "https://open.spotify.com/track/0GD0w53V5djRZe4HW9xGki"
+    },
+    {
+      "album": {
+        "name": "Please Come Home for Christmas",
+        "url": "https://open.spotify.com/album/6vRbT0SJ0jkIj66OT4yrs8"
+      },
+      "artists": [
+        {
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165320,
+      "name": "Please Come Home for Christmas",
+      "url": "https://open.spotify.com/track/3GZwaCUpDIOtZxZF7AbQLz"
     },
     {
       "album": {
@@ -6040,6 +6168,24 @@
       "duration_ms": 133754,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/6hgFVBbQYBMVlMHZwM6AP7"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132800,
+      "name": "Winter Wonderland - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
     },
     {
       "album": {

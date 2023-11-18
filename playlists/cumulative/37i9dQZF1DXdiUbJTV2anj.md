@@ -4,12 +4,13 @@
 
 > Heavy new bands you need to have an eye on\. Cover: Static Dress
 
-185 songs - 10 hr 38 min
+186 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Fly on the Wall \(Nobody is Home\)](https://open.spotify.com/track/6dpyMuO35p1DMpxk3GNrCV) | [We Weren't Invited](https://open.spotify.com/artist/484CN86xjq6HfQv21USxVa) | [Flesh Vehicle, Pt\. 2](https://open.spotify.com/album/2lWsY39nOBqKeV5HKsIlXf) | 4:34 | 2023-01-13 | 2023-06-21 |
-| [Abandon Meant](https://open.spotify.com/track/5iyHvyWgXcPTznrSCA1FX5) | [Graysea](https://open.spotify.com/artist/2ARLxGqlg0rKKxe6bPHXtV) | [Abandon Meant](https://open.spotify.com/album/0HQT7vjsS71uiQ6tOMmtpo) | 4:52 | 2023-01-06 |  |
+| [Abandon Meant](https://open.spotify.com/track/5iyHvyWgXcPTznrSCA1FX5) | [Graysea](https://open.spotify.com/artist/2ARLxGqlg0rKKxe6bPHXtV) | [Abandon Meant](https://open.spotify.com/album/0HQT7vjsS71uiQ6tOMmtpo) | 4:52 | 2023-01-06 | 2023-11-18 |
+| [Abandon Meant](https://open.spotify.com/track/6yYRYER1dqMZsSyTmqfxrC) | [Graysea](https://open.spotify.com/artist/2ARLxGqlg0rKKxe6bPHXtV) | [Weight In The Water](https://open.spotify.com/album/6HvSSvuAPdwDhBdHUvTY3h) | 4:52 | 2023-06-20 |  |
 | [All Talk](https://open.spotify.com/track/3q7M84onWH32v6oP4oOlP6) | [Dead Romantic](https://open.spotify.com/artist/4jv8lGnnLKnExlPh88e48A) | [All Talk](https://open.spotify.com/album/75NUEwsH1kdH33kVeBoCeo) | 2:55 | 2022-07-29 | 2022-09-10 |
 | [All the Weight](https://open.spotify.com/track/1J8w2cPF7NAcD2QKtoWh0U) | [As The Structure Fails](https://open.spotify.com/artist/12A5ksM0yYvX6ULrJmIvQN) | [All the Weight](https://open.spotify.com/album/3NmSRgQxnl33x8sOkfICLD) | 4:03 | 2022-07-29 | 2022-12-24 |
 | [Anathema](https://open.spotify.com/track/1oLHIkHzNipzkouaBClSdl) | [Evilgloom](https://open.spotify.com/artist/1cJ8mgIFVHt86l9J90pkBa) | [Addictions](https://open.spotify.com/album/4Cfplm19oERf2huyJwaKGJ) | 3:21 | 2023-03-02 | 2023-05-19 |

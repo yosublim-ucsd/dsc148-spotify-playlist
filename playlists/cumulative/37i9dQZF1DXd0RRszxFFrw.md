@@ -4,7 +4,7 @@
 
 > Dulces rasgueos de cuerdas para acompañar tu velada
 
-104 songs - 5 hr 59 min
+105 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [La Bamba](https://open.spotify.com/track/5BglMYKJZtFzgv8qZYjx6M) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [La Bamba](https://open.spotify.com/album/1wzTgftA9iHeGRlsWzAlzu) | 2:29 | 2022-06-16 | 2022-07-29 |
 | [La Bamba \- Guitar Solo](https://open.spotify.com/track/2j1ceA9K8Ugl2xyLwEGGt9) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers, Vol\. 1](https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy) | 2:30 | 2022-07-21 |  |
 | [La Cascata](https://open.spotify.com/track/1BZLT1iTsTy1IpstmYE6PI) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [La Cascata](https://open.spotify.com/album/7tQWWgdBbI5n2K27VmQiMy) | 2:11 | 2022-07-21 | 2022-10-28 |
-| [La Fuente](https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj) | [Muniesa](https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v) | [La Fuente](https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J) | 2:42 | 2022-07-21 | 2023-10-10 |
+| [La Fuente](https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj) | [Muniesa](https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v) | [La Fuente](https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J) | 2:42 | 2022-07-21 |  |
 | [Lagrima](https://open.spotify.com/track/5BI10E53YBSMYbCnKijBEN) | [Alex Albright](https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj) | [Spanish Guitar EP](https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk) | 1:49 | 2022-06-16 |  |
 | [Las gracias](https://open.spotify.com/track/5WWDAx4xTkbtnIxgvVch2n) | [Pipo Romero](https://open.spotify.com/artist/4ummYkljHZF1YvDE4DSmkq) | [Ikigai](https://open.spotify.com/album/4YwSofiVUy4Ju0nOw21Na6) | 5:36 | 2022-06-16 | 2022-07-26 |
 | [Le Français Argentin](https://open.spotify.com/track/3hBnUS7koSxJorQUmRuFHW) | [Leon Noel](https://open.spotify.com/artist/33HL5KjSpPc12d2m01u6qB), [Roy Altice](https://open.spotify.com/artist/4WbBlvI0I3igsnRaNFzjBb) | [Leon Noel & Roy Altice](https://open.spotify.com/album/1pSdcWvO67Ey07XOjUiuV2) | 2:43 | 2022-06-16 | 2023-04-27 |
@@ -71,7 +71,7 @@
 | [Manhã De Carnaval](https://open.spotify.com/track/2T8p7MvybiHtfvvldFJ218) | [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY), [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Paco De Lucia, Al Di Meola, John McLaughlin](https://open.spotify.com/album/3S83H2RAz4qYHibsrEKfm7) | 6:12 | 2022-06-16 |  |
 | [Me Estas Haciendo Falta](https://open.spotify.com/track/5V0WQGIPkrEgpgQAOaGBif) | [Elias Carrera](https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO) | [Wasi](https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ) | 2:32 | 2022-06-16 |  |
 | [Meu coração](https://open.spotify.com/track/6c8xRdxYhrj6VaEbUS6mu3) | [Xavier Hermenegildo](https://open.spotify.com/artist/6KlphmbEPapSqBKhND7mJC) | [Meu coração](https://open.spotify.com/album/405dosv3ZeaoHAXrY5bbgq) | 2:23 | 2022-06-16 |  |
-| [Mexican Mood](https://open.spotify.com/track/1GlBh7jgGCrZOY1SrzvMkx) | [Gypsy Flamenco Masters](https://open.spotify.com/artist/3fvnWc7bLQVnkrtFI298rl) | [Romantic Carnival Chillout Music](https://open.spotify.com/album/4mbBeSPRVCfvaLLZ8YCdsL) | 1:37 | 2022-06-16 |  |
+| [Mexican Mood](https://open.spotify.com/track/1GlBh7jgGCrZOY1SrzvMkx) | [Gypsy Flamenco Masters](https://open.spotify.com/artist/3fvnWc7bLQVnkrtFI298rl) | [Romantic Carnival Chillout Music](https://open.spotify.com/album/4mbBeSPRVCfvaLLZ8YCdsL) | 1:37 | 2022-06-16 | 2023-11-18 |
 | [Mexico 1910](https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Cinema Latino Vol\. 1](https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B) | 1:47 | 2022-06-16 |  |
 | [Milonga](https://open.spotify.com/track/0mFJtHH4xJgoxdmLSfvK4b) | [Paco Lara](https://open.spotify.com/artist/7bzLUTqBs1M5Be8k2jbk45), [Santiago Lara](https://open.spotify.com/artist/1La6DecHiig1zpPFRHi5yQ) | [The Andalusian Guitar](https://open.spotify.com/album/0YKpmdeKwm9A9d8VZANavZ) | 3:56 | 2022-06-16 |  |
 | [Montalbán](https://open.spotify.com/track/4oVDnTJ0ctB5OajVGuAUpo) | [Muniesa](https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v) | [Muniesa](https://open.spotify.com/album/1aj7jOSaXgoZcA0auD3BGK) | 2:06 | 2022-07-21 |  |
@@ -111,6 +111,7 @@
 | [Vivienne \- Rumba](https://open.spotify.com/track/5ShW5SmpX42BiE8VCyhkRv) | [Rafael Cortés](https://open.spotify.com/artist/4RfGBxL6vEDgVbaYKmHHDY) | [Asi lo siento](https://open.spotify.com/album/1xKRNJF9jq98hTZiqHVfpD) | 3:17 | 2022-06-16 |  |
 | [When the Ocean Sleeps](https://open.spotify.com/track/2ioFkeG63Xy5cdvjq5JpHr) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Lost Tales of Catalonia](https://open.spotify.com/album/1LnfyMLkTr1BD7UPj6ykTl) | 3:13 | 2022-06-16 |  |
 | [Zaralmondi \- Colombianas](https://open.spotify.com/track/2g7F6mDctEtgtyJi7QMxuT) | [Enrique De Melchor](https://open.spotify.com/artist/1gIRAKME2A6CNJ3mBSBpjl) | [Bajo La Luna](https://open.spotify.com/album/1udJi8ZsnPP4DeaB0iBhAO) | 3:51 | 2022-06-16 |  |
-| [À Antiga](https://open.spotify.com/track/4x1IWqS2ItKnZlvZUVF8NG) | [André Parafina](https://open.spotify.com/artist/0kUi8iooCVM56Fxc2uveTc), [Diogo Esparteiro](https://open.spotify.com/artist/7GjPFUeSxBBxLpzpVs6SPD), [Royal Bermuda](https://open.spotify.com/artist/2IvpGxRjmROXKWi7rgTFBM) | [À Antiga](https://open.spotify.com/album/7ucPk6aAMMUj297j8nl4x7) | 5:21 | 2022-06-16 |  |
+| [À Antiga](https://open.spotify.com/track/4x1IWqS2ItKnZlvZUVF8NG) | [André Parafina](https://open.spotify.com/artist/0kUi8iooCVM56Fxc2uveTc), [Diogo Esparteiro](https://open.spotify.com/artist/7GjPFUeSxBBxLpzpVs6SPD), [Royal Bermuda](https://open.spotify.com/artist/2IvpGxRjmROXKWi7rgTFBM) | [À Antiga](https://open.spotify.com/album/7ucPk6aAMMUj297j8nl4x7) | 5:21 | 2022-06-16 | 2023-11-18 |
+| [À Antiga](https://open.spotify.com/track/7nSGXqLZ0wZBdfEq3xNt85) | [Royal Bermuda](https://open.spotify.com/artist/2IvpGxRjmROXKWi7rgTFBM) | [Sempiterna](https://open.spotify.com/album/1L5pMdUqXr0JYHmchngpyp) | 5:20 | 2022-10-27 |  |
 
 \*This playlist was first scraped on 2022-07-19. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Steve Aoki x ERNEST
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,113 likes - 84 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,190 likes - 84 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 83 | [Get Shaky](https://open.spotify.com/track/3lmvwxi0iX53UAwrl5YShV) | [Ian Carey Project](https://open.spotify.com/artist/5PbZIYWcDuRgEbMs7abSTH), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Get Shaky](https://open.spotify.com/album/0MgNmWt1iK8KnEG50nxH4u) | 2:43 |
 | 84 | [I CAN'T FLY](https://open.spotify.com/track/1N7gxaXwuUnPZxmJKECApJ) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [I CAN'T FLY](https://open.spotify.com/album/5E3LwMkc36cZjRAugUlI0o) | 2:29 |
 
-Snapshot ID: `MCw2MjU3OTZmOWNjYWIzMGJlOWIyMmY2YmM3MGEwZTI5ZjBkOGNkZjYz`
+Snapshot ID: `MCxmNGIxZGM2MGQ2ZWRhNmY5ZGM1ZDc4NmRiMjU4OGIzZGRhOWFjNDli`

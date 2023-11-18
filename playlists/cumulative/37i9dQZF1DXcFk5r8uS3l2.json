@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Vintage Trouble",
+  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: ZZ Ward",
   "name": "Blues Roots",
   "tracks": [
     {
@@ -2415,6 +2415,24 @@
     },
     {
       "album": {
+        "name": "I Drink Alone",
+        "url": "https://open.spotify.com/album/2qD3wp0RGuqCDJCJYH5OTi"
+      },
+      "artists": [
+        {
+          "name": "Bad Flamingo",
+          "url": "https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226726,
+      "name": "I Drink Alone",
+      "url": "https://open.spotify.com/track/3uiPbbS5yy5wuENxzsS01Q"
+    },
+    {
+      "album": {
         "name": "Outskirts of Love",
         "url": "https://open.spotify.com/album/3RbTP1BoNM2obRu7Zr31kJ"
       },
@@ -3538,7 +3556,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 193322,
       "name": "Mountain Road",
       "url": "https://open.spotify.com/track/7o2FUCaN5BkqzGrM7kajEo"
@@ -5311,6 +5329,24 @@
     },
     {
       "album": {
+        "name": "Dirty Shine (Dirty Deluxe)",
+        "url": "https://open.spotify.com/album/4GTwClQjdN0otMH75u6MYr"
+      },
+      "artists": [
+        {
+          "name": "ZZ Ward",
+          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217284,
+      "name": "The Mend",
+      "url": "https://open.spotify.com/track/3lsi95o89SYcpyuqGw0qeg"
+    },
+    {
+      "album": {
         "name": "Old Habits",
         "url": "https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y"
       },
@@ -5550,7 +5586,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 182560,
       "name": "Tin Cups",
       "url": "https://open.spotify.com/track/622IlDFXeH6TSdmPJCBJCz"

@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Kim Kunni; thiết kế: Isu Kim
 
-1,409 songs - 3 day 10 hr 29 min
+1,413 songs - 3 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Adrenaline](https://open.spotify.com/track/4fol1mRfChVQotmqksmytV) | [Young Draco](https://open.spotify.com/artist/601J3nke3wUjbOx0hWY9uA), [Young Bo5](https://open.spotify.com/artist/3IKIHkOCcJqWpM3fYMqk6o), [Ozee Kxng](https://open.spotify.com/artist/17vAfc5ZHLo0FHmutTI46A) | [Adrenaline](https://open.spotify.com/album/2l9z4aAx7R3K3KQWru1tvw) | 3:28 | 2022-10-10 | 2022-10-21 |
 | [ai dau can anh...?](https://open.spotify.com/track/5XCwP3NH8XiqukfUSh8Pjr) | [Vxllish](https://open.spotify.com/artist/27RxVUWFswWxJaZzF1R3CT), [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06) | [ai dau can anh...?](https://open.spotify.com/album/4xLv7DVlNFKiaz5BeqIE4F) | 5:20 | 2023-04-13 | 2023-05-18 |
 | [Ai Là Người Cô Đơn](https://open.spotify.com/track/3X8gQo8kxTv8Zr48RFImow) | [DOESNT.K](https://open.spotify.com/artist/2QR6wKgm8jncFQv9Uor8dP) | [Ai Là Người Cô Đơn](https://open.spotify.com/album/50wBwSdyaxEqQHUtiUuM1B) | 2:46 | 2023-09-13 | 2023-09-29 |
+| [Ai Rồi Cũng](https://open.spotify.com/track/2LPmvV3yq4CSFw26arPC98) | [Quốc Toản](https://open.spotify.com/artist/6HJ6SHEULYvjk9Syx9d0q4), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Ai Rồi Cũng](https://open.spotify.com/album/55H1DIdRbQF774BOsPPKxy) | 4:50 | 2023-11-16 |  |
 | [AI ĐÓN EM VỀ ?](https://open.spotify.com/track/1uVcnQ9WTmgwFVvddT3AsV) | [Cristian](https://open.spotify.com/artist/5UVYVxjwTczzmEqjAoTWu7), [Bennn](https://open.spotify.com/artist/29xskXsdUlVZFODDTeBgoS) | [AI ĐÓN EM VỀ ?](https://open.spotify.com/album/77wqi45UK3uSGoUiywch2B) | 4:39 | 2023-07-13 | 2023-08-11 |
 | [Ai Đúng Ai Sai](https://open.spotify.com/track/4PyuO1tKjHGGE4Cu6eQSgM) | [Luong Minh Trang](https://open.spotify.com/artist/1tJo3demkLZyzZ3ZNQTCxx) | [Ai Đúng Ai Sai](https://open.spotify.com/album/27Xc6Q3hLMEwxJ42ZvWwAx) | 4:36 | 2022-02-24 | 2022-03-05 |
 | [Ai? \- Tôi Vẫn Chưa Biết Mình Là I](https://open.spotify.com/track/36sypYLMRxUvXDw7LCaKF1) | [Chi Xê](https://open.spotify.com/artist/3TInd7W6K9AZ6lKYA3dviJ) | [Ai? \(Tôi Vẫn Chưa Biết Mình Là I\)](https://open.spotify.com/album/6RoQdMuCJXQdQd1VcNDuDz) | 3:34 | 2022-10-12 | 2023-03-05 |
@@ -469,6 +470,7 @@
 | [GIÁC QUAN THỨ 7](https://open.spotify.com/track/3Y41hKIzA8OPOGrfYFBLvT) | [RICK](https://open.spotify.com/artist/6Yn4MreaTnwOoahPtGExW4) | [Se7enth5en2e Mixtape](https://open.spotify.com/album/1v9pjcrIEcuBahVYwaJ2ST) | 4:00 | 2023-09-25 | 2023-10-24 |
 | [Gió \- Official](https://open.spotify.com/track/4YrI4tUJTzqi1hfvICCJPD) | [JanK x N2L](https://open.spotify.com/artist/4o52B6GZw0oZrxVTzfO3hV) | [Gió \(Official\)](https://open.spotify.com/album/1N6qUEJau1cE4DJ7PRKnGg) | 4:37 | 2023-03-20 | 2023-06-14 |
 | [Gió Đông Về](https://open.spotify.com/track/2DEHCbXNbdmYG9vRrj7pWg) | [Ymai](https://open.spotify.com/artist/3G2dFolgIn10dKe81WtwGI) | [Gió Đông Về](https://open.spotify.com/album/6pbRiPyv3jyWNHRThHAsXf) | 2:50 | 2022-09-22 | 2022-09-30 |
+| [Giả Vờ Yêu](https://open.spotify.com/track/75MrfFS6k8sWflAWjUucSK) | [EREN](https://open.spotify.com/artist/1CmpPe389rlcewV0pAmxyq), [Taki](https://open.spotify.com/artist/3S02OuFY2tDT8xq9eluV3f), [shi](https://open.spotify.com/artist/1i2NUr3ZPfZcUlf9C9oGXZ) | [Giả Vờ Yêu](https://open.spotify.com/album/34bmpc00dedXf1xLdAzKNU) | 2:28 | 2023-11-16 |  |
 | [GIẤC MƠ](https://open.spotify.com/track/6i51QeC3ks08i7vhuyltWR) | [MiQ](https://open.spotify.com/artist/0Tj8ibTNylwlCga3oM1uBm), [Catchellers](https://open.spotify.com/artist/1K3Oc9Q3wYgZANTcpsRq3C) | [GIẤC MƠ](https://open.spotify.com/album/298mMq8CJdmqYPUoGmlvAw) | 1:53 | 2023-10-11 |  |
 | [Giấc Mơ Có Thật](https://open.spotify.com/track/6b2FyhgvZUKwtrlV0IUsgU) | [Czee](https://open.spotify.com/artist/66sk3xFjXQ2dTL9fl2npjd) | [Giấc Mơ Có Thật](https://open.spotify.com/album/1Lf38boWNm6TrJ8KPgqWxW) | 4:31 | 2022-08-26 | 2022-09-22 |
 | [Giấc Mơ Của Em](https://open.spotify.com/track/5C4ajMLziq5yB7I5K6EsLS) | [MYLINA](https://open.spotify.com/artist/4yx3BsXxY9l6BRyStNIB8y), [fueled by boba](https://open.spotify.com/artist/4NKeJPVrlhASY3FXkQsLGn) | [Giấc Mơ Của Em](https://open.spotify.com/album/6f49KGOfETVpBrh6TerBr3) | 3:18 | 2023-08-24 | 2023-09-18 |
@@ -746,6 +748,7 @@
 | [Mày tao](https://open.spotify.com/track/3oNyiw07Fsij41SwcBsHse) | [Big Q](https://open.spotify.com/artist/02Hqz3JbFQZLlj3woQlLGy) | [Mày tao](https://open.spotify.com/album/3LdbIjKaCT2OUU5jkCmArQ) | 2:53 | 2023-09-13 | 2023-09-26 |
 | [Mái Đầu Xanh](https://open.spotify.com/track/3NVfiol7PcXixaKlVIUvgQ) | [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB), [Kiper T](https://open.spotify.com/artist/0DVbTrEQjCbRvMxvXVJomz) | [Mái Đầu Xanh](https://open.spotify.com/album/7r4aSczGvspZVxg9GOtFYF) | 3:56 | 2022-08-18 | 2022-10-21 |
 | [Máy Bay Nhà](https://open.spotify.com/track/0gE9MkqsUbw86RhSdPFsbe) | [SouLH](https://open.spotify.com/artist/1Uea5mxQzPTXigqZKed16O) | [Máy Bay Nhà](https://open.spotify.com/album/1HYbj9aoShuZoDsuoCRFcF) | 3:28 | 2022-05-18 | 2022-07-10 |
+| [Mây](https://open.spotify.com/track/6gT13SvE8SFR1x4oLdC21b) | [djquantaboo](https://open.spotify.com/artist/6EP8XH45Dmwt73nwr1QGbK) | [Mây](https://open.spotify.com/album/7v51Mdyt3OGmJxNVbe22fY) | 2:57 | 2023-11-16 |  |
 | [Mây](https://open.spotify.com/track/1FhirL99S7XAPUKs8HYGsB) | [Jank](https://open.spotify.com/artist/04iRGluzxLz3aZmKTjOvBp), [Sỹ Tây](https://open.spotify.com/artist/39oU69hKqz3nKs6io9BTRi), [N2L](https://open.spotify.com/artist/6eDwpQutzYUY0Wm5KCqP1u) | [Mây](https://open.spotify.com/album/2pSnVsxidOZkW6vH4qv2ct) | 5:16 | 2023-10-17 |  |
 | [Mây](https://open.spotify.com/track/5E7i25lR33DMcYMYOSB20A) | [Ly](https://open.spotify.com/artist/36TzZXJvgI2UTvlwE96mFX) | [Mây](https://open.spotify.com/album/2HzWX69l1klWqqMxepRqiY) | 3:01 | 2022-01-06 | 2022-01-26 |
 | [Mây](https://open.spotify.com/track/0qOBop4NRKdxWwjEM5RoQM) | [MC Wiz](https://open.spotify.com/artist/4sukkkUXTLXloBgZPRUEad) | [Mây](https://open.spotify.com/album/4BwzWKgw1pp10yfRPhW8a6) | 2:12 | 2022-02-10 | 2022-02-24 |
@@ -1329,6 +1332,7 @@
 | [ánh mắt bồ câu](https://open.spotify.com/track/5Ch31gQvKMx8yadFXpTbKo) | [akiie.](https://open.spotify.com/artist/7sFX2i5I57OTLSASnufcIh) | [ánh mắt bồ câu](https://open.spotify.com/album/349EYDz8nZdEp5oifLy3G1) | 3:44 | 2023-10-11 |  |
 | [Ánh Trăng Ôm Mặt Trời](https://open.spotify.com/track/1NrnaQd63f7czk511hYBkL) | [Nguyễn Trung Đức](https://open.spotify.com/artist/0AOAMHZgHaxM71om8IDGsv) | [Ánh Trăng Ôm Mặt Trời](https://open.spotify.com/album/4IypDU7vC78dIm1ulvSINL) | 4:12 | 2022-11-15 | 2023-03-25 |
 | [Ánh Đèn Lẻ Loi](https://open.spotify.com/track/7LvcQUGLlbt1APGycsOE4b) | [Nắng](https://open.spotify.com/artist/74VaNxyGwFhJPZDcQ9q3IO) | [I'm Lost](https://open.spotify.com/album/2OxdWZyRHR0YBELnjEj34R) | 3:38 | 2023-06-08 | 2023-07-14 |
+| [ÊM](https://open.spotify.com/track/0AtMASLGDvdicZmyyQxNRv) | [th?o](https://open.spotify.com/artist/0CJTieKztFYr15TVkUg1RK), [Sỹ Tuệ](https://open.spotify.com/artist/3ZhtDtZd7N4B3NlCPUQVpR) | [ÊM](https://open.spotify.com/album/2GuZKvxEf3OsN0JJ9Tvtkt) | 2:37 | 2023-11-17 |  |
 | [Ít Nhưng Dài Lâu \(Nam Con\)](https://open.spotify.com/track/1KtjlfQVRvkkFYnIaYVi1A) | [TVN Remix](https://open.spotify.com/artist/4BRcB0q6ADNr6V9MYDAY0j) | [Ít Nhưng Dài Lâu \(Nam Con\)](https://open.spotify.com/album/2c6ipImxvhL43d13Awlq5U) | 3:13 | 2022-03-13 | 2022-12-02 |
 | [Ít Nhưng Dài Lâu \- Remix](https://open.spotify.com/track/5mwCw07zw0XTFHM6g0mvw2) | [Yan Nguyễn](https://open.spotify.com/artist/1xfmPLQJuQ5xyjXhmLWntH) | [Ít Nhưng Dài Lâu \(Remix\)](https://open.spotify.com/album/6WBxoORHYCMCX5BntRZ9Tn) | 4:18 | 2022-03-13 | 2022-04-28 |
 | [Ô](https://open.spotify.com/track/33o8zK78wvuyYyGPp2CoEu) | [ResQ](https://open.spotify.com/artist/72hqDK6esubZU4rnlW0HyQ), [Cigg](https://open.spotify.com/artist/7Lejas42ul8DhSQCYlMhQu) | [Ô](https://open.spotify.com/album/6jO9BuRtgGQnOmms2kYkl2) | 1:54 | 2023-03-17 | 2023-03-22 |

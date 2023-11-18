@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiYDjc6fn8m.md) - [plain]
 
 > Hora de dançar com os grandes hits da música eletrônica/dance! Foto: Calvin Harris
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,596 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,819 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiYDjc6fn8m.md) - [plain]
 | 52 | [You](https://open.spotify.com/track/7gUg4GdOA6Y6yRDe36GIjK) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pharmacy](https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2) | 3:41 |
 | 53 | [Bad \(feat\. Vassy\) \- Radio Edit](https://open.spotify.com/track/06dT0EYXrhRQV1MsvWhNGv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Listen \(Deluxe\)](https://open.spotify.com/album/3UEEPh5wsdhP7SKC31yvhu) | 2:50 |
 | 54 | [Stereo Love \- Radio Edit](https://open.spotify.com/track/1AguHaKOuggrVTebp7cZEI) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/0tGht9KBhk71vOJCHZzhVk) | 3:04 |
-| 55 | [I Don't Know What to Do](https://open.spotify.com/track/1GAN6OItmSWve1e2LfZaW1) | [Tiko's Groove](https://open.spotify.com/artist/4o7EawHk705NgTWtLIQtxE), [Gosha](https://open.spotify.com/artist/4Jf1PKoGgtUPcqLgCc1k0O) | [Best of Dance 2013 \- The Rhythm of Life, Vol\. XII](https://open.spotify.com/album/4dc2qyt4udP4Zc1ITUoUZH) | 3:42 |
+| 55 | [I Don't Know What to Do \- Radio Edit](https://open.spotify.com/track/0nabAPNBb94D30NFf5EZrv) | [Tiko's Groove](https://open.spotify.com/artist/4o7EawHk705NgTWtLIQtxE), [Gosha](https://open.spotify.com/artist/4Jf1PKoGgtUPcqLgCc1k0O) | [I Don't Know What to Do](https://open.spotify.com/album/1AT8rN7hnsuIWxcTQCieQV) | 3:44 |
 | 56 | [What Is Love \- 7" Mix](https://open.spotify.com/track/2ahnofp2LbBWDXcJbMaSTu) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [What Is Love \(Remixes\)](https://open.spotify.com/album/0qTVjeVP70YvQG4GctetOf) | 4:30 |
 | 57 | [Party Rock Anthem](https://open.spotify.com/track/0IkKz2J93C94Ei4BvDop7P) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Lauren Bennett](https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP), [GoonRock](https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh) | [Sorry For Party Rocking](https://open.spotify.com/album/1MbBSfcqLg2OjkeZ1RMSIq) | 4:22 |
 | 58 | [One Love \(feat\. Estelle\)](https://open.spotify.com/track/5uoNPeaYIKxOolXqVjzz0G) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [One Love](https://open.spotify.com/album/3nhLswvAYWwg4wOXBltMbI) | 3:59 |

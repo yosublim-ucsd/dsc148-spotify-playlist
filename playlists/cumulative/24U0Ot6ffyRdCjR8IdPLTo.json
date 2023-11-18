@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "One Sided",
+        "url": "https://open.spotify.com/album/4UCViwHbqPqRIIgYpCj4sy"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180924,
+      "name": "Cool Girl",
+      "url": "https://open.spotify.com/track/2tUNei764lfvJFW7zFxrOC"
+    },
+    {
+      "album": {
         "name": "Counting Flowers",
         "url": "https://open.spotify.com/album/4epLEyQe5d3AnmZmzESmdK"
       },
@@ -1626,6 +1644,24 @@
       "duration_ms": 217351,
       "name": "If You Love Her",
       "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
+    },
+    {
+      "album": {
+        "name": "in motion",
+        "url": "https://open.spotify.com/album/70BnHvfKu6Xepre9WXmt28"
+      },
+      "artists": [
+        {
+          "name": "Al\u00e9 Araya",
+          "url": "https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149495,
+      "name": "in motion",
+      "url": "https://open.spotify.com/track/0ebHxwkkZyjXrNRdnTeXUc"
     },
     {
       "album": {
@@ -2847,6 +2883,24 @@
     },
     {
       "album": {
+        "name": "Show Me How",
+        "url": "https://open.spotify.com/album/75IgpYGNlc8KmwZ9FlTtJg"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215110,
+      "name": "Show Me How",
+      "url": "https://open.spotify.com/track/01TyFEZu6mHbffsVfxgrFn"
+    },
+    {
+      "album": {
         "name": "Show Me Off",
         "url": "https://open.spotify.com/album/4W3wJDaJ6eMMlhFu6IQiuz"
       },
@@ -3572,7 +3626,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 193800,
       "name": "To the Mountains",
       "url": "https://open.spotify.com/track/4jLxibvYRtzEAiTDvbL9fO"
@@ -3662,7 +3716,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 236864,
       "name": "VBS",
       "url": "https://open.spotify.com/track/2ZnEPfXm1CZzhGOn1Ay4mZ"

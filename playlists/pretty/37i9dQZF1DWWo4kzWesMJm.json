@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 140962,
+  "num_followers": 141031,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjc1YzY3ZWI4NjJiZDg0NDVkMzQ0NjQ5ZTIyNjRhOWZlZjBkOWVi",
+  "snapshot_id": "MCw3MjY2OGE1ZjRlNGY0MmYzYTQyNTZmODI3NTBkZTcwNzhlZmRjMjEx",
   "tracks": [
     {
       "added_at": "2023-11-16 16:29:20",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Sacha Distel: Crooner",
-        "url": "https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV"
-      },
-      "artists": [
-        {
-          "name": "Sacha Distel",
-          "url": "https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz"
-        }
-      ],
-      "duration_ms": 123053,
-      "name": "La belle vie",
-      "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "D\u00e9cembre en \u00e9t\u00e9",
         "url": "https://open.spotify.com/album/34FJDy2QrV2gMESfcL2Kxf"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 185065,
       "name": "L'ind\u00e9cision",
       "url": "https://open.spotify.com/track/41zrRHYHY72LCf2hzaK18z"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Sacha Distel: Crooner",
+        "url": "https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV"
+      },
+      "artists": [
+        {
+          "name": "Sacha Distel",
+          "url": "https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz"
+        }
+      ],
+      "duration_ms": 123053,
+      "name": "La belle vie",
+      "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Libert\u00e9 ch\u00e9rie",
-        "url": "https://open.spotify.com/album/7lxtIDOmhph5iuna24OZHC"
-      },
-      "artists": [
-        {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
-        }
-      ],
-      "duration_ms": 226386,
-      "name": "1987",
-      "url": "https://open.spotify.com/track/56tfg3H8mcJ8eIKuyCWamX"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
         "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 184077,
       "name": "Nue",
       "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Libert\u00e9 ch\u00e9rie",
+        "url": "https://open.spotify.com/album/7lxtIDOmhph5iuna24OZHC"
+      },
+      "artists": [
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        }
+      ],
+      "duration_ms": 226386,
+      "name": "1987",
+      "url": "https://open.spotify.com/track/56tfg3H8mcJ8eIKuyCWamX"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
+        "name": "Miroirs",
+        "url": "https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        }
+      ],
+      "duration_ms": 156413,
+      "name": "Celui qui part",
+      "url": "https://open.spotify.com/track/4ZeveNuwkv5cUrkDsx2eGQ"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
         "name": "L'Ange De Mon D\u00e9mon",
         "url": "https://open.spotify.com/album/37lOShWdQxr7gTVjKZm6v0"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "En passant",
-        "url": "https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Goldman",
-          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Bonne id\u00e9e",
-      "url": "https://open.spotify.com/track/4GP7DvuweWXuqTNAdUmnEa"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "Amoureuse (Edition Deluxe)",
         "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
       },
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
+        "name": "En passant",
+        "url": "https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Bonne id\u00e9e",
+      "url": "https://open.spotify.com/track/4GP7DvuweWXuqTNAdUmnEa"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
         "name": "Histoires de",
         "url": "https://open.spotify.com/album/2429EGI4W9DN926A6TNZKG"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 256693,
       "name": "C'est une belle journ\u00e9e",
       "url": "https://open.spotify.com/track/5nNIFYy5dDQo9s3hSOd7xX"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
-        "name": "Miroirs",
-        "url": "https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu"
-      },
-      "artists": [
-        {
-          "name": "Joseph Kamel",
-          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
-        }
-      ],
-      "duration_ms": 156413,
-      "name": "Celui qui part",
-      "url": "https://open.spotify.com/track/4ZeveNuwkv5cUrkDsx2eGQ"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Brigitte Bardot",
-        "url": "https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Bardot",
-          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
-        }
-      ],
-      "duration_ms": 155800,
-      "name": "La madrague",
-      "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "Seul",
         "url": "https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 281373,
       "name": "Seul",
       "url": "https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Brigitte Bardot",
+        "url": "https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        }
+      ],
+      "duration_ms": 155800,
+      "name": "La madrague",
+      "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Tout savoir",
-        "url": "https://open.spotify.com/album/3KqSaDCCk1NIj4s4adfFTa"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e9",
-          "url": "https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s"
-        }
-      ],
-      "duration_ms": 196506,
-      "name": "Tout savoir",
-      "url": "https://open.spotify.com/track/5hquKiRUsOh0079PvO7EJN"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "40 succ\u00e8s en or",
         "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 448906,
       "name": "Gigi l'amoroso",
       "url": "https://open.spotify.com/track/4ArgA1vhM4y4qSd3DvYIhy"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Tout savoir",
+        "url": "https://open.spotify.com/album/3KqSaDCCk1NIj4s4adfFTa"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e9",
+          "url": "https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s"
+        }
+      ],
+      "duration_ms": 196506,
+      "name": "Tout savoir",
+      "url": "https://open.spotify.com/track/5hquKiRUsOh0079PvO7EJN"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Dave",
-        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Vanina (Runaway)",
-      "url": "https://open.spotify.com/track/3HkJ0MJ8FZh8YNF4yf2kJc"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "Je sais pas si \u00e7a va",
         "url": "https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X"
       },
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
+        "name": "Dave",
+        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Vanina (Runaway)",
+      "url": "https://open.spotify.com/track/3HkJ0MJ8FZh8YNF4yf2kJc"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
         "name": "In\u00e9dits 1968-1998",
         "url": "https://open.spotify.com/album/1MlpnvY0WaNqf3fzEoklGj"
       },
@@ -1191,26 +1191,6 @@
       "duration_ms": 224240,
       "name": "Laissons entrer le soleil",
       "url": "https://open.spotify.com/track/1jRoXThsV21LQeNdT3tcUn"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
-        "name": "Pays des merveilles",
-        "url": "https://open.spotify.com/album/43YnMTktKT5nEJoC5W5XXC"
-      },
-      "artists": [
-        {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
-        },
-        {
-          "name": "CEUZANY",
-          "url": "https://open.spotify.com/artist/5AYXYNFAvk8uUmCa5FDe7L"
-        }
-      ],
-      "duration_ms": 206619,
-      "name": "Pays des merveilles",
-      "url": "https://open.spotify.com/track/5lph5Ohom4uGk7pQDyLPJB"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -1247,6 +1227,26 @@
       "duration_ms": 217186,
       "name": "Mourir demain",
       "url": "https://open.spotify.com/track/0bdhH65xZdscxkATgDQlSS"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Pays des merveilles",
+        "url": "https://open.spotify.com/album/43YnMTktKT5nEJoC5W5XXC"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        },
+        {
+          "name": "CEUZANY",
+          "url": "https://open.spotify.com/artist/5AYXYNFAvk8uUmCa5FDe7L"
+        }
+      ],
+      "duration_ms": 206619,
+      "name": "Pays des merveilles",
+      "url": "https://open.spotify.com/track/5lph5Ohom4uGk7pQDyLPJB"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -1319,18 +1319,22 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Br\u00fbler le feu",
-        "url": "https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN"
+        "name": "\u00e0 2 \u00e0 3",
+        "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
       },
       "artists": [
         {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 164893,
-      "name": "Tu me Play",
-      "url": "https://open.spotify.com/track/1HFU10aC4Bzflxqb7jZnLq"
+      "duration_ms": 201138,
+      "name": "Call on me - feat. Ed Sheeran",
+      "url": "https://open.spotify.com/track/2Hn8kSDjl8qAJ0BVgFYcnp"
     }
   ],
   "unique_name": "Bleu Blanc Route",

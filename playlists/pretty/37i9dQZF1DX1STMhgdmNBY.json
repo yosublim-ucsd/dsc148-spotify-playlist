@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 65575,
+  "num_followers": 65656,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDNlZWJmMmEyNjVkYmYxMDJmYzI3NDliZDAwYWJlZTRkMWNiZjkw",
+  "snapshot_id": "MCwwYzM4YzQxNTI5ZjUxOTg5MmMxZmI4M2M2YTE1YzAzNmU1MDJlOWUw",
   "tracks": [
     {
       "added_at": "2023-10-05 13:06:44",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "The Genius Sings the Blues",
-        "url": "https://open.spotify.com/album/6htjXDcCIWm6rC0HNlFc0a"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 175773,
-      "name": "Hard Times (No One Knows Better Than I)",
-      "url": "https://open.spotify.com/track/4ADzk9oX44sCGJPE5OjNcW"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Still Got The Blues",
         "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 464040,
       "name": "As The Years Go Passing By",
       "url": "https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "The Genius Sings the Blues",
+        "url": "https://open.spotify.com/album/6htjXDcCIWm6rC0HNlFc0a"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 175773,
+      "name": "Hard Times (No One Knows Better Than I)",
+      "url": "https://open.spotify.com/track/4ADzk9oX44sCGJPE5OjNcW"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "You Don't Know Me",
-        "url": "https://open.spotify.com/album/4uc55G1No3AyUqiWBpd9LC"
-      },
-      "artists": [
-        {
-          "name": "HeavyDrunk",
-          "url": "https://open.spotify.com/artist/0txqFPQebPvVitCyaj4rVp"
-        }
-      ],
-      "duration_ms": 210851,
-      "name": "Love & Devotion",
-      "url": "https://open.spotify.com/track/0HdYXZKwBLwhKMVBVerHms"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Mourning In The Morning",
         "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 295666,
       "name": "Reap What You Sow",
       "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "You Don't Know Me",
+        "url": "https://open.spotify.com/album/4uc55G1No3AyUqiWBpd9LC"
+      },
+      "artists": [
+        {
+          "name": "HeavyDrunk",
+          "url": "https://open.spotify.com/artist/0txqFPQebPvVitCyaj4rVp"
+        }
+      ],
+      "duration_ms": 210851,
+      "name": "Love & Devotion",
+      "url": "https://open.spotify.com/track/0HdYXZKwBLwhKMVBVerHms"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 341173,
+      "name": "Gambler's Blues",
+      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
         "name": "Soul Queen",
         "url": "https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb"
       },
@@ -859,6 +875,22 @@
       "duration_ms": 198560,
       "name": "Dr. Feelgood (Love Is Serious Business)",
       "url": "https://open.spotify.com/track/7d38lTzElTueMVLNQ0nihe"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Faith And Grace: A Family Journey 1953-1976",
+        "url": "https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 177360,
+      "name": "Uncloudy Day",
+      "url": "https://open.spotify.com/track/6ZNz2aaMwy8yaQzlnT9507"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -879,22 +911,6 @@
       "duration_ms": 271199,
       "name": "It's a Man's, Man\u2019s, Man\u2019s World",
       "url": "https://open.spotify.com/track/5CfGXaEPnhwqAlhX2PJmy4"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
-        "name": "Faith And Grace: A Family Journey 1953-1976",
-        "url": "https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 177360,
-      "name": "Uncloudy Day",
-      "url": "https://open.spotify.com/track/6ZNz2aaMwy8yaQzlnT9507"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -931,22 +947,6 @@
       "duration_ms": 287666,
       "name": "A Few Good Years",
       "url": "https://open.spotify.com/track/6MT9ikZ0SnOU48rBMReIAT"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 341173,
-      "name": "Gambler's Blues",
-      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
     },
     {
       "added_at": "2023-10-05 13:06:44",

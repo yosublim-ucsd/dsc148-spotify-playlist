@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6mC1lhUK7K.md) - [plain]
 
 > she's ready for her sequel\. cover: sidney prescott 😱👑
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,446 likes - 90 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,120 likes - 89 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,14 +89,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6mC1lhUK7K.md) - [plain]
 | 79 | [Graveyard Shift](https://open.spotify.com/track/0lTdQ4fpkUuUiUMS3kZuOk) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Woman of the Hour](https://open.spotify.com/album/0WD2EudFofXYFb9bFMRRwS) | 3:08 |
 | 80 | [And They All Fall Down](https://open.spotify.com/track/4kfPFH4eobdyzyqEJd6sMo) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [And They All Fall Down](https://open.spotify.com/album/47ZajOVfTx4ybpStTat8mm) | 2:20 |
 | 81 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 |
-| 82 | [Oh Bondage Up Yours!](https://open.spotify.com/track/3Ap7YIpMkjNiyZnRJiWsVy) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Live @ The Roundhouse London 2008](https://open.spotify.com/album/203C6Nf7MC0TM8iFm7vQZC) | 3:03 |
-| 83 | [Scaredy Pants](https://open.spotify.com/track/0UH3qGCpQF9t1jwINUnq2R) | [Venus & the Flytraps](https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF) | [Scaredy Pants](https://open.spotify.com/album/6RpUP5myGMEJ5its0cz20C) | 3:12 |
-| 84 | [I Like The Way You Die](https://open.spotify.com/track/13HPn0OyGLPtJ6iUNiwLYg) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [I Like The Way You Die](https://open.spotify.com/album/4jGP8NOGoSlrHKfVcU1IVn) | 3:08 |
-| 85 | [Santa Sangre](https://open.spotify.com/track/6FhL1ZZjm6KKcdrDS98j8V) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Santa Sangre](https://open.spotify.com/album/3ZfzBHdf5y6ojPvF72HZin) | 2:58 |
-| 86 | [That Don't Impress Me Much \- triple j Like A Version](https://open.spotify.com/track/1ZOK8VkScTdXrccs7hkUPq) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [That Don't Impress Me Much \(triple j Like A Version\)](https://open.spotify.com/album/1FUq5cHUqKxQZQZ5xhB8O9) | 4:04 |
-| 87 | [Kill My Boyfriend](https://open.spotify.com/track/20jEZQajiBKZBCte0aVoV3) | [Natalia Kills](https://open.spotify.com/artist/6wdvERzX4CUCOXu6hSS95x) | [Perfectionist \(Deluxe Version\)](https://open.spotify.com/album/0NyW9P0v03NRw7UsWErMaP) | 3:31 |
-| 88 | [Pretty Girls Don't Cry](https://open.spotify.com/track/4Epc3zLKEIUUjwwsq1jmze) | [Anna Akana](https://open.spotify.com/artist/0YSxCnmIwDDphTykhROUWe) | [Pretty Girls Don't Cry](https://open.spotify.com/album/3Mrgzd4nzyeUzr2VXttPI7) | 3:05 |
-| 89 | [A Girl Like You](https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW) | [Anna B Savage](https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi) | [A Girl Like You](https://open.spotify.com/album/6vtVr80gX551QRmXU6QZJ4) | 3:12 |
-| 90 | [Buffy The Vampire Slayer \- The Theme Music](https://open.spotify.com/track/3TZ3NVQtkj4nFPANN946Ct) | [TV Themes](https://open.spotify.com/artist/0clhXvKQeY8xOFIXwePnyR) | [Buffy The Vampire Slayer \- The Theme Music](https://open.spotify.com/album/0XizUl3KDcePvyGAfL4Kgn) | 1:24 |
+| 82 | [Scaredy Pants](https://open.spotify.com/track/0UH3qGCpQF9t1jwINUnq2R) | [Venus & the Flytraps](https://open.spotify.com/artist/0p1Rswnjvt7KFNFTYXNmWF) | [Scaredy Pants](https://open.spotify.com/album/6RpUP5myGMEJ5its0cz20C) | 3:12 |
+| 83 | [I Like The Way You Die](https://open.spotify.com/track/13HPn0OyGLPtJ6iUNiwLYg) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [I Like The Way You Die](https://open.spotify.com/album/4jGP8NOGoSlrHKfVcU1IVn) | 3:08 |
+| 84 | [Santa Sangre](https://open.spotify.com/track/6FhL1ZZjm6KKcdrDS98j8V) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Santa Sangre](https://open.spotify.com/album/3ZfzBHdf5y6ojPvF72HZin) | 2:58 |
+| 85 | [That Don't Impress Me Much \- triple j Like A Version](https://open.spotify.com/track/1ZOK8VkScTdXrccs7hkUPq) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [That Don't Impress Me Much \(triple j Like A Version\)](https://open.spotify.com/album/1FUq5cHUqKxQZQZ5xhB8O9) | 4:04 |
+| 86 | [Kill My Boyfriend](https://open.spotify.com/track/20jEZQajiBKZBCte0aVoV3) | [Natalia Kills](https://open.spotify.com/artist/6wdvERzX4CUCOXu6hSS95x) | [Perfectionist \(Deluxe Version\)](https://open.spotify.com/album/0NyW9P0v03NRw7UsWErMaP) | 3:31 |
+| 87 | [Pretty Girls Don't Cry](https://open.spotify.com/track/4Epc3zLKEIUUjwwsq1jmze) | [Anna Akana](https://open.spotify.com/artist/0YSxCnmIwDDphTykhROUWe) | [Pretty Girls Don't Cry](https://open.spotify.com/album/3Mrgzd4nzyeUzr2VXttPI7) | 3:05 |
+| 88 | [A Girl Like You](https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW) | [Anna B Savage](https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi) | [A Girl Like You](https://open.spotify.com/album/6vtVr80gX551QRmXU6QZJ4) | 3:12 |
+| 89 | [Buffy The Vampire Slayer \- The Theme Music](https://open.spotify.com/track/3TZ3NVQtkj4nFPANN946Ct) | [TV Themes](https://open.spotify.com/artist/0clhXvKQeY8xOFIXwePnyR) | [Buffy The Vampire Slayer \- The Theme Music](https://open.spotify.com/album/0XizUl3KDcePvyGAfL4Kgn) | 1:24 |
 
-Snapshot ID: `MCxkMmU3MWI0NmZkY2MwNzk1ZjE0NGMyN2RkNDRkM2E1ZjYzOTkxYmNl`
+Snapshot ID: `MCw4ZjgxMTIzYWViMzVhOWYwYjVmZGJkMjA2MTQxOWY3NjIzZjNhODhl`

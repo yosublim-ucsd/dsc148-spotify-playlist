@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 587364,
+  "num_followers": 587473,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGZhODU3YzhjY2Q1Mzc1ZTM2YWZiNWIzYmVmNTBlMTg0ZjU2OTg2",
+  "snapshot_id": "MCwxNmM2MmU3MzY0OTI5NmRmZWM5MWVhYzQwOGMwZGUyNzNlNDExOTI0",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Let Love In (2011 - Remaster)",
+        "url": "https://open.spotify.com/album/3OlT3zr0bvzYYg2Dwn6Fkx"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 370573,
+      "name": "Red Right Hand",
+      "url": "https://open.spotify.com/track/0jVo3e34A15l6MNu1O3cfa"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "ROCKISDEAD",
         "url": "https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 181868,
       "name": "Raise Hell",
       "url": "https://open.spotify.com/track/2NPHU2WJaI3rrtCNNuQ8L1"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Old Tyme Religion",
-        "url": "https://open.spotify.com/album/6Tolvy5sgnENXLNDNwQ9L6"
-      },
-      "artists": [
-        {
-          "name": "Hugo",
-          "url": "https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX"
-        }
-      ],
-      "duration_ms": 137426,
-      "name": "99 Problems",
-      "url": "https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Let Love In (2011 - Remaster)",
-        "url": "https://open.spotify.com/album/3OlT3zr0bvzYYg2Dwn6Fkx"
+        "name": "Old Tyme Religion",
+        "url": "https://open.spotify.com/album/6Tolvy5sgnENXLNDNwQ9L6"
       },
       "artists": [
         {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+          "name": "Hugo",
+          "url": "https://open.spotify.com/artist/3VSHFjwG94ubNcoST9hfxX"
         }
       ],
-      "duration_ms": 370573,
-      "name": "Red Right Hand",
-      "url": "https://open.spotify.com/track/0jVo3e34A15l6MNu1O3cfa"
+      "duration_ms": 137426,
+      "name": "99 Problems",
+      "url": "https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg"
-      },
-      "artists": [
-        {
-          "name": "The Huntress and Holder of Hands",
-          "url": "https://open.spotify.com/artist/4xRbSPkcf7k6csMSV6vwAX"
-        }
-      ],
-      "duration_ms": 331908,
-      "name": "Shake off Your Flesh",
-      "url": "https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/2FedXgds6FmGGov0BWvy90"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 223493,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/1sDVipCm7nAJjH4g2sAOFr"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg"
+      },
+      "artists": [
+        {
+          "name": "The Huntress and Holder of Hands",
+          "url": "https://open.spotify.com/artist/4xRbSPkcf7k6csMSV6vwAX"
+        }
+      ],
+      "duration_ms": 331908,
+      "name": "Shake off Your Flesh",
+      "url": "https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "William Crighton",
-        "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
-      },
-      "artists": [
-        {
-          "name": "William Crighton",
-          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
-        }
-      ],
-      "duration_ms": 264937,
-      "name": "Priest",
-      "url": "https://open.spotify.com/track/1CzxPLi5K7pnT4ATkdLJ9T"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Natural Conclusion",
         "url": "https://open.spotify.com/album/6gig8cKPfwtSWOSSbZxGS2"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "When the River Took Flight",
-        "url": "https://open.spotify.com/album/7fqJfRir9VjcMbwEwt32vB"
+        "name": "William Crighton",
+        "url": "https://open.spotify.com/album/11iygN0BADQ3dWcAwyp3QV"
       },
       "artists": [
         {
-          "name": "Paper Bird",
-          "url": "https://open.spotify.com/artist/3KPP9ZbN4Yu5mEQj2UWRqn"
+          "name": "William Crighton",
+          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
         }
       ],
-      "duration_ms": 186213,
-      "name": "Lost Boys",
-      "url": "https://open.spotify.com/track/1fhcTpn9fvemLo60JesY2W"
+      "duration_ms": 264937,
+      "name": "Priest",
+      "url": "https://open.spotify.com/track/1CzxPLi5K7pnT4ATkdLJ9T"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1215,6 +1199,22 @@
       "duration_ms": 198132,
       "name": "Chairkickers",
       "url": "https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "When the River Took Flight",
+        "url": "https://open.spotify.com/album/7fqJfRir9VjcMbwEwt32vB"
+      },
+      "artists": [
+        {
+          "name": "Paper Bird",
+          "url": "https://open.spotify.com/artist/3KPP9ZbN4Yu5mEQj2UWRqn"
+        }
+      ],
+      "duration_ms": 186213,
+      "name": "Lost Boys",
+      "url": "https://open.spotify.com/track/1fhcTpn9fvemLo60JesY2W"
     },
     {
       "added_at": "2023-10-06 04:00:00",

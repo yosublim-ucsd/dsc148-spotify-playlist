@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,893 likes - 137 songs - 7 hr 49 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,893 likes - 138 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,5 +145,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 135 | [deep end](https://open.spotify.com/track/7kJbfc0nj7M3jVbk3Gpuzh) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [deep end](https://open.spotify.com/album/12xlRBmhi9gZpyY7UYr5Ie) | 2:45 |
 | 136 | [Red Earth Creek \- Winemaker Remix](https://open.spotify.com/track/4wy471QJmNNGD2PWaWByb6) | [Höhn](https://open.spotify.com/artist/05YiYkc5jTBQOjP5e10g7u), [Winemaker](https://open.spotify.com/artist/3eNJj6RBtXDPkAaXxBH3Hy) | [Red Earth Creek \(Winemaker Remix\)](https://open.spotify.com/album/0FpxqYnlBl5RdUNHaEzcU0) | 4:44 |
 | 137 | [Feel The Need](https://open.spotify.com/track/2wa4S5WSyATZVQUN7fL4L0) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Feel The Need](https://open.spotify.com/album/3eBcoTjDLcgkVo6xBFn3Wj) | 3:35 |
+| 138 | [White Lie](https://open.spotify.com/track/05W5WSaPyW5GCiNY5gOuyH) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [White Lie](https://open.spotify.com/album/6g3FQBSHayd37yO3a77AIH) | 3:18 |
 
-Snapshot ID: `MTA1NTgsYjYyNzZiODZjMjQ5YzRlNWUyMmE3MGM3NjM2NjUwM2MwMjFmZmZkNA==`
+Snapshot ID: `MTA1NTksMmVjZjk4Nzk2ZWQ1MzUzYzdmOWZmZjEzNjY5NTQ5NTYxMWExOGM5MA==`

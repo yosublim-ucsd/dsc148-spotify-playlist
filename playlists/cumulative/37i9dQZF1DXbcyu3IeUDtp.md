@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4rdJkXHNrMgowlwUdQAg8T">Ela Minus</a>' favorite tracks\. Updated regularly\. Curated by Ela Minus\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-110 songs - 8 hr 27 min
+111 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,8 +113,9 @@
 | [What](https://open.spotify.com/track/4adCCkfIfJ2sRrl6JnvBFi) | [Inga Mauer](https://open.spotify.com/artist/0RGQhzlebTZeQZN3YeBtvO) | [Bad Manners 6](https://open.spotify.com/album/25nq9sfzXnaQu27QdOUWod) | 6:29 | 2023-09-29 |  |
 | [Whisky Story Time](https://open.spotify.com/track/5mcMjy09RXCFyOvYrFoqGD) | [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm) | [To Cy & Lee: Instrumentals, Vol\. 1](https://open.spotify.com/album/4xSCx58aWcq3UfTwfK012z) | 2:19 | 2023-09-29 |  |
 | [Whispers](https://open.spotify.com/track/7oL8yDVzpJVUd2LozdvQHU) | [Simo Cell](https://open.spotify.com/artist/4KxpqghQTX2FlkzsbG3ENk) | [YES.DJ](https://open.spotify.com/album/5Gby985rpxFtRZ3vWLLaHg) | 4:16 | 2023-09-29 |  |
+| [Within \(Drumless Edition\)](https://open.spotify.com/track/28ghWbRd3ZlaeYdKklfQDJ) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Random Access Memories \(Drumless Edition\)](https://open.spotify.com/album/5AFf68gtvNgGLZarsyEEL8) | 3:48 | 2023-10-27 |  |
 | [Within \(Drumless Edition\)](https://open.spotify.com/track/4PTtFQIiFtNNbbX4Ym5RCD) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Within \(Drumless Edition\)](https://open.spotify.com/album/0JdfgRVwrsunExkHjb3cfy) | 3:48 | 2023-09-29 | 2023-11-11 |
-| [Within \(Drumless Edition\)](https://open.spotify.com/track/4RiimXt8sNDhE0xd8Atdox) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Motherboard \(Drumless Edition\)](https://open.spotify.com/album/3F003WxyVe3ze6rwlI7LJ9) | 3:48 | 2023-10-27 |  |
+| [Within \(Drumless Edition\)](https://open.spotify.com/track/4RiimXt8sNDhE0xd8Atdox) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Motherboard \(Drumless Edition\)](https://open.spotify.com/album/3F003WxyVe3ze6rwlI7LJ9) | 3:48 | 2023-10-27 | 2023-11-18 |
 | [Xtasis](https://open.spotify.com/track/5QlaVdriOhDoFpxXFgtcDf) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Dj Babatr](https://open.spotify.com/artist/2VAqLzkNHs0cre3T6i1PHD) | [Xtasis](https://open.spotify.com/album/3lLrAE85zUgLC2jlV56Vdn) | 4:55 | 2023-09-29 |  |
 | [You Stayed / To Live \(Ela Minus Remix\)](https://open.spotify.com/track/6m11toWUCO8J19VqlZMldk) | [For Those I Love](https://open.spotify.com/artist/3X4mDEa1fff0zpbBp8wiOZ), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [You Stayed / To Live \(Ela Minus Remix\)](https://open.spotify.com/album/7d22sEW1LK5aRw8EuMbWgT) | 5:05 | 2023-09-29 |  |
 | [Àimé Césaire](https://open.spotify.com/track/36w1XIpOtO5j8erau9nhXw) | [Cheick Tidiane Seck](https://open.spotify.com/artist/4TQ8HfVTtHk2CDRuQB3P5C) | [KELENA FÔLY](https://open.spotify.com/album/150yAEkMjH2NX5QvPRCQrv) | 5:16 | 2023-09-29 |  |

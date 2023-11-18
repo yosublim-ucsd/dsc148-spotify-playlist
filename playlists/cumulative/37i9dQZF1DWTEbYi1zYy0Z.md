@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-394 songs - 1 day 3 hr 51 min
+395 songs - 1 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [Midnight Sun](https://open.spotify.com/track/5SKkiQf5txTOdaxGJI4xUs) | [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Midnight Sun](https://open.spotify.com/album/5WutXamGne2s2rzOHpCptd) | 3:54 | 2021-04-30 | 2022-03-18 |
 | [Missing You](https://open.spotify.com/track/4KLpRFRn11BiQHeODY6EeU) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Missing You](https://open.spotify.com/album/6HlGorHFMS1vH536EJhCyv) | 4:16 | 2023-04-14 |  |
 | [Mo Jazzin](https://open.spotify.com/track/6CYUFaUjnGAlBGjVCl44ud) | [Johnny Britt](https://open.spotify.com/artist/1rF5BAPcmKme8SqcWoWu5F), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Mo Jazzin](https://open.spotify.com/album/3wHmVl5lU7Rt8PyT1jvCW9) | 3:40 | 2020-10-30 | 2022-03-17 |
-| [Monalisa](https://open.spotify.com/track/1N26FYH3eEpD9k00ffxqFM) | [Brendan Ross](https://open.spotify.com/artist/3M01zUDEhtQi29cFkqhBhJ) | [Monalisa](https://open.spotify.com/album/1cHZpnvW34ebs0IcH0iMta) | 3:37 | 2023-09-08 |  |
+| [Monalisa](https://open.spotify.com/track/1N26FYH3eEpD9k00ffxqFM) | [Brendan Ross](https://open.spotify.com/artist/3M01zUDEhtQi29cFkqhBhJ) | [Monalisa](https://open.spotify.com/album/1cHZpnvW34ebs0IcH0iMta) | 3:37 | 2023-09-08 | 2023-11-18 |
 | [Monday](https://open.spotify.com/track/0rviXYk3XxKRrQgBmAxNIm) | [Philip Patterson](https://open.spotify.com/artist/3UgSv7DzbUESf5H4WPzaU7) | [Monday](https://open.spotify.com/album/1FnCDL2O2WM57ZdbE3Jmbu) | 4:14 | 2021-07-23 | 2022-09-06 |
 | [Moon Goddess](https://open.spotify.com/track/3ieIBo1fhTNzUsHSMZq3rU) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Moon Goddess](https://open.spotify.com/album/7J7ldYnPXb8DqXK5gQSeQi) | 4:05 | 2023-03-24 |  |
 | [Motor City Moves \(feat\. Lin Rountree\)](https://open.spotify.com/track/5P8qx52DAW0ZQ4qijSHePN) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov), [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [Free](https://open.spotify.com/album/1JsNa5M9CjJcK56SbXlcsU) | 4:24 | 2022-10-07 | 2023-08-26 |
@@ -348,6 +348,7 @@
 | [T's Jam](https://open.spotify.com/track/4Ug2IMwc2VFW41l3fUB0kY) | [Eldon “T” Jones](https://open.spotify.com/artist/2wFR4lVsi3E2izvaujUlTc) | [T's Jam](https://open.spotify.com/album/3TbbGfXjWMtkmkwWpHQ5Px) | 3:59 | 2021-10-29 | 2022-07-28 |
 | [Table For 2](https://open.spotify.com/track/01zpCyMFeqLAkg6FYA8OBL) | [Nicholas Cole](https://open.spotify.com/artist/2dhHHEVRMiRwYPzogPfmco), [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Table For 2](https://open.spotify.com/album/5MZkdbtrBhH10PDx6I9Cdr) | 4:38 | 2023-06-09 |  |
 | [Taboo](https://open.spotify.com/track/2RB3BwwCXlFEKO06jUL0Dr) | [Damien Escobar](https://open.spotify.com/artist/2GkMspzmKKkaeX62pwJZhG) | [Taboo](https://open.spotify.com/album/5CU4FiM0dodXZWKSW8vfdd) | 3:22 | 2023-04-28 |  |
+| [Terminator](https://open.spotify.com/track/6QOJoThXu58CINhFeyitHf) | [Brendan Ross](https://open.spotify.com/artist/3M01zUDEhtQi29cFkqhBhJ) | [Terminator](https://open.spotify.com/album/7qBGqNzkgkC4QyVRMPOJwn) | 3:50 | 2023-11-17 |  |
 | [That Cool Groovy Beatnik Jazz](https://open.spotify.com/track/1JmbkZAfYpjiKY9Ypf4NCC) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [A Little Driving Music](https://open.spotify.com/album/04ZsYsWBmmOm5yAu5KR434) | 5:24 | 2021-05-21 | 2022-03-08 |
 | [The Goddess](https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [The Goddess](https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO) | 4:06 | 2021-10-01 | 2022-09-17 |
 | [The High Road](https://open.spotify.com/track/0Be3igRj4IK9an9kub3YBX) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [The High Road](https://open.spotify.com/album/3ZTFOYdW7dM8A1pqlIrwxn) | 3:55 | 2020-10-30 | 2022-03-18 |

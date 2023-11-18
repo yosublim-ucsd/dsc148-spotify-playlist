@@ -502,7 +502,7 @@
       ],
       "date_added": "2020-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 238493,
       "name": "Down in the Past",
       "url": "https://open.spotify.com/track/2vx5Dc3Zxtd5yGDlh2pAAz"
@@ -1046,6 +1046,24 @@
       "duration_ms": 146560,
       "name": "Rise Above",
       "url": "https://open.spotify.com/track/4kFfFe38CRVnTsakUTL4E4"
+    },
+    {
+      "album": {
+        "name": "Young for Eternity",
+        "url": "https://open.spotify.com/album/5tTubYK1AQxmixhWcwG5OR"
+      },
+      "artists": [
+        {
+          "name": "The Subways",
+          "url": "https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169946,
+      "name": "Rock & Roll Queen",
+      "url": "https://open.spotify.com/track/3CLmZAW1fgpnRyVwUx4bbZ"
     },
     {
       "album": {

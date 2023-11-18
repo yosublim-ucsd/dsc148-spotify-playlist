@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBSyNvqfKld.md) - [plain]
 
 > <a href="spotify:artist:3sgVVFFM7mom04OAR0eNCL">DEAS</a>'s favorite tracks\. Updated regularly\. Curated by DEAS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,200 likes - 27 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,217 likes - 27 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBSyNvqfKld.md) - [plain]
 | 14 | [Krekc \- Remastered 2021](https://open.spotify.com/track/6LJ8RhrSvburc2SWEFfcyE) | [Speedy J](https://open.spotify.com/artist/4zOEbGsiNi7qGWdyDv43gx) | [Krekc \(Remastered 2021\)](https://open.spotify.com/album/111alzRaTt5puA1hycMi3S) | 8:47 |
 | 15 | [Woodward Ave\. \- VIL Remix](https://open.spotify.com/track/2xLcGips75I64brWqi5hj5) | [Luke Hess](https://open.spotify.com/artist/4ggXpxD7rjHIJCpVjO9Ogs), [VIL](https://open.spotify.com/artist/1WKrzlDOV5WrA9eACq8VRi) | [These Streets](https://open.spotify.com/album/1X0P5oO0HO1oA4fDlSwGQd) | 6:03 |
 | 16 | [Take it or Leave it](https://open.spotify.com/track/2tTm2mApuGj3uudKXkTKD6) | [Jehra](https://open.spotify.com/artist/2Q8HKTunJROXibsOGQlSJl) | [The World Of Monnom Black III](https://open.spotify.com/album/5CbmmabjJincUjswnceLjN) | 5:35 |
-| 17 | [Protective Custody \- 2023 Remaster](https://open.spotify.com/track/48GsYVVD36fqW4fCTBZqBx) | [Dave Clarke](https://open.spotify.com/artist/6Fr9aJBxyMOkTFF0b9JZrQ) | [Red 1 \(2023 Remaster\)](https://open.spotify.com/album/5mHtLgtB8ZrcPaJuLP9nLR) | 4:52 |
+| 17 | [Protective Custody \(2023 Remaster\)](https://open.spotify.com/track/5qGn2qNcrgzpbJGH1SPItx) | [Dave Clarke](https://open.spotify.com/artist/6Fr9aJBxyMOkTFF0b9JZrQ) | [Red 1 \(2023 Remaster\)](https://open.spotify.com/album/2sT9yTuySP5G1LY1yc4L9o) | 4:52 |
 | 18 | [Blow Me Away](https://open.spotify.com/track/6qR2Rdn8jqBctUabT1vy25) | [Åre:gone](https://open.spotify.com/artist/0OGldyTNlaYb1RJbvB9CcD) | [Paranoid Cuts](https://open.spotify.com/album/0WeULzMIpbG5f4eBazA6uV) | 6:14 |
 | 19 | [The Sonic Assassin](https://open.spotify.com/track/6DXzANFAvqz74ZjEFPfd4r) | [Luke Slater](https://open.spotify.com/artist/5BJa6TIqtoWm8QRRbfRmyt), [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI) | [The Dissent EP](https://open.spotify.com/album/64XP1VKgJLHc1Z4dp9BSek) | 5:54 |
 | 20 | [Raid](https://open.spotify.com/track/7cAWv4wuQHVo8XnvNRneNX) | [Phil Berg](https://open.spotify.com/artist/47MgVGK1jiCgkj4jbjVqnx) | [Raid](https://open.spotify.com/album/5p5sVSL3tah0EvazwllBEp) | 5:11 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUBSyNvqfKld.md) - [plain]
 | 26 | [Ghouse](https://open.spotify.com/track/5UqSSOTe2a5yDN2PucVvkZ) | [CRAVO](https://open.spotify.com/artist/0h3LDqJWxHfdM76kVnfGcY) | [Hits](https://open.spotify.com/album/6fp8mAN5ElaVB8e4BPsWCK) | 6:18 |
 | 27 | [AF 97](https://open.spotify.com/track/4QXZWqTqFFTxCucmUNep5f) | [Alarico](https://open.spotify.com/artist/3160Uht6QdGT17EECSPWAO) | [AF 97](https://open.spotify.com/album/0rc1NsAYfw6THSPAxGQLbM) | 6:09 |
 
-Snapshot ID: `MCw4YzhjM2I3OWEzZmIzMTUwZGJlMjVlMzY5NDkxOTczYWViZWJiMTMx`
+Snapshot ID: `MCw4MmZlMjAxZWUzNWNiYmM5ZTkzMmUyNGZlM2MyOWQ2ZDk0NWRmM2Zl`

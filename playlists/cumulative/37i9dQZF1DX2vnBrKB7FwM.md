@@ -2,9 +2,9 @@
 
 ### [RAPública de Colombia](https://open.spotify.com/playlist/37i9dQZF1DX2vnBrKB7FwM)
 
-> Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: La Etnnia
+> Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Vic Deal
 
-122 songs - 6 hr 48 min
+123 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,13 +83,14 @@
 | [Murderah](https://open.spotify.com/track/6YfyOu9K4PsbF32jM7w2CK) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Murderah](https://open.spotify.com/album/09fkMQDU4gvqGWhA5wsGqO) | 4:57 | 2022-02-25 | 2022-07-29 |
 | [Murderah](https://open.spotify.com/track/70IHmmLDvJD2wzdqkbIjLi) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Murderah](https://open.spotify.com/album/5fGkMu6qo9R5kzH5Nsss7T) | 4:57 | 2022-07-15 |  |
 | [Más Alto](https://open.spotify.com/track/3xNPzVmKEcDufiPM11kvtH) | [Tsh Sudaca](https://open.spotify.com/artist/6kfPkheKpxesJXLqA4h7jO), [Negro Valle](https://open.spotify.com/artist/6cH5EvIk0wv5k0ye7buTdJ), [N.V Produce](https://open.spotify.com/artist/2JquvTBl4NZAarOPN64wq5) | [Más Alto](https://open.spotify.com/album/30iGdqlhISpy8JNbU4Yx9V) | 4:22 | 2022-07-15 |  |
-| [Música de Antes](https://open.spotify.com/track/5m0f6moj6xtoTHPrMLbQ9Q) | [Big Stan](https://open.spotify.com/artist/0wWxSCpA5vzDAbhrGnVeOd), [Kiño](https://open.spotify.com/artist/4mSxhskrhEcz1mZNVf1GWa) | [La Calle Sabe Mi Nombre](https://open.spotify.com/album/193Of86pX3Ni6Ud0y9bpzk) | 2:19 | 2022-02-25 |  |
+| [Música de Antes](https://open.spotify.com/track/5m0f6moj6xtoTHPrMLbQ9Q) | [Big Stan](https://open.spotify.com/artist/0wWxSCpA5vzDAbhrGnVeOd), [Kiño](https://open.spotify.com/artist/4mSxhskrhEcz1mZNVf1GWa) | [La Calle Sabe Mi Nombre](https://open.spotify.com/album/193Of86pX3Ni6Ud0y9bpzk) | 2:19 | 2022-02-25 | 2023-11-18 |
 | [Noche Luna](https://open.spotify.com/track/0CmpEhu1vaaRq8MT1wTZsl) | [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe) | [Pineal](https://open.spotify.com/album/4VFXxddpPw6nNfazN0m1wg) | 3:12 | 2022-02-25 |  |
 | [Noicanicula](https://open.spotify.com/track/3IalZWzPrxDvh3n2hNBSKI) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H) | [El Ataque del Metano](https://open.spotify.com/album/6hKScNAjmff6t6l2qLCHhL) | 4:10 | 2022-02-25 |  |
 | [Nrs In Da Area](https://open.spotify.com/track/2nwyBoKRKAemGvgRhHELg0) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv) | [Nrs In Da Area](https://open.spotify.com/album/29HcQVOLpnwwmaI7Qlv665) | 3:31 | 2022-02-25 |  |
 | [Otra Pa' Mi Cuenta](https://open.spotify.com/track/37dPkMfAhfvH3Ndl8ev0cv) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 2:50 | 2023-02-17 |  |
 | [Otra Pa' Mi Cuenta](https://open.spotify.com/track/7kCRdqtRVssyEZEfUSECWZ) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Andrade A.K.A Doble A](https://open.spotify.com/artist/7b9fbzEOUa59TNhgCVIGLU) | [Otra Pa' Mi Cuenta](https://open.spotify.com/album/0UGuJH97dHiHsQTUpy6puf) | 2:50 | 2022-02-25 | 2023-03-01 |
 | [Pantone](https://open.spotify.com/track/0DW6Q5KTqkf1Lh2ROqmKWu) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv), [Ignorancia Sofisticada](https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX) | [Pantone](https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX) | 2:37 | 2022-02-25 |  |
+| [Parados En La Raya](https://open.spotify.com/track/38pDlpPCf0LXRwHRElYtnQ) | [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ), [Ignorancia Sofisticada](https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N) | [Parados En La Raya](https://open.spotify.com/album/19ovx88sTeDtQwp441pwBD) | 3:02 | 2023-11-17 |  |
 | [Parchesito de Andén](https://open.spotify.com/track/426jhs83bwjf3Pl3kP6MUt) | [Kiño](https://open.spotify.com/artist/4mSxhskrhEcz1mZNVf1GWa), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1) | [Parchesito de Andén](https://open.spotify.com/album/5doCyysFrS57uEz6WemNA6) | 2:54 | 2022-02-25 |  |
 | [Parpadeos](https://open.spotify.com/track/2a2Wyak2LXbF8ut1IBRvvw) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Parpadeos](https://open.spotify.com/album/0JjuWF600c1AsewLXwSJ5e) | 3:02 | 2022-02-25 | 2022-07-29 |
 | [Parpadeos](https://open.spotify.com/track/7jeTgr89idzEp8uv111bPN) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Vergüenza Propia](https://open.spotify.com/album/6G7bf3U6XL6Fo0E2yh8MXD) | 3:02 | 2022-07-15 |  |

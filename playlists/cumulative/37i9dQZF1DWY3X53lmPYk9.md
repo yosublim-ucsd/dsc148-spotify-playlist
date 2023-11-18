@@ -4,7 +4,7 @@
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-448 songs - 23 hr 15 min
+449 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,8 @@
 | [Once Upon A Summertime](https://open.spotify.com/track/6zLP6Ncnlg35teWbdEQtOa) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Once Upon A Summertime](https://open.spotify.com/album/3AjC99OAj3KhvfGrIBjgeg) | 2:16 | 2022-08-11 |  |
 | [One Day We'll Find Our Way](https://open.spotify.com/track/27ljy6g5ghJo1ZeoOsHsB7) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [One Day We'll Find Our Way](https://open.spotify.com/album/3tSFilzfu3rrcY1BfPfm3x) | 3:06 | 2022-06-09 |  |
 | [Out Of Nowhere](https://open.spotify.com/track/6CPmUmMMXvGombRcl8p5Iw) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Out Of Nowhere](https://open.spotify.com/album/0cu8JtZHQDqNPT0zmnDh2w) | 2:39 | 2022-11-17 |  |
-| [Pastoral](https://open.spotify.com/track/0UIv34XtUmPhvCU3nSPDqE) | [Jean Kapsa](https://open.spotify.com/artist/3D7nnawjn34DOAUT21IQHs) | [Pastoral](https://open.spotify.com/album/6sMJTmc5LNR7qgwrLKgJuZ) | 3:48 | 2023-11-17 |  |
+| [Pastoral](https://open.spotify.com/track/0UIv34XtUmPhvCU3nSPDqE) | [Jean Kapsa](https://open.spotify.com/artist/3D7nnawjn34DOAUT21IQHs) | [Pastoral](https://open.spotify.com/album/6sMJTmc5LNR7qgwrLKgJuZ) | 3:48 | 2023-11-17 | 2023-11-18 |
+| [Pastoral](https://open.spotify.com/track/7rYSxMiI7xteBmFq2t6aE7) | [Jean Kapsa](https://open.spotify.com/artist/3D7nnawjn34DOAUT21IQHs) | [Pastoral](https://open.spotify.com/album/4DR8LgGyU1VbRJCD8jHTYp) | 3:48 | 2023-11-17 |  |
 | [Peace](https://open.spotify.com/track/0RIYLqnvhafIAfSAVCI5ei) | [Christina Mondzo](https://open.spotify.com/artist/0pvhGfxbtulg7H68xiV8Re) | [Peace](https://open.spotify.com/album/0hyeudOeevrJTJRqb7oC6h) | 2:04 | 2023-02-02 |  |
 | [Piece de resistance](https://open.spotify.com/track/4BqrjtDW2iF3Cqnm52eySR) | [Jan Singh](https://open.spotify.com/artist/3754x5uMBUG3kwven7gOgu) | [Piece de resistance](https://open.spotify.com/album/4X1xVsNHV3u6faxprtA3Pi) | 2:36 | 2023-09-22 |  |
 | [Piece Peace](https://open.spotify.com/track/4q7cOAjvYHUTQGBf1RRuNE) | [Sean Eastman](https://open.spotify.com/artist/4SMptkAtq8f31ziDjPuint) | [Piece Peace](https://open.spotify.com/album/3OMxn6aJ8hZhqecNYE9nkV) | 2:48 | 2023-01-12 |  |

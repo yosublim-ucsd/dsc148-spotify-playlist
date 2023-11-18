@@ -818,10 +818,28 @@
       ],
       "date_added": "2021-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 247092,
       "name": "Nothing I Wanna Know About",
       "url": "https://open.spotify.com/track/1QPkENda17YtGTbtYOrAL1"
+    },
+    {
+      "album": {
+        "name": "Hard Up (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2sQ1tG5dvAZFQVa5HaI3Hy"
+      },
+      "artists": [
+        {
+          "name": "The Bamboos",
+          "url": "https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247092,
+      "name": "Nothing I Wanna Know About",
+      "url": "https://open.spotify.com/track/25nVJKeHsqMDnxwXXy4kgt"
     },
     {
       "album": {

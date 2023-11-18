@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Rockdown",
+        "url": "https://open.spotify.com/album/0PTuKPDfxHvFUJlAkMtDy8"
+      },
+      "artists": [
+        {
+          "name": "Candee",
+          "url": "https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR"
+        },
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148404,
+      "name": "35\u00b0C",
+      "url": "https://open.spotify.com/track/2JNDQGte1PNUZaxV8wp5MB"
+    },
+    {
+      "album": {
         "name": "ai no hana",
         "url": "https://open.spotify.com/album/05BmOU0qWEmrkLoGxwoV1p"
       },
@@ -96,6 +118,24 @@
       "duration_ms": 242166,
       "name": "Anata wa Natsumelo",
       "url": "https://open.spotify.com/track/7nM3Ij2hD24XQz9Z3qnTef"
+    },
+    {
+      "album": {
+        "name": "In a world full of mistakes",
+        "url": "https://open.spotify.com/album/4GpiJvxoDFZ7wpUnrPYsnt"
+      },
+      "artists": [
+        {
+          "name": "Lot",
+          "url": "https://open.spotify.com/artist/34VobEzGgudyNngJ5uYolP"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169384,
+      "name": "asphalt",
+      "url": "https://open.spotify.com/track/2c8OIHUpfDUFUfRPHDIYOO"
     },
     {
       "album": {
@@ -590,7 +630,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 214000,
       "name": "C.O.S.M.I.C Love",
       "url": "https://open.spotify.com/track/2ldvJ1OU6rd9Isg750dwqu"
@@ -3213,6 +3253,24 @@
     },
     {
       "album": {
+        "name": "The bothered birthday",
+        "url": "https://open.spotify.com/album/1keD0gL0gusiLlIRM0ubB0"
+      },
+      "artists": [
+        {
+          "name": "Yuna Hoshino",
+          "url": "https://open.spotify.com/artist/0PkmvSD3XRGyGrOScz4Av1"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227777,
+      "name": "The bothered birthday",
+      "url": "https://open.spotify.com/track/2RJySXuT5ALvB2hPRPTCLX"
+    },
+    {
+      "album": {
         "name": "The Flame of Love",
         "url": "https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz"
       },
@@ -3703,6 +3761,24 @@
     },
     {
       "album": {
+        "name": "\u304a\u3068\u3082\u3060\u3061",
+        "url": "https://open.spotify.com/album/38hnmtLRwYhBFtpgaNUAmk"
+      },
+      "artists": [
+        {
+          "name": "edhiii boi",
+          "url": "https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185320,
+      "name": "\u304a\u3068\u3082\u3060\u3061",
+      "url": "https://open.spotify.com/track/1nfNIGVbtFTodN5iynMIQj"
+    },
+    {
+      "album": {
         "name": "\u304e\u3085\u3063\u3068\u3057\u3066\u3001",
         "url": "https://open.spotify.com/album/4LzD5Xdc0hq088OeuA0JCH"
       },
@@ -4032,7 +4108,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 233133,
       "name": "\u30a2\u30de\u30ea\u30ea\u30b9",
       "url": "https://open.spotify.com/track/4eIDKBcRJnlZmrRLNdlbgX"
@@ -4692,7 +4768,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 199120,
       "name": "\u30ef\u30f3 for All!",
       "url": "https://open.spotify.com/track/6J5VV5oheLyfQ1OuZ5QAU7"
@@ -4890,7 +4966,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 232750,
       "name": "\u590f\u6681",
       "url": "https://open.spotify.com/track/1viY1xpThPrBqZvaCjYqHJ"

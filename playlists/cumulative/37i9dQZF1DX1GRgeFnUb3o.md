@@ -4,7 +4,7 @@
 
 > Releases from the legendary label.
 
-126 songs - 7 hr 40 min
+127 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Love Buzz](https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 3:35 | 2019-10-02 |  |
 | [Love Buzz \- Remastered](https://open.spotify.com/track/150eNdHgoV9hYBUjsQXSVM) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach: Deluxe Edition](https://open.spotify.com/album/4vEqluvGq8AC9Xx2Fx4cZ3) | 3:35 | 2019-10-02 | 2022-07-29 |
 | [Mantrap](https://open.spotify.com/track/5DBHVP9DpADDU3d3bCOLVG) | [Thee Headcoats](https://open.spotify.com/artist/69C0pRNo5qCmYlKS9Lctfe) | [Heavens to Murgatroyd, Even! It's Thee Headcoats! \(Already\)](https://open.spotify.com/album/406w7Txtb1rpZsk7rEYaT1) | 1:50 | 2019-10-02 | 2022-10-25 |
-| [Mantrap](https://open.spotify.com/track/6slOJmjugBOsa6ljMnNm74) | [Thee Headcoats](https://open.spotify.com/artist/69C0pRNo5qCmYlKS9Lctfe) | [Heavens to Murgatroyd, Even! It's Thee Headcoats! \(Already\)](https://open.spotify.com/album/1Pf4eOiycm196Hdrfw68Vo) | 1:50 | 2019-10-02 |  |
+| [Mantrap](https://open.spotify.com/track/6slOJmjugBOsa6ljMnNm74) | [Thee Headcoats](https://open.spotify.com/artist/69C0pRNo5qCmYlKS9Lctfe) | [Heavens to Murgatroyd, Even! It's Thee Headcoats! \(Already\)](https://open.spotify.com/album/1Pf4eOiycm196Hdrfw68Vo) | 1:50 | 2019-10-02 | 2023-11-18 |
+| [Mantrap](https://open.spotify.com/track/6vmAPtmqSy5fAKkhuwZrBW) | [Thee Headcoats](https://open.spotify.com/artist/69C0pRNo5qCmYlKS9Lctfe) | [Heavens To Murgatroyd, Even! It's Thee Headcoats! \(Already\)](https://open.spotify.com/album/5XDpRKhFbfol5YnCWaHemv) | 1:50 | 2019-10-02 |  |
 | [Marijuana](https://open.spotify.com/track/2eTUrr93UBSj7qcZcUOKuw) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [Smoke 'em if You Got 'em](https://open.spotify.com/album/1kg7rs0ZaIECwU2WCLS58w) | 4:49 | 2019-10-02 |  |
 | [Marijuana](https://open.spotify.com/track/61bdPPJFoRLK4zrmOALWdh) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [Smoke 'em if You Got 'em](https://open.spotify.com/album/0L6bVkOPxVbkBvjTRTT7jz) | 4:49 | 2019-10-02 | 2022-07-29 |
 | [Meet Me At The Movies](https://open.spotify.com/track/5yQnwk9aak8xmbOceWyskW) | [The Go](https://open.spotify.com/artist/2m0xdXsYglZKSzqVkZtFi8) | [Whatcha Doin'](https://open.spotify.com/album/76ioQYsj2LjKW7hewrz9uX) | 3:23 | 2019-10-02 |  |

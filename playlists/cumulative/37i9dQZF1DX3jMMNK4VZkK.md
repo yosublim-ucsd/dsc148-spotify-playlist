@@ -4,7 +4,7 @@
 
 > Who runs the world? GIRLS!
 
-141 songs - 8 hr 27 min
+142 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Bulletproof](https://open.spotify.com/track/7x0UH69AluzgzVxhFX7S6Y) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Workout Pop Hits](https://open.spotify.com/album/5fcdQ9oO2TE7m0HmVxfNNh) | 3:25 | 2020-09-29 | 2022-11-13 |
 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 | 2020-09-29 |  |
 | [Can't Fight The Moonlight](https://open.spotify.com/track/2AogRMqARWyUP7VQ3gmSoY) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [I Need You](https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK) | 3:35 | 2020-09-29 |  |
-| [Can't Get You out of My Head](https://open.spotify.com/track/7dxiorC4Um7Ph0fAPsVn76) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Step Back in Time: The Definitive Collection](https://open.spotify.com/album/3vA84e8wtK3OqVoq7jQs5V) | 3:50 | 2020-09-29 |  |
+| [Can't Get You out of My Head](https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu) | 3:50 | 2023-03-17 |  |
+| [Can't Get You out of My Head](https://open.spotify.com/track/7dxiorC4Um7Ph0fAPsVn76) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Step Back in Time: The Definitive Collection](https://open.spotify.com/album/3vA84e8wtK3OqVoq7jQs5V) | 3:50 | 2020-09-29 | 2023-11-18 |
 | [Complicated](https://open.spotify.com/track/5xEM5hIgJ1jjgcEBfpkt2F) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 4:04 | 2020-09-29 |  |
 | [Dancing In The Dark \- From The "Home" Soundtrack](https://open.spotify.com/track/5J4WHWFvEWRd2FBVhcTcmi) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Home \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jzv8VHqVBSt6wHCNHpWZv) | 3:43 | 2020-09-29 |  |
 | [DDU\-DU DDU\-DU](https://open.spotify.com/track/2aI2k39nfa3KFsa4JclQzw) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/2zwfcNqJe7IT1RwgVyv1ug) | 3:29 | 2020-09-29 | 2022-07-29 |

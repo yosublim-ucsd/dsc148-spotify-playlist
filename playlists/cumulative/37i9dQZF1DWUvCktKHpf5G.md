@@ -4,7 +4,7 @@
 
 > ¡Puro perreo intenso en la comodidad de tu habitación!
 
-200 songs - 11 hr 6 min
+201 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [EL MAKINON](https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:29 | 2022-01-04 |  |
 | [EL PONY](https://open.spotify.com/track/3ymdUMzgylwrSfpxdlCUWV) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [EL PONY](https://open.spotify.com/album/1jmrlewRjpnjEcABjZiUpD) | 3:32 | 2022-03-25 | 2022-05-04 |
 | [El Taxi](https://open.spotify.com/track/1LbGorB0xOfpiXQJFKB2Nd) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Sensato](https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS), [Osmani Garcia "La Voz"](https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo) | [Dale](https://open.spotify.com/album/5PZWGWwRwA0PJCET9BwBAm) | 4:09 | 2022-03-26 |  |
+| [EN EL GHETTO \#5 \(La Discoteca\)](https://open.spotify.com/track/5xRkr1I0KweRrK0gJ9XqMq) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L) | [EN EL GHETTO \#5 \(La Discoteca\)](https://open.spotify.com/album/21dki85kzvBAgKHcEfuerB) | 2:45 | 2023-11-17 |  |
 | [En Mis Sueños](https://open.spotify.com/track/0CyBQFxnc2OQIZ2AVxDxLy) | [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Códigos](https://open.spotify.com/album/04lH7i7S1sf9xDx2zbIQZd) | 3:36 | 2023-03-03 | 2023-03-18 |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-01-04 |  |
 | [Extrañandote \- Remix](https://open.spotify.com/track/0sNRkMXnwgJgGWEb1ntpHj) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Extrañandote \(Remix\)](https://open.spotify.com/album/2XKNkQrc7QT9ouEyuk89f8) | 4:35 | 2022-01-04 | 2022-04-21 |
@@ -196,7 +197,7 @@
 | [Toto Al Control](https://open.spotify.com/track/7IOlPRepmXGAFPL3hyf42c) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN) | [Piligrossa](https://open.spotify.com/album/1eNFJZzILXXDuYzNI12w1x) | 3:01 | 2023-03-17 | 2023-03-25 |
 | [Tra Tra Tra Remix \- Remix](https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Mad Fuentes](https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW) | [Tra Tra Tra Remix](https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc) | 2:51 | 2022-01-04 |  |
 | [Traductor](https://open.spotify.com/track/5x17YrAwajDUCqB8zT9ElY) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 3:42 | 2022-07-23 |  |
-| [TU LA TIENES](https://open.spotify.com/track/7mGr665pnl56czu20KVroU) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [TU LA TIENES](https://open.spotify.com/album/2eT29jUyCd1xjNVr1DFYT9) | 2:49 | 2023-06-16 |  |
+| [TU LA TIENES](https://open.spotify.com/track/7mGr665pnl56czu20KVroU) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [TU LA TIENES](https://open.spotify.com/album/2eT29jUyCd1xjNVr1DFYT9) | 2:49 | 2023-06-16 | 2023-11-18 |
 | [Tu Pones la Hora y Yo Le Caigo](https://open.spotify.com/track/4AJzH1HTwBcfxTH5F2hO4g) | [DJ Cobra Monterrey](https://open.spotify.com/artist/4irQCuA0Tlt4vyXvfcuz2p) | [Tu Pones la Hora y Yo Le Caigo](https://open.spotify.com/album/2sAoBj5Mpq2h9p3bVt1nKa) | 3:47 | 2022-01-04 | 2022-07-28 |
 | [Tussi](https://open.spotify.com/track/4vjVdfdBHnUiaFCcUa3gfn) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Tussi](https://open.spotify.com/album/4PCoivnY82jomNXqvOkEhC) | 3:09 | 2022-03-26 | 2023-06-17 |
 | [Tírame](https://open.spotify.com/track/5s02iWgBdqnf75q0xTdvj4) | [Genio](https://open.spotify.com/artist/3qcl8ck0RTpenPbFmZa2p5), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Astros](https://open.spotify.com/album/0ABNkRjooiKfK9ZNgWrCK0) | 3:56 | 2023-04-21 | 2023-08-26 |

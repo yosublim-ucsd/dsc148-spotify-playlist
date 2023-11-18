@@ -2,9 +2,9 @@
 
 ### [Rock Now](https://open.spotify.com/playlist/37i9dQZF1DX8jpyvTAre41)
 
-> The biggest songs in today's Rock scene\. Cover: The Beatles
+> The biggest songs in today's Rock scene\. Cover: Måneskin
 
-727 songs - 1 day 17 hr 18 min
+730 songs - 1 day 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Care Less](https://open.spotify.com/track/7JETFxfHepiOV07rU9OCW9) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [Care Less](https://open.spotify.com/album/6mhstVGAyRUooDNWihIDiP) | 3:04 | 2022-10-14 | 2022-11-05 |
 | [Caroline](https://open.spotify.com/track/4cTxlJ8GbvlEKJSHBjSmX3) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Caroline](https://open.spotify.com/album/0hiyVukTWwoABzyyzq03fN) | 3:20 | 2022-11-04 | 2023-05-16 |
 | [Caroline](https://open.spotify.com/track/6XsHCb84EyPvLvWFpVqZay) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Caroline](https://open.spotify.com/album/2xOUnwncSmfhcZIdrOMe3p) | 3:20 | 2022-08-05 | 2022-11-06 |
-| [Cellar Door](https://open.spotify.com/track/14kZfaq8FEdJHMcZ5gpMsb) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/10skiZ5i3pC9Ry0fVbLJU7) | 4:43 | 2023-11-10 |  |
+| [Cellar Door](https://open.spotify.com/track/14kZfaq8FEdJHMcZ5gpMsb) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/10skiZ5i3pC9Ry0fVbLJU7) | 4:43 | 2023-11-10 | 2023-11-18 |
+| [Cellar Door](https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cellar Door](https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt) | 4:43 | 2023-11-17 |  |
 | [Change\#\#\#](https://open.spotify.com/track/1K5NKnljyNdL4E0M9BlrZB) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [Tunnel Vision](https://open.spotify.com/album/1kibsLL8e5KDlwT4qnzYw6) | 2:49 | 2022-09-09 | 2023-05-06 |
 | [Changes](https://open.spotify.com/track/59cS8qsSylHFJAdIo2QSnt) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [Changes](https://open.spotify.com/album/51Oc9zA07RUPajQqvFUQib) | 3:10 | 2022-04-15 | 2022-09-10 |
 | [CHAOS](https://open.spotify.com/track/7MKG6MvGpmE8qkdzXS4Rfe) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [CHAOS](https://open.spotify.com/album/1KOFi5BG2eDs7oomy6tMxW) | 3:02 | 2022-02-25 | 2022-04-02 |
@@ -275,6 +276,7 @@
 | [Hollywood Hillbilly](https://open.spotify.com/track/0Xr4W3sOlaLU2yZJ28lQRn) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Hollywood Hillbilly](https://open.spotify.com/album/4YSVTP1mfval5BPo6qygLf) | 2:35 | 2022-08-05 | 2022-10-08 |
 | [Homesick](https://open.spotify.com/track/19oBJOOS9fHtN8TRDBX6Os) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Homesick](https://open.spotify.com/album/6PmqLs9QBsOq6nWGlbgWKv) | 3:13 | 2022-07-22 | 2022-08-06 |
 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 | 2023-09-01 | 2023-11-11 |
+| [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/7GJRZmyEpMIou1RqG0ebd8) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 2:47 | 2023-11-17 |  |
 | [Honeybrains](https://open.spotify.com/track/3OtId2P71K4wGAAJk8QCIR) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Honeybrains](https://open.spotify.com/album/2UU1wWCSelmdLWr5OPlyGt) | 3:06 | 2022-03-18 | 2022-10-15 |
 | [Hope](https://open.spotify.com/track/5glQ2KQjO3HZCh7TDyegvm) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 3:38 | 2022-07-01 | 2022-11-26 |
 | [Hope in Hell](https://open.spotify.com/track/2qwDT631uzIInZ24TXhpP2) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 4:27 | 2021-12-31 | 2022-02-05 |
@@ -445,7 +447,8 @@
 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 | 2023-06-23 |  |
 | [Nothing Else Matters](https://open.spotify.com/track/2mC33mxgLJN3IT65MGN3B0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Robert Trujillo](https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16), [Chad Smith](https://open.spotify.com/artist/4DW34vji6G9GgGY0k2mic7) | [Nothing Else Matters](https://open.spotify.com/album/0GxS05LSGHZd8XLravwM6w) | 6:35 | 2021-12-31 | 2022-02-05 |
 | [Nothing Is Perfect](https://open.spotify.com/track/1dxbQnO42DK5ApHpOMC8n2) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Nothing Is Perfect](https://open.spotify.com/album/79Y7o27OUTAiHwTnlxf4WW) | 3:30 | 2023-08-11 | 2023-09-09 |
-| [NOTHINGNESS](https://open.spotify.com/track/0QRK0E7CwPfw1ON6kIGfNX) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [NOTHINGNESS](https://open.spotify.com/album/26VIcq9CQqqGixCH7y56Pb) | 3:14 | 2023-10-13 |  |
+| [NOTHINGNESS](https://open.spotify.com/track/0QRK0E7CwPfw1ON6kIGfNX) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [NOTHINGNESS](https://open.spotify.com/album/26VIcq9CQqqGixCH7y56Pb) | 3:14 | 2023-10-13 | 2023-11-18 |
+| [NOTHINGNESS](https://open.spotify.com/track/1aSBGwV7KTJQhkyQ86TmXQ) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [NOTHINGNESS](https://open.spotify.com/album/52xz4kyfRQtTdreXxWRJG1) | 3:14 | 2023-11-17 |  |
 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 | 2023-11-03 |  |
 | [Nowhere Generation](https://open.spotify.com/track/3j7V0K2tn1IJF1Yciu91Gv) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:52 | 2021-12-31 | 2022-03-12 |
 | [Nowhere To Go](https://open.spotify.com/track/0jvNCLA1OcJzhBzNyFzyhr) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX), [Jake Clemons](https://open.spotify.com/artist/4VohCn5jhUUPDzAEESRUMJ) | [Blink Twice](https://open.spotify.com/album/3Zlv9M4aSDQ3H3iCG9jGEe) | 3:41 | 2022-12-16 | 2023-05-20 |
@@ -667,7 +670,7 @@
 | [UPS AND DOWNS](https://open.spotify.com/track/2lKoPdYVhWsTiZpi23BBdH) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [UPS AND DOWNS](https://open.spotify.com/album/5rzvZkbnpeKjE8nBnvq7dL) | 3:14 | 2022-01-28 | 2022-02-19 |
 | [ur a <stranger>](https://open.spotify.com/track/4OvlUfaJKuZ9aJVAJWmwyE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:03 | 2022-10-07 | 2023-01-21 |
 | [Uzumaki](https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Snake](https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE) | 3:31 | 2022-02-04 | 2022-03-12 |
-| [VALENTINE](https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:36 | 2023-11-10 |  |
+| [VALENTINE](https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:36 | 2023-11-10 | 2023-11-18 |
 | [Vegas Strip](https://open.spotify.com/track/0OHPMrQooY9uyPDdO4HdSj) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Phantom Power \(Deluxe\)](https://open.spotify.com/album/1HSX49MRRoXiT8DCN2xTet) | 4:25 | 2023-11-03 |  |
 | [Vicious Circle \(feat\. City and Colour\)](https://open.spotify.com/track/4kSVGCTSyvKJcp52mfyXH7) | [Chastity](https://open.spotify.com/artist/1Pb13vLDNqpaXI88U9t6JG), [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Vicious Circle \(feat\. City and Colour\)](https://open.spotify.com/album/66nl5KdLzfKGxNnchBZGFo) | 3:30 | 2021-12-31 | 2022-01-15 |
 | [Viva Las Vengeance](https://open.spotify.com/track/2XRh87n9CQoWkWW94H3Min) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/0pTYrZO3W4KyciXKM2fqei) | 3:26 | 2022-06-03 | 2022-07-02 |

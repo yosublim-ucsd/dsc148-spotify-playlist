@@ -1097,6 +1097,28 @@
     },
     {
       "album": {
+        "name": "Simply Bluegrass (Live / Vol. 1)",
+        "url": "https://open.spotify.com/album/5jK9gV35FK2BL18iTGEn2B"
+      },
+      "artists": [
+        {
+          "name": "Country's Family Reunion",
+          "url": "https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt"
+        },
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190955,
+      "name": "Drivin' Nails In My Coffin - Live",
+      "url": "https://open.spotify.com/track/17Q2QAFPkogLUFC6SMcdIA"
+    },
+    {
+      "album": {
         "name": "Dry Town",
         "url": "https://open.spotify.com/album/280oD2MWboQrvS4rmROjL6"
       },
@@ -1784,6 +1806,24 @@
       "duration_ms": 218044,
       "name": "Happy",
       "url": "https://open.spotify.com/track/0jEaPBjFAWjQTMVouRwaHi"
+    },
+    {
+      "album": {
+        "name": "Heart-Shaped Box",
+        "url": "https://open.spotify.com/album/1oCcDnADb3h6NEvVPa2Cps"
+      },
+      "artists": [
+        {
+          "name": "Holler Choir",
+          "url": "https://open.spotify.com/artist/2OI5njTRiCAdhWF0UDUkAw"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265066,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/5IUxHfkYd9hl4NDE8ayShP"
     },
     {
       "album": {
@@ -3986,6 +4026,24 @@
       "duration_ms": 310853,
       "name": "The Boys of Summer",
       "url": "https://open.spotify.com/track/4q7wdKi7TnNdx4zA9MVLP7"
+    },
+    {
+      "album": {
+        "name": "The City of New Orleans",
+        "url": "https://open.spotify.com/album/24HQRvGkASwDNSuCAVWrLo"
+      },
+      "artists": [
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251965,
+      "name": "The City of New Orleans",
+      "url": "https://open.spotify.com/track/3Wocpg1YEEnPIJQEfk7dP8"
     },
     {
       "album": {

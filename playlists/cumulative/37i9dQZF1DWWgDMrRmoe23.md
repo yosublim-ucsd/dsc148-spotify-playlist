@@ -4,7 +4,7 @@
 
 > "because it's funny" \- Thundercat\. Welcome to mixtape, a curator's playground.
 
-27 songs - 1 hr 34 min
+28 songs - 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [I2I](https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE), [Rosie Gaines](https://open.spotify.com/artist/1HRiWIhV7rgiL74L2AqZ5W) | [A Goofy Movie](https://open.spotify.com/album/3gUUrvvTs1JlX5AjiKRV0P) | 4:01 | 2023-07-20 |  |
 | [In Bloom](https://open.spotify.com/track/30HCB1FoE77IfGRyNv4eFq) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 4:15 | 2023-07-20 |  |
 | [Lemme Take You To The Beach](https://open.spotify.com/track/24pKgx2qOMMNT0XmRBpWCI) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Studio Tan](https://open.spotify.com/album/2Z39MzRC9Jh5eBt7dcJsdL) | 2:44 | 2023-07-20 |  |
-| [Never Gonna Give You Up](https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw) | 3:33 | 2023-07-20 |  |
+| [Never Gonna Give You Up](https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6) | 3:33 | 2023-07-20 |  |
+| [Never Gonna Give You Up](https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw) | 3:33 | 2023-07-20 | 2023-11-18 |
 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 | 2023-07-20 |  |
 | [Omae Wa Mou](https://open.spotify.com/track/2BgzdxU4uN5Ns8yM2rlLHa) | [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9) | [Omae Wa Mou](https://open.spotify.com/album/0I7eyplxZyuNEg2haitWIf) | 1:53 | 2023-07-20 | 2023-08-13 |
 | [Omae Wa Mou](https://open.spotify.com/track/79G2ITmSiJLeNe9NbDeJMk) | [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9) | [Omae Wa Mou](https://open.spotify.com/album/6KTdztObe5nfnzQ6xLtDNb) | 1:53 | 2023-07-20 |  |

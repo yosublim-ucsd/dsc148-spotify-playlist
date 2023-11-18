@@ -4,12 +4,13 @@
 
 > Lean back, close your eyes, and relax.
 
-292 songs - 13 hr 42 min
+293 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/181ybi6b0dYJBcQzETKv67) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/6txt6BEwqboOhGfyZk5XkY) | 0:00 | 2021-12-10 | 2022-12-21 |
 | [01.15](https://open.spotify.com/track/20nnkLz609aY0afFTxwxHb) | [Emanuel Green](https://open.spotify.com/artist/5Vdb46TtoBR9BKioOQfszd) | [Out to Sea](https://open.spotify.com/album/3sTo1HzdNGlaqBszP0bBQr) | 3:42 | 2021-12-10 | 2023-07-18 |
+| [A Gentle Touch](https://open.spotify.com/track/4PEWJM5Bz6Ax2uuzeuPIPM) | [Paix Sonique](https://open.spotify.com/artist/5g4W27S2ZTFOatbUBDXCwd) | [A Gentle Touch](https://open.spotify.com/album/5yOWOb71BXYF2BUR3B9Skd) | 2:31 | 2023-11-17 |  |
 | [A Journey](https://open.spotify.com/track/5PKCpP5i64Jxdnc9jDnIVV) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [A Journey](https://open.spotify.com/album/0xpGZx3qwQLBodx6voW3M6) | 2:44 | 2022-09-02 |  |
 | [A Message of Hope](https://open.spotify.com/track/4B3sBWHD5rfWtkXCdYwrFq) | [Elise Magnefold](https://open.spotify.com/artist/6NwzoAF59ghN7JuBvwHVex) | [Little Things](https://open.spotify.com/album/6D5LLJs53kFNpxoIhQWGlY) | 3:26 | 2021-12-10 |  |
 | [A Moment of Reflection](https://open.spotify.com/track/15msDW5lW6xONIUtKAfaPC) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Ma Belle](https://open.spotify.com/album/6HYlPk0YVry6TQKA1pnp5n) | 3:04 | 2021-12-10 |  |
@@ -140,7 +141,7 @@
 | [Les cieux du printemps](https://open.spotify.com/track/1CQqk6DcfC0Q9Iw3jS8UxH) | [Serouj](https://open.spotify.com/artist/2S4Y2TX5b3gYApFYtIzzU2) | [Les cieux du printemps](https://open.spotify.com/album/77vUJEBj4Muy8BCTDqHpfD) | 2:46 | 2021-12-10 |  |
 | [Let The Lights On](https://open.spotify.com/track/5jbEgWSfbxBA7573jEnYhr) | [Christine Malowe](https://open.spotify.com/artist/6v132t3GaQZqfu3okc5VoO) | [Let The Lights On](https://open.spotify.com/album/4L3rZkyKokj7M23tAAgLCF) | 3:01 | 2022-11-11 |  |
 | [Letting Go](https://open.spotify.com/track/1S7ulK4PlPK3KvOWrAq0PG) | [Milo Graves](https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV) | [Inner Spirit](https://open.spotify.com/album/0mV5nvQuTZt7HpQO6q9CXA) | 2:35 | 2021-12-10 | 2023-10-06 |
-| [Loss Trancends to Gain](https://open.spotify.com/track/3KSS4USSsOhXesezYsbaMa) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Spiritual Synchronicities](https://open.spotify.com/album/1YbA9gfaowEwRK64Se0Q5b) | 4:17 | 2021-12-10 |  |
+| [Loss Trancends to Gain](https://open.spotify.com/track/3KSS4USSsOhXesezYsbaMa) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Spiritual Synchronicities](https://open.spotify.com/album/1YbA9gfaowEwRK64Se0Q5b) | 4:17 | 2021-12-10 | 2023-11-18 |
 | [Lost at Sea](https://open.spotify.com/track/13TlLMjvV0pZqBF7DKIs94) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Wandering the Coast](https://open.spotify.com/album/2ufoGt7vrupWII9nAa2pfa) | 3:12 | 2021-12-10 | 2022-09-03 |
 | [Loveliness](https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx) | [Jean Petri](https://open.spotify.com/artist/5Nh6KbxCO5DFRmgQEllo2G) | [Moments of Tomorrow](https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a) | 1:50 | 2021-12-10 | 2022-09-03 |
 | [Lyrebird](https://open.spotify.com/track/72mDETn3Ba8yVewAcqnlqQ) | [Keira Conlon](https://open.spotify.com/artist/2PeXm2l3nGWuNKDr7ATimr) | [Lyrebird](https://open.spotify.com/album/73YZiV6JEfhRBr855r2fvk) | 2:33 | 2021-12-10 |  |

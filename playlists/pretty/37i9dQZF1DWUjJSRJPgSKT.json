@@ -1,12 +1,12 @@
 {
   "description": "Uptempo jazz classics.",
-  "num_followers": 20657,
+  "num_followers": 20744,
   "original_name": "Upbeat Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWQ2NzhlOWE5YjE4ZDkwNTRhZTY3ZmI4YTdjODUyNWZmMTJlNWYw",
+  "snapshot_id": "MCwzYzQyODcxNDJiMTJiNTFjZDlhNGVhMmM0YmQ4MGMxYTY0ZjExZjc0",
   "tracks": [
     {
       "added_at": "2023-11-16 13:44:19",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-11-16 13:44:19",
       "album": {
-        "name": "Stitt Plays Bird (Remastered Version)",
-        "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Now's the Time - Remastered Version",
-      "url": "https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot"
-    },
-    {
-      "added_at": "2023-11-16 13:44:19",
-      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": "2023-11-16 13:44:19",
       "album": {
+        "name": "Stitt Plays Bird (Remastered Version)",
+        "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Now's the Time - Remastered Version",
+      "url": "https://open.spotify.com/track/7M0yitRCCCBxSBdaItK7ot"
+    },
+    {
+      "added_at": "2023-11-16 13:44:19",
+      "album": {
         "name": "Smokin' At The Half Note (Expanded Edition)",
         "url": "https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 303333,
       "name": "Impressions - Live At The Half Note /1965",
       "url": "https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe"
+    },
+    {
+      "added_at": "2023-11-16 13:44:19",
+      "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 359933,
+      "name": "The Bridge - Remastered",
+      "url": "https://open.spotify.com/track/3lW1WztiEqcqN7UFZxfUiQ"
     },
     {
       "added_at": "2023-11-16 13:44:19",
@@ -747,22 +763,6 @@
       "duration_ms": 307986,
       "name": "A Night In Tunisia",
       "url": "https://open.spotify.com/track/5e2HaUy9iKP0f9hV4Fj58j"
-    },
-    {
-      "added_at": "2023-11-16 13:44:19",
-      "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 359933,
-      "name": "The Bridge - Remastered",
-      "url": "https://open.spotify.com/track/3lW1WztiEqcqN7UFZxfUiQ"
     },
     {
       "added_at": "2023-11-16 13:44:19",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-11-16 13:44:19",
       "album": {
-        "name": "Cornbread",
-        "url": "https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 534000,
-      "name": "Our Man Higgins",
-      "url": "https://open.spotify.com/track/6Ay3xLmG2zLku1ZM0RytBc"
-    },
-    {
-      "added_at": "2023-11-16 13:44:19",
-      "album": {
         "name": "A Blowing Session",
         "url": "https://open.spotify.com/album/0G0HYSDx02OthwWPCDU7xR"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 581026,
       "name": "The Way You Look Tonight - Remastered 2009",
       "url": "https://open.spotify.com/track/48LBp3r6onaYB7UDGOPXgI"
+    },
+    {
+      "added_at": "2023-11-16 13:44:19",
+      "album": {
+        "name": "Cornbread",
+        "url": "https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 534000,
+      "name": "Our Man Higgins",
+      "url": "https://open.spotify.com/track/6Ay3xLmG2zLku1ZM0RytBc"
     },
     {
       "added_at": "2023-11-16 13:44:19",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-11-16 13:44:19",
       "album": {
-        "name": "The Cooker",
-        "url": "https://open.spotify.com/album/47AT8h8Vc7LD3NIiNNC2Py"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 436733,
-      "name": "Just One Of Those Things",
-      "url": "https://open.spotify.com/track/0zztrA9NQkQTz3OQiNljXR"
-    },
-    {
-      "added_at": "2023-11-16 13:44:19",
-      "album": {
         "name": "Drums Around The Corner",
         "url": "https://open.spotify.com/album/5kpNDQ4B9GQd3GS4Z5o2GK"
       },
@@ -1123,18 +1107,34 @@
     {
       "added_at": "2023-11-16 13:44:19",
       "album": {
-        "name": "Time For Tyner (2005 Remastered/Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/1q2RwlhPN4zVbhlHMV393p"
+        "name": "Here To Stay",
+        "url": "https://open.spotify.com/album/7mtewQM5RycRtEtGYAlLH5"
       },
       "artists": [
         {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
         }
       ],
-      "duration_ms": 311193,
-      "name": "The Surrey With The Fringe On Top - Remastered 2003/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/0OtQ9Nh2cRYS3flo8TrXb5"
+      "duration_ms": 328186,
+      "name": "Philly Mignon - Rudy Van Gelder 24-Bit Remastering/2006",
+      "url": "https://open.spotify.com/track/7hebpNg0ujU0zFZhNvgCJz"
+    },
+    {
+      "added_at": "2023-11-16 13:44:19",
+      "album": {
+        "name": "The Cooker",
+        "url": "https://open.spotify.com/album/47AT8h8Vc7LD3NIiNNC2Py"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 436733,
+      "name": "Just One Of Those Things",
+      "url": "https://open.spotify.com/track/0zztrA9NQkQTz3OQiNljXR"
     }
   ],
   "unique_name": "Upbeat Jazz",

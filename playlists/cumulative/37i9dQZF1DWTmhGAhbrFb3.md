@@ -4,7 +4,7 @@
 
 > Música ambiental para noches tranquilas.
 
-326 songs - 16 hr 11 min
+327 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Drømme](https://open.spotify.com/track/2QjHg0IKNKgURtYuRaOSVh) | [Etheral Gust](https://open.spotify.com/artist/3SFHOYvNfR3lK8EskFk4PV) | [Drømme](https://open.spotify.com/album/3D9tYGhMOv7qrgs7lBAJQf) | 2:12 | 2023-04-06 |  |
 | [Drži me](https://open.spotify.com/track/2y5P7MecKp333IMNuKeOP7) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Drži me](https://open.spotify.com/album/2E7YQeTIlZ9Zr5Fwq2fal8) | 3:26 | 2023-04-06 |  |
 | [Duende](https://open.spotify.com/track/3MbMFTSftlRSYJe58yqBDl) | [Kaua Correia](https://open.spotify.com/artist/6PE8Ppk9H0TScbZEoLD0z1) | [Duende](https://open.spotify.com/album/3u88cMLMZy9LWwdIHBOUJo) | 3:12 | 2023-04-06 |  |
-| [Dusk](https://open.spotify.com/track/2aNBp9LFC8M9LG08Emc02A) | [Amanda Narjus](https://open.spotify.com/artist/2ovZf6yEaQI0zPwVK6Pfnu) | [Dusk](https://open.spotify.com/album/0hde9bIuxtlCFGByHbCtfF) | 3:33 | 2023-04-06 |  |
+| [Dusk](https://open.spotify.com/track/2aNBp9LFC8M9LG08Emc02A) | [Amanda Narjus](https://open.spotify.com/artist/2ovZf6yEaQI0zPwVK6Pfnu) | [Dusk](https://open.spotify.com/album/0hde9bIuxtlCFGByHbCtfF) | 3:33 | 2023-04-06 | 2023-11-18 |
 | [Dykhtau](https://open.spotify.com/track/6Dzybyg4sWgI3lDNsflTqn) | [Sezja](https://open.spotify.com/artist/2HwBdENnqvDpXaeLBMBtqF) | [Dykhtau](https://open.spotify.com/album/4rdkuEThqNcw4ftMKf4McR) | 3:08 | 2023-04-06 |  |
 | [Désir](https://open.spotify.com/track/3OHBNZSVpnXmKBiLkXIXZS) | [Octave Rivière](https://open.spotify.com/artist/5ZeZs2oMxl3vROqHlYCKJy) | [Désir](https://open.spotify.com/album/5VZ4ldCoSnwvSLauCOeCYm) | 3:16 | 2023-04-06 |  |
 | [Eau Rouge](https://open.spotify.com/track/0H9dq2PB8RxswjJaECzwoC) | [Neil Mansella](https://open.spotify.com/artist/6R6OzpQPL5Mh9ulcQy6CET) | [Eau Rouge](https://open.spotify.com/album/3BC8lAsB5VUcdgIVhCdmZh) | 3:38 | 2023-04-06 |  |
@@ -254,6 +254,7 @@
 | [September Afternoon](https://open.spotify.com/track/0pHPnhRXlSNG9PS23oTya0) | [CUVD Ensemble](https://open.spotify.com/artist/66z9bbA1q2NwCRzFbnt05B) | [Sundown Rain](https://open.spotify.com/album/7gr1BjRPjQvb1d5LDXAJIk) | 4:05 | 2023-04-06 |  |
 | [She’ll be right](https://open.spotify.com/track/0ttVkIiUhVo6j6cxJ6Rnbr) | [Jordan Beggs](https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF) | [She’ll be right](https://open.spotify.com/album/0lhVRQb6dOfoet7rJtPBYg) | 3:15 | 2023-04-06 |  |
 | [Shimmer](https://open.spotify.com/track/2R0jJNaZzXUklvrjpbRS66) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Shimmer](https://open.spotify.com/album/1lpl0tt6oAcoe6MZUlyGR7) | 3:00 | 2023-04-06 |  |
+| [Silent Care](https://open.spotify.com/track/59Z5sHfSmt3WNsVSzITqIS) | [Anarekli](https://open.spotify.com/artist/0owGYDx2xWGY0t6Nelyf4N), [Iasamani](https://open.spotify.com/artist/4hSFuG3jC5Hs7FuY0RLvLw), [Napiri](https://open.spotify.com/artist/7eRXsFw2derSU4CcwaVjfG) | [Silent Care](https://open.spotify.com/album/0t1fFLciAhyww32qcrNLng) | 2:27 | 2023-11-17 |  |
 | [Silver And Coal](https://open.spotify.com/track/0FElHU73Oq9TU32BhWSie6) | [Jon E\. Amber](https://open.spotify.com/artist/0UW01dCiAd1W6RkX7yWSbb) | [The Slow Calm](https://open.spotify.com/album/5eioM1y6hhSre7gqojRM9E) | 2:16 | 2023-04-06 | 2023-09-23 |
 | [Sleeping Beauty](https://open.spotify.com/track/0e8cWeGGK506BTR56KOopd) | [Lahasara](https://open.spotify.com/artist/2e0jbFLa4g3PR9lpXv9kAB) | [Sleeping Beauty](https://open.spotify.com/album/6dARYqQCoczKIcZanMcfLD) | 3:03 | 2023-04-06 |  |
 | [Sleepy Octaves](https://open.spotify.com/track/4yxzs04RjHm7phdG6qNgUH) | [Remi Asana](https://open.spotify.com/artist/5z5yEQcD8JtwJRYJgCO7yc) | [Sleepy Octaves](https://open.spotify.com/album/1JeQa2LsszYiBLHlPiwZFU) | 2:13 | 2023-04-06 |  |

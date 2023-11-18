@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "as novas de pop rock br / Foto: Carol & Vitoria",
+  "description": "as novas de pop rock br / Foto: DAY LIMNS",
   "name": "rockers",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 207000,
       "name": "A Cura",
       "url": "https://open.spotify.com/track/4xawu6VJn17igipPIGayeU"
@@ -439,6 +439,28 @@
     },
     {
       "album": {
+        "name": "Papel de Carta (Deluxe)",
+        "url": "https://open.spotify.com/album/5JD9z50Qpmv591ytAzuwO1"
+      },
+      "artists": [
+        {
+          "name": "Karen Jonz",
+          "url": "https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C"
+        },
+        {
+          "name": "CSS",
+          "url": "https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126303,
+      "name": "Coocoocrazy",
+      "url": "https://open.spotify.com/track/1koc0xNNXvdZvxUVKG9Pew"
+    },
+    {
+      "album": {
         "name": "Coocoocrazy",
         "url": "https://open.spotify.com/album/3rRVEwcZU3BTbu2X7AmEPp"
       },
@@ -494,6 +516,24 @@
       "duration_ms": 207070,
       "name": "CORPO FECHADO",
       "url": "https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98"
+    },
+    {
+      "album": {
+        "name": "Crazy Again",
+        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197877,
+      "name": "Crazy Again",
+      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
     },
     {
       "album": {
@@ -641,6 +681,28 @@
     },
     {
       "album": {
+        "name": "Dona da Minha Cabe\u00e7a",
+        "url": "https://open.spotify.com/album/1yFXVOVzl7frsvybze8Zil"
+      },
+      "artists": [
+        {
+          "name": "Maglore",
+          "url": "https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj"
+        },
+        {
+          "name": "Lu\u00ea",
+          "url": "https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235008,
+      "name": "Dona da Minha Cabe\u00e7a",
+      "url": "https://open.spotify.com/track/0a5bmaUCdiDzYMlebzehDV"
+    },
+    {
+      "album": {
         "name": "don\u2019t call me pretty",
         "url": "https://open.spotify.com/album/02EVktWJJ2yuJs2Q1eqiSB"
       },
@@ -688,7 +750,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 151533,
       "name": "EDGING",
       "url": "https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ"
@@ -888,7 +950,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 157249,
       "name": "Grito",
       "url": "https://open.spotify.com/track/5haGoQ0rTaulltDB7Tw14C"
@@ -1141,6 +1203,24 @@
     },
     {
       "album": {
+        "name": "V\u00caNUS\u2260netuno",
+        "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173322,
+      "name": "K\u00c1LICE",
+      "url": "https://open.spotify.com/track/2XaMdvOBES7VhroymOTQzg"
+    },
+    {
+      "album": {
         "name": "Legado",
         "url": "https://open.spotify.com/album/7qk4AUAt8F9m508h7HV8sj"
       },
@@ -1232,7 +1312,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": null,
       "duration_ms": 161866,
       "name": "Maria",
       "url": "https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA"
@@ -1294,7 +1374,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 142699,
       "name": "Mete o P\u00e9",
       "url": "https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF"
@@ -1330,7 +1410,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 175500,
       "name": "Modo Avi\u00e3o",
       "url": "https://open.spotify.com/track/4ySYEyfeDzgnWLosAGlLQ6"
@@ -1450,7 +1530,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 158823,
       "name": "N\u00e3o Valemos + Nada",
       "url": "https://open.spotify.com/track/4QuNbNry81en6UZ24wiX0i"
@@ -1623,6 +1703,28 @@
     },
     {
       "album": {
+        "name": "QUEM NUNCA??",
+        "url": "https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV"
+      },
+      "artists": [
+        {
+          "name": "Ci\u00e7a Moreira",
+          "url": "https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt"
+        },
+        {
+          "name": "Egypcio",
+          "url": "https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216255,
+      "name": "QUEM NUNCA??",
+      "url": "https://open.spotify.com/track/3LhSiMorC6IntBm252H00W"
+    },
+    {
+      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
@@ -1678,6 +1780,24 @@
       "duration_ms": 170294,
       "name": "Renata",
       "url": "https://open.spotify.com/track/4XMc6OTIFSzkcDKOLrA682"
+    },
+    {
+      "album": {
+        "name": "RESPIRAR",
+        "url": "https://open.spotify.com/album/7zU632IY56kixfQ7GnprPy"
+      },
+      "artists": [
+        {
+          "name": "ZOO",
+          "url": "https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "RESPIRAR",
+      "url": "https://open.spotify.com/track/2PSAlshbjCH0GyDvIW0S84"
     },
     {
       "album": {
@@ -1898,7 +2018,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 155769,
       "name": "Talvez o Problema Seja Eu",
       "url": "https://open.spotify.com/track/5TsG8Dd14xcMcQ8Ze3U0t9"
@@ -2158,7 +2278,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-21",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "VAN GOGH DALT\u00d4NICO",
       "url": "https://open.spotify.com/track/7EdThdy6efxJiYnpchEDLx"
@@ -2230,7 +2350,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 145714,
       "name": "Viciado em Mentir",
       "url": "https://open.spotify.com/track/6e2aPJbVJw9L8QDd421zNY"

@@ -2,9 +2,9 @@
 
 ### [Wild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 
-> Country gone wild! You never know what you're gonna get\. Cover: Austin Snell
+> Country gone wild! You never know what you're gonna get\. Cover: Carter Faith
 
-414 songs - 20 hr 48 min
+418 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Die A Redneck](https://open.spotify.com/track/10XXGAiyvIw44pztev49XJ) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Die A Redneck](https://open.spotify.com/album/6bGSdECWT9XLnvxKQwk3XO) | 3:25 | 2023-09-01 |  |
 | [Different Man](https://open.spotify.com/track/2n99h7z08LvHr7Cjcnm1Ub) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:55 | 2022-09-09 |  |
 | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/track/3xGnEIb8czDRlGZjbAITlL) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/album/6yU40tDImCqU2RrXGvh9Fo) | 2:35 | 2022-03-25 |  |
+| [Dive Bar](https://open.spotify.com/track/7Es3jo5w8VMQai8U9U0pO2) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM), [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Dive Bar](https://open.spotify.com/album/4vzsVvIlOfhkH3Ka6QkfXi) | 3:15 | 2023-11-17 |  |
 | [DOIN' MY BEST](https://open.spotify.com/track/2XZ2iNsKb70iobqOYqcnpw) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 2:37 | 2022-09-23 | 2023-08-02 |
 | [Don’t You Wanna Know](https://open.spotify.com/track/4kkFmjTq8hl2nVSEjNxh83) | [Noah Schnacky](https://open.spotify.com/artist/1qDDkysTxJvFandHwP9CMx), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Don't You Wanna Know](https://open.spotify.com/album/3Q5iInpjJCZQQVf20UkD2z) | 2:24 | 2021-12-10 | 2023-01-04 |
 | [Down by the Riverside](https://open.spotify.com/track/1p5VeCCFyeafMMDaXak10E) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Down by the Riverside](https://open.spotify.com/album/5XeC1lvfqfIs80BoY3qzpC) | 2:59 | 2021-12-10 | 2022-06-04 |
@@ -194,7 +195,7 @@
 | [Home Sweet \(feat\. Lady A\)](https://open.spotify.com/track/68GQ3ZhlzqDNvzq20bdg1o) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Home Sweet \(feat\. Lady A\)](https://open.spotify.com/album/30ULuUPigC0c89kztNco5s) | 3:25 | 2021-12-10 | 2022-02-26 |
 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 | 2021-12-10 | 2022-06-11 |
 | [Home To Me](https://open.spotify.com/track/7y32pxojOyp2FEFEOCKbtF) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Home To Me](https://open.spotify.com/album/4QY2mg5YCs0t1RzhXNLcLj) | 3:39 | 2021-12-10 | 2022-09-24 |
-| [Hometown Hurricane](https://open.spotify.com/track/5gm7WhYs8V8Krt1jnvHz90) | [Atlus](https://open.spotify.com/artist/7pEVNuJRlpDXlsrcq32yHp) | [High Expectations](https://open.spotify.com/album/4XSyagJgyYxldHHZSL5z74) | 2:25 | 2023-08-11 |  |
+| [Hometown Hurricane](https://open.spotify.com/track/5gm7WhYs8V8Krt1jnvHz90) | [Atlus](https://open.spotify.com/artist/7pEVNuJRlpDXlsrcq32yHp) | [High Expectations](https://open.spotify.com/album/4XSyagJgyYxldHHZSL5z74) | 2:25 | 2023-08-11 | 2023-11-18 |
 | [Hometown Hurricane](https://open.spotify.com/track/4bIgyKFroq4NOtHnAVcWCt) | [Atlus](https://open.spotify.com/artist/7pEVNuJRlpDXlsrcq32yHp) | [Hometown Hurricane](https://open.spotify.com/album/5CwgpAwkUHJ4Yc1qiO4v6I) | 2:26 | 2023-04-21 | 2023-08-16 |
 | [Hometown Tonight](https://open.spotify.com/track/5Jqhy024ozWzluqSjWvTaS) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Hometown Tonight](https://open.spotify.com/album/4WK2AD04WjBAS4Cip5yZ9N) | 2:48 | 2021-12-10 | 2023-01-04 |
 | [Horseshoes and Hand Grenades](https://open.spotify.com/track/3o0hiPJ7SzxusicnXlzkBt) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Horseshoes and Hand Grenades](https://open.spotify.com/album/7q7T3eIdjbppmEEii3kKci) | 3:31 | 2022-03-04 | 2023-05-04 |
@@ -252,6 +253,7 @@
 | [Low Life](https://open.spotify.com/track/5KKwdRD3ziZJFqmDEZ25Ny) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Low Life](https://open.spotify.com/album/1mX03pKOvjJlcODjeyD2lt) | 2:51 | 2023-06-16 | 2023-09-30 |
 | [Lucky Me](https://open.spotify.com/track/6dkKeMSmezjgacxO4SaxuZ) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Lucky Me](https://open.spotify.com/album/1LfLPB9XWHNwksW1r0JjhU) | 3:27 | 2021-12-10 | 2022-01-01 |
 | [Mad I Need You](https://open.spotify.com/track/0om2jMPfaW2pBJs5i7axVv) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Love, Kylie](https://open.spotify.com/album/6Ab0rIJ0ydHvziPeeLE5e6) | 3:19 | 2021-12-10 | 2022-01-08 |
+| [Man](https://open.spotify.com/track/55f35jEFEDIWCY9YDwf9r0) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Man](https://open.spotify.com/album/5Paf4g7Jw9SXsPaTHCqWwp) | 2:46 | 2023-11-17 |  |
 | [Me Myself and Why](https://open.spotify.com/track/2s4arq5gE02rBGtGrn2PKj) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Me Myself and Why](https://open.spotify.com/album/4YloWyesV0HgASNvaNuoqR) | 3:33 | 2022-03-04 |  |
 | [Me, Myself, and Wine](https://open.spotify.com/track/7eAtibYWYUJWgIcYA4Rke2) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Me, Myself, and Wine](https://open.spotify.com/album/35MumGCuVvvh3ne38mVzhq) | 3:12 | 2021-12-10 | 2022-01-08 |
 | [Mile a Minute](https://open.spotify.com/track/32TXXuxoLABBCPwIzhcQji) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Mile a Minute](https://open.spotify.com/album/5c7RiwpntE5FEcZbsj8kU4) | 3:15 | 2023-05-12 |  |
@@ -368,6 +370,7 @@
 | [Them Girls Do](https://open.spotify.com/track/5ZBqTdhua0ADInEXNOhwJP) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Them Girls Do](https://open.spotify.com/album/667A3pB1bWGSqBBpmjJJAZ) | 2:52 | 2023-02-03 |  |
 | [This Is It](https://open.spotify.com/track/0AZjGAFciL2GpwoBqDxgg9) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [This Is It](https://open.spotify.com/album/5TiNIgclQD0tKUAGpgkvOT) | 3:15 | 2021-12-10 | 2022-06-04 |
 | [To the Bar](https://open.spotify.com/track/2mAznWMYehmj1bfiqvHHsK) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [To the Bar](https://open.spotify.com/album/7gychLTprJqJqVoJ3XIDtD) | 2:32 | 2023-06-14 |  |
+| [Tom Petty](https://open.spotify.com/track/6zpv9puGutreithPGJPXfz) | [Atlus](https://open.spotify.com/artist/7pEVNuJRlpDXlsrcq32yHp) | [Tom Petty](https://open.spotify.com/album/1fUrkBA4vcg2KCigTxXDf9) | 2:20 | 2023-11-17 |  |
 | [Tomorrow Night](https://open.spotify.com/track/0TwIDNrEyL8VZLRHhiGuHz) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Tomorrow Night](https://open.spotify.com/album/5kX5ndVvGLENyzn5zKFJCr) | 2:51 | 2021-12-10 | 2022-02-26 |
 | [Traffic on a Backroad](https://open.spotify.com/track/4NJqza0eSH9ONs5dYwTNxN) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Traffic on a Backroad](https://open.spotify.com/album/4p4hqq2Ro1xKmMRiqvM05F) | 2:29 | 2023-08-04 |  |
 | [Trap Still Bumpin](https://open.spotify.com/track/3ek3HsC97ny1IklOZQC88G) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trap Still Bumpin](https://open.spotify.com/album/732Y6EuDkkhk3MC3YJIX8g) | 2:44 | 2022-11-18 |  |
@@ -381,6 +384,7 @@
 | [USA](https://open.spotify.com/track/1Od5RPOmHmDoZ2HYct1IDg) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [USA](https://open.spotify.com/album/3c4FhI6rs61ojVXezxTrRn) | 2:55 | 2022-07-01 | 2023-01-04 |
 | [Used To](https://open.spotify.com/track/3Hsym5x2F9hQ5ZJF6VXBN4) | [Brandon Ray](https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw) | [Used To](https://open.spotify.com/album/2TTr0h1ALBNdpTIfbqK7Mk) | 3:03 | 2021-12-10 | 2022-01-01 |
 | [W+W](https://open.spotify.com/track/57Feadv9wz81gOtQFVsdH3) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3), [A.J.](https://open.spotify.com/artist/7qaAY5NJfS75zs9Z4XG0Dx) | [Boots x Beats](https://open.spotify.com/album/6yTa2jxGNCiQsdsLAu3888) | 2:47 | 2021-12-10 | 2023-02-02 |
+| [Waste of Time](https://open.spotify.com/track/5vsgUdQ1FdeAf0id2TAb1U) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Mama Tried](https://open.spotify.com/album/1vnNgfzYhevdcQyGDkcmqb) | 2:19 | 2023-11-17 |  |
 | [Water Under The Bridge](https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Water Under The Bridge](https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA) | 2:49 | 2022-06-24 | 2023-07-01 |
 | [Waves](https://open.spotify.com/track/1NqxPghuptyRlGwKOZANG4) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Waves](https://open.spotify.com/album/0cFNX1KyyhJWqryF4ofYM0) | 3:29 | 2021-12-10 | 2022-06-11 |
 | [Way Down Yonder](https://open.spotify.com/track/418ve8CTLM3XbeGWSq8fA6) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Way Down Yonder](https://open.spotify.com/album/6mUJMoaJvC273B1Dxsu4fL) | 3:38 | 2022-10-14 | 2023-11-04 |

@@ -4,7 +4,7 @@
 
 > Party on with these top children's tracks!
 
-118 songs - 4 hr 43 min
+120 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Theme Music From Peppa Pig](https://open.spotify.com/track/58ySBl2cnyDKKnH4c99n3h) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Theme Music](https://open.spotify.com/album/12p8HxANa15E7NtC0vXa1a) | 0:38 | 2022-11-30 |  |
 | [Tick Tock Rock](https://open.spotify.com/track/47NTKnN6Q3TE6OJ3NWuiGl) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn) | [Dance, Move & Groove!](https://open.spotify.com/album/0pDk4yAlwOyU5iE3WUO4N9) | 2:31 | 2021-12-01 | 2022-12-01 |
 | [Time to Spidey Save the Day \- From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"](https://open.spotify.com/track/6xQ0m1Y44VjkmFDCpgRq4a) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Time to Spidey Save the Day \(From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"\)](https://open.spotify.com/album/2IHNXES7SoyxWN1Nr2fpt7) | 2:02 | 2022-11-30 |  |
-| [Togetherness](https://open.spotify.com/track/3ZeOncZlROjHJQMuijQxki) | [Care Bears](https://open.spotify.com/artist/2GFcrNUkLQ49sXzCvz6PLW) | [Unlock the Music, Season 2](https://open.spotify.com/album/2eFqlnnZ8bAFt4yjHtjSG9) | 2:33 | 2022-11-30 |  |
+| [Togetherness](https://open.spotify.com/track/1gajAVuq4GC3FnmVmH2hML) | [Care Bears](https://open.spotify.com/artist/2GFcrNUkLQ49sXzCvz6PLW) | [Care Bears Unlock the Music, Vol\. 3](https://open.spotify.com/album/18FcmJJ2DeI4wsSgeVe7WG) | 2:33 | 2022-11-30 |  |
+| [Togetherness](https://open.spotify.com/track/3ZeOncZlROjHJQMuijQxki) | [Care Bears](https://open.spotify.com/artist/2GFcrNUkLQ49sXzCvz6PLW) | [Unlock the Music, Season 2](https://open.spotify.com/album/2eFqlnnZ8bAFt4yjHtjSG9) | 2:33 | 2022-11-30 | 2023-11-18 |
 | [Treasure \(from “Dolphin Magic”\) \[single\]](https://open.spotify.com/track/5J0NB5oOdZ0G8064e8PlEU) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl), [Chelsea](https://open.spotify.com/artist/2cRZrfd2YZgyP9Rxi7Ndnl) | [Treasure \(from “Dolphin Magic”\) \[single\]](https://open.spotify.com/album/6asyAuurdLrjiqcY5maRR6) | 2:56 | 2021-12-01 | 2022-12-01 |
 | [Trolls Wanna Have Good Times \(feat\. Icona Pop\)](https://open.spotify.com/track/1mo8r5EwAfNElDFOQNgcQ8) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [James Corden](https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P), [Ester Dean](https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM), [Kenan Thompson](https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl), [The Pop Trolls](https://open.spotify.com/artist/2ossO7Sa8OJ0D0PQjSF1cQ), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [TROLLS World Tour \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8) | 3:25 | 2021-12-01 | 2022-12-01 |
 | [Truck](https://open.spotify.com/track/2eSGNOrSxVbLrDjfg6AhZU) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Just a Minute!](https://open.spotify.com/album/7N27mNG8NjKnmFIcNE7e0C) | 1:03 | 2022-11-30 |  |
@@ -123,7 +124,8 @@
 | [Wheels on the Bus](https://open.spotify.com/track/5wVJTaoVAbhFrQC1QZVPO3) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Nursery Rhymes by CoComelon](https://open.spotify.com/album/2r6bg0wQuP7PN1bU2fgznn) | 3:27 | 2021-12-01 | 2022-12-01 |
 | [Wheels On The Bus](https://open.spotify.com/track/1IoEITHkdiep6Slg3Hti0h) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Rise and Shine](https://open.spotify.com/album/42xceqLtghqbHcStOOeKep) | 1:40 | 2022-11-30 |  |
 | [When You Wish Upon A Star](https://open.spotify.com/track/1fb6MBRagJq42pzMMFYhHf) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Pinocchio \(Original Soundtrack\)](https://open.spotify.com/album/6SUPM4fZiV55quCRQKOtYL) | 1:57 | 2022-11-30 |  |
-| [You're My Best Friend](https://open.spotify.com/track/5k5OipChvcAnF6tbOBxMyB) | [Care Bears](https://open.spotify.com/artist/2GFcrNUkLQ49sXzCvz6PLW) | [Unlock the Music, Season 2](https://open.spotify.com/album/2eFqlnnZ8bAFt4yjHtjSG9) | 2:39 | 2022-11-30 |  |
+| [You're My Best Friend](https://open.spotify.com/track/3oO3cgjzRqz5AYO9vKgk5u) | [Care Bears](https://open.spotify.com/artist/2GFcrNUkLQ49sXzCvz6PLW) | [Care Bears Unlock the Music, Vol\. 3](https://open.spotify.com/album/18FcmJJ2DeI4wsSgeVe7WG) | 2:39 | 2022-11-30 |  |
+| [You're My Best Friend](https://open.spotify.com/track/5k5OipChvcAnF6tbOBxMyB) | [Care Bears](https://open.spotify.com/artist/2GFcrNUkLQ49sXzCvz6PLW) | [Unlock the Music, Season 2](https://open.spotify.com/album/2eFqlnnZ8bAFt4yjHtjSG9) | 2:39 | 2022-11-30 | 2023-11-18 |
 | [You've Got a Friend in Me](https://open.spotify.com/track/2stkLJ0JNcXkIRDNF3ld6c) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47OFnLtLVi5WrPYNXAwFGh) | 2:04 | 2022-11-30 |  |
 | [Your Song Saved My Life \- From Sing 2](https://open.spotify.com/track/4fcbxnnfUycb7fJAInJOob) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Your Song Saved My Life \(From Sing 2\)](https://open.spotify.com/album/0lgSYiY3qT4Q9myulgxhAu) | 3:30 | 2021-12-01 | 2022-12-01 |
 

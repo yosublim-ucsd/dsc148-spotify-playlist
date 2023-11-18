@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring new music by Hovvdy",
+  "description": "Explore all things indie rock right now. Featuring new music by Kurt Vile",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -884,7 +884,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 273492,
       "name": "alife",
       "url": "https://open.spotify.com/track/2ceUzieIOIwYKA9zOiWkto"
@@ -4290,7 +4290,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 213647,
       "name": "Circles",
       "url": "https://open.spotify.com/track/2t3DvNLlf0gvprC5cMmpJM"
@@ -4841,6 +4841,24 @@
     },
     {
       "album": {
+        "name": "Back to Moon Beach",
+        "url": "https://open.spotify.com/album/34ZmHgTZ7OcRCsrTqbHpSQ"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271126,
+      "name": "Cool Water - Single Mix",
+      "url": "https://open.spotify.com/track/7Ki9OmvTAsczQSJO1h99WM"
+    },
+    {
+      "album": {
         "name": "Hold The Line",
         "url": "https://open.spotify.com/album/7K5A0lg0PxbYoqa05ss4nj"
       },
@@ -4985,6 +5003,24 @@
     },
     {
       "album": {
+        "name": "Crashing Through",
+        "url": "https://open.spotify.com/album/0M64PelFgrQAN5hnkB3vMi"
+      },
+      "artists": [
+        {
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223771,
+      "name": "Crashing Through",
+      "url": "https://open.spotify.com/track/3KO92UFKrYFiPxC7Je8vop"
+    },
+    {
+      "album": {
         "name": "Crazed",
         "url": "https://open.spotify.com/album/6lPvlL0riY5AOnFHV19lS1"
       },
@@ -5000,6 +5036,24 @@
       "duration_ms": 121028,
       "name": "Crazed",
       "url": "https://open.spotify.com/track/5QytoiKwnIFaHuIqJWmer5"
+    },
+    {
+      "album": {
+        "name": "Crazy Again",
+        "url": "https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197877,
+      "name": "Crazy Again",
+      "url": "https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23"
     },
     {
       "album": {
@@ -7316,7 +7370,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 176869,
       "name": "Eye On The Bat",
       "url": "https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM"
@@ -8548,7 +8602,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 218386,
       "name": "Games",
       "url": "https://open.spotify.com/track/7HA1olc168EV5By8K7kWq5"
@@ -9380,7 +9434,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 179416,
       "name": "Hell Of A Ride",
       "url": "https://open.spotify.com/track/0t0gMxicWbc6n2NzxQ3iJ3"
@@ -9670,6 +9724,24 @@
       "duration_ms": 174496,
       "name": "hollllllllliday",
       "url": "https://open.spotify.com/track/5ZcPvn9grLZzppQ69iCAxr"
+    },
+    {
+      "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/4Lmqc82cDEqSx9C2uUOydx"
+      },
+      "artists": [
+        {
+          "name": "Chastity Belt",
+          "url": "https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234498,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/6hMeJ3HFIiNQmS8cXqLPd4"
     },
     {
       "album": {
@@ -10116,7 +10188,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 224373,
       "name": "I Don't Know You",
       "url": "https://open.spotify.com/track/43DsSmYR7rk3LKnyY8wkGI"
@@ -12216,7 +12288,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 253964,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/4rwIVNZDiswV0wXcLdtceO"
@@ -13105,6 +13177,28 @@
     },
     {
       "album": {
+        "name": "Mallcore Movies",
+        "url": "https://open.spotify.com/album/425rzC6QAov8meWogidk9N"
+      },
+      "artists": [
+        {
+          "name": "MyKey",
+          "url": "https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9"
+        },
+        {
+          "name": "Mickey Darling",
+          "url": "https://open.spotify.com/artist/3uwUtL5kPSO2mpOhU4SiWz"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176382,
+      "name": "Mallcore Movies",
+      "url": "https://open.spotify.com/track/6Ru4UKv3A5G6QlpLzAFWMl"
+    },
+    {
+      "album": {
         "name": "Sunburn",
         "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
       },
@@ -13480,7 +13574,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 310094,
       "name": "Melody Experiment",
       "url": "https://open.spotify.com/track/5k1c6yaWO1uTSY6wNTVUa6"
@@ -14212,7 +14306,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 174600,
       "name": "My Grandma Says We Have No Future",
       "url": "https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6"
@@ -16028,6 +16122,28 @@
       "duration_ms": 222105,
       "name": "Portraits",
       "url": "https://open.spotify.com/track/1n2POqjfHTnCt3bxaa1vCX"
+    },
+    {
+      "album": {
+        "name": "POSSUM",
+        "url": "https://open.spotify.com/album/0Z60druEH9YVEYZsdG4XaS"
+      },
+      "artists": [
+        {
+          "name": "meija",
+          "url": "https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1"
+        },
+        {
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202133,
+      "name": "POSSUM",
+      "url": "https://open.spotify.com/track/2tQM7YboaoWtuQNAFYSQ2h"
     },
     {
       "album": {
@@ -18351,6 +18467,24 @@
     },
     {
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/7oU3HUVkRdripwlzOyRVxc"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/4pRlMDGcRFNfdos2RIZdHR"
+    },
+    {
+      "album": {
         "name": "Sophie",
         "url": "https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I"
       },
@@ -19506,6 +19640,24 @@
       "duration_ms": 168030,
       "name": "t r a n s p a r e n t s o u l feat. Travis Barker",
       "url": "https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt"
+    },
+    {
+      "album": {
+        "name": "T-Shirt",
+        "url": "https://open.spotify.com/album/4xxjiWgYKD5P1g0SFKBqNh"
+      },
+      "artists": [
+        {
+          "name": "Laura Elliott",
+          "url": "https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167213,
+      "name": "T-Shirt",
+      "url": "https://open.spotify.com/track/4nbUCgADOoOzz8bU8SXkk0"
     },
     {
       "album": {
@@ -21812,6 +21964,24 @@
       "duration_ms": 257693,
       "name": "Waking Moment",
       "url": "https://open.spotify.com/track/4dAwebeDHSagbjZINLuVAJ"
+    },
+    {
+      "album": {
+        "name": "Wall Of Eyes",
+        "url": "https://open.spotify.com/album/200fExjblMBQHdfptuDUra"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305946,
+      "name": "Wall Of Eyes",
+      "url": "https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J"
     },
     {
       "album": {

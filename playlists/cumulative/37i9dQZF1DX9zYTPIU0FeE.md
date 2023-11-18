@@ -4,7 +4,7 @@
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be?si=I4u0nPYhSEGd1qydwDJU3Q">Pilani Bubu</a>
 
-182 songs - 19 hr 50 min
+183 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [Promenade](https://open.spotify.com/track/2VsMAH0aoA2MrRVva1aBG8) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Antique Spoons: Chapters on Love, Loss and The Politics of Memory](https://open.spotify.com/album/4LDBC7za9NUCEJNKkGCdnL) | 5:45 | 2022-04-28 | 2023-03-18 |
 | [Rah \(feat\. Zoë Modiga\)](https://open.spotify.com/track/3CPcUIvlezozJDzmolebuT) | [Desire Marea](https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C), [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [Rah](https://open.spotify.com/album/4mycV2gcEOnp7q3LWYTMrw) | 8:55 | 2023-04-11 |  |
 | [Rainbow \(Live\)](https://open.spotify.com/track/05hWCVraaBWQ07R7fgr0we) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy) | [Thandi Ntuli \(Live at Jazzwerkstatt\)](https://open.spotify.com/album/00igLPQBrtQR2DlH4R96w0) | 14:44 | 2022-04-28 | 2023-04-12 |
-| [Rainbow Revisited](https://open.spotify.com/track/36eemDjGxpm6323UrcC8Mn) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Rainbow Revisited](https://open.spotify.com/album/1dCytQDx5VX09Hl3q2oinS) | 7:13 | 2023-11-16 |  |
+| [Rainbow Revisited](https://open.spotify.com/track/36eemDjGxpm6323UrcC8Mn) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Rainbow Revisited](https://open.spotify.com/album/1dCytQDx5VX09Hl3q2oinS) | 7:13 | 2023-11-16 | 2023-11-18 |
+| [Rainbow Revisited](https://open.spotify.com/track/3yATpiGQJGOrYidye4ebc9) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Rainbow Revisited](https://open.spotify.com/album/63wLAGAGfVOEoDHM2kO8TA) | 7:13 | 2023-11-16 |  |
 | [Red Room](https://open.spotify.com/track/7qCcZTizjFBYCdqGjhvCoV) | [Tune Recreation Committee](https://open.spotify.com/artist/6lNEil3Rutgl0lscHp9pZx) | [Afrika Grooves With the Tune Recreation Committee](https://open.spotify.com/album/7etAEMYrH6A4M3Q7LvaycA) | 7:07 | 2022-04-28 | 2023-03-18 |
 | [Remember Me](https://open.spotify.com/track/5nRF6nlZBIjTTodlaHRuVg) | [Gabi Motuba](https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC) | [Tefiti \- Goddess of Creation](https://open.spotify.com/album/7GAp6bCSVu0dbV5scjOa5M) | 5:30 | 2022-04-28 | 2023-08-26 |
 | [Resonance of Truth](https://open.spotify.com/track/3khqXPns3K35UUWdikdcGq) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Resonance of Truth](https://open.spotify.com/album/2BT9yT0t764TDt5Gqxi7XC) | 5:19 | 2023-04-21 | 2023-05-16 |

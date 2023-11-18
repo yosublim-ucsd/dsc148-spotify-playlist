@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Dark Daze Blues",
+        "url": "https://open.spotify.com/album/0b4tUVqtiR2VOoGqNjAsN0"
+      },
+      "artists": [
+        {
+          "name": "Cole Phillips",
+          "url": "https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228802,
+      "name": "Dark Daze Blues",
+      "url": "https://open.spotify.com/track/5CXQOTRrDepVYKROhaROTj"
+    },
+    {
+      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/3PUA3xAHTsDAp11oAb33Mv"
       },
@@ -1056,7 +1074,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 189986,
       "name": "World on Fire",
       "url": "https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd"

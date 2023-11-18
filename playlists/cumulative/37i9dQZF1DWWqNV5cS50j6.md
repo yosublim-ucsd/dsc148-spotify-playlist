@@ -4,7 +4,7 @@
 
 > Not NOT pop\. Cover: beabadoobee, Mac Wetha, Aminé
 
-1,568 songs - 3 day 3 hr 38 min
+1,570 songs - 3 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Alone](https://open.spotify.com/track/0AV42KWeMXr7npiKyoyvrh) | [Eddy Rock](https://open.spotify.com/artist/2aIU0jOzhmc75mFgJYfPbz) | [Alone](https://open.spotify.com/album/7LUc0gybyjAx0gC7hdT08e) | 2:12 | 2020-12-16 | 2021-03-26 |
 | [Altar](https://open.spotify.com/track/3eRdNkKRi6wpkaG9XrfQpJ) | [LUCA](https://open.spotify.com/artist/7myDQkUb7zFhkmqyq8O5LT) | [Altar](https://open.spotify.com/album/4v5fXLtIXx2kywknrAZg2o) | 2:28 | 2022-04-15 | 2022-06-04 |
 | [AMERICAN GURL](https://open.spotify.com/track/1YYcaX7Mft6dVeSSwfyAuh) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [AMERICAN GURL](https://open.spotify.com/album/5LXmSrGzPSEmTEu3OIsotT) | 3:48 | 2022-03-28 | 2022-11-17 |
-| [american spirit](https://open.spotify.com/track/5PjMEPg56t95BptaDhdQVg) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [mud on my superstars](https://open.spotify.com/album/3hFlIKU66qbWphgI9DcUVP) | 3:21 | 2023-11-07 |  |
+| [american spirit](https://open.spotify.com/track/5PjMEPg56t95BptaDhdQVg) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [mud on my superstars](https://open.spotify.com/album/3hFlIKU66qbWphgI9DcUVP) | 3:21 | 2023-11-07 | 2023-11-18 |
 | [AMPED UP](https://open.spotify.com/track/3cA34URgTzhITECAAtDKfH) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [AMPED UP](https://open.spotify.com/album/70L8buoF4aTyySIBMaoo2E) | 3:04 | 2023-05-19 | 2023-06-24 |
 | [ANECDOTE](https://open.spotify.com/track/6dorpHqoBlF2fgY8BqPoVr) | [Rahul](https://open.spotify.com/artist/4oXf5OZHHXh8SbprWRa1f8) | [DEPRESSED BUT MAKE IT COOL](https://open.spotify.com/album/1C4fLVYiwsja5CtDc3kSp0) | 2:01 | 2022-10-04 | 2022-11-17 |
 | [ANECDOTE \(REMIX\) \[feat\. Teezo Touchdown\]](https://open.spotify.com/track/7rVeOpYLHAS5luBPIv79t2) | [Rahul](https://open.spotify.com/artist/4oXf5OZHHXh8SbprWRa1f8), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [ANECDOTE \(REMIX\) \[feat\. Teezo Touchdown\]](https://open.spotify.com/album/7dNHd2eVIHmdiOFMO5K3Ne) | 2:51 | 2022-11-16 | 2023-07-22 |
@@ -357,6 +357,7 @@
 | [DIZZY](https://open.spotify.com/track/5c0WB921PDc4s4EpthSDJo) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [DIZZY](https://open.spotify.com/album/7lFMvbDwtUZhLhVJyUu8tB) | 3:19 | 2022-02-17 | 2022-05-10 |
 | [Dizzy Vision](https://open.spotify.com/track/20LTZsoVpBQsbbwkgY9YPb) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Dizzy Vision](https://open.spotify.com/album/2XOFL54zsynsBPicRY3dnX) | 2:47 | 2023-03-24 | 2023-10-21 |
 | [dj](https://open.spotify.com/track/3FkE7rIbfrkD5JluAGZtlt) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [dj](https://open.spotify.com/album/3muBhysPm7Fo5M7NiFLNLp) | 2:15 | 2023-04-26 | 2023-07-22 |
+| [DMB](https://open.spotify.com/track/30c4wALbWpUKSF05Ab2vPl) | [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t) | [DMB](https://open.spotify.com/album/7mvKiaZgxHjwoJuYzHqMtK) | 2:44 | 2023-11-17 |  |
 | [DnD \(feat\. Kenny Mason\)](https://open.spotify.com/track/4u27Hk9RfgefXzqzV2wsZW) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [DnD \(feat\. Kenny Mason\)](https://open.spotify.com/album/3BdMsYnkBajLfajXOTADHQ) | 4:11 | 2023-07-21 | 2023-09-30 |
 | [dngr](https://open.spotify.com/track/2f1RWCZRCiNB2EfPQQSBQG) | [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY) | [Late 20's Love Affair](https://open.spotify.com/album/5IBr2x2IAMYWtJ1rBvJMgv) | 2:09 | 2023-11-10 |  |
 | [Do or Die](https://open.spotify.com/track/7CpJ2BbkQOTh3aBN5H61pZ) | [Tony Velour](https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi) | [Vices Hurt](https://open.spotify.com/album/1HpJMg8tpRhYMFn5Isc05m) | 1:26 | 2022-05-09 | 2022-06-11 |
@@ -580,7 +581,7 @@
 | [Happiest](https://open.spotify.com/track/28W4gLSm1wrdVu2dNplneI) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG) | [Happiest](https://open.spotify.com/album/11RQKPWjZv1aiWdQ9jUKw1) | 3:13 | 2022-09-02 | 2022-09-24 |
 | [Haptics](https://open.spotify.com/track/6gOoqDFoY7cekwNDGbIjJ9) | [Santangelo](https://open.spotify.com/artist/23PgufXbWsCNunDb9szzKk), [Quiet Luke](https://open.spotify.com/artist/54oBi8aje0nWVrrCNJAmRF), [Zack Villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh) | [Haptics](https://open.spotify.com/album/6KC0z9SE9jU5lvhS14iIUe) | 3:12 | 2022-02-25 | 2022-05-10 |
 | [HARDCORE HAPPY](https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5) | [THE BLOSSOM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [HARDCORE HAPPY](https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG) | 2:49 | 2021-02-19 | 2021-05-15 |
-| [Harmony](https://open.spotify.com/track/3yZS2Yeowfm4m6ll4pk7Ce) | [Chris Emond](https://open.spotify.com/artist/3hT9y4dPYV9Q7PUaFix4Oy) | [Harmony](https://open.spotify.com/album/0zvdah1dhmJdoPnNlV5AmB) | 4:18 | 2023-10-20 |  |
+| [Harmony](https://open.spotify.com/track/3yZS2Yeowfm4m6ll4pk7Ce) | [Chris Emond](https://open.spotify.com/artist/3hT9y4dPYV9Q7PUaFix4Oy) | [Harmony](https://open.spotify.com/album/0zvdah1dhmJdoPnNlV5AmB) | 4:18 | 2023-10-20 | 2023-11-18 |
 | [Haunted Be Thy](https://open.spotify.com/track/42LJtYCKDdJWidHx4neMcF) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO) | [Haunted Be Thy](https://open.spotify.com/album/4iY3mLMgC6eAPRY7ZM6dIq) | 3:40 | 2022-10-25 | 2022-11-17 |
 | [have a good time](https://open.spotify.com/track/0YnfIvaUWgwBMvJqEIxPyJ) | [she loves boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23) | [have a good time](https://open.spotify.com/album/17pjEE2XXRHEl6MKuE7p4N) | 2:06 | 2023-09-08 |  |
 | [HAZY](https://open.spotify.com/track/0U8iXqyuhoFL07KOXIbN2P) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [SASSY \(Deluxe\)](https://open.spotify.com/album/2FBmbNR9eJ6BY4QIWBRI38) | 2:48 | 2022-10-25 | 2022-10-28 |
@@ -1442,6 +1443,7 @@
 | [U SAID!](https://open.spotify.com/track/3S2FcwSlUhob3FAdHgDwWc) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [TEMPTRESS](https://open.spotify.com/album/1M6P5oEDwt2pcnnWVsxGPo) | 2:07 | 2023-05-19 | 2023-09-09 |
 | [Ughh Parents Evening](https://open.spotify.com/track/09NAWwOkfRCGurjHthLeJL) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [three.one](https://open.spotify.com/album/2xGck9uWnQCNpiBfhHa7JI) | 2:31 | 2023-04-28 | 2023-06-17 |
 | [UGLY \(Remix\)](https://open.spotify.com/track/5Yp6O30CNm4CHfSO7fjHii) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ), [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD), [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [UGLY \(Remix\)](https://open.spotify.com/album/0fiHQDjUcX5xUQr7GPATiP) | 3:21 | 2021-08-25 | 2021-10-14 |
+| [UGOMDN \- A COLORS SHOW](https://open.spotify.com/track/3dDEKW90qTAjYPxhcA6Mtk) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [UGOMDN \- A COLORS SHOW](https://open.spotify.com/album/5WJlAVq7OMFFQSA5ZVRnyH) | 2:56 | 2023-11-17 |  |
 | [UGUDBRU \(feat\. Sam Truth\)](https://open.spotify.com/track/2UEsIWEHeNN5k7lJ6UZvzo) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [UGUDBRU \(feat\. Sam Truth\)](https://open.spotify.com/album/5WJAZ4TNEz0FhxWfRv4eQ4) | 4:55 | 2021-03-06 | 2021-10-14 |
 | [ultraviolet.tragedies \(with Terrell Hines\)](https://open.spotify.com/track/2qP3VifO2gnLn7sj5md688) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Terrell Hines](https://open.spotify.com/artist/2jhjHaG1p2SMn6cDyhwhjQ) | [ultraviolet.tragedies \(with Terrell Hines\)](https://open.spotify.com/album/1xeTGwmriV3NHmNgMzvPav) | 2:57 | 2021-01-16 | 2021-05-03 |
 | [Under Tongues](https://open.spotify.com/track/00UvGIak7DDF3HsLZX43ml) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Under Tongues](https://open.spotify.com/album/3papMg5gqRS5qpPg7wje4G) | 2:50 | 2023-01-20 | 2023-05-06 |

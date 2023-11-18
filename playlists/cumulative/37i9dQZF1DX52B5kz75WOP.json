@@ -304,10 +304,28 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 186600,
       "name": "Scratch My Back",
       "url": "https://open.spotify.com/track/1UeckZ4DJwZjuCfvUzNcHm"
+    },
+    {
+      "album": {
+        "name": "Nobody's Fools (Expanded)",
+        "url": "https://open.spotify.com/album/6ZFL69V1pLtEhVdPjHahM0"
+      },
+      "artists": [
+        {
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+        }
+      ],
+      "date_added": "2020-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186600,
+      "name": "Scratch My Back",
+      "url": "https://open.spotify.com/track/6UKieaLfTkCAQNSFWs57Vo"
     },
     {
       "album": {

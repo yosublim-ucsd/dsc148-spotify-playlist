@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: Adam Beyer
 
-263 songs - 21 hr 21 min
+264 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Heartbreak](https://open.spotify.com/track/2UCncsHyNdD1vydaF7rZ1k) | [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK) | [Radical](https://open.spotify.com/album/5EFl876r4ClNKdplwwH2XP) | 4:34 | 2023-10-27 |  |
 | [Heavy](https://open.spotify.com/track/7sPerpuqSL5EfHNQ7QuQPd) | [Closet Yi](https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp) | [Heavy](https://open.spotify.com/album/5wBnyoQ8ADse95YJtdxiox) | 6:22 | 2022-05-26 | 2023-08-11 |
 | [Helios](https://open.spotify.com/track/0YG4ikS7CFZkkkGb2dRzNA) | [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Helios](https://open.spotify.com/album/2eJ50z9GRFsXRNOypsb3iV) | 7:20 | 2022-04-15 | 2022-05-27 |
-| [HEY DJ](https://open.spotify.com/track/0OK0kC1IIjLgaaEtVDXwL6) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Hey DJ](https://open.spotify.com/album/1SjL6tOedOu6S7U9Cwa71W) | 6:51 | 2023-10-27 |  |
+| [HEY DJ](https://open.spotify.com/track/0OK0kC1IIjLgaaEtVDXwL6) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Hey DJ](https://open.spotify.com/album/1SjL6tOedOu6S7U9Cwa71W) | 6:51 | 2023-10-27 | 2023-11-18 |
 | [HEY DJ](https://open.spotify.com/track/7qFvhLqCeIn0DzuaSOiesv) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [HEY DJ](https://open.spotify.com/album/1aISciPEedMIeuaLiarVIL) | 6:51 | 2023-01-20 | 2023-11-05 |
 | [Higher Power](https://open.spotify.com/track/7mQAjg2u5udWhnQ07jIHI7) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Higher Power](https://open.spotify.com/album/5t81OipNDNgEJ8MR5RVwFU) | 3:28 | 2023-11-13 |  |
 | [How Do I Belong](https://open.spotify.com/track/0dFLi0ewOCznez3T2AsZZ8) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [How Do I Belong](https://open.spotify.com/album/5Y1sct5M7sCdL7PzBSmfAr) | 3:25 | 2022-04-15 | 2022-05-27 |
@@ -208,6 +208,7 @@
 | [Send Help](https://open.spotify.com/track/6jVlTi2ftKk02j3mCWsSKQ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Send Help](https://open.spotify.com/album/2BzFB5SNQazAUMzqi9VXv1) | 3:15 | 2022-04-15 | 2022-05-27 |
 | [Shine](https://open.spotify.com/track/6GJYSPLEP0sjZzzpuiKIcx) | [Modeā](https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ) | [Shine](https://open.spotify.com/album/5rOgqcs2ZryO3cZg03B27l) | 4:04 | 2022-07-01 | 2023-09-22 |
 | [Shook](https://open.spotify.com/track/3pvthFHMfvalSNxcnSJgUM) | [David Lowe](https://open.spotify.com/artist/52dT7EHXa4b74ozIjFISzD), [Brad Edgar](https://open.spotify.com/artist/32zsdaR0kbqUOgHwMAtiTx) | [Shook](https://open.spotify.com/album/5V9YlNz4b31CggAtQ5ubhV) | 3:39 | 2023-09-22 |  |
+| [Silent Silence](https://open.spotify.com/track/0nvj4OtfT4WypHXVe6i7N5) | [Shaded](https://open.spotify.com/artist/2xKTuI2Nl32OaYyDndSB3S) | [Silent Silence](https://open.spotify.com/album/10KkWSR06z49S4o7bdpd30) | 7:10 | 2023-11-17 |  |
 | [Simulator](https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Simulator](https://open.spotify.com/album/6gP0CsJDvNuJJfCjXamjFJ) | 3:40 | 2023-08-10 |  |
 | [Snapshot '99](https://open.spotify.com/track/11gGOwStTHjiOlWbQgJCeB) | [Ben Sims](https://open.spotify.com/artist/5wW4dvR027rdRFG0mtvckt) | [Circular Motions EP](https://open.spotify.com/album/5VjCr8Wo4yIlRjkFXNaT2h) | 6:03 | 2022-12-16 | 2023-08-11 |
 | [Someday](https://open.spotify.com/track/5uQyM8sY3jXvJ8Qpcr1axC) | [J Wax](https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ) | [1997](https://open.spotify.com/album/6y6ZbbAYM12taq2xjofbSH) | 4:13 | 2023-01-20 |  |

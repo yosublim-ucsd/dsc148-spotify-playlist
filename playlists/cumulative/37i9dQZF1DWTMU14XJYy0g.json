@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Richard Coleman",
+  "description": "Lo m\u00e1s potente del rock argentino, y algunos invitados de lujo. Foto: Ella Es Tan Cargosa",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 285176,
       "name": "Eso no es Amor",
       "url": "https://open.spotify.com/track/3fG3Ds1rzPt5kScGIlocTH"
@@ -3388,6 +3388,24 @@
       "duration_ms": 259039,
       "name": "Reflejo",
       "url": "https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I"
+    },
+    {
+      "album": {
+        "name": "Regresar al Cuerpo",
+        "url": "https://open.spotify.com/album/60kAJYfszVgUglDQDoCZiK"
+      },
+      "artists": [
+        {
+          "name": "Ella Es Tan Cargosa",
+          "url": "https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Regresar al Cuerpo",
+      "url": "https://open.spotify.com/track/71u7FtnJxZPqvdHqzyo8qS"
     },
     {
       "album": {

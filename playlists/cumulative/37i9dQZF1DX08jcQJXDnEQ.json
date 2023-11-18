@@ -3951,6 +3951,24 @@
     },
     {
       "album": {
+        "name": "Balls to Picasso (2001 Remaster)",
+        "url": "https://open.spotify.com/album/2AKNnewiklMkna3HbigH5X"
+      },
+      "artists": [
+        {
+          "name": "Bruce Dickinson",
+          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384013,
+      "name": "Tears of the Dragon (2001 Remaster)",
+      "url": "https://open.spotify.com/track/3EiQGaaHMHFk5ykD1a7vYt"
+    },
+    {
+      "album": {
         "name": "Balls To Picasso (2001 Remastered Version)",
         "url": "https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8"
       },
@@ -3962,7 +3980,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 384013,
       "name": "Tears of the Dragon - 2001 Remastered Version",
       "url": "https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR"

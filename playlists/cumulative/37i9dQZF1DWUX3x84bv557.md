@@ -4,7 +4,7 @@
 
 > De nieuwste Nederlandse liedjes! Cover: Snelle
 
-425 songs - 20 hr 40 min
+428 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,8 @@
 | [gewoon een dag](https://open.spotify.com/track/0aG1rzJY6vbJ12JFvNuOFp) | [Laura Sjin](https://open.spotify.com/artist/6bf1bbhtxECuliHnaTAJ8L) | [gewoon een dag](https://open.spotify.com/album/5ayU1kzoAaMOC6BU5ObAGJ) | 2:27 | 2023-02-23 | 2023-03-10 |
 | [Glaasje of 2](https://open.spotify.com/track/608bP3vB7pwjatfREMItX6) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Glaasje of 2](https://open.spotify.com/album/5fuPi9z1GQW2FpeR9ZV09j) | 2:03 | 2023-06-08 | 2023-09-22 |
 | [Glas Omhoog](https://open.spotify.com/track/4WwIDS7A1zgEQm9IW3VNHv) | [VanVelzen](https://open.spotify.com/artist/3Lq6Tb3SbS4n6dVuCx0Zzi), [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Glas Omhoog](https://open.spotify.com/album/2ziIuYohcXd16XfSBeNWYO) | 3:23 | 2023-05-11 | 2023-06-02 |
-| [Glijpanter](https://open.spotify.com/track/2ThroYFQQFTyhd2Vi8FwSW) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Moderne Manieren](https://open.spotify.com/album/4BoxopluUiPxKaF7jpUOhB) | 3:39 | 2023-11-16 |  |
+| [Glijpanter](https://open.spotify.com/track/0cWIJhR3QZHJPHHoRn0vr6) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Glijpanter](https://open.spotify.com/album/5VSqpjC7klSeMAztyXlO1O) | 3:39 | 2023-11-16 |  |
+| [Glijpanter](https://open.spotify.com/track/2ThroYFQQFTyhd2Vi8FwSW) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Moderne Manieren](https://open.spotify.com/album/4BoxopluUiPxKaF7jpUOhB) | 3:39 | 2023-11-16 | 2023-11-18 |
 | [GOAT](https://open.spotify.com/track/1TJ9GtbZEJC2Ze5J3PAVH7) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [GOAT](https://open.spotify.com/album/0DsFrYd1H4YaginnzMkUkP) | 2:19 | 2023-02-23 | 2023-05-10 |
 | [Goddamn](https://open.spotify.com/track/1RKkXpPjda5Ow3dih6nNI8) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Lima](https://open.spotify.com/album/5Xj9VAjRTCfXHTWjHn2bxM) | 2:25 | 2023-02-23 | 2023-04-07 |
 | [Goed Nieuws](https://open.spotify.com/track/1qSTVPUUf1JGUc5NpIZ6mB) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Goed Nieuws](https://open.spotify.com/album/3iAznDDuEi5gm0XP4cAF1s) | 3:43 | 2023-06-01 | 2023-06-23 |
@@ -313,7 +314,8 @@
 | [Radio](https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Radio](https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L) | 3:05 | 2023-08-17 | 2023-11-16 |
 | [Reden](https://open.spotify.com/track/01D46oDUTJaykFjldVmWEe) | [Boaz Tooren](https://open.spotify.com/artist/3naJPrcJbwO1ibrVzpbTTs) | [Reden](https://open.spotify.com/album/1ubTnY6I7QZsnZqbOiQPYR) | 2:52 | 2023-08-24 | 2023-09-15 |
 | [Reden](https://open.spotify.com/track/27C4hWKoHD15w2UjiOGxdq) | [Stenfert](https://open.spotify.com/artist/7nfwBKWMnPY7FJZQwh1wq8) | [Reden](https://open.spotify.com/album/4paknEHWj4kZ9YCCHRTgb3) | 2:36 | 2023-09-07 | 2023-10-20 |
-| [Rock ‘n Roll in Nederland](https://open.spotify.com/track/7o51u26XzNsTpA23561NJv) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Thomas Acda](https://open.spotify.com/artist/50o63K3IrY47g46E8R071Y) | [Rock ’n Roll in Nederland](https://open.spotify.com/album/1xrVhPW2YITqCyJFDiKlbL) | 3:03 | 2023-11-16 |  |
+| [Rock ‘n Roll in Nederland](https://open.spotify.com/track/5M8nfeMKcqbl6oROJqxDgE) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Thomas Acda](https://open.spotify.com/artist/50o63K3IrY47g46E8R071Y) | [Achtentwintig](https://open.spotify.com/album/0f7y8rn9RXOANKpNK3GW6B) | 3:03 | 2023-11-16 |  |
+| [Rock ‘n Roll in Nederland](https://open.spotify.com/track/7o51u26XzNsTpA23561NJv) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Thomas Acda](https://open.spotify.com/artist/50o63K3IrY47g46E8R071Y) | [Rock ’n Roll in Nederland](https://open.spotify.com/album/1xrVhPW2YITqCyJFDiKlbL) | 3:03 | 2023-11-16 | 2023-11-18 |
 | [Rolling Stone](https://open.spotify.com/track/7pmmCC7wOuG38rZeUCtPpa) | [Mick Spek](https://open.spotify.com/artist/23mbvDIZJjSK4y4KhwlnHi) | [Rolling Stone](https://open.spotify.com/album/3XSu9f5Zau6MN01ZCxQz0F) | 2:25 | 2023-09-21 | 2023-10-06 |
 | [Rommel](https://open.spotify.com/track/0pw06mcIzuAeLPOHZT7W4Z) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Rommel](https://open.spotify.com/album/6iyEGMk28j3ZuiQxz5lvU5) | 3:16 | 2023-04-13 | 2023-08-18 |
 | [Rood Licht](https://open.spotify.com/track/26zU9nsY6hlPUAjb4PsRsb) | [ZWIJMEL](https://open.spotify.com/artist/7swrz956hjUaa1XUSXMdkd) | [Rood Licht](https://open.spotify.com/album/4rbf6xcKq8hya8XBAw9PWi) | 3:09 | 2023-03-16 | 2023-05-19 |
@@ -323,7 +325,8 @@
 | [Samen Niets Doen](https://open.spotify.com/track/2JdAWHy81J3bfqhpVSBpqE) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Samen Niets Doen](https://open.spotify.com/album/0RXtdtgH5L4SE5H6FVcA27) | 2:46 | 2023-08-03 | 2023-11-10 |
 | [SANGRIA](https://open.spotify.com/track/1rB3PaSergrJ8AFHjrcBtG) | [TOMMY](https://open.spotify.com/artist/6UrqENU5uLgpXCx5a4SRKM) | [SANGRIA](https://open.spotify.com/album/0OwpIDXfSxvw0yDalHmR45) | 2:14 | 2023-07-20 | 2023-09-01 |
 | [Satisfyer](https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Satisfyer](https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c) | 2:01 | 2023-11-09 |  |
-| [September](https://open.spotify.com/track/74uZsI9WAdSEvvPUNpq57C) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [September](https://open.spotify.com/album/5dQ7n1SeaptLAjnDMlI1Sv) | 3:53 | 2023-11-14 |  |
+| [September](https://open.spotify.com/track/43He0vCvIy1tVm0m2TzReh) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Achtentwintig](https://open.spotify.com/album/0f7y8rn9RXOANKpNK3GW6B) | 3:53 | 2023-11-16 |  |
+| [September](https://open.spotify.com/track/74uZsI9WAdSEvvPUNpq57C) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [September](https://open.spotify.com/album/5dQ7n1SeaptLAjnDMlI1Sv) | 3:53 | 2023-11-14 | 2023-11-18 |
 | [Sexy](https://open.spotify.com/track/3ep4UFsL9NFPrTSReiJAWn) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [Sexy](https://open.spotify.com/album/6F47aUJVE7SBwQ4KDJaOek) | 2:12 | 2023-04-20 | 2023-08-18 |
 | [Signalen](https://open.spotify.com/track/3sXuzqUTUbLQqAcCYvNu1B) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Signalen](https://open.spotify.com/album/3vBChoujwlS8ncQ1yU01Pe) | 3:19 | 2023-05-18 | 2023-06-02 |
 | [Simone](https://open.spotify.com/track/233KjtSp13hed57BJgRjul) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Simone](https://open.spotify.com/album/49lqmVVusVjCA4qO3AhL3Y) | 2:30 | 2023-06-22 | 2023-09-15 |

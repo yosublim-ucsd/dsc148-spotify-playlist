@@ -1,12 +1,12 @@
 {
   "description": "Home is where you park it.",
-  "num_followers": 663188,
+  "num_followers": 663427,
   "original_name": "Van Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTY4MjRlNjZmY2Q2ZTU5ZTczM2U1YjQyMzdkOWY5ZDIxNGI2NDBk",
+  "snapshot_id": "MCwxMTFjNmEyY2ZiODQ4YmIxOTZmN2RiYzI3YWRlMzllZjcyYTU2MDI5",
   "tracks": [
     {
       "added_at": "2023-10-04 13:49:02",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
+        "name": "Rose Pink Cadillac",
+        "url": "https://open.spotify.com/album/2VaOn32haUapQOYnerK32W"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "duration_ms": 261911,
+      "name": "Rose Pink Cadillac",
+      "url": "https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
         "name": "I Am Easy to Find",
         "url": "https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 295454,
       "name": "Change",
       "url": "https://open.spotify.com/track/3HFBqhotJeEKHJzMEW31jZ"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
-        "name": "Rose Pink Cadillac",
-        "url": "https://open.spotify.com/album/2VaOn32haUapQOYnerK32W"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 261911,
-      "name": "Rose Pink Cadillac",
-      "url": "https://open.spotify.com/track/5J59tqY0Ad4r27tJJajzyB"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Dragon New Warm Mountain I Believe In You",
-        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 187388,
-      "name": "Certainty",
-      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "she goes",
         "url": "https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 197933,
       "name": "Curls",
       "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 187388,
+      "name": "Certainty",
+      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "The Last Exit",
-        "url": "https://open.spotify.com/album/50EAokAxob4hHwJCTQ1A2M"
-      },
-      "artists": [
-        {
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
-        }
-      ],
-      "duration_ms": 235093,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "Jaime",
         "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 191395,
       "name": "Stay High",
       "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "The Last Exit",
+        "url": "https://open.spotify.com/album/50EAokAxob4hHwJCTQ1A2M"
+      },
+      "artists": [
+        {
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+        }
+      ],
+      "duration_ms": 235093,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
       },
       "artists": [
         {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
         }
       ],
-      "duration_ms": 274423,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
+      "duration_ms": 252080,
+      "name": "Permanent Way",
+      "url": "https://open.spotify.com/track/6gf9RW0DKG5GUZJcCMGSje"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -883,22 +883,6 @@
       "duration_ms": 220275,
       "name": "Golden Rope",
       "url": "https://open.spotify.com/track/2ogq0f3TzF5OU1155mnKOy"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
-        "name": "Permanent Way",
-        "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
-      },
-      "artists": [
-        {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
-        }
-      ],
-      "duration_ms": 252080,
-      "name": "Permanent Way",
-      "url": "https://open.spotify.com/track/6gf9RW0DKG5GUZJcCMGSje"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1051,22 +1035,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Welcome To Kookoo Island",
-        "url": "https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT"
-      },
-      "artists": [
-        {
-          "name": "Cari Cari",
-          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
-        }
-      ],
-      "duration_ms": 226165,
-      "name": "Belo Horizonte",
-      "url": "https://open.spotify.com/track/2F09YSqsNCGLBGvrvUWvZp"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "anew",
         "url": "https://open.spotify.com/album/5wutBSXdX6kR0QdVK2X24K"
       },
@@ -1079,6 +1047,22 @@
       "duration_ms": 215599,
       "name": "anew",
       "url": "https://open.spotify.com/track/2E17445RgPqXOH7Jfn0Hhf"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "Welcome To Kookoo Island",
+        "url": "https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT"
+      },
+      "artists": [
+        {
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+        }
+      ],
+      "duration_ms": 226165,
+      "name": "Belo Horizonte",
+      "url": "https://open.spotify.com/track/2F09YSqsNCGLBGvrvUWvZp"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Everyone's A Winner",
+      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
         "name": "Quarantine at El Ganzo",
         "url": "https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ"
       },
@@ -1163,22 +1163,6 @@
       "duration_ms": 228059,
       "name": "Price",
       "url": "https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Everyone's A Winner",
-      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1279,22 +1263,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Same Kind of People",
-        "url": "https://open.spotify.com/album/4zFAYEzJFfPkJA7WbGWnIz"
-      },
-      "artists": [
-        {
-          "name": "Bukahara",
-          "url": "https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W"
-        }
-      ],
-      "duration_ms": 242546,
-      "name": "Same Kind of People",
-      "url": "https://open.spotify.com/track/0JJ4Q040PP2kU7AxaZTl9B"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "My Guitar is too Loud",
         "url": "https://open.spotify.com/album/7Cf52mLBhP6NdPp1Fj6KBy"
       },
@@ -1327,18 +1295,18 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "The Barrel",
-        "url": "https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo"
+        "name": "Same Kind of People",
+        "url": "https://open.spotify.com/album/4zFAYEzJFfPkJA7WbGWnIz"
       },
       "artists": [
         {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+          "name": "Bukahara",
+          "url": "https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W"
         }
       ],
-      "duration_ms": 219510,
-      "name": "The Barrel - Edit",
-      "url": "https://open.spotify.com/track/12Yg0ccaYI9y1U9Qh5bxRV"
+      "duration_ms": 242546,
+      "name": "Same Kind of People",
+      "url": "https://open.spotify.com/track/0JJ4Q040PP2kU7AxaZTl9B"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1359,6 +1327,58 @@
       "duration_ms": 168316,
       "name": "GPS (w/ Felly)",
       "url": "https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "The Barrel",
+        "url": "https://open.spotify.com/album/0kLYa7ncFhiJus9oEICDgo"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 219510,
+      "name": "The Barrel - Edit",
+      "url": "https://open.spotify.com/track/12Yg0ccaYI9y1U9Qh5bxRV"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "Dream Nation",
+        "url": "https://open.spotify.com/album/2bJ8k4Qe5vmC7uEBJ1sgOV"
+      },
+      "artists": [
+        {
+          "name": "HAERTS",
+          "url": "https://open.spotify.com/artist/7pww8JMPMj1SxUfJ8wN5Kt"
+        },
+        {
+          "name": "Ed Droste",
+          "url": "https://open.spotify.com/artist/0XF81i7F5hTlfNMHlTNptl"
+        }
+      ],
+      "duration_ms": 259506,
+      "name": "For The Sky",
+      "url": "https://open.spotify.com/track/6ggeeiPzhSgSfmrGxPnDcp"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "Le temps se fuit",
+        "url": "https://open.spotify.com/album/3c4TSKxmkgV2WgmtF6hYCt"
+      },
+      "artists": [
+        {
+          "name": "Black Sea Dahu",
+          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
+        }
+      ],
+      "duration_ms": 210706,
+      "name": "Le temps se fuit",
+      "url": "https://open.spotify.com/track/1BQcGLosFe4mZrXwr2wDSZ"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1427,22 +1447,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Future Perfect, Present Tense",
-        "url": "https://open.spotify.com/album/1HSawWEsUAGckKHi42kIBS"
-      },
-      "artists": [
-        {
-          "name": "Ten F\u00e9",
-          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
-        }
-      ],
-      "duration_ms": 284653,
-      "name": "Isn't Ever A Day",
-      "url": "https://open.spotify.com/track/3YnfOmxe8JaWmowxmgTzms"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "Cartoon People",
         "url": "https://open.spotify.com/album/4OLCEhgQysdCpVJkbz3gAT"
       },
@@ -1459,18 +1463,18 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Le temps se fuit",
-        "url": "https://open.spotify.com/album/3c4TSKxmkgV2WgmtF6hYCt"
+        "name": "Future Perfect, Present Tense",
+        "url": "https://open.spotify.com/album/1HSawWEsUAGckKHi42kIBS"
       },
       "artists": [
         {
-          "name": "Black Sea Dahu",
-          "url": "https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70"
+          "name": "Ten F\u00e9",
+          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
         }
       ],
-      "duration_ms": 210706,
-      "name": "Le temps se fuit",
-      "url": "https://open.spotify.com/track/1BQcGLosFe4mZrXwr2wDSZ"
+      "duration_ms": 284653,
+      "name": "Isn't Ever A Day",
+      "url": "https://open.spotify.com/track/3YnfOmxe8JaWmowxmgTzms"
     },
     {
       "added_at": "2023-10-04 13:49:02",
@@ -1631,22 +1635,6 @@
     {
       "added_at": "2023-10-04 13:49:02",
       "album": {
-        "name": "Breach",
-        "url": "https://open.spotify.com/album/6w03R3cOqEyw58PhPnYoPg"
-      },
-      "artists": [
-        {
-          "name": "Boatkeeper",
-          "url": "https://open.spotify.com/artist/50KHQF16VC7NeTwFNnKoJ5"
-        }
-      ],
-      "duration_ms": 202361,
-      "name": "Breach",
-      "url": "https://open.spotify.com/track/04CmffXO0izW3hyshf25Zj"
-    },
-    {
-      "added_at": "2023-10-04 13:49:02",
-      "album": {
         "name": "Fake Plastic Trees",
         "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
       },
@@ -1659,6 +1647,22 @@
       "duration_ms": 260000,
       "name": "Fake Plastic Trees",
       "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
+    },
+    {
+      "added_at": "2023-10-04 13:49:02",
+      "album": {
+        "name": "Breach",
+        "url": "https://open.spotify.com/album/6w03R3cOqEyw58PhPnYoPg"
+      },
+      "artists": [
+        {
+          "name": "Boatkeeper",
+          "url": "https://open.spotify.com/artist/50KHQF16VC7NeTwFNnKoJ5"
+        }
+      ],
+      "duration_ms": 202361,
+      "name": "Breach",
+      "url": "https://open.spotify.com/track/04CmffXO0izW3hyshf25Zj"
     }
   ],
   "unique_name": "Van Life",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Peggy Gou ",
+  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: The Blessed Madonna",
   "name": "Altar JP",
   "tracks": [
     {
@@ -38,6 +38,32 @@
       "duration_ms": 366056,
       "name": "(It Goes Like) Nanana - Nanadub",
       "url": "https://open.spotify.com/track/6vQuuzzYy6Kko6MDFGVndC"
+    },
+    {
+      "album": {
+        "name": "Huyuu (\u6d6e\u904a) [Remixes]",
+        "url": "https://open.spotify.com/album/4nRQbzjV6lVsr4eP6zHoZw"
+      },
+      "artists": [
+        {
+          "name": "(((sssurrounddd)))",
+          "url": "https://open.spotify.com/artist/6ifeAFv8w3BSPd6BYDqYgo"
+        },
+        {
+          "name": "munmu",
+          "url": "https://open.spotify.com/artist/06VcN04fMi0TBeXCY1LsK0"
+        },
+        {
+          "name": "Jun Kamoda",
+          "url": "https://open.spotify.com/artist/2HPkBQMPtdjBbZkAeKTpLm"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "17 - Jun Kamoda Remix",
+      "url": "https://open.spotify.com/track/5MV3dtZfRytzhz0yNv1Ype"
     },
     {
       "album": {
@@ -240,7 +266,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 216247,
       "name": "Alive - Edit",
       "url": "https://open.spotify.com/track/6zynDuNBoBD7AITlS2htjj"
@@ -1205,6 +1231,54 @@
     },
     {
       "album": {
+        "name": "Carry Me Higher",
+        "url": "https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        },
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270402,
+      "name": "Carry Me Higher - 7 Inch Version",
+      "url": "https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9"
+    },
+    {
+      "album": {
+        "name": "Cash",
+        "url": "https://open.spotify.com/album/5C7l2U2lJrjLSMg8p13J14"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        },
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162445,
+      "name": "Cash",
+      "url": "https://open.spotify.com/track/3aHiz7IyBKr9vNynIQJykZ"
+    },
+    {
+      "album": {
         "name": "SUPER DANCE TOOLS Vol.3",
         "url": "https://open.spotify.com/album/5fDkGCqwf24otf3P2fwzV9"
       },
@@ -1762,7 +1836,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 183377,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0"
@@ -1934,7 +2008,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 258000,
       "name": "Dive",
       "url": "https://open.spotify.com/track/7oZHQbGCwosUHL1vDE5qdI"
@@ -1970,7 +2044,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 288000,
       "name": "Dog Sleeper",
       "url": "https://open.spotify.com/track/6tH312WZnrIRWyrvLoOkC9"
@@ -2330,6 +2404,28 @@
       "duration_ms": 241000,
       "name": "Earth",
       "url": "https://open.spotify.com/track/7dx5DbxkhVWt8KsW8kePNM"
+    },
+    {
+      "album": {
+        "name": "Earth Steps Remixes",
+        "url": "https://open.spotify.com/album/1Hgj4xit7jwAruS3eNkOO0"
+      },
+      "artists": [
+        {
+          "name": "Pee J Anderson",
+          "url": "https://open.spotify.com/artist/338O4TkgrWM4mq1hkYEItx"
+        },
+        {
+          "name": "Stones Taro",
+          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322869,
+      "name": "Earth Steps - Stones Taro Remix",
+      "url": "https://open.spotify.com/track/64Fw1IBthfBnZdp3cMUNd6"
     },
     {
       "album": {
@@ -2989,6 +3085,24 @@
     },
     {
       "album": {
+        "name": "Firebreak (Edit)",
+        "url": "https://open.spotify.com/album/7F42un9slW1Gqfziv3jlsX"
+      },
+      "artists": [
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147716,
+      "name": "Firebreak - Edit",
+      "url": "https://open.spotify.com/track/3gjz9ut5aKi3quFgb4c2EU"
+    },
+    {
+      "album": {
         "name": "First Light (Giulia Tess Remix)",
         "url": "https://open.spotify.com/album/2ht9xrz0ur7xINAgLfFYcP"
       },
@@ -3612,7 +3726,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 183000,
       "name": "Groove Guide",
       "url": "https://open.spotify.com/track/6oX5YDpjCLooteZlDBuoeX"
@@ -4150,7 +4264,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 440313,
       "name": "I'm A Man",
       "url": "https://open.spotify.com/track/5W6rx3YtlEXqDc0PWgRva6"
@@ -4230,7 +4344,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 144063,
       "name": "In Blood",
       "url": "https://open.spotify.com/track/1JsxABoXgub295UsXgKKeN"
@@ -4924,6 +5038,28 @@
       "duration_ms": 313669,
       "name": "Lazy Days - Wallace Remix",
       "url": "https://open.spotify.com/track/61X0JCUjDd8BlwAe3z3Rr4"
+    },
+    {
+      "album": {
+        "name": "PBR008",
+        "url": "https://open.spotify.com/album/1oq4yoljnzJhMZLshUEOMI"
+      },
+      "artists": [
+        {
+          "name": "Peaky Beats",
+          "url": "https://open.spotify.com/artist/1QEUzOmKdCmakEgcatckZd"
+        },
+        {
+          "name": "Stones Taro",
+          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322853,
+      "name": "Leeds 2 Kyoto",
+      "url": "https://open.spotify.com/track/3PbFK50fWPTbUegu7yANpX"
     },
     {
       "album": {
@@ -5741,6 +5877,24 @@
     },
     {
       "album": {
+        "name": "FLAVOURS #4",
+        "url": "https://open.spotify.com/album/2ltdgOIe2xJU2fOihi5vbU"
+      },
+      "artists": [
+        {
+          "name": "Hiroyuki Kato",
+          "url": "https://open.spotify.com/artist/23CiJirD3cbTXeVTFysAgq"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376822,
+      "name": "Missing",
+      "url": "https://open.spotify.com/track/64uRVLBFO8U6EbuC4eggql"
+    },
+    {
+      "album": {
         "name": "Money (Jamie 3:26 Remix)",
         "url": "https://open.spotify.com/album/4DL0W8pBU6EooYJePdZXWw"
       },
@@ -5934,7 +6088,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 243200,
       "name": "Move You",
       "url": "https://open.spotify.com/track/1ouG3KvW2gFcjKo0p778MJ"
@@ -6072,7 +6226,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 381907,
       "name": "Never Seen You Dance - Massimiliano Pagliara Remix",
       "url": "https://open.spotify.com/track/6db9QGjrb6NlUW9qkqnw2j"
@@ -7116,7 +7270,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 253219,
       "name": "Rising",
       "url": "https://open.spotify.com/track/7xN80kFvkkSMtDu57pZ29w"
@@ -7684,7 +7838,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 387460,
       "name": "Skylarking",
       "url": "https://open.spotify.com/track/6GEv9R84MAF0xViCmIbv2J"
@@ -8583,6 +8737,28 @@
     },
     {
       "album": {
+        "name": "thicc",
+        "url": "https://open.spotify.com/album/7CGatMISsY9SZCJhVsYiT5"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Cosha",
+          "url": "https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222682,
+      "name": "thicc",
+      "url": "https://open.spotify.com/track/3tda2VED1rPj3MmVf3mXTo"
+    },
+    {
+      "album": {
         "name": "DJ Friendly",
         "url": "https://open.spotify.com/album/0wrBtOddeFuzNoYO6aLFlx"
       },
@@ -9154,7 +9330,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 461829,
       "name": "We Are (\uc6b0\ub9ac\ub294) - Martyn's Come Back Mix",
       "url": "https://open.spotify.com/track/6CBdILDxvbMosq937AKUbC"
@@ -9412,7 +9588,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 336393,
       "name": "When She Dance - David Ariza Club Edit",
       "url": "https://open.spotify.com/track/3xqU7Qvop66DaYfXKaJmXw"

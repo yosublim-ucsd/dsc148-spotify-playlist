@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 
 > Listen to all the iconic tracks from GTA, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,055 likes - 138 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,129 likes - 138 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 | 64 | [Personal Jesus \- 2006 Remaster](https://open.spotify.com/track/3gv4AhWWneEu2oh1Egz652) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [The Best of Depeche Mode, Volume 1](https://open.spotify.com/album/3PIszA6UT9iI99izK60AdV) | 3:45 |
 | 65 | [It Should Have Been You](https://open.spotify.com/track/3e0BAk5D4PVhmU6vCW9ma5) | [Gwen Guthrie](https://open.spotify.com/artist/77HthcNFa6SbicRaQKdhyy) | [Gwen Guthrie](https://open.spotify.com/album/2h2fa6ML63Z8b8JJjQoS85) | 4:21 |
 | 66 | [The Chocolate Conquistadors \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/track/6HOLZtVDh5EgvPnW4z23n2) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [The Chocolate Conquistadors \(From Grand Theft Auto Online: The Cayo Perico Heist\)](https://open.spotify.com/album/3ev38ci4cqU1Ic8vmNri3D) | 7:00 |
-| 67 | [Disco Devil](https://open.spotify.com/track/6vX22fwRmM4bI0WpWtAvuJ) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [The Best of Lee Perry](https://open.spotify.com/album/0xQx4gGOK2jReMCdGqUmno) | 7:51 |
+| 67 | [Disco Devil \(Extended Version\)](https://open.spotify.com/track/6wQIJNrcLbbGzkOHv3ZUId) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Full Experience](https://open.spotify.com/artist/0uskrxhZacFBjwhUUEcJZv) | [The Best of Lee Perry](https://open.spotify.com/album/2KAaDokIGE8kXHEwisFk3X) | 7:51 |
 | 68 | [Body So Good](https://open.spotify.com/track/0aVoXMbwzqgnW1H79Hm0h6) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Forever](https://open.spotify.com/album/0xAUnt43o2FfxIpVFusIOq) | 3:37 |
 | 69 | [You Took All The Ramblin' Out Of Me](https://open.spotify.com/track/22zhoNWUni4mkRCLWBmWCj) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O) | 2:13 |
 | 70 | [Starting Again](https://open.spotify.com/track/5mznlE2PgBsUemRPQpq6MP) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Atelier](https://open.spotify.com/artist/5PAUagDN7Z44NX50NlxF1w) | [1995](https://open.spotify.com/album/7waD4KuSXLB8iEt1DMKurU) | 7:55 |
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 | 111 | [Professor 3](https://open.spotify.com/track/7v5Uo1NjZ09vLORaHjnp4z) | [Professor Rhythm](https://open.spotify.com/artist/7BImuj9nS6aLIZWOfZKfZW) | [Professor 3](https://open.spotify.com/album/6TQ3ZX04MtNhfSATHqd1ew) | 4:55 |
 | 112 | [The MBO Theme](https://open.spotify.com/track/7CTpp656yYxkqN53icMBqH) | [Klein & M.B.O.](https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f) | [The MBO Theme](https://open.spotify.com/album/5BWGWhkQUMgyvl7GXhoUIy) | 6:02 |
 | 113 | [Sleepwalking](https://open.spotify.com/track/0j4mJiFv3L87bl9X5MPMsm) | [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [The Music of Grand Theft Auto V, Vol\. 1: Original Music](https://open.spotify.com/album/31QCnHMnS7Cb4UdJkubgrr) | 3:38 |
-| 114 | [Looks That Kill](https://open.spotify.com/track/74BDVL4TC3P8wyrYViuVjO) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Shout At The Devil](https://open.spotify.com/album/7xuz2r1QalMeEVkYuDfPgY) | 4:07 |
+| 114 | [Looks That Kill](https://open.spotify.com/track/1Cznl5CD5aaEYMfJq1l9Hd) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Shout At The Devil](https://open.spotify.com/album/61tegsknhtO0WKmkyPqvly) | 4:07 |
 | 115 | [West End Girls \- 2018 Remaster](https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Please: Further Listening 1984 \- 1986 \(2018 Remaster\)](https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6) | 4:45 |
 | 116 | [\(It Won’t Be Long\) And I’ll Be Hating You](https://open.spotify.com/track/4wbHM56BWvQbLz4GT2cgOG) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Original Billboard Hits](https://open.spotify.com/album/4K7P6mqbgd0TnqnFDNXXQP) | 2:30 |
 | 117 | [Impacto](https://open.spotify.com/track/6Whz0X5fTmsTMrWuFTBp60) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Cartel: The Big Boss](https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN) | 3:05 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RSJAsEDz7H.md) - [plain]
 | 137 | [Family Man](https://open.spotify.com/track/5KiDWqKsU0EfXQJdnWSOn9) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [H2O](https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB) | 3:24 |
 | 138 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Lifeline](https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq) | 6:54 |
 
-Snapshot ID: `MCwwODg2ODhkNGMxMmRhNGE3MmM2Y2YzZGRjYTE0MzFiYmUwZWU3NThj`
+Snapshot ID: `MCw2NDdkMTg4ZTFlNjY5ZmVmYzEzYjEzZWFjMDUyN2Q0YWMwMmVhYmE3`

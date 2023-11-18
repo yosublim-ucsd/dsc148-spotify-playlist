@@ -250,10 +250,28 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 264880,
       "name": "Cum on Feel the Noize",
       "url": "https://open.spotify.com/track/1agVrzicFWExgEiAtk8lmr"
+    },
+    {
+      "album": {
+        "name": "Sladest (Expanded)",
+        "url": "https://open.spotify.com/album/4KITxQrMFcbvB84oOKHREf"
+      },
+      "artists": [
+        {
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264880,
+      "name": "Cum on Feel the Noize",
+      "url": "https://open.spotify.com/track/3dS7g2Cemp3bQEOqW9WbLm"
     },
     {
       "album": {
@@ -358,10 +376,28 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 214720,
       "name": "Far Far Away",
       "url": "https://open.spotify.com/track/1QMmLeAxi9MDLXjboKOpc7"
+    },
+    {
+      "album": {
+        "name": "Slade in Flame",
+        "url": "https://open.spotify.com/album/1vpdlnYKiVXA3BUt25zq7b"
+      },
+      "artists": [
+        {
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217906,
+      "name": "Far Far Away",
+      "url": "https://open.spotify.com/track/3SZkTTibswLaKIEyEfaAFM"
     },
     {
       "album": {
@@ -902,10 +938,28 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 300800,
       "name": "Run Runaway",
       "url": "https://open.spotify.com/track/5e0ozDjIRDuitUuekiF6ns"
+    },
+    {
+      "album": {
+        "name": "The Amazing Kamikaze Syndrome (Expanded)",
+        "url": "https://open.spotify.com/album/5isCXgbMwjTJdgKKceF45y"
+      },
+      "artists": [
+        {
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300920,
+      "name": "Run Runaway",
+      "url": "https://open.spotify.com/track/3ZiK1M9FDWHhgG180bD6DQ"
     },
     {
       "album": {

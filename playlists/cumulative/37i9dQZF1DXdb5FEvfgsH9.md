@@ -4,7 +4,7 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-135 songs - 8 hr 18 min
+136 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Queen \- Cool Company Remix](https://open.spotify.com/track/0AgZmFOM3Yq0Zok6OlvHve) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb), [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Queen \(Cool Company Remix\)](https://open.spotify.com/album/1UOeukefSXVZIOA4s8qt3O) | 2:36 | 2022-06-24 |  |
 | [Ready](https://open.spotify.com/track/5Rszih77oz5igI9wMzOBPs) | [A\-P Connection](https://open.spotify.com/artist/6uJ3byxMvAQqbWpns9Upgc), [Ryan Konline](https://open.spotify.com/artist/6p7EZVSaTUSHSYRafzVy4z) | [Ready](https://open.spotify.com/album/4vLs8sUIWujaVJqxKklXe9) | 4:24 | 2021-07-26 |  |
 | [Remember](https://open.spotify.com/track/2vScopeFot4IyMBG4Smgqf) | [Rayowa](https://open.spotify.com/artist/6awgjbEndbfu3IpwqKhIFo) | [Remember](https://open.spotify.com/album/71Zx19ODMWH3fAVqqE8vR5) | 3:53 | 2022-08-12 |  |
-| [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/677Ket8qKGVOMtXgE4Gpfk) | 3:49 | 2023-04-28 |  |
+| [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/05nmIjhawOHWTiA21xKpFE) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/3sx9ynPOj1lBDPrnwWkGD1) | 3:49 | 2023-04-28 |  |
+| [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/677Ket8qKGVOMtXgE4Gpfk) | 3:49 | 2023-04-28 | 2023-11-18 |
 | [Second Dinner](https://open.spotify.com/track/1s4dt9PEMuaZqdOIwbJXfo) | [Donny Benét](https://open.spotify.com/artist/1EiNEyiSrpB6BVxt58BnNN) | [Mr Experience](https://open.spotify.com/album/4jWfPxX2PeXQqxXkyysMKC) | 3:37 | 2021-07-26 | 2023-09-09 |
 | [She's Just the Type of Girl](https://open.spotify.com/track/6O1nkPz0MoSrN8XhZUXiOc) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [She's Just the Type of Girl](https://open.spotify.com/album/6VMekpzEYoucovwkIj6zDl) | 2:41 | 2023-07-14 |  |
 | [Shoulda Been Me \- Single Edit](https://open.spotify.com/track/4MS9NuV2IXFMLf5v0Wph1W) | [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K), [Toribio](https://open.spotify.com/artist/1pvkxX6Q1JG8rnyBZ3t2MQ) | [Shoulda Been Me](https://open.spotify.com/album/7Jy1gsRR1XSFb1jN6jMwvx) | 4:46 | 2022-06-24 |  |

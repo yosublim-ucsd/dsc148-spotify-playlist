@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 66475,
+  "num_followers": 66496,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjgwMTBlOGY1NWU1NWQ3NzZjNDk2M2ZiNGYyYTZiZDkxMTViMDdm",
+  "snapshot_id": "MCxkNTViNjUyMjMxYjFhZWQ2YmZjZjNhY2Q1ZjQ4NzZhMjc4YWNmNDA0",
   "tracks": [
     {
       "added_at": "2023-10-18 08:13:47",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Chanakya",
-        "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
-      },
-      "artists": [
-        {
-          "name": "Rishab Rikhiram Sharma",
-          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
-        }
-      ],
-      "duration_ms": 163071,
-      "name": "Chanakya",
-      "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
         "name": "Coke Studio India Season 3: Episode 1",
         "url": "https://open.spotify.com/album/2CStgaiOhe1w4OXAoqP1gl"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 432893,
       "name": "Zariya",
       "url": "https://open.spotify.com/track/7kWMZ2LZIedqzCgPkGNX81"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
+        "name": "Chanakya",
+        "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        }
+      ],
+      "duration_ms": 163071,
+      "name": "Chanakya",
+      "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -539,26 +539,6 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Goldfish (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co"
-      },
-      "artists": [
-        {
-          "name": "Tapas Relia",
-          "url": "https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O"
-        },
-        {
-          "name": "Pratibha Singh Baghel",
-          "url": "https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Piya Padh Lena",
-      "url": "https://open.spotify.com/track/5fuAQJ1kgVpFi5fge9oBae"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
         "name": "This Moment",
         "url": "https://open.spotify.com/album/283JCZJcJLqUYohOHMFuyI"
       },
@@ -595,6 +575,26 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "Rang",
+        "url": "https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV"
+      },
+      "artists": [
+        {
+          "name": "Bickram Ghosh",
+          "url": "https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA"
+        },
+        {
+          "name": "Kala Ramnath",
+          "url": "https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ"
+        }
+      ],
+      "duration_ms": 368026,
+      "name": "Rasiya",
+      "url": "https://open.spotify.com/track/34vM2tvtNynEM1IfK1t1wn"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "Songs Of Trance 2",
         "url": "https://open.spotify.com/album/69srnla8mtjwCtXGfIKSpA"
       },
@@ -619,6 +619,26 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "Goldfish (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co"
+      },
+      "artists": [
+        {
+          "name": "Tapas Relia",
+          "url": "https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O"
+        },
+        {
+          "name": "Pratibha Singh Baghel",
+          "url": "https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Piya Padh Lena",
+      "url": "https://open.spotify.com/track/5fuAQJ1kgVpFi5fge9oBae"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "Grounded in Space",
         "url": "https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw"
       },
@@ -631,46 +651,6 @@
       "duration_ms": 305613,
       "name": "Ghir Ghir",
       "url": "https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Rang",
-        "url": "https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV"
-      },
-      "artists": [
-        {
-          "name": "Bickram Ghosh",
-          "url": "https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA"
-        },
-        {
-          "name": "Kala Ramnath",
-          "url": "https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ"
-        }
-      ],
-      "duration_ms": 368026,
-      "name": "Rasiya",
-      "url": "https://open.spotify.com/track/34vM2tvtNynEM1IfK1t1wn"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Albela",
-        "url": "https://open.spotify.com/album/01wdWEiTkcSFKD8hfcdapQ"
-      },
-      "artists": [
-        {
-          "name": "Shashwat Singh",
-          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
-        },
-        {
-          "name": "Rishabh Shankar",
-          "url": "https://open.spotify.com/artist/3wYcMaSeBY1QdSrHOtFw0g"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Albela",
-      "url": "https://open.spotify.com/track/7ifHKVb1UUasenkV3BFFRL"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -699,6 +679,26 @@
       "duration_ms": 141224,
       "name": "Sargam Surge",
       "url": "https://open.spotify.com/track/0G9GqTdIsZTs3yQnmuQDeg"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
+        "name": "Albela",
+        "url": "https://open.spotify.com/album/01wdWEiTkcSFKD8hfcdapQ"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Singh",
+          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
+        },
+        {
+          "name": "Rishabh Shankar",
+          "url": "https://open.spotify.com/artist/3wYcMaSeBY1QdSrHOtFw0g"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Albela",
+      "url": "https://open.spotify.com/track/7ifHKVb1UUasenkV3BFFRL"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -739,30 +739,6 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Jogiya",
-        "url": "https://open.spotify.com/album/3HDp3VjwowVEIkWkVpP15W"
-      },
-      "artists": [
-        {
-          "name": "Santanu Ghatak",
-          "url": "https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF"
-        },
-        {
-          "name": "Chandreyee Bhattacharya",
-          "url": "https://open.spotify.com/artist/3mH3uFlFhSCBJ9iJRrTtxy"
-        },
-        {
-          "name": "Nilanjan Samadder",
-          "url": "https://open.spotify.com/artist/534gzAUm9B9d5jFkWR0y4A"
-        }
-      ],
-      "duration_ms": 196901,
-      "name": "Jogiya",
-      "url": "https://open.spotify.com/track/7MU4WVkk08iWn61vLxGU9C"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
         "name": "Making Music",
         "url": "https://open.spotify.com/album/6Z5RRaRtxckdDY9W9711lB"
       },
@@ -795,6 +771,30 @@
       "duration_ms": 141459,
       "name": "The Awakening",
       "url": "https://open.spotify.com/track/2pvslHf4vcFm5PVW6wtMwo"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
+        "name": "Jogiya",
+        "url": "https://open.spotify.com/album/3HDp3VjwowVEIkWkVpP15W"
+      },
+      "artists": [
+        {
+          "name": "Santanu Ghatak",
+          "url": "https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF"
+        },
+        {
+          "name": "Chandreyee Bhattacharya",
+          "url": "https://open.spotify.com/artist/3mH3uFlFhSCBJ9iJRrTtxy"
+        },
+        {
+          "name": "Nilanjan Samadder",
+          "url": "https://open.spotify.com/artist/534gzAUm9B9d5jFkWR0y4A"
+        }
+      ],
+      "duration_ms": 196901,
+      "name": "Jogiya",
+      "url": "https://open.spotify.com/track/7MU4WVkk08iWn61vLxGU9C"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "Padharo Mhare Des (Folk Fusion)",
+        "url": "https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N"
+      },
+      "artists": [
+        {
+          "name": "Swaraag",
+          "url": "https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey"
+        }
+      ],
+      "duration_ms": 348000,
+      "name": "Padharo Mhare Des - Folk Fusion",
+      "url": "https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "Ab Ke Sawan",
         "url": "https://open.spotify.com/album/2VQ9C15delsfFKIqbQwscv"
       },
@@ -911,18 +927,22 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Padharo Mhare Des (Folk Fusion)",
-        "url": "https://open.spotify.com/album/0JjWkdg8K95jQYSporLR6N"
+        "name": "In Other Words",
+        "url": "https://open.spotify.com/album/3mL6fwYvMOzFSPdjFsOoso"
       },
       "artists": [
         {
-          "name": "Swaraag",
-          "url": "https://open.spotify.com/artist/4FY8NQeVpFzU78Ia1Q69ey"
+          "name": "Anhad + Tanner",
+          "url": "https://open.spotify.com/artist/5V4PIa2khOUA4o5HUd5fhZ"
+        },
+        {
+          "name": "Akanksha Grover",
+          "url": "https://open.spotify.com/artist/5d78XABQ0O7YUJu7uI65Tj"
         }
       ],
-      "duration_ms": 348000,
-      "name": "Padharo Mhare Des - Folk Fusion",
-      "url": "https://open.spotify.com/track/5eyobsOuQ7Sg4wghsnWdpx"
+      "duration_ms": 294855,
+      "name": "Coming Home (feat. Akanksha Grover)",
+      "url": "https://open.spotify.com/track/6CQhSRMH7HYenOa3OToRyh"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -947,26 +967,6 @@
       "duration_ms": 225353,
       "name": "Krishna Murari",
       "url": "https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "In Other Words",
-        "url": "https://open.spotify.com/album/3mL6fwYvMOzFSPdjFsOoso"
-      },
-      "artists": [
-        {
-          "name": "Anhad + Tanner",
-          "url": "https://open.spotify.com/artist/5V4PIa2khOUA4o5HUd5fhZ"
-        },
-        {
-          "name": "Akanksha Grover",
-          "url": "https://open.spotify.com/artist/5d78XABQ0O7YUJu7uI65Tj"
-        }
-      ],
-      "duration_ms": 294855,
-      "name": "Coming Home (feat. Akanksha Grover)",
-      "url": "https://open.spotify.com/track/6CQhSRMH7HYenOa3OToRyh"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -1011,22 +1011,18 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Kahaani",
-        "url": "https://open.spotify.com/album/0RSjd1hA6EpujEWR3mKxah"
+        "name": "Coke Studio Season 7",
+        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
       },
       "artists": [
         {
-          "name": "Santanu Ghatak",
-          "url": "https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF"
-        },
-        {
-          "name": "Anirban Chowdhury",
-          "url": "https://open.spotify.com/artist/2YydsapN8zp2VTZ9AT7k9w"
+          "name": "Ustad Raees Khan",
+          "url": "https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh"
         }
       ],
-      "duration_ms": 243750,
-      "name": "Kahaani",
-      "url": "https://open.spotify.com/track/144TS04R5kwzBqaM805g9E"
+      "duration_ms": 239220,
+      "name": "Hans Dhuni",
+      "url": "https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T"
     }
   ],
   "unique_name": "Fusion Finds",

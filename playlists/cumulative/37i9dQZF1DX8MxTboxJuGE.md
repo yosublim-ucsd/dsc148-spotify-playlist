@@ -4,7 +4,7 @@
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: ANGRA
 
-94 songs - 7 hr 3 min
+95 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [If Darkness Had a Son](https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 6:36 | 2023-07-14 |  |
 | [In The Wind](https://open.spotify.com/track/2NMY0HrpgXgo0AYrjlQiXe) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [In The Wind](https://open.spotify.com/album/4HvkVUY6cCAeSNnfU0v4Wv) | 3:49 | 2023-07-14 |  |
 | [Keep Away](https://open.spotify.com/track/1U1MNVa1yleOzt4c20fpO1) | [Insane Driver](https://open.spotify.com/artist/2ye4AQnKI7zNyOnuLGHaaE) | [Keep Away](https://open.spotify.com/album/1TZPtvCVLEB6QSVlR1rUbr) | 3:57 | 2023-07-14 |  |
-| [Kickstart My Heart](https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD) | 4:44 | 2023-07-14 |  |
+| [Kickstart My Heart](https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe) | 4:42 | 2023-11-03 |  |
+| [Kickstart My Heart](https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD) | 4:44 | 2023-07-14 | 2023-11-18 |
 | [Legado](https://open.spotify.com/track/4PizudKtJ6hxWBDi7jSlA5) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [Legado](https://open.spotify.com/album/4nsJgybGz51PodJXLpljyq) | 3:14 | 2023-07-14 |  |
 | [Mere Shadow](https://open.spotify.com/track/76VG6yEGc6asJWoyYoMakJ) | [Semblant](https://open.spotify.com/artist/6XbRGptXH3evQfHCfKCqiO) | [Mere Shadow](https://open.spotify.com/album/5unM9KhVkZwr7oMlRsLo2P) | 5:03 | 2023-07-14 |  |
 | [Metal Galera](https://open.spotify.com/track/62CyiBgXEdwDi4WbrM1dZg) | [Massacration](https://open.spotify.com/artist/7GhebLBMgszGbtbmjq4HHB) | [Metal Galera](https://open.spotify.com/album/0bVhSkHL20QPMqMK5F1oCP) | 4:30 | 2023-07-14 |  |

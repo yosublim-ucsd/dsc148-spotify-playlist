@@ -135,6 +135,42 @@
     },
     {
       "album": {
+        "name": "Chronicles of a Diamond",
+        "url": "https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209226,
+      "name": "Chronicles of a Diamond",
+      "url": "https://open.spotify.com/track/1BDZtDEV9ntyglr99cO5Jb"
+    },
+    {
+      "album": {
+        "name": "Can't Find The Brakes",
+        "url": "https://open.spotify.com/album/3FyROXteyMjOunh3L3gEly"
+      },
+      "artists": [
+        {
+          "name": "Dirty Honey",
+          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194757,
+      "name": "Coming Home (Ballad of the Shire)",
+      "url": "https://open.spotify.com/track/5InVe6JzeFjGaKOW9ggU7J"
+    },
+    {
+      "album": {
         "name": "Dancing in the Moonlight",
         "url": "https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA"
       },

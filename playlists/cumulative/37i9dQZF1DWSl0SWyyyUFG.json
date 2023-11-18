@@ -1245,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor de lo Nuestro",
+        "url": "https://open.spotify.com/album/71hwjNty3bVhTj8DwodqN4"
+      },
+      "artists": [
+        {
+          "name": "Banda San Miguel",
+          "url": "https://open.spotify.com/artist/3t9TbuyBScRR9dOG4Yo7CG"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155063,
+      "name": "El Domingo Se Casa",
+      "url": "https://open.spotify.com/track/1GAYDRFBxQDkpe4BT2M2kv"
+    },
+    {
+      "album": {
         "name": "La Gran Historia Vol. 1",
         "url": "https://open.spotify.com/album/3AjDSQHKqkrHMgv44Esfen"
       },
@@ -1274,7 +1292,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 158673,
       "name": "El Domingo Se Casa",
       "url": "https://open.spotify.com/track/6tZma2Sjq6saLNfZn6hVKr"

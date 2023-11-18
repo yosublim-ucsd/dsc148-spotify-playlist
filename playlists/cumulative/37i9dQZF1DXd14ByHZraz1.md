@@ -4,7 +4,7 @@
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Santti
 
-149 songs - 7 hr 41 min
+150 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Feeling Good](https://open.spotify.com/track/1lA8kHc8maFVVa8pDXw2BN) | [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Ruiz](https://open.spotify.com/artist/3O2qgIUDvVtm7iXuzV7BTN), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [Feeling Good](https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL) | 2:46 | 2022-12-02 |  |
 | [Focus \(Double MZK Remix\)](https://open.spotify.com/track/1EKXeIujIqra3DJhx3qqRT) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Focus \(Double MZK Remix\)](https://open.spotify.com/album/0qo4zOP29YgQAWvbkP18RW) | 2:21 | 2023-06-30 |  |
 | [Fractions](https://open.spotify.com/track/4JSUAxALzaXQHuhEVMvJ0v) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Fractions](https://open.spotify.com/album/3sTXDxpzc0If67LmjHUm0z) | 3:17 | 2022-12-02 | 2023-04-22 |
-| [fReAk o.O](https://open.spotify.com/track/0p0i2yxBoV1R7LH4RXsavZ) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [SPECT3R](https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t) | [fReAk o.O](https://open.spotify.com/album/0aDuBR6kAzlVSVRPaGMwiO) | 3:00 | 2021-12-24 |  |
+| [fReAk o.O](https://open.spotify.com/track/0p0i2yxBoV1R7LH4RXsavZ) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv), [SPECT3R](https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t) | [fReAk o.O](https://open.spotify.com/album/0aDuBR6kAzlVSVRPaGMwiO) | 3:00 | 2021-12-24 | 2023-11-18 |
 | [Free My Mind](https://open.spotify.com/track/7zcmIz44ipSUMprZKvEeRO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [Free My Mind](https://open.spotify.com/album/7F5b3CtINIB8fGrxZqPMjY) | 2:40 | 2021-12-24 | 2022-04-09 |
 | [Funkatron](https://open.spotify.com/track/5JohYODxZkqfPFC3UWSrMj) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Funkatron](https://open.spotify.com/album/2LnfOgfUOo91vCHLTvgv5M) | 3:09 | 2022-05-06 | 2023-01-28 |
 | [Get What You Want \- Vintage Culture Remix](https://open.spotify.com/track/0MikGbA8bt5Fo07NVW6HQ7) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Get What You Want \(Vintage Culture Remix\)](https://open.spotify.com/album/54DJoT0IkExQ6druq7hQ57) | 3:43 | 2022-12-16 | 2023-08-12 |
@@ -119,6 +119,7 @@
 | [QUE TÚ QUIERES](https://open.spotify.com/track/5ADDkBla6hmJsvvPxeV8Pg) | [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [QUE TÚ QUIERES](https://open.spotify.com/album/5QoP5tRJwXuFVmWOR1iGPH) | 2:12 | 2023-03-17 |  |
 | [Rare Vision](https://open.spotify.com/track/4XGTuVNDxJzYu0YMRr32fc) | [REDÜKT](https://open.spotify.com/artist/0Km0b0FjBqTqx2qkyrUHlH), [Talkz](https://open.spotify.com/artist/3tlA6hvvEzWvgLzIQX4WS5) | [Rare Vision](https://open.spotify.com/album/5Vkz6Cs7Afi7BytbP2BWb7) | 3:05 | 2022-05-20 | 2023-04-22 |
 | [Remote Control](https://open.spotify.com/track/6WxTq95ZNZ58MVTHGIKsfV) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [May 23rd](https://open.spotify.com/album/465uKcpgmFpMmcEAwIW8J1) | 3:28 | 2023-07-21 |  |
+| [Road To Nowhere](https://open.spotify.com/track/4MZPKuMk4zZnpRKvvhBgu1) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Road To Nowhere](https://open.spotify.com/album/5ac8bG69seB2u4qEeCwtkl) | 3:11 | 2023-11-17 |  |
 | [Run Into Trouble](https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Run Into Trouble](https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP) | 3:02 | 2022-04-01 | 2022-06-28 |
 | [Running](https://open.spotify.com/track/5K59VdBAhtTYIxBlne1WT2) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn), [Francesca Sardi](https://open.spotify.com/artist/1qI2ett9td7YVX6C1eiq1Z) | [Running](https://open.spotify.com/album/5JMbsiPcxRBVNztGimHvyw) | 2:39 | 2023-01-20 |  |
 | [Same Man](https://open.spotify.com/track/61JaHYd8nsdvB3srjgGZtM) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Same Man](https://open.spotify.com/album/2oHueeYRfx9HZ7lAp99S3s) | 2:32 | 2022-11-11 |  |

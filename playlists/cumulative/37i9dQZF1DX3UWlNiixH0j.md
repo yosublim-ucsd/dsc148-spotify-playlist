@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: odol
 
-992 songs - 2 day 13 hr 48 min
+994 songs - 2 day 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Brutal](https://open.spotify.com/track/5SJ20F1cbeFClbt4vpKTBg) | [sooogood!](https://open.spotify.com/artist/72C5vNpdDKj70D3NU1P5fB) | [Brutal](https://open.spotify.com/album/3y0XFI7FHZ2BndlGS1JKmi) | 2:38 | 2023-01-12 | 2023-01-25 |
 | [Bside](https://open.spotify.com/track/3t6xEF2uLTz86xQFl0Zbwv) | [生活は忘れて](https://open.spotify.com/artist/59qyNIy8mzA79EEZWMUHve) | [Bside](https://open.spotify.com/album/7Mv2WPzoGjjuqkoWkwDlqc) | 2:34 | 2023-07-11 | 2023-07-19 |
 | [Bug](https://open.spotify.com/track/3fVMkGyOBs4Yy0DvlbdOTH) | [ART\-SCHOOL](https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT) | [luminous](https://open.spotify.com/album/2Zjoq94O4pZZW1cpNxGl6V) | 3:40 | 2023-06-13 | 2023-06-21 |
+| [Bystanders](https://open.spotify.com/track/3KdhgPWqcU3pThQudClzWO) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Diffusion of Responsibility](https://open.spotify.com/album/7JLobvu32MBmKrDL2QXB6L) | 4:03 | 2023-11-16 |  |
 | [c r a z y](https://open.spotify.com/track/35lQAoWxWXQCLRZiC2Bpi7) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [c r a z y](https://open.spotify.com/album/559cpQp7ZCDP8RdiKEuyXR) | 3:13 | 2023-09-05 |  |
 | [Call me](https://open.spotify.com/track/1yU0p61KLPg36rMKbDT5TE) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [Call me](https://open.spotify.com/album/4Sa87grU9iP961pLuFc0qL) | 4:05 | 2023-04-11 | 2023-06-11 |
 | [Calming Influence](https://open.spotify.com/track/6oxJq06up4ZTTgRavK6Z4N) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [Pecori](https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t), [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Calming Influence](https://open.spotify.com/album/0nx6HgpMKXO9fM3KXFFgXZ) | 4:48 | 2023-01-12 | 2023-01-18 |
@@ -249,7 +250,7 @@
 | [Home away from home](https://open.spotify.com/track/078aRKG1uIz2W2Vf6Brncl) | [Lilubay](https://open.spotify.com/artist/0twG60foouqqMNlDpNniPj) | [Home away from home](https://open.spotify.com/album/1QPo9D2cCyLWtBEdAjzdmg) | 4:07 | 2023-02-28 | 2023-03-02 |
 | [Home away from home](https://open.spotify.com/track/0Gq2WKpmU7eKwK8dUcckv2) | [Lilubay](https://open.spotify.com/artist/0twG60foouqqMNlDpNniPj) | [Home away from home](https://open.spotify.com/album/3QjYyRaZJAGvFQksUdrWqW) | 4:07 | 2023-02-28 | 2023-03-29 |
 | [Honey and Mustard](https://open.spotify.com/track/56RSWyXUBbBhJ6uveNOzkV) | [The Whoops](https://open.spotify.com/artist/0wNomLWF4Yg4XN2hHlP3Cz) | [Honey and Mustard](https://open.spotify.com/album/4y7iJG3nWln6sBgcqwSO3s) | 1:56 | 2023-01-31 | 2023-02-22 |
-| [honomekashi](https://open.spotify.com/track/0OymTpnvzQNQ4EpHs7gZrg) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Steppin' Out](https://open.spotify.com/album/6x0QrOjaAgQYEx4fNEzztN) | 3:41 | 2023-09-08 |  |
+| [honomekashi](https://open.spotify.com/track/0OymTpnvzQNQ4EpHs7gZrg) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Steppin' Out](https://open.spotify.com/album/6x0QrOjaAgQYEx4fNEzztN) | 3:41 | 2023-09-08 | 2023-11-18 |
 | [honomekashi](https://open.spotify.com/track/1Wp60mE3AQ29bRzUZay9Wq) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7), [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [honomekashi](https://open.spotify.com/album/0LT45PJYPGmjqTvUZQHMSV) | 3:41 | 2023-08-15 | 2023-09-09 |
 | [Hot Gimmick](https://open.spotify.com/track/6I7PdCUX6AdQi3twS3U2YF) | [letniy](https://open.spotify.com/artist/7h8q9EMQmWuU6Ma2My4PPr) | [Hot Gimmick](https://open.spotify.com/album/1x1DfVPxo1CP5P2g4oNcmb) | 3:27 | 2023-03-16 | 2023-03-29 |
 | [Hotaru No Sen](https://open.spotify.com/track/6Oc6mETshqnFn2clxDi6Ya) | [daisansei](https://open.spotify.com/artist/4jidQFAYbs0bXvCrVo9luy) | [Hotaru No Sen](https://open.spotify.com/album/1EwG6rfg5cuSoKTxt5sKbk) | 3:31 | 2023-08-15 | 2023-08-23 |
@@ -435,7 +436,7 @@
 | [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 | 2023-09-12 |  |
 | [Pulse](https://open.spotify.com/track/3n9eP96QDez9hRfEvlP91z) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Magnet](https://open.spotify.com/album/2mZuf80aYdleohrQAcdoqJ) | 3:41 | 2023-03-28 | 2023-05-10 |
 | [Purple gray](https://open.spotify.com/track/6CXRxR8iaXSxIKdHTzRkHP) | [Mao Uchu](https://open.spotify.com/artist/1XZBuRxX5xORatBQJLsakP) | [Purple gray](https://open.spotify.com/album/0VGlPzdL9whcWEqlgxaF0d) | 3:35 | 2023-08-29 | 2023-09-20 |
-| [PYG](https://open.spotify.com/track/13IMFBAxT8hngUC79TTcXR) | [DOGADOGA](https://open.spotify.com/artist/5rGVSXTLvetVl0pjdCrDM6) | [PYG](https://open.spotify.com/album/1azSY0WroNiGGqLapyhbeK) | 4:00 | 2023-10-24 |  |
+| [PYG](https://open.spotify.com/track/13IMFBAxT8hngUC79TTcXR) | [DOGADOGA](https://open.spotify.com/artist/5rGVSXTLvetVl0pjdCrDM6) | [PYG](https://open.spotify.com/album/1azSY0WroNiGGqLapyhbeK) | 4:00 | 2023-10-24 | 2023-11-18 |
 | [Q](https://open.spotify.com/track/2gUZMWbJCCVsJFxPbQFFDN) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Q](https://open.spotify.com/album/5PDrKfXanutCbajW1uu5jO) | 4:24 | 2023-03-30 | 2023-09-06 |
 | [Queen In Red](https://open.spotify.com/track/1rbzbUE7C87j6KIYrzOLWb) | [paddy isle](https://open.spotify.com/artist/5fVkOuKZTtdhhxhiifs0Ib) | [Queen In Red](https://open.spotify.com/album/5OJztmLSTOpoWePR0cNxoS) | 3:38 | 2023-08-22 | 2023-08-30 |
 | [Rain Candy \- feat\. Misi Ke](https://open.spotify.com/track/4PNxVoZMVzv6zDfKvneo9i) | [Fake Creators](https://open.spotify.com/artist/61QSgy6VGii6CLMcAGJ685), [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [Rain Dreams \(feat\. Misi Ke\)](https://open.spotify.com/album/2tt31lYf9Uzg9Cys2XRDZk) | 2:27 | 2023-10-10 | 2023-10-28 |
@@ -723,6 +724,7 @@
 | [わからないよな](https://open.spotify.com/track/7Ity0z6dLFuP42PnkmkYgu) | [Hwyl](https://open.spotify.com/artist/6bYzlsbs269Xa3z6L5OfjC) | [わからないよな](https://open.spotify.com/album/36zXcsDPeCVntMrnxAyb06) | 3:03 | 2023-05-09 | 2023-05-24 |
 | [アイシテル人生 feat.初音ミク](https://open.spotify.com/track/17bKoMOT3qLG1WyfTzICyU) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [アイシテル人生 feat.初音ミク](https://open.spotify.com/album/5EPM4kgvrJ02xGxVEYZmiB) | 3:41 | 2023-10-17 | 2023-10-19 |
 | [ウィンディー](https://open.spotify.com/track/0QI2f7Fb9EoWkQc0C2Qg0k) | [千葉剛久](https://open.spotify.com/artist/6cVmanDEHDZdRNZV0NzefC) | [ウィンディー](https://open.spotify.com/album/3V7BCCulLTeX0MqQHJdV4i) | 3:42 | 2023-08-22 | 2023-08-24 |
+| [オープンエンド](https://open.spotify.com/track/69wC7CS0O12zmn0GYP31aR) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [オープンエンド](https://open.spotify.com/album/08GxJarYWyPK3qic88we7u) | 5:06 | 2023-11-16 |  |
 | [カウントダウン・ラグ](https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [インナーダイアログ](https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh) | 5:25 | 2023-04-18 | 2023-04-20 |
 | [カープファンの子](https://open.spotify.com/track/0fljI44hj6m737RIfY8kmK) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [しばたさとこ島](https://open.spotify.com/album/2rgn6LRtYPMOtzbsEVp6KS) | 2:22 | 2023-05-29 | 2023-06-02 |
 | [キャロライン](https://open.spotify.com/track/2QVLcKnAZOa4kcvflcN0G6) | [生活の設計](https://open.spotify.com/artist/6ZQ0j6vz0P9rQOQjP8BXlR) | [キャロライン](https://open.spotify.com/album/4uUOmlaeXD1tLtpOOEgg8n) | 3:12 | 2023-10-24 | 2023-10-26 |

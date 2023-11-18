@@ -4,7 +4,7 @@
 
 > 'Tis the season to enjoy these classic Christmas songs for the whole family.
 
-64 songs - 3 hr 13 min
+65 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,8 +45,9 @@
 | [Mele Kalikimaka \(Merry Christmas\)](https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 2:55 | 2022-11-23 |  |
 | [Merry Christmas \(I Don't Want to Fight Tonight\)](https://open.spotify.com/track/7EGQaR9y8XyKeDW7jiDndI) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Brain Drain](https://open.spotify.com/album/5UpjwoQrnySbzFDUbtS74d) | 2:03 | 2022-11-23 |  |
 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/4v9WbaxW8HdjqfUiWYWsII) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Home For Christmas](https://open.spotify.com/album/6uIB97CqMcssTss9WrtX8c) | 4:15 | 2022-11-23 |  |
+| [Merry Xmas Everybody](https://open.spotify.com/track/0z5jr9YE1siursT3dJUwDV) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Merry Xmas Everybody](https://open.spotify.com/album/7cXMFYNCEh5rFiwK7kTglA) | 3:43 | 2023-10-20 |  |
 | [Merry Xmas Everybody](https://open.spotify.com/track/2unvC2MlubBY3GxXqrRW00) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Crackers](https://open.spotify.com/album/5Zr9iBEJfPSNEEjaeQilDt) | 3:43 | 2022-11-23 |  |
-| [Merry Xmas Everybody](https://open.spotify.com/track/4dBQWyoZmmgvFBlALGlqZi) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Merry Xmas Everybody](https://open.spotify.com/album/05p2SZoivHg20xFgM0ibTy) | 3:43 | 2022-11-23 |  |
+| [Merry Xmas Everybody](https://open.spotify.com/track/4dBQWyoZmmgvFBlALGlqZi) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Merry Xmas Everybody](https://open.spotify.com/album/05p2SZoivHg20xFgM0ibTy) | 3:43 | 2022-11-23 | 2023-11-18 |
 | [O Tannenbaum](https://open.spotify.com/track/4YhY2qHdBmSX33uj8ms0oq) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/2XnNY3GEkbWHor5kyvXLu4) | 5:09 | 2022-11-23 |  |
 | [One More Sleep ’til Christmas](https://open.spotify.com/track/4ZEUe2d1foQdbsNdgQXZlS) | [Kermit](https://open.spotify.com/artist/2lKVLoBlDFcONGT1XhQsIw) | [The Muppet Christmas Carol \(Special Anniversary Edition\)](https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0) | 2:50 | 2022-11-23 |  |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2022-11-23 | 2023-09-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,179 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,182 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [Earth Steps \- Stones Taro Remix](https://open.spotify.com/track/64Fw1IBthfBnZdp3cMUNd6) | [Pee J Anderson](https://open.spotify.com/artist/338O4TkgrWM4mq1hkYEItx), [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Earth Steps Remixes](https://open.spotify.com/album/1Hgj4xit7jwAruS3eNkOO0) | 5:22 |
 | 60 | [Magma](https://open.spotify.com/track/7g6Mtr3OYNWDuJuZAZjfuJ) | [TREKKIE TRAX CREW](https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3) | [Magma](https://open.spotify.com/album/0dije5QxbqtbhIBBV4NEZX) | 3:00 |
 
-Snapshot ID: `MCwxMWRhNzkxYzdiNzdmYzQ4Y2M3ZTlmZmFmNTJlYTEyNzBlYzFlM2I4`
+Snapshot ID: `MCxjNzRlZmY5YjZmZTA0YzY2ZWZiYzkyNjhkNzNmZjU3MjRlM2ZhYjli`

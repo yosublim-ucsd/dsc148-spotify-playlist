@@ -4,7 +4,7 @@
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-172 songs - 10 hr 17 min
+174 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,8 +60,9 @@
 | [Fight Song](https://open.spotify.com/track/6SnokqeMmGKiOzMlhag3Mb) | [Sister Sin](https://open.spotify.com/artist/3MdnMzNMNENgdrx91CvGR8) | [Now and Forever](https://open.spotify.com/album/3lOX8tvHmjj2EmnqBUyFy1) | 4:01 | 2022-01-07 | 2022-07-29 |
 | [Five Over Four](https://open.spotify.com/track/0c946BQlEOYlcVq8n6pAKt) | [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8), [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb) | [Cocktail Hour](https://open.spotify.com/album/69Ikde32ScwcMTnlNVKCr4) | 4:47 | 2022-01-06 |  |
 | [Girls, Girls, Girls](https://open.spotify.com/track/3xdwo1GK8KaXiT36sTLira) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Greatest Hits](https://open.spotify.com/album/4y0me4JaTG2bjBy8Scz8ek) | 4:30 | 2022-01-06 | 2022-11-13 |
-| [Girls, Girls, Girls](https://open.spotify.com/track/549Go7a66CX6k523uK9kUv) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(Deluxe Version\)](https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k) | 4:30 | 2022-01-06 |  |
+| [Girls, Girls, Girls](https://open.spotify.com/track/549Go7a66CX6k523uK9kUv) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(Deluxe Version\)](https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k) | 4:30 | 2022-01-06 | 2023-11-18 |
 | [Girls, Girls, Girls](https://open.spotify.com/track/5xLyTbCFONUGUuG0LtUxjn) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/0Tnve4bDxyiBCRaj03qO8z) | 4:30 | 2022-01-06 | 2022-07-29 |
+| [Girls, Girls, Girls](https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8) | 4:30 | 2022-01-06 |  |
 | [Gonna Make You Sweat \(Everybody Dance Now\) \(feat\. Freedom Williams\)](https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF) | [C & C Music Factory](https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF), [Freedom Williams](https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR) | [Super Hits](https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7) | 4:04 | 2022-09-09 |  |
 | [Gotta Get Into Something](https://open.spotify.com/track/79JWiNwvgp6Z8I5TZln8Ld) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 3:04 | 2022-01-06 |  |
 | [Grandes Études de Paganini, S\. 141: No\. 3 in G\-Sharp Minor "La Campanella"](https://open.spotify.com/track/5XBWQDLsTWj9uoVeKG2uuo) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Transcendental \- Daniil Trifonov Plays Franz Liszt \(Etudes S\. 139, S\. 141, S\. 144, S\. 145\)](https://open.spotify.com/album/1U7BErPHxIgtzsq05Wfj5E) | 4:51 | 2022-01-06 |  |
@@ -92,9 +93,10 @@
 | [Johnny's Story](https://open.spotify.com/track/0WoZrCjeAfrJi3SyZgQnG6) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 1 \(Soundtrack from the Original Series\)](https://open.spotify.com/album/0TkfHTK2sSV4CxrQWqBrNF) | 2:28 | 2022-01-07 |  |
 | [Judas](https://open.spotify.com/track/2QQDH8gt4nyxFu2XX6bhG8) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Judas](https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ) | 4:10 | 2022-09-09 |  |
 | [Just Reach For The Sky](https://open.spotify.com/track/060rDShhKz9WtjcikdeMmd) | [Julian Emery](https://open.spotify.com/artist/4nbCme6RCJulaab14aFmqP), [Cenzo Townshend](https://open.spotify.com/artist/4XQ6r7p6rFvDrE9mPmoQMm), [Jack Joy](https://open.spotify.com/artist/3RZZPXWZw7RAnPIonwMGtJ) | [Believer](https://open.spotify.com/album/54uX7vRtpbNTOwH3OsLU9a) | 3:35 | 2022-01-06 |  |
+| [Kickstart My Heart](https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe) | 4:42 | 2022-01-07 |  |
 | [Kickstart My Heart](https://open.spotify.com/track/7GonnnalI2s19OCQO1J7Tf) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood](https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ) | 4:42 | 2022-01-07 | 2022-07-29 |
 | [Kickstart My Heart](https://open.spotify.com/track/5ikj2Db37JYXL6RW5cTFWP) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Greatest Hits](https://open.spotify.com/album/4y0me4JaTG2bjBy8Scz8ek) | 4:44 | 2022-01-07 | 2022-11-13 |
-| [Kickstart My Heart](https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD) | 4:44 | 2022-01-07 |  |
+| [Kickstart My Heart](https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD) | 4:44 | 2022-01-07 | 2023-11-18 |
 | [Kiss It](https://open.spotify.com/track/6fUI7AyEG8jXtpJqv0cvsJ) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [ROCKISDEAD](https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir) | 2:33 | 2022-01-07 |  |
 | [LA / Alone](https://open.spotify.com/track/396DMhY0I2y5wSIIpirX4m) | [SRRY](https://open.spotify.com/artist/54AggBUiCq1Yo04s4EqXv2) | [LA / Alone](https://open.spotify.com/album/0TiXa5oN4JwsV9rUbSRo0U) | 5:50 | 2022-01-06 |  |
 | [Late Night Jazz](https://open.spotify.com/track/12KH9ouW87OwGbnB16m7gx) | [Jeff Meegan](https://open.spotify.com/artist/2XS2MrkksPqxbs0jputTr8), [David Tobin](https://open.spotify.com/artist/4URqQyKF1NuIVmYiJtQIHb) | [Cocktail Hour](https://open.spotify.com/album/69Ikde32ScwcMTnlNVKCr4) | 5:18 | 2022-01-06 |  |

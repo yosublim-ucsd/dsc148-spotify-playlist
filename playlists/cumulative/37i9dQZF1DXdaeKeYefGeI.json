@@ -280,7 +280,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 192425,
       "name": "Ballade Van De Noordoosterwind",
       "url": "https://open.spotify.com/track/5TSfw0nAkJ6kJOD1RYhX9N"
@@ -658,6 +658,24 @@
       "duration_ms": 292974,
       "name": "Dorp Van Hop En Van Mout",
       "url": "https://open.spotify.com/track/0LIjzIgfv2K3zanAiJgNKc"
+    },
+    {
+      "album": {
+        "name": "Elke Dag",
+        "url": "https://open.spotify.com/album/4HdHIIuRPiIvRKCKtfAty5"
+      },
+      "artists": [
+        {
+          "name": "Ten Sharp",
+          "url": "https://open.spotify.com/artist/0ap24Mjt6qlze8v667KlaF"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179990,
+      "name": "Elke Dag",
+      "url": "https://open.spotify.com/track/11xhfbAwIjBtionnAFdbNf"
     },
     {
       "album": {

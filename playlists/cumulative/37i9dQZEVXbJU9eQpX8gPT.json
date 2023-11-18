@@ -2611,6 +2611,28 @@
     },
     {
       "album": {
+        "name": "Vol. 4 - Flying Above the Sun",
+        "url": "https://open.spotify.com/album/2ECjH9xkBk4KD3fawcpFEe"
+      },
+      "artists": [
+        {
+          "name": "Yehezkel Raz",
+          "url": "https://open.spotify.com/artist/31klRMTQJ94NrxwIZJwJBY"
+        },
+        {
+          "name": "Sivan Talmor",
+          "url": "https://open.spotify.com/artist/4OuNFhB4UqOVluGG75fiWd"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189120,
+      "name": "Ballad to a Mexican Desert",
+      "url": "https://open.spotify.com/track/7LRb64oDLYYDPEoeuLAIVJ"
+    },
+    {
+      "album": {
         "name": "Crystal",
         "url": "https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO"
       },
@@ -18124,7 +18146,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 199215,
       "name": "R.I.P",
       "url": "https://open.spotify.com/track/4dUiCEFw6hzX1EIHeN0x8J"

@@ -388,6 +388,24 @@
     {
       "album": {
         "name": "The Afterglow / Aquamarine",
+        "url": "https://open.spotify.com/album/1mBqUWC3jWAzjOXcId04LN"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "date_added": "2022-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232755,
+      "name": "Aquamarine (Acoustic)",
+      "url": "https://open.spotify.com/track/0HU0bozP9c79zhdEvJw8ls"
+    },
+    {
+      "album": {
+        "name": "The Afterglow / Aquamarine",
         "url": "https://open.spotify.com/album/7v8VHfKqywRoN3ZsHkDimo"
       },
       "artists": [
@@ -3238,7 +3256,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 240428,
       "name": "Pavement (Acoustic)",
       "url": "https://open.spotify.com/track/6x6aHBeRb6Yy7gU29ctYMy"

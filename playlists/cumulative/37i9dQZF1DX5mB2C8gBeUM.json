@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Country gone wild! You never know what you're gonna get. Cover: Austin Snell",
+  "description": "Country gone wild! You never know what you're gonna get. Cover: Carter Faith",
   "name": "Wild Country",
   "tracks": [
     {
@@ -2123,6 +2123,28 @@
     },
     {
       "album": {
+        "name": "Dive Bar",
+        "url": "https://open.spotify.com/album/4vzsVvIlOfhkH3Ka6QkfXi"
+      },
+      "artists": [
+        {
+          "name": "Willie Jones",
+          "url": "https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM"
+        },
+        {
+          "name": "Ben Burgess",
+          "url": "https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195328,
+      "name": "Dive Bar",
+      "url": "https://open.spotify.com/track/7Es3jo5w8VMQai8U9U0pO2"
+    },
+    {
+      "album": {
         "name": "SUBJECT TO CHANGE",
         "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
       },
@@ -3660,7 +3682,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 145370,
       "name": "Hometown Hurricane",
       "url": "https://open.spotify.com/track/5gm7WhYs8V8Krt1jnvHz90"
@@ -4766,6 +4788,24 @@
       "duration_ms": 199733,
       "name": "Mad I Need You",
       "url": "https://open.spotify.com/track/0om2jMPfaW2pBJs5i7axVv"
+    },
+    {
+      "album": {
+        "name": "Man",
+        "url": "https://open.spotify.com/album/5Paf4g7Jw9SXsPaTHCqWwp"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166769,
+      "name": "Man",
+      "url": "https://open.spotify.com/track/55f35jEFEDIWCY9YDwf9r0"
     },
     {
       "album": {
@@ -6993,6 +7033,24 @@
     },
     {
       "album": {
+        "name": "Tom Petty",
+        "url": "https://open.spotify.com/album/1fUrkBA4vcg2KCigTxXDf9"
+      },
+      "artists": [
+        {
+          "name": "Atlus",
+          "url": "https://open.spotify.com/artist/7pEVNuJRlpDXlsrcq32yHp"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140799,
+      "name": "Tom Petty",
+      "url": "https://open.spotify.com/track/6zpv9puGutreithPGJPXfz"
+    },
+    {
+      "album": {
         "name": "Tomorrow Night",
         "url": "https://open.spotify.com/album/5kX5ndVvGLENyzn5zKFJCr"
       },
@@ -7236,6 +7294,24 @@
       "duration_ms": 167006,
       "name": "W+W",
       "url": "https://open.spotify.com/track/57Feadv9wz81gOtQFVsdH3"
+    },
+    {
+      "album": {
+        "name": "Mama Tried",
+        "url": "https://open.spotify.com/album/1vnNgfzYhevdcQyGDkcmqb"
+      },
+      "artists": [
+        {
+          "name": "Jay Webb",
+          "url": "https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139756,
+      "name": "Waste of Time",
+      "url": "https://open.spotify.com/track/5vsgUdQ1FdeAf0id2TAb1U"
     },
     {
       "album": {

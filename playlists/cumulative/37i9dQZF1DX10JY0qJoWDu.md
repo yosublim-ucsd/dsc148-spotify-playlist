@@ -4,7 +4,7 @@
 
 > Holiday cheer from your Disney favorites!
 
-124 songs - 5 hr 41 min
+125 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Santa Claus Is Comin' to Town](https://open.spotify.com/track/7mE5nyoRdlZq7hKW2Uzxkl) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Stolen Jars](https://open.spotify.com/artist/5EAJ2dKLdisq7BOJHQ1B7r) | [Noelle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7GZR54Ir7Aq5T34aRhJQfw) | 2:52 | 2022-12-16 |  |
 | [Santa Claus is Comin' to Town](https://open.spotify.com/track/2AWqIjJYNlOHtU71tTaPAT) | [Love Händel](https://open.spotify.com/artist/1dDpevEQhtnOqfQce5TrEl) | [Phineas and Ferb Holiday Favorites](https://open.spotify.com/album/4LyKQilbZTx4SL1gXG3u8x) | 1:43 | 2021-12-03 | 2022-12-17 |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/5Uh79do7x63JsFZT75KGW1) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE), [Donald Duck](https://open.spotify.com/artist/7KksEpdok2fNHMXn9O24lU), [Goofy](https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64) | [Disney Jingle Bell Fun](https://open.spotify.com/album/6Bd6pZU3QoytmcZxmMZbt8) | 2:43 | 2021-12-03 |  |
+| [Santa You're Alright](https://open.spotify.com/track/4ulvNL6uOQPAT4HwYpKDby) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [Dashing Through the Snow \(Original Soundtrack\)](https://open.spotify.com/album/21yMUgO7F4MrEsEbDb7avs) | 2:49 | 2023-11-17 |  |
 | [Scrooge](https://open.spotify.com/track/7xdU07TVdbK1XJOiFkcH1X) | [The Muppet Cast](https://open.spotify.com/artist/0xbgjlBWqSP2hP54ZgjLEW) | [The Muppets Christmas Carol](https://open.spotify.com/album/0bIXffBZFKL5bj7A2Whpm4) | 2:27 | 2021-12-03 | 2022-07-29 |
 | [Scrooge](https://open.spotify.com/track/5qzKbcG0u62q0e8FYyny4s) | [The Muppet Cast](https://open.spotify.com/artist/0xbgjlBWqSP2hP54ZgjLEW) | [The Muppet Christmas Carol \(Special Anniversary Edition\)](https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0) | 2:27 | 2021-12-03 |  |
 | [Shake Santa Shake \(from "Shake It Up"\)](https://open.spotify.com/track/5IfCZf4C8zcaww1npKkCn7) | [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Disney Channel Holiday Playlist](https://open.spotify.com/album/3u4JngBheQE1ZUyP6my3zE) | 2:56 | 2022-12-08 |  |

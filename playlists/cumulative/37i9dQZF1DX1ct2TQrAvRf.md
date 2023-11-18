@@ -4,7 +4,7 @@
 
 > India's Rap Scene\. Cover\- Raftaar
 
-114 songs - 6 hr 24 min
+115 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [The Last Ride](https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [The Last Ride](https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv) | 4:22 | 2023-03-27 |  |
 | [TRAP PRAA](https://open.spotify.com/track/2IodN2cQX9LASXaRu6Ovqd) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 3:11 | 2023-04-19 |  |
 | [Tu Hai Kaun](https://open.spotify.com/track/4gJwX0QLUXwjwmQG77ihLS) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [Tu Hai Kaun](https://open.spotify.com/album/4YrdmA8BUodffcJGjJnks9) | 3:24 | 2023-03-27 | 2023-04-20 |
+| [Urvashi](https://open.spotify.com/track/1EJLrOy25fZ3l55p4rgPdS) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Mc Stan](https://open.spotify.com/artist/4LttpZO8598ASmZBB1yABk), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Urvashi](https://open.spotify.com/album/19i4HGI1PeV9N0PI25YzjH) | 3:36 | 2023-11-17 |  |
 | [We Are The Ones \(feat\. Gucci Mane\)](https://open.spotify.com/track/0VBdCcaY6ERYKF7fZXQ8YX) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [NEW LIFE](https://open.spotify.com/album/7zvmmYySo3FPuwEiKv7xSF) | 2:47 | 2023-10-18 |  |
 | [WOH](https://open.spotify.com/track/1QUU43rTDMnGl4xyaIfsYN) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [WOH](https://open.spotify.com/album/0hYH2JNegSbU72fmNnQ3LW) | 5:28 | 2023-03-27 |  |
 | [Yadav Brand 2](https://open.spotify.com/track/4JvziZ2kQsbzfvRQtpYfmJ) | [Sunny Yaduvanshi](https://open.spotify.com/artist/07XZWWsqwn2QshmfoYzKIU), [AK Rok](https://open.spotify.com/artist/3npIyKDl6aWfQPCIEU8RjY), [Nitesh Ujoli](https://open.spotify.com/artist/2k4fHTIWakuc1WSIV0owMZ) | [Yadav Brand 2](https://open.spotify.com/album/3pRiXGIvpgNrMQmK6AgJ3c) | 2:54 | 2023-10-03 |  |

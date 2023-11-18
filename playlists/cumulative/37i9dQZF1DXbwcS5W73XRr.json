@@ -1375,6 +1375,24 @@
     },
     {
       "album": {
+        "name": "This Is Acid",
+        "url": "https://open.spotify.com/album/7jrZytNwpxHeFduqjDFPIe"
+      },
+      "artists": [
+        {
+          "name": "ACID MF",
+          "url": "https://open.spotify.com/artist/3vdcl9hcqIowFbRGxQqAbt"
+        }
+      ],
+      "date_added": "2018-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296704,
+      "name": "This Is Acid",
+      "url": "https://open.spotify.com/track/0Pm1MZryiAy9VZe90imD2g"
+    },
+    {
+      "album": {
         "name": "The Ha\u00e7ienda - Acid House Classics",
         "url": "https://open.spotify.com/album/7lwBCmb2LjThWjPAasAyoW"
       },
@@ -1386,7 +1404,7 @@
       ],
       "date_added": "2018-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 277733,
       "name": "This is Acid",
       "url": "https://open.spotify.com/track/23HpSrqrULF8mF1WKdZRyl"

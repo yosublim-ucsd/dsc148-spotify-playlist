@@ -4,7 +4,7 @@
 
 > Se acabó el amor\. La música continúa.
 
-211 songs - 12 hr 16 min
+213 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Estallo al Mundo](https://open.spotify.com/track/0y7gCUeZFDSjleaqyZCXhK) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Estallo al Mundo](https://open.spotify.com/album/4Ctoc7zT5X8dGDk3G7GAq7) | 3:31 | 2021-12-06 | 2022-05-25 |
 | [Falta Amor](https://open.spotify.com/track/16YNU7FBgfPAXJzVc4l1vc) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Falta Amor](https://open.spotify.com/album/4LDxlv1xCO3N1NXsrvKOC8) | 3:25 | 2021-12-06 | 2023-03-25 |
 | [Falta Amor](https://open.spotify.com/track/2ukaTb7sSeWHdr22n1xTBs) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Falta Amor](https://open.spotify.com/album/3gkp7anxdJUMULQZaIND1m) | 3:23 | 2021-12-06 |  |
+| [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 | 2023-11-17 |  |
 | [Felicidades](https://open.spotify.com/track/1yRdHbizewKQPd7r2recan) | [Sandoval](https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW) | [Felicidades](https://open.spotify.com/album/4wRAmyKpHK0U2uyjlF1rtk) | 4:21 | 2021-12-06 | 2022-07-26 |
 | [Fue Lo Mejor](https://open.spotify.com/track/5EMc0D7ColnFc9t21jF6PD) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [CU4TRO](https://open.spotify.com/album/7tYKnQqP7OCQC8iV5hyCq1) | 3:07 | 2023-09-15 |  |
 | [Fue Lo Mejor](https://open.spotify.com/track/662Z8N8YhRLVVCIKnxLNBg) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [Fue Lo Mejor](https://open.spotify.com/album/7LMo6IdCd1P9BTGOYvbgZF) | 3:07 | 2021-12-06 | 2023-04-07 |
@@ -82,7 +83,7 @@
 | [Juré](https://open.spotify.com/track/6tYwCxwNeRXBPHF4Z2DaWu) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Arte](https://open.spotify.com/album/37YOrd3yOJva0INlJrNyxf) | 3:46 | 2021-12-06 | 2022-07-20 |
 | [La Banqueta](https://open.spotify.com/track/3Rdor1XlobotIXKJOBmbO3) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [La Banqueta](https://open.spotify.com/album/4TgQYpUt6HtbP5D2RtXbiG) | 3:08 | 2021-12-06 | 2022-07-29 |
 | [La Culpa](https://open.spotify.com/track/72X8O4JlTkTXRM2EpcQwsF) | [Joel DELEÓN](https://open.spotify.com/artist/3okQioJzZzTM7LwENIdd18) | [La Culpa](https://open.spotify.com/album/03KuiVdDtiXtx24I16d03Y) | 3:22 | 2021-12-06 | 2022-11-13 |
-| [La Despedida](https://open.spotify.com/track/1s8TR4ZPyrRf0E7zbNNjvZ) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [La Despedida](https://open.spotify.com/album/2zFA8GmjeGDq1fxj1Na67g) | 3:09 | 2021-12-06 |  |
+| [La Despedida](https://open.spotify.com/track/1s8TR4ZPyrRf0E7zbNNjvZ) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [La Despedida](https://open.spotify.com/album/2zFA8GmjeGDq1fxj1Na67g) | 3:09 | 2021-12-06 | 2023-11-18 |
 | [La Parte Buena](https://open.spotify.com/track/7qXpn9MV3tBoEWI7kr13rQ) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk), [Fase](https://open.spotify.com/artist/5ee1RFcMCpiLXVSVKYxDbW) | [La Parte Buena](https://open.spotify.com/album/4I2udXkfy3th0HSo0wR7xc) | 3:43 | 2021-12-06 | 2022-07-24 |
 | [La Razón](https://open.spotify.com/track/2Sa9O1qb99kZJnodEOqmOt) | [Agudo](https://open.spotify.com/artist/7AV6djETiJOxkb38gsU3Y6) | [La Razón](https://open.spotify.com/album/4LjxDEPX4LHzMwpJnWBphr) | 3:46 | 2023-04-04 | 2023-08-30 |
 | [La Siguiente](https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [La Siguiente](https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH) | 3:22 | 2022-12-30 | 2023-01-05 |
@@ -116,7 +117,7 @@
 | [Moscas en la Casa](https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:31 | 2021-12-06 |  |
 | [Muero](https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Muero](https://open.spotify.com/album/4qsSC79CFtpK133Ecl1cVz) | 3:37 | 2022-05-19 |  |
 | [Nace Un Borracho](https://open.spotify.com/track/6SnO4yCCYtz2rffMpEAlro) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY! \(Deluxe\)](https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi) | 2:56 | 2021-12-06 |  |
-| [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 | 2021-12-06 |  |
+| [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 | 2021-12-06 | 2023-11-18 |
 | [Nada Es Igual](https://open.spotify.com/track/4CKntyb4V1au0i1ieEfapR) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Nada Es Igual](https://open.spotify.com/album/4TouSDU0z4DXKuuheeCfZw) | 4:11 | 2021-12-06 | 2022-07-28 |
 | [Nada Es Igual \- Remix](https://open.spotify.com/track/3NZ9V69n2zfSowMUupBR1B) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [Nada Es Igual \(Remix\)](https://open.spotify.com/album/0vLVaDeDnlCx7n0qPYWOZc) | 3:36 | 2021-12-06 | 2022-05-07 |
 | [Nadie ha dicho](https://open.spotify.com/track/7hSLEk0h67Q5NO1TfLHgLf) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Nadie ha dicho](https://open.spotify.com/album/2hp0naP4otrsfhw1xlXdvy) | 3:27 | 2021-12-06 | 2022-07-27 |
@@ -132,6 +133,7 @@
 | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88) | 3:06 | 2023-03-03 |  |
 | [No te pido que vuelvas \(feat\. Marta Soto\) \- Acústica](https://open.spotify.com/track/7nQl07LBwXuCCn1mIMieG0) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC), [Marta Soto](https://open.spotify.com/artist/6rRY793jdSneQ9aSy0RtMN) | [No te pido que vuelvas \(feat\. Marta Soto\) \[Acústica\]](https://open.spotify.com/album/24GimCwiewudrQCDgo0ICT) | 4:56 | 2021-12-06 | 2022-07-29 |
 | [No Vuelvas](https://open.spotify.com/track/4KJJ3ZTK5SpAtQfBLUKgaS) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [No Vuelvas](https://open.spotify.com/album/0MaFgahYDdAgq85xXmA6Sz) | 3:45 | 2021-12-06 | 2022-07-26 |
+| [Noviembre Sin Ti](https://open.spotify.com/track/63EzbC00mdZurdZzRcO4w3) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Reik](https://open.spotify.com/album/16QRglfvF1gpz6GLsBC1gU) | 3:23 | 2023-11-17 |  |
 | [Nunca Voy a Olvidarte \- Primera Fila \- Live Version](https://open.spotify.com/track/4HAPPGfvox8QdKdU1lD3wf) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Cristian Castro En Primera Fila \- Día 1](https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0) | 3:57 | 2021-12-06 |  |
 | [Otra Mañana Más](https://open.spotify.com/track/5j9td3zUP5z2OUauQKh40y) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Otra Mañana Más](https://open.spotify.com/album/65dPQq9OQzPjpNTXGwg5la) | 3:00 | 2021-12-06 | 2022-07-26 |
 | [Oye](https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Oye](https://open.spotify.com/album/1xwUFsb21qbGugy09vdd7O) | 2:53 | 2021-12-06 | 2023-01-04 |

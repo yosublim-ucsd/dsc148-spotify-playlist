@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-530 songs - 1 day 5 hr 39 min
+533 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,11 +237,13 @@
 | [In And Out Of Love](https://open.spotify.com/track/4b49GXwSHKvb4FxJhzGixD) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [In And Out Of Love](https://open.spotify.com/album/23ebeKbLQf6ALiIByBcALY) | 2:57 | 2020-02-11 | 2021-04-07 |
 | [in the afternoon](https://open.spotify.com/track/3xUyESmRw7uMcGgd5DJpfU) | [Josef Salvat](https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz) | [in the afternoon](https://open.spotify.com/album/3s3s7aZ6uOWx5FEC0F5ltV) | 3:18 | 2020-01-17 | 2020-02-11 |
 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 | 2022-04-28 | 2023-07-08 |
+| [Intrusive Thoughts](https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Intrusive Thoughts](https://open.spotify.com/album/5TSBq8AfchHD3tkgtQbuBk) | 3:21 | 2023-11-14 |  |
 | [Invisible](https://open.spotify.com/track/5CC5Dia3BhRVkP1dzJJs7p) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [Invisible](https://open.spotify.com/album/4TCPGeP8KROlyQn4TuZeH3) | 3:40 | 2020-02-03 | 2021-06-28 |
 | [Is It Worth Being Sad](https://open.spotify.com/track/2dFBrhBttZWkcf5XT7fwUa) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Is It Worth Being Sad](https://open.spotify.com/album/2pfUy25RS4yTTWpA4bfCge) | 4:01 | 2022-07-08 | 2022-07-29 |
 | [Is It Worth Being Sad](https://open.spotify.com/track/2sdqoPS2AWTS8sb3kdeBmF) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Is It Worth Being Sad](https://open.spotify.com/album/7L8TecVe9iFySR49sUVI4X) | 4:01 | 2022-07-14 | 2022-09-20 |
 | [Is It Worth Being Sad](https://open.spotify.com/track/3E1HXY3rnghNU4H9JxbK1L) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Matter of Time](https://open.spotify.com/album/2z4hLufnidbzPL3fJA9UnB) | 4:01 | 2022-09-08 |  |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2022-07-08 | 2023-02-24 |
+| [It's All Over You](https://open.spotify.com/track/7hw3AFHSYdOFtVdplMWaIl) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Chasing Nirvana](https://open.spotify.com/album/6508WBT3t0ON8b5KBQL37m) | 2:56 | 2023-11-14 |  |
 | [It's Ok If You Forget Me](https://open.spotify.com/track/312zSwwbPU7C3sTmro4Wx9) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [It's Ok If You Forget Me](https://open.spotify.com/album/2C91kmyDRWZdm0wR8dK1Wn) | 3:24 | 2020-09-25 | 2022-01-14 |
 | [It's Raining, It's Pouring](https://open.spotify.com/track/0dhw2WjJZBsbBDv0Ipdgbw) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [It's Raining, It's Pouring](https://open.spotify.com/album/7LJY01gIYwchl8f83rFv7g) | 3:03 | 2021-04-07 | 2021-07-23 |
 | [I’m So Happy](https://open.spotify.com/track/4p5t7TGeuTe9uUmhfJ84up) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [I’m So Happy](https://open.spotify.com/album/5yjBXo3bRgfjIpc01PKEJy) | 3:07 | 2021-06-28 | 2022-09-09 |
@@ -384,6 +386,7 @@
 | [Pretty Dumb](https://open.spotify.com/track/0mMrLI4ev6NZTGD6L39v39) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Pretty Dumb](https://open.spotify.com/album/04i6qyA1iv0Y80dR6DJmY9) | 3:03 | 2020-03-14 | 2020-05-08 |
 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 | 2019-12-09 | 2021-02-12 |
 | [Quite Miss Home](https://open.spotify.com/track/2deFH5zveEBEUuURpqTN3C) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:03 | 2019-10-25 | 2021-01-23 |
+| [Rachel's Song \- Spotify Singles](https://open.spotify.com/track/0khFZaCEnXkBmBRA8M4g0d) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Rachel's Song \- Spotify Singles](https://open.spotify.com/album/5IgVZoSuJ9WShRKoqYIKgw) | 3:21 | 2023-11-14 |  |
 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 | 2019-07-29\* | 2019-08-02 |
 | [Rainbow](https://open.spotify.com/track/4RM0b5VRiofK20HyHwhtrG) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Rainbow](https://open.spotify.com/album/2Mgs1pBwuCFxO3AYALHCd4) | 3:51 | 2019-07-29\* | 2019-08-02 |
 | [Reason To Stay](https://open.spotify.com/track/3DS707nbYWCSB9h2gm8j3E) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [I'm Sorry, I'm Not Sorry](https://open.spotify.com/album/4RSKXvLmT3lHlPlJWsewyk) | 3:08 | 2019-12-13 | 2020-07-18 |
@@ -455,7 +458,7 @@
 | [Stuck In A Bubble \- Stripped Back](https://open.spotify.com/track/4ujpSHFEeR9rkgPCilUENQ) | [George Alice](https://open.spotify.com/artist/2qmz9qPEFq5phZ8bscA2oL) | [Stuck In A Bubble \(Stripped Back\)](https://open.spotify.com/album/4HsyJlKlIbroBz9E0NN9xj) | 3:14 | 2020-10-09 | 2021-07-23 |
 | [Suitcase](https://open.spotify.com/track/5HlFO9E6TgsCpJWVjguZDl) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Suitcase](https://open.spotify.com/album/6h3PNka0gyNBOX2yVuW3JN) | 3:34 | 2019-07-29\* | 2020-02-11 |
 | [Surrender](https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Surrender](https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf) | 3:03 | 2020-04-14 | 2021-04-07 |
-| [swan song](https://open.spotify.com/track/3eCTgpPO5JpBtlmGBbxIV0) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Elegy](https://open.spotify.com/album/6VuQxuY4WdcRDqtUTGCP0J) | 3:40 | 2023-09-21 |  |
+| [swan song](https://open.spotify.com/track/3eCTgpPO5JpBtlmGBbxIV0) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Elegy](https://open.spotify.com/album/6VuQxuY4WdcRDqtUTGCP0J) | 3:40 | 2023-09-21 | 2023-11-18 |
 | [swan song](https://open.spotify.com/track/4usm1GSxHP41mtvBK73QZ0) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [swan song](https://open.spotify.com/album/4BKr7uEHxiqnMnUO3KwNgs) | 3:40 | 2022-08-12 | 2023-10-24 |
 | [Sycamore](https://open.spotify.com/track/3qwxZ8ygOYSWE790KcfgU1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 2:50 | 2023-05-09 |  |
 | [Symptomatic \- Acoustic](https://open.spotify.com/track/73rmLSDAnRIwME7Z2eobSM) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Symptomatic \(Acoustic\)](https://open.spotify.com/album/1GlFnneEXDJ9TxquYq37r2) | 3:02 | 2021-07-23 | 2022-04-29 |

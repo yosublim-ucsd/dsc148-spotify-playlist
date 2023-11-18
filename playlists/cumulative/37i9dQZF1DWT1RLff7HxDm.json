@@ -1501,6 +1501,28 @@
     },
     {
       "album": {
+        "name": "Blood Brothers: Live in Canada",
+        "url": "https://open.spotify.com/album/7n3CH6Tm2VeHkXSaL6TY6A"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        },
+        {
+          "name": "Albert Castiglia",
+          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318899,
+      "name": "No Good Woman - Live",
+      "url": "https://open.spotify.com/track/2aCnOIxkx3zcZzdCQUjyd8"
+    },
+    {
+      "album": {
         "name": "No One Left To Blame (Dangerous Game)",
         "url": "https://open.spotify.com/album/7draBVSdExn7m8osrjm1q9"
       },

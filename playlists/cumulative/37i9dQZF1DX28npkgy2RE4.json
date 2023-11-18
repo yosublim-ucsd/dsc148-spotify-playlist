@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New styles, deep sounds. Cover: Tr\u00e9 Burt",
+  "description": "New styles, deep sounds. Cover: Lucius",
   "name": "Modern Eclectic",
   "tracks": [
     {
@@ -4310,7 +4310,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 230366,
       "name": "Magic",
       "url": "https://open.spotify.com/track/5NrIxkSt7Lmem0h7rK4Sgq"
@@ -6666,6 +6666,24 @@
       "duration_ms": 208817,
       "name": "Strange Weather",
       "url": "https://open.spotify.com/track/12O9MpMmewwdDkxZC9uqvS"
+    },
+    {
+      "album": {
+        "name": "Stranger Danger",
+        "url": "https://open.spotify.com/album/2bpaU06D3UgJvJiCWBnWNS"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281880,
+      "name": "Stranger Danger",
+      "url": "https://open.spotify.com/track/6XXk2EZcBg3hbaX2HN8GyA"
     },
     {
       "album": {

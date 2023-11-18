@@ -4,7 +4,7 @@
 
 > El infierno hecho ruido\. Bienvenido al culto de La Bestia\. Brujería en portada.
 
-79 songs - 5 hr 19 min
+81 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Inner Tide](https://open.spotify.com/track/4rvIgKl5vcIDGH3lFqLJTs) | [Kälad](https://open.spotify.com/artist/0obV1r7S3PjcSd97T3jRCy) | [Inner Tide](https://open.spotify.com/album/0ueeeVXENRHhSEBCsdByvF) | 4:14 | 2023-09-22 |  |
 | [Isolation](https://open.spotify.com/track/2bX51xAmgVnRoL8u9mLxzV) | [Nostalghia](https://open.spotify.com/artist/4MoQp2VfhowCZQue8PhiSF) | [Duelo](https://open.spotify.com/album/6lObdsPRmwoCRzcKU0uaYY) | 4:50 | 2023-09-22 |  |
 | [Ixik Uh](https://open.spotify.com/track/0SCUVxhZOwVawGcHuAMQS6) | [Spit on Your Grave](https://open.spotify.com/artist/3yVmBZFnbhImASpEdAC1LO) | [Ixik Uh](https://open.spotify.com/album/0QQk3gni24RrKqxVXSCxwx) | 3:57 | 2023-09-22 |  |
-| [Jaded](https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif) | 4:22 | 2023-09-22 |  |
+| [Jaded](https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif) | 4:22 | 2023-09-22 | 2023-11-18 |
+| [Jaded](https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU) | 4:22 | 2023-10-23 |  |
 | [Knife Slice, Axe Chop](https://open.spotify.com/track/5vtVyEJmxwZzOf1djrKFJo) | [Autopsy](https://open.spotify.com/artist/6hR8mUd2yyHFazoCuweiIJ) | [Morbidity Triumphant](https://open.spotify.com/album/0rNeQyZdV5rD6U4xjXj21T) | 2:49 | 2023-09-22 |  |
 | [Kózmica Fuerza Maldita](https://open.spotify.com/track/02rM92pTsTsXSVJkufLFrU) | [Satan Blood](https://open.spotify.com/artist/2t2BBmV79PJ6giNJTqWYsC) | [Cannabic Rites](https://open.spotify.com/album/0eHNiB3t9rEREjXMLXhJT2) | 2:41 | 2023-09-22 |  |
 | [La calle huele a mota](https://open.spotify.com/track/0EbezONNjVfaqVhMrU4yH5) | [Los Viejos](https://open.spotify.com/artist/3AS8HtsWG2bIRM7LqI8DUk) | [La calle huele a mota](https://open.spotify.com/album/3fehrwPFb4jW1XZycxQPQ9) | 3:47 | 2023-09-22 |  |
@@ -74,7 +75,8 @@
 | [The Spirit Returns](https://open.spotify.com/track/1sDgWN2Kyzde2fHKRDGy36) | [Blackbraid](https://open.spotify.com/artist/47nBZhrImXWXTWVSWt09MY) | [Blackbraid II](https://open.spotify.com/album/5CEfuHULnZDi68wT8mABle) | 4:37 | 2023-09-22 |  |
 | [The Werewolf Is Here](https://open.spotify.com/track/5pWHn0AgLhoPL3daPyA7qa) | [Cinthyablackcat](https://open.spotify.com/artist/3OGmEFsTXv9GNQOi8LPoVM) | [Cinthya Blackcat](https://open.spotify.com/album/2Cj46M1JbcqOVom2z4VX2V) | 3:47 | 2023-09-22 |  |
 | [Thelos](https://open.spotify.com/track/3X0UDx7EPJipUHATcZgcoh) | [Spectral Resonanze](https://open.spotify.com/artist/4qNvazDFEQfldPBGo9CEqt) | [Thelos](https://open.spotify.com/album/0TWTjlPOiIwqMgeOjKhcHD) | 5:30 | 2023-09-22 |  |
-| [Torments of My Past](https://open.spotify.com/track/0w32lrkgtivPVLyQR4Tlh3) | [Anna Fiori](https://open.spotify.com/artist/518MGsGqVYTk86dnrxZHX6), [Jonathan Thorpenberg](https://open.spotify.com/artist/2CjVUnYTzkQKGHx0H4OA7H) | [Torments of My Past](https://open.spotify.com/album/5nJuu9BimckMRyhlwfXFhi) | 4:08 | 2023-09-22 |  |
+| [Torments of My Past](https://open.spotify.com/track/0w32lrkgtivPVLyQR4Tlh3) | [Anna Fiori](https://open.spotify.com/artist/518MGsGqVYTk86dnrxZHX6), [Jonathan Thorpenberg](https://open.spotify.com/artist/2CjVUnYTzkQKGHx0H4OA7H) | [Torments of My Past](https://open.spotify.com/album/5nJuu9BimckMRyhlwfXFhi) | 4:08 | 2023-09-22 | 2023-11-18 |
+| [Torments of My Past](https://open.spotify.com/track/7s6e24nfv7Z7jaXHNhAIDx) | [Anna Fiori](https://open.spotify.com/artist/518MGsGqVYTk86dnrxZHX6), [Jonathan Thorpenberg](https://open.spotify.com/artist/2CjVUnYTzkQKGHx0H4OA7H) | [Torments of My Past](https://open.spotify.com/album/5iBhZDdaX7cieH81vFkCia) | 4:08 | 2023-10-23 |  |
 | [Tu Puño Dentro De Mí](https://open.spotify.com/track/03wXtLGSG6lKBx8Cer689U) | [Larva](https://open.spotify.com/artist/70fgQkaCL6ITJxg1E8Q9iP) | [Tu Puño Dentro De Mí](https://open.spotify.com/album/3H95nMXGOPKyuAdQ5rqSbq) | 4:31 | 2023-09-22 |  |
 | [Us Against Them](https://open.spotify.com/track/33bghBAXcT8PypSUHQABFc) | [Dead Legacy](https://open.spotify.com/artist/2959HnSzlYRaGRXMRZmNAt) | [Us Against Them](https://open.spotify.com/album/3bX15eCIHTmPTwZmzqQzQp) | 3:44 | 2023-09-22 |  |
 | [Vida Profana](https://open.spotify.com/track/34RNwS9sBpEeYlXM8Rsz5s) | [JesuCristo Mentiroso](https://open.spotify.com/artist/61yMpECIaGfrNMLwdOjhQO) | [Ruido Asesino](https://open.spotify.com/album/0dsHhzlxqnhSlpUYREXS91) | 1:09 | 2023-09-22 |  |

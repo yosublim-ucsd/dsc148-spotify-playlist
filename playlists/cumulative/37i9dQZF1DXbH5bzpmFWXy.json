@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Remik Gonzalez en portada.",
+  "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Chino Pacas en portada.",
   "name": "El Barrio MP3",
   "tracks": [
     {
@@ -140,6 +140,24 @@
       "duration_ms": 220650,
       "name": "Abcdario",
       "url": "https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns"
+    },
+    {
+      "album": {
+        "name": "AGDREZ",
+        "url": "https://open.spotify.com/album/3NttwP3MLtQPtEPofkqDn9"
+      },
+      "artists": [
+        {
+          "name": "Angel Tumbado",
+          "url": "https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145222,
+      "name": "AGDREZ",
+      "url": "https://open.spotify.com/track/3tvrBMdrl9M5kFjvTCs4m3"
     },
     {
       "album": {
@@ -624,6 +642,24 @@
       "duration_ms": 208680,
       "name": "Belico El Asunto (En Vivo)",
       "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
+    },
+    {
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/4apTA2hXeKNAeDIzrHEU6s"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224526,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/691TDibKzalozEkDXfKywX"
     },
     {
       "album": {
@@ -1454,7 +1490,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 187200,
       "name": "Dale Bogueto",
       "url": "https://open.spotify.com/track/57pTW0VdhvcQUYKtHby8MD"
@@ -2264,6 +2300,28 @@
       "duration_ms": 190627,
       "name": "El Mero Mero",
       "url": "https://open.spotify.com/track/1i4CDdL8UfHD3pMWeMMVhQ"
+    },
+    {
+      "album": {
+        "name": "El Morrillo",
+        "url": "https://open.spotify.com/album/6KRYRynSZ3tdOHfzNtw1jd"
+      },
+      "artists": [
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        },
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167333,
+      "name": "El Morrillo",
+      "url": "https://open.spotify.com/track/11ca4YK18NT1OZZKkjgvzV"
     },
     {
       "album": {
@@ -3620,7 +3678,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 147253,
       "name": "LA Dank",
       "url": "https://open.spotify.com/track/1yuO5XZmlvwGk9VtSoEhzW"
@@ -3958,6 +4016,28 @@
       "duration_ms": 228676,
       "name": "Lean",
       "url": "https://open.spotify.com/track/4zQJf65ZNkPgEl3i622bbA"
+    },
+    {
+      "album": {
+        "name": "Libros X Libras",
+        "url": "https://open.spotify.com/album/4TRwhmVWFNgywws8DT6JvS"
+      },
+      "artists": [
+        {
+          "name": "B\u00c9LICO INDIE",
+          "url": "https://open.spotify.com/artist/31kHBwfQiX3Iha7wxGwFo3"
+        },
+        {
+          "name": "Manuel Alejo",
+          "url": "https://open.spotify.com/artist/2rtvutteRvtigmBzpaVzEH"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133440,
+      "name": "Libros X Libras",
+      "url": "https://open.spotify.com/track/4eS3jVHIH8Forzyb1I4qgs"
     },
     {
       "album": {
@@ -4496,7 +4576,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 221760,
       "name": "Mi Corrido - Remix / En Vivo",
       "url": "https://open.spotify.com/track/684U87L4tAJAPr4AfTj9rD"
@@ -5006,7 +5086,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 207000,
       "name": "No Soy de All\u00e1",
       "url": "https://open.spotify.com/track/2qm4wUO2XJeGxAM8nH7237"
@@ -5098,6 +5178,32 @@
       "duration_ms": 213461,
       "name": "Orgullo Caf\u00e9",
       "url": "https://open.spotify.com/track/6beXs35DoHlGfudHu071EC"
+    },
+    {
+      "album": {
+        "name": "Otro D\u00eda, Otra Aventura",
+        "url": "https://open.spotify.com/album/1RCvsCMqGEaXQJDfPvlk2j"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200859,
+      "name": "Otro D\u00eda, Otra Aventura",
+      "url": "https://open.spotify.com/track/6PUh7Jsr6xUl2wlp7NAvv5"
     },
     {
       "album": {
@@ -5310,7 +5416,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 243472,
       "name": "Pensamientos Grandes",
       "url": "https://open.spotify.com/track/59ENQOCMamUD6WdUN54mcW"
@@ -5688,7 +5794,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 196363,
       "name": "Que Soporten (Y La Queso)",
       "url": "https://open.spotify.com/track/3ml2gJVRbyXGz1kjFeAopL"
@@ -5828,6 +5934,24 @@
       "duration_ms": 254642,
       "name": "Rap Real",
       "url": "https://open.spotify.com/track/0KQ8p68z7SxYLZVkqxGST0"
+    },
+    {
+      "album": {
+        "name": "Ratas",
+        "url": "https://open.spotify.com/album/6rA3QN7A5wEmJJnFGgvfEZ"
+      },
+      "artists": [
+        {
+          "name": "Daren",
+          "url": "https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201471,
+      "name": "Ratas",
+      "url": "https://open.spotify.com/track/6xMwfDyPaX4KkV77s7PrVH"
     },
     {
       "album": {
@@ -6794,7 +6918,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 212000,
       "name": "Tirando Flow Sesh #11 (feat. El Bogueto & Ritorukai)",
       "url": "https://open.spotify.com/track/77IPE0PA44eThYC41I3Dzh"
@@ -7394,6 +7518,24 @@
       "duration_ms": 187500,
       "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
       "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
+    },
+    {
+      "album": {
+        "name": "Concentrado",
+        "url": "https://open.spotify.com/album/2wXPBkIk4rqRLbU70y4oEV"
+      },
+      "artists": [
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146120,
+      "name": "Viviendo La Vida",
+      "url": "https://open.spotify.com/track/3YtskysZfjttxlEc963bKf"
     },
     {
       "album": {

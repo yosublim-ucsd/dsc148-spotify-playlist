@@ -2,9 +2,9 @@
 
 ### [Long Live DnB](https://open.spotify.com/playlist/37i9dQZF1DXbouKezIgSHE)
 
-> Where drum & bass comes alive\. Cover: Fitch
+> Where drum & bass comes alive\. Cover: Shockone
 
-170 songs - 10 hr 36 min
+172 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,9 @@
 | [Hero Of My Youth](https://open.spotify.com/track/37tXsgk0HpjY2cu8xImIK8) | [Neonlight](https://open.spotify.com/artist/1dDzlLlakr2JyoK4EtRv5L) | [Hero Of My Youth](https://open.spotify.com/album/4KhUOCJBc5x5lDknmc3tsP) | 4:01 | 2022-06-08 | 2023-06-02 |
 | [Hidden Deep](https://open.spotify.com/track/1THSOHQigCJf9zlCC5FWO9) | [Magnetude](https://open.spotify.com/artist/1oG2f8B49xa2z9ih8EnqdD) | [Hidden Deep](https://open.spotify.com/album/6H7OcIgE5mDWpcDDh2dfbE) | 4:27 | 2022-06-08 | 2023-07-28 |
 | [High \- FOURA Remix](https://open.spotify.com/track/3OErWsu9xz0gSDfVPqxAzQ) | [Zia Jade](https://open.spotify.com/artist/1dgroeoC0lWhsk6D7vNER1), [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN), [FOURA](https://open.spotify.com/artist/1irJOloDtTVbecTnRt7nk4) | [High \(FOURA Remix\)](https://open.spotify.com/album/5w9oABEgTFfJVaomSzXICU) | 2:50 | 2023-05-11 |  |
+| [Higher Rush \(feat\. Freaks & Geeks\)](https://open.spotify.com/track/0VnWY7NrE3356pI7jv91Uq) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Higher Rush \(feat\. Freaks & Geeks\)](https://open.spotify.com/album/0QDxzWlZ3pLlNyl3pYkggD) | 3:25 | 2023-11-16 |  |
 | [Higher Than Ever Before](https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:16 | 2023-07-27 |  |
+| [Hold Back](https://open.spotify.com/track/44F0WC5Edt3TIYkghjmXUA) | [Sly Chaos](https://open.spotify.com/artist/02QaTKGbI6W9D80tPSqJ6i), [Jaz Paterson](https://open.spotify.com/artist/5iLjZUPG66SIQx9sTjSxp5) | [Hold Back](https://open.spotify.com/album/3O5kjXn6NzRtrW7fUzbK7Q) | 4:16 | 2023-11-16 |  |
 | [Hold Your Colour \- Noisia Remix](https://open.spotify.com/track/6zlPHGLqusbv03EcUNOCCH) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY) | [Noisia Radio Best Of 2018](https://open.spotify.com/album/5EVxDRdW8GHFruLNmBqiQ3) | 5:26 | 2022-06-08 | 2023-07-28 |
 | [I Feel Your Love](https://open.spotify.com/track/5VXHh0kou6l74vmDRfFFpY) | [Ekko & Sidetrack](https://open.spotify.com/artist/7IVvHpo698q6w0VadlUxCL) | [I Feel Your Love](https://open.spotify.com/album/0AL1igVnFFCJIrJbhFAHsO) | 4:19 | 2022-06-08 |  |
 | [I Like That \(Jungle Music\)](https://open.spotify.com/track/7xNuZqcNRFoGAMafD20EbH) | [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [I Like That \(Jungle Music\)](https://open.spotify.com/album/3W1Cqs1zmAbkFKGH39IEx4) | 3:59 | 2023-08-17 |  |

@@ -4,7 +4,7 @@
 
 > Seize the day...Maybe? Listen to the music from and inspired by Everything Now, now streaming on Netflix.
 
-84 songs - 4 hr 28 min
+85 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Morning Coffee](https://open.spotify.com/track/6W4NBwsIvcOqB8lHWWlyEG) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT), [Rupert Cross](https://open.spotify.com/artist/1YAOILvhUaVLIstunlFDuA), [Theo Vidgen](https://open.spotify.com/artist/5OkjlIV2FhkH2DFKGQolhZ) | [Everything Now \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1fdsa2x1cRV7eGnpsfj7MD) | 1:49 | 2023-10-06 |  |
 | [My Hood](https://open.spotify.com/track/5IeuKkd8EE5prwJX77iW03) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Durt](https://open.spotify.com/album/2A9YfiOYh4jJ7qsLeUdnDM) | 4:31 | 2023-10-05 |  |
 | [My Sharona](https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 4:55 | 2023-10-05 |  |
-| [Never Gonna Give You Up](https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw) | 3:33 | 2023-10-05 |  |
+| [Never Gonna Give You Up](https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/6eUW0wxWtzkFdaEFsTJto6) | 3:33 | 2023-10-06 |  |
+| [Never Gonna Give You Up](https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw) | 3:33 | 2023-10-05 | 2023-11-18 |
 | [No Chaser](https://open.spotify.com/track/3U355ZX4ZhVubLyxsbpC8w) | [JUICE MENACE](https://open.spotify.com/artist/762lsZj1M33PjCaBCmxaAB) | [029 EP](https://open.spotify.com/album/6NJBlVPMSfGjQbuJLIv3y0) | 2:18 | 2023-10-05 |  |
 | [OMG](https://open.spotify.com/track/4YbAxr2hkGT1t0tJtzlNz0) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [The Return](https://open.spotify.com/album/1HxsSJHTqeUxDoKN26h8pB) | 2:34 | 2023-10-05 |  |
 | [one life, might live](https://open.spotify.com/track/7183fwCYtpFWrBWamXHU1E) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 6](https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA) | 2:34 | 2023-10-05 |  |

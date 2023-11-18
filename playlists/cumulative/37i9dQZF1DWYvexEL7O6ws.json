@@ -388,7 +388,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 245226,
       "name": "Controlla",
       "url": "https://open.spotify.com/track/3O8NlPh2LByMU9lSRSHedm"
@@ -672,6 +672,28 @@
       "duration_ms": 214920,
       "name": "Every Step Every Way",
       "url": "https://open.spotify.com/track/1C477hA1h6O0cTev3R3SB2"
+    },
+    {
+      "album": {
+        "name": "For All The Dogs Scary Hours Edition",
+        "url": "https://open.spotify.com/album/20llijrPaOy2qVivkSXuRB"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227692,
+      "name": "Evil Ways (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6cmXX1EiigAAyvahpqfa4c"
     },
     {
       "album": {
@@ -1310,7 +1332,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 181471,
       "name": "Money in the Bank",
       "url": "https://open.spotify.com/track/1zOBliu4XVuQ0246Jbt23w"

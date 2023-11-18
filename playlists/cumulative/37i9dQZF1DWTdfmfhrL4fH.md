@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-556 songs - 1 day 10 hr 51 min
+557 songs - 1 day 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Gunfight](https://open.spotify.com/track/0is4yL58CcQ4Gv4WgTGr9N) | [Sick Puppies](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [Connect](https://open.spotify.com/album/6rL7tAqRqT4DL4I1bcADTi) | 2:55 | 2022-05-25 |  |
 | [Guns + Ammunition](https://open.spotify.com/track/4NDBNZNg0F50CA6DQ7ZTaZ) | [July Talk](https://open.spotify.com/artist/3EaMbsBlExxNxLvTJcZvDq) | [July Talk](https://open.spotify.com/album/5H9mMHSZOI9rm6nQt87cUc) | 3:04 | 2022-05-25 | 2022-07-20 |
 | [Hallelujah](https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Hallelujah](https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4) | 4:43 | 2022-05-25 | 2023-04-03 |
-| [Halo](https://open.spotify.com/track/00CqEmnPLFKDhAb3cuu6Cs) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 2:57 | 2022-05-25 |  |
+| [Halo](https://open.spotify.com/track/00CqEmnPLFKDhAb3cuu6Cs) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 2:57 | 2022-05-25 | 2023-11-18 |
 | [Hands](https://open.spotify.com/track/4n2G1Wxz1gYxe7AhYV7N9E) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 3:11 | 2022-05-25 | 2022-07-25 |
 | [Happy Idiot](https://open.spotify.com/track/63mnZ0zF5fBwJzYg2pDo9e) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Seeds](https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX) | 3:03 | 2022-05-25 |  |
 | [HARD LOVE](https://open.spotify.com/track/0xcFH3973DZauDkGnNjMgm) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [H A R D L O V E](https://open.spotify.com/album/0DjJIQPOsxd5OiUoVskRBH) | 3:34 | 2023-01-18 |  |
@@ -520,6 +520,7 @@
 | [Torn in Two](https://open.spotify.com/track/3IiMnjK7S2PlsPVMuAH7rU) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 4:17 | 2022-05-25 | 2022-07-20 |
 | [Torn to Pieces](https://open.spotify.com/track/0zLvkCvm22VHCWrFlBL1Ey) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Onyx](https://open.spotify.com/album/4hcp0DzR3sCvI5XEG4D1xb) | 3:16 | 2022-05-25 | 2022-07-29 |
 | [Trouble](https://open.spotify.com/track/6xnhvngEfrUad67GsI2GTw) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Trouble](https://open.spotify.com/album/6d8XBd0lij7z3CVBWwUJEt) | 3:18 | 2022-05-25 | 2022-07-27 |
+| [Under Your Scars](https://open.spotify.com/track/1OiXUeNy6dZyfocJSei4Xz) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9) | 3:51 | 2023-01-18 |  |
 | [Under Your Scars](https://open.spotify.com/track/60SjEdocmsrAk4hQUu7qZi) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV) | 3:51 | 2022-05-25 | 2023-11-04 |
 | [Under Your Scars](https://open.spotify.com/track/7rPHHJMqOpJyf3raEuI5o9) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/0f1ml4Nxke8TCV3MG9uZPW) | 3:51 | 2022-05-25 | 2022-07-28 |
 | [Unity](https://open.spotify.com/track/2Bu4dB6VHWtSUn4cyLAjNU) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Amaryllis](https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0) | 4:12 | 2022-05-25 | 2022-07-29 |

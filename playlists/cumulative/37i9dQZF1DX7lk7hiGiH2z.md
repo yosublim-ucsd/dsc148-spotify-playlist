@@ -4,7 +4,7 @@
 
 > Zeit für Plätzchen backen, Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-254 songs - 12 hr 2 min
+255 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Advent](https://open.spotify.com/track/02wFNl5sVJGCB7NwAhyWCj) | [Reinhard Horn](https://open.spotify.com/artist/0yAi20HvvwcrnDFWcVldvI) | [Meine 24 schönsten Weihnachtslieder](https://open.spotify.com/album/3sua28ilsMuPVoGPlWuRsq) | 2:28 | 2023-11-14 |  |
 | [Adventskalender](https://open.spotify.com/track/49pLOR48qA4FHTsgyObQpw) | [Maike Rosa Vogel](https://open.spotify.com/artist/7DpqBfYauYeRXR1hYRhDbw) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:13 | 2023-11-14 |  |
 | [All I Want For Christmas Is You](https://open.spotify.com/track/42YhIdgYETPgj3Rnr6C2Zt) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Christmas](https://open.spotify.com/album/7GJVFlUmqCb71CJRDzm5E5) | 3:17 | 2023-11-14 |  |
+| [Alle Jahre wieder](https://open.spotify.com/track/1rynQ6uOgOXUjiHzKBqzOG) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob) | [Alle Jahre wieder](https://open.spotify.com/album/5zWifkkpJ1HuwGAQHCSy91) | 2:37 | 2023-11-17 |  |
 | [Alle Leut'](https://open.spotify.com/track/1PnCE1OnD4o7cy1lBdJJlL) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Spiel\- und Bewegungslieder](https://open.spotify.com/album/7wGBvXA1TKtlqyJq6Mtsl5) | 1:07 | 2023-11-05 | 2023-11-16 |
 | [Alle Vögel sind schon da](https://open.spotify.com/track/6ShcsLKki4wuy1LIfilCvz) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Liederbüchermaus](https://open.spotify.com/album/34fvEGFsxX9vl6phTn23XS) | 1:48 | 2023-08-31 | 2023-10-17 |
 | [Auf einem Baum ein Kuckuck saß](https://open.spotify.com/track/3oaIwfVQsGt51yZo8Q7xTQ) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Kinderlieder \- umgedacht & neu gemacht](https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8) | 2:20 | 2023-06-28 | 2023-08-29 |
@@ -124,7 +125,7 @@
 | [Im Sommer](https://open.spotify.com/track/0TVycvoTx7UQIooIU01PwE) | [Hape Kerkeling](https://open.spotify.com/artist/3CJ0RVE3IsRub5KQLN0rtl) | [Die Eiskönigin Völlig Unverfroren \(Deutscher Original Film Soundtrack\)](https://open.spotify.com/album/3E20g5xQv0OcWTeRTTb91N) | 1:51 | 2023-11-14 |  |
 | [In den Urlaub](https://open.spotify.com/track/3N84t07BWwkHopG8rQB4qc) | [SpongeBob Schwammkopf](https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w) | [Das Gelbe vom Schwamm](https://open.spotify.com/album/6tnWalBmzvZ4PlMyG2WUNT) | 3:30 | 2023-06-28 | 2023-09-01 |
 | [In der Disko an der Geisterbahn](https://open.spotify.com/track/0Cf54rLmoPvCl3qL4DNP5n) | [Patricia](https://open.spotify.com/artist/5uhEKaUlEsILfNbjIiyZKo) | [Tanz doch mit!](https://open.spotify.com/album/444GkGF5I3iqs8YTAJSWzz) | 2:58 | 2023-10-16 | 2023-11-06 |
-| [In Der Weihnachtsbäckerei](https://open.spotify.com/track/7HIu4LaRnvYb9RKRo24Ibu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Weihnachten mit KIDZ BOP](https://open.spotify.com/album/2WH3rGNtsmTn3dk0y4kB1c) | 2:54 | 2023-11-14 |  |
+| [In Der Weihnachtsbäckerei](https://open.spotify.com/track/7HIu4LaRnvYb9RKRo24Ibu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Weihnachten mit KIDZ BOP](https://open.spotify.com/album/2WH3rGNtsmTn3dk0y4kB1c) | 2:54 | 2023-11-14 | 2023-11-18 |
 | [Jedes kleine Leuchten](https://open.spotify.com/track/0OH1WE3R7WoQQ2wA0cIBYa) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Laternen\- und Herbstlieder 2](https://open.spotify.com/album/68HlRUNLMY75Oe7xh6laOZ) | 2:09 | 2023-11-05 | 2023-11-08 |
 | [Jingle Bell Rock](https://open.spotify.com/track/0caSruLqxxGi59rkMPQAn6) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Christmas](https://open.spotify.com/album/7GJVFlUmqCb71CJRDzm5E5) | 2:12 | 2023-11-14 |  |
 | [Jingle Bells, Schlittenfahrt im Schnee](https://open.spotify.com/track/76h4Gjxuev41FTF9NX8xWz) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 4 \- Winterzeit](https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl) | 2:53 | 2023-11-14 |  |
@@ -204,9 +205,9 @@
 | [Schnee](https://open.spotify.com/track/0xyWp9BsedFZpdR9f74t74) | [Hurra Kinderlieder](https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a) | [Schnee](https://open.spotify.com/album/3PCzF1h3adfcXM220egTQl) | 2:03 | 2023-11-14 |  |
 | [Schnee im Gefrierfach](https://open.spotify.com/track/3yBqtPvqa227XC2jFzPz17) | [Nicola Rost](https://open.spotify.com/artist/0HQJXd9AUJ138jDrlR3kVg) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 2:54 | 2023-11-14 |  |
 | [Schneeballschlacht](https://open.spotify.com/track/10dVgwpVEyUqXLhxn9eFzR) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 3:21 | 2023-11-14 |  |
+| [Schneeengel](https://open.spotify.com/track/33to3U2rdPNX2v0lEIUGNR) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für die Weihnachtszeit](https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h) | 2:49 | 2023-11-14 |  |
 | [Schneeflöckchen](https://open.spotify.com/track/2nC0LeXM18WwLscRnTLvPE) | [eneMene](https://open.spotify.com/artist/4jjxaM9QNKfMlPNAsZbbLB) | [eneMene Kinderlieder \- die Grüne](https://open.spotify.com/album/2k4Qw7Gktl2ROdMYFw29eC) | 1:28 | 2023-11-14 |  |
 | [Schneeflöckchen](https://open.spotify.com/track/1toWSGtX1RsvM9iFElS0xw) | [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [HIGHFIVE!](https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S) | 3:04 | 2023-11-14 |  |
-| [Schneengel](https://open.spotify.com/track/33to3U2rdPNX2v0lEIUGNR) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für die Weihnachtszeit](https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h) | 2:49 | 2023-11-14 |  |
 | [Schokoladeneis](https://open.spotify.com/track/1mERxFZxRWNOXbryNKlIRW) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Tanzfieber!](https://open.spotify.com/album/06eZoUAMH8lMEpshxRfHj2) | 3:27 | 2023-06-28 | 2023-08-11 |
 | [Silvester](https://open.spotify.com/track/4I3O14VN10X7orM7h9xvhn) | [Stefanie Schrank](https://open.spotify.com/artist/0TtuoO8p89UbOviWtfxl5e) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:17 | 2023-11-14 |  |
 | [Somebody's Watching Me](https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Somebody's Watching Me](https://open.spotify.com/album/5RkdTCk60twFkCif5HLHKw) | 4:58 | 2023-10-16 | 2023-11-06 |

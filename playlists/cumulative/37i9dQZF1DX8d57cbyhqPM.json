@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Ferre Gola",
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Dadju, Tayc",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -350,7 +350,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 329703,
       "name": "Ba zoba",
       "url": "https://open.spotify.com/track/6Gu4tDlGVj9FSWCbPcwLo3"
@@ -1590,7 +1590,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 156051,
       "name": "Dodo - Remix",
       "url": "https://open.spotify.com/track/0xX55NB90iv1LGAosfkmqO"
@@ -1779,6 +1779,24 @@
     },
     {
       "album": {
+        "name": "Egogo",
+        "url": "https://open.spotify.com/album/0RRWFS4dkvUtZqvwu0sIru"
+      },
+      "artists": [
+        {
+          "name": "Messi Dostivanet",
+          "url": "https://open.spotify.com/artist/14Zxq58mnuquXq0TpMcjiJ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203787,
+      "name": "Egogo",
+      "url": "https://open.spotify.com/track/2wtHPYS5KY2JKBMqXVY0Oh"
+    },
+    {
+      "album": {
         "name": "Elengi (feat. Koffi Olomide)",
         "url": "https://open.spotify.com/album/1u1FkfGwN92at9xyF791nf"
       },
@@ -1856,6 +1874,24 @@
       "duration_ms": 286267,
       "name": "Eloko Oyo",
       "url": "https://open.spotify.com/track/2nOxzPAtTsUBmzShpGbpfj"
+    },
+    {
+      "album": {
+        "name": "Fais \u00e7a bien",
+        "url": "https://open.spotify.com/album/478AuAkwWnCZ2fJb34Ai6N"
+      },
+      "artists": [
+        {
+          "name": "Hiro",
+          "url": "https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184444,
+      "name": "Fais \u00e7a bien",
+      "url": "https://open.spotify.com/track/7lTpq4P6yA8YbldQ7CgcDx"
     },
     {
       "album": {
@@ -2082,7 +2118,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 189090,
       "name": "Francophonie - Boko kabwana kaka",
       "url": "https://open.spotify.com/track/3Cx4vtFSEVLtzs8fODoGBA"
@@ -2158,7 +2194,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 210025,
       "name": "Futa Nfuka",
       "url": "https://open.spotify.com/track/7IWRqJJIdSR9uUkEoZD6Ge"
@@ -2416,7 +2452,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 198345,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/71N5pPfGIAwXvlQAfwr4PU"
@@ -3271,6 +3307,28 @@
     },
     {
       "album": {
+        "name": "Makila : Wabl\u00e9",
+        "url": "https://open.spotify.com/album/1RCo2Oha1mmxXBebMYwAap"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225903,
+      "name": "Makila : Wabl\u00e9",
+      "url": "https://open.spotify.com/track/1YQNuvUhIjaYbNi7FV2SVN"
+    },
+    {
+      "album": {
         "name": "Archeology",
         "url": "https://open.spotify.com/album/6MGRxSMhxXYkB1yEqb6Z3h"
       },
@@ -3312,6 +3370,24 @@
       "duration_ms": 236714,
       "name": "Malele",
       "url": "https://open.spotify.com/track/4SiRdXcs6gAfWaaGJwXvnq"
+    },
+    {
+      "album": {
+        "name": "MALEMBE",
+        "url": "https://open.spotify.com/album/4snIDrzUugLqPucrFOHy9j"
+      },
+      "artists": [
+        {
+          "name": "Kapeta",
+          "url": "https://open.spotify.com/artist/2lYw10lFvqp0OfB4Myn93D"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153260,
+      "name": "MALEMBE",
+      "url": "https://open.spotify.com/track/3vbx5h7ewP0FC342PIp1vV"
     },
     {
       "album": {
@@ -4254,7 +4330,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 188830,
       "name": "One Leg (Kiki Ewing)",
       "url": "https://open.spotify.com/track/0UsRg4DH2peJJe01aL7Dza"
@@ -4294,7 +4370,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 400082,
       "name": "OURAGAN (feat. MALANGE LUNGENDO)",
       "url": "https://open.spotify.com/track/5INyzFjjOxCedxAERQfA7Y"
@@ -4652,7 +4728,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 212682,
       "name": "PO NA BISO",
       "url": "https://open.spotify.com/track/7aYNn7Ig8eX9x27Gu76hco"
@@ -5586,7 +5662,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 351746,
       "name": "Trouvez-la moi",
       "url": "https://open.spotify.com/track/2HNpvUvyU9kYl41uha8cP7"

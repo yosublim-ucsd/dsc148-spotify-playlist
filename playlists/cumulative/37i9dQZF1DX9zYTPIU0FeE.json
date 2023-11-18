@@ -2560,10 +2560,32 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 433040,
       "name": "Rainbow Revisited",
       "url": "https://open.spotify.com/track/36eemDjGxpm6323UrcC8Mn"
+    },
+    {
+      "album": {
+        "name": "Rainbow Revisited",
+        "url": "https://open.spotify.com/album/63wLAGAGfVOEoDHM2kO8TA"
+      },
+      "artists": [
+        {
+          "name": "Thandi Ntuli",
+          "url": "https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy"
+        },
+        {
+          "name": "Carlos Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433040,
+      "name": "Rainbow Revisited",
+      "url": "https://open.spotify.com/track/3yATpiGQJGOrYidye4ebc9"
     },
     {
       "album": {

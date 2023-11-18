@@ -1,12 +1,12 @@
 {
   "description": "Updated Weekly! DC and Hooks selected jams from Deadbeats record label and beyond. DEADBEATS ON TOUR NOW--&gt; <a href=\"http://www.deadbeatsofficial.com\">www.deadbeatsofficial.com</a>",
-  "num_followers": 62533,
+  "num_followers": 62543,
   "original_name": "Zeds Dead's Deadbeats",
   "owner": {
     "name": "Zeds Dead",
     "url": "https://open.spotify.com/user/zedsdeadofficial"
   },
-  "snapshot_id": "NTc3Miw2OTBjYWI3Y2EyZDA0ZTRiNTk3YTI4ZTNkN2IyMjdkYzI1MGJjMTM3",
+  "snapshot_id": "NTc3OCw1MzlkOTJjNTkwZTk1YThhNjQ5YTVlOTU1YmIzYzVmOTY5ZmMwYmM1",
   "tracks": [
     {
       "added_at": "2023-10-10 18:46:01",
@@ -29,24 +29,40 @@
       "url": "https://open.spotify.com/track/4NDhaxAmbKXM8LKrOPNxsy"
     },
     {
-      "added_at": "2023-11-10 14:40:38",
+      "added_at": "2023-11-17 14:22:04",
       "album": {
-        "name": "Interference",
-        "url": "https://open.spotify.com/album/3clju4r9HK4aE2tQ3TUHwd"
+        "name": "Know By Now",
+        "url": "https://open.spotify.com/album/2AoFSRAEpmGB2klZbqf8vu"
       },
       "artists": [
         {
-          "name": "Bensley",
-          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
-        },
-        {
-          "name": "DNMO",
-          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
         }
       ],
-      "duration_ms": 228965,
-      "name": "Interference",
-      "url": "https://open.spotify.com/track/0pIpEN61pTQZN8nBUzgpDq"
+      "duration_ms": 275862,
+      "name": "Know By Now",
+      "url": "https://open.spotify.com/track/7wthIYYW5izwk0Dm5BoIar"
+    },
+    {
+      "added_at": "2023-10-15 14:40:14",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/4ppeM7jmOH2YmkshVfPxhn"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "duration_ms": 202394,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/0sWniVm3HUdyxClGcyJEUM"
     },
     {
       "added_at": "2023-11-08 15:44:53",
@@ -67,6 +83,26 @@
       "duration_ms": 197154,
       "name": "Fingertips",
       "url": "https://open.spotify.com/track/6dEGKWFnL2qGzdmS17jSUF"
+    },
+    {
+      "added_at": "2023-11-10 14:40:38",
+      "album": {
+        "name": "Interference",
+        "url": "https://open.spotify.com/album/3clju4r9HK4aE2tQ3TUHwd"
+      },
+      "artists": [
+        {
+          "name": "Bensley",
+          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
+        },
+        {
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+        }
+      ],
+      "duration_ms": 228965,
+      "name": "Interference",
+      "url": "https://open.spotify.com/track/0pIpEN61pTQZN8nBUzgpDq"
     },
     {
       "added_at": "2023-11-08 15:43:55",
@@ -101,24 +137,24 @@
       "url": "https://open.spotify.com/track/7tVRemm7dzzf2m1AfWqiKZ"
     },
     {
-      "added_at": "2023-10-15 14:40:14",
+      "added_at": "2023-09-18 23:25:27",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/4ppeM7jmOH2YmkshVfPxhn"
+        "name": "Scared",
+        "url": "https://open.spotify.com/album/6wtDx4QNiMVpSzpQgrX5N0"
       },
       "artists": [
         {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
         },
         {
           "name": "Zeds Dead",
           "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
         }
       ],
-      "duration_ms": 202394,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/0sWniVm3HUdyxClGcyJEUM"
+      "duration_ms": 243238,
+      "name": "Scared",
+      "url": "https://open.spotify.com/track/7DgRZtTKvoa6PlbOUbsU5N"
     },
     {
       "added_at": "2023-11-08 15:44:47",
@@ -223,26 +259,6 @@
       "duration_ms": 253714,
       "name": "Forest Catcher",
       "url": "https://open.spotify.com/track/7yRMwQAGpzLnAUEY6BAATi"
-    },
-    {
-      "added_at": "2023-09-18 23:25:27",
-      "album": {
-        "name": "Scared",
-        "url": "https://open.spotify.com/album/6wtDx4QNiMVpSzpQgrX5N0"
-      },
-      "artists": [
-        {
-          "name": "PEEKABOO",
-          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
-        },
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        }
-      ],
-      "duration_ms": 243238,
-      "name": "Scared",
-      "url": "https://open.spotify.com/track/7DgRZtTKvoa6PlbOUbsU5N"
     },
     {
       "added_at": "2023-09-18 18:52:53",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,010 likes - 200 songs - 15 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,159 likes - 200 songs - 15 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Put it Down](https://open.spotify.com/track/6iRPCCgbYTblYcJwI337MV) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Mike Chiavaro](https://open.spotify.com/artist/3Yfht77kZkV1rYQKs5OSfN) | [Put it Down](https://open.spotify.com/album/0kngfbXlOhnq6IiUOdkp28) | 5:08 |
-| 2 | [Empire](https://open.spotify.com/track/37IQoTfeVqNx5Q4KtUKgkD) | [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Empire](https://open.spotify.com/album/0JRjksr7Dl8jX1ecE4r3uK) | 4:47 |
-| 3 | [Dinky Doinky](https://open.spotify.com/track/201ZmH4WWYflWBpg2CJ8uc) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [Dinky Doinky](https://open.spotify.com/album/3ua0yfjr5aZfh7kOaEHja7) | 3:48 |
+| 1 | [Blue Raz](https://open.spotify.com/track/6pnx7j90PjcBjW1zCLsOzK) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [SAM GREENFIELD RULES](https://open.spotify.com/album/5OtJfcbiA85pLR4X03GyOU) | 4:54 |
+| 2 | [Put it Down](https://open.spotify.com/track/6iRPCCgbYTblYcJwI337MV) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Mike Chiavaro](https://open.spotify.com/artist/3Yfht77kZkV1rYQKs5OSfN) | [Put it Down](https://open.spotify.com/album/0kngfbXlOhnq6IiUOdkp28) | 5:08 |
+| 3 | [Empire](https://open.spotify.com/track/37IQoTfeVqNx5Q4KtUKgkD) | [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Empire](https://open.spotify.com/album/0JRjksr7Dl8jX1ecE4r3uK) | 4:47 |
 | 4 | [Who Cares](https://open.spotify.com/track/74nxTZmwEUNKMdHQ7GPgsi) | [Kinga Glyk](https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk) | [Who Cares](https://open.spotify.com/album/24v0ryEB2hOI3ffiJsJhVO) | 3:41 |
 | 5 | [Deluxe Refuge](https://open.spotify.com/track/3bPk42yKpTX0UWkICl8btZ) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Behind the Tea Chronicles](https://open.spotify.com/album/2NRg9UqRH3YFWJG7XEwba9) | 5:27 |
 | 6 | [It's Just Begun / Soul Power \- Instrumental](https://open.spotify.com/track/2F7EjHxQAwckOxP4SE2B0J) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Brass Mafia](https://open.spotify.com/artist/5AUthOkaQS0S3cYfgA66N1) | [Un\-Covered, Vol\. 5: Nigeria, Jamaica & Beyond](https://open.spotify.com/album/1mrU0djpXxqoIVnS2mJWiU) | 5:48 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [The Hornet's Nest](https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Hornet's Nest](https://open.spotify.com/album/1ksnYmM1fPxOzbNEyyQTE8) | 2:16 |
 | 200 | [So Cold](https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT) | 4:12 |
 
-Snapshot ID: `MCxjODJiZWVkNWQ4NGEzMjhhNWFkMjkyOTMzNGVjNjc0MDU3NTRiMTI1`
+Snapshot ID: `MCxmMmJhZTcxNGJlOTg1MzFlY2I5OWE2MDU2OTNkNzllNjk0YzZkZWVm`

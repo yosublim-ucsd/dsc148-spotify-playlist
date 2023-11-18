@@ -4,7 +4,7 @@
 
 > Instrumental piano versions of famous songs to make you fall asleep.
 
-110 songs - 5 hr 46 min
+118 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Barbie girl](https://open.spotify.com/track/4cCwQTUXylUNxlPrt9Bn4a) | [Dan Goten](https://open.spotify.com/artist/7zXPCJltIcz9RxTp01GyeC) | [Barbie girl](https://open.spotify.com/album/49lv1zoHa89Hu0Y5lAncdt) | 2:02 | 2023-09-29 |  |
 | [Beautiful day](https://open.spotify.com/track/7tvFtyI2LhuDAWWJA4mVqr) | [Heather Riley](https://open.spotify.com/artist/3HhS9TOcCQKFAGLpe2uByV) | [Beautiful day](https://open.spotify.com/album/0RlsiytRwYEp3gu4R7AgzN) | 3:02 | 2023-09-29 |  |
 | [Beauty And The Beast](https://open.spotify.com/track/64Ld2wt8Mta8Bsx6AHfUqj) | [Donovan Lakeberg](https://open.spotify.com/artist/6jqNvAr2VhCaV556fIT3b8) | [Beauty And The Beast](https://open.spotify.com/album/3P5y0GZyb6kp6GCJDqjtLm) | 3:13 | 2023-09-29 |  |
+| [Believe](https://open.spotify.com/track/6kMwwEbT5D5PRQIcxnAMNv) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [Believe](https://open.spotify.com/album/2ksSiJnEhlCNvqSPxZKSRR) | 3:24 | 2023-11-17 |  |
 | [Blackbird](https://open.spotify.com/track/4tOBuYNT6MX1r6DaVu7HYC) | [Laszlo Teofil](https://open.spotify.com/artist/2b9trXzxgbOKfsHAJoZo9a) | [Blackbird](https://open.spotify.com/album/3nnxWFQF3NRprMU3R3V4P4) | 3:08 | 2023-09-29 |  |
 | [Blessings](https://open.spotify.com/track/1Li49MRO6HwKVMS5GnjKqZ) | [Love Falk](https://open.spotify.com/artist/7xkvpbm8tfh02pFrqHV4aK) | [Blessings](https://open.spotify.com/album/0YVoCMCJAPE1GpUZVtWA0w) | 3:23 | 2023-09-29 |  |
 | [Blue \(Da Ba Dee\)](https://open.spotify.com/track/4JGD5NiVmKVGBjVysCvKIw) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/1oFuXts0JAGBn1OhcWZp2F) | 2:59 | 2023-09-29 |  |
@@ -28,6 +29,8 @@
 | [Can't Help Falling In Love](https://open.spotify.com/track/5b8ysaeSV1Hs0jo3zoKkr9) | [Noah Walsh](https://open.spotify.com/artist/58pG5qSAHNUCZRBNdNL2PY) | [Can't Help Falling In Love](https://open.spotify.com/album/05Fg2jM0E5fmpR2XBY9mwl) | 2:39 | 2023-09-29 |  |
 | [Changes](https://open.spotify.com/track/1sPIqn1zSzBH6XSRN33L4e) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Changes](https://open.spotify.com/album/3EPmgFC6pA8SYeIRMJWwMJ) | 3:09 | 2023-10-06 |  |
 | [Clocks](https://open.spotify.com/track/2bVMZxVFHsK2DvYNQQzosE) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Clocks](https://open.spotify.com/album/6Z5qampvku5E0MKX3cuGAC) | 2:44 | 2023-09-29 |  |
+| [Dance The Night](https://open.spotify.com/track/7GXvUIgrh8eGCdCbT9jt6O) | [Jón Araujo](https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8) | [Dance The Night](https://open.spotify.com/album/5OaPOolZ6M9k8tWI9XO66K) | 2:50 | 2023-11-17 |  |
+| [Dancing on my own](https://open.spotify.com/track/122XrAD5sOasFPY1eKUfCt) | [Zach Flash](https://open.spotify.com/artist/245BfbwD5kOa5wFTd0Bl5w) | [Dancing on my own](https://open.spotify.com/album/0PiSxlbMEumz9h8WYM3zQJ) | 3:10 | 2023-11-17 |  |
 | [Diamonds](https://open.spotify.com/track/27KOvI2gU9fAMddgSTpQw4) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Diamonds](https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n) | 3:09 | 2023-09-29 |  |
 | [Die 4 Me](https://open.spotify.com/track/6UFkfO4Hn0RCiUoL270dpq) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Die 4 Me](https://open.spotify.com/album/4zluT7uuTQrgz55gESxfZe) | 2:36 | 2023-09-29 |  |
 | [Don't Dream It's Over](https://open.spotify.com/track/4OECCOjePxmHXVGo54go9F) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [Don't Dream It's Over](https://open.spotify.com/album/4Tn2th2kFSCl3dbHNFdE3y) | 3:08 | 2023-09-29 |  |
@@ -39,7 +42,9 @@
 | [Everybody's Changing](https://open.spotify.com/track/67IbvYxDxsgmgGa5XKj1d6) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Everybody's Changing](https://open.spotify.com/album/2ZQgqizSwUEQ69bmBBVkuo) | 3:22 | 2023-10-20 |  |
 | [Everytime](https://open.spotify.com/track/6JiJFGJOTJkQRoedadMhN8) | [Sarah Bowman](https://open.spotify.com/artist/2Wz8oWJF4XcdrxJeFkkWJI) | [Memories](https://open.spotify.com/album/6mHaTfEd8SfwreuI0Lh9AJ) | 4:05 | 2023-09-29 |  |
 | [Eye to Eye](https://open.spotify.com/track/5tIM8Dt62vUmgtRWdPIojK) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [Eye to Eye](https://open.spotify.com/album/6NgcOqej4Qo0xzw9cjNEVU) | 2:26 | 2023-09-29 |  |
+| [Eyes Closed](https://open.spotify.com/track/6EoPNWD4JE1BQZ8VxbYiM8) | [Jennifer Toledo](https://open.spotify.com/artist/6r0yeyjdGpvfPhPVeaq877) | [Eyes Closed](https://open.spotify.com/album/2r7wVDEXwJbMgTnwtpuIbf) | 3:40 | 2023-11-17 |  |
 | [Forever Young \- Piano Version](https://open.spotify.com/track/6X2gdN9y4Y6PmX5hypLpJu) | [Alec Dufner](https://open.spotify.com/artist/6rcLXQVBq8vXaXDoatwCsz) | [Timeless Classics On Piano \- Part IV](https://open.spotify.com/album/2kqhwuZNdKS2LMckmMGdLf) | 3:46 | 2023-09-29 |  |
+| [Ghost](https://open.spotify.com/track/7DCs0VpiINdXfpz8VgC4sD) | [Jennifer Toledo](https://open.spotify.com/artist/6r0yeyjdGpvfPhPVeaq877) | [Ghost](https://open.spotify.com/album/7Fq1BHzu1qsdmUsIGMrJU2) | 2:34 | 2023-11-17 |  |
 | [Ghost Again](https://open.spotify.com/track/0dTy1UqD6BblPJtTFXVheS) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Ghosts Again](https://open.spotify.com/album/6xTKawI8bmXF7IN23OQ1ym) | 4:10 | 2023-09-29 |  |
 | [Girl on fire](https://open.spotify.com/track/4IuATSvO2qXkgTRuHC8LYq) | [Taylor Stone](https://open.spotify.com/artist/4RG7tWsxcGEyY5EtLKW4X7) | [Girl on fire](https://open.spotify.com/album/2zOAwVXSVxjxbp74MFl1oQ) | 3:32 | 2023-09-29 |  |
 | [Go your own way](https://open.spotify.com/track/16pcdSTB0XzKh0fDa2bqHt) | [Anissa Henderson](https://open.spotify.com/artist/7hWN9tSQOmj0pafX5UWsjE) | [Somewhere only we know](https://open.spotify.com/album/7sTmrR8KKOUvFIM1RgeSbx) | 3:02 | 2023-09-29 |  |
@@ -76,9 +81,11 @@
 | [My Love](https://open.spotify.com/track/6Gxmi0xjKRJ1bMH64a8Z3S) | [Wayne Buckley](https://open.spotify.com/artist/4NLVYD0VS44aVklSVuGFPg) | [My Love](https://open.spotify.com/album/6ogaIuwMfmufA8QopOSD8X) | 3:56 | 2023-09-29 |  |
 | [Nothing Compares to You](https://open.spotify.com/track/1Y1EQY6SvWIelDrbGPoGTO) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Nothing Compares to You](https://open.spotify.com/album/3MKo4eOVqTJeokHlNJ6UMh) | 2:58 | 2023-10-20 |  |
 | [Old Town Road](https://open.spotify.com/track/0KUi4dptCJzeEHPr38B7j9) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Diamonds](https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n) | 2:22 | 2023-09-29 |  |
+| [One Call Away](https://open.spotify.com/track/3stzNtSMb9XSwbeEQVG3Ck) | [Steffi du Retz](https://open.spotify.com/artist/7COfBp7javjOBGr1ibVPA8) | [One Call Away](https://open.spotify.com/album/51sNNeB6Nq65506cNGEE0m) | 3:28 | 2023-11-17 |  |
 | [Out of Reach](https://open.spotify.com/track/1YJy6ofVeKjNk1SxudWgg3) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Out of Reach](https://open.spotify.com/album/5piCyCGSfoap2QpQPt0NCD) | 2:37 | 2023-10-06 |  |
 | [Payphone](https://open.spotify.com/track/2UwA54hqWikeB4cnSD9Pje) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [Payphone](https://open.spotify.com/album/1UOZ6SGMGW1NWkq9vM3JTt) | 3:24 | 2023-09-29 |  |
 | [Redbone](https://open.spotify.com/track/37jmM5yYmTqETXCbi4Ko5U) | [Lenowa Parson](https://open.spotify.com/artist/3zSc3Docwdph96gfgwmxNp) | [Redbone](https://open.spotify.com/album/4SOJm1GEbnhfHC1ggGjT9K) | 3:18 | 2023-09-29 |  |
+| [Roar](https://open.spotify.com/track/1IaC5cHREG8T3GCu6cNQq1) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [Roar](https://open.spotify.com/album/7hfurqRQar16Zd0JXrCncb) | 3:48 | 2023-11-17 |  |
 | [Rocket Man](https://open.spotify.com/track/6ff2TinoXWHCn0JnfUAp2b) | [Fiona Greenly](https://open.spotify.com/artist/1o7MqXOsAEoLkc9YEj7m9c) | [Rocket Man](https://open.spotify.com/album/1AvBbSVmZXYJtEt5GePDMR) | 3:04 | 2023-09-29 |  |
 | [Rockstar](https://open.spotify.com/track/2uM09IwC6W4Txne0cCZWmp) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [Rockstar](https://open.spotify.com/album/3BUyqgRsdfypzDEeNISpe5) | 2:55 | 2023-09-29 |  |
 | [Samson](https://open.spotify.com/track/2YehhUUNcwZCW9CcTpAYU9) | [Inkoolu](https://open.spotify.com/artist/6kJB0MyF34MKnohZ96E0LY) | [Samson](https://open.spotify.com/album/50Ob7iAvJ7liLLtnukKsEo) | 2:56 | 2023-09-29 |  |
@@ -110,6 +117,7 @@
 | [We Are The World](https://open.spotify.com/track/0jmuypH5mXKfPQzORdMbUt) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [A Thousand Miles](https://open.spotify.com/album/0dZ2dXRU6ET4oFCA9Csr45) | 2:47 | 2023-09-29 |  |
 | [We Found Love](https://open.spotify.com/track/4JfQOPFcJBaG2P0EnquSlV) | [Josiah Burton](https://open.spotify.com/artist/7kHFdYLloUUlagYelqPEQ7) | [We Found Love](https://open.spotify.com/album/6cgaV6vKjXx8ca75asRIni) | 3:15 | 2023-09-29 |  |
 | [What Was I Made For?](https://open.spotify.com/track/5yhPNVqJog8cR2e8AWADO6) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [What Was I Made For?](https://open.spotify.com/album/1B034YD9BTZoSI4l6WCXuK) | 3:01 | 2023-09-29 |  |
+| [With or without you](https://open.spotify.com/track/5ySNvjc6U7c4TDhRgqNdJh) | [Anissa Henderson](https://open.spotify.com/artist/7hWN9tSQOmj0pafX5UWsjE) | [With or without you](https://open.spotify.com/album/2hzBunUPQX0klUidFYR9Ux) | 2:36 | 2023-11-17 |  |
 | [Woman In Love](https://open.spotify.com/track/0gsahF2JQ6vX7ZihCfNALe) | [Lilas Délice](https://open.spotify.com/artist/0x2Cy9CJekH8kYi8gLWHOM) | [Woman In Love](https://open.spotify.com/album/2QxnnLhu9ae17ToOdnHPNh) | 3:08 | 2023-09-29 |  |
 | [Wonder Woman](https://open.spotify.com/track/6KO3K2Iu0EHOIbSRibo7M8) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [Wonder Woman](https://open.spotify.com/album/17q5zFGbh3XNEtEhOjyIpw) | 3:18 | 2023-09-29 |  |
 | [Yesterday](https://open.spotify.com/track/6xn1NNoi7RcrFK1zzX3YRg) | [Joseph Vaux](https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1) | [Yesterday](https://open.spotify.com/album/3vH4vxMmOITNPGaORvzGdT) | 3:03 | 2023-09-29 |  |

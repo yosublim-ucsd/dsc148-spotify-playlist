@@ -1114,7 +1114,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 201680,
       "name": "american spirit",
       "url": "https://open.spotify.com/track/5PjMEPg56t95BptaDhdQVg"
@@ -6699,6 +6699,24 @@
     },
     {
       "album": {
+        "name": "DMB",
+        "url": "https://open.spotify.com/album/7mvKiaZgxHjwoJuYzHqMtK"
+      },
+      "artists": [
+        {
+          "name": "Yuki Dreams Again",
+          "url": "https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164336,
+      "name": "DMB",
+      "url": "https://open.spotify.com/track/30c4wALbWpUKSF05Ab2vPl"
+    },
+    {
+      "album": {
         "name": "DnD (feat. Kenny Mason)",
         "url": "https://open.spotify.com/album/3BdMsYnkBajLfajXOTADHQ"
       },
@@ -10980,7 +10998,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 258187,
       "name": "Harmony",
       "url": "https://open.spotify.com/track/3yZS2Yeowfm4m6ll4pk7Ce"
@@ -27522,6 +27540,24 @@
       "duration_ms": 201176,
       "name": "UGLY (Remix)",
       "url": "https://open.spotify.com/track/5Yp6O30CNm4CHfSO7fjHii"
+    },
+    {
+      "album": {
+        "name": "UGOMDN - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5WJlAVq7OMFFQSA5ZVRnyH"
+      },
+      "artists": [
+        {
+          "name": "chlothegod",
+          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176191,
+      "name": "UGOMDN - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3dDEKW90qTAjYPxhcA6Mtk"
     },
     {
       "album": {

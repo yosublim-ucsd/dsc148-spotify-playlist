@@ -12038,7 +12038,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 199493,
       "name": "Together in the rain",
       "url": "https://open.spotify.com/track/3LWrzcBkiKaXNZSUKoCTlb"
@@ -14002,6 +14002,24 @@
       "duration_ms": 201880,
       "name": "You're right",
       "url": "https://open.spotify.com/track/2l9YndjC22IeY3w5gJDxyQ"
+    },
+    {
+      "album": {
+        "name": "You're the Best",
+        "url": "https://open.spotify.com/album/1tST9jLBCVx8Z0bwvwLAh2"
+      },
+      "artists": [
+        {
+          "name": "Kim So Yeon",
+          "url": "https://open.spotify.com/artist/27ScewTLvhPP2F856R16ck"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207857,
+      "name": "You're the Best",
+      "url": "https://open.spotify.com/track/1vEKswGid6hglrYIIMa0h3"
     },
     {
       "album": {

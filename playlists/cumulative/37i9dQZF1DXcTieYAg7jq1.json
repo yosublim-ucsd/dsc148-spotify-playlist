@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "4321",
+        "url": "https://open.spotify.com/album/5cqnDDzRKXFsjpax8cY2yo"
+      },
+      "artists": [
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232957,
+      "name": "4321",
+      "url": "https://open.spotify.com/track/22ZjKxmxtMXoAnJSN9gpq5"
+    },
+    {
+      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/52Of3CIb4EXdoyldUFg7An"
       },
@@ -1628,7 +1646,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 182857,
       "name": "Drunk On A Flight",
       "url": "https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6"
@@ -3662,7 +3680,7 @@
     {
       "album": {
         "name": "Love Lines",
-        "url": "https://open.spotify.com/album/1FY6Ov9aGkNEhXa7GbeRwM"
+        "url": "https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL"
       },
       "artists": [
         {
@@ -3673,6 +3691,24 @@
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 263297,
+      "name": "Long Goodbye",
+      "url": "https://open.spotify.com/track/2UwkYWLgKM9IWlAwDZGR4K"
+    },
+    {
+      "album": {
+        "name": "Love Lines",
+        "url": "https://open.spotify.com/album/1FY6Ov9aGkNEhXa7GbeRwM"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
       "duration_ms": 263297,
       "name": "Long Goodbye",
       "url": "https://open.spotify.com/track/5HFouuI6G4RNFoQFnr0cOU"

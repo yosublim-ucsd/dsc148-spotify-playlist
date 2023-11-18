@@ -4,7 +4,7 @@
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-265 songs - 14 hr 33 min
+267 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Action Woman](https://open.spotify.com/track/08T9ONipiFiuJSoXm8vag3) | [The Litter](https://open.spotify.com/artist/6wvtyGNtNtLlkHONVzOocm) | [Distortions](https://open.spotify.com/album/1jNPpX5H1F1xJNQR8Xe2CF) | 2:34 | 2015-07-23 |  |
 | [Action Woman](https://open.spotify.com/track/1f2iytT4krAsbokqIv1JVO) | [The Litter](https://open.spotify.com/artist/6wvtyGNtNtLlkHONVzOocm) | [Distortions](https://open.spotify.com/album/0L7ktraAFQOxPHgK2zLbyf) | 2:34 | 2015-07-23 | 2023-04-29 |
 | [Action Woman](https://open.spotify.com/track/4p5aaE8aFUd6Vr9wh0ubC3) | [The Litter](https://open.spotify.com/artist/6wvtyGNtNtLlkHONVzOocm) | [Music From The Showtime Series Californication Season 6](https://open.spotify.com/album/7JD7cv74AuGmtVco1sxpL5) | 2:35 | 2015-07-23 | 2022-11-14 |
-| [All Day and All of the Night](https://open.spotify.com/track/78JmElAFmrPNhLjovDR9Jm) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe\)](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 2:21 | 2015-07-23 |  |
+| [All Day and All of the Night](https://open.spotify.com/track/78JmElAFmrPNhLjovDR9Jm) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe\)](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 2:21 | 2015-07-23 | 2023-11-18 |
+| [All Day and All of the Night](https://open.spotify.com/track/1mfV2kv9RwFKVI8kEQlmOJ) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe Edition\)](https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ) | 2:22 | 2015-07-23 |  |
 | [All Day and All of the Night](https://open.spotify.com/track/3okPiJwW5nCLpug12sCL4p) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe Edition\)](https://open.spotify.com/album/3hbGLP1XTH7lNFJ3oHtswQ) | 2:22 | 2015-07-23 | 2022-07-29 |
 | [All Day and All of the Night \- 2014 Remastered Version](https://open.spotify.com/track/6m6pz5PJjySqdgNt3n6NfL) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Best Of](https://open.spotify.com/album/7GzeVj59bwVLFB3SX7zy6W) | 2:22 | 2015-07-23 | 2022-11-14 |
 | [Alone Again Or \- 2015 Remaster](https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:17 | 2019-06-19 |  |
@@ -52,7 +53,8 @@
 | [Cherry Red \- 2003 Remastered Version](https://open.spotify.com/track/6fyC4XAanXTAuCEzIZKKFE) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Split](https://open.spotify.com/album/33t6WZtNdhUcJBCh2xdAst) | 5:43 | 2015-07-23 |  |
 | [Cherry Red \- 2003 Remastered Version](https://open.spotify.com/track/74soqwldLWWA5hGXhXcMq7) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Thank Christ For The Groundhogs: The Liberty Years 1968\-1972](https://open.spotify.com/album/7cpe5iNefJ5Orj6hqnX3py) | 5:43 | 2015-07-23 | 2022-11-13 |
 | [Cherry Red \- 2003 Remastered Version](https://open.spotify.com/track/7DwZDNVo6dlnpEh9UxyFGw) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Split](https://open.spotify.com/album/3f6Y5i6HOeg5SpT5PUEm0e) | 5:43 | 2015-07-23 | 2023-02-08 |
-| [Come On Now](https://open.spotify.com/track/0jC2XPH7vnNK5ol0bfC8Zs) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinda Kinks \(Deluxe\)](https://open.spotify.com/album/73anEcke1iGiFLxWhXnco8) | 1:45 | 2019-06-19 |  |
+| [Come On Now](https://open.spotify.com/track/0jC2XPH7vnNK5ol0bfC8Zs) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinda Kinks \(Deluxe\)](https://open.spotify.com/album/73anEcke1iGiFLxWhXnco8) | 1:45 | 2019-06-19 | 2023-11-18 |
+| [Come On Now](https://open.spotify.com/track/450lWzLM8T80sjJyFRWfPe) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinda Kinks \(Deluxe\)](https://open.spotify.com/album/7eg8HfRw9SIlcF78gse2i3) | 1:45 | 2019-06-19 |  |
 | [Complication](https://open.spotify.com/track/4Sb3TdqgOi35RoL78Y1LtC) | [The Monks](https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy) | [Black Monk Time](https://open.spotify.com/album/0YEmNXaNDq03tfgFmG4MOj) | 2:22 | 2015-07-23 |  |
 | [Crash Street Kids](https://open.spotify.com/track/65lVNwkJ1cbfGbeLFhj7Os) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [Original Album Classics](https://open.spotify.com/album/2W6CYtke7aesUBR8D8gWt6) | 4:29 | 2015-07-23 | 2022-07-29 |
 | [Crash Street Kids](https://open.spotify.com/track/6Zyrh0uqZohncpzrqizRCn) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [The Hoople](https://open.spotify.com/album/2Jar3nPcvUZVEIT2DBJ8Am) | 4:29 | 2015-07-23 |  |

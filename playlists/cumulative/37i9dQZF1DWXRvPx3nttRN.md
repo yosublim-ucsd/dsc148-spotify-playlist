@@ -4,7 +4,7 @@
 
 > Acoustic rock and pop that makes you feel good.
 
-398 songs - 22 hr 28 min
+399 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,7 +390,8 @@
 | [When You Love Someone](https://open.spotify.com/track/4wSUqwfmRsrs1LntnQAciv) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chill 2019](https://open.spotify.com/album/0IpPTojnQHG32fOKtbkNKz) | 3:36 | 2022-04-22 | 2022-11-13 |
 | [Wherever You Will Go \- Acoustic](https://open.spotify.com/track/5Tybis9p4M4TX2gJM8iqgh) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [The Best Of...](https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl) | 3:20 | 2021-03-12 |  |
 | [Wild Things \- Acoustic Version](https://open.spotify.com/track/3FAzlNPlVImGsbjnHHft6K) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 3:11 | 2021-03-12 |  |
-| [Wonderful Life](https://open.spotify.com/track/0cqLFzFYsQurUI3McUZkLg) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Wonderful Life](https://open.spotify.com/album/5PzrmeHkX1u2Gt4j4O4oYr) | 4:07 | 2021-03-12 |  |
+| [Wonderful Life](https://open.spotify.com/track/0cqLFzFYsQurUI3McUZkLg) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Wonderful Life](https://open.spotify.com/album/5PzrmeHkX1u2Gt4j4O4oYr) | 4:07 | 2021-03-12 | 2023-11-18 |
+| [Wonderful Life](https://open.spotify.com/track/2IAzLFdULtSCi4lLCLG8xh) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Ultimate Collection](https://open.spotify.com/album/6LwWCFeuneAMVxhCxdx64C) | 4:07 | 2023-10-23 |  |
 | [Wrecking Ball/ Timber Mashup](https://open.spotify.com/track/7zkY45EGtd9CauCSTKECm2) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Wrecking Ball/ Timber Mashup](https://open.spotify.com/album/6LFecLw9h27ThrcwETFBBv) | 3:10 | 2021-03-12 |  |
 | [You Are The Reason](https://open.spotify.com/track/03KooGt49z9fEvWjcrtD74) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Lovebirds](https://open.spotify.com/album/0fuFsHfdlZIsK0tEVyLzgg) | 3:24 | 2022-04-22 | 2022-11-14 |
 | [You Are The Reason](https://open.spotify.com/track/2d3NAGCKudIYpTlRI6BI0s) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [You Are The Reason](https://open.spotify.com/album/7rfp8crDRCG0ACHe2Ghu9U) | 3:24 | 2021-03-12 | 2022-07-29 |

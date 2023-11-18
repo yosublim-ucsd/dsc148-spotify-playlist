@@ -4,7 +4,7 @@
 
 > El aderezo que te falta.
 
-209 songs - 11 hr 42 min
+210 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Many Rivers To Cross](https://open.spotify.com/track/4hHGirIgXzCaPaTPrsR9RQ) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Best Of / 20th Century Masters](https://open.spotify.com/album/1HkG5JC2RNtrBl4Zq97qgA) | 2:43 | 2021-03-15 | 2022-11-12 |
 | [Many Rivers To Cross](https://open.spotify.com/track/1dZxI6OuzwJ283y3gOU1Kq) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 2:44 | 2021-03-15 |  |
 | [Maracangalha](https://open.spotify.com/track/6BMMJ4yneWdJRbuGPtFYbb) | [Dorival Caymmi](https://open.spotify.com/artist/7zsxdMsODmHKTbTB00t9wS) | [Maracangalha](https://open.spotify.com/album/1lAdoQ5iqnk5UTo4felj51) | 2:46 | 2021-03-15 | 2022-11-12 |
-| [Maracangalha](https://open.spotify.com/track/2cP4EP3v6I5UYcmixnEroX) | [Dorival Caymmi](https://open.spotify.com/artist/7zsxdMsODmHKTbTB00t9wS) | [Para Sempre](https://open.spotify.com/album/5e2HXBdSKE8VtNUTSVzeWs) | 2:46 | 2021-03-15 |  |
+| [Maracangalha](https://open.spotify.com/track/2cP4EP3v6I5UYcmixnEroX) | [Dorival Caymmi](https://open.spotify.com/artist/7zsxdMsODmHKTbTB00t9wS) | [Para Sempre](https://open.spotify.com/album/5e2HXBdSKE8VtNUTSVzeWs) | 2:46 | 2021-03-15 | 2023-11-18 |
 | [Maracangalha](https://open.spotify.com/track/7vMICBgMH80JfGFaGSi8Yp) | [Dorival Caymmi](https://open.spotify.com/artist/7zsxdMsODmHKTbTB00t9wS) | [Eu Vou Pra Maracangalha](https://open.spotify.com/album/4eTrToCDAzjyjWOFECOhBW) | 2:47 | 2021-03-15 | 2022-07-29 |
 | [Mas Que Nada](https://open.spotify.com/track/0Vl9aGb0dmeiCQ2ATgNK2B) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [Mas Que Nada](https://open.spotify.com/album/2OAg6yUqeTP078mh1BLIDL) | 2:39 | 2021-03-15 | 2022-07-29 |
 | [Mas, Que Nada!](https://open.spotify.com/track/6U03Orwr5Dxt8jahLnQpYV) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Samba Esquema Novo](https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy) | 2:59 | 2021-03-15 |  |
@@ -187,6 +187,7 @@
 | [Stop \- Edit](https://open.spotify.com/track/5aSzCwW4lemb0ZsfWuDuos) | [Sam Brown](https://open.spotify.com/artist/3gvT4Mc7kn54IUy08Y0Tr5) | [True Power\-Ballads / 3CD set](https://open.spotify.com/album/01KB6ccwWZ1iVufgXMoOuX) | 3:57 | 2021-03-15 | 2022-07-28 |
 | [Sweet and Dandy](https://open.spotify.com/track/0vYfDfb2G23BsMfRUybVsD) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 3:08 | 2021-03-15 | 2023-11-11 |
 | [Sweet And Dandy](https://open.spotify.com/track/5XnXPXTva7UaQyCWZWnIyZ) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [The Harder They Come \(Remastered\)](https://open.spotify.com/album/3L6BeuI5Du0b7sl2AmYVGA) | 2:59 | 2021-03-15 | 2022-07-27 |
+| [Sweet And Dandy](https://open.spotify.com/track/4TGfQRisk1rx5P3SRj79sk) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Reggae Greats \- Toots & The Maytals](https://open.spotify.com/album/5KcovfuEj1xrN4CHvWpcuM) | 3:07 | 2021-03-15 |  |
 | [Só Danço Samba](https://open.spotify.com/track/6jJrEyRWPaURJbPh4P4ybz) | [Os Cariocas](https://open.spotify.com/artist/1FbL4RGqW5gvZ2kZNGdfpA) | [Pure Bossa Nova](https://open.spotify.com/album/52G6kzmnMumKmdJuL0Tim5) | 1:53 | 2021-03-15 | 2023-02-14 |
 | [Só Danço Samba](https://open.spotify.com/track/2L4EU1yLAVMqcq7O57FS6c) | [Os Cariocas](https://open.spotify.com/artist/1FbL4RGqW5gvZ2kZNGdfpA) | [O Melhor De Os Cariocas](https://open.spotify.com/album/1tboqfpdObbxRk6BOkATsW) | 1:54 | 2021-03-15 | 2022-07-29 |
 | [Só Danço Samba](https://open.spotify.com/track/1pyGUGxLVZcWrwpQ8AJxaq) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto](https://open.spotify.com/album/08HyQbnGbDvcZmEM5hPRrr) | 3:34 | 2021-03-15 | 2022-07-29 |

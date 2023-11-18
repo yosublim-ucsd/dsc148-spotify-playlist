@@ -4,7 +4,7 @@
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-266 songs - 13 hr 55 min
+267 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,8 +76,9 @@
 | [El Bigote](https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:51 | 2021-10-22 |  |
 | [El Diablo En Una Botella](https://open.spotify.com/track/24U4LRx3ez5uVOxtLNqXUj) | [Banda Roja de Jose Leon](https://open.spotify.com/artist/67bO7kB94i0H7Uh76zvLI5) | [Canciones Tristes Canciones](https://open.spotify.com/album/64oyiTX47Tn1WxQ3OLtxYl) | 3:01 | 2023-08-08 |  |
 | [El Disgusto](https://open.spotify.com/track/7m62E9JAXqUwJeQz4WjLzv) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [16 Bandazos de Oro](https://open.spotify.com/album/3vvyIFJn2hM6I2L5A2WdWg) | 3:07 | 2021-10-22 |  |
+| [El Domingo Se Casa](https://open.spotify.com/track/1GAYDRFBxQDkpe4BT2M2kv) | [Banda San Miguel](https://open.spotify.com/artist/3t9TbuyBScRR9dOG4Yo7CG) | [Lo Mejor de lo Nuestro](https://open.spotify.com/album/71hwjNty3bVhTj8DwodqN4) | 2:35 | 2023-10-11 |  |
 | [El Domingo Se Casa](https://open.spotify.com/track/5HPIaNpIPbZYlSzIuTcwND) | [Banda San Miguel](https://open.spotify.com/artist/3t9TbuyBScRR9dOG4Yo7CG) | [La Gran Historia Vol\. 1](https://open.spotify.com/album/3AjDSQHKqkrHMgv44Esfen) | 2:37 | 2023-08-08 | 2023-09-22 |
-| [El Domingo Se Casa](https://open.spotify.com/track/6tZma2Sjq6saLNfZn6hVKr) | [VALDO Y EL GALLITO](https://open.spotify.com/artist/3gqW6vUKKMFp26HCkiDPG5) | [Los Originales de la Banda](https://open.spotify.com/album/5LI4DvSJ2L99L8Ky7tuOEI) | 2:38 | 2023-08-08 |  |
+| [El Domingo Se Casa](https://open.spotify.com/track/6tZma2Sjq6saLNfZn6hVKr) | [VALDO Y EL GALLITO](https://open.spotify.com/artist/3gqW6vUKKMFp26HCkiDPG5) | [Los Originales de la Banda](https://open.spotify.com/album/5LI4DvSJ2L99L8Ky7tuOEI) | 2:38 | 2023-08-08 | 2023-11-18 |
 | [El Final De Nuestra Historia](https://open.spotify.com/track/31REg67eoHJSvMLUcEmGNj) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:15 | 2021-10-22 | 2022-07-29 |
 | [El Final De Nuestra Historia](https://open.spotify.com/track/7kofJygFUxxmag4EAYcCG3) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Íconos 25 Éxitos](https://open.spotify.com/album/3aFP6ikpIxjW9FzTAktQ1t) | 3:17 | 2021-10-22 |  |
 | [El Guapo](https://open.spotify.com/track/3AhaXfZ5yQIlFWrsE0Roz0) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:06 | 2021-10-22 |  |

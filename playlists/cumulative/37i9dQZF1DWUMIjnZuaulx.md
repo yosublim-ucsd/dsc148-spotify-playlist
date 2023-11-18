@@ -4,7 +4,7 @@
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover: <a href="spotify:artist:4sgW8IRub0jAU29ecct87w">Anthony Brown & group therAPy</a>
 
-394 songs - 1 day 10 hr 12 min
+395 songs - 1 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Do It Now \(feat\. Dominique Thompson\)](https://open.spotify.com/track/7nWkd4MCZS89qDOc5zGfbf) | [Jason Clayborn & The Atmosphere Changers](https://open.spotify.com/artist/6BGuum32mzutRF9wKRdOJg), [Dominique Thompson](https://open.spotify.com/artist/7dRIIzkMXWQI9n7g3MNDGu) | [God Made It Beautiful](https://open.spotify.com/album/75vGEkrjKlWnDC8q8v5GmY) | 6:24 | 2022-02-18 | 2022-04-02 |
 | [Done It For Me](https://open.spotify.com/track/0D05cnjGXNHVRDdeNGYubI) | [Josh Copeland](https://open.spotify.com/artist/03g32kjZ1CsP35h9HYPesz) | [Done It For Me](https://open.spotify.com/album/3gHHdq3vociqzqFllMMFdU) | 3:22 | 2022-08-05 | 2023-07-29 |
 | [Down At The Cross \- Live](https://open.spotify.com/track/6ajT3LyPHVRNwUc4KbG4Wx) | [Bishop Leonard Scott](https://open.spotify.com/artist/5hBHhFHuxrQ5CjjTBTRChW) | [Down At The Cross \(Live\)](https://open.spotify.com/album/2YpgSl5innS5tnnqLBekhn) | 3:58 | 2023-03-24 | 2023-08-26 |
+| [Emmanuel, You Are Worthy \- Live](https://open.spotify.com/track/6lwmO3vmw1ok9jRS44WvVB) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Emmanuel, You Are Worthy \(Live\)](https://open.spotify.com/album/3LvgLk0irfEjTC0q8TO0t2) | 5:15 | 2023-11-17 |  |
 | [Empowered 2 Impact](https://open.spotify.com/track/1IllKEACnf7TuHfjJiGnit) | [Strong Tower Church](https://open.spotify.com/artist/3qDZxE0fAVLrcb6NDWYd85), [Freddy Rodriguez](https://open.spotify.com/artist/2UpMh5qbBdfwKpQALaGPsD) | [“Waves” Fresh Wind New Waves](https://open.spotify.com/album/6K4hYZknIx3l7mxBXbAi4p) | 3:52 | 2022-02-18 | 2022-10-30 |
 | [Even If](https://open.spotify.com/track/1CdGYditK1Cg4QJrOQ1Zch) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV) | [Even If](https://open.spotify.com/album/7eOcKC8P9RRenLLRUWREJA) | 5:48 | 2023-09-22 |  |
 | [Every Blessing \- Live](https://open.spotify.com/track/2s3VW5hoQSBq1lyBhf1FkN) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Transitions \(Live\)](https://open.spotify.com/album/5mD4kziOFHDka8m5xqFSzV) | 5:00 | 2022-10-28 |  |
@@ -383,7 +384,7 @@
 | [Whole World In His Hands \- Radio Edit](https://open.spotify.com/track/0rjbJ8JndyEfNt1CpG3Axo) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Whole World In His Hands \(Radio Edit\)](https://open.spotify.com/album/7oCXdcThzsGBimJDimAyKw) | 3:39 | 2022-06-03 | 2022-10-08 |
 | [Winning](https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Winning](https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs) | 6:00 | 2022-09-02 |  |
 | [With My Hands](https://open.spotify.com/track/5Lqz5GyhOwfwbSQLX7KJGp) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Micah Stampley](https://open.spotify.com/artist/32HUki1MDatCzJlahnhjqK) | [With My Hands](https://open.spotify.com/album/3f4uAnNYCz9xizRrqhjvDZ) | 5:50 | 2022-02-18 | 2022-03-26 |
-| [Witness \(Live\)](https://open.spotify.com/track/53aiBMhVOXiS01zVGcuzPF) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Cristabel Clack](https://open.spotify.com/artist/56Yt4ZJKPJohGDQmn32w4Y) | [Worship Anywhere: Live from Camp NewBreed](https://open.spotify.com/album/5BCKzBSDLSpS7RHBgmgExp) | 11:04 | 2022-10-07 |  |
+| [Witness \(Live\)](https://open.spotify.com/track/53aiBMhVOXiS01zVGcuzPF) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Cristabel Clack](https://open.spotify.com/artist/56Yt4ZJKPJohGDQmn32w4Y) | [Worship Anywhere: Live from Camp NewBreed](https://open.spotify.com/album/5BCKzBSDLSpS7RHBgmgExp) | 11:04 | 2022-10-07 | 2023-11-18 |
 | [Wonder \(feat\. Le'Andria Johnson\)](https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Oil + Water](https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX) | 4:03 | 2022-02-18 | 2022-04-16 |
 | [Work Together](https://open.spotify.com/track/62RFU3SmRioXtOLWx12pbN) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [Work Together](https://open.spotify.com/album/4yQF1DNd0d3iBGiIBZ1ZGR) | 5:30 | 2023-06-23 | 2023-07-22 |
 | [World On Fire \(feat\. Ryan Avery\)](https://open.spotify.com/track/5prMdiyfZQz4mpusWW8HNy) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Ryan Avery](https://open.spotify.com/artist/4auBKSXLD4GLUiA9zh1vFS) | [World On Fire \(feat\. Ryan Avery\)](https://open.spotify.com/album/2xWbI2DYwO25IrmsJf7LDu) | 3:03 | 2022-06-24 | 2023-04-29 |

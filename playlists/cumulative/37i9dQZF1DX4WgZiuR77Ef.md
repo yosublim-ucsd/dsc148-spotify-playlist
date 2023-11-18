@@ -4,7 +4,7 @@
 
 > New funky songs with a classic funky sound\. Cover: Lettuce
 
-216 songs - 15 hr 8 min
+219 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Groove for the Ques](https://open.spotify.com/track/2XarYi1aq7MvLQPkYvwPrs) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Groove for the Ques](https://open.spotify.com/album/3jSyt4UEGu3gUaeaGpt4pO) | 4:47 | 2021-06-18 |  |
 | [Gumbo](https://open.spotify.com/track/70UPa0pzNUMKcRcq8JZ0YZ) | [The Gold Magnolias](https://open.spotify.com/artist/52YDbdT312mNbnVxG52i1d) | [Ready to Run](https://open.spotify.com/album/51TDlrWxFYRtIvu49Bbm3Z) | 4:54 | 2020-10-30 |  |
 | [Hangin' with My Baby](https://open.spotify.com/track/3ZoLqDFPHCyq4jeIMHBODq) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Soul Side of Town](https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ) | 5:28 | 2020-10-30 | 2022-04-09 |
-| [Hard Up](https://open.spotify.com/track/2r5zwMQ5dKB04MqVfc0IeH) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up](https://open.spotify.com/album/7BwuJqR6TBtothKdN6TY72) | 4:15 | 2020-10-30 |  |
+| [Hard Up](https://open.spotify.com/track/1Wb09hTo6O41UzdOq7Pd2i) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/2sQ1tG5dvAZFQVa5HaI3Hy) | 4:15 | 2020-10-30 |  |
+| [Hard Up](https://open.spotify.com/track/2r5zwMQ5dKB04MqVfc0IeH) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up](https://open.spotify.com/album/7BwuJqR6TBtothKdN6TY72) | 4:15 | 2020-10-30 | 2023-11-18 |
 | [Hazel](https://open.spotify.com/track/25fq8Rq28dNyC4VWCFs8uN) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Hazel](https://open.spotify.com/album/2O5A8VHIlLf8OEQeNtquwU) | 4:01 | 2022-05-06 | 2022-07-29 |
 | [Hazel](https://open.spotify.com/track/45VqSJIZ9xUH2x7uyjdIIQ) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Lost Knights](https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi) | 4:01 | 2022-05-06 |  |
 | [He Said / She Said](https://open.spotify.com/track/023p4igqYASZMpUNJ8hhLY) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [He Said / She Said](https://open.spotify.com/album/1uTAS2OGXRBxLPT382dWTA) | 4:01 | 2020-10-30 | 2023-04-09 |
@@ -141,7 +142,8 @@
 | [Never Coming Down](https://open.spotify.com/track/19IwWASH8eydtU2qIgTLGT) | [The Next Movement](https://open.spotify.com/artist/3o22jwVEWoJFyDIXzPlWrP) | [Never Coming Down](https://open.spotify.com/album/370Zhy11smbAyJ6tLAgt1g) | 4:15 | 2023-05-26 |  |
 | [New York Beat \(feat\. Lucinda Slim\)](https://open.spotify.com/track/17YDXy3iaj6De4pcCyxlGB) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu), [Lucinda Slim](https://open.spotify.com/artist/5evjncuGxkRaUy6f6DNO0g) | [One of These Days](https://open.spotify.com/album/2hs8mdiV2Ace1WZKt9IPJ8) | 4:55 | 2020-10-30 | 2022-04-09 |
 | [Night Time](https://open.spotify.com/track/2zOdVxcYXq7i04m7gnrsr0) | [Mr President](https://open.spotify.com/artist/0vxQClb5BOpAPfYZl1l0fR), [Sabba MG](https://open.spotify.com/artist/4AUMNpNUkYFFEVtqO4htFl) | [Going to a Go Go \(feat\. Sabba MG\)](https://open.spotify.com/album/7AR2FIp2T12MUO73HI65tK) | 6:42 | 2020-10-30 | 2022-04-09 |
-| [Nothing I Wanna Know About](https://open.spotify.com/track/1QPkENda17YtGTbtYOrAL1) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Nothing I Wanna Know About](https://open.spotify.com/album/3r5BxCunystsYCUstSbjYF) | 4:07 | 2021-04-09 |  |
+| [Nothing I Wanna Know About](https://open.spotify.com/track/1QPkENda17YtGTbtYOrAL1) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Nothing I Wanna Know About](https://open.spotify.com/album/3r5BxCunystsYCUstSbjYF) | 4:07 | 2021-04-09 | 2023-11-18 |
+| [Nothing I Wanna Know About](https://open.spotify.com/track/25nVJKeHsqMDnxwXXy4kgt) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/2sQ1tG5dvAZFQVa5HaI3Hy) | 4:07 | 2021-04-09 |  |
 | [Oh Savanna](https://open.spotify.com/track/4t9wvTjyCItyNZvWNVEBIA) | [Tom McGuire & the Brassholes](https://open.spotify.com/artist/7JnJgTo8cCtAQmtC0cJyjp) | [Oh Savanna](https://open.spotify.com/album/5PI3OTvt9Hu697p2dk2yJV) | 4:52 | 2021-05-21 |  |
 | [On My Own](https://open.spotify.com/track/5n75cdCzSqlfFsk1hZ4ery) | [Mood FM](https://open.spotify.com/artist/6jbsBs3Wc3EsbCX8IMO34F) | [The Woodside Series](https://open.spotify.com/album/3nLa9mIsi96Bzg3Jkob8bS) | 4:50 | 2020-10-30 | 2022-04-09 |
 | [On The Back Foot](https://open.spotify.com/track/1A7DTW3JyeCdUDpIqZS9fm) | [Ryan Prewett](https://open.spotify.com/artist/0hBE2OEnt0liysUwP4ZaEj), [Tyler Flowers](https://open.spotify.com/artist/2oMNeoWmefA167itF7EVZY) | [On The Back Foot](https://open.spotify.com/album/17ReFzA4bABwTN7tOghfwG) | 3:20 | 2022-03-11 |  |
@@ -153,7 +155,8 @@
 | [Perpetual Conduit of Positivity](https://open.spotify.com/track/5Zx3OUrH7UjnDPkVGlQpnV) | [Mojoflo](https://open.spotify.com/artist/4aFQlnbkc73QGmqlw5N9ED) | [Perpetual Conduit of Positivity](https://open.spotify.com/album/2CQXUHTqVMPts2S6TxHQaC) | 5:51 | 2020-10-30 | 2023-04-29 |
 | [Pick Up On Your Line](https://open.spotify.com/track/6SLHenZf92A605uJP5dURV) | [Jurassik Funk](https://open.spotify.com/artist/3btloSh9XNNgniuk85Z6x0) | [Jurassik Funk](https://open.spotify.com/album/3FEaeCc3jkyhxLTcccutcQ) | 4:46 | 2020-10-30 | 2022-04-09 |
 | [Pocket \(Radio Edit\)](https://open.spotify.com/track/4QtS7BCHG2jO3ka89o2eed) | [The Lionyls](https://open.spotify.com/artist/28XiFctnEifvmTgCxFGOJU) | [Pocket \(Radio Edit\)](https://open.spotify.com/album/7IeXmD7Qhgz7uvrHprmV4q) | 3:47 | 2020-10-30 | 2022-04-09 |
-| [Power Without Greed](https://open.spotify.com/track/1r0nn0QF5tNJDtzoIj2mIB) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Power Without Greed](https://open.spotify.com/album/3fS1sPIokWl3Mzld0YGsXN) | 3:58 | 2020-10-30 |  |
+| [Power Without Greed](https://open.spotify.com/track/1lbsfDpGi4DTQRfNmoRN20) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/2sQ1tG5dvAZFQVa5HaI3Hy) | 3:58 | 2020-10-30 |  |
+| [Power Without Greed](https://open.spotify.com/track/1r0nn0QF5tNJDtzoIj2mIB) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Power Without Greed](https://open.spotify.com/album/3fS1sPIokWl3Mzld0YGsXN) | 3:58 | 2020-10-30 | 2023-11-18 |
 | [Prince Of Something](https://open.spotify.com/track/4dzTAP52fk1dxxBARWkhZv) | [Jank Setup](https://open.spotify.com/artist/0Qk6tRQWQcA1YENkF0HIXZ) | [Look Who's Talking](https://open.spotify.com/album/0KwBrO0s9dYwXv3lmAm4JW) | 3:46 | 2022-03-18 |  |
 | [Pushin' On](https://open.spotify.com/track/3nPUw7RAT82QX2Yg1awMuM) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [Pushin' On](https://open.spotify.com/album/5NL85zevDT2D9Rx8M1rMno) | 3:19 | 2020-10-30 | 2023-04-29 |
 | [Pushin' On](https://open.spotify.com/track/7LiC67aNpgqxkZJPC49UjM) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [Pushin' On](https://open.spotify.com/album/1uYaIjqXcqrCLIeA0syxar) | 3:19 | 2020-10-30 | 2023-05-27 |

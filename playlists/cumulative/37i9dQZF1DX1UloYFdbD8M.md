@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Thaikkudam Bridge
 
-129 songs - 9 hr 0 min
+130 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Chekuthan](https://open.spotify.com/track/5Zoe8tHOVTMOzeapdpQeYL) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan](https://open.spotify.com/album/0HH6caLXMV6xudGoXkFn9q) | 2:48 | 2022-12-22 |  |
 | [Chekuthan \(Reprise\)](https://open.spotify.com/track/6N0Z9weSdoXUzL0wbqQD4h) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan \(Reprise\)](https://open.spotify.com/album/6Qz3dfZLUwwyvzd6JHxUPa) | 1:40 | 2022-09-06 | 2023-07-28 |
 | [Chiriye Chiriye](https://open.spotify.com/track/3cFiMWOmoBPnv8bCsKj75O) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Chiriye Chiriye](https://open.spotify.com/album/5w4BOdik9aFINcA9tHsT6X) | 4:31 | 2023-06-19 | 2023-07-28 |
-| [Dhoore](https://open.spotify.com/track/6den5JW5dn0hLrhnD9UkQS) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Dhoore](https://open.spotify.com/album/6VNO3pELBmVoivHKhoV9I3) | 3:30 | 2023-10-10 |  |
+| [Dhoore](https://open.spotify.com/track/6den5JW5dn0hLrhnD9UkQS) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Dhoore](https://open.spotify.com/album/6VNO3pELBmVoivHKhoV9I3) | 3:30 | 2023-10-10 | 2023-11-18 |
 | [En Sadhai](https://open.spotify.com/track/7zbAkNH3VPpgQlUVA60Dzn) | [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ), [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [En Sadhai](https://open.spotify.com/album/42S7j3CTmtlgfe1vYATMF1) | 2:36 | 2023-07-27 |  |
 | [Enthavo](https://open.spotify.com/track/16Ijfdrq8MPcCZoky28NVP) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Enthavo](https://open.spotify.com/album/1KubOLlcV8zJ21veewmxp1) | 3:39 | 2022-12-27 |  |
 | [Eppo Varuvaro + Kimkim](https://open.spotify.com/track/306LQyajNTdFu8kfzF2suV) | [Sudeep Palanad](https://open.spotify.com/artist/5gEbn8GU8GPvl5V7nnbHF3), [Remya Vinayakumar](https://open.spotify.com/artist/5r5NmEm8qG0QsBas0EKKjI) | [Eppo Varuvaro + Kimkim](https://open.spotify.com/album/0oWPcz6SiFyEUTAC1UXnHa) | 3:57 | 2023-10-06 |  |
@@ -99,6 +99,7 @@
 | [Oombalum Kanjiyum](https://open.spotify.com/track/5VmM4mDYJQ0Y0lEWWDEMXr) | [Malayali Monkeys](https://open.spotify.com/artist/6d3qaRXhI6yFy5MgYQ56qI) | [Oombalum Kanjiyum \- From "Think Indie"](https://open.spotify.com/album/2mPXGVd0rEORx5W7GfTRcm) | 4:08 | 2023-10-03 |  |
 | [Oorakkudukku](https://open.spotify.com/track/6OPImTghaIDMXtdqDz99yL) | [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [Oorakkudukku](https://open.spotify.com/album/3tFnGHwmww7ORL8nIQJddU) | 2:33 | 2023-05-26 | 2023-07-28 |
 | [Oru January](https://open.spotify.com/track/0YuwGkDbm0RzREWYaAfPfP) | [Bineetha Ranjith](https://open.spotify.com/artist/0hYeiOpfSvwJ6IvJPy9aHD) | [Oru January](https://open.spotify.com/album/1PVGkTGupgo1USnoeYfYuM) | 4:42 | 2023-09-12 | 2023-10-27 |
+| [Pa Pe Po...](https://open.spotify.com/track/3SBRVu9lB1QE1ji8BuPNtn) | [Amrutam Gamay](https://open.spotify.com/artist/4MtxFkOd1X7pmg07ngQTc5), [Amritha Suressh](https://open.spotify.com/artist/0gWXs0seQiEHCZJiH07xfk), [Abhirami Suresh](https://open.spotify.com/artist/6sPuCo5n7PaYPjd2S3m2K5) | [Pa Pe Po…](https://open.spotify.com/album/2A74441osOofLBpnQucu2F) | 4:38 | 2023-11-17 |  |
 | [Padayatra \- Live](https://open.spotify.com/track/2PDaNC5MT6HZYE52HYHyjo) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Padayatra \(Live\)](https://open.spotify.com/album/2i97iGps3MYG1kG87i3be1) | 4:50 | 2022-06-23 |  |
 | [Palavidham](https://open.spotify.com/track/0I9fnx3ubOqy1T4IvLf4He) | [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp) | [Palavidham](https://open.spotify.com/album/7uVQSl9yYgyy7ax92Zp8lf) | 3:04 | 2023-09-05 |  |
 | [Parayathe Parayunna](https://open.spotify.com/track/0q5vrVopEWT359duzBEBPV) | [Nikhil Chandran](https://open.spotify.com/artist/5PNeVXZSF6jNVjvA9NGk9B) | [Parayathe Parayunna](https://open.spotify.com/album/6Hgtk1jJYSi8Fe3GxtzkyA) | 4:17 | 2022-06-23 | 2023-07-28 |

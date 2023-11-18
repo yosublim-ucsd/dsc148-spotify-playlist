@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 
 > Beach vibes and summer jams only.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,936 likes - 238 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,078 likes - 238 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 3 | [Arraial Da Ajuda](https://open.spotify.com/track/7CFOFPykUPagxBUwa7D0AQ) | [Estelas](https://open.spotify.com/artist/2fVSVXAO5UftuzBca9SZQ6) | [Arraial Da Ajuda](https://open.spotify.com/album/0Ok5qEMTp8NBbxvWWJFa3V) | 2:45 |
 | 4 | [Resurrected](https://open.spotify.com/track/3kSNdHcFAtT2PRIDhhEfPf) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [Resurrected](https://open.spotify.com/album/3Mu69V1Epb8T2he3BcYhnc) | 2:06 |
 | 5 | [same dream](https://open.spotify.com/track/6amvFwenSMBzEliXcGIduy) | [sozin](https://open.spotify.com/artist/0XO6mvpyaIdmGMmpsTtyIj) | [same dream](https://open.spotify.com/album/2jbEgDxCtcvhPIm7R37HZu) | 2:21 |
-| 6 | [sweet and lovely](https://open.spotify.com/track/4aawMY32xXkK6QE4bT9enl) | [Home Cook](https://open.spotify.com/artist/5ywJbIqM6CaNHrhfRLKe8O) | [sweet and lovely](https://open.spotify.com/album/37LgQgs2KUdB4UcsH4so58) | 2:15 |
+| 6 | [sweet and lovely](https://open.spotify.com/track/4aawMY32xXkK6QE4bT9enl) | [Home Cook](https://open.spotify.com/artist/5ywJbIqM6CaNHrhfRLKe8O), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [sweet and lovely](https://open.spotify.com/album/37LgQgs2KUdB4UcsH4so58) | 2:15 |
 | 7 | [Jazz Hands](https://open.spotify.com/track/5XHdUoAA96TKnA4NObcGtj) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Technological Jazz](https://open.spotify.com/album/0z71M5doa8M9G39UIWiSTl) | 1:09 |
 | 8 | [nightfall](https://open.spotify.com/track/5ecjLNs1mY61pMIA4XQRut) | [Antennaah](https://open.spotify.com/artist/6KiVH2JCfM9KczjORaXjGj) | [nightfall](https://open.spotify.com/album/0i7GY4fhjgv1aAuVlxNY1b) | 2:27 |
 | 9 | [Body Movement](https://open.spotify.com/track/7KpPlRp8jYjuuBtTTW4sSd) | [Left spectrum of the brain](https://open.spotify.com/artist/2V4bATfnJA7PSFW11WdN4S) | [Body Movement](https://open.spotify.com/album/1oKz31JFwmP6zNrt4CIIz1) | 2:12 |
@@ -247,4 +247,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtuVQL4zoey.md) - [plain]
 | 237 | [Vacation](https://open.spotify.com/track/3SPpqRQdEQAywU8fRKrWqx) | [franz.](https://open.spotify.com/artist/2iNqhG5SC3ZAG6KpHM3HIk) | [Vacation](https://open.spotify.com/album/6vokRNRSXc9420XmveNnHP) | 2:57 |
 | 238 | [pinecone](https://open.spotify.com/track/0Ef6Q0Cav49AL4xhPlXSZg) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/2ASnBB18wyCJJnk0NIlM0p) | 1:55 |
 
-Snapshot ID: `MCwxYjczOGVhNzQwYWIwZjE2MTE1MjAzNGViMDVmYjBhOGU4Y2ZhNDg1`
+Snapshot ID: `MCxhZDIxNzNjYjNhYjgxOTY5ZWNiYjRiNThjZWE4ZDk3YzczYjE4ZDVh`

@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: André van Duin
 
-131 songs - 8 hr 15 min
+132 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Anne](https://open.spotify.com/track/33fJyGfQksR6hDzJCJUkrg) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 3:45 | 2023-02-10 |  |
 | [As De Liefde Mar Blef Winnen](https://open.spotify.com/track/28KSDPZ1tieVjSkoudLyO7) | [Daniël Lohues](https://open.spotify.com/artist/5hmWcPzWxojagG5Q8IMrI6) | [Allennig II](https://open.spotify.com/album/5xuU03xNkEgx3gQBWDq87f) | 2:56 | 2023-02-10 | 2023-11-11 |
 | [Avond](https://open.spotify.com/track/5Gc1NPkUBjkARUkH1Giwvh) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Een Nieuwe Herfst](https://open.spotify.com/album/42aDAwpl9kwSea1a8KRiL6) | 4:36 | 2023-02-10 |  |
-| [Ballade Van De Noordoosterwind](https://open.spotify.com/track/5TSfw0nAkJ6kJOD1RYhX9N) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Ballade Van De Noordoosterwind](https://open.spotify.com/album/2DLcgd2uZSptIORd1Dxkl4) | 3:12 | 2023-02-10 |  |
+| [Ballade Van De Noordoosterwind](https://open.spotify.com/track/5TSfw0nAkJ6kJOD1RYhX9N) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Ballade Van De Noordoosterwind](https://open.spotify.com/album/2DLcgd2uZSptIORd1Dxkl4) | 3:12 | 2023-02-10 | 2023-11-18 |
 | [Bedankt](https://open.spotify.com/track/7FkzmpfyTGOJjqD0WLFMsY) | [Geejee](https://open.spotify.com/artist/2jysfxpRRcfGOxuhSFV5CH) | [Bedankt](https://open.spotify.com/album/7J3xT2IyPpLMxxZcipF98F) | 4:03 | 2023-02-10 |  |
 | [Bedankt Voor Alles](https://open.spotify.com/track/2uPLhDI0T71NTeG0Q2gQ08) | [Kenny B](https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Bedankt Voor Alles](https://open.spotify.com/album/3T5LM45q5lptm3dz9x6r9h) | 4:30 | 2023-02-10 | 2023-05-12 |
 | [Beter In Herinnering](https://open.spotify.com/track/02vnlVFETKHKazMICFvJWA) | [Iris Penning](https://open.spotify.com/artist/44MTZ4Gl4TGilst3cCDq9G) | [Dan Maar Genieten](https://open.spotify.com/album/0P1ywNbYXVAXt5zca1EIsm) | 3:20 | 2023-02-10 | 2023-11-11 |
@@ -42,6 +42,7 @@
 | [De Weg](https://open.spotify.com/track/3UY1sWsqEYx7fgRBU0ItF7) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [De Weg](https://open.spotify.com/album/7n9NfMSnYi59u7vGSelWAn) | 3:19 | 2023-02-10 |  |
 | [Door De Wind](https://open.spotify.com/track/3h7NZT1CATbn4GqUs51vwf) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2020 \(Miss Montreal\)](https://open.spotify.com/album/6g8ZS309YWXN7pUzfBQYhB) | 2:50 | 2023-02-10 |  |
 | [Dorp Van Hop En Van Mout](https://open.spotify.com/track/0LIjzIgfv2K3zanAiJgNKc) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Dorp Van Hop En Van Mout](https://open.spotify.com/album/4ZlSQQ2ZKjcN5tQ3sU1pDm) | 4:52 | 2023-10-12 |  |
+| [Elke Dag](https://open.spotify.com/track/11xhfbAwIjBtionnAFdbNf) | [Ten Sharp](https://open.spotify.com/artist/0ap24Mjt6qlze8v667KlaF) | [Elke Dag](https://open.spotify.com/album/4HdHIIuRPiIvRKCKtfAty5) | 2:59 | 2023-11-16 |  |
 | [Elke Seconde](https://open.spotify.com/track/41Y8FqhbSRNEqsK47Ks7xW) | [Belinda Kinnaer](https://open.spotify.com/artist/3MHjbcGUxFSEHexlD4csSF) | [Elke Seconde](https://open.spotify.com/album/4i6m3BW07pUoAuWd4IFP4c) | 3:43 | 2023-02-10 | 2023-03-18 |
 | [Er Wordt Op Je Gewacht](https://open.spotify.com/track/59L9doBK0VFybuPglXAqzo) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Er Wordt Op Je Gewacht](https://open.spotify.com/album/4b9Jjg3fjdBiZ2EMQzJQWp) | 3:35 | 2023-02-10 |  |
 | [Even voorgoed](https://open.spotify.com/track/4C7Opc7GkOln45lwSUqsaT) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Even voorgoed](https://open.spotify.com/album/0BbM1K1A00wIpkX4H9cq3q) | 3:18 | 2023-02-10 |  |

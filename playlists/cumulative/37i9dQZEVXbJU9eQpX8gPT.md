@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,237 songs - 2 day 20 hr 8 min
+1,238 songs - 2 day 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Badi 7efyan](https://open.spotify.com/track/1PBmigvgEtx36XPYGlCh4Z) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Badi 7efyan](https://open.spotify.com/album/0MebtWhPlCLOp39Vid4OJi) | 2:39 | 2022-10-05 | 2022-11-06 |
 | [Baka Baka](https://open.spotify.com/track/06iTnb5otqzyG3Y1wUnIjW) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [360](https://open.spotify.com/album/398Fh5aL7eVdWRNosUR6pm) | 2:47 | 2021-05-23 | 2021-05-26 |
 | [Balader](https://open.spotify.com/track/6PrB4KpvuoYWtwjPC5a44S) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:56 | 2022-07-09 | 2023-01-07 |
+| [Ballad to a Mexican Desert](https://open.spotify.com/track/7LRb64oDLYYDPEoeuLAIVJ) | [Yehezkel Raz](https://open.spotify.com/artist/31klRMTQJ94NrxwIZJwJBY), [Sivan Talmor](https://open.spotify.com/artist/4OuNFhB4UqOVluGG75fiWd) | [Vol\. 4 \- Flying Above the Sun](https://open.spotify.com/album/2ECjH9xkBk4KD3fawcpFEe) | 3:09 | 2023-11-17 |  |
 | [Basta Baila](https://open.spotify.com/track/758mC7LTvS4Eqgr06egv9U) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 3:16 | 2021-05-09 | 2021-05-14 |
 | [Batal L3alam](https://open.spotify.com/track/4yEDdEd4N8eIuntHLlg0MF) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Weld Fatima II](https://open.spotify.com/album/6La450FX0EOdrjQzlWuNrF) | 5:49 | 2021-06-23 | 2021-07-30 |
 | [Batard](https://open.spotify.com/track/7wKVfUXSYpxah188rU3Bud) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 2:51 | 2021-10-03 | 2021-10-18 |
@@ -924,7 +925,7 @@
 | [Quds](https://open.spotify.com/track/6MbAU3YH5svz91wuwPjMTa) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Quds](https://open.spotify.com/album/2ff8tYSAcQVAbOCWSIX83c) | 3:44 | 2021-06-11 | 2021-06-24 |
 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 | 2022-12-12 | 2022-12-22 |
 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Taulier](https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ) | 3:10 | 2023-02-11 |  |
-| [R.I.P](https://open.spotify.com/track/4dUiCEFw6hzX1EIHeN0x8J) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Lmektoub](https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB) | 3:19 | 2023-06-24 |  |
+| [R.I.P](https://open.spotify.com/track/4dUiCEFw6hzX1EIHeN0x8J) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Lmektoub](https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB) | 3:19 | 2023-06-24 | 2023-11-18 |
 | [R9R\-LINE \(feat\. Damso\)](https://open.spotify.com/track/4QoZVMhE66MDCd0igG0hd6) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 2:39 | 2021-07-18 | 2021-07-24 |
 | [RABAT VIE](https://open.spotify.com/track/4r8IYwq9D06hWz2GWXkoBL) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb), [Mobydick](https://open.spotify.com/artist/1GJFMvl7YNCHPCFbIJfoXz) | [VENOM](https://open.spotify.com/album/3jPxi5bJXFvXcZIizrmoZe) | 6:44 | 2022-08-13 | 2022-08-19 |
 | [Race My Mind](https://open.spotify.com/track/2Q3jFbyE61mCjS3SkW4toJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:29 | 2021-09-05 | 2021-09-06 |

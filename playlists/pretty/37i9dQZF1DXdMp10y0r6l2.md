@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 
 > El infierno hecho ruido\. Bienvenido al culto de La Bestia\. Brujería en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,622 likes - 78 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,882 likes - 78 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 | 10 | [The Werewolf Is Here](https://open.spotify.com/track/5pWHn0AgLhoPL3daPyA7qa) | [Cinthyablackcat](https://open.spotify.com/artist/3OGmEFsTXv9GNQOi8LPoVM) | [Cinthya Blackcat](https://open.spotify.com/album/2Cj46M1JbcqOVom2z4VX2V) | 3:47 |
 | 11 | [We’ll Be Back](https://open.spotify.com/track/1Ap9wotYS99H8R17VONySZ) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The Sick, The Dying… And The Dead!](https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC) | 4:29 |
 | 12 | [Crystallized](https://open.spotify.com/track/3ctwSUWZthMTGyfzg7tKsb) | [Strike Master](https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09) | [Crystallized](https://open.spotify.com/album/1Fg205cxocQXFvnOSC12TP) | 3:01 |
-| 13 | [Jaded](https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif) | 4:22 |
+| 13 | [Jaded](https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU) | 4:22 |
 | 14 | [Putrid Angels Ritual](https://open.spotify.com/track/6dJgBHIF22OQh1FvvCpGRC) | [Vulcano](https://open.spotify.com/artist/7qfrFvOUlXFc8Xzhn8I1p7) | [Stone Orange](https://open.spotify.com/album/3wPt30rdfVoejHwRKcjBfd) | 2:33 |
 | 15 | [YNQHDD](https://open.spotify.com/track/4sDf40sVxvH3RsjxcvfJv4) | [Satón](https://open.spotify.com/artist/5Nvf8jPVGMPh1reinByBW5) | [YNQHDD](https://open.spotify.com/album/67aZwMEYsT0ZQvyDKml7hJ) | 4:45 |
-| 16 | [Torments of My Past](https://open.spotify.com/track/0w32lrkgtivPVLyQR4Tlh3) | [Anna Fiori](https://open.spotify.com/artist/518MGsGqVYTk86dnrxZHX6), [Jonathan Thorpenberg](https://open.spotify.com/artist/2CjVUnYTzkQKGHx0H4OA7H) | [Torments of My Past](https://open.spotify.com/album/5nJuu9BimckMRyhlwfXFhi) | 4:08 |
+| 16 | [Torments of My Past](https://open.spotify.com/track/7s6e24nfv7Z7jaXHNhAIDx) | [Anna Fiori](https://open.spotify.com/artist/518MGsGqVYTk86dnrxZHX6), [Jonathan Thorpenberg](https://open.spotify.com/artist/2CjVUnYTzkQKGHx0H4OA7H) | [Torments of My Past](https://open.spotify.com/album/5iBhZDdaX7cieH81vFkCia) | 4:08 |
 | 17 | [Deliver Us From Evil](https://open.spotify.com/track/4xr3Pxc0E2zHxUVRcLn5oI) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [The God Machine](https://open.spotify.com/album/4aoy2NnmDpWvjWi9taOHYe) | 5:21 |
 | 18 | [Fear](https://open.spotify.com/track/2aCfgVWQZYJJdzrlF2um1p) | [Introtyl](https://open.spotify.com/artist/6Im0py5F0Y2RMJTQ6MlX6A) | [Adfectus](https://open.spotify.com/album/3Bj1bfNMhOKMPVaj0kWd2B) | 3:23 |
 | 19 | [Song for Fiona](https://open.spotify.com/track/6cXxrSAPPj39q86nufRueE) | [Minipony](https://open.spotify.com/artist/1i3TC9j04VvgX9ALEdhewt) | [Ajna](https://open.spotify.com/album/2S6L3z9EY2QIB2V1RoLBxK) | 4:58 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 | 77 | [We Will Rock You \- Udo Dirkschneider Version](https://open.spotify.com/track/5EARD3LqHo44LlvOmLJapD) | [Udo Dirkschneider](https://open.spotify.com/artist/07CIzmTuAiQk4N2OikMfbw) | [We Will Rock You \(Udo Dirkschneider Version\)](https://open.spotify.com/album/1tYRBdrU3at54ASdnsvIxj) | 3:12 |
 | 78 | [Mochado](https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Mochado](https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ) | 2:55 |
 
-Snapshot ID: `MCwxMjQwOTdlMzVkMDJjN2UzM2FkYjRjM2EzY2JjNzA1MzkxMzAwOThl`
+Snapshot ID: `MCw0OTBjOWM4YjExODBkMTE3Mjk1YWRkYmY2NzAzZTE4MGJlMTNiOWIy`

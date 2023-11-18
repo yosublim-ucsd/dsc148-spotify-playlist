@@ -9412,7 +9412,7 @@
     {
       "album": {
         "name": "SNACKS",
-        "url": "https://open.spotify.com/album/1SIljtj6TiJLEv4V9c5vxM"
+        "url": "https://open.spotify.com/album/7c17jsWUkwcqaYXpb7ayXV"
       },
       "artists": [
         {
@@ -9431,6 +9431,32 @@
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 195066,
+      "name": "Irgendwohin",
+      "url": "https://open.spotify.com/track/5WBkovIPgnge8evVpddLrh"
+    },
+    {
+      "album": {
+        "name": "SNACKS",
+        "url": "https://open.spotify.com/album/1SIljtj6TiJLEv4V9c5vxM"
+      },
+      "artists": [
+        {
+          "name": "Antje Schomaker",
+          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
+        },
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol"
+        },
+        {
+          "name": "Eva Briegel",
+          "url": "https://open.spotify.com/artist/46Ks1huLimSVHpgTUruVoj"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
       "duration_ms": 195066,
       "name": "Irgendwohin",
       "url": "https://open.spotify.com/track/7t9sJieZyAp1zCK9uP4oE0"

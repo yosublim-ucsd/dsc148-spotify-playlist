@@ -4,7 +4,7 @@
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-255 songs - 20 hr 1 min
+257 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [For You](https://open.spotify.com/track/0kVrNcwLbPFYoPCHSLDc7M) | [Michael Mayer](https://open.spotify.com/artist/5R9d1YP5jtBw2IrQItGzQI), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [&](https://open.spotify.com/album/0NkBeWqvEa5VnniPUCk4UW) | 4:26 | 2023-09-07 | 2023-10-02 |
 | [Fourth Rendez\-Vous](https://open.spotify.com/track/4ilhAiU52ZiHlfmQbmfhWq) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Rendez\-Vous](https://open.spotify.com/album/3YrKqMhEdhdvS3BrmKurFr) | 3:58 | 2022-06-14 | 2022-08-24 |
 | [Fresh Faced](https://open.spotify.com/track/2cr4hBM1L966JNlaNdkpRL) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Circles](https://open.spotify.com/album/2q78xap5Jv3j3Do0VIasVZ) | 4:42 | 2023-09-07 | 2023-10-02 |
-| [Fuck](https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe) | [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [Fuck](https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe) | 2:54 | 2022-05-27 |  |
+| [Fuck](https://open.spotify.com/track/3YpstqktwRasn3mhL2agCe) | [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [Fuck](https://open.spotify.com/album/00HQCvAcHBzoOoj1C6iMxe) | 2:54 | 2022-05-27 | 2023-11-18 |
 | [Girlhood](https://open.spotify.com/track/5WUWlMYIoMvNL35vyxNvZ5) | [Para One](https://open.spotify.com/artist/5MRONaryo2z75lLiuJ0NWJ) | [Girlhood, la bande originale de Bande de Filles](https://open.spotify.com/album/7DSHUPMJdMZ8YUTzehAzaT) | 2:28 | 2023-09-07 | 2023-10-02 |
 | [GMT](https://open.spotify.com/track/0Y3dpX5KtEdMknoP9DKWaL) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Hideous Bastard](https://open.spotify.com/album/4l3zlqIjR8K1tB1b8Yyn0f) | 3:08 | 2023-09-07 | 2023-10-02 |
 | [Han Jan \- Edit](https://open.spotify.com/track/0R7KkoK3CRaKwb9gYeH1st) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Han Jan](https://open.spotify.com/album/1roLEv2utEsKhcuKA6DnGc) | 4:02 | 2022-05-06 |  |
@@ -105,6 +105,7 @@
 | [I Go To Sleep](https://open.spotify.com/track/5Vh9M3spmCbDewUZxUmwlH) | [Anika](https://open.spotify.com/artist/6fimwBQkUgYS2HweErgxN5) | [Anika](https://open.spotify.com/album/2T0Sr4KCGXEuhd0bGhvrdL) | 3:20 | 2023-09-07 | 2023-10-02 |
 | [I'm on Top](https://open.spotify.com/track/42xl5HtTPAiHNGzUAYC6of) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [I'm on Top](https://open.spotify.com/album/3L1JG5XGlYjZp0IN7y8pMu) | 3:22 | 2023-09-07 | 2023-10-02 |
 | [Il Ballo Del Potere](https://open.spotify.com/track/1Nujfh0EUJbuzm9ILrby43) | [Milva](https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N) | [Non Conosco Nessun Patrizio!](https://open.spotify.com/album/6xPD9DwFdzmlGxI1tjPLHt) | 3:46 | 2023-09-07 | 2023-10-02 |
+| [Incapable \(Edit\)](https://open.spotify.com/track/6rOEkBFDI1NL7lZHBTnpGk) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Incapable](https://open.spotify.com/album/0OZEb4C5dYqk6ZceFEgi5S) | 3:30 | 2023-10-27 |  |
 | [Incapable \- Edit](https://open.spotify.com/track/0NkBwp6CYkUYiPeRJjlRfk) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Incapable \(Remixes\)](https://open.spotify.com/album/0ghCFyT6QNBKgTDVLY5E8b) | 3:30 | 2022-05-06 | 2022-07-29 |
 | [Indie Circus \(feat\. Seafoam Walls\)](https://open.spotify.com/track/6uIO7LPCT5kJ0ivimi1svB) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Sea Foam Walls](https://open.spotify.com/artist/32KC7H62jmp0JsyUPQVexO) | [B.E.M 2.0](https://open.spotify.com/album/1OXyE2AruMF6KLzbONrmLn) | 1:57 | 2022-05-06 | 2022-07-29 |
 | [Iron 2021](https://open.spotify.com/track/19VTLxYPvCyYpAWxsfj3ir) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [Iron 2021](https://open.spotify.com/album/6WYxdEPp7IVNMR5uBj8dRg) | 8:43 | 2022-05-06 | 2022-07-29 |
@@ -120,7 +121,7 @@
 | [Jardins Aquatics](https://open.spotify.com/track/09b0qw7zbnzZE5W23HQbgJ) | [Pep Llopis](https://open.spotify.com/artist/3VcO8Z1ws3siQr2XTZBr4e) | [Poiemusia La Nau Dels Argonautes](https://open.spotify.com/album/4mZmQu38Uh8I45AvG5qA9a) | 5:58 | 2022-06-14 | 2023-06-09 |
 | [Jardins Aquatics](https://open.spotify.com/track/17LitdKbTWpI71DOqMgogL) | [Pep Llopis](https://open.spotify.com/artist/3VcO8Z1ws3siQr2XTZBr4e) | [Poiemusia La Nau Dels Argonautes](https://open.spotify.com/album/637jDsZ6Qt8RDvCtZOezAM) | 5:58 | 2022-05-06 | 2022-07-29 |
 | [JESUS IN BERLIN](https://open.spotify.com/track/1eBGNWrnfmSCHN4IfEUqUX) | [nullzwei](https://open.spotify.com/artist/3PkWoIJrG7k4yJuGytxTds), [Chris Sigl](https://open.spotify.com/artist/5bo6pQQsgmpE3dB7ZxtXot), [BERTHAJU](https://open.spotify.com/artist/78ZYaBigpiwJBwo2owu6ks) | [JESUS IN BERLIN](https://open.spotify.com/album/3O87y5cnZk4fVJbjSfc3Xl) | 2:32 | 2023-02-10 |  |
-| [Just Us](https://open.spotify.com/track/1ldQZnqbGD1sidVaIySCOA) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Just Us](https://open.spotify.com/album/0snSWda0RrCiyRzVIca0z8) | 6:45 | 2022-06-14 |  |
+| [Just Us](https://open.spotify.com/track/1ldQZnqbGD1sidVaIySCOA) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Just Us](https://open.spotify.com/album/0snSWda0RrCiyRzVIca0z8) | 6:45 | 2022-06-14 | 2023-11-18 |
 | [Just Us](https://open.spotify.com/track/4k7XbUsvGNWkveNCFjVjbo) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Just Us](https://open.spotify.com/album/1ArxpvU1qzHK4WPeFuP7AS) | 6:45 | 2022-05-06 | 2022-07-29 |
 | [La Rua Madureira](https://open.spotify.com/track/2NTZ1nzUqueH7odDcjLq5s) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Aller\-retour](https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14) | 3:41 | 2022-05-06 |  |
 | [Larme à gauche](https://open.spotify.com/track/5I0FpjL8ntcB3Z6MA4F1IH) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Premiers émois](https://open.spotify.com/album/3VCwYQFMhuSzcuQ1B33TNZ) | 2:56 | 2022-05-06 |  |
@@ -188,6 +189,7 @@
 | [Pinnacles of You](https://open.spotify.com/track/08aiKNo2DdNxOUh9PFxEz3) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Ecstatic Computation](https://open.spotify.com/album/1hOgPjM2AP2zUJnaXmmEGb) | 5:47 | 2022-05-06 | 2023-10-24 |
 | [PLACES](https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:34 | 2022-06-14 |  |
 | [Places](https://open.spotify.com/track/6mW2IiQDrp66AUjCsRu6Kg) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [Dancehall](https://open.spotify.com/album/6WbMZYQ1SAU8HrgZSuH0xJ) | 3:34 | 2022-05-06 | 2022-07-29 |
+| [Play In The Dark](https://open.spotify.com/track/49OMN2ga2Zzs5gDytlc674) | [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Play in the Dark](https://open.spotify.com/album/1lEmoATjl2zTNpRIjuDsTz) | 4:55 | 2023-10-27 |  |
 | [Play In The Dark](https://open.spotify.com/track/4ND92kpiHy3mxvLVgFSowz) | [Seth Troxler](https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Play In The Dark](https://open.spotify.com/album/4hU3TVtRDIPFugFjCGMKEC) | 4:55 | 2022-05-06 | 2023-11-11 |
 | [Pluie fine \- Polo & Pan Remix](https://open.spotify.com/track/33F1mJbbdTdmZuSI5zxoSw) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Fille de ta région remixée](https://open.spotify.com/album/6mM9jFuElvjw45AfSHNf0c) | 3:58 | 2022-05-06 |  |
 | [Prada Spring / Summer 2019 Women’s Campaign: Double Exposure \(Belle\)](https://open.spotify.com/track/6oHfHOnAFfDNb0qP5gQkDv) | [Frédéric Sanchez](https://open.spotify.com/artist/16rTkguiJ27TAk55LwpCv9) | [Prada Spring / Summer 2019 Women’s Campaign: Double Exposure \(Belle\)](https://open.spotify.com/album/4OnAzwcid2wtjw5Tah9Ae2) | 1:22 | 2022-05-06 | 2022-07-29 |

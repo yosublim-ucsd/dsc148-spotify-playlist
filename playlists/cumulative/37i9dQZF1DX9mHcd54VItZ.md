@@ -4,7 +4,7 @@
 
 > The best new sounds of South African Rock\. Cover: <a href="https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT?si=O3l0X\_BbR2i27\-j3gS8sTw">Rooksein</a>
 
-359 songs - 21 hr 20 min
+360 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Bittersomerson](https://open.spotify.com/track/7lC9qPhTnfYYjXqeSKun7y) | [Gevoel van Veiligheid](https://open.spotify.com/artist/40woMxfZ3MF3iUOkCQguiS) | [Bittersomerson](https://open.spotify.com/album/4nBvLruXuk9NGPo8EeUwPt) | 3:01 | 2023-02-16 | 2023-05-12 |
 | [Black Candy](https://open.spotify.com/track/6qm6JkUaYNFBi9ewXTKHBj) | [The Cavalier](https://open.spotify.com/artist/44WZe9x8mr93eF5jwHMkw1) | [Black Candy](https://open.spotify.com/album/5JMwszlEhGEtI4NPdEjxeF) | 3:48 | 2023-06-08 | 2023-08-12 |
 | [Black Magic Girl](https://open.spotify.com/track/2wjI5Q9TSimAX41nzy3J24) | [Marene](https://open.spotify.com/artist/5CMKKbyPMl9Ry6Kl1m8u1I) | [Black Magic Girl](https://open.spotify.com/album/6vrQ3TNrEFgpWMD2nk5mET) | 2:52 | 2023-07-28 | 2023-09-29 |
+| [Black Sheep](https://open.spotify.com/track/582kWu8C2iODVokqsIovwj) | [Crash And The Void](https://open.spotify.com/artist/32sIYcqIVAbg6nV8ARSGHo) | [Black Sheep](https://open.spotify.com/album/5iNIxlLpw2rlU2RHUeFa02) | 4:14 | 2023-11-17 |  |
 | [Black Sun Blues](https://open.spotify.com/track/4rBXj6zG73kTuhdZGmSMHR) | [Ross Harding](https://open.spotify.com/artist/1FqnXueiEcKhdI6NBFwKcA) | [Chapter II](https://open.spotify.com/album/7AkMozqHXDF5OtauzP2ZQI) | 4:42 | 2022-11-17 | 2023-03-03 |
 | [BLAH BLAH BLAH](https://open.spotify.com/track/5ncpsijPbqSkfej6b8PGjw) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Alex Solomon](https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU) | [BLAH BLAH BLAH](https://open.spotify.com/album/282KDJUgTAO64N8HMeiUAR) | 1:52 | 2022-07-21 | 2022-10-07 |
 | [Bones](https://open.spotify.com/track/0QFgIdxhhn6QzPT5Ndnm7E) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Bones](https://open.spotify.com/album/2H1yVakFRyooDlWkX2o3on) | 3:43 | 2021-10-07 | 2022-08-04 |

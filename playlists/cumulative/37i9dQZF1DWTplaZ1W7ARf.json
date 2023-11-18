@@ -558,7 +558,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 177789,
       "name": "California Breeze",
       "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
@@ -1311,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "FK Everybody",
+        "url": "https://open.spotify.com/album/1rN9PgZ2jMbPikhdycTYbF"
+      },
+      "artists": [
+        {
+          "name": "Yella Beezy",
+          "url": "https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160465,
+      "name": "FK Everybody",
+      "url": "https://open.spotify.com/track/45YtAmvSaVvXfGEoRnIxK7"
+    },
+    {
+      "album": {
         "name": "Mr. Crawford",
         "url": "https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7"
       },
@@ -1842,6 +1860,28 @@
       "duration_ms": 141166,
       "name": "Home Ain't Home (feat. Rod Wave)",
       "url": "https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn"
+    },
+    {
+      "album": {
+        "name": "Nightmares In the Trenches",
+        "url": "https://open.spotify.com/album/3ZuNOvosbywUYTfgZc09tU"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Only The Family",
+          "url": "https://open.spotify.com/artist/3IaKn0ExWTMPqa0mscUYw3"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181621,
+      "name": "Hood Said",
+      "url": "https://open.spotify.com/track/1ZxCe04CimoGGfz5LbSozY"
     },
     {
       "album": {
@@ -2542,10 +2582,32 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 230117,
       "name": "Master Peace (feat. OG Bobby Billions)",
       "url": "https://open.spotify.com/track/2GveCv0PxGQ5ZnCcjZkpyO"
+    },
+    {
+      "album": {
+        "name": "When I Was Dead",
+        "url": "https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "OG Bobby Billions",
+          "url": "https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230117,
+      "name": "Master Peace (feat. OG Bobby Billions)",
+      "url": "https://open.spotify.com/track/53lr5OfKYB7MoYsHI5psrR"
     },
     {
       "album": {
@@ -3510,7 +3572,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 192078,
       "name": "Rich and Dangerous",
       "url": "https://open.spotify.com/track/1kgPrqOpwzDDdvufXCksaq"
@@ -3558,6 +3620,24 @@
       "duration_ms": 235014,
       "name": "Rich Off Pain (feat. Rod Wave)",
       "url": "https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr"
+    },
+    {
+      "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/4s0o2qrQSAm6j4ehyQ5AHr"
+      },
+      "artists": [
+        {
+          "name": "Lil Poppa",
+          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184531,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/0Xz83Aulqi02DwdamKn1pl"
     },
     {
       "album": {
@@ -4684,7 +4764,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 183047,
       "name": "Went Deaf",
       "url": "https://open.spotify.com/track/1dZFXGgYCBa1gMfhrT58fc"

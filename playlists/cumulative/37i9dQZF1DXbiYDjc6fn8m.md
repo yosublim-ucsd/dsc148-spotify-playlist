@@ -4,7 +4,7 @@
 
 > Hora de dançar com os grandes hits da música eletrônica/dance! Foto: Calvin Harris
 
-77 songs - 5 hr 16 min
+78 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Harder, Better, Faster, Stronger](https://open.spotify.com/track/2cJz1loJp5EZM6shmQpLZN) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Harder, Better, Faster, Stronger](https://open.spotify.com/album/0A88p2r8PWnWGvWjzAnUrV) | 3:46 | 2020-04-29 |  |
 | [Hear Me Now](https://open.spotify.com/track/39cmB3ZoTOLwOTq7tMNqKa) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Hear Me Now \(feat\. Zeeba\)](https://open.spotify.com/album/6fpsA5aYbVNLe6y3P49o2o) | 3:14 | 2020-04-29 |  |
 | [Heroes \(we could be\)](https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Forever](https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw) | 3:30 | 2020-04-29 |  |
-| [I Don't Know What to Do](https://open.spotify.com/track/1GAN6OItmSWve1e2LfZaW1) | [Tiko's Groove](https://open.spotify.com/artist/4o7EawHk705NgTWtLIQtxE), [Gosha](https://open.spotify.com/artist/4Jf1PKoGgtUPcqLgCc1k0O) | [Best of Dance 2013 \- The Rhythm of Life, Vol\. XII](https://open.spotify.com/album/4dc2qyt4udP4Zc1ITUoUZH) | 3:42 | 2020-04-29 |  |
+| [I Don't Know What to Do](https://open.spotify.com/track/1GAN6OItmSWve1e2LfZaW1) | [Tiko's Groove](https://open.spotify.com/artist/4o7EawHk705NgTWtLIQtxE), [Gosha](https://open.spotify.com/artist/4Jf1PKoGgtUPcqLgCc1k0O) | [Best of Dance 2013 \- The Rhythm of Life, Vol\. XII](https://open.spotify.com/album/4dc2qyt4udP4Zc1ITUoUZH) | 3:42 | 2020-04-29 | 2023-11-18 |
+| [I Don't Know What to Do \- Radio Edit](https://open.spotify.com/track/0nabAPNBb94D30NFf5EZrv) | [Tiko's Groove](https://open.spotify.com/artist/4o7EawHk705NgTWtLIQtxE), [Gosha](https://open.spotify.com/artist/4Jf1PKoGgtUPcqLgCc1k0O) | [I Don't Know What to Do](https://open.spotify.com/album/1AT8rN7hnsuIWxcTQCieQV) | 3:44 | 2020-04-29 |  |
 | [I Follow Rivers \- The Magician Remix](https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [I Follow Rivers \(The Magician Remix\)](https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1) | 4:40 | 2020-04-29 |  |
 | [I Found U \- Radio Edit](https://open.spotify.com/track/1zzae0EZDDYYzoAplr5ldV) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [I Found U](https://open.spotify.com/album/4wP9UvfCSFH8Z95rCt1UjB) | 2:51 | 2020-04-29 |  |
 | [I Found U \- Remode Radio Edit](https://open.spotify.com/track/4brtBQaAKwan97CyLNIG6t) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [I Found U](https://open.spotify.com/album/1WoQtItFeo0FGesGkDHDv8) | 2:51 | 2020-04-29 | 2023-10-18 |

@@ -1,12 +1,12 @@
 {
   "description": "it's a generation \u26d3 ft. Charlotte Sands ",
-  "num_followers": 346467,
+  "num_followers": 346458,
   "original_name": "The Locker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTk3MzJmMzY5ZDUzMTczNTM4OWI4MDZjMzk5ZTE1YTk2Y2YxOGVk",
+  "snapshot_id": "MCxhZTI2MThhYzNlY2M2NTc0NjkyMDcxYjUwNDkxOGNhZDA5YjI0NGVi",
   "tracks": [
     {
       "added_at": "2023-11-17 00:00:00",
@@ -347,6 +347,26 @@
       "duration_ms": 189533,
       "name": "Hated",
       "url": "https://open.spotify.com/track/2NNq2V3PD8u55LqGs8ImU1"
+    },
+    {
+      "added_at": "2023-11-17 00:00:00",
+      "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/75tCOwMwjcKr9j9SMY4qCf"
+      },
+      "artists": [
+        {
+          "name": "Rare Americans",
+          "url": "https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt"
+        },
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 120333,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/5OiIkkbuzSkkJUDCq9EaWP"
     },
     {
       "added_at": "2023-11-17 00:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 
 > Let these country tunes light up your day
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,578 likes - 62 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,562 likes - 62 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 | 22 | [Weed Instead of Roses](https://open.spotify.com/track/4VErYdXTSbt5pGa9eZwUFA) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Like a Rose](https://open.spotify.com/album/35H5tWdoP4xZenoLJBiaGf) | 3:19 |
 | 23 | [Up and Rolling](https://open.spotify.com/track/3DV89v9FL64amLAczhsLsN) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [Up and Rolling](https://open.spotify.com/album/2OxqHZPJd4es0y2uHzcSo8) | 5:03 |
 | 24 | [The Road Goes On Forever](https://open.spotify.com/track/0UgCiz5n2p2S7BKrFqCXEj) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [West Textures](https://open.spotify.com/album/5P5vbUH4xyFhmzPzhKOoM6) | 5:03 |
-| 25 | [Weed With Willie](https://open.spotify.com/track/7vf8kqdPc8wpKja6iqfuzi) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 4:03 |
+| 25 | [Weed With Willie \- Live](https://open.spotify.com/track/7vf8kqdPc8wpKja6iqfuzi) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 4:03 |
 | 26 | [Mary Wanna](https://open.spotify.com/track/4WmvcM6v7pfQ4dauJDjya2) | [Jason Nix](https://open.spotify.com/artist/168GW0NjbTxHxlDnY4B798) | [Mary Wanna](https://open.spotify.com/album/4qUwU9k2NjD5rzwpbUo6x0) | 2:56 |
 | 27 | [A Friend With Weed](https://open.spotify.com/track/6NaIoL9AXmj7Lirhaxyplw) | [Kyle Daniel](https://open.spotify.com/artist/1sMZfMdtizSlYjtZgQFXaz) | [A Friend With Weed](https://open.spotify.com/album/4eJ8jfDaJqkc1RHpiSKWq1) | 2:58 |
 | 28 | [Pass It On](https://open.spotify.com/track/4NPQb5305qkdRARfAEaOle) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Pelago](https://open.spotify.com/album/0vlxtyaep2FkkVidYC49PA) | 2:59 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 | 61 | [High Feeling](https://open.spotify.com/track/5DgME3ZeZB78H4vJdX8Esd) | [Cordovas](https://open.spotify.com/artist/1wWSNOst6HSnNNUtH4RekE) | [Destiny Hotel](https://open.spotify.com/album/5GkRuglfNZXJBzEBOwGQGU) | 2:57 |
 | 62 | [Down to Seeds and Stems Again Blues](https://open.spotify.com/track/5lo3R8FXLTjtDPRwrPvZl1) | [Commander Cody And His Lost Planet Airman](https://open.spotify.com/artist/5EuQzrjffQlDTKObrN5tbY) | [Hot to Trot](https://open.spotify.com/album/4PcDJDCi5hMiH7l7v4T1qh) | 4:03 |
 
-Snapshot ID: `MCw4M2E4NmViMTIxMWY1YzFmZmIzNzc5ZWY3YjExMWE4MTM0MWJiMTQw`
+Snapshot ID: `MCxhNWU2ZDU4NTg0YzdhMWQ3ZDYyZTU5M2FjYjhhNDlkN2E4YjljYzA4`

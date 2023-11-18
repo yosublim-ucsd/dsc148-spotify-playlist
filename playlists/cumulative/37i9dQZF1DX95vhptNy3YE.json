@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Mc Kadu e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
+  "description": "Grupo Benzadeus e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
   "name": "AMPLIFIKA",
   "tracks": [
     {
@@ -450,7 +450,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 184615,
       "name": "A noite toda",
       "url": "https://open.spotify.com/track/3riONrdS3ALgp0F01fv9pq"
@@ -2180,7 +2180,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 170802,
       "name": "Chove Chuva",
       "url": "https://open.spotify.com/track/1pQ29ZLS28yXAiXW2LREyK"
@@ -7962,7 +7962,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 131314,
       "name": "Oi Rua",
       "url": "https://open.spotify.com/track/3Frk39aukIu3h5cjQTf7ip"
@@ -8700,7 +8700,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-30",
+      "date_removed": null,
       "duration_ms": 164763,
       "name": "Pirra\u00e7a",
       "url": "https://open.spotify.com/track/5DRqQYWI7xJMDURRQ0iJrK"
@@ -8976,7 +8976,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 342857,
       "name": "Prazo De Validade",
       "url": "https://open.spotify.com/track/6tQVvcmfUvtxxg4FmQTpv9"
@@ -10229,6 +10229,52 @@
     },
     {
       "album": {
+        "name": "Set Loja Kings",
+        "url": "https://open.spotify.com/album/32BgQwAWySRf69AgS7Tdr8"
+      },
+      "artists": [
+        {
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        },
+        {
+          "name": "MC Lemos",
+          "url": "https://open.spotify.com/artist/4c4seBofkiiONBxLBd4CUa"
+        },
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Killua",
+          "url": "https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo"
+        },
+        {
+          "name": "DJ Leo Sheik",
+          "url": "https://open.spotify.com/artist/0ElbPIRDgd7jy1ChKTSzec"
+        },
+        {
+          "name": "Euvittin085",
+          "url": "https://open.spotify.com/artist/67oRRLfalJRBZ2Gp33d6wy"
+        },
+        {
+          "name": "Mc Dimenor Dr",
+          "url": "https://open.spotify.com/artist/5KDNpi3pjBAf4tKUKDvzkz"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313333,
+      "name": "Set Loja Kings",
+      "url": "https://open.spotify.com/track/6FdfJI0SllgNcVzD4sqZvq"
+    },
+    {
+      "album": {
         "name": "Maldita",
         "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
       },
@@ -10574,7 +10620,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 239253,
       "name": "S\u00f3 Rock 2",
       "url": "https://open.spotify.com/track/3r9ljWQNQMV0xLY5v44Hwp"
@@ -10892,10 +10938,28 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Tropa do Mant\u00e9m",
       "url": "https://open.spotify.com/track/4DbUD96eZfP9zVca7vgqgD"
+    },
+    {
+      "album": {
+        "name": "TunTunTun (Spotify Singles)",
+        "url": "https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186501,
+      "name": "TunTunTun - Spotify Singles",
+      "url": "https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C"
     },
     {
       "album": {
@@ -11600,7 +11664,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 132413,
       "name": "X6",
       "url": "https://open.spotify.com/track/7mBvm8Btuuki2jsh6y1d6L"

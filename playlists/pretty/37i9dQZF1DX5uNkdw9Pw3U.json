@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 96107,
+  "num_followers": 96487,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODVlMTM3MTc4NzExMWYyOWY5YTRkYmUzNmVmNTg2ODU4MDBkMTNj",
+  "snapshot_id": "MCw0MzZjMDEwZWY5ZTRjZDdlNWYxMzI0NzBjM2I1ZWRmOTA0MzdjODgy",
   "tracks": [
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1279,22 +1279,18 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Sweet Life",
-        "url": "https://open.spotify.com/album/0saOIEtDIQ0DyauxiejMHr"
+        "name": "Avenue",
+        "url": "https://open.spotify.com/album/6thqi6BIar6QB8Stf8nZlM"
       },
       "artists": [
         {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        },
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+          "name": "Trevis",
+          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
         }
       ],
-      "duration_ms": 176760,
-      "name": "Sweet Life",
-      "url": "https://open.spotify.com/track/5Yr0XWjR4eX41pwPljs7NV"
+      "duration_ms": 196363,
+      "name": "Avenue",
+      "url": "https://open.spotify.com/track/20nOETKKFsKknFGfxk1iYB"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1319,18 +1315,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Avenue",
-        "url": "https://open.spotify.com/album/6thqi6BIar6QB8Stf8nZlM"
+        "name": "Sweet Life",
+        "url": "https://open.spotify.com/album/0saOIEtDIQ0DyauxiejMHr"
       },
       "artists": [
         {
-          "name": "Trevis",
-          "url": "https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I"
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        },
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
         }
       ],
-      "duration_ms": 196363,
-      "name": "Avenue",
-      "url": "https://open.spotify.com/track/20nOETKKFsKknFGfxk1iYB"
+      "duration_ms": 176760,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/5Yr0XWjR4eX41pwPljs7NV"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/3edgSD1nfi5GKSNnHw6Ltf"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 195572,
-      "name": "21",
-      "url": "https://open.spotify.com/track/1u59LusHrE1Z3NgR0bJuHb"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Kool Aid",
         "url": "https://open.spotify.com/album/2FJitnqpghCCsYLaNAxW7C"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 155157,
       "name": "Kool Aid",
       "url": "https://open.spotify.com/track/71ptv206CeeXGutS1TaieZ"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/3edgSD1nfi5GKSNnHw6Ltf"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 195572,
+      "name": "21",
+      "url": "https://open.spotify.com/track/1u59LusHrE1Z3NgR0bJuHb"
     },
     {
       "added_at": "2023-10-19 22:00:00",

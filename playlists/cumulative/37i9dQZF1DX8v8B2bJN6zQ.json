@@ -719,6 +719,28 @@
     },
     {
       "album": {
+        "name": "Future Scream",
+        "url": "https://open.spotify.com/album/2vHkEeiYs6gddt6qSD3Df0"
+      },
+      "artists": [
+        {
+          "name": "TOMA",
+          "url": "https://open.spotify.com/artist/1s3CyvfKUCbNf3EIMg4TVe"
+        },
+        {
+          "name": "Pietro (BR)",
+          "url": "https://open.spotify.com/artist/4Ms2A0pWyx4gUvrCXmH9bk"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367732,
+      "name": "Future Scream",
+      "url": "https://open.spotify.com/track/3JN0SMHCvA6wzmZndqmZcB"
+    },
+    {
+      "album": {
         "name": "Galaxy Cluster",
         "url": "https://open.spotify.com/album/2jkRNLyreYjRMOsx4WsEtm"
       },

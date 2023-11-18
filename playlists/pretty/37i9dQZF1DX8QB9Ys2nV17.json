@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 173466,
+  "num_followers": 173481,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2JjNzYxNmM2ODU5ODI5MDFiZTIyMTUxM2ZiOWRjY2Q0OTM4ZTQx",
+  "snapshot_id": "MCwyMDMzZDQ5NTIwMDIxZjVkMzA3MzJhMzIxY2ExMzA5ODU1M2UzZjE5",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Juice Me Up",
-        "url": "https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha"
-      },
-      "artists": [
-        {
-          "name": "Dani Wilde",
-          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
-        }
-      ],
-      "duration_ms": 303600,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/30h268bCKmGWxFleXGYATy"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Ain't Too Worried Yet",
         "url": "https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 212903,
       "name": "Ain't Too Worried Yet",
       "url": "https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Juice Me Up",
+        "url": "https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha"
+      },
+      "artists": [
+        {
+          "name": "Dani Wilde",
+          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
+        }
+      ],
+      "duration_ms": 303600,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/30h268bCKmGWxFleXGYATy"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Kindred Spirits",
-        "url": "https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 210989,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/6dB3CBDenGlbN82nWYTFIu"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Nowhere Left to Go",
         "url": "https://open.spotify.com/album/7mgwnnkUtNugVDwFd2fWsd"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 227333,
       "name": "Nowhere Left to Go",
       "url": "https://open.spotify.com/track/66A4kKsaCLef6DM79ATTER"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 210989,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/6dB3CBDenGlbN82nWYTFIu"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Ina Forsman",
-        "url": "https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y"
-      },
-      "artists": [
-        {
-          "name": "Ina Forsman",
-          "url": "https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b"
-        }
-      ],
-      "duration_ms": 249760,
-      "name": "Now You Want Me Back",
-      "url": "https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Ain't Got No Troubles",
         "url": "https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 232600,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Ina Forsman",
+        "url": "https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y"
+      },
+      "artists": [
+        {
+          "name": "Ina Forsman",
+          "url": "https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b"
+        }
+      ],
+      "duration_ms": 249760,
+      "name": "Now You Want Me Back",
+      "url": "https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Throw Away Your Blues",
-        "url": "https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe"
-      },
-      "artists": [
-        {
-          "name": "Kyla Brox",
-          "url": "https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42"
-        }
-      ],
-      "duration_ms": 298173,
-      "name": "If You See Him",
-      "url": "https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Girls",
         "url": "https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 180583,
       "name": "Cry for Me",
       "url": "https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Throw Away Your Blues",
+        "url": "https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe"
+      },
+      "artists": [
+        {
+          "name": "Kyla Brox",
+          "url": "https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42"
+        }
+      ],
+      "duration_ms": 298173,
+      "name": "If You See Him",
+      "url": "https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3"
     },
     {
       "added_at": "2022-03-08 14:01:09",

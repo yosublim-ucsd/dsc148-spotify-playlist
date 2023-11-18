@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-567 songs - 1 day 7 hr 6 min
+568 songs - 1 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Childs Play \(feat\. Chance the Rapper\)](https://open.spotify.com/track/7GPstnufSTScEaw9dMxO9H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Z](https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8) | 3:36 | 2021-12-15 | 2022-09-17 |
 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 | 2023-03-10 |  |
 | [CIAA](https://open.spotify.com/track/4ZhNhOllhgcw3yAGgKibUT) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Acrylic](https://open.spotify.com/album/69GP3by8YMB8yz0pG03DWl) | 3:26 | 2021-12-15 | 2022-04-21 |
-| [Clementine](https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Clementine](https://open.spotify.com/album/1cC3g85coOQwkIpbrbtuZm) | 3:02 | 2023-08-11 |  |
+| [Clementine](https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Clementine](https://open.spotify.com/album/1cC3g85coOQwkIpbrbtuZm) | 3:02 | 2023-08-11 | 2023-11-18 |
 | [Closer](https://open.spotify.com/track/0pMs1gXODWwGQ1pK3qKVtz) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Elisa Imperilee](https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj), [Whoeva?](https://open.spotify.com/artist/1v5GXwd79sYewyWJw7gnCh) | [The Silhouettes Project](https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL) | 3:21 | 2022-11-09 | 2023-09-30 |
 | [Closer](https://open.spotify.com/track/7e8vTtMnxTcE2gvs1junW8) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Elisa Imperilee](https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj), [Whoeva?](https://open.spotify.com/artist/1v5GXwd79sYewyWJw7gnCh) | [The Silhouettes Project](https://open.spotify.com/album/6SWC8WHsLllzDsUNkw6dHY) | 3:21 | 2022-06-10 | 2022-11-20 |
 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 | 2021-12-15 | 2022-04-05 |
@@ -250,6 +250,7 @@
 | [in ur motion](https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Goûter +](https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n) | 3:28 | 2023-03-03 |  |
 | [In Your Eyes](https://open.spotify.com/track/46aSz462xUFxA5X4O6WlB0) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [IV](https://open.spotify.com/album/68HLpLmCtvFKUqwQpUCqwn) | 4:07 | 2021-12-15 | 2022-07-29 |
 | [In Your Eyes](https://open.spotify.com/track/4jmLj7bALZTQoe93dT623W) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 4:07 | 2022-06-30 | 2023-03-25 |
+| [In Your Heart](https://open.spotify.com/track/5J0hqgFzg27jSx041QP2AF) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [The Good Fight](https://open.spotify.com/album/7B4EGze9lOlYOOVT1fPZL8) | 3:53 | 2023-11-10 |  |
 | [In Your Own Home](https://open.spotify.com/track/342lDmTXJPrWwYxeCvYc0t) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:08 | 2023-09-29 |  |
 | [Inclination Compass \(Tenderness\)](https://open.spotify.com/track/74QKZtja1eXqpVg0fS3A2u) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:08 | 2023-10-20 |  |
 | [Insecure](https://open.spotify.com/track/7EUuhh62g6QUoLh1etEBfS) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Daydreams & Endless Nights](https://open.spotify.com/album/5a1zVo7jV6ctwLQt2vqAFb) | 4:01 | 2023-06-16 | 2023-10-11 |
@@ -423,7 +424,7 @@
 | [Repercussions](https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Repercussions](https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu) | 3:00 | 2023-08-04 |  |
 | [Requiem](https://open.spotify.com/track/2JydmjbQ7nGdVI6HbumkLA) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [A Brief Nirvana](https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd) | 4:44 | 2023-05-26 |  |
 | [Risk](https://open.spotify.com/track/2QDFsehUg5Fui2LOVpCw3Q) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Risk](https://open.spotify.com/album/2yCpdo20DhxBEPsyt8RUz6) | 3:58 | 2021-12-15 | 2022-05-09 |
-| [Rodeo Clown](https://open.spotify.com/track/7MrklDIUaRUecz3RDCcjM5) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Rodeo Clown](https://open.spotify.com/album/53EOHuMzRCZOaN62bzwQ4i) | 3:30 | 2023-02-16 | 2023-11-17 |
+| [Rodeo Clown](https://open.spotify.com/track/7MrklDIUaRUecz3RDCcjM5) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [Rodeo Clown](https://open.spotify.com/album/53EOHuMzRCZOaN62bzwQ4i) | 3:30 | 2023-02-16 |  |
 | [ROLLA](https://open.spotify.com/track/0E1ECahwlKkFkoi5uFHfRB) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [ROLLA](https://open.spotify.com/album/29FTSpA2recQP47Z4H6Qqm) | 3:52 | 2021-12-15 | 2022-07-06 |
 | [Running](https://open.spotify.com/track/1et9bfdvDHld2wPBZfT1OA) | [Nicotine](https://open.spotify.com/artist/0tpIaEojsimd2hK4Y3nZIX) | [An Open Letter](https://open.spotify.com/album/2d1Mpponk9uBdLfM9pfH1i) | 4:07 | 2021-12-15 | 2022-04-20 |
 | [Running](https://open.spotify.com/track/1zKU2Hf1juriWhxwLlWaxT) | [Nicotine](https://open.spotify.com/artist/0tpIaEojsimd2hK4Y3nZIX) | [An Open Letter](https://open.spotify.com/album/6fopcA6Az8eSWnGQYO7fVt) | 4:07 | 2022-09-29 | 2022-10-18 |
@@ -545,7 +546,7 @@
 | [Wanna Be](https://open.spotify.com/track/5GjisoOfsN8qagrax01T4y) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 4:27 | 2021-12-15 | 2022-09-17 |
 | [Waste My Time](https://open.spotify.com/track/5OXjnUpU6Skq07ZkpDeW7c) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Waste My Time](https://open.spotify.com/album/4Aoj64OXu1mnhgN117qFwY) | 3:01 | 2023-06-10 | 2023-06-17 |
 | [Wasteland](https://open.spotify.com/track/3yhlH8lhTpS03d91kuwjpf) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Wasteland](https://open.spotify.com/album/4yzJgsOpjCGoH4jjcUvNTc) | 3:03 | 2021-12-15 | 2022-04-07 |
-| [Watching The News](https://open.spotify.com/track/7mRQwapf9utc4GcehUZ1VP) | [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Sharing is Caring](https://open.spotify.com/album/1Kj5fIqE9jXWNVzjYTPp3j) | 3:38 | 2023-09-15 |  |
+| [Watching The News](https://open.spotify.com/track/7mRQwapf9utc4GcehUZ1VP) | [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Sharing is Caring](https://open.spotify.com/album/1Kj5fIqE9jXWNVzjYTPp3j) | 3:38 | 2023-09-15 | 2023-11-18 |
 | [We Keep On](https://open.spotify.com/track/1DLuBahdUB9VX7DJRtYl1v) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [For the Better](https://open.spotify.com/album/6AlZ1GbJS3uLy8m23EhTfE) | 3:00 | 2023-05-19 |  |
 | [We Might Even Be Falling In Love \(Duet\) \- Spotify Singles](https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [We Might Even Be Falling In Love \(Duet\) \- Spotify Singles](https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG) | 1:30 | 2023-02-14 | 2023-08-12 |
 | [West Coast Love](https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 3:35 | 2022-02-11 | 2022-04-08 |

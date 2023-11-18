@@ -4,7 +4,7 @@
 
 > Lo mejor del hip hop español\. Feat\. Prok
 
-228 songs - 12 hr 36 min
+229 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [AHORA QUE](https://open.spotify.com/track/7jRLjVOOkiNP2aiD3XLsqJ) | [Blake](https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF), [Zaidbreak](https://open.spotify.com/artist/4kxv2kGvnge97AbeT7sDGu) | [AHORA QUE](https://open.spotify.com/album/1d5jBobGUNucxW2jPRfCU0) | 2:48 | 2023-08-08 | 2023-10-24 |
 | [Ahora Y Siempre](https://open.spotify.com/track/1AhNxunSSizAllibrQ7jhu) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora Y Siempre](https://open.spotify.com/album/3jTzodvOzhVKQgNbLjM93z) | 2:29 | 2022-02-04 | 2022-07-15 |
 | [Al Final del Día](https://open.spotify.com/track/41ir6O2SvjUrs642RMkouF) | [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Al Final del Día](https://open.spotify.com/album/7aqENkjmIlnjLhlxCw1zrJ) | 2:43 | 2022-10-03 | 2023-03-01 |
-| [Alto Cargo Pt\. 2](https://open.spotify.com/track/2rs3Qctse9zhPAdxxMlJBw) | [Gloosito](https://open.spotify.com/artist/1MXug5KOetEEQjjvCPWwIm) | [Alto Cargo Pt\. 2](https://open.spotify.com/album/0Jl8Zu8KtquCb3TQJFIw2k) | 2:21 | 2023-10-23 |  |
+| [Alto Cargo Pt\. 2](https://open.spotify.com/track/2rs3Qctse9zhPAdxxMlJBw) | [Gloosito](https://open.spotify.com/artist/1MXug5KOetEEQjjvCPWwIm) | [Alto Cargo Pt\. 2](https://open.spotify.com/album/0Jl8Zu8KtquCb3TQJFIw2k) | 2:21 | 2023-10-23 | 2023-11-18 |
 | [Andrómeda](https://open.spotify.com/track/5JgIHWAuYOBFR3dnEgnQ8F) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR) | [Andrómeda](https://open.spotify.com/album/1KWtgnQEmfgKax6XOgtnWO) | 3:27 | 2023-02-28 | 2023-06-27 |
 | [Animal](https://open.spotify.com/track/6oU0ts0UfSzBAxKsd0pPdN) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Animal](https://open.spotify.com/album/2m5J9E8CsbZNiXZzktBWeD) | 1:28 | 2022-01-21 | 2023-01-18 |
 | [Ante Todo](https://open.spotify.com/track/1rYeq652rsRn0K289Hhc6Y) | [SWIT EME](https://open.spotify.com/artist/51UDJfCuXko0jNa0wdN9Cz) | [Ante Todo](https://open.spotify.com/album/1QaaCDAGbyYJV0Fy2sBBwQ) | 2:58 | 2022-04-21 | 2022-10-29 |
@@ -144,6 +144,7 @@
 | [Mercury](https://open.spotify.com/track/4ieZaJ1d5lmei3GOZqtfv3) | [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B), [Selecta](https://open.spotify.com/artist/1m9WPOccw8sizsVYUhSVjZ) | [Mercury](https://open.spotify.com/album/3X6RtqeOhtrUJKtfO84nMc) | 3:16 | 2022-03-16 | 2022-11-22 |
 | [Mi Condena](https://open.spotify.com/track/0RSpDN3ywn433Ax7AEmciT) | [EZVIT 810](https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx), [Luani](https://open.spotify.com/artist/5y7twJ6XIWnxkh9sArNf5M) | [Mi Condena](https://open.spotify.com/album/0DtcJk7CoznzFlCp5DFld3) | 2:44 | 2022-03-16 | 2022-09-17 |
 | [Modo Abuso](https://open.spotify.com/track/5K5Pu8XivpLcXjrkvJhl0z) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [EL NIÑO DE LA PENA](https://open.spotify.com/artist/3ZpK1P7BobQwh3KF47HHoh), [Heiss](https://open.spotify.com/artist/0daOLoNu2PsJMuYnjkcBmB) | [Modo Abuso](https://open.spotify.com/album/43V9JJGZFP0eVV9IxEOQIG) | 3:15 | 2022-08-04 | 2022-08-24 |
+| [Modo Sport](https://open.spotify.com/track/41g8anQJNmH6PWbJrnPISD) | [Prok](https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31) | [Modo Sport](https://open.spotify.com/album/51YCztz2tvzhQD55QKtlcR) | 2:44 | 2023-11-13 |  |
 | [Montecarlo](https://open.spotify.com/track/01BwIKOWuerxufZ0sEmJnS) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Ill Pekeño](https://open.spotify.com/artist/3T4KspU3H8Ya6sgxexg9F8) | [Montecarlo](https://open.spotify.com/album/5FAtt63QNBbWHYjxlRGR39) | 3:17 | 2023-09-14 |  |
 | [Mortales](https://open.spotify.com/track/2WxOZS4JiCW2Q06tPCQp5C) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Siempre](https://open.spotify.com/album/6hYTBmuamgRQGTVXkqtjRf) | 2:55 | 2023-10-23 |  |
 | [Mortales](https://open.spotify.com/track/2cAlHsqGkTYqQEEZCrMrF0) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Siempre](https://open.spotify.com/album/3uuFYpXPgZRB6MLcH8tiUo) | 2:55 | 2022-01-21 | 2023-11-11 |

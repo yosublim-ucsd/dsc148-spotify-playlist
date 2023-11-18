@@ -1728,7 +1728,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": null,
       "duration_ms": 237507,
       "name": "Cold",
       "url": "https://open.spotify.com/track/4saR4OyR8NalWxaDjN5cVf"
@@ -2905,6 +2905,36 @@
     },
     {
       "album": {
+        "name": "Flux (Blue Lab Beats Remix)",
+        "url": "https://open.spotify.com/album/5PegzCo0ktd7kLcoi92mQc"
+      },
+      "artists": [
+        {
+          "name": "pilgriim",
+          "url": "https://open.spotify.com/artist/30PLfl7bUDwfbN2EDRBrgh"
+        },
+        {
+          "name": "Joshua Idehen",
+          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
+        },
+        {
+          "name": "Young Shields",
+          "url": "https://open.spotify.com/artist/3dgxTjhZDo6zITxSQmj9Hq"
+        },
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Flux - Blue Lab Beats Remix",
+      "url": "https://open.spotify.com/track/09Rr21TNXXxO9B755xfMPd"
+    },
+    {
+      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/0PBGFp8DmOMvlMNHSzQZJe"
       },
@@ -4040,7 +4070,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 174764,
       "name": "If You Love The Moon",
       "url": "https://open.spotify.com/track/3FPqks4SM8B5gV8tdpEwML"
@@ -4914,7 +4944,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 203560,
       "name": "Life Goes On (feat. Sampa the Great)",
       "url": "https://open.spotify.com/track/5PT4yvb1Poy5AssADb0vwB"
@@ -5224,7 +5254,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 341200,
       "name": "Love In Outer Space (feat. Nao)",
       "url": "https://open.spotify.com/track/5VhmL0AjrVrsOHqz5RqUZD"
@@ -5356,7 +5386,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 197500,
       "name": "Magnolia II",
       "url": "https://open.spotify.com/track/5P7SWP6NrHNmWcvLCfmwkk"
@@ -5998,6 +6028,28 @@
       "duration_ms": 267480,
       "name": "My Love",
       "url": "https://open.spotify.com/track/0xV9H4ED3bpdTQwYLy75D0"
+    },
+    {
+      "album": {
+        "name": "The Yussef Dayes Experience Live at Joshua Tree (Presented by Soulection)",
+        "url": "https://open.spotify.com/album/2LrvbyF11d4ZlI1UAnLbEC"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227435,
+      "name": "Mystics (feat. Venna) - Live at Joshua Tree",
+      "url": "https://open.spotify.com/track/1pemIyUJIPDQ2fWciNrh6z"
     },
     {
       "album": {
@@ -6762,7 +6814,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 161286,
       "name": "Portals",
       "url": "https://open.spotify.com/track/0JM57iUyyTFUTnH9n5mvn6"
@@ -6900,7 +6952,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 271826,
       "name": "Raisins Under the Sun (feat. Shabaka Hutchings)",
       "url": "https://open.spotify.com/track/24ZA5a59iToToWe7pPT0A7"
@@ -7718,7 +7770,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 252000,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge"

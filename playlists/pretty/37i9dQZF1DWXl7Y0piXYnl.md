@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 
 > <a href="spotify:artist:2jYMYP2SVifgmzNRQJx3SJ">Modeselektor</a>'s favorite tracks\. Updated regularly\. Curated by Modeselektor\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,895 likes - 59 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,926 likes - 59 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,6 +66,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXl7Y0piXYnl.md) - [plain]
 | 56 | [Elemental Stoppage](https://open.spotify.com/track/0T1poifLPquXftRdqLOiSK) | [Persher](https://open.spotify.com/artist/4ohgqJKeZ6p9vRIGvokzSI) | [Elemental Stoppage](https://open.spotify.com/album/5WGiLPoeCFGOtPzgQA3wt6) | 2:58 |
 | 57 | [Pic Of U](https://open.spotify.com/track/3UeFYO0RNiqPkje6IcueO7) | [Proc Fiskal](https://open.spotify.com/artist/1eFFmUlWRIvt26lnUzdduk) | [Pic Of U](https://open.spotify.com/album/6bcqYpFr49i5TsKEbewLIV) | 2:02 |
 | 58 | [WALK LIKE](https://open.spotify.com/track/0zAwd1PM87cO0UIXEOi6Gy) | [Mahne Frame](https://open.spotify.com/artist/0O1hTTSAVlJKFo7urBx6FI) | [WALK LIKE](https://open.spotify.com/album/48JsSe6jHzY2R9VV2CXSOj) | 3:02 |
-| 59 | [The Golden Ratio \(Version\)](https://open.spotify.com/track/3ZxsyZd3tXRpTh4fCYyeAr) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Maintain The Golden Ratio](https://open.spotify.com/album/7zJ2Ho6A5Nf6s46wDX4FnK) | 4:42 |
+| 59 | [The Golden Ratio \(Version\)](https://open.spotify.com/track/2bQ2B1Zvk8ecLp1VAcI0bt) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Maintain The Golden Ratio](https://open.spotify.com/album/5dV2HXWXjGWqR4oOTXJw4Z) | 4:42 |
 
-Snapshot ID: `MCxhYTc5MGY2NjViNjA1MDAyNmQ2YTcxZjcxZGMyNTJmNzdlMTllNDgy`
+Snapshot ID: `MCxlZGJmOTEwMDAzYjU4MjZlNmM2MDY4MmE2YTEzNGYyMWI0MTNlZjI3`

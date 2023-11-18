@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Rosemarie
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,663 likes - 105 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,702 likes - 105 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Is It Real? \(with Roddy Ricch\)](https://open.spotify.com/track/6VWxLcnrLGJDE6Cr4nm0lW) | [Rosemarie](https://open.spotify.com/artist/3Lz0JugHcf9nqKF1Khkhmu), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Is It Real? \(with Roddy Ricch\)](https://open.spotify.com/album/4HORf4RtMyCUu5FIQ6pEsS) | 3:23 |
+| 1 | [Is It Real? \(feat\. Roddy Ricch\)](https://open.spotify.com/track/6VWxLcnrLGJDE6Cr4nm0lW) | [Rosemarie](https://open.spotify.com/artist/3Lz0JugHcf9nqKF1Khkhmu), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Is It Real? \(feat\. Roddy Ricch\)](https://open.spotify.com/album/4HORf4RtMyCUu5FIQ6pEsS) | 3:23 |
 | 2 | [Favorite Girl \(feat\. Offset\)](https://open.spotify.com/track/1FLoO1AlfxAqJ84FIeJrKZ) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:03 |
 | 3 | [ONE THING](https://open.spotify.com/track/5XqCstp7T3HRbPUOuzvN6a) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [SUBMISSIVE](https://open.spotify.com/album/6Hyn3j0o6KwT8fgcfBre5z) | 2:52 |
 | 4 | [Need U Tonite \(with Genia\)](https://open.spotify.com/track/0DFrS6DTGOH3CEWFuPDKtk) | [Breez Kennedy](https://open.spotify.com/artist/6ydm4dOCCkVb40LPqkhH3p), [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [Need U Tonite](https://open.spotify.com/album/1fosbY1jCipe3rYvEU8S8V) | 2:25 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 104 | [2MANYTHINGS](https://open.spotify.com/track/2UJmIGvY7F7COPBtiwL4K9) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 3:13 |
 | 105 | [Wickedest \(feat\. Haile\)](https://open.spotify.com/track/3W7p3aKtbyLjqiTwxF1jKw) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest \(feat\. Haile\)](https://open.spotify.com/album/0gcr59uNr2tD6yoz9dRipQ) | 3:15 |
 
-Snapshot ID: `MCw1YWM1MGZkN2EwMTdjMDlkYzlmYmNlMTU3ZTE2NmYwMzc0YTMxMjJj`
+Snapshot ID: `MCwyODI0ZDQ3YTBjNGRmOWJlN2NjYjQyNDg0MTU5MGFjYmY3MjU3YzRi`

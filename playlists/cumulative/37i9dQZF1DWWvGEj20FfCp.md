@@ -4,7 +4,7 @@
 
 > Sounds that inspired the designers of <a href="https://lagosfashionweek.ng/">Lagos Fashion Week 2023.</a>
 
-632 songs - 1 day 18 hr 26 min
+633 songs - 1 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -541,7 +541,8 @@
 | [TECHNOPOLIS](https://open.spotify.com/track/025rboHEX5F2T0jRBMjuxI) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE), [Norio Yoshizawa](https://open.spotify.com/artist/4uoBti7IAbbjSVYLQuEFoT) | [Solid State Survivor](https://open.spotify.com/album/5TmpFE7Xus70ko1QYGxFIe) | 4:14 | 2023-02-10 | 2023-03-11 |
 | [Tek It Easy](https://open.spotify.com/track/6mwGoQFNOqbWKz1M4vAX54) | [Buccaneer](https://open.spotify.com/artist/72FmoZBmYJDtdEc1R9JEcn) | [Da Opera](https://open.spotify.com/album/1CMExKPhwGCmPqMLrzSyvO) | 3:24 | 2023-09-01 | 2023-10-12 |
 | [Tell Me](https://open.spotify.com/track/5w8U8QnMmq3DFTbFTYiAxm) | [Courtnie](https://open.spotify.com/artist/64jXN9rBQaUKV7a651NfVn) | [Tell Me](https://open.spotify.com/album/5UZraJqRysuhHOPorwdQY5) | 3:53 | 2022-06-01 | 2022-08-02 |
-| [Tension](https://open.spotify.com/track/1HteYUSXKUMm6A8vdZid7p) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension](https://open.spotify.com/album/2AormSzZz3LkqREG7mubJA) | 3:36 | 2023-10-11 |  |
+| [Tension](https://open.spotify.com/track/1HteYUSXKUMm6A8vdZid7p) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension](https://open.spotify.com/album/2AormSzZz3LkqREG7mubJA) | 3:36 | 2023-10-11 | 2023-11-18 |
+| [Tension](https://open.spotify.com/track/6435Ra0NWQzPyZAcd1ojWI) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:36 | 2023-10-11 |  |
 | [Terminator](https://open.spotify.com/track/1l0UpKKk4JoNSgiAU3jXUU) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [Rufige Kru](https://open.spotify.com/artist/36kYq0d66eHa4Zz8iNkPFS) | [Fabio & Grooverider: 25 Years of Drum & Bass](https://open.spotify.com/album/1FHMZEpgqTR869J27inlbY) | 4:14 | 2023-02-10 | 2023-03-11 |
 | [That Girl](https://open.spotify.com/track/6PwfuFTscs4uEJtloyZn5o) | [Iman Omari](https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4) | [High\-Loops & Higher\-Loops](https://open.spotify.com/album/5EvX2yYOoiF6VK4PGnaGpA) | 2:21 | 2023-07-17 | 2023-09-02 |
 | [The Art of Loneliness](https://open.spotify.com/track/3Ji4KRO7saCEohEZyCA2A6) | [Adrián Berenguer](https://open.spotify.com/artist/7rIUiy8qJEFQ5oooWdnhQv) | [The Art of Loneliness](https://open.spotify.com/album/058qe7UKzyEcdf9X8IKrGw) | 3:38 | 2023-10-11 |  |

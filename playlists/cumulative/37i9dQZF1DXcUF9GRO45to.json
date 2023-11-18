@@ -250,7 +250,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 433466,
       "name": "Anhedonia",
       "url": "https://open.spotify.com/track/3xJ6sQfC3quybJBBal9ojN"
@@ -1710,7 +1710,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 249946,
       "name": "Gold Digger Woman",
       "url": "https://open.spotify.com/track/6NnzPYNCUGzxiNhSdAVWyO"
@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 163567,
       "name": "Good Days Again",
       "url": "https://open.spotify.com/track/5jnXjIfc9DFqzfaqq9uz2O"
@@ -3414,7 +3414,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 223421,
       "name": "Peeling the Onion",
       "url": "https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev"
@@ -3866,6 +3866,24 @@
       "duration_ms": 206666,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/3x2A78JLm8M8YGVFchcBSX"
+    },
+    {
+      "album": {
+        "name": "Life Is Unfair",
+        "url": "https://open.spotify.com/album/5QTtQjMlep4CE3893O1Nwo"
+      },
+      "artists": [
+        {
+          "name": "DYE CRAP",
+          "url": "https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135750,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/6bvf9UBmxgD8CzroXEkPYr"
     },
     {
       "album": {
@@ -4355,6 +4373,24 @@
     },
     {
       "album": {
+        "name": "Strange Feeling",
+        "url": "https://open.spotify.com/album/2LRUyObrhcVkssuuhw3C3U"
+      },
+      "artists": [
+        {
+          "name": "Structures",
+          "url": "https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232453,
+      "name": "Strange Feeling",
+      "url": "https://open.spotify.com/track/1lQdGdF0LNzhy9v5os0pTS"
+    },
+    {
+      "album": {
         "name": "The Future Is the End",
         "url": "https://open.spotify.com/album/0OWblFWotbcUbnJlnvWvO7"
       },
@@ -4528,7 +4564,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 269293,
       "name": "Testify",
       "url": "https://open.spotify.com/track/7BFZuaNusBMXusPtaohiVq"
@@ -5102,7 +5138,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 322013,
       "name": "Your Great Deception",
       "url": "https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm"

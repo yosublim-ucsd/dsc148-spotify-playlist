@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 246777,
+  "num_followers": 247336,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjQ3NDliZjk0NmQ4MWJmYWE1Mzg0ODczNTg3YWFjYjEyODU2MzU4",
+  "snapshot_id": "MCxmMDg4NGE4MGY2ZWQwNTM0MDg5YzVhZDdhYTgzMTBkN2NiNzk3OGFj",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -63,22 +63,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 252230,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Falling for U",
         "url": "https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 124000,
       "name": "Falling for U",
       "url": "https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 252230,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -427,38 +427,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Dreams for Two",
-        "url": "https://open.spotify.com/album/7t35JHjhNRPMZ3eZHuDeba"
-      },
-      "artists": [
-        {
-          "name": "Rook1e",
-          "url": "https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID"
-        }
-      ],
-      "duration_ms": 96004,
-      "name": "I Fell in Love with You One Night in September",
-      "url": "https://open.spotify.com/track/10hweQwWcUhBcpipYEvCYD"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "Steven Universe",
-        "url": "https://open.spotify.com/album/5jM0CBYMJh1J5vcxR0DzM5"
-      },
-      "artists": [
-        {
-          "name": "L.Dre",
-          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
-        }
-      ],
-      "duration_ms": 134025,
-      "name": "Steven Universe",
-      "url": "https://open.spotify.com/track/7zkA4TSmYO1Bko2PnFn0YB"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Let's Go",
         "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
       },
@@ -479,6 +447,38 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "Steven Universe",
+        "url": "https://open.spotify.com/album/5jM0CBYMJh1J5vcxR0DzM5"
+      },
+      "artists": [
+        {
+          "name": "L.Dre",
+          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
+        }
+      ],
+      "duration_ms": 134025,
+      "name": "Steven Universe",
+      "url": "https://open.spotify.com/track/7zkA4TSmYO1Bko2PnFn0YB"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Dreams for Two",
+        "url": "https://open.spotify.com/album/7t35JHjhNRPMZ3eZHuDeba"
+      },
+      "artists": [
+        {
+          "name": "Rook1e",
+          "url": "https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID"
+        }
+      ],
+      "duration_ms": 96004,
+      "name": "I Fell in Love with You One Night in September",
+      "url": "https://open.spotify.com/track/10hweQwWcUhBcpipYEvCYD"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "unexpected",
         "url": "https://open.spotify.com/album/1FSH709UYOnXifCr9mihgJ"
       },
@@ -491,22 +491,6 @@
       "duration_ms": 86571,
       "name": "viola",
       "url": "https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "Buena Vista",
-        "url": "https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 99996,
-      "name": "Sakura Trees",
-      "url": "https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -527,6 +511,22 @@
       "duration_ms": 127137,
       "name": "Cut My Hair",
       "url": "https://open.spotify.com/track/3DYZKxjG8SZrWpVcoUilqQ"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Buena Vista",
+        "url": "https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 99996,
+      "name": "Sakura Trees",
+      "url": "https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN"
     },
     {
       "added_at": "2022-02-02 00:21:48",

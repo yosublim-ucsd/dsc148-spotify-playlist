@@ -4,10 +4,11 @@
 
 > Featuring that new vintage\. Cover: Sarah Kang
 
-360 songs - 20 hr 46 min
+362 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [4321](https://open.spotify.com/track/22ZjKxmxtMXoAnJSN9gpq5) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [4321](https://open.spotify.com/album/5cqnDDzRKXFsjpax8cY2yo) | 3:52 | 2023-11-17 |  |
 | [9](https://open.spotify.com/track/0pvWt9KQykseV3y14H6m9N) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [9](https://open.spotify.com/album/52Of3CIb4EXdoyldUFg7An) | 4:31 | 2021-12-03 | 2022-07-11 |
 | [about time](https://open.spotify.com/track/2khJckZKgm10rTK583uKuQ) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Takahiro Izumikawa](https://open.spotify.com/artist/4CJAJc3P508XZPuIOi1c8D) | [about time](https://open.spotify.com/album/5vMVHkJ4komTyjWLIax60u) | 3:13 | 2022-07-01 | 2023-02-16 |
 | [Addiction](https://open.spotify.com/track/5zzN7Dvt8eJI8m7egpKRdM) | [Nina Tonji](https://open.spotify.com/artist/4tDdvHgJos0AlSU3sptU1q), [Jay Adams](https://open.spotify.com/artist/6MUJd2wLr0VB7SXy9kPgJ8), [Ben Molinaro](https://open.spotify.com/artist/3DYu0keMqdZnNJ3QezVFMG) | [Don't Try](https://open.spotify.com/album/53qLFnHCxA1bDGGSyxfkAk) | 2:55 | 2022-09-09 | 2023-02-16 |
@@ -92,7 +93,7 @@
 | [Dream Boy](https://open.spotify.com/track/45dJrdg8O7Rz1XAlffMc9N) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Dream Boy](https://open.spotify.com/album/0V7yLI80TezN9BNhpoUPW1) | 3:24 | 2023-10-27 |  |
 | [Drifting Apart](https://open.spotify.com/track/5Pr6R1aGN7tk18HslPUrSW) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Chapter 2](https://open.spotify.com/album/3N5XKeovbZHLKdeORgHEJ1) | 3:29 | 2021-12-03 | 2022-12-24 |
 | [Drippin' In Love](https://open.spotify.com/track/2qCl9fSe6lVJFVA18nCZ5Z) | [Frankie Zulferino](https://open.spotify.com/artist/1e2qCgABcOAaTeqLHHFkvC) | [Drippin' In Love](https://open.spotify.com/album/7a2boCHqvpmp7S2jNOgp7K) | 4:05 | 2022-08-26 | 2023-02-18 |
-| [Drunk On A Flight](https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 3:02 | 2023-01-27 |  |
+| [Drunk On A Flight](https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 3:02 | 2023-01-27 | 2023-11-18 |
 | [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 | 2023-01-20 | 2023-04-20 |
 | [Dry Bones](https://open.spotify.com/track/6XbYqxCWmzo5stjfaKgXEi) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Troy Miller](https://open.spotify.com/artist/5JM4WCkJO9f1jZK3ZdxovQ) | [Dry Bones](https://open.spotify.com/album/4fbOSnKV77GDqa54vORMym) | 3:09 | 2021-12-03 | 2023-01-28 |
 | [Eat Your Young](https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 4:02 | 2023-03-17 | 2023-08-21 |
@@ -202,7 +203,8 @@
 | [Living with Your Memory](https://open.spotify.com/track/6aCrKdFRzobnkNT65cDGUe) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Living with Your Memory](https://open.spotify.com/album/4BxjNBVsvFNvDBebXVPfrn) | 3:14 | 2022-04-01 | 2022-07-09 |
 | [Lonely](https://open.spotify.com/track/3uniYjDIM3FZEdL2fE1MLc) | [Local Nomad](https://open.spotify.com/artist/48Dewct2nrCHCT3NvDcydV), [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [Lonely](https://open.spotify.com/album/15sFi94U2Y45drc3e8mD6U) | 3:42 | 2021-12-03 | 2022-07-27 |
 | [Long Goodbye](https://open.spotify.com/track/16DVu0Kqj2RpmiCuLpqRQp) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/7JXHOJzHPh43y5gxDHoV97) | 4:23 | 2023-09-08 | 2023-10-24 |
-| [Long Goodbye](https://open.spotify.com/track/5HFouuI6G4RNFoQFnr0cOU) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/1FY6Ov9aGkNEhXa7GbeRwM) | 4:23 | 2023-09-08 |  |
+| [Long Goodbye](https://open.spotify.com/track/2UwkYWLgKM9IWlAwDZGR4K) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL) | 4:23 | 2023-09-08 |  |
+| [Long Goodbye](https://open.spotify.com/track/5HFouuI6G4RNFoQFnr0cOU) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/1FY6Ov9aGkNEhXa7GbeRwM) | 4:23 | 2023-09-08 | 2023-11-18 |
 | [Long Way 'Round](https://open.spotify.com/track/0mmhjGwRqZ5tTVYxF2ewpb) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Long Way 'Round](https://open.spotify.com/album/4uUuLVYP7mwMRvovExURYk) | 4:05 | 2022-03-18 | 2023-02-16 |
 | [Looking Through The Hours](https://open.spotify.com/track/10fIQMKiKrbTswLiwSQSZ8) | [Bombargo](https://open.spotify.com/artist/5gcuakqbbCNnx9fBZWCFfW) | [Looking Through The Hours](https://open.spotify.com/album/5K3qB9W5nsVnMXsuqJLZeA) | 3:57 | 2022-05-13 | 2022-07-22 |
 | [Love](https://open.spotify.com/track/07UkdNXHXfFnBP5JTXfViA) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [What Happiness Is](https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD) | 3:32 | 2021-12-03 | 2022-07-29 |

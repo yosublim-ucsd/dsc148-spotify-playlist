@@ -4,7 +4,7 @@
 
 > ¡Mujeres de los Andes, a todo volumen! En portada Las Áñez.
 
-247 songs - 13 hr 45 min
+249 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Balada Borracha](https://open.spotify.com/track/3jBNpVIScSy6HjcbFqqLWG) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Almas Conectadas](https://open.spotify.com/album/7m3BZf2quk9AuZsmq57LAt) | 4:03 | 2022-07-06 | 2023-03-02 |
 | [Balada Borracha](https://open.spotify.com/track/4NPgATaM6E5lmf9iCSfu2L) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Vuelve](https://open.spotify.com/album/5Etz4hHQKyjwMBNQ2A0G4i) | 4:03 | 2022-11-02 | 2022-11-13 |
 | [Bellakita](https://open.spotify.com/track/7anoUUKKK3GQOpdR3BSGsE) | [Soley GJ](https://open.spotify.com/artist/6XwiSUANGc1xBWtSXeL1EY) | [Bellakita](https://open.spotify.com/album/2ODMDBV9TXCofogxYdP5oG) | 2:42 | 2023-02-01 | 2023-03-02 |
+| [Beso de Luna](https://open.spotify.com/track/722rVjkkGTlugUMxQn3BGz) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Aries](https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx) | 3:03 | 2023-11-17 |  |
 | [Bienvenidos al tren](https://open.spotify.com/track/3FP4Y8SQLlTPu5avLh5iZM) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Bienvenidos al tren](https://open.spotify.com/album/4XGsUek1AvzOy2oQYYeyrs) | 5:03 | 2023-01-04 | 2023-06-15 |
 | [Boca a Boca](https://open.spotify.com/track/1GvDIXN7AxrtoTjrxg8hR2) | [Daniela Calle](https://open.spotify.com/artist/7KpsVPUvyYUhwQaUCVNYZX) | [Boca a Boca](https://open.spotify.com/album/66cnlRnSTxKP5MYPFvAoSm) | 2:31 | 2023-11-01 |  |
 | [Bogando](https://open.spotify.com/track/24k6qrLWl6GsF8tFXgkKuo) | [Semblanzas del Rio Guapi](https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H) | [Voy Pa Allá](https://open.spotify.com/album/2VkO77Wpc5HF312r8Itfa4) | 4:23 | 2022-01-05 |  |
@@ -89,7 +90,7 @@
 | [ENMÚSAME](https://open.spotify.com/track/3cY6e5pfLpYk5uiT5RdYcv) | [Gallardía](https://open.spotify.com/artist/0yP5P5C0GfMQ8Nlpq3lFBY) | [ENMÚSAME](https://open.spotify.com/album/1BwMM9VT7IO94E8ImUD9ys) | 2:29 | 2022-05-31 | 2023-02-02 |
 | [Eres \(Como El Mar\)](https://open.spotify.com/track/0MiVynTf6cgHAdF7Bg9Bzh) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Eres \(Como El Mar\)](https://open.spotify.com/album/64MHMIzRYXbn47ks6iezXi) | 3:28 | 2023-06-07 | 2023-07-06 |
 | [ESMERALDAS \(Vainarara\_Bm\_80BPM\)](https://open.spotify.com/track/0YxqvalYueKU5d8kiIwxos) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [ESMERALDAS \(Vainarara\_Bm\_80BPM\)](https://open.spotify.com/album/5pYvjIHn4s9wKqVEbeBXFY) | 2:34 | 2023-05-12 | 2023-08-03 |
-| [Estrella Fugaz](https://open.spotify.com/track/4ono3Yv2pkKMHOyhGR3XLW) | [Isabel Garcés](https://open.spotify.com/artist/4xkkYZnuGYyxRIvkLz5LfY) | [Estrella Fugaz](https://open.spotify.com/album/0U4CGswPa88DuTdtQojlBs) | 2:53 | 2023-09-06 |  |
+| [Estrella Fugaz](https://open.spotify.com/track/4ono3Yv2pkKMHOyhGR3XLW) | [Isabel Garcés](https://open.spotify.com/artist/4xkkYZnuGYyxRIvkLz5LfY) | [Estrella Fugaz](https://open.spotify.com/album/0U4CGswPa88DuTdtQojlBs) | 2:53 | 2023-09-06 | 2023-11-18 |
 | [FANTASMAS](https://open.spotify.com/track/5oc0avV70I9FIJIRyIeRU4) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [FANTASMAS](https://open.spotify.com/album/2QubXvxqMEnCtzhHFYChay) | 2:52 | 2023-05-03 |  |
 | [Fashion Criminal](https://open.spotify.com/track/0azenPr5m8N2fGVkp5BEuw) | [Oliva](https://open.spotify.com/artist/1gBHZ6j8W5Xs3t9gmvedJw) | [Fashion Criminal](https://open.spotify.com/album/2S6TKxlcxqreIKTckKQAcW) | 2:50 | 2022-01-05 | 2023-03-04 |
 | [FIXXIÓN](https://open.spotify.com/track/7Hkfm6Yg7IH2VBmTGIjizg) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:07 | 2023-03-03 | 2023-09-22 |
@@ -149,7 +150,7 @@
 | [Me Duele](https://open.spotify.com/track/2srklBkaBf5cCIeVCmyZso) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [Me Duele](https://open.spotify.com/album/5rnykaeDDoPwOTG0e6PuKN) | 3:10 | 2022-01-05 | 2023-03-02 |
 | [Me Liberé](https://open.spotify.com/track/1hCaiILikh8EbuuvHi8aVX) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc), [Guafa Trío](https://open.spotify.com/artist/6mtgqH9aTL4tvdBheEoaN6) | [Me Liberé](https://open.spotify.com/album/30gLK3cqK2HuoG1PmgOZZk) | 4:15 | 2022-01-05 | 2022-03-10 |
 | [Mesero](https://open.spotify.com/track/21CrqHsZwx6RJKShoYOvJf) | [Karen Lizarazo](https://open.spotify.com/artist/6Xiry0W18NKRSiFwXi4zjV), [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [Mesero](https://open.spotify.com/album/3xM0T3G0a4aQI0HUHnmZ79) | 2:20 | 2022-05-06 | 2022-12-01 |
-| [Miel](https://open.spotify.com/track/3wGbZ2074p60hhavjQMF6l) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 2:39 | 2023-08-02 |  |
+| [Miel](https://open.spotify.com/track/3wGbZ2074p60hhavjQMF6l) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 2:39 | 2023-08-02 | 2023-11-18 |
 | [Mito](https://open.spotify.com/track/0yN1zA3OSihsVrAwymehwX) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Mito](https://open.spotify.com/album/6ELoILaST1j1C4UNFZO2vW) | 3:54 | 2023-03-01 | 2023-04-06 |
 | [Morena](https://open.spotify.com/track/4oZaZ7tGQ8EXVlsd2wXWQ0) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Lil Silvio & El Vega](https://open.spotify.com/artist/53F3cdrVpYq5iM4iaa6AQ3), [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Morena](https://open.spotify.com/album/2tyL1zXbNKyMCCYYgwa3UP) | 4:02 | 2022-01-05 | 2022-03-05 |
 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/7Hwl1ai57xB7TxzICqT3zM) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Muchachitos Feat\. Humbe](https://open.spotify.com/album/6OTpdwUiPRk2KeeCFRZsX9) | 3:05 | 2022-04-08 |  |
@@ -201,6 +202,7 @@
 | [Rush](https://open.spotify.com/track/5PTJwdNFi0MT7JEMBe1rnT) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Rush](https://open.spotify.com/album/5fhmAvUWLFpdhDRidaOqHK) | 3:15 | 2023-06-30 | 2023-08-03 |
 | [Sabor a Ti](https://open.spotify.com/track/4lUhWY1Cc1s1N0ncrAHE4x) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Catarsis](https://open.spotify.com/album/2aWqyVLeFFPrPe4Ra77b9f) | 3:13 | 2023-05-03 | 2023-06-21 |
 | [Salud Por Él](https://open.spotify.com/track/41Ix7ovR9I9fXcEy8hDcOj) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Prohibido, Salud Por Él Y Más Éxitos](https://open.spotify.com/album/73ibYU5GkSI4s9r7gLbtPb) | 3:46 | 2022-07-06 | 2023-01-05 |
+| [sayonara](https://open.spotify.com/track/5klhksKfxfFQrHA3pTz9mz) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [nena kunai](https://open.spotify.com/album/723RPBWXK0P5zbstDACnfo) | 1:52 | 2023-11-17 |  |
 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 | 2022-01-05 | 2023-03-02 |
 | [Ser eternos](https://open.spotify.com/track/3fXdB2mUhgxd2sBGSfYL1r) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Reencarnaciones](https://open.spotify.com/album/0PTSztSXIoufnzZWQB4L73) | 3:40 | 2023-06-20 | 2023-07-06 |
 | [Señor Mentira](https://open.spotify.com/track/7uebcjB4PNrMzTUdxCefno) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk) | 4:29 | 2023-01-04 |  |

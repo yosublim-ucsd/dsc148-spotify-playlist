@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: mercury <3
 
-1,977 songs - 4 day 12 hr 8 min
+1,978 songs - 4 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -936,6 +936,7 @@
 | [It's Never Easy](https://open.spotify.com/track/0SjJDb6fFU16YwSvDK098t) | [Lener](https://open.spotify.com/artist/4z6eCRDaL8dNvotGKlPhoS) | [It's Never Easy](https://open.spotify.com/album/2MEZSd3jpC8CJKXJE9lPug) | 2:32 | 2023-08-02 | 2023-09-07 |
 | [Itinerary](https://open.spotify.com/track/5OJvD7iPHQo0SuSB6zjoO7) | [V.V\. Lightbody](https://open.spotify.com/artist/0g7sn95ZJ9iMKdmIAec3E5) | [Itinerary](https://open.spotify.com/album/2Qiu1gpocWUsFGIx0fJsTF) | 3:30 | 2023-04-12 | 2023-05-18 |
 | [its alright :\)](https://open.spotify.com/track/0ITjrJTxJWUVqthwUIOKPZ) | [Kevin Walkman](https://open.spotify.com/artist/0Q1Xt8JEFDwfiuNBIM60E4) | [its alright :\)](https://open.spotify.com/album/4x8tDeytfMzIVZMrDwlF0Y) | 3:22 | 2021-08-26 | 2022-01-13 |
+| [iznotreal](https://open.spotify.com/track/4p3rEFNRRBsJHeerpmz5WU) | [meg elsier](https://open.spotify.com/artist/4rkAMhebcdsLwZKBriNerT) | [iznotreal/baby](https://open.spotify.com/album/4HpNCwKuDOIZCxO0Pg3yvg) | 3:33 | 2023-11-17 |  |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-01-12 | 2023-01-12 |
 | [Jacket](https://open.spotify.com/track/1dvZ5M0ZFaSWJI3Y5U6s7J) | [Pet Snake](https://open.spotify.com/artist/6iD9rqdmw5kq1W8CchAtCi) | [Jacket](https://open.spotify.com/album/2soKn44dzEe1649DoFUpCs) | 3:44 | 2022-10-19 | 2022-12-01 |
 | [Jane Tells a Lie](https://open.spotify.com/track/2ByTk98Ax1GwT4e9Wbj4Wd) | [Coyle Girelli](https://open.spotify.com/artist/5yyMbFWf7vC14hXTV9cX3q) | [Jane Tells a Lie](https://open.spotify.com/album/5647VX9QjYIIVCA0GMA8Le) | 3:47 | 2023-08-02 | 2023-09-21 |

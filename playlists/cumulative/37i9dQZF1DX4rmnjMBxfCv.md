@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the MENA region\. Cover: Alan Walker, Sophie Stray & Zena Emad
 
-177 songs - 11 hr 44 min
+179 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,10 +158,12 @@
 | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm) | 2:54 | 2023-06-23 | 2023-08-17 |
 | [Valhalla](https://open.spotify.com/track/0UbXHdd27A36j54KIopEns) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Randall](https://open.spotify.com/artist/2SqO0ejUsZ0Z0Rvh4w09Dp) | [Atlantis](https://open.spotify.com/album/2rPedzPOYgNlH7jjwF6bSL) | 3:56 | 2022-12-22 | 2023-02-02 |
 | [Valhalla](https://open.spotify.com/track/62XbDU9C904nhFkcjFXnEQ) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Randall](https://open.spotify.com/artist/2SqO0ejUsZ0Z0Rvh4w09Dp) | [Atlantis](https://open.spotify.com/album/0AYqFxV365fsq7rVnW9nt0) | 3:56 | 2022-03-30 | 2022-12-31 |
-| [Vocation](https://open.spotify.com/track/70xKqgJOnicN4OsIB6hOXU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Vocation](https://open.spotify.com/album/2wxhtvRbDXBBHnGXQ8HCqa) | 3:04 | 2023-11-17 |  |
+| [Vocation](https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:04 | 2023-11-17 |  |
+| [Vocation](https://open.spotify.com/track/70xKqgJOnicN4OsIB6hOXU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Vocation](https://open.spotify.com/album/2wxhtvRbDXBBHnGXQ8HCqa) | 3:04 | 2023-11-17 | 2023-11-18 |
 | [W Maak](https://open.spotify.com/track/2x4A8I4dHDoilUNfkcCT3V) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 9 \(Hassa Beek\)](https://open.spotify.com/album/3ZzJduvd3tDXhfQKcKxXyz) | 3:41 | 2022-03-30 | 2022-11-26 |
 | [Wadina Baeid \(Bonus Track\)](https://open.spotify.com/track/16FIBzbTBwPvO35SFTG4ql) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 4:09 | 2022-09-12 | 2023-07-04 |
 | [Wake Me Up In Paris](https://open.spotify.com/track/4dq7XLDmFHNwc1yqL339qT) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ) | [Wake Me Up In Paris](https://open.spotify.com/album/6TiAOruZ9SPA5FLsD7ACsN) | 2:16 | 2023-08-16 |  |
+| [Water](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Water](https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D) | 3:11 | 2023-11-17 |  |
 | [Waves & Wavs](https://open.spotify.com/track/1D7PE3dDyonJfUP6oSuaq7) | [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Anchor Point EP](https://open.spotify.com/album/1WmE8DAfRSq16Qre7SEV1V) | 5:28 | 2023-06-23 | 2023-08-17 |
 | [Wesh Gabak](https://open.spotify.com/track/7sRWrhHBNDpUyPsjApWqYF) | [DEEJAY TAMER](https://open.spotify.com/artist/4NhgtxJKalwNrFHNGmOUeh) | [Wesh Gabak](https://open.spotify.com/album/1XqsRHBc8YU3Ix5jsvBXWK) | 4:09 | 2022-08-14 | 2023-06-24 |
 | [Weyna \- Wassim Younes Remix](https://open.spotify.com/track/0Tv9RfkmEFwpR2phzJHf1F) | [Mel7em](https://open.spotify.com/artist/2kA5fHfCu63JFihHuda5Oi), [Wassim Younes](https://open.spotify.com/artist/32zfLHQZue9cXu7KF3L8pn) | [Weyna \(Wassim Younes Remix\)](https://open.spotify.com/album/539ieTc3bavENUkGBu4LxJ) | 6:42 | 2023-02-02 | 2023-06-24 |

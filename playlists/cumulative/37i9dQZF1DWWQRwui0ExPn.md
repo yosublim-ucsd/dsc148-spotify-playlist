@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,235 songs - 9 day 20 hr 13 min
+6,237 songs - 9 day 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3232,6 +3232,7 @@
 | [Luna Amarilla](https://open.spotify.com/track/6hSSEFPdQXRHzUgxNx9OJJ) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Luna Amarilla](https://open.spotify.com/album/1E4JMoib79fHpSlBIASZ0A) | 1:55 | 2022-12-16 | 2023-10-13 |
 | [Luna Artificial](https://open.spotify.com/track/6uTvpThGGN9wdKgdEnFPsW) | [Cielomoto](https://open.spotify.com/artist/27GlbcSMtO4kBTdzs2a5Ph) | [Pacifico](https://open.spotify.com/album/1hG0XkGOR77SzXc2QeHQkU) | 3:15 | 2021-12-17 | 2022-08-19 |
 | [lunar](https://open.spotify.com/track/5oxRePPI5auphKBWdf3SsX) | [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [lunar](https://open.spotify.com/album/3M0kIVVMCl5vjkDl6yI0Co) | 2:06 | 2022-08-19 | 2022-11-25 |
+| [Lunar Lull](https://open.spotify.com/track/5ffzlptK9U9oGU2h8H9mPl) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Lunar Lull](https://open.spotify.com/album/3seI3wUvZuOd2atIYTu5Th) | 2:01 | 2023-11-17 |  |
 | [Lunar Walk](https://open.spotify.com/track/3dvOTAKXiZDxhwgaIsIH7Y) | [Elijah the Alchemist](https://open.spotify.com/artist/3KUUj9cTyiuixKmbn96baH), [I'm.Busy](https://open.spotify.com/artist/7CLlZl0i0kCbkMSLmzYqS6) | [Lunar Walk](https://open.spotify.com/album/4QLZmgAZNL2SIzgn1L4XhB) | 2:28 | 2022-02-25 | 2022-08-05 |
 | [Lunaria](https://open.spotify.com/track/2LeB4W3vaR6HB4y6gWpUY9) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Lunaria / Hedera](https://open.spotify.com/album/3zP4M1aTF9givkBPPLNnjq) | 1:33 | 2022-04-08 | 2022-09-02 |
 | [Lunatic](https://open.spotify.com/track/1hOGrcTKKskVF0Q84pU7U3) | [Poetic Papaya](https://open.spotify.com/artist/5e7HNrHXzeGLvFX5A43b51) | [Lunatic](https://open.spotify.com/album/41iHfO1BeBZamdVKX6inmn) | 2:14 | 2021-12-17 | 2022-09-02 |
@@ -3494,7 +3495,7 @@
 | [Monkey Business](https://open.spotify.com/track/4Iet2sxhiKiwAsqq5sCqL7) | [Manamera](https://open.spotify.com/artist/7ar7lfJxKo3iW5YNXzrLJz) | [Monkey Business](https://open.spotify.com/album/2M04jighXhiPsnzzOmYBzc) | 2:39 | 2019-08-18 | 2021-07-04 |
 | [Monkey Sauce](https://open.spotify.com/track/7LYY26lD6KrkGUNdsg6wEC) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Monkey Sauce](https://open.spotify.com/album/2pFD8SDEFDhgV14y7rYdZw) | 2:40 | 2023-01-20 | 2023-06-08 |
 | [Monkman](https://open.spotify.com/track/2BuDfMOaNkJ9HRqQskDSJw) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [Monkman](https://open.spotify.com/album/57fA0ObV3ruhRbLdT7wJeK) | 2:13 | 2023-05-09 | 2023-09-16 |
-| [Monogatari](https://open.spotify.com/track/7JF6UFBq1v7ryBWrxR7lwd) | [7th Indigo](https://open.spotify.com/artist/75RGXEBlI9OL7jBSMlf12W) | [Monogatari](https://open.spotify.com/album/1NZw82vF0Fh6emRyeRjnWC) | 2:15 | 2023-11-17 |  |
+| [Monogatari](https://open.spotify.com/track/7JF6UFBq1v7ryBWrxR7lwd) | [7th Indigo](https://open.spotify.com/artist/75RGXEBlI9OL7jBSMlf12W) | [Monogatari](https://open.spotify.com/album/1NZw82vF0Fh6emRyeRjnWC) | 2:15 | 2023-11-17 | 2023-11-18 |
 | [Monotation](https://open.spotify.com/track/2iXt75EraZMReN0YcioAoM) | [Seaspray](https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO) | [Monotation](https://open.spotify.com/album/7iizN309bv4fotTInRIOqe) | 2:41 | 2022-03-19 | 2022-08-19 |
 | [Monotation Rework](https://open.spotify.com/track/6MmnJDd6EkfQpdmmh6BVhu) | [Seaspray](https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO), [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Monotation](https://open.spotify.com/album/7iizN309bv4fotTInRIOqe) | 1:39 | 2022-04-09 | 2022-04-15 |
 | [Monro Beach](https://open.spotify.com/track/1i1uXh6JNzYxgmKKZRKgMA) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Monro Beach](https://open.spotify.com/album/57KaVUISHlqDK6SxMAOSH3) | 2:09 | 2021-12-03 | 2022-06-17 |
@@ -5241,7 +5242,7 @@
 | [Sunny Side Of The Street](https://open.spotify.com/track/1benT2vqPaoFILmrrrPnwM) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [Sunny Side Of The Street](https://open.spotify.com/album/20IDGc4pJHfcGzIP4oDFeA) | 1:30 | 2022-11-11 | 2022-12-16 |
 | [sunny side up](https://open.spotify.com/track/1CDRrHUIsYalMfFGSAfIaF) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [sunny side up](https://open.spotify.com/album/5Z5apO67MIDfqjntr7QbQx) | 2:12 | 2023-06-14 | 2023-07-28 |
 | [Sunrise](https://open.spotify.com/track/03gaHTR3VlXjIG5OhJ1pVl) | [Klaus Layer](https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x) | [Sunrise](https://open.spotify.com/album/5bTXKfssmkUoo7AdXYVFK8) | 2:32 | 2022-03-11 | 2022-08-05 |
-| [Sunrise](https://open.spotify.com/track/2KVNiKawbApJZVsB5FFREq) | [Lou Vega](https://open.spotify.com/artist/2MOWSerVsZJGoIS0EOSel4) | [Sunrise](https://open.spotify.com/album/6iUWR0LxKdeJq5A0Op1uIp) | 1:57 | 2023-11-17 |  |
+| [Sunrise](https://open.spotify.com/track/2KVNiKawbApJZVsB5FFREq) | [Lou Vega](https://open.spotify.com/artist/2MOWSerVsZJGoIS0EOSel4) | [Sunrise](https://open.spotify.com/album/6iUWR0LxKdeJq5A0Op1uIp) | 1:57 | 2023-11-17 | 2023-11-18 |
 | [sunrise](https://open.spotify.com/track/2rBWwel0p7s1coEksBE84h) | [mellan.](https://open.spotify.com/artist/7kLB19gMrkKiS5OOPRiRLt) | [sunrise](https://open.spotify.com/album/6rtcpp8YWy38ys4eWHUrr4) | 1:45 | 2022-09-02 | 2023-01-13 |
 | [Sunset](https://open.spotify.com/track/380oLTaY6Q0UYefjrxUPyO) | [Calm Chapter](https://open.spotify.com/artist/7Bqsbmh24Qjg1sugGDNUoh), [Mindless Meditation](https://open.spotify.com/artist/1jWBDHh1PMVKYnT44tnxpS) | [Alive](https://open.spotify.com/album/4Pp0YGHzcrREkojvLtn7ob) | 2:36 | 2022-02-14 | 2022-07-22 |
 | [Sunset](https://open.spotify.com/track/7siB5xHLbfjGBJsbIqrc5G) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Sunset](https://open.spotify.com/album/5xLZfXJa4Zp1hQ7Immqcl6) | 2:14 | 2022-04-08 | 2022-09-02 |
@@ -6118,6 +6119,7 @@
 | [With You](https://open.spotify.com/track/0Jk8W9nCLdTTz9qk2htTT2) | [Sem0r](https://open.spotify.com/artist/5kKtBm0XgwJnI8oudcaupR) | [With You](https://open.spotify.com/album/1xZrTxgP9eFyLNdolZy7LE) | 1:55 | 2022-10-28 | 2022-11-24 |
 | [With You](https://open.spotify.com/track/0uErZPnRP5vw8TgYO7NGXG) | [Sem0r](https://open.spotify.com/artist/5kKtBm0XgwJnI8oudcaupR) | [With You](https://open.spotify.com/album/7BarNpdP8ueXQswRYdlZxS) | 1:55 | 2022-11-18 |  |
 | [With You Again](https://open.spotify.com/track/28k2wGIJwENhGFt61KFJIo) | [Ymori](https://open.spotify.com/artist/4Yccu9UQwMSEegvhhS6tRK) | [With You Again](https://open.spotify.com/album/4h2Yw8qDsZHoMYIsJdjycm) | 2:44 | 2019-12-06 | 2020-04-24 |
+| [With your eyes!](https://open.spotify.com/track/1USmYJcOKa94oA58sRnOXJ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [With your eyes!](https://open.spotify.com/album/2WomwpHMSA6E2yrMSEJxCI) | 2:29 | 2023-11-17 |  |
 | [Withdrawn](https://open.spotify.com/track/0uzPF5dc3o3yBNx8rDtJbn) | [mell\-ø](https://open.spotify.com/artist/6bA2OonnJsG1tN9yClu2aC) | [Withdrawn](https://open.spotify.com/album/3q2PNbCWfWlI3sAMxBfPFC) | 2:23 | 2019-12-22 | 2021-07-29 |
 | [Withered Flowers](https://open.spotify.com/track/1YkcLEmOUVmGFD3snAyEN2) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Withered Flowers](https://open.spotify.com/album/1tImnzWhnlCt4nPP0E27b8) | 1:37 | 2022-11-18 | 2023-02-14 |
 | [Within](https://open.spotify.com/track/0c5nFjTVt1QvjtFmg5Jz0W) | [Kavv](https://open.spotify.com/artist/2s9AUbN500rutTnXy78HzE), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Within](https://open.spotify.com/album/1wU7ck1nYcGCjI4Pjvzss6) | 1:24 | 2019-09-16 | 2021-07-11 |

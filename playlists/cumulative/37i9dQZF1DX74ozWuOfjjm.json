@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Adam",
+        "url": "https://open.spotify.com/album/75zWtv9nKbJ4EgEh0yCpHZ"
+      },
+      "artists": [
+        {
+          "name": "Lotte Gallagher",
+          "url": "https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196388,
+      "name": "Adam",
+      "url": "https://open.spotify.com/track/40RVEzCRBmQpMQFL6KxNnV"
+    },
+    {
+      "album": {
         "name": "Ahhh",
         "url": "https://open.spotify.com/album/1kzd5L9Zcz0pTDQCNy2IFs"
       },
@@ -442,6 +460,24 @@
       "duration_ms": 222266,
       "name": "Arrived",
       "url": "https://open.spotify.com/track/0kT06I5dLlP64u7kloklLS"
+    },
+    {
+      "album": {
+        "name": "Asphalt",
+        "url": "https://open.spotify.com/album/10N8STYVe81IzMCAkA8eBf"
+      },
+      "artists": [
+        {
+          "name": "Molly Payton",
+          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Asphalt",
+      "url": "https://open.spotify.com/track/7wsZgP1uN9IRlcH0NoCVq9"
     },
     {
       "album": {
@@ -1052,6 +1088,24 @@
       "duration_ms": 114004,
       "name": "Can I Shower At Yours",
       "url": "https://open.spotify.com/track/4M5SqWR8LIgE9N3QzEJlyS"
+    },
+    {
+      "album": {
+        "name": "Can't Afford Therapy",
+        "url": "https://open.spotify.com/album/3ZHMK3HK4L9j5pmYZ7eBHH"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249656,
+      "name": "Can't Afford Therapy",
+      "url": "https://open.spotify.com/track/6Mek4TbQaDrS2jqe0KBhWy"
     },
     {
       "album": {
@@ -2794,7 +2848,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 353021,
       "name": "foolish thinking",
       "url": "https://open.spotify.com/track/5lvnhOrJy27bEhcfqIodjv"
@@ -5448,10 +5502,28 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 136833,
       "name": "Main Thing",
       "url": "https://open.spotify.com/track/1aSjnYP1J124WyGB7MsJ5X"
+    },
+    {
+      "album": {
+        "name": "Main Thing",
+        "url": "https://open.spotify.com/album/2yy6E7mVSeTaI0o93KpJZm"
+      },
+      "artists": [
+        {
+          "name": "CHAII",
+          "url": "https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136833,
+      "name": "Main Thing",
+      "url": "https://open.spotify.com/track/5hFhStp8OWy36DoDCyGp71"
     },
     {
       "album": {
@@ -5560,6 +5632,24 @@
       "duration_ms": 174500,
       "name": "Me & You",
       "url": "https://open.spotify.com/track/0OEuWuxC4k8eqC6BWkZrhl"
+    },
+    {
+      "album": {
+        "name": "5 Stages",
+        "url": "https://open.spotify.com/album/3npBYJtVo5rNcZVGm6gqua"
+      },
+      "artists": [
+        {
+          "name": "Molly Millington",
+          "url": "https://open.spotify.com/artist/52GBEgAVGUOB8bXQQ4s9aF"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143753,
+      "name": "Me and My Denial",
+      "url": "https://open.spotify.com/track/4FOP33q79z94gHxEvi2sq3"
     },
     {
       "album": {
@@ -7302,6 +7392,24 @@
       "duration_ms": 194202,
       "name": "Sick To My Stomach",
       "url": "https://open.spotify.com/track/54m0ShUEWaiYTqnsidhYvM"
+    },
+    {
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/6kRzZnRbdKcnjozCn9S0B9"
+      },
+      "artists": [
+        {
+          "name": "merci, mercy",
+          "url": "https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162375,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/3aT88But3JPrDE5y7r7YQA"
     },
     {
       "album": {
@@ -9088,6 +9196,24 @@
       "duration_ms": 231219,
       "name": "We Don't Make Sense",
       "url": "https://open.spotify.com/track/1F0oe1ZtAHpLeg457RYsNQ"
+    },
+    {
+      "album": {
+        "name": "We Don't Talk About It",
+        "url": "https://open.spotify.com/album/2fg8nUZnoXnoTK3bmQWdqk"
+      },
+      "artists": [
+        {
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174294,
+      "name": "We Don't Talk About It",
+      "url": "https://open.spotify.com/track/0IPHPjgFNGKkLQZnhRXR04"
     },
     {
       "album": {

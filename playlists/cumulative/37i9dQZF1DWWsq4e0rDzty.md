@@ -4,13 +4,14 @@
 
 > For an education in rock.
 
-146 songs - 9 hr 40 min
+147 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Oh\) Pretty Woman \- 2015 Remaster](https://open.spotify.com/track/7ptv3yXdBWwzO7rVA62rwy) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Diver Down \(Remastered\)](https://open.spotify.com/album/6Ft0JILsEo5ZP2ddjECznc) | 2:52 | 2021-10-05 |  |
 | [1979 \- Remastered 2012](https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:26 | 2021-10-05 |  |
-| [All Day and All of the Night](https://open.spotify.com/track/78JmElAFmrPNhLjovDR9Jm) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe\)](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 2:21 | 2021-10-05 |  |
+| [All Day and All of the Night](https://open.spotify.com/track/78JmElAFmrPNhLjovDR9Jm) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe\)](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 2:21 | 2021-10-05 | 2023-11-18 |
+| [All Day and All of the Night](https://open.spotify.com/track/1mfV2kv9RwFKVI8kEQlmOJ) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe Edition\)](https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ) | 2:22 | 2023-11-17 |  |
 | [All Day and All of the Night](https://open.spotify.com/track/3okPiJwW5nCLpug12sCL4p) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe Edition\)](https://open.spotify.com/album/3hbGLP1XTH7lNFJ3oHtswQ) | 2:22 | 2021-10-05 | 2022-07-29 |
 | [All Day and All of the Night \- 2014 Remastered Version](https://open.spotify.com/track/6m6pz5PJjySqdgNt3n6NfL) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Best Of](https://open.spotify.com/album/7GzeVj59bwVLFB3SX7zy6W) | 2:22 | 2021-10-05 | 2022-11-14 |
 | [And the Cradle Will Rock..\. \- 2015 Remaster](https://open.spotify.com/track/4MM0jT9z9m7VFiusFrGJ8C) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Women and Children First \(Remastered\)](https://open.spotify.com/album/7fRy246Xzz3gez6stjTgKk) | 3:33 | 2021-10-05 |  |

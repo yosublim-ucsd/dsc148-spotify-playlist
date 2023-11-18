@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Pop music driving the current, every week.  Cover: Tinashe",
+  "description": "Pop music driving the current, every week.  Cover: Billy Porter",
   "name": "Pop Frequency",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 131586,
       "name": "3, 2, 1",
       "url": "https://open.spotify.com/track/2hx8cZug1bgRMXgW5RCTUV"
+    },
+    {
+      "album": {
+        "name": "a girl like me",
+        "url": "https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162628,
+      "name": "a girl like me",
+      "url": "https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd"
     },
     {
       "album": {
@@ -503,6 +521,24 @@
     },
     {
       "album": {
+        "name": "Black Mona Lisa",
+        "url": "https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27"
+      },
+      "artists": [
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180695,
+      "name": "Black Mona Lisa",
+      "url": "https://open.spotify.com/track/7lmZTo2AochYJZH1oRsdI2"
+    },
+    {
+      "album": {
         "name": "Blue Days",
         "url": "https://open.spotify.com/album/3E2RSGxBOGzh9bAqWMmqJG"
       },
@@ -874,7 +910,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -1044,6 +1080,24 @@
       "duration_ms": 132171,
       "name": "DONT TOUCH MY MONEY",
       "url": "https://open.spotify.com/track/2F6AKAUokqFmRCfZxXZuYH"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Say Hello",
+        "url": "https://open.spotify.com/album/6tnHZRSIymuApxxWMAKvFY"
+      },
+      "artists": [
+        {
+          "name": "Mapei",
+          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158486,
+      "name": "Don\u2019t Say Hello",
+      "url": "https://open.spotify.com/track/2vLEr4lT0yFuBcP2Uz3xgS"
     },
     {
       "album": {
@@ -2046,6 +2100,24 @@
       "duration_ms": 170806,
       "name": "I Hate It Here",
       "url": "https://open.spotify.com/track/0Z6940pgaOdtTcq7cRKlHd"
+    },
+    {
+      "album": {
+        "name": "I Hate That I Care",
+        "url": "https://open.spotify.com/album/76PLp48INGRaOBffDFT5t3"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166200,
+      "name": "I Hate That I Care",
+      "url": "https://open.spotify.com/track/2PQSqRFBhbPtQ39sHRbZkE"
     },
     {
       "album": {
@@ -3474,7 +3546,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 137907,
       "name": "Pretty Girl (with Rema)",
       "url": "https://open.spotify.com/track/1p5GikXPiCkw5T2VrSPrO1"
@@ -4992,7 +5064,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 176652,
       "name": "Why Is She Calling?",
       "url": "https://open.spotify.com/track/5Sb83ml5k9pdRIqIkWfWNv"
@@ -5054,7 +5126,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 168562,
       "name": "Wonder Woman",
       "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"

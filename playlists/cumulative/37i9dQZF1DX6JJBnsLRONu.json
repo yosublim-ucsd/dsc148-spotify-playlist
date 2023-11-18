@@ -1381,6 +1381,24 @@
     },
     {
       "album": {
+        "name": "When The Roses Come Again",
+        "url": "https://open.spotify.com/album/3nOeQI6IpCQ8yAhCP8sIkt"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261545,
+      "name": "Summer's Fingers Sweetly Linger (Everywhere On Every Side)",
+      "url": "https://open.spotify.com/track/5rvb9OHjEQRTSsUqWqlSTr"
+    },
+    {
+      "album": {
         "name": "Alexandra",
         "url": "https://open.spotify.com/album/79IqAxOyFTR78bqjoVLEB4"
       },

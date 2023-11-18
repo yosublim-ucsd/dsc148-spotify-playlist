@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: FouKi, Souldia
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,495 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,511 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La Vie Qu'on Mène](https://open.spotify.com/track/7GfY0L7uQV3ECjzbjTG1Re) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [La Vie Qu'on Mène](https://open.spotify.com/album/069Csc8QGTMYIHcQLAz8Iv) | 2:58 |
 | 2 | [FTG](https://open.spotify.com/track/5j5ar3YNnHXZlYLfVPLcHT) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [FTG](https://open.spotify.com/album/1glTvN8B0pM2VY33CJnT9v) | 3:03 |
-| 3 | [Faucheuse](https://open.spotify.com/track/66VGZlm05d0M5glTZEdrga) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [RWO](https://open.spotify.com/artist/7l8hwYKPcJcXl9oGS21ArP) | [Faucheuse](https://open.spotify.com/album/68yFTMEllxi1Loqv8UqdhX) | 2:48 |
-| 4 | [Tiffany](https://open.spotify.com/track/3bKLR7Mc0SNBTBuN8OYPrj) | [Yes\*](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Tiffany](https://open.spotify.com/album/3Dy3beQddT9J0cTFje1uay) | 3:37 |
-| 5 | [Toi\-même tu sais](https://open.spotify.com/track/0OCoD7jCBxX0tqwRHTX4tL) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Double Feature](https://open.spotify.com/album/4XBegyvbWGCWkzrYrwZr41) | 2:55 |
-| 6 | [City](https://open.spotify.com/track/52bqJdZWUV9HsL2Na2vOD3) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2), [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [On frap la route?](https://open.spotify.com/album/7hES63PMmDtTdyuXzN2usE) | 2:43 |
-| 7 | [Speak White](https://open.spotify.com/track/1tGFhpQ2UsTHlMKVTsGwMX) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX) | [Speak White](https://open.spotify.com/album/4kHRu7779hubGFySAxxrU9) | 3:45 |
-| 8 | [Bando](https://open.spotify.com/track/6cdv3hsd42vgkyGloyPSRl) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [Bando](https://open.spotify.com/album/12ETKZ6rG26pNR4J7m3nfv) | 3:12 |
-| 9 | [Mauvais rêve](https://open.spotify.com/track/0MGgP4BHyxoW0eJw5piCX5) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Mauvais rêve](https://open.spotify.com/album/5SPoEMJ0aODZHCVMos4tzv) | 2:50 |
-| 10 | [REUSTA](https://open.spotify.com/track/2sEbTjUFs8UhXY0FyWwGKp) | [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr) | [REUSTA](https://open.spotify.com/album/6RXv5dRkfhCUMjamwZFlZQ) | 2:58 |
-| 11 | [La fessée](https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [La fessée](https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet) | 3:57 |
-| 12 | [The Top](https://open.spotify.com/track/0CGDrIdIsKucUtnkUFSK7b) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [TPL](https://open.spotify.com/album/3xASLbzCdazOv4wGh3oHmZ) | 3:02 |
-| 13 | [Diablo](https://open.spotify.com/track/4uUHWmCZYw49Ssd7de6Wwq) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Tronel](https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu) | [Non conventionnel](https://open.spotify.com/album/6TDvloGavY7sFzhm78Al2l) | 3:30 |
-| 14 | [GOD COMPLEX](https://open.spotify.com/track/7hKwyP2IULHzLwOildJdSo) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [GOD COMPLEX](https://open.spotify.com/album/3yeSTn4jXhZL7A27aZY4Eo) | 1:58 |
-| 15 | [SAL Tour](https://open.spotify.com/track/7zduvebDa9IjEXrONa09qx) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [SAL Tour](https://open.spotify.com/album/4sNa8HLLS8mfIYJlVUcQe7) | 2:30 |
-| 16 | [Death Note](https://open.spotify.com/track/5lK58jbXWVRXQ9EYvAWPse) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [Death Note](https://open.spotify.com/album/2AVGEBmOIgBFwdtFLzARi4) | 2:47 |
-| 17 | [Kilo](https://open.spotify.com/track/53Bto4R2uL3by1UrHK8LeJ) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Kilo](https://open.spotify.com/album/3o7VUrWDMNveamfTYFcwQc) | 1:44 |
+| 3 | [Tiffany](https://open.spotify.com/track/3bKLR7Mc0SNBTBuN8OYPrj) | [Yes\*](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Tiffany](https://open.spotify.com/album/3Dy3beQddT9J0cTFje1uay) | 3:37 |
+| 4 | [Toi\-même tu sais](https://open.spotify.com/track/0OCoD7jCBxX0tqwRHTX4tL) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Double Feature](https://open.spotify.com/album/4XBegyvbWGCWkzrYrwZr41) | 2:55 |
+| 5 | [Faucheuse](https://open.spotify.com/track/66VGZlm05d0M5glTZEdrga) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [RWO](https://open.spotify.com/artist/7l8hwYKPcJcXl9oGS21ArP) | [Faucheuse](https://open.spotify.com/album/68yFTMEllxi1Loqv8UqdhX) | 2:48 |
+| 6 | [Speak White](https://open.spotify.com/track/1tGFhpQ2UsTHlMKVTsGwMX) | [Lary Kidd](https://open.spotify.com/artist/1dHfOiwJsDtNzIIrsQgXtX) | [Speak White](https://open.spotify.com/album/4kHRu7779hubGFySAxxrU9) | 3:45 |
+| 7 | [Bando](https://open.spotify.com/track/6cdv3hsd42vgkyGloyPSRl) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [Bando](https://open.spotify.com/album/12ETKZ6rG26pNR4J7m3nfv) | 3:12 |
+| 8 | [Mauvais rêve](https://open.spotify.com/track/0MGgP4BHyxoW0eJw5piCX5) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Mauvais rêve](https://open.spotify.com/album/5SPoEMJ0aODZHCVMos4tzv) | 2:50 |
+| 9 | [City](https://open.spotify.com/track/52bqJdZWUV9HsL2Na2vOD3) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2), [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [On frap la route?](https://open.spotify.com/album/7hES63PMmDtTdyuXzN2usE) | 2:43 |
+| 10 | [La fessée](https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [La fessée](https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet) | 3:57 |
+| 11 | [The Top](https://open.spotify.com/track/0CGDrIdIsKucUtnkUFSK7b) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [TPL](https://open.spotify.com/album/3xASLbzCdazOv4wGh3oHmZ) | 3:02 |
+| 12 | [Diablo](https://open.spotify.com/track/4uUHWmCZYw49Ssd7de6Wwq) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Tronel](https://open.spotify.com/artist/6n7VICMu1PgML7oEbDLmWu) | [Non conventionnel](https://open.spotify.com/album/6TDvloGavY7sFzhm78Al2l) | 3:30 |
+| 13 | [REUSTA](https://open.spotify.com/track/2sEbTjUFs8UhXY0FyWwGKp) | [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr) | [REUSTA](https://open.spotify.com/album/6RXv5dRkfhCUMjamwZFlZQ) | 2:58 |
+| 14 | [SAL Tour](https://open.spotify.com/track/7zduvebDa9IjEXrONa09qx) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [SAL Tour](https://open.spotify.com/album/4sNa8HLLS8mfIYJlVUcQe7) | 2:30 |
+| 15 | [Death Note](https://open.spotify.com/track/5lK58jbXWVRXQ9EYvAWPse) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [Death Note](https://open.spotify.com/album/2AVGEBmOIgBFwdtFLzARi4) | 2:47 |
+| 16 | [Kilo](https://open.spotify.com/track/53Bto4R2uL3by1UrHK8LeJ) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Kilo](https://open.spotify.com/album/3o7VUrWDMNveamfTYFcwQc) | 1:44 |
+| 17 | [GOD COMPLEX](https://open.spotify.com/track/7hKwyP2IULHzLwOildJdSo) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [GOD COMPLEX](https://open.spotify.com/album/3yeSTn4jXhZL7A27aZY4Eo) | 1:58 |
 | 18 | [Bandz](https://open.spotify.com/track/2rlEaQFrTtQ0f0PaYWl9A2) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf), [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [Sang pour Sang 99%](https://open.spotify.com/album/40p9Bnjb3vS74xasSHRnkG) | 2:59 |
 | 19 | [Benda](https://open.spotify.com/track/4KElRi2M7RodLDq6fWoiN5) | [3 Heures prod](https://open.spotify.com/artist/5NLdXXUvTUKUKMeWxhsIbV), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Nouvelle ère](https://open.spotify.com/album/7zQsrVvfvT0iyv6Ute4Jti) | 3:15 |
 | 20 | [salades](https://open.spotify.com/track/5hbBxh7gYyVRMotreleFyp) | [Miro Chino](https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI) | [Bons Times Bad Times](https://open.spotify.com/album/3e1Ie4LcLqAXk7HWN2kDj9) | 4:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Drinking](https://open.spotify.com/track/4Sif8gDOINGLQ6gDP8yZjP) | [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0), [Bazzart](https://open.spotify.com/artist/2MbDF1l08wsQOWjwg54YYa) | [Tiamat, Mon Amour](https://open.spotify.com/album/0Rh29AQkiNEw3wJNHC4Bzq) | 4:08 |
 | 75 | [CC](https://open.spotify.com/track/2TOexWkJa99UYe6BdbxsjU) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [CC](https://open.spotify.com/album/2mmmfA38Smu5e5OquI0Vjc) | 3:47 |
 
-Snapshot ID: `MCwyNWFmZTAyYTJlZWNjMDBjNmIzZDk2YTM0MTM2MDEyYzZkYzU4Nzhl`
+Snapshot ID: `MCw5YjgxM2E5YzIzNGY2MzE3NzM0M2NlNDkwZmEwZWRhMzliMWQ2OTY1`

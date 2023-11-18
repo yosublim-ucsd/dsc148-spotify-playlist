@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,347 likes - 131 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,429 likes - 131 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Come On Now](https://open.spotify.com/track/0jC2XPH7vnNK5ol0bfC8Zs) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinda Kinks \(Deluxe\)](https://open.spotify.com/album/73anEcke1iGiFLxWhXnco8) | 1:45 |
+| 1 | [Come On Now](https://open.spotify.com/track/450lWzLM8T80sjJyFRWfPe) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinda Kinks \(Deluxe\)](https://open.spotify.com/album/7eg8HfRw9SIlcF78gse2i3) | 1:45 |
 | 2 | [Personality Crisis](https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:41 |
 | 3 | [Looking at You](https://open.spotify.com/track/50w6PJJmcNzmqlQwts40x1) | [MC5](https://open.spotify.com/artist/4WquJweZPIK9qcfVFhTKvf) | [Back In The USA](https://open.spotify.com/album/67NkpPGMcxoIiumOW3oRpL) | 3:01 |
 | 4 | [Psycho](https://open.spotify.com/track/77DvhwGhnmfrXWwiJzeIMC) | [The Sonics](https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy) | [Maintaining My Cool](https://open.spotify.com/album/5joOZaTA1gkFmw0eLM8ASR) | 2:20 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 36 | [The Pill](https://open.spotify.com/track/1MNglZC5cC2oOqFVzZg2Vg) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Back To The Country](https://open.spotify.com/album/6UKOMdWgTgIgCRaKELLLuc) | 2:34 |
 | 37 | [Psychotic Reaction](https://open.spotify.com/track/5JcaA4A9ZoXthwEnxOxWvP) | [Count Five](https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP) | [Psychotic Reaction](https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA) | 3:05 |
 | 38 | [I'm A Man](https://open.spotify.com/track/1oXq63OUf43LDnNPVtfvX8) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [The Best Of Spencer Davis Group](https://open.spotify.com/album/6hWcuAd9vwJ0Dqbobj3ksb) | 2:51 |
-| 39 | [All Day and All of the Night](https://open.spotify.com/track/78JmElAFmrPNhLjovDR9Jm) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe\)](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 2:21 |
+| 39 | [All Day and All of the Night](https://open.spotify.com/track/1mfV2kv9RwFKVI8kEQlmOJ) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe Edition\)](https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ) | 2:22 |
 | 40 | [Out of Our Tree](https://open.spotify.com/track/6oU7sWzgcAXQuSHj0mZHKV) | [The Wailers](https://open.spotify.com/artist/3w1N6MEbGEQNw1MJabSP6M) | [The Wailers \- Out of Our Tree](https://open.spotify.com/album/77JrED2mqtlAUarGODZBIo) | 3:33 |
 | 41 | [Psychotic Reaction \- Rarities Version](https://open.spotify.com/track/77oq56JTlEBzAH7KNZHvx1) | [Count Five](https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP) | [Rarities \- The Double Shot Years](https://open.spotify.com/album/4pWByRQD3cnZRLBFZmbiPU) | 3:09 |
 | 42 | [99th Floor Tantara Single](https://open.spotify.com/track/2VGZ0a8BpYg8zJQ0niSNt0) | [The Moving Sidewalks](https://open.spotify.com/artist/1mVnnp85GXJce62susfwac) | [The Complete Collection](https://open.spotify.com/album/0zOs4x77Wfg9ixVaNuJNRP) | 2:15 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 130 | [She's About a Mover](https://open.spotify.com/track/6ZYvCY3zyajhHunwbDrCtx) | [Sir Douglas Quintet](https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW) | [Walking the Streets](https://open.spotify.com/album/17MHW0ENg57rfMGXYtNkvV) | 2:25 |
 | 131 | [I Can't Control Myself \(Rerecorded\)](https://open.spotify.com/track/2ISCW0bzi9Zsv6eKCqXVZq) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [This Is the Troggs \(Rerecorded\)](https://open.spotify.com/album/2Co201A4jYUYrDtrmReNJD) | 3:06 |
 
-Snapshot ID: `MCxhNjI1NTRlYzQyZjU1NDJhODM0MTU4NzU1OGY0OWQ0ZDQ2NTdhMTFh`
+Snapshot ID: `MCw0NTllMDhmZjFkY2U1YzkyMTUwOTYwMjgzZTQxMGU1NWIwMDk3MGQw`

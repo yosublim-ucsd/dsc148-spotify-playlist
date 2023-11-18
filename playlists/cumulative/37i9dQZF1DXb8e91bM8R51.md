@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-360 songs - 20 hr 36 min
+361 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,7 @@
 | [Shook Ones, Pt\. II](https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 5:25 | 2022-01-14 |  |
 | [Shoot My Shot](https://open.spotify.com/track/1XKTvkeaZy5gueNNZYL7rE) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [USEE4YOURSELF](https://open.spotify.com/album/0kV11arRXMzRqhv2SnXclk) | 2:52 | 2022-01-14 | 2022-10-03 |
 | [Shoot My Shot](https://open.spotify.com/track/4xJQDZxCjAJdemvWoBR9nL) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [USEE4YOURSELF](https://open.spotify.com/album/1aOVW07qHIiMe3f3HKXo8r) | 2:52 | 2023-04-21 |  |
-| [Show & Tell \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/20r9RAF5u8jbM70PYrGufL) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [The Patience](https://open.spotify.com/album/7GlMEHJyohBhILSQYQIFgI) | 4:20 | 2023-08-18 |  |
+| [Show & Tell \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/20r9RAF5u8jbM70PYrGufL) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [The Patience](https://open.spotify.com/album/7GlMEHJyohBhILSQYQIFgI) | 4:20 | 2023-08-18 | 2023-11-18 |
 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 | 2022-01-14 |  |
 | [Sign Language](https://open.spotify.com/track/5CiYxsCieteb5iMjrHAkvV) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Sign Language](https://open.spotify.com/album/33ls0tmm8ljjk3cuF14QyL) | 2:32 | 2022-01-14 | 2022-03-26 |
 | [Sinister \(feat\. Lil Wayne\)](https://open.spotify.com/track/68B0wu3z0t7N8p9lpko4Ak) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 2:26 | 2022-01-14 | 2022-06-10 |
@@ -303,6 +303,7 @@
 | [Start Over](https://open.spotify.com/track/2nbmnGf8hPWv2fIjtrq4z4) | [Canibus](https://open.spotify.com/artist/2lQvoGjN6jJfsAkaywtgrB) | [Start Over](https://open.spotify.com/album/5hrQG358JcgpEBxqgCNxOr) | 2:23 | 2022-02-25 | 2022-07-03 |
 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 | 2022-01-14 |  |
 | [Strangeland](https://open.spotify.com/track/6kJ2PNOQeVBe3mVcYulVQL) | [Elzhi](https://open.spotify.com/artist/6OwOuTjrLVrlMH1nxxIjbT), [Georgia Anne Muldrow](https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31) | [Strangeland](https://open.spotify.com/album/4wOkbPiVoUb4Cet5aYqvsI) | 3:28 | 2022-03-04 | 2022-07-07 |
+| [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/track/5GqZXnBCndUh4ymgdx4tGB) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Cheat Codes](https://open.spotify.com/album/4TPi1tGDVXCdQOjn4NSRaB) | 4:08 | 2023-11-10 |  |
 | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8) | 4:08 | 2022-08-12 | 2023-04-30 |
 | [Stressed](https://open.spotify.com/track/7vWtHXwHvlTdi2o6IGIB3l) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Wallo267](https://open.spotify.com/artist/4CDHyGh4gnewa65FSdKNG1) | [Stressed](https://open.spotify.com/album/1e9ydi2WYxbjKzQASf4pu8) | 5:20 | 2022-02-25 | 2022-07-29 |
 | [Stressed \(with Wallo267\)](https://open.spotify.com/track/5M6ow9HqYJhIL3FOt8QlCb) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Wallo267](https://open.spotify.com/artist/4CDHyGh4gnewa65FSdKNG1) | [God Don't Make Mistakes](https://open.spotify.com/album/4w1BBgCcUVv54r3zJenKpG) | 5:20 | 2022-07-08 | 2023-03-03 |

@@ -4,7 +4,7 @@
 
 > Deep sounds of liquid drum & bass to keep you in the flow.
 
-107 songs - 8 hr 45 min
+110 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Departure](https://open.spotify.com/track/5XeFM8x0mi2ftMvIdUDWto) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [Captivate](https://open.spotify.com/artist/6ULclooHG0oQ6TOPq8Ytuo) | [Fade Into Dust / Departure](https://open.spotify.com/album/5UEcNOfIqP9F9SW65INOs8) | 4:36 | 2023-08-11 |  |
 | [Descendence](https://open.spotify.com/track/77Jee13pdAn2AVngCzgAVU) | [Rambutan](https://open.spotify.com/artist/3SNy9C8agzPn0LW9zTlj1u) | [Start / Descendence](https://open.spotify.com/album/7lfRo8NTCCXj7fu83wEmvv) | 3:31 | 2023-04-13 |  |
 | [Discovery](https://open.spotify.com/track/0x5JU2PT8jVHXdwHoQz6QH) | [Artsea](https://open.spotify.com/artist/1byJENnR4rfRDs6AyFvSU9) | [Full Fat 01](https://open.spotify.com/album/52fo23dS6QgbmVdqsriY5T) | 4:02 | 2022-11-30 |  |
+| [distancing](https://open.spotify.com/track/3eybUXqj9pijBRPpfKN4oy) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [distancing](https://open.spotify.com/album/6DJDsF7GiuDLcuRPspsiSo) | 3:07 | 2023-11-17 |  |
 | [Dogs Behaving Badly](https://open.spotify.com/track/3zjYqFF5jsz7n2nUHTRaWl) | [BCee](https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ) | [Days Like These EP](https://open.spotify.com/album/4v5HIb6e4LJpB1R7u7brRK) | 5:39 | 2023-01-20 |  |
 | [Dreamless Sleep \- Nostre Remix](https://open.spotify.com/track/7H71r6qDOroGG4QSR1r9h8) | [Fishy](https://open.spotify.com/artist/5p4DMSX1fKl07ogZewmRp0), [Nostre](https://open.spotify.com/artist/0YPx2M7Ty3rAYJnCzzRB5t) | [Osiris EP](https://open.spotify.com/album/2MKjIUyf2hly994DlN6ULX) | 5:06 | 2022-11-30 |  |
 | [Early in the Morning](https://open.spotify.com/track/1N5FqOZsQ7dXHtl7zibPgw) | [Command Strange](https://open.spotify.com/artist/6ZslPRiDjYFasSPscHF7v2), [Intelligent Manners](https://open.spotify.com/artist/7Kgps1bJZyZeY7Oa17YaGs) | [Joy LP](https://open.spotify.com/album/5oxcbJO5IlyHimanGsHbxM) | 4:33 | 2023-02-14 |  |
@@ -50,6 +51,7 @@
 | [High](https://open.spotify.com/track/3e7ELUxL2d1RFWrSEMsme9) | [Matt View](https://open.spotify.com/artist/4uMpmqIDOviQTm05ktVtqC) | [Kintsugi](https://open.spotify.com/album/06V5ORG9IYfTKuuJdY6GPF) | 4:38 | 2023-03-09 |  |
 | [I Need](https://open.spotify.com/track/7B1L226HntUkPZuxjYdPFc) | [Chiccoreli](https://open.spotify.com/artist/2ZJhfEA5oRnbtqWDY5zfka) | [I Need / In My Dreamz](https://open.spotify.com/album/6zHj6TTUSbgvDWSYC6uouU) | 4:33 | 2023-09-28 |  |
 | [I've Been Missing You](https://open.spotify.com/track/3R9b1PpbmKKZ24rJpRnX5X) | [S.P.Y](https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF) | [I've Been Missing You](https://open.spotify.com/album/3M8bgcle0cerp3hMZ91h25) | 4:44 | 2023-02-24 |  |
+| [IGGY](https://open.spotify.com/track/3Jhhgy33bLgTRTjr0hEM1F) | [Heyson](https://open.spotify.com/artist/7ooKNV7aBXuyijq6bYvvQR) | [Pink Poppy](https://open.spotify.com/album/4ZCV3sUH3EoKPmyv0FCKlL) | 2:49 | 2023-11-17 |  |
 | [Inner Echo](https://open.spotify.com/track/1tGwB0G7VOshhAyOQYaNbe) | [Mojoman](https://open.spotify.com/artist/2t7SxDJO8xs6RskGSLYwad) | [Inner Echo/ Thrive Pattern VIP](https://open.spotify.com/album/0X5CFT37lTT3nWkVlJBY37) | 7:29 | 2022-11-30 |  |
 | [Into the Motion](https://open.spotify.com/track/2oIOO3ZNR9yZ6zE20vrFZJ) | [Mystific](https://open.spotify.com/artist/1vmJX00cwTh9L8kYn1JfT4) | [Glass / Into the Motion \(Extended Play\)](https://open.spotify.com/album/5mN40loDSsFN5uOFldIEDi) | 5:31 | 2022-11-30 | 2023-06-24 |
 | [Into the Motion](https://open.spotify.com/track/5tNE96eG01TDmBBlorv6gh) | [Mystific](https://open.spotify.com/artist/1vmJX00cwTh9L8kYn1JfT4) | [Into the Motion](https://open.spotify.com/album/03ko03ArgYlgOqLJFGciZP) | 5:31 | 2023-02-14 |  |
@@ -86,6 +88,7 @@
 | [Oxytocin](https://open.spotify.com/track/1aJmo7gr3r4EgdLyTHFGhF) | [T\-Shirts & Sweats](https://open.spotify.com/artist/0FcaySiOfyoo0GzdrWsiVD) | [Oxytocin / Prodigal](https://open.spotify.com/album/57mZsjST2kOcYochTI19D3) | 5:05 | 2023-04-13 |  |
 | [Recollection](https://open.spotify.com/track/6qE2iQsG1mAdzQWeXzpszr) | [Gerra & Stone](https://open.spotify.com/artist/7rCF3znBFGHIJix1RLFyWF) | [Pathfinder \- EP](https://open.spotify.com/album/7eqMmc53M8bxtTRvBN90kQ) | 4:33 | 2022-11-30 |  |
 | [Recollection](https://open.spotify.com/track/51RQWDo2qhcL0py5n916hi) | [Rocket Jr](https://open.spotify.com/artist/6OGkTrVt13n4C075wLe17B) | [Crying on the Way Home](https://open.spotify.com/album/03HOXmFMDN2HFkbrt9kmqj) | 3:01 | 2023-07-26 |  |
+| [Red Slogan](https://open.spotify.com/track/41chr9BH5daDinJZ2bkEki) | [Echo Oasis](https://open.spotify.com/artist/3Hd9jxZB8QuC0kdCwbkk3n) | [Red Slogan](https://open.spotify.com/album/2uIvUrT2Vo8HUJJH7xSkRn) | 4:00 | 2023-11-17 |  |
 | [Rituals](https://open.spotify.com/track/03SpHyzSR0wBQk2nolPOov) | [Logistics](https://open.spotify.com/artist/01K8GEMGGxtrQ4xjDmNLPs) | [Hospital Mixtape: Lens](https://open.spotify.com/album/4FsoFxjPW2TjpiZ292xL2h) | 4:34 | 2023-06-30 | 2023-09-08 |
 | [Rituals](https://open.spotify.com/track/6Pkfvv0wWmKjL4k6WCVIDu) | [Logistics](https://open.spotify.com/artist/01K8GEMGGxtrQ4xjDmNLPs) | [Rituals](https://open.spotify.com/album/5Z3BtN63NnMMukzSlyTVpg) | 4:34 | 2023-06-30 |  |
 | [Roseland](https://open.spotify.com/track/11cuNXtuo2UtL9T7k6MJw3) | [Lenzman](https://open.spotify.com/artist/4IKdJSimREJMIKDfvYvJHF) | [Bobby](https://open.spotify.com/album/3pQni96ENZH1JtBXAmOgZ1) | 5:19 | 2022-11-30 |  |

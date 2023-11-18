@@ -1386,10 +1386,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 256066,
       "name": "\u6c34\u82b1\u56db\u6ffa",
       "url": "https://open.spotify.com/track/6W8mNQAQ1KCImOwk2iCdwJ"
+    },
+    {
+      "album": {
+        "name": "\u5ee3\u6771\u52f5\u5fd7\u6b4c\u96c6",
+        "url": "https://open.spotify.com/album/0E59wmj03ppImPuzwE2onD"
+      },
+      "artists": [
+        {
+          "name": "Denise Ho",
+          "url": "https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257493,
+      "name": "\u6c34\u82b1\u56db\u6ffa",
+      "url": "https://open.spotify.com/track/42DleX9v5bbIzWJDvkiYRo"
     },
     {
       "album": {

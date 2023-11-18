@@ -2810,7 +2810,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 150745,
       "name": "Rude Boy",
       "url": "https://open.spotify.com/track/43O2EOt85fbhIADEt7ybP8"
@@ -2910,6 +2910,32 @@
       "duration_ms": 130960,
       "name": "Safe And Sound - Hardstyle Remix Sped Up",
       "url": "https://open.spotify.com/track/3XM8VUOSoECmBrSHRN6bGh"
+    },
+    {
+      "album": {
+        "name": "Scared to Be Lonely",
+        "url": "https://open.spotify.com/album/1cs9BxcIzMDI3ePRs02KNQ"
+      },
+      "artists": [
+        {
+          "name": "Crystal Rock",
+          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
+        },
+        {
+          "name": "Lawstylez",
+          "url": "https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ"
+        },
+        {
+          "name": "Sintica",
+          "url": "https://open.spotify.com/artist/52tz2HSHkvRWTP5IGk8Mjt"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218341,
+      "name": "Scared to Be Lonely",
+      "url": "https://open.spotify.com/track/2d2QoGS87x3y7NmcpSMIpi"
     },
     {
       "album": {

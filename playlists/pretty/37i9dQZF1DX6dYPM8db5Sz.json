@@ -1,13 +1,165 @@
 {
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F?si=LtkmAB0iQqqNVcfCHdHAuQ\">Hunter As a Horse</a> ",
-  "num_followers": 10031,
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ?si=ygY5KPDnT3W2Ng5lASMb6w\">Justin Lee</a> ",
+  "num_followers": 10063,
   "original_name": "SAlt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzQ2YmUwMmM3YmY1OTdhYTgyZDQ0YzY3MzM5ZjIzNDJjMzE2OGZk",
+  "snapshot_id": "MCw4OTMxNWQ4Yjc2ZjNhN2QwYTYxYjc5OTE3NzIyODRlNWFlMzJhMjUy",
   "tracks": [
+    {
+      "added_at": "2023-11-17 04:48:46",
+      "album": {
+        "name": "As The Sun Shines",
+        "url": "https://open.spotify.com/album/5E1NPZKh07VCnKMKJmLKWg"
+      },
+      "artists": [
+        {
+          "name": "Justin Lee",
+          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
+        }
+      ],
+      "duration_ms": 117500,
+      "name": "As The Sun Shines",
+      "url": "https://open.spotify.com/track/6ZZ1JyFWpUv1szHI8HE4e9"
+    },
+    {
+      "added_at": "2023-11-17 04:48:46",
+      "album": {
+        "name": "life in lofi",
+        "url": "https://open.spotify.com/album/21j1HIR30vB8L0frO9lQSM"
+      },
+      "artists": [
+        {
+          "name": "Kids In America",
+          "url": "https://open.spotify.com/artist/6ovlMe2HTmv1MmrZfsoBqY"
+        },
+        {
+          "name": "John Samuel",
+          "url": "https://open.spotify.com/artist/1aLNavTO9Rv8rPCgl2jMtl"
+        }
+      ],
+      "duration_ms": 189228,
+      "name": "life in lofi",
+      "url": "https://open.spotify.com/track/1jUKqH0MwpaEPvPRznSdIs"
+    },
+    {
+      "added_at": "2023-11-17 04:48:46",
+      "album": {
+        "name": "I Fled the Scene",
+        "url": "https://open.spotify.com/album/00NsgzdxOfZL6AapiNRG2R"
+      },
+      "artists": [
+        {
+          "name": "Bad Peter",
+          "url": "https://open.spotify.com/artist/0dceAs5Ap8kfV0hcvdIm6l"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "I Fled the Scene",
+      "url": "https://open.spotify.com/track/2RV94PjhiOfGOTRQweb8GP"
+    },
+    {
+      "added_at": "2023-11-17 04:48:46",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/6dQhlj5vGlCckBHCsH5CUO"
+      },
+      "artists": [
+        {
+          "name": "Blue Scarr",
+          "url": "https://open.spotify.com/artist/1gTOD1oLGnXEK81NvlQWSi"
+        },
+        {
+          "name": "Aim\u00e9e Britannia",
+          "url": "https://open.spotify.com/artist/1oxqclaWPu3nTkfNhjWSJ7"
+        }
+      ],
+      "duration_ms": 236843,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/1qmHuOON7erR8dv24pI8rA"
+    },
+    {
+      "added_at": "2023-11-17 04:48:46",
+      "album": {
+        "name": "IF / bathroom",
+        "url": "https://open.spotify.com/album/057VkMPLtuE0pP6TFroyaU"
+      },
+      "artists": [
+        {
+          "name": "Wishpig",
+          "url": "https://open.spotify.com/artist/68ybmAQpXyAzHXOkexjYj3"
+        }
+      ],
+      "duration_ms": 198319,
+      "name": "bathroom",
+      "url": "https://open.spotify.com/track/1dQssvlvziHVBot5bRpGZc"
+    },
+    {
+      "added_at": "2023-11-17 04:48:46",
+      "album": {
+        "name": "Hurt People",
+        "url": "https://open.spotify.com/album/2irLbApb5k7XG5OGM3elCv"
+      },
+      "artists": [
+        {
+          "name": "Lakkabrah",
+          "url": "https://open.spotify.com/artist/6TLtJV2odjb1t3Ln6V8gQR"
+        }
+      ],
+      "duration_ms": 136090,
+      "name": "Hurt People",
+      "url": "https://open.spotify.com/track/4p9kRGYquwGJpT1zSULAui"
+    },
+    {
+      "added_at": "2023-11-17 04:48:46",
+      "album": {
+        "name": "Blueberry",
+        "url": "https://open.spotify.com/album/0XkSA1wolCq7sk1P40FOZA"
+      },
+      "artists": [
+        {
+          "name": "Painted Flowers",
+          "url": "https://open.spotify.com/artist/0bhFPHum4CYqnxyIGHb7sX"
+        }
+      ],
+      "duration_ms": 216025,
+      "name": "Blueberry",
+      "url": "https://open.spotify.com/track/4foj4tagBgwMdVaGGNJflj"
+    },
+    {
+      "added_at": "2023-11-17 04:48:46",
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/0Uw7uhLCXBQN2zYlxM6VQ7"
+      },
+      "artists": [
+        {
+          "name": "Olivia Amupala",
+          "url": "https://open.spotify.com/artist/1RlTOd1g0mfnU32C4avYRA"
+        }
+      ],
+      "duration_ms": 181573,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/1TOXyfF6p6coOOhmevQe70"
+    },
+    {
+      "added_at": "2023-11-17 04:48:46",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/1fN2XKS8areahC7LnEwxML"
+      },
+      "artists": [
+        {
+          "name": "Brandon Grant",
+          "url": "https://open.spotify.com/artist/3rD8GtrMQjQ8UAQCEQ0RGU"
+        }
+      ],
+      "duration_ms": 264367,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/15FipwvwpsyKDbTWQoEC3O"
+    },
     {
       "added_at": "2023-11-09 22:00:00",
       "album": {
@@ -1535,150 +1687,6 @@
       "duration_ms": 252000,
       "name": "The Phoenix",
       "url": "https://open.spotify.com/track/6wUrwv6uO6roQ1OUQrLnFW"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "what do i care?",
-        "url": "https://open.spotify.com/album/5BqomERv8kyvEPHY9Y2e5q"
-      },
-      "artists": [
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "what do i care?",
-      "url": "https://open.spotify.com/track/4dUd78G324Z1YnxSjCnFl3"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "The Lost Tapes EP",
-        "url": "https://open.spotify.com/album/2aKK6YKpfkJ9JeLhVU0OX8"
-      },
-      "artists": [
-        {
-          "name": "Hunter As a Horse",
-          "url": "https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F"
-        }
-      ],
-      "duration_ms": 326857,
-      "name": "The Train",
-      "url": "https://open.spotify.com/track/4t8hILaGVsYgJ6lwCkqwaX"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "Don't Call Her Over To You",
-        "url": "https://open.spotify.com/album/7tKlfQAkpLIVKILCbHwBcN"
-      },
-      "artists": [
-        {
-          "name": "Beatenberg",
-          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
-        }
-      ],
-      "duration_ms": 157752,
-      "name": "Don't Call Her Over To You",
-      "url": "https://open.spotify.com/track/1RxTyElARYb3bzwnp51oNJ"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/4UuBmnyUz9drMXyjGgKTor"
-      },
-      "artists": [
-        {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
-        }
-      ],
-      "duration_ms": 190414,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/2wgdQxxB6k5WdDE6U0Dkxl"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "Cannonball",
-        "url": "https://open.spotify.com/album/1hU5AwtzXvr19RnrHNOWfB"
-      },
-      "artists": [
-        {
-          "name": "The World of Birds",
-          "url": "https://open.spotify.com/artist/5vtUrecygJ2MBoN3EZgmdC"
-        }
-      ],
-      "duration_ms": 330983,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/0s2IQcGz5kqLXWYbEylgzf"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "In Your Light",
-        "url": "https://open.spotify.com/album/1BnKRbGE5NXk5gctH8WJ5f"
-      },
-      "artists": [
-        {
-          "name": "Justin Lee",
-          "url": "https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ"
-        }
-      ],
-      "duration_ms": 128782,
-      "name": "In Your Light",
-      "url": "https://open.spotify.com/track/2PrVldHTToUPX72jARCTcN"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "Queens Beach",
-        "url": "https://open.spotify.com/album/5SfgH0m1rdVbQAdcQ9l9Rq"
-      },
-      "artists": [
-        {
-          "name": "Ashwin Smith",
-          "url": "https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO"
-        }
-      ],
-      "duration_ms": 182070,
-      "name": "Queens Beach",
-      "url": "https://open.spotify.com/track/34lXibAFAMFgkVs4LB5B7J"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "We're on an Island, but it's the UK",
-        "url": "https://open.spotify.com/album/2ELmcmBeba6spRuwGgqHRt"
-      },
-      "artists": [
-        {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
-        }
-      ],
-      "duration_ms": 168860,
-      "name": "We're on an Island, but it's the UK",
-      "url": "https://open.spotify.com/track/2iy71gZuDJndppxGOdcrrB"
-    },
-    {
-      "added_at": "2023-09-29 03:01:55",
-      "album": {
-        "name": "Scrapyard",
-        "url": "https://open.spotify.com/album/2FDevXzDplVuc024A9vFWY"
-      },
-      "artists": [
-        {
-          "name": "CJ Jonker",
-          "url": "https://open.spotify.com/artist/2SvvK78Gnc0Re7Ucg4vrC1"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "Soda Machine",
-      "url": "https://open.spotify.com/track/4w0rb02uJ6SSErAm0wcFwP"
     }
   ],
   "unique_name": "SAlt",

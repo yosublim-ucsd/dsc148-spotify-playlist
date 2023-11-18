@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,010 likes - 363 songs - 18 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,049 likes - 363 songs - 18 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 | 10 | [Moonlight Over Manhattan](https://open.spotify.com/track/1d6SiPIjnEc0Q7H8vHIetM) | [Claire Martinelle](https://open.spotify.com/artist/4cregPQpQ72XMMVzvvyiEl) | [Moonlight Over Manhattan](https://open.spotify.com/album/1EeXlyJEGwucXGlmivU95U) | 3:07 |
 | 11 | [A Gentle Dance](https://open.spotify.com/track/0XRh40ZrxLXDEONZywjexP) | [Joe M\. Key](https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km) | [A Gentle Dance](https://open.spotify.com/album/1gzd7kZ4kZji630lABbjIQ) | 2:31 |
 | 12 | [The Sea Was Never So Shimmering](https://open.spotify.com/track/519WzJuCtlf27yzumroBJs) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [The Sea Was Never So Shimmering](https://open.spotify.com/album/4pqoYzwQZo0Z8ouXa7aGXt) | 3:27 |
-| 13 | [Pastoral](https://open.spotify.com/track/0UIv34XtUmPhvCU3nSPDqE) | [Jean Kapsa](https://open.spotify.com/artist/3D7nnawjn34DOAUT21IQHs) | [Pastoral](https://open.spotify.com/album/6sMJTmc5LNR7qgwrLKgJuZ) | 3:48 |
+| 13 | [Pastoral](https://open.spotify.com/track/7rYSxMiI7xteBmFq2t6aE7) | [Jean Kapsa](https://open.spotify.com/artist/3D7nnawjn34DOAUT21IQHs) | [Pastoral](https://open.spotify.com/album/4DR8LgGyU1VbRJCD8jHTYp) | 3:48 |
 | 14 | [Crosby Street](https://open.spotify.com/track/22ugSr3HnMXfxTiXsroNQD) | [Carmen Simmons](https://open.spotify.com/artist/6HhW3vf5i1Ao2KsOsdHfbV) | [Crosby Street](https://open.spotify.com/album/5lN5yfRTiTpukhAWyFHxxW) | 2:26 |
 | 15 | [Dear Marie](https://open.spotify.com/track/5FRNPaYCvTHiXZzlLom0Kn) | [Frank Keme](https://open.spotify.com/artist/05C8tAFDHOzinIBu7qExmR) | [Dear Marie](https://open.spotify.com/album/5pdCXbyqyQfUGnIrrX7fjM) | 2:24 |
 | 16 | [My Confidant](https://open.spotify.com/track/1Dpp6Mfle3B7LOYMu2oFD9) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [My Confidant](https://open.spotify.com/album/5j4kWDbtE1ImHbXjKViBPH) | 3:00 |
@@ -372,4 +372,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 | 362 | [Detour Ahead](https://open.spotify.com/track/3u2omsu82aD46ikO68QT8L) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [Detour Ahead](https://open.spotify.com/album/7EcCJcaKsJZucb5PtYAtih) | 4:27 |
 | 363 | [Ask Me Now](https://open.spotify.com/track/0Fjj6Gvywafx1n5HStRNs5) | [Daniel Hopeland](https://open.spotify.com/artist/2vrFPeJli5gfJIv5zxVwbO) | [Ask Me Now](https://open.spotify.com/album/0q9x1QQbHUsNMuSwbuvclJ) | 3:56 |
 
-Snapshot ID: `MCxlOTZjMWNiM2Y3MTFlZDIwN2ExMjkyZTU0MTllYTVkMDM4M2NhM2Nj`
+Snapshot ID: `MCw4MzBlNTBlNTcyMjM5M2FjYWNmMTExOTc2NzU3MTllOWJjYWJlMmRk`

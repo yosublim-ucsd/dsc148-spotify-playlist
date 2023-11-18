@@ -6,8 +6,24 @@
     "name": "XL Recordings",
     "url": "https://open.spotify.com/user/xlrecordings"
   },
-  "snapshot_id": "NjA3MCwwMmQwNmY0MDk3Y2Y3OGZjZGUxOGRlOGM3MTAyY2NhYjBmOTVmMDdk",
+  "snapshot_id": "NjA3Miw3NjhiZDVjZTc2ZDgxNjNjNGIzNjg3ZDFmOWQzMzNmYmZkYWI2OTMw",
   "tracks": [
+    {
+      "added_at": "2023-11-17 12:34:38",
+      "album": {
+        "name": "easy breezy",
+        "url": "https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 199880,
+      "name": "easy breezy",
+      "url": "https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j"
+    },
     {
       "added_at": "2023-10-18 13:02:25",
       "album": {

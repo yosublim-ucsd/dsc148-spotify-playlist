@@ -4,7 +4,7 @@
 
 > Smooth indie jazz joints from around the globe\. Cover: Jonah Yano
 
-179 songs - 12 hr 0 min
+180 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Return To Centaurus](https://open.spotify.com/track/7cNuV7yVldD6vj1rdAKUBw) | [Mildlife](https://open.spotify.com/artist/1lsJmnN90u3KBvF3tGEWr3) | [Return To Centaurus](https://open.spotify.com/album/259Nkot64XM40bU3tEyQFb) | 9:42 | 2023-09-14 |  |
 | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/track/0vhV4Bt5oHnlj9D4wWN4Nb) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/album/6ju0SbuEoFlij1vnF8YSq0) | 3:58 | 2023-08-10 | 2023-09-11 |
 | [Rust \(feat\. Tom Misch\)](https://open.spotify.com/track/1nsaIli1TgKxLjHmWqDRmE) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Black Classical Music](https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET) | 3:58 | 2023-09-04 |  |
-| [Safe From Harm \(feat\. Reginald AK\)](https://open.spotify.com/track/6zczzMm469kNZuPTqp0oLf) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K), [Reginald AK](https://open.spotify.com/artist/0kHgwv7BrZSTH06wEtYQQa) | [Safe From Harm \(feat\. Reginald AK\)](https://open.spotify.com/album/5RJG4hvaVACcuORpFWiuV6) | 5:40 | 2023-09-14 |  |
+| [Safe From Harm \(feat\. Reginald AK\)](https://open.spotify.com/track/1crJ36QxInBL1wTJGCwqJm) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K), [Reginald AK](https://open.spotify.com/artist/0kHgwv7BrZSTH06wEtYQQa) | [This Is How You Do It](https://open.spotify.com/album/47DkehCKqt88KC3gqFK9Ga) | 5:40 | 2023-11-16 |  |
+| [Safe From Harm \(feat\. Reginald AK\)](https://open.spotify.com/track/6zczzMm469kNZuPTqp0oLf) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K), [Reginald AK](https://open.spotify.com/artist/0kHgwv7BrZSTH06wEtYQQa) | [Safe From Harm \(feat\. Reginald AK\)](https://open.spotify.com/album/5RJG4hvaVACcuORpFWiuV6) | 5:40 | 2023-09-14 | 2023-11-18 |
 | [Shining](https://open.spotify.com/track/3fELwzVdYerUr3JuxaEa5C) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f) | [Morning Light](https://open.spotify.com/album/5mMNVDT4FcwzAVQSJDGco6) | 3:23 | 2023-08-24 |  |
 | [SHROOMS BEFORE the party](https://open.spotify.com/track/6fYGlV8elDvLPBtMQ9CI1H) | [Saint Lane](https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX) | [CRYING IN THE PORSCHE](https://open.spotify.com/album/2aV5jppDjMowztsehjhg98) | 2:19 | 2023-08-10 | 2023-09-01 |
 | [Silent](https://open.spotify.com/track/2S4ktHPpnD2dhC3d2MK1pJ) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Silent](https://open.spotify.com/album/6vDY0kHBfGrhKi6Of9E3EN) | 4:47 | 2023-08-10 | 2023-08-25 |

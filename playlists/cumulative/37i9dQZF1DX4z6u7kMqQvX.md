@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-467 songs - 1 day 2 hr 33 min
+468 songs - 1 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Cada Letra Que Escribo](https://open.spotify.com/track/06cYrvLQxg2YngN0sx8zXS) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Cada Letra Que Escribo](https://open.spotify.com/album/0aoLxPrjSF2e0BOxRFTS6G) | 3:22 | 2022-05-06 | 2023-10-06 |
 | [Cara de Cera](https://open.spotify.com/track/4x6U7KCXOANAVWOgpsR5kc) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [Cara de Cera](https://open.spotify.com/album/136COz2f0drOth942dh9nc) | 3:28 | 2022-01-28 | 2022-12-13 |
 | [Carnal](https://open.spotify.com/track/0EDvtAYsRJp17NtCo7J98G) | [Juan Ibarlucia](https://open.spotify.com/artist/4dSapZTLQAMUx9sUIaELu8), [Marina Wil](https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4) | [Carnal](https://open.spotify.com/album/2W2qIUYNR0yEnOA41P9Eep) | 3:40 | 2022-04-01 | 2022-04-19 |
+| [Carta de Amor](https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Carta de Amor](https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF) | 2:56 | 2023-11-17 |  |
 | [CCTV](https://open.spotify.com/track/7KCtH72ceIJuCDIRBXrjbu) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz) | [ORDEN Y PROGRESO](https://open.spotify.com/album/5vDs96vuAqYosG7g0jxxFx) | 4:14 | 2022-04-01 | 2022-04-16 |
 | [Cerca de Ti](https://open.spotify.com/track/6GvnbcWUY93ck0EO00enpm) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Cerca de Ti](https://open.spotify.com/album/0F4Mcth9SWbVG0E6RvNyem) | 2:37 | 2022-07-15 | 2023-10-06 |
 | [Cerca de Ti](https://open.spotify.com/track/5Ls77cJY2PEvFir0V213Ib) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Cerca de Ti](https://open.spotify.com/album/6iombeEG6lWfNzqwNN0w9O) | 2:38 | 2022-01-07 | 2022-07-29 |
@@ -331,7 +332,7 @@
 | [Peliculón](https://open.spotify.com/track/2MbHcrOARNtKVb5upQb4Kg) | [Agustina Pampin](https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv) | [Peliculón](https://open.spotify.com/album/4H9uGHowS5U1eP8lV1u7CB) | 3:18 | 2023-07-28 | 2023-08-18 |
 | [PELÍCULA](https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [PELÍCULA](https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L) | 3:13 | 2022-01-07 | 2023-10-06 |
 | [Pensándote](https://open.spotify.com/track/0eBXYmenc3IatPxBOtX91D) | [Luz Pereyra](https://open.spotify.com/artist/7D1Cr80ZNOkzVkvo53cGjA) | [Pensándote](https://open.spotify.com/album/7CfRSumqqyPF6u17A9BXXm) | 3:20 | 2022-04-01 | 2022-06-19 |
-| [Perdoname amor](https://open.spotify.com/track/60lkCw09ehFMdRAjSZSi8o) | [La Figui](https://open.spotify.com/artist/5QqWmfNdVYRaUOZ93oJJmn), [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Perdoname amor](https://open.spotify.com/album/4kJBJbwTiiWslEAx5S41KU) | 3:22 | 2023-10-26 |  |
+| [Perdoname amor](https://open.spotify.com/track/60lkCw09ehFMdRAjSZSi8o) | [La Figui](https://open.spotify.com/artist/5QqWmfNdVYRaUOZ93oJJmn), [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Perdoname amor](https://open.spotify.com/album/4kJBJbwTiiWslEAx5S41KU) | 3:22 | 2023-10-26 | 2023-11-18 |
 | [Perdón \- 2021 versión remasterizada](https://open.spotify.com/track/3ZVzlYwz3jwvAWDdobx0VN) | [GomaSlash](https://open.spotify.com/artist/2V381Id0YlUspiQorutUmP) | [Perdón \(2021 versión remasterizada\)](https://open.spotify.com/album/0C8rXN56LwFUBWWHME48ZA) | 3:11 | 2022-01-28 | 2022-04-20 |
 | [Piel](https://open.spotify.com/track/4fCRaUeln3PPUGAqWuCY7A) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA), [Franco Banda](https://open.spotify.com/artist/2bhMtu8Fua2BNTvwbjtJjH) | [Piel](https://open.spotify.com/album/29OY30x1zP4a0zKSfCvu9f) | 3:20 | 2022-01-07 | 2022-07-18 |
 | [pierdo](https://open.spotify.com/track/4ZiEpvfNIzEOWnGYECSEc8) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [pierdo](https://open.spotify.com/album/7qnFpZr8wt6zXg7aAdtFut) | 2:08 | 2022-06-03 | 2023-03-03 |

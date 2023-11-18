@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYpPM74QBGK.md) - [plain]
 
 > Party on with these top children's tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,142 likes - 50 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,153 likes - 50 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYpPM74QBGK.md) - [plain]
 | 30 | [Five Little Ducks](https://open.spotify.com/track/6T15qWkGDGlE9vTkvoT4oZ) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Baby Shark & More Kids Songs](https://open.spotify.com/album/2IDfqmrAmsyDA5DnGnQ0Ci) | 2:32 |
 | 31 | [PJ Masks Theme Song](https://open.spotify.com/track/5MDDJSZejveWvRMOYnxnpB) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Here We Come](https://open.spotify.com/album/6y77mrn553xhcbN9Po2XCv) | 0:40 |
 | 32 | [Shake My Sillies Out](https://open.spotify.com/track/0e1mUAXE8jSG9ExAS4AWU7) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [More Singable Songs](https://open.spotify.com/album/0MRTAsSv2VDaLyMiNLkyQN) | 1:05 |
-| 33 | [You're My Best Friend](https://open.spotify.com/track/5k5OipChvcAnF6tbOBxMyB) | [Care Bears](https://open.spotify.com/artist/2GFcrNUkLQ49sXzCvz6PLW) | [Unlock the Music, Season 2](https://open.spotify.com/album/2eFqlnnZ8bAFt4yjHtjSG9) | 2:39 |
+| 33 | [You're My Best Friend](https://open.spotify.com/track/3oO3cgjzRqz5AYO9vKgk5u) | [Care Bears](https://open.spotify.com/artist/2GFcrNUkLQ49sXzCvz6PLW) | [Care Bears Unlock the Music, Vol\. 3](https://open.spotify.com/album/18FcmJJ2DeI4wsSgeVe7WG) | 2:39 |
 | 34 | [The Party Freeze Song](https://open.spotify.com/track/7gecT24P3zqY4SXWjssq9B) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [150 Preschool Songs](https://open.spotify.com/album/6vh3S6NVQ0pNEt70fj7oAf) | 2:08 |
 | 35 | [Rockin' Easter Bunny](https://open.spotify.com/track/0iChnwOB3ZMqMIdOMSqlya) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Baby Bunny Shark and Other Easter Songs](https://open.spotify.com/album/7GvIm2bSOGLIE9nLCH3OlX) | 1:43 |
 | 36 | [Brushy Brush!](https://open.spotify.com/track/2VaffJL0SwpR7wNp0zs2Pc) | [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT), [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R) | [Brushy Brush!](https://open.spotify.com/album/3uncYh2Vd4TD67iyhRPDVJ) | 1:24 |
 | 37 | [Gonna Be My Day](https://open.spotify.com/track/2EhIF9BvXTKFZn5sCuMNrX) | [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [My Little Pony: A New Generation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wgoVzfqKBkE5ZKlBfs89g) | 2:38 |
-| 38 | [Togetherness](https://open.spotify.com/track/3ZeOncZlROjHJQMuijQxki) | [Care Bears](https://open.spotify.com/artist/2GFcrNUkLQ49sXzCvz6PLW) | [Unlock the Music, Season 2](https://open.spotify.com/album/2eFqlnnZ8bAFt4yjHtjSG9) | 2:33 |
+| 38 | [Togetherness](https://open.spotify.com/track/1gajAVuq4GC3FnmVmH2hML) | [Care Bears](https://open.spotify.com/artist/2GFcrNUkLQ49sXzCvz6PLW) | [Care Bears Unlock the Music, Vol\. 3](https://open.spotify.com/album/18FcmJJ2DeI4wsSgeVe7WG) | 2:33 |
 | 39 | [Funkytown \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/20erlJdZrxYVcHhY05YfXm) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Minions: The Rise Of Gru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Kc0f1PCbWZLOmZNOyXYGN) | 4:23 |
 | 40 | [Party All 'Round the World](https://open.spotify.com/track/5EX4JVN6fD21ckW3ed0WKc) | [L.O.L\. Surprise!](https://open.spotify.com/artist/6btXT8tLHT0YBuHGi8rao7) | [Fierce](https://open.spotify.com/album/1bO0wTjjrJKMb8vODa2AtD) | 2:41 |
 | 41 | [Under the Sea](https://open.spotify.com/track/6oYkwjI1TKP9D0Y9II1GT7) | [Samuel E\. Wright](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdYpPM74QBGK.md) - [plain]
 | 49 | [PAW Patrol Opening Theme](https://open.spotify.com/track/2bTc3HglsgQ8kbn1dUeo1M) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [PAW Patrol Official Theme Song & More](https://open.spotify.com/album/18OOpmlvd5nJW2Pd79yIWQ) | 0:40 |
 | 50 | [Elephant \(triple j Like A Version\)](https://open.spotify.com/track/0RHWFlVVJZ82sAEgYCQB6y) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [ReWiggled](https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2) | 3:22 |
 
-Snapshot ID: `MCxlNGExMTYxNzA5NjIzMTlkMzg4ZjQ1YmE3N2VhY2VhM2U2ZDRlN2Q1`
+Snapshot ID: `MCwzZTk5N2I1NDY5OWMxNzU3YjUzZGU0ZmQ5MDY5NWFmY2JkYjdhMDIy`

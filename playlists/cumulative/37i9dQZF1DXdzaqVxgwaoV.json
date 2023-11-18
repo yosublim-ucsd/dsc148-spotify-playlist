@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "\u00c9xitos De Siempre",
+        "url": "https://open.spotify.com/album/7F4oJEuDFeF0erkzERzihR"
+      },
+      "artists": [
+        {
+          "name": "Hernan Dario Hernandez",
+          "url": "https://open.spotify.com/artist/2XAs0PIadAYZYnt2TEa0Cs"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195056,
+      "name": "Aqu\u00ed Est\u00e1 El Bobo",
+      "url": "https://open.spotify.com/track/2B96lfFlbinfLS2HWweBYn"
+    },
+    {
+      "album": {
         "name": "La Orquesta Que Impone El Ritmo",
         "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
       },
@@ -202,6 +220,24 @@
       "duration_ms": 241297,
       "name": "Ceniza Fria",
       "url": "https://open.spotify.com/track/2fxEsrGDk2ZcFxFUfmoolY"
+    },
+    {
+      "album": {
+        "name": "Serie Inmortales: Los Ritmos Coste\u00f1os Favoritos del Maestro",
+        "url": "https://open.spotify.com/album/1ZrungzeCwLOWIOfl1PXKu"
+      },
+      "artists": [
+        {
+          "name": "Lucho Berm\u00fadez",
+          "url": "https://open.spotify.com/artist/5x1E6GVoNd2Haj7Jtvg3E0"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158973,
+      "name": "Colombia Tierra Querida",
+      "url": "https://open.spotify.com/track/3DwedX467tabb9zUzdqfcq"
     },
     {
       "album": {
@@ -404,7 +440,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 157826,
       "name": "El Merecumbe",
       "url": "https://open.spotify.com/track/6Ni5cSEp0cNutVN0w2578Y"
@@ -452,6 +488,24 @@
       "duration_ms": 294000,
       "name": "El Preso",
       "url": "https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q"
+    },
+    {
+      "album": {
+        "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
+        "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
+      },
+      "artists": [
+        {
+          "name": "Los 50 De Joselito",
+          "url": "https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162298,
+      "name": "El Ron de Vinola",
+      "url": "https://open.spotify.com/track/0kyzl82KTVUF6WHpCQ0GpI"
     },
     {
       "album": {
@@ -1170,7 +1224,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 173053,
       "name": "Pedacito de Mi Vida",
       "url": "https://open.spotify.com/track/7tlRIkYOBsmcVAjGGzgHTD"
@@ -1246,7 +1300,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 219426,
       "name": "Que No Quede Huella",
       "url": "https://open.spotify.com/track/28EWM0qJ09oupIAhNEeLlK"

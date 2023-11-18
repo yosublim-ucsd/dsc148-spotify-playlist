@@ -1,12 +1,12 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 67000,
-  "original_name": "Soundtrack oficial de EA SPORTS FC 24",
+  "num_followers": 67154,
+  "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2QwOTg4MGMxOTdjNzlmMjI1NTY3YWIxY2M2YTBhYmU5NjM0NTk2",
+  "snapshot_id": "MCw1Mjc2Y2ZhNjkxYjJiN2MxN2YyZGE5YWM1ZGI5OWE0MWYzZmIzZmQ2",
   "tracks": [
     {
       "added_at": "2023-10-06 19:23:39",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "Jackman.",
-        "url": "https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 113292,
-      "name": "They Don't Love It",
-      "url": "https://open.spotify.com/track/4YnazaBNYt86O9KhwjH9NA"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "Space Heavy",
         "url": "https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 245933,
       "name": "Seaforth",
       "url": "https://open.spotify.com/track/6RRCXZcBlOrQ4GsKElW0BH"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 113292,
+      "name": "They Don't Love It",
+      "url": "https://open.spotify.com/track/4YnazaBNYt86O9KhwjH9NA"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2E00JwOIngqnZbeBkj7aB2"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 181750,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/5rzxppLxFWvtwzjmyppcqk"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
         "name": "098RADIO vol.1 Hosted by Awich",
         "url": "https://open.spotify.com/album/6jQI4R1D8sk5YXQnSju44y"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 289846,
       "name": "RASEN in OKINAWA",
       "url": "https://open.spotify.com/track/6JDDIx1vSs5GvMZXsy2aR2"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/2E00JwOIngqnZbeBkj7aB2"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 181750,
-      "name": "Nothing Matters",
-      "url": "https://open.spotify.com/track/5rzxppLxFWvtwzjmyppcqk"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "FLATLINE",
-        "url": "https://open.spotify.com/album/68qY8pAl8uRX4XxzTJ64cf"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 225883,
-      "name": "FLATLINE",
-      "url": "https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "Paragon Songs",
         "url": "https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 247613,
       "name": "Gan Ainm",
       "url": "https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "FLATLINE",
+        "url": "https://open.spotify.com/album/68qY8pAl8uRX4XxzTJ64cf"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 225883,
+      "name": "FLATLINE",
+      "url": "https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "DOOLALLY",
-        "url": "https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5"
-      },
-      "artists": [
-        {
-          "name": "Hak Baker",
-          "url": "https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j"
-        }
-      ],
-      "duration_ms": 202493,
-      "name": "DOOLALLY",
-      "url": "https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "BORED",
         "url": "https://open.spotify.com/album/5HYHaoxTH6iM4RqdVW0rsX"
       },
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
+        "name": "DOOLALLY",
+        "url": "https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5"
+      },
+      "artists": [
+        {
+          "name": "Hak Baker",
+          "url": "https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j"
+        }
+      ],
+      "duration_ms": 202493,
+      "name": "DOOLALLY",
+      "url": "https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
         "name": "The Gates Will Open",
         "url": "https://open.spotify.com/album/1B8aBnkCqVbDcpk8kIfqzv"
       },
@@ -1231,6 +1231,26 @@
       "duration_ms": 346775,
       "name": "The Gates Will Open",
       "url": "https://open.spotify.com/track/3mYH1lXw1QUPllZantOaw4"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "i've got a bf (best friend)",
+        "url": "https://open.spotify.com/album/5db7wptFrRLFAp6ob1oqec"
+      },
+      "artists": [
+        {
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        },
+        {
+          "name": "niina",
+          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
+        }
+      ],
+      "duration_ms": 148852,
+      "name": "i've got a bf (best friend)",
+      "url": "https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1259,26 +1279,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "i've got a bf (best friend)",
-        "url": "https://open.spotify.com/album/5db7wptFrRLFAp6ob1oqec"
-      },
-      "artists": [
-        {
-          "name": "Willo",
-          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
-        },
-        {
-          "name": "niina",
-          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
-        }
-      ],
-      "duration_ms": 148852,
-      "name": "i've got a bf (best friend)",
-      "url": "https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "Better Than I?",
         "url": "https://open.spotify.com/album/1C3pe9P7vbFgAXH4NUDRr5"
       },
@@ -1291,6 +1291,26 @@
       "duration_ms": 145861,
       "name": "Better Than I?",
       "url": "https://open.spotify.com/track/0nt7P9iu1hp7cxoNq7mZrG"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "DICHOTOMY",
+        "url": "https://open.spotify.com/album/2spJG3BUUV6ec0CvvNSUZg"
+      },
+      "artists": [
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        },
+        {
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
+        }
+      ],
+      "duration_ms": 223278,
+      "name": "Paradox",
+      "url": "https://open.spotify.com/track/7ylEdgnznF9rAjDEsmpsRp"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1315,26 +1335,6 @@
       "duration_ms": 205140,
       "name": "Haunt My Mind - Machinedrum Remix",
       "url": "https://open.spotify.com/track/3TXrfDuEZxTaXLG8236DyQ"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
-        "name": "DICHOTOMY",
-        "url": "https://open.spotify.com/album/2spJG3BUUV6ec0CvvNSUZg"
-      },
-      "artists": [
-        {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
-        },
-        {
-          "name": "The Kite String Tangle",
-          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
-        }
-      ],
-      "duration_ms": 223278,
-      "name": "Paradox",
-      "url": "https://open.spotify.com/track/7ylEdgnznF9rAjDEsmpsRp"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
+        "name": "EAZI",
+        "url": "https://open.spotify.com/album/27KRRLn4woQNwuJ8GCweNM"
+      },
+      "artists": [
+        {
+          "name": "Young Eman",
+          "url": "https://open.spotify.com/artist/5ChhhneeWudlENWJcstXzL"
+        }
+      ],
+      "duration_ms": 150474,
+      "name": "EAZI",
+      "url": "https://open.spotify.com/track/3ZtzpqfftOGNMAgm8VGIil"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
         "name": "Tings My Way",
         "url": "https://open.spotify.com/album/5ljS6V83W1O00uaXLFRYW5"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 124878,
       "name": "Tings My Way",
       "url": "https://open.spotify.com/track/3xdiLJ5x946mdlj3vwbPPu"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
-        "name": "EAZI",
-        "url": "https://open.spotify.com/album/27KRRLn4woQNwuJ8GCweNM"
-      },
-      "artists": [
-        {
-          "name": "Young Eman",
-          "url": "https://open.spotify.com/artist/5ChhhneeWudlENWJcstXzL"
-        }
-      ],
-      "duration_ms": 150474,
-      "name": "EAZI",
-      "url": "https://open.spotify.com/track/3ZtzpqfftOGNMAgm8VGIil"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1869,6 +1869,6 @@
       "url": "https://open.spotify.com/track/1UHsGZoNGOROg2ZIiJYEjL"
     }
   ],
-  "unique_name": "Soundtrack oficial de EA SPORTS FC 24",
+  "unique_name": "EA SPORTS FC 24 Official Soundtrack",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3rXtgePifMs"
 }

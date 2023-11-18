@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse liedjes! Cover: Snelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,723 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,745 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rock ‘n Roll in Nederland](https://open.spotify.com/track/7o51u26XzNsTpA23561NJv) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Thomas Acda](https://open.spotify.com/artist/50o63K3IrY47g46E8R071Y) | [Rock ’n Roll in Nederland](https://open.spotify.com/album/1xrVhPW2YITqCyJFDiKlbL) | 3:03 |
+| 1 | [Rock ‘n Roll in Nederland](https://open.spotify.com/track/5M8nfeMKcqbl6oROJqxDgE) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Thomas Acda](https://open.spotify.com/artist/50o63K3IrY47g46E8R071Y) | [Achtentwintig](https://open.spotify.com/album/0f7y8rn9RXOANKpNK3GW6B) | 3:03 |
 | 2 | [Champions League](https://open.spotify.com/track/5iH8UrvxTButDRaWECLDol) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Champions League](https://open.spotify.com/album/3BTw4LwFMLk7mHp0PjNAec) | 2:22 |
 | 3 | [Birkin](https://open.spotify.com/track/3290xz17jucVOEtGhgEHyi) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Birkin](https://open.spotify.com/album/6JBwSQvRHF3HEmifjSWG3W) | 2:06 |
 | 4 | [Altijd Op Je Wacht](https://open.spotify.com/track/2cabxTvClcBMWFnSskAdPo) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [22](https://open.spotify.com/album/5Lv0g9PAEpz9OU4oPIgvlo) | 3:32 |
-| 5 | [Glijpanter](https://open.spotify.com/track/2ThroYFQQFTyhd2Vi8FwSW) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Moderne Manieren](https://open.spotify.com/album/4BoxopluUiPxKaF7jpUOhB) | 3:39 |
+| 5 | [Glijpanter](https://open.spotify.com/track/0cWIJhR3QZHJPHHoRn0vr6) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Glijpanter](https://open.spotify.com/album/5VSqpjC7klSeMAztyXlO1O) | 3:39 |
 | 6 | [Wacht Op Mij](https://open.spotify.com/track/4YmbvryKSbLnsN1IqAI3eK) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Wacht Op Mij](https://open.spotify.com/album/2WSQUoSEGPgHz5dcZGahpg) | 2:17 |
-| 7 | [September](https://open.spotify.com/track/74uZsI9WAdSEvvPUNpq57C) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [September](https://open.spotify.com/album/5dQ7n1SeaptLAjnDMlI1Sv) | 3:53 |
+| 7 | [September](https://open.spotify.com/track/43He0vCvIy1tVm0m2TzReh) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Achtentwintig](https://open.spotify.com/album/0f7y8rn9RXOANKpNK3GW6B) | 3:53 |
 | 8 | [Eigen Schuld](https://open.spotify.com/track/5pf1eSfMJE4efPzwpqB5jK) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE) | [Eigen Schuld](https://open.spotify.com/album/06lZcDwBLxPbT326eAxqS7) | 3:13 |
 | 9 | [Satisfyer](https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Satisfyer](https://open.spotify.com/album/3Kg5fJ83azbIWDKrqAuh4c) | 2:01 |
 | 10 | [Weerspiegelde Pijn](https://open.spotify.com/track/5I7Albio6CNHPM8uHoyWuF) | [Younes](https://open.spotify.com/artist/2ftVjcrQgFBQ7JMkVX6wVw) | [Weerspiegelde Pijn](https://open.spotify.com/album/2FdMP9V6my6LEpTZWM4thN) | 2:57 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 69 | [Dansplaat](https://open.spotify.com/track/57EktM9Ekh0zIeVkRsWuou) | [Wander](https://open.spotify.com/artist/0AIzSAisaARpSG26MvzYyM) | [Dansplaat](https://open.spotify.com/album/2nw1l5iN2YxAGmRwLhoJhE) | 2:41 |
 | 70 | [Wakker](https://open.spotify.com/track/3qD6YcX8EYahVoqfZyIzYC) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Wakker](https://open.spotify.com/album/1bEM1VmjCucrV6SRcN8PRL) | 2:19 |
 
-Snapshot ID: `MCw2MzExZTFmZmYwYmQ3YjExZTJhNTkwOGFkZDlhMDAxMjZmMjk2YTI2`
+Snapshot ID: `MCwyMGNmZjhiZmEwZTg2NTc5NjI2MjcyODViMzQxNmJlYjllMDE2YTcw`

@@ -4,15 +4,16 @@
 
 > Lovely, acoustic pop\. Cover: Haley Joelle
 
-221 songs - 12 hr 15 min
+222 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [0800 HEAVEN \- Acoustic](https://open.spotify.com/track/0mcegVVpLwrLRZB7a6bMgk) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN \(Acoustic\)](https://open.spotify.com/album/0mCdfKtiB1IFVpPhBClsq3) | 3:48 | 2023-07-07 |  |
+| [0800 HEAVEN \- Acoustic](https://open.spotify.com/track/0mcegVVpLwrLRZB7a6bMgk) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN \(Acoustic\)](https://open.spotify.com/album/0mCdfKtiB1IFVpPhBClsq3) | 3:48 | 2023-07-07 | 2023-11-18 |
 | [0800 HEAVEN \- Acoustic](https://open.spotify.com/track/1GkYwdCxt9CANT3gsF5qGP) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN \(Acoustic\)](https://open.spotify.com/album/7Gv5e3oZ7nPKMXwQBO3MYm) | 3:48 | 2023-09-29 | 2023-10-21 |
 | [17 \- Acoustic](https://open.spotify.com/track/4ensio3acJ17PegjBcmXVg) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [17 \(Acoustic\)](https://open.spotify.com/album/6KeC6LLX6HHL4H9w2wb2K9) | 2:49 | 2022-01-28 | 2023-07-15 |
 | [29 \- Stripped](https://open.spotify.com/track/2qfFLxiCWqQarHQ9cVoXKy) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29 \(Stripped\)](https://open.spotify.com/album/03JZ828bZucFZsbVmgZfGa) | 2:32 | 2022-10-08 | 2023-03-11 |
 | [afraid of heights](https://open.spotify.com/track/1NBH8vdNQ2qG7U8VMntBLg) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [afraid of heights](https://open.spotify.com/album/5x6BZ6XJ2YVcwE6l26yy6p) | 2:34 | 2023-09-03 |  |
+| [Africa](https://open.spotify.com/track/6WOCRPBxJqRhOyfLygAOJ5) | [HAPPIE](https://open.spotify.com/artist/4lV9WCVEJ0dmNDWdACbRc9), [The Human Experience](https://open.spotify.com/artist/1NWjumiUC54F8S21p2W6cG) | [Africa](https://open.spotify.com/album/2aewyGiYU8HtQflj03vfLu) | 3:40 | 2023-11-17 |  |
 | [Ahead of Myself](https://open.spotify.com/track/5EPVhzjp0TKDeZfkQXaQVa) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Ahead of Myself](https://open.spotify.com/album/5pVTHBXldk32CyJq169FgC) | 3:13 | 2023-08-18 | 2023-09-23 |
 | [Alien \- Acoustic](https://open.spotify.com/track/5IYKZF1nw5V0GtxQN7mspQ) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Alien \(Acoustic\)](https://open.spotify.com/album/12Nm1go9iMaJPcGcBzOHFU) | 2:20 | 2022-01-28 | 2023-09-02 |
 | [All That Really Matters \- Stripped Version](https://open.spotify.com/track/3fPc9bBcho6PKnaIkQs87u) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [All That Really Matters \(Stripped Version\)](https://open.spotify.com/album/7qTaZSmNrPdj909ayvnalM) | 3:18 | 2022-10-08 |  |

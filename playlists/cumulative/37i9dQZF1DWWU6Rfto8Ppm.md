@@ -4,7 +4,7 @@
 
 > Acuérdate de estos clásicos\. Foto: Don Omar.
 
-410 songs - 1 day 0 hr 39 min
+411 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Igual Que Ayer](https://open.spotify.com/track/2WHctubxf8LzrGr62cLz3d) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Masterpiece: Nuestra Obra Maestra](https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE) | 3:52 | 2021-12-17 |  |
 | [Juego de Niños](https://open.spotify.com/track/3OoW4gemvF4r5OjKpRaGwD) | [Golpe a Golpe](https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj) | [Mas Lunaticos](https://open.spotify.com/album/7EI3hMAmYWir6aVZtSxW5J) | 3:29 | 2021-12-17 | 2022-08-13 |
 | [Juego de Niños](https://open.spotify.com/track/6o0JDrRzJLMDnzazfw4GJ6) | [Golpe a Golpe](https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj) | [Más Lunáticos](https://open.spotify.com/album/27PjrmYvDUsl1MdTHvZsUR) | 3:29 | 2022-08-09 | 2023-09-30 |
+| [Juego de Niños](https://open.spotify.com/track/7yEzCrWg7RuQSU61VnvWbK) | [Golpe a Golpe](https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj) | [Más Lunáticos](https://open.spotify.com/album/30Mx3Jz0HsGItYSrc1bHaw) | 3:29 | 2023-10-05 |  |
 | [Julito Maraña](https://open.spotify.com/track/7EgF5XXa4TZQT1HTpMRHNj) | [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Voltio](https://open.spotify.com/album/2f3giHhzrdVMJvRySjLGvJ) | 3:24 | 2022-10-12 |  |
 | [Junto Al Amanecer](https://open.spotify.com/track/1HPzBInBPVJfSUDNLsTGGn) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [El Movimiento: The Mixtape](https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ) | 4:10 | 2021-12-17 |  |
 | [La Botella](https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb) | [Mach & Daddy](https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8) | [Desde Abajo](https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R) | 2:57 | 2023-07-24 |  |
@@ -263,7 +264,7 @@
 | [Pa' Que La Pases Bien](https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [El Fenomeno](https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s) | 3:34 | 2021-12-17 |  |
 | [Pa' Que Retozen](https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 2:31 | 2021-12-17 |  |
 | [Pam Pam](https://open.spotify.com/track/3syMVJoaLhRKAw9r9ZB9qD) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [20 Number 1's Now](https://open.spotify.com/album/4POWs8wn88db9OmY9strlo) | 3:53 | 2021-12-17 | 2022-07-29 |
-| [Papi Chulo..\. Te Traigo El Mmmm \- Original](https://open.spotify.com/track/54imcQLSCe7MxGGJ7idPtt) | [Lorna](https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3) | [Papi Chulo..\. Te Traigo El Mmmm](https://open.spotify.com/album/2PXmGyRtObJ5jdRjkaovZs) | 2:56 | 2022-10-12 |  |
+| [Papi Chulo..\. Te Traigo El Mmmm \- Original](https://open.spotify.com/track/54imcQLSCe7MxGGJ7idPtt) | [Lorna](https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3) | [Papi Chulo..\. Te Traigo El Mmmm](https://open.spotify.com/album/2PXmGyRtObJ5jdRjkaovZs) | 2:56 | 2022-10-12 | 2023-11-18 |
 | [Pasarela](https://open.spotify.com/track/1MfqPCs3Y722VK6zkWZ98Z) | [Ñejo & Dalmata](https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I) | [Broke & Famous](https://open.spotify.com/album/35ejmbRlV32Qng9jGF34ve) | 3:47 | 2021-12-17 |  |
 | [Pase Lo Que Pase](https://open.spotify.com/track/0ey8pKC4acPGI7pLEq4txU) | [Big Boy](https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG), [Jeanette](https://open.spotify.com/artist/2RR3ftPVbWXhmczgCr0kpX) | [Mis Ojos Lloran Por Ti](https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc) | 3:43 | 2023-10-05 |  |
 | [Pegaito a la Pared \(feat\. Plan B\) \- Remix](https://open.spotify.com/track/34hqsdmzodHbk50EnoSefY) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Pegaito a la Pared "The Remixes"](https://open.spotify.com/album/0RtUrX0UbjupH9CjRgASKR) | 4:42 | 2021-12-17 |  |

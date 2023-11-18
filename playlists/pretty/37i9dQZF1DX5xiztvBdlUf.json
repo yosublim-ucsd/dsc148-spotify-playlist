@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 607087,
+  "num_followers": 607253,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGMzOGU0MzQzMzRhMDVlNDNkODc3YWJmOGI3YjliZDM3YzU0ZDli",
+  "snapshot_id": "MCxkZTk0ZTVjYjk2YWI0MWQ3YTAzYmYwMGQ4ZDA4Njk1MmNhYTY5YTJh",
   "tracks": [
     {
       "added_at": "2023-11-14 11:01:57",
@@ -195,18 +195,18 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "Midsommar",
-        "url": "https://open.spotify.com/album/1hsH4qErR4O6USTu2k7O3w"
+        "name": "GLY",
+        "url": "https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB"
       },
       "artists": [
         {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
         }
       ],
-      "duration_ms": 156923,
-      "name": "Midsommar",
-      "url": "https://open.spotify.com/track/0f91Dvbc5tc6DN7e2QaNyC"
+      "duration_ms": 220623,
+      "name": "GLY",
+      "url": "https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "GLY",
-        "url": "https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB"
+        "name": "Midsommar",
+        "url": "https://open.spotify.com/album/1hsH4qErR4O6USTu2k7O3w"
       },
       "artists": [
         {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
         }
       ],
-      "duration_ms": 220623,
-      "name": "GLY",
-      "url": "https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH"
+      "duration_ms": 156923,
+      "name": "Midsommar",
+      "url": "https://open.spotify.com/track/0f91Dvbc5tc6DN7e2QaNyC"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "Cynnes",
+        "url": "https://open.spotify.com/album/1gBWP6CbeIFWedMHaR5FJ4"
+      },
+      "artists": [
+        {
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+        }
+      ],
+      "duration_ms": 324333,
+      "name": "Cynnes",
+      "url": "https://open.spotify.com/track/6EjqmQ7tyQUIOYo4jXDiX9"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "Caprice",
         "url": "https://open.spotify.com/album/0zv9KQqPhVAPleEi8anQ4R"
       },
@@ -511,22 +527,6 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "Cynnes",
-        "url": "https://open.spotify.com/album/1gBWP6CbeIFWedMHaR5FJ4"
-      },
-      "artists": [
-        {
-          "name": "il:lo",
-          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
-        }
-      ],
-      "duration_ms": 324333,
-      "name": "Cynnes",
-      "url": "https://open.spotify.com/track/6EjqmQ7tyQUIOYo4jXDiX9"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
         "name": "Silence & Secrets (Black Coffee Remix)",
         "url": "https://open.spotify.com/album/6yaDQvusuMpB2BqrsmhSRI"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 474093,
       "name": "Silence & Secrets - Black Coffee Remix",
       "url": "https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
+        "name": "Cenote",
+        "url": "https://open.spotify.com/album/1TXpoAyR5Z3q3IixFnUiwf"
+      },
+      "artists": [
+        {
+          "name": "Sainte Vie",
+          "url": "https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk"
+        }
+      ],
+      "duration_ms": 298335,
+      "name": "Cenote",
+      "url": "https://open.spotify.com/track/6kZOfRM1yZUyLGATRhPTuf"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -571,22 +587,6 @@
       "duration_ms": 361493,
       "name": "Mama Thula",
       "url": "https://open.spotify.com/track/5lyU83MdLTyJpnmCl3NjOi"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
-        "name": "Cenote",
-        "url": "https://open.spotify.com/album/1TXpoAyR5Z3q3IixFnUiwf"
-      },
-      "artists": [
-        {
-          "name": "Sainte Vie",
-          "url": "https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk"
-        }
-      ],
-      "duration_ms": 298335,
-      "name": "Cenote",
-      "url": "https://open.spotify.com/track/6kZOfRM1yZUyLGATRhPTuf"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -647,26 +647,6 @@
       "duration_ms": 193064,
       "name": "So Good",
       "url": "https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
-        "name": "Osama (Edit)",
-        "url": "https://open.spotify.com/album/5q1Iq5mxmYODLmwTlmDw6u"
-      },
-      "artists": [
-        {
-          "name": "Zakes Bantwini",
-          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
-        },
-        {
-          "name": "Kasango",
-          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
-        }
-      ],
-      "duration_ms": 223666,
-      "name": "Osama - Edit",
-      "url": "https://open.spotify.com/track/5i2gTPIuhhA1mcFQpmD5rf"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -759,6 +739,26 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "Osama (Edit)",
+        "url": "https://open.spotify.com/album/5q1Iq5mxmYODLmwTlmDw6u"
+      },
+      "artists": [
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "Osama - Edit",
+      "url": "https://open.spotify.com/track/5i2gTPIuhhA1mcFQpmD5rf"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "Get Lucky",
         "url": "https://open.spotify.com/album/17OsldS6iPodvsbgVOJEho"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "You Can Dance Now",
-        "url": "https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2"
-      },
-      "artists": [
-        {
-          "name": "Liva K",
-          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
-        }
-      ],
-      "duration_ms": 244802,
-      "name": "You Can Dance Now",
-      "url": "https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
         "name": "No One Like You - EP",
         "url": "https://open.spotify.com/album/3GSvcm4WssIPaJLilc5LCK"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 256721,
       "name": "No One Like You - Edit",
       "url": "https://open.spotify.com/track/262YCyt3bWO2U7sk3wHAhn"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
+        "name": "You Can Dance Now",
+        "url": "https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2"
+      },
+      "artists": [
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        }
+      ],
+      "duration_ms": 244802,
+      "name": "You Can Dance Now",
+      "url": "https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/03mhpyzIJwGvoyJzoij8aN"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        }
+      ],
+      "duration_ms": 214408,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/6B86SlbbHFNhIWusVztXYJ"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17"
       },
@@ -875,18 +891,50 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/03mhpyzIJwGvoyJzoij8aN"
+        "name": "Ode Ireti (Nitefreak Remix)",
+        "url": "https://open.spotify.com/album/2qqR1bQI6G7jEzK5zALbpL"
       },
       "artists": [
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+          "name": "&friends",
+          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
+        },
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "El-Jay",
+          "url": "https://open.spotify.com/artist/6I4x3myd2zhgAIrqkp4D85"
+        },
+        {
+          "name": "Oluwadamvic",
+          "url": "https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly"
         }
       ],
-      "duration_ms": 214408,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/6B86SlbbHFNhIWusVztXYJ"
+      "duration_ms": 239925,
+      "name": "Ode Ireti - Nitefreak Remix",
+      "url": "https://open.spotify.com/track/40UBIQiUwe6Or8rUKRlG0N"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+        }
+      ],
+      "duration_ms": 229523,
+      "name": "What U Doing",
+      "url": "https://open.spotify.com/track/6bU9aYY97cCrzsx1IKdxZG"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -963,26 +1011,6 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        },
-        {
-          "name": "Leo Wood",
-          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
-        }
-      ],
-      "duration_ms": 229523,
-      "name": "What U Doing",
-      "url": "https://open.spotify.com/track/6bU9aYY97cCrzsx1IKdxZG"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
         "name": "Speed Of Sound",
         "url": "https://open.spotify.com/album/1AajlZNAhRY0EJ9G98kwIb"
       },
@@ -1043,34 +1071,6 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "Ode Ireti (Nitefreak Remix)",
-        "url": "https://open.spotify.com/album/2qqR1bQI6G7jEzK5zALbpL"
-      },
-      "artists": [
-        {
-          "name": "&friends",
-          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
-        },
-        {
-          "name": "Nitefreak",
-          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
-        },
-        {
-          "name": "El-Jay",
-          "url": "https://open.spotify.com/artist/6I4x3myd2zhgAIrqkp4D85"
-        },
-        {
-          "name": "Oluwadamvic",
-          "url": "https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly"
-        }
-      ],
-      "duration_ms": 239925,
-      "name": "Ode Ireti - Nitefreak Remix",
-      "url": "https://open.spotify.com/track/40UBIQiUwe6Or8rUKRlG0N"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
         "name": "Far Behind",
         "url": "https://open.spotify.com/album/3k2AgNEkdykDDtt24qH9qP"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/0IsNX2aMcdxWEHe3iBXWsO"
-      },
-      "artists": [
-        {
-          "name": "Mika Olson",
-          "url": "https://open.spotify.com/artist/6DuX9bvtfE0dhH1ebpHyBc"
-        }
-      ],
-      "duration_ms": 196451,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/2af85ilHz1R6Cuo4JzqpIR"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
         "name": "Lay It All On Me",
         "url": "https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37"
       },
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "Body Language, Vol. 24",
-        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/0IsNX2aMcdxWEHe3iBXWsO"
       },
       "artists": [
         {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+          "name": "Mika Olson",
+          "url": "https://open.spotify.com/artist/6DuX9bvtfE0dhH1ebpHyBc"
         }
       ],
-      "duration_ms": 315026,
-      "name": "Kami",
-      "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
+      "duration_ms": 196451,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/2af85ilHz1R6Cuo4JzqpIR"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1183,6 +1167,22 @@
       "duration_ms": 397882,
       "name": "Copal - Super Flu Remix",
       "url": "https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 315026,
+      "name": "Kami",
+      "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1303,6 +1303,30 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "Voices Above",
+        "url": "https://open.spotify.com/album/4U7wCpJuheM9IlV53aBLuJ"
+      },
+      "artists": [
+        {
+          "name": "Archila",
+          "url": "https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        }
+      ],
+      "duration_ms": 190942,
+      "name": "Voices Above",
+      "url": "https://open.spotify.com/track/6ME9tv8WUbvUs7be9nt48J"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "Better In The Dark",
         "url": "https://open.spotify.com/album/5MkPjNJCfBw0UibTBk9aax"
       },
@@ -1359,30 +1383,6 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "To Be Written",
-        "url": "https://open.spotify.com/album/75NlKx9OHVKAVa0oFZV0D2"
-      },
-      "artists": [
-        {
-          "name": "Marc DePulse",
-          "url": "https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN"
-        },
-        {
-          "name": "Eleonora",
-          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
-        },
-        {
-          "name": "Lunar Plane",
-          "url": "https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy"
-        }
-      ],
-      "duration_ms": 393442,
-      "name": "To Be Written - Lunar Plane Remix",
-      "url": "https://open.spotify.com/track/2ItIqM6gawNDBLAPHDbJzO"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
         "name": "Noso",
         "url": "https://open.spotify.com/album/46TCzN7jRdwIWXPzi60Eyz"
       },
@@ -1403,6 +1403,30 @@
       "duration_ms": 443189,
       "name": "Noso",
       "url": "https://open.spotify.com/track/3HHsTf003jTaiysd5xFQML"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
+        "name": "To Be Written",
+        "url": "https://open.spotify.com/album/75NlKx9OHVKAVa0oFZV0D2"
+      },
+      "artists": [
+        {
+          "name": "Marc DePulse",
+          "url": "https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN"
+        },
+        {
+          "name": "Eleonora",
+          "url": "https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r"
+        },
+        {
+          "name": "Lunar Plane",
+          "url": "https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy"
+        }
+      ],
+      "duration_ms": 393442,
+      "name": "To Be Written - Lunar Plane Remix",
+      "url": "https://open.spotify.com/track/2ItIqM6gawNDBLAPHDbJzO"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1435,30 +1459,6 @@
       "duration_ms": 420115,
       "name": "Kilian",
       "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
-        "name": "Voices Above",
-        "url": "https://open.spotify.com/album/4U7wCpJuheM9IlV53aBLuJ"
-      },
-      "artists": [
-        {
-          "name": "Archila",
-          "url": "https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh"
-        },
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Mal\u00f3ne",
-          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
-        }
-      ],
-      "duration_ms": 190942,
-      "name": "Voices Above",
-      "url": "https://open.spotify.com/track/6ME9tv8WUbvUs7be9nt48J"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1543,18 +1543,22 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "Nice to Meet You",
-        "url": "https://open.spotify.com/album/3s82Nf6qJ4CmQCvMXkJ2Y6"
+        "name": "Le Funk",
+        "url": "https://open.spotify.com/album/60BqgLIFbLMXQTBiTQqiyp"
       },
       "artists": [
         {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+          "name": "Prunk",
+          "url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG"
+        },
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
         }
       ],
-      "duration_ms": 373487,
-      "name": "Nice to Meet You",
-      "url": "https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe"
+      "duration_ms": 239106,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/61k7UiVsYL4S19A2XgJYhi"
     }
   ],
   "unique_name": "Deep House Blend",

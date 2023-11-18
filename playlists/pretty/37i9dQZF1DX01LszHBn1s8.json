@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8\ud83d\udea8",
-  "num_followers": 231692,
+  "num_followers": 231853,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTk5MWYyZWRjNjY0YzVmZTVhNzJmZGM0M2VhODcwYjgxYTAwMjMz",
+  "snapshot_id": "MCw1OTgxOTI2MGYxMDE3ZjEyZTI0OTllNTgzMjU4OWUwZTg5ZTNiMWM3",
   "tracks": [
     {
       "added_at": "2023-11-16 23:00:00",
@@ -115,6 +115,22 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
+        "name": "For All The Dogs Scary Hours Edition",
+        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 230709,
+      "name": "You Broke My Heart",
+      "url": "https://open.spotify.com/track/5Se32hEA9raeboZerywxka"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
         "name": "Music Of The Sun",
         "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
       },
@@ -191,6 +207,26 @@
       "duration_ms": 130666,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
+        "name": "Water (Remix)",
+        "url": "https://open.spotify.com/album/7DWPd7wOj9g0N5krVFil0Z"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water - Remix",
+      "url": "https://open.spotify.com/track/4CljUDO1I5hpKjwSNK6RWY"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -2431,8 +2467,8 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "Padam Padam",
-        "url": "https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV"
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
       },
       "artists": [
         {
@@ -2442,7 +2478,7 @@
       ],
       "duration_ms": 166266,
       "name": "Padam Padam",
-      "url": "https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac"
+      "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -13835,8 +13871,8 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "Remember me Happy",
-        "url": "https://open.spotify.com/album/1mtobYhOLhqQzk9V5zSxKj"
+        "name": "Remember Me Happy",
+        "url": "https://open.spotify.com/album/0lVWo50dcMJY3QJ3osxw0O"
       },
       "artists": [
         {
@@ -13845,8 +13881,8 @@
         }
       ],
       "duration_ms": 141096,
-      "name": "Remember me Happy",
-      "url": "https://open.spotify.com/track/6LmgJRJKksk4FlSWBBLWpw"
+      "name": "Remember Me Happy",
+      "url": "https://open.spotify.com/track/3lzJF3yym3IWoeiaxTVeYr"
     },
     {
       "added_at": "2023-11-16 23:00:00",

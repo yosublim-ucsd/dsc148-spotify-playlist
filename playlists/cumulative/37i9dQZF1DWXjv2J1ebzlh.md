@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,183 songs - 6 day 3 hr 5 min
+2,184 songs - 6 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -802,7 +802,8 @@
 | [Folha de Jurema](https://open.spotify.com/track/2RcrkBWCOWaX67jVDLgJr6) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn), [Salvador Araguaya](https://open.spotify.com/artist/5yPaj9fKegvkHQdfNo1i35), [Spaniol](https://open.spotify.com/artist/379N7T3a4nmax4XPxffDn1), [Artéria FM](https://open.spotify.com/artist/2uOgBTx0GFjWS205jRJZf6) | [Folha de Jurema](https://open.spotify.com/album/6K44xJeoORjgqFWovNnSkg) | 4:23 | 2022-06-09 | 2023-06-21 |
 | [For A Few Dollars More](https://open.spotify.com/track/70r8zotJi3xB1OtzvvwteZ) | [Man Chau Po Orchestra](https://open.spotify.com/artist/4pxLC1VVB1GFDci6mPoFUM) | [Teen Dance Music From China And Malaysia](https://open.spotify.com/album/6VzcSF5pHdzJ5kre0vJdKb) | 2:27 | 2022-06-09 |  |
 | [For Me You Are Dub](https://open.spotify.com/track/0PsWezfEPEKDJ07Q6CiVCv) | [Hollie Cook](https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE) | [Hollie Cook in Dub \(Prince Fatty Presents\)](https://open.spotify.com/album/0WRN5cCzKxKNZbU9S4aRxF) | 3:28 | 2022-07-12 |  |
-| [Forest Nativity](https://open.spotify.com/track/5l0Pm1woVIhxyweB3eGkrl) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [Nova la nuit](https://open.spotify.com/album/3nXuGKslVGaWBSAA8QJq8V) | 4:21 | 2023-06-20 |  |
+| [Forest Nativity](https://open.spotify.com/track/5l0Pm1woVIhxyweB3eGkrl) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [Nova la nuit](https://open.spotify.com/album/3nXuGKslVGaWBSAA8QJq8V) | 4:21 | 2023-06-20 | 2023-11-18 |
+| [Forest Nativity](https://open.spotify.com/track/0rVZy2ntad4FuOZuoan8T7) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [Psychedelic Zanzu 1982\-1984](https://open.spotify.com/album/0wPL7wZd18i4LflGGrUc7U) | 4:23 | 2023-10-06 |  |
 | [Forest Nativity](https://open.spotify.com/track/4kB74XFE2Lp4NVxZUBg0Yy) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [Psychedelic Sanza \(1982\-1984\)](https://open.spotify.com/album/76JTu51TbKCpDOcjIEXEV3) | 4:23 | 2022-07-27 | 2023-03-26 |
 | [Forest Nativity](https://open.spotify.com/track/59R57D4dMujj4Zz411KM27) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [Psychedelic Sanza](https://open.spotify.com/album/3hhI4WjM655ryg6aHjqzp4) | 4:23 | 2022-07-12 | 2023-08-10 |
 | [Força Bruta](https://open.spotify.com/track/2ZUszKpDYEPvNWFrxewx94) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Força Bruta](https://open.spotify.com/album/4e9GNzfj6z4LvijhimWXo3) | 5:09 | 2022-06-09 |  |

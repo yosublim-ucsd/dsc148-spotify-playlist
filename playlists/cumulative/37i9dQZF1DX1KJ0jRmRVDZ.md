@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-886 songs - 2 day 2 hr 40 min
+887 songs - 2 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [warewareda feat\. sakana](https://open.spotify.com/track/4c7DXjRdLHspJGkbQNUdns) | [eijun](https://open.spotify.com/artist/3fZEXtz36reclpIaZpu1Bx), [sakana](https://open.spotify.com/artist/7ynWqUtYVEl1GOhC4LmsT9) | [warewareda feat\. sakana](https://open.spotify.com/album/6wwdEDDpNjbKURoIw050U2) | 2:02 | 2023-02-07 | 2023-02-15 |
 | [Whale\-fall Community](https://open.spotify.com/track/1zpKI5PcbL4s45a8XlJ7Z7) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [Whale\-fall Community](https://open.spotify.com/album/25sMXhTMexGKpfDuPxighr) | 3:57 | 2022-08-16 | 2022-08-31 |
 | [Yankee Dance](https://open.spotify.com/track/5Srs8p95uAhVvFBAQZaWjb) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [Yankee Dance](https://open.spotify.com/album/5rO0lgXiwvffOspor3TN7Q) | 3:22 | 2022-07-07 | 2022-07-17 |
+| [yattyattawa](https://open.spotify.com/track/4yHNww1JcnVXjL4OxKwdyr) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [yattyattawa](https://open.spotify.com/album/0BQD8PXJk9cxt2Mzt20iSp) | 2:41 | 2023-11-16 |  |
 | [YOUNG TOWN](https://open.spotify.com/track/5FjI7MuKuPUQD6PPntmD3m) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [YOUNG TOWN](https://open.spotify.com/album/2ZrZNBjZKpBlXWwxYmEra9) | 2:50 | 2022-06-09 | 2022-06-22 |
 | [Zombie \- feat\. 小林私 椎乃味醂Remix](https://open.spotify.com/track/0UzvLbUrWdPxo91dgMMXgo) | [Goat](https://open.spotify.com/artist/4mfb1N5wHaJn88xVYvHq8H), [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y), [椎乃味醂](https://open.spotify.com/artist/0It67rh1sbAlCG80VXJVrk) | [超人類計画](https://open.spotify.com/album/716k1od6kUqJuwJhyKsS5t) | 3:00 | 2023-03-29 | 2023-04-12 |
 | [ΔV](https://open.spotify.com/track/1IR8aefj56ogEyt5uAZn2y) | [\*Luna](https://open.spotify.com/artist/4vwJe968gHHZzL0or0gSZA), [Yuaru](https://open.spotify.com/artist/0MJZFhZQwhlhY7I0fRUKRj) | [ΔV](https://open.spotify.com/album/7eo4bZ3CEoBUqwNdQKhCyk) | 4:03 | 2023-01-17 | 2023-02-01 |
@@ -383,7 +384,7 @@
 | [もしも命が描けたら](https://open.spotify.com/track/06Dyf27hoaHiVugKgL7K2Z) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/2Ltmu8tslylv8YlBkyrcgY) | 3:21 | 2022-06-09 | 2022-07-27 |
 | [もしも命が描けたら](https://open.spotify.com/track/5WYTSyhKonzQZ3hu14LNr6) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd) | 3:21 | 2023-01-05 | 2023-01-17 |
 | [やさしい怪物 feat\. 泣き虫](https://open.spotify.com/track/57RVe3PQDsOZHAIzVmwB3G) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3), [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [やさしい怪物 feat\. 泣き虫](https://open.spotify.com/album/3vggBvyxFXRR6xCnkRxmRR) | 3:05 | 2022-06-09 | 2022-07-29 |
-| [やっちゃったわ](https://open.spotify.com/track/5FpALRE5R6UbONSBLF9Vhq) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [やっちゃったわ](https://open.spotify.com/album/2R3BmVGXanFTzQmsMS9zmi) | 2:41 | 2023-11-16 |  |
+| [やっちゃったわ](https://open.spotify.com/track/5FpALRE5R6UbONSBLF9Vhq) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [やっちゃったわ](https://open.spotify.com/album/2R3BmVGXanFTzQmsMS9zmi) | 2:41 | 2023-11-16 | 2023-11-18 |
 | [よさそう](https://open.spotify.com/track/3qUlyd1hCDKBrVJqOb13j0) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [よさそう](https://open.spotify.com/album/1WCwIL4vt7ompMPbGtlUcv) | 3:01 | 2022-06-21 | 2022-07-29 |
 | [よろこびのうた](https://open.spotify.com/track/1zZGAhpXotGlwMbXiwGmih) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [よろこびのうた](https://open.spotify.com/album/0IhZpahkXyDzuDdxKb8H4N) | 0:55 | 2022-06-23 | 2022-06-25 |
 | [らいふいずあびっち!](https://open.spotify.com/track/3Q2uURmkqLGK2xO3tEl7Qg) | [たかやん](https://open.spotify.com/artist/79JgYJHiBUZcvYqOC5Zufn) | [らいふいずあびっち!](https://open.spotify.com/album/3kTS5tLtDHI0iJdgttmGeG) | 3:16 | 2022-07-19 | 2022-07-21 |

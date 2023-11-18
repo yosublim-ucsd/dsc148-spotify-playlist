@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Alle Jahre wieder",
+        "url": "https://open.spotify.com/album/5zWifkkpJ1HuwGAQHCSy91"
+      },
+      "artists": [
+        {
+          "name": "DIKKA",
+          "url": "https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "Alle Jahre wieder",
+      "url": "https://open.spotify.com/track/1rynQ6uOgOXUjiHzKBqzOG"
+    },
+    {
+      "album": {
         "name": "Die 30 besten Spiel- und Bewegungslieder",
         "url": "https://open.spotify.com/album/7wGBvXA1TKtlqyJq6Mtsl5"
       },
@@ -2352,7 +2370,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 174130,
       "name": "In Der Weihnachtsb\u00e4ckerei",
       "url": "https://open.spotify.com/track/7HIu4LaRnvYb9RKRo24Ibu"
@@ -3953,6 +3971,24 @@
     },
     {
       "album": {
+        "name": "Meine Lieblingskinderlieder f\u00fcr die Weihnachtszeit",
+        "url": "https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169591,
+      "name": "Schneeengel",
+      "url": "https://open.spotify.com/track/33to3U2rdPNX2v0lEIUGNR"
+    },
+    {
+      "album": {
         "name": "eneMene Kinderlieder - die Gr\u00fcne",
         "url": "https://open.spotify.com/album/2k4Qw7Gktl2ROdMYFw29eC"
       },
@@ -3986,24 +4022,6 @@
       "duration_ms": 184173,
       "name": "Schneefl\u00f6ckchen",
       "url": "https://open.spotify.com/track/1toWSGtX1RsvM9iFElS0xw"
-    },
-    {
-      "album": {
-        "name": "Meine Lieblingskinderlieder f\u00fcr die Weihnachtszeit",
-        "url": "https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "date_added": "2023-11-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169591,
-      "name": "Schneengel",
-      "url": "https://open.spotify.com/track/33to3U2rdPNX2v0lEIUGNR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Tu Jhoothi Main Makkaar
 
-173 songs - 10 hr 44 min
+174 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Chor Bazari](https://open.spotify.com/track/39BHH1e0vfpLHCBKFedsDZ) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Hits of Saif](https://open.spotify.com/album/6vlSJXSNKktM81QgS16R9v) | 4:17 | 2022-10-12 | 2022-11-13 |
 | [Chor Bazari](https://open.spotify.com/track/0SxjmKamCaXEBwuQdiMxor) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Love Aaj Kal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7CIIJ9TXRdX5bMrvO0vC3v) | 4:17 | 2022-07-17 | 2023-11-04 |
 | [Chor Bazari \(From "Love Aaj Kal "\)](https://open.spotify.com/track/6XE0MxTJdLWEePTCqAw5xr) | [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Love Aaj Kal](https://open.spotify.com/album/4u7WFjehsC5sUibLEOaqLf) | 4:17 | 2022-03-09 | 2023-03-16 |
+| [Chori Chori](https://open.spotify.com/track/5qCJMsO0GDpk0q6uN3bsmH) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Aariana Chhibber](https://open.spotify.com/artist/4pDDJcfX2toBb3QZIfjm5N) | [Chori Chori](https://open.spotify.com/album/54qD3kzrnxe7HwUOc04LGh) | 2:49 | 2023-11-17 |  |
 | [Coffee Ke Bahane](https://open.spotify.com/track/16OpfF6l2Q4yNm0saq2gBN) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [KavyaKriti](https://open.spotify.com/artist/1DHwrcQWDQhgbRg4BE9rgr) | [Coffee Ke Bahane](https://open.spotify.com/album/4GaUOWLIyCS4jn3mz4DU77) | 2:58 | 2023-08-30 | 2023-09-13 |
 | [Daaru Desi](https://open.spotify.com/track/0Ix6UEASd81AgtpqI39P5I) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Cocktail](https://open.spotify.com/album/5iLKGxWb2JqrgJqbcVkroS) | 4:29 | 2023-08-08 | 2023-10-28 |
 | [Daaru Desi](https://open.spotify.com/track/5pAo2q7eVt65OSkwYgqhHl) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Cocktail \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1y5h6GBXEgFjBDHThikj1w) | 4:29 | 2023-10-27 |  |
@@ -68,7 +69,7 @@
 | [Jaane Kyun](https://open.spotify.com/track/2XecqQiPVkouS73OYRzDC6) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Reena Gilbert](https://open.spotify.com/artist/0MTZdlgu4KBHtWotp2ShV0) | [Jaane Kyun](https://open.spotify.com/album/35tiVpTGRw9i7dBL9wUZ6J) | 2:19 | 2023-03-15 | 2023-04-20 |
 | [Jaane Kyun](https://open.spotify.com/track/6M2UnI1LnXuXlWU54CKmKx) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Dostana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MzefJUmigFTnjful2wuum) | 4:37 | 2023-02-20 |  |
 | [Jaane Kyun \(From "Dostana"\)](https://open.spotify.com/track/4w90JoFrkoYfxe4S8DWD7T) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Best of Me Vishal Shekhar](https://open.spotify.com/album/6uxRlKbjePj7hvCiHV5y3k) | 4:37 | 2022-03-09 | 2023-02-21 |
-| [jaanu na](https://open.spotify.com/track/7C0IvBW7ZTk0cyyQQid44w) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [jaanu na](https://open.spotify.com/album/7rnZFaD0VEQZ5CcbjiNm4h) | 2:40 | 2023-10-13 |  |
+| [jaanu na](https://open.spotify.com/track/7C0IvBW7ZTk0cyyQQid44w) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [jaanu na](https://open.spotify.com/album/7rnZFaD0VEQZ5CcbjiNm4h) | 2:40 | 2023-10-13 | 2023-11-18 |
 | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/track/0645eBDehHcqfiF15hscQV) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/album/0kZKLq2WZQWvXvbxvK6YoC) | 3:43 | 2023-07-20 |  |
 | [Jeet](https://open.spotify.com/track/2nEntnpNpsJNhw1wLY8O96) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:04 | 2022-07-17 | 2023-02-11 |
 | [Jeet](https://open.spotify.com/track/4ye8U0982eHtlhlvePpxtP) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Jeet](https://open.spotify.com/album/6OiuCvQifZVGD0DANTN2IL) | 3:04 | 2022-03-09 | 2022-07-29 |

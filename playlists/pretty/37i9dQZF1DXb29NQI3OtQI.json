@@ -1,12 +1,12 @@
 {
   "description": "The best easy rock from the 2000s. Cover: Switchfoot",
-  "num_followers": 184096,
+  "num_followers": 184201,
   "original_name": "00s Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTMyMzY3ZGNkZTVmYjljMGI5MGRjZWNlOTc5NGZlMDM4M2Y0MWMz",
+  "snapshot_id": "MCxkMjExZDk2NWZlYjZmMjI2M2EwOTQ0MGNhNzZmZmI1MzlmOGEyOWYx",
   "tracks": [
     {
       "added_at": "2023-01-18 22:25:58",
@@ -1291,22 +1291,18 @@
     {
       "added_at": "2023-01-18 22:25:58",
       "album": {
-        "name": "Red Carpet Massacre",
-        "url": "https://open.spotify.com/album/7I7gJPIDgmdaMnHlUJi9AO"
+        "name": "Sailing to Philadelphia",
+        "url": "https://open.spotify.com/album/1DrdpkCNbP2QxDvtsASs63"
       },
       "artists": [
         {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
         }
       ],
-      "duration_ms": 339933,
-      "name": "Falling Down (feat. Justin Timberlake)",
-      "url": "https://open.spotify.com/track/39Fp08QFko8zyYjNbuhJJf"
+      "duration_ms": 329866,
+      "name": "Sailing to Philadelphia",
+      "url": "https://open.spotify.com/track/5dFbGFPR2GkgIPvfnAo3R3"
     }
   ],
   "unique_name": "00s Easy Rock",

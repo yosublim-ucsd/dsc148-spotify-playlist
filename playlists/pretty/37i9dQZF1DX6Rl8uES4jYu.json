@@ -1,13 +1,45 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 238558,
+  "num_followers": 238552,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmQ3OThjYWNjYTVlNmJlZjJiZjU0NWRlMTg3ZjBjZDg2OWZhMWI4",
+  "snapshot_id": "MCxmZWE4YTU3NmRlMjQ0Y2YwZjU0OTRkOWRlMDZjOGQzY2IxNTY0ZGZi",
   "tracks": [
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Yee Yee",
+        "url": "https://open.spotify.com/album/0nSgtwHRnvZf4CAiTjjdZj"
+      },
+      "artists": [
+        {
+          "name": "Lady Bri",
+          "url": "https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO"
+        }
+      ],
+      "duration_ms": 163422,
+      "name": "Yee Yee",
+      "url": "https://open.spotify.com/track/1reQ2tpMpbOI6g51GGyIxi"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Black Mona Lisa",
+        "url": "https://open.spotify.com/album/5TjZrtwHeIxK4KUGZcQe27"
+      },
+      "artists": [
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+        }
+      ],
+      "duration_ms": 180695,
+      "name": "Black Mona Lisa",
+      "url": "https://open.spotify.com/track/7lmZTo2AochYJZH1oRsdI2"
+    },
     {
       "added_at": "2023-11-10 05:01:00",
       "album": {
@@ -1617,30 +1649,6 @@
       "url": "https://open.spotify.com/track/6NL3hDAjEwwGzWJLaJUqpE"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Run Away",
-        "url": "https://open.spotify.com/album/2pBy32Q6pHJbDheTy6Ao7s"
-      },
-      "artists": [
-        {
-          "name": "Luc de la Croixx",
-          "url": "https://open.spotify.com/artist/3xasg3zEnbW9CnFNT5VL59"
-        },
-        {
-          "name": "Stevedreez",
-          "url": "https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE"
-        },
-        {
-          "name": "SATICA",
-          "url": "https://open.spotify.com/artist/1cD70wZHi8HMyLYVDSV9We"
-        }
-      ],
-      "duration_ms": 184067,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/4WEsRq6qDqJdH7nAkmKevM"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Sunset Drive - A COLORS SHOW",
@@ -1655,22 +1663,6 @@
       "duration_ms": 193983,
       "name": "Sunset Drive - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6LAG03Nr7qRvPSdmrPC5JF"
-    },
-    {
-      "added_at": "2022-04-01 04:02:00",
-      "album": {
-        "name": "Matisyahu",
-        "url": "https://open.spotify.com/album/7iVH9bMchDIGwikPqVtgY5"
-      },
-      "artists": [
-        {
-          "name": "Matisyahu",
-          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
-        }
-      ],
-      "duration_ms": 243373,
-      "name": "Mama Please Don't Worry",
-      "url": "https://open.spotify.com/track/1uB095Io7q4aYT2BOhYjWA"
     },
     {
       "added_at": "2022-04-01 04:02:00",

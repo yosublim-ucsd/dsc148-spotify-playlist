@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Craig Morgan
 
-252 songs - 14 hr 51 min
+254 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Country Star](https://open.spotify.com/track/0ZesYm9KhuCthYX8No6eMs) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO) | [Country Star](https://open.spotify.com/album/3y792nYJ1zF9mjLEGDfUDc) | 3:05 | 2022-11-18 | 2023-05-15 |
 | [Country Star](https://open.spotify.com/track/4mUtEy26ZqNiquNBKgnF6C) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO), [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO) | [Country Star](https://open.spotify.com/album/66hwNPOLrvdIDsKZJZW0gD) | 3:05 | 2023-05-12 | 2023-05-23 |
 | [Country Star](https://open.spotify.com/track/6fOMZjniuCRrDelvQJWYB1) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO), [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO) | [Altitude](https://open.spotify.com/album/0eDuHfqHlQ7UviN6KiYyev) | 3:05 | 2023-05-19 |  |
-| [Cry Myself To Sleep](https://open.spotify.com/track/1yuQdcpI7ngCtwMYVdljVv) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Cry Myself To Sleep](https://open.spotify.com/album/44oSlwYfwOS3Cu0SFOQFd6) | 4:13 | 2023-09-29 |  |
+| [Cry Myself To Sleep](https://open.spotify.com/track/1yuQdcpI7ngCtwMYVdljVv) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Cry Myself To Sleep](https://open.spotify.com/album/44oSlwYfwOS3Cu0SFOQFd6) | 4:13 | 2023-09-29 | 2023-11-18 |
+| [Cry Myself To Sleep](https://open.spotify.com/track/5hQDxoENKpSa3qC0WYr3qG) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Cry Myself To Sleep](https://open.spotify.com/album/4ZgJVAmBnRJzb93mRERihX) | 4:13 | 2023-11-17 |  |
 | [Cut Through Me](https://open.spotify.com/track/2NEGAeWfyGuxJIsV5xxqDp) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj), [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [Barroom Mirrors EP](https://open.spotify.com/album/5fPloWNi1Mk2LAahhDwe88) | 3:59 | 2021-11-19 |  |
 | [Danny Boy](https://open.spotify.com/track/1yerpD0kYWDGojzzTY1bCY) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo), [Paul Franklin](https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA) | [Danny Boy](https://open.spotify.com/album/3esNIvoeWE2j3jy8TNjKJk) | 5:09 | 2023-06-30 |  |
 | [Dear Miss Loretta](https://open.spotify.com/track/1JwJuAwd0Tb0NlBgfDueXu) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [Dear Miss Loretta](https://open.spotify.com/album/6MDr4dODoUNDZMaqIBk4mn) | 3:40 | 2021-10-15 |  |
@@ -121,6 +122,7 @@
 | [I Found Another You \(& She Hates Me Too\)](https://open.spotify.com/track/3OjOvDWOs299i08qEvOanH) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [I Found Another You \(& She Hates Me Too\)](https://open.spotify.com/album/7FOwTnSqH3KAgmt6SYstvJ) | 3:30 | 2021-10-15 | 2022-09-21 |
 | [I Had to be Me](https://open.spotify.com/track/4lwTsFFN0sjWOuXWPO7byg) | [Ricochet](https://open.spotify.com/artist/2ice51RDLjtbzWE26dme4l) | [Then and Now](https://open.spotify.com/album/6Zm7MjUy4J6rv3Oy3ypmfF) | 3:03 | 2023-08-18 |  |
 | [I Like It When It's Stormy](https://open.spotify.com/track/0RGaAfyeo6VspXL6eK3l4l) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Rich White Honky Blues](https://open.spotify.com/album/38rR3FBk86jQHnEqmozisW) | 3:19 | 2022-06-17 |  |
+| [I Need You](https://open.spotify.com/track/2wXsYNHOjPzbjQUWOphOLs) | [The Frontmen](https://open.spotify.com/artist/4Hug0FD34btM73TKK5sM7e) | [Familiar Faces](https://open.spotify.com/album/1IJk3ueX658qXNVN0uLM1p) | 3:31 | 2023-11-17 |  |
 | [I Saw The Light](https://open.spotify.com/track/7gIu8tkCEcIdVoljpO849s) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [I Saw The Light](https://open.spotify.com/album/6xgWPrEIArT7J0WNJjJs8I) | 1:52 | 2021-11-12 | 2022-04-23 |
 | [I Tell It Like It Used to Be](https://open.spotify.com/track/5bIaDkp8NlTyYDuzROomMv) | [T\. Graham Brown](https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik) | [Bare Bones](https://open.spotify.com/album/0T2AE8uzds9x1msXA6Y6UE) | 3:14 | 2021-10-15 |  |
 | [I'd Take Another One of Those](https://open.spotify.com/track/4S80ssHGKWJmm5SR3EQFbJ) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo), [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [I'd Take Another One of Those](https://open.spotify.com/album/3UwtQR77UKz5BwyZwskvv0) | 3:32 | 2021-10-15 |  |

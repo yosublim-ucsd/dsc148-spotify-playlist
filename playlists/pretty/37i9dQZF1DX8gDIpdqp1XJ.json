@@ -1,13 +1,45 @@
 {
   "description": "The best of modern psychedelic rock,  neo-psychedelic, and psychedelic indie. ",
-  "num_followers": 880325,
+  "num_followers": 880295,
   "original_name": "Modern Psychedelia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODlmYTQ3YmFhMWZlNWRkZDIwYzRjNzc1MTc1ZGIyOGJkMDI0Mzll",
+  "snapshot_id": "MCw5YTRmYzE3NGZlNDhlY2QwNWIzZWMwY2QzZDFjMjVkZTMyOWQ4ZTE1",
   "tracks": [
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "We Can Go Anywhere From Here",
+        "url": "https://open.spotify.com/album/1ndEe4zbpgT4br8JgV6Az7"
+      },
+      "artists": [
+        {
+          "name": "sir Was",
+          "url": "https://open.spotify.com/artist/2pRRvc1D9seqK4txoe8laT"
+        }
+      ],
+      "duration_ms": 258906,
+      "name": "All I Have",
+      "url": "https://open.spotify.com/track/0vEcgIXyjgWCLTYiu01G3p"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "II (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1boMSpoKkFe901QZaU7Gb3"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 446733,
+      "name": "Two Generations of Excess",
+      "url": "https://open.spotify.com/track/3yNBnPv3JbGxGvTiIhndvx"
+    },
     {
       "added_at": "2023-11-10 05:01:00",
       "album": {
@@ -27,6 +59,38 @@
       "duration_ms": 180994,
       "name": "Average Guy (Blame)",
       "url": "https://open.spotify.com/track/1ZJaZDD8D9SqmBNAXehB6H"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Puppet",
+        "url": "https://open.spotify.com/album/68rJY7Zio90SZPpWJyLGfx"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 197431,
+      "name": "Puppet",
+      "url": "https://open.spotify.com/track/400F8qcb3vxxk7iqRhV1tr"
+    },
+    {
+      "added_at": "2023-10-21 16:39:26",
+      "album": {
+        "name": "Gong Song",
+        "url": "https://open.spotify.com/album/1d1xyzQiXuJQ3iv9MlzP12"
+      },
+      "artists": [
+        {
+          "name": "Dark Dazey",
+          "url": "https://open.spotify.com/artist/4hdbPv7t0amGbnuIMVcXja"
+        }
+      ],
+      "duration_ms": 347608,
+      "name": "Gong Song",
+      "url": "https://open.spotify.com/track/5JlIRHZiAxXR3cyhCOED47"
     },
     {
       "added_at": "2023-10-10 18:55:59",
@@ -77,20 +141,20 @@
       "url": "https://open.spotify.com/track/6k8jlEH1WssLwzXHfZGq3j"
     },
     {
-      "added_at": "2023-10-21 16:39:26",
+      "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Gong Song",
-        "url": "https://open.spotify.com/album/1d1xyzQiXuJQ3iv9MlzP12"
+        "name": "Tabadaboum",
+        "url": "https://open.spotify.com/album/0ajc0Cy1f3XqMxLojKZY1l"
       },
       "artists": [
         {
-          "name": "Dark Dazey",
-          "url": "https://open.spotify.com/artist/4hdbPv7t0amGbnuIMVcXja"
+          "name": "Japanese Television",
+          "url": "https://open.spotify.com/artist/5LLn18vxU1UTY1ypouVGNW"
         }
       ],
-      "duration_ms": 347608,
-      "name": "Gong Song",
-      "url": "https://open.spotify.com/track/5JlIRHZiAxXR3cyhCOED47"
+      "duration_ms": 212918,
+      "name": "Tabadaboum",
+      "url": "https://open.spotify.com/track/7qzj5s3D7Vo0FlEPqPOrD3"
     },
     {
       "added_at": "2023-11-10 05:01:00",
@@ -441,22 +505,6 @@
       "url": "https://open.spotify.com/track/6YX4n94sxXDJvy3ctGasAU"
     },
     {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
-        "name": "Depression Cherry",
-        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 320466,
-      "name": "Space Song",
-      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
-    },
-    {
       "added_at": "2023-10-21 16:39:26",
       "album": {
         "name": "Re: This Is Why",
@@ -607,70 +655,6 @@
       "duration_ms": 231133,
       "name": "Festive Day",
       "url": "https://open.spotify.com/track/4JLRH65PoifRK6wwunuOBh"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
-        "name": "Friendship EP",
-        "url": "https://open.spotify.com/album/3lKPrjciOT5snjX4nLOyit"
-      },
-      "artists": [
-        {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
-        }
-      ],
-      "duration_ms": 311282,
-      "name": "Rosemary Hemphill",
-      "url": "https://open.spotify.com/track/6Euq9b3bwdvMp4W8TQIQGw"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
-        "name": "Spirit Mission",
-        "url": "https://open.spotify.com/album/31t6VcIOZ3WqsSH2F9Zcy0"
-      },
-      "artists": [
-        {
-          "name": "Sure Sure",
-          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
-        }
-      ],
-      "duration_ms": 167066,
-      "name": "Lonely One",
-      "url": "https://open.spotify.com/track/7dW6aiHZG0A8xApW0Xg40G"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
-      },
-      "artists": [
-        {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
-        }
-      ],
-      "duration_ms": 206012,
-      "name": "Warning Sign",
-      "url": "https://open.spotify.com/track/3HpfHYxvRacvmEPFR9ovF7"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
-        "name": "INTO THE BLUE",
-        "url": "https://open.spotify.com/album/6DVw4rwufrFe0aItLxjNi0"
-      },
-      "artists": [
-        {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
-        }
-      ],
-      "duration_ms": 310840,
-      "name": "We're Not In Orbit Yet\u2026",
-      "url": "https://open.spotify.com/track/15byzavN7tdiwSTjirvyfh"
     },
     {
       "added_at": "2023-10-10 18:55:59",
@@ -899,54 +883,6 @@
     {
       "added_at": "2023-10-10 18:55:59",
       "album": {
-        "name": "Heaven Surrounds Us Like a Hood",
-        "url": "https://open.spotify.com/album/5t7N8dFT1XvMnDekrjfHkb"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Heaven Surrounds Us Like a Hood",
-      "url": "https://open.spotify.com/track/3nEGqUkkHyrDE9od2Uh2FM"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
-        "name": "Omnium Gatherum",
-        "url": "https://open.spotify.com/album/4tuqA7qbVsPukqsYPPrcF7"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Kepler-22b",
-      "url": "https://open.spotify.com/track/1d7amkMBfY5jwDaVYpWKUv"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
-        "name": "SYT",
-        "url": "https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "SYT",
-      "url": "https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
         "name": "Lucha",
         "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
       },
@@ -959,30 +895,6 @@
       "duration_ms": 262184,
       "name": "Nunca",
       "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
-        "name": "Gabo's Last Resort / Hyakutake",
-        "url": "https://open.spotify.com/album/2kIkz3jqtubvlQcnppphvV"
-      },
-      "artists": [
-        {
-          "name": "The South Hill Experiment",
-          "url": "https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX"
-        },
-        {
-          "name": "Baird",
-          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
-        },
-        {
-          "name": "Goldwash",
-          "url": "https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21"
-        }
-      ],
-      "duration_ms": 228825,
-      "name": "Gabo's Last Resort",
-      "url": "https://open.spotify.com/track/2kKwmioPqFwnNUFridIrIt"
     },
     {
       "added_at": "2023-10-10 18:55:59",
@@ -1036,7 +948,7 @@
       "added_at": "2023-10-10 18:55:59",
       "album": {
         "name": "Kimosab\u00e8",
-        "url": "https://open.spotify.com/album/3nZq3qWbHwdnTXZsk9DF5K"
+        "url": "https://open.spotify.com/album/3gMgItWPVNpinFuRp9NMgC"
       },
       "artists": [
         {
@@ -1046,7 +958,7 @@
       ],
       "duration_ms": 276317,
       "name": "Kimosab\u00e8",
-      "url": "https://open.spotify.com/track/06oSt0nOjewappkOBrsFME"
+      "url": "https://open.spotify.com/track/6ThLeHskGmgionXRoqGyYS"
     },
     {
       "added_at": "2023-10-10 18:55:59",
@@ -1111,38 +1023,6 @@
       "duration_ms": 207800,
       "name": "Always",
       "url": "https://open.spotify.com/track/5uHgKIUzqrpRt10p1crJma"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD"
-      },
-      "artists": [
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 277986,
-      "name": "Meshuggah",
-      "url": "https://open.spotify.com/track/7FpD6W73sZuEEp4dNRCwy9"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "added_at": "2023-10-10 18:55:59",
@@ -1243,38 +1123,6 @@
       "duration_ms": 98042,
       "name": "Gave U My Love",
       "url": "https://open.spotify.com/track/3Q4Pa5EybvFw8O5P3eVrMW"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
-        "name": "Low Lights and Throwback Tunes",
-        "url": "https://open.spotify.com/album/7gKrqg4cpCrDFhApfYmnXF"
-      },
-      "artists": [
-        {
-          "name": "common goldfish",
-          "url": "https://open.spotify.com/artist/6Mmv28h1DOKGQEPxJBqe8F"
-        }
-      ],
-      "duration_ms": 247949,
-      "name": "Low Lights and Throwback Tunes",
-      "url": "https://open.spotify.com/track/6p0uCWOGRJBm3Fh2g1gYzM"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
-        "name": "Exotico",
-        "url": "https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ"
-      },
-      "artists": [
-        {
-          "name": "Temples",
-          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/5XfG0OjDoHFAOOBtPcSmX8"
     },
     {
       "added_at": "2023-10-10 18:55:59",
@@ -1695,38 +1543,6 @@
       "duration_ms": 175190,
       "name": "Since August",
       "url": "https://open.spotify.com/track/3Xd1JtZaloVCfKqMTF5C1Y"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
-        "name": "We're Here, My Dear",
-        "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
-      },
-      "artists": [
-        {
-          "name": "Ging",
-          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
-        }
-      ],
-      "duration_ms": 196266,
-      "name": "Miracles",
-      "url": "https://open.spotify.com/track/5f9oC5j4H4gmZx7NqQVD2J"
-    },
-    {
-      "added_at": "2023-10-10 18:55:59",
-      "album": {
-        "name": "Music for the Future",
-        "url": "https://open.spotify.com/album/2ZujbhV7NkcCbJoDXgREJm"
-      },
-      "artists": [
-        {
-          "name": "LANNDS",
-          "url": "https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy"
-        }
-      ],
-      "duration_ms": 203380,
-      "name": "Vega",
-      "url": "https://open.spotify.com/track/7D1poocJhg7k7b0bSqmks6"
     },
     {
       "added_at": "2023-10-10 18:55:59",

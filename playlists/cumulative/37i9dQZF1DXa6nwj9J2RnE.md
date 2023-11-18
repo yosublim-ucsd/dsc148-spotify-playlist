@@ -2,9 +2,9 @@
 
 ### [karakter.](https://open.spotify.com/playlist/37i9dQZF1DXa6nwj9J2RnE)
 
-> edgy muziek met een rand uit eigen land\. cover: Chibi Ichigo, Sophie Straat
+> edgy muziek met een rand uit eigen land\. cover: NAVARONE COLE
 
-109 songs - 6 hr 3 min
+110 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Pelechian](https://open.spotify.com/track/2txPrKoY55bOdb7eO0dxVz) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Pelechian](https://open.spotify.com/album/4AlsQL5uhfmbH7uKQvZx4g) | 2:34 | 2023-02-23 |  |
 | [Same Room](https://open.spotify.com/track/50tVoG8Nxgm306HKSiwYZV) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [UI](https://open.spotify.com/album/27cG0rL8gIm1yQekB8ibjL) | 3:22 | 2023-02-23 |  |
 | [Scheef](https://open.spotify.com/track/2vMHhWv9bIS2IpVcwALlKZ) | [THYRZA](https://open.spotify.com/artist/6Y0fFuFrEgAyOD2eIMwUX5) | [Scheef](https://open.spotify.com/album/3KwnniiGH4XmOs5FQgIoSp) | 3:16 | 2023-05-25 |  |
+| [Scherpe Knuffels](https://open.spotify.com/track/6617xQW6elVgqDInCMI1wu) | [NAVARONE COLE](https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb) | [Scherpe Knuffels](https://open.spotify.com/album/0anx93DQrlfeKHUrghM61f) | 2:40 | 2023-11-17 |  |
 | [Seaside](https://open.spotify.com/track/7qNXY0nLhMoaNINklgqeWf) | [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Bae Doven No\. 1](https://open.spotify.com/album/6BMIKnnkgFymPqYSW9GxHH) | 2:50 | 2023-02-23 | 2023-06-09 |
 | [Sepia](https://open.spotify.com/track/4OnJJB3lwl1fnPGrDQlbzy) | [Chagall](https://open.spotify.com/artist/2C03b65xMyNtDDbyBnuPGH) | [Unlocked](https://open.spotify.com/album/3saGtz3MzM4dWtHT2t11uj) | 3:27 | 2023-09-22 |  |
 | [Shostakovich](https://open.spotify.com/track/347pgBmeEtrEiKrzXhmwJu) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [Shostakovich](https://open.spotify.com/album/5iQwFbzozKjzM2GMpMwJ43) | 3:37 | 2023-02-23 | 2023-05-26 |
@@ -89,7 +90,7 @@
 | [Something Somewhere](https://open.spotify.com/track/7dgpgC7gj4fArlHQ5UNVny) | [Luka](https://open.spotify.com/artist/3pBGsDYnC5jRuBro2o8wvv) | [Something Somewhere](https://open.spotify.com/album/1Tq9NiZNrYWRE9j2GwQn2f) | 3:34 | 2023-02-23 | 2023-08-13 |
 | [Startschot](https://open.spotify.com/track/5TYnWTit6kBSCJ3AfFZtJv) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Startschot](https://open.spotify.com/album/4pyUTzR03zB3F8cVmThH4H) | 3:59 | 2023-02-23 | 2023-09-01 |
 | [Staying](https://open.spotify.com/track/4CKdLLyc4cu5oKFuflIX6b) | [Opera Alaska](https://open.spotify.com/artist/26FEbVE7yfOSAEymfCkiPx) | [Staying](https://open.spotify.com/album/4bgpK9yRrpcB2NGO7CDRav) | 3:19 | 2023-02-23 | 2023-04-01 |
-| [Step by Step](https://open.spotify.com/track/6VqudE83bSLJyorHfESAEw) | [EUT](https://open.spotify.com/artist/41doMenKZkgW8DUwH3WwV5) | [Step by Step](https://open.spotify.com/album/3H3mpuzo9kD19lsgg7MfBV) | 4:07 | 2023-02-23 |  |
+| [Step by Step](https://open.spotify.com/track/6VqudE83bSLJyorHfESAEw) | [EUT](https://open.spotify.com/artist/41doMenKZkgW8DUwH3WwV5) | [Step by Step](https://open.spotify.com/album/3H3mpuzo9kD19lsgg7MfBV) | 4:07 | 2023-02-23 | 2023-11-18 |
 | [Sterrenlopen \(met S10\)](https://open.spotify.com/track/7yrvzTfOAxtB4UkUnizn1X) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Sterrenlopen \(met S10\)](https://open.spotify.com/album/2r3iyljpsMTEOMmTVdVJYJ) | 4:02 | 2023-09-22 |  |
 | [Stormy Weather](https://open.spotify.com/track/4KNEcjjLAk3cuIlYAtpODF) | [Wytiki](https://open.spotify.com/artist/0mzWYuMGJz6vrtg78cP7O4) | [U](https://open.spotify.com/album/60WgNanjZ9t0usk1svK47C) | 3:44 | 2023-02-23 | 2023-06-24 |
 | [Suicide Club](https://open.spotify.com/track/0pnED1pCTIMwyyeAEoux2g) | [GIAN](https://open.spotify.com/artist/5T9IzVTXZRCWuaEZzInXP3), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [Suicide Club](https://open.spotify.com/album/1NiAQnXZVBbldqwJDv5GAe) | 3:00 | 2023-02-23 | 2023-05-26 |

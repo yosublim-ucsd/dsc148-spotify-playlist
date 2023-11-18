@@ -4,7 +4,7 @@
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-133 songs - 9 hr 48 min
+134 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Beast of Burden](https://open.spotify.com/track/5kZjNerLpU6LeMvKmeV5qJ) | [The Holmes Brothers](https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/3jMa523WmWFQLsHBZlzkvg) | 4:50 | 2022-10-14 | 2022-11-13 |
 | [Beast of Burden](https://open.spotify.com/track/6G0E34D8C9wb777W4QHZfv) | [The Holmes Brothers](https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/1zHWMhbLzLP2mjQnuqJnqL) | 4:50 | 2022-06-24 | 2022-07-29 |
 | [Bleeding Heart](https://open.spotify.com/track/5QytK3mFNMckdsgVdCv5Lf) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 3:58 | 2022-07-29 |  |
-| [Blues In The Night](https://open.spotify.com/track/50y2NVBilJvswKuQn5qe5x) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Piece By Piece](https://open.spotify.com/album/39LGwjgf2oV1BlCPsuLp4S) | 4:12 | 2022-06-24 |  |
+| [Blues In The Night](https://open.spotify.com/track/1IcHVgTHH8ec7oU02RLa5A) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Piece by Piece](https://open.spotify.com/album/6IuXcCOQ3GyLxWmxAvmlXG) | 4:12 | 2023-11-17 |  |
+| [Blues In The Night](https://open.spotify.com/track/50y2NVBilJvswKuQn5qe5x) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Piece By Piece](https://open.spotify.com/album/39LGwjgf2oV1BlCPsuLp4S) | 4:12 | 2022-06-24 | 2023-11-18 |
 | [Boom Boom](https://open.spotify.com/track/308np2jHp2Z0GmKa1V4f2P) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Bad Mouthin'](https://open.spotify.com/album/3ZChLxUW5NBs5h4c49OMUF) | 4:22 | 2023-04-06 |  |
 | [Boom Boom](https://open.spotify.com/track/5GfniMxaYSGBCPrK71SL0Y) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Bad Mouthin'](https://open.spotify.com/album/1BDyQ67N0PjyWDF3yVjEoQ) | 4:22 | 2022-07-08 | 2023-04-30 |
 | [Born Under A Bad Sign](https://open.spotify.com/track/2uxsnsH0XzOBZkMrSFVmll) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 3:09 | 2022-06-24 |  |

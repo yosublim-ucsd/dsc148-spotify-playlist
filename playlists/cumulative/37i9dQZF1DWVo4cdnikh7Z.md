@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Leo
 
-984 songs - 2 day 12 hr 26 min
+985 songs - 2 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,6 +487,7 @@
 | [Mathew Theme \(From "Jailer"\)](https://open.spotify.com/track/1DfpYz98hG74VoH8ROcvw2) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mathew Theme \(From "Jailer"\)](https://open.spotify.com/album/6GD2CMMyn07ALf3tguGZZF) | 2:09 | 2023-09-08 |  |
 | [Maya Maya \- From "Irugapatru"](https://open.spotify.com/track/1vCC254ncBXdZ4uWNliw5s) | [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr), [Karthik Netha](https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55), [Christopher Stanley](https://open.spotify.com/artist/21U7OdOREja3hRaxem7U4X), [Padmapriya Raghavan](https://open.spotify.com/artist/2E5sS9FjfJBCgckaoajQSm) | [Maya Maya \(From "Irugapatru"\)](https://open.spotify.com/album/2qMgNFmDq9AnqS4gOFuCFX) | 4:10 | 2023-10-03 | 2023-11-17 |
 | [Mayakirriye](https://open.spotify.com/track/5Xm4pHOZjks21F81pIdAba) | [Anivee](https://open.spotify.com/artist/4geIqmrfQoa4HDIF68vgiy), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mayakirriye](https://open.spotify.com/album/5do7NqMxzn5MD3HWYdjDGy) | 3:09 | 2022-02-10 | 2022-07-24 |
+| [Mayakitta Mayakitta \(From "Guardian"\)](https://open.spotify.com/track/24cZZLqJa8rFybSTlSAaWx) | [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a), [Sam CS](https://open.spotify.com/artist/2Ktds0sOwPd0hq4kgquAda) | [Mayakitta Mayakitta \(From "Guardian"\)](https://open.spotify.com/album/5qn8bhmB5eMRMgiyEpLVjP) | 3:35 | 2023-11-17 |  |
 | [Mayakkama Kalakkama \(From "Thiruchitrambalam"\)](https://open.spotify.com/track/2kOH2QZB7F7I1iVXqwKuBF) | [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Mayakkama Kalakkama \(From "Thiruchitrambalam"\)](https://open.spotify.com/album/30uPDcAcvwpfMV36F2BE2X) | 2:22 | 2022-08-27 | 2023-02-21 |
 | [Mayakkum Pozhudhe \(From "Shaakuntalam"\) \[Tamil\]](https://open.spotify.com/track/1nk3YBIdTf6sNTBSHbnIPB) | [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Mayakkum Pozhudhe \(From "Shaakuntalam"\) \[Tamil\] \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2THFGyjihK3DW3rrC0R7hu) | 5:29 | 2023-02-15 | 2023-02-21 |
 | [Mayasena \(From "OH MY GHOST"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/42NE4jLCkDBBMaNHho996Z) | [Javed Riaz](https://open.spotify.com/artist/6gBk6dlLqEGNtU0gMh9WrS), [Maria Roe Vincent](https://open.spotify.com/artist/3KrlaLub4zgw8yNCLJq4nC) | [Mayasena \(From "OH MY GHOST"\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4m8vuPUEySHVF0OifbA08L) | 3:47 | 2022-11-02 | 2022-11-10 |

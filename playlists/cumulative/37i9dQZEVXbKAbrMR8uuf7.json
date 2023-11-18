@@ -2764,7 +2764,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 134565,
       "name": "Boy Boy",
       "url": "https://open.spotify.com/track/1eK3kCQnzPvNgvDRy5QP1B"
@@ -3418,6 +3418,28 @@
       "duration_ms": 336511,
       "name": "Champagne Poetry",
       "url": "https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk"
+    },
+    {
+      "album": {
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/6IPSnKh21CZDtRnUbBwvwr"
+      },
+      "artists": [
+        {
+          "name": "Chris Jonex",
+          "url": "https://open.spotify.com/artist/3tLXPx5dsnZtsodGSf6t8E"
+        },
+        {
+          "name": "Eme Santana",
+          "url": "https://open.spotify.com/artist/5nDA5BYRYBo92lTzCECLhA"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122164,
+      "name": "Chanel (feat. Eme Santana)",
+      "url": "https://open.spotify.com/track/5B0vGlnXGZH53v8W3RZavf"
     },
     {
       "album": {
@@ -8218,7 +8240,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 177450,
       "name": "GRACIAS POR NADA",
       "url": "https://open.spotify.com/track/1U3A66OHQyTu4N2QTMsP86"
@@ -9750,7 +9772,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 161333,
       "name": "La Baby",
       "url": "https://open.spotify.com/track/460Zx6PCNYFHaA1A9rjiNL"

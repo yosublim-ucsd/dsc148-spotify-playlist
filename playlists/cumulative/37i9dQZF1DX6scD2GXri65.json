@@ -998,7 +998,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 153238,
       "name": "Fight",
       "url": "https://open.spotify.com/track/5LR8IpevPBJKSyR5D8kqKu"
@@ -1200,7 +1200,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 204000,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/7IsoFYGFt3Ac4snG5iSJnT"
@@ -1834,6 +1834,24 @@
       "duration_ms": 167991,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/2n4ddu9TEIPoL3IQP88uk6"
+    },
+    {
+      "album": {
+        "name": "Let's Go Insane (Into The Madness 2023 OST)",
+        "url": "https://open.spotify.com/album/4CXFQdtkKxov3rjvmDsML2"
+      },
+      "artists": [
+        {
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215688,
+      "name": "Let's Go Insane (Into The Madness 2023 OST)",
+      "url": "https://open.spotify.com/track/321NLHCw7fk329HwnpDw9S"
     },
     {
       "album": {
@@ -2792,6 +2810,28 @@
       "duration_ms": 130964,
       "name": "The Get Back",
       "url": "https://open.spotify.com/track/22wegVv3MYQOu4WgVbhaXp"
+    },
+    {
+      "album": {
+        "name": "The Hoover",
+        "url": "https://open.spotify.com/album/5jsHwT2aE5EhLyz69txG1R"
+      },
+      "artists": [
+        {
+          "name": "Zatox",
+          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
+        },
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "The Hoover",
+      "url": "https://open.spotify.com/track/0QssNmq5FzUv2GMBmeEcX1"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Pigtail buns, chokers, knee socks, tumblr, and chunky platforms. Cover: Melanie Martinez\n",
+  "description": "Pigtail buns, chokers, knee socks, tumblr, and chunky platforms. Cover: Mars Argo\n",
   "name": "reblog",
   "tracks": [
     {
@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 245172,
       "name": "idfc",
       "url": "https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr"
@@ -3138,6 +3138,24 @@
       "duration_ms": 235546,
       "name": "Under Cover of Darkness",
       "url": "https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c"
+    },
+    {
+      "album": {
+        "name": "Using You",
+        "url": "https://open.spotify.com/album/7B2LAN3VRvXFBX8EgSotfo"
+      },
+      "artists": [
+        {
+          "name": "Mars Argo",
+          "url": "https://open.spotify.com/artist/3WFBuQFguwRNZcPyQrtBEU"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208372,
+      "name": "Using You",
+      "url": "https://open.spotify.com/track/11jVnpAewcZnIdLsq0BKJF"
     },
     {
       "album": {

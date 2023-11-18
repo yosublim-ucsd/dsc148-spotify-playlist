@@ -4,7 +4,7 @@
 
 > Get ready to twist and shout \- this is the ultimate Beatles party playlist.
 
-113 songs - 5 hr 3 min
+115 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,9 +65,10 @@
 | [It Won't Be Long \- Remastered](https://open.spotify.com/track/5tNjuWwp6FxuWCrKQAMBTj) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/3nkEsxmIX0zRNXGAexaHAn) | 2:13 | 2019-09-26 | 2022-07-29 |
 | [It Won't Be Long \- Remastered 2009](https://open.spotify.com/track/32UOFQDPgwbr99zRucNUMw) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \- Got To Get You Into My Life](https://open.spotify.com/album/3G8kDddmwz7Fs1WEOaRXzJ) | 2:13 | 2019-09-26 | 2022-11-13 |
 | [It Won't Be Long \- Remastered 2009](https://open.spotify.com/track/4ekUX4pWizXXksJe0JfS9U) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 2:13 | 2019-09-26 |  |
+| [Lady Madonna \- 2015 Mix](https://open.spotify.com/track/4oxfJlsIxYqG4jzcs1R8df) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 – 1970 \(2023 Edition\)](https://open.spotify.com/album/2AlPRfYeskAMxhJS00xjeP) | 2:18 | 2019-09-26 |  |
 | [Lady Madonna \- Remastered](https://open.spotify.com/track/76R0f6toUxGZBX6GPXWPch) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 \- 1970 \(Remastered\)](https://open.spotify.com/album/5UtlwR5GMEM3XrF8GdzMmB) | 2:18 | 2019-09-26 | 2022-07-29 |
 | [Lady Madonna \- Remastered 2009](https://open.spotify.com/track/1tM9TBNPjieSOZ2d5VAQ1y) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Past Masters \(Vols\. 1 & 2 / Remastered\)](https://open.spotify.com/album/3GmCXW10kLxmZrEY0JpRlw) | 2:17 | 2019-09-26 | 2022-11-13 |
-| [Lady Madonna \- Remastered 2009](https://open.spotify.com/track/1fSHw7Gt4ha9kJew9a0a55) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 \- 1970 \(Remastered\)](https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs) | 2:18 | 2019-09-26 |  |
+| [Lady Madonna \- Remastered 2009](https://open.spotify.com/track/1fSHw7Gt4ha9kJew9a0a55) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 \- 1970 \(Remastered\)](https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs) | 2:18 | 2019-09-26 | 2023-11-18 |
 | [Lady Madonna \- Remastered 2015](https://open.spotify.com/track/1raiIrqaqRAqZmQWZlLuBd) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:16 | 2019-09-26 | 2023-07-01 |
 | [Love Me Do \- Mono Version / Remastered 2009](https://open.spotify.com/track/0h7N5rOgTT1rSwLoj9f3Bk) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 \- 1966 \(Remastered\)](https://open.spotify.com/album/6126O4XLYAfzU3961ziahP) | 2:22 | 2019-09-26 | 2022-11-13 |
 | [Love Me Do \- Remastered](https://open.spotify.com/track/2OLMjGIhCNI6j34ysPscbp) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/7gDXyW16byCQOgK965BRzn) | 2:21 | 2019-09-26 | 2022-07-29 |
@@ -104,8 +105,9 @@
 | [She Loves You \- Remastered 2009](https://open.spotify.com/track/48JM82SHQTBYkhEYhMaOaa) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Past Masters \(Vols\. 1 & 2 / Remastered\)](https://open.spotify.com/album/3GmCXW10kLxmZrEY0JpRlw) | 2:21 | 2019-09-26 | 2022-11-13 |
 | [Taxman \- Remastered](https://open.spotify.com/track/37ySfQ411eeAGzzjd6zsrT) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/0PYyrqs9NXtxPhf0CZkq2L) | 2:38 | 2019-09-26 | 2022-07-29 |
 | [Taxman \- Remastered 2009](https://open.spotify.com/track/4BRkPBUxOYffM2QXVlq7aC) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 2:38 | 2019-09-26 |  |
+| [The Ballad Of John And Yoko \- 2015 Mix](https://open.spotify.com/track/5L3DSr5sb363knSKbGyQ7V) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 – 1970 \(2023 Edition\)](https://open.spotify.com/album/2AlPRfYeskAMxhJS00xjeP) | 3:00 | 2019-09-26 |  |
 | [The Ballad Of John And Yoko \- Remastered](https://open.spotify.com/track/6GPYPZoVMxEF98It49rq46) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 \- 1970 \(Remastered\)](https://open.spotify.com/album/5UtlwR5GMEM3XrF8GdzMmB) | 3:01 | 2019-09-26 | 2022-07-29 |
-| [The Ballad Of John And Yoko \- Remastered 2009](https://open.spotify.com/track/0iwo02NoGqyooxs81iEkz3) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 \- 1970 \(Remastered\)](https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs) | 3:01 | 2019-09-26 |  |
+| [The Ballad Of John And Yoko \- Remastered 2009](https://open.spotify.com/track/0iwo02NoGqyooxs81iEkz3) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 \- 1970 \(Remastered\)](https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs) | 3:01 | 2019-09-26 | 2023-11-18 |
 | [The Ballad Of John And Yoko \- Remastered 2015](https://open.spotify.com/track/1F7s27lLKshLPt9TPCgMDL) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 2:59 | 2019-09-26 | 2023-07-01 |
 | [Ticket To Ride \- Remastered](https://open.spotify.com/track/2zO5cQdHLBOPlnQqWeNCFM) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/19K3IHYeVkUTjcBHGfbCOi) | 3:09 | 2019-09-26 | 2022-07-29 |
 | [Ticket To Ride \- Remastered 2009](https://open.spotify.com/track/7CZiDzGVjUssMSOXrDNYHL) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 3:09 | 2019-09-26 |  |

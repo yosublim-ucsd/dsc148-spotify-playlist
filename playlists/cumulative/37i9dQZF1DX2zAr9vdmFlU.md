@@ -4,7 +4,7 @@
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-239 songs - 15 hr 8 min
+240 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Caliente](https://open.spotify.com/track/5sTSeo2f3Rjo7eMV1AdlEM) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [The Soul Rebels](https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN) | [Caliente](https://open.spotify.com/album/1tWaj0v0w6h9M9PRmh8BQe) | 4:54 | 2021-12-09 | 2022-10-14 |
 | [Caminando por Quisqueya](https://open.spotify.com/track/2avb4jaEXShHqfAF3yuKhX) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou) | [Caminando por Quisqueya](https://open.spotify.com/album/1z6vx39dIoXCScxQ8c6xn4) | 6:00 | 2023-04-14 |  |
 | [Canta Mundo](https://open.spotify.com/track/4KKu46t4zWtQPcM7NHzCvr) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Orquesta Sinfónica de Caldas](https://open.spotify.com/artist/387J8CNFZB9AJ0feSx7PB0) | [Canta Mundo](https://open.spotify.com/album/24HC9D5W71Twk747rBx4Pl) | 3:51 | 2021-12-09 | 2023-05-27 |
+| [CANTO A LA VIDA](https://open.spotify.com/track/3QBF5mHQJbs8Z2ByPHWn7y) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [CANTO A LA VIDA](https://open.spotify.com/album/78SK9hrSR8KZ9Gi6cvq27n) | 3:25 | 2023-11-17 |  |
 | [Carmesí](https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:01 | 2021-12-09 |  |
 | [Carnaval](https://open.spotify.com/track/2IuXKFaWQhwhYAScCOclkV) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:02 | 2021-12-09 | 2023-03-08 |
 | [Cartagena](https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71) | [Rafael Pondé](https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc), [Melo Gía](https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU) | [Cartagena](https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9) | 3:41 | 2021-12-09 |  |
@@ -186,7 +187,7 @@
 | [Represent](https://open.spotify.com/track/19J9QEDo6N6dVGfzWUz5LZ) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT) | [A Lo Cubano](https://open.spotify.com/album/0ZHx4gXoe1FquHnBZpNTKv) | 3:46 | 2022-01-01 | 2023-03-08 |
 | [Represent](https://open.spotify.com/track/6t7JcobrG8uPND06S7ZJ0n) | [Orishas](https://open.spotify.com/artist/2gKYxTUOqw9aPt7ljMwSHT), [Heather Headley](https://open.spotify.com/artist/2xDc4cU0Rj6YG8SrmAHIy0) | [Antidiotico](https://open.spotify.com/album/1enM4REsQap738QI86Qxbj) | 3:41 | 2022-01-01 | 2022-07-23 |
 | [Represent](https://open.spotify.com/track/6c1yoGbc74ea2vvjosjXYL) | [Ruzzo MC](https://open.spotify.com/artist/7tw4KqdyM5No5CMMNxKThP) | [A Lo Cubano](https://open.spotify.com/album/6sXdk6ER04z1G0ek4pfKNw) | 3:46 | 2022-01-01 | 2022-09-02 |
-| [Rosalie \(Español\)](https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Rosalie \(Español\)](https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk) | 4:18 | 2021-12-09 |  |
+| [Rosalie \(Español\)](https://open.spotify.com/track/40Kms8jOb2c1fFcCWEoc9O) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Rosalie \(Español\)](https://open.spotify.com/album/67GSrPEYXBDbUL3QJB5eVk) | 4:18 | 2021-12-09 | 2023-11-18 |
 | [Rumbera](https://open.spotify.com/track/6UcB9gMHjY5VMGejDCe6k7) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [Rumbo a Tierra](https://open.spotify.com/album/69Ir7r4C79cTgSTBptkF54) | 3:32 | 2022-01-01 | 2022-07-29 |
 | [Sabor a Mi](https://open.spotify.com/track/4QPjGYaXenaoyE6cfHyWLh) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hecho a Mano](https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn) | 3:15 | 2022-01-01 | 2023-04-29 |
 | [Sabor a Mi](https://open.spotify.com/track/6Ghqj5i94yxy3uSAnpQljL) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hecho a Mano](https://open.spotify.com/album/0HLPr4c2d1vlhIA3yOZqtS) | 3:17 | 2021-12-09 | 2022-07-29 |

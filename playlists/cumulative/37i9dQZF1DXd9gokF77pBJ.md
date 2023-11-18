@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO's </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-185 songs - 16 hr 50 min
+186 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,8 @@
 | [Out Of Body Gateway](https://open.spotify.com/track/2BCotepfm3cMkxU6LRhyso) | [C\-thru](https://open.spotify.com/artist/7hTzoVmJRzcrb5LZEOA0US) | [The Otherworld](https://open.spotify.com/album/0cWQ2FncvZfFoLqp1gs5Ee) | 4:00 | 2023-08-08 |  |
 | [Out Of Your Mind](https://open.spotify.com/track/3suvcz9w8uyGZL8D7V2V45) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Chez Moi \(Waiting For You\)](https://open.spotify.com/album/5HwZIHl2vkaEGzuvNorz84) | 5:24 | 2023-08-08 |  |
 | [Outstanding \- Original 12" Mix](https://open.spotify.com/track/6korvxtUEyt590jUFOfADm) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The 12" Collection And More \(Funk Essentials\)](https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH) | 6:15 | 2023-08-08 |  |
-| [Padam Padam \- HAAi Remix](https://open.spotify.com/track/1ZWoNoCNSZjxpEj7pYHkAo) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Padam Padam \(HAAi Remix\)](https://open.spotify.com/album/7FMt7Ip2v9QKjNchUx1zFI) | 6:32 | 2023-08-08 |  |
+| [Padam Padam \(HAAi Remix\)](https://open.spotify.com/track/0hnYC81Psn8poERBlfkIFv) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Padam Padam \(HAAi Remix\)](https://open.spotify.com/album/1R0FX77T9YmpsHgKsMg2wA) | 6:32 | 2023-08-08 |  |
+| [Padam Padam \- HAAi Remix](https://open.spotify.com/track/1ZWoNoCNSZjxpEj7pYHkAo) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Padam Padam \(HAAi Remix\)](https://open.spotify.com/album/7FMt7Ip2v9QKjNchUx1zFI) | 6:32 | 2023-08-08 | 2023-11-18 |
 | [Paradise Island \- Original](https://open.spotify.com/track/6UTSeHhAQ8J2uQ7h2dqHP7) | [Azwon](https://open.spotify.com/artist/7bq3R6McfVToDTinPJWOqd) | [Paradise Island](https://open.spotify.com/album/4zakgzZMRJKaJ58awLRjq4) | 5:21 | 2023-01-20 | 2023-08-09 |
 | [Peace of Mind](https://open.spotify.com/track/01B8c1fCg84OAGjy3DyTd1) | [Benedek](https://open.spotify.com/artist/0VGUa1xtVL7g1srvyzbY7t), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [Zebrano](https://open.spotify.com/album/2K7g3LpcZKPDusWTsZ1bgd) | 5:36 | 2023-01-20 | 2023-08-09 |
 | [Perfect Place \- Robert PM Edit](https://open.spotify.com/track/3jNwGUVCZ9i5VyNWRWHkDj) | [I.M YONI](https://open.spotify.com/artist/2gyrcmT4DLH5zqWBW4bKRn), [Yasmin](https://open.spotify.com/artist/5KEjVMaEdZ1tHgaAIkZCVp), [Robert PM](https://open.spotify.com/artist/2uOpXWYPeZHSYcjF89USyl) | [Perfect Place \(Robert PM Edit\)](https://open.spotify.com/album/3nmps7XSAhG3bxXyOs87Ub) | 5:07 | 2023-08-08 |  |

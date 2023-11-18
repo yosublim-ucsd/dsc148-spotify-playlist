@@ -4,7 +4,7 @@
 
 > \~ have a lovely time \~
 
-328 songs - 19 hr 10 min
+329 songs - 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Breathe & Release](https://open.spotify.com/track/4odvdQFnzAyQN6yv3h3Iln) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [Maybe I Can Sleep It Off](https://open.spotify.com/album/1xHN79baVsHPcgDNsZwssY) | 3:35 | 2022-04-05 | 2022-07-23 |
 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 | 2022-07-29 |  |
 | [Build Me Up Buttercup](https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Foundations](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) | 2:57 | 2022-07-29 | 2023-11-11 |
+| [Build Me Up Buttercup \(Mono\)](https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Baby Now That I've Found You](https://open.spotify.com/album/7LFpclH3t4SnxqZpbjvSwE) | 3:00 | 2023-08-24 |  |
 | [Burning](https://open.spotify.com/track/68vxG1i6RSmrsY9mRdqDgG) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:33 | 2022-04-05 | 2022-07-29 |
 | [Butterflies](https://open.spotify.com/track/3aufVGeeYQHSq5coMrYFEd) | [Aodhan](https://open.spotify.com/artist/3rlMJg2MzNFDMUoupg8EPB) | [Butterflies](https://open.spotify.com/album/4uHW0jJ8QehbccNuNjWw9I) | 2:55 | 2022-04-05 | 2022-07-29 |
 | [Can We Work It Out](https://open.spotify.com/track/0Q83PFVwoteoQflGw6WqBe) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Reservoir](https://open.spotify.com/album/0yxPUwwYPzyFgk7eQVLId8) | 4:11 | 2022-06-24 | 2022-07-21 |
@@ -266,7 +267,7 @@
 | [Slow Mover](https://open.spotify.com/track/4ZCOBG4TjklRxvA1lCdkhD) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Salt](https://open.spotify.com/album/1Vf4te9cU9xMI0NEHdZIau) | 3:10 | 2022-04-05 | 2022-07-29 |
 | [Smile](https://open.spotify.com/track/4faiTk0Vx86PcE5TJ3sQnz) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Apple Crumble](https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr) | 3:23 | 2022-04-05 | 2022-07-28 |
 | [Smoke of a Train](https://open.spotify.com/track/0XnokfUryAsBsDfoa3Y43R) | [RHNO](https://open.spotify.com/artist/1yxH3wYLS0kwcpgxLhWWXX) | [Smoke of a Train](https://open.spotify.com/album/6BDy46zC0jVwXJuMbyOHaX) | 3:40 | 2022-04-05 | 2022-07-29 |
-| [So Good At Being in Trouble](https://open.spotify.com/track/2lwi35A2ym3FAmSlvOGnQp) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19) | 3:50 | 2022-07-29 |  |
+| [So Good At Being in Trouble](https://open.spotify.com/track/2lwi35A2ym3FAmSlvOGnQp) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19) | 3:50 | 2022-07-29 | 2023-11-18 |
 | [Soft Spot](https://open.spotify.com/track/6kyxHSJZBPSihkK3YwbVXg) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Soft Spot](https://open.spotify.com/album/7mf5SwQGjqFoxg02oHryFh) | 3:08 | 2022-04-05 | 2022-07-29 |
 | [Someday \- triple j Like A Version](https://open.spotify.com/track/0XLZKzPZpUeRLqpkLUTOYM) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Someday \(triple j Like A Version\)](https://open.spotify.com/album/45AQAnYBqzqq585CbYW6VS) | 4:24 | 2022-04-05 | 2022-07-29 |
 | [Something You Like](https://open.spotify.com/track/0pcfBKS5NTjakHjwejtftq) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Something You Like](https://open.spotify.com/album/7HKOZnt0ZEtj384ccU3XI2) | 3:33 | 2022-04-05 | 2022-07-29 |

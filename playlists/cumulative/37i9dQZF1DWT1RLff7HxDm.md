@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Christone "Kingfish" Ingram
 
-146 songs - 14 hr 49 min
+147 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Mr Luck \(feat\. Mick Taylor\) \- Live](https://open.spotify.com/track/7hw6k9MIBGAQVMPHh5UINK) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK), [The Ronnie Wood Band](https://open.spotify.com/artist/7MYOqtcBbGTJxLk7fQiVmE), [Mick Taylor](https://open.spotify.com/artist/6ZPpBAJedSOL5r7e4t3WMY) | [Mr\. Luck \- A Tribute to Jimmy Reed: Live at the Royal Albert Hall](https://open.spotify.com/album/0hLt4q6SOy5PEBsmwWOltW) | 7:06 | 2021-09-17 | 2023-11-03 |
 | [New Used Car](https://open.spotify.com/track/7fVCVM1DIUHpnRiDm2fKvP) | [Sue Foley](https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS) | [New Used Car](https://open.spotify.com/album/6UA7yjMQHFu7yw3RmEOkI8) | 3:47 | 2023-09-08 |  |
 | [Night Train \- Live](https://open.spotify.com/track/3FDFofxSBPv1hzSZdKvAuh) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Songs from the Road](https://open.spotify.com/album/59Z7Qnuk07Q0zWgV8RrvAo) | 4:58 | 2020-10-30 |  |
+| [No Good Woman \- Live](https://open.spotify.com/track/2aCnOIxkx3zcZzdCQUjyd8) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD) | [Blood Brothers: Live in Canada](https://open.spotify.com/album/7n3CH6Tm2VeHkXSaL6TY6A) | 5:18 | 2023-11-17 |  |
 | [No One Left To Blame \(Dangerous Game\)](https://open.spotify.com/track/2sthMcGvt0sLw7sImcEPVL) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [No One Left To Blame \(Dangerous Game\)](https://open.spotify.com/album/7draBVSdExn7m8osrjm1q9) | 4:41 | 2023-09-08 |  |
 | [No Time For Cryin' \- Live](https://open.spotify.com/track/656eVNjToos4nqR0ZzUyUB) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [No Time For Cryin'](https://open.spotify.com/album/4WbqBP0zeGsnfSm3FEDvNw) | 5:22 | 2020-10-30 | 2022-07-29 |
 | [No Time For Cryin' \- Live](https://open.spotify.com/track/7ICAeoqGimtKtsO8uAzHD0) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Live in London](https://open.spotify.com/album/4BfLqEBgeWe4JTrUQ0O2mX) | 5:22 | 2020-10-30 |  |

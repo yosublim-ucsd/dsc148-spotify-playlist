@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,029 songs - 2 day 8 hr 1 min
+1,030 songs - 2 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,7 +388,7 @@
 | [Highway Freedom](https://open.spotify.com/track/3OyKSA6gU1Il2uOvCXU5IK) | [Late Replies](https://open.spotify.com/artist/7vPxzjHbAgoHhiNXORDgf7) | [Highway Freedom EP](https://open.spotify.com/album/4xT3vXGr92An3Ua3WdwfWh) | 3:15 | 2021-04-10 | 2021-07-17 |
 | [Hit List](https://open.spotify.com/track/1dQtt3K8GyPmH7ZD1LJ2ox) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Hit List](https://open.spotify.com/album/2HFagfqzSWiinz9jqcj4Q2) | 2:46 | 2021-01-05 | 2021-07-24 |
 | [Hold Me Closer \- Joel Corry Remix](https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hold Me Closer \(Joel Corry Remix\)](https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa) | 4:08 | 2022-12-02 |  |
-| [Hold On To Now](https://open.spotify.com/track/4sB1OmmCi2Iwe9MaVlUubR) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/3StjwfadugiV10gNhLDu29) | 3:57 | 2023-09-22 |  |
+| [Hold On To Now](https://open.spotify.com/track/4sB1OmmCi2Iwe9MaVlUubR) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/3StjwfadugiV10gNhLDu29) | 3:57 | 2023-09-22 | 2023-11-18 |
 | [Hold Up](https://open.spotify.com/track/5KGn7C4GflN0EFMNqDmUY9) | [Late Replies](https://open.spotify.com/artist/7vPxzjHbAgoHhiNXORDgf7) | [Hold Up](https://open.spotify.com/album/6aebvC7BtTJtJ1qsNgzaYZ) | 3:48 | 2021-01-05 | 2021-08-07 |
 | [Home Sweet Home \(feat\. ALMA & Digital Farm Animals\)](https://open.spotify.com/track/3vIPdMmbsye0YMhXy4GeXt) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [Home Sweet Home \(feat\. ALMA & Digital Farm Animals\)](https://open.spotify.com/album/4JMUcayU11ORfD6m7nt5kk) | 2:57 | 2020-11-27 | 2021-09-11 |
 | [Hometown Heroes](https://open.spotify.com/track/7cGuwTGKFrWIvvXbJ84SCL) | [Danny Avila](https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH) | [Hometown Heroes](https://open.spotify.com/album/4iMi6VNQ8AFfYVbKIRN7eY) | 3:10 | 2021-03-11 | 2021-07-24 |
@@ -672,6 +672,7 @@
 | [Pump It Up](https://open.spotify.com/track/3tFz7n9OKBDMvrQmqE0oMR) | [Danko](https://open.spotify.com/artist/60sVnCJWU7WHTMSzK0HzPW) | [Pump It Up](https://open.spotify.com/album/2ttfC47P8tqCeHbge1rcag) | 2:52 | 2020-09-21\* | 2021-01-23 |
 | [Pump Pump](https://open.spotify.com/track/2XZ2MGJeyAeUVoDg4U2bMO) | [Clyde P](https://open.spotify.com/artist/7r5J2cZ7ufmOCgh9Vg7kD1) | [Fake](https://open.spotify.com/album/24s9nNeIlOzCHW2Hf0tUN7) | 3:09 | 2020-09-21\* | 2020-11-27 |
 | [Punisher](https://open.spotify.com/track/2wrnoLYgHFZi7uCOIBMge9) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C) | [Punisher](https://open.spotify.com/album/7oHZGknKLXJeZjiqvGrqYs) | 3:00 | 2020-09-21\* | 2021-01-23 |
+| [Push It](https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Push It](https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL) | 4:08 | 2023-11-13 |  |
 | [Pyro](https://open.spotify.com/track/4NFHCQx4IcrNPERC8Vn79a) | [Koos](https://open.spotify.com/artist/3A8Fbum6y0H2ijJSRaDNtB) | [Pyro](https://open.spotify.com/album/1gM4NZCQNOohwbr0BL30f4) | 3:07 | 2020-09-21\* | 2020-11-03 |
 | [Quantum](https://open.spotify.com/track/7cmpWAZsamIlIiyU1aMGZD) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e) | [Quantum](https://open.spotify.com/album/35xmlcqBI4rtJZXiDAI9Xo) | 2:58 | 2022-04-08 | 2022-07-29 |
 | [Quechua](https://open.spotify.com/track/0vQdNTM18KusMJJrXWXDAy) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe) | [Quechua](https://open.spotify.com/album/7Atryywqgrc2WRwFOw6RFq) | 2:59 | 2021-05-29 | 2021-09-18 |

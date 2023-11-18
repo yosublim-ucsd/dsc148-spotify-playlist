@@ -209,6 +209,28 @@
     },
     {
       "album": {
+        "name": "Baaki",
+        "url": "https://open.spotify.com/album/4M4AZLajLYMgSFg1m4dgpY"
+      },
+      "artists": [
+        {
+          "name": "Shalmali Kholgade",
+          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+        },
+        {
+          "name": "Rajan Batra",
+          "url": "https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231272,
+      "name": "Baaki",
+      "url": "https://open.spotify.com/track/4xOUx15uKcn2583G3Kd1CO"
+    },
+    {
+      "album": {
         "name": "Baarish Aa Jaave",
         "url": "https://open.spotify.com/album/1W8INhKzTvHZ62LPUq31Rv"
       },
@@ -804,7 +826,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 181470,
       "name": "jaana",
       "url": "https://open.spotify.com/track/5v5G6frYHlwf6YkhR0cYQN"

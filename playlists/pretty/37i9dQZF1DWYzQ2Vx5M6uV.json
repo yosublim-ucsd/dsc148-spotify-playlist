@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Feid & Rema",
-  "num_followers": 114885,
+  "num_followers": 114893,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjQ2Y2Q4NDc2YTBhYWQ0YmY5ODRjNjYwNWQ0NDdmN2YxZDU2NGNj",
+  "snapshot_id": "MCxiOGM3NDU3NzcxMGMyNzg0YjQ2MmNkODIwMDE4ZDRhNjM2YmY5OWU2",
   "tracks": [
     {
       "added_at": "2023-11-08 15:41:14",
@@ -843,6 +843,26 @@
     {
       "added_at": "2023-11-08 15:41:14",
       "album": {
+        "name": "The Prince I Became",
+        "url": "https://open.spotify.com/album/0wCcVlx3DNajtnqVSnFthH"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 196870,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2sLaOFvIqadkSw8iYlv7SU"
+    },
+    {
+      "added_at": "2023-11-08 15:41:14",
+      "album": {
         "name": "Guava Rose",
         "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 197214,
       "name": "Drogba (Joanna) - Global Latin Version",
       "url": "https://open.spotify.com/track/6P1lijcRsH94klfkw7zEUj"
-    },
-    {
-      "added_at": "2023-11-08 15:41:14",
-      "album": {
-        "name": "The Prince I Became",
-        "url": "https://open.spotify.com/album/0wCcVlx3DNajtnqVSnFthH"
-      },
-      "artists": [
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 196870,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/2sLaOFvIqadkSw8iYlv7SU"
     },
     {
       "added_at": "2023-11-08 15:41:14",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2023-11-08 15:41:14",
       "album": {
+        "name": "Like A Queen Remix",
+        "url": "https://open.spotify.com/album/6OG8umJAVi3XTE72N5Iqmj"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        },
+        {
+          "name": "Said Palacios",
+          "url": "https://open.spotify.com/artist/2IYe9gw3UV7STpcsbbrsvH"
+        }
+      ],
+      "duration_ms": 159001,
+      "name": "Like A Queen Remix - Remix",
+      "url": "https://open.spotify.com/track/7iGwFKZDnlkXRTEIxNLVYk"
+    },
+    {
+      "added_at": "2023-11-08 15:41:14",
+      "album": {
         "name": "No Wahala (Latin Remix)",
         "url": "https://open.spotify.com/album/4QGp54NmocX8ptDWOJrRTz"
       },
@@ -1131,26 +1151,6 @@
       "duration_ms": 166950,
       "name": "Parcerita",
       "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
-    },
-    {
-      "added_at": "2023-11-08 15:41:14",
-      "album": {
-        "name": "Like A Queen Remix",
-        "url": "https://open.spotify.com/album/6OG8umJAVi3XTE72N5Iqmj"
-      },
-      "artists": [
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
-        },
-        {
-          "name": "Said Palacios",
-          "url": "https://open.spotify.com/artist/2IYe9gw3UV7STpcsbbrsvH"
-        }
-      ],
-      "duration_ms": 159001,
-      "name": "Like A Queen Remix - Remix",
-      "url": "https://open.spotify.com/track/7iGwFKZDnlkXRTEIxNLVYk"
     },
     {
       "added_at": "2023-11-08 15:41:14",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-11-08 15:41:14",
       "album": {
-        "name": "V\u00e1monos",
-        "url": "https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz"
-      },
-      "artists": [
-        {
-          "name": "Oliver Kid",
-          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
-        }
-      ],
-      "duration_ms": 121142,
-      "name": "V\u00e1monos",
-      "url": "https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO"
-    },
-    {
-      "added_at": "2023-11-08 15:41:14",
-      "album": {
         "name": "Toko Challenge",
         "url": "https://open.spotify.com/album/6mupZJ1WPJMhR2BPJo0kRN"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 98772,
       "name": "Toko Challenge",
       "url": "https://open.spotify.com/track/4AkvzAhFnq7IDTHn5SXQY0"
+    },
+    {
+      "added_at": "2023-11-08 15:41:14",
+      "album": {
+        "name": "V\u00e1monos",
+        "url": "https://open.spotify.com/album/66fSW4LgnWuVk0SQwTwOjz"
+      },
+      "artists": [
+        {
+          "name": "Oliver Kid",
+          "url": "https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG"
+        }
+      ],
+      "duration_ms": 121142,
+      "name": "V\u00e1monos",
+      "url": "https://open.spotify.com/track/2PkLYoUAu7a4Aa6Tek3htO"
     },
     {
       "added_at": "2023-11-08 15:41:14",

@@ -10847,6 +10847,24 @@
     },
     {
       "album": {
+        "name": "White Lie",
+        "url": "https://open.spotify.com/album/6g3FQBSHayd37yO3a77AIH"
+      },
+      "artists": [
+        {
+          "name": "Haywyre",
+          "url": "https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198260,
+      "name": "White Lie",
+      "url": "https://open.spotify.com/track/05W5WSaPyW5GCiNY5gOuyH"
+    },
+    {
+      "album": {
         "name": "Mind Over Matter",
         "url": "https://open.spotify.com/album/7A6ctoMJhFjeQ0XBYDgTqX"
       },

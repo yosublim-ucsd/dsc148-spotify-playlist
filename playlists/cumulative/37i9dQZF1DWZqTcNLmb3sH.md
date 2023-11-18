@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Sapta Sagaradaache Ello \- Side B
 
-949 songs - 2 day 10 hr 31 min
+950 songs - 2 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Hariya Preeti \(From"Premam Poojyam"\)](https://open.spotify.com/track/2zenEH8XwdlcSW8W8TG9SP) | [Raghavendra BS](https://open.spotify.com/artist/3EE09uHzYtbqBx4dTofVBo), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Hariya Preeti \(From"Premam Poojyam"\)](https://open.spotify.com/album/1RJz6t0Z2oXBPP502gNNCh) | 2:10 | 2021-12-06 | 2022-02-03 |
 | [Hata Madida \(Male Version\)](https://open.spotify.com/track/0mIk9nc5mV86TQmdOdJedj) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Colors of Love](https://open.spotify.com/album/22PRMMQcayfr8cXtLZ4a7e) | 1:28 | 2023-03-28 | 2023-08-03 |
 | [Hattiri Nandu Super Scooter](https://open.spotify.com/track/1aWNLzd2uMEfI9nZyiZWAI) | [Chikkanna](https://open.spotify.com/artist/5q8fmCfSQNoG8opy8CfolL), [Shivani Naveen](https://open.spotify.com/artist/7CfAjNeEwzBDVuMTVHrJdf), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Chethan Kumar Bharjari](https://open.spotify.com/artist/7sN6nRZG6QgGZkgJr2jt8C) | [Upadhyaksha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19GERqtPrlvIoBwdwGcybq) | 3:54 | 2023-11-16 |  |
+| [He Is Ghost](https://open.spotify.com/track/1vjl4mLAiMKpkdjYx646GR) | [Sathyam Keys](https://open.spotify.com/artist/2bvf8E8XhFZDvy3m7BM0AE) | [Ghost](https://open.spotify.com/album/13yrMhlXs2Xyx2iEgyBMt1) | 2:10 | 2023-11-17 |  |
 | [He Kele](https://open.spotify.com/track/0RV6H5VS76P1kJk5a4wTKY) | [Kaushik Harsha](https://open.spotify.com/artist/4zTNqvFFrgCFjsZ3CArDso) | [Butterfly \(Kannada\)](https://open.spotify.com/album/3JPHlyMAHGKfOmTNRqsEng) | 2:46 | 2023-05-22 | 2023-06-02 |
 | [He..Hendati \(From "Kushi"\)](https://open.spotify.com/track/3iJ2zHD9DflK99ovfNPUUz) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [V Nagendra Prasad](https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU) | [He..Hendati \(From "Kushi"\)](https://open.spotify.com/album/0aIcBDHgohhcAQ3KVHk3WS) | 3:38 | 2023-08-29 | 2023-10-11 |
 | [Heart Breaku \(From "Nodi Swamy Ivanu Irode Heege"\)](https://open.spotify.com/track/3dX9AkuovMhwxzYAtnWS6z) | [Prasanna Sivaraman](https://open.spotify.com/artist/3VsrVjGesZwWFS9bFO44I9), [Pancham Jeeva](https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s) | [Heart Breaku \(From "Nodi Swamy Ivanu Irode Heege"\)](https://open.spotify.com/album/2t3NxkB1QRvRRAcvlMXE9T) | 2:53 | 2022-08-26 | 2022-11-15 |

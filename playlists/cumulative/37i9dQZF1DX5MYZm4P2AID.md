@@ -4,7 +4,7 @@
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-217 songs - 13 hr 11 min
+218 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,8 @@
 | [Paper Planes \- DFA Remix](https://open.spotify.com/track/1hCD7X2223N2Jt4MzKIe3C) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU), [DFA](https://open.spotify.com/artist/7Gprizzv3dHXNrhfR27Aua) | [Paper Planes \- Homeland Security Remixes](https://open.spotify.com/album/4GG44VSWcotck92vWZYpS5) | 5:52 | 2021-10-26 |  |
 | [Pogues Theme](https://open.spotify.com/track/2TzhYrAMAVPZU2gKHAnWiI) | [Fil Eisler](https://open.spotify.com/artist/5129CrVkHTSigIoqGiseqj) | [Pogues Theme \(From The Netflix Series Outer Banks\)](https://open.spotify.com/album/58wGqs5bjIluzWqFLJUuAv) | 5:23 | 2023-02-13 |  |
 | [Pork Rind](https://open.spotify.com/track/2IrhshaSvChFM5VTzooXsn) | [Blackfoot Gypsies](https://open.spotify.com/artist/4wTY4zovD9wK63Wi4WhxGN) | [Handle It](https://open.spotify.com/album/6I3KcXTCNb5QWEmMxNGH6G) | 3:39 | 2021-10-26 |  |
-| [Powerman \- 2020 Stereo Remaster](https://open.spotify.com/track/71lOPSGbq1hSepmhwSZs2p) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. 1](https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0) | 4:17 | 2023-02-23 |  |
+| [Powerman \(2020 Stereo Remaster\)](https://open.spotify.com/track/0dJ6WCwjkVBfh4h3vyzIeb) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. 1](https://open.spotify.com/album/6cv47fKkAyi9Lm5wwud4It) | 4:17 | 2023-03-01 |  |
+| [Powerman \- 2020 Stereo Remaster](https://open.spotify.com/track/71lOPSGbq1hSepmhwSZs2p) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. 1](https://open.spotify.com/album/70kpGi2o0I7NY4DfwIN2p0) | 4:17 | 2023-02-23 | 2023-11-18 |
 | [Pretty Woman Pass On By](https://open.spotify.com/track/3fDM0Os5zXsgIjn7yssQBV) | [Richard Marks](https://open.spotify.com/artist/6IL3lbNSKa384LcWJ6Aa7T) | [Never Satisfied: The Complete Works 1968 \-1976](https://open.spotify.com/album/3eu3SRkvkcgh8tW8p6YZKS) | 3:04 | 2021-10-26 |  |
 | [Psyche](https://open.spotify.com/track/5a4YKJhPJcb5dz9V3Fq4Hc) | [The Jimmy Castor Bunch](https://open.spotify.com/artist/7E5taE9LniGvMzEHpiOupV) | [It's Just Begun](https://open.spotify.com/album/1Zcz8zvX1SbUh7S99ezRgq) | 4:27 | 2023-02-23 |  |
 | [Pub Feed](https://open.spotify.com/track/6Rz6yXr3RWpYdGst26tSYF) | [The Chats](https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1) | [High Risk Behaviour](https://open.spotify.com/album/0MHGKVzf6jX0hJ1gfgDwF7) | 2:25 | 2021-10-26 |  |

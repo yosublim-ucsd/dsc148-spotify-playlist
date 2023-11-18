@@ -2628,10 +2628,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 263817,
       "name": "Whatever Tomorrow",
       "url": "https://open.spotify.com/track/2oQMAwDhT1YjSGb3YSLpXO"
+    },
+    {
+      "album": {
+        "name": "Hotel Surrender",
+        "url": "https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263817,
+      "name": "Whatever Tomorrow",
+      "url": "https://open.spotify.com/track/6GAySd6p4Jofhf4b7De9y1"
     },
     {
       "album": {

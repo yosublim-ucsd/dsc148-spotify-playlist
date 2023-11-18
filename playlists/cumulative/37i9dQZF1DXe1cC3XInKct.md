@@ -4,7 +4,7 @@
 
 > Downtempo and ambient electronic music\. Feel the undertones 🍃
 
-264 songs - 21 hr 57 min
+266 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Burned](https://open.spotify.com/track/61MsKclgxBLHoBegbVBdii) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour \(Redux\)](https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU) | 4:28 | 2023-01-26 | 2023-09-15 |
 | [Bélmez Faces](https://open.spotify.com/track/5S7Ts0Zp2kX2xqZ2cLpkRO) | [Cat Gallows Wood](https://open.spotify.com/artist/22PnXrG41WawrUiEf6bzUu) | [Bélmez Faces](https://open.spotify.com/album/3lSN4WR2YYMxDiC4ewEQac) | 4:36 | 2020-10-20\* | 2022-06-17 |
 | [C Pad](https://open.spotify.com/track/36wjdMO43P6uLaPPb7NYT1) | [Mary Lake](https://open.spotify.com/artist/5bhoVKF8eORLen5Ls4ErRq) | [Askim](https://open.spotify.com/album/5DaaejX6Rn8CaMvjDokzEB) | 4:40 | 2021-07-04 | 2023-09-15 |
+| [Catsu](https://open.spotify.com/track/0lbQaP751MUEVtK0F4A43C) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [HomeSoon](https://open.spotify.com/album/1uoyioN7yCRAUoVpgZQHHD) | 4:27 | 2023-11-16 |  |
 | [Cavern](https://open.spotify.com/track/3m7GXVlWssObPjFgPmD7fz) | [Sleep D](https://open.spotify.com/artist/7DSX8wua9P7LuGapEmftQc), [Ad Lib Collective](https://open.spotify.com/artist/0MQ4J51P1NGtY5p2wDOcg3) | [Flashed Glass](https://open.spotify.com/album/63IgegdDoeYYGSyqtChZhX) | 8:42 | 2021-05-21 | 2021-10-01 |
 | [Cenizas](https://open.spotify.com/track/3hwDnX62nktK3GJD3oNt8h) | [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Cenizas](https://open.spotify.com/album/4uR6L8Gq7xozMSBpuxIQUp) | 4:39 | 2020-10-20\* | 2021-07-04 |
 | [Chances](https://open.spotify.com/track/4gIRciHmlWqb5n6rQ1v7kc) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Chances](https://open.spotify.com/album/1DddF8t42B22CuI7KUdzeF) | 5:58 | 2023-09-14 |  |
@@ -96,7 +97,7 @@
 | [Green N’ Grey](https://open.spotify.com/track/27fIEXoIlWcFPNA5uvsxZ1) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV), [Archie Mike](https://open.spotify.com/artist/2OXwbxIDQv4QdTIxIxvMgA) | [Muscle Memories Vol\. 1](https://open.spotify.com/album/5y9fFIK4rlvYiRvRlfvPyR) | 6:49 | 2023-09-14 |  |
 | [Harpsichord](https://open.spotify.com/track/7tO0SljL5CVxyFLFx3GKWh) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Sixteen Oceans](https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ) | 2:53 | 2020-10-20\* | 2021-04-09 |
 | [Healers](https://open.spotify.com/track/4jq6XN7KbgwUGsjop1Rfvx) | [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3), [Dancingwater](https://open.spotify.com/artist/2kNrWVsXMU26GXUcJYPi3M) | [Torn : Tonic](https://open.spotify.com/album/6ClrVaKbXihPGgz5O09O3C) | 2:39 | 2023-09-14 |  |
-| [Heavenly Data](https://open.spotify.com/track/6oZdI01WQrUH4JOikTZ7MX) | [MTLDA](https://open.spotify.com/artist/3HNFNsVoyPblJOCLPGrjVy) | [God Is a DJ](https://open.spotify.com/album/6ph5yvbPRjMxrO81UVCSzy) | 5:13 | 2023-09-14 |  |
+| [Heavenly Data](https://open.spotify.com/track/6oZdI01WQrUH4JOikTZ7MX) | [MTLDA](https://open.spotify.com/artist/3HNFNsVoyPblJOCLPGrjVy) | [God Is a DJ](https://open.spotify.com/album/6ph5yvbPRjMxrO81UVCSzy) | 5:13 | 2023-09-14 | 2023-11-18 |
 | [Her Revolution](https://open.spotify.com/track/2MhDAsciLk9txdni5CL8iw) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Her Revolution / His Rope](https://open.spotify.com/album/4ciK8DtBglOBd0FYznsg98) | 5:48 | 2020-12-11 | 2021-08-21 |
 | [Hidden Qi 隐.气](https://open.spotify.com/track/4ciVbZoIxygY9mNaJWzkZd) | [Mindy Meng Wang 王萌](https://open.spotify.com/artist/2pXrt2o7FNdFd3l2A3v6C0), [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy) | [Hidden Qi 隐.气](https://open.spotify.com/album/3bSniYoHteg80X3Kmdkt36) | 3:17 | 2021-03-09 | 2021-09-04 |
 | [Horohoro](https://open.spotify.com/track/1eDj5WR6UXUA5MYbEzqTVw) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Horohoro](https://open.spotify.com/album/2SNMjYlF2aIREGuPaftB4t) | 3:45 | 2021-08-21 | 2022-06-17 |
@@ -171,7 +172,7 @@
 | [Oh Sleeping Sun \- Remix](https://open.spotify.com/track/62BRW2XK8SzzM4NdsRwJRA) | [DJ Fearful](https://open.spotify.com/artist/446fth8Y8WXYp5Y1uecRzz), [Fatshaudi](https://open.spotify.com/artist/60Kg9lWIetru4x6e4bESUe) | [Oh Sleeping Sun \(Remix\)](https://open.spotify.com/album/6vxsnkxAYkVFcGeJjY99JA) | 4:01 | 2023-09-14 |  |
 | [Ohm Alone](https://open.spotify.com/track/23UrP3n6rZ5n2tPINsm601) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [Second Message](https://open.spotify.com/album/4dLy0cz5saZrAdeBizJVL4) | 6:20 | 2023-09-14 | 2023-09-22 |
 | [Ohm Alone](https://open.spotify.com/track/7yDYbMJcTr1EuWrirvZ9r6) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [Second Message](https://open.spotify.com/album/0h8Kl7DUniHzGyDAFVpntL) | 6:20 | 2023-09-14 |  |
-| [Old Protocols](https://open.spotify.com/track/2AcTlo4gWO0Y3Co4t17NxZ) | [American French Fries](https://open.spotify.com/artist/6MeraH86yIXwphdHgNPbgR) | [Future Proof](https://open.spotify.com/album/4PCyPcNfXLnMUd4VVAHC9D) | 3:30 | 2023-09-14 |  |
+| [Old Protocols](https://open.spotify.com/track/2AcTlo4gWO0Y3Co4t17NxZ) | [American French Fries](https://open.spotify.com/artist/6MeraH86yIXwphdHgNPbgR) | [Future Proof](https://open.spotify.com/album/4PCyPcNfXLnMUd4VVAHC9D) | 3:30 | 2023-09-14 | 2023-11-18 |
 | [On 4.0 Hill](https://open.spotify.com/track/7s6cxqRJVryDr6YKVn5Ulc) | [Other Joe](https://open.spotify.com/artist/4qMhTSbkQKynDHWLvg1b5K) | [Jealousy Tulip](https://open.spotify.com/album/3sBq6qtnVvvMw7yFt0XRVA) | 6:07 | 2021-07-24 | 2021-11-26 |
 | [On the Shore](https://open.spotify.com/track/1J2ObShjzqTOe2eJzYg0s9) | [Bluetung](https://open.spotify.com/artist/79WPKJgJwIiymK2BNhcrCd) | [Eternity by the Stars](https://open.spotify.com/album/5ALpewfvkyuuKT12Y8cImv) | 7:10 | 2023-09-14 |  |
 | [Opaque](https://open.spotify.com/track/5jXUqnOObnwosgGho6SegN) | [Fthmlss](https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Opaque](https://open.spotify.com/album/0OjAz7DvgRyETcZlKJiG9S) | 2:22 | 2021-07-04 | 2023-09-15 |
@@ -272,5 +273,6 @@
 | [Work It Out](https://open.spotify.com/track/4MLMdVDbghOxCSoOgwQ7Og) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Work It Out](https://open.spotify.com/album/6e3hBCINZWL2rhBWKrrpqK) | 4:02 | 2023-09-14 |  |
 | [World of Squares](https://open.spotify.com/track/0AvI47DC7HfX9JVWRTREuf) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72) | 15:02 | 2022-09-29 | 2023-09-15 |
 | [Yuangan \(Dugong\)](https://open.spotify.com/track/0N4ajskJxO7ZgySBJGgs8k) | [Yirinda](https://open.spotify.com/artist/1pw6eWOemOfIL00gMOr53D) | [Yuangan \(Dugong\)](https://open.spotify.com/album/5pdH0OIgRhV3mREExaBUGW) | 4:37 | 2023-09-14 |  |
+| [气 \| Chi \| Energy](https://open.spotify.com/track/3RpDLrWiVgpu0ZXX97H3pL) | [Mindy Meng Wang 王萌](https://open.spotify.com/artist/2pXrt2o7FNdFd3l2A3v6C0), [Sui Zhen](https://open.spotify.com/artist/0I9hbMpu2a9FPWTSLkwuG5) | [气 \| Chi \| Energy](https://open.spotify.com/album/6w3YOhWuFQ4XRtBTyKVpxS) | 7:44 | 2023-11-16 |  |
 
 \*This playlist was first scraped on 2020-10-20. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw?si=zHeqTQBjSlCgMpPiuLyaYQ"> Quamina MP </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,362 likes - 85 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,415 likes - 85 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 2 | [Broken Heart \(feat\. Kuami Eugene\)](https://open.spotify.com/track/3CTLElO2jgzX3pUU571Nfk) | [DJ Vyrusky](https://open.spotify.com/artist/20uZPZ6EXItffkdLevoEdV), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Broken Heart \(feat\. Kuami Eugene\)](https://open.spotify.com/album/2wP11FwHQj4zg9x9XBo1r4) | 2:58 |
 | 3 | [Kwaku Ananse \- Remix](https://open.spotify.com/track/12XqD9NVwBiIYoKs6fDi2Y) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Kwaku Ananse \(Remix\)](https://open.spotify.com/album/264PQN5SiI2VGU4Bas6jSE) | 3:23 |
 | 4 | [GoodSin](https://open.spotify.com/track/4lkI6BidQ1dC19KaCb0SUn) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana](https://open.spotify.com/album/1ZinBC6aI5Ck8CEa64GShC) | 2:20 |
-| 5 | [Dancé](https://open.spotify.com/track/4YG5iI71UY9VAE68t4vn2a) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [M.O.G Beatz](https://open.spotify.com/artist/33ItZZXaZDSfgphZRZ7hd2), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Dancé](https://open.spotify.com/album/5wtg6LNVHgxvloQka3IkS1) | 3:19 |
+| 5 | [Dancé](https://open.spotify.com/track/4YG5iI71UY9VAE68t4vn2a) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [M.O.G Beatz](https://open.spotify.com/artist/33ItZZXaZDSfgphZRZ7hd2), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Dancé](https://open.spotify.com/album/5wtg6LNVHgxvloQka3IkS1) | 3:17 |
 | 6 | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW) | 2:44 |
 | 7 | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo) | 2:44 |
 | 8 | [Kwaku Ananse](https://open.spotify.com/track/2N9w3FacGQIN18o0DeFO1X) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Kwaku Ananse](https://open.spotify.com/album/67z5ZW6Se4NBjtP4ju4sOw) | 3:26 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 84 | [No More](https://open.spotify.com/track/7eClgSPyjnbANZYbogtZNE) | [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [No More Tears](https://open.spotify.com/album/6A62r1F4Sn29IBUI9zHjM7) | 2:40 |
 | 85 | [Abena](https://open.spotify.com/track/416lJBohBXn07iQe3lf0JI) | [Yaw Dyro](https://open.spotify.com/artist/0KCWVye8eFEyOu2fpwfMHr), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Abena](https://open.spotify.com/album/5KZGcpVTuXFTzedSE0gCe4) | 2:40 |
 
-Snapshot ID: `MCxmMmMwNWFkNjU4YWNhZDE1ZGM3MzNmNGJmMWNjNDczZjlhY2IxZTI1`
+Snapshot ID: `MCw1M2ViNzIyYTMwODIxZTc0YzA2OGQ3NTkzMWFiMGU1ZmYzMzYxMzA5`

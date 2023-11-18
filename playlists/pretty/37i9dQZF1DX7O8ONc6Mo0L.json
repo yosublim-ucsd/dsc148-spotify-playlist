@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: AM\u00c9M",
-  "num_followers": 278921,
+  "num_followers": 279100,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWNjZTM3NjJiNGI1MjMyOTU4YzY1NWFhNDRmYmExNjAxNWNlOTZm",
+  "snapshot_id": "MCw2OTA5YTU4OTdkZDQwNDQxMGE2YmZlN2M0NGQ1NDY0NmIzMDJhNTA3",
   "tracks": [
     {
       "added_at": "2023-11-03 04:24:32",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-11-03 04:24:32",
       "album": {
+        "name": "Ac\u00fastico Mergulhar",
+        "url": "https://open.spotify.com/album/6pIY0cvrF5FrOtBHoPtInI"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
+        }
+      ],
+      "duration_ms": 374143,
+      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2WGlHxK3Cwd7bEIT9D0dAY"
+    },
+    {
+      "added_at": "2023-11-03 04:24:32",
+      "album": {
         "name": "Doce Presen\u00e7a",
         "url": "https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E"
       },
@@ -771,18 +787,18 @@
     {
       "added_at": "2023-11-03 04:24:32",
       "album": {
-        "name": "Ac\u00fastico Mergulhar",
-        "url": "https://open.spotify.com/album/6pIY0cvrF5FrOtBHoPtInI"
+        "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
+        "url": "https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6"
       },
       "artists": [
         {
-          "name": "Minist\u00e9rio Mergulhar",
-          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
+          "name": "Trilo",
+          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
         }
       ],
-      "duration_ms": 374143,
-      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2WGlHxK3Cwd7bEIT9D0dAY"
+      "duration_ms": 211817,
+      "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
+      "url": "https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk"
     },
     {
       "added_at": "2023-11-03 04:24:32",
@@ -799,22 +815,6 @@
       "duration_ms": 225840,
       "name": "Som das \u00c1guas - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
-    },
-    {
-      "added_at": "2023-11-03 04:24:32",
-      "album": {
-        "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
-        "url": "https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6"
-      },
-      "artists": [
-        {
-          "name": "Trilo",
-          "url": "https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD"
-        }
-      ],
-      "duration_ms": 211817,
-      "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
-      "url": "https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk"
     },
     {
       "added_at": "2023-11-03 04:24:32",
@@ -927,26 +927,6 @@
     {
       "added_at": "2023-11-03 04:24:32",
       "album": {
-        "name": "Ningu\u00e9m Explica Deus",
-        "url": "https://open.spotify.com/album/0rtnasiLRIz9jg94tmwTU3"
-      },
-      "artists": [
-        {
-          "name": "Clovis",
-          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
-        },
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 301623,
-      "name": "Ningu\u00e9m Explica Deus",
-      "url": "https://open.spotify.com/track/4tKdITTT7wvJNvl8c5Qoth"
-    },
-    {
-      "added_at": "2023-11-03 04:24:32",
-      "album": {
         "name": "Muda os Planos (Ao Vivo)",
         "url": "https://open.spotify.com/album/3sAkhNWVeIjO8GWWc8YFSk"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 290250,
       "name": "Muda os Planos - Ao Vivo",
       "url": "https://open.spotify.com/track/6IMGV8bFVfP8SARKRnWDfs"
+    },
+    {
+      "added_at": "2023-11-03 04:24:32",
+      "album": {
+        "name": "Ningu\u00e9m Explica Deus",
+        "url": "https://open.spotify.com/album/0rtnasiLRIz9jg94tmwTU3"
+      },
+      "artists": [
+        {
+          "name": "Clovis",
+          "url": "https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF"
+        },
+        {
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+        }
+      ],
+      "duration_ms": 301623,
+      "name": "Ningu\u00e9m Explica Deus",
+      "url": "https://open.spotify.com/track/4tKdITTT7wvJNvl8c5Qoth"
     },
     {
       "added_at": "2023-11-03 04:24:32",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-11-03 04:24:32",
       "album": {
+        "name": "Impressionante (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/06eutKmnKz6rjmNzl4eK5p"
+      },
+      "artists": [
+        {
+          "name": "Klebson Kollins",
+          "url": "https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH"
+        }
+      ],
+      "duration_ms": 331250,
+      "name": "Impressionante - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn"
+    },
+    {
+      "added_at": "2023-11-03 04:24:32",
+      "album": {
         "name": "Fernanda Brum Reunion no Sintonize - EP 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2MK3OXeRFirpxo6lTxVHtN"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 299008,
       "name": "Esp\u00edrito Santo (feat. Weslei Santos & Marcus Salles) - Ao Vivo no Sintonize",
       "url": "https://open.spotify.com/track/4Xhh7S35G90S6qXREJihzi"
-    },
-    {
-      "added_at": "2023-11-03 04:24:32",
-      "album": {
-        "name": "Impressionante (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/06eutKmnKz6rjmNzl4eK5p"
-      },
-      "artists": [
-        {
-          "name": "Klebson Kollins",
-          "url": "https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH"
-        }
-      ],
-      "duration_ms": 331250,
-      "name": "Impressionante - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn"
     },
     {
       "added_at": "2023-11-03 04:24:32",

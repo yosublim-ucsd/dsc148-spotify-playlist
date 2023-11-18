@@ -7711,6 +7711,24 @@
     },
     {
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/13yrMhlXs2Xyx2iEgyBMt1"
+      },
+      "artists": [
+        {
+          "name": "Sathyam Keys",
+          "url": "https://open.spotify.com/artist/2bvf8E8XhFZDvy3m7BM0AE"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130110,
+      "name": "He Is Ghost",
+      "url": "https://open.spotify.com/track/1vjl4mLAiMKpkdjYx646GR"
+    },
+    {
+      "album": {
         "name": "Butterfly (Kannada)",
         "url": "https://open.spotify.com/album/3JPHlyMAHGKfOmTNRqsEng"
       },

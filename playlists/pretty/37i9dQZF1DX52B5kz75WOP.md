@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52B5kz75WOP.md) - [plain]
 | 9 | [Givin the Dog a Bone](https://open.spotify.com/track/6rAy2MsMUabbqu2VygrblP) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:31 |
 | 10 | [Hair Of The Dog](https://open.spotify.com/track/1wXE6zvNWRz8GuMfEUgETz) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Hair Of The Dog](https://open.spotify.com/album/5Zwyrn62m3Pyc0nvRa9CHF) | 4:09 |
 | 11 | [The Dogs of War](https://open.spotify.com/track/4ggDbvTME5EAso1xfGX2M0) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 6:03 |
-| 12 | [Scratch My Back](https://open.spotify.com/track/1UeckZ4DJwZjuCfvUzNcHm) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Nobody's Fools \(Expanded\)](https://open.spotify.com/album/40Qcy8sJ0scKcqy1NCX2pj) | 3:06 |
+| 12 | [Scratch My Back](https://open.spotify.com/track/6UKieaLfTkCAQNSFWs57Vo) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Nobody's Fools \(Expanded\)](https://open.spotify.com/album/6ZFL69V1pLtEhVdPjHahM0) | 3:06 |
 | 13 | [Diamond Dogs \- 2016 Remaster](https://open.spotify.com/track/7Lk0PQDl3jtOr0UoZmQPhs) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(2016 Remaster\)](https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3) | 6:04 |
 | 14 | [Dogs](https://open.spotify.com/track/7E4xxIPpvzsqQhrOac5tIa) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Rock N' Roll \(Expanded Edition\)](https://open.spotify.com/album/0Ghu8Pkq9lSZTQkmYcf3uU) | 3:47 |
 | 15 | [Rocky Mountain Way](https://open.spotify.com/track/5sGCvSlXLmbZACj2cQwUY5) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Under Cover](https://open.spotify.com/album/5yIXVMM70ay1mQ5kCWpidF) | 4:32 |
 | 16 | [Hound Dog](https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:16 |
 | 17 | [Crazy Train](https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 4:53 |
 
-Snapshot ID: `MCw2NDFkYjIzZjAwZWQ4ZTg1ZTJhMTRjZGUzZmNlMzA0YTAyYWM4MmI3`
+Snapshot ID: `MCw4M2YyY2Y5OGNhNTRmOTJlNGQ1OGY5N2NlOGZkYzYxZTM4ZDFiYjlh`

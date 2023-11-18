@@ -1,13 +1,33 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: Barry Can't Swim",
-  "num_followers": 863806,
+  "num_followers": 863856,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjM5MjNhYjUxZmU4YzVkZDEyMTczNTIxYzkyNmVmMDk1NmY5NmFj",
+  "snapshot_id": "MCxhNjU2OWUwODkyMTUxMGVjYWYxZDYwMDIwMTk3MzQ1NjE5ZDdkYjdj",
   "tracks": [
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Cash",
+        "url": "https://open.spotify.com/album/5C7l2U2lJrjLSMg8p13J14"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        },
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 162445,
+      "name": "Cash",
+      "url": "https://open.spotify.com/track/3aHiz7IyBKr9vNynIQJykZ"
+    },
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
@@ -49,6 +69,22 @@
       "url": "https://open.spotify.com/track/0cKYdxOPGO60h2c4DHbp7d"
     },
     {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "EST",
+        "url": "https://open.spotify.com/album/0uTa7zuhN42yVclpAkJL9i"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 336541,
+      "name": "EST",
+      "url": "https://open.spotify.com/track/1ojCQ0v59O77rKZbwN8aQh"
+    },
+    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Halo Flip",
@@ -69,6 +105,22 @@
       "url": "https://open.spotify.com/track/59SaaebqvxHSui4LbocJYI"
     },
     {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 220311,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr"
+    },
+    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "I Believe In Love Again",
@@ -87,6 +139,22 @@
       "duration_ms": 176524,
       "name": "I Believe In Love Again",
       "url": "https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Overnight",
+        "url": "https://open.spotify.com/album/6Bx2GZ9URhZitfByTc5eCS"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 238684,
+      "name": "Overnight",
+      "url": "https://open.spotify.com/track/2ckYzNOvjKVQX5ARttEhlo"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -125,6 +193,22 @@
       "url": "https://open.spotify.com/track/7Lx1FPVrAunBz3ykpmFxsN"
     },
     {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "The Same",
+        "url": "https://open.spotify.com/album/1OapbmDsoY1AgT8xqhWFlU"
+      },
+      "artists": [
+        {
+          "name": "COMA",
+          "url": "https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52"
+        }
+      ],
+      "duration_ms": 253134,
+      "name": "The Same",
+      "url": "https://open.spotify.com/track/1CVsGcOxtoEAqKyIT1ZbZk"
+    },
+    {
       "added_at": "2023-10-20 04:00:00",
       "album": {
         "name": "Always / Never",
@@ -157,6 +241,26 @@
       "url": "https://open.spotify.com/track/7bbDRMb1AIjb8cWztwm8MS"
     },
     {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Hey Lou",
+        "url": "https://open.spotify.com/album/4Vwfbi3fYMpl3BcMYP2VF2"
+      },
+      "artists": [
+        {
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        },
+        {
+          "name": "Camille Jansen",
+          "url": "https://open.spotify.com/artist/3fPap8kKuNMRn5PR06x0gN"
+        }
+      ],
+      "duration_ms": 220346,
+      "name": "Hey Lou",
+      "url": "https://open.spotify.com/track/1JrLzZwjwOssxX11afM3XS"
+    },
+    {
       "added_at": "2023-10-20 04:00:00",
       "album": {
         "name": "Turn Back Time",
@@ -173,6 +277,26 @@
       "url": "https://open.spotify.com/track/4P2KkAmQ6lP0mlc1yriTXU"
     },
     {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "HOUSE OF GROOVE",
+        "url": "https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo"
+      },
+      "artists": [
+        {
+          "name": "Zimmer",
+          "url": "https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb"
+        },
+        {
+          "name": "DIDI HAN",
+          "url": "https://open.spotify.com/artist/2j74J6dIUd8X3x6UKH3pZF"
+        }
+      ],
+      "duration_ms": 285713,
+      "name": "Hide & Run",
+      "url": "https://open.spotify.com/track/58mpPHPDKMlZBiDxBWYsnj"
+    },
+    {
       "added_at": "2023-10-20 04:00:00",
       "album": {
         "name": "Birth4000",
@@ -187,6 +311,22 @@
       "duration_ms": 286274,
       "name": "Birth4000",
       "url": "https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "In Your Mind",
+        "url": "https://open.spotify.com/album/6WgEklxepIZRBqqageJqRV"
+      },
+      "artists": [
+        {
+          "name": "Lemaitre",
+          "url": "https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764"
+        }
+      ],
+      "duration_ms": 150005,
+      "name": "In Your Mind",
+      "url": "https://open.spotify.com/track/7x6RfPtJ0UCRcWjBGOqttV"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -237,6 +377,22 @@
       "url": "https://open.spotify.com/track/0XMWc0qrKeJnRzzyMj9Q7D"
     },
     {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "*69",
+        "url": "https://open.spotify.com/album/0DnAYd6xx96sGXVOhfxktL"
+      },
+      "artists": [
+        {
+          "name": "Born At Midnite",
+          "url": "https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa"
+        }
+      ],
+      "duration_ms": 164114,
+      "name": "*69",
+      "url": "https://open.spotify.com/track/25y8mFqpFmhHTma6f0LEW1"
+    },
+    {
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "Carrossel Do Tempo",
@@ -271,6 +427,30 @@
       "duration_ms": 196562,
       "name": "Lights On",
       "url": "https://open.spotify.com/track/6flcJyG7GcGUyPEe4bnn1C"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "How We Gonna Stop the Time (Brijean Remix)",
+        "url": "https://open.spotify.com/album/315WPYsYgAn5dFeih6XzCd"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Stee Downes",
+          "url": "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
+        },
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 279462,
+      "name": "How We Gonna Stop the Time - Brijean Remix",
+      "url": "https://open.spotify.com/track/5Ko55ikqzRbSbNfIbhF6YW"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -1777,7 +1957,7 @@
         }
       ],
       "duration_ms": 242362,
-      "name": "Good Girl - Taylor Skye Remix",
+      "name": "Good Girl",
       "url": "https://open.spotify.com/track/2Hgtu5s75EqH0skGGdICIr"
     },
     {
@@ -2076,7 +2256,7 @@
       "added_at": "2023-10-06 04:00:00",
       "album": {
         "name": "Personal Effects",
-        "url": "https://open.spotify.com/album/7KqU1iCysBTl3Q8DH3oma9"
+        "url": "https://open.spotify.com/album/0t05KaYNrnWV9MaXBFrfPM"
       },
       "artists": [
         {
@@ -2086,7 +2266,7 @@
       ],
       "duration_ms": 239946,
       "name": "Personal Effects",
-      "url": "https://open.spotify.com/track/03BQfMy5WubpVtroojnaxA"
+      "url": "https://open.spotify.com/track/2RD8OT2MYEBvNCIhr8PERZ"
     },
     {
       "added_at": "2023-10-13 04:01:00",
@@ -2532,7 +2712,7 @@
       "added_at": "2023-10-02 15:19:18",
       "album": {
         "name": "Replacements (feat. La Roux)",
-        "url": "https://open.spotify.com/album/677Ket8qKGVOMtXgE4Gpfk"
+        "url": "https://open.spotify.com/album/3sx9ynPOj1lBDPrnwWkGD1"
       },
       "artists": [
         {
@@ -2546,7 +2726,7 @@
       ],
       "duration_ms": 229960,
       "name": "Replacements (feat. La Roux)",
-      "url": "https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH"
+      "url": "https://open.spotify.com/track/05nmIjhawOHWTiA21xKpFE"
     },
     {
       "added_at": "2023-10-02 15:19:18",

@@ -1,13 +1,29 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 52523,
+  "num_followers": 52548,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWM3ZjFmMGM1MmZhN2Q2Yzc2MTdlN2RlMGE4ZGQ1YzUzZDQ5OWNi",
+  "snapshot_id": "MCxmNjQyYmEwY2I4ZTk2ZGEzNTQ1YWY1NDk4MzgxOGM3ZjRjZjIwMGQ4",
   "tracks": [
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Wild Love",
+        "url": "https://open.spotify.com/album/0cExTBqPKBwY4o3Ubv4C6u"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "Wild Love",
+      "url": "https://open.spotify.com/track/6ZLLEQPZ5RfwKQUG5ebPKB"
+    },
     {
       "added_at": "2023-11-10 05:01:00",
       "album": {
@@ -43,22 +59,6 @@
       "duration_ms": 214572,
       "name": "Waste Of Time",
       "url": "https://open.spotify.com/track/6hN0tXlbsFFPJ3rADk48hk"
-    },
-    {
-      "added_at": "2023-10-13 04:01:00",
-      "album": {
-        "name": "Black Magic",
-        "url": "https://open.spotify.com/album/2AfgpZdbs8CI1MvjFaus2A"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 265720,
-      "name": "Black Magic",
-      "url": "https://open.spotify.com/track/4GuQf92xMVo9FYRYnj37OL"
     },
     {
       "added_at": "2023-11-10 05:01:00",

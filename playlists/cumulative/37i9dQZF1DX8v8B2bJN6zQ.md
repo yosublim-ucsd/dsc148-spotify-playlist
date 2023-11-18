@@ -4,7 +4,7 @@
 
 > Música eletrônica para aquele treino de peso.
 
-105 songs - 6 hr 5 min
+106 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Freak](https://open.spotify.com/track/6wZD3wwSe15cxUty6l5HPP) | [Undercue](https://open.spotify.com/artist/6BOGvgcLBptl2fGVXl93zk), [Hotweiller'S](https://open.spotify.com/artist/05PtQi4kXRQFPh1DOJkzce) | [Freak](https://open.spotify.com/album/1wSFyZNPmxrP7MF3ObmMAE) | 3:07 | 2021-12-17 |  |
 | [From the Jungle \- Original Mix](https://open.spotify.com/track/2BfEOtR3ZBZeVHBZr41OGC) | [4i20](https://open.spotify.com/artist/3zlIIVkWyNrNpeN8lO49aH) | [From the Jungle](https://open.spotify.com/album/2PTssqj1PE6Lj242tlyL0G) | 4:57 | 2022-04-29 | 2022-09-10 |
 | [Future](https://open.spotify.com/track/32VQjdJsS3EPF9fmIUAIPl) | [Dualmind](https://open.spotify.com/artist/2gNRZGT58XSTrInywjcgil), [Gandolfi B.](https://open.spotify.com/artist/0Js4sdeapMvJ4hB3KDq58J) | [Future](https://open.spotify.com/album/5pVzwUaHFDj7fi0bN3l3Uq) | 1:24 | 2021-12-17 |  |
+| [Future Scream](https://open.spotify.com/track/3JN0SMHCvA6wzmZndqmZcB) | [TOMA](https://open.spotify.com/artist/1s3CyvfKUCbNf3EIMg4TVe), [Pietro \(BR\)](https://open.spotify.com/artist/4Ms2A0pWyx4gUvrCXmH9bk) | [Future Scream](https://open.spotify.com/album/2vHkEeiYs6gddt6qSD3Df0) | 6:07 | 2023-11-17 |  |
 | [Galaxy Cluster](https://open.spotify.com/track/64knvzKFBcKZA4EoagRmpW) | [Scorsi](https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Galaxy Cluster](https://open.spotify.com/album/2jkRNLyreYjRMOsx4WsEtm) | 3:17 | 2021-12-17 |  |
 | [Get Down](https://open.spotify.com/track/3H2I7X7POFyU5vUudT9Zxx) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Get Down](https://open.spotify.com/album/3gt7gWjurvDydPSUNdirlA) | 3:46 | 2021-12-17 |  |
 | [Guataqui \- Remix \(Radio Mix\)](https://open.spotify.com/track/6jMrgBIdcjCzF5ds99giax) | [Torha](https://open.spotify.com/artist/0qTWpm6bIsQteve5t3Cyqg) | [Guataqui Remix EP](https://open.spotify.com/album/42MBCFxqN0tYGmBxiV4KK9) | 3:29 | 2021-12-17 |  |

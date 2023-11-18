@@ -755,6 +755,28 @@
     },
     {
       "album": {
+        "name": "Blue Lights (Major League DJz Remix)",
+        "url": "https://open.spotify.com/album/36ilkzGej6DS1vnWof1uT1"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 505277,
+      "name": "Blue Lights - Major League DJz Remix",
+      "url": "https://open.spotify.com/track/7sLsdhg4lYmftExXvRv4C2"
+    },
+    {
+      "album": {
         "name": "Renaissance (Remixes)",
         "url": "https://open.spotify.com/album/3eVVyHEF1waq5kbMFm9pdJ"
       },
@@ -1530,7 +1552,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 188307,
       "name": "Essa",
       "url": "https://open.spotify.com/track/33zoPV2LvkbsvBmG5RQLWI"
@@ -2793,6 +2815,36 @@
     },
     {
       "album": {
+        "name": "Lmk Pt. 1 (RICHTANNER\u00ae Remix)",
+        "url": "https://open.spotify.com/album/4cG95ddsN82FCuMFrQvDCJ"
+      },
+      "artists": [
+        {
+          "name": "RM47",
+          "url": "https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL"
+        },
+        {
+          "name": "MAAD",
+          "url": "https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd"
+        },
+        {
+          "name": "Raleigh",
+          "url": "https://open.spotify.com/artist/4wj7NpN3vew4FXcbYF7m2C"
+        },
+        {
+          "name": "RICHTANNER\u00ae",
+          "url": "https://open.spotify.com/artist/4FNt3NCIaotQhqsfXVpv8r"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228196,
+      "name": "Lmk Pt. 1 (RICHTANNER\u00ae Remix)",
+      "url": "https://open.spotify.com/track/7dyKCXrzSOXXmu413mdQVQ"
+    },
+    {
+      "album": {
         "name": "London",
         "url": "https://open.spotify.com/album/3SJLOFYu6mQm1UM1DAAfpc"
       },
@@ -2950,7 +3002,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 261290,
       "name": "Magic - Dave + Sam Remix",
       "url": "https://open.spotify.com/track/40ZMNSpiY0JvcdJZdqeY7f"

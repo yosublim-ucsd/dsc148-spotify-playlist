@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Spiritbox on top of the biggest Metal playlist.",
+  "description": "Polaris on top of the biggest Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -1180,6 +1180,28 @@
       "duration_ms": 147230,
       "name": "Burn",
       "url": "https://open.spotify.com/track/4ZQzRlJDaPAHT8KCrSp1Dg"
+    },
+    {
+      "album": {
+        "name": "Burn MF (feat. Rob Zombie)",
+        "url": "https://open.spotify.com/album/6VPBlSRkkWju1JgMxpVFqU"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217847,
+      "name": "Burn MF (feat. Rob Zombie)",
+      "url": "https://open.spotify.com/track/4zFrUrmwGjLWWDvlyOTcTu"
     },
     {
       "album": {
@@ -2752,7 +2774,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 214573,
       "name": "Echoes (Radio Edit)",
       "url": "https://open.spotify.com/track/3fFjk1czgVziPEQmcLlD0J"
@@ -3118,6 +3140,28 @@
       "duration_ms": 231159,
       "name": "Fedrekult",
       "url": "https://open.spotify.com/track/6USwgMF3VBSKMe14P0TJb4"
+    },
+    {
+      "album": {
+        "name": "Feeding Demons",
+        "url": "https://open.spotify.com/album/7rQCaT8IrSeHya58WzpGkG"
+      },
+      "artists": [
+        {
+          "name": "Self Deception",
+          "url": "https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0"
+        },
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197093,
+      "name": "Feeding Demons",
+      "url": "https://open.spotify.com/track/0S7aPnRsDKpvuKOt91iNdq"
     },
     {
       "album": {
@@ -4056,7 +4100,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 212878,
       "name": "Heretic (feat. Loz Taylor)",
       "url": "https://open.spotify.com/track/2mTi7e03FygOF0bds32848"
@@ -4637,6 +4681,24 @@
     },
     {
       "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262631,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
+    },
+    {
+      "album": {
         "name": "The Fear of Fear",
         "url": "https://open.spotify.com/album/10skiZ5i3pC9Ry0fVbLJU7"
       },
@@ -4648,7 +4710,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 262631,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/6UtIHnoagMCBVZCo5PKKYu"
@@ -4760,6 +4822,24 @@
       "duration_ms": 172019,
       "name": "Ketamine",
       "url": "https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj"
+    },
+    {
+      "album": {
+        "name": "Killshot",
+        "url": "https://open.spotify.com/album/6RLzKueY42p7BlSIRgOpVC"
+      },
+      "artists": [
+        {
+          "name": "Upon A Burning Body",
+          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152547,
+      "name": "Killshot",
+      "url": "https://open.spotify.com/track/3F8Bjx90CZMEWADfHSImPN"
     },
     {
       "album": {
@@ -6027,6 +6107,24 @@
     },
     {
       "album": {
+        "name": "Shrine (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4lVuGbhw2ly53pLTpyCDow"
+      },
+      "artists": [
+        {
+          "name": "Bleed From Within",
+          "url": "https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219666,
+      "name": "Overthrone",
+      "url": "https://open.spotify.com/track/5zXwa7RclZDap8ooWXEIyb"
+    },
+    {
+      "album": {
         "name": "Pain Remains I: Dancing Like Flames",
         "url": "https://open.spotify.com/album/2HRhcuqmyel4Zn92eeE3Cg"
       },
@@ -7208,7 +7306,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 178154,
       "name": "Six Feet Under",
       "url": "https://open.spotify.com/track/5DYCuzBPf13q0QZwQvjYzi"
@@ -8622,7 +8720,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 211555,
       "name": "The Scandinavian Dream",
       "url": "https://open.spotify.com/track/3ZItvJmLEg2wK2PmHpw0pR"
@@ -9138,7 +9236,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 232608,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/4mB4OnvJp7Grfw5U8AQMz9"
@@ -9347,6 +9445,24 @@
     },
     {
       "album": {
+        "name": "VIKING",
+        "url": "https://open.spotify.com/album/4DCEqAP5mAejmCP1y1SIYG"
+      },
+      "artists": [
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271000,
+      "name": "VIKING",
+      "url": "https://open.spotify.com/track/6Z5rBmAtaA29iD0H0LGKn7"
+    },
+    {
+      "album": {
         "name": "Violent Ends",
         "url": "https://open.spotify.com/album/0WH5ko6MEgIwIheIxo28Eg"
       },
@@ -9398,6 +9514,24 @@
       "duration_ms": 278181,
       "name": "Vultures of North",
       "url": "https://open.spotify.com/track/7EtQ5CqjSRgItuTYXeEtc9"
+    },
+    {
+      "album": {
+        "name": "Waco Jesus",
+        "url": "https://open.spotify.com/album/2l85mznhWykjvZEu4Lg5MS"
+      },
+      "artists": [
+        {
+          "name": "The Callous Daoboys",
+          "url": "https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221034,
+      "name": "Waco Jesus",
+      "url": "https://open.spotify.com/track/261sv3XoqTlv3TyrdL74bT"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Well known songs in a soft Bossa landscape.
 
-190 songs - 11 hr 3 min
+191 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [For Once In My Life](https://open.spotify.com/track/3ZjR1gKchO3742A8KRlVtQ) | [Brothers of Bossa](https://open.spotify.com/artist/1E7h6pUwUffzj0299qgm5y) | [For Once In My Life](https://open.spotify.com/album/5a29JELNdty5VN1G0aPZ8t) | 3:25 | 2022-03-10 |  |
 | [For Your Love](https://open.spotify.com/track/7aQl0tl7Dcf6doXtTgixwh) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [For Your Love](https://open.spotify.com/album/6rvpybNWiLEhQOadkUPDZj) | 3:14 | 2022-03-10 |  |
 | [Forever Young](https://open.spotify.com/track/1YoOexv2qAxVZo5xnLlt5h) | [Ashley Jones](https://open.spotify.com/artist/5oZSkpd6njJYnWjqINJ0nJ), [Ernesto Iglesias](https://open.spotify.com/artist/5BrmVInSMWFJLdLhtSIzgp) | [Forever Young](https://open.spotify.com/album/5ETornmpL2uUmYDdtF0Oy4) | 3:39 | 2022-03-10 | 2023-05-17 |
+| [From The Start](https://open.spotify.com/track/4LoPAEHD6VdEmBgMiWgEu2) | [Brad Gibbons](https://open.spotify.com/artist/07HQ4bkB1wrpo6AyJ5wCQh) | [From The Start](https://open.spotify.com/album/1JhWmyKkdLe6Q8OdA2gxWl) | 3:12 | 2023-11-17 |  |
 | [Garota de Ipanema \(The Girl From Ipanema\)](https://open.spotify.com/track/0xYbaQtR9Nj1VbkPPIAUII) | [Ituana](https://open.spotify.com/artist/4gus7u7NSeJ3OGIhOnNgIr) | [Chill in Saint Tropez](https://open.spotify.com/album/2gofzKGHpl3kezVkubqwNT) | 3:23 | 2022-07-01 | 2023-05-17 |
 | [Get Lucky](https://open.spotify.com/track/3r9exFdDYSr583KHHQ6FOl) | [Bossanova Tribute](https://open.spotify.com/artist/7Cnj4EbIbTSXZFsWuzyEic) | [Get Lucky](https://open.spotify.com/album/0oNss01Xphq9wWwOpiLkYQ) | 3:51 | 2022-08-26 |  |
 | [Girls Like You](https://open.spotify.com/track/269KxTQgkQuL9m5BQDESZn) | [Belmira](https://open.spotify.com/artist/4wsZN1JHWi561Kqlgo2cS1) | [Girls Like You](https://open.spotify.com/album/1LnVYXf8KSGZOKOtjnKMdl) | 3:13 | 2022-03-10 | 2022-07-02 |

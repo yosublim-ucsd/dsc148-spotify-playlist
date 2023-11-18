@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 
 > Relax to some gentle percussion from all corners of the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,586 likes - 66 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,710 likes - 65 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 | 62 | [Drums Trance](https://open.spotify.com/track/1JcK7vitQxpUHzUqnottXe) | [Shamanic Drumming World](https://open.spotify.com/artist/3B6W7sM7HLbRi9Min5tU56) | [Drums Trance of World \(Ritual Native Drumming, Ancient Sounds, Ethnic Journey, Healing Meditation\)](https://open.spotify.com/album/3QUAMlKM04VN1JAbok6H7R) | 4:07 |
 | 63 | [Yoga Dedication](https://open.spotify.com/track/26WbeejSj0noAKz9vdn9lr) | [Corrid](https://open.spotify.com/artist/14g5wTyk0UJsn5aB0zT8Gy) | [Yoga Dedication](https://open.spotify.com/album/7FvPfS5ebwgdEfj5SqACpU) | 2:33 |
 | 64 | [Mystique](https://open.spotify.com/track/79GIRejvbVrpQTc8287iYz) | [Tech Art](https://open.spotify.com/artist/1DAsNQc739srYx6Go2Evo8) | [Hang Drums](https://open.spotify.com/album/68kllnJ8TPDgacPsapIQBG) | 3:04 |
-| 65 | [Mystic Rhythms](https://open.spotify.com/track/4KB0XyhLTyPoZyLjodRGne) | [Deep Meditation](https://open.spotify.com/artist/2fqkqEsGgtIToaqV8snUV6) | [Deep Meditation](https://open.spotify.com/album/6E9qV9HvDHkmSEgx5pqUEO) | 2:15 |
-| 66 | [Meditation Hang](https://open.spotify.com/track/271abQ3QNCSWfqZqHva4zL) | [Ebenholthz](https://open.spotify.com/artist/638ZZLvfjyR45K1N6yD5Ip) | [Meditation Hang](https://open.spotify.com/album/7eHNKcRzBykX6q5Xyf9U5N) | 2:58 |
+| 65 | [Meditation Hang](https://open.spotify.com/track/271abQ3QNCSWfqZqHva4zL) | [Ebenholthz](https://open.spotify.com/artist/638ZZLvfjyR45K1N6yD5Ip) | [Meditation Hang](https://open.spotify.com/album/7eHNKcRzBykX6q5Xyf9U5N) | 2:58 |
 
-Snapshot ID: `MCxjODYyNThhN2ZjZjk2MWI4ZjE1Yzc4NjMzYTNiMmIyOGM2OTBhNzk2`
+Snapshot ID: `MCwyOGI0YzM4MmU0YjNmYTZhZjIwYzc3MjUyZDEzMTRkOGE0MTc4NGQ3`

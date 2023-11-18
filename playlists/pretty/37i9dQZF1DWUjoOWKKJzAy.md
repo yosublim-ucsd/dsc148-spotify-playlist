@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,329 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,650 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 41 | [Mesmo Que Seja Eu](https://open.spotify.com/track/3r0s5AzXXdMBa0itkeOOuV) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Obras\-Primas](https://open.spotify.com/album/7cG6amKhbF5wgxYlGBUGiS) | 4:42 |
 | 42 | [Alvorada Voraz \- Ao Vivo](https://open.spotify.com/track/4tjmnH63AMBjaPdtHOpq4Q) | [RPM](https://open.spotify.com/artist/7lfmakKFOeQWdUrbmVK6EQ) | [Radio Pirata Ao Vivo](https://open.spotify.com/album/5Ke99MN8fbp22N3XHf5g3S) | 3:43 |
 | 43 | [Corações Psicodélicos](https://open.spotify.com/track/7jkKJnqzBdoFySIYj9Ps6L) | [Lobão E Os Ronaldos](https://open.spotify.com/artist/09RGwhs3waXp27qkYuNRap) | [Ronaldo Foi Pra Guerra](https://open.spotify.com/album/0KdU1xRKnsMO85sAfLZQBH) | 3:40 |
-| 44 | [Fullgás](https://open.spotify.com/track/42ChWRndfQZ4AdoUXylEF1) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Mulheres da MPB](https://open.spotify.com/album/5xmXt1N4JJU6oupEeC2z2B) | 4:07 |
+| 44 | [Fullgás](https://open.spotify.com/track/0FjOKPV8de1qeCEVkQSjJD) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [MPB das Antigas](https://open.spotify.com/album/0z32eKIoo9B6Ynj6P4RXOe) | 4:07 |
 | 45 | [Polícia](https://open.spotify.com/track/1TieYORMOIeZoU2Yfkyfgs) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Cabeça Dinossauro \- Edição Comemorativa 30 anos \- Deluxe](https://open.spotify.com/album/43JdMQ3yDjaCna4aFf7PRC) | 4:20 |
 | 46 | [Baila Comigo](https://open.spotify.com/track/0dED0PRBM0fixceBz5s4XR) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7) | 5:30 |
 | 47 | [Tudo com você \- Remasterizado em 2001](https://open.spotify.com/track/1ipPANmeOEA3iBNKGnpzmR) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico](https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7) | 2:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 59 | [Totalmente Demais](https://open.spotify.com/track/6exOFodN8hAuPrD8NdXYN9) | [Hanoi Hanoi](https://open.spotify.com/artist/2TSkQV59O7ELjzRAsr13Kh) | [Hanoi\-Hanoi](https://open.spotify.com/album/16oTnKtddDj0aXdkDWkcSi) | 3:01 |
 | 60 | [Eu Não Matei Joana d'Arc](https://open.spotify.com/track/5I8DslpztOwOpwERbGGDTC) | [Camisa de Vênus](https://open.spotify.com/artist/6kJHpEjr5eNnVJeyfTbs3G) | [Batalhões de Estranhos](https://open.spotify.com/album/5Le2qjifHoAvAO0Yzl8E7T) | 3:45 |
 
-Snapshot ID: `MCxiODJkYTQ5Y2NkYTdkNmI4Mzk4OWMzNmJiYWIyNDUwODMwNDVjMTIw`
+Snapshot ID: `MCw0MmYwYjgxNzM2OTQwZjJiZDk4MzIxYmU0MzE1ZTMxY2U4NDYxMzMz`

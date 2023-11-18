@@ -4,7 +4,7 @@
 
 > La liste de lecture officielle de l’édition 2023 des Francos de Montréal!
 
-317 songs - 18 hr 12 min
+318 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,7 +223,8 @@
 | [Nouvelle administration](https://open.spotify.com/track/5zKfgwMZ96rJuLESVrucMW) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [Nouvelle administration](https://open.spotify.com/album/6TwsW9yNX4nRdcLE29dykh) | 3:18 | 2023-05-25 |  |
 | [On part au soleil](https://open.spotify.com/track/5yikl00UMH0xOi20EZbseB) | [Mort Rose](https://open.spotify.com/artist/1JmY8VAvHw5VxpjXQATbiu) | [Au revoir cowboys](https://open.spotify.com/album/2witoCBGvoGR7a8NDCHWgH) | 4:51 | 2022-05-25 | 2022-07-29 |
 | [Opium](https://open.spotify.com/track/1W325J3EXLqppfS7l8kX8g) | [B.B\. Jacques](https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52) | [Poésie d'une pulsion](https://open.spotify.com/album/5QInkfw4rXZuKb0lyThqlb) | 3:26 | 2023-05-24 |  |
-| [Or](https://open.spotify.com/track/6kVJIh50Nw8zDXCQEWAkBT) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD), [OneNessa](https://open.spotify.com/artist/72oaCcX2X3nBhyhZGEjnFK) | [Or](https://open.spotify.com/album/7baidwdjs0YAGX4eKVMK7e) | 3:27 | 2023-05-25 |  |
+| [Or](https://open.spotify.com/track/6kVJIh50Nw8zDXCQEWAkBT) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD), [OneNessa](https://open.spotify.com/artist/72oaCcX2X3nBhyhZGEjnFK) | [Or](https://open.spotify.com/album/7baidwdjs0YAGX4eKVMK7e) | 3:27 | 2023-05-25 | 2023-11-18 |
+| [Or](https://open.spotify.com/track/7xgslGPncPsM3K0h7B8KNI) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD), [OneNessa](https://open.spotify.com/artist/72oaCcX2X3nBhyhZGEjnFK) | [Elle était une fois](https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ) | 3:27 | 2023-05-25 |  |
 | [Oublie pas](https://open.spotify.com/track/1mDbWDkzeT50OIsGPK5FY8) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Saratoga](https://open.spotify.com/album/5HiUleHNA5jKXSzfoN65OB) | 4:57 | 2022-05-25 | 2022-07-29 |
 | [Oublie pas](https://open.spotify.com/track/5O3B5KtjvwNWhvTvPAhASO) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Saratoga](https://open.spotify.com/album/582dBlFn0Yuq8zMFir8t5s) | 4:57 | 2022-05-25 | 2023-04-13 |
 | [Où sera le monde](https://open.spotify.com/track/3b5qtWnYTEq6qubIjVxCbq) | [Marc Dupré](https://open.spotify.com/artist/6JhWoD4lxBqIkSYfhrWMDx) | [Où sera le monde](https://open.spotify.com/album/51jZXolIAU5X1g10td9Frl) | 3:58 | 2022-05-25 | 2023-04-13 |

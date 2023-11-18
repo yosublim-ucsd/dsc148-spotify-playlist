@@ -2384,7 +2384,7 @@
     {
       "album": {
         "name": "Padam Padam (HAAi Remix)",
-        "url": "https://open.spotify.com/album/7FMt7Ip2v9QKjNchUx1zFI"
+        "url": "https://open.spotify.com/album/1R0FX77T9YmpsHgKsMg2wA"
       },
       "artists": [
         {
@@ -2399,6 +2399,28 @@
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 392138,
+      "name": "Padam Padam (HAAi Remix)",
+      "url": "https://open.spotify.com/track/0hnYC81Psn8poERBlfkIFv"
+    },
+    {
+      "album": {
+        "name": "Padam Padam (HAAi Remix)",
+        "url": "https://open.spotify.com/album/7FMt7Ip2v9QKjNchUx1zFI"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
       "duration_ms": 392138,
       "name": "Padam Padam - HAAi Remix",
       "url": "https://open.spotify.com/track/1ZWoNoCNSZjxpEj7pYHkAo"

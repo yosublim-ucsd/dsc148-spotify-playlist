@@ -2,13 +2,15 @@
 
 ### [Novos Beats](https://open.spotify.com/playlist/37i9dQZF1DWSLpR93nYbUo)
 
-> Ouça as novidades da cena eletrônica\. Foto: Beltran
+> Ouça as novidades da cena eletrônica\. Foto: CEVITH
 
-136 songs - 7 hr 42 min
+142 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Part of Me](https://open.spotify.com/track/3zrOkMeDXnOXbMLIcqgDai) | [Dropack](https://open.spotify.com/artist/2KyCVyWufNDwx3XKKZIbXg), [Vicentini](https://open.spotify.com/artist/6uWFAuJj9zE1sBash9M1Af) | [A Part of Me](https://open.spotify.com/album/1YuB9ZIvLaHHgINOWDMjdl) | 3:31 | 2023-07-21 |  |
+| [Acid](https://open.spotify.com/track/7z3iKojTFiMK14ZbnScRYm) | [SATNIK](https://open.spotify.com/artist/1xtaRlIJ0phsrjkimeMFul) | [Acid](https://open.spotify.com/album/37O0zfeJg2M7O9HVnNMpm1) | 3:51 | 2023-11-17 |  |
+| [Addiction](https://open.spotify.com/track/3iHcrIMCMEZz7fC8RV9TJ9) | [Dopelerz](https://open.spotify.com/artist/7vVYsm8yfMKCaXp2nwPIL5) | [Addiction](https://open.spotify.com/album/0WvjKeYDLxgYqXeTxMDoMr) | 5:02 | 2023-11-17 |  |
 | [Agikuyu](https://open.spotify.com/track/3WyHX9IjbSpq31wmjYA1fs) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [The Angels](https://open.spotify.com/artist/2pVGLwnxVTzWK6fdTzwVSz) | [Agikuyu](https://open.spotify.com/album/35qPIZC96TGlh47r8viL6Y) | 6:31 | 2023-08-18 | 2023-10-14 |
 | [Ai Papi](https://open.spotify.com/track/2e7a4odH1FkMKAPGFRxkaO) | [Pizzolo](https://open.spotify.com/artist/4OHphxLRxjo5L6Y09rp50a), [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi) | [Ai Papi](https://open.spotify.com/album/4Izv8PBQCEl7emlpB4mbir) | 3:08 | 2023-08-04 |  |
 | [Algo\-Rhythm](https://open.spotify.com/track/0d0sOLCfbxF9dLy5gihuir) | [From House To Disco](https://open.spotify.com/artist/4Om5TKdmuYUR1Slg1jKBnc) | [Algo\-Rhythm](https://open.spotify.com/album/0WtnaH4yQfcENErwoa3zcu) | 6:22 | 2023-10-06 |  |
@@ -24,10 +26,12 @@
 | [Calling \(Tim van Werd Remix\)](https://open.spotify.com/track/53ZRuhUxCd5c7UPeG0bfoO) | [Audax](https://open.spotify.com/artist/1rO63jwF9XN02UDK5hvdIL), [Tim van Werd](https://open.spotify.com/artist/5UgA77bKieWHI27WVk6bPE) | [Calling \(Tim van Werd Remix\)](https://open.spotify.com/album/0MxJR9yLoOTN0nTwWVYOAw) | 4:00 | 2023-07-21 | 2023-08-05 |
 | [Chaos](https://open.spotify.com/track/3RsQfPddQkAv0cI4rZoXGK) | [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv) | [Chaos](https://open.spotify.com/album/5Bk8i6MnmJDnFw0AOHeEHK) | 2:43 | 2023-07-21 |  |
 | [Chasing Light](https://open.spotify.com/track/4N1z2twAYP5PDqqfFQ4Das) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4), [ANDREOS](https://open.spotify.com/artist/7twEvwc7oU5xGnWMVg1mdJ) | [Chasing Light](https://open.spotify.com/album/1ORBkNv6tEkdKfeDIThsq0) | 2:18 | 2023-07-21 | 2023-09-30 |
+| [Close To Me](https://open.spotify.com/track/1oeSKljuCK0KcrpmG9QKE8) | [BeMore](https://open.spotify.com/artist/6UWQUGtl6mwyjJeLnhYXBY) | [Close To Me](https://open.spotify.com/album/6zqlz5x1Jgrl5LikzEVobS) | 5:30 | 2023-11-17 |  |
 | [Closure](https://open.spotify.com/track/7bda2Oolx0yPguJMLAGCCz) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Closure](https://open.spotify.com/album/2it7NGuUH6O3MuyP6cdEpR) | 3:08 | 2023-07-21 | 2023-09-16 |
 | [Cocaína](https://open.spotify.com/track/5WyOfc3pkG3RiZqx5pbpVm) | [INDECK.](https://open.spotify.com/artist/0vkZ3GrLFGOe2rANGmmaYY) | [Cocaína](https://open.spotify.com/album/0gbIYPcULYJPknxGt6Ws4d) | 3:17 | 2023-07-21 | 2023-10-14 |
 | [Cold](https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Cold](https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6) | 3:42 | 2023-07-21 | 2023-10-28 |
 | [Cold Blooded](https://open.spotify.com/track/0V4rYVShLtyR1yzucwGv9i) | [Reznikov](https://open.spotify.com/artist/2INLOHIkRAYNha5uKGiRhn) | [Cold Blooded](https://open.spotify.com/album/2Te4z1uLkph7BYkZBjqGka) | 2:36 | 2023-07-21 | 2023-09-23 |
+| [Collapse](https://open.spotify.com/track/4tTXKlq8TADdbjkA21YThx) | [ZARO](https://open.spotify.com/artist/5cJZAC1qGuGBqk1kAKvQCk), [Moonphazes](https://open.spotify.com/artist/5B6a4tvHuhbxL5sNHRbbKH) | [Collapse](https://open.spotify.com/album/2csn3ac1mcHWk3OBZoJVym) | 3:44 | 2023-11-17 |  |
 | [Cumbia Buena](https://open.spotify.com/track/1kaobV65EeJJ5uws9mXyNI) | [Cladigal](https://open.spotify.com/artist/6xolTfoP9iAYak6NtI6xIV) | [Cumbia Buena](https://open.spotify.com/album/5Pnpu7uJ7z78MHN8ltdfdo) | 2:21 | 2023-07-21 | 2023-08-19 |
 | [Céu e Mar](https://open.spotify.com/track/1WtaYIG5cJyBzqfCmgTbKY) | [Scarlatelli](https://open.spotify.com/artist/2nCSt18IzRNPNaErD5anO4), [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ) | [Céu e Mar](https://open.spotify.com/album/7gwhnfEsyUAEvmWuywcKlr) | 3:07 | 2023-09-15 | 2023-09-30 |
 | [Desce](https://open.spotify.com/track/6bTlmguryAksEPZSi40KTY) | [Low Disco](https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx) | [Desce](https://open.spotify.com/album/4znhwDlqA9l1Bezbs28IT0) | 2:49 | 2023-10-27 |  |
@@ -84,6 +88,7 @@
 | [Nervous](https://open.spotify.com/track/4dnbjKpg4V3gpUx3LGsYQl) | [Gommez](https://open.spotify.com/artist/5uktODBsdy22PAFGFO47xg) | [Nervous](https://open.spotify.com/album/6dXxo7cdZU34QtCPulh09v) | 3:51 | 2023-09-15 |  |
 | [Never Coming Back](https://open.spotify.com/track/6W6ry3cptNbQPR2jLuKhZO) | [Reznikov](https://open.spotify.com/artist/2INLOHIkRAYNha5uKGiRhn) | [Never Coming Back](https://open.spotify.com/album/0f84YUDjJSQ4vMESPhl8QF) | 2:42 | 2023-07-21 |  |
 | [No More](https://open.spotify.com/track/1FeiuCLt5LZcCmBdVHfkcs) | [Reznikov](https://open.spotify.com/artist/2INLOHIkRAYNha5uKGiRhn) | [No More](https://open.spotify.com/album/1ds0Q6TijhktHgKsLVAUEL) | 2:12 | 2023-07-21 | 2023-10-14 |
+| [Oh Low](https://open.spotify.com/track/7nI3oWYKEMWwcddD4SpUvg) | [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv) | [Oh Low](https://open.spotify.com/album/0rOH0FxIi30rsZ8kYbb2zR) | 2:53 | 2023-11-17 |  |
 | [Ordinary World](https://open.spotify.com/track/250Xm7kH7epgWv5oUhKADC) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [JOY RIVO & JTO](https://open.spotify.com/artist/4aB7BI0wBiIkqcOPYRpRJg) | [Ordinary World](https://open.spotify.com/album/7F9rAbXgfQ7vf60RThaZHb) | 4:12 | 2023-10-06 |  |
 | [Out of Time](https://open.spotify.com/track/5ePXQ8wBycFbweVtBsqTjB) | [Pic Schmitz](https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl) | [Out of Time](https://open.spotify.com/album/3e8PYgcrCI6sDOQKXXhhRq) | 2:47 | 2023-09-29 |  |
 | [Overload](https://open.spotify.com/track/4i8yLP8Ev25ol5Jd5yVzY0) | [Bigfett](https://open.spotify.com/artist/7x68cYMeDnvneRvfFyEyae) | [Overload](https://open.spotify.com/album/6DmIb9muprEJypLlBtdXUu) | 5:33 | 2023-07-21 | 2023-10-28 |
@@ -130,6 +135,7 @@
 | [Tira A Camisa](https://open.spotify.com/track/74wXmElNAq0vNBS47FiZSz) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Tira A Camisa](https://open.spotify.com/album/2uNjixcI6TJrlOcJfbJyuF) | 3:00 | 2023-09-22 |  |
 | [Tonight](https://open.spotify.com/track/4xF3hjfUUEAOQESZmBwbnv) | [Royale BR](https://open.spotify.com/artist/6OLLWuyehNLw5nFKLok3gs) | [Tonight](https://open.spotify.com/album/04F8y4KfwMra5M1l3gplna) | 3:00 | 2023-08-25 |  |
 | [Trippin](https://open.spotify.com/track/4iU5SbOCM3kEdkOV8Isbm1) | [Low Disco](https://open.spotify.com/artist/2vIT4AnEcrFuJaS2JYYVjx) | [Refused EP](https://open.spotify.com/album/6vX6OrdwL9rJwQold48e9C) | 3:16 | 2023-10-13 |  |
+| [Trust Yourself \- RAMAH Remix](https://open.spotify.com/track/7fRkT3nEZ9dcdReEDiP8lC) | [CEVITH](https://open.spotify.com/artist/0R5cBqUk6GntjEAHrAQxjd), [RAMAH](https://open.spotify.com/artist/1Mk6KWgnA9JzOnS1TgSwJi) | [Trust Yourself \(RAMAH Remix\)](https://open.spotify.com/album/2fjKSDSWwUoVKJtzMaitUH) | 4:13 | 2023-11-17 |  |
 | [Try](https://open.spotify.com/track/6SdMZ4jklZZNtuzNVQZPCY) | [Royale BR](https://open.spotify.com/artist/6OLLWuyehNLw5nFKLok3gs) | [Try](https://open.spotify.com/album/37WRmPS6elxB9UQZw84GTH) | 2:26 | 2023-10-20 |  |
 | [Tugudu](https://open.spotify.com/track/7pobnc2nZR6B1BWXksLPz9) | [Gustavo Mota](https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1) | [Tugudu](https://open.spotify.com/album/4X8ykiffFeI1RPpC0gVAxr) | 3:31 | 2023-09-01 |  |
 | [Unfair](https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Unfair](https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ) | 4:07 | 2023-10-20 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: YongYong(\uc6a9\uc6a9)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: It's(\uc787\uce20)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "In The K-Indie",
   "tracks": [
     {
@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 360701,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/0pku1ikLOgKnYIYbhOTpbZ"
@@ -2682,7 +2682,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 284000,
       "name": "Extinction",
       "url": "https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB"
@@ -2704,6 +2704,24 @@
       "duration_ms": 236440,
       "name": "Eyes on you",
       "url": "https://open.spotify.com/track/1sdCoReUzXPLDIJ2i9ConA"
+    },
+    {
+      "album": {
+        "name": "Fading Person, Fading Love",
+        "url": "https://open.spotify.com/album/7zm4iYoy893pHeRYQKLGVr"
+      },
+      "artists": [
+        {
+          "name": "IT\u2019S",
+          "url": "https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232656,
+      "name": "Fading Person, Fading Love",
+      "url": "https://open.spotify.com/track/64yMSkIEN5JJWUOhtSd3hl"
     },
     {
       "album": {
@@ -4014,7 +4032,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 186120,
       "name": "Hug",
       "url": "https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq"
@@ -7436,7 +7454,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 181266,
       "name": "pony",
       "url": "https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V"
@@ -7552,7 +7570,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 81000,
       "name": "Punchdrunklovesong",
       "url": "https://open.spotify.com/track/31LkUlLS286dpY3LbAxRbg"

@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Sof\u00eda Reyes & Be\u00e9le",
-  "num_followers": 1903988,
+  "num_followers": 1904139,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjY4ZGRhYmM1YTNjMzliNTMyYTNjYjk0NmQ0ODE4ZjI1ODY0NDRh",
+  "snapshot_id": "MCxjZjdjZjE4MGYxMmNkYTMzMDEwMmQ4OTVjOTQ5MWExMzhjYmRhNmY0",
   "tracks": [
     {
       "added_at": "2023-11-10 00:37:25",
@@ -915,6 +915,26 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno",
+          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 204324,
+      "name": "Nuestro Amor",
+      "url": "https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz"
+    },
+    {
+      "added_at": "2023-11-10 00:37:25",
+      "album": {
         "name": "No Es Casualidad",
         "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 202702,
       "name": "Amigos (con Maria Becerra) - Bachata",
       "url": "https://open.spotify.com/track/1WKrbAsxU1btgN76QZiZUS"
-    },
-    {
-      "added_at": "2023-11-10 00:37:25",
-      "album": {
-        "name": "Nuestro Amor",
-        "url": "https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg"
-      },
-      "artists": [
-        {
-          "name": "Alex Bueno",
-          "url": "https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 204324,
-      "name": "Nuestro Amor",
-      "url": "https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz"
     },
     {
       "added_at": "2023-11-10 00:37:25",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
-        "name": "Llora Alma Mia",
-        "url": "https://open.spotify.com/album/4NCFudOnqbnak0laoZN2so"
-      },
-      "artists": [
-        {
-          "name": "Yoskar Sarante",
-          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
-        }
-      ],
-      "duration_ms": 261519,
-      "name": "Llora Alma M\u00eda",
-      "url": "https://open.spotify.com/track/6KioOiN7xTcjhlYC88qkgb"
-    },
-    {
-      "added_at": "2023-11-10 00:37:25",
-      "album": {
         "name": "Cu\u00e1ndo",
         "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
       },
@@ -1039,22 +1023,34 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
-        "name": "AVENTURA",
-        "url": "https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf"
+        "name": "Que Sera de Mi",
+        "url": "https://open.spotify.com/album/6S2qBQU4NA4ZEOzARrS1QF"
       },
       "artists": [
         {
-          "name": "ZABDIEL",
-          "url": "https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5"
-        },
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+          "name": "El Varon de la bachata",
+          "url": "https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV"
         }
       ],
-      "duration_ms": 193059,
-      "name": "AVENTURA",
-      "url": "https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY"
+      "duration_ms": 271066,
+      "name": "Que Sera de Mi",
+      "url": "https://open.spotify.com/track/4T7xZSaBTDUmUWjnHtnSvQ"
+    },
+    {
+      "added_at": "2023-11-10 00:37:25",
+      "album": {
+        "name": "Llora Alma Mia",
+        "url": "https://open.spotify.com/album/4NCFudOnqbnak0laoZN2so"
+      },
+      "artists": [
+        {
+          "name": "Yoskar Sarante",
+          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
+        }
+      ],
+      "duration_ms": 261519,
+      "name": "Llora Alma M\u00eda",
+      "url": "https://open.spotify.com/track/6KioOiN7xTcjhlYC88qkgb"
     },
     {
       "added_at": "2023-11-10 00:37:25",
@@ -1075,18 +1071,22 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
-        "name": "Que Sera de Mi",
-        "url": "https://open.spotify.com/album/6S2qBQU4NA4ZEOzARrS1QF"
+        "name": "AVENTURA",
+        "url": "https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf"
       },
       "artists": [
         {
-          "name": "El Varon de la bachata",
-          "url": "https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV"
+          "name": "ZABDIEL",
+          "url": "https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
         }
       ],
-      "duration_ms": 271066,
-      "name": "Que Sera de Mi",
-      "url": "https://open.spotify.com/track/4T7xZSaBTDUmUWjnHtnSvQ"
+      "duration_ms": 193059,
+      "name": "AVENTURA",
+      "url": "https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY"
     },
     {
       "added_at": "2023-11-10 00:37:25",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
-        "name": "Mi Secreto",
-        "url": "https://open.spotify.com/album/78zqrmLSjeNYaebSKuYzA8"
-      },
-      "artists": [
-        {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
-        }
-      ],
-      "duration_ms": 179834,
-      "name": "Mi Secreto",
-      "url": "https://open.spotify.com/track/0EL8nDCstXlfIUONRc8JTj"
-    },
-    {
-      "added_at": "2023-11-10 00:37:25",
-      "album": {
         "name": "Fronteo",
         "url": "https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 152750,
       "name": "Fronteo",
       "url": "https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP"
+    },
+    {
+      "added_at": "2023-11-10 00:37:25",
+      "album": {
+        "name": "Mi Secreto",
+        "url": "https://open.spotify.com/album/78zqrmLSjeNYaebSKuYzA8"
+      },
+      "artists": [
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "duration_ms": 179834,
+      "name": "Mi Secreto",
+      "url": "https://open.spotify.com/track/0EL8nDCstXlfIUONRc8JTj"
     },
     {
       "added_at": "2023-11-10 00:37:25",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
-        "name": "Un Cigarro",
-        "url": "https://open.spotify.com/album/1NKKhRimH5g5lx2OvugEP9"
-      },
-      "artists": [
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "Un Cigarro",
-      "url": "https://open.spotify.com/track/0uxC2t9CLv0vwnmJo5bEEB"
-    },
-    {
-      "added_at": "2023-11-10 00:37:25",
-      "album": {
         "name": "Sin Tu Amor",
         "url": "https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 161835,
       "name": "Sin Tu Amor",
       "url": "https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl"
+    },
+    {
+      "added_at": "2023-11-10 00:37:25",
+      "album": {
+        "name": "Un Cigarro",
+        "url": "https://open.spotify.com/album/1NKKhRimH5g5lx2OvugEP9"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "Un Cigarro",
+      "url": "https://open.spotify.com/track/0uxC2t9CLv0vwnmJo5bEEB"
     },
     {
       "added_at": "2023-11-10 00:37:25",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
+        "name": "Episodes",
+        "url": "https://open.spotify.com/album/3vqTjdJXz04qS8yhmd84E6"
+      },
+      "artists": [
+        {
+          "name": "Kewin Cosmos",
+          "url": "https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT"
+        }
+      ],
+      "duration_ms": 217222,
+      "name": "Solo Quise Quererte",
+      "url": "https://open.spotify.com/track/1LVgUFUPg5M8uz6RGCovfp"
+    },
+    {
+      "added_at": "2023-11-10 00:37:25",
+      "album": {
         "name": "Y Los Claveles Mios",
         "url": "https://open.spotify.com/album/4BWwsPAtWQClj4WvrQOL68"
       },
@@ -1463,18 +1479,18 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
-        "name": "Episodes",
-        "url": "https://open.spotify.com/album/3vqTjdJXz04qS8yhmd84E6"
+        "name": "Johnny Sky",
+        "url": "https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi"
       },
       "artists": [
         {
-          "name": "Kewin Cosmos",
-          "url": "https://open.spotify.com/artist/1nf6gLEC45OmoJFIxU7aUT"
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
         }
       ],
-      "duration_ms": 217222,
-      "name": "Solo Quise Quererte",
-      "url": "https://open.spotify.com/track/1LVgUFUPg5M8uz6RGCovfp"
+      "duration_ms": 237998,
+      "name": "With or Without You",
+      "url": "https://open.spotify.com/track/4oByhbsmy68c2V7GUEMr22"
     },
     {
       "added_at": "2023-11-10 00:37:25",
@@ -1495,6 +1511,22 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
+        "name": "La Voz de La Juventud",
+        "url": "https://open.spotify.com/album/5fVuQ17Py7H1s5LAboQRGO"
+      },
+      "artists": [
+        {
+          "name": "Toby Love",
+          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
+        }
+      ],
+      "duration_ms": 250546,
+      "name": "Te Parece Poco",
+      "url": "https://open.spotify.com/track/2uSSzhpzGhLxAsArQH8DVW"
+    },
+    {
+      "added_at": "2023-11-10 00:37:25",
+      "album": {
         "name": "NATTIVIDAD",
         "url": "https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM"
       },
@@ -1511,18 +1543,18 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
-        "name": "La Voz de La Juventud",
-        "url": "https://open.spotify.com/album/5fVuQ17Py7H1s5LAboQRGO"
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/51sUzxktVYZSJdt34KR2e9"
       },
       "artists": [
         {
-          "name": "Toby Love",
-          "url": "https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN"
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
         }
       ],
-      "duration_ms": 250546,
-      "name": "Te Parece Poco",
-      "url": "https://open.spotify.com/track/2uSSzhpzGhLxAsArQH8DVW"
+      "duration_ms": 184746,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/6hcK1eyxzMGoYbdO8predv"
     },
     {
       "added_at": "2023-11-10 00:37:25",
@@ -1560,25 +1592,9 @@
           "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
         }
       ],
-      "duration_ms": 237998,
-      "name": "With or Without You",
-      "url": "https://open.spotify.com/track/4oByhbsmy68c2V7GUEMr22"
-    },
-    {
-      "added_at": "2023-11-10 00:37:25",
-      "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/51sUzxktVYZSJdt34KR2e9"
-      },
-      "artists": [
-        {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
-        }
-      ],
-      "duration_ms": 184746,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/6hcK1eyxzMGoYbdO8predv"
+      "duration_ms": 229032,
+      "name": "En Todo Fuiste la Mejor",
+      "url": "https://open.spotify.com/track/3nGuOrT9PqwVYQWamSryIA"
     },
     {
       "added_at": "2023-11-10 00:37:25",
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
-        "name": "Religi\u00f3n",
-        "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
-      },
-      "artists": [
-        {
-          "name": "Jhoni The Voice",
-          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
-        }
-      ],
-      "duration_ms": 220903,
-      "name": "Religi\u00f3n",
-      "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
-    },
-    {
-      "added_at": "2023-11-10 00:37:25",
-      "album": {
         "name": "Toby Love",
         "url": "https://open.spotify.com/album/4fbI9fPXCA7DZkkef3rBuG"
       },
@@ -1643,22 +1643,6 @@
       "duration_ms": 258866,
       "name": "Tengo un Amor",
       "url": "https://open.spotify.com/track/4dz2XW41AQTMn0bFKzaqsr"
-    },
-    {
-      "added_at": "2023-11-10 00:37:25",
-      "album": {
-        "name": "Johnny Sky",
-        "url": "https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi"
-      },
-      "artists": [
-        {
-          "name": "Johnny Sky",
-          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
-        }
-      ],
-      "duration_ms": 229032,
-      "name": "En Todo Fuiste la Mejor",
-      "url": "https://open.spotify.com/track/3nGuOrT9PqwVYQWamSryIA"
     },
     {
       "added_at": "2023-11-10 00:37:25",
@@ -1679,6 +1663,22 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
+        "name": "Religi\u00f3n",
+        "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
+      },
+      "artists": [
+        {
+          "name": "Jhoni The Voice",
+          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
+        }
+      ],
+      "duration_ms": 220903,
+      "name": "Religi\u00f3n",
+      "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
+    },
+    {
+      "added_at": "2023-11-10 00:37:25",
+      "album": {
         "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura",
         "url": "https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k"
       },
@@ -1691,6 +1691,22 @@
       "duration_ms": 257186,
       "name": "Los Infieles",
       "url": "https://open.spotify.com/track/6IBrFNHdmwP244yzpRLetH"
+    },
+    {
+      "added_at": "2023-11-10 00:37:25",
+      "album": {
+        "name": "Dime C\u00f3mo Se Siente",
+        "url": "https://open.spotify.com/album/4wMRyvWczYmzYRBU6cacKJ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+        }
+      ],
+      "duration_ms": 160163,
+      "name": "Dime C\u00f3mo Se Siente",
+      "url": "https://open.spotify.com/track/3EJ6TrlfKKiP1PMZhjuT2r"
     },
     {
       "added_at": "2023-11-10 00:37:25",
@@ -1723,22 +1739,6 @@
       "duration_ms": 229369,
       "name": "Soy Yo",
       "url": "https://open.spotify.com/track/3K2UhwxyWdtnukemG2yiP0"
-    },
-    {
-      "added_at": "2023-11-10 00:37:25",
-      "album": {
-        "name": "Clavada En Mi Cuerpo",
-        "url": "https://open.spotify.com/album/5k3fW7bHYsk7dSDD89FZiJ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Simo",
-          "url": "https://open.spotify.com/artist/4HZGfCiVVgfmaKlvyIF65k"
-        }
-      ],
-      "duration_ms": 200769,
-      "name": "Clavada En Mi Cuerpo",
-      "url": "https://open.spotify.com/track/2r8f3ojwoRpnz6Aszufnrt"
     }
   ],
   "unique_name": "Bachata Lovers",

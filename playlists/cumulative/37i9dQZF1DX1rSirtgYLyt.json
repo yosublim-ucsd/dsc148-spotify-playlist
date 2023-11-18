@@ -349,6 +349,24 @@
     },
     {
       "album": {
+        "name": "Piece by Piece",
+        "url": "https://open.spotify.com/album/6IuXcCOQ3GyLxWmxAvmlXG"
+      },
+      "artists": [
+        {
+          "name": "Katie Melua",
+          "url": "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252800,
+      "name": "Blues In The Night",
+      "url": "https://open.spotify.com/track/1IcHVgTHH8ec7oU02RLa5A"
+    },
+    {
+      "album": {
         "name": "Piece By Piece",
         "url": "https://open.spotify.com/album/39LGwjgf2oV1BlCPsuLp4S"
       },
@@ -360,7 +378,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 252800,
       "name": "Blues In The Night",
       "url": "https://open.spotify.com/track/50y2NVBilJvswKuQn5qe5x"

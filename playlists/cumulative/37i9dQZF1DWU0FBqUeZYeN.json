@@ -358,10 +358,28 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 141506,
       "name": "All Day and All of the Night",
       "url": "https://open.spotify.com/track/78JmElAFmrPNhLjovDR9Jm"
+    },
+    {
+      "album": {
+        "name": "Kinks (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142226,
+      "name": "All Day and All of the Night",
+      "url": "https://open.spotify.com/track/1mfV2kv9RwFKVI8kEQlmOJ"
     },
     {
       "album": {
@@ -808,10 +826,28 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 105400,
       "name": "Come On Now",
       "url": "https://open.spotify.com/track/0jC2XPH7vnNK5ol0bfC8Zs"
+    },
+    {
+      "album": {
+        "name": "Kinda Kinks (Deluxe)",
+        "url": "https://open.spotify.com/album/7eg8HfRw9SIlcF78gse2i3"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "date_added": "2019-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105400,
+      "name": "Come On Now",
+      "url": "https://open.spotify.com/track/450lWzLM8T80sjJyFRWfPe"
     },
     {
       "album": {

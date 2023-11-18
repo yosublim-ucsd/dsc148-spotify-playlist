@@ -1875,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "Dashing Through the Snow (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/21yMUgO7F4MrEsEbDb7avs"
+      },
+      "artists": [
+        {
+          "name": "C.S. Armstrong",
+          "url": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169246,
+      "name": "Santa You're Alright",
+      "url": "https://open.spotify.com/track/4ulvNL6uOQPAT4HwYpKDby"
+    },
+    {
+      "album": {
         "name": "The Muppets Christmas Carol",
         "url": "https://open.spotify.com/album/0bIXffBZFKL5bj7A2Whpm4"
       },

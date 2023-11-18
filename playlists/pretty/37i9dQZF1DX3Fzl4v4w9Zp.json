@@ -1,13 +1,33 @@
 {
-  "description": "Keep your finger on the pulse of Americana. Cover: Allison Russell",
-  "num_followers": 613357,
+  "description": "Keep your finger on the pulse of Americana. Cover: The War & Treaty",
+  "num_followers": 613396,
   "original_name": "The Pulse of Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDk2Yzc0ZjZhYmY2ZGMzZGJkZmJjODI2ZDM3MmQxOTc4MjRkMTZi",
+  "snapshot_id": "MCwyZDQ1Zjg1ZWRiOWQ3MzY1YzM0YmRiNjk5N2I2NjRiZGE0ZGYwZTFj",
   "tracks": [
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Crossing Lines",
+        "url": "https://open.spotify.com/album/0iXQJDkspV7JKEcpm6G1uu"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 232763,
+      "name": "Beautiful Lies",
+      "url": "https://open.spotify.com/track/4CJQwcIon6uKc3gfIivuhS"
+    },
     {
       "added_at": "2023-11-10 20:04:35",
       "album": {
@@ -29,6 +49,90 @@
       "url": "https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD"
     },
     {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Life Lessons",
+        "url": "https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "duration_ms": 195505,
+      "name": "Life Lessons",
+      "url": "https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "duration_ms": 169243,
+      "name": "Winter's Come and Gone - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/7vN6yDVTOphQUXJ1leQgPB"
+    },
+    {
+      "added_at": "2023-11-10 20:04:35",
+      "album": {
+        "name": "Ready or Not (feat. Sierra Ferrell)",
+        "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 192901,
+      "name": "Ready or Not (feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
+    },
+    {
+      "added_at": "2023-11-10 20:04:35",
+      "album": {
+        "name": "Alibi",
+        "url": "https://open.spotify.com/album/78PATBFddEnFXyVUDFjnXN"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 168705,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/67LSydi0LL1jlubbA7F5st"
+    },
+    {
+      "added_at": "2023-11-10 20:04:35",
+      "album": {
+        "name": "The Returner",
+        "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 230920,
+      "name": "The Returner",
+      "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
+    },
+    {
       "added_at": "2023-11-10 20:04:35",
       "album": {
         "name": "Heat Comes Down",
@@ -43,6 +147,38 @@
       "duration_ms": 217653,
       "name": "Press On",
       "url": "https://open.spotify.com/track/0pfcSDN5SE7WBG5DNaSBLs"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 222326,
+      "name": "The Garden - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/57mPJPpQCVS7bisURsmrJZ"
+    },
+    {
+      "added_at": "2023-11-10 20:04:35",
+      "album": {
+        "name": "No Better Time",
+        "url": "https://open.spotify.com/album/0RrvvsNs4lpXuf7VHI8z4s"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "Coal",
+      "url": "https://open.spotify.com/track/6soie0LfhmsNjieMolzHnG"
     },
     {
       "added_at": "2023-11-10 20:04:35",
@@ -61,6 +197,22 @@
       "url": "https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl"
     },
     {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Wondering Why",
+        "url": "https://open.spotify.com/album/5WtlaMCff9QS0I76EE7lge"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "duration_ms": 232917,
+      "name": "Wondering Why",
+      "url": "https://open.spotify.com/track/158mZIMC4X58ZJK4fJfH1b"
+    },
+    {
       "added_at": "2023-11-10 20:04:35",
       "album": {
         "name": "Pain Pills Or Pews EP",
@@ -75,22 +227,6 @@
       "duration_ms": 225708,
       "name": "Where It's Blue",
       "url": "https://open.spotify.com/track/6i7QP9auNhpIZgPopuXPOm"
-    },
-    {
-      "added_at": "2023-11-10 20:04:35",
-      "album": {
-        "name": "Alibi",
-        "url": "https://open.spotify.com/album/78PATBFddEnFXyVUDFjnXN"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 168705,
-      "name": "Alibi",
-      "url": "https://open.spotify.com/track/67LSydi0LL1jlubbA7F5st"
     },
     {
       "added_at": "2023-11-10 20:04:35",
@@ -127,22 +263,6 @@
     {
       "added_at": "2023-11-10 20:04:35",
       "album": {
-        "name": "No Better Time",
-        "url": "https://open.spotify.com/album/0RrvvsNs4lpXuf7VHI8z4s"
-      },
-      "artists": [
-        {
-          "name": "Dylan Gossett",
-          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "Coal",
-      "url": "https://open.spotify.com/track/6soie0LfhmsNjieMolzHnG"
-    },
-    {
-      "added_at": "2023-11-10 20:04:35",
-      "album": {
         "name": "Rock Bottom",
         "url": "https://open.spotify.com/album/21PZ6vS8uahnrZmySYDh3K"
       },
@@ -159,42 +279,6 @@
     {
       "added_at": "2023-11-10 20:04:35",
       "album": {
-        "name": "The Returner",
-        "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 230920,
-      "name": "The Returner",
-      "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
-    },
-    {
-      "added_at": "2023-11-10 20:04:35",
-      "album": {
-        "name": "Ready or Not (feat. Sierra Ferrell)",
-        "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 192901,
-      "name": "Ready or Not (feat. Sierra Ferrell)",
-      "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
-    },
-    {
-      "added_at": "2023-11-10 20:04:35",
-      "album": {
         "name": "Coyote",
         "url": "https://open.spotify.com/album/5Hri5F7ckbeJ6cvRd88efH"
       },
@@ -207,22 +291,6 @@
       "duration_ms": 214453,
       "name": "The Crowd Goes Wlld",
       "url": "https://open.spotify.com/track/6kAl28NPp8AFgGZM8ycyx4"
-    },
-    {
-      "added_at": "2023-11-10 20:04:35",
-      "album": {
-        "name": "Family Ties (Sampler)",
-        "url": "https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz"
-      },
-      "artists": [
-        {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
-        }
-      ],
-      "duration_ms": 228346,
-      "name": "All Again",
-      "url": "https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D"
     },
     {
       "added_at": "2023-11-10 20:04:35",
@@ -291,6 +359,22 @@
       "duration_ms": 268366,
       "name": "Homesick [Feat. Jonathan Wilson]",
       "url": "https://open.spotify.com/track/3hUgiY4yuQhiLbVytTCmS7"
+    },
+    {
+      "added_at": "2023-11-10 20:04:35",
+      "album": {
+        "name": "Family Ties (Sampler)",
+        "url": "https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "duration_ms": 228346,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D"
     },
     {
       "added_at": "2023-11-10 20:04:35",
@@ -571,6 +655,22 @@
       "duration_ms": 264600,
       "name": "Golden State",
       "url": "https://open.spotify.com/track/6OZlJDNIs9Eix2QGajJEOy"
+    },
+    {
+      "added_at": "2023-11-10 20:04:35",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/48eE2fd87vxdyIgTQU4sw7"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 234799,
+      "name": "Whiskey River (Recorded At Luck Reunion) - Spotify Singles",
+      "url": "https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU"
     },
     {
       "added_at": "2023-11-10 20:04:35",
@@ -1623,22 +1723,6 @@
     {
       "added_at": "2023-11-10 20:04:35",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/48eE2fd87vxdyIgTQU4sw7"
-      },
-      "artists": [
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 234799,
-      "name": "Whiskey River (Recorded At Luck Reunion) - Spotify Singles",
-      "url": "https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU"
-    },
-    {
-      "added_at": "2023-11-10 20:04:35",
-      "album": {
         "name": "Common Nation Of Sorrow",
         "url": "https://open.spotify.com/album/53S29DN4hv8ZiRSuj5PdCo"
       },
@@ -1903,22 +1987,6 @@
       "duration_ms": 255113,
       "name": "Every Light",
       "url": "https://open.spotify.com/track/4i8j6kulj1ipa8srEE4LZT"
-    },
-    {
-      "added_at": "2023-11-10 20:04:35",
-      "album": {
-        "name": "Please Don't Go",
-        "url": "https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Flores",
-          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
-        }
-      ],
-      "duration_ms": 181498,
-      "name": "Please Don't Go",
-      "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
     },
     {
       "added_at": "2023-11-10 20:04:35",
@@ -2423,86 +2491,6 @@
       "duration_ms": 161666,
       "name": "In The Mornin\u2019",
       "url": "https://open.spotify.com/track/18boKjkBe0r4TLYdpVxHfo"
-    },
-    {
-      "added_at": "2023-11-10 20:04:35",
-      "album": {
-        "name": "If It All Goes South",
-        "url": "https://open.spotify.com/album/0A1HQVfnJ3vOQkZrCMm9Z9"
-      },
-      "artists": [
-        {
-          "name": "Amy Ray",
-          "url": "https://open.spotify.com/artist/6FTNWiXksh4ADVB5QdJqCF"
-        }
-      ],
-      "duration_ms": 233840,
-      "name": "Joy Train",
-      "url": "https://open.spotify.com/track/4w5iyFl701rTcsw8VFenfe"
-    },
-    {
-      "added_at": "2023-11-10 20:04:35",
-      "album": {
-        "name": "Night After Night",
-        "url": "https://open.spotify.com/album/0tZTBQyG5GILL8wfv3BseE"
-      },
-      "artists": [
-        {
-          "name": "Daniel Tashian",
-          "url": "https://open.spotify.com/artist/4RldQHPp4l6UV78DAvf5qz"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "Night After Night",
-      "url": "https://open.spotify.com/track/5CL6QLlz3pLtZg5T0EeNbS"
-    },
-    {
-      "added_at": "2023-11-10 20:04:35",
-      "album": {
-        "name": "Paranoid Heart",
-        "url": "https://open.spotify.com/album/4nVAHT3ACZ5wgk6lzpLRzK"
-      },
-      "artists": [
-        {
-          "name": "John Fullbright",
-          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
-        }
-      ],
-      "duration_ms": 192670,
-      "name": "Paranoid Heart",
-      "url": "https://open.spotify.com/track/3ZUsOcc2xcgSXDMWx1zned"
-    },
-    {
-      "added_at": "2023-11-10 20:04:35",
-      "album": {
-        "name": "Arrow (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5ur0y0jEG0KuqshNyju035"
-      },
-      "artists": [
-        {
-          "name": "Heartless Bastards",
-          "url": "https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W"
-        }
-      ],
-      "duration_ms": 303836,
-      "name": "Parted Ways - Acoustic Version",
-      "url": "https://open.spotify.com/track/6xySuu99uUYsziFbBxSLYQ"
-    },
-    {
-      "added_at": "2023-11-10 20:04:35",
-      "album": {
-        "name": "Hands To Myself",
-        "url": "https://open.spotify.com/album/1LZsurY09ulZSI36RYZxmB"
-      },
-      "artists": [
-        {
-          "name": "Myron Elkins",
-          "url": "https://open.spotify.com/artist/0jeJvES8frg5KT4HMg4NZi"
-        }
-      ],
-      "duration_ms": 197426,
-      "name": "Hands To Myself",
-      "url": "https://open.spotify.com/track/6reRI1DvoOPCWJjHSpJADD"
     }
   ],
   "unique_name": "The Pulse of Americana",

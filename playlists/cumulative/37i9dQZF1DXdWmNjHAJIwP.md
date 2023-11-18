@@ -4,7 +4,7 @@
 
 > Así suena cada estación\. 🍂 Check back in December for Invierno.
 
-83 songs - 4 hr 30 min
+84 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [No Dejes de Sonreír](https://open.spotify.com/track/2KhIoHxX5wuIDddUFn1Vpy) | [Irvin Mach](https://open.spotify.com/artist/7MXgCL89Td8yUmscNmymst) | [Entre Sombras](https://open.spotify.com/album/4FkrjdQ5wT6bDidX8bCqb3) | 1:34 | 2023-09-05 |  |
 | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88) | 3:06 | 2023-09-05 |  |
 | [notas](https://open.spotify.com/track/0PR2ybSHB6gkxiiwMJ8D3J) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [notas](https://open.spotify.com/album/3Pg8e9KQnLy6r6JHVNTo6T) | 1:36 | 2023-09-05 |  |
+| [Noviembre Sin Ti](https://open.spotify.com/track/63EzbC00mdZurdZzRcO4w3) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Reik](https://open.spotify.com/album/16QRglfvF1gpz6GLsBC1gU) | 3:23 | 2023-11-16 |  |
 | [NTN](https://open.spotify.com/track/0LeTs7ArmNbMEoZnJFemWn) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [NTN](https://open.spotify.com/album/4aqRx97DXSOUdkT3cRYtrI) | 3:04 | 2023-09-05 |  |
 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 | 2023-03-01 | 2023-06-03 |
 | [Octubre](https://open.spotify.com/track/4lclExmzD4czFlLKfZPIZL) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [Octubre](https://open.spotify.com/album/6WnaNBcf3ODEq20oUsdprB) | 3:12 | 2023-09-05 |  |

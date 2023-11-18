@@ -4,7 +4,7 @@
 
 > Updated Weekly! DC and Hooks selected jams from Deadbeats record label and beyond\. DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-86 songs - 5 hr 2 min
+87 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Interloper](https://open.spotify.com/track/2OJgO1bNxRcSeqhdgJ6zxE) | [TMSV](https://open.spotify.com/artist/3gy5cNrDadVI5kDFcYgelE) | [Interloper EP](https://open.spotify.com/album/6OPl9EARlmdnDLMKzrCcYc) | 3:20 | 2023-09-06 |  |
 | [Into the Ether](https://open.spotify.com/track/4x9rBzNRtl5I3e16gKnAwK) | [Soki](https://open.spotify.com/artist/3VpJFT2qTuLFZ6PEviUlhr) | [Into the Ether](https://open.spotify.com/album/2IkKuUcfRwDFvzU7wLelfT) | 3:51 | 2023-02-23 | 2023-11-09 |
 | [keep jumpin](https://open.spotify.com/track/4qjJrkk54dWtoPb1z7uBXQ) | [not yes](https://open.spotify.com/artist/3sAig7Ir86KX0ZdcxSR1ax) | [keep jumpin](https://open.spotify.com/album/1h5AyAcn7njmqouVzsiJ40) | 3:17 | 2023-08-28 | 2023-11-09 |
+| [Know By Now](https://open.spotify.com/track/7wthIYYW5izwk0Dm5BoIar) | [Aktive](https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g) | [Know By Now](https://open.spotify.com/album/2AoFSRAEpmGB2klZbqf8vu) | 4:35 | 2023-11-17 |  |
 | [Let Me Go](https://open.spotify.com/track/2uGyJ6nkEnbsAI90luSVER) | [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi) | [Over Saturated](https://open.spotify.com/album/19u1MOW24UbZHSS4ZNx1hz) | 3:15 | 2023-06-21 | 2023-11-09 |
 | [Levitate](https://open.spotify.com/track/3m53COQuUirTyVx0YoM9q0) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1), [Soul Edge](https://open.spotify.com/artist/56WvcWLyO6ri4rhr21HMpa) | [Levitate](https://open.spotify.com/album/2nBnSn82VCM4k19bmD9h4a) | 3:22 | 2023-07-27 |  |
 | [Lifted](https://open.spotify.com/track/6yqQCT6Y08rUr2rkXvAd7K) | [Joluca](https://open.spotify.com/artist/3giycuiv9FsMjaSEsJ8i1E) | [Lifted](https://open.spotify.com/album/3IVDw1dncG4Y7Kkv3vP0H9) | 3:14 | 2023-06-22 | 2023-11-09 |

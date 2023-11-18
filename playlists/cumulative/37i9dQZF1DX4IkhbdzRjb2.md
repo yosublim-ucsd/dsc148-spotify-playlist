@@ -4,7 +4,7 @@
 
 > Since 1962, <a href="https://www.casitadelcampo.net/">Casita Del Campo</a> has been a refuge to Los Angeles' LGTBQQIA+ community\. Like their environment, the songs picked are original, energetic, and diverse just like their patrons!
 
-58 songs - 4 hr 28 min
+59 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Mas Papaya](https://open.spotify.com/track/4U5S0fp1d0fzHbO2hMasTY) | [Sidestepper](https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B) | [3 AM \(In Beats We Trust\)](https://open.spotify.com/album/5SG03amThdGbDpvOufQLev) | 3:34 | 2021-05-31 |  |
 | [Mirrorball](https://open.spotify.com/track/04xBdpu35JfdRI4S1t5mX2) | [Elbow](https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk) | [The Seldom Seen Kid \(Bonus Tracks Version\)](https://open.spotify.com/album/44w1MmIi5i05Y0UVBHaWRt) | 5:50 | 2021-05-31 |  |
 | [My 1st Song](https://open.spotify.com/track/69W44ENAu1t2JmZU6OJ2B7) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO) | 4:45 | 2021-05-31 |  |
-| [Nothing I Wanna Know About](https://open.spotify.com/track/1QPkENda17YtGTbtYOrAL1) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Nothing I Wanna Know About](https://open.spotify.com/album/3r5BxCunystsYCUstSbjYF) | 4:07 | 2021-05-31 |  |
+| [Nothing I Wanna Know About](https://open.spotify.com/track/1QPkENda17YtGTbtYOrAL1) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Nothing I Wanna Know About](https://open.spotify.com/album/3r5BxCunystsYCUstSbjYF) | 4:07 | 2021-05-31 | 2023-11-18 |
+| [Nothing I Wanna Know About](https://open.spotify.com/track/25nVJKeHsqMDnxwXXy4kgt) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/2sQ1tG5dvAZFQVa5HaI3Hy) | 4:07 | 2021-05-31 |  |
 | [Palavra de Bamba](https://open.spotify.com/track/0CwLTJ6w8EMZ8f9c6GkxcV) | [Camila Rondon](https://open.spotify.com/artist/03U4DScpVVqpEHjw7MJ3CI) | [Camila Rondon](https://open.spotify.com/album/2XoEBhPuM8B6Xg3f0WuXuk) | 3:53 | 2021-05-31 |  |
 | [Para Ochún](https://open.spotify.com/track/0p29ftP2K8EdaryUMKfyyj) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Sabio](https://open.spotify.com/album/2QqqS97l2DLYq1vrhHUpze) | 6:35 | 2021-05-31 |  |
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2021-05-31 |  |

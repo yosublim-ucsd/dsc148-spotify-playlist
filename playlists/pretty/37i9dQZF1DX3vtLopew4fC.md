@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Listen to women in Canada, at full volume\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,779 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,791 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 49 | [OMG](https://open.spotify.com/track/1BWfBlp8iDl2moH11H8uT1) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [OMG](https://open.spotify.com/album/7gF4FonOZVm7DXUEh9uNdC) | 3:19 |
 | 50 | [Unluckiest](https://open.spotify.com/track/6ViWSBZTJKfZmXysx9uYoi) | [Featurette](https://open.spotify.com/artist/53LcgV1grfplFF71oaW3E2) | [Unluckiest](https://open.spotify.com/album/4ODVrz7rbVgt6FvKguaNPU) | 4:02 |
 
-Snapshot ID: `MCw3OTk4MDZlOTY4YmQ1ODEzMDc3YzQwZDkwMmRiM2NlNWZjOGIwYjE2`
+Snapshot ID: `MCxiZmNlZWIxMDAxODU2NGM2MGNhMTNjZjkyNjdmYjgxYjdjNWVlNDc5`

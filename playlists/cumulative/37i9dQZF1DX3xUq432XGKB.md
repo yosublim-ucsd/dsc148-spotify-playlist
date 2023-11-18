@@ -4,7 +4,7 @@
 
 > We're celebrating the 10th anniversary of <a href=https://splashhouse.com/>Splash House </a> with the announcement of their June line up!
 
-168 songs - 10 hr 25 min
+170 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Bussifame](https://open.spotify.com/track/3Snsn7nR619p0Ze090QT7K) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Bussifame](https://open.spotify.com/album/5Yg9JXE24N3d58v3HuY1Vl) | 4:33 | 2021-03-16 | 2022-07-29 |
 | [Bussifame](https://open.spotify.com/track/3bQWyx3JDz53yP2uij16Jj) | [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Second Line](https://open.spotify.com/album/4ZZPaImVERqe30KPt1EOHv) | 4:33 | 2021-03-16 | 2022-10-19 |
 | [Call You Back](https://open.spotify.com/track/0EETw2XgKBkhE18TA3jcCq) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Defected Ibiza 2017](https://open.spotify.com/album/0JLa3nbP0UWMOW4AbtHdtI) | 7:09 | 2023-05-03 | 2023-11-04 |
-| [Call You Back](https://open.spotify.com/track/1xJeWMzCpzuJjKgGl1evum) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Pure Salinas, Vol\. 9 \(Compiled by DJ Zappi\)](https://open.spotify.com/album/1xvAoZ7gaN1CJ60lbbe43J) | 7:09 | 2023-05-03 |  |
+| [Call You Back](https://open.spotify.com/track/1xJeWMzCpzuJjKgGl1evum) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Pure Salinas, Vol\. 9 \(Compiled by DJ Zappi\)](https://open.spotify.com/album/1xvAoZ7gaN1CJ60lbbe43J) | 7:09 | 2023-05-03 | 2023-11-18 |
+| [Call You Back](https://open.spotify.com/track/2l6j9yYZnYOQebfdTM2Rl9) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [Heroes Of House, Vol\. 3](https://open.spotify.com/album/0ZbBYY4VDk6m7Kb8Bk4KYx) | 7:09 | 2023-05-03 |  |
 | [Carry Us](https://open.spotify.com/track/40U8KhwvDcaoBFYV4hKfRn) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Carry Us](https://open.spotify.com/album/1ZD3lsDNczYTYLhnKGiGxj) | 3:58 | 2023-05-03 |  |
 | [Cbat](https://open.spotify.com/track/0AzD1FEuvkXP1verWfaZdv) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Satin Panthers](https://open.spotify.com/album/0d99LxnQpiPLgSGDRuU9HT) | 2:51 | 2022-10-18 | 2023-02-02 |
 | [Cbat](https://open.spotify.com/track/1JGGsCZ9zhgPJIsPy0pwt9) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Satin Panthers](https://open.spotify.com/album/7uKK7YRySFa1cXI5ICijFW) | 2:51 | 2022-10-21 | 2023-05-04 |
@@ -167,7 +168,8 @@
 | [Wanted](https://open.spotify.com/track/6DmyAvH1MeAoqWApThDHTM) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Wanted](https://open.spotify.com/album/3dlPrX23qvVuXUBRInIJy8) | 2:58 | 2021-03-16 | 2022-10-19 |
 | [Western Union](https://open.spotify.com/track/1zX178V8sWozr96MrfmRun) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Trash Island](https://open.spotify.com/album/30zy3JHuDxZbBWGf8rGZGX) | 2:00 | 2022-10-18 | 2023-05-04 |
 | [Whole House](https://open.spotify.com/track/6rbpsdhGF86u7Eu1Ew8iVK) | [Lolawolf](https://open.spotify.com/artist/6ABaV7mB6WIZKgfEEtWCf8) | [Tenderness](https://open.spotify.com/album/67v0qu708WJVT9rxxdZmh1) | 3:02 | 2021-03-16 | 2022-10-19 |
-| [Words With You](https://open.spotify.com/track/3GuJTBFnjMWLwjH68Z74zM) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/677Ket8qKGVOMtXgE4Gpfk) | 3:55 | 2023-05-03 |  |
+| [Words With You](https://open.spotify.com/track/2KSm8t95aeoTx20rhstPMc) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Words With You](https://open.spotify.com/album/5iS4UJh76SVLbz81wtMkVR) | 3:55 | 2023-05-03 |  |
+| [Words With You](https://open.spotify.com/track/3GuJTBFnjMWLwjH68Z74zM) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/677Ket8qKGVOMtXgE4Gpfk) | 3:55 | 2023-05-03 | 2023-11-18 |
 | [WRONG](https://open.spotify.com/track/5vvEecaHtonA2AiBR2L7vW) | [Hank K](https://open.spotify.com/artist/7e6V4iJruHMPbTniZOeITW) | [WRONG](https://open.spotify.com/album/7gEFabAANCGj6JaSIhcuN8) | 5:37 | 2023-05-03 |  |
 | [You Know You Like It \- Tchami Remix](https://open.spotify.com/track/0OpcI3rARLsNWgVbPdwHD9) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [We Are Your Friends \(Music From The Original Motion Picture\)](https://open.spotify.com/album/0aMv03wMvTndzvWp8FuS4P) | 5:04 | 2021-03-16 | 2022-10-19 |
 | [You, at the End](https://open.spotify.com/track/1LAbP1QlBJ8qVhF3ayRlkl) | [Lafawndah](https://open.spotify.com/artist/7jHWye55igIZ6SsF4eXKkP) | [The Fifth Season](https://open.spotify.com/album/4y8Vq2D9o7X4tVQOxoAF1q) | 4:12 | 2021-03-16 | 2022-10-19 |

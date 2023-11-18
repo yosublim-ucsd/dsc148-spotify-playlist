@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,358 songs - 2 day 3 hr 11 min
+1,359 songs - 2 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -704,6 +704,7 @@
 | [Makeshift](https://open.spotify.com/track/5QLqKnaiL8qaAxiudjShMg) | [Cem Mo](https://open.spotify.com/artist/3iYvl2sPTgAgS9bX6OSwQS), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [Makeshift](https://open.spotify.com/album/6C9EiBaQNCe3hdiMs6nVS6) | 2:30 | 2022-10-28 | 2023-09-29 |
 | [Man At Heart](https://open.spotify.com/track/36obvzkBpCzXGP0cohkZlZ) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Man At Heart](https://open.spotify.com/album/7I95wqu9JjuOepQI5zqlQ0) | 2:14 | 2023-01-06 | 2023-10-06 |
 | [mango and strawberries](https://open.spotify.com/track/1D0lFM7EgG31Ew697rfQRd) | [Flaminguez](https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x) | [mango and strawberries](https://open.spotify.com/album/7vbbI83S7N05GUX6baD6tS) | 2:15 | 2022-09-02 |  |
+| [maple syrup](https://open.spotify.com/track/2RHglN6UQBJ3tpDSdkpZmn) | [Slacker Jack's](https://open.spotify.com/artist/3IYkO05jx2ouEKrI90Fml0) | [maple syrup](https://open.spotify.com/album/7wpwlovTl7rVa0BIwNFPEG) | 2:17 | 2023-11-17 |  |
 | [Marathon](https://open.spotify.com/track/5ZhlX046B47UxpliilbqA4) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Marathon](https://open.spotify.com/album/23wibxrF7lAmBOCf5T6SOe) | 3:43 | 2023-09-22 | 2023-10-27 |
 | [Marble Madness](https://open.spotify.com/track/1HeO6mQfjy7V7LSnNa1029) | [Ludo Cana](https://open.spotify.com/artist/3EngXbGniIxSxeLt4zb2IK) | [Marble Madness](https://open.spotify.com/album/77h5IYy4eY58o1hJD5EywX) | 2:20 | 2022-01-27 | 2022-11-12 |
 | [Marble Mood](https://open.spotify.com/track/2U8DKAcobQXw5AeiCTGfrJ) | [Beation](https://open.spotify.com/artist/6V0pdsJyn81xdeFmeHWQfa) | [Marble Mood](https://open.spotify.com/album/0Yiba1WT7meSlnHEtTBVRx) | 2:07 | 2022-01-27 | 2023-01-20 |
@@ -1191,7 +1192,7 @@
 | [tempura](https://open.spotify.com/track/1zgFWd7USHOKNc30YtfsCT) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs), [frumhere](https://open.spotify.com/artist/21Aa8MX3PsrO03NgH3TZGy) | [Heartsick, extras.](https://open.spotify.com/album/1FMRlhclA9XtdN8iPbflJl) | 2:33 | 2022-01-27 | 2022-09-09 |
 | [Tendenzies](https://open.spotify.com/track/0dSDD52DBAuu7lNvej0WG8) | [$affie](https://open.spotify.com/artist/3m63AiBD7p1QAVi95d03te), [lofi stu](https://open.spotify.com/artist/42sa3ImS1Gv0LDCNS8jr2E) | [Tendenzies](https://open.spotify.com/album/5ALwxXL1ZL5W9KiGrR8hVi) | 2:08 | 2022-01-27 | 2023-09-05 |
 | [Tender Mind](https://open.spotify.com/track/04DplA83rbqQVqWjPFYSpC) | [lukayo](https://open.spotify.com/artist/3AhFxqxCwraIIUrUiVx4d1), [LW Beats](https://open.spotify.com/artist/2pZgcPhuBA3i0OVDj9Aog3), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Tender Mind](https://open.spotify.com/album/2TEZN8nwRNnom7KG3xc3hP) | 1:53 | 2023-06-05 |  |
-| [Terminal](https://open.spotify.com/track/0z26A8cwAaGR5mAjquZVKj) | [Yumeoka](https://open.spotify.com/artist/2QO9MfQwz3oGySq5Tiuo4Q) | [Terminal](https://open.spotify.com/album/77Nlb4di9sHZu0mNB5isSR) | 2:05 | 2023-11-17 |  |
+| [Terminal](https://open.spotify.com/track/0z26A8cwAaGR5mAjquZVKj) | [Yumeoka](https://open.spotify.com/artist/2QO9MfQwz3oGySq5Tiuo4Q) | [Terminal](https://open.spotify.com/album/77Nlb4di9sHZu0mNB5isSR) | 2:05 | 2023-11-17 | 2023-11-18 |
 | [Terzo](https://open.spotify.com/track/1EXS0FNpWbCjlYY5LKCqer) | [Robomani](https://open.spotify.com/artist/2iXcdZRffRnlBjzqcWEXKA) | [Terzo](https://open.spotify.com/album/1ZtZwyMm2P4ujY02crKMIV) | 2:55 | 2022-01-27 |  |
 | [That FULLness](https://open.spotify.com/track/4chATeCAyWRsO7PEptGM41) | [Stay Nice](https://open.spotify.com/artist/0e0CMuJm0h7Dl1pFGb7MUD) | [That FULLness](https://open.spotify.com/album/1eRPL8SVCLThFHOWYRWgXD) | 3:00 | 2022-01-27 | 2022-09-03 |
 | [that old lick](https://open.spotify.com/track/01pPzpTbSyIqi9vgVjDqpO) | [efedrin](https://open.spotify.com/artist/0XghY48i09UXnmTiQcnE1p) | [it came from the desert](https://open.spotify.com/album/69AKTWMJ44wbayjX4vjaUb) | 1:24 | 2022-01-27 | 2022-07-08 |

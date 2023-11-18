@@ -2118,7 +2118,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 179112,
       "name": "It's Beginning to Look a Lot Like Christmas",
       "url": "https://open.spotify.com/track/5TN42y2ut6ATB0IDEEgQay"
@@ -2955,6 +2955,24 @@
     },
     {
       "album": {
+        "name": "These are Special Times",
+        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320760,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/5547x0ZawobhfSeh2QKAca"
+    },
+    {
+      "album": {
         "name": "Officially Christmas",
         "url": "https://open.spotify.com/album/1ntmy0iqSY14aEeNZ7kXXa"
       },
@@ -2984,7 +3002,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 211000,
       "name": "Oh Santa!",
       "url": "https://open.spotify.com/track/04t8HpnAGcLaWnBwzVR7H1"
@@ -3010,7 +3028,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-26",
+      "date_removed": null,
       "duration_ms": 200466,
       "name": "Oh Santa! (feat. Ariana Grande & Jennifer Hudson)",
       "url": "https://open.spotify.com/track/1Ri9P0ZPrqr6h0REDRdJBd"
@@ -3184,6 +3202,24 @@
       "duration_ms": 239706,
       "name": "Ring Out The Bells",
       "url": "https://open.spotify.com/track/03qftRowv8aPZnNZbILxUR"
+    },
+    {
+      "album": {
+        "name": "Not So Silent Night (The Cozy Edition)",
+        "url": "https://open.spotify.com/album/1EcCxcRK4DX7ol3JrvxKOs"
+      },
+      "artists": [
+        {
+          "name": "Sarah Connor",
+          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239706,
+      "name": "Ring Out The Bells",
+      "url": "https://open.spotify.com/track/51ENvfID6cZE2i08sqy7as"
     },
     {
       "album": {
@@ -3411,6 +3447,24 @@
     },
     {
       "album": {
+        "name": "fruitcake",
+        "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189753,
+      "name": "santa doesn\u2019t know you like i do",
+      "url": "https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v"
+    },
+    {
+      "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
       },
@@ -3608,6 +3662,24 @@
       "duration_ms": 226586,
       "name": "Shake up Christmas 2011 (Official Coca-Cola Christmas Song)",
       "url": "https://open.spotify.com/track/57fDcLa203GnDF9OYJd6mV"
+    },
+    {
+      "album": {
+        "name": "A Very Teddy Christmas",
+        "url": "https://open.spotify.com/album/5Uz5dJxxx80FlqetqpvCJp"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251359,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/1rRb8IFx7OYqlZnt6ag7cP"
     },
     {
       "album": {

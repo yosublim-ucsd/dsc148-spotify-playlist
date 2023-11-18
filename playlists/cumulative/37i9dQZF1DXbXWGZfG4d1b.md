@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-531 songs - 1 day 7 hr 31 min
+532 songs - 1 day 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -511,6 +511,7 @@
 | [Una Película](https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Una Película](https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu) | 5:20 | 2022-06-03 | 2023-10-27 |
 | [Una Propuesta](https://open.spotify.com/track/6to1I40BuW2fNRIustdnKa) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Una Propuesta](https://open.spotify.com/album/4h2KVzlBshF1hmiHNSgxPL) | 3:15 | 2022-06-03 |  |
 | [Universos Paralelos](https://open.spotify.com/track/4QLokwnp4RMWpofhjj1zH6) | [Los Lilas](https://open.spotify.com/artist/3u5ZEm7fgzf13JlHwmVhKB) | [Contracorriente](https://open.spotify.com/album/6f3H56a9DRefillpoiBWjN) | 3:22 | 2023-03-03 | 2023-05-11 |
+| [Vamos a destruir](https://open.spotify.com/track/4weHbH9867dP8O8IkQfywd) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Vamos a destruir](https://open.spotify.com/album/1S92pCSLfw4Fbh6I6VCrFV) | 3:41 | 2023-11-17 |  |
 | [Vamos a Romper las Cosas](https://open.spotify.com/track/25PwbSvRM1wKz4D78L2cBn) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92) | [Vamos a Romper las Cosas](https://open.spotify.com/album/6XHW43TnMufjYqHrtiy7Ju) | 2:27 | 2022-06-03 | 2022-07-23 |
 | [Velocidad Crucero](https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Velocidad Crucero](https://open.spotify.com/album/4Vk35EIEu45hRtoGEmq8e1) | 3:52 | 2023-07-07 | 2023-10-06 |
 | [Ven Hacia Mí](https://open.spotify.com/track/5nit7kMfxrMS4Ym78LI0ER) | [Livelli y los Saravia](https://open.spotify.com/artist/5dcEqAO8T3MOrBkIwWmq72), [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Sobre Coplas y Deseos](https://open.spotify.com/album/3IfIcgobHCV4KOvN9nAncZ) | 4:12 | 2022-06-03 | 2022-07-27 |
@@ -526,7 +527,7 @@
 | [Volviste Desarmado](https://open.spotify.com/track/6bsjkK53hGEU7khkaQ4ELq) | [La Sánchez Viamonte](https://open.spotify.com/artist/75Ls2clsNSLsuGQqAwBAJa) | [Volviste Desarmado](https://open.spotify.com/album/2Pubgf7Ke14LTjXc0yBJE9) | 4:48 | 2022-06-03 | 2022-07-24 |
 | [Vos y Yo](https://open.spotify.com/track/6DXjmuP875gbBFKjzoXudZ) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [EL GAVIOTA](https://open.spotify.com/album/3AC4oh8TEA1CYzIV8UuuFT) | 3:37 | 2022-06-03 | 2023-10-27 |
 | [XXYY](https://open.spotify.com/track/7t3wLZi6Xit8XRt24POyQW) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Mujer Cebra](https://open.spotify.com/album/0hVew2aVwFr9160hSXbaf3) | 2:46 | 2022-07-01 | 2023-03-03 |
-| [ya fue / ya está](https://open.spotify.com/track/31VaZ78vgHa1N5J9oLvFAi) | [Equipo Nacional](https://open.spotify.com/artist/3vYmeeuL2e2C0MqNdAVAXE) | [ya fue / ya está](https://open.spotify.com/album/3wATlKrcm7Y7NDfbJQwIal) | 4:03 | 2022-07-01 |  |
+| [ya fue / ya está](https://open.spotify.com/track/31VaZ78vgHa1N5J9oLvFAi) | [Equipo Nacional](https://open.spotify.com/artist/3vYmeeuL2e2C0MqNdAVAXE) | [ya fue / ya está](https://open.spotify.com/album/3wATlKrcm7Y7NDfbJQwIal) | 4:03 | 2022-07-01 | 2023-11-18 |
 | [Ya Hablamos de Esto](https://open.spotify.com/track/7E7GOlNAywQK65Wg4EQf1e) | [Aerobot](https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ), [Amelia](https://open.spotify.com/artist/5ww5jJ8UVQ7jxFQBfN7VoQ) | [Ya Hablamos de Esto](https://open.spotify.com/album/1sCAPYU44MdvDr6YSj9J6f) | 3:22 | 2022-07-01 | 2022-07-28 |
 | [Ya No](https://open.spotify.com/track/5bMLNuQL14zhYpIg2VFIIO) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6), [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [Ya No](https://open.spotify.com/album/6wbGkDTKdeZKuuwJZlL9s0) | 2:29 | 2022-07-15 | 2023-10-27 |
 | [Ya No Quiero Estar \- Can I Call You?](https://open.spotify.com/track/63KJ8rICVw03iuIZrfahIK) | [Pablo Vermell](https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5), [MOGUE](https://open.spotify.com/artist/18es9hoK2KUOefwp7D5Rsx) | [Ya No Quiero Estar \(Can I Call You?\)](https://open.spotify.com/album/5uHfoPSnsnoRUlNyTHHp16) | 2:18 | 2022-06-03 | 2022-07-04 |

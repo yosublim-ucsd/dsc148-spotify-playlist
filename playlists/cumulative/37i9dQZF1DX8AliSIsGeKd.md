@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Amelie Lens
 
-2,761 songs - 10 day 4 hr 57 min
+2,762 songs - 10 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -788,8 +788,9 @@
 | [EVOLUTION](https://open.spotify.com/track/29V8VIOKYvlWMSm3s7mTsJ) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [EVOLUTION](https://open.spotify.com/album/0xdtMKiVBPXGY7uognRoGc) | 5:26 | 2023-08-25 | 2023-09-08 |
 | [Evolution of Thinking](https://open.spotify.com/track/5mcCm356p4P3EAAJld3ZCd) | [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig) | [Evolution of Thinking](https://open.spotify.com/album/7wihVpHT2KIgsYvxPhr8Ya) | 3:42 | 2022-11-03 | 2022-11-18 |
 | [Excess Animus](https://open.spotify.com/track/3Qqyci0T0SdL4Dbl69JN2O) | [NoNameLeft](https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT) | [Excess Animus](https://open.spotify.com/album/6Illk5FmkF7FTxyzoXxg22) | 6:12 | 2022-09-08 | 2022-09-30 |
+| [Excited](https://open.spotify.com/track/2qIKLARjTOfkZYAhe9e2vo) | [Torsten Kanzler](https://open.spotify.com/artist/6ivd3NhMvn9EIN64Q3lqik) | [Rave the Planet: Supporter Series, Vol\. 018](https://open.spotify.com/album/6aPrAqD2WDtO24SwxTZ0Lx) | 6:42 | 2023-11-17 |  |
 | [Exeter](https://open.spotify.com/track/4gIfnIBiCsO5zsIVntz2IF) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Music Made for Aliens](https://open.spotify.com/album/2mFKFYNlT5gYdBaAGbRHnP) | 6:38 | 2023-03-16 | 2023-04-07 |
-| [Exited](https://open.spotify.com/track/187VhQwN2cm3iwgni4T2L3) | [Torsten Kanzler](https://open.spotify.com/artist/6ivd3NhMvn9EIN64Q3lqik) | [Exited](https://open.spotify.com/album/2ws4ocsDTsbdkioTBmbluh) | 6:42 | 2023-11-09 |  |
+| [Exited](https://open.spotify.com/track/187VhQwN2cm3iwgni4T2L3) | [Torsten Kanzler](https://open.spotify.com/artist/6ivd3NhMvn9EIN64Q3lqik) | [Exited](https://open.spotify.com/album/2ws4ocsDTsbdkioTBmbluh) | 6:42 | 2023-11-09 | 2023-11-18 |
 | [Expander](https://open.spotify.com/track/6hZZ6ZPpkAauDA3Al6za5T) | [EarthLife](https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG) | [Expander](https://open.spotify.com/album/7B2lPcnbOvIUpCwFRvPtRZ) | 7:24 | 2022-09-01 | 2022-09-23 |
 | [Experience](https://open.spotify.com/track/6ewzsniysRplwdDRA7eNdn) | [Luna Lucci](https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp) | [Experience](https://open.spotify.com/album/2mHKmSPCtMud5SwgzMNEQ1) | 5:48 | 2023-03-30 | 2023-04-14 |
 | [Exploding Suns \- Edit](https://open.spotify.com/track/4MX5OaHtxORBHYDSafPu3A) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS), [Locked Groove](https://open.spotify.com/artist/0Dc7CbTE5mcvrprttS6GDs) | [Exploding Suns](https://open.spotify.com/album/54LfhQm3OI7E7rmVkniYo7) | 4:45 | 2022-09-08 | 2022-09-23 |

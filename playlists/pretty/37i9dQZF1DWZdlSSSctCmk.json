@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 113251,
+  "num_followers": 113326,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2JkNWQyNDVjMzdhNjhiNzBiZDE2ZDQ1MDIyNTQ1ODY0YTAzYzRm",
+  "snapshot_id": "MCxlYzE3ZGQyYmM1NjBmMmNlNTNlYTJlNzZmZDJkZDFlMzRkNGJhMGI4",
   "tracks": [
     {
       "added_at": "2023-07-14 11:01:37",
@@ -535,22 +535,18 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Around The Sun",
-        "url": "https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB"
+        "name": "Purple Noon",
+        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
         }
       ],
-      "duration_ms": 234493,
-      "name": "Around The Sun",
-      "url": "https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P"
+      "duration_ms": 252409,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -571,18 +567,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Purple Noon",
-        "url": "https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc"
+        "name": "Around The Sun",
+        "url": "https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB"
       },
       "artists": [
         {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
         }
       ],
-      "duration_ms": 252409,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z"
+      "duration_ms": 234493,
+      "name": "Around The Sun",
+      "url": "https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -755,6 +755,26 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Nabi (feat. Ohhyuk)",
+        "url": "https://open.spotify.com/album/06LftbqN9jVmaHDFq4eitA"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+        }
+      ],
+      "duration_ms": 232914,
+      "name": "Nabi (feat. OHHYUK)",
+      "url": "https://open.spotify.com/track/6zQ24McTYC36rMWRgEfzqC"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Hard Candy",
         "url": "https://open.spotify.com/album/6FqKEvbSjVJQXX8rFFdPnA"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 222631,
       "name": "Icare",
       "url": "https://open.spotify.com/track/67OcVGdHgzLykVUbaXwVYv"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Nabi (feat. Ohhyuk)",
-        "url": "https://open.spotify.com/album/06LftbqN9jVmaHDFq4eitA"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        },
-        {
-          "name": "OHHYUK",
-          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
-        }
-      ],
-      "duration_ms": 232914,
-      "name": "Nabi (feat. OHHYUK)",
-      "url": "https://open.spotify.com/track/6zQ24McTYC36rMWRgEfzqC"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "Intimate Fantasy - EP",
+        "url": "https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "duration_ms": 493000,
+      "name": "Intimate Fantasy",
+      "url": "https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Essential Levitation - 20 Years of Ibiza Chillout Music",
         "url": "https://open.spotify.com/album/2m18LIEu3yRDXpe2C9lGQG"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 441160,
       "name": "More Than Ever People - Late Night Mix",
       "url": "https://open.spotify.com/track/2ESCeu4Z0WXGl6zezMQTvX"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "Intimate Fantasy - EP",
-        "url": "https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        }
-      ],
-      "duration_ms": 493000,
-      "name": "Intimate Fantasy",
-      "url": "https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Just Landed",
-        "url": "https://open.spotify.com/album/4UpreRuEiLfSJhUw3XYjOG"
-      },
-      "artists": [
-        {
-          "name": "Cantoma",
-          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
-        }
-      ],
-      "duration_ms": 330973,
-      "name": "Tabarin",
-      "url": "https://open.spotify.com/track/6waLS9FxU3tW6FVjntCgsP"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
         "name": "Time out of Mind",
         "url": "https://open.spotify.com/album/3XS2DDdGE8dPdtfQy4gQxb"
       },
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
-        "name": "Amo Amo",
-        "url": "https://open.spotify.com/album/5tqoHWGRjNpWgG0qr4MVGn"
+        "name": "Just Landed",
+        "url": "https://open.spotify.com/album/4UpreRuEiLfSJhUw3XYjOG"
       },
       "artists": [
         {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+          "name": "Cantoma",
+          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
         }
       ],
-      "duration_ms": 231640,
-      "name": "Closer to You",
-      "url": "https://open.spotify.com/track/5plw5Sq1eAewuQi4rYeL8l"
+      "duration_ms": 330973,
+      "name": "Tabarin",
+      "url": "https://open.spotify.com/track/6waLS9FxU3tW6FVjntCgsP"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1255,6 +1239,22 @@
       "duration_ms": 241500,
       "name": "Echo Valley",
       "url": "https://open.spotify.com/track/35XkKkjfM3zU2v9fOQ5Wuk"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
+        "name": "Amo Amo",
+        "url": "https://open.spotify.com/album/5tqoHWGRjNpWgG0qr4MVGn"
+      },
+      "artists": [
+        {
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+        }
+      ],
+      "duration_ms": 231640,
+      "name": "Closer to You",
+      "url": "https://open.spotify.com/track/5plw5Sq1eAewuQi4rYeL8l"
     },
     {
       "added_at": "2023-07-14 11:01:37",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2023-07-14 11:01:37",
       "album": {
+        "name": "10.000 Hours",
+        "url": "https://open.spotify.com/album/0ha8DYzt39EzBddFCwzPGr"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 267697,
+      "name": "House in the Hills",
+      "url": "https://open.spotify.com/track/1QIdwf7rpK52EohMniSmXQ"
+    },
+    {
+      "added_at": "2023-07-14 11:01:37",
+      "album": {
         "name": "Through Your Hands Love Can Shine (Turbotito Remix)",
         "url": "https://open.spotify.com/album/59LOmRApH3tOESVQc0GujE"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 228159,
       "name": "Give It To You - Ralf GUM Radio Edit",
       "url": "https://open.spotify.com/track/4Jlibu79z626cTAfJJlqdK"
-    },
-    {
-      "added_at": "2023-07-14 11:01:37",
-      "album": {
-        "name": "10.000 Hours",
-        "url": "https://open.spotify.com/album/0ha8DYzt39EzBddFCwzPGr"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 267697,
-      "name": "House in the Hills",
-      "url": "https://open.spotify.com/track/1QIdwf7rpK52EohMniSmXQ"
     },
     {
       "added_at": "2023-07-14 11:01:37",

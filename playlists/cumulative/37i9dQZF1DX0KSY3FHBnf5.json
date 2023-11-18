@@ -175,6 +175,28 @@
     },
     {
       "album": {
+        "name": "azalea",
+        "url": "https://open.spotify.com/album/4LToIQdW53OgxwJjEx1YfE"
+      },
+      "artists": [
+        {
+          "name": "pxlse.",
+          "url": "https://open.spotify.com/artist/1cGyguqPQY22oUd4fKglFS"
+        },
+        {
+          "name": "hallow",
+          "url": "https://open.spotify.com/artist/3Okpk8xxkxtFFGPT4LKPfa"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132923,
+      "name": "azalea",
+      "url": "https://open.spotify.com/track/17Rw0Ci6dhVOZWKlzuje7J"
+    },
+    {
+      "album": {
         "name": "before winter's call",
         "url": "https://open.spotify.com/album/56sJTZ8VE5PrKVZN997433"
       },
@@ -767,6 +789,28 @@
     },
     {
       "album": {
+        "name": "escape again",
+        "url": "https://open.spotify.com/album/4jKk4yNgouGIQq6DxVfaXc"
+      },
+      "artists": [
+        {
+          "name": "c152",
+          "url": "https://open.spotify.com/artist/61ldkgdUuSCTWorEjwAIeB"
+        },
+        {
+          "name": ".diedlonely",
+          "url": "https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "escape again",
+      "url": "https://open.spotify.com/track/57NvaC4fsg3UGSv1V3ZRD3"
+    },
+    {
+      "album": {
         "name": "Ethereal Dreams",
         "url": "https://open.spotify.com/album/25jg7348O48HqaeEZmPOJT"
       },
@@ -840,6 +884,24 @@
       "duration_ms": 117446,
       "name": "Fable",
       "url": "https://open.spotify.com/track/6aFgTeAArLgNBlt1lcVF3o"
+    },
+    {
+      "album": {
+        "name": "Fall at Lake Taghkanic",
+        "url": "https://open.spotify.com/album/4CfOpdQ1HZOOm53k62fcQG"
+      },
+      "artists": [
+        {
+          "name": "BAILE",
+          "url": "https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235458,
+      "name": "Fall at Lake Taghkanic",
+      "url": "https://open.spotify.com/track/6hWZODnfzRvS8K0UNwoh5H"
     },
     {
       "album": {
@@ -1510,7 +1572,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 115909,
       "name": "lost soul",
       "url": "https://open.spotify.com/track/2j9SzgUxed9qgv9Kq7n2hG"
@@ -1822,6 +1884,24 @@
       "duration_ms": 177963,
       "name": "orchid painting. - slowed + reverb",
       "url": "https://open.spotify.com/track/4ajTVwLUJmmQmowzoOQtOX"
+    },
+    {
+      "album": {
+        "name": "our love in june",
+        "url": "https://open.spotify.com/album/5Q1JbteXTu3SJs01My04wr"
+      },
+      "artists": [
+        {
+          "name": "leapyear",
+          "url": "https://open.spotify.com/artist/6daNUvi9Bp2w8C1HoZBVIR"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138529,
+      "name": "our love in june",
+      "url": "https://open.spotify.com/track/5ZeYOV8DRW4oZKU7QTPjbw"
     },
     {
       "album": {
@@ -2213,6 +2293,24 @@
     },
     {
       "album": {
+        "name": "Shades of Us",
+        "url": "https://open.spotify.com/album/7trXxN7ZCZtFRrTH0lTEoa"
+      },
+      "artists": [
+        {
+          "name": "METAHESH",
+          "url": "https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101329,
+      "name": "Shades of Us",
+      "url": "https://open.spotify.com/track/5Yi2zHug2z0RuceLWWZ9ON"
+    },
+    {
+      "album": {
         "name": "Singularity",
         "url": "https://open.spotify.com/album/70Pf5FGLKnp1GS5yvawgdZ"
       },
@@ -2380,7 +2478,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 303431,
       "name": "Souvenirs",
       "url": "https://open.spotify.com/track/4GV15DAxq7E8Ql4b2pUfqB"
@@ -2684,7 +2782,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 186666,
       "name": "Virgo Oscura",
       "url": "https://open.spotify.com/track/5QQnkvW6rBpipvVJneUtI3"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-04-26",
-  "description": "Keeping it lowkey with the best of today's chill pop. Cover: Jonah Kagen & Lily Meola",
+  "description": "Keeping it lowkey with the best of today's chill pop. Cover: Rene\u00e9 Rapp",
   "name": "Chill Pop",
   "tracks": [
     {
@@ -630,7 +630,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 238003,
       "name": "Actress",
       "url": "https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw"
@@ -742,7 +742,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 191200,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/4wKrpu9sDhiSe7jWXhKelm"
@@ -1980,7 +1980,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 163333,
       "name": "Bad Tattoo",
       "url": "https://open.spotify.com/track/7g7I8kBG21lfc7YAELxQyP"
@@ -2168,7 +2168,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 112421,
       "name": "Beautiful World",
       "url": "https://open.spotify.com/track/1AcLopklm3BN9tvIS1Qion"
@@ -2716,7 +2716,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 138374,
       "name": "blame's on me",
       "url": "https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP"
@@ -3711,6 +3711,24 @@
     },
     {
       "album": {
+        "name": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
+        "url": "https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205483,
+      "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
+    },
+    {
+      "album": {
         "name": "Carbon Copy",
         "url": "https://open.spotify.com/album/5oqxbFXnvb6GXQXbT5AliN"
       },
@@ -4624,7 +4642,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 235905,
       "name": "Cold Tea",
       "url": "https://open.spotify.com/track/597KzBs4KvD6HavNl0yiG1"
@@ -6513,6 +6531,24 @@
     },
     {
       "album": {
+        "name": "east side",
+        "url": "https://open.spotify.com/album/0TqA7jHzMVftg6xeMa9ZZj"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165578,
+      "name": "east side",
+      "url": "https://open.spotify.com/track/2AqZLF7yk7Jf17Be1i6jcO"
+    },
+    {
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/1JvToB7yIkLMk4Fw6ARPgK"
       },
@@ -6900,6 +6936,24 @@
       "duration_ms": 209300,
       "name": "evergone",
       "url": "https://open.spotify.com/track/5TbZEYpwXya5oNqGJbiIQx"
+    },
+    {
+      "album": {
+        "name": "RMCM",
+        "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
     },
     {
       "album": {
@@ -8403,6 +8457,24 @@
     },
     {
       "album": {
+        "name": "Friend Like You",
+        "url": "https://open.spotify.com/album/6CSqDpvmAcJs9lwoitpFQH"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193800,
+      "name": "Friend Like You",
+      "url": "https://open.spotify.com/track/4CvFbEhIniaOSJxX7zmVhm"
+    },
+    {
+      "album": {
         "name": "Friends (feat. Kiana Lede)",
         "url": "https://open.spotify.com/album/50wbrnbjFqDsBRg4DkfoW5"
       },
@@ -9838,7 +9910,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 232933,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7hFiSpPEyu7lFHxy4nJOmo"
@@ -10952,6 +11024,24 @@
       "duration_ms": 165533,
       "name": "i deserve 2 b alone",
       "url": "https://open.spotify.com/track/2NKvrozwURLPXnj3chhnfD"
+    },
+    {
+      "album": {
+        "name": "Snow Angel (Deluxe)",
+        "url": "https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/6sl8thmAsTzYfVw3jJ9z49"
     },
     {
       "album": {
@@ -12383,6 +12473,24 @@
     },
     {
       "album": {
+        "name": "Cause of Death (Deluxe)",
+        "url": "https://open.spotify.com/album/0ns1wqOgdZZrNMQYJB9ViB"
+      },
+      "artists": [
+        {
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171639,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/6sPp6Hxmvd22SMtxDDVM7p"
+    },
+    {
+      "album": {
         "name": "internet crush",
         "url": "https://open.spotify.com/album/5lUP2Yxp4mdf7Dl3GXoB8H"
       },
@@ -12572,6 +12680,24 @@
       "duration_ms": 222095,
       "name": "isn't it enough",
       "url": "https://open.spotify.com/track/6LFCiV3TmCozEgy51rp9aa"
+    },
+    {
+      "album": {
+        "name": "Isn't It Obvious",
+        "url": "https://open.spotify.com/album/20qybCQYkW2B6pONKi8u0v"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158130,
+      "name": "Isn't It Obvious",
+      "url": "https://open.spotify.com/track/5QDtGxC2khjwLEq1bXhdEj"
     },
     {
       "album": {
@@ -13362,7 +13488,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 232606,
       "name": "Last Train To London (I Won't Look Back)",
       "url": "https://open.spotify.com/track/3KRKN196F3i6G1HnIqd2e5"
@@ -15168,7 +15294,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 211310,
       "name": "Matchbox",
       "url": "https://open.spotify.com/track/0wXFG6Mp60kQn4MA5DdBrw"
@@ -18499,6 +18625,24 @@
     },
     {
       "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202193,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/3aOgskwxDLNY9Xz6hE2zzm"
+    },
+    {
+      "album": {
         "name": "Part of Me",
         "url": "https://open.spotify.com/album/6uOlsqNPU8RIwSx0Uv2tH4"
       },
@@ -19470,7 +19614,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 189257,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6"
@@ -21555,6 +21699,24 @@
     },
     {
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199756,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq"
+    },
+    {
+      "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
@@ -22241,6 +22403,24 @@
     },
     {
       "album": {
+        "name": "Still Got It (Live from Spotify Green Screen)",
+        "url": "https://open.spotify.com/album/3xPu6oQFNfcC3e3Bcj2viF"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167055,
+      "name": "Still Got It - Live from Spotify Green Screen",
+      "url": "https://open.spotify.com/track/0Lo1FAFOyXXX1ptjez0Odn"
+    },
+    {
+      "album": {
         "name": "Still Something",
         "url": "https://open.spotify.com/album/010yX6iIbqs59x29SwwUaG"
       },
@@ -22520,7 +22700,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 173954,
       "name": "Stupid Cupid",
       "url": "https://open.spotify.com/track/08uYRkYyBrEBAolgY5irVW"
@@ -22989,6 +23169,24 @@
     },
     {
       "album": {
+        "name": "Nicole",
+        "url": "https://open.spotify.com/album/7gK4I6eM9fYJCfq4IeHx1t"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303933,
+      "name": "Take A Chance With Me",
+      "url": "https://open.spotify.com/track/0x7PmByJWVXdeipevd6KZS"
+    },
+    {
+      "album": {
         "name": "Take It Slow",
         "url": "https://open.spotify.com/album/0jk6DSgEu9Gu7AOyzrIESu"
       },
@@ -23277,6 +23475,24 @@
     },
     {
       "album": {
+        "name": "Tell You",
+        "url": "https://open.spotify.com/album/3b8ARwSMHmRhg80pG6vf8X"
+      },
+      "artists": [
+        {
+          "name": "Tors",
+          "url": "https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225400,
+      "name": "Tell You",
+      "url": "https://open.spotify.com/track/1os5yOaXXyXGY29yOPkTRS"
+    },
+    {
+      "album": {
         "name": "Temporary",
         "url": "https://open.spotify.com/album/4Qghl3DP17dDl14pvXCrJ9"
       },
@@ -23364,7 +23580,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 258812,
       "name": "Thank God I Do",
       "url": "https://open.spotify.com/track/2rpZ2T8xOiDnn5VpYXvwIC"
@@ -27236,6 +27452,24 @@
       "duration_ms": 224971,
       "name": "WONDER [with Sara Bareilles]",
       "url": "https://open.spotify.com/track/1Smt0FqrlAkz6V1iEsUFvi"
+    },
+    {
+      "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229357,
+      "name": "Wool - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/4hoqP9dIAu2Nk6u5LvxOR4"
     },
     {
       "album": {

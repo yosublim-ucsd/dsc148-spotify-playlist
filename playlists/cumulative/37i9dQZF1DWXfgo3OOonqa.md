@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-1,282 songs - 2 day 8 hr 30 min
+1,284 songs - 2 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [CORAZON](https://open.spotify.com/track/6BG2tzAVb5HgtfiXpaqHIm) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [MYROR I BRALLAN](https://open.spotify.com/album/5sJ7pHRa8OYkMgTAWOKidt) | 2:24 | 2022-02-03 | 2022-03-05 |
 | [CORAZON](https://open.spotify.com/track/46UmHG8FqkhS4DzFPu7Nlm) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx) | [CORAZON](https://open.spotify.com/album/45Ukr5LeghbyFjZwbi6mNI) | 2:17 | 2023-07-27 | 2023-10-06 |
 | [CORAZON](https://open.spotify.com/track/0J0e6xg3NUfL7Ic6aqKySC) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [CORAZON](https://open.spotify.com/album/0tTkm8fXx4VNrZSWRSo12o) | 2:30 | 2022-08-05 | 2022-08-27 |
+| [Crazy](https://open.spotify.com/track/3Ez3ZpuhwVyTInPHXSXV1m) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Crazy](https://open.spotify.com/album/4MQaDqPfUzyPQ427RBmZJE) | 2:32 | 2023-11-17 |  |
 | [CROSS COUNTRY](https://open.spotify.com/track/4i440HyveNWpscGLrYJXsh) | [Loxell](https://open.spotify.com/artist/6jqOiXsSb8FanwnWtz6OZu), [PreGame](https://open.spotify.com/artist/0MeqrNMZbF4Nv9HCwmi0qC), [Erk](https://open.spotify.com/artist/5HhJ4EfjcISuAIPnbz9B3c) | [CROSS COUNTRY](https://open.spotify.com/album/3c2fTSyVQ4TprFiQ3ZmuqX) | 3:06 | 2022-12-15 | 2023-01-06 |
 | [CROWN](https://open.spotify.com/track/5ttU3nppUfNXjnpogns7RL) | [TMA](https://open.spotify.com/artist/7HooMDZWSlS5FmEzJKrHix), [Nabzy](https://open.spotify.com/artist/69UGhJ5ofrMbgORlfOLiKg) | [CROWN](https://open.spotify.com/album/2jvDcLeRdhd1aH0h3Au5ze) | 2:48 | 2023-04-27 | 2023-06-09 |
 | [CRUELLA DE VIL](https://open.spotify.com/track/0QdYaAJARjtuT57kSfGh2o) | [Jeaff](https://open.spotify.com/artist/04OtPVhopqSHGWhzy5O5bE) | [CRUELLA DE VIL](https://open.spotify.com/album/7mw8utk6aPmvAUqLVNUlo7) | 2:44 | 2022-12-01 | 2022-12-16 |
@@ -1071,6 +1072,7 @@
 | [Stockholm](https://open.spotify.com/track/3wpjZajcRJQlvjCRCgQ40q) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [Turbulence](https://open.spotify.com/album/46sUyBzswdVzGjveaAnU18) | 2:22 | 2023-04-28 | 2023-06-02 |
 | [Stockholm By Night](https://open.spotify.com/track/795T6YRPyvgcKACmqqrvrD) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Stockholm By Night](https://open.spotify.com/album/0mJ6MX3Ac4S6XhDANlLu2P) | 2:45 | 2023-07-13 | 2023-07-28 |
 | [Stockholm City](https://open.spotify.com/track/1QRdHnv5rjDtPy1TqiOjAn) | [Biggie Juke](https://open.spotify.com/artist/1iFBAUJba6rHRgFNOJYUDD) | [Stockholm City](https://open.spotify.com/album/0zSmzh9PMUxX2zWUVJmDDn) | 2:08 | 2022-06-09 | 2022-07-08 |
+| [Stockholm, Sweden](https://open.spotify.com/track/4OXBckSyWWg75ge5zrVS3D) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Stockholm, Sweden](https://open.spotify.com/album/2jeuty9zm7vBzzDnsNsmEn) | 2:40 | 2023-11-17 |  |
 | [Stora](https://open.spotify.com/track/7vdBhdrc3ebhD0uPJrTaHH) | [Saliboy](https://open.spotify.com/artist/5im4dgusFQfg3u2UGPYvEF), [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Stora](https://open.spotify.com/album/6foQbx3LaUmzadciF2ll31) | 2:36 | 2022-06-30 | 2022-07-15 |
 | [Stora blå](https://open.spotify.com/track/4iOofOqrmdCTLopFFbUw6D) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7), [Ison & Fille](https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk) | [Över Broarna](https://open.spotify.com/album/3v9SCu8MMIpxu3lVYF9Xvv) | 2:59 | 2023-05-25 | 2023-09-08 |
 | [Storm](https://open.spotify.com/track/6nNxpXPvbZGP0cPunh7JQS) | [Nabzy](https://open.spotify.com/artist/69UGhJ5ofrMbgORlfOLiKg) | [Storm](https://open.spotify.com/album/179ZAoenJOPrmNvSlmdmLo) | 3:10 | 2022-02-10 | 2022-03-25 |

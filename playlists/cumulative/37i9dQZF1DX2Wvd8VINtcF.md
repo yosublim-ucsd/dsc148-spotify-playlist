@@ -4,7 +4,7 @@
 
 > the pearls of an oyster.
 
-967 songs - 2 day 5 hr 36 min
+968 songs - 2 day 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -727,6 +727,7 @@
 | [Saturnus](https://open.spotify.com/track/00prDywHwnS670dcxYZ1TP) | [Morabeza Tobacco](https://open.spotify.com/artist/0zce27eTR25aKpjQ7CvOA7) | [Shadow of the Cherry](https://open.spotify.com/album/3q39MLZ59YkeWDR6KkSfPj) | 4:52 | 2022-11-03 | 2023-02-03 |
 | [Save Me](https://open.spotify.com/track/49OKGVDSoyJMAEH7oGubKa) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Save Me](https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI) | 3:18 | 2023-08-09 | 2023-08-15 |
 | [Say What You're Gonna Say](https://open.spotify.com/track/47WkCp0ntAuHJPs1NQL0HC) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [NO MORE ICONS?](https://open.spotify.com/album/617mKwqMjXsJqpstYxS2AU) | 3:15 | 2022-11-10 | 2022-11-18 |
+| [Say You Want Me \- Pocket Remix](https://open.spotify.com/track/1tTgKFv9pYOAIJ4n7hY5Bb) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Say You Want Me \(Pocket Remix\)](https://open.spotify.com/album/67sGQE5Ga6F2IjvDNciRJH) | 3:10 | 2023-11-16 |  |
 | [school reunion](https://open.spotify.com/track/0jvuiMZpvrjxTK8iU76PRn) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [school reunion](https://open.spotify.com/album/3HLs4a8BLcCOtDCMEoUGx7) | 2:54 | 2023-08-03 | 2023-10-06 |
 | [Secrets](https://open.spotify.com/track/0uR3mLceAIilrijZZzrFhy) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM), [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Secrets](https://open.spotify.com/album/5VaIQ98XwzUkmFVaPNFXdV) | 2:12 | 2023-04-27 | 2023-06-02 |
 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 | 2023-09-21 |  |

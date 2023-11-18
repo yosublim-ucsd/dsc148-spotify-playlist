@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Vaundy \*👉 <a href="https://spice.eplus.jp/articles/323840?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,794 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,935 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 52 | [Love Song](https://open.spotify.com/track/2UAhsIn5noHvg4FhQqjrlI) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [Love Song](https://open.spotify.com/album/2UFucyHOdFOrdGMlm5cB20) | 4:16 |
 | 53 | [ハイウェイ](https://open.spotify.com/track/5SKE1TrwANySMAHwX7uXEJ) | [Qnel](https://open.spotify.com/artist/3BPOGmjOCeLb5xwdz17OuF), [釜中健伍](https://open.spotify.com/artist/2WVWgwJ4K9EIhINZle0ulC) | [ハイウェイ](https://open.spotify.com/album/3VF4vOGBB5KBrUJEzztGRX) | 3:57 |
 | 54 | [素直になれない](https://open.spotify.com/track/4OhqsqLSIcjnFWRn1rUUfu) | [Asagaya Romantics](https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x) | [素直になれない](https://open.spotify.com/album/1KSBFiqinzK1vBJRGSJLq7) | 2:46 |
-| 55 | [\(Immediately\) Went Up In Smoke](https://open.spotify.com/track/6ONgHSNay3w2cdXSxVBOnp) | [Yohei](https://open.spotify.com/artist/7N2jFvVoAjYhOSg93eNKgF), [Bonzie](https://open.spotify.com/artist/6fmcpY7BO7QFawzuW7vAqd), [Crash Richard](https://open.spotify.com/artist/4CeM6k6L6z36r0xhteyfXF), [Leonard Marques](https://open.spotify.com/artist/7sqdsC8bEijJyCaQjzDr8Q) | [\(Immediately\) Went Up In Smoke](https://open.spotify.com/album/4U0TzNHtSta5fFFnIdQZp3) | 3:43 |
+| 55 | [\(Immediately\) Went Up In Smoke](https://open.spotify.com/track/6ONgHSNay3w2cdXSxVBOnp) | [Yohei](https://open.spotify.com/artist/0zR1Bj4ntgsjDXQAuexdQ6), [Bonzie](https://open.spotify.com/artist/6fmcpY7BO7QFawzuW7vAqd), [Crash Richard](https://open.spotify.com/artist/4CeM6k6L6z36r0xhteyfXF), [Leonard Marques](https://open.spotify.com/artist/7sqdsC8bEijJyCaQjzDr8Q) | [\(Immediately\) Went Up In Smoke](https://open.spotify.com/album/4U0TzNHtSta5fFFnIdQZp3) | 3:43 |
 | 56 | [Ashita Tenki Ni Nare \- Cover](https://open.spotify.com/track/7E95CpDp0MERvOhcPTDuv0) | [Lisa Halim](https://open.spotify.com/artist/52kXMSVvJpQ9RWABFBt9H9), [Kenny](https://open.spotify.com/artist/3i0SazQig71kiRdJLBkq9p) | [Ashita Tenki Ni Nare \(Cover\)](https://open.spotify.com/album/46oivT9zupslDZBLGCGBKR) | 4:29 |
 | 57 | [GALAXY](https://open.spotify.com/track/3fqJbkftEyeyuqtf9H2UVJ) | [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf) | [満身創意](https://open.spotify.com/album/1EJZyEyOQ9Ad6Rkro66ieM) | 3:59 |
 | 58 | [Heartbreak](https://open.spotify.com/track/0rIZkz0ekMl7kcoFdzVh0f) | [Mashinomi](https://open.spotify.com/artist/38ekEKl28kPuKUoQqSFlKi), [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D) | [Heartbreak](https://open.spotify.com/album/5KAfm6Ju6CY76qYRtgkAQd) | 2:44 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 70 | [Odoridasuai](https://open.spotify.com/track/1adgRxAoP6OcZIDwoXWXpl) | [Mellow Youth](https://open.spotify.com/artist/2gz3u0swrP8haOwVzegHYk) | [Odoridasuai / Ao](https://open.spotify.com/album/3vwo7NSDhSQIT2ClNzZknz) | 4:16 |
 | 71 | [Match Pomp](https://open.spotify.com/track/1s27XQgfXccu3SwpsU3ZBP) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [HUMANIAC](https://open.spotify.com/album/5wYKiUTV4VrL30c638WAME) | 3:11 |
 | 72 | [Connector Fuck Man](https://open.spotify.com/track/4iqKxmIaivhpczzqgWwvwh) | [Texas 3000](https://open.spotify.com/artist/0vXeC8scvNvE6vIzpGTXeV) | [tx3k](https://open.spotify.com/album/0ZvwbbtzkhWNYwGuoccJ16) | 3:14 |
-| 73 | [Rollin’](https://open.spotify.com/track/6uCScLbYOicfKzdqgqUiXa) | [MOTONARI](https://open.spotify.com/artist/4hKWXkmygX8rY3e0YI0IQk), [Mud](https://open.spotify.com/artist/3cqIsBnzV3BabbPWKz8Txf) | [30.28.3.0](https://open.spotify.com/album/6URZcPggAyOY8xmNyMgeJ4) | 2:30 |
+| 73 | [Rollin’](https://open.spotify.com/track/6uCScLbYOicfKzdqgqUiXa) | [MOTONARI](https://open.spotify.com/artist/4hKWXkmygX8rY3e0YI0IQk), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [30.28.3.0](https://open.spotify.com/album/6URZcPggAyOY8xmNyMgeJ4) | 2:30 |
 | 74 | [繰返](https://open.spotify.com/track/0BXImAEoDUxjhF8S1nhUTt) | [KUJA](https://open.spotify.com/artist/3PO2yfcvZ1LRC5rtNSWFgF), [Silent Killa Joint](https://open.spotify.com/artist/1nNfL1cMyGVkyODtqf90wI) | [waypoint](https://open.spotify.com/album/6tpxIZuUEHJRc8FsNrLZPP) | 1:58 |
 | 75 | [Perfect Girl](https://open.spotify.com/track/042M2m3Vy6c8nLCr0tbErf) | [Show Chick Boy](https://open.spotify.com/artist/0JEcGdbz3QOur7R1meQYuS) | [Perfect Girl](https://open.spotify.com/album/01gBk5CvUDx2wdU6OMQjmD) | 3:40 |
 | 76 | [MAD](https://open.spotify.com/track/2s4Z69fulv5zX5Zg5CgAvC) | [Foi](https://open.spotify.com/artist/395MrZuV4ZaUrn1QUPu8FB), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [MAD](https://open.spotify.com/album/569yPVbnVlmSXzWWUaJhaX) | 3:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [Ame](https://open.spotify.com/track/4ktqxaSCWyy9UUMt0oW3sk) | [Sonosaki Tomari](https://open.spotify.com/artist/6UvCh5mEmgJe9Oeb4XjKDA) | [Ame](https://open.spotify.com/album/6IQy4ozFBnwlZJ4DBwAIcJ) | 5:04 |
 | 80 | [paradiselost \- feat.成山内\(sleepy.ab\)](https://open.spotify.com/track/2t6MxMhjkpVFoJTzWfu0Sv) | [noid](https://open.spotify.com/artist/2fmNCUJ5ne4OgRofGX4iQT), [成山内\(sleepy.ab\)](https://open.spotify.com/artist/7CE7DciBrq4HZUSzF5N1CK) | [YAMI／YO／AKE](https://open.spotify.com/album/43riQ3B9dmCTPmJdKQX8LD) | 5:29 |
 
-Snapshot ID: `MCxhNDkxMmMzMjI3YzRmNmU0ODA2YWJjNzFkNjYxZWRkMDhmZDU3NWEx`
+Snapshot ID: `MCwwODQwY2UzOGNjMmM4MTZlNzMwNmEwMGNhNTQxYWIzZDdhNDc3MmQ0`

@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover:  <a href=\u201cspotify:artist:40LHVA5BTQp9RxHOQ9JPYj\u201d>Lauren Daigle</a> ",
-  "num_followers": 44040,
+  "num_followers": 44041,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTU0Y2U1M2ExMWVhOTE4ZDhjZTdjMDc5Y2VhZWVhNWZhZTk1NGY3",
+  "snapshot_id": "MCxmNWRhNTNiYTY5YTAwYWZjMzZiMWFmMDhlMDkxMzYyZjZlYzYzMThl",
   "tracks": [
     {
       "added_at": "2023-11-08 20:27:12",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-11-08 20:27:12",
       "album": {
-        "name": "Monster (Spotify Singles)",
-        "url": "https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 237989,
-      "name": "Monster - Spotify Singles",
-      "url": "https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE"
-    },
-    {
-      "added_at": "2023-11-08 20:27:12",
-      "album": {
         "name": "Espejo",
         "url": "https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 158373,
       "name": "Espejo",
       "url": "https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf"
+    },
+    {
+      "added_at": "2023-11-08 20:27:12",
+      "album": {
+        "name": "Monster (Spotify Singles)",
+        "url": "https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 237989,
+      "name": "Monster - Spotify Singles",
+      "url": "https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE"
     },
     {
       "added_at": "2023-11-08 20:27:12",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-11-08 20:27:12",
       "album": {
+        "name": "Barbie",
+        "url": "https://open.spotify.com/album/75R7GceHeK8bCwv23trU4N"
+      },
+      "artists": [
+        {
+          "name": "JaidynAlexis",
+          "url": "https://open.spotify.com/artist/1bu90rjktSmOd2wveQoIKi"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/299qlT1YcZ3DVlKCoqRoV7"
+    },
+    {
+      "added_at": "2023-11-08 20:27:12",
+      "album": {
         "name": "PHOENIX",
         "url": "https://open.spotify.com/album/1bjMRqNRSj1acJP6XesJMW"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 203893,
       "name": "Once then we'll be free",
       "url": "https://open.spotify.com/track/654f3RV4IZdpvH189db8mQ"
-    },
-    {
-      "added_at": "2023-11-08 20:27:12",
-      "album": {
-        "name": "Barbie",
-        "url": "https://open.spotify.com/album/75R7GceHeK8bCwv23trU4N"
-      },
-      "artists": [
-        {
-          "name": "JaidynAlexis",
-          "url": "https://open.spotify.com/artist/1bu90rjktSmOd2wveQoIKi"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Barbie",
-      "url": "https://open.spotify.com/track/299qlT1YcZ3DVlKCoqRoV7"
     },
     {
       "added_at": "2023-11-08 20:27:12",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-11-08 20:27:12",
       "album": {
-        "name": "HOY ME PORTO MAL",
-        "url": "https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 133051,
-      "name": "HOY ME PORTO MAL",
-      "url": "https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL"
-    },
-    {
-      "added_at": "2023-11-08 20:27:12",
-      "album": {
         "name": "BRB",
         "url": "https://open.spotify.com/album/11tIOLXTlQRg1ZJeJrIBJ6"
       },
@@ -575,18 +559,18 @@
     {
       "added_at": "2023-11-08 20:27:12",
       "album": {
-        "name": "Man",
-        "url": "https://open.spotify.com/album/5Paf4g7Jw9SXsPaTHCqWwp"
+        "name": "HOY ME PORTO MAL",
+        "url": "https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ"
       },
       "artists": [
         {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 166769,
-      "name": "Man",
-      "url": "https://open.spotify.com/track/55f35jEFEDIWCY9YDwf9r0"
+      "duration_ms": 133051,
+      "name": "HOY ME PORTO MAL",
+      "url": "https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL"
     },
     {
       "added_at": "2023-11-08 20:27:12",
@@ -603,6 +587,22 @@
       "duration_ms": 146932,
       "name": "My Problem",
       "url": "https://open.spotify.com/track/0pXUVMtPaFDghiBgDs6U1f"
+    },
+    {
+      "added_at": "2023-11-08 20:27:12",
+      "album": {
+        "name": "Man",
+        "url": "https://open.spotify.com/album/5Paf4g7Jw9SXsPaTHCqWwp"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 166769,
+      "name": "Man",
+      "url": "https://open.spotify.com/track/55f35jEFEDIWCY9YDwf9r0"
     },
     {
       "added_at": "2023-11-08 20:27:12",

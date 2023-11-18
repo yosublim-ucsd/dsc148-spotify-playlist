@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: La Joaqui.
 
-349 songs - 20 hr 5 min
+351 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Agüita](https://open.spotify.com/track/5iPKyio003pi14w0xjXR5m) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Megamix](https://open.spotify.com/album/3Cbl0a3SPzkwd0537ju3WS) | 3:33 | 2023-04-11 | 2023-09-02 |
 | [Agüita](https://open.spotify.com/track/2QCQvMPXfoTGTP5wAYGvzP) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:34 | 2022-01-14 | 2023-01-21 |
 | [Ahora Que Te Vas](https://open.spotify.com/track/5rsFQUSjouRx188w4O0xMm) | [Cumbia Club](https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x), [Luana](https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy) | [Ahora Que Te Vas](https://open.spotify.com/album/40XAu7HbtYFVUxTP32UyFj) | 2:45 | 2022-07-15 | 2022-07-23 |
-| [Ahora Vienes A Llorar](https://open.spotify.com/track/25Ku8CtkLiXWmeWht3B8F1) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Ahora Vienes A Llorar](https://open.spotify.com/album/7pRiVVQuOXEt03h1TTSFE2) | 3:02 | 2023-09-01 |  |
+| [Ahora Vienes A Llorar](https://open.spotify.com/track/25Ku8CtkLiXWmeWht3B8F1) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Ahora Vienes A Llorar](https://open.spotify.com/album/7pRiVVQuOXEt03h1TTSFE2) | 3:02 | 2023-09-01 | 2023-11-18 |
 | [Algún Día Volveras](https://open.spotify.com/track/27uAea0qcUz3a7jKnAT7KG) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volveras](https://open.spotify.com/album/2y0JhWUYih6KmgiCaAOexC) | 4:13 | 2022-01-14 | 2022-07-28 |
 | [Algún Día Volverás](https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [Algún Día Volverás](https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i) | 4:13 | 2022-07-22 |  |
 | [Amiga Luna](https://open.spotify.com/track/3SCeRLJf7mG8DHUKCigB8o) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Amiga Luna](https://open.spotify.com/album/40zRnWMahboZXFQdVlG1Rz) | 3:27 | 2022-07-22 | 2022-08-13 |
@@ -77,6 +77,7 @@
 | [Cómo Pude Amarla](https://open.spotify.com/track/5Sc4aKJpElEE4s8573uBgz) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Solo](https://open.spotify.com/album/3KHwSLop7v3T5egeuXjL9n) | 3:25 | 2022-01-14 | 2022-07-29 |
 | [De Amor Voy a Morirme](https://open.spotify.com/track/4E6Exumf6rVckB5Wz7dRgf) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [De Amor Voy a Morirme](https://open.spotify.com/album/0tXY3rHWyKS2VD3hpEbXOK) | 3:07 | 2022-01-14 | 2022-07-25 |
 | [De los Besos Que Te Di](https://open.spotify.com/track/1mnwYmoL5vZeBqPyUwrVCs) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [De los Besos Que Te Di](https://open.spotify.com/album/2dsOyYTgkETIfhzoEcGsTj) | 3:16 | 2022-01-21 | 2022-07-29 |
+| [De Mí Enamórate](https://open.spotify.com/track/4JrLetRUyUCLLWzsZxsiNK) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [De Mí Enamórate](https://open.spotify.com/album/4e0SkglHENpOcI1PBWBC0I) | 3:58 | 2023-11-17 |  |
 | [De Quien Es La Culpa](https://open.spotify.com/track/7c8SEakrcn7PLDcZX0bKJo) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Araus Danesi](https://open.spotify.com/artist/7nsDjXt3xtyKr2ms1bb5aK) | [De Quien Es La Culpa](https://open.spotify.com/album/0SYojN22VetJRAt89zabbq) | 3:12 | 2023-08-11 |  |
 | [Deja De Llorar](https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Sigo Por El Objetivo](https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx) | 2:26 | 2022-01-14 |  |
 | [Dejémoslo Así](https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Solo un Momento](https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG) | 3:24 | 2022-01-14 |  |
@@ -165,7 +166,7 @@
 | [Lo Mejor del Amor](https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Lo Mejor del Amor](https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t) | 2:47 | 2022-03-18 |  |
 | [Lo Que Me Duele / Y Que Pasó](https://open.spotify.com/track/7vL8ZEvLOXXW9SiL9ulZRZ) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Lo Que Me Duele / Y Que Pasó](https://open.spotify.com/album/3CtG7vSvFhZqFPryWeuZ0N) | 4:44 | 2022-04-01 |  |
 | [Lo Que Son las Cosas](https://open.spotify.com/track/3vvsr13YGLxwTE4wEDSWfq) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ), [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Lo Que Son las Cosas](https://open.spotify.com/album/4QR6fnZkBbstmtTr8q7erK) | 3:55 | 2022-02-25 | 2023-09-21 |
-| [Loco](https://open.spotify.com/track/4OWh4q7qfZpVFFXmmbnLbd) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Loco](https://open.spotify.com/album/7gFB9vr46W5vtS6LUXHQHK) | 2:25 | 2023-10-20 |  |
+| [Loco](https://open.spotify.com/track/4OWh4q7qfZpVFFXmmbnLbd) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Loco](https://open.spotify.com/album/7gFB9vr46W5vtS6LUXHQHK) | 2:25 | 2023-10-20 | 2023-11-18 |
 | [Los Infieles](https://open.spotify.com/track/60N0Hb2yL4daYW4u3Ijw4I) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Y la cumbia se baila así...](https://open.spotify.com/album/1C4JGlucUtnJGEBj7I9BQN) | 3:18 | 2022-01-14 |  |
 | [Lágrimas](https://open.spotify.com/track/3KIMz0gFb6UlwjGaxGEtQk) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lágrimas](https://open.spotify.com/album/5yEunu5lGVvGdi2bGgZ7Ne) | 4:27 | 2022-03-08 | 2022-07-14 |
 | [Maldita Traidora](https://open.spotify.com/track/7lqkZf6ACHHZN8OMYkwJKA) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Maldita Traidora](https://open.spotify.com/album/1z8zIqVzGUC6SbO2RpTMXi) | 4:06 | 2022-07-15 | 2022-08-13 |
@@ -235,6 +236,7 @@
 | [Porque te Amo](https://open.spotify.com/track/25DfDOwP1giHlA05V3LyUR) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor!!!](https://open.spotify.com/album/3kAXiEiI9Je5tywIAywzcp) | 3:53 | 2022-01-14 | 2023-03-12 |
 | [Porque te amo](https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor](https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06) | 3:53 | 2023-03-10 |  |
 | [Porque te fuiste](https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [El Polaco \- Agradeciendo a Dios](https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf) | 3:23 | 2022-01-14 |  |
+| [Porque Te Quiero](https://open.spotify.com/track/6HSf4qTPcIXH4Utqy1yEAl) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Porque Te Quiero](https://open.spotify.com/album/7wFsp9juUwd8ysMjykktKZ) | 4:33 | 2023-11-17 |  |
 | [Primera y Última Vez](https://open.spotify.com/track/7HlYK2GEvPtvYGCdHA0vFM) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn) | [Primera y Última Vez](https://open.spotify.com/album/7bEnK9vfhCtR0jb4znVATw) | 2:07 | 2022-04-01 | 2022-04-21 |
 | [Puño De Diamantes](https://open.spotify.com/track/2ewJwEM11rTfLEGHincK2H) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X) | [Puño de diamantes](https://open.spotify.com/album/4EJBIiUVpADZoaa8iYyyL3) | 3:52 | 2023-08-04 | 2023-08-12 |
 | [Que Agonía](https://open.spotify.com/track/5YeS8HKOAuS5OI9SfsVsGv) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Sele Basualdo](https://open.spotify.com/artist/0iAtSUjb38hFcaRBhhqsCD) | [Que Agonía](https://open.spotify.com/album/56KIUWbARNus9tDb08Iqyu) | 2:52 | 2023-06-23 | 2023-07-08 |

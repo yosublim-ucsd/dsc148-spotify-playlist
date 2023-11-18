@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 
 > Novedades y clásicos del popular género colombiano\. Foto: Silvestre Dangond
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,098 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,636 likes - 60 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 | 2 | [Cupido](https://open.spotify.com/track/26PCa9oiL7a8frOxeo4G52) | [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [A To' Timbal](https://open.spotify.com/album/62XE6gFwbqHghQwsifIVyO) | 3:26 |
 | 3 | [Modo Avión](https://open.spotify.com/track/0hkMAFDOIP6whke8ckr0bs) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Lucas Dangond](https://open.spotify.com/artist/3ozq7y6TMdWzUMc27vzFMX) | [Para Ustedes](https://open.spotify.com/album/1JfE5rJHaf1orCmnwtEDHd) | 3:42 |
 | 4 | [Sin Medir Distancias](https://open.spotify.com/track/6OIvXRQYGEhmvLjcYNcV4n) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [El Cocha Molina](https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs) | [Brindo Con El Alma](https://open.spotify.com/album/5sKPvJKVhhhYBPhs6kxbjM) | 5:00 |
-| 5 | [Ya Pa Que](https://open.spotify.com/track/3Q7equZktTSZJ3KBytS4cX) | [Churo Diaz](https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey), [Elías Mendoza](https://open.spotify.com/artist/0oniumgsmbuItH1l6O8vER) | [Único](https://open.spotify.com/album/06wq8hSeOt7YNj8LeJX5Nz) | 4:13 |
-| 6 | [Amantes](https://open.spotify.com/track/4HQa0epS8B23YEHqyA2fKr) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Disco Que Me Gusta](https://open.spotify.com/album/5ymciF4IdHbVu5yxJlCf1W) | 3:45 |
-| 7 | [Terminó Gustando](https://open.spotify.com/track/7lnBlgW6U6fLTotoXt6Tb4) | [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ), [Zona 8 R](https://open.spotify.com/artist/7M7XJgVgKowhXOEd4vGjuN) | [Terminó Gustando](https://open.spotify.com/album/10FtmtPmy2qRZbHUN6dezW) | 3:42 |
-| 8 | [Bandolera](https://open.spotify.com/track/66RZtIysZkIVCVwfVDxC2T) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB), [Alberto Kammerer](https://open.spotify.com/artist/5PZgiiLyMOIQxO8oUdR6sl) | [Bandolera](https://open.spotify.com/album/2JxZO69Tr7zwmhQyoEEjYS) | 4:11 |
-| 9 | [Me Das Y Me Quitas Todo](https://open.spotify.com/track/3hRLE4fGujnPKx3lJi7Y5K) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt), [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek) | [Dos Épocas \(Segunda Edición\)](https://open.spotify.com/album/2PxwFOfB6afTLTGxYgwICy) | 4:48 |
+| 5 | [Besarte](https://open.spotify.com/track/33doG1bU7G1pl97qR1VfLv) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Jean Carlos Centeno](https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB), [José Rafael Romero](https://open.spotify.com/artist/0WRbK5vX0nLzj5FG2PSacF) | [Besarte](https://open.spotify.com/album/2ioOUklTolYp7LabZEiTvC) | 3:44 |
+| 6 | [Ya Pa Que](https://open.spotify.com/track/3Q7equZktTSZJ3KBytS4cX) | [Churo Diaz](https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey), [Elías Mendoza](https://open.spotify.com/artist/0oniumgsmbuItH1l6O8vER) | [Único](https://open.spotify.com/album/06wq8hSeOt7YNj8LeJX5Nz) | 4:13 |
+| 7 | [Amantes](https://open.spotify.com/track/4HQa0epS8B23YEHqyA2fKr) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Disco Que Me Gusta](https://open.spotify.com/album/5ymciF4IdHbVu5yxJlCf1W) | 3:45 |
+| 8 | [Terminó Gustando](https://open.spotify.com/track/7lnBlgW6U6fLTotoXt6Tb4) | [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ), [Zona 8 R](https://open.spotify.com/artist/7M7XJgVgKowhXOEd4vGjuN) | [Terminó Gustando](https://open.spotify.com/album/10FtmtPmy2qRZbHUN6dezW) | 3:42 |
+| 9 | [Bandolera](https://open.spotify.com/track/66RZtIysZkIVCVwfVDxC2T) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB), [Alberto Kammerer](https://open.spotify.com/artist/5PZgiiLyMOIQxO8oUdR6sl) | [Bandolera](https://open.spotify.com/album/2JxZO69Tr7zwmhQyoEEjYS) | 4:11 |
 | 10 | [Una Salidita](https://open.spotify.com/track/4gGPjhcTVVQOJWP7tsimQn) | [Luifer Cuello](https://open.spotify.com/artist/3t4QqzE7i62nLJ6nsAEswx) | [Una Salidita](https://open.spotify.com/album/2Rx1gctOQ6BIh5Y1wzvAdk) | 3:29 |
 | 11 | [La Rompecorazones](https://open.spotify.com/track/2aXgU9biHn0rIrBapROjNI) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB), [Alberto Kammerer](https://open.spotify.com/artist/5PZgiiLyMOIQxO8oUdR6sl) | [Se Va Formando](https://open.spotify.com/album/36jTX86gCCKfkKpzIPLQ7W) | 3:52 |
 | 12 | [Después Del Adiós](https://open.spotify.com/track/3qvkHyt2EBuycESNoeqr2b) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Dos Épocas](https://open.spotify.com/album/580WWF84fAKqqzgInvnUsz) | 4:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 | 59 | [Dificil de igualar](https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE) | 5:03 |
 | 60 | [Ya No Me Duele Más](https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ya No Me Duele Más](https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL) | 3:46 |
 
-Snapshot ID: `MCw1ODc3MTExZjk2ZWNlNGFjZDMzNWRlOTVlZmE2MDhkMzdhZWNlMDZm`
+Snapshot ID: `MCxhMmQ3MDcyYTNiN2QxYzczOTc2ODU5MDNiMDAzZDhlM2I5N2IwYzhi`

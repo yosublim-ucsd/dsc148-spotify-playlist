@@ -1,12 +1,12 @@
 {
   "description": "The very best of the alternative rock scene. Cover: Teenage Wrist",
-  "num_followers": 474862,
+  "num_followers": 474866,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTU0ZmIyYjE3MjRiM2M5YjcxYzM5YWQ5ZWYwODI3MWIzYzU2ZDFh",
+  "snapshot_id": "MCxkOWFhMGFhNzMyYjY3NjM5MWNhNTQ1MmJkZDRjNjI3YjA2Y2Y3ZGQz",
   "tracks": [
     {
       "added_at": "2023-09-08 20:23:35",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 150824,
-      "name": "Bad Love",
-      "url": "https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "The Atlas Underground Fire",
         "url": "https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 192150,
       "name": "Hold The Line (feat. grandson)",
       "url": "https://open.spotify.com/track/4py8spIzvJETEC3srLB0q4"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 150824,
+      "name": "Bad Love",
+      "url": "https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -709,20 +709,20 @@
       "url": "https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj"
     },
     {
-      "added_at": "2023-10-05 15:20:21",
+      "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "KILLJOY",
-        "url": "https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN"
+        "name": "Too Many Things",
+        "url": "https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx"
       },
       "artists": [
         {
-          "name": "Coach Party",
-          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
         }
       ],
-      "duration_ms": 138944,
-      "name": "What's The Point In Life",
-      "url": "https://open.spotify.com/track/0OdMPeOlUMgtCSc5mrqn9T"
+      "duration_ms": 155893,
+      "name": "Too Many Things",
+      "url": "https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -741,20 +741,20 @@
       "url": "https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW"
     },
     {
-      "added_at": "2023-09-08 20:23:35",
+      "added_at": "2023-10-05 15:20:21",
       "album": {
-        "name": "Too Many Things",
-        "url": "https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx"
+        "name": "KILLJOY",
+        "url": "https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN"
       },
       "artists": [
         {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+          "name": "Coach Party",
+          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
         }
       ],
-      "duration_ms": 155893,
-      "name": "Too Many Things",
-      "url": "https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx"
+      "duration_ms": 138944,
+      "name": "What's The Point In Life",
+      "url": "https://open.spotify.com/track/0OdMPeOlUMgtCSc5mrqn9T"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm"
-      },
-      "artists": [
-        {
-          "name": "The Luka State",
-          "url": "https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF"
-        }
-      ],
-      "duration_ms": 182100,
-      "name": "More Than This",
-      "url": "https://open.spotify.com/track/5IvLbjMiltRtWsjgteVyRW"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Moments of Clarity",
         "url": "https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 198508,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm"
+      },
+      "artists": [
+        {
+          "name": "The Luka State",
+          "url": "https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF"
+        }
+      ],
+      "duration_ms": 182100,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/5IvLbjMiltRtWsjgteVyRW"
     },
     {
       "added_at": "2023-10-05 15:20:21",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Rafters",
-        "url": "https://open.spotify.com/album/4mBS65gdSfBMiPMiyDOr60"
-      },
-      "artists": [
-        {
-          "name": "Yam Haus",
-          "url": "https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL"
-        }
-      ],
-      "duration_ms": 229637,
-      "name": "Rafters",
-      "url": "https://open.spotify.com/track/7ouFT6g0ICscIRgocvQq0K"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Common Chaos",
         "url": "https://open.spotify.com/album/7pzoanQ2Iwvk9FbJcqtKwo"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 171426,
       "name": "Common Chaos",
       "url": "https://open.spotify.com/track/231wGywsY9is10w83qwrwC"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Rafters",
+        "url": "https://open.spotify.com/album/4mBS65gdSfBMiPMiyDOr60"
+      },
+      "artists": [
+        {
+          "name": "Yam Haus",
+          "url": "https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL"
+        }
+      ],
+      "duration_ms": 229637,
+      "name": "Rafters",
+      "url": "https://open.spotify.com/track/7ouFT6g0ICscIRgocvQq0K"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Distant Populations",
-        "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "Missile Command",
-      "url": "https://open.spotify.com/track/2krrGxaYhLQwRu3QPkPnmB"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "I Feel Like I'm Falling",
         "url": "https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 144240,
       "name": "I Feel Like I'm Falling",
       "url": "https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Distant Populations",
+        "url": "https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "Missile Command",
+      "url": "https://open.spotify.com/track/2krrGxaYhLQwRu3QPkPnmB"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Left Right Forward",
-        "url": "https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 175116,
-      "name": "Left Right Forward",
-      "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Blondshell",
         "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 239675,
       "name": "Joiner",
       "url": "https://open.spotify.com/track/27q2n59NonHyzNMKXzmaFX"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Left Right Forward",
+        "url": "https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 175116,
+      "name": "Left Right Forward",
+      "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Car Crash",
-        "url": "https://open.spotify.com/album/6YlDs4igPMcAXPvnaKtNsB"
-      },
-      "artists": [
-        {
-          "name": "Low Lying Sun",
-          "url": "https://open.spotify.com/artist/1xdFO7BuQ7OS0PPmpfKlge"
-        }
-      ],
-      "duration_ms": 232584,
-      "name": "Car Crash",
-      "url": "https://open.spotify.com/track/5W0pqbWqy3ek86f7CjHyR8"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "OMG I MADE IT",
         "url": "https://open.spotify.com/album/64gy701OWZ7JiZiuzDVvmp"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Get Out Of My Life",
-        "url": "https://open.spotify.com/album/7CkQnUSUR4eS1lfwJCa18o"
+        "name": "Car Crash",
+        "url": "https://open.spotify.com/album/6YlDs4igPMcAXPvnaKtNsB"
       },
       "artists": [
         {
-          "name": "Little Hurt",
-          "url": "https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO"
+          "name": "Low Lying Sun",
+          "url": "https://open.spotify.com/artist/1xdFO7BuQ7OS0PPmpfKlge"
         }
       ],
-      "duration_ms": 187431,
-      "name": "Get Out Of My Life",
-      "url": "https://open.spotify.com/track/44uVPmfFf3tWyOtekieLci"
+      "duration_ms": 232584,
+      "name": "Car Crash",
+      "url": "https://open.spotify.com/track/5W0pqbWqy3ek86f7CjHyR8"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1483,6 +1467,22 @@
       "duration_ms": 172495,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Get Out Of My Life",
+        "url": "https://open.spotify.com/album/7CkQnUSUR4eS1lfwJCa18o"
+      },
+      "artists": [
+        {
+          "name": "Little Hurt",
+          "url": "https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO"
+        }
+      ],
+      "duration_ms": 187431,
+      "name": "Get Out Of My Life",
+      "url": "https://open.spotify.com/track/44uVPmfFf3tWyOtekieLci"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1613,20 +1613,20 @@
       "url": "https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt"
     },
     {
-      "added_at": "2023-11-01 15:10:17",
+      "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Siphon",
-        "url": "https://open.spotify.com/album/6l75QaQSO9TwwSKJS7E8VQ"
+        "name": "Godsend",
+        "url": "https://open.spotify.com/album/1BIiMBKDK1K2kNE3SzJM3k"
       },
       "artists": [
         {
-          "name": "Truth Club",
-          "url": "https://open.spotify.com/artist/3GdOXWzNWcFrrUD9VentQC"
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
         }
       ],
-      "duration_ms": 138170,
-      "name": "Siphon",
-      "url": "https://open.spotify.com/track/3GkzwxTB7kP5sH9oGX5Jlr"
+      "duration_ms": 262453,
+      "name": "Godsend",
+      "url": "https://open.spotify.com/track/6a9yNu5Nlc1xezZjHAzj0C"
     }
   ],
   "unique_name": "New  Alt-Rock Mixtape",

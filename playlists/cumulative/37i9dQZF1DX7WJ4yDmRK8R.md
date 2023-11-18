@@ -4,7 +4,7 @@
 
 > This is the best of ska, new and classic\. Cover: Madness
 
-265 songs - 14 hr 2 min
+266 songs - 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Bodycams Off](https://open.spotify.com/track/7GeAKKIpnMG0Io4Yrln39Q) | [Corrupt Vision](https://open.spotify.com/artist/44j7MhDPFjIWudduCD2Rcv) | [These Hands of Mine](https://open.spotify.com/album/3EC5JRbeCFfWLMa7x14eCS) | 1:36 | 2022-04-14 | 2022-04-21 |
 | [Break The Glass](https://open.spotify.com/track/4jH8dxtKxBP9YZcLFGkw09) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Destruction By Definition](https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL) | 3:08 | 2021-09-02 |  |
 | [Brown Baby](https://open.spotify.com/track/1xI1flFEJ1M2h5SxeqfNdV) | [The Gramophone Allstars](https://open.spotify.com/artist/329b1AgXMb6retylGLzMjN), [Tonia Richii](https://open.spotify.com/artist/3qa3xLMQmz6DAw4mlQhQi9) | [Brown Baby](https://open.spotify.com/album/78nYiCsjbSeiMQ5hzl6two) | 3:46 | 2023-10-13 |  |
-| [C'est La Vie](https://open.spotify.com/track/6a82z5ikHjwFQv4AxAF2mu) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Theatre of the Absurd Introduces C'est La Vie](https://open.spotify.com/album/2XS7GlLtan2DkXnoUxAbww) | 3:10 | 2023-09-29 |  |
+| [C'est La Vie](https://open.spotify.com/track/6a82z5ikHjwFQv4AxAF2mu) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Theatre of the Absurd Introduces C'est La Vie](https://open.spotify.com/album/2XS7GlLtan2DkXnoUxAbww) | 3:10 | 2023-09-29 | 2023-11-18 |
 | [Cali](https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl) | [Here in The Heights](https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0) | 3:43 | 2021-09-02 |  |
 | [Can't Stop](https://open.spotify.com/track/1G0sX22yArZuXOQV2O5Qyr) | [The Planet Smashers](https://open.spotify.com/artist/2wYNzTzigUWAeVLaxeRrg3) | [Can't Stop](https://open.spotify.com/album/6yhJV1xf20YS1IyZVcCMLE) | 2:08 | 2021-09-02 | 2022-07-29 |
 | [Cattle Life](https://open.spotify.com/track/7udyYiY9yq9InvAqiJYjo7) | [Abraskadabra](https://open.spotify.com/artist/0YYh1MN3VtMPwamadN4xp2) | [Cattle Life](https://open.spotify.com/album/3Zvigxl3r86W0lkMtMx8FJ) | 3:02 | 2021-09-02 | 2022-06-17 |
@@ -53,6 +53,7 @@
 | [Conscience is Heavy](https://open.spotify.com/track/3kxFEgQ9piaonniyXIOXJR) | [The Inversions](https://open.spotify.com/artist/5aMQ5EDOyqx8eCmPvDkqjt), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [Conscience is Heavy](https://open.spotify.com/album/2qvM0YbTVMYwAzDMliHrEg) | 3:10 | 2023-09-22 |  |
 | [Crazy Life](https://open.spotify.com/track/6HetWMoIuWJpTRuhk82x5U) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Crazy Life](https://open.spotify.com/album/3N5BvC9o2V2huzPmIxRoI4) | 3:33 | 2023-09-22 |  |
 | [Crocodile](https://open.spotify.com/track/4eEK1bzaARHBik8zQbtLv4) | [Arrows to Fire](https://open.spotify.com/artist/4br1yh8u3jTsvKkeSESW5M) | [Crocodile](https://open.spotify.com/album/5mxNNvbl6SKNHbLXr5FFwU) | 2:38 | 2022-04-14 | 2022-04-19 |
+| [C’est La Vie](https://open.spotify.com/track/0FeULTkWtNrjU7WqnTfNv5) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Theatre of the Absurd Introduces C'est La Vie](https://open.spotify.com/album/6heQzlRLjUmiAzezIzmuYg) | 3:10 | 2023-10-27 |  |
 | [Dale Dale! 〜ダレ・ダレ!〜 \- feat.チバユウスケ](https://open.spotify.com/track/6bcnIiOiDS3YxgqV93bXjY) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [チバユウスケ](https://open.spotify.com/artist/22a6IbaR2zoPAkudKhWXaW) | [ツギハギカラフル](https://open.spotify.com/album/0yTSmlPjXIW5CsOFaqJT8r) | 2:43 | 2021-09-02 | 2022-07-24 |
 | [Delinquent Song](https://open.spotify.com/track/44XOi657umNvDxNw8JvljD) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [The Band Geek Mafia](https://open.spotify.com/album/1hgcVI15G410lDnGwFNDXk) | 3:14 | 2021-09-02 | 2023-07-29 |
 | [Detonate](https://open.spotify.com/track/2zhXkUkCLZZs9MuhbRzZDM) | [Joystick!](https://open.spotify.com/artist/6QNbUrFd32f8tOVhm1pWEF) | [I Can't Take It Anymore](https://open.spotify.com/album/45lb5sWAyOYpgNJ92bHI1w) | 1:19 | 2021-09-02 | 2022-07-09 |

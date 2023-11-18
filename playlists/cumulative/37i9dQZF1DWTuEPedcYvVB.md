@@ -4,14 +4,15 @@
 
 > The official playlist for Top Boy\. Watch the final season on Netflix
 
-87 songs - 4 hr 50 min
+88 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [13 Angels Standing Guard 'Round The Side Of Your Bed](https://open.spotify.com/track/7jbLjvNlKbfCRUoFWKo5TR) | [Silver Mt\. Zion](https://open.spotify.com/artist/0bRpSBtMd3stO4J6TWclMb) | [He Has Left Us Alone But Shafts Of Light Sometimes Grace The Corner Of Our Rooms](https://open.spotify.com/album/298tKa2DPLT9GNmY8vsvLj) | 7:22 | 2022-04-14 |  |
 | [2 G's](https://open.spotify.com/track/56weVuhIPA9CKFCZ5at5yZ) | [BZ](https://open.spotify.com/artist/3KOofBJuoctTj0v5cgXHDF) | [2 G’s](https://open.spotify.com/album/3keQBv6akwxDV8GAAPtb9V) | 2:38 | 2022-04-14 |  |
 | [20:20 Vision](https://open.spotify.com/track/7mIVINWOn5T3unNFiubutD) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Tattoo \(Remastered 2017\)](https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg) | 4:03 | 2023-09-07 |  |
-| [9ortass](https://open.spotify.com/track/1m1RUXf2pARYhwNyaKd3ye) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [9ortass](https://open.spotify.com/album/43LzWtYzYJYCAcIHmTHzdr) | 2:49 | 2022-04-14 |  |
+| [9ortass](https://open.spotify.com/track/1m1RUXf2pARYhwNyaKd3ye) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [9ortass](https://open.spotify.com/album/43LzWtYzYJYCAcIHmTHzdr) | 2:49 | 2022-04-14 | 2023-11-18 |
+| [9ortass](https://open.spotify.com/track/45IMeta7JPYt7NheBYofph) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [9ortass](https://open.spotify.com/album/7qqt99doXX3azMpb92RQ2i) | 2:49 | 2023-09-07 |  |
 | [AVEN9ERS \(feat\. KO & V9\)](https://open.spotify.com/track/0LdJhkdjM1JkOPZDYUZkWy) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Kay\-O](https://open.spotify.com/artist/51xvY3ND0pMakkwfNJa3AN), [V9](https://open.spotify.com/artist/4wxuAb9fWzcKg0s7VVKb3v) | [Rise Above Hate](https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg) | 3:22 | 2022-04-14 |  |
 | [Bad Luck](https://open.spotify.com/track/79MeA7V0mJxfl8N0xi15zL) | [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Bad Luck](https://open.spotify.com/album/497LTCtceTdLMUNMFvplyB) | 2:27 | 2022-04-14 |  |
 | [Bun Fi Bun](https://open.spotify.com/track/0qVHePWosXdYsXQyPfwsPM) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun](https://open.spotify.com/album/2RL83zJh0gADlYn4nLMbHd) | 3:17 | 2023-09-07 |  |

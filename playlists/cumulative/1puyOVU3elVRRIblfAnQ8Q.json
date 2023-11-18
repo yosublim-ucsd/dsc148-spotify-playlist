@@ -927,6 +927,24 @@
     },
     {
       "album": {
+        "name": "Know By Now",
+        "url": "https://open.spotify.com/album/2AoFSRAEpmGB2klZbqf8vu"
+      },
+      "artists": [
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275862,
+      "name": "Know By Now",
+      "url": "https://open.spotify.com/track/7wthIYYW5izwk0Dm5BoIar"
+    },
+    {
+      "album": {
         "name": "Over Saturated",
         "url": "https://open.spotify.com/album/19u1MOW24UbZHSS4ZNx1hz"
       },

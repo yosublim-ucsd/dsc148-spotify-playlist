@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Rival Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,145 likes - 150 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,275 likes - 150 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hold On](https://open.spotify.com/track/5nGFMlY6LFLZqDHVvp9V0C) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Hold On](https://open.spotify.com/album/6E373gXnC4nkguSCezMOBy) | 3:46 |
-| 2 | [Oh! That Bitches Brew](https://open.spotify.com/track/15VyA0PQUtjVEZFYKPdrqK) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Oh! That Bitches Brew](https://open.spotify.com/album/0Er9Y6SwV1F4hM1FernVJC) | 3:29 |
-| 3 | [Mercy](https://open.spotify.com/track/0OdxmiZD8u6pQOwSfEoxr1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Mercy](https://open.spotify.com/album/7m5exqpKRweMqgxgOk6wY1) | 4:26 |
-| 4 | [Scorned](https://open.spotify.com/track/05rjMEQQcTDM0Vzr7bs8gW) | [Kira Mac](https://open.spotify.com/artist/3lirMsQjPC6sce67MHTXwg) | [Scorned](https://open.spotify.com/album/60cemT3NwtIGHYLL7oXtyt) | 3:08 |
-| 5 | [Holy Fire](https://open.spotify.com/track/57h5BBMhju3L84Vruq34oX) | [The Lucky Strokes](https://open.spotify.com/artist/5AwQED6K6NWvl022vZJvUX), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Shelby Kemp](https://open.spotify.com/artist/3EmKdszswxAkvRs2XYQPK5) | [The Lucky Strokes](https://open.spotify.com/album/4S5JMPHzFFEPql78r26qux) | 3:55 |
-| 6 | [Sweet & Low](https://open.spotify.com/track/4RuruayuG27N6NOw6fis9I) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Sweet & Low](https://open.spotify.com/album/3C2esoQ2IvOC6cccE6y5kE) | 3:55 |
-| 7 | [Cross The Line](https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Cross The Line](https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a) | 3:07 |
-| 8 | [No Good](https://open.spotify.com/track/2GnyPZtPRF0yrz7HzSj5bM) | [Chase Walker Band](https://open.spotify.com/artist/0Fn9PiWweDIc6xdz5LXkqB) | [No Good](https://open.spotify.com/album/3rrf4sUGwms2pXlNjU1m7M) | 2:35 |
-| 9 | [No Lovin’](https://open.spotify.com/track/6ET7xDSbmaRGJrx1FQlJpv) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Tell Everybody! \(21st Century Juke Joint Blues From Easy Eye Sound\)](https://open.spotify.com/album/3GTVE7nzIEmerPTDJwpdbD) | 4:17 |
-| 10 | [Woman](https://open.spotify.com/track/4qnZ9FXxM1MOoWGY4gQMzJ) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Bad Luck & The Blues](https://open.spotify.com/album/1OxQxV6EUi0D0v0OayR7Is) | 3:29 |
-| 11 | [Dark Side](https://open.spotify.com/track/0mQyWnVZ09hgVRITJMACgJ) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Dark Side](https://open.spotify.com/album/5b96aKOHRQ9J7vtX6r1P4E) | 3:23 |
-| 12 | [Black Gold](https://open.spotify.com/track/0lUehQtxsjaamm3yaOn2cs) | [These Wicked Rivers](https://open.spotify.com/artist/0GqHJdaaT0S1kjk3zhEVKu) | [Black Gold](https://open.spotify.com/album/5aUO6j1F2xdIbBsVWNW94j) | 3:36 |
-| 13 | [Thunder](https://open.spotify.com/track/0xmvgqYiUs1GApjTeBvu6s) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Dirty Work](https://open.spotify.com/album/21H9SxzyamF84Wu2DsEFsR) | 2:54 |
-| 14 | [Hands On Fire](https://open.spotify.com/track/1KxQQ5FlMtvlUxJ2bVisNV) | [Ryan Scott](https://open.spotify.com/artist/5XhU9rfYBQBDGxujJiB3LJ) | [Hands On Fire](https://open.spotify.com/album/2iY6WfZ1el0SXzOQhwIVhN) | 4:35 |
-| 15 | [Time](https://open.spotify.com/track/3OyJCql03g38xuXXqIoeMF) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo) | [Time](https://open.spotify.com/album/65T4xBycsZ3oSH0cmTnLSm) | 7:22 |
-| 16 | [Easy To Leave](https://open.spotify.com/track/05axZYhIeoRSCY1raNZYYi) | [Lance Lopez](https://open.spotify.com/artist/76NkugbfY4BcWwrdxsahhm) | [Trouble Is Good](https://open.spotify.com/album/47tKN7zgsxZi57p46kbDOY) | 4:32 |
-| 17 | [Don't Look Down](https://open.spotify.com/track/4AlmXv44tiJ9dbJSeX8EKD) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Don't Look Down](https://open.spotify.com/album/1fKlDb2Fk6pRpnt1DFQVTO) | 4:16 |
+| 1 | [Dirt On My Diamonds](https://open.spotify.com/track/5EtjaLlwWCGojDkPc3aFfO) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Dirt On My Diamonds, Vol\. 1](https://open.spotify.com/album/6mAmIXjkf15GnL9LFpW8yL) | 3:23 |
+| 2 | [Hold On](https://open.spotify.com/track/5nGFMlY6LFLZqDHVvp9V0C) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Hold On](https://open.spotify.com/album/6E373gXnC4nkguSCezMOBy) | 3:46 |
+| 3 | [Oh! That Bitches Brew](https://open.spotify.com/track/15VyA0PQUtjVEZFYKPdrqK) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Oh! That Bitches Brew](https://open.spotify.com/album/0Er9Y6SwV1F4hM1FernVJC) | 3:29 |
+| 4 | [Bad News](https://open.spotify.com/track/1E79K11SaKfzGPpzPKBvAp) | [Ace Monroe](https://open.spotify.com/artist/7Lcyr9TK4WHr4ojZiYhbYV) | [Ace Monroe](https://open.spotify.com/album/2cJSZ0UN4WeZpD2yXwEuCd) | 3:05 |
+| 5 | [Mercy](https://open.spotify.com/track/0OdxmiZD8u6pQOwSfEoxr1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Mercy](https://open.spotify.com/album/7m5exqpKRweMqgxgOk6wY1) | 4:26 |
+| 6 | [Scorned](https://open.spotify.com/track/05rjMEQQcTDM0Vzr7bs8gW) | [Kira Mac](https://open.spotify.com/artist/3lirMsQjPC6sce67MHTXwg) | [Scorned](https://open.spotify.com/album/60cemT3NwtIGHYLL7oXtyt) | 3:08 |
+| 7 | [Holy Fire](https://open.spotify.com/track/57h5BBMhju3L84Vruq34oX) | [The Lucky Strokes](https://open.spotify.com/artist/5AwQED6K6NWvl022vZJvUX), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Shelby Kemp](https://open.spotify.com/artist/3EmKdszswxAkvRs2XYQPK5) | [The Lucky Strokes](https://open.spotify.com/album/4S5JMPHzFFEPql78r26qux) | 3:55 |
+| 8 | [Cross The Line](https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Cross The Line](https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a) | 3:07 |
+| 9 | [No Good](https://open.spotify.com/track/2GnyPZtPRF0yrz7HzSj5bM) | [Chase Walker Band](https://open.spotify.com/artist/0Fn9PiWweDIc6xdz5LXkqB) | [No Good](https://open.spotify.com/album/3rrf4sUGwms2pXlNjU1m7M) | 2:35 |
+| 10 | [No Lovin’](https://open.spotify.com/track/6ET7xDSbmaRGJrx1FQlJpv) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Tell Everybody! \(21st Century Juke Joint Blues From Easy Eye Sound\)](https://open.spotify.com/album/3GTVE7nzIEmerPTDJwpdbD) | 4:17 |
+| 11 | [Woman](https://open.spotify.com/track/4qnZ9FXxM1MOoWGY4gQMzJ) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Bad Luck & The Blues](https://open.spotify.com/album/1OxQxV6EUi0D0v0OayR7Is) | 3:29 |
+| 12 | [Dark Side](https://open.spotify.com/track/0mQyWnVZ09hgVRITJMACgJ) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Dark Side](https://open.spotify.com/album/5b96aKOHRQ9J7vtX6r1P4E) | 3:23 |
+| 13 | [Black Gold](https://open.spotify.com/track/0lUehQtxsjaamm3yaOn2cs) | [These Wicked Rivers](https://open.spotify.com/artist/0GqHJdaaT0S1kjk3zhEVKu) | [Black Gold](https://open.spotify.com/album/5aUO6j1F2xdIbBsVWNW94j) | 3:36 |
+| 14 | [Thunder](https://open.spotify.com/track/0xmvgqYiUs1GApjTeBvu6s) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Dirty Work](https://open.spotify.com/album/21H9SxzyamF84Wu2DsEFsR) | 2:54 |
+| 15 | [Hands On Fire](https://open.spotify.com/track/1KxQQ5FlMtvlUxJ2bVisNV) | [Ryan Scott](https://open.spotify.com/artist/5XhU9rfYBQBDGxujJiB3LJ) | [Hands On Fire](https://open.spotify.com/album/2iY6WfZ1el0SXzOQhwIVhN) | 4:35 |
+| 16 | [Time](https://open.spotify.com/track/3OyJCql03g38xuXXqIoeMF) | [Artur Menezes](https://open.spotify.com/artist/0NxpILfCjl6UcOxMMMp8fo) | [Time](https://open.spotify.com/album/65T4xBycsZ3oSH0cmTnLSm) | 7:22 |
+| 17 | [Easy To Leave](https://open.spotify.com/track/05axZYhIeoRSCY1raNZYYi) | [Lance Lopez](https://open.spotify.com/artist/76NkugbfY4BcWwrdxsahhm) | [Trouble Is Good](https://open.spotify.com/album/47tKN7zgsxZi57p46kbDOY) | 4:32 |
 | 18 | [On My Hands](https://open.spotify.com/track/5In3Mo6cEy9gCVzpcCTolv) | [King Vaudeville](https://open.spotify.com/artist/1oZXZvudWk8Iej1P0VWzwS) | [On My Hands](https://open.spotify.com/album/2nWs7LzcrLUwSnjoX2bvdK) | 3:25 |
 | 19 | [Broken Bones](https://open.spotify.com/track/2ZTXDpAna2oX7SmxctOjmi) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Broken Bones](https://open.spotify.com/album/7Bo93WOR189AwOAt6RUvAD) | 3:25 |
 | 20 | [Gets Me so High](https://open.spotify.com/track/0OZOk21ZTDXptdd1X6ki6p) | [GrandVille](https://open.spotify.com/artist/3WRCf7MHsgbJmd27kTuCsK) | [GrandVille](https://open.spotify.com/album/1EUWaDMADkPz9hVbCRVCCY) | 4:43 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [Little Thing Gone Wild](https://open.spotify.com/track/3XGCZQTIl2AXccefEuJfeh) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Wrong Creatures](https://open.spotify.com/album/0rqC0UZ8kTGxIEI654LWhj) | 3:19 |
 | 150 | [Lie Lie Lie](https://open.spotify.com/track/6hY92vu9OTD8B7uTJgYsN4) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Lie Lie Lie](https://open.spotify.com/album/5jhdcPvuZkIa24erCZbGUk) | 3:35 |
 
-Snapshot ID: `MCwzYTY2OGMxZjczYzIxNWRkZDI5Yzc5M2U1MTMwYmEyYTU1OWZmOTE1`
+Snapshot ID: `MCw3MzFjODYyMGM3OGRjNDFkMjNlOTk4NTYxYjIzNDIzNTM1Njg5Mzgz`

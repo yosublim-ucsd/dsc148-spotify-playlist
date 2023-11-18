@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-331 songs - 18 hr 6 min
+333 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [say my name](https://open.spotify.com/track/2vJXLcot7FkfJ4uca2b1V4) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [say my name](https://open.spotify.com/album/5dMKkALzboXaoj3kFVE73n) | 2:38 | 2023-05-04 | 2023-10-20 |
 | [Say Something](https://open.spotify.com/track/77Q0qbZPx8ikjqvPOADORA) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Say Something](https://open.spotify.com/album/0ZlDyS6kzMipun19zAEHKe) | 3:20 | 2023-08-03 |  |
 | [Say Yes To Heaven \- sim0ne & Melo Nada Remix](https://open.spotify.com/track/2A7n6aoRd0pxfwasvN4Fh9) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [sim0ne](https://open.spotify.com/artist/68sBUNLfzCGR5n2nImhFCV), [Melo Nada](https://open.spotify.com/artist/7axOBN2EOcKsN9mRnvTKmI) | [Say Yes To Heaven \(sim0ne & Melo Nada Remix\)](https://open.spotify.com/album/7xIg7rC6R80DJqV0001u2J) | 4:13 | 2023-06-01 | 2023-07-22 |
+| [Say You Want Me \- Pocket Remix](https://open.spotify.com/track/1tTgKFv9pYOAIJ4n7hY5Bb) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Say You Want Me \(Pocket Remix\)](https://open.spotify.com/album/67sGQE5Ga6F2IjvDNciRJH) | 3:10 | 2023-11-16 |  |
 | [Scared To Lose You](https://open.spotify.com/track/3HfTXw9hR8dHkhdc7aKrfP) | [Alvix](https://open.spotify.com/artist/6kvuWxnfDOejSwLyAliFfY), [HIDDN](https://open.spotify.com/artist/0wqZ6mvk4DfOvtQUVniOCX), [Arild Aas](https://open.spotify.com/artist/0H9XxJcRLKTYCfPTNKmttd) | [Scared To Lose You](https://open.spotify.com/album/4tFfoVxGgISgXfGodGaQSj) | 2:31 | 2023-10-19 |  |
 | [See The Light \(feat\. Fridayy\)](https://open.spotify.com/track/7MWHxi7gx2M8ghbRRWyQYU) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [See The Light](https://open.spotify.com/album/7BdKpDmPu8bUkHULFZp1Zi) | 5:08 | 2023-05-26 |  |
 | [See This Through](https://open.spotify.com/track/35qF5s6IqQHzD45CkjkeQx) | [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [See This Through](https://open.spotify.com/album/3mr6nOha9myNvBwMEMAA4y) | 4:43 | 2023-04-27 |  |
@@ -315,6 +316,7 @@
 | [Want U](https://open.spotify.com/track/2Mq6Gnoh4gomERaXGiwEYB) | [MOONBOY](https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm), [KORA](https://open.spotify.com/artist/3WhSCXkMRTSKS4jt43hick) | [MOONBOY](https://open.spotify.com/album/7nbl0sq2qrigt7BGmAcPc7) | 4:39 | 2023-06-22 |  |
 | [WASTED ON ME](https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [WASTED ON ME](https://open.spotify.com/album/5e08LQuzV5wcQlCcp9rs2g) | 3:02 | 2023-04-13 |  |
 | [Wasted On You](https://open.spotify.com/track/3HSf2e7s5Q9WQO16biu4U4) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Little Love](https://open.spotify.com/album/793CKt4Qo8QvaOx2uWkhst) | 4:23 | 2023-04-13 |  |
+| [Water](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Water](https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D) | 3:11 | 2023-11-16 |  |
 | [Way Down](https://open.spotify.com/track/7eC86H1BAylHnn6AWGkjuB) | [Petit Ocean](https://open.spotify.com/artist/7AEN8ZkPQr7M45Sb3emoMf), [CASILIAN](https://open.spotify.com/artist/3QEWkt4IaSKCiQUdDSqqvY) | [Way Down](https://open.spotify.com/album/1jSfSXG7pQHOBhqZhT4U6n) | 3:07 | 2023-09-21 |  |
 | [We Don't Ever Stop](https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [We Don’t Ever Stop](https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV) | 2:40 | 2023-04-13 |  |
 | [Weightless](https://open.spotify.com/track/3DoPDf9n2BF8uE37D6GZdY) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 4:29 | 2023-09-07 |  |

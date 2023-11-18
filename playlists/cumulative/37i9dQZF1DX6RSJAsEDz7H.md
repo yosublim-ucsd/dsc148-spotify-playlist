@@ -4,7 +4,7 @@
 
 > Listen to all the iconic tracks from GTA, all in one place.
 
-207 songs - 14 hr 21 min
+209 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [DI MI NOMBRE \- Cap.8: Éxtasis](https://open.spotify.com/track/2Sfl7odHUmG7qc8SbqUyzE) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:42 | 2021-12-18 |  |
 | [Diamond Mind \(with Nipsey Hussle & Ty Dolla $ign\)](https://open.spotify.com/track/6v9trAkgvJuexOnxQXum0h) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Diamond Mind \(with Nipsey Hussle & Ty Dolla $ign\)](https://open.spotify.com/album/2yfzOPiUFh8gNcFwHnmVPa) | 4:53 | 2022-02-04 |  |
 | [Disco Devil](https://open.spotify.com/track/11rkUMmEsekXm9CU6ToqQi) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Lee "Scratch" Perry Presents The Full Experience](https://open.spotify.com/album/7li2bmMf1yTcQtpbfm0Qfz) | 7:51 | 2021-11-17 | 2023-11-04 |
-| [Disco Devil](https://open.spotify.com/track/6vX22fwRmM4bI0WpWtAvuJ) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [The Best of Lee Perry](https://open.spotify.com/album/0xQx4gGOK2jReMCdGqUmno) | 7:51 | 2021-11-17 |  |
+| [Disco Devil](https://open.spotify.com/track/6vX22fwRmM4bI0WpWtAvuJ) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [The Best of Lee Perry](https://open.spotify.com/album/0xQx4gGOK2jReMCdGqUmno) | 7:51 | 2021-11-17 | 2023-11-18 |
+| [Disco Devil \(Extended Version\)](https://open.spotify.com/track/6wQIJNrcLbbGzkOHv3ZUId) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9), [Full Experience](https://open.spotify.com/artist/0uskrxhZacFBjwhUUEcJZv) | [The Best of Lee Perry](https://open.spotify.com/album/2KAaDokIGE8kXHEwisFk3X) | 7:51 | 2023-11-13 |  |
 | [Dominicana](https://open.spotify.com/track/372SsSoyYYRptlgurA8PEL) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [De Chamaquito Siempre Cabezu](https://open.spotify.com/album/4XKCDArETTHoRY0lUGzSRV) | 2:25 | 2021-12-18 |  |
 | [Dos Locos](https://open.spotify.com/track/3mx8WfEOjeUB1a0fpFxQmi) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Confesiones](https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e) | 4:06 | 2021-12-18 |  |
 | [Duro 2005](https://open.spotify.com/track/0pgS3J6Vyt1VKrUI0MUeNG) | [La Goony Chonga](https://open.spotify.com/artist/4ZNk4pFFvI85sdgjkFPBjI) | [Dimen5ión](https://open.spotify.com/album/0KhUcxGeOjOsGCodu9IaHj) | 2:21 | 2021-12-18 |  |
@@ -101,8 +102,9 @@
 | [La Raza](https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar) | [Kid Frost](https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG) | [Hispanic Causing Panic](https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX) | 3:29 | 2021-11-17 |  |
 | [Lady \- Hear Me Tonight](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0) | [Modjo \(Remastered\)](https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI) | 5:07 | 2021-11-17 |  |
 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 | 2021-12-18 |  |
+| [Looks That Kill](https://open.spotify.com/track/1Cznl5CD5aaEYMfJq1l9Hd) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Shout At The Devil](https://open.spotify.com/album/61tegsknhtO0WKmkyPqvly) | 4:07 | 2023-11-13 |  |
 | [Looks That Kill](https://open.spotify.com/track/4lFtu8F5086uM7tMTjI95O) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [The Dirt Soundtrack](https://open.spotify.com/album/1FeIa1My6QQ6oQjUYxI36O) | 4:07 | 2021-11-17 | 2022-11-13 |
-| [Looks That Kill](https://open.spotify.com/track/74BDVL4TC3P8wyrYViuVjO) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Shout At The Devil](https://open.spotify.com/album/7xuz2r1QalMeEVkYuDfPgY) | 4:07 | 2021-11-17 |  |
+| [Looks That Kill](https://open.spotify.com/track/74BDVL4TC3P8wyrYViuVjO) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Shout At The Devil](https://open.spotify.com/album/7xuz2r1QalMeEVkYuDfPgY) | 4:07 | 2021-11-17 | 2023-11-18 |
 | [Looks That Kill](https://open.spotify.com/track/5uRN4EmPA7BWs5f4xsIl0Z) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Shout At The Devil](https://open.spotify.com/album/2BCI4Oj05SiqooWWBqUqjT) | 4:09 | 2021-11-17 | 2022-07-29 |
 | [Low Rider](https://open.spotify.com/track/4NxyUBZ8zF0l8QxqBrKNS0) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Friday Fun!](https://open.spotify.com/album/5qs9M0eaT4PlmNHE90iVVQ) | 3:10 | 2021-11-17 | 2022-11-14 |
 | [Low Rider](https://open.spotify.com/track/7Bz8yww6UMbTgTVLG6zbI4) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Why Can't We Be Friends?](https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN) | 3:10 | 2021-11-17 |  |

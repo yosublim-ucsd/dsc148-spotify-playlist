@@ -2,7 +2,7 @@
 
 ### [Los Que Mandan](https://open.spotify.com/playlist/37i9dQZF1DXb0COFso7q0D)
 
-> The playlist sin fronteras\. Cover: Grupo Marca Registrada & Junior H
+> The playlist sin fronteras\. Cover: Xavi
 
 477 songs - 1 day 0 hr 50 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 78975,
+  "num_followers": 84995,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWQ5MjNmMmRiMDU5ZDg4YzlhMjMwYzFkM2FkMjMyYjdmOWU3Mjcw",
+  "snapshot_id": "MCwwNzI3ZGVjYTczYWIwODU1M2EzZTRhZmZhODY0YTEyNGJjOWM0NGEz",
   "tracks": [
     {
       "added_at": "2023-11-14 16:37:09",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-11-14 16:37:09",
       "album": {
-        "name": "Cutting Room I (from the Netflix Series \"Top Boy\")",
-        "url": "https://open.spotify.com/album/5VWzOEbQh7HL8HolYLWyFi"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 138720,
-      "name": "Cutting Room I",
-      "url": "https://open.spotify.com/track/6iQWxbUdH7SUrEOLwD45b6"
-    },
-    {
-      "added_at": "2023-11-14 16:37:09",
-      "album": {
         "name": "Portico",
         "url": "https://open.spotify.com/album/1hDYGw9QpPDBNHvdAIDVbr"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 245008,
       "name": "Unknown Tokyo",
       "url": "https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g"
+    },
+    {
+      "added_at": "2023-11-14 16:37:09",
+      "album": {
+        "name": "Cutting Room I (from the Netflix Series \"Top Boy\")",
+        "url": "https://open.spotify.com/album/5VWzOEbQh7HL8HolYLWyFi"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 138720,
+      "name": "Cutting Room I",
+      "url": "https://open.spotify.com/track/6iQWxbUdH7SUrEOLwD45b6"
     },
     {
       "added_at": "2023-11-14 16:37:09",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-11-14 16:37:09",
       "album": {
+        "name": "Mango Feedback",
+        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 260612,
+      "name": "Watersynth",
+      "url": "https://open.spotify.com/track/05e2T423zwHe7557aNewF4"
+    },
+    {
+      "added_at": "2023-11-14 16:37:09",
+      "album": {
         "name": "By the Air (Six Missing Rework)",
         "url": "https://open.spotify.com/album/261LawGBTfFPu5oGT9TphF"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 210243,
       "name": "By the Air - Six Missing Rework",
       "url": "https://open.spotify.com/track/2OGLsbkQN7nv4iDFvN183f"
-    },
-    {
-      "added_at": "2023-11-14 16:37:09",
-      "album": {
-        "name": "Mango Feedback",
-        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 260612,
-      "name": "Watersynth",
-      "url": "https://open.spotify.com/track/05e2T423zwHe7557aNewF4"
     },
     {
       "added_at": "2023-11-14 16:37:09",
@@ -503,6 +503,26 @@
       "duration_ms": 302367,
       "name": "Objekt",
       "url": "https://open.spotify.com/track/3m7yvp6LBkpUGsSMTy8NX2"
+    },
+    {
+      "added_at": "2023-11-14 16:37:09",
+      "album": {
+        "name": "Ten As One",
+        "url": "https://open.spotify.com/album/1qedPbL0X9hdk9MkK0iuqV"
+      },
+      "artists": [
+        {
+          "name": "Matthias Vogt",
+          "url": "https://open.spotify.com/artist/7d1QENqGWiOKVegaYEoPfY"
+        },
+        {
+          "name": "Sato",
+          "url": "https://open.spotify.com/artist/5OKlzH3DGCKLZoYwRiRTRD"
+        }
+      ],
+      "duration_ms": 336251,
+      "name": "Carmel",
+      "url": "https://open.spotify.com/track/6p7rJm00kefcjiGuQuAV6w"
     },
     {
       "added_at": "2023-11-14 16:37:09",
@@ -555,26 +575,6 @@
       "duration_ms": 474155,
       "name": "HYbr:ID Ectopia Elastic 2",
       "url": "https://open.spotify.com/track/1nxXXmFSOruCTHumHkwayb"
-    },
-    {
-      "added_at": "2023-11-14 16:37:09",
-      "album": {
-        "name": "Ten As One",
-        "url": "https://open.spotify.com/album/1qedPbL0X9hdk9MkK0iuqV"
-      },
-      "artists": [
-        {
-          "name": "Matthias Vogt",
-          "url": "https://open.spotify.com/artist/7d1QENqGWiOKVegaYEoPfY"
-        },
-        {
-          "name": "Sato",
-          "url": "https://open.spotify.com/artist/5OKlzH3DGCKLZoYwRiRTRD"
-        }
-      ],
-      "duration_ms": 336251,
-      "name": "Carmel",
-      "url": "https://open.spotify.com/track/6p7rJm00kefcjiGuQuAV6w"
     },
     {
       "added_at": "2023-11-14 16:37:09",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-11-14 16:37:09",
       "album": {
-        "name": "HYbr:ID Ectopia Field 1",
-        "url": "https://open.spotify.com/album/6oacIh4SymWxdUqxWQgTi6"
-      },
-      "artists": [
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "duration_ms": 245407,
-      "name": "HYbr:ID Ectopia Field 1",
-      "url": "https://open.spotify.com/track/6toNdTYJdRlRXItNO0Bx7h"
-    },
-    {
-      "added_at": "2023-11-14 16:37:09",
-      "album": {
         "name": "58500 (Daniel Avery Remix)",
         "url": "https://open.spotify.com/album/2t85UNkhR842v0V60Fb3N8"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 382000,
       "name": "L\u00e5ngt under noll",
       "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
+    },
+    {
+      "added_at": "2023-11-14 16:37:09",
+      "album": {
+        "name": "HYbr:ID Ectopia Field 1",
+        "url": "https://open.spotify.com/album/6oacIh4SymWxdUqxWQgTi6"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        }
+      ],
+      "duration_ms": 245407,
+      "name": "HYbr:ID Ectopia Field 1",
+      "url": "https://open.spotify.com/track/6toNdTYJdRlRXItNO0Bx7h"
     },
     {
       "added_at": "2023-11-14 16:37:09",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-11-14 16:37:09",
       "album": {
-        "name": "Infinito",
-        "url": "https://open.spotify.com/album/3ecSwABJbDUjSwVLvOQVLJ"
-      },
-      "artists": [
-        {
-          "name": "Moritz Von Oswald",
-          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
-        }
-      ],
-      "duration_ms": 384813,
-      "name": "Infinito (Version)",
-      "url": "https://open.spotify.com/track/2x6umJ0Bw82UYFUW2kwKFI"
-    },
-    {
-      "added_at": "2023-11-14 16:37:09",
-      "album": {
         "name": "Windmills (Salamanda Remix)",
         "url": "https://open.spotify.com/album/22Qv4LBhjZHFCKcnL28wxF"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 209200,
       "name": "Windmills - Salamanda Remix",
       "url": "https://open.spotify.com/track/3HFIxZpIfmaLKTgxc2guNS"
+    },
+    {
+      "added_at": "2023-11-14 16:37:09",
+      "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/3ecSwABJbDUjSwVLvOQVLJ"
+      },
+      "artists": [
+        {
+          "name": "Moritz Von Oswald",
+          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+        }
+      ],
+      "duration_ms": 384813,
+      "name": "Infinito (Version)",
+      "url": "https://open.spotify.com/track/2x6umJ0Bw82UYFUW2kwKFI"
     },
     {
       "added_at": "2023-11-14 16:37:09",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-11-14 16:37:09",
       "album": {
-        "name": "Cr\u00e9puscule I & II",
-        "url": "https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs"
-      },
-      "artists": [
-        {
-          "name": "Tujiko Noriko",
-          "url": "https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Prayer",
-      "url": "https://open.spotify.com/track/0XK1ECogYwqBuwyw3neyqg"
-    },
-    {
-      "added_at": "2023-11-14 16:37:09",
-      "album": {
         "name": "Night Journeys II",
         "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 436776,
       "name": "Night Journeys II",
       "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
+    },
+    {
+      "added_at": "2023-11-14 16:37:09",
+      "album": {
+        "name": "Cr\u00e9puscule I & II",
+        "url": "https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs"
+      },
+      "artists": [
+        {
+          "name": "Tujiko Noriko",
+          "url": "https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/0XK1ECogYwqBuwyw3neyqg"
     },
     {
       "added_at": "2023-11-14 16:37:09",
@@ -999,26 +999,6 @@
     {
       "added_at": "2023-11-14 16:37:09",
       "album": {
-        "name": "Mono No Aware",
-        "url": "https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx"
-      },
-      "artists": [
-        {
-          "name": "Martin Roth",
-          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
-        },
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 278174,
-      "name": "Sine Waves",
-      "url": "https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04"
-    },
-    {
-      "added_at": "2023-11-14 16:37:09",
-      "album": {
         "name": "Worlds Collide (Hannes Kretzer Rework)",
         "url": "https://open.spotify.com/album/4SZSeDgHqioiCuRVHi6zRc"
       },
@@ -1043,6 +1023,26 @@
     {
       "added_at": "2023-11-14 16:37:09",
       "album": {
+        "name": "Mono No Aware",
+        "url": "https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx"
+      },
+      "artists": [
+        {
+          "name": "Martin Roth",
+          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
+        },
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 278174,
+      "name": "Sine Waves",
+      "url": "https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04"
+    },
+    {
+      "added_at": "2023-11-14 16:37:09",
+      "album": {
         "name": "Martes + Utop\u00eda",
         "url": "https://open.spotify.com/album/2jUEo0xs0kmOvB06trFQxR"
       },
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-11-14 16:37:09",
       "album": {
-        "name": "Future Falling",
-        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
-      },
-      "artists": [
-        {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
-        }
-      ],
-      "duration_ms": 251485,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn"
-    },
-    {
-      "added_at": "2023-11-14 16:37:09",
-      "album": {
         "name": "Shortwave Memories",
         "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 249672,
       "name": "Formanta",
       "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
+    },
+    {
+      "added_at": "2023-11-14 16:37:09",
+      "album": {
+        "name": "Future Falling",
+        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "duration_ms": 251485,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn"
     },
     {
       "added_at": "2023-11-14 16:37:09",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-11-14 16:37:09",
       "album": {
-        "name": "Diamond Beach",
-        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
-      },
-      "artists": [
-        {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
-    },
-    {
-      "added_at": "2023-11-14 16:37:09",
-      "album": {
         "name": "Cast Remixes Part III",
         "url": "https://open.spotify.com/album/2wlWbYB5GDccm5H2BDHZ5t"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 132923,
       "name": "Pain Tolerance - Kyle McEvoy & wowflower Remix",
       "url": "https://open.spotify.com/track/5MNZcXlFKjpw1COq8vvAu9"
+    },
+    {
+      "added_at": "2023-11-14 16:37:09",
+      "album": {
+        "name": "Diamond Beach",
+        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
+      },
+      "artists": [
+        {
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
     },
     {
       "added_at": "2023-11-14 16:37:09",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-11-14 16:37:09",
       "album": {
-        "name": "Being There (Ambient)",
-        "url": "https://open.spotify.com/album/4TgYATdyNPcnECEGe9CekR"
-      },
-      "artists": [
-        {
-          "name": "Afterlife",
-          "url": "https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz"
-        }
-      ],
-      "duration_ms": 303157,
-      "name": "Drive West On Sunset - Ambient",
-      "url": "https://open.spotify.com/track/5EQEPfClSpuXVh6o6N78FF"
-    },
-    {
-      "added_at": "2023-11-14 16:37:09",
-      "album": {
         "name": "Nothing Lasts Forever",
         "url": "https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 286283,
       "name": "Adagio I - Mut",
       "url": "https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP"
+    },
+    {
+      "added_at": "2023-11-14 16:37:09",
+      "album": {
+        "name": "Being There (Ambient)",
+        "url": "https://open.spotify.com/album/4TgYATdyNPcnECEGe9CekR"
+      },
+      "artists": [
+        {
+          "name": "Afterlife",
+          "url": "https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz"
+        }
+      ],
+      "duration_ms": 303157,
+      "name": "Drive West On Sunset - Ambient",
+      "url": "https://open.spotify.com/track/5EQEPfClSpuXVh6o6N78FF"
     },
     {
       "added_at": "2023-11-14 16:37:09",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-11-14 16:37:09",
       "album": {
+        "name": "Music for k\u014d",
+        "url": "https://open.spotify.com/album/2pmS1k68wuO6v2CtIpirJm"
+      },
+      "artists": [
+        {
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+        }
+      ],
+      "duration_ms": 396049,
+      "name": "Outline of a Distant Memory",
+      "url": "https://open.spotify.com/track/1QF4VSZfZhsT3N1UrkUmm5"
+    },
+    {
+      "added_at": "2023-11-14 16:37:09",
+      "album": {
         "name": "Natural Wonder Beauty Concept",
         "url": "https://open.spotify.com/album/5laVAiCfglBYJqfqxyx8az"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 184240,
       "name": "Clear",
       "url": "https://open.spotify.com/track/63xYYVpQ8fMihQxAsv4Bn1"
-    },
-    {
-      "added_at": "2023-11-14 16:37:09",
-      "album": {
-        "name": "Music for k\u014d",
-        "url": "https://open.spotify.com/album/2pmS1k68wuO6v2CtIpirJm"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 396049,
-      "name": "Outline of a Distant Memory",
-      "url": "https://open.spotify.com/track/1QF4VSZfZhsT3N1UrkUmm5"
     },
     {
       "added_at": "2023-11-14 16:37:09",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-11-14 16:37:09",
       "album": {
+        "name": "Lake Monger",
+        "url": "https://open.spotify.com/album/3fanKX5paSuCg8V0InZFbZ"
+      },
+      "artists": [
+        {
+          "name": "Jack Burton",
+          "url": "https://open.spotify.com/artist/6AnQoELy6TktzDtKzHORHZ"
+        }
+      ],
+      "duration_ms": 312222,
+      "name": "Beacon of Light",
+      "url": "https://open.spotify.com/track/1kn1LfDkxpfQ5U40o4AfH2"
+    },
+    {
+      "added_at": "2023-11-14 16:37:09",
+      "album": {
         "name": "Earth and Beyond",
         "url": "https://open.spotify.com/album/2Fq3lGA9bAcFK9sZQStCiR"
       },
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2023-11-14 16:37:09",
       "album": {
-        "name": "Closer Now",
-        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
-      },
-      "artists": [
-        {
-          "name": "Earth Trax",
-          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
-        }
-      ],
-      "duration_ms": 283673,
-      "name": "White Carnations",
-      "url": "https://open.spotify.com/track/5DyWnH4QyIbWzJKN6tReXg"
-    },
-    {
-      "added_at": "2023-11-14 16:37:09",
-      "album": {
         "name": "Opal",
         "url": "https://open.spotify.com/album/44XBWRiDn05a4ECHyTQWPl"
       },
@@ -1567,6 +1567,22 @@
       "duration_ms": 164293,
       "name": "Solace",
       "url": "https://open.spotify.com/track/0DKA1qiyVR9AQ2ZpDkkvbc"
+    },
+    {
+      "added_at": "2023-11-14 16:37:09",
+      "album": {
+        "name": "Closer Now",
+        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
+      },
+      "artists": [
+        {
+          "name": "Earth Trax",
+          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
+        }
+      ],
+      "duration_ms": 283673,
+      "name": "White Carnations",
+      "url": "https://open.spotify.com/track/5DyWnH4QyIbWzJKN6tReXg"
     },
     {
       "added_at": "2023-11-14 16:37:09",
@@ -1603,18 +1619,22 @@
     {
       "added_at": "2023-11-14 16:37:09",
       "album": {
-        "name": "Lake Monger",
-        "url": "https://open.spotify.com/album/3fanKX5paSuCg8V0InZFbZ"
+        "name": "Orphangene (Soundtrack from the motion picture \"Mondocane\")",
+        "url": "https://open.spotify.com/album/0ogiNUNzmcxlq0u335WOpe"
       },
       "artists": [
         {
-          "name": "Jack Burton",
-          "url": "https://open.spotify.com/artist/6AnQoELy6TktzDtKzHORHZ"
+          "name": "Federico Bisozzi",
+          "url": "https://open.spotify.com/artist/16a53ClNidSSeOXww0IQcU"
+        },
+        {
+          "name": "Tomat",
+          "url": "https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa"
         }
       ],
-      "duration_ms": 312222,
-      "name": "Beacon of Light",
-      "url": "https://open.spotify.com/track/1kn1LfDkxpfQ5U40o4AfH2"
+      "duration_ms": 191405,
+      "name": "Orphangene - Soundtrack from the motion picture \"Mondocane\"",
+      "url": "https://open.spotify.com/track/1pR5fyuTqpNrBbt4brVr3P"
     },
     {
       "added_at": "2023-11-14 16:37:09",
@@ -1655,22 +1675,18 @@
     {
       "added_at": "2023-11-14 16:37:09",
       "album": {
-        "name": "Orphangene (Soundtrack from the motion picture \"Mondocane\")",
-        "url": "https://open.spotify.com/album/0ogiNUNzmcxlq0u335WOpe"
+        "name": "L'attente",
+        "url": "https://open.spotify.com/album/6Z8lgafmW5GOOgNN4FOtfi"
       },
       "artists": [
         {
-          "name": "Federico Bisozzi",
-          "url": "https://open.spotify.com/artist/16a53ClNidSSeOXww0IQcU"
-        },
-        {
-          "name": "Tomat",
-          "url": "https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa"
+          "name": "Eskadet",
+          "url": "https://open.spotify.com/artist/1WU8HgaC191SUbTXYbv7EG"
         }
       ],
-      "duration_ms": 191405,
-      "name": "Orphangene - Soundtrack from the motion picture \"Mondocane\"",
-      "url": "https://open.spotify.com/track/1pR5fyuTqpNrBbt4brVr3P"
+      "duration_ms": 326362,
+      "name": "Apparences",
+      "url": "https://open.spotify.com/track/0BkZhoL400eflPrOuRdLV1"
     },
     {
       "added_at": "2023-11-14 16:37:09",
@@ -1687,22 +1703,6 @@
       "duration_ms": 395000,
       "name": "Arrow Map",
       "url": "https://open.spotify.com/track/4uaAKISGtheqOFGab9j801"
-    },
-    {
-      "added_at": "2023-11-14 16:37:09",
-      "album": {
-        "name": "L'attente",
-        "url": "https://open.spotify.com/album/6Z8lgafmW5GOOgNN4FOtfi"
-      },
-      "artists": [
-        {
-          "name": "Eskadet",
-          "url": "https://open.spotify.com/artist/1WU8HgaC191SUbTXYbv7EG"
-        }
-      ],
-      "duration_ms": 326362,
-      "name": "Apparences",
-      "url": "https://open.spotify.com/track/0BkZhoL400eflPrOuRdLV1"
     },
     {
       "added_at": "2023-11-14 16:37:09",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2023-11-14 16:37:09",
       "album": {
+        "name": "Suikerplein EP",
+        "url": "https://open.spotify.com/album/17ol2aT2nydTFDhZviWvWQ"
+      },
+      "artists": [
+        {
+          "name": "BSS (AMS)",
+          "url": "https://open.spotify.com/artist/6ZNNn6WWgGY5JNRGleeohH"
+        }
+      ],
+      "duration_ms": 313701,
+      "name": "Westerpark",
+      "url": "https://open.spotify.com/track/3moHTcmktLHetLd4SdMovC"
+    },
+    {
+      "added_at": "2023-11-14 16:37:09",
+      "album": {
         "name": "Fighting Modernism EP",
         "url": "https://open.spotify.com/album/49wH7bpUwQc5gYpDWgPkUQ"
       },
@@ -1759,26 +1775,6 @@
       "duration_ms": 231637,
       "name": "Sony 7IV",
       "url": "https://open.spotify.com/track/6N7XoSskzxWaBjrddaSCO1"
-    },
-    {
-      "added_at": "2023-11-14 16:37:09",
-      "album": {
-        "name": "R Abacus Lndr",
-        "url": "https://open.spotify.com/album/543Orm1f55ALN6N8QAgwkf"
-      },
-      "artists": [
-        {
-          "name": "Pulse Mandala",
-          "url": "https://open.spotify.com/artist/2aD4tPvrEtBG5CUwddFGLX"
-        },
-        {
-          "name": "Distant Fires Burning",
-          "url": "https://open.spotify.com/artist/1E7PNU01XheUuvLAlCZP5z"
-        }
-      ],
-      "duration_ms": 432439,
-      "name": "Antikythera Rddl",
-      "url": "https://open.spotify.com/track/2wyilqh7Q8GK0ws10oF1qk"
     }
   ],
   "unique_name": "Electronic X",

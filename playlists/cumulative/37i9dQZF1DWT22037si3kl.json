@@ -595,6 +595,28 @@
     },
     {
       "album": {
+        "name": "Balenciaga",
+        "url": "https://open.spotify.com/album/1N3TXHhLbMAHd5bzOExNfk"
+      },
+      "artists": [
+        {
+          "name": "LB Prince",
+          "url": "https://open.spotify.com/artist/3KZYhP8cZRLQKGy3m2biiK"
+        },
+        {
+          "name": "HATZ",
+          "url": "https://open.spotify.com/artist/5xTgBjp7sMoQ7Wrgm7ETf5"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/6rvi9icLMuSMWkdgcUwhVh"
+    },
+    {
+      "album": {
         "name": "Balmain",
         "url": "https://open.spotify.com/album/22VDWlNkuINTSubxz4lolA"
       },
@@ -740,6 +762,28 @@
       "duration_ms": 168764,
       "name": "Black Money",
       "url": "https://open.spotify.com/track/2wacfAitU4g6zbwQoeszk4"
+    },
+    {
+      "album": {
+        "name": "BLOCKO",
+        "url": "https://open.spotify.com/album/2AUYOZad5ek65kNUprn5EM"
+      },
+      "artists": [
+        {
+          "name": "N.A.N.A.",
+          "url": "https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND"
+        },
+        {
+          "name": "The Boy",
+          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151489,
+      "name": "BLOCKO",
+      "url": "https://open.spotify.com/track/34Tg2hUpJ0KfHktOEOmv8G"
     },
     {
       "album": {
@@ -992,7 +1036,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 108475,
       "name": "Carro Filmado",
       "url": "https://open.spotify.com/track/40JOKn2wTQpXtYDsDl8hty"
@@ -2563,6 +2607,28 @@
     },
     {
       "album": {
+        "name": "Frenesi",
+        "url": "https://open.spotify.com/album/6O1uVR0awNrBIW53rEDGMA"
+      },
+      "artists": [
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221102,
+      "name": "Frenesi",
+      "url": "https://open.spotify.com/track/2zwnREcg5hVy6rGDs5pf02"
+    },
+    {
+      "album": {
         "name": "Frozone",
         "url": "https://open.spotify.com/album/4JpuEAM5YMFpyhNwd9IkSs"
       },
@@ -2656,7 +2722,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 166641,
       "name": "Glamourosa",
       "url": "https://open.spotify.com/track/61J7CbEFiX6ziu4SijfwFO"
@@ -3756,7 +3822,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 122826,
       "name": "Lista De Contato",
       "url": "https://open.spotify.com/track/6HQG4Qek65p5TwbMalqN1M"
@@ -4076,6 +4142,24 @@
       "duration_ms": 168997,
       "name": "Macallan",
       "url": "https://open.spotify.com/track/0cCPxd3XMkCXM8nTd2HxAD"
+    },
+    {
+      "album": {
+        "name": "MADDY",
+        "url": "https://open.spotify.com/album/2JQSEpZshZaAqlFyySYtu6"
+      },
+      "artists": [
+        {
+          "name": "A$HP",
+          "url": "https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146399,
+      "name": "MADDY",
+      "url": "https://open.spotify.com/track/0sTU2re42O2KQGpyqK7ngN"
     },
     {
       "album": {
@@ -4420,7 +4504,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 163636,
       "name": "Mesma Hist\u00f3ria",
       "url": "https://open.spotify.com/track/54FV2rMVwLusAVnzROB0c1"
@@ -6841,6 +6925,44 @@
     },
     {
       "album": {
+        "name": "ISSO \u00d1 \u00c9 GPT",
+        "url": "https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI"
+      },
+      "artists": [
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "Diego Kairo",
+          "url": "https://open.spotify.com/artist/6D0yjB3AE6xTi137BEQkWb"
+        },
+        {
+          "name": "L300",
+          "url": "https://open.spotify.com/artist/0PVUOzL3xWKnD1lMEE3tPw"
+        },
+        {
+          "name": "Slain R\u00fabia",
+          "url": "https://open.spotify.com/artist/0PWSIUUy2RF5TYkx6JXoit"
+        },
+        {
+          "name": "FELINA",
+          "url": "https://open.spotify.com/artist/3RwgTYuexocU1QLpiOhhNO"
+        },
+        {
+          "name": "RUI'f",
+          "url": "https://open.spotify.com/artist/7eAOkFsB01T4iRqfC4cjH9"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363145,
+      "name": "TAMBOR",
+      "url": "https://open.spotify.com/track/5I3fsOI8IJjOkmgqCyZVfY"
+    },
+    {
+      "album": {
         "name": "Taycan / Quintal da Laia",
         "url": "https://open.spotify.com/album/1mQ5ixHK9Ev5qYX88N7M6D"
       },
@@ -6913,7 +7035,7 @@
         },
         {
           "name": "TTF",
-          "url": "https://open.spotify.com/artist/71YqA2qY3ZzGdPAEOf4k7A"
+          "url": "https://open.spotify.com/artist/4PlW5SfZp1edaxU1fP90RG"
         }
       ],
       "date_added": "2023-11-10",
@@ -7436,7 +7558,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 154838,
       "name": "Vit\u00f3ria Dobrada",
       "url": "https://open.spotify.com/track/59KoLGYeBxZ11VUln2LBAL"

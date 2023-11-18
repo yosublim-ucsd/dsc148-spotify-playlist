@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-17",
+      "date_removed": null,
       "duration_ms": 244706,
       "name": "All Comes Back To You",
       "url": "https://open.spotify.com/track/6v5l4XgWv2NfjwAOCYBD7r"
@@ -604,7 +604,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 238473,
       "name": "Bequest",
       "url": "https://open.spotify.com/track/03Hyfti0W36eu4oHZUwrte"
@@ -1149,6 +1149,24 @@
     },
     {
       "album": {
+        "name": "Can't Blame My Bloodline",
+        "url": "https://open.spotify.com/album/6ITeNavFzK5orE9w5ejqJK"
+      },
+      "artists": [
+        {
+          "name": "Dallas Alexander",
+          "url": "https://open.spotify.com/artist/5iXE5iocUV7kCWdl0b4iJv"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198653,
+      "name": "Can't Blame My Bloodline",
+      "url": "https://open.spotify.com/track/1zFZJC8qixpRp67nB3O5Kr"
+    },
+    {
+      "album": {
         "name": "Lighten Up",
         "url": "https://open.spotify.com/album/5MT2lgCDRZ1AfHrQ3pklHI"
       },
@@ -1258,7 +1276,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 243586,
       "name": "Change Of Heart",
       "url": "https://open.spotify.com/track/7xagVKfjYQTAdzvtJHPdVc"
@@ -1276,7 +1294,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 164917,
       "name": "Chasing Spirits",
       "url": "https://open.spotify.com/track/4KFerK4qS5krV7MxVC4iDe"
@@ -1456,7 +1474,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 147666,
       "name": "Corralling the Blues",
       "url": "https://open.spotify.com/track/2DsHa2ozp5MveeKjylgKWF"
@@ -1777,6 +1795,28 @@
     },
     {
       "album": {
+        "name": "Don't Do Me Good",
+        "url": "https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253613,
+      "name": "Don't Do Me Good",
+      "url": "https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W"
+    },
+    {
+      "album": {
         "name": "Come Morning",
         "url": "https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K"
       },
@@ -1792,7 +1832,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-19",
+      "date_removed": null,
       "duration_ms": 253588,
       "name": "Don't Feel Like Crying",
       "url": "https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw"
@@ -2048,7 +2088,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 181018,
       "name": "Eye For An Eye",
       "url": "https://open.spotify.com/track/0V9RRFTEx06xnNDOtRNuoo"
@@ -2336,7 +2376,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 168428,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/1wpANfPJEzSKc5JhEIGYQ1"
@@ -3540,7 +3580,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 203608,
       "name": "Knockin - Single Version",
       "url": "https://open.spotify.com/track/0ll3IRoSlJ461DTxW4Z7vc"
@@ -4942,7 +4982,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 259591,
       "name": "Red Moon",
       "url": "https://open.spotify.com/track/3AqSeHqtg45ddsAYJeuCqm"
@@ -5480,7 +5520,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 174040,
       "name": "Smashed Up My Fender",
       "url": "https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3"
@@ -5574,7 +5614,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 153646,
       "name": "Somebody Just Like Me",
       "url": "https://open.spotify.com/track/3N8P57zfeILMnUP90DZH40"
@@ -5884,7 +5924,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 166248,
       "name": "Talkin' to Myself",
       "url": "https://open.spotify.com/track/6HkEvfSpXWeiNV9Z7bpmwP"
@@ -6122,7 +6162,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 192750,
       "name": "This Masquerade",
       "url": "https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL"
@@ -6212,7 +6252,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 232125,
       "name": "TLC Cagematch",
       "url": "https://open.spotify.com/track/5jZxm02JT3CpJulGo4phH3"
@@ -6718,7 +6758,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-02",
+      "date_removed": null,
       "duration_ms": 234799,
       "name": "Whiskey River (Recorded At Luck Reunion) - Spotify Singles",
       "url": "https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU"

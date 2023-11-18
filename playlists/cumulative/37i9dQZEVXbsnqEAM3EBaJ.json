@@ -1207,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "And Still (Bright-Side Mix)",
+        "url": "https://open.spotify.com/album/68zGmkQetcDd6s5lcScxEp"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462576,
+      "name": "And Still - Bright-Side Mix",
+      "url": "https://open.spotify.com/track/1ITNKEIgQNWx1mkIZu9R3H"
+    },
+    {
+      "album": {
         "name": "And Still (Dark-Side Mix)",
         "url": "https://open.spotify.com/album/5XSIbEUilFYGEbs27pDcjV"
       },
@@ -1218,7 +1236,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 461243,
       "name": "And Still - Dark-Side Mix",
       "url": "https://open.spotify.com/track/0e2NW54lXBsVbolTn8MKZ0"
@@ -1682,6 +1700,24 @@
       "duration_ms": 128699,
       "name": "Awaits Clouds",
       "url": "https://open.spotify.com/track/0h8vChP5RgPClAd0xvhZtI"
+    },
+    {
+      "album": {
+        "name": "Ayahuasca",
+        "url": "https://open.spotify.com/album/7tcaADtvrhMXfy7EC63p8j"
+      },
+      "artists": [
+        {
+          "name": "Therion",
+          "url": "https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477133,
+      "name": "Ayahuasca",
+      "url": "https://open.spotify.com/track/19Kgdm3IMoslUlpBNcYmeU"
     },
     {
       "album": {
@@ -2163,6 +2199,24 @@
     },
     {
       "album": {
+        "name": "Live In Helsinki St. John's Church",
+        "url": "https://open.spotify.com/album/3mlEZOZcTZ6NY0jfFg1EaQ"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235640,
+      "name": "Bittersweet - Live In Helsinki St. John's Church",
+      "url": "https://open.spotify.com/track/0GSBDca01R6z6fUIBDajgn"
+    },
+    {
+      "album": {
         "name": "Black (Live in St Paul , 8/31/2023)",
         "url": "https://open.spotify.com/album/0kTWX7n8tSSJ8TBVx5vQWQ"
       },
@@ -2490,6 +2544,24 @@
       "duration_ms": 232333,
       "name": "Bring Me To Life - Demo / Remastered 2023",
       "url": "https://open.spotify.com/track/7FEjJLwvoedqAG5j1loQQu"
+    },
+    {
+      "album": {
+        "name": "Fallen (Deluxe Edition / Remastered 2023)",
+        "url": "https://open.spotify.com/album/1l60K3wSsZjJDfeAvnkZw5"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221680,
+      "name": "Bring Me To Life - Live On Triple M\u2019s Garage Session / 2020 / Remastered 2023",
+      "url": "https://open.spotify.com/track/558sFNXvHZWWOzbsDaeak2"
     },
     {
       "album": {
@@ -4323,6 +4395,28 @@
     },
     {
       "album": {
+        "name": "DJ Play A Christmas Song (DJ Mixes)",
+        "url": "https://open.spotify.com/album/1qsVaIjStefGK4mJLwNHia"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        },
+        {
+          "name": "7th Heaven",
+          "url": "https://open.spotify.com/artist/5pflJc47McwW2cNXOKCtSi"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401271,
+      "name": "DJ Play A Christmas Song - 7th Heaven Club Mix",
+      "url": "https://open.spotify.com/track/5kU3NesP9gTe1tqvbB9R05"
+    },
+    {
+      "album": {
         "name": "Give Way",
         "url": "https://open.spotify.com/album/7vbERTWUaoNzuZzVkkga5g"
       },
@@ -4498,7 +4592,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 339693,
       "name": "Dov'\u00e8 l'amore - Emilio Estefan Jr. Extended Mix; 2023 Remaster",
       "url": "https://open.spotify.com/track/5lz0PgrxcI89hyW2TN5VD1"
@@ -6401,6 +6495,24 @@
     },
     {
       "album": {
+        "name": "The Complete Budokan 1978 (Live)",
+        "url": "https://open.spotify.com/album/6LosaBGHSd97BYSVI7x4ni"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243653,
+      "name": "Going, Going, Gone - Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978",
+      "url": "https://open.spotify.com/track/2jaHpMuTVaEM2kFtAmkOHi"
+    },
+    {
+      "album": {
         "name": "Aria: Piano pieces by Bach & other great composers",
         "url": "https://open.spotify.com/album/27E5aVHIPK73najTieR5Y7"
       },
@@ -7440,7 +7552,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 224586,
       "name": "Home (with Michael Bubl\u00e9)",
       "url": "https://open.spotify.com/track/3bGcmjOqLYBVt1AtiLpmmT"
@@ -7462,7 +7574,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 224586,
       "name": "Home (with Michael Bubl\u00e9)",
       "url": "https://open.spotify.com/track/4nX0jG14mSIi0LcmK3sq0b"
@@ -8076,7 +8188,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 151840,
       "name": "I Want You - Live at Nippon Budokan Hall, Tokyo, Japan - February 28, 1978",
       "url": "https://open.spotify.com/track/657ImOBEvaFXpGZn8Ck3LO"
@@ -9025,6 +9137,24 @@
     },
     {
       "album": {
+        "name": "Leave Me Blue (Live)",
+        "url": "https://open.spotify.com/album/5DHLdDb2OAxCXGXlBK64rI"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253925,
+      "name": "It's A Monster - Live 1989",
+      "url": "https://open.spotify.com/track/0wKSZJ7XLysFWRQFnHVEpS"
+    },
+    {
+      "album": {
         "name": "It's Called Paradise",
         "url": "https://open.spotify.com/album/5KVHMKigtRSzH2qV6rd1XU"
       },
@@ -9340,7 +9470,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 260200,
       "name": "Kaamos - Live In Helsinki St. John's Church",
       "url": "https://open.spotify.com/track/7tHc7q634GxvivLKJfMcmY"
@@ -11252,7 +11382,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 243687,
       "name": "Mess It Up",
       "url": "https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq"
@@ -11274,6 +11404,28 @@
       "duration_ms": 243687,
       "name": "Mess It Up",
       "url": "https://open.spotify.com/track/6fVCPBFgs69jSSM114rGmy"
+    },
+    {
+      "album": {
+        "name": "Mess It Up (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/0L6IypGWr61krz90boqPDD"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215370,
+      "name": "Mess It Up - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/7wkTF8cHGCurrfNATqvJLc"
     },
     {
       "album": {
@@ -11828,7 +11980,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 290226,
       "name": "My Immortal - Live At O2 Arena / 2022 / Remastered 2023",
       "url": "https://open.spotify.com/track/5ZsqmypfVpos1QEg2aB186"
@@ -16748,7 +16900,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 221000,
       "name": "Swan Lake, op. 20",
       "url": "https://open.spotify.com/track/7ohCWZyiY8IZ5Q8YdDQ25B"
@@ -16942,6 +17094,28 @@
       "duration_ms": 243435,
       "name": "Tania",
       "url": "https://open.spotify.com/track/4V20WzU9yI3Zrvbgkrcvmq"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: The Nutcracker - Dance of the Flutes & Pas de Deux - slowed + reverb",
+        "url": "https://open.spotify.com/album/7xCiqiSFhaEcCgS8P0mV3y"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Classical Slowed + Reverb",
+          "url": "https://open.spotify.com/artist/5KXpXnDelYc8HLAAVbtIzk"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173093,
+      "name": "Tchaikovsky: The Nutcracker - Dance of the Flutes - slowed + reverb",
+      "url": "https://open.spotify.com/track/5dAnFmuYE2tsgDW83Qacc9"
     },
     {
       "album": {
@@ -17429,6 +17603,40 @@
     },
     {
       "album": {
+        "name": "The Green Willow Tree",
+        "url": "https://open.spotify.com/album/1ErYH78IVjcfor1UtQcDea"
+      },
+      "artists": [
+        {
+          "name": "Bryn Terfel",
+          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "Archie Churchill-Moss",
+          "url": "https://open.spotify.com/artist/2lUG0DnSJvZOrjuL23oPRD"
+        },
+        {
+          "name": "Ben Tunnicliffe",
+          "url": "https://open.spotify.com/artist/0tS3TD2NR8dVkQlgXayL70"
+        },
+        {
+          "name": "Patrick Rimes",
+          "url": "https://open.spotify.com/artist/2xvtXSbHqfdcvF4sSW6RVi"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183386,
+      "name": "The Green Willow Tree",
+      "url": "https://open.spotify.com/track/2OoI1WWucbF8pJMTwsmClH"
+    },
+    {
+      "album": {
         "name": "The Hardest Button To Button (Live at The Aragon Ballroom, July 2, 2003)",
         "url": "https://open.spotify.com/album/2VjYldO7jxuagjVaiMxNPZ"
       },
@@ -17629,6 +17837,40 @@
     },
     {
       "album": {
+        "name": "EUPHORIA",
+        "url": "https://open.spotify.com/album/1LzqwHBZhp1k8lOEKjQIYc"
+      },
+      "artists": [
+        {
+          "name": "Narada Michael Walden",
+          "url": "https://open.spotify.com/artist/37WGztoQRbNgo55GQCw75B"
+        },
+        {
+          "name": "Carlos Santana",
+          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        },
+        {
+          "name": "Lino Nicolosi",
+          "url": "https://open.spotify.com/artist/5wYc4ue14YKomrRwsEZW9j"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346730,
+      "name": "THE MORE I LOVE MY LIFE - Radio Edit",
+      "url": "https://open.spotify.com/track/6P7PylF3pxrs2wGsEBRO8o"
+    },
+    {
+      "album": {
         "name": "THE MORE I LOVE MY LIFE",
         "url": "https://open.spotify.com/album/5CIgHuaiQrKPdc65EBp6af"
       },
@@ -17656,7 +17898,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 346730,
       "name": "THE MORE I LOVE MY LIFE - Radio Extended",
       "url": "https://open.spotify.com/track/5Nda0JV5WIJlVZZGrt3lfG"
@@ -18734,6 +18976,24 @@
       "duration_ms": 395758,
       "name": "Tren a Valpara\u00edso",
       "url": "https://open.spotify.com/track/509s2fi8JLsrUuhJvvTKtP"
+    },
+    {
+      "album": {
+        "name": "Trial By Fire",
+        "url": "https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261014,
+      "name": "Trial By Fire",
+      "url": "https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6"
     },
     {
       "album": {

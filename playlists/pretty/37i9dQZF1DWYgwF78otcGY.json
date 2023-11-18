@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 26884,
+  "num_followers": 26889,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjU0MzA3ZWZiOTFkODI5OWI4MTc3YTE1ZjY2MDA3YmI5ODhjNWMy",
+  "snapshot_id": "MCxhNGQzNjBiYjFiM2E5ZGQzMDlhZTMzMjU5YjlmM2I0ODc0OTMzYjIw",
   "tracks": [
     {
       "added_at": "2023-02-26 01:59:39",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Run To The Hills",
-        "url": "https://open.spotify.com/album/2JWYQBemvSb20WykqdApO0"
-      },
-      "artists": [
-        {
-          "name": "Klara Hammarstr\u00f6m",
-          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
-        }
-      ],
-      "duration_ms": 175522,
-      "name": "Run To The Hills",
-      "url": "https://open.spotify.com/track/6k4e5H3MbDzhEX3qJSWwpd"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "\u00c4r",
         "url": "https://open.spotify.com/album/1nfObC0Ykmpy6vYLwlsg4Z"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 188293,
       "name": "Stad i ljus",
       "url": "https://open.spotify.com/track/7bVwUOySQGO2afJ0LArAMi"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Run To The Hills",
+        "url": "https://open.spotify.com/album/2JWYQBemvSb20WykqdApO0"
+      },
+      "artists": [
+        {
+          "name": "Klara Hammarstr\u00f6m",
+          "url": "https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6"
+        }
+      ],
+      "duration_ms": 175522,
+      "name": "Run To The Hills",
+      "url": "https://open.spotify.com/track/6k4e5H3MbDzhEX3qJSWwpd"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "N\u00e4r vindarna viskar mitt namn - Single",
-        "url": "https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H"
-      },
-      "artists": [
-        {
-          "name": "Roger Pontare",
-          "url": "https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG"
-        }
-      ],
-      "duration_ms": 184786,
-      "name": "N\u00e4r vindarna viskar mitt namn",
-      "url": "https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Sean den f\u00f6rste Banan",
         "url": "https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 183373,
       "name": "Sean den f\u00f6rste Banan",
       "url": "https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "N\u00e4r vindarna viskar mitt namn - Single",
+        "url": "https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H"
+      },
+      "artists": [
+        {
+          "name": "Roger Pontare",
+          "url": "https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG"
+        }
+      ],
+      "duration_ms": 184786,
+      "name": "N\u00e4r vindarna viskar mitt namn",
+      "url": "https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Fr\u00e5n nu till evighet",
-        "url": "https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "Evighet",
-      "url": "https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "La Det Swinge",
         "url": "https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 173960,
       "name": "La Det Swinge",
       "url": "https://open.spotify.com/track/3IgpWvgCqZjqhsiKwzw1Q7"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Fr\u00e5n nu till evighet",
+        "url": "https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "Evighet",
+      "url": "https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
+        "name": "H\u00f6gt \u00f6ver havet",
+        "url": "https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS"
+      },
+      "artists": [
+        {
+          "name": "Arja Saijonmaa",
+          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
+        }
+      ],
+      "duration_ms": 169226,
+      "name": "H\u00f6gt \u00f6ver havet",
+      "url": "https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
         "name": "90-talet",
         "url": "https://open.spotify.com/album/5xdHq3shCsEXuyt3hTPBvn"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "H\u00f6gt \u00f6ver havet",
-        "url": "https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS"
-      },
-      "artists": [
-        {
-          "name": "Arja Saijonmaa",
-          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "H\u00f6gt \u00f6ver havet",
-      "url": "https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Det g\u00f6r ont en stund p\u00e5 natten men inget p\u00e5 dan",
         "url": "https://open.spotify.com/album/3CQHhvbYaNHJdfp8N79Nbr"
       },
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Busy Doin' Nothin'",
-        "url": "https://open.spotify.com/album/4jfxzJriDt7pZMpzUtRhMo"
-      },
-      "artists": [
-        {
-          "name": "Ace Wilder",
-          "url": "https://open.spotify.com/artist/7F4HcalxCMC4DctguvnoFY"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "Busy Doin' Nothin'",
-      "url": "https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/3H8RhX7BEs0wvFLAkZXVlW"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 185239,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/7DgXgP8rZZuIgh8vjhiQ0c"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Busy Doin' Nothin'",
+        "url": "https://open.spotify.com/album/4jfxzJriDt7pZMpzUtRhMo"
+      },
+      "artists": [
+        {
+          "name": "Ace Wilder",
+          "url": "https://open.spotify.com/artist/7F4HcalxCMC4DctguvnoFY"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "Busy Doin' Nothin'",
+      "url": "https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7"
     }
   ],
   "unique_name": "Schlagerfest",

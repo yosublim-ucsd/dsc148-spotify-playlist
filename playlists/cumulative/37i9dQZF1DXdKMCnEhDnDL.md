@@ -4,7 +4,7 @@
 
 > De beste Nederlandse hits van vroeger en nu\. Cover: Tino Martin & Mart Hoogkamer
 
-167 songs - 8 hr 37 min
+168 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [HJB](https://open.spotify.com/track/4ahoARJMAvNB6ovGUh5l7B) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [HJB](https://open.spotify.com/album/5o8DLeogUUq8Gdt0S49D8D) | 2:18 | 2023-07-06 |  |
 | [Home](https://open.spotify.com/track/0BVUA3FXqQLvZb7r4T22NJ) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [7 Layers](https://open.spotify.com/album/2rQtlZamCmgyyfXk30duG5) | 4:28 | 2023-05-15 | 2023-10-06 |
 | [Honderd Keer](https://open.spotify.com/track/35i2wSWfDTxxBMUCNnmosW) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Honderd Keer](https://open.spotify.com/album/6DJkSNTd8UFnKsAXss5zJo) | 3:16 | 2023-02-24 |  |
+| [Hoodiedate](https://open.spotify.com/track/0rWktREtOKwpyAxwbh9aIh) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Hoodiedate](https://open.spotify.com/album/2GE8j7V7VOaFbrlT1SyssS) | 3:03 | 2023-11-13 |  |
 | [Hou Me Los Van Dichtbij](https://open.spotify.com/track/7bG8a7JbcBftmxVtFMyz9Y) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Hou Me Los Van Dichtbij](https://open.spotify.com/album/58WgPfVCz1tOCJ4DTcwVKA) | 2:34 | 2023-09-01 |  |
 | [Hou me vast](https://open.spotify.com/track/5MpQcSDV8mCDRo9DL4gsYM) | [Volumia!](https://open.spotify.com/artist/1YajfeXETQGtYNQJkOMupS) | [Volumia!](https://open.spotify.com/album/3RG3z8qzEU5ZztjWvfAcvs) | 3:44 | 2023-02-24 | 2023-06-15 |
 | [How My Heart Was Won](https://open.spotify.com/track/7aI0nca5m0wSGYcBdwRL8r) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [How My Heart Was Won](https://open.spotify.com/album/7o2JbjqQZjSX26mG6v2RsE) | 3:39 | 2023-03-30 | 2023-09-15 |
@@ -96,8 +97,8 @@
 | [Laat Me Los](https://open.spotify.com/track/3z9Kma9ewHSAemFewFrXoJ) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Laat Me Los](https://open.spotify.com/album/6WKHqQHd2NdizWkLSZ1sNm) | 3:58 | 2023-02-24 |  |
 | [Laat Mij 'M Zijn](https://open.spotify.com/track/5QVaVjxwbu9G2qVqDXUjcJ) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [Meesterwerk](https://open.spotify.com/album/6tOUUlBUw8hSyZWnvzu5im) | 2:51 | 2023-09-14 |  |
 | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/track/0LVjBdjZvJykxed42ExTLf) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/album/0MNpgjf367wpgf742ZkHGr) | 2:44 | 2023-02-24 |  |
-| [Layla](https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl) | 2:43 | 2023-05-15 | 2023-11-11 |
-| [Layla](https://open.spotify.com/track/6w6pCi9HrZX8P4yee6Lli9) | [MiracVR](https://open.spotify.com/artist/057SJVTg46DEbNRl83KBeh), [Phiec](https://open.spotify.com/artist/1huEWeyAvL6wYs0wsJWKVI) | [Layla](https://open.spotify.com/album/1MDzGxEcn8e2JEE5OAJtiu) | 2:43 | 2023-11-10 |  |
+| [Layla](https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl) | 2:43 | 2023-05-15 |  |
+| [Layla](https://open.spotify.com/track/6w6pCi9HrZX8P4yee6Lli9) | [MiracVR](https://open.spotify.com/artist/057SJVTg46DEbNRl83KBeh), [Phiec](https://open.spotify.com/artist/1huEWeyAvL6wYs0wsJWKVI) | [Layla](https://open.spotify.com/album/1MDzGxEcn8e2JEE5OAJtiu) | 2:43 | 2023-11-10 | 2023-11-18 |
 | [Layla](https://open.spotify.com/track/4bFtZ97olZXoCns9zMImDs) | [Phiec](https://open.spotify.com/artist/1huEWeyAvL6wYs0wsJWKVI), [CATO1948](https://open.spotify.com/artist/5UWB8WQR5gxyNqfhmNbXmt), [Erenzy](https://open.spotify.com/artist/3AP6MCvLF9oYJWYfBubRYH), [SELMAN ALTUNBAŞ](https://open.spotify.com/artist/6cN5reMOX748NGhI2KVO9h) | [Layla](https://open.spotify.com/album/1iwZqyrUQ8UqvW2iIezjVX) | 2:43 | 2023-09-28 | 2023-10-13 |
 | [Leuk](https://open.spotify.com/track/2z43Tcnc82QqrOCHv5GG9J) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [Heilig Water](https://open.spotify.com/album/5qZ3b7w4956bKObKxtXSTY) | 2:27 | 2023-02-24 | 2023-07-07 |
 | [Leven](https://open.spotify.com/track/2Mv9R8FDkPCjAghezGUgJC) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Leven](https://open.spotify.com/album/22DIca4jxPu2N5o8vgKAKm) | 2:14 | 2023-02-24 |  |
@@ -123,7 +124,7 @@
 | [Papa Mama](https://open.spotify.com/track/2hNXxcymoCnK2BCMjeN9wX) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Papa Mama](https://open.spotify.com/album/2NM9yRHI77ajeqjBEZNiob) | 2:42 | 2023-02-24 |  |
 | [Paracetamollen](https://open.spotify.com/track/0bSgNta3s0kIZkxuBI9PxR) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [FLEMMING](https://open.spotify.com/album/4a8kyvzqHaLx3UaasLOctt) | 2:51 | 2023-02-24 |  |
 | [Parijs](https://open.spotify.com/track/3EK7adZKVgEB8NGT5zn4Ti) | [Kenny B](https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP) | [Best Of The 10s: Party Hits](https://open.spotify.com/album/5P65bxTP4Bq4f6EBhsuSMU) | 3:13 | 2023-02-24 |  |
-| [Pizza Met Ananas](https://open.spotify.com/track/5MCYr1sRABY6kNKdRK4ey7) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Niks Mee Te Maken / Pizza Met Ananas](https://open.spotify.com/album/5KfHHLVq8gHlyZSbDkDLbp) | 2:42 | 2023-02-24 |  |
+| [Pizza Met Ananas](https://open.spotify.com/track/5MCYr1sRABY6kNKdRK4ey7) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Niks Mee Te Maken / Pizza Met Ananas](https://open.spotify.com/album/5KfHHLVq8gHlyZSbDkDLbp) | 2:42 | 2023-02-24 | 2023-11-18 |
 | [Radio](https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Radio](https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L) | 3:05 | 2023-09-01 |  |
 | [Rendez\-Vous](https://open.spotify.com/track/6AxWVxPuRvWfvOtIGxmBH6) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Rendez\-Vous](https://open.spotify.com/album/4AR9RWOsaqaE77hxK54UR7) | 3:18 | 2023-02-24 |  |
 | [Roller Coaster](https://open.spotify.com/track/5B5YKjgne3TZzNpMsN9aj1) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Pressure Makes Diamonds](https://open.spotify.com/album/0A9Ozy729zqiSdMVkBMizh) | 4:29 | 2023-02-24 | 2023-03-31 |

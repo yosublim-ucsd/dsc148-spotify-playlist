@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Kirnbauer, Joaquina Mertz, María Centeno & Noa Sainz.
 
-563 songs - 1 day 8 hr 4 min
+565 songs - 1 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [A Mor](https://open.spotify.com/track/7rlZPWvhjNws5u3GDGCmMR) | [Alex June](https://open.spotify.com/artist/6AMK4ZuqWtlKaHuFdOtddO) | [Clepsidra](https://open.spotify.com/album/7bU2KprBBphLpmBvK9FDHi) | 3:01 | 2022-03-09 | 2022-07-28 |
 | [A mí ya me iba mal de antes](https://open.spotify.com/track/51AdRQrcgO0ds6i7uZaNsA) | [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [Va totalmente en serio...](https://open.spotify.com/album/0A7r87gaqIDH5fxRDO9O0U) | 2:30 | 2022-01-21 |  |
 | [A Solas](https://open.spotify.com/track/6N6kTsZ5gzrFEEa6hcBEQP) | [Chiara Parravicini](https://open.spotify.com/artist/7CAbOypVuQA9Rk7359TMas) | [A Solas](https://open.spotify.com/album/10BSMBsJmZhMFuj5N5jFVR) | 3:38 | 2022-01-21 | 2022-07-28 |
+| [A TI](https://open.spotify.com/track/2vTR8PFCIyxM4kQHQdJVUB) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [me da miedo que escuches esto](https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw) | 2:18 | 2023-11-10 |  |
 | [A Toda Velocidad](https://open.spotify.com/track/556qCMc5Jvqc6i1NVMMJ5b) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [A Toda Velocidad](https://open.spotify.com/album/17mxHCWw5TEPMOhlxp1Pml) | 2:50 | 2022-05-06 | 2022-07-29 |
 | [A Veces No Da](https://open.spotify.com/track/4oSj4VDcYCjt74sswuw7Ou) | [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ) | [A Veces No Da](https://open.spotify.com/album/6pWQ8icbcWlDOSmrPA6XC5) | 3:14 | 2023-08-04 | 2023-08-19 |
 | [Acantilados](https://open.spotify.com/track/3ye5LxSF9ckZBvuKgfOggW) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Acantilados](https://open.spotify.com/album/4oOSQbhvA8Rn6tMVkdWfAX) | 3:17 | 2022-01-21 | 2022-07-20 |
@@ -197,7 +198,7 @@
 | [Fantasmas](https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:43 | 2022-10-14 | 2023-06-10 |
 | [Fantástico](https://open.spotify.com/track/3FpnoOgJnoihLQoEmm9Y8h) | [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR), [Oli Miglioli](https://open.spotify.com/artist/2c1M2ZvDn2Ikm4III7GrOy) | [Fantástico](https://open.spotify.com/album/7D0GfKfbXGfJW6YHfeAWTw) | 4:51 | 2022-01-21 | 2022-07-29 |
 | [Flashback](https://open.spotify.com/track/1na7nf0E4zxiFbN8K7hbfr) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Flashback](https://open.spotify.com/album/46Fs959lZZebQUlZavtmAm) | 3:02 | 2022-01-14 | 2022-07-29 |
-| [Formas](https://open.spotify.com/track/7vAw49sXkEZJzrbd5gqfrd) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08) | [Formas](https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF) | 3:18 | 2022-01-21 |  |
+| [Formas](https://open.spotify.com/track/7vAw49sXkEZJzrbd5gqfrd) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08) | [Formas](https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF) | 3:18 | 2022-01-21 | 2023-11-18 |
 | [Fotos y Videos](https://open.spotify.com/track/4FqqOPeMZDiHXkDWakgjN5) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [Fotos y Videos](https://open.spotify.com/album/0SlIh51qhhnp3FcqYqCLCL) | 2:56 | 2022-02-11 | 2022-07-27 |
 | [Fotosintesis](https://open.spotify.com/track/3tGSbX8xExdmdoMgHV3f7C) | [Maren](https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L) | [Fotosintesis](https://open.spotify.com/album/5NffZbyXrV9HdUqb8hBrhL) | 3:45 | 2022-01-14 | 2022-07-29 |
 | [frenemy](https://open.spotify.com/track/6K8R0X0a79Y4w4WugvnxmZ) | [Carolina Blanco](https://open.spotify.com/artist/1hyYPi9Ev0z6rjoz96gw4X) | [frenemy](https://open.spotify.com/album/256lDAuNuhmn1mWHpxzkCL) | 3:04 | 2022-02-11 | 2022-07-26 |
@@ -214,6 +215,7 @@
 | [Guerra](https://open.spotify.com/track/6oBBPVRgc1YH7khQ16whTa) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Juano Loyola](https://open.spotify.com/artist/7JFW2HEZghxdK06CyCINGx) | [Pendeja](https://open.spotify.com/album/3PeEplG3kPppV6QY0LEFYe) | 2:52 | 2022-07-15 | 2022-07-24 |
 | [Haikus](https://open.spotify.com/track/5F0wz82HpYta58t2sAMwR0) | [KO](https://open.spotify.com/artist/1hEKn5JEB1BjkjaEqn7ERu) | [Haikus](https://open.spotify.com/album/1FOq8dtUXCt2bZlLPgw4WC) | 3:31 | 2022-03-04 | 2022-04-30 |
 | [Harakiri](https://open.spotify.com/track/35rpU4Y959WoFdKfdvUHFy) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [La Santa Patrona de los Corazones Negros](https://open.spotify.com/album/2ajge8g0wBGDtctb0y59IR) | 3:33 | 2023-09-01 | 2023-09-09 |
+| [Harakiri](https://open.spotify.com/track/5AMKp7VIitj1mzjbmz6OaR) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [La Santa Patrona de los Corazones Negros](https://open.spotify.com/album/6vtdMIjyt4kd5a3VDB0lnm) | 3:33 | 2023-11-10 |  |
 | [Hasta Que Salga el Sol](https://open.spotify.com/track/6tIOMUJ75caEiH47DhqDYe) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Reconstrucción](https://open.spotify.com/album/20NTZgsDfie7eJEHfhKnmh) | 3:36 | 2022-01-21 | 2022-07-06 |
 | [He comprado ❁](https://open.spotify.com/track/6z1PKqF3jdLP24olrQnCbE) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [He comprado ❁](https://open.spotify.com/album/4g8gmnPaXz8l59vmKLGPML) | 2:36 | 2022-12-09 |  |
 | [Helado de Mango](https://open.spotify.com/track/3h3L1IArPewYKXLgb6YLX1) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [Helado de Mango](https://open.spotify.com/album/5fd7vj3legWUCGUdEhM6S8) | 3:28 | 2022-01-14 | 2022-07-28 |
@@ -361,7 +363,7 @@
 | [Nudo](https://open.spotify.com/track/11zFavnwfx74zzgabPcYAt) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV), [Frannie Holder](https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw) | [La Pérdida](https://open.spotify.com/album/3kDgQdqEps145Ic2fvK5Dd) | 4:25 | 2022-01-21 | 2022-07-09 |
 | [Nudo](https://open.spotify.com/track/5b5tle4kRgZuhHj0p0WLB7) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV), [Frannie Holder](https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw) | [Mango Negro](https://open.spotify.com/album/33HzZjfFI3PrkisNVc04mY) | 4:25 | 2022-01-21 | 2022-07-17 |
 | [Nudo](https://open.spotify.com/track/6xeY2IZfEZFVnGxA8uLASz) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV), [Frannie Holder](https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw) | [Mango Negro](https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF) | 4:25 | 2023-06-09 |  |
-| [Nuestros Besos](https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Nuestros Besos](https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J) | 4:07 | 2023-10-05 |  |
+| [Nuestros Besos](https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Nuestros Besos](https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J) | 4:07 | 2023-10-05 | 2023-11-18 |
 | [Nueva Forma](https://open.spotify.com/track/3obArB82uzZcf2OgcdIp1i) | [Luciana Tagliapietra](https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk) | [Nueva Forma](https://open.spotify.com/album/7Grh0D74B3N9tL22WWcGmu) | 3:59 | 2022-04-01 | 2022-07-20 |
 | [Nunca haría lo que me hiciste](https://open.spotify.com/track/5dgtZ2R2MIZWxKnOqYrSAD) | [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [Nunca haría lo que me hiciste](https://open.spotify.com/album/6r8vU81BXvmSWe009wQS5p) | 3:11 | 2022-12-16 | 2023-02-03 |
 | [NUNCA PUDIMOS](https://open.spotify.com/track/5KyTt6vJU0yh8R8Q46e4TB) | [unÁnima](https://open.spotify.com/artist/5QxH2WRNyntAccePm1BtD3) | [NUNCA PUDIMOS](https://open.spotify.com/album/0hyPn8QJLC6GNiDflt1lj2) | 3:25 | 2022-01-21 | 2022-07-28 |

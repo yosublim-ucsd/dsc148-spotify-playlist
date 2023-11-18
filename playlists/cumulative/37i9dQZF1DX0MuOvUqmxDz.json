@@ -898,6 +898,24 @@
     {
       "album": {
         "name": "Christmas In Dixie",
+        "url": "https://open.spotify.com/album/2BzDaDNs81CbjNOOtIzw8C"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233373,
+      "name": "Christmas In Dixie",
+      "url": "https://open.spotify.com/track/38kCuK2CTPyN8erM6wLFSc"
+    },
+    {
+      "album": {
+        "name": "Christmas In Dixie",
         "url": "https://open.spotify.com/album/4hRoTRSVlRqq4IASoqRXRM"
       },
       "artists": [
@@ -908,7 +926,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 233373,
       "name": "Christmas In Dixie",
       "url": "https://open.spotify.com/track/7hsuoJs173kjUYts4fAWoD"
@@ -2839,6 +2857,24 @@
     },
     {
       "album": {
+        "name": "Joy To The World",
+        "url": "https://open.spotify.com/album/4KPj94cA1iorxv8Ki9rBrv"
+      },
+      "artists": [
+        {
+          "name": "Jade Eagleson",
+          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171314,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/4pCfx1Mghl9ccOTK40wRBP"
+    },
+    {
+      "album": {
         "name": "Kid At Christmas",
         "url": "https://open.spotify.com/album/3GqNyb3gRyD22Cbf9coquS"
       },
@@ -3635,6 +3671,24 @@
     },
     {
       "album": {
+        "name": "O Come All Ye Faithful",
+        "url": "https://open.spotify.com/album/77RAitt8pGClwqj64jOGEB"
+      },
+      "artists": [
+        {
+          "name": "Joe Nichols",
+          "url": "https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239013,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/7vAtxxIskJvuEjEzzZ5hco"
+    },
+    {
+      "album": {
         "name": "O Come, All Ye Faithful",
         "url": "https://open.spotify.com/album/75utng9Gzb9cekZR3SLq77"
       },
@@ -3848,6 +3902,24 @@
       "duration_ms": 280973,
       "name": "One More Christmas Eve",
       "url": "https://open.spotify.com/track/2kajkVFB384KV9inHOHrI0"
+    },
+    {
+      "album": {
+        "name": "Perfect Christmas - EP",
+        "url": "https://open.spotify.com/album/1yOtsA8BzSTDVhUWLdFe1n"
+      },
+      "artists": [
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196331,
+      "name": "Perfect Christmas",
+      "url": "https://open.spotify.com/track/4lyLdCg4GeUBW6TPJEM0U6"
     },
     {
       "album": {
@@ -4629,6 +4701,24 @@
     },
     {
       "album": {
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/1YqW5qzk2H3Ofm6T4JLou6"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147266,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/3UVqDV4i2209OOZ6zZ9LaN"
+    },
+    {
+      "album": {
         "name": "Silent Night (English/Spanish Version)",
         "url": "https://open.spotify.com/album/0a0S7ADF3QllsUOARlp8AS"
       },
@@ -4748,7 +4838,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 185583,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/6IXWwaxcBVLqSbU39Pqc19"

@@ -80,6 +80,24 @@
     {
       "album": {
         "name": "14 Windows",
+        "url": "https://open.spotify.com/album/6L5oIAk7XeJY9FDuAYi8Tg"
+      },
+      "artists": [
+        {
+          "name": "Katie Melua",
+          "url": "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211026,
+      "name": "14 Windows (Single Version)",
+      "url": "https://open.spotify.com/track/3Cd48NPkNlc8wt5F1H3b0F"
+    },
+    {
+      "album": {
+        "name": "14 Windows",
         "url": "https://open.spotify.com/album/2SMXUG1JGAXyb6jabVYV5F"
       },
       "artists": [
@@ -90,7 +108,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 211026,
       "name": "14 Windows - Single Version",
       "url": "https://open.spotify.com/track/6S06lEquRQ0IzwiGK6eVwy"
@@ -3512,10 +3530,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 182813,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/5pYsEdfprWa7B2RbsbUIDC"
+    },
+    {
+      "album": {
+        "name": "The Things I Left Unsaid",
+        "url": "https://open.spotify.com/album/0x68nTDfyciGgU7UXNmm44"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182813,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/61rLJp9G9fJyzRAH9JUu9s"
     },
     {
       "album": {

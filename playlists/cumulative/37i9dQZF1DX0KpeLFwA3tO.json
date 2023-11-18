@@ -11924,7 +11924,7 @@
     {
       "album": {
         "name": "Attachment Styles",
-        "url": "https://open.spotify.com/album/4OZKA1eD8E5PUSw2bfTWSY"
+        "url": "https://open.spotify.com/album/2gfaV8aoCpb2VkZrcpf42S"
       },
       "artists": [
         {
@@ -11935,6 +11935,24 @@
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 112489,
+      "name": "Jack",
+      "url": "https://open.spotify.com/track/0QPA0bWIhjHl10AWeW4Qvc"
+    },
+    {
+      "album": {
+        "name": "Attachment Styles",
+        "url": "https://open.spotify.com/album/4OZKA1eD8E5PUSw2bfTWSY"
+      },
+      "artists": [
+        {
+          "name": "Mhaol",
+          "url": "https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
       "duration_ms": 112489,
       "name": "Jack",
       "url": "https://open.spotify.com/track/3HqjkJozv732dGgTlc4NMC"
@@ -19810,6 +19828,24 @@
     {
       "album": {
         "name": "The Living End (triple j Live at the Wireless 1998)",
+        "url": "https://open.spotify.com/album/7pOAvc4lWutoGlD1vElIoi"
+      },
+      "artists": [
+        {
+          "name": "The Living End",
+          "url": "https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290731,
+      "name": "Second Solution (triple j Live at the Wireless 1998)",
+      "url": "https://open.spotify.com/track/5lKAEkVCsG4EEf7clxc2aK"
+    },
+    {
+      "album": {
+        "name": "The Living End (triple j Live at the Wireless 1998)",
         "url": "https://open.spotify.com/album/5rHQ788x9MMwfTFYTbcI2T"
       },
       "artists": [
@@ -19820,7 +19856,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 290731,
       "name": "Second Solution - triple j Live at the Wireless 1998",
       "url": "https://open.spotify.com/track/71Ab6vKzlT8XYxR0HkSh0s"

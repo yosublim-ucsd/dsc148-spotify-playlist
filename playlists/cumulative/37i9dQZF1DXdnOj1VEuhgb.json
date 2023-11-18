@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Ezhel ",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Muti ",
   "name": "NKVT",
   "tracks": [
     {
@@ -804,6 +804,10 @@
         {
           "name": "UZI",
           "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        },
+        {
+          "name": "Azer B\u00fclb\u00fcl",
+          "url": "https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ"
         }
       ],
       "date_added": "2023-06-15",
@@ -924,7 +928,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 117593,
       "name": "DADA\u015e",
       "url": "https://open.spotify.com/track/7JyfTZNgQTptVyZoV45IZM"
@@ -964,7 +968,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 153328,
       "name": "Degi\u015fir Adresim",
       "url": "https://open.spotify.com/track/04blQ72Bz8isZajEftjYJu"
@@ -1012,6 +1016,28 @@
       "duration_ms": 149732,
       "name": "Diyardan Diyara",
       "url": "https://open.spotify.com/track/7Ebb2WheOGGauCH2wuQB55"
+    },
+    {
+      "album": {
+        "name": "EPIZOD",
+        "url": "https://open.spotify.com/album/0bZOB8JHT7TL3lheF8jEMG"
+      },
+      "artists": [
+        {
+          "name": "Ayaz",
+          "url": "https://open.spotify.com/artist/4BNyQQUayFkUOdf2sw9cLY"
+        },
+        {
+          "name": "Haloday\u0131",
+          "url": "https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "DIYE",
+      "url": "https://open.spotify.com/track/35dhWi0kF2ZJbTA2jY2Phs"
     },
     {
       "album": {
@@ -1929,6 +1955,28 @@
     },
     {
       "album": {
+        "name": "\u0130lle de Sen",
+        "url": "https://open.spotify.com/album/6U2CPuKLntRSRrSUPR4DES"
+      },
+      "artists": [
+        {
+          "name": "Muti",
+          "url": "https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r"
+        },
+        {
+          "name": "Azer B\u00fclb\u00fcl",
+          "url": "https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146818,
+      "name": "\u0130lle de Sen",
+      "url": "https://open.spotify.com/track/2huuuyJHQ6KK6qzwvUlG3c"
+    },
+    {
+      "album": {
         "name": "\u0130llegale",
         "url": "https://open.spotify.com/album/3vg10Plw06OxHNh30mpvmx"
       },
@@ -2054,6 +2102,24 @@
       "duration_ms": 198425,
       "name": "\u0130STEMEM",
       "url": "https://open.spotify.com/track/4FOVdn9oZhxH6AOEhL78BR"
+    },
+    {
+      "album": {
+        "name": "\u0130stesem De S\u00f6yleyemem",
+        "url": "https://open.spotify.com/album/0ucrFTImSmbXuJbnbWZftP"
+      },
+      "artists": [
+        {
+          "name": "Sagopa Kajmer",
+          "url": "https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214273,
+      "name": "\u0130stesem De S\u00f6yleyemem",
+      "url": "https://open.spotify.com/track/3QfP0wvvCK5e6GMffySlEX"
     },
     {
       "album": {
@@ -2319,6 +2385,28 @@
     },
     {
       "album": {
+        "name": "Ko\u011fu\u015f Kalk",
+        "url": "https://open.spotify.com/album/5kFq6WT96tp3tk6YU6lLOv"
+      },
+      "artists": [
+        {
+          "name": "Benan",
+          "url": "https://open.spotify.com/artist/0fJjZ2tqOirAOhxasms8hr"
+        },
+        {
+          "name": "No.1",
+          "url": "https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200714,
+      "name": "Ko\u011fu\u015f Kalk",
+      "url": "https://open.spotify.com/track/1ktaLX0jhPx5Vgqz1bktSC"
+    },
+    {
+      "album": {
         "name": "KUM SAAT\u0130",
         "url": "https://open.spotify.com/album/28ExGabncl1Aa7nC4mrBJ8"
       },
@@ -2444,6 +2532,28 @@
       "duration_ms": 153913,
       "name": "La Turka",
       "url": "https://open.spotify.com/track/1sKZZSqhqOjx75b0Nvz43l"
+    },
+    {
+      "album": {
+        "name": "ECLIPSE (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5LPrbOrlvZ8lnb2CMexS2e"
+      },
+      "artists": [
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        },
+        {
+          "name": "Pango",
+          "url": "https://open.spotify.com/artist/1wRU9DVyKSF1BCHE0PXDuE"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235799,
+      "name": "LACIVERT",
+      "url": "https://open.spotify.com/track/26h7iVBq3DSR9ex0BpT8GO"
     },
     {
       "album": {
@@ -2763,6 +2873,24 @@
     },
     {
       "album": {
+        "name": "MINI TERORISTA",
+        "url": "https://open.spotify.com/album/2NtepMpiLssGo9t2fSIhEG"
+      },
+      "artists": [
+        {
+          "name": "Jeff Redd",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "MINI TERORISTA",
+      "url": "https://open.spotify.com/track/6kvf06eThDCrvYknMY32To"
+    },
+    {
+      "album": {
         "name": "Montana",
         "url": "https://open.spotify.com/album/2ZEVATZIJP58cLqAGsDaBy"
       },
@@ -2940,7 +3068,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 129295,
       "name": "Neyi Kaybetti\u011fine Bak",
       "url": "https://open.spotify.com/track/7tU6rxMYoa5jsDmkhaBozh"
@@ -2980,7 +3108,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 182400,
       "name": "NKB\u0130 X YAPAMAM - Remix",
       "url": "https://open.spotify.com/track/4ist5GP5r7UDz9gdsiJmYd"
@@ -2998,7 +3126,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 165174,
       "name": "NO LOVE",
       "url": "https://open.spotify.com/track/2ma27DveLzktAYNnEVY7ji"
@@ -3343,6 +3471,24 @@
     },
     {
       "album": {
+        "name": "POP",
+        "url": "https://open.spotify.com/album/0EZoxOrmBvdaYl7IY6LBW7"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcne\u015f",
+          "url": "https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177161,
+      "name": "POP",
+      "url": "https://open.spotify.com/track/1UWEafiPTYY6Ym2GKxTCGg"
+    },
+    {
+      "album": {
         "name": "Promilim Y\u00fcksek",
         "url": "https://open.spotify.com/album/6d8TE9RJjtPjYLYgaNkgEC"
       },
@@ -3678,7 +3824,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 122553,
       "name": "SONSUZA KADAR",
       "url": "https://open.spotify.com/track/7whQwxhwPfyqV32I0UHbMv"

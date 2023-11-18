@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba?si=bfIFagW4Sa2U9SlRDel5uw"> Blinky Bill</a>
 
-169 songs - 8 hr 42 min
+170 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [LAST AIR BENDER](https://open.spotify.com/track/3Tkrl8e0p4WvXCq31ITeXw) | [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX), [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg) | [EAST MPAKA LONDON](https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G) | 2:30 | 2022-05-19 | 2023-01-19 |
 | [Legit\(Wakuu\)](https://open.spotify.com/track/0kJfgiUBkxwlRtLGnjfbOA) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [Legit\(Wakuu\)](https://open.spotify.com/album/47eEMiMa40vDxXYjCeq4se) | 5:22 | 2023-10-12 |  |
 | [Light It Up](https://open.spotify.com/track/7wn9CznZ9KqtGxBmPVqnmN) | [AINE](https://open.spotify.com/artist/6wjvPNWZyYAX8Q98XzVrQM) | [Light It Up](https://open.spotify.com/album/1WlqYudMiTJkTF6fnx2EBi) | 3:55 | 2023-03-09 |  |
-| [Lip Service](https://open.spotify.com/track/2Mtk2PU62wsaU6f9qnEh3p) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH), [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6) | [Lip Service](https://open.spotify.com/album/6lhrOKDPBdsz4adhAAoO6Q) | 3:51 | 2022-09-30 |  |
+| [Lip Service](https://open.spotify.com/track/2Mtk2PU62wsaU6f9qnEh3p) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH), [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6) | [Lip Service](https://open.spotify.com/album/6lhrOKDPBdsz4adhAAoO6Q) | 3:51 | 2022-09-30 | 2023-11-18 |
 | [Livin' Live](https://open.spotify.com/track/78HexnFc3Yy7NAMGmxXQyr) | [Asum Garvey](https://open.spotify.com/artist/5RzBJUlfg5ps6jEJz98Ga7) | [Livin' Live](https://open.spotify.com/album/25ibNvlW5yK0QyWzuOEt5J) | 2:44 | 2022-06-09 | 2022-10-22 |
 | [Lose](https://open.spotify.com/track/4nWq6NkvzFuxqbd1cyVk4A) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY) | [Lose](https://open.spotify.com/album/7LxnVwde82SZ0GCfFNGfJR) | 3:22 | 2023-04-13 | 2023-07-28 |
 | [Lose](https://open.spotify.com/track/7ojMJpBewMnczrWKsIlKMC) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY) | [Lose](https://open.spotify.com/album/77GsYDaqzWi5uTDxBYVy3x) | 3:22 | 2023-01-12 | 2023-04-20 |
@@ -129,6 +129,7 @@
 | [Shrapa Ranks](https://open.spotify.com/track/0uDl3s52h57l0addjFIbte) | [Asum Garvey](https://open.spotify.com/artist/5RzBJUlfg5ps6jEJz98Ga7), [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y) | [Shrapa Ranks](https://open.spotify.com/album/6G7e4Jh3iaQmRkFwWEc57Q) | 2:01 | 2023-05-05 |  |
 | [Sikutambui](https://open.spotify.com/track/4Gl3dMkubYB2rEn3tOfduY) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [NDANI YA COCKPIT 3](https://open.spotify.com/album/4p5Ob7OdZxOp4rzHF12qKk) | 3:44 | 2023-08-25 |  |
 | [Sikutambui](https://open.spotify.com/track/5v8L1VibzgRfDCyPdPxGbv) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [NDANI YA COCKPIT 3](https://open.spotify.com/album/3NvCDHqPpNi1y3lVhmAAsy) | 3:44 | 2023-04-27 | 2023-07-08 |
+| [Similani](https://open.spotify.com/track/0eYHEDUKHrdPxNpxETNL6c) | [Kaa La Moto](https://open.spotify.com/artist/7jvdp7S94qyfvChivF4ua9), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Similani](https://open.spotify.com/album/1FTLLUkn2LSv4VVH1T1LUH) | 3:22 | 2023-11-17 |  |
 | [Situation Sticky](https://open.spotify.com/track/4UMUYdkPJTXml0XOXiH1AR) | [On Safari](https://open.spotify.com/artist/7C4Sna90V9C5gRrtZNh8kZ), [Bryvvn](https://open.spotify.com/artist/1YcGi2JIfTzbotFBDiysfS), [7AY](https://open.spotify.com/artist/3MiRH0LK3bcno7nZa6QtLm), [Prince.Wasabi](https://open.spotify.com/artist/2Gaxo8kmFvgNJvNmg6ZsGH), [CHozenAfitra](https://open.spotify.com/artist/3ezTcPg7Z7zY1p1XbVuRiQ), [Vandrel](https://open.spotify.com/artist/6nYKLho6i0KRNEEqffoJfv) | [Situation Sticky](https://open.spotify.com/album/20aSo6Bl2IP2Qku5aFAx5i) | 3:35 | 2022-06-30 | 2022-11-11 |
 | [Smash](https://open.spotify.com/track/2Azllbj8lN32T84iCwKhfd) | [Dope\-I\-Mean](https://open.spotify.com/artist/2oZxeOa6ShBENROOYB5TsW), [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y) | [Smash](https://open.spotify.com/album/5Ga0YvnWe3Me0N0CLDnM4x) | 2:58 | 2023-04-06 | 2023-11-04 |
 | [So Gone Gfix](https://open.spotify.com/track/6oI7qnO61ysdOFBDemA13S) | [Vinc On The Beat](https://open.spotify.com/artist/1zAkmlAKP4fCnJnAymX4r9), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [So Gone Gfix](https://open.spotify.com/album/1P0SXdYFMgygK9hqjdEzEI) | 2:41 | 2023-06-29 |  |

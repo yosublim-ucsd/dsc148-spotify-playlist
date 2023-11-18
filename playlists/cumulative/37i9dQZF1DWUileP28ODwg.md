@@ -2,7 +2,7 @@
 
 ### [Top Christian Contemporary](https://open.spotify.com/playlist/37i9dQZF1DWUileP28ODwg)
 
-> Tune in here for new and current hits in Contemporary Christian music!  Guest curated by: <a href="spotify:artist:6KVnMm856M8CHHBCw53Ihh">Natalie Grant</a>
+> Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:61SFRZAmfyJhcffwR2Ijuq">Jason Crabb</a>
 
 348 songs - 21 hr 34 min
 

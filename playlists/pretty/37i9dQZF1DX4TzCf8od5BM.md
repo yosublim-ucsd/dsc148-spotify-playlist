@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 
 > Sing\-along with your favorite songs from Disney Junior shows including new music from SuperKitties!  Watch SuperKitties on Disney Junior, Disney Channel, and Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,157 likes - 175 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,172 likes - 175 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 | 174 | [\(Muppet Baby\) You Can Be a Star](https://open.spotify.com/track/3IZDkjTFymwe24SA0Br1Pw) | [Cast \- Muppet Babies](https://open.spotify.com/artist/0veQuV0UE46gR3hDsjlrBP) | [Disney Junior Music: Muppet Babies](https://open.spotify.com/album/5W62FpplwP6M2g0vwRrUBI) | 1:10 |
 | 175 | [The Nancy Way](https://open.spotify.com/track/2NCcDPOWpga6sCZXI4kJGR) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy Vol\. 2](https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW) | 1:42 |
 
-Snapshot ID: `MCw3OGU4MTYxMGE5Mjk3NTc5OGM5NjM4NjQ4OTgwM2RkMDJhMTliOGRm`
+Snapshot ID: `MCwwY2RlM2MyYjFhMGM5ZTQxNzcyOTJlNWY1NmQ0NTU4ZDUwNmM4MTRk`

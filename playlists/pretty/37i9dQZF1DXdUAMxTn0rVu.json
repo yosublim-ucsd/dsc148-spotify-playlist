@@ -1,12 +1,12 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Pharoahe Monch",
-  "num_followers": 443992,
+  "num_followers": 445247,
   "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWIwNmE3NzdmMWQzNTA3MTU2NjBkZTgwNTkwYjkyNjE1NmZiMzgy",
+  "snapshot_id": "MCxlYzY4Nzk3NzRjZWUzOTlmOWZmMGQzYWY4ZTZkZTBiNGVjZGE3MmYw",
   "tracks": [
     {
       "added_at": "2023-11-02 00:00:29",
@@ -131,6 +131,26 @@
     {
       "added_at": "2023-11-02 00:00:29",
       "album": {
+        "name": "Operation: Doomsday (Complete)",
+        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
+      },
+      "artists": [
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        },
+        {
+          "name": "DJ Cucumber Slice",
+          "url": "https://open.spotify.com/artist/6wwBv5Rq6Ev2USsDsIZO1o"
+        }
+      ],
+      "duration_ms": 258613,
+      "name": "Rhymes Like Dimes",
+      "url": "https://open.spotify.com/track/6OkDb9fyi22Pr6QJIrUNdJ"
+    },
+    {
+      "added_at": "2023-11-02 00:00:29",
+      "album": {
         "name": "Kollage",
         "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
       },
@@ -143,22 +163,6 @@
       "duration_ms": 214866,
       "name": "Uknowhowwedu",
       "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
-    },
-    {
-      "added_at": "2023-11-02 00:00:29",
-      "album": {
-        "name": "Full Clip: A Decade Of Gang Starr",
-        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 217440,
-      "name": "Full Clip",
-      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
     },
     {
       "added_at": "2023-11-02 00:00:29",
@@ -187,22 +191,18 @@
     {
       "added_at": "2023-11-02 00:00:29",
       "album": {
-        "name": "Operation: Doomsday (Complete)",
-        "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
+        "name": "Full Clip: A Decade Of Gang Starr",
+        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
       },
       "artists": [
         {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        },
-        {
-          "name": "DJ Cucumber Slice",
-          "url": "https://open.spotify.com/artist/6wwBv5Rq6Ev2USsDsIZO1o"
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
         }
       ],
-      "duration_ms": 258613,
-      "name": "Rhymes Like Dimes",
-      "url": "https://open.spotify.com/track/6OkDb9fyi22Pr6QJIrUNdJ"
+      "duration_ms": 217440,
+      "name": "Full Clip",
+      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
     },
     {
       "added_at": "2023-11-02 00:00:29",
@@ -259,6 +259,26 @@
       "duration_ms": 218293,
       "name": "Design in Malice",
       "url": "https://open.spotify.com/track/6Z9syPcYlnUvpMgmjQydIG"
+    },
+    {
+      "added_at": "2023-11-02 00:00:29",
+      "album": {
+        "name": "The Grind Date",
+        "url": "https://open.spotify.com/album/6pA5vsn22nBSarlpib38QR"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "duration_ms": 185266,
+      "name": "Rock Co.Kane Flow (feat. MF DOOM)",
+      "url": "https://open.spotify.com/track/5eWj4hoqE9cf8mCE1pkB7M"
     },
     {
       "added_at": "2023-11-02 00:00:29",
@@ -451,26 +471,6 @@
       "duration_ms": 180066,
       "name": "Forest Whitiker",
       "url": "https://open.spotify.com/track/42uXDKUhyAt5Exe1G5pKWJ"
-    },
-    {
-      "added_at": "2023-11-02 00:00:29",
-      "album": {
-        "name": "The Grind Date",
-        "url": "https://open.spotify.com/album/6pA5vsn22nBSarlpib38QR"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        },
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        }
-      ],
-      "duration_ms": 185266,
-      "name": "Rock Co.Kane Flow (feat. MF DOOM)",
-      "url": "https://open.spotify.com/track/5eWj4hoqE9cf8mCE1pkB7M"
     },
     {
       "added_at": "2023-11-02 00:00:29",
@@ -775,30 +775,6 @@
     {
       "added_at": "2023-11-02 00:00:29",
       "album": {
-        "name": "Champion Sound",
-        "url": "https://open.spotify.com/album/0zkhTVHYyDMxFdhVCKGNFa"
-      },
-      "artists": [
-        {
-          "name": "Jaylib",
-          "url": "https://open.spotify.com/artist/7BWVFnoB7Qy9biFNCoRCMI"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        },
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "duration_ms": 211520,
-      "name": "The Official",
-      "url": "https://open.spotify.com/track/4hKn3UprlDFgjOZ1CtufBr"
-    },
-    {
-      "added_at": "2023-11-02 00:00:29",
-      "album": {
         "name": "Things Fall Apart",
         "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
       },
@@ -811,22 +787,6 @@
       "duration_ms": 233493,
       "name": "100% Dundee",
       "url": "https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O"
-    },
-    {
-      "added_at": "2023-11-02 00:00:29",
-      "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 211892,
-      "name": "Climax",
-      "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
     },
     {
       "added_at": "2023-11-02 00:00:29",
@@ -851,22 +811,6 @@
     {
       "added_at": "2023-11-02 00:00:29",
       "album": {
-        "name": "Nia",
-        "url": "https://open.spotify.com/album/3p6jhqOzFLzlC50KKv629I"
-      },
-      "artists": [
-        {
-          "name": "Blackalicious",
-          "url": "https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG"
-        }
-      ],
-      "duration_ms": 311760,
-      "name": "Deception",
-      "url": "https://open.spotify.com/track/2R0MySb9tgrWIv2mttYAYR"
-    },
-    {
-      "added_at": "2023-11-02 00:00:29",
-      "album": {
         "name": "The Hurricane (Music From And Inspired By The Motion Picture)",
         "url": "https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs"
       },
@@ -879,6 +823,46 @@
       "duration_ms": 241533,
       "name": "Little Brother",
       "url": "https://open.spotify.com/track/5WHsa2d0VhV4Dog4vhIYUH"
+    },
+    {
+      "added_at": "2023-11-02 00:00:29",
+      "album": {
+        "name": "Champion Sound",
+        "url": "https://open.spotify.com/album/0zkhTVHYyDMxFdhVCKGNFa"
+      },
+      "artists": [
+        {
+          "name": "Jaylib",
+          "url": "https://open.spotify.com/artist/7BWVFnoB7Qy9biFNCoRCMI"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "The Official",
+      "url": "https://open.spotify.com/track/4hKn3UprlDFgjOZ1CtufBr"
+    },
+    {
+      "added_at": "2023-11-02 00:00:29",
+      "album": {
+        "name": "Nia",
+        "url": "https://open.spotify.com/album/3p6jhqOzFLzlC50KKv629I"
+      },
+      "artists": [
+        {
+          "name": "Blackalicious",
+          "url": "https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG"
+        }
+      ],
+      "duration_ms": 311760,
+      "name": "Deception",
+      "url": "https://open.spotify.com/track/2R0MySb9tgrWIv2mttYAYR"
     },
     {
       "added_at": "2023-11-02 00:00:29",
@@ -907,18 +891,18 @@
     {
       "added_at": "2023-11-02 00:00:29",
       "album": {
-        "name": "Murray's Revenge",
-        "url": "https://open.spotify.com/album/3KemAqTdgRAp1ZKInbgxyq"
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
       },
       "artists": [
         {
-          "name": "Murs",
-          "url": "https://open.spotify.com/artist/2dWF6m2ksP9GN75fufFp16"
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
         }
       ],
-      "duration_ms": 169106,
-      "name": "L.A.",
-      "url": "https://open.spotify.com/track/0JjgNoZJ2l49O2ztVRnSNt"
+      "duration_ms": 211892,
+      "name": "Climax",
+      "url": "https://open.spotify.com/track/7i47lf1W2WA41wagWBD3zH"
     },
     {
       "added_at": "2023-11-02 00:00:29",
@@ -935,6 +919,22 @@
       "duration_ms": 252400,
       "name": "3 Tha Hard Way",
       "url": "https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS"
+    },
+    {
+      "added_at": "2023-11-02 00:00:29",
+      "album": {
+        "name": "Murray's Revenge",
+        "url": "https://open.spotify.com/album/3KemAqTdgRAp1ZKInbgxyq"
+      },
+      "artists": [
+        {
+          "name": "Murs",
+          "url": "https://open.spotify.com/artist/2dWF6m2ksP9GN75fufFp16"
+        }
+      ],
+      "duration_ms": 169106,
+      "name": "L.A.",
+      "url": "https://open.spotify.com/track/0JjgNoZJ2l49O2ztVRnSNt"
     },
     {
       "added_at": "2023-11-02 00:00:29",

@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Richard Coleman
+> Lo más potente del rock argentino, y algunos invitados de lujo\. Foto: Ella Es Tan Cargosa
 
-227 songs - 14 hr 12 min
+228 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Es Poderoso](https://open.spotify.com/track/5BLXWjtErKV3De7MOtomI6) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:19 | 2022-06-24 | 2023-09-27 |
 | [Escapar](https://open.spotify.com/track/5wox6DMRibm9xFZklhWmSZ) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Escapar](https://open.spotify.com/album/1RIilWLhdLU2dhUvhxx0EQ) | 2:56 | 2022-09-02 | 2022-12-03 |
 | [Ese Tren \(feat\. Skay Beilinson\)](https://open.spotify.com/track/0BF8OUoMz4w4EHzqKV5TpY) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Ese Tren \(feat\. Skay Beilinson\)](https://open.spotify.com/album/4kUrH3Fb6Fx7Ps0AkgzQMS) | 3:45 | 2022-09-02 | 2023-06-17 |
-| [Eso no es Amor](https://open.spotify.com/track/3fG3Ds1rzPt5kScGIlocTH) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4) | [Día del Trabajador](https://open.spotify.com/album/2Zl1OvzHWSaztfZlLlEgNI) | 4:45 | 2023-09-26 |  |
+| [Eso no es Amor](https://open.spotify.com/track/3fG3Ds1rzPt5kScGIlocTH) | [Fonso](https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4) | [Día del Trabajador](https://open.spotify.com/album/2Zl1OvzHWSaztfZlLlEgNI) | 4:45 | 2023-09-26 | 2023-11-18 |
 | [Esperando Nacer](https://open.spotify.com/track/2Ymx1N04hDeyi0c9V7ckPT) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Esperando Nacer](https://open.spotify.com/album/6nMSnZqmI52qTP0scuf6Kh) | 5:45 | 2022-06-24 | 2022-11-19 |
 | [Estampita](https://open.spotify.com/track/3vaV6ERdDONqCzXvqxuutE) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Estampita](https://open.spotify.com/album/6Z1DpEiOF3BMj67ZukNgSL) | 4:44 | 2022-06-24 | 2023-09-27 |
 | [Está todo mal](https://open.spotify.com/track/1TCuzqT6yRfNgS5tWNLEW7) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Está todo mal](https://open.spotify.com/album/5uYVPB3uqQNzB5nHEpvRXc) | 2:44 | 2023-11-10 |  |
@@ -183,6 +183,7 @@
 | [Qué Tal Si](https://open.spotify.com/track/1nymd0Q8wlYw8GO6qpFFzz) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Qué Tal Si](https://open.spotify.com/album/4XHpR6MehJc55fHzZ9jzre) | 3:50 | 2022-06-24 |  |
 | [Raíz \(Sinfónico en Vivo\)](https://open.spotify.com/track/4olGOQU6lKPpw3NiuXKtae) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [14 Episodios Sinfónicos / En Vivo / Auditorio Nacional de México / Febrero 2002](https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO) | 4:07 | 2022-08-12 | 2023-09-27 |
 | [Reflejo](https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Reflejo](https://open.spotify.com/album/6FsAipsUvB2WP4o6ho5u2i) | 4:19 | 2023-05-05 |  |
+| [Regresar al Cuerpo](https://open.spotify.com/track/71u7FtnJxZPqvdHqzyo8qS) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Regresar al Cuerpo](https://open.spotify.com/album/60kAJYfszVgUglDQDoCZiK) | 3:03 | 2023-11-17 |  |
 | [Rola de Primera](https://open.spotify.com/track/6DPQLhYRp5PJrhgk2OWVJE) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku) | [Rola de Primera](https://open.spotify.com/album/4Weh68myPcgmZtGITPYIi1) | 3:37 | 2023-10-26 |  |
 | [Rorschach](https://open.spotify.com/track/3ECQXmZjCKCHZgsVa0DBzS) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Lámina Once](https://open.spotify.com/album/0rre7z2j7c3zbxasPRhshi) | 3:57 | 2022-07-08 |  |
 | [Roto](https://open.spotify.com/track/0G0qz1tF8IgGc2pANlH7X3) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Roto](https://open.spotify.com/album/06cMimO1BixYYuhsyNwXPV) | 3:48 | 2023-09-22 |  |

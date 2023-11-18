@@ -60,6 +60,24 @@
     {
       "album": {
         "name": "Promiseland",
+        "url": "https://open.spotify.com/album/5G9rkjPLOZwEw2bNKYqujJ"
+      },
+      "artists": [
+        {
+          "name": "Colin Stough",
+          "url": "https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202816,
+      "name": "'Til The Day One Does",
+      "url": "https://open.spotify.com/track/26F5qKkrE8nLvsXwnin4sS"
+    },
+    {
+      "album": {
+        "name": "Promiseland",
         "url": "https://open.spotify.com/album/44MP986oBgL08PtTWHgY2G"
       },
       "artists": [
@@ -70,7 +88,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 202816,
       "name": "'Til The Day One Does",
       "url": "https://open.spotify.com/track/7hOeEAhCGCOG6hzBWp54vO"
@@ -2401,6 +2419,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Thing",
+        "url": "https://open.spotify.com/album/70cGCG1fpSqwNbO1XRp4OQ"
+      },
+      "artists": [
+        {
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160266,
+      "name": "Beautiful Thing",
+      "url": "https://open.spotify.com/track/5I5ocFURFoZbmiGrYbvwLs"
+    },
+    {
+      "album": {
         "name": "Beautifully Broken",
         "url": "https://open.spotify.com/album/6iwv4JaUaiJdHXZuqfijvR"
       },
@@ -2718,7 +2754,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 197075,
       "name": "Best Ex I Ever Had",
       "url": "https://open.spotify.com/track/7hQNs2B0f7iz0YLNrDrTxV"
@@ -3278,7 +3314,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 176826,
       "name": "Blame It on My Boots",
       "url": "https://open.spotify.com/track/6waMe4NbRpTzeM2AUyxvvN"
@@ -3937,6 +3973,24 @@
     },
     {
       "album": {
+        "name": "Bulletproof",
+        "url": "https://open.spotify.com/album/4JGO5ZFI3MZcRzx7HWJX03"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197480,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/40zoqDOBegJJaDJLmLyv6g"
+    },
+    {
+      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/1kO9MPo6In7ZCfcFYTy9p6"
       },
@@ -4486,7 +4540,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 209109,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/4k6zSLCDhm0pjLAVbLrF5P"
@@ -4656,10 +4710,32 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 184173,
       "name": "Chevrolet (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/6mlrPThfssAGfuSMdKyckQ"
+    },
+    {
+      "album": {
+        "name": "Killed The Cowboy",
+        "url": "https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184173,
+      "name": "Chevrolet (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/7FKAVg9SA7QYLxdVRLnKjd"
     },
     {
       "album": {
@@ -7651,6 +7727,24 @@
     },
     {
       "album": {
+        "name": "All I've Ever Known",
+        "url": "https://open.spotify.com/album/7uaGO5JlgaqeRyjTQaotsE"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Kay",
+          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245987,
+      "name": "Everleave",
+      "url": "https://open.spotify.com/track/0Cs7M3RfiZVeMkzqYl7wtk"
+    },
+    {
+      "album": {
         "name": "Every Beer Every Bar",
         "url": "https://open.spotify.com/album/1xpJh1XNYDywg4t8mGpS1F"
       },
@@ -8619,6 +8713,28 @@
     },
     {
       "album": {
+        "name": "Introducing: The Heartbreak",
+        "url": "https://open.spotify.com/album/7HdNW5sRiuHyje1MWpzpI7"
+      },
+      "artists": [
+        {
+          "name": "Lauren Watkins",
+          "url": "https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S"
+        },
+        {
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228610,
+      "name": "Fly On The Wall",
+      "url": "https://open.spotify.com/track/2YBOHdgzpMmNHdW0Zub9Ze"
+    },
+    {
+      "album": {
         "name": "Foot Out The Door",
         "url": "https://open.spotify.com/album/2FHySeDoiDDlYCAPGJqdMz"
       },
@@ -8850,6 +8966,24 @@
       "duration_ms": 172840,
       "name": "Front Row Seat",
       "url": "https://open.spotify.com/track/0vSVknC1QRWHmHDqgtOPfP"
+    },
+    {
+      "album": {
+        "name": "Frostbite",
+        "url": "https://open.spotify.com/album/1PdfeND2jB3u8fvQ2G243x"
+      },
+      "artists": [
+        {
+          "name": "Jake Kohn",
+          "url": "https://open.spotify.com/artist/5tfKTqbUneP4J3dHeRiLSw"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220080,
+      "name": "Frostbite",
+      "url": "https://open.spotify.com/track/0tW7pjrVgWcu0yUr0OJVsC"
     },
     {
       "album": {
@@ -9196,7 +9330,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 174696,
       "name": "girl i loved before",
       "url": "https://open.spotify.com/track/5NpaEYDLzaljVglKqTNH6k"
@@ -9622,7 +9756,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 178880,
       "name": "Gonna Love You",
       "url": "https://open.spotify.com/track/4k8ozY5BjfGGvICHka5DfI"
@@ -9836,6 +9970,24 @@
       "duration_ms": 142204,
       "name": "Good Riddance",
       "url": "https://open.spotify.com/track/3WwZbPizrnJqJFx86kNPs1"
+    },
+    {
+      "album": {
+        "name": "GOOD SINNER",
+        "url": "https://open.spotify.com/album/4d8lt7Q5Kk6FJ8JqYrrsIw"
+      },
+      "artists": [
+        {
+          "name": "Graham Barham",
+          "url": "https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "GOOD SINNER",
+      "url": "https://open.spotify.com/track/0MmsRfYkWF4s9ecr3rha16"
     },
     {
       "album": {
@@ -11726,7 +11878,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 226875,
       "name": "High On Life",
       "url": "https://open.spotify.com/track/3rvCYHShvAD35yPc9iWSiP"
@@ -12621,6 +12773,24 @@
     },
     {
       "album": {
+        "name": "How We're Livin'",
+        "url": "https://open.spotify.com/album/2y0huYt9gRYLOy1x1mePQj"
+      },
+      "artists": [
+        {
+          "name": "Brian Kelley",
+          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163293,
+      "name": "How We\u2019re Livin\u2019",
+      "url": "https://open.spotify.com/track/1rxaZS69Cj6783JeNeS8qh"
+    },
+    {
+      "album": {
         "name": "How You Love Someone",
         "url": "https://open.spotify.com/album/5E3d726Sw4jFs5PPiDe5Du"
       },
@@ -13046,7 +13216,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 147356,
       "name": "I Got A Problem",
       "url": "https://open.spotify.com/track/46ELlro4wExQxafmUT6JQA"
@@ -13270,6 +13440,24 @@
       "duration_ms": 212215,
       "name": "I Just Killed A Man",
       "url": "https://open.spotify.com/track/7D9H7ROCXakc9PDf9PJZwG"
+    },
+    {
+      "album": {
+        "name": "I Kissed Your Boyfriend",
+        "url": "https://open.spotify.com/album/1eQy1INIuDbSPjHvSjoiWJ"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188435,
+      "name": "I Kissed Your Boyfriend",
+      "url": "https://open.spotify.com/track/7odGIMD8OkodZTyRQg7LQ4"
     },
     {
       "album": {
@@ -15851,6 +16039,24 @@
     },
     {
       "album": {
+        "name": "Life Lessons",
+        "url": "https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195505,
+      "name": "Life Lessons",
+      "url": "https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM"
+    },
+    {
+      "album": {
         "name": "Life With You",
         "url": "https://open.spotify.com/album/0rONiLVsTjT9XVGtJWEu6z"
       },
@@ -15862,7 +16068,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 156813,
       "name": "Life With You",
       "url": "https://open.spotify.com/track/38QnGbDW7KgVylfma7ZWV5"
@@ -16388,10 +16594,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 223660,
       "name": "Lonely Hour",
       "url": "https://open.spotify.com/track/6u0Eoqzo2CrIEantCoeOcM"
+    },
+    {
+      "album": {
+        "name": "Lonely Hour",
+        "url": "https://open.spotify.com/album/7uummF6LB8h9SQ72HVAOSN"
+      },
+      "artists": [
+        {
+          "name": "Colin Stough",
+          "url": "https://open.spotify.com/artist/3vT3vK5cuBWPPnaIIZRyds"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223660,
+      "name": "Lonely Hour",
+      "url": "https://open.spotify.com/track/7vJlyFyiQryFwyIFs8F9tW"
     },
     {
       "album": {
@@ -17599,6 +17823,24 @@
     },
     {
       "album": {
+        "name": "Married Now",
+        "url": "https://open.spotify.com/album/2AHUarSrE2rjQFYZcOzC13"
+      },
+      "artists": [
+        {
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180134,
+      "name": "Married Now",
+      "url": "https://open.spotify.com/track/3B1o577h7aTr6RrqRPg9KT"
+    },
+    {
+      "album": {
         "name": "Marry That Girl",
         "url": "https://open.spotify.com/album/3cgovdfB1zXhT5OwCTAaCp"
       },
@@ -17982,7 +18224,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 180100,
       "name": "Middle of God Knows Where",
       "url": "https://open.spotify.com/track/7GGRABWqxSybDClvL90XMb"
@@ -21024,7 +21266,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 191615,
       "name": "Pack My Hometown",
       "url": "https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK"
@@ -27516,7 +27758,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 177165,
       "name": "The Table",
       "url": "https://open.spotify.com/track/0FvF9tPvK6sLM5IeuWdjBf"
@@ -27935,6 +28177,24 @@
     },
     {
       "album": {
+        "name": "This Is My Dirt",
+        "url": "https://open.spotify.com/album/7A2rFcb97EUFcBI0RGhjgc"
+      },
+      "artists": [
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217058,
+      "name": "This Is My Dirt",
+      "url": "https://open.spotify.com/track/0XuEfX2tOQPxhJCIMcjkgD"
+    },
+    {
+      "album": {
         "name": "This Miller Lite of Mine",
         "url": "https://open.spotify.com/album/7rqFGm1kLkfGSt1dcO6EKF"
       },
@@ -28184,6 +28444,28 @@
       "duration_ms": 185773,
       "name": "Tie\u2019r Down",
       "url": "https://open.spotify.com/track/7uHWlapQcirLPRHvhPyvr7"
+    },
+    {
+      "album": {
+        "name": "Tiffany Blue",
+        "url": "https://open.spotify.com/album/4sEJS1V2iSVRww1OAPYFIn"
+      },
+      "artists": [
+        {
+          "name": "Tyler Halverson",
+          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
+        },
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204884,
+      "name": "Tiffany Blue",
+      "url": "https://open.spotify.com/track/0qtOzmStJoQVsrF42d6qnu"
     },
     {
       "album": {
@@ -29706,7 +29988,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 187906,
       "name": "WHAT DOESN'T KILL YA",
       "url": "https://open.spotify.com/track/09Lz0whqJWRlOuCxkbP0uh"

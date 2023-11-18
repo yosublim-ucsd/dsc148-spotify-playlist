@@ -590,10 +590,28 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 262631,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE"
+    },
+    {
+      "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262631,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
     },
     {
       "album": {
@@ -1228,10 +1246,32 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 248171,
       "name": "Torments of My Past",
       "url": "https://open.spotify.com/track/0w32lrkgtivPVLyQR4Tlh3"
+    },
+    {
+      "album": {
+        "name": "Torments of My Past",
+        "url": "https://open.spotify.com/album/5iBhZDdaX7cieH81vFkCia"
+      },
+      "artists": [
+        {
+          "name": "Anna Fiori",
+          "url": "https://open.spotify.com/artist/518MGsGqVYTk86dnrxZHX6"
+        },
+        {
+          "name": "Jonathan Thorpenberg",
+          "url": "https://open.spotify.com/artist/2CjVUnYTzkQKGHx0H4OA7H"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248171,
+      "name": "Torments of My Past",
+      "url": "https://open.spotify.com/track/7s6e24nfv7Z7jaXHNhAIDx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,546 songs - 3 day 10 hr 13 min
+1,547 songs - 3 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -900,6 +900,7 @@
 | [Maison d’arrêt \(feat\. Maes\)](https://open.spotify.com/track/1gA9rgwhoyuYVkZoCl2UmY) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Maison d’arrêt \(feat\. Maes\)](https://open.spotify.com/album/7JachQWjRRYxcOVYTsjmYi) | 2:40 | 2021-08-08 | 2021-08-09 |
 | [Maison hantée](https://open.spotify.com/track/4iID5tW0yH9kgESntEz5Ce) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 3:45 | 2023-03-11 | 2023-03-13 |
 | [MAKE UP](https://open.spotify.com/track/637PqFl8HYdCuSQXhqwkOb) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 2:15 | 2023-03-18 | 2023-03-21 |
+| [Makila : Wablé](https://open.spotify.com/track/1YQNuvUhIjaYbNi7FV2SVN) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Makila : Wablé](https://open.spotify.com/album/1RCo2Oha1mmxXBebMYwAap) | 3:45 | 2023-11-17 |  |
 | [Mal de toi](https://open.spotify.com/track/6nSP9koY7i80mhkyCtjzJj) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Authentic](https://open.spotify.com/album/5cmjUzsRFXb7KyejfkphQ0) | 3:15 | 2022-03-16 | 2022-04-11 |
 | [Maladie moderne](https://open.spotify.com/track/7AoYApfKZO5jADcj7AmWg2) | [Lomepal](https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm) | [Mauvais Ordre](https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq) | 3:57 | 2022-09-17 | 2022-09-30 |
 | [Malembé](https://open.spotify.com/track/0dAdLqKqFPmOzkPiTA4V2K) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [OMERTA](https://open.spotify.com/album/6GBLnzPmNPkumYGkHBEzDQ) | 3:14 | 2023-03-11 | 2023-03-19 |
@@ -1044,7 +1045,7 @@
 | [Ok Ok pt 2](https://open.spotify.com/track/1QCqedB1ibmRO9x7Ikb5LI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:24 | 2021-08-31 | 2021-09-01 |
 | [OLA OLA OLA](https://open.spotify.com/track/5zaiTkMn6VsJDJIOtxVa0b) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [Bosh](https://open.spotify.com/artist/6Mm2g25BTeJ6BICPFWGkPg), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [OLA OLA OLA](https://open.spotify.com/album/3PcirtHuQkR4aiYPPvfskn) | 2:25 | 2021-08-01 | 2021-09-17 |
 | [Omerta](https://open.spotify.com/track/60vv2FTa31yyaYlJuDC7rI) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [OMERTA](https://open.spotify.com/album/6GBLnzPmNPkumYGkHBEzDQ) | 1:32 | 2023-03-11 | 2023-03-13 |
-| [On My Love](https://open.spotify.com/track/0K6iKgHPPhAb4Acmg9aD77) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love \(Sped Up\)](https://open.spotify.com/album/5Q5PomrTdI13qpmEeM393B) | 3:42 | 2023-11-12 |  |
+| [On My Love](https://open.spotify.com/track/0K6iKgHPPhAb4Acmg9aD77) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love \(Sped Up\)](https://open.spotify.com/album/5Q5PomrTdI13qpmEeM393B) | 3:42 | 2023-11-12 | 2023-11-18 |
 | [On se reverra plus \(feat\. Gazo\)](https://open.spotify.com/track/0RlsG2tl1JE53HC2zbeGnU) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Le chemin des braves](https://open.spotify.com/album/6oGOmTaJ6dKUPK1TvdcAzo) | 2:59 | 2022-04-02 | 2022-06-05 |
 | [On se reverra plus \(feat\. Gazo\)](https://open.spotify.com/track/76yv2Tw0YoHamH32IsIip8) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [On se reverra plus \(feat\. Gazo\)](https://open.spotify.com/album/32VE0P5COsxE3H6siYNZxO) | 2:59 | 2022-03-22 | 2022-03-25 |
 | [On s’habitue](https://open.spotify.com/track/2ngapdDfxjdLtLykbu6Uv0) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 2:38 | 2021-12-05 | 2021-12-07 |

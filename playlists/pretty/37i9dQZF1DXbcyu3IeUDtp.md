@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 
 > <a href="spotify:artist:4rdJkXHNrMgowlwUdQAg8T">Ela Minus</a>' favorite tracks\. Updated regularly\. Curated by Ela Minus\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,177 likes - 107 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,250 likes - 107 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcyu3IeUDtp.md) - [plain]
 | 10 | [Grown On Me](https://open.spotify.com/track/77EwsTh7jz9khxVQK7gFBW) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Grown On Me](https://open.spotify.com/album/6MPLE8JVSX61qji1B6vocH) | 3:56 |
 | 11 | [Le Tremblement](https://open.spotify.com/track/2dYhKHWQCMHLGjM85gc2N5) | [Aho Ssan](https://open.spotify.com/artist/6DP0aNDMupNmkyK4drCrvC), [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W) | [Le Tremblement](https://open.spotify.com/album/6cf73XfADl3AUtXBKcKlcQ) | 2:57 |
 | 12 | [Toast](https://open.spotify.com/track/2gDpxMrGAK59iO02v2OQ6B) | [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI) | [Dismantled Into Juice](https://open.spotify.com/album/3wd2PDRL7ZcpX0ndA4jzgV) | 2:41 |
-| 13 | [Within \(Drumless Edition\)](https://open.spotify.com/track/4RiimXt8sNDhE0xd8Atdox) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Motherboard \(Drumless Edition\)](https://open.spotify.com/album/3F003WxyVe3ze6rwlI7LJ9) | 3:48 |
+| 13 | [Within \(Drumless Edition\)](https://open.spotify.com/track/28ghWbRd3ZlaeYdKklfQDJ) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Random Access Memories \(Drumless Edition\)](https://open.spotify.com/album/5AFf68gtvNgGLZarsyEEL8) | 3:48 |
 | 14 | [KILL DEM](https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [KILL DEM](https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo) | 3:43 |
 | 15 | [A Barely Lit Path](https://open.spotify.com/track/6LGvWHB0braCdC7D5riRCt) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [A Barely Lit Path](https://open.spotify.com/album/2PDvJr7NSgcBmIRUH5Ypxv) | 6:15 |
 | 16 | [Dreamy](https://open.spotify.com/track/5Sxq3lE3BHAko3mVEr911J) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [On Giacometti](https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y) | 2:59 |

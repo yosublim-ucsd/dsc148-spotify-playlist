@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New music from Eyedress x The Marias, Beirut, Caroline Polachek, Searows, Mitski and more. ",
+  "description": "New music from Bleachers, Eyedress x The Marias, Beirut, Searows, Mitski and more. ",
   "name": "Front Page Indie",
   "tracks": [
     {
@@ -1749,6 +1749,24 @@
     },
     {
       "album": {
+        "name": "Alma Mater",
+        "url": "https://open.spotify.com/album/33ZsoPlzcb0TXIdZQlSqHH"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210110,
+      "name": "Alma Mater",
+      "url": "https://open.spotify.com/track/0XJ5H4jtFNrlywhYkhjCcb"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/4j8ZiT9TBNTylP578zuJRn"
       },
@@ -2604,6 +2622,28 @@
       "duration_ms": 305106,
       "name": "Automatic Driver",
       "url": "https://open.spotify.com/track/2EgXxAmplrAVqIzdZBVsqJ"
+    },
+    {
+      "album": {
+        "name": "Average Guy (Blame)",
+        "url": "https://open.spotify.com/album/3IDnvOtwynPayvIxyY7Zdo"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        },
+        {
+          "name": "Monster Rally",
+          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180994,
+      "name": "Average Guy (Blame)",
+      "url": "https://open.spotify.com/track/1ZJaZDD8D9SqmBNAXehB6H"
     },
     {
       "album": {
@@ -3546,6 +3586,28 @@
       "duration_ms": 234500,
       "name": "Big Songbirds Don't Cry",
       "url": "https://open.spotify.com/track/4GGykL1fVMyX0d4qPCMaT4"
+    },
+    {
+      "album": {
+        "name": "Big Trouble (with Tei Shi)",
+        "url": "https://open.spotify.com/album/3k9aqoRFJyUvYEXWE1uyE3"
+      },
+      "artists": [
+        {
+          "name": "Zooey Celeste",
+          "url": "https://open.spotify.com/artist/5I03jA5mQ19EpbvyBDd9Jy"
+        },
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230488,
+      "name": "Big Trouble (with Tei Shi)",
+      "url": "https://open.spotify.com/track/0ocr7Yn9DpnMLXUHUWeCxu"
     },
     {
       "album": {
@@ -5314,6 +5376,24 @@
       "duration_ms": 240224,
       "name": "Cassette Beat",
       "url": "https://open.spotify.com/track/3k473mHQJ3JQCjOzYYHbs6"
+    },
+    {
+      "album": {
+        "name": "SCHOOL TRIP",
+        "url": "https://open.spotify.com/album/1tTDzjJit4c6TpIEmrytCx"
+      },
+      "artists": [
+        {
+          "name": "The Vanished People",
+          "url": "https://open.spotify.com/artist/3EogvEV9nc7Av6ngy8CIeJ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206243,
+      "name": "Castaway",
+      "url": "https://open.spotify.com/track/2otY9sgQ9MTGBOs96fJBtX"
     },
     {
       "album": {
@@ -8424,6 +8504,24 @@
       "duration_ms": 208129,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4i1IFCnXF40pbYZ7X19Fqb"
+    },
+    {
+      "album": {
+        "name": "easy breezy",
+        "url": "https://open.spotify.com/album/3oiZnlQEBv4kVT0yoSr86S"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199880,
+      "name": "easy breezy",
+      "url": "https://open.spotify.com/track/1eXzN85vuVH3VpDJlsrH8j"
     },
     {
       "album": {
@@ -14314,7 +14412,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 178933,
       "name": "I Got Heaven",
       "url": "https://open.spotify.com/track/3CsJjIyl2Y6jz08DUuMMz8"
@@ -14696,7 +14794,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 279773,
-      "name": "I Touch - Taylor Skye Remix",
+      "name": "I Touch",
       "url": "https://open.spotify.com/track/2n9x5USWpRg0c88EGbW6KV"
     },
     {
@@ -16947,6 +17045,24 @@
     },
     {
       "album": {
+        "name": "killing time",
+        "url": "https://open.spotify.com/album/6nlfXRWDo8dqfjqsp4LjJI"
+      },
+      "artists": [
+        {
+          "name": "Kate Peytavin",
+          "url": "https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173180,
+      "name": "killing time",
+      "url": "https://open.spotify.com/track/51jmw8SLKHpN7WDsqzk4uQ"
+    },
+    {
+      "album": {
         "name": "Kimosab\u00e8",
         "url": "https://open.spotify.com/album/3nZq3qWbHwdnTXZsk9DF5K"
       },
@@ -18933,6 +19049,24 @@
     },
     {
       "album": {
+        "name": "Make You Proud",
+        "url": "https://open.spotify.com/album/1hnrxf53JOrVRTgjbGPHfj"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207439,
+      "name": "Make You Proud",
+      "url": "https://open.spotify.com/track/2hyaYnjeDSqapulrcPph8z"
+    },
+    {
+      "album": {
         "name": "Making It Through",
         "url": "https://open.spotify.com/album/0pBCogvXt3tfyHxjDyvcP8"
       },
@@ -20072,7 +20206,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 236426,
       "name": "Mother Nature",
       "url": "https://open.spotify.com/track/3kC6EmjBbLcnv1aAsAEGPP"
@@ -22296,7 +22430,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 203893,
       "name": "Once then we'll be free",
       "url": "https://open.spotify.com/track/654f3RV4IZdpvH189db8mQ"
@@ -26966,6 +27100,24 @@
       "duration_ms": 162678,
       "name": "Sleeping On My Own",
       "url": "https://open.spotify.com/track/0zGSlVBKxnZM0lBZyBmjlP"
+    },
+    {
+      "album": {
+        "name": "Slime",
+        "url": "https://open.spotify.com/album/44ccxqrWWElidyDHNU3W3M"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238946,
+      "name": "Slime",
+      "url": "https://open.spotify.com/track/3jWZUXWXIWDsXVwrkwjOhS"
     },
     {
       "album": {

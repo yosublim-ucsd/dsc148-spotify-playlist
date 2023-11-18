@@ -655,6 +655,42 @@
     },
     {
       "album": {
+        "name": "Backstreet Boys",
+        "url": "https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214333,
+      "name": "As Long as You Love Me",
+      "url": "https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy"
+    },
+    {
+      "album": {
+        "name": "Djavan \"Ao Vivo\"",
+        "url": "https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259066,
+      "name": "Azul (Ao Vivo)",
+      "url": "https://open.spotify.com/track/76HOOcFt3lKVdScmoScfz1"
+    },
+    {
+      "album": {
         "name": "Baby Me Atende",
         "url": "https://open.spotify.com/album/1uDk1yrR8cucbTmpXR1G6V"
       },
@@ -1041,6 +1077,32 @@
     },
     {
       "album": {
+        "name": "Dois",
+        "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        },
+        {
+          "name": "Douglas Moda",
+          "url": "https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243889,
+      "name": "calma",
+      "url": "https://open.spotify.com/track/5HDIwU7a2S5sfP7QMEgS9N"
+    },
+    {
+      "album": {
         "name": "Ao Vivo Em Salvador",
         "url": "https://open.spotify.com/album/6wgl9fZmk99YAivK690dFq"
       },
@@ -1275,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Curti\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1cQGm0Y6gNamC6zZijIK4u"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco & Vinicius",
+          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181146,
+      "name": "Chora, Me Liga - Ao Vivo",
+      "url": "https://open.spotify.com/track/1NpD7cQH8hGMZrufOQQ0Xk"
+    },
+    {
+      "album": {
         "name": "A Tabua De Esmeralda",
         "url": "https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0"
       },
@@ -1441,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "Live In London - At The Royal Albert Hall",
+        "url": "https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176960,
+      "name": "De Tanto Te Querer",
+      "url": "https://open.spotify.com/track/7lAlnayDxaxyVLi72fkeop"
+    },
+    {
+      "album": {
         "name": "Coisas do Meu Imagin\u00e1rio",
         "url": "https://open.spotify.com/album/7GflQRs2UHd9J5aDAx2ntx"
       },
@@ -1602,6 +1700,32 @@
       "duration_ms": 225880,
       "name": "Dinheiro",
       "url": "https://open.spotify.com/track/4RjDz2AbKP28lkZ9XyU0xO"
+    },
+    {
+      "album": {
+        "name": "Dois",
+        "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Francci",
+          "url": "https://open.spotify.com/artist/0ibBJyHUgpYajGcBAm8bbF"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181570,
+      "name": "DJAVAN",
+      "url": "https://open.spotify.com/track/5ulRqyIxWd5Zz5E3835dA5"
     },
     {
       "album": {
@@ -2217,6 +2341,40 @@
     },
     {
       "album": {
+        "name": "The Massacre",
+        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Tony Yayo",
+          "url": "https://open.spotify.com/artist/50UMTib697JJ44le8DO2Va"
+        },
+        {
+          "name": "Young Buck",
+          "url": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+        },
+        {
+          "name": "Lloyd Banks",
+          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263786,
+      "name": "Hate It Or Love It - G-Unit Remix",
+      "url": "https://open.spotify.com/track/6TYPoBrn53njY2C0WwdmA1"
+    },
+    {
+      "album": {
         "name": "Conquerors of Armageddon",
         "url": "https://open.spotify.com/album/7AQftnyMjAOPXay4fohLPO"
       },
@@ -2345,6 +2503,28 @@
     },
     {
       "album": {
+        "name": "Magna Carta... Holy Grail",
+        "url": "https://open.spotify.com/album/4gbrbyveJFkuLH6B5w93JH"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338413,
+      "name": "Holy Grail",
+      "url": "https://open.spotify.com/track/1q9bLSeIlGf2xBvbOkp2Wr"
+    },
+    {
+      "album": {
         "name": "Raio X do Brasil",
         "url": "https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM"
       },
@@ -2466,6 +2646,32 @@
       "duration_ms": 262240,
       "name": "I Just Called To Say I Love You",
       "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
+    },
+    {
+      "album": {
+        "name": "No Way Out",
+        "url": "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        },
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344813,
+      "name": "I'll Be Missing You (feat. Faith Evans & 112)",
+      "url": "https://open.spotify.com/track/5fii2C2yImI0KvaAZZDKrC"
     },
     {
       "album": {
@@ -2974,10 +3180,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 240799,
       "name": "Malandragem - Ao Vivo",
       "url": "https://open.spotify.com/track/0brP1QBsJiMoqt3jqEHZaN"
+    },
+    {
+      "album": {
+        "name": "M\u00fasicas de amor",
+        "url": "https://open.spotify.com/album/6vaiqih5PBwWPezVD3If7T"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1ssia Eller",
+          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240799,
+      "name": "Malandragem - Ao Vivo",
+      "url": "https://open.spotify.com/track/3eF6c8ZvbGgVCiMkHITcJE"
     },
     {
       "album": {
@@ -3370,6 +3594,46 @@
       "duration_ms": 193600,
       "name": "Natasha - Ao Vivo",
       "url": "https://open.spotify.com/track/7KdRrzenHoirvrvp6KHZxh"
+    },
+    {
+      "album": {
+        "name": "Dois",
+        "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142765,
+      "name": "ne-yo",
+      "url": "https://open.spotify.com/track/5h2lBg0mULQ6s60TqebwT5"
+    },
+    {
+      "album": {
+        "name": "Dois",
+        "url": "https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166706,
+      "name": "NEBLINA pt. 2",
+      "url": "https://open.spotify.com/track/4VWwJYGKZjC8IIZwVizuTv"
     },
     {
       "album": {
@@ -4787,6 +5051,24 @@
     },
     {
       "album": {
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357800,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC"
+    },
+    {
+      "album": {
         "name": "Come What(ever) May [10th Anniversary Edition]",
         "url": "https://open.spotify.com/album/0dZB8UHYsM7jKmm7ByzAVq"
       },
@@ -5061,6 +5343,24 @@
     },
     {
       "album": {
+        "name": "Ac\u00fastico - Ao Vivo",
+        "url": "https://open.spotify.com/album/5ef3YHfeGQd6JW056VmKiy"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Um Bom Perdedor (Un Buen Perdedor) - Ao Vivo",
+      "url": "https://open.spotify.com/track/0tpi2gdr05e47hvHNhisCR"
+    },
+    {
+      "album": {
         "name": "Reden\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4j5DCqWtUEBoO1AFvgKjKF"
       },
@@ -5098,6 +5398,36 @@
       "duration_ms": 420001,
       "name": "Vermelho",
       "url": "https://open.spotify.com/track/05SE1NOCFvgJsa28HRuTBk"
+    },
+    {
+      "album": {
+        "name": "Vida Cara",
+        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "DomLaike",
+          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307692,
+      "name": "Vida Cara",
+      "url": "https://open.spotify.com/track/0XHJ2LfnrETLopLCt6xBY6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-295 songs - 15 hr 39 min
+298 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Bright Red](https://open.spotify.com/track/306wpz1gZioEodOsqyc16i) | [Palos Azules](https://open.spotify.com/artist/4sk8WgXLP5T8ATvv3QuGfw) | [Bright Red](https://open.spotify.com/album/5iCbtIfeGRbmuVLkhd1YnO) | 2:00 | 2022-04-15 |  |
 | [Brothers and Sisters](https://open.spotify.com/track/57dcNEUFoUHdUHm0UgFDa0) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Brothers and Sisters](https://open.spotify.com/album/0IrM6lSeNuc7bygybOM14g) | 2:58 | 2022-04-15 |  |
 | [Burrata](https://open.spotify.com/track/1wsjU5AYe7xxt7SCa2f6G4) | [4TB](https://open.spotify.com/artist/28REDqAxeVHbyo6Q6cwtkF) | [Burrata](https://open.spotify.com/album/7lwCGt3pUCdPhJnxhvOMBp) | 2:39 | 2022-10-28 | 2023-07-15 |
+| [Butterfly](https://open.spotify.com/track/3rp3tNPhOHySBqHbawolKh) | [Pat Jr](https://open.spotify.com/artist/7F6eGe9WVjyshqDIdZo4KJ) | [Butterfly](https://open.spotify.com/album/5H9k158ooh71IQmt6WL5iR) | 2:39 | 2023-11-17 |  |
 | [Bwindi Atmosphere](https://open.spotify.com/track/5R0UmdKHd2FfxOj6V3R6Iq) | [Pourin](https://open.spotify.com/artist/28eoDOQ57hVzGolimLCQPD) | [Bwindi Atmosphere](https://open.spotify.com/album/43d8cuEWDXg5OCPZFuYS1s) | 1:56 | 2022-04-15 | 2023-10-05 |
 | [Cap Bénat](https://open.spotify.com/track/0ITR2dYQz1AelssrHTZ0a7) | [Zack & Alex](https://open.spotify.com/artist/5zQXrY8n5KXT1kjmNryojG) | [Cap Bénat](https://open.spotify.com/album/4EmeOCvieivOpPAKj0MhQN) | 3:14 | 2022-09-02 |  |
 | [Cartagena](https://open.spotify.com/track/1x9b72SPoK8jx6aUV6I3bl) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Cartagena](https://open.spotify.com/album/7BtnfmrMiXCwOquM9Anm3h) | 3:36 | 2022-04-15 | 2023-01-07 |
@@ -126,6 +127,7 @@
 | [Glide \- DJ Counselling Remix](https://open.spotify.com/track/0tR8nMqQze7nPiec1ONj7u) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Glide \(DJ Counselling Remix\)](https://open.spotify.com/album/2xHOofjrZylWq7F9qCo5L8) | 4:48 | 2022-08-19 | 2023-02-10 |
 | [glitched persona](https://open.spotify.com/track/6xjkq0eR4c9p13N0eUwBlL) | [flimr](https://open.spotify.com/artist/5vHRm6RYYD4ZH6IqOP45kj) | [glitched persona](https://open.spotify.com/album/69thvbzNrILEUNRA3F2q16) | 3:08 | 2022-04-15 | 2022-09-02 |
 | [Glow Day](https://open.spotify.com/track/5b4BjNC7Sv4iRPPnwyYSr8) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [Glow Day](https://open.spotify.com/album/65CoQ0dpFbLhl0iNbDR1L2) | 3:01 | 2023-05-05 |  |
+| [Gradual Downhill](https://open.spotify.com/track/24bFwSuFvuaYS4XrVZsBPX) | [Pierre Sloane](https://open.spotify.com/artist/3G1f9LnHpTlrX8gANDYXuH) | [Gradual Downhill](https://open.spotify.com/album/0JmZJNNlnr0T8NzfztRAUb) | 3:06 | 2023-11-17 |  |
 | [Gravity Run](https://open.spotify.com/track/1v4fcTze4n1Yqj1NrFSKTm) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [Lunar Module](https://open.spotify.com/album/5JE2PXgd8OpMkUZWuvb9T0) | 3:02 | 2022-04-15 |  |
 | [Green Grass](https://open.spotify.com/track/1Y3BHcMtNlMANFFn2FQNYM) | [Naupaka](https://open.spotify.com/artist/5jKo4vIpQPd4YyTZKsBQuQ) | [Green Grass](https://open.spotify.com/album/52sjGVyYFTzABHzmeWXqpP) | 2:19 | 2022-12-09 |  |
 | [grip drop](https://open.spotify.com/track/7z1mAqvJYpMhnYUkv8gQqi) | [frukks](https://open.spotify.com/artist/1y4w1ZX8F5vH0aT3rMuz1M) | [grip drop](https://open.spotify.com/album/3nugq9vUCI2fwOXCEsGTWO) | 3:19 | 2022-04-15 | 2023-01-20 |
@@ -163,6 +165,7 @@
 | [Les Tropiques](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [Les Tropiques](https://open.spotify.com/album/16wfDEqgKJeekVGo4LYJ86) | 3:15 | 2022-04-15 | 2022-09-02 |
 | [Let Me Levitate](https://open.spotify.com/track/7CzNk9SBj1IFssmyFJxNpD) | [Palm 3s](https://open.spotify.com/artist/58zVgQ81EzF28TP8yjn8gV) | [Let Me Levitate](https://open.spotify.com/album/0nWhjwu0bGFv0FY9QRg26b) | 3:51 | 2022-10-28 |  |
 | [Lost Without You](https://open.spotify.com/track/31BXZpthSAv7PE0VnIUUUu) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Lost Without You](https://open.spotify.com/album/2cYEZzSklys23IkrpM1U3D) | 2:34 | 2022-04-15 | 2022-10-08 |
+| [Love Again](https://open.spotify.com/track/39T1Cs1NBeIDgWzMkmd6rz) | [Egelloc](https://open.spotify.com/artist/03zsYt1vzRxmXN0OUhCr7g) | [Love Again](https://open.spotify.com/album/2fj2hqBzp8IhLztr1pYRF7) | 2:08 | 2023-11-17 |  |
 | [Lush](https://open.spotify.com/track/6jYbK7o3pOMbNeMT3IuqQL) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [Lush](https://open.spotify.com/album/0QwKoNYrNK9g0cTMkXvl46) | 3:06 | 2022-04-15 | 2022-10-08 |
 | [Magic Island](https://open.spotify.com/track/62yKRARApFEWm5uvSOK0oH) | [Matobolo](https://open.spotify.com/artist/5yyRFQuROpERkosmUmah5j) | [Magic Island](https://open.spotify.com/album/5mGr8IY17cQFas7lHxxFv2) | 2:17 | 2022-04-15 | 2022-09-23 |
 | [Magnolia](https://open.spotify.com/track/1awvT0baqmByEbazQVzm3W) | [Chakra Lounge](https://open.spotify.com/artist/7Biy6OokTAlZOmGAIhx944) | [Magnolia](https://open.spotify.com/album/6e93BRGJ8p6Gg7Elwbb5un) | 3:13 | 2022-10-07 |  |
@@ -180,7 +183,7 @@
 | [Moon](https://open.spotify.com/track/7bLbcnwdltIa6i1ebLAQlb) | [Safe Tock](https://open.spotify.com/artist/2Wz1Gs5fSAP2v31hzx113t) | [Moon](https://open.spotify.com/album/3M46ScNsRcUadJs8j5qajr) | 2:56 | 2022-04-15 | 2022-09-23 |
 | [Mope Amok](https://open.spotify.com/track/0xHzmGyVRvzhFzD4Tofgm6) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Mope Amok](https://open.spotify.com/album/6yHghkwnaz76HRsPzPY9uz) | 3:17 | 2022-04-15 | 2023-01-07 |
 | [Morning Tram](https://open.spotify.com/track/1WcZDHH4d9vv9X1xYzWID1) | [Bishop Beckett](https://open.spotify.com/artist/3gB4gAB55aaIzzP0ybKlrp) | [Morning Tram](https://open.spotify.com/album/2W1mf9JWUqNKc1FjBJiWCd) | 3:15 | 2022-04-15 | 2023-01-20 |
-| [My Input](https://open.spotify.com/track/32ANfV6JEwOGNyE4C1qppv) | [Daniel Giserman](https://open.spotify.com/artist/2SVMEVjRQzBxCcSIesRMJK) | [My Input](https://open.spotify.com/album/49euhFKdAYk2ijhh8FnNyi) | 4:23 | 2023-01-13 |  |
+| [My Input](https://open.spotify.com/track/32ANfV6JEwOGNyE4C1qppv) | [Daniel Giserman](https://open.spotify.com/artist/2SVMEVjRQzBxCcSIesRMJK) | [My Input](https://open.spotify.com/album/49euhFKdAYk2ijhh8FnNyi) | 4:23 | 2023-01-13 | 2023-11-18 |
 | [New Frontier](https://open.spotify.com/track/6hkZ974ZJcWY6NorsnIFIV) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [New Frontier](https://open.spotify.com/album/3cSuL271dmIfPhrzwbcCvE) | 3:30 | 2022-04-15 | 2022-06-10 |
 | [New Jade](https://open.spotify.com/track/0aXTlYIS7b7mMDMBUUAtFq) | [dreem](https://open.spotify.com/artist/66cMjcY2f2B1omrVfxHIlG) | [Rayn / New Jade](https://open.spotify.com/album/6CaGwdawqrWQ14o9vew84L) | 3:47 | 2022-04-15 |  |
 | [new job](https://open.spotify.com/track/0CNDAJO2dkVsIvChFbDZqD) | [Hasse Hans](https://open.spotify.com/artist/4PjVK6KNfnMASGMI6gmMTW) | [new job](https://open.spotify.com/album/6wsIt3yA3Q6XVYZAHql9mk) | 2:07 | 2023-01-13 |  |

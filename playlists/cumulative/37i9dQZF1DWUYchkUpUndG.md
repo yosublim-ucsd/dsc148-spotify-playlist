@@ -4,7 +4,7 @@
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0?si=JMEHZJJzTlCneUACBPIn\_Q>Onos</a>
 
-1,252 songs - 4 day 1 hr 21 min
+1,255 songs - 4 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1 Am in Lagos](https://open.spotify.com/track/6gM0MRc4d2sQq7HN5uBsiB) | [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Pastor Brian Jones](https://open.spotify.com/artist/44rM9ZiF6yxf3YW9d7Ik1z) | [1 Am in Lagos](https://open.spotify.com/album/4iUCe7rcetOwTrLONCr4KQ) | 3:03 | 2023-09-15 | 2023-09-29 |
 | [123](https://open.spotify.com/track/0ptBqpX6cwm1U0zjwjzg3i) | [JyroGvo](https://open.spotify.com/artist/75NziVeibeBcHBboy8wpdk), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [123](https://open.spotify.com/album/5m5P4guRcfMwtSfSSgN93p) | 2:52 | 2023-11-03 | 2023-11-17 |
 | [123](https://open.spotify.com/track/5Zp4NRY9001doayfXBuzYq) | [JyroGvo](https://open.spotify.com/artist/75NziVeibeBcHBboy8wpdk), [Tobi Toun](https://open.spotify.com/artist/6hZdbBNTnqujBRgVzROQ22) | [123](https://open.spotify.com/album/0nuD4U7NZ8jnvjh3MqmTJA) | 2:43 | 2023-11-10 |  |
+| [123 Special](https://open.spotify.com/track/6TiDxFH6UbbidPDAGfv1M1) | [JyroGvo](https://open.spotify.com/artist/75NziVeibeBcHBboy8wpdk), [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg) | [123 Special](https://open.spotify.com/album/6xU7InFUfV2b582y07I6JI) | 2:52 | 2023-11-17 |  |
 | [4 Jesus](https://open.spotify.com/track/34z5pel1NqF22Xt0HkmZoF) | [ChinekeBoi](https://open.spotify.com/artist/2mfWVTZIMO5ZdxIzjqhTRp) | [4 Jesus](https://open.spotify.com/album/1M3Uj8t7ImkwhUMQNR5TcL) | 2:34 | 2023-07-14 | 2023-07-28 |
 | [4am Dreams](https://open.spotify.com/track/62HPDI0b55RMLYWFoCvtnG) | [2Larni](https://open.spotify.com/artist/0OEREBZdg9v3W9w1L5xY4d) | [4am Dreams](https://open.spotify.com/album/3gVtpQqxmrybvvPHTeOckZ) | 2:56 | 2023-09-01 | 2023-09-15 |
 | [A Sivayiwe](https://open.spotify.com/track/3BRunlcZr2OJAoqopZCzMI) | [Vocal Renascer](https://open.spotify.com/artist/3khrOLayDDtaAbUBeUQDd2) | [A Sivayiwe](https://open.spotify.com/album/4hsnNmXAdnmgSqd3WhUKzy) | 4:35 | 2023-08-25 | 2023-09-08 |
@@ -62,6 +63,7 @@
 | [Amen](https://open.spotify.com/track/6buuEkzk7tm8ubV6p8WlXL) | [K Praise](https://open.spotify.com/artist/4Mi8NQbMY4wM7mPeqnD5Ya) | [Amen](https://open.spotify.com/album/6K8E9SrjVQAGDP2kWhIZa0) | 4:28 | 2023-08-25 | 2023-09-08 |
 | [AMEN](https://open.spotify.com/track/5te8eGMqNTYJdqzKGveC4Q) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [The Love Trybe](https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ) | [AMEN](https://open.spotify.com/album/5Rs6ZVBFj6M80hbzXg6Dis) | 3:39 | 2023-06-09 | 2023-06-16 |
 | [Amen](https://open.spotify.com/track/0q9XNfMNbQn1x3ztBFlAyI) | [Leonel Emeka Orji](https://open.spotify.com/artist/3lxkqQFpVhjNAwBsS4C1QC) | [Amen](https://open.spotify.com/album/3ZEuvDDBBjPKtCzDk39CXw) | 6:20 | 2023-07-14 | 2023-07-28 |
+| [Ami Medi O \- Acoustic](https://open.spotify.com/track/3AuxGJ8Xci68LV1HkM7MLo) | [Henry praise](https://open.spotify.com/artist/1X0clNkDAFGRPTC9F2buZo) | [Ami Medi O \(Acoustic\)](https://open.spotify.com/album/3pvOFwVQpxvbTIQNwqqcJc) | 3:19 | 2023-11-17 |  |
 | [Ancient of days](https://open.spotify.com/track/4elmXdt3kWQmOFVZr5ZNcY) | [Grace Nelson](https://open.spotify.com/artist/7kd6Pd5WjhkImAYH9PWpuu) | [Ancient of days](https://open.spotify.com/album/2wxR8naDEv1HampvkhJA8P) | 5:10 | 2023-07-28 | 2023-08-11 |
 | [Angeli](https://open.spotify.com/track/4krpK9DVKLeZYXuauyAbeG) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [Angeli](https://open.spotify.com/album/2SEq0DxLMeBiXUu0CqxzBU) | 3:52 | 2023-05-26 | 2023-06-09 |
 | [ANGELS](https://open.spotify.com/track/5kjPddNRxO0H4DkKfaZjNl) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [The Love Trybe](https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ) | [ANGELS](https://open.spotify.com/album/3Inj7Hu0KzqT2VImIrnLpL) | 2:57 | 2023-10-20 | 2023-11-03 |
@@ -235,6 +237,7 @@
 | [Dike N'Ogu \- Mighty Warrior](https://open.spotify.com/track/7a6rx1QYeHRzbe8CoKozfD) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs), [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Dike N'Ogu \(Mighty Warrior\)](https://open.spotify.com/album/68mQ6UpHUJYlyuEPaWkfMU) | 6:33 | 2023-07-21 | 2023-08-04 |
 | [Diklo Loka](https://open.spotify.com/track/1iy8po6NzIJNY1LoGQAUyL) | [Intruda Txid](https://open.spotify.com/artist/5LbHRFGGITpNTCwMMBCMd8) | [Diklo Loka](https://open.spotify.com/album/1eAVFCiVMrfamr3raiC8KD) | 2:53 | 2023-07-21 | 2023-08-04 |
 | [Dis net genade](https://open.spotify.com/track/42urV2zj1oB3PvUReuRs8g) | [Christiaan Baartman](https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ) | [Dis net genade](https://open.spotify.com/album/2nol1nx1I6vJLA2FT9ADGs) | 3:49 | 2023-10-13 | 2023-10-27 |
+| [distractions...](https://open.spotify.com/track/5WeTVsnktGqDBnF3yXMjfn) | [itsjamer](https://open.spotify.com/artist/3mCv51R0mWs08fIwjK2g07) | [distractions...](https://open.spotify.com/album/4I9uV4AiRVOK0tKC7dN1io) | 2:25 | 2023-11-17 |  |
 | [Dit Is Genade](https://open.spotify.com/track/0qrsmFLAFTzRf6Dt7IhESx) | [Charlie Dicks](https://open.spotify.com/artist/3ohWEhMUmqeRGBIpsXjU8C) | [Dit Is Genade](https://open.spotify.com/album/7e9gQ5eaOb9Y4fNXOH9THN) | 2:53 | 2023-05-26 | 2023-06-09 |
 | [DND \(Dey Move\)](https://open.spotify.com/track/3e41yejRviEFLEsWmxSdOA) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [DND \(Dey Move\)](https://open.spotify.com/album/3cf0WJublbmm7CmlVUD28n) | 2:25 | 2023-10-06 | 2023-10-20 |
 | [Do you care](https://open.spotify.com/track/1iTEbNKBUypPNeDeWwIyjw) | [Ayo King](https://open.spotify.com/artist/4FIzcnSD2oCZT6Hsf54Wky), [Favblings](https://open.spotify.com/artist/0nUqiVKvYLkuqgYWLVTZSI) | [Do You Care](https://open.spotify.com/album/0aFXwbvl63gdm6f7p9DVX2) | 2:12 | 2023-09-22 | 2023-10-06 |

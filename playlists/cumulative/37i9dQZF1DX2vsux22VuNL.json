@@ -1159,6 +1159,32 @@
     },
     {
       "album": {
+        "name": "Ch\u00e1",
+        "url": "https://open.spotify.com/album/40T8klDCDKX48Pe59gZD3Y"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155512,
+      "name": "Ch\u00e1",
+      "url": "https://open.spotify.com/track/4KwJUsJQgsQiDMNqrVsO5K"
+    },
+    {
+      "album": {
         "name": "Cinco Minutos",
         "url": "https://open.spotify.com/album/26p6DoZsj6yzMG7QGZzj6i"
       },
@@ -1396,7 +1422,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 197647,
       "name": "De chinelo havaianas",
       "url": "https://open.spotify.com/track/04uTvWnyJSuWLMmxTbYzic"
@@ -2810,7 +2836,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 146848,
       "name": "GEMINIANA",
       "url": "https://open.spotify.com/track/2wyFw9zIMvm86zFqC9IAHl"
@@ -3784,7 +3810,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 186666,
       "name": "Minha Vida \u00e9 um Filme",
       "url": "https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x"
@@ -5560,6 +5586,28 @@
       "duration_ms": 180000,
       "name": "Ref\u00e9m",
       "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
+    },
+    {
+      "album": {
+        "name": "Pel\u00e9 Milflows no Est\u00fadio Showlivre, Vol 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/32Odr1M4EmJjc6I64DuNOK"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Showlivre",
+          "url": "https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199987,
+      "name": "Rela\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ujkoBjVjQrg00EShTjvXt"
     },
     {
       "album": {
@@ -7361,6 +7409,28 @@
     },
     {
       "album": {
+        "name": "Vers\u00e3o brasileira",
+        "url": "https://open.spotify.com/album/0rEujh1Q6qWT21IqisREYo"
+      },
+      "artists": [
+        {
+          "name": "MC Mari",
+          "url": "https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Vers\u00e3o brasileira",
+      "url": "https://open.spotify.com/track/3s9B8mXerJ5rHOqqF9CJTO"
+    },
+    {
+      "album": {
         "name": "Voc\u00ea Falou pra Mim",
         "url": "https://open.spotify.com/album/3C4GwIc7117OxDuu66G248"
       },
@@ -7474,7 +7544,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 163764,
       "name": "\u00c0s Escuras",
       "url": "https://open.spotify.com/track/1MfkPdgUhNLcOEisXGNdl0"

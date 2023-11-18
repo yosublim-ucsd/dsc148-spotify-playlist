@@ -1,12 +1,12 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 10374,
+  "num_followers": 10386,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGY2M2JhNzk1OWFhZjYyZjdjZWM2MDZjNTNiOTJlNzVjYjdiNDMw",
+  "snapshot_id": "MCxmMGRhNDMxOTRmN2RhMzI3ZjIzNjFkN2UyZjRiOGMzZDE2YzAxZjA1",
   "tracks": [
     {
       "added_at": "2023-11-10 03:03:00",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Favela Garage Beats",
-        "url": "https://open.spotify.com/album/1UidgjHZNDwzwcMRKTMNyx"
-      },
-      "artists": [
-        {
-          "name": "Brunoso",
-          "url": "https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz"
-        }
-      ],
-      "duration_ms": 187857,
-      "name": "Vavapo",
-      "url": "https://open.spotify.com/track/4YjB205yTz0CriZMWxX3M0"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Rita Lee & Roberto - Classix Remix Vol. III",
         "url": "https://open.spotify.com/album/0rZu9DYrrdzdOUQ7Nm2QB8"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 421463,
       "name": "Caso S\u00e9rio - L_cio & Tessuto Remix",
       "url": "https://open.spotify.com/track/5sL6LS9GsDYHWTiJyq20QG"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Favela Garage Beats",
+        "url": "https://open.spotify.com/album/1UidgjHZNDwzwcMRKTMNyx"
+      },
+      "artists": [
+        {
+          "name": "Brunoso",
+          "url": "https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz"
+        }
+      ],
+      "duration_ms": 187857,
+      "name": "Vavapo",
+      "url": "https://open.spotify.com/track/4YjB205yTz0CriZMWxX3M0"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Energy Sync",
+        "url": "https://open.spotify.com/album/5pXNPQHtPyIbOjfn8xIH1F"
+      },
+      "artists": [
+        {
+          "name": "Terr",
+          "url": "https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN"
+        }
+      ],
+      "duration_ms": 397107,
+      "name": "Energy Sync - Club Mix",
+      "url": "https://open.spotify.com/track/4VVDbtomeX9na5sgXSj0rR"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "TRAVESSIA",
         "url": "https://open.spotify.com/album/6U6CxG7eUVvVMUDP4mxzRI"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 257600,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/3y6hObDg86mAhr4C7SfmYf"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Energy Sync",
-        "url": "https://open.spotify.com/album/5pXNPQHtPyIbOjfn8xIH1F"
-      },
-      "artists": [
-        {
-          "name": "Terr",
-          "url": "https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN"
-        }
-      ],
-      "duration_ms": 397107,
-      "name": "Energy Sync - Club Mix",
-      "url": "https://open.spotify.com/track/4VVDbtomeX9na5sgXSj0rR"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Pared\u00e3o",
-        "url": "https://open.spotify.com/album/6OvJhMF1Fu7LEoYCpIDptq"
-      },
-      "artists": [
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        }
-      ],
-      "duration_ms": 258005,
-      "name": "De AK em Cima da CB1000",
-      "url": "https://open.spotify.com/track/6fnPjo1Q1kkYoitZh2yP2U"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Movimento Paralelo, Vol.1",
         "url": "https://open.spotify.com/album/5nf34ekw3ixtR4eZueJF76"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 248062,
       "name": "Sarrafando Em Voc\u00ea",
       "url": "https://open.spotify.com/track/6JZkMxPusCNSnC8LkqpnWD"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Pared\u00e3o",
+        "url": "https://open.spotify.com/album/6OvJhMF1Fu7LEoYCpIDptq"
+      },
+      "artists": [
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "duration_ms": 258005,
+      "name": "De AK em Cima da CB1000",
+      "url": "https://open.spotify.com/track/6fnPjo1Q1kkYoitZh2yP2U"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Nocturnal Fear",
-        "url": "https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP"
-      },
-      "artists": [
-        {
-          "name": "RHR",
-          "url": "https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6"
-        }
-      ],
-      "duration_ms": 336400,
-      "name": "Colapso",
-      "url": "https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Criptogramas",
         "url": "https://open.spotify.com/album/3VcGCItNhMLK3PG6bthKVu"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 333103,
       "name": "Criptogramas",
       "url": "https://open.spotify.com/track/3DDPknKZvBbb98U1zEDN0w"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Nocturnal Fear",
+        "url": "https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP"
+      },
+      "artists": [
+        {
+          "name": "RHR",
+          "url": "https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6"
+        }
+      ],
+      "duration_ms": 336400,
+      "name": "Colapso",
+      "url": "https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -863,26 +863,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "V.Acina, Vol.1",
-        "url": "https://open.spotify.com/album/7HQdcJ7vVn4peTFqTrLe54"
-      },
-      "artists": [
-        {
-          "name": "Gabto",
-          "url": "https://open.spotify.com/artist/2rHQ2hZZmJeJlkPp5OzzuP"
-        },
-        {
-          "name": "Kauan Marco",
-          "url": "https://open.spotify.com/artist/3z9jaftmzYCieMJL9mT0Uo"
-        }
-      ],
-      "duration_ms": 357128,
-      "name": "Dance n' Casa",
-      "url": "https://open.spotify.com/track/1HNPk849XJsAgXx6JrQRVu"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Laiarai\u00e1 (Remixes)",
         "url": "https://open.spotify.com/album/7nnfxrjhpD6t0lyuW7JYix"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 308000,
       "name": "Laiarai\u00e1 (LOV.ini Remix)",
       "url": "https://open.spotify.com/track/1t1AznXhR5rr9IKBqhMOl5"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "V.Acina, Vol.1",
+        "url": "https://open.spotify.com/album/7HQdcJ7vVn4peTFqTrLe54"
+      },
+      "artists": [
+        {
+          "name": "Gabto",
+          "url": "https://open.spotify.com/artist/2rHQ2hZZmJeJlkPp5OzzuP"
+        },
+        {
+          "name": "Kauan Marco",
+          "url": "https://open.spotify.com/artist/3z9jaftmzYCieMJL9mT0Uo"
+        }
+      ],
+      "duration_ms": 357128,
+      "name": "Dance n' Casa",
+      "url": "https://open.spotify.com/track/1HNPk849XJsAgXx6JrQRVu"
     }
   ],
   "unique_name": "Front BR",

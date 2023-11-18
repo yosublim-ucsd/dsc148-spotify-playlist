@@ -1,12 +1,12 @@
 {
   "description": "Ya Wailee! Get ready for some serious 90s nostalgia. Cover : Amr Diab",
-  "num_followers": 97798,
+  "num_followers": 97858,
   "original_name": "90s Arabic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGEyYWUwOWM3OWQxYTY5OWZiZWMxM2NmNzkxMDIwYjY3OWFhZDRk",
+  "snapshot_id": "MCw0NzRhOTMzNGQwNzA5ZTlhNGI2ZGY3MjMwOWU0ZDRkODRhMjMwNjM3",
   "tracks": [
     {
       "added_at": "2023-09-15 13:43:10",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-09-15 13:43:10",
       "album": {
-        "name": "Ya Leila",
-        "url": "https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10"
-      },
-      "artists": [
-        {
-          "name": "Hisham Abbas",
-          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
-        }
-      ],
-      "duration_ms": 291383,
-      "name": "Layali El Shouq",
-      "url": "https://open.spotify.com/track/1qQzDpRp5r54W6qdCWW0VX"
-    },
-    {
-      "added_at": "2023-09-15 13:43:10",
-      "album": {
         "name": "Roh Alby",
         "url": "https://open.spotify.com/album/09iSw6kGLKGL65mTxXUHp9"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 277026,
       "name": "Ahl El Malama",
       "url": "https://open.spotify.com/track/5ROxylabINxB4l9Y6vxaBt"
+    },
+    {
+      "added_at": "2023-09-15 13:43:10",
+      "album": {
+        "name": "Ya Leila",
+        "url": "https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10"
+      },
+      "artists": [
+        {
+          "name": "Hisham Abbas",
+          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
+        }
+      ],
+      "duration_ms": 291383,
+      "name": "Layali El Shouq",
+      "url": "https://open.spotify.com/track/1qQzDpRp5r54W6qdCWW0VX"
     },
     {
       "added_at": "2023-09-15 13:43:10",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-09-15 13:43:10",
       "album": {
-        "name": "Ya Leila",
-        "url": "https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10"
+        "name": "Nubian Legends",
+        "url": "https://open.spotify.com/album/2tkQvpsJdhTkF11z83PPuf"
       },
       "artists": [
         {
-          "name": "Hisham Abbas",
-          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/1DvYjKqpI2Y3xP0hsqt29n"
         }
       ],
-      "duration_ms": 260167,
-      "name": "Ya Leila Disco",
-      "url": "https://open.spotify.com/track/04IvZrvzumdtX3sH2AmHXG"
+      "duration_ms": 282253,
+      "name": "Keda Keda Ya Terella",
+      "url": "https://open.spotify.com/track/3wlbAd9KLt8UcaZk0Vq5XB"
     }
   ],
   "unique_name": "90s Arabic Hits",

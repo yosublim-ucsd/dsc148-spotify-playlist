@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,626 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,670 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 49 | [Paralyzed](https://open.spotify.com/track/2XPLNZZ7CTnOzq54kZ6M6F) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Paralyzed](https://open.spotify.com/album/0w3f9KcyAau2CzhOmMCTfV) | 3:47 |
 | 50 | [Gonna Go to Japan](https://open.spotify.com/track/4oHM3OyIsgyAg7l1eu8iT6) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [Moonlight Beach](https://open.spotify.com/album/2l5r7AyE9hDNI7VUH6FLlA) | 3:06 |
 
-Snapshot ID: `MCw0NTM4OTMxMjI3ODk3NjUxZmU3MzQwNjdlZjI1YTYyYjhiMTJkYTUw`
+Snapshot ID: `MCw2OTZlNGQwNzA4M2MwZDhkODczYzRkOWM4YTlhYWNlZTRjMWU3ZTNm`

@@ -4,10 +4,11 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-205 songs - 11 hr 9 min
+207 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [6ne Crossu](https://open.spotify.com/track/7C3DQb695Vt7vBcPTiSeOK) | [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [6ne Crossu](https://open.spotify.com/album/13WU6iqMTXFRuMUa3B5ioG) | 2:48 | 2023-11-17 |  |
 | [Aa Gagana Surya \(feat\. Pancham Jeeva, Kinnal Raj\)](https://open.spotify.com/track/3fNRmb3gOCVxCiPuIs3HYl) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N), [Pancham Jeeva](https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s), [Kinnal Raj](https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD) | [Aa Gagana Surya \(feat\. Pancham Jeeva, Kinnal Raj\)](https://open.spotify.com/album/2ahIFjlvrc8twTzfYj1ftg) | 5:31 | 2023-05-10 | 2023-06-08 |
 | [Abhisaarike](https://open.spotify.com/track/4LhDXaCGZPFdQGENptg4Va) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Abhisaarike](https://open.spotify.com/album/5ox9fZAcsR2xD14DWJukON) | 3:28 | 2023-02-03 | 2023-06-08 |
 | [ALAG HAI](https://open.spotify.com/track/5E11KdVG38ylpaI736pJ9I) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [ALAG HAI](https://open.spotify.com/album/5gqrIFh0OfRGTwNqrV52rz) | 1:23 | 2023-09-20 |  |
@@ -125,6 +126,7 @@
 | [Namma Gully](https://open.spotify.com/track/7t8PVG80xVXsRpxQsEiKGU) | [Jack Michael](https://open.spotify.com/artist/7eRsFT88i7QL8HAW10raWF), [Naguli](https://open.spotify.com/artist/2d5TEJRxSb4QwrgbQvv7CJ), [D Rapper](https://open.spotify.com/artist/1mjEVPmi3GcUKWbd34zx4E) | [Namma Gully](https://open.spotify.com/album/5XHk8FQOyCqESGu2TSmQ0D) | 1:56 | 2023-08-31 |  |
 | [Namma Rasthe](https://open.spotify.com/track/7pIhLBRlXFKn2hBSGub0iA) | [Sagar Shastri](https://open.spotify.com/artist/0JijlODWfJZKanqPNEZMUZ) | [Namma Rasthe](https://open.spotify.com/album/0ry4M5m4x5IE4Ia1SVtgt7) | 3:38 | 2023-02-13 | 2023-06-15 |
 | [Nangansiddu \- 2 \(All Not Ok\)](https://open.spotify.com/track/7zCNppxwVR06aQFTbfssOL) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [Nangansiddu \- 2 \(All Not Ok\)](https://open.spotify.com/album/0AestYNNi1FbqW7HHCT1OR) | 4:11 | 2023-03-06 | 2023-07-04 |
+| [Nanna Ee Manasali](https://open.spotify.com/track/18UgqzO5hjpMybau3AYAr6) | [Shravan Acharya](https://open.spotify.com/artist/6aQfYQu6gpW8wggY7ycFWi) | [Nanna Ee Manasali](https://open.spotify.com/album/3j6XqZfm7M268fshN0LOyC) | 3:59 | 2023-11-17 |  |
 | [Nanna Hrudaya](https://open.spotify.com/track/0Q6hm7dHmqYFRhEzfPaDm1) | [Arfaz Ullal](https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq), [Param Nirvikar](https://open.spotify.com/artist/1tk2QKYPbug5bRElUoNDAU), [Harshavardan HJ](https://open.spotify.com/artist/5TXJcIQdOZI3wyfcTxmXlX) | [Nanna Hrudaya \- Single](https://open.spotify.com/album/2aoIHWyOsoWZLgpOEREUM3) | 3:37 | 2023-06-29 | 2023-07-18 |
 | [Nanna Jeevana](https://open.spotify.com/track/6QkP19yo5LfvFCCzWsCuHK) | [SK Parth](https://open.spotify.com/artist/1vgT333wFWG7yn99UqFMJl), [Prasanna Bhojashettar](https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ) | [Nanna Jeevana](https://open.spotify.com/album/56T8Ejzjwc4fD8stpVnofS) | 2:16 | 2023-10-06 |  |
 | [Nanna Kannada](https://open.spotify.com/track/6RiAPNVdi1eOa2rAuwVh2C) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe), [MC Bijju](https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp) | [Nanna Kannada](https://open.spotify.com/album/4LcpFWIzA5kFXryLKkLiH2) | 3:55 | 2022-04-01 | 2023-06-08 |

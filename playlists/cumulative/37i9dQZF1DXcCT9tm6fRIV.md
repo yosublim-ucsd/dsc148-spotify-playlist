@@ -4,7 +4,7 @@
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-146 songs - 8 hr 16 min
+147 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Balada para un Loco](https://open.spotify.com/track/7elVvHs5wE7rSvU3Slz6lo) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 5:37 | 2022-03-18 |  |
 | [Barrio de Tango](https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j) | [Delfina Cheb](https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq), [The Horacio Avilano Guitar Quartet](https://open.spotify.com/artist/2SQLxgEdwS3gtJ28e44e6N) | [Doce Milongas de Amor y un Tango Desesperado](https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3) | 3:10 | 2022-03-18 |  |
 | [Barrio de Tango \- En Vivo](https://open.spotify.com/track/3d0IYd0xEiXbcS9bCEaWd5) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 2:47 | 2022-03-18 |  |
-| [Cafetin](https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [Osvaldo Pugliese con Alberto Moran y Roberto Chanel](https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA) | 2:34 | 2022-03-18 |  |
+| [Cafetin](https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [Osvaldo Pugliese con Alberto Moran y Roberto Chanel](https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA) | 2:34 | 2022-03-18 | 2023-11-18 |
 | [Cafetín De Buenos Aires](https://open.spotify.com/track/6kAwFibVpTv18fdjBTI57S) | [Edmundo Rivero](https://open.spotify.com/artist/6ULt24uY5oov72S2fY1qoi) | [Cuarenta Obras Fundamentales](https://open.spotify.com/album/4yrpuF07ee39tCE3mfeXfs) | 2:51 | 2022-03-18 | 2022-07-29 |
 | [Cambalache \(with Leopoldo Federico y Su Orquesta\)](https://open.spotify.com/track/2cebuDRXBsi89lb1Jz3TFs) | [Julio Sosa](https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX), [Leopoldo Federico y su Orquesta](https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA) | [El Firulete](https://open.spotify.com/album/3Gs3IScxQIDPlkUK2QibPV) | 3:04 | 2022-03-18 |  |
 | [Che Buenos Aires](https://open.spotify.com/track/23ZBJ1Rno8l54Go7DMGQVY) | [Raul Garello](https://open.spotify.com/artist/1VURQTVc0y9vdnSWMhWnYu) | [Hoy Baile Hoy Vol\. 1](https://open.spotify.com/album/5cSEe96DBT8SY0yAPOsowh) | 3:26 | 2022-03-18 | 2023-06-22 |
@@ -146,6 +146,7 @@
 | [Trenzas](https://open.spotify.com/track/1PXmOgfoM78vdhBjrjrTzu) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2) | [Antología, Vol.2: Viejas Alegrias](https://open.spotify.com/album/3p1lXEENvPdfbtivMxBZbS) | 3:24 | 2022-03-18 |  |
 | [Un Guiño](https://open.spotify.com/track/2LVMD9R9Og0crKqFLYhoV0) | [Tomi Lago](https://open.spotify.com/artist/2dHAhHoEkSxTu3PvCh14ug) | [Un Guiño](https://open.spotify.com/album/3LvWDXnEPWockfH5JIaxkF) | 2:55 | 2022-03-18 |  |
 | [Uno](https://open.spotify.com/track/1Pb3Q2EqL9LfQ78lwAykav) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk) | [Solo Guitarra](https://open.spotify.com/album/5mMWX0ZK7c2raoF04K4PLs) | 2:34 | 2022-03-18 | 2023-11-11 |
+| [Uno](https://open.spotify.com/track/6kDLsaJF6yNhgGXRH4IcNP) | [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk) | [Solo Guitarra](https://open.spotify.com/album/6WFa7LTfXDWZM5FimkfbfU) | 2:34 | 2023-10-06 |  |
 | [Uno](https://open.spotify.com/track/1IU4Tq9toArBH7dincawc6) | [Roberto Goyeneche](https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A) | [Uno](https://open.spotify.com/album/4bk560hRfrAuBCHOpitRcp) | 4:06 | 2022-03-18 |  |
 | [Valsecito Criollo](https://open.spotify.com/track/4ssSpLiLyPMpd7vKb6Pi6z) | [Juan D'Arienzo](https://open.spotify.com/artist/46beGPwcX2QEZcmuvrMqp4) | [Tango Collection](https://open.spotify.com/album/1PVv7CoAyEKcXdTigwDzQ6) | 2:20 | 2022-03-18 |  |
 | [Verano Porteño \- Remastered](https://open.spotify.com/track/2t2R4taRPMuz4HpYrb1Tep) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg) | [Verano Porteño \(Remastered\)](https://open.spotify.com/album/0GelTIz0kebUk598Cg8Ftq) | 6:27 | 2022-03-18 | 2022-07-25 |

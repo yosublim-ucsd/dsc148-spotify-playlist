@@ -227,6 +227,28 @@
     },
     {
       "album": {
+        "name": "Ain't You",
+        "url": "https://open.spotify.com/album/5ajGSLZVzKx3NmKMPGiFhw"
+      },
+      "artists": [
+        {
+          "name": "GOODBADUGLY",
+          "url": "https://open.spotify.com/artist/1lhpezG9iqq6YgLFcKlIA9"
+        },
+        {
+          "name": "Amari",
+          "url": "https://open.spotify.com/artist/6833GgqHOy9y9Dqnsxko1u"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156869,
+      "name": "Ain't You",
+      "url": "https://open.spotify.com/track/7yTVwl7gjKjiZJcyrcK6GE"
+    },
+    {
+      "album": {
         "name": "All For You",
         "url": "https://open.spotify.com/album/37dpSVOfI1x0CIiDzlIc6i"
       },
@@ -282,6 +304,28 @@
       "duration_ms": 216062,
       "name": "ALL MINE",
       "url": "https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF"
+    },
+    {
+      "album": {
+        "name": "After the Butterflies",
+        "url": "https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190498,
+      "name": "All or Nothing (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/4SPazIWgMqArA81XKxgDZa"
     },
     {
       "album": {
@@ -558,6 +602,28 @@
       "duration_ms": 263963,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/3wPNXRgvJI35uIXxlPriv2"
+    },
+    {
+      "album": {
+        "name": "Can't Forget",
+        "url": "https://open.spotify.com/album/2kGVa9ARhLbTdGbz8MPTPo"
+      },
+      "artists": [
+        {
+          "name": "RIMON",
+          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
+        },
+        {
+          "name": "Kelz2busy",
+          "url": "https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247345,
+      "name": "Can't Forget",
+      "url": "https://open.spotify.com/track/05lvABI7h1aa0o69Z2hpqS"
     },
     {
       "album": {
@@ -902,7 +968,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 250221,
       "name": "Drifted (feat. Jayla Darden)",
       "url": "https://open.spotify.com/track/562S3M4AGzUZcZ6G1WorfN"
@@ -1014,7 +1080,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 122727,
       "name": "Faded Dreams",
       "url": "https://open.spotify.com/track/6Pz5ZnO4Kg3VEtaYz14xcC"
@@ -1214,7 +1280,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 196006,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F"
@@ -1279,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "Get Close",
+        "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171218,
+      "name": "Get Close",
+      "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
+    },
+    {
+      "album": {
         "name": "Get Together",
         "url": "https://open.spotify.com/album/2ZwskA00mDrM1aGi1VTCai"
       },
@@ -1290,7 +1374,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 164307,
       "name": "Get Together",
       "url": "https://open.spotify.com/track/4SNYTtR22PfL7UF0pouvFf"
@@ -2066,7 +2150,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 165407,
       "name": "Last Day of Summer",
       "url": "https://open.spotify.com/track/1ba6Ft2EsrsR7JamTjVzNt"
@@ -2218,6 +2302,24 @@
       "duration_ms": 139534,
       "name": "like this.",
       "url": "https://open.spotify.com/track/1u06UpwEtMpKZM0t2sNBlB"
+    },
+    {
+      "album": {
+        "name": "Little Blue Moon",
+        "url": "https://open.spotify.com/album/4BRgkGx8jvMncKLgugeVYp"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168146,
+      "name": "Little Blue Moon",
+      "url": "https://open.spotify.com/track/0Lmx2qlN2FbeGWgqTBzQ2k"
     },
     {
       "album": {
@@ -2434,7 +2536,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 222500,
       "name": "Messy",
       "url": "https://open.spotify.com/track/7LtALDdCgKr8rAI0Hww2fV"
@@ -3958,7 +4060,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 228390,
       "name": "Summers Around The Corner",
       "url": "https://open.spotify.com/track/6AY1IWGyVFkdkq8AA5F2zT"
@@ -4028,6 +4130,24 @@
       "duration_ms": 221250,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/7aSTt5lOkSBxBvllByKINK"
+    },
+    {
+      "album": {
+        "name": "Take Me Down",
+        "url": "https://open.spotify.com/album/1HgUqAtLT1htnY592eO54C"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "Take Me Down",
+      "url": "https://open.spotify.com/track/5FsKNN0EKXevpZ3IQLURvT"
     },
     {
       "album": {
@@ -4134,6 +4254,24 @@
       "duration_ms": 222456,
       "name": "THE GLADE",
       "url": "https://open.spotify.com/track/4tEeJe0AS4TbihaokDG6hG"
+    },
+    {
+      "album": {
+        "name": "The Glass",
+        "url": "https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211190,
+      "name": "The Glass",
+      "url": "https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W"
     },
     {
       "album": {

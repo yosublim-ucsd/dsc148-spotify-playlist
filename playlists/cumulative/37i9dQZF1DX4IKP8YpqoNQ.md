@@ -4,7 +4,7 @@
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-197 songs - 16 hr 29 min
+198 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [I Get Out \- Live](https://open.spotify.com/track/6klUdQXRj4RuNy1FPmysWa) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [MTV Unplugged No\. 2.0](https://open.spotify.com/album/5sHByOqrDlhVXmMamZN49L) | 5:17 | 2022-02-10 | 2022-07-29 |
 | [I Got You \(I Feel Good\)](https://open.spotify.com/track/6aFyyr9Xm4zUtrrjlXeILO) | [Maceo Parker](https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC) | [Life on Planet Groove](https://open.spotify.com/album/5GlkTpCBgyu1C8K25p9zj7) | 3:45 | 2022-02-10 |  |
 | [I Heard It Through the Grapevine \- Live](https://open.spotify.com/track/6WVtT1tNkIOCuDraIlmFYJ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Live in Montreux 1980](https://open.spotify.com/album/2VIAKJug1Jl9dxloAXWy3D) | 6:08 | 2022-02-10 | 2022-07-29 |
+| [I Keep Forgettin' \(Live\)](https://open.spotify.com/track/2plDIEBv98sy230M3cnPim) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Live on Soundstage](https://open.spotify.com/album/2ANkOj6QpvXQkqZhJCcdHA) | 4:33 | 2023-05-15 |  |
 | [I Keep Forgettin' \- Live](https://open.spotify.com/track/3lLdweMPFav5srRwselDyG) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Live on Soundstage](https://open.spotify.com/album/13WZzcE9qqYGIGYwY8fFFE) | 4:33 | 2022-02-10 | 2023-11-05 |
 | [I Know You, I Live You \- Live](https://open.spotify.com/track/1Jwzfaz9O51dd1sK34KE8G) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Homecoming \(Live\)](https://open.spotify.com/album/26I2Hz4j3e00ggpjIzuIyY) | 5:09 | 2022-02-10 | 2022-07-29 |
 | [I Like That](https://open.spotify.com/track/2GATPLRMzHNwUmkxGgCoEP) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Spotify Singles](https://open.spotify.com/album/3RYb0W35JVOh9GgzdjE9SA) | 3:00 | 2022-02-10 |  |
@@ -142,7 +143,7 @@
 | [Save Some \- Live](https://open.spotify.com/track/6cas7tsvOkdrYFcEUOV6SX) | [D'Sound](https://open.spotify.com/artist/2EyVzQKEoNoGCAWJYfoJRg), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Save Some](https://open.spotify.com/album/321lcV2ni3VSOpzn7L7jD0) | 3:41 | 2022-02-10 | 2022-07-29 |
 | [Save The Children \- Live From The Montreux Jazz Festival,Switzerland/1973](https://open.spotify.com/track/2rQQqhyMjZ3rIMriZXsGlR) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [Live At Montreux](https://open.spotify.com/album/1ZBGw6F1EdH5U6PfPpLaJj) | 4:40 | 2022-02-10 | 2022-07-29 |
 | [Say Yes \- Live At The House Of Blues, New Orleans / 2003](https://open.spotify.com/track/54tuUilU05mObbh1Xhqu44) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floacism "Live"](https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa) | 5:56 | 2022-02-10 |  |
-| [Send It On](https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live In Stockholm](https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT) | 5:41 | 2022-02-10 |  |
+| [Send It On](https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live In Stockholm](https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT) | 5:41 | 2022-02-10 | 2023-11-18 |
 | [She's Always In My Hair \- Live at ESNS 2023](https://open.spotify.com/track/2pUS5JQBZDuvGBRuYFAwG6) | [Kymara](https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7) | [She's Always In My Hair \(Live at ESNS 2023\)](https://open.spotify.com/album/6bHo1AKBDhXx2auV7z3kFi) | 2:47 | 2023-04-06 | 2023-04-25 |
 | [Smile \- Live at Paste](https://open.spotify.com/track/4PNcOEOxdTQjGO4gcWW2zB) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Live at Paste](https://open.spotify.com/album/7jzoFgu5QkIkobI4Tgt7QY) | 3:41 | 2023-10-12 |  |
 | [St\. James Infirmary \- Live/Remastered](https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Live](https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC) | 4:34 | 2022-02-10 |  |

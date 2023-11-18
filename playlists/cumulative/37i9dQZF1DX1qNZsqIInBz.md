@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-188 songs - 8 hr 25 min
+189 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [NIGHT PHONK](https://open.spotify.com/track/6JI7mIk8CtD4R8BbhK3u1v) | [COWBELL DYNASTY](https://open.spotify.com/artist/0uwj2FxW7u0FCZRlB4j37p) | [NIGHT PHONK](https://open.spotify.com/album/25acPZp9Yma25jbnJhmyIx) | 1:22 | 2023-07-28 | 2023-08-05 |
 | [NIGHT RIDE](https://open.spotify.com/track/5l5b7TnBr5naVGNZq7SPca) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [NIGHT RIDE](https://open.spotify.com/album/0NaK3ZZFCdGpydTOBgfhDQ) | 3:12 | 2022-10-10 | 2023-06-10 |
 | [nightexpress](https://open.spotify.com/track/4mLb4iKTAHDuSsZTq4w7iK) | [Kim](https://open.spotify.com/artist/4q5RE9bDpugEWslh6TfiI0), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [nightexpress](https://open.spotify.com/album/0306P7Fec99VYmoSguS97S) | 2:40 | 2022-10-10 |  |
+| [nightmares](https://open.spotify.com/track/4YR40xH1Zxq1RKOxk49YcO) | [skyfall beats](https://open.spotify.com/artist/6ORJGSfnPFkJFFs5wXEClO) | [nightmares](https://open.spotify.com/album/63t2KnssSonLbVh4WtwjhI) | 2:45 | 2023-11-17 |  |
 | [nightriders](https://open.spotify.com/track/1bbnzRWj8vuOBQmoHFfqOg) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Wilee](https://open.spotify.com/artist/0PszchiiynrfCAwjdHdN5r) | [nightriders](https://open.spotify.com/album/0WvOrokciCcRELMBURq18R) | 2:02 | 2022-12-16 |  |
 | [Nightscape](https://open.spotify.com/track/6J3RFzkd1gacuycGdj8V2s) | [OXWAVE](https://open.spotify.com/artist/7B2UfSm1zprogJ0TulxZp9) | [Nightscape](https://open.spotify.com/album/2RtsQWMd6CErHfsxK879xO) | 2:38 | 2022-10-10 | 2023-08-19 |
 | [Nitrogen](https://open.spotify.com/track/3zwdzya2dW8KxS2izHiOx5) | [lixffr](https://open.spotify.com/artist/0GUmve9sjccwOk35nZkHtl), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Nitrogen](https://open.spotify.com/album/6J29nFfsCtEy9SWVFxFXyK) | 3:32 | 2022-10-10 |  |

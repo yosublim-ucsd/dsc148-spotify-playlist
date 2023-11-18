@@ -1,13 +1,33 @@
 {
   "description": "All new, all blues. Cover: Shanice Green",
-  "num_followers": 145582,
+  "num_followers": 145636,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzhjZTA4Y2E1MWM5NjM0ZWJmNWViYjBmZjQwNGJiNGM4ZTliNjM4",
+  "snapshot_id": "MCwyMmU4OGZkYjUxODU1MGJjNWNlYTdjMmJiY2VjNTEwZTRkYTcxNWEx",
   "tracks": [
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Save this Soul",
+        "url": "https://open.spotify.com/album/7E8mG7mXC9ONpeYMb0mWQt"
+      },
+      "artists": [
+        {
+          "name": "Ryan Innes",
+          "url": "https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79"
+        },
+        {
+          "name": "Seibold",
+          "url": "https://open.spotify.com/artist/2K5tyaxKm3dWuyFyf0jtaR"
+        }
+      ],
+      "duration_ms": 196036,
+      "name": "Save this Soul",
+      "url": "https://open.spotify.com/track/5tEQiMQgPDPR2XwXbGDUYe"
+    },
     {
       "added_at": "2023-11-10 05:01:00",
       "album": {
@@ -55,6 +75,22 @@
       "duration_ms": 211638,
       "name": "Evil on the Inside",
       "url": "https://open.spotify.com/track/7wo0vrDt5C7xS0J4UHyHIP"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Diving Into the Arms of the Divine",
+        "url": "https://open.spotify.com/album/6zQOhCl7CaatexcxuncqxK"
+      },
+      "artists": [
+        {
+          "name": "SPELLES",
+          "url": "https://open.spotify.com/artist/76UfJrb52tTTiDQNWEeCBY"
+        }
+      ],
+      "duration_ms": 256040,
+      "name": "Double Life",
+      "url": "https://open.spotify.com/track/4rrunCmiAMZvC9hAZ9EEr9"
     },
     {
       "added_at": "2023-09-22 04:01:00",
@@ -1529,22 +1565,6 @@
       "url": "https://open.spotify.com/track/4QEcznPthbvV8UTIw0FaJh"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Darkness I Feel",
-        "url": "https://open.spotify.com/album/1kANdOqNzn3Ua5rKRezSFj"
-      },
-      "artists": [
-        {
-          "name": "Ferris & Sylvester",
-          "url": "https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Darkness I Feel",
-      "url": "https://open.spotify.com/track/43haQPyxARYypn8u8ocsym"
-    },
-    {
       "added_at": "2022-03-04 05:01:00",
       "album": {
         "name": "Wanted",
@@ -1579,22 +1599,6 @@
       "duration_ms": 180800,
       "name": "Spin Me Round",
       "url": "https://open.spotify.com/track/0iEo9wkzqOfVfVkezh8obQ"
-    },
-    {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "The Man Was Burning",
-        "url": "https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly"
-      },
-      "artists": [
-        {
-          "name": "Jake Blount",
-          "url": "https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1"
-        }
-      ],
-      "duration_ms": 155665,
-      "name": "The Man Was Burning",
-      "url": "https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv"
     },
     {
       "added_at": "2022-02-18 05:02:00",

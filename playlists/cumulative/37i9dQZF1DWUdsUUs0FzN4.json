@@ -532,7 +532,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 173863,
       "name": "Bagdad",
       "url": "https://open.spotify.com/track/0y4x1MhfyZ41KvoLwWP3PY"
@@ -1705,6 +1705,28 @@
     },
     {
       "album": {
+        "name": "Diablito de Barrio",
+        "url": "https://open.spotify.com/album/4KOZGVfMT90YctD4Ijbmjn"
+      },
+      "artists": [
+        {
+          "name": "Charly Gynn",
+          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
+        },
+        {
+          "name": "Dj Chekesito",
+          "url": "https://open.spotify.com/artist/4S0i7CxFJybFWyCsB0vwil"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192475,
+      "name": "Diablito de Barrio",
+      "url": "https://open.spotify.com/track/2ofuB1R1niYONCwd78T52O"
+    },
+    {
+      "album": {
         "name": "Dioza",
         "url": "https://open.spotify.com/album/1lvjgKQrIdVvCW1br8seek"
       },
@@ -1882,6 +1904,32 @@
       "duration_ms": 208000,
       "name": "El Pesero",
       "url": "https://open.spotify.com/track/05KHhBPrEYhSVnmrWfFXVk"
+    },
+    {
+      "album": {
+        "name": "El Plan",
+        "url": "https://open.spotify.com/album/13MFiU8nBDQXn2CbTK2tbv"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226725,
+      "name": "El Plan",
+      "url": "https://open.spotify.com/track/1QViKg2J40k0w7phvi5k2Q"
     },
     {
       "album": {
@@ -2892,7 +2940,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 162400,
       "name": "La M\u00e1s Linda",
       "url": "https://open.spotify.com/track/19ImEdyUwLNz3NIxtUA0tk"

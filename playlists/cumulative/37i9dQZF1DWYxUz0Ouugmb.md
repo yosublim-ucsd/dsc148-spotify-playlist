@@ -4,7 +4,7 @@
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Aziz Hedra
 
-177 songs - 11 hr 19 min
+178 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [CHING](https://open.spotify.com/track/2SBD7hDiuVIRvngQ5tHCBa) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [CHING](https://open.spotify.com/album/6eFxr6XC0Aqn9phSP9E4BO) | 2:35 | 2021-11-25 | 2022-03-25 |
 | [Cinta](https://open.spotify.com/track/3mvISqUBTqdxV0EYVCxpii) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Cinta](https://open.spotify.com/album/2YxMCx1GU7Mrhp4e3qaQgc) | 2:54 | 2023-04-13 |  |
 | [Cinta Air Mata](https://open.spotify.com/track/1Mhevyt2cl5lvG3htZoK7a) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Cinta Air Mata](https://open.spotify.com/album/7LdARvPk1Wms5pKXqP5UUp) | 4:39 | 2023-04-13 |  |
+| [Cinta Yang Rumit](https://open.spotify.com/track/6Atv6SpeVJ0sgGyFlkcsGX) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Cinta Yang Rumit](https://open.spotify.com/album/5IDUI32I8DRXTOUJnSradA) | 4:05 | 2023-11-17 |  |
 | [Come Over \(I’m In Tresno\)](https://open.spotify.com/track/2TGAMsANnNOj1mZGbwCB2Y) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Come Over \(I’m In Tresno\)](https://open.spotify.com/album/2xuCjLACT2yowlV9XHVkWX) | 4:04 | 2021-11-25 | 2022-03-25 |
 | [Dari Sabang Sampai Merauke](https://open.spotify.com/track/0EdpbaIFpECUTQw6LaJiiD) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Dari Sabang Sampai Merauke](https://open.spotify.com/album/122E1O9Ms8QEtGzPVK5vpY) | 3:02 | 2022-04-14 | 2022-06-17 |
 | [Dermaga](https://open.spotify.com/track/4XUPhifEaWlVLNyZGL5lwU) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Dermaga](https://open.spotify.com/album/6cUTntOl9VU10UUG08JZrd) | 2:54 | 2023-03-16 | 2023-04-14 |

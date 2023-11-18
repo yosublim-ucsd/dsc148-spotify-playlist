@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Cleverlys
 
-246 songs - 15 hr 45 min
+249 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Don't You Want Me](https://open.spotify.com/track/7cQ2x6bqiOKWzKxB7Rp8tc) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/1WfjeDnn6P7umwi5gLZSGx) | 3:19 | 2021-08-20 | 2022-07-29 |
 | [Don't You Want Me](https://open.spotify.com/track/5vqMxpcsEzarRT1RSNM52X) | [The DeLorean Sisters](https://open.spotify.com/artist/5ZvTKfngMbuI3sFLv9mdfE) | [The DeLorean Sisters](https://open.spotify.com/album/58d4qk0mMIiWLlIxFAZK0E) | 3:02 | 2021-08-20 |  |
 | [Down Under](https://open.spotify.com/track/4ghmwqS5ipMJjmiJwKsugt) | [Love Canon](https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ) | [Greatest Hits Vol\. 3](https://open.spotify.com/album/6rwHXOhNQXHfE0KRvL84rZ) | 4:43 | 2021-08-20 |  |
+| [Drivin' Nails In My Coffin \- Live](https://open.spotify.com/track/17Q2QAFPkogLUFC6SMcdIA) | [Country's Family Reunion](https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt), [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Simply Bluegrass \(Live / Vol\. 1\)](https://open.spotify.com/album/5jK9gV35FK2BL18iTGEn2B) | 3:10 | 2023-11-17 |  |
 | [Dry Town](https://open.spotify.com/track/6QbkUhsl7YDaOq0ska3WlN) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Dry Town](https://open.spotify.com/album/280oD2MWboQrvS4rmROjL6) | 2:42 | 2021-08-20 | 2022-01-22 |
 | [Enter Sandman](https://open.spotify.com/track/7GXfXVnuqATxCs6EQoDcVS) | [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [Fade To Bluegrass: The Bluegrass Tribute To Metallica](https://open.spotify.com/album/4z8QBQBG513nlZrgDWsuqg) | 4:21 | 2021-08-20 |  |
 | [Everybody Wants to Rule the World](https://open.spotify.com/track/7KKGMWe3m5H6A8uvtzZySS) | [Jimbo Scott](https://open.spotify.com/artist/0dLFcTsyzpiPcNdyYM3dms) | [Everybody Wants to Rule the World](https://open.spotify.com/album/0vIF4YDydWHVGXKfFdK08U) | 4:52 | 2022-07-29 |  |
@@ -103,6 +104,7 @@
 | [Hand In My Pocket](https://open.spotify.com/track/6YKfKfe5Ey6yIPhZ0LS92O) | [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Hand In My Pocket](https://open.spotify.com/album/4EfSZbrQXDwQD8Ud7DCRXx) | 2:41 | 2023-03-10 | 2023-04-30 |
 | [Hand In My Pocket](https://open.spotify.com/track/7ikgdbyIecwr7OOkfW8tF5) | [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX) | [Pizza Tickets](https://open.spotify.com/album/0RK0VdRrsFe3ZozfDfBl09) | 2:41 | 2023-04-28 |  |
 | [Happy](https://open.spotify.com/track/0jEaPBjFAWjQTMVouRwaHi) | [The Beef Seeds](https://open.spotify.com/artist/2Lgu1zUJEcEB1A1tbhUSBR) | [Keepin' it Beefy](https://open.spotify.com/album/4IQn9XpweytNX2cUe2NBUH) | 3:38 | 2021-08-20 | 2022-01-22 |
+| [Heart\-Shaped Box](https://open.spotify.com/track/5IUxHfkYd9hl4NDE8ayShP) | [Holler Choir](https://open.spotify.com/artist/2OI5njTRiCAdhWF0UDUkAw) | [Heart\-Shaped Box](https://open.spotify.com/album/1oCcDnADb3h6NEvVPa2Cps) | 4:25 | 2023-11-17 |  |
 | [Hey Ya](https://open.spotify.com/track/0ELVXVHz8aPgwLySfkDn8e) | [Obadiah Parker](https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ) | [Obadiah Parker Live](https://open.spotify.com/album/4xjHVgg9DgYhV1UVJhDlKO) | 4:27 | 2021-08-20 | 2022-07-29 |
 | [Hey Ya \- live](https://open.spotify.com/track/4ztR83ZgTdg8H9xypnsQfS) | [Obadiah Parker](https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ) | [Hey Ya \(live\)](https://open.spotify.com/album/4BIE57kfW8ndo2CZn0QFfi) | 4:27 | 2022-05-27 |  |
 | [High Sierra](https://open.spotify.com/track/3mZ5laZgAB3T7zERs8mun1) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5), [Michaela Anne](https://open.spotify.com/artist/2k8aGdvE3NAchqmiplJANn) | [Cover to Cover](https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB) | 3:07 | 2022-08-09 | 2023-05-14 |
@@ -218,6 +220,7 @@
 | [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG) | 4:05 | 2022-05-27 |  |
 | [The Boys of Summer](https://open.spotify.com/track/4HXG1NYhCRUAHN6wFs93mb) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Mixtape](https://open.spotify.com/album/4OzBnoR48bFk7ZGH6FZG0h) | 5:10 | 2023-05-26 |  |
 | [The Boys of Summer](https://open.spotify.com/track/4q7wdKi7TnNdx4zA9MVLP7) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Mixtape](https://open.spotify.com/album/7c56Fm3gKUmD0HYm2PvvRN) | 5:10 | 2021-08-20 | 2023-06-17 |
+| [The City of New Orleans](https://open.spotify.com/track/3Wocpg1YEEnPIJQEfk7dP8) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [The City of New Orleans](https://open.spotify.com/album/24HQRvGkASwDNSuCAVWrLo) | 4:11 | 2023-11-17 |  |
 | [The Devil Went Down to Utah](https://open.spotify.com/track/35LYUIiBZxKmrtesVDa9dv) | [Pixie and The Partygrass Boys](https://open.spotify.com/artist/4roJTFn2kSsoN1UIwiXUJ3), [Jeremy Garrett](https://open.spotify.com/artist/75j2lBW6hHJNAbEjm6Wi14) | [The Devil Went Down to Utah](https://open.spotify.com/album/4lqJ0SpmQ5oL4J7yYxEKQw) | 4:53 | 2023-04-14 |  |
 | [The Hard Way](https://open.spotify.com/track/2nwj84xtWw98wuLbkOR77O) | [Rivers Rutherford](https://open.spotify.com/artist/6gFMSNbmoT4vDfNOpCP2rA), [Gordie Sampson](https://open.spotify.com/artist/4WkanTEimYpnh2LSd4OwtB), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Secrets](https://open.spotify.com/album/6QNcb3Y6yNePv0w5mMPtLJ) | 4:29 | 2023-04-14 |  |
 | [The Power of Love](https://open.spotify.com/track/09PGZSbPdDDg1K1wbltwm5) | [Rick Faris](https://open.spotify.com/artist/6VNJpZ2LKFFRPksNJsDFqJ) | [The Power of Love](https://open.spotify.com/album/6anxI2bsv3bpYpWX7eC0Xy) | 2:52 | 2023-02-24 |  |

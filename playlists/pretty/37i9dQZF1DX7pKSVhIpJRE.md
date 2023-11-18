@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pKSVhIpJRE.md) - [plain]
 
 > Change will challenge tradition\. Listen to the music from and inspired by The Crown, streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12 likes - 139 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 50 likes - 139 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pKSVhIpJRE.md) - [plain]
 | 16 | [Begin the Beguine](https://open.spotify.com/track/6A0XYRVq2qhCm8yuETUzdm) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Éxitos Inolvidables De Cole Porter](https://open.spotify.com/album/2A3nXj08Js61tgGduWopiM) | 4:12 |
 | 17 | [Man of Mystery](https://open.spotify.com/track/0UpLTU3sfZY4nCgSLTLvTv) | [The Shadows](https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD) | [The Shadows in the 60s](https://open.spotify.com/album/53YDjcn6gQGYoMJcQ1rRmd) | 2:01 |
 | 18 | [From A Jack To A King](https://open.spotify.com/track/4tD3blwPwkQ52MPHd5UxrH) | [Ned Miller](https://open.spotify.com/artist/59zvXMeM3koefoJWQhBki6) | [Reflections](https://open.spotify.com/album/2LuJqnAsotN13yGlRGmnHs) | 2:08 |
-| 19 | [Got Love if You Want It](https://open.spotify.com/track/1a8EesGDv7GFU42NOJBfjh) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe\)](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 3:46 |
+| 19 | [Got Love If You Want It](https://open.spotify.com/track/1eAC3UVDEUGx27mg5MrW1W) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe Edition\)](https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ) | 3:46 |
 | 20 | [Just One Of Those Things](https://open.spotify.com/track/4fngCznJ30b9JeNB9PxajH) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Platinum](https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj) | 3:13 |
 | 21 | [Comin' Home, Baby](https://open.spotify.com/track/1IajXhU7nmWGA0WTlUmFHr) | [Mark Wirtz, His Orchestra & Chorus](https://open.spotify.com/artist/26QHByuLBjyPsdEzNFzD7A) | [Wirtz and Music](https://open.spotify.com/album/63UGdR8yVZ2Q8aqct84F5r) | 2:38 |
 | 22 | [Trouble In Mind](https://open.spotify.com/track/0ODiamCRs52cabQiegstMJ) | [Humphrey Lyttelton](https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf) | [Privately Recorded Acetates 1953 \- 56](https://open.spotify.com/album/3pLtnd4tK7SplfKx5u7MzN) | 4:13 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pKSVhIpJRE.md) - [plain]
 | 138 | [Carriages](https://open.spotify.com/track/3QmdB7goLEDcCGxgm2BiBw) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Five \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4kecm8cI0FFGF70NiNYkSE) | 3:19 |
 | 139 | [Voices \(Remix\)](https://open.spotify.com/track/07T3aaNoPhZ386LHur9kia) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Five \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4kecm8cI0FFGF70NiNYkSE) | 3:48 |
 
-Snapshot ID: `MCw3ZWMzZjhiMzMyYzk4ZTAxNWExYjljNGE4YmE4MTI0OTFmZTFlYmE2`
+Snapshot ID: `MCxjOWE3ZjY1OGE1YTg4NmRiMDdhYWUyOTQzYTc0ZDMyYTUxYTIzMjI5`

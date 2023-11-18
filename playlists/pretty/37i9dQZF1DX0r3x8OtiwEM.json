@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 914126,
+  "num_followers": 914369,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTA2NGNhY2Y3ZTc5ZTMxNDNlZmVlNzQ4OGQzYzdjOTZiNTEwN2Zi",
+  "snapshot_id": "MCw5YzlkMmViMjc5ZTkyOTk3NWM0MGEyZTc3OGZmYjU1ZDhkMjAzODM4",
   "tracks": [
     {
       "added_at": "2023-11-14 11:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-11-14 11:00:00",
       "album": {
-        "name": "Spiral (Edit)",
-        "url": "https://open.spotify.com/album/1Xycot3BuBMYXvCFRMeZ88"
-      },
-      "artists": [
-        {
-          "name": "Philipp Wolf",
-          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
-        }
-      ],
-      "duration_ms": 221577,
-      "name": "Spiral - Edit",
-      "url": "https://open.spotify.com/track/555xHSjplKrHgZteVOwJ7R"
-    },
-    {
-      "added_at": "2023-11-14 11:00:00",
-      "album": {
         "name": "Youth Is Wasted on the Young",
         "url": "https://open.spotify.com/album/1xyLsl3uoCDONSqfrr3RPT"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 193623,
       "name": "Grouplove",
       "url": "https://open.spotify.com/track/4eDptQXtxI2beJWkxNV4jo"
+    },
+    {
+      "added_at": "2023-11-14 11:00:00",
+      "album": {
+        "name": "Spiral (Edit)",
+        "url": "https://open.spotify.com/album/1Xycot3BuBMYXvCFRMeZ88"
+      },
+      "artists": [
+        {
+          "name": "Philipp Wolf",
+          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
+        }
+      ],
+      "duration_ms": 221577,
+      "name": "Spiral - Edit",
+      "url": "https://open.spotify.com/track/555xHSjplKrHgZteVOwJ7R"
     },
     {
       "added_at": "2023-11-14 11:00:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-11-14 11:00:00",
       "album": {
+        "name": "The Mirage EP",
+        "url": "https://open.spotify.com/album/7h6U7WviIp19ArtCstpINj"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 371903,
+      "name": "The Mirage",
+      "url": "https://open.spotify.com/track/1amfDxySvja0PP6LjosvNB"
+    },
+    {
+      "added_at": "2023-11-14 11:00:00",
+      "album": {
         "name": "Those Days",
         "url": "https://open.spotify.com/album/2Vvb4crZUQD03YL5NObxCX"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 227987,
       "name": "Those Days",
       "url": "https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi"
-    },
-    {
-      "added_at": "2023-11-14 11:00:00",
-      "album": {
-        "name": "The Mirage EP",
-        "url": "https://open.spotify.com/album/7h6U7WviIp19ArtCstpINj"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 371903,
-      "name": "The Mirage",
-      "url": "https://open.spotify.com/track/1amfDxySvja0PP6LjosvNB"
     },
     {
       "added_at": "2023-11-14 11:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-11-14 11:00:00",
       "album": {
-        "name": "Time Machine",
-        "url": "https://open.spotify.com/album/4N3tw2C89vya0RGo6P7g84"
-      },
-      "artists": [
-        {
-          "name": "Eelke Kleijn",
-          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
-        }
-      ],
-      "duration_ms": 271508,
-      "name": "Time Machine",
-      "url": "https://open.spotify.com/track/2W95I0bLSIEyuMepqUO522"
-    },
-    {
-      "added_at": "2023-11-14 11:00:00",
-      "album": {
         "name": "Love Will Set U Free",
         "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
       },
@@ -795,22 +779,18 @@
     {
       "added_at": "2023-11-14 11:00:00",
       "album": {
-        "name": "Domino (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/7wpG47TcZLqoinmjTVzy3k"
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/4N3tw2C89vya0RGo6P7g84"
       },
       "artists": [
         {
-          "name": "Oxia",
-          "url": "https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
         }
       ],
-      "duration_ms": 296192,
-      "name": "Domino - David Guetta Remix",
-      "url": "https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK"
+      "duration_ms": 271508,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/2W95I0bLSIEyuMepqUO522"
     },
     {
       "added_at": "2023-11-14 11:00:00",
@@ -835,6 +815,26 @@
       "duration_ms": 212903,
       "name": "Alone - Stephan Jolk Remix",
       "url": "https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu"
+    },
+    {
+      "added_at": "2023-11-14 11:00:00",
+      "album": {
+        "name": "Domino (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/7wpG47TcZLqoinmjTVzy3k"
+      },
+      "artists": [
+        {
+          "name": "Oxia",
+          "url": "https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 296192,
+      "name": "Domino - David Guetta Remix",
+      "url": "https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK"
     },
     {
       "added_at": "2023-11-14 11:00:00",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2023-11-14 11:00:00",
       "album": {
-        "name": "Heart on Hold",
-        "url": "https://open.spotify.com/album/4i5PRWBoNmWwV4YcWboLy9"
-      },
-      "artists": [
-        {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
-        },
-        {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
-        }
-      ],
-      "duration_ms": 224662,
-      "name": "Heart on Hold",
-      "url": "https://open.spotify.com/track/7klqcPyFmka0E9aqTsul7t"
-    },
-    {
-      "added_at": "2023-11-14 11:00:00",
-      "album": {
         "name": "Get Lucky",
         "url": "https://open.spotify.com/album/17OsldS6iPodvsbgVOJEho"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 225120,
       "name": "Get Lucky",
       "url": "https://open.spotify.com/track/4lSCnW0nsmts8DKJLNiia9"
+    },
+    {
+      "added_at": "2023-11-14 11:00:00",
+      "album": {
+        "name": "Heart on Hold",
+        "url": "https://open.spotify.com/album/4i5PRWBoNmWwV4YcWboLy9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Koletzki",
+          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+        },
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "duration_ms": 224662,
+      "name": "Heart on Hold",
+      "url": "https://open.spotify.com/track/7klqcPyFmka0E9aqTsul7t"
     }
   ],
   "unique_name": "Lowkey Tech",

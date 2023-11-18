@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-209 songs - 11 hr 43 min
+210 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Izhaar](https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Izhaar](https://open.spotify.com/album/2OoFPcpsGZCz8e8EHpZZsJ) | 3:52 | 2023-06-30 | 2023-09-29 |
 | [Jaane Kyun \(Reimagined\)](https://open.spotify.com/track/55R3B2PsVG3RbDHSNPlVOH) | [Reena Gilbert](https://open.spotify.com/artist/0MTZdlgu4KBHtWotp2ShV0), [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa) | [Jaane Kyun \(Reimagined\)](https://open.spotify.com/album/3IAapIBUVv73r0oiWzqxwW) | 3:38 | 2023-08-02 | 2023-10-07 |
 | [Jaani Pehchani Si](https://open.spotify.com/track/7zjTFjPj5s5n83YLfDfJVB) | [Sanjay Das](https://open.spotify.com/artist/4qexwHVCNoPsxn0LvwWoSE), [Karshni Nair](https://open.spotify.com/artist/3gh2nrv0WJZLZBMtAtF6V1), [Sankalp Kapur](https://open.spotify.com/artist/40qP0qbcQABkLZnOZD5PYq) | [Rainbow Rishta \(Original Series Soundtrack\)](https://open.spotify.com/album/3IXFgyqzSSkwWZAlX03WW1) | 2:02 | 2023-11-15 |  |
-| [Jabse Tu Humko Mila](https://open.spotify.com/track/23eVI4PMTL85SeOx4ploWd) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG) | [Jabse Tu Humko Mila](https://open.spotify.com/album/257189U2uvn9pVrkVL86vN) | 2:45 | 2023-07-14 |  |
+| [Jabse Tu Humko Mila](https://open.spotify.com/track/23eVI4PMTL85SeOx4ploWd) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG) | [Jabse Tu Humko Mila](https://open.spotify.com/album/257189U2uvn9pVrkVL86vN) | 2:45 | 2023-07-14 | 2023-11-18 |
 | [Jana Hai Wahaan](https://open.spotify.com/track/07411IoQ0y3ZFRV5GRUgUQ) | [Indofuzon](https://open.spotify.com/artist/33yokOSkYWfoJ6NUPCRltH) | [Jana Hai Wahaan](https://open.spotify.com/album/5ExO3b4TvRGhYC6p8Ubqv8) | 2:32 | 2023-05-17 | 2023-06-21 |
 | [Jhoothi Chai](https://open.spotify.com/track/5ISTUCwZ9SzLgoY0wdwYLN) | [Meiyang Chang](https://open.spotify.com/artist/4kil03O4zZQwIsvj3SGCxH) | [Jhoothi Chai](https://open.spotify.com/album/2MzAQ0GKFGqTBB2Y7lOB7o) | 2:56 | 2023-09-20 |  |
 | [Kaayar](https://open.spotify.com/track/6cbxJhOuZWDP8kEeM6QWYe) | [Khatth](https://open.spotify.com/artist/25z03NEKPCRRfHVBCsgOiY) | [Kaayar](https://open.spotify.com/album/3nuufuEPeDjesdwC7AqzNQ) | 2:14 | 2023-09-26 |  |
@@ -176,6 +176,7 @@
 | [Tanhai](https://open.spotify.com/track/0sfw4y1AaYpbL2jkbi1fAu) | [Kiran](https://open.spotify.com/artist/1IUUdmeNEJ6YLrtWGdsOiJ), [Nivi](https://open.spotify.com/artist/1cmdu2iwKdME9GO1FJ7GYI), [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc) | [Khufiya](https://open.spotify.com/album/36F82HSVzS1II5X6rJtMfF) | 4:51 | 2023-09-26 | 2023-09-27 |
 | [Tanhai](https://open.spotify.com/track/6saOfBsCPh4D4gb2dk226w) | [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB), [Kiran + Nivi](https://open.spotify.com/artist/6MB38cbBCtoUoLWf8U22Ub) | [Khufiya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6BzqTX2mEkqEsxPw19KY9b) | 4:51 | 2023-09-26 |  |
 | [Tera Aasra](https://open.spotify.com/track/2bt46Wc1gdlwLq4WA34Lwf) | [Xeede](https://open.spotify.com/artist/4vctQONvB4a2PdcySenCRu), [F Kaze](https://open.spotify.com/artist/3LzW4ntDuBhWgewwqs7jL7) | [Tera Aasra](https://open.spotify.com/album/0FVTyISjP50lQI9nLKLgG9) | 3:00 | 2023-07-12 | 2023-09-23 |
+| [Tera Hi Intezaar Hai](https://open.spotify.com/track/3CUOhQONkaHfyEbJ9o6eFY) | [Rrajeev Sharma](https://open.spotify.com/artist/64zDyqa34wJUmIUr5iXKLv), [Harshit Shrivastava](https://open.spotify.com/artist/5eYHTsRSjK7Kqo7KDxEtSA) | [Tera Hi Intezaar Hai](https://open.spotify.com/album/7xju3kOHcr5VUiH2Au4FaA) | 3:06 | 2023-11-17 |  |
 | [Tera Saath](https://open.spotify.com/track/1fINFWBFzNNU2k5TVWgFoa) | [Rishabh Shah](https://open.spotify.com/artist/1BVz5IvR4oVIdg5OiieDo8), [Bhaven Dhanak](https://open.spotify.com/artist/3HI3NpSJpafnCHuiKKhJ9D) | [Tera Saath](https://open.spotify.com/album/4GLNPcFEMzcLOoIcyy4nxQ) | 2:54 | 2023-06-20 | 2023-09-22 |
 | [Tere Bin Laage](https://open.spotify.com/track/5GfZTeR24ugCddSRj0BKU9) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Tere Bin Laage](https://open.spotify.com/album/6qDbMxoh61bYMbBwKdrssP) | 3:29 | 2023-05-17 |  |
 | [Tere Hawaale](https://open.spotify.com/track/1ByVM9F8HeekD3aGXatRWd) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Laal Singh Chaddha](https://open.spotify.com/album/5OLQiL6HaWJl734EqPjoY9) | 5:46 | 2023-05-17 |  |

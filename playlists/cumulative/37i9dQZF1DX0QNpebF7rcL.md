@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Robert Finley
 
-331 songs - 22 hr 14 min
+332 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Big Grey Sky](https://open.spotify.com/track/58oEh6arIVp6WWUDiTnBun) | [Chris Thomas King](https://open.spotify.com/artist/3azQ4yZ4Dt6hPbyNeOOMLN) | [Big Grey Sky](https://open.spotify.com/album/19Unzw1ncj6JqxPGPBkXbP) | 4:28 | 2023-10-13 |  |
 | [Big Legged Man](https://open.spotify.com/track/7JDEtVgmR53Yi9S0C1Vktj) | [Boneshakers](https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m) | [One Foot In The Groove](https://open.spotify.com/album/4tvZrqg0Yow830Ko9pnYqD) | 4:25 | 2022-09-30 |  |
 | [Black Horizon](https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 4:49 | 2021-11-12 | 2022-04-23 |
-| [Black Magic](https://open.spotify.com/track/4GuQf92xMVo9FYRYnj37OL) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Black Magic](https://open.spotify.com/album/2AfgpZdbs8CI1MvjFaus2A) | 4:25 | 2023-10-13 |  |
+| [Black Magic](https://open.spotify.com/track/4GuQf92xMVo9FYRYnj37OL) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Black Magic](https://open.spotify.com/album/2AfgpZdbs8CI1MvjFaus2A) | 4:25 | 2023-10-13 | 2023-11-18 |
 | [Black Mountain Blues](https://open.spotify.com/track/1D2tVcQFbPmJP9FAjGkvJV) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [Black Mountain Blues](https://open.spotify.com/album/2gKdg1viykgX8jVJrvR71l) | 5:08 | 2021-04-23 | 2022-04-23 |
 | [Blacksnake Blues](https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Blacksnake Blues](https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz) | 11:14 | 2022-01-28 | 2023-10-07 |
 | [Blue Blue Water](https://open.spotify.com/track/6YqNOEJY1xQw1Zbgxa10Bu) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Oscar Wilson](https://open.spotify.com/artist/3Dlel3io4wOjaKcj6YL7rV) | [Bob Corritore & Friends: You Shocked Me](https://open.spotify.com/album/18rXZSxt8oRqSMZChCNEPE) | 3:17 | 2022-09-09 | 2023-04-29 |
@@ -324,6 +324,7 @@
 | [When It Rains](https://open.spotify.com/track/32l9UbhARgLoQTimx3bWwU) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4) | [Resurrection](https://open.spotify.com/album/7MNdKioZBeUYQnpFP9mZiV) | 6:23 | 2021-07-16 | 2023-01-14 |
 | [Whole World's Got The Blues \(feat\. Eric Gales\)](https://open.spotify.com/track/36K7AYc1UyMyjPoV4c3ozR) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1), [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV) | [Whole World's Got The Blues \(feat\. Eric Gales\)](https://open.spotify.com/album/4WliYc7MYceRk1zwJMUNNE) | 5:33 | 2021-03-19 | 2022-04-23 |
 | [Why You Wanna Make War \- English Version](https://open.spotify.com/track/4yB81Xy4lvmharZ5qr7LVT) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Emotional Gangster](https://open.spotify.com/album/0FpsQrpsnBRAj4lnhq879R) | 3:27 | 2022-03-18 |  |
+| [Wild Love](https://open.spotify.com/track/6ZLLEQPZ5RfwKQUG5ebPKB) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Wild Love](https://open.spotify.com/album/0cExTBqPKBwY4o3Ubv4C6u) | 4:23 | 2023-11-17 |  |
 | [Wild Women Don't Have the Blues](https://open.spotify.com/track/7FEKQ8ypfcwp970Bzgp7F3) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Wild Women Don't Have the Blues](https://open.spotify.com/album/3ogvLt5LN9StFxlrOVqnqx) | 3:38 | 2021-07-02 | 2022-07-02 |
 | [Woman Like You](https://open.spotify.com/track/2LAwa7amti4xehvCeWBRQ7) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [The Traveler](https://open.spotify.com/album/2Y84Mm4NzY5TzbdR1ub9Ow) | 4:19 | 2020-12-14 | 2022-02-26 |
 | [Work Until My Days Are Done](https://open.spotify.com/track/2xMgZIxBuHiD7VLVFZVnsH) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH) | [Work Until My Days Are Done](https://open.spotify.com/album/2Yd9AicKdULZkAOZzGF8Gx) | 3:31 | 2023-07-21 |  |

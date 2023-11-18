@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "CC",
+        "url": "https://open.spotify.com/album/3FFmsxw48gR6Sx3bsxO2Af"
+      },
+      "artists": [
+        {
+          "name": "Calvin De Leon",
+          "url": "https://open.spotify.com/artist/3WyQJx169swY8v3htgAqaK"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "CC",
+      "url": "https://open.spotify.com/track/3A9shHYppHFDDr0VAABXAa"
+    },
+    {
+      "album": {
         "name": "Choosy",
         "url": "https://open.spotify.com/album/0HVNpa18LV450niP7Mi0UU"
       },
@@ -272,7 +290,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 176470,
       "name": "Choosy",
       "url": "https://open.spotify.com/track/06Sf9li5Lhw1w39EbqLmnt"
@@ -312,10 +330,32 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 264157,
       "name": "CRASHING",
       "url": "https://open.spotify.com/track/6GLlKZzVmmLCRoqIqjZQa1"
+    },
+    {
+      "album": {
+        "name": "CRASHING",
+        "url": "https://open.spotify.com/album/6iRhMAlVxeM3QJfm8PK3lT"
+      },
+      "artists": [
+        {
+          "name": "O SIDE MAFIA",
+          "url": "https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp"
+        },
+        {
+          "name": "Tu$ Brother$",
+          "url": "https://open.spotify.com/artist/7IECoRDgYFidTg3vhiL0sC"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264230,
+      "name": "CRASHING",
+      "url": "https://open.spotify.com/track/52ctyXOm7J3niFI1T0Spul"
     },
     {
       "album": {
@@ -363,6 +403,24 @@
     },
     {
       "album": {
+        "name": "Down Timez",
+        "url": "https://open.spotify.com/album/18weGXt4wxCtnSlYH39ZHf"
+      },
+      "artists": [
+        {
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156054,
+      "name": "Down Timez",
+      "url": "https://open.spotify.com/track/1HjMv8tZKSkKi1wPlKPIpk"
+    },
+    {
+      "album": {
         "name": "Drugs in tha club",
         "url": "https://open.spotify.com/album/3Xov5djR8sxrJ1i4YMofuH"
       },
@@ -382,10 +440,36 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 177142,
       "name": "Drugs in tha club",
       "url": "https://open.spotify.com/track/1D8ejFcxDCseMHxp6LnpSp"
+    },
+    {
+      "album": {
+        "name": "Drugs in tha club",
+        "url": "https://open.spotify.com/album/4uIEcmROGVp0XuqX6WDO9v"
+      },
+      "artists": [
+        {
+          "name": "O SIDE MAFIA",
+          "url": "https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp"
+        },
+        {
+          "name": "Tu$ Brother$",
+          "url": "https://open.spotify.com/artist/7IECoRDgYFidTg3vhiL0sC"
+        },
+        {
+          "name": "PRETTYMF9INE",
+          "url": "https://open.spotify.com/artist/5I3BtMCxlNTdZPcrB6l8TX"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177176,
+      "name": "Drugs in tha club",
+      "url": "https://open.spotify.com/track/2nxi7UTpkG1EPu9cW9miWw"
     },
     {
       "album": {
@@ -538,10 +622,28 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 252137,
       "name": "GO GETTA",
       "url": "https://open.spotify.com/track/5fAIlWElS0Xj1T365oO3LJ"
+    },
+    {
+      "album": {
+        "name": "O COAST MIXTAPE",
+        "url": "https://open.spotify.com/album/6XGUdytvMhuUe7XekfFpDM"
+      },
+      "artists": [
+        {
+          "name": "O SIDE MAFIA",
+          "url": "https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252185,
+      "name": "GO GETTA",
+      "url": "https://open.spotify.com/track/36g22J7pBvXozaLUumgefE"
     },
     {
       "album": {
@@ -728,7 +830,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 249107,
       "name": "KARANASAN",
       "url": "https://open.spotify.com/track/3Y0wDVo2Dlrg0W6UoXkz9b"
@@ -768,6 +870,24 @@
       "duration_ms": 211366,
       "name": "KG",
       "url": "https://open.spotify.com/track/3311oX5J2qJAyiuuDLpTxP"
+    },
+    {
+      "album": {
+        "name": "Lil Kasalanan Shortie",
+        "url": "https://open.spotify.com/album/03XSg6TO123KLtT7YusRjO"
+      },
+      "artists": [
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163964,
+      "name": "Lil Kasalanan Shortie",
+      "url": "https://open.spotify.com/track/6zdryckXPbIeQE5npNqvNp"
     },
     {
       "album": {
@@ -1182,10 +1302,32 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 174000,
       "name": "SMD",
       "url": "https://open.spotify.com/track/0vAiMUIkz6YgkyYWIEhahn"
+    },
+    {
+      "album": {
+        "name": "SMD",
+        "url": "https://open.spotify.com/album/6n0T0pmhSfuE9UlFgcN7Cp"
+      },
+      "artists": [
+        {
+          "name": "O SIDE MAFIA",
+          "url": "https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp"
+        },
+        {
+          "name": "Paul N Ballin",
+          "url": "https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174040,
+      "name": "SMD",
+      "url": "https://open.spotify.com/track/2QOBpiFGgWbmMUyqMGRf4P"
     },
     {
       "album": {
@@ -1406,6 +1548,28 @@
     {
       "album": {
         "name": "WholeLotta$$$",
+        "url": "https://open.spotify.com/album/4qvJK8vYM8qQcribFTtfb8"
+      },
+      "artists": [
+        {
+          "name": "NOHESI",
+          "url": "https://open.spotify.com/artist/0GFan310xKLCUaxx8hcthQ"
+        },
+        {
+          "name": "CA$HMAN",
+          "url": "https://open.spotify.com/artist/0jgCDXXOUZvjVFnziFCUGA"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165666,
+      "name": "WholeLotta$$$",
+      "url": "https://open.spotify.com/track/3xElh7PCedXL0WxswpWznV"
+    },
+    {
+      "album": {
+        "name": "WholeLotta$$$",
         "url": "https://open.spotify.com/album/1ksoDWPm2BA0KccgYKpvrY"
       },
       "artists": [
@@ -1420,7 +1584,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 165666,
       "name": "WholeLotta$$$",
       "url": "https://open.spotify.com/track/62RvyiPNzwqUfUlaalPRf3"
@@ -1438,7 +1602,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 175936,
       "name": "Young Gaddy",
       "url": "https://open.spotify.com/track/2zUknMznHhaw5cDfMpFWvg"

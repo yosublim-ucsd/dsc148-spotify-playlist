@@ -3322,7 +3322,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 214496,
       "name": "Nos Soltamos",
       "url": "https://open.spotify.com/track/5wiHLVINwcLi2x0G6IoIYL"
@@ -3444,10 +3444,6 @@
         {
           "name": "Jenny69",
           "url": "https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX"
-        },
-        {
-          "name": "Play-N-Skillz",
-          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
         }
       ],
       "date_added": "2023-09-08",
@@ -4456,6 +4452,24 @@
       "duration_ms": 146104,
       "name": "Te Fuiste",
       "url": "https://open.spotify.com/track/4mPabBTkgdM0vi6fq5RLIV"
+    },
+    {
+      "album": {
+        "name": "Te Mata",
+        "url": "https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232306,
+      "name": "Te Mata",
+      "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
     },
     {
       "album": {

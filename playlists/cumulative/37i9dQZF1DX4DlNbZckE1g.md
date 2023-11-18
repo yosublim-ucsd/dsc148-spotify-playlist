@@ -4,7 +4,7 @@
 
 > Lose yourself in the summer daze...
 
-147 songs - 8 hr 12 min
+148 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Freaky \(RGB\)](https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Freaky \(RGB\)](https://open.spotify.com/album/4WJAlch8fMN9DU2lRo5bsX) | 1:49 | 2022-02-10 | 2023-06-10 |
 | [FRIENDZONE](https://open.spotify.com/track/2uyYzP9AIMlrEHj4bfJn00) | [PRICIE](https://open.spotify.com/artist/74qq2TFVWRaySx8MVjKelJ), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [IT'S PRICIE](https://open.spotify.com/album/3oxB7OZmXl7G0KAehBE9iJ) | 3:06 | 2022-02-10 |  |
 | [FRIENDZONE \(feat\. Genesis Owusu\)](https://open.spotify.com/track/5iXfAW8s28fgALFEpcxSmG) | [PRICIE](https://open.spotify.com/artist/74qq2TFVWRaySx8MVjKelJ), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [FRIENDZONE \(feat\. Genesis Owusu\)](https://open.spotify.com/album/43r2xCfXKj8UyfJnnnFeQI) | 3:06 | 2022-02-10 | 2023-09-15 |
-| [Get High](https://open.spotify.com/track/5hs90BPAzJzTl31m9eouyC) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ) | 3:42 | 2022-02-10 |  |
+| [Get High](https://open.spotify.com/track/3q8bVATKAOwjc8C0jY3DRd) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq) | 3:42 | 2022-02-10 |  |
+| [Get High](https://open.spotify.com/track/5hs90BPAzJzTl31m9eouyC) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ) | 3:42 | 2022-02-10 | 2023-11-18 |
 | [Get Out!](https://open.spotify.com/track/6VfcB4zhSDWwScKfm9MhdJ) | [Big Scary](https://open.spotify.com/artist/4mLYW48jy9Pwv6KpT74Evf) | [Daisy](https://open.spotify.com/album/7bRnODChpZFbtH31jBr31L) | 5:12 | 2022-02-10 |  |
 | [Gold](https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Gold](https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG) | 2:55 | 2022-02-10 |  |
 | [Gone](https://open.spotify.com/track/4wuY7AFjWkbltPwugDpR4U) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:15 | 2022-02-10 |  |

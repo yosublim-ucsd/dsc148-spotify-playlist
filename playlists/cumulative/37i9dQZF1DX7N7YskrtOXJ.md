@@ -4,7 +4,7 @@
 
 > La fiesta se enciende con cumbia, de la buena!<br/>Foto: La Combo Tortuga.
 
-107 songs - 6 hr 25 min
+108 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Cómo le Gusta](https://open.spotify.com/track/5yrK1Uw6fQUcbqBvvawSmr) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Cómo le Gusta](https://open.spotify.com/album/67V8P2PQIobKRhkNjSboUd) | 3:10 | 2023-08-25 |  |
 | [Cómo Olvidarte](https://open.spotify.com/track/5DcQjboiW4TJ4jhwHS6FrO) | [Pablito Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Dunguita](https://open.spotify.com/artist/6tgy6fQk4b1XwrSoHvEqBo), [Pollo González](https://open.spotify.com/artist/3lrVu7mL3lav5ySeUyD5CV) | [Cómo Olvidarte](https://open.spotify.com/album/0y2Bzf65Y7PVczvoMhR66G) | 2:51 | 2023-08-25 |  |
 | [De la Cuna al Cajón](https://open.spotify.com/track/05xWMCEACbp9K5UlK6kBOx) | [La Transa](https://open.spotify.com/artist/6EF1264lzOeAYoRT6kFNL2) | [Carnaval Callejero](https://open.spotify.com/album/2xu2q19usb0mZrqCHKH9s8) | 2:46 | 2023-08-25 |  |
+| [Después De Ti](https://open.spotify.com/track/6SmzvjXkM8u1OlHQlw7ynM) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Después De Ti](https://open.spotify.com/album/5WY09iKtH5IL3XKIo7h3zO) | 3:12 | 2023-11-17 |  |
 | [El Casorio](https://open.spotify.com/track/2S8HP57phymdKP3rzMoZRr) | [Banda Conmoción](https://open.spotify.com/artist/2UNMW1OKE0X1cwJHWER67g) | [Cuerpo Repartido](https://open.spotify.com/album/6nInC3tIJkiTcnw0gWeCi5) | 2:34 | 2023-08-25 |  |
 | [El Divorcio](https://open.spotify.com/track/1N4xlDzCtpY15zt3kHTh9K) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [El Divorcio](https://open.spotify.com/album/7MQ4ntSTX8ndQU5wBGFaUz) | 4:03 | 2023-08-25 |  |
 | [El Menú](https://open.spotify.com/track/4gpk5y4EPsHFak0ORjOl5l) | [Moral Distraida](https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv) | [Moral Distraída](https://open.spotify.com/album/3DJRdHtWaZNJLiJHG7b1jx) | 3:18 | 2023-08-25 |  |

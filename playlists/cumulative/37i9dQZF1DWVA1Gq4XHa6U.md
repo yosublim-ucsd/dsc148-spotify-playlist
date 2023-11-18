@@ -2,7 +2,7 @@
 
 ### [Gold School](https://open.spotify.com/playlist/37i9dQZF1DWVA1Gq4XHa6U)
 
-> Taking it way back! Cover: Wu\-Tang Clan
+> Taking it way back! Cover: Snoop Dogg
 
 269 songs - 19 hr 17 min
 

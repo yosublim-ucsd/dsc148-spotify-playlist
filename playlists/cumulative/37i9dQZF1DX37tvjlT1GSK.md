@@ -2,9 +2,9 @@
 
 ### [Sierreño 2023](https://open.spotify.com/playlist/37i9dQZF1DX37tvjlT1GSK)
 
-> Románticas, rancheras y bravías, las mejores canciones sierreñas\. Junior H en portada.
+> Románticas, rancheras y bravías, las mejores canciones sierreñas\. Los Plebes del Rancho y Carolina Ross en portada.
 
-310 songs - 16 hr 32 min
+311 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,11 +109,11 @@
 | [El Plumas \- En Vivo](https://open.spotify.com/track/5QZCV5YihVsaWUbKZkWH4s) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Plumas \(En Vivo\)](https://open.spotify.com/album/6GB1PDimXrLWIya6jgXkBs) | 3:30 | 2022-07-01 | 2023-02-14 |
 | [El Poder de Tu Mirada](https://open.spotify.com/track/1eN387v5wRFvSHHBwtCxQW) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [No Te Pido Mucho](https://open.spotify.com/album/1HWPwiFJ5jmVP9dIjfFPYA) | 3:40 | 2021-12-27 | 2023-03-18 |
 | [El Rapido](https://open.spotify.com/track/3IDvZQYop4XSaTZHw4H5hK) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/08nFf278FBOyxTEssZx2LR) | 3:02 | 2023-03-17 |  |
-| [El Silent](https://open.spotify.com/track/1A4brAeYlatGpoRxAs06UE) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Rojo](https://open.spotify.com/album/3TQE7Z8ScW2bFmB1DdVp7X) | 2:20 | 2023-09-15 |  |
+| [El Silent](https://open.spotify.com/track/1A4brAeYlatGpoRxAs06UE) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Rojo](https://open.spotify.com/album/3TQE7Z8ScW2bFmB1DdVp7X) | 2:20 | 2023-09-15 | 2023-11-18 |
 | [El Tony](https://open.spotify.com/track/3SdIpwt0PjEstHUi1e0d7i) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Daniel Vazquez](https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS) | [El Tony](https://open.spotify.com/album/7duHunpgpGBzL1v1xVJIBu) | 2:45 | 2022-05-13 | 2022-09-24 |
 | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh) | 2:44 | 2023-09-15 |  |
 | [El Vaso Derrama](https://open.spotify.com/track/6DXn7FK1ZMhHpPmSkBnt0k) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y) | [El Vaso Derrama](https://open.spotify.com/album/744EGDZkQWBWw4qT2tG46X) | 3:05 | 2023-06-09 | 2023-07-01 |
-| [Ella](https://open.spotify.com/track/0tKl8ZVM6xJkhznvJAS3Nq) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 4:19 | 2022-06-03 | 2023-10-28 |
+| [Ella](https://open.spotify.com/track/0tKl8ZVM6xJkhznvJAS3Nq) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 4:19 | 2022-06-03 |  |
 | [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 | 2023-03-17 |  |
 | [Empezar de Nuevo](https://open.spotify.com/track/7hCT8qcGvyVr0FQmpoCI93) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Empezar de Nuevo](https://open.spotify.com/album/6J6C7D6kL82ie5XKRTUqrK) | 3:47 | 2022-11-03 |  |
 | [En El Radio Un Cochinero](https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [En El Radio Un Cochinero](https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy) | 3:43 | 2022-07-01 |  |
@@ -151,6 +151,7 @@
 | [Inventame \- En Vivo](https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 3:15 | 2021-12-27 |  |
 | [Ismael \- En Vivo](https://open.spotify.com/track/1DNSgyWVtQp3TqWmksmVgr) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Ismael \(En Vivo\)](https://open.spotify.com/album/6bHWJYwlZw44HFgKCWVCZ3) | 3:15 | 2023-01-09 | 2023-01-14 |
 | [Jalé El Gatillo](https://open.spotify.com/track/4fkJJtagSrMW7XOY1uA874) | [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [Jalé El Gatillo](https://open.spotify.com/album/5AMpx8jws7kO7Wn1JUBQnp) | 3:37 | 2023-09-08 | 2023-09-16 |
+| [Jugar a Los Besos](https://open.spotify.com/track/3eCarseFqDhUPEWMDcWi2t) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Jugar a Los Besos](https://open.spotify.com/album/3ft9sLjNF5Ff3nTytL3TRD) | 2:48 | 2023-11-17 |  |
 | [Jugaste y Sufrí](https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 4:35 | 2023-03-17 | 2023-07-15 |
 | [Junto A Un Perro](https://open.spotify.com/track/2twZUFQw50PVCR4FcIV8CJ) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm), [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [Junto A Un Perro](https://open.spotify.com/album/31nxTwmvxvaG6RZ4xgUDfn) | 3:32 | 2022-09-23 | 2022-11-05 |
 | [Kilómetros](https://open.spotify.com/track/5ylyzixdrUmtb80QEM95G8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Kilómetros](https://open.spotify.com/album/40wp1HqFBV5JOwjk6v2J94) | 3:11 | 2022-05-06 | 2022-07-28 |
@@ -168,7 +169,7 @@
 | [LADY GAGA](https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:32 | 2023-06-30 |  |
 | [Las 745](https://open.spotify.com/track/2qYB75lMyKTsejklUVuxSH) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Las 745](https://open.spotify.com/album/7n51uT7Fh9ck9ysRCyxftg) | 2:43 | 2023-03-17 |  |
 | [Las Dos Promesas](https://open.spotify.com/track/3s7XyZunbdD69B6wz78uA8) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Las Dos Promesas](https://open.spotify.com/album/40kXxejvHfmoDl4DygxMo5) | 2:45 | 2022-06-24 | 2022-12-02 |
-| [LAS NOCHES](https://open.spotify.com/track/0uQhDYHyoZe5DpncrPolb6) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 3:46 | 2023-10-27 |  |
+| [LAS NOCHES](https://open.spotify.com/track/0uQhDYHyoZe5DpncrPolb6) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 3:46 | 2023-10-27 | 2023-11-18 |
 | [Lavadichi](https://open.spotify.com/track/1toi8pP6yhA5q4DsEtWCUm) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Lavadichi](https://open.spotify.com/album/64Ixc7mGaDYX4fBJhirvnX) | 2:50 | 2023-01-20 | 2023-03-18 |
 | [Le Compre Casa A Mi Ama](https://open.spotify.com/track/0BeBLgI1gpn9rJHqcUjJSX) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Le Compre Casa A Mi Ama](https://open.spotify.com/album/1DNXHL4tTugdaeGBow9s5x) | 3:24 | 2023-01-20 |  |
 | [Lo Eminente](https://open.spotify.com/track/4eQAmN30bn85qpIPMoiQP2) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Lo Eminente](https://open.spotify.com/album/2v698hvYJxOothHDhEEVSs) | 4:23 | 2023-03-17 | 2023-08-05 |

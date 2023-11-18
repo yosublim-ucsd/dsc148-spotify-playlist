@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3sgVVFFM7mom04OAR0eNCL">DEAS</a>'s favorite tracks\. Updated regularly\. Curated by DEAS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-66 songs - 6 hr 20 min
+67 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Phase Two](https://open.spotify.com/track/2oOTM8t4YHIHVHhMIVJb8Q) | [Deas](https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL) | [Symmetry EP](https://open.spotify.com/album/4UmXfzT2CXwBKuNfjwCgjV) | 6:34 | 2022-07-25 | 2023-10-12 |
 | [Phase Two](https://open.spotify.com/track/7ogPeJ5AFxpRY2CFNjzIcM) | [Deas](https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL) | [Symmetry EP](https://open.spotify.com/album/2aUB0aF0gK2pksGvhUGlIR) | 6:34 | 2022-07-25 | 2023-11-09 |
 | [Prefix](https://open.spotify.com/track/60dyhittzt2ETdXgyVAAL6) | [Ben Klock](https://open.spotify.com/artist/1vJHfCreWAS46V8RZ67ojo), [Fadi Mohem](https://open.spotify.com/artist/054VxUoJAoxf48TlGoWf75) | [Prefix](https://open.spotify.com/album/5H2grQSbEIKAdhI3uMPWSe) | 5:39 | 2022-07-25 | 2023-11-09 |
-| [Protective Custody \- 2023 Remaster](https://open.spotify.com/track/48GsYVVD36fqW4fCTBZqBx) | [Dave Clarke](https://open.spotify.com/artist/6Fr9aJBxyMOkTFF0b9JZrQ) | [Red 1 \(2023 Remaster\)](https://open.spotify.com/album/5mHtLgtB8ZrcPaJuLP9nLR) | 4:52 | 2023-11-08 |  |
+| [Protective Custody \(2023 Remaster\)](https://open.spotify.com/track/5qGn2qNcrgzpbJGH1SPItx) | [Dave Clarke](https://open.spotify.com/artist/6Fr9aJBxyMOkTFF0b9JZrQ) | [Red 1 \(2023 Remaster\)](https://open.spotify.com/album/2sT9yTuySP5G1LY1yc4L9o) | 4:52 | 2023-11-08 |  |
+| [Protective Custody \- 2023 Remaster](https://open.spotify.com/track/48GsYVVD36fqW4fCTBZqBx) | [Dave Clarke](https://open.spotify.com/artist/6Fr9aJBxyMOkTFF0b9JZrQ) | [Red 1 \(2023 Remaster\)](https://open.spotify.com/album/5mHtLgtB8ZrcPaJuLP9nLR) | 4:52 | 2023-11-08 | 2023-11-18 |
 | [Raid](https://open.spotify.com/track/7cAWv4wuQHVo8XnvNRneNX) | [Phil Berg](https://open.spotify.com/artist/47MgVGK1jiCgkj4jbjVqnx) | [Raid](https://open.spotify.com/album/5p5sVSL3tah0EvazwllBEp) | 5:11 | 2023-11-08 |  |
 | [Reasons Beyond The Atmosphere \- Original Mix](https://open.spotify.com/track/2jSmDKRGbOOX9M408I6VrH) | [Sigvard](https://open.spotify.com/artist/6IrZoI6X8RzaqH4nMl8V3m) | [The Flowers Hundred LP](https://open.spotify.com/album/2p0Yfdq4XwJIDPkJUA43M7) | 5:36 | 2022-07-25 | 2023-11-09 |
 | [S.O.](https://open.spotify.com/track/63wfhom4NkOos2kMcTnrVX) | [Sterac](https://open.spotify.com/artist/2QFnCeEbTqsb0YUYpFl08v) | [Light In The Darkness EP](https://open.spotify.com/album/0Sq8EOqgnRMl4Pja5WZVdC) | 6:40 | 2022-07-25 | 2023-11-09 |

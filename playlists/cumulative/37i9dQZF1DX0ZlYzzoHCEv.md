@@ -4,7 +4,7 @@
 
 > musica per quando non sai insomma come
 
-324 songs - 15 hr 4 min
+325 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [...And to Those I Love, Thanks for Sticking Around](https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring At the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 2:48 | 2022-06-21 |  |
 | [6 un caxxo di rave](https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH) | [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [christiannife](https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB) | [6 un caxxo di rave](https://open.spotify.com/album/3lEDFSWlwnj6J1MiOyL0Hg) | 2:31 | 2022-05-06 | 2022-07-28 |
 | [7 su 7](https://open.spotify.com/track/2E27zWyPLrjq2d38bOC2Xn) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL](https://open.spotify.com/album/0WRHoyqLqALdZ8te1QL20V) | 2:27 | 2022-05-06 | 2022-07-28 |
+| [9mm](https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf) | [Memphis Cult](https://open.spotify.com/artist/6n9sdNb7mWvVmARDT6ujnJ), [Groove Dealers](https://open.spotify.com/artist/4WOeTZ6inhL1zz0u5v0Q8z), [SPLYXER](https://open.spotify.com/artist/5erVsKXNZIBRE5ePB50c7j) | [Memphis Cult Vol\. 6](https://open.spotify.com/album/5CZnhiTI3K85wLKwPLNOJB) | 1:26 | 2023-11-17 |  |
 | [A Cruel Angel's Thesis \- Director's Edit Version](https://open.spotify.com/track/4tSB4wEJF32nLRfTOec9M5) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo), [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [Neon Genesis Evangelion \(Original Series Soundtrack\)](https://open.spotify.com/album/0zV3xoa0T7I1FpnJ0a9E0a) | 4:05 | 2022-05-13 | 2022-06-04 |
 | [A me me piace 'a nutella](https://open.spotify.com/track/05y020OeX507djVOEC4x6X) | [Il Piccolo Lucio](https://open.spotify.com/artist/0ACcpshlKRmhFqwpHFCwoC) | [A me me piace 'a nutella](https://open.spotify.com/album/2Gs5WowloB1jyqrCZXxjoK) | 4:39 | 2022-05-06 | 2022-05-31 |
 | [Acquagym \(feat\. Rkomi\)](https://open.spotify.com/track/43jjiw8mtLmxek1QRQNLsF) | [Ackeejuice Rockers](https://open.spotify.com/artist/7qXuz9bbBHBBFelmDcNOMQ), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Acquagym \(feat\. Rkomi\)](https://open.spotify.com/album/1Qx09ptZVNxVekeMaK9Rs2) | 2:27 | 2022-05-06 | 2022-07-29 |
@@ -114,7 +115,7 @@
 | [Freed From Desire](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 | 2022-12-20 | 2023-06-06 |
 | [FUNERAL PARTY \(feat\. Cosmo & Pop X\)](https://open.spotify.com/track/1eMfykfketml0h2jCPTGwI) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Cosmo](https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX), [Pop X](https://open.spotify.com/artist/4ABwY5eHGrrwcv13gdDe55) | [X2](https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ) | 3:56 | 2022-05-06 | 2022-07-29 |
 | [Fuoco](https://open.spotify.com/track/34iXenJePvLb56eAY9yVY4) | [PIOVE.](https://open.spotify.com/artist/2lEDOYvkfzfdfSXeYZKwhi) | [Fuoco](https://open.spotify.com/album/31Z206MRP8gdjbWDR2DGFy) | 2:32 | 2022-05-27 | 2022-05-29 |
-| [GHOST!](https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GHOST!](https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3) | 3:51 | 2023-07-13 |  |
+| [GHOST!](https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GHOST!](https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3) | 3:51 | 2023-07-13 | 2023-11-18 |
 | [GigaChad Theme \- Phonk House Version](https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\)](https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr) | 2:26 | 2022-10-28 |  |
 | [Ginseng Strip 2002](https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK) | 2:33 | 2022-05-06 | 2022-07-29 |
 | [Ginseng Strip 2002](https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/3xG021y87AUy0wWIlWvGw4) | 2:33 | 2022-07-22 | 2022-11-08 |

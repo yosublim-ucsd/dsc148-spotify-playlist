@@ -4,7 +4,7 @@
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: dadá Joãozinho / Arte: Isu Kim
 
-281 songs - 14 hr 33 min
+283 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,12 +215,13 @@
 | [Qual Fita](https://open.spotify.com/track/2jWPvuNX5KKtEY0q6aym4V) | [Ceci Reis](https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf) | [Que Fase](https://open.spotify.com/album/1XaXt76Sh007N2UPzgNJLU) | 2:19 | 2022-07-22 | 2022-11-26 |
 | [Quando Eu Falei Pra Ela](https://open.spotify.com/track/2HJ60YDqbGDvM6HCTqtXrh) | [Dani Bessa](https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29) | [Quando Eu Falei Pra Ela](https://open.spotify.com/album/3l8DE3zqXombjgdlhvLFpY) | 3:03 | 2022-12-02 |  |
 | [Quarta Obra](https://open.spotify.com/track/5rqGTsecw0HNMwOC3j3yCb) | [Saskia](https://open.spotify.com/artist/2kcQw1XkWgIMzF2sArt6NT) | [Quartas](https://open.spotify.com/album/0CJn9AMkYslFvMEWM9W4x1) | 3:55 | 2022-04-29 | 2022-09-24 |
-| [Quartinho](https://open.spotify.com/track/0dPM34hzGW7EBf7BTzE4xE) | [Casali](https://open.spotify.com/artist/7sPl7zsOqdfq2yrXDirwBQ) | [Quartinho](https://open.spotify.com/album/5PTPiLCDT2NkdfNk6jHoUV) | 2:13 | 2022-10-28 |  |
+| [Quartinho](https://open.spotify.com/track/0dPM34hzGW7EBf7BTzE4xE) | [Casali](https://open.spotify.com/artist/7sPl7zsOqdfq2yrXDirwBQ) | [Quartinho](https://open.spotify.com/album/5PTPiLCDT2NkdfNk6jHoUV) | 2:13 | 2022-10-28 | 2023-11-18 |
 | [quase são](https://open.spotify.com/track/1Ly9OIXDO3mgrNFhPTkigp) | [yanzinho](https://open.spotify.com/artist/6GekoHmWbOgJyIbw4hUszT) | [dita.](https://open.spotify.com/album/7vFI2GsrK80S4BZwlxhDYx) | 2:15 | 2022-01-07 | 2022-08-06 |
 | [Que Seja](https://open.spotify.com/track/4fTZRHPABEvDkfczCrvTtG) | [morgana](https://open.spotify.com/artist/6G241J0FCXVztwxsIWoUBy) | [Que Seja](https://open.spotify.com/album/559vhzfF3rMa1ohkj0cKhf) | 4:38 | 2022-10-28 |  |
 | [Queda livre](https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw), [Oh! I Kill](https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI) | [Queda livre](https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp) | 3:18 | 2022-09-30 |  |
 | [Rebuliço](https://open.spotify.com/track/3l8NUXSdk2sofDn6hcnkR1) | [Nano Orquestra](https://open.spotify.com/artist/2uvzTxbSGqlSBIKb6hCl2o) | [Rebuliço](https://open.spotify.com/album/4fsZp3nHy7vFiFHbov9rbw) | 3:47 | 2022-08-05 | 2022-12-24 |
 | [REGRESSO](https://open.spotify.com/track/5AL8P55NaoIcO6UzVTyxli) | [Marvi](https://open.spotify.com/artist/42malNkzNeM1gwlbD5zYk2), [Reversa](https://open.spotify.com/artist/5sI77g2fCFCleHCJqrts1u) | [LAMA](https://open.spotify.com/album/5rwf7TwwUogHHB4zpPv2I6) | 2:47 | 2022-01-07 | 2022-01-15 |
+| [reluz](https://open.spotify.com/track/2NqY3ZHWi8NxHiz6RlTyqu) | [Asú](https://open.spotify.com/artist/33niI54BdTNsMN18d5lLM0) | [reluz](https://open.spotify.com/album/4RhsyCCyX1IViJF9P7MBVM) | 3:13 | 2023-11-17 |  |
 | [Repara](https://open.spotify.com/track/3KSBVHgj03KdPFQ4SMIizC) | [Maielle](https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX) | [Repara](https://open.spotify.com/album/60lO1rsH63Nx57oB1uwfnk) | 2:34 | 2023-02-13 |  |
 | [Rouquidão](https://open.spotify.com/track/4zoAger8ZaHL6bRujicqSF) | [Chorou Bebel](https://open.spotify.com/artist/3l1Do0Qcg30ywoKApiWmu1), [Duarte](https://open.spotify.com/artist/4TTKi5ThwRcTW2Fp21Z6Sc) | [Rouquidão](https://open.spotify.com/album/6Lb82lCrQr6b0ZkhSAox9u) | 2:41 | 2022-08-12 | 2022-12-17 |
 | [Sabotagem](https://open.spotify.com/track/1oKeFnoD4jIQ9EiUyW4msF) | [Mavi](https://open.spotify.com/artist/0eFYxhPPa43Kn72wtcAA7f), [Auler](https://open.spotify.com/artist/7hupw9FnkztTdeFxfgT72m) | [Sabotagem](https://open.spotify.com/album/0SbZxcv1ZTmPx3u5whGP3N) | 2:46 | 2022-09-30 |  |
@@ -263,9 +264,10 @@
 | [três](https://open.spotify.com/track/3PrFyucupUOrcLRPXR29yI) | [Braga](https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng) | [três](https://open.spotify.com/album/4B2gsbWbg2Knfd0zZBf6n8) | 2:29 | 2022-08-05 | 2022-11-26 |
 | [Três passinhos da derrota](https://open.spotify.com/track/2rhu7HUF5FVzVPb5eNPrMQ) | [Gali Galó](https://open.spotify.com/artist/372WeNRZmHpz2kfrUcmLB8) | [Gali Galó](https://open.spotify.com/album/2CUJ9wMHidLaX2UI2K3JQ9) | 2:56 | 2023-01-20 | 2023-09-02 |
 | [tudo bem](https://open.spotify.com/track/5QieXWNPH4lFVboZceTMKi) | [mucci](https://open.spotify.com/artist/5nJNGHuoGiqFF4YBf9dVU0) | [tudo bem](https://open.spotify.com/album/7DjX1RWcZ291PqE4nL70ER) | 3:05 | 2022-01-07 | 2022-08-13 |
+| [tudo que eu faço](https://open.spotify.com/track/4RDOaLRGMorHJpAndOgWo3) | [Rô](https://open.spotify.com/artist/0DuebGyOlpHONL8lMizMGQ) | [tudo que eu faço](https://open.spotify.com/album/5fj9SAx9TZ6CwSSc8Tg219) | 2:23 | 2023-11-17 |  |
 | [Tudo Vai Bem](https://open.spotify.com/track/0Ux6ns0ofCgj2Pw6kEwKqd) | [Stvz](https://open.spotify.com/artist/7HzEixhvOdpNHS5a0Hwiyu) | [Tudo Vai Bem](https://open.spotify.com/album/0nXl05xPz5CU3kUGdbiftb) | 3:34 | 2022-01-07 | 2022-08-20 |
 | [Tudo vale a pena](https://open.spotify.com/track/20Ol2Wfg3g6XGVnw4C0D8C) | [Jey](https://open.spotify.com/artist/6dS9sxlp4vf34zzi6TtQ8C) | [Tudo vale a pena](https://open.spotify.com/album/65h69IuhRe8D8E786BrfgZ) | 2:25 | 2022-03-11 | 2022-03-17 |
-| [Tá Subindo](https://open.spotify.com/track/4UUpgJ1TP5IvcYU6YYzJBF) | [Clara Tannure](https://open.spotify.com/artist/50AlI8ZgZfb8SMTZ0c38mq) | [PSEUDODRAMA](https://open.spotify.com/album/6M2btYgSEXpV6a8YbqI6zJ) | 2:26 | 2022-09-09 |  |
+| [Tá Subindo](https://open.spotify.com/track/4UUpgJ1TP5IvcYU6YYzJBF) | [Clara Tannure](https://open.spotify.com/artist/50AlI8ZgZfb8SMTZ0c38mq) | [PSEUDODRAMA](https://open.spotify.com/album/6M2btYgSEXpV6a8YbqI6zJ) | 2:26 | 2022-09-09 | 2023-11-18 |
 | [Tão Perto e Tão Longe](https://open.spotify.com/track/2qIAX1Ww0761lDie4kQe0A) | [Letícia](https://open.spotify.com/artist/609NBZ4p86Qj6PN8gdafcS) | [Tão Perto e Tão Longe](https://open.spotify.com/album/7ARx511vO11RKrsvwjFA2O) | 2:48 | 2022-01-07 | 2022-08-20 |
 | [Um Brinde](https://open.spotify.com/track/1rt90TEAfqAtnfHZlI3uyV) | [Rick Agra](https://open.spotify.com/artist/0Nt78ssG93jnXJjmJO3KnN) | [Um Brinde](https://open.spotify.com/album/1vOwSOaTYvQd8cqvpGcFX2) | 2:33 | 2022-10-28 |  |
 | [VAI](https://open.spotify.com/track/3T2JaAQgQ92z9oVHmWg91C) | [Marc Yann](https://open.spotify.com/artist/2XCuDk7P16Zp9Nvak5BmRf) | [PLATÔNICO](https://open.spotify.com/album/3iZVI9SANNghj1iFpTuAVD) | 2:21 | 2022-10-07 | 2022-11-18 |

@@ -1,13 +1,29 @@
 {
   "description": "The best newly released songs of the week. Cover: DOLLA",
-  "num_followers": 62127,
+  "num_followers": 62141,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDkxMGM1MDQ0MDQ1ZTBiODhhMmFkZjY4Zjk3NGU1Y2YzZWU5YzJh",
+  "snapshot_id": "MCw5MWE5MzcwM2M4ZmJiNmY5N2FkMjc2OTRiZjdlOWNjMTliOWY0NTgz",
   "tracks": [
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "For All The Dogs Scary Hours Edition",
+        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 230709,
+      "name": "You Broke My Heart",
+      "url": "https://open.spotify.com/track/5Se32hEA9raeboZerywxka"
+    },
     {
       "added_at": "2023-11-16 16:00:00",
       "album": {
@@ -103,8 +119,8 @@
     {
       "added_at": "2023-11-16 16:00:00",
       "album": {
-        "name": "Vocation",
-        "url": "https://open.spotify.com/album/2wxhtvRbDXBBHnGXQ8HCqa"
+        "name": "Cosmo",
+        "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
       },
       "artists": [
         {
@@ -116,9 +132,9 @@
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 184820,
+      "duration_ms": 184320,
       "name": "Vocation",
-      "url": "https://open.spotify.com/track/70xKqgJOnicN4OsIB6hOXU"
+      "url": "https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd"
     },
     {
       "added_at": "2023-11-16 16:00:00",
@@ -176,7 +192,7 @@
       "added_at": "2023-11-16 16:00:00",
       "album": {
         "name": "House Mouse",
-        "url": "https://open.spotify.com/album/3Lalyhxm8ic4q5TcvhYcAr"
+        "url": "https://open.spotify.com/album/2PotF1jdtZBOL9hSZOfB5I"
       },
       "artists": [
         {
@@ -186,7 +202,23 @@
       ],
       "duration_ms": 203799,
       "name": "Happiness",
-      "url": "https://open.spotify.com/track/1BYnYuFw2kslkIgd7yNYkO"
+      "url": "https://open.spotify.com/track/5IConHG7gM7weQdrWt9p98"
+    },
+    {
+      "added_at": "2023-11-16 16:00:00",
+      "album": {
+        "name": "ORANGE BLOOD",
+        "url": "https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 148753,
+      "name": "Sweet Venom",
+      "url": "https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m"
     },
     {
       "added_at": "2023-11-16 16:00:00",
@@ -325,6 +357,26 @@
       "url": "https://open.spotify.com/track/5vkq4xtQluR8P0PfE9vwtf"
     },
     {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "For All The Dogs Scary Hours Edition",
+        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 227692,
+      "name": "Evil Ways (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa"
+    },
+    {
       "added_at": "2023-11-16 16:00:00",
       "album": {
         "name": "Still Got It (Live from Spotify Green Screen)",
@@ -344,7 +396,7 @@
       "added_at": "2023-11-16 16:00:00",
       "album": {
         "name": "fruitcake",
-        "url": "https://open.spotify.com/album/5MLcU3cT4hB4VvcoaIWqzj"
+        "url": "https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg"
       },
       "artists": [
         {
@@ -354,7 +406,7 @@
       ],
       "duration_ms": 189753,
       "name": "santa doesn\u2019t know you like i do",
-      "url": "https://open.spotify.com/track/3s5bNa5UJK4zSZwxy6K5qg"
+      "url": "https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v"
     },
     {
       "added_at": "2023-11-16 16:00:00",
@@ -449,6 +501,22 @@
       "url": "https://open.spotify.com/track/3RCxeAvPSEGGid6OaklZDG"
     },
     {
+      "added_at": "2023-11-17 02:46:09",
+      "album": {
+        "name": "Black Widow",
+        "url": "https://open.spotify.com/album/5YsCdLpKM2gqxwZ9FysD4q"
+      },
+      "artists": [
+        {
+          "name": "Akini Jing",
+          "url": "https://open.spotify.com/artist/2VtVHEiaBjDGzysvaO5tDH"
+        }
+      ],
+      "duration_ms": 152764,
+      "name": "Black Widow",
+      "url": "https://open.spotify.com/track/0cfeOfzSF1jsuxHHEp0eAl"
+    },
+    {
       "added_at": "2023-11-16 16:00:00",
       "album": {
         "name": "Anone",
@@ -495,6 +563,22 @@
       "duration_ms": 268203,
       "name": "Cult.",
       "url": "https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M"
+    },
+    {
+      "added_at": "2023-11-16 16:00:00",
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY"
     },
     {
       "added_at": "2023-11-16 16:00:00",
@@ -679,6 +763,22 @@
     {
       "added_at": "2023-11-16 16:00:00",
       "album": {
+        "name": "The Drive",
+        "url": "https://open.spotify.com/album/7040pvLMxs3NnuQao9PsgT"
+      },
+      "artists": [
+        {
+          "name": "Vince",
+          "url": "https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd"
+        }
+      ],
+      "duration_ms": 197644,
+      "name": "UUU",
+      "url": "https://open.spotify.com/track/2Klf5ZEk8ug7qRpMiiB2JB"
+    },
+    {
+      "added_at": "2023-11-16 16:00:00",
+      "album": {
         "name": "Ride It",
         "url": "https://open.spotify.com/album/4vGP301b5kqTeeaeYpsMaM"
       },
@@ -775,6 +875,22 @@
     {
       "added_at": "2023-11-16 16:00:00",
       "album": {
+        "name": "Tinder",
+        "url": "https://open.spotify.com/album/3EkJJoHnkUyVnUYt4OIxK0"
+      },
+      "artists": [
+        {
+          "name": "Amari Teague",
+          "url": "https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC"
+        }
+      ],
+      "duration_ms": 144171,
+      "name": "Tinder",
+      "url": "https://open.spotify.com/track/71sLnpCTclCFLhj6p4cqNV"
+    },
+    {
+      "added_at": "2023-11-16 16:00:00",
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/5rrC3LhLmzUkQQC5mqO5AY"
       },
@@ -791,6 +907,22 @@
       "duration_ms": 178066,
       "name": "Desire (with VITA)",
       "url": "https://open.spotify.com/track/6aCFpO6fjm5FTEsvqJtALr"
+    },
+    {
+      "added_at": "2023-11-16 16:00:00",
+      "album": {
+        "name": "Baby Blue",
+        "url": "https://open.spotify.com/album/4SZISLudRb6XD44SO2NBtZ"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 124451,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/5ZDdx332AQj2n6TOW0LlZU"
     },
     {
       "added_at": "2023-11-16 16:00:00",

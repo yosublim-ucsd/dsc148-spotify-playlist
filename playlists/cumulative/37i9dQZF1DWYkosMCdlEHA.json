@@ -1445,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Reggae Nacional",
+        "url": "https://open.spotify.com/album/23f508qelLXWabAaI6Er7x"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224973,
+      "name": "Zoio De Lula - Ao Vivo",
+      "url": "https://open.spotify.com/track/12eZEpPuG8eJl0FVWvLSrP"
+    },
+    {
+      "album": {
         "name": "Rock Ac\u00fastico Nacional",
         "url": "https://open.spotify.com/album/17XHBdjmUUCDWHm7W6r6bm"
       },
@@ -1456,7 +1474,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 224973,
       "name": "Zoio De Lula - Ao Vivo",
       "url": "https://open.spotify.com/track/5LEVrEIMJ63r9w6BGu6BnB"

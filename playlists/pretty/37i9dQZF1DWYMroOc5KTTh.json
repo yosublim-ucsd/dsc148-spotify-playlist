@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 448402,
+  "num_followers": 448588,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzczNGNlNWE2ZGFjMGEzNmY2MDZhYWQ4OTU2NzViOTQzNWFmODYz",
+  "snapshot_id": "MCwwYmUyYjgwNWE3OTFiMTI4NmZlOWJiYTA0OWQyMzE2YzMzYjI5MmI3",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Dance Moves",
-        "url": "https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 243945,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/38MS1Ch2ckFL4O29UVg7Nh"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Lady Love",
         "url": "https://open.spotify.com/album/6XGxAqDf3339vdyvHKuUhh"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 174524,
       "name": "Lady Love",
       "url": "https://open.spotify.com/track/3ACTBfO2gL0RY2a3Eb5kY5"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Dance Moves",
+        "url": "https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 243945,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/38MS1Ch2ckFL4O29UVg7Nh"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Diana (You Don't Even Know)",
+        "url": "https://open.spotify.com/album/2FR8tMHuRmAqxrZChfSyZI"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 204878,
+      "name": "Diana (You Don't Even Know)",
+      "url": "https://open.spotify.com/track/2j8aMIzFC5QhzyMOx7Sbj6"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Let It Go (with Marc E. Bassy)",
         "url": "https://open.spotify.com/album/3yAuFFA0zd9J0sJi3JGpvt"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 204226,
       "name": "Let It Go (with Marc E. Bassy)",
       "url": "https://open.spotify.com/track/3TvNcBtucVO8flCgst1ESc"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Diana (You Don't Even Know)",
-        "url": "https://open.spotify.com/album/2FR8tMHuRmAqxrZChfSyZI"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 204878,
-      "name": "Diana (You Don't Even Know)",
-      "url": "https://open.spotify.com/track/2j8aMIzFC5QhzyMOx7Sbj6"
     },
     {
       "added_at": "2023-11-17 00:01:00",

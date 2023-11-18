@@ -1,12 +1,12 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 317036,
+  "num_followers": 317103,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmI5M2EwMWUxM2Y0NDg4MjgyODM2OTFiYjZiMjY5NGY1M2Q3MjQ1",
+  "snapshot_id": "MCxkMDRmMGNlMDE0M2NhYjYwMjY5NjJkNThjYjk3YWU4NmJhYTVjOTkw",
   "tracks": [
     {
       "added_at": "2023-10-11 08:48:19",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
+        "name": "Original Album Classics",
+        "url": "https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2"
+      },
+      "artists": [
+        {
+          "name": "Christophe",
+          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
+        }
+      ],
+      "duration_ms": 170840,
+      "name": "Aline",
+      "url": "https://open.spotify.com/track/7Jqh8o6yV7EeFokJX5gQsa"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
         "name": "Savoir Aimer",
         "url": "https://open.spotify.com/album/6f6O9rhUAlFv9y18O2AZ0p"
       },
@@ -335,6 +351,22 @@
       "duration_ms": 281213,
       "name": "Savoir aimer",
       "url": "https://open.spotify.com/track/0x8GIrcAO8msuslNoTKIXM"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "Fais comme l'oiseau",
+        "url": "https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP"
+      },
+      "artists": [
+        {
+          "name": "Michel Fugain & Le Big Bazar",
+          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "Une belle histoire",
+      "url": "https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -387,38 +419,6 @@
       "duration_ms": 214826,
       "name": "S'il suffisait d'aimer",
       "url": "https://open.spotify.com/track/5zvrDC409YAzhLjgMiDTy4"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
-        "name": "Original Album Classics",
-        "url": "https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2"
-      },
-      "artists": [
-        {
-          "name": "Christophe",
-          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
-        }
-      ],
-      "duration_ms": 170840,
-      "name": "Aline",
-      "url": "https://open.spotify.com/track/7Jqh8o6yV7EeFokJX5gQsa"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
-        "name": "Fais comme l'oiseau",
-        "url": "https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP"
-      },
-      "artists": [
-        {
-          "name": "Michel Fugain & Le Big Bazar",
-          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
-        }
-      ],
-      "duration_ms": 195306,
-      "name": "Une belle histoire",
-      "url": "https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
+        "name": "De L' Amour Le Mieux",
+        "url": "https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD"
+      },
+      "artists": [
+        {
+          "name": "Natasha St-Pier",
+          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
+        }
+      ],
+      "duration_ms": 298960,
+      "name": "Tu trouveras",
+      "url": "https://open.spotify.com/track/6kaD0ve95sXjnq6EITyVkv"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
         "name": "N\u00b04",
         "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
       },
@@ -723,18 +739,18 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "De L' Amour Le Mieux",
-        "url": "https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD"
+        "name": "Original Album Classics",
+        "url": "https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2"
       },
       "artists": [
         {
-          "name": "Natasha St-Pier",
-          "url": "https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch"
+          "name": "Christophe",
+          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
         }
       ],
-      "duration_ms": 298960,
-      "name": "Tu trouveras",
-      "url": "https://open.spotify.com/track/6kaD0ve95sXjnq6EITyVkv"
+      "duration_ms": 250613,
+      "name": "Les mots bleus",
+      "url": "https://open.spotify.com/track/2g0iE5qCFBlT86XalEsfKf"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -767,22 +783,6 @@
       "duration_ms": 207133,
       "name": "10 ans de nous",
       "url": "https://open.spotify.com/track/6IiHR8CKiV1GLs49dQBCq2"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
-        "name": "Original Album Classics",
-        "url": "https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2"
-      },
-      "artists": [
-        {
-          "name": "Christophe",
-          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
-        }
-      ],
-      "duration_ms": 250613,
-      "name": "Les mots bleus",
-      "url": "https://open.spotify.com/track/2g0iE5qCFBlT86XalEsfKf"
     },
     {
       "added_at": "2023-10-11 08:48:19",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-10-11 08:48:19",
       "album": {
-        "name": "La montagne 1964",
-        "url": "https://open.spotify.com/album/6uZiAcFO8d758nOs687gfg"
-      },
-      "artists": [
-        {
-          "name": "Jean Ferrat",
-          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Que serais-je sans toi",
-      "url": "https://open.spotify.com/track/2GnJ1XGXv7emJvtuOrM7lQ"
-    },
-    {
-      "added_at": "2023-10-11 08:48:19",
-      "album": {
         "name": "Triple Best Of",
         "url": "https://open.spotify.com/album/2cgWvXNypu7gi27yC7pB18"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 206280,
       "name": "Hymne \u00e0 l'amour",
       "url": "https://open.spotify.com/track/7vBb8Ls4yNkNah0Lbo5jTY"
+    },
+    {
+      "added_at": "2023-10-11 08:48:19",
+      "album": {
+        "name": "La montagne 1964",
+        "url": "https://open.spotify.com/album/6uZiAcFO8d758nOs687gfg"
+      },
+      "artists": [
+        {
+          "name": "Jean Ferrat",
+          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Que serais-je sans toi",
+      "url": "https://open.spotify.com/track/2GnJ1XGXv7emJvtuOrM7lQ"
     },
     {
       "added_at": "2023-10-11 08:48:19",

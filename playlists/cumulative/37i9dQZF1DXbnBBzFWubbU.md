@@ -4,7 +4,7 @@
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-91 songs - 6 hr 25 min
+92 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [New York Giddha](https://open.spotify.com/track/2kXgHvTF9tmfNeVs0pFC41) | [Kahani](https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb), [HARJI](https://open.spotify.com/artist/18R0lz0DARyexnEAaWaYds) | [New York Giddha](https://open.spotify.com/album/5m8VcRuGcQ8wBZob7bu1Iw) | 5:13 | 2023-08-18 |  |
 | [O Mera Dil \- Auztin Pauers & Ezrael Remix](https://open.spotify.com/track/6Y6XCkcKtSowCbIaH7YrMq) | [Mr Raoul K](https://open.spotify.com/artist/2ErWVVcMH1io3Au40dTKnG), [Auztin Pauers](https://open.spotify.com/artist/0RgH3SericNk1hSGQ5U2wc), [Ezrael](https://open.spotify.com/artist/5JsjuFOM9BwVl1NwnjoqRL) | [African Paradigm Ep II](https://open.spotify.com/album/6dBot76WDcy7Znhcdw0kyj) | 5:52 | 2023-08-18 |  |
 | [Padmini Premier](https://open.spotify.com/track/1cPJtrIYLUqzKQIPZg6Fs7) | [Fake Tattoos](https://open.spotify.com/artist/6Gdx8MYQZE7RHueDcYWfqx) | [Padmini Premier](https://open.spotify.com/album/3gZcdavtizhRfTtGFleSIt) | 5:14 | 2023-08-18 |  |
-| [Pali](https://open.spotify.com/track/51CJlM8PSO8rW77NFjbp15) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Avneet Khurmi](https://open.spotify.com/artist/25rYHJjDq8FFPApQnj3LXT) | [Pali](https://open.spotify.com/album/5FBaOyvLb0hJ8ahrrKnBUi) | 2:59 | 2023-08-18 |  |
+| [Pali](https://open.spotify.com/track/4jvrLxIw2hGRDNsOt9PEGs) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Avneet Khurmi](https://open.spotify.com/artist/25rYHJjDq8FFPApQnj3LXT) | [Pali](https://open.spotify.com/album/0Hvpv9kEqwM5wFqRky6WTf) | 2:59 | 2023-10-27 |  |
+| [Pali](https://open.spotify.com/track/51CJlM8PSO8rW77NFjbp15) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Avneet Khurmi](https://open.spotify.com/artist/25rYHJjDq8FFPApQnj3LXT) | [Pali](https://open.spotify.com/album/5FBaOyvLb0hJ8ahrrKnBUi) | 2:59 | 2023-08-18 | 2023-11-18 |
 | [Pan Jabi](https://open.spotify.com/track/3wd4oqBJFIu1jjLhlWgsVw) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Pan Jabi](https://open.spotify.com/album/0iUrCDGe8kZITt1Gu2Jy5G) | 2:47 | 2023-08-18 |  |
 | [Papi \(Bhabi\)](https://open.spotify.com/track/2jxJzUWxqX2fnQTD9lmi2x) | [Eden Shalev](https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe) | [Papi \(Bhabi\)](https://open.spotify.com/album/3CmWvWiEAkuipFIqyhs5ps) | 5:46 | 2023-08-18 |  |
 | [Patha Patha Gugu \- Drill Remix](https://open.spotify.com/track/5kHSMRbZKyGwaSwNSRrQXV) | [Trinix Remix](https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ) | [Patha Patha Gugu \(Drill Remix\)](https://open.spotify.com/album/6UGreHTcQAYRnZCK5RO8Gr) | 2:07 | 2023-08-18 | 2023-11-02 |

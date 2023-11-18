@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 191973,
       "name": "Darkness I Feel",
       "url": "https://open.spotify.com/track/43haQPyxARYypn8u8ocsym"
@@ -1084,6 +1084,24 @@
       "duration_ms": 147423,
       "name": "Don't Tell Me No Lies",
       "url": "https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt"
+    },
+    {
+      "album": {
+        "name": "Diving Into the Arms of the Divine",
+        "url": "https://open.spotify.com/album/6zQOhCl7CaatexcxuncqxK"
+      },
+      "artists": [
+        {
+          "name": "SPELLES",
+          "url": "https://open.spotify.com/artist/76UfJrb52tTTiDQNWEeCBY"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256040,
+      "name": "Double Life",
+      "url": "https://open.spotify.com/track/4rrunCmiAMZvC9hAZ9EEr9"
     },
     {
       "album": {
@@ -3241,6 +3259,28 @@
     },
     {
       "album": {
+        "name": "Save this Soul",
+        "url": "https://open.spotify.com/album/7E8mG7mXC9ONpeYMb0mWQt"
+      },
+      "artists": [
+        {
+          "name": "Ryan Innes",
+          "url": "https://open.spotify.com/artist/0vBolemsRxQhb3TFeM4C79"
+        },
+        {
+          "name": "Seibold",
+          "url": "https://open.spotify.com/artist/2K5tyaxKm3dWuyFyf0jtaR"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196036,
+      "name": "Save this Soul",
+      "url": "https://open.spotify.com/track/5tEQiMQgPDPR2XwXbGDUYe"
+    },
+    {
+      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/5cjzePZsDwF5W6LxCgyDXl"
       },
@@ -4114,7 +4154,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 155665,
       "name": "The Man Was Burning",
       "url": "https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv"

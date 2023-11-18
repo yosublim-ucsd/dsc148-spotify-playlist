@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/3iTuXWdNjq2uPoi2tW0rZW"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Doctor P",
+          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196713,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/252xDqb6Td8BCFqvX3QmM7"
+    },
+    {
+      "album": {
         "name": "2Nite",
         "url": "https://open.spotify.com/album/6UnSBFydjgagyhNaN2JJ1o"
       },
@@ -714,7 +736,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 273333,
       "name": "Badman",
       "url": "https://open.spotify.com/track/5RD6iZpOFkVuT3SW4eAHuZ"
@@ -1180,7 +1202,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 251600,
       "name": "Buckshots",
       "url": "https://open.spotify.com/track/7cl3BbyjU0AdCbbsf1lIx8"
@@ -1982,7 +2004,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 287000,
       "name": "Dead Man Walking",
       "url": "https://open.spotify.com/track/1BocvYKP6Khn2AXOLqNmUS"
@@ -2639,6 +2661,32 @@
     },
     {
       "album": {
+        "name": "Emergency (Decimate Remix)",
+        "url": "https://open.spotify.com/album/2fugF9XaheU9yu9ue9lhhm"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        },
+        {
+          "name": "Decimate",
+          "url": "https://open.spotify.com/artist/6JvIjkaONqopTk15bnpLjz"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218482,
+      "name": "Emergency - Decimate Remix",
+      "url": "https://open.spotify.com/track/2ehpYlVgSg4RBCmYFwwxXp"
+    },
+    {
+      "album": {
         "name": "Encrypted",
         "url": "https://open.spotify.com/album/5kRnZ2iYR9hMmDrhrXpx4j"
       },
@@ -2823,6 +2871,28 @@
     },
     {
       "album": {
+        "name": "F.Y.U.",
+        "url": "https://open.spotify.com/album/6VVz3SsKCYbokxhmfzm38Q"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161708,
+      "name": "F.Y.U.",
+      "url": "https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb"
+    },
+    {
+      "album": {
         "name": "Faded",
         "url": "https://open.spotify.com/album/3DutHGfBaQnYtiJSlPblod"
       },
@@ -2889,6 +2959,32 @@
     },
     {
       "album": {
+        "name": "Fall Apart (GHENGAR Remix)",
+        "url": "https://open.spotify.com/album/6fIBa7iKh7dbFt9m13o35N"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "GHENGAR",
+          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228800,
+      "name": "Fall Apart - GHENGAR Remix",
+      "url": "https://open.spotify.com/track/5iL0iMVwZVVfi3VxlVzf1A"
+    },
+    {
+      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/0jdqEWHHbDgli25Ap6gHbx"
       },
@@ -2918,7 +3014,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 178758,
       "name": "Feedback",
       "url": "https://open.spotify.com/track/7ejEHmuauEs9xcqSGlcwXL"
@@ -3278,7 +3374,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 210666,
       "name": "FUNKONAUT",
       "url": "https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec"
@@ -3690,6 +3786,24 @@
       "duration_ms": 227200,
       "name": "HAPPY SONG",
       "url": "https://open.spotify.com/track/4nCW3tSl82LPbmrrwYpF4b"
+    },
+    {
+      "album": {
+        "name": "Harbinger",
+        "url": "https://open.spotify.com/album/0r3xaFwxUxbiv4mLHfwjC2"
+      },
+      "artists": [
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217714,
+      "name": "Harbinger",
+      "url": "https://open.spotify.com/track/64uTfqJRxzLfkBlPxVYi4K"
     },
     {
       "album": {
@@ -5216,7 +5330,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 190400,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8"
@@ -5326,7 +5440,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 228720,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/46brJGJA9VTxjTGVfw41gu"
@@ -5370,7 +5484,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 240380,
       "name": "Mitosis",
       "url": "https://open.spotify.com/track/0zOqoAh2thAbmju80p850h"
@@ -5782,7 +5896,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 147200,
       "name": "NOT THE ONE",
       "url": "https://open.spotify.com/track/1zT5ymdKPYUJBNLa85FIBN"
@@ -5866,7 +5980,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 162253,
       "name": "Obsidian Vortex",
       "url": "https://open.spotify.com/track/6O6ePDpaKefShKvHezsWqc"
@@ -6318,6 +6432,24 @@
       "duration_ms": 134400,
       "name": "POP DAT",
       "url": "https://open.spotify.com/track/0QlBuSVxXyYw7HGNC2PAtd"
+    },
+    {
+      "album": {
+        "name": "CROWN OF TORMENT",
+        "url": "https://open.spotify.com/album/5eZvQ2sA1DFSXILHEvnhYv"
+      },
+      "artists": [
+        {
+          "name": "MARAUDA",
+          "url": "https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "PORTAL TO SIN",
+      "url": "https://open.spotify.com/track/0eLVe0R4EKX9wCtnoCzAnO"
     },
     {
       "album": {
@@ -7266,7 +7398,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 260808,
       "name": "Run It",
       "url": "https://open.spotify.com/track/50ORNvMk1shGimoj02FBrj"
@@ -7894,7 +8026,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 310607,
       "name": "Skins",
       "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
@@ -7960,7 +8092,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 225103,
       "name": "Solar Plexus",
       "url": "https://open.spotify.com/track/3cxiRmB1lT8GGrUup4E0w9"
@@ -8788,7 +8920,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "The Epic",
       "url": "https://open.spotify.com/track/0AhFGeVzLGn3VaPplKhSKZ"
@@ -8940,7 +9072,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 240000,
       "name": "The Traveler",
       "url": "https://open.spotify.com/track/3WMVtc62GJK51VQLzyZCBa"
@@ -9218,7 +9350,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 191538,
       "name": "Trauma Queen",
       "url": "https://open.spotify.com/track/1kIXXNc6CUbi0xbnpSHJRc"

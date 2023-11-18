@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-170 songs - 7 hr 50 min
+171 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Meditación y Relajación](https://open.spotify.com/track/2LzH9GCpJ1VTs0eUj1d7pk) | [Calamantos](https://open.spotify.com/artist/4sk5GtqBchPEuDVcOASDXy) | [Meditación y Relajación](https://open.spotify.com/album/1akKbD4zOeu2Swv8Fh295S) | 3:19 | 2023-04-24 |  |
 | [meloh](https://open.spotify.com/track/3j6ZZ8CdOOxTauHtiDVxuQ) | [Julio Raass](https://open.spotify.com/artist/0nlv8kK2en351d6V4cQJq4) | [meloh](https://open.spotify.com/album/3JGENPKwjfu9LD8Qv6FGfd) | 3:00 | 2023-10-26 |  |
 | [Melusina Alba](https://open.spotify.com/track/2ndnjV4KpneBCYRHALd8Ro) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Melusina Alba](https://open.spotify.com/album/4HYOInJP0f608sH2178lN9) | 2:13 | 2023-01-24 |  |
-| [Memories](https://open.spotify.com/track/2zRxcMhwGXa3E5qFoZtJLk) | [Nerea Vallée](https://open.spotify.com/artist/4y63TWHzQ5P62UUfmYUnnl) | [Memories](https://open.spotify.com/album/4B0JwI7zpob5jHPBDrTOO0) | 2:42 | 2023-10-26 |  |
+| [Memories](https://open.spotify.com/track/2zRxcMhwGXa3E5qFoZtJLk) | [Nerea Vallée](https://open.spotify.com/artist/4y63TWHzQ5P62UUfmYUnnl) | [Memories](https://open.spotify.com/album/4B0JwI7zpob5jHPBDrTOO0) | 2:42 | 2023-10-26 | 2023-11-18 |
 | [Mend Minds](https://open.spotify.com/track/50hUqlzcAXBLXlpXjuM9eV) | [Alfred Mizzi](https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp) | [Mend Minds](https://open.spotify.com/album/5wYqv4QR805QV56BtBuS6V) | 3:01 | 2023-04-24 |  |
 | [Micelle](https://open.spotify.com/track/6B93bHTKbd7Tv4F3U267ga) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [Micelle](https://open.spotify.com/album/2ZuVz9Mjtohq1taNses5ym) | 2:07 | 2023-01-24 | 2023-02-14 |
 | [Morning blizz](https://open.spotify.com/track/1QTM0kaUZC52uJjzhDw1WH) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Morning blizz](https://open.spotify.com/album/7dETgeWYpPyh1m6NQYBrBh) | 2:04 | 2023-04-06 |  |
@@ -130,6 +130,7 @@
 | [Perfect State Of Mind](https://open.spotify.com/track/6r0Y7BP8NlfVNrss5bByJJ) | [Pine River](https://open.spotify.com/artist/7HsoTMNjOjjMVQNVzmxCRN) | [Perfect State Of Mind](https://open.spotify.com/album/3BWdIyNrO18p22YN43Fh3b) | 2:35 | 2023-03-13 |  |
 | [Piccola Valle Verde](https://open.spotify.com/track/1luHl5aJg7nei9z6bXhw1a) | [Die Kaiserin](https://open.spotify.com/artist/76TYz19NwovIfQ1hS7g0LV) | [Piccola Valle Verde](https://open.spotify.com/album/331p32IoM4u2VYT264nO4g) | 2:57 | 2023-04-06 |  |
 | [Places Of Placidity](https://open.spotify.com/track/5oZNphGYdRj0rJNGgStbly) | [Gino Carbone](https://open.spotify.com/artist/6GHpZni4assd8ljmgjhMix) | [Places Of Placidity](https://open.spotify.com/album/1x3a9URe9AivSduWwuo6m4) | 3:00 | 2023-03-13 |  |
+| [Pneuma](https://open.spotify.com/track/1RcsFHk4cpJXZD7HvKtPdr) | [Omiophyllus](https://open.spotify.com/artist/6qgzkp2OY1uBlebnJxfOlx) | [Pneuma](https://open.spotify.com/album/22R3fV6MCMZZl6DJN4UNxI) | 3:25 | 2023-10-26 |  |
 | [Practicing Zen](https://open.spotify.com/track/29rvpxK8xiy7ojQvtnrGPd) | [Hannes Holm](https://open.spotify.com/artist/0lMiEQ2kYIGuFLR0Hdj8c7) | [Practicing Zen](https://open.spotify.com/album/1Djv6M8f1UCud5NQxSPlrm) | 4:04 | 2023-03-13 |  |
 | [Prakrti](https://open.spotify.com/track/72WBF6dxJLFHsuyWnLYqja) | [Hashree](https://open.spotify.com/artist/15UsQSphJsVhQ89KBQ5i2G) | [Prakrti](https://open.spotify.com/album/0HlFC6UnZo6M0yZTC39sYM) | 2:57 | 2023-07-28 |  |
 | [Prayer For Peace](https://open.spotify.com/track/6vy6tvn35Xdg5xXKPEqep1) | [Calma Totalis](https://open.spotify.com/artist/1s9skrP96FBxQyrPC3mlVy) | [Prayer For Peace](https://open.spotify.com/album/4pW97ofmIZv4xnIEP9GKH0) | 3:03 | 2023-10-26 |  |

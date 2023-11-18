@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Death Lens
 
-1,447 songs - 3 day 0 hr 23 min
+1,449 songs - 3 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -651,7 +651,8 @@
 | [It's good to be back \- Metronomy x Panic Shack](https://open.spotify.com/track/7cmv2VrzPsqGopOhAWseUq) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [It's good to be back](https://open.spotify.com/album/7jOycXVNmMBrsJHjjxBhEr) | 3:15 | 2022-11-11 | 2023-02-24 |
 | [It's Not A Problem](https://open.spotify.com/track/5Wvz3IwfAUk81KQikNEvdU) | [No Fun At All](https://open.spotify.com/artist/6usO1o98RY3cUWxqaQxi8O) | [It's Not A Problem](https://open.spotify.com/album/2Xhq4BlVM0dlAA9guQNCSs) | 2:25 | 2022-07-21 | 2022-09-09 |
 | [It's Over](https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [It's Over](https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9) | 3:23 | 2021-12-17 | 2022-02-04 |
-| [Jack](https://open.spotify.com/track/3HqjkJozv732dGgTlc4NMC) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Attachment Styles](https://open.spotify.com/album/4OZKA1eD8E5PUSw2bfTWSY) | 1:52 | 2023-11-17 |  |
+| [Jack](https://open.spotify.com/track/0QPA0bWIhjHl10AWeW4Qvc) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Attachment Styles](https://open.spotify.com/album/2gfaV8aoCpb2VkZrcpf42S) | 1:52 | 2023-11-17 |  |
+| [Jack](https://open.spotify.com/track/3HqjkJozv732dGgTlc4NMC) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Attachment Styles](https://open.spotify.com/album/4OZKA1eD8E5PUSw2bfTWSY) | 1:52 | 2023-11-17 | 2023-11-18 |
 | [Jailbird](https://open.spotify.com/track/3mEooIZqZjH5ZWsE6O5DB1) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Jailbird](https://open.spotify.com/album/7sJyRhlNEUcugjEOpeROYY) | 2:45 | 2022-06-23 | 2022-08-05 |
 | [JOBBO](https://open.spotify.com/track/66Q43IqfBKE9WB4BGOrWk7) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [JOBBO](https://open.spotify.com/album/7d4ZjFxww7e7XRtkghcGOq) | 3:04 | 2021-12-17 | 2022-01-21 |
 | [Johnny's Dead](https://open.spotify.com/track/6qh5yE6FEk0n6hsCufMIX6) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [Johnny's Dead](https://open.spotify.com/album/5y8pk29U5u1ZF2Woi7jqgn) | 2:37 | 2023-08-03 | 2023-09-29 |
@@ -1074,7 +1075,8 @@
 | [Screaming Undercover](https://open.spotify.com/track/6C3alSB70HEztctl5eATf3) | [Archers Of Loaf](https://open.spotify.com/artist/0pNaVvqSvldpJl7pHpNoM9) | [Screaming Undercover](https://open.spotify.com/album/7FYl2WdA3ydhK8pxly66FJ) | 2:55 | 2022-08-25 | 2022-10-14 |
 | [SCUMBAG](https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [SCUMBAG](https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C) | 3:06 | 2023-10-26 |  |
 | [Second Best Friend](https://open.spotify.com/track/5rAYQCREFwikzzvV4ToAnI) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [The Brightest Days](https://open.spotify.com/album/65EjKAFPc043WetlaXNFtW) | 3:47 | 2023-06-15 | 2023-08-04 |
-| [Second Solution \- triple j Live at the Wireless 1998](https://open.spotify.com/track/71Ab6vKzlT8XYxR0HkSh0s) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [The Living End \(triple j Live at the Wireless 1998\)](https://open.spotify.com/album/5rHQ788x9MMwfTFYTbcI2T) | 4:50 | 2023-10-13 |  |
+| [Second Solution \(triple j Live at the Wireless 1998\)](https://open.spotify.com/track/5lKAEkVCsG4EEf7clxc2aK) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [The Living End \(triple j Live at the Wireless 1998\)](https://open.spotify.com/album/7pOAvc4lWutoGlD1vElIoi) | 4:50 | 2023-11-17 |  |
+| [Second Solution \- triple j Live at the Wireless 1998](https://open.spotify.com/track/71Ab6vKzlT8XYxR0HkSh0s) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [The Living End \(triple j Live at the Wireless 1998\)](https://open.spotify.com/album/5rHQ788x9MMwfTFYTbcI2T) | 4:50 | 2023-10-13 | 2023-11-18 |
 | [See the Splendor](https://open.spotify.com/track/5yFNV83QQXGMIuGcjkglI1) | [No Fun At All](https://open.spotify.com/artist/6usO1o98RY3cUWxqaQxi8O) | [See the Splendor](https://open.spotify.com/album/6yWeBUDjeXYTjeZXjMxL1t) | 3:09 | 2022-09-08 | 2023-01-13 |
 | [See You Tomorrow](https://open.spotify.com/track/5padbaZoTAOhuQS3ILPb9O) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [See You Tomorrow](https://open.spotify.com/album/43oTWFkoNJ6DZYaPddDavi) | 2:43 | 2023-03-03 | 2023-04-14 |
 | [Seeing Red \(with Dusty Locane & Rah Swish\)](https://open.spotify.com/track/7eokpLlr9FBg6PdqzA2hLh) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Seeing Red](https://open.spotify.com/album/5niGkfpw5sNpXPQnicsAKO) | 2:41 | 2022-10-13 | 2023-01-20 |

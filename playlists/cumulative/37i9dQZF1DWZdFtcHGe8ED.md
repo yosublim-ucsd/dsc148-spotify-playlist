@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-387 songs - 1 day 3 hr 36 min
+388 songs - 1 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A Song and a Promise](https://open.spotify.com/track/5s84j81naFIV5VKH7OafOS) | [Crim](https://open.spotify.com/artist/2p7rRgVQsbzdA8zkpb83Q2), [Olga from the Toy Dolls](https://open.spotify.com/artist/4vsRDn0PxIibLIM3yz52hL) | [A Song and a Promise](https://open.spotify.com/album/71a9u0aGd3xp7OghvvRKOG) | 3:29 | 2022-02-11 | 2022-02-16 |
 | [Activate](https://open.spotify.com/track/6K4sl3JE7oeuUhDJvy9ku3) | [Vektor](https://open.spotify.com/artist/09mNj9XgCqgg6usfeXOoBg) | [Activate](https://open.spotify.com/album/0rfHDsz52JsOhrqHSosKRs) | 3:30 | 2021-12-17 | 2022-11-13 |
 | [Agent Orange](https://open.spotify.com/track/0CDHN3Wk8JY0p5myySB0mS) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Ten Black Years: Best Of](https://open.spotify.com/album/4CkwJZRRMAFz8L0F2sBaWp) | 6:04 | 2022-07-13 | 2023-11-04 |
+| [Agent Orange](https://open.spotify.com/track/4TeBqPv7xL3To59h65prgK) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Ten Black Years \- Best Of](https://open.spotify.com/album/2wqXsiFeAsqhEuzHfE1VvR) | 6:04 | 2023-06-27 |  |
 | [Agent Orange](https://open.spotify.com/track/2Wu6LMO0Rx6Aa4LPHH1T95) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Agent Orange \(Re\-Release\)](https://open.spotify.com/album/62R0jgrQcPKgtBSJWZbgHY) | 6:05 | 2022-07-13 | 2022-07-29 |
 | [Agents of Steel](https://open.spotify.com/track/7vhN8nkLJKIlQIfhp6gkuE) | [Agent Steel](https://open.spotify.com/artist/1FQv3rI4iJPitbZiTxBGut) | [Skeptics Apocalypse](https://open.spotify.com/album/33w5Y1NMYvaifunYJJtDCT) | 3:03 | 2022-07-13 |  |
 | [Ahi Kā](https://open.spotify.com/track/2LjT8Sjr6Xpze082hJXoJG) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Ahi Kā](https://open.spotify.com/album/6yXaZhqRbOpofFX40IGmdN) | 3:46 | 2021-12-17 | 2022-07-28 |
@@ -51,7 +52,7 @@
 | [Blood On Your Hands](https://open.spotify.com/track/2SvaoXpigVKbipjqqAcoxG) | [Lost Society](https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN) | [No Absolution](https://open.spotify.com/album/7Jr3AHWcPDUAQx3gGFO4lD) | 3:54 | 2021-12-17 | 2022-08-21 |
 | [Bloody Rain](https://open.spotify.com/track/6tSDBDxtrQR4dEWWG5aymJ) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Bloody Rain](https://open.spotify.com/album/5aWuJV6GQ0whl0InQyMuqV) | 5:16 | 2021-12-17 | 2022-07-25 |
 | [Bombenhagel](https://open.spotify.com/track/4GQgQvZ00znkKCALpKhQSf) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Bombenhagel](https://open.spotify.com/album/3OWGH02j9Ituqld8RF4emS) | 6:06 | 2021-12-17 | 2022-12-03 |
-| [Bombs of Death](https://open.spotify.com/track/7CbiLWHAq3rxIer10vsU6U) | [Hirax](https://open.spotify.com/artist/1bCQy78PGFkaaHafPbsEnm) | [Not Dead Yet](https://open.spotify.com/album/6b01iIEWOLj2mED8zYLIl2) | 1:47 | 2022-07-13 |  |
+| [Bombs of Death](https://open.spotify.com/track/7CbiLWHAq3rxIer10vsU6U) | [Hirax](https://open.spotify.com/artist/1bCQy78PGFkaaHafPbsEnm) | [Not Dead Yet](https://open.spotify.com/album/6b01iIEWOLj2mED8zYLIl2) | 1:47 | 2022-07-13 | 2023-11-18 |
 | [Bonded by Blood](https://open.spotify.com/track/2riiohLaKgMFlu4RQT1MPV) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Bonded by Blood](https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD) | 3:44 | 2022-07-13 |  |
 | [Born of Hate](https://open.spotify.com/track/0KFBWumneVmEuoIxTbgNrA) | [Suicidal Angels](https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2) | [Years of Aggression](https://open.spotify.com/album/6S3yE9xu0weg5pulOBJPs5) | 4:17 | 2022-07-13 | 2023-11-10 |
 | [Born of Hate](https://open.spotify.com/track/7snzHEKAaNQvzl4VBhN9xQ) | [Suicidal Angels](https://open.spotify.com/artist/5Qb7CFfWNE9rlymfrFp5A2) | [Born of Hate](https://open.spotify.com/album/0GCuoA1qUQQS507pkgUkJo) | 4:17 | 2021-12-17 | 2022-07-29 |

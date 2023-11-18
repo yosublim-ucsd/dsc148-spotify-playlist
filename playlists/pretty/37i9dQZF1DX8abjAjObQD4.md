@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8abjAjObQD4.md) - [plain]
 
 > Your favorite folk songs, live\. Cover: John Prine
 
-[Spotify](https://open.spotify.com/user/spotify) - 454 likes - 67 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 465 likes - 67 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8abjAjObQD4.md) - [plain]
 | 7 | [Heartbeats \- Live](https://open.spotify.com/track/7jddYTraXSN0GPxFxDmnb5) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [The String Theory](https://open.spotify.com/artist/6gT9lfBqZ1R9BrSEuB09E1) | [Live In Europe](https://open.spotify.com/album/6lEMowwswvl955V51sNm88) | 2:55 |
 | 8 | [By and By \- Live](https://open.spotify.com/track/2CRRodIXF6xBPgIw8TmvV8) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Live from Newport Music Hall](https://open.spotify.com/album/3L3MtBSFX6iv3SoshnfG9a) | 4:59 |
 | 9 | [Scarborough Fair / Canticle \- Live at Carnegie Hall, New York, NY \- November 1969](https://open.spotify.com/track/5Jyvfm1u1mXxlnu2CDXfKF) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Live 1969](https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl) | 3:54 |
-| 10 | [Hallelujah \- Live at Sin\-é, New York, NY \- July/August 1993](https://open.spotify.com/track/6BZFeMHjTzzNLwJGirNDzJ) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Live At Sin\-é \(Legacy Edition\)](https://open.spotify.com/album/58NsNICf7hyif5WruzsLWc) | 9:15 |
-| 11 | [I Want You \- Live at Nippon Budokan Hall, Tokyo, Japan \- February 28, 1978](https://open.spotify.com/track/657ImOBEvaFXpGZn8Ck3LO) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [I Want You \(Live at Nippon Budokan Hall, Tokyo, Japan \- February 28, 1978\)](https://open.spotify.com/album/7abzPat9BsqJOZB5hn9TrT) | 2:31 |
+| 10 | [Going, Going, Gone \- Live at Nippon Budokan Hall, Tokyo, Japan \- February 28, 1978](https://open.spotify.com/track/2jaHpMuTVaEM2kFtAmkOHi) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Complete Budokan 1978 \(Live\)](https://open.spotify.com/album/6LosaBGHSd97BYSVI7x4ni) | 4:03 |
+| 11 | [Hallelujah \- Live at Sin\-é, New York, NY \- July/August 1993](https://open.spotify.com/track/6BZFeMHjTzzNLwJGirNDzJ) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Live At Sin\-é \(Legacy Edition\)](https://open.spotify.com/album/58NsNICf7hyif5WruzsLWc) | 9:15 |
 | 12 | [Suzanne \- Live](https://open.spotify.com/track/05LwDzXo5aeWXbwSsPk3yv) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Who by Fire \- Live Tribute to Leonard Cohen](https://open.spotify.com/album/4QtoNIqTWR3e5NVb833Bj2) | 3:40 |
 | 13 | [When You Come Back Down \- Live](https://open.spotify.com/track/4nwtwf7aPwGf14INPJTKNP) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Live from the Fox Theater](https://open.spotify.com/album/7lq39QANQUHMNp0DVNqscQ) | 5:03 |
 | 14 | [If We Were Vampires \- Live](https://open.spotify.com/track/26HDAFjCwSlyrJNeP8mex9) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Live from the Ryman](https://open.spotify.com/album/19652SxfYygBsLkqDhRUtw) | 4:26 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8abjAjObQD4.md) - [plain]
 | 30 | [The Times They Are A\-Changin' \- Live at Royal Festival Hall, London, UK \- May 1964](https://open.spotify.com/track/3WLuAuriiY82ESRvpmA8Ms) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Live 1962\-1966 \- Rare Performances From The Copyright Collections](https://open.spotify.com/album/3ndKursZKjdkhOKSkwHDLW) | 3:32 |
 | 31 | [It's Alright \- Live](https://open.spotify.com/track/4WTOFi76M3WRMoFJut9FMF) | [Karen Dalton](https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy) | [Cotton Eyed Joe \(Live in Boulder 1962\)](https://open.spotify.com/album/2mowv8kqWmt9MhmxqPH8X0) | 5:45 |
 | 32 | [Hope of A Lifetime \- Live](https://open.spotify.com/track/2zNlLVydiXIrDFRiEZyLqT) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Live From Lincoln Theatre](https://open.spotify.com/album/2URAmWVraCITERP0FeuAvX) | 3:32 |
-| 33 | [Where Do The Children Play \- Live From the United States, 1976](https://open.spotify.com/track/5Bzwra6Zc1N8OUTodLTKjh) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Majikat Earth Tour 1976 \(Live\)](https://open.spotify.com/album/68NajVn09hqWjSQwqcsQvo) | 3:20 |
+| 33 | [Where Do the Children Play \(Live from the United States, 1976\)](https://open.spotify.com/track/1SH335ij0bvPl9MyjmKHnp) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Majikat Earth Tour 1976 \(Live\)](https://open.spotify.com/album/6xXQLYVCQEEoNaHji8hgWa) | 3:20 |
 | 34 | [The Wine We Drink \(Live\)](https://open.spotify.com/track/5dROPgEBMfNvtwVDNpviwO) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Live at The Ryman](https://open.spotify.com/album/0GHH0BSTA9TOqqIUFPoYwb) | 4:03 |
 | 35 | [I And Love And You \- Live At Bojangles' Coliseum/2009](https://open.spotify.com/track/24pJL3LEPj3M6gciuQwFlU) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Live, Vol\. 3 \(Live At Bojangles' Coliseum/2009\)](https://open.spotify.com/album/1YpBPjLH0uwrJnP6PYnps6) | 5:27 |
 | 36 | [When I'm Alone \- Live](https://open.spotify.com/track/6YMZcOTzZVqhDjfnX3vLCQ) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Live at Union Chapel](https://open.spotify.com/album/1zUPAjOCU5TZmGRYH12OA3) | 3:40 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8abjAjObQD4.md) - [plain]
 | 66 | [I Went to the Store One Day \- Live from the Hamburg Elbphilharmonie on August 8, 2019](https://open.spotify.com/track/7slryHlEP6O1evLd8rvfnt) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Off\-Key in Hamburg](https://open.spotify.com/album/2LszbE4j2yEAQmTVv9fwLU) | 4:31 |
 | 67 | [Fur Coat Blues \(Live\)](https://open.spotify.com/track/0bgx8MHo22ea3yrmRqHBTi) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Live from Largo at the Coronet Theatre](https://open.spotify.com/album/12o0UlVSlCIYE1l2LvL2SW) | 4:01 |
 
-Snapshot ID: `MCwyYjU3NjY5YTY5MWYzZTYzMjc0YjNkZWM2NGQyYmQ1ZTI5M2VhZGNi`
+Snapshot ID: `MCxlMjBiYTdmYjQ2ZWViZWNlYzAwMWFmOWE1Y2NmODRmNmM4MzY5MTBi`

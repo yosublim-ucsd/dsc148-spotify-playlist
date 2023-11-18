@@ -1,12 +1,12 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 72832,
+  "num_followers": 72916,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzE1OWZhNWMwNjE2NzZmYWE5ZmNmZTQ1ZTM0MTc3MGEyYTVjZGYz",
+  "snapshot_id": "MCxjOWJmOWRiZWFkZmU3YzZjN2Q5ODAzN2Y4YjU1NjEyODY4MWY2NzRk",
   "tracks": [
     {
       "added_at": "2023-11-13 14:29:15",
@@ -575,26 +575,6 @@
     {
       "added_at": "2023-11-13 14:29:15",
       "album": {
-        "name": "VOC\u00ca SE ENTREGA PRA MIM, DESCE S\u00d3 MAIS UM POUQUINHO x BEAT RISADINHA",
-        "url": "https://open.spotify.com/album/44K9gZCrMa2B7TPz9Qt9AJ"
-      },
-      "artists": [
-        {
-          "name": "TIKTOK HITS",
-          "url": "https://open.spotify.com/artist/6tAbLbYX95ec4We3uKX9eK"
-        },
-        {
-          "name": "LC DAS CASINHAS",
-          "url": "https://open.spotify.com/artist/5WOCgbVvcC8JHGpraobo2C"
-        }
-      ],
-      "duration_ms": 166115,
-      "name": "VOC\u00ca SE ENTREGA PRA MIM, DESCE S\u00d3 MAIS UM POUQUINHO x BEAT RISADINHA",
-      "url": "https://open.spotify.com/track/4LMaUEcFZKgp2K7fdHeBNk"
-    },
-    {
-      "added_at": "2023-11-13 14:29:15",
-      "album": {
         "name": "Tranquil\u00e3o Speed",
         "url": "https://open.spotify.com/album/34fvOgLGTaHfwlvwOciAMn"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 139885,
       "name": "Tranquil\u00e3o Speed",
       "url": "https://open.spotify.com/track/6WpanZKjU4JEqJlG2D9mrM"
+    },
+    {
+      "added_at": "2023-11-13 14:29:15",
+      "album": {
+        "name": "VOC\u00ca SE ENTREGA PRA MIM, DESCE S\u00d3 MAIS UM POUQUINHO x BEAT RISADINHA",
+        "url": "https://open.spotify.com/album/44K9gZCrMa2B7TPz9Qt9AJ"
+      },
+      "artists": [
+        {
+          "name": "TIKTOK HITS",
+          "url": "https://open.spotify.com/artist/6tAbLbYX95ec4We3uKX9eK"
+        },
+        {
+          "name": "LC DAS CASINHAS",
+          "url": "https://open.spotify.com/artist/5WOCgbVvcC8JHGpraobo2C"
+        }
+      ],
+      "duration_ms": 166115,
+      "name": "VOC\u00ca SE ENTREGA PRA MIM, DESCE S\u00d3 MAIS UM POUQUINHO x BEAT RISADINHA",
+      "url": "https://open.spotify.com/track/4LMaUEcFZKgp2K7fdHeBNk"
     },
     {
       "added_at": "2023-11-13 14:29:15",
@@ -731,26 +731,6 @@
     {
       "added_at": "2023-11-13 14:29:15",
       "album": {
-        "name": "Semblante de Criminoso Speed",
-        "url": "https://open.spotify.com/album/4OapHKHJ62yQphWbquFKQt"
-      },
-      "artists": [
-        {
-          "name": "DJ Cayoo",
-          "url": "https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv"
-        },
-        {
-          "name": "MC Myres",
-          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
-        }
-      ],
-      "duration_ms": 98475,
-      "name": "Semblante de Criminoso Speed",
-      "url": "https://open.spotify.com/track/4NXhoDZKkhtWfulsgqsmOa"
-    },
-    {
-      "added_at": "2023-11-13 14:29:15",
-      "album": {
         "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
         "url": "https://open.spotify.com/album/4ZZFHTy6rCdrnbqCoEd0B7"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 136615,
       "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
       "url": "https://open.spotify.com/track/43qgbgEvGQKI8PofVgFFbH"
+    },
+    {
+      "added_at": "2023-11-13 14:29:15",
+      "album": {
+        "name": "Semblante de Criminoso Speed",
+        "url": "https://open.spotify.com/album/4OapHKHJ62yQphWbquFKQt"
+      },
+      "artists": [
+        {
+          "name": "DJ Cayoo",
+          "url": "https://open.spotify.com/artist/4cdmVPqOs2GXPoP4qJHJXv"
+        },
+        {
+          "name": "MC Myres",
+          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
+        }
+      ],
+      "duration_ms": 98475,
+      "name": "Semblante de Criminoso Speed",
+      "url": "https://open.spotify.com/track/4NXhoDZKkhtWfulsgqsmOa"
     },
     {
       "added_at": "2023-11-13 14:29:15",

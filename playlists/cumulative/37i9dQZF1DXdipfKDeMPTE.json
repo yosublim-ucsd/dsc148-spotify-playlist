@@ -338,6 +338,10 @@
         {
           "name": "takemefaraway",
           "url": "https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM"
+        },
+        {
+          "name": "Nick's chill factory",
+          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
         }
       ],
       "date_added": "2023-10-27",
@@ -960,7 +964,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 150187,
       "name": "Bitter Sea",
       "url": "https://open.spotify.com/track/1i0a3kPuCiCeIA2EHN6s8Y"
@@ -1028,6 +1032,10 @@
         {
           "name": "Slipp",
           "url": "https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e"
+        },
+        {
+          "name": "Nick's chill factory",
+          "url": "https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9"
         }
       ],
       "date_added": "2023-09-22",
@@ -1264,6 +1272,24 @@
       "duration_ms": 105789,
       "name": "burgundy",
       "url": "https://open.spotify.com/track/7HcbBm0hS43kmLSNclrAue"
+    },
+    {
+      "album": {
+        "name": "Burnt Coffee",
+        "url": "https://open.spotify.com/album/7JLxezcgbxK6owUxAtJnsA"
+      },
+      "artists": [
+        {
+          "name": "AAGAPE",
+          "url": "https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Burnt Coffee",
+      "url": "https://open.spotify.com/track/754aGQqZJaznJc5fc2lTbG"
     },
     {
       "album": {
@@ -1871,6 +1897,24 @@
     },
     {
       "album": {
+        "name": "Coffee Shop",
+        "url": "https://open.spotify.com/album/7iK96zBOzUB8ROy0qcMSvy"
+      },
+      "artists": [
+        {
+          "name": "ax am",
+          "url": "https://open.spotify.com/artist/1aYBi1snyye9aYO5Vs3OTO"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135146,
+      "name": "Coffee Shop",
+      "url": "https://open.spotify.com/track/43IS06oECXtadEuFCuqDiX"
+    },
+    {
+      "album": {
         "name": "Softer",
         "url": "https://open.spotify.com/album/1WvWdv5jyAbPHwEgT7nfbf"
       },
@@ -2055,6 +2099,24 @@
     },
     {
       "album": {
+        "name": "couch sitters",
+        "url": "https://open.spotify.com/album/25RSOMykbvd0dc9fTK8qkG"
+      },
+      "artists": [
+        {
+          "name": "mutedvibes",
+          "url": "https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154030,
+      "name": "couch sitters",
+      "url": "https://open.spotify.com/track/0jImgMHObhq0VhS6f9Qlla"
+    },
+    {
+      "album": {
         "name": "cozed up",
         "url": "https://open.spotify.com/album/2A31tqc7gJrxb2cMbdxbff"
       },
@@ -2084,7 +2146,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 135172,
       "name": "Creamy Soul",
       "url": "https://open.spotify.com/track/6HS4Aphquj6BcKN4N1j89w"
@@ -2558,7 +2620,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 122206,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/1wr8Q5WOf1VHvIW2XlJ6WS"
@@ -2674,6 +2736,24 @@
       "duration_ms": 122222,
       "name": "eclipse",
       "url": "https://open.spotify.com/track/5LEDsypBnPHkiczj4hzHNz"
+    },
+    {
+      "album": {
+        "name": "eclipse",
+        "url": "https://open.spotify.com/album/2whe5rcSytK3yTy2XuLwJm"
+      },
+      "artists": [
+        {
+          "name": "Mr Davies",
+          "url": "https://open.spotify.com/artist/2gLbE2Cr7iD5hNTTTFgY2K"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "eclipse",
+      "url": "https://open.spotify.com/track/54vkA47SBKkcsEYnFIXZRi"
     },
     {
       "album": {
@@ -3054,7 +3134,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 180705,
       "name": "Flock Of One",
       "url": "https://open.spotify.com/track/2roGG9SHTylEldxHBEDYu5"
@@ -3166,7 +3246,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 124500,
       "name": "formation lap",
       "url": "https://open.spotify.com/track/7I8wUsYXUME6ktOY0RprTr"
@@ -3380,6 +3460,24 @@
       "duration_ms": 144000,
       "name": "golden lanterns",
       "url": "https://open.spotify.com/track/5iZP8lfBCmz2oEwBfFvgh2"
+    },
+    {
+      "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/6U0FtCx12gkLnR4oD55oj9"
+      },
+      "artists": [
+        {
+          "name": "Bad Gherkin",
+          "url": "https://open.spotify.com/artist/15UGYmHXzD3KwCDTE2Xa4B"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140776,
+      "name": "Good Riddance",
+      "url": "https://open.spotify.com/track/1TokDvDC322LNnDEUqL4uv"
     },
     {
       "album": {
@@ -5555,6 +5653,24 @@
     },
     {
       "album": {
+        "name": "moon inhale",
+        "url": "https://open.spotify.com/album/3wrPhTn9llGGlRbVtvZudr"
+      },
+      "artists": [
+        {
+          "name": "Harvest Emotions",
+          "url": "https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128046,
+      "name": "moon inhale",
+      "url": "https://open.spotify.com/track/3AwO7k4camAuHP5jaowl0D"
+    },
+    {
+      "album": {
         "name": "Moon Shine",
         "url": "https://open.spotify.com/album/30WANbBaynnPKdkVBQHgjm"
       },
@@ -5896,6 +6012,24 @@
       "duration_ms": 218999,
       "name": "Night Light",
       "url": "https://open.spotify.com/track/2hskrU8u5ZU5X6sXUSLlVg"
+    },
+    {
+      "album": {
+        "name": "night mood",
+        "url": "https://open.spotify.com/album/7yrRTcBURvroZi2godJP0n"
+      },
+      "artists": [
+        {
+          "name": "Zoe Reed",
+          "url": "https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116083,
+      "name": "night mood",
+      "url": "https://open.spotify.com/track/1xc37uddWtDmS2RPcVEv47"
     },
     {
       "album": {
@@ -6766,7 +6900,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 132770,
       "name": "Perspective",
       "url": "https://open.spotify.com/track/0GlR1PvA9q4o23kWFxbzMn"
@@ -8559,6 +8693,24 @@
     },
     {
       "album": {
+        "name": "Summer Sleepy",
+        "url": "https://open.spotify.com/album/1iH4nyb3lQnA0kTRmmn6SC"
+      },
+      "artists": [
+        {
+          "name": "CARLO",
+          "url": "https://open.spotify.com/artist/3nIXVYOAqFzJuHWga0nGr0"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Summer Sleepy",
+      "url": "https://open.spotify.com/track/2BGHOiKSO7pR93tRVz3Sns"
+    },
+    {
+      "album": {
         "name": "Summertime Sangria",
         "url": "https://open.spotify.com/album/02Kt384yF4OiY627RTnKQU"
       },
@@ -8722,7 +8874,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 134112,
       "name": "Sushi Brain",
       "url": "https://open.spotify.com/track/6qsaBLpqxkxCkS2pUYDslr"
@@ -9872,7 +10024,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 138690,
       "name": "who's to say?",
       "url": "https://open.spotify.com/track/21VfOGn96ESFWTdQgavF9T"
@@ -9944,7 +10096,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 153600,
       "name": "Winter Train",
       "url": "https://open.spotify.com/track/5TzjQuckL7ApeKhSrCXBbZ"

@@ -1,12 +1,12 @@
 {
   "description": "Majestic and bold, these new and known worship songs are great for every day.  Cover artist: <a href=\"https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw\">Kim Walker-Smith</a>",
-  "num_followers": 541967,
+  "num_followers": 542111,
   "original_name": "Songs of Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MGViZDliY2E3N2M5YzY1YzI3YWI2ZDg4OTQ1NDZlNjkwNWY1OTFh",
+  "snapshot_id": "MCxiYjQ3ZWI2Yzg2ZWJhMmJkMzIxNjA3MDE0OWUxODM3YjhkNWU4Y2Nj",
   "tracks": [
     {
       "added_at": "2023-02-18 03:38:32",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "You Are the Avalanche",
-        "url": "https://open.spotify.com/album/21t1ObaaRvRIRRrF1bwlhw"
-      },
-      "artists": [
-        {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
-        },
-        {
-          "name": "Sarah McMillan",
-          "url": "https://open.spotify.com/artist/1taeI8pm5kXswB7L4603Tz"
-        }
-      ],
-      "duration_ms": 295720,
-      "name": "King of My Heart",
-      "url": "https://open.spotify.com/track/4HBXdr8LXB22UPBi191b6S"
-    },
-    {
-      "added_at": "2023-02-18 03:38:32",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/1xFAQGLd2GUNK0Ji9ss9TG"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 537866,
       "name": "Your Glory / Nothing But The Blood - Live",
       "url": "https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT"
+    },
+    {
+      "added_at": "2023-02-18 03:38:32",
+      "album": {
+        "name": "You Are the Avalanche",
+        "url": "https://open.spotify.com/album/21t1ObaaRvRIRRrF1bwlhw"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        },
+        {
+          "name": "Sarah McMillan",
+          "url": "https://open.spotify.com/artist/1taeI8pm5kXswB7L4603Tz"
+        }
+      ],
+      "duration_ms": 295720,
+      "name": "King of My Heart",
+      "url": "https://open.spotify.com/track/4HBXdr8LXB22UPBi191b6S"
     },
     {
       "added_at": "2023-02-18 03:38:32",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Aftershine",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Happy Asmara",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -226,6 +226,24 @@
       "duration_ms": 259512,
       "name": "angin dalu",
       "url": "https://open.spotify.com/track/658ox296pj18QSjzTBGWWy"
+    },
+    {
+      "album": {
+        "name": "Apik",
+        "url": "https://open.spotify.com/album/0U63NlQb7uOyrEMEv4TCRK"
+      },
+      "artists": [
+        {
+          "name": "Happy Asmara",
+          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342800,
+      "name": "Apik",
+      "url": "https://open.spotify.com/track/4wKs47lXYzgdkhEfU2X1L6"
     },
     {
       "album": {
@@ -4440,6 +4458,24 @@
       "duration_ms": 389906,
       "name": "Wingi Dele Saiki Tempe",
       "url": "https://open.spotify.com/track/5Q3c8a4Z12UyDXWDzwZfYc"
+    },
+    {
+      "album": {
+        "name": "Wirang",
+        "url": "https://open.spotify.com/album/4SckpzyjbJpKjXnWBxxWGs"
+      },
+      "artists": [
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318242,
+      "name": "Wirang",
+      "url": "https://open.spotify.com/track/31CJowm1yKm0GMKEEcODtP"
     },
     {
       "album": {

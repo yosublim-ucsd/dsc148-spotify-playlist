@@ -42,10 +42,28 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 160312,
       "name": "All Comes Back To You",
       "url": "https://open.spotify.com/track/1jYe6W2ctH2SuAjKGa4Fxi"
+    },
+    {
+      "album": {
+        "name": "All Comes Back To You",
+        "url": "https://open.spotify.com/album/5sF8cTLQirqDYQWJwzxq87"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2023-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160312,
+      "name": "All Comes Back To You",
+      "url": "https://open.spotify.com/track/4AkCyd9Nlbt8JprQq9V6o2"
     },
     {
       "album": {

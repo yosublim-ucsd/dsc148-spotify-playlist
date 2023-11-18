@@ -100,7 +100,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 207087,
       "name": "A Est\u00e1tua",
       "url": "https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s"
@@ -956,10 +956,32 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 185854,
       "name": "Broken By You (feat. Fresno)",
       "url": "https://open.spotify.com/track/1EHdm19uRPxleym1gLW9Cq"
+    },
+    {
+      "album": {
+        "name": "Power to Play (Deluxe)",
+        "url": "https://open.spotify.com/album/6twHmY6QETLwAp4oMBRAp8"
+      },
+      "artists": [
+        {
+          "name": "McFly",
+          "url": "https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd"
+        },
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185854,
+      "name": "Broken By You (feat. Fresno)",
+      "url": "https://open.spotify.com/track/41ATRo4jo08OFfyRPU77Y3"
     },
     {
       "album": {
@@ -5641,6 +5663,24 @@
     },
     {
       "album": {
+        "name": "V\u00caNUS\u2260netuno",
+        "url": "https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "PURGAT\u00d3RIO",
+      "url": "https://open.spotify.com/track/3CrwV01FCQHHsSvEX1XOWt"
+    },
+    {
+      "album": {
         "name": "Erasing Karma",
         "url": "https://open.spotify.com/album/1dZz30rUJ6za0cBguk9J5S"
       },
@@ -7206,6 +7246,10 @@
         {
           "name": "Pappa Jack",
           "url": "https://open.spotify.com/artist/5j8yCUAAtRgPbW98Eym3oo"
+        },
+        {
+          "name": "Igor Godoy",
+          "url": "https://open.spotify.com/artist/6XZXv7MIYiSLmAjx34eaeE"
         }
       ],
       "date_added": "2023-11-10",

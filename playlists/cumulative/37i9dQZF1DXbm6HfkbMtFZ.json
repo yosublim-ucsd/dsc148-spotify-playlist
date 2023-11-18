@@ -3289,6 +3289,28 @@
     },
     {
       "album": {
+        "name": "Mercury Rising",
+        "url": "https://open.spotify.com/album/6rK6K6wJ81LzF9TzlpnFA0"
+      },
+      "artists": [
+        {
+          "name": "Rae & Christian",
+          "url": "https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn"
+        },
+        {
+          "name": "Mark Foster",
+          "url": "https://open.spotify.com/artist/6wZCINbQf3l403J5o7AxLV"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168893,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/3tN1ckGx1wd2VYUQaGmcmT"
+    },
+    {
+      "album": {
         "name": "Back To Black (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
       },
@@ -6662,7 +6684,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 241663,
       "name": "Perfect Day",
       "url": "https://open.spotify.com/track/1IvmggBcaMBHaJaVaNak69"

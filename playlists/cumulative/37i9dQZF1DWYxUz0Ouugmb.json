@@ -595,6 +595,24 @@
     },
     {
       "album": {
+        "name": "Cinta Yang Rumit",
+        "url": "https://open.spotify.com/album/5IDUI32I8DRXTOUJnSradA"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245347,
+      "name": "Cinta Yang Rumit",
+      "url": "https://open.spotify.com/track/6Atv6SpeVJ0sgGyFlkcsGX"
+    },
+    {
+      "album": {
         "name": "Come Over (I\u2019m In Tresno)",
         "url": "https://open.spotify.com/album/2xuCjLACT2yowlV9XHVkWX"
       },

@@ -2,9 +2,9 @@
 
 ### [In The K\-Indie](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: YongYong\(용용\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: It's\(잇츠\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-611 songs - 1 day 13 hr 30 min
+612 songs - 1 day 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Certain mind](https://open.spotify.com/track/28qlIRtkUIVHNJEbS7nEgR) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Certain mind](https://open.spotify.com/album/1JB4MND4WBlaE9lUW1Yy73) | 5:14 | 2021-12-21 | 2022-07-02 |
 | [Cherry](https://open.spotify.com/track/5rQc2ZxLeXRcmusUrHDcVI) | [YOONCELL](https://open.spotify.com/artist/1JvaT2Ln0KyD2BH7apsQIT) | [Cherry](https://open.spotify.com/album/3SHy98pHEZyPAgfOEFRVIn) | 3:45 | 2021-12-21 | 2022-05-10 |
 | [CHERRY SHINE](https://open.spotify.com/track/2uMo1Dc6v2GVD75DjW3hyL) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [CHERRY SHINE](https://open.spotify.com/album/45ezUc1pJt4pFfT0nTNKG8) | 3:06 | 2022-03-21 | 2022-06-06 |
-| [Childhood](https://open.spotify.com/track/0pku1ikLOgKnYIYbhOTpbZ) | [신설희](https://open.spotify.com/artist/2zckyZYsxA25pSnmzlxlXa) | [Childhood](https://open.spotify.com/album/15yRqHXOXQUXfIuZE6iPhe) | 6:00 | 2023-11-10 |  |
+| [Childhood](https://open.spotify.com/track/0pku1ikLOgKnYIYbhOTpbZ) | [신설희](https://open.spotify.com/artist/2zckyZYsxA25pSnmzlxlXa) | [Childhood](https://open.spotify.com/album/15yRqHXOXQUXfIuZE6iPhe) | 6:00 | 2023-11-10 | 2023-11-18 |
 | [childhood of the sea \(Feat\. sowoon\)](https://open.spotify.com/track/7wQEL4LVsIE8NFYjFBftr4) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA), [sowoon](https://open.spotify.com/artist/5rKMlKMFlWa6D7BuplkjL0) | [childhood of the sea](https://open.spotify.com/album/6azHgQ3LbUgkGXmYnAwtET) | 4:22 | 2021-12-21 | 2022-05-11 |
 | [Childish](https://open.spotify.com/track/4QGPJZqJYuTpATRAS4Iuhl) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Childish](https://open.spotify.com/album/1h20JRQVqlyNfbcLiqk5sv) | 3:41 | 2022-03-31 | 2022-04-14 |
 | [Cho Shim](https://open.spotify.com/track/3aBUjaRyaYy4SeGgtWNQrb) | [Kiha & The Faces](https://open.spotify.com/artist/0oN8IZB1C3lY1ABKwJOu1I) | [Cho Shim](https://open.spotify.com/album/7my2kBdURtWlo6XGzFVYW8) | 3:16 | 2022-03-31 | 2022-04-07 |
@@ -151,8 +151,9 @@
 | [Everything To](https://open.spotify.com/track/34yB5TeQv4uNw2tdTtPQLW) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Everything To](https://open.spotify.com/album/0KoqY8z0QLw4hwVvgEGdvn) | 4:13 | 2022-03-31 | 2022-04-08 |
 | [Excuses](https://open.spotify.com/track/5vXtXSNxkkx3VQRfJiRYI9) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [yours, sincerely](https://open.spotify.com/album/5V0JQK17TUGPbtYiAdWlcA) | 3:51 | 2022-03-31 | 2022-04-10 |
 | [Expression](https://open.spotify.com/track/3TvohDfitHnEuXSJuJyIzr) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Expression](https://open.spotify.com/album/5LTSYg2669brAmWN7bjWG2) | 3:21 | 2021-12-21 | 2022-04-12 |
-| [Extinction](https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Animal](https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw) | 4:44 | 2023-08-29 |  |
+| [Extinction](https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Animal](https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw) | 4:44 | 2023-08-29 | 2023-11-18 |
 | [Eyes on you](https://open.spotify.com/track/1sdCoReUzXPLDIJ2i9ConA) | [Chimmi](https://open.spotify.com/artist/19bRgj5ThGcxiGkwvohFHJ) | [From Late Night](https://open.spotify.com/album/3h9UBeesVQIEfWyW4djtsD) | 3:56 | 2021-12-21 | 2022-07-27 |
+| [Fading Person, Fading Love](https://open.spotify.com/track/64yMSkIEN5JJWUOhtSd3hl) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Fading Person, Fading Love](https://open.spotify.com/album/7zm4iYoy893pHeRYQKLGVr) | 3:52 | 2023-11-15 |  |
 | [Failure story](https://open.spotify.com/track/1uPOeYYJW6uI4BSCSPjsM1) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [Flex](https://open.spotify.com/album/0xZT3BXMksrqFn0oKO33Qq) | 3:33 | 2022-01-27 | 2022-06-30 |
 | [FALL](https://open.spotify.com/track/6vUrSRRrSAcTUZMbGyds1C) | [DWIGON](https://open.spotify.com/artist/43IGet85Estmbg7gKpsOJa) | [All the Month I spent with you : OCTOBER](https://open.spotify.com/album/4DoGu8sHkPjfynT0GSA1wc) | 4:01 | 2022-03-31 | 2022-04-18 |
 | [Fallin'](https://open.spotify.com/track/1HshcipCZ4rEiNfKckNShW) | [Yoon Hyun Sang](https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2) | [Modern, Mild](https://open.spotify.com/album/2pEKX0SvaeJ289AtEEieL9) | 3:11 | 2021-12-12 | 2022-07-27 |
@@ -221,7 +222,7 @@
 | [How Can I \(feat\. Zoe Carovano\)](https://open.spotify.com/track/3L8NV1XmWMUdlSAttlJ5h5) | [Sentimental Scenery](https://open.spotify.com/artist/3tAtWjLnNyZqmvfLx2dDJ7), [Zoe Carovano](https://open.spotify.com/artist/58OjLCC4IqZGQBgN91m7DC) | [How Can I](https://open.spotify.com/album/4zxQtH7O7YqeBKh0ti0F22) | 3:23 | 2022-03-31 | 2022-04-11 |
 | [HOWL](https://open.spotify.com/track/10WHVzgIky5w6pIgG8tePU) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [HOWL](https://open.spotify.com/album/5BzJygUNWvRFzkUBI460Ob) | 3:32 | 2022-03-31 | 2022-04-11 |
 | [Hug](https://open.spotify.com/track/1yzPbQYfMcuJMlpWi8npDQ) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/1wnPosDt7DsSYDDLQ2XBdh) | 3:06 | 2022-04-12 | 2022-04-18 |
-| [Hug](https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:06 | 2022-09-20 | 2023-09-16 |
+| [Hug](https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:06 | 2022-09-20 |  |
 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 | 2022-05-11 |  |
 | [Hwi Hwi](https://open.spotify.com/track/1vx1TTe2ZZEkcGDXxpZrD1) | [HAYAN](https://open.spotify.com/artist/4qAzYmM90kRO5IX9MUhQjf) | [Hwi Hwi](https://open.spotify.com/album/2rPbOfaFDrb6WwzvLS98i6) | 3:10 | 2022-03-31 | 2022-04-16 |
 | [i](https://open.spotify.com/track/4h9jlv3tO0gm0i1mQ7o6hZ) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [i](https://open.spotify.com/album/4bXJUWoEn4L5fk0hwE0BPD) | 2:40 | 2022-05-02 | 2022-07-29 |
@@ -404,13 +405,13 @@
 | [Pluto](https://open.spotify.com/track/1wuZAvMhmqIecohHQYibED) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [Boong\-](https://open.spotify.com/album/0HANd2pgqDZkrpzx4lLvOc) | 3:55 | 2021-12-21 | 2022-07-25 |
 | [Pluto \(feat\. Woshi\)](https://open.spotify.com/track/7EaG6UP4h9EEFrz71ctqgV) | [Waizmin](https://open.spotify.com/artist/0H7VLFkfZZ5i1oEvrWKDBm), [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq) | [Pluto](https://open.spotify.com/album/2h5lZIXOeoLR0JJ07By9HP) | 3:26 | 2022-07-04 | 2022-07-09 |
 | [Pong Dang](https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Pong Dang](https://open.spotify.com/album/1pFgxq13Tw9ZU7owb3BTP2) | 3:53 | 2022-07-08 | 2022-07-12 |
-| [pony](https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [pony](https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc) | 3:01 | 2023-07-05 |  |
+| [pony](https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [pony](https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc) | 3:01 | 2023-07-05 | 2023-11-18 |
 | [Potential](https://open.spotify.com/track/6Lrp4HqonE16Tt8PDeOHbY) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Potential](https://open.spotify.com/album/1aF1e7wcTDiADgCGe6trPg) | 3:08 | 2022-06-20 | 2022-06-30 |
 | [Prettiest One](https://open.spotify.com/track/5jxBIft0pEtB3rJKs06dwv) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Prettiest One \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/1saFQAJ9to9vbnggAleSfm) | 3:08 | 2022-03-31 | 2022-06-17 |
 | [Private Language](https://open.spotify.com/track/5PXbAtE5H3e3SkWXenu07T) | [Pil Kyo](https://open.spotify.com/artist/2ZVOkp4yAY6v4mD4YR8Chw) | [Private Language](https://open.spotify.com/album/7z7fiojUks8WesV42xMf4r) | 4:11 | 2022-03-09 | 2022-07-29 |
 | [Process](https://open.spotify.com/track/6waS97d1u64uuKTKlCQZUh) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [H:Sean](https://open.spotify.com/artist/7IBTi3TEXXZXjXEIQDnKuG) | [Seoul Vibes, Pt\. 2](https://open.spotify.com/album/305IlQABjn12yFvGv1Uuc1) | 2:35 | 2022-03-31 | 2022-04-11 |
 | [Pseudoscience \(feat\. Chang Kiha\)](https://open.spotify.com/track/4ivKqBkDfSRYc3H2DBdBW3) | [Mudd the student](https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ), [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [Pseudoscience \(feat\. Chang Kiha\)](https://open.spotify.com/album/3leNJ19xRMO5HyTccjA5ce) | 3:48 | 2022-06-29 | 2022-07-09 |
-| [Punchdrunklovesong](https://open.spotify.com/track/31LkUlLS286dpY3LbAxRbg) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Cake CAKE](https://open.spotify.com/album/2iBGScS4eDpFVdPqZAFNhZ) | 1:21 | 2023-08-24 | 2023-10-02 |
+| [Punchdrunklovesong](https://open.spotify.com/track/31LkUlLS286dpY3LbAxRbg) | [Lacuna](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Cake CAKE](https://open.spotify.com/album/2iBGScS4eDpFVdPqZAFNhZ) | 1:21 | 2023-08-24 |  |
 | [Pure 투명](https://open.spotify.com/track/7cKU8ryCKEsxp9pA2A9It8) | [youngYEONG 영영](https://open.spotify.com/artist/2N5R9uumkNNHWPbeWlSSSW) | [Pure 투명](https://open.spotify.com/album/5jorT0muhGjTlZ1O2xHXdk) | 3:59 | 2022-03-07 | 2022-07-09 |
 | [Puzzle](https://open.spotify.com/track/5KqRRrD2Q9S0WNRFWssDKm) | [MEENA](https://open.spotify.com/artist/4qLPEVEbuZwDd8C8FDPpQn) | [Puzzle](https://open.spotify.com/album/0resjwv5sf8g5qblLITBGp) | 3:29 | 2022-03-31 | 2022-04-14 |
 | [Quince Tree](https://open.spotify.com/track/3GRm8zn22TL98gEZTweXRu) | [Yozoh](https://open.spotify.com/artist/2Y6RMrspOMXAYSD4U57qS7) | [Quince Tree](https://open.spotify.com/album/24fa0DG8OcGW2U9A0V2vbF) | 3:07 | 2021-12-21 | 2022-05-11 |

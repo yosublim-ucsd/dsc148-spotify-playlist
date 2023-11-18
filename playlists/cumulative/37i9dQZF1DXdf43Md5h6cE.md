@@ -4,7 +4,7 @@
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-192 songs - 12 hr 24 min
+194 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Matinaka](https://open.spotify.com/track/0fyvaevkqF24i9laNCyvgl) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Zanzou](https://open.spotify.com/album/7y23NtZPMebkQxHL8YY144) | 3:02 | 2022-05-19 |  |
 | [Memory Bliss](https://open.spotify.com/track/4N6BnfiGHfr0ufaK8oPsyv) | [Leya Watson](https://open.spotify.com/artist/39UfixE7ExBBDvdxM832Wn) | [Leave It All Behind](https://open.spotify.com/album/4Z4cjLPjCrgIKC0NgYyMdt) | 3:12 | 2023-09-19 |  |
 | [Milky Sea](https://open.spotify.com/track/324oRBwsXBuTVrlPHh5SqP) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 3:40 | 2022-05-19 |  |
+| [Mind Gardening](https://open.spotify.com/track/3QJEB3c8DP5BdVRoxnjH3w) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Mind Gardening](https://open.spotify.com/album/6WSiW6ysGr4mc3p9pCqG1V) | 2:27 | 2023-11-17 |  |
 | [Mixed Waves](https://open.spotify.com/track/5FuFjrRUGV0ZEXTEtk3luB) | [Soundscapes in Blue](https://open.spotify.com/artist/7Cvz7DJgZTwBAk8q6Jjy5e), [The Little Oak Project](https://open.spotify.com/artist/7cHzdlHgaXI9IDP73gkd1r) | [Miles and Miles Away](https://open.spotify.com/album/57tX0svPI2w5kmEGEHPcHC) | 3:05 | 2022-12-20 |  |
 | [moon balloon](https://open.spotify.com/track/7Dzcto6bubJGOQ6IloqxtI) | [Be Still the Earth](https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6) | [moon balloon](https://open.spotify.com/album/2yPY5BOOer5vs4J2FxWYbB) | 4:13 | 2022-09-23 |  |
 | [Moon of the Crusted Snow](https://open.spotify.com/track/2z0xcVWiSp0GBZ7YMHUu89) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Futures](https://open.spotify.com/album/1vOuSLwIsw8fLB3JFlFN8t) | 6:33 | 2022-05-19 |  |
@@ -150,6 +151,7 @@
 | [remembering grasshoppers](https://open.spotify.com/track/4cW3NRXreChDL9MYh2LHKL) | [Byelti](https://open.spotify.com/artist/6bdFkBtj91aLGfeMzRzXOQ), [demo sphere](https://open.spotify.com/artist/4austkFDBkQqxEUpnYnveI) | [Cirrus](https://open.spotify.com/album/6BDNBMYOVxBQVb3mgx18DT) | 5:46 | 2022-06-17 |  |
 | [Resonance Necklace](https://open.spotify.com/track/3BeKvMlTb7A3J2RV7WIjX9) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 5:55 | 2022-05-19 |  |
 | [Restoration](https://open.spotify.com/track/1KGD4VIjVMFOoSeKj056CM) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Restoration](https://open.spotify.com/album/5E77PrieLbxEL6tGBN053y) | 3:18 | 2023-01-27 |  |
+| [Restore Balance](https://open.spotify.com/track/0poXJM588xacjbjvZpgDpi) | [Beyond Time](https://open.spotify.com/artist/5jcdsaKY2dOyiAVuePI4a2) | [Restore Balance](https://open.spotify.com/album/1XGxRh9q1jpQsVN3SgRRVY) | 2:14 | 2023-11-17 |  |
 | [retreat](https://open.spotify.com/track/72IyK6qGDgNeLlpqS5BsNS) | [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [retreat](https://open.spotify.com/album/5RzMEYZDsUGeyqCw6azdAg) | 4:10 | 2022-09-06 |  |
 | [Reversing Existence](https://open.spotify.com/track/6BZjUJmyn7wu3NeYvDZrBI) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Apperception](https://open.spotify.com/album/5fMca3DSzcJFKY24ttQfFO) | 6:39 | 2022-05-19 | 2023-10-01 |
 | [Revolve](https://open.spotify.com/track/0X33Oo6yg2qlTsrFiH1qta) | [Sleepless Eye](https://open.spotify.com/artist/0q1jgFxjleKLegFYRiyPxS) | [Revolve](https://open.spotify.com/album/5x1eSN3IFw7QEbT9sm44w2) | 3:07 | 2023-09-19 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "100% British - 100% R&B. Cover: Elmiene",
+  "description": "100% British - 100% R&B. Cover: Dayo Bello",
   "name": "R&B UK",
   "tracks": [
     {
@@ -20,6 +20,28 @@
       "duration_ms": 142120,
       "name": "22",
       "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
+    },
+    {
+      "album": {
+        "name": "40 Days (feat. CKay)",
+        "url": "https://open.spotify.com/album/5mUEBoLPKIVyNlvulD40kL"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186586,
+      "name": "40 Days (feat. CKay)",
+      "url": "https://open.spotify.com/track/3RaFHuGXEgAH8k0J9kSF5x"
     },
     {
       "album": {
@@ -52,7 +74,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 147692,
       "name": "After The Day Party",
       "url": "https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb"
@@ -74,7 +96,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 246400,
       "name": "Aged Eyes",
       "url": "https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF"
@@ -172,7 +194,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 176571,
       "name": "Be My Guest",
       "url": "https://open.spotify.com/track/1qWBrP1q6NXXpQYYlryCFg"
@@ -386,7 +408,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 201600,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/5ROXBkqR69eWzAZnptk2z3"
@@ -564,7 +586,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 183987,
       "name": "Don't Get Ahead of Yourself",
       "url": "https://open.spotify.com/track/1s8Y0d650tKgE1qXsgzqgV"
@@ -908,7 +930,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 163516,
       "name": "Freudian Slips",
       "url": "https://open.spotify.com/track/16RzGIuWeutIpBbwBH1Zcm"
@@ -1108,7 +1130,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 159933,
       "name": "Got To Be Good",
       "url": "https://open.spotify.com/track/6yE6Pgow6jdsChOOAdKwaV"
@@ -1184,6 +1206,28 @@
       "duration_ms": 214000,
       "name": "Help Me Fight a Losing Battle",
       "url": "https://open.spotify.com/track/29Dpkv9ruNKicm9Xhx4mYL"
+    },
+    {
+      "album": {
+        "name": "Hennessy (feat. Blxst)",
+        "url": "https://open.spotify.com/album/6yhGlErwPSocayEPnkT9Vk"
+      },
+      "artists": [
+        {
+          "name": "Eric IV",
+          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144710,
+      "name": "Hennessy (feat. Blxst)",
+      "url": "https://open.spotify.com/track/61mRlOaLDoj6dhSuM81t3t"
     },
     {
       "album": {
@@ -1470,6 +1514,28 @@
       "duration_ms": 232706,
       "name": "In Too Deep (feat. Kiana Led\u00e9)",
       "url": "https://open.spotify.com/track/3nGhp4FuIaitNYn4s7XHaX"
+    },
+    {
+      "album": {
+        "name": "The Good Fight",
+        "url": "https://open.spotify.com/album/7B4EGze9lOlYOOVT1fPZL8"
+      },
+      "artists": [
+        {
+          "name": "Lord Apex",
+          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
+        },
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233761,
+      "name": "In Your Heart",
+      "url": "https://open.spotify.com/track/5J0hqgFzg27jSx041QP2AF"
     },
     {
       "album": {
@@ -1810,6 +1876,24 @@
       "duration_ms": 134626,
       "name": "Letter To Ur Ex",
       "url": "https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9"
+    },
+    {
+      "album": {
+        "name": "Little Blue Moon",
+        "url": "https://open.spotify.com/album/4BRgkGx8jvMncKLgugeVYp"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168146,
+      "name": "Little Blue Moon",
+      "url": "https://open.spotify.com/track/0Lmx2qlN2FbeGWgqTBzQ2k"
     },
     {
       "album": {
@@ -2338,7 +2422,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 217430,
       "name": "Passenger Princess",
       "url": "https://open.spotify.com/track/5ILp3IxMiSxucBx00cSWSr"
@@ -2446,7 +2530,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 84000,
       "name": "QUESTIONS!!",
       "url": "https://open.spotify.com/track/734lg5oZSquYMFJhBhsNCV"
@@ -2797,6 +2881,36 @@
     },
     {
       "album": {
+        "name": "Stolen",
+        "url": "https://open.spotify.com/album/2sVtn85VLn8JhH9Lsw4QWD"
+      },
+      "artists": [
+        {
+          "name": "Collard",
+          "url": "https://open.spotify.com/artist/3UHGHiVMz1L0XqFi3oXHvH"
+        },
+        {
+          "name": "Raelle",
+          "url": "https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc"
+        },
+        {
+          "name": "S. Fidelity",
+          "url": "https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW"
+        },
+        {
+          "name": "Gabiga",
+          "url": "https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260970,
+      "name": "Stolen",
+      "url": "https://open.spotify.com/track/0btt9Gjani8H6MnUAMtEsm"
+    },
+    {
+      "album": {
         "name": "Strange How Good Things Change",
         "url": "https://open.spotify.com/album/431GIE38nppu1zGX5EXJUj"
       },
@@ -3106,7 +3220,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 131612,
       "name": "Timeout",
       "url": "https://open.spotify.com/track/2nC1WhlcDRorkWmN6ApfHn"
@@ -3131,6 +3245,24 @@
     },
     {
       "album": {
+        "name": "U & I",
+        "url": "https://open.spotify.com/album/3ypZDA00UD5VEhPqwxTL2F"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "U & I",
+      "url": "https://open.spotify.com/track/7DaHNeYZ9kUJntu5R6rVnS"
+    },
+    {
+      "album": {
         "name": "Uptown",
         "url": "https://open.spotify.com/album/3DL2QS5GIpBAAGY24ciW2y"
       },
@@ -3142,7 +3274,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 195715,
       "name": "Uptown",
       "url": "https://open.spotify.com/track/5noIlg392n8MvtJdZrQYLB"
@@ -3222,7 +3354,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 166000,
       "name": "Wet",
       "url": "https://open.spotify.com/track/4n81q2eze3OCygCd1Cg2io"
@@ -3258,7 +3390,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 199146,
       "name": "When the Rain Comes",
       "url": "https://open.spotify.com/track/0mw1bEX0GYt1txWBjwGmRJ"
@@ -3280,6 +3412,24 @@
       "duration_ms": 205700,
       "name": "Whenever You're Ready",
       "url": "https://open.spotify.com/track/16Km3GR6GYMrIyVPk31DAe"
+    },
+    {
+      "album": {
+        "name": "White Tee / Long Walk",
+        "url": "https://open.spotify.com/album/0aJQ1Jbp8SmMBGy7Bi47OT"
+      },
+      "artists": [
+        {
+          "name": "No Guidnce",
+          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205030,
+      "name": "White Tee - Acoustic",
+      "url": "https://open.spotify.com/track/4GDgtRrv59oHpOXiiKaNMP"
     },
     {
       "album": {

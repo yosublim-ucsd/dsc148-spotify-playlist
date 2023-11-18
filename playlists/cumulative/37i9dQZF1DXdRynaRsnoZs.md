@@ -4,7 +4,7 @@
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-98 songs - 3 hr 49 min
+101 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Here Comes Santa Claus](https://open.spotify.com/track/4kw3uPY15M4yWHhScit9KR) | [Pietra Costa](https://open.spotify.com/artist/1LZGtjpaZT9G6VQstFr4MX) | [Navidad](https://open.spotify.com/album/6T1G9hiP19tScSIIeDqQT3) | 2:49 | 2021-12-22 |  |
 | [I Believe In Santa Claus](https://open.spotify.com/track/6Vm4eMLPr43DFlZ6stXEKc) | [Gold Axe](https://open.spotify.com/artist/3Vhv6wtaE2hyhQllaBBdd2) | [I Believe In Santa Claus](https://open.spotify.com/album/1ueh7lgp8KLCiBoA3ICEkH) | 2:02 | 2022-10-14 |  |
 | [I Do Believe In Christmas](https://open.spotify.com/track/4OSBtwVW5JAEt95XAafEYa) | [Lily Lullaby](https://open.spotify.com/artist/59q70buEf9vwjspG2sNLET) | [I Do Believe In Christmas](https://open.spotify.com/album/01p9D0KVlFWzGUY8580KdY) | 2:04 | 2023-10-27 |  |
-| [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/4lywk6avy47Pfa0z6z65wR) | [Vlad Kotsky](https://open.spotify.com/artist/4dXJTtjTNvhUGdt2j7CU2M) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/2eaychKI038gk5D6zdYHCO) | 1:44 | 2022-10-14 |  |
+| [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/6N1IeXVmfMBsboeEszaDYo) | [Anna Niva](https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/0bqSvjvoa6kdw4KDzoCPYO) | 1:12 | 2023-11-16 |  |
+| [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/4lywk6avy47Pfa0z6z65wR) | [Vlad Kotsky](https://open.spotify.com/artist/4dXJTtjTNvhUGdt2j7CU2M) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/2eaychKI038gk5D6zdYHCO) | 1:44 | 2022-10-14 | 2023-11-18 |
 | [I Saw Three Ships](https://open.spotify.com/track/6yJoCZIFEUx0UFhVmE2QDm) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Quietime \- Peace On Earth](https://open.spotify.com/album/5cVsi9sRldx6HLChLxTZcz) | 3:27 | 2021-12-22 | 2022-12-17 |
 | [I Saw Three Ships](https://open.spotify.com/track/7jB8pSChFzxNfGOIhHGNho) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Quietime \- Peace On Earth](https://open.spotify.com/album/26xeKrPelJVKuspC13ySh9) | 3:27 | 2021-12-22 | 2022-07-29 |
 | [I Saw Three Ships](https://open.spotify.com/track/3vbzj78wOFNBZykhXztXiT) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [I Saw Three Ships](https://open.spotify.com/album/4rXUlp3GgLqARaMmJ22siM) | 1:45 | 2022-12-16 |  |
@@ -77,10 +78,12 @@
 | [O Holy Night](https://open.spotify.com/track/32i2RMnxpMfTYBRGhNWZbb) | [Karen Joyce](https://open.spotify.com/artist/7yb60ZMXVj2XWFhMH8Yuxd) | [Christmas Harp For Babies](https://open.spotify.com/album/3kL1zKzvQYnnZbClSPZCoy) | 1:54 | 2022-09-22 |  |
 | [O Little Town Of Bethlehem Lullaby](https://open.spotify.com/track/6wG0W7L4nVL28C7s0YO81g) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Christmas Lullabies, Vol\. 2](https://open.spotify.com/album/34sTR4gJbGeXmRVUpltCxk) | 1:03 | 2022-12-16 |  |
 | [O Tannenbaum](https://open.spotify.com/track/7h63D3GIj99OkdMILmrCZf) | [Attila Fias](https://open.spotify.com/artist/3V1CgXZe3cFkJ9VDSeFKkl) | [Christmas Spa](https://open.spotify.com/album/6i7aQrxUd1jpAR6Ni95uib) | 5:05 | 2021-12-22 |  |
+| [Once in Royal David's City](https://open.spotify.com/track/0SCNnJ3DAYT3obCiGpEs5s) | [The Harpatons](https://open.spotify.com/artist/0PX2FmQQ5HuoI2uSsIhfKt) | [Once in Royal David's City](https://open.spotify.com/album/3uLkmeBBV0sDJVWt4TwyYo) | 2:04 | 2023-11-16 |  |
 | [One Day in December](https://open.spotify.com/track/6pT4DiBoFLZvI0QPXis1UY) | [Amala Dalton](https://open.spotify.com/artist/1r7NEL763CcvXXJ1OXw5FJ) | [One Day in December](https://open.spotify.com/album/72WA1OcHFJG0qhJEwhsxFl) | 1:26 | 2022-11-23 |  |
 | [Petit Papa Noël](https://open.spotify.com/track/6OwstAX8yxSqc3itLP03hF) | [Brandon Mills](https://open.spotify.com/artist/0lfAQQLGm6TkTJ4JL9La2z) | [Petit Papa Noël](https://open.spotify.com/album/7HiT8CeoS3mij30fdTMxX1) | 2:33 | 2022-10-14 |  |
 | [Rudolph the Red\-Nosed Reindeer](https://open.spotify.com/track/2BoZggvVcb2crngoyJKIYK) | [Loona Björk](https://open.spotify.com/artist/2k0OWZxkmZYagyvm0lP2Jz) | [Christmas Songs Peaceful Harp](https://open.spotify.com/album/04atZZp9uct3Golu1zeEcP) | 1:53 | 2023-10-27 |  |
-| [Silent Night](https://open.spotify.com/track/3sPnX1oNBvVfxf8NzhsZQf) | [Ginga Nesto](https://open.spotify.com/artist/1dNyjcuUQztBbx0zk7MBRc) | [You Are My Sunshine \- Harp Classics](https://open.spotify.com/album/5a8OWw2hbEJofxPO4YFwBE) | 3:24 | 2021-12-22 |  |
+| [Silent Night](https://open.spotify.com/track/1DR9eaJOZgazwu5PZWBr7H) | [Elsa Ekelöf](https://open.spotify.com/artist/4inKxBzHNdu9I7yp2iY8e8) | [Silent Night](https://open.spotify.com/album/6GXdvyxnjzBYejYmdFMO4T) | 2:26 | 2023-11-16 |  |
+| [Silent Night](https://open.spotify.com/track/3sPnX1oNBvVfxf8NzhsZQf) | [Ginga Nesto](https://open.spotify.com/artist/1dNyjcuUQztBbx0zk7MBRc) | [You Are My Sunshine \- Harp Classics](https://open.spotify.com/album/5a8OWw2hbEJofxPO4YFwBE) | 3:24 | 2021-12-22 | 2023-11-18 |
 | [Silent Night](https://open.spotify.com/track/4VhASbTfw1zBh7kzMFtFAC) | [Liam Simon](https://open.spotify.com/artist/2z660oi3KO1WylKrZlxi6y) | [A Joyful Christmas](https://open.spotify.com/album/4TWNCHyFgjy0lDT17EH9wm) | 2:28 | 2021-12-22 | 2022-10-15 |
 | [Silent Night](https://open.spotify.com/track/4JV9zSuayX7Ee7sE5N4g0C) | [Tetra String Quartet](https://open.spotify.com/artist/2BbGMsh39jP6OWlY9JQDv7) | [Tetra String Quartet Christmas](https://open.spotify.com/album/27c7vgqaJ2SQgO41lZacXK) | 3:20 | 2021-12-22 | 2022-10-15 |
 | [Silent Night](https://open.spotify.com/track/58nFp57WdGVDm5hXNtnfLW) | [US Two](https://open.spotify.com/artist/6diA719p2OaW6zQnXCbRO9) | [Silent Night](https://open.spotify.com/album/7knQWBv9dQ3HUgZ3zHB6rH) | 3:03 | 2021-12-22 | 2022-10-15 |

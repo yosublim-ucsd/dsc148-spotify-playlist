@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in Ambient from the first decade of the 21st century. ",
-  "num_followers": 16119,
+  "num_followers": 16155,
   "original_name": "Ambient 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDc3ZWJjYzFmYjhiY2Y4MGZlYTMyYjNhMTY5OGUxM2RhOWI3NjQ5",
+  "snapshot_id": "MCxiZTljOWYxNjA4YTAzMzNmYTM5ZDY0NTkxZDMxODExZTEyMWJiODc5",
   "tracks": [
     {
       "added_at": "2023-08-04 12:53:28",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Choral",
-        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
-      },
-      "artists": [
-        {
-          "name": "Mountains",
-          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Sheets Two",
-      "url": "https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "The Campfire Headphase",
         "url": "https://open.spotify.com/album/6uO5B6km2Dco28tOBmZtSU"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 243546,
       "name": "Tears From The Compound Eye",
       "url": "https://open.spotify.com/track/4G794o3M8KSCqO9QXpPYar"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Choral",
+        "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
+      },
+      "artists": [
+        {
+          "name": "Mountains",
+          "url": "https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Sheets Two",
+      "url": "https://open.spotify.com/track/7aUbR1W9xxgs0BWQDfpSe4"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "The Disintegration Loops (Remastered)",
-        "url": "https://open.spotify.com/album/5fmPy3XmYD0BJKEr86a3Cu"
-      },
-      "artists": [
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
-        }
-      ],
-      "duration_ms": 650213,
-      "name": "dlp 2.1",
-      "url": "https://open.spotify.com/track/0cXp19NraVBtCGmEkrK7rZ"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Music For Films",
         "url": "https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 180013,
       "name": "From The Same Hill - Remastered 2005",
       "url": "https://open.spotify.com/track/6KXkRnKRmVes2BfNzN7bnX"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "The Disintegration Loops (Remastered)",
+        "url": "https://open.spotify.com/album/5fmPy3XmYD0BJKEr86a3Cu"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "duration_ms": 650213,
+      "name": "dlp 2.1",
+      "url": "https://open.spotify.com/track/0cXp19NraVBtCGmEkrK7rZ"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "When the Detail Lost Its Freedom",
-        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
-      },
-      "artists": [
-        {
-          "name": "Brian McBride",
-          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
-        }
-      ],
-      "duration_ms": 344560,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/5WGoSnsHY26l4WTWX0L42t"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Opalescent",
         "url": "https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 234333,
       "name": "Cold Out There",
       "url": "https://open.spotify.com/track/0c0ZVPQPNOfoW16dSa891N"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "When the Detail Lost Its Freedom",
+        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
+      },
+      "artists": [
+        {
+          "name": "Brian McBride",
+          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
+        }
+      ],
+      "duration_ms": 344560,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/5WGoSnsHY26l4WTWX0L42t"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "When the Detail Lost Its Freedom",
-        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
-      },
-      "artists": [
-        {
-          "name": "Brian McBride",
-          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
-        }
-      ],
-      "duration_ms": 273186,
-      "name": "Piano Abg",
-      "url": "https://open.spotify.com/track/65I4nN3dCf5f19mJkdArTm"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Altar",
         "url": "https://open.spotify.com/album/0v2IQBEPQqlKFiAa5rj1AC"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 229933,
       "name": "N.L.T.",
       "url": "https://open.spotify.com/track/3OIRQC5qvLCXwJzj9JC1k2"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "When the Detail Lost Its Freedom",
+        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
+      },
+      "artists": [
+        {
+          "name": "Brian McBride",
+          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
+        }
+      ],
+      "duration_ms": 273186,
+      "name": "Piano Abg",
+      "url": "https://open.spotify.com/track/65I4nN3dCf5f19mJkdArTm"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "When the Detail Lost Its Freedom",
-        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
-      },
-      "artists": [
-        {
-          "name": "Brian McBride",
-          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
-        }
-      ],
-      "duration_ms": 236773,
-      "name": "Silent Motels",
-      "url": "https://open.spotify.com/track/0sLyAfyhSi58HAuufVHshV"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Lambent Material",
         "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 391466,
       "name": "There Is A Number Of Small Things",
       "url": "https://open.spotify.com/track/5BTsPUjhMREI6BwJ4zIpiu"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "When the Detail Lost Its Freedom",
+        "url": "https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs"
+      },
+      "artists": [
+        {
+          "name": "Brian McBride",
+          "url": "https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs"
+        }
+      ],
+      "duration_ms": 236773,
+      "name": "Silent Motels",
+      "url": "https://open.spotify.com/track/0sLyAfyhSi58HAuufVHshV"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Lambent Material",
-        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 278173,
-      "name": "The Unfinished",
-      "url": "https://open.spotify.com/track/6DhVDxXWzKRDQIG3eOkcHm"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Riceboy Sleeps (2019 Remaster)",
         "url": "https://open.spotify.com/album/2v2oepohJrkS5kdDIJ1xLz"
       },
@@ -1051,18 +1035,34 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Geisterfaust",
-        "url": "https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC"
+        "name": "Lambent Material",
+        "url": "https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht"
       },
       "artists": [
         {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
         }
       ],
-      "duration_ms": 486506,
-      "name": "Daumen",
-      "url": "https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz"
+      "duration_ms": 278173,
+      "name": "The Unfinished",
+      "url": "https://open.spotify.com/track/6DhVDxXWzKRDQIG3eOkcHm"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Dropsonde",
+        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 410933,
+      "name": "Warmed By the Drift",
+      "url": "https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1087,34 +1087,18 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Dropsonde",
-        "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
+        "name": "Geisterfaust",
+        "url": "https://open.spotify.com/album/0UQwShqJuxPQy8Hpq6lBfC"
       },
       "artists": [
         {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
         }
       ],
-      "duration_ms": 410933,
-      "name": "Warmed By the Drift",
-      "url": "https://open.spotify.com/track/5hfG9ztj7AMC4hv1z2CYXK"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
-        "name": "I Am a Man Who Will Fight for Your Honor",
-        "url": "https://open.spotify.com/album/6loc604vNMnAaCwxgl8G85"
-      },
-      "artists": [
-        {
-          "name": "Chris Zabriskie",
-          "url": "https://open.spotify.com/artist/4e1c0g0L9diwIpBeyfV8ka"
-        }
-      ],
-      "duration_ms": 424760,
-      "name": "The Sun Is Scheduled to Come Out Tomorrow",
-      "url": "https://open.spotify.com/track/5E62oQ051vOnn6UDVthTot"
+      "duration_ms": 486506,
+      "name": "Daumen",
+      "url": "https://open.spotify.com/track/5FflGbZ3ZhQO3TaFfDwuGz"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1131,6 +1115,22 @@
       "duration_ms": 313866,
       "name": "I'm Too Sleepy...Shall We Swim?",
       "url": "https://open.spotify.com/track/6bSDsTjVh6RIfYqHDxUyD3"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "I Am a Man Who Will Fight for Your Honor",
+        "url": "https://open.spotify.com/album/6loc604vNMnAaCwxgl8G85"
+      },
+      "artists": [
+        {
+          "name": "Chris Zabriskie",
+          "url": "https://open.spotify.com/artist/4e1c0g0L9diwIpBeyfV8ka"
+        }
+      ],
+      "duration_ms": 424760,
+      "name": "The Sun Is Scheduled to Come Out Tomorrow",
+      "url": "https://open.spotify.com/track/5E62oQ051vOnn6UDVthTot"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Talk Amongst the Trees",
-        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 330666,
-      "name": "Calm Of The Cast-Light Cloud",
-      "url": "https://open.spotify.com/track/5e5lDuehzdZRJaoRjCmwPj"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Glider",
         "url": "https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 269680,
       "name": "Muim (Colleen Mix)",
       "url": "https://open.spotify.com/track/5LASgA67i9jE76J8e0ikTb"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Talk Amongst the Trees",
+        "url": "https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 330666,
+      "name": "Calm Of The Cast-Light Cloud",
+      "url": "https://open.spotify.com/track/5e5lDuehzdZRJaoRjCmwPj"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-08-04 12:53:28",
       "album": {
-        "name": "Prism of Eternal Now",
-        "url": "https://open.spotify.com/album/4AcqpLxAZr99MVSJw5gFKn"
-      },
-      "artists": [
-        {
-          "name": "White Rainbow",
-          "url": "https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq"
-        }
-      ],
-      "duration_ms": 404200,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/76arUxWHfiV0nazyUKmzpW"
-    },
-    {
-      "added_at": "2023-08-04 12:53:28",
-      "album": {
         "name": "Choral",
         "url": "https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 550626,
       "name": "Add Infinity",
       "url": "https://open.spotify.com/track/5lu1wPCFtswHQVnEYrv1iz"
+    },
+    {
+      "added_at": "2023-08-04 12:53:28",
+      "album": {
+        "name": "Prism of Eternal Now",
+        "url": "https://open.spotify.com/album/4AcqpLxAZr99MVSJw5gFKn"
+      },
+      "artists": [
+        {
+          "name": "White Rainbow",
+          "url": "https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq"
+        }
+      ],
+      "duration_ms": 404200,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/76arUxWHfiV0nazyUKmzpW"
     },
     {
       "added_at": "2023-08-04 12:53:28",
@@ -1668,9 +1668,9 @@
           "url": "https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc"
         }
       ],
-      "duration_ms": 187960,
-      "name": "The Orchardist",
-      "url": "https://open.spotify.com/track/4wowzbudA7AirG6ibEjaFJ"
+      "duration_ms": 197280,
+      "name": "Ripple and Fade",
+      "url": "https://open.spotify.com/track/0c4OarW674W4PEG2so9MDu"
     },
     {
       "added_at": "2023-08-04 12:53:28",

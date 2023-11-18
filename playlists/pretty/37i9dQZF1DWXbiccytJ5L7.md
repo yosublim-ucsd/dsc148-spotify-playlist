@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 
 > Country rap hits of today and tomorrow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,597 likes - 91 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,733 likes - 91 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hunger in My Stomach](https://open.spotify.com/track/4JcoMt9O0jUumJG2PoJGss) | [Overtime](https://open.spotify.com/artist/3CTYZXZSVMF5WkZLg43YLV) | [The Foundation](https://open.spotify.com/album/6CnajEdJG9GdOe7UgSit7T) | 4:43 |
-| 2 | [Unlive \(with Yelawolf\)](https://open.spotify.com/track/5aG5xOaVjWjdKZ2wuHYUBQ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:57 |
+| 2 | [Unlive \(with Yelawolf\)](https://open.spotify.com/track/2kDXxWioszXKUKoxGuy0Xj) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 |
 | 3 | [Trailer Park Barbie](https://open.spotify.com/track/6xXtJm5Z2AJj0OSBgQUCSl) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Trailer Park Barbie.](https://open.spotify.com/album/5Ir7SKNW8KpB1QLpqKUBhL) | 2:50 |
 | 4 | [Workin' \(feat\. Alexander King\)](https://open.spotify.com/track/4fkUsaC0dJfHp5N1kIrZlr) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9), [Alexander King](https://open.spotify.com/artist/5hvNjGBoEkn4ENKwDvtouW) | [Kuntry Livin'](https://open.spotify.com/album/1vLTwC9j9fDAwPt6mqkUi0) | 3:34 |
 | 5 | [Hold Our Own](https://open.spotify.com/track/1AEylK0tRkpw4dKE1pyhyd) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr) | [Target Practice](https://open.spotify.com/album/4UXqLULHYCflnysccRMF5L) | 2:32 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 90 | [Ride 4 Me](https://open.spotify.com/track/6zx3qdGDRyogH9WlM7lGGH) | [Austin Tolliver](https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC) | [Ride 4 Me](https://open.spotify.com/album/2hkUv5Lqfj0pVgTYanPNw2) | 3:12 |
 | 91 | [Kickin It In Tennessee](https://open.spotify.com/track/00tjbaCO1fXTdFdCrQH09L) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [American Made](https://open.spotify.com/album/1etK14fl8H9iwvaaEBobXU) | 4:28 |
 
-Snapshot ID: `MCxkZTc0MWRhMjExMTAwYmQ0MzFhZWFhZjc1MzhjM2RiNTNkNjJmNDYy`
+Snapshot ID: `MCwwZWNlNmQ5NzA2NjU2ODQzZDM1MDM2MTJjNWM3NjM3MjlkMWM2NjM0`

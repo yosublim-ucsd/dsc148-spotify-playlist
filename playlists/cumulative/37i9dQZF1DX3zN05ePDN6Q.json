@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 123456,
       "name": "Ce \u00d1 Viu",
       "url": "https://open.spotify.com/track/0qIUxTynOqz0uG5XX31Kxc"
@@ -3304,6 +3304,32 @@
       "duration_ms": 290228,
       "name": "Guerra \u00e0s Drogas",
       "url": "https://open.spotify.com/track/5wvqSBoa3ktRQEgMWyr1ow"
+    },
+    {
+      "album": {
+        "name": "Hannibal",
+        "url": "https://open.spotify.com/album/76OIyrsvPCUMfYUn7nwYJn"
+      },
+      "artists": [
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "Chiocki",
+          "url": "https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z"
+        },
+        {
+          "name": "Choji",
+          "url": "https://open.spotify.com/artist/2gx1zKYcIAUboisufcHkjB"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137837,
+      "name": "Hannibal",
+      "url": "https://open.spotify.com/track/7uklXzt9Rea9jF2WrlvLCB"
     },
     {
       "album": {

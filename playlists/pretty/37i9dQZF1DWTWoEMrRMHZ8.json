@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Bryan Behr",
-  "num_followers": 346767,
+  "num_followers": 346868,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTFiYWIyYTY4NmY3ZmRjNzJjMDNmODE3MjdmMmNlNGQ0MzcwYjUz",
+  "snapshot_id": "MCwyYTc3MmNmOTZhMTUzZWZkNjE2NmM3MjcwNDE5MjQ1Y2NjYzY5YmMw",
   "tracks": [
     {
       "added_at": "2023-11-03 06:00:20",
@@ -415,30 +415,6 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "N\u00f3s e o Mar",
-        "url": "https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU"
-      },
-      "artists": [
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "Diogo Monzo",
-          "url": "https://open.spotify.com/artist/5WQDCMkE5lMq5H0lkHKQmc"
-        },
-        {
-          "name": "Ricardo Bacelar",
-          "url": "https://open.spotify.com/artist/0ydGW5O1ai60prNBXKWSbF"
-        }
-      ],
-      "duration_ms": 233273,
-      "name": "O Barquinho",
-      "url": "https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
         "name": "D",
         "url": "https://open.spotify.com/album/36BRJ7h8gQe09QCT1WaQe3"
       },
@@ -479,6 +455,30 @@
       "duration_ms": 268617,
       "name": "Iluminado (feat. Flavia Virginia, Max Viana, Jo\u00e3o Viana, Sofia Viana, In\u00e1cio Viana, Thomas Boljover & Lui Viana)",
       "url": "https://open.spotify.com/track/4PyckagqFTimt12aJrg71q"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
+        "name": "N\u00f3s e o Mar",
+        "url": "https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU"
+      },
+      "artists": [
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Diogo Monzo",
+          "url": "https://open.spotify.com/artist/5WQDCMkE5lMq5H0lkHKQmc"
+        },
+        {
+          "name": "Ricardo Bacelar",
+          "url": "https://open.spotify.com/artist/0ydGW5O1ai60prNBXKWSbF"
+        }
+      ],
+      "duration_ms": 233273,
+      "name": "O Barquinho",
+      "url": "https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
+        "name": "Se O Meu Peito Fosse O Mundo (Lado A)",
+        "url": "https://open.spotify.com/album/1Gek78mZmJYLX2dVejnAN4"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 177099,
+      "name": "Um, Dois, Tr\u00eas",
+      "url": "https://open.spotify.com/track/4TB1pJy7ReBCbJtO1b4U7i"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
         "name": "Meu Parceiro Belchior",
         "url": "https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5"
       },
@@ -599,26 +615,6 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
-        "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
-      },
-      "artists": [
-        {
-          "name": "Manu Gavassi",
-          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 295223,
-      "name": "Ovelha Negra - Ac\u00fastico MTV",
-      "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
         "name": "Bloco Do Silva #2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK"
       },
@@ -635,6 +631,26 @@
       "duration_ms": 235640,
       "name": "Sozinho - Ao Vivo",
       "url": "https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
+        "name": "Ac\u00fastico MTV Manu Gavassi Canta Fruto Proibido",
+        "url": "https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt"
+      },
+      "artists": [
+        {
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 295223,
+      "name": "Ovelha Negra - Ac\u00fastico MTV",
+      "url": "https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -691,22 +707,6 @@
       "duration_ms": 220990,
       "name": "Cara a Cara (Live Session)",
       "url": "https://open.spotify.com/track/3HlqxgiaWK3DFkAN9sYpNH"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
-        "name": "Se O Meu Peito Fosse O Mundo (Lado A)",
-        "url": "https://open.spotify.com/album/1Gek78mZmJYLX2dVejnAN4"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 177099,
-      "name": "Um, Dois, Tr\u00eas",
-      "url": "https://open.spotify.com/track/4TB1pJy7ReBCbJtO1b4U7i"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Lua e Estrela",
-        "url": "https://open.spotify.com/album/6WLk4GdWrTFvIKqUVq0p05"
-      },
-      "artists": [
-        {
-          "name": "Lucas Felix",
-          "url": "https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV"
-        },
-        {
-          "name": "Lucy Alves",
-          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
-        }
-      ],
-      "duration_ms": 219098,
-      "name": "Lua e Estrela",
-      "url": "https://open.spotify.com/track/4SbWoSJqGFeU6GxlHd2AkG"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
         "name": "N\u00e3o Tem Lua",
         "url": "https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 179843,
       "name": "N\u00e3o Tem Lua",
       "url": "https://open.spotify.com/track/4yV6L8Ow55gGYWrHvPbbrc"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
+        "name": "Lua e Estrela",
+        "url": "https://open.spotify.com/album/6WLk4GdWrTFvIKqUVq0p05"
+      },
+      "artists": [
+        {
+          "name": "Lucas Felix",
+          "url": "https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV"
+        },
+        {
+          "name": "Lucy Alves",
+          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
+        }
+      ],
+      "duration_ms": 219098,
+      "name": "Lua e Estrela",
+      "url": "https://open.spotify.com/track/4SbWoSJqGFeU6GxlHd2AkG"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Carnavil\u00e3",
-        "url": "https://open.spotify.com/album/6M823WJsJilFHI1CBcCS3D"
-      },
-      "artists": [
-        {
-          "name": "Lencker",
-          "url": "https://open.spotify.com/artist/4iX6JdpeGEvWnO3tnm12sC"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 249411,
-      "name": "Carnavil\u00e3",
-      "url": "https://open.spotify.com/track/3ZwxCLm9NO4DHraGWleIpc"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
         "name": "Francamente",
         "url": "https://open.spotify.com/album/1sSFicsxjfLnQUsMsgIKNJ"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 132495,
       "name": "Francamente",
       "url": "https://open.spotify.com/track/5w9WpqDpzCJVdLCzYsashs"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
+        "name": "Carnavil\u00e3",
+        "url": "https://open.spotify.com/album/6M823WJsJilFHI1CBcCS3D"
+      },
+      "artists": [
+        {
+          "name": "Lencker",
+          "url": "https://open.spotify.com/artist/4iX6JdpeGEvWnO3tnm12sC"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 249411,
+      "name": "Carnavil\u00e3",
+      "url": "https://open.spotify.com/track/3ZwxCLm9NO4DHraGWleIpc"
     },
     {
       "added_at": "2023-11-03 06:00:20",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2023-11-03 06:00:20",
       "album": {
-        "name": "Novas Cores, Eternas Can\u00e7\u00f5es (Deluxe)",
-        "url": "https://open.spotify.com/album/7nowUNu0pHcEL9qK24CfRR"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        }
-      ],
-      "duration_ms": 165815,
-      "name": "Regra Tr\u00eas",
-      "url": "https://open.spotify.com/track/31P41KIR8XuaRnBw0IMswD"
-    },
-    {
-      "added_at": "2023-11-03 06:00:20",
-      "album": {
         "name": "Se N\u00e3o For Amor",
         "url": "https://open.spotify.com/album/58tRsnbneeUALoTYhCYbr7"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 296000,
       "name": "Se N\u00e3o For Amor",
       "url": "https://open.spotify.com/track/7HrlWBqZOmsS57YKvkegkq"
+    },
+    {
+      "added_at": "2023-11-03 06:00:20",
+      "album": {
+        "name": "Novas Cores, Eternas Can\u00e7\u00f5es (Deluxe)",
+        "url": "https://open.spotify.com/album/7nowUNu0pHcEL9qK24CfRR"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 165815,
+      "name": "Regra Tr\u00eas",
+      "url": "https://open.spotify.com/track/31P41KIR8XuaRnBw0IMswD"
     },
     {
       "added_at": "2023-11-03 06:00:20",

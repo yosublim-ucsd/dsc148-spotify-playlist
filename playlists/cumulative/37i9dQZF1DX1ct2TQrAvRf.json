@@ -2283,6 +2283,32 @@
     },
     {
       "album": {
+        "name": "Urvashi",
+        "url": "https://open.spotify.com/album/19i4HGI1PeV9N0PI25YzjH"
+      },
+      "artists": [
+        {
+          "name": "Ikka",
+          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        },
+        {
+          "name": "Mc Stan",
+          "url": "https://open.spotify.com/artist/4LttpZO8598ASmZBB1yABk"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216062,
+      "name": "Urvashi",
+      "url": "https://open.spotify.com/track/1EJLrOy25fZ3l55p4rgPdS"
+    },
+    {
+      "album": {
         "name": "NEW LIFE",
         "url": "https://open.spotify.com/album/7zvmmYySo3FPuwEiKv7xSF"
       },

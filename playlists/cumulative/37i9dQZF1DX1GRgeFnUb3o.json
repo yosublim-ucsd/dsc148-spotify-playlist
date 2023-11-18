@@ -1060,10 +1060,28 @@
       ],
       "date_added": "2019-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 110266,
       "name": "Mantrap",
       "url": "https://open.spotify.com/track/6slOJmjugBOsa6ljMnNm74"
+    },
+    {
+      "album": {
+        "name": "Heavens To Murgatroyd, Even! It's Thee Headcoats! (Already)",
+        "url": "https://open.spotify.com/album/5XDpRKhFbfol5YnCWaHemv"
+      },
+      "artists": [
+        {
+          "name": "Thee Headcoats",
+          "url": "https://open.spotify.com/artist/69C0pRNo5qCmYlKS9Lctfe"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110266,
+      "name": "Mantrap",
+      "url": "https://open.spotify.com/track/6vmAPtmqSy5fAKkhuwZrBW"
     },
     {
       "album": {

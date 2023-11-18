@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Joyce Blessing ",
-  "num_followers": 6943,
+  "num_followers": 6978,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzVkOTJmNjE5MTE4MzJkYjgzMjJmYzhiOWI0YjIwZjdjZDBhNTk2",
+  "snapshot_id": "MCxmNzUxMjhiNTJkNjdmZTE3N2E3ZTgzOTc3Y2I2N2Q2NWE1YjZhZmZl",
   "tracks": [
     {
       "added_at": "2023-09-14 23:00:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/5mDJhwl6CfbJyiJGnzQ2JJ"
+        "name": "Okasa",
+        "url": "https://open.spotify.com/album/3PSX2qgryboF6ibNTYOfkP"
       },
       "artists": [
         {
-          "name": "Manuel Bless",
-          "url": "https://open.spotify.com/artist/2Q5np0NykqxfWBMQXD2zFq"
+          "name": "Eugene Zuta",
+          "url": "https://open.spotify.com/artist/1KmG9OvZmiOv0ntWc7mYcP"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/5j0qPhoZEPKcfdjsAo9MgD"
+      "duration_ms": 267424,
+      "name": "Okasa",
+      "url": "https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc"
     },
     {
       "added_at": "2023-09-14 23:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-09-14 23:00:00",
       "album": {
-        "name": "Okasa",
-        "url": "https://open.spotify.com/album/3PSX2qgryboF6ibNTYOfkP"
-      },
-      "artists": [
-        {
-          "name": "Eugene Zuta",
-          "url": "https://open.spotify.com/artist/1KmG9OvZmiOv0ntWc7mYcP"
-        }
-      ],
-      "duration_ms": 267424,
-      "name": "Okasa",
-      "url": "https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc"
-    },
-    {
-      "added_at": "2023-09-14 23:00:00",
-      "album": {
         "name": "Onwanwani",
         "url": "https://open.spotify.com/album/4fbkb0H4gq0FBaour6fnPs"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 513913,
       "name": "Onwanwani",
       "url": "https://open.spotify.com/track/4mb4OvcBCNezU9v4X9Pyv3"
+    },
+    {
+      "added_at": "2023-09-14 23:00:00",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/5mDJhwl6CfbJyiJGnzQ2JJ"
+      },
+      "artists": [
+        {
+          "name": "Manuel Bless",
+          "url": "https://open.spotify.com/artist/2Q5np0NykqxfWBMQXD2zFq"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/5j0qPhoZEPKcfdjsAo9MgD"
     },
     {
       "added_at": "2023-09-14 23:00:00",

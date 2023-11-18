@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 287960,
       "name": "A Segunda Chance",
       "url": "https://open.spotify.com/track/6mlfPRn5tuqkX57PbqIuuv"
@@ -884,6 +884,28 @@
       "duration_ms": 172306,
       "name": "Gostou do Meu Rap",
       "url": "https://open.spotify.com/track/6SZpWjWoDVI2HyrUOJRr9o"
+    },
+    {
+      "album": {
+        "name": "Hip Hop",
+        "url": "https://open.spotify.com/album/0CjnAZ9CdW6wSoMCnLA7w8"
+      },
+      "artists": [
+        {
+          "name": "Afro-X",
+          "url": "https://open.spotify.com/artist/6iFQ7pCJ0ohIAdeu5gi46z"
+        },
+        {
+          "name": "Ieda Hills",
+          "url": "https://open.spotify.com/artist/4C6FdPXAivI1RSEL63afq4"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207983,
+      "name": "Hip Hop",
+      "url": "https://open.spotify.com/track/73QNN34ltQRUR2i6hI08Vd"
     },
     {
       "album": {

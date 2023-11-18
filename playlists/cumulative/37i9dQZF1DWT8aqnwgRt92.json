@@ -1133,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "Biri-Biri",
+        "url": "https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187325,
+      "name": "Biri-Biri",
+      "url": "https://open.spotify.com/track/3X9N36jB8FtTkzTCkIFi4u"
+    },
+    {
+      "album": {
         "name": "Black Crack",
         "url": "https://open.spotify.com/album/2Cmm7oVYSSjY2rsQozUu3b"
       },
@@ -1988,8 +2006,8 @@
       },
       "artists": [
         {
-          "name": "Azuna Riko",
-          "url": "https://open.spotify.com/artist/1kJ9fWYKneqS73CIOMDWRx"
+          "name": "\u5b89\u6708\u540d\u8389\u5b50",
+          "url": "https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX"
         }
       ],
       "date_added": "2023-11-07",
@@ -9008,7 +9026,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 262484,
       "name": "Shiny Girl",
       "url": "https://open.spotify.com/track/4zsnFklp5it8A4VLFVH6ly"
@@ -10194,7 +10212,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 310160,
       "name": "Todome no ichigeki (feat. Cory Wong)",
       "url": "https://open.spotify.com/track/7AObB1OaxymMYQ2pTmFV0f"
@@ -14278,6 +14296,28 @@
       "duration_ms": 207127,
       "name": "\u30c8\u30b3\u30b7\u30a8\u30b9\u30bf",
       "url": "https://open.spotify.com/track/5NigQtxhXjVsgy9IZjCnL8"
+    },
+    {
+      "album": {
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        },
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310448,
+      "name": "\u30c8\u30c9\u30e1\u306e\u4e00\u6483",
+      "url": "https://open.spotify.com/track/7sd09c4dFK5dLHRsySex9L"
     },
     {
       "album": {

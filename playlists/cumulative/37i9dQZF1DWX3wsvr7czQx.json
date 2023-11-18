@@ -458,7 +458,7 @@
     {
       "album": {
         "name": "DANSE MACABRE",
-        "url": "https://open.spotify.com/album/06HreThIz90gKClFT9sz0v"
+        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
       },
       "artists": [
         {
@@ -469,6 +469,24 @@
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 262240,
+      "name": "DANSE MACABRE",
+      "url": "https://open.spotify.com/track/2hxJocwTTkJBREFV8OohKD"
+    },
+    {
+      "album": {
+        "name": "DANSE MACABRE",
+        "url": "https://open.spotify.com/album/06HreThIz90gKClFT9sz0v"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
       "duration_ms": 262240,
       "name": "DANSE MACABRE",
       "url": "https://open.spotify.com/track/4yavYy5vhqkX8Sv8DRqVbJ"
@@ -1976,10 +1994,28 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 193440,
       "name": "Where Do We Go From Here?",
       "url": "https://open.spotify.com/track/3GIIWN4clCuforFuVsS768"
+    },
+    {
+      "album": {
+        "name": "A+",
+        "url": "https://open.spotify.com/album/0m0XrpZNLk9hKqhkKbxd7z"
+      },
+      "artists": [
+        {
+          "name": "Agnetha F\u00e4ltskog",
+          "url": "https://open.spotify.com/artist/7fUtt9kVZOyn9LWy0JbDRI"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193866,
+      "name": "Where Do We Go From Here?",
+      "url": "https://open.spotify.com/track/7FvVCkVvkumj6i9exLGwzD"
     },
     {
       "album": {

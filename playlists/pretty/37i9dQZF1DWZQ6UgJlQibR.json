@@ -1,12 +1,12 @@
 {
   "description": "Where music and emotions meet. Cover: <a href=\"spotify:artist:7Ddov9nbJDbpgzvBVb7cU1\">George Wassouf</a>",
-  "num_followers": 72213,
+  "num_followers": 72290,
   "original_name": "Tarab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjUwMDQ3NzUzYmQ5YThiMWM1OWQzMTRmOTVkNzBhM2MyNjFlZGI3",
+  "snapshot_id": "MCwwYmQ0Mjg2OTQ4YTIxYWYyZTFmODUwNjBhNmI4YTEyZmY5YWNmMDlm",
   "tracks": [
     {
       "added_at": "2022-09-13 14:22:57",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Baatereflek",
-        "url": "https://open.spotify.com/album/3Lj06yHKqsunUo5fGurHsr"
-      },
-      "artists": [
-        {
-          "name": "Wael Kfoury",
-          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
-        }
-      ],
-      "duration_ms": 545586,
-      "name": "Baatereflek",
-      "url": "https://open.spotify.com/track/7CtrUBl2322AbN94u1aWSl"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 376386,
       "name": "Wahashtini",
       "url": "https://open.spotify.com/track/3tNjYMW0KORaE2tK1Sjd7J"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Baatereflek",
+        "url": "https://open.spotify.com/album/3Lj06yHKqsunUo5fGurHsr"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "duration_ms": 545586,
+      "name": "Baatereflek",
+      "url": "https://open.spotify.com/track/7CtrUBl2322AbN94u1aWSl"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Ya Sidi",
-        "url": "https://open.spotify.com/album/5K6ayvq7O2N0kD4coQDCYv"
-      },
-      "artists": [
-        {
-          "name": "Tarabband",
-          "url": "https://open.spotify.com/artist/7HMpq7BBo9dLKr1z961pRA"
-        }
-      ],
-      "duration_ms": 277080,
-      "name": "Baghdad Choby",
-      "url": "https://open.spotify.com/track/1EVvdFSELehGqjvNYgScjF"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 389773,
       "name": "Al-Hobbi Koullou",
       "url": "https://open.spotify.com/track/5ndZ0322fIgfW7eTgRr5Ly"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Ya Sidi",
+        "url": "https://open.spotify.com/album/5K6ayvq7O2N0kD4coQDCYv"
+      },
+      "artists": [
+        {
+          "name": "Tarabband",
+          "url": "https://open.spotify.com/artist/7HMpq7BBo9dLKr1z961pRA"
+        }
+      ],
+      "duration_ms": 277080,
+      "name": "Baghdad Choby",
+      "url": "https://open.spotify.com/track/1EVvdFSELehGqjvNYgScjF"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
-      },
-      "artists": [
-        {
-          "name": "Nour Mehanna",
-          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
-        }
-      ],
-      "duration_ms": 449226,
-      "name": "Ibaati Gawab",
-      "url": "https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
         "name": "Helwit El Helwat",
         "url": "https://open.spotify.com/album/1YjN9eAsvTRTr4jlxDVMJ6"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 542998,
       "name": "Beateriflik",
       "url": "https://open.spotify.com/track/56RjD8YTvGYNhwATPxTrbJ"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
+      },
+      "artists": [
+        {
+          "name": "Nour Mehanna",
+          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
+        }
+      ],
+      "duration_ms": 449226,
+      "name": "Ibaati Gawab",
+      "url": "https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR"
     },
     {
       "added_at": "2022-09-13 14:22:57",

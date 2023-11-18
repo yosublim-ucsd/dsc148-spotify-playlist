@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 64218,
+  "num_followers": 64257,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTk3YjIxMjU5ODExY2Q4ZGRhNmQ4NGI4MGU0NjNjYWJmNWNiNWFj",
+  "snapshot_id": "MCw5OGFkMDdkZTE5YmExNGZjMzdjMDcwNjA5NTc2NzY4M2RlYTAwZGY5",
   "tracks": [
     {
       "added_at": "2023-11-03 03:58:52",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "Critical As Water",
-        "url": "https://open.spotify.com/album/1bfxQHvsU6C2tx1vmEL6ll"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/1cgHWk3kQk8SbvaYHkfTkV"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
         "name": "All Love Everything (Deluxe)",
         "url": "https://open.spotify.com/album/7xUEy3UR5uGEv3JvfrXKdb"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 210226,
       "name": "My Way",
       "url": "https://open.spotify.com/track/3OgeKihJLTRcOM6Asy3z3u"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
+        "name": "Critical As Water",
+        "url": "https://open.spotify.com/album/1bfxQHvsU6C2tx1vmEL6ll"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/1cgHWk3kQk8SbvaYHkfTkV"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "Mortal Man",
-        "url": "https://open.spotify.com/album/7KiOI9KabLyB8vx5gQTkO2"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Mortal Man",
-      "url": "https://open.spotify.com/track/1QGac4OblpXqHpk9AubVuo"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
         "name": "Through the Night",
         "url": "https://open.spotify.com/album/1Z7KGtMBANUIXPSp4lajX3"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 219500,
       "name": "Through the Night",
       "url": "https://open.spotify.com/track/7Aa4LwrZCRV4qN0AsIRilj"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
+        "name": "Mortal Man",
+        "url": "https://open.spotify.com/album/7KiOI9KabLyB8vx5gQTkO2"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Mortal Man",
+      "url": "https://open.spotify.com/track/1QGac4OblpXqHpk9AubVuo"
     },
     {
       "added_at": "2023-11-03 03:58:52",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-11-03 03:58:52",
       "album": {
-        "name": "\u2018Til I Found You",
-        "url": "https://open.spotify.com/album/1Vk4CueKjarGcPSoWX8DUE"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 172182,
-      "name": "'Til I Found You",
-      "url": "https://open.spotify.com/track/0LcCeKrpFTzqKrTAzNFIHo"
-    },
-    {
-      "added_at": "2023-11-03 03:58:52",
-      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/2m3PL84GyvfSzeIPacHCdf"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 203093,
       "name": "Fire",
       "url": "https://open.spotify.com/track/1XwR2Yh55jADw1Z5KZeJ3k"
+    },
+    {
+      "added_at": "2023-11-03 03:58:52",
+      "album": {
+        "name": "\u2018Til I Found You",
+        "url": "https://open.spotify.com/album/1Vk4CueKjarGcPSoWX8DUE"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 172182,
+      "name": "'Til I Found You",
+      "url": "https://open.spotify.com/track/0LcCeKrpFTzqKrTAzNFIHo"
     }
   ],
   "unique_name": "Feel Good Look Good",

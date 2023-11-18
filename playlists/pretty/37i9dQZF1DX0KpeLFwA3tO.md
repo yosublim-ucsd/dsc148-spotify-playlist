@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Death Lens
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,449 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,509 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 16 | [Mirror Game](https://open.spotify.com/track/6yqxM7jzslZdhNzUHvb8YG) | [Aversions](https://open.spotify.com/artist/65fB37pXWPMPJrNg1ZJOpR) | [Mirror Game](https://open.spotify.com/album/2xLjjPv1UimaUAeBqUQCvE) | 2:54 |
 | 17 | [Lip](https://open.spotify.com/track/49KU7hgM1KD3py8fNAAkPG) | [Mama Zu](https://open.spotify.com/artist/6OG25jh0gJ5FaFhw39eX2y) | [Lip](https://open.spotify.com/album/5PvUkKp9ifL4RpUcKjtHoQ) | 3:04 |
 | 18 | [Famous](https://open.spotify.com/track/3PEAEm9CRz5ME4Zt6AnZmK) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E) | [Famous](https://open.spotify.com/album/5seaTIXtd8jOpbQDqa5qIs) | 2:37 |
-| 19 | [Jack](https://open.spotify.com/track/3HqjkJozv732dGgTlc4NMC) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Attachment Styles](https://open.spotify.com/album/4OZKA1eD8E5PUSw2bfTWSY) | 1:52 |
+| 19 | [Jack](https://open.spotify.com/track/0QPA0bWIhjHl10AWeW4Qvc) | [Mhaol](https://open.spotify.com/artist/3YQdlHhWbhvV46g0bDtaFN) | [Attachment Styles](https://open.spotify.com/album/2gfaV8aoCpb2VkZrcpf42S) | 1:52 |
 | 20 | [SEX ON THE BEACH](https://open.spotify.com/track/1a66ctSliEPB63zvjrI9f0) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [SEX ON THE BEACH](https://open.spotify.com/album/2fhKQXM5B3No5aWHB3vuPi) | 3:10 |
 | 21 | [Telling Them](https://open.spotify.com/track/4WT4Bg98cz4eyu9JPHBFaK) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Mommy's Little Monster](https://open.spotify.com/album/56w0K0j7JN4Op3WJ7VuOkl) | 3:11 |
 | 22 | [Dead End Friend](https://open.spotify.com/track/6kAJ1j78stbpjEzFumaNAP) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Dead End Friend](https://open.spotify.com/album/4SZGDja3zMnkVIOf2UGzPZ) | 2:44 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 67 | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/track/5AzFP6taTTCZp0SU18jxpc) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/album/1dVLmx7MeskNv1bwe6MY8Y) | 3:56 |
 | 68 | [Identical Days](https://open.spotify.com/track/4hrptHq1WUVnUIsZpyt3YE) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Identical Days](https://open.spotify.com/album/519UtOzExBjOwddalv1eJL) | 3:04 |
 | 69 | [Try](https://open.spotify.com/track/1isiUXaYArJVAFe2f6vRPt) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Some Of It Was True](https://open.spotify.com/album/1haMGMoO3UjtVB1l3BHMFZ) | 3:57 |
-| 70 | [Second Solution \- triple j Live at the Wireless 1998](https://open.spotify.com/track/71Ab6vKzlT8XYxR0HkSh0s) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [The Living End \(triple j Live at the Wireless 1998\)](https://open.spotify.com/album/5rHQ788x9MMwfTFYTbcI2T) | 4:50 |
+| 70 | [Second Solution \(triple j Live at the Wireless 1998\)](https://open.spotify.com/track/5lKAEkVCsG4EEf7clxc2aK) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [The Living End \(triple j Live at the Wireless 1998\)](https://open.spotify.com/album/7pOAvc4lWutoGlD1vElIoi) | 4:50 |
 | 71 | [A Flair For Conclusions, Yet She'll Never Be Swan Queen](https://open.spotify.com/track/3p1pZmEemqIIqXKX7PpZwf) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [Face For The Radio](https://open.spotify.com/album/1wMbTB7IKFwlLS3ELUVBH1) | 3:56 |
 | 72 | [Keep Your Mouth Shut](https://open.spotify.com/track/7IjCXwvjO5HgWOM111qSZP) | [OFF!](https://open.spotify.com/artist/4fY9hRf8gHMOszNWFhR1wB) | [FLSD EP](https://open.spotify.com/album/1udEgBYJTIL1hkVDeqWksH) | 1:45 |
 | 73 | [I Just Wanna Play Dead](https://open.spotify.com/track/0J2Xk6yCxuiIihwDb4zZVd) | [The Dollyrots](https://open.spotify.com/artist/1TrzTUgWQlVRkoVGR0L7jy) | [Night Owls](https://open.spotify.com/album/27sUer7HCJrLeQdiZr20rd) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Herberts On Holiday](https://open.spotify.com/track/2SLS4rCsxzCVPLG6cS0wYe) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:24 |
 | 100 | [Roses In My Backpack](https://open.spotify.com/track/0unmFukTNfCHAXM7jsYREn) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Roses In My Backpack](https://open.spotify.com/album/35Nuc21qqcUssDSCHRU3ko) | 2:38 |
 
-Snapshot ID: `MCw5ZGQ2NzM2NmFlYjI5NzY2NTk3ZTU5NGU1MTY3MTM4NzczNmM5ZWEx`
+Snapshot ID: `MCxiYzcwYjFmOWQ1MGU0MzdkOTgyYWRlZjFkYjQ4OTc4MGY0N2U5M2Ew`

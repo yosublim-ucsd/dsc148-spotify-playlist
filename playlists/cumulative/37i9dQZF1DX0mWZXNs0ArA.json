@@ -562,10 +562,32 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 181052,
       "name": "Blonde Chaya - Sped up",
       "url": "https://open.spotify.com/track/30vcuzW3d8goJci3OBUNt9"
+    },
+    {
+      "album": {
+        "name": "Blonde Chaya (Sped Up)",
+        "url": "https://open.spotify.com/album/6XFhvAghhMETC42WFMhRjc"
+      },
+      "artists": [
+        {
+          "name": "Amaru",
+          "url": "https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz"
+        },
+        {
+          "name": "Gringo Bamba",
+          "url": "https://open.spotify.com/artist/26rewgSEfGzNpapjPw5VZh"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181052,
+      "name": "Blonde Chaya - Sped Up",
+      "url": "https://open.spotify.com/track/6WbDwAoc5xr0kFflHZW0A4"
     },
     {
       "album": {
@@ -1215,7 +1237,7 @@
     },
     {
       "album": {
-        "name": "Dzanum - Sped up",
+        "name": "D\u017eanum - Sped up",
         "url": "https://open.spotify.com/album/2vuMXOH1OPzMrMxInxmnaB"
       },
       "artists": [

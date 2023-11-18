@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,576 likes - 52 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,829 likes - 52 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 | 26 | [The Witcher: Toss A Coin To Your Witcher](https://open.spotify.com/track/2hhd2khMvWADfosQLF1C7N) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu), [Ben Palmer](https://open.spotify.com/artist/7BuKIq2YqVZhxSdquEnwko) | [The Witcher: Toss A Coin To Your Witcher](https://open.spotify.com/album/4a7Ec3FTOkrQF7lrwQAd53) | 2:48 |
 | 27 | [Gwen & Arthur](https://open.spotify.com/track/1tNy5VkcyaGSFenZI4u1Ge) | [Rob Lane](https://open.spotify.com/artist/7nlwfEaz3EFAq4rJBvLy5k) | [Merlin: Series Two \(Original Television Soundtrack\)](https://open.spotify.com/album/2Vnp2cxXua0HftgllFXRHc) | 0:55 |
 | 28 | [Dance of the Druids \(feat\. Raya Yarbrough\)](https://open.spotify.com/track/39IOkz6LpC1qc5Wnt0T07r) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [Outlander: Season 1, Vol\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3) | 4:38 |
-| 29 | [Nerevar Rising \- From "The Elder Scrolls III: Morrowind"](https://open.spotify.com/track/1nX8a8tlmhQXz4koqOYf8Z) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v), [Czech National Symphony Orchestra](https://open.spotify.com/artist/4QwB1zntRnSrgqcqqnDwAX), [Paul Bateman](https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk) | [Nerevar Rising \(From "The Elder Scrolls III: Morrowind"\)](https://open.spotify.com/album/0tgWVVP5Ylcn0yiJ257p9Q) | 1:31 |
+| 29 | [Nerevar Rising \- From "The Elder Scrolls III: Morrowind"](https://open.spotify.com/track/0yTRXdMLTtp8zJJlPhrMmt) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v), [Czech National Symphony Orchestra, Prague](https://open.spotify.com/artist/5sywRx2uuyXtkfnXCdyQX0), [Paul Bateman](https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk) | [Reading Music](https://open.spotify.com/album/4PWcxALctM4bMAiE5eAEkO) | 1:31 |
 | 30 | [Once Upon a Time..\. Storybook Love](https://open.spotify.com/track/1BqKefd5oV2c3nu0M3i563) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Screenplaying](https://open.spotify.com/album/0SiPnLSrn9us9PBus8VkbI) | 4:00 |
 | 31 | [Coming Home](https://open.spotify.com/track/45jrXtFx8ERLW66AF4r53F) | [Inon Zur](https://open.spotify.com/artist/5tzixIjD4uBPCqZTljYvQi) | [The Elder Scrolls Blades: Original Game Soundtrack](https://open.spotify.com/album/6zBhT9ZcGURdtZjA0q1JlG) | 3:14 |
 | 32 | [Hometown Hero](https://open.spotify.com/track/0LMCBbY32nJJlGTQLc8MgV) | [William Ross](https://open.spotify.com/artist/2cmxX7dd4i6kexfulvdpZg) | [My Dog Skip \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Jed2zOJ0h2XudOaMHt5vP) | 1:59 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 | 51 | [Bathsheba and Oak Unite](https://open.spotify.com/track/5EdYF3AG4xOETuvBHukWZn) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 1:35 |
 | 52 | [The Grey Havens](https://open.spotify.com/track/2Slmu6R8mf90wskb1xk6aB) | [Chance Thomas](https://open.spotify.com/artist/1VPqJ10EqqXOQNDw1ppYeh) | [The Lord of the Rings Online \(10th Anniversary Commemorative Soundtrack\)](https://open.spotify.com/album/1lkI0MpnnccE364waiYGOY) | 2:18 |
 
-Snapshot ID: `MCwzYmY3YTFjMzZkNjM0YTgyNmZlODA0M2NiZGYwNGRmM2JlMGViNmM1`
+Snapshot ID: `MCw4ZWE3MTFjNzYxNjZhYjAyNzI4ODNhYzRmMmUyM2EzY2U1N2MwZGFh`

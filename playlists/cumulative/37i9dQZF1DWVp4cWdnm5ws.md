@@ -2,9 +2,9 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Discover new artists on the horizon this 2023\. Cover: DENȲ
+> Discover new artists on the horizon this 2023\. Cover: Alamat
 
-151 songs - 9 hr 30 min
+155 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Breaking Bad](https://open.spotify.com/track/5uM71yGGGCctN2PeV5OYi5) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [Breaking Bad](https://open.spotify.com/album/3RrvdEyNwjEqsSHfFMeDsw) | 3:51 | 2023-04-13 |  |
 | [Call You](https://open.spotify.com/track/68k3V1OBcNslacVbU1HNXA) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [Call You](https://open.spotify.com/album/4gwvRkM54QFDjeOXFAL2CX) | 3:03 | 2021-11-25 | 2022-03-25 |
 | [DADA](https://open.spotify.com/track/34GGrpp24dGP5boVzfC7kS) | [Nobrvnd](https://open.spotify.com/artist/44ddWVfxC8kq46MqQgIoJf) | [DADA](https://open.spotify.com/album/6Axji6cH6HTfoWPzVZjVwV) | 3:26 | 2021-11-25 | 2022-03-25 |
+| [Dagundong](https://open.spotify.com/track/3cAcIiIJ7VJeKjTqeTzjMf) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [IsaPuso](https://open.spotify.com/album/48SFmU4Nkq63p7Oxy6PAzl) | 2:30 | 2023-11-17 |  |
 | [Dalawa](https://open.spotify.com/track/7KL81oWVy5M91P6X5nt4wq) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [Dalawa](https://open.spotify.com/album/41fY9cER956ekeEXYZQBJF) | 3:53 | 2022-09-29 |  |
 | [Darling, Darling](https://open.spotify.com/track/0mgbFVGzXKO41p9oxoas0c) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Darling, Darling](https://open.spotify.com/album/1a72z6O7pUejkSYW8nRb7Z) | 4:50 | 2021-11-25 | 2022-03-25 |
 | [Day and Night](https://open.spotify.com/track/1RU1XW9hYD5A4lcINT5NaE) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Day and Night](https://open.spotify.com/album/5U6CaoKUoWzGFloJgLfg2Q) | 3:24 | 2023-06-16 |  |
@@ -85,6 +86,7 @@
 | [Leron \(feat\. Trisha Macapagal\)](https://open.spotify.com/track/0S9E3lwPotusU4QRVVg2wC) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce), [Trisha Macapagal](https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O) | [Leron \(feat\. Trisha Macapagal\)](https://open.spotify.com/album/0OVWJZkcHFVCzGuTw8Lauw) | 4:00 | 2022-08-26 | 2022-12-01 |
 | [Ligaya](https://open.spotify.com/track/4IeuTj1pEHuL9vJSiEqEfR) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ligaya](https://open.spotify.com/album/0ccUyUkrIynFO5USku5IHH) | 4:08 | 2022-03-24 |  |
 | [Lisan](https://open.spotify.com/track/0EeDITljBgGZFUuQAH6Vdu) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [Lisan](https://open.spotify.com/album/0TkyxB93NG1E8Hhf34mwCY) | 4:27 | 2023-08-09 |  |
+| [LOKA](https://open.spotify.com/track/64WXbwaUOH3McbHrcxLe7l) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [LOKA](https://open.spotify.com/album/0xpuBL6ayhNOiewu8ftmXy) | 2:33 | 2023-11-17 |  |
 | [Made For All](https://open.spotify.com/track/6Qc9WXhHeRV5RlSdR72DNo) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Made For All](https://open.spotify.com/album/0SOSnP1ZoEnNwRg3ioo4C7) | 2:00 | 2022-09-08 | 2022-12-01 |
 | [Magnet](https://open.spotify.com/track/1geSghgZOCPrcjN2GvGJHS) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Magnet](https://open.spotify.com/album/1nWk5TI1nkvqIBKhEinUFM) | 3:35 | 2022-10-25 | 2022-12-01 |
 | [Maharani](https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT) | [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Pasulong](https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2) | 3:30 | 2023-04-13 |  |
@@ -103,6 +105,7 @@
 | [Ngayon Lang 'To](https://open.spotify.com/track/0V4mByDGbFjeKQ2ufzq2OI) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Ngayon Lang 'To](https://open.spotify.com/album/4yWaadPMM1qAWyrafzP4lM) | 3:10 | 2022-03-24 | 2023-04-14 |
 | [Pagbilang Ng Tatlo](https://open.spotify.com/track/6qLfX65ENPhm38xQruqoVP) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Pasahili](https://open.spotify.com/album/1ap5tsIDusVksftqQzTSQL) | 3:16 | 2022-10-27 | 2022-12-01 |
 | [Pagsamo](https://open.spotify.com/track/34YfLWuoxLEcvJQNxdI9P2) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Pagsamo](https://open.spotify.com/album/2a4tsCtI450vuuBKJ3nSP2) | 4:57 | 2021-11-25 | 2022-03-25 |
+| [Pantropiko](https://open.spotify.com/track/6Csrqur3IfnVp0EtHskjMw) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Pantropiko](https://open.spotify.com/album/3NYOeU6Uwj2FP1Zz1rWVz8) | 3:45 | 2023-11-17 |  |
 | [Paraluman](https://open.spotify.com/track/7I9RoRcJ0N9rvN4p4KWPsH) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Paraluman](https://open.spotify.com/album/2eKPpTGmSRX3bfBZm9QxiN) | 3:44 | 2022-11-30 | 2023-04-14 |
 | [Paraluman](https://open.spotify.com/track/7IWeNrIjl2QvobVaI9Wyk4) | [raven](https://open.spotify.com/artist/3Dr5ezvDdYsycy1gfaZWSL) | [Lika Na](https://open.spotify.com/album/32gHhEVce6B4IM3Du9xh89) | 3:44 | 2022-03-24 | 2022-12-01 |
 | [paruparo](https://open.spotify.com/track/0oug9t7drnkDuDpiDatvei) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [paruparo](https://open.spotify.com/album/5yMcGhC4JxjcK3K0H8FRLD) | 3:47 | 2021-11-25 | 2022-03-25 |
@@ -159,5 +162,6 @@
 | [Yakap](https://open.spotify.com/track/4cO62W6CErGU4vrDWF1Ruj) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX) | [Yakap](https://open.spotify.com/album/1nBiqfztbH4xqVgPI01HWg) | 3:20 | 2021-11-25 | 2022-03-25 |
 | [You](https://open.spotify.com/track/4BJa4tHm82NuaRvFPX67CJ) | [allen&elle](https://open.spotify.com/artist/2bJTpGmXD18Or3c10omzOe) | [You](https://open.spotify.com/album/6RX6AKmLXfFdLi00GdxQUs) | 4:47 | 2021-11-25 | 2022-03-25 |
 | [You'll Be Safe Here](https://open.spotify.com/track/4whLOE7hwNIAykoMcSZmvO) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [You'll Be Safe Here](https://open.spotify.com/album/32jPh5iI4WfK1bbSrPkBZM) | 5:44 | 2022-03-24 | 2023-04-14 |
+| [Yugto](https://open.spotify.com/track/2S4oKxRl8Dh1rGzqWccCde) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Yugto](https://open.spotify.com/album/4hU4tzVSx4DBxMk0FLlvCS) | 4:12 | 2023-11-17 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

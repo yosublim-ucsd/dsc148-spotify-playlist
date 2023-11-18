@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! En portada Las Áñez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,259 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,264 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,26 +12,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 2 | [A Fuego](https://open.spotify.com/track/2OBDbcbEoulxcvV7VIJVLu) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [A Fuego](https://open.spotify.com/album/3rMdauQMPRGqfX7GeNIlRO) | 3:08 |
 | 3 | [Desorden](https://open.spotify.com/track/3vEK8aeuI9hC8yLbqm0L1n) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Desorden](https://open.spotify.com/album/1HZq5pIum2fq1cU6CeiCYs) | 3:26 |
 | 4 | [Acróstico](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 |
-| 5 | [Vaivén](https://open.spotify.com/track/1hX7DwiZ3QZKg3ZtKpIK7e) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Vaivén](https://open.spotify.com/album/4hAbr4FXXv5AcsUyazXteo) | 3:18 |
-| 6 | [La Mitad](https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [La Mitad](https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r) | 2:36 |
-| 7 | [kunai](https://open.spotify.com/track/3k5F4Vn3Nq6rNF5YSww3MO) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [kunai](https://open.spotify.com/album/7hTt5gR7X0HZ6YeoFglPmX) | 2:09 |
-| 8 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
-| 9 | [Bossa y Goza](https://open.spotify.com/track/3PCqnL6Vh1ODPA16eQipl0) | [Sara Ontaneda](https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC) | [Bossa y Goza](https://open.spotify.com/album/0svjC2x6RPUV92RDLHkGnz) | 2:49 |
-| 10 | [Cumbiecitas Elegantes](https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cumbiecitas Elegantes](https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq) | 2:47 |
-| 11 | [Enero](https://open.spotify.com/track/3ts1l52tE1aQhQDxeDD2sS) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Enero](https://open.spotify.com/album/4op9IrJHnFCf8k1kxMlpNw) | 4:10 |
-| 12 | [SOLO TÚ](https://open.spotify.com/track/1rJih4t89dT4Dm3tp9Qiwd) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [SOLO TÚ](https://open.spotify.com/album/2TH7K9IjW8CmSvHddf3cyT) | 3:12 |
-| 13 | [Boca a Boca](https://open.spotify.com/track/1GvDIXN7AxrtoTjrxg8hR2) | [Daniela Calle](https://open.spotify.com/artist/7KpsVPUvyYUhwQaUCVNYZX) | [Boca a Boca](https://open.spotify.com/album/66cnlRnSTxKP5MYPFvAoSm) | 2:31 |
-| 14 | [¿Cómo Es Que Tú?](https://open.spotify.com/track/4baS2oyw8UwFMgoZt58vkS) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Quién Dijo Que Era Fácil?](https://open.spotify.com/album/1qLpX1AgAYXhfr3QOWycw7) | 2:40 |
-| 15 | [5 Minutos](https://open.spotify.com/track/3CMCp08bmQMC2LPCXMIjlU) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Cinco de Mil Pedazos](https://open.spotify.com/album/1JbpIaTJ7bauu4KWpC3BcA) | 2:35 |
-| 16 | [Y Volviste a Decir Te Amo](https://open.spotify.com/track/4FcNsNaqbJ9SC1lZyojqRw) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Y Volviste a Decir Te Amo](https://open.spotify.com/album/1zuAyb93adWHd6mp1Vy3HG) | 3:46 |
-| 17 | [Tú \- El Borde de Mi Arista](https://open.spotify.com/track/5iipDltANtNDLCBKhNxxX7) | [Montañera](https://open.spotify.com/artist/7bgO3Md82fHRDoFY1HnYlv) | [Tú \- El Borde de Mi Arista](https://open.spotify.com/album/5ipCvqlgLBDcpJLpCcYYok) | 4:46 |
-| 18 | [La Loca](https://open.spotify.com/track/2sAelBo4scm2sS1HD6I1AB) | [Natalia Curvelo](https://open.spotify.com/artist/6RB9VgLciQKqdvLt2ZiMYX) | [1er Round](https://open.spotify.com/album/3oHg8DBYXPpjB3nMxUDWSP) | 3:25 |
-| 19 | [Him](https://open.spotify.com/track/2GjCreY9QSPTY22SwfuZOU) | [Nicolle Jadad](https://open.spotify.com/artist/6WKvXvkXVojnonsPLmzSUP) | [Little Glass Houses](https://open.spotify.com/album/75UtY1DEtXctRpAAIYs4Wb) | 4:30 |
-| 20 | [Estrella Fugaz](https://open.spotify.com/track/4ono3Yv2pkKMHOyhGR3XLW) | [Isabel Garcés](https://open.spotify.com/artist/4xkkYZnuGYyxRIvkLz5LfY) | [Estrella Fugaz](https://open.spotify.com/album/0U4CGswPa88DuTdtQojlBs) | 2:53 |
+| 5 | [Beso de Luna](https://open.spotify.com/track/722rVjkkGTlugUMxQn3BGz) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Aries](https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx) | 3:03 |
+| 6 | [Vaivén](https://open.spotify.com/track/1hX7DwiZ3QZKg3ZtKpIK7e) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Vaivén](https://open.spotify.com/album/4hAbr4FXXv5AcsUyazXteo) | 3:18 |
+| 7 | [La Mitad](https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [La Mitad](https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r) | 2:36 |
+| 8 | [sayonara](https://open.spotify.com/track/5klhksKfxfFQrHA3pTz9mz) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [nena kunai](https://open.spotify.com/album/723RPBWXK0P5zbstDACnfo) | 1:52 |
+| 9 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
+| 10 | [Bossa y Goza](https://open.spotify.com/track/3PCqnL6Vh1ODPA16eQipl0) | [Sara Ontaneda](https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC) | [Bossa y Goza](https://open.spotify.com/album/0svjC2x6RPUV92RDLHkGnz) | 2:49 |
+| 11 | [Cumbiecitas Elegantes](https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cumbiecitas Elegantes](https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq) | 2:47 |
+| 12 | [Enero](https://open.spotify.com/track/3ts1l52tE1aQhQDxeDD2sS) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Enero](https://open.spotify.com/album/4op9IrJHnFCf8k1kxMlpNw) | 4:10 |
+| 13 | [SOLO TÚ](https://open.spotify.com/track/1rJih4t89dT4Dm3tp9Qiwd) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [SOLO TÚ](https://open.spotify.com/album/2TH7K9IjW8CmSvHddf3cyT) | 3:12 |
+| 14 | [Boca a Boca](https://open.spotify.com/track/1GvDIXN7AxrtoTjrxg8hR2) | [Daniela Calle](https://open.spotify.com/artist/7KpsVPUvyYUhwQaUCVNYZX) | [Boca a Boca](https://open.spotify.com/album/66cnlRnSTxKP5MYPFvAoSm) | 2:31 |
+| 15 | [¿Cómo Es Que Tú?](https://open.spotify.com/track/4baS2oyw8UwFMgoZt58vkS) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Quién Dijo Que Era Fácil?](https://open.spotify.com/album/1qLpX1AgAYXhfr3QOWycw7) | 2:40 |
+| 16 | [5 Minutos](https://open.spotify.com/track/3CMCp08bmQMC2LPCXMIjlU) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Cinco de Mil Pedazos](https://open.spotify.com/album/1JbpIaTJ7bauu4KWpC3BcA) | 2:35 |
+| 17 | [Y Volviste a Decir Te Amo](https://open.spotify.com/track/4FcNsNaqbJ9SC1lZyojqRw) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Y Volviste a Decir Te Amo](https://open.spotify.com/album/1zuAyb93adWHd6mp1Vy3HG) | 3:46 |
+| 18 | [Tú \- El Borde de Mi Arista](https://open.spotify.com/track/5iipDltANtNDLCBKhNxxX7) | [Montañera](https://open.spotify.com/artist/7bgO3Md82fHRDoFY1HnYlv) | [Tú \- El Borde de Mi Arista](https://open.spotify.com/album/5ipCvqlgLBDcpJLpCcYYok) | 4:46 |
+| 19 | [La Loca](https://open.spotify.com/track/2sAelBo4scm2sS1HD6I1AB) | [Natalia Curvelo](https://open.spotify.com/artist/6RB9VgLciQKqdvLt2ZiMYX) | [1er Round](https://open.spotify.com/album/3oHg8DBYXPpjB3nMxUDWSP) | 3:25 |
+| 20 | [Him](https://open.spotify.com/track/2GjCreY9QSPTY22SwfuZOU) | [Nicolle Jadad](https://open.spotify.com/artist/6WKvXvkXVojnonsPLmzSUP) | [Little Glass Houses](https://open.spotify.com/album/75UtY1DEtXctRpAAIYs4Wb) | 4:30 |
 | 21 | [Las Ganas](https://open.spotify.com/track/7Jc2A3fxhUvNLt45IGcjGL) | [La Klinkert](https://open.spotify.com/artist/1jPMt3YAkFx3tcPFYxaMKx) | [MELODRAMA](https://open.spotify.com/album/3kRRslBCdKfnLRoOGBMChH) | 2:34 |
 | 22 | [Si Dios Perdona](https://open.spotify.com/track/1RtvzGGRmDnATLCd3HrTFT) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Si Dios Perdona](https://open.spotify.com/album/70fClqkoidHfZivofJHZmc) | 3:00 |
-| 23 | [Miel](https://open.spotify.com/track/3wGbZ2074p60hhavjQMF6l) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 2:39 |
-| 24 | [Oasis](https://open.spotify.com/track/5mC7zQfn6mVLP8fjg7jOZy) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr) | [Cambio](https://open.spotify.com/album/2yjNaUVGxVBT7ZWp9EkGDF) | 3:56 |
+| 23 | [Oasis](https://open.spotify.com/track/5mC7zQfn6mVLP8fjg7jOZy) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr) | [Cambio](https://open.spotify.com/album/2yjNaUVGxVBT7ZWp9EkGDF) | 3:56 |
+| 24 | [kunai](https://open.spotify.com/track/3k5F4Vn3Nq6rNF5YSww3MO) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [kunai](https://open.spotify.com/album/7hTt5gR7X0HZ6YeoFglPmX) | 2:09 |
 | 25 | [Lento](https://open.spotify.com/track/1UT81mWIvNdng0hb2qvHlL) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Lento](https://open.spotify.com/album/6kxkdZth2jAn69eCMbjpL2) | 2:55 |
 | 26 | [Cherokee](https://open.spotify.com/track/3TTdOAcCkDVru1F7QBK5xX) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Cherokee](https://open.spotify.com/album/1AEQlsM7i3sn1evI9WKEJh) | 4:07 |
 | 27 | [Todo Está Mejor](https://open.spotify.com/track/5ZmrL31FPhN19ZkrmeP0pX) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [29:56](https://open.spotify.com/album/537tRWbun6NLMqSrvLb9Rl) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 74 | [El Favorcito](https://open.spotify.com/track/4nHJp4ynAQQZgSlurkpBen) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Canciones Crudas](https://open.spotify.com/album/047ARD5KCqUWxg11bIll8Q) | 3:28 |
 | 75 | [Cubeta](https://open.spotify.com/track/1JDoIz8IWcNubVpKW2hXIR) | [Mayte Montero](https://open.spotify.com/artist/2Z3ytThcszxwnP0nR6ZafC) | [Cubeta](https://open.spotify.com/album/2pTRMkCYKcwVilF1OkC9il) | 3:40 |
 
-Snapshot ID: `MCw1YmM4ZmY5MWM2YWE3YWFkZmZlYjAxNWU2NjAzOGZhOGIwYjlmNzQ5`
+Snapshot ID: `MCxhNmIxMDM2Njc2YTk0NTlhOGFjZDIxMThhZDI4MGU2YTFjYTRhNjE0`

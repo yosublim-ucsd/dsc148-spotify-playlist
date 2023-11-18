@@ -2,9 +2,9 @@
 
 ### [Flow Venezuela](https://open.spotify.com/playlist/37i9dQZF1DWTtgIvO0zxTI)
 
-> Aquí está el sonido urbano de Venezuela\. Cover: ELENA ROSE, Danny Ocean, Jerry Di
+> Aquí está el sonido urbano de Venezuela\. Cover: Briella
 
-141 songs - 7 hr 36 min
+143 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Cuchi](https://open.spotify.com/track/3z7Yz7cF5l5H0DJFj7vngz) | [MARI](https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU), [YUNGLiAN MEDiOCRE BROKE BOi](https://open.spotify.com/artist/0c3pqws6HYDBgZmZnhKzcc) | [Cuchi](https://open.spotify.com/album/3smXUWOg26SSZj907yXF2Z) | 2:38 | 2023-04-21 |  |
 | [Curarte](https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 3:03 | 2022-05-27 | 2023-10-07 |
 | [DCDT](https://open.spotify.com/track/1apSC9rsvoo2vJfeFCrHvp) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [DCDT](https://open.spotify.com/album/4bccskjZqHXf82lnKVsjeK) | 2:12 | 2022-04-22 | 2023-04-22 |
-| [DE LOS 90](https://open.spotify.com/track/5fcFq7JS7C68rbikZceuJd) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [DE LOS 90](https://open.spotify.com/album/1hWPmZie5B0qOC5JZD48Ox) | 1:58 | 2023-08-11 |  |
+| [DE LOS 90](https://open.spotify.com/track/5fcFq7JS7C68rbikZceuJd) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [DE LOS 90](https://open.spotify.com/album/1hWPmZie5B0qOC5JZD48Ox) | 1:58 | 2023-08-11 | 2023-11-18 |
 | [De Oro](https://open.spotify.com/track/39vbXhdllt7Npz6Ym9ekfB) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [De Oro](https://open.spotify.com/album/0UYD1YeqrWOe2aSx1vvgsk) | 2:47 | 2023-10-27 |  |
 | [desde que estas en mi vida](https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [desde que estas en mi vida](https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX) | 3:22 | 2023-07-28 | 2023-08-12 |
 | [Desenvidiao](https://open.spotify.com/track/3446RIZOsYjRw5Hj3W3Uul) | [Vera Delacruz](https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Desenvidiao](https://open.spotify.com/album/1PpdRv8gDEKSbjVDab80fd) | 2:49 | 2022-12-23 | 2023-02-03 |
@@ -58,6 +58,7 @@
 | [EL TREN](https://open.spotify.com/track/2E5AxSvxrnRsaExLe1aaXI) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [EL TREN](https://open.spotify.com/album/4awGSTShdK0MrxjbuFHnEY) | 3:35 | 2022-03-11 |  |
 | [Ella Baila Sola \- Remix](https://open.spotify.com/track/60VKPgWjpGbxeZHg6UIrdb) | [Dani Senay](https://open.spotify.com/artist/0C1GcEqUckCwXcxhNTCbNp), [Omar K11](https://open.spotify.com/artist/5MgAfWCS0vzouE9lVzwjJy), [JAY ROZZ](https://open.spotify.com/artist/7EMWiEZp1AxYBKUVtXs29E) | [Ella Baila Sola \(Remix\)](https://open.spotify.com/album/7iEoLo3IScnBpmN0YYsmPa) | 4:29 | 2022-03-11 | 2023-09-09 |
 | [EN SOLEDAD \(feat\. ADSO, Akapellah\)](https://open.spotify.com/track/7cSJCBT0AOLMAmgXaauUE0) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 4:22 | 2022-05-11 |  |
+| [ENCAPUCHA’O](https://open.spotify.com/track/7GVujyCArRUJCIi3dnRpbW) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Vvstears](https://open.spotify.com/artist/35b0Dt3ZlltjG3FJx2KRVg) | [TERRITORIO](https://open.spotify.com/album/1EHRjzxq4saYdE6agQT9yz) | 1:34 | 2023-11-17 |  |
 | [Error](https://open.spotify.com/track/2zJ72e7aoDwpyWkw8Ohz9T) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Error](https://open.spotify.com/album/4Iia6he8VBkkbiIXrsmGGN) | 2:53 | 2022-03-11 | 2023-08-12 |
 | [Es Épico](https://open.spotify.com/track/2kd0T6zgABT8P0s2h9QU5O) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Muerte](https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12) | 6:01 | 2022-03-11 |  |
 | [Espero Que Seas Feliz](https://open.spotify.com/track/5RQbH0k816MmniwnAFIg7p) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [The Good Trip](https://open.spotify.com/album/0xlPK1D3VcRtgT29aZX2VY) | 3:35 | 2022-03-11 | 2022-10-22 |
@@ -84,7 +85,7 @@
 | [MAMI XULA](https://open.spotify.com/track/2t4WmF6VwrEnii30Cy1Ke3) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [MAMI XULA](https://open.spotify.com/album/2oxNYcVKNyq6ojuDE32pKx) | 3:16 | 2023-10-27 |  |
 | [Manipularme](https://open.spotify.com/track/2Op7HzSKLl73accyggWazg) | [Cozy](https://open.spotify.com/artist/0vb89r7nEo8PCofGZBgJGd) | [Manipularme](https://open.spotify.com/album/6amaoCepJQocebEfEWWf7s) | 2:47 | 2022-03-11 | 2023-07-22 |
 | [MARGARITA](https://open.spotify.com/track/308riuOIFK07a1PV34B0rt) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [MARGARITA](https://open.spotify.com/album/1eyhaoTknvItzUpYYLmx6S) | 2:08 | 2022-04-22 | 2022-12-24 |
-| [ME CONFUNDÍ](https://open.spotify.com/track/1zJu4BcvtYqrmAgurFe5hE) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [ME CONFUNDÍ](https://open.spotify.com/album/74dGoM9MUgfpW3YIWnvL4G) | 2:36 | 2023-02-02 |  |
+| [ME CONFUNDÍ](https://open.spotify.com/track/1zJu4BcvtYqrmAgurFe5hE) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [ME CONFUNDÍ](https://open.spotify.com/album/74dGoM9MUgfpW3YIWnvL4G) | 2:36 | 2023-02-02 | 2023-11-18 |
 | [Me Dejé Llevar](https://open.spotify.com/track/3Mc2Y3qgBL5WsQWjch3VVK) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Me Dejé Llevar](https://open.spotify.com/album/6xXpnfndZYsh8F5Tvtus5e) | 2:24 | 2022-03-11 | 2022-10-22 |
 | [Me Enamora](https://open.spotify.com/track/2hdhH9YsYQInj4NYU75XZZ) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Me Enamora](https://open.spotify.com/album/1dig8YSzW8UrxJ89D1iSC2) | 2:48 | 2022-03-11 | 2023-08-12 |
 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 | 2022-03-11 |  |
@@ -138,6 +139,7 @@
 | [Todo Va a Arder](https://open.spotify.com/track/4dlCh9iiWtOHx3oT6wxFdc) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Todo Va a Arder](https://open.spotify.com/album/5XQQIuj2Mdbiz0W8brVi9P) | 3:04 | 2022-03-11 | 2022-04-23 |
 | [Tony](https://open.spotify.com/track/62HtZvWktEwwqS4pppOomi) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Tony](https://open.spotify.com/album/0irYnpPDxvjpQrir1arMbw) | 3:21 | 2023-03-17 | 2023-04-22 |
 | [Tú no me conoces](https://open.spotify.com/track/2ENHU0Zzp2BwZLr3Cyesc1) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Tú no me conoces](https://open.spotify.com/album/5EYJpGVbasJMWtbgLmTDQI) | 2:29 | 2022-03-11 |  |
+| [UN BETA](https://open.spotify.com/track/7mzrz5yyLv4r8vQRyVEWE7) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [AL MANDO](https://open.spotify.com/album/04Y8XPdbxJJv7usOlkgYmW) | 2:40 | 2023-11-17 |  |
 | [Unfollow \(feat\. Irepelusa\)](https://open.spotify.com/track/39LsAMko9ra8hkJIbILcbn) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [MUCHO TXT](https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc) | 3:30 | 2023-07-28 | 2023-08-12 |
 | [Vacile](https://open.spotify.com/track/0UyFBKCoQOU9GiPCLICTXG) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Kobi Cantillo](https://open.spotify.com/artist/3eAw8vSPkVqu0VfSZxv79h) | [Vacile](https://open.spotify.com/album/2Gf7Rcxy8gYKFlvpD303NR) | 3:27 | 2022-03-11 | 2023-08-12 |
 | [Vaticano](https://open.spotify.com/track/6yJtb1FFa1fQ1V4p1Bx7w5) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Vaticano](https://open.spotify.com/album/5imyvG8HR56AqU6UKnEIgs) | 2:55 | 2022-03-11 |  |

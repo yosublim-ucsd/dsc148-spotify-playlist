@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "C\u00e0ng Cua",
+        "url": "https://open.spotify.com/album/6MuNwqjIXFTqiAp7gDMG6F"
+      },
+      "artists": [
+        {
+          "name": "Low G",
+          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139813,
+      "name": "C\u00e0ng Cua",
+      "url": "https://open.spotify.com/track/6zrQLaZG0OlT63oUDwFKri"
+    },
+    {
+      "album": {
         "name": "C\u00f3 em",
         "url": "https://open.spotify.com/album/7nvdYW7qe9f1DT7pZ1EXDg"
       },
@@ -1520,7 +1538,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-18",
       "duration_ms": 243750,
       "name": "XTC (X\u00edch Th\u00eam Ch\u00fat) (Remix)",
       "url": "https://open.spotify.com/track/7fNHfgOxPLcg4mQLhCnOHB"

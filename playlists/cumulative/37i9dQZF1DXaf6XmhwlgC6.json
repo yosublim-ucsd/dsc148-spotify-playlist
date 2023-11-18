@@ -1425,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "Desert after Storm",
+        "url": "https://open.spotify.com/album/42tweibZbb3WNAz9SyqJGw"
+      },
+      "artists": [
+        {
+          "name": "Johan Gl\u00f6ssner",
+          "url": "https://open.spotify.com/artist/5KJdosgv4mDOieI9FWMhYa"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Haze on the Sea",
+      "url": "https://open.spotify.com/track/1ul3sO72SOw0uGEbQcvS4b"
+    },
+    {
+      "album": {
         "name": "Held In Velvet",
         "url": "https://open.spotify.com/album/0SwTQCqd6id601EbwWwgA6"
       },
@@ -3680,6 +3698,24 @@
       "duration_ms": 167291,
       "name": "Tailwind",
       "url": "https://open.spotify.com/track/6iayCFA7f9WPT1fFquReHx"
+    },
+    {
+      "album": {
+        "name": "Take Some Time",
+        "url": "https://open.spotify.com/album/08z23SckSlbseclzjxRy7f"
+      },
+      "artists": [
+        {
+          "name": "Skyrios",
+          "url": "https://open.spotify.com/artist/55uEL0DabWyI3Yv8dt1Y0Q"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139169,
+      "name": "Take Some Time",
+      "url": "https://open.spotify.com/track/0kxt7uTJNVt4F2cFSpXue8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-257 songs - 17 hr 44 min
+258 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,8 @@
 | [When It Hits](https://open.spotify.com/track/14ysAyuv7YTQehcQpMdf35) | [The Jazztronauts](https://open.spotify.com/artist/5BDqasby7EHFEtTQJQdWcG) | [When It Hits](https://open.spotify.com/album/60DolNauIU1EFAaXzzBOwu) | 2:35 | 2023-08-04 |  |
 | [Whistle Bump](https://open.spotify.com/track/12KsTSPgKRxekOejhNzmDZ) | [Deodato](https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr) | [New York City / Whistle Bump](https://open.spotify.com/album/0EvrBroh6KnYLr6xbTTS6E) | 4:32 | 2020-11-13 |  |
 | [Wind Up](https://open.spotify.com/track/6KRxXzHU5aVOdl2iznTfyL) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [Wind Up](https://open.spotify.com/album/4A16KOhHDBvC9tqrl4WeyU) | 4:13 | 2023-08-04 |  |
-| [Wishbone \- Deluxe Edition Bonus Track](https://open.spotify.com/track/4XSI6vXCaovfgVboUrQNpA) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/3C5Dlf8RweGoTH4p2M0ISo) | 3:21 | 2023-08-04 |  |
+| [Wishbone \(Deluxe Edition Bonus Track\)](https://open.spotify.com/track/05NJyGGPmJwOcAS8Mn6WuX) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/2sQ1tG5dvAZFQVa5HaI3Hy) | 3:21 | 2023-08-04 |  |
+| [Wishbone \- Deluxe Edition Bonus Track](https://open.spotify.com/track/4XSI6vXCaovfgVboUrQNpA) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/3C5Dlf8RweGoTH4p2M0ISo) | 3:21 | 2023-08-04 | 2023-11-18 |
 | [Wishbone \- Deluxe Edition Bonus Track](https://open.spotify.com/track/6kElTefmRx2J8nYe84vWRj) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up \(Deluxe Version\)](https://open.spotify.com/album/0SGSbCsHJrgkaUe2FiR8Tp) | 3:21 | 2021-12-03 | 2022-07-16 |
 | [Work Tapes](https://open.spotify.com/track/5hVL3iwV00R4K10kPmfM5W) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay) | [3 \(Remastered\)](https://open.spotify.com/album/16E6N3NF4JmckFOIDuvRwp) | 2:18 | 2020-11-13 | 2022-07-29 |
 | [Work Tapes](https://open.spotify.com/track/6IlJLEMA4tkDBFM4joXEzM) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay) | [3 \(Remastered\)](https://open.spotify.com/album/38p16DnIi2n5sxiZBat3ML) | 2:18 | 2020-11-13 |  |

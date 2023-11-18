@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-792 songs - 1 day 19 hr 3 min
+793 songs - 1 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Chandigarh Shehar](https://open.spotify.com/track/5ucWVRFoIeMQWaZAIQrizf) | [Nawab](https://open.spotify.com/artist/1fTMfqHcXtTa0G42Wu7qH5) | [Chandigarh Shehar](https://open.spotify.com/album/1rXQeaAZ16j5qwPQJwJzzq) | 2:47 | 2022-11-07 | 2023-02-04 |
 | [Chandni Raat](https://open.spotify.com/track/578rtgpyZraj98LvEt7xJ1) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Chandni Raat](https://open.spotify.com/album/1cITau9wOAmBXUThCfhMvt) | 2:42 | 2022-11-23 | 2023-01-28 |
 | [Changa na lage](https://open.spotify.com/track/5booVo7Su2BgAeVq6eCOMZ) | [Nikk](https://open.spotify.com/artist/6z9kS2dZQbqNV69wfrCZAR) | [Changa na lage](https://open.spotify.com/album/1SRU1k6hekc4KECdPq9Zps) | 2:59 | 2022-08-01 | 2022-08-18 |
+| [Chann Da Ghar](https://open.spotify.com/track/4zVSoXEX5aG2BKwomRnmFN) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Chann Da Ghar](https://open.spotify.com/album/5sauoyA0rdI9NsIxCWAxnm) | 5:57 | 2023-11-17 |  |
 | [Chann Naal Taare](https://open.spotify.com/track/5Vbtdgm7Qeniint7D1nC6h) | [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Aabha](https://open.spotify.com/artist/1tIokWNuHKG7KdL8bofehf), [Navvu Dhunda](https://open.spotify.com/artist/0rbaV5TUegz1QZCkUz56Uu) | [Chann Naal Taare](https://open.spotify.com/album/0veWAgTtygASgJILWSw8FC) | 3:03 | 2023-01-27 | 2023-02-02 |
 | [Chann Sitare \(From "Oye Makhna"\)](https://open.spotify.com/track/4ZlAM2VoFpv0VyZjv34A4o) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Avvy Sra](https://open.spotify.com/artist/1vKd2cgDOiLcV5YA5uy7GG), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt) | [Chann Sitare \(From "Oye Makhna"\) \- Single](https://open.spotify.com/album/78eSecjSVDN0T0KDylfVMf) | 3:07 | 2022-12-10 |  |
 | [Chann Ve](https://open.spotify.com/track/4kRAwnOs2edirDxN6kMd9G) | [Amar Sehmbi](https://open.spotify.com/artist/39qok0BZ6YbUgGWRH4UEEY) | [Chann Ve](https://open.spotify.com/album/57mOXc3ukwIaKzddLAwXnC) | 3:14 | 2022-12-01 | 2023-01-20 |
@@ -501,7 +502,7 @@
 | [Nikli Koi Gal](https://open.spotify.com/track/4KI12oenFEKhUZ2BDk9fxp) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Nikli Koi Gal](https://open.spotify.com/album/6bA1S4Psg6X0Ug8RJpAsPN) | 2:50 | 2022-11-11 | 2023-02-02 |
 | [Nimm Thalle](https://open.spotify.com/track/1t0Kt7JeVFRgrCqwdsca8d) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Nimm Thalle](https://open.spotify.com/album/6AMmCNpdB7SrNOsOk7AATv) | 3:00 | 2023-08-30 |  |
 | [No Flex](https://open.spotify.com/track/2WtW8vJmsvAubR7caT1m95) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [VIP](https://open.spotify.com/album/6rzd1ct61FJBCt9YkyJ8L3) | 3:03 | 2022-09-06 | 2022-09-23 |
-| [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2022-09-02 |  |
+| [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2022-09-02 | 2023-11-18 |
 | [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 | 2022-07-05 | 2022-09-04 |
 | [No Mercy](https://open.spotify.com/track/0wMf9gR8xLegCKApnsots8) | [Dhindsa](https://open.spotify.com/artist/0GsSwV1qiXcmeBspegMa2y) | [No Mercy](https://open.spotify.com/album/6cQhIgJWb3UdhyICOc4ynB) | 2:58 | 2022-05-20 | 2022-07-06 |
 | [Noor](https://open.spotify.com/track/7bmZe5feAzVVQ1xmbJR55q) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3) | [Noor](https://open.spotify.com/album/6zZoFhUX5gPyYBaVD9eBHP) | 3:57 | 2022-02-14 | 2022-02-19 |

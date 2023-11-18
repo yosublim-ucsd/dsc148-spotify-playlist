@@ -4,7 +4,7 @@
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-99 songs - 6 hr 45 min
+100 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Silent Advance](https://open.spotify.com/track/1rmQpmB07R7ehokVR74AQW) | [Bryan Rahija](https://open.spotify.com/artist/17OekKFB72Bbu7R14sde59) | [Silent Advance](https://open.spotify.com/album/5j5jKiWgjZ7w4VDNVBEuW8) | 2:25 | 2022-02-10 |  |
 | [Soft Night](https://open.spotify.com/track/0aFGdSW8JVpayHajgBDQfC) | [CARM](https://open.spotify.com/artist/3596asOGwi58IfCICpBbQZ) | [CARM](https://open.spotify.com/album/4HRxwMgEEOYGe0YO3JkGGG) | 3:59 | 2022-04-22 |  |
 | [Soft Night](https://open.spotify.com/track/4KO9s8B7n9ks2lgS7cqsPG) | [CARM](https://open.spotify.com/artist/3596asOGwi58IfCICpBbQZ) | [CARM](https://open.spotify.com/album/4YRae7DKDb8FQ291vQ2CRY) | 3:59 | 2022-02-10 | 2022-07-29 |
+| [Summer's Fingers Sweetly Linger \(Everywhere On Every Side\)](https://open.spotify.com/track/5rvb9OHjEQRTSsUqWqlSTr) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [When The Roses Come Again](https://open.spotify.com/album/3nOeQI6IpCQ8yAhCP8sIkt) | 4:21 | 2023-11-17 |  |
 | [Sun At 5 In 4161](https://open.spotify.com/track/28X5wrV8PXG4PpbEv7pjUt) | [Andrew Tuttle](https://open.spotify.com/artist/7oyH6DSD42pak09Jzqj9i7) | [Alexandra](https://open.spotify.com/album/79IqAxOyFTR78bqjoVLEB4) | 5:07 | 2022-02-10 |  |
 | [Sunshowers](https://open.spotify.com/track/0fVK2hNr9GEvCwVvqysLfU) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/0Qz0FCP2OvKtx4WG21PVrJ) | 4:14 | 2022-04-22 | 2023-04-30 |
 | [Sunshowers](https://open.spotify.com/track/4SEVKw96zpkG3TOAcNq8Zn) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/233gqBTj1syIvhppH8NV7w) | 4:14 | 2022-02-10 | 2022-07-29 |

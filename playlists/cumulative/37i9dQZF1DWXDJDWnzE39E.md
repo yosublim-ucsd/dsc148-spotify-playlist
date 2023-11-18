@@ -4,7 +4,7 @@
 
 > A salute to all of the women opening up the pit\. Cover: NOVELISTS
 
-289 songs - 18 hr 43 min
+290 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Human](https://open.spotify.com/track/1ojotvJWLsbEsmLV6gl0cM) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Hørizøns](https://open.spotify.com/album/0thD1dOyYRoUBK3gzj2TOp) | 5:09 | 2022-03-11 | 2023-02-03 |
 | [Human](https://open.spotify.com/track/55oKgX5jQ5dKoDaFgdKKWj) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Hørizøns \(Japan Edition\)](https://open.spotify.com/album/0VwikXNNIS52z30sDyuMBK) | 5:09 | 2020-12-07\* | 2022-07-29 |
 | [Human](https://open.spotify.com/track/3NEALaGbrMY1N1fwAlpCoy) | [Skarlett Riot](https://open.spotify.com/artist/6IN0ZavFCDhKZ2N3NT7E3z) | [Human](https://open.spotify.com/album/0rqFVF08OKc6ChJMWEtn2f) | 4:11 | 2020-12-07\* | 2020-12-11 |
-| [Hurt You](https://open.spotify.com/track/2rFaJ6NRIRWn335tQr8lWD) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 3:46 | 2022-11-18 |  |
+| [Hurt You](https://open.spotify.com/track/2rFaJ6NRIRWn335tQr8lWD) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 3:46 | 2022-11-18 | 2023-11-18 |
 | [Hurt You](https://open.spotify.com/track/703T3v8A5aa9QdQ8NlQYlV) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Hurt You](https://open.spotify.com/album/6pvV3ZiuvBDakRK8TOztgW) | 3:46 | 2021-08-24 | 2023-02-24 |
 | [I Disagree](https://open.spotify.com/track/5M1OSRePFJzlQCTJRKVGQQ) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4uTce2w80loIu3oLnW0irN) | 3:13 | 2022-10-28 |  |
 | [I Disagree](https://open.spotify.com/track/61ypvgEm3ovCFbSIq2PsRX) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree \(more\)](https://open.spotify.com/album/0jTjzLGg15C48CJEfZ9pFJ) | 3:13 | 2020-12-07\* | 2022-11-05 |
@@ -146,7 +146,7 @@
 | [Kamikaze](https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Will King](https://open.spotify.com/artist/3g3ei7i91lYAZuV3UWPZgt) | [Bad Decisions](https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB) | 3:12 | 2021-05-15 |  |
 | [Kids with Guns](https://open.spotify.com/track/1epNIM4w2WQJ9aBdBdbIqb) | [Nemesea](https://open.spotify.com/artist/0KV2B2b0q24rEawMkFmQvD) | [Kids with Guns](https://open.spotify.com/album/3xZx4a4AcbVMF3t1H7x88I) | 2:42 | 2020-12-07\* | 2020-12-11 |
 | [kill\[h\]er](https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [kill\[h\]er](https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL) | 2:25 | 2023-02-03 |  |
-| [Last Dance](https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Last Dance](https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt) | 3:31 | 2021-04-10 | 2023-11-12 |
+| [Last Dance](https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Last Dance](https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt) | 3:31 | 2021-04-10 |  |
 | [Last One Standing](https://open.spotify.com/track/0l9zlXpT3inDwP7pRvnIS7) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Last One Standing](https://open.spotify.com/album/09BxkLEcznMDHJ9MWH4FtE) | 3:24 | 2020-12-11 | 2023-02-24 |
 | [Lay All Your Love on Me](https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t) | [Amberian Dawn](https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI) | [Looking for You](https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9) | 3:53 | 2022-03-11 |  |
 | [Lay All Your Love on Me](https://open.spotify.com/track/7pQkSNKRQgaN9HdlMvf2NP) | [Amberian Dawn](https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI) | [Lay All Your Love on Me](https://open.spotify.com/album/5vNkP3tfQItCM7PLz52ZAm) | 3:53 | 2020-12-07\* | 2022-07-29 |
@@ -244,6 +244,7 @@
 | [Tears in Rain](https://open.spotify.com/track/5yg9o93xZLdNRzCLTTSfEi) | [Tarja](https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc) | [Tears in Rain](https://open.spotify.com/album/13BTr1scGXFxgkJ6BkjvwO) | 4:28 | 2020-12-07\* | 2021-05-15 |
 | [The Final Theory \(Demo\)](https://open.spotify.com/track/51xmR73DF3JviQZfPRpvBA) | [Helion Prime](https://open.spotify.com/artist/2lUdzoPUHo1zpRGDXTipi5) | [The Final Theory \(Demo\)](https://open.spotify.com/album/7MhvVSqmUtWNAUu3tHnV95) | 4:22 | 2020-12-07\* | 2021-05-29 |
 | [The Game Is Over](https://open.spotify.com/track/3mACHKoDo7dA8DChTRnp4p) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Game Is Over](https://open.spotify.com/album/4OWpobECNo3zO0S9HHxzmW) | 4:21 | 2020-12-07\* | 2022-07-24 |
+| [The Game Is Over](https://open.spotify.com/track/1IjNTBTAFtqRZHvrezeG1n) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:22 | 2023-09-15 |  |
 | [The Game Is Over](https://open.spotify.com/track/4uwE4DkfWLMJaVL5YfvrWf) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL) | 4:22 | 2022-03-11 | 2023-11-04 |
 | [The In\-Between](https://open.spotify.com/track/3WZiHsjugLgasZW7wGemNN) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Mother](https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F) | 4:14 | 2022-03-11 |  |
 | [The In\-Between](https://open.spotify.com/track/3zyO75z96PN667L0I7jgwf) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [The In\-Between](https://open.spotify.com/album/6Bt8Eq2zqc6NxAgqRRngC1) | 4:14 | 2020-12-07\* | 2022-07-25 |
@@ -262,7 +263,7 @@
 | [The Spell](https://open.spotify.com/track/6o5obE3S7oR6mmIXBUGJMv) | [Cellar Darling](https://open.spotify.com/artist/29TiA5JlE8qICyOYEvyvGR) | [The Spell](https://open.spotify.com/album/3hNmewjBhm49m9l5NTLxlh) | 4:41 | 2020-12-07\* | 2020-12-11 |
 | [The Steeple](https://open.spotify.com/track/09XBDPqHnevLn54rpRMjkZ) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:27 | 2022-10-28 |  |
 | [The Steeple](https://open.spotify.com/track/5Mozz7NTj4EYK1d1mdP6I2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Steeple](https://open.spotify.com/album/31hmuzbX46koetZMTs5O0o) | 3:27 | 2022-03-04 | 2022-10-29 |
-| [The Void](https://open.spotify.com/track/6TuoAUJFtdz4OMshZeaKHW) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Void](https://open.spotify.com/album/0QRXPpwdM079Cs6XmMjOnv) | 3:40 | 2023-08-07 |  |
+| [The Void](https://open.spotify.com/track/6TuoAUJFtdz4OMshZeaKHW) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Void](https://open.spotify.com/album/0QRXPpwdM079Cs6XmMjOnv) | 3:40 | 2023-08-07 | 2023-11-18 |
 | [The Waters Rising](https://open.spotify.com/track/59EXUU1Fde9Lc6QjGotk2B) | [Oceans of Slumber](https://open.spotify.com/artist/2JSza6IRxLr1Ez3wqKd0SY) | [The Waters Rising](https://open.spotify.com/album/58fcRPmN042228TwRVoVsQ) | 4:23 | 2022-03-11 | 2022-07-29 |
 | [The Witch](https://open.spotify.com/track/1TREyFqT3Au25SZZrVzFAq) | [Nocturnal Pestilence](https://open.spotify.com/artist/71wN07P76croe8iPzElk7n), [Nicol Hofmanová](https://open.spotify.com/artist/58qnbnGqtzPPJVIgog33xJ) | [The Witch](https://open.spotify.com/album/6onhEGxKl1SjRci5qPDQSS) | 4:41 | 2021-05-15 | 2022-07-28 |
 | [The Witch of the North](https://open.spotify.com/track/4Bsaetsm0Ov8D7RvmFckVy) | [Burning Witches](https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8) | [The Witch of the North](https://open.spotify.com/album/6SQ4rGkdF2xqaBfLWj78Nn) | 5:29 | 2021-05-15 | 2022-07-28 |

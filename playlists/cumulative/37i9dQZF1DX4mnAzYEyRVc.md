@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: Out Of Control Army
 
-570 songs - 1 day 9 hr 9 min
+571 songs - 1 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Brazil](https://open.spotify.com/track/6RIWppv5O0QrRayhaLaFDY) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Walkin](https://open.spotify.com/album/1yXSB9I5169jgJ7KSzKDqz) | 4:20 | 2021-12-06 | 2022-07-29 |
 | [Bullit](https://open.spotify.com/track/39R6AMEo5Do3AKcldkakEN) | [Maroon Town](https://open.spotify.com/artist/0ru0XV6MqDabhGmc2e3J62) | [Don Drummond](https://open.spotify.com/album/4M9Wz1ypOiDiqZzkUemnPi) | 3:30 | 2021-12-06 | 2022-07-25 |
 | [Burning Horizon](https://open.spotify.com/track/0tA7QugneTNRrC34LFJdBB) | [Skafield](https://open.spotify.com/artist/2hFD2cHJiyjhmMjHfqF7Cz) | [Create Your Own Hell](https://open.spotify.com/album/1J83FyXBIGqszD3pRb0l3G) | 3:21 | 2021-12-06 | 2022-07-13 |
-| [C'est La Vie](https://open.spotify.com/track/6a82z5ikHjwFQv4AxAF2mu) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Theatre of the Absurd Introduces C'est La Vie](https://open.spotify.com/album/2XS7GlLtan2DkXnoUxAbww) | 3:10 | 2023-09-29 |  |
+| [C'est La Vie](https://open.spotify.com/track/6a82z5ikHjwFQv4AxAF2mu) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Theatre of the Absurd Introduces C'est La Vie](https://open.spotify.com/album/2XS7GlLtan2DkXnoUxAbww) | 3:10 | 2023-09-29 | 2023-11-18 |
 | [Calaveras y Diablitos](https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Fabulosos Exitos](https://open.spotify.com/album/2V9za0PRp46NAZvSEs3hxU) | 4:24 | 2021-12-06 |  |
 | [Cali](https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl) | [Here in The Heights](https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0) | 3:43 | 2021-12-06 | 2023-04-22 |
 | [Call Your Bluff](https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb) | [Catbite](https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP) | [Nice One](https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3) | 2:32 | 2022-07-15 | 2023-11-04 |
@@ -97,7 +97,7 @@
 | [Charade](https://open.spotify.com/track/4TU950aBQIwFjkuWk63shn) | [Roland Alphonso](https://open.spotify.com/artist/3AxcTqkr4hkBaUEU7J4mSn), [The Beverley's All Stars](https://open.spotify.com/artist/4YLJ8hO5NSk1uWjGUb0xlK) | [King of Ska: The Beverley's Records Singles Collection 1963 \- 1967](https://open.spotify.com/album/2rRn15y0Y7m6NKWL9QXo3Y) | 3:06 | 2023-09-01 | 2023-10-17 |
 | [Chupasangre](https://open.spotify.com/track/30AQGfDqWCrN6KwHnNIFdv) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Chupasangre](https://open.spotify.com/album/6QuNQyIrZQGzzzx072piNU) | 3:16 | 2023-09-29 |  |
 | [Ciegos de Amor](https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD) | [Lágrimas y Risas](https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR) | 3:53 | 2021-12-06 |  |
-| [Clandestino](https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw) | [Los Fastidios](https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9) | [The Sound Of Revolution](https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9) | 3:25 | 2021-12-06 |  |
+| [Clandestino](https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw) | [Los Fastidios](https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9) | [The Sound Of Revolution](https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9) | 3:25 | 2021-12-06 | 2023-11-18 |
 | [Come on Eileen](https://open.spotify.com/track/4Z4xFENnvMnRDPpAx5wpaO) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [It Means Everything](https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS) | 4:09 | 2021-12-06 |  |
 | [Confesión](https://open.spotify.com/track/4QR9arBY2SJRdetyPRDzhw) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [King Changó](https://open.spotify.com/album/3fINfP9orKcEtgwLTOdVyJ) | 5:40 | 2021-12-06 | 2023-04-22 |
 | [Confucius](https://open.spotify.com/track/0PID4nnqvsWwxK89BYuWCR) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Brass Mafia](https://open.spotify.com/artist/5AUthOkaQS0S3cYfgA66N1) | [Confucius](https://open.spotify.com/album/7xYCRdnpMwYAjQX7kj1grq) | 5:31 | 2023-07-28 | 2023-09-02 |
@@ -110,6 +110,7 @@
 | [Cuando la Gente se Pare](https://open.spotify.com/track/0muzDovujhzxf8KB886WoX) | [La Severa Matacera](https://open.spotify.com/artist/7iTXFOlvIIzJXcLot5GOkW) | [Cuando La Gente Se Pare](https://open.spotify.com/album/7zDQAHPuayuknglb9aEawT) | 2:44 | 2021-12-06 | 2022-07-27 |
 | [Cuantas Veces \(feat\. Matt Hensley\)](https://open.spotify.com/track/0zyRhZmoQvMC9R54GRr43V) | [Big Javy & Los Tenampa](https://open.spotify.com/artist/1DJCYZkaSXV8mP2kduOSZc), [Matt Hensley](https://open.spotify.com/artist/0tnQk0BuTMDVnGypHd5L71) | [Skanking in the Pit, Vol\. 1](https://open.spotify.com/album/4dMnr2qNsrc83dD3UBQt57) | 3:12 | 2021-12-06 | 2022-07-16 |
 | [Círculo De Amor](https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Chúntaros Radio Poder](https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL) | 4:05 | 2021-12-06 | 2023-04-22 |
+| [C’est La Vie](https://open.spotify.com/track/0FeULTkWtNrjU7WqnTfNv5) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Theatre of the Absurd Introduces C'est La Vie](https://open.spotify.com/album/6heQzlRLjUmiAzezIzmuYg) | 3:10 | 2023-10-13 |  |
 | [Daly City Train](https://open.spotify.com/track/45e3iJ4KzZ4MzxWMmU4Va1) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [All The Moon Stompers](https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot) | 3:21 | 2021-12-06 | 2022-07-29 |
 | [Dame un Tiempecito](https://open.spotify.com/track/3zig33r5f16Hs0G1N78yUk) | [Los Korucos](https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx) | [Dale un Dulze al Chamakito!!!](https://open.spotify.com/album/6bSHESkw8R2JJnyyTGqvPv) | 3:49 | 2021-12-06 | 2023-04-22 |
 | [Dança do Sol \(Sundance\)](https://open.spotify.com/track/2m0Hw4vkuUk7XX0G8JElSX) | [Skafandros Orkestra](https://open.spotify.com/artist/6qtP3Awh2o3JPx6PIEenlj) | [Fubah](https://open.spotify.com/album/3d5F7j6NL1WcKQ6Ld52jkk) | 5:30 | 2021-12-06 | 2022-06-08 |
@@ -520,7 +521,7 @@
 | [Total](https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Frecuencia Rebelde](https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj) | 3:16 | 2021-12-06 |  |
 | [Tranquilo](https://open.spotify.com/track/51yvMOLDOCfAvwuYRxGb5B) | [Alamedadosoulna](https://open.spotify.com/artist/1Yfek8Lmn4Dzu7Eabz95vQ), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Tranquilo](https://open.spotify.com/album/6JakOpjM2btJtvmeg5wkMD) | 3:05 | 2023-04-28 | 2023-08-14 |
 | [Transgresores de la Ley](https://open.spotify.com/track/2Qhb0eG6WTVS0BfGugMaZ3) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Flores para los Muertos](https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV) | 3:05 | 2021-12-06 | 2022-07-28 |
-| [Transparency](https://open.spotify.com/track/2Rm8eB9apr94OrdWjP6GG1) | [Keep Flying](https://open.spotify.com/artist/4y79c2k6F28s1lkh3aaXWC) | [Transparency](https://open.spotify.com/album/6tiMjNb0BiteEve0vZ8ujP) | 2:31 | 2023-07-14 | 2023-09-02 |
+| [Transparency](https://open.spotify.com/track/2Rm8eB9apr94OrdWjP6GG1) | [Keep Flying](https://open.spotify.com/artist/4y79c2k6F28s1lkh3aaXWC) | [Transparency](https://open.spotify.com/album/6tiMjNb0BiteEve0vZ8ujP) | 2:31 | 2023-07-14 |  |
 | [Tremarella](https://open.spotify.com/track/3qVMtCTsmeSUiXuhrTPweZ) | [Persiana Jones](https://open.spotify.com/artist/6zHAXTwmXvfEtYQoewnfSJ) | [Puerto hurraco](https://open.spotify.com/album/7wXHGLSCYy566j7revG6R0) | 2:41 | 2021-12-06 | 2023-04-22 |
 | [Trigger Happy \- Demo](https://open.spotify.com/track/6X7d1JhWXi0CevhNAGt6mv) | [H\-Block 101](https://open.spotify.com/artist/6BXYPRrytuDu8uyDpmCS2h) | [The H\-Block 101 Tapes \(1996 \- 1999\)](https://open.spotify.com/album/0vvD9IdC9SKRW69GvKZ80X) | 2:11 | 2021-12-06 | 2022-07-17 |
 | [Trinity](https://open.spotify.com/track/7hFqfUllIwqobuXuuc3sZf) | [The Bluebeaters](https://open.spotify.com/artist/6rShHlY1EXsf7DxlIHa5uU) | [Trinity](https://open.spotify.com/album/2U5Yo23BlzQW8ZawiPXLzy) | 3:14 | 2023-07-14 | 2023-09-02 |

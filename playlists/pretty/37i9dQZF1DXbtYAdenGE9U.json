@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 492401,
+  "num_followers": 494854,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
+        "name": "Produced & Remixed",
+        "url": "https://open.spotify.com/album/7slnTp1JuFDHosCeCCGPrI"
+      },
+      "artists": [
+        {
+          "name": "Rui Da Silva",
+          "url": "https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v"
+        }
+      ],
+      "duration_ms": 515173,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 221160,
       "name": "Encore Une Fois - Future Breeze Edit",
       "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
-        "name": "Produced & Remixed",
-        "url": "https://open.spotify.com/album/7slnTp1JuFDHosCeCCGPrI"
-      },
-      "artists": [
-        {
-          "name": "Rui Da Silva",
-          "url": "https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v"
-        }
-      ],
-      "duration_ms": 515173,
-      "name": "Touch Me",
-      "url": "https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
         "name": "Twenty",
         "url": "https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 202533,
       "name": "Saltwater",
       "url": "https://open.spotify.com/track/05c4AAJKIulqI8vQQ41Rch"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3E8N6fNnqcOwNwUvALrqZ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/4dFsZLGVr40S9veNWXBCoe"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Airwave",
-        "url": "https://open.spotify.com/album/3NzdpoQtPQVRckK9opV5v8"
-      },
-      "artists": [
-        {
-          "name": "Rank 1",
-          "url": "https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Airwave - Radio Vocal Edit",
-      "url": "https://open.spotify.com/track/294bZQoJEueD2ys3wrNDmI"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
         "name": "Twenty",
         "url": "https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 210786,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
+        "name": "Airwave",
+        "url": "https://open.spotify.com/album/3NzdpoQtPQVRckK9opV5v8"
+      },
+      "artists": [
+        {
+          "name": "Rank 1",
+          "url": "https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Airwave - Radio Vocal Edit",
+      "url": "https://open.spotify.com/track/294bZQoJEueD2ys3wrNDmI"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -675,26 +675,6 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Coming On Strong (ReOrder Remix)",
-        "url": "https://open.spotify.com/album/3dMgaoVi9AC6GMCpr9D4c3"
-      },
-      "artists": [
-        {
-          "name": "Signum",
-          "url": "https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ"
-        },
-        {
-          "name": "Scott Mac",
-          "url": "https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw"
-        }
-      ],
-      "duration_ms": 199719,
-      "name": "Coming On Strong",
-      "url": "https://open.spotify.com/track/7cZAh5boqsZqcxfKUAwFHb"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
         "name": "25 Years, Vol. 3",
         "url": "https://open.spotify.com/album/0WPqeMn5Kmi1RMpNwm5DMV"
       },
@@ -735,22 +715,6 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Trance Top 1000 - The Best Of",
-        "url": "https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe"
-      },
-      "artists": [
-        {
-          "name": "Push",
-          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
-        }
-      ],
-      "duration_ms": 225841,
-      "name": "Universal Nation",
-      "url": "https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/6qXV8qN7pKpEW9QrLrO1fm"
       },
@@ -763,6 +727,42 @@
       "duration_ms": 257760,
       "name": "Cry",
       "url": "https://open.spotify.com/track/5fwONah6r8bm2UfcY8PGMz"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
+        "name": "Coming On Strong (ReOrder Remix)",
+        "url": "https://open.spotify.com/album/3dMgaoVi9AC6GMCpr9D4c3"
+      },
+      "artists": [
+        {
+          "name": "Signum",
+          "url": "https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ"
+        },
+        {
+          "name": "Scott Mac",
+          "url": "https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw"
+        }
+      ],
+      "duration_ms": 199719,
+      "name": "Coming On Strong",
+      "url": "https://open.spotify.com/track/7cZAh5boqsZqcxfKUAwFHb"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
+        "name": "Trance Top 1000 - The Best Of",
+        "url": "https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe"
+      },
+      "artists": [
+        {
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+        }
+      ],
+      "duration_ms": 225841,
+      "name": "Universal Nation",
+      "url": "https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj"
     },
     {
       "added_at": "2023-08-11 10:02:57",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Time To Burn 2010",
-        "url": "https://open.spotify.com/album/3sWQLBfrq0mYSddH3ChTku"
+        "name": "Offshore",
+        "url": "https://open.spotify.com/album/201vsPXufpD68a7bulnr5O"
       },
       "artists": [
         {
-          "name": "Storm",
-          "url": "https://open.spotify.com/artist/2Hn7EcVTYF7TTCaELHrqy0"
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
         }
       ],
-      "duration_ms": 175160,
-      "name": "Time to Burn - Radio Edit",
-      "url": "https://open.spotify.com/track/0IaOAo13NTYVSWuAy5OGRC"
+      "duration_ms": 268600,
+      "name": "Offshore",
+      "url": "https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau"
     }
   ],
   "unique_name": "Trance Classics",
