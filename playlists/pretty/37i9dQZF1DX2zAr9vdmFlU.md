@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,513 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,572 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 99 | [Caminando por Quisqueya](https://open.spotify.com/track/2avb4jaEXShHqfAF3yuKhX) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou) | [Caminando por Quisqueya](https://open.spotify.com/album/1z6vx39dIoXCScxQ8c6xn4) | 6:00 |
 | 100 | [Llama](https://open.spotify.com/track/5ROtCoF1EiaHN0ZbKsBMMt) | [Monareta](https://open.spotify.com/artist/4jSRnBG7AjFDDGDWwt24yg) | [Picotero](https://open.spotify.com/album/39D8leoVf5CvAdDtwhc5BA) | 3:51 |
 
-Snapshot ID: `MCw3YmI5NjY2MWY5OGYyODkyMjBjYzQ4OTdiYzAyNDdhNzAwOTcyYjZk`
+Snapshot ID: `MCxjODRhNDZiZjBkY2Y3NzdkNzEyMzU3OTM0ZjUyZTc3NmY3OWZkOTli`

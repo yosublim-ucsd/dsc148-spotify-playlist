@@ -4,7 +4,7 @@
 
 > Icons only\. Cover: Duran Duran
 
-110 songs - 7 hr 8 min
+111 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Firecracker](https://open.spotify.com/track/7L5AoGk1mbGGnbXQDXi5fW) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Born For This Moment](https://open.spotify.com/album/0PNqISvKipkWgdEY7JzPwD) | 3:50 | 2022-06-10 |  |
 | [Five Years](https://open.spotify.com/track/7rmGBiCtvTv2Fh50FWZKHs) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Five Years](https://open.spotify.com/album/2LfOEABtSzqIDAFUSUm2m3) | 4:45 | 2021-10-22 | 2023-04-15 |
 | [For Her Love](https://open.spotify.com/track/0OKn63DGQ2kBRTo9BRfiEP) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Deluxe\)](https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz) | 3:45 | 2021-11-19 |  |
-| [Forever and More](https://open.spotify.com/track/0B9xp10eoOa1XK5F30gY0l) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Are We There Yet?](https://open.spotify.com/album/0BuCV5EL2sM6iUvaxFtpPx) | 3:37 | 2023-10-13 |  |
+| [Forever and More](https://open.spotify.com/track/0B9xp10eoOa1XK5F30gY0l) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Are We There Yet?](https://open.spotify.com/album/0BuCV5EL2sM6iUvaxFtpPx) | 3:37 | 2023-10-13 | 2023-11-19 |
+| [Forever and More](https://open.spotify.com/track/7zwrqxwaAg1wrouppSGaaM) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Are We There Yet?](https://open.spotify.com/album/5sDuophQhwHGXQwGzxJSsg) | 3:37 | 2023-10-13 |  |
 | [Get Together](https://open.spotify.com/track/0VOUTJdbl1xUPSp92MtohU) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Get Together](https://open.spotify.com/album/4MlWINtVUMSiJziqDpyvvx) | 4:12 | 2021-10-22 | 2023-03-18 |
 | [Hold On](https://open.spotify.com/track/2T83rBdQeCbzyf7HMHPyGY) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Hold On](https://open.spotify.com/album/19TEv9LRkVcl95r0YGSecG) | 4:19 | 2021-10-22 | 2022-04-09 |
 | [I Don't Mind](https://open.spotify.com/track/5DA2AKGBLh6F37BEo217r0) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [I Don't Mind](https://open.spotify.com/album/1Ny3qiqGxrdJujXB1nviYa) | 4:05 | 2021-10-22 | 2023-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AwGpzjEwc0.md) - [plain]
 
 > Un suave trasfondo musical para mantener el foco en tus tareas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,071 likes - 216 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,090 likes - 216 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AwGpzjEwc0.md) - [plain]
 | 215 | [You Are That](https://open.spotify.com/track/6Rm2rBWk3flMMGPdxASdaU) | [Léonie Deval](https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni) | [You Are That](https://open.spotify.com/album/47MXSKI7ymjqPcRrlSWJSi) | 2:52 |
 | 216 | [Sonder](https://open.spotify.com/track/3piXN9w4wKQGll4ryYpVl5) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Sonder](https://open.spotify.com/album/5kJ4JlLmhkJiMnzkMSStON) | 2:55 |
 
-Snapshot ID: `MCw2MzUzMzc2ODNlYTRiMjczNTVkNjJjZjkzOGI5NTc3MzUzOTlhMzI2`
+Snapshot ID: `MCxhMmNlMDQwM2RiM2QxNTM3NjE2MGI4M2MwM2E0YjQ4OGU3MTM5NWQ1`

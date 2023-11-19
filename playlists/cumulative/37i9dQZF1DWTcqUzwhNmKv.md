@@ -4,7 +4,7 @@
 
 > Polaris on top of the biggest Metal playlist.
 
-557 songs - 1 day 13 hr 22 min
+559 songs - 1 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Caravan of Broken Ghosts](https://open.spotify.com/track/1CzKggMZT7p836VUa1lRDc) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Astral Fortress](https://open.spotify.com/album/0BKXemLWwkU9t6KiYCdVzj) | 7:53 | 2022-11-04 | 2023-01-14 |
 | [Castaway](https://open.spotify.com/track/33oseVSdiC8Og5jByjwP5d) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Tether](https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR) | 3:31 | 2023-10-06 |  |
 | [Castaway](https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Castaway](https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2) | 3:31 | 2023-09-08 | 2023-10-07 |
-| [Cellar Door](https://open.spotify.com/track/14kZfaq8FEdJHMcZ5gpMsb) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/10skiZ5i3pC9Ry0fVbLJU7) | 4:43 | 2023-11-03 |  |
+| [Cellar Door](https://open.spotify.com/track/14kZfaq8FEdJHMcZ5gpMsb) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/10skiZ5i3pC9Ry0fVbLJU7) | 4:43 | 2023-11-03 | 2023-11-19 |
+| [Cellar Door](https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cellar Door](https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt) | 4:43 | 2023-11-17 |  |
 | [Changes](https://open.spotify.com/track/1UE2CNieJRlvAL5xxyQgPT) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN), [Nico Sallach](https://open.spotify.com/artist/02UmgKnxslxUbrVpHhF9bb) | [Changes](https://open.spotify.com/album/4gDPDFL9lxg1865PN8niQB) | 3:47 | 2022-01-07 | 2022-02-11 |
 | [CHAOS](https://open.spotify.com/track/7MKG6MvGpmE8qkdzXS4Rfe) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [CHAOS](https://open.spotify.com/album/1KOFi5BG2eDs7oomy6tMxW) | 3:02 | 2022-03-03 | 2022-06-10 |
 | [Chaos Horrific](https://open.spotify.com/track/4Zsix11Dx5iiS0X7EclZSF) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Chaos Horrific](https://open.spotify.com/album/2OsBHxwlW8kJx2YCnhH7rI) | 3:32 | 2023-10-20 |  |
@@ -469,7 +470,8 @@
 | [The Hunt](https://open.spotify.com/track/4RYg7V9NzIfXOhYx5xbxff) | [Dagoba](https://open.spotify.com/artist/1iZlQG09PwkMVMumsvgFj4) | [By Night](https://open.spotify.com/album/0GHtyfgjNanp1kheoy8MOu) | 4:26 | 2022-02-24 | 2022-03-04 |
 | [The Moon](https://open.spotify.com/track/3j3QVCJXXZXfgB5sjN1TEY) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [The Moon](https://open.spotify.com/album/2iYLHZ81SJa5MY9BDjCek9) | 5:57 | 2021-12-20 | 2022-01-28 |
 | [The Needless End](https://open.spotify.com/track/5xwl73peQHvNesc12UVNwC) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [The Needless End](https://open.spotify.com/album/1j92r9irbE3Sqb6MFzBUkJ) | 4:04 | 2022-06-06 | 2022-07-30 |
-| [THE PURGE](https://open.spotify.com/track/42eexWfJFK34GC9c46fpLx) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [THE PURGE](https://open.spotify.com/album/3UMpuZ3u2g5NOgHzzZnwrn) | 3:59 | 2023-07-28 |  |
+| [THE PURGE](https://open.spotify.com/track/3ppy9aybMMI5vPydN4qRjU) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [GODMODE](https://open.spotify.com/album/2c1e4GA90vn9Arbo4b8CU7) | 3:59 | 2023-11-17 |  |
+| [THE PURGE](https://open.spotify.com/track/42eexWfJFK34GC9c46fpLx) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [THE PURGE](https://open.spotify.com/album/3UMpuZ3u2g5NOgHzzZnwrn) | 3:59 | 2023-07-28 | 2023-11-19 |
 | [The Rain](https://open.spotify.com/track/3VfLjiVTnB7VQnzK0gUr0d) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [The Rain](https://open.spotify.com/album/6b6ub6gxztDNnzFyQag5sS) | 3:06 | 2021-12-20 | 2022-04-08 |
 | [The Retaliators Theme \(21 Bullets\) \(feat\. Mötley Crüe, Asking Alexandria, Ice Nine Kills, From Ashes To New\)](https://open.spotify.com/track/3iEmgajStVBooooNaltdOv) | [The Retaliators](https://open.spotify.com/artist/0DqFxv4ZnxzDc6KPt6cUD5), [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL), [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [The Retaliators Theme Song \(21 Bullets\) \[feat\. Motley Crue, Asking Alexandria, Ice Nine Kills, From Ashes To New\]](https://open.spotify.com/album/5vyHnq2QdGJWMzjrjn4S6k) | 4:02 | 2022-08-19 | 2022-10-29 |
 | [The Rumbling](https://open.spotify.com/track/5JJKkuYGj99dfws5MiiJSR) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/6WNTfLApSKQPPlqWHwgLq8) | 3:40 | 2022-07-15 | 2022-07-29 |

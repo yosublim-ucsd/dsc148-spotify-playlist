@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,196 likes - 100 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,267 likes - 100 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 99 | [Tonight](https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X) | [Latmun](https://open.spotify.com/artist/2z9DWWfNONyl2nyy1GNSi0) | [Tonight EP](https://open.spotify.com/album/4cxn8FB1FyzCBrZlDeMN1Y) | 5:52 |
 | 100 | [World Is Empty](https://open.spotify.com/track/2nXrGRA0qLwXtZ4QtQD6Jg) | [Jansons](https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [World Is Empty](https://open.spotify.com/album/6XEry2Mab6D2CmMJMSQdNl) | 3:16 |
 
-Snapshot ID: `MCxlNWNmYmJmZDIxNDliODk4YmE5NmRmOWFmOWEwN2FiN2JhZTdhMTFk`
+Snapshot ID: `MCxmNWZmMDFhYTA1ODlkYjMyZjMyMGQwMmM4NzBjNzY4ZjY1NjQ5OGJi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Not NOT pop\. Cover: beabadoobee, Mac Wetha, Aminé
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,819 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,816 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 99 | [have a good time](https://open.spotify.com/track/0YnfIvaUWgwBMvJqEIxPyJ) | [she loves boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23) | [have a good time](https://open.spotify.com/album/17pjEE2XXRHEl6MKuE7p4N) | 2:06 |
 | 100 | [plansfor2](https://open.spotify.com/track/5xYWO5bpqxOUZ7VMpSmy4W) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [plansfor2](https://open.spotify.com/album/5j1fwt4WbOoV8pVj0M7UZz) | 2:38 |
 
-Snapshot ID: `MCxkNzAzOTVlMjg1OTA0ZTdhOGIyZDg1N2IwYWMzYzBjZWRmMzA2Nzhk`
+Snapshot ID: `MCwzYzhiODAwYjEyYjJmNTdkMDhlNGRhMTNiN2VhYWJlNzY2MTg1YzFh`

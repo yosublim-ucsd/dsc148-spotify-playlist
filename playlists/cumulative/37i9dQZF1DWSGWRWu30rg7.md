@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Tisya Liotta
 
-2,797 songs - 7 day 3 hr 46 min
+2,798 songs - 7 day 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2108,6 +2108,7 @@
 | [Sebatas Kenangan](https://open.spotify.com/track/1CmupbXtmF2Da2hxHYXcC5) | [Nabilah Rizwantri](https://open.spotify.com/artist/2LB09yoxsSjhpxDlD36k19) | [Sebatas Kenangan](https://open.spotify.com/album/1lVizASKBbYEKtOEALd2VA) | 4:48 | 2022-02-24 | 2022-03-11 |
 | [Sebuah Rahasia](https://open.spotify.com/track/5T8Uct9BcXwxiUodCrCqjC) | [SUARASA](https://open.spotify.com/artist/4xyRcr0252yIoj1Rzjokc4) | [Sebuah Rahasia](https://open.spotify.com/album/7I1TAbMC9ROMWTO7nbyFIz) | 4:18 | 2022-01-20 | 2022-02-04 |
 | [Secerah Mentari](https://open.spotify.com/track/5RvAqSrpltHmuXH1WI5iUi) | [Adinda Shalahita](https://open.spotify.com/artist/0gSy6xCcGcRoq1ex6RJtO6) | [Secerah Mentari](https://open.spotify.com/album/4F7aflhov26ZLjTQyUyd2B) | 3:42 | 2023-09-22 | 2023-10-13 |
+| [Second Best](https://open.spotify.com/track/554wETffBmPvRnaeXpzS6d) | [Eric Anthony](https://open.spotify.com/artist/7M6uxPnBIeB4IeAyNfAWBR) | [Second Best](https://open.spotify.com/album/6XZbRLimdluO9U3CTfv5rh) | 2:44 | 2023-11-17 |  |
 | [secret](https://open.spotify.com/track/0fidHol1fH1yl5WpJtp2QF) | [VVARD](https://open.spotify.com/artist/2030BT09bZMNkQpU6H4qlr) | [secret](https://open.spotify.com/album/4mApK4NwtxtSWtXZEkk6CB) | 2:50 | 2022-07-28 | 2022-08-12 |
 | [secret love letter](https://open.spotify.com/track/2A3UUjyNysOvUcHBlsR7zI) | [.arif](https://open.spotify.com/artist/3iK1EgAXFeWShTQ5m9Ubgu) | [seven](https://open.spotify.com/album/75y6bmnbZeIkJUGIIz437j) | 2:55 | 2022-09-15 | 2022-09-30 |
 | [Secret Paradise](https://open.spotify.com/track/0h4WQW6Ev0tBktOXVwkBNx) | [Norself](https://open.spotify.com/artist/2TV8uSF3XJylXWi7scz1x6), [Ririn Tampoma](https://open.spotify.com/artist/7HTAnR55tvBPKXAi9ANM8E) | [Secret Paradise](https://open.spotify.com/album/3BxM7yZvj3YUrTVFLatnsU) | 3:22 | 2023-08-11 | 2023-08-25 |

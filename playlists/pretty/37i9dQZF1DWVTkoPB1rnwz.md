@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,328 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,360 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 | 99 | [among the trees](https://open.spotify.com/track/6bX6vCqqx7vf2rWh6hcD5b) | [Arden Records](https://open.spotify.com/artist/4t6K3qACkVu8WWrG3mvo0r), [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II) | [among the trees](https://open.spotify.com/album/2xV69A1DRRJmSaNpXTMVBg) | 1:58 |
 | 100 | [Ailments](https://open.spotify.com/track/2mn02smI0cOZT9BXKyz1qz) | [autumn keys](https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy) | [Harvest](https://open.spotify.com/album/6a2P7s6eBxxIUW8LiXcNM9) | 2:29 |
 
-Snapshot ID: `MCxmNmFmMzI1YTY5MjJmYTliOWUwMThhYjNkZjk0ZDQ0MmIxOWU2NTY2`
+Snapshot ID: `MCw4ZWVhYWJlNTUyMzQzYTZkNDM2OWUyNmE5ZThiZTY3Y2U5ZmM0YWI2`

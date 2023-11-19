@@ -7595,6 +7595,28 @@
     },
     {
       "album": {
+        "name": "Snowman",
+        "url": "https://open.spotify.com/album/3iyRG8ivPnrOx65kmrFZZI"
+      },
+      "artists": [
+        {
+          "name": "Lofi Girl",
+          "url": "https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN"
+        },
+        {
+          "name": "WYS",
+          "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195136,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/3LcKimBaYnx7XEIM89nAfB"
+    },
+    {
+      "album": {
         "name": "1 Am. Study Session",
         "url": "https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C"
       },
@@ -7624,7 +7646,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 195136,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/5oKzIi5OFGRD8f2oGaHLtj"

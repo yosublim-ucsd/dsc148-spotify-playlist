@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Wyatt Flores, MacKenzie Porter, Warren Zeiders and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,388 likes - 68 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,544 likes - 68 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 67 | [Goin Out Sober](https://open.spotify.com/track/7Fc7E271oNVX4gXGDrHZDo) | [Tayler Holder](https://open.spotify.com/artist/5Hz3IW691fbgGqLk4yvlNN) | [Goin Out Sober](https://open.spotify.com/album/7uzIiJZ7Yj4w5Gh8leXv1E) | 3:16 |
 | 68 | [Get You Off That Fence](https://open.spotify.com/track/424P0OXKS5Lpae44oBTnJt) | [Matt Rogers](https://open.spotify.com/artist/05fmyImfk8ILasGDFWQkbC) | [Get You Off That Fence](https://open.spotify.com/album/6cV9t53nUqGdN3eEdt5kGQ) | 3:36 |
 
-Snapshot ID: `MCw1NGEzZjNmNzlmMjgxMjliNzI1YWE3YTE2ZjZjN2ViYjQ3Y2Y0ZTRj`
+Snapshot ID: `MCxlNWM3MTIwMTVlYTQxYzczY2RiNTUzMTRiZDJmMjBmM2RiZDdkOWQ4`

@@ -4,7 +4,7 @@
 
 > New music discovery is what we're about\. Try it on for size\. Cover: MacKenzie Porter
 
-1,880 songs - 4 day 5 hr 45 min
+1,881 songs - 4 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -893,7 +893,8 @@
 | [Kill Me](https://open.spotify.com/track/5pWgfYHRZuNctsKtWGDJ2E) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Kill Me](https://open.spotify.com/album/7iuVd42Ad5GoLpMw3XvwPT) | 2:43 | 2023-10-27 | 2023-11-05 |
 | [Kill Me](https://open.spotify.com/track/7en1V1qZzo6DtDDHdXg93z) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Kill Me](https://open.spotify.com/album/3RZlJhazwEhC0GqH4lYHVu) | 2:43 | 2023-11-03 |  |
 | [Killed The Cowboy](https://open.spotify.com/track/3RJurSYlznV97FIN7mBXsQ) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Killed The Cowboy](https://open.spotify.com/album/120PgtD9yJIkX79XmBSwAa) | 3:18 | 2023-09-08 | 2023-10-05 |
-| [Killed The Cowboy](https://open.spotify.com/track/7KzKQGfTsZfhAWCFoG5acX) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Killed The Cowboy](https://open.spotify.com/album/7uWz6n5E9FWKako5gGdpS0) | 3:18 | 2023-09-29 |  |
+| [Killed The Cowboy](https://open.spotify.com/track/3dou6KL8JpVwzRM8IZsidR) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Killed The Cowboy](https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb) | 3:18 | 2023-11-17 |  |
+| [Killed The Cowboy](https://open.spotify.com/track/7KzKQGfTsZfhAWCFoG5acX) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Killed The Cowboy](https://open.spotify.com/album/7uWz6n5E9FWKako5gGdpS0) | 3:18 | 2023-09-29 | 2023-11-19 |
 | [Kiss Her](https://open.spotify.com/track/6qyHEaztEydyWCEOZjJSOv) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Kiss Her](https://open.spotify.com/album/4CR78cQqMeAlOVbmWswvOe) | 2:52 | 2021-05-15 | 2021-10-02 |
 | [Kiss Of Death](https://open.spotify.com/track/66UwsbwSTHbG5EPPHrCo9i) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Kiss Of Death](https://open.spotify.com/album/3tNYJylSZw5wiJEu1pekcZ) | 2:40 | 2023-10-27 |  |
 | [Know My Way Around](https://open.spotify.com/track/5CtXnj47Mr0ZXGjTbnd7Aj) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Know My Way Around](https://open.spotify.com/album/3R61ViOGcEiAk1mkBQMhy4) | 2:54 | 2021-08-28 | 2022-02-12 |

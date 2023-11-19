@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,531 likes - 174 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,564 likes - 174 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 94 | [Pogues Theme](https://open.spotify.com/track/2TzhYrAMAVPZU2gKHAnWiI) | [Fil Eisler](https://open.spotify.com/artist/5129CrVkHTSigIoqGiseqj) | [Pogues Theme \(From The Netflix Series Outer Banks\)](https://open.spotify.com/album/58wGqs5bjIluzWqFLJUuAv) | 5:23 |
 | 95 | [Left with a Gun](https://open.spotify.com/track/5B3qTqJSte8caqfr4qDbe0) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Oracolo](https://open.spotify.com/album/1YF0c4fRfsbfaTedJKAbho) | 4:28 |
 | 96 | [Down the River](https://open.spotify.com/track/5yZKbsxGXIkcHsu18qoiVX) | [Lord Cobra](https://open.spotify.com/artist/594DYT1aiPPrHBCOAs8c3t) | [Lord Cobra and the Caribbean Boys](https://open.spotify.com/album/6SOICPZu3czgwWCGvIKNC9) | 3:17 |
-| 97 | [Blood from a Stone](https://open.spotify.com/track/4Hk2eSKnWqwimFlSVbCxmT) | [Greg Humphreys Electric Trio](https://open.spotify.com/artist/0RDTYsBKxXbpvqowB0IATm) | [Haymaker](https://open.spotify.com/album/5WNH6eTenhL4iVWltJaq8d) | 3:34 |
+| 97 | [Blood from a Stone](https://open.spotify.com/track/4Hk2eSKnWqwimFlSVbCxmT) | [Greg Humphreys](https://open.spotify.com/artist/2P4ndh6Wwh55HNBsOHxoWA) | [Haymaker](https://open.spotify.com/album/5WNH6eTenhL4iVWltJaq8d) | 3:34 |
 | 98 | [Bad Kids](https://open.spotify.com/track/00FL5d6IDB4Q6VROycdzOP) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A) | 2:08 |
 | 99 | [John B Sail \(The Wreck of the John B\)](https://open.spotify.com/track/2zGdoeMBdeWlQeINKvHWdF) | [The Royal Victoria Hotel Calypsos](https://open.spotify.com/artist/2lbAmEkwTeWMeHBfPIS1Xp), [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Calypsonians \(1930 \- 1960\), Vol.3](https://open.spotify.com/album/4GmO9Pe5sQ7lkhnkdQlMNL) | 2:56 |
 | 100 | [Sandman](https://open.spotify.com/track/28I0KNqOmkvzzz7SghMhfu) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Bad Behavior](https://open.spotify.com/album/1wJMfWm97AQEJqz70orTU8) | 3:12 |
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 173 | [Never Gonna Let You Go](https://open.spotify.com/track/5LDysQO7wtl5rTdgCggcfj) | [Michael Miglio](https://open.spotify.com/artist/0aWCcfZbLCP2iqA8YHtlJF) | [Never Gonna Let You Go b/w Everytime It Rains](https://open.spotify.com/album/3YZTPPJrD1pj8tg43O6n1a) | 2:31 |
 | 174 | [The Raft](https://open.spotify.com/track/34WtaNeWz7O2W9ivsCGAt1) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Dr\. Boondigga & The Big BW](https://open.spotify.com/album/5ynDiqo0C63GVjc9q1ijAO) | 7:11 |
 
-Snapshot ID: `MCw5MDRmYTM5NGNhYWM2NWQ3NjNkYWVlMzJlMDkyZmI3Mzk0MTcyYTZj`
+Snapshot ID: `MCw0YzU5MDliOWVjNGM2MDQzMThjYjc2YmE5MGZjNTRkMGMxN2IxMWQz`

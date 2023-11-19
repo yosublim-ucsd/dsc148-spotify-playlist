@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Barry Can't Swim
 
-1,029 songs - 2 day 18 hr 27 min
+1,030 songs - 2 day 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -666,7 +666,8 @@
 | [Noise](https://open.spotify.com/track/2aVmzjkwJyTWxuUUu7aMIf) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Noise](https://open.spotify.com/album/1nxDKrCB3QOB3nKPQQMofF) | 4:42 | 2023-03-31 | 2023-05-08 |
 | [NoNewNews!!! \- Ben Hixon Remix](https://open.spotify.com/track/6aquBTxK51IypBHnGoJDTJ) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Ben Hixon](https://open.spotify.com/artist/3vT3Rpg0Mhu1iayVKeKjwP) | [GITHPREMIXEDITION](https://open.spotify.com/album/0pEbmdBXGb0acfUfxGEy9q) | 2:25 | 2023-09-01 | 2023-09-16 |
 | [Not My Girl \- Yuksek Remix](https://open.spotify.com/track/6Hkr4K98wyBiphwh8oMDNi) | [Ishi](https://open.spotify.com/artist/0PuOTaQilwmrn6xRCKVsFo), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Not My Girl \(Yuksek Remix\)](https://open.spotify.com/album/1fC2o7HEalSglSvmNRE6Y8) | 3:53 | 2021-04-20 | 2022-02-03 |
-| [Not Worthy \(feat\. Nonso Amadi\)](https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Not Worthy \(feat\. Nonso Amadi\)](https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g) | 3:12 | 2023-05-12 |  |
+| [Not Worthy \(feat\. Nonso Amadi\)](https://open.spotify.com/track/18HWae6js8hCuuVFkWrh3V) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [STILL EMO](https://open.spotify.com/album/74LSOp5FSRJFoMMhLpltKz) | 3:12 | 2023-10-02 |  |
+| [Not Worthy \(feat\. Nonso Amadi\)](https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Not Worthy \(feat\. Nonso Amadi\)](https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g) | 3:12 | 2023-05-12 | 2023-11-19 |
 | [Nothing Left To Lose](https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Nothing Left To Lose](https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69) | 3:44 | 2023-01-13 | 2023-06-01 |
 | [Nothing On Me](https://open.spotify.com/track/2xVQdYjh1Lul8dHAlas6W2) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Nothing On Me](https://open.spotify.com/album/6Fs2nzfKvHQTtUy00L7slL) | 2:34 | 2022-03-11 | 2022-07-29 |
 | [Nova](https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Nova / Moth](https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp) | 5:42 | 2022-02-11 | 2023-04-01 |

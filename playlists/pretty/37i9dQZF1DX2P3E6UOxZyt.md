@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星！Cover: Everydaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,690 likes - 72 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,702 likes - 72 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [AsiaFreaks Cypher Vol\. 1](https://open.spotify.com/track/36TyWbi4RfriFc3rZX9sEu) | [AsiaFreaks](https://open.spotify.com/artist/4a5T1aDrbNzFj41wwcngjD), [Majin](https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl), [五木](https://open.spotify.com/artist/3mhUWAPuY8zwG5ucHzAPa8), [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [Starr Chen](https://open.spotify.com/artist/1r0vOsQYMTyq1qkDv7p9QD), [E1and](https://open.spotify.com/artist/2DV0CXWV5eMJlEmT1jYJwa), [潮州土狗](https://open.spotify.com/artist/7jMy8JE32Ck096LLh6Hy4L) | [AsiaFreaks Cypher Vol\. 1](https://open.spotify.com/album/1YOgmakjBpWlTxqlj8O6Ye) | 5:09 |
 | 72 | [那些年](https://open.spotify.com/track/7g9BNWgLc4enw7GDqGkvyV) | [張若凡RuoFan](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [「說你愛我」索尼30經典翻唱](https://open.spotify.com/album/4SNLOkMmDgmFhHpZWjWJCr) | 4:34 |
 
-Snapshot ID: `MCw1N2ZlNTk3MGVjOWVkNzlkYzFjMDFlNWQyYmQ2YzgyMWFlYzc0MGQ4`
+Snapshot ID: `MCwwOTRkNjA1YjRmOWM3NjA4OGZmNmI1Nzg2NTM5ZmZiYTIwNzQ2MjZl`

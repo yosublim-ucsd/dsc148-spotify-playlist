@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 
 > time\-stretching granular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,004 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,064 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7mSWCFIT7v.md) - [plain]
 | 99 | [Arthur](https://open.spotify.com/track/7AFNqxLKcSL0LpNpOgmhKt) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Square One](https://open.spotify.com/album/2m4Et0BnKCV3SoJCeJVmSZ) | 7:05 |
 | 100 | [Some Way](https://open.spotify.com/track/6kRLQTgIr9LSudbn03qIMN) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Some Way](https://open.spotify.com/album/2dpL1I201z6H3710toHacQ) | 3:37 |
 
-Snapshot ID: `MCxkNjdkZDRjZGVlMTI1ZjExMmE4MTJkZmFiZTc1MGQ5MjBlMmM4OTA4`
+Snapshot ID: `MCw1ZmI1YTdiZGNlZWUwODE1MDdlYzYzMzE4OGVjNTIyM2U0OWJlNTcy`

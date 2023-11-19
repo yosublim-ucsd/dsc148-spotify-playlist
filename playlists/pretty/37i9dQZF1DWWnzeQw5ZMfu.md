@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,076 likes - 100 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,149 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 99 | [Warwick Avenue \- Live](https://open.spotify.com/track/7wLfeZcN4HW3qulI8CBNPs) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Divas En Directo](https://open.spotify.com/album/4ffR3iBOv3qVty8FmT1bLl) | 3:57 |
 | 100 | [Alone \- Live](https://open.spotify.com/track/3U8x5bb3UcDoYOBj9ksvEN) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Fanatic Live from Caesars Colosseum](https://open.spotify.com/album/4N4W7ZlX5DrFMMeQAPZUGC) | 4:22 |
 
-Snapshot ID: `MCw5MTg2MTYxYzcwYzBhZTE2NmJhMTM2OGY1NThiZTE1NzliMmMyYjdh`
+Snapshot ID: `MCwxM2QxOGI1YzZmZmMwMDdkY2RiMDY0MjQyMTE2OWYxNjczNTg5NWJh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLz6aEnpwGt.md) - [plain]
 
 > Bach's most popular piano pieces, performed by the greatest pianists of the last century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,280 likes - 43 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,320 likes - 43 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLz6aEnpwGt.md) - [plain]
 | 39 | [Concerto No\. 4 in A Major, BWV 1055: II\. Larghetto](https://open.spotify.com/track/6pGymrl8bVVIrK5WpLQObw) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Sonya Bach](https://open.spotify.com/artist/0zIN9w6AXy4ROnxYqXImJz), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Bach: Keyboard Concertos & Italian Concerto](https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy) | 4:38 |
 | 40 | [Partita No\. 1 in B\-Flat Major, BWV 825: IV\. Sarabande](https://open.spotify.com/track/7Ja4zr92OkUWRAHAtkhIxi) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Wolfgang Rübsam](https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj) | [Bach: Partitas, BWV 825\-826 \- Capriccio on the Departure of his Most Beloved Brother \- Prelude and Fughetta in G major, BWV 902](https://open.spotify.com/album/6rCzsHurqAHPhijo22SDSY) | 5:42 |
 | 41 | [Concerto No\. 4 in A Major, BWV 1055: I\. Allegro](https://open.spotify.com/track/2N2x1MOKx4pYBU6GkNh1ks) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Sonya Bach](https://open.spotify.com/artist/0zIN9w6AXy4ROnxYqXImJz), [English Chamber Orchestra](https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF) | [Bach: Keyboard Concertos & Italian Concerto](https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy) | 3:56 |
-| 42 | [The Well\-Tempered Clavier, Vol\. 1: Prelude No\. 11 in F Major, BWV 856](https://open.spotify.com/track/3JqdRHakoYB8mduMJ9GuYt) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Dina Ugorskaja](https://open.spotify.com/artist/4tQAfCgY8F9UMSw61sAtcm) | [Bach: The Well\-Tempered Clavier, Vol\. I](https://open.spotify.com/album/5o6DNs6vKQvQw2gKHgZZVV) | 1:25 |
-| 43 | [Partita No\. 5 in G major, BWV 829 : II\. Allemande](https://open.spotify.com/track/2pDSPZte0uGQMXSUnhxNzS) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Wolfgang Rübsam](https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj) | [J.S\. Bach: Partitas Nos\. 5\-6, Bwv 829\-830](https://open.spotify.com/album/5Q1zVK60jfvXQVmUqe8kgH) | 4:12 |
+| 42 | [Partita No\. 5 in G major, BWV 829 : II\. Allemande](https://open.spotify.com/track/2pDSPZte0uGQMXSUnhxNzS) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Wolfgang Rübsam](https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj) | [J.S\. Bach: Partitas Nos\. 5\-6, Bwv 829\-830](https://open.spotify.com/album/5Q1zVK60jfvXQVmUqe8kgH) | 4:12 |
+| 43 | [The Well\-Tempered Clavier / Book 1, BWV 846\-869 / Prelude & Fugue in F Major, BWV 856: I\. Prelude](https://open.spotify.com/track/6VmHc8sJbEBqvKdVAdMtM9) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Dina Ugorskaja](https://open.spotify.com/artist/4tQAfCgY8F9UMSw61sAtcm) | [Bach, J.S.: The Welltempered Clavier, Book 1, BWV 846\-869](https://open.spotify.com/album/6URISQk2NHG2VRJscCVBVu) | 1:25 |
 
-Snapshot ID: `MCw0N2QzODNiYjMyMjVmNjgzYjE2ZmM0NzBmZDgzNzk3M2Q2OTRmMWRk`
+Snapshot ID: `MCwyN2MzN2NiOGUxZTY3MGMyNjhmODc5OGMzZWNmNGZiNzRmMjg3OTlj`

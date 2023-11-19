@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: aiko
 
-1,915 songs - 5 day 4 hr 0 min
+1,916 songs - 5 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -656,6 +656,7 @@
 | [n.o.y.b \(feat\. Furui Riho\)](https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [n.o.y.b \(feat\. Furui Riho\)](https://open.spotify.com/album/3GPIrOmn7HCQp52OD6Gnhf) | 3:57 | 2023-04-25 | 2023-07-13 |
 | [nagame](https://open.spotify.com/track/2tLy9jIGMYYDMyRDlgFzn8) | [Schuwa Schuwa](https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8) | [michikake](https://open.spotify.com/album/1qC9c7GXq1TNzwXydigrzI) | 4:43 | 2023-10-24 | 2023-11-01 |
 | [Naimononedari](https://open.spotify.com/track/3o8bAr8xAgnlkdq8Dd6IvO) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11th Album Kioku no Toshokan](https://open.spotify.com/album/6fMoOjoupQC9dszgcKkhj6) | 4:05 | 2023-05-30 | 2023-06-28 |
+| [Name of Life](https://open.spotify.com/track/3E7Tmjfqt4PpulTC9sjXSh) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Studio Ghibli Tribute Album "Ghibli o Utau"](https://open.spotify.com/album/0iso79mD0QNlcE4gbwVJJA) | 4:29 | 2023-11-16 |  |
 | [NATSU NO HAMON](https://open.spotify.com/track/7eukm0qtr0iBsVl3R9ktqr) | [heimrecord](https://open.spotify.com/artist/2JgVdTFw8AOfFAQEmb4NYC) | [NATSU NO HAMON](https://open.spotify.com/album/7gpyp8SJ911G4AUYdB04oa) | 5:27 | 2022-08-31 | 2022-09-07 |
 | [Negau Yoru](https://open.spotify.com/track/5nqjG5L7wOc6PQDY2L1kl0) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Negau Yoru](https://open.spotify.com/album/5YYC8jf3QNZzBzw1YdpiIF) | 3:55 | 2023-03-28 | 2023-04-01 |
 | [Negau Yoru](https://open.spotify.com/track/0EkZthPot9kiQ1roxjD80n) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 3:56 | 2023-03-30 | 2023-04-05 |
@@ -736,7 +737,7 @@
 | [P.S.](https://open.spotify.com/track/5IUa0XCUrIzqjBcFv5fgRo) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [P.S.](https://open.spotify.com/album/4Ov5F3jrRQcCApqS3NheI0) | 2:52 | 2023-07-06 |  |
 | [Pain](https://open.spotify.com/track/5ut0TnRu9yc6BqZIl6DTvD) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Pain](https://open.spotify.com/album/4eZvJCg17A85m1guu6YCki) | 3:52 | 2022-09-27 | 2022-09-29 |
 | [Pain](https://open.spotify.com/track/63mpq0qgX2kJKKZemv1tVt) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Pain](https://open.spotify.com/album/2rAXWKVVeDpKypdooj43k3) | 3:52 | 2022-09-27 | 2022-10-26 |
-| [Paint It, Smile! feat\. Shin Sakiura & Rachel](https://open.spotify.com/track/0PhkWYgL04mgzCaH9JhkUb) | [BACARDI RECORDS](https://open.spotify.com/artist/50HufyqvWA4Bj4GuWf0ztA), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [Rachel](https://open.spotify.com/artist/7IYn0abL8ItO9AK63p7UFk) | [Paint It, Smile! feat\. Shin Sakiura & Rachel](https://open.spotify.com/album/1HrBVaDefeiNUle3ZCa62M) | 3:54 | 2023-11-16 |  |
+| [Paint It, Smile! feat\. Shin Sakiura & Rachel \(Blended by tofubeats\)](https://open.spotify.com/track/0PhkWYgL04mgzCaH9JhkUb) | [BACARDI RECORDS](https://open.spotify.com/artist/50HufyqvWA4Bj4GuWf0ztA), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [Rachel](https://open.spotify.com/artist/7IYn0abL8ItO9AK63p7UFk) | [Paint It, Smile! feat\. Shin Sakiura & Rachel \(Blended by tofubeats\)](https://open.spotify.com/album/1HrBVaDefeiNUle3ZCa62M) | 3:54 | 2023-11-16 |  |
 | [Painting in the Dusk](https://open.spotify.com/track/0Aoh3DIsXbABQwCd2lf0iN) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [Painting in the Dusk](https://open.spotify.com/album/5Q5rMzHJyXJFSMbLaRIV1v) | 4:18 | 2023-03-07 | 2023-03-15 |
 | [palette](https://open.spotify.com/track/4JkcfPD2fir5ApJGEjXDZ5) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [PALETTE](https://open.spotify.com/album/1sOmwSreycIb0KTHyxAQUQ) | 3:11 | 2022-05-29 | 2022-07-29 |
 | [PARA PARA](https://open.spotify.com/track/1YzmMIwRPMdg7K6R70xRtk) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [PARA PARA](https://open.spotify.com/album/0Hu0UM5fv5YvWpRcFHyNrA) | 2:50 | 2023-06-13 | 2023-06-15 |
@@ -1156,7 +1157,7 @@
 | [いとしさ](https://open.spotify.com/track/3X6yE297mjPXWg7jBUjWOW) | [Mizuki Ohira](https://open.spotify.com/artist/5rNUVqgzCi4FX47RY8n9cx) | [いとしさ](https://open.spotify.com/album/4qGnhoSSXAoNITqTqlnyHd) | 2:54 | 2023-07-04 | 2023-08-02 |
 | [いとしのエリー](https://open.spotify.com/track/1TApEXSKbGFEEWoRAReZI6) | [JUJU](https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej) | [スナックJUJU ～夜のRequest～ 『帰ってきたママ』](https://open.spotify.com/album/1TRaceQ2OvqtBD79bEwkmt) | 4:23 | 2023-10-31 | 2023-11-08 |
 | [いとをかし](https://open.spotify.com/track/7EDm2Hy7WYm49AXywJdpkW) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [いとをかし](https://open.spotify.com/album/0IeYhVouWKJSzL9RoaJoQf) | 3:15 | 2022-05-29 | 2022-11-04 |
-| [いのちの名前](https://open.spotify.com/track/0uUiDGILIZ6QYSjFhbNwSz) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スタジオジブリ トリビュートアルバム「ジブリをうたう」](https://open.spotify.com/album/3lB0B7C191nUhH8ar64hJ0) | 4:29 | 2023-10-31 |  |
+| [いのちの名前](https://open.spotify.com/track/0uUiDGILIZ6QYSjFhbNwSz) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スタジオジブリ トリビュートアルバム「ジブリをうたう」](https://open.spotify.com/album/3lB0B7C191nUhH8ar64hJ0) | 4:29 | 2023-10-31 | 2023-11-19 |
 | [いまここ](https://open.spotify.com/track/06NsjfSGnA7jfhrWRjq7wE) | [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [いま](https://open.spotify.com/album/3y1iNXWyjKx62G6EKq3Hr3) | 11:23 | 2023-06-20 | 2023-06-28 |
 | [いまだけ](https://open.spotify.com/track/5hvX6FzExPLJgmPRVLyvqZ) | [Kana Adachi](https://open.spotify.com/artist/6SY4uTql6IMmzbAJH9oAsJ) | [いまだけ](https://open.spotify.com/album/7fAKRqfPEoqDFWhRbQ5qZm) | 3:14 | 2022-09-29 | 2022-10-05 |
 | [うそつき](https://open.spotify.com/track/5IBNmCgZO97b2wqgh8dQSf) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [うそつき](https://open.spotify.com/album/2JDz624JdZ8McGoKJAXPvX) | 4:57 | 2023-05-11 | 2023-07-25 |

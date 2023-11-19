@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits já consagrados e os novos nomes da cena pop dividindo o mesmo palco!  / Foto: PRISCILLA, Bonde do Tigrão
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,005 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,034 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 79 | [sinto muito](https://open.spotify.com/track/1ZNk7XzTYha1MgKl4K3kJw) | [BENJAMÍN](https://open.spotify.com/artist/3QvQ9sZG5xZHu4foUWiK5P) | [sinto muito](https://open.spotify.com/album/5zTaa6tUbzf19VztvJerVq) | 2:53 |
 | 80 | [Insegura](https://open.spotify.com/track/34XDlytLvelV6XaVPkWLyz) | [Lori](https://open.spotify.com/artist/30zBkdxHh8fXgxTx99rwhH) | [Cuore Aperto](https://open.spotify.com/album/2oSnyEJ0FAzDNJMA1oZ8Lg) | 2:58 |
 
-Snapshot ID: `MCw3NGNhOWU2NjgwYmQwYzYxMjc4OTczYjUxODUwOGNkMzYwYTI2ZGVl`
+Snapshot ID: `MCwyZWE2OGQwZDExMzE4N2Y4MDAxMzM0YzJhNWFjMDI0MmFjMjczYWNh`

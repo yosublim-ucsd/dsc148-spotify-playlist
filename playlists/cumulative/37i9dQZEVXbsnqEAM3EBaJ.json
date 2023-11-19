@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 213191,
       "name": "ANTHEM PART 3",
       "url": "https://open.spotify.com/track/0szPyERyieVe2ivJTLMJFW"
@@ -7552,7 +7552,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 224586,
       "name": "Home (with Michael Bubl\u00e9)",
       "url": "https://open.spotify.com/track/3bGcmjOqLYBVt1AtiLpmmT"
@@ -9148,7 +9148,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 253925,
       "name": "It's A Monster - Live 1989",
       "url": "https://open.spotify.com/track/0wKSZJ7XLysFWRQFnHVEpS"
@@ -11074,7 +11074,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 321793,
       "name": "Madre Agua",
       "url": "https://open.spotify.com/track/1Q6bxB00j7GZdm484jxovF"
@@ -11855,6 +11855,24 @@
     },
     {
       "album": {
+        "name": "Leave Me Blue (Live)",
+        "url": "https://open.spotify.com/album/5DHLdDb2OAxCXGXlBK64rI"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284945,
+      "name": "Mutha (Don't Wanna Go To School Today) - Live 1989",
+      "url": "https://open.spotify.com/track/1z8bRmSyzJ9BBX0KhvKvPO"
+    },
+    {
+      "album": {
         "name": "My Cosmos Is Mine",
         "url": "https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv"
       },
@@ -11932,7 +11950,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 228883,
       "name": "My Favourite Stranger - Ela Minus Remix",
       "url": "https://open.spotify.com/track/0mmzCZ3uYf9r4AwiH0m3o3"
@@ -13962,7 +13980,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 187880,
       "name": "Put A Little Holiday In Your Heart (with Cyndi Lauper)",
       "url": "https://open.spotify.com/track/0DSOt7MdnrRyh8oT8w1t6r"
@@ -15380,6 +15398,24 @@
       "duration_ms": 303945,
       "name": "Seasons Of Wither",
       "url": "https://open.spotify.com/track/3Fw0ZcHVaNN8k3cppKjRiB"
+    },
+    {
+      "album": {
+        "name": "ONE MORE TIME...",
+        "url": "https://open.spotify.com/album/00txDYFrU4LjWqwKE8iQJA"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200554,
+      "name": "SEE YOU",
+      "url": "https://open.spotify.com/track/3UiGU4b8sbTobJEi6OEi9h"
     },
     {
       "album": {
@@ -17112,7 +17148,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 173093,
       "name": "Tchaikovsky: The Nutcracker - Dance of the Flutes - slowed + reverb",
       "url": "https://open.spotify.com/track/5dAnFmuYE2tsgDW83Qacc9"
@@ -18017,6 +18053,28 @@
     },
     {
       "album": {
+        "name": "Selections From The Nutcracker (LO-FI Hip Hop)",
+        "url": "https://open.spotify.com/album/55WYGg22vIySFtppKWxQIK"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "LO-FI BEATS",
+          "url": "https://open.spotify.com/artist/7iUy9ctasMRtp5jwWs95Fm"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210825,
+      "name": "The Nutcracker, Op.71, Act I Scene 2: The Forest of Fir Trees In Winter - LO-FI Hip Hop",
+      "url": "https://open.spotify.com/track/0i9ktfACheecVu5YJX48yH"
+    },
+    {
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/45FGsNi8qTqFla0M1DlnKa"
       },
@@ -18112,7 +18170,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 248083,
       "name": "The Retaliators Theme (21 Bullets) (feat. Ice Nine Kills, Asking Alexandria, From Ashes To New) - Acoustic",
       "url": "https://open.spotify.com/track/0nluh04rCNhjqVdPsQpjDq"
@@ -20074,7 +20132,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 259048,
       "name": "We Go To War",
       "url": "https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu"

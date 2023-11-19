@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Damini Bhatla, Krishna Tejasvi
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,976 likes - 77 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,986 likes - 77 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Premalekha](https://open.spotify.com/track/5Vwh2Q1i7rgCOPlINMI4Ju) | [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [Premalekha](https://open.spotify.com/album/3OO5kpArurrmesBm3lWx3u) | 4:09 |
 | 2 | [Bhoo Bandham](https://open.spotify.com/track/4UXkFdFmKnkZP6gcF3rb3a) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo), [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD) | [Bhoo Bandham](https://open.spotify.com/album/1BpORTZsYI1axbf7yr5DBM) | 5:38 |
-| 3 | [Gaayam](https://open.spotify.com/track/29s6xk3dSdZKncZ3vs8Vd3) | [Manish Kumar](https://open.spotify.com/artist/6o6rpeT8ec4u0MHxF3SgNW), [Vyshu Maya](https://open.spotify.com/artist/2FEvji9wl0Qx3jUyYd0pQQ) | [Gaayam](https://open.spotify.com/album/05TeXFjEj6uc5mxLEX4Qng) | 5:12 |
+| 3 | [Gaayam](https://open.spotify.com/track/29s6xk3dSdZKncZ3vs8Vd3) | [Manish Kumar](https://open.spotify.com/artist/6o6rpeT8ec4u0MHxF3SgNW), [Vyshu Maya](https://open.spotify.com/artist/2FEvji9wl0Qx3jUyYd0pQQ) | [Gaayam](https://open.spotify.com/album/05TeXFjEj6uc5mxLEX4Qng) | 5:15 |
 | 4 | [Noi](https://open.spotify.com/track/2dgzpgnsazXnZ6j1DrbjWU) | [Phani Kalyan](https://open.spotify.com/artist/2n92BmuG0DXulB6zWpiWI0) | [Noi](https://open.spotify.com/album/4NgYkaGqkrfceZDU9ZJM1V) | 4:45 |
 | 5 | [Love Letter](https://open.spotify.com/track/2SxtMJPmfsYCVGbb6LNUhH) | [Planet boy Beatz](https://open.spotify.com/artist/56CIJrBUel6HubJ4fqqrbj) | [Love Letter](https://open.spotify.com/album/4WFqBAoF8CsQjnz7heo2Wm) | 2:22 |
 | 6 | [Godavari](https://open.spotify.com/track/7EmSbTmg17FhujgxefuPBa) | [Arjun Vijay](https://open.spotify.com/artist/148MlefZjMglgC4ni3EBpB) | [Godavari](https://open.spotify.com/album/2J4cu3KzM51Te8P8uTcFAC) | 3:07 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 76 | [Oggesi Ponadhe Nanu Oggesi Ponadhe](https://open.spotify.com/track/29uZ19VV4GQyS8mKdyavOf) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [RAM](https://open.spotify.com/artist/4wxme1noavrvUnP6Is0ajq), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS) | [Layilo](https://open.spotify.com/album/4xy4FT93ivcqANeyvZxEuh) | 3:13 |
 | 77 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 |
 
-Snapshot ID: `MCw0NDM1MDQxNDg0NDcxM2RjYTIzYTdhN2YxNTExMGZhZGU3NTNiNzRm`
+Snapshot ID: `MCwxMDQ4OTk3MjA3ODVmNjgwNWMyNjI5OWQyMGZiOWNkYmEzN2NiNWIz`

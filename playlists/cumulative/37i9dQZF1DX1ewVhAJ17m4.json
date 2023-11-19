@@ -5531,6 +5531,24 @@
     },
     {
       "album": {
+        "name": "Past // Present // Future (Deluxe)",
+        "url": "https://open.spotify.com/album/3CSC52xCPslJCpjPFYg4fb"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154274,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/27by2Pb8Ys2KmVVGkPAujq"
+    },
+    {
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/3vW6XXJIIfZZRd7TtNR5J1"
       },
@@ -5542,7 +5560,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 154274,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/2SISsR0V9kNjOHU9sJa413"

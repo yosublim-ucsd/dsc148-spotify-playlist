@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 
 > All Coke Studio Pakistan tracks in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,614 likes - 150 songs - 16 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,657 likes - 150 songs - 16 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 | 149 | [Kheryaan De Naal](https://open.spotify.com/track/4vb3eXV5MUr5qGMCJ2XdEO) | [Niazi Brothers](https://open.spotify.com/artist/6EZ4uVu8oBRwuqt2K38TWl) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 7:54 |
 | 150 | [Chal Diyay](https://open.spotify.com/track/2BnBTE1aK5OLXmrdx951Lg) | [Zeb, Haniya & Javed Bashir](https://open.spotify.com/artist/1f4iMSEs6INRJOf87jpn0C), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 5:48 |
 
-Snapshot ID: `MCwwNmQxNzUwYTdhNzBhOTVjZTcyYzRhM2U3MWZlYmU5MWE2N2ZhYWZk`
+Snapshot ID: `MCxmMTVkYzdkYWY2NWUwOTk0OWFlMGQ3ZGVmMzRjZDRkMTIwNTAyMzI4`

@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Prem Dhillon
 
-258 songs - 12 hr 21 min
+259 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,8 +27,9 @@
 | [All Sorted](https://open.spotify.com/track/1yuduFmsdDHWRrJiQCL73U) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [GURI SINGH](https://open.spotify.com/artist/4YK5CprOTeHRmdNX0c5UpZ), [MIXBYDOLCE](https://open.spotify.com/artist/4tcqUfUJ97wTStbNVYK9ul) | [All Sorted](https://open.spotify.com/album/4JZuiGIpa59jLIeJvzH4za) | 2:58 | 2023-04-21 | 2023-05-06 |
 | [Aloof](https://open.spotify.com/track/1CqkvBoq1vYh0TVX67aVFe) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC) | [YOLO](https://open.spotify.com/album/4xBhPWyrysJmW2bnaGKXOV) | 2:46 | 2023-03-29 |  |
 | [Area De Jatt](https://open.spotify.com/track/4rSERGLZ8k4AV7GXsfU5Ji) | [Darsh Dhaliwal](https://open.spotify.com/artist/3kTRwHuAvpLQmaxjtCUEXq), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Area De Jatt](https://open.spotify.com/album/05MRUTVqjKYuIUBn0gmeK4) | 4:12 | 2023-03-29 | 2023-04-25 |
+| [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K) | 3:02 | 2023-11-18 |  |
 | [Award](https://open.spotify.com/track/5jTxpXe7Lav7oUdWYGzpPg) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Award](https://open.spotify.com/album/6BKaGsIy9fP46kMc9olq32) | 2:55 | 2023-08-21 |  |
-| [Backbone](https://open.spotify.com/track/7crVv5ckSrKt4uRMNhzvPM) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy), [KR](https://open.spotify.com/artist/171hduWXUKyqmow0NKy4aM), [Mani Rai](https://open.spotify.com/artist/5eKDsKLXibdyzKpRkaZfY1) | [Backbone](https://open.spotify.com/album/1PDnZ9aOMsGrsyA6z0GPjy) | 2:42 | 2023-11-15 |  |
+| [Backbone](https://open.spotify.com/track/7crVv5ckSrKt4uRMNhzvPM) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy), [KR](https://open.spotify.com/artist/171hduWXUKyqmow0NKy4aM), [Mani Rai](https://open.spotify.com/artist/5eKDsKLXibdyzKpRkaZfY1) | [Backbone](https://open.spotify.com/album/1PDnZ9aOMsGrsyA6z0GPjy) | 2:42 | 2023-11-15 | 2023-11-19 |
 | [Bad Boy](https://open.spotify.com/track/405XCqBuCIDDqVnaRYWKr6) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Bad Boy](https://open.spotify.com/album/6r6cbSRfx2jw0Ih1xB7KfW) | 3:00 | 2023-06-08 | 2023-07-13 |
 | [Badberry](https://open.spotify.com/track/5pswO9oQUB8uJtvpmxbeTV) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Limitless](https://open.spotify.com/album/3pf6uLZdrxvd7W75J443Dw) | 3:44 | 2023-10-25 |  |
 | [Badmashi](https://open.spotify.com/track/0CDDcwKKEemSQCZIEtXJDZ) | [Jigar](https://open.spotify.com/artist/4O0mhPUgsrXDOYxCHw3A8T), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Narinder Batth](https://open.spotify.com/artist/74M1wGWIo8rcoavCwsmY3P) | [5 Star](https://open.spotify.com/album/74xZFmbJV28PX8ZzHG4iBn) | 3:02 | 2023-06-27 |  |

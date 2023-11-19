@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288,934 likes - 550 songs - 20 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,289,487 likes - 550 songs - 20 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -559,4 +559,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Uebhn9wzrS.md) - [plain]
 | 549 | [Flattery](https://open.spotify.com/track/0EZzvnbBEDGBjaQRseSrbf) | [The Modern Zolo](https://open.spotify.com/artist/566dcTwvUwHWNp2bThMR3f) | [After Life](https://open.spotify.com/album/1pyFsXsMNGOaRzBPQtZLdQ) | 2:00 |
 | 550 | [Silence](https://open.spotify.com/track/63XQRpucFtZi1c8tQx48L2) | [Netta Inn](https://open.spotify.com/artist/7lF2gpQHWssOuxR1kipNsn) | [Silence](https://open.spotify.com/album/476w42Oq9dToIaLBwPvQaS) | 2:43 |
 
-Snapshot ID: `MCw5Mjk3ZmQyYzQzNTAwMzlhNTI5ZDlhZDAxZmY0NGZjMTdjMTNhMWFi`
+Snapshot ID: `MCwwNWJhYTc2MTllMWE1OGJiMGIwMmQ0YWVlNTE3MzcyNmRmNzQ1OWU3`

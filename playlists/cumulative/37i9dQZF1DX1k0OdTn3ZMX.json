@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Heartless",
+        "url": "https://open.spotify.com/album/0BX61gwMlOKkAzSxrdtwye"
+      },
+      "artists": [
+        {
+          "name": "Nonpoint",
+          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210132,
+      "name": "A Million Watts",
+      "url": "https://open.spotify.com/track/6EVq7Odm1pcur4ERtZssv6"
+    },
+    {
+      "album": {
         "name": "A Million Watts",
         "url": "https://open.spotify.com/album/1jw4j7wSJPz7Niz2B36cRw"
       },
@@ -52,7 +70,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 210133,
       "name": "A Million Watts",
       "url": "https://open.spotify.com/track/32FJsFEX94WIb5nio2jhnq"

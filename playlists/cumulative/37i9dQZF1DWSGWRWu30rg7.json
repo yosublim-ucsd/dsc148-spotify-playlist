@@ -39409,6 +39409,24 @@
     },
     {
       "album": {
+        "name": "Second Best",
+        "url": "https://open.spotify.com/album/6XZbRLimdluO9U3CTfv5rh"
+      },
+      "artists": [
+        {
+          "name": "Eric Anthony",
+          "url": "https://open.spotify.com/artist/7M6uxPnBIeB4IeAyNfAWBR"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164673,
+      "name": "Second Best",
+      "url": "https://open.spotify.com/track/554wETffBmPvRnaeXpzS6d"
+    },
+    {
+      "album": {
         "name": "secret",
         "url": "https://open.spotify.com/album/4mApK4NwtxtSWtXZEkk6CB"
       },

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 
 > Icons only\. Cover: Duran Duran
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,926 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,938 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Brand New Sun](https://open.spotify.com/track/2o6aK5vgtn1t99QW7f41a0) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Brand New Sun](https://open.spotify.com/album/7l0dx91ryn70a3nDws8yym) | 4:28 |
 | 2 | [Mess It Up](https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 4:03 |
-| 3 | [Forever and More](https://open.spotify.com/track/0B9xp10eoOa1XK5F30gY0l) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Are We There Yet?](https://open.spotify.com/album/0BuCV5EL2sM6iUvaxFtpPx) | 3:37 |
+| 3 | [Forever and More](https://open.spotify.com/track/7zwrqxwaAg1wrouppSGaaM) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Are We There Yet?](https://open.spotify.com/album/5sDuophQhwHGXQwGzxJSsg) | 3:37 |
 | 4 | [DANSE MACABRE](https://open.spotify.com/track/2hxJocwTTkJBREFV8OohKD) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [DANSE MACABRE](https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif) | 4:22 |
 | 5 | [Where Do We Go From Here?](https://open.spotify.com/track/7FvVCkVvkumj6i9exLGwzD) | [Agnetha Fältskog](https://open.spotify.com/artist/7fUtt9kVZOyn9LWy0JbDRI) | [A+](https://open.spotify.com/album/0m0XrpZNLk9hKqhkKbxd7z) | 3:13 |
 | 6 | [Fake It 'Til You Make It](https://open.spotify.com/track/6hiURAxDXme5mWZUg6sBj9) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Automatic](https://open.spotify.com/album/3XEVD5T03YvAoojsCXlTgq) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 | 49 | [Find My Way](https://open.spotify.com/track/1SYdSWLyeVMjHYXD1iJZoY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney III](https://open.spotify.com/album/1P7h3400RJA3YZm8Va2884) | 3:54 |
 | 50 | [Bang A Gong \(Get It On\)](https://open.spotify.com/track/53D3QRrXV0vyy2PSXAhuxG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Bang A Gong \(Get It On\)](https://open.spotify.com/album/0aptgsGtrV5XvnopE7ZjSo) | 4:26 |
 
-Snapshot ID: `MCw5NDNkYjUwYTdhMzJmMDVlZTRmODcxNDBkODc5ZDVlY2U5M2E5NTg0`
+Snapshot ID: `MCxhMWRhYzM4NjRhMDMxYTcxNTBiMmJlODNmMmVhMzk5YWM4MTEzZTQw`

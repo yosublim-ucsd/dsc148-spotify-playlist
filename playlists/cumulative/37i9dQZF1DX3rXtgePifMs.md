@@ -2,7 +2,7 @@
 
 ### [EA SPORTS FC 24 Official Soundtrack](https://open.spotify.com/playlist/37i9dQZF1DX3rXtgePifMs)
 
-> The official EA SPORTS FC 24 Soundtrack.
+> El soundtrack oficial de EA SPORTS FC 24.
 
 101 songs - 5 hr 26 min
 

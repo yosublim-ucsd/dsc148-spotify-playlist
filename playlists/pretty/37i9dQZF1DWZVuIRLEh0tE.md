@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Los sonidos urbanos de RD, pa' lo tígueres de alta gama\. En portada: Dilon Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,172 likes - 90 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,229 likes - 90 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 60 | [EL REGRESO](https://open.spotify.com/track/284ZJpHBxr8FVxPG9pZ1Is) | [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t) | [LAPIZ HISTORIAS, Vol\. 2](https://open.spotify.com/album/7yIJjWqAwObs7a7aNYe5ng) | 7:13 |
 | 61 | [Cuando Salga El Sol](https://open.spotify.com/track/4Ocz86tnWtuS41qrDq4AH0) | [Lapiz Conciente](https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t) | [Lapiz Historias, Vol.1](https://open.spotify.com/album/568zd4oNVZcyLngU4DaFLm) | 7:21 |
 | 62 | [No Es Lo Mismo](https://open.spotify.com/track/2VZQb01aXXgefwC8YMdYQe) | [Crazy Point](https://open.spotify.com/artist/5PUdPz2UyFQzWlBLYp0HOb) | [No Es Lo Mismo](https://open.spotify.com/album/4in1TBcB8CIQwiOEImHrB2) | 2:45 |
-| 63 | [Tatanita](https://open.spotify.com/track/33yviuo2xDLqUjr6vFPOKi) | [Exotico](https://open.spotify.com/artist/1KlpReitxbGPUQwgBIvhu0), [GTA Montana](https://open.spotify.com/artist/6Uqd8A4SnYzqZqImaDqnaG) | [Tatanita](https://open.spotify.com/album/7qpGOu9U3jDwnDA8Rv8aTm) | 3:15 |
+| 63 | [Tatanita](https://open.spotify.com/track/1YQ0FkvlPz8fDqC1xHxyyb) | [Lito Kirino](https://open.spotify.com/artist/3ncPa7jYtkSXeyIDaK6YdA) | [Tatanita](https://open.spotify.com/album/38wNatyY6fjt2AgYMfMmtG) | 3:15 |
 | 64 | [Rico Feo](https://open.spotify.com/track/36AdYWyVOERiPFL4SfpJCM) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC), [Polojoa](https://open.spotify.com/artist/5NLrbpvxzozyk0Y315EDPt) | [Rico Feo](https://open.spotify.com/album/4xYqfbtDwQBdZwgfUy4XQJ) | 3:59 |
 | 65 | [1:00 Am](https://open.spotify.com/track/0lGyrbBoaDY01jJzK7MxVT) | [Carlos uzi](https://open.spotify.com/artist/6Kks7YDYdfbqWrfbWTN8R3), [Quintuple](https://open.spotify.com/artist/0tLuBB2WmsWCI8FThxG2vU) | [1:00 Am](https://open.spotify.com/album/4bdicd0eUQ4mUkvopZA5Ev) | 2:43 |
 | 66 | [Gogo Dance](https://open.spotify.com/track/0NewxJTiqOlMVKaaTgLlMY) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [SABIDURIA](https://open.spotify.com/album/6paK8J7C7IJSK643aahwkc) | 2:53 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 89 | [El Toro](https://open.spotify.com/track/1vxryrqzNEJwIXFusC2U7t) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [El Toro](https://open.spotify.com/album/4YlZJyaLuOrjvaReHUvxCm) | 2:40 |
 | 90 | [Mira el 30](https://open.spotify.com/track/0jMDFipJeGgbXP36vh4l08) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [Mira el 30](https://open.spotify.com/album/6JvPGRhspJ4MqBXBIIEE6D) | 2:09 |
 
-Snapshot ID: `MCw2NzhlYTZmODQ0NWQwMjgyMjY1ODIwYmVjYTI5ZmQxYzRhNzE1N2Ji`
+Snapshot ID: `MCwzOWJkNTc3MzY5YzM5M2QzNDVjOGUzYzU5YzBmNDgzZDJhOWJkZjNm`

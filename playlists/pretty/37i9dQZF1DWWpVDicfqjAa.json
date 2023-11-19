@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:5ITI6SEoUZMIXXkzCfr4oE\">Aluna</a>'s favorite tracks. Updated regularly. Curated by Aluna. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 35326,
+  "num_followers": 35328,
   "original_name": "Aluna's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTg4NzQwZmViOTY3NTc2ZjlkNWU3ZjgwY2Q5NjRlNTc2ZGFkY2M4",
+  "snapshot_id": "MCxmN2JlYTc3MWYzNGVmNjY3ODBkMTY0OTU0MzdlZDYyYzI0MzFmOTcx",
   "tracks": [
     {
       "added_at": "2023-11-02 16:55:55",
@@ -51,7 +51,7 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Lmk Pt. 1 (RICHTANNER\u00ae Remix)",
+        "name": "LMK PT. 1 (RICHTANNER\u00ae Remix)",
         "url": "https://open.spotify.com/album/4cG95ddsN82FCuMFrQvDCJ"
       },
       "artists": [
@@ -60,20 +60,12 @@
           "url": "https://open.spotify.com/artist/5HPjPH8s4bbWJ42q818LGL"
         },
         {
-          "name": "MAAD",
-          "url": "https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd"
-        },
-        {
-          "name": "Raleigh",
-          "url": "https://open.spotify.com/artist/4wj7NpN3vew4FXcbYF7m2C"
-        },
-        {
           "name": "RICHTANNER\u00ae",
           "url": "https://open.spotify.com/artist/4FNt3NCIaotQhqsfXVpv8r"
         }
       ],
       "duration_ms": 228196,
-      "name": "Lmk Pt. 1 (RICHTANNER\u00ae Remix)",
+      "name": "LMK PT. 1 (RICHTANNER\u00ae Remix)",
       "url": "https://open.spotify.com/track/7dyKCXrzSOXXmu413mdQVQ"
     },
     {

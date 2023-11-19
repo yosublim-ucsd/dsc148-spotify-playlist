@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Eurice Diniz
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,890 likes - 85 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,017 likes - 85 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 84 | [Dono da Promessa \- Ao Vivo](https://open.spotify.com/track/1s4qZgWod9sm2XFWAlRYyk) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Dono da Promessa \(Ao Vivo\)](https://open.spotify.com/album/2nFGwCSljBIK7MWMyNa4AS) | 5:57 |
 | 85 | [Página Virada \- Ao Vivo](https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Página Virada \(Ao Vivo\)](https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD) | 7:03 |
 
-Snapshot ID: `MCw0Y2VkYmY5NzAwYWM5ZGM4OTM0N2Y0YmVlMzE2N2QyNWNhNzA3ZGJm`
+Snapshot ID: `MCxhZTdhMjQ0OGU0MDhhYzdjZWRjOGE2ZDBjOWU2NDQ3NzVlNTg5NzU2`

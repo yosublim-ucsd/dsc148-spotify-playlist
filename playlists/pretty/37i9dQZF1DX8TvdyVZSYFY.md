@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 
 > Big hits from the world of acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,069,884 likes - 300 songs - 17 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,069,914 likes - 300 songs - 17 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 | 299 | [Call On Me \- Acoustic Version](https://open.spotify.com/track/7eTkIKmFgeb9MQmkTC2jCi) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV) | [Call On Me \(Acoustic Version\)](https://open.spotify.com/album/1CKFN0JYtkyPOgEIkIvBz2) | 2:28 |
 | 300 | [The Book of Love \- Spotify Session](https://open.spotify.com/track/54FZgilRgqRRxwIz0tPly6) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Spotify Session](https://open.spotify.com/album/2IV7ZEABJEfaqxuQWlbV48) | 3:23 |
 
-Snapshot ID: `MCw4YTBlMjBhMGUyNjJjNmIxZTNmMzE3NmUzOTg4NDJmODg2Y2ExM2Ey`
+Snapshot ID: `MCxjODE4Mzc4ZmQ0YmU0YzExZTliMDU3MjY5OTRlZTRmMTRjMzY2OTJk`

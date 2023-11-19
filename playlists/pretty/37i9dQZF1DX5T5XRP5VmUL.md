@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > Dreaming of a white Christmas ✨❄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,981 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,229 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [Sleigh Ride](https://open.spotify.com/track/6IXWwaxcBVLqSbU39Pqc19) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Sleigh Ride](https://open.spotify.com/album/76ZALfjfhhwd6WPW1JBhop) | 3:05 |
 | 100 | [Maybe This Christmas](https://open.spotify.com/track/0c58Aj6LMtGrYASYmjl2kR) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Mellow Christmas Acoustic](https://open.spotify.com/album/7a9xO4nvdqFcrMb2eHtojJ) | 1:52 |
 
-Snapshot ID: `MCxmYzk4ZTllOTIxNzY4MTMyZTEwMjIxMzE4ZGE2NzYyNWQ4NzM5ODAy`
+Snapshot ID: `MCwxNjYwOTMxYzI5MzRlMDEwZjM3OGE2M2Y0M2M5MjkyYTk2MGE2NWNk`

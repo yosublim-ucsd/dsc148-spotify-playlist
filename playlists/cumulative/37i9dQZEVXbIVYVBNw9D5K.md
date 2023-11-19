@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-789 songs - 1 day 15 hr 39 min
+791 songs - 1 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Benden Bir Tane Daha Yok](https://open.spotify.com/track/5vbUKpzqUdNHi68OmxdmBC) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Afrodizyak](https://open.spotify.com/album/4TMsAIQX08fIY9pfSE2y7G) | 2:19 | 2023-06-24 | 2023-09-08 |
 | [Benden Bir Tane Daha Yok](https://open.spotify.com/track/38t5dhK8APbBXzqGpPgTJP) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Benden Bir Tane Daha Yok](https://open.spotify.com/album/1hFtzZ9LgsPTjKdiTAAil0) | 2:19 | 2023-05-03 | 2023-06-25 |
 | [beni beni](https://open.spotify.com/track/1cMwYWgiyCDOS1nN8jZHIu) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [beni beni](https://open.spotify.com/album/7MxTviVQPnWa4GLQNjJ1fH) | 3:38 | 2022-11-26 | 2022-11-29 |
+| [Beni Her Yerden Engellemiş](https://open.spotify.com/track/2BTXPq1Gw2rP0LcpMySutV) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Beni Her Yerden Engellemiş](https://open.spotify.com/album/0wHn0epXv8L6GHd0l0m617) | 3:34 | 2023-11-18 |  |
 | [Beni Kendinden Kurtar](https://open.spotify.com/track/4LW7pZxqjg9y3W1k3tHCJv) | [Perdenin Ardındakiler](https://open.spotify.com/artist/1lMEWvvUlwzQ5OKB4w1HTn) | [Beni Kendinden Kurtar](https://open.spotify.com/album/14ki3G4oAEmURHV6ic5PV3) | 3:26 | 2021-03-27\* | 2021-06-09 |
 | [Beni Sev](https://open.spotify.com/track/0bE8X3KwUifITMaibVR9eD) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Beni Sev](https://open.spotify.com/album/2xUTDtK1rGCdFmEqUKFCLw) | 4:19 | 2023-06-24 | 2023-07-01 |
 | [Benim İçin Üzülme](https://open.spotify.com/track/48laGKFr73HmALqSKqlzv0) | [Bergen](https://open.spotify.com/artist/0OjAaymO59uGiFmfpJrQpl) | [Acıların Kadını](https://open.spotify.com/album/75qpnDwZZv4o7rfxoykj2H) | 5:02 | 2022-03-08 | 2022-03-25 |
@@ -291,7 +292,7 @@
 | [Geceyi Anlatmış](https://open.spotify.com/track/0ni7a9ONGdNoUvDvSCgLoJ) | [Ozbi](https://open.spotify.com/artist/4DG2pTwQBor7a6wtoEABau) | [Geceyi Anlatmış](https://open.spotify.com/album/2QXcT3QNxgJP2m5MBvzY5B) | 4:00 | 2022-03-14 | 2022-04-08 |
 | [Gelmesin](https://open.spotify.com/track/6udxaddhezdU8dwfZVapmw) | [İbrahim Tatlıses](https://open.spotify.com/artist/0gPgE6wLLiPnrakh9WcsdQ) | [Gelmesin](https://open.spotify.com/album/6X8ndvkdGtHNcwcbKcF1Lg) | 3:30 | 2021-06-05 | 2021-07-01 |
 | [GELMEZSEN GELME](https://open.spotify.com/track/4qcngMZ8yF98sAnFKlvXPN) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 1:33 | 2022-03-20 | 2023-06-04 |
-| [Geri Dönemedim](https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geri Dönemedim](https://open.spotify.com/album/2EsFEiIxSLfij6dy5vd1SC) | 2:18 | 2023-05-06 |  |
+| [Geri Dönemedim](https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geri Dönemedim](https://open.spotify.com/album/2EsFEiIxSLfij6dy5vd1SC) | 2:18 | 2023-05-06 | 2023-11-19 |
 | [Geriye Dönemem](https://open.spotify.com/track/33rOlLnsXLBumU1hnNi65f) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Kalite](https://open.spotify.com/album/3OYu2np3Hm0zpkcNBFV0V9) | 2:05 | 2022-12-17 | 2022-12-25 |
 | [Gerçekleşebilir](https://open.spotify.com/track/1KwiqA75C5lIIdMBoiEffe) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Gerçekleşebilir](https://open.spotify.com/album/6tkwRvL9npE0otgeyibMls) | 3:49 | 2021-11-28 | 2021-12-10 |
 | [Geçme Artık Sokağımdan](https://open.spotify.com/track/2OAt5u4jbxjoOPshOSOa7g) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Geçme Artık Sokağımdan](https://open.spotify.com/album/6wAx2Xm6iVXeCkl8Iv0GEW) | 3:33 | 2022-04-16 | 2022-04-29 |
@@ -381,6 +382,7 @@
 | [Istediğim Olucak](https://open.spotify.com/track/62N782Va609fZ9aDAVIgvN) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Istediğim Olucak](https://open.spotify.com/album/49kxsR1L47TCkRFi5AaPmB) | 2:11 | 2021-06-06 | 2021-08-15 |
 | [Istediğim Olucak](https://open.spotify.com/track/6pIVJRrlvECfYXfGFRNwVn) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Özlüce Trap Boys](https://open.spotify.com/album/6uDdqxLsmGmXVak2y4vreh) | 2:11 | 2021-08-15 | 2021-09-06 |
 | [ITACHI](https://open.spotify.com/track/2Xp7H2XVr1xxrWISiSRaUl) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [ITACHI](https://open.spotify.com/album/5XJ5D88oSg5VVjI4ANe2uW) | 2:12 | 2021-10-23 | 2021-10-26 |
+| [İlle de Sen](https://open.spotify.com/track/2huuuyJHQ6KK6qzwvUlG3c) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [İlle de Sen](https://open.spotify.com/album/6U2CPuKLntRSRrSUPR4DES) | 2:26 | 2023-11-18 |  |
 | [İllegale](https://open.spotify.com/track/0YypAwSTM49KfC5bgHKgZ6) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [İllegale](https://open.spotify.com/album/3vg10Plw06OxHNh30mpvmx) | 1:59 | 2022-06-25 | 2022-07-24 |
 | [İllegale](https://open.spotify.com/track/2njqaJOTwA4Itcn3TotTAk) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Marka](https://open.spotify.com/album/1FGFzaEK9aocXZEr7WrJ2l) | 1:59 | 2022-07-23 | 2022-08-14 |
 | [İLLEGALE](https://open.spotify.com/track/47DaOS7pYYOAHi4yrvxKp3) | [EGW](https://open.spotify.com/artist/3VGogqQnpdVQh3ksssDqTK) | [İLLEGALE](https://open.spotify.com/album/5tSYHLnvdS8ouLz2Q5uhGI) | 2:00 | 2022-07-12 | 2022-07-15 |
@@ -788,7 +790,7 @@
 | [Ölümle Yaşam Arasında](https://open.spotify.com/track/3ABGx9FyeEdMCjDR5TyfdV) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme), [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Ölümle Yaşam Arasında](https://open.spotify.com/album/61FFY1aI5DXTbAV5SJn95C) | 2:56 | 2022-10-06 | 2023-07-15 |
 | [Ömrüm](https://open.spotify.com/track/0GwSSml9L21vNI7VGLz1ae) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s) | [Ömrüm](https://open.spotify.com/album/0Hnmp3HmLAReVVeCc4Bd9Y) | 4:00 | 2021-09-05 | 2022-01-30 |
 | [Öptüm Nefesinden](https://open.spotify.com/track/2ReOPzZ5eaKbZjLhlMjxDT) | [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE), [Ekin Uzunlar](https://open.spotify.com/artist/35ngoeYRyOveM0rPvahkot) | [Öptüm Nefesinden](https://open.spotify.com/album/4IA9Ll6okj08r4WOYbudhz) | 2:46 | 2021-03-27\* | 2021-03-29 |
-| [Özür](https://open.spotify.com/track/0K2nzvf5Pn6IO0Xyt36iNi) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [Özür](https://open.spotify.com/album/2qxO3eFHhuGDuFltNeXKjg) | 2:15 | 2023-01-28 |  |
+| [Özür](https://open.spotify.com/track/0K2nzvf5Pn6IO0Xyt36iNi) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [Özür](https://open.spotify.com/album/2qxO3eFHhuGDuFltNeXKjg) | 2:15 | 2023-01-28 | 2023-11-19 |
 | [Ücra](https://open.spotify.com/track/77Ny1rmMwjTdRrYmK3Gjzg) | [Emrah Karakuyu](https://open.spotify.com/artist/1Kb8Eb6SbHbzUYSqhhDtx5), [Contra](https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj) | [Ücra](https://open.spotify.com/album/4PypqHBUVxAuaApFq9Mbxr) | 3:19 | 2021-07-11 | 2021-07-14 |
 | [Üniforma](https://open.spotify.com/track/2dIgK44CaXBYjNPIBesIEJ) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Marka](https://open.spotify.com/album/1FGFzaEK9aocXZEr7WrJ2l) | 1:54 | 2022-07-23 | 2022-07-25 |
 | [Üzerime Kalır](https://open.spotify.com/track/3BBC1pjD4OjpUe5nfxn0ii) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Duygu Terörü \(Deluxe\)](https://open.spotify.com/album/6D7P3VfQRImFxukdsFGpqE) | 2:42 | 2021-10-27 | 2021-12-26 |

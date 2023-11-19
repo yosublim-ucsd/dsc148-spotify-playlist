@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 
 > Bases suaves para inspirarte mientras trabajas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,851 likes - 900 songs - 1 day 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,830 likes - 900 songs - 1 day 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -909,4 +909,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnMZKMl7SWB.md) - [plain]
 | 899 | [Insomnio](https://open.spotify.com/track/12tUHVcbU2YozMDrW6gTWF) | [IKAAL](https://open.spotify.com/artist/2twctSC6NO3YMJu1hvYUGR) | [Insomnio](https://open.spotify.com/album/1AcYcKALWGadvyrBjxXE8x) | 1:46 |
 | 900 | [summer haze](https://open.spotify.com/track/2RKCKLaC3piFjxevi9iP6n) | [honeyglore](https://open.spotify.com/artist/3nhZn9q2FAqq7tsNe1icFY) | [summer haze](https://open.spotify.com/album/4oDT888zmVYN27yXVSBHlm) | 2:39 |
 
-Snapshot ID: `MCwwNDYzZDRhMTg5MDE5MmFiYzQ3YjIzN2MwYTVhMDkwYmUzMWZiMjQz`
+Snapshot ID: `MCw5ZDk5ZWViNmFiYWRhNGM0NTFkY2FjZTAyYTg5NDViNDRjODA5OGZm`

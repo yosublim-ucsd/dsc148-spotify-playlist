@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new Experimental by independent artists and labels, with Marta Del Grandi on cover\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,309 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,583 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 99 | [Incubator](https://open.spotify.com/track/4yV0SSifaLWmDDiCLAewH1) | [UNCIVILIZED GIRLS MEMORY](https://open.spotify.com/artist/01UvG1nVdhGv3bF6VVIT2H) | [HEAVEN](https://open.spotify.com/album/4c9WLUSIr93MPolYtdeGdK) | 1:15 |
 | 100 | [Assim](https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX) | [Xexa](https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8) | [Vibrações de Prata](https://open.spotify.com/album/2JIG0FQTzPK42gw78K2Cuj) | 2:08 |
 
-Snapshot ID: `MCw0MDgzMTRlM2E3ZDhkNzBmZGQyNzU4ZjIyYTc0OGFiM2RlODQzZGYx`
+Snapshot ID: `MCwxMjMwMjFmZjE5NTVmNzE1OWNhZTg2MDYxZGFhYjA1ODE4YTM0ODA4`

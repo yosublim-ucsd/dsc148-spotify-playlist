@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: aiko",
-  "num_followers": 105223,
+  "num_followers": 105256,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjMwZDljYjcyNTA2MDI3ODI0NmU3YmFkYTg1M2M5NjRkZmZlNWIz",
+  "snapshot_id": "MCwyMDgyNmMzM2ZjZjY3MDJmMzkxMWQwMjgyMWY1YWFkMWM4YjAxMDVl",
   "tracks": [
     {
       "added_at": "2023-11-16 15:00:00",
@@ -155,8 +155,8 @@
     {
       "added_at": "2023-11-16 15:00:00",
       "album": {
-        "name": "\u30b9\u30bf\u30b8\u30aa\u30b8\u30d6\u30ea \u30c8\u30ea\u30d3\u30e5\u30fc\u30c8\u30a2\u30eb\u30d0\u30e0\u300c\u30b8\u30d6\u30ea\u3092\u3046\u305f\u3046\u300d",
-        "url": "https://open.spotify.com/album/3lB0B7C191nUhH8ar64hJ0"
+        "name": "Studio Ghibli Tribute Album \"Ghibli o Utau\"",
+        "url": "https://open.spotify.com/album/0iso79mD0QNlcE4gbwVJJA"
       },
       "artists": [
         {
@@ -165,8 +165,8 @@
         }
       ],
       "duration_ms": 269840,
-      "name": "\u3044\u306e\u3061\u306e\u540d\u524d",
-      "url": "https://open.spotify.com/track/0uUiDGILIZ6QYSjFhbNwSz"
+      "name": "Name of Life",
+      "url": "https://open.spotify.com/track/3E7Tmjfqt4PpulTC9sjXSh"
     },
     {
       "added_at": "2023-11-16 15:00:00",
@@ -547,13 +547,17 @@
     {
       "added_at": "2023-11-16 15:00:00",
       "album": {
-        "name": "Paint It, Smile! feat. Shin Sakiura & Rachel",
+        "name": "Paint It, Smile! feat. Shin Sakiura & Rachel (Blended by tofubeats)",
         "url": "https://open.spotify.com/album/1HrBVaDefeiNUle3ZCa62M"
       },
       "artists": [
         {
           "name": "BACARDI RECORDS",
           "url": "https://open.spotify.com/artist/50HufyqvWA4Bj4GuWf0ztA"
+        },
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
         },
         {
           "name": "Shin Sakiura",
@@ -565,7 +569,7 @@
         }
       ],
       "duration_ms": 234000,
-      "name": "Paint It, Smile! feat. Shin Sakiura & Rachel",
+      "name": "Paint It, Smile! feat. Shin Sakiura & Rachel (Blended by tofubeats)",
       "url": "https://open.spotify.com/track/0PhkWYgL04mgzCaH9JhkUb"
     },
     {

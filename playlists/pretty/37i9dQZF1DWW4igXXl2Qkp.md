@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: <a href="spotify:artist:4bOqkIGQCcuZgjfDxNuX1I">Anycia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,939 likes - 77 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,979 likes - 77 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 76 | [Humble Af.](https://open.spotify.com/track/7omzhSspMbVMsLXvvexL2M) | [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [Humble Af.](https://open.spotify.com/album/2ONKlkCM8XBO55kgtm9Zvf) | 2:34 |
 | 77 | [Don't Leave](https://open.spotify.com/track/7gWmkKmJsc7grlV4O0vc1Z) | [OGB](https://open.spotify.com/artist/3Ieo5BgLFmKRcwRV5UZ7rK) | [Self Control](https://open.spotify.com/album/0ONIArUMnYDBaZwBTfH1CH) | 2:11 |
 
-Snapshot ID: `MCwxZWI1MzIwNjhhYjE1ODdjY2UzNmVmMGZlMzg3ODVhN2FhNjU3MDMy`
+Snapshot ID: `MCw5MmI0OWMyN2FkYWQyYTQ5NjRiMGQyY2Q5NTE0ZDYxMTlkZDJmODg1`

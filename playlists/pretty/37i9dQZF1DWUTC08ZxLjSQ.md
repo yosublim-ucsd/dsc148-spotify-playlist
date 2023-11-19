@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Fariis\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,846 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,853 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [Bashbah Emmbareh](https://open.spotify.com/track/2GXbUELoVg9MCAXh7ZyAwq) | [ZOHUD](https://open.spotify.com/artist/0HR4ZnnXwIRjOMYz0UP68D) | [Bashbah Emmbareh](https://open.spotify.com/album/2kmOdp6ZKij22qnBLhhcRj) | 3:34 |
 | 50 | [High Hopes](https://open.spotify.com/track/6TmuUKIwlBkFzK6ryJmjy9) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA) | [High Hopes](https://open.spotify.com/album/6JdHIz73iNQiexBQDk09Aj) | 3:06 |
 
-Snapshot ID: `MCw3MzQxM2NhZTU0ZTMzN2Y5NGZhNDY3YTQyZjNkNDBlYmIzNWQzMmZh`
+Snapshot ID: `MCwyNDFkYmFkMmU2NWQyYjcxODg5MDg1NDcwOTdiYjFiMzk1ZWJhZjYw`

@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー: CHAI
 
-1,017 songs - 2 day 12 hr 26 min
+1,018 songs - 2 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,6 +416,7 @@
 | [n.o.y.b \(feat\. Furui Riho\)](https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [n.o.y.b \(feat\. Furui Riho\)](https://open.spotify.com/album/3GPIrOmn7HCQp52OD6Gnhf) | 3:57 | 2023-05-10 | 2023-06-07 |
 | [NAINAINAI](https://open.spotify.com/track/4LnMz836E4F1Z3qIPxUGVR) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [NAINAINAI](https://open.spotify.com/album/1syyqRfv0iRNmVzrxFXSdo) | 3:13 | 2022-09-06 | 2022-11-09 |
 | [NAKED](https://open.spotify.com/track/1lnMbzxaNUi1XBYOL1Qs3e) | [Rei\(C\)hi](https://open.spotify.com/artist/5BQWK2wChHTnJKqmgR9D3D) | [SHIKIBU](https://open.spotify.com/album/2c8PhG02N3d7kYTwIdVqYH) | 3:14 | 2023-05-02 | 2023-06-07 |
+| [Name of Life](https://open.spotify.com/track/3E7Tmjfqt4PpulTC9sjXSh) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Studio Ghibli Tribute Album "Ghibli o Utau"](https://open.spotify.com/album/0iso79mD0QNlcE4gbwVJJA) | 4:29 | 2023-11-07 |  |
 | [Naughty](https://open.spotify.com/track/6kAzFO8OcKjBGOMrLY8QY5) | [A VIRGIN](https://open.spotify.com/artist/0dDP1gsPC4bWS5vnynu99s) | [MORNING](https://open.spotify.com/album/1q0vg2lgXCJHPpwW1dS4QQ) | 4:02 | 2022-05-31 | 2022-07-06 |
 | [Need To Be Me](https://open.spotify.com/track/2Y4ePVrFQrjqN3ah1ODFPN) | [YAYOI DAIMON](https://open.spotify.com/artist/6u1eX0H0rWHLh3Dq1ASdUb), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef) | [Need To Be Me](https://open.spotify.com/album/351BykOMNlNSarjsRIPYHH) | 3:00 | 2022-08-02 | 2022-09-07 |
 | [Nemotown](https://open.spotify.com/track/7kl7M8K6SKirDJ45KrgAmA) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Kono Taikutsu na Hibi o/Nemotown](https://open.spotify.com/album/3f63tbFjEyZVErqEqHp6t3) | 3:34 | 2023-11-07 |  |
@@ -754,7 +755,7 @@
 | [あなたと笑う](https://open.spotify.com/track/3cd8ZsJI8zWmFGNh18VIJB) | [Miwa Sasagawa](https://open.spotify.com/artist/4luR2xOhou26Hmooyo2cnd) | [あなたと笑う](https://open.spotify.com/album/0vAXR23WyVUcmZk92qf5hK) | 4:21 | 2023-01-03 | 2023-02-02 |
 | [あの頃から今](https://open.spotify.com/track/5NsxBpNnsFqYsXr5efHTCm) | [AYA A.K.A PANDA](https://open.spotify.com/artist/6H3niqx3EU1Cg14nMe0PhN) | [Anemone](https://open.spotify.com/album/6ShwuXacaFJ6wjPVQXJoum) | 3:06 | 2022-04-05 | 2022-05-05 |
 | [いつのまに](https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [いつのまに](https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB) | 3:28 | 2023-04-04 | 2023-05-03 |
-| [いのちの名前](https://open.spotify.com/track/0uUiDGILIZ6QYSjFhbNwSz) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スタジオジブリ トリビュートアルバム「ジブリをうたう」](https://open.spotify.com/album/3lB0B7C191nUhH8ar64hJ0) | 4:29 | 2023-11-07 |  |
+| [いのちの名前](https://open.spotify.com/track/0uUiDGILIZ6QYSjFhbNwSz) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スタジオジブリ トリビュートアルバム「ジブリをうたう」](https://open.spotify.com/album/3lB0B7C191nUhH8ar64hJ0) | 4:29 | 2023-11-07 | 2023-11-19 |
 | [おなじ話](https://open.spotify.com/track/48nK8ZOd4mXSQ5fTbhTK80) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [FOLK](https://open.spotify.com/album/3Z3UnbHZHihhpVWARv5z1M) | 4:30 | 2023-01-03 | 2023-02-02 |
 | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/album/3PQH45Tw7K3IzTLsGze9UE) | 3:08 | 2023-04-04 | 2023-11-08 |
 | [お猿](https://open.spotify.com/track/1R6knwr1q0ylkanX1mBe75) | [ミドリ](https://open.spotify.com/artist/1Qjrx8NtccILLfR3wh1u3o) | [あらためまして、はじめまして、ミドリです。](https://open.spotify.com/album/5q8Hkakvwmb5Zyk4nUZKyD) | 2:08 | 2022-03-07 | 2022-04-06 |

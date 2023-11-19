@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#menow](https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Unlock My World](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) | 2:49 | 2023-06-07 | 2023-11-17 |
+| [\#menow](https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Unlock My World](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) | 2:49 | 2023-06-07 |  |
 | [1, 2, 3](https://open.spotify.com/track/1qpH7j4JRNbnv1aRysrdOH) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [COMPLETE WITH YOU](https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx) | 3:32 | 2022-01-24 | 2022-04-18 |
 | [24/7](https://open.spotify.com/track/5kfHQviez9l9OJI5TfQ9Dn) | [Moon Yeon](https://open.spotify.com/artist/2EgZaRnWb6ucGVmoyrXH1s), [seizetheday](https://open.spotify.com/artist/4QOj43HDq0domGAuo3naZB) | [24/7](https://open.spotify.com/album/5HT3wgiyTWNmBeIL6LPFaS) | 3:06 | 2022-04-19 | 2022-05-04 |
 | [36.5](https://open.spotify.com/track/4jAdC1wuRgCLLFJVHeV1rV) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [36.5](https://open.spotify.com/album/3wZtpqg44tzmRFtObM3AZT) | 3:36 | 2021-12-06 | 2022-07-29 |
@@ -195,7 +195,7 @@
 | [Maybe Love \(Feat\. Moon Byul of MAMAMOO\)](https://open.spotify.com/track/2e9FxFUXA7aMG83FbtKGOv) | [David Yong](https://open.spotify.com/artist/057st5Jqv9uVqmX3Hsn8KY), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Maybe Love](https://open.spotify.com/album/6qRcx0YZEneezi5FtwLiJN) | 3:20 | 2023-04-26 | 2023-05-24 |
 | [Maybe 어쩌면 우리는](https://open.spotify.com/track/4OD37S64mGB3wpz6m3ZzdI) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [The Face of Summer 여름의 민낯](https://open.spotify.com/album/0e32YikNghPPNt0i4bzvgm) | 3:15 | 2022-03-23 | 2022-04-18 |
 | [meanings!](https://open.spotify.com/track/4VHsZqeNb9I9bIq5wgfDb6) | [DOF2D](https://open.spotify.com/artist/43K46m9kGWG6LH1gjGa1it) | [We Don't Have To Cry](https://open.spotify.com/album/4JuHBqEHQJpjKA3cHXj0rW) | 3:16 | 2021-12-28 | 2022-01-12 |
-| [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-08-24 |  |
+| [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-08-24 | 2023-11-19 |
 | [Miss You](https://open.spotify.com/track/2Q6vn3Pz85m9ttt9mOm5qZ) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Miss You](https://open.spotify.com/album/01Ko1HQowbmrPM3awKqZsP) | 2:52 | 2022-04-04 | 2022-04-21 |
 | [Missing You](https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Brother Act.](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) | 3:56 | 2021-12-06 |  |
 | [Mixtape : OH](https://open.spotify.com/track/4SG1tUCousFCmPeayNNelN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Mixtape : OH](https://open.spotify.com/album/4ETs8IH0JzWfjv8OWql58f) | 3:32 | 2021-12-06 | 2022-07-29 |

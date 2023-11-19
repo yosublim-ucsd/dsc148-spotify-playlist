@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: Nostalgix & Rico Nasty
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,947 likes - 125 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,014 likes - 125 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 124 | [Organ Banger](https://open.spotify.com/track/1RShbiRCouxlmGB2cfZb0Q) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS) | [Organ Banger](https://open.spotify.com/album/1hBp1AdJYRQcMrCnaxrruF) | 3:05 |
 | 125 | [KILLA](https://open.spotify.com/track/1B8rygL2m0YFYXKfxNqsG1) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [ESCARGOT](https://open.spotify.com/artist/4eQbb3mhoL4GjbMW7AHza3) | [KILLA](https://open.spotify.com/album/1xZ3vAVE835fY1Gi5O17Sa) | 3:24 |
 
-Snapshot ID: `MCw1NWUxYWU5YjFmNTYwODhhYzkxMTY3MmEzMzAwYzQ0M2Y4NjM1NjVi`
+Snapshot ID: `MCwzNzQ4YjQ3NGI3ZjViY2MwOWQyYmVhOTU2NGU2YzkxOGJjNDA1NmZk`

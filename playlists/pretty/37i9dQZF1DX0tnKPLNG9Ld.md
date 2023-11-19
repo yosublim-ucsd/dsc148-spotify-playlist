@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,287 likes - 87 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,354 likes - 87 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 86 | [Lulu's Back in Town \(2012 \- Remaster\)](https://open.spotify.com/track/5A433jPWMHyngbyBkyXDF6) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC), [The Marty Paich Dek\-tette](https://open.spotify.com/artist/3LKTSEL1dpa0iAUVZmikcr) | [Mel Tormé with The Marty Paich Dek\-Tette \(2012 \- Remaster\)](https://open.spotify.com/album/1DMGnIxnjzHaYVJ2KhrPZM) | 3:05 |
 | 87 | [Nice Work If You Can Get It \(2012 \- Remaster\)](https://open.spotify.com/track/2WMksdlzNvs5O8EdwFWw4b) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Mel Tormé Sings Fred Astaire \(2012 \- Remaster\)](https://open.spotify.com/album/01xKHe137Bs6g3HcBMjLD7) | 3:08 |
 
-Snapshot ID: `MCwwY2I3N2M3NGU0ZWI4MGViZmRjNjZjMDdjNTZlNGY3MzM5YzQ1NjM0`
+Snapshot ID: `MCwxYjAzMWQ0NDM4YThmODg4OWE1OThjN2Q0NTY3MmI5NDY2MTViMGZk`

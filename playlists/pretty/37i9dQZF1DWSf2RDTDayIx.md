@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,314,905 likes - 150 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,315,386 likes - 150 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 | 149 | [Beautiful Life](https://open.spotify.com/track/0H6Bd7IcSfYmo87CJGA2D2) | [John De Sohn](https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm) | [Beautiful Life](https://open.spotify.com/album/5KEo013MN3nFfw2ZsbTRfd) | 2:48 |
 | 150 | [Easy](https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Easy](https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp) | 2:29 |
 
-Snapshot ID: `MCw2MTY1YThjMzYxNTA0ODQ3YzcyMTMxZTFhOGY4NWNkMWViMmU5MjI3`
+Snapshot ID: `MCwwZTlmMzgwMzNmM2IxMGQ1OGNkZDlkYjBmZGNmY2U5OTdiYTM0NTU5`

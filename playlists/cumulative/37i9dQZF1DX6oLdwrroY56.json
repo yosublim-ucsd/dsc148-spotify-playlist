@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-25",
-  "description": "The leaders in the lively Pinoy indie scene. Cover: Sansette",
+  "description": "The leaders in the lively Pinoy indie scene. Cover: SOS",
   "name": "Pinoy Indie Mix",
   "tracks": [
     {
@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 224437,
       "name": "Easy",
       "url": "https://open.spotify.com/track/0t4yopXQW1ObWhhT5FQGzZ"
@@ -294,6 +294,24 @@
       "duration_ms": 317975,
       "name": "Gabi (feat. Zild)",
       "url": "https://open.spotify.com/track/36ZYaW5Dj7loKsyyHehpCr"
+    },
+    {
+      "album": {
+        "name": "Gigil",
+        "url": "https://open.spotify.com/album/3t5KRD3M9dAwnFlvACylLd"
+      },
+      "artists": [
+        {
+          "name": "The Right Things",
+          "url": "https://open.spotify.com/artist/0eCM6bGOxkZgKPLEYCX1JO"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199333,
+      "name": "Gigil",
+      "url": "https://open.spotify.com/track/175olPDR4vvN4lrPgHNZtJ"
     },
     {
       "album": {
@@ -441,6 +459,24 @@
     },
     {
       "album": {
+        "name": "Just Another Christmas",
+        "url": "https://open.spotify.com/album/4OQMVYjqTox3kXqh4TcUwG"
+      },
+      "artists": [
+        {
+          "name": "Suspiria Pink",
+          "url": "https://open.spotify.com/artist/4IKpNf1Bm3nSEa4LZi2F28"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136730,
+      "name": "Just Another Christmas",
+      "url": "https://open.spotify.com/track/6uy8wSbsQ9zJQxkxgWiwNl"
+    },
+    {
+      "album": {
         "name": "Just to See You",
         "url": "https://open.spotify.com/album/2TfnZj51VJVjSVVirfEnmY"
       },
@@ -452,7 +488,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 265042,
       "name": "Just to See You",
       "url": "https://open.spotify.com/track/0JVoL1GUqqc4UJeUXEYeMw"
@@ -585,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Miscom",
+        "url": "https://open.spotify.com/album/6aTDzfvas4SHkdFkFhdb7E"
+      },
+      "artists": [
+        {
+          "name": "Pinkmen",
+          "url": "https://open.spotify.com/artist/6XNIDeowERJg7IRUiAsDrU"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340213,
+      "name": "Miscom",
+      "url": "https://open.spotify.com/track/45EVGLu8wUvJynnl9J21W1"
+    },
+    {
+      "album": {
         "name": "Nagbabakasakali",
         "url": "https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ"
       },
@@ -636,7 +690,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 175589,
       "name": "Pakiusap",
       "url": "https://open.spotify.com/track/6CyRHuzI8LcX1qtWtHaUPM"
@@ -694,6 +748,24 @@
       "duration_ms": 199121,
       "name": "Pangako",
       "url": "https://open.spotify.com/track/37fxTC4k42nkHJep3R6lVr"
+    },
+    {
+      "album": {
+        "name": "Paraisong Tela",
+        "url": "https://open.spotify.com/album/6j7KtrNERZHjP49QxH4kIu"
+      },
+      "artists": [
+        {
+          "name": "Hey, Billie!",
+          "url": "https://open.spotify.com/artist/4okWmMajo5EFSMIh9YBE6Q"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359630,
+      "name": "Paraisong Tela",
+      "url": "https://open.spotify.com/track/15Q51jCwXAfInxMR0AFOvq"
     },
     {
       "album": {
@@ -766,6 +838,24 @@
       "duration_ms": 278608,
       "name": "Please Don't Stay",
       "url": "https://open.spotify.com/track/5F0Srwhpjpqt1KxyI1cDy1"
+    },
+    {
+      "album": {
+        "name": "Please Lang",
+        "url": "https://open.spotify.com/album/0yGy7FQrViz5Ck8T9VS5Al"
+      },
+      "artists": [
+        {
+          "name": "SOS",
+          "url": "https://open.spotify.com/artist/6sYQTuRBvPAaQ9Ba5ca1Yc"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241042,
+      "name": "Please Lang",
+      "url": "https://open.spotify.com/track/2A5fNbbIB1sUfUcYX5dkG2"
     },
     {
       "album": {
@@ -860,7 +950,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 206500,
       "name": "Saan?",
       "url": "https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR"
@@ -896,10 +986,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 234798,
       "name": "salita",
       "url": "https://open.spotify.com/track/5P3aZmkWKEuG6kfpyMPll9"
+    },
+    {
+      "album": {
+        "name": "Sasamahan Ka",
+        "url": "https://open.spotify.com/album/5QdEBxf1VtB8d04d8dNHwt"
+      },
+      "artists": [
+        {
+          "name": "Tema",
+          "url": "https://open.spotify.com/artist/0JHGjAEXAEzNH9nEv6Q3TB"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271036,
+      "name": "Sasamahan Ka",
+      "url": "https://open.spotify.com/track/6RBjZfZNa80zJbWrWt64f2"
     },
     {
       "album": {
@@ -918,6 +1026,24 @@
       "duration_ms": 212854,
       "name": "Sigurado",
       "url": "https://open.spotify.com/track/4RuwsMJHRsB4gIzLBnnjqo"
+    },
+    {
+      "album": {
+        "name": "Sikreto",
+        "url": "https://open.spotify.com/album/33za296VJXryfYFrturohm"
+      },
+      "artists": [
+        {
+          "name": "Morning After",
+          "url": "https://open.spotify.com/artist/0COdFByZShouhAnOk4hOBr"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285734,
+      "name": "Sikreto",
+      "url": "https://open.spotify.com/track/4Xsy8uSzUhjRwBAQQ17FXQ"
     },
     {
       "album": {
@@ -1052,7 +1178,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 324782,
       "name": "Sy",
       "url": "https://open.spotify.com/track/4ckqv8nO8cvqdCXe1pJKTG"
@@ -1164,7 +1290,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 290490,
       "name": "tuluyan",
       "url": "https://open.spotify.com/track/6WHjGbBna42gfdydgwMunq"

@@ -4,7 +4,7 @@
 
 > New music from popular Hindi artists\. Cover\- Vishal Mishra, Dino James
 
-799 songs - 1 day 22 hr 0 min
+800 songs - 1 day 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -693,7 +693,7 @@
 | [Tere Bina](https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Tere Bina](https://open.spotify.com/album/3oqzq7uP6IgsI8o8ZTUENB) | 2:52 | 2023-02-10 | 2023-04-01 |
 | [Tere Bina](https://open.spotify.com/track/2Sgc4j34zpT8eBSd9PZT4Q) | [Last Cigarette](https://open.spotify.com/artist/1pfvUkUduJ8FRgn4Nq4Bk8), [Ankit Apoorva](https://open.spotify.com/artist/37WMFMzwixt6RWSwlO92Nm) | [Tere Bina](https://open.spotify.com/album/3ajDja3dmB5yn0QYGQnlkP) | 3:25 | 2022-06-24 | 2022-07-16 |
 | [Tere Binn Dil Ye Mera](https://open.spotify.com/track/3RvkWLoGGXScNpD6qWIdko) | [Aditya Narayan](https://open.spotify.com/artist/4Z0t0LHjOjFRiv0mjBw206), [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU) | [Tere Binn Dil Ye Mera](https://open.spotify.com/album/4KS2z0SKFe82dRPLhRGxMc) | 4:48 | 2022-05-27 | 2022-06-11 |
-| [Tere Dil Tak Aana Hai](https://open.spotify.com/track/4iAZPXSghLU4VK02gIVgV2) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Sanjeev Chaturvedi](https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA) | [Tere Dil Tak Aana Hai](https://open.spotify.com/album/5qM3GaykY2A1cN50athDn8) | 3:01 | 2023-10-13 |  |
+| [Tere Dil Tak Aana Hai](https://open.spotify.com/track/4iAZPXSghLU4VK02gIVgV2) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Sanjeev Chaturvedi](https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA) | [Tere Dil Tak Aana Hai](https://open.spotify.com/album/5qM3GaykY2A1cN50athDn8) | 3:01 | 2023-10-13 | 2023-11-19 |
 | [Tere Hone Se](https://open.spotify.com/track/0WOQ0NIjQEAFHXS9haQDOZ) | [DJ Suketu](https://open.spotify.com/artist/4TfiXd01xLFV0xg8PSCysH), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ) | [Tere Hone Se](https://open.spotify.com/album/3VBhUpmVVwGtSZd2TGd8FK) | 5:01 | 2023-03-03 | 2023-04-22 |
 | [Tere Ishq Ne](https://open.spotify.com/track/21VrC3LcsXjjkhnP0xkliY) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Ashish Khandal](https://open.spotify.com/artist/65XZEmEVa5U52jYJRQzuSF) | [Tere Ishq Ne](https://open.spotify.com/album/6sKEe2XgqH46u9ShRWCW7J) | 3:07 | 2023-11-10 |  |
 | [Tere Liye Pyaar Mera Kam Nahi Hoga](https://open.spotify.com/track/7sxkjuWq2pAEKxbNHQfHSU) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB) | [Tere Liye Pyaar Mera Kam Nahi Hoga](https://open.spotify.com/album/0TYXSyfpmZS6CQnt6HCnNU) | 3:30 | 2023-10-13 | 2023-11-18 |
@@ -775,6 +775,7 @@
 | [Udaa Gulaal Ishq Wala \- From "Janhit Mein Jaari"](https://open.spotify.com/track/7gjJZcAuEzBuLy79gI7USc) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Amit Gupta](https://open.spotify.com/artist/6XtaRFNn99x6GUHiu0q4k1) | [Udaa Gulaal Ishq Wala \(From "Janhit Mein Jaari"\)](https://open.spotify.com/album/3KQWzhGEXihQe2Kg0bPPNx) | 3:58 | 2022-05-27 | 2022-06-18 |
 | [Ultay Hor Zamane](https://open.spotify.com/track/0veyQHMx6swK9tlZhdo0vz) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Surmayi](https://open.spotify.com/album/5zbS0SLUgFB161wNJQO05B) | 3:36 | 2022-05-27 | 2022-06-11 |
 | [Umeed](https://open.spotify.com/track/7bB5bp6jqWUNgaOEMCvIMa) | [Chapati](https://open.spotify.com/artist/1RaIosj4dit2OLWs19hTVW), [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Umeed](https://open.spotify.com/album/21OQ7LcUgwPWGOjGUmlpwJ) | 3:54 | 2023-03-17 | 2023-04-22 |
+| [Urvashi](https://open.spotify.com/track/1EJLrOy25fZ3l55p4rgPdS) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Urvashi](https://open.spotify.com/album/19i4HGI1PeV9N0PI25YzjH) | 3:36 | 2023-11-18 |  |
 | [usko sab pata hai](https://open.spotify.com/track/2e02cHciVAiubNVpNYiLCO) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [usko sab pata hai](https://open.spotify.com/album/3IQPy3WlyofK9LjmvUEigT) | 2:37 | 2022-12-23 | 2023-02-11 |
 | [Va Va Voom \(From "The Archies"\)](https://open.spotify.com/track/1vUau8NMY4vdUrdPzAAsLj) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl), [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Va Va Voom \(From "The Archies"\)](https://open.spotify.com/album/41efXRJaAdzIOCHeMuKNEJ) | 2:08 | 2023-11-10 |  |
 | [Vaadein Nibha \- Acoustic](https://open.spotify.com/track/0UKt2mIRQoza2SsbNYdBPp) | [somanshu](https://open.spotify.com/artist/0q7fw7pC9FcW9AUfIw4H5H), [Rutvik Talashilkar](https://open.spotify.com/artist/778Z63WsGI3DGV83Ug92H4) | [Vaadein Nibha \(Acoustic\)](https://open.spotify.com/album/1VRNuQ1RnndOStyx6zyuAF) | 2:39 | 2022-06-24 | 2022-07-02 |

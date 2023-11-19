@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 
 > 8 bit bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,225 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,345 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 99 | [Stan \(8 Bit Version\)](https://open.spotify.com/track/0nE7tNiKkdbrJWH191dfr4) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [Analog Attack](https://open.spotify.com/album/0dcF9Ii7KbQjmHe3GEkhvi) | 6:41 |
 | 100 | [The Middle](https://open.spotify.com/track/0pFGdDDLk8cTDJnFzzqhaV) | [Super Power Club](https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f) | [Super Power Club: 8\-Bit Tribute to Modern Rock Hits](https://open.spotify.com/album/18WSrQcRdR0z4qrTUJOpQd) | 2:36 |
 
-Snapshot ID: `MCwwMWI5MGRkYzFjMTgzMThhYTFmM2ViMjY2NWFmNTgxYTZlYjdlMzBk`
+Snapshot ID: `MCxmYmFiMTEzZGJhNDAxZWU4ZWU2NTRjZGQ0MGJmNGRmZjM5N2ZiNjIx`

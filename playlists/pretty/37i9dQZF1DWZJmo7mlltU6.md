@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Claire Rosinkranz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,240 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,226 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 94 | [Can’t Get Over Myself \- feat\. Zuma.](https://open.spotify.com/track/2BQhm7S8FL2B1bdq0IlRKo) | [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj), [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6), [Zuma.](https://open.spotify.com/artist/5njJbzFJ6lY7tq7ZiuFZX5) | [Can’t Get Over Myself \(feat\. Zuma.\)](https://open.spotify.com/album/3R5j05cIiE1DmVu2DwYjai) | 3:20 |
 | 95 | [trippin](https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [trippin](https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j) | 2:58 |
 | 96 | [The Gentleman](https://open.spotify.com/track/696ZECw5HJSy9nMpMhkB9n) | [Mutual Artists](https://open.spotify.com/artist/1a6FwegZ8SPetZKfl0ex41), [Name Prakarn Raiva](https://open.spotify.com/artist/4pEzJKi1fmPaK21P0jEfhD), [NACHE CHAN](https://open.spotify.com/artist/5CW7nTdasjGbEW148S5xXu) | [The Gentleman](https://open.spotify.com/album/13vSqRW7fDt9UQ5LyZ12oV) | 4:08 |
-| 97 | [Kimosabè](https://open.spotify.com/track/06oSt0nOjewappkOBrsFME) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kimosabè](https://open.spotify.com/album/3nZq3qWbHwdnTXZsk9DF5K) | 4:36 |
+| 97 | [Kimosabè](https://open.spotify.com/track/6ThLeHskGmgionXRoqGyYS) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kimosabè](https://open.spotify.com/album/3gMgItWPVNpinFuRp9NMgC) | 4:36 |
 | 98 | [Cherry Cola](https://open.spotify.com/track/3aDVFROpHHBjfp53IqcxJv) | [TTRRUUCES](https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8) | [Cherry Cola](https://open.spotify.com/album/2NxQLiwDuB7tPN67gIvRTQ) | 2:44 |
 | 99 | [Jupiter I.](https://open.spotify.com/track/494TCdCW0A02emykMUeiJZ) | [Saya Noé](https://open.spotify.com/artist/563nLkswIGnyeDcdWHeead) | [Jupiter I.](https://open.spotify.com/album/3D7B39pnYJKpc9wi2ZD0C8) | 3:44 |
 | 100 | [Puentes Rotos](https://open.spotify.com/track/1KkQ56dX3KGiIkk19Jywxa) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Puentes Rotos](https://open.spotify.com/album/6FKtUHtGL9RZ6fERhYsXj7) | 3:37 |
 
-Snapshot ID: `MCxjZTJiZTEwYTU2ODgzOTczZTkxNzUwYmM0MTBlMTk3MWVlNzk1NDJj`
+Snapshot ID: `MCxlNTliMjc0MjVlN2U3NDA3MmY1NzEzNTc2M2Q1NGI0ZmUwZWRkNGUw`

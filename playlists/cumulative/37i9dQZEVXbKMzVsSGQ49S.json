@@ -6574,7 +6574,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 199120,
       "name": "D\u00fdr\u00f0 \u00ed dau\u00f0a\u00fe\u00f6gn",
       "url": "https://open.spotify.com/track/2TZPzARd9RFm1MXAeRkHvY"
@@ -11320,7 +11320,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-05",
+      "date_removed": null,
       "duration_ms": 235597,
       "name": "Higher",
       "url": "https://open.spotify.com/track/10BSvFgbWA1KsJaLZJInyq"
@@ -14218,6 +14218,28 @@
       "duration_ms": 161435,
       "name": "Kalda s\u00e1l",
       "url": "https://open.spotify.com/track/4pjvw0jk1phoqDwhIpWieu"
+    },
+    {
+      "album": {
+        "name": "Kallinn \u00e1 Tunglinu",
+        "url": "https://open.spotify.com/album/3Iz3N8CUbluturjvsPKrwy"
+      },
+      "artists": [
+        {
+          "name": "Johann",
+          "url": "https://open.spotify.com/artist/3QpngFhbtNpNXr3Pg48o7G"
+        },
+        {
+          "name": "J\u00f3iP\u00e9",
+          "url": "https://open.spotify.com/artist/6cC3KmZOI4EG7a94PtKEYb"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231561,
+      "name": "Kallinn \u00e1 Tunglinu",
+      "url": "https://open.spotify.com/track/3Qxd2dgyBfgxLilcF78Ihd"
     },
     {
       "album": {
@@ -18650,7 +18672,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 160909,
       "name": "Next Life",
       "url": "https://open.spotify.com/track/51M3PAEvEU7hwDfInkevgq"
@@ -26026,7 +26048,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 122458,
       "name": "S\u00cdMINN DAU\u00d0UR",
       "url": "https://open.spotify.com/track/6U5MIskPdgu9RXyHmaczp9"
@@ -29184,6 +29206,28 @@
       "duration_ms": 213826,
       "name": "When I Was Your Man",
       "url": "https://open.spotify.com/track/0B7wvvmu9EISAwZnOpjhNI"
+    },
+    {
+      "album": {
+        "name": "DanceOrama",
+        "url": "https://open.spotify.com/album/7e4nkf3QSJmOFF1MH5WUON"
+      },
+      "artists": [
+        {
+          "name": "GusGus",
+          "url": "https://open.spotify.com/artist/5sL9uDMwceYHPknnCLAAwJ"
+        },
+        {
+          "name": "V\u00f6k",
+          "url": "https://open.spotify.com/artist/7oDTyDfeA2JE2jUZztkBj8"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216880,
+      "name": "When We Sing",
+      "url": "https://open.spotify.com/track/5i2ttMtWfe3WWd7Eob8z4y"
     },
     {
       "album": {

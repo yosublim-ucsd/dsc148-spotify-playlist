@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,224,200 likes - 230 songs - 12 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,224,344 likes - 230 songs - 12 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 229 | [Day Ones](https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Day Ones](https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq) | 2:42 |
 | 230 | [Anybody Else \- Alyx Ander Remix](https://open.spotify.com/track/70ssLyL7lsxio25h7maT7I) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [Alyx Ander](https://open.spotify.com/artist/4gxmaAX3cWO9PUVmEYVAhd) | [Anybody Else \(Alyx Ander Remix\)](https://open.spotify.com/album/6MJzg2V7MhrpNQ6GTZSsNh) | 3:24 |
 
-Snapshot ID: `MCxkMmJjMjJhMzZiODRmZDFmYzExMTU5NTFkZGQxZTExZjBhODg4Yjkw`
+Snapshot ID: `MCw5ZjEzZWE3NWY4YTNmYzU5ZWI1MjU0M2FhMGY2NTM5MzFlYWMzOWEy`

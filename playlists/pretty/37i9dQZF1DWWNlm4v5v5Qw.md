@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Cover: IDK
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,236 likes - 57 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,244 likes - 57 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 20 | [Forever In A Song](https://open.spotify.com/track/2JP8F7nwSXIFETVnFgoGVZ) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [U Street Anthology](https://open.spotify.com/album/2NvrZxKKfKBN3UBJqdn5Ep) | 3:36 |
 | 21 | [Steppin On Ants](https://open.spotify.com/track/5YDASTvCBw2TcJAchOuojX) | [3ohBlack](https://open.spotify.com/artist/1mnnmVJeUTNfWdDx0gVIQT) | [Steppin On Ants](https://open.spotify.com/album/36cZEt9NeWpgB9AYaK7CxI) | 2:17 |
 | 22 | [Hit the Crowd](https://open.spotify.com/track/5RbBo1PdfAuLZpD3FctWcl) | [XanMan](https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP) | [Hit the Crowd](https://open.spotify.com/album/4SR6zUuMlHQwneQdaKaSMI) | 2:19 |
-| 23 | [Stay Strapped \(Freestyle\)](https://open.spotify.com/track/7csR4532xtoUfTjseCGtx3) | [Young Crazy](https://open.spotify.com/artist/0MkYqs9CaYOelt4rdnUGyv) | [Stay Strapped \(Freestyle\)](https://open.spotify.com/album/6bbEEALiA72SvJSdHwB7dl) | 3:09 |
+| 23 | [Stay Strapped \(Freestyle\)](https://open.spotify.com/track/1b9vDo3oHwwVvFTNEilV41) | [Young Crazy](https://open.spotify.com/artist/0MkYqs9CaYOelt4rdnUGyv) | [Stay Strapped \(Freestyle\)](https://open.spotify.com/album/5cKumUcW85t7EbRo4z5PlX) | 3:09 |
 | 24 | [Stop Shop](https://open.spotify.com/track/5yen8iLIsbC82CXuL6gefp) | [Butch Dawson](https://open.spotify.com/artist/5OrGPqB2BSIc3I6ar90qIL) | [Stop Shop](https://open.spotify.com/album/54LVPiWHcOFaIAvfgTlsHJ) | 2:18 |
 | 25 | [B.N.B](https://open.spotify.com/track/6hw99R0mfj4eNfZatyaePL) | [LeekoMoney](https://open.spotify.com/artist/03TRS7srPBeikAj9s0OWZZ) | [B.N.B](https://open.spotify.com/album/14o1L3wWJUsxtgKUMkiZUw) | 2:05 |
 | 26 | [Squaaa](https://open.spotify.com/track/1n4yBLplF4XxZSLx1VvbPu) | [Dre Wave$](https://open.spotify.com/artist/1JmCy4jQegbbMjBWRI0iCt) | [Squaaa](https://open.spotify.com/album/6ngb0wyK7dWyPUTJ9sd7eE) | 2:45 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 56 | [So Be It](https://open.spotify.com/track/4QzljsoizfscCExqa1CDWN) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [The Hurtbook](https://open.spotify.com/album/3DgrGbWzykeORAYXR0SnUb) | 3:09 |
 | 57 | [FYTB \(FEAT\. JOONY\)](https://open.spotify.com/track/48oQGynnS8RLiYRFsJ6pDL) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:18 |
 
-Snapshot ID: `MCxhZDUyZThhOWFkNzdiZTZmMTMzOTYwYzVlMmFlZmI0MGMwM2M4NDcx`
+Snapshot ID: `MCw0MTllMDhhMTVhM2U3ODQwOTljYThiNTE1NWU2ODFhZDczNWIwYzIw`

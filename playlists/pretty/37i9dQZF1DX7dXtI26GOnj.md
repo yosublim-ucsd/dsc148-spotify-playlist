@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino está aqui! 🔥  foto: Luísa Sonza, Tokischa
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,275 likes - 85 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,367 likes - 85 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 84 | [Trendy](https://open.spotify.com/track/5MHk9RHabnoiiEeL8jplwa) | [Mc Fredd](https://open.spotify.com/artist/4UHmkWMHvZlj2ryO8gpwM5), [Planzo](https://open.spotify.com/artist/1LmK9yIJG5M5xfluNuFUbg) | [Trendy](https://open.spotify.com/album/6H4l2SjqMOvQIndddXgBXL) | 2:17 |
 | 85 | [Morena](https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Morena](https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83) | 3:08 |
 
-Snapshot ID: `MCwxYzc4OTk5NGFhZTE5MzM3MGY3ZGMxMDUyZGJjOTdjNjE4MDc4ODdm`
+Snapshot ID: `MCwzYmIyZWZiYjFlNGNjOWZjY2M3ZGNlNjRkMGIwNjkzZmQ5YmRiNTEz`

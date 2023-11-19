@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 
 > Skifoan und Hüttenabriss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,549 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,704 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 79 | [Bierkapitän](https://open.spotify.com/track/2Z4KnwY4Br79ApyyKjbOHv) | [Bierkapitän](https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD) | [Bierkapitän](https://open.spotify.com/album/03XXTzsrfTq1Ia0MpNUZUC) | 3:30 |
 | 80 | [Mallorca mein Löwe mein Bär](https://open.spotify.com/track/2qSXEdg96v16ADGQIEYanx) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Mallorca mein Löwe mein Bär](https://open.spotify.com/album/6aFOTAq33CiEgH1irnDAB1) | 2:56 |
 
-Snapshot ID: `MCw2MWU2ZjY2ZWNjNzQ2OTNkZjFlYWYyZDg4ZWMyNTgwNzI4YjY2N2Ux`
+Snapshot ID: `MCxjMWI3ZTJmNDczNzY4ZjM4ZWYxNzBkYmMzNzc0YTc4YTllNDE1MTRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 
 > Country Music legends recorded live\. Just like being there\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,045 likes - 150 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,113 likes - 150 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 | 149 | [Sunday Mornin’ Comin’ Down \- Live At Gilley's](https://open.spotify.com/track/1IsXVneJGgi0PuPh91YSwX) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Sunday Mornin’ Comin’ Down](https://open.spotify.com/album/5oYl8mRbVpOcyw3cc0gLXG) | 2:29 |
 | 150 | [Pickup Man](https://open.spotify.com/track/660k4yDTMqwWa7eoqyiSpO) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Live at Billy Bob's Texas](https://open.spotify.com/album/5mlJ4Ka8AAuXDNQe2EJrI7) | 3:30 |
 
-Snapshot ID: `MCw2NTVhZGUzMDQ0NTg5Mjg5ZmM0ZTFjMTA0ZDljYjZmZmQ1MjllOGUz`
+Snapshot ID: `MCw3ZjlkYWRkNDhiZjM3YjcyYWRkZjk5NzVkNDNlZjdkNGQ3NTNhODJl`

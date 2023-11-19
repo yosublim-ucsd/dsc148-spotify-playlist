@@ -4,7 +4,7 @@
 
 > Instructions: volume up\. Cover: Five Finger Death Punch
 
-1,031 songs - 2 day 13 hr 44 min
+1,032 songs - 2 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -889,7 +889,8 @@
 | [The Liars Club](https://open.spotify.com/track/3cgasmbjpM2TMfsH0plAwt) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Liars Club](https://open.spotify.com/album/6wHX6aYsulKyZ4sj7gQ9se) | 3:48 | 2022-02-25 | 2022-08-06 |
 | [The Optimist](https://open.spotify.com/track/55ET0bFCVKpGJOXATqLe0x) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [The Optimist](https://open.spotify.com/album/4rkuMkZkDrZ4ls8cWe0lN9) | 2:58 | 2022-09-16 | 2023-04-09 |
 | [The Perfume of Decay](https://open.spotify.com/track/7cGKdI3BvJOKYzs9dRdvFj) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [The Perfume of Decay](https://open.spotify.com/album/7jzP2HrR4TyQA6wC5xJ56S) | 3:40 | 2022-10-14 | 2023-03-25 |
-| [THE PURGE](https://open.spotify.com/track/42eexWfJFK34GC9c46fpLx) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [THE PURGE](https://open.spotify.com/album/3UMpuZ3u2g5NOgHzzZnwrn) | 3:59 | 2023-07-21 |  |
+| [THE PURGE](https://open.spotify.com/track/3ppy9aybMMI5vPydN4qRjU) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [GODMODE](https://open.spotify.com/album/2c1e4GA90vn9Arbo4b8CU7) | 3:59 | 2023-11-17 |  |
+| [THE PURGE](https://open.spotify.com/track/42eexWfJFK34GC9c46fpLx) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [THE PURGE](https://open.spotify.com/album/3UMpuZ3u2g5NOgHzzZnwrn) | 3:59 | 2023-07-21 | 2023-11-19 |
 | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf) | 2:28 | 2022-11-11 | 2023-01-28 |
 | [The Retaliators Theme \(21 Bullets\) \(feat\. Mötley Crüe, Asking Alexandria, Ice Nine Kills, From Ashes To New\)](https://open.spotify.com/track/3iEmgajStVBooooNaltdOv) | [The Retaliators](https://open.spotify.com/artist/0DqFxv4ZnxzDc6KPt6cUD5), [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL), [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [The Retaliators Theme Song \(21 Bullets\) \[feat\. Motley Crue, Asking Alexandria, Ice Nine Kills, From Ashes To New\]](https://open.spotify.com/album/5vyHnq2QdGJWMzjrjn4S6k) | 4:02 | 2022-08-05 | 2023-03-25 |
 | [The River Is Rising \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/track/2JVFcDHKmXvNJaaAVvxiOy) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [The River Is Rising \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/album/7kkh7fjvsHR8q5uxksS7ko) | 3:42 | 2021-10-22 | 2022-02-12 |

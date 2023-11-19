@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Mida
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,701 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,775 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 10 | [Bruciasse Il Cielo](https://open.spotify.com/track/6abfPlw55MvGAUEpG56R2y) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Bruciasse Il Cielo](https://open.spotify.com/album/287CrEdqq6UiWAMeteSZsk) | 3:57 |
 | 11 | [A VOLTE](https://open.spotify.com/track/1XhRxRUsnqbnWUGwTEDtJC) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [INVISIBILI](https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL) | 2:42 |
 | 12 | [Papaya](https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Papaya](https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ) | 2:19 |
-| 13 | [AFTER](https://open.spotify.com/track/5ODYIdPDyNVFXZpqAh3WEa) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS), [Shune](https://open.spotify.com/artist/18LTXNW84HkPUOyZm4AAbo) | [AFTER](https://open.spotify.com/album/6XxvQNfV0vhA3KWFCE0g8B) | 2:42 |
+| 13 | [AFTER](https://open.spotify.com/track/5ODYIdPDyNVFXZpqAh3WEa) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [AFTER](https://open.spotify.com/album/6XxvQNfV0vhA3KWFCE0g8B) | 2:42 |
 | 14 | [TANANAI](https://open.spotify.com/track/0IFp7DNMUrHroGDK7GASC7) | [Holy Francisco](https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I) | [TANANAI](https://open.spotify.com/album/4aecpa6YWXWu1rVqBIgY1c) | 2:33 |
 | 15 | [Parlami](https://open.spotify.com/track/00QN58Gx571pB1MEuBAcmL) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Parlami](https://open.spotify.com/album/1XWrPc7GoTh1vQ5WAd575N) | 2:49 |
 | 16 | [Fermarmi](https://open.spotify.com/track/7eW2y4eObpVw8WPvB3ioRb) | [Diego Lazzari](https://open.spotify.com/artist/64ni8l4f1uyxljOKU0EugH), [Natasha](https://open.spotify.com/artist/2pxZIannUq9lCH9ZEQoZZy) | [Fermarmi](https://open.spotify.com/album/3pt3ZOOOEkkIl711tXiYwQ) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 49 | [Balla \(come la domenica\)](https://open.spotify.com/track/5c5i976D2vDemkPHOMcyDT) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR), [Paps'n'Skar](https://open.spotify.com/artist/7pbBSvkFKdTKLCJl5G1jSV) | [Balla \(come la domenica\)](https://open.spotify.com/album/5hun2luD1TdLOyNPm33U5Z) | 2:46 |
 | 50 | [Chi Sono Veramente](https://open.spotify.com/track/5Xxz4XYpz2aViGUfW50Y4O) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [CHI SONO VERAMENTE EP](https://open.spotify.com/album/5fEPgkaJVP12LRMZ5T6fhI) | 2:50 |
 
-Snapshot ID: `MCxiNzRhYzYxOWRkY2M1NTVlNGU0YzBhOWU5ZjJjNTBjOWM1YTM2NjYz`
+Snapshot ID: `MCw3ZjUwMjU3NjIwOThiZDA4NGU4YzcwOGIzMjAzOGE4YjhkNTQ0Y2E5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,240 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,270 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 72 | [Boom Boom Boom Boom](https://open.spotify.com/track/2mWsc7kD2lpFtMNndPEMOH) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Amfree](https://open.spotify.com/artist/72pJ6h8ZR3sS8S1vzv1SQE), [Ampris](https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2) | [Boom Boom Boom Boom](https://open.spotify.com/album/0MY7UAFFOsR5mHgyfmNPfj) | 2:08 |
 | 73 | [what would you do? \- Galantis Remix](https://open.spotify.com/track/7CNnr17XNq6rvU2LM3H7MD) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [what would you do? \(Galantis Remix\)](https://open.spotify.com/album/39ay2W7PKgxnECNDoSvqYu) | 2:41 |
 | 74 | [Butterfly](https://open.spotify.com/track/5qvunEAsoy0tFNNVGB4LFm) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Daydreamin'](https://open.spotify.com/album/7nSIgpiG0BxRyrB3o6Xruv) | 2:19 |
-| 75 | [Heartbreakmiljonär](https://open.spotify.com/track/2li3Mf9nEwOkvQ43QUNh0j) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Heartbreakmiljonär](https://open.spotify.com/album/0b4MV4Nget3iV9y2vi7Ewz) | 3:13 |
-| 76 | [Smells Like Teen Spirit](https://open.spotify.com/track/01T0m32L0lgGS8EJTbN26x) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Smells Like Teen Spirit](https://open.spotify.com/album/4HQc7ObB0Yj5JHRfymTEjC) | 2:33 |
-| 77 | [Year of the Young](https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Year of the Young](https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi) | 2:44 |
-| 78 | [Everywhere \(feat\. Maya Avedis\)](https://open.spotify.com/track/3sSQDbzb6TrXlsSREouIUk) | [XO Cupid](https://open.spotify.com/artist/1Fy4Vnoq3HspYLrgEs9VNc), [Maya Avedis](https://open.spotify.com/artist/64msO0RZHKEtUsVvNtOrS4) | [Everywhere \(feat\. Maya Avedis\)](https://open.spotify.com/album/5sPQEXoh1AOhBbzdlN1uT8) | 2:56 |
-| 79 | [Hold Me Close \(feat\. Ella Henderson\)](https://open.spotify.com/track/24aN8j7dBw0FxxKUBlCtd6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hold Me Close \(feat\. Ella Henderson\)](https://open.spotify.com/album/17S4c0rf1RXLZ0u4ez15E5) | 3:05 |
-| 80 | [Jealous](https://open.spotify.com/track/5XwBIBZIkw84eYKXQZjjrG) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a), [IZKO](https://open.spotify.com/artist/1BgmLUmytJuDy5CEzP7SL6), [Jordan Rys](https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI) | [Jealous](https://open.spotify.com/album/60X8z7chpkxZa3WlICcscf) | 3:02 |
+| 75 | [Smells Like Teen Spirit](https://open.spotify.com/track/01T0m32L0lgGS8EJTbN26x) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Smells Like Teen Spirit](https://open.spotify.com/album/4HQc7ObB0Yj5JHRfymTEjC) | 2:33 |
+| 76 | [Year of the Young](https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Year of the Young](https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi) | 2:44 |
+| 77 | [Everywhere \(feat\. Maya Avedis\)](https://open.spotify.com/track/3sSQDbzb6TrXlsSREouIUk) | [XO Cupid](https://open.spotify.com/artist/1Fy4Vnoq3HspYLrgEs9VNc), [Maya Avedis](https://open.spotify.com/artist/64msO0RZHKEtUsVvNtOrS4) | [Everywhere \(feat\. Maya Avedis\)](https://open.spotify.com/album/5sPQEXoh1AOhBbzdlN1uT8) | 2:56 |
+| 78 | [Hold Me Close \(feat\. Ella Henderson\)](https://open.spotify.com/track/24aN8j7dBw0FxxKUBlCtd6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hold Me Close \(feat\. Ella Henderson\)](https://open.spotify.com/album/17S4c0rf1RXLZ0u4ez15E5) | 3:05 |
+| 79 | [Jealous](https://open.spotify.com/track/5XwBIBZIkw84eYKXQZjjrG) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a), [IZKO](https://open.spotify.com/artist/1BgmLUmytJuDy5CEzP7SL6), [Jordan Rys](https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI) | [Jealous](https://open.spotify.com/album/60X8z7chpkxZa3WlICcscf) | 3:02 |
+| 80 | [Lose my mind](https://open.spotify.com/track/4Cz2101t2TdPKBsgb7O6dS) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Lose my mind](https://open.spotify.com/album/53H8HfdZu1DoXqPfTGj8CG) | 2:53 |
 
-Snapshot ID: `MCw4MDNhMDE1NDQzNThlZWUxOWIzMjdlODczNjFkNjY1MWMzN2NlYzcx`
+Snapshot ID: `MCw0ODJlYTUxY2VjOWNhZGViNTY5YzczYTkyY2E5YzEzODAyMjA4NWU5`

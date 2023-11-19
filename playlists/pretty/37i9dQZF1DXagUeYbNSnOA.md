@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Alan Troy\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,796 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,790 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Ayer](https://open.spotify.com/track/4YTOFkHCSED65DBPGGGwtk) | [LUR](https://open.spotify.com/artist/29EKu93j5KOjAyXGUiLuIs) | [Ayer](https://open.spotify.com/album/4s0vu5iTqHocp9zKbd2IA1) | 3:32 |
 | 50 | [¿A qué le tiras?](https://open.spotify.com/track/5YdurFSX0XI9LSEBWFPDbl) | [Feelder](https://open.spotify.com/artist/5hlVR9GtWAmGrx9GLJhHxr) | [¿A qué le tiras?](https://open.spotify.com/album/3MQyQ487oNDMIbv2uO2maE) | 1:48 |
 
-Snapshot ID: `MCw1NGRlYTI2NGMwODg0OGMwMWNlNGZmOWQ0YTE4ODg1ZWJmOWExMDU3`
+Snapshot ID: `MCw3NDRkZmM4MjVmNTMxZTQwOThhNDE0M2M4YjZjNzU5NmViMjYwYTEx`

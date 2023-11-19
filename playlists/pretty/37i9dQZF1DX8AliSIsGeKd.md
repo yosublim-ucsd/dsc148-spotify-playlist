@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Amelie Lens
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,849 likes - 89 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,104 likes - 89 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 35 | [Pitsidia](https://open.spotify.com/track/2AXvO5ZGtP7nTrtmCxr9tg) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Pitsidia](https://open.spotify.com/album/1aWyBNOwR97itJtA9Y31SN) | 6:57 |
 | 36 | [Golden Rutile Geode](https://open.spotify.com/track/6dofV6gPwwAgtdn4EukiKv) | [Vhyce](https://open.spotify.com/artist/5rzLwPhUU0Fh8KEM021KHa) | [Golden Rutile Geode](https://open.spotify.com/album/0F7wHBiCoXesneS2mtG23c) | 3:02 |
 | 37 | [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 |
-| 38 | [I's All Yours](https://open.spotify.com/track/0sD8btPVrOl5RcEZFoc4A4) | [Dapayk & Padberg](https://open.spotify.com/artist/0CSUa2tToUsyQZYhQPPhyl) | [It's All Yours](https://open.spotify.com/album/72T5KCki9iRKjn24G5EtGN) | 3:06 |
+| 38 | [It's All Yours](https://open.spotify.com/track/0sD8btPVrOl5RcEZFoc4A4) | [Dapayk & Padberg](https://open.spotify.com/artist/0CSUa2tToUsyQZYhQPPhyl) | [It's All Yours](https://open.spotify.com/album/72T5KCki9iRKjn24G5EtGN) | 3:06 |
 | 39 | [Skynet](https://open.spotify.com/track/24NYldsWLPZ9a1vgEYpQJh) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Skynet](https://open.spotify.com/album/3ncdnHQ31kD9BgqQGpKu2v) | 5:22 |
 | 40 | [Love](https://open.spotify.com/track/3tCANWqIjNDN73UXiEE9qV) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Love](https://open.spotify.com/album/1NuUBi58WVMyF9lC5UiIse) | 3:13 |
 | 41 | [UTOPIA](https://open.spotify.com/track/3HdrzXCHvjBX39wYnAKc2c) | [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [UTOPIA](https://open.spotify.com/album/01Jp0tJMYp8MNRQVAk7liX) | 6:12 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 88 | [DDG Talk](https://open.spotify.com/track/4I6p213xGciXe0Euyl6rUI) | [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [DDG Talk](https://open.spotify.com/album/113qnKo8Hy83Dh0yiXSPCB) | 5:59 |
 | 89 | [These Things Take Time \- AK Remix](https://open.spotify.com/track/1oir1oGiRYsPRYuMmw5Wap) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [These Things Take Time \(AK Remix\)](https://open.spotify.com/album/2uNQfjGaUKDqpgmeeHzO4N) | 3:01 |
 
-Snapshot ID: `MCwzNGZjZDQzNDYwMDRmNDI1ZmY3YjFlOWNhZjQwNDc4NWU5YjM3YzM2`
+Snapshot ID: `MCxhYTliYzEwYTU5M2VkYTA2Y2ZmZTM0NWRlMzRkOGM3YjJhYjBmZjVl`

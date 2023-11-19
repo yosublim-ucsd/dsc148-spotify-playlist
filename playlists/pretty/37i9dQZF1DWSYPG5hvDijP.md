@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,933 likes - 76 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,012 likes - 76 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [NAACH](https://open.spotify.com/track/26NYGk5ZLw1MkICybMV6mC) | [Muhfaad](https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr) | [NAACH](https://open.spotify.com/album/6Utv4sG6z1BMAAjKMF5B9R) | 3:14 |
-| 2 | [Urvashi](https://open.spotify.com/track/1EJLrOy25fZ3l55p4rgPdS) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Mc Stan](https://open.spotify.com/artist/4LttpZO8598ASmZBB1yABk), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Urvashi](https://open.spotify.com/album/19i4HGI1PeV9N0PI25YzjH) | 3:36 |
+| 2 | [Urvashi](https://open.spotify.com/track/1EJLrOy25fZ3l55p4rgPdS) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Urvashi](https://open.spotify.com/album/19i4HGI1PeV9N0PI25YzjH) | 3:36 |
 | 3 | [All Fall Down](https://open.spotify.com/track/6hvrcoCUK0TkZ9BAL4m68e) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q) | [KARAM](https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1) | 3:25 |
 | 4 | [No Breaks](https://open.spotify.com/track/5HlSPZrglzpcbrrB09lQYd) | [yungsta](https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy) | [Graveyard Shift](https://open.spotify.com/album/4JANSUDMyIlEcMuM1QeFAe) | 3:00 |
 | 5 | [Drifta](https://open.spotify.com/track/7mdYZBW0QlFjClvN1a7hyL) | [Ruhaan79](https://open.spotify.com/artist/5SF0jmBaNgXoDE7VuUypTL), [DAKSH](https://open.spotify.com/artist/78bNETOrFeEr5MISnz1wMH) | [Drifta](https://open.spotify.com/album/0s7h4UyNaW4j3mwOQwbCgV) | 2:46 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 75 | [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 |
 | 76 | [Dil Se Dil Tak](https://open.spotify.com/track/7AX0yf9UCmJbEhpnzLnGJe) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt) | [Dil Se Dil Tak](https://open.spotify.com/album/25f0ZsyO89A2hV2rJpMaRE) | 2:57 |
 
-Snapshot ID: `MCw4YjM3Yjg2YTBjOGJhMmEwM2EzNjk3MmY4MmFlNjFhMDA5NzMxNjgx`
+Snapshot ID: `MCxlYTkxN2ViNGQxNGIyN2FlM2ZhYzkzM2UzZmY2YTEyNDc4NWE2MTM0`

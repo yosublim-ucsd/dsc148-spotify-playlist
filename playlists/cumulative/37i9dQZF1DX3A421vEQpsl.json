@@ -205,6 +205,28 @@
     },
     {
       "album": {
+        "name": "Arjan Vailly (From \"ANIMAL\")",
+        "url": "https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K"
+      },
+      "artists": [
+        {
+          "name": "Manan Bhardwaj",
+          "url": "https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh"
+        },
+        {
+          "name": "Bhupinder Babbal",
+          "url": "https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182170,
+      "name": "Arjan Vailly (From \"ANIMAL\")",
+      "url": "https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn"
+    },
+    {
+      "album": {
         "name": "Bhankas (From \"Baaghi 3\")",
         "url": "https://open.spotify.com/album/3COyCRn7YNvOKxh3QJEHt0"
       },
@@ -1370,6 +1392,32 @@
       "duration_ms": 247578,
       "name": "Kudi Meri",
       "url": "https://open.spotify.com/track/5OklapYOB69owATMsuexTZ"
+    },
+    {
+      "album": {
+        "name": "Kudiye Ni Tere (From \"Starfish\")",
+        "url": "https://open.spotify.com/album/5bEPoKG9eicPrtuyYSayoI"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Khaalif",
+          "url": "https://open.spotify.com/artist/43wfBC2EqzE6jLYg4rf1gD"
+        },
+        {
+          "name": "Harjot Kaur",
+          "url": "https://open.spotify.com/artist/4xPHVHq5B7BX0h8XCOYWQw"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249105,
+      "name": "Kudiye Ni Tere (From \"Starfish\")",
+      "url": "https://open.spotify.com/track/2OfjwjT2pRe9Yoee7jJECa"
     },
     {
       "album": {
@@ -2710,7 +2758,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 214714,
       "name": "Sunny Sunny 2.O",
       "url": "https://open.spotify.com/track/2BrlVkUZz1bnE7RGF7mFRq"
@@ -3076,7 +3124,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 327954,
       "name": "Ve Kamleya (Redux)",
       "url": "https://open.spotify.com/track/0BYhZuuSAseBCjsbfBDRm9"

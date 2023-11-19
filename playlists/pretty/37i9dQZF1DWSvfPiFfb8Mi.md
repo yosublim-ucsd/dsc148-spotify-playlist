@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,340 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,734 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 | 99 | [Be with You Tonight](https://open.spotify.com/track/2opgPV5Slxx13Cu9bIaArt) | [Valère](https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs), [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [Be with You Tonight](https://open.spotify.com/album/5ekFu16M8ZCHl1zsLFqd6o) | 3:39 |
 | 100 | [Last Dance](https://open.spotify.com/track/7sYOC9FdWJ2Gf5O8bYuK9t) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Kimchii](https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3) | [Last Dance](https://open.spotify.com/album/1pGl9quH4KSsfSjPKz9TT9) | 3:29 |
 
-Snapshot ID: `MCw3NDgxMjM1NThkZjUzMDgwMjA4ODMyMjBkZjBlNTgzNWYxY2E2NTc5`
+Snapshot ID: `MCw1ODAyN2MyMzU3ZmJkMmM2YjkzMTM4MDRkMjQ5NDg5MzI5Zjk1Y2Qw`

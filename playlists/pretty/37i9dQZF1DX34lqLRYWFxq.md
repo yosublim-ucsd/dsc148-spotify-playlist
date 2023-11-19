@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in rock this week\. Cover: Mannequin Pussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,946 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,972 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Ramona](https://open.spotify.com/track/2W6yKDUYSIdp6vPnPWqiv8) | [moondoggy](https://open.spotify.com/artist/5p00nwfrUcZvA9WbXZeQOk) | [Ramona](https://open.spotify.com/album/5IOYVd6STMONjcDQuuQfnm) | 3:02 |
 | 100 | [i don’t sleep as good as i used to](https://open.spotify.com/track/2YCrJo5Ly8VS7rWMO30xbX) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [i don’t sleep as good as i used to](https://open.spotify.com/album/6aUYWT72B92zOpEK5xIo0i) | 3:03 |
 
-Snapshot ID: `MCw3YTExMDgyMTY2MGQ3ZTkwYTk3NDQwMjFjOGRhYTA0NzkwYmVhODA2`
+Snapshot ID: `MCw4MWM4ZTk1MjhmMGQxMjI2NTY3YWQ1MWMzY2ViMWI1NDQ5NWUzNGU4`

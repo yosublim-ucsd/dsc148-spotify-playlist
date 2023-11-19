@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Franco Escamilla y McKlopedia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,853 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,865 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 99 | [Nike 95](https://open.spotify.com/track/4r2frsl6BuWbYUZLybprKa) | [Lasser](https://open.spotify.com/artist/5AlWoe0Tl7mmeNMdJCHRhj), [Amber Window](https://open.spotify.com/artist/066Vam5XGA8T8NNl1sroAg) | [Zoom](https://open.spotify.com/album/0rDGF0mOdH57KIKRFy6dFq) | 2:36 |
 | 100 | [Boombarrio \- Remake](https://open.spotify.com/track/2AyhvBf16vNzc9FPu3wPij) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Coro Infanto Juvenil](https://open.spotify.com/artist/2tGOHXAMOx2bsUEwaknr4G) | [Boombarrio \(Remake\)](https://open.spotify.com/album/1SWXIsbnLqz8el1H8nkXfO) | 3:08 |
 
-Snapshot ID: `MCxiOTcxMjcxN2VlM2E3OTk2ZjY1YWZiNzgyNmQxNzUxYmZjYWE4ZmZi`
+Snapshot ID: `MCwzOGMzNjY2YTk3NTdiNTI5MmE5Mzc1MWY5OGYxZGI3Njk5NzM0OTY1`

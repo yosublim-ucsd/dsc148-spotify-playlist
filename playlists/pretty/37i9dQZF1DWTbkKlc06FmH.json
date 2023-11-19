@@ -1,12 +1,12 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 123886,
+  "num_followers": 123930,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmJkNGJiMTBkZGYxNjRhNDU0ZmIxMzJjNDU3ZTRkN2MxMjgzMGUy",
+  "snapshot_id": "MCw1ZDQwZTYyZTQ2NDUzZTcwZDU1MDQzZjRiOWQ1NzBjYTcwYWIxOTZk",
   "tracks": [
     {
       "added_at": "2023-11-16 15:00:00",
@@ -347,13 +347,17 @@
     {
       "added_at": "2023-11-16 15:00:00",
       "album": {
-        "name": "Paint It, Smile! feat. Shin Sakiura & Rachel",
+        "name": "Paint It, Smile! feat. Shin Sakiura & Rachel (Blended by tofubeats)",
         "url": "https://open.spotify.com/album/1HrBVaDefeiNUle3ZCa62M"
       },
       "artists": [
         {
           "name": "BACARDI RECORDS",
           "url": "https://open.spotify.com/artist/50HufyqvWA4Bj4GuWf0ztA"
+        },
+        {
+          "name": "tofubeats",
+          "url": "https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT"
         },
         {
           "name": "Shin Sakiura",
@@ -365,7 +369,7 @@
         }
       ],
       "duration_ms": 234000,
-      "name": "Paint It, Smile! feat. Shin Sakiura & Rachel",
+      "name": "Paint It, Smile! feat. Shin Sakiura & Rachel (Blended by tofubeats)",
       "url": "https://open.spotify.com/track/0PhkWYgL04mgzCaH9JhkUb"
     },
     {

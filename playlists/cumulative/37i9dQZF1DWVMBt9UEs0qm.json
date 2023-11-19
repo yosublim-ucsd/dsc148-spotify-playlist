@@ -979,6 +979,24 @@
     },
     {
       "album": {
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "date_added": "2019-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "New York's Not My Home",
+      "url": "https://open.spotify.com/track/5vFmEDQivD8FNOOushB70i"
+    },
+    {
+      "album": {
         "name": "The Original Albums...Plus",
         "url": "https://open.spotify.com/album/4asosdO6SSNJJO5Hij5QbM"
       },
@@ -1026,7 +1044,7 @@
       ],
       "date_added": "2019-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 176453,
       "name": "New York's Not My Home (Live)",
       "url": "https://open.spotify.com/track/4B1DeA8kfjPCfmzLA33es1"

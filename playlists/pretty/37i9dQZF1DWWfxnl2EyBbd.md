@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,288 likes - 400 songs - 1 day 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,342 likes - 400 songs - 1 day 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 399 | [First Song](https://open.spotify.com/track/2eBTHh2ERzYjOn3PPk8tU1) | [Antonio Zambrini](https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Martin Maretti Andersen](https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G) | [Quietly](https://open.spotify.com/album/4aNDswPAhlIuuz6jzhKieO) | 6:53 |
 | 400 | [A Lost World](https://open.spotify.com/track/2JLRGemkwI4nHcwWMpBWdr) | [Eyal Lovett](https://open.spotify.com/artist/2nWU6AHzibFay6s15UoWXl) | [Through the Rain](https://open.spotify.com/album/6FtYUX8NSsxzxleDwqnQB8) | 7:14 |
 
-Snapshot ID: `MCwzMDE5MDc4Mzk4ZTgxODMxNWJhNWEyNjY2ODE5ZmQxNWYzZDJmMjQ1`
+Snapshot ID: `MCw4NTU1MDU5YjA4ZDBhNDhhZGFlYjRmZjU2M2U4YjQyMmVhNmE4OTQx`

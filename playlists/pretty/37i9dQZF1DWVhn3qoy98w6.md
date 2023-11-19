@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: ZTa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,386 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,387 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [5HT\-Club](https://open.spotify.com/track/0qHY3313IqKPq6QV8G5yUE) | [Oslo Ovnies](https://open.spotify.com/artist/3KSBsxMjBEZCxmrj0GEWJI) | [5HT\-Club](https://open.spotify.com/album/2F4qRCItVTHz7Emq9Ooif6) | 4:19 |
 | 50 | [Lala Lala](https://open.spotify.com/track/5v7pZpWwTZrMt2N7nwu04F) | [Marta Berlín](https://open.spotify.com/artist/6pHlNGKW4LocYmaU9DFVTX) | [Lala Lala](https://open.spotify.com/album/4eOmzakoRLym6hYz7y8pxd) | 2:39 |
 
-Snapshot ID: `MCxkYzJlZDU1ODhhNTE2YmFkMDk1ZjgyOTI5OTY3MTVlNjRkMjVkMmIx`
+Snapshot ID: `MCwwMWMzNzRiNzc3YzA1OTBkODc1Y2YzYTU5NTk4Y2VmM2IzM2Q2MWQz`

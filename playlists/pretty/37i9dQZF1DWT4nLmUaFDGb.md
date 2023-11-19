@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,634 likes - 140 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,097 likes - 140 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 139 | [Summer Wind](https://open.spotify.com/track/7r03ij7i1V46ipmA4Su4Vx) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Summer Wind](https://open.spotify.com/album/6uE5kO9jjcNcomi2idoBSf) | 2:41 |
 | 140 | [Dreamers Ball](https://open.spotify.com/track/3jh6i9T4kocrZAEGv5JaXc) | [Rebecca Poole](https://open.spotify.com/artist/0xVPAZm6o6XJ7lARU9nC1D) | [Dreamers Ball](https://open.spotify.com/album/0uMulVRZbsaUJpJ8Lf8uDx) | 4:43 |
 
-Snapshot ID: `MCw5Nzk0MmQzMWMwYjE4NjA1MmU3NGY5MjI3NTIyMDU2ZDliMjYwN2Fi`
+Snapshot ID: `MCwyMjA1NWEyNjgyZTgzNGZkMzNlNDYwOGQyMzcxYjg2ZmVmNTZiOWM3`

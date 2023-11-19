@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Matt Hansen
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,394 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,436 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 17 | [Medicine](https://open.spotify.com/track/28xPS2Els3jTO6pdgp2znH) | [Sebastian Gaskin](https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za) | [Medicine](https://open.spotify.com/album/39D1A6YzvcAGdELvfnh9YG) | 2:42 |
 | 18 | [Never Ever Love a Liar](https://open.spotify.com/track/4Y9ZFT6aD1PfZJHLZXi9EQ) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Introverted Extrovert](https://open.spotify.com/album/0LlRW4Z7dQfUodtABNh9Zk) | 2:45 |
 | 19 | [Touchy Feely Fool](https://open.spotify.com/track/3PY47EpOouHdbDI4z5jw3v) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Maybe Man](https://open.spotify.com/album/1bU12iHHt5ujHbuKcIGlpm) | 3:35 |
-| 20 | [Diamond](https://open.spotify.com/track/172M4kIkFD7k0B3Q8DH35U) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Diamond](https://open.spotify.com/album/3o28lmmD2GQZDR2hPECUD5) | 3:19 |
+| 20 | [Diamond](https://open.spotify.com/track/5IZNEUIwLYzxZWOKwkv688) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Anna](https://open.spotify.com/album/5YQToGEsFBM6QxkX75FMH7) | 3:19 |
 | 21 | [Bloodsucker](https://open.spotify.com/track/3Vjz4qxSB8k2UGjJPR6JGd) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [Bloodsucker](https://open.spotify.com/album/59boJCTqevkvToAoVm9c9y) | 2:37 |
 | 22 | [If Anybody Cares At All](https://open.spotify.com/track/2rjyhx1TEZEAoGYkJjkdSI) | [Jake Hope](https://open.spotify.com/artist/44PkBtAQLIQ45IDNop6d78) | [If Anybody Cares At All](https://open.spotify.com/album/16V0IPiQhbzoZNnkdSkOPM) | 2:57 |
 | 23 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [CALL HER BACK](https://open.spotify.com/track/3B3i8gxv4lZNu5kGzBZ317) | [Group Project](https://open.spotify.com/artist/7gGjxniWt0ovSoAY7440o1) | [THE BIG PICTURE](https://open.spotify.com/album/6y2sUWXuDVM2YBwSGnryrg) | 2:32 |
 | 100 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 |
 
-Snapshot ID: `MCxhYjIwNjFkYWEwODgwZGQ4NGJmODA4ZjIzYjVhYjQ2Yjk3YjAyMTJh`
+Snapshot ID: `MCw3YWY0ODliMmU1ODJhMTIxNzY2Njc3NGIyZDg3YjYwNjVmOThjNjQ1`

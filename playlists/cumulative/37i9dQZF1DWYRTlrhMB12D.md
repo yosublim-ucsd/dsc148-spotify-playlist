@@ -4,7 +4,7 @@
 
 > Soulful Hindi songs for your nostalgic journey\. Cover \- Mere Jeevan Saathi
 
-162 songs - 12 hr 22 min
+163 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Chala Jata Hoon](https://open.spotify.com/track/4MiiZH1ONmjTVEFbGURgMC) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Mere Jeevan Saathi](https://open.spotify.com/album/0LgDRtuJbng7HyGRHhdJGX) | 4:29 | 2021-09-29 | 2022-07-20 |
 | [Chaudhvin Ka Chand Ho](https://open.spotify.com/track/0NMHJgkmn6heDuxpL2brXX) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Chaudhvin Ka Chand \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5oV7MbtBoGG0scOR6pQCc7) | 3:43 | 2021-09-29 |  |
 | [Chhod Do Aanchal Zamana Kya Kahega](https://open.spotify.com/track/4wR89WBeEi0nda0JWcB8sT) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Paying Guest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6yqu6Rc7NqKZw9SSmTlLay) | 4:10 | 2021-09-29 | 2022-07-29 |
-| [Chura Liya Hai Tumne Jo Dil Ko \(From "Yaadon Ki Baaraat"\)](https://open.spotify.com/track/3ci9YeXRulpmFPDvqneVwc) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Singing Icon \- Asha Bhosle](https://open.spotify.com/album/3dXlPx1XUd6VIMgXTwpnQ3) | 4:47 | 2022-01-05 |  |
+| [Chura Liya hai Tumne Jo Dil Ko](https://open.spotify.com/track/3TE0igTdhJgQKTjjYk2BpY) | [RD Burman](https://open.spotify.com/artist/7tDNjA4ARFgCEn4JLPLiH4), [Asha Bhosle](https://open.spotify.com/artist/77zgQIbFiMd5pD3oi9Wpix) | [RD Burman Songs \- Vol.1](https://open.spotify.com/album/5nSl8Ltv5CNKSjaVjtejjq) | 4:47 | 2023-11-18 |  |
+| [Chura Liya Hai Tumne Jo Dil Ko \(From "Yaadon Ki Baaraat"\)](https://open.spotify.com/track/3ci9YeXRulpmFPDvqneVwc) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Singing Icon \- Asha Bhosle](https://open.spotify.com/album/3dXlPx1XUd6VIMgXTwpnQ3) | 4:47 | 2022-01-05 | 2023-11-19 |
 | [Dhanno Ki Aankhon Mein](https://open.spotify.com/track/03RgN9BWo84z7CES4k406l) | [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Kitaab \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/43rNh36s6FHVrjF0x6WsTj) | 3:25 | 2021-09-29 | 2023-02-22 |
 | [Dil Cheez Kya Hai](https://open.spotify.com/track/3BERM98uzP2orrHk96PPvS) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Umrao Jaan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qavq5Ue68nUxUK5VLRnNe) | 6:10 | 2022-01-05 |  |
 | [Dil Deke Dekho Dil Deke Dekho](https://open.spotify.com/track/2uZ99ytApIF88OcrzP80MH) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Dil Deke Dekho](https://open.spotify.com/album/1XkOA0zjFuSj47GIwD3Qvr) | 4:12 | 2021-09-29 | 2022-07-28 |

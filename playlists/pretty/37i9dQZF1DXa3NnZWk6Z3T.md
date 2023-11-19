@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3NnZWk6Z3T.md) - [plain]
 
 > Keep calm and enjoy this musical cafecito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,988 likes - 150 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,042 likes - 150 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3NnZWk6Z3T.md) - [plain]
 | 149 | [tbb](https://open.spotify.com/track/3JObJGc3II0h6eIWjOHwcJ) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 2:51 |
 | 150 | [Un Beso Más \(Versión Acústica\)](https://open.spotify.com/track/7dS19L0dDQwgWJfAgT4xZG) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Un Beso Más \(Versión Acústica\)](https://open.spotify.com/album/6GMLQCfFP8LAkMu5gmb15l) | 3:18 |
 
-Snapshot ID: `MCxmOTQ4MjNhMzM5ZDZiMDk5MTM4MDFiNTdlOTBiODdkYzlkZDFkNmYz`
+Snapshot ID: `MCwyNTI4YTM4NWFjZGVkN2FiNjZlZWY4MjBhNzQ1ZjEwNTdjMTIwM2Rk`

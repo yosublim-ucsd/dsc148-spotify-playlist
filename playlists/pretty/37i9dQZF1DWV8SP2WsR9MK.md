@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,208 likes - 100 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,266 likes - 100 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 99 | [Tenderly](https://open.spotify.com/track/7kxl3YY1zqfybhYMylZGRz) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG) | [Easy Like](https://open.spotify.com/album/4FEQUVniR5kClrtPy9uVJD) | 3:15 |
 | 100 | [For Toddlers Only](https://open.spotify.com/track/0ZjG7vhjZrpPItoMOZmXH6) | [Russell Malone](https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb) | [Sweet Georgia Peach](https://open.spotify.com/album/5uip0ZOqDmZb6GqFfLpqOw) | 5:18 |
 
-Snapshot ID: `MCwxYzMxNjYwOTQxZTM2ZGM4MTVkYjcyZGE2OGQ0YTliNTg4NTc2Y2Vm`
+Snapshot ID: `MCxiYzY3NDZjZDM0MjRmMGE0ZmRmNzI0YWFmNDJlMzVjZDcyNjIxODgz`

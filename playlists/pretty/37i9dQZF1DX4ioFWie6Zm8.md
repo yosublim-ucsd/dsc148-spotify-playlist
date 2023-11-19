@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,833 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,914 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 99 | [Kontondiro](https://open.spotify.com/track/6E3QHEbMhoD6HlDPQOZ8db) | [Kadialy Kouyate](https://open.spotify.com/artist/2dK2U2i24NYs1gLks6mINS) | [Aado: Senegalese Kora](https://open.spotify.com/album/2V00IKstbKgZaXLHVKRwmM) | 5:30 |
 | 100 | [Rwangaguhunga](https://open.spotify.com/track/7vpqMS7jm4j7IoRpTd5wWf) | [John Wizards](https://open.spotify.com/artist/4sPLhyVBoVtdlX0MaetdVK) | [Rwangaguhunga](https://open.spotify.com/album/7HF4HBqqUlGGKYqrE04CNE) | 2:45 |
 
-Snapshot ID: `MCxhODYxMzE2MjEwMjU4MDdkZDVjMWQ5ZjczYjNjZDE1ZTlkM2ViZGNl`
+Snapshot ID: `MCw1N2M4ZDI0OTcyYzE1NWJhZGFhZTU2MGU5ODZkNTI2MTM4Y2FmYjg2`

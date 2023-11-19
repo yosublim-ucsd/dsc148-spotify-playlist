@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,582 likes - 150 songs - 13 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,624 likes - 150 songs - 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 149 | [Blue J](https://open.spotify.com/track/5YilK4r71sVXeQMqjJy6U0) | [Niels Vincentz](https://open.spotify.com/artist/06swMcwDI7ffGr3D3K10qF), [Danny Grissett](https://open.spotify.com/artist/4cePuNhFNRCjCzpM1VierQ), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Going Easy](https://open.spotify.com/album/785gj476PUw44LuycivuoG) | 8:49 |
 | 150 | [Like in Love](https://open.spotify.com/track/4MUP0AOSKzwsum43ZwifQW) | [Christine Jensen](https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu) | [Like in Love](https://open.spotify.com/album/23WrIHXp4jqOUDqkpCfcxp) | 6:06 |
 
-Snapshot ID: `MCwwM2I1ZjVlYjg4ZmUwZDg1ZDY5ZDAzMjllZTNmYTU1ZjcwOTczYjYy`
+Snapshot ID: `MCw1NDMxNDZhMDA2ZjZhNDZmZWM2MzExZjM1NWM2OWZhZjA2OTlhNjVi`

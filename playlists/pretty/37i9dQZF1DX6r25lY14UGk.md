@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > Essential kids songs to add to your family's collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,354 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,372 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 18 | [Like, Magical \- Live](https://open.spotify.com/track/2w8ggQUHKMQzNYI8g8bd1C) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [Like, Magical \(Live\)](https://open.spotify.com/album/6nz1xkuZWv8K56hIdOWsek) | 3:08 |
 | 19 | [Hand To Hold \(Road Safety Song\)](https://open.spotify.com/track/7vGPAcgiQQClmZFeA4T4kL) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Hand To Hold \(Road Safety Song\)](https://open.spotify.com/album/0udXK70wTEH0UoOvLTHdmg) | 2:13 |
 | 20 | [The Bicycle Song](https://open.spotify.com/track/7q0vOWQvZBSAZbOEAJYfE4) | [The Swinging Belles](https://open.spotify.com/artist/01eojLsVBj3CRaLmUXCfDM) | [The Bicycle Song \(from the Welcome to the Flea Circus EP\)](https://open.spotify.com/album/4u1FQyRQUWvcDTgsH63JzR) | 2:07 |
-| 21 | [Look Up! There's a Rainbow!](https://open.spotify.com/track/0lSQ1XbRZrvlYo7XvrIYJ2) | [The Swinging Belles](https://open.spotify.com/artist/01eojLsVBj3CRaLmUXCfDM) | [Swimming \(from the Welcome to the Flea Circus EP\)](https://open.spotify.com/album/1GxtdUkKs1RA07jxn0irO7) | 2:04 |
+| 21 | [Look Up! There's a Rainbow!](https://open.spotify.com/track/1kTHonKVw5MWy99W8shuIT) | [The Swinging Belles](https://open.spotify.com/artist/01eojLsVBj3CRaLmUXCfDM) | [Welcome to the Flea Circus](https://open.spotify.com/album/1lgtDTEaxFhqLRmAxtEX1J) | 2:04 |
 | 22 | [Help You Do The Work](https://open.spotify.com/track/4odnaqDDzJuQPTQ69AC7wJ) | [Pierce Freelon](https://open.spotify.com/artist/49DZXXkpkkpbrEsEaMKuKG), [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS), [Jarrett Johnson](https://open.spotify.com/artist/7s9DvOkGwaNtMa4jPXPpLt) | [AnceStars](https://open.spotify.com/album/64aREOj3hb0pCmJzTSxTXc) | 2:48 |
 | 23 | [Heart Family](https://open.spotify.com/track/0idER1QATNUULVtm4CrAR2) | [Slumberkins](https://open.spotify.com/artist/5oC4IIutTVy3XmJbTFRfPi), [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Heart Family](https://open.spotify.com/album/79pXLUhGHVsf9fswJt40dB) | 3:46 |
 | 24 | [Affirmation Song](https://open.spotify.com/track/5HLzL5g27XBbSy2qKbCGEk) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Kids Hits, Vol\. 1](https://open.spotify.com/album/6PE793g3TdbQL1nj51wCRm) | 2:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 99 | [Be Yourself](https://open.spotify.com/track/5dezcmeHDqLPVGpQ4Kflcf) | [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI) | [Ready Set Go!](https://open.spotify.com/album/4jOCINfRZTbcSiblJcrqyu) | 2:31 |
 | 100 | [Loon](https://open.spotify.com/track/0T5r5FKRfVQMqkDmhcAeGP) | [Bears and Lions](https://open.spotify.com/artist/55XGQSMgofzZFEtY4bDJPB) | [Wild and Free](https://open.spotify.com/album/5IMky5Cqw3PMV23se8BApI) | 2:25 |
 
-Snapshot ID: `MCwyZGE5N2RjMjkxZTJiNzhlZjA5Mjc2MzlmODc2N2YzYjdjZDNiMTky`
+Snapshot ID: `MCxhZmI2Mjk1MDY3NGRjNmY4OTZhOTg0YjUxY2MxZGM5NTNlNmJhYmY1`

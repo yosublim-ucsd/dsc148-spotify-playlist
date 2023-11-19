@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,490,070 likes - 80 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,490,112 likes - 80 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [Constellation](https://open.spotify.com/track/7CCGMuXZtGEN7GvZcKPrzr) | [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Constellation](https://open.spotify.com/album/4fWpzjHcfAJIU7Mbee9UVz) | 1:41 |
 | 80 | [The Night I Drank Too Much](https://open.spotify.com/track/3gnc0simp5IpXLUKCcEehE) | [Ai\_No\_Hana](https://open.spotify.com/artist/4heV3hbKWGxsJ0v5Ty8I3Z), [Bathtub Vibes](https://open.spotify.com/artist/3wmaHYxOqFRTMr60Qfoi93), [BamBOOO!](https://open.spotify.com/artist/4W8ztHzpP32Op3SuA2ydpM) | [The Night I Drank Too Much](https://open.spotify.com/album/2WtCMLh7hROPFrHHSewWot) | 1:31 |
 
-Snapshot ID: `MCxhYzIwY2NjZDc0NmU0NDFhN2FjMjFhNjY1N2EyYzFlZjNmNmQ1Y2Rj`
+Snapshot ID: `MCw1OGI0NzEyNGU3YjU3NzhiNTMyOThhMzMyNmQwOWVlMmE4Yjk5Mzdi`

@@ -4,7 +4,7 @@
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-192 songs - 11 hr 22 min
+193 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Runaway](https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 4:08 | 2023-06-08 |  |
 | [Running \(Alternate\)](https://open.spotify.com/track/6UnoQ80757O28E2lQjE5Mi) | [girl named GOLDEN](https://open.spotify.com/artist/1QdEdpB8sfiCulNykJkeZf) | [Running B\-Sides](https://open.spotify.com/album/3IiG2Vq8iBS2u2FwiFoHbj) | 3:35 | 2023-06-08 |  |
 | [Saami Saami](https://open.spotify.com/track/4ZUxhQNRCzlh6alqBHPNRC) | [Mounika Yadav](https://open.spotify.com/artist/2oLVeyUyYNFELwC93iZWGG) | [Pushpa \- The Rise](https://open.spotify.com/album/4EP0PqETB5XNtJT9vOIfnu) | 3:43 | 2023-06-08 |  |
-| [Say Something](https://open.spotify.com/track/6FG0Mgz3S4aiCIheLLzJTr) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/7EBIA9cqbuqkyWfp3UCitD) | 3:32 | 2023-06-08 |  |
+| [Say Something](https://open.spotify.com/track/6FG0Mgz3S4aiCIheLLzJTr) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/7EBIA9cqbuqkyWfp3UCitD) | 3:32 | 2023-06-08 | 2023-11-19 |
+| [Say Something](https://open.spotify.com/track/5ZOr84cvpMI8G7b9A6UKxp) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG) | 3:33 | 2023-06-08 |  |
 | [Screen Guru](https://open.spotify.com/track/62e2IJENrjvf4e8H7ayZvX) | [Young Ejecta](https://open.spotify.com/artist/54q9bW74hKtp2aua0cmjDb) | [Ride Lonesome](https://open.spotify.com/album/7wtVWWnTpTwzAWxNDYCG5e) | 3:39 | 2023-06-08 |  |
 | [See What I Mean](https://open.spotify.com/track/0ZuZ9B2P1nFMuvHutlrIob) | [Beat Market](https://open.spotify.com/artist/5xoyBvcEcZXtv6rjvGoCOe), [Aiza](https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi) | [See What I Mean](https://open.spotify.com/album/1Hb1cIQ9janmPepeZNidbS) | 2:20 | 2023-06-08 |  |
 | [See What I Mean](https://open.spotify.com/track/6a97gInTiOqpxouoejcRV3) | [Beat Market](https://open.spotify.com/artist/5xoyBvcEcZXtv6rjvGoCOe), [Aiza](https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi) | [Sun Machine](https://open.spotify.com/album/5UO0Tc7Bjt0HMJk8nmCyxr) | 2:20 | 2023-06-08 | 2023-09-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,709 likes - 162 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,016 likes - 162 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 72 | [Fear](https://open.spotify.com/track/1SgRnIFTs39lSkQJACYDoY) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T) | 2:55 |
 | 73 | [Don't Wanna Cry](https://open.spotify.com/track/6Upu6yjkdi0DVI8E3IBZEU) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Mini Album ‘Al1’](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) | 3:23 |
 | 74 | [All My Love](https://open.spotify.com/track/11zGbqR6W7biyOgSm3WGSO) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [; \[Semicolon\]](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) | 3:21 |
-| 75 | [舞い落ちる花びら\(Fallin' Flower\)](https://open.spotify.com/track/6MC0anRfGPzSWrvybgsY7O) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [舞い落ちる花びら \(Fallin' Flower\)](https://open.spotify.com/album/3LhruYOSl2NPClKMGRpA2W) | 3:32 |
+| 75 | [舞い落ちる花びら（Fallin' Flower）](https://open.spotify.com/track/6MC0anRfGPzSWrvybgsY7O) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [舞い落ちる花びら \(Fallin' Flower\)](https://open.spotify.com/album/3LhruYOSl2NPClKMGRpA2W) | 3:32 |
 | 76 | [Snap Shoot](https://open.spotify.com/track/1Yimn9plSAWNv9G3ePzITO) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [An Ode](https://open.spotify.com/album/5HlxNTQpJb7buoWIRS4M7T) | 2:55 |
 | 77 | [HEY BUDDY](https://open.spotify.com/track/1hd8IgMElWy3OqcFVjZMUx) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [; \[Semicolon\]](https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL) | 3:18 |
 | 78 | [24H](https://open.spotify.com/track/3gAR6cBifLqbW8kOrMqZPr) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [24H](https://open.spotify.com/album/24Uj6VdVytaReqt1KJWxfc) | 3:08 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 161 | [Miracle](https://open.spotify.com/track/0YLLRbbpq3Qte4rszcddMk) | [WOOZI](https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ) | [The Tale Of Nokdu \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1ocOn4sgfTUE2QiuPDC2Sm) | 3:38 |
 | 162 | [Lotto \(feat.Don Mills\) \(Prod\. by Gonzo\)](https://open.spotify.com/track/1Jg92FCIcH6fcAl30QZfZi) | [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [Lotto](https://open.spotify.com/album/2QVaWXBBQMxUQBADLgGLIV) | 3:25 |
 
-Snapshot ID: `MCwxMTUxYmZiODZjYTdhODM5OWU2OTlkZjI1ZTg5ZjFmMjEyMTYyMDZk`
+Snapshot ID: `MCxmYmFlMGJiYmFhNjQyN2M3MDk4ODM2MTI0YzE5ZjJlYjhiZGY3ZmEx`

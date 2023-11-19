@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Katie Pruitt
 
-1,642 songs - 4 day 4 hr 31 min
+1,643 songs - 4 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -611,7 +611,8 @@
 | [Holding Pattern](https://open.spotify.com/track/5rR0Xg7Jn31EqbdueZYS3h) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Holding Pattern](https://open.spotify.com/album/54yXHow53RS0QZJWWjU38r) | 3:05 | 2023-02-17 | 2023-03-25 |
 | [Holdup](https://open.spotify.com/track/698FjMKtAofPXufwpCbsxo) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Holdup](https://open.spotify.com/album/0xwKLtHe9vEa7a4w88guxk) | 2:35 | 2023-05-05 | 2023-06-10 |
 | [Holes](https://open.spotify.com/track/0B6v7ZT2yrqYaCQb6OP5Gn) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Holes](https://open.spotify.com/album/1AAJoXqYgInrxXjoRCK4Uh) | 3:58 | 2023-07-14 | 2023-09-16 |
-| [Hollywood and Fear \- Bonus Track](https://open.spotify.com/track/7v3hNndUoHBFsEfBGMxybA) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Hollywood and Fear \(Bonus Track\)](https://open.spotify.com/album/36gqLUTwfOltzofiPMcM3q) | 3:29 | 2023-10-13 |  |
+| [Hollywood and Fear \- Bonus Track](https://open.spotify.com/track/3VeZKqmfYKIpj69KFIfWeH) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Big Picture \(Expanded Edition\)](https://open.spotify.com/album/6327l4EuoWm8xFs8AwuCbv) | 3:29 | 2023-11-17 |  |
+| [Hollywood and Fear \- Bonus Track](https://open.spotify.com/track/7v3hNndUoHBFsEfBGMxybA) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Hollywood and Fear \(Bonus Track\)](https://open.spotify.com/album/36gqLUTwfOltzofiPMcM3q) | 3:29 | 2023-10-13 | 2023-11-19 |
 | [Holy Mountain](https://open.spotify.com/track/5styQSSHZtSg4BPfEqiqw7) | [Matt Costa](https://open.spotify.com/artist/0EghvcisxKybq4CVO7rB5t) | [Donde Los Terremotos: Songs from and Inspired by the Film](https://open.spotify.com/album/0gcM0ST0KNf9v3ua0rnpkf) | 5:32 | 2022-06-10 | 2022-10-08 |
 | [Holy Place](https://open.spotify.com/track/5J6NcqP1wlQbo1WaG5VvzX) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [2022](https://open.spotify.com/album/0oYyYL3eh3JFQa6BoncBJC) | 2:59 | 2023-02-03 | 2023-03-18 |
 | [Holy Place](https://open.spotify.com/track/74rYA2zWSMsMKfhLs47RD0) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Holy Place](https://open.spotify.com/album/1lqkzKpQ8FInrboRloSa5H) | 2:59 | 2022-10-28 | 2023-02-04 |

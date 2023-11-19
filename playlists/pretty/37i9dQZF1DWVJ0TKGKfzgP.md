@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 
 > The best and finest 80s Funk\. Cover: Bootsy Collins.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,330 likes - 100 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,485 likes - 100 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 | 11 | [The Glamorous Life](https://open.spotify.com/track/179SfVFJ0ZN41toTxnpgRD) | [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P) | [The Glamorous Life](https://open.spotify.com/album/2fv3CMkuVgYRtQVnhv1rQW) | 9:03 |
 | 12 | [Stool Pigeon](https://open.spotify.com/track/6ORoJZ2ghHkOXSBpLwns0N) | [Kid Creole And The Coconuts](https://open.spotify.com/artist/6KPWnJouOHhX0ZhscJsIU1) | [The Best Of Kid Creole & The Coconuts](https://open.spotify.com/album/4sxYCvb4V1M2XX1yrZveFD) | 3:57 |
 | 13 | [Bounce Rock Skate Roll \- Part 1 \- 12" Version](https://open.spotify.com/track/3CPZShCxQb1rq5kv0sz1WG) | [Vaughan Mason and Crew](https://open.spotify.com/artist/5MBBgzM082fkQbg75YyKBO) | [Old School Funk Jams](https://open.spotify.com/album/24JldoBDWv2XgtQyiCJXU1) | 7:37 |
-| 14 | [Dance Little Sister](https://open.spotify.com/track/4o9Kj7onklt6xbYl3jVArp) | [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [Introducing The Hardline According To Terence Trent D'Arby](https://open.spotify.com/album/0nw38yniBfbluS93FdYcbE) | 3:54 |
+| 14 | [Dance Little Sister](https://open.spotify.com/track/4o9Kj7onklt6xbYl3jVArp) | [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [Introducing The Hardline According To Sananda Maitreya](https://open.spotify.com/album/0nw38yniBfbluS93FdYcbE) | 3:54 |
 | 15 | [Get Up Off a That Thing](https://open.spotify.com/track/6FF5ELHgdGephOTByBh75r) | [Screamin' Tony Baxter](https://open.spotify.com/artist/2ktLWvmW6V6zU83PWKe0t0) | [Classics Funky Music, Vol\. 5](https://open.spotify.com/album/6D0kpCU3P0uhtZOxyOBZHN) | 5:32 |
 | 16 | [I Can Make You Feel Good \- 12" Version](https://open.spotify.com/track/34B0tsQ4yAj7YTbsTfZpMB) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [Friends / Go For It](https://open.spotify.com/album/39jaUqZfh7YUgQnemcgnXF) | 4:21 |
 | 17 | [Nunk \- New Wave Funk](https://open.spotify.com/track/5BVXwRFMuybkl3X1hRWZ53) | [Warp 9](https://open.spotify.com/artist/5V22HAzz3d8zQCbWdpJiJh) | [It's a Beat Wave](https://open.spotify.com/album/45lhligWbNdW3zGcgUm3Yl) | 7:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 | 99 | [Walkin' The Line](https://open.spotify.com/track/32ZRHR67bss5cpB7Dw2kYb) | [Brass Construction](https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9) | [Best Of ..Movin' & Changin'](https://open.spotify.com/album/70mFuD9TrIvjUoZN45R4M0) | 5:45 |
 | 100 | [Baby Love](https://open.spotify.com/track/1S0U07ifPGgmXGvVmGzUWP) | [Aurra](https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG) | [Live and Let Live](https://open.spotify.com/album/1caPDYrr1i3X12eYWh4UDl) | 5:53 |
 
-Snapshot ID: `MCxiOGNiOTc4ODYzZDhlMjAzYWYyMGVkZTMzMWMwMjQ3MDUyNmUwMTQ2`
+Snapshot ID: `MCxmMjU1OTgyMTNhZDEyMzk0ZThhNzA1Y2Q4N2ZjMDcxNjY2ZTRhMGVj`

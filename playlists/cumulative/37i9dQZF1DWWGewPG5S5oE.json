@@ -2948,7 +2948,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 252215,
       "name": "Spring Kiss",
       "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
@@ -3254,6 +3254,28 @@
       "duration_ms": 474626,
       "name": "The Unknown",
       "url": "https://open.spotify.com/track/3b4t9KTy40eagXOvLavU1U"
+    },
+    {
+      "album": {
+        "name": "LUPIN THE THIRD JAZZ - Another \u201cJAZZ\u201d",
+        "url": "https://open.spotify.com/album/4Ouzx4TdQw8sPuruST5rX4"
+      },
+      "artists": [
+        {
+          "name": "Yuji Ohno",
+          "url": "https://open.spotify.com/artist/7xIfi0ePXzLGlYO5lFjnvu"
+        },
+        {
+          "name": "You & Explosion Band",
+          "url": "https://open.spotify.com/artist/2AL16NaD1ssiRt8jIkwA5N"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Theme From Lupin III '78(2002 Version)",
+      "url": "https://open.spotify.com/track/7skWm7t4fHMrjlJ5mD4fKP"
     },
     {
       "album": {

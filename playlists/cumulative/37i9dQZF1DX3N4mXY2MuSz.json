@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Holiday classics from your favourite punks. Cover: The Linda Lindas",
+  "description": "Holiday classics from your favourite punks. ",
   "name": "Punk Christmas",
   "tracks": [
     {
@@ -232,7 +232,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 158475,
       "name": "Angels We Have Heard On High",
       "url": "https://open.spotify.com/track/5NDXZph9YC0ZU7PO7PPLZs"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 189260,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/2o8rF3D43FbniUVatDtSlz"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-02",
+      "date_removed": null,
       "duration_ms": 107063,
       "name": "Carol Of The Beers",
       "url": "https://open.spotify.com/track/4G2pd7tgadvUSPLlQqOBzN"
@@ -420,6 +420,24 @@
     {
       "album": {
         "name": "Christmas Spirit...In My House",
+        "url": "https://open.spotify.com/album/3F7Tn1J8gVEHBKX1mbhJ20"
+      },
+      "artists": [
+        {
+          "name": "Joey Ramone",
+          "url": "https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/2d65U4zlkEqMCOduxMK0dH"
+    },
+    {
+      "album": {
+        "name": "Christmas Spirit...In My House",
         "url": "https://open.spotify.com/album/0XMxz3mrpWkF5ssipEvaBv"
       },
       "artists": [
@@ -452,6 +470,24 @@
       "duration_ms": 187355,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/3FaUJo1nrRUm51tc4nldkg"
+    },
+    {
+      "album": {
+        "name": "Sleeping on Trash: A Collection of Songs Recorded 2005-2010",
+        "url": "https://open.spotify.com/album/1aLWn5986dV6gSNecZkTSd"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156453,
+      "name": "Christmas at 22",
+      "url": "https://open.spotify.com/track/1ecQqTY7y6QMzKMJcMXeXQ"
     },
     {
       "album": {
@@ -502,7 +538,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 201827,
       "name": "Christmas Brings Me Down",
       "url": "https://open.spotify.com/track/6JT5mL6HCTBIFWeYNMfexd"
@@ -700,7 +736,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-25",
+      "date_removed": null,
       "duration_ms": 255400,
       "name": "Christmas Shoes",
       "url": "https://open.spotify.com/track/1jdO5CFR3dhv3OKoALywkl"
@@ -740,6 +776,24 @@
       "duration_ms": 243946,
       "name": "Christmas Time Again",
       "url": "https://open.spotify.com/track/6IhdxymP4sDVwgBXCB4dOs"
+    },
+    {
+      "album": {
+        "name": "Christmas Time Again",
+        "url": "https://open.spotify.com/album/1v4pc6q6grWqB4MO4uTlSH"
+      },
+      "artists": [
+        {
+          "name": "Amely",
+          "url": "https://open.spotify.com/artist/6AjPiGacexlUKYQ3dePBjv"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249157,
+      "name": "Christmas Time Again",
+      "url": "https://open.spotify.com/track/6ZBiqkomTsOLCAdblXZYH1"
     },
     {
       "album": {
@@ -956,7 +1010,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 184880,
       "name": "Decemberism",
       "url": "https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk"
@@ -1093,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "Father Christmas",
+        "url": "https://open.spotify.com/album/7voAxY5cusvcdJynnQzggG"
+      },
+      "artists": [
+        {
+          "name": "Lauran Hibberd",
+          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199071,
+      "name": "Father Christmas",
+      "url": "https://open.spotify.com/track/2fARp1aruu7SCi4e3XdnwP"
+    },
+    {
+      "album": {
         "name": "Punk Goes Christmas",
         "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
       },
@@ -1144,6 +1216,24 @@
       "duration_ms": 233019,
       "name": "Father Christmas",
       "url": "https://open.spotify.com/track/1tsH0OuklCVhp3DAEbDMC6"
+    },
+    {
+      "album": {
+        "name": "Merry Flippin' Christmas Vol. 1",
+        "url": "https://open.spotify.com/album/3Y8kaXAtVFjNucAIA9yLPJ"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217573,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/13NDr2rDKQqRu9NeWekDum"
     },
     {
       "album": {
@@ -1482,7 +1572,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 221040,
       "name": "Hava Nagila",
       "url": "https://open.spotify.com/track/7ybZEUwDsHGMkWGoNSgmCg"
@@ -1536,7 +1626,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-24",
+      "date_removed": null,
       "duration_ms": 183000,
       "name": "Holiday Records",
       "url": "https://open.spotify.com/track/0oHWViVcaumnleLFUxDf4Q"
@@ -1738,7 +1828,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 52250,
       "name": "It's Beginning to Look a Lot Like Shitmas",
       "url": "https://open.spotify.com/track/19eHS0T2UnD8ArOUwMKN4d"
@@ -1760,7 +1850,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-13",
+      "date_removed": null,
       "duration_ms": 161083,
       "name": "It's Christmas And I Fucking Miss You",
       "url": "https://open.spotify.com/track/2FZmLofghTBI3Gq6HhOxuz"
@@ -1890,7 +1980,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 185973,
       "name": "Lieder und Lametta",
       "url": "https://open.spotify.com/track/46KSW1QTjZ0d6MuaRqduti"
@@ -1944,7 +2034,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 206280,
       "name": "Making Christmas",
       "url": "https://open.spotify.com/track/3NgApo4U2gMHh0TKXntZRq"
@@ -1980,7 +2070,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-04",
+      "date_removed": null,
       "duration_ms": 207213,
       "name": "Making Christmas",
       "url": "https://open.spotify.com/track/2W9IyiUawRDws73eD1zsDE"
@@ -2016,7 +2106,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 124066,
       "name": "Merry Christmas (I Don't Wanna Fight Tonight) - 2002 Remaster",
       "url": "https://open.spotify.com/track/2T3tEaSThdC9J9mnvxJWoZ"
@@ -2178,7 +2268,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 139133,
       "name": "New Year's Revolution",
       "url": "https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd"
@@ -2542,10 +2632,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 114210,
       "name": "Santa Claus Is Coming to Town - Single Version",
       "url": "https://open.spotify.com/track/76FkKWaIxsOMzP15ACZLvt"
+    },
+    {
+      "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/4A0aVh4MltzbdSFVCSj0K8"
+      },
+      "artists": [
+        {
+          "name": "Alex Melton",
+          "url": "https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203529,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/6Tp2Zx60aXtyyZ2ahqQ1oO"
     },
     {
       "album": {
@@ -2632,7 +2740,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-18",
+      "date_removed": null,
       "duration_ms": 216115,
       "name": "Snow",
       "url": "https://open.spotify.com/track/4hbBgVnirgzG4TggZhkL4U"
@@ -2672,6 +2780,24 @@
       "duration_ms": 122093,
       "name": "Spirit In My House",
       "url": "https://open.spotify.com/track/4SU6JMTMcMg9e1K3Ic5kdD"
+    },
+    {
+      "album": {
+        "name": "Don't Worry About Me",
+        "url": "https://open.spotify.com/album/3hltYmpx3K2z2C2nlRLv7N"
+      },
+      "artists": [
+        {
+          "name": "Joey Ramone",
+          "url": "https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122093,
+      "name": "Spirit In My House",
+      "url": "https://open.spotify.com/track/5S87B7MXk64ZQWCcY0rNUO"
     },
     {
       "album": {
@@ -2748,6 +2874,24 @@
     {
       "album": {
         "name": "The War On Christmas Is Over (If You Buy It)",
+        "url": "https://open.spotify.com/album/2HIOIJu86CtMZuGgXiyaDW"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "The War On Christmas Is Over (If You Buy It)",
+      "url": "https://open.spotify.com/track/1Rx7GdnqSzyoJNZ8Om6xEA"
+    },
+    {
+      "album": {
+        "name": "The War On Christmas Is Over (If You Buy It)",
         "url": "https://open.spotify.com/album/1LddYHWOKPt3JrN4xfOLfx"
       },
       "artists": [
@@ -2780,7 +2924,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 234893,
       "name": "Things I Want",
       "url": "https://open.spotify.com/track/7gfa6TiFiesmwQjUbIzv8c"
@@ -3274,7 +3418,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-06",
+      "date_removed": null,
       "duration_ms": 177640,
       "name": "X'Mas Time (It Sure Doesn't Feel Like It)",
       "url": "https://open.spotify.com/track/30HWEKPozyqnJ8ARfVnoT2"

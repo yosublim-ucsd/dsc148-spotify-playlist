@@ -16551,6 +16551,24 @@
     },
     {
       "album": {
+        "name": "GODMODE",
+        "url": "https://open.spotify.com/album/2c1e4GA90vn9Arbo4b8CU7"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239147,
+      "name": "THE PURGE",
+      "url": "https://open.spotify.com/track/3ppy9aybMMI5vPydN4qRjU"
+    },
+    {
+      "album": {
         "name": "THE PURGE",
         "url": "https://open.spotify.com/album/3UMpuZ3u2g5NOgHzzZnwrn"
       },
@@ -16562,7 +16580,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 239147,
       "name": "THE PURGE",
       "url": "https://open.spotify.com/track/42eexWfJFK34GC9c46fpLx"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cAnQLHCOsG.md) - [plain]
 
 > Pa' las posadas y las fiestas, canciones navideñas con sazón mexa\. Chiquis en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,650 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,669 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cAnQLHCOsG.md) - [plain]
 | 74 | [Una Nueva Estrella](https://open.spotify.com/track/3ENLfWZIafaH7a6a5anPGV) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [De Corazon a Corazon en Esta Navidad](https://open.spotify.com/album/1PQk4pKxClYXgUKbSSGJs2) | 2:46 |
 | 75 | [Alma Navideña](https://open.spotify.com/track/1s4c3Tun9Tlnuu2YqaEKfy) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Alma Navideña](https://open.spotify.com/album/1hXx44Rb1NKuqwZKSVHZvV) | 4:03 |
 
-Snapshot ID: `MCw0OGYwNDZlMGNmMzc5MWRkY2Q2MjhiYmYwMzI2MWU1MDc3YWRjYzg4`
+Snapshot ID: `MCxmODU0YjQ4ZWFiMmViMWY5Y2VlODRkNDhiZGIyZDIxODJiNDg2ODhi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: ITHAN NY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,403 likes - 101 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,542 likes - 101 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 | 100 | [No Days Off](https://open.spotify.com/track/2TnfIvH4ywjwcJiS049sdh) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [No Days Off](https://open.spotify.com/album/1v6UyyAbeY4ZdE5wmB3yUm) | 2:04 |
 | 101 | [Ninja](https://open.spotify.com/track/1KA0rapksWOFfakg6nWxCz) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Ninja](https://open.spotify.com/album/7wzvfaRD20FC9S5yJYNlxQ) | 2:20 |
 
-Snapshot ID: `MCwzOTJlMzkzOGJkOTJkMTgxZTNhNzc1M2UwY2M3ZjlhOTZlNmZjNzBj`
+Snapshot ID: `MCxiNWY4YTA2N2MxYjcwMmI5YzQxNGIxYjEzZTg3NWViY2NlNzhkNmQy`

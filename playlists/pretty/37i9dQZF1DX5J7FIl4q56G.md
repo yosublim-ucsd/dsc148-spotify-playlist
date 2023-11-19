@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Imminence
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,602 likes - 67 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,710 likes - 67 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 7 | [UNLOVED](https://open.spotify.com/track/16Kev1zgczcoaHfHpVVrFR) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [UNLOVED](https://open.spotify.com/album/3A4btnbfBBlRzBUbpvbRyQ) | 3:16 |
 | 8 | [Limitless](https://open.spotify.com/track/2ymlRQX0M06wDpzsCxXaxj) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Limitless](https://open.spotify.com/album/4nCEePCITdLSbq32U5bEwO) | 3:28 |
 | 9 | [Golden Gloves](https://open.spotify.com/track/16hBAjGngSlOCzTZEn5Atw) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Heartless](https://open.spotify.com/album/0BX61gwMlOKkAzSxrdtwye) | 3:06 |
-| 10 | [Disposable](https://open.spotify.com/track/1EdfB99o1NL6eApR8K8fa2) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [All Fine / Enif Lla \(Deluxe Edition\)](https://open.spotify.com/album/0cNLVKj3p4bWHXXJgZptu8) | 3:23 |
+| 10 | [Disposable](https://open.spotify.com/track/1EdfB99o1NL6eApR8K8fa2) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [All Fine / eniF llA \(Deluxe Edition\)](https://open.spotify.com/album/0cNLVKj3p4bWHXXJgZptu8) | 3:23 |
 | 11 | [Bittersweet \- Live In Helsinki St\. John's Church](https://open.spotify.com/track/0GSBDca01R6z6fUIBDajgn) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Live In Helsinki St\. John's Church](https://open.spotify.com/album/3mlEZOZcTZ6NY0jfFg1EaQ) | 3:55 |
 | 12 | [PILGRIMAGE TO OBLIVION](https://open.spotify.com/track/5OK5Q6B4jgyXKIAItybyBx) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [PILGRIMAGE TO OBLIVION](https://open.spotify.com/album/7zfTJVYMmEM5CotxG7SPuf) | 4:20 |
 | 13 | [Herald of Darkness \- Radio Edit](https://open.spotify.com/track/743RXOvvFy1M6Tg8Nntxmj) | [Old Gods of Asgard](https://open.spotify.com/artist/4BMtxSIHPpG1WM2TbvNjiR), [Alan Wake](https://open.spotify.com/artist/56vvymO6BugGZkiuTvdWwQ), [Mr\. Door](https://open.spotify.com/artist/38D51Q97QEH4ZGSw4a0jl0) | [Herald of Darkness](https://open.spotify.com/album/5807lbARAjtD6Id7UrUqC7) | 3:39 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 66 | [The Endless Road Home](https://open.spotify.com/track/2JCR3gfgZYwMOi8uxDtjri) | [Lord Dying](https://open.spotify.com/artist/4t2eZIRH71WTOXpENMOM2Z) | [The Endless Road Home](https://open.spotify.com/album/6Ga1f3RTQ1zuVcepTnMqVv) | 4:34 |
 | 67 | [Through The Storm](https://open.spotify.com/track/2dLHYjWVsGyewM5TjG3Gfd) | [Hiraes](https://open.spotify.com/artist/1Djkm24RzECe7M6KuxKZzt) | [Through The Storm](https://open.spotify.com/album/57scurk5eFlyrR6sYTydTV) | 4:04 |
 
-Snapshot ID: `MCw0Y2MxMjdlYmUxNmI1MTZlNzFmZmIzY2EwNGMwZDE1ZmYwN2ZmYjJi`
+Snapshot ID: `MCxlMDRmNTJhMTM1NDMzOWFlODVmMWU4NzMzNWEzNTU2MGFhYjhhYTcz`

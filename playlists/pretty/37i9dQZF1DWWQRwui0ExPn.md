@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,148,174 likes - 750 songs - 1 day 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,149,075 likes - 750 songs - 1 day 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -759,4 +759,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 749 | [You, My Love](https://open.spotify.com/track/6bO9af6eKCyJtDoAgx0uQB) | [Bipeula](https://open.spotify.com/artist/5Kcv07Jj6RthywQndqvfh2) | [You, My Love](https://open.spotify.com/album/4t3A2y9MwmPgFfC4eZqYqH) | 2:15 |
 | 750 | [Green](https://open.spotify.com/track/4yp5yBCcbZDJcU3omA2G1w) | [Lueco](https://open.spotify.com/artist/64Bk1rVxI2ZZYAuQZ7Ufo8) | [Green](https://open.spotify.com/album/6hdbd6cq7PRKTJ1roJfe3j) | 2:02 |
 
-Snapshot ID: `MCw0MjkzOWE5ZTI0NTVkZDA1ZjYzNzA0YjdiNGRmZDMzYTQxMDNjNjgw`
+Snapshot ID: `MCxjZjg1MDZmOTIwNWYzMGRlN2ZiN2Q0MzA3MjU3ZGVlNzlmMzdhZTE0`

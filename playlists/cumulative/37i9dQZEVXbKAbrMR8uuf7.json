@@ -1966,7 +1966,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 240773,
       "name": "BABY NUEVA",
       "url": "https://open.spotify.com/track/3NhstUmrlhaN1M6hP8zMbb"
@@ -3168,6 +3168,32 @@
       "duration_ms": 194515,
       "name": "CAMPE\u00d3N",
       "url": "https://open.spotify.com/track/7IatvjEcXEeeXnHC2gMZ2j"
+    },
+    {
+      "album": {
+        "name": "Can't You See",
+        "url": "https://open.spotify.com/album/4Il5MRvAUFgWsz247UStqj"
+      },
+      "artists": [
+        {
+          "name": "Musata",
+          "url": "https://open.spotify.com/artist/3hzvLkXg07qMzHEEPHwzSp"
+        },
+        {
+          "name": "Rasoul Bahari",
+          "url": "https://open.spotify.com/artist/4fJ648yFf9KJsNtX7LoCOu"
+        },
+        {
+          "name": "DJ Musata",
+          "url": "https://open.spotify.com/artist/0UGw4ysxyLPR7jYUw3HbiY"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185002,
+      "name": "Can't You See",
+      "url": "https://open.spotify.com/track/1ixxJ2bVeIpDs2hiQTCVSf"
     },
     {
       "album": {
@@ -4888,6 +4914,32 @@
       "duration_ms": 226165,
       "name": "Del Kilo",
       "url": "https://open.spotify.com/track/7qgovmYLU3BUltCBdYUPKg"
+    },
+    {
+      "album": {
+        "name": "DELETE",
+        "url": "https://open.spotify.com/album/67hqkJUg7E5tz4UWO7WGYV"
+      },
+      "artists": [
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        },
+        {
+          "name": "Nelly Nelz",
+          "url": "https://open.spotify.com/artist/7gPZtpMaLi5zBkroBdl6Su"
+        },
+        {
+          "name": "Keko Musik",
+          "url": "https://open.spotify.com/artist/4Fw6S1XIDNuw6dutII4SsZ"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212052,
+      "name": "DELETE",
+      "url": "https://open.spotify.com/track/4vUjkdHefbN7Qh1cMcDqZU"
     },
     {
       "album": {
@@ -22394,7 +22446,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/2yzshFeBIwH8tWIqHEFLeD"

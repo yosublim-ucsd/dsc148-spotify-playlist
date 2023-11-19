@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Katie Pruitt
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,636 likes - 150 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,686 likes - 150 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 84 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 |
 | 85 | [The Weakest Link](https://open.spotify.com/track/1Cnkd72VHGEC1asYorqDVU) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Sacramented](https://open.spotify.com/album/4dHREhqy1P1J7FJZIe51Ap) | 3:18 |
 | 86 | [Shadows](https://open.spotify.com/track/239ypmlUkPrCXH43bnfiRJ) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N), [Jackson Wooten](https://open.spotify.com/artist/0y7d3G52a49UExL70y2lkz) | [Shadows](https://open.spotify.com/album/0CBWzftTn6GyNcRf5rU1c5) | 3:49 |
-| 87 | [Hollywood and Fear \- Bonus Track](https://open.spotify.com/track/7v3hNndUoHBFsEfBGMxybA) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Hollywood and Fear \(Bonus Track\)](https://open.spotify.com/album/36gqLUTwfOltzofiPMcM3q) | 3:29 |
+| 87 | [Hollywood and Fear \- Bonus Track](https://open.spotify.com/track/3VeZKqmfYKIpj69KFIfWeH) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Big Picture \(Expanded Edition\)](https://open.spotify.com/album/6327l4EuoWm8xFs8AwuCbv) | 3:29 |
 | 88 | [All The Way Back](https://open.spotify.com/track/74Om3rXwl9V1JMzjf1nToZ) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Come June](https://open.spotify.com/album/6ymIp6VYMvGrIjtzlj0gzi) | 3:01 |
 | 89 | [Someone Else](https://open.spotify.com/track/0vbqjI3TKufY0I33RtdXFD) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:32 |
 | 90 | [Highway 72](https://open.spotify.com/track/3zAwspoamICRiHrPVIaUQ6) | [Jolie Holland](https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/63RLm9WcwiedTBaP8WVeCl) | 4:52 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Body](https://open.spotify.com/track/57FnTgzDMx3ZH4qudrJpLy) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Wisecrack](https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT) | 5:18 |
 | 150 | [The Well](https://open.spotify.com/track/0wDL2SlmwZtb1WmvHd53xw) | [Briscoe](https://open.spotify.com/artist/28NTlcAifzUgF4SIZgxncj) | [The Well](https://open.spotify.com/album/42lCwdDbMMIXotsoHQnhh3) | 3:37 |
 
-Snapshot ID: `MCxiNDZiMTgxMThmOWNjMDhmZDlkNDY2OWRjMDJhNWUzZjllNzIwMTI1`
+Snapshot ID: `MCxjZjEwNjc2MjJkZTFhYTBhYTJhNTJiNGJjODQ3OTBmYmQ2YzFjYWQ3`

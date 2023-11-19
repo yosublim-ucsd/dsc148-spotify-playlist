@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,971 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,053 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 99 | [310](https://open.spotify.com/track/2jdNVXrmEvEa16mLGsqCjB) | [Koiwa](https://open.spotify.com/artist/7cVHUQpOTXqA7tbHCkIQqS) | [310](https://open.spotify.com/album/6wHh9OpcjKM3mOObQkCGhG) | 5:32 |
 | 100 | [Addendum 3](https://open.spotify.com/track/7A5GvMlsEQkiRcL4zx8W3K) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr), [Wayne Robert Thomas](https://open.spotify.com/artist/7yueLMbHp3xEU37tq8JId1) | [To Those Who Dwelt in a Land of Deep Darkness](https://open.spotify.com/album/5gCoXk0VCqw3fLcK6aseuV) | 8:00 |
 
-Snapshot ID: `MCw0MzkzMDRiNDU5MDFmMjM3YmU4OWQ1MTJjMWNlMGJjYTUzNjcwMjIy`
+Snapshot ID: `MCxjODVhNTU3NjA5YTcxNDk5MTdhN2UyNTFlZWMwZmJlMGZjY2I4ZDA4`

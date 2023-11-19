@@ -4,7 +4,7 @@
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: PACKS
 
-1,451 songs - 3 day 2 hr 20 min
+1,452 songs - 3 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,8 @@
 | [Devastatingly Mediocre](https://open.spotify.com/track/2WkOcuI6MDChQqqofsuXsz) | [Deanna Petcoff](https://open.spotify.com/artist/40wJiyTgK3egckAlDOp1ea) | [Devastatingly Mediocre](https://open.spotify.com/album/7u6UOPEucyKu1J6mTofC7F) | 3:02 | 2022-03-04 | 2022-04-02 |
 | [Diamant](https://open.spotify.com/track/3b4wIxzd5f8C9k8azA9hPx) | [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Diamant](https://open.spotify.com/album/72SQDw88bPAybqZ1wICJ9e) | 3:31 | 2022-06-03 | 2022-07-02 |
 | [Diamante](https://open.spotify.com/track/5fMiZRBDyhXgVjNpZjHF7H) | [Duendy](https://open.spotify.com/artist/6EcbitbSqckbOT8K5Bjhrk), [Cuervo Loomi](https://open.spotify.com/artist/5I3JpPqcXZjUiLOmDFKQfE), [Preed One](https://open.spotify.com/artist/4WB5wizq4t0Ax3h7VNaH56) | [Diamante](https://open.spotify.com/album/1nZ7HNBSfnj2LxDBk1spAA) | 2:56 | 2022-04-01 | 2022-05-07 |
-| [Diamond](https://open.spotify.com/track/172M4kIkFD7k0B3Q8DH35U) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Diamond](https://open.spotify.com/album/3o28lmmD2GQZDR2hPECUD5) | 3:19 | 2023-11-10 |  |
+| [Diamond](https://open.spotify.com/track/172M4kIkFD7k0B3Q8DH35U) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Diamond](https://open.spotify.com/album/3o28lmmD2GQZDR2hPECUD5) | 3:19 | 2023-11-10 | 2023-11-19 |
+| [Diamond](https://open.spotify.com/track/5IZNEUIwLYzxZWOKwkv688) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Anna](https://open.spotify.com/album/5YQToGEsFBM6QxkX75FMH7) | 3:19 | 2023-11-10 |  |
 | [Diary Entry](https://open.spotify.com/track/1nrYyJjjY74BS8w40vVQmF) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Diary Entry](https://open.spotify.com/album/5spyMJk3tjLaMb0IamqZLs) | 3:35 | 2022-05-06 | 2022-06-04 |
 | [Dickhead](https://open.spotify.com/track/763KqAOG6WV6wMqInIHZQe) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Dickhead](https://open.spotify.com/album/3Fwxk2TTtdmdDZ1G5e3nY2) | 2:30 | 2023-09-01 | 2023-10-06 |
 | [Didn't Go Through](https://open.spotify.com/track/1Go0LpAgrA4aZtQqNqmk6r) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Didn't Go Through](https://open.spotify.com/album/6IAa69javTG45LyjFwsNNn) | 2:18 | 2022-07-01 | 2022-08-06 |

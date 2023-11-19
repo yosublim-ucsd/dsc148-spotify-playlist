@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Derxan
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,763 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,815 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Sobre mim](https://open.spotify.com/track/4qaOtwB4LjQv2U3UAJN5a1) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [Sobre mim](https://open.spotify.com/album/6JTFaHvi9gXwJchaSRP9BK) | 3:28 |
 | 75 | [Carta pra Lucas](https://open.spotify.com/track/0FiYM9wfGccAJn8z4S5hxB) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Troféu](https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp) | 3:01 |
 
-Snapshot ID: `MCxlMTE4ZDAxN2UwYTE3NjBhOTlmNzg5ZTYwZTg3OTk0Zjk5MGQzNmMz`
+Snapshot ID: `MCxjNjRhZDYzM2EzNjc2NmE5OGI5ZmUwYjdhY2I5ZTAzMTRhMGRjMjNl`

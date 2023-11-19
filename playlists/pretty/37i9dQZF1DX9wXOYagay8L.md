@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems\. Cover: <a href="https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo?si=sNoPVTS5RIakT8Bga4p\_Fw">Amanda Black</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,872 likes - 54 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,061 likes - 54 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 53 | [Feelings](https://open.spotify.com/track/3LNQ3RLbxPOjfGVTrlXQl5) | [Lizwi Wokuqala](https://open.spotify.com/artist/6IYozrt74PPhQ409pE583w) | [Feelings](https://open.spotify.com/album/2kN74xWPubjhrFnDtL2pHJ) | 2:54 |
 | 54 | [Kukude Emathandweni](https://open.spotify.com/track/5gwyqqUjqTSOnXklI7582D) | [Linda Gcwensa](https://open.spotify.com/artist/08vFZzvz5L5aP8Bk4PHeWv) | [Kukude Emathandweni](https://open.spotify.com/album/18UdSJLB7xeeigWWsF0u4s) | 3:52 |
 
-Snapshot ID: `MCwxYmUzMjY3OWM3YzhmYTYxMWI4NDg5YjZjNDk4MzQzMDIxYzAyMWUx`
+Snapshot ID: `MCxjM2RhNGVkMjUxMWI2NmM2MTAxM2JhM2NjODdmMmM0NWFlNTA5MjQ2`

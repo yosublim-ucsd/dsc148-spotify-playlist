@@ -4,7 +4,7 @@
 
 > Listen to the women of Au & NZ at full volume! Cover: The Veronicas
 
-527 songs - 1 day 4 hr 20 min
+528 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [dramatic](https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [dramatic](https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9) | 2:30 | 2022-02-03 | 2022-04-06 |
 | [Dreamhigh](https://open.spotify.com/track/3EXEIb1Oemh1ETsMP7157G) | [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [Dreamhigh](https://open.spotify.com/album/3gODbR7sqAoy6PbslACQ5x) | 3:25 | 2022-05-27 | 2022-09-06 |
 | [Dreaming](https://open.spotify.com/track/1bdcogn7ZNXhXl86hOymsL) | [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b) | [I'm Feeling Hopeful](https://open.spotify.com/album/2CNatNsNZUkdSeJ7BxLNOI) | 3:18 | 2022-02-03 | 2022-05-28 |
-| [Drippin' In Gold](https://open.spotify.com/track/2YggNVBxOpzLvwAdlF9934) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Drippin' In Gold](https://open.spotify.com/album/65MawbayrX3kZV1vhFcZkj) | 2:55 | 2023-07-24 |  |
+| [Drippin' In Gold](https://open.spotify.com/track/1qjXbbbg4rWMSkmWyd5jJ3) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Drippin' In Gold](https://open.spotify.com/album/5vShPFSrmP15OQbs3BLi3O) | 2:55 | 2023-11-17 |  |
+| [Drippin' In Gold](https://open.spotify.com/track/2YggNVBxOpzLvwAdlF9934) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Drippin' In Gold](https://open.spotify.com/album/65MawbayrX3kZV1vhFcZkj) | 2:55 | 2023-07-24 | 2023-11-19 |
 | [Drive](https://open.spotify.com/track/7yP7bczAiDvYF4L6u863YS) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Drive](https://open.spotify.com/album/6cjWECeDhByu0lH0EdIKpQ) | 2:50 | 2022-10-02 | 2022-12-01 |
 | [Dude](https://open.spotify.com/track/1BGu0LjKQfC63QBaRMYc66) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [Dude](https://open.spotify.com/album/2NfRYje8N8j6nwTbAVxp9B) | 2:40 | 2022-02-03 | 2022-05-28 |
 | [Easy To Forgive](https://open.spotify.com/track/0b493x6UWJyxZjIOyG4NQ6) | [Clea](https://open.spotify.com/artist/5BMsuUeplpt928CfxMxHAl) | [Easy To Forgive](https://open.spotify.com/album/701Big6irkwuFGP4yPCOqY) | 2:47 | 2023-01-31 | 2023-05-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,856 likes - 160 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,988 likes - 160 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 | 159 | [432 Hz Delta Earth](https://open.spotify.com/track/0yClwB7zCLWhcshv29Oep6) | [Jupiter Sorrow](https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw) | [432 Hz Delta Earth](https://open.spotify.com/album/5MDAtNZmWg0GfB23Rvyaas) | 2:22 |
 | 160 | [One Giant Leap](https://open.spotify.com/track/782QwZQiP9OIZcZhEF0lQ9) | [Cosmic Garden Gate](https://open.spotify.com/artist/0EBhS1lnPoM1fPhf3YFWS0) | [One Giant Leap](https://open.spotify.com/album/6fleY1qghIw98enZVZw7u9) | 2:37 |
 
-Snapshot ID: `MCw4NmZkYzBhYjk5OWFkNGM2OTIwMDI0NTQ2N2I3ZjJjYjgxOTUyYjc1`
+Snapshot ID: `MCxhYTY5ZDI3NDJlN2IzNTk4ZmE4ZmNiYjc5ZmE2YWRjMTYxNWIxZDlj`

@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Dolly Parton and Lainey Wilson
 
-347 songs - 21 hr 48 min
+348 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,8 +325,9 @@
 | [Wasting All These Tears](https://open.spotify.com/track/4flWHSLV6ut0sPu0nQ1lCE) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Wasting All These Tears](https://open.spotify.com/album/3ZGKM41lZMynyRwVgGPmez) | 3:15 | 2023-02-17 |  |
 | [Wasting All These Tears](https://open.spotify.com/track/53F09zoZSMdnUex1VjnMPj) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Wasting All These Tears](https://open.spotify.com/album/5Z2ubQ6PRRFJ3smuU2YTLe) | 3:15 | 2022-11-18 | 2023-02-19 |
 | [We Just Disagree](https://open.spotify.com/track/3xsYZOaajjyJouOEuKIeo7) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [Certified Hits](https://open.spotify.com/album/61zrzuhdogtVgtLZPATw3L) | 3:26 | 2021-12-10 | 2022-07-29 |
-| [What's Up \(What's Going On\)](https://open.spotify.com/track/5FonXR4yh9PWNbQCHQn5I0) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 3:51 | 2023-01-03 |  |
+| [What's Up \(What's Going On\)](https://open.spotify.com/track/5FonXR4yh9PWNbQCHQn5I0) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 3:51 | 2023-01-03 | 2023-11-19 |
 | [What's Your Country Song](https://open.spotify.com/track/5S6Fijz2xGd1YSykH6zHWg) | [Charlotte Ave](https://open.spotify.com/artist/2rcT3E2t3e3HYJUOMsG3UX) | [What's Your Country Song](https://open.spotify.com/album/5vpq2EODIUw9aCqlty61kF) | 2:40 | 2022-01-07 | 2022-07-17 |
+| [What’s Up \(What’s Going On\)](https://open.spotify.com/track/7yVVTAPCav3KYMUksCTN3K) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:51 | 2023-11-17 |  |
 | [What’s Up?](https://open.spotify.com/track/7meXWIzJ01VGReBK26gtvw) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Perry](https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo) | [What's Up?](https://open.spotify.com/album/74p9zXtOsvboiAi9srfb6l) | 4:38 | 2023-09-22 |  |
 | [When I Was Your Man](https://open.spotify.com/track/2Fv1cWu2Hg2Z4UXsu3fbrx) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Big Machine Undercover](https://open.spotify.com/album/3rWSVlSY22f5XwgMUK2bwf) | 3:46 | 2021-12-10 |  |
 | [When You Say Nothing At All](https://open.spotify.com/track/0zu7EjQ4ij0uVpqp9eGR1J) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Now That I've Found You: A Collection](https://open.spotify.com/album/1yt29znD6KxC2ayfnT1Cqk) | 4:20 | 2021-12-10 | 2022-07-29 |

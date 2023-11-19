@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Pedro Guerra y Bunbury.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,745 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,832 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 99 | [Quiéreme Bien \(feat\. Leiva\)](https://open.spotify.com/track/52kEfpan3auLao9pbnOJ6m) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Quiéreme Bien \(feat\. Leiva\)](https://open.spotify.com/album/1aUj6H7XCzFRRznXIsArqm) | 4:41 |
 | 100 | [Y Nos Dieron Las Diez \(feat\. Zahara\) \- Tributo a Sabina](https://open.spotify.com/track/2p0ol5BlwQtbiioBGytxy4) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Fito Cabrales](https://open.spotify.com/artist/6fmDy3xzOGfOVjFwa0BUkT), [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV), [Funambulista](https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U), [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34), [Rubén Pozo](https://open.spotify.com/artist/65mqRAn8AEZjc4M2lZvtSz), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Lichis](https://open.spotify.com/artist/1Z6c0iLhCdsGm8mmm1OwLh), [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe), [Alejo Stivel](https://open.spotify.com/artist/7mGfdRd3PB4mRMPymFQM7n), [Mara Barros](https://open.spotify.com/artist/38YYADiV9iEYiZu22QuIJs), [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Tributo a Sabina\. Ni Tan Joven Ni Tan Viejo](https://open.spotify.com/album/0aiLwoe2jZ7TWjbspnBn8K) | 5:09 |
 
-Snapshot ID: `MCwwNWUzYzQ0MDIwODY3MjNlMTI1OTg5YWQ0NWY4MDE0ZGY4OGIwYmZl`
+Snapshot ID: `MCw0ZWQ1ZGY2NGI0NTQ5MjAyMWQyNjRjOGVjYTAyMjQwOWUwNzg2OGE1`

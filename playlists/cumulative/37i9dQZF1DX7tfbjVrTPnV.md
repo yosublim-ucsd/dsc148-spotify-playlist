@@ -4,7 +4,7 @@
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Lori McKenna
 
-260 songs - 16 hr 38 min
+261 songs - 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,8 @@
 | [Walkin' Back to Georgia](https://open.spotify.com/track/4ylEe60SjbCrTvxt9e9mfh) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [The Definitive Croce](https://open.spotify.com/album/2ehjSxVsjbLeCWIkD9dTPG) | 2:50 | 2022-10-14 | 2022-11-13 |
 | [Walkin' Back to Georgia](https://open.spotify.com/track/51ueZKM83MTRv9rgiDfI6Y) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy) | 2:50 | 2022-04-22 | 2023-11-04 |
 | [Walking Back To Georgia](https://open.spotify.com/track/4JVmESg1JVr2WqecNqFnch) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/5STjKsvCHVlSMcUXo8he3T) | 2:51 | 2021-11-11 | 2022-07-29 |
-| [Walkin’ Back to Georgia](https://open.spotify.com/track/54CS1nBt6zyxEiUWORTXmz) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [The Original Albums…Plus](https://open.spotify.com/album/0MJESR6xqCtsmM0CB4Pjlu) | 2:51 | 2023-08-11 |  |
+| [Walkin’ Back to Georgia](https://open.spotify.com/track/1y4fbtHSJLqpaQXduQw88e) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9) | 2:51 | 2023-08-11 |  |
+| [Walkin’ Back to Georgia](https://open.spotify.com/track/54CS1nBt6zyxEiUWORTXmz) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [The Original Albums…Plus](https://open.spotify.com/album/0MJESR6xqCtsmM0CB4Pjlu) | 2:51 | 2023-08-11 | 2023-11-19 |
 | [Way Out West](https://open.spotify.com/track/5Nr59BVUdfkVi591cj20qi) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO) | [Way Out West](https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB) | 5:41 | 2022-04-22 |  |
 | [Way Out West](https://open.spotify.com/track/6mbysbfuqANksuseTIwWiy) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO) | [Way Out West](https://open.spotify.com/album/1nLPd3NHoAnvtehvUn5Vp7) | 5:41 | 2021-11-11 | 2022-07-29 |
 | [What It Takes](https://open.spotify.com/track/5rOk4il7V3p5wEL5MmYwWc) | [Fred Eaglesmith](https://open.spotify.com/artist/0yv1W9HeASlBRyWrzRMhWh) | [Tambourine](https://open.spotify.com/album/7k8w4letUaaXpyV3IqbgmZ) | 3:57 | 2021-11-11 | 2022-07-26 |

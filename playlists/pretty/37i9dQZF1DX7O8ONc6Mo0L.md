@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: AMÉM
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,100 likes - 80 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,249 likes - 80 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 79 | [Além do Rio](https://open.spotify.com/track/5sqGOZkwV4UZkZGzJ9srrK) | [Laura Siderac](https://open.spotify.com/artist/2IBBRq3EVSXhA92tT5LAUl), [Jader Santos](https://open.spotify.com/artist/0LgOPOdCNpAxAkFWiliKpx), [Novo Tempo](https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e) | [Além do Rio](https://open.spotify.com/album/0ClOudFFEe8XqjDnFJxQyS) | 4:11 |
 | 80 | [Alguém Como Eu](https://open.spotify.com/track/6kbcLo1Sgi5OjzEvtdgxyy) | [Guilherme Leite](https://open.spotify.com/artist/4OPDva5P2NCD4ssE52yMXb), [Nalú](https://open.spotify.com/artist/0YaxG7PCq40nc8tKcMkrgx) | [Alguém Como Eu](https://open.spotify.com/album/6gO3nrarrqWVwBYDnjTjrr) | 4:13 |
 
-Snapshot ID: `MCw2OTA5YTU4OTdkZDQwNDQxMGE2YmZlN2M0NGQ1NDY0NmIzMDJhNTA3`
+Snapshot ID: `MCxkZDgwNGRmNTgwZDFkYTk4NmU4NTU5MWY2MDI3YWFiY2QwZGFkNDZk`

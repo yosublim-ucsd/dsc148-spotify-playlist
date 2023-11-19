@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: Dominique Fils\-Aimé
 
-413 songs - 1 day 5 hr 59 min
+414 songs - 1 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Buzzing Bee](https://open.spotify.com/track/6avafXggIzFap9c21A63iZ) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Buzzing Bee](https://open.spotify.com/album/6ihVmKIaIiiJVKdhRDs6dV) | 3:22 | 2022-11-17 | 2023-03-25 |
 | [California and Me](https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:36 | 2023-09-21 | 2023-10-20 |
 | [California and Me](https://open.spotify.com/track/768tjNAwyH3nIFee5BIdcl) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [California and Me](https://open.spotify.com/album/2tt47cpLkXdRqYhOcp2C9x) | 3:36 | 2023-08-24 | 2023-09-23 |
-| [Call Off The Search \- Demo](https://open.spotify.com/track/7KdUI2n3d32uGGso0rD7wc) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Call Off The Search](https://open.spotify.com/album/2c6GalSbICqbbg7CW9U5KX) | 2:16 | 2023-10-05 |  |
+| [Call Off The Search \(Demo\)](https://open.spotify.com/track/27V9ex2ehkw7p7s24pc6Xd) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Call Off the Search \(Deluxe Edition; 2023 Remaster\)](https://open.spotify.com/album/5Th8nFstJVL0RnMJ4HOITd) | 2:16 | 2023-11-16 |  |
+| [Call Off The Search \- Demo](https://open.spotify.com/track/7KdUI2n3d32uGGso0rD7wc) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Call Off The Search](https://open.spotify.com/album/2c6GalSbICqbbg7CW9U5KX) | 2:16 | 2023-10-05 | 2023-11-19 |
 | [Can You Believe](https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Can You Believe](https://open.spotify.com/album/3fPslgpfNqoSGJftQapyZG) | 3:55 | 2023-06-15 | 2023-09-01 |
 | [Can't Get Out of This Mood](https://open.spotify.com/track/7ekSJz0V4gXbrPndFAhLye) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 3:42 | 2022-10-20 | 2023-01-06 |
 | [Capacity to Love](https://open.spotify.com/track/1AQUqzqHMJIeGeupMb9Y1O) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Capacity to Love](https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK) | 4:25 | 2022-12-01 | 2023-03-31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-[Spotify](https://open.spotify.com/user/spotify) - 621,960 likes - 167 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,010 likes - 167 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 | 166 | [Sleepless](https://open.spotify.com/track/68wmnF8Q5rC6EMnBJ9Qp5a) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ), [ALEV](https://open.spotify.com/artist/6aJbn3lXAQsFM3tl742XaD), [onebit.](https://open.spotify.com/artist/0rJ1sIMo2XYGEgzvSbY5DE) | [Sleepless](https://open.spotify.com/album/4wBlr3iqVkGBoNaKU7l4qA) | 3:05 |
 | 167 | [You're Not Mine](https://open.spotify.com/track/3oLZENFs5WLPgM653AZ5H9) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [TEN](https://open.spotify.com/album/0xw6c2oynMTUnYYmEzPOsp) | 2:55 |
 
-Snapshot ID: `MCwxMmZhNjllMGI5NDZhM2UwNzVhNjg0M2Q4ZDJkZjNkODEwYzA2YmE3`
+Snapshot ID: `MCxiZjQyZjE0YTUxMTJiN2FlMmQ1NWE3ZWQzMjNjY2ZmODc2MThkOWM3`

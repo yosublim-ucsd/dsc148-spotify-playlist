@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: mercury <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,318 likes - 103 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,348 likes - 103 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 102 | [Evidence](https://open.spotify.com/track/1s0kfwiNKKVv4EkyJ2aDzw) | [Kieran Ivy](https://open.spotify.com/artist/0wzHzFNLOLex8psv09KqNK) | [Evidence](https://open.spotify.com/album/2PB7QazQOF1FAwZEdRjNqR) | 1:54 |
 | 103 | [Sad Dream](https://open.spotify.com/track/6k8jlEH1WssLwzXHfZGq3j) | [EchoWave](https://open.spotify.com/artist/6cRSP0k82PWTiEmLPqwrTI) | [Sad Dream](https://open.spotify.com/album/2HIWjaGWNOazjOiF7cpUrr) | 3:40 |
 
-Snapshot ID: `MCwxMjYxZTU5NjJhYzcyZTc1N2YyYzMxYzMyNzYwNGNkOGUyNTdlOWQ1`
+Snapshot ID: `MCw5YWNhZTljYTJhYWYwMmFkMTQ4ZTgwOTllYjVkZTZkZDFkNzJmNDg3`

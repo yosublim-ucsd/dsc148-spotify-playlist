@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: hemlocke springs
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,697,335 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,697,291 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 99 | [Let's Make a Mistake Tonight](https://open.spotify.com/track/00wi8vEbJgzq62wfz1UMkX) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Pollen](https://open.spotify.com/album/4Fk0oNk3vdmFjuTlpmKIQU) | 4:14 |
 | 100 | [Drain Me!](https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Drain Me!](https://open.spotify.com/album/7z8DgBZJe1rvHMA5H2EUbW) | 2:01 |
 
-Snapshot ID: `MCxjZTI0MDMwYmRjZWNhY2ZjZDI2YTk1ZjVkMDkzYmJmMzRjMWE5MTM4`
+Snapshot ID: `MCw1NmQ4OGVkMWU4NzMxZTIzZDhhOTAxOTJmM2JhM2VmYTllMjIyOWRj`

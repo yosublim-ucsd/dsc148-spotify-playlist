@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:29wlT5isBRIOp8YZYVAZ0A">Joshua Luke Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,264 likes - 150 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,346 likes - 150 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 30 | [Radiant Reason](https://open.spotify.com/track/7fkDrV2fvORVEiUkmWEi6R) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Kings Kaleidoscope](https://open.spotify.com/album/7em1z6RFOEdURjAEuJE352) | 4:01 |
 | 31 | [Camouflage](https://open.spotify.com/track/0NYCAILVVyZ5KR8Aa24xup) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Camouflage](https://open.spotify.com/album/3rndBTKrFcvOJ5cy3BakoS) | 2:46 |
 | 32 | [Empty Room](https://open.spotify.com/track/7s7tSNcxZdazOLMICialtd) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu) | 3:11 |
-| 33 | [Every Step](https://open.spotify.com/track/6lvJQigKOiGa8uAC4Ek6qd) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Every Step](https://open.spotify.com/album/6dOZLDXel55K6Td1cbs1PG) | 2:46 |
+| 33 | [Every Step](https://open.spotify.com/track/6lvJQigKOiGa8uAC4Ek6qd) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [Moflo](https://open.spotify.com/artist/3l4DNYCciNLDKnkKO2u8wP) | [Every Step](https://open.spotify.com/album/6dOZLDXel55K6Td1cbs1PG) | 2:46 |
 | 34 | [Talk & Do](https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Talk & Do](https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9) | 2:45 |
 | 35 | [Give Me You](https://open.spotify.com/track/77IonObfdmAlX3XZpZ4QT8) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o), [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Give Me You](https://open.spotify.com/album/7h5Mx3kdhRqbIqHJdYQzGb) | 4:41 |
 | 36 | [Take Over](https://open.spotify.com/track/1DVctAfDlfLvpLGDpCjUrg) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Take Over](https://open.spotify.com/album/3QAkjdF8B6oFoPJT0izjGT) | 2:25 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 149 | [Thousands of Years](https://open.spotify.com/track/3AhHpERIEALOxoKNCcfLt0) | [Daphne Richardson](https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa) | [Thousands of Years](https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS) | 3:01 |
 | 150 | [Taste And See](https://open.spotify.com/track/5pmJ1t2yQhpPI0QCUsokW5) | [Cether](https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7), [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Taste And See](https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg) | 4:21 |
 
-Snapshot ID: `MCw5YjAwZmU0YjI4ZWUxMjBmZjViMmEwZWE3Yzk2NmM3ZTAyNjljODVi`
+Snapshot ID: `MCwzN2VlODI0YTQwMDhjNDkyNTRkYjllYWQ4ZDI3ZmFmODBhOWU0ZGUx`

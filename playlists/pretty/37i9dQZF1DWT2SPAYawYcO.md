@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,801 likes - 97 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,864 likes - 97 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 96 | [Built To Last](https://open.spotify.com/track/1Q0v6zNWR5IZsOF3ccI3gx) | [The Delta Riggs](https://open.spotify.com/artist/1wWcqWYBaZeSYC0aAfh3qy), [Chris Shiflett](https://open.spotify.com/artist/5tv5SsSRqR7uLtpKZgcRrg) | [The Real Electric](https://open.spotify.com/album/5Jq5cAphAwD4X743LFtFqw) | 2:41 |
 | 97 | [ALL I KNOW](https://open.spotify.com/track/4ukLC1RdwcuWly2oeC4em1) | [EAST AV3](https://open.spotify.com/artist/1orXvSX01zlrRfj1PlOd1e) | [DAYTRIP TO THE NIGHTTRAP](https://open.spotify.com/album/0GgJUtDM290dGUVmHJDc8t) | 3:29 |
 
-Snapshot ID: `MCw4ZTZjMDc4MmJlOGU3MmQ2YWM0ZDQ5Yjc5YWFkOWZmMzEyZWVhMjQw`
+Snapshot ID: `MCw2MDZhZTM4YWEyNzYwN2NmMjg1OTcwMDNmYWZjZTRjNTVmYTk4OWQ5`

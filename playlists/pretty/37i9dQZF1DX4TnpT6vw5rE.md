@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,772 likes - 120 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,799 likes - 120 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 119 | [Komal](https://open.spotify.com/track/1jMYGXV4IDZcB3M4Bi3W16) | [Ka Wadhwa](https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv) | [Komal](https://open.spotify.com/album/6XfBKfj6M49k4j5fRh1uME) | 3:03 |
 | 120 | [Westerfall](https://open.spotify.com/track/2pbp5D1W6KHMTHjVCopP1t) | [Auricz](https://open.spotify.com/artist/1PL9QegP0mArHAjJeJDKWN) | [Westerfall](https://open.spotify.com/album/47VRzxnUBkgeF0wVc5wTLy) | 3:19 |
 
-Snapshot ID: `MCxiYTZmODJhNzViNDdjOWZiYzE0YjRlZThhYTM0NzQyNTExNjRjY2Nm`
+Snapshot ID: `MCw2ZDNiNGVkNGUzY2NhNDQ0MTkzNDBjMmU4N2M5MmQ0MGY3MGY4MTky`

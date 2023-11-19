@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Drake, Tate McRae, 2 Chainz & Lil Wayne, Ari Lennox, Lil Durk, Wyatt Flores and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,176,195 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,176,749 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 29 | [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 |
 | 30 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 |
 | 31 | [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 |
-| 32 | [Desire \(with VITA\)](https://open.spotify.com/track/6aCFpO6fjm5FTEsvqJtALr) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Vita](https://open.spotify.com/artist/6pk6yWYNSFNHkngDZPvjEL) | [Desire](https://open.spotify.com/album/5rrC3LhLmzUkQQC5mqO5AY) | 2:58 |
+| 32 | [Desire \(with VITA\)](https://open.spotify.com/track/6aCFpO6fjm5FTEsvqJtALr) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB) | [Desire](https://open.spotify.com/album/5rrC3LhLmzUkQQC5mqO5AY) | 2:58 |
 | 33 | [Enamórate](https://open.spotify.com/track/332fAqelC3Uik91QPxPcB8) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Enamórate](https://open.spotify.com/album/17FLF5NkLfUNkEYjQkaO32) | 2:27 |
 | 34 | [Still That Way \(feat\. Bongo ByTheWay\)](https://open.spotify.com/track/3KSfYydFjoi6TjH2lyIhI9) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Bongo ByTheWay](https://open.spotify.com/artist/52XVQUBiGoiv1E3bQZ3KHd) | [Still That Way \(feat\. Bongo ByTheWay\)](https://open.spotify.com/album/5xE4vlYZaS40sxlgFfwzmx) | 3:16 |
 | 35 | [02 Lakers](https://open.spotify.com/track/0LXrihCLToJ1l9HlIufKSA) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr) | [02 Lakers](https://open.spotify.com/album/1WMj2AxZuuDQdHo3qFDMe9) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Arrivals](https://open.spotify.com/track/3s7j6rr4X9PcSRl6i0qtUb) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 3:05 |
 | 100 | [Control](https://open.spotify.com/track/4gUqTNPNH60VcUdm5YQG0R) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys), [Dylvinci](https://open.spotify.com/artist/28dzsbHhnbwJIB6cVmfvAS) | [B2B](https://open.spotify.com/album/51Esh2ddbUkN2u9P00PFR8) | 1:58 |
 
-Snapshot ID: `MCw2NGJiYWExYzJjZDhiNWNmNmNjN2Y0MmE3YjNiNDI3MWM5ZmI0OGEx`
+Snapshot ID: `MCw4MGVlMGM0NWM3YWNjMDUzNjVjZDQ1ZTkxY2NmNWE4YmU1NGViMDQ3`

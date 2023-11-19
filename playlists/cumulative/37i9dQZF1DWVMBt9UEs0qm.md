@@ -4,7 +4,7 @@
 
 > Classic pop, rock and folk for a pleasant drive.
 
-89 songs - 5 hr 58 min
+90 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,9 +61,10 @@
 | [Mind Games \- Remastered 2010](https://open.spotify.com/track/3QmUhaY5KZiOuaUH8H71LG) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Mind Games](https://open.spotify.com/album/2GoiwFkRtErx0CHn6zaFJu) | 4:13 | 2019-06-11 |  |
 | [Mr\. Tambourine Man](https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 5:30 | 2019-06-11 |  |
 | [Never Going Back Again \- 2004 Remaster](https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 2:14 | 2019-06-11 |  |
+| [New York's Not My Home](https://open.spotify.com/track/5vFmEDQivD8FNOOushB70i) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9) | 3:07 | 2019-06-11 |  |
 | [New York's Not My Home](https://open.spotify.com/track/23bhZn2h3UqZ0CBPeOsOvS) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [The Original Albums...Plus](https://open.spotify.com/album/4asosdO6SSNJJO5Hij5QbM) | 3:09 | 2019-06-11 | 2022-11-13 |
 | [New York's Not My Home](https://open.spotify.com/track/2iAe3yqQ5QYX8SI1iF4kJ6) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy) | 3:09 | 2019-06-11 | 2023-11-04 |
-| [New York's Not My Home \(Live\)](https://open.spotify.com/track/4B1DeA8kfjPCfmzLA33es1) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Live: The Final Tour](https://open.spotify.com/album/2WYSfBrOUTHXHYMWZyLt04) | 2:56 | 2019-06-11 |  |
+| [New York's Not My Home \(Live\)](https://open.spotify.com/track/4B1DeA8kfjPCfmzLA33es1) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Live: The Final Tour](https://open.spotify.com/album/2WYSfBrOUTHXHYMWZyLt04) | 2:56 | 2019-06-11 | 2023-11-19 |
 | [O\-o\-h Child](https://open.spotify.com/track/1rwGdnrtWnPYBipRrjnzEm) | [The Five Stairsteps](https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S) | [Stairsteps \(Expanded Edition\)](https://open.spotify.com/album/7H8uLkHFuEqAWpLKBwbGvg) | 3:17 | 2019-06-11 |  |
 | [On And On](https://open.spotify.com/track/0Vth3l4XAo8hNYmxjzhr2y) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Careless](https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm) | 3:01 | 2019-06-11 |  |
 | [One of Us Must Know \(Sooner or Later\)](https://open.spotify.com/track/40GFPBolcy0yucApV9uxq2) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blonde On Blonde](https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L) | 4:52 | 2019-06-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill, and potentially disassociate, in 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,469,028 likes - 150 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,469,205 likes - 150 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 24 | [Orange Blood](https://open.spotify.com/track/2mKz0wGscPw1xnTvrTlQUi) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/2H1cK9wMY3GreIFvcNnice) | 3:46 |
 | 25 | [Jealous](https://open.spotify.com/track/7GahBNine4Ru5Shs1GGpcr) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [MOVIES! WORLDWIDE: PART I](https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md) | 3:01 |
 | 26 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 |
-| 27 | [Kimosabè](https://open.spotify.com/track/06oSt0nOjewappkOBrsFME) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kimosabè](https://open.spotify.com/album/3nZq3qWbHwdnTXZsk9DF5K) | 4:36 |
+| 27 | [Kimosabè](https://open.spotify.com/track/6ThLeHskGmgionXRoqGyYS) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kimosabè](https://open.spotify.com/album/3gMgItWPVNpinFuRp9NMgC) | 4:36 |
 | 28 | [I Think I Lost My Number Can I Have Yours?](https://open.spotify.com/track/7sm7RkEXLx4IFvvbw8h5rC) | [milk.](https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq) | [I Think I Lost My Number Can I Have Yours?](https://open.spotify.com/album/4b0zKPaz51p8EgPHksKoAn) | 3:28 |
 | 29 | [Aruarian Dance \(interlude\)](https://open.spotify.com/track/01MVoX9EYvKaj8WSpZRG5O) | [Kapa Boy](https://open.spotify.com/artist/02WFtZreToLN0ARfpZukYI) | [Aruarian Dance \(interlude\)](https://open.spotify.com/album/05orsBLbdwFiFcJ7qdfVo2) | 1:38 |
 | 30 | [There’s no Other](https://open.spotify.com/track/1HHxnVIKnlNnCPnUxsnsXs) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [There’s no Other](https://open.spotify.com/album/6Ldj1EkMiTstPg4RRLAg6b) | 2:35 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 149 | [No Men's Drive](https://open.spotify.com/track/4fNp0E73dcIDJCUeodd2Ar) | [Mihail](https://open.spotify.com/artist/6l5kIaZ51iCClkxrgr904F) | [To Whom We Return](https://open.spotify.com/album/7lFXTVyHJRfoAscycletMe) | 3:31 |
 | 150 | [In The Rear View](https://open.spotify.com/track/4kgXwktpr7IqnhPo84v6ul) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [V](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD) | 4:04 |
 
-Snapshot ID: `MCwxYzQ4NmNiYzk1NzhjMjQ5Y2NhNmFmY2FmZDAxODQ4N2Y5NDQ0NTZi`
+Snapshot ID: `MCwwOTUxZDk4NDgwNDk4MTg4YzZmODc2N2Y5ZjYwMzRmOTkwNGY2MWZh`

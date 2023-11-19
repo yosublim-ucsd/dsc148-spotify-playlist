@@ -172,6 +172,10 @@
         {
           "name": "Jay Trak",
           "url": "https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu"
+        },
+        {
+          "name": "Rooh Sandhu",
+          "url": "https://open.spotify.com/artist/54E3dYx7RpaGZaDVXJTWjr"
         }
       ],
       "date_added": "2023-08-23",
@@ -356,6 +360,28 @@
       "duration_ms": 229510,
       "name": "All Night (Live)",
       "url": "https://open.spotify.com/track/7IK26RNUdgoZWJdlarrcty"
+    },
+    {
+      "album": {
+        "name": "Arjan Vailly (From \"ANIMAL\")",
+        "url": "https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K"
+      },
+      "artists": [
+        {
+          "name": "Manan Bhardwaj",
+          "url": "https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh"
+        },
+        {
+          "name": "Bhupinder Babbal",
+          "url": "https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182170,
+      "name": "Arjan Vailly (From \"ANIMAL\")",
+      "url": "https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn"
     },
     {
       "album": {
@@ -1862,7 +1888,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 152727,
       "name": "Gustakhiyan",
       "url": "https://open.spotify.com/track/3X3BiiDYiPVIn5gEpO9HiF"

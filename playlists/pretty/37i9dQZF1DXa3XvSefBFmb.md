@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Sara Correia, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,202 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,203 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Contra O Vento](https://open.spotify.com/track/2o1kLp5UZwIRloS2kjvPlG) | [Brisa](https://open.spotify.com/artist/0h86oLtyPHlFgPyr7AcAtC) | [CASULO](https://open.spotify.com/album/2lQJ7nr7JbUgIUW4EcNqgA) | 3:57 |
 | 50 | [Dormente](https://open.spotify.com/track/5WKwElSme2Jmoyt1jbFGa7) | [Inês Marques Lucas](https://open.spotify.com/artist/6eVIiykMS1MiFG8AkH7ILn) | [Horas Mortas](https://open.spotify.com/album/5ut3lgky0Y94FjjU5e06Bx) | 2:59 |
 
-Snapshot ID: `MCwyNjkyNzkwOGVlMDA1MjhhMGU1OTZmYTVhOTgwYWIyZTI5Y2FkMDlh`
+Snapshot ID: `MCw2ZDhkMzBiMTE0OWU3NDZkZGMyZTA4MTFhMDc4ZGNmNWQzNDYyZDVi`

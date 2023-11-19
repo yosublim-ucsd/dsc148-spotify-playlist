@@ -463,6 +463,24 @@
     },
     {
       "album": {
+        "name": "III. Kr\u00fabi",
+        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309533,
+      "name": "A Bab\u00e1m Zokog Az \u00c1gyon",
+      "url": "https://open.spotify.com/track/6H9JIiYG6WutRc5fGRyesK"
+    },
+    {
+      "album": {
         "name": "\u00faton",
         "url": "https://open.spotify.com/album/6RuuMs24vFydEgnyX7nA61"
       },
@@ -550,6 +568,24 @@
       "duration_ms": 260706,
       "name": "A sz\u00fcrke Pat\u00e1s",
       "url": "https://open.spotify.com/track/5Oyji0CLU1eZeKn8V9rILD"
+    },
+    {
+      "album": {
+        "name": "III. Kr\u00fabi",
+        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267466,
+      "name": "A Tankcsapda Sem Hazudott Mindenben",
+      "url": "https://open.spotify.com/track/7ErnRlMPgfSXKnIw5vruZv"
     },
     {
       "album": {
@@ -724,7 +760,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 192000,
       "name": "Afro Beat",
       "url": "https://open.spotify.com/track/37GSp3Uj1DKHUrhv6EtYN8"
@@ -1310,7 +1346,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 171600,
       "name": "Az \u00c9letem",
       "url": "https://open.spotify.com/track/7Gq5UIVs2o8GTDGsosBSo1"
@@ -2460,7 +2496,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 125825,
       "name": "bulbaba",
       "url": "https://open.spotify.com/track/7xdiiqtQPUXrKcd6BoFyYd"
@@ -4893,6 +4929,24 @@
     },
     {
       "album": {
+        "name": "exes",
+        "url": "https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159400,
+      "name": "exes",
+      "url": "https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o"
+    },
+    {
+      "album": {
         "name": "Sose Alszok",
         "url": "https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy"
       },
@@ -5765,6 +5819,24 @@
     },
     {
       "album": {
+        "name": "III. Kr\u00fabi",
+        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304893,
+      "name": "Ganxsta Zolee Tehet Mindenr\u0151l",
+      "url": "https://open.spotify.com/track/3slZDC1KYm6oV6KMr2BuXw"
+    },
+    {
+      "album": {
         "name": "Ganxsta Zolee Tehet Mindenr\u0151l",
         "url": "https://open.spotify.com/album/0SrCxMpHSTvng01kKn0JHm"
       },
@@ -5776,7 +5848,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 304893,
       "name": "Ganxsta Zolee Tehet Mindenr\u0151l",
       "url": "https://open.spotify.com/track/7uVfJBixz1VViRCizlpr8L"
@@ -7000,7 +7072,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 185917,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
@@ -8621,6 +8693,24 @@
     },
     {
       "album": {
+        "name": "III. Kr\u00fabi",
+        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313124,
+      "name": "Kr\u00fabi Interj\u00fa",
+      "url": "https://open.spotify.com/track/1FjhV0AkAST45DpO7kHuBB"
+    },
+    {
+      "album": {
         "name": "Kr\u00fabi Interj\u00fa",
         "url": "https://open.spotify.com/album/4bExg0cGyeuLCqsI0cnn7C"
       },
@@ -8984,7 +9074,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 153650,
       "name": "Latyo \u00e9s haze",
       "url": "https://open.spotify.com/track/5sybMF2Gbm98ociatHQFpT"
@@ -10250,7 +10340,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 152619,
       "name": "MENTALITAT",
       "url": "https://open.spotify.com/track/3wQlR2WBPLoKAN6uZgRx54"
@@ -10366,7 +10456,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 217000,
       "name": "Mes\u00e9lek a bornak",
       "url": "https://open.spotify.com/track/7guuxhxRSe7SDCYIkxodUx"
@@ -10570,6 +10660,24 @@
       "duration_ms": 203571,
       "name": "Minden \u00c9jjel - Bonus Track",
       "url": "https://open.spotify.com/track/5w0ZoKW8mjoATVqofPV2Oy"
+    },
+    {
+      "album": {
+        "name": "III. Kr\u00fabi",
+        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272386,
+      "name": "Mini Kr\u00fabi",
+      "url": "https://open.spotify.com/track/2xsW0zHw5m6CYVNRpjaBDB"
     },
     {
       "album": {
@@ -11739,6 +11847,28 @@
     },
     {
       "album": {
+        "name": "NULLAK\u00d6Z\u00d6D / T\u00dcK\u00d6RTEREM",
+        "url": "https://open.spotify.com/album/1APxXOizhq9Cb7KJ0eLYFH"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "ANUBII$",
+          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140917,
+      "name": "NULLAK\u00d6Z\u00d6D",
+      "url": "https://open.spotify.com/track/0dqnJ3Qa6XQHaljGJg92ix"
+    },
+    {
+      "album": {
         "name": "N\u00e9ztek",
         "url": "https://open.spotify.com/album/4BW1rSljFjxLD3OXmav7km"
       },
@@ -12164,7 +12294,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 230480,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
@@ -12432,6 +12562,24 @@
       "duration_ms": 173809,
       "name": "Partyarc",
       "url": "https://open.spotify.com/track/45NZ6MHZFLsFEhA0quWeEn"
+    },
+    {
+      "album": {
+        "name": "III. Kr\u00fabi",
+        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358007,
+      "name": "Partyz\u00e1n",
+      "url": "https://open.spotify.com/track/1hqs7GPk99VxcGFIhqjkrx"
     },
     {
       "album": {
@@ -14820,7 +14968,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 144000,
       "name": "Smash!",
       "url": "https://open.spotify.com/track/59wn91U7xuJ5S1zkX8HmpK"
@@ -15443,6 +15591,24 @@
     },
     {
       "album": {
+        "name": "III. Kr\u00fabi",
+        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376600,
+      "name": "Szellemvas\u00fat",
+      "url": "https://open.spotify.com/track/25FyOnddTVpNJ00XhB6qEC"
+    },
+    {
+      "album": {
         "name": "Szeretni, akit nem lehet",
         "url": "https://open.spotify.com/album/6zJylWGhG71fZdNvxJzBB4"
       },
@@ -15509,6 +15675,24 @@
     },
     {
       "album": {
+        "name": "III. Kr\u00fabi",
+        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375853,
+      "name": "Szex Kr\u00fabival",
+      "url": "https://open.spotify.com/track/2rE8Typld9kgObCRZxE2BS"
+    },
+    {
+      "album": {
         "name": "DESHPERADO",
         "url": "https://open.spotify.com/album/1hbbYNHuiBJ77XlDvk4Syy"
       },
@@ -15556,7 +15740,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 206037,
       "name": "szosziazi",
       "url": "https://open.spotify.com/track/3DTF2AIcHMwZ1q1gz9zspi"
@@ -15592,7 +15776,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 146013,
       "name": "Sz\u00e1zszorsz\u00e9p",
       "url": "https://open.spotify.com/track/2KQoXxQzVL7h4rMsmP8t5L"
@@ -16841,6 +17025,24 @@
     },
     {
       "album": {
+        "name": "III. Kr\u00fabi",
+        "url": "https://open.spotify.com/album/6ugdjOOBMHmr14VPGFEPJq"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00fabi",
+          "url": "https://open.spotify.com/artist/6u7q0ZGK0oilVYx4kqIk3E"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210533,
+      "name": "T\u00e1rgyal\u00e1s A N\u0151k Vez\u00e9rigazgat\u00f3j\u00e1val",
+      "url": "https://open.spotify.com/track/616njAaXFdHu5rs3FbjyUw"
+    },
+    {
+      "album": {
         "name": "silbak",
         "url": "https://open.spotify.com/album/34GtFdoJSROHH0hrn9SyJJ"
       },
@@ -16896,6 +17098,28 @@
       "duration_ms": 182333,
       "name": "T\u00daL SOK A TUNE",
       "url": "https://open.spotify.com/track/40JheOaLfoH15JoGUemME8"
+    },
+    {
+      "album": {
+        "name": "NULLAK\u00d6Z\u00d6D / T\u00dcK\u00d6RTEREM",
+        "url": "https://open.spotify.com/album/1APxXOizhq9Cb7KJ0eLYFH"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "ANUBII$",
+          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "T\u00dcK\u00d6RTEREM",
+      "url": "https://open.spotify.com/track/0S2XFRI4Yyd1yWwLQBwEFr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i11qSEWNoS.md) - [plain]
 
 > und macht laune
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,935 likes - 90 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,384 likes - 90 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i11qSEWNoS.md) - [plain]
 | 89 | [We Are The People \- southstar Remix](https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [We Are The People \(southstar Remix\)](https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb) | 3:56 |
 | 90 | [WILDES DING](https://open.spotify.com/track/2BssmP7ruTX7iZrWLm7EVk) | [Valexus](https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1), [Culcha Candela](https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL) | [WILDES DING](https://open.spotify.com/album/6nnBMvIedNf19zjzk2KGhF) | 2:16 |
 
-Snapshot ID: `MCxkZjdhMzk5YTEyNzg0MmRlMDY3ZmE1OGNhMjZlODg1NWM1ZmY0NTg4`
+Snapshot ID: `MCxhMTY2OWZjZDQ5OTRkMGVlMjRhZmZlNzdhZDI3Zjc0NGRiODEyZmNk`

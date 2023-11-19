@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Instructions: volume up\. Cover: Five Finger Death Punch
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,960 likes - 121 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,138 likes - 121 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 69 | [When You Look At Me](https://open.spotify.com/track/5BMsmADk2kH0syI2r3wTIt) | [Return to Dust](https://open.spotify.com/artist/53Hm23U3dtaHeB5Oy6GbaS) | [When You Look At Me](https://open.spotify.com/album/0dczbCZ25NvRJjwnWQoco0) | 3:30 |
 | 70 | [Running In Circles](https://open.spotify.com/track/3EjHI10QuKMoVBxcgpHrf3) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [Running In Circles / HURT](https://open.spotify.com/album/4TLVu9jrPLKpyPj1R3m2RW) | 3:53 |
 | 71 | [Black Thunder \(feat\. Serj Tankian and DL of Bad Wolves\)](https://open.spotify.com/track/7nqgVLMje8RzKrmNH2D6dg) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM), [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Daniel Laskiewicz](https://open.spotify.com/artist/4mZxb8qEgT8nkvrNaQFiMQ) | [Rumble of Thunder \(Deluxe\)](https://open.spotify.com/album/1WmySyMyPGVPlCpKQGQaEp) | 4:28 |
-| 72 | [THE PURGE](https://open.spotify.com/track/42eexWfJFK34GC9c46fpLx) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [THE PURGE](https://open.spotify.com/album/3UMpuZ3u2g5NOgHzzZnwrn) | 3:59 |
+| 72 | [THE PURGE](https://open.spotify.com/track/3ppy9aybMMI5vPydN4qRjU) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [GODMODE](https://open.spotify.com/album/2c1e4GA90vn9Arbo4b8CU7) | 3:59 |
 | 73 | [Don't Let The Party Die](https://open.spotify.com/track/0h9HqYMU1EGRZ8E3aQ2lJE) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Complete Collapse \(Deluxe\)](https://open.spotify.com/album/3povldXcm2CSdm3lpkE1tW) | 2:46 |
 | 74 | [The Dirt I'm Buried In](https://open.spotify.com/track/4OjAxkNVwleUdCUS098eBw) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Dance Devil Dance](https://open.spotify.com/album/5GH4bz50nqlXUm4xyK4tC2) | 4:04 |
 | 75 | [Mystic Cord](https://open.spotify.com/track/2gO2rwntCs0InXql4AOQTV) | [Many Eyes](https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb) | [Mystic Cord](https://open.spotify.com/album/3jVi4YL9O4ZIoe7eFFJQKE) | 3:01 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 120 | [Will I Run?](https://open.spotify.com/track/2FLVcNtaeQPcfpW6B15IEE) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Will I Run?](https://open.spotify.com/album/3vSYFCoj6LqTRxdYh9r6pq) | 4:02 |
 | 121 | [Dark Thoughts](https://open.spotify.com/track/7aSFYakNWB9xQGDEZtoBDH) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Dark Thoughts](https://open.spotify.com/album/4hZRZ9Mwu9NAIeB73uI2JT) | 4:08 |
 
-Snapshot ID: `MCw2OWI4NTczZGYzNmViNzg5MzYwY2UxOWU2NTk1NTlmOGRkOWNiNDkz`
+Snapshot ID: `MCxkMGIzNTY3ZDEwMjg1MDVlOGZlMjhmOWQxOTc0Njc5YzVlOGVhNmNl`

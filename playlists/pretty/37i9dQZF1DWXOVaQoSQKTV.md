@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,642 likes - 186 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,670 likes - 186 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,7 +152,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 142 | [You'll Probably Think This Song is About You](https://open.spotify.com/track/67X6qmt8l8QoBpOMk8P455) | [Hachiku](https://open.spotify.com/artist/5HfeTpsKxVyfweIfKsSvIT) | [I'll Probably Be Asleep](https://open.spotify.com/album/29uJCKCxDKcTLAOZeyFdn1) | 5:28 |
 | 143 | [Summer Love](https://open.spotify.com/track/0XB2QKZAcJgeoV87KyGt0Q) | [Hello Pongo](https://open.spotify.com/artist/4ZI2DGRuZXJhK4jNkRkbED) | [Summer Love](https://open.spotify.com/album/1dDDjHSxE2eB08gTrSpfx6) | 3:10 |
 | 144 | [Love Goes \(feat\. Labrinth\)](https://open.spotify.com/track/5aRlRDvXRuP81qEzKTXQvM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 4:44 |
-| 145 | [Say Something](https://open.spotify.com/track/6FG0Mgz3S4aiCIheLLzJTr) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/7EBIA9cqbuqkyWfp3UCitD) | 3:32 |
+| 145 | [Say Something](https://open.spotify.com/track/5ZOr84cvpMI8G7b9A6UKxp) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG) | 3:33 |
 | 146 | [Sunset](https://open.spotify.com/track/1vKvMifpfDcR4C3DwchBA6) | [Selebrities](https://open.spotify.com/artist/3NSZ43GhHj5pP7XKfOgpws) | [Delusions](https://open.spotify.com/album/2ndlekdtu2gXCkjlRwPgpx) | 4:14 |
 | 147 | [Dancing On My Own](https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk Pt\. 1](https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn) | 4:45 |
 | 148 | [Big Future](https://open.spotify.com/track/28TdbFjX6047oZ5ADLTs2r) | [Obliques](https://open.spotify.com/artist/4EGAoQoOZvUSXt0uzxAGWG) | [Big Future](https://open.spotify.com/album/6SASFuxKdxTIHtkfjBV2Na) | 2:35 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 185 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 |
 | 186 | [Boys Like You](https://open.spotify.com/track/2i8zKNkcMQMjztKdNQrYx4) | [Kids At Midnight](https://open.spotify.com/artist/0PUDa7NkXCsMPeFUPLdTAs) | [Boys Like You](https://open.spotify.com/album/10vIxKjxQTtnWc9cA3t4EH) | 3:50 |
 
-Snapshot ID: `MCwxYWY5MDM1M2VmYjg1ZGVkOGM4NDdmZTAyNWMzNTkyYWUzYjczOGVk`
+Snapshot ID: `MCwyNjRkMjI4NjE4Nzg0MjQ1ZDNhN2IwZjIyMzE3NjE3N2Y1YmM5ZjRj`

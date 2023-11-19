@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,706 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,966 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 99 | [Mil Anos \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Spotify Singles](https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V) | 3:09 |
 | 100 | [Nunca Vai Ser Nós](https://open.spotify.com/track/6KoWlMNCiFdHnzYSX1Ag8q) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Nunca Vai Ser Nós](https://open.spotify.com/album/1XhqEq2zud4YlQ5MsOhY6R) | 2:52 |
 
-Snapshot ID: `MCwwYjU1MjY2OTAwNTM4MjdlN2JmMGI3YzQ0OWFiM2E4ZGY5MWZhZjEz`
+Snapshot ID: `MCw3YTk2ZTBlNGNlNGYyY2ExZDQ0ZGQxZjJjYTQwZjJhOGZmMTc1Yzg5`

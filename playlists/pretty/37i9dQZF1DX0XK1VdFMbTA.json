@@ -1,12 +1,12 @@
 {
   "description": "Any songs you forgot existed? Let's go deep into 70s rock! Cover: Pink Floyd",
-  "num_followers": 139223,
+  "num_followers": 139370,
   "original_name": "Deep Dive: 70s Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWU0ZWQ1MDBlNDQ0OThiNjYwYjQ4NmY4Y2U4ZmYxMDlhZDIyMjQ3",
+  "snapshot_id": "MCw4ZjhlMDI4NDljZTFhZjQ5NGQwZmY3MTFiMGYxNjczNGM3Yjc1ZmQ0",
   "tracks": [
     {
       "added_at": "2022-11-17 15:37:46",
@@ -4639,22 +4639,6 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "Lola vs. Powerman and the Moneygoround, Pt. One + Percy (Super Deluxe)",
-        "url": "https://open.spotify.com/album/6lL6HugNEN4Vlc8sj0Zcse"
-      },
-      "artists": [
-        {
-          "name": "The Kinks",
-          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "Apeman - 2014 Remastered Version",
-      "url": "https://open.spotify.com/track/1NXUWyPJk5kO6DQJ5t7bDu"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
         "name": "Out of the Blue",
         "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
       },
@@ -4703,22 +4687,6 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "Who Do We Think We Are",
-        "url": "https://open.spotify.com/album/1RQWFGjiaPfoxuOt2YaVqA"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 348640,
-      "name": "Woman from Tokyo",
-      "url": "https://open.spotify.com/track/6aqWPEhtxJaPbSabre2fdx"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
         "name": "The Slider",
         "url": "https://open.spotify.com/album/5lL8N073N1d9ENpzM9Wtj5"
       },
@@ -4731,6 +4699,22 @@
       "duration_ms": 149706,
       "name": "Metal Guru",
       "url": "https://open.spotify.com/track/4KcE3At063Xyleg2xGzVYz"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
+        "name": "Who Do We Think We Are",
+        "url": "https://open.spotify.com/album/1RQWFGjiaPfoxuOt2YaVqA"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 348640,
+      "name": "Woman from Tokyo",
+      "url": "https://open.spotify.com/track/6aqWPEhtxJaPbSabre2fdx"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -4895,38 +4879,6 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "Old New Borrowed and Blue (Expanded)",
-        "url": "https://open.spotify.com/album/7Ei1pgC4goW851DOzt9IJf"
-      },
-      "artists": [
-        {
-          "name": "Slade",
-          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
-        }
-      ],
-      "duration_ms": 190493,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/5qgGXHf4yXNk2Z1LzMQDCh"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/57ystaP7WpAOxvCxKFxByS"
-      },
-      "artists": [
-        {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
-        }
-      ],
-      "duration_ms": 213853,
-      "name": "In The Mood",
-      "url": "https://open.spotify.com/track/2CB4yzH1SBr0q85YniII0M"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
         "name": "Rides Again",
         "url": "https://open.spotify.com/album/0FHtUmahwAambT6S4boSP0"
       },
@@ -4975,18 +4927,18 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "Three Imaginary Boys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/57ystaP7WpAOxvCxKFxByS"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
         }
       ],
-      "duration_ms": 195693,
-      "name": "Three Imaginary Boys - 2005 Remaster",
-      "url": "https://open.spotify.com/track/660u9agQuREtEDmETVWSts"
+      "duration_ms": 213853,
+      "name": "In The Mood",
+      "url": "https://open.spotify.com/track/2CB4yzH1SBr0q85YniII0M"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -5019,6 +4971,22 @@
       "duration_ms": 420173,
       "name": "Dead End Justice",
       "url": "https://open.spotify.com/track/4DliRSOmpVNHoPc60wUmUD"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
+        "name": "Three Imaginary Boys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7gPql7GFpBMOxeO80vMMsC"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Three Imaginary Boys - 2005 Remaster",
+      "url": "https://open.spotify.com/track/660u9agQuREtEDmETVWSts"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -5199,6 +5167,22 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
+        "name": "Eat To The Beat",
+        "url": "https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 202230,
+      "name": "Union City Blue - Single Version",
+      "url": "https://open.spotify.com/track/3a3JGuTQNYM3YawGpck7Ql"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/0CyJF98u2sjDTvw8j1Rotr"
       },
@@ -5263,22 +5247,6 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "Eat To The Beat",
-        "url": "https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 202230,
-      "name": "Union City Blue - Single Version",
-      "url": "https://open.spotify.com/track/3a3JGuTQNYM3YawGpck7Ql"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
         "name": "Showaddywaddy",
         "url": "https://open.spotify.com/album/14bP67sqIuFYFXkuvxGuEf"
       },
@@ -5307,6 +5275,22 @@
       "duration_ms": 221374,
       "name": "Some Weird Sin",
       "url": "https://open.spotify.com/track/6bQQEDyyAEmwYqXmMpvCFh"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
+        "name": "Blondie (Remastered)",
+        "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 153133,
+      "name": "In The Flesh - Remastered",
+      "url": "https://open.spotify.com/track/4D7ZvtLOG19HmtqKC8l0BI"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -5391,38 +5375,6 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 260030,
-      "name": "Sister Midnight",
-      "url": "https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
-        "name": "Blondie (Remastered)",
-        "url": "https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 153133,
-      "name": "In The Flesh - Remastered",
-      "url": "https://open.spotify.com/track/4D7ZvtLOG19HmtqKC8l0BI"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
         "name": "Fool for the City (2016 Remaster)",
         "url": "https://open.spotify.com/album/6A5fIqkWcZEAuhZLf8bLAG"
       },
@@ -5451,6 +5403,22 @@
       "duration_ms": 262106,
       "name": "What You're Doing",
       "url": "https://open.spotify.com/track/5ta0Ra3jMlNWKlSyIML7ZI"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 260030,
+      "name": "Sister Midnight",
+      "url": "https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -5519,22 +5487,6 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 308927,
-      "name": "China Girl",
-      "url": "https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
         "name": "Rock 'N' Roll",
         "url": "https://open.spotify.com/album/4D5tTcz72CXGPtzTabLTDY"
       },
@@ -5547,6 +5499,22 @@
       "duration_ms": 137666,
       "name": "Slippin' And Slidin' - Remastered 2010",
       "url": "https://open.spotify.com/track/1Ptzi2koe5Xvot5bltQrM1"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 308927,
+      "name": "China Girl",
+      "url": "https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -5743,22 +5711,6 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "Slowhand 35th Anniversary (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 241413,
-      "name": "Next Time You See Her",
-      "url": "https://open.spotify.com/track/19IjIGFbmQW4JSVNEdWpk0"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
         "name": "Stealers Wheel",
         "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
       },
@@ -5771,6 +5723,22 @@
       "duration_ms": 196106,
       "name": "I Get By",
       "url": "https://open.spotify.com/track/16Y9fKPEa7SQ5lZojVuNcO"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
+        "name": "Slowhand 35th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 241413,
+      "name": "Next Time You See Her",
+      "url": "https://open.spotify.com/track/19IjIGFbmQW4JSVNEdWpk0"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -5899,22 +5867,6 @@
       "duration_ms": 144938,
       "name": "Hey Julia",
       "url": "https://open.spotify.com/track/4qgKRG22UoHNq7S85wFwfy"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
-        "name": "Sladest (Expanded)",
-        "url": "https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW"
-      },
-      "artists": [
-        {
-          "name": "Slade",
-          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
-        }
-      ],
-      "duration_ms": 230173,
-      "name": "Get Down and Get With It",
-      "url": "https://open.spotify.com/track/3rEUXKfkeb6kPH6NCxkgCo"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -6063,22 +6015,6 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "Sladest (Expanded)",
-        "url": "https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW"
-      },
-      "artists": [
-        {
-          "name": "Slade",
-          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Take Me Bak 'Ome",
-      "url": "https://open.spotify.com/track/6IctRzzSyMt5OtAjPaXgd4"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
         "name": "Rides Again",
         "url": "https://open.spotify.com/album/0FHtUmahwAambT6S4boSP0"
       },
@@ -6111,22 +6047,6 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "Best Of Sweet",
-        "url": "https://open.spotify.com/album/7I5IWDrFPKeqhRSnd6QrXG"
-      },
-      "artists": [
-        {
-          "name": "Sweet",
-          "url": "https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz"
-        }
-      ],
-      "duration_ms": 195533,
-      "name": "Little Willy",
-      "url": "https://open.spotify.com/track/5l7WMtIUfX4D2XsHYOp4zV"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
         "name": "Never A Dull Moment",
         "url": "https://open.spotify.com/album/1V0trkg3Pt4pGCyxfztFLZ"
       },
@@ -6139,6 +6059,22 @@
       "duration_ms": 243826,
       "name": "Angel",
       "url": "https://open.spotify.com/track/4qiUf0nH55Bx2uuybf5S1g"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
+        "name": "Best Of Sweet",
+        "url": "https://open.spotify.com/album/7I5IWDrFPKeqhRSnd6QrXG"
+      },
+      "artists": [
+        {
+          "name": "Sweet",
+          "url": "https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz"
+        }
+      ],
+      "duration_ms": 195533,
+      "name": "Little Willy",
+      "url": "https://open.spotify.com/track/5l7WMtIUfX4D2XsHYOp4zV"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -6171,22 +6107,6 @@
       "duration_ms": 188253,
       "name": "Tell Him",
       "url": "https://open.spotify.com/track/33p0PbFZHcsWEwNimcFNlI"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
-        "name": "Sladest (Expanded)",
-        "url": "https://open.spotify.com/album/0gAA09tbZAALAGebq8R3mW"
-      },
-      "artists": [
-        {
-          "name": "Slade",
-          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
-        }
-      ],
-      "duration_ms": 269506,
-      "name": "Skweeze Me, Pleeze Me",
-      "url": "https://open.spotify.com/track/75Qqj0a1D0fxYrQ9j8vnqX"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -6319,6 +6239,22 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
+        "name": "In the Summertime",
+        "url": "https://open.spotify.com/album/17JTrT5dXyWYs0xmsnunp7"
+      },
+      "artists": [
+        {
+          "name": "Mungo Jerry",
+          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Baby Jump",
+      "url": "https://open.spotify.com/track/39VWZ8DQzY1IykYedmb52L"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
         "name": "The Best Of 3 Dog Night",
         "url": "https://open.spotify.com/album/0hQ9bcocveWRrJ0Z2TbEa7"
       },
@@ -6347,22 +6283,6 @@
       "duration_ms": 154599,
       "name": "Little Bit Of Love",
       "url": "https://open.spotify.com/track/3BmK7l5cxeBR1s8OjNWweO"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
-        "name": "In the Summertime",
-        "url": "https://open.spotify.com/album/17JTrT5dXyWYs0xmsnunp7"
-      },
-      "artists": [
-        {
-          "name": "Mungo Jerry",
-          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Baby Jump",
-      "url": "https://open.spotify.com/track/39VWZ8DQzY1IykYedmb52L"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -6495,22 +6415,6 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "Best Of Sweet",
-        "url": "https://open.spotify.com/album/7I5IWDrFPKeqhRSnd6QrXG"
-      },
-      "artists": [
-        {
-          "name": "Sweet",
-          "url": "https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "Action",
-      "url": "https://open.spotify.com/track/2rkwEerYv5dhmu3WONhJqo"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
         "name": "Just A Boy",
         "url": "https://open.spotify.com/album/4U9kO19aacQAfVYdzxQ3Db"
       },
@@ -6523,6 +6427,22 @@
       "duration_ms": 214920,
       "name": "One Man Band - Remastered",
       "url": "https://open.spotify.com/track/0c2mka6WpBC5WTC5lBroMm"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
+        "name": "Kongos",
+        "url": "https://open.spotify.com/album/5CT0WakYJ3Wvsllg4UO0HB"
+      },
+      "artists": [
+        {
+          "name": "John Kongos",
+          "url": "https://open.spotify.com/artist/15KbeP35gI9t2vgYzwsTjj"
+        }
+      ],
+      "duration_ms": 264266,
+      "name": "He's Gonna Step on You Again",
+      "url": "https://open.spotify.com/track/6oNjDtBcSSTC2Zuaa6pTXY"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -6543,18 +6463,18 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "Kongos",
-        "url": "https://open.spotify.com/album/5CT0WakYJ3Wvsllg4UO0HB"
+        "name": "Best Of Sweet",
+        "url": "https://open.spotify.com/album/7I5IWDrFPKeqhRSnd6QrXG"
       },
       "artists": [
         {
-          "name": "John Kongos",
-          "url": "https://open.spotify.com/artist/15KbeP35gI9t2vgYzwsTjj"
+          "name": "Sweet",
+          "url": "https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz"
         }
       ],
-      "duration_ms": 264266,
-      "name": "He's Gonna Step on You Again",
-      "url": "https://open.spotify.com/track/6oNjDtBcSSTC2Zuaa6pTXY"
+      "duration_ms": 200360,
+      "name": "Action",
+      "url": "https://open.spotify.com/track/2rkwEerYv5dhmu3WONhJqo"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -6655,6 +6575,26 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
+        "name": "People's People",
+        "url": "https://open.spotify.com/album/2ZCpSljywkjNwL4FpLNQtJ"
+      },
+      "artists": [
+        {
+          "name": "Andwella",
+          "url": "https://open.spotify.com/artist/0q2sVY3IwEi4dq2pyTBNNb"
+        },
+        {
+          "name": "Andwellas Dream",
+          "url": "https://open.spotify.com/artist/4DV83JtR2UWtGzIyvEyGA8"
+        }
+      ],
+      "duration_ms": 213906,
+      "name": "Mississippi Water",
+      "url": "https://open.spotify.com/track/2VErcrm4ZMT0D5ThoKmsTH"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
         "name": "Sweet Fanny Adams",
         "url": "https://open.spotify.com/album/26FFCS8Hx6Ocr6MovNitos"
       },
@@ -6683,26 +6623,6 @@
       "duration_ms": 201560,
       "name": "Moonshine Sally",
       "url": "https://open.spotify.com/track/6NDkLC6f8UVCWM3P10Pl9d"
-    },
-    {
-      "added_at": "2022-11-17 15:37:46",
-      "album": {
-        "name": "People's People",
-        "url": "https://open.spotify.com/album/2ZCpSljywkjNwL4FpLNQtJ"
-      },
-      "artists": [
-        {
-          "name": "Andwella",
-          "url": "https://open.spotify.com/artist/0q2sVY3IwEi4dq2pyTBNNb"
-        },
-        {
-          "name": "Andwellas Dream",
-          "url": "https://open.spotify.com/artist/4DV83JtR2UWtGzIyvEyGA8"
-        }
-      ],
-      "duration_ms": 213906,
-      "name": "Mississippi Water",
-      "url": "https://open.spotify.com/track/2VErcrm4ZMT0D5ThoKmsTH"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -6743,6 +6663,22 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
+        "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
+        "url": "https://open.spotify.com/album/6cv47fKkAyi9Lm5wwud4It"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "duration_ms": 233542,
+      "name": "Apeman (2020 Stereo Remaster)",
+      "url": "https://open.spotify.com/track/0CVlP2QMGqr9kP527ay07S"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
         "name": "Reflections of My Life (Original Recordings)",
         "url": "https://open.spotify.com/album/0EqUTFinGsXnzcrp4KrrYp"
       },
@@ -6755,6 +6691,38 @@
       "duration_ms": 240426,
       "name": "Radancer",
       "url": "https://open.spotify.com/track/27ZGUuOfntQHn7CJ9VfA3t"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
+        "name": "Old New Borrowed and Blue (Expanded)",
+        "url": "https://open.spotify.com/album/2tsojrCRmZvHjeT6aoKQUP"
+      },
+      "artists": [
+        {
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+        }
+      ],
+      "duration_ms": 190493,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/3ODxqNMCSTQN9OCxL2qsfZ"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
+        "name": "Rockin' All Over The World",
+        "url": "https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "duration_ms": 285680,
+      "name": "Hard Time",
+      "url": "https://open.spotify.com/track/5NfhV14qa6TRCxvXBbn9j2"
     },
     {
       "added_at": "2022-11-17 15:37:46",
@@ -6775,18 +6743,50 @@
     {
       "added_at": "2022-11-17 15:37:46",
       "album": {
-        "name": "Rockin' All Over The World",
-        "url": "https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O"
+        "name": "Sladest (Expanded)",
+        "url": "https://open.spotify.com/album/4KITxQrMFcbvB84oOKHREf"
       },
       "artists": [
         {
-          "name": "Status Quo",
-          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
         }
       ],
-      "duration_ms": 285680,
-      "name": "Hard Time",
-      "url": "https://open.spotify.com/track/5NfhV14qa6TRCxvXBbn9j2"
+      "duration_ms": 195973,
+      "name": "Take Me Bak 'Ome",
+      "url": "https://open.spotify.com/track/6ZrvbIh78RvF4k6q104xun"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
+        "name": "Slayed? (Expanded)",
+        "url": "https://open.spotify.com/album/5HcAfRpsnnbZbLzDCOebXM"
+      },
+      "artists": [
+        {
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+        }
+      ],
+      "duration_ms": 212960,
+      "name": "Gudbuy T'Jane",
+      "url": "https://open.spotify.com/track/68opQKELwNwt8y7jw6MJvd"
+    },
+    {
+      "added_at": "2022-11-17 15:37:46",
+      "album": {
+        "name": "Old New Borrowed and Blue (Expanded)",
+        "url": "https://open.spotify.com/album/2tsojrCRmZvHjeT6aoKQUP"
+      },
+      "artists": [
+        {
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+        }
+      ],
+      "duration_ms": 251986,
+      "name": "The Bangin' Man",
+      "url": "https://open.spotify.com/track/6FSAsU5PcRTMSnJjO4NsEo"
     },
     {
       "added_at": "2022-11-17 15:37:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Uptempo jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,744 likes - 65 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,823 likes - 65 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 64 | [Philly Mignon \- Rudy Van Gelder 24\-Bit Remastering/2006](https://open.spotify.com/track/7hebpNg0ujU0zFZhNvgCJz) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Here To Stay](https://open.spotify.com/album/7mtewQM5RycRtEtGYAlLH5) | 5:28 |
 | 65 | [Just One Of Those Things](https://open.spotify.com/track/0zztrA9NQkQTz3OQiNljXR) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Cooker](https://open.spotify.com/album/47AT8h8Vc7LD3NIiNNC2Py) | 7:16 |
 
-Snapshot ID: `MCwzYzQyODcxNDJiMTJiNTFjZDlhNGVhMmM0YmQ4MGMxYTY0ZjExZjc0`
+Snapshot ID: `MCxjZWQ2NzhlOWE5YjE4ZDkwNTRhZTY3ZmI4YTdjODUyNWZmMTJlNWYw`

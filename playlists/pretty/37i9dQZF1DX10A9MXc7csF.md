@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Cash Bently
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,382 likes - 90 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,421 likes - 90 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 89 | [Días De Rose](https://open.spotify.com/track/3rof58ZLsWXv8qfu9HZy9i) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Días De Rose](https://open.spotify.com/album/2j9U19Dtq3yFmRGU2Xbnct) | 2:20 |
 | 90 | [cómo dormiste?](https://open.spotify.com/track/4gcVqUyT7lj281442LiBYV) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [cómo dormiste?](https://open.spotify.com/album/02HbzA9lAQTVWuLvaYuSj8) | 3:03 |
 
-Snapshot ID: `MCwwNzQzNTdlNDMxMjEwN2Q1NTBjYTlhNzc1Y2RlM2M2OTNmMjI1ODdk`
+Snapshot ID: `MCw5MmUyYTRkNjZmZjlhMmExZGFhNzk5ZWQxZTNkYmVkOGJjZWFmZGU0`

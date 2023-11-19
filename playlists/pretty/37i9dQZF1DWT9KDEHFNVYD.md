@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,227 likes - 100 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,236 likes - 100 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 99 | [Yatton](https://open.spotify.com/track/36yxfd27ta5REBlKPdkXPh) | [Beak>](https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6) | [>>](https://open.spotify.com/album/3IqkjByYoQX04iFT1Z2Jn7) | 5:19 |
 | 100 | [irradiated dream mouth](https://open.spotify.com/track/2PYURplSmYmIPT3yrFS557) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [Blood Drums](https://open.spotify.com/album/4GU8N1Ox4qcy2CMdQOT9wK) | 2:19 |
 
-Snapshot ID: `MCwyZDE2ZDIwNjRlMzA0NmUwZDE0Yzk3NDlkMTU4ZGRhZTVhNWM5Yjgw`
+Snapshot ID: `MCw2ZGU1NTljOWMwNGIxNjY4Y2ZjMWNmNTY4NDM4MDJmYjBhODQwNmQ4`

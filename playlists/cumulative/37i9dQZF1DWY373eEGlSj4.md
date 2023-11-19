@@ -2,7 +2,7 @@
 
 ### [70s Love Songs](https://open.spotify.com/playlist/37i9dQZF1DWY373eEGlSj4)
 
-> The most unforgettable love songs from the 70s.
+> Las canciones de amor inolvidables de los 70.
 
 166 songs - 10 hr 51 min
 
@@ -65,7 +65,7 @@
 | [I Write the Songs](https://open.spotify.com/track/12FZTFRyd4RBzvKf8RB0zO) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Tryin' To Get The Feeling](https://open.spotify.com/album/4vjtUQKNvFUftabjdTONcJ) | 3:55 | 2022-03-28 | 2022-07-15 |
 | [I'd Love You to Want Me](https://open.spotify.com/track/71CXzHYYOyNqgtVFpNdeCS) | [Lobo](https://open.spotify.com/artist/1sldhz8tzC100cRAdfnMht) | [Of A Simple Man](https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u) | 4:07 | 2021-12-27 |  |
 | [I'd Really Love to See You Tonight](https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Nights Are Forever](https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2) | 2:39 | 2021-12-27 |  |
-| [I'll Be There](https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Third Album](https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG) | 3:57 | 2021-12-27 | 2023-11-11 |
+| [I'll Be There](https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Third Album](https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG) | 3:57 | 2021-12-27 |  |
 | [I'll Never Love This Way Again](https://open.spotify.com/track/4V3AGIIQeJoBUPaTCLiscB) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Dionne \(Expanded Edition\)](https://open.spotify.com/album/77WC3SytwaxwNdzWPC1Jn9) | 3:31 | 2021-12-27 | 2023-06-01 |
 | [I'm Gonna Take Care of Everything](https://open.spotify.com/track/2oQrbdXoqN1nXxWNpMkLA9) | [Rubicon](https://open.spotify.com/artist/4k3iS4bsVsTi9dIq2ybtWK) | [Rubicon](https://open.spotify.com/album/2Be7RJy9EY4tQhkpfwanLF) | 3:29 | 2022-03-28 | 2022-04-15 |
 | [I'm In You](https://open.spotify.com/track/03zB9duFz1JqLxAIYvGdac) | [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [I'm In You](https://open.spotify.com/album/1yn9J074uklyngo5SGS49U) | 4:10 | 2022-03-28 | 2022-04-20 |
@@ -144,7 +144,7 @@
 | [Three Times A Lady](https://open.spotify.com/track/2uTGX4wxnRGS3i0FSOMGCQ) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Natural High](https://open.spotify.com/album/01xiIydpf1MyOg7DWDRF2N) | 6:38 | 2021-12-27 | 2022-07-29 |
 | [Time for Me to Fly](https://open.spotify.com/track/0cO7JEo8deKuQMWpDyjenY) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [You Can Tune a Piano, But You Can't Tuna Fish](https://open.spotify.com/album/3w0BIqN0uMoOT2l2ppKuXx) | 3:41 | 2022-03-28 | 2022-04-19 |
 | [Time in a Bottle](https://open.spotify.com/track/561F1zqRwGPCTMRsLsXVtL) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy) | 2:26 | 2022-03-28 | 2023-11-04 |
-| [Time in a Bottle](https://open.spotify.com/track/6FlNxt8Mw5ki0Ccjt2mNWJ) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [The Original Albums…Plus](https://open.spotify.com/album/0MJESR6xqCtsmM0CB4Pjlu) | 2:28 | 2023-05-22 |  |
+| [Time in a Bottle](https://open.spotify.com/track/6FlNxt8Mw5ki0Ccjt2mNWJ) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [The Original Albums…Plus](https://open.spotify.com/album/0MJESR6xqCtsmM0CB4Pjlu) | 2:28 | 2023-05-22 | 2023-11-19 |
 | [Time Passes On](https://open.spotify.com/track/1MxGA46FSVW2yLvJTGHwr3) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [Let There Be Music](https://open.spotify.com/album/5Qc4aewca50EzFMU4sc4Rz) | 3:35 | 2022-03-28 | 2022-04-18 |
 | [Torn Between Two Lovers](https://open.spotify.com/track/4VIpspaQ1frWWzTj8suyHR) | [Mary MacGregor](https://open.spotify.com/artist/6GlDsAkQHOmNgtUZdJ4Amq) | [Essential Memories Of Love](https://open.spotify.com/album/1EQEIZIv1DAyo62wmQlDhY) | 3:50 | 2021-12-27 | 2022-07-29 |
 | [Touch Me In The Morning](https://open.spotify.com/track/4sIkDCqNjTubfb5UVs8lEA) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Touch Me In The Morning](https://open.spotify.com/album/42cU6f6ei3kDi1KfN14EA7) | 3:27 | 2022-01-10 | 2022-06-25 |

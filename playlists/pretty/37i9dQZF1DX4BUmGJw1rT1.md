@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 
 > Kick back and relax after a hard day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,469 likes - 150 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,483 likes - 150 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 149 | [Oh Frustration](https://open.spotify.com/track/6wzjO71k5y5NLqOqQmnZDP) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Oh Frustration](https://open.spotify.com/album/0wvfEf0tnVJ0tf44k4AxVo) | 3:46 |
 | 150 | [Don't Be a Stranger](https://open.spotify.com/track/5t2IeNWSmf8gegtwVxrWIH) | [Matthew Curry](https://open.spotify.com/artist/7l2PJU1YHpVxat3wymK9J8) | [Don't Be a Stranger](https://open.spotify.com/album/0xKbwByE0EiKtl4RiaTqyJ) | 3:32 |
 
-Snapshot ID: `MCxkYmYzZDQyODdlMjQ1NDUzNzhiZDNhYTA2N2EwMTU5ZGY3NmIyOTY3`
+Snapshot ID: `MCw1ZmFjOGZiZTdjNjU5MjQ4ZDk1Njc1NzRiMTE0NDJjNWFjNWViNGVh`

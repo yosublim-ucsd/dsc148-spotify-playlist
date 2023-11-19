@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,353 likes - 350 songs - 13 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,513 likes - 350 songs - 13 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 349 | [stellar](https://open.spotify.com/track/03opga5exSy6dVnqj4aGsa) | [Chillide](https://open.spotify.com/artist/6k0mhNZbwZiBIXcihGHwn9) | [stellar](https://open.spotify.com/album/4NPCR8XYYNtqiA635xz9Yl) | 2:16 |
 | 350 | [skyline](https://open.spotify.com/track/5cz11JPM65o0TBrm6WRiN5) | [ozai](https://open.spotify.com/artist/39rqcB615LQYvtRQwiE5I7) | [skyline](https://open.spotify.com/album/632CFPvMfMQNb7jFQpaWZ0) | 2:07 |
 
-Snapshot ID: `MCw0MDk5YzQ5YjFhNWU2MDkyODAyYjAxODgwZmY4N2RkYjIwNDUzNTc4`
+Snapshot ID: `MCxkYjk5Y2Q4YjM0OWI5Y2QyOTgwNDJiZTBiZmYwMzliY2IxOTYyYjhm`

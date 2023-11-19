@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,184,294 likes - 300 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,184,523 likes - 300 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 299 | [Majorelle](https://open.spotify.com/track/7v6PGgl0ydBkTUxfkSmxPH) | [Valeu Irmao](https://open.spotify.com/artist/593de5y1o4gIflKTrMtxb4) | [Majorelle](https://open.spotify.com/album/4t4mpUMlt2X5r0og8RwnX4) | 1:47 |
 | 300 | [Living Rooms](https://open.spotify.com/track/3ah6FKGRz7ZM0xNY4olJUo) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Living Rooms](https://open.spotify.com/album/4bvCXtTAsxpT5e59oSt8z8) | 1:42 |
 
-Snapshot ID: `MCxlYzExM2JmNTc4Y2ExZjUyZDAxMjBiMWEyYjZhYTZiZDExMzQ3N2I2`
+Snapshot ID: `MCw3OTcwMjkzNDY3ZjgxMWViYTc1ODNmZWU3ZjQ1NjZkZjg3ZmM2YTg5`

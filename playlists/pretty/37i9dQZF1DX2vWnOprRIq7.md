@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 
 > El lado fluorescente del indie latino featuring Ivana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,791 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,792 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 | 99 | [Quisiera](https://open.spotify.com/track/25xiGoun0fxPlSy38quYPp) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Quisiera](https://open.spotify.com/album/6Ns3YZrjvWpC3WMktnzeGE) | 3:52 |
 | 100 | [Debilidad](https://open.spotify.com/track/3YJJtTITDvpaAqZmBR3Knj) | [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe) | [Debilidad](https://open.spotify.com/album/21pyXWvMYZ6OALRRsAt6IP) | 4:23 |
 
-Snapshot ID: `MCxlYWY4NjE2MDk2Mjg5MWUyZjVjZWRiODVlOWY3YzRiYzgzYTUwMWFh`
+Snapshot ID: `MCw3NWE5NjI0MzhhNmUxNzZjZDQwZDBkNDAzYjg1N2FlYmE2MjI4NWVh`

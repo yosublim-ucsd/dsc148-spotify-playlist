@@ -1,12 +1,12 @@
 {
   "description": "A playlist of some of our favorite new songs, updated weekly. See our archived playlists for songs from previous weeks.",
-  "num_followers": 9584,
+  "num_followers": 9593,
   "original_name": "BrooklynVegan Weekly Playlist",
   "owner": {
     "name": "BrooklynVegan",
     "url": "https://open.spotify.com/user/brooklynvegan"
   },
-  "snapshot_id": "NTcwOCw5YTUxNWMzZGY4ODkxMzg5NTYzZTk1NDRjOWRiYTcyNjBmZDY3Y2Zh",
+  "snapshot_id": "NTcyOSwyYjY4ZDJmY2QyNjgyNGE4M2FhZDUzZTI4NTI4NjY4MWE2MTc5MjE1",
   "tracks": [
     {
       "added_at": "2023-11-18 01:20:19",
@@ -151,6 +151,402 @@
       "duration_ms": 207600,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/4pRlMDGcRFNfdos2RIZdHR"
+    },
+    {
+      "added_at": "2023-11-18 01:25:48",
+      "album": {
+        "name": "Mystic Cord",
+        "url": "https://open.spotify.com/album/3jVi4YL9O4ZIoe7eFFJQKE"
+      },
+      "artists": [
+        {
+          "name": "Many Eyes",
+          "url": "https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Mystic Cord",
+      "url": "https://open.spotify.com/track/2gO2rwntCs0InXql4AOQTV"
+    },
+    {
+      "added_at": "2023-11-18 01:26:02",
+      "album": {
+        "name": "Creation and the Timeless Order of Things",
+        "url": "https://open.spotify.com/album/5cCJxQ0AkzqSrAUHCDq4Pc"
+      },
+      "artists": [
+        {
+          "name": "Racetraitor",
+          "url": "https://open.spotify.com/artist/6yAXqEeb1emyvzJFgYY7Yn"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Black Creek / Red River",
+      "url": "https://open.spotify.com/track/4j4WEh2Jnac9gX1IXmJl77"
+    },
+    {
+      "added_at": "2023-11-18 01:26:14",
+      "album": {
+        "name": "HeadSpace",
+        "url": "https://open.spotify.com/album/2YvlxeYiispMhbKHsrncK8"
+      },
+      "artists": [
+        {
+          "name": "H31R",
+          "url": "https://open.spotify.com/artist/2kAeDHyhTvvRY3zavI2Amr"
+        },
+        {
+          "name": "JWords",
+          "url": "https://open.spotify.com/artist/3IijBhV1c1mOVCyXO4RXiT"
+        },
+        {
+          "name": "maassai",
+          "url": "https://open.spotify.com/artist/6Cjn6Iu1NYSu1QsRzjSJTV"
+        }
+      ],
+      "duration_ms": 133500,
+      "name": "Big Bang",
+      "url": "https://open.spotify.com/track/0rwsDF4QrWzJ6NPaKF5162"
+    },
+    {
+      "added_at": "2023-11-18 01:26:27",
+      "album": {
+        "name": "Brand New Chanel Kicks",
+        "url": "https://open.spotify.com/album/6hhkrorDAK63EkCNs0S0Sx"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 229642,
+      "name": "Brand New Chanel Kicks",
+      "url": "https://open.spotify.com/track/0prAuFTSQwbptjREc7vWpH"
+    },
+    {
+      "added_at": "2023-11-18 01:26:43",
+      "album": {
+        "name": "The Aux",
+        "url": "https://open.spotify.com/album/6NpPnMbceqaLeqgTHUTxAh"
+      },
+      "artists": [
+        {
+          "name": "Blockhead",
+          "url": "https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b"
+        },
+        {
+          "name": "Bruiser Wolf",
+          "url": "https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67"
+        },
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        },
+        {
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
+        },
+        {
+          "name": "Despot",
+          "url": "https://open.spotify.com/artist/53biWpwSE0neKmFFdmpGd1"
+        }
+      ],
+      "duration_ms": 306612,
+      "name": "Now That's What I Call A Posse Cut Vol. 56",
+      "url": "https://open.spotify.com/track/3RQ9klGBsTp2m8RfRObWGd"
+    },
+    {
+      "added_at": "2023-11-18 01:27:08",
+      "album": {
+        "name": "The Chalice & The Blade",
+        "url": "https://open.spotify.com/album/2GoWT5QGn5IK1KjI9mi442"
+      },
+      "artists": [
+        {
+          "name": "Real Bad Man",
+          "url": "https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE"
+        },
+        {
+          "name": "YUNGMORPHEUS",
+          "url": "https://open.spotify.com/artist/5PUI10TbC61V7ypB2h8Vfy"
+        },
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
+        }
+      ],
+      "duration_ms": 274887,
+      "name": "Large Step! (feat. BLU)",
+      "url": "https://open.spotify.com/track/1jD9nWeng8H0aNR3itOgHM"
+    },
+    {
+      "added_at": "2023-11-18 01:27:23",
+      "album": {
+        "name": "LIFE AFTER NEPH",
+        "url": "https://open.spotify.com/album/6dw5EV8q9ZciQ3PRCtbTkM"
+      },
+      "artists": [
+        {
+          "name": "RXKNephew",
+          "url": "https://open.spotify.com/artist/5fLSo9mAFFDtAJDo3Q2xcT"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Valee",
+          "url": "https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Authority Figure (feat. Valee)",
+      "url": "https://open.spotify.com/track/0YFhRIIlp1odpsn7uqpar6"
+    },
+    {
+      "added_at": "2023-11-18 01:27:35",
+      "album": {
+        "name": "Don't Do Me Good",
+        "url": "https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 253613,
+      "name": "Don't Do Me Good",
+      "url": "https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W"
+    },
+    {
+      "added_at": "2023-11-18 01:27:49",
+      "album": {
+        "name": "Julie Byrne with Laugh Cry Laugh",
+        "url": "https://open.spotify.com/album/3qNzbf5hWzJcUCUKgmrmT6"
+      },
+      "artists": [
+        {
+          "name": "Julie Byrne",
+          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
+        },
+        {
+          "name": "Laugh Cry Laugh",
+          "url": "https://open.spotify.com/artist/5uTkXOALKTyIBOffC3tJIi"
+        }
+      ],
+      "duration_ms": 117786,
+      "name": "'22",
+      "url": "https://open.spotify.com/track/19OHPyeQ1W4JDNbHaxQkWc"
+    },
+    {
+      "added_at": "2023-11-18 01:27:59",
+      "album": {
+        "name": "Too True",
+        "url": "https://open.spotify.com/album/0HedQzOo9cFhW2LP0SoGhP"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "duration_ms": 237226,
+      "name": "Too True",
+      "url": "https://open.spotify.com/track/2HuZ5zQwJIYRVHXt5D43OS"
+    },
+    {
+      "added_at": "2023-11-18 01:28:09",
+      "album": {
+        "name": "Terres Infinies",
+        "url": "https://open.spotify.com/album/050amzgy8zTBupi0VwECjd"
+      },
+      "artists": [
+        {
+          "name": "Halo Maud",
+          "url": "https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs"
+        }
+      ],
+      "duration_ms": 199905,
+      "name": "Terres Infinies",
+      "url": "https://open.spotify.com/track/5i65FGqYq3cpeyCaKQjFC8"
+    },
+    {
+      "added_at": "2023-11-18 01:28:21",
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/23m55SjkjgCA4xFTgeQjs0"
+      },
+      "artists": [
+        {
+          "name": "Finnoguns Wake",
+          "url": "https://open.spotify.com/artist/5SgPWiHWFceF3qzuR68gIX"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/3B6bewW05ikcdHMfew1B5Q"
+    },
+    {
+      "added_at": "2023-11-18 01:28:31",
+      "album": {
+        "name": "Can't Believe We're Here",
+        "url": "https://open.spotify.com/album/21kuC8CVlZkz9UoquPEOXJ"
+      },
+      "artists": [
+        {
+          "name": "J Mascis",
+          "url": "https://open.spotify.com/artist/1PokjXeIq2zVosXbTEaNlx"
+        }
+      ],
+      "duration_ms": 238213,
+      "name": "Can\u2019t Believe We're Here",
+      "url": "https://open.spotify.com/track/6EwGSVvfTqgykrkExXCsQG"
+    },
+    {
+      "added_at": "2023-11-18 01:28:41",
+      "album": {
+        "name": "Fear of Living",
+        "url": "https://open.spotify.com/album/0Lbwg8CXpLpYOzQl1wMvSy"
+      },
+      "artists": [
+        {
+          "name": "The Lemonheads",
+          "url": "https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X"
+        }
+      ],
+      "duration_ms": 132463,
+      "name": "Fear of Living",
+      "url": "https://open.spotify.com/track/5F7OXERNgrTKMSPBh5aB3E"
+    },
+    {
+      "added_at": "2023-11-18 01:29:09",
+      "album": {
+        "name": "Better Way To Live",
+        "url": "https://open.spotify.com/album/5gXiWUFAEycihknbHFFRUM"
+      },
+      "artists": [
+        {
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+        },
+        {
+          "name": "Grian Chatten",
+          "url": "https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE"
+        }
+      ],
+      "duration_ms": 181289,
+      "name": "Better Way To Live",
+      "url": "https://open.spotify.com/track/1ifVrAQPH2DZ3FBFu48rFw"
+    },
+    {
+      "added_at": "2023-11-18 01:29:41",
+      "album": {
+        "name": "100lbs of Summer",
+        "url": "https://open.spotify.com/album/7sa48byf4uZNAvxsTMfyux"
+      },
+      "artists": [
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        },
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 229802,
+      "name": "100lbs of Summer",
+      "url": "https://open.spotify.com/track/4FQargWXizp7tX0q4pBoCp"
+    },
+    {
+      "added_at": "2023-11-18 01:29:58",
+      "album": {
+        "name": "Do This Right",
+        "url": "https://open.spotify.com/album/2snbrz5sj2bTWvprCmx6dH"
+      },
+      "artists": [
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/4NxTtZTeJqQ1n27i2qnPCe"
+        }
+      ],
+      "duration_ms": 348596,
+      "name": "Do This Right",
+      "url": "https://open.spotify.com/track/2TQOzVHI1Rp1uWwYLxxec4"
+    },
+    {
+      "added_at": "2023-11-18 01:30:09",
+      "album": {
+        "name": "Crashing Through",
+        "url": "https://open.spotify.com/album/0M64PelFgrQAN5hnkB3vMi"
+      },
+      "artists": [
+        {
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+        }
+      ],
+      "duration_ms": 223771,
+      "name": "Crashing Through",
+      "url": "https://open.spotify.com/track/3KO92UFKrYFiPxC7Je8vop"
+    },
+    {
+      "added_at": "2023-11-18 01:30:20",
+      "album": {
+        "name": "Can We Just Get High?",
+        "url": "https://open.spotify.com/album/3WuvVJiKeP4XMNouE25KWL"
+      },
+      "artists": [
+        {
+          "name": "Carpool",
+          "url": "https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit"
+        }
+      ],
+      "duration_ms": 172893,
+      "name": "Can We Just Get High?",
+      "url": "https://open.spotify.com/track/3H7W6oVFTRBqrsiQvSVYCy"
+    },
+    {
+      "added_at": "2023-11-18 01:30:30",
+      "album": {
+        "name": "Nothing Lasts",
+        "url": "https://open.spotify.com/album/6M1nzngMNVdFEd5G4vaCGo"
+      },
+      "artists": [
+        {
+          "name": "Emily Yacina",
+          "url": "https://open.spotify.com/artist/50oMAfElZgbElx2ktukv47"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "Nothing Lasts",
+      "url": "https://open.spotify.com/track/67e8iug4iZ5MostXypvN8Z"
+    },
+    {
+      "added_at": "2023-11-18 01:30:45",
+      "album": {
+        "name": "New Blue Sun",
+        "url": "https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "duration_ms": 740010,
+      "name": "I swear, I Really Wanted To Make A \"Rap\" Album But This Is Literally The Way The Wind Blew Me This Time",
+      "url": "https://open.spotify.com/track/1lbjDy6IIerHFGZWKG0hno"
     }
   ],
   "unique_name": "BrooklynVegan Weekly Playlist",

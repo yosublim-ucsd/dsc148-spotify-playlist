@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,311 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,335 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 74 | [Te Ver De Novo](https://open.spotify.com/track/71BEEPY7pGaNUXZdu9xIYd) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny) | [Te Ver De Novo](https://open.spotify.com/album/1fkSMux23otinTEAs2eJCI) | 2:48 |
 | 75 | [Sprite](https://open.spotify.com/track/4LBGvXXBZEMgDK8KZ8xvAT) | [Lil Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An) | [Sprite](https://open.spotify.com/album/0E2Ve4GAqe2UPjVnAjBj0d) | 2:07 |
 
-Snapshot ID: `MCxhMDViM2EwYzgyNWZhNWZmNTdhNGRmNGZmOTRlZTUwNGI1ZjJkYjlk`
+Snapshot ID: `MCwxZGEzOGExY2Q4YmJiMTZmOGJlYjM1MTA1OTkzYWZjOGIzYjU2MGUw`

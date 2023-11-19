@@ -1,12 +1,12 @@
 {
   "description": "Meet the future. New artists on the horizon.",
-  "num_followers": 57122,
+  "num_followers": 57131,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGNkOWQzOGI4ZDVlZTc3NzRjMmEyZDJmMDI2Yzg3ODQyZjY5Mzdi",
+  "snapshot_id": "MCwyZTk4Nzk1NzRiZDAzMjMyNTNiOTBhMmMxN2VjMzg4MjIzYzJkNjY4",
   "tracks": [
     {
       "added_at": "2023-10-05 08:01:42",
@@ -358,6 +358,10 @@
         {
           "name": "Young Leosia",
           "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        },
+        {
+          "name": "SecretiveSuicide",
+          "url": "https://open.spotify.com/artist/16VLZykOWwmhqR60Y5n2z9"
         }
       ],
       "duration_ms": 142857,
@@ -1347,7 +1351,7 @@
     {
       "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "R\u0103ng Kh\u00f4n (feat. RIN9)",
+        "name": "R\u0103ng Kh\u00f4n (feat. Rin9)",
         "url": "https://open.spotify.com/album/2I6WOVWFnwifUUBgedQt6j"
       },
       "artists": [

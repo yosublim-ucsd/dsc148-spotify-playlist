@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 
 > A calm and cosy classical soundtrack to all activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,978 likes - 120 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,174 likes - 120 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTi57LiHYTmH.md) - [plain]
 | 119 | [丹尼男孩](https://open.spotify.com/track/21Fs9UuXGoESVVESdWTxZ5) | [Xuefei Yang](https://open.spotify.com/artist/0HTpLUNPRxYfmKRrnluHfq) | [Danny Boy](https://open.spotify.com/album/1vl3OBKPjKIeu4BhOrrPo6) | 3:32 |
 | 120 | [For Children Vol\. 1, Sz\. 42: No\. 3 Quasi adagio](https://open.spotify.com/track/2b12Hb86ANOA56DvXXHao6) | [Béla Bartók](https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd), [Lars Vogt](https://open.spotify.com/artist/3xYzk2kbx3IEGo2YPeoggv) | [Larcher, Schumann & Bartók…For Children](https://open.spotify.com/album/0Pjj3RQJOAxMk26duV8NEP) | 0:56 |
 
-Snapshot ID: `MCw0YjczZWI5MjJkZTdlNGYwYWM5ZjFlZTY1NjE0YjYwNzk3ZTNkMmZj`
+Snapshot ID: `MCxlMDc4OWJmNmNmNGM3NTNkNWFjMTJhNTEyZDI5OTc4MTA3NGEyOTIz`

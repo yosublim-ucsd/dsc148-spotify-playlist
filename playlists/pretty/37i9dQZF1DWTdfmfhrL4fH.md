@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdfmfhrL4fH.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,593 likes - 200 songs - 12 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,736 likes - 200 songs - 12 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTdfmfhrL4fH.md) - [plain]
 | 199 | [Under Your Scars](https://open.spotify.com/track/1OiXUeNy6dZyfocJSei4Xz) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9) | 3:51 |
 | 200 | [Vicious Love \(feat\. Hayley Williams\)](https://open.spotify.com/track/2y8FLV6pZI3YH1GyiaRp35) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Resurrection: Ascension](https://open.spotify.com/album/7cmMT5imIjUt7RGKpIc1uk) | 3:17 |
 
-Snapshot ID: `MCxhOGE5YTcyY2QwMzcwMTc0NjNiMjUxOGUxZDYyYmU4MzhmMDdiNmZl`
+Snapshot ID: `MCxkYzRjMjhlYWY1NzY1MGNhZDY3YWNlZjk0MzgzMGY3OGM2NjA0ODU4`

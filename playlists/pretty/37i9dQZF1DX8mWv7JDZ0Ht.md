@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Melim
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,270 likes - 90 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,289 likes - 90 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 89 | [Absorvendo Tudo](https://open.spotify.com/track/5Ppn6TF1mFx5hEiRpjxEfY) | [Cruvinel](https://open.spotify.com/artist/2TUCCtskhrTEMAAGyQaBaW) | [ABSORVENDO TUDO](https://open.spotify.com/album/4LE3dTrNjyxSWqk7pHjFZv) | 2:35 |
 | 90 | [Quero te dar meu coração](https://open.spotify.com/track/45CeAFE1Y3uVQanrbcz6kh) | [uma Póvoas](https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx) | [Coração/Movimento](https://open.spotify.com/album/7vcOFM1SoQ3cDiZBS2ME1T) | 3:07 |
 
-Snapshot ID: `MCw4ZTAwOTljZjBmZDYwNDA2NWExYWU3OGM4ZmUwOTNiOWY0MjgyNDYw`
+Snapshot ID: `MCxiN2U4ZTg5YTNiZGM5OTE3Y2M3OTNlZjgzM2M3ZTlhMTAyNDIyODQz`

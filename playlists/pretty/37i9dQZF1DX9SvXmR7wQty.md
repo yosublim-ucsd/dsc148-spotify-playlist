@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Rau\_Ze
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,061 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,092 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 49 | [Un morceau de Sicre](https://open.spotify.com/track/2a3cTxYAOm6O2VRTQj8qxl) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Un morceau de Sicre](https://open.spotify.com/album/7LEv9OJgjyFBLqevLi6NvO) | 4:02 |
 | 50 | [Sors de ma tête](https://open.spotify.com/track/4BnQTLTcrxxt9eUCZC4pQS) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Sors de ma tête](https://open.spotify.com/album/4nbLihTCtdsd0WIRyzq7nL) | 2:50 |
 
-Snapshot ID: `MCw2OTJmN2U4YzBlNWJhMWQ1MWJhOTQ2ZmMyY2RmMDUwNGMwM2E3NDgy`
+Snapshot ID: `MCwwM2E4MzRlMWZkNWM5YmQ4MzgzZmZmOTRkZDkwZGFjYTc2ZjYzYWIx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,064,418 likes - 125 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,064,469 likes - 125 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 124 | [The Game](https://open.spotify.com/track/6ixRbuonm6wfA9gWVzDDGP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Mind The Moon](https://open.spotify.com/album/39EHgpDs6VgKlx0RY0E37J) | 3:33 |
 | 125 | [Rollin' \(with Eli Mac\)](https://open.spotify.com/track/7KgeB13kf4VXVEOT4AVtBX) | [Through The Roots](https://open.spotify.com/artist/3kXFPAfFzG0LrudmtGM6Yc), [Eli\-Mac](https://open.spotify.com/artist/0Uze78PydtvTNQWhU7TVJK) | [Departure](https://open.spotify.com/album/1hVbu9jTKeMS477FLE8tX5) | 3:15 |
 
-Snapshot ID: `MCxiOTNiOTc1OGM0MmJlZWVlMjE5NDBjYzhlZWZjODgwNDdjYjE4ZjAz`
+Snapshot ID: `MCwwN2E3MGRkNGNiNGM4NTk0MjBmMjNjMjI3ZjI5NjRlMjBkMTM4Mzc0`

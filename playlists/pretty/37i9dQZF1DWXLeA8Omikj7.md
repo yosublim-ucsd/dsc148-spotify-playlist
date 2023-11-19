@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,672,411 likes - 150 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,672,605 likes - 150 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 149 | [The Letter](https://open.spotify.com/track/0qtzX6ymRSirdMI0GKT4dr) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Letter EP](https://open.spotify.com/album/0pDU80aYAzmj4FsJ9916ke) | 3:55 |
 | 150 | [cheated](https://open.spotify.com/track/1EuTegwrStmrua9JUtg6EK) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [cheated](https://open.spotify.com/album/2mfDkNurewVsH4q3ieTnIE) | 1:54 |
 
-Snapshot ID: `MCxjMzZjMzRhM2Q4YTEwZDQwNWQzM2I2MWM1YTg0YjkwZDQxYjZmYWEw`
+Snapshot ID: `MCxmZTQ0MTUzYTZjMGY4YTFkYzIxZDllNWQ4MWMyNzE2MzAxY2I4YjQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: SleepyThePrince.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,855 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,866 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 19 | [STEP / ME OR SUM FREESTYLE](https://open.spotify.com/track/71cVW3oDzFab0TGD0qpW6e) | [Russo](https://open.spotify.com/artist/2rxNBCnHbDhAbPpxRlGlYC) | [DARK HOURS](https://open.spotify.com/album/3UTzqYgsmY88mEWZ7M5APx) | 3:26 |
 | 20 | [Paradoxo](https://open.spotify.com/track/0VVU6WXpkDjtuRQDwSUfMZ) | [Rudy21](https://open.spotify.com/artist/7BJNlefzGMxapgQy6XvZBf) | [Paradoxo](https://open.spotify.com/album/0aZYc9gXKNSDGNaaELACtM) | 2:35 |
 | 21 | [Van Gogh](https://open.spotify.com/track/7vuQaRKkS3XnqaiA1x6Azj) | [B3L2](https://open.spotify.com/artist/6KUYblbSpjuGjZvTXpUUEn) | [Van Gogh](https://open.spotify.com/album/0svG6ftjJMgB0IboVnIIRP) | 3:00 |
-| 22 | [No Tempo Certo](https://open.spotify.com/track/6RHX41nmzyBWV64rZnlfjV) | [Black Spygo](https://open.spotify.com/artist/7ib3B3sbe0eHW1lkGVcl6S), [Altifridi](https://open.spotify.com/artist/5EDJuUceEPf5Lzw4DviGv1), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ) | [No Tempo Certo](https://open.spotify.com/album/2yjDo4avJY1QCOKP6OnsiO) | 3:34 |
+| 22 | [No Tempo Certo](https://open.spotify.com/track/6RHX41nmzyBWV64rZnlfjV) | [Black Spygo](https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY), [Altifridi](https://open.spotify.com/artist/5EDJuUceEPf5Lzw4DviGv1), [Black Vision](https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ) | [No Tempo Certo](https://open.spotify.com/album/2yjDo4avJY1QCOKP6OnsiO) | 3:34 |
 | 23 | [Brinde](https://open.spotify.com/track/7dtA0TEVphAkeXfqgRxls4) | [Bless](https://open.spotify.com/artist/7G3cc4g02s4aGoY30P8dIG) | [No More Drama](https://open.spotify.com/album/6lY25ZQtrUZPxGW6afyL0b) | 3:52 |
 | 24 | [Oh Baby](https://open.spotify.com/track/1EtihF6nnTFcGb30oXi1mV) | [Lójico](https://open.spotify.com/artist/6PRzGdn4WO9juMXyq2QRBw) | [Oh Baby](https://open.spotify.com/album/7AUx6TcWshZUdwdMfqoCeh) | 3:26 |
 | 25 | [Sid](https://open.spotify.com/track/2JljRsj1lefrSh5Uz0kJEB) | [UFF RAH](https://open.spotify.com/artist/6gp3V8ucRrAH4wK2kWGCA6) | [Sid](https://open.spotify.com/album/4X2ERJrE1qOCwK9Xe5lEvR) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [Folhas](https://open.spotify.com/track/0JUe2TfB22ZCuBTTApHmaJ) | [C57](https://open.spotify.com/artist/3A3a9O9OLay8KocxjNKlyP) | [Folhas](https://open.spotify.com/album/5bVTGRPPJSP8nefRraYIp8) | 3:34 |
 | 100 | [Level Up](https://open.spotify.com/track/41lbOjJ8ut4YSj1CTdKI40) | [Hevvy x Fukk](https://open.spotify.com/artist/4oKS5QR0v9JXTP3oG78WpJ) | [Level Up](https://open.spotify.com/album/1V4NIooFw5D0hbv6oie8RH) | 2:53 |
 
-Snapshot ID: `MCw0N2VkYjQ1YjY0ZjQ5YTFkOGQ2MjM3N2Y0ZjlkM2E4MmQxNTAyNjkz`
+Snapshot ID: `MCw2ZjcxMWMxZmNhNjk0ZjYxODY4MjJlZjFhY2RlNmZmOWMxMmI5Yzhi`

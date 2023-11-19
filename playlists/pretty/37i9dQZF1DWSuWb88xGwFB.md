@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,114 likes - 75 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,154 likes - 75 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 74 | [Just Us \(B.O.P\. Radio Joint\)](https://open.spotify.com/track/30LrxBxBgJl2x4EQNVAEm2) | [Joey Washington](https://open.spotify.com/artist/24Pdayi4BAMrgqWVOdhojJ), [The Men's Club](https://open.spotify.com/artist/58lQYKHylrFHj6VrCsqpB6) | [Just Us](https://open.spotify.com/album/73ReUfZDgkbWOWWzUuqnH7) | 3:47 |
 | 75 | [The Bombero Remix 96](https://open.spotify.com/track/1uApzgJThhGdsQgIe8kud4) | [RBM](https://open.spotify.com/artist/5xIJpFh1VA7BD7uJSuWnGo) | [Straight from the Bario EP](https://open.spotify.com/album/6h4R4lF6pLr6ZxtyKcaG9J) | 6:09 |
 
-Snapshot ID: `MCw0MDA3NzYwZTQ4YzVmMjNmMWYzM2ZjNDA5NDU0MjdjZGU3OGVlNmYz`
+Snapshot ID: `MCxiZTU4MzM5OTYzNGQ3MzE2NjcxZDViMTEzM2I2Mjg1NjEyMmNlN2Ji`

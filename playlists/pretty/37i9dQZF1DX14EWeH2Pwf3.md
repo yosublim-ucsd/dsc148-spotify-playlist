@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Sfera Ebbasta
 
-[Spotify](https://open.spotify.com/user/spotify) - 902,383 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,428 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [Calma \(feat\. Neima Ezza\)](https://open.spotify.com/track/1845mbE4B3oG3WtAMZCapo) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [OFFLINE](https://open.spotify.com/album/4QjJhfVACjKRN34TYYSDAE) | 2:30 |
 | 50 | [GRAMMELOT](https://open.spotify.com/track/0QZYznuUxIPXs7gY8CPvS4) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [The Globe](https://open.spotify.com/album/0Wp32iRbmSA3VvGZmAYjDv) | 1:36 |
 
-Snapshot ID: `MCwyMWVmZWYwMDVlM2VmYTU1YTBlOGVmOWYzNjJmOTMxMmVkNzMxOTg5`
+Snapshot ID: `MCw3MGJhOTk1MDJlZTEwYTljYmFmYTI3NDQzNDA3NDdiNzIwNjljY2Jk`

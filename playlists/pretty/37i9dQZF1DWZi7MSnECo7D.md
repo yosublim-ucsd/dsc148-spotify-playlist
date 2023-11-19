@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Bruno Berle
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,185 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,195 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 14 | [Tarde](https://open.spotify.com/track/7pySQ7DJISRKepvNV8YxFN) | [clara bicho](https://open.spotify.com/artist/40FLeMjObSRuLxId2AreLK) | [Tarde](https://open.spotify.com/album/2BxpdeCcDeJgl8l47ZoZgI) | 2:44 |
 | 15 | [Sons de Ressaca](https://open.spotify.com/track/09XaMGIkBWLHcT3XyebY2l) | [Sergiopí](https://open.spotify.com/artist/1AJbMS0MpfiNzTu0Kf4fOF) | [Sons de Ressaca](https://open.spotify.com/album/4cNYdRqB7KPs0xmlo9onet) | 2:49 |
 | 16 | [Quem vai apagar a luz](https://open.spotify.com/track/17o3WyVnuZB0YtvQ6zjNMG) | [Sophia Chablau e Uma Enorme Perda de Tempo](https://open.spotify.com/artist/7EjCIhe3BMNZIBBNn1n3Uj), [Negro Leo](https://open.spotify.com/artist/6UKn12Sg5H3SyiFX5GalB6) | [Música do Esquecimento](https://open.spotify.com/album/3SjN7O4XsEYEuyddLFKXpb) | 2:39 |
-| 17 | [CAVALO](https://open.spotify.com/track/3h2YpdVlkVr8nwKZ1pLqUm) | [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL), [Rapaz de Dread](https://open.spotify.com/artist/3yd4d5odazAK6SPwYCNHCR) | [CAVALO](https://open.spotify.com/album/6kYxoYEPkf29cET8FPHqGI) | 3:43 |
+| 17 | [CAVALO](https://open.spotify.com/track/3h2YpdVlkVr8nwKZ1pLqUm) | [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [CAVALO](https://open.spotify.com/album/6kYxoYEPkf29cET8FPHqGI) | 3:43 |
 | 18 | [Melhor Assim](https://open.spotify.com/track/6Hs1FeGfpsSvgoMKyS7Ggx) | [Papisa](https://open.spotify.com/artist/0DvW5foWWFUfe8xHEtPtNE) | [Melhor Assim](https://open.spotify.com/album/2YK1qx4izgB5Wpij68Ig7c) | 2:40 |
 | 19 | [puro osso](https://open.spotify.com/track/7v7Nd6owrtzpCuSttYrrfp) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [puro osso](https://open.spotify.com/album/5fr6TVmir3T7hUCQWZWUw0) | 3:37 |
 | 20 | [Trincheira Nº 02](https://open.spotify.com/track/6QmfwUIedEkpYkzTyAPX5s) | [Jovelina](https://open.spotify.com/artist/3rP3sEmSvjXrlZzcujVzEY) | [Trincheira Nº 02](https://open.spotify.com/album/4kC2HnOGtisWp4pVtSNevg) | 3:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 74 | [Tô Bem Sozin](https://open.spotify.com/track/4e5wyWT8OKRkZfrXvoluDd) | [Fxbricio](https://open.spotify.com/artist/7G28rKG3ECA7Pt6HFs54ZB), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Tô Bem Sozin](https://open.spotify.com/album/69TH1pWebxqDKWcjCqKSWO) | 3:48 |
 | 75 | [Desabriga](https://open.spotify.com/track/4lZACQsjOZo5XxwUBK3KW2) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [Desabriga](https://open.spotify.com/album/60jnx3HvluMJu7Q0G3xIw3) | 3:05 |
 
-Snapshot ID: `MCxiZGQxYWQzMTk3Y2FjZTk3ZWZlOWEzZjUxM2ZlMzdjZjhiYzJlNDFl`
+Snapshot ID: `MCw5OTdlOTYxMDlkNzkwN2I0MDQ0OTA5ZDhhNjY0Mjk0ZWY3NjY1NjUw`

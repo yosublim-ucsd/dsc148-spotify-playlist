@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Banda MS de Sergio Lizárraga y Gloria Trevi en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,141,348 likes - 125 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,141,567 likes - 125 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 124 | [A Como Yo Lo Veo](https://open.spotify.com/track/2M96oj1hBrNEIz8R1FLuQC) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [A Como Yo Lo Veo](https://open.spotify.com/album/3NPPmTpVZH4yed40Ffrf6C) | 3:17 |
 | 125 | [A La Inversa](https://open.spotify.com/track/3ZfCRzL47DhOYyFfDThd9j) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [A La Inversa](https://open.spotify.com/album/4iWRJOClu9BdSjuea9K3o8) | 3:30 |
 
-Snapshot ID: `MCxlY2U3NjY1OTQ2ZjNkMWQ3ODdiNTY3MDYxOGE5NzhkOWY1NDg0YTMy`
+Snapshot ID: `MCwyOTU5ZmQ4NTdkOWFkYzc1MWNlNGNmMzhjYTVmODE4Nzk3YTlhMmUw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Danny Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 947,250 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 947,274 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [Dolla n' A Dream](https://open.spotify.com/track/64lW9PI1BvpMyN7Zj6hVGF) | [Langston Bristol](https://open.spotify.com/artist/06gQAoURCBTZrRk850fP16) | [Dolla n' A Dream](https://open.spotify.com/album/4XqXVhJb1HxegCcaJJyr2L) | 1:26 |
 | 100 | [aorta](https://open.spotify.com/track/7IBxi4jju9JTSE3s41904R) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [2MORE](https://open.spotify.com/album/78gh9A7ti6abCaTZiHK0rV) | 2:11 |
 
-Snapshot ID: `MCxlYjFmZDhlOGI2OTgyOWU1MmVjMDk4MDNmMmIxYmVlMTM3NjE4MTAx`
+Snapshot ID: `MCxiN2ViNThmOWZiNDA1NDBhOTgwYzE3YWQwM2ZjN2Q0MGU5M2QyYTcw`

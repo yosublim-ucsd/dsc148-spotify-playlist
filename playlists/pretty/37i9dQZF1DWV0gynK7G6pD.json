@@ -1,12 +1,12 @@
 {
   "description": "Updated every Friday with the very best classical new releases. Cover: Stephan Moccio",
-  "num_followers": 695278,
+  "num_followers": 695434,
   "original_name": "Classical New Releases",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjRhMTdlYjVjMjBiM2VkOTU1MzJkZDIyNDVmNzFjNmRiNWM4YzNh",
+  "snapshot_id": "MCw2ZjNkNjRhMjQ0YTk0ZTA3ZGI5MWFhYjM2NDg4NjZkNWJhMjRjMDk3",
   "tracks": [
     {
       "added_at": "2023-11-17 04:00:00",
@@ -748,10 +748,6 @@
       },
       "artists": [
         {
-          "name": "Trewin Howard",
-          "url": "https://open.spotify.com/artist/4ZnRDCNzprLnFthlubZxEO"
-        },
-        {
           "name": "Phoria",
           "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
         }
@@ -894,6 +890,10 @@
         {
           "name": "Library Tapes",
           "url": "https://open.spotify.com/artist/2ojlS7imGFiZ8A8tXXGEt7"
+        },
+        {
+          "name": "Julia Kent",
+          "url": "https://open.spotify.com/artist/2YJXo1ERQAO7r4hQtu2vFc"
         }
       ],
       "duration_ms": 154086,

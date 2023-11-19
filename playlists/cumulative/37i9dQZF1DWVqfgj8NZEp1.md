@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-299 songs - 1 day 3 hr 39 min
+300 songs - 1 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,8 @@
 | [Naima](https://open.spotify.com/track/0D5PNTs1HSYe2nHlHulJQw) | [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d) | [Giant Steps](https://open.spotify.com/album/1mws5azyWvnyPkaNZEDGa4) | 5:02 | 2020-10-09 | 2022-08-30 |
 | [Nancy \(With the Laughing Face\)](https://open.spotify.com/track/2l9lJ9HxxXyGilNIjTdO3j) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6), [Håkan Broström](https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB) | [Lovers Moment \(Håkan Broström Meets Carl Winther Trio\)](https://open.spotify.com/album/05X006nJQ0J6aEIg4dw6Ig) | 4:50 | 2022-04-14 |  |
 | [Naoko](https://open.spotify.com/track/0pH2mn7degF1qlAYpLubbi) | [Sebastian Gahler](https://open.spotify.com/artist/3CfwkW9rDM1yyEuPRRBG5W) | [Two Moons](https://open.spotify.com/album/5WqSroZVa6CgzK1vClUSYc) | 6:23 | 2022-09-08 |  |
-| [Never Let Me Go](https://open.spotify.com/track/6VC6di6QOdHb4D9nxrufra) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Never Let Me Go](https://open.spotify.com/album/5VrAw3xklXBNIGVelKK2pG) | 5:23 | 2023-10-13 |  |
+| [Never Let Me Go](https://open.spotify.com/track/2LHIAzCOGGrtcVS9PRcx3n) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Everything I Love](https://open.spotify.com/album/6dXuEdo9u0rM102nuJcf4p) | 5:23 | 2023-11-15 |  |
+| [Never Let Me Go](https://open.spotify.com/track/6VC6di6QOdHb4D9nxrufra) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Never Let Me Go](https://open.spotify.com/album/5VrAw3xklXBNIGVelKK2pG) | 5:23 | 2023-10-13 | 2023-11-19 |
 | [New Morning](https://open.spotify.com/track/4aUrYkpfMzm2DVfG1Pplzk) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [New Morning](https://open.spotify.com/album/6svNUeo9s8K04JPAjdB7b5) | 9:30 | 2020-10-09 | 2022-07-29 |
 | [New Morning](https://open.spotify.com/track/6PrCAWVkTyq9tWBCjX1MDx) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [Everybody Gets the Blues](https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N) | 9:30 | 2022-06-30 | 2022-09-07 |
 | [No More Shadows \- Remastered 2019](https://open.spotify.com/track/57V00mGqAIgnxjZGiAG8lE) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Closeup in Swing \(Octave Remastered Series\)](https://open.spotify.com/album/0aRjwRazZAc77hndjCWVMR) | 4:07 | 2021-12-03 | 2022-03-11 |

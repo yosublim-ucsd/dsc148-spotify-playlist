@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:11Y54BxlxC3UIAUkU2eadQ">Rend Collective</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,600 likes - 99 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,729 likes - 99 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 16 | [For The Most Part](https://open.spotify.com/track/0S984hI9izkbO8tPDcDnKB) | [Sophia Rebekah Mitchell](https://open.spotify.com/artist/2XimxgriE1gR4uUpEEdV4f) | [For The Most Part](https://open.spotify.com/album/4pYrIfrNW8Md5VJzkNp3D6) | 3:19 |
 | 17 | [Jesus Doesn't](https://open.spotify.com/track/20DoDdzOzDP2kbtLT8DTZT) | [Rachel Mac](https://open.spotify.com/artist/3pB8QIJumrdCSnV2IvhrFz) | [Jesus Doesn't](https://open.spotify.com/album/5pyJ6MGljscwSvuRd80hyP) | 3:32 |
 | 18 | [O God Would You Move \- Live](https://open.spotify.com/track/1GqEu22u4IVKGHADVRbqZy) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Rich & Lydia Dicas](https://open.spotify.com/artist/2sEjWVN7e55lGoxddfXAaY) | [O God Would You Move \(Live\)](https://open.spotify.com/album/2dvv7lVsstHUhtWM1jATHA) | 5:29 |
-| 19 | [In Here \- Studio](https://open.spotify.com/track/0NrIB77mMOexkQbzEYwrd7) | [Isaiah Roberts](https://open.spotify.com/artist/6bwqsxhkLewp1LocvpL2ec) | [In Here \(Studio\)](https://open.spotify.com/album/5RDMpyebVVP4deEhZKdla6) | 2:57 |
+| 19 | [In Here](https://open.spotify.com/track/0NrIB77mMOexkQbzEYwrd7) | [Isaiah Roberts](https://open.spotify.com/artist/6bwqsxhkLewp1LocvpL2ec) | [In Here \(Studio\)](https://open.spotify.com/album/5RDMpyebVVP4deEhZKdla6) | 2:57 |
 | 20 | [Seasons](https://open.spotify.com/track/2d91MUJiavRagY7PUretsu) | [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm), [Jordan Lee](https://open.spotify.com/artist/40xvO3x72SKwtPWtM1VoOn) | [Seasons](https://open.spotify.com/album/6hYjD7rkxdYEiHiU2n0I02) | 4:09 |
 | 21 | [King Of All The Nations / We Fall Down \- Live](https://open.spotify.com/track/06PdKGYoayZpkyfvdFln0Q) | [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [King Of All The Nations / We Fall Down \(Live\)](https://open.spotify.com/album/2tsJzxplKBuydKAMhL6LoM) | 5:32 |
 | 22 | [Different \- Live at Mosaic, Los Angeles, 2023](https://open.spotify.com/track/3tSN0n75qQRw3SyCo6u0P9) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Different \(Live at Mosaic, Los Angeles, 2023\)](https://open.spotify.com/album/28geG9hJyX8JtkEqDLTyow) | 6:45 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [Make It Out \(From "Bad Things Happen In Philadelphia"\)](https://open.spotify.com/track/6jE9tkuIHU1Ggo2GAAure5) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Make It Out \(From "Bad Things Happen In Philadelphia"\)](https://open.spotify.com/album/6lRoiB35gfnd3zOyxO9x4X) | 2:39 |
 | 99 | [Against The Cosmic Powers](https://open.spotify.com/track/1vIfI3Oy2OvXG3KWkSWBHy) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5), [EmanuelDaProphet](https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC) | [Against The Cosmic Powers](https://open.spotify.com/album/0bCphzyujUHkBHvzNAsmG4) | 2:41 |
 
-Snapshot ID: `MCwzOTJmNWZkYzdkM2Q0ZjBmZjk0YTNjZjUxZDAzZWZkZjVhYTdkMjNh`
+Snapshot ID: `MCxmYzIxY2E4NGJiNWU1ZDYwNWZjYjM3YWI5NWRhNTJlY2JkZGFlZjE3`

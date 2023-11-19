@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Foto: Daddy Yankee
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,141 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,205 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 49 | [Muchacho Malo Power](https://open.spotify.com/track/1mXTmIpSaeltrNv2vFcf1i) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Tañón Con Más Power](https://open.spotify.com/album/2UBiosbTlCo6McyCCcO8ko) | 3:43 |
 | 50 | [TunTunTun \- Spotify Singles](https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy) | [TunTunTun \(Spotify Singles\)](https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK) | 3:06 |
 
-Snapshot ID: `MCxlOTY4M2E1MjE0NGYwMDc2MjA3ZDMyNzliODNhZGY0OWY0NGRiOTc2`
+Snapshot ID: `MCxmNmFjNWZjYjdhYTQ1OWYxNWYyN2E0NTYxZmMyNTVmNDExYmY3MTE5`

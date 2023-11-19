@@ -4,7 +4,7 @@
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-166 songs - 10 hr 29 min
+167 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [Strangers in the Night](https://open.spotify.com/track/4oulAJLw1DSMKERkIQDFG8) | [Jade Vieira](https://open.spotify.com/artist/62u2ks7IGeMOqkSLCAaLHK) | [Strangers in the Night](https://open.spotify.com/album/6QGyGBnji7UQ2ZHeV6vZRs) | 2:50 | 2022-04-26 |  |
 | [Sunset over Recife](https://open.spotify.com/track/6DpJVrfkJ72jTE4MlrDObl) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Sunset over Recife](https://open.spotify.com/album/17O83pna4zn9zjWai235PZ) | 2:45 | 2023-08-10 |  |
 | [Só Tinha de Ser com Você](https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806) | [Joao Silva Oliveira](https://open.spotify.com/artist/2H9tPIniwpdz9EvKYvRKFq) | [Só Tinha de Ser com Você](https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n) | 3:58 | 2022-04-26 |  |
-| [Tangeri](https://open.spotify.com/track/0iBFfy3N8H4vOKXrC85DE9) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [Tangeri](https://open.spotify.com/album/12VCI8zliAWBO1nZNb4KQs) | 4:44 | 2023-08-10 |  |
+| [Tangeri](https://open.spotify.com/track/0iBFfy3N8H4vOKXrC85DE9) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [Tangeri](https://open.spotify.com/album/12VCI8zliAWBO1nZNb4KQs) | 4:44 | 2023-08-10 | 2023-11-19 |
+| [Tangeri](https://open.spotify.com/track/6ihB2dtJ91MxDE6sD13kty) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [Here Now](https://open.spotify.com/album/4zoSsjGlKk9Ny6BrdSNNPY) | 4:44 | 2023-11-17 |  |
 | [Tarde em Itapuã](https://open.spotify.com/track/5oILG8hfyokZbO59nOxcnx) | [Frederico Celso Band](https://open.spotify.com/artist/3iw73fZoyRoKWzjQVQ4CXg) | [Influência do Jazz](https://open.spotify.com/album/1kB4apYNRQwemxZWVNCshQ) | 3:48 | 2022-04-26 | 2023-03-03 |
 | [The Dolphin](https://open.spotify.com/track/7gbC3OMRW5bU92Y6cC3D2X) | [A Porta Verde](https://open.spotify.com/artist/27aYrXW0IugIDBHd1Ic652) | [Maçã](https://open.spotify.com/album/3Zvm1Dciwe02rIEqEOf6CZ) | 4:50 | 2022-04-26 |  |
 | [The Look Of Love](https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:42 | 2022-04-26 | 2022-09-21 |

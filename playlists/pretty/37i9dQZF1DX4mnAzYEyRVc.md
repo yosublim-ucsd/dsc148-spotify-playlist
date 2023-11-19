@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Out Of Control Army
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,698 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,740 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 99 | [Gotta Keep It Going](https://open.spotify.com/track/1pBrnr4hWlpQl2a2TXyd8j) | [The Gramophone Allstars](https://open.spotify.com/artist/329b1AgXMb6retylGLzMjN), [Rodrigo Laviña](https://open.spotify.com/artist/2GY6Es5fP09QBZW8KDbbv5) | [Gotta Keep It Going](https://open.spotify.com/album/37mFb0lfYnSslaJxUYabIX) | 3:45 |
 | 100 | [Transparency](https://open.spotify.com/track/2Rm8eB9apr94OrdWjP6GG1) | [Keep Flying](https://open.spotify.com/artist/4y79c2k6F28s1lkh3aaXWC) | [Transparency](https://open.spotify.com/album/6tiMjNb0BiteEve0vZ8ujP) | 2:31 |
 
-Snapshot ID: `MCw3NTg5YWE5M2NmMmNiZTA3ZmM1YmVjODk2MjQyNWI3NTVjNzk3OTcx`
+Snapshot ID: `MCxkN2QyNmMxZWZiYmRlZDk5MDVjZTlhYThhYjg3NjkxMzRmNTI0ZGNj`

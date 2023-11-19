@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Hanifah, Doug O.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,080 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,096 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [Dejavu](https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [Felipe Rosa](https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N) | [Dejavu](https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz) | 3:02 |
 | 75 | [Só Nós Dois](https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF) | [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Só Nós Dois](https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd) | 2:21 |
 
-Snapshot ID: `MCxhYzBjMjBhOWM0YzhkMzQ0MGI5ODcxM2E1MmNkM2IxYjk1MDQ3ODg0`
+Snapshot ID: `MCw5MTRlZmM1YjFlYjM1YjNlNTg1NWJiODczMmYxZWRiNDkzYmJiNGZm`

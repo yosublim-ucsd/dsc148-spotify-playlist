@@ -4,7 +4,7 @@
 
 > Rockabilly pioneers and revivalists\. Cover: Stray Cats
 
-371 songs - 14 hr 39 min
+372 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,8 @@
 | [If You Want It Enough \- Single Version](https://open.spotify.com/track/1Tvqy5LHaNKR9eQsOxD58D) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Tear It Up: The Complete Legedary Coral Recordings](https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6) | 2:07 | 2020-10-11 | 2023-04-28 |
 | [In The Jailhouse Now](https://open.spotify.com/track/5xcJtLxdprEWBR2jRqcQPW) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [20th Century Masters: The Millennium Collection: Best Of Webb Pierce](https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy) | 2:05 | 2020-10-11 | 2023-04-28 |
 | [It's Late](https://open.spotify.com/track/72B9TNuORSW235TKZxvnWM) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Million Sellers](https://open.spotify.com/album/0sevjKKvHuAMrYwgonINsQ) | 2:00 | 2020-10-11 | 2023-04-28 |
-| [Johnny Got A Boom Boom](https://open.spotify.com/track/7psi2y1Mm973ZkYynLYuEC) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Love Tattoo](https://open.spotify.com/album/1QFPnggq5et7r2SUymBOap) | 2:59 | 2023-04-27 |  |
+| [Johnny Got A Boom Boom](https://open.spotify.com/track/1LRCCvucMksncuUk7h7g9e) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Love Tattoo](https://open.spotify.com/album/16s0XOdNFDoBnhY81QYY3H) | 2:59 | 2023-04-27 |  |
+| [Johnny Got A Boom Boom](https://open.spotify.com/track/7psi2y1Mm973ZkYynLYuEC) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Love Tattoo](https://open.spotify.com/album/1QFPnggq5et7r2SUymBOap) | 2:59 | 2023-04-27 | 2023-11-19 |
 | [Jump Jive An' Wail](https://open.spotify.com/track/7FuRjlwyTY9uTAUgGpZtJU) | [The Brian Setzer Orchestra](https://open.spotify.com/artist/7HQH1SJokcVMdstilKJ2S8) | [The Dirty Boogie](https://open.spotify.com/album/4st9EfeMOnXoxkIPS0fik4) | 2:52 | 2020-10-11 |  |
 | [Jumpin' Jive](https://open.spotify.com/track/62WEmyTLJRfgTz76pj3Oma) | [Crazy Cavan](https://open.spotify.com/artist/1GpRTQRruGUoxhRYV0RtEv), [The Rhythm Rockers](https://open.spotify.com/artist/2vUb000rRvIR0OySDVJSat) | [Hey! Teenager](https://open.spotify.com/album/2Q6oQgCF54ugtgOiUaKZ4t) | 2:31 | 2023-04-27 |  |
 | [Jungle Rock](https://open.spotify.com/track/0XSHcO8JNMSA8kXvppB5bS) | [Hank Mizell](https://open.spotify.com/artist/3RGF93b8Qtz77GLJBgdBH6) | [Jungle Rock](https://open.spotify.com/album/21kqXS5qnYmFwDFZ9buKHb) | 2:48 | 2020-10-11 | 2023-04-28 |

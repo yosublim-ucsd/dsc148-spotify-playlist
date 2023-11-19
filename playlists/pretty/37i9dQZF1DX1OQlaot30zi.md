@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Sfera Ebbasta, Neima Ezza, Nerissima Serpe e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,278 likes - 100 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,297 likes - 100 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 68 | [6AM](https://open.spotify.com/track/3skksFC3Gy9u6iLm84rJOk) | [Bl3dem](https://open.spotify.com/artist/5b9VtaD7uwViASOs11FquB) | [6AM](https://open.spotify.com/album/5omc58Ar8rHuw2qUYWFswU) | 3:27 |
 | 69 | [DEAD BROKE](https://open.spotify.com/track/6uyyELd94hx5aSATZMgwke) | [Young Kofla](https://open.spotify.com/artist/6NcPuIV1hhaupm3wGsSx1R), [Fluss Uchiha](https://open.spotify.com/artist/1iqQyjmk9FN45sd8V8CPJo) | [DEAD BROKE](https://open.spotify.com/album/5T7z5jkvGvQdzbq8fWbLyB) | 2:46 |
 | 70 | [+Freddo](https://open.spotify.com/track/1WRAGwxtrW7oqRM6n8xIS2) | [Ombrv](https://open.spotify.com/artist/3k0UmxDhNM3pdvDlQjhg82) | [+Freddo](https://open.spotify.com/album/0zW7laPPT6VM49UZEFkAPK) | 2:16 |
-| 71 | [Modo](https://open.spotify.com/track/2o0p3cv07zS46ieNAwfKlW) | [DJ Fede](https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8), [Dj Kamo](https://open.spotify.com/artist/1tYnIsZQdSHHnRA7JbY7AQ), [Oyoshe](https://open.spotify.com/artist/6t49JCW50szpbRh9TuX2s8) | [Modo](https://open.spotify.com/album/2zp7KQL4JmQHf5NbQt3Ygk) | 4:03 |
+| 71 | [Modo](https://open.spotify.com/track/2o0p3cv07zS46ieNAwfKlW) | [DJ Fede](https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8), [Dj Kamo](https://open.spotify.com/artist/70gSqeThzMyjZt29jDdMh6), [Oyoshe](https://open.spotify.com/artist/6t49JCW50szpbRh9TuX2s8) | [Modo](https://open.spotify.com/album/2zp7KQL4JmQHf5NbQt3Ygk) | 4:03 |
 | 72 | [Valentino Rossi](https://open.spotify.com/track/5IjPpqpiQ7C4wOsJFUGhaH) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [Valentino Rossi](https://open.spotify.com/album/6EwyAqpWB0x93nzVeiiqTQ) | 1:59 |
 | 73 | [Million Dollar](https://open.spotify.com/track/1rTwPO0jWUcjB6Qpwk4vKo) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Million Dollar](https://open.spotify.com/album/4wdR5BTgIKCnADDGb9eqIP) | 2:39 |
 | 74 | [Top Boy](https://open.spotify.com/track/1ulJFkCkrNued2jimxc8PL) | [Lele](https://open.spotify.com/artist/5Ef0bhKWbzbSgfKlCguEoQ) | [Top Boy](https://open.spotify.com/album/6bsDeN3YlLDok3kefnmSZF) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 99 | [Indipendente freestyle](https://open.spotify.com/track/5Eo1jdhrv5gSNn4LB2eWUz) | [MR Rizzus](https://open.spotify.com/artist/1lbjFxJSZCuCjiOKuMfmiO) | [SORVEGLIATO SPECIALE MIXTAPE](https://open.spotify.com/album/4quGLERXIUVQ8ZtdcUM6kf) | 1:19 |
 | 100 | [MENTALITÉ](https://open.spotify.com/track/3qVucXBmqvWWsqM4wedd3o) | [Mido](https://open.spotify.com/artist/4IDQpLt670azHbRBQkwZQP) | [MENTALITÉ](https://open.spotify.com/album/6034Syj80TAAbBqcNmVB53) | 2:32 |
 
-Snapshot ID: `MCxkNjQyMDg1ZDBkZDEyY2M5NGUwZGJjMjU5Y2VhNmI5OTMxYWI3MDM0`
+Snapshot ID: `MCwxZjYxODBkMzJhOWJjNzc2MWUxYzFjMWE0NjAwZWYwYTE1NDE3NDZh`

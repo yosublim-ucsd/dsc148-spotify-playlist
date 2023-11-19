@@ -4,7 +4,7 @@
 
 > Our editors’ picks for the best of Rock in Canada in 2022.<br/> Cover: TALK \#SpotifyWrapped
 
-88 songs - 4 hr 56 min
+89 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [This Is Why](https://open.spotify.com/track/44bJrZ1ZTFKDIe3enEkYH7) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/00SI37RLEP46GxurBF4vQZ) | 3:26 | 2022-11-30 | 2023-02-13 |
 | [This Is Why](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:26 | 2022-11-30 |  |
 | [Trou d'eau](https://open.spotify.com/track/3eocwmTmeW2hA2fvhgpmo5) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Grafignes](https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl) | 3:17 | 2022-11-30 |  |
-| [WE NEED SOME HELP](https://open.spotify.com/track/3YIyKhcLMfrO5zRMcFFnBk) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [WE NEED SOME HELP](https://open.spotify.com/album/7siEe1fqtHDnqHribtTFbb) | 2:59 | 2022-11-30 |  |
+| [WE NEED SOME HELP](https://open.spotify.com/track/3YIyKhcLMfrO5zRMcFFnBk) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [WE NEED SOME HELP](https://open.spotify.com/album/7siEe1fqtHDnqHribtTFbb) | 2:59 | 2022-11-30 | 2023-11-19 |
+| [WE NEED SOME HELP](https://open.spotify.com/track/72qZoiF9ZqWIFbAZFB2Xbs) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [WE NEED SOME HELP](https://open.spotify.com/album/59aQbVUKRBp20XajnMUlUm) | 2:59 | 2022-11-30 |  |
 | [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 | 2022-11-30 |  |
 | [wish i was dead](https://open.spotify.com/track/5Pu42rdkSXGzT528BAQRFO) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 1:38 | 2022-11-30 |  |
 | [Won’t Stand Down](https://open.spotify.com/track/6Wi8Byfq6xH0lEkqZbOZg9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:29 | 2022-11-30 |  |

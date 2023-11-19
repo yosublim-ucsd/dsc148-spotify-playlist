@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 
 > Piano music for fall vibes and autumnal moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,771 likes - 430 songs - 19 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,253 likes - 430 songs - 19 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -439,4 +439,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 | 429 | [The Dancers](https://open.spotify.com/track/0IVtpsYy3n218ksSFFY56m) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [The Dancers](https://open.spotify.com/album/05rmQtJCd8yAS1dBLhccN9) | 2:37 |
 | 430 | [Natsukashii](https://open.spotify.com/track/6xPqm3euYPbYVTtCVyD3zM) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Natsukashii](https://open.spotify.com/album/2pzip4UJYJKSM6FpptK3KR) | 2:34 |
 
-Snapshot ID: `MCw0YzQ3OWM3ZjFmOGUzYmJlYzQwNDkyYjVmZmE1OWNjOTc5NmIwOWE4`
+Snapshot ID: `MCwyYjE0MzExOTcxYTJiOGVhY2Q2Njc1MmY2YWYyYzRhNTZiNDFkYWI5`

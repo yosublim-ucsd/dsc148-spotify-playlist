@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,989 likes - 125 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,122 likes - 125 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 124 | [If I Could Stop The Sunset](https://open.spotify.com/track/75gHYLYjhFCbtKS1gWkGr4) | [Juan Yarin](https://open.spotify.com/artist/0cPgP2pYS8lmkzxiJc0hO7) | [If I Could Stop The Sunset](https://open.spotify.com/album/3ZZEi1BSdN7nre48mHwMSJ) | 6:38 |
 | 125 | [Children Of 95](https://open.spotify.com/track/0W3fiSN6ebq9V3kFb0KGPn) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [Children Of 95](https://open.spotify.com/album/0lPtLvaconuzEsRPFEnRKv) | 5:57 |
 
-Snapshot ID: `MCxmZjg0NWQ2MTBjOTE3OWZjMmI1YjM2MGM0MDE1MTEzZDUzMGEzMGI5`
+Snapshot ID: `MCxkYzNlM2JiZTlkNWNhYTkwNjlhYjAyMjM4NmE1YzA0NzEyYmJjY2Qw`

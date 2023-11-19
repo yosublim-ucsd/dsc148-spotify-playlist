@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:   <a href="https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw?si=zHeqTQBjSlCgMpPiuLyaYQ"> Quamina MP </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,415 likes - 85 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,442 likes - 85 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 84 | [No More](https://open.spotify.com/track/7eClgSPyjnbANZYbogtZNE) | [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [No More Tears](https://open.spotify.com/album/6A62r1F4Sn29IBUI9zHjM7) | 2:40 |
 | 85 | [Abena](https://open.spotify.com/track/416lJBohBXn07iQe3lf0JI) | [Yaw Dyro](https://open.spotify.com/artist/0KCWVye8eFEyOu2fpwfMHr), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Abena](https://open.spotify.com/album/5KZGcpVTuXFTzedSE0gCe4) | 2:40 |
 
-Snapshot ID: `MCw1M2ViNzIyYTMwODIxZTc0YzA2OGQ3NTkzMWFiMGU1ZmYzMzYxMzA5`
+Snapshot ID: `MCxmMmMwNWFkNjU4YWNhZDE1ZGM3MzNmNGJmMWNjNDczZjlhY2IxZTI1`

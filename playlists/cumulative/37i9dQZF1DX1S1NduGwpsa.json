@@ -1229,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "Call Off the Search (Deluxe Edition; 2023 Remaster)",
+        "url": "https://open.spotify.com/album/5Th8nFstJVL0RnMJ4HOITd"
+      },
+      "artists": [
+        {
+          "name": "Katie Melua",
+          "url": "https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136307,
+      "name": "Call Off The Search (Demo)",
+      "url": "https://open.spotify.com/track/27V9ex2ehkw7p7s24pc6Xd"
+    },
+    {
+      "album": {
         "name": "Call Off The Search",
         "url": "https://open.spotify.com/album/2c6GalSbICqbbg7CW9U5KX"
       },
@@ -1240,7 +1258,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 136307,
       "name": "Call Off The Search - Demo",
       "url": "https://open.spotify.com/track/7KdUI2n3d32uGGso0rD7wc"

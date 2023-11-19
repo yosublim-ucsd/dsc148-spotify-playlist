@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Death Lens
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,509 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,547 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Herberts On Holiday](https://open.spotify.com/track/2SLS4rCsxzCVPLG6cS0wYe) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:24 |
 | 100 | [Roses In My Backpack](https://open.spotify.com/track/0unmFukTNfCHAXM7jsYREn) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Roses In My Backpack](https://open.spotify.com/album/35Nuc21qqcUssDSCHRU3ko) | 2:38 |
 
-Snapshot ID: `MCxiYzcwYjFmOWQ1MGU0MzdkOTgyYWRlZjFkYjQ4OTc4MGY0N2U5M2Ew`
+Snapshot ID: `MCw5ZGQ2NzM2NmFlYjI5NzY2NTk3ZTU5NGU1MTY3MTM4NzczNmM5ZWEx`

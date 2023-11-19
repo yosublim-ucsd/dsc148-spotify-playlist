@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,986 likes - 350 songs - 13 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,497 likes - 350 songs - 13 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 349 | [Waves](https://open.spotify.com/track/1sv9a2DenuK90P0rBkXKEe) | [Frogman](https://open.spotify.com/artist/6yctnLGapq1IRKYFxvXHbI), [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Waves](https://open.spotify.com/album/4RE8BchKFFeqiijkE965MR) | 2:31 |
 | 350 | [madreperla](https://open.spotify.com/track/0LxTWbTNftBBO5S6lLYXnz) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [madreperla](https://open.spotify.com/album/1f8173wESFwThP37AZONj4) | 2:12 |
 
-Snapshot ID: `MCxmZjg2NDZhNmI2Y2FiMjI5MThhNWQ2NDkyZGQ2YjdiZmZlNTQyYzJk`
+Snapshot ID: `MCxkZmVjYmMyNDdiNWM3YzFmNWUwNmE3ZTcyYWEzYzMwMzI5OWJiODY3`

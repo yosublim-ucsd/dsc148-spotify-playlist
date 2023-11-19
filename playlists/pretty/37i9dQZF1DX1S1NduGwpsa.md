@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Dominique Fils\-Aimé
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,853 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,922 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 36 | [Sunseekers](https://open.spotify.com/track/2hD250ixyqBjvYHpsOOEqG) | [JaRon Marshall](https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Amahla](https://open.spotify.com/artist/6IgxRCzTWMElloFPigZXdj) | [Discotheques 001](https://open.spotify.com/album/3v11OGRfUdnN6IGp2tdcAm) | 3:32 |
 | 37 | [Love is Never Too Late](https://open.spotify.com/track/1srnJ1GiGTgnTmc3uoOI3l) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Love is Never Too Late](https://open.spotify.com/album/7Ei7dL4kmIJhDlie2zHmOc) | 3:37 |
 | 38 | [Blue](https://open.spotify.com/track/3e2cdlozr0ZKut6dWOer3q) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Continuance](https://open.spotify.com/album/0PFFqNI88PG7QKGYWvjwXQ) | 6:46 |
-| 39 | [Call Off The Search \- Demo](https://open.spotify.com/track/7KdUI2n3d32uGGso0rD7wc) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Call Off The Search](https://open.spotify.com/album/2c6GalSbICqbbg7CW9U5KX) | 2:16 |
+| 39 | [Call Off The Search \(Demo\)](https://open.spotify.com/track/27V9ex2ehkw7p7s24pc6Xd) | [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Call Off the Search \(Deluxe Edition; 2023 Remaster\)](https://open.spotify.com/album/5Th8nFstJVL0RnMJ4HOITd) | 2:16 |
 | 40 | [Heat Of The Moment](https://open.spotify.com/track/24eVMVDkDqLr1XGlnpOjtv) | [Mathis Picard](https://open.spotify.com/artist/53T4wv6PtAQK3Mm9mx4kxR) | [Heat Of The Moment](https://open.spotify.com/album/79Bhfp8xlbhgfZ0jLWMuSj) | 4:17 |
 | 41 | [Baila Mulata](https://open.spotify.com/track/7Ax9Ex9DhMnczPd0pjlPQr) | [Roberto Fonseca](https://open.spotify.com/artist/0Yi6vOMIP1cqp8WppadgOu) | [La Gran Diversión](https://open.spotify.com/album/4UO0arXcVIKzndEZIAp6Co) | 3:23 |
 | 42 | [I Might Never See You Again](https://open.spotify.com/track/2ERNVROnqMvIdWTVT8bkim) | [Charley Rose Trio](https://open.spotify.com/artist/5VW8lQtZn9995Dbtf7FSRL), [Enzo Carniel](https://open.spotify.com/artist/2g4MfwXbDBoVoyeE54DIEk), [Ariel Tessier](https://open.spotify.com/artist/7y16hI4NEVEspAqNm7nG5H) | [Dada Pulp](https://open.spotify.com/album/020HlvI3o3TYr0fTMysQ7m) | 6:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 |
 | 50 | [Have A Talk With God](https://open.spotify.com/track/4wGhj2z3EHOKr3BsIjFgNa) | [Jack Lee](https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Have A Talk With God](https://open.spotify.com/album/46GEMh4lyKE3Y3XKKDH4Qf) | 5:41 |
 
-Snapshot ID: `MCwzNGRjZjNkYWJlZTJiYzRmMzJjOWQxMDU2ODJiNjMxNWI4NGY1Zjcz`
+Snapshot ID: `MCxhZGJiMTQ0Y2I3ZDMzOGU2MGViMGM1MDg0ZWZmYjRiYzY5MDMwMTFj`

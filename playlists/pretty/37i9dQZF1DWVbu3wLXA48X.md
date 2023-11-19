@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: mxmtoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,935 likes - 93 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,944 likes - 93 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 63 | [Million \- hanbee Remix](https://open.spotify.com/track/4YycpPLZiVfITeG4SQwJn7) | [Matter Halo](https://open.spotify.com/artist/2KRTc4R7uXYt0NE3eyyBtT), [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Nightvision \(Love Is God 11/16 Edition\)](https://open.spotify.com/album/0LlL4HaYQ0HB0Z0D8bU312) | 2:57 |
 | 64 | [Sunny](https://open.spotify.com/track/2PQNbNPuSfNa3B3r447fbL) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Sunny](https://open.spotify.com/album/5FyY9wYLHeJoFzPl0tOU5k) | 3:31 |
 | 65 | [More & More](https://open.spotify.com/track/1s9ewA2LqYWnWK7B47qrkN) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:28 |
-| 66 | [Hollywood and Fear \- Bonus Track](https://open.spotify.com/track/7v3hNndUoHBFsEfBGMxybA) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Hollywood and Fear \(Bonus Track\)](https://open.spotify.com/album/36gqLUTwfOltzofiPMcM3q) | 3:29 |
+| 66 | [Hollywood and Fear \- Bonus Track](https://open.spotify.com/track/3VeZKqmfYKIpj69KFIfWeH) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Big Picture \(Expanded Edition\)](https://open.spotify.com/album/6327l4EuoWm8xFs8AwuCbv) | 3:29 |
 | 67 | [Sojourn](https://open.spotify.com/track/1tN9qCwdEYsYmu3e4IypgE) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Sojourn](https://open.spotify.com/album/3F8zTUdqovD6TNHlNsOPMg) | 3:33 |
 | 68 | [Daylight \(feat\. GANGGA\)](https://open.spotify.com/track/5C8SwYxHNCBcPaM9IZrU9C) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Self Soothing](https://open.spotify.com/album/6gTGtA8fL6swSNFzDf6lka) | 3:07 |
 | 69 | [Walk Your Heart Home](https://open.spotify.com/track/1nbquISEGb21tsBdVlaP6V) | [Casté](https://open.spotify.com/artist/7zeoSpBQB05hRwUCFO33i5) | [Temptation](https://open.spotify.com/album/6AvHqghzOREIkOOOJoLhWw) | 3:41 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 92 | [Turn The World On](https://open.spotify.com/track/2pkVFnJrUixqjhjf3In0G0) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 3:30 |
 | 93 | [So Many Plans](https://open.spotify.com/track/14pNmP49UDCDJDobtV2FMc) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [So Many Plans](https://open.spotify.com/album/5V1HBwPIJhA9BniGd3Yj1R) | 3:47 |
 
-Snapshot ID: `MCxhYjY5N2Y5ZjJlZTAyMzMxYTQ5MjFiZmY5MDczMzQ5NjgxN2NiZGFk`
+Snapshot ID: `MCw2ODIxZDdiMmJhMjFhODA0YzkxM2VhZmRkNGY1YjkyYzk1OWM4MWU0`

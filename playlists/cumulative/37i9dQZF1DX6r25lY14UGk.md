@@ -4,7 +4,7 @@
 
 > Essential kids songs to add to your family's collection.
 
-160 songs - 7 hr 28 min
+161 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Like, Magical \- Live](https://open.spotify.com/track/2w8ggQUHKMQzNYI8g8bd1C) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [Like, Magical \(Live\)](https://open.spotify.com/album/6nz1xkuZWv8K56hIdOWsek) | 3:08 | 2023-09-08 |  |
 | [Little Bee](https://open.spotify.com/track/79CIhDipD3tXO84zOKPMU2) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Little Bee](https://open.spotify.com/album/0n0lwGb7qOcEdAkPQONixo) | 3:12 | 2022-04-15 |  |
 | [Long Hot Summer Nights](https://open.spotify.com/track/7sCl3K4yXZL92w8XNFPpfl) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Claudia Zanes](https://open.spotify.com/artist/1mEDDCiHoa4Win8FuJmAfh), [Dan + Claudia Zanes](https://open.spotify.com/artist/5qcWTB20UyUKLIKYyjcjyn), [Greg Corneille](https://open.spotify.com/artist/1SjyQMac76iYkEuE5UeLCw) | [Let Love Be Your Guide](https://open.spotify.com/album/29YQcKWonRl02h3pypRui6) | 3:25 | 2022-04-15 |  |
-| [Look Up! There's a Rainbow!](https://open.spotify.com/track/0lSQ1XbRZrvlYo7XvrIYJ2) | [The Swinging Belles](https://open.spotify.com/artist/01eojLsVBj3CRaLmUXCfDM) | [Swimming \(from the Welcome to the Flea Circus EP\)](https://open.spotify.com/album/1GxtdUkKs1RA07jxn0irO7) | 2:04 | 2023-06-02 |  |
+| [Look Up! There's a Rainbow!](https://open.spotify.com/track/0lSQ1XbRZrvlYo7XvrIYJ2) | [The Swinging Belles](https://open.spotify.com/artist/01eojLsVBj3CRaLmUXCfDM) | [Swimming \(from the Welcome to the Flea Circus EP\)](https://open.spotify.com/album/1GxtdUkKs1RA07jxn0irO7) | 2:04 | 2023-06-02 | 2023-11-19 |
+| [Look Up! There's a Rainbow!](https://open.spotify.com/track/1kTHonKVw5MWy99W8shuIT) | [The Swinging Belles](https://open.spotify.com/artist/01eojLsVBj3CRaLmUXCfDM) | [Welcome to the Flea Circus](https://open.spotify.com/album/1lgtDTEaxFhqLRmAxtEX1J) | 2:04 | 2023-09-22 |  |
 | [Look up! There's a Rainbow!](https://open.spotify.com/track/3G1zdXYejVcg8dS8mR1faH) | [The Swinging Belles](https://open.spotify.com/artist/01eojLsVBj3CRaLmUXCfDM) | [Look up! There's a Rainbow! \(from the Welcome to the Flea Circus EP\)](https://open.spotify.com/album/4w20hXXdmRCJEWFrPKRpYK) | 2:04 | 2023-04-09 | 2023-06-03 |
 | [Loon](https://open.spotify.com/track/0T5r5FKRfVQMqkDmhcAeGP) | [Bears and Lions](https://open.spotify.com/artist/55XGQSMgofzZFEtY4bDJPB) | [Wild and Free](https://open.spotify.com/album/5IMky5Cqw3PMV23se8BApI) | 2:25 | 2022-04-15 |  |
 | [Magic Day](https://open.spotify.com/track/5X0GFoSX2gq0VfPqgsK3Jf) | [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt), [Orbit Deen](https://open.spotify.com/artist/17tuJG7gcopBASfFsVr4pb) | [Magic Day](https://open.spotify.com/album/7CdnhWwYTOWWdMKlxJFwcp) | 2:59 | 2022-04-15 | 2023-10-21 |

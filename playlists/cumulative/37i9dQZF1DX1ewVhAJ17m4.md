@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: blink\-182
 
-348 songs - 17 hr 14 min
+349 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,8 @@
 | [Split In Two](https://open.spotify.com/track/2hFBaF0pqujZAStfrOEqIh) | [Stuck Out](https://open.spotify.com/artist/64Q80rDAedUbxhgMAJzyjI) | [Split In Two](https://open.spotify.com/album/6iGEygjKxyNc6E44PeZ8Kh) | 3:32 | 2022-07-18 | 2022-08-26 |
 | [St\. Girlfriend](https://open.spotify.com/track/1nsjfntUpfBk7m11PENErT) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [St\. Girlfriend](https://open.spotify.com/album/6FwxID3XuZpc31zcqDQm5w) | 2:27 | 2022-07-04 | 2022-08-26 |
 | [Stop Living & Don't Dream](https://open.spotify.com/track/6IoAdJtGzeZc4ulFe1MeUR) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Stop Living & Don't Dream](https://open.spotify.com/album/2PWbNB64S8z7ntcCBgIJgy) | 2:22 | 2023-03-31 | 2023-08-11 |
-| [Strangers](https://open.spotify.com/track/2SISsR0V9kNjOHU9sJa413) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Strangers](https://open.spotify.com/album/3vW6XXJIIfZZRd7TtNR5J1) | 2:34 | 2023-09-15 |  |
+| [Strangers](https://open.spotify.com/track/27by2Pb8Ys2KmVVGkPAujq) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future \(Deluxe\)](https://open.spotify.com/album/3CSC52xCPslJCpjPFYg4fb) | 2:34 | 2023-10-19 |  |
+| [Strangers](https://open.spotify.com/track/2SISsR0V9kNjOHU9sJa413) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Strangers](https://open.spotify.com/album/3vW6XXJIIfZZRd7TtNR5J1) | 2:34 | 2023-09-15 | 2023-11-19 |
 | [Summer Fling](https://open.spotify.com/track/4TTxKf21Dips2BWk32usFf) | [Pee Wee Gaskins](https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR) | [Summer Fling](https://open.spotify.com/album/5hUxUuJHwqBJVbOD201gfN) | 3:36 | 2021-12-20 | 2022-03-01 |
 | [Sunsign](https://open.spotify.com/track/2dx61vuBfDtGSoLtTYohAJ) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Sunsign](https://open.spotify.com/album/5LJjM6vDocHzTEZvT2LQNf) | 3:47 | 2022-10-06 | 2023-01-07 |
 | [Super 8](https://open.spotify.com/track/5o89wZBm3klAcMufTGeYBJ) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O) | [Super 8](https://open.spotify.com/album/4M8Sr36dkdDyThOJ1DcUG3) | 2:38 | 2021-12-20 | 2022-04-05 |

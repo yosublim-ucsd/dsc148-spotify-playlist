@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > All the songs with more than 1 BILLION streams on Spotify\. Cover: LISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,115 likes - 511 songs - 1 day 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,580 likes - 511 songs - 1 day 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -520,4 +520,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 | 510 | [Diamonds](https://open.spotify.com/track/7Kt59L2ZZGtOnIhvMwzG6f) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) | 3:45 |
 | 511 | [In My Feelings](https://open.spotify.com/track/0h1W19pS59KtEd7aDzF58i) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/42wvKYHFezpmDuAP43558f) | 3:37 |
 
-Snapshot ID: `MCw1NjI4ZjJkODY3NzIwMjA0Y2JlYjdlZGMyNWVmZTViNGZhYjdmNTZi`
+Snapshot ID: `MCxhYzY3NDg4NDNmZTNiN2I4NzNhOTRiMDYxNmE1ZWYwYmMxZGE3Njdj`

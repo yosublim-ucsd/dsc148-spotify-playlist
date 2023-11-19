@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,163 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,251 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 33 | [SpinDatBac](https://open.spotify.com/track/1WzuY075zswuk0pgMNrqCT) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [SpinDatBac](https://open.spotify.com/album/1FSxhiCNZgovaqCQnlnHbX) | 2:35 |
 | 34 | [Run That! \(with Kyle Richh, Jenn Carter & TaTa\)](https://open.spotify.com/track/0EYaKFQHnWk3dukyNPhA8q) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [41 World: Not The Album](https://open.spotify.com/album/1xfZEllNKEGORjebzxus4t) | 2:50 |
 | 35 | [Oversteppin’ \(feat\. That Mexican OT\)](https://open.spotify.com/track/3GjWJb3PArubMXvc8kPHL6) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Oversteppin’ \(feat\. That Mexican OT\)](https://open.spotify.com/album/6NOOW5jXazGu4NEGBkWLAN) | 2:48 |
-| 36 | [Desire \(with VITA\)](https://open.spotify.com/track/6aCFpO6fjm5FTEsvqJtALr) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Vita](https://open.spotify.com/artist/6pk6yWYNSFNHkngDZPvjEL) | [Desire](https://open.spotify.com/album/5rrC3LhLmzUkQQC5mqO5AY) | 2:58 |
+| 36 | [Desire \(with VITA\)](https://open.spotify.com/track/6aCFpO6fjm5FTEsvqJtALr) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB) | [Desire](https://open.spotify.com/album/5rrC3LhLmzUkQQC5mqO5AY) | 2:58 |
 | 37 | [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 |
 | 38 | [Still That Way \(feat\. Bongo ByTheWay\)](https://open.spotify.com/track/3KSfYydFjoi6TjH2lyIhI9) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Bongo ByTheWay](https://open.spotify.com/artist/52XVQUBiGoiv1E3bQZ3KHd) | [Still That Way \(feat\. Bongo ByTheWay\)](https://open.spotify.com/album/5xE4vlYZaS40sxlgFfwzmx) | 3:16 |
 | 39 | [02 Lakers](https://open.spotify.com/track/0LXrihCLToJ1l9HlIufKSA) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr) | [02 Lakers](https://open.spotify.com/album/1WMj2AxZuuDQdHo3qFDMe9) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Can't Forget](https://open.spotify.com/track/05lvABI7h1aa0o69Z2hpqS) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Can't Forget](https://open.spotify.com/album/2kGVa9ARhLbTdGbz8MPTPo) | 4:07 |
 | 100 | [Uglyfisherman](https://open.spotify.com/track/0soF6Of8Zw4wsjkrFWyKf2) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [D\-SIDES](https://open.spotify.com/album/1UxVfG3L2BJhRcn6E1EwrN) | 2:14 |
 
-Snapshot ID: `MCxkYTJlZWI1MWU4ZDdhMDRjYTQyOWUwZTVhYWQ4ZGUyYTFkNDc3N2Fm`
+Snapshot ID: `MCwzNDNhYjBjYjdjYjk2OGNkMDg4NWMyMjBmMjcxMjlhMWE4ODMzZTZk`

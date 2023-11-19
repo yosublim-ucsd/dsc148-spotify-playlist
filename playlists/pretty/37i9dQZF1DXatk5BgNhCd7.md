@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Olga Tañon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,196 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,224 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 15 | [Folklore Santafesino](https://open.spotify.com/track/5fkOdeOClugvQAClBmFW3P) | [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK), [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY) | [Folklore Santafesino](https://open.spotify.com/album/07VmLPbKO5vy2VGWxElQUj) | 4:15 |
 | 16 | [Si te va bien, Que bien](https://open.spotify.com/track/2cIb5gywquHzoGCFeCG2FS) | [Dayhan Díaz](https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa), [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [Si te va bien, Que bien](https://open.spotify.com/album/5BIgiuOnMmpA7TXhRg5oqf) | 4:26 |
 | 17 | [Cantinero](https://open.spotify.com/track/78sQKGpdJMV7k3pUCBZyQ1) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Cantinero](https://open.spotify.com/album/0bzAAPfC76kXod3TgpUiX4) | 3:10 |
-| 18 | [Ella \- Salsa Remix](https://open.spotify.com/track/7BrTrng2oHgn17xzWJqA3G) | [Gaitanes](https://open.spotify.com/artist/6KinpmF6ieaCpwaKICc6y2), [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2), [Los Adolescentes](https://open.spotify.com/artist/47pgrIEXBPh2lXf9PM0RCk) | [Ella \(Salsa Remix\)](https://open.spotify.com/album/2nxsZZM9v6G4bCF8bAplFf) | 4:50 |
+| 18 | [Ella \- Salsa Remix](https://open.spotify.com/track/7BrTrng2oHgn17xzWJqA3G) | [Gaitanes](https://open.spotify.com/artist/6KinpmF6ieaCpwaKICc6y2), [Ronald Borjas](https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2), [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ella \(Salsa Remix\)](https://open.spotify.com/album/2nxsZZM9v6G4bCF8bAplFf) | 4:50 |
 | 19 | [Quédate Conmigo \- Remix](https://open.spotify.com/track/31m4BylSn9z9NoS5qfviJw) | [Omar Enrique](https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA) | [Quédate Conmigo \(Remix\)](https://open.spotify.com/album/6QLtDVO02H24gW3yzO900Y) | 3:33 |
 | 20 | [Mentiras](https://open.spotify.com/track/3OP7qzKTEgrU3v2edWWY5Y) | [Amaya Hnos](https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ) | [Mentiras](https://open.spotify.com/album/6FxlNbidTkbZghvapDUy1C) | 2:49 |
 | 21 | [como yo \- live](https://open.spotify.com/track/2I8SoeGVxLjS2XtAxyp2x7) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [como yo \(live\)](https://open.spotify.com/album/1jpU9hjK0yvwqTvKnsDMIM) | 3:07 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 24 | [El Incomprendido](https://open.spotify.com/track/6oR8midIHV5K9yPQaR4IE4) | [La Novel de Martín Guevara](https://open.spotify.com/artist/6sqyTXpgNn2BzllXaoUfWr) | [El Incomprendido](https://open.spotify.com/album/1HndJxwqjCctx2jt0zEl5X) | 3:27 |
 | 25 | [Baila Para Mi](https://open.spotify.com/track/168TpATgjRdglEBE0zhwSC) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Exitos En Vivo Vol\. 1](https://open.spotify.com/album/5BKTjt1A8Cwa5NKO10I7wM) | 1:32 |
 | 26 | [Mix Karol G \- \#2](https://open.spotify.com/track/4jqjt0e4XKRV9i13PYzOIB) | [Kate Candela](https://open.spotify.com/artist/20MItJsTq6XRJ3drVZLp3W) | [Mix Karol G \(\#2\)](https://open.spotify.com/album/338MZ0H9MunHhGLoDXtrVu) | 7:14 |
-| 27 | [Me enamoré \- Masterizada](https://open.spotify.com/track/043xMlAzJUlyVVeJacjLvK) | [Marco Romero](https://open.spotify.com/artist/5ZCR8gHM2UuU0JxuuFGduI), [César Vega](https://open.spotify.com/artist/3qBuLbtqEm7MlNmYR8nD09) | [Me enamoré \(Masterizada\)](https://open.spotify.com/album/2npJi2uYYKLWUvRifnPEFh) | 3:42 |
+| 27 | [Me enamoré \- Masterizada](https://open.spotify.com/track/043xMlAzJUlyVVeJacjLvK) | [Marco Romero](https://open.spotify.com/artist/5ZCR8gHM2UuU0JxuuFGduI), [César Vega](https://open.spotify.com/artist/3qBuLbtqEm7MlNmYR8nD09) | [ME ENAMORÉ \(Masterizada\)](https://open.spotify.com/album/2npJi2uYYKLWUvRifnPEFh) | 3:42 |
 | 28 | [Tuve Que Bailar](https://open.spotify.com/track/2WeUxj989pH1wTN2c5WPF4) | [KEPÁ](https://open.spotify.com/artist/5a42D6pc8V0pLSEp5IVSLJ) | [Tuve Que Bailar](https://open.spotify.com/album/0QfGSpPP4KzcLpaEMb6z8X) | 2:29 |
 | 29 | [ADICTO](https://open.spotify.com/track/5gx39tUko6htjixWpIMqzM) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [ADICTO](https://open.spotify.com/album/7m9VVSSHC7u07Oy8a7H8XZ) | 3:14 |
 | 30 | [ESTOY A UN VASO NOMA'](https://open.spotify.com/track/21MdRfo44efC3AsbExT4by) | [VIUS](https://open.spotify.com/artist/29UQ00CArXvEpg0GjKyOPE) | [ESTOY A UN VASO NOMA'](https://open.spotify.com/album/5RjA2YTDUAojaHYyutcNH4) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Aquellos Tiempos](https://open.spotify.com/track/2J0L0LpkfmrVyZ9ez9ZfdY) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Aquellos Tiempos](https://open.spotify.com/album/7cq6fr12VRaq8kgbvX8oJV) | 2:13 |
 | 50 | [OJITOS ROJOS](https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [OJITOS ROJOS](https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV) | 3:41 |
 
-Snapshot ID: `MCwyMDhkNGZiZDhhZGQ1OGJlNTNhNjcyOWExZjQ0YWNkOTlkNWZjNzZh`
+Snapshot ID: `MCw2MGFhZGQwMmU0YzllODU0ZDAxNDZmN2VlOWY0ODZkNDEzMDJkNmE3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Shygirl.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,673 likes - 112 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,786 likes - 112 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 111 | [WannaPlay](https://open.spotify.com/track/0K0Z29VUyxchhKdmMGBNYm) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [PraXis](https://open.spotify.com/album/33wang90IMoiP2zLalEAC9) | 3:44 |
 | 112 | [Rosa](https://open.spotify.com/track/2ThQHv5qNDg1QtNb3gFJv9) | [Mia Moretti](https://open.spotify.com/artist/508HEnl2cDRksyq8hyQtRh) | [Rosa](https://open.spotify.com/album/1E3ZQ6io0107ZazD7ZPYhy) | 2:51 |
 
-Snapshot ID: `MCxiM2QwMWNkNzhmNTJkYzJjM2EyYTYxZWE5NmY5NmJiYTNhZWJjNzQ3`
+Snapshot ID: `MCxkZTMyZDI0YTNkYTA5ODE2ZjY3NTNiMmVlOWVmMjI3NThlNjFkYzIw`

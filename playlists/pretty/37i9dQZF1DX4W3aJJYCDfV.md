@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Eliza Rose + Calvin Harris \(pictured\), Tate McRae, Bugzy Malone and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,833 likes - 149 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,896 likes - 149 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,6 +156,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 146 | [Fear of Flying](https://open.spotify.com/track/584MZqI9i0HgwTEORcg68M) | [Tyrer](https://open.spotify.com/artist/7frgKOQYzrHKVG7Zqemwi6), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g) | [Fear of Flying](https://open.spotify.com/album/1kWfbfQiRlH3yC5rN82Sh8) | 2:07 |
 | 147 | [Purely From Instinct](https://open.spotify.com/track/5sb4unY0tKHX6j2ORgNDOT) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345), [Daniel Miller](https://open.spotify.com/artist/4zvLVP1siaenGVnUBDo2nt) | [Purely From Instinct](https://open.spotify.com/album/2gTo6LYeTieBg8knm97TTN) | 3:37 |
 | 148 | [Zone](https://open.spotify.com/track/6UDPdvoMulmGHHdapJmlOJ) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [Zone](https://open.spotify.com/album/6oHMFq66Q1jYi8H6i8WzZU) | 2:57 |
-| 149 | [Desire \(with VITA\)](https://open.spotify.com/track/6aCFpO6fjm5FTEsvqJtALr) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Vita](https://open.spotify.com/artist/6pk6yWYNSFNHkngDZPvjEL) | [Desire](https://open.spotify.com/album/5rrC3LhLmzUkQQC5mqO5AY) | 2:58 |
+| 149 | [Desire \(with VITA\)](https://open.spotify.com/track/6aCFpO6fjm5FTEsvqJtALr) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB) | [Desire](https://open.spotify.com/album/5rrC3LhLmzUkQQC5mqO5AY) | 2:58 |
 
-Snapshot ID: `MCwxMzY0MTA4ZTQxZmM4Yzk5ODYzMjY0Yjc2MTU5YjRkYzNiNDhmYzIz`
+Snapshot ID: `MCw2N2UxNzE1ZWRhNjE3NjM5YTliOWEwMjRjM2ZhNDY4MzcyNjM5NTZi`

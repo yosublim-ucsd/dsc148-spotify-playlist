@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,673 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,728 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 99 | [Two minutes](https://open.spotify.com/track/1lwxpEsQQ2GIOg1Ar5rB38) | [The Wisely Brothers](https://open.spotify.com/artist/11Cpz0a2etAGYbvCW6xLmb) | [Two minutes](https://open.spotify.com/album/2JZ6ecPu9mXbadyDzw53f8) | 2:40 |
 | 100 | [Sekwar](https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ) | 4:34 |
 
-Snapshot ID: `MCxhMTg3NzYzYTAxYTQyYzZmZWEyNzFhYWJkZWM5NWU1YzAxNmU3ZDI4`
+Snapshot ID: `MCw1YmMwNjk0ZDYwZWUyYThjZWMwM2RkYTk0YTgzNGM5OWJlODdjZTFk`

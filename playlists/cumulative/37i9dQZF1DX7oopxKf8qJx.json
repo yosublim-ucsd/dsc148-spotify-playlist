@@ -922,10 +922,28 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 172973,
       "name": "Over the Rainbow",
       "url": "https://open.spotify.com/track/1Ddu0OlbuSq2DEXQWUHbpE"
+    },
+    {
+      "album": {
+        "name": "Presenting Liberace",
+        "url": "https://open.spotify.com/album/6LqBBDxKjz95oqjXWLrR5F"
+      },
+      "artists": [
+        {
+          "name": "Liberace",
+          "url": "https://open.spotify.com/artist/695gNCDVviH3s5ZYVs2VNK"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173946,
+      "name": "Over the Rainbow",
+      "url": "https://open.spotify.com/track/5WvEnDZfAGj2hiQzdbnCzF"
     },
     {
       "album": {

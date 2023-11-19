@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aquele mexidão envolvente que o brasileiro ama / Foto: Leo Santana, Zé Felipe
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,691 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,994 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 | 67 | [Facilita Aí](https://open.spotify.com/track/4bT4Gbs7FA4cLyZeKtlGVO) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Facilita Aí](https://open.spotify.com/album/7xdmkdtyNToObPGmRYKVJc) | 2:23 |
 | 68 | [BRUXARIA 3000](https://open.spotify.com/track/4WerFN1IRbgy8RGqpe08SH) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Mc Aleff](https://open.spotify.com/artist/0TLNtcIt6Lyu1g22EDhwe1), [Yure IDD](https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [BRUXARIA 3000](https://open.spotify.com/album/4dSYs3xICrNR4Mob4nn3Sa) | 2:57 |
 | 69 | [Te Love \- Ao Vivo](https://open.spotify.com/track/6TnCI16uLWhyQCrHva9VWj) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Te Love \(Ao Vivo\)](https://open.spotify.com/album/0CbwVnmNGzzjFxnkuFLQTX) | 2:49 |
-| 70 | [SEQUÊNCIA REVOLUCIONÁRIA](https://open.spotify.com/track/5L5iGJlfO3FgICMMop7vJw) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [SEQUÊNCIA REVOLUCIONÁRIA](https://open.spotify.com/album/2xSh7dgbEdwBYV3qKs53SN) | 2:45 |
+| 70 | [SEQUÊNCIA REVOLUCIONÁRIA](https://open.spotify.com/track/5L5iGJlfO3FgICMMop7vJw) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [MC Rogê](https://open.spotify.com/artist/3nD4yj5ojI0Xts9fhWw8ui) | [SEQUÊNCIA REVOLUCIONÁRIA](https://open.spotify.com/album/2xSh7dgbEdwBYV3qKs53SN) | 2:45 |
 | 71 | [Pode Apostar \- Ao Vivo](https://open.spotify.com/track/0IDtnboUFETT3X81lLisTk) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Pode Apostar \(Ao Vivo\)](https://open.spotify.com/album/5UmfrsNwNH8e7vLuL3MHP9) | 3:13 |
 | 72 | [Tchuco Nela](https://open.spotify.com/track/3ShKPhFkexrwl7WoyTtNND) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Tchuco Nela](https://open.spotify.com/album/15MbkLbjzgrQchBQwybR5L) | 2:50 |
 | 73 | [Onde Tu Vai Sentar \- Ao Vivo](https://open.spotify.com/track/1EabI1QbflYnmXuMKtlzbI) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Onde Tu Vai Sentar \(Ao Vivo\)](https://open.spotify.com/album/0B8P5we7BnNCq7MU7vVHs7) | 3:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 | 79 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 | 80 | [Já Sei Namorar](https://open.spotify.com/track/0JwJWbMOceIShN6cXJLxbG) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Já Sei Namorar](https://open.spotify.com/album/37IAPkpRBmPJt2eGwXTMWS) | 2:27 |
 
-Snapshot ID: `MCw1ZDQxMWE2NjRiOTU0Yzc4ZmJhNDJlZjUyYzJlMDE0YjRhMWI5YjYz`
+Snapshot ID: `MCw1YjU5NmI2ODliMDA3OGNmNmE0MDM1Nzg0ZWEzN2VjMWRhOTIyZTZl`

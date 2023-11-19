@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,173 likes - 150 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,340 likes - 150 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 149 | [Simé Love](https://open.spotify.com/track/5c4HBB6vA5UqhWk4Of7NBO) | [Dowdelin](https://open.spotify.com/artist/1ogaqCgdEnTy7M5jO0tMue) | [Simé Love](https://open.spotify.com/album/4SPzMNobGVtQ7PWxJcIg2I) | 3:30 |
 | 150 | [Ojos Negros](https://open.spotify.com/track/1vRVJLRaCKiCdTRcfQmDNG) | [Desta French](https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W), [YoSoyMatt](https://open.spotify.com/artist/5ZsRHRaOpGEYw9rjJECXR6) | [Ojos Negros](https://open.spotify.com/album/2TQo6pKbGNMHD8G2NmrhQe) | 3:44 |
 
-Snapshot ID: `MCwxNDFjMjk4NmViN2I3MzlmYmE4MzJkZjAyNGYxMWU5MTdjOTg2ODRk`
+Snapshot ID: `MCwwNzk2OWIwMjQzNWFmNmU4OTQ2M2Y5OGZiNGJmYTljM2ZmMTFlYmQ0`

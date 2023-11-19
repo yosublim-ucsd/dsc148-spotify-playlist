@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,080 likes - 1,190 songs - 3 day 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,133 likes - 1,190 songs - 3 day 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1109,7 +1109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1099 | [South American Folk Songs](https://open.spotify.com/track/59hCD9o1KUDmMlIBiNkdeC) | [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [Rock 'n' Roll With the Modern Lovers \(Bonus Track Edition\)](https://open.spotify.com/album/20PmoTQRyWQrXnKDPcwdHO) | 2:37 |
 | 1100 | [Power to My People](https://open.spotify.com/track/1GQfs3yeL9Wh4bVwV9sgiZ) | [Sidiku Buari And His Jam Busters](https://open.spotify.com/artist/5F25S8XFM4yT9UZ0MAqCg1) | [Sidiku Buari and His Jam Busters](https://open.spotify.com/album/56p9BGQDAm6XPKeGbER942) | 4:32 |
 | 1101 | [El Oro De La Tolita](https://open.spotify.com/track/2a6bEcIjhZtSPAVfpABuhP) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP), [Grupo Taribo](https://open.spotify.com/artist/4gN6W6ozbn0iO9xrinJfeO) | [Bennu](https://open.spotify.com/album/0BPzY1R6aYUNRZcE2xa1Xf) | 4:10 |
-| 1102 | [Amazonas](https://open.spotify.com/track/0BTszzu4PNTJwMtxR4IqKL) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Ritmo Brasilero](https://open.spotify.com/album/6x05yr54DF4rkbkS2GGNNS) | 2:12 |
+| 1102 | [Amazonas](https://open.spotify.com/track/4VhLkWi8dbq4FCoTu3V7Me) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Quem É Quem](https://open.spotify.com/album/6GEO5pSp3ojwIm9vZqTtRd) | 2:10 |
 | 1103 | [Nega de Obluae](https://open.spotify.com/track/1XuX636OyGJ1pA70FzgX2f) | [Wando](https://open.spotify.com/artist/0GYeIu5i1MOyHuXKrmiqdQ) | [Brazilian Beats 2 \(Mr\. Bongo presents\)](https://open.spotify.com/album/4DMWbYrHlFeZVpv8EGMZXb) | 3:50 |
 | 1104 | [Dansakoni](https://open.spotify.com/track/5OtZ6fidRTpFZu0IzI0RVw) | [Peter Power](https://open.spotify.com/artist/5l5RxxtywxwYKaKJrl5Vrh) | [Afro Damba](https://open.spotify.com/album/3nwO2bf9tdn6fWqxNr3Age) | 6:28 |
 | 1105 | [Blackman's Word \(aka Black Man's Pride\)](https://open.spotify.com/track/4yiICPDc9s9ONtJZouvKc1) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Mr Soul of Jamaica](https://open.spotify.com/album/4EpjLfEAWQ4aVhlTMk69Fh) | 2:49 |
@@ -1199,4 +1199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1189 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1190 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCxkODIwYzA5MTMyNzU2M2MwODg0MDUwYWFiNzhiMmJhNTJmOTM0ZThj`
+Snapshot ID: `MCwzMzg2MWUxMTU1ODI2ODk5NzYwMTAwY2YzMTA2MjhmMzljYjQ3ZTlj`

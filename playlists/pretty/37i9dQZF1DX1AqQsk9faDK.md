@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 
 > Mensagens de Fé e músicas selecionadas por LUDI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,309 likes - 25 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,327 likes - 25 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 | 24 | [Jesus \- Ao Vivo](https://open.spotify.com/track/1tLprGViXjMjX1mwvncJc7) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Jesus \(Ao Vivo\)](https://open.spotify.com/album/6mf39m0DBS39bfATCHwNM5) | 7:17 |
 | 25 | [Amigo](https://open.spotify.com/track/5xruiSTs0bZVMKQ762NBDn) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [Jessé Perão](https://open.spotify.com/artist/4F0ulsWKtKLdRkhxXDWv7l) | [Amigo](https://open.spotify.com/album/3U2JoaceJGSqHgSGW0tnfG) | 9:13 |
 
-Snapshot ID: `MCxhNjE4OTIwYTc4NjdjNDhiMTRlODhhZDRlMmM3OWVjODNiOTVmMTUx`
+Snapshot ID: `MCxjYzY4MTYyM2I5ODY3ZmViYzU1NzkzZDE4ZTk3NDhjOWI3MjYyNmY1`

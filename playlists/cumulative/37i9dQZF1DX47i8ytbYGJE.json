@@ -3058,7 +3058,7 @@
     {
       "album": {
         "name": "Love Tattoo",
-        "url": "https://open.spotify.com/album/1QFPnggq5et7r2SUymBOap"
+        "url": "https://open.spotify.com/album/16s0XOdNFDoBnhY81QYY3H"
       },
       "artists": [
         {
@@ -3069,6 +3069,24 @@
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 179400,
+      "name": "Johnny Got A Boom Boom",
+      "url": "https://open.spotify.com/track/1LRCCvucMksncuUk7h7g9e"
+    },
+    {
+      "album": {
+        "name": "Love Tattoo",
+        "url": "https://open.spotify.com/album/1QFPnggq5et7r2SUymBOap"
+      },
+      "artists": [
+        {
+          "name": "Imelda May",
+          "url": "https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-19",
       "duration_ms": 179400,
       "name": "Johnny Got A Boom Boom",
       "url": "https://open.spotify.com/track/7psi2y1Mm973ZkYynLYuEC"

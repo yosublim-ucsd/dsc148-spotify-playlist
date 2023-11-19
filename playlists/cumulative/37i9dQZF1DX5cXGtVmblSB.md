@@ -4,7 +4,7 @@
 
 > Soft music to calm down cats, kittens and their humans.
 
-122 songs - 7 hr 55 min
+127 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,9 @@
 | [528 Hz \- Ethereal Sleep](https://open.spotify.com/track/3vtYExoYCVfURG0v770Lwc) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Ethereal Sleep \- Solfeggio](https://open.spotify.com/album/2lvIKEO0zvEuaV0tA9hcCj) | 2:02 | 2023-09-20 |  |
 | [528 Hz \- Unending Silence](https://open.spotify.com/track/39IYyk3FebMt3ZuYmwhzrg) | [Aerin Villegas](https://open.spotify.com/artist/21bfAnYguvlVvYNMJmbRAk) | [Unending Silence](https://open.spotify.com/album/6Qavh6mFHREtBkl9eelsSS) | 1:57 | 2023-07-03 | 2023-11-08 |
 | [528 Hz \- Why The Rush](https://open.spotify.com/track/1mTiTdeoUoB3kXEqv2aXNH) | [Dora Waller](https://open.spotify.com/artist/36gygmeIKRKTfOHo5pf6E4) | [Why The Rush \(Solfeggio Frequencies\)](https://open.spotify.com/album/2lfMgal1aJw6QngoiMEBQH) | 2:17 | 2023-09-20 |  |
+| [528 Hz Meditation Frequencies](https://open.spotify.com/track/6s5gzuQQQOIa8C1jXurtEy) | [Zoe Sutherland](https://open.spotify.com/artist/3u1Ksfmps8VxbPLL4a2EAb) | [528 Hz Meditation Frequencies](https://open.spotify.com/album/4oyDhK0jUqBJsOpOFCsf4O) | 2:40 | 2023-11-18 |  |
 | [528 Hz Positive Waves](https://open.spotify.com/track/7qZ5aBw4BFPdudxXNHBfxt) | [Elnas](https://open.spotify.com/artist/55WeSuvEkyLLgJjDU2zAO0) | [528 Hz Healing Journey](https://open.spotify.com/album/2MTNpysnpcfKzgGEwUoivz) | 2:38 | 2023-07-03 |  |
+| [528 Hz Vibrations](https://open.spotify.com/track/0WS0B2Al1Ps3IGv1KjR3KL) | [Willow Bird](https://open.spotify.com/artist/4xVge9wtVXlLcmj9BvDoHy) | [528 Hz Vibrations](https://open.spotify.com/album/6cM6ErtSDMxqqFx2tZEdA1) | 2:38 | 2023-11-18 |  |
 | [528 Reiki Sleep \- Ambient Version](https://open.spotify.com/track/2k3S07rtQqG3ITt79oXkrO) | [EIXE](https://open.spotify.com/artist/4TqoArkD4dRhe02UeuxO54) | [Reiki Sleep](https://open.spotify.com/album/3DGobUtGGPwuAt0c3XGcxR) | 1:55 | 2023-09-20 | 2023-11-08 |
 | [528hz Love Frequency](https://open.spotify.com/track/7mxLKVzvBUb0K6W8wKwBcx) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frecuencies Vol\. 1](https://open.spotify.com/album/7hNbEpRZcaTHj38NHxqXiz) | 3:46 | 2023-09-20 |  |
 | [528hz The Love Frequency](https://open.spotify.com/track/5wmW9L9ft2J9QxWhxJhLOx) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frequencies Vol\. 2](https://open.spotify.com/album/0Ozqfn85aP165ozxRnPadd) | 5:17 | 2023-09-20 | 2023-11-08 |
@@ -53,6 +55,7 @@
 | [Devine Minds](https://open.spotify.com/track/0q7nN1QZG0NmhmINE08LZl) | [Bernie Longo](https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1) | [Devine Minds](https://open.spotify.com/album/1xom6Zd4dfnWXGZGzTuEPS) | 3:14 | 2023-09-20 |  |
 | [dreaming](https://open.spotify.com/track/1XoDGArXUNbnF67RqnZRPS) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [julia](https://open.spotify.com/album/4T2QXtDjvQx1LhWsiyVFVr) | 3:22 | 2023-10-16 |  |
 | [Drifting Off](https://open.spotify.com/track/3h6Vsk0vcAyThKVtxZV9FN) | [Awex White](https://open.spotify.com/artist/7b2kh3GmjuTNQfevsLjeiT) | [Drifting Off](https://open.spotify.com/album/0qwKY37EcH9KvHChwVazQN) | 2:46 | 2023-09-20 |  |
+| [Elevated Mind](https://open.spotify.com/track/2VsyEbxZ2zqotkxGxtXZYg) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Elevated Mind](https://open.spotify.com/album/113coJ1WX7Nghppy18eIAc) | 2:18 | 2023-11-18 |  |
 | [Embraced 528 Hz](https://open.spotify.com/track/7G8DeOrTj3lYBCEkVhaZVg) | [Aaera Mio](https://open.spotify.com/artist/5v8MkoVgzby0RDMNi54att) | [Embraced 528 Hz](https://open.spotify.com/album/6ql1fgHhFmEtMnft8uWk7m) | 2:59 | 2023-09-20 |  |
 | [Energy 396 Hz](https://open.spotify.com/track/1o8P0zMkhl9YsqFJbK8OoZ) | [Aster Mar](https://open.spotify.com/artist/55CdGRtywBf5eAehITb8IZ) | [Energy 396 Hz](https://open.spotify.com/album/7MmxsEdeci3fj7AXz3n1UN) | 2:58 | 2023-10-16 |  |
 | [Eternal Moonshine 741 Hz](https://open.spotify.com/track/1e1RbrYKiKoSi6K63qfMU2) | [Gary Lovelin](https://open.spotify.com/artist/1X0Pz328T2O3e2yioaDGTk) | [Eternal Moonshine 741 Hz](https://open.spotify.com/album/6XkeOuyw0OSUaxR3N2Q51k) | 2:17 | 2023-07-03 |  |
@@ -85,6 +88,8 @@
 | [My Heaven](https://open.spotify.com/track/30FDNA6W5jUWltHByCvwrA) | [World Of Ning](https://open.spotify.com/artist/2S1WPnScXc94xexaArzFf9) | [My Heaven](https://open.spotify.com/album/0MdDvpezYmodpUTFTe6IGz) | 3:10 | 2023-09-20 |  |
 | [Nalalion \(432 Hz\)](https://open.spotify.com/track/1FQe7McZPbSBroKSWzI3e5) | [Cypress West](https://open.spotify.com/artist/1hDe9iKiHylj0C0wdXz3ZL) | [Nalalion \(432 Hz\)](https://open.spotify.com/album/0w7s8PbOun1lV7MXfleDQx) | 2:51 | 2023-11-07 |  |
 | [Naname 528 Hz](https://open.spotify.com/track/2maqfMMJ5PBFwolrqMwmK7) | [Chaccara](https://open.spotify.com/artist/0aT2mhHdKCh0zGSX7Mp15Q) | [Balaprakash \- Naname](https://open.spotify.com/album/2VMGq99T9eanBcnbLh1Vje) | 3:18 | 2023-05-19 |  |
+| [Natural Light \- 432 Hz](https://open.spotify.com/track/6MtMqTZd0EDd7EGJWrzOUU) | [Elvin Malm](https://open.spotify.com/artist/6NKcTiARAryvU82LrRjcY1) | [Natural Light \- 432 Hz](https://open.spotify.com/album/3ilvA8fYzIF7Z5snPCzGsL) | 3:06 | 2023-11-18 |  |
+| [Neprieinamas](https://open.spotify.com/track/79ksHfdJL2SzJjwmdUQedQ) | [Teo Walter](https://open.spotify.com/artist/6JZdERTqI6ikmDkKmY4BKR) | [Neprieinamas](https://open.spotify.com/album/3dj0tEzqDcxLkZRLPTLex9) | 3:11 | 2023-11-18 |  |
 | [Night Angels \(432 Hz\)](https://open.spotify.com/track/0mqCFRRx3Xio6cLL1hB48l) | [Rah Moon](https://open.spotify.com/artist/2ZTWRQ0L4s7UuB55QBxOfN) | [Night Angels \(432 Hz\)](https://open.spotify.com/album/1v3Jr68gJqyBaAHXCPRT94) | 2:53 | 2023-11-07 |  |
 | [Northern Drifts](https://open.spotify.com/track/3CSr2eXclVz84rZs8nrwvL) | [Glacial Patience](https://open.spotify.com/artist/3Ep6YPlzSx1J4CkQG4Fqav) | [Northern Drifts](https://open.spotify.com/album/6E3qavb0GObRrA4Gza3iip) | 3:06 | 2023-09-20 |  |
 | [On the Nature of Daylight](https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Natalia Bonner](https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB), [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Philip Sheppard](https://open.spotify.com/artist/6qzi6mPoJU4cBlO76U1Il1), [Chris Worsey](https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 6:11 | 2023-05-19 | 2023-10-17 |

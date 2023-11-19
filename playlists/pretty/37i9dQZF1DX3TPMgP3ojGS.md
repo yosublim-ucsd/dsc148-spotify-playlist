@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,083 likes - 100 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,345 likes - 100 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 99 | [Entangled \- Ole\-Bjørn Talstad Rework](https://open.spotify.com/track/3ZvBA6TQA4CTOZNOyxou90) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Entangled \(Ole\-Bjørn Talstad Rework\)](https://open.spotify.com/album/01gAuQyr7X51xepWCsi4az) | 2:13 |
 | 100 | [Morning Dance](https://open.spotify.com/track/73uDJDqIcF5QQWXZ19rH8z) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Morning Dance](https://open.spotify.com/album/0p1cZEnGXZvsDbDvKfCevD) | 1:55 |
 
-Snapshot ID: `MCwyZmU0ZjcyOTIyZjIyNTY2ZGVhNmUxMzgxNGRmZjVlNDMwYjQxNmRh`
+Snapshot ID: `MCw5MzFmOTJjNTUxMmJmYjFjOTQ5MTAyZjIxMjNjMjAyNmIyMmVhY2E2`

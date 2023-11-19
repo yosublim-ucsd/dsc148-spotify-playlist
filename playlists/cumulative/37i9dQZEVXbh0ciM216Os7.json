@@ -728,7 +728,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 204277,
       "name": "Almost blue",
       "url": "https://open.spotify.com/track/2TvvypFABr65clA6O68qfn"
@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 116293,
       "name": "Better Place (Family Harmony)",
       "url": "https://open.spotify.com/track/0YeUNNfvquPIP4tIWHNgaS"
@@ -3146,7 +3146,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 235545,
       "name": "Claudine",
       "url": "https://open.spotify.com/track/3vTSGUgTcDJHO47dlkzDcU"
@@ -3220,7 +3220,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 234212,
       "name": "Comforter",
       "url": "https://open.spotify.com/track/7Ebd5Fy8MUNjy8BSAtPqxu"
@@ -5722,7 +5722,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 174160,
       "name": "Firework in the Falling Snow - Acoustic Version",
       "url": "https://open.spotify.com/track/3x1Oa8gNgiVvvAEXQb7kSl"
@@ -7479,6 +7479,24 @@
     },
     {
       "album": {
+        "name": "Houdini (Metal Version)",
+        "url": "https://open.spotify.com/album/2QNkxyVHWFpaCVqhDV0a84"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205641,
+      "name": "Houdini (Metal Version)",
+      "url": "https://open.spotify.com/track/2fHwdC1OKcFB9m1ZqXyQnq"
+    },
+    {
+      "album": {
         "name": "How It Ends",
         "url": "https://open.spotify.com/album/5A8JOYgRDNtIjZZ0iKLHoI"
       },
@@ -8343,6 +8361,32 @@
     },
     {
       "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/2UunCrXmL8bQME9Wye1dBK"
+      },
+      "artists": [
+        {
+          "name": "Jason Greenhart",
+          "url": "https://open.spotify.com/artist/0iLyV4LIHbZMNmuXP6kCKG"
+        },
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        },
+        {
+          "name": "Metacaum",
+          "url": "https://open.spotify.com/artist/2B0a78X6BEsBiBX9ly1GFm"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133015,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6vds23cfuR8Wik0sOsEVsO"
+    },
+    {
+      "album": {
         "name": "Live At SoFi Stadium",
         "url": "https://open.spotify.com/album/1OARrXe5sB0gyy3MhQ8h92"
       },
@@ -8922,7 +8966,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 260265,
       "name": "Killing Floor - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
       "url": "https://open.spotify.com/track/1dlZtNHfWTIv4F7AHeTmbe"
@@ -9408,7 +9452,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 189520,
       "name": "Let's Get Married",
       "url": "https://open.spotify.com/track/01E6LkTTHDP35lIjDa0dQi"
@@ -11382,7 +11426,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 122857,
       "name": "New Years",
       "url": "https://open.spotify.com/track/14FMsS40jodaZepDEXs5T1"
@@ -11942,7 +11986,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 300545,
       "name": "Oops! I Did It Again (Metal Version)",
       "url": "https://open.spotify.com/track/1P2OEmqdhETZEkD14C8GFV"
@@ -13753,6 +13797,24 @@
     },
     {
       "album": {
+        "name": "Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967",
+        "url": "https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114133,
+      "name": "Sgt. Pepper's Lonely Hearts Club Band - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
+      "url": "https://open.spotify.com/track/0CuiomH8qVyMjFAyC2pWfN"
+    },
+    {
+      "album": {
         "name": "Shadow Boxin' 2.0",
         "url": "https://open.spotify.com/album/3VK20AvaDAbt9XYOBOEdAf"
       },
@@ -14590,7 +14652,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 196022,
       "name": "Starla",
       "url": "https://open.spotify.com/track/2nyf95vcNywPnHYxRBX1YV"
@@ -14738,6 +14800,28 @@
       "duration_ms": 172981,
       "name": "Stimulation - Audiotree Live version",
       "url": "https://open.spotify.com/track/0HjsxcdrfdR2X7oC9DSWTQ"
+    },
+    {
+      "album": {
+        "name": "Stop & Stare",
+        "url": "https://open.spotify.com/album/6fZnn5DVBt0RhYiv8eMOvX"
+      },
+      "artists": [
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        },
+        {
+          "name": "Caleb Mitchell",
+          "url": "https://open.spotify.com/artist/6JkbFE2ZN13DVR1Z0lXZ7Z"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169900,
+      "name": "Stop & Stare",
+      "url": "https://open.spotify.com/track/2pFYZZy32W3GMSDq7co3vp"
     },
     {
       "album": {
@@ -15350,7 +15434,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 232306,
       "name": "Te Mata",
       "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
@@ -15576,7 +15660,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 152250,
       "name": "The Artist",
       "url": "https://open.spotify.com/track/6gKBP1LA3SHLldVxjtijbN"

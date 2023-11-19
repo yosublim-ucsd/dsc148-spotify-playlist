@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 
 > Mellow songs from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,056,826 likes - 250 songs - 15 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,057,117 likes - 250 songs - 15 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 | 249 | [The Best You Had](https://open.spotify.com/track/3i0VfLdOUCks9DmAht65XI) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [The Sun Will Come up, The Seasons Will Change](https://open.spotify.com/album/5XsBQrYhmDWyYfXGlfsZJU) | 2:56 |
 | 250 | [Everlasting](https://open.spotify.com/track/2kb3LGpIdib7c2npWf4Kp3) | [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [Everlasting](https://open.spotify.com/album/5oQ8I2jtpVbCBcbt5FLTel) | 3:49 |
 
-Snapshot ID: `MCxmYzIwMTFjZjkwZGFkYjE5MGZjNjA4NDFjZWQzN2E3YjZhNzcxZDcx`
+Snapshot ID: `MCwxODQ5ODlhNzE2ZWQzY2E3OWY0MTBmMmY3Yzg4MmFhMzNkZDhmYTFl`

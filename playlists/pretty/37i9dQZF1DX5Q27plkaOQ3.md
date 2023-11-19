@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: PEEKABOO
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,461 likes - 125 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,488 likes - 125 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 77 | [POETIC PIT](https://open.spotify.com/track/2vvpJ7CJ80THGG8gLDGxug) | [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [POETIC PIT](https://open.spotify.com/album/0V9Zs7hP8Fj7rLIb5UNPpT) | 4:40 |
 | 78 | [Elite](https://open.spotify.com/track/3At9iZJpHFkIsVFO4IKe4u) | [Abelation](https://open.spotify.com/artist/3ezpQc6XHKaha2SmkFsEfR), [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Elite](https://open.spotify.com/album/3O6ivFNYkhrVLtEY82PRFM) | 3:53 |
 | 79 | [Dale \(with Blvkstn\)](https://open.spotify.com/track/5W7s8j8GWNSAyHl4D0F8ab) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Blvkstn](https://open.spotify.com/artist/70hTQzJxZt0JLvFzQVITHe) | [Dale \(with Blvkstn\)](https://open.spotify.com/album/0pfeHOCyMOltzXv1K0ZYBL) | 3:15 |
-| 80 | [Be Kind, Rewind](https://open.spotify.com/track/3AlizcdWe1hKHrSgnwZYSp) | [Infekt](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [Be Kind, Rewind](https://open.spotify.com/album/5YNWyJ6NIuW7U5AU7GRc4R) | 2:49 |
+| 80 | [Be Kind, Rewind](https://open.spotify.com/track/3AlizcdWe1hKHrSgnwZYSp) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [Be Kind, Rewind](https://open.spotify.com/album/5YNWyJ6NIuW7U5AU7GRc4R) | 2:49 |
 | 81 | [BUMPIN \(with BLVK JVCK\)](https://open.spotify.com/track/6JKyHmlmKDCEbudFvf9pB0) | [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg) | [BUMPIN \(with BLVK JVCK\)](https://open.spotify.com/album/7wsAdzdaGKfzkCE8kqjTLh) | 2:01 |
 | 82 | [Premier League](https://open.spotify.com/track/1UJdnazAX240LtuwBA2wcY) | [MUERTE](https://open.spotify.com/artist/6TWscSE05GH5UvJpVq8y7y), [Oddprophet](https://open.spotify.com/artist/6KqmNCHompcbyvzpesJTYU) | [Premier League](https://open.spotify.com/album/4GdAWtnLHOkgGZ09KLvFJc) | 2:49 |
 | 83 | [Black Magic](https://open.spotify.com/track/2tb1wD0ePjDJBQNUla0foR) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Black Magic](https://open.spotify.com/album/1TJDbwekfQcLUM8TmPKPCM) | 3:50 |
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 103 | [The Uncrowned King](https://open.spotify.com/track/6S0HcckkiDavLekQGotRSM) | [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Daemon](https://open.spotify.com/artist/2qawvgUCgDfZA7CAlqY9yt) | [Uncrowned](https://open.spotify.com/album/2y0BjLQMBucWFiGHAWDNHe) | 3:40 |
 | 104 | [King Mathematics](https://open.spotify.com/track/5Io5ZJw8KIFQb6E0paDhXY) | [12th Planet](https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz) | [King Mathematics](https://open.spotify.com/album/46v2Sk8xBnqHtq1sRcDUZH) | 2:33 |
 | 105 | [Full Circle](https://open.spotify.com/track/0oeSHt8QrW3olWPkFO4WbG) | [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH), [Jantsen](https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg), [MC Spyda](https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl) | [Full Circle](https://open.spotify.com/album/5gPc52ohFMwjEGcV3sQu4N) | 3:38 |
-| 106 | [Internet G](https://open.spotify.com/track/0WfQUDK0wxEjecrAzQL84y) | [Infekt](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [Internet G](https://open.spotify.com/album/3qKhqPPWMjqi8x8N6C2PXk) | 2:57 |
+| 106 | [Internet G](https://open.spotify.com/track/0WfQUDK0wxEjecrAzQL84y) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [Internet G](https://open.spotify.com/album/3qKhqPPWMjqi8x8N6C2PXk) | 2:57 |
 | 107 | [Arcadia](https://open.spotify.com/track/5ejKUS1gyCQlizpaYYk7uO) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Arcadia](https://open.spotify.com/album/020sw1PoNOrKDpA8t1Vgou) | 3:18 |
 | 108 | [Feel Nothing](https://open.spotify.com/track/2KUlPVz7UTeOh11er0lYRI) | [Kozmoz](https://open.spotify.com/artist/4jwHh8156lpD0ifm9bUCz4), [CELO](https://open.spotify.com/artist/0cF121Uo22slYVIvyft0Eh) | [Feel Nothing](https://open.spotify.com/album/5W2pW7RDyS1ioKpjG27rS2) | 2:27 |
 | 109 | [Hammer Time](https://open.spotify.com/track/1N94c7T72slyq4tl2DjDqE) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Hammer Time](https://open.spotify.com/album/5KtTHlM5BH0d0eMANZS39s) | 3:13 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 120 | [Legalize Nuclear Bombs](https://open.spotify.com/track/5Tp9Ojtfm0VX7vR3u8oHwv) | [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Legalize Nuclear Bombs](https://open.spotify.com/album/0tDknUXGhQ2i5dOZUU7VPz) | 2:48 |
 | 121 | [Mirage](https://open.spotify.com/track/46brJGJA9VTxjTGVfw41gu) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby), [Tasha Baxter](https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og) | [Mirage](https://open.spotify.com/album/1SXcW1GgimXzhgFF9AHUr2) | 3:48 |
 | 122 | [The Epic](https://open.spotify.com/track/0AhFGeVzLGn3VaPplKhSKZ) | [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK) | [The Epic](https://open.spotify.com/album/23nPvYzq1gTMnGgw8alTdS) | 2:33 |
-| 123 | [Feedback](https://open.spotify.com/track/7ejEHmuauEs9xcqSGlcwXL) | [Infekt](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [Feedback](https://open.spotify.com/album/2FcDexxgPzeqR9xPW1Szhk) | 2:58 |
+| 123 | [Feedback](https://open.spotify.com/track/7ejEHmuauEs9xcqSGlcwXL) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [Feedback](https://open.spotify.com/album/2FcDexxgPzeqR9xPW1Szhk) | 2:58 |
 | 124 | [Solar Plexus](https://open.spotify.com/track/3cxiRmB1lT8GGrUup4E0w9) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Quorum EP](https://open.spotify.com/album/5wWG3D6UgzV13EFjSrOVjP) | 3:45 |
 | 125 | [Buckshots](https://open.spotify.com/track/7cl3BbyjU0AdCbbsf1lIx8) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Buckshots](https://open.spotify.com/album/4ZsDomkJqxfKQcH25O0XyK) | 4:11 |
 
-Snapshot ID: `MCxlZWZiMjRlZWQwODg0YzQwZGNhZDczMmU2ZGRlMjNlYzYzMWNhMzUz`
+Snapshot ID: `MCwzZTBiNzQ5NDAyYTAzMWQxYmNlYjExZTVjZjBkOWU5OThhOGQwMzQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring Riordan
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,988 likes - 125 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,038 likes - 125 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 124 | [Morena](https://open.spotify.com/track/1D0pCmlp5TnFaCTifJGAHW) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Kuisitambó](https://open.spotify.com/artist/6iWNV6MJhL8469VQpRRiMK) | [Morena](https://open.spotify.com/album/2vSBA2DSlXOcamxOAFLAht) | 2:48 |
 | 125 | [Bees](https://open.spotify.com/track/22UUH7Hevlh24CBgkOBHFK) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy) | [Bees](https://open.spotify.com/album/07vN0p57AmM75EYtkoTIwO) | 2:30 |
 
-Snapshot ID: `MCwzYjM1NDlmNmU1MWU1YmNjOWYxODExMGEzYjYwNzVkMGEyODJhNGYx`
+Snapshot ID: `MCxmOTM4MmQ0ODY4YTM5MDVjN2U4YjY0OGE4NDY4MTM0ZjRiYTIwY2U3`

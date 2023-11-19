@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,363 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,481 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 99 | [Sufoco](https://open.spotify.com/track/0hejQ1VJ8ySSTK4DE9EY4v) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [BRAZIL ALL STARS : SAMBA HITS](https://open.spotify.com/album/6dadiaGXwknT2ngG6sN4eL) | 4:03 |
 | 100 | [Disseram Que Eu Voltei Americanizada \- Live 1992](https://open.spotify.com/track/7wxDeUTfCqoZf0ZaKFhcdN) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Circulado Vivo](https://open.spotify.com/album/0OLjXOG6wYYWfvFj049bGm) | 1:39 |
 
-Snapshot ID: `MCw2ODRkMDJmMTU3MTI3ZTI2MWE1MWY0ZTJmMzdkMDNiNWEzYTM5YTg0`
+Snapshot ID: `MCwwN2U0ZTg4ZmVhZjM2ZDJmYmIwMjYyMmEzYTMzNzNlMGM5NjBkZTY5`

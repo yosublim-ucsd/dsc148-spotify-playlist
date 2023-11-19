@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,933 likes - 200 songs - 17 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,958 likes - 200 songs - 17 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 | 199 | [EveryWhen \- Bonus Track](https://open.spotify.com/track/2HGeIYpOrU9u5UR9Z98mx9) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Longest Year \(2020\)](https://open.spotify.com/album/3FKwVYsfaB2XWO4anB4LeC) | 4:37 |
 | 200 | [Waves \- Oliver Doerell & Helga Raimondi Rework](https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4) | [Vetle Nærø](https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf) | [Waves \(Oliver Doerell & Helga Raimondi Rework\)](https://open.spotify.com/album/5t2W6cCG2GjfC1gRVZv1eB) | 5:14 |
 
-Snapshot ID: `MCwxNjY4ZGQxZWM1MjE0Y2VjY2IzNjkyNzg0ZDdiYzQ3MDQ0NWIwMDBm`
+Snapshot ID: `MCxlMDQ4ZTg3ZmZmOTU2MmQxZmMyNTVjZWI1MTIwNTQ3YzJhZTgxYmE1`

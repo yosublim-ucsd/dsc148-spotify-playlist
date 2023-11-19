@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Lucius
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,562 likes - 150 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,575 likes - 150 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 149 | [I Was Wrong](https://open.spotify.com/track/3UQKlahxsfacw8vKmTYSzb) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Thrilled To Be Here](https://open.spotify.com/album/03tlaFyvYYWHr16yGL01qZ) | 3:14 |
 | 150 | [Wisteria](https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Wisteria](https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU) | 2:49 |
 
-Snapshot ID: `MCxiZGQwN2FhMDcwODQyY2YxMjAzMGU5NGI3NjEwMGI4ZTIzNDlmNzEx`
+Snapshot ID: `MCw3NjQ5MmFlYThlODU5NzBiZjQyZGNmMDdiMGI4YjI4Y2E5NTg2NDE1`

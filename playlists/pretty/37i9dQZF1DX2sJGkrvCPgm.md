@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,223 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,351 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 | 99 | [Born Is The King \(It's Christmas\)](https://open.spotify.com/track/43mAbdlwkCFKSFF0pvbz4s) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [We Have A Savior](https://open.spotify.com/album/1DltfgAtgRgLmXbhve2g4B) | 3:21 |
 | 100 | [Jesus Christ Is Born](https://open.spotify.com/track/7zyzK3nsLKF5uTPmHW4PqO) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [Jesus Christ Is Born](https://open.spotify.com/album/6X18ytx6vD93n9mn6uLS8F) | 3:02 |
 
-Snapshot ID: `MCw4MmE2ZWM3N2U5ZWEwMzJjZWVkNzUzY2VjOTY2N2U0NWVjNDAyZTQ4`
+Snapshot ID: `MCwwNzFmMjg4ZTUyOTA3ODg3NTQ4NjEyMWY0MDRlZjgxY2Q2MzYwNWUy`

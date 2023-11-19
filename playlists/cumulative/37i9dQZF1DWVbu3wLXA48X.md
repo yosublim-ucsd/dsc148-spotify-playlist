@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: mxmtoon
 
-1,259 songs - 3 day 4 hr 3 min
+1,260 songs - 3 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,7 +491,8 @@
 | [HMU](https://open.spotify.com/track/60U1w8wJMlPvXRdPaLAYqi) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [HMU](https://open.spotify.com/album/7ARY8uh4CSM067QGCluIiT) | 1:58 | 2021-12-30 | 2022-01-21 |
 | [Hold](https://open.spotify.com/track/5qe2mnouQfrbzec96JvBD3) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Halfway To Heaven](https://open.spotify.com/album/433ib6biZjvMHN37vl9n0h) | 4:04 | 2022-01-28 | 2022-03-25 |
 | [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 | 2023-04-28 | 2023-06-17 |
-| [Hollywood and Fear \- Bonus Track](https://open.spotify.com/track/7v3hNndUoHBFsEfBGMxybA) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Hollywood and Fear \(Bonus Track\)](https://open.spotify.com/album/36gqLUTwfOltzofiPMcM3q) | 3:29 | 2023-10-13 |  |
+| [Hollywood and Fear \- Bonus Track](https://open.spotify.com/track/3VeZKqmfYKIpj69KFIfWeH) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Big Picture \(Expanded Edition\)](https://open.spotify.com/album/6327l4EuoWm8xFs8AwuCbv) | 3:29 | 2023-11-13 |  |
+| [Hollywood and Fear \- Bonus Track](https://open.spotify.com/track/7v3hNndUoHBFsEfBGMxybA) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Hollywood and Fear \(Bonus Track\)](https://open.spotify.com/album/36gqLUTwfOltzofiPMcM3q) | 3:29 | 2023-10-13 | 2023-11-19 |
 | [Hollywood Bowl](https://open.spotify.com/track/0837Am3wsBxCmfxo1DiFmz) | [Rob Grant](https://open.spotify.com/artist/5Y1ry2fgj4VzEjWndZu8Rw), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lost At Sea](https://open.spotify.com/album/7kwav2MO9gEBS55o0Ui3n9) | 4:13 | 2023-06-09 | 2023-07-17 |
 | [Home \(From Barbie The Album\)](https://open.spotify.com/track/1GPrL6feCYodRiYlZkXs5I) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Home \(From Barbie The Album\)](https://open.spotify.com/album/1sNwCxUQOJNIPiWhXu6YBF) | 3:46 | 2023-07-21 | 2023-08-26 |
 | [Home is Wherever you Are](https://open.spotify.com/track/703VBRaail5rJc0nTJcuwq) | [Rifan Kalbuadi](https://open.spotify.com/artist/6dO5K9GKFs1yW4fHZLI3ys) | [Home is Wherever you Are](https://open.spotify.com/album/1KIwhHoM23KbQF6O8eOrbj) | 4:01 | 2023-01-27 | 2023-03-11 |

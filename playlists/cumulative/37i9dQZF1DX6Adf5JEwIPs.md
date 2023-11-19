@@ -4,7 +4,7 @@
 
 > Lo más nuevo de la Música Mexicana\. Cover: Julión Álvarez
 
-3,926 songs - 8 day 13 hr 29 min
+3,927 songs - 8 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -554,6 +554,7 @@
 | [Como Le Hago](https://open.spotify.com/track/6NiRE8pempwAyx0oTCQJmR) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [Como Le Hago](https://open.spotify.com/album/7hiV3QUkA2R6y85Uo5hDmF) | 2:33 | 2023-05-19 | 2023-05-27 |
 | [Como Le Hiciste](https://open.spotify.com/track/0T0WE1TkwwptWl50uagdoH) | [Emanuel Salas](https://open.spotify.com/artist/5U0tTQAH6ksYNVqVDycO4V) | [Como Le Hiciste](https://open.spotify.com/album/3lwRexlLdHthy6imSKRVm0) | 3:26 | 2022-05-20 | 2022-05-28 |
 | [Como Me Duele \- En Vivo](https://open.spotify.com/track/3sKNtj6GYp3xt0Evrt6MAF) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi), [Leandro Rios](https://open.spotify.com/artist/52k6EnkHcZ4yI8MFpwtrdn) | [Como Me Duele \(En Vivo\)](https://open.spotify.com/album/1uTLpYbb4vVMDP6d2Ese2F) | 3:54 | 2023-01-27 | 2023-02-04 |
+| [Como No Quererte](https://open.spotify.com/track/7mfdX4DRVX18IUSi2F1Cki) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 2:34 | 2023-11-17 |  |
 | [Como Olvidar](https://open.spotify.com/track/6yp2M1xFQPOlhWJJ7pfs49) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Como Olvidar](https://open.spotify.com/album/68VI31gsdOueIYjSKPwPlx) | 3:24 | 2023-06-30 | 2023-07-08 |
 | [Como Pancho Villa](https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Como Pancho Villa](https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob) | 2:23 | 2023-10-13 | 2023-10-28 |
 | [Como Pudiste](https://open.spotify.com/track/7yrdhZz3BaC8qjMSQf5YtD) | [Carlos Sarabia](https://open.spotify.com/artist/1aLC6PgrX4A5tfrpQozpQw) | [Mi Adn](https://open.spotify.com/album/4Tbj533AaMs2mAiw3KxMZV) | 3:10 | 2022-07-08 | 2022-07-16 |

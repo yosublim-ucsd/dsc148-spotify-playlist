@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0d3wigiTss.md) - [plain]
 
 > Adormecer ao som relaxante da chuva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,467 likes - 433 songs - 20 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,542 likes - 433 songs - 20 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -442,4 +442,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0d3wigiTss.md) - [plain]
 | 432 | [Storm Through The Night](https://open.spotify.com/track/1OMb4pb98GL1SJBJqM3Mq3) | [Skyyy](https://open.spotify.com/artist/1d1rh6BlGzeXaj67hVeDXe) | [Storm Through The Night](https://open.spotify.com/album/3ET4fRTZD9UegXiX0tgky5) | 2:36 |
 | 433 | [Fall asleep Storm](https://open.spotify.com/track/75yganfLLS5N0oeLFt9gW4) | [Rain Hive](https://open.spotify.com/artist/7926Y6ve9rJTFcjeCYTjqx) | [Rain Hive](https://open.spotify.com/album/5hAjWiqgkKLll4XWQ3n2Yx) | 2:30 |
 
-Snapshot ID: `MCw5MTMwMDU5OTQxODA2MDFhZDc2ZTIyYTdlZWIyZjU0OThkY2RkYjcw`
+Snapshot ID: `MCxmMzhjNzIzMTE4YzJiY2RiMTM5NWE4ZGQ5MzE0Nzk3OGJkYjZjODFh`

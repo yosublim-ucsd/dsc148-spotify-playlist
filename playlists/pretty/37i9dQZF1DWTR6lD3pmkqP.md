@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,566 likes - 250 songs - 20 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,636 likes - 250 songs - 20 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 | 249 | [Retro Metro](https://open.spotify.com/track/5sHcZRsYpoWVYS1boixW2H) | [Bobby Rausch](https://open.spotify.com/artist/7Ac3BjcxFq01tJlrdx0Neh) | [Retro Metro](https://open.spotify.com/album/2pBZQ9XUB2jFMp2Y8suW3a) | 4:23 |
 | 250 | [Ganjam](https://open.spotify.com/track/3T1NWRHKulKizoexFmhXY4) | [Kansas Smitty's](https://open.spotify.com/artist/7t02NhXZ77sXywJ3XghI7C) | [Plunderphonia](https://open.spotify.com/album/2xemfhIinfRJwA069G7twp) | 4:57 |
 
-Snapshot ID: `MCxmM2UyNDAyNTYzZTQzNmNiOTYzMjRlYzhiNTUyNjExMTQwYzUxM2Zm`
+Snapshot ID: `MCxjYmJjODY2N2Y4ZDUzMDdiMzAyYzM4YzY3MjY3OGUwY2VmODJjODdl`

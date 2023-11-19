@@ -905,6 +905,24 @@
     },
     {
       "album": {
+        "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
+        "url": "https://open.spotify.com/album/6cv47fKkAyi9Lm5wwud4It"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233542,
+      "name": "Apeman (2020 Stereo Remaster)",
+      "url": "https://open.spotify.com/track/0CVlP2QMGqr9kP527ay07S"
+    },
+    {
+      "album": {
         "name": "Lola vs. Powerman and the Moneygoround, Pt. One + Percy (Super Deluxe)",
         "url": "https://open.spotify.com/album/6lL6HugNEN4Vlc8sj0Zcse"
       },
@@ -916,7 +934,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 233400,
       "name": "Apeman - 2014 Remastered Version",
       "url": "https://open.spotify.com/track/1NXUWyPJk5kO6DQJ5t7bDu"
@@ -3938,6 +3956,24 @@
     {
       "album": {
         "name": "Old New Borrowed and Blue (Expanded)",
+        "url": "https://open.spotify.com/album/2tsojrCRmZvHjeT6aoKQUP"
+      },
+      "artists": [
+        {
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190493,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/3ODxqNMCSTQN9OCxL2qsfZ"
+    },
+    {
+      "album": {
+        "name": "Old New Borrowed and Blue (Expanded)",
         "url": "https://open.spotify.com/album/7Ei1pgC4goW851DOzt9IJf"
       },
       "artists": [
@@ -3948,7 +3984,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 190493,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/5qgGXHf4yXNk2Z1LzMQDCh"
@@ -4596,7 +4632,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 230173,
       "name": "Get Down and Get With It",
       "url": "https://open.spotify.com/track/3rEUXKfkeb6kPH6NCxkgCo"
@@ -5230,6 +5266,24 @@
       "duration_ms": 212960,
       "name": "Gudbuy T'Jane",
       "url": "https://open.spotify.com/track/2lthy5J9aawBOfeUy2ztcu"
+    },
+    {
+      "album": {
+        "name": "Slayed? (Expanded)",
+        "url": "https://open.spotify.com/album/5HcAfRpsnnbZbLzDCOebXM"
+      },
+      "artists": [
+        {
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212960,
+      "name": "Gudbuy T'Jane",
+      "url": "https://open.spotify.com/track/68opQKELwNwt8y7jw6MJvd"
     },
     {
       "album": {
@@ -12178,7 +12232,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 269506,
       "name": "Skweeze Me, Pleeze Me",
       "url": "https://open.spotify.com/track/75Qqj0a1D0fxYrQ9j8vnqX"
@@ -13082,10 +13136,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 195973,
       "name": "Take Me Bak 'Ome",
       "url": "https://open.spotify.com/track/6IctRzzSyMt5OtAjPaXgd4"
+    },
+    {
+      "album": {
+        "name": "Sladest (Expanded)",
+        "url": "https://open.spotify.com/album/4KITxQrMFcbvB84oOKHREf"
+      },
+      "artists": [
+        {
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195973,
+      "name": "Take Me Bak 'Ome",
+      "url": "https://open.spotify.com/track/6ZrvbIh78RvF4k6q104xun"
     },
     {
       "album": {
@@ -13266,6 +13338,24 @@
       "duration_ms": 251986,
       "name": "The Bangin' Man",
       "url": "https://open.spotify.com/track/3L31j8Rv3ZcbABSE7dCec8"
+    },
+    {
+      "album": {
+        "name": "Old New Borrowed and Blue (Expanded)",
+        "url": "https://open.spotify.com/album/2tsojrCRmZvHjeT6aoKQUP"
+      },
+      "artists": [
+        {
+          "name": "Slade",
+          "url": "https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251986,
+      "name": "The Bangin' Man",
+      "url": "https://open.spotify.com/track/6FSAsU5PcRTMSnJjO4NsEo"
     },
     {
       "album": {

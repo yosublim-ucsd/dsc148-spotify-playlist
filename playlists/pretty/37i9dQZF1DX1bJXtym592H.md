@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 
 > n3xt l3v3l gaming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,064 likes - 150 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,094 likes - 150 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 | 149 | [Small Steps](https://open.spotify.com/track/3hsZTBrM7nqAF81K4XiR7A) | [Kato Mili](https://open.spotify.com/artist/19DmVqt3GkVScKwII02jlr) | [Small Steps](https://open.spotify.com/album/00Ce43IgXDRPKSyJndsvFE) | 2:55 |
 | 150 | [Blunt](https://open.spotify.com/track/74azkm1oJ7QdoYz8UOa590) | [Dilly the Great](https://open.spotify.com/artist/4FWZ21Ecu54GTSmdWUutVG) | [Blunt](https://open.spotify.com/album/3zWxZYmlPTJfC1a35Qr4O4) | 3:08 |
 
-Snapshot ID: `MCxhNWRkOTQ4MTQ4OGQ4YjM0MTVjNDVkYWNjMzQ4YjgwNzdmM2ViYTkz`
+Snapshot ID: `MCw3OTViOWIwNTJhNzdiMGFiZjIzZTZmZGY3NjgwYzYxMDBlNmU1M2Fk`

@@ -1,29 +1,13 @@
 {
   "description": "Trending lofi beats from across the World Wide Web. ",
-  "num_followers": 95749,
+  "num_followers": 95768,
   "original_name": "viral lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Yzg2YTViYTQyMmMyMDg1YTYzNmFiZWU3OGQ5NGQyYmI4ZTE0OWJm",
+  "snapshot_id": "MCwzNDA0YjU3NWEyYmM5Mjk5MDRmN2MzNDdlZTY5ZDg3Njc2ZGQ0MThj",
   "tracks": [
-    {
-      "added_at": "2023-11-16 14:44:23",
-      "album": {
-        "name": "1 Am. Study Session",
-        "url": "https://open.spotify.com/album/6a1N8QyPPdXy1cmicmWktX"
-      },
-      "artists": [
-        {
-          "name": "WYS",
-          "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
-        }
-      ],
-      "duration_ms": 195136,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/5oKzIi5OFGRD8f2oGaHLtj"
-    },
     {
       "added_at": "2023-11-16 14:44:23",
       "album": {
@@ -83,6 +67,22 @@
     {
       "added_at": "2023-11-16 14:44:23",
       "album": {
+        "name": "South Pole",
+        "url": "https://open.spotify.com/album/6NqkTV8hf0bjnE1HW7NMUo"
+      },
+      "artists": [
+        {
+          "name": "WYS",
+          "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
+        }
+      ],
+      "duration_ms": 174074,
+      "name": "Trying To Sleep",
+      "url": "https://open.spotify.com/track/3goGTMnriBIfAG38WLbgqa"
+    },
+    {
+      "added_at": "2023-11-16 14:44:23",
+      "album": {
         "name": "One Last Time",
         "url": "https://open.spotify.com/album/1n2dzdVVTsongoAf3074Wc"
       },
@@ -115,26 +115,6 @@
       "duration_ms": 196901,
       "name": "Dreams Sequence",
       "url": "https://open.spotify.com/track/72iviLcvroPC3VoS0XbXPc"
-    },
-    {
-      "added_at": "2023-11-16 14:44:23",
-      "album": {
-        "name": "Ages Ago",
-        "url": "https://open.spotify.com/album/3K7vNByEnYpjkNAF94qnon"
-      },
-      "artists": [
-        {
-          "name": "Flovry",
-          "url": "https://open.spotify.com/artist/2pLu3Ut2C3RviYZ3xUanBs"
-        },
-        {
-          "name": "tender spring",
-          "url": "https://open.spotify.com/artist/0WCCipy2qiobvuygnTMdkC"
-        }
-      ],
-      "duration_ms": 157364,
-      "name": "First Heartbreak",
-      "url": "https://open.spotify.com/track/6iA5tEPKt8WZsDikkXQht6"
     },
     {
       "added_at": "2023-11-16 14:44:23",
@@ -191,18 +171,18 @@
     {
       "added_at": "2023-11-16 14:44:23",
       "album": {
-        "name": "South Pole",
-        "url": "https://open.spotify.com/album/6NqkTV8hf0bjnE1HW7NMUo"
+        "name": "Bright Moments",
+        "url": "https://open.spotify.com/album/6TUi67BTLA8LOqPwdlRmoL"
       },
       "artists": [
         {
-          "name": "WYS",
-          "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
+          "name": "Klein",
+          "url": "https://open.spotify.com/artist/4bh0Upum1zi9jsuSfmPUs0"
         }
       ],
-      "duration_ms": 174074,
-      "name": "Trying To Sleep",
-      "url": "https://open.spotify.com/track/3goGTMnriBIfAG38WLbgqa"
+      "duration_ms": 99740,
+      "name": "Bright Moments",
+      "url": "https://open.spotify.com/track/3cSnW5I7CibSvjz9IZUxvd"
     },
     {
       "added_at": "2023-11-16 14:44:23",
@@ -220,25 +200,9 @@
           "url": "https://open.spotify.com/artist/0WCCipy2qiobvuygnTMdkC"
         }
       ],
-      "duration_ms": 170287,
-      "name": "C U in Class!",
-      "url": "https://open.spotify.com/track/5zVBOSDmQTazXqXKGL8jw2"
-    },
-    {
-      "added_at": "2023-11-16 14:44:23",
-      "album": {
-        "name": "Bright Moments",
-        "url": "https://open.spotify.com/album/6TUi67BTLA8LOqPwdlRmoL"
-      },
-      "artists": [
-        {
-          "name": "Klein",
-          "url": "https://open.spotify.com/artist/4bh0Upum1zi9jsuSfmPUs0"
-        }
-      ],
-      "duration_ms": 99740,
-      "name": "Bright Moments",
-      "url": "https://open.spotify.com/track/3cSnW5I7CibSvjz9IZUxvd"
+      "duration_ms": 157364,
+      "name": "First Heartbreak",
+      "url": "https://open.spotify.com/track/6iA5tEPKt8WZsDikkXQht6"
     },
     {
       "added_at": "2023-11-16 14:44:23",
@@ -279,6 +243,22 @@
     {
       "added_at": "2023-11-16 14:44:23",
       "album": {
+        "name": "The Bad Party",
+        "url": "https://open.spotify.com/album/3881Cn0VCbdW3Hjv5TBoLO"
+      },
+      "artists": [
+        {
+          "name": "WYS",
+          "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
+        }
+      ],
+      "duration_ms": 194583,
+      "name": "The Bad Party",
+      "url": "https://open.spotify.com/track/62X7TEOUlB0cWqKcRtIKIQ"
+    },
+    {
+      "added_at": "2023-11-16 14:44:23",
+      "album": {
         "name": "Cozy Winter",
         "url": "https://open.spotify.com/album/0DqDy8wMAYvjvCcSUs6TMF"
       },
@@ -295,26 +275,6 @@
       "duration_ms": 171598,
       "name": "Every Second",
       "url": "https://open.spotify.com/track/54HNs3hj6FZLHtHSBvWhZ2"
-    },
-    {
-      "added_at": "2023-11-16 14:44:23",
-      "album": {
-        "name": "Ages Ago",
-        "url": "https://open.spotify.com/album/3K7vNByEnYpjkNAF94qnon"
-      },
-      "artists": [
-        {
-          "name": "Flovry",
-          "url": "https://open.spotify.com/artist/2pLu3Ut2C3RviYZ3xUanBs"
-        },
-        {
-          "name": "tender spring",
-          "url": "https://open.spotify.com/artist/0WCCipy2qiobvuygnTMdkC"
-        }
-      ],
-      "duration_ms": 166241,
-      "name": "Becoming",
-      "url": "https://open.spotify.com/track/5W2Fb6mC4kfnVLwMyg2GDu"
     },
     {
       "added_at": "2023-11-16 14:44:23",
@@ -367,22 +327,6 @@
     {
       "added_at": "2023-11-16 14:44:23",
       "album": {
-        "name": "The Bad Party",
-        "url": "https://open.spotify.com/album/3881Cn0VCbdW3Hjv5TBoLO"
-      },
-      "artists": [
-        {
-          "name": "WYS",
-          "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
-        }
-      ],
-      "duration_ms": 194583,
-      "name": "The Bad Party",
-      "url": "https://open.spotify.com/track/62X7TEOUlB0cWqKcRtIKIQ"
-    },
-    {
-      "added_at": "2023-11-16 14:44:23",
-      "album": {
         "name": "Flashing Lights",
         "url": "https://open.spotify.com/album/6Z8Pqea3CKFNwhnS0rBHfe"
       },
@@ -411,6 +355,42 @@
       "duration_ms": 82285,
       "name": "Dedicated To You",
       "url": "https://open.spotify.com/track/7Hyit8MudRiGaikpGGtqFK"
+    },
+    {
+      "added_at": "2023-11-16 14:44:23",
+      "album": {
+        "name": "Ages Ago",
+        "url": "https://open.spotify.com/album/3K7vNByEnYpjkNAF94qnon"
+      },
+      "artists": [
+        {
+          "name": "Flovry",
+          "url": "https://open.spotify.com/artist/2pLu3Ut2C3RviYZ3xUanBs"
+        },
+        {
+          "name": "tender spring",
+          "url": "https://open.spotify.com/artist/0WCCipy2qiobvuygnTMdkC"
+        }
+      ],
+      "duration_ms": 170287,
+      "name": "C U in Class!",
+      "url": "https://open.spotify.com/track/5zVBOSDmQTazXqXKGL8jw2"
+    },
+    {
+      "added_at": "2023-11-16 14:44:23",
+      "album": {
+        "name": "Restful Holidays",
+        "url": "https://open.spotify.com/album/19aEAILgFaT4XTpPSB6zZp"
+      },
+      "artists": [
+        {
+          "name": "WYS",
+          "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
+        }
+      ],
+      "duration_ms": 129160,
+      "name": "By The Sea",
+      "url": "https://open.spotify.com/track/4zBsAjpFDwQwjdRJp7RP0k"
     },
     {
       "added_at": "2023-11-16 14:44:23",
@@ -503,22 +483,6 @@
     {
       "added_at": "2023-11-16 14:44:23",
       "album": {
-        "name": "Restful Holidays",
-        "url": "https://open.spotify.com/album/19aEAILgFaT4XTpPSB6zZp"
-      },
-      "artists": [
-        {
-          "name": "WYS",
-          "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
-        }
-      ],
-      "duration_ms": 129160,
-      "name": "By The Sea",
-      "url": "https://open.spotify.com/track/4zBsAjpFDwQwjdRJp7RP0k"
-    },
-    {
-      "added_at": "2023-11-16 14:44:23",
-      "album": {
         "name": "Offshore",
         "url": "https://open.spotify.com/album/5GHWCyEA3iF3vYIAN5vBOp"
       },
@@ -531,6 +495,42 @@
       "duration_ms": 90352,
       "name": "Offshore",
       "url": "https://open.spotify.com/track/5mmk2lfbDQPC4XF50kS8yH"
+    },
+    {
+      "added_at": "2023-11-16 14:44:23",
+      "album": {
+        "name": "Ages Ago",
+        "url": "https://open.spotify.com/album/3K7vNByEnYpjkNAF94qnon"
+      },
+      "artists": [
+        {
+          "name": "Flovry",
+          "url": "https://open.spotify.com/artist/2pLu3Ut2C3RviYZ3xUanBs"
+        },
+        {
+          "name": "tender spring",
+          "url": "https://open.spotify.com/artist/0WCCipy2qiobvuygnTMdkC"
+        }
+      ],
+      "duration_ms": 166241,
+      "name": "Becoming",
+      "url": "https://open.spotify.com/track/5W2Fb6mC4kfnVLwMyg2GDu"
+    },
+    {
+      "added_at": "2023-11-16 14:44:23",
+      "album": {
+        "name": "2 Am. Study Session",
+        "url": "https://open.spotify.com/album/3xSTkNRA1Qwb4aVQz6A4om"
+      },
+      "artists": [
+        {
+          "name": "WYS",
+          "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
+        }
+      ],
+      "duration_ms": 169321,
+      "name": "Nautilus",
+      "url": "https://open.spotify.com/track/5YEIwacJjXcNPp6AB2WHpC"
     },
     {
       "added_at": "2023-11-16 14:44:23",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-11-16 14:44:23",
       "album": {
-        "name": "2 Am. Study Session",
-        "url": "https://open.spotify.com/album/3xSTkNRA1Qwb4aVQz6A4om"
-      },
-      "artists": [
-        {
-          "name": "WYS",
-          "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
-        }
-      ],
-      "duration_ms": 169321,
-      "name": "Nautilus",
-      "url": "https://open.spotify.com/track/5YEIwacJjXcNPp6AB2WHpC"
-    },
-    {
-      "added_at": "2023-11-16 14:44:23",
-      "album": {
         "name": "little sister",
         "url": "https://open.spotify.com/album/3iL8VIXmM5IviVIrERrFGy"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 142968,
       "name": "Channel 12",
       "url": "https://open.spotify.com/track/191T3651YJHcPHNFbetaVK"
+    },
+    {
+      "added_at": "2023-11-16 14:44:23",
+      "album": {
+        "name": "12 Am. Study Session",
+        "url": "https://open.spotify.com/album/5Y4IycN6kn0py0Ypd2OwOD"
+      },
+      "artists": [
+        {
+          "name": "WYS",
+          "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
+        }
+      ],
+      "duration_ms": 165255,
+      "name": "Simple Dreams",
+      "url": "https://open.spotify.com/track/4t4LfwVSKpdG96pXQ8EhYH"
     },
     {
       "added_at": "2023-11-16 14:44:23",
@@ -3739,18 +3739,22 @@
     {
       "added_at": "2023-11-16 14:44:23",
       "album": {
-        "name": "12 Am. Study Session",
-        "url": "https://open.spotify.com/album/5Y4IycN6kn0py0Ypd2OwOD"
+        "name": "Snowman",
+        "url": "https://open.spotify.com/album/3iyRG8ivPnrOx65kmrFZZI"
       },
       "artists": [
+        {
+          "name": "Lofi Girl",
+          "url": "https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN"
+        },
         {
           "name": "WYS",
           "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
         }
       ],
-      "duration_ms": 165255,
-      "name": "Simple Dreams",
-      "url": "https://open.spotify.com/track/4t4LfwVSKpdG96pXQ8EhYH"
+      "duration_ms": 195136,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/3LcKimBaYnx7XEIM89nAfB"
     },
     {
       "added_at": "2023-11-16 14:44:23",

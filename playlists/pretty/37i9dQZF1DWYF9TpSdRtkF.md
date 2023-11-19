@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\. アイドルマスター ミリオンライブ！の楽曲を1つのプレイリストで。<br/>THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,684 likes - 75 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,694 likes - 75 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 74 | [待ちぼうけのLacrima](https://open.spotify.com/track/1mKdS3XHTWTHOksIS3r4it) | [北上麗花 \(CV.平山笑美\)](https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE), [ジュリア \(CV.愛美\)](https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9), [高山紗代子 \(CV.駒形友梨\)](https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS) | [THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony](https://open.spotify.com/album/5M22ADhFwe6Hhe5Xu0JGLi) | 4:22 |
 | 75 | [百花は月下に散りぬるを](https://open.spotify.com/track/1ae8FD9T0y8sHy6yqmuPgT) | [エミリー スチュアート \(CV.郁原ゆう\)](https://open.spotify.com/artist/6MHNAMXLPTkrH839zolf3K), [白石 紬 \(CV.南 早紀\)](https://open.spotify.com/artist/3PPgB9OX7DD1DoCgUHikKI), [天空橋朋花 \(CV.小岩井ことり\)](https://open.spotify.com/artist/5yvZ8R7mFGLF2j7DkiAiIU) | [THE IDOLM@STER MILLION THE@TER WAVE 06 花咲夜](https://open.spotify.com/album/4to4QXWpdanY8GmKkcKX8H) | 4:59 |
 
-Snapshot ID: `MCxhNTg0ZTJkZDYwMzJkNzU4MTVjMTFmZjNhYTIzNjQ0MzY1MmJjYjk4`
+Snapshot ID: `MCw5YjcyOTk3ZTNmM2I5YTE5YTRhYTgxYWY3OWY0YTZiOWU5NTcyN2Q0`

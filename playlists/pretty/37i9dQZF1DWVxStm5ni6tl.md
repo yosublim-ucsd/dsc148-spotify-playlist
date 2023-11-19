@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: CHEEYA, Artwork by: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,688 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,713 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 74 | [Hillside](https://open.spotify.com/track/3igHPQmE6HLNLDIpTNaJ1Y) | [Pvrx](https://open.spotify.com/artist/3tMGRYyYmK8LChGAnnmikZ) | [Hillside](https://open.spotify.com/album/2wjrIUMwThHxKlj4gu4zcl) | 3:23 |
 | 75 | [No Direction](https://open.spotify.com/track/4ixpU71HYYoNJ3z5ObPe0F) | [Laidin](https://open.spotify.com/artist/0o6dMnqUhBB26ADCpP20KS) | [Perfectly Imperfect](https://open.spotify.com/album/2K4HQxaFZDDgBKAbblECL5) | 2:00 |
 
-Snapshot ID: `MCw5OGY1NmJkYmRiMjE0MTFiZjlmOTQzNTJkNjQyNjA2NTIwODJiZGRj`
+Snapshot ID: `MCxmNGRmYmM1NDFiMGJiYzA2ZGU0MmI5NzBjOTJkMTEwYzQ4OGNjM2I2`

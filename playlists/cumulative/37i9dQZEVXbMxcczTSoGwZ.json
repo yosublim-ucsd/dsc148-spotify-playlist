@@ -157,6 +157,28 @@
     },
     {
       "album": {
+        "name": "Coast to Costi",
+        "url": "https://open.spotify.com/album/6zHXNwzHQr0m3RewWIa2Uv"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        },
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185231,
+      "name": "1\u221e% (Infinity)",
+      "url": "https://open.spotify.com/track/6vjW25OtQUUMO8vYLOK8Um"
+    },
+    {
+      "album": {
         "name": "20 Ave Mariaa",
         "url": "https://open.spotify.com/album/4obc4ozeksN2VovrhKqSTR"
       },
@@ -3666,7 +3688,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 175161,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
@@ -4537,6 +4559,24 @@
     },
     {
       "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/4HNBqbiCT3DkMzSQMCcooa"
+      },
+      "artists": [
+        {
+          "name": "SHRTY",
+          "url": "https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139702,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/52XyOJi13FXLYPDWUT50Yi"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -4864,10 +4904,28 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 160002,
       "name": "DNA",
       "url": "https://open.spotify.com/track/3pcwjQGRMsc9Q1zX0BQ2z2"
+    },
+    {
+      "album": {
+        "name": "Coast to Costi",
+        "url": "https://open.spotify.com/album/6zHXNwzHQr0m3RewWIa2Uv"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160002,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/7CxxYcWRv53v2JTyqdb6Ub"
     },
     {
       "album": {
@@ -6319,6 +6377,24 @@
     },
     {
       "album": {
+        "name": "Coast to Costi",
+        "url": "https://open.spotify.com/album/6zHXNwzHQr0m3RewWIa2Uv"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203725,
+      "name": "Ennen vanhaan",
+      "url": "https://open.spotify.com/track/67H9KjiRQBgDoOHmGZSncM"
+    },
+    {
+      "album": {
         "name": "Ennen vanhaan",
         "url": "https://open.spotify.com/album/3wseukvboJAQk3Nh3TaW1p"
       },
@@ -6330,7 +6406,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 205715,
       "name": "Ennen vanhaan",
       "url": "https://open.spotify.com/track/5HDPVknk7KqPWfxSilhC8h"
@@ -6685,6 +6761,24 @@
     },
     {
       "album": {
+        "name": "exes",
+        "url": "https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159400,
+      "name": "exes",
+      "url": "https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o"
+    },
+    {
+      "album": {
         "name": "Eyes Closed",
         "url": "https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0"
       },
@@ -6842,7 +6936,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 209677,
       "name": "FAMOUS",
       "url": "https://open.spotify.com/track/1t4IbqfmQQoLHAocILr2Aj"
@@ -9676,7 +9770,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 185917,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
@@ -13859,6 +13953,24 @@
     },
     {
       "album": {
+        "name": "Coast to Costi",
+        "url": "https://open.spotify.com/album/6zHXNwzHQr0m3RewWIa2Uv"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175672,
+      "name": "Kirja",
+      "url": "https://open.spotify.com/track/1Xyf1W46hLxG2ccHO4Y3wR"
+    },
+    {
+      "album": {
         "name": "ViO",
         "url": "https://open.spotify.com/album/1syZJ0HasgimydePATEIfx"
       },
@@ -14707,6 +14819,28 @@
     },
     {
       "album": {
+        "name": "Coast to Costi",
+        "url": "https://open.spotify.com/album/6zHXNwzHQr0m3RewWIa2Uv"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        },
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/2A3UPT7S17kkDFwCKfQ6ez"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211664,
+      "name": "Kuusamo",
+      "url": "https://open.spotify.com/track/2pzpWwErfyxJqIfBXJgltE"
+    },
+    {
+      "album": {
         "name": "LIMBO",
         "url": "https://open.spotify.com/album/35eRCbiaVPNOpSvleCo6JZ"
       },
@@ -15048,7 +15182,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 200858,
       "name": "K\u00c4VELL\u00c4\u00c4N",
       "url": "https://open.spotify.com/track/5nRvHcS144nOqGp672JfWw"
@@ -15434,6 +15568,28 @@
       "duration_ms": 177954,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
+    },
+    {
+      "album": {
+        "name": "Lattiast kattoon (feat. Kube)",
+        "url": "https://open.spotify.com/album/12NYWLhQl25BMBpANqRgUI"
+      },
+      "artists": [
+        {
+          "name": "TIPPA",
+          "url": "https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59"
+        },
+        {
+          "name": "Kube",
+          "url": "https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120943,
+      "name": "Lattiast kattoon (feat. Kube)",
+      "url": "https://open.spotify.com/track/0baRHyknQv1ui5GlHVLGvO"
     },
     {
       "album": {
@@ -16006,6 +16162,24 @@
       "duration_ms": 141081,
       "name": "Liian moni (feat. VJ)",
       "url": "https://open.spotify.com/track/3QUpgNvOU1AQsxVrdUby1H"
+    },
+    {
+      "album": {
+        "name": "Coast to Costi",
+        "url": "https://open.spotify.com/album/6zHXNwzHQr0m3RewWIa2Uv"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182830,
+      "name": "Liikaa kysymyksii",
+      "url": "https://open.spotify.com/track/2oKkj0slLbjVhv8nf9ovKv"
     },
     {
       "album": {
@@ -16979,6 +17153,24 @@
     },
     {
       "album": {
+        "name": "Coast to Costi",
+        "url": "https://open.spotify.com/album/6zHXNwzHQr0m3RewWIa2Uv"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148574,
+      "name": "Maailman ymp\u00e4ri",
+      "url": "https://open.spotify.com/track/0HLSHAhE13XbkJDzyZymzQ"
+    },
+    {
+      "album": {
         "name": "Maailman ymp\u00e4ri",
         "url": "https://open.spotify.com/album/67M8Jo4mQLi5T79mDCgdOO"
       },
@@ -16990,7 +17182,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 150487,
       "name": "Maailman ymp\u00e4ri",
       "url": "https://open.spotify.com/track/0Md23O27tBkiiuzsCTetpl"
@@ -17676,6 +17868,32 @@
       "duration_ms": 196924,
       "name": "Mehil\u00e4inen kukkaan",
       "url": "https://open.spotify.com/track/3S9aC8A0vbLiTweGQ8BboW"
+    },
+    {
+      "album": {
+        "name": "Meid\u00e4n p\u00f6yt\u00e4 (feat. Cledos, Elastinen)",
+        "url": "https://open.spotify.com/album/1FLnsRs0lg2odjBClHJ9tS"
+      },
+      "artists": [
+        {
+          "name": "vitunleija",
+          "url": "https://open.spotify.com/artist/0nV8YXTHj3pP05WTGNBF5Z"
+        },
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        },
+        {
+          "name": "Elastinen",
+          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153075,
+      "name": "Meid\u00e4n p\u00f6yt\u00e4 (feat. Cledos, Elastinen)",
+      "url": "https://open.spotify.com/track/2l67fMyuuQVC5wWx1VyXl3"
     },
     {
       "album": {
@@ -18636,7 +18854,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 114350,
       "name": "Missaat Mut",
       "url": "https://open.spotify.com/track/4I7nd2tef4qV15OAczVuJb"
@@ -20085,6 +20303,28 @@
     },
     {
       "album": {
+        "name": "Coast to Costi",
+        "url": "https://open.spotify.com/album/6zHXNwzHQr0m3RewWIa2Uv"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        },
+        {
+          "name": "TUULI",
+          "url": "https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145478,
+      "name": "Naamio",
+      "url": "https://open.spotify.com/track/14zaJcdmP5tjBRzuwwVZvf"
+    },
+    {
+      "album": {
         "name": "Nalle Puh",
         "url": "https://open.spotify.com/album/268UtmuHvDwoP7LgW6o4a6"
       },
@@ -21000,7 +21240,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 185357,
       "name": "Oikee mies",
       "url": "https://open.spotify.com/track/1D7EPvrBZpKfa8ff0nOVtn"
@@ -21294,6 +21534,24 @@
       "duration_ms": 287506,
       "name": "On The Dark Waters",
       "url": "https://open.spotify.com/track/7Hk4MtVVcVskqCAd1ZfCwf"
+    },
+    {
+      "album": {
+        "name": "Coast to Costi",
+        "url": "https://open.spotify.com/album/6zHXNwzHQr0m3RewWIa2Uv"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196248,
+      "name": "ONE MAN ARMY",
+      "url": "https://open.spotify.com/track/4aARHyw15AYNDWSYl5le4s"
     },
     {
       "album": {
@@ -22152,7 +22410,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 154913,
       "name": "Pariisin kev\u00e4t",
       "url": "https://open.spotify.com/track/4NbcnW0v1yoeq2IAuWFriv"
@@ -22392,7 +22650,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 200686,
       "name": "Perill\u00e4",
       "url": "https://open.spotify.com/track/78CwzrOPZ6b9wWStb1pdGR"
@@ -23818,7 +24076,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 188153,
       "name": "Rakkauteen",
       "url": "https://open.spotify.com/track/4wqqfH4CBaQURaClv7dsID"
@@ -24010,7 +24268,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 164846,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/5om9e07j4TldvFZ5QeMRxX"
@@ -26068,7 +26326,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 201372,
       "name": "Sin\u00e4 4ever - Vain el\u00e4m\u00e4\u00e4 kausi 14",
       "url": "https://open.spotify.com/track/6wRn01AkSyG40RIGUtKbWk"
@@ -26264,7 +26522,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 210466,
       "name": "SKYLINE",
       "url": "https://open.spotify.com/track/6jkldxNLOsS2kVqMh8Uib4"
@@ -27940,6 +28198,24 @@
       "duration_ms": 147099,
       "name": "s\u00e4 <3 m\u00e4",
       "url": "https://open.spotify.com/track/3ZIOH68auFCiZeIBk9XD6k"
+    },
+    {
+      "album": {
+        "name": "s\u00e4 et kosketa mua",
+        "url": "https://open.spotify.com/album/0MbW49SJm8l6VV0hNi7kGE"
+      },
+      "artists": [
+        {
+          "name": "pehmoaino",
+          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239198,
+      "name": "s\u00e4 et kosketa mua",
+      "url": "https://open.spotify.com/track/27DEQoPX2Gsifa7r6sAg87"
     },
     {
       "album": {
@@ -29997,6 +30273,28 @@
     },
     {
       "album": {
+        "name": "T\u00e4ss\u00e4 ja nyt (feat. william)",
+        "url": "https://open.spotify.com/album/5X4Ftxb2PKeexJD9V9zf62"
+      },
+      "artists": [
+        {
+          "name": "\u00d6veri",
+          "url": "https://open.spotify.com/artist/55ueMDhpCYDmeffxXff2Aw"
+        },
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165416,
+      "name": "T\u00e4ss\u00e4 ja nyt (feat. william)",
+      "url": "https://open.spotify.com/track/52Jcc0xkoJyguwYnfKUnFU"
+    },
+    {
+      "album": {
         "name": "T\u00e4ss\u00e4 on kaikki",
         "url": "https://open.spotify.com/album/64ls9Z6gVfjTK4hGjFRVfP"
       },
@@ -30601,6 +30899,24 @@
     },
     {
       "album": {
+        "name": "Uutta ex\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/71lp6pO9oX5oRfnq0ymtyT"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170481,
+      "name": "Uutta ex\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/3y7JOrxavYesPR6sypC3D3"
+    },
+    {
+      "album": {
         "name": "Aino",
         "url": "https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6"
       },
@@ -30612,7 +30928,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 214733,
       "name": "Vahinko",
       "url": "https://open.spotify.com/track/3EvLCrqp7tdbaNkEe68RoT"
@@ -31266,6 +31582,24 @@
       "duration_ms": 233206,
       "name": "VGN",
       "url": "https://open.spotify.com/track/3gCPzKR0Bnt6JYz386rR22"
+    },
+    {
+      "album": {
+        "name": "Coast to Costi",
+        "url": "https://open.spotify.com/album/6zHXNwzHQr0m3RewWIa2Uv"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152031,
+      "name": "VICTORY",
+      "url": "https://open.spotify.com/track/384tdzeZ6siA5dVFG610zZ"
     },
     {
       "album": {
@@ -31974,7 +32308,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 156000,
       "name": "VYYHTI (ettiny aitoo rakkaut)",
       "url": "https://open.spotify.com/track/5e63Mhaf4aY58OD8aY3zhJ"

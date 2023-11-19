@@ -2293,6 +2293,28 @@
     },
     {
       "album": {
+        "name": "Beni Her Yerden Engellemi\u015f",
+        "url": "https://open.spotify.com/album/0wHn0epXv8L6GHd0l0m617"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        },
+        {
+          "name": "Teoman",
+          "url": "https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214403,
+      "name": "Beni Her Yerden Engellemi\u015f",
+      "url": "https://open.spotify.com/track/2BTXPq1Gw2rP0LcpMySutV"
+    },
+    {
+      "album": {
         "name": "Beni Kendinden Kurtar",
         "url": "https://open.spotify.com/album/14ki3G4oAEmURHV6ic5PV3"
       },
@@ -5482,7 +5504,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 138640,
       "name": "Geri D\u00f6nemedim",
       "url": "https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq"
@@ -7260,6 +7282,28 @@
       "duration_ms": 132000,
       "name": "ITACHI",
       "url": "https://open.spotify.com/track/2Xp7H2XVr1xxrWISiSRaUl"
+    },
+    {
+      "album": {
+        "name": "\u0130lle de Sen",
+        "url": "https://open.spotify.com/album/6U2CPuKLntRSRrSUPR4DES"
+      },
+      "artists": [
+        {
+          "name": "Muti",
+          "url": "https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r"
+        },
+        {
+          "name": "Azer B\u00fclb\u00fcl",
+          "url": "https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146818,
+      "name": "\u0130lle de Sen",
+      "url": "https://open.spotify.com/track/2huuuyJHQ6KK6qzwvUlG3c"
     },
     {
       "album": {
@@ -15308,7 +15352,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-19",
       "duration_ms": 135416,
       "name": "\u00d6z\u00fcr",
       "url": "https://open.spotify.com/track/0K2nzvf5Pn6IO0Xyt36iNi"

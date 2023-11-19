@@ -4,7 +4,7 @@
 
 > Sláinte! All the right music to fuel your St\. Patrick's Day.
 
-187 songs - 11 hr 46 min
+188 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [I'll Tell My Ma \(with Tommy Makem\) \- Live at Carnegie Hall, New York, NY \- November 1962](https://open.spotify.com/track/1JcEaho6lPOjBZxjSCv5En) | [The Clancy Brothers](https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz), [Tommy Makem](https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM) | [Live at Carnegie Hall \- November 3, 1962 \(with Tommy Makem\)](https://open.spotify.com/album/7nmpysxD16x9i9jaIcU0uX) | 1:48 | 2021-03-17 |  |
 | [I'm Shipping Up To Boston](https://open.spotify.com/track/7rSERmjAT38lC5QhJ8hnQc) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:33 | 2021-03-17 |  |
 | [Irish Pub Song](https://open.spotify.com/track/6zX3HwSuoQThrabeoHJvCs) | [The High Kings](https://open.spotify.com/artist/6wXjctGBzxkT0ghwfQ8FC0) | [Irish Pub Song](https://open.spotify.com/album/5QTxZhvepeEKUMVdKlT0M8) | 3:00 | 2021-03-17 |  |
-| [Johnny Got A Boom Boom](https://open.spotify.com/track/7psi2y1Mm973ZkYynLYuEC) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Love Tattoo](https://open.spotify.com/album/1QFPnggq5et7r2SUymBOap) | 2:59 | 2021-03-17 |  |
+| [Johnny Got A Boom Boom](https://open.spotify.com/track/1LRCCvucMksncuUk7h7g9e) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Love Tattoo](https://open.spotify.com/album/16s0XOdNFDoBnhY81QYY3H) | 2:59 | 2023-03-10 |  |
+| [Johnny Got A Boom Boom](https://open.spotify.com/track/7psi2y1Mm973ZkYynLYuEC) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Love Tattoo](https://open.spotify.com/album/1QFPnggq5et7r2SUymBOap) | 2:59 | 2021-03-17 | 2023-11-19 |
 | [Johnny Jump Up/Morrison's Jig](https://open.spotify.com/track/4fNKdk1uTtSOqjf1Ehb3f6) | [Gaelic Storm](https://open.spotify.com/artist/5dlzTgw97q5k5ws89Ww1UK) | [Gaelic Storm](https://open.spotify.com/album/6rZVgcQIQdAJWBMQTQCkip) | 5:00 | 2022-03-11 |  |
 | [Jump Around](https://open.spotify.com/track/3TZwjdclvWt7iPJUnMpgcs) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\)](https://open.spotify.com/album/2z37UnazitI7yDEF0IjE0v) | 3:34 | 2021-03-17 | 2022-07-29 |
 | [Jump Around](https://open.spotify.com/track/3DjB1HJod8AA35UBqrC95A) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [Turbo \(Music From The Motion Picture\)](https://open.spotify.com/album/57oY3i5cyOsr4JsBidlAoh) | 3:39 | 2022-03-11 | 2022-11-13 |

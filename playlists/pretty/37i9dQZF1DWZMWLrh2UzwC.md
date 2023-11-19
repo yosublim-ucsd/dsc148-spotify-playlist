@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: DOLLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,141 likes - 94 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,153 likes - 94 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 17 | [你成為了誰的幸福](https://open.spotify.com/track/21ADSha2qwERtBVz3yzD76) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [你成為了誰的幸福](https://open.spotify.com/album/1mQwjhCC8ua4FRtUy26ycY) | 4:17 |
 | 18 | [一首未完的歌](https://open.spotify.com/track/1RnGnadcVIfwOzk5OR8Hg2) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [一首未完的歌](https://open.spotify.com/album/63JEeEKzaiX3qF87bcPbPE) | 2:36 |
 | 19 | [不確認關係](https://open.spotify.com/track/1iCDTXgOoskniZbDatBfhu) | [九澤CP](https://open.spotify.com/artist/7JRMSnpii2F9B7JlqRGiYR) | [愛在你身邊](https://open.spotify.com/album/1L1s0gKqyOZA6xQaHSshBp) | 4:46 |
-| 20 | [不讨厌想你的自己](https://open.spotify.com/track/5vkq4xtQluR8P0PfE9vwtf) | [Shelby Wang](https://open.spotify.com/artist/2Ei4OyOgbi3w0smNgmBBv0) | [不讨厌想你的自己](https://open.spotify.com/album/42fg8hxVgUqXsipnIv8IIG) | 3:36 |
+| 20 | [不討厭想你的自己](https://open.spotify.com/track/5vkq4xtQluR8P0PfE9vwtf) | [Shelby Wang](https://open.spotify.com/artist/2Ei4OyOgbi3w0smNgmBBv0) | [不討厭想你的自己](https://open.spotify.com/album/42fg8hxVgUqXsipnIv8IIG) | 3:36 |
 | 21 | [Evil Ways \(feat\. J\. Cole\)](https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs Scary Hours Edition](https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO) | 3:47 |
 | 22 | [Still Got It \- Live from Spotify Green Screen](https://open.spotify.com/track/0Lo1FAFOyXXX1ptjez0Odn) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Still Got It \(Live from Spotify Green Screen\)](https://open.spotify.com/album/3xPu6oQFNfcC3e3Bcj2viF) | 2:47 |
 | 23 | [santa doesn’t know you like i do](https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 3:09 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 49 | [Leave Then Never Say](https://open.spotify.com/track/0OxHwfnXSvoVIPPNXMQn5e) | [Ihasamic!](https://open.spotify.com/artist/1iQWokgeROUSPQ8L39ycdh), [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [Leave Then Never Say](https://open.spotify.com/album/6qhIB4Xw8Cm836Fv87GEzn) | 2:01 |
 | 50 | [Call Me](https://open.spotify.com/track/3ubEtnB8eFSsmov0zKgDSZ) | [myraa](https://open.spotify.com/artist/1e0KI88UQfNVW2HNRwQE3U), [kid raw](https://open.spotify.com/artist/5OHFSQKADXkzvpuzqghEbO), [hohoman16](https://open.spotify.com/artist/7yV83KFDjcx1QREEzqPUKk) | [Call Me](https://open.spotify.com/album/6bInz2tQaU29mCGLBWsSbe) | 3:31 |
 | 51 | [Tinder](https://open.spotify.com/track/71sLnpCTclCFLhj6p4cqNV) | [Amari Teague](https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC) | [Tinder](https://open.spotify.com/album/3EkJJoHnkUyVnUYt4OIxK0) | 2:24 |
-| 52 | [Desire \(with VITA\)](https://open.spotify.com/track/6aCFpO6fjm5FTEsvqJtALr) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Vita](https://open.spotify.com/artist/6pk6yWYNSFNHkngDZPvjEL) | [Desire](https://open.spotify.com/album/5rrC3LhLmzUkQQC5mqO5AY) | 2:58 |
+| 52 | [Desire \(with VITA\)](https://open.spotify.com/track/6aCFpO6fjm5FTEsvqJtALr) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB) | [Desire](https://open.spotify.com/album/5rrC3LhLmzUkQQC5mqO5AY) | 2:58 |
 | 53 | [Baby Blue](https://open.spotify.com/track/5ZDdx332AQj2n6TOW0LlZU) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Baby Blue](https://open.spotify.com/album/4SZISLudRb6XD44SO2NBtZ) | 2:04 |
 | 54 | [You Don't Even Know Me](https://open.spotify.com/track/0gqspClYQRq1Bdc3R48lnj) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [You Don’t Even Know Me](https://open.spotify.com/album/1YSZG8X5xJNi3KL9pxgghn) | 2:31 |
 | 55 | [ACHOO!](https://open.spotify.com/track/5RuUuBtaiPVnACY5nTohue) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [CRITTERS](https://open.spotify.com/album/7jycItY9gSsb0WJKLXFuOL) | 1:39 |
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 84 | [Warm](https://open.spotify.com/track/3Xb6Kt1n1noW7oxcdX0Ifq) | [Simu Liu](https://open.spotify.com/artist/50cRZOl5AL13akHdLc7nfP) | [ANXIOUS\-AVOIDANT](https://open.spotify.com/album/6N8bqbVtkzhREHZNekayEp) | 2:40 |
 | 85 | [hatemyself](https://open.spotify.com/track/5ffcJ5nIKylLvT8tl1a0zw) | [Amber Liu](https://open.spotify.com/artist/4ZpzgTOUAznSK70KdPbJHf) | [hatemyself](https://open.spotify.com/album/0xKtCHDFQuXUj3dvdV4kZv) | 3:10 |
 | 86 | [The Long Breath](https://open.spotify.com/track/2jQWDgZhvkTREAXi7R0Vnf) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [The Long Breath / The Willows](https://open.spotify.com/album/0phsQExgJ5IKweBTgJNdp3) | 4:48 |
-| 87 | [Carte Blanche](https://open.spotify.com/track/6gYpnGlag7CVkVT2Ri5bf9) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Carte Blanche](https://open.spotify.com/album/0LAjgUMlMcbTQ5dz9wx6EW) | 3:34 |
+| 87 | [Carte Blanche](https://open.spotify.com/track/6gYpnGlag7CVkVT2Ri5bf9) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Carte Blanche](https://open.spotify.com/album/0LAjgUMlMcbTQ5dz9wx6EW) | 3:18 |
 | 88 | [ALL NIGHT LONG](https://open.spotify.com/track/0zprG792oR31uWPCkYbCJZ) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [THE DEEP](https://open.spotify.com/album/5ZbTp52QK3RIXIQ05wCfdE) | 3:34 |
 | 89 | [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 |
 | 90 | [A Weekend Song for Me and You](https://open.spotify.com/track/6U7OAuBeJuAsx3zpDDABWW) | [Dead Bachelors](https://open.spotify.com/artist/28anP55ld80zmZjMVOnWZ6), [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Special](https://open.spotify.com/album/4tgy9j0OaBd7rJbnwyGmHL) | 4:05 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 93 | [Wherever](https://open.spotify.com/track/3BjJ7VHJrIrXPTmbWLE2oa) | [Arabelle](https://open.spotify.com/artist/7uU11RJKOt74chXI2s6eQf) | [Wherever](https://open.spotify.com/album/45tK8A8YV4q8nUZNMgckKc) | 3:03 |
 | 94 | [sleep with me on my birthday](https://open.spotify.com/track/5kn9bgoRskj3jgcEfsK1zL) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [sleep with me on my birthday](https://open.spotify.com/album/5H3aAu6WbGWDmLgCpx2OEs) | 2:55 |
 
-Snapshot ID: `MCw5MWE5MzcwM2M4ZmJiNmY5N2FkMjc2OTRiZjdlOWNjMTliOWY0NTgz`
+Snapshot ID: `MCw1NDQzMzY1OTdmNTg1NzU1MzY1NWZlZWQ3MmZlMWRhMjkwYWIzMjEw`

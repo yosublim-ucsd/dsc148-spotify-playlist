@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,555 likes - 80 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,597 likes - 80 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 79 | [Owls](https://open.spotify.com/track/5kSTJK3ExBwzr12h2CDivO) | [Samuel Powell](https://open.spotify.com/artist/1qb9AWGLwoHz2r3eQYPmIG) | [Owls](https://open.spotify.com/album/4y9qF03bF30CXAK0qwzoLI) | 4:02 |
 | 80 | [In Memory Of A Honey Bee](https://open.spotify.com/track/0ZTQntkek3PSvpPI1qTxFu) | [Felix Rösch](https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp), [mondëna quartet](https://open.spotify.com/artist/1t66cANdsYEErfgZjzplzo), [Matija Strniša](https://open.spotify.com/artist/4My9G0wlkR07kBourTj665) | [In Memory Of A Honey Bee](https://open.spotify.com/album/0UxXgN6snQJUtGzO4my3cP) | 2:55 |
 
-Snapshot ID: `MCwyZWUwODA4ZjczNmMyZWMxNjQ4MDYwNzExMzRlODI3YjQ4ODc3NjZk`
+Snapshot ID: `MCxkODg4NmEyZWE3NGRmMTg5MDhhYmQwZDI5MDNlODFmYzUxNzc3MDU4`
