@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 
 > Slow down and soothe anxiety with soft, relaxing piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,831 likes - 252 songs - 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,940 likes - 252 songs - 10 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,7 +146,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 136 | [Pioggia Eterna](https://open.spotify.com/track/2unmie5sfHDGwSQO9jEok4) | [Clara Nishimoto](https://open.spotify.com/artist/1hgBYux2Cpl893e98XlC2z) | [Pioggia Eterna](https://open.spotify.com/album/03XIBRIbVxPRGYqzaoHwsT) | 2:50 |
 | 137 | [Rondel](https://open.spotify.com/track/7lE18SWzAxh5SfMbie92jN) | [Lydia Webber](https://open.spotify.com/artist/0lwFe0MGAOei9D2rl5jALq) | [Beija\-flor](https://open.spotify.com/album/5iEY08mWgZExTAqd9oxXJx) | 2:51 |
 | 138 | [Impromptu No\. 1, Lukewarm Tea](https://open.spotify.com/track/1YNBtfhdSPKJlbD3tdERNx) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Op\. 1: Multiverse](https://open.spotify.com/album/7unO1Rhkr8bhZaE3y0QRU3) | 3:09 |
-| 139 | [Passage sombre](https://open.spotify.com/track/4w4Q3SAYzhKrHgfht808pu) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 2:14 |
+| 139 | [Passage sombre](https://open.spotify.com/track/5smttO5h6jZ8dQor21hMkE) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Obscur Chemin](https://open.spotify.com/album/055lgvZKUwKdN8LHpXBZJo) | 2:14 |
 | 140 | [Everlost](https://open.spotify.com/track/5gKleAF9imvWmf46kIVar7) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Everlost](https://open.spotify.com/album/4OIaJjLneomYvwTl7zGRO7) | 3:01 |
 | 141 | [The Owl](https://open.spotify.com/track/0YFMpvuxexjjj8lZKYRCrD) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [The Owl](https://open.spotify.com/album/4D5mDIlOrgRAXMO4hOhYXo) | 2:59 |
 | 142 | [Romanze](https://open.spotify.com/track/3voEoccU1Hg1QdE0j4qxw1) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Romanze](https://open.spotify.com/album/5h6IMQWryeG5cqZepQdKSn) | 2:11 |
@@ -261,4 +261,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 251 | [Overcome](https://open.spotify.com/track/6a29Wq1AQWAGVdJGwYDXJs) | [Thad Caoimhe](https://open.spotify.com/artist/5yf4zjHyDTrEX2STRfIV3C) | [Overcome](https://open.spotify.com/album/3r50b0k1FpdZfmoPg8FVQY) | 2:24 |
 | 252 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 |
 
-Snapshot ID: `MCxlYjhiYTAzZjk0Mjk3MmQzYWIxNDJhMjhlYzYyNjdlOGZmZWVhMDBi`
+Snapshot ID: `MCxlNjMxM2MxY2E5YTczNTA2YTUwM2MxNzE3NTk4OWU3OGZhOTE0MjRm`

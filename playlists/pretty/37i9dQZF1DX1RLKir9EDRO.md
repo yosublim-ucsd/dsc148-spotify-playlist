@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Serenad Bayraktar
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,885 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,894 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 59 | [Yaz Rüyası](https://open.spotify.com/track/0PcQjbImYK5JUB8GyvwhbP) | [Idil](https://open.spotify.com/artist/0zNz4hmI6mCNUdj4BngitI) | [Yaz Rüyası](https://open.spotify.com/album/3rAbYrYonze2uwdQgolfHD) | 3:04 |
 | 60 | [Hiçliğin Ortasında](https://open.spotify.com/track/6YymsWNxufSgwBmsXKWZbU) | [radyologos](https://open.spotify.com/artist/2mA7vZSBZ1MZcOKtMkEJRS) | [Hiçliğin Ortasında](https://open.spotify.com/album/0mo6icblQAYmaJ5RmJNZSl) | 3:30 |
 
-Snapshot ID: `MCxiMWNlMjg5NmNiODdhNjkyNzg0OGM3NjU0Njc2MmI2MjVjNjJjODU5`
+Snapshot ID: `MCxmM2Y2NzNkYWQ2MTQxZDAzYjQwOTVmNGIyNjJmNjk0N2E3ZDYwZDZl`

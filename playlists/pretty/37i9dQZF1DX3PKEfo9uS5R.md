@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 
 > Chill house tracks to power your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,279 likes - 86 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,328 likes - 86 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 85 | [Gardient heaven](https://open.spotify.com/track/4O1CGcCUjJXow4oBHxMxTK) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [Gardient heaven](https://open.spotify.com/album/1WVwh0s7pzG0PXzvtRVVJ8) | 2:32 |
 | 86 | [The Good Ones](https://open.spotify.com/track/5l4L0T8QAFd3BYInKaurCn) | [Simon Hawking](https://open.spotify.com/artist/76o1itwHoGVElGCaKgeysV) | [Paradise](https://open.spotify.com/album/6PHcvL4SPEaSy1Ny818JnF) | 2:53 |
 
-Snapshot ID: `MCw5ZmUxNzk5MjM0ZGUyNjEzYWI2MjA5OWNkMDZmZTRiOTkyN2M5YzYx`
+Snapshot ID: `MCw0MGUyOTkxNDIzN2NiZWY0ZjVjZDc1MTNiZjFhMGMyODUwZTQ5ZmE3`

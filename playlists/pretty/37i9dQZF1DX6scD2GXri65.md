@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 
 > Go hard or go home
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,416 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,482 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6scD2GXri65.md) - [plain]
 | 79 | [In the Shadows 2k22 \- Krowdexx Mix](https://open.spotify.com/track/6pgDjTGp6VgbUG2dYLUMdO) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [A.Spencer](https://open.spotify.com/artist/5mc3fIXZDVqM8g9wkntXyg), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [In the Shadows 2k22 \(Krowdexx Mix\)](https://open.spotify.com/album/5l19N5cOJJv9Mj4KF5dJDk) | 2:39 |
 | 80 | [What You Give Is What You Get](https://open.spotify.com/track/2Gt8l0oXk0ZuGtpwkN67z0) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Clockartz](https://open.spotify.com/artist/7GVB7uYTgkeYtLJxYMYYDp) | [What You Give Is What You Get](https://open.spotify.com/album/5cR4r1R6oN6v5DNXNUx2AK) | 3:27 |
 
-Snapshot ID: `MCxlZTM3YWFkNjIzMDdjNjYxZjFmOTYyMjM0ZjhhM2UzN2Y2ZmUzODVi`
+Snapshot ID: `MCw4NjQ2ZDU3MTY5YmViY2QzOWVhMWVkZTMyMTAzOGM3MGJjZGQyNjIw`

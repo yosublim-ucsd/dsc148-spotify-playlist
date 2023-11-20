@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: Vaundy \*👉 <a href="https://spice.eplus.jp/articles/323840?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,028 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,149 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [Ame](https://open.spotify.com/track/4ktqxaSCWyy9UUMt0oW3sk) | [Sonosaki Tomari](https://open.spotify.com/artist/6UvCh5mEmgJe9Oeb4XjKDA) | [Ame](https://open.spotify.com/album/6IQy4ozFBnwlZJ4DBwAIcJ) | 5:04 |
 | 80 | [paradiselost \- feat.成山内\(sleepy.ab\)](https://open.spotify.com/track/2t6MxMhjkpVFoJTzWfu0Sv) | [noid](https://open.spotify.com/artist/2fmNCUJ5ne4OgRofGX4iQT), [成山内\(sleepy.ab\)](https://open.spotify.com/artist/7CE7DciBrq4HZUSzF5N1CK) | [YAMI／YO／AKE](https://open.spotify.com/album/43riQ3B9dmCTPmJdKQX8LD) | 5:29 |
 
-Snapshot ID: `MCxhNDkxMmMzMjI3YzRmNmU0ODA2YWJjNzFkNjYxZWRkMDhmZDU3NWEx`
+Snapshot ID: `MCwwODQwY2UzOGNjMmM4MTZlNzMwNmEwMGNhNTQxYWIzZDdhNDc3MmQ0`

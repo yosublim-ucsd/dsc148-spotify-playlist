@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 
 > All your favorite Disney hits, including songs from Wish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,239,949 likes - 138 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,240,540 likes - 138 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 | 137 | [Main Title / Once Upon A Dream / Prologue \- From "Sleeping Beauty"/Soundtrack Version](https://open.spotify.com/track/4qKDjmz094Bu2wMepNuwVN) | [Chorus \- Sleeping Beauty](https://open.spotify.com/artist/1c4ltuRXEIo20Y9UOPxiA0) | [Sleeping Beauty](https://open.spotify.com/album/3U3I9TY7on88tPvM1guh54) | 2:57 |
 | 138 | [Swing](https://open.spotify.com/track/5G5hspjbhZC9s6btkm76rN) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2) | [Marvel's Spider\-Man 2 \(Original Video Game Soundtrack\)](https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR) | 3:04 |
 
-Snapshot ID: `MCw0ZGUzNjYxNDM4NTZjYzI1YzkwNGM2NDY5OGY2MGE0YzM2NThiZTZh`
+Snapshot ID: `MCw0MjE0YzkxMGQwNDQwMTlkNTM2ZmY0NTBmZWFlMTE2YTBmYjMzYzY4`

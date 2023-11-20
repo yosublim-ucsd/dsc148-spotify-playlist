@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC?si=Pp\_DGPnxRZ6lVU9j\-VfIEQ">Sykes</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,737 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,792 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 49 | [Jabula](https://open.spotify.com/track/73dW5ILYT7p6O1P3rQv6qq) | [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7), [Osaze](https://open.spotify.com/artist/6ZWL7h66dJRqstIFa3OO0E), [Dr Moruti](https://open.spotify.com/artist/32GwRymg4m0PVaxUUKdtOj), [Nokwazi](https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL) | [Jabula](https://open.spotify.com/album/3PQYnwwg09T8t7GB07VB5T) | 5:40 |
 | 50 | [Premier Gaou \- Nitefreak Remix](https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Premier Gaou \(Nitefreak Remix\)](https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c) | 3:42 |
 
-Snapshot ID: `MCwwZDQ2ODk4M2JkZDJmNTk5OGYyMDZjMmYwMmMxYjA0OTBjY2Q5ZDY5`
+Snapshot ID: `MCxhZmM3MWY1ZmZhYmQ1NGRjZmI4ZTI2Nzg1NzRkNTg1NmUyZTM0NjMz`

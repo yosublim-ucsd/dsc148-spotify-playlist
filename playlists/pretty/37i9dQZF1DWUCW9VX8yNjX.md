@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 
 > Mejor seguimos cantando, como cantaba el abuelo\. ¡Garganta pa' que te quiero, si no pa' cantarle al pueblo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,146 likes - 150 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,141 likes - 150 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 149 | [Para Sacarte De Mi Vida \- Versión Norteña](https://open.spotify.com/track/4itGUqG0j7mOHfAzTZSkAO) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Para Sacarte De Mi Vida \(Versión Norteña\)](https://open.spotify.com/album/3zdLxMDh5JtA6afQj9L5Yw) | 3:56 |
 | 150 | [Para Nada](https://open.spotify.com/track/3HqDtfyluJxxNR9oWshJGp) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Sigue la Dinastía](https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3) | 3:29 |
 
-Snapshot ID: `MCw0ODQ0ZWI3MGI4YWQ3MWNiOTNlNDMzN2JhZTUzMDVjMzAyZTI2MzNi`
+Snapshot ID: `MCxiMDMyNDQ5NjkwNjVjZWE4YWVjMDI2YTBjNmEyMWMwMzU0OGIxOWIz`

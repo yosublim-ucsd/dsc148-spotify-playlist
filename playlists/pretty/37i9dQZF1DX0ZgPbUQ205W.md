@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,496 likes - 200 songs - 13 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,536 likes - 200 songs - 13 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 199 | [Jeg gik mig ud en Sommerdag](https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy) | [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda), [Nils Bo Davidsen](https://open.spotify.com/artist/2r34nP7vhdUQj6D8Hx2R6l), [Stefan Pasborg](https://open.spotify.com/artist/51WkZxHdfF1tlqejXDc2AY) | [Painting Music](https://open.spotify.com/album/0fmB8ha3cuP05cuk6nU6tZ) | 4:18 |
 | 200 | [IX\. waiting](https://open.spotify.com/track/02Yn3VzHXqt7AR05dHbdkY) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Suite: April 2020](https://open.spotify.com/album/5e2pKFBkbxJ4s5gmgc78e4) | 3:14 |
 
-Snapshot ID: `MCxkYTFkMDZhMTExYWEyNjYzM2E1MDUxOTg2Mjk4YWE4NDFlOTAxMGU4`
+Snapshot ID: `MCxmODFiYjJkZjczNjI3Nzc0ZTJiOGFhNzgzMDAxYmU3ZDU1M2FkYWJl`

@@ -4,7 +4,7 @@
 
 > Best acoustic melodies from Bollywood
 
-122 songs - 7 hr 25 min
+123 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Heer](https://open.spotify.com/track/1CapGmE3jqZpEATdujksnX) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Jab Tak Hai Jaan](https://open.spotify.com/album/3G0diKadKaufyFybV3TzuP) | 5:14 | 2023-04-05 |  |
 | [Humko Chhoone Paas Aayiye](https://open.spotify.com/track/4cp9g4kHirW5lWnjpwrPoS) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Zindaggi Rocks](https://open.spotify.com/album/7fSX5zg9zq0iu28jSZ15Ib) | 6:58 | 2023-05-09 | 2023-06-21 |
 | [Humnava Mere Acoustic \(From "T\-Series Acoustics"\)](https://open.spotify.com/track/3JnbJ9nAK281xZRwWf8YpG) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rocky \- Shiv](https://open.spotify.com/artist/5Obu9ifz8EKdm0uL5CvgUY) | [Humnava Mere Acoustic \(From "T\-Series Acoustics"\)](https://open.spotify.com/album/4drFoVoclXIVGS8TgcRLxD) | 3:52 | 2022-04-11 | 2023-04-06 |
+| [Humsafar](https://open.spotify.com/track/6TFESXMfJJWwccviaxGAMa) | [Akhil Sachdeva](https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM), [Mansheel Gujral](https://open.spotify.com/artist/7zfceKY7I04Tc0J2o7043h) | [Badrinath Ki Dulhania](https://open.spotify.com/album/26ska1StQhwbWADLTg2hky) | 4:28 | 2023-11-19 |  |
 | [Ik Tu Hi Tu Hi \(Reprise\)](https://open.spotify.com/track/0LhFwQF26qYCAQ36z2AovX) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8) | [Mausam](https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP) | 6:21 | 2023-05-09 | 2023-06-16 |
 | [Iktara](https://open.spotify.com/track/3jtKSUiVDowKNBqVQbWaig) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Wake Up Sid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fzE65RP7Gyhi8hdOv8eRQ) | 4:13 | 2022-04-11 |  |
 | [Ishq Di Baajiyaan \- Reprise \(From "Soorma"\)](https://open.spotify.com/track/5WLidqObeZ9jdH7puCZIBn) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Ishq Di Baajiyaan \[Reprise \(From "Soorma"\)\]](https://open.spotify.com/album/3uvpH4RpDmo2hWGgGhpPJG) | 3:47 | 2022-04-11 | 2023-10-13 |

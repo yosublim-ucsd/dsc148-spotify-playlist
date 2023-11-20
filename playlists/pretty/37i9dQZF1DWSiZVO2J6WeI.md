@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 
 > Hypnotic bliss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,924 likes - 150 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,946 likes - 150 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 149 | [Solfeggio Purity 741 Hz](https://open.spotify.com/track/5O7JwuPids8tmFpaUf0JIj) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Solfeggio Purity 741 Hz](https://open.spotify.com/album/4gsu0nZO0fIRK31qKSu9Ez) | 2:55 |
 | 150 | [Falleg](https://open.spotify.com/track/7Bbe8uzyDk0116JNAQchFN) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Falleg](https://open.spotify.com/album/3JJ73fI9i4yPREvaTcvPiv) | 2:15 |
 
-Snapshot ID: `MCxhYjYxNjA0MjRhMDM2YzcyY2I2OWFiZjBiZWJkMzU2YWRjODMyY2U3`
+Snapshot ID: `MCw0OWQ0Zjc3MGNiZWVkMjQ2NTU1ZGE4OGE5MWEzMDYwNmVlYTY0OTk1`

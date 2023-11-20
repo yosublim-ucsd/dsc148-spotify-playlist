@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,011 likes - 150 songs - 12 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,005 likes - 150 songs - 12 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 149 | [Refiner's Fire](https://open.spotify.com/track/5hwWiu59QUAMJOjLZqi1FF) | [Brian Doerksen](https://open.spotify.com/artist/0pWpQhmg5KRsyo2Y6QRtc7) | [It's Time](https://open.spotify.com/album/2gpp8a4mU5gsAZbCMY1KjN) | 4:52 |
 | 150 | [He's Not Here](https://open.spotify.com/track/2gK9y1vDM71f8qpM789X6B) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Don't Lose Hope](https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0) | 3:02 |
 
-Snapshot ID: `MCw0NDlmOTYzYWFjZDAzOTIyMzFiZDMwYjdjN2YwMjFhMzRjODM0NTg1`
+Snapshot ID: `MCw2MDA1ZmQ4NmI1NWI4NDc5MmQwM2Y3Yjk4MjYzNWRmZDUxZWNkMTZj`

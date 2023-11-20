@@ -4,7 +4,7 @@
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Dimple Saikia, Artwork: Isu Kim
 
-1,008 songs - 2 day 11 hr 26 min
+1,009 songs - 2 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,8 @@
 | [Dude Subdued](https://open.spotify.com/track/2kEoB8aptQIPK4eIi1OpzM) | [Pranav Bhasin](https://open.spotify.com/artist/20b7SZkdSmjV510nZPMcvR), [Ro Maiti](https://open.spotify.com/artist/2Anp7d77QwHxQOJAppgIS4) | [Dude Subdued](https://open.spotify.com/album/0AhxdYBAkEubEIKgDGQVpO) | 3:16 | 2023-07-05 | 2023-09-28 |
 | [dunning cougar](https://open.spotify.com/track/6bmkwCTzX1FaNv3tnZJ0qz) | [papiere](https://open.spotify.com/artist/6LWeq7qd9muNewabK9itfs) | [dunning cougar](https://open.spotify.com/album/4bnihXv3KrNOiHf6PSCNAm) | 4:44 | 2023-07-19 | 2023-10-05 |
 | [Easily](https://open.spotify.com/track/5fdYOozo411bAafTNWX6DN) | [Shikhar](https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9) | [Easily](https://open.spotify.com/album/4FSeQHEuHHlOVzk8VybLgQ) | 3:17 | 2022-07-20 | 2022-10-20 |
-| [Easy Come Easy Go](https://open.spotify.com/track/7iKNlKU1BJtNpm0iaCRbgs) | [Perp](https://open.spotify.com/artist/7jIBDfVAfhi2qtoQNveJEu), [Varun Agnihotri](https://open.spotify.com/artist/1wM6bWtRPgisC0eP1kH9vH) | [Easy Come Easy Go](https://open.spotify.com/album/2szHOcdUqLcL3OJzT0tBZE) | 2:14 | 2023-09-06 |  |
+| [Easy Come Easy Go](https://open.spotify.com/track/6UjMIBoyAgu0CbSIO62Dbr) | [Perp](https://open.spotify.com/artist/7jIBDfVAfhi2qtoQNveJEu), [Varun Agnihotri](https://open.spotify.com/artist/1wM6bWtRPgisC0eP1kH9vH) | [Easy Come Easy Go](https://open.spotify.com/album/3V8HSrMWSNUT3D70BRX25Z) | 2:14 | 2023-11-15 |  |
+| [Easy Come Easy Go](https://open.spotify.com/track/7iKNlKU1BJtNpm0iaCRbgs) | [Perp](https://open.spotify.com/artist/7jIBDfVAfhi2qtoQNveJEu), [Varun Agnihotri](https://open.spotify.com/artist/1wM6bWtRPgisC0eP1kH9vH) | [Easy Come Easy Go](https://open.spotify.com/album/2szHOcdUqLcL3OJzT0tBZE) | 2:14 | 2023-09-06 | 2023-11-20 |
 | [ecstasy](https://open.spotify.com/track/2tIpTQjjwfKvmyW6UbBq9v) | [shae](https://open.spotify.com/artist/20yaj5X7bXqTr7QY1q5VlB) | [ecstasy](https://open.spotify.com/album/1ovG3bOQvtbjNl9UC3dNcf) | 3:43 | 2022-08-10 | 2023-01-12 |
 | [Ehi Thaiyaan](https://open.spotify.com/track/3ONTo1111Wy53OT1hD039R) | [Samahita Narang](https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4) | [Ehi Thaiyaan](https://open.spotify.com/album/13Zkhhp1ULwexiKUBYEEyv) | 3:17 | 2022-09-08 | 2022-12-01 |
 | [Ek Aisi Shaam \- An Evening To Remember](https://open.spotify.com/track/5sQMsukipYLE0IIrE82oep) | [Nayan Kawale](https://open.spotify.com/artist/6X3UMPL9v8TPR5ILRyxUgW) | [Ek Aisi Shaam \(An Evening To Remember\)](https://open.spotify.com/album/2cir7bSOxeoW3exKiswmfz) | 4:13 | 2022-05-11 | 2022-06-30 |

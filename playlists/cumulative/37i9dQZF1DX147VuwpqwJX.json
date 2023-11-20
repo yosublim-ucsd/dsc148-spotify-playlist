@@ -2442,10 +2442,28 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 59663,
       "name": "Vox",
       "url": "https://open.spotify.com/track/7I5Ob4Izz1yJKINm2C3hjf"
+    },
+    {
+      "album": {
+        "name": "Vox",
+        "url": "https://open.spotify.com/album/70FtG9sondjv4bqPTMvNNL"
+      },
+      "artists": [
+        {
+          "name": "OG MarlynMonROLLUP",
+          "url": "https://open.spotify.com/artist/5WL4ngAXr946yPkXFvUkax"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59669,
+      "name": "Vox",
+      "url": "https://open.spotify.com/track/00L3bL1Nu22e6HPRq7R0go"
     },
     {
       "album": {

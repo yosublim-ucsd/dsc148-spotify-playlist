@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Party\-ready, biggest Bollywood dance tracks of last 10 years\. Cover \- Satyameva Jayate
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,471 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,417 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 | 74 | [Dhindhora Baje Re \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/track/60u29xfTGpUMpeE7SvFc3C) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Bhoomi Trivedi](https://open.spotify.com/artist/16IWQKGP5XiiKxalXZuIMZ), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Dhindhora Baje Re \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/album/0wOX2manxi6bi9lD4pNfBf) | 4:13 |
 | 75 | [Shaitan Ka Saala \(From "Housefull 4"\)](https://open.spotify.com/track/7IAJzec1UxGYmNvbPTHbxx) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Shaitan Ka Saala \(From "Housefull 4"\)](https://open.spotify.com/album/7sxgA4JjytTlBrtI9VXPAf) | 2:27 |
 
-Snapshot ID: `MCw0ZGUzMTg0MzI5OTEyNmZiZWMzNmYyZGViYTE0YTYyYTIyYTk0NmRi`
+Snapshot ID: `MCxjNzVjMGUzN2JiN2NmNjA3ZDcwYzIzNTM4M2ZmNjFkNzc5NGJkYThm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: odol
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,170 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,190 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 99 | [non zero sum game](https://open.spotify.com/track/2nzTMqhvjVKJQxEd5Y4Ly9) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [non zero sum game](https://open.spotify.com/album/0LBC4LqdAwyPUNdBZiuKjj) | 3:28 |
 | 100 | [在東京少年](https://open.spotify.com/track/605J8O8EnF8FThxJ8Ma0G7) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [式日散花](https://open.spotify.com/album/7j7qbYpUeyXm543KD9lIC5) | 3:38 |
 
-Snapshot ID: `MCxmMjM2OTg2NGJkY2ViZTRhODEyODdjY2FhZGUwYWRiOGJmYjQ1NGM1`
+Snapshot ID: `MCwxOWM1NDE4NTM3MDVkZTRiNGVkOGYyMGM4NmI1MzU3ZDI2MTQyMTlk`

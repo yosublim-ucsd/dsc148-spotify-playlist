@@ -1,12 +1,12 @@
 {
   "description": "Ideale muziek voor de werkdag",
-  "num_followers": 34369,
+  "num_followers": 34376,
   "original_name": "Werkdag FM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWNmNjg5ZmY5ZTM2OWQwZjNkMzI2OGNiZGVkNmIyMWJkMDlhNDU5",
+  "snapshot_id": "MCw3Nzc3YzY4ODM5ZTc2ZWMxM2NhNWYyNzVhMmU2YTZkMzRiMGUyZjky",
   "tracks": [
     {
       "added_at": "2023-11-02 13:08:39",
@@ -3403,22 +3403,6 @@
     {
       "added_at": "2023-11-02 13:08:39",
       "album": {
-        "name": "Filled With Gold",
-        "url": "https://open.spotify.com/album/0BQsC0ggLM5IJ4AM8KBIbq"
-      },
-      "artists": [
-        {
-          "name": "Sven Ross",
-          "url": "https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ"
-        }
-      ],
-      "duration_ms": 229804,
-      "name": "The Heartbreak Bird",
-      "url": "https://open.spotify.com/track/5KqmuUNzIBh2iJxluAiqE2"
-    },
-    {
-      "added_at": "2023-11-02 13:08:39",
-      "album": {
         "name": "This Is For The Ones",
         "url": "https://open.spotify.com/album/49vhTXDSj6b0zXzJiFEkPg"
       },
@@ -3807,6 +3791,22 @@
       "duration_ms": 198787,
       "name": "Melancholy Rain",
       "url": "https://open.spotify.com/track/3QE2QILtex7klQNA6lPysv"
+    },
+    {
+      "added_at": "2023-11-02 13:08:39",
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/5YFH2ZhzYhWltkgmMd1mmU"
+      },
+      "artists": [
+        {
+          "name": "ROND\u00c9",
+          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
+        }
+      ],
+      "duration_ms": 217944,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/7hz3BdldMUmj81yy2JjYaj"
     },
     {
       "added_at": "2023-11-02 13:08:39",

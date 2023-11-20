@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Vale Lambo in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,383 likes - 55 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,459 likes - 55 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 54 | [Peccati \(feat\. J Lord\)](https://open.spotify.com/track/5jmRPnT5jyMHDfhLsHzSrV) | [Moderup](https://open.spotify.com/artist/0EE0rv2NG4drYTTQrT0saQ), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [Peccati \(feat\. J Lord\)](https://open.spotify.com/album/4YDkA7KQEWgRFBqt7uFDDb) | 2:31 |
 | 55 | [FCCV](https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [VANITAS](https://open.spotify.com/album/3cDE2dajma7EPMu5j9QKCT) | 2:37 |
 
-Snapshot ID: `MCxhYmQ3ZGQ5Mjc5ZjEzMzlkOGM5YjYwNWVjNzMzMDkyNjhhZTM4OGIw`
+Snapshot ID: `MCwwMmQ0NDU1MmQ0N2Y4NzVlZjZhY2VhOGNkNDEyZDcyNDYwZThmOGVm`

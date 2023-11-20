@@ -730,7 +730,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-24",
+      "date_removed": null,
       "duration_ms": 168240,
       "name": "Don't You Ever Get Tired of Hurting Me",
       "url": "https://open.spotify.com/track/6QAJbtf8Qb69AKsp8soPmN"
@@ -1884,6 +1884,24 @@
     {
       "album": {
         "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154466,
+      "name": "Poetry In Motion",
+      "url": "https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW"
+    },
+    {
+      "album": {
+        "name": "Johnny Tillotson's Best",
         "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
       },
       "artists": [
@@ -1894,7 +1912,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 154466,
       "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
       "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
@@ -2002,7 +2020,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 173960,
       "name": "Send Me The Pillow You Dream On",
       "url": "https://open.spotify.com/track/0fabZNPJqBJBfwzDxuKQTi"
@@ -2182,7 +2200,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 172760,
       "name": "Statue Of A Fool",
       "url": "https://open.spotify.com/track/6mYIZzGhfj9z1TJNL6ZhYh"
@@ -2402,7 +2420,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 192946,
       "name": "The Cold Hard Facts of Life",
       "url": "https://open.spotify.com/track/2s2Owv5k5HaXCkvwV8AbsG"
@@ -2824,7 +2842,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 127106,
       "name": "Why Do I Love You So - 1960 #42 Billboard chart hit",
       "url": "https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL"
@@ -2860,7 +2878,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 144120,
       "name": "Wine Me Up",
       "url": "https://open.spotify.com/track/2QS8C4T3H1hYpnADMpq8Uz"

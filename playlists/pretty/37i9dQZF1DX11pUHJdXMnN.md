@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,079 likes - 45 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,086 likes - 45 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [What Are U Gonna Do](https://open.spotify.com/track/1LPrVY0aROcFkP2A9D9YCJ) | [Ladebare](https://open.spotify.com/artist/5AnAdS3TumeVuPszRkY13h), [Janai](https://open.spotify.com/artist/0x9rtwsyJne349H9TJGDk0) | [What Are U Gonna Do](https://open.spotify.com/album/243U9nGlE63ErtM8fE1g4U) | 3:00 |
 | 45 | [Wing House \- Shan Remix](https://open.spotify.com/track/1Wc83tGRNW59knQUV26bFp) | [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt), [Shan](https://open.spotify.com/artist/06tx6ueiCMiQl07jV0j1gb) | [Gleis 2 \- Lichtenberg Remixes](https://open.spotify.com/album/3xVK14DvoI1oYFAMWKCuDk) | 6:45 |
 
-Snapshot ID: `MCxmNzgyM2FlODkyMzkyMmZiM2JiNTU2MzY1MmMwOTAyYjJlY2IwOGU4`
+Snapshot ID: `MCw3NmExMWUyMTJjYjk0MDlkOGZiZjg5YmI1YzE3NmY0OGE1N2YyOGNj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 
 > los mejores beats producidos en tierras mexicanas 🌵
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,175 likes - 100 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,222 likes - 100 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 | 99 | [Lo\-Fi Desayunando Huevito antes de la escuela](https://open.spotify.com/track/06aGkAjkul4YVPyYd2Emyi) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lo\-Fi Desayunando Huevito antes de la escuela](https://open.spotify.com/album/66OTO7Ou4vememwiXEvh5j) | 3:30 |
 | 100 | [Lo\-Fi Hermoso Cariño](https://open.spotify.com/track/4XUnlt0Jy0oTIaOlM53kPI) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lo\-Fi Hermoso Cariño](https://open.spotify.com/album/1lQfuhqMxiRSZZyo2rHLBD) | 2:37 |
 
-Snapshot ID: `MCw3YjcwZGRkMjI3ZGU4OGY1ZDhkNjZhZjI5ZTQzNWU2YzVjMDRkMDdm`
+Snapshot ID: `MCwyMDMxN2NkNjA4MTdmOGVlYzA5NTRiZDRhNTE0OTA3N2QwNjYxNjZk`

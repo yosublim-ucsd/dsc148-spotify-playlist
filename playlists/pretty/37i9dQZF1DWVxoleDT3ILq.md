@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Pedropiedra
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,492 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,498 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 99 | [Fachada Continua](https://open.spotify.com/track/0vBmnm1xu5k4j5Yb3S1rCs) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Fachada Continua](https://open.spotify.com/album/09l1PShMZndBTxjVD2nYMR) | 4:06 |
 | 100 | [Que no se corte la cadena](https://open.spotify.com/track/5j2f1ZYDqLjUsePKpokkkg) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Que no se corte la cadena](https://open.spotify.com/album/70PkbVHGZ1OLMRTlSQ6aYu) | 2:36 |
 
-Snapshot ID: `MCwzN2ZhNDQwNjU5Y2NkMzgyMWMxNjIyODAwOWE5NjVkMWZlYzFkZDkw`
+Snapshot ID: `MCw1ZjA2ZWJkMGRkNzI1NWViNTI4MjRmZmFiODVmMzZjMjdmNzY3YjBh`

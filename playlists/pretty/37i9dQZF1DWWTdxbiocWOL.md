@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 
 > Thunder is coming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,269 likes - 40 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,290 likes - 40 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 | 39 | [A Sixth Trumpet](https://open.spotify.com/track/0kqR9yoySq4IQSvEql8h4L) | [From Monument To Masses](https://open.spotify.com/artist/1U5hX2xotG9ilMOlgNekbq) | [On Little Known Frequencies](https://open.spotify.com/album/7lBdDIeIgMb1mWloh7N3Ea) | 5:35 |
 | 40 | [We'll Find the Light in Darkness](https://open.spotify.com/track/1aWPIurjGonozOh46AzNcj) | [The Mantra Discord](https://open.spotify.com/artist/7qGUciCek4iIXfo65Gl7zA) | [We'll Find the Light in Darkness](https://open.spotify.com/album/7JOwJdBWGN0GAKcEf1qanb) | 4:41 |
 
-Snapshot ID: `MCwyMGU1NDkxMDM5OTMwZDZhYzYwNGU0ZDU3ZjVlOGEwMzkxNWMxZTJh`
+Snapshot ID: `MCwxZWI1OTEwYzhkZGU2ZGU2NmMyNGU4YjUyOWFmNTRiNGZhMDkyMTdh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\.   Cover: <a href="spotify:artist:2Ggj5XNlIb4Lnbqe307FyB">Lola Brooke</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,459 likes - 99 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,426 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 98 | [1 On 1](https://open.spotify.com/track/1AlHibxD7NCwSXYPJHVQ15) | [Jimmy October](https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn) | [1 On 1](https://open.spotify.com/album/26gGXTFrJrtgjRgqgXfwKm) | 2:57 |
 | 99 | [Karma \(feat\. 2Rare\)](https://open.spotify.com/track/3kfDCacVarF4H8xKsFDGrq) | [Flau'jae](https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Karma \(feat\. 2Rare\)](https://open.spotify.com/album/3aPhYdYEo8CWIiotS0Vilo) | 3:00 |
 
-Snapshot ID: `MCwyM2Q0ZWY2OTdmNDhmNzNjODVhNGQxZGY5YmI1YzRhMmQ5ZjMwOTc4`
+Snapshot ID: `MCwwNTY4ODUzM2I4ZmQ2OTMxZjZmN2FjODdiZGZlNWZiMjAyYzhhMDBm`

@@ -5423,6 +5423,24 @@
     },
     {
       "album": {
+        "name": "CYNE",
+        "url": "https://open.spotify.com/album/13nrCbkuJantG09mJDcikJ"
+      },
+      "artists": [
+        {
+          "name": "GEAVN",
+          "url": "https://open.spotify.com/artist/1wRjJI80Z1xUT2aFdn7aru"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187782,
+      "name": "VAGUE",
+      "url": "https://open.spotify.com/track/4zTbR7badAt5Xxj2I8Wo5J"
+    },
+    {
+      "album": {
         "name": "VAGUE",
         "url": "https://open.spotify.com/album/7qlUM9axBnj7b2hTsIeLwa"
       },
@@ -5434,7 +5452,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 187782,
       "name": "VAGUE",
       "url": "https://open.spotify.com/track/71wy1MM9Cfm2Bs9borXIcg"

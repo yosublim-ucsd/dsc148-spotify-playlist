@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,772 likes - 100 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,835 likes - 100 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 99 | [Cottage for Sale](https://open.spotify.com/track/11YUyneklQZhbVsc9fWglV) | [Howard McGhee](https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93), [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Walter Bolden](https://open.spotify.com/artist/5hErYsY5trFRjYKz9YU1Uf) | [Dusty Blue](https://open.spotify.com/album/6ZtGsmFIs8KxA4ovr9ScHU) | 4:27 |
 | 100 | [Tin Roof Blues](https://open.spotify.com/track/2GqL5oG0uFfZeY9ajPYxOv) | [Muggsy Spanier](https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK) | [Presenting Muggsy Spanier](https://open.spotify.com/album/0IStfKG8KwvvniN0ZtLWih) | 2:56 |
 
-Snapshot ID: `MCw0YTc5NzVmY2IxNjBmYTA2OTIzMmE5ZTUwMTBhYjA3NzM1Zjc0YzE4`
+Snapshot ID: `MCwzMTcyNWQ2OGRkYTE2ZTljYmQ2ZjBjODVhZjA3ZjdiYTk4NDc4MzFj`

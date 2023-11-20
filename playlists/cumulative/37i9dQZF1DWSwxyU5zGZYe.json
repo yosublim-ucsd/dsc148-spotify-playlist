@@ -679,6 +679,28 @@
     },
     {
       "album": {
+        "name": "Badrinath Ki Dulhania",
+        "url": "https://open.spotify.com/album/26ska1StQhwbWADLTg2hky"
+      },
+      "artists": [
+        {
+          "name": "Akhil Sachdeva",
+          "url": "https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM"
+        },
+        {
+          "name": "Mansheel Gujral",
+          "url": "https://open.spotify.com/artist/7zfceKY7I04Tc0J2o7043h"
+        }
+      ],
+      "date_added": "2023-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268463,
+      "name": "Humsafar",
+      "url": "https://open.spotify.com/track/6TFESXMfJJWwccviaxGAMa"
+    },
+    {
+      "album": {
         "name": "Mausam",
         "url": "https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP"
       },

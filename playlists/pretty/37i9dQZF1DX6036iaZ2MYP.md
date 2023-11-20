@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Midas the Jagaban
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,217 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,278 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [PAMELA](https://open.spotify.com/track/4G3axOEaeRZ95EIbubQbQu) | [Gwamz](https://open.spotify.com/artist/5asNjXXCZBu2NfJDarWlRR), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [PAMELA](https://open.spotify.com/album/3sgshiWcl1YVV4ywA1GEp2) | 3:33 |
 | 50 | [Opposés](https://open.spotify.com/track/10cXtrKUCAqtqKYWJOLR7b) | [Lhiroyd](https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8), [Alicia.](https://open.spotify.com/artist/497jP4B8qjwywlQShLt7TU) | [Afroland : Bleu Nuit](https://open.spotify.com/album/1fmvqeOzCZji4DcGVFZtLa) | 2:35 |
 
-Snapshot ID: `MCwxMDVkOGVlMzQwNzYwZjU2MTY0ZWMyZmEzMzNmMzk2YzQxNzc2ZmE0`
+Snapshot ID: `MCw1MzRjMGI3MTkzYzRiYzRmM2FjMTE0NGJjMzQ5NDkwZTliMDJlNWJh`

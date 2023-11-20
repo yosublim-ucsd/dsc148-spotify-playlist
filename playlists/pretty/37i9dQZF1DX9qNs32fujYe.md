@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Judas Priest
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,176,369 likes - 200 songs - 14 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,176,680 likes - 200 songs - 14 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 199 | [Hurt](https://open.spotify.com/track/63JMdCqEjV2cxB2DRNLn0y) | [One Desire](https://open.spotify.com/artist/1s25YudYTrIRBOSsj917K7) | [One Desire](https://open.spotify.com/album/2N2uFYwu3oGTuDtQnTi7Lo) | 5:07 |
 | 200 | [If Not for You](https://open.spotify.com/track/0YErfApccjJFLU9KvVd0Lv) | [Tremonti](https://open.spotify.com/artist/44tQC1PjxXIpEgW0i8uN00) | [Marching in Time](https://open.spotify.com/album/0kxRp8FlcQ0Sx2edzWzEGe) | 4:10 |
 
-Snapshot ID: `MCwwYjBmZWMzNDA2ZDAwNDgzOWE1OWQ5NzA2M2ZmOWQwMDdjNDc0ZDA4`
+Snapshot ID: `MCwzMTYyNWM0YzM1OTI0MGYwNzA5OWI4YTk2NGJlZTFlM2JlOTY4M2Y4`

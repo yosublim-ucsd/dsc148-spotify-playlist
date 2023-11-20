@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSWiBVaJn3j.md) - [plain]
 
 > 60s rock to fuel your ride\. Cover: Jimi Hendrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,229 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,342 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSWiBVaJn3j.md) - [plain]
 | 49 | [Strychnine](https://open.spotify.com/track/6u7UrwiZERRglVNSpgmxNf) | [The Sonics](https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy) | [Here Are the Sonics](https://open.spotify.com/album/4vqaqoTEbNyeeSHJA6KpdM) | 2:13 |
 | 50 | [Arnold Layne](https://open.spotify.com/track/2Dsy7Ls7OuvG1fpjrKI5AE) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Relics](https://open.spotify.com/album/361QTNnQcBcNJ38gn8ZWQw) | 2:56 |
 
-Snapshot ID: `MCw4NTIwMjI4M2NmNDEwNDg3MmI2MjI5NzlmM2ZhMmVlYTkyMDUwMGNm`
+Snapshot ID: `MCw1OTYxYWNhZTYxMjVkOWI0MDRkOWZhOTQ4ZThiNjQyYjVhNzVhNDdm`

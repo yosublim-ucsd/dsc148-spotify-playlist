@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain]
 
 > nothing but bangers to help you with the grind
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,774 likes - 200 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,780 likes - 200 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGzo2lhvYlP.md) - [plain]
 | 199 | [Say It Again](https://open.spotify.com/track/0iBOGfVW1T08dRqtqnMYK0) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Say It Again](https://open.spotify.com/album/66W7W38MosX0x2VSq3N7g1) | 3:26 |
 | 200 | [Heartbreak In The Making](https://open.spotify.com/track/7pQDEFgqfceckGdx9v4Me2) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Heartbreak In The Making](https://open.spotify.com/album/0FX2iXci5RZKRqVQslP6fk) | 3:14 |
 
-Snapshot ID: `MCw1NWNlMWQzZmE3N2IzMDMzZjBlNjUwMWM1ZjdlMThlNzUwMzYzZjNi`
+Snapshot ID: `MCwwMDRhOTMyYWIzNmY3MTMwNzVhYWQ3YTM3YmU5NTExMGFiMTkxZjU2`

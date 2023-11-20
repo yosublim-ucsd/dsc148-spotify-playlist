@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 
 > Get your creative juices flowing with these instrumental masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,102 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,151 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 | 59 | [Le Rossignol\-en\-Amour: 14ème ordre, 3ème livre](https://open.spotify.com/track/2UOsrF7Ihl6nxNYU8wMhLM) | [François Couperin](https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL), [Iddo Bar\-Shaï](https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW) | [Couperin: Les Ombres Errantes](https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB) | 2:36 |
 | 60 | [Lyric Pieces Book I, Op\. 12: No\. 7 Album Leaf](https://open.spotify.com/track/7hfoLeHqbJ6jWz0RqWfzBB) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Wonderland \- Edvard Grieg: Piano Concerto, Lyric Pieces](https://open.spotify.com/album/2UuimI3vh1uOLs1WemYk1m) | 1:20 |
 
-Snapshot ID: `MCxiZTk3YTQyYmNlYTNlODU4ZmE5M2ZjMzBkMDlkNjE5ZDQwY2JkZjUy`
+Snapshot ID: `MCw3OWRhNjNmMzc2OGNkNTRjYzJmOThkNjFhNDdmMmVjMjIwNmE5NTVi`

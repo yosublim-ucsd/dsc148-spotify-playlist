@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,155 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,200 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 99 | [Venid Fieles Todos](https://open.spotify.com/track/7B93yC2pb1Tv6PX7I8PzbQ) | [mixtr](https://open.spotify.com/artist/65Vs3f2mQK6jublzD06io7), [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75), [Adarga](https://open.spotify.com/artist/3ce7pTvRVGA2WRMS2KXT3r), [Vanesa Keeley](https://open.spotify.com/artist/7i5UxlHBlg97SSFYVAHNjY), [David Borraez Archila](https://open.spotify.com/artist/7zMJFYQNSPh2pIgD6teTUN), [Lauren Kruse](https://open.spotify.com/artist/1ze1CqGnjHZKZQMvKN6H0v), [Molly Sirvatka](https://open.spotify.com/artist/0LLCLGEu7Zlsp3EPHOPsET) | [Welcome Home \(Este Es Tu Hogar\)](https://open.spotify.com/album/7slekWPMTlFsaYzdCpHjaB) | 3:06 |
 | 100 | [Noche de paz](https://open.spotify.com/track/4KECWIRk40HKi3cqPxZnq0) | [Deluz](https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R) | [Noche de paz](https://open.spotify.com/album/5xYN99mczSnd6XFrb3J7ku) | 3:06 |
 
-Snapshot ID: `MCw5YjU1NTdkOTlhYzgwOGIwOTY5NTIzNDMzMDQwMTM1M2NkNmU4YmVm`
+Snapshot ID: `MCxhYWQ0MGU0YzdjOTYxN2Q1MTM0YmFiYTg5MmQ5YzRkMzBlYmIwZDE3`

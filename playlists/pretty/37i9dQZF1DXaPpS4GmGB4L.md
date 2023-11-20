@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,431 likes - 150 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,456 likes - 150 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 149 | [Statesboro Blues](https://open.spotify.com/track/0s1KrZNQlczWBv2B6iBFuQ) | [Sunjay](https://open.spotify.com/artist/3p62DWI8KdlfX4lNTMNXeu) | [Statesboro Blues](https://open.spotify.com/album/0k5k73GOmLNnVlEpsMklQU) | 3:59 |
 | 150 | [Footprints on My Floor](https://open.spotify.com/track/0SxiUVY0WZpZxghvz2aV1j) | [Hillfolk Noir](https://open.spotify.com/artist/4alcboeaGrEX6CcqhSsyBb) | [Footprints on My Floor](https://open.spotify.com/album/7MBv0PMZFBn1t7YB84pG0X) | 3:41 |
 
-Snapshot ID: `MCwwMTkyNDFmZDEzOGI4NGNkN2Y0ZmNkM2Y5ODNjM2Y2Y2FhY2JhZTNj`
+Snapshot ID: `MCwzODAzMjAyZWE2ZjZjYWNkZmY0NmM5ZDZjMGU5MGI4MmYxNjYxZjU0`

@@ -650,10 +650,28 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 232826,
       "name": "Let's Spend The Night Together",
       "url": "https://open.spotify.com/track/46KY6zEdoMnjSh2DJqs20K"
+    },
+    {
+      "album": {
+        "name": "Let's Spend The Night Together",
+        "url": "https://open.spotify.com/album/3VRQxcf6VuRHJ6tEqqgkqc"
+      },
+      "artists": [
+        {
+          "name": "Claudine Longet",
+          "url": "https://open.spotify.com/artist/7kQFwkR1mTWfGdtZfcvrZP"
+        }
+      ],
+      "date_added": "2021-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232826,
+      "name": "Let's Spend The Night Together",
+      "url": "https://open.spotify.com/track/4QZTQNmk3JnSr18xNu2N8S"
     },
     {
       "album": {

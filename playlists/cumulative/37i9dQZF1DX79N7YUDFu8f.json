@@ -1964,6 +1964,24 @@
     {
       "album": {
         "name": "Filled With Gold",
+        "url": "https://open.spotify.com/album/58Ah5j1LlglDcbbUG7Hpzw"
+      },
+      "artists": [
+        {
+          "name": "Sven Ross",
+          "url": "https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188933,
+      "name": "Love Out Loud",
+      "url": "https://open.spotify.com/track/0kN2u6AkXMVfHKoITIQ7VQ"
+    },
+    {
+      "album": {
+        "name": "Filled With Gold",
         "url": "https://open.spotify.com/album/0BQsC0ggLM5IJ4AM8KBIbq"
       },
       "artists": [
@@ -1974,7 +1992,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 188933,
       "name": "Love Out Loud",
       "url": "https://open.spotify.com/track/6ubU5Osy8DjTnVX7UNe0UL"

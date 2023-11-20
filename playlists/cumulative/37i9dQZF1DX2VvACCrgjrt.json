@@ -9042,10 +9042,32 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 219212,
       "name": "RUMBLE IN THE DISCO",
       "url": "https://open.spotify.com/track/7KbzRcrYVvQDI8fWOPDPMB"
+    },
+    {
+      "album": {
+        "name": "RUMBLE IN THE DISCO",
+        "url": "https://open.spotify.com/album/2Lr7FMxj6BO7I4vKdyoqEd"
+      },
+      "artists": [
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        },
+        {
+          "name": "Neon Steve",
+          "url": "https://open.spotify.com/artist/1CNO980Lk9CaBWBnM1MZXi"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219212,
+      "name": "RUMBLE IN THE DISCO",
+      "url": "https://open.spotify.com/track/3WF2mMA1gBkSRnucT9Qm23"
     },
     {
       "album": {

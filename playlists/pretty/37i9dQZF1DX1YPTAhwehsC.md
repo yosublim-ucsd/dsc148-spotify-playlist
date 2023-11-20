@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Lola Brooke
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,002 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,036 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 27 | [DunnHill \(feat\. Rick Ross\)](https://open.spotify.com/track/3Hwc9uyLKCu0aCKmpE6Gm9) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [And Then You Pray For Me](https://open.spotify.com/album/3CXoPCQuBb7kP9vEFcfXKU) | 3:59 |
 | 28 | [Lyrical Eazy](https://open.spotify.com/track/6xVdq7lcNHpELteLBfrkY2) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Lyrical Eazy](https://open.spotify.com/album/534PxJHGdYXYCRnjNeWMuo) | 1:40 |
 | 29 | [Realest In The City](https://open.spotify.com/track/0wn43CJ1CNFYMMTnwOpIjK) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Realest In The City](https://open.spotify.com/album/5Jh381Kt0Nf4VLeIDwxTv9) | 1:54 |
-| 30 | [Going Up](https://open.spotify.com/track/5SJEFqTjCHh1I8a3e4bpe8) | [TJ Porter](https://open.spotify.com/artist/3z3xPw2NyqrZgITJS0Xvs4), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Going Up](https://open.spotify.com/album/4KFnAEwJiIIB5WS6b5mAEi) | 1:57 |
+| 30 | [Going Up](https://open.spotify.com/track/5SJEFqTjCHh1I8a3e4bpe8) | [TJ Porter](https://open.spotify.com/artist/3z3xPw2NyqrZgITJS0Xvs4), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [EliWTF](https://open.spotify.com/artist/2mD9arUCF7DL6O9ITxyyBN) | [Going Up](https://open.spotify.com/album/4KFnAEwJiIIB5WS6b5mAEi) | 1:57 |
 | 31 | [RIOT \(Rowdy Pipe'n\)](https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [RIOT \(Rowdy Pipe'n\)](https://open.spotify.com/album/0GQJ1yZpVEzJjfzXbkD0Ui) | 3:09 |
 | 32 | [Said It’s Smoke](https://open.spotify.com/track/5eDON3gRZqbe7dUhjHXTBV) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Said It’s Smoke](https://open.spotify.com/album/5I3GRH18rGdgwsAUsG4qNe) | 1:29 |
 | 33 | [Blick](https://open.spotify.com/track/0ZCfZ4o34HQiFvJAW7HyG6) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [Blick](https://open.spotify.com/album/6JB6RYhuWSOOISlJ5sMfvq) | 2:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [Project Walls \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/0m9cSkuwYOCUWCf48IS5ds) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Project Walls \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/0516F8Xh0qRlX1TaiIABzR) | 2:31 |
 | 100 | [Feelings](https://open.spotify.com/track/7bPY7SRKFhkQwsjfJUyH5m) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Feelings](https://open.spotify.com/album/454OgvsugH7I6ltxO2jzvZ) | 2:38 |
 
-Snapshot ID: `MCwxZjNiODI3NjM1M2EyNDBhNTE1NmYzY2Y3ODcwYWFlNzc5YTA4ODM1`
+Snapshot ID: `MCxhZDUyZjQxMzBhYTIxNTFmZTMyYTAyOTNiNGZjZjE2NTJiYmJmYmI4`

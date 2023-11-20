@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hzQwGhYRlj.md) - [plain]
 
 > A collection of Grieg's finest songs, symphonies and suites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,006 likes - 60 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,009 likes - 60 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hzQwGhYRlj.md) - [plain]
 | 59 | [Lyrische Stücke Op\. 62 \(Band/Volume VII\): Tak/Dank/Gratitude](https://open.spotify.com/track/1PcO4HCgTut0V6ak4Fk7xB) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Gerhard Oppitz](https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo) | [Grieg: Complete Solo Piano Music](https://open.spotify.com/album/0Dm2WvAosDc72UCCNI3wgs) | 4:47 |
 | 60 | [Cello Sonata in A Minor, Op\. 36: I\. Allegro agitato](https://open.spotify.com/track/6nJDclqzmwq9dOoyc0CXMH) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6), [Truls Mørk](https://open.spotify.com/artist/2ookZjNsAvPdiaGWn86ub1) | [Sleeping \- Grieg](https://open.spotify.com/album/2KkVaSnTKRBRz8QhywVbiE) | 10:06 |
 
-Snapshot ID: `MCwxODUyZDYzZTUxZTBjMDFmODk1YTI3ZTBmOWM5ZmFjYzgwMTJiNjNk`
+Snapshot ID: `MCw2Y2RkNmZmN2M4NWVhNGNiYjE5MjU4ZmYwZDA5NjMxYzRmMDEyOWFm`

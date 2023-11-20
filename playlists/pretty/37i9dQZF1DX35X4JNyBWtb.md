@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,647 likes - 150 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,016 likes - 150 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 | 149 | [Sorry](https://open.spotify.com/track/6y1UtRcHQU07aUs3oxZ8Yn) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Sorry](https://open.spotify.com/album/1PvEp0qeU6o2rm0i2qUC2N) | 3:08 |
 | 150 | [Would You Ever](https://open.spotify.com/track/57p8CBvPOxrvyCbn6ttl5r) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Would You Ever](https://open.spotify.com/album/2czvZrAe1DWj6uc4iOqtJX) | 3:54 |
 
-Snapshot ID: `MCwzMDAwMzllMTliZWQ3OGYyMjQyYzQ4OWQ5OTE0NmRjMWZiZTg4MWQ1`
+Snapshot ID: `MCw5YmExOGU1MDkwOGE5ZjQ1YTA0ZDBjZDA3YzkyMWI0NjBjZGI3MDNk`

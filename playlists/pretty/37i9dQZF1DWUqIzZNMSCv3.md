@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 
 > Relaxing classical piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,081 likes - 67 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,235 likes - 67 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 | 66 | [3 Intermezzi, Op\. 117: No\. 1, Andante moderato](https://open.spotify.com/track/3c58ZVEbMUjWsmy4N84kPv) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Hélène Grimaud](https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79) | [Brahms: 3 Intermezzi, Op\. 117: No\. 1, Andante moderato](https://open.spotify.com/album/3SCiglv72zuCvlz88eLfMV) | 4:50 |
 | 67 | [Nocturnes, Op\. 27: No\. 2 in D Flat Major\. Lento sostenuto](https://open.spotify.com/track/5gOiyasbWfppG7fkNI6Byl) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jan Lisiecki](https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy) | [Chopin: Complete Nocturnes](https://open.spotify.com/album/1mvFSxhBUzeOlOFU6SlhAw) | 7:13 |
 
-Snapshot ID: `MCxiODA5ODJjOTQxMWRjZDY4MjhjNDM2ZDlkMWFiYTRkNmUyYWI5MTU3`
+Snapshot ID: `MCw5NGVkMjkyZWMzNjllZDMyZTg3OWIzYmYyYTUzODAxMzYwMzFmMTBi`

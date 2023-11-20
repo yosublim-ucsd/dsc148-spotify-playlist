@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,858 likes - 99 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,942 likes - 99 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 98 | [Die For This](https://open.spotify.com/track/5RE1AIUAPa86jKiRENCpQG) | [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Die For This](https://open.spotify.com/album/1KQAvivjZXMwi4hBKWgpK1) | 4:00 |
 | 99 | [TH3 FL0W](https://open.spotify.com/track/67pe3dZk02n1cXjtPbXuHh) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [TH3 FL0W](https://open.spotify.com/album/11ykfjfk1g4ZJjsx7tEM9J) | 2:34 |
 
-Snapshot ID: `MCw2NWNmMDc5YmY4ZTZlYjMxOTQ0Y2VmNzJhZWY3ZDNhNDg0NjdhZjU5`
+Snapshot ID: `MCw4OTk1YjlhMWY3Yzg0Y2IzZjE5ZjJmNmI1NTc3MmQwMzEwMDMwNjIy`

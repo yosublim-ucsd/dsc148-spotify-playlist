@@ -4,7 +4,7 @@
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-277 songs - 16 hr 9 min
+278 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,8 @@
 | [In the Bleak Midwinter](https://open.spotify.com/track/6MOYdMMIZAfuFzmGxFl3Pe) | [The Hot Hearts](https://open.spotify.com/artist/2mOYycEORlQThRVOoSjL7V) | [A Rock By the Sea Christmas, Vol\. 4](https://open.spotify.com/album/1iam45D5AQaoVkZqTx8Lyc) | 2:53 | 2022-11-15 |  |
 | [In Winter](https://open.spotify.com/track/537nPlvDmbCNzIjMRw5Kee) | [Matt Pond PA](https://open.spotify.com/artist/3JVgWZxQa78cVa2cUuAUQ4) | [Winter Lives](https://open.spotify.com/album/62hP0p3napMAE06DsYt2fg) | 4:03 | 2021-12-24 |  |
 | [It Doesn't Have To Be That Way](https://open.spotify.com/track/7nR8haTZ1U3Wyg3i3ytfAu) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Life And Times](https://open.spotify.com/album/1W8lksoNXJHs8RjWsDEdpk) | 2:31 | 2021-12-24 | 2022-07-29 |
-| [It Doesn't Have to Be That Way](https://open.spotify.com/track/4y7COvp3ovTBRMR1CFEc9y) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [The Original Albums…Plus](https://open.spotify.com/album/0MJESR6xqCtsmM0CB4Pjlu) | 2:32 | 2023-10-16 |  |
+| [It Doesn't Have to Be That Way](https://open.spotify.com/track/4y7COvp3ovTBRMR1CFEc9y) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [The Original Albums…Plus](https://open.spotify.com/album/0MJESR6xqCtsmM0CB4Pjlu) | 2:32 | 2023-10-16 | 2023-11-20 |
+| [It Doesn't Have to Be That Way](https://open.spotify.com/track/58DWD18uEN8ajLu4TNcuHD) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Life & Times](https://open.spotify.com/album/25K3YPiFx7Yb7ms10m58Vt) | 2:32 | 2023-11-17 |  |
 | [It Doesn't Have to Be That Way](https://open.spotify.com/track/5DqSOPvzr2LPxM0yKeR0qZ) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Life & Times](https://open.spotify.com/album/3q7L4mosMmOcmQNE1d0H4s) | 2:34 | 2021-12-24 | 2023-11-03 |
 | [It Doesn't Have to Be That Way](https://open.spotify.com/track/5a0ViNBfdd39PXg8hb6P8p) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [The Original Albums...Plus](https://open.spotify.com/album/4asosdO6SSNJJO5Hij5QbM) | 2:34 | 2021-12-24 | 2022-11-13 |
 | [It’s Beginning To Look Like Christmas](https://open.spotify.com/track/1NGJEnewYsyJJbR1Fo3duX) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 3:00 | 2021-12-24 |  |

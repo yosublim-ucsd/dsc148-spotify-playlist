@@ -4,7 +4,7 @@
 
 > Real nasty house\. Cover: Don Diablo & Scrufizzer
 
-582 songs - 1 day 6 hr 43 min
+583 songs - 1 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,7 +447,8 @@
 | [Rockin'](https://open.spotify.com/track/3nW9Q0MB4r617xHgenkqRm) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [Rockin'](https://open.spotify.com/album/6if9QVmVeAA9xHqWi0tlG7) | 2:35 | 2023-04-21 | 2023-05-27 |
 | [Rockstar](https://open.spotify.com/track/6fp8ij0afP7qdZHlk7gyco) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Tony Watts](https://open.spotify.com/artist/6F1NrhJEWrypMRqqLugIjO) | [Rockstar](https://open.spotify.com/album/6S7mPHW5b9ipL8Kaf56pn2) | 2:24 | 2021-10-29 | 2022-05-28 |
 | [Rollin' in my Ride](https://open.spotify.com/track/1mV5ZTsAdpUhYyRxDNNPR0) | [Wolter Wythe](https://open.spotify.com/artist/4wnQ68aAiSkPtxwcjs4NMK), [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE) | [Rollin' in my Ride](https://open.spotify.com/album/79YDLvb2rZw4IuhrbXYHtI) | 4:19 | 2023-03-24 | 2023-08-05 |
-| [RUMBLE IN THE DISCO](https://open.spotify.com/track/7KbzRcrYVvQDI8fWOPDPMB) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [RUMBLE IN THE DISCO](https://open.spotify.com/album/7x1fU7Gduc0S1Wt8xQqleh) | 3:39 | 2023-11-17 |  |
+| [RUMBLE IN THE DISCO](https://open.spotify.com/track/7KbzRcrYVvQDI8fWOPDPMB) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [RUMBLE IN THE DISCO](https://open.spotify.com/album/7x1fU7Gduc0S1Wt8xQqleh) | 3:39 | 2023-11-17 | 2023-11-20 |
+| [RUMBLE IN THE DISCO](https://open.spotify.com/track/3WF2mMA1gBkSRnucT9Qm23) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Neon Steve](https://open.spotify.com/artist/1CNO980Lk9CaBWBnM1MZXi) | [RUMBLE IN THE DISCO](https://open.spotify.com/album/2Lr7FMxj6BO7I4vKdyoqEd) | 3:39 | 2023-11-17 |  |
 | [Rumble Slow \- StereoKilla Remix](https://open.spotify.com/track/3YF5YQbHoUYzyAxuSz6S6U) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9), [StereoKilla](https://open.spotify.com/artist/3IxxRIBaCq3pXjxfS7CODy) | [Rumble Slow \(StereoKilla Remix\)](https://open.spotify.com/album/5QySCEHPgrnu9BXuH0qama) | 2:21 | 2023-02-24 | 2023-04-22 |
 | [RUSH](https://open.spotify.com/track/4BIpVhPALiMEUpSdmIitol) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT) | [RUSH](https://open.spotify.com/album/7EINEJTzq3iW9Xny1Kd2h4) | 2:43 | 2023-05-19 |  |
 | [Rush](https://open.spotify.com/track/2a9hp6HbEtzUQBLv5C81mw) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Cecelia](https://open.spotify.com/artist/6LtDEad7bRcRxBKQoiFAlI) | [Rush](https://open.spotify.com/album/2eZsDmAcZj27p3B73kbcYp) | 3:52 | 2022-09-16 | 2023-07-27 |

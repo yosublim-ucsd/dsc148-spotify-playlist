@@ -4,7 +4,7 @@
 
 > This is the best of ska, new and classic\. Cover: Madness
 
-266 songs - 14 hr 6 min
+267 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Conscience is Heavy](https://open.spotify.com/track/3kxFEgQ9piaonniyXIOXJR) | [The Inversions](https://open.spotify.com/artist/5aMQ5EDOyqx8eCmPvDkqjt), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [Conscience is Heavy](https://open.spotify.com/album/2qvM0YbTVMYwAzDMliHrEg) | 3:10 | 2023-09-22 |  |
 | [Crazy Life](https://open.spotify.com/track/6HetWMoIuWJpTRuhk82x5U) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Crazy Life](https://open.spotify.com/album/3N5BvC9o2V2huzPmIxRoI4) | 3:33 | 2023-09-22 |  |
 | [Crocodile](https://open.spotify.com/track/4eEK1bzaARHBik8zQbtLv4) | [Arrows to Fire](https://open.spotify.com/artist/4br1yh8u3jTsvKkeSESW5M) | [Crocodile](https://open.spotify.com/album/5mxNNvbl6SKNHbLXr5FFwU) | 2:38 | 2022-04-14 | 2022-04-19 |
-| [C’est La Vie](https://open.spotify.com/track/0FeULTkWtNrjU7WqnTfNv5) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Theatre of the Absurd Introduces C'est La Vie](https://open.spotify.com/album/6heQzlRLjUmiAzezIzmuYg) | 3:10 | 2023-10-27 |  |
+| [C’est La Vie](https://open.spotify.com/track/0FeULTkWtNrjU7WqnTfNv5) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Theatre of the Absurd Introduces C'est La Vie](https://open.spotify.com/album/6heQzlRLjUmiAzezIzmuYg) | 3:10 | 2023-10-27 | 2023-11-20 |
+| [C’est La Vie](https://open.spotify.com/track/43gcln3SnwBCpKjy2gPOwN) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Theatre of the Absurd presents C'est La Vie](https://open.spotify.com/album/1EO1QMwEOJQk36fMQFTbvN) | 3:10 | 2023-10-27 |  |
 | [Dale Dale! 〜ダレ・ダレ!〜 \- feat.チバユウスケ](https://open.spotify.com/track/6bcnIiOiDS3YxgqV93bXjY) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [チバユウスケ](https://open.spotify.com/artist/22a6IbaR2zoPAkudKhWXaW) | [ツギハギカラフル](https://open.spotify.com/album/0yTSmlPjXIW5CsOFaqJT8r) | 2:43 | 2021-09-02 | 2022-07-24 |
 | [Delinquent Song](https://open.spotify.com/track/44XOi657umNvDxNw8JvljD) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [The Band Geek Mafia](https://open.spotify.com/album/1hgcVI15G410lDnGwFNDXk) | 3:14 | 2021-09-02 | 2023-07-29 |
 | [Detonate](https://open.spotify.com/track/2zhXkUkCLZZs9MuhbRzZDM) | [Joystick!](https://open.spotify.com/artist/6QNbUrFd32f8tOVhm1pWEF) | [I Can't Take It Anymore](https://open.spotify.com/album/45lb5sWAyOYpgNJ92bHI1w) | 1:19 | 2021-09-02 | 2022-07-09 |

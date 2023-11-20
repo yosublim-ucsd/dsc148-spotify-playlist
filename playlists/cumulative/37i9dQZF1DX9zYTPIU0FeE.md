@@ -4,7 +4,7 @@
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be?si=I4u0nPYhSEGd1qydwDJU3Q">Pilani Bubu</a>
 
-183 songs - 19 hr 57 min
+184 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [Sometimes I Feel Like a Motherless Child](https://open.spotify.com/track/7wq5H9Ax3WTvQU6uWTthLe) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6), [Gabi Motuba](https://open.spotify.com/artist/0weIOOeTGcBXsHufTBahtC) | [Group Theory: Black Music](https://open.spotify.com/album/27dEFff0ZxZ4EI6Fatqap1) | 5:49 | 2022-06-23 | 2023-03-18 |
 | [Song for Biko](https://open.spotify.com/track/1TvjF3vMdUOnthHd0pQDga) | [Johnny Dyani](https://open.spotify.com/artist/5aAplFNZE4KHKvdmo7xbNw) | [Song for Biko](https://open.spotify.com/album/6hIsyjQ9EMkjP6x45AaGfF) | 4:52 | 2023-11-01 | 2023-11-17 |
 | [Space Ship](https://open.spotify.com/track/5ZQiY5rlJaBvhyVMZJV8AS) | [Ayanda Sikade](https://open.spotify.com/artist/6F9LoTvwNSxtAVFj5i6Hnh) | [Umakhulu](https://open.spotify.com/album/4OKxDZS6s45zQdFCeO2y7e) | 6:15 | 2022-04-28 | 2023-04-12 |
-| [Sunset \(in California\)](https://open.spotify.com/track/0y95rXE4TENI9ib8tSpCG3) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Sunset \(in California\)](https://open.spotify.com/album/1rAdOOiYLU1OX01OsPnmpy) | 5:51 | 2023-10-27 |  |
+| [Sunset \(in California\)](https://open.spotify.com/track/0y95rXE4TENI9ib8tSpCG3) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Sunset \(in California\)](https://open.spotify.com/album/1rAdOOiYLU1OX01OsPnmpy) | 5:51 | 2023-10-27 | 2023-11-20 |
+| [Sunset \(in California\)](https://open.spotify.com/track/4TtGgEvZmvelHF4hvUStfi) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Rainbow Revisited](https://open.spotify.com/album/63wLAGAGfVOEoDHM2kO8TA) | 5:51 | 2023-11-16 |  |
 | [The Balance](https://open.spotify.com/track/5RGk7OKbDQEjSwtTYZxtxJ) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Ekaya](https://open.spotify.com/artist/0DatFccWNlM002HiZD9vOR) | [The Balance](https://open.spotify.com/album/7wV98ytkf55BxvrzQIbzNg) | 3:04 | 2022-04-28 | 2023-07-07 |
 | [The Ben\-Dhlamini Stomp](https://open.spotify.com/track/1l4HECJVkUC6SPyGXp9mJP) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W) | [The Ben\-Dhlamini Stomp](https://open.spotify.com/album/2X9oJX8nIdhwKoCHPZ6n1W) | 5:18 | 2023-05-12 | 2023-08-26 |
 | [The Calling](https://open.spotify.com/track/3VODKenLLmQK3TVt5fWJCJ) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In These Times](https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0) | 1:47 | 2023-11-01 | 2023-11-17 |

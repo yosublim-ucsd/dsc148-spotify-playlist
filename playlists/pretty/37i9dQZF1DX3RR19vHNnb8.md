@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,776 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,810 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 49 | [Perfect Timing](https://open.spotify.com/track/7xgcrkdoh6EObUoMq7hvvh) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [The Lost Boy](https://open.spotify.com/album/4vAkdqqJAaixyOUAMjMv61) | 3:28 |
 | 50 | [HOT BOY](https://open.spotify.com/track/29BUex8teSBlVwOjRWhrAs) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 3:03 |
 
-Snapshot ID: `MCwzNWZiNzE4NDNmMWFmOTM2ODFjMWUzYjE1ZjU4Yzk5Yzc5MTMzNTQw`
+Snapshot ID: `MCxmNGNhNGQ5OTQwYmE2ZjljYTBmMjg2MzQ4ZWU3ZmU5OTFjOTVkMmVi`

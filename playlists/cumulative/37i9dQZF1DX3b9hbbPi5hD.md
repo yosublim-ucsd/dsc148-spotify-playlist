@@ -4,7 +4,7 @@
 
 > Tarantino not only produces great movies, he produces great soundtracks.
 
-86 songs - 4 hr 37 min
+87 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Outshined \- Remastered](https://open.spotify.com/track/2BJYoJPcVf0Pn4QMaLCfzj) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Badmotorfinger](https://open.spotify.com/album/5o2p8FZAyEOSH7arjJLCJp) | 5:11 | 2018-08-20 | 2022-11-13 |
 | [Outshined \- Remastered](https://open.spotify.com/track/4VwPsMcRt1HPVKIdcwY9Uj) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Badmotorfinger \(25th Anniversary Remaster\)](https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3) | 5:11 | 2018-08-20 |  |
 | [Rumble](https://open.spotify.com/track/0pxThPQcINQ8bBGFGYMwAD) | [Link Wray](https://open.spotify.com/artist/2vQavlZtDA660mnZotYIto) | [Rockabilly Insanity](https://open.spotify.com/album/5cZvrLii3UfiNn7UYgVJtL) | 2:24 | 2018-08-20 | 2022-07-29 |
-| [Rumble](https://open.spotify.com/track/5W45ACJYATjWEwUDYM5TDi) | [Link Wray & The Wraymen](https://open.spotify.com/artist/6PnWx4EpoWejrFQfrg06hU) | [Rumble / The Swag](https://open.spotify.com/album/70hzJHg6pWndTe9lm4SZVB) | 2:27 | 2018-08-20 |  |
+| [Rumble](https://open.spotify.com/track/3BdoWtWx0tuYgJziTESrjP) | [Link Wray & The Wraymen](https://open.spotify.com/artist/6PnWx4EpoWejrFQfrg06hU) | [Rumble / The Swag](https://open.spotify.com/album/72BkQUvWYk5ykUeKqplwFE) | 2:27 | 2023-05-09 |  |
+| [Rumble](https://open.spotify.com/track/5W45ACJYATjWEwUDYM5TDi) | [Link Wray & The Wraymen](https://open.spotify.com/artist/6PnWx4EpoWejrFQfrg06hU) | [Rumble / The Swag](https://open.spotify.com/album/70hzJHg6pWndTe9lm4SZVB) | 2:27 | 2018-08-20 | 2023-11-20 |
 | [Satisfied Mind](https://open.spotify.com/track/4H8wbuOyL7gBXfzN2f8kQ6) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Kill Bill Vol\. 2 Original Soundtrack](https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs) | 2:49 | 2018-08-20 |  |
 | [She's Just Killing Me](https://open.spotify.com/track/0ih7vuNB91mvoJ7D6raq0q) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rhythmeen](https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI) | 4:56 | 2018-08-20 |  |
 | [Since I First Met You](https://open.spotify.com/track/0vGyXveSjPnALkLiqfZDOg) | [The Robins](https://open.spotify.com/artist/0mxCHSMJZHtDuNRFdPiNRX) | [Rock & Roll \- The Best of The Robins](https://open.spotify.com/album/2M6r8R8SZfy9D5io8aZYcs) | 2:20 | 2018-08-20 |  |

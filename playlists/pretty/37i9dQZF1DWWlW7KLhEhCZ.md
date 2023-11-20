@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: tchelo rodrigues
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,907 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,939 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Bala nos Mandado](https://open.spotify.com/track/7ty2MwHKyA7ZENxc01WKR4) | [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x), [Meno Tody](https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L) | [Bala nos Mandado](https://open.spotify.com/album/29TwohGiZJQDG9KnWEGR1o) | 2:40 |
 | 75 | [Conteúdo Exclusivo \(feat\. Pedro Lotto & Wey\)](https://open.spotify.com/track/2ECwRI68IyCh5La41hCw59) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [O Último Romântico Online](https://open.spotify.com/album/5J2k1X6ezNvPGwchhujAA4) | 3:48 |
 
-Snapshot ID: `MCw0MTU5MmYyYjFjNzJkMTRhZmZlMGEzNjEwY2IxNTZjOTdhNGI4YjQ3`
+Snapshot ID: `MCwxZWU2MjQ1MjRmZTU0MzhkOTVkN2ZmMDI1MjNjM2Y3ZTU3MTJmYzk2`

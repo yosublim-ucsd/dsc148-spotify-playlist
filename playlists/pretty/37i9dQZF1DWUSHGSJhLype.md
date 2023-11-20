@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aquele mexidão envolvente que o brasileiro ama / Foto: Leo Santana, Zé Felipe
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,994 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,192 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 | 79 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 | 80 | [Já Sei Namorar](https://open.spotify.com/track/0JwJWbMOceIShN6cXJLxbG) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Já Sei Namorar](https://open.spotify.com/album/37IAPkpRBmPJt2eGwXTMWS) | 2:27 |
 
-Snapshot ID: `MCw1YjU5NmI2ODliMDA3OGNmNmE0MDM1Nzg0ZWEzN2VjMWRhOTIyZTZl`
+Snapshot ID: `MCw1ZDQxMWE2NjRiOTU0Yzc4ZmJhNDJlZjUyYzJlMDE0YjRhMWI5YjYz`

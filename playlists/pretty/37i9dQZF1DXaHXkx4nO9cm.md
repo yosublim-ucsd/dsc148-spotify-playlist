@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHXkx4nO9cm.md) - [plain]
 
 > Mergulhe dentro da sua mente com esses sons do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,755 likes - 250 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,771 likes - 250 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHXkx4nO9cm.md) - [plain]
 | 249 | [Surf Season](https://open.spotify.com/track/0YmXKiEa0tLl0kpiQedm25) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Meditative Ocean Sounds](https://open.spotify.com/album/1Ns7SBGJ7qNaUihRF7iTa1) | 3:05 |
 | 250 | [Peaceful Low Tide](https://open.spotify.com/track/1qDMVYMJEQCTkTVntIhvE9) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [California Ocean Sounds](https://open.spotify.com/album/3or8OyLPvGttkcdl1TwXtQ) | 2:50 |
 
-Snapshot ID: `MCw3ZGQ3NTgyYWJkYjdhYjdiMjYwODNhNDRmMjlhNzJiOTI3MDlmOTBj`
+Snapshot ID: `MCxjOTgzNjM3YzE2ZDQ1YWU3YjE0MmE3MzI0NGE3NDEzMTU2N2JmODZj`

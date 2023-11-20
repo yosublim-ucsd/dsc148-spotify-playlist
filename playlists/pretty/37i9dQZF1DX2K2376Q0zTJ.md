@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー: CHAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,481 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,482 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [I just wanna dance with you\- period](https://open.spotify.com/track/4u86QOvdhxGfsYsWz2O42J) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [I just wanna dance with you\- period](https://open.spotify.com/album/4u7Y1abTcYxn5Ob0Nl4Xzk) | 3:48 |
 | 50 | [PURE MIND PURE HEART \- Lil Soft Tennis Remix](https://open.spotify.com/track/3hfwHcE3KnNLnoVyAIjwci) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn), [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ) | [PURE MIND PURE HEART \(Lil Soft Tennis Remix\)](https://open.spotify.com/album/4a6tXZTYeK5wPWavdH5mk3) | 3:20 |
 
-Snapshot ID: `MCxjNTdhNjkxY2U3YThhZGQwMjNlZWJlZWE3ZDQ3ZDBhYTU0M2M3Y2M4`
+Snapshot ID: `MCxjMTI0NmZkYjlhNDg5ZGUxYzE4YTU5ZmNmNjQxNTM4MzY5NmY2NzI2`

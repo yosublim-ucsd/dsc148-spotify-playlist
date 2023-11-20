@@ -7936,7 +7936,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 219637,
       "name": "Kareh Nafsi",
       "url": "https://open.spotify.com/track/2HBLe2Hkm1l2Om72BJ9Bxx"
@@ -12858,7 +12858,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 179560,
       "name": "Rainy Days",
       "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
@@ -20186,7 +20186,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 198019,
       "name": "\u0645\u062e\u0635\u0645\u0627\u0643",
       "url": "https://open.spotify.com/track/71lgZsFMawXgnG4vcICNbS"
@@ -20756,6 +20756,24 @@
       "duration_ms": 176507,
       "name": "\u064a\u0627\u0631\u0648\u062d \u0627\u0644\u0631\u0648\u062d",
       "url": "https://open.spotify.com/track/7CTkmBM1Ff1lc35v0rcD24"
+    },
+    {
+      "album": {
+        "name": "\u064a\u0627\u0639\u0631\u0627\u0642\u064a \u064a\u0639\u064a\u0646\u0643 \u0627\u0644\u0644\u0647",
+        "url": "https://open.spotify.com/album/6wYAmYdxEJTFFaI2ou0R9Y"
+      },
+      "artists": [
+        {
+          "name": "Toomyh",
+          "url": "https://open.spotify.com/artist/20FKm9sbfyhN7cc5SWOII7"
+        }
+      ],
+      "date_added": "2023-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184784,
+      "name": "\u064a\u0627\u0639\u0631\u0627\u0642\u064a \u064a\u0639\u064a\u0646\u0643 \u0627\u0644\u0644\u0647",
+      "url": "https://open.spotify.com/track/3AIvLcWka4WEzQr0smrxww"
     },
     {
       "album": {

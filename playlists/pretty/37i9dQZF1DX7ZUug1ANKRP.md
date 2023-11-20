@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Ofenbach, Norma Jean Martine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,797,098 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,797,252 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 15 | [Home Alone \(with Marnik\)](https://open.spotify.com/track/7zyvQ8sb72g4RuwBpcuGUP) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [Home Alone \(with Marnik\)](https://open.spotify.com/album/4PX1HXUcKRTNYEQOcBfpsc) | 2:08 |
 | 16 | [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K) | 2:27 |
 | 17 | [Where Do We Go](https://open.spotify.com/track/1M2NNUv8UV5smjMVGyTrmz) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Where Do We Go](https://open.spotify.com/album/4DDBDbyg0A15tQuClSvcqg) | 2:51 |
-| 18 | [Kommissar](https://open.spotify.com/track/6QeYonzZSkrBytfyvdQei7) | [Pazoo](https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg), [NoooN](https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X) | [Kommissar](https://open.spotify.com/album/1qA3Oxzn8bVMUJgP1aILp9) | 2:43 |
+| 18 | [Kommissar](https://open.spotify.com/track/0djjZQPlvpOPNgnWTMVvli) | [Pazoo](https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg), [NoooN](https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X) | [Kommissar](https://open.spotify.com/album/6qHIHbbOEFkZQaEVXFgVCi) | 2:43 |
 | 19 | [All I Ever Wanted](https://open.spotify.com/track/21deaXqPzYtLunigUjpZuB) | [Hard Lights](https://open.spotify.com/artist/3tLvKk2N4IGhT3aZceW2Hy), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Serzo](https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6) | [All I Ever Wanted](https://open.spotify.com/album/7qPFcO0JaiYoCgsBX5K6fw) | 2:10 |
 | 20 | [Jack \(One More Round\)](https://open.spotify.com/track/4rTA5hrkv233BWoASSKt3T) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR) | [Jack \(One More Round\)](https://open.spotify.com/album/3HooEXc4g2o0ZEvGnBU0b6) | 2:42 |
 | 21 | [Loneliness](https://open.spotify.com/track/0iFxSf5RjiybnVSjofFEBg) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Tomcraft](https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp) | [Loneliness](https://open.spotify.com/album/5u1NYKRPYx8KkcAVXXryQS) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [High On Life](https://open.spotify.com/track/63yVtv3jDnjMa89SD7uYj2) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [High On Life](https://open.spotify.com/album/0A4eJEZQmWWNB2jPrE0xuR) | 3:19 |
 | 50 | [Wake Me Up \- Radio Edit](https://open.spotify.com/track/6d0T2bz3qCRTtG126QFkp3) | [MOLOW](https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Wake Me Up](https://open.spotify.com/album/4GfBtGzN9za6LxsOgWU7jT) | 2:48 |
 
-Snapshot ID: `MCxlZjJjOTIxMWQ5MjdhNmNiNDg2MDU3YTZlNDkyN2Y5NWQzY2I2ODIy`
+Snapshot ID: `MCxhZjA4MmY3ZDhhZjY5YzVjZDJmMWI2M2EyNGU3YjU4YWVhZTdlZjUy`

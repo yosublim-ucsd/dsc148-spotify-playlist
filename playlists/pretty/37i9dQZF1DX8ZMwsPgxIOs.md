@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Adam Beyer
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,230 likes - 80 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,293 likes - 80 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 79 | [Spread Love](https://open.spotify.com/track/4u1yf0ZJudECfkdCqNEngD) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Spread Love](https://open.spotify.com/album/2ma3J81ldd9ObkhhGQtjVB) | 2:52 |
 | 80 | [CreM](https://open.spotify.com/track/7u7Oyr3ohXTy4ccnV4Yca1) | [NANCY Live](https://open.spotify.com/artist/3u2C5jTgPLvS9FxybbEuh1) | [Crem](https://open.spotify.com/album/5Aqpxzn5dcEqmoL50exJfi) | 5:02 |
 
-Snapshot ID: `MCwwMDBmNzkwMDEzZTZjYTkzYzAxNjliNzdmZjhmYjc0N2RhNTk5ZTZk`
+Snapshot ID: `MCw3YzliN2UyZjUwMmE5OGVjMWY4YWIxYWM3N2Y1MDNiOGNhYmYwM2Ez`

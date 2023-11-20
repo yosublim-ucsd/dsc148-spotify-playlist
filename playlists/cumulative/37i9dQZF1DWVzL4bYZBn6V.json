@@ -152,7 +152,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 161190,
       "name": "Creep",
       "url": "https://open.spotify.com/track/0MCrrytmwWwVs9WoSpsodr"
@@ -178,6 +178,28 @@
       "duration_ms": 161190,
       "name": "Creep",
       "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
+    },
+    {
+      "album": {
+        "name": "Creep (mint Singles)",
+        "url": "https://open.spotify.com/album/2JDxkewW94MQj5GUi5Efvo"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161190,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/44wMXyr2IbVa1e2t1XeSvI"
     },
     {
       "album": {

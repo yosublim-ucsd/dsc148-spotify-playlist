@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Queen Naija
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,029,892 likes - 175 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,030,048 likes - 175 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 174 | [Ain’t Nobody](https://open.spotify.com/track/0Ctpzuq446LGu8RVIQOFiJ) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [genesis \(Deluxe Edition\)](https://open.spotify.com/album/5snWN07rioDJfH1hR8aITX) | 2:25 |
 | 175 | [Good Ex](https://open.spotify.com/track/7b7MKh1kOgwASPihOs7vve) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [In A Perfect World](https://open.spotify.com/album/3oPebCk2nGseupO5q4PxiI) | 2:35 |
 
-Snapshot ID: `MCw3OGFjYzJlZTczYTdiZmMxYmM1ZTY1NDI5YmM0ZTQwY2MyNzM4Yzk3`
+Snapshot ID: `MCwzZDdjOTA1YjVhMTgwYjUzOTk0Y2M4NWRlZjZiM2NjNGM2Y2Q5YWUw`

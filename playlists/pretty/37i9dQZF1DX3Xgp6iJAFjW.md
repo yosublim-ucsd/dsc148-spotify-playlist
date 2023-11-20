@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,789 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,873 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 99 | [Hay Mucha Alegria](https://open.spotify.com/track/3sWxMI7ptGU5eq5ptxqrh1) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Navidad en Merengue \(Versión Editada\)](https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M) | 6:02 |
 | 100 | [Parranda Navideña](https://open.spotify.com/track/6ltjndHA8EV1SIyaspqWAt) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [10 Grandes Exitos](https://open.spotify.com/album/3fyyvvAPxiWSL9Y7Eo9YLr) | 4:13 |
 
-Snapshot ID: `MCw0YzJkOTY0NmQzOTVjMTNkOGFlNzczNmJjM2M2YmI5YjQyNTNmNjYw`
+Snapshot ID: `MCwyNzQ3NjY2ZTY2YTM4ZTU4NzU5Y2Y4MDc5MGJhODFiYjM2ZWQ1ZTJh`

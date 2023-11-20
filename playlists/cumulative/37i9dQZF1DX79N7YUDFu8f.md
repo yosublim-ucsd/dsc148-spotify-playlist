@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zaterdag met deze zachte pop liedjes.
 
-214 songs - 12 hr 42 min
+215 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Lost on You](https://open.spotify.com/track/2LIh4uzqq9cXMPzzmcToHl) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost on You](https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw) | 4:28 | 2022-06-03 | 2023-11-04 |
 | [Lost on You](https://open.spotify.com/track/2kz40rIHjfGYxurLiuCBp9) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Death Valley](https://open.spotify.com/album/5thv3RCZIDkWQVGDicoLkF) | 4:28 | 2021-11-24 | 2022-07-29 |
 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 | 2021-11-24 |  |
-| [Love Out Loud](https://open.spotify.com/track/6ubU5Osy8DjTnVX7UNe0UL) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Filled With Gold](https://open.spotify.com/album/0BQsC0ggLM5IJ4AM8KBIbq) | 3:08 | 2023-02-23 |  |
+| [Love Out Loud](https://open.spotify.com/track/0kN2u6AkXMVfHKoITIQ7VQ) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Filled With Gold](https://open.spotify.com/album/58Ah5j1LlglDcbbUG7Hpzw) | 3:08 | 2023-10-26 |  |
+| [Love Out Loud](https://open.spotify.com/track/6ubU5Osy8DjTnVX7UNe0UL) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Filled With Gold](https://open.spotify.com/album/0BQsC0ggLM5IJ4AM8KBIbq) | 3:08 | 2023-02-23 | 2023-11-20 |
 | [Love Out Loud](https://open.spotify.com/track/6zAnoyecEdyzK1qo569Wa0) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Love Out Loud](https://open.spotify.com/album/77A0zjywOShlbv2fZgrOvu) | 3:08 | 2021-11-24 | 2023-03-29 |
 | [Love You Anymore](https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:02 | 2021-11-24 | 2023-02-10 |
 | [Lovely Morning](https://open.spotify.com/track/4768qiI13zMOKseYclY4pN) | [Room Eleven](https://open.spotify.com/artist/1fnqrUzStcFzRdTybhaOdT) | [Mmm..\. Gumbo?](https://open.spotify.com/album/7qvN2X89qpDmaZbYbqFGgQ) | 3:53 | 2022-06-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 
 > Hit dance per l'estate 2023, anche in autunno 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,632 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,658 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 | 99 | [Legit](https://open.spotify.com/track/5p0aallQlnYrQmHI10BASz) | [Erlandsson](https://open.spotify.com/artist/3mkANE8kTZpm5SXJWCmihm), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [Legit](https://open.spotify.com/album/33TLuvtiEY3AizYPGRB4HH) | 2:59 |
 | 100 | [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ) | 3:33 |
 
-Snapshot ID: `MCwxMmRhYzVmNjBiMzE3ZjMwZjU1NzRhNGQzZGZiODI0YTc5NmZhMjZh`
+Snapshot ID: `MCw3MmIzMzBmMTllYWJmNDg0MDkyOTAxZTMzMDYzZGJlOTU5ODcwNzBi`

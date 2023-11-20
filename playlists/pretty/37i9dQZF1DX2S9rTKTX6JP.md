@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > The very best rock covers\. Cover: Dolly Parton
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,381 likes - 150 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 664,459 likes - 150 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 149 | [The Pot](https://open.spotify.com/track/08Ui0p0Jk3UBwiEKAxs4Xf) | [Brass Against](https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei) | [Brass Against II](https://open.spotify.com/album/1afUsHGp4SFpKAUxapIvtI) | 6:21 |
 | 150 | [No Ordinary Love \- 2005 Remaster](https://open.spotify.com/track/2lwkf3MVqTYmo5NoAoWFqN) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [B\-Sides & Rarities](https://open.spotify.com/album/0UArfu79AC2LrQ6lsvohp5) | 5:30 |
 
-Snapshot ID: `MCwzZmI1OTYyNzM0Y2YzZDdlODRkYTQ5ZGU2NWQ4OWJhYmI0NjY2NTI4`
+Snapshot ID: `MCxhMmQwNWFmNzU4NWI4NjFiMjllNzgyYzg3MzBhMzAzNjA3MTcxZDVj`

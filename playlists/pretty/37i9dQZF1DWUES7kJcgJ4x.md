@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,430 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,436 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 | 14 | [The Cat](https://open.spotify.com/track/1AZ5G23Kcn9h5Awws5Ekf3) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [The Cat](https://open.spotify.com/album/6CvGnsHhBjVvGKgmIkpLMs) | 3:24 |
 | 15 | [Sugar Town](https://open.spotify.com/track/0AWN35e76cvPxAUms8SojX) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Sugar](https://open.spotify.com/album/6rqIXGej4Zy1PZtU8J9gEC) | 2:26 |
 | 16 | [Quiero Quedarme Aquí \- Remastered](https://open.spotify.com/track/1NV2n81StzrL8svv01aZaA) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z) | [My Best \(Remastered\)](https://open.spotify.com/album/4NmjPjTRWoQa33BLUyYPv5) | 2:18 |
-| 17 | [Let's Spend The Night Together](https://open.spotify.com/track/46KY6zEdoMnjSh2DJqs20K) | [Claudine Longet](https://open.spotify.com/artist/7kQFwkR1mTWfGdtZfcvrZP) | [Let's Spend The Night Together](https://open.spotify.com/album/6soxHHJE1GM0BjqOv1N8lV) | 3:52 |
+| 17 | [Let's Spend The Night Together](https://open.spotify.com/track/4QZTQNmk3JnSr18xNu2N8S) | [Claudine Longet](https://open.spotify.com/artist/7kQFwkR1mTWfGdtZfcvrZP) | [Let's Spend The Night Together](https://open.spotify.com/album/3VRQxcf6VuRHJ6tEqqgkqc) | 3:52 |
 | 18 | [Pourquoi Pas Moi](https://open.spotify.com/track/40PaVbkEZY0sz6m4P4NdfH) | [Stella](https://open.spotify.com/artist/0ZPDnYMSbQCDhIZ3KTkhTA) | [Swinging Mademoiselles](https://open.spotify.com/album/7CkK9z6Cd7xH2Yz0cOPnnb) | 2:53 |
 | 19 | [Cerca de ti \- 2015 Remastered Version](https://open.spotify.com/track/3E03E8hqTwUBmkNcWqnC19) | [Las Chic](https://open.spotify.com/artist/17V3HR9eBXClxwY2oS0Foj) | [Bailando el chic \(Remasterizado 2015\)](https://open.spotify.com/album/3PoBHm7Eh5S0MAY42odJ3T) | 2:30 |
 | 20 | [Bule Bule](https://open.spotify.com/track/7qTjlRierxmSVcdKDVAgya) | [Queta Garay](https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg) | [Mexican Garage Rock '66](https://open.spotify.com/album/37QM0NcPwM0ROn1vG2gwSY) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 | 49 | [Boogaloo Smith](https://open.spotify.com/track/69d3Gm32wJVEIjzR554yvM) | [James Clarke](https://open.spotify.com/artist/5ooAHetwsdFoL1RaRcfDXG) | [Kpm 1000 Series: Progressive Pop](https://open.spotify.com/album/7GVgvor1nx7BAu9XA1mvie) | 1:38 |
 | 50 | [El Juguete Extraordinario](https://open.spotify.com/track/3b7NqPaGppHqg5gubaJNen) | [Alicia Granados](https://open.spotify.com/artist/4MdLsOw1fEglZyW9qkEaft) | [Profesor](https://open.spotify.com/album/1bqkkVj2oGYrp9832YeIfc) | 2:08 |
 
-Snapshot ID: `MCw0MDA3NmU4Njc3MDIxOGQ5YjA0ZGQ1MzNhYjVkOTRiYjIwNzQ3MzFl`
+Snapshot ID: `MCxiYzVlMDBkZTlhOTZkYTRiOGY5OTQzMTA2MjZlYTAwNGVjYTRlNzNl`

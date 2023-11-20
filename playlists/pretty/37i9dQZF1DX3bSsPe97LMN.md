@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Arriola en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,377 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,413 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 99 | [Quien De Los Dos Sera](https://open.spotify.com/track/0bz5jHrcNCuXPatEaSHINq) | [David Y Fernando](https://open.spotify.com/artist/5mYiXm8mQS0MIIX5CzAKta) | [Quien De Los Dos Sera](https://open.spotify.com/album/34wYZ3VC8yVv3IfF6FFa2I) | 3:06 |
 | 100 | [Si Quieres \- En Vivo](https://open.spotify.com/track/0iRkOUNC7mMnpx7C4vYgi7) | [Oscar Calin](https://open.spotify.com/artist/36OaWc490OEkurRM7xhFb1) | [Pa La Amanecida \(En Vivo\)](https://open.spotify.com/album/6WLyJET2xFT9i8iHLSv3qX) | 3:54 |
 
-Snapshot ID: `MCxhMGFmMDRlYmY2ODA1NjY3ZTVmMWY5NWU0NjFjNjQ1YTljZjU0MzQ5`
+Snapshot ID: `MCw0OWE3NTNiNGFmZWYwZjRmMjY2NmVlNTBlMmMwYTlmNjkyYmUzNDdm`

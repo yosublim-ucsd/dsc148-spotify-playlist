@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Dimple Saikia, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,955 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,964 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 89 | [Reckless](https://open.spotify.com/track/6YpLv9foS2WememOy83Iw4) | [Priyanka Nath](https://open.spotify.com/artist/7xKgO2AdW8dPHlXrxBNTpE) | [Reckless](https://open.spotify.com/album/1HrvjEr24PuagiCpNPRlWH) | 3:22 |
 | 90 | [Tere Liye](https://open.spotify.com/track/1z3nEVTxTwliGeHxFDeZsQ) | [Tanmay Ghoshal](https://open.spotify.com/artist/20lfDLhyyv0gQi59As3JQ0) | [Tere Liye](https://open.spotify.com/album/1gDNF9FyEQkjVRhu8LXQCS) | 5:14 |
 | 91 | [Safar](https://open.spotify.com/track/4d3TElnih8QT0Y9E2dRAQW) | [Ekansh Mamgai](https://open.spotify.com/artist/1oMcWeHQ2Gz1iJpSoZBX5T) | [Safar](https://open.spotify.com/album/550GsoOszuZZyuSJNw4xOS) | 2:50 |
-| 92 | [Easy Come Easy Go](https://open.spotify.com/track/7iKNlKU1BJtNpm0iaCRbgs) | [Perp](https://open.spotify.com/artist/7jIBDfVAfhi2qtoQNveJEu), [Varun Agnihotri](https://open.spotify.com/artist/1wM6bWtRPgisC0eP1kH9vH) | [Easy Come Easy Go](https://open.spotify.com/album/2szHOcdUqLcL3OJzT0tBZE) | 2:14 |
+| 92 | [Easy Come Easy Go](https://open.spotify.com/track/6UjMIBoyAgu0CbSIO62Dbr) | [Perp](https://open.spotify.com/artist/7jIBDfVAfhi2qtoQNveJEu), [Varun Agnihotri](https://open.spotify.com/artist/1wM6bWtRPgisC0eP1kH9vH) | [Easy Come Easy Go](https://open.spotify.com/album/3V8HSrMWSNUT3D70BRX25Z) | 2:14 |
 | 93 | [Baatein Ankahi](https://open.spotify.com/track/6VuPelGxBidVYznwlkwUaM) | [Kappi Kat](https://open.spotify.com/artist/7yB0vks4iLj3AI16Rwlh7f) | [Baatein Ankahi](https://open.spotify.com/album/01VYxRraiMd0nfk5zWv6JC) | 3:24 |
 | 94 | [Sahib\-E\-Dil](https://open.spotify.com/track/0g0XGGRkVBxxBrYYfLonre) | [Dhaval Kothari](https://open.spotify.com/artist/2Nu84CgIbMyb8wgAg3xLEt), [Vishal Khatri](https://open.spotify.com/artist/2kfWvSySt6fmg9TDq9pB7z) | [Sahib\-E\-Dil](https://open.spotify.com/album/7vZXwE42v9o4fHrkQpRh1w) | 3:15 |
 | 95 | [Mere Qareeb](https://open.spotify.com/track/3xkYg80DLOoOvYsDSBBPuR) | [Aakriti Bhutani](https://open.spotify.com/artist/77bsmee5idsXl2Tyw5Tx7x) | [Mere Qareeb](https://open.spotify.com/album/0tRR1l3Pv8Bfr2qsRs51E1) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Azaad](https://open.spotify.com/track/5BjV0cBPXAJJEAAW4JNb6r) | [Prabhash Joshi](https://open.spotify.com/artist/2AAa9WV0xwMaTKSIRP5vQ0), [Zenxae](https://open.spotify.com/artist/2dszNFbKub1Eq174OKBifP) | [Azaad](https://open.spotify.com/album/2gmUnXKrtzsaFQaaQAacHb) | 3:51 |
 | 100 | [Sandesa](https://open.spotify.com/track/6By28l3OmPVa2tFFgQD0zt) | [Avanti Patel](https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf) | [Sandesa](https://open.spotify.com/album/4ReEpnPrFF5NyZQGlpGgJa) | 3:43 |
 
-Snapshot ID: `MCxjZmY0OTRhMDgzYTYwMTQ2MjIxODBiYjg3MjU2YjRlZTY4OWU2Njhi`
+Snapshot ID: `MCxmYmY5MDMwMTE1ODc0ZjVkYTkzNWFjZGM2MjUwZjI0YjQ1YWE1Y2Fl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,705 likes - 104 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,724 likes - 104 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 103 | [Geisterfahrt](https://open.spotify.com/track/5jr0CVRzBNct2PuHKPN9mN) | [Sam James](https://open.spotify.com/artist/3VQwTh92cOv9BsboReaIQy) | [Geisterfahrt](https://open.spotify.com/album/6B0MZzJvTTeRjGNKMNMENb) | 2:10 |
 | 104 | [This ain’t love](https://open.spotify.com/track/1WU5JW11ZiNqJnqxbJ9Wm3) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8), [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [Elisabeth](https://open.spotify.com/album/1ojZ56lN40DofYZtvz78vp) | 3:26 |
 
-Snapshot ID: `MCw3Y2E3NjRkYzM5NTVjZmJmNzY1YzQ3OWQwOTU3MzUyMDE3YzQ4ZWI3`
+Snapshot ID: `MCxjN2IxNjRhNTNkYWU5NmE1OWQ1MDRmNGYyZDcyYWM4MTZhZmI1ODdh`

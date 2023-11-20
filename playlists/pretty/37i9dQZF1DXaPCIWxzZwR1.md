@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop Cover: Dove Cameron
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,302,605 likes - 103 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,302,717 likes - 103 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 102 | [Do or Die](https://open.spotify.com/track/3cbxDXAReyXQj8Ri5cAh5e) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Do or Die](https://open.spotify.com/album/3u5w7GyGSddv0OadCcjvR2) | 2:30 |
 | 103 | [Only for a Moment](https://open.spotify.com/track/42B4Es8RTR5Owcfy3GHAQs) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [House on a Hill](https://open.spotify.com/album/5pIMKGoVmopQvVjsQF7NAQ) | 3:59 |
 
-Snapshot ID: `MCw1NjUyOWE1NmY4MGE1OTEyYTdlNjc5OTA4YzIyNTNmNGE2M2VhY2Vl`
+Snapshot ID: `MCwwNDk2YTc3MDM0NDg5ZWY5OGJhOTc2ZDY4NDZmZGYzMDNjMTNiYjEz`

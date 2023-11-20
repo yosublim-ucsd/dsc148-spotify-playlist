@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Los Primos del Este en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,314 likes - 125 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,437 likes - 125 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 124 | [100pre](https://open.spotify.com/track/2BM8X3VWHBvPJW0f3FiU77) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los de 100pre](https://open.spotify.com/album/2AwaZiiZiKE7r6SCGA7kzW) | 2:32 |
 | 125 | [Hablar De Ti](https://open.spotify.com/track/5Tepzmd5UKcLKQL2K1mLnO) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Tiempo Al Tiempo](https://open.spotify.com/album/2QnEyYe3GrDMi8gMTTn62U) | 3:32 |
 
-Snapshot ID: `MCw1ZWI0ZjIxYjJjMGE2ZDk0MDk1MzNkODA5N2I0MTMxMzY3OTAwYjBk`
+Snapshot ID: `MCwxM2Y0ODI0YjMzMzlkMmQzNjVlYmNiMTljZTljZjA1NmI3YTQ2NmU2`

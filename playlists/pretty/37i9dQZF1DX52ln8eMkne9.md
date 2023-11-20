@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,468 likes - 180 songs - 13 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,569 likes - 180 songs - 13 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 | 179 | [Cloudy Treasures](https://open.spotify.com/track/5PPyfbyU6d4jgXfvl7jGpA) | [Louise Bøttern](https://open.spotify.com/artist/1Xecqs6WnuEv1E1hyy2O5D) | [Cloudy Treasures](https://open.spotify.com/album/6TBjxVhJqsp1JYgUZbfCkm) | 3:58 |
 | 180 | [Early Autumn](https://open.spotify.com/track/4KTOEna2iDPxK69eTaEPza) | [The Jazz Trio](https://open.spotify.com/artist/5zX4srAEfIPgYbERzNCJ1Y), [Ursina](https://open.spotify.com/artist/2uUqs3oz9AVll8Pc1rIghY) | [Early Autumn](https://open.spotify.com/album/1S55qFVE9hceDFE9UbIX5p) | 3:13 |
 
-Snapshot ID: `MCxjYTE3NzMyMjA2ZTg4MzExNjQwNzczOWFjYzFiNWI1MzM2YTA3OTM5`
+Snapshot ID: `MCw2YWUyODE1YWU5MGYwYWFkYTA3YzJkZDE3YzZkNTJlMTYzNDhlMTJl`

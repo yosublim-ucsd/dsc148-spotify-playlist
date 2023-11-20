@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,613 likes - 140 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,749 likes - 140 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 139 | [Beautiful, Altogether](https://open.spotify.com/track/7qsv2ZaehJN4uIkCDsubKQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [The Pianoman at Christmas](https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5) | 3:30 |
 | 140 | [I'll Be Home for Christmas](https://open.spotify.com/track/4zRFZPjthYPd5TjBzRPKqg) | [Joel Frahm](https://open.spotify.com/artist/78tGlRBjLrulJ8xqoZw83M), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [I'll Be Home for Christmas](https://open.spotify.com/album/3S8AHWOeNgnRpy7IOdOmWI) | 4:53 |
 
-Snapshot ID: `MCxmNjkzYmJmZTQxNzgzY2ZiN2I4NGFjMmY5NGQ4ZjlmOGE0Y2M1ODk3`
+Snapshot ID: `MCw4ZGVmZTg4YjMyOTk5NmZlMGM5ZmE4NDQyZWZmODc4Yzg5OTBhYTJi`

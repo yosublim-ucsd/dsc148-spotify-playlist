@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 
 > The best jazz pianists today\. Cover: Aaron Diehl
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,179 likes - 200 songs - 17 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,207 likes - 200 songs - 17 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 | 199 | [Middle Avenue](https://open.spotify.com/track/06Nkuev17hzcC0gyYZne1p) | [Simon Chivallon](https://open.spotify.com/artist/5VVIfHmzqTEZUWGNl5qFA9), [Nicolas Moreaux](https://open.spotify.com/artist/1dB3P0nCe9JD3qaFUDH9PW), [Antoine Paganotti](https://open.spotify.com/artist/4ALx6YNc2NGoWupyunE1NJ) | [Light Blue](https://open.spotify.com/album/6xwX1d7flkMFKWHtAQFcc9) | 4:18 |
 | 200 | [It Could Happen To You](https://open.spotify.com/track/4U7LZ2S6pJ2OzJexepbcPo) | [Thomas Clausen](https://open.spotify.com/artist/6AsBzvkRdAF4OZlRFwUKnL), [Karsten Bagge](https://open.spotify.com/artist/1eLFONDpKa9ArYaoVjDrKE), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph) | [Back2Basics](https://open.spotify.com/album/2NHF3borN1V3ufiwH34yZL) | 5:38 |
 
-Snapshot ID: `MCxlMWQ5ZGZkMDVjNTM2YTJmMzRlMzFhOTIxY2IzMjYzYTdiYjg3ZWE4`
+Snapshot ID: `MCw3MTI4ZTllMTkzNDFiZDZhNmEzNDZhODk5YmE4MzlmOThmMTQzYjgy`

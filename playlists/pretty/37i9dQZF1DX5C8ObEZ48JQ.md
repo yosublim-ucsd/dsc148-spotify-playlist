@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8?si=7Tnytl0kQ4uc7dggGfn97Q"> Kold AF </a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,866 likes - 49 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,873 likes - 49 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 48 | [You](https://open.spotify.com/track/2RVPCblaYQ8YqLvYPaWPDe) | [Vondee](https://open.spotify.com/artist/1uRn6hkZnH984WLeYTSNKR) | [You](https://open.spotify.com/album/6zFeUoGJCEjFgH8pmxtcxm) | 2:51 |
 | 49 | [Pom](https://open.spotify.com/track/6EsFpAANDHjZSPyi4AEXHX) | [Kenny Toolz](https://open.spotify.com/artist/1avUuaEu1SjqjNf3o509qi), [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm) | [Pom](https://open.spotify.com/album/4704YuiSlDp5FBWY3ZYnjt) | 3:47 |
 
-Snapshot ID: `MCxhNTYxMWI0ZWUyYzhlYTFmODIxYWU0ZmIxODJmMmM4N2Y4ZGQxNGYx`
+Snapshot ID: `MCxlZWIxNmVkNDZmY2M5YzQwMWFmODEwZGM2YTk3M2VkMDQ0NTM2Y2Yy`

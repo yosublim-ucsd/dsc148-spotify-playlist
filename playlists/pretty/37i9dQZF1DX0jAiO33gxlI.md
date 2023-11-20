@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Renan Samam
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,989 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,007 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 29 | [Imprevisto](https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [Imprevisto](https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY) | 2:19 |
 | 30 | [Ser de Verdade](https://open.spotify.com/track/5krwI8ucTf9hvx8k1T1jhV) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Vitinho Olimpo](https://open.spotify.com/artist/0StjexbxySAdLjte5fuhxU), [THXLIS](https://open.spotify.com/artist/2PE39uGtlGUQ1LgZnfGJFS) | [Ser de Verdade](https://open.spotify.com/album/5674z3uzvNg7BnQTmqTElf) | 1:52 |
 | 31 | [Lucro](https://open.spotify.com/track/4H9PvG7E38FmfCgBukFJ5t) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [KTT ZOO](https://open.spotify.com/album/7lJibQ9XRhBDUIWgkP4wZm) | 3:14 |
-| 32 | [A Vida É Um Sopro](https://open.spotify.com/track/1o8ttNku9lspk3dFOfBmY9) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Renan Samam](https://open.spotify.com/artist/3L285hpRgG73AycGrb7Pve) | [A Vida É Um Sopro](https://open.spotify.com/album/31kxbEqB4x5lpqEvRIgF7z) | 4:21 |
+| 32 | [A Vida É Um Sopro](https://open.spotify.com/track/39o2h1LzqMWFpBZXpzpJoh) | [Renan Samam](https://open.spotify.com/artist/3L285hpRgG73AycGrb7Pve), [Rashid](https://open.spotify.com/artist/4RzzS0tS9p2D3IXXYsnOll), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ) | [Ovo Manifest](https://open.spotify.com/album/59wbs3hbhBWnk2ot41qkN5) | 4:21 |
 | 33 | [Seu](https://open.spotify.com/track/20uJrdNdBRS6L1SMlaWTyR) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [LP Beatzz](https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele) | [de: para:](https://open.spotify.com/album/5eWtjMLQlSVVC7fa1f7hk3) | 2:30 |
 | 34 | [Investidor de Sonhos](https://open.spotify.com/track/36hjUBVeXE16PDunTGE6X7) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Censurado pela Mídia, Amado pelas Ruas](https://open.spotify.com/album/2HKewBzZuFdsbVjl4jJlCu) | 2:48 |
 | 35 | [Mortal Kombat](https://open.spotify.com/track/2FI8maDNpay1VrH4bUbn7l) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Vitinho Olimpo](https://open.spotify.com/artist/0StjexbxySAdLjte5fuhxU), [THXLIS](https://open.spotify.com/artist/2PE39uGtlGUQ1LgZnfGJFS) | [Mortal Kombat](https://open.spotify.com/album/4vtSF6XZ5UkwL6EPcmPkY2) | 3:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [INTENÇÃO](https://open.spotify.com/track/3BSrkgc0HEM0dod45jmqyN) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Dj Juninho da Espanha](https://open.spotify.com/artist/7v3YsPZy6l4QPJQ8RqnfZ4), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 3:46 |
 | 75 | [Faça Dinheiro, Se Mantenha Vivo](https://open.spotify.com/track/6XGN9afKuLwmXEipg53yqz) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Faça Dinheiro, Se Mantenha Vivo](https://open.spotify.com/album/67FpK5RVgcIG9LexjpWHv4) | 2:18 |
 
-Snapshot ID: `MCwwYzM0ZWRlZGMzMDI4ZThjNTk4ZWE3OWY2NzM4MmM4YTE2ZmY2ZGFi`
+Snapshot ID: `MCwwOGU1YmViZGFlMzcyZmQzZjEwMjZmM2M4NWQ0ZTZhZmQwY2ExZTQ5`

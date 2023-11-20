@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,512 likes - 110 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,530 likes - 110 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 4 | [Darkskin Queen \- Edit](https://open.spotify.com/track/1wgJZsFX3FBcmyGYPw1XmM) | [Karnage Kills](https://open.spotify.com/artist/6Ngn318kVpmd89bZ0E7b3f), [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg) | [Darkskin Queen](https://open.spotify.com/album/5f82wZZ02LOj20GTvfEBGZ) | 3:12 |
 | 5 | [Diva \(feat\. Lolita Leopard\)](https://open.spotify.com/track/3ox0k1TwVFAhserUA9cubK) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Lolita Leopard](https://open.spotify.com/artist/0iTYdScrEVihgUKCOYatkS) | [Diva \(feat\. Lolita Leopard\)](https://open.spotify.com/album/2K5A3vvcxsEpQ43tl7CcfG) | 2:57 |
 | 6 | [Sip of My Sip](https://open.spotify.com/track/0aKXCCuh6cE84wjcVeSFXG) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Sevndeep](https://open.spotify.com/artist/2OEgfLq3e6ZmpKnb6O6Y7V) | [Sip of My Sip](https://open.spotify.com/album/4kOrknTNxgXp2oVhnt8VnM) | 3:18 |
-| 7 | [Vox](https://open.spotify.com/track/7I5Ob4Izz1yJKINm2C3hjf) | [OG MarlynMonROLLUP](https://open.spotify.com/artist/5WL4ngAXr946yPkXFvUkax) | [Vox](https://open.spotify.com/album/3ePnQQvmjCbOH0Bo8EJ7XV) | 0:59 |
+| 7 | [Vox](https://open.spotify.com/track/00L3bL1Nu22e6HPRq7R0go) | [OG MarlynMonROLLUP](https://open.spotify.com/artist/5WL4ngAXr946yPkXFvUkax) | [Vox](https://open.spotify.com/album/70FtG9sondjv4bqPTMvNNL) | 0:59 |
 | 8 | [G.O.A.T](https://open.spotify.com/track/4AvD91GmVkVyDY6Q5Gdoan) | [Charlotte Devaney](https://open.spotify.com/artist/58quCP7j2McEeEtRungVle) | [G.O.A.T](https://open.spotify.com/album/4oVlzKpW3Sc17Jptq6PVb5) | 3:19 |
 | 9 | [Slay 4 Me \(feat\. Jesse Fields\) \- Edit](https://open.spotify.com/track/2ycAx22Kc8PJNVY1cyTcON) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T), [Jesse Fields](https://open.spotify.com/artist/2B9buLG6jo5TbMDupYNPQe) | [It's Giving EP](https://open.spotify.com/album/0gAE7755ojE0IEmFuKdlGQ) | 3:39 |
 | 10 | [POC](https://open.spotify.com/track/22PMhCJsxuF1nJTESwunxg) | [Felipe Mar](https://open.spotify.com/artist/7tMtZSKTF28bqfqZWmbZSA), [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [POC](https://open.spotify.com/album/3Rf6Coo8PdnTeLm68H9RMp) | 2:25 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 109 | [Realness](https://open.spotify.com/track/1Fh6UKeOozklnE9a24GSSh) | [Ash B.](https://open.spotify.com/artist/73C4in0N0LZovDdQBtCoez) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 2:03 |
 | 110 | [Witch Doktor](https://open.spotify.com/track/3RsGqdtkBVxk8mWoERAIp1) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Strictly Rhythm The Definitive 30](https://open.spotify.com/album/5sGoSZWP5ZPArN6tSvpN8s) | 6:46 |
 
-Snapshot ID: `MCw1ZmYzZjE0NTlkZmZhYTA5MDhhOWJmZTMwMTQ3NTY5ZmJhMzA1YzVl`
+Snapshot ID: `MCw2OGE0NjcxMjY5N2RjZmYxZDBhMzM0YzI5YTcxNGE1NjYzNTE3YmMz`

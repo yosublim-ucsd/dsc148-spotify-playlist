@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,588 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,678 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 99 | [Hard Act To Follow](https://open.spotify.com/track/6IKoE1DlvzdGfzUS9QQaVP) | [Billy Lockett](https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA) | [Hard Act To Follow](https://open.spotify.com/album/0QbOUPiNJAU4h1tGnxfvnh) | 3:14 |
 | 100 | [City Of Stars](https://open.spotify.com/track/4izE25w6PfpI4eRmzUmeEH) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [City Of Stars](https://open.spotify.com/album/5THm8pdE44tfMRJ1yiP1qD) | 2:34 |
 
-Snapshot ID: `MCw0ZDk1NzA5YzVmZjMxNTg2ZmRmMmJjMzY3MGZkOWIwZGUwMGQ1Mzkx`
+Snapshot ID: `MCw1YjM3Njc1YzZjNmIxZjE1ZDQ1MDk5NmI3ZmExZGIyZGMzMDU1MWU4`

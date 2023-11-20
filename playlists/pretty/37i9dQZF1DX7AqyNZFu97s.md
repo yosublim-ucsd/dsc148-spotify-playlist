@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: MOIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,324 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,335 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 99 | [Open Ended](https://open.spotify.com/track/5SlEyBuGTGWvCCY7igLmny) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Open Ended](https://open.spotify.com/album/0ofMe7xxj2EZiFR9YVmBrw) | 3:24 |
 | 100 | [Greyhound](https://open.spotify.com/track/31JgkeYLMlgzZgmFBStbeG) | [NO PHOTOS](https://open.spotify.com/artist/3mvQJ3cm3cAdBedt4dSa5c) | [Greyhound](https://open.spotify.com/album/2R457N9XlrnMJdnvZE4q2V) | 2:15 |
 
-Snapshot ID: `MCwyZTI4ZDliNWM0MzE4ZmRiYTk2MDg5MDI2M2M4NzhiMzJjN2NkMmM5`
+Snapshot ID: `MCw0YzM1YmJkY2JkYzA0N2QyNzgyYWIzODg3NWRhMGY5NWM1MzNjZDRi`

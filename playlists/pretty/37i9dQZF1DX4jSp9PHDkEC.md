@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jSp9PHDkEC.md) - [plain]
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,633 likes - 300 songs - 20 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,700 likes - 300 songs - 20 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jSp9PHDkEC.md) - [plain]
 | 299 | [The Last One](https://open.spotify.com/track/4t2ZAMb6OkX5BGACCoNNyz) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt) | 3:50 |
 | 300 | [Particles \- Edit](https://open.spotify.com/track/4ROXjJjgMW0y6wXlTJBPqA) | [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Particles](https://open.spotify.com/album/2q5XSD3D9TwFNOTK1m1uWt) | 3:02 |
 
-Snapshot ID: `MCwzZmYwMGNmNzk4YjA5MjkwYTI2NGM2OTlmYTRkOTE3YWU1MmVlMzUz`
+Snapshot ID: `MCxiYjc1OGRmNTQwZWRlMGM3NWVjOWFmZDdlODJhMGRiNDI2ZDI1YjE0`

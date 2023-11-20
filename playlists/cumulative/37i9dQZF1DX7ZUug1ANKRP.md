@@ -4,7 +4,7 @@
 
 > The biggest Dance hits and the ones to come\. Cover: Ofenbach, Norma Jean Martine
 
-471 songs - 21 hr 53 min
+472 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,8 @@
 | [Jack \(One More Round\)](https://open.spotify.com/track/4rTA5hrkv233BWoASSKt3T) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR) | [Jack \(One More Round\)](https://open.spotify.com/album/3HooEXc4g2o0ZEvGnBU0b6) | 2:42 | 2023-11-08 |  |
 | [Jungle](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Jungle](https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN) | 2:55 | 2023-09-27 |  |
 | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 | 2022-06-22 | 2023-01-12 |
-| [Kommissar](https://open.spotify.com/track/6QeYonzZSkrBytfyvdQei7) | [Pazoo](https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg), [NoooN](https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X) | [Kommissar](https://open.spotify.com/album/1qA3Oxzn8bVMUJgP1aILp9) | 2:43 | 2023-11-16 |  |
+| [Kommissar](https://open.spotify.com/track/0djjZQPlvpOPNgnWTMVvli) | [Pazoo](https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg), [NoooN](https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X) | [Kommissar](https://open.spotify.com/album/6qHIHbbOEFkZQaEVXFgVCi) | 2:43 | 2023-11-16 |  |
+| [Kommissar](https://open.spotify.com/track/6QeYonzZSkrBytfyvdQei7) | [Pazoo](https://open.spotify.com/artist/6HU4BOe89xyKTjx5uPT3Gg), [NoooN](https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X) | [Kommissar](https://open.spotify.com/album/1qA3Oxzn8bVMUJgP1aILp9) | 2:43 | 2023-11-16 | 2023-11-20 |
 | [kunterbunt](https://open.spotify.com/track/0qDSunXZZ2c5HUD0AMeWzd) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [kunterbunt](https://open.spotify.com/album/76JWwHeDCQYMUdj9dl1lBO) | 3:48 | 2021-12-15 | 2022-01-27 |
 | [La La La](https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [La La La](https://open.spotify.com/album/1vvIQmbcJHJG1jO1Fn5ZuA) | 2:17 | 2023-07-26 | 2023-11-17 |
 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 | 2023-01-11 | 2023-08-17 |

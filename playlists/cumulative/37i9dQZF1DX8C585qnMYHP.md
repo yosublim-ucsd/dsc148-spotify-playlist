@@ -4,7 +4,7 @@
 
 > The best new Experimental by independent artists and labels, with Marta Del Grandi on cover\. Updates every Wednesday.
 
-1,562 songs - 5 day 5 hr 39 min
+1,563 songs - 5 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -719,7 +719,8 @@
 | [Junkie](https://open.spotify.com/track/3WIJ9GLscKxOIG1oszGvFo) | [urika's bedroom](https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw) | [Junkie](https://open.spotify.com/album/4GcXFLrJYvYYiu9NXV51yg) | 3:36 | 2023-08-16 | 2023-11-08 |
 | [just a little more life with u](https://open.spotify.com/track/4DnPIFvrSk6OcFC185XwMG) | [innerinnerlife](https://open.spotify.com/artist/3SJn3wuHQGbKFT0vDKT3Yo) | [just a little more life with u](https://open.spotify.com/album/40uK99AoMTVcqhOmyc6t7P) | 3:13 | 2022-08-03 | 2022-09-01 |
 | [Just Me, Selling Desires](https://open.spotify.com/track/7erIdv0TTM04ZjvVtTJEsy) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [Just Me, Selling Desires](https://open.spotify.com/album/6fU3Rgpdz3JIqrXZqloTsE) | 2:42 | 2021-03-11 | 2021-03-25 |
-| [Já não consigo mais, mas vou continuar](https://open.spotify.com/track/7GUaRliFFYyWV2NuUPjsPh) | [Gil Dionísio](https://open.spotify.com/artist/1cNxusdvXFitPzzJOGolCn) | [Já não consigo mais, mas vou continuar](https://open.spotify.com/album/4QWDAjTZJu8sLj1WtFEH3f) | 5:54 | 2023-08-30 |  |
+| [Já não consigo mais, mas vou continuar](https://open.spotify.com/track/7GUaRliFFYyWV2NuUPjsPh) | [Gil Dionísio](https://open.spotify.com/artist/1cNxusdvXFitPzzJOGolCn) | [Já não consigo mais, mas vou continuar](https://open.spotify.com/album/4QWDAjTZJu8sLj1WtFEH3f) | 5:54 | 2023-08-30 | 2023-11-20 |
+| [Já não consigo mais, mas vou continuar](https://open.spotify.com/track/7KYswH2kUpHwYo81gatUsJ) | [Gil Dionísio](https://open.spotify.com/artist/1cNxusdvXFitPzzJOGolCn) | [Já não consigo mais, mas vou continuar](https://open.spotify.com/album/6G7f7Qxs5DgFxNipIjZ6hZ) | 5:54 | 2023-08-30 |  |
 | [k00ky](https://open.spotify.com/track/7CgPSGWTtmFOIRhND4GThX) | [wh0wh0](https://open.spotify.com/artist/7bf0hNbZUch3Fcc33forpw) | [k00ky](https://open.spotify.com/album/6AACE0NmIuO7L6xfwA5Qz5) | 2:59 | 2023-10-25 |  |
 | [KAGIROI I](https://open.spotify.com/track/2bXdqG3LJeVjN8vIwgEmfj) | [SUGAI KEN](https://open.spotify.com/artist/5CCt4ZzfgaunV4WeOSWn2H), [Lieven Martens](https://open.spotify.com/artist/2WAfuIA8abrpze7v9V42hC) | [KAGIROI](https://open.spotify.com/album/04esOevP0QsnyAg5SdsdDq) | 14:58 | 2021-04-15 | 2021-06-09 |
 | [KAGIROI II](https://open.spotify.com/track/2UG7cRqTNKWFs5oP36KMaS) | [SUGAI KEN](https://open.spotify.com/artist/5CCt4ZzfgaunV4WeOSWn2H), [Lieven Martens](https://open.spotify.com/artist/2WAfuIA8abrpze7v9V42hC) | [KAGIROI](https://open.spotify.com/album/04esOevP0QsnyAg5SdsdDq) | 14:06 | 2021-04-10 | 2021-06-18 |

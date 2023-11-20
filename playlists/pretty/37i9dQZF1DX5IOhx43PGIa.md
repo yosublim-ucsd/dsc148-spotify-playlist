@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: thuy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,014 likes - 150 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,065 likes - 150 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 149 | [the american dream](https://open.spotify.com/track/0eqRXQyzoNrwnDEvcQyXSR) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [the american dream](https://open.spotify.com/album/1eWQEBUje4iECPF2LNqw51) | 3:47 |
 | 150 | [ADHD](https://open.spotify.com/track/2RGyDsXQOexgD4bHC3oBVA) | [Lucy Tun](https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6) | [ADHD](https://open.spotify.com/album/5EPxYzh7xEjcATtggPNv0a) | 2:43 |
 
-Snapshot ID: `MCxhMDEyOGI4NzkwMmY1N2I3MTJmZTg1ODNlOTM5YjdmMmY2MGJkMzM5`
+Snapshot ID: `MCxiMjI5Yjg2MmU0ZDQ0YzQ5YTQ4YmI1ZWUyOWU2MmQ5ODQ4NTBkNmVi`

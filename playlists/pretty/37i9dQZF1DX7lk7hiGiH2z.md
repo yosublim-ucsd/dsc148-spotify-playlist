@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Plätzchen backen, Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,141 likes - 70 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,212 likes - 70 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 69 | [Happy New Year \(feat\. Katharina Hirschberg, Harriet Herbig\-Matten\)](https://open.spotify.com/track/7riVrrKDkrttW7uKmjL1QS) | [Bibi und Tina](https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp), [Katharina Hirschberg](https://open.spotify.com/artist/1KWsxFpNtVFUSQlNqExGTu), [Harriet Herbig\-Matten](https://open.spotify.com/artist/66Jq97moegQjvYDLR64Sp1) | [Das Weihnachtsalbum Deluxe](https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC) | 2:34 |
 | 70 | [Silvester](https://open.spotify.com/track/4I3O14VN10X7orM7h9xvhn) | [Stefanie Schrank](https://open.spotify.com/artist/0TtuoO8p89UbOviWtfxl5e) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:17 |
 
-Snapshot ID: `MCwwMzE3NzEwZmRmNWRmM2Y3ZTY5NTRiZWQ3NDkzOGMxNjA2ZTIyYjY1`
+Snapshot ID: `MCwwZjU0ZTEzZTU2ZDMwMTlhYmRlZmY2YTFiZTZjMWMwZjU3ZTllOWNm`

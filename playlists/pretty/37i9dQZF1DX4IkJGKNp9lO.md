@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,391 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,400 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 74 | [Ställ dig upp](https://open.spotify.com/track/05mOnCWhhStBlH3veQAKWX) | [Pastoratet](https://open.spotify.com/artist/5S2B2ftvKw03xrAB0SgpWI) | [Mvh Grannen](https://open.spotify.com/album/4fePJdRUECaFQ7D1UKq7FK) | 3:24 |
 | 75 | [Jane Doe, Östersund](https://open.spotify.com/track/4tzLVTf3Cw3hi2C6oINeQS) | [En Svensk Tiger](https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q) | [Jane Doe, Östersund](https://open.spotify.com/album/3Se4PLem67i9Do45OPzWu0) | 3:09 |
 
-Snapshot ID: `MCwxNjg2MDFiODRhZTBhMzdkOWRkNDI4MWM2ZjMwZDA4NGNlMmZhMzcz`
+Snapshot ID: `MCwxZTUzNTY2Y2UyZmMyZjQxYjI1YWQ5OTE1NDBhZGQwMDRmN2U1MTcz`

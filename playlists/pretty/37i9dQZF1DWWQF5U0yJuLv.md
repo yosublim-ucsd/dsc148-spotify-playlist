@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,008 likes - 150 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,065 likes - 150 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 149 | [Fol\-de\-rol](https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 3:48 |
 | 150 | [Bombaclaart](https://open.spotify.com/track/77vBKTetBxPgaxG6qg6yiw) | [Klü](https://open.spotify.com/artist/0UiJxxiwwxIa28j25MHbmo) | [Bombaclaart](https://open.spotify.com/album/12iJQKMFIe4Tm1vRO4XpTz) | 1:24 |
 
-Snapshot ID: `MCxkYTE5OWNlYWE2YWEyODU4NmEwY2JjMWEwYTFlMTU1NTUxZmNlOTQ2`
+Snapshot ID: `MCw2Y2NmMTFiN2VjZWJhMGIyNGE2YzgyNmYxNTVmYTc3NTc1NDgxZjEx`

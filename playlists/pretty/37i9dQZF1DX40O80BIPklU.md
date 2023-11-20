@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Yoss Bones y Dharius en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,894 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,953 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 4 | [De Oro](https://open.spotify.com/track/39vbXhdllt7Npz6Ym9ekfB) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [De Oro](https://open.spotify.com/album/0UYD1YeqrWOe2aSx1vvgsk) | 2:47 |
 | 5 | [Libertad](https://open.spotify.com/track/6Kw3E0kHkqyYHgZr2jZEaE) | [Skool 77](https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX), [LUX GVNG](https://open.spotify.com/artist/1NvHTJMjzGD4Iuqx7d6LlK), [MAG Montana](https://open.spotify.com/artist/1Bw8tOoGS1rY7uHDAu9Ogx), [JET DRAGO](https://open.spotify.com/artist/3oZ01Skr2PBNjkTYZhM9Jf) | [Libertad](https://open.spotify.com/album/1H1Xge4GZIKt138n9LzTms) | 4:58 |
 | 6 | [Triste Bolero](https://open.spotify.com/track/0z2yHEBefBE6fHgAtVlbuB) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Triste Bolero](https://open.spotify.com/album/6pyYHUe0Il68a8DxsuJxIL) | 3:20 |
-| 7 | [MAMITA](https://open.spotify.com/track/6ug0Fl5Hqq3vTzb161NZri) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [MAMITA](https://open.spotify.com/album/0cgEM3YLRPuYOd3MIMSoX9) | 3:03 |
+| 7 | [MAMITA](https://open.spotify.com/track/0k7K5AQ6mn6JeRDFmYlhZQ) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [LACOSTA](https://open.spotify.com/album/4WxcXC1fsy3SGx2BPpgmwc) | 3:03 |
 | 8 | [Triada](https://open.spotify.com/track/3CZBqcIEcPoIQ3o4iL18tw) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Ana MC](https://open.spotify.com/artist/2EkkbCt71bH9XvmgZY5ZBX), [Vicky MC](https://open.spotify.com/artist/2sF3CgV1tKubYGTUSKPenC), [Crismo VC](https://open.spotify.com/artist/3bsKe2QwZ3UOWugCtde85U) | [Triada](https://open.spotify.com/album/38CP274HAcOq0ajInkz2fH) | 4:29 |
 | 9 | [FUCK EL POLICE \- REMIX](https://open.spotify.com/track/3oIsx1ixRKtt4bZu9qT8Ut) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [FUCK EL POLICE \(REMIX\)](https://open.spotify.com/album/5c5xfOQXKfJBHXNj1iAO5s) | 2:22 |
 | 10 | [Estrobos](https://open.spotify.com/track/0UujRqoJsE3kjokK9SHhiY) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [El Horror](https://open.spotify.com/album/678X5ALismYG9S35w1dFbC) | 6:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 99 | [Morena 420](https://open.spotify.com/track/4NxwFVKcqu0xAQngTiB3dA) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Morena 420](https://open.spotify.com/album/7ACMkgQ4dC0JitXOeGL1tC) | 3:56 |
 | 100 | [Estrecho / Alvarado \(feat\. pablopablo\)](https://open.spotify.com/track/4E6kns35AUSkJhHpXYRRKF) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Estrecho / Alvarado \(feat\. pablopablo\)](https://open.spotify.com/album/1Z3NkOHY0rbefHDkIttPhP) | 2:30 |
 
-Snapshot ID: `MCxhOWVlODczOWFhNDUyZWFhOTIyYTkxMGVmYmRmNGUxNTMzMjVjMWRi`
+Snapshot ID: `MCwzYTI1ZDVkZTRjMjFiYTRlNWYzOTE4NTY2OTk2NzIzZTM1ZjI4NDk0`

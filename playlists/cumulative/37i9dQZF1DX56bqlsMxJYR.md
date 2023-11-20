@@ -4,7 +4,7 @@
 
 > Classic hits from the 50s and 60s.
 
-374 songs - 16 hr 57 min
+375 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Money \(That's What I Want\)](https://open.spotify.com/track/4OncTbCLRRozq30FZfx2Tc) | [The Kingsmen](https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo) | [The Best of The Kingsmen](https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx) | 2:19 | 2022-03-07 | 2022-04-21 |
 | [Money \(That's What I Want\) \- Single Version / Mono](https://open.spotify.com/track/0QMFMQF3HoSk5WvMyx8aMT) | [Barrett Strong](https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD) | [20th Century Masters: The Millennium Collection: Best Of Barrett Strong](https://open.spotify.com/album/6dTXSc78HM0ZsQptU0Nl2V) | 2:37 | 2022-03-07 | 2022-04-21 |
 | [Mr\. Lonely](https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [The Best Of Bobby Vinton](https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA) | 2:41 | 2022-10-10 | 2022-11-13 |
-| [Mr\. Sandman](https://open.spotify.com/track/1T3tP6HvCgDF8ewpRqwM1e) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [The Chordettes' Best](https://open.spotify.com/album/2lWhM9NDUKCfyZ9Ze27XYl) | 2:23 | 2022-03-07 |  |
+| [Mr\. Sandman](https://open.spotify.com/track/1T3tP6HvCgDF8ewpRqwM1e) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [The Chordettes' Best](https://open.spotify.com/album/2lWhM9NDUKCfyZ9Ze27XYl) | 2:23 | 2022-03-07 | 2023-11-20 |
 | [Mrs\. Robinson \- From "The Graduate" Soundtrack](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 4:04 | 2020-12-16 |  |
 | [Mustang Sally](https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Wicked Pickett](https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC) | 3:07 | 2022-10-11 |  |
 | [My Baby Just Cares for Me \(2013 \- Remaster\)](https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 3:35 | 2023-08-03 |  |
@@ -354,6 +354,7 @@
 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 | 2020-12-16 |  |
 | [Where The Boys Are](https://open.spotify.com/track/6N3LlP0e7sWkNaTw8aXEnX) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [20th Century Masters: The Millennium Collection: Best of Connie Francis](https://open.spotify.com/album/3B3SalHPlLiQvwftRPYXcN) | 2:39 | 2020-12-16 | 2022-05-04 |
 | [Who Put The Bomp \(In The Bomp, Bomp,Bomp\)?](https://open.spotify.com/track/30txFxKhnMJqUXz0xx0x39) | [Barry Mann](https://open.spotify.com/artist/3OmuR7XFXBig8yLeMSm9mU) | [The Complete Best Of](https://open.spotify.com/album/4uDButkVrJfajurDPoxoDC) | 2:47 | 2020-12-16 | 2022-07-29 |
+| [Who's Sorry Now](https://open.spotify.com/track/4bzvhZFlV9UqQ3EmV2i8s4) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:16 | 2023-08-03 |  |
 | [Who's Sorry Now](https://open.spotify.com/track/6VlHxpNEDikJh617edCYzz) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [20th Century Masters: The Millennium Collection: Best of Connie Francis](https://open.spotify.com/album/3B3SalHPlLiQvwftRPYXcN) | 2:19 | 2022-03-07 | 2022-04-21 |
 | [Why](https://open.spotify.com/track/0CRxGsJrwOMQUuTr4yT5mX) | [Frankie Avalon](https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ) | [Beach Party](https://open.spotify.com/album/1mh6ZNXSK0kCLebYxFXTSO) | 2:37 | 2022-03-07 | 2022-04-21 |
 | [Why Do Fools Fall in Love](https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf) | [Frankie Lymon](https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk), [The Teenagers](https://open.spotify.com/artist/1Crbmyf2bkbeOvckSlQFng) | [The Best Of Frankie Lymon & The Teenagers](https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm) | 2:19 | 2020-12-16 | 2022-11-13 |

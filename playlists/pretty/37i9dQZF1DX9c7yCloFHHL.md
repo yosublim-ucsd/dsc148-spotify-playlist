@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. Alaskan Tapes on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,672 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,756 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [Of Woods and Seas](https://open.spotify.com/track/3TnEd5mpduI0zdX3qbXVup) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Who Tends a Garden](https://open.spotify.com/album/6CPGzcPxekd5T5s17Ak34R) | 3:25 |
 | 100 | [Golden Waxcap](https://open.spotify.com/track/0NP6SNyOxJnvjNIvMVNDPt) | [Preslav Literary School](https://open.spotify.com/artist/2i5ykOuXu6SytWoJw7MFJY) | [Mycelium](https://open.spotify.com/album/2YncKGBm21QkOrfWnterb9) | 1:14 |
 
-Snapshot ID: `MCxkMDkxNTkyODZkNTI3NGZiNGQwZmVhNGE3N2FiMGQyNWRmZDcyYzM0`
+Snapshot ID: `MCw4MDJmOThkYTE4NTg1ZjM0YTMyMThkZDc0ZjVkMDc3MmFhNjJkZjcz`

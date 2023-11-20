@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iaBRh0GfEq.md) - [plain]
 
 > Cheiro de protetor, vento no cabelo, pele salgada e marquinha de biquini\. Uma playlist cheia de hits pra esquentar sua Temporada de Verão\. Assista só na Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338 likes - 17 songs - 56 min 7 sec
+[Spotify](https://open.spotify.com/user/spotify) - 341 likes - 17 songs - 56 min 7 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iaBRh0GfEq.md) - [plain]
 | 16 | [A Noite Mais Linda do Mundo \(A Felicidade\)](https://open.spotify.com/track/33nzGH8NIdwYSpuNo3L7M1) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [The Moon 1111](https://open.spotify.com/album/5R6qsX0u206XZBZF3WdEeL) | 3:28 |
 | 17 | [Às Vezes um Clichê](https://open.spotify.com/track/5enNdx4oAh9GK3sXWzpge4) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [Veroz](https://open.spotify.com/album/1sPc2fCg10GCD9QCzdGnfU) | 3:20 |
 
-Snapshot ID: `MCwzMTNhNDY2NGY1M2M1ZDAxNjAyYWY1NmEyOTczNjY5MWM0ZGZlMTc2`
+Snapshot ID: `MCxjYTMyZTAwNzFkN2U5MjVkNWIxYWM3MmYzM2Q2OWYyOTQ3MjFhY2Qy`

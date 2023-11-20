@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDvpUgU6QYl.md) - [plain]
 
 > A groovy and soulful house collection\. Cover: Jengi
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,114 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,134 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDvpUgU6QYl.md) - [plain]
 | 19 | [How It Feels](https://open.spotify.com/track/4KZPt9W4RTAIGiEUbiFJTV) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [How It Feels](https://open.spotify.com/album/0RUZEsQQWmWhsuKKo6sk8J) | 3:19 |
 | 20 | [Groove Thang](https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Groove Thang](https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ) | 3:40 |
 | 21 | [Make It Work](https://open.spotify.com/track/6S9HZZ2TCwUyi7GuK1SwTs) | [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Make It Work](https://open.spotify.com/album/09Do0PDhXz1QeDAwHcFeF1) | 3:41 |
-| 22 | [Take My Chance](https://open.spotify.com/track/6d0ediFvVUAQXkeraZRtXR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/48mkI91Qbu55gGYgtKPVK9) | 3:18 |
+| 22 | [Take My Chance](https://open.spotify.com/track/3uD3HzG6tO8lWUIKtJKcxA) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/3xaAySZDsBeu2k12tDaLsZ) | 3:18 |
 | 23 | [Since \- Don Rimini Deep Mix](https://open.spotify.com/track/55osGD02FGA8u1IAhkLt48) | [Wouter S](https://open.spotify.com/artist/2FBOvuH967tVxaLwNzJSz1), [Huxley](https://open.spotify.com/artist/6fJvW51nWhRImJyos6O7sT), [Chicago Hustle](https://open.spotify.com/artist/4bY0OXeVVpfjDpPcEINBHR), [Don Rimini](https://open.spotify.com/artist/2IA2rAfPyDDhqqcu6UaSOM) | [Since \(Don Rimini Remixes\)](https://open.spotify.com/album/5emeek19G51hLqwav3nLtB) | 3:02 |
 | 24 | [He's Alright \- David Penn Extended Edit](https://open.spotify.com/track/6Il5eeNU4qrvbxy97v3P3u) | [Jame Starck](https://open.spotify.com/artist/7vlDs9hVx8VrrFFn60SX8Y), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3), [Zetaphunk](https://open.spotify.com/artist/5Ib1N02pK2hNPOjNlJZ4Jx), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki), [Alfreda Gerald](https://open.spotify.com/artist/5eyXnF9kHVXWX8wsheHHz7) | [He's Alright \(David Penn Edit\)](https://open.spotify.com/album/3XChj0aXEjhj2ZFmZ3eBmq) | 5:28 |
 | 25 | [Minor Fools \- Edit](https://open.spotify.com/track/5Tnn9kaAshnriaS9jKeMio) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Minor Fools](https://open.spotify.com/album/1Av53Ax9wI3qTHSBpmYzKx) | 3:52 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDvpUgU6QYl.md) - [plain]
 | 59 | [Euphoria](https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Euphoria](https://open.spotify.com/album/4dtA4QUlcF3fsOcWYkXiLB) | 2:38 |
 | 60 | [Circles \(feat\. Mariah Carey\)](https://open.spotify.com/track/1KTNJSTPYBLByQ14cJRGlO) | [e\-lie](https://open.spotify.com/artist/0GtpciMDV8Z7j30Tg0Ew7x), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Circles \(feat\. Mariah Carey\)](https://open.spotify.com/album/6whfBjD94WUB3kHIhDFPYG) | 3:02 |
 
-Snapshot ID: `MCxmMTFhYmE4MDRkMjU4ZTcyNWIxM2JmN2VhMGNjZmIzMTE4ZTMwZmY0`
+Snapshot ID: `MCw0OGJjOWFiMTE5MWVmZmI1MDQ2M2UyNGUyOGZjOWVhM2QwYzZhMDVi`

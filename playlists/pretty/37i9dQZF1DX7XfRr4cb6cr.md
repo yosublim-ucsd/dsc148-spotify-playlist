@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 
 > Hymns for darker hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,943 likes - 150 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,111 likes - 150 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 | 149 | [Toimetonna](https://open.spotify.com/track/5XVbQfGCe3tYYZruCFXlUq) | [För Alltid](https://open.spotify.com/artist/5aPyGWlpqRG3hlsbTDgPPu) | [Toimetonna](https://open.spotify.com/album/33f4xR6aZb6Z4Hl0xKLJlI) | 3:08 |
 | 150 | [1 Room](https://open.spotify.com/track/0aO0VzGOXaamluotV8aD3U) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 3:52 |
 
-Snapshot ID: `MCxlMWFmY2Q5ODNkODc2YWJlOWE3NDkwZjRhOWE0ZjBjMDY3YjBhN2Vi`
+Snapshot ID: `MCw1Yjg5YWExOTA3OGZiNTI5YTlmMTEwZWNiMGZiNzJlMWRmYzNmMjE4`

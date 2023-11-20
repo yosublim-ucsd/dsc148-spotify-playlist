@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,596 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,739 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 99 | [The War On Christmas Is Over \(If You Buy It\)](https://open.spotify.com/track/1Rx7GdnqSzyoJNZ8Om6xEA) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The War On Christmas Is Over \(If You Buy It\)](https://open.spotify.com/album/2HIOIJu86CtMZuGgXiyaDW) | 2:24 |
 | 100 | [Father Christmas](https://open.spotify.com/track/2fARp1aruu7SCi4e3XdnwP) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Father Christmas](https://open.spotify.com/album/7voAxY5cusvcdJynnQzggG) | 3:19 |
 
-Snapshot ID: `MCxjYWJmMzhkZDhmMThiODA2ZmVmYzQ5Y2IxYzNhNWI3YWFlNzllYzAz`
+Snapshot ID: `MCxjZjQ3MThkYzNiMWIzODZjZjdjMzViMzg5OGRlZmI0NGUzNjQ3MTg5`

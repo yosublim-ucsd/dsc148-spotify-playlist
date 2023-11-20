@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,813 likes - 450 songs - 17 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,815 likes - 450 songs - 17 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -459,4 +459,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZSkZGhJFi1.md) - [plain]
 | 449 | [zinnia](https://open.spotify.com/track/1DQs099CsJFZhRhY4RLEHM) | [budtender](https://open.spotify.com/artist/2FIAMfNbjwjShlmP2qMmee) | [zinnia](https://open.spotify.com/album/4iEo34YasPvmHlU9wZZx8z) | 1:30 |
 | 450 | [Lunaria](https://open.spotify.com/track/2LeB4W3vaR6HB4y6gWpUY9) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Lunaria / Hedera](https://open.spotify.com/album/3zP4M1aTF9givkBPPLNnjq) | 1:33 |
 
-Snapshot ID: `MCw0YWFlYWE4ZDk4MDJhOTRhN2JmYzk2YjQ4ZDdhY2ZjZDE5OGVmY2I5`
+Snapshot ID: `MCwxNzUwNGVhNjY3YjQ0M2QzYzNmYTZkNjkwY2I5Mjc1NTRjZGJlMDBm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 
 > Lo mejor del Hip\-Hop y Rap en español\. Descansa en paz Lefty SM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,224 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 496,292 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTgSTuHRv7LV.md) - [plain]
 | 99 | [Santo Grial](https://open.spotify.com/track/71CmmeQnoVpTAlMtxEevaf) | [Dano](https://open.spotify.com/artist/3lIsPQW0jN6sMpiWuiShF0), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT) | [El Hombre Hace Planes, Dios Se Ríe](https://open.spotify.com/album/0xEGQSfKAhZj1yAFj4JMYP) | 5:51 |
 | 100 | [Fxck Remix](https://open.spotify.com/track/2Jll95vwNEnHnFkfg9bteA) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [FXCK Remix](https://open.spotify.com/album/4k6SCubTn9rspGzZeQjLss) | 4:05 |
 
-Snapshot ID: `MCw5MGU4ZDYyZTA2Mzg4NjM1N2ZjZWNmMjNhOTJkMTFmMjdhNjQxNmFh`
+Snapshot ID: `MCw1YTNlMGQ3ZDg2MzBiM2YzN2Y4NzRlM2FhNWQxNDRmMTZkNDRlOGYw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJs8e2vk15a8.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,613 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,612 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJs8e2vk15a8.md) - [plain]
 | 49 | [Oah Oah](https://open.spotify.com/track/3RjfJ510iifdsQs06QAELV) | [TobarJeremias](https://open.spotify.com/artist/5Hg3OJRuPzzWQh1O5Iqdxx), [Cristophe MJ](https://open.spotify.com/artist/2oFvA5382qABQHodDIvSBT) | [Oah Oah](https://open.spotify.com/album/3Xcw4SFQDYAGz73hVZuMv1) | 2:20 |
 | 50 | [Libertad](https://open.spotify.com/track/1hV979H1ZWygHrEUP8CNaP) | [FiltraKlein](https://open.spotify.com/artist/5n01UDkoC8H8HuPxiYAr1X) | [Libertad](https://open.spotify.com/album/7qOKVfkQG7Wu2yqKOOaYBG) | 2:00 |
 
-Snapshot ID: `NzUzNjcyNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzUzNzU4NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

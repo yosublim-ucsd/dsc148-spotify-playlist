@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: <a href="spotify:artist:4rwolwLHj97rPwbhyNSeU9">Marizu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,599 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,707 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 99 | [Nobody Like You \(feat\. CalledOut Music\) \- Radio Edit](https://open.spotify.com/track/69dmysQe6AgLJM4FepdiiJ) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Nobody Like You](https://open.spotify.com/album/1dU5VJTafuXBaXWFZKZ69C) | 3:05 |
 | 100 | [YOUR MIND](https://open.spotify.com/track/0KsRHhUgJKnxprKxC0nyiV) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [YOUR MIND](https://open.spotify.com/album/3uCTyAK8W8KgNhOybwSox4) | 2:55 |
 
-Snapshot ID: `MCxiY2I2N2Y0MDVlZDAxMjFlNmE0MWNiOGEwZTY5MmY0ZDIwNmM0YWZl`
+Snapshot ID: `MCwzZjBjZjI0MmY0OTUwZjNmMzY0ODlhMWU5OTVmNTE4NzcyNzk0MGJj`

@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 373477,
+  "num_followers": 373560,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWM2ZmYzY2ExYjQxYzU4OTMyNjVhYWJiYjY5ZTA5NGJmNTcwNzRi",
+  "snapshot_id": "MCw2ODNmMzczYzVlNjFiZjNkN2MxMDEzZmEzOWE5OTJkOWJmZWQyZmRj",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 154466,
-      "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
-      "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "The Essential Porter Wagoner & Dolly Parton",
         "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
       },
@@ -567,22 +551,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/3g5uyAp8sS8LnnCxh9y2em"
-      },
-      "artists": [
-        {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "She's Got You",
-      "url": "https://open.spotify.com/track/1Pj6cjIyqBBnl82qJwi1Kb"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "The Essential Jim Reeves",
         "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
       },
@@ -595,6 +563,22 @@
       "duration_ms": 138640,
       "name": "He'll Have to Go",
       "url": "https://open.spotify.com/track/7DH5dXVuQaqcKf9oTy9oUN"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/3g5uyAp8sS8LnnCxh9y2em"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "She's Got You",
+      "url": "https://open.spotify.com/track/1Pj6cjIyqBBnl82qJwi1Kb"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -647,22 +631,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Fist City",
-        "url": "https://open.spotify.com/album/069layftQtjJZ6KqZWHk6q"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 133933,
-      "name": "Fist City",
-      "url": "https://open.spotify.com/track/1YaPhbIo2oKWT5ejlMEL5Z"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Phantom 309",
         "url": "https://open.spotify.com/album/6QZ4vYqDJzcbBf4HaBkMJV"
       },
@@ -679,6 +647,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Fist City",
+        "url": "https://open.spotify.com/album/069layftQtjJZ6KqZWHk6q"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 133933,
+      "name": "Fist City",
+      "url": "https://open.spotify.com/track/1YaPhbIo2oKWT5ejlMEL5Z"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Almost Persuaded",
         "url": "https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk"
       },
@@ -691,22 +675,6 @@
       "duration_ms": 176360,
       "name": "Almost Persuaded",
       "url": "https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 127106,
-      "name": "Why Do I Love You So - 1960 #42 Billboard chart hit",
-      "url": "https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -887,22 +855,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Wanda Jackson",
-        "url": "https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw"
-      },
-      "artists": [
-        {
-          "name": "Wanda Jackson",
-          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "Let's Have A Party",
-      "url": "https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Prison",
         "url": "https://open.spotify.com/album/6u0llsaFIcmb2aTcobahaZ"
       },
@@ -935,6 +887,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Wanda Jackson",
+        "url": "https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw"
+      },
+      "artists": [
+        {
+          "name": "Wanda Jackson",
+          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "Let's Have A Party",
+      "url": "https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Folk-Country",
         "url": "https://open.spotify.com/album/18bZE82qsKfz1TYDROUKtz"
       },
@@ -963,26 +931,6 @@
       "duration_ms": 148400,
       "name": "Together Again",
       "url": "https://open.spotify.com/track/5uGMzzZW2XxHvSziwt9T3y"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Sentimentally Yours",
-        "url": "https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ"
-      },
-      "artists": [
-        {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
-        },
-        {
-          "name": "The Jordanaires",
-          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "You Belong To Me",
-      "url": "https://open.spotify.com/track/2STy18bfCVP8v6aOu2CliZ"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1023,6 +971,26 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Sentimentally Yours",
+        "url": "https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+        }
+      ],
+      "duration_ms": 183866,
+      "name": "You Belong To Me",
+      "url": "https://open.spotify.com/track/2STy18bfCVP8v6aOu2CliZ"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Streets of Baltimore",
         "url": "https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp"
       },
@@ -1055,18 +1023,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Leaving",
-        "url": "https://open.spotify.com/album/3wRjoe5k9mCmuRVdUERgqo"
+        "name": "Buck Owens Country Legends",
+        "url": "https://open.spotify.com/album/3aqXDRfnxd2LTsnVnuFKJT"
       },
       "artists": [
         {
-          "name": "Dottie West",
-          "url": "https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB"
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
         }
       ],
-      "duration_ms": 122531,
-      "name": "Men With Evil Hearts",
-      "url": "https://open.spotify.com/track/26sTWQPzFMKv1gNuQFcaxI"
+      "duration_ms": 142956,
+      "name": "Above And Beyond",
+      "url": "https://open.spotify.com/track/5z82O18NokdKypb5KwqHmf"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1087,6 +1055,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Leaving",
+        "url": "https://open.spotify.com/album/3wRjoe5k9mCmuRVdUERgqo"
+      },
+      "artists": [
+        {
+          "name": "Dottie West",
+          "url": "https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB"
+        }
+      ],
+      "duration_ms": 122531,
+      "name": "Men With Evil Hearts",
+      "url": "https://open.spotify.com/track/26sTWQPzFMKv1gNuQFcaxI"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Vintage Collections",
         "url": "https://open.spotify.com/album/14QyCjfoBHSmq5nxux8OJg"
       },
@@ -1103,38 +1087,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Tammy's Greatest Hits",
-        "url": "https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI"
-      },
-      "artists": [
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        }
-      ],
-      "duration_ms": 154626,
-      "name": "I Don't Wanna Play House",
-      "url": "https://open.spotify.com/track/0mSywazXcVFQZRk2Gg9ImX"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Buck Owens Country Legends",
-        "url": "https://open.spotify.com/album/3aqXDRfnxd2LTsnVnuFKJT"
-      },
-      "artists": [
-        {
-          "name": "Buck Owens",
-          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
-        }
-      ],
-      "duration_ms": 142956,
-      "name": "Above And Beyond",
-      "url": "https://open.spotify.com/track/5z82O18NokdKypb5KwqHmf"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
         "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
       },
@@ -1147,6 +1099,22 @@
       "duration_ms": 197293,
       "name": "Homecoming - Single Version",
       "url": "https://open.spotify.com/track/5Lb38fmngYVaPkLYHuAThe"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Tammy's Greatest Hits",
+        "url": "https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI"
+      },
+      "artists": [
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "duration_ms": 154626,
+      "name": "I Don't Wanna Play House",
+      "url": "https://open.spotify.com/track/0mSywazXcVFQZRk2Gg9ImX"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1263,6 +1231,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "The Essential Don Gibson",
+        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
+      },
+      "artists": [
+        {
+          "name": "Don Gibson",
+          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
+        }
+      ],
+      "duration_ms": 151773,
+      "name": "Sea of Heartbreak",
+      "url": "https://open.spotify.com/track/5M7otrtSBGd61OqS99RWm0"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "The Essential George Jones",
         "url": "https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF"
       },
@@ -1283,18 +1267,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "The Essential Don Gibson",
-        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
       },
       "artists": [
         {
-          "name": "Don Gibson",
-          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
         }
       ],
-      "duration_ms": 151773,
-      "name": "Sea of Heartbreak",
-      "url": "https://open.spotify.com/track/5M7otrtSBGd61OqS99RWm0"
+      "duration_ms": 154466,
+      "name": "Poetry In Motion",
+      "url": "https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1315,22 +1299,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Blue Kentucky Girl",
-        "url": "https://open.spotify.com/album/5958wwjPRxw2GmGJbOVuLc"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 163640,
-      "name": "Blue Kentucky Girl",
-      "url": "https://open.spotify.com/track/2mqXqQnxcFq5tmG98kUQZw"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Columbia Country Classics Volume 3: Americana",
         "url": "https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA"
       },
@@ -1343,6 +1311,22 @@
       "duration_ms": 177573,
       "name": "Wolverton Mountain",
       "url": "https://open.spotify.com/track/7GjmzKbriJewFNDPJtVjey"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Blue Kentucky Girl",
+        "url": "https://open.spotify.com/album/5958wwjPRxw2GmGJbOVuLc"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 163640,
+      "name": "Blue Kentucky Girl",
+      "url": "https://open.spotify.com/track/2mqXqQnxcFq5tmG98kUQZw"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1459,22 +1443,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/2up4ZFkepH2jR7Ltnd2LiJ"
-      },
-      "artists": [
-        {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
-        }
-      ],
-      "duration_ms": 179373,
-      "name": "Green Green Grass Of Home",
-      "url": "https://open.spotify.com/track/6Ss6vCdWHgCuiB3icgBAwY"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Great Picks & New Traditions",
         "url": "https://open.spotify.com/album/30GpNOPehzWUQ24tAdP8EK"
       },
@@ -1539,6 +1507,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/2up4ZFkepH2jR7Ltnd2LiJ"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        }
+      ],
+      "duration_ms": 179373,
+      "name": "Green Green Grass Of Home",
+      "url": "https://open.spotify.com/track/6Ss6vCdWHgCuiB3icgBAwY"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Saginaw, Michigan",
         "url": "https://open.spotify.com/album/2ldbI4zj8GXoN8rJL5V6bX"
       },
@@ -1551,22 +1535,6 @@
       "duration_ms": 182573,
       "name": "Saginaw, Michigan",
       "url": "https://open.spotify.com/track/0ulPILleWfE1NBzUWIiNi9"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "It Keeps Right On A-Hurtin'",
-        "url": "https://open.spotify.com/album/3xZM8nFWsJ8KMEwhZkHAPH"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "Send Me The Pillow You Dream On",
-      "url": "https://open.spotify.com/track/0fabZNPJqBJBfwzDxuKQTi"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1603,6 +1571,54 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Hello Walls",
+        "url": "https://open.spotify.com/album/1wkRC5qOr6uz5lbOZNcFfL"
+      },
+      "artists": [
+        {
+          "name": "Faron Young",
+          "url": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
+        }
+      ],
+      "duration_ms": 144120,
+      "name": "Wine Me Up",
+      "url": "https://open.spotify.com/track/2QS8C4T3H1hYpnADMpq8Uz"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "The Other Woman",
+        "url": "https://open.spotify.com/album/04SpyksXWidqvdpTMc8UL4"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "duration_ms": 168240,
+      "name": "Don't You Ever Get Tired of Hurting Me",
+      "url": "https://open.spotify.com/track/6QAJbtf8Qb69AKsp8soPmN"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Sings His Best",
+        "url": "https://open.spotify.com/album/5T41fC09ilKmDfREcWeQrW"
+      },
+      "artists": [
+        {
+          "name": "Jack Greene",
+          "url": "https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ"
+        }
+      ],
+      "duration_ms": 172760,
+      "name": "Statue Of A Fool",
+      "url": "https://open.spotify.com/track/6mYIZzGhfj9z1TJNL6ZhYh"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/6HMxJGDVtEsqpeOJlJHNhH"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 139093,
       "name": "Wings Of A Dove",
       "url": "https://open.spotify.com/track/2DD8OhehvkzSFeoRW0u7Gb"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "The Cold Hard Facts of Life",
-        "url": "https://open.spotify.com/album/1SOXR7PxeVSWUJuWLYi2Ie"
-      },
-      "artists": [
-        {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
-        }
-      ],
-      "duration_ms": 192946,
-      "name": "The Cold Hard Facts of Life",
-      "url": "https://open.spotify.com/track/2s2Owv5k5HaXCkvwV8AbsG"
     }
   ],
   "unique_name": "60s Country",

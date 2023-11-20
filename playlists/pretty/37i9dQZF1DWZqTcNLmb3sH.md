@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Sapta Sagaradaache Ello \- Side B
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,699 likes - 102 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,724 likes - 102 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 101 | [Preethisuve](https://open.spotify.com/track/1IsoqavrtE8wf6lf2EPCIF) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Prithwi Bhat](https://open.spotify.com/artist/3oHfvwbDQywYV2Kh2Cvr21), [Jayanth Kaikini](https://open.spotify.com/artist/5sLLcCwFCniAJxzLMthF57) | [Kousalya Supraja Rama \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Ekn7qdUqn18EP7APdBLgZ) | 3:58 |
 | 102 | [Snehada Kadalali \(From "Paramvah"\)](https://open.spotify.com/track/4KJvTL4XjJoKUb5CZIgEtz) | [Naveen Sajju](https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx), [Aparajith](https://open.spotify.com/artist/3FxEjVe2C0MQXdfU46vCb7), [Jos Jossey](https://open.spotify.com/artist/4cUt2kLK0SggEXpMpFLjOx), [Arjun Lewis](https://open.spotify.com/artist/21v78VY5iBrav8FSP4B9EY), [Nagesh Kundapura](https://open.spotify.com/artist/19FEhamBap1MSFCB34qt0s) | [Snehada Kadalali \(From "Paramvah"\)](https://open.spotify.com/album/3wWlz3OBsOFpaFpZ9xiEVg) | 4:42 |
 
-Snapshot ID: `MCwwYmU2NTYyMjY3YjRjYzA4YzAxNjQ3MjAyYjllNjZkMDM1NjY3Njc3`
+Snapshot ID: `MCxjMDU0ZDMyMDE0ODc1ZmNhMDg0ODUxNmU1NzE4NWM2OGM2MzBmMTU1`

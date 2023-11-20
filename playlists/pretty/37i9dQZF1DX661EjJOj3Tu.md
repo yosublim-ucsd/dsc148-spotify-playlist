@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,677 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,724 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 99 | [Muita Bobeira](https://open.spotify.com/track/3yWwPTIZAw9qYkH1L3tIdO) | [Luciana Souza](https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM) | [Duos II](https://open.spotify.com/album/5HBHLmP3Zv5Qc1a5NdguBn) | 2:52 |
 | 100 | [Brazilian Love Affair](https://open.spotify.com/track/5CUvPHZF4c0gHeJuTG4lN1) | [Negroni's Trio](https://open.spotify.com/artist/6clJrNFd1xD5dzc9UzxW7C) | [New Era](https://open.spotify.com/album/5aUeMcCYLSc3HqFRPwfZya) | 4:27 |
 
-Snapshot ID: `MCxlZjEwYWE0NTA0OTNmMTBmZmExZWE3YWZjZjc5MzkwNDczOWMwNWQx`
+Snapshot ID: `MCwxMDhkNmNlNTlhY2NkNmU3YjI4MTdiODcwNmUxODRlMmZhOTdiNzc4`

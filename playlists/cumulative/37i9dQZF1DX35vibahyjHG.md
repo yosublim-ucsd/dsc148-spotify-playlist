@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: <a href="https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2?si=\_TGhFXkvRr2uKdLqxZjtEw"> Dunnie </a>
 
-308 songs - 16 hr 53 min
+309 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,8 @@
 | [Oe'Phihlile](https://open.spotify.com/track/4Z14QJJqzQiYFXsEiJkPnF) | [Lowsheen](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU), [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Lioness Ratang](https://open.spotify.com/artist/5qltS8SwpvIgYGfaWpEK8s) | [Oe'Phihlile](https://open.spotify.com/album/1yfa56Cp1nEXqs4h1elpLQ) | 6:42 | 2023-09-06 |  |
 | [Old Flame](https://open.spotify.com/track/6MzuhCxlDWHedxMp1DUli8) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Old Flame](https://open.spotify.com/album/0OhpcZ3JcPE3KyjOLR6Ktw) | 2:04 | 2022-08-02 | 2022-12-01 |
 | [OLE](https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [OLE](https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy) | 2:31 | 2023-04-07 | 2023-09-07 |
-| [Ole \(feat\. BNXN\)](https://open.spotify.com/track/7onM6Fbiu7ufnMQnbd5oZJ) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ole](https://open.spotify.com/album/1ob2YtI9F9r54JXKXt7lhX) | 2:50 | 2023-08-02 |  |
+| [Ole \(feat\. BNXN\)](https://open.spotify.com/track/7onM6Fbiu7ufnMQnbd5oZJ) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ole](https://open.spotify.com/album/1ob2YtI9F9r54JXKXt7lhX) | 2:50 | 2023-08-02 | 2023-11-20 |
+| [Ole \(feat\. BNXN\)](https://open.spotify.com/track/6GkFuU6FVfx866bhM1T1Iz) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 2:50 | 2023-11-01 |  |
 | [Omdat Ek Wil](https://open.spotify.com/track/2TWndTxyjLy5pvbMTJdIcE) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Omdat Ek Wil](https://open.spotify.com/album/4Wp8xJhzrziBGnWukuiqbt) | 3:08 | 2022-10-04 | 2022-12-01 |
 | [OMG](https://open.spotify.com/track/1rykDqcJdmTcr8xqpkbEnc) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [For Times We Lost](https://open.spotify.com/album/3PAIF3G2cZ2hgopF1moQKI) | 2:42 | 2021-10-15 | 2023-02-01 |
 | [On God](https://open.spotify.com/track/4LcMzEqszSHHcRi1D3zE5Z) | [Barphul](https://open.spotify.com/artist/2PJRwhc7uIqqXIhyf7KGwJ) | [On God](https://open.spotify.com/album/6n1CbeRlcIa58R0BNSQ0W6) | 2:45 | 2022-04-05 | 2022-08-03 |

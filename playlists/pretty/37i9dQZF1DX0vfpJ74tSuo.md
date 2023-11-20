@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,882 likes - 150 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,904 likes - 150 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 149 | [I’ve Got Something](https://open.spotify.com/track/1D6bIicQYlT2aZLzj0EfZo) | [Heather Luckhart](https://open.spotify.com/artist/7tP1inVHEFMPLI87sp6RRu) | [Make It Through](https://open.spotify.com/album/0oXWOuYMNIxsVHs9PgXfvC) | 3:39 |
 | 150 | [Enemies](https://open.spotify.com/track/0Kood2NdRhznv8q24bzFn7) | [Bai Kamara Jr](https://open.spotify.com/artist/6XaT6lZurc7ceDovVXISOi), [The Voodoo Sniffers](https://open.spotify.com/artist/2BdhGmWY0JPdRMrT6Kfc8C) | [Traveling Medicine Man](https://open.spotify.com/album/6aLYdXRTaEBtmQctYJog8l) | 4:14 |
 
-Snapshot ID: `MCxhNDFhNmRmZDBlMzQxYWQ2ZGZlOWQyY2QyOTdiNjZlNTU4Mjk0M2Fj`
+Snapshot ID: `MCxhM2EzMzNhMmYyMjhkNjEwNzgyMWE2ODk0YzY2MzBmNzg3NjYyMzJi`

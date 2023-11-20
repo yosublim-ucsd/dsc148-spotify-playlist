@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,682 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,660 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 99 | [La huesuda](https://open.spotify.com/track/45Qh9HP3UPOhrkoFNPyKvM) | [Ariel Rot](https://open.spotify.com/artist/5kXK8waG1JeBQ8b5leWNSu) | [La huesuda](https://open.spotify.com/album/1EURs2L4xEKmMtnEvBPjS9) | 3:37 |
 | 100 | [La Mortaja](https://open.spotify.com/track/3Pa2oShykSBb0y87RYyni8) | [Sandra Padilla](https://open.spotify.com/artist/3hht892mum9HGzHHclNtXz) | [La Mortaja](https://open.spotify.com/album/2byTuD3obnTFs6ZjaxVLdm) | 2:56 |
 
-Snapshot ID: `MCxlNjFlMDk1MjVmMDA5NjE1YWEyYWI3MThkYTFjZjFjOGUyZmQwMDhm`
+Snapshot ID: `MCxhY2VhODA0ZDNkMDM4MTYzOWJmNGMwZjE0ODdlOGUwYTU2Nzk3OWFi`

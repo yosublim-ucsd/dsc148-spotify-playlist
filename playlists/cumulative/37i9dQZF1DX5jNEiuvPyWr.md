@@ -4,7 +4,7 @@
 
 > Le meilleur du rap français version cloud\. Photo : So La Lune
 
-296 songs - 14 hr 45 min
+297 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,8 @@
 | [UN PEU PLUS SIMPLE](https://open.spotify.com/track/1r5arJxSXv04aIhiIwlbkL) | [Karmen](https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq) | [UN PEU PLUS SIMPLE](https://open.spotify.com/album/1NXvyGiIFq3rIc0SZpcyGU) | 2:27 | 2023-05-18 | 2023-07-07 |
 | [Une éternité ne suffit pas \(Affamé \#22\)](https://open.spotify.com/track/7DpCZl6Gej1g4TDBcwzoix) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Une éternité ne suffit pas \(Affamé \#22\)](https://open.spotify.com/album/1SFCLinVrGjftX2Az7DN27) | 2:24 | 2023-06-29 | 2023-11-17 |
 | [VAGUE](https://open.spotify.com/track/3zYtCe7koh1lGLE844Pgqs) | [GEAVN](https://open.spotify.com/artist/1wRjJI80Z1xUT2aFdn7aru) | [VAGUE](https://open.spotify.com/album/1rxEb1Oq1rIZbkPksNR6GZ) | 3:07 | 2023-10-12 | 2023-10-27 |
-| [VAGUE](https://open.spotify.com/track/71wy1MM9Cfm2Bs9borXIcg) | [GEAVN](https://open.spotify.com/artist/1wRjJI80Z1xUT2aFdn7aru) | [VAGUE](https://open.spotify.com/album/7qlUM9axBnj7b2hTsIeLwa) | 3:07 | 2023-10-26 |  |
+| [VAGUE](https://open.spotify.com/track/4zTbR7badAt5Xxj2I8Wo5J) | [GEAVN](https://open.spotify.com/artist/1wRjJI80Z1xUT2aFdn7aru) | [CYNE](https://open.spotify.com/album/13nrCbkuJantG09mJDcikJ) | 3:07 | 2023-11-16 |  |
+| [VAGUE](https://open.spotify.com/track/71wy1MM9Cfm2Bs9borXIcg) | [GEAVN](https://open.spotify.com/artist/1wRjJI80Z1xUT2aFdn7aru) | [VAGUE](https://open.spotify.com/album/7qlUM9axBnj7b2hTsIeLwa) | 3:07 | 2023-10-26 | 2023-11-20 |
 | [Venom](https://open.spotify.com/track/4ko3pKC9xAtGh2pSRLn5ct) | [Gianni](https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk) | [42 jours avant MRTHN](https://open.spotify.com/album/4eP8OFxMTEQJYJHiWbd9Lv) | 2:55 | 2023-01-19 | 2023-03-03 |
 | [Vide](https://open.spotify.com/track/20jeEnFijJd4tRAtcww0tl) | [Sicario](https://open.spotify.com/artist/0ajjnGmVt2aVGD70lDbVl6) | [Vide](https://open.spotify.com/album/5j0mtAW5OGpVv7vO7MfEOF) | 3:18 | 2023-11-09 |  |
 | [Warzone](https://open.spotify.com/track/3vAh3mE2xDccKEArGslrZ1) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [Warzone](https://open.spotify.com/album/3dcDVMzfWhzA8JwE2HIZD7) | 3:14 | 2022-10-20 | 2023-03-03 |

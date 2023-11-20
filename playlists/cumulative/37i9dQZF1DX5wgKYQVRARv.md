@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: TesseracT
 
-641 songs - 2 day 7 hr 19 min
+643 songs - 2 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Empire](https://open.spotify.com/track/0x8VSd3L1jtCGm1CZwXB5B) | [Red Handed Denial](https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7) | [Empire](https://open.spotify.com/album/390CJ2fKWDx7IE6DMdX8O8) | 3:10 | 2022-07-13 | 2022-07-27 |
 | [Empire](https://open.spotify.com/track/2aj46915WcKBD1HnbnYpQz) | [Red Handed Denial](https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7) | [Redeemer](https://open.spotify.com/album/1eZGxI9LWYt3VdvEUUCPBa) | 3:10 | 2022-07-13 |  |
 | [Empires Erased](https://open.spotify.com/track/6mbVph0fNVnBDCAmtJ19ju) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [The Eternal Reign](https://open.spotify.com/album/6I9rxohdKInov3F52qTlV2) | 3:25 | 2022-07-13 | 2022-11-05 |
-| [Empires Erased](https://open.spotify.com/track/7LdWEEzQ7ppMKBBDzsGLEA) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [The Eternal Reign](https://open.spotify.com/album/4cQvWOaOguhmfKKGlzzg1S) | 3:25 | 2022-10-28 |  |
+| [Empires Erased](https://open.spotify.com/track/7LdWEEzQ7ppMKBBDzsGLEA) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [The Eternal Reign](https://open.spotify.com/album/4cQvWOaOguhmfKKGlzzg1S) | 3:25 | 2022-10-28 | 2023-11-20 |
 | [Empty](https://open.spotify.com/track/2DIqYiqMXd7OZ92QEERUHS) | [Awakening Sun](https://open.spotify.com/artist/1cEjFjoSrq4vgbB3vnWU9v) | [Empty](https://open.spotify.com/album/3b7uGrWZsEwVkFtDs2Wl8A) | 4:21 | 2021-12-17 | 2022-07-29 |
 | [Ephemeral](https://open.spotify.com/track/7501OuBQChRztHQlEOA0F3) | [Afterglow](https://open.spotify.com/artist/1HzcKPVciRAscPssWBFgGA) | [Ephemeral](https://open.spotify.com/album/2ltdaCKtiqLJopSBSd92LS) | 4:06 | 2022-07-13 |  |
 | [Equus](https://open.spotify.com/track/7w3AcH1IPIjZqjgixLgiEO) | [Ne Obliviscaris](https://open.spotify.com/artist/5kbidtcpyRRMdAQUnI1BG4) | [Equus](https://open.spotify.com/album/6u0sO15h0hLRfNJmbmqJD1) | 12:29 | 2022-12-09 |  |
@@ -505,6 +505,7 @@
 | [The Accursed](https://open.spotify.com/track/7pBax6M2fDPYU0lkjyrKnT) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [The Accursed](https://open.spotify.com/album/2StkXzPwzAKavLijMSWIZ9) | 3:26 | 2022-07-13 | 2022-11-05 |
 | [The Alien](https://open.spotify.com/track/1bAE0WgcyWzHKZdp0dYCXZ) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [The Alien](https://open.spotify.com/album/6C8zh43HmcyIsWKQhen7Dt) | 9:31 | 2021-12-17 | 2023-01-21 |
 | [The Anticosmic Overload \- Live](https://open.spotify.com/track/4FVh7e2020aN1sLgushpRK) | [Obscura](https://open.spotify.com/artist/7i82bJxWj1Tggc7pnU1hzt) | [The Anticosmic Overload \(Live\)](https://open.spotify.com/album/1pZgf4alsCkQxPFDIPWhaW) | 4:24 | 2023-08-18 | 2023-11-09 |
+| [The Anticosmic Overload \- Live](https://open.spotify.com/track/4i1wHwnRsA0ZK1cSZ9LLaY) | [Obscura](https://open.spotify.com/artist/7i82bJxWj1Tggc7pnU1hzt) | [A Celebration I \- Live in North America](https://open.spotify.com/album/1d8Dt8qo2XnMrz4jj7oFe4) | 4:24 | 2023-08-18 |  |
 | [The Bearer of Bad News](https://open.spotify.com/track/5gOUadSAIuvOXfJsUaCkpK) | [Reliqa](https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK) | [The Bearer of Bad News](https://open.spotify.com/album/66pRhOqpnNnmFwKXBt2dLq) | 3:26 | 2021-12-17 | 2023-01-21 |
 | [The Beast Inside](https://open.spotify.com/track/6CKJEs5wNmH5TjrN9n69Ga) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Titanic Mass](https://open.spotify.com/album/3zau9sFz61x2UwRawTsTGp) | 4:30 | 2021-12-17 | 2022-01-28 |
 | [The Beholder](https://open.spotify.com/track/3kHnfRdRK95IipzauTFoIs) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D), [James Labrie](https://open.spotify.com/artist/3bd5EpE5vC93GJT2u0fx4n) | [Escape of the Phoenix](https://open.spotify.com/album/5x7iT8UItd7SdDwf6tQzpb) | 5:49 | 2021-12-17 | 2023-01-21 |
@@ -530,7 +531,8 @@
 | [The Lie](https://open.spotify.com/track/4CJcbhNcSiuRsgbw2bubCB) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB) | [The Lie](https://open.spotify.com/album/1qKCuTTwzdCZnKKwo5hqP7) | 3:17 | 2022-02-11 |  |
 | [The Light](https://open.spotify.com/track/5gPgYuWtSFOu1tyazRrKKK) | [Seventh Wonder](https://open.spotify.com/artist/30nUQaYp91iDcRyhr1oNn0) | [The Light](https://open.spotify.com/album/4hjXaFtOphEj4cPQHQNkvN) | 6:19 | 2022-05-13 |  |
 | [The Lonely Psychogon](https://open.spotify.com/track/6Z4g6f4wS6pFDo6vGVMv0V) | [Vanden Plas](https://open.spotify.com/artist/1ke5Q2ijh6Tm31kH2HELEe) | [The Ghost Xperiment \- Illumination](https://open.spotify.com/album/1qIx301ov6M96NQvydShHu) | 8:22 | 2021-12-17 | 2022-07-26 |
-| [The Looming](https://open.spotify.com/track/0ujWGhtUtzJ9CBCZF4DWQr) | [Empire State Bastard](https://open.spotify.com/artist/4Lje5EOojiMe1qsGspOlDq) | [The Looming](https://open.spotify.com/album/6uwrXs1mJ4C9I8RYj9UQlJ) | 6:39 | 2023-08-18 |  |
+| [The Looming](https://open.spotify.com/track/0ujWGhtUtzJ9CBCZF4DWQr) | [Empire State Bastard](https://open.spotify.com/artist/4Lje5EOojiMe1qsGspOlDq) | [The Looming](https://open.spotify.com/album/6uwrXs1mJ4C9I8RYj9UQlJ) | 6:39 | 2023-08-18 | 2023-11-20 |
+| [The Looming](https://open.spotify.com/track/7JiSZUdXBHFJpbI9aE7BCW) | [Empire State Bastard](https://open.spotify.com/artist/4Lje5EOojiMe1qsGspOlDq) | [Rivers Of Heresy](https://open.spotify.com/album/6ro94rJ539uMG9hDwDtICk) | 6:39 | 2023-08-18 |  |
 | [The Mask](https://open.spotify.com/track/5BN6nzVQh2UQMBdDacBXEn) | [Mendel](https://open.spotify.com/artist/0b6LOcL2yFcKpn5nODTSxm), [Mario Infantes](https://open.spotify.com/artist/1lS72z0mkcpXnz7G2DfjbM) | [The Mask](https://open.spotify.com/album/1rsOs038rbzTESI3eCrex0) | 5:21 | 2021-12-17 | 2022-07-29 |
 | [The Modern Rage](https://open.spotify.com/track/3lnckWCciDrAvAdIeuABJM) | [Kadinja](https://open.spotify.com/artist/1MQvxiK7o7mpgtQM33l2F1) | [Super 90'](https://open.spotify.com/album/2F3iEIER2xxvFLv5tU5j8l) | 4:06 | 2022-07-13 | 2022-07-20 |
 | [The Modern Rage](https://open.spotify.com/track/7DctyL6bo2ourw7PeAD72S) | [Kadinja](https://open.spotify.com/artist/1MQvxiK7o7mpgtQM33l2F1) | [Super 90'](https://open.spotify.com/album/1WyBsAi2hny6GeQNWdKy4u) | 4:06 | 2022-10-28 |  |

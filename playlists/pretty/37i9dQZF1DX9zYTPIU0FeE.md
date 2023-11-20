@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be?si=I4u0nPYhSEGd1qydwDJU3Q">Pilani Bubu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,813 likes - 57 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,855 likes - 57 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 16 | [Pink Sunset](https://open.spotify.com/track/761V4Wr2AVIKdJtV5o5czc) | [The Unity Band](https://open.spotify.com/artist/1bCno1jVp2qYgeHYLagBnd) | [Breaking Bread](https://open.spotify.com/album/6M46nDC2qUNcCeuSLS0AWq) | 6:23 |
 | 17 | [Amazing Grace](https://open.spotify.com/track/60YKaBvjgNvGRVei6rmRQk) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy) | [Blk Elijah & The Children of Meroë](https://open.spotify.com/album/2HUrxmQV5x6i6FQTr6950S) | 7:06 |
 | 18 | [Voice](https://open.spotify.com/track/4i0JGQjQ0A0rq6NtzDmEBl) | [Mthunzi Mvubu](https://open.spotify.com/artist/6oOo5M8BQsi01kxDE3sKT6) | [The 1st Gospel](https://open.spotify.com/album/2r8YjJrjJzslaSWemjQhdB) | 8:15 |
-| 19 | [Sunset \(in California\)](https://open.spotify.com/track/0y95rXE4TENI9ib8tSpCG3) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Sunset \(in California\)](https://open.spotify.com/album/1rAdOOiYLU1OX01OsPnmpy) | 5:51 |
+| 19 | [Sunset \(in California\)](https://open.spotify.com/track/4TtGgEvZmvelHF4hvUStfi) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Rainbow Revisited](https://open.spotify.com/album/63wLAGAGfVOEoDHM2kO8TA) | 5:51 |
 | 20 | [Aunty B \- Live](https://open.spotify.com/track/4B0SAa1Qh18m6LkRRUqtCE) | [Keenan Ahrends](https://open.spotify.com/artist/6ESm50MFOfkEqAaWEgVKiQ) | [Perseverance: Live at the Bird's Eye](https://open.spotify.com/album/5ALMv6JHL1KO7SVaeilQiD) | 8:00 |
 | 21 | [Choices](https://open.spotify.com/track/1FFO1fM3Y8JuaQOhtZd8ne) | [Nobuhle Ashanti](https://open.spotify.com/artist/1j0veQcW4sD1PKkfSCJiop), [Shaw Komori](https://open.spotify.com/artist/38Ke1hHsORcBqMK6zs1RgN) | [Bait For Steps Forward](https://open.spotify.com/album/1rfJh3x1Bia6M2r4nert9m) | 5:46 |
 | 22 | [Cabin Fever](https://open.spotify.com/track/7erj4S9e7ps3Ha9TWf3LAD) | [MUNGO BUNGO](https://open.spotify.com/artist/38zmC7oufF1B8WCBaHWqsz) | [Cabin Fever](https://open.spotify.com/album/43dmHtuJLgnXl6BTG3YuIy) | 3:52 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 56 | [Nandi's Suite \(1st Mov\)](https://open.spotify.com/track/1O1qPvS595hMv3WxXprDlx) | [Ndabo Zulu](https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33), [Umgidi Ensemble](https://open.spotify.com/artist/3urMiFwlK23Hjs6zd9Wr5S), [Afrika Mkhize](https://open.spotify.com/artist/6BxxONpaeoIFqbZXzlbzGf), [Ayanda Sikade](https://open.spotify.com/artist/6F9LoTvwNSxtAVFj5i6Hnh), [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Mbuso Khoza](https://open.spotify.com/artist/0IqdIwmnDCHg3LogqhJvpW), [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Ngari Ndong](https://open.spotify.com/artist/3hSbU7bsDQSnZSZhbDEpAO), [Njabulo Shabalala](https://open.spotify.com/artist/0rwnXBO4t7iivrfkI6qbsq), [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Siya Charles](https://open.spotify.com/artist/1QZspTSI3KM0AArNidhH3g), [Sphelelo Mazibuko](https://open.spotify.com/artist/0GueyvsufjRXgZBARevbZT) | [Queen Nandi: The African Symphony](https://open.spotify.com/album/5zXUIyeSDzpj1oCohjCZii) | 17:09 |
 | 57 | [Kucheza](https://open.spotify.com/track/6xSE8mjOiwe0qrIpd8YTvc) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 4:32 |
 
-Snapshot ID: `MCxjZWU5NjU2MDBiYmNhNDYyYWI2MmU2MGE0MzE0ODM2MDBjYjE2Y2Fl`
+Snapshot ID: `MCwzMmU2Y2U1NGI3MTVkODNjN2UzMDA0ZjVlNmQzMGM2NDQwMjNmZDIz`

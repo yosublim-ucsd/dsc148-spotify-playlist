@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 
 > Covers of classic songs with a touch of Jazz\. Cover: Joey Alexander
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,639 likes - 125 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,695 likes - 125 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 | 124 | [Masters Of War](https://open.spotify.com/track/4cOFrivheYAhrEppNAWMW7) | [Scott Amendola](https://open.spotify.com/artist/0z8GiMtospGy5TDzG8LiSE), [Jenny Scheinman](https://open.spotify.com/artist/5etpJzeeCBoFC8P5l2tkjd), [Nels Cline](https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp), [Eric Crystal](https://open.spotify.com/artist/4w2Ux9fk321zWSsBNCxykL), [Todd Sickafoose](https://open.spotify.com/artist/0gat1iJtUzvdGOgNNJ9fW7) | [Cry](https://open.spotify.com/album/6MdJLoigLIOtMEHh3a4XcO) | 9:12 |
 | 125 | [If It's Magic](https://open.spotify.com/track/5r8SovegCSL6r9GrbRFJBP) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [If It's Magic](https://open.spotify.com/album/6cetRsJJ96m3KmLsVwEhVW) | 3:29 |
 
-Snapshot ID: `MCxjMDUyZDBlODE4MmM0NWY0OGM4NTUzMTUzOWEyZDE1MzdhNTg4NjNi`
+Snapshot ID: `MCwyOGU0OTE0ZTBkZGRmYmZlZmJlNjVlM2U3ZjJlN2NhNjJkNGQ0NTc2`

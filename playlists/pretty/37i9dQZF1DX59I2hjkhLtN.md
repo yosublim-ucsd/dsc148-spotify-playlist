@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: SleepyThePrince.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,866 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,875 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [Folhas](https://open.spotify.com/track/0JUe2TfB22ZCuBTTApHmaJ) | [C57](https://open.spotify.com/artist/3A3a9O9OLay8KocxjNKlyP) | [Folhas](https://open.spotify.com/album/5bVTGRPPJSP8nefRraYIp8) | 3:34 |
 | 100 | [Level Up](https://open.spotify.com/track/41lbOjJ8ut4YSj1CTdKI40) | [Hevvy x Fukk](https://open.spotify.com/artist/4oKS5QR0v9JXTP3oG78WpJ) | [Level Up](https://open.spotify.com/album/1V4NIooFw5D0hbv6oie8RH) | 2:53 |
 
-Snapshot ID: `MCw2ZjcxMWMxZmNhNjk0ZjYxODY4MjJlZjFhY2RlNmZmOWMxMmI5Yzhi`
+Snapshot ID: `MCw0N2VkYjQ1YjY0ZjQ5YTFkOGQ2MjM3N2Y0ZjlkM2E4MmQxNTAyNjkz`

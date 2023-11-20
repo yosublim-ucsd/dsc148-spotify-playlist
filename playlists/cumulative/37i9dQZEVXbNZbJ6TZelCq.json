@@ -496,7 +496,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 167250,
       "name": "5PM",
       "url": "https://open.spotify.com/track/1PLhM4Gc5Ujr0rYGkG4TvX"
@@ -1106,7 +1106,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 210500,
       "name": "AK 47",
       "url": "https://open.spotify.com/track/3h5cXUEfgpnUoGUFgAcCWj"
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -6234,7 +6234,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 136000,
       "name": "DEBANDAD\u0102 FAC",
       "url": "https://open.spotify.com/track/0vzBXTW1FqULh4DtNfirCe"
@@ -7650,7 +7650,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 129000,
       "name": "Emirate",
       "url": "https://open.spotify.com/track/65uHYuqIZqueZNG6DbpSJi"
@@ -8138,7 +8138,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 124081,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/6lVt1n7pYYokZBTp3h7HFH"
@@ -9144,7 +9144,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
@@ -9490,7 +9490,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 228000,
       "name": "GIN",
       "url": "https://open.spotify.com/track/1318xAofqd7PvgIrJ38hXl"
@@ -9820,6 +9820,24 @@
       "duration_ms": 46992,
       "name": "Good News",
       "url": "https://open.spotify.com/track/1oZq1wMYbEkr7ovRV7OWty"
+    },
+    {
+      "album": {
+        "name": "Goodbye Means Hello",
+        "url": "https://open.spotify.com/album/63994Aws29eYUq4Hts38fT"
+      },
+      "artists": [
+        {
+          "name": "Chop Sue",
+          "url": "https://open.spotify.com/artist/1NQLcnO9tz28dSxYo9acth"
+        }
+      ],
+      "date_added": "2023-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503997,
+      "name": "Goodbye Means Hello",
+      "url": "https://open.spotify.com/track/6I5xevVn9URIGrDBlPjkah"
     },
     {
       "album": {
@@ -12122,7 +12140,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -12344,7 +12362,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -13207,6 +13225,24 @@
     },
     {
       "album": {
+        "name": "The Singles: Echoes from the Edge of Heaven",
+        "url": "https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "date_added": "2023-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265960,
+      "name": "Last Christmas - Single Version",
+      "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
+    },
+    {
+      "album": {
         "name": "Last One Standing (feat. Polo G, Mozzy & Eminem) [From Venom: Let There Be Carnage]",
         "url": "https://open.spotify.com/album/2ZaFqYD9a3U6qJhyS2LDRf"
       },
@@ -13520,7 +13556,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -15300,7 +15336,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 235500,
       "name": "MILIARDE 2",
       "url": "https://open.spotify.com/track/4CO2kVFMNoFtulxbViGV9k"
@@ -18794,7 +18830,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 162461,
       "name": "PORNO POP IT",
       "url": "https://open.spotify.com/track/3wgpIKqm52EMA8QDct1pTh"
@@ -20228,7 +20264,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -20852,7 +20888,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -20906,7 +20942,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 234000,
       "name": "Sauditii",
       "url": "https://open.spotify.com/track/6SiHINMCAPTGwojLqIP4ah"
@@ -22394,7 +22430,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -22704,7 +22740,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 187500,
       "name": "Spune-mi",
       "url": "https://open.spotify.com/track/3Eo2NoBVlS4nk6fONJUTa1"
@@ -22766,7 +22802,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-19",
+      "date_removed": null,
       "duration_ms": 206019,
       "name": "Standing Next to You",
       "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
@@ -26580,7 +26616,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 139354,
       "name": "VREM",
       "url": "https://open.spotify.com/track/3jK1Y9Y9ADr77dw0D2uN4A"

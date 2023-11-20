@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,292 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,846 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 | 99 | [Silver Lining](https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS) | 3:42 |
 | 100 | [El Platanal](https://open.spotify.com/track/5euxtzHFyA4WAbbERfT0eg) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Monte Adentro](https://open.spotify.com/album/0Rsap5JXIEDLxkhTVNT3Kr) | 2:23 |
 
-Snapshot ID: `MCwzYWE0ZDI5MGJiZDczMzlhMDJjMjQ2NTA0Y2RjZmY3OGI2ODk5MDJm`
+Snapshot ID: `MCw5NTI1NjFkNTgxZjM2NTNjYzljMWJmZGQwMTYxZmU3MTAyMjgzZjE1`

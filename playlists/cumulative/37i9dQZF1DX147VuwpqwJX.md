@@ -4,7 +4,7 @@
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-139 songs - 9 hr 15 min
+140 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [Type of Way](https://open.spotify.com/track/71Z6LqO4xMJU3n68WN5OuW) | [Prince Airick](https://open.spotify.com/artist/13gzY5N96fkEIK8jJBHQUs) | [Type of Way](https://open.spotify.com/album/4HnemZupNIEbgsYpHfM9M6) | 2:46 | 2021-11-19 |  |
 | [U Wanna?](https://open.spotify.com/track/0lhWFpWU9NgQ2j7FuvjXH1) | [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr), [Sir JoQ](https://open.spotify.com/artist/0t2ATkbihdqPzUaE9PZaEs) | [U Wanna?](https://open.spotify.com/album/7wicSDee8Jznltmn6Bk9ZO) | 4:10 | 2022-04-01 |  |
 | [Voodoo Pussy](https://open.spotify.com/track/43lupyxeROVg5QmMiqa8Y0) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Whorecore](https://open.spotify.com/album/1OEDnlG9MPWboK6lk7lovy) | 3:23 | 2021-11-19 |  |
-| [Vox](https://open.spotify.com/track/7I5Ob4Izz1yJKINm2C3hjf) | [OG MarlynMonROLLUP](https://open.spotify.com/artist/5WL4ngAXr946yPkXFvUkax) | [Vox](https://open.spotify.com/album/3ePnQQvmjCbOH0Bo8EJ7XV) | 0:59 | 2023-02-28 |  |
+| [Vox](https://open.spotify.com/track/7I5Ob4Izz1yJKINm2C3hjf) | [OG MarlynMonROLLUP](https://open.spotify.com/artist/5WL4ngAXr946yPkXFvUkax) | [Vox](https://open.spotify.com/album/3ePnQQvmjCbOH0Bo8EJ7XV) | 0:59 | 2023-02-28 | 2023-11-20 |
+| [Vox](https://open.spotify.com/track/00L3bL1Nu22e6HPRq7R0go) | [OG MarlynMonROLLUP](https://open.spotify.com/artist/5WL4ngAXr946yPkXFvUkax) | [Vox](https://open.spotify.com/album/70FtG9sondjv4bqPTMvNNL) | 0:59 | 2023-07-14 |  |
 | [VULGAR \(with Madonna\)](https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [VULGAR \(with Madonna\)](https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT) | 2:35 | 2023-06-09 |  |
 | [Walk \(feat\. Dashaun Wesley\)](https://open.spotify.com/track/16FZL2HEkJzvZTVnOvNXUa) | [Skyshaker](https://open.spotify.com/artist/0AkvLNa5ONu9VWoREfOwqo), [Dashaun Wesley](https://open.spotify.com/artist/6ZlsfHbSCDBAisAlLqRF1G) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 3:52 | 2021-11-19 |  |
 | [Wanda's Cunty Vision](https://open.spotify.com/track/1IQUcRrh5tY2aAdiO6YObw) | [Ocean Kelly](https://open.spotify.com/artist/5Gzk0GbwDyoMuAvo4dhj3S) | [Wanda's Cunty Vision](https://open.spotify.com/album/09IZ4WDGwtbDARXjLCaHRC) | 1:57 | 2021-11-19 |  |

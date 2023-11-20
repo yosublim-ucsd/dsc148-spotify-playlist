@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > brime é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,236,967 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,236,932 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 42 | [Eu contra Eu](https://open.spotify.com/track/6Yg18bpaA8KRafBVGusUGM) | [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Eu Contra Eu](https://open.spotify.com/album/3JKTU8ZN9OkgETHKvo2HQ0) | 3:00 |
 | 43 | [Antes do baile](https://open.spotify.com/track/4siwpjEBypNdJzlaf4zZGv) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu) | [Antes do baile](https://open.spotify.com/album/3Spa7un8tuyjiHOpAB4pPZ) | 2:18 |
 | 44 | [Jardim das Flores](https://open.spotify.com/track/2guOhSMSG1p8WePFWhkhlj) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Jardim das Flores](https://open.spotify.com/album/1n1QRIqGrKqhoDjyXWMoKo) | 3:23 |
-| 45 | [A Vida É Um Sopro](https://open.spotify.com/track/1o8ttNku9lspk3dFOfBmY9) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Renan Samam](https://open.spotify.com/artist/3L285hpRgG73AycGrb7Pve) | [A Vida É Um Sopro](https://open.spotify.com/album/31kxbEqB4x5lpqEvRIgF7z) | 4:21 |
+| 45 | [A Vida É Um Sopro](https://open.spotify.com/track/39o2h1LzqMWFpBZXpzpJoh) | [Renan Samam](https://open.spotify.com/artist/3L285hpRgG73AycGrb7Pve), [Rashid](https://open.spotify.com/artist/4RzzS0tS9p2D3IXXYsnOll), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ) | [Ovo Manifest](https://open.spotify.com/album/59wbs3hbhBWnk2ot41qkN5) | 4:21 |
 | 46 | [Tempo Ruim](https://open.spotify.com/track/1g70vYJx7zcLVeOl4uxeRc) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:40 |
 | 47 | [Dior](https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Dior](https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR) | 3:49 |
 | 48 | [Versão Brasileira](https://open.spotify.com/track/6eiE8aADzURp3fqxIRfAth) | [Coruja Bc1](https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [DJ Maxnosbeatz](https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN) | [Versão Brasileira](https://open.spotify.com/album/14NgsBHbelrwYjr6IqFOQ8) | 2:20 |
 | 49 | [Raúl](https://open.spotify.com/track/51o1CX6amjuojNn37xdjSp) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Raúl](https://open.spotify.com/album/29zzU4Pe3SPIM2LESyaxDK) | 2:40 |
 | 50 | [Favela Vive 5](https://open.spotify.com/track/5svioJ5BlJIYfQFPT1eq7v) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Mc Marechal](https://open.spotify.com/artist/5YZEcrC3yHeiZ1bBvwKRUF), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Favela Vive 5](https://open.spotify.com/album/0HIqiDgY7xzP0vzbg8aGT8) | 8:13 |
 
-Snapshot ID: `MCw0Njk5ODc0ZThjYmNmN2FjZTNkMDU3NjI5NzVmNmEzNWNhMDg5M2E5`
+Snapshot ID: `MCxiZTE5ZjM2NzkyNWEwNjE0M2JiNzk2NzEzOTMwMDg5ZjAwMTgxMTUw`

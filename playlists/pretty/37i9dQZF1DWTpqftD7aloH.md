@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,352 likes - 120 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,539 likes - 120 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 | 119 | [Cuida De Mim](https://open.spotify.com/track/2vMdTPntkHh37YcrTLulXL) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Cuida De Mim](https://open.spotify.com/album/3ZmrAlZNemvgYoOoPe1DoY) | 3:37 |
 | 120 | [Pra Ti Eu Vou \- Ao Vivo](https://open.spotify.com/track/2U9pql1iLy9o3ZRKygbMwR) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Pra Ti Eu Vou \(Ao Vivo\)](https://open.spotify.com/album/1cpQFbRUBIAbX77LqwdkjB) | 5:03 |
 
-Snapshot ID: `MCw0YzkzODM5ZjUzMDIzZDYwZWFhZjVkZjM2YmMxZTFhNjQ1ZmJhMzUy`
+Snapshot ID: `MCw4MTk1Mjc1ZmVjZTM5YmQ2YWE4MmZhY2JlYzZlZWY2NGVmZWZjMTVk`

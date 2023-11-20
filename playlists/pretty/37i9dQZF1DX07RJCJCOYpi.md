@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Danna Paola, Steve Aoki
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,709,083 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,709,079 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 59 | [Pin Pan](https://open.spotify.com/track/2tWPVMfQH0AvZBu5VMpXf9) | [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec), [Matta \(COL\)](https://open.spotify.com/artist/5HmfPodhYUR4Js09zzeg2Z), [JUANPORDIOS!](https://open.spotify.com/artist/4DVSIgIIO92h4OdSSBBJlg) | [Pin Pan](https://open.spotify.com/album/7cY7EHWnbjDcphrqnMPF2k) | 3:37 |
 | 60 | [Sentir Saudade \(feat\. Bia Caboz\)](https://open.spotify.com/track/2vpOZH0GPh2uYVap8hHaC1) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Bia Caboz](https://open.spotify.com/artist/0riQxiJoPm0Wh4M9ofN50a) | [Sentir Saudade \(feat\. Bia Caboz\)](https://open.spotify.com/album/1NyzzX2INte0TLjsSsbHqv) | 3:25 |
 
-Snapshot ID: `MCwzNDYwZTRkZmU4MzIyZDU0NTM1ZTAwNjdmYTY5ZmUyYTIxMWQ2OWRl`
+Snapshot ID: `MCwyY2Q0MDQ3MjA5NTk1Yzk3YmZhYWNjYzZiNTQ2MmZkMzNhYTg2OGVk`

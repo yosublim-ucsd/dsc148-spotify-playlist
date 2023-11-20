@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,515 likes - 350 songs - 1 day 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,585 likes - 350 songs - 1 day 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTz2CbxASWRu.md) - [plain]
 | 349 | [Kisasa Kisas](https://open.spotify.com/track/6ArwNGBU2aBHf1hLIQWmm8) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Kisasa Kisas b/w Erkilet Güzeli](https://open.spotify.com/album/4BNMUwnfonwUG2Ma9KdodA) | 3:49 |
 | 350 | [Tiku La Hina](https://open.spotify.com/track/4zfSgk8S1mq8klntilxm1k) | [Samito](https://open.spotify.com/artist/2LwqwmIDSWwNV1lDjqKqCN) | [Tiku La Hina](https://open.spotify.com/album/7uFTZvSJt4bZeoGZxNSyYe) | 4:02 |
 
-Snapshot ID: `MCxmY2JiMWYwMTNjNTAwMWYwMWYxYzYwZDg3ODI5ZjBkNzMyN2RkYTlm`
+Snapshot ID: `MCwxMTE2YmM4M2JmODA2MjBhMzlkYjAxMDNhZmE1N2JiMzI3ZGVmZGM2`

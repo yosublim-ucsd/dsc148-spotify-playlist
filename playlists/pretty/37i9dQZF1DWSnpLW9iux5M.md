@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,965 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,052 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 99 | [Joy To The World \(feat\. Eryka Edmund\)](https://open.spotify.com/track/0AsURWUc8JqeILrFhCRSzx) | [Charles Butler & Trinity](https://open.spotify.com/artist/5U7TaBluxhgDPNGx2NadSU), [Eryka Edmund](https://open.spotify.com/artist/1VitpzYVY9vaDnqSl0wir9) | [Joy To The World \(feat\. Eryka Edmund\)](https://open.spotify.com/album/7nBbkSBamXj4ki3mlr53eY) | 5:26 |
 | 100 | [I'm So Glad It's Christmas](https://open.spotify.com/track/3ooBBNfyGhJcctJuEvwQuF) | [The Rance Allen Group](https://open.spotify.com/artist/3S16Nh2s6Wc4PCFjFESk2g) | [I'm So Glad It's Christmas](https://open.spotify.com/album/1mDAVcoJ8sJGTWKgVY8GB3) | 3:39 |
 
-Snapshot ID: `MCw4ZDZjYzllMTdmYmM2ODEyYWZlYzhkOWU0NTM1N2FkMDM0OTI3M2Y2`
+Snapshot ID: `MCwyNDcyOGMyNDAzYjE0YjhmNTE4Mzk2YjBlM2ZjOTc0M2ZiMTgzOThl`

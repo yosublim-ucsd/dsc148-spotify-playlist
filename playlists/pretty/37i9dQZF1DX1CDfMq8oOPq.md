@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > só faixa rosa, tem disposição? 🎀 Foto: Ajuliacosta
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,986 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,043 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 49 | [A Heroína e A Vilã](https://open.spotify.com/track/0jAPxMC6lewaMrSuQwzbb1) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Prod Malax](https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c), [Khris](https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [A Heroína e A Vilã](https://open.spotify.com/album/0SyVncjgg2o0WRWEFTGnGt) | 2:24 |
 | 50 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
 
-Snapshot ID: `MCwzMzA2NjYyYzE2NDg1OTEzOWZiM2NhZTJhNTEyODc3NGIyYjIzOGE2`
+Snapshot ID: `MCxjNmEzMjE0ZTdlZmMzZWFlOWU5NDg1MWUyYTc0MGQyYWZkNDU0M2Vk`

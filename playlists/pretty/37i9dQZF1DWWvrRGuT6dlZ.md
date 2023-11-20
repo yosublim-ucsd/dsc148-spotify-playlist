@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Regina Song, Adriel\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,839 likes - 142 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,852 likes - 142 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 141 | [Taxi Fare](https://open.spotify.com/track/62UTUM3McxWoeB3Zo3Abg7) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [mya](https://open.spotify.com/artist/7yLUaQwfD82tNZm2ACAUtb) | [Taxi Fare](https://open.spotify.com/album/4Q9B5EDsCIFhPd3NqltGkO) | 3:36 |
 | 142 | [Nadia](https://open.spotify.com/track/6QFiYCiXkIt7arRQYsopu9) | [Burmese Bombshells](https://open.spotify.com/artist/2LjrfHF7nEMEDoTd4eJ522) | [Nadia](https://open.spotify.com/album/1dkVblyDuSDRjGfdL505Vf) | 3:21 |
 
-Snapshot ID: `MCxhYzg3ZDUzNjQ0ZWExMjcyYzY0YzE4NjNiYmY1M2M4ODcwNTY1ZmIy`
+Snapshot ID: `MCxmMTgzMGM0YmUyMmNmYWQ0MDlkMTNkMWI4MmNhMmZlMzRlOWRkN2Fi`

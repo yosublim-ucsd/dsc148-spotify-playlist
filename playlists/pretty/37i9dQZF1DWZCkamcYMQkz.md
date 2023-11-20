@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Happy and uplifting Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,319 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,472 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [Thedia](https://open.spotify.com/track/1BOH3GRgTRZz7NITH4oEIG) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Thedia](https://open.spotify.com/album/5ccRhv2mXCgIgHY8RLWxQo) | 5:03 |
 | 100 | [It's All Right With Me \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/0fnMpSyjIY0PmtHlopoIow) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing Johnny Griffin \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 5:00 |
 
-Snapshot ID: `MCwyYWE2YTM2MGU0OGQ4MDZhYjk3MzRjYTQxYmEyNTViY2I2Mjg3YzE3`
+Snapshot ID: `MCw2OGFjNmQ5YzIyYjRhZDM4MDMxYjliOTUwNmFlOTU0YjdhZWNlNDcw`

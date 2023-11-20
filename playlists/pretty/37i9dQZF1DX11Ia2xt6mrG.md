@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Lex en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,335 likes - 90 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,341 likes - 90 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 89 | [Like a Dream](https://open.spotify.com/track/6OzGgO8T0XrttBzJoqKFlC) | [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Bandido Brothers](https://open.spotify.com/artist/7zII5beG1WhlaoAjvamnmJ) | [Like a Dream](https://open.spotify.com/album/1QdqBtNNk968yDFAhXC3Nu) | 3:30 |
 | 90 | [KARMA](https://open.spotify.com/track/7mmwYkMjErRJrMxemmm2zk) | [Clara Floc](https://open.spotify.com/artist/0e16Li9kILC0goZoA7WR5f), [Light Reaction](https://open.spotify.com/artist/4ImPMY6kcAHp54Zfvc035x), [Gabo Versus](https://open.spotify.com/artist/1N4FEl0zyRocPbZBiWPzJN) | [KARMA](https://open.spotify.com/album/7s7so5vu0eAwu8ArWkKmDr) | 3:34 |
 
-Snapshot ID: `MCxmNjk2Mzc0ZWM3ZWFhMjNkOTAyMzRhMzNjOTQwOTFiY2VmYjU1MDc0`
+Snapshot ID: `MCwyMzVhNzNmOGNhMzQxMmUyNGVkMDlhM2Q1ODU4NzMwMjY2ZjNmODBm`

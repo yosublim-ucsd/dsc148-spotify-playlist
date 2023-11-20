@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: Out Of Control Army
 
-571 songs - 1 day 9 hr 12 min
+572 songs - 1 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Cuando la Gente se Pare](https://open.spotify.com/track/0muzDovujhzxf8KB886WoX) | [La Severa Matacera](https://open.spotify.com/artist/7iTXFOlvIIzJXcLot5GOkW) | [Cuando La Gente Se Pare](https://open.spotify.com/album/7zDQAHPuayuknglb9aEawT) | 2:44 | 2021-12-06 | 2022-07-27 |
 | [Cuantas Veces \(feat\. Matt Hensley\)](https://open.spotify.com/track/0zyRhZmoQvMC9R54GRr43V) | [Big Javy & Los Tenampa](https://open.spotify.com/artist/1DJCYZkaSXV8mP2kduOSZc), [Matt Hensley](https://open.spotify.com/artist/0tnQk0BuTMDVnGypHd5L71) | [Skanking in the Pit, Vol\. 1](https://open.spotify.com/album/4dMnr2qNsrc83dD3UBQt57) | 3:12 | 2021-12-06 | 2022-07-16 |
 | [Círculo De Amor](https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Chúntaros Radio Poder](https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL) | 4:05 | 2021-12-06 | 2023-04-22 |
-| [C’est La Vie](https://open.spotify.com/track/0FeULTkWtNrjU7WqnTfNv5) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Theatre of the Absurd Introduces C'est La Vie](https://open.spotify.com/album/6heQzlRLjUmiAzezIzmuYg) | 3:10 | 2023-10-13 |  |
+| [C’est La Vie](https://open.spotify.com/track/0FeULTkWtNrjU7WqnTfNv5) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Theatre of the Absurd Introduces C'est La Vie](https://open.spotify.com/album/6heQzlRLjUmiAzezIzmuYg) | 3:10 | 2023-10-13 | 2023-11-20 |
+| [C’est La Vie](https://open.spotify.com/track/43gcln3SnwBCpKjy2gPOwN) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Theatre of the Absurd presents C'est La Vie](https://open.spotify.com/album/1EO1QMwEOJQk36fMQFTbvN) | 3:10 | 2023-10-13 |  |
 | [Daly City Train](https://open.spotify.com/track/45e3iJ4KzZ4MzxWMmU4Va1) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [All The Moon Stompers](https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot) | 3:21 | 2021-12-06 | 2022-07-29 |
 | [Dame un Tiempecito](https://open.spotify.com/track/3zig33r5f16Hs0G1N78yUk) | [Los Korucos](https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx) | [Dale un Dulze al Chamakito!!!](https://open.spotify.com/album/6bSHESkw8R2JJnyyTGqvPv) | 3:49 | 2021-12-06 | 2023-04-22 |
 | [Dança do Sol \(Sundance\)](https://open.spotify.com/track/2m0Hw4vkuUk7XX0G8JElSX) | [Skafandros Orkestra](https://open.spotify.com/artist/6qtP3Awh2o3JPx6PIEenlj) | [Fubah](https://open.spotify.com/album/3d5F7j6NL1WcKQ6Ld52jkk) | 5:30 | 2021-12-06 | 2022-06-08 |

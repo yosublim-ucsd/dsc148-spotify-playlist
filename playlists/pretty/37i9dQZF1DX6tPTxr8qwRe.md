@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: emlyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,179 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,252 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 79 | [Crazier Best Friend](https://open.spotify.com/track/0nh9KP6DfRC2SrgZfBykkY) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Crazier Best Friend](https://open.spotify.com/album/4tNwSshyEfPg3tltRHZn3j) | 2:51 |
 | 80 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 |
 
-Snapshot ID: `MCwzMjY3MmMyYTIyNmIwMDM5MWY2ZTk5ZWViMWZmZjI1YzNhYzI2MmNh`
+Snapshot ID: `MCwyOGVjNzY5YjVhZWY5ZGMyMzJkYjE5NzVhYTY5OTAzZWIzYjQ5YzQ2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Drake, Tate McRae, 2 Chainz & Lil Wayne, André 3000 and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,513 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,543 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Everything is Fine](https://open.spotify.com/track/0FXrF08gtaPJA85kzaplzq) | [Hayley Gene Penner](https://open.spotify.com/artist/1ytHo44bNtIESiArfclJPe) | [Everything is Fine](https://open.spotify.com/album/5aJzcpDenTBL3HloJ84ckJ) | 4:06 |
 | 100 | [Don't Care](https://open.spotify.com/track/7Dr9Rk7F9dJUHN3GnPfRax) | [Jenna Bennett](https://open.spotify.com/artist/01F4laId5DDuQ2UdV9ihcC) | [Don't Care](https://open.spotify.com/album/7wD8pv570eEtfdSrYJbLI2) | 2:56 |
 
-Snapshot ID: `MCw5NmI2YTkwYjFmNWQ2ZTdjMGRiMzVjYTM5ZDVlYTA4MzY5NmQ2NjY2`
+Snapshot ID: `MCxiNDkwMWZhM2YxZGMzMDIyMjMyNzA3NjRiYzliNzg0NzBlYjQ2NDY5`

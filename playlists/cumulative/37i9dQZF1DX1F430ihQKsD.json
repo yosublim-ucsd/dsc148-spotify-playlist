@@ -5954,10 +5954,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 181030,
       "name": "Rendez-vous",
       "url": "https://open.spotify.com/track/5KYF2blNXgss2n0k04Fyzu"
+    },
+    {
+      "album": {
+        "name": "Gazoline III (Deluxe)",
+        "url": "https://open.spotify.com/album/4uTqrqLcH4OABXRQGappdF"
+      },
+      "artists": [
+        {
+          "name": "Gazoline",
+          "url": "https://open.spotify.com/artist/0jmQKrs8Mir77PffQBo0Jt"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181030,
+      "name": "Rendez-vous",
+      "url": "https://open.spotify.com/track/7GnSDCNpVIE9gJGWYow58K"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 
 > The warm sound and the cozy mood of classic Jazz\. A soundtrack in the background for relaxing, dinner or focus\. Cover: Hank Mobley
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,220 likes - 125 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,591 likes - 125 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 | 124 | [If I Had You](https://open.spotify.com/track/4iNPS4Z7MxtOSOv8zU7ePl) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [New York Jazz](https://open.spotify.com/album/5iQMDqjUmF9ZY1sLsK5Vmm) | 6:16 |
 | 125 | [I Concentrate On You](https://open.spotify.com/track/3NgTr2ajVlWGTUrSUiHq6J) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Steppin'Out: Astaire Sings](https://open.spotify.com/album/2y3qfwH8IhIcWeRFBFArD6) | 2:47 |
 
-Snapshot ID: `MCw2YjJlYWNlMzAzYzRjMzM4YTUxOThiZWFlZWEzN2YwM2Y5M2JmMzll`
+Snapshot ID: `MCw5NzE3MGQ2MTk2MTAyMTUxNjcxNGMwMDdjNTJjNTQyOWZlNzgyMjc1`

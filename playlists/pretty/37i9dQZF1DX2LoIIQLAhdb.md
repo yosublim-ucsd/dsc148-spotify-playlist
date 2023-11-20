@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Nej
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,939 likes - 39 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,012 likes - 39 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 38 | [Garde Le](https://open.spotify.com/track/7g8S3AlcYYrUuXjUt0q292) | [Lossa2Squa](https://open.spotify.com/artist/0DhhGFA0yxKhk7wrnzdbbK), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5) | [Garde Le](https://open.spotify.com/album/1juOthaPbiYisCAAi4sJsv) | 3:23 |
 | 39 | [RALENTIS](https://open.spotify.com/track/2czrgYc5DCObCgvuxboSx8) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [RALENTIS](https://open.spotify.com/album/3oRMxvh84xIQUVJJxyDqQM) | 2:12 |
 
-Snapshot ID: `MCwxZmY5NWQ0M2MzMWM3ZGJmYTI5YzM5ZDRkNmIwYzU1NjZjMzg0NTI1`
+Snapshot ID: `MCxlYTc3OGY3YmFhZjY5MjI3MjE4OTIyNTBmMDg5ZGVhMzE4ODc2ZjNh`

@@ -4,7 +4,7 @@
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-267 songs - 14 hr 37 min
+268 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,8 @@
 | [Rough Kids](https://open.spotify.com/track/5jRDGBWqxIQJ3jTE5kxwWO) | [Kilburn & The High Roads](https://open.spotify.com/artist/3I97dteSoWkFBMy7C2TGSH) | [Handsome \(Bonus Track Edition\)](https://open.spotify.com/album/1IFkPHKS3pUgGJYPfzzqLv) | 2:26 | 2015-07-23 | 2022-07-29 |
 | [Rough Kids](https://open.spotify.com/track/6YFEfaiIMGFAJsJHbLSLUF) | [Kilburn & The High Roads](https://open.spotify.com/artist/3I97dteSoWkFBMy7C2TGSH) | [Handsome \(Bonus Track Edition\)](https://open.spotify.com/album/3UB63Gv6n5Aj5keynEbLCv) | 2:26 | 2015-07-23 | 2023-11-04 |
 | [Rumble](https://open.spotify.com/track/0pxThPQcINQ8bBGFGYMwAD) | [Link Wray](https://open.spotify.com/artist/2vQavlZtDA660mnZotYIto) | [Rockabilly Insanity](https://open.spotify.com/album/5cZvrLii3UfiNn7UYgVJtL) | 2:24 | 2015-07-23 | 2022-07-29 |
-| [Rumble](https://open.spotify.com/track/5W45ACJYATjWEwUDYM5TDi) | [Link Wray & The Wraymen](https://open.spotify.com/artist/6PnWx4EpoWejrFQfrg06hU) | [Rumble / The Swag](https://open.spotify.com/album/70hzJHg6pWndTe9lm4SZVB) | 2:27 | 2015-07-23 |  |
+| [Rumble](https://open.spotify.com/track/3BdoWtWx0tuYgJziTESrjP) | [Link Wray & The Wraymen](https://open.spotify.com/artist/6PnWx4EpoWejrFQfrg06hU) | [Rumble / The Swag](https://open.spotify.com/album/72BkQUvWYk5ykUeKqplwFE) | 2:27 | 2015-07-23 |  |
+| [Rumble](https://open.spotify.com/track/5W45ACJYATjWEwUDYM5TDi) | [Link Wray & The Wraymen](https://open.spotify.com/artist/6PnWx4EpoWejrFQfrg06hU) | [Rumble / The Swag](https://open.spotify.com/album/70hzJHg6pWndTe9lm4SZVB) | 2:27 | 2015-07-23 | 2023-11-20 |
 | [Search & Destroy](https://open.spotify.com/track/3X9fXH0FzBloyaUkz5qr0C) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Nude & Rude: The Best Of Iggy](https://open.spotify.com/album/6akbXeeYHLDS4DpP7IVJ67) | 3:26 | 2015-07-23 |  |
 | [Search And Destroy](https://open.spotify.com/track/14JJisJPl27K4OE2zeRqgX) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [The Life Aquatic With Steve Zissou](https://open.spotify.com/album/05mpXOy7NNlc3oGqNathD6) | 3:27 | 2015-07-23 | 2022-07-29 |
 | [Search And Destroy](https://open.spotify.com/track/7bebHZwpRnV1r2CDsuApgD) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [A Million In Prizes: Iggy Pop Anthology \(Edited Version\)](https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg) | 3:29 | 2015-07-23 | 2023-04-30 |

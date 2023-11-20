@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 
 > Instrumental selections from the South Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,178 likes - 75 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,201 likes - 75 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 74 | [Chinnanchiru Kiliye](https://open.spotify.com/track/3MgaXk7yPkjmM1FtzuINjk) | [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [Amazing Veena](https://open.spotify.com/album/3su37Cc76cLB5hIQgkDk1d) | 9:48 |
 | 75 | [Bho Shambho \- Instrumental](https://open.spotify.com/track/1sRAThKJTFHB5YOKdvzUtC) | [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [Soul of South India 2 \- Instrumentals of the Greatest Traditional Melodies](https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy) | 6:02 |
 
-Snapshot ID: `MCxlNWY4MTkxMTRhMjZjZWE1OTFlODgyMjMyODMwMTRkNTVjZWJmZmE0`
+Snapshot ID: `MCwwYjJmYTZhYmVhMzg3MzIyMTljMzc4NGY2ZTljYWU0MThiY2Q1YzRk`

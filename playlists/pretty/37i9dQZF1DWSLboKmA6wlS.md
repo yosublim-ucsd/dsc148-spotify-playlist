@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: All BRIQ\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,815 likes - 90 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,823 likes - 90 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 89 | [Marry & After](https://open.spotify.com/track/4ucvVghB7qtNjaz2b0ig5U) | [Because Animal](https://open.spotify.com/artist/1x968XvHlC4EMwk6qV5cdR) | [Marry & After](https://open.spotify.com/album/3UJyr5Lc8jallseQVHkHaO) | 3:22 |
 | 90 | [เผลอ \(UNSPEAKABLE\)](https://open.spotify.com/track/15X2gRDf5Cml4rdjN2sYrl) | [WATAN\-U](https://open.spotify.com/artist/50uEFKn0N4sbHWzwssHpiG) | [เผลอ \(UNSPEAKABLE\)](https://open.spotify.com/album/5lifa9r6OS1UumVcHGd9Qd) | 4:30 |
 
-Snapshot ID: `MCxjZTZjZWM1NmU1NGU5ZGMyMDQ4MjQ5YmI5YzdmYjdhZWQ5M2ZmMDc1`
+Snapshot ID: `MCxhMmIxZWVlMmFlMmU4NmVhZmFjZWJlM2VhMzU2MzgyYWY0NjliOGI0`

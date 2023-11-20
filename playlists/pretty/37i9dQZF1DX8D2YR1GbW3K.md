@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,603 likes - 125 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,711 likes - 125 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 124 | [Bird Machine](https://open.spotify.com/track/2BKawKIR2ZBMX4DLK6oB0c) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Alesia](https://open.spotify.com/artist/5Jq7xVix3aUHQFQ5vNUgBu) | [Bird Machine](https://open.spotify.com/album/7rwgBVIsIyUSYpcQbcGrsG) | 3:18 |
 | 125 | [Last Chance](https://open.spotify.com/track/1ags60Iq9M0vFlvSLAOZE4) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Project 46](https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ) | [Atmosphere](https://open.spotify.com/album/6poiDDI8corGzWMXUechzZ) | 4:18 |
 
-Snapshot ID: `MCw0NDViNzcyZmI3ZWU4NGY5NjM0NjE2NzA0NDVkYmU0NDZlMTBmZDQ3`
+Snapshot ID: `MCw2YzI4ZTM0OWI3ZTlkMTI0MmNmN2MzODdmYmE0YWUxOGU1NDA1NTA2`

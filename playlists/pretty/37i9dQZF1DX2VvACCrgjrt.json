@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: Don Diablo & Scrufizzer",
-  "num_followers": 437262,
+  "num_followers": 437309,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzcyZTA0Nzk4MDVmMDE1YTgzMTMyYmUwZmJkMTI4MWU1YTlhZGUy",
+  "snapshot_id": "MCxmOTA3YmM4NDYzYzViZGExN2I0NTIyNzRlNTI1ZTkzZTE4ZmMyYmMz",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -32,17 +32,21 @@
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "RUMBLE IN THE DISCO",
-        "url": "https://open.spotify.com/album/7x1fU7Gduc0S1Wt8xQqleh"
+        "url": "https://open.spotify.com/album/2Lr7FMxj6BO7I4vKdyoqEd"
       },
       "artists": [
         {
           "name": "Kaleena Zanders",
           "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        },
+        {
+          "name": "Neon Steve",
+          "url": "https://open.spotify.com/artist/1CNO980Lk9CaBWBnM1MZXi"
         }
       ],
       "duration_ms": 219212,
       "name": "RUMBLE IN THE DISCO",
-      "url": "https://open.spotify.com/track/7KbzRcrYVvQDI8fWOPDPMB"
+      "url": "https://open.spotify.com/track/3WF2mMA1gBkSRnucT9Qm23"
     },
     {
       "added_at": "2023-11-03 04:00:00",

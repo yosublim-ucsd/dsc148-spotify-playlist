@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : So La Lune
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,430 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,460 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 37 | [HARMONIE](https://open.spotify.com/track/6nCjnp6Y2XMfwnK8EiT1ee) | [SLØW](https://open.spotify.com/artist/6jPpTPMBhULm8sukMmyrTW) | [HARMONIE](https://open.spotify.com/album/61Y7Va9YVIgzniecyIXVVp) | 2:49 |
 | 38 | [Vide](https://open.spotify.com/track/20jeEnFijJd4tRAtcww0tl) | [Sicario](https://open.spotify.com/artist/0ajjnGmVt2aVGD70lDbVl6) | [Vide](https://open.spotify.com/album/5j0mtAW5OGpVv7vO7MfEOF) | 3:18 |
 | 39 | [MAL](https://open.spotify.com/track/1kaCrC3OD8nZF1MLKik7Td) | [Chat noir](https://open.spotify.com/artist/7ikmRMoCZRg3DNAzG0tAN8) | [MAL](https://open.spotify.com/album/37z6z2yjoIDEDBezztDN3G) | 3:54 |
-| 40 | [VAGUE](https://open.spotify.com/track/71wy1MM9Cfm2Bs9borXIcg) | [GEAVN](https://open.spotify.com/artist/1wRjJI80Z1xUT2aFdn7aru) | [VAGUE](https://open.spotify.com/album/7qlUM9axBnj7b2hTsIeLwa) | 3:07 |
+| 40 | [VAGUE](https://open.spotify.com/track/4zTbR7badAt5Xxj2I8Wo5J) | [GEAVN](https://open.spotify.com/artist/1wRjJI80Z1xUT2aFdn7aru) | [CYNE](https://open.spotify.com/album/13nrCbkuJantG09mJDcikJ) | 3:07 |
 
-Snapshot ID: `MCw4MzlkMzBiZDBiOWI3ODU5NjBiNTFjYmI3M2QxNzEwMWY1MDdhNmNm`
+Snapshot ID: `MCw5Nzg3ZWNjNjIxYjc5MjRkMDNjMmY5OWI2MjYxNTViMjUwZGVmNjg4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 
 > La playlist survitaminée !
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,158 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,389 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 | 49 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 |
 | 50 | [A Thousand Miles](https://open.spotify.com/track/2KI7EiN7PScxiMnkoy2Ljy) | [TimeMachine1985](https://open.spotify.com/artist/2XgfAq6E80cypDmNZ5JXGv), [Beea](https://open.spotify.com/artist/4LLMdJ0ZadFH4PzIdVlrws) | [A Thousand Miles](https://open.spotify.com/album/3wG7wRynmcVriqvBDEkSk4) | 4:26 |
 
-Snapshot ID: `MCw4NThhODIxYTVmNGYwNzc4OTE3MWUzYjVjODJhZjU4NjAwZjJhNzE4`
+Snapshot ID: `MCw0YzcxY2Y5NGMwNDRjNWRlZjE2NjExNGIwY2JiN2FkYjczZmI3MTc4`

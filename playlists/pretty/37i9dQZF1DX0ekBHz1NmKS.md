@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > En samling av de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,301 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,298 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 99 | [Dawn](https://open.spotify.com/track/4ilrp6PdG89jBXDJlBmfvq) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Dawn](https://open.spotify.com/album/6NK2HrpCmzxrMUniKoFhUR) | 3:37 |
 | 100 | [If you wanna](https://open.spotify.com/track/68Qmy9oN1WZ0ytvKNlKPaE) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [If you wanna](https://open.spotify.com/album/5KHjG4kPN8WwTYWae6sQ8n) | 3:09 |
 
-Snapshot ID: `MCwzYWY5NmYxZmU0ZjFjMWNhYzg3MGM3ZGE2Y2YwYTZiNmNiNTU4MjQ0`
+Snapshot ID: `MCw5MDg2NjdlZGYzMGYwNDY0Mjc5NTE5ZWEwODUzYWU0YjU0MDI3ZTY3`

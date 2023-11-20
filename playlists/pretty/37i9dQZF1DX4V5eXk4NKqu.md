@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best Latin Indie tracks of today, featuring Divino Niño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,879 likes - 74 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,894 likes - 74 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 73 | [Figuras](https://open.spotify.com/track/1zJkQGqGV18m02keJa2X7n) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Figuras](https://open.spotify.com/album/5cH7GXKeC0mUJWy62BIxMH) | 2:59 |
 | 74 | [DARK CLOUDS](https://open.spotify.com/track/2DR4WqM6nPQu9WYZkfA3h4) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck), [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [DARK CLOUDS](https://open.spotify.com/album/24TvL2gRe3EGpHOQ36fjWz) | 3:08 |
 
-Snapshot ID: `MCwyNTAyMGM5NjNiM2RhMmYwMDQ3NjUwN2RjNDRlNjllODRlMTFkMjM0`
+Snapshot ID: `MCxjMDU4MDgyZjMxNzQ5ODM5NjVkODFmNDRiMzk4NzA0NmNkODU2Yjlh`

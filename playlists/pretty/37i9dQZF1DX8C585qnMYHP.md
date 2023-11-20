@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new Experimental by independent artists and labels, with Marta Del Grandi on cover\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,583 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,824 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 87 | [A Black Moon Tide](https://open.spotify.com/track/5UkLcM1yFjeFBLUhwuKbkV) | [Field Lines Cartographer](https://open.spotify.com/artist/5DrN1ISL1mmX76CJe5CuZB) | [Phases of This and Other Moons](https://open.spotify.com/album/5UCezrK3RURbjVIpWUvxAD) | 3:44 |
 | 88 | [Reno](https://open.spotify.com/track/65i8qMn7gtqUu1cfKhCL6j) | [SEES00000](https://open.spotify.com/artist/6w3jNIUXSNbtWXNnAiBK45) | [Miracle\-Tech](https://open.spotify.com/album/0KfFMK9V0890u9O5qAsV3v) | 3:06 |
 | 89 | [If Yer Dreamin](https://open.spotify.com/track/7vCCMfYUSapBh426uTrChQ) | [Colin Miller](https://open.spotify.com/artist/0vRHLsgnZk64dSk4mKgpaw) | [If Yer Dreamin](https://open.spotify.com/album/3HyJilhL4GD8PugNhsRfiZ) | 3:02 |
-| 90 | [Já não consigo mais, mas vou continuar](https://open.spotify.com/track/7GUaRliFFYyWV2NuUPjsPh) | [Gil Dionísio](https://open.spotify.com/artist/1cNxusdvXFitPzzJOGolCn) | [Já não consigo mais, mas vou continuar](https://open.spotify.com/album/4QWDAjTZJu8sLj1WtFEH3f) | 5:54 |
-| 91 | [small circle](https://open.spotify.com/track/6IEZQrtG6Wm2hHweerVfKC) | [Jason Calhoun](https://open.spotify.com/artist/70RGuffxPE3qcjlvfeAaUy) | [small circle](https://open.spotify.com/album/21UMEdY1bi4yqimxA8VzSh) | 8:35 |
-| 92 | [FUTURA 2000](https://open.spotify.com/track/7taqxrAe5xltbEdeamlD0m) | [San Leo](https://open.spotify.com/artist/1g7G97GbkEAtBcEiMFVJdy) | [FUTURA 2000](https://open.spotify.com/album/1S6SYtisVAy2Nx4R4aLAPp) | 11:44 |
-| 93 | [Rhyolite](https://open.spotify.com/track/25BuQvUTwj33xcJqbOfKsx) | [blackbody\_radiation](https://open.spotify.com/artist/1KWb17jGSlqzn8wByXHTsQ) | [Ultra\-Materials](https://open.spotify.com/album/3WAbMZybs547PluyGB0pcX) | 15:16 |
-| 94 | [Coat of Arms](https://open.spotify.com/track/4stozFL4dSnWNakPG44z8P) | [Some Exercise](https://open.spotify.com/artist/6es4qGZzFYIjk75owf8rPt) | [Coat of Arms](https://open.spotify.com/album/24HBtg1ai9EOEWlTma2Rui) | 3:02 |
-| 95 | [W1 Sprokla](https://open.spotify.com/track/2D4zZ1OwJP2WjVbAj926bT) | [Index For Working Musik](https://open.spotify.com/artist/30pElb7BpcpII86h5dRpYK) | [W1 Sprokla](https://open.spotify.com/album/28dZkYCyUdUlNXrZEZdxp4) | 12:14 |
-| 96 | [A Fresh Soul](https://open.spotify.com/track/0eLwrkWrMU0OzJwJiEf4On) | [Luca Nieri](https://open.spotify.com/artist/4Wq9oYkkB8oK6CUSYLSNCC) | [The Sorcerer & The Demon](https://open.spotify.com/album/7lXMEWlnHRbUsfXr9kJZua) | 1:57 |
-| 97 | [Skies Through Windows](https://open.spotify.com/track/56LihTPV6Q2hpUAP8crn25) | [P.E.](https://open.spotify.com/artist/6vDz2Cxho567iMF53qsw2Q) | [Nope Tapes Vol\. 3](https://open.spotify.com/album/0IZwE8rVXaYsMFAZn5gs0F) | 3:07 |
-| 98 | [Gloworm](https://open.spotify.com/track/3rfon8g6edGAA0pNcsXOQV) | [Talik](https://open.spotify.com/artist/4cmy7XSN6YNnPZyQu7hJHz) | [Firefly](https://open.spotify.com/album/696t6KSfRJzMELbpHvKEaX) | 4:20 |
-| 99 | [Incubator](https://open.spotify.com/track/4yV0SSifaLWmDDiCLAewH1) | [UNCIVILIZED GIRLS MEMORY](https://open.spotify.com/artist/01UvG1nVdhGv3bF6VVIT2H) | [HEAVEN](https://open.spotify.com/album/4c9WLUSIr93MPolYtdeGdK) | 1:15 |
+| 90 | [small circle](https://open.spotify.com/track/6IEZQrtG6Wm2hHweerVfKC) | [Jason Calhoun](https://open.spotify.com/artist/70RGuffxPE3qcjlvfeAaUy) | [small circle](https://open.spotify.com/album/21UMEdY1bi4yqimxA8VzSh) | 8:35 |
+| 91 | [FUTURA 2000](https://open.spotify.com/track/7taqxrAe5xltbEdeamlD0m) | [San Leo](https://open.spotify.com/artist/1g7G97GbkEAtBcEiMFVJdy) | [FUTURA 2000](https://open.spotify.com/album/1S6SYtisVAy2Nx4R4aLAPp) | 11:44 |
+| 92 | [Rhyolite](https://open.spotify.com/track/25BuQvUTwj33xcJqbOfKsx) | [blackbody\_radiation](https://open.spotify.com/artist/1KWb17jGSlqzn8wByXHTsQ) | [Ultra\-Materials](https://open.spotify.com/album/3WAbMZybs547PluyGB0pcX) | 15:16 |
+| 93 | [Coat of Arms](https://open.spotify.com/track/4stozFL4dSnWNakPG44z8P) | [Some Exercise](https://open.spotify.com/artist/6es4qGZzFYIjk75owf8rPt) | [Coat of Arms](https://open.spotify.com/album/24HBtg1ai9EOEWlTma2Rui) | 3:02 |
+| 94 | [W1 Sprokla](https://open.spotify.com/track/2D4zZ1OwJP2WjVbAj926bT) | [Index For Working Musik](https://open.spotify.com/artist/30pElb7BpcpII86h5dRpYK) | [W1 Sprokla](https://open.spotify.com/album/28dZkYCyUdUlNXrZEZdxp4) | 12:14 |
+| 95 | [A Fresh Soul](https://open.spotify.com/track/0eLwrkWrMU0OzJwJiEf4On) | [Luca Nieri](https://open.spotify.com/artist/4Wq9oYkkB8oK6CUSYLSNCC) | [The Sorcerer & The Demon](https://open.spotify.com/album/7lXMEWlnHRbUsfXr9kJZua) | 1:57 |
+| 96 | [Skies Through Windows](https://open.spotify.com/track/56LihTPV6Q2hpUAP8crn25) | [P.E.](https://open.spotify.com/artist/6vDz2Cxho567iMF53qsw2Q) | [Nope Tapes Vol\. 3](https://open.spotify.com/album/0IZwE8rVXaYsMFAZn5gs0F) | 3:07 |
+| 97 | [Gloworm](https://open.spotify.com/track/3rfon8g6edGAA0pNcsXOQV) | [Talik](https://open.spotify.com/artist/4cmy7XSN6YNnPZyQu7hJHz) | [Firefly](https://open.spotify.com/album/696t6KSfRJzMELbpHvKEaX) | 4:20 |
+| 98 | [Incubator](https://open.spotify.com/track/4yV0SSifaLWmDDiCLAewH1) | [UNCIVILIZED GIRLS MEMORY](https://open.spotify.com/artist/01UvG1nVdhGv3bF6VVIT2H) | [HEAVEN](https://open.spotify.com/album/4c9WLUSIr93MPolYtdeGdK) | 1:15 |
+| 99 | [Já não consigo mais, mas vou continuar](https://open.spotify.com/track/7KYswH2kUpHwYo81gatUsJ) | [Gil Dionísio](https://open.spotify.com/artist/1cNxusdvXFitPzzJOGolCn) | [Já não consigo mais, mas vou continuar](https://open.spotify.com/album/6G7f7Qxs5DgFxNipIjZ6hZ) | 5:54 |
 | 100 | [Assim](https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX) | [Xexa](https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8) | [Vibrações de Prata](https://open.spotify.com/album/2JIG0FQTzPK42gw78K2Cuj) | 2:08 |
 
-Snapshot ID: `MCwxMjMwMjFmZjE5NTVmNzE1OWNhZTg2MDYxZGFhYjA1ODE4YTM0ODA4`
+Snapshot ID: `MCw0MDgzMTRlM2E3ZDhkNzBmZGQyNzU4ZjIyYTc0OGFiM2RlODQzZGYx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 
 > indie tunes to make you shine bby :\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,737 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,753 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 99 | [CLEAN BABY](https://open.spotify.com/track/2enQxKJL5ZTGoU3U8ri85A) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [CLEAN BABY](https://open.spotify.com/album/5VzoByWr9exzILjqYGPS2F) | 3:04 |
 | 100 | [Nada va a quedar](https://open.spotify.com/track/7JSuVdzogccF5zuudGEZAo) | [Jorge Prada](https://open.spotify.com/artist/7MNJy93yO4MA7MWAzfAMGo) | [Nada va a quedar](https://open.spotify.com/album/64zQT3GwCnWEDzvkVBRFaF) | 2:43 |
 
-Snapshot ID: `MCwxYTQ2ZWNjOGUwZWEwYzUyZDUxZGMzMDEyYjg5YTVmMmQyNWFmMjli`
+Snapshot ID: `MCw4YTg4OWE0MWJkNzgxOTA4MjdmM2UzOTRmZTkwZmNlNzgyODI4MGQ1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Westside Gunn
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,617,872 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,617,881 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Dead Men \(feat\. Cozz\)](https://open.spotify.com/track/6yy0W5bgERNnQ5diS20fdT) | [408 Darwin](https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS), [Cozz](https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq) | [Dead Men \(feat\. Cozz\)](https://open.spotify.com/album/5kwKgot9Kn11YSbiuWJr7O) | 2:51 |
 | 50 | [FromTheProjects \(feat\. Raekwon & Westside Gunn\)](https://open.spotify.com/track/5BKde6HGrLmsGCOIwYwhwY) | [Nappyhigh](https://open.spotify.com/artist/4MnQuPFIfAFg50h0RmnH0q), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [FromTheProjects \(feat\. Raekwon & Westside Gunn\)](https://open.spotify.com/album/1gBwiVRUudP3d2z5ti1oUB) | 2:35 |
 
-Snapshot ID: `MCw0NmEyMzA5ZjgwNGUzYzUzNWU4YzM1N2E4ODI5ZWZhYjcyYjg1NTgy`
+Snapshot ID: `MCwyOGJhMTU4MzI0ODBlOTZlMTc4ZjBiMzM5ZGNhNjhkOTkyYWNjMTk1`

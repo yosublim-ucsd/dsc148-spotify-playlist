@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 208027,
       "name": "APUESTA A MI",
       "url": "https://open.spotify.com/track/2tNizYPgEjcOkhBVdNL7js"
@@ -1966,7 +1966,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-19",
+      "date_removed": null,
       "duration_ms": 240773,
       "name": "BABY NUEVA",
       "url": "https://open.spotify.com/track/3NhstUmrlhaN1M6hP8zMbb"
@@ -2764,7 +2764,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 134565,
       "name": "Boy Boy",
       "url": "https://open.spotify.com/track/1eK3kCQnzPvNgvDRy5QP1B"
@@ -3190,7 +3190,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 185002,
       "name": "Can't You See",
       "url": "https://open.spotify.com/track/1ixxJ2bVeIpDs2hiQTCVSf"
@@ -3605,6 +3605,28 @@
     },
     {
       "album": {
+        "name": "Cintureo",
+        "url": "https://open.spotify.com/album/3ZzCBNa2ksMJDZOJKEzQou"
+      },
+      "artists": [
+        {
+          "name": "Yoan Retro",
+          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
+        },
+        {
+          "name": "GMBeats Degranalo",
+          "url": "https://open.spotify.com/artist/3mz31fCuwqJDQoKGN3sbnT"
+        }
+      ],
+      "date_added": "2023-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133320,
+      "name": "Cintureo",
+      "url": "https://open.spotify.com/track/0cH82MNBlCegnf1x1FCQiy"
+    },
+    {
+      "album": {
         "name": "F\u00f3rmula, Vol. 3",
         "url": "https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF"
       },
@@ -3912,7 +3934,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 167704,
       "name": "COMUN BURRO",
       "url": "https://open.spotify.com/track/28uYbgFyj0zAEbP6Zw3nM9"
@@ -4936,7 +4958,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 212052,
       "name": "DELETE",
       "url": "https://open.spotify.com/track/4vUjkdHefbN7Qh1cMcDqZU"
@@ -5950,7 +5972,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 192088,
       "name": "DYTA MAY",
       "url": "https://open.spotify.com/track/6HbB6lZUsVqy3ecSga9DFv"
@@ -6458,7 +6480,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 200991,
       "name": "EL SAFARI Y LOS TETEOS",
       "url": "https://open.spotify.com/track/429y9OPVAhl9j2uE89RKB8"
@@ -6638,7 +6660,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 147457,
       "name": "Empaquetate",
       "url": "https://open.spotify.com/track/2FrcdIdoHSyzdgPcAoOEEC"
@@ -7670,7 +7692,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 132294,
       "name": "Fruto",
       "url": "https://open.spotify.com/track/4SW9gHnW8NfKOdqmh0ij45"
@@ -8060,7 +8082,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-13",
+      "date_removed": null,
       "duration_ms": 133694,
       "name": "Gently (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn"
@@ -12199,6 +12221,36 @@
     },
     {
       "album": {
+        "name": "LULU",
+        "url": "https://open.spotify.com/album/2jk8TDQlMVysAsWCwcrqVK"
+      },
+      "artists": [
+        {
+          "name": "Axel Rulay",
+          "url": "https://open.spotify.com/artist/7ur9H6w9OqIgWrmM2GUWuB"
+        },
+        {
+          "name": "Anyelo RR",
+          "url": "https://open.spotify.com/artist/3xD2FQOK8YcrA29XOVyiXq"
+        },
+        {
+          "name": "Coyote 63",
+          "url": "https://open.spotify.com/artist/3FFfUMK7ZibxUKyQpskQEk"
+        },
+        {
+          "name": "El Brujo Music",
+          "url": "https://open.spotify.com/artist/5JllvYA7TPBuBQWf1cr0WH"
+        }
+      ],
+      "date_added": "2023-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141156,
+      "name": "LULU",
+      "url": "https://open.spotify.com/track/5sGFcC2dQW7FORK1FmTlUY"
+    },
+    {
+      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
@@ -12734,7 +12786,7 @@
       ],
       "date_added": "2023-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 203571,
       "name": "MARTILLANDO",
       "url": "https://open.spotify.com/track/48WbCnK49oFqQenp9nyI1V"
@@ -15202,7 +15254,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 128571,
       "name": "Onana",
       "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
@@ -16680,7 +16732,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 221739,
       "name": "PLEBADA",
       "url": "https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb"
@@ -17486,7 +17538,7 @@
       ],
       "date_added": "2023-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 241015,
       "name": "QUE LA LAMBAN",
       "url": "https://open.spotify.com/track/221BaN2HQElluqdLxMGFTl"
@@ -22446,7 +22498,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-19",
+      "date_removed": null,
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/2yzshFeBIwH8tWIqHEFLeD"
@@ -23530,7 +23582,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-15",
+      "date_removed": null,
       "duration_ms": 216148,
       "name": "Yandel 150",
       "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
@@ -23756,7 +23808,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 199887,
       "name": "YOU THE VIBE",
       "url": "https://open.spotify.com/track/4PFDWganGuWDjkTe5W5Cfw"

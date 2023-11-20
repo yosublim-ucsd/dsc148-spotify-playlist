@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-300 songs - 1 day 3 hr 45 min
+301 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [It's Easy to Remember](https://open.spotify.com/track/44swRdyN58zo6GzdRtHcub) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Piero Odorici](https://open.spotify.com/artist/5rECEZfFS5a06goUq2vL1c), [Nicola Barbon](https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL), [Alessandro Buzzi](https://open.spotify.com/artist/6qOSfEAYQemTcpVwnyLKAu), [Davide Palladin](https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z) | [Ballads](https://open.spotify.com/album/1gqjxM0wGTsEhA9GNCD1Gi) | 4:36 | 2022-08-25 |  |
 | [It's In The Middle Of The Night](https://open.spotify.com/track/7yRKzNvEQz9cngBQhjJp7L) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Jazz at Night](https://open.spotify.com/album/7cjqOoWOgTfdrmTeUjvh4u) | 3:39 | 2022-02-04 |  |
 | [It's You I Like](https://open.spotify.com/track/78pcTFrKHHttuJedO00g8j) | [Mason Embry Trio](https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5) | [It's You I Like](https://open.spotify.com/album/0HndGWelRVWNQkdiPrhXna) | 4:46 | 2022-01-21 |  |
-| [Ithaka](https://open.spotify.com/track/3LT3gw0kVnRDM54FORz7av) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Ithaka](https://open.spotify.com/album/1Jo5HqiGeDbxi7IF6JIvD6) | 3:29 | 2023-09-08 |  |
+| [Ithaka](https://open.spotify.com/track/3LT3gw0kVnRDM54FORz7av) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Ithaka](https://open.spotify.com/album/1Jo5HqiGeDbxi7IF6JIvD6) | 3:29 | 2023-09-08 | 2023-11-20 |
+| [Ithaka](https://open.spotify.com/track/3QOH6LSk7A9roxTF39fG1M) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Everything I Love](https://open.spotify.com/album/6dXuEdo9u0rM102nuJcf4p) | 3:29 | 2023-11-15 |  |
 | [Jackie Gets Out](https://open.spotify.com/track/12zuJhwGaqJu8fvgBWqYuy) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv), [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Carl Allen](https://open.spotify.com/artist/44gLY8zUnF4xRzi4X0zl1n), [David Pulphus](https://open.spotify.com/artist/02amhnCtIA62SbXmNashjW) | [The Comedian \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1a1fkH8V57Wxm1cEVzRgxt) | 2:56 | 2020-10-09 |  |
 | [Journey Into Melody \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Look Out! \(Remastered\)](https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr) | 4:55 | 2020-10-09 |  |
 | [Ken](https://open.spotify.com/track/3oRRbrNXNLU21IYIcL0Ivb) | [Nathan Francis](https://open.spotify.com/artist/4dB51YWbPAWssQkEe9DiUc) | [Diamond Back](https://open.spotify.com/album/2IUmbx57mCwSRRO522EJ9A) | 6:19 | 2022-04-07 |  |

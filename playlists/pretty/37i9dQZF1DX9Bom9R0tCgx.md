@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 
 > All the stuff that will blow your speakers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,980 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,304 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 | 99 | [Stamp On The Ground](https://open.spotify.com/track/5QdWSor8wZmWyWWEOaJ4Fz) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Stamp On The Ground](https://open.spotify.com/album/2it6wVltq5zEsSf21OhnrV) | 2:16 |
 | 100 | [Insomnia \- Rework](https://open.spotify.com/track/6uRUfq1y0VayUjh2M935g7) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [Jack Holiday](https://open.spotify.com/artist/64yON9pK0j392YkionGKAF) | [Insomnia \(Rework\)](https://open.spotify.com/album/3O4Td8QTtXYMfbj8d4h7P6) | 3:00 |
 
-Snapshot ID: `MCxjMWQ2YmJkMjAwODdlNDIxNWVmZTc0YzA4NDA4MzgwNzY3ZjA0ZmYw`
+Snapshot ID: `MCw2OGQ1OTFlZDUwZDFiMDcwMWZjZjEyODRlMDEzYzBiNjNlODI3YTY3`

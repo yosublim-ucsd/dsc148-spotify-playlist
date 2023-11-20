@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > New music from Bleachers, Eyedress x The Marias, Beirut, Searows, Mitski and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,196,565 likes - 128 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,196,545 likes - 128 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 127 | [Bioluminescence](https://open.spotify.com/track/2Xm2BD8quy1r576X4L0MGT) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Bioluminescence](https://open.spotify.com/album/3ljdLdZzfpPaaz95B1xGG9) | 5:12 |
 | 128 | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD) | 3:54 |
 
-Snapshot ID: `MCw0YjAyYTBiZjI3OTYyZTA3ZDI2ZGIwMDYxZjUwODM2M2RmYWRjODU1`
+Snapshot ID: `MCw4YTFhZjY1NDJhYTA1NDU3ZDgzZGEwNmU4MThkMWQ4ZDYzZGZhZjlk`

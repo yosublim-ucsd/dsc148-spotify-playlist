@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: PEEKABOO
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,488 likes - 125 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,518 likes - 125 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 124 | [Solar Plexus](https://open.spotify.com/track/3cxiRmB1lT8GGrUup4E0w9) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP) | [Quorum EP](https://open.spotify.com/album/5wWG3D6UgzV13EFjSrOVjP) | 3:45 |
 | 125 | [Buckshots](https://open.spotify.com/track/7cl3BbyjU0AdCbbsf1lIx8) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Buckshots](https://open.spotify.com/album/4ZsDomkJqxfKQcH25O0XyK) | 4:11 |
 
-Snapshot ID: `MCwzZTBiNzQ5NDAyYTAzMWQxYmNlYjExZTVjZjBkOWU5OThhOGQwMzQ4`
+Snapshot ID: `MCxlZWZiMjRlZWQwODg0YzQwZGNhZDczMmU2ZGRlMjNlYzYzMWNhMzUz`

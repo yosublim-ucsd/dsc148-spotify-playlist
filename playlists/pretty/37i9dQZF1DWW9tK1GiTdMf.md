@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > 🩸 Emo, punk e rock 🇮🇹 e 🌎!  Cover: Olly
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,286 likes - 70 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,308 likes - 70 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 43 | [Fragile](https://open.spotify.com/track/0xEyFahNuXpr6uqUbk7J9i) | [v!ktoria](https://open.spotify.com/artist/0YlDxvKNqn0DrXOYKdXkNu) | [Fragile](https://open.spotify.com/album/4uRqCATiaIVVRvqOFeUede) | 2:34 |
 | 44 | [MORIREI X TE](https://open.spotify.com/track/4eXmZnmkO7DSqNkmYcPRUk) | [$uicide Gvng](https://open.spotify.com/artist/08sHWmBiGMbrPSWDco4zfb), [xRick](https://open.spotify.com/artist/4P2y5Q6AP6IvvT7zKLAvwb) | [MORIREI X TE](https://open.spotify.com/album/143QZ5WxJJlcw6xLx6zSCl) | 2:52 |
 | 45 | [Manic pixie](https://open.spotify.com/track/3Xk9HrsLiKGut8pC78wl6Z) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [Manic pixie](https://open.spotify.com/album/6BeJS7jLKuhcfncw0FHFo7) | 2:50 |
-| 46 | [COME ME](https://open.spotify.com/track/3JCTbCFttaFBNSUKep3Dph) | [Dirt O'Malley](https://open.spotify.com/artist/6GOd216z5d8f7QrJFermCv) | [COME ME](https://open.spotify.com/album/4Ax6Ay5VpKRdTSYKwNVKHD) | 2:41 |
+| 46 | [Come me](https://open.spotify.com/track/3JCTbCFttaFBNSUKep3Dph) | [Dirt O'Malley](https://open.spotify.com/artist/6GOd216z5d8f7QrJFermCv) | [Come me](https://open.spotify.com/album/4Ax6Ay5VpKRdTSYKwNVKHD) | 2:41 |
 | 47 | [chiaroscuro](https://open.spotify.com/track/0RfrHDSuwVNXeTz2Epoq8J) | [Foreverboymush](https://open.spotify.com/artist/7tkxzgoJwU4tMdyMSPxkxE), [Saint Abel](https://open.spotify.com/artist/6xCih2NWSmPw4o1MJ1qnIt), [Moskova Div](https://open.spotify.com/artist/0s7lgcaJpldccLW8kD7Xkk) | [chiaroscuro](https://open.spotify.com/album/6IF0K41GIEmHd6zx3DYuH7) | 3:38 |
 | 48 | [IPHONE](https://open.spotify.com/track/5xgTrOQxWmQUrJTIkan8fQ) | [Yans](https://open.spotify.com/artist/0JMlv0THvYWc44fizfiVCX), [Fulgur](https://open.spotify.com/artist/3AgppFtvLifix2HTKhGDiC), [Kunai](https://open.spotify.com/artist/1meu0gJt7jU6ltCO5eYz1J), [K1B4](https://open.spotify.com/artist/4NXJFLNTLb9463UIYXavoO) | [IPHONE](https://open.spotify.com/album/23THtKuepypePlGdEbsTXG) | 3:03 |
 | 49 | [69](https://open.spotify.com/track/4oZ7n9pPCG943SCWYhHfOI) | [GIUMO](https://open.spotify.com/artist/661Jg7Cu9OBrUqG076gN90), [Tanca](https://open.spotify.com/artist/2HDuNOhm4h9glYn2F7rAFP) | [69](https://open.spotify.com/album/2BCFjN4rmQaYEtZnNxSjX0) | 3:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 69 | [leave me for dead](https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [leave me for dead](https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO) | 2:56 |
 | 70 | [BOYFRIEND](https://open.spotify.com/track/0Gz8JS4mdWf67lqbslmWZr) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch), [IN6N](https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE), [yuks](https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd) | [BOYFRIEND](https://open.spotify.com/album/37QXWJp84QyTbjhaL2izYD) | 2:01 |
 
-Snapshot ID: `MCxlYjk5MjM3ZjhiODg5ZTUwOTZmMjVlMmRhMjQ5NmEzNjhkODI5YmJh`
+Snapshot ID: `MCw4MDI4ODc3N2NkYmFhZTQzOWFiOTlkNmVlNzA4NjY3ZGI1ODJmNjc2`

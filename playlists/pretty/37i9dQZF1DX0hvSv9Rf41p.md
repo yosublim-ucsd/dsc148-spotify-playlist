@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with NGHTMRE, Rezz & DeathbyRomy
 
-[Spotify](https://open.spotify.com/user/spotify) - 976,800 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 976,813 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 99 | [Die With It](https://open.spotify.com/track/3ZDuop6M6asvg8zae32PVz) | [Azide](https://open.spotify.com/artist/0jZCd5FFBIaaiXlIJX6I9h), [J Swey](https://open.spotify.com/artist/7qF6NAMsPdmVz0o8n5v1Ht) | [Die With It](https://open.spotify.com/album/6uwEBRSWF2VwW6SUmGnhpW) | 2:19 |
 | 100 | [Machine](https://open.spotify.com/track/4yDWW2wokaaPrFBAE1qUAx) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [MACHINE](https://open.spotify.com/album/34ZXvS2vUviORekLOh9qPA) | 2:48 |
 
-Snapshot ID: `MCw1ZDFjNzBhMWZlNWI3MjIwOWMxNDVjODNhZDY2ZTA5MTRiMzExZGNm`
+Snapshot ID: `MCwwYmM2MzU0ZmFlMDlhMzVhNzJiOWJmNzVhZDI2YjhlZGYxMmE5NTE1`

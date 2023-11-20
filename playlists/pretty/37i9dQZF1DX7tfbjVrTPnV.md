@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Lori McKenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,030 likes - 150 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,089 likes - 150 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 149 | [Dusty Old Man](https://open.spotify.com/track/73TqDe29PdDaqW0ftPLFvA) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Stitch of the World](https://open.spotify.com/album/3COhbKE23L3W24wLnLQToD) | 3:47 |
 | 150 | [Who Do Call the Shots](https://open.spotify.com/track/3bSeVNB5IgXBo0KyjsQ88O) | [Ray Bonneville](https://open.spotify.com/artist/68WRQYQZC7SO79PC8eXvfd) | [Easy Gone](https://open.spotify.com/album/2RbzfkQVmXTeWF4L3GdqGl) | 3:56 |
 
-Snapshot ID: `MCw5MzI3MDRmOWQ5OTM1ZjU4MGVjMDAyOGE1NjNmNDM1ZGI2ODA5NWJl`
+Snapshot ID: `MCwzZmM1NWRiYmVlYzE0YjRmOGQwZmI4NDVhNTAwYjA2MTAwZGQzZTQx`

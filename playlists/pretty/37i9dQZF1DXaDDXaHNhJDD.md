@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Your ultimate playlist for the best in Mollywood!<br/>Cover: 2018
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,759 likes - 73 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,860 likes - 73 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 72 | [Olu](https://open.spotify.com/track/0LQe6U8PDXttOa3wIaV9fu) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Maniyarayile Ashokan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5VLiYXMe9513cSzlv1ttEI) | 3:43 |
 | 73 | [Malare](https://open.spotify.com/track/4Hvf9xIeJWp5p9FkJerQhN) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA), [Rajesh Murugesan](https://open.spotify.com/artist/0dbzsYBJZ4XZUcrgts3kWf) | [Premam](https://open.spotify.com/album/5gkkfFiedjuYeCM0v4IlZu) | 5:16 |
 
-Snapshot ID: `MCw0YWFkZDFlMzRjOWI5MmY4MzdlZmY5MmRiN2U5ZTdjODVlYWEzYmRj`
+Snapshot ID: `MCxhZTY2ZDE4OGIxYjAyNjE4ZGQ5MDdmMmNlY2UxYjYzYWVlN2QxZmMx`

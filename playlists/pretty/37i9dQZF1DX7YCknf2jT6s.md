@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: André 3000
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,946 likes - 100 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,261 likes - 100 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Groundhog Day](https://open.spotify.com/track/0GC0DyCot6CjE0ZfgLPkd4) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Passage](https://open.spotify.com/album/6pBPOLd5zU0AbHzGkUZm4z) | 5:07 |
 | 100 | [no one else has your magik!](https://open.spotify.com/track/0XPQ1MkUGm4pGQj3kx4exC) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [align with Nature's Intelligence](https://open.spotify.com/album/7KscLI0PccEmUo5GUm3DhO) | 5:46 |
 
-Snapshot ID: `MCw0MzM3YjIxZTkzMDllNDE4NWMzNzU0MGVmMTE3MWI4NjBlOTBlYjgx`
+Snapshot ID: `MCw4YTRiMGE4NzkyMDhjZTg3MjBlNzIzZjM3MDQzYWY2NDkyMTVmMTVh`

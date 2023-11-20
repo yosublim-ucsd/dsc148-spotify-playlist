@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,151 likes - 150 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,253 likes - 150 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 | 149 | [Jingle Bells](https://open.spotify.com/track/0P6xicvZnvVwRCPv3307HM) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Advent of Christmas](https://open.spotify.com/album/3hLsHSAlDv2bJFXKyf8Rjg) | 3:18 |
 | 150 | [All Things New \- Reimagined](https://open.spotify.com/track/7qrTWsRVx2ePwTpgZwnPbH) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [All Things New \(Reimagined\)](https://open.spotify.com/album/7ywhX9qqyfDb9ZUBx8JmoX) | 4:49 |
 
-Snapshot ID: `MCw2MjQ3MTJlNDA3ODQ4ZmE0M2EwOTJhM2RmMTcyZjU3ZjQ0Yjk5ODhi`
+Snapshot ID: `MCwwYzg1ODViNjNmMGUwMWU4OTNjOTU3ZGYzYmIxZmYzZGQ5MjlhMDZm`

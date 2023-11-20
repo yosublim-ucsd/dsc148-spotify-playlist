@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: LUDI
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,163 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,239 likes - 85 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 84 | [Plano B](https://open.spotify.com/track/4gjFM2XEKr0UnqwssxCVvm) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Acoustic Sessions, Vol\. 6](https://open.spotify.com/album/0RuvdzSlbLAd2NC4dbhF2z) | 2:45 |
 | 85 | [Sinal de Aviso](https://open.spotify.com/track/479amATgvjJZUzIlKy5WhP) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Sinal de Aviso](https://open.spotify.com/album/7MUhsx0IrsGZGsd3pv2zI4) | 3:15 |
 
-Snapshot ID: `MCxlZjRkMGZhYWE4MjZkYTg1MzA4ZjU3Mjk1ZjYyM2FhMTEzMzdmOWQ4`
+Snapshot ID: `MCw5YzgwMTQzYmMwNTZlNWQzYTc2OTMxN2JkYTMyM2E5ZGViZGMwYjdl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 
 > The best instrumental versions of the american songbook classics\. Cover: Stan Getz
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,088 likes - 125 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,162 likes - 125 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 124 | [On Green Dolphin Street](https://open.spotify.com/track/6L5j2kAUmq3GEt66Kfiivl) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [On Impulse!](https://open.spotify.com/album/1QHTwOtiS78NqqP0AkXPsw) | 7:07 |
 | 125 | [My Romance \(take 2\) \- Alternate Take](https://open.spotify.com/track/4Ui4x5HkS80awaZRdjdGXd) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \(Original Jazz Classics Remaster 2010\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 7:12 |
 
-Snapshot ID: `MCxkZmE5MDY3MWEzYjNjY2I0ZTY3NTUyMGUyNWRiMzkxY2M0ODRiMDc2`
+Snapshot ID: `MCw4M2FmODMwNTc5NzA3OTYwMDcyNjNjYTEzZjA2M2E1OWEyMGIwMTEz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 
 > Mellow songs from the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,195 likes - 150 songs - 11 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,689 likes - 150 songs - 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 | 149 | [Ebony And Ivory \- Remixed 2015](https://open.spotify.com/track/3fVSMbeq8tY3G85yxcJwRU) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Tug Of War](https://open.spotify.com/album/5g5wxDWLoyR1wyPjGTiD7n) | 3:46 |
 | 150 | [Hello](https://open.spotify.com/track/0mHyWYXmmCB9iQyK18m3FQ) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/3alZBOvPaK3hgMEEymw4Yr) | 4:11 |
 
-Snapshot ID: `MCxlZWI0YTcxODE5ODVmNGU1NWRlYmUzNjQ0Y2JjNTJlZGFkMWNhZDU1`
+Snapshot ID: `MCxmMTdjNjE4ZmQ3YTNlYzJkZDE1YjA3N2FlNjc2ZTk0ODE0NTczMjZl`

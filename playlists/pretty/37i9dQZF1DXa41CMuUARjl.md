@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Shygirl.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,786 likes - 112 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,862 likes - 112 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 14 | [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 |
 | 15 | [Say No More \(feat\. Ellenor\)](https://open.spotify.com/track/4JbeTykkOPSKsFoqJLF4Iw) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Ellenor](https://open.spotify.com/artist/0REqgP6J3j3gr32k7dn4VF) | [Say No More \(feat\. Ellenor\)](https://open.spotify.com/album/2k5DUuBioR17x2FaMBvg8g) | 2:26 |
 | 16 | [Mess It Up \- Purple Disco Machine Remix](https://open.spotify.com/track/7wkTF8cHGCurrfNATqvJLc) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Mess It Up \(Purple Disco Machine Remix\)](https://open.spotify.com/album/0L6IypGWr61krz90boqPDD) | 3:35 |
-| 17 | [RUMBLE IN THE DISCO](https://open.spotify.com/track/7KbzRcrYVvQDI8fWOPDPMB) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [RUMBLE IN THE DISCO](https://open.spotify.com/album/7x1fU7Gduc0S1Wt8xQqleh) | 3:39 |
+| 17 | [RUMBLE IN THE DISCO](https://open.spotify.com/track/3WF2mMA1gBkSRnucT9Qm23) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Neon Steve](https://open.spotify.com/artist/1CNO980Lk9CaBWBnM1MZXi) | [RUMBLE IN THE DISCO](https://open.spotify.com/album/2Lr7FMxj6BO7I4vKdyoqEd) | 3:39 |
 | 18 | [Sensation](https://open.spotify.com/track/4df0o75oXAjyc2KdiFKBIY) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Sensation](https://open.spotify.com/album/0XaCGj1qgwNeHgnvSUrCzs) | 2:54 |
 | 19 | [Haze](https://open.spotify.com/track/1OJnrgbXv3YxEwgw9cDawF) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Haze EP](https://open.spotify.com/album/4s208ZjKKt2tbSVD5EzKuF) | 3:03 |
 | 20 | [All Night](https://open.spotify.com/track/68udexWA5NqZQh8YXJkHky) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [All Night](https://open.spotify.com/album/5crYO6MbmHmFPHW9G6hr3p) | 3:28 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 111 | [WannaPlay](https://open.spotify.com/track/0K0Z29VUyxchhKdmMGBNYm) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [PraXis](https://open.spotify.com/album/33wang90IMoiP2zLalEAC9) | 3:44 |
 | 112 | [Rosa](https://open.spotify.com/track/2ThQHv5qNDg1QtNb3gFJv9) | [Mia Moretti](https://open.spotify.com/artist/508HEnl2cDRksyq8hyQtRh) | [Rosa](https://open.spotify.com/album/1E3ZQ6io0107ZazD7ZPYhy) | 2:51 |
 
-Snapshot ID: `MCxkZTMyZDI0YTNkYTA5ODE2ZjY3NTNiMmVlOWVmMjI3NThlNjFkYzIw`
+Snapshot ID: `MCxiM2QwMWNkNzhmNTJkYzJjM2EyYTYxZWE5NmY5NmJiYTNhZWJjNzQ3`

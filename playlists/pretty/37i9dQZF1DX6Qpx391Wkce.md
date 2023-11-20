@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,265 likes - 70 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,287 likes - 70 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 69 | [Hick \- Pan\-Pot Remix](https://open.spotify.com/track/5sGtHaUKoaGlp68uEp7oz6) | [Namito](https://open.spotify.com/artist/6E8wYeE1CsvOUO031l9QGJ), [Rainer Weichhold](https://open.spotify.com/artist/5ZZEDlsQsxJqj2svh4GqZD), [Pan\-Pot](https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se) | [Hick \(Pan\-Pot Remix\)](https://open.spotify.com/album/6fthnKNuVFdWZOhFFlRJEK) | 6:40 |
 | 70 | [The Beat Just Goes Straight on and On](https://open.spotify.com/track/0UOdOG9XKi7gpAD72fZo1q) | [Perry & Rhodan](https://open.spotify.com/artist/7eyhmCn1XGDpFbrWkQMXhK) | [The Beat Just Goes Straight on and On](https://open.spotify.com/album/43e0TVbRqCaVKIBnA6xqPE) | 9:53 |
 
-Snapshot ID: `MCw1MjNhY2EzNWUyNDBjNGUwNDdiMDg1ZjFmZjE4MGE3Mzk4MjE2ZTFi`
+Snapshot ID: `MCwyYjY1Mzg0ZTkwY2UyY2FkNGU4Yzk1NzY4M2U1MmE4ZmVhNWJjNWM3`

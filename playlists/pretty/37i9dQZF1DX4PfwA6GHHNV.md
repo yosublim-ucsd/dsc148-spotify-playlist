@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,175 likes - 49 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,226 likes - 49 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 48 | [Desacelera](https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Emiká](https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB) | [Desacelera](https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo) | 2:44 |
 | 49 | [Chá](https://open.spotify.com/track/4KwJUsJQgsQiDMNqrVsO5K) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Chá](https://open.spotify.com/album/40T8klDCDKX48Pe59gZD3Y) | 2:35 |
 
-Snapshot ID: `MCwzZDIxZDBjNzBmOTE2NTQ3NjVhOTU3NjZlNThjNTgyYWY0ODE0MzAy`
+Snapshot ID: `MCxkYjUxZjhjYmFjNzMzMWFhMzExYTdjN2Q2MmZiM2UxYzliODAxZGFk`

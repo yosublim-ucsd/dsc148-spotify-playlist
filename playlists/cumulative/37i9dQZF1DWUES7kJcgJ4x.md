@@ -4,7 +4,7 @@
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-87 songs - 3 hr 38 min
+88 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [La Favorita del Profesor \(Teacher's Pet\)](https://open.spotify.com/track/1kazUHPjrHaLk4gohVwdVQ) | [Julissa](https://open.spotify.com/artist/2fvqRv8T9zuxNqdKdEaKsT) | [La Gran Epoca Del Rock En Español](https://open.spotify.com/album/2Y6wv1hbC7B1vBg4GOdlOT) | 2:24 | 2021-01-18 |  |
 | [La, La, La](https://open.spotify.com/track/1ApXNkjfjxkSDoezO8Kh8g) | [Massiel](https://open.spotify.com/artist/7gAcNqHWOMnqnsTBjq7v0T) | [Lo Mejor de Massiel](https://open.spotify.com/album/44JyWGnSQObZVILBVQ4hnF) | 2:32 | 2021-01-18 |  |
 | [Let's Shake Baby](https://open.spotify.com/track/4YxycWQkXTmhxFmlCzeVjg) | [Zoe and the Stormies](https://open.spotify.com/artist/13Ocf5aEBC9rxxx8zEiWf6), [Nikos Mastorakis](https://open.spotify.com/artist/5epd50kg8EHEdO4xIggASf) | [Sixties' Best Greek Pop Songs Vol\. 3](https://open.spotify.com/album/1aK1LgKJJ6lezxkF3eI7Ej) | 2:04 | 2021-01-18 |  |
-| [Let's Spend The Night Together](https://open.spotify.com/track/46KY6zEdoMnjSh2DJqs20K) | [Claudine Longet](https://open.spotify.com/artist/7kQFwkR1mTWfGdtZfcvrZP) | [Let's Spend The Night Together](https://open.spotify.com/album/6soxHHJE1GM0BjqOv1N8lV) | 3:52 | 2021-01-18 |  |
+| [Let's Spend The Night Together](https://open.spotify.com/track/46KY6zEdoMnjSh2DJqs20K) | [Claudine Longet](https://open.spotify.com/artist/7kQFwkR1mTWfGdtZfcvrZP) | [Let's Spend The Night Together](https://open.spotify.com/album/6soxHHJE1GM0BjqOv1N8lV) | 3:52 | 2021-01-18 | 2023-11-20 |
+| [Let's Spend The Night Together](https://open.spotify.com/track/4QZTQNmk3JnSr18xNu2N8S) | [Claudine Longet](https://open.spotify.com/artist/7kQFwkR1mTWfGdtZfcvrZP) | [Let's Spend The Night Together](https://open.spotify.com/album/3VRQxcf6VuRHJ6tEqqgkqc) | 3:52 | 2021-01-18 |  |
 | [Me lo dijo Pérez](https://open.spotify.com/track/3ncN95x01VjT3FPm1ymMCc) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Los EP's Originales, Vol\. 2](https://open.spotify.com/album/3BdHDRBRICbHKSx5d67PGR) | 2:11 | 2021-01-18 |  |
 | [Moi je joue](https://open.spotify.com/track/3UodijH4fESPUiVz7t8TJC) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [The Best Of Bardot](https://open.spotify.com/album/7zBRw7aeKzugZ5bkFtcSID) | 1:38 | 2021-01-18 |  |
 | [Muy Cerca de Tí](https://open.spotify.com/track/5f80txb4SYgEJtO6QTKS9l) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [Cuando España Bailaba el Twist](https://open.spotify.com/album/1S1vdRlUTJVDMMNCEol9zU) | 2:32 | 2021-01-18 |  |

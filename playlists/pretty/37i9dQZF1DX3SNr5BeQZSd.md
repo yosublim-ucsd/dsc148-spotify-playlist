@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > Trending lofi beats from across the World Wide Web.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,768 likes - 300 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,804 likes - 300 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 299 | [Still](https://open.spotify.com/track/36hJoEUrjNZy4NuA60FZrZ) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C) | [Cosmic Cove](https://open.spotify.com/album/623Qjo8XXT0kOKSPtHbxw1) | 2:41 |
 | 300 | [Last Train Home](https://open.spotify.com/track/3tLmG0nfHAiURgtCAP3grf) | [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Last Train Home](https://open.spotify.com/album/0gIXl4ZMeXpg1VqitDqX3s) | 1:39 |
 
-Snapshot ID: `MCwzNDA0YjU3NWEyYmM5Mjk5MDRmN2MzNDdlZTY5ZDg3Njc2ZGQ0MThj`
+Snapshot ID: `MCw5Yzg2YTViYTQyMmMyMDg1YTYzNmFiZWU3OGQ5NGQyYmI4ZTE0OWJm`

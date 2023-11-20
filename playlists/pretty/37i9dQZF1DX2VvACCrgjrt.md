@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 
 > Real nasty house\. Cover: Don Diablo & Scrufizzer
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,262 likes - 125 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,309 likes - 125 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Got That](https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Got That](https://open.spotify.com/album/2zbCrqjLeh3tWowXjGQHN1) | 2:46 |
-| 2 | [RUMBLE IN THE DISCO](https://open.spotify.com/track/7KbzRcrYVvQDI8fWOPDPMB) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [RUMBLE IN THE DISCO](https://open.spotify.com/album/7x1fU7Gduc0S1Wt8xQqleh) | 3:39 |
+| 2 | [RUMBLE IN THE DISCO](https://open.spotify.com/track/3WF2mMA1gBkSRnucT9Qm23) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Neon Steve](https://open.spotify.com/artist/1CNO980Lk9CaBWBnM1MZXi) | [RUMBLE IN THE DISCO](https://open.spotify.com/album/2Lr7FMxj6BO7I4vKdyoqEd) | 3:39 |
 | 3 | [GASOLINA & COCAINA](https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [GASOLINA & COCAINA](https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az) | 3:12 |
 | 4 | [CALYPSO](https://open.spotify.com/track/18ty2CvaOkyz3WOD3DkqNk) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [CALYPSO](https://open.spotify.com/album/0T0m6cryYM9dObB9iRNik3) | 2:32 |
 | 5 | [Seismic](https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Fly With Us](https://open.spotify.com/artist/5bCPEdvvv1s0CBBiuYc5eL) | [Seismic](https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ) | 3:28 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 | 124 | [Be Mine](https://open.spotify.com/track/1152qBBmbWwDyC1ffE8zZy) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [Be Mine](https://open.spotify.com/album/5PGKg1wqLHbW0jWZHTdXTe) | 3:09 |
 | 125 | [Bodymorph](https://open.spotify.com/track/2ThE3B5ysWddfWZ4EXWjeR) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [Serathrone](https://open.spotify.com/artist/6VJx4L98UdyXINLjVYMHZt) | [Bodymorph](https://open.spotify.com/album/50YeWlWfzOaFYPJjeQsqm3) | 4:03 |
 
-Snapshot ID: `MCxiNzcyZTA0Nzk4MDVmMDE1YTgzMTMyYmUwZmJkMTI4MWU1YTlhZGUy`
+Snapshot ID: `MCxmOTA3YmM4NDYzYzViZGExN2I0NTIyNzRlNTI1ZTkzZTE4ZmMyYmMz`

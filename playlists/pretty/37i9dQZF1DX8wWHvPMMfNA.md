@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 
 > Soft instrumental jazz for working or studying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,784 likes - 600 songs - 1 day 13 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,972 likes - 600 songs - 1 day 13 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -609,4 +609,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 599 | [Will You Wait For Me](https://open.spotify.com/track/0FFYwlRnQbuQhfW2pbzIgv) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Will You Wait For Me](https://open.spotify.com/album/0vHnbVxEXwagrTFClPMVgi) | 3:47 |
 | 600 | [Cityscape Serenity](https://open.spotify.com/track/5xLTZwbh5Du1wqmYalvM3H) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Cityscape Serenity](https://open.spotify.com/album/6knhUaMHffgGeFBkd6bh7V) | 3:28 |
 
-Snapshot ID: `MCxlZDg0Y2JlZTNiMWQ1MzBmMTU4YzBhZDdjNTQxMDYxYWZlYjA0ZWNh`
+Snapshot ID: `MCwyM2ViNzkzNmI0Njg0YmFjNTFmZWQwZDIwYWNiZjJiZTI2MjhmNDE5`

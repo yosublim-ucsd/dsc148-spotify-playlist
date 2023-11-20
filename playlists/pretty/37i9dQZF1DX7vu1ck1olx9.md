@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,456 likes - 150 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,545 likes - 150 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 149 | [Day At The Beach](https://open.spotify.com/track/2uwZFVIBJ4XpXV2NNoiZPx) | [Fireflyx](https://open.spotify.com/artist/2OOTNVKel4Dl6bdGfkChIx), [Melloe D](https://open.spotify.com/artist/4n9punzhmPTvX0KIHDPW7U) | [Day At The Beach](https://open.spotify.com/album/2MByrZsI4Q72MDX97wSSmu) | 2:48 |
 | 150 | [walk in the park](https://open.spotify.com/track/0jA1qk1AX3vbNBcYhwbozw) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [walk in the park](https://open.spotify.com/album/2j5OCXoMRAomxm7idD0LzJ) | 3:00 |
 
-Snapshot ID: `MCxlNDJiNzdkYWI2YTEyYjg1NTYzNjY5NjZjZTA4ZTY2MTE1MThiY2Iy`
+Snapshot ID: `MCw2MmU0YjJjYWFlZjQ3YTI1MjBmOGRhYzkwZjJmYTA5MmUyNjY4MGZj`

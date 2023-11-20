@@ -4086,10 +4086,28 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 263978,
       "name": "The Lamentations of Jeremiah",
       "url": "https://open.spotify.com/track/1HecBEsDV1CRaDYbVld4iX"
+    },
+    {
+      "album": {
+        "name": "Songs of Silence",
+        "url": "https://open.spotify.com/album/3WNHfcR03NSfUg4ZcZJG7t"
+      },
+      "artists": [
+        {
+          "name": "Vince Clarke",
+          "url": "https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263978,
+      "name": "The Lamentations of Jeremiah",
+      "url": "https://open.spotify.com/track/7ka9vGJqjXXNyyLPiu7i4f"
     },
     {
       "album": {

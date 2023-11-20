@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 > Let's party with cheerful Korean trot medley\. Cover: Song Ga\-In\(송가인\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,375 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,387 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 99 | [Breakfast](https://open.spotify.com/track/1fAr5z76bNzGqzs1gKRJo9) | [박군](https://open.spotify.com/artist/3Fe5DbLAhIho2Gdc3xr6BC) | [Breakfast](https://open.spotify.com/album/5VZzzQBGBtjpyXEN8vTY5H) | 4:09 |
 | 100 | [목계나루](https://open.spotify.com/track/4kMFwlv0Njwnakcy473jw3) | [이수진](https://open.spotify.com/artist/6hiE7snEBARzwmjdzjoggP) | [트로트 여인 1, 2](https://open.spotify.com/album/3sEDwOKMX6sMOn2iP9H4Hk) | 2:36 |
 
-Snapshot ID: `MCxhMGUzNjk2MTBlMGM5YzY0NmU0MTRkNWM0OWZiZjdkZDMyNmIzYjI1`
+Snapshot ID: `MCw2ZTE3NTQzZDQzZjcwMjg4OTc4MDJhMjRmOGE1NzNmYjUxMjE5MGRj`

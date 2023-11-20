@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,306 likes - 125 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,354 likes - 125 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08n7V52Ynyb.md) - [plain]
 | 124 | [December](https://open.spotify.com/track/5nn9JFlelUmEz1oyuoMZaf) | [Ferruccio Spinetti](https://open.spotify.com/artist/2fhNoOh4SrsOEXPWXxpD1f), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I), [Giovanni Ceccarelli](https://open.spotify.com/artist/2z9cZflQ6YSCzLx9E39HgG), [Elena Romano](https://open.spotify.com/artist/1dvr2msLhESCag8R6xHnDE) | [Arie](https://open.spotify.com/album/41OhmZ2TLcw4W8yKQatoYT) | 4:25 |
 | 125 | [Let's Make Believe](https://open.spotify.com/track/0Bfod0RloRfwS3gPx2UAAk) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN), [Deborah J\. Carter](https://open.spotify.com/artist/2NEVFoeoJx9W4p1Ubqxd0I) | [Time For Ballads \- The Studio Sessions](https://open.spotify.com/album/5UunarohrbI9z28uUYyw6q) | 4:46 |
 
-Snapshot ID: `MCw4YzM3ZjJhZTU0MzNkNzQyNDBhZmZmYTg5NmM1MTVmMzBlYjQ1MjU2`
+Snapshot ID: `MCxlMTBmYTgyOWFkMWVhOTMzZjMzZDVjNTNlMTg5YmZlMzI3MDk2ODcw`

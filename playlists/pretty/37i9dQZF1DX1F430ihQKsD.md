@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Aliocha Schneider
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,936 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,946 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 11 | [Bright Green Vibrant Gray](https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 3:39 |
 | 12 | [L'évadé](https://open.spotify.com/track/54IB5XhD35uEsApRWc7Rq4) | [En Stéréo](https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm) | [L'évadé](https://open.spotify.com/album/2CFik6eV2jcB6H9LEP4y3U) | 4:03 |
 | 13 | [Your Life](https://open.spotify.com/track/27xMuY9jqsqmqt0rqIuZOP) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [Your Life](https://open.spotify.com/album/6BGRw9Kw9IJ67A5CLUJc5o) | 5:00 |
-| 14 | [Rendez\-vous](https://open.spotify.com/track/5KYF2blNXgss2n0k04Fyzu) | [Gazoline](https://open.spotify.com/artist/0jmQKrs8Mir77PffQBo0Jt) | [Rendez\-vous](https://open.spotify.com/album/3nQvTXgdKu3FHLFiuqwUky) | 3:01 |
+| 14 | [Rendez\-vous](https://open.spotify.com/track/7GnSDCNpVIE9gJGWYow58K) | [Gazoline](https://open.spotify.com/artist/0jmQKrs8Mir77PffQBo0Jt) | [Gazoline III \(Deluxe\)](https://open.spotify.com/album/4uTqrqLcH4OABXRQGappdF) | 3:01 |
 | 15 | [L'Ami idéal](https://open.spotify.com/track/0QMtHqmvPe1URDTdsa3tGt) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [L'Ami idéal](https://open.spotify.com/album/5aGfT3NgFxOwGxumgvrapE) | 3:14 |
 | 16 | [Anyway, Mommy Love](https://open.spotify.com/track/3rKIdoC3bgM6UoiRQvvDdi) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Anyway, Mommy Love](https://open.spotify.com/album/6y6NiIQExhEXbvWo4LIe0k) | 3:11 |
 | 17 | [karoshi](https://open.spotify.com/track/3yqGndHj0cRlzX0neZ7dE7) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA), [Sarahmée](https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX) | [karoshi](https://open.spotify.com/album/0kvlVr56tiWquP16l0rEAY) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Participaction](https://open.spotify.com/track/0qsq7Uc65KPIHIRoWWClzb) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Participaction](https://open.spotify.com/album/28QXkHLmSpG1ebxfZK6Kg0) | 2:54 |
 | 100 | [Almost Lost You](https://open.spotify.com/track/0MipSSCvBt5vFU1bGlOJXw) | [No Cosmos](https://open.spotify.com/artist/57mTtmL6bbLx7YD2Ti3pq9) | [Almost Lost You](https://open.spotify.com/album/0XxfQHSabJLZtrkGGLMiTN) | 3:47 |
 
-Snapshot ID: `MCw1N2MxN2FjZTRhNGY3Yjk0ZTQ0MjhlNGY2ZmM0MDNlNjNjZmNlNWY4`
+Snapshot ID: `MCxlZTBhODEwMWEwMGY5MDc4Nzg0MDVmMjFhM2FkYjdlOWMxODYwNWE3`

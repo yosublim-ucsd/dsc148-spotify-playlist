@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT take a look back at the alternative music scene of the 90s\. Cover: Alanis Morissette
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,276,572 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,276,568 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 49 | [Jerry Was A Race Car Driver](https://open.spotify.com/track/19C0LKY3DCcQtuviPJNy5d) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx) | [Sailing The Seas Of Cheese](https://open.spotify.com/album/2sjF68plsvYE7M3FaMf6rD) | 3:10 |
 | 50 | [Possum Kingdom](https://open.spotify.com/track/56SkdBKyR2zOkjk6wVFI9s) | [Toadies](https://open.spotify.com/artist/2QMMktUMtwMSwUZATX1cRO) | [Rubberneck](https://open.spotify.com/album/7tFTqVGHceSlXOaz8IylBN) | 5:08 |
 
-Snapshot ID: `MCxhZThkNGQwMmUyMWU2MzMyYWM0ZjE3NTdhYjM1ODlmM2IyYTk2NDU2`
+Snapshot ID: `MCw4YzFjY2Y1ZjZlYmYzOTY5MmQwYjlkZDUyNDQ3MTUzZjE5MzhiY2Rm`

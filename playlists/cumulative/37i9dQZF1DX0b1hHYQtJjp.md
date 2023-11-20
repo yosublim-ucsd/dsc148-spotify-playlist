@@ -4,7 +4,7 @@
 
 > Recent hits and new songs from your fave artists\. Cover: Jonas Brothers & Bailey Zimmerman
 
-1,335 songs - 3 day 1 hr 49 min
+1,336 songs - 3 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -995,7 +995,8 @@
 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 | 2021-09-11 | 2022-02-12 |
 | [Shot in the Dark](https://open.spotify.com/track/239yM7BAQ2CkNc61ogPGXo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:09 | 2021-07-17 | 2021-08-28 |
 | [Shotgun](https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:21 | 2019-05-26\* | 2019-10-04 |
-| [Show Me](https://open.spotify.com/track/3g2fynyyFDpBjQhECDPkpp) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Tatiana Marie Clark](https://open.spotify.com/artist/2ovAB32IEY5k4Mgdl5eSfq) | [Show Me](https://open.spotify.com/album/1Yfyyfp4la2cNoonBHmoxr) | 3:27 | 2023-11-12 |  |
+| [Show Me](https://open.spotify.com/track/1aTjnWJwayQuxZwjaQ7i8N) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Tatiana Marie Clark](https://open.spotify.com/artist/2ovAB32IEY5k4Mgdl5eSfq) | [When a Crooner Dies](https://open.spotify.com/album/5M4DHf0xB5SfhWym8kkHuB) | 3:27 | 2023-11-12 |  |
+| [Show Me](https://open.spotify.com/track/3g2fynyyFDpBjQhECDPkpp) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Tatiana Marie Clark](https://open.spotify.com/artist/2ovAB32IEY5k4Mgdl5eSfq) | [Show Me](https://open.spotify.com/album/1Yfyyfp4la2cNoonBHmoxr) | 3:27 | 2023-11-12 | 2023-11-20 |
 | [Show Me](https://open.spotify.com/track/7wfrMpmDnJUKVztxhNrLvn) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [Tatiana Marie Clark](https://open.spotify.com/artist/2ovAB32IEY5k4Mgdl5eSfq) | [Show Me](https://open.spotify.com/album/4FmfQrqUX9MZKVAGvU2raK) | 3:27 | 2023-10-06 | 2023-11-17 |
 | [Shut Me Up](https://open.spotify.com/track/1XuushYZmiAuKpPYTj7p3v) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Shut Me Up](https://open.spotify.com/album/3iggNyh19LyTVYH5SexoYr) | 2:21 | 2023-02-24 | 2023-04-29 |
 | [Simple Things](https://open.spotify.com/track/1pTIxaK8mVQdj53bdy2Njp) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Simple Things](https://open.spotify.com/album/7HmGFt3YEGHbxvZj49s3DF) | 2:59 | 2021-08-28 | 2021-09-18 |

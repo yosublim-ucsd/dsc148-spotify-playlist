@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,744 likes - 150 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,820 likes - 150 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 149 | [Half The Perfect World](https://open.spotify.com/track/2Lpy3EwCxTCDnpSoraugYc) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Half The Perfect World](https://open.spotify.com/album/6krx8ZgiDPDVTKDoZGwevx) | 4:21 |
 | 150 | [Dias Ensolarados Pela Frente](https://open.spotify.com/track/6vurAgqsH9soYum0gS52vu) | [Sara Santos](https://open.spotify.com/artist/1K83XnIXY2xWu7cyBcOdjr) | [Dias Ensolarados Pela Frente](https://open.spotify.com/album/1aQXeiKnkkiMWfC5z5oS3a) | 3:51 |
 
-Snapshot ID: `MCxjM2NhNTdmNGFiMTFjNDUxYTMwYTI1M2QxZGE4NjNkMTJjNTE3MWRm`
+Snapshot ID: `MCwzMGZmMzU5YjRmYmEwZmY4ZDQ5OTU3NjUwYTBiMzk5NjZhM2NlNjMy`

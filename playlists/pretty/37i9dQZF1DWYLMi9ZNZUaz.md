@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy của rap Việt luôn cuồn cuộn\. Ảnh bìa: Đen
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,929 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,024 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [Càng Cua](https://open.spotify.com/track/6zrQLaZG0OlT63oUDwFKri) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Càng Cua](https://open.spotify.com/album/6MuNwqjIXFTqiAp7gDMG6F) | 2:19 |
 | 50 | [Khu Tao Sống](https://open.spotify.com/track/14khFA3ijq29og5P6GJqDP) | [Wowy](https://open.spotify.com/artist/4iFNiWhODcMZdmpNkxsTFp), [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F) | [Khu Tao Sống](https://open.spotify.com/album/215gdadHh4OlcH03JBF7GB) | 4:04 |
 
-Snapshot ID: `MCw0MDljY2I1M2MzNjVhNzkzMDk3ZTk2ZDU3NzZmOTAwZGM2OWZmYzVh`
+Snapshot ID: `MCw3NzAyYTZjYmE1YWQ3ZWIzNWFkNzBmYzc3NjBhYTdiNTcxZDk4MjE2`

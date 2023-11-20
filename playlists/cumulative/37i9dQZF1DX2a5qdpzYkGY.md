@@ -4,7 +4,7 @@
 
 > Music for Imaginary Films
 
-245 songs - 20 hr 15 min
+246 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,8 @@
 | [The Accident](https://open.spotify.com/track/12iSO9IrdXEQpSMdzBNYxi) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [Icons](https://open.spotify.com/album/6uAP7KQU1Q3KQoB1eW3fHl) | 4:36 | 2021-10-06 |  |
 | [The Accident](https://open.spotify.com/track/41Ff5UlYl58MBR4hpLSHSl) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [The Accident](https://open.spotify.com/album/42msjp6Mvx8xMtBANlKuT9) | 4:36 | 2021-10-06 | 2022-07-29 |
 | [The Fours](https://open.spotify.com/track/5TAtBrjTmFqSL5gxZF7miM) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In These Times](https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0) | 3:26 | 2022-09-30 | 2023-04-13 |
-| [The Lamentations of Jeremiah](https://open.spotify.com/track/1HecBEsDV1CRaDYbVld4iX) | [Vince Clarke](https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1) | [The Lamentations of Jeremiah](https://open.spotify.com/album/2xyjuimdchfHIk17LrnwE6) | 4:23 | 2023-10-10 |  |
+| [The Lamentations of Jeremiah](https://open.spotify.com/track/1HecBEsDV1CRaDYbVld4iX) | [Vince Clarke](https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1) | [The Lamentations of Jeremiah](https://open.spotify.com/album/2xyjuimdchfHIk17LrnwE6) | 4:23 | 2023-10-10 | 2023-11-20 |
+| [The Lamentations of Jeremiah](https://open.spotify.com/track/7ka9vGJqjXXNyyLPiu7i4f) | [Vince Clarke](https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1) | [Songs of Silence](https://open.spotify.com/album/3WNHfcR03NSfUg4ZcZJG7t) | 4:23 | 2023-10-10 |  |
 | [The Last Retention](https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l) | [Ronnie & Clyde](https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ) | [The Last Retention](https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t) | 4:04 | 2021-10-06 |  |
 | [THE PERFUMED GARDEN](https://open.spotify.com/track/4gCkomA8CVHrVzSXqDjDfI) | [Celestial](https://open.spotify.com/artist/3SFCZy20vLywkF2KDiwqCk) | [I Had Too Much to Dream Last Night](https://open.spotify.com/album/1MmJmjY9LKhylRSgydvGwJ) | 7:36 | 2023-01-12 | 2023-02-28 |
 | [The Pillow Sisters](https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb) | [Singleton](https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8) | [The Pillow Sisters](https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM) | 2:39 | 2021-10-06 |  |

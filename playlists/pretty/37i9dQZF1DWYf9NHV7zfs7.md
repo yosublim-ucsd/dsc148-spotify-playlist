@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷 Miranda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,790 likes - 85 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,149 likes - 85 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 84 | [Lamento Boliviano \(Acoustic Sessions\)](https://open.spotify.com/track/4fBWeFKXhBjpqMynPoSVkd) | [Victoria Bernardi](https://open.spotify.com/artist/7lpsX3627bQJTo9nQjHuAp) | [Sesiones Solo Sé](https://open.spotify.com/album/0Ak3jCp6wVF2fuM7OFH69b) | 4:26 |
 | 85 | [Hace frío ya](https://open.spotify.com/track/7l2pUd2jBCYxSBLwqzOrfk) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Hormonal](https://open.spotify.com/album/56DSf4tGPPYKHl1LExWwKl) | 2:33 |
 
-Snapshot ID: `MCxkYmZmNWU3YTE3NjhhOTVkNTBmOTdkNDVkNDUzZjJhOTkxMDcxNjk0`
+Snapshot ID: `MCwyY2E0NGU3ZDA3MzdlM2Y3MWY0N2Q0ZDc2N2NmZDk2NWI5Yzc4NTI0`

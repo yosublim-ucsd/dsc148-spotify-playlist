@@ -1902,7 +1902,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 333531,
       "name": "Jeet Gablek",
       "url": "https://open.spotify.com/track/7uMCb7TtPSx5qdPCxpH05I"
@@ -4284,6 +4284,24 @@
       "duration_ms": 287216,
       "name": "\u062c\u0646\u0646\u062a \u0642\u0644\u0628\u064a",
       "url": "https://open.spotify.com/track/6PnSITYfgUE5vTCLRy3Y8S"
+    },
+    {
+      "album": {
+        "name": "\u062c\u064a\u062a \u0642\u0628\u0644\u0643",
+        "url": "https://open.spotify.com/album/7jW9AHPDDRaaJYlLSeZP0g"
+      },
+      "artists": [
+        {
+          "name": "Abdul Majeed Abdullah",
+          "url": "https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333531,
+      "name": "\u062c\u064a\u062a \u0642\u0628\u0644\u0643",
+      "url": "https://open.spotify.com/track/2Ycvqn0YMIV7PpWGZgeRPd"
     },
     {
       "album": {

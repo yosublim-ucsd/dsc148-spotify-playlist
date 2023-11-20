@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Sfera Ebbasta, Neima Ezza, Nerissima Serpe e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,297 likes - 100 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,325 likes - 100 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 64 | [GENGAR](https://open.spotify.com/track/1Rz2AtR39fE6KtDptixAFx) | [PLAYBOIKIRA](https://open.spotify.com/artist/4SXKXgZLapOYWThvUIpZpV) | [GENGAR](https://open.spotify.com/album/4gzXfRpTnp4O57L8IicMaK) | 2:03 |
 | 65 | [Speedy](https://open.spotify.com/track/2GX8PxIBbxWtoLio3PMkT8) | [Spencer788](https://open.spotify.com/artist/0IJ8DkPdkeyVoDIRtUEeQi) | [Speedy](https://open.spotify.com/album/7ge0lJ7Vh9SJuQO4veVUyG) | 2:10 |
 | 66 | [Cler](https://open.spotify.com/track/6kmRelIadQHj0cpLU2hcJD) | [Koja](https://open.spotify.com/artist/5pUnfJhZsHapPMB4wBfp5m) | [Cler](https://open.spotify.com/album/6KCMoQIAYjtvk1WCKUEX1k) | 2:14 |
-| 67 | [DOWN AGAIN \(feat\. Glocky\)](https://open.spotify.com/track/0walh7vioJAdwQNjX27BJD) | [AIRA](https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6), [Glocky](https://open.spotify.com/artist/2KBbXQOrdE7m9AM9D7URHg) | [DOWN AGAIN \(feat\. Glocky\)](https://open.spotify.com/album/67D8qXdqTNb8gWBlwsQSCJ) | 3:05 |
+| 67 | [DOWN AGAIN \(feat\. Glocky\)](https://open.spotify.com/track/0walh7vioJAdwQNjX27BJD) | [AIRA](https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6), [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [DOWN AGAIN \(feat\. Glocky\)](https://open.spotify.com/album/67D8qXdqTNb8gWBlwsQSCJ) | 3:05 |
 | 68 | [6AM](https://open.spotify.com/track/3skksFC3Gy9u6iLm84rJOk) | [Bl3dem](https://open.spotify.com/artist/5b9VtaD7uwViASOs11FquB) | [6AM](https://open.spotify.com/album/5omc58Ar8rHuw2qUYWFswU) | 3:27 |
 | 69 | [DEAD BROKE](https://open.spotify.com/track/6uyyELd94hx5aSATZMgwke) | [Young Kofla](https://open.spotify.com/artist/6NcPuIV1hhaupm3wGsSx1R), [Fluss Uchiha](https://open.spotify.com/artist/1iqQyjmk9FN45sd8V8CPJo) | [DEAD BROKE](https://open.spotify.com/album/5T7z5jkvGvQdzbq8fWbLyB) | 2:46 |
 | 70 | [+Freddo](https://open.spotify.com/track/1WRAGwxtrW7oqRM6n8xIS2) | [Ombrv](https://open.spotify.com/artist/3k0UmxDhNM3pdvDlQjhg82) | [+Freddo](https://open.spotify.com/album/0zW7laPPT6VM49UZEFkAPK) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 99 | [Indipendente freestyle](https://open.spotify.com/track/5Eo1jdhrv5gSNn4LB2eWUz) | [MR Rizzus](https://open.spotify.com/artist/1lbjFxJSZCuCjiOKuMfmiO) | [SORVEGLIATO SPECIALE MIXTAPE](https://open.spotify.com/album/4quGLERXIUVQ8ZtdcUM6kf) | 1:19 |
 | 100 | [MENTALITÉ](https://open.spotify.com/track/3qVucXBmqvWWsqM4wedd3o) | [Mido](https://open.spotify.com/artist/4IDQpLt670azHbRBQkwZQP) | [MENTALITÉ](https://open.spotify.com/album/6034Syj80TAAbBqcNmVB53) | 2:32 |
 
-Snapshot ID: `MCwxZjYxODBkMzJhOWJjNzc2MWUxYzFjMWE0NjAwZWYwYTE1NDE3NDZh`
+Snapshot ID: `MCxkNjQyMDg1ZDBkZDEyY2M5NGUwZGJjMjU5Y2VhNmI5OTMxYWI3MDM0`

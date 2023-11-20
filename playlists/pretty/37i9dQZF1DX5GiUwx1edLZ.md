@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,963 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,975 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 99 | [Finest Hour \(feat\. Abir\) \- Acoustic Version](https://open.spotify.com/track/6ZMTQIeV5IZMTOFmVhDziW) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [ABIR](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd) | [Acoustic Collection \(Vol\. 1\)](https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk) | 3:01 |
 | 100 | [Waiting \- Strings & Vocals Mix](https://open.spotify.com/track/6ctvgLJJZQkdzch0L1dj7X) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8) | [Starting Fires](https://open.spotify.com/album/33e8xGrwbkjnpR4w43dIsM) | 3:49 |
 
-Snapshot ID: `MCxlOTRjZDEzZGMyMWRiMTg3YTkzNWUzZWI1NzI3NWFmNzdkNGMyYWE0`
+Snapshot ID: `MCwyODI5NmI2MDRkYmQwZTk4ZDJmN2NiODcyYzgzZWYwNzVjMjMzYzkz`

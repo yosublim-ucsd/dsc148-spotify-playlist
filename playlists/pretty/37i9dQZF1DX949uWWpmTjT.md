@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,805 likes - 700 songs - 1 day 20 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,951 likes - 700 songs - 1 day 20 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -709,4 +709,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 | 699 | [Ol' Man River](https://open.spotify.com/track/0iJhcm8EqkYjSLKb29oOwp) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Morten Lund](https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP) | [Moods, Vol\. 2](https://open.spotify.com/album/0SKWC5kJ00WXtjynZVWF0O) | 5:42 |
 | 700 | [Moon River](https://open.spotify.com/track/6HRaRgiuyrnd3bENS5ZoM2) | [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL) | [Moon River](https://open.spotify.com/album/2w1aFC5btuTPK2rr75Jt1N) | 6:27 |
 
-Snapshot ID: `MCw5MGI3YzNlYzg2Mjc1NTZmNjk4OWY5OGQ0N2NmZWM3Y2I0MGQwMjFk`
+Snapshot ID: `MCxjMTQ2ZDk3Yjk0ZGJiYjgwODZkZThiZjMzMjRmM2QzM2NlNjY2Yzg3`

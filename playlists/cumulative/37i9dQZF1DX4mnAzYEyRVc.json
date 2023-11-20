@@ -1940,10 +1940,28 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 190893,
       "name": "C\u2019est La Vie",
       "url": "https://open.spotify.com/track/0FeULTkWtNrjU7WqnTfNv5"
+    },
+    {
+      "album": {
+        "name": "Theatre of the Absurd presents C'est La Vie",
+        "url": "https://open.spotify.com/album/1EO1QMwEOJQk36fMQFTbvN"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190893,
+      "name": "C\u2019est La Vie",
+      "url": "https://open.spotify.com/track/43gcln3SnwBCpKjy2gPOwN"
     },
     {
       "album": {

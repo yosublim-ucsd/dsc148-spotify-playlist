@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,270 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,298 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 79 | [Jealous](https://open.spotify.com/track/5XwBIBZIkw84eYKXQZjjrG) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a), [IZKO](https://open.spotify.com/artist/1BgmLUmytJuDy5CEzP7SL6), [Jordan Rys](https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI) | [Jealous](https://open.spotify.com/album/60X8z7chpkxZa3WlICcscf) | 3:02 |
 | 80 | [Lose my mind](https://open.spotify.com/track/4Cz2101t2TdPKBsgb7O6dS) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Lose my mind](https://open.spotify.com/album/53H8HfdZu1DoXqPfTGj8CG) | 2:53 |
 
-Snapshot ID: `MCw0ODJlYTUxY2VjOWNhZGViNTY5YzczYTkyY2E5YzEzODAyMjA4NWU5`
+Snapshot ID: `MCw4MDNhMDE1NDQzNThlZWUxOWIzMjdlODczNjFkNjY1MWMzN2NlYzcx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 
 > killer songs from badass artists\. Cover: Haley Blais
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,860 likes - 125 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,914 likes - 125 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 124 | [90s American Superstar](https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [90s American Superstar](https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc) | 2:19 |
 | 125 | [Backseat](https://open.spotify.com/track/54lPXSgOxKnsHXYU2y81RL) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8) | [Two to Tango](https://open.spotify.com/album/5KOU6u0Cb475V52b656vQB) | 3:30 |
 
-Snapshot ID: `MCxjNDM0MjRhZTZmYWNmOTMzZTU4YTRkMTY2MWM0M2Y3ZWUwOTVkZTUz`
+Snapshot ID: `MCxiMjJmYmQwMjYyOTYwOGEwZjJiZWIyYzFjMjFlOWQ3MDBlNjlkY2Ix`

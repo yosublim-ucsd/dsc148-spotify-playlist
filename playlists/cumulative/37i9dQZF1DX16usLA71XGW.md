@@ -4,7 +4,7 @@
 
 > East Africa queens in their music bag\. Cover: Maya Amolo
 
-110 songs - 5 hr 46 min
+111 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Only Girl](https://open.spotify.com/track/6jHmMHZSDWrKLVJiYvYpir) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Only Girl](https://open.spotify.com/album/3MFIO9csbm5ogXyN0UEs7f) | 3:24 | 2023-08-17 |  |
 | [OTD](https://open.spotify.com/track/3iuObMBlVzxmJaym2oAXrd) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [OTD](https://open.spotify.com/album/5dnPXb293B0hQDZoXGPsBh) | 2:27 | 2023-08-17 |  |
 | [Pen & Paper](https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [Pen & Paper](https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl) | 3:07 | 2022-07-18 |  |
-| [Penzi Wa Kasi](https://open.spotify.com/track/4vaKIBY9351V0u6bstPpUu) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/1f0MuY3kBgS1QmAIaRu3kj) | 2:44 | 2022-09-20 |  |
+| [Penzi Wa Kasi](https://open.spotify.com/track/4vaKIBY9351V0u6bstPpUu) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/1f0MuY3kBgS1QmAIaRu3kj) | 2:44 | 2022-09-20 | 2023-11-20 |
+| [Penzi Wa Kasi](https://open.spotify.com/track/53scc3D6nerhdtZKAFkr0b) | [Njerae](https://open.spotify.com/artist/3ZYEtzcOgxeYX1DdaAYjuO) | [Unintentional](https://open.spotify.com/album/02Gdfad4w6K6LVJQKU8mwO) | 2:44 | 2023-11-17 |  |
 | [Personal](https://open.spotify.com/track/03TXdrL0GlDeqIwTnkj6HT) | [Bey T](https://open.spotify.com/artist/5fGp7NJKHwbRlvQvDudkxk), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Personal](https://open.spotify.com/album/4DeGCqMQZgH5K7RCFkAGwi) | 2:15 | 2023-01-16 | 2023-09-08 |
 | [Pity Party](https://open.spotify.com/track/01j67FBrhCFWC2kYJWGmdA) | [Kamanzii](https://open.spotify.com/artist/5Qzz9wRaEZdcWmSvCEn5Hb) | [Pity Party](https://open.spotify.com/album/3vLiY1nSz8oe12nrSzkW4y) | 3:24 | 2022-07-18 | 2022-11-25 |
 | [Poison](https://open.spotify.com/track/0tHwaQYWrerlG3WlkrLACX) | [Nyax](https://open.spotify.com/artist/609q0eLCXxneCVx3w6j6W5) | [2Young4Love](https://open.spotify.com/album/4RbPPMKU4YBIbv0RTg2QLC) | 3:01 | 2022-07-18 |  |

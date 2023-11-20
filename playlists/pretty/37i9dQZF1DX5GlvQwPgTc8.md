@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 
 > Your favourite party hits to kick off the weekend\. Can you taste it?
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,774 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,772 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GlvQwPgTc8.md) - [plain]
 | 49 | [J'adore](https://open.spotify.com/track/2ULz7EuDpQ9iifrbHLmpbx) | [Four7](https://open.spotify.com/artist/47rjPnYCVxWRWpkJy6dOVT), [Tiffany](https://open.spotify.com/artist/5RNVaSXkAsve6d2bfZmB0F) | [J'adore](https://open.spotify.com/album/4XMXX49JGGjeQmTj6bPjpw) | 5:08 |
 | 50 | [LIES](https://open.spotify.com/track/3Shi5fUIeuoNQWV0hjYXNs) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [LIES](https://open.spotify.com/album/4FFUfSYqKjyp2X63FMYUVC) | 2:47 |
 
-Snapshot ID: `MCwwMjYyMmI3ZWE0NjZjMTdhNjdhZTVhNGM3MzZmNTIwYTk4ZmU1OWFh`
+Snapshot ID: `MCxhYjUyZTAzYjQxYjUyN2M0NGQ2NmY2YTE3MDE2ZmIxMWQzMzM3ZjU1`

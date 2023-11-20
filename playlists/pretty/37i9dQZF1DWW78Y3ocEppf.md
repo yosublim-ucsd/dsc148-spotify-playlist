@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 
 > Let the songs speak\. Cover: VEDO
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,160 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,166 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 99 | [Too Good](https://open.spotify.com/track/7eydOAMggQGybRvP25jjHf) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Too Good](https://open.spotify.com/album/50FBHB1so5hMC0unv6LR2l) | 2:48 |
 | 100 | [212](https://open.spotify.com/track/3onifXN13iI8OG6PblmC3m) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [212](https://open.spotify.com/album/1m33fAX1CPDc9hydoXaVDV) | 2:26 |
 
-Snapshot ID: `MCwzZjE3MzhhNzViMmE4NWIwNGJlM2VkMDhjMGE2OTNhOGVkZDViZDUy`
+Snapshot ID: `MCw4ZTAyMzk1YjkyNzQ4M2UzYjVjYzFlOGRjNTZmN2E2YTcxMDNhYzBj`

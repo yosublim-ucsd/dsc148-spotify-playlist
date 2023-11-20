@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM?si=YWI3GWJkSYy2VxygARVybQ"> Y'akoto </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,095 likes - 90 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,112 likes - 90 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 28 | [Feeling](https://open.spotify.com/track/3CHYoQeZkoXL9ps1vFyqpz) | [Boy Sean](https://open.spotify.com/artist/3a3YJWntas35NO47WPEFzW) | [Feeling](https://open.spotify.com/album/5di5EZGdcc9Fqkwa6vtzyz) | 2:45 |
 | 29 | [Only You \- A COLORS SHOW](https://open.spotify.com/track/7gRHJqy0dH0Xq0UY7YyNHg) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Only You \- A COLORS SHOW](https://open.spotify.com/album/1Aye02nOiEjJ5LMtvjaHRk) | 2:46 |
 | 30 | [Show Me Love](https://open.spotify.com/track/39KMqRO39T7yjijC8Hbkkg) | [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri), [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [Show Me Love](https://open.spotify.com/album/0GnipIQCgYKtWD6BP0xYie) | 3:13 |
-| 31 | [Ella](https://open.spotify.com/track/5VvTAowsgsx2pbN1nIpH0D) | [JCOOLVIBES](https://open.spotify.com/artist/2P6gg6q6eTQl5XlcaD20kg), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Ella](https://open.spotify.com/album/1swA84rymPgftRUsZeGbCR) | 2:40 |
+| 31 | [Peperomia](https://open.spotify.com/track/5VvTAowsgsx2pbN1nIpH0D) | [JCOOLVIBES](https://open.spotify.com/artist/2P6gg6q6eTQl5XlcaD20kg) | [Peperomia](https://open.spotify.com/album/1swA84rymPgftRUsZeGbCR) | 2:40 |
 | 32 | [Up](https://open.spotify.com/track/7teGDQrvZE1B8BEaS5XXFO) | [Lago](https://open.spotify.com/artist/5RBlz43vo3ELD9x0dwxYTf) | [Wake Up](https://open.spotify.com/album/4HNwdJc7EtRK1fjfVm1jpe) | 2:09 |
 | 33 | [Sweet Life](https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Sweet Life](https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO) | 3:06 |
 | 34 | [Do What U Want](https://open.spotify.com/track/7sSc9rQfa7YEhjRgKoMDPQ) | [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Do What U Want](https://open.spotify.com/album/5h5r3CJHQL2fPrg1oMqCib) | 1:52 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 89 | [For You](https://open.spotify.com/track/7kwvdtVviGrOFVnxYvxgWa) | [Elevated](https://open.spotify.com/artist/5CrY5YQGk93PB7K1nNcM0q) | [For You](https://open.spotify.com/album/4VnRF5HOae0tK7It1e8AeE) | 2:48 |
 | 90 | [Wildin'](https://open.spotify.com/track/5laEZ8aZUdmjqw41FwvNHa) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Asali \(Sweeter\)](https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R) | 3:01 |
 
-Snapshot ID: `MCwzNzk0YjVkNWE1ZGUyMjg5NWFhMmRlNGM3ZjY1NGI1NTBlYWRlNzY3`
+Snapshot ID: `MCw4OGM4YmEwZWVmZjRhYjdiODliMmUxNzEwMWVhMDY0ZWFkMDE4ZTJk`

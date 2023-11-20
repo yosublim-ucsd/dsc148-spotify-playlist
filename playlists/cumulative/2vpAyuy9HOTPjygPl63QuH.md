@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno music, updated every friday 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-1,534 songs - 3 day 15 hr 26 min
+1,535 songs - 3 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,6 +506,7 @@
 | [Get Down](https://open.spotify.com/track/3DbGq0D8wNmJiVCX9cAGJ9) | [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx), [Sly Phil](https://open.spotify.com/artist/06SYIS4XW5dAf8BQYuOM48) | [Discothèque Records](https://open.spotify.com/album/2iP4REyTCmaf5LQziVUEIK) | 3:10 | 2022-07-30 | 2022-08-06 |
 | [Get Down Low](https://open.spotify.com/track/6T53siWIthcX249qVObvu1) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Jewel Kid](https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB) | [EDC Orlando 2023](https://open.spotify.com/album/16NYFe6WQwVUBd5c26Bc2t) | 5:12 | 2023-11-03 | 2023-11-10 |
 | [Get Funky](https://open.spotify.com/track/5jIob6NBjowr3jwtfPNNuw) | [Fallon](https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR) | [Get Funky](https://open.spotify.com/album/0CjCBNRWMWsQErpAfoeU77) | 3:17 | 2023-04-28 | 2023-05-06 |
+| [Get Hard \(You In The Lobby\)](https://open.spotify.com/track/3tUtwmznpPiEu8AkqX3Xom) | [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4) | [Get Hard \(You In The Lobby\)](https://open.spotify.com/album/3Py5hR3sTJG5PqCxw6TqYn) | 2:36 | 2023-11-20 |  |
 | [Get Hype](https://open.spotify.com/track/2UGV2JS4bfUy8ETLpZZoA8) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Jaquell](https://open.spotify.com/artist/1VMWb2Dj2XqtR3xsArTlUh) | [Get Hype](https://open.spotify.com/album/6hw6p6J90qLn09B43dk0DQ) | 2:51 | 2023-10-27 | 2023-11-04 |
 | [GET IT](https://open.spotify.com/track/2Qv0e96tKykDDPYtqGMcAx) | [ZIOS](https://open.spotify.com/artist/1HFgOhnb76kDSv4U6SqLHX) | [GET IT](https://open.spotify.com/album/5vuaYsKIYxBcsHHsFOsCKP) | 3:32 | 2023-03-10 | 2023-03-18 |
 | [Get It Now](https://open.spotify.com/track/1EcRdhEVxAGHKYM9yY9q7R) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Get It Now](https://open.spotify.com/album/3C3eMyKZM2d8lgqQcJffHP) | 2:22 | 2023-10-06 | 2023-10-14 |

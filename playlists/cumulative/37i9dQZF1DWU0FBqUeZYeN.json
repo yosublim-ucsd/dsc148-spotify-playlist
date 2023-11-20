@@ -3522,7 +3522,7 @@
     {
       "album": {
         "name": "Rumble / The Swag",
-        "url": "https://open.spotify.com/album/70hzJHg6pWndTe9lm4SZVB"
+        "url": "https://open.spotify.com/album/72BkQUvWYk5ykUeKqplwFE"
       },
       "artists": [
         {
@@ -3533,6 +3533,24 @@
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 147693,
+      "name": "Rumble",
+      "url": "https://open.spotify.com/track/3BdoWtWx0tuYgJziTESrjP"
+    },
+    {
+      "album": {
+        "name": "Rumble / The Swag",
+        "url": "https://open.spotify.com/album/70hzJHg6pWndTe9lm4SZVB"
+      },
+      "artists": [
+        {
+          "name": "Link Wray & The Wraymen",
+          "url": "https://open.spotify.com/artist/6PnWx4EpoWejrFQfrg06hU"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-20",
       "duration_ms": 147693,
       "name": "Rumble",
       "url": "https://open.spotify.com/track/5W45ACJYATjWEwUDYM5TDi"

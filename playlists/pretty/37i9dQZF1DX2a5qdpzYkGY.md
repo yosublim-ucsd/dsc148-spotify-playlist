@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 
 > Music for Imaginary Films
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,577 likes - 75 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,580 likes - 75 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [String Feelings](https://open.spotify.com/track/0nWOYmDaMsM7uJChu8zspP) | [Robohands](https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX) | [Violet](https://open.spotify.com/album/1cUaUc1ZjGRAgu1rltpeN8) | 1:59 |
 | 2 | [Hopopono](https://open.spotify.com/track/3Z3wyUUPcKyw4nJkW2PqBA) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [v2.0 \(Deluxe Edition\)](https://open.spotify.com/album/7rXrjbrYcXG8EkqXpt0weK) | 3:56 |
-| 3 | [The Lamentations of Jeremiah](https://open.spotify.com/track/1HecBEsDV1CRaDYbVld4iX) | [Vince Clarke](https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1) | [The Lamentations of Jeremiah](https://open.spotify.com/album/2xyjuimdchfHIk17LrnwE6) | 4:23 |
+| 3 | [The Lamentations of Jeremiah](https://open.spotify.com/track/7ka9vGJqjXXNyyLPiu7i4f) | [Vince Clarke](https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1) | [Songs of Silence](https://open.spotify.com/album/3WNHfcR03NSfUg4ZcZJG7t) | 4:23 |
 | 4 | [Journey In Satchidananda](https://open.spotify.com/track/2gG3ivmsfylVXLyIJvLXyN) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Journey in Satchidananda](https://open.spotify.com/album/6zV55F6W8kh1qe8LHhqRbz) | 6:36 |
 | 5 | [Night Service](https://open.spotify.com/track/5Hc511aAeqSeQ5PoBqZd84) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f), [Heemo\*](https://open.spotify.com/artist/0iim4E2EDMwWUFngjxk5ip) | [Healing](https://open.spotify.com/album/5J89tzUF3Yuw2Iqo68Ejtl) | 3:02 |
 | 6 | [Kandaiki](https://open.spotify.com/track/1jsnIb8rHk5GgsN3oUNB6O) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Animalia](https://open.spotify.com/album/5yelbd379vJVsYZH2A9yYF) | 5:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 74 | [Marrow](https://open.spotify.com/track/5Yazj7mltNE4Dpntdv8ToR) | [Joyful Joyful](https://open.spotify.com/artist/7JnZTk2934EGRekaVoeb90) | [Marrow](https://open.spotify.com/album/7rYsPmnu3EI4sgSAztAjff) | 4:39 |
 | 75 | [Passing Lights \- Cinematic Version](https://open.spotify.com/track/2W0euyZlyIjmwYNzEfcVwr) | [Douran](https://open.spotify.com/artist/3Rvdn0CASBunaYXQHEKIoQ) | [Reflections 02](https://open.spotify.com/album/33CSkPGUlGsQ6a4pBFfRL2) | 2:36 |
 
-Snapshot ID: `MCwxNTMyZTI1YmJhMjExYTY2ODhkNjBkYjQ0NjI4NmRkMWQxMGYzZWU2`
+Snapshot ID: `MCxkMDJmNTcyNjUyZGJlYTUzYzNiNDFmY2I4Y2FmMjlkMTU1MjYzMzQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,257 likes - 300 songs - 18 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,303 likes - 300 songs - 18 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 299 | [Ask Me Again](https://open.spotify.com/track/6e47Pg5J7YtKJwGyvoDQjd) | [We Three Trio](https://open.spotify.com/artist/1T5DJ6QCdj86XsYXSCF5kj) | [Ask Me Again](https://open.spotify.com/album/0FuL5flOIZiQjYWEyPh6r4) | 4:10 |
 | 300 | [Prelude to a Kiss](https://open.spotify.com/track/5BicIdY49XrhTcy7BNwTmI) | [Ollie Reiss Trio](https://open.spotify.com/artist/5wzTGmtiNrS8PsSpkPac9D) | [Alone Together](https://open.spotify.com/album/1MIIX2y8kcImWXeypeevlv) | 5:25 |
 
-Snapshot ID: `MCw4MmY2YTZlNDU4OTVhNDA3MTUzMmQxYjUxNmI0OGFlOTc3OTFkNDU5`
+Snapshot ID: `MCwxNjY4YmNkY2IwNzVjYjZhNmRiZDI2ZGU0YWUxZWQzOGQ4NzgwMTdk`

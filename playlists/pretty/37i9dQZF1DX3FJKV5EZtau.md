@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 
 > Electronic tunes for your virtual world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,580 likes - 125 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,627 likes - 125 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 | 124 | [care about u](https://open.spotify.com/track/4jZlOF64flGokeFKZFeK6o) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [care about u](https://open.spotify.com/album/7zMyMiXtQe4ZKn3Hkrsvom) | 3:21 |
 | 125 | [Don't Need You](https://open.spotify.com/track/0se8mCFDYQohVqP6cFoToK) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Don't Need You](https://open.spotify.com/album/76yfAYufLuG6wYQRRnJTx5) | 3:17 |
 
-Snapshot ID: `MCw2YzVlMjEyNTc0YzY1ZWZiMjdlMzNlMTI0YmFjMmMwMTFiMTY5OTEx`
+Snapshot ID: `MCwwMWUwYThlM2JiZDliMmY1YmVhNWEwN2E1MmMyNzMxZWZlMmFjNGM2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw7xU7q62kt.md) - [plain]
 
 > Beats with a flavour of Jazz\. Cover: James Francis
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,677 likes - 125 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,756 likes - 125 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw7xU7q62kt.md) - [plain]
 | 124 | [Cap Camarat](https://open.spotify.com/track/4TWtN1Dyc4VpP5pJlpxj0z) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Cap Camarat](https://open.spotify.com/album/4MXJK2URbvnoLt3UTkezyP) | 4:15 |
 | 125 | [A New Spring](https://open.spotify.com/track/3cwML7ybj0fRZWMG7fx0vV) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Loren Oden](https://open.spotify.com/artist/6FAJyMDeXJXCRryVAUXNkQ) | [Lonnie Liston Smith JID017](https://open.spotify.com/album/580mkfgZtjgWloZrKS1lYE) | 3:08 |
 
-Snapshot ID: `MCxkZmFjMTNiZjllYmZjOWE2YzRlMDRkNzQxYTE2ODgyNzA2OWJmYTMz`
+Snapshot ID: `MCw0MWY0NTliZDJkZDBiYTU5MzZhNzU1OTdiYThiMzg4Zjg2OWJiYmQw`

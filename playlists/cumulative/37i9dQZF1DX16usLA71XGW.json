@@ -1384,10 +1384,28 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-20",
       "duration_ms": 164443,
       "name": "Penzi Wa Kasi",
       "url": "https://open.spotify.com/track/4vaKIBY9351V0u6bstPpUu"
+    },
+    {
+      "album": {
+        "name": "Unintentional",
+        "url": "https://open.spotify.com/album/02Gdfad4w6K6LVJQKU8mwO"
+      },
+      "artists": [
+        {
+          "name": "Njerae",
+          "url": "https://open.spotify.com/artist/3ZYEtzcOgxeYX1DdaAYjuO"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164443,
+      "name": "Penzi Wa Kasi",
+      "url": "https://open.spotify.com/track/53scc3D6nerhdtZKAFkr0b"
     },
     {
       "album": {

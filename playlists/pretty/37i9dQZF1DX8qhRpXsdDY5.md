@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 
 > Latin classics to get you in the Christmas spirit\. Cover: José Feliciano
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,090 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,222 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 49 | [Llorarás en Navidad](https://open.spotify.com/track/5BgP3UYLNQI8QnaLHM2otE) | [Pablo Montero](https://open.spotify.com/artist/5LfXEvzfy6pPUcX1SclyA3) | [Navidad Mexicana](https://open.spotify.com/album/6Buy4rhHYa7wVcSN8fePK7) | 2:58 |
 | 50 | [Todo Lo Que Quiero Eres Tu](https://open.spotify.com/track/3xArObyf7VjKv3pyKKOKBS) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [Posadas, Piñatas Y Navidad](https://open.spotify.com/album/1x7PupJEcuZPYIDtGMfj6o) | 3:31 |
 
-Snapshot ID: `MCw0NGRlNWY2ZDc0NjFkZDNlNjRkM2IzYTk5MTAyYzgxMTA5YTA4Zjcx`
+Snapshot ID: `MCw0MDI4MTQ3MDQ2NDZiMTg1ZjE5NTY4ZjdkYzRiYzJmMTJmMzE1ODM4`

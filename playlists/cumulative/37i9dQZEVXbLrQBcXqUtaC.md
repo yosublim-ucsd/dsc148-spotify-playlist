@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Saudi Arabia.
 
-1,075 songs - 2 day 14 hr 9 min
+1,076 songs - 2 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,7 @@
 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-07-22 | 2023-08-05 |
 | [Kalby Jobarny \- Live](https://open.spotify.com/track/00LX4aUgpDFG4zZO1H3Lx8) | [Yasser Abd El Wahab](https://open.spotify.com/artist/22Alyz1Ir6G94r9EDTtf21) | [Qalby Jobarny](https://open.spotify.com/album/7wPO7bqctfEFgCmwwMXROB) | 3:59 | 2021-08-05 | 2022-05-30 |
 | [Kan Lak Ma'aya \(Feat\. Umm Kulthum\)](https://open.spotify.com/track/6EVt050wg9TQv9HpSn0Ke3) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK), [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [The Ugly Ducklings](https://open.spotify.com/album/64DY9gqA0dWDjP7v6NSlVL) | 3:45 | 2021-09-27 | 2021-12-06 |
-| [Kareh Nafsi](https://open.spotify.com/track/2HBLe2Hkm1l2Om72BJ9Bxx) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kareh Nafsi](https://open.spotify.com/album/6WAwzHLkg6FeJh07Mgo0qp) | 3:39 | 2023-11-16 |  |
+| [Kareh Nafsi](https://open.spotify.com/track/2HBLe2Hkm1l2Om72BJ9Bxx) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kareh Nafsi](https://open.spotify.com/album/6WAwzHLkg6FeJh07Mgo0qp) | 3:39 | 2023-11-16 | 2023-11-20 |
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-10-22 | 2022-11-05 |
 | [Karma \(feat\. Ice Spice\)](https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:21 | 2023-05-27 | 2023-05-30 |
 | [Keep Driving](https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:20 | 2022-05-21 | 2022-05-23 |
@@ -663,7 +663,7 @@
 | [Qué Más Pues?](https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Qué Más Pues?](https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK) | 3:37 | 2021-08-29 | 2021-08-30 |
 | [Race My Mind](https://open.spotify.com/track/2Q3jFbyE61mCjS3SkW4toJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:29 | 2021-09-05 | 2021-09-06 |
 | [Raindrops \(Insane\) \[with Travis Scott\]](https://open.spotify.com/track/4qf2G3v1ychaRZ0glmrkES) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:08 | 2022-12-05 | 2022-12-09 |
-| [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 | 2023-08-12 | 2023-11-17 |
+| [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 | 2023-08-12 |  |
 | [Raksit Leila](https://open.spotify.com/track/6m4Cm5ipAbjGPKozWI08lR) | [Mashrou' Leila](https://open.spotify.com/artist/2RIrl9cApI8HwM6aF4Jt5m) | [Mashrou' Leila](https://open.spotify.com/album/4bOxUbTKHcHrkEJqNjeJir) | 4:24 | 2022-04-21 | 2022-05-28 |
 | [RAPSTAR](https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:45 | 2021-06-13 | 2021-08-29 |
 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 | 2021-04-14 | 2021-06-13 |
@@ -1045,7 +1045,7 @@
 | [ليه الجفا](https://open.spotify.com/track/21redrQKfqom4LJarOQtQS) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [ليه الجفا](https://open.spotify.com/album/57bMxlsbSlrnqWPVorzowh) | 3:16 | 2021-03-27\* | 2021-10-17 |
 | [ما اقدر اخونك](https://open.spotify.com/track/3iEe0l4ItrM9vgMHSnnr6t) | [Fahed Bin Fasla](https://open.spotify.com/artist/2CfEAlvAtAJ7MvCQl4mptz) | [ما اقدر اخونك](https://open.spotify.com/album/7uzMGbFNKS7K6koM513rjC) | 4:51 | 2021-08-13 | 2021-08-25 |
 | [محبوبي](https://open.spotify.com/track/3q4wYXlmczY9bLSzsLLxeX) | [امطير بو خشيم](https://open.spotify.com/artist/20htsFoChICRGiu1rd2AtC) | [محبوبي](https://open.spotify.com/album/2BcEROZDdQq34wgixXYaPd) | 5:56 | 2022-11-23 | 2022-12-19 |
-| [مخصماك](https://open.spotify.com/track/71lgZsFMawXgnG4vcICNbS) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/1XpmXpnQY5eXMj5OSUicaf) | 3:18 | 2023-07-28 |  |
+| [مخصماك](https://open.spotify.com/track/71lgZsFMawXgnG4vcICNbS) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [مخصماك](https://open.spotify.com/album/1XpmXpnQY5eXMj5OSUicaf) | 3:18 | 2023-07-28 | 2023-11-20 |
 | [مرحب يالي تسمع فينا](https://open.spotify.com/track/3h7VvetIBrLtqmPHp7yFT3) | [سـعـداوى القطعانى](https://open.spotify.com/artist/48saLdhDhEHvAvXI7rFv31) | [مرحب يالي تسمع فينا](https://open.spotify.com/album/0G8bGuktljoAGg9fbgVm9z) | 5:23 | 2021-08-25 | 2021-09-05 |
 | [مسيطره](https://open.spotify.com/track/4hFNqLwpBM1WoaxrgEForT) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [مسيطره](https://open.spotify.com/album/5jHYpm290ktqzYSqOwlwLy) | 2:48 | 2021-10-22 | 2022-02-01 |
 | [مع الأسف](https://open.spotify.com/track/7yZoCbugaNaR3Ewwgr19y4) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [مع الأسف](https://open.spotify.com/album/7t3fiFizoUlCgSKdHTWCrC) | 4:40 | 2022-01-29 | 2022-02-06 |
@@ -1077,6 +1077,7 @@
 | [ياحلوه يا مظلومه](https://open.spotify.com/track/1dtdhDZ5ApMKaI6YGMDyaX) | [ابو سراج](https://open.spotify.com/artist/0vpmKeQKsemdWl7keerMxD) | [ياحلوه يا مظلومه](https://open.spotify.com/album/0IDO9jvpOUsUudouAEDp1G) | 3:55 | 2023-10-20 |  |
 | [ياروح الروح](https://open.spotify.com/track/3XmE6vRiL5J1298TPNGrVM) | [Ghareeb Al Mokhles](https://open.spotify.com/artist/3eM60hEiQQkLy0WNlyTiFa) | [خيبه](https://open.spotify.com/album/70BWuxXZqCXCp8VylBtT2c) | 2:53 | 2021-08-28 | 2021-09-18 |
 | [ياروح الروح](https://open.spotify.com/track/7CTkmBM1Ff1lc35v0rcD24) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [ياروح الروح](https://open.spotify.com/album/2LwaqJo5BhCsJWiqqJJqvQ) | 2:56 | 2021-06-20 | 2021-10-03 |
+| [ياعراقي يعينك الله](https://open.spotify.com/track/3AIvLcWka4WEzQr0smrxww) | [Toomyh](https://open.spotify.com/artist/20FKm9sbfyhN7cc5SWOII7) | [ياعراقي يعينك الله](https://open.spotify.com/album/6wYAmYdxEJTFFaI2ou0R9Y) | 3:04 | 2023-11-19 |  |
 | [ياوطن طاهر ترابك](https://open.spotify.com/track/438ZRCqfXEltdzoRYEZAjf) | [A7ar0](https://open.spotify.com/artist/6BvzpUCVj93EGHBLDZBZSG) | [a7ar0 \| 2](https://open.spotify.com/album/3VPEdUnLlf9ovcXCZCEgiW) | 4:09 | 2023-06-22 | 2023-08-19 |
 | [ياوطن طاهر ترابك](https://open.spotify.com/track/7Fy8pZGUY5T070navcXFmX) | [A7ar0](https://open.spotify.com/artist/6BvzpUCVj93EGHBLDZBZSG) | [a7ar0 \| 5](https://open.spotify.com/album/7BOZou3wSgA1AMewNJZTuf) | 4:09 | 2023-02-14 | 2023-08-20 |
 | [ياويل حالي](https://open.spotify.com/track/58dTPKK9gxPuWg6DNOZwi6) | [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [ياويل حالي](https://open.spotify.com/album/2aYpyh5eahuZXzY1HIBqmM) | 3:18 | 2023-04-21 | 2023-04-25 |
