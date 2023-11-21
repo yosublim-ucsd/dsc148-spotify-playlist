@@ -4,7 +4,7 @@
 
 > We're back! The newest Hip\-Hop, refreshed weekly\. Cover: Lil Durk
 
-1,587 songs - 3 day 4 hr 49 min
+1,588 songs - 3 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [Cocaine Spoon feat\. Rick Ross](https://open.spotify.com/track/5nE4i6WuiOqgkQQR76T3M6) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Mumble Rap 2](https://open.spotify.com/album/5AESfqbUcud4cq4xkvmFAq) | 2:34 | 2023-05-19 | 2023-05-27 |
 | [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:12 | 2023-03-17 | 2023-03-25 |
 | [coffee](https://open.spotify.com/track/5TGUssx4QqE84w8RHT4ya8) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv) | [coffee](https://open.spotify.com/album/1daPyoPJWFMVoyteJP0755) | 2:15 | 2023-04-07 | 2023-04-15 |
+| [Cold \(feat\. B.G\. & Mike WiLL Made\-It\)](https://open.spotify.com/track/4PKh6tJP16etcy2eKyMODe) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Cold \(feat\. B.G\. & Mike WiLL Made\-It\)](https://open.spotify.com/album/30n2gaTkEAk04fqVGusVNh) | 2:35 | 2023-11-17 |  |
 | [COLD BANANA](https://open.spotify.com/track/6VaJ6fmcWtSusUfcT1sHVc) | [G Milla](https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW) | [COLD BANANA](https://open.spotify.com/album/4XUv14AmwtMMIOGsejdLjP) | 3:24 | 2023-11-17 |  |
 | [Cold Like Canada](https://open.spotify.com/track/29jyPQAujJJ7RoFfmdOVQG) | [HunnaV](https://open.spotify.com/artist/0l0gRnqPszmcf6NQKcyuWH), [Will Ryte](https://open.spotify.com/artist/5kyrkoHcYHl2Hf74KB4fVw), [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [Cold Like Canada](https://open.spotify.com/album/2GTFKDqoCztLc8cfyb6ice) | 2:40 | 2023-08-25 | 2023-09-02 |
 | [Colder](https://open.spotify.com/track/0A9tNCFJ9LnuI5Sa1DMLpC) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Colder](https://open.spotify.com/album/7eCjIsAE3PX6gLkQ6UfWyA) | 3:03 | 2023-04-07 | 2023-04-15 |

@@ -3448,7 +3448,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 136803,
       "name": "Papaya",
       "url": "https://open.spotify.com/track/4Az1TpAuG5E8dDqYjyVGUX"
@@ -5118,6 +5118,24 @@
       "duration_ms": 184925,
       "name": "What's Love",
       "url": "https://open.spotify.com/track/5pzoT4oIMaoGnzH1BYQlFT"
+    },
+    {
+      "album": {
+        "name": "Woke Up Dis Morning",
+        "url": "https://open.spotify.com/album/3Er14Y7GQXzN9vINCBgVXD"
+      },
+      "artists": [
+        {
+          "name": "Eddie Zuko",
+          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177021,
+      "name": "Woke Up Dis Morning",
+      "url": "https://open.spotify.com/track/312ixrbrcnAF8Mn0XeDOlX"
     },
     {
       "album": {

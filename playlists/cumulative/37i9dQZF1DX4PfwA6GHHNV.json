@@ -75,6 +75,28 @@
     },
     {
       "album": {
+        "name": "Afropaty",
+        "url": "https://open.spotify.com/album/5fOaa75x89O1eBzazgjGu7"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Afropaty",
+      "url": "https://open.spotify.com/track/3MtyP815SMmI3bMeLnxDWB"
+    },
+    {
+      "album": {
         "name": "AluSina",
         "url": "https://open.spotify.com/album/3dNOgfJ2zEpqt2ablgMG4C"
       },
@@ -1672,7 +1694,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 215572,
       "name": "T\u00f4 Aqui de Novo",
       "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"

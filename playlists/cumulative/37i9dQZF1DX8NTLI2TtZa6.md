@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-456 songs - 19 hr 32 min
+458 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Eclectism](https://open.spotify.com/track/32SgWxCokUcQ6jGIzSIlbR) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Eclectism](https://open.spotify.com/album/6WBv2p7ixzRHdzApg88XEJ) | 2:53 | 2021-12-07 | 2023-03-22 |
 | [Eclipse](https://open.spotify.com/track/0Ck0h2BOe48JxLlPQrl1sV) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Eclipse](https://open.spotify.com/album/2tFttOMbr6jYqnsulIqdAy) | 2:17 | 2021-12-07 | 2022-05-21 |
 | [Eclipse](https://open.spotify.com/track/5nbWpY8HpQSdqWbPBWmJ8j) | [Ron Lopata](https://open.spotify.com/artist/126P8vRqW1X8AOS0LfKbtA) | [Sketches For Piano](https://open.spotify.com/album/0goZUsZwzGvX8oWFnF6e1z) | 2:17 | 2023-06-27 |  |
+| [Elevation](https://open.spotify.com/track/741SePkge5anOObH5JLG5r) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Elevation](https://open.spotify.com/album/7gM5ChlcBV9dLSxm53qLJ4) | 3:20 | 2023-11-20 |  |
 | [Emerald](https://open.spotify.com/track/6Y6xWTWRzij8b6qcRbOnDh) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Emerald](https://open.spotify.com/album/5nkbs2eOGUOuSGkMd2nmfR) | 2:42 | 2021-12-07 | 2023-04-19 |
 | [Endearing](https://open.spotify.com/track/3iyyTUxW6Y7StfgGFzwHte) | [Harriet Ward](https://open.spotify.com/artist/5JgjuQre7URctYtCdsmO7Y) | [Endearing](https://open.spotify.com/album/4igF9besSJ9l4MzQQfT9SK) | 2:17 | 2021-12-07 | 2023-05-10 |
 | [Escape With Me](https://open.spotify.com/track/3cvXr0N2DWk8qeFVS1JEgo) | [Marina Aden](https://open.spotify.com/artist/0sSwEGrgOOrG2RVtPF5weI) | [Escape With Me](https://open.spotify.com/album/5KPh3wnnOwsWBKJl4rIVFm) | 2:34 | 2023-04-18 |  |
@@ -409,6 +410,7 @@
 | [The Optimist](https://open.spotify.com/track/4wJd6cER10JZRuU5y3DBkZ) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [The Optimist](https://open.spotify.com/album/3KzZstlr8d3MiiO1swIRJX) | 2:39 | 2023-05-09 |  |
 | [The promenade](https://open.spotify.com/track/7wwoRmaR5PedYCw1iWtjAM) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [The promenade](https://open.spotify.com/album/4j34n7TZ31JyiCgulAMSnJ) | 1:59 | 2023-08-07 | 2023-08-22 |
 | [The Right Course](https://open.spotify.com/track/6vjhLsJbpfclLNSCKHjGTW) | [Jone Lange](https://open.spotify.com/artist/4bG81VTcDhZQpPzrHyWksb) | [The Right Course](https://open.spotify.com/album/1Oa9FqJMkzggnUsHyywQ7Q) | 1:59 | 2023-04-18 | 2023-08-22 |
+| [The Sound of Snow](https://open.spotify.com/track/2x90SHtWXagGmY5w0HVx1i) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [The Sound Of Snow](https://open.spotify.com/album/0WIVuD9M706cCtCSTGCFZY) | 2:35 | 2023-11-20 |  |
 | [The Theme of Life](https://open.spotify.com/track/3uAeBJ1Mmdo58cJ8XgjkkC) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [The Theme of Life](https://open.spotify.com/album/31QPie97sYOMWtwpzCYNUj) | 3:25 | 2023-04-18 |  |
 | [The Voyager](https://open.spotify.com/track/6u8ftnh4bKbKvWNu8ozes8) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [The Voyager](https://open.spotify.com/album/6nBGhLiVCCHBbJH1j8zzYK) | 2:22 | 2023-09-11 |  |
 | [The wind](https://open.spotify.com/track/7FKB0MIXYg8Umwa1UWt2ur) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [The wind](https://open.spotify.com/album/4veQnMsuik4JKs5msFYX94) | 2:06 | 2023-10-23 |  |

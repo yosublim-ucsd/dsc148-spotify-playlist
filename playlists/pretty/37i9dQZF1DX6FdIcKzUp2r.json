@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 220272,
+  "num_followers": 220384,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTk2ZWFjOTFkYmY0MzVmYzdjODQzOTMwMWM1Njk1MzVmMTZlOTQ3",
+  "snapshot_id": "MCwzYjk3MjQ4YjFlMzNmMjhmM2I0YmJhOTcxYTQ2NDQ5MjBhMjVkNjEw",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -287,22 +287,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Ultimate Air Supply",
-        "url": "https://open.spotify.com/album/5PXeBHFjvr8EykHfFxJMje"
-      },
-      "artists": [
-        {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
-        }
-      ],
-      "duration_ms": 241373,
-      "name": "All Out of Love",
-      "url": "https://open.spotify.com/track/6Nq8YtPAHuL1outooeiFde"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Into the Gap (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Ev5WLJKbqwakkJlgGDcgo"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 286226,
       "name": "Hold Me Now",
       "url": "https://open.spotify.com/track/43h4FonpCeaaURpFpiQsf9"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Ultimate Air Supply",
+        "url": "https://open.spotify.com/album/5PXeBHFjvr8EykHfFxJMje"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 241373,
+      "name": "All Out of Love",
+      "url": "https://open.spotify.com/track/6Nq8YtPAHuL1outooeiFde"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -527,22 +527,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Tunnel Of Love",
-        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 261826,
-      "name": "One Step Up",
-      "url": "https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "...By Appointment",
         "url": "https://open.spotify.com/album/7on9pbqcvWOX46FjzuaumM"
       },
@@ -559,18 +543,18 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "...But Seriously (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
+        "name": "Tunnel Of Love",
+        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 320293,
-      "name": "That's Just the Way It Is - 2016 Remaster",
-      "url": "https://open.spotify.com/track/5R1VlOafxN2pqpiEuFr1Hi"
+      "duration_ms": 261826,
+      "name": "One Step Up",
+      "url": "https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -587,6 +571,22 @@
       "duration_ms": 148693,
       "name": "Theme from Harry's Game",
       "url": "https://open.spotify.com/track/7CTSDg60OC15XUJusBLPuo"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "...But Seriously (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 320293,
+      "name": "That's Just the Way It Is - 2016 Remaster",
+      "url": "https://open.spotify.com/track/5R1VlOafxN2pqpiEuFr1Hi"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -719,6 +719,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 350293,
+      "name": "Haunt Me",
+      "url": "https://open.spotify.com/track/1u0LQwTtYAi7LZbknFNhZ1"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "The Immaculate Collection",
         "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
       },
@@ -735,18 +751,18 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Stronger Than Pride",
-        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+        "name": "Thirty Thousand Feet Over China",
+        "url": "https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH"
       },
       "artists": [
         {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+          "name": "The Passions",
+          "url": "https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3"
         }
       ],
-      "duration_ms": 350293,
-      "name": "Haunt Me",
-      "url": "https://open.spotify.com/track/1u0LQwTtYAi7LZbknFNhZ1"
+      "duration_ms": 241320,
+      "name": "I'm In Love With A German Film Star",
+      "url": "https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -767,18 +783,18 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Thirty Thousand Feet Over China",
-        "url": "https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH"
+        "name": "The Best Of Jon & Vangelis",
+        "url": "https://open.spotify.com/album/4alWkBQdvkbrs1cB5pFjzc"
       },
       "artists": [
         {
-          "name": "The Passions",
-          "url": "https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3"
+          "name": "Jon & Vangelis",
+          "url": "https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae"
         }
       ],
-      "duration_ms": 241320,
-      "name": "I'm In Love With A German Film Star",
-      "url": "https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81"
+      "duration_ms": 288200,
+      "name": "I Hear You Now",
+      "url": "https://open.spotify.com/track/0rhUvAqeXfG4gl4IZhglgX"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -811,22 +827,6 @@
       "duration_ms": 239720,
       "name": "The Things You Said - 2006 Remaster",
       "url": "https://open.spotify.com/track/3i1Th1jZXXO0ZpGKhpTKWK"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "The Best Of Jon & Vangelis",
-        "url": "https://open.spotify.com/album/4alWkBQdvkbrs1cB5pFjzc"
-      },
-      "artists": [
-        {
-          "name": "Jon & Vangelis",
-          "url": "https://open.spotify.com/artist/5gS1uXayWA0WJPgcRqNIae"
-        }
-      ],
-      "duration_ms": 288200,
-      "name": "I Hear You Now",
-      "url": "https://open.spotify.com/track/0rhUvAqeXfG4gl4IZhglgX"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "Legend (2003 - Remaster)",
+        "url": "https://open.spotify.com/album/7enmtrbP0bVki5Pjc7GMjV"
+      },
+      "artists": [
+        {
+          "name": "Clannad",
+          "url": "https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Lady Marian (2003 - Remaster)",
+      "url": "https://open.spotify.com/track/4Y8bMbwPVrdYlMNJBSXR9c"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "Tunnel Of Love",
         "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 319960,
       "name": "Sweetest Smile - Extended Version",
       "url": "https://open.spotify.com/track/5tew2YDhxcjh6RAdgxVt4Q"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "Legend (2003 - Remaster)",
-        "url": "https://open.spotify.com/album/7enmtrbP0bVki5Pjc7GMjV"
-      },
-      "artists": [
-        {
-          "name": "Clannad",
-          "url": "https://open.spotify.com/artist/0BkAYxgwF9VQiid4wI07yJ"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Lady Marian (2003 - Remaster)",
-      "url": "https://open.spotify.com/track/4Y8bMbwPVrdYlMNJBSXR9c"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Imperial Bedroom",
-        "url": "https://open.spotify.com/album/1pK8MLyjgvt8pNVkQCBnSg"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
-        }
-      ],
-      "duration_ms": 167880,
-      "name": "Almost Blue",
-      "url": "https://open.spotify.com/track/4xRnzruHzWObdNdjAOW4vL"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "The Friends Of Mister Cairo (Remastered)",
         "url": "https://open.spotify.com/album/5xqDwdauo7dizP38KurfOB"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 270666,
       "name": "I'll Find My Way Home - Remastered",
       "url": "https://open.spotify.com/track/2UUPd83rV19BPDbjlp0RU6"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Imperial Bedroom",
+        "url": "https://open.spotify.com/album/1pK8MLyjgvt8pNVkQCBnSg"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "duration_ms": 167880,
+      "name": "Almost Blue",
+      "url": "https://open.spotify.com/track/4xRnzruHzWObdNdjAOW4vL"
     },
     {
       "added_at": "2018-12-12 11:36:39",

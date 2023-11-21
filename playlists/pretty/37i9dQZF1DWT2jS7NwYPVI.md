@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise rock & alt world\. Cover: Friko
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,123 likes - 126 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,161 likes - 126 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 125 | [Fight 4 luv](https://open.spotify.com/track/2uP2DSCbBr8vXo5PWeYHNO) | [Dimitri Miller](https://open.spotify.com/artist/2ZKmcBDtaUAUMnNbCvNdhC) | [Bro...it's not that deep](https://open.spotify.com/album/4CDRjB3gXtisl1KinHU7f9) | 2:54 |
 | 126 | [Lip](https://open.spotify.com/track/49KU7hgM1KD3py8fNAAkPG) | [Mama Zu](https://open.spotify.com/artist/6OG25jh0gJ5FaFhw39eX2y) | [Lip](https://open.spotify.com/album/5PvUkKp9ifL4RpUcKjtHoQ) | 3:04 |
 
-Snapshot ID: `MCxiNTBiYTVkYTI1ZTRkNjI2YzZhNmNlNzk0N2I3ZDYxZmVlMmVlMWFj`
+Snapshot ID: `MCw0M2FiNTU3NWE3NmUwY2MzNGFjNjk4ZjNjYTcwZTIzOTViMTZhYzFi`

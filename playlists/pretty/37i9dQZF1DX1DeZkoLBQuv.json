@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 6821,
+  "num_followers": 6855,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjc4YzFiOGVmYjc1MDJjYzAyMzRlN2E5NDk0YmFmMjNlZDI3MDA1",
+  "snapshot_id": "MCxmODBiNWUyZjc5ZDczMWU5Y2YzYmQzMzQ4M2UwY2VkZjc4MDIzY2Yy",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -243,22 +243,18 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Comunh\u00e3o e Adora\u00e7\u00e3o 6 (Ac\u00fastico Ao Vivo)",
-        "url": "https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ"
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/3fr0LeKrr6xCgzCoZlFCqi"
       },
       "artists": [
         {
-          "name": "Adhemar De Campos",
-          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
-        },
-        {
-          "name": "Soraya Moraes",
-          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
+          "name": "Purples",
+          "url": "https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B"
         }
       ],
-      "duration_ms": 245160,
-      "name": "O Nome de Jesus - Ac\u00fastico Ao Vivo",
-      "url": "https://open.spotify.com/track/0RYH0i4FQkqJoyCrJC81Zz"
+      "duration_ms": 279520,
+      "name": "Emanuel",
+      "url": "https://open.spotify.com/track/35iw6IUqq1E5k1h9P0xfhR"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -279,18 +275,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/3fr0LeKrr6xCgzCoZlFCqi"
+        "name": "Comunh\u00e3o e Adora\u00e7\u00e3o 6 (Ac\u00fastico Ao Vivo)",
+        "url": "https://open.spotify.com/album/2Y67rR3nVWYbRgt8pRQpoJ"
       },
       "artists": [
         {
-          "name": "Purples",
-          "url": "https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B"
+          "name": "Adhemar De Campos",
+          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
+        },
+        {
+          "name": "Soraya Moraes",
+          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
         }
       ],
-      "duration_ms": 279520,
-      "name": "Emanuel",
-      "url": "https://open.spotify.com/track/35iw6IUqq1E5k1h9P0xfhR"
+      "duration_ms": 245160,
+      "name": "O Nome de Jesus - Ac\u00fastico Ao Vivo",
+      "url": "https://open.spotify.com/track/0RYH0i4FQkqJoyCrJC81Zz"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Cl\u00e1ssicos",
-        "url": "https://open.spotify.com/album/3ZMh5UQE6PXXzx09BtUHz7"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        }
-      ],
-      "duration_ms": 220788,
-      "name": "Maravilhoso \u00c9 / Rei dos Reis",
-      "url": "https://open.spotify.com/track/10RdMJVJqgP8ooC3csHvi4"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Natal em Fam\u00edlia",
         "url": "https://open.spotify.com/album/4QDBdfwMYCdnme9obNYOy5"
       },
@@ -499,18 +483,18 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+        "name": "Cl\u00e1ssicos",
+        "url": "https://open.spotify.com/album/3ZMh5UQE6PXXzx09BtUHz7"
       },
       "artists": [
         {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
         }
       ],
-      "duration_ms": 196765,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/1hDbPsFAV6FSFhvLIaEfuP"
+      "duration_ms": 220788,
+      "name": "Maravilhoso \u00c9 / Rei dos Reis",
+      "url": "https://open.spotify.com/track/10RdMJVJqgP8ooC3csHvi4"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -575,6 +559,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 196765,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/1hDbPsFAV6FSFhvLIaEfuP"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
         "name": "\u00d3, Vinde, Adoremos",
         "url": "https://open.spotify.com/album/18SwXFPhxjgOzEnJERhcBd"
       },
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Busquem a Jesus",
-        "url": "https://open.spotify.com/album/3X38B5YfsA0lGcY4BEOj3i"
-      },
-      "artists": [
-        {
-          "name": "Matheus Rizzo",
-          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
-        }
-      ],
-      "duration_ms": 322058,
-      "name": "Busquem a Jesus",
-      "url": "https://open.spotify.com/track/6Dhjqku6LpMOMzYJHMiwkl"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "O Natal de Todos N\u00f3s",
         "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
       },
@@ -659,22 +643,18 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Apaixonado",
-        "url": "https://open.spotify.com/album/1MCml2KLtS3X9Ld3ACxMMp"
+        "name": "Busquem a Jesus",
+        "url": "https://open.spotify.com/album/3X38B5YfsA0lGcY4BEOj3i"
       },
       "artists": [
         {
-          "name": "Patricia Romania",
-          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
-        },
-        {
-          "name": "Daniel L\u00fcdtke",
-          "url": "https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa"
+          "name": "Matheus Rizzo",
+          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
         }
       ],
-      "duration_ms": 337537,
-      "name": "Apaixonado",
-      "url": "https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk"
+      "duration_ms": 322058,
+      "name": "Busquem a Jesus",
+      "url": "https://open.spotify.com/track/6Dhjqku6LpMOMzYJHMiwkl"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -691,6 +671,26 @@
       "duration_ms": 211466,
       "name": "Primeiro Natal (The First Noel)",
       "url": "https://open.spotify.com/track/2GANoSBnjKrVaJuCX4QXZa"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Apaixonado",
+        "url": "https://open.spotify.com/album/1MCml2KLtS3X9Ld3ACxMMp"
+      },
+      "artists": [
+        {
+          "name": "Patricia Romania",
+          "url": "https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K"
+        },
+        {
+          "name": "Daniel L\u00fcdtke",
+          "url": "https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa"
+        }
+      ],
+      "duration_ms": 337537,
+      "name": "Apaixonado",
+      "url": "https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+      },
+      "artists": [
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        }
+      ],
+      "duration_ms": 267911,
+      "name": "O Melhor Presente",
+      "url": "https://open.spotify.com/track/5CFywKhIB9izXEO3PzboZO"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
         "name": "Outra Vez, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3RZA19AblrMjpYWIVzPU59"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 282500,
       "name": "Como Um de N\u00f3s - Ao Vivo",
       "url": "https://open.spotify.com/track/1ALCSur6iFfGd1UuVoF0Td"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        }
-      ],
-      "duration_ms": 267911,
-      "name": "O Melhor Presente",
-      "url": "https://open.spotify.com/track/5CFywKhIB9izXEO3PzboZO"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -879,18 +879,18 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Cl\u00e1ssicos da M\u00fasica Crist\u00e3",
-        "url": "https://open.spotify.com/album/4yqfNbc2llXhuLAFIOVVXY"
+        "name": "O Natal de Todos N\u00f3s",
+        "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
       },
       "artists": [
         {
-          "name": "Ellas",
-          "url": "https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm"
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
         }
       ],
-      "duration_ms": 218314,
-      "name": "Vem Cear",
-      "url": "https://open.spotify.com/track/1lzrmVDUaFNEB5586Lpw5e"
+      "duration_ms": 284200,
+      "name": "Noite Feliz (Stille Nacht)",
+      "url": "https://open.spotify.com/track/51CfgUkv6ZVK5MMtsuBgWT"
     }
   ],
   "unique_name": "Louvores de Natal",

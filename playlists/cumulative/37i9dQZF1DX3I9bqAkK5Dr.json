@@ -118,7 +118,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 208872,
       "name": "Andame",
       "url": "https://open.spotify.com/track/5CHTjwWyqr4uhkRWNcT3Vf"
@@ -2044,7 +2044,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 285111,
       "name": "Noi",
       "url": "https://open.spotify.com/track/2dgzpgnsazXnZ6j1DrbjWU"
@@ -3005,6 +3005,24 @@
     },
     {
       "album": {
+        "name": "Senorita",
+        "url": "https://open.spotify.com/album/7pQCwjwozrK3RFejeLP6UA"
+      },
+      "artists": [
+        {
+          "name": "The Fantasia Men",
+          "url": "https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206285,
+      "name": "Senorita",
+      "url": "https://open.spotify.com/track/3sOIbX8Z78FhbGlkEyyGik"
+    },
+    {
+      "album": {
         "name": "Shashi",
         "url": "https://open.spotify.com/album/4M7U0wd17LfToupjlmn4GZ"
       },
@@ -3176,7 +3194,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 183600,
       "name": "Tamil Pilla",
       "url": "https://open.spotify.com/track/5fi1gKgLd5mmg3wW3KVxGm"
@@ -3370,6 +3388,28 @@
       "duration_ms": 183632,
       "name": "Uhhh!",
       "url": "https://open.spotify.com/track/5s3oxeEBwvqCDA2VPtYzCd"
+    },
+    {
+      "album": {
+        "name": "Unnale Nee Kosam",
+        "url": "https://open.spotify.com/album/6zodQWOGxCMYKOiYhMuhYv"
+      },
+      "artists": [
+        {
+          "name": "Kanha Mohanty",
+          "url": "https://open.spotify.com/artist/3TpKuzt672JdZX9B0NvA0D"
+        },
+        {
+          "name": "Nikki George",
+          "url": "https://open.spotify.com/artist/1cprnGfYrfsnaBT2A6QMr4"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Unnale Nee Kosam",
+      "url": "https://open.spotify.com/track/22qSRZ72otdpb4OZGe3W4k"
     },
     {
       "album": {

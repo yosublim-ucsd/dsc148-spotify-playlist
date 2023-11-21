@@ -137,6 +137,24 @@
     },
     {
       "album": {
+        "name": "Wish (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173306,
+      "name": "A Wish Worth Making",
+      "url": "https://open.spotify.com/track/0uan47LDD0HMob7n3UMkZd"
+    },
+    {
+      "album": {
         "name": "Album",
         "url": "https://open.spotify.com/album/24Ahtqv11h48hMk9UcJPhH"
       },
@@ -2849,6 +2867,24 @@
     },
     {
       "album": {
+        "name": "The Hanging Tree (from The Hunger Games: The Ballad of Songbirds & Snakes)",
+        "url": "https://open.spotify.com/album/0tkdGuAFwXKyGsNmsEbaCn"
+      },
+      "artists": [
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143988,
+      "name": "The Hanging Tree - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/12xA59A83Ir77gcYs0w4TA"
+    },
+    {
+      "album": {
         "name": "Songs of the Great Hill",
         "url": "https://open.spotify.com/album/0sxZZDmsx0ih796gVVrA19"
       },
@@ -2860,7 +2896,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 140173,
       "name": "The Least",
       "url": "https://open.spotify.com/track/1yuHXM3jAS4Te3o1qrXAY2"
@@ -3034,7 +3070,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 317693,
       "name": "The Phantom Of The Opera Symphonic Suite - Pt.1",
       "url": "https://open.spotify.com/track/1KgJrBJv7nxhpPunJOXXgt"

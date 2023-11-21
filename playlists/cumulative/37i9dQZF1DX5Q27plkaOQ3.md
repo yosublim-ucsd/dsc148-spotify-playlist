@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: PEEKABOO
 
-465 songs - 1 day 2 hr 27 min
+466 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [2Nite](https://open.spotify.com/track/6Jw4guwTyYoV8bsMhK1mTG) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [2Nite](https://open.spotify.com/album/6UnSBFydjgagyhNaN2JJ1o) | 3:47 | 2022-10-28 | 2023-04-15 |
 | [776](https://open.spotify.com/track/6REKxS2cHlZxLgdGcxtwCv) | [Dack Janiels](https://open.spotify.com/artist/4F8JGeO6bJO7Z309mxHlP0), [Gawm](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL) | [776](https://open.spotify.com/album/5vEzgYeS6UyCHKlXKNWho9) | 2:38 | 2022-01-21 | 2022-10-30 |
 | [A Brief Tutorial On Dubstep Production \- Kayzo Remix](https://open.spotify.com/track/2mHY0y8Gw7dtsTYHX7fjvy) | [Dubba Jonny](https://open.spotify.com/artist/4rv9ymvcXOcbHrjkMkoA32), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [A Brief Tutorial On Dubstep Production \(Kayzo Remix\)](https://open.spotify.com/album/5XtE33BRDYkaXo80TS9Yr0) | 2:13 | 2023-02-10 |  |
+| [Abracadabra](https://open.spotify.com/track/6Xdh9gHP0JJAEFQbz60PKf) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [Abracadabra](https://open.spotify.com/album/74Dy1dquFmryKSxtw8mlKY) | 2:49 | 2023-10-27 |  |
 | [ACHROMATIC \(YOI\)](https://open.spotify.com/track/59VLB2PliEAlylSbCdH7Xa) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [MIDHEAVEN: OPUS 01](https://open.spotify.com/album/37wprYEPL1p87I75PMMRMt) | 2:55 | 2022-10-28 |  |
 | [Addicted](https://open.spotify.com/track/10Ypa5Os3CqBKRZT8K2V9Q) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Addicted](https://open.spotify.com/album/3nonfj60UK0mksfJlP9Dir) | 2:49 | 2022-11-11 | 2023-06-13 |
 | [Addicted 2 U](https://open.spotify.com/track/75A3usA2hRJmaqnABohyAG) | [Oddprophet](https://open.spotify.com/artist/6KqmNCHompcbyvzpesJTYU) | [Addicted 2 U](https://open.spotify.com/album/0nEy6XV1GHyRZJd1yTgcX6) | 4:56 | 2022-03-11 | 2023-04-01 |
@@ -65,7 +66,7 @@
 | [BUBBLE BASS](https://open.spotify.com/track/57iPY8trFGMdDvs2IQNxmw) | [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [BUBBLE BASS](https://open.spotify.com/album/0Xns6eK58lVfQsZFMoTZRQ) | 2:48 | 2021-12-17 | 2022-05-07 |
 | [Bubble Up](https://open.spotify.com/track/11eC2qnJdadhKgDI3Y2bhX) | [Jayceeoh](https://open.spotify.com/artist/1tCaVerFstPJotxmXX6lFL) | [Bubble Up](https://open.spotify.com/album/5ZD0wmDSdnsobHtQKHMWiL) | 2:48 | 2021-12-17 | 2022-08-14 |
 | [Buckle Up](https://open.spotify.com/track/6DzgdoD0Dv3JQhU5bsg6IR) | [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK) | [Buckle Up](https://open.spotify.com/album/1Y7XTqyNmMflkVxWlLOBmz) | 3:15 | 2023-03-31 | 2023-06-30 |
-| [Buckshots](https://open.spotify.com/track/7cl3BbyjU0AdCbbsf1lIx8) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Buckshots](https://open.spotify.com/album/4ZsDomkJqxfKQcH25O0XyK) | 4:11 | 2023-09-15 |  |
+| [Buckshots](https://open.spotify.com/track/7cl3BbyjU0AdCbbsf1lIx8) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Buckshots](https://open.spotify.com/album/4ZsDomkJqxfKQcH25O0XyK) | 4:11 | 2023-09-15 | 2023-11-21 |
 | [Bullet](https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg) | [GHASTLY](https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh) | [Haunted Haus](https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5) | 3:21 | 2022-04-15 | 2023-03-11 |
 | [Bullet Hole](https://open.spotify.com/track/3r1IPri4eZ4WHNAMCd38Bs) | [Point.Blank](https://open.spotify.com/artist/0kceiKJrP7AsW2rUPeAw3v) | [Dark Matter EP](https://open.spotify.com/album/6iqrCQIQZEptZ2O1e6nBQR) | 2:45 | 2021-12-17 | 2022-07-31 |
 | [Bump This](https://open.spotify.com/track/2O5oAio774pIRQGe3mnh5T) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Dubs In Limbo](https://open.spotify.com/album/3pmTlgjrJEYzS26fKhgshb) | 3:18 | 2022-10-21 | 2022-10-25 |

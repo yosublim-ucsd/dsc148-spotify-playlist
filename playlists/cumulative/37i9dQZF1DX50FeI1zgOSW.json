@@ -1649,6 +1649,28 @@
     },
     {
       "album": {
+        "name": "Love Aala",
+        "url": "https://open.spotify.com/album/1qqnd5lZvHXYftKidVNbIp"
+      },
+      "artists": [
+        {
+          "name": "MC DEVESH",
+          "url": "https://open.spotify.com/artist/3eelw9NJgb9Gx5X80SHhiT"
+        },
+        {
+          "name": "Urban Thozha",
+          "url": "https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167571,
+      "name": "Love Aala",
+      "url": "https://open.spotify.com/track/3hEHVzkcQAGxrORQDdMxyJ"
+    },
+    {
+      "album": {
         "name": "Love Meter",
         "url": "https://open.spotify.com/album/2Wkg54aEEoT0aYJqzYXc4X"
       },
@@ -2048,6 +2070,28 @@
       "duration_ms": 169104,
       "name": "Mudhal Murai",
       "url": "https://open.spotify.com/track/3HwPouek9TmVxN2S7upmyb"
+    },
+    {
+      "album": {
+        "name": "Mudhal Murai Remix",
+        "url": "https://open.spotify.com/album/3orfjlmNbjAWjySPm8yu5Y"
+      },
+      "artists": [
+        {
+          "name": "Bala D Thala",
+          "url": "https://open.spotify.com/artist/3CFRLXRbbMaNDSUNs1oohV"
+        },
+        {
+          "name": "Jeruson",
+          "url": "https://open.spotify.com/artist/08z8cYk0E56BpT6vSS04ss"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Mudhal Murai Remix",
+      "url": "https://open.spotify.com/track/1NZtPJVOrzRa0evVphoz9M"
     },
     {
       "album": {
@@ -2514,6 +2558,32 @@
       "duration_ms": 175415,
       "name": "Poidhana",
       "url": "https://open.spotify.com/track/4wVREm2fORlNJIm5FkxPHk"
+    },
+    {
+      "album": {
+        "name": "Polladha Iravugal",
+        "url": "https://open.spotify.com/album/6VgyrPpnlalVMILCTKujo5"
+      },
+      "artists": [
+        {
+          "name": "Thuva JB Chandran",
+          "url": "https://open.spotify.com/artist/7jaNjjYdfdqOSC9VH7aEqq"
+        },
+        {
+          "name": "Kishoth Chandru",
+          "url": "https://open.spotify.com/artist/5t7nfwWyqV7znxqBUjnBFI"
+        },
+        {
+          "name": "Kenny Hash",
+          "url": "https://open.spotify.com/artist/3Evgr9WAmkz4w0zlC2qBCA"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223318,
+      "name": "Polladha Iravugal",
+      "url": "https://open.spotify.com/track/0tYx6yVQooVCELXVJZIgn1"
     },
     {
       "album": {
@@ -3210,6 +3280,24 @@
       "duration_ms": 187692,
       "name": "Tholayure Naane",
       "url": "https://open.spotify.com/track/0D0ZSPvk2MBrs1eZHvoKUH"
+    },
+    {
+      "album": {
+        "name": "Tholvi Kondavar Naam",
+        "url": "https://open.spotify.com/album/0tuTX1iY4xZ4ZCWZjeneI4"
+      },
+      "artists": [
+        {
+          "name": "The songs of society",
+          "url": "https://open.spotify.com/artist/1gIjLVjVt6WtdyOe93BL0U"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346607,
+      "name": "Tholvi Kondavar Naam",
+      "url": "https://open.spotify.com/track/34ruDKLw6OXTU0pB5tEmjL"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 16684,
+  "num_followers": 16769,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDRmNmZkNjdlMjE3M2VjZTg3ODI2ZGZkY2Q2M2FkMDA4ODBjNjg1",
+  "snapshot_id": "MCwwNmIwMzdkN2Q0MDFiZDc1YTRmM2QwYmM4ZDQzMTY1NDRmOGU1OGZl",
   "tracks": [
     {
       "added_at": "2023-11-03 06:22:09",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-11-03 06:22:09",
       "album": {
+        "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2h1hXSJ9CtXJ3RJtCIMsYr"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 192430,
+      "name": "Forgetting You",
+      "url": "https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB"
+    },
+    {
+      "added_at": "2023-11-03 06:22:09",
+      "album": {
         "name": "180\u02da",
         "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
       },
@@ -191,6 +207,22 @@
       "duration_ms": 316506,
       "name": "My sea",
       "url": "https://open.spotify.com/track/46wDG6evLn2iPoQ0F8CUWk"
+    },
+    {
+      "added_at": "2023-11-03 06:22:09",
+      "album": {
+        "name": "Twinkling Watermelon (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq"
+      },
+      "artists": [
+        {
+          "name": "Aalia",
+          "url": "https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS"
+        }
+      ],
+      "duration_ms": 233317,
+      "name": "About loneliness",
+      "url": "https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf"
     },
     {
       "added_at": "2023-11-03 06:22:09",
@@ -227,38 +259,6 @@
       "duration_ms": 302864,
       "name": "\ub9c8\uc74c\uc758 \ub9d0",
       "url": "https://open.spotify.com/track/6CVX9ntSpFqJVZshovBh10"
-    },
-    {
-      "added_at": "2023-11-03 06:22:09",
-      "album": {
-        "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/2h1hXSJ9CtXJ3RJtCIMsYr"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 192430,
-      "name": "Forgetting You",
-      "url": "https://open.spotify.com/track/59OFG0mm09ve4i3RcbmdwB"
-    },
-    {
-      "added_at": "2023-11-03 06:22:09",
-      "album": {
-        "name": "Twinkling Watermelon (Original Television Soundtrack) Pt. 5",
-        "url": "https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq"
-      },
-      "artists": [
-        {
-          "name": "Aalia",
-          "url": "https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS"
-        }
-      ],
-      "duration_ms": 233317,
-      "name": "About loneliness",
-      "url": "https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf"
     },
     {
       "added_at": "2023-11-03 06:22:09",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-11-03 06:22:09",
       "album": {
-        "name": "SOLISTA Part.2",
-        "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
-      },
-      "artists": [
-        {
-          "name": "Kim Bum Soo",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
-        }
-      ],
-      "duration_ms": 251689,
-      "name": "Last Love",
-      "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
-    },
-    {
-      "added_at": "2023-11-03 06:22:09",
-      "album": {
         "name": "Thank you for Goodbye",
         "url": "https://open.spotify.com/album/4gbJXOF7sByWg5P6VrpoN3"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 253985,
       "name": "Thank you for Goodbye",
       "url": "https://open.spotify.com/track/6Bg4lDnamQKDVbiV7M53z1"
+    },
+    {
+      "added_at": "2023-11-03 06:22:09",
+      "album": {
+        "name": "SOLISTA Part.2",
+        "url": "https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA"
+      },
+      "artists": [
+        {
+          "name": "Kim Bum Soo",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        }
+      ],
+      "duration_ms": 251689,
+      "name": "Last Love",
+      "url": "https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi"
     },
     {
       "added_at": "2023-11-03 06:22:09",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-11-03 06:22:09",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus"
-      },
-      "artists": [
-        {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "Without U",
-      "url": "https://open.spotify.com/track/6uy6OjdR33a74DfkaJ8Ar1"
-    },
-    {
-      "added_at": "2023-11-03 06:22:09",
-      "album": {
         "name": "&10",
         "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
       },
@@ -559,34 +543,18 @@
     {
       "added_at": "2023-11-03 06:22:09",
       "album": {
-        "name": "START-UP (Original Television Soundtrack) Pt. 15",
-        "url": "https://open.spotify.com/album/0xAoGTzx1tl2j6xuVoLg90"
+        "name": "O",
+        "url": "https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus"
       },
       "artists": [
         {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
         }
       ],
-      "duration_ms": 216266,
-      "name": "\ub0a0 \uc0ac\ub791\ud55c \ucc98\uc74c\uc758 \ub108\ub85c \ub3cc\uc544\uc640",
-      "url": "https://open.spotify.com/track/21gnQyyXCoEgDkq3kU9kWZ"
-    },
-    {
-      "added_at": "2023-11-03 06:22:09",
-      "album": {
-        "name": "inside",
-        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
-      },
-      "artists": [
-        {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
-        }
-      ],
-      "duration_ms": 228548,
-      "name": "lie",
-      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
+      "duration_ms": 217040,
+      "name": "Without U",
+      "url": "https://open.spotify.com/track/6uy6OjdR33a74DfkaJ8Ar1"
     },
     {
       "added_at": "2023-11-03 06:22:09",
@@ -627,6 +595,22 @@
     {
       "added_at": "2023-11-03 06:22:09",
       "album": {
+        "name": "inside",
+        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "duration_ms": 228548,
+      "name": "lie",
+      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
+    },
+    {
+      "added_at": "2023-11-03 06:22:09",
+      "album": {
         "name": "Emptiness in Memory",
         "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 278454,
       "name": "Emptiness in Memory",
       "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
+    },
+    {
+      "added_at": "2023-11-03 06:22:09",
+      "album": {
+        "name": "START-UP (Original Television Soundtrack) Pt. 15",
+        "url": "https://open.spotify.com/album/0xAoGTzx1tl2j6xuVoLg90"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "\ub0a0 \uc0ac\ub791\ud55c \ucc98\uc74c\uc758 \ub108\ub85c \ub3cc\uc544\uc640",
+      "url": "https://open.spotify.com/track/21gnQyyXCoEgDkq3kU9kWZ"
     },
     {
       "added_at": "2023-11-03 06:22:09",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-11-03 06:22:09",
       "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 227360,
-      "name": "Clockwork",
-      "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
-    },
-    {
-      "added_at": "2023-11-03 06:22:09",
-      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/3OI0ZIZFK6K1CKbgNtL6LY"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 258321,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/0iJhBjjOrLKG8RwmjWWSfF"
+    },
+    {
+      "added_at": "2023-11-03 06:22:09",
+      "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 227360,
+      "name": "Clockwork",
+      "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
     },
     {
       "added_at": "2023-11-03 06:22:09",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-11-03 06:22:09",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 7 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE"
-      },
-      "artists": [
-        {
-          "name": "88-Keys",
-          "url": "https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE"
-        }
-      ],
-      "duration_ms": 240266,
-      "name": "The Island",
-      "url": "https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir"
-    },
-    {
-      "added_at": "2023-11-03 06:22:09",
-      "album": {
         "name": "Still Here",
         "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
       },
@@ -771,18 +755,34 @@
     {
       "added_at": "2023-11-03 06:22:09",
       "album": {
-        "name": "Eyebrow Moon",
-        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
+        "name": "YUMI's Cells 2, Pt. 7 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0FmT4QGX0aEIZpZ6RU7AvE"
       },
       "artists": [
         {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+          "name": "88-Keys",
+          "url": "https://open.spotify.com/artist/1GnO4Ck1wmhQ7KRiHcTpvE"
         }
       ],
-      "duration_ms": 236693,
-      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
-      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
+      "duration_ms": 240266,
+      "name": "The Island",
+      "url": "https://open.spotify.com/track/6EvQreH8DrIwGkk50xIwir"
+    },
+    {
+      "added_at": "2023-11-03 06:22:09",
+      "album": {
+        "name": "\uc815\ub958\uc7a5 The last stop of our pain",
+        "url": "https://open.spotify.com/album/6ErmQRbVnpGp9MilUAQSED"
+      },
+      "artists": [
+        {
+          "name": "HANRORO",
+          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "\uc815\ub958\uc7a5 The last stop of our pain",
+      "url": "https://open.spotify.com/track/4kWRjkhMIGMnyWpYc8L7no"
     },
     {
       "added_at": "2023-11-03 06:22:09",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-11-03 06:22:09",
       "album": {
-        "name": "\uc815\ub958\uc7a5 The last stop of our pain",
-        "url": "https://open.spotify.com/album/6ErmQRbVnpGp9MilUAQSED"
+        "name": "Eyebrow Moon",
+        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
       },
       "artists": [
         {
-          "name": "HANRORO",
-          "url": "https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx"
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
         }
       ],
-      "duration_ms": 252000,
-      "name": "\uc815\ub958\uc7a5 The last stop of our pain",
-      "url": "https://open.spotify.com/track/4kWRjkhMIGMnyWpYc8L7no"
+      "duration_ms": 236693,
+      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
+      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
     },
     {
       "added_at": "2023-11-03 06:22:09",

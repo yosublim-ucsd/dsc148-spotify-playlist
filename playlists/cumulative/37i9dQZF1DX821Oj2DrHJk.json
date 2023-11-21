@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Down the Dustpipe",
+        "url": "https://open.spotify.com/album/6uZDQxyMSEQ9kWFVjAaHl3"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123026,
+      "name": "Down the Dustpipe",
+      "url": "https://open.spotify.com/track/0FG6V5ufEXCJSC1WwiX4Fh"
+    },
+    {
+      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
@@ -812,7 +830,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 205440,
       "name": "Girls Talk",
       "url": "https://open.spotify.com/track/7vjs7IWQlxfhlxSYsKbKB6"
@@ -1100,7 +1118,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 135666,
       "name": "I Love To Boogie",
       "url": "https://open.spotify.com/track/7dc8lqKS2P4Zq59g0yThvH"
@@ -1446,6 +1464,24 @@
       "duration_ms": 241040,
       "name": "Lola",
       "url": "https://open.spotify.com/track/0UAJH0k4k3slcE83a9UGCe"
+    },
+    {
+      "album": {
+        "name": "Lola Versus Powerman and the Moneygoround, Pt. 1",
+        "url": "https://open.spotify.com/album/6cv47fKkAyi9Lm5wwud4It"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241991,
+      "name": "Lola (2020 Stereo Remaster)",
+      "url": "https://open.spotify.com/track/4Tjs8b6jL1s18sjURJtswp"
     },
     {
       "album": {

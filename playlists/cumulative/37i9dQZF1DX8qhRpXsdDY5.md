@@ -4,7 +4,7 @@
 
 > Latin classics to get you in the Christmas spirit\. Cover: José Feliciano
 
-237 songs - 14 hr 6 min
+238 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Jingle Bells \(Canta, Celia Cruz\)](https://open.spotify.com/track/6Ueg2fmZTxI2jaQ8UrX4An) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Nochebuena In Cuba](https://open.spotify.com/album/0xezE4KgAneArEhKjQHuIE) | 2:19 | 2022-11-08 | 2022-11-12 |
 | [Jingle Bells \(Cascabeles\)](https://open.spotify.com/track/4SFjK5RjMOA8ZqvjnWqQfe) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Navidades Con La Sonora Matancera](https://open.spotify.com/album/76JaJI88p06XmGGKWIS6rr) | 2:23 | 2021-12-17 | 2022-12-19 |
 | [Jingle Bells \(Vamos All The Way\)](https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Jingle Bells \(Vamos All The Way\)](https://open.spotify.com/album/0gR6qZcx3ByPTHIUUSBdFe) | 2:35 | 2022-11-25 | 2022-12-20 |
+| [Joy To The World](https://open.spotify.com/track/41Ogug754mzHgkMjbTpzuF) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Feliz Christmas \(Vol\. 1\)](https://open.spotify.com/album/04P0Tmoq7JlFW5vQIw6T3E) | 3:22 | 2023-11-17 |  |
 | [La Clave](https://open.spotify.com/track/5Ux94g63fF8uxUHaqDOi8t) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Clave](https://open.spotify.com/album/2X4174eeWM2B3aMPKUyk5S) | 2:17 | 2022-12-18 | 2022-12-20 |
 | [La Fiesta de Pilito](https://open.spotify.com/track/0GppZBPxqJ70c3kYFX4AQm) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [30th Anniversary](https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud) | 3:57 | 2021-12-17 | 2022-12-19 |
 | [La Fiesta Se Pone Buena](https://open.spotify.com/track/0iG4fSbECL4BUhLWVMZrSr) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI), [Pupy Santiago](https://open.spotify.com/artist/1AwtkVab3KjuB4wHYVj28r) | [Estrellas de Navidad](https://open.spotify.com/album/0jUakt5QsrlOsrGV4u8TxU) | 5:00 | 2021-12-17 | 2022-11-13 |
@@ -213,7 +214,7 @@
 | [Te Deseo Muy Felices Fiestas](https://open.spotify.com/track/7k14Hgdg2U6nM5cF2QtQYE) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Sweet Christmas Ukulele & Jazz](https://open.spotify.com/album/0GKnPhTHDcxSmIsnAC5wzi) | 4:13 | 2022-12-19 |  |
 | [Te Deseo Muy Felices Fiestas \- Have Yourself a Merry Little Christmas](https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Te Deseo Muy Felices Fiestas \(Have Yourself a Merry Little Christmas\)](https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC) | 3:57 | 2022-12-18 | 2022-12-20 |
 | [Te Regalo](https://open.spotify.com/track/2h8ifm4ZdUjRMAMVjYYcQk) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Te Regalo](https://open.spotify.com/album/6WG0yEtxedxIVbpakcqKSl) | 3:01 | 2021-12-17 | 2022-12-19 |
-| [Todo Lo Que Quiero Eres Tu](https://open.spotify.com/track/3xArObyf7VjKv3pyKKOKBS) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [Posadas, Piñatas Y Navidad](https://open.spotify.com/album/1x7PupJEcuZPYIDtGMfj6o) | 3:31 | 2023-11-02 |  |
+| [Todo Lo Que Quiero Eres Tu](https://open.spotify.com/track/3xArObyf7VjKv3pyKKOKBS) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [Posadas, Piñatas Y Navidad](https://open.spotify.com/album/1x7PupJEcuZPYIDtGMfj6o) | 3:31 | 2023-11-02 | 2023-11-21 |
 | [Todo Lo Que Quiero Eres Tu](https://open.spotify.com/track/7b6feyyH5HsJUSBwtlcYrW) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [Rolitas navideñas](https://open.spotify.com/album/1e2Tzt6ON6y9NTiizI5RYk) | 3:31 | 2022-12-19 | 2023-09-28 |
 | [Triste Navidad \- Spotify Singles](https://open.spotify.com/track/2JIBylKkq8Fan9Ode61X7D) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Navidad \- Spotify Singles](https://open.spotify.com/album/1uTAF8ztXofqNCTzUY6kg8) | 3:27 | 2022-11-16 | 2022-12-20 |
 | [Tu Adiós Es Mi Navidad](https://open.spotify.com/track/0GA7enjACq1tLPVnJ9pDI1) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Dios Me Señaló](https://open.spotify.com/album/2wpm5727wmmFOtmmmtjf3N) | 2:28 | 2022-12-19 |  |

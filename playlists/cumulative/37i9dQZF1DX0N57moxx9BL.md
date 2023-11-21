@@ -4,7 +4,7 @@
 
 > Listen to the recent hits of Christian Rock\.  Cover:  <a href="spotify:artist:09LCTrVGnMsGbxexUFJoap">Lacey Sturm</a>
 
-161 songs - 10 hr 34 min
+162 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Sky Is Falling](https://open.spotify.com/track/6K6W4BZlJdmRWAyJkdVgxd) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Sky Is Falling](https://open.spotify.com/album/5EfennornsN32G2PJtDopy) | 3:53 | 2021-05-28 | 2022-01-15 |
 | [Sleight of Hand](https://open.spotify.com/track/4CuLObVhLWmiXjIRqo1kpy) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [Sleight of Hand](https://open.spotify.com/album/4J7qDs39IrhORen418Vnt1) | 3:54 | 2022-01-14 | 2023-04-17 |
 | [Standing in the Storm](https://open.spotify.com/track/5ABl9GeMcWog9Yrur3P9Jq) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Standing in the Storm / Surviving The Game](https://open.spotify.com/album/3cIRw4SnfPO2TXVJK8C1nG) | 4:17 | 2022-01-14 |  |
+| [State of Me](https://open.spotify.com/track/7rSW52PJGbeFMwIdk5kEmB) | [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Kenotic Metanoia](https://open.spotify.com/album/0yZGwoSScfeRA5dbZ6NGy3) | 3:14 | 2023-11-17 |  |
 | [Still Alive](https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [Still Alive](https://open.spotify.com/album/46JJleyJyvOvbOfiH9TbO3) | 3:19 | 2021-05-28 |  |
 | [Stones](https://open.spotify.com/track/0mdx5qbiXWMkAUdL2HroPx) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Stones](https://open.spotify.com/album/1G6CJehs2AyISaaYgXGMfN) | 3:11 | 2021-05-28 | 2022-07-29 |
 | [Stones](https://open.spotify.com/track/42H7odYYQQwdWpy3tnjMka) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [Stones](https://open.spotify.com/album/3Ncre0QjJsoutiGoT2LwBv) | 3:11 | 2022-03-11 |  |
@@ -167,7 +168,7 @@
 | [When Angels & Serpents Dance \- 2022 Remixed & Remastered](https://open.spotify.com/track/2nkA5H4RB8lzWc3xRmEbBd) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 3:14 | 2023-08-04 |  |
 | [Wild Ones](https://open.spotify.com/track/5TDFpV2PIoU0leXEBq3zv2) | [Crusoe](https://open.spotify.com/artist/6ON5hdOJnGooX4VqLtObIl) | [Wild Ones](https://open.spotify.com/album/7mjkYaoqV3XIh6q6TBGvUv) | 3:02 | 2021-05-28 | 2022-10-30 |
 | [Words of Fire](https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Words of Fire](https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H) | 4:11 | 2022-10-29 |  |
-| [You Are](https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY) | [Audacious Worship](https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe) | [You Are](https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51) | 3:31 | 2022-01-14 |  |
+| [You Are](https://open.spotify.com/track/5To1qef7yQNIiFa6lLfvrY) | [Audacious Worship](https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe) | [You Are](https://open.spotify.com/album/6ASmnavwt4fCGYY8Zcnm51) | 3:31 | 2022-01-14 | 2023-11-21 |
 | [Yours Again](https://open.spotify.com/track/57fh50SS5Igc0u6LuHuZHN) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [of Beauty and Rage](https://open.spotify.com/album/4Kn0DsnXrrWm4buuVNIyBJ) | 4:49 | 2021-05-28 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

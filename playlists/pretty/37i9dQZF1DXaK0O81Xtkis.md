@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Will Linley
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,190 likes - 84 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,230 likes - 84 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 83 | [Ruin My Life](https://open.spotify.com/track/64239Uo0wTZHwUVipPzBbw) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [The Last Songs I'll Write About You \(for real\)](https://open.spotify.com/album/49uA6OX4uL1St7ZPWJ4kGD) | 3:40 |
 | 84 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
 
-Snapshot ID: `MCxjNzJjYWZkYzVhODZlMjUwNTRkOWYxN2EzODk0Y2ViYTc1OGIyNmVm`
+Snapshot ID: `MCw3OTM0NTRlNjgxZjcwODc0NzRiNjk2MzM4ZTVjNDNkZDBhZDAwZDgw`

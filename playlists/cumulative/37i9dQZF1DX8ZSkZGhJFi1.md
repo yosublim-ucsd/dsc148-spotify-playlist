@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-641 songs - 1 day 2 hr 6 min
+644 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Hollie Would](https://open.spotify.com/track/1Am4BvMjQ8iFBOq1w8V1XM) | [SkiDs](https://open.spotify.com/artist/43FpyHh0x1EX3z9kAi2huJ) | [Hollie Would](https://open.spotify.com/album/7z8CAYtyyKgjKdPwWOHAsP) | 1:55 | 2023-09-08 | 2023-09-23 |
 | [Holy Smokes](https://open.spotify.com/track/0rQsaAlvPA5hJhOJKyUuUv) | [Little Smokey](https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4) | [Holy Smokes](https://open.spotify.com/album/2NIMu0HL4nNuoXMagc9CJQ) | 1:31 | 2023-09-08 |  |
 | [Hometown](https://open.spotify.com/track/7nX4292m7E2yXft3H1aDp5) | [Manonesque](https://open.spotify.com/artist/1QJoPaMpPM8VAYEFzKJSLG) | [Hometown](https://open.spotify.com/album/5YDHV478MEMicxIVbePEdy) | 2:05 | 2022-02-17 | 2023-09-09 |
+| [Honey and Spice](https://open.spotify.com/track/5ENIpwHxPVyKEp1JUGxZt8) | [Rafa Figueroa](https://open.spotify.com/artist/5c8MjSwcTCJNWBtpKMWywB) | [Honey and Spice](https://open.spotify.com/album/3TsuK7dDF9d0Ab7VwMuqsw) | 2:08 | 2023-11-17 |  |
 | [Hontoni Tasukete](https://open.spotify.com/track/4Fq3pTVdkofsmLhCRnfgZN) | [Electro Ponzu](https://open.spotify.com/artist/7p1sA3P2zp1rIrkr9DNxfz) | [Hontoni Tasukete](https://open.spotify.com/album/772KGx3CGT2gAI7y4MiGpE) | 1:42 | 2022-02-17 | 2023-09-09 |
 | [Horizon Butterfly](https://open.spotify.com/track/0vdB56ot3Tp0xHxnU7kyCy) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [HoriZon Butterfly](https://open.spotify.com/album/1eMCCzTeBEiYL5cInuxSmp) | 2:00 | 2023-09-08 |  |
 | [Horizon mind](https://open.spotify.com/track/0KxU1WQidDDjwDbTm0YW4b) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [Horizon mind](https://open.spotify.com/album/4DPxwX7Ixo2SMiIQdUSXwE) | 3:16 | 2023-09-08 |  |
@@ -311,7 +312,7 @@
 | [Lucid Living](https://open.spotify.com/track/4wzysfxJsTFm2UvgOYFvrV) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt) | [Lucid Living](https://open.spotify.com/album/2ynlL4uaTJ9hMecU8W5LKb) | 2:26 | 2023-09-08 |  |
 | [lucky punch](https://open.spotify.com/track/4Q7dEitZXGBrgu3UzAfeZo) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [lucky punch](https://open.spotify.com/album/0ufZPC4ZmewfYvz84hExIS) | 2:08 | 2023-09-08 |  |
 | [Luma Beach](https://open.spotify.com/track/4Sn9pCrvAruVFVAIP3rppA) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Luma Beach](https://open.spotify.com/album/7LjazepQBFDepvqeF5UPOR) | 2:40 | 2023-09-08 |  |
-| [Lunaria](https://open.spotify.com/track/2LeB4W3vaR6HB4y6gWpUY9) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Lunaria / Hedera](https://open.spotify.com/album/3zP4M1aTF9givkBPPLNnjq) | 1:33 | 2023-09-08 |  |
+| [Lunaria](https://open.spotify.com/track/2LeB4W3vaR6HB4y6gWpUY9) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Lunaria / Hedera](https://open.spotify.com/album/3zP4M1aTF9givkBPPLNnjq) | 1:33 | 2023-09-08 | 2023-11-21 |
 | [Luscious](https://open.spotify.com/track/1Ab68vQtCoAu7KKcqTaE6G) | [Lé Mon](https://open.spotify.com/artist/3U3NnVCyS9UfVmCIHpb7Bo), [No Catch](https://open.spotify.com/artist/73wiYU4PA3rTJ6Bu9clbfS) | [Luscious](https://open.spotify.com/album/0SKdzfxXvINsaKXNpGn83J) | 1:57 | 2023-09-08 |  |
 | [Lush](https://open.spotify.com/track/5pbMjvDEHdFVRkxjNeaUFu) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [Lush](https://open.spotify.com/album/1jlHR4iZJzzw25bVjRBG5P) | 2:27 | 2023-09-22 |  |
 | [Maca](https://open.spotify.com/track/6gdDUUOVAlv1iIywKDRHZE) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Maca](https://open.spotify.com/album/7L6D24JOqqngMKQvknjWiA) | 2:25 | 2023-10-06 |  |
@@ -351,7 +352,7 @@
 | [Mosaic](https://open.spotify.com/track/3rDpqMkNK2YLWlGF8bKBmh) | [Lipstick Fest](https://open.spotify.com/artist/3b8kyF1PeVIOlo16gJUee1) | [Mosaic](https://open.spotify.com/album/3F1uxNrHxx5BMb7qUzFWpA) | 3:16 | 2023-09-08 |  |
 | [mountain peak](https://open.spotify.com/track/0VGLPDmgUWpoUjStj7Csvc) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [mountain peak](https://open.spotify.com/album/39X3V9LCL3hqHDiUqjUpH6) | 2:26 | 2023-09-22 |  |
 | [Mountains](https://open.spotify.com/track/00CAvtdfEEtWRkEN6Km2AW) | [Maj Majid](https://open.spotify.com/artist/2hd2AdImWEG1xPlBe6QhAP) | [Testify](https://open.spotify.com/album/3opdynBKdWUJfRZa8CaiKD) | 2:00 | 2022-02-17 | 2023-09-09 |
-| [Movie](https://open.spotify.com/track/59Wyi2Pwm4WCArYgoZ0N89) | [Danny Ghost](https://open.spotify.com/artist/3LoivJ8DRyZuJdk5R2tRGF), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Movie](https://open.spotify.com/album/58kTYTP5mRig1242uQpiqU) | 2:06 | 2023-09-08 |  |
+| [Movie](https://open.spotify.com/track/59Wyi2Pwm4WCArYgoZ0N89) | [Danny Ghost](https://open.spotify.com/artist/3LoivJ8DRyZuJdk5R2tRGF), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Movie](https://open.spotify.com/album/58kTYTP5mRig1242uQpiqU) | 2:06 | 2023-09-08 | 2023-11-21 |
 | [Music Saved My LIfe](https://open.spotify.com/track/196OGouq0ra4DRZQFvMNcJ) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Music Ruined My Life](https://open.spotify.com/album/3qcxlqf6NWGxMoRcoetCTO) | 4:04 | 2023-09-08 |  |
 | [My Story](https://open.spotify.com/track/0OS5J4N4pYDqXlJjzSOamS) | [Derregbeatz](https://open.spotify.com/artist/0dPKS837bf570gZeYe7XMY) | [My Story](https://open.spotify.com/album/3rEAU7AXZ2QtQE0wcoc8yy) | 4:20 | 2022-02-17 | 2023-01-20 |
 | [NANA](https://open.spotify.com/track/4rPKfCe7Rc4uUv9SyVkW8S) | [Big Nose](https://open.spotify.com/artist/6ETg05TrMGqIUd30ehlAvx) | [NANA](https://open.spotify.com/album/1k6DOBPWj02qzFcaMhrEEd) | 2:05 | 2023-09-08 | 2023-09-26 |
@@ -508,6 +509,7 @@
 | [Soundtrack the World!](https://open.spotify.com/track/2ORTnfqcHyGGzlZ14wpqrT) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [New Elevations](https://open.spotify.com/album/4q0Mu1FbIzqKqqgPBuAnWa) | 3:16 | 2022-02-17 | 2023-09-09 |
 | [Space Ride](https://open.spotify.com/track/0nvoFTmrfqVMjlTvhx1Sl5) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt), [Frogman](https://open.spotify.com/artist/6yctnLGapq1IRKYFxvXHbI) | [Space Ride](https://open.spotify.com/album/1Vj9dgQZ3GUR1ju2D7jBeC) | 2:42 | 2023-09-08 |  |
 | [Space Whale](https://open.spotify.com/track/5EIM4pAvU17vH3hs00Q5Z2) | [MyceliumBug](https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK), [aitlofi](https://open.spotify.com/artist/2LhvxbUfc5pT3NRKkO3UMH) | [Space Whale](https://open.spotify.com/album/0UaSTg34G9s1EaNED2VDXc) | 2:03 | 2023-09-08 |  |
+| [spacewalk](https://open.spotify.com/track/0aCCGFwEjFpwbBogpzra6b) | [okayokay](https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum) | [spacewalk](https://open.spotify.com/album/6EudaZOIQN6nXEodWRhcuX) | 2:15 | 2023-11-17 |  |
 | [Sparkling](https://open.spotify.com/track/2G9BBEiDmuFfd2TTFootms) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Sparkling](https://open.spotify.com/album/4BeEaHo85oLeYjUPTnEHSA) | 2:17 | 2023-09-08 |  |
 | [Spiderweb](https://open.spotify.com/track/7rQvmg0QWCtF8FHEsS9WTV) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Spiderweb](https://open.spotify.com/album/4Y1pdVWhJp634aCRW9nG7i) | 2:18 | 2022-02-17 | 2023-09-09 |
 | [Spin Free](https://open.spotify.com/track/3XfWLX7rsb5AptnfdY63iv) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Spin Free](https://open.spotify.com/album/3mgmSjsfe7MZcPSAlG6PuH) | 2:20 | 2023-09-08 |  |
@@ -622,6 +624,7 @@
 | [weatherlight](https://open.spotify.com/track/0pcf1rZgUG5lb6WBwbzX56) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy), [dharā](https://open.spotify.com/artist/1M6OZtIOe8HhLXuGy8djF6) | [weatherlight](https://open.spotify.com/album/4W6vDPSqFdYOaWXWVCdR8F) | 2:20 | 2023-09-08 |  |
 | [Weekends](https://open.spotify.com/track/5oUn6WpmemZm5STqFPaWRQ) | [RenBoz](https://open.spotify.com/artist/4EtruNo3qv5ML5tiXQopqT), [quietbeat](https://open.spotify.com/artist/6QA0s1mjWAjVWB54l9iccR), [VOLKHIN](https://open.spotify.com/artist/4zLct3dcGnskzifqZebi2p) | [Weekends](https://open.spotify.com/album/0uXRH3JgRswqkavOFcL8yh) | 2:03 | 2023-09-08 |  |
 | [Westminster](https://open.spotify.com/track/4xJIJavUzBatJRvs8v48dF) | [Blue Boatz](https://open.spotify.com/artist/3HrkUrHEDPnVCg92aTL15T) | [Westminster](https://open.spotify.com/album/2QC94ST7Lx4VaHNarIk6zc) | 2:44 | 2023-09-08 |  |
+| [Where are we now??](https://open.spotify.com/track/0X3VvSa9UXAAc5GkwsPEkS) | [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Where are we now??](https://open.spotify.com/album/3qdSszvaFaXLwD58p4mgVi) | 1:10 | 2023-11-17 |  |
 | [Whirlpool](https://open.spotify.com/track/3aZfUnI78dyExxPFl2Inux) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Whirlpool](https://open.spotify.com/album/1JuUBeuiFGZuNF3eV3429n) | 2:26 | 2022-02-17 | 2023-09-09 |
 | [Whis](https://open.spotify.com/track/1KswaDddiXqRnneChbrOwL) | [Charles M](https://open.spotify.com/artist/20rOuJzUYSNKfaWM69IZb3) | [Hunter Z](https://open.spotify.com/album/6w4N0qQOoZUqg0xB6Swlbg) | 2:00 | 2022-02-17 | 2023-09-09 |
 | [Who You Are](https://open.spotify.com/track/3uJCI9hrlUdjgmPh2yuv3W) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Who You Are](https://open.spotify.com/album/17SOzJd9UJnDQzDZpOWyqF) | 4:09 | 2023-09-08 |  |
@@ -648,6 +651,6 @@
 | [Your Lie](https://open.spotify.com/track/5vG2FtCtt8sBRQMNmMM4Pn) | [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ), [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Your Lie](https://open.spotify.com/album/3F5unzmA4JIAdD84m3DiNf) | 3:02 | 2023-09-08 | 2023-09-23 |
 | [youth](https://open.spotify.com/track/57AaSVynhepCoToU0n3w0w) | [surf bagel](https://open.spotify.com/artist/38YfrSySicHwZBiHjHcMua) | [youth](https://open.spotify.com/album/57gANshT81YvlraLaR26TN) | 2:01 | 2023-09-08 |  |
 | [YVR](https://open.spotify.com/track/0yr5SOfo3cErueF3GAoITq) | [GEO\-X](https://open.spotify.com/artist/5VjntCrceRx7AkVib6leeR) | [White Criss](https://open.spotify.com/album/4CZ5iModUePvfKst8fN5gR) | 3:05 | 2022-02-17 | 2023-09-09 |
-| [zinnia](https://open.spotify.com/track/1DQs099CsJFZhRhY4RLEHM) | [budtender](https://open.spotify.com/artist/2FIAMfNbjwjShlmP2qMmee) | [zinnia](https://open.spotify.com/album/4iEo34YasPvmHlU9wZZx8z) | 1:30 | 2023-09-08 |  |
+| [zinnia](https://open.spotify.com/track/1DQs099CsJFZhRhY4RLEHM) | [budtender](https://open.spotify.com/artist/2FIAMfNbjwjShlmP2qMmee) | [zinnia](https://open.spotify.com/album/4iEo34YasPvmHlU9wZZx8z) | 1:30 | 2023-09-08 | 2023-11-21 |
 
 \*This playlist was first scraped on 2022-03-02. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Kossisko
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,735 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,771 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Say Your Name](https://open.spotify.com/track/46H4hZk0WHNC4fmVJaLfr6) | [Osquello](https://open.spotify.com/artist/6ScAPpYnDsH3Cu3TKmhUJr), [Akin Soul](https://open.spotify.com/artist/2tU7aVBZIXzsKTPhm56266) | [Say Your Name](https://open.spotify.com/album/5SzR4ahdi6DTBn3vevmw0j) | 3:35 |
 | 100 | [End of Tha Night](https://open.spotify.com/track/4FCEeZGENqjVz9dDRsKJoM) | [Blaxian](https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4), [Elijah Treat](https://open.spotify.com/artist/4SzodZqoVynssqd6ajKdpB) | [End of Tha Night](https://open.spotify.com/album/4H51nFp0Ojxn4mRa8WHraj) | 3:09 |
 
-Snapshot ID: `MCw4NTczZDc5ZWFhODgxYTRmYWE4YTgyY2Y5ZmExNjE2NjQyZmRmNzFk`
+Snapshot ID: `MCwwZmE1ZDkzMzRjNTg4YWFjMGFmMzc0YTAzYTMyNDM3NWUwMTE0M2I5`

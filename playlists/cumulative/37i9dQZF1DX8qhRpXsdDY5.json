@@ -2079,6 +2079,24 @@
     },
     {
       "album": {
+        "name": "Feliz Christmas (Vol. 1)",
+        "url": "https://open.spotify.com/album/04P0Tmoq7JlFW5vQIw6T3E"
+      },
+      "artists": [
+        {
+          "name": "Pitizion",
+          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202520,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/41Ogug754mzHgkMjbTpzuF"
+    },
+    {
+      "album": {
         "name": "La Clave",
         "url": "https://open.spotify.com/album/2X4174eeWM2B3aMPKUyk5S"
       },
@@ -4022,7 +4040,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 211400,
       "name": "Todo Lo Que Quiero Eres Tu",
       "url": "https://open.spotify.com/track/3xArObyf7VjKv3pyKKOKBS"

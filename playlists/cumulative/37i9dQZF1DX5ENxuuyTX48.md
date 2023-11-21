@@ -4,7 +4,7 @@
 
 > wru? OTW! Cover: Linying
 
-653 songs - 1 day 15 hr 25 min
+654 songs - 1 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,7 +471,7 @@
 | [procrastinating](https://open.spotify.com/track/15iHiRaaYkXvpN5b8iGqDE) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [homebody](https://open.spotify.com/album/5iUZfXOCka0QcPl5KEwdKp) | 2:20 | 2023-10-27 | 2023-11-03 |
 | [Psychic Girl](https://open.spotify.com/track/5XJxAmAfcsZCKo8SIWbCqM) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Psychic Girl](https://open.spotify.com/album/67zCcRt6bDHrXqszOOfoFa) | 4:27 | 2023-10-27 | 2023-11-03 |
 | [Puas Sudah](https://open.spotify.com/track/4Smpf6t91GtnwgT1PwfJak) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Imaji](https://open.spotify.com/album/4PiZk4HGz1dHhFfEshXYq4) | 4:41 | 2023-10-27 | 2023-11-03 |
-| [Pujaanku \(feat\. Aisyah Aziz\)](https://open.spotify.com/track/5GqeQ8Xozl7ymUVV7RXjNg) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Pujaanku \(feat\. Aisyah Aziz\)](https://open.spotify.com/album/2m8JrO1U3rXYULpZCtAoHZ) | 3:54 | 2023-07-20 |  |
+| [Pujaanku \(feat\. Aisyah Aziz\)](https://open.spotify.com/track/5GqeQ8Xozl7ymUVV7RXjNg) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Pujaanku \(feat\. Aisyah Aziz\)](https://open.spotify.com/album/2m8JrO1U3rXYULpZCtAoHZ) | 3:54 | 2023-07-20 | 2023-11-21 |
 | [Pujuk Hati](https://open.spotify.com/track/71Zg9yz9DaBDcxFSPHQRT8) | [Erin CTJ](https://open.spotify.com/artist/422q9WA6jZijFrjXb0SwSo) | [Pujuk Hati](https://open.spotify.com/album/4l59VXolQqYgALWvaTXo4I) | 3:42 | 2023-11-17 |  |
 | [Pulih](https://open.spotify.com/track/1T7NMrWDpNQ25wm4druuHN) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW) | [Pulih](https://open.spotify.com/album/3qtnTp6JYFCij89TNpH5cq) | 3:46 | 2023-03-24 | 2023-05-09 |
 | [Python Lives in That House!](https://open.spotify.com/track/1AvSLppKzb5hOY0fWZaXPt) | [Oscar Lolang](https://open.spotify.com/artist/1WxiHeimXMJ6kcNlyczScQ) | [Python Lives in That House!](https://open.spotify.com/album/0frRxQDL9mQfoRjXVpXW3S) | 4:31 | 2023-06-29 | 2023-07-07 |
@@ -605,6 +605,7 @@
 | [TENNESSEE](https://open.spotify.com/track/2AFwCOahN4s0NlODlXLRFa) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [TENNESSEE](https://open.spotify.com/album/1FExYW4kwoxuHmCGgRYm8o) | 3:23 | 2023-06-29 | 2023-07-07 |
 | [Terang](https://open.spotify.com/track/7IzP3nURPkiSS84zgPlkYu) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Terang](https://open.spotify.com/album/2UT9j9mkNxEcm0yoV4Cik1) | 3:52 | 2023-03-24 | 2023-05-05 |
 | [Terdiam](https://open.spotify.com/track/59i9WWRPt1SI7i52M9Uiqz) | [Vintonic](https://open.spotify.com/artist/656eL5tEeJqWHwvkJn5TIW), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Terdiam](https://open.spotify.com/album/2uFVxEVwvGmEWAnrv6oVgu) | 3:32 | 2023-11-02 | 2023-11-11 |
+| [terima kasih](https://open.spotify.com/track/2m1ozXAKFam3YQXRPDnEfE) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/0RIVNgA95YzOPDHD4aYbqZ) | 3:24 | 2023-11-17 |  |
 | [terima kasih](https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20) | 3:24 | 2023-05-04 | 2023-11-05 |
 | [Terima Kasih Cinta](https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Confession No.1](https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v) | 4:11 | 2023-05-04 |  |
 | [Terlanjur Cinta](https://open.spotify.com/track/423AHVkxvCkVB03V3sPTIz) | [Tilu](https://open.spotify.com/artist/4vS1FUa21E9OP4HIgdAPmP), [Ali Sariah](https://open.spotify.com/artist/1BnksvdDkh4tMrSZvFMsbO) | [Terlanjur Cinta](https://open.spotify.com/album/3VOKtUXtHYK3LionGARD3d) | 3:17 | 2023-10-06 | 2023-10-20 |

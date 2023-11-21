@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sanathan Shree Krishnan",
-  "num_followers": 5212,
+  "num_followers": 5236,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzU0ZWZlYmIzNTBhOWY2MDFjODM5MDZmZDgxYmE1NDJkMjNkNDFh",
+  "snapshot_id": "MCxkOWQzYmIzZDY4YzcwNDIwMDllZWY4YzE0Njc1NWNlZDkzZjIyNzEw",
   "tracks": [
     {
       "added_at": "2023-10-27 09:17:06",
@@ -165,6 +165,22 @@
       "url": "https://open.spotify.com/track/76Rduf0fn3F5UsCZI4X17J"
     },
     {
+      "added_at": "2023-11-20 07:32:52",
+      "album": {
+        "name": "Tholvi Kondavar Naam",
+        "url": "https://open.spotify.com/album/0tuTX1iY4xZ4ZCWZjeneI4"
+      },
+      "artists": [
+        {
+          "name": "The songs of society",
+          "url": "https://open.spotify.com/artist/1gIjLVjVt6WtdyOe93BL0U"
+        }
+      ],
+      "duration_ms": 346607,
+      "name": "Tholvi Kondavar Naam",
+      "url": "https://open.spotify.com/track/34ruDKLw6OXTU0pB5tEmjL"
+    },
+    {
       "added_at": "2023-11-17 07:20:27",
       "album": {
         "name": "Come to Me Baby",
@@ -215,6 +231,50 @@
       "duration_ms": 181894,
       "name": "Unnai Arindhen",
       "url": "https://open.spotify.com/track/0Ftrt53lcsdxMuEpKBOqUE"
+    },
+    {
+      "added_at": "2023-11-20 07:00:02",
+      "album": {
+        "name": "Polladha Iravugal",
+        "url": "https://open.spotify.com/album/6VgyrPpnlalVMILCTKujo5"
+      },
+      "artists": [
+        {
+          "name": "Thuva JB Chandran",
+          "url": "https://open.spotify.com/artist/7jaNjjYdfdqOSC9VH7aEqq"
+        },
+        {
+          "name": "Kishoth Chandru",
+          "url": "https://open.spotify.com/artist/5t7nfwWyqV7znxqBUjnBFI"
+        },
+        {
+          "name": "Kenny Hash",
+          "url": "https://open.spotify.com/artist/3Evgr9WAmkz4w0zlC2qBCA"
+        }
+      ],
+      "duration_ms": 223318,
+      "name": "Polladha Iravugal",
+      "url": "https://open.spotify.com/track/0tYx6yVQooVCELXVJZIgn1"
+    },
+    {
+      "added_at": "2023-11-20 07:24:13",
+      "album": {
+        "name": "Love Aala",
+        "url": "https://open.spotify.com/album/1qqnd5lZvHXYftKidVNbIp"
+      },
+      "artists": [
+        {
+          "name": "MC DEVESH",
+          "url": "https://open.spotify.com/artist/3eelw9NJgb9Gx5X80SHhiT"
+        },
+        {
+          "name": "Urban Thozha",
+          "url": "https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX"
+        }
+      ],
+      "duration_ms": 167571,
+      "name": "Love Aala",
+      "url": "https://open.spotify.com/track/3hEHVzkcQAGxrORQDdMxyJ"
     },
     {
       "added_at": "2023-07-17 04:57:21",
@@ -343,6 +403,26 @@
       "duration_ms": 236054,
       "name": "Love Music",
       "url": "https://open.spotify.com/track/6eAndPkRqAOrvVd01wg9LF"
+    },
+    {
+      "added_at": "2023-11-20 07:00:02",
+      "album": {
+        "name": "Mudhal Murai Remix",
+        "url": "https://open.spotify.com/album/3orfjlmNbjAWjySPm8yu5Y"
+      },
+      "artists": [
+        {
+          "name": "Bala D Thala",
+          "url": "https://open.spotify.com/artist/3CFRLXRbbMaNDSUNs1oohV"
+        },
+        {
+          "name": "Jeruson",
+          "url": "https://open.spotify.com/artist/08z8cYk0E56BpT6vSS04ss"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Mudhal Murai Remix",
+      "url": "https://open.spotify.com/track/1NZtPJVOrzRa0evVphoz9M"
     },
     {
       "added_at": "2023-11-15 11:19:15",

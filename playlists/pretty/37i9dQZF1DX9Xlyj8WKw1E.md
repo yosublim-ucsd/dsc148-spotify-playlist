@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Cover: <a href="spotify:artist:3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,480 likes - 61 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,507 likes - 61 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 19 | [No Amiris](https://open.spotify.com/track/3rHmxbNUs7TRTu1Bc2a1BC) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [No Amiris](https://open.spotify.com/album/3FFSDtqSY0PzK0f5aHBTFi) | 2:26 |
 | 20 | [Mama \(with Skilla Baby & Tay B\)](https://open.spotify.com/track/1saV6V91Azb0559mxmX4nF) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO) | [Mama \(with Skilla Baby & Tay B\)](https://open.spotify.com/album/1XwVNB9mqxR00Wbj34mnn3) | 2:54 |
 | 21 | [Motion](https://open.spotify.com/track/1fFg0KgrMwxTdIsO4bTd9S) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Motion](https://open.spotify.com/album/5vZ7xRju0A737ghh0n10cZ) | 2:12 |
-| 22 | [Lenny Cooke](https://open.spotify.com/track/10yF9Kpv5uugqTqaySGgwI) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Lenny Cooke](https://open.spotify.com/album/4eZzqidvBsJASO7wvwR364) | 2:27 |
+| 22 | [Lenny Cooke](https://open.spotify.com/track/5dYjfz5nrDpyWp30xaUAZl) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [SkuBop](https://open.spotify.com/album/2thtVFNwTy6WO1rseKOyWu) | 2:27 |
 | 23 | [OUT THE CAGE](https://open.spotify.com/track/2a1xMpcHAGXLonrYOGqFtB) | [CHASETHEMONEY](https://open.spotify.com/artist/1OuuJcg5OofM36OyEzoB2X) | [OUT THE CAGE](https://open.spotify.com/album/4rfGiwEDxJLl8Bg3sjrRB2) | 1:31 |
 | 24 | [Route Paradise](https://open.spotify.com/track/5c1aygV1pk2w3TMj63E8ZM) | [D2x](https://open.spotify.com/artist/39Cb8HYiuT4clBeNABSjPA) | [Hotel 1105](https://open.spotify.com/album/0XTBFwTiGlQ4dfEMni1T7f) | 4:03 |
 | 25 | [Smack Sh\*t](https://open.spotify.com/track/02G0mbFgtqS3h1Ek29tBWW) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Smack Sh\*t](https://open.spotify.com/album/3Wa0UdCqXUAWNNuEr9ulHk) | 2:59 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 60 | [Tell Shyanne](https://open.spotify.com/track/5kCWAi0N7NIWcEfW8kKpwi) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Tell Shyanne](https://open.spotify.com/album/1hZAoVLexmc57NQ0BB2W76) | 2:23 |
 | 61 | [Love Is Long](https://open.spotify.com/track/3AzDKKpGEnIY8roLn07foy) | [Ebony Loren](https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY) | [Love Is Long](https://open.spotify.com/album/7bJxRFnNk4H4jhrKjBfbTM) | 3:19 |
 
-Snapshot ID: `MCxhZWY3ZGVlNGIwMGE1MDI1YjE3YWNmMjhkZWU3NTU2ZGZmNmExYzFk`
+Snapshot ID: `MCw0YjA4ODc4ZTk4YTNmZjcxMmU2MmM2ZTUwMTE5MjYyZTVkZWYyMmQz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Novità rock, indie, punk ed emo dall'Italia\. Cover: Bambole Di Pezza
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,773 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,790 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 59 | [Neuro Queer Cyber Punk \(italia\)](https://open.spotify.com/track/1UK7liy7XxmvtFcbiLj914) | [Sun Dojo](https://open.spotify.com/artist/3MRGrKnnFFaVCtsjOGIKgb) | [Neuro Queer Cyber Punk \(italia\)](https://open.spotify.com/album/73Ae3sW9ClAH9khsl5hZrk) | 0:57 |
 | 60 | [AMICA FRAGILE](https://open.spotify.com/track/2ZtUWuJKa29QH0zGk6Vu6X) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [AMICA FRAGILE](https://open.spotify.com/album/6AAoOuD5lBGebrvUyrQ4P3) | 5:00 |
 
-Snapshot ID: `MCwyNjRmMGNmNTIzZTNlODU4OWI2ZTM4ZTJkZDQxM2YwN2ZmNTQyOTY3`
+Snapshot ID: `MCxlMmMyOGQ0MzU5N2JkMGZmNTE3NjI5YmUwNzg4NmE1OWI4ZTNiNzUw`

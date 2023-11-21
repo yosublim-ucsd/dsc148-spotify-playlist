@@ -4,7 +4,7 @@
 
 > The dancefloor is the place to be 🪩
 
-327 songs - 1 day 6 hr 9 min
+328 songs - 1 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Moving On](https://open.spotify.com/track/44q90g5h6dBJAkWbKrCSuW) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [The Valley EP](https://open.spotify.com/album/2KVBSUUfklLKmQPSTbNQqQ) | 3:25 | 2022-06-17 | 2022-10-13 |
 | [My City's On Fire](https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [My City's On Fire](https://open.spotify.com/album/3euSt2OpPER3gjNEI0ATaz) | 3:07 | 2022-06-24 |  |
 | [Nefarius \- Original Short Edit](https://open.spotify.com/track/6LZ4x2csXmU81hcVCXuKk1) | [Alex Breitling](https://open.spotify.com/artist/4CBrawfeZ5WugRTqsXgwgI) | [Nefarius EP \(Short Edits\)](https://open.spotify.com/album/171UVAsDr4v5Qa4Y4a0M2L) | 4:18 | 2022-04-15 | 2022-04-21 |
-| [NEON RATS](https://open.spotify.com/track/5qhytiPIn0IXQKs9XE98YN) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 7:30 | 2022-11-14 |  |
+| [NEON RATS](https://open.spotify.com/track/5qhytiPIn0IXQKs9XE98YN) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 7:30 | 2022-11-14 | 2023-11-21 |
 | [NEON RATS](https://open.spotify.com/track/6frczIwQzRtoEgwAw8N3Cv) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/0jx9Lgujl1dys53cwHWwNT) | 7:30 | 2022-06-17 | 2022-11-20 |
 | [Night Shadows](https://open.spotify.com/track/1FTOQKWSOzAIX52lkTqXXm) | [Oma Nata](https://open.spotify.com/artist/2cqNGzW2l8dBChO4G2h8Oo) | [Night Shadows](https://open.spotify.com/album/4utOYP6QynCmhWYB6qTNr6) | 6:30 | 2022-05-20 | 2022-05-27 |
 | [Night Wire](https://open.spotify.com/track/2gbRYQwkLSu7I3lF08WoiZ) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [Night Wire](https://open.spotify.com/album/6s6EzpFNC2zY0lL1VqoBuG) | 3:17 | 2023-11-14 |  |
@@ -316,6 +316,7 @@
 | [Vodka & Orange](https://open.spotify.com/track/3xv8dKKfN1WjhGnsFhn9TC) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Vodka & Orange EP](https://open.spotify.com/album/0DzRyBfMWMQZa1AtsF7PY0) | 7:19 | 2022-04-15 |  |
 | [Voices](https://open.spotify.com/track/6o2SK2MyeOBoqvSA6iAY2a) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS) | [Voices](https://open.spotify.com/album/52gQRKXJIoJbQoA49NzSiL) | 3:03 | 2023-01-13 | 2023-02-04 |
 | [Voices \- Malandra Jr\. Remix](https://open.spotify.com/track/2z52FxRUYc13V25jBtI9PL) | [JAMIIE](https://open.spotify.com/artist/3tDYYvrKv7Duw3ismQGnHF), [Malandra Jr.](https://open.spotify.com/artist/7KgVyMfGnLuYLLbftkfVNQ) | [Unfold Voices Remixes](https://open.spotify.com/album/5nLteuz9han8SVe4foGVCS) | 7:05 | 2023-01-13 | 2023-02-16 |
+| [Voices Above](https://open.spotify.com/track/6ME9tv8WUbvUs7be9nt48J) | [Archila](https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM) | [Voices Above](https://open.spotify.com/album/4U7wCpJuheM9IlV53aBLuJ) | 3:10 | 2023-11-14 |  |
 | [Voices Above](https://open.spotify.com/track/62fX7oJFfJp4g1b3LShSqf) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Archila](https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh) | [Voices Above](https://open.spotify.com/album/2CPFql01jhAi4w9AvGLGTW) | 3:10 | 2022-05-20 | 2023-11-06 |
 | [Vommuli](https://open.spotify.com/track/0P3Sfu8JGonAXzPyjAf6RU) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Vommuli](https://open.spotify.com/album/4UPeZ2BiTHtX5sQ2XhURQL) | 3:52 | 2022-04-15 | 2023-06-14 |
 | [We Are](https://open.spotify.com/track/04xK8T8fqpJbUZgNgcpszu) | [Sven Väth](https://open.spotify.com/artist/5TQaBSTOSypp7S4jfSnN3F) | [We Are](https://open.spotify.com/album/5VNozb6Ed3FXj34oybMBtz) | 7:29 | 2022-04-15 | 2022-07-28 |

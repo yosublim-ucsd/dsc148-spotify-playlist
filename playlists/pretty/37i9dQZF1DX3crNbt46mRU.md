@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,724 likes - 104 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,730 likes - 104 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 25 | [SPEDIZIONE PUNITIVA](https://open.spotify.com/track/2RqyqoJTECRr2py03ZmTvF) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [SPEDIZIONE PUNITIVA](https://open.spotify.com/album/7GuR3OGl4rQ7RkFGPdcQHW) | 2:36 |
 | 26 | [Viva](https://open.spotify.com/track/1aVvhMLyVJhDqMbwwNlE1r) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Viva](https://open.spotify.com/album/53ULiGhqiQ978sYtm4M5pY) | 3:26 |
 | 27 | [Nur 3 Sekunden](https://open.spotify.com/track/4xsNzTOHuiE211c4pSVoVw) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Nur 3 Sekunden](https://open.spotify.com/album/5nTPR9hQ3bjBtNeF3utJfP) | 2:36 |
-| 28 | [Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/1R0KvMBXz6qzjAEIS57Sz8) | 3:24 |
+| 28 | [Cover Up My Face](https://open.spotify.com/track/0t4N3qUMwdnDZNumcVxPRu) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/4vj7dl0foafvI0OOVmB4s2) | 3:24 |
 | 29 | [2013](https://open.spotify.com/track/4Ffc8TpqQwrVOazYKnryJC) | [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE) | [2013](https://open.spotify.com/album/5TvVN7QraDt4sbIF5QejrM) | 3:20 |
 | 30 | [Je cours \(feat\. Nuit Incolore\)](https://open.spotify.com/track/3SIwPysPwGNDZmNyyf1dwG) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Le chemin \- 20 ans](https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz) | 2:50 |
 | 31 | [Crazy Again](https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Crazy Again](https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK) | 3:17 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 103 | [Geisterfahrt](https://open.spotify.com/track/5jr0CVRzBNct2PuHKPN9mN) | [Sam James](https://open.spotify.com/artist/3VQwTh92cOv9BsboReaIQy) | [Geisterfahrt](https://open.spotify.com/album/6B0MZzJvTTeRjGNKMNMENb) | 2:10 |
 | 104 | [This ain’t love](https://open.spotify.com/track/1WU5JW11ZiNqJnqxbJ9Wm3) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8), [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [Elisabeth](https://open.spotify.com/album/1ojZ56lN40DofYZtvz78vp) | 3:26 |
 
-Snapshot ID: `MCxjN2IxNjRhNTNkYWU5NmE1OWQ1MDRmNGYyZDcyYWM4MTZhZmI1ODdh`
+Snapshot ID: `MCw3Y2E3NjRkYzM5NTVjZmJmNzY1YzQ3OWQwOTU3MzUyMDE3YzQ4ZWI3`

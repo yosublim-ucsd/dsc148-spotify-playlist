@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-549 songs - 1 day 22 hr 56 min
+550 songs - 1 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Am Rande der Dunkelheit](https://open.spotify.com/track/0ZnZp0Fo1Gxwx8dC8ol65F) | [Der Weg einer Freiheit](https://open.spotify.com/artist/7e823b0KQoVtLG86Ui5xGD) | [Noktvrn](https://open.spotify.com/album/6zwADRYkyJFcMmuwE48r7A) | 8:17 | 2021-12-17 |  |
 | [Among the Unseen Ones](https://open.spotify.com/track/23h8JMaMMLe414X17cJaWF) | [I Am The Night](https://open.spotify.com/artist/0KZgadGpnbwDnFifHOt7cU) | [While the Gods Are Sleeping](https://open.spotify.com/album/7qVN7yi6GFqfsItbmaqWbJ) | 5:39 | 2022-05-06 | 2022-06-11 |
 | [Anadem Gyre](https://open.spotify.com/track/1eBUzrOlsY9OMmiaSolhox) | [Antiqva](https://open.spotify.com/artist/6ahZhWLiImspvawPYn6FVd) | [Anadem Gyre](https://open.spotify.com/album/7ykuG0RJkSqhPWCi6kplm5) | 4:04 | 2021-12-17 | 2022-05-07 |
+| [Anarchy](https://open.spotify.com/track/55LOcVCllzfvWvX9d32wlL) | [Sadus](https://open.spotify.com/artist/2J1GmSL3D47TR4TdFYs2hu) | [The Shadow Inside](https://open.spotify.com/album/6IGGBDYr6ImS8ydAegAIHx) | 2:47 | 2023-11-17 |  |
 | [Ancient Death](https://open.spotify.com/track/08k0tIpeDbMWUR3iI6e8Co) | [Asagrimmr](https://open.spotify.com/artist/41V31Mbn9X3RX7GyWrKSQj) | [Ancient Death](https://open.spotify.com/album/0OS5vfWnkTqYz1dBnktFbW) | 6:56 | 2021-12-17 | 2022-01-08 |
 | [Ancient Stones Secrets](https://open.spotify.com/track/6oiWwpxDMJMzjrKI1zITYQ) | [Eminentia Tenebris](https://open.spotify.com/artist/2u7e66l7BhXHw1RUpuBrPA) | [Rise of a New Kingdom](https://open.spotify.com/album/5QTmivzbo2R7ZjRAKLF8to) | 5:28 | 2023-09-26 |  |
 | [Angels Hung from the Arches of Heaven](https://open.spotify.com/track/2aQuwaap0qGUFx3qCt7y9F) | [Goatwhore](https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI) | [Angels Hung from the Arches of Heaven](https://open.spotify.com/album/3wkROANEE5jyoV1B1usizt) | 4:54 | 2022-10-07 |  |
@@ -376,7 +377,7 @@
 | [Puritania \- The Kolbotn Tapes](https://open.spotify.com/track/69vWSqVEctJbTKD3qKaAnD) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Puritania \(The Kolbotn Tapes\)](https://open.spotify.com/album/2zOvw7u5XelDbYsxQMPQDI) | 2:49 | 2022-08-12 | 2022-11-13 |
 | [Queen of the Dead Dimension](https://open.spotify.com/track/1VMrvtJi8UYs1HSiCCk2OL) | [Blut Aus Nord](https://open.spotify.com/artist/0c0xIXQhCbmtvzM93liaSf) | [Queen of the Dead Dimension](https://open.spotify.com/album/3WaZwT2pTDgkg17wE3Clad) | 5:33 | 2023-07-21 | 2023-09-15 |
 | [Quintessence](https://open.spotify.com/track/0h2KyPkIISeMMkA2X0eXU5) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Panzerfaust](https://open.spotify.com/album/1WVwSy7kIQ5AmkVa1tPppg) | 7:36 | 2022-07-13 | 2023-07-04 |
-| [Raise Empires](https://open.spotify.com/track/4MkK84MMhgBPxzz6KgBcWZ) | [On Thorns I Lay](https://open.spotify.com/artist/7bGopU168qloFmaY1OcSwv) | [On Thorns I Lay](https://open.spotify.com/album/0LyW3bntovRMHa5slHpCMA) | 7:18 | 2023-10-12 |  |
+| [Raise Empires](https://open.spotify.com/track/4MkK84MMhgBPxzz6KgBcWZ) | [On Thorns I Lay](https://open.spotify.com/artist/7bGopU168qloFmaY1OcSwv) | [On Thorns I Lay](https://open.spotify.com/album/0LyW3bntovRMHa5slHpCMA) | 7:18 | 2023-10-12 | 2023-11-21 |
 | [Reborn Paradise](https://open.spotify.com/track/5jg1xRSLlxRQEjClsHnMb1) | [Deserted Fear](https://open.spotify.com/artist/3CDoiu519MbxFWcwRFH7cH) | [Reborn Paradise](https://open.spotify.com/album/7i5AQIVHiZApzRnoZYmgsa) | 4:58 | 2022-01-21 | 2022-07-28 |
 | [Reckoning](https://open.spotify.com/track/2hBKZG4x9Wjed6T2oAFAwm) | [Omnium Gatherum](https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu) | [Reckoning](https://open.spotify.com/album/6WfPQTk5dUOKIgHIsl03MU) | 5:15 | 2021-12-17 | 2022-05-14 |
 | [Reflection in Slow Time](https://open.spotify.com/track/0qS90byEur2fejdteseTO3) | [Shape Of Despair](https://open.spotify.com/artist/7Dw0RaAayqoGd0z2oHT4R6) | [Reflection in Slow Time](https://open.spotify.com/album/6KWTVQKwzvVcmcg1BPpUN4) | 8:08 | 2021-12-17 | 2022-07-28 |

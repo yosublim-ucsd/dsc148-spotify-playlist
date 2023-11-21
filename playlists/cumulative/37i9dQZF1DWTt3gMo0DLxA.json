@@ -2117,6 +2117,32 @@
     },
     {
       "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/070z9uG6XuIOI49AgwCnCy"
+      },
+      "artists": [
+        {
+          "name": "Bheems Ceciroleo",
+          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Bhasakarabhatla",
+          "url": "https://open.spotify.com/artist/5BSnq8EugWeuGR6acegjqN"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204533,
+      "name": "Nuvvu Navvukuntu",
+      "url": "https://open.spotify.com/track/00LSCsH99cW8zsr82ibMHM"
+    },
+    {
+      "album": {
         "name": "O Rendu Prema Meghaalila (First Love Song) [From \"Baby\"]",
         "url": "https://open.spotify.com/album/41kHCtyyqx2V4cJx4qlDDT"
       },

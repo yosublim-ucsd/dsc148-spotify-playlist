@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do trap. Foto: Ig\u00e3o",
-  "num_followers": 134952,
+  "num_followers": 135057,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzI5MTljMTI1YzUxNTkxNzc5MmZkZGUwY2QzYmY2NDRhMGRiNDBj",
+  "snapshot_id": "MCxjYWFlZmI4MzdlZmRlMWQyODBkNGQ2YTk5MzY0NzI2MjY0M2YwN2U2",
   "tracks": [
     {
       "added_at": "2023-11-17 03:01:00",
@@ -195,66 +195,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Maturidade",
-        "url": "https://open.spotify.com/album/2QWzXzDW94VU4E9KBSJehg"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 142026,
-      "name": "Maturidade",
-      "url": "https://open.spotify.com/track/5RHOhXxMVhpEaBcG6hIydA"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Invis\u00edvel pt.2",
-        "url": "https://open.spotify.com/album/0KzFmbHMHXxpa0GUjuMZir"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "Honaiser",
-          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
-        },
-        {
-          "name": "Toledo",
-          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        }
-      ],
-      "duration_ms": 174556,
-      "name": "Invis\u00edvel pt.2",
-      "url": "https://open.spotify.com/track/2PsrJc45N7xbFo2ZrL4bHD"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "237",
         "url": "https://open.spotify.com/album/3VGvkH5X8bhjIV0rSohaVU"
       },
@@ -295,6 +235,66 @@
       "duration_ms": 202451,
       "name": "Sem Compaix\u00e3o",
       "url": "https://open.spotify.com/track/7KDDrAqNSOdEUeNvAOEExR"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Invis\u00edvel pt.2",
+        "url": "https://open.spotify.com/album/0KzFmbHMHXxpa0GUjuMZir"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "duration_ms": 174556,
+      "name": "Invis\u00edvel pt.2",
+      "url": "https://open.spotify.com/track/2PsrJc45N7xbFo2ZrL4bHD"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Maturidade",
+        "url": "https://open.spotify.com/album/2QWzXzDW94VU4E9KBSJehg"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 142026,
+      "name": "Maturidade",
+      "url": "https://open.spotify.com/track/5RHOhXxMVhpEaBcG6hIydA"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -351,6 +351,30 @@
       "duration_ms": 216000,
       "name": "Alma",
       "url": "https://open.spotify.com/track/7oEFDPKhXAYAfSzqGZIr3Z"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "De Lala - Spotify Singles",
+        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Dj Binho",
+          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
+        },
+        {
+          "name": "Dj Geh",
+          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "De Lala - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -439,30 +463,6 @@
       "duration_ms": 157608,
       "name": "Feir\u00e3o dos 23",
       "url": "https://open.spotify.com/track/4V1MOX0xhbRroh6YBmAVZg"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "De Lala - Spotify Singles",
-        "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
-      },
-      "artists": [
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Dj Binho",
-          "url": "https://open.spotify.com/artist/6eYB3lZtpogyofhli0g8Qk"
-        },
-        {
-          "name": "Dj Geh",
-          "url": "https://open.spotify.com/artist/389VEoqiE28sfBdN7dcYkh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "De Lala - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -655,58 +655,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Londres Freestyle",
-        "url": "https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "Viper",
-          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Londres Freestyle",
-      "url": "https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Ascens\u00e3o do Cisne Negro",
-        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
-      },
-      "artists": [
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 206869,
-      "name": "Show Lotado",
-      "url": "https://open.spotify.com/track/3nFSNBEHUosZ2JvcRQB6fT"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Meu Amigo Di\u00e1rio, Vol. 1 - M.A.D",
         "url": "https://open.spotify.com/album/681qRc7HzASc5cALLkOFLO"
       },
@@ -759,6 +707,58 @@
       "duration_ms": 148525,
       "name": "Cheiro de Sexo",
       "url": "https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Londres Freestyle",
+        "url": "https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Londres Freestyle",
+      "url": "https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Ascens\u00e3o do Cisne Negro",
+        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 206869,
+      "name": "Show Lotado",
+      "url": "https://open.spotify.com/track/3nFSNBEHUosZ2JvcRQB6fT"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -907,6 +907,26 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Frenesi",
+        "url": "https://open.spotify.com/album/6O1uVR0awNrBIW53rEDGMA"
+      },
+      "artists": [
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        }
+      ],
+      "duration_ms": 221102,
+      "name": "Frenesi",
+      "url": "https://open.spotify.com/track/2zwnREcg5hVy6rGDs5pf02"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "Passo de Piet",
         "url": "https://open.spotify.com/album/4zxOwhte3u716LoZJVisfY"
       },
@@ -927,6 +947,66 @@
       "duration_ms": 194600,
       "name": "Passo de Piet",
       "url": "https://open.spotify.com/track/1hk75DQiC1mRc2pdu8yAmM"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Design",
+        "url": "https://open.spotify.com/album/5YUqf5vn12UjbfdNvGjQlR"
+      },
+      "artists": [
+        {
+          "name": "tchelo rodrigues",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        }
+      ],
+      "duration_ms": 140488,
+      "name": "Design",
+      "url": "https://open.spotify.com/track/1xvmdJ7DKsbNvYJTI4hmRJ"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "SHH",
+        "url": "https://open.spotify.com/album/6NhKR6U35pR28qAVdXTQi3"
+      },
+      "artists": [
+        {
+          "name": "Rudies Flacko",
+          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
+        },
+        {
+          "name": "mavyrmldy",
+          "url": "https://open.spotify.com/artist/2IRkwjCv3xnnHkEre05AZB"
+        }
+      ],
+      "duration_ms": 144657,
+      "name": "LEGO",
+      "url": "https://open.spotify.com/track/0irSVZzJLj4hYIDj9kyxTq"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "FREDDIE MERCURY",
+        "url": "https://open.spotify.com/album/030z6Qb2ol8uilw8a6npJx"
+      },
+      "artists": [
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        },
+        {
+          "name": "TTF",
+          "url": "https://open.spotify.com/artist/71YqA2qY3ZzGdPAEOf4k7A"
+        }
+      ],
+      "duration_ms": 159798,
+      "name": "FREDDIE MERCURY",
+      "url": "https://open.spotify.com/track/4EpS720DSnhvLM9TV995M1"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -955,82 +1035,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "FREDDIE MERCURY",
-        "url": "https://open.spotify.com/album/030z6Qb2ol8uilw8a6npJx"
+        "name": "BLOCKO",
+        "url": "https://open.spotify.com/album/2AUYOZad5ek65kNUprn5EM"
       },
       "artists": [
         {
-          "name": "M'DEP",
-          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+          "name": "N.A.N.A.",
+          "url": "https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND"
         },
         {
-          "name": "TTF",
-          "url": "https://open.spotify.com/artist/71YqA2qY3ZzGdPAEOf4k7A"
+          "name": "The Boy",
+          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
         }
       ],
-      "duration_ms": 159798,
-      "name": "FREDDIE MERCURY",
-      "url": "https://open.spotify.com/track/4EpS720DSnhvLM9TV995M1"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "SHH",
-        "url": "https://open.spotify.com/album/6NhKR6U35pR28qAVdXTQi3"
-      },
-      "artists": [
-        {
-          "name": "Rudies Flacko",
-          "url": "https://open.spotify.com/artist/6gTcIWPsmchtg4klMwWp2o"
-        },
-        {
-          "name": "mavyrmldy",
-          "url": "https://open.spotify.com/artist/2IRkwjCv3xnnHkEre05AZB"
-        }
-      ],
-      "duration_ms": 144657,
-      "name": "LEGO",
-      "url": "https://open.spotify.com/track/0irSVZzJLj4hYIDj9kyxTq"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Design",
-        "url": "https://open.spotify.com/album/5YUqf5vn12UjbfdNvGjQlR"
-      },
-      "artists": [
-        {
-          "name": "tchelo rodrigues",
-          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
-        },
-        {
-          "name": "retroboy",
-          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
-        }
-      ],
-      "duration_ms": 140488,
-      "name": "Design",
-      "url": "https://open.spotify.com/track/1xvmdJ7DKsbNvYJTI4hmRJ"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Frenesi",
-        "url": "https://open.spotify.com/album/6O1uVR0awNrBIW53rEDGMA"
-      },
-      "artists": [
-        {
-          "name": "Azevedo",
-          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
-        },
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        }
-      ],
-      "duration_ms": 221102,
-      "name": "Frenesi",
-      "url": "https://open.spotify.com/track/2zwnREcg5hVy6rGDs5pf02"
+      "duration_ms": 151489,
+      "name": "BLOCKO",
+      "url": "https://open.spotify.com/track/34Tg2hUpJ0KfHktOEOmv8G"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1055,22 +1075,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "BLOCKO",
-        "url": "https://open.spotify.com/album/2AUYOZad5ek65kNUprn5EM"
+        "name": "Santa F\u00e9",
+        "url": "https://open.spotify.com/album/2Jzpbx6aNhCZc7eFy6CmRa"
       },
       "artists": [
         {
-          "name": "N.A.N.A.",
-          "url": "https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND"
+          "name": "2ZDinizz",
+          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
         },
         {
-          "name": "The Boy",
-          "url": "https://open.spotify.com/artist/2RDrgRouTQ289ET075WYuC"
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
         }
       ],
-      "duration_ms": 151489,
-      "name": "BLOCKO",
-      "url": "https://open.spotify.com/track/34Tg2hUpJ0KfHktOEOmv8G"
+      "duration_ms": 182068,
+      "name": "Santa F\u00e9",
+      "url": "https://open.spotify.com/track/4v0raTKKlRlDb4590foEiR"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1095,26 +1115,6 @@
       "duration_ms": 125892,
       "name": "JOIAS EM MIM",
       "url": "https://open.spotify.com/track/0SMlYWcymwHTETbvdhwafd"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Santa F\u00e9",
-        "url": "https://open.spotify.com/album/2Jzpbx6aNhCZc7eFy6CmRa"
-      },
-      "artists": [
-        {
-          "name": "2ZDinizz",
-          "url": "https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Santa F\u00e9",
-      "url": "https://open.spotify.com/track/4v0raTKKlRlDb4590foEiR"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Balenciaga",
-        "url": "https://open.spotify.com/album/1N3TXHhLbMAHd5bzOExNfk"
-      },
-      "artists": [
-        {
-          "name": "LB Prince",
-          "url": "https://open.spotify.com/artist/3KZYhP8cZRLQKGy3m2biiK"
-        },
-        {
-          "name": "HATZ",
-          "url": "https://open.spotify.com/artist/5xTgBjp7sMoQ7Wrgm7ETf5"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Balenciaga",
-      "url": "https://open.spotify.com/track/6rvi9icLMuSMWkdgcUwhVh"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "ISSO \u00d1 \u00c9 GPT",
         "url": "https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 363145,
       "name": "TAMBOR",
       "url": "https://open.spotify.com/track/5I3fsOI8IJjOkmgqCyZVfY"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Balenciaga",
+        "url": "https://open.spotify.com/album/1N3TXHhLbMAHd5bzOExNfk"
+      },
+      "artists": [
+        {
+          "name": "LB Prince",
+          "url": "https://open.spotify.com/artist/3KZYhP8cZRLQKGy3m2biiK"
+        },
+        {
+          "name": "HATZ",
+          "url": "https://open.spotify.com/artist/5xTgBjp7sMoQ7Wrgm7ETf5"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/6rvi9icLMuSMWkdgcUwhVh"
     }
   ],
   "unique_name": "O Drip",

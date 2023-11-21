@@ -240,7 +240,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 196375,
       "name": "Because You Move Me",
       "url": "https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0"
@@ -446,6 +446,24 @@
       "duration_ms": 153107,
       "name": "Cool Kids",
       "url": "https://open.spotify.com/track/1nOrmN6H9MmEzSTU024eAX"
+    },
+    {
+      "album": {
+        "name": "Disco en Egypte",
+        "url": "https://open.spotify.com/album/2pWoLCL2ATNgxXONtIzyAx"
+      },
+      "artists": [
+        {
+          "name": "Bon Entendeur",
+          "url": "https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226826,
+      "name": "Disco en Egypte",
+      "url": "https://open.spotify.com/track/1KIZY1WtXrL5Hf8aoPy1PG"
     },
     {
       "album": {
@@ -1012,7 +1030,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 169814,
       "name": "Magic - Edit",
       "url": "https://open.spotify.com/track/2u5BsxcvX36t9ecVM70Ati"
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 180000,
       "name": "Never Known",
       "url": "https://open.spotify.com/track/47fOtKyt7VeUIer3SqgNOp"
@@ -1224,6 +1242,28 @@
       "duration_ms": 151626,
       "name": "Night Train",
       "url": "https://open.spotify.com/track/5vy67Dz5CujLUCaz66T20L"
+    },
+    {
+      "album": {
+        "name": "Nobody Cares",
+        "url": "https://open.spotify.com/album/2NFWjI68rczXTXjzXjbdl9"
+      },
+      "artists": [
+        {
+          "name": "Lonely in the Rain",
+          "url": "https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS"
+        },
+        {
+          "name": "MR TOUT LE MONDE",
+          "url": "https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189687,
+      "name": "Nobody Cares",
+      "url": "https://open.spotify.com/track/4aJ4HeuydJYarlKlLq6xVp"
     },
     {
       "album": {
@@ -1908,6 +1948,24 @@
       "duration_ms": 212506,
       "name": "Time For Reason",
       "url": "https://open.spotify.com/track/4s7QgMMyMlol6ccHoSwyyQ"
+    },
+    {
+      "album": {
+        "name": "Tropical Kiss",
+        "url": "https://open.spotify.com/album/25q3qnKmVToMpz6HBlITsC"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293773,
+      "name": "Tropical Kiss",
+      "url": "https://open.spotify.com/track/78waP1PSbA0QPX7GIfD8AE"
     },
     {
       "album": {

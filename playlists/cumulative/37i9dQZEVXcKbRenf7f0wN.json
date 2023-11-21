@@ -398,7 +398,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 239680,
       "name": "Advertencia",
       "url": "https://open.spotify.com/track/5wx3ecSkNWZomj1aMRGSfL"
@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 268333,
       "name": "Al otro lado del silencio",
       "url": "https://open.spotify.com/track/6nZGegauhy3raLriPhGI6i"
@@ -1426,7 +1426,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 274453,
       "name": "Bala perdida",
       "url": "https://open.spotify.com/track/10pbPf8GUBP5lfRIktyXau"
@@ -2683,6 +2683,24 @@
     },
     {
       "album": {
+        "name": "Pornostar",
+        "url": "https://open.spotify.com/album/799FcuKTLHvH8VoZNCzVeg"
+      },
+      "artists": [
+        {
+          "name": "Panico",
+          "url": "https://open.spotify.com/artist/7sIPqgvtteNEJx6ndabJhA"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187477,
+      "name": "Chica bonita",
+      "url": "https://open.spotify.com/track/2IHPalrENLAZI8YAZ8DP5q"
+    },
+    {
+      "album": {
         "name": "Memory Thought Balance Ruin",
         "url": "https://open.spotify.com/album/1Zzp1t5krYEQUs9SqlInT8"
       },
@@ -3040,7 +3058,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 266760,
       "name": "Coraz\u00f3n contento",
       "url": "https://open.spotify.com/track/07oTWfPzkBAb8lfwU1nsnH"
@@ -4268,7 +4286,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 311893,
       "name": "El amor despu\u00e9s del amor",
       "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
@@ -4304,7 +4322,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 306626,
       "name": "El Anillo del Capit\u00e1n Beto",
       "url": "https://open.spotify.com/track/23jMDvKil4frbTA35BVzBY"
@@ -4780,6 +4798,24 @@
       "duration_ms": 185453,
       "name": "Esc\u00e1pate Conmigo",
       "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
+    },
+    {
+      "album": {
+        "name": "Naufragios",
+        "url": "https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV"
+      },
+      "artists": [
+        {
+          "name": "Mikel Erentxun",
+          "url": "https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203293,
+      "name": "Esta luz nunca se apagar\u00e1 - There Is a Light That Never Goes Out",
+      "url": "https://open.spotify.com/track/5kDvGOJLmYttWjHMcwxlT5"
     },
     {
       "album": {
@@ -6832,7 +6868,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 460813,
       "name": "Infiel a Dos Mentiras \"Vida\"",
       "url": "https://open.spotify.com/track/7mNdPmUqNmp7JqHQUBJPBa"
@@ -7076,7 +7112,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 215600,
       "name": "Izquierdo",
       "url": "https://open.spotify.com/track/4aaMXe35v7KRZN0OjIq7Tq"
@@ -7776,6 +7812,24 @@
       "duration_ms": 287193,
       "name": "La Carretera 1",
       "url": "https://open.spotify.com/track/4lOVowTMEA5DYrfp2Bxyr9"
+    },
+    {
+      "album": {
+        "name": "A Mi Pa\u00eds",
+        "url": "https://open.spotify.com/album/0dkANbHKmu6QcpuS8FFi7z"
+      },
+      "artists": [
+        {
+          "name": "El Cruce",
+          "url": "https://open.spotify.com/artist/7qaHFNFCjcXpsHQM5NQhaK"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198680,
+      "name": "La Chinita y Yo",
+      "url": "https://open.spotify.com/track/4WYBgQYaYEY2LcYYLXX8pM"
     },
     {
       "album": {
@@ -8792,7 +8846,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 175080,
       "name": "Maldito",
       "url": "https://open.spotify.com/track/4AuYIbNIESLMG3h5gTLXho"
@@ -12191,6 +12245,24 @@
     },
     {
       "album": {
+        "name": "No Antisocial",
+        "url": "https://open.spotify.com/album/1fifrpMyKPNp4ZV2adaJzO"
+      },
+      "artists": [
+        {
+          "name": "Ni Voz Ni Voto",
+          "url": "https://open.spotify.com/artist/4ahnuO8k2rtOpshEtEyyPB"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Rutina",
+      "url": "https://open.spotify.com/track/7L3VPUjzc5RF61Da0bG5Mr"
+    },
+    {
+      "album": {
         "name": "Retaliation",
         "url": "https://open.spotify.com/album/0DOSQvpIOdyQrgQPYBXQnl"
       },
@@ -13376,7 +13448,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 272306,
       "name": "Somos Violentos",
       "url": "https://open.spotify.com/track/1QDHzn1IcUJSrS8ewBf3SA"
@@ -13794,7 +13866,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 229997,
       "name": "Sucio Policia",
       "url": "https://open.spotify.com/track/5ZMYggZmihQ4D7p7OUq3qX"
@@ -13830,7 +13902,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 273066,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/6yCjhDzcVIfxvTjBKhhn7P"
@@ -14082,7 +14154,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-14",
+      "date_removed": null,
       "duration_ms": 244426,
       "name": "S\u00e9 Vos",
       "url": "https://open.spotify.com/track/4MUhGA8YfsYDqD4NhTUtSf"
@@ -15415,6 +15487,24 @@
     },
     {
       "album": {
+        "name": "El Amor Ya No Existe",
+        "url": "https://open.spotify.com/album/0fGZ6VlzWumN8zzmH1IaPz"
+      },
+      "artists": [
+        {
+          "name": "Sentimiento Muerto",
+          "url": "https://open.spotify.com/artist/7nx8DlJ8j0sUGBvFtpoEwz"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213480,
+      "name": "Una Extra\u00f1a Sensaci\u00f3n de Soledad",
+      "url": "https://open.spotify.com/track/6mtlnE4RJ6jpJ4K6HoUEE5"
+    },
+    {
+      "album": {
         "name": "Echoes Of The Soul",
         "url": "https://open.spotify.com/album/0lKIVzxPQnrDdBYzhpt5pf"
       },
@@ -15916,7 +16006,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 298400,
       "name": "Warmikuna Yupay-Chasqapuni Kasunchik",
       "url": "https://open.spotify.com/track/3BBuihi9T5iGaV0Tt0ht8V"
@@ -16172,7 +16262,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 367960,
       "name": "When Love and Death Embrace",
       "url": "https://open.spotify.com/track/7p9fJOQJJFzE8pkQ99v6yb"
@@ -16478,7 +16568,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 241106,
       "name": "Ya No Se Que Hacer Conmigo",
       "url": "https://open.spotify.com/track/3vUWWpeAUDowjEgTcpsbSE"
@@ -16730,7 +16820,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 313733,
       "name": "\u00bfQu\u00e9 Ves?",
       "url": "https://open.spotify.com/track/0aad6vDkOmu9d1aFNvOwYC"

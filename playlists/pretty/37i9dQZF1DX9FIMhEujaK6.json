@@ -1,12 +1,12 @@
 {
   "description": "The ultimate chilled soundtrack to bring your day to a close.",
-  "num_followers": 365196,
+  "num_followers": 365255,
   "original_name": "Ibiza Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzMyYWFkYWNkNGUzNmM5NWEyYjI1YTgwYTc2NTZjMzIxZWRjMTdi",
+  "snapshot_id": "MCxiNzRmNTJmNTliYzdhZTIyOTQ1NmY4NWUxNzY4NGJkOGQyNTQ0NDZh",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -291,22 +291,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Howl (Chill Mix)",
-        "url": "https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x"
+        "name": "More Content",
+        "url": "https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ"
       },
       "artists": [
         {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 197619,
-      "name": "Howl - Chill Mix",
-      "url": "https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF"
+      "duration_ms": 181319,
+      "name": "Sonder",
+      "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -327,22 +323,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Rolling Back (Durante Remix)",
-        "url": "https://open.spotify.com/album/1GiOPy7dvYrVMRwMPsprlT"
+        "name": "Howl (Chill Mix)",
+        "url": "https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x"
       },
       "artists": [
         {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         },
         {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Rolling Back",
-      "url": "https://open.spotify.com/track/335EcT0oI5889ZgM0q413d"
+      "duration_ms": 197619,
+      "name": "Howl - Chill Mix",
+      "url": "https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -423,8 +419,8 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "More Content",
-        "url": "https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ"
+        "name": "Lone Raver",
+        "url": "https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe"
       },
       "artists": [
         {
@@ -432,9 +428,9 @@
           "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 181319,
-      "name": "Sonder",
-      "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
+      "duration_ms": 257299,
+      "name": "Lone Raver",
+      "url": "https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -455,6 +451,26 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Rolling Back (Durante Remix)",
+        "url": "https://open.spotify.com/album/1GiOPy7dvYrVMRwMPsprlT"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Rolling Back",
+      "url": "https://open.spotify.com/track/335EcT0oI5889ZgM0q413d"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Pastoral",
         "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 220630,
       "name": "Pastoral",
       "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Era",
-        "url": "https://open.spotify.com/album/44Dmctrx2WxkdQ2RmA7Re8"
-      },
-      "artists": [
-        {
-          "name": "Jacana People",
-          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
-        }
-      ],
-      "duration_ms": 234926,
-      "name": "Era - Edit",
-      "url": "https://open.spotify.com/track/6e7pRMDh1Sf7GJWQGqUwT1"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -503,6 +503,26 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Under The Surface",
+        "url": "https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 324590,
+      "name": "Under The Surface",
+      "url": "https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Found In The Wild",
         "url": "https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS"
       },
@@ -515,6 +535,22 @@
       "duration_ms": 205233,
       "name": "Fire To Fire",
       "url": "https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Era",
+        "url": "https://open.spotify.com/album/44Dmctrx2WxkdQ2RmA7Re8"
+      },
+      "artists": [
+        {
+          "name": "Jacana People",
+          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
+        }
+      ],
+      "duration_ms": 234926,
+      "name": "Era - Edit",
+      "url": "https://open.spotify.com/track/6e7pRMDh1Sf7GJWQGqUwT1"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -551,38 +587,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "I can share my love with you",
-        "url": "https://open.spotify.com/album/6FRBIhuZHyt4YF2eFAACiX"
-      },
-      "artists": [
-        {
-          "name": "Bassi Fox",
-          "url": "https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD"
-        }
-      ],
-      "duration_ms": 216204,
-      "name": "I can share my love with you",
-      "url": "https://open.spotify.com/track/0QAanF5Xa61yfG3ShSJRMl"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Lone Raver",
-        "url": "https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 257299,
-      "name": "Lone Raver",
-      "url": "https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Be Patient",
         "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
       },
@@ -595,6 +599,22 @@
       "duration_ms": 216793,
       "name": "Be Patient",
       "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "I can share my love with you",
+        "url": "https://open.spotify.com/album/6FRBIhuZHyt4YF2eFAACiX"
+      },
+      "artists": [
+        {
+          "name": "Bassi Fox",
+          "url": "https://open.spotify.com/artist/2YwVO7jqibPl0ARPbD97cD"
+        }
+      ],
+      "duration_ms": 216204,
+      "name": "I can share my love with you",
+      "url": "https://open.spotify.com/track/0QAanF5Xa61yfG3ShSJRMl"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -771,22 +791,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Its me ( g 8 ) / Oway ( f 7 )",
-        "url": "https://open.spotify.com/album/6rZTJHYLDsA564tCn9kEJ9"
-      },
-      "artists": [
-        {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
-        }
-      ],
-      "duration_ms": 317765,
-      "name": "Its me ( g 8 )",
-      "url": "https://open.spotify.com/track/3dC6yRjocmprQqEYvv72Ft"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Above",
         "url": "https://open.spotify.com/album/1eFyId3Wx47Wa0zyhVbXYv"
       },
@@ -799,6 +803,22 @@
       "duration_ms": 185168,
       "name": "Above",
       "url": "https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Its me ( g 8 ) / Oway ( f 7 )",
+        "url": "https://open.spotify.com/album/6rZTJHYLDsA564tCn9kEJ9"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "duration_ms": 317765,
+      "name": "Its me ( g 8 )",
+      "url": "https://open.spotify.com/track/3dC6yRjocmprQqEYvv72Ft"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -855,34 +875,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Burnt Orange",
-        "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
+        "name": "Colours of the Sky",
+        "url": "https://open.spotify.com/album/79F4YnYB1ZN0eo4baMeLh5"
       },
       "artists": [
         {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+          "name": "Hessian",
+          "url": "https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs"
         }
       ],
-      "duration_ms": 336885,
-      "name": "Burnt Orange",
-      "url": "https://open.spotify.com/track/2Ot2c0TFAg0ENgAiDfh3IO"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Tropics",
-        "url": "https://open.spotify.com/album/1xmSVvyqv2nAq3yJW3lJ29"
-      },
-      "artists": [
-        {
-          "name": "Hagan",
-          "url": "https://open.spotify.com/artist/0OvwOTSbNyHM0nnyvdCxNU"
-        }
-      ],
-      "duration_ms": 253658,
-      "name": "Tropics",
-      "url": "https://open.spotify.com/track/3IdhASHMhVCn756JlheIoj"
+      "duration_ms": 231666,
+      "name": "Thus Far",
+      "url": "https://open.spotify.com/track/3ADOUoMcmbT07M8mbx5PFN"
     }
   ],
   "unique_name": "Ibiza Sunset",

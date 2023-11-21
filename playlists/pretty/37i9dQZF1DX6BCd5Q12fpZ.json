@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65739,
+  "num_followers": 65743,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTRlZDBhYzYwMDAyZGJhOTc1MjNmNjczNDI4ZTRkZThkNzViNmI4",
+  "snapshot_id": "MCw4NjhkYmY1YzZkOGZmNWFjNjFkMjMyMjUyNGQzNzhlNDE5ZmI5YjA4",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Sound of Silence",
-        "url": "https://open.spotify.com/album/4v6nXxsfpkBpUA9PEAh7nj"
-      },
-      "artists": [
-        {
-          "name": "Dami Im",
-          "url": "https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY"
-        }
-      ],
-      "duration_ms": 195479,
-      "name": "Sound of Silence",
-      "url": "https://open.spotify.com/track/2b9czDPSLTI88694CIqCy3"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Trenule\u021bul",
         "url": "https://open.spotify.com/album/7fM5IQBccLOksJ96AMl0xv"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 180030,
       "name": "Trenule\u021bul (cu Fra\u021bii Advahov)",
       "url": "https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Sound of Silence",
+        "url": "https://open.spotify.com/album/4v6nXxsfpkBpUA9PEAh7nj"
+      },
+      "artists": [
+        {
+          "name": "Dami Im",
+          "url": "https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY"
+        }
+      ],
+      "duration_ms": 195479,
+      "name": "Sound of Silence",
+      "url": "https://open.spotify.com/track/2b9czDPSLTI88694CIqCy3"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "Love Shine a Light (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6GhLMnty4i8qdRV2zxbB1q"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "duration_ms": 187947,
+      "name": "Love Shine a Light",
+      "url": "https://open.spotify.com/track/2z8pAqNDkjVOzlJg3M3cuO"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "On ne change pas",
         "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
       },
@@ -531,38 +547,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Love Shine a Light (15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6GhLMnty4i8qdRV2zxbB1q"
-      },
-      "artists": [
-        {
-          "name": "Katrina & The Waves",
-          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
-        }
-      ],
-      "duration_ms": 187947,
-      "name": "Love Shine a Light",
-      "url": "https://open.spotify.com/track/2z8pAqNDkjVOzlJg3M3cuO"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Rockefeller Street - Single",
-        "url": "https://open.spotify.com/album/4Prlk6ouh6SYDOa97Eyly4"
-      },
-      "artists": [
-        {
-          "name": "Getter Jaani",
-          "url": "https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf"
-        }
-      ],
-      "duration_ms": 192992,
-      "name": "Rockefeller Street",
-      "url": "https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "La Det Swinge",
         "url": "https://open.spotify.com/album/0R1rwfjIEAx03Pi41JZxRa"
       },
@@ -579,22 +563,18 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/2tJbLZDH2pNDCYQYaUl2oC"
+        "name": "Rockefeller Street - Single",
+        "url": "https://open.spotify.com/album/4Prlk6ouh6SYDOa97Eyly4"
       },
       "artists": [
         {
-          "name": "Aysel",
-          "url": "https://open.spotify.com/artist/0p8VQ0bbarbct1dXDthN5N"
-        },
-        {
-          "name": "Arash",
-          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+          "name": "Getter Jaani",
+          "url": "https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf"
         }
       ],
-      "duration_ms": 174626,
-      "name": "Always - Single Version",
-      "url": "https://open.spotify.com/track/4xMRFkFYufAuTEKR0YMN3Z"
+      "duration_ms": 192992,
+      "name": "Rockefeller Street",
+      "url": "https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -627,6 +607,26 @@
       "duration_ms": 153346,
       "name": "Poup\u00e9e de cire, poup\u00e9e de son",
       "url": "https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/2tJbLZDH2pNDCYQYaUl2oC"
+      },
+      "artists": [
+        {
+          "name": "Aysel",
+          "url": "https://open.spotify.com/artist/0p8VQ0bbarbct1dXDthN5N"
+        },
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Always - Single Version",
+      "url": "https://open.spotify.com/track/4xMRFkFYufAuTEKR0YMN3Z"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/4CfWfExyyIuTxTXd7jjmy7"
-      },
-      "artists": [
-        {
-          "name": "Tamta",
-          "url": "https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ"
-        }
-      ],
-      "duration_ms": 173812,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/2UOyQB26wSQzM0jiTcUg50"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "The New Seekers",
         "url": "https://open.spotify.com/album/0439cWYJRibTFks4Re28ES"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 167333,
       "name": "Beg, Steal Or Borrow",
       "url": "https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/4CfWfExyyIuTxTXd7jjmy7"
+      },
+      "artists": [
+        {
+          "name": "Tamta",
+          "url": "https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ"
+        }
+      ],
+      "duration_ms": 173812,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/2UOyQB26wSQzM0jiTcUg50"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "A Million Voices",
-        "url": "https://open.spotify.com/album/43rQvK1t3lUDzNhXRLE6bQ"
-      },
-      "artists": [
-        {
-          "name": "Polina Gagarina",
-          "url": "https://open.spotify.com/artist/3Pdait6yo2LXvw2CwnagZr"
-        }
-      ],
-      "duration_ms": 180381,
-      "name": "A Million Voices",
-      "url": "https://open.spotify.com/track/6VlxdfLIfqf7saVOuerWyR"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "If Love Was a Crime (Eurovision 2016 - Bulgaria)",
         "url": "https://open.spotify.com/album/1CeeOXzTsGhGGvjIaDiocW"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 182000,
       "name": "Je t'adore - Eurovision Mix",
       "url": "https://open.spotify.com/track/1YuXoPqkTQOXpFJtjf5GWd"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "A Million Voices",
+        "url": "https://open.spotify.com/album/43rQvK1t3lUDzNhXRLE6bQ"
+      },
+      "artists": [
+        {
+          "name": "Polina Gagarina",
+          "url": "https://open.spotify.com/artist/3Pdait6yo2LXvw2CwnagZr"
+        }
+      ],
+      "duration_ms": 180381,
+      "name": "A Million Voices",
+      "url": "https://open.spotify.com/track/6VlxdfLIfqf7saVOuerWyR"
     },
     {
       "added_at": "2023-05-05 17:20:54",

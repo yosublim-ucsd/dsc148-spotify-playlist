@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: Vaundy, Cory wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,606 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,635 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 49 | [Osanpo \- Remix](https://open.spotify.com/track/5wWoGtwYK9xhPTgHBFJ4JK) | [SOCKS](https://open.spotify.com/artist/2pJg8flIdE3z4C9mJBgRuw), [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [Hannya](https://open.spotify.com/artist/6hFoHM39PZxkJ0eKfaeeqh), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb), [Space Dust Club](https://open.spotify.com/artist/2gzAqApojzEcGpWzvrZjRy) | [Osanpo \(Remix\)](https://open.spotify.com/album/6qSEgFsSbHoSi5LXJQp8z5) | 3:01 |
 | 50 | [Sugar Honey](https://open.spotify.com/track/7iB96cXDuwxr5mhPfg9J0U) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Sugar Honey](https://open.spotify.com/album/1sjIR9eofpdxuRYwNCgUYV) | 3:25 |
 
-Snapshot ID: `MCwyMzdmOTZmZWUxNzQ2NjliMDI3ZmFhNDU5N2ZhYmIwZDJjODgwMWYz`
+Snapshot ID: `MCw0MTUxMTJlMWE2ZTFjMGUwYjg3NjcwNDNjNGIwOTM0ZGE1NDY0OTJi`

@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 262173,
       "name": "Alone - Live",
       "url": "https://open.spotify.com/track/3U8x5bb3UcDoYOBj9ksvEN"
@@ -3108,6 +3108,24 @@
       "duration_ms": 221694,
       "name": "Slave to Love - Live at Live Aid, Wembley Stadium, 13th July 1985",
       "url": "https://open.spotify.com/track/12tg7YyxM5PWXz66U2kyrU"
+    },
+    {
+      "album": {
+        "name": "Infinite Disco",
+        "url": "https://open.spotify.com/album/22FbsSjPqf7kxayE4M5ut3"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193026,
+      "name": "Slow / Love to Love You Baby (From the Infinite Disco Livestream)",
+      "url": "https://open.spotify.com/track/0AocMj1DZuKPXGVrCICNNu"
     },
     {
       "album": {

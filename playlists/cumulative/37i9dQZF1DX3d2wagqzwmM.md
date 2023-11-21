@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Hardwell & Afrojack
 
-373 songs - 19 hr 56 min
+374 songs - 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [Once Again \(FOVOS Remix\)](https://open.spotify.com/track/7lecNF0Xhqb6GoyHDqjQwg) | [Dillion Francis](https://open.spotify.com/artist/0uSkTGSOlf95KOOsMa1H4Q), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Once Again \(Remixes\)](https://open.spotify.com/album/6FrZQaBXw0FUePDriWQrA9) | 3:33 | 2022-12-29 | 2022-12-31 |
 | [Once Again \- FOVOS Remix](https://open.spotify.com/track/4kUhdlpiBjnN9fyNyQdX19) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Once Again \(FOVOS Remix\)](https://open.spotify.com/album/2JUWPyPMStjSsIx5oNHJOO) | 3:33 | 2022-12-29 | 2023-01-02 |
 | [Once Again \- FOVOS Remix](https://open.spotify.com/track/4utyVIaPPovaCm7ZG1ZQA4) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Once Again](https://open.spotify.com/album/7qzo2BOdgUqZcFKFnFoVMp) | 3:33 | 2022-12-29 | 2023-01-03 |
-| [Ong Diggi Dong](https://open.spotify.com/track/6NOJdVdJPdN86Tc27LdJrz) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Ong Diggi Dong](https://open.spotify.com/album/6LaOFBp5ty4TkzAhu9FNAz) | 3:03 | 2023-10-30 |  |
+| [Ong Diggi Dong](https://open.spotify.com/track/6NOJdVdJPdN86Tc27LdJrz) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Ong Diggi Dong](https://open.spotify.com/album/6LaOFBp5ty4TkzAhu9FNAz) | 3:03 | 2023-10-30 | 2023-11-21 |
 | [Our Happiness](https://open.spotify.com/track/1cz2AfXziuBivVSLmThU6g) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Our Happiness](https://open.spotify.com/album/6HJRgQY8cQ9vuffzbWcnZq) | 3:31 | 2023-08-24 | 2023-09-08 |
 | [Out Of My Mind](https://open.spotify.com/track/2wSudk1Z9HMdPNrWnwu6mc) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Out Of My Mind](https://open.spotify.com/album/2TbwXR0NgqoHoHjorIX3s5) | 3:00 | 2022-04-14 | 2022-07-29 |
 | [P.R.O.G.](https://open.spotify.com/track/4dpNQuxo6xz66pDsvtUR4j) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [P.R.O.G.](https://open.spotify.com/album/2pYk1rLEFSKdJLd67mdIAd) | 2:58 | 2022-08-18 | 2022-09-19 |
@@ -292,6 +292,7 @@
 | [Save Me](https://open.spotify.com/track/2JZqPb0miqjFSyVPqMfSta) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Save Me](https://open.spotify.com/album/1k7Xv6WrWBxsLb8KHV46PF) | 2:41 | 2022-12-27 | 2023-01-03 |
 | [Seduction](https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [The Seduction EP](https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh) | 3:11 | 2023-04-06 | 2023-04-21 |
 | [SELF DESTRUCT](https://open.spotify.com/track/4zhG9ruZL1Kj64X5zLiCcO) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [SELF DESTRUCT](https://open.spotify.com/album/3OavI82lANHClWoPPERADE) | 4:02 | 2022-08-25 | 2023-01-03 |
+| [Sex Drugs Energie](https://open.spotify.com/track/6aB7mV6RHoshGo2ExvoRVQ) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Sex Drugs Energie](https://open.spotify.com/album/2oesdWZzEYr7AE2jsLyjTe) | 2:32 | 2023-11-16 |  |
 | [Shake The Building](https://open.spotify.com/track/24Fvsa3e7tf6ladJsbpUlI) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58), [MC Ambush](https://open.spotify.com/artist/18T0SpXY06tqdiyBTYTIgi) | [Shake The Building](https://open.spotify.com/album/5gk0ZhsuJ7izSgwjc7Uzcd) | 2:42 | 2023-04-27 | 2023-10-06 |
 | [She Movin'](https://open.spotify.com/track/2Mx93ho6F2ovN2FA4vs3Ud) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [She Movin'](https://open.spotify.com/album/5bFs3EpDL14QlNqfyKEvVl) | 3:37 | 2022-06-02 | 2022-08-19 |
 | [Shenron](https://open.spotify.com/track/4r9ua2cFKl86IaVy0TchZN) | [NWYR](https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0) | [Shenron](https://open.spotify.com/album/1veJKFx1wVO5ltrej0q6cS) | 3:24 | 2022-04-14 | 2022-04-21 |

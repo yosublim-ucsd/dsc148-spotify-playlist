@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-572 songs - 1 day 7 hr 25 min
+573 songs - 1 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [69 Camaro](https://open.spotify.com/track/70XkGdEfN4RM7bEwaNaBao) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [SUGA](https://open.spotify.com/album/5E5QGOClKXPXlVwOW9cWUz) | 2:34 | 2022-09-29 | 2023-06-17 |
 | [90s \- Remix](https://open.spotify.com/track/1NzjKlRWYEfH3UORKH0zyD) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [90s \(Remix\)](https://open.spotify.com/album/0241uDx21SHRh0BJK0auir) | 3:25 | 2023-10-20 |  |
 | [A Comma](https://open.spotify.com/track/4XNA6lxhJgZuampAzUGjUg) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Apparition EP](https://open.spotify.com/album/7FCpNm4l9fNtBeakrvpVf8) | 2:47 | 2021-12-15 | 2022-06-14 |
-| [A Dream](https://open.spotify.com/track/0Ntl87gyxtztbpfK8hfqQr) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [pat junior](https://open.spotify.com/artist/0lOsH3CaZpQIE3QO40SFvx) | [b l u r r](https://open.spotify.com/album/1lKab1olSSCNuFg3f2Jif0) | 2:41 | 2023-01-27 |  |
+| [A Dream](https://open.spotify.com/track/0Ntl87gyxtztbpfK8hfqQr) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [pat junior](https://open.spotify.com/artist/0lOsH3CaZpQIE3QO40SFvx) | [b l u r r](https://open.spotify.com/album/1lKab1olSSCNuFg3f2Jif0) | 2:41 | 2023-01-27 | 2023-11-21 |
 | [Abeg \(feat\. Amindi\)](https://open.spotify.com/track/4rRhOCXEvlQeMMLXDDigAP) | [SOLIS](https://open.spotify.com/artist/6Yv9GLPMVN1okoETQXHUAh), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Stairway To Heaven](https://open.spotify.com/album/2gllP0wR0siE0NYM9U5Tjb) | 3:23 | 2021-12-15 | 2022-04-08 |
 | [Addiction](https://open.spotify.com/track/12sXX3cUzBCpwjIzqBYIw1) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Alt Therapy Session 1: Disillusion](https://open.spotify.com/album/6s055xE2xDpP378xhu8zSu) | 2:55 | 2021-12-15 | 2022-07-29 |
 | [After The Day Party](https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Outside](https://open.spotify.com/album/4pWieE77CDQHT2UKff0WEy) | 2:27 | 2023-09-08 |  |
@@ -101,6 +101,7 @@
 | [concentrate](https://open.spotify.com/track/78BHW3aMoR2UrF1Pg1W0oc) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [concentrate](https://open.spotify.com/album/12Q6rsos506fgL55F1c5Ca) | 4:41 | 2023-11-10 |  |
 | [Connaissais de Face](https://open.spotify.com/track/0ibpvxLcFccvQJd0SjdUvW) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 4:20 | 2022-06-30 | 2023-01-28 |
 | [Connaissais de Face](https://open.spotify.com/track/6cVstYpU7fB0IKhJJmaqVe) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/06814vxpRbL5CPMk1CTvOk) | 4:20 | 2021-12-15 | 2022-07-29 |
+| [Courtyard](https://open.spotify.com/track/3GjXjfE5YTaq8ygpUmmSKM) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [Moflo](https://open.spotify.com/artist/3l4DNYCciNLDKnkKO2u8wP) | [Courtyard](https://open.spotify.com/album/3KY0BkUDoFCfDQaawL7CFF) | 3:45 | 2023-11-19 |  |
 | [Cup Full](https://open.spotify.com/track/4dIiJbA32UIWpkwfRdd8qI) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Cup Full](https://open.spotify.com/album/569L4WCdLzyfdEtFCuLZxk) | 2:23 | 2023-08-11 | 2023-09-20 |
 | [curly](https://open.spotify.com/track/1Qvwp3DULKe2pJ3Nlqqf6j) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [curly](https://open.spotify.com/album/6U0XrlPoviGhADoNJ9WlMU) | 4:38 | 2021-12-15 | 2022-07-29 |
 | [CYCLOPS](https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [C BOTH SIDES](https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc) | 2:09 | 2022-10-14 | 2023-10-21 |

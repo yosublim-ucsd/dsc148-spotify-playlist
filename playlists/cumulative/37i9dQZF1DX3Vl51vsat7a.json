@@ -992,7 +992,7 @@
     {
       "album": {
         "name": "Cover Up My Face",
-        "url": "https://open.spotify.com/album/1R0KvMBXz6qzjAEIS57Sz8"
+        "url": "https://open.spotify.com/album/4vj7dl0foafvI0OOVmB4s2"
       },
       "artists": [
         {
@@ -1003,6 +1003,24 @@
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 204587,
+      "name": "Cover Up My Face",
+      "url": "https://open.spotify.com/track/0t4N3qUMwdnDZNumcVxPRu"
+    },
+    {
+      "album": {
+        "name": "Cover Up My Face",
+        "url": "https://open.spotify.com/album/1R0KvMBXz6qzjAEIS57Sz8"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-21",
       "duration_ms": 204591,
       "name": "Cover Up My Face",
       "url": "https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0?si=JMEHZJJzTlCneUACBPIn\_Q>Onos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,455 likes - 102 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,474 likes - 102 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 101 | [Be Still \- Radio Edit](https://open.spotify.com/track/0qnaYBugVJH7SfMngDVUCT) | [Armand Mukenge](https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i) | [Be Still \(Radio Edit\)](https://open.spotify.com/album/2n3BZzo6NBr5bMTTH617Rc) | 3:56 |
 | 102 | [Fill Me](https://open.spotify.com/track/2ewvKMxHNOBZyY7D2h6kC0) | [Tim Sawyerr](https://open.spotify.com/artist/3PMyfT5UBdvvxOqbsyn7xH), [Niiella](https://open.spotify.com/artist/4JFdML5CyGhCBXziW98nou) | [Fill Me](https://open.spotify.com/album/0qFqhMJ1N0ryMxWz6AELtU) | 6:31 |
 
-Snapshot ID: `MCxlNGVlMDBmYjA4ODFjNDc1NDU0OGQ4ZDgxYzAwZThhNmE3ZTI3YjI4`
+Snapshot ID: `MCw2MmRkZWYzNmU0YWFkM2Q4NTI0N2VlNWY3ZDI5MTY0MzRjNTBhYTQx`

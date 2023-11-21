@@ -1,12 +1,12 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Can\u00e7\u00e3o & Louvor",
-  "num_followers": 74303,
+  "num_followers": 74358,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWRmYzczY2EyZjZiMWJlZWM5NTAwZDk4MzU5YzQyMTQ1MDkwMzNi",
+  "snapshot_id": "MCw1ODdlYTZkOWY2ODllMjVhNzE3NWM4MzJjMDNiMGI2ODY1OWUzNmQw",
   "tracks": [
     {
       "added_at": "2023-11-03 04:45:18",
@@ -115,26 +115,6 @@
     {
       "added_at": "2023-11-03 04:45:18",
       "album": {
-        "name": "Esta\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/7ax1cHCKMLx4fbCpKHrNa2"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        },
-        {
-          "name": "Misaias Oliveira",
-          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
-        }
-      ],
-      "duration_ms": 167850,
-      "name": "Esta\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/2RIq8jJy01rwLYXTGuVILo"
-    },
-    {
-      "added_at": "2023-11-03 04:45:18",
-      "album": {
         "name": "Amor a Primeira Vista",
         "url": "https://open.spotify.com/album/4NO7NULKB78wlMBQJJxh9N"
       },
@@ -203,8 +183,8 @@
     {
       "added_at": "2023-11-03 04:45:18",
       "album": {
-        "name": "Dependente",
-        "url": "https://open.spotify.com/album/0YrY5IiNF8hXfIUXTNmdzs"
+        "name": "Esta\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/7ax1cHCKMLx4fbCpKHrNa2"
       },
       "artists": [
         {
@@ -212,13 +192,13 @@
           "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
         },
         {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+          "name": "Misaias Oliveira",
+          "url": "https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt"
         }
       ],
-      "duration_ms": 194856,
-      "name": "Dependente",
-      "url": "https://open.spotify.com/track/3BwhWUP9w1I3GAEBxdlkw7"
+      "duration_ms": 167850,
+      "name": "Esta\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/2RIq8jJy01rwLYXTGuVILo"
     },
     {
       "added_at": "2023-11-03 04:45:18",
@@ -255,6 +235,22 @@
     {
       "added_at": "2023-11-03 04:45:18",
       "album": {
+        "name": "Sem Mim",
+        "url": "https://open.spotify.com/album/0kAMjsm1pERzXFQcPeRSqC"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 226469,
+      "name": "Sem Mim",
+      "url": "https://open.spotify.com/track/13TtQL164hr6cKj0c8M6Yt"
+    },
+    {
+      "added_at": "2023-11-03 04:45:18",
+      "album": {
         "name": "N\u00e3o \u00e9 Fake News (Ao Vivo)",
         "url": "https://open.spotify.com/album/6mN4EHMitusrKyEkK0qMP9"
       },
@@ -267,6 +263,42 @@
       "duration_ms": 206010,
       "name": "N\u00e3o \u00e9 Fake News - Ao Vivo",
       "url": "https://open.spotify.com/track/7ppdjcT5GGPSRKBdMR1BSN"
+    },
+    {
+      "added_at": "2023-11-03 04:45:18",
+      "album": {
+        "name": "Dependente",
+        "url": "https://open.spotify.com/album/0YrY5IiNF8hXfIUXTNmdzs"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        },
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "duration_ms": 194856,
+      "name": "Dependente",
+      "url": "https://open.spotify.com/track/3BwhWUP9w1I3GAEBxdlkw7"
+    },
+    {
+      "added_at": "2023-11-03 04:45:18",
+      "album": {
+        "name": "Foi Deus",
+        "url": "https://open.spotify.com/album/5840Tg0AbhEkFn1srM1kd5"
+      },
+      "artists": [
+        {
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
+        }
+      ],
+      "duration_ms": 215357,
+      "name": "Foi Deus",
+      "url": "https://open.spotify.com/track/6meRPiVc7RBKznQxMqUxE2"
     },
     {
       "added_at": "2023-11-03 04:45:18",
@@ -303,34 +335,18 @@
     {
       "added_at": "2023-11-03 04:45:18",
       "album": {
-        "name": "Sem Mim",
-        "url": "https://open.spotify.com/album/0kAMjsm1pERzXFQcPeRSqC"
+        "name": "A Esperan\u00e7a Que Restou",
+        "url": "https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I"
       },
       "artists": [
         {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+          "name": "Rayssa e Ravel",
+          "url": "https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT"
         }
       ],
-      "duration_ms": 226469,
-      "name": "Sem Mim",
-      "url": "https://open.spotify.com/track/13TtQL164hr6cKj0c8M6Yt"
-    },
-    {
-      "added_at": "2023-11-03 04:45:18",
-      "album": {
-        "name": "Foi Deus",
-        "url": "https://open.spotify.com/album/5840Tg0AbhEkFn1srM1kd5"
-      },
-      "artists": [
-        {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
-        }
-      ],
-      "duration_ms": 215357,
-      "name": "Foi Deus",
-      "url": "https://open.spotify.com/track/6meRPiVc7RBKznQxMqUxE2"
+      "duration_ms": 281941,
+      "name": "A Esperan\u00e7a Que Restou",
+      "url": "https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM"
     },
     {
       "added_at": "2023-11-03 04:45:18",
@@ -351,6 +367,22 @@
     {
       "added_at": "2023-11-03 04:45:18",
       "album": {
+        "name": "No C\u00e9u N\u00e3o Entra Pecado",
+        "url": "https://open.spotify.com/album/2DO1rOtMTZaZaZ2SbFAbxt"
+      },
+      "artists": [
+        {
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
+        }
+      ],
+      "duration_ms": 256785,
+      "name": "No C\u00e9u N\u00e3o Entra Pecado",
+      "url": "https://open.spotify.com/track/5uTOR5Uxjbf3Y1YNGaGWTP"
+    },
+    {
+      "added_at": "2023-11-03 04:45:18",
+      "album": {
         "name": "Se Liga",
         "url": "https://open.spotify.com/album/4c8S4zvT4xnOA0Ys8H0CbO"
       },
@@ -363,22 +395,6 @@
       "duration_ms": 182787,
       "name": "Se Liga",
       "url": "https://open.spotify.com/track/5i91lGW9FJHrvTypBJQmrx"
-    },
-    {
-      "added_at": "2023-11-03 04:45:18",
-      "album": {
-        "name": "A Esperan\u00e7a Que Restou",
-        "url": "https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I"
-      },
-      "artists": [
-        {
-          "name": "Rayssa e Ravel",
-          "url": "https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT"
-        }
-      ],
-      "duration_ms": 281941,
-      "name": "A Esperan\u00e7a Que Restou",
-      "url": "https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM"
     },
     {
       "added_at": "2023-11-03 04:45:18",
@@ -423,22 +439,6 @@
     {
       "added_at": "2023-11-03 04:45:18",
       "album": {
-        "name": "Meu Barquinho",
-        "url": "https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "Meu Barquinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
-    },
-    {
-      "added_at": "2023-11-03 04:45:18",
-      "album": {
         "name": "Eu Quero Ir pro C\u00e9u",
         "url": "https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ"
       },
@@ -455,18 +455,18 @@
     {
       "added_at": "2023-11-03 04:45:18",
       "album": {
-        "name": "No C\u00e9u N\u00e3o Entra Pecado",
-        "url": "https://open.spotify.com/album/2DO1rOtMTZaZaZ2SbFAbxt"
+        "name": "Meu Barquinho",
+        "url": "https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86"
       },
       "artists": [
         {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
         }
       ],
-      "duration_ms": 256785,
-      "name": "No C\u00e9u N\u00e3o Entra Pecado",
-      "url": "https://open.spotify.com/track/5uTOR5Uxjbf3Y1YNGaGWTP"
+      "duration_ms": 195520,
+      "name": "Meu Barquinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
     },
     {
       "added_at": "2023-11-03 04:45:18",
@@ -519,34 +519,18 @@
     {
       "added_at": "2023-11-03 04:45:18",
       "album": {
-        "name": "Adorador por Excel\u00eancia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/53CN56MYCjXDkDBkWmmusF"
+        "name": "Viola e Adora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l"
       },
       "artists": [
         {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
         }
       ],
-      "duration_ms": 239728,
-      "name": "Adorador por Excel\u00eancia - Ao Vivo",
-      "url": "https://open.spotify.com/track/7hjuwRZx76dcxlmsUgVVzc"
-    },
-    {
-      "added_at": "2023-11-03 04:45:18",
-      "album": {
-        "name": "Chuva de Poder",
-        "url": "https://open.spotify.com/album/0RpR497V9U9U6sPsEhITGr"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rodrigues",
-          "url": "https://open.spotify.com/artist/3dCQ53bhVYWtm6VDtEMRqb"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Chuva de Poder",
-      "url": "https://open.spotify.com/track/3MEgEIhFanSXp7dxmb7fmb"
+      "duration_ms": 158250,
+      "name": "O Crente e a Palmeira",
+      "url": "https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ"
     },
     {
       "added_at": "2023-11-03 04:45:18",
@@ -567,50 +551,18 @@
     {
       "added_at": "2023-11-03 04:45:18",
       "album": {
-        "name": "Deus Prover\u00e1",
-        "url": "https://open.spotify.com/album/01dSM55NXgqYhG6SP9rXxN"
+        "name": "Chuva de Poder",
+        "url": "https://open.spotify.com/album/0RpR497V9U9U6sPsEhITGr"
       },
       "artists": [
         {
-          "name": "Stefhany",
-          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+          "name": "Gabriela Rodrigues",
+          "url": "https://open.spotify.com/artist/3dCQ53bhVYWtm6VDtEMRqb"
         }
       ],
-      "duration_ms": 273531,
-      "name": "Deus Prover\u00e1",
-      "url": "https://open.spotify.com/track/217cgpXoXtpJTPa2YgfLAX"
-    },
-    {
-      "added_at": "2023-11-03 04:45:18",
-      "album": {
-        "name": "Lugar Secreto",
-        "url": "https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk"
-      },
-      "artists": [
-        {
-          "name": "Luc\u00e9lia Santos",
-          "url": "https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV"
-        }
-      ],
-      "duration_ms": 226269,
-      "name": "Lugar Secreto",
-      "url": "https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT"
-    },
-    {
-      "added_at": "2023-11-03 04:45:18",
-      "album": {
-        "name": "Viola e Adora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l"
-      },
-      "artists": [
-        {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
-        }
-      ],
-      "duration_ms": 158250,
-      "name": "O Crente e a Palmeira",
-      "url": "https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ"
+      "duration_ms": 196000,
+      "name": "Chuva de Poder",
+      "url": "https://open.spotify.com/track/3MEgEIhFanSXp7dxmb7fmb"
     },
     {
       "added_at": "2023-11-03 04:45:18",
@@ -627,6 +579,54 @@
       "duration_ms": 163258,
       "name": "Assim Como Deus Quer",
       "url": "https://open.spotify.com/track/2xvZtpiHJL0iXsrIU3cGBX"
+    },
+    {
+      "added_at": "2023-11-03 04:45:18",
+      "album": {
+        "name": "Deus Prover\u00e1",
+        "url": "https://open.spotify.com/album/01dSM55NXgqYhG6SP9rXxN"
+      },
+      "artists": [
+        {
+          "name": "Stefhany",
+          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+        }
+      ],
+      "duration_ms": 273531,
+      "name": "Deus Prover\u00e1",
+      "url": "https://open.spotify.com/track/217cgpXoXtpJTPa2YgfLAX"
+    },
+    {
+      "added_at": "2023-11-03 04:45:18",
+      "album": {
+        "name": "Adorador por Excel\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/53CN56MYCjXDkDBkWmmusF"
+      },
+      "artists": [
+        {
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+        }
+      ],
+      "duration_ms": 239728,
+      "name": "Adorador por Excel\u00eancia - Ao Vivo",
+      "url": "https://open.spotify.com/track/7hjuwRZx76dcxlmsUgVVzc"
+    },
+    {
+      "added_at": "2023-11-03 04:45:18",
+      "album": {
+        "name": "Lugar Secreto",
+        "url": "https://open.spotify.com/album/413JjplmLoHMSd7ylC6Dpk"
+      },
+      "artists": [
+        {
+          "name": "Luc\u00e9lia Santos",
+          "url": "https://open.spotify.com/artist/6nXnDwtzXjcRAXEWVQ7RQV"
+        }
+      ],
+      "duration_ms": 226269,
+      "name": "Lugar Secreto",
+      "url": "https://open.spotify.com/track/3yBHRT12WrWXrp4fpzZhyT"
     },
     {
       "added_at": "2023-11-03 04:45:18",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-11-03 04:45:18",
       "album": {
-        "name": "Deus \u00c9 Fiel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5vv2yytZnxkTEl019l7L48"
+        "name": "Estou de Volta",
+        "url": "https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf"
       },
       "artists": [
         {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
         }
       ],
-      "duration_ms": 269159,
-      "name": "Deus \u00c9 Fiel - Ao Vivo",
-      "url": "https://open.spotify.com/track/6mtq9R1uS3wqszirOeiDdl"
+      "duration_ms": 245000,
+      "name": "Estou de Volta",
+      "url": "https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm"
     },
     {
       "added_at": "2023-11-03 04:45:18",
@@ -691,6 +691,22 @@
       "duration_ms": 201090,
       "name": "Eu Vou para o C\u00e9u",
       "url": "https://open.spotify.com/track/0qacmh2FDALRfili16U6wk"
+    },
+    {
+      "added_at": "2023-11-03 04:45:18",
+      "album": {
+        "name": "Deus \u00c9 Fiel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5vv2yytZnxkTEl019l7L48"
+      },
+      "artists": [
+        {
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+        }
+      ],
+      "duration_ms": 269159,
+      "name": "Deus \u00c9 Fiel - Ao Vivo",
+      "url": "https://open.spotify.com/track/6mtq9R1uS3wqszirOeiDdl"
     },
     {
       "added_at": "2023-11-03 04:45:18",
@@ -731,26 +747,6 @@
     {
       "added_at": "2023-11-03 04:45:18",
       "album": {
-        "name": "Nascer de Novo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Sinfr\u00f4nio",
-          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
-        },
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 239791,
-      "name": "Nascer de Novo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t"
-    },
-    {
-      "added_at": "2023-11-03 04:45:18",
-      "album": {
         "name": "Minha Ilha",
         "url": "https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb"
       },
@@ -763,58 +759,6 @@
       "duration_ms": 284505,
       "name": "Minha Ilha",
       "url": "https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x"
-    },
-    {
-      "added_at": "2023-11-03 04:45:18",
-      "album": {
-        "name": "Estou de Volta",
-        "url": "https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf"
-      },
-      "artists": [
-        {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Estou de Volta",
-      "url": "https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm"
-    },
-    {
-      "added_at": "2023-11-03 04:45:18",
-      "album": {
-        "name": "A Terra e o Lavrador",
-        "url": "https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb"
-      },
-      "artists": [
-        {
-          "name": "Carina Garay",
-          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
-        }
-      ],
-      "duration_ms": 200562,
-      "name": "A Terra e o Lavrador",
-      "url": "https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4"
-    },
-    {
-      "added_at": "2023-11-03 04:45:18",
-      "album": {
-        "name": "Aquele Que Morreu na Cruz",
-        "url": "https://open.spotify.com/album/7MmnGwOEROxep15P3jyDuV"
-      },
-      "artists": [
-        {
-          "name": "Suellen Lima",
-          "url": "https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P"
-        },
-        {
-          "name": "Rayssa Peres",
-          "url": "https://open.spotify.com/artist/7cOiQi1jlP9H4JRA9IBBvA"
-        }
-      ],
-      "duration_ms": 203769,
-      "name": "Aquele Que Morreu na Cruz",
-      "url": "https://open.spotify.com/track/1WQxnqVIpabXhfguWVML3e"
     },
     {
       "added_at": "2023-11-03 04:45:18",
@@ -835,6 +779,42 @@
     {
       "added_at": "2023-11-03 04:45:18",
       "album": {
+        "name": "A Terra e o Lavrador",
+        "url": "https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb"
+      },
+      "artists": [
+        {
+          "name": "Carina Garay",
+          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
+        }
+      ],
+      "duration_ms": 200562,
+      "name": "A Terra e o Lavrador",
+      "url": "https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4"
+    },
+    {
+      "added_at": "2023-11-03 04:45:18",
+      "album": {
+        "name": "Nascer de Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Sinfr\u00f4nio",
+          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
+        },
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 239791,
+      "name": "Nascer de Novo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t"
+    },
+    {
+      "added_at": "2023-11-03 04:45:18",
+      "album": {
         "name": "No Tempo Certo",
         "url": "https://open.spotify.com/album/59lcFTldjKDGy2w2mS8nj9"
       },
@@ -847,6 +827,42 @@
       "duration_ms": 236692,
       "name": "Tem Milagre Vindo A\u00ed",
       "url": "https://open.spotify.com/track/2BLbkAosZfN5bmdOCLdwCv"
+    },
+    {
+      "added_at": "2023-11-03 04:45:18",
+      "album": {
+        "name": "Situa\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
+      },
+      "artists": [
+        {
+          "name": "Stefhany",
+          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
+        }
+      ],
+      "duration_ms": 261967,
+      "name": "Situa\u00e7\u00f5es",
+      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
+    },
+    {
+      "added_at": "2023-11-03 04:45:18",
+      "album": {
+        "name": "Aquele Que Morreu na Cruz",
+        "url": "https://open.spotify.com/album/7MmnGwOEROxep15P3jyDuV"
+      },
+      "artists": [
+        {
+          "name": "Suellen Lima",
+          "url": "https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P"
+        },
+        {
+          "name": "Rayssa Peres",
+          "url": "https://open.spotify.com/artist/7cOiQi1jlP9H4JRA9IBBvA"
+        }
+      ],
+      "duration_ms": 203769,
+      "name": "Aquele Que Morreu na Cruz",
+      "url": "https://open.spotify.com/track/1WQxnqVIpabXhfguWVML3e"
     },
     {
       "added_at": "2023-11-03 04:45:18",
@@ -883,22 +899,6 @@
     {
       "added_at": "2023-11-03 04:45:18",
       "album": {
-        "name": "Situa\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq"
-      },
-      "artists": [
-        {
-          "name": "Stefhany",
-          "url": "https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9"
-        }
-      ],
-      "duration_ms": 261967,
-      "name": "Situa\u00e7\u00f5es",
-      "url": "https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G"
-    },
-    {
-      "added_at": "2023-11-03 04:45:18",
-      "album": {
         "name": "Ra\u00edzes Vol. 1",
         "url": "https://open.spotify.com/album/5BzNE7xEQeDlq0XhsCv8pM"
       },
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-11-03 04:45:18",
       "album": {
-        "name": "Ref\u00e9m do Caminh\u00e3o",
-        "url": "https://open.spotify.com/album/0TPZmILuwLS8LvijT4cLKy"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        }
-      ],
-      "duration_ms": 276088,
-      "name": "Ref\u00e9m do Caminh\u00e3o",
-      "url": "https://open.spotify.com/track/3DHX5Ca4Vzest42XWIMhrc"
-    },
-    {
-      "added_at": "2023-11-03 04:45:18",
-      "album": {
         "name": "Arma Forjada",
         "url": "https://open.spotify.com/album/6Ks3dxIO88IeFfLgqZHdFG"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 247449,
       "name": "Arma Forjada",
       "url": "https://open.spotify.com/track/3wgJ32iIfOTwFmd6zSL6dG"
+    },
+    {
+      "added_at": "2023-11-03 04:45:18",
+      "album": {
+        "name": "Ref\u00e9m do Caminh\u00e3o",
+        "url": "https://open.spotify.com/album/0TPZmILuwLS8LvijT4cLKy"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        }
+      ],
+      "duration_ms": 276088,
+      "name": "Ref\u00e9m do Caminh\u00e3o",
+      "url": "https://open.spotify.com/track/3DHX5Ca4Vzest42XWIMhrc"
     },
     {
       "added_at": "2023-11-03 04:45:18",

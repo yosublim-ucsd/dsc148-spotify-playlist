@@ -6525,6 +6525,24 @@
     },
     {
       "album": {
+        "name": "Keeping Secrets Will Destroy You",
+        "url": "https://open.spotify.com/album/5KhQ3aMiWJ3l6Te4oYw5E4"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Prince Billy",
+          "url": "https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360807,
+      "name": "Keeping Secrets Will Destroy You",
+      "url": "https://open.spotify.com/track/7n28tz5VRBlNpS4N7wTQwf"
+    },
+    {
+      "album": {
         "name": "Key To The City",
         "url": "https://open.spotify.com/album/1iv4L6ZunwwdI1wbvdYH4L"
       },

@@ -2382,7 +2382,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 146865,
       "name": "Propaganda",
       "url": "https://open.spotify.com/track/7ySX1sgdBBCzw7WacxCYiS"
@@ -2418,7 +2418,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 222956,
       "name": "Remember All The Girls",
       "url": "https://open.spotify.com/track/7EPUyFHUWXCSmu5EoO58ET"
@@ -2674,6 +2674,24 @@
       "duration_ms": 224040,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/0c0rRmQCeGG5AIHaDquaBd"
+    },
+    {
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/4SoegC5LmYExoePFDyHRBq"
+      },
+      "artists": [
+        {
+          "name": "Johnny Marr",
+          "url": "https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224040,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/0xjNvmVnlOR8cfd0rWbVJH"
     },
     {
       "album": {
@@ -3048,7 +3066,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 177866,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG"

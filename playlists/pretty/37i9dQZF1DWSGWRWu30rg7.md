@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Tisya Liotta
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,650 likes - 101 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,655 likes - 101 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 100 | [Menggila](https://open.spotify.com/track/4dO7uQ8vJFLEs5Fl2oPLfD) | [Mariani Oelong](https://open.spotify.com/artist/6vVEB5LyxuoIoWNSESZqGa) | [Menggila](https://open.spotify.com/album/6A8Zv02ew4UU1bchD2wIyL) | 3:02 |
 | 101 | [Dreams](https://open.spotify.com/track/2EGsY3Xtrxh547bZ2gT25r) | [Tóke](https://open.spotify.com/artist/3JjFDyzZAfY2EVKZ4Yzs2I) | [Dreams](https://open.spotify.com/album/00qbprytPpHYytqNVZG6bI) | 2:39 |
 
-Snapshot ID: `MCw1NzEzODRlMjlkNmM2NGIzZGMyZDAwZThkNTI5OWE4YzA3ZWMwYmMz`
+Snapshot ID: `MCw5MWVlZDE1NmEwMjc2MDMzYzYzNDgzZGNmODE3NGU5ZWI1ZGEzNDEw`

@@ -1,12 +1,12 @@
 {
   "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30fb\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u6b21\u3005\u3068\u51fa\u73fe\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002Check out artists of the new Internet age! Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 109473,
+  "num_followers": 109595,
   "original_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTRiYTE3ZjA4MGZmNTBiMDQzMDVhZWMwOWMyNjg3YmU2ZTdmZTU3",
+  "snapshot_id": "MCw1MmRlNTY4OWU3Y2JkODM2YjJiNWJhYjUwMDhiZjU3YzJiMjQyMDZk",
   "tracks": [
     {
       "added_at": "2023-11-16 15:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-11-16 15:00:00",
       "album": {
-        "name": "All Night Radio",
-        "url": "https://open.spotify.com/album/2kEK5J1Njg3r0Ramvj3GDq"
-      },
-      "artists": [
-        {
-          "name": "Ado",
-          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "All Night Radio",
-      "url": "https://open.spotify.com/track/7GRfiALpnehkSNn34LDeci"
-    },
-    {
-      "added_at": "2023-11-16 15:00:00",
-      "album": {
         "name": "Rendezvous",
         "url": "https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2023-11-16 15:00:00",
       "album": {
-        "name": "Haru wo Tsugeru",
-        "url": "https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ"
+        "name": "All Night Radio",
+        "url": "https://open.spotify.com/album/2kEK5J1Njg3r0Ramvj3GDq"
       },
       "artists": [
         {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
         }
       ],
-      "duration_ms": 196497,
-      "name": "Haru wo Tsugeru",
-      "url": "https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m"
+      "duration_ms": 213000,
+      "name": "All Night Radio",
+      "url": "https://open.spotify.com/track/7GRfiALpnehkSNn34LDeci"
     },
     {
       "added_at": "2023-11-16 15:00:00",
@@ -719,22 +703,6 @@
     {
       "added_at": "2023-11-16 15:00:00",
       "album": {
-        "name": "Double",
-        "url": "https://open.spotify.com/album/3oggIhfX6BMxH5ADVWDHvd"
-      },
-      "artists": [
-        {
-          "name": "MILGRAM \u30df\u30b3\u30c8 (CV: \u82b1\u6c5f\u590f\u6a39)",
-          "url": "https://open.spotify.com/artist/6GjjbcGn9ooKDynyo0ISWo"
-        }
-      ],
-      "duration_ms": 153032,
-      "name": "Double",
-      "url": "https://open.spotify.com/track/6f2ToOdyiDDdC3bSMHoARk"
-    },
-    {
-      "added_at": "2023-11-16 15:00:00",
-      "album": {
         "name": "\u6b8b\u6a5f",
         "url": "https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3"
       },
@@ -751,8 +719,8 @@
     {
       "added_at": "2023-11-16 15:00:00",
       "album": {
-        "name": "slash",
-        "url": "https://open.spotify.com/album/4oLomJzmXTSNYrOYsEg4u3"
+        "name": "Haru wo Tsugeru",
+        "url": "https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ"
       },
       "artists": [
         {
@@ -760,25 +728,25 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 238833,
-      "name": "slash",
-      "url": "https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T"
+      "duration_ms": 196497,
+      "name": "Haru wo Tsugeru",
+      "url": "https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m"
     },
     {
       "added_at": "2023-11-16 15:00:00",
       "album": {
-        "name": "Bokurano",
-        "url": "https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh"
+        "name": "Double",
+        "url": "https://open.spotify.com/album/3oggIhfX6BMxH5ADVWDHvd"
       },
       "artists": [
         {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+          "name": "MILGRAM \u30df\u30b3\u30c8 (CV: \u82b1\u6c5f\u590f\u6a39)",
+          "url": "https://open.spotify.com/artist/6GjjbcGn9ooKDynyo0ISWo"
         }
       ],
-      "duration_ms": 212708,
-      "name": "Bokurano",
-      "url": "https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX"
+      "duration_ms": 153032,
+      "name": "Double",
+      "url": "https://open.spotify.com/track/6f2ToOdyiDDdC3bSMHoARk"
     },
     {
       "added_at": "2023-11-16 15:00:00",
@@ -795,6 +763,22 @@
       "duration_ms": 252396,
       "name": "DIGNITY",
       "url": "https://open.spotify.com/track/1BDCBbdTDQo3JxC0kVDSqP"
+    },
+    {
+      "added_at": "2023-11-16 15:00:00",
+      "album": {
+        "name": "Bokurano",
+        "url": "https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "duration_ms": 212708,
+      "name": "Bokurano",
+      "url": "https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX"
     },
     {
       "added_at": "2023-11-16 15:00:00",
@@ -875,6 +859,22 @@
       "duration_ms": 157161,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/22EHB5z2GwYNPA1wZ3LtL4"
+    },
+    {
+      "added_at": "2023-11-16 15:00:00",
+      "album": {
+        "name": "\u597d\u304d\u3060",
+        "url": "https://open.spotify.com/album/1IOv9TZ1IarsEQ6RB7HEe0"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 217512,
+      "name": "\u597d\u304d\u3060",
+      "url": "https://open.spotify.com/track/7537JfhvVpEqkrY2CIY7zu"
     }
   ],
   "unique_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",

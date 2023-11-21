@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Aziz Hedra
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,028 likes - 107 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,094 likes - 107 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 106 | [Wherever](https://open.spotify.com/track/3BjJ7VHJrIrXPTmbWLE2oa) | [Arabelle](https://open.spotify.com/artist/7uU11RJKOt74chXI2s6eQf) | [Wherever](https://open.spotify.com/album/45tK8A8YV4q8nUZNMgckKc) | 3:03 |
 | 107 | [sleep with me on my birthday](https://open.spotify.com/track/5kn9bgoRskj3jgcEfsK1zL) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [sleep with me on my birthday](https://open.spotify.com/album/5H3aAu6WbGWDmLgCpx2OEs) | 2:55 |
 
-Snapshot ID: `MCxiOTVhNDU4YTFmYTBjZmE3MTYwZDViOWY2YmJkYmJkYzNmMTg5ZmFl`
+Snapshot ID: `MCw2YzA2ZTI5ZmMyMTc0ODA5ZDJjZmZjMzc0ZTNiMmU2YTNhNmIwOWRh`

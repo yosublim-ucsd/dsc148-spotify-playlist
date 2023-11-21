@@ -4,7 +4,7 @@
 
 > A salute to all of the women opening up the pit\. Cover: NOVELISTS
 
-290 songs - 18 hr 47 min
+291 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [Take Me There](https://open.spotify.com/track/7AirDADqbXKplcwcpvVJZF) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Within Each Lies the Other](https://open.spotify.com/album/6isj0Hqo95H2vYzkEEoWvO) | 3:41 | 2022-03-11 | 2022-08-08 |
 | [Talk To Me \(feat\. Lzzy Hale\)](https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Talk To Me \(feat\. Lzzy Hale\)](https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T) | 3:28 | 2020-12-07\* |  |
 | [Taunt Me](https://open.spotify.com/track/4p5S0Yn39eWAkHNJ6LuK77) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Taunt Me](https://open.spotify.com/album/1DOLXGRrzOfSEGelL71udE) | 3:53 | 2023-02-03 | 2023-02-11 |
-| [Taxi](https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Who Are The Girls?](https://open.spotify.com/album/1lGzgx8IIetmm9vKcu3qtE) | 3:21 | 2022-03-11 |  |
+| [Taxi](https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Who Are The Girls?](https://open.spotify.com/album/1lGzgx8IIetmm9vKcu3qtE) | 3:21 | 2022-03-11 | 2023-11-21 |
 | [Taxi](https://open.spotify.com/track/5tmteF0p600KTdfsBvOvZg) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Who Are The Girls?](https://open.spotify.com/album/3TlUu9X2Bs4ngvLkad88HQ) | 3:21 | 2021-10-02 | 2022-09-11 |
 | [Tears in Rain](https://open.spotify.com/track/5yg9o93xZLdNRzCLTTSfEi) | [Tarja](https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc) | [Tears in Rain](https://open.spotify.com/album/13BTr1scGXFxgkJ6BkjvwO) | 4:28 | 2020-12-07\* | 2021-05-15 |
 | [The Final Theory \(Demo\)](https://open.spotify.com/track/51xmR73DF3JviQZfPRpvBA) | [Helion Prime](https://open.spotify.com/artist/2lUdzoPUHo1zpRGDXTipi5) | [The Final Theory \(Demo\)](https://open.spotify.com/album/7MhvVSqmUtWNAUu3tHnV95) | 4:22 | 2020-12-07\* | 2021-05-29 |
@@ -263,6 +263,7 @@
 | [The Spell](https://open.spotify.com/track/6o5obE3S7oR6mmIXBUGJMv) | [Cellar Darling](https://open.spotify.com/artist/29TiA5JlE8qICyOYEvyvGR) | [The Spell](https://open.spotify.com/album/3hNmewjBhm49m9l5NTLxlh) | 4:41 | 2020-12-07\* | 2020-12-11 |
 | [The Steeple](https://open.spotify.com/track/09XBDPqHnevLn54rpRMjkZ) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:27 | 2022-10-28 |  |
 | [The Steeple](https://open.spotify.com/track/5Mozz7NTj4EYK1d1mdP6I2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Steeple](https://open.spotify.com/album/31hmuzbX46koetZMTs5O0o) | 3:27 | 2022-03-04 | 2022-10-29 |
+| [The Void](https://open.spotify.com/track/2exVVVKvdymCwOFdvmA2bq) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Void](https://open.spotify.com/album/7iAsbehqUN1IsCNG4NlAwu) | 3:40 | 2023-09-15 |  |
 | [The Void](https://open.spotify.com/track/6TuoAUJFtdz4OMshZeaKHW) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Void](https://open.spotify.com/album/0QRXPpwdM079Cs6XmMjOnv) | 3:40 | 2023-08-07 | 2023-11-18 |
 | [The Waters Rising](https://open.spotify.com/track/59EXUU1Fde9Lc6QjGotk2B) | [Oceans of Slumber](https://open.spotify.com/artist/2JSza6IRxLr1Ez3wqKd0SY) | [The Waters Rising](https://open.spotify.com/album/58fcRPmN042228TwRVoVsQ) | 4:23 | 2022-03-11 | 2022-07-29 |
 | [The Witch](https://open.spotify.com/track/1TREyFqT3Au25SZZrVzFAq) | [Nocturnal Pestilence](https://open.spotify.com/artist/71wN07P76croe8iPzElk7n), [Nicol Hofmanová](https://open.spotify.com/artist/58qnbnGqtzPPJVIgog33xJ) | [The Witch](https://open.spotify.com/album/6onhEGxKl1SjRci5qPDQSS) | 4:41 | 2021-05-15 | 2022-07-28 |

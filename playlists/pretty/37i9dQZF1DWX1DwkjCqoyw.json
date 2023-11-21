@@ -1,12 +1,12 @@
 {
   "description": "The biggest crossover songs from the islands all in one place. Cover: Shaggy",
-  "num_followers": 125747,
+  "num_followers": 125778,
   "original_name": "Island Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTYyMjc0MTViZDE1YTkxYzQ2NWU2MjZmYzcyZTY3ZTIwNmFjNTc3",
+  "snapshot_id": "MCw4MDlkZTZkM2U5M2UwYjM4Mzg2N2NlOGVhYzQxNjc1ZTY1ZTkyNGQ2",
   "tracks": [
     {
       "added_at": "2023-05-16 15:57:09",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-05-16 15:57:09",
       "album": {
-        "name": "Gal Policy",
-        "url": "https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 136826,
-      "name": "Gal Policy",
-      "url": "https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx"
-    },
-    {
-      "added_at": "2023-05-16 15:57:09",
-      "album": {
         "name": "VENT",
         "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 196235,
       "name": "Twinkle",
       "url": "https://open.spotify.com/track/4G08pUaQ5frf1o1WMT7D4L"
+    },
+    {
+      "added_at": "2023-05-16 15:57:09",
+      "album": {
+        "name": "Gal Policy",
+        "url": "https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 136826,
+      "name": "Gal Policy",
+      "url": "https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx"
     },
     {
       "added_at": "2023-05-16 15:57:09",
@@ -631,30 +631,6 @@
     {
       "added_at": "2023-05-16 15:57:09",
       "album": {
-        "name": "GYALIS (Remix) [feat. Chris Brown & Popcaan]",
-        "url": "https://open.spotify.com/album/0NRzHfHBffN44wOGby2gJP"
-      },
-      "artists": [
-        {
-          "name": "Capella Grey",
-          "url": "https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH"
-        },
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 195476,
-      "name": "GYALIS (Remix) [feat. Chris Brown & Popcaan]",
-      "url": "https://open.spotify.com/track/4M8tmhoPrUN3W89SChMxba"
-    },
-    {
-      "added_at": "2023-05-16 15:57:09",
-      "album": {
         "name": "VENT",
         "url": "https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0"
       },
@@ -683,6 +659,30 @@
       "duration_ms": 204068,
       "name": "Gvnman Shift",
       "url": "https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU"
+    },
+    {
+      "added_at": "2023-05-16 15:57:09",
+      "album": {
+        "name": "Lighter (with Tarrus Riley & Rvssian)",
+        "url": "https://open.spotify.com/album/11FhJslAwiGqGYP2TLOVBq"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Tarrus Riley",
+          "url": "https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "duration_ms": 124515,
+      "name": "Lighter (with Tarrus Riley & Rvssian)",
+      "url": "https://open.spotify.com/track/1AAkIj1NSdpaoOZYctGnrg"
     }
   ],
   "unique_name": "Island Pop",

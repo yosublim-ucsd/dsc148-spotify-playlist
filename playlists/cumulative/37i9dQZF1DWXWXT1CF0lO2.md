@@ -4,7 +4,7 @@
 
 > Ajude seu bebê a adormecer com esta playlist relaxante com as favoritos da Disney.
 
-75 songs - 3 hr 38 min
+76 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [The Ship](https://open.spotify.com/track/4KdrgmXjJ29AsCjE6x1qr3) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 4:55 | 2021-04-26 |  |
 | [The Tiki, Tiki, Tiki Room](https://open.spotify.com/track/58cGVTWIpbFOdoB2IWTyHm) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Joy](https://open.spotify.com/album/2zMoXnyQRqwvMRdIyNmTSb) | 2:25 | 2021-04-26 |  |
 | [This Is Halloween](https://open.spotify.com/track/3ZwLB2bhvpVp42V9NHJQoM) | [Chantry Johnson](https://open.spotify.com/artist/7DYNIsWygVsxut6h6pmyeW) | [Little Nightmares](https://open.spotify.com/album/2KwS2u87aRiv7y4AKsToqG) | 4:35 | 2021-04-26 |  |
+| [This Wish \- Instrumental](https://open.spotify.com/track/6Odb5D5znxtGtgOzGLaQVY) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Benjamin Rice](https://open.spotify.com/artist/4aXYXCnJR6Aweo8GnWoSTD) | [Wish \(Banda Sonora Original en Español\)](https://open.spotify.com/album/17sSfXuykvQcFrW4QpxuF0) | 3:25 | 2023-11-21 |  |
 | [Twinkle, Twinkle, Little Star](https://open.spotify.com/track/1BEtrQSOOb7jdffB6IoD3N) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:24 | 2021-04-26 |  |
 | [Vampirina Theme](https://open.spotify.com/track/6UCJiPw3OdHbVY6o4kxQUW) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:24 | 2021-04-26 |  |
 | [We Belong Together](https://open.spotify.com/track/1UX5AmoFfi8aO0cVrHbiVR) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Calm](https://open.spotify.com/album/6NrUAostaKMBvKjI9Oc7jj) | 4:06 | 2021-04-26 |  |

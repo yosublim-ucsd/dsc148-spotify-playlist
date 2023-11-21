@@ -680,7 +680,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 214768,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6"
@@ -3328,6 +3328,24 @@
       "duration_ms": 196949,
       "name": "marie",
       "url": "https://open.spotify.com/track/7eQYeUxaTediJTUl8oMRar"
+    },
+    {
+      "album": {
+        "name": "Maybe Next Time",
+        "url": "https://open.spotify.com/album/6c06DjFMHRdIKd0r7VSiNT"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188373,
+      "name": "Maybe Next Time",
+      "url": "https://open.spotify.com/track/0RPxi7CSnMlPeREcnfJptp"
     },
     {
       "album": {

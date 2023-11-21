@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Bis Skeez\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,428 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,436 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Healing](https://open.spotify.com/track/6VXTwheugAKNTUgASc2rTf) | [Molly Millington](https://open.spotify.com/artist/52GBEgAVGUOB8bXQQ4s9aF) | [Healing](https://open.spotify.com/album/3YW5NWjuHOox9msuhFyl57) | 3:25 |
 | 100 | [motionsick](https://open.spotify.com/track/5JH5moIvJfQhB0Gnv1c5KW) | [drest](https://open.spotify.com/artist/6iQHZkkQy6VuuOE0ASK6Ye) | [motionsick](https://open.spotify.com/album/74AbkyzSoOj24OX2fpMB6K) | 3:17 |
 
-Snapshot ID: `MCw1YTZiN2FmZThmMGFkNGI5ZGU1MDJkOTliYjNhNmFkYWVhMTVjODA3`
+Snapshot ID: `MCwyNTg2YTU4OGNmMmM1ODZkZGE2NDNkYzJiOGU2MDIwOTQ1MTNiN2E4`

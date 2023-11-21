@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : All OK",
-  "num_followers": 23082,
+  "num_followers": 23088,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGU4MmE4MjhhNDA4MDg3NWJkNDc4MjhjZTNkZGE4N2QzOWMzYmYx",
+  "snapshot_id": "MCxhMDdhNWI2ZDg0ZWRhZGViMGQ1MzQyYWZhYzQ1YjkzNjQwZTk0YmQ4",
   "tracks": [
     {
       "added_at": "2023-10-25 08:03:09",
@@ -45,6 +45,30 @@
       "url": "https://open.spotify.com/track/3cnbXyiWN1YY80kIi6o3HR"
     },
     {
+      "added_at": "2023-11-20 12:24:27",
+      "album": {
+        "name": "Pataki Cypher",
+        "url": "https://open.spotify.com/album/4jsMijzc4aWVi2Sjbbmct0"
+      },
+      "artists": [
+        {
+          "name": "The Aura",
+          "url": "https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N"
+        },
+        {
+          "name": "J.O.Y",
+          "url": "https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm"
+        },
+        {
+          "name": "Yaaru",
+          "url": "https://open.spotify.com/artist/5uIPe6WLxAprhUHVBME3hx"
+        }
+      ],
+      "duration_ms": 160812,
+      "name": "Pataki Cypher",
+      "url": "https://open.spotify.com/track/69SWabKnBArDWmPZrHbBcg"
+    },
+    {
       "added_at": "2023-11-17 13:20:30",
       "album": {
         "name": "6ne Crossu",
@@ -81,6 +105,26 @@
       "url": "https://open.spotify.com/track/6F6P4st3J11p2vfNepvRRn"
     },
     {
+      "added_at": "2023-11-20 12:31:17",
+      "album": {
+        "name": "Olave",
+        "url": "https://open.spotify.com/album/38mNXjgN7bfNO6dvImUaKO"
+      },
+      "artists": [
+        {
+          "name": "Srivathsa K R",
+          "url": "https://open.spotify.com/artist/01CJHgNeZTFlGq223sFeYE"
+        },
+        {
+          "name": "Sathya Radhakrishna",
+          "url": "https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Olave",
+      "url": "https://open.spotify.com/track/5Be0E8MXsPkceRpnD9nV7n"
+    },
+    {
       "added_at": "2023-11-17 13:21:12",
       "album": {
         "name": "Nanna Ee Manasali",
@@ -95,6 +139,26 @@
       "duration_ms": 239984,
       "name": "Nanna Ee Manasali",
       "url": "https://open.spotify.com/track/18UgqzO5hjpMybau3AYAr6"
+    },
+    {
+      "added_at": "2023-11-20 12:14:56",
+      "album": {
+        "name": "Bengaluru Kambala Theme Song",
+        "url": "https://open.spotify.com/album/1ScN9PVrjBoNYikbwRrSYc"
+      },
+      "artists": [
+        {
+          "name": "Guru Kiran",
+          "url": "https://open.spotify.com/artist/3xSxDireyobIryR5nIaHa0"
+        },
+        {
+          "name": "V. Manohar",
+          "url": "https://open.spotify.com/artist/2J5reHSIjjv6mtrbD9q1xN"
+        }
+      ],
+      "duration_ms": 145936,
+      "name": "Bengaluru Kambala Theme Song",
+      "url": "https://open.spotify.com/track/4d6yVH3lLLABq5evQ3P2LJ"
     },
     {
       "added_at": "2023-11-16 11:55:17",
@@ -159,6 +223,26 @@
       "duration_ms": 210000,
       "name": "Nee Nanna Kavithe",
       "url": "https://open.spotify.com/track/5F8gPMjRT1zjpaIlyjSBNw"
+    },
+    {
+      "added_at": "2023-11-20 12:25:32",
+      "album": {
+        "name": "Bere Tara",
+        "url": "https://open.spotify.com/album/5A3MVaOMPmTcfkidhK9Vu2"
+      },
+      "artists": [
+        {
+          "name": "The Aura",
+          "url": "https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N"
+        },
+        {
+          "name": "Hithu Dwen",
+          "url": "https://open.spotify.com/artist/6J6cHK9I4q6C54trkBmLqn"
+        }
+      ],
+      "duration_ms": 290005,
+      "name": "Bere Tara",
+      "url": "https://open.spotify.com/track/1CLxYQF70NuP76EYphQztG"
     },
     {
       "added_at": "2023-10-26 12:26:30",

@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: JBS, MilleniumKid
 
-1,423 songs - 2 day 19 hr 5 min
+1,424 songs - 2 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,8 @@
 | [COOL KIDS](https://open.spotify.com/track/1YcG2ofHVH4B3HUQAayA4P) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [COOL KIDS](https://open.spotify.com/album/5HUtXyg0pthUtXDXHQjlBU) | 2:16 | 2022-11-24 | 2023-02-01 |
 | [COOL KIDS](https://open.spotify.com/track/633PW1W4gDU5uqCsbxmf6M) | [Rua](https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw) | [DIRTY SOUTH](https://open.spotify.com/album/4fxWfSWop2N2u5HTF4WNJf) | 2:16 | 2023-01-26 | 2023-03-31 |
 | [coq au vin](https://open.spotify.com/track/4NERmR0700rwstJpWkFO5b) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [coq au vin](https://open.spotify.com/album/1GreCrihbUzlxlT6sI6RRM) | 3:44 | 2022-08-11 | 2022-09-23 |
-| [Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/1R0KvMBXz6qzjAEIS57Sz8) | 3:24 | 2023-11-16 |  |
+| [Cover Up My Face](https://open.spotify.com/track/0t4N3qUMwdnDZNumcVxPRu) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/4vj7dl0foafvI0OOVmB4s2) | 3:24 | 2023-11-17 |  |
+| [Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/1R0KvMBXz6qzjAEIS57Sz8) | 3:24 | 2023-11-16 | 2023-11-21 |
 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 | 2022-06-09 | 2022-07-05 |
 | [Crash Dummy](https://open.spotify.com/track/3wlFVKpDLDADlWXTNl9gGN) | [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC), [Monk](https://open.spotify.com/artist/0jEyGu5QKLxQ2tIZVnRbfE), [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl) | [Crash Dummy](https://open.spotify.com/album/1ob5JbhZ4KhzKdq0HZZwDG) | 2:52 | 2023-11-02 |  |
 | [Crashen](https://open.spotify.com/track/5STeQZH1Ahz3h0X9Njaij7) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Benzo Diaries](https://open.spotify.com/album/0HbiTa5jQDKUGTitnI84p1) | 2:58 | 2022-06-09 | 2022-06-14 |

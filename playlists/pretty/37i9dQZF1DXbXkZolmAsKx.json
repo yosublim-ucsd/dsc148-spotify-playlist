@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 7034,
+  "num_followers": 7089,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDNjNTEzN2Y5YjJkZjFlYjFkM2NjZmQ3ODFiM2IxOTczNGYzOTEz",
+  "snapshot_id": "MCwxOGU2MmVmZGJiZmY2ZWI2N2EwZDljYjc4OTYwNDcyNDY5YjYyNWMy",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "EARS",
-        "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Stratus",
-      "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Weightless (Ambient Transmission Vol. 2)",
         "url": "https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR"
       },
@@ -159,6 +143,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "EARS",
+        "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Stratus",
+      "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Moiety",
         "url": "https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO"
       },
@@ -171,6 +171,22 @@
       "duration_ms": 287520,
       "name": "Nothing It Can",
       "url": "https://open.spotify.com/track/4YEKwC3ipNg9LdR02OL8h2"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "The Social Network",
+        "url": "https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "duration_ms": 99278,
+      "name": "It Catches up With You",
+      "url": "https://open.spotify.com/track/2cryrajucGmbV6mwNUhQPB"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -203,22 +219,6 @@
       "duration_ms": 405573,
       "name": "Angle of List",
       "url": "https://open.spotify.com/track/6lgDvkxcWNnCefaT2qeJPf"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "The Social Network",
-        "url": "https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa"
-      },
-      "artists": [
-        {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
-        }
-      ],
-      "duration_ms": 99278,
-      "name": "It Catches up With You",
-      "url": "https://open.spotify.com/track/2cryrajucGmbV6mwNUhQPB"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Void VIII",
-        "url": "https://open.spotify.com/album/5EFR1d59FzW9KkZO4lCJES"
-      },
-      "artists": [
-        {
-          "name": "Chihei Hatakeyama",
-          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Pulse",
-      "url": "https://open.spotify.com/track/7juphslZcWQqXJYeKXGUHS"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Replica",
         "url": "https://open.spotify.com/album/4X5lHc7Fw8PPTbQAC37wvA"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 230759,
       "name": "Submersible",
       "url": "https://open.spotify.com/track/0qsVyB8EPHAlId8v3jqpcg"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Late Night Tales: Floating Points",
+        "url": "https://open.spotify.com/album/1LhNRSweuF57DJ2IbWrKx8"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 563427,
+      "name": "Moments In Love",
+      "url": "https://open.spotify.com/track/4UJZRzCw6tNu6EDXGmD47U"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Late Night Tales: Floating Points",
-        "url": "https://open.spotify.com/album/1LhNRSweuF57DJ2IbWrKx8"
+        "name": "Void VIII",
+        "url": "https://open.spotify.com/album/5EFR1d59FzW9KkZO4lCJES"
       },
       "artists": [
         {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
         }
       ],
-      "duration_ms": 563427,
-      "name": "Moments In Love",
-      "url": "https://open.spotify.com/track/4UJZRzCw6tNu6EDXGmD47U"
+      "duration_ms": 244973,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/7juphslZcWQqXJYeKXGUHS"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Talk To The Sea",
-        "url": "https://open.spotify.com/album/2Ug1g1ufvv4D4K4iooE3wK"
+        "name": "AUN",
+        "url": "https://open.spotify.com/album/29zcWtCKrowX82m30Ta6Lh"
       },
       "artists": [
         {
-          "name": "Gigi Masin",
-          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
+          "name": "Fennesz",
+          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
         }
       ],
-      "duration_ms": 199000,
-      "name": "First Time Ruth Saw The Sea - Original Mix",
-      "url": "https://open.spotify.com/track/1986yd9X1YNziEDbpVBn9U"
+      "duration_ms": 131000,
+      "name": "Kae",
+      "url": "https://open.spotify.com/track/033Vg3im3XjMERhAf180cN"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Talk To The Sea",
+        "url": "https://open.spotify.com/album/2Ug1g1ufvv4D4K4iooE3wK"
+      },
+      "artists": [
+        {
+          "name": "Gigi Masin",
+          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "First Time Ruth Saw The Sea - Original Mix",
+      "url": "https://open.spotify.com/track/1986yd9X1YNziEDbpVBn9U"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Tomorrow's Harvest",
         "url": "https://open.spotify.com/album/07Ckd8KDDxcbY5iUXjhuex"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 210118,
       "name": "Semena Mertvykh",
       "url": "https://open.spotify.com/track/51B3H88KSH1BkLdQnWlEZl"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Ravedeath, 1972",
-        "url": "https://open.spotify.com/album/6Iu8toVsvCc3I4INxYiVIy"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 231906,
-      "name": "Analog Paralysis, 1978",
-      "url": "https://open.spotify.com/track/3guEVTjNJHoR5D7GJRZMs5"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "AUN",
-        "url": "https://open.spotify.com/album/29zcWtCKrowX82m30Ta6Lh"
+        "name": "Ravedeath, 1972",
+        "url": "https://open.spotify.com/album/6Iu8toVsvCc3I4INxYiVIy"
       },
       "artists": [
         {
-          "name": "Fennesz",
-          "url": "https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz"
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
         }
       ],
-      "duration_ms": 131000,
-      "name": "Kae",
-      "url": "https://open.spotify.com/track/033Vg3im3XjMERhAf180cN"
+      "duration_ms": 231906,
+      "name": "Analog Paralysis, 1978",
+      "url": "https://open.spotify.com/track/3guEVTjNJHoR5D7GJRZMs5"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Mono No Aware",
-        "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
-      },
-      "artists": [
-        {
-          "name": "Sky H1",
-          "url": "https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4"
-        }
-      ],
-      "duration_ms": 230608,
-      "name": "Huit",
-      "url": "https://open.spotify.com/track/6VvOYb9aPWQnpFyvKKsYZW"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "From Sleep",
         "url": "https://open.spotify.com/album/7tP7WLxusDpTi1gf1JFsrT"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 315720,
       "name": "Space 11 (Invisible Pages Over)",
       "url": "https://open.spotify.com/track/7uLFKKT99gXzjLhsOoDKwg"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Mono No Aware",
+        "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
+      },
+      "artists": [
+        {
+          "name": "Sky H1",
+          "url": "https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4"
+        }
+      ],
+      "duration_ms": 230608,
+      "name": "Huit",
+      "url": "https://open.spotify.com/track/6VvOYb9aPWQnpFyvKKsYZW"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
+      },
+      "artists": [
+        {
+          "name": "Warmth",
+          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
+        }
+      ],
+      "duration_ms": 422613,
+      "name": "Convex",
+      "url": "https://open.spotify.com/track/0EvEp9ERqjF3XW0mZb4rmj"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Passive Aggressive",
         "url": "https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l"
       },
@@ -863,22 +879,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
-      },
-      "artists": [
-        {
-          "name": "Warmth",
-          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
-        }
-      ],
-      "duration_ms": 422613,
-      "name": "Convex",
-      "url": "https://open.spotify.com/track/0EvEp9ERqjF3XW0mZb4rmj"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "A Turn of Breath - Extended",
         "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
       },
@@ -891,22 +891,6 @@
       "duration_ms": 192559,
       "name": "Before Meaning Comes",
       "url": "https://open.spotify.com/track/1T8YONUfkmHPqmUueSYq0V"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Balsams",
-        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
-      },
-      "artists": [
-        {
-          "name": "Chuck Johnson",
-          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
-        }
-      ],
-      "duration_ms": 435722,
-      "name": "Eye on the Sparrow",
-      "url": "https://open.spotify.com/track/6mqIbknCYcNRiVPoef1Wi5"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -927,6 +911,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Balsams",
+        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
+      },
+      "artists": [
+        {
+          "name": "Chuck Johnson",
+          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
+        }
+      ],
+      "duration_ms": 435722,
+      "name": "Eye on the Sparrow",
+      "url": "https://open.spotify.com/track/6mqIbknCYcNRiVPoef1Wi5"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Spells (Special Edition)",
         "url": "https://open.spotify.com/album/7Dc1cks2uIn5JQhMr0uTmR"
       },
@@ -939,6 +939,22 @@
       "duration_ms": 200160,
       "name": "Selene",
       "url": "https://open.spotify.com/track/5YDRS9iVUyN6RJjlbXNygt"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Atomos",
+        "url": "https://open.spotify.com/album/396TIKI6U7pnNprIM68Q6z"
+      },
+      "artists": [
+        {
+          "name": "A Winged Victory for the Sullen",
+          "url": "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
+        }
+      ],
+      "duration_ms": 469213,
+      "name": "Atomos VII",
+      "url": "https://open.spotify.com/track/2Ax0k7jE4DmGO1q1WJxhAO"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -959,22 +975,6 @@
       "duration_ms": 158992,
       "name": "You Mean More to Me Than Any Scientific Truth",
       "url": "https://open.spotify.com/track/0qZk8jOCXnHqeAN5sE1XDM"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Atomos",
-        "url": "https://open.spotify.com/album/396TIKI6U7pnNprIM68Q6z"
-      },
-      "artists": [
-        {
-          "name": "A Winged Victory for the Sullen",
-          "url": "https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1"
-        }
-      ],
-      "duration_ms": 469213,
-      "name": "Atomos VII",
-      "url": "https://open.spotify.com/track/2Ax0k7jE4DmGO1q1WJxhAO"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Balsams",
-        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
-      },
-      "artists": [
-        {
-          "name": "Chuck Johnson",
-          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
-        }
-      ],
-      "duration_ms": 544810,
-      "name": "Moonstone",
-      "url": "https://open.spotify.com/track/1qXiLizbVOC3PbDSqPIafD"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "The Magic Place",
         "url": "https://open.spotify.com/album/4JW1OsBRpDNF23lDFPaFQ7"
       },
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Balsams",
+        "url": "https://open.spotify.com/album/2rWkvguXepRyMmxIe8Brx3"
+      },
+      "artists": [
+        {
+          "name": "Chuck Johnson",
+          "url": "https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f"
+        }
+      ],
+      "duration_ms": 544810,
+      "name": "Moonstone",
+      "url": "https://open.spotify.com/track/1qXiLizbVOC3PbDSqPIafD"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "After its own death / Walking in a spiral towards the house",
         "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
       },
@@ -1115,22 +1115,6 @@
       "duration_ms": 517151,
       "name": "Walking in a spiral towards the house: Side C",
       "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Narkopop",
-        "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
-      },
-      "artists": [
-        {
-          "name": "GAS",
-          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
-        }
-      ],
-      "duration_ms": 249700,
-      "name": "Narkopop 4",
-      "url": "https://open.spotify.com/track/2tGpokv3FSp8boalBuLMF6"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1151,6 +1135,22 @@
       "duration_ms": 333267,
       "name": "Cin",
       "url": "https://open.spotify.com/track/1pfpIws99akZNCWuLnO79T"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Narkopop",
+        "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
+      },
+      "artists": [
+        {
+          "name": "GAS",
+          "url": "https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX"
+        }
+      ],
+      "duration_ms": 249700,
+      "name": "Narkopop 4",
+      "url": "https://open.spotify.com/track/2tGpokv3FSp8boalBuLMF6"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Nightmare Ending",
-        "url": "https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P"
+        "name": "Low Distance",
+        "url": "https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0"
       },
       "artists": [
         {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+          "name": "Deaf Center",
+          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
         }
       ],
-      "duration_ms": 429986,
-      "name": "Warm",
-      "url": "https://open.spotify.com/track/0IFWJo11X5L7ZkFeW43H65"
+      "duration_ms": 227458,
+      "name": "Faded Earth",
+      "url": "https://open.spotify.com/track/5d6YkxTsmw6isMtqsw8vzh"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Nightmare Ending",
+        "url": "https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 429986,
+      "name": "Warm",
+      "url": "https://open.spotify.com/track/0IFWJo11X5L7ZkFeW43H65"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "American Woman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7AH6mWK8xurDA3D16PJIn1"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 134382,
       "name": "Bridgets' Theme",
       "url": "https://open.spotify.com/track/6HGhLPXLTHFzf73j6skkys"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Low Distance",
-        "url": "https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0"
-      },
-      "artists": [
-        {
-          "name": "Deaf Center",
-          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
-        }
-      ],
-      "duration_ms": 227458,
-      "name": "Faded Earth",
-      "url": "https://open.spotify.com/track/5d6YkxTsmw6isMtqsw8vzh"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Breaks My Heart Each Time",
-        "url": "https://open.spotify.com/album/6AlfR4AlrcVfhK5iqRPgm3"
-      },
-      "artists": [
-        {
-          "name": "Leyland Kirby",
-          "url": "https://open.spotify.com/artist/2xr5chbaC1VNbzqOlCYgyC"
-        }
-      ],
-      "duration_ms": 558877,
-      "name": "Diminishing Emotion",
-      "url": "https://open.spotify.com/track/1XU6OAnMHZAAAZFK07bzOy"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Make Me Know You Sweet",
         "url": "https://open.spotify.com/album/4cq8lOA5PvprvOw8xpLEFI"
       },
@@ -1399,6 +1383,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Breaks My Heart Each Time",
+        "url": "https://open.spotify.com/album/6AlfR4AlrcVfhK5iqRPgm3"
+      },
+      "artists": [
+        {
+          "name": "Leyland Kirby",
+          "url": "https://open.spotify.com/artist/2xr5chbaC1VNbzqOlCYgyC"
+        }
+      ],
+      "duration_ms": 558877,
+      "name": "Diminishing Emotion",
+      "url": "https://open.spotify.com/track/1XU6OAnMHZAAAZFK07bzOy"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Bring Me The Head of Kyle Bobby Dunn",
         "url": "https://open.spotify.com/album/1Ovkskq7I0XH0ULWKh8fph"
       },
@@ -1411,6 +1411,22 @@
       "duration_ms": 489535,
       "name": "An Evening With Dusty",
       "url": "https://open.spotify.com/track/0TKO2jKgBCvPB5EIQ2kuvx"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Travels in Constants Volume 24",
+        "url": "https://open.spotify.com/album/5MoraJgA2tdIqILJ7yM3TA"
+      },
+      "artists": [
+        {
+          "name": "Adam Bryanbaum Wiltzie",
+          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "The Endless Battle of the Maudlin Ballade, Pt. 2",
+      "url": "https://open.spotify.com/track/7vVIKytsOPqqs7rlxTrSGR"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1447,38 +1463,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Travels in Constants Volume 24",
-        "url": "https://open.spotify.com/album/5MoraJgA2tdIqILJ7yM3TA"
-      },
-      "artists": [
-        {
-          "name": "Adam Bryanbaum Wiltzie",
-          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "The Endless Battle of the Maudlin Ballade, Pt. 2",
-      "url": "https://open.spotify.com/track/7vVIKytsOPqqs7rlxTrSGR"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Curious Things",
-        "url": "https://open.spotify.com/album/2Kq9ej2SCW6z0lt9Yyx8uF"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 328826,
-      "name": "Ogives / Redistributed",
-      "url": "https://open.spotify.com/track/1W7ZT84ehANv5CZNJ1GHY6"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Reassemblage",
         "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
       },
@@ -1495,18 +1479,38 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "It All Falls Apart",
-        "url": "https://open.spotify.com/album/72ulSF7sPtSsSelZ7nX9Bg"
+        "name": "Glider 10: Reworks",
+        "url": "https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF"
       },
       "artists": [
         {
           "name": "The Sight Below",
           "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
+        },
+        {
+          "name": "Leandro Fresco",
+          "url": "https://open.spotify.com/artist/0gJgTQEVl62dN80lQbOBK5"
         }
       ],
-      "duration_ms": 374186,
-      "name": "Shimmer",
-      "url": "https://open.spotify.com/track/21UX5D3VofmRHPcU2id5k9"
+      "duration_ms": 464874,
+      "name": "Without Motion - Leandro Fresco Remix",
+      "url": "https://open.spotify.com/track/4i2ihtWmnw8ixJePZEVuzY"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Curious Things",
+        "url": "https://open.spotify.com/album/2Kq9ej2SCW6z0lt9Yyx8uF"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 328826,
+      "name": "Ogives / Redistributed",
+      "url": "https://open.spotify.com/track/1W7ZT84ehANv5CZNJ1GHY6"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1591,6 +1595,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "It All Falls Apart",
+        "url": "https://open.spotify.com/album/72ulSF7sPtSsSelZ7nX9Bg"
+      },
+      "artists": [
+        {
+          "name": "The Sight Below",
+          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
+        }
+      ],
+      "duration_ms": 374186,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/21UX5D3VofmRHPcU2id5k9"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Vantaa",
         "url": "https://open.spotify.com/album/0BkzBQPjWNStV6pdt45inP"
       },
@@ -1603,26 +1623,6 @@
       "duration_ms": 490500,
       "name": "Luotasi",
       "url": "https://open.spotify.com/track/68Eikbn8ceLITopH0JDKqx"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Glider 10: Reworks",
-        "url": "https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF"
-      },
-      "artists": [
-        {
-          "name": "The Sight Below",
-          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
-        },
-        {
-          "name": "Leandro Fresco",
-          "url": "https://open.spotify.com/artist/0gJgTQEVl62dN80lQbOBK5"
-        }
-      ],
-      "duration_ms": 464874,
-      "name": "Without Motion - Leandro Fresco Remix",
-      "url": "https://open.spotify.com/track/4i2ihtWmnw8ixJePZEVuzY"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "A Turn of Breath - Extended",
-        "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
+        "name": "Sunlight of Oneness and Very Amazing Now",
+        "url": "https://open.spotify.com/album/5lNbnwuGwEeJ3MDtOVGU2v"
       },
       "artists": [
         {
-          "name": "Ian William Craig",
-          "url": "https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q"
+          "name": "Phillip Wilkerson",
+          "url": "https://open.spotify.com/artist/035KTZW5eXWeVHZvkCGHPp"
         }
       ],
-      "duration_ms": 450509,
-      "name": "Red Gate Drifting",
-      "url": "https://open.spotify.com/track/3qHpK90T5MYO5FMq3UD8Mq"
+      "duration_ms": 556007,
+      "name": "Sunlight of Oneness",
+      "url": "https://open.spotify.com/track/12XE6yM8VZhcNq3Qx5lIEI"
     }
   ],
   "unique_name": "Ambient 2010s",

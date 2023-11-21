@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: Kim Marie\(김마리\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,373 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,402 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [Not Sleep](https://open.spotify.com/track/2Kr4FPeUyD4nzaRt2UL4RD) | [moim](https://open.spotify.com/artist/1sr5uaXiCwEqIh26gTWBtP) | [BREAKTIME](https://open.spotify.com/album/4q2F1D3FdhWkVDKLhLBbiA) | 3:22 |
 | 100 | [Hiding In The Rain](https://open.spotify.com/track/1tQV5KDBx5B1lml1VEQJM7) | [Ujoo](https://open.spotify.com/artist/0MFHGyrlDnqNciBzA6OWNI) | [Hiding In The Rain](https://open.spotify.com/album/761CjITxn4JK9fqisInmgx) | 3:55 |
 
-Snapshot ID: `MCxmMGE0YTFkZTkyODcwNzExMTBiODY2MGU5MTRkZjQ0NWViYWI5ZjVj`
+Snapshot ID: `MCxiZTA5ZDFkYjFmYTliZTlkYTQ0NzYyZTEyMTdmMWM1ODhmODYxZDcw`

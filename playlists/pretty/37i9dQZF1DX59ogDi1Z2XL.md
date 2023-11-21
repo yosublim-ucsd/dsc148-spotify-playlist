@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,806 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,021 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Eyes On Me](https://open.spotify.com/track/4nNwfJM1DixAKRqnLFz0GS) | [Che](https://open.spotify.com/artist/3E5ZrCLCq0HP63QQHF6ttp) | [Eyes On Me](https://open.spotify.com/album/5eUasOW00sfNnxnOALm9Vo) | 2:58 |
 | 100 | [Just Like Me feat\. NAV](https://open.spotify.com/track/3NNHfUOA7t6VEZ8j1hqtmv) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Mumble Rap 2](https://open.spotify.com/album/5AESfqbUcud4cq4xkvmFAq) | 2:12 |
 
-Snapshot ID: `MCwwNWE0OWY3YTVkMjBmY2YzZmEyNDdlOWI1YTc1MDhiOTNmNzU1YTlm`
+Snapshot ID: `MCwxYTQwNjY2NjZlNzNlNjQxNzI2MjM4OTUxMmNkZGY3MzE1ZWY2MTZk`

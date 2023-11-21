@@ -1,12 +1,12 @@
 {
   "description": "Nominees \u2014 and past winners \u2014 from the 95th annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 264870,
+  "num_followers": 264850,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGZkNjBiMjM3ZDA3MDc3Yzc3NDc2ZmI2MTk0M2Q4ZDFmYzlmNGQ0",
+  "snapshot_id": "MCwxYWQzOTgzMTg1Zjk4NGY2OGZmNzc5M2U1NmM5NWNmMTYzYjJiMDMx",
   "tracks": [
     {
       "added_at": "2023-03-13 02:59:21",
@@ -183,26 +183,6 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bradley Cooper",
-          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
-        }
-      ],
-      "duration_ms": 215733,
-      "name": "Shallow",
-      "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
         "name": "Skyfall",
         "url": "https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 326466,
       "name": "Lose Yourself",
       "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bradley Cooper",
+          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
+        }
+      ],
+      "duration_ms": 215733,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
     },
     {
       "added_at": "2023-03-13 02:59:21",
@@ -623,6 +623,26 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
+        "name": "The Lion King",
+        "url": "https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Lebo M.",
+          "url": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "Under the Stars",
+      "url": "https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
         "name": "Titanic: Original Motion Picture Soundtrack - Collector's Anniversary Edition",
         "url": "https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs"
       },
@@ -675,26 +695,6 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
-        "name": "The Lion King",
-        "url": "https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd"
-      },
-      "artists": [
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        },
-        {
-          "name": "Lebo M.",
-          "url": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "Under the Stars",
-      "url": "https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
         "name": "Gravity (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw"
       },
@@ -731,26 +731,6 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
-        "name": "Black Panther (Original Score)",
-        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
-      },
-      "artists": [
-        {
-          "name": "Ludwig G\u00f6ransson",
-          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-        },
-        {
-          "name": "Baaba Maal",
-          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
-        }
-      ],
-      "duration_ms": 140125,
-      "name": "Wakanda",
-      "url": "https://open.spotify.com/track/2mjbf9ZvCoYqTi0RZ2FTUJ"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
         "name": "Fight For You (From the Original Motion Picture \"Judas and the Black Messiah\")",
         "url": "https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 270710,
       "name": "Fight For You - From the Original Motion Picture \"Judas and the Black Messiah\"",
       "url": "https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
+        "name": "Black Panther (Original Score)",
+        "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Baaba Maal",
+          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
+        }
+      ],
+      "duration_ms": 140125,
+      "name": "Wakanda",
+      "url": "https://open.spotify.com/track/2mjbf9ZvCoYqTi0RZ2FTUJ"
     },
     {
       "added_at": "2023-03-13 02:59:21",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
-        "name": "I'm Breathless",
-        "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Sooner or Later",
-      "url": "https://open.spotify.com/track/0QLuoNpyzXMcCLfVtFScE2"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
         "name": "West Side Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1kA4RO70idrEQkOX3zlRfa"
       },
@@ -935,22 +919,6 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
-        "name": "Greatest Hits: The Road Less Traveled",
-        "url": "https://open.spotify.com/album/4KkOtgBFxbOPBshZYEzt0P"
-      },
-      "artists": [
-        {
-          "name": "Melissa Etheridge",
-          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "I Need To Wake Up",
-      "url": "https://open.spotify.com/track/7mOfeDExZHCImmcmGYrv3T"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
         "name": "Little Women (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE"
       },
@@ -963,6 +931,38 @@
       "duration_ms": 198440,
       "name": "Father Comes Home",
       "url": "https://open.spotify.com/track/4BopLkm0TFvregWWVI1Qtl"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
+        "name": "I'm Breathless",
+        "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Sooner or Later",
+      "url": "https://open.spotify.com/track/0QLuoNpyzXMcCLfVtFScE2"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
+        "name": "Greatest Hits: The Road Less Traveled",
+        "url": "https://open.spotify.com/album/4KkOtgBFxbOPBshZYEzt0P"
+      },
+      "artists": [
+        {
+          "name": "Melissa Etheridge",
+          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "I Need To Wake Up",
+      "url": "https://open.spotify.com/track/7mOfeDExZHCImmcmGYrv3T"
     },
     {
       "added_at": "2023-03-13 02:59:21",

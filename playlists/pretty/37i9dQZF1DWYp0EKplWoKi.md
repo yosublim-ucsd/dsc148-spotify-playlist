@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 
 > La esquina donde la Música Mexicana se junta con los ritmos urbanos\. Sangre x Sangre, Dani Flow, Joe Parra en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,639 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,722 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 | 49 | [MIAMI EN MEDELLIN](https://open.spotify.com/track/39sJX8UOZ0ToyCDpzmfHMN) | [Cheo Gallego](https://open.spotify.com/artist/5VdG4Pm8hryqK7jAkdFlIo), [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [MIAMI EN MEDELLIN](https://open.spotify.com/album/3nGkdL9m2604ySrRJqkwlz) | 3:06 |
 | 50 | [Sin Palabras](https://open.spotify.com/track/5P48pMHfym2rShWDDgajsl) | [Free Stayla](https://open.spotify.com/artist/4VjVuN6ChJOzpF5Xj5fpgj) | [Sin Palabras](https://open.spotify.com/album/6b8yNoDPaus8SO77WwfN2Y) | 3:38 |
 
-Snapshot ID: `MCxjMzFlZDQwZTU5YWRhNzQyMDY2Yjg1ZmUwYmNiMzY1ZjQxMTIxZWMw`
+Snapshot ID: `MCxmMjFkNjI5NzZmNjc3MmFjYjNjNGQzMmFhMGZlODczOTAxZDYyMmFh`

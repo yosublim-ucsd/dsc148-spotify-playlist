@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: Four Year Strong
 
-1,073 songs - 2 day 8 hr 42 min
+1,074 songs - 2 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -619,6 +619,7 @@
 | [Momentary](https://open.spotify.com/track/6wQM6tOGdlQUFOPWO8CZEU) | [Ever Elsewhere](https://open.spotify.com/artist/7AiNXTV5q9I5veaBAQhxZu) | [Momentary](https://open.spotify.com/album/479Slb3YjNSfpJqbpuwobb) | 2:57 | 2022-02-04 | 2022-04-11 |
 | [Monarch](https://open.spotify.com/track/20fbAq3eJxlZpabqsrEabz) | [Carousel Kings](https://open.spotify.com/artist/2Dr2zHoPEuASW1kOODc5I2) | [Monarch](https://open.spotify.com/album/5BGfxvxAp431eDnTbPsFrt) | 3:35 | 2022-03-25 | 2022-04-21 |
 | [More Like A Crash](https://open.spotify.com/track/0kivfSdz7h9yFcEHQtXfl0) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [More Like A Crash](https://open.spotify.com/album/2DyMGVtYtOKtPtXovMEyf0) | 2:47 | 2023-05-12 | 2023-11-16 |
+| [More Like A Crash](https://open.spotify.com/track/7aw0W5ESpmUoRUWrNtSC2y) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [More Like A Crash](https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a) | 2:47 | 2023-11-10 |  |
 | [MOSH PIT](https://open.spotify.com/track/1fQlfeG7u0xzRVuzqUwtGA) | [MILES](https://open.spotify.com/artist/5QqCSh9Ri3B7Tw6HNQkPQH) | [MOSH PIT](https://open.spotify.com/album/5Sv5JHuSztH7ntDjnUSUqe) | 2:07 | 2021-12-10 | 2023-04-11 |
 | [Moving Boxes](https://open.spotify.com/track/7lSqt09mk5hlzVWLzYIuWI) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [Love and Loathing](https://open.spotify.com/album/07aGx2IErugtk4d7clL03j) | 3:15 | 2021-12-10 | 2022-05-20 |
 | [Mrs\. David](https://open.spotify.com/track/2IJRUYhzqMuev5Ugh8MD95) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Big Vibe](https://open.spotify.com/album/1nu7ULlwcBCvcTu9coYLC1) | 3:21 | 2021-12-10 | 2022-07-29 |
@@ -898,7 +899,7 @@
 | [TELL ME SOMETHING](https://open.spotify.com/track/14H0nxeKjs053w9hQo7XJk) | [trxvis](https://open.spotify.com/artist/1ytozhc77a6qMKUxWTpprm) | [TELL ME SOMETHING](https://open.spotify.com/album/173wMqOzorgtnFnseokb1W) | 2:45 | 2022-12-07 | 2023-04-11 |
 | [Tell Me You're Sorry](https://open.spotify.com/track/5NKcjYtLkYbh5nn1yMIG7H) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Tell Me You're Sorry](https://open.spotify.com/album/1uJm8Z3D7UDvcxYppBm08N) | 2:48 | 2022-02-11 |  |
 | [Temper](https://open.spotify.com/track/7LadUBljqx0uNKq9gOctUo) | [Hidden In Plain View](https://open.spotify.com/artist/5rXLC3lGmx2JjclFJYZud4) | [Temper](https://open.spotify.com/album/6DtVGqzADtenexnMDQ0Sso) | 2:27 | 2022-04-08 | 2022-07-29 |
-| [Thank You, New Jersey](https://open.spotify.com/track/3dl2M4CJENgzI6IG2dNxLL) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Thank You, New Jersey](https://open.spotify.com/album/197wjUARH2gam9EIaPnyfC) | 2:39 | 2023-04-23 |  |
+| [Thank You, New Jersey](https://open.spotify.com/track/3dl2M4CJENgzI6IG2dNxLL) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Thank You, New Jersey](https://open.spotify.com/album/197wjUARH2gam9EIaPnyfC) | 2:39 | 2023-04-23 | 2023-11-21 |
 | [Thanks, I Hate It](https://open.spotify.com/track/1DVPl37UU468V6RK8fMJPX) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Thanks, I Hate It](https://open.spotify.com/album/5maB3BSB7Lo0ykXq0ihbSR) | 2:57 | 2021-12-10 | 2022-05-20 |
 | [THAT ONE SONG](https://open.spotify.com/track/1f8JpHrCJpqYUyT4DSzz20) | [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [THAT ONE SONG](https://open.spotify.com/album/1W9zc0MZLktpJKsj27iKb7) | 3:02 | 2021-12-10 | 2022-07-29 |
 | [THAT SUCKS!](https://open.spotify.com/track/20Js2PFcXZKEdQdy7y97Jj) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 2:24 | 2023-06-09 | 2023-07-15 |

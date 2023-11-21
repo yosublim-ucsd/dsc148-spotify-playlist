@@ -4925,6 +4925,24 @@
     },
     {
       "album": {
+        "name": "Daily Routine",
+        "url": "https://open.spotify.com/album/2nrC6flLFnb4KFulBMM4VW"
+      },
+      "artists": [
+        {
+          "name": "Gale Moore",
+          "url": "https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125612,
+      "name": "Daily Routine",
+      "url": "https://open.spotify.com/track/3Cjph5SHBAwB3JTTFjAPci"
+    },
+    {
+      "album": {
         "name": "Daj spoko\u0301j",
         "url": "https://open.spotify.com/album/5QaOxxJw9QzOHgrWAnd8TK"
       },
@@ -6330,6 +6348,24 @@
       "duration_ms": 188500,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq"
+    },
+    {
+      "album": {
+        "name": "Elevation",
+        "url": "https://open.spotify.com/album/7gM5ChlcBV9dLSxm53qLJ4"
+      },
+      "artists": [
+        {
+          "name": "Celine Hayes",
+          "url": "https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200843,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/741SePkge5anOObH5JLG5r"
     },
     {
       "album": {
@@ -10186,7 +10222,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 150666,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/7Dlxj1vwhHVd6PeTWV50Gf"
@@ -17651,6 +17687,24 @@
     },
     {
       "album": {
+        "name": "Onirique",
+        "url": "https://open.spotify.com/album/4AmV0ApxmACCuyh5KZRbJG"
+      },
+      "artists": [
+        {
+          "name": "Mes Croquis",
+          "url": "https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155731,
+      "name": "Onirique",
+      "url": "https://open.spotify.com/track/0BzV38nap8TF9v1Z8aX4Qk"
+    },
+    {
+      "album": {
         "name": "Open",
         "url": "https://open.spotify.com/album/3cK7hIYmvz05ZZXeo5Lyrf"
       },
@@ -19790,6 +19844,24 @@
       "duration_ms": 111520,
       "name": "Regrets",
       "url": "https://open.spotify.com/track/7byC9Nt1R3HoO0Hyd37eQQ"
+    },
+    {
+      "album": {
+        "name": "Remain",
+        "url": "https://open.spotify.com/album/4QxhQ7l9PaQx3QqfSqI3Ho"
+      },
+      "artists": [
+        {
+          "name": "Carl Moir",
+          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125804,
+      "name": "Remain",
+      "url": "https://open.spotify.com/track/2UZFceHSxA4HUsPdOp5Vzr"
     },
     {
       "album": {
@@ -26604,6 +26676,24 @@
       "duration_ms": 158000,
       "name": "Unyielding Faith",
       "url": "https://open.spotify.com/track/4sOJSA5LPjdT1gfrcQL3sQ"
+    },
+    {
+      "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/5WmgcLlvxLBGF0exbEyv5h"
+      },
+      "artists": [
+        {
+          "name": "Jozef De Schutter",
+          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135013,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/6a04n0DK9frDlgWEQkl2S8"
     },
     {
       "album": {

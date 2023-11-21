@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Polaris on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,460,693 likes - 76 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,460,931 likes - 76 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 75 | [Last Word](https://open.spotify.com/track/4j1xC0CxFsrpx6s5SA0ZGG) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [STONE \(Deluxe\)](https://open.spotify.com/album/7mv4FQrLiyJWLDazVNZzTi) | 6:17 |
 | 76 | [Gaping Wounds of Earth](https://open.spotify.com/track/6olzwjMrNrHgrkQPZFpe4Y) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [The Sin of Human Frailty](https://open.spotify.com/album/6o6dgZpNASxsEcIbAGVJTq) | 2:43 |
 
-Snapshot ID: `MCxhMTdjYjNkOWVlNTRmM2UyOGFkNjUwNjM2NTVlMjE4ODYwMzkyNWE5`
+Snapshot ID: `MCwyMzNjYWU0MjIyNWMwOTljZGQzMDIxNzRlNjZkMjk2MTRmNjFmYmY4`

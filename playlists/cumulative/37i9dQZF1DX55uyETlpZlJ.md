@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-207 songs - 11 hr 16 min
+211 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,8 @@
 | [BANAVASI DESHADOL](https://open.spotify.com/track/2GiRSXId5mUMxcauOoiRn6) | [MC.Adz](https://open.spotify.com/artist/1TQRoRqV3OeH7SOg4VMD5h) | [BANAVASI DESHADOL](https://open.spotify.com/album/5dOoCl9a2Q9Z5WvXvb52oU) | 3:27 | 2023-02-20 | 2023-07-04 |
 | [Barede Na](https://open.spotify.com/track/1GiJHRuSGenOtOaTCD4qIJ) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Barede Na](https://open.spotify.com/album/7yhwdOnfpHsGSQfGiW2Bi6) | 3:30 | 2022-10-12 | 2023-08-10 |
 | [Beesuva Gaali \- SKODA Deccan Beats](https://open.spotify.com/track/231S8vl1A717qGgydnSiWR) | [Carlok](https://open.spotify.com/artist/6UofxciyC7eixN2leI5SKs), [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Madhura Balaji](https://open.spotify.com/artist/5pDwaaFFLmBgmoz9kSZCWk) | [Beesuva Gaali \(SKODA Deccan Beats\)](https://open.spotify.com/album/5AQS0VpeL4yjO3CvMJmvjf) | 2:28 | 2022-10-14 | 2023-06-21 |
+| [Bengaluru Kambala Theme Song](https://open.spotify.com/track/4d6yVH3lLLABq5evQ3P2LJ) | [Guru Kiran](https://open.spotify.com/artist/3xSxDireyobIryR5nIaHa0), [V\. Manohar](https://open.spotify.com/artist/2J5reHSIjjv6mtrbD9q1xN) | [Bengaluru Kambala Theme Song](https://open.spotify.com/album/1ScN9PVrjBoNYikbwRrSYc) | 2:25 | 2023-11-20 |  |
+| [Bere Tara](https://open.spotify.com/track/1CLxYQF70NuP76EYphQztG) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N), [Hithu Dwen](https://open.spotify.com/artist/6J6cHK9I4q6C54trkBmLqn) | [Bere Tara](https://open.spotify.com/album/5A3MVaOMPmTcfkidhK9Vu2) | 4:50 | 2023-11-20 |  |
 | [Bhavanegalu](https://open.spotify.com/track/51ygWHeQ3xGDwKRgt7NeJF) | [Keerthi](https://open.spotify.com/artist/512xjcN5DPYZ16JpJ1GcWt) | [Bhavanegalu](https://open.spotify.com/album/0iQUBcMP8WMLXI4Qw2FGu9) | 2:32 | 2023-01-13 | 2023-06-08 |
 | [BREAK](https://open.spotify.com/track/1hWHspRRb3R4NY3gl5Fgyj) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [BREAK](https://open.spotify.com/album/2Qe4fZTViRXEZ6f8gCLiog) | 3:04 | 2023-10-25 |  |
 | [Bucket](https://open.spotify.com/track/31VSLnPSt72KHWns93bvzX) | [Karibasava Tadakal](https://open.spotify.com/artist/2tXhjGmqVhR2vYQXfqi8Ro) | [Bucket](https://open.spotify.com/album/3Le6epBQsmsjeUH5XBWpv8) | 4:30 | 2023-08-24 |  |
@@ -165,10 +167,12 @@
 | [No Filter](https://open.spotify.com/track/6CnlSin1nGk5D1V4OzTq4m) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe) | [No Filter](https://open.spotify.com/album/4cD3N1DB3lvV7YIJabNq60) | 3:20 | 2022-12-09 |  |
 | [O Priya](https://open.spotify.com/track/0zM0oVvm8YBCdirTyPMAx2) | [Pushpa Aradhya](https://open.spotify.com/artist/2hmTOugi5cKw9On1y6QZ3i), [Ismail Attar](https://open.spotify.com/artist/6CZOkX5vC1aqmnwoYOaW31) | [O Priya](https://open.spotify.com/album/1nZighCTs9RhIBA5gGlxsK) | 5:08 | 2023-06-08 | 2023-09-01 |
 | [Obbane](https://open.spotify.com/track/4PgSjxPTZTopXOoUV5B6Hf) | [beatboyrb](https://open.spotify.com/artist/1ea9A9TK73zGQG0zEg7wpT) | [Obbane](https://open.spotify.com/album/6aO488rTrHix487YZHxF4W) | 4:07 | 2023-05-16 |  |
+| [Olave](https://open.spotify.com/track/5Be0E8MXsPkceRpnD9nV7n) | [Srivathsa K R](https://open.spotify.com/artist/01CJHgNeZTFlGq223sFeYE), [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Olave](https://open.spotify.com/album/38mNXjgN7bfNO6dvImUaKO) | 3:02 | 2023-11-20 |  |
 | [Olave Manasiga](https://open.spotify.com/track/3IACS9yiWikZUQRt4usjaQ) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [Raghav Aio](https://open.spotify.com/artist/6eP56zC6A37cj4kwL64QDO), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z) | [Olave Manasiga](https://open.spotify.com/album/0jHmdudtk8RXjuFGnVk2fX) | 4:10 | 2023-09-20 |  |
 | [Omme Nee Nanage](https://open.spotify.com/track/3E2XCnmVjZdpisYfHL1Ewf) | [Swaroop Ramesh](https://open.spotify.com/artist/6d0aG9002M0Y7me7eBWL0y), [Bats Creations](https://open.spotify.com/artist/2kRPjoyqvRX2t4J3WvDwHp) | [Omme Nee Nanage](https://open.spotify.com/album/5QnUKIJmZmwHT7gfqRIFSp) | 5:17 | 2023-07-24 |  |
 | [Pakshi](https://open.spotify.com/track/58Ph4B4HN833bvtQqguiBJ) | [Karlow](https://open.spotify.com/artist/18JUdO0CqLXXPs4WlqPpnx) | [Pakshi](https://open.spotify.com/album/3zHwN65sNNAvlgZBPWzCyc) | 2:57 | 2023-07-14 |  |
 | [Parashuram](https://open.spotify.com/track/65JEaKWJDwMNBbYMgftnTH) | [KALKITHENAME](https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk) | [Parashuram](https://open.spotify.com/album/4R8au1zsWEr8fr48s5ykmc) | 4:09 | 2023-11-14 |  |
+| [Pataki Cypher](https://open.spotify.com/track/69SWabKnBArDWmPZrHbBcg) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm), [Yaaru](https://open.spotify.com/artist/5uIPe6WLxAprhUHVBME3hx) | [Pataki Cypher](https://open.spotify.com/album/4jsMijzc4aWVi2Sjbbmct0) | 2:40 | 2023-11-20 |  |
 | [Preetiye](https://open.spotify.com/track/4aXgkyxFn7c0tMOHgUdhet) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U) | [Preetiye](https://open.spotify.com/album/3CvlEQEBS8oUKbAZUfWwEo) | 1:05 | 2023-08-23 |  |
 | [Prema Sagara](https://open.spotify.com/track/1HQ1ODNrcw6t1I7iIUZQ0p) | [Manikanta Naik Puttur](https://open.spotify.com/artist/2dLmrYEdVGzU8QITguTmDf) | [Prema Sagara](https://open.spotify.com/album/4UU73MuvQoCzYc4CdIGmwO) | 4:19 | 2023-05-25 | 2023-06-08 |
 | [Psych Boy](https://open.spotify.com/track/4zVzWfJ7fELjRrWxWvjHIF) | [X Paapi Psycho](https://open.spotify.com/artist/2xVVYDPi4Kb3pMrV47nrww), [Nandan V R](https://open.spotify.com/artist/7L27ObjW3EkD2VXQcPWL7a) | [Psych Boy](https://open.spotify.com/album/1KjvaQIdZq8YfChkgCGDx7) | 2:10 | 2023-05-26 |  |

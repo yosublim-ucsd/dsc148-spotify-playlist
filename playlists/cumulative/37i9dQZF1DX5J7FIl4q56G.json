@@ -95521,6 +95521,24 @@
     },
     {
       "album": {
+        "name": "THE ETERNAL DOOM",
+        "url": "https://open.spotify.com/album/35kPTUOLmfdvLb7IyrTInP"
+      },
+      "artists": [
+        {
+          "name": "Knosis",
+          "url": "https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180666,
+      "name": "\u5384\u707d",
+      "url": "https://open.spotify.com/track/0IAJ4414Gaan0R3Eq6dtBm"
+    },
+    {
+      "album": {
         "name": "A Small World",
         "url": "https://open.spotify.com/album/7BQuhg2J7Vjk2POH97A3Ft"
       },

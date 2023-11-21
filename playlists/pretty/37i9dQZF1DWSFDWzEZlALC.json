@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Edwin Rosen",
-  "num_followers": 402876,
+  "num_followers": 403039,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjc0NDYyZWQ0Y2FhMmM4MzBmZWQwYTExODRhNTA2ODBkYzU3YWU1",
+  "snapshot_id": "MCwzZTZkNzE3ZjRmZTAwNWEyMzZiNTZkOThjN2I0MWY0YzdhOWRiMGE4",
   "tracks": [
     {
       "added_at": "2023-11-16 23:00:00",
@@ -59,6 +59,26 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
+        "name": "immatrikuliert",
+        "url": "https://open.spotify.com/album/5YW9rJ154VueLdV3n7v0rW"
+      },
+      "artists": [
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        }
+      ],
+      "duration_ms": 144216,
+      "name": "immatrikuliert",
+      "url": "https://open.spotify.com/track/0IQN1UjYkpP8I36Z7HrNfC"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
         "name": "mama",
         "url": "https://open.spotify.com/album/0woCQIR6wZrT1AxnTUYdpz"
       },
@@ -71,22 +91,6 @@
       "duration_ms": 187933,
       "name": "mama",
       "url": "https://open.spotify.com/track/3KC5rxlfJZIb4VCSqqPEHu"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
-        "name": "Sommer Mit Dir",
-        "url": "https://open.spotify.com/album/0xkHpsxEoDhgHAoWUuoYyZ"
-      },
-      "artists": [
-        {
-          "name": "KAFFKIEZ",
-          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
-        }
-      ],
-      "duration_ms": 178369,
-      "name": "Sommer Mit Dir",
-      "url": "https://open.spotify.com/track/2s0OQYPKqcYxqPiKVpGxDX"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -107,6 +111,22 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
+        "name": "Sommer Mit Dir",
+        "url": "https://open.spotify.com/album/0xkHpsxEoDhgHAoWUuoYyZ"
+      },
+      "artists": [
+        {
+          "name": "KAFFKIEZ",
+          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
+        }
+      ],
+      "duration_ms": 178369,
+      "name": "Sommer Mit Dir",
+      "url": "https://open.spotify.com/track/2s0OQYPKqcYxqPiKVpGxDX"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
         "name": "Es zieht im Paradies",
         "url": "https://open.spotify.com/album/1gK7m86MSO7JTqmlO7DKvM"
       },
@@ -119,26 +139,6 @@
       "duration_ms": 185045,
       "name": "Es zieht im Paradies",
       "url": "https://open.spotify.com/track/72japCviuui2IqOffiZurS"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
-        "name": "immatrikuliert",
-        "url": "https://open.spotify.com/album/5YW9rJ154VueLdV3n7v0rW"
-      },
-      "artists": [
-        {
-          "name": "Kasi",
-          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
-        },
-        {
-          "name": "antonius",
-          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
-        }
-      ],
-      "duration_ms": 144216,
-      "name": "immatrikuliert",
-      "url": "https://open.spotify.com/track/0IQN1UjYkpP8I36Z7HrNfC"
     },
     {
       "added_at": "2023-11-16 23:00:00",

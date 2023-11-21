@@ -406,7 +406,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 113758,
       "name": "A New Path",
       "url": "https://open.spotify.com/track/6dG6b98wdolLoHdFaAusxR"
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 114000,
       "name": "Alivio",
       "url": "https://open.spotify.com/track/2oD7qIB9vDBnE3uBmEh91C"
@@ -2286,7 +2286,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 119234,
       "name": "Aquiver",
       "url": "https://open.spotify.com/track/3QaYNoyQzsOFfek0pTgqWi"
@@ -2506,7 +2506,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 115985,
       "name": "Ash of memory",
       "url": "https://open.spotify.com/track/6rb8PeoAVfIyAJ0EqQCgU2"
@@ -3244,7 +3244,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 113285,
       "name": "Before We Met",
       "url": "https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl"
@@ -4170,6 +4170,24 @@
       "duration_ms": 168366,
       "name": "Castor",
       "url": "https://open.spotify.com/track/7urR40aaLV1jRneNj2ykva"
+    },
+    {
+      "album": {
+        "name": "Cataverdis",
+        "url": "https://open.spotify.com/album/7tGqajhsfJf24VmrE96j9s"
+      },
+      "artists": [
+        {
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149629,
+      "name": "Cataverdis",
+      "url": "https://open.spotify.com/track/6Qqto6duuFLcAUvTEsacwS"
     },
     {
       "album": {
@@ -5844,7 +5862,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 117800,
       "name": "Delightful",
       "url": "https://open.spotify.com/track/6WRGJsfwcYjyOtzgpyizPV"
@@ -7072,7 +7090,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 118500,
       "name": "Estelle",
       "url": "https://open.spotify.com/track/2XPxkVgxyj4QVaW78kS5vb"
@@ -7270,7 +7288,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 112152,
       "name": "Evenings",
       "url": "https://open.spotify.com/track/6S1sG03j36YgxCtuZjgfI5"
@@ -11358,7 +11376,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 116718,
       "name": "Inside \u5185",
       "url": "https://open.spotify.com/track/1fFH5FN5xZx2WT2dBXm4qx"
@@ -14956,7 +14974,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 116206,
       "name": "Me Time",
       "url": "https://open.spotify.com/track/15ErabbOFwo4gEknWytsAG"
@@ -15752,7 +15770,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 115565,
       "name": "Moondust",
       "url": "https://open.spotify.com/track/3Kd4HLl20kMtG64MrdVJ86"
@@ -15860,7 +15878,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 115124,
       "name": "Morning Dance",
       "url": "https://open.spotify.com/track/73uDJDqIcF5QQWXZ19rH8z"
@@ -16548,7 +16566,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 114232,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/4p1twb8bM9ZmWE2msuH8E8"
@@ -17038,6 +17056,24 @@
       "duration_ms": 161889,
       "name": "Northern Ontario",
       "url": "https://open.spotify.com/track/5Ze2cIMQcXqJQ0QdhX5ZQ1"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0rPZ302N1AwjJGO6llGHnK"
+      },
+      "artists": [
+        {
+          "name": "Floyd Nova",
+          "url": "https://open.spotify.com/artist/4aPhtYq4FqnbM02GHtZHhz"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/391l8re8aew1rvyNOXUYDD"
     },
     {
       "album": {
@@ -17662,7 +17698,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 117892,
       "name": "Omoidasu",
       "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
@@ -17756,6 +17792,24 @@
       "duration_ms": 121124,
       "name": "Once when I was young",
       "url": "https://open.spotify.com/track/4FRPWTwl40uOHMslTL7fGa"
+    },
+    {
+      "album": {
+        "name": "One More Story",
+        "url": "https://open.spotify.com/album/19B1Y0X1FXBTAcaDfrfYwk"
+      },
+      "artists": [
+        {
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140625,
+      "name": "One More Story",
+      "url": "https://open.spotify.com/track/2WHFdQ2A9VylYJlsZ86izV"
     },
     {
       "album": {
@@ -20172,7 +20226,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 113986,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/6jkQJB7iKoYFZanJuXlnUf"
@@ -22766,7 +22820,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 117271,
       "name": "Solace",
       "url": "https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5"
@@ -25400,7 +25454,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 116220,
       "name": "The Longer I Wait",
       "url": "https://open.spotify.com/track/0XCTZX036IzhP1ea8CrDK3"
@@ -25778,7 +25832,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 111500,
       "name": "The stars are listening",
       "url": "https://open.spotify.com/track/4ZcUrMyRwkK3lH82VV6HbP"
@@ -26606,7 +26660,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 118624,
       "name": "Tranquillity waltz",
       "url": "https://open.spotify.com/track/4httQXCwO5j2i57mmJZvFL"
@@ -28734,7 +28788,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 112802,
       "name": "Whatever Will Be",
       "url": "https://open.spotify.com/track/6adM0QgyKfIaCnPos6OXX6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Digital Astro, Tony Boy, Artie 5ive
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,024 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,058 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [Ara Ighe](https://open.spotify.com/track/2isYZTJHQEmObe6gbE8MHA) | [Oliver Green](https://open.spotify.com/artist/7gW7vauTRIrz3rRV2UFzyK), [Raiworld](https://open.spotify.com/artist/6srBIS4AndIMpkpo8QQJrQ) | [Ara Ighe](https://open.spotify.com/album/7kUUj9GlCwhZ6s7nPKedHH) | 2:43 |
 | 50 | [Su di me](https://open.spotify.com/track/0Ut5lEss1YgPFRaRwOkUuu) | [ayo ally](https://open.spotify.com/artist/6Xa2PfSltPs34Bi5OP6nQR), [Rossella Essence](https://open.spotify.com/artist/5uw59dgrWXoss2sg9TC3HD) | [Su di me](https://open.spotify.com/album/3hXW8t8cPYQ4y73mjmZd1Y) | 2:09 |
 
-Snapshot ID: `MCw0ZGY1MDdmMWIzMzM0NDU4NWI2NWM0N2UwZjU1YWFiNmRmMzgxZDJk`
+Snapshot ID: `MCxiODBhYWQ1YTI2ZGE0ZDYzNTQ3NmI4YzU2MzM4N2ZhMTFlMzU1NGQw`

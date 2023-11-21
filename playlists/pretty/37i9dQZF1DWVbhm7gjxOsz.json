@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 47305,
+  "num_followers": 47486,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWRjMWNlNTA1NzNiM2U1NDlhYzRmY2UyYTFkOTE5MzQ0ZTcxOGZk",
+  "snapshot_id": "MCxmNTZlNDQ4YTBjNDBmZjhmZDc5MGM1YTQwZDI0ZTFmNTA3OWNjNmQy",
   "tracks": [
     {
       "added_at": "2023-08-29 23:44:25",
@@ -115,22 +115,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Please Mr. Postman",
-        "url": "https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V"
-      },
-      "artists": [
-        {
-          "name": "The Marvelettes",
-          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
-        }
-      ],
-      "duration_ms": 148040,
-      "name": "Please Mr. Postman - Single Version / Mono",
-      "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Pain in My Heart",
         "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
       },
@@ -147,18 +131,34 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Make Way for Dionne Warwick",
-        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+        "name": "Please Mr. Postman",
+        "url": "https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V"
       },
       "artists": [
         {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
         }
       ],
-      "duration_ms": 178333,
-      "name": "Walk on By",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
+      "duration_ms": 148040,
+      "name": "Please Mr. Postman - Single Version / Mono",
+      "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Gets Next to You",
+        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Tired of Being Alone",
+      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Gets Next to You",
-        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
       },
       "artists": [
         {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
         }
       ],
-      "duration_ms": 172320,
-      "name": "Tired of Being Alone",
-      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Sings Just One Look And Other Memorable Selections",
-        "url": "https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix"
+        "name": "Oogum Boogum",
+        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
       },
       "artists": [
         {
-          "name": "Doris Troy",
-          "url": "https://open.spotify.com/artist/3jiBDfjnWIdLQEEOdKqZex"
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
         }
       ],
-      "duration_ms": 151906,
-      "name": "Just One Look",
-      "url": "https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0"
+      "duration_ms": 163302,
+      "name": "I Like The Way You Love Me",
+      "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Oogum Boogum",
-        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
+        "name": "Sings Just One Look And Other Memorable Selections",
+        "url": "https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix"
       },
       "artists": [
         {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+          "name": "Doris Troy",
+          "url": "https://open.spotify.com/artist/3jiBDfjnWIdLQEEOdKqZex"
         }
       ],
-      "duration_ms": 163302,
-      "name": "I Like The Way You Love Me",
-      "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
+      "duration_ms": 151906,
+      "name": "Just One Look",
+      "url": "https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -643,6 +643,22 @@
       "duration_ms": 194226,
       "name": "Sitting In The Park",
       "url": "https://open.spotify.com/track/0Iwbts8iqaJJh2kPiXbtgV"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Baby You Got It",
+        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Me And You",
+      "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -691,22 +707,6 @@
       "duration_ms": 192133,
       "name": "You've Really Got A Hold On Me - Alternate Stereo Mix",
       "url": "https://open.spotify.com/track/7ifcJ5DDytGf8aITxmgsLN"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
-        "name": "Baby You Got It",
-        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Me And You",
-      "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
+        "name": "Baby You Got It",
+        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 128546,
+      "name": "Baby You Got It",
+      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
         "name": "The Duke Of Earl",
         "url": "https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl"
       },
@@ -839,38 +855,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Hello Stranger",
-        "url": "https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw"
-      },
-      "artists": [
-        {
-          "name": "Barbara Lewis",
-          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
-        }
-      ],
-      "duration_ms": 166960,
-      "name": "Hello Stranger",
-      "url": "https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
-        "name": "Baby You Got It",
-        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 128546,
-      "name": "Baby You Got It",
-      "url": "https://open.spotify.com/track/7hphy8rtxpYshs3UzDZTzN"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Too Hot to Handle (Expanded Edition)",
         "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 178986,
       "name": "I'm Your Puppet",
       "url": "https://open.spotify.com/track/5z71EfouOWMI4HHZHEjnkr"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Hello Stranger",
+        "url": "https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw"
+      },
+      "artists": [
+        {
+          "name": "Barbara Lewis",
+          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
+        }
+      ],
+      "duration_ms": 166960,
+      "name": "Hello Stranger",
+      "url": "https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
+        "name": "Baby, I'm Yours",
+        "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
+      },
+      "artists": [
+        {
+          "name": "Barbara Lewis",
+          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
+        }
+      ],
+      "duration_ms": 148706,
+      "name": "Baby, I'm Yours",
+      "url": "https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
         "name": "The One Who Really Loves You",
         "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
       },
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Baby, I'm Yours",
-        "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
+        "name": "Mr. Brown Eyed Soul",
+        "url": "https://open.spotify.com/album/35922ds56CsxFFO1qeCB64"
       },
       "artists": [
         {
-          "name": "Barbara Lewis",
-          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
+          "name": "Sunny & The Sunliners",
+          "url": "https://open.spotify.com/artist/7vsHbcgOIbaeMqv3GvvHdO"
         }
       ],
-      "duration_ms": 148706,
-      "name": "Baby, I'm Yours",
-      "url": "https://open.spotify.com/track/6ldnKaF2UYpOtmpOAOwlQe"
+      "duration_ms": 119553,
+      "name": "Smile Now, Cry Later",
+      "url": "https://open.spotify.com/track/6eMI5ns9sAaJanSTL3WU4R"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1207,22 +1223,6 @@
       "duration_ms": 159973,
       "name": "Slow Walk",
       "url": "https://open.spotify.com/track/6FwjZsd1WrdXH4Vy4yTNyg"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
-        "name": "Mr. Brown Eyed Soul",
-        "url": "https://open.spotify.com/album/35922ds56CsxFFO1qeCB64"
-      },
-      "artists": [
-        {
-          "name": "Sunny & The Sunliners",
-          "url": "https://open.spotify.com/artist/7vsHbcgOIbaeMqv3GvvHdO"
-        }
-      ],
-      "duration_ms": 119553,
-      "name": "Smile Now, Cry Later",
-      "url": "https://open.spotify.com/track/6eMI5ns9sAaJanSTL3WU4R"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Will You Still Love Me Tomorrow",
-        "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
-      },
-      "artists": [
-        {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Baby It's You",
-      "url": "https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Searching For My Love",
         "url": "https://open.spotify.com/album/7lpZkRX58TVPOyRbCFiRjV"
       },
@@ -1563,6 +1547,22 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
+        "name": "Will You Still Love Me Tomorrow",
+        "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Baby It's You",
+      "url": "https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
         "name": "Meet The Temptations",
         "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
       },
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Oh, How It Hurts",
-        "url": "https://open.spotify.com/album/2HMnjrMXy316BBoe5u8tDh"
-      },
-      "artists": [
-        {
-          "name": "Barbara Mason",
-          "url": "https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ"
-        }
-      ],
-      "duration_ms": 179733,
-      "name": "Oh, How It Hurts",
-      "url": "https://open.spotify.com/track/67x5PxH6RZAW7FXdVpXGKo"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Bump City",
         "url": "https://open.spotify.com/album/4LXDYSJXbPftFYawbEMMLI"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 337040,
       "name": "You're Still a Young Man",
       "url": "https://open.spotify.com/track/0LDauNxnqI5nsyCa2Xsc5W"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Oh, How It Hurts",
+        "url": "https://open.spotify.com/album/2HMnjrMXy316BBoe5u8tDh"
+      },
+      "artists": [
+        {
+          "name": "Barbara Mason",
+          "url": "https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ"
+        }
+      ],
+      "duration_ms": 179733,
+      "name": "Oh, How It Hurts",
+      "url": "https://open.spotify.com/track/67x5PxH6RZAW7FXdVpXGKo"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "I'm On The Outside (Looking In)",
-        "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
-      },
-      "artists": [
-        {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
-        }
-      ],
-      "duration_ms": 192066,
-      "name": "I'm On The Outside (Looking In)",
-      "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Show and Tell: The Best of Al Wilson",
         "url": "https://open.spotify.com/album/63NKHtOychyEccShIws1KA"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 207986,
       "name": "Show and Tell",
       "url": "https://open.spotify.com/track/2vhW1OmaZDYi63Da9d8R5o"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "I'm On The Outside (Looking In)",
+        "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
+      },
+      "artists": [
+        {
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "I'm On The Outside (Looking In)",
+      "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
+        "name": "The Best Of The Manhattans: Kiss And Say Goodbye",
+        "url": "https://open.spotify.com/album/4shPsyHdXeoYwJeqt10Ttq"
+      },
+      "artists": [
+        {
+          "name": "The Manhattans",
+          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
+        }
+      ],
+      "duration_ms": 279400,
+      "name": "Shining Star",
+      "url": "https://open.spotify.com/track/4VO88hvgij1NzgmGpV1MPV"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
         "name": "Ilusi\u00f3n De Amor",
         "url": "https://open.spotify.com/album/5mnltZObN42BuoEMtv4QUa"
       },
@@ -1807,22 +1823,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "The Best Of The Manhattans: Kiss And Say Goodbye",
-        "url": "https://open.spotify.com/album/4shPsyHdXeoYwJeqt10Ttq"
-      },
-      "artists": [
-        {
-          "name": "The Manhattans",
-          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
-        }
-      ],
-      "duration_ms": 279400,
-      "name": "Shining Star",
-      "url": "https://open.spotify.com/track/4VO88hvgij1NzgmGpV1MPV"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Dry Your Eyes",
         "url": "https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG"
       },
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Somebody Please (Stereo Mix 2019)",
-        "url": "https://open.spotify.com/album/1RMHlSB5c8XFd6NIoi6fK6"
-      },
-      "artists": [
-        {
-          "name": "The Vanguards",
-          "url": "https://open.spotify.com/artist/1Cxiw1j8YapEOhSmJWteHW"
-        }
-      ],
-      "duration_ms": 231825,
-      "name": "Somebody Please (Stereo Mix 2019)",
-      "url": "https://open.spotify.com/track/1U9MVMWI6hACLhgXI9JoFE"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "The Essential Deniece Williams (The Columbia Years)",
         "url": "https://open.spotify.com/album/25qqog5H79rZqzrAn93OJv"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 250813,
       "name": "It's Gonna Take a Miracle",
       "url": "https://open.spotify.com/track/498ExGFcwgi7zF7qHOUD2x"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Somebody Please (Stereo Mix 2019)",
+        "url": "https://open.spotify.com/album/1RMHlSB5c8XFd6NIoi6fK6"
+      },
+      "artists": [
+        {
+          "name": "The Vanguards",
+          "url": "https://open.spotify.com/artist/1Cxiw1j8YapEOhSmJWteHW"
+        }
+      ],
+      "duration_ms": 231825,
+      "name": "Somebody Please (Stereo Mix 2019)",
+      "url": "https://open.spotify.com/track/1U9MVMWI6hACLhgXI9JoFE"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Number Ones",
-        "url": "https://open.spotify.com/album/4jATpIchd56XOWEHVsd8ky"
-      },
-      "artists": [
-        {
-          "name": "Love Unlimited",
-          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "I Belong To You",
-      "url": "https://open.spotify.com/track/2hEEvYikDJKfwQVXGj8mTK"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Greatest Slow Jams",
         "url": "https://open.spotify.com/album/0zMWHOjYyuv41k1Aw7Logw"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 198946,
       "name": "The Town I Live In",
       "url": "https://open.spotify.com/track/4vGzFH1JVhQTkTCidx2pnE"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Number Ones",
+        "url": "https://open.spotify.com/album/4jATpIchd56XOWEHVsd8ky"
+      },
+      "artists": [
+        {
+          "name": "Love Unlimited",
+          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "I Belong To You",
+      "url": "https://open.spotify.com/track/2hEEvYikDJKfwQVXGj8mTK"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -2043,6 +2043,38 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
+        "name": "Blue Eyes Crying In the Rain",
+        "url": "https://open.spotify.com/album/2F0Y7afprAxthyuz1LFxoC"
+      },
+      "artists": [
+        {
+          "name": "Little Caesar & the Romans",
+          "url": "https://open.spotify.com/artist/4jUkLFuoU0EMZbcP84QhsX"
+        }
+      ],
+      "duration_ms": 179480,
+      "name": "Those Oldies But Goodies Remind Me Of You",
+      "url": "https://open.spotify.com/track/6o3R69ldWuqUIQzSHKlu2I"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Salsoul",
+        "url": "https://open.spotify.com/album/3UKJxuwhcy1poGhxdMNvIP"
+      },
+      "artists": [
+        {
+          "name": "Joe Bataan",
+          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
+        }
+      ],
+      "duration_ms": 268939,
+      "name": "Mujer Mia (2022 - Remaster)",
+      "url": "https://open.spotify.com/track/7Lzr8bmMFrUFLYsalwDN3v"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
         "name": "The Specialty Story",
         "url": "https://open.spotify.com/album/0CRWmTIjmMumhwYI6BO4Nh"
       },
@@ -2059,22 +2091,6 @@
       "duration_ms": 165133,
       "name": "Nite Owl (A.K.A. Night Owl)",
       "url": "https://open.spotify.com/track/2nvQcGTDCJpqAt22M4zqrO"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
-        "name": "Blue Eyes Crying In the Rain",
-        "url": "https://open.spotify.com/album/2F0Y7afprAxthyuz1LFxoC"
-      },
-      "artists": [
-        {
-          "name": "Little Caesar & the Romans",
-          "url": "https://open.spotify.com/artist/4jUkLFuoU0EMZbcP84QhsX"
-        }
-      ],
-      "duration_ms": 179480,
-      "name": "Those Oldies But Goodies Remind Me Of You",
-      "url": "https://open.spotify.com/track/6o3R69ldWuqUIQzSHKlu2I"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -2143,22 +2159,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Salsoul",
-        "url": "https://open.spotify.com/album/3UKJxuwhcy1poGhxdMNvIP"
-      },
-      "artists": [
-        {
-          "name": "Joe Bataan",
-          "url": "https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU"
-        }
-      ],
-      "duration_ms": 268939,
-      "name": "Mujer Mia (2022 - Remaster)",
-      "url": "https://open.spotify.com/track/7Lzr8bmMFrUFLYsalwDN3v"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Let's Fall In Love",
         "url": "https://open.spotify.com/album/49nlhVLzVXtBFUyeQt67NU"
       },
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "The Chicano Alliance",
-        "url": "https://open.spotify.com/album/26vF6HjaflI30q1EXqsfC1"
-      },
-      "artists": [
-        {
-          "name": "Rosie & The Originals",
-          "url": "https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf"
-        }
-      ],
-      "duration_ms": 214935,
-      "name": "Angel Baby (Spanglish)",
-      "url": "https://open.spotify.com/track/6H81RwUg1lNqJr7jI1KAHi"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Grow Forever b/w Now It\u2019s Your Turn To Sing",
         "url": "https://open.spotify.com/album/1T6sOXNigseNAd33KdLGXL"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 193620,
       "name": "Grow Forever",
       "url": "https://open.spotify.com/track/7lMJlw5lkmFXHjlH6KP5tt"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "The Chicano Alliance",
+        "url": "https://open.spotify.com/album/26vF6HjaflI30q1EXqsfC1"
+      },
+      "artists": [
+        {
+          "name": "Rosie & The Originals",
+          "url": "https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf"
+        }
+      ],
+      "duration_ms": 214935,
+      "name": "Angel Baby (Spanglish)",
+      "url": "https://open.spotify.com/track/6H81RwUg1lNqJr7jI1KAHi"
     },
     {
       "added_at": "2023-08-29 23:44:25",

@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Snelle
 
-3,929 songs - 8 day 14 hr 26 min
+3,930 songs - 8 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,7 +456,7 @@
 | [Blinds](https://open.spotify.com/track/53mjXvZqGOSvrQ4B8qVYXH) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Honeycomb Shades](https://open.spotify.com/album/7omXNhCNZQn5DFs0kSjoY9) | 3:17 | 2023-02-24 | 2023-03-03 |
 | [Blindside](https://open.spotify.com/track/5BPy4CFuroB7vFbZ6M9vES) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Blindside](https://open.spotify.com/album/1RvvpYObiXki55iPrP8EVQ) | 3:31 | 2023-08-03 | 2023-08-11 |
 | [Bloed In Mijn Bloed](https://open.spotify.com/track/5UuvuYtxL6z5h5g02XTcs3) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [Bloed In Mijn Bloed](https://open.spotify.com/album/6imc4krabQCDfV7AcOvoth) | 3:58 | 2023-05-04 | 2023-05-12 |
-| [Blood Moon](https://open.spotify.com/track/5daxO5cHO6SzW2lJyZxy0o) | [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Blood Moon](https://open.spotify.com/album/74CWNx6lQ1QAwEt5vpw7p7) | 4:11 | 2023-11-16 |  |
+| [Blood Moon](https://open.spotify.com/track/5daxO5cHO6SzW2lJyZxy0o) | [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Blood Moon](https://open.spotify.com/album/74CWNx6lQ1QAwEt5vpw7p7) | 2:59 | 2023-11-16 |  |
 | [Bloodshot](https://open.spotify.com/track/0eyaXlEiQOmUyQo0PC0PpT) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Bloodshot](https://open.spotify.com/album/2ZGm33efqRup92vVIxh1kw) | 3:24 | 2023-03-09 | 2023-03-18 |
 | [BLOOM](https://open.spotify.com/track/4UvH9dyjiUBnvC8yb18wik) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [BLOOM](https://open.spotify.com/album/15WtmLc4a8HGxHMsLPpHaN) | 3:26 | 2023-06-15 | 2023-06-23 |
 | [Blue](https://open.spotify.com/track/2HeDQrgYa1R4GnrafYKAQJ) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [Blue](https://open.spotify.com/album/1Lyz1X6RH1AeazHdcwId6n) | 4:00 | 2023-06-01 | 2023-06-09 |
@@ -604,7 +604,7 @@
 | [Caroline](https://open.spotify.com/track/1GdITFFlxMEYAvW9zacIIg) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Caroline](https://open.spotify.com/album/00oJBmsYNe1Y9JQw3ft0nl) | 3:43 | 2023-07-06 | 2023-07-14 |
 | [Carry Me Higher \- 7 Inch Version](https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Carry Me Higher](https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348) | 4:30 | 2023-11-16 |  |
 | [Carry On](https://open.spotify.com/track/0YCu1SbdGcQsQyiGeKy6a2) | [Daniel Nolet](https://open.spotify.com/artist/33SYIABzuD0eDKr1jaQGfR) | [Carry On](https://open.spotify.com/album/1O57JeCrE4uiejETQjM9rP) | 2:34 | 2023-04-13 | 2023-04-21 |
-| [Carte Blanche](https://open.spotify.com/track/6gYpnGlag7CVkVT2Ri5bf9) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Carte Blanche](https://open.spotify.com/album/0LAjgUMlMcbTQ5dz9wx6EW) | 3:34 | 2023-11-16 |  |
+| [Carte Blanche](https://open.spotify.com/track/6gYpnGlag7CVkVT2Ri5bf9) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Carte Blanche](https://open.spotify.com/album/0LAjgUMlMcbTQ5dz9wx6EW) | 3:18 | 2023-11-16 |  |
 | [Casanova](https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Casanova](https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA) | 3:09 | 2023-07-06 | 2023-07-14 |
 | [Cash In The Bag](https://open.spotify.com/track/3I05hF7RWlU4I4jK2Wbo4T) | [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Cash In The Bag](https://open.spotify.com/album/1BENRdSOPvKeGkP1gDqeMa) | 3:10 | 2023-09-07 | 2023-09-15 |
 | [Cast a Shadow](https://open.spotify.com/track/5oFvMMRMBH75xyAIKguCiG) | [Pale Puma](https://open.spotify.com/artist/79bbqMgV2GjDdD6fA7pOBe) | [Haunted by Dreams That Were Never My Own](https://open.spotify.com/album/1o0dZl0dzrvTaTZeufxDFr) | 3:51 | 2023-09-07 | 2023-09-15 |
@@ -708,7 +708,8 @@
 | [Could it be Love?](https://open.spotify.com/track/2W8MemGNK0K5oeroC3pnIi) | [Loren Nine](https://open.spotify.com/artist/5VbFVkVPJOoT0emDWoTaVO) | [Could it be Love?](https://open.spotify.com/album/5ksPMGBBwGwgWYTQjalDaJ) | 2:34 | 2023-09-28 | 2023-10-06 |
 | [Couldn’t Make It Up](https://open.spotify.com/track/7s59X5LAdm9G2HUV7k62DS) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Couldn't Make It Up](https://open.spotify.com/album/7x4nXw3hbF9h5GORc16WSV) | 3:55 | 2023-04-20 | 2023-04-28 |
 | [Council Skies](https://open.spotify.com/track/1KDR3iKY185DjEREnzYhgU) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/0LEsy6Ncwa96urueYAB8ud) | 4:42 | 2023-04-20 | 2023-04-28 |
-| [Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/1R0KvMBXz6qzjAEIS57Sz8) | 3:24 | 2023-11-16 |  |
+| [Cover Up My Face](https://open.spotify.com/track/0t4N3qUMwdnDZNumcVxPRu) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/4vj7dl0foafvI0OOVmB4s2) | 3:24 | 2023-11-17 |  |
+| [Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/1R0KvMBXz6qzjAEIS57Sz8) | 3:24 | 2023-11-16 | 2023-11-21 |
 | [Cowboys And Angels](https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Cowboys And Angels](https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H) | 2:13 | 2023-05-25 | 2023-06-02 |
 | [Crazy](https://open.spotify.com/track/1KxO3MDB1mNUm4AHvxeRPF) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Crazy](https://open.spotify.com/album/2IUqvXtUJG23ozaIffSr28) | 3:15 | 2023-08-17 | 2023-08-25 |
 | [Crazy \(DuDuDu\)](https://open.spotify.com/track/3vPku6d0AIu3U2b4HOcKjd) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [KAEDI](https://open.spotify.com/artist/0HNQ9Df6RUMiQHIq7KxLf1) | [Crazy \(DuDuDu\)](https://open.spotify.com/album/4lUDOpOQpworctVvTKS0Vn) | 3:24 | 2023-10-20 | 2023-10-27 |

@@ -7204,7 +7204,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 157506,
       "name": "Elska",
       "url": "https://open.spotify.com/track/3u3uS54VRFbCJThLdTZN8k"
@@ -11320,7 +11320,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 235597,
       "name": "Higher",
       "url": "https://open.spotify.com/track/10BSvFgbWA1KsJaLZJInyq"
@@ -11632,7 +11632,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 119786,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
@@ -16378,7 +16378,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -18008,7 +18008,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 149812,
       "name": "Move On",
       "url": "https://open.spotify.com/track/6InuzAjrU4VqGAasClZxaT"
@@ -18662,6 +18662,24 @@
     {
       "album": {
         "name": "Next Life",
+        "url": "https://open.spotify.com/album/70teaDdq23f5FjFOwYHWHx"
+      },
+      "artists": [
+        {
+          "name": "Allison Kane",
+          "url": "https://open.spotify.com/artist/6KkENPByjrP4uotBGIXK2k"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160909,
+      "name": "Next Life",
+      "url": "https://open.spotify.com/track/3m8HUpuhERBoKnCRMbUcr7"
+    },
+    {
+      "album": {
+        "name": "Next Life",
         "url": "https://open.spotify.com/album/1d36oEelW4Rnk4Ied1QxhU"
       },
       "artists": [
@@ -19252,7 +19270,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-20",
+      "date_removed": null,
       "duration_ms": 182090,
       "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
       "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
@@ -20054,7 +20072,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 356576,
       "name": "Over",
       "url": "https://open.spotify.com/track/50MQNenAEkztyzMrBE78s7"
@@ -21164,7 +21182,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 173402,
       "name": "prettyboitjokko",
       "url": "https://open.spotify.com/track/0DQMOUDb0DKv13raO9L6Sg"
@@ -24316,7 +24334,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 125341,
       "name": "Sn\u00e6finnur snj\u00f3karl",
       "url": "https://open.spotify.com/track/0VIiCofkLOS1DRxkmlLT8J"
@@ -25230,7 +25248,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
@@ -30732,7 +30750,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-30",
+      "date_removed": null,
       "duration_ms": 243853,
       "name": "\u00c9g hlakka svo til",
       "url": "https://open.spotify.com/track/7AVc0FQzRUopEBdSxzpeSQ"
@@ -31618,7 +31636,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-20",
+      "date_removed": null,
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
@@ -31698,7 +31716,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 234960,
       "name": "\u00de\u00fa komst me\u00f0 j\u00f3lin til m\u00edn",
       "url": "https://open.spotify.com/track/4VTQl8TUosCskPMqTg6thG"

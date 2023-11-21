@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-691 songs - 1 day 23 hr 28 min
+692 songs - 1 day 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Jóhannsson: A Sparrow Alighted upon our Shoulder](https://open.spotify.com/track/43BDNPWzxY17HpyufviqNQ) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Air Lyndhurst String Orchestra](https://open.spotify.com/artist/72UK8pq1vewvVNs0mGCoH8), [Anthony Weeden](https://open.spotify.com/artist/3Sn9qNHNBzGuMW3b4V6o98) | [Elegy for Lost Time](https://open.spotify.com/album/2tqvdLokbQJQsNtB9R9grn) | 2:26 | 2023-08-09 | 2023-09-28 |
 | [Karaoke](https://open.spotify.com/track/4WCPrvhloByVBtR0A9hqoo) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Karaoke](https://open.spotify.com/album/4Wl09axz0nWF0XwdZn4TYJ) | 3:41 | 2022-07-27 | 2022-09-15 |
 | [Keep It Secret](https://open.spotify.com/track/23regeg5c1f5dOzRuhJHwN) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Keep It Secret](https://open.spotify.com/album/0SF5P1JiRL5U6s14B73BDM) | 2:48 | 2023-05-31 | 2023-07-13 |
+| [Keeping Secrets Will Destroy You](https://open.spotify.com/track/7n28tz5VRBlNpS4N7wTQwf) | [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [Keeping Secrets Will Destroy You](https://open.spotify.com/album/5KhQ3aMiWJ3l6Te4oYw5E4) | 6:00 | 2023-11-20 |  |
 | [Key To The City](https://open.spotify.com/track/3QAT8Y88JqW2nZWFYots94) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Key To The City](https://open.spotify.com/album/1iv4L6ZunwwdI1wbvdYH4L) | 3:40 | 2022-09-06 | 2022-10-21 |
 | [Kind Ghosts](https://open.spotify.com/track/5dstiVRqqlNFifoIIhz4ET) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE) | [Bird Machine](https://open.spotify.com/album/7DUDIoIEw2yGKi1wcLjRuy) | 2:52 | 2023-09-13 | 2023-11-02 |
 | [King of the Slugs](https://open.spotify.com/track/059rVLt0il9OJVc93OQDQs) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [King of the Slugs](https://open.spotify.com/album/0dQAxLkosumV0aFGumrdUJ) | 7:05 | 2023-08-21 | 2023-10-26 |

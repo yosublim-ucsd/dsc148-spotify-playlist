@@ -162,7 +162,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 281379,
       "name": "All Night",
       "url": "https://open.spotify.com/track/6D0sSoC203d1T7ojLff5vs"
@@ -740,7 +740,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 204364,
       "name": "Do It Like Me",
       "url": "https://open.spotify.com/track/0X0owov4FrtP6JpK1rMuTZ"
@@ -1618,6 +1618,28 @@
       "duration_ms": 224921,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/2Qg7JVKS3s3XZN3E5td1C2"
+    },
+    {
+      "album": {
+        "name": "Life Of The Party",
+        "url": "https://open.spotify.com/album/3dSI7I49Isxr3gFt4V7rHz"
+      },
+      "artists": [
+        {
+          "name": "General Levy",
+          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
+        },
+        {
+          "name": "DJ Rap",
+          "url": "https://open.spotify.com/artist/68AFCxLSHARThf2XIYwY46"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279566,
+      "name": "Life Of The Party",
+      "url": "https://open.spotify.com/track/0dYD2Z4SHcYdefhgSWfKmJ"
     },
     {
       "album": {
@@ -2508,7 +2530,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 225245,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/0qY6AV4ZegboqiIskNlozZ"

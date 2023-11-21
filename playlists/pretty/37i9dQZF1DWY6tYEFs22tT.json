@@ -1,12 +1,12 @@
 {
   "description": "Today's Hip-Hop with 2 Chainz, Lil Wayne, Drake and Jack Harlow!",
-  "num_followers": 824721,
+  "num_followers": 824836,
   "original_name": "Hip-Hop Central",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmE1ZDhiMTk0YWZhOGY3ODVhNGM3Y2JkMTkwZThhOTBhYjA0OGVk",
+  "snapshot_id": "MCw1OTFlYTViNGMxZWE2ZTFjMGQ2N2ZhODEyZjY1Mjg4NmM5YmZiODk3",
   "tracks": [
     {
       "added_at": "2023-11-17 05:01:00",
@@ -123,6 +123,30 @@
       "duration_ms": 142968,
       "name": "WE SEE YOU",
       "url": "https://open.spotify.com/track/58UHOOryzm04eyyhpS8qSQ"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Cold (feat. B.G. & Mike WiLL Made-It)",
+        "url": "https://open.spotify.com/album/30n2gaTkEAk04fqVGusVNh"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "B.G.",
+          "url": "https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        }
+      ],
+      "duration_ms": 155200,
+      "name": "Cold (feat. B.G. & Mike WiLL Made-It)",
+      "url": "https://open.spotify.com/track/4PKh6tJP16etcy2eKyMODe"
     },
     {
       "added_at": "2023-11-17 05:01:00",

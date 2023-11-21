@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,937 likes - 102 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,132 likes - 102 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 | 101 | [Hallelujah](https://open.spotify.com/track/4Cf29FCJVbDU9szjtXQjoK) | [Anna Engh](https://open.spotify.com/artist/5jKDOWw2w1xzj7M0wg4A9i) | [Hallelujah](https://open.spotify.com/album/4pilz2Q1kExS7zeL2AVN9a) | 3:16 |
 | 102 | [Christmas Was Here \- Acoustic](https://open.spotify.com/track/4gwD6CSw69CzAKS3h9E95K) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Christmas Was Here \(Acoustic\)](https://open.spotify.com/album/7oqCUVREr1pAvBMqvqzQZi) | 3:34 |
 
-Snapshot ID: `MCw1YWU3MTVkMDk0ZjU0Y2EyODI3YmYyNDU3OTU1OWZiODI3NTdiMTZm`
+Snapshot ID: `MCwxYzExYTgxOTQ5MTQwOWFjYTJmOWUzNDBkZjdhYWRhYzBjMWY4Mjcz`

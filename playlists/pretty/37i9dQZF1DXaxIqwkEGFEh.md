@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Meek Mill & Rick Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,767 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191,913 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 51 | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy) | 3:50 |
 | 52 | [Ain't Bout Nun](https://open.spotify.com/track/5XpJVTP6RT5jmI0Z5akW8f) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Ain't Bout Nun](https://open.spotify.com/album/3n5oKqDoFPPUGI9RgfFYrF) | 1:52 |
 | 53 | [Like Mike](https://open.spotify.com/track/7uBWaQMKg4skAzMJX8Xzhe) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ), [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe) | [Like Mike](https://open.spotify.com/album/0CBJYm5M9gTylUsb2OeMYC) | 3:01 |
-| 54 | [Going Up](https://open.spotify.com/track/5SJEFqTjCHh1I8a3e4bpe8) | [TJ Porter](https://open.spotify.com/artist/3z3xPw2NyqrZgITJS0Xvs4), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Going Up](https://open.spotify.com/album/4KFnAEwJiIIB5WS6b5mAEi) | 1:57 |
+| 54 | [Going Up](https://open.spotify.com/track/5SJEFqTjCHh1I8a3e4bpe8) | [TJ Porter](https://open.spotify.com/artist/3z3xPw2NyqrZgITJS0Xvs4), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [EliWTF](https://open.spotify.com/artist/2mD9arUCF7DL6O9ITxyyBN) | [Going Up](https://open.spotify.com/album/4KFnAEwJiIIB5WS6b5mAEi) | 1:57 |
 | 55 | [First Day Out](https://open.spotify.com/track/11gBdPjQUxn7zcDhHIDcRV) | [Ralo](https://open.spotify.com/artist/6Z99p0M73gzZSHQ1FlonCi) | [First Day Out](https://open.spotify.com/album/5XzTP7choYl1jUIo11NjGr) | 3:08 |
 | 56 | [Grizzley 2Tymes \(feat\. Finesse2Tymes\)](https://open.spotify.com/track/5RknKQS8uPXks3pCETEUKY) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Grizzley 2Tymes \(feat\. Finesse2Tymes\)](https://open.spotify.com/album/18xz1i3XiHFJolH6VNqYQ3) | 2:46 |
 | 57 | [WHAT'S HATNIN](https://open.spotify.com/track/2i160IyYwq8s3dwZHZNtnk) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM) | [WHAT'S HATNIN](https://open.spotify.com/album/3W30Vrsnl4ZD9wPpBEXnF0) | 2:24 |

@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the Twinkling Watermelon\. \(반짝이는 워터멜론의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-64 songs - 3 hr 43 min
+65 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Love Of My Life](https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 | 2023-10-06 |  |
 | [Loveless Night](https://open.spotify.com/track/3D51P7X8MO6G6YaynJsprB) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/1uPd7ZyJe84CbFHoNco4ne) | 4:17 | 2023-10-25 |  |
 | [Loveless Night \- Instrumental](https://open.spotify.com/track/5iCmFZXRguqfltPzDxlsBY) | [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/1uPd7ZyJe84CbFHoNco4ne) | 4:18 | 2023-10-25 |  |
-| [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-10-06 |  |
+| [Memories](https://open.spotify.com/track/11s5p72subU7SHJPzyR2Lq) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/2oPFVwB8gXNDjVGA9wDmMT) | 2:58 | 2023-11-14 |  |
+| [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-10-06 | 2023-11-21 |
 | [My Song](https://open.spotify.com/track/428XOGB2hGO7eBdWZG5c8x) | [5moon](https://open.spotify.com/artist/4akR4qv87vt6Fuqe0OuPc6) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/6cH55kGXjEjFw4VkOFkQ5w) | 4:06 | 2023-11-02 |  |
 | [My Song \- Instrumental](https://open.spotify.com/track/0ZftClO2NLnc3aUTSqwutB) | [5moon](https://open.spotify.com/artist/4akR4qv87vt6Fuqe0OuPc6) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/6cH55kGXjEjFw4VkOFkQ5w) | 4:06 | 2023-11-02 |  |
 | [MY WAY](https://open.spotify.com/track/6w4QiIpOwtNKDMQBXBkBCS) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [STILL ON MY WAY](https://open.spotify.com/album/6aR92xjZNT47PxQDhQb4wC) | 3:27 | 2023-10-06 |  |

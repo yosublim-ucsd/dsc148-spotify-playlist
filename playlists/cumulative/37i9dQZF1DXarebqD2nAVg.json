@@ -241,6 +241,24 @@
     },
     {
       "album": {
+        "name": "Burnt Coffee",
+        "url": "https://open.spotify.com/album/7JLxezcgbxK6owUxAtJnsA"
+      },
+      "artists": [
+        {
+          "name": "AAGAPE",
+          "url": "https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Burnt Coffee",
+      "url": "https://open.spotify.com/track/754aGQqZJaznJc5fc2lTbG"
+    },
+    {
+      "album": {
         "name": "Prelude to the Dawn",
         "url": "https://open.spotify.com/album/4swK4A1568ZddoKFzTIW8Z"
       },
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2019-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 116428,
       "name": "memories of u",
       "url": "https://open.spotify.com/track/64VWsh5helyoWopibmzXmf"

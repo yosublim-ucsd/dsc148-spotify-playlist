@@ -4,7 +4,7 @@
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Juliana
 
-213 songs - 11 hr 10 min
+214 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,8 @@
 | [Máquina del Tiempo](https://open.spotify.com/track/7rGpG81sWMUcxkyJwvmlAq) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Máquina del Tiempo](https://open.spotify.com/album/7oXFKwMbYhY6K8P6Skp3hM) | 2:33 | 2023-09-15 |  |
 | [MÁS ALLÁ](https://open.spotify.com/track/7oI4eP3pgPMuHOaf9OG2f0) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [POP ANDINO](https://open.spotify.com/album/1cQIL3GmWmjxqgTzER9FQh) | 3:21 | 2023-05-19 | 2023-07-22 |
 | [Más Tuyo](https://open.spotify.com/track/1u8sU7DnjQdm35QlLHzH3u) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Más Tuyo](https://open.spotify.com/album/1IFMubOxiwRWCKRzumj1i6) | 2:59 | 2023-03-17 | 2023-04-29 |
-| [Nada igual](https://open.spotify.com/track/0f6YHD5KAWTJvuVZYZXQJL) | [Christian Meier](https://open.spotify.com/artist/3OgfCHk8YwaZ7NjQHbL4f3) | [He vuelto a casa](https://open.spotify.com/album/5xCuw694nRXodTPQsHICcM) | 5:08 | 2023-11-10 |  |
+| [Nada igual](https://open.spotify.com/track/0f6YHD5KAWTJvuVZYZXQJL) | [Christian Meier](https://open.spotify.com/artist/3OgfCHk8YwaZ7NjQHbL4f3) | [He vuelto a casa](https://open.spotify.com/album/5xCuw694nRXodTPQsHICcM) | 5:08 | 2023-11-10 | 2023-11-21 |
+| [Nada Igual](https://open.spotify.com/track/60YobeMFdejmNpZmhog1Bi) | [Christian Meier](https://open.spotify.com/artist/3OgfCHk8YwaZ7NjQHbL4f3) | [He Vuelto a Casa](https://open.spotify.com/album/0h0m1KcrZqTVQNkXP7XDLm) | 5:08 | 2023-11-10 |  |
 | [Nadie Me Vuelve A Joder](https://open.spotify.com/track/4ysIQ2AalFEvYMBN7XgtDv) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Nadie Me Vuelve A Joder](https://open.spotify.com/album/5K1qmDGAxNiXSHFYK1DWHr) | 2:41 | 2023-03-24 | 2023-07-22 |
 | [Netflix & Chill](https://open.spotify.com/track/0KPDkJ5UfDsGKw7gsieU54) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Netflix & Chill](https://open.spotify.com/album/6ifGExbAC6E7OlfRiwMx7U) | 2:44 | 2023-03-17 | 2023-05-06 |
 | [No Creo En Mujeres](https://open.spotify.com/track/1khZCgEjEDU5O3SvFXhvAw) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [The Classics, Vol\. 1](https://open.spotify.com/album/7Fk8BYKoCrlqVHAyYY7yfP) | 3:33 | 2023-10-27 | 2023-11-11 |

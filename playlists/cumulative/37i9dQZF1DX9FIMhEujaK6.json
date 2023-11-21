@@ -280,7 +280,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 336885,
       "name": "Burnt Orange",
       "url": "https://open.spotify.com/track/2Ot2c0TFAg0ENgAiDfh3IO"
@@ -2722,7 +2722,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 231666,
       "name": "Thus Far",
       "url": "https://open.spotify.com/track/3ADOUoMcmbT07M8mbx5PFN"
@@ -2856,7 +2856,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 253658,
       "name": "Tropics",
       "url": "https://open.spotify.com/track/3IdhASHMhVCn756JlheIoj"
@@ -2914,6 +2914,28 @@
       "duration_ms": 298064,
       "name": "Umbrella Sellers",
       "url": "https://open.spotify.com/track/5isutLrwjcSsYMSbnLl3QY"
+    },
+    {
+      "album": {
+        "name": "Under The Surface",
+        "url": "https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324590,
+      "name": "Under The Surface",
+      "url": "https://open.spotify.com/track/6u3h5vhjyNTkGziCxwJ3o1"
     },
     {
       "album": {

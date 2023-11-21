@@ -4,7 +4,7 @@
 
 > This week's best new metal & hard rock tracks\. Cover: Imminence
 
-5,110 songs - 14 day 10 hr 38 min
+5,111 songs - 14 day 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5108,6 +5108,7 @@
 | [Мечты хрустальные](https://open.spotify.com/track/3YEjRPi1h35AxA6bvzPhFD) | [Wildways](https://open.spotify.com/artist/5iftm9Sk7OBBnVqa7DbICi) | [Мечты хрустальные](https://open.spotify.com/album/7Fa9FjbCjXjzRDCu1OmlNr) | 3:58 | 2022-03-24 | 2022-04-01 |
 | [Неизбежность зла](https://open.spotify.com/track/4GW13HAn09foPM757a0A9l) | [ТАйМСКВЕР](https://open.spotify.com/artist/1vIjllcPLmjCWsxkXpl6RM) | [Неизбежность зла](https://open.spotify.com/album/1XSitFZ5L2pbHhsGMGGKTz) | 3:37 | 2022-03-24 | 2022-04-01 |
 | [пісня про ще один день](https://open.spotify.com/track/09A61ToPIVqh9MJRgf8XcW) | [хейтспіч](https://open.spotify.com/artist/2sdWfIbu9rLQ0p7MULuhxC) | [Золоті Пісні 2023](https://open.spotify.com/album/3NaOzbQs7XNg1OhQijckzs) | 3:18 | 2023-08-18 | 2023-08-26 |
+| [厄災](https://open.spotify.com/track/0IAJ4414Gaan0R3Eq6dtBm) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [THE ETERNAL DOOM](https://open.spotify.com/album/35kPTUOLmfdvLb7IyrTInP) | 3:00 | 2023-11-20 |  |
 | [暗い部屋の黒い猫 \(Black cats in the dark room\)](https://open.spotify.com/track/5RP0Bofv0TvcsdDyfjzY2N) | [JURASSIC JADE](https://open.spotify.com/artist/7ajuXopV2sXzN3lQYBujpV) | [A Small World](https://open.spotify.com/album/7BQuhg2J7Vjk2POH97A3Ft) | 4:18 | 2023-02-24 | 2023-04-01 |
 | [殺戮ロボット\~SATSURIKU ROBOT\~](https://open.spotify.com/track/5nVAcKQMBdfFuF7pXKHZLJ) | [殺戮ロボット](https://open.spotify.com/artist/6ZUvcVBd5S99sIRXdDtLfJ) | [FIRST CONTACT](https://open.spotify.com/album/2EwEqHwwuws8sopjJx9fUP) | 4:18 | 2023-03-10 | 2023-03-18 |
 | [炎天 \-ENTEN\-](https://open.spotify.com/track/0LTPuykMpwSPxOf4xkU2Wa) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [Seize the Fate](https://open.spotify.com/album/3RFRbkMadcRuCVW0Wd86aE) | 3:48 | 2022-12-16 | 2022-12-24 |

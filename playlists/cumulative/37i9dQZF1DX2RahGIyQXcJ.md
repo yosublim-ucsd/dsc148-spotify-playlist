@@ -4,7 +4,7 @@
 
 > Best of hip\-hop tracks from South Asia\. Cover:  Shubh
 
-209 songs - 12 hr 9 min
+210 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,8 @@
 | [Wild](https://open.spotify.com/track/6XmAglg07ZW7SZ9CcMOqNJ) | [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Wild](https://open.spotify.com/album/4NN9H6kBgIgOfNgvo0I6gv) | 4:05 | 2022-10-10 | 2022-12-01 |
 | [Yaara Tu](https://open.spotify.com/track/3n9lOyiGpCRdlE0FgKnnl9) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP), [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Arrival](https://open.spotify.com/album/656ie0ZaD1avko2b4WpwOD) | 3:26 | 2022-11-30 | 2023-01-13 |
 | [Yaara Tu](https://open.spotify.com/track/4EDJQR7mhUeSMGgmHvZTqV) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP), [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Yaara Tu](https://open.spotify.com/album/6ti72F8nhkUeSOI0pS2ZJK) | 3:26 | 2021-12-03 | 2022-07-19 |
-| [Yadav Brand 2](https://open.spotify.com/track/4JvziZ2kQsbzfvRQtpYfmJ) | [Sunny Yaduvanshi](https://open.spotify.com/artist/07XZWWsqwn2QshmfoYzKIU), [AK Rok](https://open.spotify.com/artist/3npIyKDl6aWfQPCIEU8RjY), [Nitesh Ujoli](https://open.spotify.com/artist/2k4fHTIWakuc1WSIV0owMZ) | [Yadav Brand 2](https://open.spotify.com/album/3pRiXGIvpgNrMQmK6AgJ3c) | 2:54 | 2023-11-17 |  |
+| [Yadav Brand 2](https://open.spotify.com/track/1AMD2AkfGrKoKhwkvYLbza) | [Sunny Yaduvanshi](https://open.spotify.com/artist/07XZWWsqwn2QshmfoYzKIU), [AK Rok](https://open.spotify.com/artist/3npIyKDl6aWfQPCIEU8RjY), [Nitesh Ujoli](https://open.spotify.com/artist/2k4fHTIWakuc1WSIV0owMZ) | [Yadav Brand 2](https://open.spotify.com/album/7ee5PlfgmGyU70CdxftTV2) | 2:54 | 2023-11-17 |  |
+| [Yadav Brand 2](https://open.spotify.com/track/4JvziZ2kQsbzfvRQtpYfmJ) | [Sunny Yaduvanshi](https://open.spotify.com/artist/07XZWWsqwn2QshmfoYzKIU), [AK Rok](https://open.spotify.com/artist/3npIyKDl6aWfQPCIEU8RjY), [Nitesh Ujoli](https://open.spotify.com/artist/2k4fHTIWakuc1WSIV0owMZ) | [Yadav Brand 2](https://open.spotify.com/album/3pRiXGIvpgNrMQmK6AgJ3c) | 2:54 | 2023-11-17 | 2023-11-21 |
 | [Ye Dunya](https://open.spotify.com/track/3CLlelB1UWvrGYCyvdAA4B) | [Karakoram](https://open.spotify.com/artist/7iUydu6DUbUBsDDwheSlkr), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Ye Dunya](https://open.spotify.com/album/0y1QkPyIPPq7UcZ63QNCol) | 5:12 | 2022-02-24 | 2022-04-08 |
 | [Zehar](https://open.spotify.com/track/1os96jMs5ZjemTlC1aiR3f) | [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc), [Nabeel Akbar](https://open.spotify.com/artist/7jMFYa22assapoqtlqAiXe) | [Zehar](https://open.spotify.com/album/2l7uC5Xse9XQdM7aamrRXR) | 5:05 | 2022-10-10 | 2022-12-01 |
 

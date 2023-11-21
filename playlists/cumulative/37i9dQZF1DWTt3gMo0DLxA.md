@@ -4,7 +4,7 @@
 
 > Trending songs from Tollywood! <br/>Cover \- MAD
 
-130 songs - 8 hr 24 min
+131 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Ninnu Road Meedha](https://open.spotify.com/track/1nCkqULdG7UeDga1C3Z6rN) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR), [Mounima C.H.](https://open.spotify.com/artist/5dmqGDhUAhpE8WGKqsxdAd) | [Savyasachi](https://open.spotify.com/album/4WnpWGva1S7TbAdaCHW9r3) | 3:39 | 2021-09-24 | 2023-08-31 |
 | [Nunugu Misalodu](https://open.spotify.com/track/7a7badaPkBz9NWMWnPTwN5) | [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Sunitha](https://open.spotify.com/artist/74S8YRi4XQ5yf9ToSzuY80) | [Yamadonga \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2AJ2NAaGiFfA9vt4rzWD6N) | 5:02 | 2023-08-30 | 2023-09-26 |
 | [Nuvve Nuvve \(From "Red"\)](https://open.spotify.com/track/7Ft65MCYElRCDo7jOekQFs) | [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss) | [Nuvve Nuvve \(From "Red"\)](https://open.spotify.com/album/33bGNKG4SqamfmuenEbtcn) | 4:13 | 2021-09-24 | 2023-08-31 |
+| [Nuvvu Navvukuntu](https://open.spotify.com/track/00LSCsH99cW8zsr82ibMHM) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Bhasakarabhatla](https://open.spotify.com/artist/5BSnq8EugWeuGR6acegjqN) | [MAD](https://open.spotify.com/album/070z9uG6XuIOI49AgwCnCy) | 3:24 | 2023-11-20 |  |
 | [O Rendu Prema Meghaalila \(First Love Song\) \[From "Baby"\]](https://open.spotify.com/track/0umUo9XJTkjc7dB9w8xK2U) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB) | [O Rendu Prema Meghaalila \(First Love Song\) \[From "Baby"\]](https://open.spotify.com/album/41kHCtyyqx2V4cJx4qlDDT) | 5:14 | 2023-08-30 |  |
 | [Ordinary Person \(From "Leo"\)](https://open.spotify.com/track/6FahmzZYKH0zb2f9hrVsvw) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Ordinary Person \(From "Leo"\)](https://open.spotify.com/album/0qOjC3f9sN8JWr1SOz7m9Z) | 2:19 | 2023-11-06 |  |
 | [Oy..Oy..](https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:42 | 2023-08-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover:  <a href="https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd?si=UrXjvT\_oRZSddORHGc3mdw"> Yaw Tog</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,262 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,284 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 69 | [Hosanna](https://open.spotify.com/track/1UcrPc3sarXiVaoYelfLbU) | [Banzy Banero](https://open.spotify.com/artist/5VjCTOxVwGAA7Blx7jv5WN) | [Hosanna](https://open.spotify.com/album/2ue26FOfSdSpiV47IOknYk) | 2:54 |
 | 70 | [Pa! \(feat\. Thywill & City Boy\)](https://open.spotify.com/track/3ikS8sT02F9Tiyi8S1AwmI) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Thywill](https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Straight Outta Kumerica 2](https://open.spotify.com/album/6C628yJ57EmOF3m06i0dQv) | 2:33 |
 
-Snapshot ID: `MCw1ZjI4Y2RiMjJkYWE0NDQ0YjkyYWRlYTY2M2RiNjQ5NTkxYzlmM2Iy`
+Snapshot ID: `MCw3Zjk3OWY0M2U5YjNlMDU5OWM2YWNkNGZhOWQ2Mjk3MzA2N2FmMjUw`

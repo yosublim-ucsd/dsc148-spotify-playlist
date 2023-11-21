@@ -4,7 +4,7 @@
 
 > All the best in new and classic Christmas Pop! Cover: Ariana Grande
 
-245 songs - 13 hr 32 min
+247 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Perfect Holiday](https://open.spotify.com/track/7uurWnQa19yid3vd4rslmc) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Perfect Holiday](https://open.spotify.com/album/3BvrInE7zjaCeJHke6V00J) | 3:13 | 2021-12-24 | 2022-10-23 |
 | [Please Come Home for Christmas](https://open.spotify.com/track/2wkAdxI86skFLB5GuFazzL) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Please Come Home for Christmas](https://open.spotify.com/album/2KuLH6xDWAUpRXr7JqxTd9) | 2:57 | 2021-12-24 | 2022-10-26 |
 | [Please Come Home For Christmas](https://open.spotify.com/track/3cZRpCsi78sk2u4XW0vosp) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [Please Come Home For Christmas](https://open.spotify.com/album/08IMJctnRCU6sW75YKjbpw) | 3:17 | 2021-12-24 |  |
+| [Please Santa Please](https://open.spotify.com/track/398egUWDwedHWTPQmlel9E) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Greatest Christmas Hits](https://open.spotify.com/album/4tRcSRjaE98LsBVOm6cSJT) | 3:17 | 2023-11-20 |  |
 | [Ring Out The Bells](https://open.spotify.com/track/03qftRowv8aPZnNZbILxUR) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Ring Out The Bells](https://open.spotify.com/album/0YieGjIrwXOYgt4IBDTGbn) | 3:59 | 2022-11-11 | 2023-10-28 |
 | [Ring Out The Bells](https://open.spotify.com/track/51ENvfID6cZE2i08sqy7as) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Not So Silent Night \(The Cozy Edition\)](https://open.spotify.com/album/1EcCxcRK4DX7ol3JrvxKOs) | 3:59 | 2023-11-17 |  |
 | [River](https://open.spotify.com/track/0Nzivfp90nH1WCPAMm7PV4) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [High School Musical: The Musical: The Holiday Special \(Original Soundtrack\)](https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj) | 3:22 | 2023-11-06 |  |
@@ -250,6 +251,7 @@
 | [With You This Christmas](https://open.spotify.com/track/7EGqwboQMKQhBw4z49rBLI) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [With You This Christmas](https://open.spotify.com/album/4D01j7X8gG9sywRqytoHcn) | 2:26 | 2021-12-24 | 2022-11-12 |
 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 | 2021-12-24 |  |
 | [Wonderful Christmastime \- Remastered 2011 / Edited Version](https://open.spotify.com/track/4gavOCQdZ2g86gkvi17FM7) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/7G2kEoHNNWxq6j8okgMvCr) | 3:47 | 2021-12-24 | 2022-07-29 |
+| [Wrap Me Up](https://open.spotify.com/track/1tGlu4k3SPA1kHVSpDSo3u) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Wrap Me Up](https://open.spotify.com/album/0M6OuM3H038lJkpl5EMzik) | 2:28 | 2023-11-20 |  |
 | [You Deserve It All](https://open.spotify.com/track/2ZAEbbKPNf1Wv1fifB2nyd) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [You Deserve It All](https://open.spotify.com/album/5Ak2W28qw9158kDPOwQJFd) | 3:18 | 2021-12-24 |  |
 | [You Make It Feel Like Christmas \(with Blake Shelton\)](https://open.spotify.com/track/3SjaE7SExrVnRZi45KXT3O) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [You Make It Feel Like Christmas \(Deluxe Edition \- 2020\)](https://open.spotify.com/album/0xXKtxOYqLBTjcefyh8Oz8) | 2:36 | 2021-12-24 |  |
 | [You’re A Mean One, Mr\. Grinch](https://open.spotify.com/track/6TXAjof8V0Gr4zFoY00zHR) | [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Warmer In The Winter \(Deluxe Edition\)](https://open.spotify.com/album/7wfjL0ZBEycLvXzJmHF45g) | 2:46 | 2022-12-07 |  |

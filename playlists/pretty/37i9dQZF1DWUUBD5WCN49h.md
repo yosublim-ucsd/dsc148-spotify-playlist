@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM?si=YWI3GWJkSYy2VxygARVybQ"> Y'akoto </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,112 likes - 90 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,128 likes - 90 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 89 | [For You](https://open.spotify.com/track/7kwvdtVviGrOFVnxYvxgWa) | [Elevated](https://open.spotify.com/artist/5CrY5YQGk93PB7K1nNcM0q) | [For You](https://open.spotify.com/album/4VnRF5HOae0tK7It1e8AeE) | 2:48 |
 | 90 | [Wildin'](https://open.spotify.com/track/5laEZ8aZUdmjqw41FwvNHa) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Asali \(Sweeter\)](https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R) | 3:01 |
 
-Snapshot ID: `MCw4OGM4YmEwZWVmZjRhYjdiODliMmUxNzEwMWVhMDY0ZWFkMDE4ZTJk`
+Snapshot ID: `MCwzNzk0YjVkNWE1ZGUyMjg5NWFhMmRlNGM3ZjY1NGI1NTBlYWRlNzY3`

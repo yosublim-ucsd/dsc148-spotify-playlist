@@ -4,7 +4,7 @@
 
 > Het beste van Pinkpop en een greep uit de line\-up van 2023
 
-550 songs - 1 day 13 hr 8 min
+551 songs - 1 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Blue](https://open.spotify.com/track/62GWjyFCvpuysYTIQ7B0CG) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Tomorrow The Green Grass \(Legacy Edition\)](https://open.spotify.com/album/5ExzKfP1rQL45Wy9awxAUx) | 3:09 | 2019-03-11 | 2023-05-31 |
 | [Body And Soul?](https://open.spotify.com/track/1KbNgewni1zU25NvDIfWBo) | [Thelonious Monster](https://open.spotify.com/artist/79wfwGHz2ByenSDM0VaB70) | [Beautiful Mess](https://open.spotify.com/album/70NhJckf0Sjh37ZBG1Hvr2) | 3:39 | 2019-03-11 | 2023-05-31 |
 | [Bohemian Like You](https://open.spotify.com/track/0yEhNqCwEfy8LHUmnZoHpP) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Thirteen Tales From Urban Bohemia](https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4) | 3:31 | 2019-03-11 | 2023-09-07 |
+| [Bohemian Like You](https://open.spotify.com/track/3APHT3KjbHi9OllkVQsuXF) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Thirteen Tales From Urban Bohemia](https://open.spotify.com/album/3RFenjlpdmIfkYATMdkbak) | 3:31 | 2023-06-14 |  |
 | [Born Slippy \(Nuxx\) \- Radio Edit](https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Born Slippy \(Nuxx\) \[Radio Edit\]](https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd) | 4:24 | 2019-03-11 | 2023-05-31 |
 | [Born Slippy \(Nuxx\) \- Radio Edit](https://open.spotify.com/track/7kZgIvKhFV57Xo5JGcSLmY) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Sports Anthems](https://open.spotify.com/album/6w0aYme7Q5ewujE59yTSLX) | 4:24 | 2019-03-11 | 2023-05-11 |
 | [Boyfriend \(Repeat\)](https://open.spotify.com/track/0iYPKdzOG6zpIE8oYiFVqY) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Confident Music for Confident People](https://open.spotify.com/album/6cFtbFopkNavSUIxxqkLAl) | 4:09 | 2019-03-13 | 2023-05-31 |
@@ -365,7 +366,7 @@
 | [Palomine](https://open.spotify.com/track/2C1iEgkI01gC6kFw1W19Vd) | [Bettie Serveert](https://open.spotify.com/artist/0ZY9xX3ninRS8dDz82nRQS) | [Palomine \(30th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6gvtfxqV6zQw1Tg7zodY5i) | 4:09 | 2019-03-11 | 2023-05-31 |
 | [Papaoutai](https://open.spotify.com/track/1QFw2xxyQtgKjlrMCEqsNj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Racine Carrée \(Standard US Version\)](https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj) | 3:52 | 2019-03-12 | 2023-05-31 |
 | [Papillon](https://open.spotify.com/track/7hYiX6LMP8w8d0kEc4KWuW) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [In This Light and on This Evening](https://open.spotify.com/album/4JO30GKQBd4SRLZSBwtTPY) | 5:24 | 2019-03-11 | 2023-05-31 |
-| [Passenger](https://open.spotify.com/track/7IoK6jZBxY7NMoQPoPXZCF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 6:08 | 2019-03-11 |  |
+| [Passenger](https://open.spotify.com/track/7IoK6jZBxY7NMoQPoPXZCF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 6:08 | 2019-03-11 | 2023-11-21 |
 | [Peaches](https://open.spotify.com/track/5huLMzIzFEdVcvEzt2hfk1) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1) | 2:51 | 2019-03-11 |  |
 | [Pepper](https://open.spotify.com/track/1ng36571Iyov4HBxUClySn) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Electriclarryland](https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz) | 4:57 | 2019-03-11 | 2023-05-31 |
 | [Phat Planet](https://open.spotify.com/track/3cR4v4R9tl8vZkOAgqiMQh) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [Rhythm and Stealth](https://open.spotify.com/album/2rSsFpV6S1AKfcJIf6FYlE) | 5:23 | 2019-03-11 | 2023-05-31 |

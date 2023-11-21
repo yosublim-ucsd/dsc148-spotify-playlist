@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 
 > <a href="spotify:artist:1aIWC7EGIcWotOZ8LNHH9j">Jad Halal</a>'s favorite tracks\. Updated regularly\. Curated by Jad Halal\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,104 likes - 53 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,142 likes - 53 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uM1d8KwMtp.md) - [plain]
 | 52 | [Shikiria \- Zakem, Yescene Remix](https://open.spotify.com/track/65yxCD6MLeTiTiMLCENRhN) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Mariam Zawose](https://open.spotify.com/artist/7z9Tgvj2vNKDsV8sfGOa25), [Zakem](https://open.spotify.com/artist/3aZZJkTAm6G2NRZ6DaiL7K), [Yescene](https://open.spotify.com/artist/2K81NzC5UFgLf1mgmHtbSt) | [Shikiria](https://open.spotify.com/album/4bHQ6jMonRkCgfuVPrdQk5) | 7:32 |
 | 53 | [Madan](https://open.spotify.com/track/19UXAgu0PzHHWSlmzLv9Qj) | [Rialians on Earth](https://open.spotify.com/artist/78h7VfOuRAnd6jtaEYQpg3), [Billy Esteban](https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Madan](https://open.spotify.com/album/48CVbFIVq033H7ajrXaJTY) | 3:18 |
 
-Snapshot ID: `MCwwZmM2NTc1MjljMGU3MTE5OTkzOTY4ZTBmYTliOWVkZWQ4MzQyMGJm`
+Snapshot ID: `MCxhNjNiM2Q0OWNhOWYyYThlMDMxODVkYWM4Mzg5Zjk2ZmIxYjcwYTlj`

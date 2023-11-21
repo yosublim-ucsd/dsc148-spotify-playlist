@@ -3058,7 +3058,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 177291,
       "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
       "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
@@ -7734,7 +7734,7 @@
       ],
       "date_added": "2023-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 147895,
       "name": "Dance For Me (1, 2, 3) - Stutter Techno",
       "url": "https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8"
@@ -9413,6 +9413,24 @@
     },
     {
       "album": {
+        "name": "L'exp\u00e9dition",
+        "url": "https://open.spotify.com/album/0c6jwYPgbVD2kuSQruxX6b"
+      },
+      "artists": [
+        {
+          "name": "Les Cowboys Fringants",
+          "url": "https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285173,
+      "name": "Droit devant",
+      "url": "https://open.spotify.com/track/0Ig3W1BxUeVZSVhsqEVyIa"
+    },
+    {
+      "album": {
         "name": "Spin The Globe",
         "url": "https://open.spotify.com/album/1HkGRJtlIFAMDKpEgGxF0M"
       },
@@ -10111,6 +10129,24 @@
     },
     {
       "album": {
+        "name": "Break syndical",
+        "url": "https://open.spotify.com/album/6oVJRrtYkII6GsP9xzAMcP"
+      },
+      "artists": [
+        {
+          "name": "Les Cowboys Fringants",
+          "url": "https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248733,
+      "name": "En berne",
+      "url": "https://open.spotify.com/track/3GK7LlzP8ovFRt1QRViTd7"
+    },
+    {
+      "album": {
         "name": "engravings",
         "url": "https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w"
       },
@@ -10738,7 +10774,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-03",
+      "date_removed": null,
       "duration_ms": 272466,
       "name": "Fairytale of New York (feat. Kirsty MacColl)",
       "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
@@ -16196,7 +16232,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
@@ -16665,6 +16701,24 @@
     },
     {
       "album": {
+        "name": "Les antipodes",
+        "url": "https://open.spotify.com/album/5VJagZjgSNlplSMKQ1PzdI"
+      },
+      "artists": [
+        {
+          "name": "Les Cowboys Fringants",
+          "url": "https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247024,
+      "name": "Ici-bas",
+      "url": "https://open.spotify.com/track/0ylDKFr0R8Z4waaequfXux"
+    },
+    {
+      "album": {
         "name": "Ick",
         "url": "https://open.spotify.com/album/3u1Xhy32TsbVeuVknYfrLE"
       },
@@ -16778,6 +16832,24 @@
       "duration_ms": 73624,
       "name": "idyll",
       "url": "https://open.spotify.com/track/4DDUkQ9uqDpWBzJQuPErrI"
+    },
+    {
+      "album": {
+        "name": "idyll",
+        "url": "https://open.spotify.com/album/0tD93sRLtDnm47FQvHqmhQ"
+      },
+      "artists": [
+        {
+          "name": "Luke Willies",
+          "url": "https://open.spotify.com/artist/3uIws1bbX1b53e0xJpz94r"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73795,
+      "name": "idyll",
+      "url": "https://open.spotify.com/track/3hDGLi1TjRpnZ2NbpQv42R"
     },
     {
       "album": {
@@ -17382,10 +17454,28 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 201058,
       "name": "Intrusive Thoughts",
       "url": "https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j"
+    },
+    {
+      "album": {
+        "name": "Where Am I?",
+        "url": "https://open.spotify.com/album/5HwTjLAj4NbPkdvA0NXYWV"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201066,
+      "name": "Intrusive Thoughts",
+      "url": "https://open.spotify.com/track/6PwrZtyXv480zMraalNzPd"
     },
     {
       "album": {
@@ -17530,7 +17620,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 246986,
       "name": "It Takes A Woman",
       "url": "https://open.spotify.com/track/7gf5ffmSqKQBDnkmSe2Dt7"
@@ -23306,7 +23396,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 108750,
       "name": "MR. TAKE YA B*TCH (FEAT. CHRISEANROCK)",
       "url": "https://open.spotify.com/track/38R5sydMbsBzSPGPMfmtpb"
@@ -23530,7 +23620,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 194400,
       "name": "my friend's toyota",
       "url": "https://open.spotify.com/track/5klqVId6gE0LT4QkbPUKCf"
@@ -25082,7 +25172,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 146436,
       "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl"
@@ -27080,6 +27170,24 @@
       "duration_ms": 181498,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
+    },
+    {
+      "album": {
+        "name": "La grand-messe",
+        "url": "https://open.spotify.com/album/11R4ZPmfZTbIMxy4QumstB"
+      },
+      "artists": [
+        {
+          "name": "Les Cowboys Fringants",
+          "url": "https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214146,
+      "name": "Plus rien",
+      "url": "https://open.spotify.com/track/5n6rZTnbvFABpuU9cgicDi"
     },
     {
       "album": {
@@ -30604,7 +30712,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 412934,
       "name": "SHAQ & KOBE (Remix) ft. Shaquille O\u2019Neal & Dame D.O.L.L.A.",
       "url": "https://open.spotify.com/track/7p8LdmtCGxMh52iqMMZsKM"
@@ -31857,6 +31965,24 @@
     },
     {
       "album": {
+        "name": "someday i'll get it",
+        "url": "https://open.spotify.com/album/2YXww1viuuKZPi458rdopk"
+      },
+      "artists": [
+        {
+          "name": "Alek Olsen",
+          "url": "https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94750,
+      "name": "someday i'll get it",
+      "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
+    },
+    {
+      "album": {
         "name": "Something in the Orange",
         "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
       },
@@ -31940,7 +32066,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 162224,
       "name": "something to remember",
       "url": "https://open.spotify.com/track/6eI8B3QW20P68MCYMb4Etd"
@@ -32742,7 +32868,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
@@ -33719,6 +33845,24 @@
     },
     {
       "album": {
+        "name": "L'exp\u00e9dition",
+        "url": "https://open.spotify.com/album/0c6jwYPgbVD2kuSQruxX6b"
+      },
+      "artists": [
+        {
+          "name": "Les Cowboys Fringants",
+          "url": "https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165933,
+      "name": "Tant qu'on aura de l'amour",
+      "url": "https://open.spotify.com/track/1guIrh1itHNqNZsnwkWz08"
+    },
+    {
+      "album": {
         "name": "Tata X Jenn Carter - OTR Cypher x tell 'em",
         "url": "https://open.spotify.com/album/5g7VqnfFn2NYxflf7eEkfr"
       },
@@ -34582,6 +34726,24 @@
       "duration_ms": 189386,
       "name": "the grudge",
       "url": "https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt"
+    },
+    {
+      "album": {
+        "name": "The Hanging Tree (from The Hunger Games: The Ballad of Songbirds & Snakes)",
+        "url": "https://open.spotify.com/album/0tkdGuAFwXKyGsNmsEbaCn"
+      },
+      "artists": [
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143988,
+      "name": "The Hanging Tree - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/12xA59A83Ir77gcYs0w4TA"
     },
     {
       "album": {
@@ -36307,6 +36469,24 @@
     },
     {
       "album": {
+        "name": "Break syndical",
+        "url": "https://open.spotify.com/album/6oVJRrtYkII6GsP9xzAMcP"
+      },
+      "artists": [
+        {
+          "name": "Les Cowboys Fringants",
+          "url": "https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212893,
+      "name": "Toune d'automne",
+      "url": "https://open.spotify.com/track/5vcpFz41FIfgTjv7wbrXVk"
+    },
+    {
+      "album": {
         "name": "Mini World",
         "url": "https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH"
       },
@@ -36638,7 +36818,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 263184,
       "name": "Tu hai kahan",
       "url": "https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz"
@@ -36746,6 +36926,24 @@
       "duration_ms": 267946,
       "name": "Turn On The Lights again.. (feat. Future)",
       "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
+    },
+    {
+      "album": {
+        "name": "Turn Red",
+        "url": "https://open.spotify.com/album/1UHDu0oc3wYGfxf0khwoEG"
+      },
+      "artists": [
+        {
+          "name": "M Dot R",
+          "url": "https://open.spotify.com/artist/2NulB6PgEgcSAtoDaRjSEY"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109800,
+      "name": "Turn Red",
+      "url": "https://open.spotify.com/track/3MqZRCiXn7YQrIbI8OAgkR"
     },
     {
       "album": {

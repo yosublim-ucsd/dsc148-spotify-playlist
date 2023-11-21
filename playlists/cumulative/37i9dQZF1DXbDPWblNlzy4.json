@@ -2666,10 +2666,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 308720,
       "name": "Nada igual",
       "url": "https://open.spotify.com/track/0f6YHD5KAWTJvuVZYZXQJL"
+    },
+    {
+      "album": {
+        "name": "He Vuelto a Casa",
+        "url": "https://open.spotify.com/album/0h0m1KcrZqTVQNkXP7XDLm"
+      },
+      "artists": [
+        {
+          "name": "Christian Meier",
+          "url": "https://open.spotify.com/artist/3OgfCHk8YwaZ7NjQHbL4f3"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308720,
+      "name": "Nada Igual",
+      "url": "https://open.spotify.com/track/60YobeMFdejmNpZmhog1Bi"
     },
     {
       "album": {

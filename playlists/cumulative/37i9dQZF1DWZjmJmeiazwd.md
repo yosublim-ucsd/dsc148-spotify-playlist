@@ -4,7 +4,7 @@
 
 > Rock out while you game.
 
-467 songs - 1 day 3 hr 56 min
+468 songs - 1 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Just Like Me](https://open.spotify.com/track/6YHlVMt8HFLBbPfwrnY3Gz) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 3:03 | 2022-04-22 | 2022-05-21 |
 | [Just Pretend](https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:24 | 2023-03-09 |  |
 | [Keep It Rolling](https://open.spotify.com/track/6tYin3Nya3wS8F48TueJUJ) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Keep It Rolling](https://open.spotify.com/album/2YIfWZjgVJWrrSTZJot3Mp) | 2:50 | 2023-06-23 | 2023-07-09 |
+| [Kickstart My Heart](https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe) | 4:42 | 2023-11-17 |  |
 | [Kickstart My Heart](https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood \(Deluxe Version\)](https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD) | 4:44 | 2022-11-29 | 2023-11-18 |
 | [Kid Midnight](https://open.spotify.com/track/7FmqchmnWZPhWE7IzBAowz) | [IRONTOM](https://open.spotify.com/artist/4KY9rCrokaoFzvMfX98u1q) | [Kid Midnight](https://open.spotify.com/album/5WV7yT3UR2eJss5tAVDhId) | 2:45 | 2022-04-22 | 2022-05-21 |
 | [Killing In The Name](https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:13 | 2020-06-29 | 2022-11-30 |
@@ -405,7 +406,7 @@
 | [The Disease](https://open.spotify.com/track/7rPQyZgkxzLHAUQhYl29aX) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS) | 2:55 | 2022-04-22 | 2022-05-21 |
 | [The End](https://open.spotify.com/track/1YaB0iZV5u5cXEI4VJR4cl) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [The End](https://open.spotify.com/album/3Idp7GanBlzFHzClNKyNaI) | 2:48 | 2020-06-29 | 2022-07-27 |
 | [The End of the Game](https://open.spotify.com/track/3JNxuA0OA1n5SHfOQn7FYb) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Hero](https://open.spotify.com/album/4FrRRR86MYCjoLFV8dgnm5) | 3:01 | 2020-06-29 | 2022-07-27 |
-| [The Ghosts of Beverly Drive](https://open.spotify.com/track/6wNCdMW82LwJgFrnGqLhpJ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Kintsugi](https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw) | 4:03 | 2020-06-29 |  |
+| [The Ghosts of Beverly Drive](https://open.spotify.com/track/6wNCdMW82LwJgFrnGqLhpJ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Kintsugi](https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw) | 4:03 | 2020-06-29 | 2023-11-21 |
 | [The Itch](https://open.spotify.com/track/3kdKhMpkjx1RNYTPcX4lNa) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6), [Josh A](https://open.spotify.com/artist/2rWCIhENZyPVDAeFC0ESWN) | [The Itch](https://open.spotify.com/album/23Qb4LFqcR9o35iS5tTHf9) | 2:46 | 2021-12-14 | 2022-06-11 |
 | [The Kill \(Bury Me\)](https://open.spotify.com/track/1p1nO35bbi4ZlQgjIA4oa4) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie](https://open.spotify.com/album/2jPmk6qQzuY5AvKkZxMh7h) | 3:51 | 2020-06-29 | 2022-02-26 |
 | [The Kingdom](https://open.spotify.com/track/70GPQX67w54kz33PcsXIuk) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Kingdom](https://open.spotify.com/album/1IduB3mfHISAtpV1zQHpef) | 3:47 | 2022-04-22 | 2022-05-19 |

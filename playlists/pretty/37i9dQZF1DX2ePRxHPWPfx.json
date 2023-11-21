@@ -1,12 +1,12 @@
 {
   "description": "Warm tunes to get you in the snuggle spirit, la fogata y el chocolate caliente son opcionales.",
-  "num_followers": 1750,
+  "num_followers": 1778,
   "original_name": "cozied up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWU1OGU2YWVjYThjMTIxNzNkNGNkMDQ2NDNjZTAzNWZmZWM1YTM5",
+  "snapshot_id": "MCw5NzQ2NzMwMDZiZGVkNDlhYWI0ZmFhYjc4MGQ1NjI1MTEwN2JmOWMz",
   "tracks": [
     {
       "added_at": "2023-11-17 20:43:12",
@@ -203,8 +203,24 @@
     {
       "added_at": "2023-11-17 20:43:12",
       "album": {
-        "name": "ENTROP\u00cdA",
-        "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
+        "name": "Aqu\u00ed Te Espero",
+        "url": "https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 255373,
+      "name": "Aqu\u00ed Te Espero",
+      "url": "https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6"
+    },
+    {
+      "added_at": "2023-11-17 20:43:12",
+      "album": {
+        "name": "fantasmas",
+        "url": "https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3"
       },
       "artists": [
         {
@@ -212,9 +228,9 @@
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 204181,
-      "name": "Dieznoches",
-      "url": "https://open.spotify.com/track/3Z69GuyA1GwA14ccCXTV25"
+      "duration_ms": 287248,
+      "name": "fantasmas",
+      "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
     },
     {
       "added_at": "2023-11-17 20:43:12",
@@ -231,22 +247,6 @@
       "duration_ms": 210447,
       "name": "All I Need To Hear",
       "url": "https://open.spotify.com/track/1RB8jMVr0eSo6ExOOvXavV"
-    },
-    {
-      "added_at": "2023-11-17 20:43:12",
-      "album": {
-        "name": "Aqu\u00ed Te Espero",
-        "url": "https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 255373,
-      "name": "Aqu\u00ed Te Espero",
-      "url": "https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6"
     },
     {
       "added_at": "2023-11-17 20:43:12",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-11-17 20:43:12",
       "album": {
-        "name": "Por Primera Vez",
-        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
+        "name": "ENTROP\u00cdA",
+        "url": "https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 207545,
-      "name": "Medialuna",
-      "url": "https://open.spotify.com/track/2RrJRSIdGweb6clmo5NRxp"
+      "duration_ms": 204181,
+      "name": "Dieznoches",
+      "url": "https://open.spotify.com/track/3Z69GuyA1GwA14ccCXTV25"
     },
     {
       "added_at": "2023-11-17 20:43:12",
@@ -363,6 +363,22 @@
       "duration_ms": 123786,
       "name": "Feliz navidad",
       "url": "https://open.spotify.com/track/465nAxOI5pErqke80RoQTF"
+    },
+    {
+      "added_at": "2023-11-17 20:43:12",
+      "album": {
+        "name": "Por Primera Vez",
+        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 207545,
+      "name": "Medialuna",
+      "url": "https://open.spotify.com/track/2RrJRSIdGweb6clmo5NRxp"
     },
     {
       "added_at": "2023-11-17 20:43:12",
@@ -419,38 +435,6 @@
     {
       "added_at": "2023-11-17 20:43:12",
       "album": {
-        "name": "Music Box",
-        "url": "https://open.spotify.com/album/3l3xNSj9nQGYJ4ZPXBWVmf"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 265772,
-      "name": "Music Box",
-      "url": "https://open.spotify.com/track/2h89x1ycsTH904Poc5COS4"
-    },
-    {
-      "added_at": "2023-11-17 20:43:12",
-      "album": {
-        "name": "Calico",
-        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 197653,
-      "name": "Ribbons",
-      "url": "https://open.spotify.com/track/1mn1vm47Qm3h91kgNRmXf0"
-    },
-    {
-      "added_at": "2023-11-17 20:43:12",
-      "album": {
         "name": "I'll Be Home For Christmas",
         "url": "https://open.spotify.com/album/1ykaX41VLZd7U0sxa33csX"
       },
@@ -467,6 +451,22 @@
     {
       "added_at": "2023-11-17 20:43:12",
       "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/3l3xNSj9nQGYJ4ZPXBWVmf"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 265772,
+      "name": "Music Box",
+      "url": "https://open.spotify.com/track/2h89x1ycsTH904Poc5COS4"
+    },
+    {
+      "added_at": "2023-11-17 20:43:12",
+      "album": {
         "name": "Navidades Luis Miguel",
         "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
       },
@@ -479,6 +479,22 @@
       "duration_ms": 255586,
       "name": "Te Deseo Muy Felices Fiestas",
       "url": "https://open.spotify.com/track/45fKgDxHS174490B3qruhx"
+    },
+    {
+      "added_at": "2023-11-17 20:43:12",
+      "album": {
+        "name": "Calico",
+        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 197653,
+      "name": "Ribbons",
+      "url": "https://open.spotify.com/track/1mn1vm47Qm3h91kgNRmXf0"
     },
     {
       "added_at": "2023-11-17 20:43:12",
@@ -591,6 +607,38 @@
     {
       "added_at": "2023-11-17 20:43:12",
       "album": {
+        "name": "los mejores a\u00f1os",
+        "url": "https://open.spotify.com/album/5sQ55TNYqcvtk4VMpx91Kl"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 221960,
+      "name": "Blanco y Negro",
+      "url": "https://open.spotify.com/track/7M8i0g4Ls8w3JCOwTChnkD"
+    },
+    {
+      "added_at": "2023-11-17 20:43:12",
+      "album": {
+        "name": "Navidades Luis Miguel",
+        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 188199,
+      "name": "Sonr\u00ede",
+      "url": "https://open.spotify.com/track/2LxtK38dlYh9Byvv93ndYY"
+    },
+    {
+      "added_at": "2023-11-17 20:43:12",
+      "album": {
         "name": "Los mismos",
         "url": "https://open.spotify.com/album/5FOyz0vBUeOoj49M9loFTg"
       },
@@ -639,22 +687,6 @@
     {
       "added_at": "2023-11-17 20:43:12",
       "album": {
-        "name": "Navidades Luis Miguel",
-        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 188199,
-      "name": "Sonr\u00ede",
-      "url": "https://open.spotify.com/track/2LxtK38dlYh9Byvv93ndYY"
-    },
-    {
-      "added_at": "2023-11-17 20:43:12",
-      "album": {
         "name": "Medianoche",
         "url": "https://open.spotify.com/album/3XCI5ZjZMArpKdOcyqVFZL"
       },
@@ -667,22 +699,6 @@
       "duration_ms": 180000,
       "name": "Un Ratito",
       "url": "https://open.spotify.com/track/6B5qbGyX9UPkdWJIkJlfnP"
-    },
-    {
-      "added_at": "2023-11-17 20:43:12",
-      "album": {
-        "name": "los mejores a\u00f1os",
-        "url": "https://open.spotify.com/album/5sQ55TNYqcvtk4VMpx91Kl"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 221960,
-      "name": "Blanco y Negro",
-      "url": "https://open.spotify.com/track/7M8i0g4Ls8w3JCOwTChnkD"
     },
     {
       "added_at": "2023-11-17 20:43:12",
@@ -803,38 +819,18 @@
     {
       "added_at": "2023-11-17 20:43:12",
       "album": {
-        "name": "Br\u00fajula",
-        "url": "https://open.spotify.com/album/7rIIkQ0FySrrsXpDGW7DVr"
+        "name": "Sweet Christmas Ukulele & Jazz",
+        "url": "https://open.spotify.com/album/0GKnPhTHDcxSmIsnAC5wzi"
       },
       "artists": [
         {
-          "name": "Laura P\u00e9rez",
-          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
+          "name": "Vazquez Sounds",
+          "url": "https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e"
         }
       ],
-      "duration_ms": 190912,
-      "name": "Br\u00fajula",
-      "url": "https://open.spotify.com/track/3NcZFZYHwtvabsALQW5RWv"
-    },
-    {
-      "added_at": "2023-11-17 20:43:12",
-      "album": {
-        "name": "for good (with RENEE)",
-        "url": "https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 182481,
-      "name": "for good (with RENEE)",
-      "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
+      "duration_ms": 164787,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/1nobDMo2NzOyNXgCeyD8f7"
     }
   ],
   "unique_name": "cozied up",

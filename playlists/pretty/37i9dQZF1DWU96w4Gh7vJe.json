@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 593883,
+  "num_followers": 593922,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDRhNTNhOWQ3OTcyMjM5ZmFjMmMxMWM3ZTFiMTdjYjJmODkzYTAy",
+  "snapshot_id": "MCxlZmFlNGI1YzA4ODYzNzMyM2JkMjI0Yzg4YTc2YzQyYTI2NzQ4NWZh",
   "tracks": [
     {
       "added_at": "2023-11-10 09:15:37",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-11-10 09:15:37",
       "album": {
-        "name": "Destination XYZ",
-        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
-      },
-      "artists": [
-        {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
-        }
-      ],
-      "duration_ms": 326813,
-      "name": "Magbalik",
-      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
-    },
-    {
-      "added_at": "2023-11-10 09:15:37",
-      "album": {
         "name": "Patutunguhan",
         "url": "https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 252500,
       "name": "Patutunguhan",
       "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
+    },
+    {
+      "added_at": "2023-11-10 09:15:37",
+      "album": {
+        "name": "Destination XYZ",
+        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
+      },
+      "artists": [
+        {
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+        }
+      ],
+      "duration_ms": 326813,
+      "name": "Magbalik",
+      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
     },
     {
       "added_at": "2023-11-10 09:15:37",
@@ -327,18 +327,18 @@
     {
       "added_at": "2023-11-10 09:15:37",
       "album": {
-        "name": "Maybe The Night",
-        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
+        "name": "HARANASA",
+        "url": "https://open.spotify.com/album/1m5UTDEtgN3wGvr6huasDE"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd"
         }
       ],
-      "duration_ms": 217197,
-      "name": "Maybe The Night",
-      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
+      "duration_ms": 241682,
+      "name": "Ikaw Lang",
+      "url": "https://open.spotify.com/track/5y6BAZxYtjqyAz4AiuQxTp"
     },
     {
       "added_at": "2023-11-10 09:15:37",
@@ -359,18 +359,18 @@
     {
       "added_at": "2023-11-10 09:15:37",
       "album": {
-        "name": "HARANASA",
-        "url": "https://open.spotify.com/album/1m5UTDEtgN3wGvr6huasDE"
+        "name": "Maybe The Night",
+        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
       },
       "artists": [
         {
-          "name": "Kiyo",
-          "url": "https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd"
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 241682,
-      "name": "Ikaw Lang",
-      "url": "https://open.spotify.com/track/5y6BAZxYtjqyAz4AiuQxTp"
+      "duration_ms": 217197,
+      "name": "Maybe The Night",
+      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
     },
     {
       "added_at": "2023-11-10 09:15:37",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-11-10 09:15:37",
       "album": {
+        "name": "Monodramatic",
+        "url": "https://open.spotify.com/album/3ZlePmbDly7zZxzi8MdWib"
+      },
+      "artists": [
+        {
+          "name": "Silent Sanctuary",
+          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+        }
+      ],
+      "duration_ms": 253360,
+      "name": "Sa'yo",
+      "url": "https://open.spotify.com/track/3Poi6rJ2p1G5ZrsRmCFH7e"
+    },
+    {
+      "added_at": "2023-11-10 09:15:37",
+      "album": {
         "name": "Anytime",
         "url": "https://open.spotify.com/album/73d8pQZqyvAkvYNiq1eCqN"
       },
@@ -555,18 +571,18 @@
     {
       "added_at": "2023-11-10 09:15:37",
       "album": {
-        "name": "Monodramatic",
-        "url": "https://open.spotify.com/album/3ZlePmbDly7zZxzi8MdWib"
+        "name": "Oks Lang",
+        "url": "https://open.spotify.com/album/2DgTTNbbKwiPMUaAqeRmuf"
       },
       "artists": [
         {
-          "name": "Silent Sanctuary",
-          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+          "name": "John Roa",
+          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
         }
       ],
-      "duration_ms": 253360,
-      "name": "Sa'yo",
-      "url": "https://open.spotify.com/track/3Poi6rJ2p1G5ZrsRmCFH7e"
+      "duration_ms": 336369,
+      "name": "Oks Lang",
+      "url": "https://open.spotify.com/track/3Hsjzl5kBbCAMaJxg1OTwK"
     },
     {
       "added_at": "2023-11-10 09:15:37",
@@ -583,22 +599,6 @@
       "duration_ms": 240320,
       "name": "Tulog Na",
       "url": "https://open.spotify.com/track/5ZPlhCh8KnB0bEnElxm1Et"
-    },
-    {
-      "added_at": "2023-11-10 09:15:37",
-      "album": {
-        "name": "Oks Lang",
-        "url": "https://open.spotify.com/album/2DgTTNbbKwiPMUaAqeRmuf"
-      },
-      "artists": [
-        {
-          "name": "John Roa",
-          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
-        }
-      ],
-      "duration_ms": 336369,
-      "name": "Oks Lang",
-      "url": "https://open.spotify.com/track/3Hsjzl5kBbCAMaJxg1OTwK"
     },
     {
       "added_at": "2023-11-10 09:15:37",
@@ -631,22 +631,6 @@
       "duration_ms": 245586,
       "name": "Bakit Ba Ikaw",
       "url": "https://open.spotify.com/track/0RYRExrU329MHOwuiueWIq"
-    },
-    {
-      "added_at": "2023-11-10 09:15:37",
-      "album": {
-        "name": "Langit. Luha.",
-        "url": "https://open.spotify.com/album/6L9ym5oi9qCCJgYyVxgwxn"
-      },
-      "artists": [
-        {
-          "name": "Silent Sanctuary",
-          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
-        }
-      ],
-      "duration_ms": 241029,
-      "name": "Pasensya Ka Na",
-      "url": "https://open.spotify.com/track/4yrphG2212kF0aIt3qOt3g"
     },
     {
       "added_at": "2023-11-10 09:15:37",
@@ -695,6 +679,22 @@
       "duration_ms": 260239,
       "name": "Tagpuan",
       "url": "https://open.spotify.com/track/6pA9QdHAzg1cyG6I7xI7Ez"
+    },
+    {
+      "added_at": "2023-11-10 09:15:37",
+      "album": {
+        "name": "Langit. Luha.",
+        "url": "https://open.spotify.com/album/6L9ym5oi9qCCJgYyVxgwxn"
+      },
+      "artists": [
+        {
+          "name": "Silent Sanctuary",
+          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+        }
+      ],
+      "duration_ms": 241029,
+      "name": "Pasensya Ka Na",
+      "url": "https://open.spotify.com/track/4yrphG2212kF0aIt3qOt3g"
     },
     {
       "added_at": "2023-11-10 09:15:37",
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-11-10 09:15:37",
       "album": {
-        "name": "LOVES7AGE",
-        "url": "https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ"
-      },
-      "artists": [
-        {
-          "name": "DEN\u0232",
-          "url": "https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR"
-        },
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Sabik",
-      "url": "https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz"
-    },
-    {
-      "added_at": "2023-11-10 09:15:37",
-      "album": {
         "name": "Till My Heartaches End (From \"The Significant Other\")",
         "url": "https://open.spotify.com/album/7KcUkMbUny7VAOzGjIkFhJ"
       },
@@ -851,18 +831,38 @@
     {
       "added_at": "2023-11-10 09:15:37",
       "album": {
-        "name": "Ex",
-        "url": "https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA"
+        "name": "LOVES7AGE",
+        "url": "https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ"
       },
       "artists": [
         {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+          "name": "DEN\u0232",
+          "url": "https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR"
+        },
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
         }
       ],
-      "duration_ms": 279259,
-      "name": "Ex",
-      "url": "https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo"
+      "duration_ms": 294000,
+      "name": "Sabik",
+      "url": "https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz"
+    },
+    {
+      "added_at": "2023-11-10 09:15:37",
+      "album": {
+        "name": "Kahit Di Mo Alam",
+        "url": "https://open.spotify.com/album/1aUdCxhin4mQevKWVLrtNN"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "duration_ms": 282094,
+      "name": "Kahit Di Mo Alam",
+      "url": "https://open.spotify.com/track/6GIzDc4xBUeYHwubWwTrhC"
     }
   ],
   "unique_name": "Relax Tayo",

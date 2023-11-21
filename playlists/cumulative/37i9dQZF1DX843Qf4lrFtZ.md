@@ -4,13 +4,14 @@
 
 > that’s how it's supposed to be\. living young, wild and free!!!!!
 
-1,264 songs - 2 day 16 hr 39 min
+1,265 songs - 2 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(L\)only Child](https://open.spotify.com/track/22lJaG2yxlSjIwdUIddcFk) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [\(L\)only Child](https://open.spotify.com/album/2dNtoOVqFNhA8SM7563kQh) | 2:24 | 2021-03-19 | 2022-04-08 |
 | [1,000,000 X Better](https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [1,000,000 X Better](https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ) | 3:11 | 2020-10-02 | 2020-11-13 |
 | [10 Things I Hate About You](https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6) | 2:37 | 2022-07-07 | 2023-10-17 |
+| [10 Things I Hate About You](https://open.spotify.com/track/7I4XALvCb2VEmOCtGUe5uY) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB) | 2:37 | 2023-02-09 |  |
 | [18](https://open.spotify.com/track/4h7CVH9xtHoYSlEV5Dpamk) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [18](https://open.spotify.com/album/2KZG5LAzFQ4atJL69eH9Qj) | 2:30 | 2021-10-10 | 2022-04-16 |
 | [2 Hearts \(feat\. Gia Koka\)](https://open.spotify.com/track/0EdgK7ASb4kfRkW8pVMN02) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [2 Hearts \(feat\. Gia Koka\)](https://open.spotify.com/album/798RdmwmE3IZcZnW0jT7kc) | 3:06 | 2020-01-16 | 2022-06-22 |
 | [2002](https://open.spotify.com/track/4Pbg79cTBu4vgSphoyNq3j) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [2002](https://open.spotify.com/album/6oSxSPOg7Kuitjt2zwP7sU) | 3:06 | 2019-08-09 | 2022-04-15 |
@@ -1135,7 +1136,7 @@
 | [Too Many Nights](https://open.spotify.com/track/6xB0rPxU3ncmMPgGDaD24M) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Too Many Nights](https://open.spotify.com/album/4Vuv40LsiUtYe7iriTaByr) | 3:08 | 2020-09-18 | 2021-01-08 |
 | [Too Many Problems \(feat\. Powfu\)](https://open.spotify.com/track/4NY3dbgimhDmj4tFt4tIzS) | [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Too Many Problems \(feat\. Powfu\)](https://open.spotify.com/album/1w8SeeBNLtPMoIBfgzHKcv) | 2:24 | 2021-04-22 | 2022-04-15 |
 | [Too Much](https://open.spotify.com/track/60NBh3Hbtes3ObiWkMhhrl) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Pity Party](https://open.spotify.com/album/14xTlrfCf7z4OeLP9nvHhz) | 3:25 | 2020-11-06 | 2021-03-22 |
-| [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2022-12-08 |  |
+| [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2022-12-08 | 2023-11-21 |
 | [Toosie Slide](https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Toosie Slide](https://open.spotify.com/album/3xIwVbGJuAcovYIhzbLO3J) | 4:07 | 2020-06-12 | 2020-09-14 |
 | [Torn](https://open.spotify.com/track/2GdxQw8NwoeH8tKySg6nym) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Torn](https://open.spotify.com/album/6a6Dy4LaFvh43Ed5lomDEd) | 3:18 | 2019-08-27 | 2019-08-28 |
 | [Touch](https://open.spotify.com/track/3jtYgsEzUr2RitAuymjQMI) | [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [EQRIC](https://open.spotify.com/artist/1Yj7SsIEP9k7SsE1HcMBrq), [FJØRA](https://open.spotify.com/artist/0NnlfSS9TzEUlffzx7KwBk) | [Touch](https://open.spotify.com/album/2XaF3NlRliM5wem6DaVAkR) | 2:25 | 2020-01-01 | 2020-07-03 |

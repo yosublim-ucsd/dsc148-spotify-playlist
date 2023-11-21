@@ -1496,6 +1496,24 @@
     {
       "album": {
         "name": "Music for Animals",
+        "url": "https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1622575,
+      "name": "Briefly",
+      "url": "https://open.spotify.com/track/0qSjSC6I0puPWQbyQXOIAf"
+    },
+    {
+      "album": {
+        "name": "Music for Animals",
         "url": "https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72"
       },
       "artists": [
@@ -4170,7 +4188,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 242624,
       "name": "Hypnagogia",
       "url": "https://open.spotify.com/track/1NUMHB28RsUmDhpSPgDf1z"

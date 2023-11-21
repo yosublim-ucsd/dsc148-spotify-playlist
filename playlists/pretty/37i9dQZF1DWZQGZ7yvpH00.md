@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Jasiel Nuñez & DannyLux en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,086 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,922 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Me Pone Mal](https://open.spotify.com/track/02Qd3DnIB7HKHMeLYEomb2) | [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [Me Pone Mal](https://open.spotify.com/album/49o6s7X89JT5dR951SKoN2) | 2:21 |
 | 50 | [Solo Tú Nomas](https://open.spotify.com/track/6z3ntFQzzu0aGtrHAKcCiR) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [En Mi Soledad](https://open.spotify.com/album/5nVAi9SXCc6U2jouydyOOG) | 2:07 |
 
-Snapshot ID: `MCw5ZjdhZDgzM2I3NDE1ZGRlNmY2NGIyMjk2MWIzMDc0YTFhYjdkNTNk`
+Snapshot ID: `MCw1NzdlOGQ0ZGY1N2IwMDA3ZjgxZmZkYjk4NWU1OTdhNTA1Zjk0NGI3`

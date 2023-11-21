@@ -3962,7 +3962,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 221584,
       "name": "Elements",
       "url": "https://open.spotify.com/track/6qWyL3wlqjxUbNhwcvlmcG"
@@ -4522,7 +4522,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 200888,
       "name": "Everytime - Ciaran McAuley Remix",
       "url": "https://open.spotify.com/track/0cfhLq3j4vLMDWrS6xII9N"
@@ -6186,7 +6186,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 192000,
       "name": "Happier Than Now",
       "url": "https://open.spotify.com/track/2y8J80BwsxKggLzZeSeziX"
@@ -7132,7 +7132,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 152380,
       "name": "In Your Mind",
       "url": "https://open.spotify.com/track/2yAnDLhBYRYE0pKYvZ43mu"
@@ -10053,6 +10053,32 @@
     },
     {
       "album": {
+        "name": "No Borders",
+        "url": "https://open.spotify.com/album/1dI0qjDyk9m339dJYAkS6q"
+      },
+      "artists": [
+        {
+          "name": "Dennis Sheperd",
+          "url": "https://open.spotify.com/artist/1wzytoanlxHqWXGCpUxnbY"
+        },
+        {
+          "name": "Aurosonic",
+          "url": "https://open.spotify.com/artist/1UkK91RiLw3FonVedbAVA1"
+        },
+        {
+          "name": "LTN",
+          "url": "https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245238,
+      "name": "No Borders",
+      "url": "https://open.spotify.com/track/6hdMOc0lpUN8fvVLNQVyDa"
+    },
+    {
+      "album": {
         "name": "No Signs Of Life (Talla 2XLC Remix)",
         "url": "https://open.spotify.com/album/4hNuGEUMRGKw87dhbvaA7B"
       },
@@ -11020,6 +11046,28 @@
       "duration_ms": 234626,
       "name": "Pendulum",
       "url": "https://open.spotify.com/track/6OXLmWLS8c5nih9TNMTp97"
+    },
+    {
+      "album": {
+        "name": "Global DJ Broadcast Weekly Drive 7",
+        "url": "https://open.spotify.com/album/4mOWMjezqdVTRUU9m6ARCa"
+      },
+      "artists": [
+        {
+          "name": "Markus Schulz",
+          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
+        },
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "Pendulum (GDJB Weekly Drive 7)",
+      "url": "https://open.spotify.com/track/6doOylSL3c6XYWWgNyVwT8"
     },
     {
       "album": {

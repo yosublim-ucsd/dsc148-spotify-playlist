@@ -738,7 +738,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 225461,
       "name": "Happy Birthday, Baby",
       "url": "https://open.spotify.com/track/34VFKmBbDY1iKejeoJZHlK"
@@ -2626,6 +2626,28 @@
       "duration_ms": 146571,
       "name": "We Shouldn't Talk About It (feat. Emily Gimble)",
       "url": "https://open.spotify.com/track/1ZN4HXmebT3dxEfpT83q25"
+    },
+    {
+      "album": {
+        "name": "Plus de Sauce",
+        "url": "https://open.spotify.com/album/2ZYhoJFzpk9sRktKsFC942"
+      },
+      "artists": [
+        {
+          "name": "Theo Lawrence",
+          "url": "https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2"
+        },
+        {
+          "name": "Emily Gimble",
+          "url": "https://open.spotify.com/artist/5PGUi7TAPu7BpFXoDP6AUK"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146571,
+      "name": "We Shouldn\u2019t Talk About It (feat. Emily Gimble)",
+      "url": "https://open.spotify.com/track/1BODUrT21FF2DTkmhmXYxG"
     },
     {
       "album": {

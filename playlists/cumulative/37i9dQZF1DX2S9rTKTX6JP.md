@@ -4,7 +4,7 @@
 
 > The very best rock covers\. Cover: Dolly Parton
 
-321 songs - 20 hr 40 min
+322 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Like A Stone \(feat\. Tom Morello\) \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Spotify Singles](https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU) | 4:19 | 2022-03-25 |  |
 | [Like a Virgin](https://open.spotify.com/track/55tH1vUqhMrLlcJ09k2QGq) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [The Dirt Soundtrack](https://open.spotify.com/album/1FeIa1My6QQ6oQjUYxI36O) | 3:08 | 2022-06-17 | 2023-04-06 |
 | [Like a Virgin](https://open.spotify.com/track/5y1QAwcpZ6cDSAQDYgw9dX) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Like a Virgin](https://open.spotify.com/album/77eoArzqUsV6nffTcaND6B) | 3:08 | 2020-12-16 | 2022-07-29 |
+| [Like a Virgin](https://open.spotify.com/track/7zmEtA2x8zcMDiDBr9kT2p) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [The Dirt Soundtrack](https://open.spotify.com/album/6FLUCOGmzatDd2Ab85FjsO) | 3:08 | 2023-11-17 |  |
 | [Listen To Your Heart](https://open.spotify.com/track/29b2h29UnjjL8jGrDIfEsU) | [Through Fire](https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT) | [All Animal](https://open.spotify.com/album/7CcfBGRoxEuWkudbhLMr3H) | 3:35 | 2020-12-16 | 2022-11-05 |
 | [Listen To Your Heart](https://open.spotify.com/track/6NxTKEfNa5DyhOIin6VWYP) | [Through Fire](https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT) | [All Animal](https://open.spotify.com/album/5hDU20tlpRjeN2PJnmfiv6) | 3:35 | 2023-01-13 |  |
 | [Lithium](https://open.spotify.com/track/6GfqX5QB43nsHGeyYTeFDS) | [The Polyphonic Spree](https://open.spotify.com/artist/0inqWv3OS4VpWt691ki8yk) | [Wait](https://open.spotify.com/album/2jx7CKfpInHEB5DT6wT8kf) | 5:23 | 2022-03-25 | 2022-04-19 |
@@ -197,7 +198,7 @@
 | [Mississippi Queen](https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt) | [Joyous Wolf](https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp) | [Mississippi Queen/Slow Hand](https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp) | 2:32 | 2020-12-16 |  |
 | [My Sharona \- Live Session from Abbey Road Studios, London, UK](https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Spotify Singles](https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD) | 2:32 | 2020-12-16 |  |
 | [Nightmare](https://open.spotify.com/track/5916P1HiQM5R5SxTC2Y510) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Covers Collection, Vol\. 1](https://open.spotify.com/album/4RPlOjAwTVDGqt5kZIumGR) | 3:55 | 2022-03-25 | 2022-11-26 |
-| [No Ordinary Love \- 2005 Remaster](https://open.spotify.com/track/2lwkf3MVqTYmo5NoAoWFqN) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [B\-Sides & Rarities](https://open.spotify.com/album/0UArfu79AC2LrQ6lsvohp5) | 5:30 | 2022-03-25 |  |
+| [No Ordinary Love \- 2005 Remaster](https://open.spotify.com/track/2lwkf3MVqTYmo5NoAoWFqN) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [B\-Sides & Rarities](https://open.spotify.com/album/0UArfu79AC2LrQ6lsvohp5) | 5:30 | 2022-03-25 | 2023-11-21 |
 | [No Rain](https://open.spotify.com/track/2pPUp719PiWcXFGxJCVzgD) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [No Rain](https://open.spotify.com/album/2gTHSUAhQJmBqlFT5FbcYX) | 3:37 | 2020-12-16 | 2022-07-18 |
 | [Nothing Breaks Like a Heart](https://open.spotify.com/track/0OwLUCSkDeiTHKhsXRtyCT) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Nothing Breaks Like a Heart](https://open.spotify.com/album/4B46lbwnQggpMZnKOMKJuv) | 3:30 | 2020-12-16 | 2022-07-22 |
 | [Nothing Compares 2 U](https://open.spotify.com/track/65mnqRK6fcQWpgNV2UibqM) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 4:12 | 2020-12-16 |  |

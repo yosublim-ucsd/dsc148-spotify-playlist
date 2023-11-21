@@ -1,12 +1,12 @@
 {
   "description": "Thunder is coming.",
-  "num_followers": 426290,
+  "num_followers": 426307,
   "original_name": "Calm Before the Storm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWI1OTEwYzhkZGU2ZGU2NmMyNGU4YjUyOWFmNTRiNGZhMDkyMTdh",
+  "snapshot_id": "MCwyMGU1NDkxMDM5OTMwZDZhYzYwNGU0ZDU3ZjVlOGEwMzkxNWMxZTJh",
   "tracks": [
     {
       "added_at": "2023-10-19 17:09:31",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-10-19 17:09:31",
       "album": {
-        "name": "Pacific\u2022atlantic",
-        "url": "https://open.spotify.com/album/0AcN6qKwf00huBIs83EcSO"
-      },
-      "artists": [
-        {
-          "name": "The End Of The Ocean",
-          "url": "https://open.spotify.com/artist/4AXRViJcT2cJ0x1CxSSldW"
-        }
-      ],
-      "duration_ms": 354320,
-      "name": "Worth Everything Ever Wished for",
-      "url": "https://open.spotify.com/track/2j3qLgBCLoLhv4zbzNmc16"
-    },
-    {
-      "added_at": "2023-10-19 17:09:31",
-      "album": {
         "name": "Young Mountain",
         "url": "https://open.spotify.com/album/4In2V4QylBdWT8HJ0dLDw5"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 432306,
       "name": "The World Is Our ___",
       "url": "https://open.spotify.com/track/1EKk6Xvei9N9scaQcrax2S"
+    },
+    {
+      "added_at": "2023-10-19 17:09:31",
+      "album": {
+        "name": "Pacific\u2022atlantic",
+        "url": "https://open.spotify.com/album/0AcN6qKwf00huBIs83EcSO"
+      },
+      "artists": [
+        {
+          "name": "The End Of The Ocean",
+          "url": "https://open.spotify.com/artist/4AXRViJcT2cJ0x1CxSSldW"
+        }
+      ],
+      "duration_ms": 354320,
+      "name": "Worth Everything Ever Wished for",
+      "url": "https://open.spotify.com/track/2j3qLgBCLoLhv4zbzNmc16"
     },
     {
       "added_at": "2023-10-19 17:09:31",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-10-19 17:09:31",
       "album": {
-        "name": "S/T",
-        "url": "https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf"
-      },
-      "artists": [
-        {
-          "name": "This Will Destroy You",
-          "url": "https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk"
-        }
-      ],
-      "duration_ms": 339600,
-      "name": "Threads",
-      "url": "https://open.spotify.com/track/1kZvOyo7g6k01Au6DuXY4Y"
-    },
-    {
-      "added_at": "2023-10-19 17:09:31",
-      "album": {
         "name": "Hymn to the Immortal Wind (Anniversary Edition)",
         "url": "https://open.spotify.com/album/2tMQkZ8WvwpM7qmRVrW3hK"
       },
@@ -335,26 +319,6 @@
     {
       "added_at": "2023-10-19 17:09:31",
       "album": {
-        "name": "Riceboy Sleeps",
-        "url": "https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3nsi",
-          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
-        },
-        {
-          "name": "Alex Somers",
-          "url": "https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x"
-        }
-      ],
-      "duration_ms": 560653,
-      "name": "Happiness",
-      "url": "https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI"
-    },
-    {
-      "added_at": "2023-10-19 17:09:31",
-      "album": {
         "name": "Systems / Layers",
         "url": "https://open.spotify.com/album/3CnIIKifMcJsclpMDEG9y4"
       },
@@ -379,6 +343,42 @@
       "duration_ms": 378066,
       "name": "Water from the Same Source",
       "url": "https://open.spotify.com/track/7vVoaTSJ0k4i2quvEDa3cP"
+    },
+    {
+      "added_at": "2023-10-19 17:09:31",
+      "album": {
+        "name": "S/T",
+        "url": "https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf"
+      },
+      "artists": [
+        {
+          "name": "This Will Destroy You",
+          "url": "https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk"
+        }
+      ],
+      "duration_ms": 339600,
+      "name": "Threads",
+      "url": "https://open.spotify.com/track/1kZvOyo7g6k01Au6DuXY4Y"
+    },
+    {
+      "added_at": "2023-10-19 17:09:31",
+      "album": {
+        "name": "Riceboy Sleeps",
+        "url": "https://open.spotify.com/album/7MPzpbeTmxvlYVNZyn3LSf"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3nsi",
+          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+        },
+        {
+          "name": "Alex Somers",
+          "url": "https://open.spotify.com/artist/51UcKPhDKdKDGIjec0781x"
+        }
+      ],
+      "duration_ms": 560653,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/29Ty3LznXDPiuf4Q681MEI"
     },
     {
       "added_at": "2023-10-19 17:09:31",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-10-19 17:09:31",
       "album": {
-        "name": "These Small Spaces",
-        "url": "https://open.spotify.com/album/7ACcoSiFkGjT3TlntaogzB"
-      },
-      "artists": [
-        {
-          "name": "This Patch of Sky",
-          "url": "https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf"
-        }
-      ],
-      "duration_ms": 419333,
-      "name": "Her Beating Wings",
-      "url": "https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1"
-    },
-    {
-      "added_at": "2023-10-19 17:09:31",
-      "album": {
         "name": "Radio Protector",
         "url": "https://open.spotify.com/album/3ruXFYPxKwCqPIzZtxjGmg"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 328186,
       "name": "Radio Protector",
       "url": "https://open.spotify.com/track/1QuJm7XRpFjEfOU6A01mw2"
+    },
+    {
+      "added_at": "2023-10-19 17:09:31",
+      "album": {
+        "name": "These Small Spaces",
+        "url": "https://open.spotify.com/album/7ACcoSiFkGjT3TlntaogzB"
+      },
+      "artists": [
+        {
+          "name": "This Patch of Sky",
+          "url": "https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf"
+        }
+      ],
+      "duration_ms": 419333,
+      "name": "Her Beating Wings",
+      "url": "https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1"
     },
     {
       "added_at": "2023-10-19 17:09:31",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-10-19 17:09:31",
       "album": {
-        "name": "Spine And Sensory (Expanded And Remastered)",
-        "url": "https://open.spotify.com/album/6fYcfqLS4HumMAdPHpH9Z6"
-      },
-      "artists": [
-        {
-          "name": "Tristeza",
-          "url": "https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5"
-        }
-      ],
-      "duration_ms": 292453,
-      "name": "Golden Hill",
-      "url": "https://open.spotify.com/track/3FhASv6CcevRilYRxpCZrK"
-    },
-    {
-      "added_at": "2023-10-19 17:09:31",
-      "album": {
         "name": "On Little Known Frequencies",
         "url": "https://open.spotify.com/album/7lBdDIeIgMb1mWloh7N3Ea"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 335693,
       "name": "A Sixth Trumpet",
       "url": "https://open.spotify.com/track/0kqR9yoySq4IQSvEql8h4L"
+    },
+    {
+      "added_at": "2023-10-19 17:09:31",
+      "album": {
+        "name": "Spine And Sensory (Expanded And Remastered)",
+        "url": "https://open.spotify.com/album/6fYcfqLS4HumMAdPHpH9Z6"
+      },
+      "artists": [
+        {
+          "name": "Tristeza",
+          "url": "https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5"
+        }
+      ],
+      "duration_ms": 292453,
+      "name": "Golden Hill",
+      "url": "https://open.spotify.com/track/3FhASv6CcevRilYRxpCZrK"
     },
     {
       "added_at": "2023-10-19 17:09:31",

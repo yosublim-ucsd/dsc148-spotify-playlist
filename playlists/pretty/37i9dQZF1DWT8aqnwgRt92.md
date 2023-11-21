@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,373,648 likes - 85 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,374,114 likes - 85 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [O.C\. ～Optimum Combination～ \-Side by Side\-](https://open.spotify.com/track/0ceVOccR5DDrVBp1oyHs6G) | [レイ\(CV.芹澤優\)](https://open.spotify.com/artist/7lASCV34WzEVlaueaflV6q), [クレア\(CV.奈波果林\)](https://open.spotify.com/artist/60S3tmlIQt6Kn8HPIicBFe) | [レイジョアハンズ!! ～Raise Y/Our Hands!!～/O.C\. ～Optimum Combination～ <TVアニメ「私の推しは悪役令嬢。」OP/ED主題歌>](https://open.spotify.com/album/3gollbbYhL6QDjzfrxBRrM) | 4:01 |
 | 85 | [Perfect World](https://open.spotify.com/track/0wbjzPFuDHLWQs3Aw0vRIH) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Perfect World EP](https://open.spotify.com/album/2pEkFJTFkRgN9CkpJ8mRwJ) | 3:42 |
 
-Snapshot ID: `MCxiNzA2NjZjNWUwODQzNzJjM2Q1YTFmZTg5ZjM4NTA2ZTM2NGYzMDgx`
+Snapshot ID: `MCwyYTU3YTI1YjA1NTI3Mjk1ZDY5ZjQ1MzMwOGIwZTYwNDY4N2NhOTY5`

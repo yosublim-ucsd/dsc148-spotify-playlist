@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-871 songs - 1 day 22 hr 0 min
+873 songs - 1 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Dancer](https://open.spotify.com/track/3FpsFW7PcGAUki4siWcvVk) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Dancer](https://open.spotify.com/album/1RY6ffqngwYDOrQ9vHb5SC) | 3:57 | 2021-12-16 | 2022-02-27 |
 | [Dansa Med Mig \(Stripped Version\) \[feat\. Julia Lov\]](https://open.spotify.com/track/12e80YV3Nhkbfymj0SiSz0) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd), [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Dansa Med Mig \(Stripped Version\) \[feat\. Julia Lov\]](https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl) | 2:49 | 2023-02-18 | 2023-10-06 |
 | [Dansar på lakan](https://open.spotify.com/track/1Nhm9iD7DycxEiLzPjvSnV) | [WAHL](https://open.spotify.com/artist/5tDnwIxYT1LAYH37yBqg4Z) | [Dansar på lakan](https://open.spotify.com/album/7fkILnGxZDkcsnRVPjCcjS) | 3:11 | 2021-12-16 | 2022-01-10 |
-| [Dawn](https://open.spotify.com/track/4ilrp6PdG89jBXDJlBmfvq) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Dawn](https://open.spotify.com/album/6NK2HrpCmzxrMUniKoFhUR) | 3:37 | 2023-10-19 |  |
+| [Dawn](https://open.spotify.com/track/4ilrp6PdG89jBXDJlBmfvq) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Dawn](https://open.spotify.com/album/6NK2HrpCmzxrMUniKoFhUR) | 3:37 | 2023-10-19 | 2023-11-21 |
 | [De hade vart slut](https://open.spotify.com/track/5DpRttmHx6XejVWeGjO7D5) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [De hade vart slut](https://open.spotify.com/album/4oQfgrS3iJgbxDMbuPoqOJ) | 2:53 | 2023-10-19 | 2023-10-22 |
 | [Dead Man Walking](https://open.spotify.com/track/5X4EeFwgG6YYzU7xRt96RH) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Dead Man Walking](https://open.spotify.com/album/1gW2Nl2haUPLXN2FNHVpsb) | 2:57 | 2023-09-21 |  |
 | [Dead To Me](https://open.spotify.com/track/46NwQ3pZcIJdBL3Oh7R6D3) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [Valentino](https://open.spotify.com/album/2HAQenAv2djFjcu5Qpv1GD) | 3:19 | 2023-10-19 | 2023-11-17 |
@@ -384,7 +384,7 @@
 | [Iconic](https://open.spotify.com/track/4oVWH6Jo0vpDY3qusXMj5w) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Iconic](https://open.spotify.com/album/2odTVHhrNcmaKYnoiQ46yP) | 2:28 | 2022-10-28 | 2023-02-01 |
 | [Idiot](https://open.spotify.com/track/1K60A6axKbeTgDMzaoOgri) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Alla gör slut \(pt\. 1\)](https://open.spotify.com/album/4ODsYIvXJVM9pvUA3HJUQo) | 2:58 | 2021-12-16 | 2022-01-04 |
 | [Idén om oss](https://open.spotify.com/track/51KeFicZrswYfj2BxvOP3Z) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Idén om oss](https://open.spotify.com/album/0XBIH0lWaW3vHIrtQ2jx2L) | 2:38 | 2021-12-16 | 2022-03-11 |
-| [If you wanna](https://open.spotify.com/track/68Qmy9oN1WZ0ytvKNlKPaE) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [If you wanna](https://open.spotify.com/album/5KHjG4kPN8WwTYWae6sQ8n) | 3:09 | 2023-10-19 |  |
+| [If you wanna](https://open.spotify.com/track/68Qmy9oN1WZ0ytvKNlKPaE) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [If you wanna](https://open.spotify.com/album/5KHjG4kPN8WwTYWae6sQ8n) | 3:09 | 2023-10-19 | 2023-11-21 |
 | [Imagine](https://open.spotify.com/track/6negLw2oP4RRS9mQJPKXM6) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Imagine](https://open.spotify.com/album/6hvg6l17kva8IRQBe6mgS6) | 3:12 | 2023-06-22 | 2023-10-20 |
 | [In i dimman](https://open.spotify.com/track/095zAxJmG96ap3ol3zVRZs) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [In i dimman](https://open.spotify.com/album/28RPgvITk9r0msUN8PVJVX) | 2:53 | 2022-03-04 | 2022-03-18 |
 | [In The End](https://open.spotify.com/track/3UGZ9VUAZAJeIN1p0V7v8j) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [In The End](https://open.spotify.com/album/3Yp86nU21Kw0lMSBCL8iwO) | 3:18 | 2022-03-10 | 2022-04-21 |
@@ -500,6 +500,7 @@
 | [Minnet Av Ett Hav](https://open.spotify.com/track/17xpeHftsvBZRt9OYfNZ00) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Minnet Av Ett Hav](https://open.spotify.com/album/7KWH3xa5MMcXvqW4CgnxMd) | 3:46 | 2021-12-16 | 2022-04-02 |
 | [Misemotional](https://open.spotify.com/track/02veTwzG1FDUKtcFzpC9mJ) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Misemotional](https://open.spotify.com/album/0EtJROuWrnhxRTm1EjH9RK) | 3:34 | 2023-10-19 |  |
 | [Miss The Party](https://open.spotify.com/track/1u70gXN0eulrXoeZEiIXyv) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu), [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Learning Experience](https://open.spotify.com/album/2oFo9ugJ7G6jRAGh1uX3Wp) | 3:12 | 2022-04-07 | 2023-05-08 |
+| [Missing you](https://open.spotify.com/track/3uUk6gJUmXKjO4m7igBk3X) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Missing you](https://open.spotify.com/album/2X2E6TWZTDGTsWeCJ3NFvn) | 2:06 | 2023-11-16 |  |
 | [Missing You Sucks](https://open.spotify.com/track/57zslQlwkYyVqErssPWDvA) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Missing You Sucks](https://open.spotify.com/album/4MPVizOXoqdsmdxdFxY0dv) | 2:58 | 2022-02-05 | 2022-04-02 |
 | [Misstag i Moskva](https://open.spotify.com/track/0cbBsBCCLSgUYJfqxeW2qJ) | [Mares](https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC) | [Misstag i Moskva](https://open.spotify.com/album/36IuR33vblBXxjSHw6rcYK) | 3:26 | 2021-12-16 | 2022-04-01 |
 | [Mitt hjärta blöder \- Spotify Studio It’s Hits Recording](https://open.spotify.com/track/1qGPIV4FDsZAmhdrTkIU5G) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Mitt hjärta blöder \- Spotify Studio It’s Hits Recording](https://open.spotify.com/album/1IjSZcNfQQ7eVLvvGycnkL) | 2:57 | 2021-12-16 | 2022-03-11 |
@@ -770,6 +771,7 @@
 | [The Way You Had Me](https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [The Way You Had Me](https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri) | 3:10 | 2023-08-17 |  |
 | [THERAPY](https://open.spotify.com/track/3ijEcYXQWIKn2Ndx0jubx2) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [THERAPY](https://open.spotify.com/album/3CBtXeUWfk0aRCx6Ri5YQU) | 3:17 | 2023-10-05 |  |
 | [Thin](https://open.spotify.com/track/36DjnovGfaU6tWduDb0skt) | [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Thin](https://open.spotify.com/album/1AmKGq5TXiKTxYrEAe5KQn) | 3:33 | 2022-03-10 | 2022-04-02 |
+| [Third strike](https://open.spotify.com/track/5lXZPdOi7mGABQPEKJ8qG5) | [Takida](https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW) | [Third strike](https://open.spotify.com/album/7h303GqBrFucrhaLiOSmzG) | 3:07 | 2023-11-16 |  |
 | [THRILLER \(with Clara Mae\)](https://open.spotify.com/track/0rFAE6PNRKkw4b6nxCK7b1) | [DREAMDNVR](https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [THRILLER \(with Clara Mae\)](https://open.spotify.com/album/6fYCA4iunXPtY9JnLhNeZE) | 2:41 | 2023-04-20 | 2023-09-09 |
 | [Through The Fire](https://open.spotify.com/track/2ML88ePNxtALsVHzg3rLjK) | [Alex Alexander](https://open.spotify.com/artist/1mJucMwGjnCatEdVk9eedj) | [Through The Fire](https://open.spotify.com/album/5ys0NYUklEi3HDxZASpbaf) | 3:53 | 2022-09-15 | 2023-06-23 |
 | [Tiden rinner iväg](https://open.spotify.com/track/7JxgJn1DCftAEZim7e5gPc) | [Mona Masrour](https://open.spotify.com/artist/087cmrx63FD1wMFuYBN9gt) | [Tiden rinner iväg](https://open.spotify.com/album/1yVbNhW1AHwDGQdbzVRKD2) | 2:59 | 2022-12-01 | 2023-01-23 |

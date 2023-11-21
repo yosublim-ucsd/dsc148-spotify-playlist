@@ -411,6 +411,24 @@
     },
     {
       "album": {
+        "name": "los mejores a\u00f1os",
+        "url": "https://open.spotify.com/album/5sQ55TNYqcvtk4VMpx91Kl"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221960,
+      "name": "Blanco y Negro",
+      "url": "https://open.spotify.com/track/7M8i0g4Ls8w3JCOwTChnkD"
+    },
+    {
+      "album": {
         "name": "Break",
         "url": "https://open.spotify.com/album/0ZDZYvpfOogYbs4rTsGOW6"
       },
@@ -2164,7 +2182,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 150428,
       "name": "Quiero Q Me Tat\u00faes",
       "url": "https://open.spotify.com/track/2kZCcJFVywOHv5VJrEWlJJ"

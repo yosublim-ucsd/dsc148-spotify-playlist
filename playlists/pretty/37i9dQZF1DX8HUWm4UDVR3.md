@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Eddy de Pretto
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,295 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,318 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 49 | [Envie de toi](https://open.spotify.com/track/1zbEXE5iszVEJbalOERHTp) | [Charlie Motto](https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb) | [Envie de toi](https://open.spotify.com/album/3ZvaIqyBibuSGTINRkeUvM) | 3:00 |
 | 50 | [Nuits bleues](https://open.spotify.com/track/14V0agAxlMODImJusOV3dC) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Nuits bleues](https://open.spotify.com/album/1f5u4egw7dLFkDcXnhqkhW) | 2:36 |
 
-Snapshot ID: `MCw0NTk4ZjIxNDUwNDY2NzQwMWYwMDI1NjJlMmIzNTUyZDcyYmM3NmYw`
+Snapshot ID: `MCwwMzBkYjE3Y2JhZTI0ZWE1NzVjMjEwMzE0MDdjMGEyYzZmOWRkYzI0`

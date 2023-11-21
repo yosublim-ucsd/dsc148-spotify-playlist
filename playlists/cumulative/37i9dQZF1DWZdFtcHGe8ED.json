@@ -272,7 +272,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 183266,
       "name": "Agents of Steel",
       "url": "https://open.spotify.com/track/7vhN8nkLJKIlQIfhp6gkuE"
@@ -2084,6 +2084,24 @@
       "duration_ms": 283386,
       "name": "Extreme Aggression",
       "url": "https://open.spotify.com/track/4iP6rp4XyLdh4zxORd0Tnq"
+    },
+    {
+      "album": {
+        "name": "Extreme Aggression",
+        "url": "https://open.spotify.com/album/5aqF2FuhCmFa3AGg8mLFON"
+      },
+      "artists": [
+        {
+          "name": "Kreator",
+          "url": "https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283466,
+      "name": "Extreme Aggression",
+      "url": "https://open.spotify.com/track/1kGGgsepNQzIw3ObRl4NC2"
     },
     {
       "album": {

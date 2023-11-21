@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 
 > Pop hits in the making! Cover: Amy Shark
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,612 likes - 78 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,621 likes - 78 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDblu798Pk.md) - [plain]
 | 77 | [Upgraded](https://open.spotify.com/track/2dS7bENqIUpJzF5d2TpEbl) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Positive Spin](https://open.spotify.com/album/0JgrsEfBVs4xoD6O5YVaQR) | 3:33 |
 | 78 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 |
 
-Snapshot ID: `MCw2NjhkMDgxMjE3ZWE1NmU2YmU1MGIzMTZlZTk2ZTE3NTIyMTE4NjQw`
+Snapshot ID: `MCwyNDliZDMzNWI4NDY1MDNlNWJiOTA3M2NiMDMwNTc0YjJmZjg2ZjU5`

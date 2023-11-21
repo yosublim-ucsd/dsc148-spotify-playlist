@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits ! Photo : Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,502 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,964 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 59 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 |
 | 60 | [Les petites gens \- Radio Edit](https://open.spotify.com/track/0xULefKNTqOSzZQK7CJznN) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Rose des vents](https://open.spotify.com/album/1NDL8FBENqOHbkcrmDmA0e) | 3:33 |
 
-Snapshot ID: `MCxjYjcxYTY0MThkNjU4OTc1MGNhZTQyMTJiMWFkM2RjNzY3NGEyM2I2`
+Snapshot ID: `MCwzM2U5ZDM2YWZlYTA2NDA5MzEyM2Y0ODhmOGI3YTc1YzYzYThmNDZm`

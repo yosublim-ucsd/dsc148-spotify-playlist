@@ -4,7 +4,7 @@
 
 > Skifoan und Hüttenabriss.
 
-93 songs - 4 hr 43 min
+94 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Mann für Amore \- Single Mix](https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Von Herzen](https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC) | 3:52 | 2023-09-18 |  |
 | [Abfahrt](https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD) | [Dorfdisko](https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL) | 3:26 | 2023-07-14 |  |
 | [Anna\-Lena](https://open.spotify.com/track/5NTiHVwhx2FpUsuSbgkDGE) | [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Deejay Matze](https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4) | [Anna\-Lena](https://open.spotify.com/album/2NQEW9DajvxCNWSyj0eS5d) | 3:00 | 2023-07-14 |  |
+| [Anton aus Tirol](https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj) | [Anton](https://open.spotify.com/artist/4CZLoCIZfFOPmv2GRYMzjw), [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Das Album](https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1) | 3:49 | 2023-11-14 |  |
 | [Arielle](https://open.spotify.com/track/0fy3cqUm8msuhJg7k43yh2) | [Julian Sommer](https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ), [Lorenz Büffel](https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai) | [Arielle](https://open.spotify.com/album/4EXFZVB4injyDGnD86Z77z) | 3:25 | 2023-07-14 |  |
 | [Atemlos durch die Nacht](https://open.spotify.com/track/1cSXzDZt8vzuUp2XREQEJN) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [Farbenspiel](https://open.spotify.com/album/7MTjxNeS3N8XNuUm4BxjSx) | 3:39 | 2023-07-14 |  |
 | [Auf dem Besen an den Tresen](https://open.spotify.com/track/4z57csWGtiNCLzxBMsnIDU) | [Milla Pink](https://open.spotify.com/artist/3SPz8uSbGWbwUF6zWGUpJ5) | [Auf dem Besen an den Tresen](https://open.spotify.com/album/47ih6wlWo3moVGDo6EiwuH) | 3:02 | 2023-08-28 |  |
@@ -65,7 +66,7 @@
 | [Layla](https://open.spotify.com/track/3ujiq7yK4Uan5z4876fHLK) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Layla](https://open.spotify.com/album/6CL5pcCUiPeuKmI9U630l4) | 3:05 | 2023-07-14 |  |
 | [Lea](https://open.spotify.com/track/02AnxXaXzxredcMjjb26U0) | [Bierkapitän](https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD), [Andy Luxx](https://open.spotify.com/artist/09Mknlo1aOXbEtxUD41wH2), [Dj Aaron](https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ) | [Lea](https://open.spotify.com/album/7DpARaNJn5iLOKGVANTSsq) | 2:39 | 2023-07-14 |  |
 | [Mallelelele](https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT) | [Rumbombe](https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Mallelelele](https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb) | 2:13 | 2023-07-28 |  |
-| [Mallorca mein Löwe mein Bär](https://open.spotify.com/track/2qSXEdg96v16ADGQIEYanx) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Mallorca mein Löwe mein Bär](https://open.spotify.com/album/6aFOTAq33CiEgH1irnDAB1) | 2:56 | 2023-08-28 |  |
+| [Mallorca mein Löwe mein Bär](https://open.spotify.com/track/2qSXEdg96v16ADGQIEYanx) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Mallorca mein Löwe mein Bär](https://open.spotify.com/album/6aFOTAq33CiEgH1irnDAB1) | 2:56 | 2023-08-28 | 2023-11-21 |
 | [Mama Laudaaa](https://open.spotify.com/track/1RcWWgnw5fVm3wcNq11zBu) | [Almklausi](https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK), [Specktakel](https://open.spotify.com/artist/1ErIf1pAAaw5upKsCbqhzz) | [Mama Laudaaa](https://open.spotify.com/album/4yWhxiH0UB3A6jfr0ZLe4v) | 3:35 | 2023-07-14 |  |
 | [Mannschaftsfahrt](https://open.spotify.com/track/4VDJ1wK7eszdBpWGvDV3Tc) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [Julian Benz](https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp), [Malin Brown](https://open.spotify.com/artist/40wyS6jSrnAlcl9xBbCVnA) | [Mannschaftsfahrt](https://open.spotify.com/album/55VymWungTBtByJ89fhnJD) | 2:48 | 2023-07-14 |  |
 | [Marie](https://open.spotify.com/track/1vCEGctxBKGxWeMS46cCoe) | [Die Draufgänger](https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV) | [Marie](https://open.spotify.com/album/4mcC9YpL3rtRWUDpGPE2XP) | 3:20 | 2023-10-20 |  |

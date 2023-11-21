@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Alan Troy\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,790 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,783 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 18 | [En Vela \- Acústico](https://open.spotify.com/track/3fmmQIEmOSEfA57ZUpvktt) | [Champ Jr.](https://open.spotify.com/artist/4VQ1gn6ljyT8pVQKjZbgRr) | [En Vela \(Acústico\)](https://open.spotify.com/album/4FxEYzjCW9IrDE7NoU7nAa) | 2:57 |
 | 19 | [falco](https://open.spotify.com/track/1x6TYpJ3IfpEnfWOIuznkV) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [road 2 neverland](https://open.spotify.com/album/1c6VYaOgWJtYX7emSWJNp8) | 3:29 |
 | 20 | [No es lo que toca](https://open.spotify.com/track/67gsCMp4LRQAq9Bd3KYm2x) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [No es lo que toca](https://open.spotify.com/album/1swSU1LUZjh5tj9Qe9u7s5) | 2:32 |
-| 21 | [Jardín](https://open.spotify.com/track/394fdiSv97RDJy2lIxTL9v) | [Teo Bok](https://open.spotify.com/artist/54HTLyYHg8qHdZTPLtAo7r) | [Jardín](https://open.spotify.com/album/4zLn1jP6DyndmlMalVm8Rk) | 2:24 |
-| 22 | [Cumbia Espectro \- DUSU Remix](https://open.spotify.com/track/1NRhtJ7VQy55WJC9R6J2sb) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv), [DUSU](https://open.spotify.com/artist/2C6vqUrtXufvoUk5iwJ2KX) | [Cumbia Espectro \(DUSU Remix\)](https://open.spotify.com/album/3VRV4d2vD0hgiMIhlA9GGw) | 5:06 |
+| 21 | [Cumbia Espectro \- DUSU Remix](https://open.spotify.com/track/1NRhtJ7VQy55WJC9R6J2sb) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv), [DUSU](https://open.spotify.com/artist/2C6vqUrtXufvoUk5iwJ2KX) | [Cumbia Espectro \(DUSU Remix\)](https://open.spotify.com/album/3VRV4d2vD0hgiMIhlA9GGw) | 5:06 |
+| 22 | [Jardín](https://open.spotify.com/track/394fdiSv97RDJy2lIxTL9v) | [Teo Bok](https://open.spotify.com/artist/54HTLyYHg8qHdZTPLtAo7r) | [Jardín](https://open.spotify.com/album/4zLn1jP6DyndmlMalVm8Rk) | 2:24 |
 | 23 | [Contestador](https://open.spotify.com/track/5Vm8mIKlvaNwdO3hu4AIir) | [Malbo](https://open.spotify.com/artist/0D3sglhi3aAhEHHF5E20fm), [AhoraDimeLu](https://open.spotify.com/artist/3s2IhfIEXwFDoWfUfyr5mq) | [Contestador](https://open.spotify.com/album/0BACSXG1wUu05i7Jo6FK4B) | 3:09 |
 | 24 | [Dama](https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Dama](https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru) | 3:46 |
 | 25 | [¿Así Que Te Gusta Hacerte El Lou Reed?](https://open.spotify.com/track/3tv2PAwZArvekOqHojdsFo) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [El Sonido Del Éxtasis](https://open.spotify.com/album/1W8z2q9AdSAC9nzLOITY0N) | 4:05 |
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 31 | [Una historia que contar](https://open.spotify.com/track/0T3y7Z7Nx4RMPJH1L594EZ) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [Una historia que contar](https://open.spotify.com/album/2DTN8LKAtN4SqPHzAgh1vk) | 3:06 |
 | 32 | [Nada va a quedar](https://open.spotify.com/track/7JSuVdzogccF5zuudGEZAo) | [Jorge Prada](https://open.spotify.com/artist/7MNJy93yO4MA7MWAzfAMGo) | [Nada va a quedar](https://open.spotify.com/album/64zQT3GwCnWEDzvkVBRFaF) | 2:43 |
 | 33 | [Drowning](https://open.spotify.com/track/3oa7Q4VLpv9YYbpp741qih) | [Adrie](https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto) | [Motel Kilomango](https://open.spotify.com/album/2Et2imBWvYQ8XJYrBbwsqp) | 2:53 |
-| 34 | [Aire.](https://open.spotify.com/track/69iMg2FY6RPtF84ilGrkRB) | [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP) | [Si yo sé hablar es por ti](https://open.spotify.com/album/3SWn0kBDOKFxwYHB2JUTEe) | 3:48 |
-| 35 | [Apocalíptico](https://open.spotify.com/track/3jpi95EBQXXKTdd510DQBe) | [Sofia Lafuente](https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9) | [Apocalíptico](https://open.spotify.com/album/0kFnFOhodIwr3UY0f2JQXn) | 3:17 |
+| 34 | [Apocalíptico](https://open.spotify.com/track/3jpi95EBQXXKTdd510DQBe) | [Sofia Lafuente](https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9) | [Apocalíptico](https://open.spotify.com/album/0kFnFOhodIwr3UY0f2JQXn) | 3:17 |
+| 35 | [Aire.](https://open.spotify.com/track/69iMg2FY6RPtF84ilGrkRB) | [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP) | [Si yo sé hablar es por ti](https://open.spotify.com/album/3SWn0kBDOKFxwYHB2JUTEe) | 3:48 |
 | 36 | [Ya Se Fue](https://open.spotify.com/track/6JQ3tU4PwJr51FW9YRKq43) | [Gonzalo Brancciari](https://open.spotify.com/artist/2kvcov0e0ppYAVU5NywB2x) | [Ya Se Fue](https://open.spotify.com/album/6SFW7nOwBJK61hJLnfU2PX) | 2:50 |
 | 37 | [¿Quién Fue?](https://open.spotify.com/track/7BSxbFNHZr4Zl5GXb2d8dy) | [Calisur](https://open.spotify.com/artist/26qAmOvljJQWP1TK2zK7qS) | [¿Quién Fue?](https://open.spotify.com/album/0pnIgEH1xMkp1RB1BBKi2H) | 2:38 |
-| 38 | [Evil Dead](https://open.spotify.com/track/0ZyrbgosyeinetxLfJ31Lu) | [Justo Antes de la Guerra con los Esquimales](https://open.spotify.com/artist/0E8okIJZJy58uvxYajtFor) | [Evil Dead](https://open.spotify.com/album/4zlAqUr4qS76Ci1BeEawVr) | 2:55 |
-| 39 | [No llamaste](https://open.spotify.com/track/3Ai0LAvak9jRvvNiNav1dr) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [No llamaste](https://open.spotify.com/album/1VybcvZTjsmeh2YTcIQF5H) | 3:54 |
-| 40 | [the homesick song](https://open.spotify.com/track/3bnDb8pF6JHDPmiguP7kEY) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [the homesick song](https://open.spotify.com/album/44zlKZzMSMxv3zyPdnDa2T) | 3:04 |
-| 41 | [el gil](https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7) | [Camarú](https://open.spotify.com/artist/36yItyZJx0Tw3OpFQADb8z) | [el gil](https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD) | 4:32 |
-| 42 | [Limón](https://open.spotify.com/track/3k5ZMjRq5zffP96YHCgPNn) | [Mister Monk](https://open.spotify.com/artist/4QvxrhdsNDesKqrfGpX24Q) | [Limón](https://open.spotify.com/album/6lAhiTHG3kXbI3i028N3oa) | 2:23 |
-| 43 | [Tattoo](https://open.spotify.com/track/3JOaWtqZIoilfjtcDe1Qzb) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Tattoo](https://open.spotify.com/album/0N8VLr0WiDxkexS9wLr6f0) | 2:18 |
+| 38 | [No llamaste](https://open.spotify.com/track/3Ai0LAvak9jRvvNiNav1dr) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [No llamaste](https://open.spotify.com/album/1VybcvZTjsmeh2YTcIQF5H) | 3:54 |
+| 39 | [Evil Dead](https://open.spotify.com/track/0ZyrbgosyeinetxLfJ31Lu) | [Justo Antes de la Guerra con los Esquimales](https://open.spotify.com/artist/0E8okIJZJy58uvxYajtFor) | [Evil Dead](https://open.spotify.com/album/4zlAqUr4qS76Ci1BeEawVr) | 2:55 |
+| 40 | [el gil](https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7) | [Camarú](https://open.spotify.com/artist/36yItyZJx0Tw3OpFQADb8z) | [el gil](https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD) | 4:32 |
+| 41 | [the homesick song](https://open.spotify.com/track/3bnDb8pF6JHDPmiguP7kEY) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [the homesick song](https://open.spotify.com/album/44zlKZzMSMxv3zyPdnDa2T) | 3:04 |
+| 42 | [Tattoo](https://open.spotify.com/track/3JOaWtqZIoilfjtcDe1Qzb) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Tattoo](https://open.spotify.com/album/0N8VLr0WiDxkexS9wLr6f0) | 2:18 |
+| 43 | [Limón](https://open.spotify.com/track/3k5ZMjRq5zffP96YHCgPNn) | [Mister Monk](https://open.spotify.com/artist/4QvxrhdsNDesKqrfGpX24Q) | [Limón](https://open.spotify.com/album/6lAhiTHG3kXbI3i028N3oa) | 2:23 |
 | 44 | [Estrella](https://open.spotify.com/track/4COmqB89xOVYDmn61wSM1c) | [Caws DGP](https://open.spotify.com/artist/09Pc2WJtZqREapbEbn40xd) | [Estrella](https://open.spotify.com/album/5k6JbuPTyD8TMeAukHVNpy) | 2:39 |
 | 45 | [Yo nunca te dejo de amar](https://open.spotify.com/track/2vpJ7cjkfTf6hBFEZmRtr6) | [Mueres en el mar](https://open.spotify.com/artist/7nDRCrPWyorRS27T7fMJKe), [SCD](https://open.spotify.com/artist/3RNW1BijjM21MXFDIca2nJ) | [El Canto de Todas \- Concurso Scottie Scott, Vol\. 5](https://open.spotify.com/album/7ow3h7qhk2HFNvKAAfiVfO) | 3:23 |
 | 46 | [Esa Mirada](https://open.spotify.com/track/4yi0kfcsQ2rmv80YmPjeEz) | [Sónico Vivo](https://open.spotify.com/artist/4gKGHKgKXprf8kvRCmcrpe) | [Esa Mirada](https://open.spotify.com/album/7zduZ2xm5zwl6EN4ZgqvWs) | 3:18 |
 | 47 | [Dancing On My Own](https://open.spotify.com/track/3TjbbftuoUzgLTEO9PQZNC) | [Nikki Fölk](https://open.spotify.com/artist/1IqDQ0QXIztvieg3qzs3l8) | [Dancing On My Own](https://open.spotify.com/album/5ssQifWkrp5GngAIX7Of6A) | 3:32 |
-| 48 | [Sebastian](https://open.spotify.com/track/3SSxawk0oNwp0QPHiDvgvK) | [ZEEVA](https://open.spotify.com/artist/5c7xVgAzKeYYrYnKTrHELH), [xKori](https://open.spotify.com/artist/7482JBrvZ3ILAr4vVigQvI) | [Sebastian](https://open.spotify.com/album/5fQIyRR1iWaIsZSHNfI3he) | 3:16 |
-| 49 | [Ayer](https://open.spotify.com/track/4YTOFkHCSED65DBPGGGwtk) | [LUR](https://open.spotify.com/artist/29EKu93j5KOjAyXGUiLuIs) | [Ayer](https://open.spotify.com/album/4s0vu5iTqHocp9zKbd2IA1) | 3:32 |
+| 48 | [Ayer](https://open.spotify.com/track/4YTOFkHCSED65DBPGGGwtk) | [LUR](https://open.spotify.com/artist/29EKu93j5KOjAyXGUiLuIs) | [Ayer](https://open.spotify.com/album/4s0vu5iTqHocp9zKbd2IA1) | 3:32 |
+| 49 | [Sebastian](https://open.spotify.com/track/3SSxawk0oNwp0QPHiDvgvK) | [ZEEVA](https://open.spotify.com/artist/5c7xVgAzKeYYrYnKTrHELH), [xKori](https://open.spotify.com/artist/7482JBrvZ3ILAr4vVigQvI) | [Sebastian](https://open.spotify.com/album/5fQIyRR1iWaIsZSHNfI3he) | 3:16 |
 | 50 | [¿A qué le tiras?](https://open.spotify.com/track/5YdurFSX0XI9LSEBWFPDbl) | [Feelder](https://open.spotify.com/artist/5hlVR9GtWAmGrx9GLJhHxr) | [¿A qué le tiras?](https://open.spotify.com/album/3MQyQ487oNDMIbv2uO2maE) | 1:48 |
 
 Snapshot ID: `MCw3NDRkZmM4MjVmNTMxZTQwOThhNDE0M2M4YjZjNzU5NmViMjYwYTEx`

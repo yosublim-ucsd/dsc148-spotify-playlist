@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "Make E No Cause Fight 3",
+        "url": "https://open.spotify.com/album/0KL40ckvFn3gRSiPWLZJ56"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171272,
+      "name": "42",
+      "url": "https://open.spotify.com/track/2Kui4WxXbqrxVO7q0H1XBA"
+    },
+    {
+      "album": {
         "name": "500 DEGREES",
         "url": "https://open.spotify.com/album/12DMWu6jgeqicdxuJcb75A"
       },
@@ -3406,7 +3428,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 124751,
       "name": "MINISKIRT",
       "url": "https://open.spotify.com/track/7FPWS5kOCG1aLxsbQ9RmU0"
@@ -4020,6 +4042,28 @@
       "duration_ms": 135000,
       "name": "O Di Dan Dan",
       "url": "https://open.spotify.com/track/4Acj2QINn1T6kewzEmQKZu"
+    },
+    {
+      "album": {
+        "name": "Offer",
+        "url": "https://open.spotify.com/album/50F4J1EHs1IncMSPztq6yJ"
+      },
+      "artists": [
+        {
+          "name": "PDSTRN",
+          "url": "https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv"
+        },
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124983,
+      "name": "Offer",
+      "url": "https://open.spotify.com/track/4ogJO1FCRzu1mbYJ5ykHzG"
     },
     {
       "album": {
@@ -5468,7 +5512,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 202080,
       "name": "Speak In Tongues",
       "url": "https://open.spotify.com/track/0eaY230Y03z4AI2OApMFgn"

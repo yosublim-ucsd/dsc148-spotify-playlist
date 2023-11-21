@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 
 > Buon Appetito!
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,454 likes - 54 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,528 likes - 54 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 | 32 | [Parlami d'amore, Mariù](https://open.spotify.com/track/2wjwzY4BFijBxmnV5b2y2x) | [Cesare Andrea Bixio](https://open.spotify.com/artist/4M5Ttp109RCi5lxSFFiprS), [Giuseppe Di Stefano](https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj), [Dino Olivieri](https://open.spotify.com/artist/0SZKROPnqEzefRAqIKmhr5) | [Giuseppe di Stefano: Italy](https://open.spotify.com/album/71l2dJapVmI1TCIv0CABen) | 3:13 |
 | 33 | [E Rrose Parlano](https://open.spotify.com/track/3gv3DtiBiTWsVrorvJjyH5) | [Jimmy Roselli](https://open.spotify.com/artist/7IbQOrbuDPJu0mac9pDwf3) | [Aggio Perduto O Suonno](https://open.spotify.com/album/76U9nf3gDjcAv4ZNbyC4rN) | 4:12 |
 | 34 | [Arrivederci Roma](https://open.spotify.com/track/5hFzGBJ7nhYHg8IZ5oTYdu) | [Sergio Franchi](https://open.spotify.com/artist/3afJ7ksCTA53PwM233jIf8) | [This Is Sergio Franchi](https://open.spotify.com/album/7MAb4ipqNcHCYSZalRCqbY) | 3:23 |
-| 35 | [This Is Heaven](https://open.spotify.com/track/08XE9DL4G4nB21QgHEkeaT) | [Julius LaRosa](https://open.spotify.com/artist/7eYjNm8FZWh2E7MPw7uHaJ) | [Julius LaRosa](https://open.spotify.com/album/36Amo3vFBVrwGlXq7OUCnT) | 3:08 |
+| 35 | [This Is Heaven](https://open.spotify.com/track/66Uu4Q9Qoili64BplPb2k5) | [Julius LaRosa](https://open.spotify.com/artist/7eYjNm8FZWh2E7MPw7uHaJ) | [Julius LaRosa](https://open.spotify.com/album/0prrVNzAxOL57e4AnuXY7R) | 3:08 |
 | 36 | [Città vuota](https://open.spotify.com/track/4LrFMFEu8tc8DKm4VXGnJd) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Studio Uno](https://open.spotify.com/album/4kOeOxOX8Jr1wCgEQr7M3C) | 2:38 |
 | 37 | [It's Not For Me To Say](https://open.spotify.com/track/4lFXv6eBek6kEiGYzh2mH2) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [Johnny's Greatest Hits](https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1) | 3:05 |
 | 38 | [Buona Sera \- Remastered 1999](https://open.spotify.com/track/0jbrk06CS9siNsEcx6CgCD) | [Louis Prima & Keely Smith](https://open.spotify.com/artist/1VNfHD8QBVfKnAeHUh42jv), [Sam Butera & The Witnesses](https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV) | [Wild, Cool & Swingin'](https://open.spotify.com/album/2xmfLSGLoJqHOSpfLSXLfM) | 2:59 |
-| 39 | [Domani \(Tomorrow\)](https://open.spotify.com/track/5GFLCzdy1DH9V5pGlpItJY) | [Julius LaRosa](https://open.spotify.com/artist/7eYjNm8FZWh2E7MPw7uHaJ) | [Julia LaRosa's Best](https://open.spotify.com/album/20kqgNb3tLmqH3f6hoHCvN) | 2:34 |
+| 39 | [Domani \(Tomorrow\)](https://open.spotify.com/track/250NogchyXPWsQ5H81IDyS) | [Julius LaRosa](https://open.spotify.com/artist/7eYjNm8FZWh2E7MPw7uHaJ) | [Julia LaRosa's Best](https://open.spotify.com/album/0l95EqzNXdV1rJnFuhyx1o) | 2:34 |
 | 40 | [The Pleasure Of Her Company](https://open.spotify.com/track/5KdkuAfOa5QA2eEYccxLD1) | [Vic Damone](https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g) | [16 Most Requested Songs](https://open.spotify.com/album/3BKBbOThU1jKTqirqDkSok) | 3:12 |
 | 41 | [Maruzzella](https://open.spotify.com/track/232OpLFVugkwN7obgpqMKJ) | [Giacomo Rondinella](https://open.spotify.com/artist/4tqoMRYZ4gXsSTbvvZcnzT) | [Santa Lucia luntana](https://open.spotify.com/album/2jFkOsOmnnhFIOLgG1eJVo) | 2:53 |
 | 42 | [Mambo Italiano \(with The Mellomen\) \- 78rpm Version](https://open.spotify.com/track/0QoV9nLBwYEU1bA6m61h4F) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [The Mellomen](https://open.spotify.com/artist/548L4DXlt7N14Mhbfdmdqq) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 2:29 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 | 53 | [Sapore di sale](https://open.spotify.com/track/3DAFQyYYpTDEuChTS8eTU7) | [Gino Paoli](https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH) | [Basta Chiudere Gli Occhi](https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j) | 3:34 |
 | 54 | [Italian Night](https://open.spotify.com/track/7kQJ5znmZV3jLpcNDQE0xR) | [The New Italian Ensemble](https://open.spotify.com/artist/6dxVfmnDCABARibSSrtqRI) | [Welcome Home](https://open.spotify.com/album/0QsSFqGdbReLFAWwKdQIhS) | 3:33 |
 
-Snapshot ID: `MCxlYjkxOWRmYTZkMmEyMmQwZTk5YTEyYTIzNTlhNzRjMGRmNGE3ODQw`
+Snapshot ID: `MCxlNDUyMzZlMTM3NzM0OTk0OGRhNGIyNWY3OGVmNzFlMWQ3YjkyZWY3`

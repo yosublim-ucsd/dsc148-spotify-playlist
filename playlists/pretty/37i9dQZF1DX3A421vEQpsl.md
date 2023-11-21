@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 
 > Hits, repackaged by Bollywood\. Cover \- Badrinath Ki Dulhania
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,203 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,268 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 | 49 | [Jaane Jaan \- Title Track \(From "Jaane Jaan"\)](https://open.spotify.com/track/5rFTcUfO3ZPztJHEmFOdvM) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Laxmikant–Pyarelal](https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax), [Rajendra Krishan](https://open.spotify.com/artist/0wfdmeqX8y9eyNIX9lV0Or) | [Jaane Jaan Title Track \(From "Jaane Jaan"\)](https://open.spotify.com/album/5xDXicz8xdAi6jvSH4BrxY) | 2:20 |
 | 50 | [JALSA 2.0 \- From "Mission Raniganj: The Great Bharat Rescue"](https://open.spotify.com/track/4OgcGtcurJBgS7H1iW7peT) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Prem & Hardeep](https://open.spotify.com/artist/4ZPpGYjIb5caOhHhQANO8P) | [JALSA 2.0 \(From "Mission Raniganj: The Great Bharat Rescue"\)](https://open.spotify.com/album/0nUDc18ivjvaNEGh7iJKck) | 3:16 |
 
-Snapshot ID: `MCxhY2JmNGY5NTNhMjhhODZkOTRmMDk4M2VmMzU1ZWZhNmQ4ODRkZGQ1`
+Snapshot ID: `MCw0YzA0NDEwZTg1NGQ5YWE1NWFkZGZmOWIzMjA1ZjVhZjM3NDQ0MDEz`

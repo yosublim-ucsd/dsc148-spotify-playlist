@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Sierra Ferrell
 
-347 songs - 21 hr 42 min
+350 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,8 @@
 | [Brothers In Arms](https://open.spotify.com/track/3ZsnSNgC39IY4uv5mjBoqG) | [Hayde Bluegrass Orchestra](https://open.spotify.com/artist/5L3ac0hlDxpbLBj3oQq3Ly) | [Brothers In Arms](https://open.spotify.com/album/0p55SLTNdHVLFTXWcJa3ly) | 4:21 | 2023-10-16 |  |
 | [Build Me Up From Bones](https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Build Me Up From Bones](https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK) | 3:36 | 2022-01-21 | 2023-05-16 |
 | [Bulleit Blues](https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children](https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl) | 1:31 | 2022-07-22 | 2023-06-17 |
+| [Burn Me Once \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/1wB4su0ngpr8Rnh96So3vJ) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:20 | 2023-11-20 |  |
+| [Bury Me Beneath The Willow \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/147jTPnoWjZnbF6r7NFnsI) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:42 | 2023-11-20 |  |
 | [Buster](https://open.spotify.com/track/3JuZ7dCqgOyqlLQDVAHzGO) | [The Unseen Strangers](https://open.spotify.com/artist/4O4HVTZ4M1Lu75se3koB9Y) | [Stranger Places](https://open.spotify.com/album/7GAkV3WjOY16QsH2bPBdBp) | 3:29 | 2021-10-01 | 2023-01-14 |
 | [By and By](https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 4:40 | 2022-01-21 |  |
 | [Cairo](https://open.spotify.com/track/5LFPwiZYveNPRMiUJTabcC) | [Vinnie Paolizzi](https://open.spotify.com/artist/62Nt9LwkCk8t88Y0H7Ewjh) | [The Vinnie Paolizzi LP](https://open.spotify.com/album/7efeyi164NcNTYgJrhQliL) | 3:48 | 2023-11-17 |  |
@@ -340,6 +342,7 @@
 | [Wildflowers](https://open.spotify.com/track/06Csr6ofiaP6S81JYnnQtO) | [Justin Hiltner](https://open.spotify.com/artist/3kvTlQprzIXOBQsJO7rOln), [Cathy Fink](https://open.spotify.com/artist/6rsuwVUBiRAgFfczaLPYgW), [Marcy Marxer](https://open.spotify.com/artist/7rL5DXjb0BqTjvu5P6C4rO) | [Silver Dagger](https://open.spotify.com/album/5UGcLFijKx1XSVgr41x9hm) | 4:00 | 2022-10-14 | 2023-06-10 |
 | [Wind Tunnel](https://open.spotify.com/track/1nosba6oFDm3xidiQ6BTHO) | [Chandler Beavers](https://open.spotify.com/artist/0O4QuWDJqAFumy2JFr4Srv), [Alex Berman](https://open.spotify.com/artist/0JzZ4GVfbBkdFd76xCWnIr), [John Colby Elswick](https://open.spotify.com/artist/4AaLUD7b7JyGFZMzv9hD9T), [Ryan Ratliff](https://open.spotify.com/artist/38o0P0LUaF3BDtYK8f7J4U) | [Wind Tunnel](https://open.spotify.com/album/0ZGG9f1w3ZxUYUJuUe0UTg) | 5:51 | 2023-03-17 |  |
 | [Window to Break](https://open.spotify.com/track/47IbAVZZ70rfJ6bisD4OiA) | [Heather Sarona](https://open.spotify.com/artist/5cne7YJw2nterSfuPr16W0) | [Head Above Water](https://open.spotify.com/album/4YKu9a4UU97fuY55CI74aj) | 3:08 | 2022-01-28 | 2023-01-14 |
+| [Winter's Come and Gone \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/7vN6yDVTOphQUXJ1leQgPB) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 2:49 | 2023-11-20 |  |
 | [Wishes on Weeds](https://open.spotify.com/track/3VZgH2Mo2J6btWLU7kakQh) | [Shallow Alcove](https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj) | [Wishes on Weeds](https://open.spotify.com/album/0dHV7RS5fCseUrZnZjJ8MG) | 2:30 | 2023-09-15 |  |
 | [With the Tide](https://open.spotify.com/track/4N3fdgQr6zHbEdP8nvD2jP) | [Shawn Williams](https://open.spotify.com/artist/0JhmNymqmGOpg2NWfrB0Ge), [Shaun Garrison](https://open.spotify.com/artist/1Z2OjiByMjWnlDiE7SB2YR) | [With the Tide](https://open.spotify.com/album/095Yb2NOCXjfLu63lMJm5J) | 3:58 | 2022-03-11 |  |
 | [Woman of the House](https://open.spotify.com/track/0WVh3oDc5nInV5R1LV6E9b) | [Natalie MacMaster](https://open.spotify.com/artist/4ybzO54FX2pbiKx209CB0t), [Donnell Leahy](https://open.spotify.com/artist/7zFuGV4X2lsYCF2QRZOCBu), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Woman of the House](https://open.spotify.com/album/6wyu8pgazcwGxx1jJMlr1T) | 3:36 | 2023-03-03 | 2023-07-15 |

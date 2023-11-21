@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging Independent Artists in Telugu.\nCover : Damini Bhatla, Krishna Tejasvi",
-  "num_followers": 31000,
+  "num_followers": 31018,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDM1MDQxNDg0NDcxM2RjYTIzYTdhN2YxNTExMGZhZGU3NTNiNzRm",
+  "snapshot_id": "MCxkODI2MDkzNzUzMTAwNTRiYzgxZmI4NjMxYTFlMmM1NDUxNGEwZDY3",
   "tracks": [
     {
       "added_at": "2023-10-10 05:04:58",
@@ -27,6 +27,22 @@
       "duration_ms": 249642,
       "name": "Premalekha",
       "url": "https://open.spotify.com/track/5Vwh2Q1i7rgCOPlINMI4Ju"
+    },
+    {
+      "added_at": "2023-11-20 04:46:23",
+      "album": {
+        "name": "Senorita",
+        "url": "https://open.spotify.com/album/7pQCwjwozrK3RFejeLP6UA"
+      },
+      "artists": [
+        {
+          "name": "The Fantasia Men",
+          "url": "https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk"
+        }
+      ],
+      "duration_ms": 206285,
+      "name": "Senorita",
+      "url": "https://open.spotify.com/track/3sOIbX8Z78FhbGlkEyyGik"
     },
     {
       "added_at": "2023-11-07 10:28:16",
@@ -71,22 +87,6 @@
       "duration_ms": 315870,
       "name": "Gaayam",
       "url": "https://open.spotify.com/track/29s6xk3dSdZKncZ3vs8Vd3"
-    },
-    {
-      "added_at": "2023-03-06 17:50:43",
-      "album": {
-        "name": "Noi",
-        "url": "https://open.spotify.com/album/4NgYkaGqkrfceZDU9ZJM1V"
-      },
-      "artists": [
-        {
-          "name": "Phani Kalyan",
-          "url": "https://open.spotify.com/artist/2n92BmuG0DXulB6zWpiWI0"
-        }
-      ],
-      "duration_ms": 285111,
-      "name": "Noi",
-      "url": "https://open.spotify.com/track/2dgzpgnsazXnZ6j1DrbjWU"
     },
     {
       "added_at": "2023-11-16 12:05:11",
@@ -281,22 +281,6 @@
       "url": "https://open.spotify.com/track/1Y0S1FwDVaIYI9l9ekESgS"
     },
     {
-      "added_at": "2023-02-21 09:19:34",
-      "album": {
-        "name": "Andame",
-        "url": "https://open.spotify.com/album/7BP2lZYx8RrW8fICweQynt"
-      },
-      "artists": [
-        {
-          "name": "Sahithi Chaganti",
-          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
-        }
-      ],
-      "duration_ms": 208872,
-      "name": "Andame",
-      "url": "https://open.spotify.com/track/5CHTjwWyqr4uhkRWNcT3Vf"
-    },
-    {
       "added_at": "2022-07-18 06:19:46",
       "album": {
         "name": "Oorellipota Mama",
@@ -311,6 +295,26 @@
       "duration_ms": 166857,
       "name": "Oorelipota Mama",
       "url": "https://open.spotify.com/track/3lQCnKafxZtct8QfsG6jog"
+    },
+    {
+      "added_at": "2023-11-20 08:38:20",
+      "album": {
+        "name": "Unnale Nee Kosam",
+        "url": "https://open.spotify.com/album/6zodQWOGxCMYKOiYhMuhYv"
+      },
+      "artists": [
+        {
+          "name": "Kanha Mohanty",
+          "url": "https://open.spotify.com/artist/3TpKuzt672JdZX9B0NvA0D"
+        },
+        {
+          "name": "Nikki George",
+          "url": "https://open.spotify.com/artist/1cprnGfYrfsnaBT2A6QMr4"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Unnale Nee Kosam",
+      "url": "https://open.spotify.com/track/22qSRZ72otdpb4OZGe3W4k"
     },
     {
       "added_at": "2023-10-16 06:50:38",
@@ -791,30 +795,6 @@
       "duration_ms": 190800,
       "name": "Kalle Kalle",
       "url": "https://open.spotify.com/track/1jJfnXTyCJyvCfXvfR0u5K"
-    },
-    {
-      "added_at": "2023-06-20 09:45:50",
-      "album": {
-        "name": "Tamil Pilla",
-        "url": "https://open.spotify.com/album/6EShTPXWuDThVXC88fTT7p"
-      },
-      "artists": [
-        {
-          "name": "Sunny Austin",
-          "url": "https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA"
-        },
-        {
-          "name": "Chinna Swamy",
-          "url": "https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS"
-        },
-        {
-          "name": "Spoorthi Jithender",
-          "url": "https://open.spotify.com/artist/5ugSzRux2CJD4YuXJNcxad"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Tamil Pilla",
-      "url": "https://open.spotify.com/track/5fi1gKgLd5mmg3wW3KVxGm"
     },
     {
       "added_at": "2023-06-19 06:12:50",

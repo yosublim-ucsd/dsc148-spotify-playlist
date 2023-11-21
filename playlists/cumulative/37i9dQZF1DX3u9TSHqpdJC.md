@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: Georgia Lines
 
-3,227 songs - 6 day 20 hr 10 min
+3,228 songs - 6 day 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2453,6 +2453,7 @@
 | [Sh\*t People](https://open.spotify.com/track/2o5waDrBvUvW0vmZWQ7DtS) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Sh\*t People](https://open.spotify.com/album/2kWbl4QeZsNbCdLAPeV6cR) | 3:16 | 2021-08-12 | 2021-09-16 |
 | [Shadow](https://open.spotify.com/track/1aPlEVh0l7KOTG5UWeE5kj) | [AMAG](https://open.spotify.com/artist/4Rs9SGqGgto5ZNlfyfq0as) | [Shadow](https://open.spotify.com/album/2cyN42cjCvm6ohC4kPCadT) | 2:44 | 2022-01-12 | 2022-02-10 |
 | [SHADOW](https://open.spotify.com/track/2KusH57WCXaAyocRjxhItH) | [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0) | [SHADOW](https://open.spotify.com/album/2D3odp9NPYmDEj2gGyOawB) | 2:35 | 2021-02-17 | 2021-03-18 |
+| [shadow](https://open.spotify.com/track/23TMrEb1tlIS6d69CqWgoj) | [Maria Taktouk](https://open.spotify.com/artist/2TvHdalJoyN4WKZ0q1CbSE) | [shadow](https://open.spotify.com/album/6ruyv2HK7fI9u7wp1oyLTr) | 3:07 | 2023-11-20 |  |
 | [Shaggy Dynamite](https://open.spotify.com/track/60cgAlsz2BbdJF2pWEStlg) | [Billy Vena](https://open.spotify.com/artist/7EHqnGuGifQoAa3UV6qtvp) | [Shaggy Dynamite](https://open.spotify.com/album/04t1CRjivMRFCu7h1cNyvk) | 2:39 | 2021-05-06 | 2021-05-27 |
 | [SHAKE IT OFF](https://open.spotify.com/track/1BFDvPsMyBrIEG1b4FPEqM) | [Lauryn Harris](https://open.spotify.com/artist/2w4N29z2BsbOLM2y9cGbx7), [Nayome](https://open.spotify.com/artist/4fWjrJMQFDG2dG0GKUkH6m) | [PRIMA DIVA \(EP\)](https://open.spotify.com/album/50M6g246WKMAhKRn80hoo2) | 3:24 | 2023-03-08 | 2023-04-27 |
 | [Shakin' The Walls](https://open.spotify.com/track/0ydfGwyFMGmEc2zMP2nTEx) | [Phoebe Katis](https://open.spotify.com/artist/0hPB6WmY4JXhcrficlznCx), [Jon Lampley](https://open.spotify.com/artist/72owFpLlO637hnA5zZnuqP) | [Shakin' The Walls](https://open.spotify.com/album/76U8ZG34VvFqLY5RJN1YPL) | 3:15 | 2022-05-04 | 2022-06-16 |

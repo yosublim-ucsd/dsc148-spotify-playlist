@@ -2625,6 +2625,24 @@
     },
     {
       "album": {
+        "name": "s\u00f8n of dad",
+        "url": "https://open.spotify.com/album/1yoC2Wq50qymZj5HyF2z2A"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235196,
+      "name": "the devil",
+      "url": "https://open.spotify.com/track/2J8ZGmRxekNXGj9jJQWaEq"
+    },
+    {
+      "album": {
         "name": "Honeysuckle & Lightning Bugs",
         "url": "https://open.spotify.com/album/2oxv6Q0GYUkYqz2dhUKo12"
       },

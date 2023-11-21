@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Edwin Rosen
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,876 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,039 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [kontrollverlust](https://open.spotify.com/track/3RxfGOuTflKZcnjgMvRQGs) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [kontrollverlust](https://open.spotify.com/album/1XyT1LjPfmbbi6GGM9feNM) | 2:54 |
 | 2 | [Candy Crush](https://open.spotify.com/track/7zhRYYYqtKqWEtPUcc4YSF) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Candy Crush](https://open.spotify.com/album/5e2FeKsOQEjGRiHLUOfTEq) | 2:37 |
 | 3 | [Mo\-Fr](https://open.spotify.com/track/5yNUQuj43NzLCXqCOjWfGZ) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Mo\-Fr](https://open.spotify.com/album/4etBEAEb9JcVFw1CwmgUmt) | 2:53 |
-| 4 | [mama](https://open.spotify.com/track/3KC5rxlfJZIb4VCSqqPEHu) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [mama](https://open.spotify.com/album/0woCQIR6wZrT1AxnTUYdpz) | 3:07 |
-| 5 | [Sommer Mit Dir](https://open.spotify.com/track/2s0OQYPKqcYxqPiKVpGxDX) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Sommer Mit Dir](https://open.spotify.com/album/0xkHpsxEoDhgHAoWUuoYyZ) | 2:58 |
+| 4 | [immatrikuliert](https://open.spotify.com/track/0IQN1UjYkpP8I36Z7HrNfC) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [immatrikuliert](https://open.spotify.com/album/5YW9rJ154VueLdV3n7v0rW) | 2:24 |
+| 5 | [mama](https://open.spotify.com/track/3KC5rxlfJZIb4VCSqqPEHu) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [mama](https://open.spotify.com/album/0woCQIR6wZrT1AxnTUYdpz) | 3:07 |
 | 6 | [Nur 3 Sekunden](https://open.spotify.com/track/4xsNzTOHuiE211c4pSVoVw) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Nur 3 Sekunden](https://open.spotify.com/album/5nTPR9hQ3bjBtNeF3utJfP) | 2:36 |
-| 7 | [Es zieht im Paradies](https://open.spotify.com/track/72japCviuui2IqOffiZurS) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Es zieht im Paradies](https://open.spotify.com/album/1gK7m86MSO7JTqmlO7DKvM) | 3:05 |
-| 8 | [immatrikuliert](https://open.spotify.com/track/0IQN1UjYkpP8I36Z7HrNfC) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [immatrikuliert](https://open.spotify.com/album/5YW9rJ154VueLdV3n7v0rW) | 2:24 |
+| 7 | [Sommer Mit Dir](https://open.spotify.com/track/2s0OQYPKqcYxqPiKVpGxDX) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Sommer Mit Dir](https://open.spotify.com/album/0xkHpsxEoDhgHAoWUuoYyZ) | 2:58 |
+| 8 | [Es zieht im Paradies](https://open.spotify.com/track/72japCviuui2IqOffiZurS) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Es zieht im Paradies](https://open.spotify.com/album/1gK7m86MSO7JTqmlO7DKvM) | 3:05 |
 | 9 | [mir geht es gut](https://open.spotify.com/track/08RtIVSkaKZWvFaGJqKb9o) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [neue Ufer](https://open.spotify.com/album/3N8crEw8JtGzowNGxs1MMg) | 2:23 |
 | 10 | [nie wieder \(mundsburg\)](https://open.spotify.com/track/1y7KRS1FcDLVC8Y3uqLxJI) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [U3](https://open.spotify.com/album/1uWOEbea8gCuMPCGNN64mt) | 2:51 |
 | 11 | [sowas von da \(hellwach\)](https://open.spotify.com/track/0YYvd9mj8va83hI7iUAWSW) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [sowas von da \(hellwach\)](https://open.spotify.com/album/6apTYDBoUc9GxiSPyLZawl) | 2:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [primetime](https://open.spotify.com/track/2gsaXMADNny0n6eHFeBryZ) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [PRIMETIME](https://open.spotify.com/album/3RK4pNM1XeJ0ZxhKHdSuKr) | 2:51 |
 | 75 | [Wenn wir groß sind](https://open.spotify.com/track/1EIviVazDK4zTaRHaU280S) | [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye), [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Wenn wir groß sind](https://open.spotify.com/album/0QIFovoVISr6tYzg3HYeQZ) | 3:41 |
 
-Snapshot ID: `MCxiYjc0NDYyZWQ0Y2FhMmM4MzBmZWQwYTExODRhNTA2ODBkYzU3YWU1`
+Snapshot ID: `MCwzZTZkNzE3ZjRmZTAwNWEyMzZiNTZkOThjN2I0MWY0YzdhOWRiMGE4`

@@ -4,7 +4,7 @@
 
 > Aidez votre bébé à s'endormir avec ces classiques Disney en version berceuse.
 
-85 songs - 4 hr 6 min
+86 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [I Wan'na Be Like You \(The Monkey Song\)](https://open.spotify.com/track/2HzVqRwteyisUJ0SafTwEZ) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Happy](https://open.spotify.com/album/2AuDIqmMrSkbWL22vgsMpm) | 2:06 | 2021-05-18 |  |
 | [I Won't Say I'm in Love](https://open.spotify.com/track/1F4023iF1vcQ2f8akTAv93) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Chill](https://open.spotify.com/album/3NLf3vFNYqC2idExmdILPP) | 2:47 | 2021-05-18 |  |
 | [It's a Small World](https://open.spotify.com/track/1KmzKvDdiKdcVoxxILTDdz) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Lullaby](https://open.spotify.com/album/3TRzs2Bn8dm6oHqt2LpR6z) | 2:02 | 2021-05-18 |  |
+| [Je fais le vœu \- Instrumental](https://open.spotify.com/track/4WERGzNWm4IrQHX8xzX8SS) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Benjamin Rice](https://open.spotify.com/artist/4aXYXCnJR6Aweo8GnWoSTD) | [Wish: Asha et la bonne étoile \(Bande Originale Française du Film\)](https://open.spotify.com/album/1LhuHxg33x4ZnyIpF702GQ) | 3:25 | 2023-11-21 |  |
 | [Just Around the Riverbend](https://open.spotify.com/track/2JcpDLB5KOiuRq4MrBOvqM) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Breathe](https://open.spotify.com/album/5ZaIlT1NBy0RmwpQpzegv4) | 4:12 | 2021-05-18 |  |
 | [Kiss the Girl](https://open.spotify.com/track/2huXICYr99NnodThC8me1m) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Chill](https://open.spotify.com/album/3NLf3vFNYqC2idExmdILPP) | 2:53 | 2021-05-18 |  |
 | [La berceuse d'Ahtohallan](https://open.spotify.com/track/70t6ELOe4D8lW0r9Sx68xv) | [Prisca Demarez](https://open.spotify.com/artist/1ZNeSXTk2u7tVWmUpZPI2r) | [La Reine des Neiges 2 \(Bande Originale Française du Film/Deluxe Edition\)](https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT) | 2:05 | 2021-05-18 |  |

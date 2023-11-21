@@ -4,7 +4,7 @@
 
 > Not NOT pop\. Cover: beabadoobee, Mac Wetha, Aminé
 
-1,570 songs - 3 day 3 hr 43 min
+1,572 songs - 3 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -583,7 +583,7 @@
 | [HARDCORE HAPPY](https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5) | [THE BLOSSOM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [HARDCORE HAPPY](https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG) | 2:49 | 2021-02-19 | 2021-05-15 |
 | [Harmony](https://open.spotify.com/track/3yZS2Yeowfm4m6ll4pk7Ce) | [Chris Emond](https://open.spotify.com/artist/3hT9y4dPYV9Q7PUaFix4Oy) | [Harmony](https://open.spotify.com/album/0zvdah1dhmJdoPnNlV5AmB) | 4:18 | 2023-10-20 | 2023-11-18 |
 | [Haunted Be Thy](https://open.spotify.com/track/42LJtYCKDdJWidHx4neMcF) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO) | [Haunted Be Thy](https://open.spotify.com/album/4iY3mLMgC6eAPRY7ZM6dIq) | 3:40 | 2022-10-25 | 2022-11-17 |
-| [have a good time](https://open.spotify.com/track/0YnfIvaUWgwBMvJqEIxPyJ) | [she loves boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23) | [have a good time](https://open.spotify.com/album/17pjEE2XXRHEl6MKuE7p4N) | 2:06 | 2023-09-08 |  |
+| [have a good time](https://open.spotify.com/track/0YnfIvaUWgwBMvJqEIxPyJ) | [she loves boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23) | [have a good time](https://open.spotify.com/album/17pjEE2XXRHEl6MKuE7p4N) | 2:06 | 2023-09-08 | 2023-11-21 |
 | [HAZY](https://open.spotify.com/track/0U8iXqyuhoFL07KOXIbN2P) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [SASSY \(Deluxe\)](https://open.spotify.com/album/2FBmbNR9eJ6BY4QIWBRI38) | 2:48 | 2022-10-25 | 2022-10-28 |
 | [HAZY](https://open.spotify.com/track/5JucQb5AlYCoNWXAlA1Hhp) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [SASSY \(Deluxe\)](https://open.spotify.com/album/51sUPyQRFL5HlwIqQYop4q) | 2:48 | 2022-08-13 | 2022-10-13 |
 | [Head In The Clouds](https://open.spotify.com/track/0oHivrvqAyEBDgjFF9JPXa) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Head In The Clouds](https://open.spotify.com/album/6V6rqC1c4zTWXa6MDYW56U) | 2:27 | 2020-10-13\* | 2021-05-29 |
@@ -841,6 +841,7 @@
 | [MANDELA EFFECT](https://open.spotify.com/track/2nnWeyvnHG5SBq7hg1u1Jh) | [HEARTBREAKHOTEL](https://open.spotify.com/artist/4uEVAZKe9bgB8Tb8skw7Tx) | [MANDELA EFFECT](https://open.spotify.com/album/0Q9E2nWt9kadthLSxMydpU) | 1:33 | 2022-07-15 | 2022-08-06 |
 | [manga](https://open.spotify.com/track/3KfJAVveynU2IDLHdykBSB) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [manga](https://open.spotify.com/album/2AaKUhc03Yf7s03PlKwlvW) | 2:30 | 2023-06-07 | 2023-07-22 |
 | [MANIC MAN](https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [MANIC MAN](https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb) | 2:14 | 2022-03-25 | 2023-03-02 |
+| [Marigold](https://open.spotify.com/track/44rWKhxzR6hsa04LKavgoC) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Hearth Room](https://open.spotify.com/album/4Jxk91uFsdzMWcZNyqj6eO) | 3:22 | 2023-11-17 |  |
 | [MARINE](https://open.spotify.com/track/5O6890xm1qwbbmg2pTn5V6) | [HVN](https://open.spotify.com/artist/61GrWHOtJOXpqQjibezT8i) | [ALL GIRLS GO TO HEAVEN](https://open.spotify.com/album/1QmZZE11VkUcOKEO9SJ8R4) | 3:22 | 2022-05-09 | 2022-06-01 |
 | [Marlboro Nights](https://open.spotify.com/track/755inykyaG4w22GWAsA3MX) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz) | 1:08 | 2023-10-13 |  |
 | [MARMALADE](https://open.spotify.com/track/7vdv0eDg178o0uUtGvRfm8) | [Donte Thomas](https://open.spotify.com/artist/53F7MNlYur7XEV75tY3Yor), [Ki$](https://open.spotify.com/artist/1oaYpFkpJmfkE0IVBJkfnM) | [COLORS](https://open.spotify.com/album/2qhRG0jx3hR8GjZ6gpUagh) | 3:38 | 2020-10-13\* | 2020-11-03 |
@@ -1042,7 +1043,7 @@
 | [PINCH ME](https://open.spotify.com/track/1VkM4OtAnNtJa6XBT3SHR6) | [young friend](https://open.spotify.com/artist/7cq0a4di5dOeKU8sicemd1) | [PINCH ME](https://open.spotify.com/album/7fh7NBMAAH6OJKfb3AsjGL) | 2:59 | 2021-03-06 | 2021-10-13 |
 | [PISTOLWHIP](https://open.spotify.com/track/5me5yFJlnKZr2spcxSbCTW) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [PISTOLWHIP](https://open.spotify.com/album/6pxLfWRnzSTLXt6HIDz5oI) | 2:05 | 2022-05-27 | 2022-07-19 |
 | [PIXEL](https://open.spotify.com/track/0sMP2TbaRNt4s2bGFoSoki) | [papa mbye](https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp) | [PIXEL](https://open.spotify.com/album/1zAc4zae8I9OD6liUsw6h2) | 2:46 | 2022-10-25 | 2022-11-05 |
-| [plansfor2](https://open.spotify.com/track/5xYWO5bpqxOUZ7VMpSmy4W) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [plansfor2](https://open.spotify.com/album/5j1fwt4WbOoV8pVj0M7UZz) | 2:38 | 2023-07-26 |  |
+| [plansfor2](https://open.spotify.com/track/5xYWO5bpqxOUZ7VMpSmy4W) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [plansfor2](https://open.spotify.com/album/5j1fwt4WbOoV8pVj0M7UZz) | 2:38 | 2023-07-26 | 2023-11-21 |
 | [Plant!](https://open.spotify.com/track/53oZXP24LECwD6YBybecvG) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Plant!](https://open.spotify.com/album/6M5YgjMimJs0qUBkDmXf3N) | 2:11 | 2021-10-13 | 2022-03-19 |
 | [plastic door//](https://open.spotify.com/track/0J6rNKi7ge3SMsuMuHfMw4) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [plastic door//](https://open.spotify.com/album/4FfoJ8P0LTi9w7gchTCimW) | 3:30 | 2020-10-13\* | 2020-11-03 |
 | [Play Ball](https://open.spotify.com/track/4AnzLupCec8JbTO8SoHGOQ) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Play Ball](https://open.spotify.com/album/0Hxv0nRUqLTCZBKmFm9sqx) | 2:40 | 2021-03-26 | 2021-05-15 |
@@ -1077,6 +1078,7 @@
 | [Pretty](https://open.spotify.com/track/1QWQaR1vH6E6Ap84HEc4va) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [love deluxe](https://open.spotify.com/album/5DlKYqA27vTrARUdV6x2T8) | 1:40 | 2023-06-30 | 2023-07-22 |
 | [PRETTY](https://open.spotify.com/track/6n3EY5Z8cC3CJLoBk3z7Ff) | [RUNNER BOY](https://open.spotify.com/artist/3ZymIpT2ZdBAUCaDncvdBv), [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [BOY](https://open.spotify.com/album/0Vau5zitoLgqTvG0FAZUjH) | 2:55 | 2022-07-22 | 2022-11-09 |
 | [Pretty Lies](https://open.spotify.com/track/3Nj6EiDM8LknYtZvzJGTLs) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Ethos](https://open.spotify.com/album/38YVMRxBcr6ZfKMoETiRSK) | 3:08 | 2022-02-22 | 2022-04-10 |
+| [pretty photos](https://open.spotify.com/track/1PmXc402f75cyfgLlXWSEH) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [it was nice knowing u](https://open.spotify.com/album/2lTY9F1Grt1D0HPsaQrGGT) | 2:56 | 2023-11-17 |  |
 | [prism](https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa) | [monty.pk](https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g) | [prism](https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7) | 2:32 | 2022-02-10 | 2022-04-10 |
 | [Prison Break](https://open.spotify.com/track/67j6YdAlDwAiyh8D0dts9o) | [Jared Evan](https://open.spotify.com/artist/6HfPfjqkmkpLbYqYhTeNuB), [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [Dark Days](https://open.spotify.com/album/6ahoLVwIKFRhXOLWvW7Z2y) | 3:36 | 2021-10-22 | 2022-02-05 |
 | [Prom Night](https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Prom Night](https://open.spotify.com/album/3ft78ZmPZcpVxpgzHTqcNZ) | 2:25 | 2021-06-27 | 2021-09-11 |

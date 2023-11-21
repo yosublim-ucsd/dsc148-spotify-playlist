@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:4M3HMSoC2JKbhCRdHQ5wkA">noco</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,871 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,874 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Night Shift](https://open.spotify.com/track/5maaJbXHaGM6RiTTF4qEFx) | [Utracki.Obwn](https://open.spotify.com/artist/5Mjmvf4xclnuWsy6MGuxW6) | [Night Shift](https://open.spotify.com/album/33iJEYDBjyZhWQaI44jbBn) | 2:47 |
 | 100 | [bb blue](https://open.spotify.com/track/1TKX1bepB71PU6uyQOCCdv) | [Patrick Rubin](https://open.spotify.com/artist/1S5Xe2Czvc3Ec3DQOumXht), [Ola Budzyńska](https://open.spotify.com/artist/1Qc8DxCV91HhFNnoQbS5m6) | [bb blue](https://open.spotify.com/album/6EiTawrxy5PAwIHjcuAe5x) | 2:20 |
 
-Snapshot ID: `MCxmZGNlMzY1OGRjZjcwYjE3N2FkMmE0MDEwMjI1NDgwYTM5ZWU3N2M1`
+Snapshot ID: `MCw2OTBkZjkzYTY3NGVlN2Y3ZTk2ZmZhYzE3ODhlYWRkMjc1NzQ5NDM3`

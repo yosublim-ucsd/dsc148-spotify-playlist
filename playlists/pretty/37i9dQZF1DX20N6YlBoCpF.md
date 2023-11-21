@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw?si=vyavmvxSRq27umcMW9YLJQ">Samantha Leonard</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,062 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,072 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 59 | [Ons Sal Jonk Bly](https://open.spotify.com/track/5kmedYH2KGOpqYcjhkut2f) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Ons Sal Jonk Bly](https://open.spotify.com/album/6kgghUTYltx1TaKHamBWOe) | 4:25 |
 | 60 | [SMK \(Sondagmiddag Knippie\)](https://open.spotify.com/track/3Fu14rGiC9RPhCaTFobslm) | [Ilán van Staden](https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj) | [SMK \(Sondagmiddag Knippie\)](https://open.spotify.com/album/1jNlLxnN439S7GeKsH10ba) | 3:19 |
 
-Snapshot ID: `MCxkNWJhMDc0ODlkMWQ3MzI2ODE1OGI5NDRkNzJjYjBlNmQ0NzM2YmU3`
+Snapshot ID: `MCw3MDM2ZWVjMWIxNDNkZGFjMGI5ZTJiMjIxNDlmMGRmZjg0NWVlZDhm`

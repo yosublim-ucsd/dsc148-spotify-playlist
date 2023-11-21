@@ -1,12 +1,12 @@
 {
   "description": "Non-stop energy, riffs and belters.. it never gets old, no guest list required.",
-  "num_followers": 81748,
+  "num_followers": 82014,
   "original_name": "Sticky Floors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTkyMTYyYjhlNDk5MDI4MTg2NDFkYjcxMTY3NDZhM2Y5MjZiY2I2",
+  "snapshot_id": "MCw3OGEzYjVhOGI3MzUzZjVhYjcyMzcyZDMzZWYxMTM0YmI1OGRmOGMz",
   "tracks": [
     {
       "added_at": "2023-05-25 23:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "how will i rest in peace if i'm buried by a highway?//",
-        "url": "https://open.spotify.com/album/5sb0O03rnoBqD1iDPOSkkf"
-      },
-      "artists": [
-        {
-          "name": "KennyHoopla",
-          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "how will i rest in peace if i'm buried by a highway?//",
-      "url": "https://open.spotify.com/track/4jFLw7QqWlv3lZr980HyYW"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "What Did You Expect from The Vaccines?",
         "url": "https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 81720,
       "name": "Wreckin' Bar (Ra Ra Ra)",
       "url": "https://open.spotify.com/track/1K5vb3Yu4F8yMaHggtdpDY"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "how will i rest in peace if i'm buried by a highway?//",
+        "url": "https://open.spotify.com/album/5sb0O03rnoBqD1iDPOSkkf"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "duration_ms": 218533,
+      "name": "how will i rest in peace if i'm buried by a highway?//",
+      "url": "https://open.spotify.com/track/4jFLw7QqWlv3lZr980HyYW"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Puppets",
-        "url": "https://open.spotify.com/album/3XCP14sdQvaGINdEOEEOvw"
-      },
-      "artists": [
-        {
-          "name": "Corella",
-          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
-        }
-      ],
-      "duration_ms": 149028,
-      "name": "Puppets",
-      "url": "https://open.spotify.com/track/2PsLV8lSiLRUX3sM2z2cJj"
-    },
-    {
-      "added_at": "2023-05-25 23:00:00",
-      "album": {
         "name": "Relationship Of Command",
         "url": "https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2023-05-25 23:00:00",
       "album": {
-        "name": "Celebrity Mansions",
-        "url": "https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu"
+        "name": "Puppets",
+        "url": "https://open.spotify.com/album/3XCP14sdQvaGINdEOEEOvw"
       },
       "artists": [
         {
-          "name": "Dinosaur Pile-Up",
-          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+          "name": "Corella",
+          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
         }
       ],
-      "duration_ms": 188653,
-      "name": "Back Foot",
-      "url": "https://open.spotify.com/track/6geuGKb1jKb6TV8sGE5eaC"
+      "duration_ms": 149028,
+      "name": "Puppets",
+      "url": "https://open.spotify.com/track/2PsLV8lSiLRUX3sM2z2cJj"
     },
     {
       "added_at": "2023-05-25 23:00:00",
@@ -807,6 +791,22 @@
       "duration_ms": 176160,
       "name": "It's Getting Boring By The Sea",
       "url": "https://open.spotify.com/track/0Y1FLqg7c4YFCKP2F6HXsG"
+    },
+    {
+      "added_at": "2023-05-25 23:00:00",
+      "album": {
+        "name": "Celebrity Mansions",
+        "url": "https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+        }
+      ],
+      "duration_ms": 188653,
+      "name": "Back Foot",
+      "url": "https://open.spotify.com/track/6geuGKb1jKb6TV8sGE5eaC"
     }
   ],
   "unique_name": "Sticky Floors",

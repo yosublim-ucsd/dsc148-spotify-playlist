@@ -3806,7 +3806,7 @@
     {
       "album": {
         "name": "Take My Chance",
-        "url": "https://open.spotify.com/album/48mkI91Qbu55gGYgtKPVK9"
+        "url": "https://open.spotify.com/album/3xaAySZDsBeu2k12tDaLsZ"
       },
       "artists": [
         {
@@ -3817,6 +3817,24 @@
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 198603,
+      "name": "Take My Chance",
+      "url": "https://open.spotify.com/track/3uD3HzG6tO8lWUIKtJKcxA"
+    },
+    {
+      "album": {
+        "name": "Take My Chance",
+        "url": "https://open.spotify.com/album/48mkI91Qbu55gGYgtKPVK9"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "date_added": "2023-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-21",
       "duration_ms": 198603,
       "name": "Take My Chance",
       "url": "https://open.spotify.com/track/6d0ediFvVUAQXkeraZRtXR"

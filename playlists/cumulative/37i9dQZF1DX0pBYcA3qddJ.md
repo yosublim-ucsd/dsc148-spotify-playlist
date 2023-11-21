@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-596 songs - 1 day 16 hr 21 min
+597 songs - 1 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [Reflections in D](https://open.spotify.com/track/4ponlXnRElQCm2LSpo0JVZ) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [プレイズ・スタンダード](https://open.spotify.com/album/1BPfVA2Mfj9pP2Sp6uBdrr) | 3:53 | 2023-09-05 | 2023-09-15 |
 | [Reflexion](https://open.spotify.com/track/7bs7ehVQuzsS67jh91KpSn) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Timo Andres](https://open.spotify.com/artist/6rsUydMSborFpWv0JkQgiz), [Conor Hanick](https://open.spotify.com/artist/1AJdvQXiX8UiSQQb9aILUO) | [Reflections](https://open.spotify.com/album/5VHkiYllmLhZ2ZJ6fzJg21) | 2:57 | 2023-05-18 | 2023-10-29 |
 | [Remember Fall in Montreal \- Reimagined by Lottie Gabriel](https://open.spotify.com/track/7IzKSu3bhB0G5dDwmrOAnR) | [Andrew Panes](https://open.spotify.com/artist/6GNBpeYmCO3UmEAktjn9JC), [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC), [Lottie Gabriel](https://open.spotify.com/artist/7j9Ir3hwYuAagYeqQkZLu8) | [Remember Fall in Montreal \(Reimagined by Lottie Gabriel\)](https://open.spotify.com/album/4oS7qwATvMusSo5Og860E5) | 3:53 | 2023-07-20 | 2023-09-15 |
+| [Remember When](https://open.spotify.com/track/1KyLAl3R61UiXK9o14SUJm) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Remember When](https://open.spotify.com/album/4s84jh2NBDv4HF7iRysA3U) | 3:12 | 2023-11-16 |  |
 | [River](https://open.spotify.com/track/5uBwn4ULXtRzbYNitADrX3) | [倉品翔](https://open.spotify.com/artist/2Aa3LycVvMqqNSBzmTrPOl) | [River](https://open.spotify.com/album/18uCRX2oDqQo2enR7KIC9Z) | 5:02 | 2023-01-31 | 2023-03-01 |
 | [river \(sketch in chikuma\-river\)](https://open.spotify.com/track/7zt6iz0iTTUSUW9c9V6xc6) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [river \(sketch in chikuma\-river\)](https://open.spotify.com/album/7cn0VB36SFreUiqOYe1SIP) | 3:14 | 2022-10-25 | 2022-12-02 |
 | [River of Dreams](https://open.spotify.com/track/45pEljf6gASrPzgnwfosj3) | [Takeshi Senoo](https://open.spotify.com/artist/61n5YgL1SXRIre6tMYlhxq) | [Anchors\. The Best of Senoo 2000\-2009](https://open.spotify.com/album/2LY3OVfHp433zHYY7iMs3Y) | 4:06 | 2022-12-01 | 2023-02-22 |
@@ -417,7 +418,7 @@
 | [Snowblind \- Lo\-Fi Version](https://open.spotify.com/track/3ZtYSknLXx0T3cJrpi7GRj) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Snowblind \(Lo\-Fi Version\)](https://open.spotify.com/album/2mHNAFuim8XN9UowSF0eDc) | 3:28 | 2023-07-27 | 2023-09-11 |
 | [Snowdrop](https://open.spotify.com/track/41DBJWgVyP9wglNdpaVRju) | [Kaori Muraji](https://open.spotify.com/artist/1NBiTq7dgcI4yWrz5evt9P) | [Rhapsody Japan](https://open.spotify.com/album/6E2R7APiAqAoavvvX9monK) | 2:18 | 2022-12-01 | 2023-03-22 |
 | [So Low](https://open.spotify.com/track/0oC0HRFeASEgbeoXLH8O6B) | [Synthia](https://open.spotify.com/artist/55GAehISTHTHMesi0iILAF) | [So Low](https://open.spotify.com/album/1mjeCiGzT1UGoZHqKMr1Wc) | 2:44 | 2023-04-18 | 2023-06-16 |
-| [So Many Plans](https://open.spotify.com/track/14pNmP49UDCDJDobtV2FMc) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [So Many Plans](https://open.spotify.com/album/5V1HBwPIJhA9BniGd3Yj1R) | 3:47 | 2023-08-31 |  |
+| [So Many Plans](https://open.spotify.com/track/14pNmP49UDCDJDobtV2FMc) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [So Many Plans](https://open.spotify.com/album/5V1HBwPIJhA9BniGd3Yj1R) | 3:47 | 2023-08-31 | 2023-11-21 |
 | [Soleil](https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi) | [Masaki Kawasaki](https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK) | [Life in Process](https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH) | 3:19 | 2023-02-28 | 2023-03-03 |
 | [Someday](https://open.spotify.com/track/3NwzABjXouiJdOVjIFNonG) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Old Days](https://open.spotify.com/album/5Y96dH2PLdE39a4SLYXjAo) | 2:39 | 2022-10-20 | 2022-11-11 |
 | [Sometimes Today Seems Like Yesterday](https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile \(Deluxe Edition\)](https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3) | 3:03 | 2023-05-25 | 2023-07-15 |

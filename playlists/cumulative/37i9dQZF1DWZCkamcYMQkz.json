@@ -803,6 +803,32 @@
     },
     {
       "album": {
+        "name": "Happy Song No.2",
+        "url": "https://open.spotify.com/album/2hhuaHogBZWrmhpAHYksuj"
+      },
+      "artists": [
+        {
+          "name": "Jan Geijtenbeek",
+          "url": "https://open.spotify.com/artist/3JbGZKuEjufoBiGqjRNYSP"
+        },
+        {
+          "name": "Niek de Bruijn",
+          "url": "https://open.spotify.com/artist/6MCOy9B3LZpPWlgngExhuc"
+        },
+        {
+          "name": "Thomas Pol",
+          "url": "https://open.spotify.com/artist/6zdJjdjOSerTzdPK3ZPIX4"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181306,
+      "name": "Happy Song No. 2",
+      "url": "https://open.spotify.com/track/3kl4pwODJrCPK1fHsK2was"
+    },
+    {
+      "album": {
         "name": "Straight Ahead",
         "url": "https://open.spotify.com/album/5btsSLBlxxrOjw0hnVV9xM"
       },
@@ -2728,7 +2754,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 303163,
       "name": "Thedia",
       "url": "https://open.spotify.com/track/1BOH3GRgTRZz7NITH4oEIG"

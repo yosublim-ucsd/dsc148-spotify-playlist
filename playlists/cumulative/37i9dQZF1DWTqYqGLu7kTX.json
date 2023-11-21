@@ -556,7 +556,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 205040,
       "name": "Chauffeur",
       "url": "https://open.spotify.com/track/2L1OXzqVPpVxotHfLglUcB"
@@ -1514,6 +1514,32 @@
       "duration_ms": 183225,
       "name": "Never Fold",
       "url": "https://open.spotify.com/track/3JkVYvxNoGf2HCWJo61462"
+    },
+    {
+      "album": {
+        "name": "THE WOMAN KING",
+        "url": "https://open.spotify.com/album/5pagoghrHhtj1fUcXIAB7q"
+      },
+      "artists": [
+        {
+          "name": "Simiran Kaur Dhadli",
+          "url": "https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9"
+        },
+        {
+          "name": "Desi Trap Music",
+          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
+        },
+        {
+          "name": "Azaad 4L",
+          "url": "https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165666,
+      "name": "NEXT MOVE",
+      "url": "https://open.spotify.com/track/1KkvScHwbnrrtaZ3z06vQR"
     },
     {
       "album": {

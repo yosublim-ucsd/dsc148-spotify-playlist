@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 222162,
+  "num_followers": 222329,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDhkNmM1Y2Q4ZjNlZWEwMGFlMzJlYWZiYTI2M2QyNTg4ZDAxNWM1",
+  "snapshot_id": "MCwwNWM3MDc3ZWFmOTJkMzIyN2M3ZmE4MTRjYjVjNmE4ZGVlZjEyNDYw",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -203,6 +203,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 375400,
+      "name": "He's the Greatest Dancer - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "The 12\" Collection And More (Funk Essentials)",
         "url": "https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH"
       },
@@ -235,38 +251,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 375400,
-      "name": "He's the Greatest Dancer - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Bad Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 495186,
-      "name": "I Feel Love - 12\" Version",
-      "url": "https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Straight from the Heart (Remastered)",
         "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 313493,
       "name": "Estrelar",
       "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Bad Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 495186,
+      "name": "I Feel Love - 12\" Version",
+      "url": "https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Zenyatta Mondatta (Remastered 2003)",
+        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 233253,
+      "name": "Voices Inside My Head",
+      "url": "https://open.spotify.com/track/0Jvn32u7plWgz5YQk6OoSo"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Grandmaster Flash, Grandmaster Melle-Mel & The Furious Five: The Greatest Hits",
         "url": "https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 269666,
       "name": "White Lines (Don't Do It)",
       "url": "https://open.spotify.com/track/5iMFwxh6akxfgoujdvI1rf"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Zenyatta Mondatta (Remastered 2003)",
-        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 233253,
-      "name": "Voices Inside My Head",
-      "url": "https://open.spotify.com/track/0Jvn32u7plWgz5YQk6OoSo"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Friends and Buddies",
-        "url": "https://open.spotify.com/album/1JbsHszs163wrSgCpJUpxa"
-      },
-      "artists": [
-        {
-          "name": "Milton Wright",
-          "url": "https://open.spotify.com/artist/4eG9wzNICW94sPzkTP5MYt"
-        }
-      ],
-      "duration_ms": 252026,
-      "name": "Keep It Up",
-      "url": "https://open.spotify.com/track/4eVbtPuh4bu5BbHdluycOz"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Disco Jazz",
         "url": "https://open.spotify.com/album/39VaqEkzu1GAw1pESi2tBt"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 479629,
       "name": "Aaj Shanibar",
       "url": "https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Friends and Buddies",
+        "url": "https://open.spotify.com/album/1JbsHszs163wrSgCpJUpxa"
+      },
+      "artists": [
+        {
+          "name": "Milton Wright",
+          "url": "https://open.spotify.com/artist/4eG9wzNICW94sPzkTP5MYt"
+        }
+      ],
+      "duration_ms": 252026,
+      "name": "Keep It Up",
+      "url": "https://open.spotify.com/track/4eVbtPuh4bu5BbHdluycOz"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Nigeria 70 - Funky Lagos",
-        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
-      },
-      "artists": [
-        {
-          "name": "Joni Haastrup",
-          "url": "https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu"
-        }
-      ],
-      "duration_ms": 373333,
-      "name": "Greetings",
-      "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Goody Goody",
         "url": "https://open.spotify.com/album/0X6uATczHL4Bz1y1lruCVC"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 383093,
       "name": "It Looks Like Love",
       "url": "https://open.spotify.com/track/2mCLc4lZjbpcpXgNBrC5lY"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Nigeria 70 - Funky Lagos",
+        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
+      },
+      "artists": [
+        {
+          "name": "Joni Haastrup",
+          "url": "https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu"
+        }
+      ],
+      "duration_ms": 373333,
+      "name": "Greetings",
+      "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -935,6 +935,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Modern Heat EP",
+        "url": "https://open.spotify.com/album/2XpgR4dDcY1Z29FX9KtIfB"
+      },
+      "artists": [
+        {
+          "name": "MAM",
+          "url": "https://open.spotify.com/artist/30TcH7sAEGnI1wVZhCgBfi"
+        }
+      ],
+      "duration_ms": 280417,
+      "name": "Crushed Ice",
+      "url": "https://open.spotify.com/track/6Ne0XHyV9tVZhF1gCtyLPx"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Mangase / Hafi Deo",
         "url": "https://open.spotify.com/album/05NjfB8sXBGCxkU4Dmwumq"
       },
@@ -967,22 +983,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Pure Sounds of Africa",
-        "url": "https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab"
-      },
-      "artists": [
-        {
-          "name": "Hugh Masekela",
-          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
-        }
-      ],
-      "duration_ms": 413560,
-      "name": "Don't Go Lose It Baby",
-      "url": "https://open.spotify.com/track/1kKvcinRJW5ci22gnTYNq6"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Mysteries of the World",
         "url": "https://open.spotify.com/album/3HFASQCSrKTM9DSu3FevyN"
       },
@@ -995,6 +995,22 @@
       "duration_ms": 330080,
       "name": "Mysteries of the World",
       "url": "https://open.spotify.com/track/5WYzouzEJIKk0QJjNsiVue"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Pure Sounds of Africa",
+        "url": "https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "duration_ms": 413560,
+      "name": "Don't Go Lose It Baby",
+      "url": "https://open.spotify.com/track/1kKvcinRJW5ci22gnTYNq6"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1027,22 +1043,6 @@
       "duration_ms": 408142,
       "name": "Number One - 12\" Version",
       "url": "https://open.spotify.com/track/3vSgRQYNEUEjcFOGMiSTw3"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Modern Heat EP",
-        "url": "https://open.spotify.com/album/2XpgR4dDcY1Z29FX9KtIfB"
-      },
-      "artists": [
-        {
-          "name": "MAM",
-          "url": "https://open.spotify.com/artist/30TcH7sAEGnI1wVZhCgBfi"
-        }
-      ],
-      "duration_ms": 280417,
-      "name": "Crushed Ice",
-      "url": "https://open.spotify.com/track/6Ne0XHyV9tVZhF1gCtyLPx"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Silk Rhodes",
-        "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
-      },
-      "artists": [
-        {
-          "name": "Silk Rhodes",
-          "url": "https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY"
-        }
-      ],
-      "duration_ms": 145646,
-      "name": "Face 2 Face",
-      "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Charles Webster - Coast2Coast",
         "url": "https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO"
       },
@@ -1127,34 +1111,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Funk / Soul / Disco",
-        "url": "https://open.spotify.com/album/7yGOH7rlneoazytfe1u9tj"
+        "name": "Silk Rhodes",
+        "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
       },
       "artists": [
         {
-          "name": "Jackson Sisters",
-          "url": "https://open.spotify.com/artist/4Nud0bPKFFBGWHxedLdHOZ"
+          "name": "Silk Rhodes",
+          "url": "https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY"
         }
       ],
-      "duration_ms": 177653,
-      "name": "I Believe In Miracles",
-      "url": "https://open.spotify.com/track/0AznKYHuMTItR4XyuIsbmr"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Love Island",
-        "url": "https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT"
-      },
-      "artists": [
-        {
-          "name": "Deodato",
-          "url": "https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr"
-        }
-      ],
-      "duration_ms": 272533,
-      "name": "Whistle Bump",
-      "url": "https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk"
+      "duration_ms": 145646,
+      "name": "Face 2 Face",
+      "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1187,6 +1155,38 @@
       "duration_ms": 376973,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/5Vh1ehh1HL9WyHNUZwh7Ov"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Love Island",
+        "url": "https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT"
+      },
+      "artists": [
+        {
+          "name": "Deodato",
+          "url": "https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr"
+        }
+      ],
+      "duration_ms": 272533,
+      "name": "Whistle Bump",
+      "url": "https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Funk / Soul / Disco",
+        "url": "https://open.spotify.com/album/7yGOH7rlneoazytfe1u9tj"
+      },
+      "artists": [
+        {
+          "name": "Jackson Sisters",
+          "url": "https://open.spotify.com/artist/4Nud0bPKFFBGWHxedLdHOZ"
+        }
+      ],
+      "duration_ms": 177653,
+      "name": "I Believe In Miracles",
+      "url": "https://open.spotify.com/track/0AznKYHuMTItR4XyuIsbmr"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Magical Night (Greatest Hits Special Price)",
-        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
-      },
-      "artists": [
-        {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        }
-      ],
-      "duration_ms": 268653,
-      "name": "Hold Tight - Full Length Album Mix",
-      "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Is It All Over My Face?",
         "url": "https://open.spotify.com/album/4G6WjvXgMQQFskCBBQFi7N"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 427978,
       "name": "Is It All over My Face? (Female Version) (2012 - Remaster)",
       "url": "https://open.spotify.com/track/7lwTSaPgRxgnlkmFCSKtIw"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Magical Night (Greatest Hits Special Price)",
+        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
+      },
+      "artists": [
+        {
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+        }
+      ],
+      "duration_ms": 268653,
+      "name": "Hold Tight - Full Length Album Mix",
+      "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Al Santiago Presents Yamb\u00fa",
-        "url": "https://open.spotify.com/album/6tkobA7eI1CnhHKhfdldLX"
-      },
-      "artists": [
-        {
-          "name": "Yambu",
-          "url": "https://open.spotify.com/artist/4bt3NedLz3Lj3MtCE0UWNY"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/5uTYt5fAo3dJhoQLXGgXuz"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Groovin' You (Expanded Edition)",
         "url": "https://open.spotify.com/album/1kcDt7lJdpED4jKuo1PNq9"
       },
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Al Santiago Presents Yamb\u00fa",
+        "url": "https://open.spotify.com/album/6tkobA7eI1CnhHKhfdldLX"
+      },
+      "artists": [
+        {
+          "name": "Yambu",
+          "url": "https://open.spotify.com/artist/4bt3NedLz3Lj3MtCE0UWNY"
+        }
+      ],
+      "duration_ms": 272933,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/5uTYt5fAo3dJhoQLXGgXuz"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "The Brooklyn, Bronx & Queens Band",
         "url": "https://open.spotify.com/album/6SHMsBY50BGH9q3JDVVXMy"
       },
@@ -1411,22 +1411,6 @@
       "duration_ms": 702167,
       "name": "Agb'oju L'ogun - Original 12\" Version",
       "url": "https://open.spotify.com/track/0pmcA4lJnEjkqIFrotudmV"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Watchin Out",
-        "url": "https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf"
-      },
-      "artists": [
-        {
-          "name": "Frazelle",
-          "url": "https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn"
-        }
-      ],
-      "duration_ms": 320851,
-      "name": "Today Is the Day - Linkwood Chop",
-      "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1475,6 +1459,22 @@
       "duration_ms": 328858,
       "name": "Disco Fantasy",
       "url": "https://open.spotify.com/track/55TihUjVHdi3zChAUtKgHE"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Watchin Out",
+        "url": "https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf"
+      },
+      "artists": [
+        {
+          "name": "Frazelle",
+          "url": "https://open.spotify.com/artist/7vKUK1CA6c4CgeFtAIDtnn"
+        }
+      ],
+      "duration_ms": 320851,
+      "name": "Today Is the Day - Linkwood Chop",
+      "url": "https://open.spotify.com/track/02fPKhvSJZecPhfkguNJan"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Taana Gardner",
+        "url": "https://open.spotify.com/album/3Cry53QsMK0kF7Z59FUml0"
+      },
+      "artists": [
+        {
+          "name": "Taana Gardner",
+          "url": "https://open.spotify.com/artist/4kkfqDFX2t4QBOwuHqAROF"
+        }
+      ],
+      "duration_ms": 587029,
+      "name": "Heartbeat (Club Mix) (2012 - Remaster)",
+      "url": "https://open.spotify.com/track/281WOsKoaGN9lMttUL7tjs"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Disco Illusion",
         "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 284985,
       "name": "Lypso Illusion",
       "url": "https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Dancing in Outer Space",
-        "url": "https://open.spotify.com/album/4MF1H26SPWJ74EcEpkg11r"
-      },
-      "artists": [
-        {
-          "name": "Atmosfear",
-          "url": "https://open.spotify.com/artist/1DqpAdUZXDlOEUHdiawMJF"
-        }
-      ],
-      "duration_ms": 577093,
-      "name": "Dancing in Outer Space",
-      "url": "https://open.spotify.com/track/0OYKPDicsx5rFpScHnWIoH"
     }
   ],
   "unique_name": "Disco Hi-Life",

@@ -5813,6 +5813,24 @@
     },
     {
       "album": {
+        "name": "I Love Urbano 2011 (Dembow - Mambo - Reggaeton - Merengue Urbano)",
+        "url": "https://open.spotify.com/album/4GT87SeLVbNcbb4KYqb0nj"
+      },
+      "artists": [
+        {
+          "name": "Doble T y El Crok Los Pepes",
+          "url": "https://open.spotify.com/artist/5nLePxVAY3VBwc4jv9Y8uW"
+        }
+      ],
+      "date_added": "2023-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197693,
+      "name": "Pa' Mang\u00e1 Mi Visa",
+      "url": "https://open.spotify.com/track/6qx6qftiB9xoTF7GrPpvQb"
+    },
+    {
+      "album": {
         "name": "Paketum",
         "url": "https://open.spotify.com/album/2lN8KHVPTWKxvxpy0qbjz2"
       },
@@ -8286,7 +8304,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 228004,
       "name": "Tony (feat. Afro Nigga)",
       "url": "https://open.spotify.com/track/24EPIb6Iiuc4l6Iw0dCkfF"

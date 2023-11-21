@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-309 songs - 23 hr 9 min
+310 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Cherokee](https://open.spotify.com/track/2uSMorEaDvIDOXT6YfMgr7) | [Deelee Dube](https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb) | [Cherokee](https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ) | 5:38 | 2023-01-05 |  |
 | [Close to You](https://open.spotify.com/track/5XSz5Jeo2aaNMEMIJnzSnC) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU), [Jacky Terrasson Trio](https://open.spotify.com/artist/0nVpQijJUO5HRxBJ95eRgw) | [Close to You \(with Jacky Terrasson Trio\)](https://open.spotify.com/album/55F0v4gDfpFdyLqhvFQcvY) | 4:03 | 2021-12-17 |  |
 | [Cloudy \(With a Chance of Rain\)](https://open.spotify.com/track/1ItF5ihC9H9U0z98McwP4k) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W) | [Cloudy \(With a Chance of Rain\)](https://open.spotify.com/album/46pdCbJUAYTFj0o8wAAyhB) | 4:43 | 2021-12-17 |  |
-| [Cloudy Treasures](https://open.spotify.com/track/5PPyfbyU6d4jgXfvl7jGpA) | [Louise Bøttern](https://open.spotify.com/artist/1Xecqs6WnuEv1E1hyy2O5D) | [Cloudy Treasures](https://open.spotify.com/album/6TBjxVhJqsp1JYgUZbfCkm) | 3:58 | 2022-08-30 |  |
+| [Cloudy Treasures](https://open.spotify.com/track/5PPyfbyU6d4jgXfvl7jGpA) | [Louise Bøttern](https://open.spotify.com/artist/1Xecqs6WnuEv1E1hyy2O5D) | [Cloudy Treasures](https://open.spotify.com/album/6TBjxVhJqsp1JYgUZbfCkm) | 3:58 | 2022-08-30 | 2023-11-21 |
 | [Coming Back To You](https://open.spotify.com/track/1KjTMIDPS9bhCa4VF1odYH) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Coming Back To You](https://open.spotify.com/album/5kHIm8MtwOa6jVGS4nFC31) | 3:40 | 2022-08-11 |  |
 | [Confession / The Other Woman](https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Confessions](https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG) | 6:43 | 2022-02-18 |  |
 | [Crazy He Calls Me](https://open.spotify.com/track/0ERXPudDdVEsXesQ8gT8v7) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi), [Greg Phillinganes](https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu) | [Crazy He Calls Me](https://open.spotify.com/album/1S0Arx1e1OK0XWnb41R7fx) | 2:30 | 2022-08-16 |  |
@@ -169,6 +169,7 @@
 | [Little Jazz Bird](https://open.spotify.com/track/1rRCoIYM6CVJ2iWiSFMGQG) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Spark Bird](https://open.spotify.com/album/6z3wz0ytwIBkn6pcxWQiNN) | 4:06 | 2023-04-03 |  |
 | [Little Paradise](https://open.spotify.com/track/7p3AeUfrHFKdBuyVTXwXKW) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dance Of Time](https://open.spotify.com/album/3AwETxl8Vf5yYbACae04eP) | 4:59 | 2021-12-17 |  |
 | [Lost in a Dream](https://open.spotify.com/track/20FcwDOSkqdduKzJ35RQrb) | [Joshua Jaswon Octet](https://open.spotify.com/artist/3LQftaWF3PsW2cWmSscvuK), [Joshua Jaswon](https://open.spotify.com/artist/1hgFAM0wgN4PdJIq1AAtAU), [Anna Serierse](https://open.spotify.com/artist/76fJed0D3EG8B7MN4HCohO) | [Polar Waters](https://open.spotify.com/album/7jBQ4bmBWX5SpCieIHFr85) | 6:06 | 2023-06-01 |  |
+| [Lounge Lizard](https://open.spotify.com/track/39mehRLHX9wvfrooKeiWxa) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [Lounge Lizard](https://open.spotify.com/album/4W6s4LdmewGx1WB1f0kWR0) | 3:49 | 2023-11-17 |  |
 | [Loving You](https://open.spotify.com/track/226aNk2hiOlW3joJHIvSVe) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [Move On: A Sondheim Adventure](https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs) | 2:51 | 2022-02-18 |  |
 | [Lucky To Be Me](https://open.spotify.com/track/1NeeobDoLiJb8U7X10vw3t) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Over The Years](https://open.spotify.com/album/3XE2b9grofAamuVk72wdn5) | 7:29 | 2021-12-17 |  |
 | [Lumiére](https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U) | [Emily Sage](https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL) | [Lumiére](https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82) | 3:16 | 2021-12-17 |  |

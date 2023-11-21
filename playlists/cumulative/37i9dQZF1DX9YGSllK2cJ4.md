@@ -4,7 +4,7 @@
 
 > Take comfort in these sad piano songs.
 
-354 songs - 15 hr 53 min
+355 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Eurytmi](https://open.spotify.com/track/2nMjde4kw1yuDyNnu9GJTO) | [Ola Claësson](https://open.spotify.com/artist/3MFfHtQUhTuey7urPpdWqQ) | [Eurytmi](https://open.spotify.com/album/6uLzK7fzvPskfWDDCwLoEj) | 2:39 | 2022-08-01 |  |
 | [Evenfall](https://open.spotify.com/track/5EwC7LIoLBhLJjlAgz2pXR) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [Evenfall](https://open.spotify.com/album/5nSQeRUNCJrPoy412qtL6i) | 2:26 | 2022-08-01 |  |
 | [Eventus Memoria](https://open.spotify.com/track/4fGktu4RYSYuF05at1ToLu) | [Adelaide Fleur](https://open.spotify.com/artist/4Na9Ks6Pua1oqm1kv3qGum) | [Eventus Memoria](https://open.spotify.com/album/6RDIJwN77xFkVrkHelxNUW) | 2:07 | 2022-12-05 |  |
+| [Evergreen](https://open.spotify.com/track/6yk50QFJ8VeiMIZrwQnW8V) | [Felix May](https://open.spotify.com/artist/79Q9buYaRrrm9LkwBnOGEg) | [Evergreen](https://open.spotify.com/album/1zYCbUFBrr1rdN9QocnkdE) | 2:30 | 2023-11-20 |  |
 | [Excavation](https://open.spotify.com/track/3kOJMvFCOHykQws1qsVMsu) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Ruminate](https://open.spotify.com/album/4pOyBEYZRfEGsbSOinaytz) | 3:24 | 2022-08-01 | 2022-11-15 |
 | [Experience](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:15 | 2022-08-01 | 2022-10-25 |
 | [Experience \- Solo Piano](https://open.spotify.com/track/5U87k9mIyu2sGQppcqV4Dw) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Experience \(Solo Piano\)](https://open.spotify.com/album/3Z7ioqwupmWCZx5hzWzbom) | 5:07 | 2023-02-06 | 2023-05-04 |

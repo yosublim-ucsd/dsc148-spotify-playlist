@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 238760,
       "name": "1 Thing",
       "url": "https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW"
@@ -746,7 +746,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 86709,
       "name": "9mm",
       "url": "https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf"
@@ -4669,6 +4669,40 @@
     },
     {
       "album": {
+        "name": "Camino Pa' La Fama",
+        "url": "https://open.spotify.com/album/2VZiS6UyKKSF0HdsqG6uPo"
+      },
+      "artists": [
+        {
+          "name": "Alexdan 07",
+          "url": "https://open.spotify.com/artist/6nYyFDdOrzArJQMkU4oE6N"
+        },
+        {
+          "name": "Marcosboysss",
+          "url": "https://open.spotify.com/artist/5ixOMRgnFVjMzhEa6QQxih"
+        },
+        {
+          "name": "Facksiniel",
+          "url": "https://open.spotify.com/artist/723uRkDLXvT6GnXxMjAkYi"
+        },
+        {
+          "name": "ElRealBaby",
+          "url": "https://open.spotify.com/artist/3Uz2S43Qrbwj8WbdqlWRPY"
+        },
+        {
+          "name": "Gustavo Andres",
+          "url": "https://open.spotify.com/artist/015Ze7T2HOtAzUAPoFXuLL"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Camino Pa' La Fama",
+      "url": "https://open.spotify.com/track/4VSnD9fASuVoEZIH7TnAFE"
+    },
+    {
+      "album": {
         "name": "Oppenheimer (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk"
       },
@@ -5846,7 +5880,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 217610,
       "name": "Cora Roto",
       "url": "https://open.spotify.com/track/35fSKiaVknkbEBJxvqKuHU"
@@ -6786,7 +6820,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 463737,
       "name": "DEMO #4: BellaK.O.",
       "url": "https://open.spotify.com/track/2eQFpLpV3jteALVz85YKIs"
@@ -6822,7 +6856,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 222133,
       "name": "DEMO #5: nostalgIA",
       "url": "https://open.spotify.com/track/5ne3gNVpzya4jOH8hOmNkL"
@@ -6840,7 +6874,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 215055,
       "name": "Demo 5 Nostalgia Intro - Remix",
       "url": "https://open.spotify.com/track/7KBsgiueEgAtNiKxgIxTMj"
@@ -12268,6 +12302,24 @@
       "duration_ms": 73624,
       "name": "idyll",
       "url": "https://open.spotify.com/track/4DDUkQ9uqDpWBzJQuPErrI"
+    },
+    {
+      "album": {
+        "name": "idyll",
+        "url": "https://open.spotify.com/album/0tD93sRLtDnm47FQvHqmhQ"
+      },
+      "artists": [
+        {
+          "name": "Luke Willies",
+          "url": "https://open.spotify.com/artist/3uIws1bbX1b53e0xJpz94r"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73795,
+      "name": "idyll",
+      "url": "https://open.spotify.com/track/3hDGLi1TjRpnZ2NbpQv42R"
     },
     {
       "album": {
@@ -18236,7 +18288,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 190496,
       "name": "No Ando Weandoo",
       "url": "https://open.spotify.com/track/1T78wK9LcjZjkScZSPOQ12"
@@ -18426,7 +18478,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 148314,
       "name": "No Me Sueltes",
       "url": "https://open.spotify.com/track/0nxTx0b1KOKwycQESSeZym"
@@ -19084,7 +19136,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 140461,
       "name": "Oah Oah",
       "url": "https://open.spotify.com/track/3RjfJ510iifdsQs06QAELV"
@@ -19780,6 +19832,24 @@
       "duration_ms": 154906,
       "name": "Oye Mami Solo Dime",
       "url": "https://open.spotify.com/track/6TLswDt7BmnsoSpYTf9Ysg"
+    },
+    {
+      "album": {
+        "name": "Oye Mami Solo Dime",
+        "url": "https://open.spotify.com/album/09VeI6G1FqRSvMeTX47jLi"
+      },
+      "artists": [
+        {
+          "name": "TuGoldoFiltra",
+          "url": "https://open.spotify.com/artist/6uBpKQRBTcxm7LAmP5ubRl"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154935,
+      "name": "Oye Mami Solo Dime",
+      "url": "https://open.spotify.com/track/3Q6o01nivhX5FkHVMfBLm5"
     },
     {
       "album": {
@@ -26944,7 +27014,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 169481,
       "name": "Tiempo Perdido",
       "url": "https://open.spotify.com/track/77S5hcSZ92RorzzHbpTtJZ"
@@ -29506,7 +29576,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 125062,
       "name": "WHAT U KNOW BOUT LOVE - SHISHI RMX",
       "url": "https://open.spotify.com/track/4KVb9XgRT17hTiCfoGmZka"

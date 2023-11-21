@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-285 songs - 17 hr 8 min
+286 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,8 @@
 | [Too Big \- Atjazz Remix](https://open.spotify.com/track/2PsqQ6h3BoK1nLoTsUqTUv) | [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [Too Big \(Atjazz Remix\)](https://open.spotify.com/album/2Mpkl9q3cLbupeV9g3NeAs) | 4:08 | 2022-09-22 | 2022-09-28 |
 | [Too Much](https://open.spotify.com/track/74lXEOR1jwNlqIRGXdcIn7) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [edbl & friends – Jackson Mathod](https://open.spotify.com/album/4Dm4vJNsXbsutvoeNRqjSI) | 2:52 | 2023-10-05 |  |
 | [Treat U Good](https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Lyriya](https://open.spotify.com/artist/3kh6Ltl9keXAm5NcLvdSjI), [MERON](https://open.spotify.com/artist/1PUEwFv131uL8pigp6fNlG) | [Treat U Good](https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA) | 3:37 | 2022-09-09 |  |
-| [Trippin](https://open.spotify.com/track/6hURVOp7JtavNu11tfl912) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Trippin](https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs) | 3:10 | 2022-09-09 |  |
+| [Trippin](https://open.spotify.com/track/2VTV2S3TThrY5fGjWHZ6yu) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Trippin](https://open.spotify.com/album/5czzOP2xMdJJybVvju91DF) | 3:10 | 2023-11-16 |  |
+| [Trippin](https://open.spotify.com/track/6hURVOp7JtavNu11tfl912) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Trippin](https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs) | 3:10 | 2022-09-09 | 2023-11-21 |
 | [Trouble to Share](https://open.spotify.com/track/2Z4TNNcJCzsEmecTUQdE2B) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO) | [Trouble to Share](https://open.spotify.com/album/4eYcxWOrAIrbuy6bOCJvSw) | 4:00 | 2022-09-09 | 2022-10-15 |
 | [Vibe of Summer](https://open.spotify.com/track/2Vbop7qUGV7sLfJst1aUXe) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [NEON](https://open.spotify.com/album/1vZo2FBorjIp6TuYdjV3GA) | 3:27 | 2022-10-14 | 2023-07-11 |
 | [Vibe of Summer](https://open.spotify.com/track/3bNTws4fs7hgliXbfBmN3d) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [NEON](https://open.spotify.com/album/1TgpfmHtQM4sUrGowYTtn2) | 3:27 | 2022-09-09 | 2022-10-15 |

@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: odol
 
-994 songs - 2 day 13 hr 57 min
+996 songs - 2 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [CODE GE4SS](https://open.spotify.com/track/5bIptZAYkYhWutd3iNXM5E) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [CODE GE4SS](https://open.spotify.com/album/0jCaRxlxjv1H0FDX2stA2v) | 2:32 | 2023-06-27 | 2023-10-11 |
 | [Come on!](https://open.spotify.com/track/73YxdqteKf2x01wFaZaMSt) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Come on! / Tokyo gurashi](https://open.spotify.com/album/7Ja2vAtzmcvdQjnhVxw460) | 4:47 | 2023-01-12 | 2023-02-08 |
 | [Coming Outs!](https://open.spotify.com/track/1dWxTJLqaSBSxqtsLxgWYj) | [SUBARASHIKA](https://open.spotify.com/artist/6aNahzVflJNhU49Ttmvsq5) | [Coming Outs!](https://open.spotify.com/album/5njxeWgiKaS7tnYFPj7LUv) | 2:55 | 2023-10-31 | 2023-11-08 |
+| [Connector Fuck Man](https://open.spotify.com/track/4iqKxmIaivhpczzqgWwvwh) | [Texas 3000](https://open.spotify.com/artist/0vXeC8scvNvE6vIzpGTXeV) | [tx3k](https://open.spotify.com/album/0ZvwbbtzkhWNYwGuoccJ16) | 3:14 | 2023-11-16 |  |
 | [Countdown Rag](https://open.spotify.com/track/4I3f7odzNXdhDrxX4W4aT3) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Inner Dialog](https://open.spotify.com/album/48AHaxshOHD3ktB9Ea5RDN) | 5:25 | 2023-04-18 | 2023-04-26 |
 | [Crushing](https://open.spotify.com/track/7FHelgV9xeITVJjKwGUzOm) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Crushing](https://open.spotify.com/album/1Dge2M4uqmtw9v2z3Yy10S) | 3:34 | 2023-09-05 | 2023-09-20 |
 | [Crying Dancer](https://open.spotify.com/track/1jqdn9pXhWXsASjMhn0u8k) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Crying Dancer](https://open.spotify.com/album/57Hy9sa2xYdcElkTaQbjaR) | 3:48 | 2023-01-24 | 2023-02-01 |
@@ -138,7 +139,7 @@
 | [Dawn \(Intro\)](https://open.spotify.com/track/3XP4BA3PT4JSZe1Nplr1IZ) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3) | [Beige](https://open.spotify.com/album/4T0Va4f8kimg1wqdpEIFaR) | 2:06 | 2023-04-04 | 2023-04-14 |
 | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/1fHXLiqPG6su57eAlbnjVO) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 4:43 | 2023-05-18 | 2023-08-09 |
 | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/5b03vF7Qyc70kDJHiQZ8L7) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/album/7ridH3ntXiiWfC2jA6uqb3) | 4:43 | 2023-05-10 | 2023-05-13 |
-| [Daydream](https://open.spotify.com/track/4O8svCJbCldgKp4meuXRKr) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM), [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [Daydream](https://open.spotify.com/album/6FR3pCx1lAGyWlkGVIWkP0) | 3:38 | 2023-08-17 |  |
+| [Daydream](https://open.spotify.com/track/4O8svCJbCldgKp4meuXRKr) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM), [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [Daydream](https://open.spotify.com/album/6FR3pCx1lAGyWlkGVIWkP0) | 3:38 | 2023-08-17 | 2023-11-21 |
 | [Daydream Believer feat\. BIM](https://open.spotify.com/track/4fA0MAm36U4x4B3gb9qE36) | [No Buses](https://open.spotify.com/artist/5Tj6sv1bYiB4PqvvXcTSr6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Sweet Home](https://open.spotify.com/album/6U8mea9zHq3z2yJmx8wKA7) | 2:56 | 2023-03-30 | 2023-04-14 |
 | [dead and breakfast](https://open.spotify.com/track/0XMtzum82NlWZugjm3RaLp) | [YOHLU](https://open.spotify.com/artist/0jGNWHlBqs3In2Ik2AoLIl) | [DEAD AND BREAKFAST](https://open.spotify.com/album/0orGDBvpMtcFP6O5M0mS4w) | 3:42 | 2023-08-30 | 2023-09-01 |
 | [dead and breakfast](https://open.spotify.com/track/6Wq1MSFJVPsVyWBHaGImW8) | [YOHLU](https://open.spotify.com/artist/0jGNWHlBqs3In2Ik2AoLIl) | [DEAD AND BREAKFAST](https://open.spotify.com/album/7J7BgYGnKt5pZmoRTaIIbW) | 3:42 | 2023-08-29 | 2023-08-31 |
@@ -559,6 +560,7 @@
 | [Synergy](https://open.spotify.com/track/0qpw1DaobgqEb1w89zU37U) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Synergy](https://open.spotify.com/album/4XxZJsBbE0O0hUhNUvvKHt) | 3:17 | 2023-09-26 |  |
 | [Tableaux タブローズ](https://open.spotify.com/track/3JN19bBEL7y9kQpsUPWnM2) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [e o](https://open.spotify.com/album/5rotTIzASSa2IDU9uQA0nQ) | 4:29 | 2023-05-30 | 2023-09-06 |
 | [TAI/ON](https://open.spotify.com/track/42YsXTgv2k4uoDcWWnoK2y) | [saccharin](https://open.spotify.com/artist/5X06dtFcjyvVvBrKXGhXkI) | [TAI/ON](https://open.spotify.com/album/3HmzhY4fugniQSjk79jI9F) | 2:36 | 2023-08-15 | 2023-08-23 |
+| [Take Me Back \(Remix Sessions feat\. Michael Kaneko\)](https://open.spotify.com/track/1S4LePTjz5Z6YrQEmhglEk) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hiro\-a\-key](https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe), [Kibunya](https://open.spotify.com/artist/6tzDk1UFAcp7usb1RJYdVN) | [Take Me Back \(Remix Sessions feat\. Michael Kaneko\)](https://open.spotify.com/album/1ZxezzfIZkikQHqUt0tRsY) | 4:03 | 2023-11-16 |  |
 | [TAMAPOP](https://open.spotify.com/track/0OOPBKWeYrs2r1uO0YGNcq) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [TAMAPOP](https://open.spotify.com/album/08PSIJlxxQu35GFUUU08q6) | 1:57 | 2023-08-08 | 2023-08-23 |
 | [TAMAPOP](https://open.spotify.com/track/0dkJRyRHYbhutsr6th52VI) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [TAMAPOP](https://open.spotify.com/album/4O9A91iZSDqZC8A4jaexuv) | 1:57 | 2023-08-08 | 2023-08-10 |
 | [TAPIR](https://open.spotify.com/track/5WpLjDERE5fEyzDQUsyYFh) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [TAPIR](https://open.spotify.com/album/12msNgPx2JGTluVY08P3kb) | 4:05 | 2023-07-11 | 2023-07-19 |
@@ -831,7 +833,7 @@
 | [喉仏のクリスマス](https://open.spotify.com/track/1w2R8AIHPJBZf8XLHfSxTy) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [喉仏のクリスマス](https://open.spotify.com/album/6ZdtQWdJLwpyVTnll09wz0) | 3:38 | 2023-11-07 |  |
 | [喫う彩度](https://open.spotify.com/track/6plWQyGonDQK73zhZiQBWG) | [ヘンショクリュウ](https://open.spotify.com/artist/5c1AFtbA8qJf9R77Qz9LzZ) | [PRRDXX](https://open.spotify.com/album/3HZ9yhWrCqQBLUdJBv4CuQ) | 3:00 | 2023-02-28 | 2023-03-08 |
 | [在夜市再見](https://open.spotify.com/track/3e2DlkRgMkGQyRpHvxuekb) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX), [Tabu Zombie](https://open.spotify.com/artist/3Vp0jjkPKrwvBWfYCXyDRC) | [在夜市再見](https://open.spotify.com/album/4T8JGSQyzpRN9LclQj3ki5) | 4:42 | 2023-05-26 |  |
-| [在東京少年](https://open.spotify.com/track/605J8O8EnF8FThxJ8Ma0G7) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [式日散花](https://open.spotify.com/album/7j7qbYpUeyXm543KD9lIC5) | 3:38 | 2023-09-14 |  |
+| [在東京少年](https://open.spotify.com/track/605J8O8EnF8FThxJ8Ma0G7) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [式日散花](https://open.spotify.com/album/7j7qbYpUeyXm543KD9lIC5) | 3:38 | 2023-09-14 | 2023-11-21 |
 | [境川天国方面](https://open.spotify.com/track/6YDByGDQItlSOFlJCtsuRW) | [樂円音樂](https://open.spotify.com/artist/043ssY1AZoNzcjnxO1BAx0) | [境川天国方面](https://open.spotify.com/album/1RtnqcpFDn9fII1vJ8PPg5) | 3:38 | 2023-06-27 | 2023-07-05 |
 | [夏の夢は](https://open.spotify.com/track/7x6kyQTNiScCMXbEQlqF1u) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [夏の夢は](https://open.spotify.com/album/5g5omcP2NhrxMsQcMzyQWS) | 3:16 | 2023-07-18 | 2023-10-25 |
 | [夏の幻](https://open.spotify.com/track/51BQiEhabU3nOkcHDzDx1G) | [Aiha Higurashi](https://open.spotify.com/artist/1oS5n03FGtebXlokUgxcUm) | [夏の幻](https://open.spotify.com/album/2GCwEgwpCBjxTjCmx2WFzP) | 4:01 | 2023-10-10 | 2023-10-18 |

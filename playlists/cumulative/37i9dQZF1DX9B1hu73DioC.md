@@ -4,7 +4,7 @@
 
 > Vibey indie tracks for just hanging out.
 
-710 songs - 1 day 18 hr 35 min
+711 songs - 1 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [getforward](https://open.spotify.com/track/1FT8VzkSDfH90Dc9XxjbEL) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [getforward](https://open.spotify.com/album/5j2DVBoeO3YeAPtz9Nyqlg) | 10:00 | 2021-05-06 | 2022-07-29 |
 | [Getting It On](https://open.spotify.com/track/2HFLh8qlNfW4EPpHVHz7Ej) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES \- EP](https://open.spotify.com/album/36EvrQUkP9yDwRYP8uRr3R) | 3:00 | 2020-10-05\* | 2022-04-11 |
 | [Ghost On The Mend](https://open.spotify.com/track/6bBlZ4W1IhzdVKrXRDUTDR) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb) | [Ghost On The Mend](https://open.spotify.com/album/0o0Lfrkk55AJ8bU1t2zTsH) | 2:39 | 2021-08-27 | 2022-07-29 |
-| [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 | 2023-04-21 |  |
+| [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 | 2023-04-21 | 2023-11-21 |
 | [girl in new york](https://open.spotify.com/track/6APTEV2EIRpBEvuTrS5XTv) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [girl in new york](https://open.spotify.com/album/5VcW0GioIrLZ8WZbhrhcL5) | 3:31 | 2020-10-05\* | 2022-05-21 |
 | [Give Me Her](https://open.spotify.com/track/2S4SKBEnfJGqc4smQCwvPb) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Give Me Her](https://open.spotify.com/album/1Nx0l3is4MZBMGVNtnrmVs) | 1:14 | 2021-05-05 | 2022-04-18 |
 | [Give Up Baby Go](https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 4:17 | 2023-04-06 |  |
@@ -667,6 +667,7 @@
 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2020-10-05\* | 2022-04-20 |
 | [U\-Turn](https://open.spotify.com/track/3wXCGcQVwmvVaIp4aqEA5v) | [Derek Simpson](https://open.spotify.com/artist/7qyN87BH8AmA498RL3K21d) | [U\-Turn](https://open.spotify.com/album/0xsUSF7PFeyYMZPHSvqW6l) | 3:56 | 2021-04-04 | 2022-07-23 |
 | [Ultraviolence](https://open.spotify.com/track/2Vogx6NbF6o4bfLhzKmo3O) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/0xM5ya1HwAoc8ubvL5GORB) | 4:11 | 2021-03-16 | 2021-05-27 |
+| [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 | 2023-09-29 |  |
 | [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 | 2023-07-07 | 2023-11-05 |
 | [Un Millón](https://open.spotify.com/track/4yZq5QgUhKq0bO6ExHF2a0) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Millón](https://open.spotify.com/album/33sKQam5Pn9GN0Dwu5Wa9i) | 2:47 | 2021-06-04 | 2022-04-16 |
 | [Under The Sun](https://open.spotify.com/track/3KRiNc9gBfTe15xM1XVGHp) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Under The Sun](https://open.spotify.com/album/45ubqbPdQyqmYEj9FFzmQ4) | 3:37 | 2021-10-08 | 2022-04-15 |

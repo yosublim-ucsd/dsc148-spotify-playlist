@@ -3467,6 +3467,24 @@
     },
     {
       "album": {
+        "name": "Good People / Afterhours",
+        "url": "https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2023-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171858,
+      "name": "Chill Pad Deluxe",
+      "url": "https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM"
+    },
+    {
+      "album": {
         "name": "Chivalry Is Not Dead",
         "url": "https://open.spotify.com/album/6872EZ9OSw9I7JO560E58c"
       },
@@ -4116,7 +4134,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 141611,
       "name": "crying through my teeth - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2zbzndFcAtAUH4x5J2pcF7"
@@ -12497,6 +12515,28 @@
     },
     {
       "album": {
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/1id0bR1ZwV7dARis2wu4V5"
+      },
+      "artists": [
+        {
+          "name": "Flozigg",
+          "url": "https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv"
+        },
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/7hodbs05Q9ZhGCgflz3xdM"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214738,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/15ZxSLwa0IAPbwz1R9i7RQ"
+    },
+    {
+      "album": {
         "name": "only u",
         "url": "https://open.spotify.com/album/2U7bhZNHzxwpRJQ9de7LmZ"
       },
@@ -13533,6 +13573,24 @@
     },
     {
       "album": {
+        "name": "it was nice knowing u",
+        "url": "https://open.spotify.com/album/2lTY9F1Grt1D0HPsaQrGGT"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "date_added": "2023-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176347,
+      "name": "pretty photos",
+      "url": "https://open.spotify.com/track/1PmXc402f75cyfgLlXWSEH"
+    },
+    {
+      "album": {
         "name": "Primal Design",
         "url": "https://open.spotify.com/album/1BbC0yD5Cu1CtivfdILB3w"
       },
@@ -14302,7 +14360,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 210910,
       "name": "Rodeo Clown",
       "url": "https://open.spotify.com/track/7MrklDIUaRUecz3RDCcjM5"
@@ -17440,7 +17498,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 111063,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/0COURFiJSO9R4Bz3gAP1VW"

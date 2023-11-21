@@ -3028,7 +3028,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 221893,
       "name": "Sajna Ji Vaari Vaari",
       "url": "https://open.spotify.com/track/66wEHvHkE7iz73PEob4Y98"
@@ -3890,6 +3890,32 @@
       "duration_ms": 128330,
       "name": "Va Va Voom (From \"The Archies\")",
       "url": "https://open.spotify.com/track/1vUau8NMY4vdUrdPzAAsLj"
+    },
+    {
+      "album": {
+        "name": "Vaari Vaari",
+        "url": "https://open.spotify.com/album/11MHkHTCh8qKoG6beDGHD6"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Avinash Chouhan",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161301,
+      "name": "Vaari Vaari",
+      "url": "https://open.spotify.com/track/2xOmEPAN79q9s2rfp50vIz"
     },
     {
       "album": {

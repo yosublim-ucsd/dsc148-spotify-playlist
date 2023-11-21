@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Sfera Ebbasta, Neima Ezza, Nerissima Serpe e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,325 likes - 100 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,359 likes - 100 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 99 | [Indipendente freestyle](https://open.spotify.com/track/5Eo1jdhrv5gSNn4LB2eWUz) | [MR Rizzus](https://open.spotify.com/artist/1lbjFxJSZCuCjiOKuMfmiO) | [SORVEGLIATO SPECIALE MIXTAPE](https://open.spotify.com/album/4quGLERXIUVQ8ZtdcUM6kf) | 1:19 |
 | 100 | [MENTALITÉ](https://open.spotify.com/track/3qVucXBmqvWWsqM4wedd3o) | [Mido](https://open.spotify.com/artist/4IDQpLt670azHbRBQkwZQP) | [MENTALITÉ](https://open.spotify.com/album/6034Syj80TAAbBqcNmVB53) | 2:32 |
 
-Snapshot ID: `MCxkNjQyMDg1ZDBkZDEyY2M5NGUwZGJjMjU5Y2VhNmI5OTMxYWI3MDM0`
+Snapshot ID: `MCwxZjYxODBkMzJhOWJjNzc2MWUxYzFjMWE0NjAwZWYwYTE1NDE3NDZh`

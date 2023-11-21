@@ -21311,6 +21311,24 @@
     },
     {
       "album": {
+        "name": "Coffee Shop",
+        "url": "https://open.spotify.com/album/7iK96zBOzUB8ROy0qcMSvy"
+      },
+      "artists": [
+        {
+          "name": "ax am",
+          "url": "https://open.spotify.com/artist/1aYBi1snyye9aYO5Vs3OTO"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135146,
+      "name": "Coffee Shop",
+      "url": "https://open.spotify.com/track/43IS06oECXtadEuFCuqDiX"
+    },
+    {
+      "album": {
         "name": "coffee shop",
         "url": "https://open.spotify.com/album/0xDzKvC7WIwFwR2FQoHW3C"
       },
@@ -43264,7 +43282,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 122769,
       "name": "Green",
       "url": "https://open.spotify.com/track/4yp5yBCcbZDJcU3omA2G1w"
@@ -47084,6 +47102,24 @@
       "duration_ms": 148316,
       "name": "Honey",
       "url": "https://open.spotify.com/track/3J5TOfdapr7qhtHBTVyVkv"
+    },
+    {
+      "album": {
+        "name": "Honey and Spice",
+        "url": "https://open.spotify.com/album/3TsuK7dDF9d0Ab7VwMuqsw"
+      },
+      "artists": [
+        {
+          "name": "Rafa Figueroa",
+          "url": "https://open.spotify.com/artist/5c8MjSwcTCJNWBtpKMWywB"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Honey and Spice",
+      "url": "https://open.spotify.com/track/5ENIpwHxPVyKEp1JUGxZt8"
     },
     {
       "album": {
@@ -68078,7 +68114,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "Monogatari",
       "url": "https://open.spotify.com/track/7JF6UFBq1v7ryBWrxR7lwd"
@@ -113308,7 +113344,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 93987,
       "name": "Velvet",
       "url": "https://open.spotify.com/track/3T2sH7tgJoq2PtHsFMq2ZQ"
@@ -121036,7 +121072,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 135603,
       "name": "You, My Love",
       "url": "https://open.spotify.com/track/6bO9af6eKCyJtDoAgx0uQB"

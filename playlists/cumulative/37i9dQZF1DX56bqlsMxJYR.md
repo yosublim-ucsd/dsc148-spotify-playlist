@@ -4,7 +4,7 @@
 
 > Classic hits from the 50s and 60s.
 
-375 songs - 16 hr 59 min
+376 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Personality](https://open.spotify.com/track/5vjigjfoXuJEttqLB3HTAg) | [Lloyd Price](https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2) | [Lloyd Price Greatest Hits: The Original ABC\-Paramount Recordings](https://open.spotify.com/album/5qYhWkc4dKbKuevLza5rlh) | 2:37 | 2020-12-16 | 2022-07-29 |
 | [Pretend](https://open.spotify.com/track/0nQq0gmq7gcOWyLGrtqu8Z) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Ultimate Collection](https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od) | 2:45 | 2022-03-07 | 2022-04-21 |
 | [Puppy Love](https://open.spotify.com/track/6PsEyLPVh3kC8OPJF960tg) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [21 Golden Hits](https://open.spotify.com/album/0G9JiVoIric9mCMeAGmflu) | 2:45 | 2022-03-07 | 2022-04-21 |
+| [Puppy Love \- Remastered](https://open.spotify.com/track/1mdfrHeZzxjz0FJ4BKRuxS) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Paul Anka Sings His Big 15 \(Remastered\)](https://open.spotify.com/album/4avsZn38cgMEmxmGdpb4lp) | 2:41 | 2023-08-03 |  |
 | [Put A Little Love In Your Heart](https://open.spotify.com/track/1fQn0TtyvkS6PjdVOitG4p) | [Jackie DeShannon](https://open.spotify.com/artist/0iVed2Qu7dmL0pIYCj1Xw8) | [The Very Best Of Jackie DeShannon](https://open.spotify.com/album/7kxfDfYncthSbWnXZ6NKFD) | 2:36 | 2020-12-16 | 2022-07-29 |
 | [Put Your Head On My Shoulder](https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Put Your Head On My Shoulder: The Very Best Of Paul Anka](https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON) | 2:34 | 2022-03-07 |  |
 | [Que Sera, Sera \(Whatever Will Be Will Be\)](https://open.spotify.com/track/2eRPbqkCDYHcGOPGQ8RX5o) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [My Kind Of Music \- A Fine Romance](https://open.spotify.com/album/5yZZnBJ8S8xeeONqkAIBsg) | 2:05 | 2022-03-07 | 2022-04-21 |
@@ -354,7 +355,7 @@
 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 | 2020-12-16 |  |
 | [Where The Boys Are](https://open.spotify.com/track/6N3LlP0e7sWkNaTw8aXEnX) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [20th Century Masters: The Millennium Collection: Best of Connie Francis](https://open.spotify.com/album/3B3SalHPlLiQvwftRPYXcN) | 2:39 | 2020-12-16 | 2022-05-04 |
 | [Who Put The Bomp \(In The Bomp, Bomp,Bomp\)?](https://open.spotify.com/track/30txFxKhnMJqUXz0xx0x39) | [Barry Mann](https://open.spotify.com/artist/3OmuR7XFXBig8yLeMSm9mU) | [The Complete Best Of](https://open.spotify.com/album/4uDButkVrJfajurDPoxoDC) | 2:47 | 2020-12-16 | 2022-07-29 |
-| [Who's Sorry Now](https://open.spotify.com/track/4bzvhZFlV9UqQ3EmV2i8s4) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:16 | 2023-08-03 |  |
+| [Who's Sorry Now](https://open.spotify.com/track/4bzvhZFlV9UqQ3EmV2i8s4) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:16 | 2023-08-03 | 2023-11-21 |
 | [Who's Sorry Now](https://open.spotify.com/track/6VlHxpNEDikJh617edCYzz) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [20th Century Masters: The Millennium Collection: Best of Connie Francis](https://open.spotify.com/album/3B3SalHPlLiQvwftRPYXcN) | 2:19 | 2022-03-07 | 2022-04-21 |
 | [Why](https://open.spotify.com/track/0CRxGsJrwOMQUuTr4yT5mX) | [Frankie Avalon](https://open.spotify.com/artist/5zNOI87gG4RttFmYAZWaxQ) | [Beach Party](https://open.spotify.com/album/1mh6ZNXSK0kCLebYxFXTSO) | 2:37 | 2022-03-07 | 2022-04-21 |
 | [Why Do Fools Fall in Love](https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf) | [Frankie Lymon](https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk), [The Teenagers](https://open.spotify.com/artist/1Crbmyf2bkbeOvckSlQFng) | [The Best Of Frankie Lymon & The Teenagers](https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm) | 2:19 | 2020-12-16 | 2022-11-13 |

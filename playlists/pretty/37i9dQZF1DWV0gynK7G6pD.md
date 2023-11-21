@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Stephan Moccio
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,603 likes - 72 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,750 likes - 72 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 71 | [The Birds \- Instrumental](https://open.spotify.com/track/25dhOm8JZTAWyT4V9lXFUx) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [The Birds \(Instrumental\)](https://open.spotify.com/album/0OnwOWmPVDnBlNxv1s83dH) | 4:05 |
 | 72 | [Notre Dame, Op\. 2: Intermezzo\. Sehr zurückhalten \- Langsam](https://open.spotify.com/track/2qxbe1zc0qrUjnoXsskeQM) | [Franz Schmidt](https://open.spotify.com/artist/0Fx0FF13vvAQ3gmBE5LmhH), [Jonathan Berman](https://open.spotify.com/artist/3P2fXUvxvsdw0iiTSf58Z7), [BBC National Orchestra Of Wales](https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf) | [Schmidt: The Symphonies](https://open.spotify.com/album/71x8JOM6Aa5mc5p4azGl4Q) | 3:38 |
 
-Snapshot ID: `MCw0MjRhMTdlYjVjMjBiM2VkOTU1MzJkZDIyNDVmNzFjNmRiNWM4YzNh`
+Snapshot ID: `MCw2ZjNkNjRhMjQ0YTk0ZTA3ZGI5MWFhYjM2NDg4NjZkNWJhMjRjMDk3`

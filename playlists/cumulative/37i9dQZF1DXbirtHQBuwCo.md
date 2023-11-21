@@ -4,7 +4,7 @@
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: Jay Park\(박재범\)\)
 
-644 songs - 1 day 10 hr 38 min
+645 songs - 1 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Dew](https://open.spotify.com/track/7GBYlHlShMCcdQv9aiUw8y) | [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe), [hevel](https://open.spotify.com/artist/7gnhLu1Gs5WaOuOPnFm9js), [DASU](https://open.spotify.com/artist/6KTycwV94S3FJhfu1tXa3b) | [Dew](https://open.spotify.com/album/6UesXx8nmvnYOFOCAPjxTo) | 3:20 | 2022-12-20 | 2023-01-11 |
 | [Diamonds \(feat\. TAEYONG\)](https://open.spotify.com/track/1ng5jtfyr1MaEfmKvsXw48) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [FLYIN' PART1](https://open.spotify.com/album/0etZxsWdhonXX7O6bKi04N) | 3:11 | 2022-06-20 | 2022-07-29 |
 | [Diana](https://open.spotify.com/track/4xChDslAFhMiNorFDUYcMA) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Empty Room](https://open.spotify.com/album/25gvEn37EkGGQzvpXc9Dzl) | 3:13 | 2022-04-19 | 2022-04-21 |
+| [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 | 2023-11-19 |  |
 | [Die For You \(feat\. Kelsey Kuan\)](https://open.spotify.com/track/7K7Mg9iQ8ZnD5EEwm27gw2) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Twilight](https://open.spotify.com/album/1m8GgkDxECNCVgRTFikwMX) | 3:12 | 2022-12-26 | 2023-01-11 |
 | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래 \(feat\. BIG Naughty\)](https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래](https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa) | 3:29 | 2022-07-07 | 2022-07-25 |
 | [Distance \(Feat\. I.M of MONSTA X\)](https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:11 | 2022-07-04 | 2022-08-13 |
@@ -456,7 +457,7 @@
 | [Paris With You](https://open.spotify.com/track/0uN9oUZ9f6XNsG8nllbqN3) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Jae Luna](https://open.spotify.com/artist/0z1uYQ5NabhwzkRMHfUipU) | [Midnight In Paris](https://open.spotify.com/album/4dhpEHuZMveGlRQUNYmbJa) | 3:08 | 2022-05-28 | 2022-06-15 |
 | [Pastel](https://open.spotify.com/track/2LMMPM5a6djUmhoQnjnap2) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [WHEE](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) | 2:22 | 2022-06-16 | 2022-07-18 |
 | [Peaches](https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:18 | 2022-04-19 |  |
-| [Peanut Butter & Tears](https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Peanut Butter & Tears](https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I) | 3:45 | 2023-08-04 |  |
+| [Peanut Butter & Tears](https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Peanut Butter & Tears](https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I) | 3:45 | 2023-08-04 | 2023-11-21 |
 | [Perfect \(Feat\. Jeon Chae Un\)](https://open.spotify.com/track/0CYilR3ZTilNSB3XUS3Coh) | [888Unpublic](https://open.spotify.com/artist/7GfbeRXNmdGsZ7pK9tHHDv), [Jeon Chae Un](https://open.spotify.com/artist/3tSgFeF4GEs4zENwoLmhlm) | [Perfect](https://open.spotify.com/album/43Uyvg3x4ggVQ7uLOQ1JZ1) | 3:57 | 2022-06-18 | 2022-06-24 |
 | [Perfect day \(Feat\. Ashley Alisha, nobody likes you pat\)](https://open.spotify.com/track/4VIvga2PV99JWUPg8bJ0Do) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [Totoro](https://open.spotify.com/album/0W5MlKa1GpzGVpoTtHifP3) | 2:57 | 2022-04-19 | 2022-07-29 |
 | [Permission to Dance \(R&B Remix\)](https://open.spotify.com/track/2iLgHSA5ar3kJKUWvegGPm) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/6oLwgqPJrxnTibrzawDGqY) | 3:36 | 2022-04-19 | 2022-04-21 |

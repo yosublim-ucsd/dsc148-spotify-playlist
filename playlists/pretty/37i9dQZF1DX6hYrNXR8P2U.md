@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Más música, menos etiquetas\. <br/>📷 Evlay
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,940 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,951 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 99 | [pensando en mí](https://open.spotify.com/track/32hmIJoOZOS1WM0LL9zzeM) | [ill quentin](https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH) | [q\*](https://open.spotify.com/album/3CC1TrFsBYU7aqEx0KmwkP) | 2:24 |
 | 100 | [LA WEÁ](https://open.spotify.com/track/4hy5vm3FW1Mk6S58vq6MVk) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [LA WEÁ](https://open.spotify.com/album/5JYpBK9MW7ia6Nn95jy0Nv) | 2:50 |
 
-Snapshot ID: `MCxhODg5ZjNhZTIwZmU3Y2ZlYWQ2OWE1N2EwMTFhOTRlNjNjYWY2ZTQy`
+Snapshot ID: `MCxmYmZhYjA0OThhOWUyZTc2OGY0ODkyNWNjYmVjMDZlZDA5NDlhZGMz`

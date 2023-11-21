@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 354446,
+  "num_followers": 354559,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDEwNjA3MzJiYjI3ZjhlZmVlMDYzNTczNmZjYzlmMjFlMDg3YjZi",
+  "snapshot_id": "MCxiYjBlNWQyODIyNjdjZjUyYmNiYzExNWE1M2Q4MzYzZDlhYTA1M2M2",
   "tracks": [
     {
       "added_at": "2023-03-31 04:11:02",
@@ -239,22 +239,6 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Gumbo",
-        "url": "https://open.spotify.com/album/7wAWsia8smE3scMtlO0nOx"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 197081,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/0loJyuSFr6vVPBQSmLLrrQ"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7pfQDManhpjhxwqps9cveA"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 221969,
       "name": "Untitled (How Does It Feel)",
       "url": "https://open.spotify.com/track/6ALoVRxwV5KxaSWyejnmvi"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "Gumbo",
+        "url": "https://open.spotify.com/album/7wAWsia8smE3scMtlO0nOx"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 197081,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/0loJyuSFr6vVPBQSmLLrrQ"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2"
-      },
-      "artists": [
-        {
-          "name": "Chloe x Halle",
-          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
-        }
-      ],
-      "duration_ms": 173206,
-      "name": "Sending My Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
         "name": "sweet thing",
         "url": "https://open.spotify.com/album/4bBfdqQvPwbwKcxt7fXzpz"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 192220,
       "name": "sweet thing",
       "url": "https://open.spotify.com/track/2CyzCewZZ1ilsGDClxWuA0"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        }
+      ],
+      "duration_ms": 173206,
+      "name": "Sending My Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf"
     },
     {
       "added_at": "2021-01-15 05:01:00",

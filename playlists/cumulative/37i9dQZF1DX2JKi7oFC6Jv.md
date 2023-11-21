@@ -4,7 +4,7 @@
 
 > The best in classic and new UK Funky\. Cover: Roska
 
-148 songs - 11 hr 23 min
+149 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Cattiva II](https://open.spotify.com/track/7ogVjE9sdMw6z61M1qfEX6) | [DJ Tess](https://open.spotify.com/artist/6vORm2dI5te54ETv0BBANC) | [Cattiva II / Nightmare](https://open.spotify.com/album/0hyARzjUiNjIl7MWLEyGNj) | 5:01 | 2022-04-13 |  |
 | [Cheerio](https://open.spotify.com/track/62uqLwkVmuaLGdxrMdKUah) | [Isagen](https://open.spotify.com/artist/0ibLC9VfGqZkhehokX2v1v) | [Cheerio](https://open.spotify.com/album/11jKK1RSmXXO1Ta4bi4795) | 4:37 | 2022-04-13 | 2022-07-14 |
 | [Cheese and Bun](https://open.spotify.com/track/54NCFi6uvFsfhIMXkduSgT) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [The Patience EP](https://open.spotify.com/album/7bry7cmSNMTPYKiK36Sm7Q) | 4:27 | 2022-04-13 | 2022-07-29 |
-| [Condo \(feat\. T\-Pain\) \- Roska Remix](https://open.spotify.com/track/2Sr9fbiNrVxIWav7F3Z1qP) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Condo \(feat\. T\-Pain\) \[Remixes\]](https://open.spotify.com/album/2LRP4vOT55IKQHnQvi4hwr) | 3:52 | 2022-04-13 |  |
+| [Condo \(feat\. T\-Pain\) \- Roska Remix](https://open.spotify.com/track/2Sr9fbiNrVxIWav7F3Z1qP) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Condo \(feat\. T\-Pain\) \[Remixes\]](https://open.spotify.com/album/2LRP4vOT55IKQHnQvi4hwr) | 3:52 | 2022-04-13 | 2023-11-21 |
 | [Dancing](https://open.spotify.com/track/264HgVS2eKtoZHdaFX0JTR) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z), [Zed Bias](https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7) | [Dancing](https://open.spotify.com/album/1R8N5B7aVcATm5utF5UYsr) | 5:23 | 2022-04-13 | 2022-07-29 |
 | [De Siegalizer](https://open.spotify.com/track/05oRAIJvKCJ5Vku1RLldwB) | [Apple](https://open.spotify.com/artist/0cLE7Rf26nPEpDrm20OrHf) | [Appocolipto](https://open.spotify.com/album/2hKShqGKTrmyKECCD6VX5G) | 3:57 | 2022-04-13 |  |
 | [Devil in a Blue Dress](https://open.spotify.com/track/6mXvnvgtkVjXlg8bjzN71g) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 4:40 | 2022-04-13 |  |
@@ -124,6 +124,7 @@
 | [Stuck On You](https://open.spotify.com/track/3kD3sDDnY6K6CcCdwxMAvZ) | [PEDRO](https://open.spotify.com/artist/0itKTaTB3xwSl5Na3TdXM5), [Bryte](https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi) | [Da Linha](https://open.spotify.com/album/2hrGcp8EGqsiWOax66avCe) | 2:50 | 2022-04-13 | 2022-07-27 |
 | [Stuck On You](https://open.spotify.com/track/2Xb7RtwHMkdNF5nCDWS1W5) | [Pedro da Linha](https://open.spotify.com/artist/4vRdcYRuZQC84SzNnxSNLh), [Bryte](https://open.spotify.com/artist/3l3kDKYrIrWoPDA5R0VWEO) | [Da Linha](https://open.spotify.com/album/6SL6Sd07xhv6Rsr6TrFjPh) | 2:50 | 2022-04-13 |  |
 | [Sway feat.Correigh](https://open.spotify.com/track/19KZKypz3HmmJQ1Jg1Zgbb) | [Majora](https://open.spotify.com/artist/6qJ9p5wCCLG6DhpUrSAdyM), [Correigh](https://open.spotify.com/artist/4uqKfAQRTguryfR0sTWyAE) | [Sway\(feat.Correigh\)](https://open.spotify.com/album/7LexMFqQlohVXj3iszvqhd) | 5:44 | 2022-04-13 | 2022-07-29 |
+| [Sway feat.Correigh](https://open.spotify.com/track/4i00utwlQ3IvkHedGMqWFn) | [Majora](https://open.spotify.com/artist/6qJ9p5wCCLG6DhpUrSAdyM), [Correigh](https://open.spotify.com/artist/4uqKfAQRTguryfR0sTWyAE) | [Sway\(feat.Correigh\)](https://open.spotify.com/album/6gyv5RsnlDlTilgspcLUst) | 5:44 | 2022-04-13 |  |
 | [Swervin'](https://open.spotify.com/track/0Os1D2JYxQxolq2nCNq6LX) | [DJ Polo](https://open.spotify.com/artist/2ZG0gXLgRGunF4fBMVGKK7) | [Limonata](https://open.spotify.com/album/2Sr7v8ToVWsV4knMvV9Jzh) | 4:30 | 2022-04-13 | 2022-07-08 |
 | [Swervin'](https://open.spotify.com/track/5EIrCD2J9rcrTavGMRfQ0r) | [DJ Polo](https://open.spotify.com/artist/2ZG0gXLgRGunF4fBMVGKK7) | [Limonata](https://open.spotify.com/album/41XA8aTPXJnZig1wkoIOaS) | 4:30 | 2022-04-13 |  |
 | [T\-Shirt \- Crazy Cousinz Vocal Remix](https://open.spotify.com/track/5skRvPNGdQMBORLv1UTt0c) | [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [T\-Shirt \(UK remixes\)](https://open.spotify.com/album/7yqRpx812OgyuspBHWbPzn) | 5:35 | 2022-04-13 |  |

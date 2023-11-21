@@ -1,12 +1,12 @@
 {
   "description": "Vibras rastafari para poner en sinton\u00eda el coraz\u00f3n.",
-  "num_followers": 87279,
+  "num_followers": 87323,
   "original_name": "Reggae Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTQyZjE1MTc0MGJiMTM0Yzc2ZjZmYzIyOThhNDlhNWE3Y2M5YTVk",
+  "snapshot_id": "MCwyYjc0YWI4OTg1NWJkMDQ1OTgzYjMwYmI4ZDE1NmRmMjQ1ZmJiOGUy",
   "tracks": [
     {
       "added_at": "2023-04-28 00:04:00",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-04-28 00:04:00",
       "album": {
-        "name": "Mucha Cosa Buena",
-        "url": "https://open.spotify.com/album/2Lvsyubptl5ITRCjy0FTmH"
+        "name": "La Dulzura",
+        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
       },
       "artists": [
         {
-          "name": "Sie7e",
-          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 231573,
-      "name": "Tengo Tu Love",
-      "url": "https://open.spotify.com/track/2hgzokI1dOZAxs5PUG0gBT"
+      "duration_ms": 364959,
+      "name": "La Complicidad",
+      "url": "https://open.spotify.com/track/0yAc7tMrxA3KwdVpVDe402"
     },
     {
       "added_at": "2023-04-28 00:04:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-04-28 00:04:00",
       "album": {
-        "name": "La Dulzura",
-        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
+        "name": "Mucha Cosa Buena",
+        "url": "https://open.spotify.com/album/2Lvsyubptl5ITRCjy0FTmH"
       },
       "artists": [
         {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
         }
       ],
-      "duration_ms": 364959,
-      "name": "La Complicidad",
-      "url": "https://open.spotify.com/track/0yAc7tMrxA3KwdVpVDe402"
+      "duration_ms": 231573,
+      "name": "Tengo Tu Love",
+      "url": "https://open.spotify.com/track/2hgzokI1dOZAxs5PUG0gBT"
     },
     {
       "added_at": "2023-04-28 00:04:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-04-28 00:04:00",
       "album": {
-        "name": "B\u00e9same Morenita",
-        "url": "https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 165520,
-      "name": "B\u00e9same Morenita",
-      "url": "https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL"
-    },
-    {
-      "added_at": "2023-04-28 00:04:00",
-      "album": {
         "name": "Trippy Caribbean",
         "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 271000,
       "name": "Si El Amor Se Cae",
       "url": "https://open.spotify.com/track/0fzgd6DgpsSYg5igdOUGJR"
+    },
+    {
+      "added_at": "2023-04-28 00:04:00",
+      "album": {
+        "name": "B\u00e9same Morenita",
+        "url": "https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 165520,
+      "name": "B\u00e9same Morenita",
+      "url": "https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL"
     },
     {
       "added_at": "2023-04-28 00:04:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-04-28 00:04:00",
       "album": {
+        "name": "Tres",
+        "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 194981,
+      "name": "Ay, Ay",
+      "url": "https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd"
+    },
+    {
+      "added_at": "2023-04-28 00:04:00",
+      "album": {
         "name": "Hagan Correr la Voz",
         "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 249906,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame"
-    },
-    {
-      "added_at": "2023-04-28 00:04:00",
-      "album": {
-        "name": "Tres",
-        "url": "https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 194981,
-      "name": "Ay, Ay",
-      "url": "https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd"
     },
     {
       "added_at": "2023-04-28 00:04:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-04-28 00:04:00",
       "album": {
-        "name": "Mucha Cosa Buena",
-        "url": "https://open.spotify.com/album/2Lvsyubptl5ITRCjy0FTmH"
-      },
-      "artists": [
-        {
-          "name": "Sie7e",
-          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
-        }
-      ],
-      "duration_ms": 204360,
-      "name": "Te Regalo una Promesa",
-      "url": "https://open.spotify.com/track/0OEWFr9nOhfuHaeLcuQaHe"
-    },
-    {
-      "added_at": "2023-04-28 00:04:00",
-      "album": {
         "name": "Buenas Noticias",
         "url": "https://open.spotify.com/album/4XtplkaYKyMzIiIekNBe2n"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2023-04-28 00:04:00",
       "album": {
-        "name": "Pincoya Calipso - Pasado, Presente y Futuro",
-        "url": "https://open.spotify.com/album/7wrqy1Srwe2QqpYb4Rq7V6"
+        "name": "Mucha Cosa Buena",
+        "url": "https://open.spotify.com/album/2Lvsyubptl5ITRCjy0FTmH"
       },
       "artists": [
         {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
         }
       ],
-      "duration_ms": 263986,
-      "name": "Mi Princesa",
-      "url": "https://open.spotify.com/track/4JN86HHZDQJNd8amda2rR6"
+      "duration_ms": 204360,
+      "name": "Te Regalo una Promesa",
+      "url": "https://open.spotify.com/track/0OEWFr9nOhfuHaeLcuQaHe"
     },
     {
       "added_at": "2023-04-28 00:04:00",
@@ -779,6 +763,22 @@
     {
       "added_at": "2023-04-28 00:04:00",
       "album": {
+        "name": "Pincoya Calipso - Pasado, Presente y Futuro",
+        "url": "https://open.spotify.com/album/7wrqy1Srwe2QqpYb4Rq7V6"
+      },
+      "artists": [
+        {
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
+        }
+      ],
+      "duration_ms": 263986,
+      "name": "Mi Princesa",
+      "url": "https://open.spotify.com/track/4JN86HHZDQJNd8amda2rR6"
+    },
+    {
+      "added_at": "2023-04-28 00:04:00",
+      "album": {
         "name": "La Playa",
         "url": "https://open.spotify.com/album/0LZXfPCtqnaP9y4KsOMSWV"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 196164,
       "name": "La Playa",
       "url": "https://open.spotify.com/track/0VFp2NOB2gUYtD1raVIFir"
+    },
+    {
+      "added_at": "2023-04-28 00:04:00",
+      "album": {
+        "name": "Donde Brilla el Sol",
+        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        }
+      ],
+      "duration_ms": 269186,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/0TM45NFoyeOOMAy6sdxX3n"
     },
     {
       "added_at": "2023-04-28 00:04:00",
@@ -875,22 +891,6 @@
     {
       "added_at": "2023-04-28 00:04:00",
       "album": {
-        "name": "Donde Brilla el Sol",
-        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
-      },
-      "artists": [
-        {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
-        }
-      ],
-      "duration_ms": 269186,
-      "name": "Tu Amor",
-      "url": "https://open.spotify.com/track/0TM45NFoyeOOMAy6sdxX3n"
-    },
-    {
-      "added_at": "2023-04-28 00:04:00",
-      "album": {
         "name": "Placer",
         "url": "https://open.spotify.com/album/0e1ZAcg5owwo6xy9lOCiP7"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 173967,
       "name": "Placer",
       "url": "https://open.spotify.com/track/6VDVW9NnhfB0J9AzTdyyQq"
+    },
+    {
+      "added_at": "2023-04-28 00:04:00",
+      "album": {
+        "name": "Los Due\u00f1os De La Playa",
+        "url": "https://open.spotify.com/album/2zVtWSTT0PPvpN1mSmVsAp"
+      },
+      "artists": [
+        {
+          "name": "Alkilados",
+          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+        }
+      ],
+      "duration_ms": 169832,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/4lbUG41pBCWUc0gtc0ukTu"
     },
     {
       "added_at": "2023-04-28 00:04:00",
@@ -927,22 +943,6 @@
       "duration_ms": 237292,
       "name": "No Me Dejes De Querer",
       "url": "https://open.spotify.com/track/3P75lxnADvxMQw81uF4V60"
-    },
-    {
-      "added_at": "2023-04-28 00:04:00",
-      "album": {
-        "name": "Los Due\u00f1os De La Playa",
-        "url": "https://open.spotify.com/album/2zVtWSTT0PPvpN1mSmVsAp"
-      },
-      "artists": [
-        {
-          "name": "Alkilados",
-          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
-        }
-      ],
-      "duration_ms": 169832,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/4lbUG41pBCWUc0gtc0ukTu"
     },
     {
       "added_at": "2023-04-28 00:04:00",

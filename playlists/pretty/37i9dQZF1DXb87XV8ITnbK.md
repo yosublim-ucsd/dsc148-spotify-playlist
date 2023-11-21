@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 
 > Listen to the soundtracks of the Twinkling Watermelon\. \(반짝이는 워터멜론의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,770 likes - 64 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,197 likes - 64 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 | 20 | [밤이 깊었네 Oh! What a Shiny Night](https://open.spotify.com/track/71yXrG7UY3myMhpn2QiMh4) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [하수연가 Poor Hand Love Song](https://open.spotify.com/album/6PGzupR5yrD7zTw4FgDA5M) | 4:08 |
 | 21 | [Love Of My Life](https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 |
 | 22 | [02 Curated by Ryeoun](https://open.spotify.com/track/67H3Ir9Pw6KvAD7ElpYJnJ) | [Twinkling Watermelon](https://open.spotify.com/artist/5Vn9LZQHgwunoJ7p9j0gIV) | [Twinkling Watermelon audio liners](https://open.spotify.com/album/3Rhj36RvT5vqeMN3gqDDcf) | 0:26 |
-| 23 | [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 |
+| 23 | [Memories](https://open.spotify.com/track/11s5p72subU7SHJPzyR2Lq) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/2oPFVwB8gXNDjVGA9wDmMT) | 2:58 |
 | 24 | [Time to Shine](https://open.spotify.com/track/3uWMfe3rWSwQZT4yAgGJhH) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [Time to Shine](https://open.spotify.com/album/6Smoxllzq1IoD6J11YAEb3) | 3:18 |
 | 25 | [As You Wish](https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [As You Wish](https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo) | 3:15 |
 | 26 | [MY WAY](https://open.spotify.com/track/6w4QiIpOwtNKDMQBXBkBCS) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [STILL ON MY WAY](https://open.spotify.com/album/6aR92xjZNT47PxQDhQb4wC) | 3:27 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 | 63 | [Wherever \- Instrumental](https://open.spotify.com/track/52lTNIIPlsUkF0IL2n2430) | [Eight'O](https://open.spotify.com/artist/0ejqkHvKFByReUaH2QTfRb) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/51RCU1QDMatZNsy4gVUf7u) | 4:09 |
 | 64 | [You & Me \- Instrumental](https://open.spotify.com/track/1YtQ9PFgCydiPjpkzMIiT3) | [wYte](https://open.spotify.com/artist/6ku0yqiBqUvtZ16Pi3soDC) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 10](https://open.spotify.com/album/2ryKXv8I2Eb2K3SKBtdnfQ) | 3:10 |
 
-Snapshot ID: `MCw5ZThmN2U1YWE1MDQ1ODgyNmViY2M0ODg5NGJjZGQ1MWVmYzE5YTJh`
+Snapshot ID: `MCwyMDM4YzVkZWFiYjQ3MGVkNjUwZGJkZGZiOTg3MGIwY2YzMjIzYjhm`

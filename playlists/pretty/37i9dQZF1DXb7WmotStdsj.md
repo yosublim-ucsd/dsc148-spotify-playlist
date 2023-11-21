@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,859 likes - 60 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,333 likes - 60 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 11 | [Sahr Lyali](https://open.spotify.com/track/2KLqFKA2x5RDv8AHlKuWHY) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Sahr Lyali](https://open.spotify.com/album/5X0qe2E64Z7kHvr5zX87Tw) | 4:56 |
 | 12 | [Nabghi Nhawas](https://open.spotify.com/track/2u8hovFZoxDdTAMmgHsiMi) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh), [DJ Moulay](https://open.spotify.com/artist/3RHFZVCcl94jZRgIT51Yig) | [Nabghi Nhawas](https://open.spotify.com/album/197oMQkYh9nl8SqTrCUM19) | 4:34 |
 | 13 | [Lhalaba Rahom Bazef](https://open.spotify.com/track/0mpdpFtVbCWfEiZH7TfTz9) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [Lhalaba Rahom Bazef](https://open.spotify.com/album/6gkLMemVXimjoXoeqDSDVf) | 4:36 |
-| 14 | [bent kartier populair](https://open.spotify.com/track/0y2su68WwYXVmXM6cIAeNA) | [cheba chinou](https://open.spotify.com/artist/6ZjzBqKIc89gDJcSryj9ie), [Oussama Torkish](https://open.spotify.com/artist/0zDzZpAE9PhHyIzW1cL0jE) | [bent kartier populair](https://open.spotify.com/album/1rgqYoPn3oeHBOshDokftW) | 4:15 |
+| 14 | [bent kartier populair](https://open.spotify.com/track/0y2su68WwYXVmXM6cIAeNA) | [Cheba Chinou](https://open.spotify.com/artist/58zwlLsIiWAGDv3dKhgqvg), [Oussama Torkish](https://open.spotify.com/artist/0zDzZpAE9PhHyIzW1cL0jE) | [bent kartier populair](https://open.spotify.com/album/1rgqYoPn3oeHBOshDokftW) | 4:15 |
 | 15 | [Manini Manini Ntiya Cheba Wana Chbab](https://open.spotify.com/track/70XpKD6dYj12OWVx05ecQ0) | [Cheb Iyad](https://open.spotify.com/artist/2gqYRgONuLee9PC6qnAD0n), [Manini Sahar](https://open.spotify.com/artist/1YFMNFSAIaFxXUOb8tf78c) | [Manini Manini Ntiya Cheba Wana Chbab](https://open.spotify.com/album/6FEJQrNJi728zBsHUMgWtZ) | 6:02 |
 | 16 | [ليكيدي عليا لخردة](https://open.spotify.com/track/4E0xwTHdmwB2DehuA6QdeX) | [Cheikh Mamidou](https://open.spotify.com/artist/3P1VjlJbXPj8x46HKvbyTB), [Tipo Belabbes](https://open.spotify.com/artist/5ETWCOExb9cwdyPYtMKJPv) | [ليكيدي عليا لخردة](https://open.spotify.com/album/3CnWIRpGHGTgeZLjDjpXZY) | 4:58 |
 | 17 | [Tayer 3la jalha Rouho golouhalh](https://open.spotify.com/track/59h6C78HlXp830a2rkxfoC) | [Cheb Faycel Chole](https://open.spotify.com/artist/3bBht8a9t2kDWV9mDnVECf) | [Tayer 3la jalha Rouho golouhalh](https://open.spotify.com/album/5lbUeFQ4SWlAHmDTiI2P6O) | 12:49 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [Ma vie 2 fois](https://open.spotify.com/track/52XknVywsSWwVXwcxl6WAP) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [dellali](https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m) | 4:07 |
 | 60 | [Lokan jiti mra msagma](https://open.spotify.com/track/3bNYR1sMmvQ9X7qAb1o6zi) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Lokan jiti mra msagma](https://open.spotify.com/album/50IvpHMMhTH49ZuAQtOzvW) | 5:39 |
 
-Snapshot ID: `MCw0MWNiODRmNjMwMWU3NTBkMmNjNDIzZDZmNDhiOTJkMzQxODljZjYw`
+Snapshot ID: `MCwyNjMxODUwNzAzOGI5ZTNlY2IwMTMwNjk4MmRjMDhlYjg5MjE0MDIy`

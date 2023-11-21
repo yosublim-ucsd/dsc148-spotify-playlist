@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Kim Kunni; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,448 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,467 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Quá Là Yêu](https://open.spotify.com/track/5Pm7ebdmQ9NuX0R9wGM0cU) | [Hạo Thiên](https://open.spotify.com/artist/5kj4afL0qGu9kyPbdII2R6), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Quá Là Yêu](https://open.spotify.com/album/2Cvhd4VqrOzSTh4bwf6LAR) | 3:58 |
 | 100 | [Quen Biết Nhau](https://open.spotify.com/track/0POdYDxx3euP5QhoilS9nq) | [Soonerr](https://open.spotify.com/artist/1cTygyyG6dtnj7uNnM10Lh) | [Quen Biết Nhau](https://open.spotify.com/album/7ofjq8bLGL884LsZ26p76z) | 3:19 |
 
-Snapshot ID: `MCxiNTE4MzZmYjM3YTgzYjY2OTJiNzhiYmQzZjA4NGQ1OGU1ZjUxNjg5`
+Snapshot ID: `MCxkZDkzZWEzMDQ5NjM4MWVhMmQzZThhMjQ0ODRhMjI0NzY4ZTc1OGQ3`

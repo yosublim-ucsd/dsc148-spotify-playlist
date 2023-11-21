@@ -2095,6 +2095,24 @@
     },
     {
       "album": {
+        "name": "tx3k",
+        "url": "https://open.spotify.com/album/0ZvwbbtzkhWNYwGuoccJ16"
+      },
+      "artists": [
+        {
+          "name": "Texas 3000",
+          "url": "https://open.spotify.com/artist/0vXeC8scvNvE6vIzpGTXeV"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194520,
+      "name": "Connector Fuck Man",
+      "url": "https://open.spotify.com/track/4iqKxmIaivhpczzqgWwvwh"
+    },
+    {
+      "album": {
         "name": "Inner Dialog",
         "url": "https://open.spotify.com/album/48AHaxshOHD3ktB9Ea5RDN"
       },
@@ -2468,7 +2486,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 218239,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/4O8svCJbCldgKp4meuXRKr"
@@ -10411,6 +10429,36 @@
     },
     {
       "album": {
+        "name": "Take Me Back (Remix Sessions feat. Michael Kaneko)",
+        "url": "https://open.spotify.com/album/1ZxezzfIZkikQHqUt0tRsY"
+      },
+      "artists": [
+        {
+          "name": "Nenashi",
+          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
+        },
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        },
+        {
+          "name": "Hiro-a-key",
+          "url": "https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe"
+        },
+        {
+          "name": "Kibunya",
+          "url": "https://open.spotify.com/artist/6tzDk1UFAcp7usb1RJYdVN"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243440,
+      "name": "Take Me Back (Remix Sessions feat. Michael Kaneko)",
+      "url": "https://open.spotify.com/track/1S4LePTjz5Z6YrQEmhglEk"
+    },
+    {
+      "album": {
         "name": "TAMAPOP",
         "url": "https://open.spotify.com/album/08PSIJlxxQu35GFUUU08q6"
       },
@@ -15514,7 +15562,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 218946,
       "name": "\u5728\u6771\u4eac\u5c11\u5e74",
       "url": "https://open.spotify.com/track/605J8O8EnF8FThxJ8Ma0G7"

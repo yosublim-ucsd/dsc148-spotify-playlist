@@ -4311,6 +4311,24 @@
     },
     {
       "album": {
+        "name": "Honey and Spice",
+        "url": "https://open.spotify.com/album/3TsuK7dDF9d0Ab7VwMuqsw"
+      },
+      "artists": [
+        {
+          "name": "Rafa Figueroa",
+          "url": "https://open.spotify.com/artist/5c8MjSwcTCJNWBtpKMWywB"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Honey and Spice",
+      "url": "https://open.spotify.com/track/5ENIpwHxPVyKEp1JUGxZt8"
+    },
+    {
+      "album": {
         "name": "Hontoni Tasukete",
         "url": "https://open.spotify.com/album/772KGx3CGT2gAI7y4MiGpE"
       },
@@ -5746,7 +5764,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 93720,
       "name": "Lunaria",
       "url": "https://open.spotify.com/track/2LeB4W3vaR6HB4y6gWpUY9"
@@ -6514,7 +6532,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 126492,
       "name": "Movie",
       "url": "https://open.spotify.com/track/59Wyi2Pwm4WCArYgoZ0N89"
@@ -9401,6 +9419,24 @@
     },
     {
       "album": {
+        "name": "spacewalk",
+        "url": "https://open.spotify.com/album/6EudaZOIQN6nXEodWRhcuX"
+      },
+      "artists": [
+        {
+          "name": "okayokay",
+          "url": "https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "spacewalk",
+      "url": "https://open.spotify.com/track/0aCCGFwEjFpwbBogpzra6b"
+    },
+    {
+      "album": {
         "name": "Sparkling",
         "url": "https://open.spotify.com/album/4BeEaHo85oLeYjUPTnEHSA"
       },
@@ -11549,6 +11585,24 @@
     },
     {
       "album": {
+        "name": "Where are we now??",
+        "url": "https://open.spotify.com/album/3qdSszvaFaXLwD58p4mgVi"
+      },
+      "artists": [
+        {
+          "name": "WX//CLTV",
+          "url": "https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70909,
+      "name": "Where are we now??",
+      "url": "https://open.spotify.com/track/0X3VvSa9UXAAc5GkwsPEkS"
+    },
+    {
+      "album": {
         "name": "Whirlpool",
         "url": "https://open.spotify.com/album/1JuUBeuiFGZuNF3eV3429n"
       },
@@ -12068,7 +12122,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 90352,
       "name": "zinnia",
       "url": "https://open.spotify.com/track/1DQs099CsJFZhRhY4RLEHM"

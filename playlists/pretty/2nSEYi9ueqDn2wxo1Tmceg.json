@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 75919,
+  "num_followers": 75917,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzgxNSxiY2VkM2RjMWI4ZTM5MTYyYTMyYjJlNDY0NzExZjRlY2EwZWJiNDA2",
+  "snapshot_id": "MzgxNiw0YTdjYzNmNTRhY2M2MjgyOTNiZTIwMTY4NzM4MDRhYzA1YThjMjZm",
   "tracks": [
+    {
+      "added_at": "2023-11-20 13:46:36",
+      "album": {
+        "name": "Keeping Secrets Will Destroy You",
+        "url": "https://open.spotify.com/album/5KhQ3aMiWJ3l6Te4oYw5E4"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Prince Billy",
+          "url": "https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV"
+        }
+      ],
+      "duration_ms": 360807,
+      "name": "Keeping Secrets Will Destroy You",
+      "url": "https://open.spotify.com/track/7n28tz5VRBlNpS4N7wTQwf"
+    },
     {
       "added_at": "2023-11-15 16:54:17",
       "album": {

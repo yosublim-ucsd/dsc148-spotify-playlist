@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover - MAD",
-  "num_followers": 50743,
+  "num_followers": 50850,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OThkMTk4ZmM3NTU3MzRjMDBlZTE5YTE1NmU0YjhjMWVhZDJjNTRj",
+  "snapshot_id": "MCwwYmU2MWFhOTc0NzVmOTY2ZjM0NzY5OTE3MzkzMWU1YzE5NTBiOTcw",
   "tracks": [
     {
       "added_at": "2023-11-06 11:12:57",
@@ -61,20 +61,120 @@
       "url": "https://open.spotify.com/track/3yNhGgQMPOdqVFpjRu8k8x"
     },
     {
-      "added_at": "2023-09-05 04:53:08",
+      "added_at": "2023-08-30 10:44:11",
       "album": {
-        "name": "Hungry Cheetah (From \"They Call Him OG\")",
-        "url": "https://open.spotify.com/album/1D5M0OXMaT1dV9MADSPgIg"
+        "name": "Aradhya (From \"Kushi\") (Telugu)",
+        "url": "https://open.spotify.com/album/0kE8dio9BXYdLd8KGbJ6Zo"
       },
       "artists": [
         {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
         }
       ],
-      "duration_ms": 119052,
-      "name": "Hungry Cheetah (From \"They Call Him OG\")",
-      "url": "https://open.spotify.com/track/538V6gFAnhcLZrg6I8lIMI"
+      "duration_ms": 282222,
+      "name": "Aradhya (From \"Kushi\") (Telugu)",
+      "url": "https://open.spotify.com/track/4KwsXvFDCoW7l1cfxhjTdD"
+    },
+    {
+      "added_at": "2023-08-30 10:44:11",
+      "album": {
+        "name": "Ooru Peru Bhairavakona",
+        "url": "https://open.spotify.com/album/6a287rBCL3c5YmfQ9JiQkB"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Shekar Chandra",
+          "url": "https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA"
+        }
+      ],
+      "duration_ms": 214997,
+      "name": "Nijame Ne Chebutunna",
+      "url": "https://open.spotify.com/track/37KgM3qNYvDdMC9m6IvBOf"
+    },
+    {
+      "added_at": "2023-08-30 10:44:11",
+      "album": {
+        "name": "Urike Urike (From \"Hit 2\") - Single",
+        "url": "https://open.spotify.com/album/3iIpF1VSAmoP1zMejorHcK"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Ramya Behara",
+          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
+        },
+        {
+          "name": "MM Sreelekha",
+          "url": "https://open.spotify.com/artist/0goFlPiv6xhrgMwqwUss9Z"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 275625,
+      "name": "Urike Urike",
+      "url": "https://open.spotify.com/track/7dT21sIYXtxJpIEBIdUSuu"
+    },
+    {
+      "added_at": "2023-08-30 10:44:11",
+      "album": {
+        "name": "Gundellonaa (From \"Ori Devuda\") - Single",
+        "url": "https://open.spotify.com/album/49P4LkEWmcziCCBEfIvAKO"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Leon James",
+          "url": "https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "duration_ms": 200113,
+      "name": "Gundellonaa (From \"Ori Devuda\")",
+      "url": "https://open.spotify.com/track/67I2ref0Bz0lLOzzzANTHG"
+    },
+    {
+      "added_at": "2023-11-20 12:19:52",
+      "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/070z9uG6XuIOI49AgwCnCy"
+      },
+      "artists": [
+        {
+          "name": "Bheems Ceciroleo",
+          "url": "https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Bhasakarabhatla",
+          "url": "https://open.spotify.com/artist/5BSnq8EugWeuGR6acegjqN"
+        }
+      ],
+      "duration_ms": 204533,
+      "name": "Nuvvu Navvukuntu",
+      "url": "https://open.spotify.com/track/00LSCsH99cW8zsr82ibMHM"
     },
     {
       "added_at": "2023-09-25 09:44:04",
@@ -95,6 +195,22 @@
       "duration_ms": 229631,
       "name": "Lingi Lingi Lingidi",
       "url": "https://open.spotify.com/track/1qgb9TXSQqOHmVj5dBAtFX"
+    },
+    {
+      "added_at": "2023-09-05 04:53:08",
+      "album": {
+        "name": "Hungry Cheetah (From \"They Call Him OG\")",
+        "url": "https://open.spotify.com/album/1D5M0OXMaT1dV9MADSPgIg"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        }
+      ],
+      "duration_ms": 119052,
+      "name": "Hungry Cheetah (From \"They Call Him OG\")",
+      "url": "https://open.spotify.com/track/538V6gFAnhcLZrg6I8lIMI"
     },
     {
       "added_at": "2023-11-06 11:05:08",
@@ -119,22 +235,66 @@
     {
       "added_at": "2023-08-30 10:44:11",
       "album": {
-        "name": "Aradhya (From \"Kushi\") (Telugu)",
-        "url": "https://open.spotify.com/album/0kE8dio9BXYdLd8KGbJ6Zo"
+        "name": "Tillu Square",
+        "url": "https://open.spotify.com/album/5oNL1ay25NKeMieYCFwhci"
       },
       "artists": [
         {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+          "name": "Ram Miriyala",
+          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
         },
         {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
         }
       ],
-      "duration_ms": 282222,
-      "name": "Aradhya (From \"Kushi\") (Telugu)",
-      "url": "https://open.spotify.com/track/4KwsXvFDCoW7l1cfxhjTdD"
+      "duration_ms": 189966,
+      "name": "Ticket Eh Konakunda",
+      "url": "https://open.spotify.com/track/3NdQpAhK5s42vu3do3KSBT"
+    },
+    {
+      "added_at": "2023-08-30 10:44:11",
+      "album": {
+        "name": "Gangs Of Godavari",
+        "url": "https://open.spotify.com/album/1Qr5Gq4WF1uaiIZkKIKgNN"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Sri Harsha Emani",
+          "url": "https://open.spotify.com/artist/7DRvW1g6oBZ7Aoc7waaVit"
+        }
+      ],
+      "duration_ms": 202401,
+      "name": "Suttamla Soosi",
+      "url": "https://open.spotify.com/track/2NbecghCUO21ZzWXk24JnO"
+    },
+    {
+      "added_at": "2023-08-30 10:44:11",
+      "album": {
+        "name": "Hoyna Hoyna (From \"Gang Leader\")",
+        "url": "https://open.spotify.com/album/2aHSx4B2TQtrnPYsEzSSRt"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Inno Genga",
+          "url": "https://open.spotify.com/artist/29cBzYwqCZF4fjCisS8UvU"
+        }
+      ],
+      "duration_ms": 271937,
+      "name": "Hoyna Hoyna (From \"Gang Leader\")",
+      "url": "https://open.spotify.com/track/7hADNKBDHS8MblpUzLebLf"
     },
     {
       "added_at": "2023-09-25 09:44:04",
@@ -183,26 +343,6 @@
     {
       "added_at": "2023-08-30 10:44:11",
       "album": {
-        "name": "Ooru Peru Bhairavakona",
-        "url": "https://open.spotify.com/album/6a287rBCL3c5YmfQ9JiQkB"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Shekar Chandra",
-          "url": "https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA"
-        }
-      ],
-      "duration_ms": 214997,
-      "name": "Nijame Ne Chebutunna",
-      "url": "https://open.spotify.com/track/37KgM3qNYvDdMC9m6IvBOf"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
         "name": "O Rendu Prema Meghaalila (First Love Song) [From \"Baby\"]",
         "url": "https://open.spotify.com/album/41kHCtyyqx2V4cJx4qlDDT"
       },
@@ -243,30 +383,6 @@
       "duration_ms": 207647,
       "name": "Hukum (From \"Jailer\")",
       "url": "https://open.spotify.com/track/1VhFZ2cCflcwp74w5Vzv7y"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
-        "name": "Gundellonaa (From \"Ori Devuda\") - Single",
-        "url": "https://open.spotify.com/album/49P4LkEWmcziCCBEfIvAKO"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Leon James",
-          "url": "https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy"
-        },
-        {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
-        }
-      ],
-      "duration_ms": 200113,
-      "name": "Gundellonaa (From \"Ori Devuda\")",
-      "url": "https://open.spotify.com/track/67I2ref0Bz0lLOzzzANTHG"
     },
     {
       "added_at": "2023-08-30 10:44:11",
@@ -327,34 +443,6 @@
       "duration_ms": 174193,
       "name": "Naa Madhi (From \"Thiru\")",
       "url": "https://open.spotify.com/track/42JI4hVOPLwQ0J7WOfIieR"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
-        "name": "Urike Urike (From \"Hit 2\") - Single",
-        "url": "https://open.spotify.com/album/3iIpF1VSAmoP1zMejorHcK"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Ramya Behara",
-          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
-        },
-        {
-          "name": "MM Sreelekha",
-          "url": "https://open.spotify.com/artist/0goFlPiv6xhrgMwqwUss9Z"
-        },
-        {
-          "name": "Krishna Kanth",
-          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
-        }
-      ],
-      "duration_ms": 275625,
-      "name": "Urike Urike",
-      "url": "https://open.spotify.com/track/7dT21sIYXtxJpIEBIdUSuu"
     },
     {
       "added_at": "2023-08-30 10:44:11",
@@ -739,50 +827,6 @@
     {
       "added_at": "2023-08-30 10:44:11",
       "album": {
-        "name": "Hoyna Hoyna (From \"Gang Leader\")",
-        "url": "https://open.spotify.com/album/2aHSx4B2TQtrnPYsEzSSRt"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Inno Genga",
-          "url": "https://open.spotify.com/artist/29cBzYwqCZF4fjCisS8UvU"
-        }
-      ],
-      "duration_ms": 271937,
-      "name": "Hoyna Hoyna (From \"Gang Leader\")",
-      "url": "https://open.spotify.com/track/7hADNKBDHS8MblpUzLebLf"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
-        "name": "Gangs Of Godavari",
-        "url": "https://open.spotify.com/album/1Qr5Gq4WF1uaiIZkKIKgNN"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
-        {
-          "name": "Sri Harsha Emani",
-          "url": "https://open.spotify.com/artist/7DRvW1g6oBZ7Aoc7waaVit"
-        }
-      ],
-      "duration_ms": 202401,
-      "name": "Suttamla Soosi",
-      "url": "https://open.spotify.com/track/2NbecghCUO21ZzWXk24JnO"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
         "name": "Jalsa",
         "url": "https://open.spotify.com/album/4TmtWuheIr8ejxIjBpLU2u"
       },
@@ -915,26 +959,6 @@
       "duration_ms": 119807,
       "name": "Chudandi Saaru",
       "url": "https://open.spotify.com/track/6Lr8AoM0PqR9J509VBdNJP"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
-        "name": "Tillu Square",
-        "url": "https://open.spotify.com/album/5oNL1ay25NKeMieYCFwhci"
-      },
-      "artists": [
-        {
-          "name": "Ram Miriyala",
-          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
-        },
-        {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
-        }
-      ],
-      "duration_ms": 189966,
-      "name": "Ticket Eh Konakunda",
-      "url": "https://open.spotify.com/track/3NdQpAhK5s42vu3do3KSBT"
     },
     {
       "added_at": "2023-08-30 10:44:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Vieni a conoscere GLOW alla Milano Music Week il 22/11, <a href="https://www.milanomusicweek.it/evento/spotify\-presenta\-glow\-ascolta\-le\-voci\-della\-comunita\-lgbtqia">iscriviti gratuitamente qua</a>\. Con Giolì & Assia, Asteria, Yosef e KAPUT! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,831 likes - 82 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,839 likes - 82 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 81 | [Parigi \(mi manchi\) \- Hey Cabrera! Remix](https://open.spotify.com/track/0uf3THPz59F1SmobBeTgaB) | [Thomas Costantin](https://open.spotify.com/artist/0WKjXc8BCwyL9ds9cNRlWW), [Hey Cabrera!](https://open.spotify.com/artist/4mGJlxDbUm6OelkTrUDSoW) | [Le città](https://open.spotify.com/album/6QWVKKra5NxI0AlS4h4u0t) | 4:24 |
 | 82 | [S.T.A.R.](https://open.spotify.com/track/05cY2YCQeXQ1Mn2Iui62ws) | [Playgirls from Caracas](https://open.spotify.com/artist/2DtlP0AAGRMHdesTux8mu9), [Lilith Primavera](https://open.spotify.com/artist/5rEatTNJ4Wg968RKZeE019) | [S.T.A.R.](https://open.spotify.com/album/6TrBVo7n8yiRADPe3Lb8gh) | 3:38 |
 
-Snapshot ID: `MCxmMTg0ZDcxZGQzYzU5YmYyYWNmNTAwM2Q4ZTFkZTY4MTNhMzJmNjNj`
+Snapshot ID: `MCxmNzA4ZDlkMjgxMmVkNzgzMjFlN2VmOGMzMTY5ZDYyY2EyNTljNDVl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Código FN, Oscar Maydón, Brandon Reyes y Elvin en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,078 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,239 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Chalineras](https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Chalineras](https://open.spotify.com/album/06AC0m6945Q1SLAv6sSvp2) | 3:37 |
 | 75 | [Lujos Flamantes](https://open.spotify.com/track/7INI7hvoGSZB5W3YDEJXg5) | [Grupo Supr3me](https://open.spotify.com/artist/2D04F1wci9jME32L68xaAv) | [Lujos Flamantes](https://open.spotify.com/album/4sFXSzYvHlAz3OpUc5kRv6) | 2:28 |
 
-Snapshot ID: `MCwwOGU3YTdiMDAxYzM2YzZjYTNmYTMxMTdlY2VmM2FmM2M4MWJkMjFh`
+Snapshot ID: `MCw3NTAxMzFkYTQ1MjRkZWRlOWQ5MzIxYTlmOTg0NWQwODAzYzY2Y2Ez`

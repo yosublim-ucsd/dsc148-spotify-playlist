@@ -244,7 +244,7 @@
     {
       "album": {
         "name": "Julia LaRosa's Best",
-        "url": "https://open.spotify.com/album/20kqgNb3tLmqH3f6hoHCvN"
+        "url": "https://open.spotify.com/album/0l95EqzNXdV1rJnFuhyx1o"
       },
       "artists": [
         {
@@ -255,6 +255,24 @@
       "date_added": "2019-03-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 154293,
+      "name": "Domani (Tomorrow)",
+      "url": "https://open.spotify.com/track/250NogchyXPWsQ5H81IDyS"
+    },
+    {
+      "album": {
+        "name": "Julia LaRosa's Best",
+        "url": "https://open.spotify.com/album/20kqgNb3tLmqH3f6hoHCvN"
+      },
+      "artists": [
+        {
+          "name": "Julius LaRosa",
+          "url": "https://open.spotify.com/artist/7eYjNm8FZWh2E7MPw7uHaJ"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-21",
       "duration_ms": 154293,
       "name": "Domani (Tomorrow)",
       "url": "https://open.spotify.com/track/5GFLCzdy1DH9V5pGlpItJY"
@@ -1160,10 +1178,28 @@
       ],
       "date_added": "2019-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 188240,
       "name": "This Is Heaven",
       "url": "https://open.spotify.com/track/08XE9DL4G4nB21QgHEkeaT"
+    },
+    {
+      "album": {
+        "name": "Julius LaRosa",
+        "url": "https://open.spotify.com/album/0prrVNzAxOL57e4AnuXY7R"
+      },
+      "artists": [
+        {
+          "name": "Julius LaRosa",
+          "url": "https://open.spotify.com/artist/7eYjNm8FZWh2E7MPw7uHaJ"
+        }
+      ],
+      "date_added": "2019-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188240,
+      "name": "This Is Heaven",
+      "url": "https://open.spotify.com/track/66Uu4Q9Qoili64BplPb2k5"
     },
     {
       "album": {

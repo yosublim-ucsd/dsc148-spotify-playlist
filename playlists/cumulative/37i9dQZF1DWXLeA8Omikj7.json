@@ -1865,6 +1865,24 @@
     },
     {
       "album": {
+        "name": "Music for Animals",
+        "url": "https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1622575,
+      "name": "Briefly",
+      "url": "https://open.spotify.com/track/0qSjSC6I0puPWQbyQXOIAf"
+    },
+    {
+      "album": {
         "name": "Briefly",
         "url": "https://open.spotify.com/album/2ewvlnEIRZJgCrHhifOEx5"
       },
@@ -2216,7 +2234,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 114129,
       "name": "cheated",
       "url": "https://open.spotify.com/track/1EuTegwrStmrua9JUtg6EK"
@@ -9161,6 +9179,24 @@
     },
     {
       "album": {
+        "name": "Random Access Memories (Drumless Edition)",
+        "url": "https://open.spotify.com/album/5AFf68gtvNgGLZarsyEEL8"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341853,
+      "name": "Motherboard (Drumless Edition)",
+      "url": "https://open.spotify.com/track/444SlMZ9mcxTHiB7J1H6IF"
+    },
+    {
+      "album": {
         "name": "Motherboard (Drumless Edition)",
         "url": "https://open.spotify.com/album/3F003WxyVe3ze6rwlI7LJ9"
       },
@@ -13764,7 +13800,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 347413,
       "name": "Surrender Yourself",
       "url": "https://open.spotify.com/track/0RZ5bH3jU33OtO1PAhfXh5"

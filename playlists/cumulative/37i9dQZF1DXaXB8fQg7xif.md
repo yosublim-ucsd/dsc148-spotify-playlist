@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,022 songs - 2 day 7 hr 19 min
+1,023 songs - 2 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Blue](https://open.spotify.com/track/7uqWo5UWCGAFBjmajYzS65) | [Dzeko](https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw), [F4ST](https://open.spotify.com/artist/25zPr5malvJ4FznDZUVo1a) | [Blue](https://open.spotify.com/album/0JDsctAQV5AAxcxeJiKKmp) | 2:27 | 2020-05-22\* | 2022-04-20 |
 | [Body \- Dzeko Remix](https://open.spotify.com/track/4RgDgaohkG08f630ZT9QKc) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE), [Dzeko](https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw) | [Body \(Dzeko Remix\)](https://open.spotify.com/album/27BS0fcfFoF6hNMdJZPMRR) | 2:45 | 2020-05-22\* | 2022-04-21 |
 | [Body Beat](https://open.spotify.com/track/29VrUh1OBgsswMQp2FkQqF) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [Tom Staar](https://open.spotify.com/artist/0iSYvHKAdhWVdZkS1PYK3u) | [Body Beat](https://open.spotify.com/album/40DNPC51pp3iBXINi6n40U) | 3:20 | 2020-05-22\* | 2021-12-19 |
+| [Body Moving](https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Body Moving](https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K) | 2:34 | 2023-11-17 |  |
 | [Body Pop](https://open.spotify.com/track/75bs4ULNvZCzTfAa3ZuD8V) | [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U) | [Body Pop](https://open.spotify.com/album/1IzaAM1IEF1VVnpXrJQEZJ) | 2:40 | 2020-05-22\* | 2021-01-29 |
 | [Body Pump \- Lady Bee Remix](https://open.spotify.com/track/3mC9L7eDVsaAqnLbOya3U4) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Body Pump \(Lady Bee Remix\)](https://open.spotify.com/album/3bk3p9RSvYg3o7823tFSB7) | 2:56 | 2021-02-12 | 2022-06-28 |
 | [Body Talk](https://open.spotify.com/track/7nZUNopZZQX1PhfuvrXTWN) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Body Talk](https://open.spotify.com/album/4Q8dLRUpvVFqK1uosJv6zp) | 2:19 | 2023-03-03 |  |
@@ -390,7 +391,7 @@
 | [Grapevine](https://open.spotify.com/track/3bYLRndI3qoLQqgPalT8CY) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Grapevine](https://open.spotify.com/album/7jrQbFx0ttru2gtSZ4lhuX) | 2:30 | 2020-05-22\* | 2021-12-21 |
 | [Grenade](https://open.spotify.com/track/0JQGZ9tXOaXHnca75JDz3J) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt) | [Grenade](https://open.spotify.com/album/46b2MoeiTXOI7dhmcGZT51) | 5:01 | 2020-05-22\* | 2021-12-21 |
 | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\] \- Riva Starr Disco Odyssey Vocal Mix](https://open.spotify.com/track/0ynmcob2L2B6eoKRX2Pugc) | [Spiller](https://open.spotify.com/artist/4bmymFwDu9zLCiTRUmrewb), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\] \[Riva Starr Remixes\]](https://open.spotify.com/album/19O9yAChfC2f7FoQWNuddQ) | 3:12 | 2021-12-11 | 2022-04-20 |
-| [Guddi Riddim](https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Guddi Riddim](https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN) | 3:30 | 2023-01-06 |  |
+| [Guddi Riddim](https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Guddi Riddim](https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN) | 3:30 | 2023-01-06 | 2023-11-21 |
 | [Hands Down](https://open.spotify.com/track/23lDbJkMdPwoUzG73QmiFe) | [Chambray](https://open.spotify.com/artist/4FUZzDnu4gBue46G99hesO) | [Hands Down](https://open.spotify.com/album/52cKJWPz3mKOG0XUBtyCoL) | 2:29 | 2020-12-12 | 2021-03-19 |
 | [Happy Music](https://open.spotify.com/track/3rh495Z2rIRwD316blea4f) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn) | 3:52 | 2022-04-15 | 2022-10-19 |
 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2022-10-28 | 2023-05-27 |

@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Bryan Behr
 
-594 songs - 1 day 11 hr 6 min
+595 songs - 1 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [A Dor Desse Amor \- Faixa Bônus](https://open.spotify.com/track/2p0ceyJPt2yeQzKOwUxOVO) | [Luiz Caldas](https://open.spotify.com/artist/4fLuPn1SvWJVFmooqIkvWh) | [Playlist Brasileira 1 \(Deluxe Edition\)](https://open.spotify.com/album/0jBcmMbHt8bvQHEFJi7idQ) | 3:21 | 2022-10-28 | 2022-11-12 |
 | [A fila](https://open.spotify.com/track/7AWjDlpdAML5IQxXY3dHpa) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [A fila](https://open.spotify.com/album/6koEshxvrVQc4Dc1HZb7bE) | 3:21 | 2023-01-06 | 2023-02-08 |
 | [A Lista](https://open.spotify.com/track/47Tc85pV7z2ivBetN14Y8t) | [Oswaldo Montenegro](https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV) | [Oswaldo Montenegro e Orquestra](https://open.spotify.com/album/1MtecGxFiRth68STj2JSHf) | 2:48 | 2023-10-13 |  |
-| [A Loba/Ou Ela ou Eu \- Ao Vivo](https://open.spotify.com/track/6DAgaO2rB2MhQPIqzvX6Fy) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Alcione 50 Anos \(Ao Vivo\)](https://open.spotify.com/album/7LtGiAYQumSoHdN6Zw7zhH) | 3:45 | 2023-11-03 |  |
+| [A Loba/Ou Ela ou Eu \- Ao Vivo](https://open.spotify.com/track/6DAgaO2rB2MhQPIqzvX6Fy) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Alcione 50 Anos \(Ao Vivo\)](https://open.spotify.com/album/7LtGiAYQumSoHdN6Zw7zhH) | 3:45 | 2023-11-03 | 2023-11-21 |
+| [A Loba/Ou Ela ou Eu \- Ao Vivo](https://open.spotify.com/track/6mEjmheFPc7L7n57YbwKfH) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Alcione 50 Anos \(Ao Vivo\)](https://open.spotify.com/album/0ONQQA0n7AHNzHFjMcrth0) | 3:45 | 2023-11-03 |  |
 | [A Nossa Bossa](https://open.spotify.com/track/33vbDli8ByiNhw5vdM9Esh) | [NUNEZ](https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ), [Jair Oliveira](https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV) | [A Nossa Bossa](https://open.spotify.com/album/53CQgPLHrM1HGyZHz2pqPl) | 2:44 | 2022-09-02 | 2022-10-08 |
 | [A Palo Seco](https://open.spotify.com/track/7f5l7oW0xQOD2Fj7Pq03ME) | [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8), [Belchior](https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52) | [Meu Parceiro Belchior](https://open.spotify.com/album/4AoIH69rmWCDQH0ul0gwx5) | 2:46 | 2022-10-14 |  |
 | [A Palo Seco \- Radio Edit](https://open.spotify.com/track/6LJF62VztdsYHSLanjYvgW) | [Ana Cañas](https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz) | [A Palo Seco \(Radio Edit\)](https://open.spotify.com/album/2GX7fBHfQCzr0jhwvYAdXm) | 3:35 | 2022-07-01 | 2023-02-23 |

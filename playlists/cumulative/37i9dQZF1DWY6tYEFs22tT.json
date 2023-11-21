@@ -3549,6 +3549,32 @@
     },
     {
       "album": {
+        "name": "Cold (feat. B.G. & Mike WiLL Made-It)",
+        "url": "https://open.spotify.com/album/30n2gaTkEAk04fqVGusVNh"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "B.G.",
+          "url": "https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "Cold (feat. B.G. & Mike WiLL Made-It)",
+      "url": "https://open.spotify.com/track/4PKh6tJP16etcy2eKyMODe"
+    },
+    {
+      "album": {
         "name": "Cold Shoulder",
         "url": "https://open.spotify.com/album/0bWnbeYmuDqmzJNTbhijub"
       },

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-874 songs - 2 day 14 hr 23 min
+876 songs - 2 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Bondade](https://open.spotify.com/track/2KmiFXR0oK5WWwukNm8CSb) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Bondade](https://open.spotify.com/album/6HKujCNne4yFHm5ek2aY11) | 2:34 | 2021-07-30 | 2022-07-28 |
 | [Bosco Lisergico](https://open.spotify.com/track/6EzfZhot2CjkWmF5aZVNMm) | [Gianpace](https://open.spotify.com/artist/7CFh7h9Vtvvw0qWCU8d8LH) | [Gianpace](https://open.spotify.com/album/0nSEu47Vt0hgImuXN0zKV9) | 4:53 | 2021-07-23 | 2022-07-29 |
 | [Breeze](https://open.spotify.com/track/1tb1WfMlms6eBW9w3pvgyk) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua), [CURFEW](https://open.spotify.com/artist/1wac3Vdd7GWIBezdK1zjw4) | [Found Footage](https://open.spotify.com/album/2w8WfnamQbPHnopnZMcVrp) | 2:36 | 2019-06-19\* | 2020-08-26 |
+| [Briefly](https://open.spotify.com/track/0qSjSC6I0puPWQbyQXOIAf) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/0w4P2GvCEY7rVxdU1rrnxJ) | 27:02 | 2023-11-17 |  |
 | [Briefly](https://open.spotify.com/track/3kcKtOZxGziQWg9qj1ROmV) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Briefly](https://open.spotify.com/album/2ewvlnEIRZJgCrHhifOEx5) | 27:02 | 2022-09-09 | 2022-10-03 |
 | [Briefly](https://open.spotify.com/track/7Gb3UUUaX0A46FJUgXxily) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for Animals](https://open.spotify.com/album/17zWrjCtsUXh113n1V7T72) | 27:02 | 2022-09-09 | 2023-11-05 |
 | [Brrrap!!](https://open.spotify.com/track/1EiR6pce8KgrYGmPGU5xjY) | [Tsuruda](https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu) | [Slippin' / Brrrap!!](https://open.spotify.com/album/5pnU86x8336xlR8WObp5lp) | 3:38 | 2019-06-19\* | 2020-10-21 |
@@ -124,7 +125,7 @@
 | [Celebrate Life \- Radio Edit](https://open.spotify.com/track/5QzjMZIc5x912xEt4M28sz) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Celebrate Life](https://open.spotify.com/album/072NAze3WiHDcf5INavWkf) | 3:16 | 2019-06-22 | 2020-10-19 |
 | [Changes](https://open.spotify.com/track/1dft5btNQcSsHx1MR2RZfC) | [Cinnaman](https://open.spotify.com/artist/2UHOxilPkRsyFp4EQu8Sq4), [Tom Trago](https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK) | [Kingfisher](https://open.spotify.com/album/2HASBznAXZVZpBoaUb4ooF) | 6:20 | 2021-02-26 | 2021-03-09 |
 | [Changing Tides](https://open.spotify.com/track/1OLc2YhGIk8tUIh9mKJtHW) | [Hypernatural](https://open.spotify.com/artist/4OqPJ30qlGQwp9kTwrj9ER) | [Hypernatural](https://open.spotify.com/album/33hlesKqwoQFR3AuFPb4QO) | 4:19 | 2022-01-26 | 2022-07-29 |
-| [cheated](https://open.spotify.com/track/1EuTegwrStmrua9JUtg6EK) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [cheated](https://open.spotify.com/album/2mfDkNurewVsH4q3ieTnIE) | 1:54 | 2022-02-04 |  |
+| [cheated](https://open.spotify.com/track/1EuTegwrStmrua9JUtg6EK) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [cheated](https://open.spotify.com/album/2mfDkNurewVsH4q3ieTnIE) | 1:54 | 2022-02-04 | 2023-11-21 |
 | [Cherry](https://open.spotify.com/track/0eeKPPnYhpEZPWzMpYN5bl) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Found Footage](https://open.spotify.com/album/2w8WfnamQbPHnopnZMcVrp) | 3:15 | 2019-06-19\* | 2020-08-26 |
 | [chill](https://open.spotify.com/track/2yX8nS9n0uZ70OrnUYpkyW) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Polar \(Music from the Netflix Film\)](https://open.spotify.com/album/3kAKiw0kRCuSXsTBWbBc9X) | 1:48 | 2019-06-19\* | 2020-10-22 |
 | [Claim It](https://open.spotify.com/track/3uSjp9rT55R0WjPSfnoyT8) | [Klein](https://open.spotify.com/artist/6chuFWw4BmHxOc3X0cC8Ct) | [Lifetime](https://open.spotify.com/album/6vZszIMZ7Spzca3C7QSgaY) | 6:30 | 2021-07-23 | 2022-04-20 |
@@ -492,6 +493,7 @@
 | [Moons](https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Moons](https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb) | 3:37 | 2019-05-26\* | 2022-04-14 |
 | [Moreland Ave Blues](https://open.spotify.com/track/2UjfG900kB2JXqUJFvJDlZ) | [Daily Bread](https://open.spotify.com/artist/4IsiG6RpDyRq6Frd2CvddW) | [Big Beat Ignition: Denver](https://open.spotify.com/album/47zlYviFuVRJKMCwHJH38h) | 3:29 | 2019-06-19\* | 2020-08-26 |
 | [Moro Cut](https://open.spotify.com/track/2gvtTBUPw8bnoC6Jj4ZFHG) | [Mad Zach](https://open.spotify.com/artist/1RxjZjOSbva0JR7T2LsRve), [yunis](https://open.spotify.com/artist/7mwowsRa7r8SLzx93Xqc0g) | [Moro Cut](https://open.spotify.com/album/4PSCc5YmzhKTLmi1isOQ2E) | 3:44 | 2019-06-19\* | 2020-10-19 |
+| [Motherboard \(Drumless Edition\)](https://open.spotify.com/track/444SlMZ9mcxTHiB7J1H6IF) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Random Access Memories \(Drumless Edition\)](https://open.spotify.com/album/5AFf68gtvNgGLZarsyEEL8) | 5:41 | 2023-11-17 |  |
 | [Motherboard \(Drumless Edition\)](https://open.spotify.com/track/5nuJ5frI7lmdPYjgyoBrqm) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Motherboard \(Drumless Edition\)](https://open.spotify.com/album/3F003WxyVe3ze6rwlI7LJ9) | 5:41 | 2023-11-10 | 2023-11-18 |
 | [Motiv](https://open.spotify.com/track/6tMlZ7A82O7qNHJPryu2oF) | [Infinity Shred](https://open.spotify.com/artist/17wNCnrQvAUPyVZ8FOZeni) | [Long Distance](https://open.spotify.com/album/0PV4prUWnHkJ1EtwkCZVAB) | 4:07 | 2019-06-20 | 2022-04-19 |
 | [Move With Me](https://open.spotify.com/track/1wNZhnMWaMU2PB9QXqXLiQ) | [1\-800 GIRLS](https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ) | [When U Call](https://open.spotify.com/album/05ZogGOdBRaOXcS9wVBprG) | 7:06 | 2022-02-11 | 2022-07-22 |
@@ -734,7 +736,7 @@
 | [Superman Lost](https://open.spotify.com/track/5tJwqIURhPZInrFxWT0cGB) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1) | [Damage Control](https://open.spotify.com/album/5Nrx0GEDuLwrQcEvb1IM8l) | 2:08 | 2019-05-26\* | 2020-10-22 |
 | [Support](https://open.spotify.com/track/2SUd3ORLlbQKeIXMmKDMqk) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [stuff i used to do](https://open.spotify.com/album/77lJ42P4qgi7HJTOjMmcBp) | 4:10 | 2019-06-21 | 2020-08-26 |
 | [Surrender \- Pablo Fierro Remix](https://open.spotify.com/track/3DioyryIiTFOavvhrQ00G6) | [Angelos](https://open.spotify.com/artist/2zagWFWxFhQg3OvUmnnliq), [Jaidene Veda](https://open.spotify.com/artist/5RnHlRFELc91Qk6dV6mhNG), [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Surrender EP](https://open.spotify.com/album/4YMwLHF5geIbncO1hSCm6Y) | 7:40 | 2020-11-13 | 2021-03-09 |
-| [Surrender Yourself](https://open.spotify.com/track/0RZ5bH3jU33OtO1PAhfXh5) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Surrender Yourself](https://open.spotify.com/album/1bRFR71dDq9KA6tjnKJo6u) | 5:47 | 2021-04-29 |  |
+| [Surrender Yourself](https://open.spotify.com/track/0RZ5bH3jU33OtO1PAhfXh5) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Surrender Yourself](https://open.spotify.com/album/1bRFR71dDq9KA6tjnKJo6u) | 5:47 | 2021-04-29 | 2023-11-21 |
 | [Swans On Drums](https://open.spotify.com/track/0v6yGtEgzbrJKgbxPlX47H) | [Dijf Sanders](https://open.spotify.com/artist/3U9U9C6iJzZR39dXq0UaYV) | [Swans On Drums](https://open.spotify.com/album/0DEL8v3HSCHNAuoAblvsng) | 5:58 | 2021-03-08 | 2022-07-06 |
 | [Sweat \(Soulji Remix\)](https://open.spotify.com/track/2k6xm7hmwxPINqDyYXcORq) | [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ) | [Sweat](https://open.spotify.com/album/2cqNfvODYAYYMQh2lRJyA6) | 4:40 | 2019-05-26\* | 2020-08-26 |
 | [Sweet Apocalypse](https://open.spotify.com/track/2u5OxLRtgdazMVLcRev2ds) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Last Night \(Bonus Tracks Edition\)](https://open.spotify.com/album/3Aw6wlxCHzSziC4ZNaF4Vd) | 5:18 | 2019-06-23 | 2022-04-18 |

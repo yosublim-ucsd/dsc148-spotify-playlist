@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The smoothest Afro R&B out right now. Cover:  <a href=\"https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H?si=vwJbymqpSKGfVLdr6eWj3A\"> Maya Amolo</a> ",
+  "description": "The smoothest Afro R&B out right now. Cover:  <a href=\"https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci?si=oZCnVB26R3mz2bBQOiIhrw\"> Zowie Kengocha</a> ",
   "name": "Tantalizers",
   "tracks": [
     {
@@ -4529,6 +4529,24 @@
     },
     {
       "album": {
+        "name": "project - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5tHWyhdLYInrDivcSPWpnC"
+      },
+      "artists": [
+        {
+          "name": "Zowie Kengocha",
+          "url": "https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208163,
+      "name": "project - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0ZgroOYQAUzfcQYS6wibf9"
+    },
+    {
+      "album": {
         "name": "But could the moments in between",
         "url": "https://open.spotify.com/album/5cHlpmNwKG3RbEv8DiEUoC"
       },
@@ -5992,7 +6010,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 208968,
       "name": "What Have You Done?",
       "url": "https://open.spotify.com/track/5xvRXXVYOketwpYA39Dfrm"

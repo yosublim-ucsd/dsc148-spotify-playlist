@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos del Trap Latino\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 973,222 likes - 105 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 973,663 likes - 105 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 104 | [Tú Eres Loca?](https://open.spotify.com/track/279CFygxzwjumv9FTG25jn) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Tú Eres Loca?](https://open.spotify.com/album/6ygS8nXo9JLjrjxYIWRo9X) | 4:24 |
 | 105 | [Sucio Guapo](https://open.spotify.com/track/3O6qgosmTPliBdsuCIOqMh) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Sucio Guapo](https://open.spotify.com/album/6U4wNHIQPFMrKKSxbcZUvH) | 3:28 |
 
-Snapshot ID: `MCxmM2QxZTdkNWUwNzlmZDZjZTI1NTVmNzA2MWZjMjFkMzI3ZmIwZmVm`
+Snapshot ID: `MCwzZDM3MGIyOWRjMzAzOTIzNTFhMDFlOTM1MzA1OGVmYjUyNzQ0ZTJi`

@@ -3187,6 +3187,24 @@
     },
     {
       "album": {
+        "name": "The Greatest Christmas Hits",
+        "url": "https://open.spotify.com/album/4tRcSRjaE98LsBVOm6cSJT"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197346,
+      "name": "Please Santa Please",
+      "url": "https://open.spotify.com/track/398egUWDwedHWTPQmlel9E"
+    },
+    {
+      "album": {
         "name": "Ring Out The Bells",
         "url": "https://open.spotify.com/album/0YieGjIrwXOYgt4IBDTGbn"
       },
@@ -4594,6 +4612,28 @@
       "duration_ms": 227653,
       "name": "Wonderful Christmastime - Remastered 2011 / Edited Version",
       "url": "https://open.spotify.com/track/4gavOCQdZ2g86gkvi17FM7"
+    },
+    {
+      "album": {
+        "name": "Wrap Me Up",
+        "url": "https://open.spotify.com/album/0M6OuM3H038lJkpl5EMzik"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Fallon",
+          "url": "https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148027,
+      "name": "Wrap Me Up",
+      "url": "https://open.spotify.com/track/1tGlu4k3SPA1kHVSpDSo3u"
     },
     {
       "album": {

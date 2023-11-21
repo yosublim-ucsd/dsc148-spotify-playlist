@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: bambi
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,914 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,072 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Puff Daddy](https://open.spotify.com/track/2smHwbTqnvAMSNjOIlkhYc) | [Wroobel](https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS), [ReTo](https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli) | [Puff Daddy](https://open.spotify.com/album/1unDpBFUZGTyPR0HKUm8NQ) | 2:33 |
 | 50 | [BEZ LOKALIZACJI](https://open.spotify.com/track/2Gikijk4VAPyKTZVhTO4o6) | [2115](https://open.spotify.com/artist/3rnzk5HZE15IjAp0yiP41m), [bango balenci](https://open.spotify.com/artist/4BRchUufCww3elXTIG9nAE), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [Fekir](https://open.spotify.com/artist/4fLXII05TSSsKMRudaFhMr), [Koder](https://open.spotify.com/artist/1qJPIWsxxzTulBOb5kFllO), [Kruzzo](https://open.spotify.com/artist/4To0MfuPYNKFChuiKFW50K), [XEIDEN](https://open.spotify.com/artist/40kXpqJi6aSgg9HNsWFyjx), [zdunekk](https://open.spotify.com/artist/4HslOaTdnHIBXMAVlZQIOU) | [BEZ LOKALIZACJI](https://open.spotify.com/album/04UxQWDOr41Sf77h6TQlBj) | 3:39 |
 
-Snapshot ID: `MCw5MTkxODg0MzJlNjMwMzg4MDg2MjcwMmQyNmFjNjFmN2NmNDc5ZDQ4`
+Snapshot ID: `MCw2YzQ4ODQ1NjcwYTVjMDQ5M2NhZDQ5NWQ2ODU1ZWZjMGVmZTRlN2Zk`

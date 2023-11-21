@@ -1908,7 +1908,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 357842,
       "name": "Children Of 95",
       "url": "https://open.spotify.com/track/0W3fiSN6ebq9V3kFb0KGPn"
@@ -8168,6 +8168,28 @@
       "duration_ms": 431657,
       "name": "Reign - Okuma Remix",
       "url": "https://open.spotify.com/track/07ysv62qaOQmIEIvcIX2Wr"
+    },
+    {
+      "album": {
+        "name": "Rej",
+        "url": "https://open.spotify.com/album/1GY6HeWkiihJ11bSLkLxVV"
+      },
+      "artists": [
+        {
+          "name": "Eran Hersh",
+          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
+        },
+        {
+          "name": "Neil Amarey",
+          "url": "https://open.spotify.com/artist/5zQ05706IGQbarXquNWAuQ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159677,
+      "name": "Rej",
+      "url": "https://open.spotify.com/track/3lUxkr0khe2tqUJjWQW6Af"
     },
     {
       "album": {

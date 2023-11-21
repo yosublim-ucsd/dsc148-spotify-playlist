@@ -1,6 +1,6 @@
 {
   "description": "The best new music by independent artists and labels, featuring Alan Troy. Updates every Wednesday.",
-  "num_followers": 172790,
+  "num_followers": 172783,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-11-15 06:00:00",
       "album": {
-        "name": "Jard\u00edn",
-        "url": "https://open.spotify.com/album/4zLn1jP6DyndmlMalVm8Rk"
-      },
-      "artists": [
-        {
-          "name": "Teo Bok",
-          "url": "https://open.spotify.com/artist/54HTLyYHg8qHdZTPLtAo7r"
-        }
-      ],
-      "duration_ms": 144253,
-      "name": "Jard\u00edn",
-      "url": "https://open.spotify.com/track/394fdiSv97RDJy2lIxTL9v"
-    },
-    {
-      "added_at": "2023-11-15 06:00:00",
-      "album": {
         "name": "Cumbia Espectro (DUSU Remix)",
         "url": "https://open.spotify.com/album/3VRV4d2vD0hgiMIhlA9GGw"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 306198,
       "name": "Cumbia Espectro - DUSU Remix",
       "url": "https://open.spotify.com/track/1NRhtJ7VQy55WJC9R6J2sb"
+    },
+    {
+      "added_at": "2023-11-15 06:00:00",
+      "album": {
+        "name": "Jard\u00edn",
+        "url": "https://open.spotify.com/album/4zLn1jP6DyndmlMalVm8Rk"
+      },
+      "artists": [
+        {
+          "name": "Teo Bok",
+          "url": "https://open.spotify.com/artist/54HTLyYHg8qHdZTPLtAo7r"
+        }
+      ],
+      "duration_ms": 144253,
+      "name": "Jard\u00edn",
+      "url": "https://open.spotify.com/track/394fdiSv97RDJy2lIxTL9v"
     },
     {
       "added_at": "2023-11-15 06:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-11-15 06:00:00",
       "album": {
-        "name": "Si yo s\u00e9 hablar es por ti",
-        "url": "https://open.spotify.com/album/3SWn0kBDOKFxwYHB2JUTEe"
-      },
-      "artists": [
-        {
-          "name": "Lil Benjas",
-          "url": "https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP"
-        }
-      ],
-      "duration_ms": 228500,
-      "name": "Aire.",
-      "url": "https://open.spotify.com/track/69iMg2FY6RPtF84ilGrkRB"
-    },
-    {
-      "added_at": "2023-11-15 06:00:00",
-      "album": {
         "name": "Apocal\u00edptico",
         "url": "https://open.spotify.com/album/0kFnFOhodIwr3UY0f2JQXn"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 197647,
       "name": "Apocal\u00edptico",
       "url": "https://open.spotify.com/track/3jpi95EBQXXKTdd510DQBe"
+    },
+    {
+      "added_at": "2023-11-15 06:00:00",
+      "album": {
+        "name": "Si yo s\u00e9 hablar es por ti",
+        "url": "https://open.spotify.com/album/3SWn0kBDOKFxwYHB2JUTEe"
+      },
+      "artists": [
+        {
+          "name": "Lil Benjas",
+          "url": "https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP"
+        }
+      ],
+      "duration_ms": 228500,
+      "name": "Aire.",
+      "url": "https://open.spotify.com/track/69iMg2FY6RPtF84ilGrkRB"
     },
     {
       "added_at": "2023-11-15 06:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-11-15 06:00:00",
       "album": {
-        "name": "Evil Dead",
-        "url": "https://open.spotify.com/album/4zlAqUr4qS76Ci1BeEawVr"
-      },
-      "artists": [
-        {
-          "name": "Justo Antes de la Guerra con los Esquimales",
-          "url": "https://open.spotify.com/artist/0E8okIJZJy58uvxYajtFor"
-        }
-      ],
-      "duration_ms": 175046,
-      "name": "Evil Dead",
-      "url": "https://open.spotify.com/track/0ZyrbgosyeinetxLfJ31Lu"
-    },
-    {
-      "added_at": "2023-11-15 06:00:00",
-      "album": {
         "name": "No llamaste",
         "url": "https://open.spotify.com/album/1VybcvZTjsmeh2YTcIQF5H"
       },
@@ -663,18 +647,18 @@
     {
       "added_at": "2023-11-15 06:00:00",
       "album": {
-        "name": "the homesick song",
-        "url": "https://open.spotify.com/album/44zlKZzMSMxv3zyPdnDa2T"
+        "name": "Evil Dead",
+        "url": "https://open.spotify.com/album/4zlAqUr4qS76Ci1BeEawVr"
       },
       "artists": [
         {
-          "name": "VAL\u00c9",
-          "url": "https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE"
+          "name": "Justo Antes de la Guerra con los Esquimales",
+          "url": "https://open.spotify.com/artist/0E8okIJZJy58uvxYajtFor"
         }
       ],
-      "duration_ms": 184615,
-      "name": "the homesick song",
-      "url": "https://open.spotify.com/track/3bnDb8pF6JHDPmiguP7kEY"
+      "duration_ms": 175046,
+      "name": "Evil Dead",
+      "url": "https://open.spotify.com/track/0ZyrbgosyeinetxLfJ31Lu"
     },
     {
       "added_at": "2023-11-15 06:00:00",
@@ -695,18 +679,18 @@
     {
       "added_at": "2023-11-15 06:00:00",
       "album": {
-        "name": "Lim\u00f3n",
-        "url": "https://open.spotify.com/album/6lAhiTHG3kXbI3i028N3oa"
+        "name": "the homesick song",
+        "url": "https://open.spotify.com/album/44zlKZzMSMxv3zyPdnDa2T"
       },
       "artists": [
         {
-          "name": "Mister Monk",
-          "url": "https://open.spotify.com/artist/4QvxrhdsNDesKqrfGpX24Q"
+          "name": "VAL\u00c9",
+          "url": "https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE"
         }
       ],
-      "duration_ms": 143086,
-      "name": "Lim\u00f3n",
-      "url": "https://open.spotify.com/track/3k5ZMjRq5zffP96YHCgPNn"
+      "duration_ms": 184615,
+      "name": "the homesick song",
+      "url": "https://open.spotify.com/track/3bnDb8pF6JHDPmiguP7kEY"
     },
     {
       "added_at": "2023-11-15 06:00:00",
@@ -723,6 +707,22 @@
       "duration_ms": 138800,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/3JOaWtqZIoilfjtcDe1Qzb"
+    },
+    {
+      "added_at": "2023-11-15 06:00:00",
+      "album": {
+        "name": "Lim\u00f3n",
+        "url": "https://open.spotify.com/album/6lAhiTHG3kXbI3i028N3oa"
+      },
+      "artists": [
+        {
+          "name": "Mister Monk",
+          "url": "https://open.spotify.com/artist/4QvxrhdsNDesKqrfGpX24Q"
+        }
+      ],
+      "duration_ms": 143086,
+      "name": "Lim\u00f3n",
+      "url": "https://open.spotify.com/track/3k5ZMjRq5zffP96YHCgPNn"
     },
     {
       "added_at": "2023-11-15 06:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-11-15 06:00:00",
       "album": {
+        "name": "Ayer",
+        "url": "https://open.spotify.com/album/4s0vu5iTqHocp9zKbd2IA1"
+      },
+      "artists": [
+        {
+          "name": "LUR",
+          "url": "https://open.spotify.com/artist/29EKu93j5KOjAyXGUiLuIs"
+        }
+      ],
+      "duration_ms": 212062,
+      "name": "Ayer",
+      "url": "https://open.spotify.com/track/4YTOFkHCSED65DBPGGGwtk"
+    },
+    {
+      "added_at": "2023-11-15 06:00:00",
+      "album": {
         "name": "Sebastian",
         "url": "https://open.spotify.com/album/5fQIyRR1iWaIsZSHNfI3he"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 196615,
       "name": "Sebastian",
       "url": "https://open.spotify.com/track/3SSxawk0oNwp0QPHiDvgvK"
-    },
-    {
-      "added_at": "2023-11-15 06:00:00",
-      "album": {
-        "name": "Ayer",
-        "url": "https://open.spotify.com/album/4s0vu5iTqHocp9zKbd2IA1"
-      },
-      "artists": [
-        {
-          "name": "LUR",
-          "url": "https://open.spotify.com/artist/29EKu93j5KOjAyXGUiLuIs"
-        }
-      ],
-      "duration_ms": 212062,
-      "name": "Ayer",
-      "url": "https://open.spotify.com/track/4YTOFkHCSED65DBPGGGwtk"
     },
     {
       "added_at": "2023-11-15 06:00:00",

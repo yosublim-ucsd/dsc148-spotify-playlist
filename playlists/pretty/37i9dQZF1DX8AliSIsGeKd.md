@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Amelie Lens
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,359 likes - 89 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 620,598 likes - 89 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 88 | [DDG Talk](https://open.spotify.com/track/4I6p213xGciXe0Euyl6rUI) | [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [DDG Talk](https://open.spotify.com/album/113qnKo8Hy83Dh0yiXSPCB) | 5:59 |
 | 89 | [These Things Take Time \- AK Remix](https://open.spotify.com/track/1oir1oGiRYsPRYuMmw5Wap) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [These Things Take Time \(AK Remix\)](https://open.spotify.com/album/2uNQfjGaUKDqpgmeeHzO4N) | 3:01 |
 
-Snapshot ID: `MCwzNGZjZDQzNDYwMDRmNDI1ZmY3YjFlOWNhZjQwNDc4NWU5YjM3YzM2`
+Snapshot ID: `MCxhYTliYzEwYTU5M2VkYTA2Y2ZmZTM0NWRlMzRkOGM3YjJhYjBmZjVl`

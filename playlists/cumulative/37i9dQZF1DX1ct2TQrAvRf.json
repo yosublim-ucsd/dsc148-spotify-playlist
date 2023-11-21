@@ -438,7 +438,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 236551,
       "name": "Chhod Dala",
       "url": "https://open.spotify.com/track/5jv5MBWejIF8DX9huv5tKv"
@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 228705,
       "name": "Levels",
       "url": "https://open.spotify.com/track/60YICjIPdL7LDBcCMK0tAk"
@@ -2357,6 +2357,54 @@
     },
     {
       "album": {
+        "name": "Woh Raat",
+        "url": "https://open.spotify.com/album/7MKr5NF5sZUWjheSa1NXFf"
+      },
+      "artists": [
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        },
+        {
+          "name": "KR$NA",
+          "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192676,
+      "name": "Woh Raat",
+      "url": "https://open.spotify.com/track/27xsLWmSmEAiXABnOngOw7"
+    },
+    {
+      "album": {
+        "name": "Yadav Brand 2",
+        "url": "https://open.spotify.com/album/7ee5PlfgmGyU70CdxftTV2"
+      },
+      "artists": [
+        {
+          "name": "Sunny Yaduvanshi",
+          "url": "https://open.spotify.com/artist/07XZWWsqwn2QshmfoYzKIU"
+        },
+        {
+          "name": "AK Rok",
+          "url": "https://open.spotify.com/artist/3npIyKDl6aWfQPCIEU8RjY"
+        },
+        {
+          "name": "Nitesh Ujoli",
+          "url": "https://open.spotify.com/artist/2k4fHTIWakuc1WSIV0owMZ"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174252,
+      "name": "Yadav Brand 2",
+      "url": "https://open.spotify.com/track/1AMD2AkfGrKoKhwkvYLbza"
+    },
+    {
+      "album": {
         "name": "Yadav Brand 2",
         "url": "https://open.spotify.com/album/3pRiXGIvpgNrMQmK6AgJ3c"
       },
@@ -2376,10 +2424,36 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 174252,
       "name": "Yadav Brand 2",
       "url": "https://open.spotify.com/track/4JvziZ2kQsbzfvRQtpYfmJ"
+    },
+    {
+      "album": {
+        "name": "KARAM",
+        "url": "https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "KR$NA",
+          "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
+        },
+        {
+          "name": "Talay Riley",
+          "url": "https://open.spotify.com/artist/5Yh3qHDUeUiyQqn1jmNhT1"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174941,
+      "name": "Zero After Zero",
+      "url": "https://open.spotify.com/track/6mhopOuZqV3ujE7oQ9T1tM"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1ct2TQrAvRf"

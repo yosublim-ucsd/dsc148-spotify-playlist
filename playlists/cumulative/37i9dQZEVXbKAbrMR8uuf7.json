@@ -4958,7 +4958,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-20",
+      "date_removed": null,
       "duration_ms": 212052,
       "name": "DELETE",
       "url": "https://open.spotify.com/track/4vUjkdHefbN7Qh1cMcDqZU"
@@ -7521,6 +7521,28 @@
     },
     {
       "album": {
+        "name": "FLORES (with Leoni Torres)",
+        "url": "https://open.spotify.com/album/7hUUUEFsrPfdWDav4kADfT"
+      },
+      "artists": [
+        {
+          "name": "Chris Tamayo",
+          "url": "https://open.spotify.com/artist/3E6iMhi3fvbMBSwZk8aeeJ"
+        },
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158352,
+      "name": "FLORES (with Leoni Torres)",
+      "url": "https://open.spotify.com/track/5vearMWjggvTZCLqasJQ6y"
+    },
+    {
+      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -7536,6 +7558,28 @@
       "duration_ms": 170000,
       "name": "Flores en An\u00f3nimo",
       "url": "https://open.spotify.com/track/62pg2fFuBb6zgU2gqJR8kP"
+    },
+    {
+      "album": {
+        "name": "FLOW",
+        "url": "https://open.spotify.com/album/7gv16TkFD0oTwAYUighegC"
+      },
+      "artists": [
+        {
+          "name": "Dark Angel",
+          "url": "https://open.spotify.com/artist/3tF3g1IGZuprAKENitpLYU"
+        },
+        {
+          "name": "Zunna",
+          "url": "https://open.spotify.com/artist/7kezrkuYBnE989Mv0gmIZ6"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110689,
+      "name": "FLOW",
+      "url": "https://open.spotify.com/track/3RtQamMLUKddg0lKotlBN6"
     },
     {
       "album": {
@@ -8082,7 +8126,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 133694,
       "name": "Gently (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn"
@@ -8674,7 +8718,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 116053,
       "name": "Hecho Por Mi",
       "url": "https://open.spotify.com/track/6haKsKjH6LuBBNat1lLJi5"
@@ -8696,6 +8740,24 @@
       "duration_ms": 137014,
       "name": "Helicoptero",
       "url": "https://open.spotify.com/track/4xGuA6Amh6K4MVoxXgYrKU"
+    },
+    {
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/1xqZJzuWNfWoMGZgqTOCDk"
+      },
+      "artists": [
+        {
+          "name": "Juliera",
+          "url": "https://open.spotify.com/artist/00it1bBwOIDqd6QFINlBav"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/6ehfnR8flPvsazuQyLGc6j"
     },
     {
       "album": {
@@ -12244,7 +12306,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 141156,
       "name": "LULU",
       "url": "https://open.spotify.com/track/5sGFcC2dQW7FORK1FmTlUY"
@@ -23582,7 +23644,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 216148,
       "name": "Yandel 150",
       "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"

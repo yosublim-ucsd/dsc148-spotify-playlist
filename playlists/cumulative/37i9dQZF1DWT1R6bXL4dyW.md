@@ -4,7 +4,7 @@
 
 > Buon Appetito!
 
-69 songs - 3 hr 30 min
+71 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Come Back To Sorrento](https://open.spotify.com/track/5qwgAYRiKuI1iTy8OpEMZS) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Old Gold Times Presents: Dean Martin \- The Full Story](https://open.spotify.com/album/29KCJy50quUkgpS0E4nBIt) | 3:13 | 2018-03-09 | 2022-07-29 |
 | [Come Back To Sorrento](https://open.spotify.com/track/5aefoUh9oR6nzQdwdp6k14) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 3:15 | 2018-03-09 |  |
 | [Conversazione](https://open.spotify.com/track/6QJCRh7zkxzpNZ5tzK2Rfm) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Sabato sera Studio Uno 1967](https://open.spotify.com/album/0GE5WZVdug1awyoHhWkBd0) | 2:20 | 2022-02-18 |  |
-| [Domani \(Tomorrow\)](https://open.spotify.com/track/5GFLCzdy1DH9V5pGlpItJY) | [Julius LaRosa](https://open.spotify.com/artist/7eYjNm8FZWh2E7MPw7uHaJ) | [Julia LaRosa's Best](https://open.spotify.com/album/20kqgNb3tLmqH3f6hoHCvN) | 2:34 | 2019-03-18 |  |
+| [Domani \(Tomorrow\)](https://open.spotify.com/track/250NogchyXPWsQ5H81IDyS) | [Julius LaRosa](https://open.spotify.com/artist/7eYjNm8FZWh2E7MPw7uHaJ) | [Julia LaRosa's Best](https://open.spotify.com/album/0l95EqzNXdV1rJnFuhyx1o) | 2:34 | 2019-03-18 |  |
+| [Domani \(Tomorrow\)](https://open.spotify.com/track/5GFLCzdy1DH9V5pGlpItJY) | [Julius LaRosa](https://open.spotify.com/artist/7eYjNm8FZWh2E7MPw7uHaJ) | [Julia LaRosa's Best](https://open.spotify.com/album/20kqgNb3tLmqH3f6hoHCvN) | 2:34 | 2019-03-18 | 2023-11-21 |
 | [E Rrose Parlano](https://open.spotify.com/track/3gv3DtiBiTWsVrorvJjyH5) | [Jimmy Roselli](https://open.spotify.com/artist/7IbQOrbuDPJu0mac9pDwf3) | [Aggio Perduto O Suonno](https://open.spotify.com/album/76U9nf3gDjcAv4ZNbyC4rN) | 4:12 | 2019-03-18 |  |
 | [Guarda che luna](https://open.spotify.com/track/79g5dcc87vtTw5RkwkDs4L) | [Fred Buscaglione](https://open.spotify.com/artist/2OZgYaqlFRoRyycKkIvkSa) | [Che Bambola!](https://open.spotify.com/album/2dznTOXzQCpmzkTwLmt9fh) | 2:24 | 2019-03-18 |  |
 | [Hold My Hand](https://open.spotify.com/track/6eGgw0KZkNfDy5CFP5nWvZ) | [Don Cornell](https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS) | [Cara Mia: The Great ‘50s Love Songs](https://open.spotify.com/album/0QDRRi9D6fFxh3w2R7iPQy) | 2:45 | 2019-03-18 | 2022-02-19 |
@@ -70,7 +71,8 @@
 | [The Glory of Love](https://open.spotify.com/track/4usvynbYaFqgm4olpzEp9u) | [Jimmy Durante](https://open.spotify.com/artist/5FNHfTn3yzVpqdUyWwej0v) | [Hello Young Lovers](https://open.spotify.com/album/2MxPqVPNpPGx4jYjSJr6Zg) | 2:49 | 2019-03-18 |  |
 | [The Pleasure Of Her Company](https://open.spotify.com/track/5KdkuAfOa5QA2eEYccxLD1) | [Vic Damone](https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g) | [16 Most Requested Songs](https://open.spotify.com/album/3BKBbOThU1jKTqirqDkSok) | 3:12 | 2019-03-18 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 3:22 | 2019-03-18 |  |
-| [This Is Heaven](https://open.spotify.com/track/08XE9DL4G4nB21QgHEkeaT) | [Julius LaRosa](https://open.spotify.com/artist/7eYjNm8FZWh2E7MPw7uHaJ) | [Julius LaRosa](https://open.spotify.com/album/36Amo3vFBVrwGlXq7OUCnT) | 3:08 | 2019-03-18 |  |
+| [This Is Heaven](https://open.spotify.com/track/08XE9DL4G4nB21QgHEkeaT) | [Julius LaRosa](https://open.spotify.com/artist/7eYjNm8FZWh2E7MPw7uHaJ) | [Julius LaRosa](https://open.spotify.com/album/36Amo3vFBVrwGlXq7OUCnT) | 3:08 | 2019-03-18 | 2023-11-21 |
+| [This Is Heaven](https://open.spotify.com/track/66Uu4Q9Qoili64BplPb2k5) | [Julius LaRosa](https://open.spotify.com/artist/7eYjNm8FZWh2E7MPw7uHaJ) | [Julius LaRosa](https://open.spotify.com/album/0prrVNzAxOL57e4AnuXY7R) | 3:08 | 2019-03-18 |  |
 | [Traditional: Santa Lucia](https://open.spotify.com/track/3uMHUBQ9TyW4QDuTeT7CdR) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [David Romano](https://open.spotify.com/artist/3srYILowq1BvCdlcvuor6x), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj), [Emerson Buckley](https://open.spotify.com/artist/12Lx27kM3i0A3gfE9m3Bcc) | [Pavarotti Forever](https://open.spotify.com/album/4uqcr1BXoigCnQ9POw0YYP) | 1:29 | 2022-02-18 |  |
 | [Tu vuo' fa l'americano](https://open.spotify.com/track/5ez6STfeeuCyahjmGFmudi) | [Renato Carosone](https://open.spotify.com/artist/5bt1p0ybrvQPJwt4YINGTF) | [Tu Vuo' Fa L'americano](https://open.spotify.com/album/5pvgUx68aVvUibpa1J9O56) | 3:25 | 2019-03-18 |  |
 | [Tu Vuo' Fa L'Americano \(Alternate Take\)](https://open.spotify.com/track/0aRwjpeeFTjSLT7f58GdBw) | [Renato Carosone](https://open.spotify.com/artist/5bt1p0ybrvQPJwt4YINGTF) | [L'Incredibile Renato Carosone](https://open.spotify.com/album/18nKFmNk8Jygs9tKqJAEzG) | 3:25 | 2019-03-18 | 2023-11-11 |

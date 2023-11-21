@@ -2,9 +2,9 @@
 
 ### [Latin Dinner](https://open.spotify.com/playlist/37i9dQZF1DX2zAr9vdmFlU)
 
-> You bring the ingredients\. We bring the flavor\. Enjoy la cena!
+> You bring the ingredients\. We bring the flavor\. Enjoy la cena..\. Thanksgiving edition!
 
-240 songs - 15 hr 12 min
+241 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Calaveras y Diablitos](https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Fabulosos Exitos](https://open.spotify.com/album/2V9za0PRp46NAZvSEs3hxU) | 4:24 | 2021-12-09 |  |
 | [Caliente](https://open.spotify.com/track/0efgPvuswa3D7pghLVpQwV) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [The Soul Rebels](https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN) | [Caliente](https://open.spotify.com/album/6lFWmZ8hXqAu4qNN8CNYfM) | 4:54 | 2022-08-31 | 2023-02-13 |
 | [Caliente](https://open.spotify.com/track/5sTSeo2f3Rjo7eMV1AdlEM) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [The Soul Rebels](https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN) | [Caliente](https://open.spotify.com/album/1tWaj0v0w6h9M9PRmh8BQe) | 4:54 | 2021-12-09 | 2022-10-14 |
-| [Caminando por Quisqueya](https://open.spotify.com/track/2avb4jaEXShHqfAF3yuKhX) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou) | [Caminando por Quisqueya](https://open.spotify.com/album/1z6vx39dIoXCScxQ8c6xn4) | 6:00 | 2023-04-14 |  |
+| [Caminando por Quisqueya](https://open.spotify.com/track/2avb4jaEXShHqfAF3yuKhX) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou) | [Caminando por Quisqueya](https://open.spotify.com/album/1z6vx39dIoXCScxQ8c6xn4) | 6:00 | 2023-04-14 | 2023-11-21 |
 | [Canta Mundo](https://open.spotify.com/track/4KKu46t4zWtQPcM7NHzCvr) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Orquesta Sinfónica de Caldas](https://open.spotify.com/artist/387J8CNFZB9AJ0feSx7PB0) | [Canta Mundo](https://open.spotify.com/album/24HC9D5W71Twk747rBx4Pl) | 3:51 | 2021-12-09 | 2023-05-27 |
 | [CANTO A LA VIDA](https://open.spotify.com/track/3QBF5mHQJbs8Z2ByPHWn7y) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [CANTO A LA VIDA](https://open.spotify.com/album/78SK9hrSR8KZ9Gi6cvq27n) | 3:25 | 2023-11-17 |  |
 | [Carmesí](https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:01 | 2021-12-09 |  |
@@ -112,6 +112,7 @@
 | [La Cumbia Del Infinito](https://open.spotify.com/track/4bMqrcFJszZ8HzT9rb0Tfz) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [De Buenos Aires Para El Mundo](https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE) | 3:25 | 2022-01-01 | 2023-03-08 |
 | [La Cumbia Del Infinito](https://open.spotify.com/track/1w12DHBFzWNzV47aG5WNCU) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [La Cumbia Del Infinito](https://open.spotify.com/album/1OQAsluVeQn4E88IYCxtVO) | 3:25 | 2022-08-31 | 2022-11-13 |
 | [La del bar](https://open.spotify.com/track/5nLL2zJVhkPMpGVQapZ6Eg) | [Gèrard](https://open.spotify.com/artist/71Cp3TYbeCYy1KmkGlF10z) | [La del bar](https://open.spotify.com/album/1kpWuRjNRbNDwJA2OTKdIi) | 2:34 | 2021-12-09 | 2023-05-04 |
+| [La Distancia](https://open.spotify.com/track/0LpEr3qpmDQ1gEabnsQlGC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:17 | 2023-11-20 |  |
 | [La Marea](https://open.spotify.com/track/2jVYJ5WjkhqhEsTchOQyfW) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [La Marea](https://open.spotify.com/album/78U27tRpWAvPOTVNoE5vqo) | 2:32 | 2021-12-09 | 2023-03-08 |
 | [Lady Mandona](https://open.spotify.com/track/52CoeeSJDTxzZGMKaCzqz0) | [Literal](https://open.spotify.com/artist/0Ec1MqHP5MENR7rK3DtO3G) | [Lady Mandona](https://open.spotify.com/album/2C7VLNRVVX3XXtKeyiFqsd) | 2:35 | 2021-12-09 | 2023-05-28 |
 | [Las Flores](https://open.spotify.com/track/7J0y2DmQmiHKuDxiu3xKk3) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Las Flores](https://open.spotify.com/album/0gweUoGXGMkvgnVljTr0tu) | 5:55 | 2023-11-10 |  |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFNWN7fsnAm.md) - [plain]
 
 > Listen to <a href="spotify:artist:1yqxFtPHKcGcv6SXZNdyT9">MK</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,411 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,439 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Take My Chance](https://open.spotify.com/track/6d0ediFvVUAQXkeraZRtXR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/48mkI91Qbu55gGYgtKPVK9) | 3:18 |
+| 1 | [Take My Chance](https://open.spotify.com/track/3uD3HzG6tO8lWUIKtJKcxA) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/3xaAySZDsBeu2k12tDaLsZ) | 3:18 |
 | 2 | [TAKE IT OFF](https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [TAKE IT OFF](https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW) | 3:14 |
 | 3 | [Dress Code](https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Dress Code](https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1) | 3:23 |
 | 4 | [Vogue \- Extended Mix](https://open.spotify.com/track/2a4fsElppxhJd11sGXfsoW) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Vogue](https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz) | 5:11 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFNWN7fsnAm.md) - [plain]
 | 79 | [In 'n' Out \- Radio Edit](https://open.spotify.com/track/0I6b4cc0AiI9B150JREcuZ) | [ELDON](https://open.spotify.com/artist/6so3Cydf32ZE4ztbphgyJV), [Deja](https://open.spotify.com/artist/1tQhPQaCikIyamVzWZyXfJ) | [On the Move \(Radio Edit\)](https://open.spotify.com/album/4BtjkeJY1RmqHml30jJO9U) | 3:27 |
 | 80 | [Insomnia](https://open.spotify.com/track/6Q5XmBbXPszddE3emn6hUr) | [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7) | [Insomnia / Ancestral Offerings](https://open.spotify.com/album/5GVfLqzwzi7AJR6fLAMJzX) | 6:19 |
 
-Snapshot ID: `MCxlOTJlZWZmNGVhMTIwYzgwZDI5MjY4OWJlN2E1ZTNiNDEyZjM5YjFl`
+Snapshot ID: `MCw0M2VmZjVlMWZmZmI5ZmIzZDk1NzNjNzlmYmRhYTJhMjg0YzEyNDMz`

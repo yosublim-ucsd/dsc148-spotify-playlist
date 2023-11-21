@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada\. Elevate your aura with DJ Rosegold, Savannah Ré and Fana Hues\. 🩷
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,673 likes - 99 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,723 likes - 99 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 98 | [Notice It](https://open.spotify.com/track/1dYKS6bOekZjU3d1TLwyIr) | [Mighloe](https://open.spotify.com/artist/44obblyrd8EsnfeDkJpiov) | [Notice It](https://open.spotify.com/album/0CwyOwZPnaxCfZv7jEW3di) | 3:16 |
 | 99 | [NDZ](https://open.spotify.com/track/4AVaqcOFUH1JBtMTNKZEXd) | [Afta Hill](https://open.spotify.com/artist/2QyfQWgIraqOxY6uBmwP6f) | [NOTHING nothing](https://open.spotify.com/album/4sOJHnuwsLnFmgDehTLamo) | 3:35 |
 
-Snapshot ID: `MCw5NWUwZDE0NzA4MGYyN2I4NTAyZGYyNjhhOWM5YjBlMjJjNjgwOTk4`
+Snapshot ID: `MCw4ZDgwMGMzNGYzMmMzZjgwYjNkNjJiYWI3MzkxNmVjZTVlMDRkMjVi`

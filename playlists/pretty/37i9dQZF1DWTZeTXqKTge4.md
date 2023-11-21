@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: FouKi, Souldia
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,538 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,543 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Drinking](https://open.spotify.com/track/4Sif8gDOINGLQ6gDP8yZjP) | [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0), [Bazzart](https://open.spotify.com/artist/2MbDF1l08wsQOWjwg54YYa) | [Tiamat, Mon Amour](https://open.spotify.com/album/0Rh29AQkiNEw3wJNHC4Bzq) | 4:08 |
 | 75 | [CC](https://open.spotify.com/track/2TOexWkJa99UYe6BdbxsjU) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [CC](https://open.spotify.com/album/2mmmfA38Smu5e5OquI0Vjc) | 3:47 |
 
-Snapshot ID: `MCw5YjgxM2E5YzIzNGY2MzE3NzM0M2NlNDkwZmEwZWRhMzliMWQ2OTY1`
+Snapshot ID: `MCw0NjQ1NTZmOTdiYzI4ZGIxMTcxMDllNWZlOWJjYmEzZWUxODEwNzc4`

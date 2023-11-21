@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-388 songs - 1 day 3 hr 42 min
+389 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Agent Orange](https://open.spotify.com/track/0CDHN3Wk8JY0p5myySB0mS) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Ten Black Years: Best Of](https://open.spotify.com/album/4CkwJZRRMAFz8L0F2sBaWp) | 6:04 | 2022-07-13 | 2023-11-04 |
 | [Agent Orange](https://open.spotify.com/track/4TeBqPv7xL3To59h65prgK) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Ten Black Years \- Best Of](https://open.spotify.com/album/2wqXsiFeAsqhEuzHfE1VvR) | 6:04 | 2023-06-27 |  |
 | [Agent Orange](https://open.spotify.com/track/2Wu6LMO0Rx6Aa4LPHH1T95) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Agent Orange \(Re\-Release\)](https://open.spotify.com/album/62R0jgrQcPKgtBSJWZbgHY) | 6:05 | 2022-07-13 | 2022-07-29 |
-| [Agents of Steel](https://open.spotify.com/track/7vhN8nkLJKIlQIfhp6gkuE) | [Agent Steel](https://open.spotify.com/artist/1FQv3rI4iJPitbZiTxBGut) | [Skeptics Apocalypse](https://open.spotify.com/album/33w5Y1NMYvaifunYJJtDCT) | 3:03 | 2022-07-13 |  |
+| [Agents of Steel](https://open.spotify.com/track/7vhN8nkLJKIlQIfhp6gkuE) | [Agent Steel](https://open.spotify.com/artist/1FQv3rI4iJPitbZiTxBGut) | [Skeptics Apocalypse](https://open.spotify.com/album/33w5Y1NMYvaifunYJJtDCT) | 3:03 | 2022-07-13 | 2023-11-21 |
 | [Ahi Kā](https://open.spotify.com/track/2LjT8Sjr6Xpze082hJXoJG) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Ahi Kā](https://open.spotify.com/album/6yXaZhqRbOpofFX40IGmdN) | 3:46 | 2021-12-17 | 2022-07-28 |
 | [Ahi Kā](https://open.spotify.com/track/6TWusB8IRbn4OCJm3jLQJr) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Ahi Kā](https://open.spotify.com/album/5nsejUAhSvLeMfZJ12pERm) | 3:46 | 2022-07-13 |  |
 | [Alison Hell](https://open.spotify.com/track/153SwL1d9SfCLWhqIs08we) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Alice In Hell](https://open.spotify.com/album/5oKZacGOXxb7A2OwXgh9UY) | 5:01 | 2022-07-13 |  |
@@ -121,6 +121,7 @@
 | [Exiled To The Surface](https://open.spotify.com/track/4dn7HrPubzI92ztLneJq0R) | [Traitor](https://open.spotify.com/artist/3rHTxH2it9i3O73UQbnMvM) | [Exiled To The Surface](https://open.spotify.com/album/6dzIsjlhJbUQGPO7wuBAn5) | 3:27 | 2022-04-08 | 2022-05-28 |
 | [Extinction](https://open.spotify.com/track/239D9QunfPbo8mSeU9Jod6) | [Wraith](https://open.spotify.com/artist/2PoKRqTdpPPNoeuLudp0yS) | [Index Case](https://open.spotify.com/album/6HqyU5Uy6UoqCgGEfriQzH) | 1:55 | 2021-12-17 | 2022-07-23 |
 | [Extreme Aggression](https://open.spotify.com/track/4iP6rp4XyLdh4zxORd0Tnq) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Extreme Aggression](https://open.spotify.com/album/5iN66znBhr5nr0nuGYDG2A) | 4:43 | 2022-07-13 | 2023-11-03 |
+| [Extreme Aggression](https://open.spotify.com/track/1kGGgsepNQzIw3ObRl4NC2) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Extreme Aggression](https://open.spotify.com/album/5aqF2FuhCmFa3AGg8mLFON) | 4:43 | 2023-06-27 |  |
 | [False Prophet](https://open.spotify.com/track/3Ych9a6MRd6LNs1uHyoyoU) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Titans of Creation](https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK) | 4:54 | 2021-12-17 | 2022-07-29 |
 | [Fear Campaign](https://open.spotify.com/track/0WSImTNa6ISr9GrONB9t5D) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Fear Campaign](https://open.spotify.com/album/7cxb2UhwQ7Kk4ikq6bsgDS) | 3:57 | 2021-12-17 | 2022-07-29 |
 | [Feast of Flesh](https://open.spotify.com/track/5vTuSUoJfY9koIoslz26bO) | [Exmortus](https://open.spotify.com/artist/3jxlXqh6SD2hMUgYEHUNwG) | [The Sound of Steel](https://open.spotify.com/album/7dn6QFOmR37W4DYczYCjFl) | 3:41 | 2021-12-17 | 2022-07-29 |

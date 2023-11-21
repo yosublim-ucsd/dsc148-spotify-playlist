@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 91580,
+  "num_followers": 91717,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzFiNWIxYTliNWEwMWY3MTk3YjI2N2U5YjM3YjkwNmFlOGU2NDE5",
+  "snapshot_id": "MCxkMzUyMTljMzc2MTA0MWI4MDFmMjU1NGYxYzE1ZDAzNWIwMTQ4NzBj",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -115,26 +115,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Alex Campos y Sus Amigos (En Vivo)",
-        "url": "https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        },
-        {
-          "name": "Barak",
-          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
-        }
-      ],
-      "duration_ms": 251013,
-      "name": "Si Estoy Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/1ZAqiTFbsiv9OYSiDQsIv8"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Sin Fronteras",
         "url": "https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT"
       },
@@ -147,42 +127,6 @@
       "duration_ms": 346040,
       "name": "El Maestro de Galilea",
       "url": "https://open.spotify.com/track/6zLxr6n6tFeqmh2uNmBGGd"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Pensaba en Ti",
-        "url": "https://open.spotify.com/album/72BcCE5UVXtDj1Ys0mJ0yU"
-      },
-      "artists": [
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
-        }
-      ],
-      "duration_ms": 219116,
-      "name": "Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/4JsxCbj5Umjs9tdu2dIBBF"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
-        "url": "https://open.spotify.com/album/0ZuChxTZJfnV2rxfyweF8a"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Kike Pav\u00f3n",
-          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
-        }
-      ],
-      "duration_ms": 222506,
-      "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
-      "url": "https://open.spotify.com/track/2s4npyJ0dfZ3uEZ5mw6X7K"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -203,6 +147,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Pensaba en Ti",
+        "url": "https://open.spotify.com/album/72BcCE5UVXtDj1Ys0mJ0yU"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "duration_ms": 219116,
+      "name": "Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/4JsxCbj5Umjs9tdu2dIBBF"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Flaming Fire",
         "url": "https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR"
       },
@@ -215,6 +175,26 @@
       "duration_ms": 212146,
       "name": "Que No Faltes Tu",
       "url": "https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Alex Campos y Sus Amigos (En Vivo)",
+        "url": "https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "duration_ms": 251013,
+      "name": "Si Estoy Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1ZAqiTFbsiv9OYSiDQsIv8"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -251,6 +231,26 @@
       "duration_ms": 307957,
       "name": "Volar\u00e9",
       "url": "https://open.spotify.com/track/4oO60kTXH6bi1EmeVweJEl"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
+        "url": "https://open.spotify.com/album/0ZuChxTZJfnV2rxfyweF8a"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "duration_ms": 222506,
+      "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
+      "url": "https://open.spotify.com/track/2s4npyJ0dfZ3uEZ5mw6X7K"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -335,22 +335,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Enamorarme Mas",
-        "url": "https://open.spotify.com/album/3wkaAjJkem9YQO9l7SGmQa"
-      },
-      "artists": [
-        {
-          "name": "Christian Ray",
-          "url": "https://open.spotify.com/artist/31b011kEKkVK3I5v56GOig"
-        }
-      ],
-      "duration_ms": 275426,
-      "name": "Perfume a Tus Pies",
-      "url": "https://open.spotify.com/track/2yJyqIIEH2uBAyNqjXnDEM"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Sin Ti",
         "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 264800,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Enamorarme Mas",
+        "url": "https://open.spotify.com/album/3wkaAjJkem9YQO9l7SGmQa"
+      },
+      "artists": [
+        {
+          "name": "Christian Ray",
+          "url": "https://open.spotify.com/artist/31b011kEKkVK3I5v56GOig"
+        }
+      ],
+      "duration_ms": 275426,
+      "name": "Perfume a Tus Pies",
+      "url": "https://open.spotify.com/track/2yJyqIIEH2uBAyNqjXnDEM"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -543,18 +543,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Punto y Aparte",
-        "url": "https://open.spotify.com/album/6AnxBxzyvCtPvNx7nn4zyM"
+        "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
+        "url": "https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD"
       },
       "artists": [
         {
-          "name": "Kike Pav\u00f3n",
-          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 214785,
-      "name": "No Puedo Ni Quiero",
-      "url": "https://open.spotify.com/track/5gxQHWnI9FhKlGwAMvE3b3"
+      "duration_ms": 202000,
+      "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
+      "url": "https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -591,6 +595,38 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Punto y Aparte",
+        "url": "https://open.spotify.com/album/6AnxBxzyvCtPvNx7nn4zyM"
+      },
+      "artists": [
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "duration_ms": 214785,
+      "name": "No Puedo Ni Quiero",
+      "url": "https://open.spotify.com/track/5gxQHWnI9FhKlGwAMvE3b3"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0qSI9KwRdzu1euqI19poAi"
+      },
+      "artists": [
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/3lzyHlwA8eLqDqHZ3FnKJp"
+        }
+      ],
+      "duration_ms": 203187,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/2YhJlGNniJbAMbNUWf6iiE"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Deluxe",
         "url": "https://open.spotify.com/album/7DqUydQ4WODGbSdYLDte9I"
       },
@@ -603,26 +639,6 @@
       "duration_ms": 223516,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/2AvucB3PF66vcQoQJ6nZ3H"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
-        "url": "https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
-      "url": "https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -643,22 +659,6 @@
       "duration_ms": 248857,
       "name": "Good Good Father (feat. Avion Blackman)",
       "url": "https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/0qSI9KwRdzu1euqI19poAi"
-      },
-      "artists": [
-        {
-          "name": "Yeyo",
-          "url": "https://open.spotify.com/artist/3lzyHlwA8eLqDqHZ3FnKJp"
-        }
-      ],
-      "duration_ms": 203187,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/2YhJlGNniJbAMbNUWf6iiE"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -695,38 +695,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Los Revolucionarios",
-        "url": "https://open.spotify.com/album/3Z11QAKXolvX22BZhC4eaH"
-      },
-      "artists": [
-        {
-          "name": "Batuqueadora",
-          "url": "https://open.spotify.com/artist/47RBGFFiHJx1q4BageKWkw"
-        }
-      ],
-      "duration_ms": 235681,
-      "name": "Batugozo",
-      "url": "https://open.spotify.com/track/03XD6d7Lr9TJXdGBSZt6Ko"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "This Is My Time",
-        "url": "https://open.spotify.com/album/2sX0kaEYZmGfkbvmFVFvwg"
-      },
-      "artists": [
-        {
-          "name": "Mr. Don",
-          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
-        }
-      ],
-      "duration_ms": 228111,
-      "name": "La Misma Mentira",
-      "url": "https://open.spotify.com/track/27bMe7oK95bEzjG55IbB5K"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Tu Amor",
         "url": "https://open.spotify.com/album/1TbMgpLI7P6CCq1mqVff90"
       },
@@ -747,6 +715,22 @@
       "duration_ms": 192402,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/61No7p1QjC00WCWM6wP88E"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Los Revolucionarios",
+        "url": "https://open.spotify.com/album/3Z11QAKXolvX22BZhC4eaH"
+      },
+      "artists": [
+        {
+          "name": "Batuqueadora",
+          "url": "https://open.spotify.com/artist/47RBGFFiHJx1q4BageKWkw"
+        }
+      ],
+      "duration_ms": 235681,
+      "name": "Batugozo",
+      "url": "https://open.spotify.com/track/03XD6d7Lr9TJXdGBSZt6Ko"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -799,6 +783,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "This Is My Time",
+        "url": "https://open.spotify.com/album/2sX0kaEYZmGfkbvmFVFvwg"
+      },
+      "artists": [
+        {
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
+        }
+      ],
+      "duration_ms": 228111,
+      "name": "La Misma Mentira",
+      "url": "https://open.spotify.com/track/27bMe7oK95bEzjG55IbB5K"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Dios Te Bendiga",
         "url": "https://open.spotify.com/album/0AT18CmqEiwIfPCMVDECDw"
       },
@@ -811,26 +811,6 @@
       "duration_ms": 232254,
       "name": "Dios Te Bendiga",
       "url": "https://open.spotify.com/track/3Gp0u24pOoYTFkq0bgwmus"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0j2n0aqjlCAK2Ym6dt2TOr"
-      },
-      "artists": [
-        {
-          "name": "Mr. Don",
-          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
-        },
-        {
-          "name": "Niko La F\u00e1brica",
-          "url": "https://open.spotify.com/artist/77gpdl9ket58wQczszbrno"
-        }
-      ],
-      "duration_ms": 224783,
-      "name": "Yo Te Prometo",
-      "url": "https://open.spotify.com/track/3BmjG2rfCuZcgJ4szVLFHO"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -879,6 +859,22 @@
       "duration_ms": 248840,
       "name": "Desde Mi Alma",
       "url": "https://open.spotify.com/track/4CyVYEF7Jd1PFP5TvKic0Z"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "No Vaya a Ser",
+        "url": "https://open.spotify.com/album/4LUCoUs4hhd16D350FiZ6G"
+      },
+      "artists": [
+        {
+          "name": "Britt",
+          "url": "https://open.spotify.com/artist/0HwCaUS8htBIGIlRABaZIv"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "No Vaya a Ser",
+      "url": "https://open.spotify.com/track/4cxZYv0KJvw6MNHjuz8tOk"
     }
   ],
   "unique_name": "Inspiraci\u00f3n Tropical",

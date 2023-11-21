@@ -4,7 +4,7 @@
 
 > Beautiful indie tracks from around the world\. Cover: beabadoobee.
 
-87 songs - 4 hr 44 min
+88 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [The Underground](https://open.spotify.com/track/111ZlqKl6XMouxYalfUQl4) | [THE MOON](https://open.spotify.com/artist/3DfX25iwobGwgawuvpR7fB), [Sapir Shoval](https://open.spotify.com/artist/0s0mfbnDDXbblyKKK2NkeF) | [The Underground](https://open.spotify.com/album/4hjqzZDXRI4GnMgKFv1tuN) | 3:32 | 2022-11-30 |  |
 | [Tienaté](https://open.spotify.com/track/1SIXMGcsAeA6sNxaY1EG3O) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:38 | 2022-11-30 |  |
 | [Tocco di Lusso](https://open.spotify.com/track/0kxe9g9K1kdxzwRMNYfgIl) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Tocco di Lusso](https://open.spotify.com/album/2637BRvpeYONrNQiUWJUwV) | 3:23 | 2022-11-30 | 2023-02-25 |
-| [Tocco di Lusso](https://open.spotify.com/track/3Mx4tA9RPAgtLGSmbQSP9T) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Tocco di Lusso](https://open.spotify.com/album/0NbmQJt0h6KFZXyQuXX1PS) | 3:23 | 2022-11-30 |  |
+| [Tocco di Lusso](https://open.spotify.com/track/39240f8amnJeF5WeyAJ89Y) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Arte e Finanza](https://open.spotify.com/album/2AS34yX87HYs8Oqp5lqVaa) | 3:23 | 2022-11-30 |  |
+| [Tocco di Lusso](https://open.spotify.com/track/3Mx4tA9RPAgtLGSmbQSP9T) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Tocco di Lusso](https://open.spotify.com/album/0NbmQJt0h6KFZXyQuXX1PS) | 3:23 | 2022-11-30 | 2023-11-21 |
 | [TOOTHBRUSH](https://open.spotify.com/track/3GRcpeGpXOX3VmF0NYoNVE) | [ANNABELLE](https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm) | [TOOTHBRUSH](https://open.spotify.com/album/379iv9yNVZQ0LnAx7FhgNX) | 2:27 | 2022-11-30 |  |
 | [Turn the Lights Down Low](https://open.spotify.com/track/1SNhcEKK6m83oLxLWQJcqk) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Pink Room](https://open.spotify.com/album/1Hu2L5nA5Rg48bKOtIkmJB) | 3:12 | 2022-11-30 |  |
 | [un poco más](https://open.spotify.com/track/6LKZFDMdW2I59hv7jA5UOV) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:18 | 2022-11-30 |  |

@@ -718,7 +718,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 258788,
       "name": "Summer Night",
       "url": "https://open.spotify.com/track/45c7cAvP0LccTTRP0eLeeC"
@@ -758,6 +758,24 @@
       "duration_ms": 269162,
       "name": "Sundown in the Tropics",
       "url": "https://open.spotify.com/track/3qcEG11u63Sumin4HKLboE"
+    },
+    {
+      "album": {
+        "name": "Relaxing Nature Sounds",
+        "url": "https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY"
+      },
+      "artists": [
+        {
+          "name": "Lluvia del Bosque",
+          "url": "https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250977,
+      "name": "Sweet Forest Sound",
+      "url": "https://open.spotify.com/track/1uSdLhZVfPEKvYORqHJdgv"
     },
     {
       "album": {

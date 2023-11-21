@@ -512,7 +512,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 230000,
       "name": "Aaradhipe (From \"Toby\")",
       "url": "https://open.spotify.com/track/77wUMQppODRuIMXZrnoD27"
@@ -1116,7 +1116,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 245012,
       "name": "Andada Hoovu",
       "url": "https://open.spotify.com/track/1QQQtAbrwiBX4hYQI5asa0"
@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 204526,
       "name": "B A Gandu (from\"Rajayoga\")",
       "url": "https://open.spotify.com/track/56fdzN5Dp2IJPqs8Z1JTTT"
@@ -2544,7 +2544,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 281142,
       "name": "Bairagi Aadiyogi Shankara (From \"Inamdar\")",
       "url": "https://open.spotify.com/track/3KHqyBXEQbK2gutnt2ossH"
@@ -3299,6 +3299,28 @@
     },
     {
       "album": {
+        "name": "Bham Bham Bole (From \"Cicada\")",
+        "url": "https://open.spotify.com/album/7psUGzi4AiRiBfcliTnr11"
+      },
+      "artists": [
+        {
+          "name": "Vishak Nagalapura",
+          "url": "https://open.spotify.com/artist/6bfkyWyRl7vgkQlV0gy57S"
+        },
+        {
+          "name": "Sreejith Edavana",
+          "url": "https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129009,
+      "name": "Bham Bham Bole (From \"Cicada\")",
+      "url": "https://open.spotify.com/track/53mRiu9ELgDp6PpbvKvEDJ"
+    },
+    {
+      "album": {
         "name": "Bharaniya Male Hoydu (From \"Kasina Sara\") - Single",
         "url": "https://open.spotify.com/album/7cnyILvM0Do4Qt5NPxGzUU"
       },
@@ -3988,7 +4010,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 305684,
       "name": "Cheppava (From \"12th Fail\")",
       "url": "https://open.spotify.com/track/2eaimnpsv7vegdFnqi9egj"
@@ -4058,7 +4080,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 226200,
       "name": "Choo Mantar Title Track (from \"Choo Mantar\")",
       "url": "https://open.spotify.com/track/6hiAkSbSDFKBMDCHz1lbTH"
@@ -4368,6 +4390,36 @@
       "duration_ms": 238909,
       "name": "Dachak Anthamma (from \"Kiraathaka 2\")",
       "url": "https://open.spotify.com/track/3OPIInoiNtSMqYQq7meDg6"
+    },
+    {
+      "album": {
+        "name": "Shantala (Kannada)",
+        "url": "https://open.spotify.com/album/4s2YT72f0ELH73kdJav9Gm"
+      },
+      "artists": [
+        {
+          "name": "Vishal Chandrashekhar",
+          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
+        },
+        {
+          "name": "Kavitha",
+          "url": "https://open.spotify.com/artist/65G7Swi7ZAmjpdsTTyPRO1"
+        },
+        {
+          "name": "Jahnavi",
+          "url": "https://open.spotify.com/artist/29JrKkLSdFM1aubUp9Ki0P"
+        },
+        {
+          "name": "Kinnal Raj",
+          "url": "https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185471,
+      "name": "Dama Dama Dum Damarukam",
+      "url": "https://open.spotify.com/track/1Fjfv0r3mjkaIDNU80X9pr"
     },
     {
       "album": {
@@ -4724,7 +4776,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 279428,
       "name": "Devva Illa Bhoota Illa - From \"G 10\"",
       "url": "https://open.spotify.com/track/6zSZvXv7W17mtIA4yZdvDD"
@@ -5842,7 +5894,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 236218,
       "name": "Eli Sanje Kadala Teera - From \"Vaamana\"",
       "url": "https://open.spotify.com/track/1PzFXLgGwgjiaAe2bsC9gR"
@@ -6200,6 +6252,28 @@
       "duration_ms": 241411,
       "name": "Enu Sulivilladanthe",
       "url": "https://open.spotify.com/track/4Og7Qxa3KOtFQhDUnKAV8e"
+    },
+    {
+      "album": {
+        "name": "Tiger Nageswara Rao (Kannada)",
+        "url": "https://open.spotify.com/album/0vdKU1KLGerk7awZ0fV8d7"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Sachin S Nagartha",
+          "url": "https://open.spotify.com/artist/1WyqbsqrzA0ok6rGRs3Igw"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142040,
+      "name": "Eradu Gundege Katttaaalu",
+      "url": "https://open.spotify.com/track/0w2NrEI2G5rNEpC1F44NC7"
     },
     {
       "album": {
@@ -6986,7 +7060,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 258112,
       "name": "Ghost Ogm Cover Song",
       "url": "https://open.spotify.com/track/0777eJSmdfs31jkt5RkNUz"
@@ -8368,7 +8442,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 188639,
       "name": "Horaata (From \"Sapta Sagaradaache Ello - Side A\")",
       "url": "https://open.spotify.com/track/19XKmDIjW4lgzkEXNAQPhH"
@@ -8578,7 +8652,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 207647,
       "name": "Hukum (From \"Jailer\")",
       "url": "https://open.spotify.com/track/1zVpNFaChsxmXEQwAV3mmi"
@@ -8726,7 +8800,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 200568,
       "name": "I Wanna Follow You (From \"Fighter\")",
       "url": "https://open.spotify.com/track/3F928ndLwhOp9msCT15mlZ"
@@ -9338,7 +9412,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 205751,
       "name": "Jeeva (from\"Bad Manners\")",
       "url": "https://open.spotify.com/track/1YbSRL1hpl5DTw2EnBFNqZ"
@@ -10538,7 +10612,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 210500,
       "name": "Kanna Muchchikonde - From \"Aaraariraaro\"",
       "url": "https://open.spotify.com/track/0gaWdy5tDuo1JywUDeOiDy"
@@ -11469,6 +11543,32 @@
     },
     {
       "album": {
+        "name": "Lachi Lachi (From \"Maayanagari\")",
+        "url": "https://open.spotify.com/album/3NM7vXmG4RwYJqQF6KOAF9"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Nishan Rai",
+          "url": "https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy"
+        },
+        {
+          "name": "Sudarshan D C",
+          "url": "https://open.spotify.com/artist/47ilEn45rhiRBDog9f4VwV"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256799,
+      "name": "Lachi Lachi - From \"Maayanagari\"",
+      "url": "https://open.spotify.com/track/51pswOd4DjRdmIKaLKIvYj"
+    },
+    {
+      "album": {
         "name": "Laddoo Song (From \"Avatar Purusha\")",
         "url": "https://open.spotify.com/album/7wIYs66yAHvM6fioO6IdJB"
       },
@@ -11788,7 +11888,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 264807,
       "name": "Maathella Haage Ide",
       "url": "https://open.spotify.com/track/25eMW2PZwdlOeBZE2TdOQc"
@@ -13854,7 +13954,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 171429,
       "name": "Nadi Nadi Endu Heege",
       "url": "https://open.spotify.com/track/4hQy3zSi8FdePM7p0zRSCH"
@@ -16124,7 +16224,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 257920,
       "name": "O Maaye (From \"Dvandva\")",
       "url": "https://open.spotify.com/track/6Lp1E4RRJKlqfhR5MZYXYm"
@@ -16334,7 +16434,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 165323,
       "name": "OGM (From \"Ghost\")",
       "url": "https://open.spotify.com/track/25T3o2LN7IV1mIXCt1FPbQ"
@@ -17072,7 +17172,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 221052,
       "name": "Onti Payaniga (From \"ABHIRAMACHANDRA\")",
       "url": "https://open.spotify.com/track/0yHzqW7WqWiLI7kSq3Bc6x"
@@ -17246,7 +17346,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 139200,
       "name": "Ordinary Person (From \"Leo\")",
       "url": "https://open.spotify.com/track/6FahmzZYKH0zb2f9hrVsvw"
@@ -17908,7 +18008,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 214330,
       "name": "Preethiya Aayudha (From \"Leo (Kannada)\")",
       "url": "https://open.spotify.com/track/3YMuWlOveRgfTH4izD8SMw"
@@ -18178,7 +18278,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 238363,
       "name": "Radhe Radhe - from \"Bhavapoorna\"",
       "url": "https://open.spotify.com/track/6NkXKszmrSmyJ2k0x9GWnz"
@@ -18991,6 +19091,28 @@
     },
     {
       "album": {
+        "name": "Tiger Nageswara Rao (Kannada)",
+        "url": "https://open.spotify.com/album/0vdKU1KLGerk7awZ0fV8d7"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Abhishek M R",
+          "url": "https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Samaraane Nyayanaa",
+      "url": "https://open.spotify.com/track/45Sl5dJuvoeXDRuV6d3YCP"
+    },
+    {
+      "album": {
         "name": "Samayave (From \"Kadala Theerada Bhargava\")",
         "url": "https://open.spotify.com/album/57JzDj0jyzlNhbKqVtpIk8"
       },
@@ -19226,7 +19348,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 266056,
       "name": "Sanje Mele - from \"Matinee\"",
       "url": "https://open.spotify.com/track/5Qse2Hicbl3nranNNyJ7WD"
@@ -19274,7 +19396,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 255643,
       "name": "Sapta Sagaradaache Ello - Side A Title Track (From \"Sapta Sagaradaache Ello - Side A\")",
       "url": "https://open.spotify.com/track/4mfrhh7oSf1NAfLHUvQaMU"
@@ -19608,7 +19730,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 269333,
       "name": "She is in love (From \"Gana\")",
       "url": "https://open.spotify.com/track/3W23qZLsEZgHRlUcpRqDt9"
@@ -19656,7 +19778,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 74378,
       "name": "Show Me The Way",
       "url": "https://open.spotify.com/track/6zhXNooUvN5U92HM2gWhWt"
@@ -19932,7 +20054,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 282541,
       "name": "Snehada Kadalali (From \"Paramvah\")",
       "url": "https://open.spotify.com/track/4KJvTL4XjJoKUb5CZIgEtz"
@@ -20198,7 +20320,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 226958,
       "name": "Summane Naga Bahudhe Hudugi (from \"Jigar\")",
       "url": "https://open.spotify.com/track/60LKP71JQ3BM1k8zc7GV5b"
@@ -21376,7 +21498,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 198083,
       "name": "Veedu (From \"Tiger Nageswara Rao\")",
       "url": "https://open.spotify.com/track/16QpMebGDlM6GSdCdNkdVc"
@@ -21488,7 +21610,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 252000,
       "name": "Vivaravagi - From \"Olave Mandara 2\"",
       "url": "https://open.spotify.com/track/0hkDlS90S2F3Bmka2aZ618"

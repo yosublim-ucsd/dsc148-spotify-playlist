@@ -5776,7 +5776,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 208000,
       "name": "HIBIKI",
       "url": "https://open.spotify.com/track/4qSEvFGCpde73gqIuq3sho"
@@ -9119,6 +9119,28 @@
     },
     {
       "album": {
+        "name": "Nicaragua la Chavala Linda",
+        "url": "https://open.spotify.com/album/2bzWuZR9A4yZhzQjKZfU5f"
+      },
+      "artists": [
+        {
+          "name": "Ale",
+          "url": "https://open.spotify.com/artist/0R9lqHlponmd1wPbzBJXKQ"
+        },
+        {
+          "name": "Luis Pastor",
+          "url": "https://open.spotify.com/artist/1chEMxMalb2N7VzeLqaUR0"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198900,
+      "name": "Nicaragua la Chavala Linda",
+      "url": "https://open.spotify.com/track/5Dn8Q4XQdNBiJfdnlRXgBs"
+    },
+    {
+      "album": {
         "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
         "url": "https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD"
       },
@@ -11834,7 +11856,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 156500,
       "name": "SABOR FRESA",
       "url": "https://open.spotify.com/track/3kx21xR6IboC9HVdajgBoc"
@@ -14730,7 +14752,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 127699,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6P5c1JWjNXOqJuiKwTuEbL"

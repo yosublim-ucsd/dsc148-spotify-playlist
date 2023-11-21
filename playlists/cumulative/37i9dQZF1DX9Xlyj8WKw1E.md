@@ -4,7 +4,7 @@
 
 > Midwest music breaking waves\. Cover: <a href="spotify:artist:3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>
 
-527 songs - 1 day 1 hr 41 min
+528 songs - 1 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,8 @@
 | [Late Night](https://open.spotify.com/track/5uOmTglnawn691VfvHC4YY) | [Kennyflowers](https://open.spotify.com/artist/7eC8Ihn4DtTy9tFK0S3Gdp) | [Late Night](https://open.spotify.com/album/6ucpReBN9jbHWvY4IV8ToM) | 2:14 | 2021-10-08 | 2022-03-05 |
 | [Leave Her](https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Leave Her](https://open.spotify.com/album/1kLl5rrXewZ0SP0wcNSWcc) | 2:17 | 2023-05-18 | 2023-06-11 |
 | [Lemme See](https://open.spotify.com/track/1u4pvznoU57shxIRC1SCzE) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH) | [Lemme See](https://open.spotify.com/album/6F0OblQzVwDqeezGmVtukA) | 2:47 | 2022-01-29 | 2022-04-16 |
-| [Lenny Cooke](https://open.spotify.com/track/10yF9Kpv5uugqTqaySGgwI) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Lenny Cooke](https://open.spotify.com/album/4eZzqidvBsJASO7wvwR364) | 2:27 | 2023-10-28 |  |
+| [Lenny Cooke](https://open.spotify.com/track/10yF9Kpv5uugqTqaySGgwI) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Lenny Cooke](https://open.spotify.com/album/4eZzqidvBsJASO7wvwR364) | 2:27 | 2023-10-28 | 2023-11-21 |
+| [Lenny Cooke](https://open.spotify.com/track/5dYjfz5nrDpyWp30xaUAZl) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [SkuBop](https://open.spotify.com/album/2thtVFNwTy6WO1rseKOyWu) | 2:27 | 2023-10-28 |  |
 | [Lenny Cooke](https://open.spotify.com/track/6jkoFl438J3fNH38dk7Amu) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Lenny Cooke](https://open.spotify.com/album/6jdxGiQy5ZulPW0IoAwDoX) | 2:27 | 2023-10-13 | 2023-11-04 |
 | [Let Down My Guard](https://open.spotify.com/track/35fpJrAudPdQL0ToRhavUN) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Thanks 4 Nothing](https://open.spotify.com/album/3rA9WvtKza3kX1S0fNsTgi) | 3:12 | 2023-04-15 | 2023-07-29 |
 | [let him cooketh \(No Bev\)](https://open.spotify.com/track/4Je3shjTH5uUyFQJS0Tuvz) | [Your Stepdad](https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu) | [let him cooketh \(No Bev\)](https://open.spotify.com/album/7A2yxNKZivHUrgV0pHbFwb) | 2:15 | 2023-05-18 | 2023-08-12 |

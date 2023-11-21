@@ -4,7 +4,7 @@
 
 > A palavra do Senhor pra você dançar.
 
-134 songs - 7 hr 0 min
+135 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Rei da Glória](https://open.spotify.com/track/0gGIsVwsGE60up8j7srjIj) | [Dj Roony Moura](https://open.spotify.com/artist/0ZmLY2GPdBJSEPaGfEAQlL), [Fabio Martin](https://open.spotify.com/artist/1t9PgXlq6ngWDDjSjB1m7E) | [Rei da Glória](https://open.spotify.com/album/2heT6GWNukPP4N4a018tx9) | 4:26 | 2022-09-02 |  |
 | [Rei da Revoada \- Remix](https://open.spotify.com/track/24Sg8149jRsZxYcoY67hoY) | [Dj Lucas Ninja](https://open.spotify.com/artist/6RRBLrk8E6TfoOvqD1OODq), [George Morais](https://open.spotify.com/artist/6YSJDpVtDDlJydO4n9NOiX) | [Rei da Revoada \(Remix\)](https://open.spotify.com/album/0KrAlUgsvBss83xPJbILNS) | 2:25 | 2023-02-25 | 2023-03-18 |
 | [Rescue Me](https://open.spotify.com/track/6V7AyvLYXVj9NGcUAgbwuk) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Rescue Me](https://open.spotify.com/album/2JXPkfHgiEdHDzM7keIn84) | 2:41 | 2023-11-03 |  |
-| [Resistência](https://open.spotify.com/track/6CtxpRx3PlkprhB6DkwbUy) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Resistência](https://open.spotify.com/album/2cyyp5ehD6aC3kzjv4zmnl) | 2:47 | 2022-09-02 |  |
+| [Resistência](https://open.spotify.com/track/6CtxpRx3PlkprhB6DkwbUy) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Resistência](https://open.spotify.com/album/2cyyp5ehD6aC3kzjv4zmnl) | 2:47 | 2022-09-02 | 2023-11-21 |
+| [Resistência](https://open.spotify.com/track/7L07hAo1u9CXm2XJCQ5rV2) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Resistência](https://open.spotify.com/album/4Tbr8ksATIX5M6jqIsdE8V) | 2:47 | 2023-11-03 |  |
 | [Respirar e Confiar](https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl) | [Dj Yuuki](https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb), [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83) | [Respirar e Confiar](https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP) | 3:36 | 2022-09-02 |  |
 | [Resposta](https://open.spotify.com/track/35KNTeAmlD23sUPxeIrmB0) | [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE), [Carlinhosdj](https://open.spotify.com/artist/4GxleeDpZsQx4pUB6EZQre), [Alice Santos](https://open.spotify.com/artist/4IxckByaG1ZIx3F4rHZ7up) | [Resposta](https://open.spotify.com/album/0KydLeQzuB2oGwxkQ4ZcvT) | 3:21 | 2023-08-04 | 2023-09-02 |
 | [Ruja o Leão \- MËDNA \- Remix](https://open.spotify.com/track/4K1qJEJk8YHjwGMzBg5JxD) | [MËDNA](https://open.spotify.com/artist/4hcSDzKhjTPU244SMBRPzd), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ruja o Leão \- MËDNA Remix](https://open.spotify.com/album/2y1JMWrYZJJjlC8ngZLtBq) | 2:48 | 2022-11-26 |  |

@@ -4610,7 +4610,7 @@
     {
       "album": {
         "name": "Yadav Brand 2",
-        "url": "https://open.spotify.com/album/3pRiXGIvpgNrMQmK6AgJ3c"
+        "url": "https://open.spotify.com/album/7ee5PlfgmGyU70CdxftTV2"
       },
       "artists": [
         {
@@ -4629,6 +4629,32 @@
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 174252,
+      "name": "Yadav Brand 2",
+      "url": "https://open.spotify.com/track/1AMD2AkfGrKoKhwkvYLbza"
+    },
+    {
+      "album": {
+        "name": "Yadav Brand 2",
+        "url": "https://open.spotify.com/album/3pRiXGIvpgNrMQmK6AgJ3c"
+      },
+      "artists": [
+        {
+          "name": "Sunny Yaduvanshi",
+          "url": "https://open.spotify.com/artist/07XZWWsqwn2QshmfoYzKIU"
+        },
+        {
+          "name": "AK Rok",
+          "url": "https://open.spotify.com/artist/3npIyKDl6aWfQPCIEU8RjY"
+        },
+        {
+          "name": "Nitesh Ujoli",
+          "url": "https://open.spotify.com/artist/2k4fHTIWakuc1WSIV0owMZ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-21",
       "duration_ms": 174252,
       "name": "Yadav Brand 2",
       "url": "https://open.spotify.com/track/4JvziZ2kQsbzfvRQtpYfmJ"

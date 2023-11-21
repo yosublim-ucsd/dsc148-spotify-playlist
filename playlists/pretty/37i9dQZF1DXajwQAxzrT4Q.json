@@ -1,6 +1,6 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Lay Bankz",
-  "num_followers": 70887,
+  "num_followers": 71046,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
@@ -227,8 +227,8 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Need",
-        "url": "https://open.spotify.com/album/5zcHTgSTVHfrF4JJOh1Gnh"
+        "name": "B2B",
+        "url": "https://open.spotify.com/album/51Esh2ddbUkN2u9P00PFR8"
       },
       "artists": [
         {
@@ -237,8 +237,8 @@
         }
       ],
       "duration_ms": 157894,
-      "name": "Need",
-      "url": "https://open.spotify.com/track/4s8fQKAfuHR9gMDzoA9ioQ"
+      "name": "Need (Bonus Track)",
+      "url": "https://open.spotify.com/track/01aojvlRe3mwlEwTnLVUbs"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -603,6 +603,26 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "miles",
+        "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 162196,
+      "name": "miles (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "BULLET",
         "url": "https://open.spotify.com/album/6S96N0bJT2KmDmn1zUZtpv"
       },
@@ -615,6 +635,22 @@
       "duration_ms": 98409,
       "name": "BULLET",
       "url": "https://open.spotify.com/track/4mw4UMR9Vu0iXGVamW2RQj"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/4TfgQWgjG0n0Y2UqXdJd63"
+      },
+      "artists": [
+        {
+          "name": "ZeDDKL Will",
+          "url": "https://open.spotify.com/artist/6YxlGOEagYCqn0YqJfZnJo"
+        }
+      ],
+      "duration_ms": 110106,
+      "name": "You",
+      "url": "https://open.spotify.com/track/657xnszioMzxAP3fucMzN2"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -639,26 +675,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "miles",
-        "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 162196,
-      "name": "miles (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Vibe (If I Back It Up)",
         "url": "https://open.spotify.com/album/6oJ0HiLrr0wWLz9IUJf4w0"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 83940,
       "name": "Vibe (If I Back It Up)",
       "url": "https://open.spotify.com/track/4gOgQTv9RYYFZ1uQNnlk3q"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/4TfgQWgjG0n0Y2UqXdJd63"
-      },
-      "artists": [
-        {
-          "name": "ZeDDKL Will",
-          "url": "https://open.spotify.com/artist/6YxlGOEagYCqn0YqJfZnJo"
-        }
-      ],
-      "duration_ms": 110106,
-      "name": "You",
-      "url": "https://open.spotify.com/track/657xnszioMzxAP3fucMzN2"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -723,6 +723,26 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "German Engineering 1",
+        "url": "https://open.spotify.com/album/27QzTWiwWFEFDY9nvJWsJ6"
+      },
+      "artists": [
+        {
+          "name": "KitschKrieg",
+          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
+        },
+        {
+          "name": "SFR",
+          "url": "https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr"
+        }
+      ],
+      "duration_ms": 158786,
+      "name": "Trenchezzz (with Nemzzz)",
+      "url": "https://open.spotify.com/track/3puypQeebjOFKb9FeKdgAA"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Buckle Up",
         "url": "https://open.spotify.com/album/0fpuoBi2lP0lAuSges8jNO"
       },
@@ -747,22 +767,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "German Engineering 1",
-        "url": "https://open.spotify.com/album/27QzTWiwWFEFDY9nvJWsJ6"
+        "name": "TON1GHT",
+        "url": "https://open.spotify.com/album/0vqloyHJ1ivHTBCQu0B1Fo"
       },
       "artists": [
         {
-          "name": "KitschKrieg",
-          "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
-        },
-        {
-          "name": "SFR",
-          "url": "https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr"
+          "name": "KilSoSouth",
+          "url": "https://open.spotify.com/artist/7zjVVZjY5P6hvIg0gOYc8N"
         }
       ],
-      "duration_ms": 158786,
-      "name": "Trenchezzz (with Nemzzz)",
-      "url": "https://open.spotify.com/track/3puypQeebjOFKb9FeKdgAA"
+      "duration_ms": 94641,
+      "name": "TON1GHT - Jersey Club",
+      "url": "https://open.spotify.com/track/0b1JCsboe1MKYslFePSK7m"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -779,22 +795,6 @@
       "duration_ms": 137727,
       "name": "#miles (OMG edit)",
       "url": "https://open.spotify.com/track/66SrkasmQzDg9riaKqjm0h"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "TON1GHT",
-        "url": "https://open.spotify.com/album/0vqloyHJ1ivHTBCQu0B1Fo"
-      },
-      "artists": [
-        {
-          "name": "KilSoSouth",
-          "url": "https://open.spotify.com/artist/7zjVVZjY5P6hvIg0gOYc8N"
-        }
-      ],
-      "duration_ms": 94641,
-      "name": "TON1GHT - Jersey Club",
-      "url": "https://open.spotify.com/track/0b1JCsboe1MKYslFePSK7m"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "eyes",
-        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 142639,
-      "name": "eyes",
-      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "CTRL",
         "url": "https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 168727,
       "name": "WOAH",
       "url": "https://open.spotify.com/track/5tF9WEhxbT2hDzD1TN5yPo"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "eyes",
+        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 142639,
+      "name": "eyes",
+      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -987,6 +987,38 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "UDNTLUVME",
+        "url": "https://open.spotify.com/album/6cqqln1dVUJrrrf5eAuiu0"
+      },
+      "artists": [
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "UDNTLUVME",
+      "url": "https://open.spotify.com/track/3P1kLFAO2MxcVBtLWH3oOV"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "duration_ms": 121532,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Leave",
         "url": "https://open.spotify.com/album/60eCdGcvlvww5rxodkwMhs"
       },
@@ -1003,22 +1035,6 @@
       "duration_ms": 174635,
       "name": "Leave",
       "url": "https://open.spotify.com/track/6Mqe9RrVtZkucU6LYbFwLo"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "UDNTLUVME",
-        "url": "https://open.spotify.com/album/6cqqln1dVUJrrrf5eAuiu0"
-      },
-      "artists": [
-        {
-          "name": "Dro Kenji",
-          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "UDNTLUVME",
-      "url": "https://open.spotify.com/track/3P1kLFAO2MxcVBtLWH3oOV"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1083,22 +1099,6 @@
       "duration_ms": 160975,
       "name": "Shake Dhat",
       "url": "https://open.spotify.com/track/5UESpuA78cd0mYIdu7CKq4"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
-      },
-      "artists": [
-        {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        }
-      ],
-      "duration_ms": 121532,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Orange Soda (Jersey Club Remix)",
-        "url": "https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O"
-      },
-      "artists": [
-        {
-          "name": "Sjayy",
-          "url": "https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc"
-        }
-      ],
-      "duration_ms": 111304,
-      "name": "Orange Soda - Jersey Club Remix",
-      "url": "https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "The 90s Lied To Us",
         "url": "https://open.spotify.com/album/0BmDsHZemgIKdH98eIOS95"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 103781,
       "name": "The 90s Lied To Us",
       "url": "https://open.spotify.com/track/04b2YLqewR7aMOwGnwXuUJ"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Orange Soda (Jersey Club Remix)",
+        "url": "https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O"
+      },
+      "artists": [
+        {
+          "name": "Sjayy",
+          "url": "https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc"
+        }
+      ],
+      "duration_ms": 111304,
+      "name": "Orange Soda - Jersey Club Remix",
+      "url": "https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1235,6 +1235,38 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Vibrate EP",
+        "url": "https://open.spotify.com/album/4Z7nLkNRHfL3RRAqECtTEe"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        }
+      ],
+      "duration_ms": 128955,
+      "name": "Put Cha Back In It",
+      "url": "https://open.spotify.com/track/5PYxnArK4wlkX5qYENV5Ac"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Dream (Jersey Club)",
+        "url": "https://open.spotify.com/album/4YTmm883UTU4wWOEc2FZie"
+      },
+      "artists": [
+        {
+          "name": "DJ T Marq",
+          "url": "https://open.spotify.com/artist/2UPw3yaK96nTf0IF0Yi0EO"
+        }
+      ],
+      "duration_ms": 123271,
+      "name": "Dream (Jersey Club)",
+      "url": "https://open.spotify.com/track/22XIrFI5WOVWPUv9kcz8zM"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "BE FORREAL",
         "url": "https://open.spotify.com/album/01l5PzKJarsRsihuxKfX1h"
       },
@@ -1259,44 +1291,8 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Day Ones",
-        "url": "https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "SAFE",
-          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
-        }
-      ],
-      "duration_ms": 162089,
-      "name": "Day Ones",
-      "url": "https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Dream (Jersey Club)",
-        "url": "https://open.spotify.com/album/4YTmm883UTU4wWOEc2FZie"
-      },
-      "artists": [
-        {
-          "name": "DJ T Marq",
-          "url": "https://open.spotify.com/artist/2UPw3yaK96nTf0IF0Yi0EO"
-        }
-      ],
-      "duration_ms": 123271,
-      "name": "Dream (Jersey Club)",
-      "url": "https://open.spotify.com/track/22XIrFI5WOVWPUv9kcz8zM"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Clout Chaser Pt. 4",
-        "url": "https://open.spotify.com/album/0Ax19bfL9zyCOWdMUbFnZJ"
+        "name": "Hatin' Ass Bitches Anthem",
+        "url": "https://open.spotify.com/album/75l0Wfo3Y4SCb7jkk8Rn10"
       },
       "artists": [
         {
@@ -1310,11 +1306,15 @@
         {
           "name": "Pyt Ny",
           "url": "https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy"
+        },
+        {
+          "name": "Dj Blizz",
+          "url": "https://open.spotify.com/artist/2zYaRrKIuHRb2zeseymcUu"
         }
       ],
-      "duration_ms": 150022,
-      "name": "Clout Chaser Pt. 4",
-      "url": "https://open.spotify.com/track/7KtQMIQ37J6Q9M9XYQPoNx"
+      "duration_ms": 116564,
+      "name": "Hatin' Ass Bitches Anthem",
+      "url": "https://open.spotify.com/track/31a8W1uih2MM9VDogfbbft"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1399,38 +1399,46 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "My Back (Jersey Club)",
-        "url": "https://open.spotify.com/album/2bA0cYTB40RbbPs7IIEYCy"
+        "name": "Clout Chaser Pt. 4",
+        "url": "https://open.spotify.com/album/0Ax19bfL9zyCOWdMUbFnZJ"
       },
       "artists": [
         {
-          "name": "Kyle Edwards",
-          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
+          "name": "Mvntana",
+          "url": "https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki"
         },
         {
-          "name": "DJ Bake",
-          "url": "https://open.spotify.com/artist/1pwvByMN5SdSJoj8gWXyZE"
+          "name": "Flyy TheProducer",
+          "url": "https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG"
+        },
+        {
+          "name": "Pyt Ny",
+          "url": "https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy"
         }
       ],
-      "duration_ms": 127503,
-      "name": "My Back (Jersey Club)",
-      "url": "https://open.spotify.com/track/6U3bIehegtlGdaIDDgZnlI"
+      "duration_ms": 150022,
+      "name": "Clout Chaser Pt. 4",
+      "url": "https://open.spotify.com/track/7KtQMIQ37J6Q9M9XYQPoNx"
     },
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Club Soda, Vol. 2",
-        "url": "https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz"
+        "name": "Day Ones",
+        "url": "https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq"
       },
       "artists": [
         {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "SAFE",
+          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
         }
       ],
-      "duration_ms": 145655,
-      "name": "Vacation",
-      "url": "https://open.spotify.com/track/2eAcey7KS6TmHulCNjxABW"
+      "duration_ms": 162089,
+      "name": "Day Ones",
+      "url": "https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp"
     }
   ],
   "unique_name": "Jersey Club Heat",

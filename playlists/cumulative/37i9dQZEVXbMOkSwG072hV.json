@@ -147,6 +147,28 @@
     },
     {
       "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "100 Mili",
+      "url": "https://open.spotify.com/track/2faP6QUfGN94HI1FTSrpsm"
+    },
+    {
+      "album": {
         "name": "100%",
         "url": "https://open.spotify.com/album/5V0mf7tqoTyTi3EIFBxEt7"
       },
@@ -680,7 +702,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 86709,
       "name": "9mm",
       "url": "https://open.spotify.com/track/3K5KXm1uZjiyQk0J7op1xf"
@@ -1352,7 +1374,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 190100,
       "name": "Agudo M\u00e1gico 4",
       "url": "https://open.spotify.com/track/4wjDiZGsZYQqKkXyPcQGF6"
@@ -5285,6 +5307,40 @@
     },
     {
       "album": {
+        "name": "Bolete \u00c9 o Carai",
+        "url": "https://open.spotify.com/album/3wbTaVLWsrBZeuPw03orDQ"
+      },
+      "artists": [
+        {
+          "name": "MC Fabinho da Osk",
+          "url": "https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF"
+        },
+        {
+          "name": "MC Rafa 22",
+          "url": "https://open.spotify.com/artist/5wz306kfhCBTtqb9wuILIt"
+        },
+        {
+          "name": "MC Theuzyn",
+          "url": "https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm"
+        },
+        {
+          "name": "Maax Deejay",
+          "url": "https://open.spotify.com/artist/2fzhICndlL7ikUtUqSmlFq"
+        },
+        {
+          "name": "DJFELIPEGUIMA",
+          "url": "https://open.spotify.com/artist/5Q9fHSXYgchYAYkcDc3gHU"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177293,
+      "name": "Bolete \u00c9 o Carai (feat. Maax Deejay & DJFELIPEGUIMA)",
+      "url": "https://open.spotify.com/track/3v9Xr4nYuIvp8cJ3jRCqzI"
+    },
+    {
+      "album": {
         "name": "Bolsonaro \u00c9 o Melhor",
         "url": "https://open.spotify.com/album/4lVh9qehVWf9u9nQzWPBSD"
       },
@@ -7232,7 +7288,7 @@
       ],
       "date_added": "2023-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 217346,
       "name": "Cerquita De Ti",
       "url": "https://open.spotify.com/track/70FJ7VpGX4Luv8GlMGSLRM"
@@ -9123,6 +9179,28 @@
     },
     {
       "album": {
+        "name": "DEFINITIVA",
+        "url": "https://open.spotify.com/album/4CN4xSKYPY8Cthkyej2uPI"
+      },
+      "artists": [
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        },
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192111,
+      "name": "DEFINITIVA",
+      "url": "https://open.spotify.com/track/2krRK5mPFejIewRSmkTKpb"
+    },
+    {
+      "album": {
         "name": "Deixa",
         "url": "https://open.spotify.com/album/2p9EJG0D9VUekQ1FJYNjqI"
       },
@@ -9376,7 +9454,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 162523,
       "name": "Del\u00edrios",
       "url": "https://open.spotify.com/track/546KHf7B5TeIifYB1gVZ9E"
@@ -11062,7 +11140,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 194583,
       "name": "e se for pra ser sincera:",
       "url": "https://open.spotify.com/track/1b0xzVRr8fIGa8dftdW3S8"
@@ -16011,6 +16089,32 @@
     },
     {
       "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Hentai",
+      "url": "https://open.spotify.com/track/4WASSSbTnOr8upRdiFy0Iz"
+    },
+    {
+      "album": {
         "name": "Here With Me",
         "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
       },
@@ -16842,6 +16946,24 @@
       "duration_ms": 73624,
       "name": "idyll",
       "url": "https://open.spotify.com/track/4DDUkQ9uqDpWBzJQuPErrI"
+    },
+    {
+      "album": {
+        "name": "idyll",
+        "url": "https://open.spotify.com/album/0tD93sRLtDnm47FQvHqmhQ"
+      },
+      "artists": [
+        {
+          "name": "Luke Willies",
+          "url": "https://open.spotify.com/artist/3uIws1bbX1b53e0xJpz94r"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73795,
+      "name": "idyll",
+      "url": "https://open.spotify.com/track/3hDGLi1TjRpnZ2NbpQv42R"
     },
     {
       "album": {
@@ -21369,6 +21491,28 @@
     },
     {
       "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117056,
+      "name": "Megaloman\u00edaca",
+      "url": "https://open.spotify.com/track/3clfhHrwPNWtN2KlHfzEIi"
+    },
+    {
+      "album": {
         "name": "MEGAO DOS ANOS 80",
         "url": "https://open.spotify.com/album/5wkCBqNaB5FPMkTb89I47Q"
       },
@@ -24406,12 +24550,12 @@
           "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
         },
         {
-          "name": "Mc Dudu Sk",
-          "url": "https://open.spotify.com/artist/1CKLOLezvcRuPRzOiGvxS1"
-        },
-        {
           "name": "DJ WV Oficial",
           "url": "https://open.spotify.com/artist/01tECeLpHN4yRu1gBqZ6WZ"
+        },
+        {
+          "name": "Mc Dudu Sk",
+          "url": "https://open.spotify.com/artist/1CKLOLezvcRuPRzOiGvxS1"
         }
       ],
       "date_added": "2023-11-17",
@@ -24778,7 +24922,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 146436,
       "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl"
@@ -33782,7 +33926,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
@@ -34238,7 +34382,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-21",
       "duration_ms": 558471,
       "name": "Tbt 2023 Voume 02",
       "url": "https://open.spotify.com/track/2bKVoz5aOjC5zl2skpmPUc"
@@ -34766,6 +34910,28 @@
       "duration_ms": 233986,
       "name": "Tenta acreditar",
       "url": "https://open.spotify.com/track/20hgA0b2k5RUCgORJmu92T"
+    },
+    {
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118541,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/1HVXbcklvh8FTdEtMrOmHt"
     },
     {
       "album": {
@@ -35538,6 +35704,32 @@
       "duration_ms": 269333,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
+    },
+    {
+      "album": {
+        "name": "TOMA ESFREGA",
+        "url": "https://open.spotify.com/album/5qCJuZbnJXY0x82tuHkLTY"
+      },
+      "artists": [
+        {
+          "name": "Launch13",
+          "url": "https://open.spotify.com/artist/3TgsOVvQlRt3sBrIhQ7U9k"
+        },
+        {
+          "name": "Rodricci",
+          "url": "https://open.spotify.com/artist/0ngIeXf9eyYCjC1Nen0ux8"
+        },
+        {
+          "name": "nxtjvr",
+          "url": "https://open.spotify.com/artist/62Ub8v044KkVnGx090irXv"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83927,
+      "name": "TOMA ESFREGA",
+      "url": "https://open.spotify.com/track/7AyHyLFWS6ikrooAvYxLMO"
     },
     {
       "album": {

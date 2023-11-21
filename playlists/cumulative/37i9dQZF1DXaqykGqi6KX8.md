@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [12](https://open.spotify.com/track/67Ds7V9onIBlErmkSWFtt6) | [Benevolent](https://open.spotify.com/artist/5wuGLHfb2t7AIIg5AgEMDZ) | [The Wave](https://open.spotify.com/album/3lTr2YYIhsGuvbZI4ZDwGY) | 5:20 | 2021-10-14 | 2022-07-25 |
+| [12](https://open.spotify.com/track/67Ds7V9onIBlErmkSWFtt6) | [Benevolent](https://open.spotify.com/artist/5wuGLHfb2t7AIIg5AgEMDZ) | [The Wave](https://open.spotify.com/album/3lTr2YYIhsGuvbZI4ZDwGY) | 5:20 | 2021-10-14 |  |
 | [Adnan W Lena](https://open.spotify.com/track/0hXlkVEHz1bUyr6atAjRnB) | [Tanjaret Daghet](https://open.spotify.com/artist/1I8UKAHejNxA0icktSmnTT) | [Adnan W Lena](https://open.spotify.com/album/2ZjrqIQrdGa5caXqBnH87z) | 4:56 | 2021-10-14 |  |
 | [Ahlan Wa Sahlan](https://open.spotify.com/track/2jyCql7bHLtn3K7Z6E04b5) | [Al\-Qasar](https://open.spotify.com/artist/5YNogRtX8STIHo3YmOTR7r) | [Ahlan Wa Sahlan](https://open.spotify.com/album/1bCDFZGI02ikwSwDT4RDgK) | 3:04 | 2021-10-14 | 2023-11-12 |
 | [Ala Remshe](https://open.spotify.com/track/3PC9Eih4l2RUMXoIUWzbmM) | [Khalas](https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX) | [Arabic Rock Orchestra](https://open.spotify.com/album/2K3NavDtqMRQW1bEPQ9tAu) | 3:49 | 2021-10-14 | 2022-07-28 |
@@ -32,7 +32,7 @@
 | [Freedom Denied](https://open.spotify.com/track/6Qd5yE8cmlcaaBz7Nxy2EL) | [Blaakyum](https://open.spotify.com/artist/2pddgL1ZW41XCeEQNVvomB) | [Line of Fear](https://open.spotify.com/album/4iyZLxCNIGZEZAJBuOopi5) | 4:15 | 2021-10-14 |  |
 | [Gnawi](https://open.spotify.com/track/5dmikvdu7jfOtfUk9hu2el) | [Al\-Qasar](https://open.spotify.com/artist/5YNogRtX8STIHo3YmOTR7r) | [Gnawi](https://open.spotify.com/album/41p0qWCRG9MT7Rtirx1y2B) | 5:57 | 2021-10-14 | 2023-03-30 |
 | [Hayati](https://open.spotify.com/track/2IbOp5y95v0VXR32RV98q1) | [Arkan](https://open.spotify.com/artist/2cr1yLhEpDBjgc7o4dn2vH) | [Sofia](https://open.spotify.com/album/6EuwcKP68HmrN6rUqjpHuN) | 4:53 | 2021-10-14 |  |
-| [I Am the Beast](https://open.spotify.com/track/3esEno7VbHhFQly6SYeBV8) | [Ambrotype](https://open.spotify.com/artist/2kgkOFR0aUzwtamaD010iD) | [The Revelations](https://open.spotify.com/album/1tKEYkjR1fmLJeUHYouPhG) | 11:06 | 2021-10-14 |  |
+| [I Am the Beast](https://open.spotify.com/track/3esEno7VbHhFQly6SYeBV8) | [Ambrotype](https://open.spotify.com/artist/2kgkOFR0aUzwtamaD010iD) | [The Revelations](https://open.spotify.com/album/1tKEYkjR1fmLJeUHYouPhG) | 11:06 | 2021-10-14 | 2023-11-21 |
 | [Inferno](https://open.spotify.com/track/4ff0WAyXQHgij8hgk1HOGU) | [Coat Of Arms](https://open.spotify.com/artist/63U8atFXZ3sax4eeV212tq) | [Inferno](https://open.spotify.com/album/2zj4b2QYe8CljpJiAWzvpp) | 3:16 | 2021-10-14 |  |
 | [Insomnia Kid](https://open.spotify.com/track/1fnCKZ8ikOhckUwvBMGLLW) | [The Kordz](https://open.spotify.com/artist/4WPWekPBzsyjbhozJbmaGK) | [Beauty & The East](https://open.spotify.com/album/4qMzRLbzpN3idUrdXJakhx) | 4:32 | 2021-10-14 | 2022-07-27 |
 | [Inta Omri \(You Are My Life\)](https://open.spotify.com/track/3ooVc9kPY6DNpCxM2srJtb) | [Khalas](https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX) | [Ma Adesh Feeha \(We've Had It\)](https://open.spotify.com/album/6eltMmaoFofuMEFYMp4TJW) | 3:59 | 2021-10-14 |  |

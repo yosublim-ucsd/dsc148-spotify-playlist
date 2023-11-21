@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:6l4tbTRTSxsnEubYgnd2u9">fluente</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,667 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,669 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Splenderò](https://open.spotify.com/track/3deYxvbyqmeJkV7NV2LgBE) | [Guayota](https://open.spotify.com/artist/71BVmpmb7W3zGyDIv2ScZZ) | [Splenderò](https://open.spotify.com/album/1Dj64PdyyTZRouXVhdDtZA) | 3:21 |
 | 50 | [CAMICIA](https://open.spotify.com/track/1w0VFCBAwFRHlrtIJ28kQY) | [Mazinga Paddon](https://open.spotify.com/artist/41hE2XbxlMwh2jpfUhHjLG) | [CAMICIA](https://open.spotify.com/album/6zfwL3VPDjpjFigvkdohBt) | 3:35 |
 
-Snapshot ID: `MCwxOWJmOGY5NWU3MDA1Y2I1OGZiYTRjNzBkMDJkMmQ5ZDNmMGFkOTVl`
+Snapshot ID: `MCw5MzFjNGVjNWVlMGFmNWYxOWI2NTFiYTEzYTE0ZGNiNTNkZmY2YTAz`

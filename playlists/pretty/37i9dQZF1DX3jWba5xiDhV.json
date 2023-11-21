@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 174428,
+  "num_followers": 174533,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjA5ZDQ5NTQzNmJjNmQ1MDBiYWFkYzYwOWE0MGQ3NDM1OGUxOTZk",
+  "snapshot_id": "MCw4OGRjMDJlMzEzNDNlMGZhNzNjMzI2ZGIzMTMzMjI2MjQ4ZGE0YTcx",
   "tracks": [
     {
       "added_at": "2023-11-17 18:14:10",
@@ -223,18 +223,22 @@
     {
       "added_at": "2023-11-17 18:14:10",
       "album": {
-        "name": "The Singles 83/87",
-        "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
+        "name": "Marechi\u00e0",
+        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
       },
       "artists": [
         {
-          "name": "Righeira",
-          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        },
+        {
+          "name": "C\u00e9lia Kameni",
+          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
         }
       ],
-      "duration_ms": 217327,
-      "name": "Vamos a la Playa",
-      "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
+      "duration_ms": 264929,
+      "name": "Marechi\u00e0",
+      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
     },
     {
       "added_at": "2023-11-17 18:14:10",
@@ -263,22 +267,18 @@
     {
       "added_at": "2023-11-17 18:14:10",
       "album": {
-        "name": "Marechi\u00e0",
-        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
+        "name": "The Singles 83/87",
+        "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
       },
       "artists": [
         {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        },
-        {
-          "name": "C\u00e9lia Kameni",
-          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
+          "name": "Righeira",
+          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
         }
       ],
-      "duration_ms": 264929,
-      "name": "Marechi\u00e0",
-      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
+      "duration_ms": 217327,
+      "name": "Vamos a la Playa",
+      "url": "https://open.spotify.com/track/3oQhgsBwOGaxr5dWKAim7Y"
     },
     {
       "added_at": "2023-11-17 18:14:10",
@@ -355,34 +355,18 @@
     {
       "added_at": "2023-11-17 18:14:10",
       "album": {
-        "name": "Hypnotic Tango",
-        "url": "https://open.spotify.com/album/7DpHPysI2JkdhVNKFfgU2C"
+        "name": "Brivido divino (Gli Indimenticabili)",
+        "url": "https://open.spotify.com/album/3bjLuBoH2Imh21OsGWM94s"
       },
       "artists": [
         {
-          "name": "My Mine",
-          "url": "https://open.spotify.com/artist/6RJSLoaPbwMo58MnK83v8o"
+          "name": "Donatella Rettore",
+          "url": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
         }
       ],
-      "duration_ms": 369084,
-      "name": "Hypnotic Tango - Original 12\" Version",
-      "url": "https://open.spotify.com/track/3L1bBpBTa1SmGivOhR6DID"
-    },
-    {
-      "added_at": "2023-11-17 18:14:10",
-      "album": {
-        "name": "3 - Supernature",
-        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
-      },
-      "artists": [
-        {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        }
-      ],
-      "duration_ms": 462000,
-      "name": "Give Me Love - 1977",
-      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
+      "duration_ms": 207400,
+      "name": "Splendido splendente",
+      "url": "https://open.spotify.com/track/4djSKkGTA9ZtI22q96L1Tn"
     },
     {
       "added_at": "2023-11-17 18:14:10",
@@ -399,6 +383,22 @@
       "duration_ms": 263508,
       "name": "Disco Sole",
       "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
+    },
+    {
+      "added_at": "2023-11-17 18:14:10",
+      "album": {
+        "name": "Hypnotic Tango",
+        "url": "https://open.spotify.com/album/7DpHPysI2JkdhVNKFfgU2C"
+      },
+      "artists": [
+        {
+          "name": "My Mine",
+          "url": "https://open.spotify.com/artist/6RJSLoaPbwMo58MnK83v8o"
+        }
+      ],
+      "duration_ms": 369084,
+      "name": "Hypnotic Tango - Original 12\" Version",
+      "url": "https://open.spotify.com/track/3L1bBpBTa1SmGivOhR6DID"
     },
     {
       "added_at": "2023-11-17 18:14:10",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-11-17 18:14:10",
       "album": {
-        "name": "Brivido divino (Gli Indimenticabili)",
-        "url": "https://open.spotify.com/album/3bjLuBoH2Imh21OsGWM94s"
+        "name": "3 - Supernature",
+        "url": "https://open.spotify.com/album/32apoWgzplX4qKdC9PgjYR"
       },
       "artists": [
         {
-          "name": "Donatella Rettore",
-          "url": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
         }
       ],
-      "duration_ms": 207400,
-      "name": "Splendido splendente",
-      "url": "https://open.spotify.com/track/4djSKkGTA9ZtI22q96L1Tn"
+      "duration_ms": 462000,
+      "name": "Give Me Love - 1977",
+      "url": "https://open.spotify.com/track/2ffCT6Pe2LYriwN2Y5ObIg"
     },
     {
       "added_at": "2023-11-17 18:14:10",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-11-17 18:14:10",
       "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
+      },
+      "artists": [
+        {
+          "name": "La Bionda",
+          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "I Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
+    },
+    {
+      "added_at": "2023-11-17 18:14:10",
+      "album": {
         "name": "I Need You Tonight / Tonight",
         "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 261330,
       "name": "Pantal\u00f3n",
       "url": "https://open.spotify.com/track/0eOUXa1w5m7roVWO0nj1ZF"
-    },
-    {
-      "added_at": "2023-11-17 18:14:10",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
-      },
-      "artists": [
-        {
-          "name": "La Bionda",
-          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "I Wanna Be Your Lover",
-      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
     },
     {
       "added_at": "2023-11-17 18:14:10",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-11-17 18:14:10",
       "album": {
-        "name": "For You (LP)",
-        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
-      },
-      "artists": [
-        {
-          "name": "Ago",
-          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
-        }
-      ],
-      "duration_ms": 353000,
-      "name": "For You - Original Album",
-      "url": "https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C"
-    },
-    {
-      "added_at": "2023-11-17 18:14:10",
-      "album": {
         "name": "Gary Low: The Best of",
         "url": "https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 509240,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/34yg2BvpUtDP6VPmZYCP9x"
+    },
+    {
+      "added_at": "2023-11-17 18:14:10",
+      "album": {
+        "name": "For You (LP)",
+        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
+      },
+      "artists": [
+        {
+          "name": "Ago",
+          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
+        }
+      ],
+      "duration_ms": 353000,
+      "name": "For You - Original Album",
+      "url": "https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C"
     },
     {
       "added_at": "2023-11-17 18:14:10",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-11-17 18:14:10",
       "album": {
-        "name": "Discamore",
-        "url": "https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU"
-      },
-      "artists": [
-        {
-          "name": "Dov'\u00e8 Liana",
-          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Discamore",
-      "url": "https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB"
-    },
-    {
-      "added_at": "2023-11-17 18:14:10",
-      "album": {
         "name": "Disco Fizz",
         "url": "https://open.spotify.com/album/5ZF3fxPCV4jl77lv2F41Nz"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 185748,
       "name": "San Salvador - Single Version",
       "url": "https://open.spotify.com/track/149eMDp4tMxx22Z6k4dCuZ"
+    },
+    {
+      "added_at": "2023-11-17 18:14:10",
+      "album": {
+        "name": "Discamore",
+        "url": "https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU"
+      },
+      "artists": [
+        {
+          "name": "Dov'\u00e8 Liana",
+          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Discamore",
+      "url": "https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB"
     },
     {
       "added_at": "2023-11-17 18:14:10",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-11-17 18:14:10",
       "album": {
+        "name": "Let me love tonight (12 Inc)",
+        "url": "https://open.spotify.com/album/4VJs7sQLWpnHDAXnni4LCU"
+      },
+      "artists": [
+        {
+          "name": "Electric Mind",
+          "url": "https://open.spotify.com/artist/2CRKZgVOneZ1ytAxCsVFja"
+        }
+      ],
+      "duration_ms": 229999,
+      "name": "Let Me Love Tonight - Radio Version",
+      "url": "https://open.spotify.com/track/6zEAlbxY12vp24gMkiwM1d"
+    },
+    {
+      "added_at": "2023-11-17 18:14:10",
+      "album": {
         "name": "Under the Ice - Single",
         "url": "https://open.spotify.com/album/3vMFalOaP1bCRm8HVFQOAk"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 432404,
       "name": "Under the Ice - Original 12 Inch Version",
       "url": "https://open.spotify.com/track/2ue8ttSzbhnvhO7zc52NjC"
-    },
-    {
-      "added_at": "2023-11-17 18:14:10",
-      "album": {
-        "name": "Pictures Old Days (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0jkXKoPmkFNE1mmRfvVpMt"
-      },
-      "artists": [
-        {
-          "name": "Scotch",
-          "url": "https://open.spotify.com/artist/7ECGnAVeg7U3WRPMjpJa9n"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/0M2A5PBGMk0x0M2lrCZGsO"
     }
   ],
   "unique_name": "Italo Disco",

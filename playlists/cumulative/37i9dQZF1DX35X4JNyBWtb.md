@@ -4,7 +4,7 @@
 
 > Need to get your energy level up?
 
-433 songs - 22 hr 29 min
+434 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Silence \- Tiësto's Big Room Remix](https://open.spotify.com/track/3AUW7mAGx1BICBWqsuFgh4) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Silence \(Tiësto's Big Room Remix\)](https://open.spotify.com/album/6VfxEu1SHtWOF5H9vGUMw5) | 3:22 | 2021-12-16 | 2022-11-13 |
 | [Skanka](https://open.spotify.com/track/66rhlrH7I39spFkFUK5wNt) | [wavzur](https://open.spotify.com/artist/4AsPjJnm3wbk8i6hP4jKlH), [Tan House](https://open.spotify.com/artist/5dAkRiao3BzRhHoVpSwEKc) | [Skanka](https://open.spotify.com/album/0idQZZD8gWnZ1MvZ8xZqKY) | 3:46 | 2022-03-29 | 2022-07-29 |
 | [Skippin](https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F) | [MAXAM](https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Skippin](https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB) | 2:37 | 2022-01-13 | 2023-04-26 |
+| [Smash My Heart](https://open.spotify.com/track/4f9iU6U8XBqlzZyoEHirXS) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Pink](https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL) | 2:50 | 2023-10-23 |  |
 | [Smash My Heart](https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Smash My Heart](https://open.spotify.com/album/6OGooptBXrnOCxCvdgKz7O) | 2:50 | 2023-07-14 | 2023-11-11 |
 | [Solo](https://open.spotify.com/track/3Eemi4XR3hqNP4JnIV35Ca) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [OMG It's LIT Vol\. 3](https://open.spotify.com/album/4oHNWLyk2xouCbwDJswhYl) | 2:31 | 2021-12-16 | 2022-07-29 |
 | [Solo \(feat\. Demi Lovato\) \- Wideboys Remix](https://open.spotify.com/track/7BponDjgX1siFT4iU3Nc0S) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Wideboys](https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi) | [Solo \(feat\. Demi Lovato\) \[Remixes\]](https://open.spotify.com/album/7iBFgc0rtffKtDiUkabouc) | 3:08 | 2021-12-16 | 2022-07-29 |
@@ -434,7 +435,7 @@
 | [Won’t Let You Go](https://open.spotify.com/track/5UZA39t4lX42ApegVubl7f) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Won’t Let You Go](https://open.spotify.com/album/4QxfiUo90NEmUnyNHE1x8h) | 3:37 | 2021-12-16 | 2023-03-07 |
 | [Work With My Love](https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Work With My Love](https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ) | 2:30 | 2023-03-06 |  |
 | [Would I Lie to You \- Radio Edit](https://open.spotify.com/track/4PdJSsESm34djLfBde9Pr2) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Chris Willis](https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly) | [Would I Lie to You](https://open.spotify.com/album/1o9FV0S0KY1kqmYsacy4j8) | 3:17 | 2022-03-15 |  |
-| [Would You Ever](https://open.spotify.com/track/57p8CBvPOxrvyCbn6ttl5r) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Would You Ever](https://open.spotify.com/album/2czvZrAe1DWj6uc4iOqtJX) | 3:54 | 2022-03-15 |  |
+| [Would You Ever](https://open.spotify.com/track/57p8CBvPOxrvyCbn6ttl5r) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Would You Ever](https://open.spotify.com/album/2czvZrAe1DWj6uc4iOqtJX) | 3:54 | 2022-03-15 | 2023-11-21 |
 | [You Little Beauty](https://open.spotify.com/track/1gRQxbfL4ULWyTosgXSbWT) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [You Little Beauty](https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b) | 3:26 | 2022-03-15 |  |
 | [You Make Me Feel](https://open.spotify.com/track/4z2ZZU3skkejktx83PbKiR) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Comanavago](https://open.spotify.com/artist/2UC2VMVP6wuURHTgns8OoP) | [You Make Me Feel](https://open.spotify.com/album/5BwmV3PN9DS5Yvx8En57as) | 3:23 | 2022-06-17 | 2023-05-13 |
 | [You've Got To Let Go If You Want To Be Free](https://open.spotify.com/track/5kVXjAxYDkN57tZQi0JKya) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [You've Got To Let Go If You Want To Be Free](https://open.spotify.com/album/7nJFzH65HZDY5qeRwdo421) | 4:13 | 2022-01-28 | 2023-03-07 |

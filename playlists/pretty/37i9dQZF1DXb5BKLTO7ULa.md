@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Snelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,223 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,215 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 28 | [Nowhere](https://open.spotify.com/track/01V9616p11FWNcMYTQTg3j) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Nowhere](https://open.spotify.com/album/0gk7hvi9elX9iuiNuxmcNu) | 2:57 |
 | 29 | [Never Leave](https://open.spotify.com/track/2dWHdxoxRZeiPmH7H4Edbq) | [Kenny B](https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP) | [Never Leave](https://open.spotify.com/album/2nzkScRXaiSXxR6LngB6nH) | 3:39 |
 | 30 | [What U Doing For Christmas](https://open.spotify.com/track/282kkcTUC7GfK5iGEAy7VM) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb), [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [What U Doing For Christmas](https://open.spotify.com/album/08wjqcGxykTw8h8XaPG4Jl) | 3:45 |
-| 31 | [Blood Moon](https://open.spotify.com/track/5daxO5cHO6SzW2lJyZxy0o) | [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Blood Moon](https://open.spotify.com/album/74CWNx6lQ1QAwEt5vpw7p7) | 4:11 |
+| 31 | [Blood Moon](https://open.spotify.com/track/5daxO5cHO6SzW2lJyZxy0o) | [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Blood Moon](https://open.spotify.com/album/74CWNx6lQ1QAwEt5vpw7p7) | 2:59 |
 | 32 | [Some Things I'll Never Know \(feat\. Maren Morris\)](https://open.spotify.com/track/3oSGigVd5RezNkTV9PRGmL) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Some Things I'll Never Know \(feat\. Maren Morris\)](https://open.spotify.com/album/1iUKdH9SrtKcSaCbIVcrNj) | 4:02 |
 | 33 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
 | 34 | [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 39 | [Fierce](https://open.spotify.com/track/6mKsCz4g17ghwIfk2UhaKT) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Fierce](https://open.spotify.com/album/6tKTVT89iafMp3Btwod0pY) | 2:22 |
 | 40 | [Chill Kill](https://open.spotify.com/track/68gQG2HpRMxIRom4pCugMq) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Chill Kill \- The 3rd Album](https://open.spotify.com/album/4UUICitfodUVCNhzmDFbrO) | 3:34 |
 | 41 | [I swear, I Really Wanted To Make A "Rap" Album But This Is Literally The Way The Wind Blew Me This Time](https://open.spotify.com/track/1lbjDy6IIerHFGZWKG0hno) | [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [New Blue Sun](https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD) | 12:20 |
-| 42 | [Carte Blanche](https://open.spotify.com/track/6gYpnGlag7CVkVT2Ri5bf9) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Carte Blanche](https://open.spotify.com/album/0LAjgUMlMcbTQ5dz9wx6EW) | 3:34 |
+| 42 | [Carte Blanche](https://open.spotify.com/track/6gYpnGlag7CVkVT2Ri5bf9) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Carte Blanche](https://open.spotify.com/album/0LAjgUMlMcbTQ5dz9wx6EW) | 3:18 |
 | 43 | [Onbereikbaar \(feat\. Isabèl Usher\)](https://open.spotify.com/track/2zoi5EAFAj8zSI6T6TLyah) | [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E), [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Onbereikbaar \(feat\. Isabèl Usher\)](https://open.spotify.com/album/7ipUSK9Naap69474iZA1Dn) | 2:46 |
 | 44 | [Baby Blue](https://open.spotify.com/track/5ZDdx332AQj2n6TOW0LlZU) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Baby Blue](https://open.spotify.com/album/4SZISLudRb6XD44SO2NBtZ) | 2:04 |
 | 45 | [Watch Me](https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Watch Me](https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85) | 3:40 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 61 | [Crazy Again](https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Crazy Again](https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK) | 3:17 |
 | 62 | [In The Mood](https://open.spotify.com/track/2xRt9feDLEwgUzMLuAl2TQ) | [Zulema](https://open.spotify.com/artist/4zZNKi7LpDeLANCiozqMv4) | [In The Mood](https://open.spotify.com/album/5BUXO2iaKGyEFzTO0wpIwz) | 2:13 |
 | 63 | [Cupido](https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Cupido](https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt) | 2:23 |
-| 64 | [Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/1R0KvMBXz6qzjAEIS57Sz8) | 3:24 |
+| 64 | [Cover Up My Face](https://open.spotify.com/track/0t4N3qUMwdnDZNumcVxPRu) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/4vj7dl0foafvI0OOVmB4s2) | 3:24 |
 | 65 | [Got U](https://open.spotify.com/track/18g9lSLK91RsalzUHtoZEZ) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u) | [Hear Me Out](https://open.spotify.com/album/60ncIvMWL2eMKkvAiF3PTH) | 2:49 |
 | 66 | [Love Me One More Night \(It's Christmas\)](https://open.spotify.com/track/7ta5pmS8PP2nyl0MeRcEmy) | [Marike Jager](https://open.spotify.com/artist/1DvjWYF9T7H6CuQ7udKLYF) | [Love Me One More Night \(It's Christmas\)](https://open.spotify.com/album/3b0r9hQVSp4bmiWvRLC4As) | 3:14 |
 | 67 | [SWEATER](https://open.spotify.com/track/4WwLc80mQidtFCsa8Ji1zL) | [Jandro](https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI), [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Als Het Niet Nu Is, Wanneer Dan Wel?](https://open.spotify.com/album/2KByDnQOq4zEJNSRlOSCEH) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Ruin me](https://open.spotify.com/track/6Wk0Zttmn4k4Z5An5DMdmJ) | [Ann King](https://open.spotify.com/artist/5UmI3pf3FYbVS6VLdQvrQa) | [Ruin me](https://open.spotify.com/album/7d7xFjMiMWiGJ2TRTXrjc0) | 3:24 |
 | 100 | [Dirt On My Diamonds](https://open.spotify.com/track/5EtjaLlwWCGojDkPc3aFfO) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Dirt On My Diamonds, Vol\. 1](https://open.spotify.com/album/6mAmIXjkf15GnL9LFpW8yL) | 3:23 |
 
-Snapshot ID: `MCxmODliNDBjYTJiMGM0YmQ0YjI5OGFiZDdlMzNkYWYyZjUxZTZjM2Iw`
+Snapshot ID: `MCw1N2I2NTVkMTE3MTYwMmZmZmVlNDk2NmQ5ZGY3Y2QwNTg1MmZkYjQx`

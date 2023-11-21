@@ -44963,6 +44963,24 @@
     },
     {
       "album": {
+        "name": "shadow",
+        "url": "https://open.spotify.com/album/6ruyv2HK7fI9u7wp1oyLTr"
+      },
+      "artists": [
+        {
+          "name": "Maria Taktouk",
+          "url": "https://open.spotify.com/artist/2TvHdalJoyN4WKZ0q1CbSE"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187731,
+      "name": "shadow",
+      "url": "https://open.spotify.com/track/23TMrEb1tlIS6d69CqWgoj"
+    },
+    {
+      "album": {
         "name": "Shaggy Dynamite",
         "url": "https://open.spotify.com/album/04t1CRjivMRFCu7h1cNyvk"
       },
