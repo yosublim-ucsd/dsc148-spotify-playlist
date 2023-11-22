@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Drake, Tate McRae, 2 Chainz & Lil Wayne, Ari Lennox, Lil Durk, Wyatt Flores and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,177,752 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,178,255 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Arrivals](https://open.spotify.com/track/3s7j6rr4X9PcSRl6i0qtUb) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 3:05 |
 | 100 | [Control](https://open.spotify.com/track/4gUqTNPNH60VcUdm5YQG0R) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys), [Dylvinci](https://open.spotify.com/artist/28dzsbHhnbwJIB6cVmfvAS) | [B2B](https://open.spotify.com/album/51Esh2ddbUkN2u9P00PFR8) | 1:58 |
 
-Snapshot ID: `MCw4MGVlMGM0NWM3YWNjMDUzNjVjZDQ1ZTkxY2NmNWE4YmU1NGViMDQ3`
+Snapshot ID: `MCw2NGJiYWExYzJjZDhiNWNmNmNjN2Y0MmE3YjNiNDI3MWM5ZmI0OGEx`

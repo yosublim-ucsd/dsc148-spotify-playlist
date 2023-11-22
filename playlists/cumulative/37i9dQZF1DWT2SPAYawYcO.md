@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Tate McRae
 
-2,137 songs - 4 day 19 hr 21 min
+2,138 songs - 4 day 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -986,7 +986,8 @@
 | [In Good Time](https://open.spotify.com/track/1L0mzC9gGFjYhnW5fuWaCX) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [In Good Time](https://open.spotify.com/album/6FRmvzpIcJ03AgAf4BV665) | 3:46 | 2023-07-20 | 2023-07-28 |
 | [In Motion](https://open.spotify.com/track/7viGcvnnrNN9wPcQpJk3iU) | [Squid Nebula](https://open.spotify.com/artist/0eRthpXsgbr7BEnelTSJvW) | [From Here to You](https://open.spotify.com/album/5QRqISzkMtL5noCQxJ5EKp) | 5:58 | 2023-10-19 | 2023-10-27 |
 | [In My Bag](https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:49 | 2023-07-13 | 2023-07-21 |
-| [In Our Nature](https://open.spotify.com/track/3y3qDR1tWTuiaoMb4Q02ic) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Sg\. Nik Presents: Rinse On Toast](https://open.spotify.com/album/5ni3K90cPqPPCbWapSUhkT) | 2:20 | 2023-11-16 |  |
+| [In Our Nature](https://open.spotify.com/track/3y3qDR1tWTuiaoMb4Q02ic) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Sg\. Nik Presents: Rinse On Toast](https://open.spotify.com/album/5ni3K90cPqPPCbWapSUhkT) | 2:20 | 2023-11-16 | 2023-11-22 |
+| [In Our Nature](https://open.spotify.com/track/3yQ6foVcC6Frbs7Deum0Dd) | [Sg\. Nik](https://open.spotify.com/artist/1kEtbhjtG8HAlLbGST9McW) | [Sg\. Nik Presents: Rinse On Toast](https://open.spotify.com/album/15v75tITBAMoR0Ajl7f9RU) | 2:20 | 2023-11-16 |  |
 | [In The City](https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The City](https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT) | 2:56 | 2023-10-19 | 2023-10-27 |
 | [In The Rain](https://open.spotify.com/track/0fR8y0bMqFn0mDdZoksk7N) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [In The Rain](https://open.spotify.com/album/1dKSdR7wJvaNwbB1cE0Mha) | 3:59 | 2023-09-14 | 2023-09-22 |
 | [in these bones](https://open.spotify.com/track/3VBQPeOhuoURFqP4GuzE1r) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [nowhere fast](https://open.spotify.com/album/6aISYSR3BEleXOUVOghsl1) | 3:46 | 2023-11-16 |  |

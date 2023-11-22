@@ -1,0 +1,51 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JHAMXPtau2.md) - [plain](/playlists/plain/37i9dQZF1DX1JHAMXPtau2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1JHAMXPtau2)
+
+### [Instrumental Christmas Jazz](https://open.spotify.com/playlist/37i9dQZF1DX1JHAMXPtau2)
+
+> Soft and cozy piano versions of all your favourite Christmas songs.
+
+[Spotify](https://open.spotify.com/user/spotify) - 510 likes - 39 songs - 1 hr 48 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [The First Noel](https://open.spotify.com/track/1qPkYfDLOTqA6bVAGtwcBR) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM) | [The First Noel](https://open.spotify.com/album/5vH0m4Rmvn4kx15Z5GdL14) | 2:54 |
+| 2 | [Oh Christmas Tree](https://open.spotify.com/track/2pYXmds8IjEUvg1hFVYygg) | [Holly Humphries](https://open.spotify.com/artist/1LEm1FrOUeY0mc4QSANWCv) | [Blue Christmas](https://open.spotify.com/album/2OTob7u7QIBN14LmOckwvc) | 2:53 |
+| 3 | [The Ultimate Gift](https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Christmas Mood](https://open.spotify.com/album/1prCYFqQV04mzRptYLm1pm) | 3:26 |
+| 4 | [Joy To The World](https://open.spotify.com/track/1HPF2x2SgdWwrGVgPh16ki) | [The Christmas Brothers](https://open.spotify.com/artist/4hq9JfKZqh3qDuAvRZK81e) | [Joy to the World](https://open.spotify.com/album/1kezJtycElHPKwIsI6x1ur) | 1:44 |
+| 5 | [Oh Holy Night](https://open.spotify.com/track/1sCwaLpoN8VitJIYHgWZei) | [Lucy Christiansen](https://open.spotify.com/artist/7MEdErlyxiA996mSCEy9l0) | [Home For Christmas](https://open.spotify.com/album/2TH7H24oY5NaW44MILtcPK) | 3:30 |
+| 6 | [The Holly and the Ivy](https://open.spotify.com/track/0F8ZbcUtitZnH2b9E2azZa) | [Daisy Luckett](https://open.spotify.com/artist/2tVudUZYXpEdgAK3TDPYoH) | [The Holly and the Ivy](https://open.spotify.com/album/0RFl5bt4ejJMnGGZR21BWe) | 3:37 |
+| 7 | [O Come All Ye Faithful \(Bornlöf Piano Version\)](https://open.spotify.com/track/2xHCs5TFxAmOCo3lR6r7D3) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Christmas Cheer](https://open.spotify.com/album/4YT1l7sAjsWq86iZLyEef0) | 2:41 |
+| 8 | [I Still Believe in Santa Clause](https://open.spotify.com/track/23SGz7Wz2c5A9830LLUCdH) | [Manfred Flynn](https://open.spotify.com/artist/1zGhQhooGB9J162ncgrR68) | [Merry Jazzmas!](https://open.spotify.com/album/3VycMqU4q8PbpBMVUiGV4i) | 2:50 |
+| 9 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/6boYat9zHcJseJJKBCKRS6) | [Charles Snyder](https://open.spotify.com/artist/29L67ywhlU9XACCtmJQMSr) | [Christmas Songs](https://open.spotify.com/album/5HbLO8vIITOIGpNGc5q8My) | 3:42 |
+| 10 | [The Christmas Song](https://open.spotify.com/track/0QxOpxLx8FEVOYDtnLbS3U) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [The Christmas Song](https://open.spotify.com/album/4tAD85fBWxNxfI1VjoermN) | 3:26 |
+| 11 | [Mistletoe And Holly](https://open.spotify.com/track/2OjTp7q83SklIUofXCUCkw) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [Mistletoe And Holly](https://open.spotify.com/album/5ztjBlyljz0moqCJchdo0a) | 3:01 |
+| 12 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/5DLLYzJ575Fm5nO9JMz1Qb) | [Rebecca McCarthey](https://open.spotify.com/artist/6jwFngKucSiFvC4ZnyNuSq) | [Christmas In New York](https://open.spotify.com/album/2f1Yvqn1ObgJjAZahXKAsW) | 3:38 |
+| 13 | [Here Comes Santa](https://open.spotify.com/track/7dXYFKVoQhAkrY9U2qQzpA) | [Ruth Malton](https://open.spotify.com/artist/2mm0psmPDIsQH3XtQGsl25) | [Here Comes Santa](https://open.spotify.com/album/6ZLd0vpnu2UBLUN7gGUeQk) | 3:28 |
+| 14 | [Light of the World](https://open.spotify.com/track/5HmHdOfFEGyrFihRHtx8jv) | [Faye Mosley](https://open.spotify.com/artist/50JVQBWkJTwvTOAvhgcBhv) | [Light of the World](https://open.spotify.com/album/2yNYgL3DzPYgnChLSAS5h7) | 1:45 |
+| 15 | [Santa Baby](https://open.spotify.com/track/4t7gSDW8t9Nzoy3z63Q253) | [William Chu](https://open.spotify.com/artist/1OMbaqIBBz86y7FdoMcwMv) | [Santa Baby](https://open.spotify.com/album/0oVxHx60zwj8nRiPgkcDGp) | 2:17 |
+| 16 | [O Tannenbaum](https://open.spotify.com/track/0Qh82xyuVeCP8TU9LHZOk7) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [O Tannenbaum](https://open.spotify.com/album/0bUeT7ZJYJgnulpvq30EHN) | 2:03 |
+| 17 | [The Night Before Christmas](https://open.spotify.com/track/3qYP1z6cSQuTUosdMURZtw) | [Katy Healy](https://open.spotify.com/artist/4FSVptHzrQg8goD1Evmdgo) | [It's the Most Wonderful Time of the Year](https://open.spotify.com/album/3jkYXSoDo3mH23yZaTVy6W) | 2:52 |
+| 18 | [Blue Christmas](https://open.spotify.com/track/5Xsw49uHfrolDpzV1S0R3n) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:20 |
+| 19 | [White Christmas](https://open.spotify.com/track/7ptmRcVXsT3cQtCkKRLyho) | [Manfred Flynn](https://open.spotify.com/artist/1zGhQhooGB9J162ncgrR68) | [Merry Jazzmas!](https://open.spotify.com/album/3VycMqU4q8PbpBMVUiGV4i) | 2:18 |
+| 20 | [Frosty The Snowman](https://open.spotify.com/track/6i78EhlNpCODok4KjHKLrf) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [Frosty The Snowman](https://open.spotify.com/album/1I9rcVH3yBxsNGUHb8X5Wk) | 2:02 |
+| 21 | [Home for the Holidays](https://open.spotify.com/track/6M2ZatEcMJNWrhm7dF8h6M) | [Vlad Kotsky](https://open.spotify.com/artist/4dXJTtjTNvhUGdt2j7CU2M) | [Home for the Holidays](https://open.spotify.com/album/3mcRjaxQEF83X8u7PWHqba) | 3:46 |
+| 22 | [Angels We Have Heard on High](https://open.spotify.com/track/2ZldA72ZbtvHaQEJFxybtm) | [Diego de Galdeano](https://open.spotify.com/artist/0VN4x01SCzLmIMFzuPzAKU) | [Oh Come, All Ye Faithful](https://open.spotify.com/album/1Wmhjzrbn1EOKzhqgGWfhq) | 3:09 |
+| 23 | [A Child Is Born](https://open.spotify.com/track/31FsKXdQiIqxHYMyPMl7ev) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Jazz Nights](https://open.spotify.com/album/09CNhFjwKtppqXQKzrKOWe) | 2:34 |
+| 24 | [A Marshmallow World](https://open.spotify.com/track/26qH2fgQYx3D1pgdhO5Gba) | [John Manson](https://open.spotify.com/artist/7M9AwoeT6YVeqrbK7a0Lsk) | [A Marshmallow World](https://open.spotify.com/album/5kfXeFZLIDaHWRrrS4dbco) | 2:32 |
+| 25 | [Candles](https://open.spotify.com/track/4LBOStx3RgmDRT6qo0sAbe) | [Damian Syslo](https://open.spotify.com/artist/16zAiqqDsHkJ3UPqS9vQiu) | [Candles](https://open.spotify.com/album/6KbPiTD5ECm71o5y9cIbPv) | 3:44 |
+| 26 | [What Child Is This](https://open.spotify.com/track/04n38Hts6yUNPMW75kweVu) | [Ryan Marvel](https://open.spotify.com/artist/1QRBlM1kbpn7HsF42YKSY2) | [Winter II](https://open.spotify.com/album/1ikrIy4vNGnTWENBzXIdq9) | 2:48 |
+| 27 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/1dnGfAHKObTGRL6FFXI5I2) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [Frosty The Snowman](https://open.spotify.com/album/1I9rcVH3yBxsNGUHb8X5Wk) | 2:24 |
+| 28 | [It Came Upon The Midnight Clear](https://open.spotify.com/track/7tmMuhg6bvWSyLdEBWlWTb) | [Christian Glass](https://open.spotify.com/artist/2UHwvIXHdMtcmboouSQJ7k) | [It Came Upon The Midnight Clear](https://open.spotify.com/album/0od5E7hLRGWB1Qd2KIFYN1) | 2:26 |
+| 29 | [Jingle Bells \- Piano](https://open.spotify.com/track/3o5MXSiuutkoTVsL64CH7K) | [Merry Pines](https://open.spotify.com/artist/5R2MLk0AVIoRCxZ6JvamzW) | [Jazzy Piano for the Holidays](https://open.spotify.com/album/271p0NGxaSmWAaTZzi8lWJ) | 2:39 |
+| 30 | [Christmas Time Is Here](https://open.spotify.com/track/35OqFuNbclT3cFT92fYGTH) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Christmas Time Is Here](https://open.spotify.com/album/0XMkRH1T6WidEsdE7VuQ4S) | 2:46 |
+| 31 | [O Christmas Tree](https://open.spotify.com/track/0y8ODpwmw0oUbXqTgzP1bD) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [O Christmas Tree](https://open.spotify.com/album/1g7ximMS6vD0RKX0R9Gtgs) | 2:17 |
+| 32 | [Christmas is a\-comin'](https://open.spotify.com/track/0AtyXQ2WXI8ei08zdTDJvV) | [Chris Beard](https://open.spotify.com/artist/7hTEeJAMokCNuBxW8GtFKp) | [Christmas is a\-comin'](https://open.spotify.com/album/1FQA9vud3qC2AHLIhoN633) | 2:26 |
+| 33 | [We Three Kings](https://open.spotify.com/track/7FXyGY7enbvRokLa4F3l93) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [We Three Kings](https://open.spotify.com/album/1TSXtdyo5u58eIPx7hqDNa) | 2:28 |
+| 34 | [The Christmas Waltz](https://open.spotify.com/track/4IYUcv0cXUMvOi3gbQrpy5) | [George Gower](https://open.spotify.com/artist/5dY3RsdO6LWXjhYitTgX8b) | [The Christmas Waltz](https://open.spotify.com/album/5xNbnlyxNxH0aswKNA9tlZ) | 2:38 |
+| 35 | [Christmas Waltz](https://open.spotify.com/track/09OW7AuZn0RYcXDR63C416) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [Christmas Waltz](https://open.spotify.com/album/2zSCBHVfjbslUHKd3HKeSV) | 2:36 |
+| 36 | [A Christmas Love Song](https://open.spotify.com/track/3srmpEPRcrE5FAGJcsHk55) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [A Christmas Love Song](https://open.spotify.com/album/3KBCBLVGamNAwM1pPY65rJ) | 2:38 |
+| 37 | [O Little Town Of Betlehem](https://open.spotify.com/track/0Bxb4fsZuwxr3SSvrwcyZC) | [James DiResta](https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w) | [O Little Town Of Bethlehem](https://open.spotify.com/album/55yZxHqwItrlIgC4xgKbEz) | 2:57 |
+| 38 | [Ding dong! Merrily on high!](https://open.spotify.com/track/5m1IVNnQujQZUIr6dutOcC) | [Chris Beard](https://open.spotify.com/artist/7hTEeJAMokCNuBxW8GtFKp) | [Christmas is a\-comin'](https://open.spotify.com/album/1FQA9vud3qC2AHLIhoN633) | 2:29 |
+| 39 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/5fcwexbxECTYiCUvrBig0V) | [Ray Love](https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy) | [What Are You Doing New Year's Eve?](https://open.spotify.com/album/5GMPCJizVO43fjyoj6to1V) | 2:25 |
+
+Snapshot ID: `MCxiMzAxZmYwMTgxMjk3YTFjMmIyMmUwNzM5YjIzODE5NmNmMGM1MmZh`

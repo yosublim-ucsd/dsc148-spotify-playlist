@@ -4,7 +4,7 @@
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-521 songs - 1 day 20 hr 1 min
+522 songs - 1 day 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,7 @@
 | [Meskel Flowers \- Alternate Version](https://open.spotify.com/track/66esfzq61Qs77OhC8u9VLB) | [Web Web](https://open.spotify.com/artist/4EmIrTN6q1uhLRL8hmhuHF), [Max Herre](https://open.spotify.com/artist/7IpWQKu80qQvyer3LO6SW3), [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Meskel Flowers \(Alternate Version\)](https://open.spotify.com/album/2qe3Tt3LEMVQPPzRqbHQoR) | 2:22 | 2021-12-16 | 2022-11-20 |
 | [MIA](https://open.spotify.com/track/6gASt5FcZ0WBpWqHX5tHKo) | [Studnitzky](https://open.spotify.com/artist/3B74gpltsxmayfY8oLTyc6), [KY](https://open.spotify.com/artist/5Oo4y2UuQyAahDEIDcJgJU) | [MIA](https://open.spotify.com/album/4vra9r3q120XYndSsp3XNc) | 6:08 | 2021-12-21 | 2022-07-23 |
 | [Michael Franks](https://open.spotify.com/track/5g5BKnkFRPbNLy8VitcGk8) | [Mats/Morgan](https://open.spotify.com/artist/5GnnGx8nwrkvbrrV5rkrL7) | [Radio Live Stream](https://open.spotify.com/album/0RuDQmcuq6knk2TXz8ZJET) | 3:06 | 2021-12-16 | 2022-07-22 |
-| [Modjadji](https://open.spotify.com/track/2zLckBnqmefpJSPZM75KpW) | [Makram Aboul Hosn](https://open.spotify.com/artist/687cij80cUDv1u0l8C7PB6) | [Transmigration](https://open.spotify.com/album/2G4hThAYQf5XvkIdzQRtrP) | 5:01 | 2021-12-16 |  |
+| [Modjadji](https://open.spotify.com/track/2zLckBnqmefpJSPZM75KpW) | [Makram Aboul Hosn](https://open.spotify.com/artist/687cij80cUDv1u0l8C7PB6) | [Transmigration](https://open.spotify.com/album/2G4hThAYQf5XvkIdzQRtrP) | 5:01 | 2021-12-16 | 2023-11-22 |
 | [Monkey Burns Lab](https://open.spotify.com/track/09wFS50QSqlwF8YvKvdxVO) | [Echoes of Zoo](https://open.spotify.com/artist/6aYyo8CRlyAGNa9KNYzxRf) | [Breakout](https://open.spotify.com/album/4223UDnLtfRY2w6JQzi2Dg) | 5:19 | 2021-12-16 | 2022-07-29 |
 | [Monument](https://open.spotify.com/track/3kwHyKwVFLMMGsnJlv35bQ) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Monument](https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC) | 4:40 | 2022-02-10 |  |
 | [Monument](https://open.spotify.com/track/41ZVxdu7KTYquKjdWStpf8) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Monument](https://open.spotify.com/album/3fUO1xTixHCOuNSdcoYtX2) | 4:40 | 2021-12-16 | 2022-07-29 |
@@ -320,6 +320,7 @@
 | [Oni](https://open.spotify.com/track/2fU8bwQtPJyAHuw6QpSjPN) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Oni / Lantern](https://open.spotify.com/album/7GJKVke6czVnfjIee76TYz) | 6:36 | 2022-02-10 |  |
 | [Oni](https://open.spotify.com/track/2j2lqP2WGJptkmqYauGJX6) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Oni](https://open.spotify.com/album/7GTrTOtOWJGxQFuUpNl8Cz) | 6:36 | 2021-12-16 | 2022-07-29 |
 | [Orbit](https://open.spotify.com/track/0I8VJcDYdGgPowFb8sL7R3) | [Andorra](https://open.spotify.com/artist/4DrXu8nq8uEec9f1jFjuRa) | [Orbit](https://open.spotify.com/album/5auD1akFEurjBUL2S8eSPv) | 7:33 | 2021-12-16 | 2022-07-25 |
+| [Orlo](https://open.spotify.com/track/0pa3uox4Y79mZLWBx51G2O) | [Timo Lassy](https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq) | [Trio](https://open.spotify.com/album/2MzuZQsdTNTVDg1DKIQJAp) | 4:55 | 2022-02-10 |  |
 | [Orlo](https://open.spotify.com/track/6JHImit1Hmvx8x7Qx6cAJd) | [Timo Lassy](https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq) | [Orlo](https://open.spotify.com/album/77VgiOCIC8xoZv7KNLnooh) | 4:55 | 2021-12-16 | 2023-07-14 |
 | [Outlaws](https://open.spotify.com/track/6XpcNZVkuSlurCExNOUNhG) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Bill Frisell \(with Dave Holland and Elvin Jones\)](https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ) | 7:55 | 2022-04-01 |  |
 | [OUTSIDE](https://open.spotify.com/track/3zBQ9zRSdhjHYRO0Cf3qSc) | [KALEIIDO](https://open.spotify.com/artist/053i0P5lMUJN5zBmcQbLd9), [Jakob Høyer](https://open.spotify.com/artist/0DqbgnqV1ln3Z0kkEXK7OD), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM), [Kasper Tranberg](https://open.spotify.com/artist/5asffRDuhmMbyKKC4nxXlt), [Rumpistol](https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv) | [OUTSIDE](https://open.spotify.com/album/2Gt5jkhUX77sl2m1NqK0zv) | 6:13 | 2021-12-16 | 2022-07-29 |

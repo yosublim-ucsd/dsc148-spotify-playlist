@@ -4,7 +4,7 @@
 
 > n3xt l3v3l gaming beats.
 
-212 songs - 8 hr 38 min
+215 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [eggplants & oregano](https://open.spotify.com/track/4NFpLeNabRQZa5ri80KRcA) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [eggplants & oregano](https://open.spotify.com/album/1xqBqzSAxguUoi25iST312) | 1:37 | 2023-11-17 |  |
 | [Emotions](https://open.spotify.com/track/0GX01FogF0EeJYXKTYwhMp) | [Kibunde](https://open.spotify.com/artist/53W7kqgUgfbnfgPXkK7r0g) | [Emotions](https://open.spotify.com/album/61boJpcbCcJogaxhegOHwN) | 2:24 | 2023-09-29 |  |
 | [Empire](https://open.spotify.com/track/7yf1m8NM5zIr5VXIAVvhEv) | [Canola Dreams](https://open.spotify.com/artist/5Bm1cVeLBJNcGXfyAwhMQt) | [Empire](https://open.spotify.com/album/3uoE4uG6XV5fXQLIMi0YGB) | 2:26 | 2023-01-20 | 2023-10-29 |
-| [Evening Ride](https://open.spotify.com/track/5mVuwhsslkuuClVIekKA97) | [Ky\-Fo\-Beatz](https://open.spotify.com/artist/3d8VyDVDObHeXnvYUzFDfA) | [Evening Ride](https://open.spotify.com/album/50jJrDF3VTx4CnZemd3ku3) | 2:19 | 2022-04-22 |  |
+| [Evening Ride](https://open.spotify.com/track/5mVuwhsslkuuClVIekKA97) | [Ky\-Fo\-Beatz](https://open.spotify.com/artist/3d8VyDVDObHeXnvYUzFDfA) | [Evening Ride](https://open.spotify.com/album/50jJrDF3VTx4CnZemd3ku3) | 2:19 | 2022-04-22 | 2023-11-22 |
 | [Favorbook](https://open.spotify.com/track/3p8aZOtWjsg9QlhvCbOBxO) | [Hatchio](https://open.spotify.com/artist/2yJIW1Ej1HulMn17JJ4kaC) | [Meowmalade](https://open.spotify.com/album/3BPl9HBiCR2AWKTbQSS5bC) | 2:42 | 2022-04-22 | 2023-09-09 |
 | [Fern](https://open.spotify.com/track/6Qw2JmzSRWNxgysJLo7pXK) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Fern](https://open.spotify.com/album/3Yt9yisOsPP2408sZG62CC) | 2:03 | 2023-11-17 |  |
 | [Five Buttons](https://open.spotify.com/track/78EMR78yK77l8ZHOxHOF3P) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Five Buttons](https://open.spotify.com/album/7ELWyRqCjfCYlIp3CXTcST) | 1:55 | 2023-11-17 |  |
@@ -121,7 +121,7 @@
 | [Morning Vibes](https://open.spotify.com/track/141d6il0lGRRMlmLuZ5GSz) | [IDO 33](https://open.spotify.com/artist/4vDjHVL28P9aMvDUEKa0yu) | [Morning Vibes](https://open.spotify.com/album/6eWlDdvNbecQdDL3tabfOw) | 2:35 | 2022-04-22 | 2022-11-20 |
 | [Motion](https://open.spotify.com/track/1i7pXVXPz6pxrHbJPlUVwp) | [Hybrid Vibrations](https://open.spotify.com/artist/794S31SVHKMY16hMneo3XW) | [Motion](https://open.spotify.com/album/669olmt16llkZlgDbnKGXp) | 2:47 | 2022-04-22 |  |
 | [mushroom](https://open.spotify.com/track/13d1pGkOt6G92tE2INMDkJ) | [zakori](https://open.spotify.com/artist/1yw7x5O6btobGfIvuNiXms) | [mushroom](https://open.spotify.com/album/0YT5cKKU45aDRcy79OWGFs) | 1:12 | 2022-04-22 |  |
-| [Mythical Beasts Do Yoga](https://open.spotify.com/track/6a22xSTZ90vf0wqcYpaeSP) | [C\. H\. Alice](https://open.spotify.com/artist/2vUY9u1zhTNfrfOgnbGP8a) | [Mythical Beasts Do Yoga](https://open.spotify.com/album/3eQVZdtlOxKOYiwFGSJCDX) | 3:42 | 2022-04-22 |  |
+| [Mythical Beasts Do Yoga](https://open.spotify.com/track/6a22xSTZ90vf0wqcYpaeSP) | [C\. H\. Alice](https://open.spotify.com/artist/2vUY9u1zhTNfrfOgnbGP8a) | [Mythical Beasts Do Yoga](https://open.spotify.com/album/3eQVZdtlOxKOYiwFGSJCDX) | 3:42 | 2022-04-22 | 2023-11-22 |
 | [Natural Midst](https://open.spotify.com/track/0T0Qw9dfYjTf6umYfjC5zf) | [Illum Noyz](https://open.spotify.com/artist/3FoLwras7zH67MpZSuEZcW) | [Natural Midst](https://open.spotify.com/album/3VqDQlMLsc0mBCqc4s9XWL) | 2:41 | 2023-09-08 |  |
 | [Neptune](https://open.spotify.com/track/3ownsO3GPdMlFVa9BETht9) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [KOMOREBI](https://open.spotify.com/artist/6izk2AxfY5QGz8SULMzdLI) | [Neptune](https://open.spotify.com/album/0f1twoUCoERvlNM4yLxFPk) | 2:21 | 2022-04-22 |  |
 | [Never Wing](https://open.spotify.com/track/6Ex7cCiMaj2mML0BCOG26H) | [DHN Missile](https://open.spotify.com/artist/188QXbK4VlrMgI7jleq5XF) | [Never Wing](https://open.spotify.com/album/1eRT425XrXde5hqIgQgkZ9) | 2:16 | 2022-04-22 |  |
@@ -170,8 +170,9 @@
 | [sheesh bloke](https://open.spotify.com/track/2DvtuX7pLLwe5RWuqecuCX) | [SLACER](https://open.spotify.com/artist/0J2jRTXMGGCAwBGoi3xNtW) | [sheesh bloke](https://open.spotify.com/album/6iBc6QL56hYwyauR1PSReg) | 1:47 | 2023-11-17 |  |
 | [Silky Way](https://open.spotify.com/track/5vyFOvY3TyI8OXiXBi8PqT) | [Upah Beats](https://open.spotify.com/artist/6LPpXChwcxm1jxTQ8O9tlI) | [Silky Way](https://open.spotify.com/album/3WCcEiLHRqZ4YbMPCGodYE) | 2:33 | 2023-10-27 |  |
 | [Skyfall](https://open.spotify.com/track/7bvthrahaEbDTFfEkbJfJN) | [My New Shoes](https://open.spotify.com/artist/2c8AdYtlyPwumj2LwhpJUk) | [Spanish Rain](https://open.spotify.com/album/0nAZp33uhWAsRQ3OIp04ye) | 3:16 | 2022-04-22 | 2023-09-09 |
+| [skyline](https://open.spotify.com/track/5cz11JPM65o0TBrm6WRiN5) | [ozai](https://open.spotify.com/artist/39rqcB615LQYvtRQwiE5I7) | [skyline](https://open.spotify.com/album/632CFPvMfMQNb7jFQpaWZ0) | 2:07 | 2023-11-17 |  |
 | [Sleepy Eve](https://open.spotify.com/track/0YDdPrCpkjP9QywA44ronl) | [Uneven Cream](https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf) | [Sleepy Eve](https://open.spotify.com/album/4tRCwpYFLMOtDB0RCZaC3u) | 1:32 | 2023-09-29 |  |
-| [Small Steps](https://open.spotify.com/track/3hsZTBrM7nqAF81K4XiR7A) | [Kato Mili](https://open.spotify.com/artist/19DmVqt3GkVScKwII02jlr) | [Small Steps](https://open.spotify.com/album/00Ce43IgXDRPKSyJndsvFE) | 2:55 | 2022-04-22 |  |
+| [Small Steps](https://open.spotify.com/track/3hsZTBrM7nqAF81K4XiR7A) | [Kato Mili](https://open.spotify.com/artist/19DmVqt3GkVScKwII02jlr) | [Small Steps](https://open.spotify.com/album/00Ce43IgXDRPKSyJndsvFE) | 2:55 | 2022-04-22 | 2023-11-22 |
 | [So Be It](https://open.spotify.com/track/0W0nUfbrPMHfjx2W1rtmQR) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [So Be It](https://open.spotify.com/album/4hVT7AuO0urPieBLyJiZ9y) | 2:40 | 2022-04-22 |  |
 | [Sometime](https://open.spotify.com/track/5wlLF3893tOtvLR6pSkodi) | [Bending Lights](https://open.spotify.com/artist/6P02YGhZmko2kdalxsmctl) | [Can't make it without U](https://open.spotify.com/album/6oGnAtyHgkZdXYfHl6LzDf) | 1:58 | 2022-04-22 | 2023-09-09 |
 | [Space Fern](https://open.spotify.com/track/1Rh6LJdVGmt2A3GKGT1KFN) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Midnight Glow, Vol\. 2](https://open.spotify.com/album/5OY4f2lUocQL384e0qV8ow) | 1:49 | 2022-04-22 |  |
@@ -189,11 +190,13 @@
 | [Take It Home](https://open.spotify.com/track/0x8ezdTuFi6El6BTGcQojf) | [Mint Tape](https://open.spotify.com/artist/35l6dl8unoLV3T6EjbO0hn) | [Take It Home](https://open.spotify.com/album/4QlNhHUyV9KTQ4QC7GbwXu) | 2:12 | 2023-10-13 |  |
 | [Tasty Bites](https://open.spotify.com/track/5istmkXN6fiucHQtaF1xV4) | [Blue and White](https://open.spotify.com/artist/3D7Q3FCSjGuFl5UNN3X4Ow) | [Tasty Bites](https://open.spotify.com/album/6Y0zEucjiXtyVXtxu0JgZi) | 2:19 | 2022-04-22 |  |
 | [Tenderly](https://open.spotify.com/track/21syvpttK8kXDq7kf3eaPr) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [Tenderly](https://open.spotify.com/album/5FbOGtcOmnvWJKH4xmajlv) | 2:13 | 2022-04-22 |  |
+| [Terminal](https://open.spotify.com/track/0z26A8cwAaGR5mAjquZVKj) | [Yumeoka](https://open.spotify.com/artist/2QO9MfQwz3oGySq5Tiuo4Q) | [Terminal](https://open.spotify.com/album/77Nlb4di9sHZu0mNB5isSR) | 2:05 | 2023-11-17 |  |
 | [The Mechanic](https://open.spotify.com/track/3kehSE24KMZe22rgorPiDo) | [Charlie Brons](https://open.spotify.com/artist/37XHOJqjRSosZYoRmGFboC) | [The Mechanic](https://open.spotify.com/album/6nM5GG20TJqXEQ7Zivtw9K) | 3:08 | 2022-04-22 | 2023-11-13 |
 | [the neighborhood](https://open.spotify.com/track/6nZIx6Ck3oNPR1L5FblIY0) | [ninetytwo.](https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V) | [the neighborhood](https://open.spotify.com/album/4fvFegKW9QME1hmJVigINz) | 2:09 | 2023-09-29 |  |
 | [The Obsidian](https://open.spotify.com/track/6txq59sHEmYV0AQ44WMz5X) | [Bored Mango](https://open.spotify.com/artist/5eo18c4KyYfalNC4LuCX7g) | [Take Me Anywhere](https://open.spotify.com/album/07NkbnWE7rwiykelukepYY) | 1:50 | 2022-04-22 | 2023-10-11 |
 | [The Pappas](https://open.spotify.com/track/0n7UVP6hEStbS96Uugnyzs) | [High Low Row](https://open.spotify.com/artist/2ExRfiZkCF0b2AR8vdCqk8) | [Abracadabra](https://open.spotify.com/album/46HcVEDXqFXCD0uIbiqL0I) | 3:44 | 2022-04-22 |  |
 | [Their Name Is Jazz](https://open.spotify.com/track/7k489KmPZjNkvEMgSZdY2g) | [yoranda](https://open.spotify.com/artist/6RASfL9QFAOiqYdKetXooz) | [Their Name Is Jazz](https://open.spotify.com/album/1Z8CkZUbO8MXbOGEP9k7zj) | 2:15 | 2023-09-29 |  |
+| [Thunder Hug](https://open.spotify.com/track/6KBnGr2g6uOLkZVlgEbiuV) | [humble hugo](https://open.spotify.com/artist/6DxiHTkbvxfCK63EZ7M32W) | [Thunder Hug](https://open.spotify.com/album/1CLuSyb4VMc7B1E7aQWksJ) | 2:34 | 2023-11-17 |  |
 | [times two](https://open.spotify.com/track/7w3cLPdim2RnadPnIpvhMZ) | [bripp](https://open.spotify.com/artist/0d3thvBL4aAaPp5bFuHfrt) | [times two](https://open.spotify.com/album/3wTbVXU1Rqe9f2YXzUVs2v) | 2:42 | 2022-04-22 | 2023-10-16 |
 | [touching grass](https://open.spotify.com/track/22vdcp24KUkLemk06PCpIP) | [Sorai](https://open.spotify.com/artist/6ATrPrg8qbSNEyCSEwLgDW) | [touching grass](https://open.spotify.com/album/1y27f6XuRQ9oVznatwkukz) | 2:15 | 2023-10-27 |  |
 | [town life](https://open.spotify.com/track/7o6Tpfymsh47oT5VeSSIPL) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [town life](https://open.spotify.com/album/6MorDTaeyPwDA16tn5d3VF) | 1:57 | 2023-09-29 |  |

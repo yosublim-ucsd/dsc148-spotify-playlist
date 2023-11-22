@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,416 likes - 82 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,445 likes - 82 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 81 | [Ronaldo](https://open.spotify.com/track/3MgfEGq3GyR4FeGjjz1KJV) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [Viktor Ax](https://open.spotify.com/artist/4qp8Vfo8zlEF8ZqJxQJt84) | [Ronaldo](https://open.spotify.com/album/5iUkpQGQ4tETayxbpTq87e) | 2:47 |
 | 82 | [Baileys](https://open.spotify.com/track/5TWJiRYe4iG0VboVgSCaDQ) | [Nilo](https://open.spotify.com/artist/0keJuhsaIXm08OuJkPM1la) | [Baileys](https://open.spotify.com/album/0QVJ9wCNMgM2D2zRzfcVOU) | 2:31 |
 
-Snapshot ID: `MCxlYjc3NGRkODI2OWJhMzRjNThjMmM5NmVkNTQzYmIzYzYyNDI4ZDZh`
+Snapshot ID: `MCxhYWE0OWU3MGI3NDA5OTMxYTJiNTM0Mzg3NGM5Yjk1MTdkNDQ4MTQz`

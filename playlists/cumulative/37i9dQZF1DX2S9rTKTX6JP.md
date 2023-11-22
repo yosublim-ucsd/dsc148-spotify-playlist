@@ -4,7 +4,7 @@
 
 > The very best rock covers\. Cover: Dolly Parton
 
-322 songs - 20 hr 43 min
+323 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Like a Virgin](https://open.spotify.com/track/7zmEtA2x8zcMDiDBr9kT2p) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [The Dirt Soundtrack](https://open.spotify.com/album/6FLUCOGmzatDd2Ab85FjsO) | 3:08 | 2023-11-17 |  |
 | [Listen To Your Heart](https://open.spotify.com/track/29b2h29UnjjL8jGrDIfEsU) | [Through Fire](https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT) | [All Animal](https://open.spotify.com/album/7CcfBGRoxEuWkudbhLMr3H) | 3:35 | 2020-12-16 | 2022-11-05 |
 | [Listen To Your Heart](https://open.spotify.com/track/6NxTKEfNa5DyhOIin6VWYP) | [Through Fire](https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT) | [All Animal](https://open.spotify.com/album/5hDU20tlpRjeN2PJnmfiv6) | 3:35 | 2023-01-13 |  |
+| [Lithium](https://open.spotify.com/track/4IEn8Os5XMZpIRF9xX74Aj) | [The Polyphonic Spree](https://open.spotify.com/artist/0inqWv3OS4VpWt691ki8yk) | [Wait](https://open.spotify.com/album/7nI7V6Sc70en38PPnjPAKE) | 5:23 | 2023-11-17 |  |
 | [Lithium](https://open.spotify.com/track/6GfqX5QB43nsHGeyYTeFDS) | [The Polyphonic Spree](https://open.spotify.com/artist/0inqWv3OS4VpWt691ki8yk) | [Wait](https://open.spotify.com/album/2jx7CKfpInHEB5DT6wT8kf) | 5:23 | 2022-03-25 | 2022-04-19 |
 | [Live And Let Die](https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 3:02 | 2020-12-16 |  |
 | [Losing My Religion](https://open.spotify.com/track/5pNRCnwwQZmluol3V1pR6e) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Songs That Saved My Life](https://open.spotify.com/album/5XkUTL5Ccl5krryba7M7JI) | 4:29 | 2020-12-16 | 2022-07-28 |
@@ -282,7 +283,7 @@
 | [The Man Who Sold The World \- Live](https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 4:21 | 2020-12-16 |  |
 | [The Only Exception \- Spotify Single](https://open.spotify.com/track/3aemIcBosf7udts37BAvXx) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Spotify Singles](https://open.spotify.com/album/2CrS7PVRbhHm0DPqIDm8fY) | 4:44 | 2022-08-19 |  |
 | [The Only Exception \- Spotify Single](https://open.spotify.com/track/4GSP51OmKGNs57ZT9coUDF) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Spotify Singles](https://open.spotify.com/album/6hhM8QkMhaaplAsFZhY4l0) | 4:44 | 2022-08-19 | 2022-10-13 |
-| [The Pot](https://open.spotify.com/track/08Ui0p0Jk3UBwiEKAxs4Xf) | [Brass Against](https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei) | [Brass Against II](https://open.spotify.com/album/1afUsHGp4SFpKAUxapIvtI) | 6:21 | 2023-11-17 |  |
+| [The Pot](https://open.spotify.com/track/08Ui0p0Jk3UBwiEKAxs4Xf) | [Brass Against](https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei) | [Brass Against II](https://open.spotify.com/album/1afUsHGp4SFpKAUxapIvtI) | 6:21 | 2023-11-17 | 2023-11-22 |
 | [The Pot](https://open.spotify.com/track/08Ys3244upKhrzRMl2EWXI) | [Brass Against](https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei), [Sophia Urista](https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP) | [Brass Against II](https://open.spotify.com/album/5fTCQCBuKJPqrB6A1QHVzx) | 6:21 | 2020-12-16 | 2022-07-29 |
 | [The Sound of Silence](https://open.spotify.com/track/1Cj2vqUwlJVG27gJrun92y) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized](https://open.spotify.com/album/3qFQ4XNQ15alZrAaj5oGJK) | 4:08 | 2020-12-16 |  |
 | [There She Goes](https://open.spotify.com/track/398o7wmnG0V0jL8Y7bbmif) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [There She Goes](https://open.spotify.com/album/6AoYYnPKJTL1W0KCvXuJ6x) | 2:43 | 2022-03-25 | 2022-04-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Maria Blaya en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,545 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,543 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [bandera roja](https://open.spotify.com/track/33dDVK32asbqSUtOenh2bN) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [bandera roja](https://open.spotify.com/album/3nQgoLDgwh6DG0AxTcTkz1) | 3:28 |
 | 50 | [Que Nunca Pare](https://open.spotify.com/track/2NxkEcNyNzRJHFDexivH7E) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Que Nunca Pare](https://open.spotify.com/album/3u793IkGzcD8JhdcIyvL6v) | 3:24 |
 
-Snapshot ID: `MCw0ODcxZDMwMzRlYmMwNDc2MTZmMTBiMGQ0ZjFiOTcwN2IwYzA5YTlk`
+Snapshot ID: `MCwzY2VjYTFhMTg4OTYzMWQ4ODE0NTBlMjczMTNkZTk3NTQwMThkOTIy`

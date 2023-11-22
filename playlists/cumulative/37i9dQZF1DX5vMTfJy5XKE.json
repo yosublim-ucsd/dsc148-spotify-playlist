@@ -7687,6 +7687,24 @@
     },
     {
       "album": {
+        "name": "the b*tch who stole christmas",
+        "url": "https://open.spotify.com/album/60bxITz36xeSamTsQ0Kn8d"
+      },
+      "artists": [
+        {
+          "name": "Boys World",
+          "url": "https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142206,
+      "name": "the b*tch who stole christmas",
+      "url": "https://open.spotify.com/track/16diS2hN9fIZiyjdtjJjPE"
+    },
+    {
+      "album": {
         "name": "The Bells Are Ringing (Acoustic)",
         "url": "https://open.spotify.com/album/0d4tQ6L8nuQiYMxtkM8iOI"
       },

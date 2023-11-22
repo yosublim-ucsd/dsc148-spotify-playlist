@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9E5mH7sfUn.md) - [plain]
 
 > Amigo, ven te invito una copa...
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,353 likes - 68 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,541 likes - 68 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9E5mH7sfUn.md) - [plain]
 | 26 | [Un Buen Perdedor](https://open.spotify.com/track/0T7JubkdjBXNDVadRIq2ck) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco de Vita](https://open.spotify.com/album/2ijctTdGOOLFI9wMzeG3jb) | 4:00 |
 | 27 | [Con los Ojos Cerrados](https://open.spotify.com/track/2YTKyc2ZppRHWTSI1Bf2Iz) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Me Siento Tan Sola](https://open.spotify.com/album/2KmUjMOR518g6yHp1TqpyG) | 3:35 |
 | 28 | [Quiero Dormir Cansado](https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Solo Exitos](https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1) | 4:01 |
-| 29 | [Eclipse Total Del Amor \(Total Eclipse of the Heart\)](https://open.spotify.com/track/4UFlWyUXUots8pCHclBy9A) | [Lissette](https://open.spotify.com/artist/426RAP38E1nWbcslKrYNlw) | [Mis Recuerdos](https://open.spotify.com/album/1xPZDechSZxJuthlxcRXOE) | 5:36 |
+| 29 | [Eclipse Total Del Amor](https://open.spotify.com/track/4UFlWyUXUots8pCHclBy9A) | [Lissette](https://open.spotify.com/artist/426RAP38E1nWbcslKrYNlw) | [Mis Recuerdos](https://open.spotify.com/album/1xPZDechSZxJuthlxcRXOE) | 5:36 |
 | 30 | [Te Conozco](https://open.spotify.com/track/0PmRXH4YFAtC6ipv8PsS0m) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Historias](https://open.spotify.com/album/110rZdMmIjA335CehJJkuk) | 4:11 |
 | 31 | [Amante a la Antigua](https://open.spotify.com/track/5C7wTCd20Ftl6bbW70qOA4) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Pra Sempre Em Espanhol \- Vol\. 1](https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH) | 3:14 |
 | 32 | [Ya Empaqué Tu Corazón](https://open.spotify.com/track/6vf4ZTuoFsHWFV2agprdZc) | [Jorge Gamboa Patrón](https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu) | [Provocaciones](https://open.spotify.com/album/0ny2GEEopJ4UOZmMK5R7BK) | 4:47 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9E5mH7sfUn.md) - [plain]
 | 67 | [Un Idiota](https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:19 |
 | 68 | [Desvelado](https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:41 |
 
-Snapshot ID: `MCwwMDAxYWU5MDFjOGU2ZDI0OWMwMTE4MDBmODBjMjMwY2M3M2E4MTRi`
+Snapshot ID: `MCxkYmViMjNhNzBiNDVhNmNjYmUyNTBhODkxNDhhNmM3N2JjOGI0NzA5`

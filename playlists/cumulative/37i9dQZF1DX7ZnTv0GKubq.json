@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-13",
+      "date_removed": null,
       "duration_ms": 160736,
       "name": "17",
       "url": "https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj"
@@ -38,6 +38,28 @@
       "duration_ms": 142120,
       "name": "22",
       "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
+    },
+    {
+      "album": {
+        "name": "28 (with Dean Lewis)",
+        "url": "https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        },
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208293,
+      "name": "28 - with Dean Lewis",
+      "url": "https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M"
     },
     {
       "album": {
@@ -70,7 +92,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 176938,
       "name": "3 of Us",
       "url": "https://open.spotify.com/track/36V3yQnFlfRarXVJbh17lE"
@@ -178,7 +200,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-29",
+      "date_removed": null,
       "duration_ms": 204174,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/778x5bolqJeICcrtSBNrko"
@@ -478,7 +500,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-23",
+      "date_removed": null,
       "duration_ms": 192130,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
@@ -496,7 +518,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-04",
+      "date_removed": null,
       "duration_ms": 236640,
       "name": "Bittersweet - Radio Edit",
       "url": "https://open.spotify.com/track/7CNtRYYyhNJKXFr2bQ5rv2"
@@ -1010,7 +1032,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 162000,
       "name": "Diversion",
       "url": "https://open.spotify.com/track/4dA7Ha7ojACVDMtPVsm5nO"
@@ -1064,7 +1086,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 163177,
       "name": "Don't Say It",
       "url": "https://open.spotify.com/track/6ltghPpgP522rAJvYuplke"
@@ -1270,7 +1292,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 123428,
       "name": "Excited",
       "url": "https://open.spotify.com/track/4bRmk5LSrDbeJZOa6NDV8b"
@@ -1288,7 +1310,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 184012,
       "name": "Fair",
       "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
@@ -1368,7 +1390,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 297717,
       "name": "Fight for Love",
       "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
@@ -1408,7 +1430,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 171727,
       "name": "flashbacks (feat. Sampha)",
       "url": "https://open.spotify.com/track/7hnnvuwfzxerufe2clWoys"
@@ -1426,7 +1448,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 175453,
       "name": "Flexin",
       "url": "https://open.spotify.com/track/1JgDsJQGG9ZPdZaL8Y0Afb"
@@ -2032,7 +2054,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 166623,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB"
@@ -2184,7 +2206,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 158171,
       "name": "I want you",
       "url": "https://open.spotify.com/track/6n2ZiEOuR5TtRqiriKCJfH"
@@ -2458,7 +2480,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 164045,
       "name": "july (feat. Tiana Major9 & Venna)",
       "url": "https://open.spotify.com/track/2eRYY2aDP2VOWwL6bIcakY"
@@ -2622,7 +2644,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 139586,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf"
@@ -2742,7 +2764,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 155728,
       "name": "long stay (feat. Bakar)",
       "url": "https://open.spotify.com/track/5ie2bMXcmiwk6q8TrP8J1W"
@@ -3194,7 +3216,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 173483,
       "name": "No Way",
       "url": "https://open.spotify.com/track/4A3RHFKpMnHqMNyD6DaIUV"
@@ -3296,7 +3318,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 214026,
       "name": "November (feat. Stormzy)",
       "url": "https://open.spotify.com/track/7xkHbITyunC0rn47Gs8hS4"
@@ -3528,7 +3550,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 150160,
       "name": "Pick It Up",
       "url": "https://open.spotify.com/track/03Cc9uqZhb8yCMIi6ExEL3"
@@ -3778,7 +3800,7 @@
       ],
       "date_added": "2022-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 186432,
       "name": "raw",
       "url": "https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT"
@@ -4054,7 +4076,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-28",
+      "date_removed": null,
       "duration_ms": 165980,
       "name": "SIDE OF YOU",
       "url": "https://open.spotify.com/track/1cHBuQf2xa55GghN4eBp1H"
@@ -4072,7 +4094,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 164856,
       "name": "Signals",
       "url": "https://open.spotify.com/track/3z32rAkX5UzIp9jwoNjcjD"
@@ -4192,7 +4214,7 @@
       ],
       "date_added": "2022-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-25",
+      "date_removed": null,
       "duration_ms": 180723,
       "name": "Speed Of Plight",
       "url": "https://open.spotify.com/track/1t2YGrS7RAznI7zFR0aIIP"
@@ -4348,7 +4370,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 154392,
       "name": "Suite Life (Familiar) [Feat. Bellah] - Bonus Track",
       "url": "https://open.spotify.com/track/2X5hOPvGUp800KM7GG6tXn"
@@ -4410,7 +4432,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 262960,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
@@ -4860,7 +4882,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 247720,
       "name": "Want U Around (feat. Ruel)",
       "url": "https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2"

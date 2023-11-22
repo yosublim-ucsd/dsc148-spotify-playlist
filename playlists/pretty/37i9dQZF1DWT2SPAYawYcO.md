@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,958 likes - 97 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,013 likes - 97 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 36 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 |
 | 37 | [Loverboy](https://open.spotify.com/track/13qfi5nBlDX1bWF13EbVbX) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco), [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Loverboy](https://open.spotify.com/album/1qnrZlibwgqcGEFhvAKav1) | 2:49 |
 | 38 | [Deja Vu](https://open.spotify.com/track/4heVB9zwoMltJmXOI9hRlJ) | [Harley Alaska](https://open.spotify.com/artist/6NBwTycRRuLImntxB179iM) | [Deja Vu](https://open.spotify.com/album/7LR9vWBf6ZFqgoSzKI12rC) | 3:09 |
-| 39 | [In Our Nature](https://open.spotify.com/track/3y3qDR1tWTuiaoMb4Q02ic) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Sg\. Nik Presents: Rinse On Toast](https://open.spotify.com/album/5ni3K90cPqPPCbWapSUhkT) | 2:20 |
+| 39 | [In Our Nature](https://open.spotify.com/track/3yQ6foVcC6Frbs7Deum0Dd) | [Sg\. Nik](https://open.spotify.com/artist/1kEtbhjtG8HAlLbGST9McW) | [Sg\. Nik Presents: Rinse On Toast](https://open.spotify.com/album/15v75tITBAMoR0Ajl7f9RU) | 2:20 |
 | 40 | [The Most Beautiful Thing](https://open.spotify.com/track/5dkd0uY1ZYdUTG0LWV2RqM) | [The Nicholas](https://open.spotify.com/artist/2HOeKK6JSrvz00FoQk0biZ), [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [The Most Beautiful Thing](https://open.spotify.com/album/2rHc5UVkbvpUFW1cYLsOho) | 3:12 |
 | 41 | [Life In Your Hands](https://open.spotify.com/track/5mSTgDkcGsXQFA2ycG8YzU) | [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp) | [Life In Your Hands](https://open.spotify.com/album/1RD7nbnqK2BvYnRD4aw9CO) | 2:28 |
 | 42 | [Vocation](https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:04 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 96 | [Built To Last](https://open.spotify.com/track/1Q0v6zNWR5IZsOF3ccI3gx) | [The Delta Riggs](https://open.spotify.com/artist/1wWcqWYBaZeSYC0aAfh3qy), [Chris Shiflett](https://open.spotify.com/artist/5tv5SsSRqR7uLtpKZgcRrg) | [The Real Electric](https://open.spotify.com/album/5Jq5cAphAwD4X743LFtFqw) | 2:41 |
 | 97 | [ALL I KNOW](https://open.spotify.com/track/4ukLC1RdwcuWly2oeC4em1) | [EAST AV3](https://open.spotify.com/artist/1orXvSX01zlrRfj1PlOd1e) | [DAYTRIP TO THE NIGHTTRAP](https://open.spotify.com/album/0GgJUtDM290dGUVmHJDc8t) | 3:29 |
 
-Snapshot ID: `MCw2MDZhZTM4YWEyNzYwN2NmMjg1OTcwMDNmYWZjZTRjNTVmYTk4OWQ5`
+Snapshot ID: `MCw4ZTZjMDc4MmJlOGU3MmQ2YWM0ZDQ5Yjc5YWFkOWZmMzEyZWVhMjQw`

@@ -4,7 +4,7 @@
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-384 songs - 1 day 18 hr 2 min
+385 songs - 1 day 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Distopia](https://open.spotify.com/track/24ZVytjb1R8ojaa4u1lRNW) | [Dandara](https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4) | [Desolate Distopia](https://open.spotify.com/album/0SLi6pMdIw9uWHIoNDVvW1) | 6:52 | 2020-11-05 | 2021-02-07 |
 | [Drums Marrakech](https://open.spotify.com/track/74vqtIP1ZpXmNOkzkbswGe) | [Chaim](https://open.spotify.com/artist/2XMpXAQ0B1J95en60YGE3V) | [Drums Marrakech](https://open.spotify.com/album/1GcSm4bpJuQLLoRSQPVtz8) | 5:40 | 2019-08-02\* | 2021-05-28 |
 | [Duat](https://open.spotify.com/track/7MqyoCR3gABY7R5ibLRjpR) | [Trippin Jaguar](https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0), [Raffaello Visconti](https://open.spotify.com/artist/1JaqbmYIACQImzNpyefYnp) | [Arecibo](https://open.spotify.com/album/1Q8Lwbmwvfded4H34gHTj6) | 7:18 | 2019-08-02\* | 2021-12-05 |
-| [Earth](https://open.spotify.com/track/18Vds2ehiWC09W390vcptq) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Tripoli](https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46) | [Plutón](https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW) | 6:22 | 2022-04-04 |  |
+| [Earth](https://open.spotify.com/track/18Vds2ehiWC09W390vcptq) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Tripoli](https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46) | [Plutón](https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW) | 6:22 | 2022-04-04 | 2023-11-22 |
 | [Ecbatana](https://open.spotify.com/track/6ElWJx7lHxUQ7EcNytyLBe) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp), [Arya Noble](https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50) | [Ecbatana](https://open.spotify.com/album/5HVONgm46A279BAssIgpVC) | 3:48 | 2019-08-02\* | 2021-09-06 |
 | [Efsun](https://open.spotify.com/track/4qpm26kuDkeIRICuQ34Q1U) | [Ali Kuru](https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV) | [Merhaba](https://open.spotify.com/album/0MWRx1a4Z2MaaWqn4rqY94) | 6:21 | 2019-11-02 | 2021-02-27 |
 | [Ekata](https://open.spotify.com/track/45nyiS7Q2fJaY9AuNDZDee) | [The Advocate](https://open.spotify.com/artist/2BoWW5buEf2tz4NlKVknvm), [Toshi](https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK) | [Ekata](https://open.spotify.com/album/15NQB0wgAcH6pStxyo0rCb) | 5:34 | 2021-02-28 | 2022-04-21 |
@@ -276,6 +276,7 @@
 | [Pandora](https://open.spotify.com/track/2kscYCgdy8FP8D92hgsVIy) | [Renga Weh](https://open.spotify.com/artist/28xBr8Qn3mikTNu5yswXYR) | [Pandora](https://open.spotify.com/album/74ulhSz1pv8TBMczTusgvv) | 5:55 | 2020-05-17 | 2022-04-21 |
 | [Pantarei](https://open.spotify.com/track/2zoJ31xwDphl9m6LHo2u64) | [Latteo](https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv) | [Pantarei](https://open.spotify.com/album/0h6dsjcjf7sGbu0NSX88o3) | 6:43 | 2023-03-25 | 2023-04-15 |
 | [Parivartan](https://open.spotify.com/track/2DKUPy6sTH7vZsjAe4DVUv) | [Elcor](https://open.spotify.com/artist/6WjWbZruQ0NGsi2sjlToEj), [Skydrips](https://open.spotify.com/artist/2XGDgA9EWonvKbyRwQazTF) | [Parivartan](https://open.spotify.com/album/5DOEiK1Wt4SDsXmKWBYVPp) | 8:06 | 2022-01-21 | 2023-06-27 |
+| [Pastel](https://open.spotify.com/track/0QWG9OtA0oHnpQH0iCxicr) | [Theo Gramal](https://open.spotify.com/artist/2cUMjbWPmVjM6hHs18dYbc) | [Pastel](https://open.spotify.com/album/7GORODzuiM1sFSosuxQL5v) | 6:11 | 2023-11-14 |  |
 | [Pastorcita](https://open.spotify.com/track/2bq3BcwuIjsvS18KXgqzZV) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU), [Yusuf Lemone](https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M) | [The Deep South](https://open.spotify.com/album/5Gnnle3P6DoHp5vtqkN0P0) | 6:23 | 2021-01-31 | 2022-09-29 |
 | [Pastorcita](https://open.spotify.com/track/3Y3inhZXBQ1KPfhWYYeuR3) | [Marco Tegui](https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU), [Yusuf Lemone](https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M) | [The Deep South](https://open.spotify.com/album/20G0qgscNeMWWrmmYbHfBY) | 6:23 | 2022-09-30 |  |
 | [Patika](https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5) | [Hezarfen](https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx) | [Patika](https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ) | 5:33 | 2022-04-04 |  |

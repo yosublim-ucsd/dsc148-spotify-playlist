@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Davidson Silva, Dan\u00fabia M.J",
-  "num_followers": 321277,
+  "num_followers": 321384,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTVjY2Q3NjI1YzVlMzlmYjc0OGE4YjZkOWQ4MGI4ZWNhOTQ5ZjBi",
+  "snapshot_id": "MCwwMmM5OWQ2MWM2YmZmMmI4MDAxOGQyNWJhOGI5MDc4OTAwMDM0NzAz",
   "tracks": [
     {
       "added_at": "2023-11-03 04:37:52",
@@ -455,18 +455,22 @@
     {
       "added_at": "2023-11-03 04:37:52",
       "album": {
-        "name": "Cora\u00e7\u00e3o de Transgressor",
-        "url": "https://open.spotify.com/album/0PKAfcsf5TQeI1Ex7bgS5H"
+        "name": "Subirei a Montanha",
+        "url": "https://open.spotify.com/album/37EhgHdVrf9W1zaLbjADJx"
       },
       "artists": [
         {
-          "name": "Padre F\u00e1bio De Melo",
-          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
+          "name": "Dago Soares",
+          "url": "https://open.spotify.com/artist/6j82Fe8Y9AeqfUT3df8awS"
+        },
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
         }
       ],
-      "duration_ms": 250456,
-      "name": "Cora\u00e7\u00e3o de Transgressor",
-      "url": "https://open.spotify.com/track/1T72Pe1YOTYYKJNpvTOyMs"
+      "duration_ms": 255510,
+      "name": "Subirei a Montanha",
+      "url": "https://open.spotify.com/track/4ibqD0Z73ub2HmDywE2RGv"
     },
     {
       "added_at": "2023-11-03 04:37:52",
@@ -491,22 +495,18 @@
     {
       "added_at": "2023-11-03 04:37:52",
       "album": {
-        "name": "Subirei a Montanha",
-        "url": "https://open.spotify.com/album/37EhgHdVrf9W1zaLbjADJx"
+        "name": "Cora\u00e7\u00e3o de Transgressor",
+        "url": "https://open.spotify.com/album/0PKAfcsf5TQeI1Ex7bgS5H"
       },
       "artists": [
         {
-          "name": "Dago Soares",
-          "url": "https://open.spotify.com/artist/6j82Fe8Y9AeqfUT3df8awS"
-        },
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
         }
       ],
-      "duration_ms": 255510,
-      "name": "Subirei a Montanha",
-      "url": "https://open.spotify.com/track/4ibqD0Z73ub2HmDywE2RGv"
+      "duration_ms": 250456,
+      "name": "Cora\u00e7\u00e3o de Transgressor",
+      "url": "https://open.spotify.com/track/1T72Pe1YOTYYKJNpvTOyMs"
     },
     {
       "added_at": "2023-11-03 04:37:52",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-11-03 04:37:52",
       "album": {
+        "name": "Deus V\u00ea",
+        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
+      },
+      "artists": [
+        {
+          "name": "Evandro Jos\u00e9",
+          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
+        }
+      ],
+      "duration_ms": 249940,
+      "name": "Deus V\u00ea",
+      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
+    },
+    {
+      "added_at": "2023-11-03 04:37:52",
+      "album": {
         "name": "Serei Tudo",
         "url": "https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 264566,
       "name": "Serei Tudo",
       "url": "https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh"
-    },
-    {
-      "added_at": "2023-11-03 04:37:52",
-      "album": {
-        "name": "Deus V\u00ea",
-        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
-      },
-      "artists": [
-        {
-          "name": "Evandro Jos\u00e9",
-          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
-        }
-      ],
-      "duration_ms": 249940,
-      "name": "Deus V\u00ea",
-      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
     },
     {
       "added_at": "2023-11-03 04:37:52",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-11-03 04:37:52",
       "album": {
+        "name": "Hosana, Pt. 01",
+        "url": "https://open.spotify.com/album/5Nnu2Z67j4rbQm2zXMrm4N"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 214327,
+      "name": "Can\u00e7\u00e3o de Madalena",
+      "url": "https://open.spotify.com/track/1y26YuDAbMbnZfmsNvjCb3"
+    },
+    {
+      "added_at": "2023-11-03 04:37:52",
+      "album": {
         "name": "Nada Temerei",
         "url": "https://open.spotify.com/album/66tSxggLjDFU9NX7AYoGHQ"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 286000,
       "name": "Nada Temerei",
       "url": "https://open.spotify.com/track/0Az43n8eLEaGhnayh3MBK2"
-    },
-    {
-      "added_at": "2023-11-03 04:37:52",
-      "album": {
-        "name": "Hosana, Pt. 01",
-        "url": "https://open.spotify.com/album/5Nnu2Z67j4rbQm2zXMrm4N"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        }
-      ],
-      "duration_ms": 214327,
-      "name": "Can\u00e7\u00e3o de Madalena",
-      "url": "https://open.spotify.com/track/1y26YuDAbMbnZfmsNvjCb3"
     },
     {
       "added_at": "2023-11-03 04:37:52",

@@ -4,7 +4,7 @@
 
 > Traditional carols and hymns for a classic Christmas feeling.
 
-89 songs - 4 hr 0 min
+90 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Come Thou Fount Of Every Blessing](https://open.spotify.com/track/1m7kMiFTMuH3gBAZsNXC5B) | [John Bladh](https://open.spotify.com/artist/7Lcufo2TcRg56x6KUmhlOc) | [Joy Of Christmas](https://open.spotify.com/album/0ZqKApps6FNEiOGYhZ2MKZ) | 2:46 | 2021-11-19 |  |
 | [Come Thou Long Expected Jesus](https://open.spotify.com/track/1Bo6w9VDrKexPdDDzWOj5n) | [Anne Stahl](https://open.spotify.com/artist/75EMiZJs4kX9pxwH3O3WX4) | [Good Christian Men, Rejoice](https://open.spotify.com/album/5I6pNQUojbwiZz5ybNPDWO) | 2:51 | 2021-11-19 |  |
 | [Coventry Carol](https://open.spotify.com/track/6wjdQUvDqBtrHUoqeI9ehb) | [David Nevue](https://open.spotify.com/artist/7zbq3gjHu4JAiMV7dWbUdv) | [O Come Emmanuel](https://open.spotify.com/album/3yOqSiDRYHeoe8B3bH4bUT) | 4:05 | 2021-11-19 |  |
-| [Ding Dong! Merrily on High \- Herz und Mund und Tat und Leben, BWV 147: Jesu, bleibet meine Freude \(arr\. C.M\. Taylor for piano\)](https://open.spotify.com/track/3qURLCQx6PHG9HYrN4Yr0r) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Carolyne M\. Taylor](https://open.spotify.com/artist/684cQQ4irZEBSIp2tEzul4), [Jeffrey Biegel](https://open.spotify.com/artist/4icuZTJZA4AOw2BWuKdspv) | [A Steinway Christmas Album](https://open.spotify.com/album/1xyebt37cG56P72RwwlPEQ) | 4:32 | 2021-11-19 |  |
+| [Ding Dong Merrily on High](https://open.spotify.com/track/5vqMZbAU4yvKhZlZNBOGre) | [Teodor Seti](https://open.spotify.com/artist/26jqyiqSsIwsXWuz5hgctN) | [Ding Dong Merrily on High](https://open.spotify.com/album/28rlS1Z0VuczgX7HqlviJK) | 2:37 | 2023-11-21 |  |
+| [Ding Dong! Merrily on High \- Herz und Mund und Tat und Leben, BWV 147: Jesu, bleibet meine Freude \(arr\. C.M\. Taylor for piano\)](https://open.spotify.com/track/3qURLCQx6PHG9HYrN4Yr0r) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Carolyne M\. Taylor](https://open.spotify.com/artist/684cQQ4irZEBSIp2tEzul4), [Jeffrey Biegel](https://open.spotify.com/artist/4icuZTJZA4AOw2BWuKdspv) | [A Steinway Christmas Album](https://open.spotify.com/album/1xyebt37cG56P72RwwlPEQ) | 4:32 | 2021-11-19 | 2023-11-22 |
 | [Do You Hear What I Hear](https://open.spotify.com/track/4cchwOn0AJBffk0mlB8wmU) | [Manny Heights](https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb) | [I Heard The Bells On Christmas Day](https://open.spotify.com/album/3GfMZyyP8eMXxsNrU9jFPA) | 3:20 | 2021-11-19 |  |
 | [Entre le bœuf et l'âne gris \(Arr\. R\. Hayward for Guitar\)](https://open.spotify.com/track/6xT8cqiLYkHJIy2HaHC9ef) | [Rossini Hayward](https://open.spotify.com/artist/5EvaMEwPzhyR6T3quNHR1K) | [Stille Nacht: Christmas Carols for Guitar](https://open.spotify.com/album/3d5QmcTIJsOuQh2mU50x8F) | 2:14 | 2021-11-19 |  |
 | [Es ist ein Ros entsprungen \(Arr\. R\. Hayward for Guitar\)](https://open.spotify.com/track/0diYZsE9aogD5itSwwNRtG) | [Rossini Hayward](https://open.spotify.com/artist/5EvaMEwPzhyR6T3quNHR1K) | [Stille Nacht: Christmas Carols for Guitar](https://open.spotify.com/album/3d5QmcTIJsOuQh2mU50x8F) | 1:46 | 2021-11-19 | 2023-09-28 |

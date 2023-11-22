@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. Foto: Marcela Morelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,784 likes - 30 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,785 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 11 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
 | 12 | [Paloma](https://open.spotify.com/track/1hVPHCzRy4X0O84ouOVY9Q) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Celesteacustica](https://open.spotify.com/album/1tQKUvIE5Hy2AAu5vQ42xe) | 3:17 |
 | 13 | [No Podrás](https://open.spotify.com/track/0hBEnza4ST0mYX73QHTev1) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Tu Mejor Plan](https://open.spotify.com/album/2lQjC0dJQ6Ez3mFTSx6NaI) | 3:15 |
-| 14 | [La Jardinera](https://open.spotify.com/track/00zT0eMDElv45NrSp2xOjF) | [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF), [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q) | [Las Flores Buenas](https://open.spotify.com/album/6W6hyz4Wg8S0Uwxwhbs46q) | 3:54 |
-| 15 | [Harakiri](https://open.spotify.com/track/5AMKp7VIitj1mzjbmz6OaR) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [La Santa Patrona de los Corazones Negros](https://open.spotify.com/album/6vtdMIjyt4kd5a3VDB0lnm) | 3:33 |
+| 14 | [Harakiri](https://open.spotify.com/track/5AMKp7VIitj1mzjbmz6OaR) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [La Santa Patrona de los Corazones Negros](https://open.spotify.com/album/6vtdMIjyt4kd5a3VDB0lnm) | 3:33 |
+| 15 | [La Jardinera](https://open.spotify.com/track/00zT0eMDElv45NrSp2xOjF) | [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF), [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q) | [Las Flores Buenas](https://open.spotify.com/album/6W6hyz4Wg8S0Uwxwhbs46q) | 3:54 |
 | 16 | [Baldosa Floja](https://open.spotify.com/track/38Umd4ALhVqbmvDSamftBR) | [Soledad Villamil](https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD) | [Canta](https://open.spotify.com/album/6PDbU5wE5nZCAkXVIuvVm8) | 2:10 |
 | 17 | [Cuando Te Veo](https://open.spotify.com/track/66ahetX2yLo15DDrOAwuie) | [Daniela Herrero](https://open.spotify.com/artist/4DnisEwhpsBmBcyGvxRske) | [Cuando Te Veo](https://open.spotify.com/album/4H9lZRigGunQhbMCEZtwD1) | 2:36 |
 | 18 | [En Un Loop](https://open.spotify.com/track/1oVvL8GSh0VPOU77SqgCPz) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [En Un Loop](https://open.spotify.com/album/6M1UFFM1ziMCPLT7NxZ4B4) | 2:49 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 29 | [Crecer con todo](https://open.spotify.com/track/6SHyHEHReOLnQafBSfF68L) | [Julia Zenko](https://open.spotify.com/artist/5zsw1AANYqHiLeJ9GGHjLP) | [Crecer Con Todo](https://open.spotify.com/album/4B4Mv52aAJQCmDhgtOufEu) | 4:21 |
 | 30 | [Antes De Gira](https://open.spotify.com/track/06rdl9IZtSAVkYjeuKuQMV) | [María Rosa Yorio](https://open.spotify.com/artist/2GrKE2j3FFdSw8eAtrZqmq) | [Antes De Gira](https://open.spotify.com/album/18cGj1u47imxFyt40dZHjQ) | 3:33 |
 
-Snapshot ID: `MCw2YWViZjk4M2UyYzU2NjFjYmQwZDEzM2E1N2Y3ZmJhMzk4ZTU1MGVh`
+Snapshot ID: `MCw3ODFjYzRmZjczNzgyZjI0ZWNjYTExNTNiZjlhMTVlMGVhMDczMzFk`

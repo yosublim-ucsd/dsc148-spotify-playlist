@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-733 songs - 1 day 18 hr 31 min
+734 songs - 1 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,7 +391,8 @@
 | [Lights On \- F.A.M.E.](https://open.spotify.com/track/7dsW7x6ztvX7d0MFy4VTRS) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Lights On \(F.A.M.E.\)](https://open.spotify.com/album/5Mg274dVTMIyVNS7b0PwS1) | 3:41 | 2022-03-18 | 2022-07-29 |
 | [Like All My Friends](https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Like All My Friends](https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq) | 3:07 | 2022-04-01 | 2023-01-28 |
 | [Like I Am](https://open.spotify.com/track/0YNd8YWn8oWXAzCRndzMS4) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Like I Am](https://open.spotify.com/album/6pC64owlnDVzlsYDvIPFTb) | 5:01 | 2022-09-09 | 2023-03-11 |
-| [Lily](https://open.spotify.com/track/4vl9dAQphgp3kWPLg2gUXB) | [Francisco Martin](https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE) | [Lily](https://open.spotify.com/album/4isNJyjkK265rBCya1Zl5W) | 3:24 | 2023-06-02 |  |
+| [Lily](https://open.spotify.com/track/1ozY7x1q8nZqXVTsuBfUgg) | [Francisco Martin](https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE) | [Breakfast for Dinner](https://open.spotify.com/album/5QFaughTCnERwMq1dLJoaL) | 3:24 | 2023-06-02 |  |
+| [Lily](https://open.spotify.com/track/4vl9dAQphgp3kWPLg2gUXB) | [Francisco Martin](https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE) | [Lily](https://open.spotify.com/album/4isNJyjkK265rBCya1Zl5W) | 3:24 | 2023-06-02 | 2023-11-22 |
 | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/track/5C2tIXmumirF4juJNWGGP9) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Dangerous Levels of Introspection](https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD) | 3:26 | 2021-08-04 | 2022-07-29 |
 | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa) | 4:25 | 2023-09-22 |  |
 | [live more & love more](https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [live more & love more](https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4) | 2:38 | 2023-03-31 | 2023-06-03 |

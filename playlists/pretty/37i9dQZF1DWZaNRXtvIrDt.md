@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Willaris K and James James James
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,919 likes - 85 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,937 likes - 85 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 84 | [Flip Trix](https://open.spotify.com/track/2IMTDM2V4PIIXsNBnxjNdG) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S) | [MHVA3](https://open.spotify.com/album/2Qs6lsFqH2J7LeQOxbXUie) | 7:57 |
 | 85 | [Chuggalug](https://open.spotify.com/track/3YYQa3qMmKy1295pdzbdUy) | [Polito](https://open.spotify.com/artist/6O6fqsTlbgAkpge0oKhATO) | [Collapse Phase](https://open.spotify.com/album/6w02nI3DgXQ3AfjLOIyac0) | 6:38 |
 
-Snapshot ID: `MCw3ODU3NjljYWI1YmY2ZDFlMjBlZjYzNzY1ZGZjMGQwOTkyMzQ0YWRj`
+Snapshot ID: `MCwzMWRmNGNjZTc3MTE1YmE1MzcwMTE4ZjAwYzM0N2VlNjMzYmY2ZGE2`

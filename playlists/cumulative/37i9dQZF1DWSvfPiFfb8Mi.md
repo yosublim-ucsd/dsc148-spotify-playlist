@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-234 songs - 15 hr 57 min
+235 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [All The Things We Say](https://open.spotify.com/track/1KH8bxeGwgw1IxtzQUx6m5) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [All The Things We Say / Move Me](https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4) | 3:51 | 2023-06-09 |  |
 | [Amor](https://open.spotify.com/track/6bgs3RYz2AE8eJ5NJmBm8a) | [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [Amor](https://open.spotify.com/album/6ZYoYbyYrGZonOyeEOHPxg) | 4:01 | 2022-06-20 | 2023-06-22 |
 | [Ask Yourself \(Can You Dance\)](https://open.spotify.com/track/1BB8a33pfYW3bw0k7kRlBg) | [Angelo Ferreri](https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ) | [A Chance / Ask Yourself \(Can You Dance\)](https://open.spotify.com/album/1eTSe304zMIBmpFQ1Vj9hc) | 3:36 | 2023-05-19 | 2023-11-09 |
-| [Awesome Ways](https://open.spotify.com/track/5TXzZVDo9yl1hc85SBM24m) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Awesome Ways](https://open.spotify.com/album/0REKjgSZr8BaRYMDBiVqXL) | 3:08 | 2023-07-28 |  |
+| [Awesome Ways](https://open.spotify.com/track/5TXzZVDo9yl1hc85SBM24m) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Awesome Ways](https://open.spotify.com/album/0REKjgSZr8BaRYMDBiVqXL) | 3:08 | 2023-07-28 | 2023-11-22 |
 | [Back In Time \- Original Mix](https://open.spotify.com/track/2iMr4fmel0lQnL28yxOtIT) | [Ricky Razu](https://open.spotify.com/artist/72dCrABG4WTtpewWk7sc8v) | [Back In Time EP](https://open.spotify.com/album/4zwTBWt2PxJFKTiDZ8dgJY) | 6:15 | 2023-07-28 | 2023-08-12 |
 | [Bad Company \- Edit](https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O) | 3:28 | 2023-06-09 |  |
 | [Bamboo Mask](https://open.spotify.com/track/23xJy8COmTLKWsUcj3ng74) | [Boyoca](https://open.spotify.com/artist/2UZMTPwwvwD24gmqjX3OSE) | [Bamboo Mask](https://open.spotify.com/album/2MIf4ISMBARDWX8F5gZ9oz) | 3:43 | 2021-07-24 | 2023-05-20 |
@@ -117,6 +117,7 @@
 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 | 2023-08-18 |  |
 | [Kill The Soundboy](https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY) | [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v) | [Kill The Soundboy](https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH) | 6:44 | 2022-06-20 | 2023-06-04 |
 | [KILO](https://open.spotify.com/track/5OTSZ0D28LQQ7eyQBVykFM) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [KILO](https://open.spotify.com/album/52AvyYxCRm3RbgeIPebr0y) | 5:10 | 2023-05-19 |  |
+| [King of My Castle \(Purple Disco Machine Remix\) \(Edit\)](https://open.spotify.com/track/5oQwwbj26sFjxlL1oT4TJU) | [Wamdue Project](https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [King Of My Castle \(Purple Disco Machine Remix\)](https://open.spotify.com/album/0JqppbYzqLzTiB7oNqTKBM) | 3:19 | 2023-11-17 |  |
 | [King of My Castle \- \(Purple Disco Machine Remix\) \[Edit\]](https://open.spotify.com/track/03Hu4c9THPQJDIml8xRYgn) | [Wamdue Project](https://open.spotify.com/artist/2U33UlGhnPqg3B5xJTn3zm), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [King Of My Castle \(Purple Disco Machine Remix\)](https://open.spotify.com/album/4KvYiPXNUASfXFCXPXyZ8M) | 3:19 | 2023-08-11 | 2023-11-04 |
 | [Kiss of Life](https://open.spotify.com/track/0JbDY6lEgRxtb7f5v6xv8Y) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Kiss of Life](https://open.spotify.com/album/2gm5Yftyy6HCSpLlUpWtFn) | 3:13 | 2023-05-19 | 2023-11-18 |
 | [L.S.B.](https://open.spotify.com/track/6oemEFeEzyfzykENkTCbKf) | [Studio Barnhus](https://open.spotify.com/artist/3BQyyXUJs39bwh0o4W2Pvs) | [L.S.B.](https://open.spotify.com/album/4O8zXtocpAJZo4kjrhMJmc) | 4:12 | 2022-06-20 | 2023-05-23 |

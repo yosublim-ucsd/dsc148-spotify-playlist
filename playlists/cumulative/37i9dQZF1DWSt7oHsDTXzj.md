@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-220 songs - 12 hr 7 min
+222 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [That Was the Worst Christmas Ever!](https://open.spotify.com/track/6pL6TOmzoMq6ckBFGTaAT5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Songs For Christmas](https://open.spotify.com/album/6ZCbYO3B5eslkY3zHdss4A) | 3:18 | 2021-11-12 | 2022-07-29 |
 | [The Blizzard](https://open.spotify.com/track/0442MxTJy5BBYDLYtTB3Gr) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [The Blizzard](https://open.spotify.com/album/6BLCOiSMOaY1pFZ2hTWrxW) | 4:14 | 2021-11-12 | 2022-07-28 |
 | [The Blizzard](https://open.spotify.com/track/4iykPMYOPGgIRu3G8oicHo) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [The Blizzard](https://open.spotify.com/album/5unn4URn3OrLsgpdUJblN4) | 4:14 | 2021-11-12 | 2022-10-06 |
+| [The Christmas Song](https://open.spotify.com/track/6V3TFkg3aKRSu109j3yxV2) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [The Christmas Song](https://open.spotify.com/album/5afqwKiu72YDroqLPLTEA5) | 1:58 | 2023-11-17 |  |
 | [The Christmas Song \(Alternative Version\)](https://open.spotify.com/track/5jQrmU5rPtQaaztvCXixje) | [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [The Christmas Song](https://open.spotify.com/album/1M8hInKX0KKrYEH5Bu2fVX) | 2:05 | 2021-11-12 | 2022-07-01 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/5PLycideUdqJhZlNOn7DKh) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/album/2HvjWs3N4yuO6ie8tdGhMC) | 5:17 | 2021-11-12 | 2022-07-27 |
 | [The Christmas Waltz](https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd) | 2:47 | 2022-11-11 |  |
@@ -201,16 +202,17 @@
 | [ugly xmas sweater party](https://open.spotify.com/track/1yHF4X4RtaXHYaQzoQ9TUU) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [ugly xmas sweater party](https://open.spotify.com/album/42SBvg1Vs8eMGAILnG4hSI) | 3:28 | 2021-11-12 | 2023-11-21 |
 | [Under the Lights](https://open.spotify.com/track/0nPlaMV86iDMDKAXueGEFV) | [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9) | [Under the Lights](https://open.spotify.com/album/2nZd5rmiopzDpXS435mn2T) | 2:45 | 2022-11-11 | 2022-12-18 |
 | [Vegetarian Christmas](https://open.spotify.com/track/56iWDgPeaauhH7C3EWEE7l) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Vegetarian Christmas](https://open.spotify.com/album/1RRAz0Fa380MOhzVgJylCP) | 3:31 | 2021-11-12 | 2022-07-28 |
-| [Walking in the Air](https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf) | [Mimicking Birds](https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od) | [Walking in the Air](https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH) | 4:17 | 2021-11-12 |  |
+| [Walking in the Air](https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf) | [Mimicking Birds](https://open.spotify.com/artist/5PifaykkaJRJlWbUz3H0od) | [Walking in the Air](https://open.spotify.com/album/5HeEv4JIJTpJ4hgxnBIUcH) | 4:17 | 2021-11-12 | 2023-11-22 |
 | [We Should Be Together](https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [We Should Be Together](https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2) | 3:31 | 2022-11-21 | 2023-11-12 |
 | [We're the Lucky Ones](https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [We're The Lucky Ones](https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8) | 3:35 | 2021-11-12 |  |
 | [When Christmas Comes Again](https://open.spotify.com/track/19Gx7n7xkTJ29rA8990QKx) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When Christmas Comes Again](https://open.spotify.com/album/1Vw3Muq7BgvhYF5eLL5fjD) | 3:17 | 2022-12-02 |  |
-| [When I Get Home for Christmas](https://open.spotify.com/track/3KyVary6bJfAK5cZCWgW1j) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [When I Get Home for Christmas](https://open.spotify.com/album/50ctfjOYbjIn56CfxUxdZD) | 4:16 | 2021-11-12 |  |
+| [When I Get Home for Christmas](https://open.spotify.com/track/3KyVary6bJfAK5cZCWgW1j) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [When I Get Home for Christmas](https://open.spotify.com/album/50ctfjOYbjIn56CfxUxdZD) | 4:16 | 2021-11-12 | 2023-11-22 |
 | [Whiskey and Winter](https://open.spotify.com/track/64VCX56djfNzlTQ6yrI9ZF) | [Hushtones](https://open.spotify.com/artist/2kIChQGSFExLsYUfo0bSIB) | [Whiskey and Winter](https://open.spotify.com/album/10ExGQBrNuKJssOyOfvXcj) | 3:10 | 2022-01-07 | 2022-07-01 |
 | [White Christmas](https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [White Christmas](https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14) | 2:32 | 2021-11-12 |  |
 | [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 | 2021-11-12 |  |
 | [White Winter Hymnal](https://open.spotify.com/track/7II56zDppy5Zyj1oJhkkZ1) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection 2006\-2009](https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud) | 2:27 | 2022-11-11 | 2022-11-13 |
 | [White Winter Hymnal](https://open.spotify.com/track/1kqG1PQ2DQxd9XD6ofoOD9) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [White Winter Hymnal](https://open.spotify.com/album/1dR5MaLcuyQFAtS8k6Xs84) | 2:27 | 2021-11-12 | 2022-07-29 |
+| [White Winter Hymnal](https://open.spotify.com/track/4NCBDTOYQmBmXXQEs3pUDB) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [White Winter Hymnal](https://open.spotify.com/album/5jBXk71cVw1kRlyaQ1kbO5) | 2:14 | 2023-11-17 |  |
 | [Winter Love](https://open.spotify.com/track/5oXaaoRtvQ93u0bOBNS13D) | [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [Winter Love](https://open.spotify.com/album/2898n8ziD4YJzeLfmc9XEN) | 2:49 | 2021-11-12 | 2022-07-16 |
 | [Winter Song](https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Winter Song](https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT) | 4:14 | 2021-11-12 |  |
 | [Winter Song](https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu) | 2:43 | 2022-12-23 |  |

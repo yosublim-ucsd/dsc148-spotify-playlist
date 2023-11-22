@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love\. Cover: Thelma Plum
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,971 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,083 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 79 | [All White](https://open.spotify.com/track/60cnpF1CzUx286QwoPFwqv) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [All White](https://open.spotify.com/album/21jO577CzbYLBWg66ubYMH) | 3:42 |
 | 80 | [Midwest](https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Midwest](https://open.spotify.com/album/2lPCTjO279HYs6TzigZihc) | 4:08 |
 
-Snapshot ID: `MCxmZjg5YmZkODJmMjcxYTQxY2EzYzgwZTI4MDM5YmY2ZmJlOTBhMzk0`
+Snapshot ID: `MCw3ZjA2YWJkOWY1MDUxZjBmMTlkOTg0MDZjNGQxZWRjMzBhYmI5NWRj`

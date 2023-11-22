@@ -1,12 +1,12 @@
 {
   "description": "Dance and Electronic tracks for the season <3",
-  "num_followers": 55668,
+  "num_followers": 55825,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDZlNDJlNzFhZjRkMzViMzk5NTM5YTQ2N2VmZjc4NGM1MjczZTNl",
+  "snapshot_id": "MCwzNzRjZWI4NzFiZDc4MjBmMDQ0ZTgyMWI5ZWY2MWM3YzhiZmJkZDM5",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -371,8 +371,8 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Kaskade Christmas Deluxe",
-        "url": "https://open.spotify.com/album/1xGImGcWsxl2BiB3Ky7g6I"
+        "name": "Kaskade Christmas Volume 2",
+        "url": "https://open.spotify.com/album/1ad4N7iaoiJtwXZDEX085v"
       },
       "artists": [
         {
@@ -380,13 +380,13 @@
           "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
         },
         {
-          "name": "Soran",
-          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
+          "name": "The Moth & The Flame",
+          "url": "https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R"
         }
       ],
-      "duration_ms": 201400,
-      "name": "Jingle Bells (feat. Soran)",
-      "url": "https://open.spotify.com/track/4q6356bqn2qC7t3R6TVR6L"
+      "duration_ms": 191478,
+      "name": "Angels we have Heard",
+      "url": "https://open.spotify.com/track/36kN6zMizaH3nfp5dzQYZZ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -403,22 +403,6 @@
       "duration_ms": 165959,
       "name": "Jingle Bells - Bass",
       "url": "https://open.spotify.com/track/2ceTja5QWOyt4qMLAcyW0h"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "A Very Decent Christmas",
-        "url": "https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph"
-      },
-      "artists": [
-        {
-          "name": "Gent & Jawns",
-          "url": "https://open.spotify.com/artist/3NmuArRqqfxT4rvFSgb0cx"
-        }
-      ],
-      "duration_ms": 216986,
-      "name": "Turn Up Ye Merry Gentlemen",
-      "url": "https://open.spotify.com/track/7h67jn17fbjofhCBE6kHCe"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -448,6 +432,22 @@
       },
       "artists": [
         {
+          "name": "Gent & Jawns",
+          "url": "https://open.spotify.com/artist/3NmuArRqqfxT4rvFSgb0cx"
+        }
+      ],
+      "duration_ms": 216986,
+      "name": "Turn Up Ye Merry Gentlemen",
+      "url": "https://open.spotify.com/track/7h67jn17fbjofhCBE6kHCe"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "A Very Decent Christmas",
+        "url": "https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph"
+      },
+      "artists": [
+        {
           "name": "Diplo",
           "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         },
@@ -463,6 +463,26 @@
       "duration_ms": 104727,
       "name": "Frosty Bounce",
       "url": "https://open.spotify.com/track/0pi9cfkCshIvp7HH43JzIj"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Kaskade Christmas Deluxe",
+        "url": "https://open.spotify.com/album/1xGImGcWsxl2BiB3Ky7g6I"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Soran",
+          "url": "https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Jingle Bells (feat. Soran)",
+      "url": "https://open.spotify.com/track/4q6356bqn2qC7t3R6TVR6L"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -487,22 +507,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Kaskade Christmas Volume 2",
-        "url": "https://open.spotify.com/album/1ad4N7iaoiJtwXZDEX085v"
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D"
       },
       "artists": [
         {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "The Moth & The Flame",
-          "url": "https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         }
       ],
-      "duration_ms": 191478,
-      "name": "Angels we have Heard",
-      "url": "https://open.spotify.com/track/36kN6zMizaH3nfp5dzQYZZ"
+      "duration_ms": 144440,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -527,22 +543,6 @@
       "duration_ms": 145029,
       "name": "Christmas Rave",
       "url": "https://open.spotify.com/track/6rYXrgCSkfMmEscYd7vzuN"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 144440,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -583,6 +583,38 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Christmas Time",
+        "url": "https://open.spotify.com/album/6aBW3MUKLOFMaRKSrul4uk"
+      },
+      "artists": [
+        {
+          "name": "Roman Messer",
+          "url": "https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "Christmas Time",
+      "url": "https://open.spotify.com/track/7cMmPMH9mgXnQtBabmSSFP"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/5FovzlmOYobIs5JRk9kZIz"
+      },
+      "artists": [
+        {
+          "name": "Wubbaduck",
+          "url": "https://open.spotify.com/artist/36JJbH66Q0tZbKcnjvliDT"
+        }
+      ],
+      "duration_ms": 150021,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/6abu6YFNdXxj6PFUdkGUfs"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "All I Want for Christmas Is You",
         "url": "https://open.spotify.com/album/5kUwH6sjr4BFUTRqXZOGjb"
       },
@@ -607,54 +639,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Jingle Bells",
-        "url": "https://open.spotify.com/album/5FovzlmOYobIs5JRk9kZIz"
+        "name": "Christmas Days",
+        "url": "https://open.spotify.com/album/03IuOYxa1LmABJKBIhgKLo"
       },
       "artists": [
         {
-          "name": "Wubbaduck",
-          "url": "https://open.spotify.com/artist/36JJbH66Q0tZbKcnjvliDT"
-        }
-      ],
-      "duration_ms": 150021,
-      "name": "Jingle Bells",
-      "url": "https://open.spotify.com/track/6abu6YFNdXxj6PFUdkGUfs"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Caro\u0308l Von Holz",
-        "url": "https://open.spotify.com/album/7cBwygMg5dIn0JTZw76LfY"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         },
         {
-          "name": "Holzbl\u00e4ser",
-          "url": "https://open.spotify.com/artist/5Yqjr7yGAsLPpu4rmc39lL"
+          "name": "Josh Cumbee",
+          "url": "https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E"
         }
       ],
-      "duration_ms": 254971,
-      "name": "Caro\u0308l Von Holz",
-      "url": "https://open.spotify.com/track/2bOEI6xZhYDIHcE5QgRSoD"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Christmas Time",
-        "url": "https://open.spotify.com/album/6aBW3MUKLOFMaRKSrul4uk"
-      },
-      "artists": [
-        {
-          "name": "Roman Messer",
-          "url": "https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR"
-        }
-      ],
-      "duration_ms": 167619,
-      "name": "Christmas Time",
-      "url": "https://open.spotify.com/track/7cMmPMH9mgXnQtBabmSSFP"
+      "duration_ms": 196636,
+      "name": "Christmas Days",
+      "url": "https://open.spotify.com/track/5wOf53iL6wzYqd31jLTmPQ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -679,26 +679,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Christmas Days",
-        "url": "https://open.spotify.com/album/03IuOYxa1LmABJKBIhgKLo"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Josh Cumbee",
-          "url": "https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E"
-        }
-      ],
-      "duration_ms": 196636,
-      "name": "Christmas Days",
-      "url": "https://open.spotify.com/track/5wOf53iL6wzYqd31jLTmPQ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Winter Wonderland ^Bsiide",
         "url": "https://open.spotify.com/album/6pcKxl4tKNedCa0n5jmJ3a"
       },
@@ -711,6 +691,50 @@
       "duration_ms": 178739,
       "name": "Winter Wonderland ^Bsiide",
       "url": "https://open.spotify.com/track/3o61WoISh2MzY6FDB3G5ZE"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Caro\u0308l Von Holz",
+        "url": "https://open.spotify.com/album/7cBwygMg5dIn0JTZw76LfY"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Holzbl\u00e4ser",
+          "url": "https://open.spotify.com/artist/5Yqjr7yGAsLPpu4rmc39lL"
+        }
+      ],
+      "duration_ms": 254971,
+      "name": "Caro\u0308l Von Holz",
+      "url": "https://open.spotify.com/track/2bOEI6xZhYDIHcE5QgRSoD"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Christmas With You",
+        "url": "https://open.spotify.com/album/35w6FkcyNuQ3wtMG1sJhNX"
+      },
+      "artists": [
+        {
+          "name": "Kayote",
+          "url": "https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn"
+        },
+        {
+          "name": "Tom Faber",
+          "url": "https://open.spotify.com/artist/3fJXOOFs3qd12qPgcZvzFJ"
+        },
+        {
+          "name": "JAIKO",
+          "url": "https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT"
+        }
+      ],
+      "duration_ms": 147096,
+      "name": "Christmas With You",
+      "url": "https://open.spotify.com/track/6CYRNlf9WHdKeuOFNZWTzO"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -731,26 +755,6 @@
       "duration_ms": 163312,
       "name": "It's Christmas Time",
       "url": "https://open.spotify.com/track/6pFXCkYAwiSHTP2Z9E4U74"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "A Very Very Decent Christmas",
-        "url": "https://open.spotify.com/album/7umJPFg6STzH5RcBY5IxLt"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        },
-        {
-          "name": "Jesse Slayter",
-          "url": "https://open.spotify.com/artist/7l318toznsk9SiwZ4GhmrT"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Rock Them Bells",
-      "url": "https://open.spotify.com/track/5BfSrnlJdpRpSrCRoiAIja"
     }
   ],
   "unique_name": "Electronic Christmas",

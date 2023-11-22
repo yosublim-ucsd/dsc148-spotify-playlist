@@ -3288,7 +3288,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 125538,
       "name": "Bright Encounters",
       "url": "https://open.spotify.com/track/5sNMW4UPPJ8Zosu9elP9dj"
@@ -6388,7 +6388,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 153846,
       "name": "Enough",
       "url": "https://open.spotify.com/track/2ALlB3nsSzTahHS1pH8Qnz"
@@ -11718,7 +11718,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Longing For",
       "url": "https://open.spotify.com/track/6tC7lce2KkOFAB4dvK5ZpM"
@@ -23440,6 +23440,24 @@
       "duration_ms": 136941,
       "name": "Wistful Silhouettes",
       "url": "https://open.spotify.com/track/5Ltgq6XMTilOXhNiSQZrVT"
+    },
+    {
+      "album": {
+        "name": "With your eyes!",
+        "url": "https://open.spotify.com/album/2WomwpHMSA6E2yrMSEJxCI"
+      },
+      "artists": [
+        {
+          "name": "Duos On Mars",
+          "url": "https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149815,
+      "name": "With your eyes!",
+      "url": "https://open.spotify.com/track/1USmYJcOKa94oA58sRnOXJ"
     },
     {
       "album": {

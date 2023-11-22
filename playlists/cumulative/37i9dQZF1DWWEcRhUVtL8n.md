@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: hemlocke springs
 
-1,707 songs - 3 day 17 hr 57 min
+1,708 songs - 3 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -675,6 +675,7 @@
 | [high school](https://open.spotify.com/track/6KYSdsBXxbURZfIht3mES7) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [high school](https://open.spotify.com/album/25JmjDGyF3OClQOO7TZtAY) | 2:25 | 2021-09-10 | 2022-04-09 |
 | [High School](https://open.spotify.com/track/18WbWMRXGmW2GFaTm5MMe2) | [Walkabout](https://open.spotify.com/artist/1L5pkrtjkNysKt7YJYtLKZ) | [High School](https://open.spotify.com/album/2ClKWz9V3rnLSlksV9JEXe) | 3:00 | 2021-12-03 | 2022-04-16 |
 | [highway 99](https://open.spotify.com/track/1hoPOPGotOlZ8c8u3NEYkr) | [LO LA](https://open.spotify.com/artist/5AuJyIGhbMbssJq6LIEquF) | [highway 99](https://open.spotify.com/album/3v5AEs6vC3Og8nobMiiLLF) | 3:39 | 2022-01-21 | 2022-04-16 |
+| [hold me, never let go](https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Her Favorite Flowers](https://open.spotify.com/album/3ZtwVDikRanGqN17IGpWgh) | 3:13 | 2023-09-22 |  |
 | [hold me, never let go](https://open.spotify.com/track/6QC5Dtp38M05T536UONe6J) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Her Favorite Flowers](https://open.spotify.com/album/5rFnAfQqhy7sFGSq15gN7g) | 3:13 | 2023-09-22 | 2023-11-18 |
 | [Hold My Breath](https://open.spotify.com/track/6vmk2FBXwYiiicPUJ5lXuD) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3), [ufo ufo](https://open.spotify.com/artist/1TsvuGn3XJ4F04fRavTonu) | [Hold My Breath](https://open.spotify.com/album/4c7BrpnQzdI0PIaqBH8oj1) | 3:43 | 2022-01-28 | 2022-04-21 |
 | [Holly Holly](https://open.spotify.com/track/609PjstZKFBH2ryWbJFzev) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Holly Holly](https://open.spotify.com/album/0g7Pwo6QefrUgvPNhJLFR7) | 2:42 | 2021-10-02 | 2022-04-08 |
@@ -1263,7 +1264,7 @@
 | [Roadkill](https://open.spotify.com/track/3Rlj2kckSXwhcv1NarJyEn) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On a Conditional Form](https://open.spotify.com/album/65l2wbCvQ1XGtZ4PbKqF2i) | 2:55 | 2021-01-18 | 2021-06-03 |
 | [Rock Back & Forth](https://open.spotify.com/track/1pEpnFsBtUQEtA7TfKS1EH) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [Rock Back & Forth](https://open.spotify.com/album/3VC2jwx5b1PTfiO6AQ2Pz2) | 3:05 | 2021-03-22 | 2021-05-28 |
 | [Rocket On My Feet](https://open.spotify.com/track/2VRuPvRr4dNrd7ITIu1ia7) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Rocket On My Feet](https://open.spotify.com/album/0TgONTUERlpYs61qIHb5IR) | 4:07 | 2022-02-25 | 2022-04-21 |
-| [Rocket Ship](https://open.spotify.com/track/7ul0qSFpZHXS8XncqBNIwS) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Rocket Ship](https://open.spotify.com/album/7av0cujFS6fXO1oQxUpm7m) | 1:29 | 2023-04-21 |  |
+| [Rocket Ship](https://open.spotify.com/track/7ul0qSFpZHXS8XncqBNIwS) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Rocket Ship](https://open.spotify.com/album/7av0cujFS6fXO1oQxUpm7m) | 1:29 | 2023-04-21 | 2023-11-22 |
 | [Rockstar](https://open.spotify.com/track/1fpvdpEUe6jncotfqNGRW8) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Rockstar](https://open.spotify.com/album/3pwHONJw42S7p9b6djAUzA) | 3:28 | 2020-10-13\* | 2020-10-16 |
 | [Rollerskates](https://open.spotify.com/track/2N8JOMhgbI28g9h3C0kPZY) | [Ryann](https://open.spotify.com/artist/5EJHdetWppJ5mcyyU2HN52) | [Emotions on Rollerskates](https://open.spotify.com/album/1gIi3xEGhV2g60G685E9cW) | 3:19 | 2020-10-13\* | 2021-02-26 |
 | [Romeo & Juliet](https://open.spotify.com/track/1VyA8mbSyXOdJx2lguR8Uu) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Romeo & Juliet](https://open.spotify.com/album/6Bdil490atXzxeG4pevs7o) | 2:46 | 2022-06-17 | 2022-10-08 |

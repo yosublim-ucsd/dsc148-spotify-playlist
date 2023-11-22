@@ -1,15 +1,31 @@
 {
   "description": "\u5fd9\u3057\u304b\u3063\u305f1\u65e5\u306e\u7d42\u308f\u308a\u306f\u3001\u534a\u8eab\u6d74\u3068\u5fc3\u306b\u6c81\u307f\u308b\u97f3\u697d\u3067\u3086\u3063\u305f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3002",
-  "num_followers": 44697,
+  "num_followers": 44709,
   "original_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzQ1YTlmMDA3ZmY4MmMwMmExYmMxMzNmMWZmMTk2YTc1ZjIyMDc0",
+  "snapshot_id": "MCw5NTFiOGQ3MTU4MDI1Mzg3NzYxOTlhMmRmYWRmODkzMmE0YTk0NGFm",
   "tracks": [
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
+      "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 261165,
+      "name": "A Running Start",
+      "url": "https://open.spotify.com/track/0VEjM4LYuOxPCtrtKuwbuq"
+    },
+    {
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
@@ -25,23 +41,27 @@
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
-        "name": "Dusk to Dawn",
-        "url": "https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be"
+        "name": "Just A Game feat. Benny Sings",
+        "url": "https://open.spotify.com/album/1z4MVjlHPchvfc8BAZaXqr"
       },
       "artists": [
         {
-          "name": "Lamp",
-          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
+        },
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
         }
       ],
-      "duration_ms": 230044,
-      "name": "Autumn Letter",
-      "url": "https://open.spotify.com/track/6VTBW8fe5SX7qxhhHREKmS"
+      "duration_ms": 259539,
+      "name": "Just A Game feat. Benny Sings",
+      "url": "https://open.spotify.com/track/3Hjrizdjm4Knd5KiVgKW1l"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "Little Blue (feat. Brandi Carlile)",
         "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
@@ -61,43 +81,23 @@
       "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
-        "name": "Conflict",
-        "url": "https://open.spotify.com/album/2nQEY7KQXip32OrIyOGJc4"
+        "name": "Dusk to Dawn",
+        "url": "https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be"
       },
       "artists": [
         {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+          "name": "Lamp",
+          "url": "https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX"
         }
       ],
-      "duration_ms": 167500,
-      "name": "Conflict",
-      "url": "https://open.spotify.com/track/6riC3JbelswTdXrOyuREzM"
+      "duration_ms": 230044,
+      "name": "Autumn Letter",
+      "url": "https://open.spotify.com/track/6VTBW8fe5SX7qxhhHREKmS"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
-      "album": {
-        "name": "Mermaid",
-        "url": "https://open.spotify.com/album/5bmgJcXApczi08TVQGNR8F"
-      },
-      "artists": [
-        {
-          "name": "Skaai",
-          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
-        },
-        {
-          "name": "uin",
-          "url": "https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw"
-        }
-      ],
-      "duration_ms": 174219,
-      "name": "Mermaid",
-      "url": "https://open.spotify.com/track/5KpPfyynOV0kCOaHXd5eeb"
-    },
-    {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "Notes From A Wrist",
         "url": "https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht"
@@ -113,23 +113,23 @@
       "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
+        "name": "Conflict",
+        "url": "https://open.spotify.com/album/2nQEY7KQXip32OrIyOGJc4"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
         }
       ],
-      "duration_ms": 233617,
-      "name": "I Knew You Were Trouble - Spotify Singles",
-      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
+      "duration_ms": 167500,
+      "name": "Conflict",
+      "url": "https://open.spotify.com/track/6riC3JbelswTdXrOyuREzM"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "Eimosezu/Good Luck",
         "url": "https://open.spotify.com/album/4WCNqpJ3itK3YZULcavlrz"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/0cymj9Y9YV5ytzHUTRaylW"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "replica",
         "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
@@ -205,23 +205,23 @@
       "url": "https://open.spotify.com/track/12CAcVzra8ZX8WGCRs73r9"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
-        "name": "Javelin",
-        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 261165,
-      "name": "A Running Start",
-      "url": "https://open.spotify.com/track/0VEjM4LYuOxPCtrtKuwbuq"
+      "duration_ms": 233617,
+      "name": "I Knew You Were Trouble - Spotify Singles",
+      "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "NEW BORN GHOST",
         "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/0TtzPfEvqp8YasVy0xOsvd"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "Green Light",
         "url": "https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/51CXq1aLX96DMZszfTAxy9"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "The Lost Petals",
         "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
@@ -269,7 +269,43 @@
       "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
+      "album": {
+        "name": "Mermaid",
+        "url": "https://open.spotify.com/album/5bmgJcXApczi08TVQGNR8F"
+      },
+      "artists": [
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        },
+        {
+          "name": "uin",
+          "url": "https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw"
+        }
+      ],
+      "duration_ms": 174219,
+      "name": "Mermaid",
+      "url": "https://open.spotify.com/track/5KpPfyynOV0kCOaHXd5eeb"
+    },
+    {
+      "added_at": "2023-11-21 17:52:13",
+      "album": {
+        "name": "Sekaino Owarini",
+        "url": "https://open.spotify.com/album/68lKm8eBspdlrvLURlu3Ki"
+      },
+      "artists": [
+        {
+          "name": "Sou Yamasaki",
+          "url": "https://open.spotify.com/artist/0ZVL58XQLY5kUCSKRIVhOs"
+        }
+      ],
+      "duration_ms": 244500,
+      "name": "Sekaino Owarini",
+      "url": "https://open.spotify.com/track/6ZoXL8YgyqPJkVWmD4AUoB"
+    },
+    {
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
@@ -285,39 +321,7 @@
       "url": "https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
-      "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
-    },
-    {
-      "added_at": "2023-11-16 15:00:00",
-      "album": {
-        "name": "From The Start",
-        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 169573,
-      "name": "From The Start",
-      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
-    },
-    {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "\u30e9\u30f3\u30d7\u5e7b\u60f3",
         "url": "https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc"
@@ -333,7 +337,7 @@
       "url": "https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "Javelin",
         "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
@@ -349,7 +353,7 @@
       "url": "https://open.spotify.com/track/2GEs9D56FRHqUAEwvlvBpw"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "Romantic Homicide",
         "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
@@ -365,30 +369,26 @@
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
-        "name": "A Night To Remember",
-        "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        },
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         }
       ],
-      "duration_ms": 233388,
-      "name": "A Night To Remember",
-      "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
-        "name": "Bewitched",
-        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
       },
       "artists": [
         {
@@ -396,12 +396,12 @@
           "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 234266,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "Nectar.",
         "url": "https://open.spotify.com/album/1InAJl1AGu9H9hjt1lOtGe"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/5YamNEPEtoovtVgLWPZThg"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "Petals to Thorns",
         "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "Cry For You",
         "url": "https://open.spotify.com/album/7rRge1A2yeEk3KUIz76qxe"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/1T2pnp74o3kbvT4zhyojAy"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "Paint My Bedroom Black",
         "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/0JJh7LqfSiVfDrrDwcEQJL"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "Down in the Willow Garden (with Rufus Wainwright) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
         "url": "https://open.spotify.com/album/5cHVlOYT8jKqo3VFIUkTRz"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/7cEHxL9EDU14gpH8UhEM1k"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "\u30d6\u30eb\u30fc\u30ef\u30f3\u30c0\u30fc",
         "url": "https://open.spotify.com/album/2sTCnK7Omn6Fqym82oxurH"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/6nXfMNZEVy7F4kDGahfJm7"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "Paint My Bedroom Black",
         "url": "https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/7cK2XNWfStvxYg6NOfFLoe"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "call me",
         "url": "https://open.spotify.com/album/53RZRwrE2R70bsJ3DPn7My"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/49WCwFt5TTXeEVfK3aB5Ln"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "Do You Like Me?",
         "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
@@ -557,23 +557,27 @@
       "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
-        "name": "this is what autumn feels like",
-        "url": "https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI"
+        "name": "A Night To Remember",
+        "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
       },
       "artists": [
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 219909,
-      "name": "this is what autumn feels like",
-      "url": "https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G"
+      "duration_ms": 233388,
+      "name": "A Night To Remember",
+      "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "HATCHING",
         "url": "https://open.spotify.com/album/1tDBarEBsnMLa12YqDgCGR"
@@ -589,7 +593,7 @@
       "url": "https://open.spotify.com/track/6DRS16Q6LYDdxnkh90oaTI"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "Bewitched",
         "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
@@ -600,12 +604,28 @@
           "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 225360,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx"
+      "duration_ms": 234266,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
+      "album": {
+        "name": "this is what autumn feels like",
+        "url": "https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 219909,
+      "name": "this is what autumn feels like",
+      "url": "https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G"
+    },
+    {
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "I met you when I was 18. (the playlist)",
         "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
@@ -621,23 +641,7 @@
       "url": "https://open.spotify.com/track/2MOoIbJWIYikwIXjBDe26i"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
-      "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 212333,
-      "name": "Bug Like an Angel",
-      "url": "https://open.spotify.com/track/45KMdPDdZTxcXW3lw10R70"
-    },
-    {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "NIKI Acoustic Sessions: Head In The Clouds II",
         "url": "https://open.spotify.com/album/00ikjZ4maHRaqxMI96NPQD"
@@ -657,7 +661,7 @@
       "url": "https://open.spotify.com/track/5WkCcSa78lM1Ym4LXzJUiN"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "Valparaiso",
         "url": "https://open.spotify.com/album/2rX7ye6GRZ7rRGWRGjlHnr"
@@ -673,7 +677,7 @@
       "url": "https://open.spotify.com/track/4lhbMN6hbhlr221DJs3c9F"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "anatomy",
         "url": "https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg"
@@ -689,7 +693,7 @@
       "url": "https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "The Joker And The Queen (feat. Taylor Swift)",
         "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
@@ -709,7 +713,7 @@
       "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "Bewitched",
         "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
@@ -725,7 +729,7 @@
       "url": "https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
@@ -753,7 +757,7 @@
       "url": "https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "Butterflies (feat. AURORA)",
         "url": "https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU"
@@ -773,7 +777,7 @@
       "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -789,7 +793,7 @@
       "url": "https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "Comedy",
         "url": "https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn"
@@ -805,23 +809,7 @@
       "url": "https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
-      "album": {
-        "name": "Bubblegum",
-        "url": "https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 279133,
-      "name": "Bubblegum",
-      "url": "https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP"
-    },
-    {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "colorblind",
         "url": "https://open.spotify.com/album/5P0vqIQlY92T0uYUcYw0yI"
@@ -837,7 +825,23 @@
       "url": "https://open.spotify.com/track/4o3XxiQ9BljY4OU38zanC0"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
+      "album": {
+        "name": "Mirror (Deluxe)",
+        "url": "https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175550,
+      "name": "Sad Forever",
+      "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
+    },
+    {
+      "added_at": "2023-11-21 17:52:13",
       "album": {
         "name": "Bewitched",
         "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
@@ -857,20 +861,20 @@
       "url": "https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe"
     },
     {
-      "added_at": "2023-11-16 15:00:00",
+      "added_at": "2023-11-21 17:52:13",
       "album": {
-        "name": "Did you know that there's a tunnel under Ocean Blvd",
-        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+        "name": "Angel Face",
+        "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
         }
       ],
-      "duration_ms": 295201,
-      "name": "The Grants",
-      "url": "https://open.spotify.com/track/3KbOflJ5JqHWtmco4PiO3h"
+      "duration_ms": 232277,
+      "name": "Doesn\u2019t Do Me Any Good",
+      "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
     }
   ],
   "unique_name": "\u534a\u8eab\u6d74\u30ce\u30b9\u30b9\u30e1",

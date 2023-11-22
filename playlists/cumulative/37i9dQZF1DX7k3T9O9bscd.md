@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world\. Melody's Echo Chamber on cover.
 
-294 songs - 23 hr 44 min
+295 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Level 1](https://open.spotify.com/track/4sIzOxFgdxbYmrjkoBTQdn) | [Al Lover](https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A), [Caïro Liberation Front](https://open.spotify.com/artist/4ekkoU6ZmScTU9kqw3C09r) | [Nymphaea Caerulea EP](https://open.spotify.com/album/2KxsEPKPfo058TcPxggwri) | 3:16 | 2021-11-12 | 2022-07-28 |
 | [Los Duelistas](https://open.spotify.com/track/0wrDrk9j23NV6OnGaTpib4) | [Los Árboles Mentirosos](https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK) | [Días Grises](https://open.spotify.com/album/04o1UCwDFrOPmHEE9iRQKy) | 4:25 | 2022-04-09 | 2022-07-27 |
 | [Los Estimados](https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Los Estimados](https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB) | 4:37 | 2022-09-03 | 2023-11-02 |
+| [Los Estimados](https://open.spotify.com/track/6AvC278qiJnaF5jj7ariso) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Los Estimados](https://open.spotify.com/album/3B98l6muwFWFXI9BkcR34N) | 4:37 | 2023-08-02 |  |
 | [Lost Heads](https://open.spotify.com/track/1t6GfUPrPVJoe7GxWTkfwW) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Lost Heads](https://open.spotify.com/album/7MSt0uFGyUS5dfEzdhE2Za) | 6:26 | 2021-11-12 | 2022-07-29 |
 | [Lost Heads](https://open.spotify.com/track/6f8wIpMdNnL7CZ8zsfmh6v) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Stars Are the Light](https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5) | 6:26 | 2021-11-12 |  |
 | [Man It Feels Like Space Again](https://open.spotify.com/track/4LqQinWUzMl3QmRlO3Wgbh) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Man It Feels Like Space Again](https://open.spotify.com/album/60aAmcYX5tw7r9ZQ1HF34q) | 8:21 | 2022-04-12 |  |
@@ -282,7 +283,7 @@
 | [Venus](https://open.spotify.com/track/7kUMtpiRKDWVUOBfRX0eLd) | [The Exorcist GBG](https://open.spotify.com/artist/6NYa4gzHg26Dc7hFbaHGBV) | [The Exorcist GBG](https://open.spotify.com/album/7p9hlxuj9HbFC25xMJqV4S) | 2:54 | 2021-11-12 | 2022-07-17 |
 | [Vestir de Mujer](https://open.spotify.com/track/1tLIdG2aSb8IR7S8QpyXMO) | [Doctor Explosion](https://open.spotify.com/artist/2VzZ1D51z8PEXsAgAwlQ3q) | [Vestir de Mujer](https://open.spotify.com/album/4vyN1YSc2zUq4nUmPQc7tR) | 2:30 | 2022-06-08 | 2022-07-15 |
 | [Victor's Belt](https://open.spotify.com/track/103SLYASMHdoZq1Ls6r2hR) | [Jaialai](https://open.spotify.com/artist/3dFAQoWOP8AIuLcqhf416Q) | [Victor's Belt](https://open.spotify.com/album/73t3CqNeemgspQX98ww9Wq) | 3:10 | 2021-11-12 | 2022-07-27 |
-| [Victor's Belt](https://open.spotify.com/track/05mUXc20CCu93SnqWVAscp) | [Jaialai](https://open.spotify.com/artist/3dFAQoWOP8AIuLcqhf416Q) | [Victor's Belt](https://open.spotify.com/album/6wY4XmQTsy1neCkX1yzaQF) | 3:12 | 2021-11-12 |  |
+| [Victor's Belt](https://open.spotify.com/track/05mUXc20CCu93SnqWVAscp) | [Jaialai](https://open.spotify.com/artist/3dFAQoWOP8AIuLcqhf416Q) | [Victor's Belt](https://open.spotify.com/album/6wY4XmQTsy1neCkX1yzaQF) | 3:12 | 2021-11-12 | 2023-11-22 |
 | [Wading Out](https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:41 | 2021-11-12 |  |
 | [Waves](https://open.spotify.com/track/038gKq7MYQFa20Q7MdHySX) | [Naxatras](https://open.spotify.com/artist/6HN1s0JzLowapZ7nhOAJ71) | [Naxatras](https://open.spotify.com/album/4T297zbG0nk3U7ODkvYAuv) | 7:20 | 2021-11-12 |  |
 | [We Were Kings](https://open.spotify.com/track/30aDz3teCTudFi7VsQDWua) | [Hollow Ship](https://open.spotify.com/artist/3bPcnmJ1Lk6fQlhxGV3Apx) | [We Were Kings](https://open.spotify.com/album/1cRF2kiIYvrJPE89XwkMMN) | 4:54 | 2021-11-12 | 2022-07-23 |

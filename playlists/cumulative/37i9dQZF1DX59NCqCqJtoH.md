@@ -4,7 +4,7 @@
 
 > We hear you.
 
-639 songs - 1 day 7 hr 38 min
+640 songs - 1 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Better](https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 1:38 | 2023-03-20 | 2023-03-22 |
 | [Big Black Car](https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 3:37 | 2022-05-25 | 2022-10-15 |
 | [Black Dress](https://open.spotify.com/track/5zB8z2lhlHDEADHqgIkNYo) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Black Dress](https://open.spotify.com/album/2v8YgVuGZY0k00k0Q8mfZE) | 2:32 | 2021-06-25 | 2022-05-24 |
-| [Black Fins](https://open.spotify.com/track/6uEApBBOzrHPJFG5iQ7uQN) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Black Fins](https://open.spotify.com/album/7IAnQxcd63aG5cpRQVqYWL) | 4:22 | 2023-07-21 |  |
+| [Black Fins](https://open.spotify.com/track/6uEApBBOzrHPJFG5iQ7uQN) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Black Fins](https://open.spotify.com/album/7IAnQxcd63aG5cpRQVqYWL) | 4:22 | 2023-07-21 | 2023-11-22 |
 | [Body Bag \(w/ Ethan Tasch\)](https://open.spotify.com/track/1x6xmj2HRJDYJB94sgzkpp) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP), [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Body Bag \(w/ Ethan Tasch\)](https://open.spotify.com/album/3t7PD8kmLJdX3rLGwxmwT1) | 2:21 | 2021-11-19 | 2022-07-29 |
 | [Bones](https://open.spotify.com/track/4nRec7qeTl60jthtmzQfIo) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Bones](https://open.spotify.com/album/4sSPmKSCOT2tGiLe2pKbgk) | 3:01 | 2023-04-28 | 2023-07-22 |
 | [Borderline](https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:34 | 2023-01-06 | 2023-08-14 |
@@ -551,6 +551,7 @@
 | [the fire in your eyes keeps me warm](https://open.spotify.com/track/076YCyUBs1GlrzAmOsZkFU) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Arvnd](https://open.spotify.com/artist/03sj0tUmIbmENyauxKtulx) | [some boring love stories pt 5](https://open.spotify.com/album/26JLBgmg9yNxBcdBhX0f63) | 3:13 | 2021-04-02 | 2022-07-22 |
 | [The Gold \- Phoebe Bridgers Version](https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Gold \(Phoebe Bridgers Version\)](https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w) | 3:53 | 2022-09-27 | 2022-12-24 |
 | [The Knots](https://open.spotify.com/track/6YbSyWJKrwvawpyYtxvAJy) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [The Knots](https://open.spotify.com/album/61nyeXkmqRtCa1VRn0uDNx) | 4:12 | 2022-03-23 | 2022-07-23 |
+| [The Long Breath](https://open.spotify.com/track/2jQWDgZhvkTREAXi7R0Vnf) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [The Long Breath / The Willows](https://open.spotify.com/album/0phsQExgJ5IKweBTgJNdp3) | 4:48 | 2023-11-20 |  |
 | [The Loser](https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [The Loser](https://open.spotify.com/album/77bm4AHldCf4STieStlVJg) | 2:11 | 2021-04-06 | 2023-03-22 |
 | [the outside](https://open.spotify.com/track/4n1T6CkR5UY0J4QLF2MKcu) | [Vorsa](https://open.spotify.com/artist/1gh8GYfxnY6D9nXPQ1Pb6g) | [the outside](https://open.spotify.com/album/6H7t6fTP5fSQrvfPo49hPH) | 2:23 | 2021-04-23 | 2022-04-21 |
 | [The Peak of My Existence](https://open.spotify.com/track/1shhCs4jt261mJ5JEIwB6Y) | [Jessica Mazin](https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx) | [The Peak of My Existence](https://open.spotify.com/album/7pJL0AQYy9ceXjDtaF2JPk) | 5:52 | 2022-03-23 | 2022-04-16 |

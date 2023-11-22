@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,096 likes - 50 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,115 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 13 | [We Could've Been Jersey Club](https://open.spotify.com/track/4QyGCDEBhibMXAMc7ykfGm) | [prody999](https://open.spotify.com/artist/4Kfo118jjPablah0inQ0jD) | [We Could've Been Jersey Club](https://open.spotify.com/album/4djExDH7qd2pJJ8HeU5hy4) | 1:58 |
 | 14 | [Flow Maradona](https://open.spotify.com/track/1wc1GzUQD8X4AlJOR08mkC) | [Jovem Caio](https://open.spotify.com/artist/5uPdlHNs7tCxONifNy5AqV), [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu) | [Flow Maradona](https://open.spotify.com/album/25ufJSpx6FbiNk02wUUSX6) | 1:55 |
 | 15 | [Opções](https://open.spotify.com/track/27x579ayIvantoVe6PP97U) | [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt), [Tkd](https://open.spotify.com/artist/1GYx2LBI5bt0xRUpvdGYYt) | [O Mais Novo Romântico](https://open.spotify.com/album/6bUVIZIeTsNvW9QyWsaqYj) | 3:00 |
-| 16 | [Só Quero Paz](https://open.spotify.com/track/6ha0SNOb0eUgdMdTiArK5D) | [Mingas The Teen](https://open.spotify.com/artist/6mcBDsPPbdnR64MTjkMRlm), [Ph](https://open.spotify.com/artist/1HT7273am7UyACJinVZGPC), [SHYY BEATS](https://open.spotify.com/artist/0DPr6TVQvHfTEMnW5j1dtE) | [Só Quero Paz](https://open.spotify.com/album/62TCz9CO7BJILiQgJzqKo2) | 2:15 |
+| 16 | [Só Quero Paz](https://open.spotify.com/track/6ha0SNOb0eUgdMdTiArK5D) | [Mingas The Teen](https://open.spotify.com/artist/6mcBDsPPbdnR64MTjkMRlm), [Ph](https://open.spotify.com/artist/6c0iWNjEIdiKn1lxdIAFwK), [SHYY BEATS](https://open.spotify.com/artist/0DPr6TVQvHfTEMnW5j1dtE) | [Só Quero Paz](https://open.spotify.com/album/62TCz9CO7BJILiQgJzqKo2) | 2:15 |
 | 17 | [Deixa Comigo](https://open.spotify.com/track/2ijJg8ehOdWTf4XpG8taLu) | [TuKo](https://open.spotify.com/artist/4BpFstoD6QMFQo2V5WuyQs) | [Deixa Comigo](https://open.spotify.com/album/0hlVYs0NKDjDgK3BI73lcz) | 3:19 |
 | 18 | [Gideon](https://open.spotify.com/track/6IdWc9IXfwk3ZkGgeSNIIC) | [Prod Pedrunk](https://open.spotify.com/artist/79me07P9RVGtTW5QS8tEb9) | [Gideon](https://open.spotify.com/album/2kgFSJojiz0SE1gk7ecpRS) | 3:32 |
 | 19 | [Desce, Desce!](https://open.spotify.com/track/4dXSyVjQNGFmheKwrto9D0) | [yuikigai](https://open.spotify.com/artist/5E6gGhkw5IEgMq3rBMLVEq) | [Quinze do Onze](https://open.spotify.com/album/6m7aiwc8cvWI921uVPjJuj) | 1:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 49 | [Toda Noite](https://open.spotify.com/track/6uRJMdOZA4ahj4Fw9WmRBR) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Toda Noite](https://open.spotify.com/album/5ohIWsURDHdVaFYv6S2qE1) | 2:37 |
 | 50 | [Nunca Sozinho](https://open.spotify.com/track/5QZEKx4SQOxABjMvcJjrGj) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Nunca Sozinho](https://open.spotify.com/album/0aUlKZZU5PNjviB2BbVRW5) | 2:17 |
 
-Snapshot ID: `MCwyZTI2YzhlN2U3MmY3YjFlYTg2ODM1NjA5MjQyZDM2YjkyZTM0MWQ0`
+Snapshot ID: `MCxlMWY5ZDA3MmM2OWY0N2U1MDVlZDdkZTkwZWEwN2EzMzQ1MzJmNjg5`

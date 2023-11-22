@@ -232,7 +232,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 206866,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/27H8WsrkD5catdc3a2fCLV"
@@ -2240,6 +2240,24 @@
       "duration_ms": 254026,
       "name": "Dirty Girl",
       "url": "https://open.spotify.com/track/14OBGVZHB5KEWoYyr5Lb2w"
+    },
+    {
+      "album": {
+        "name": "Let's Cheers To This",
+        "url": "https://open.spotify.com/album/3RSJ0kbP7TxLRqH7BqX8Gl"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203093,
+      "name": "Do It Now Remember It Later",
+      "url": "https://open.spotify.com/track/3I9c2OFpB0al6qmYNcyMht"
     },
     {
       "album": {

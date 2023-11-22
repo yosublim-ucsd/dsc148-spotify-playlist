@@ -301,6 +301,28 @@
     },
     {
       "album": {
+        "name": "When Christmas Morn Is Dawning",
+        "url": "https://open.spotify.com/album/713jtXTO3X5BgGLCKraUnQ"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        },
+        {
+          "name": "Rasmus H Thomsen",
+          "url": "https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163905,
+      "name": "Feliz Navidad (Arr. for Piano by Rasmus H Thomsen)",
+      "url": "https://open.spotify.com/track/2Qxl1GRAv2UZYqJhm2nzVl"
+    },
+    {
+      "album": {
         "name": "Frost",
         "url": "https://open.spotify.com/album/4gn0GVFZ6ckwtHYuu6SKpH"
       },
@@ -992,6 +1014,36 @@
       "duration_ms": 218386,
       "name": "Once In Royal David\u2019s City",
       "url": "https://open.spotify.com/track/6M7DHt54sGNGyxZrMZMR8w"
+    },
+    {
+      "album": {
+        "name": "Chloe Hearts Christmas",
+        "url": "https://open.spotify.com/album/1htpG1vi3iNXgtqyl3YPig"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        },
+        {
+          "name": "Chloe Flower",
+          "url": "https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        },
+        {
+          "name": "Czech Studio Orchestra",
+          "url": "https://open.spotify.com/artist/6XBxkEgoCuovPtpGqfxC5a"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "River",
+      "url": "https://open.spotify.com/track/1ZemH3BLNCtIoGEfQVvSbR"
     },
     {
       "album": {

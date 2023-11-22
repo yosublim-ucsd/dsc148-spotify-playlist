@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 66582,
+  "num_followers": 66611,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjgwMTBlOGY1NWU1NWQ3NzZjNDk2M2ZiNGYyYTZiZDkxMTViMDdm",
+  "snapshot_id": "MCxkNTViNjUyMjMxYjFhZWQ2YmZjZjNhY2Q1ZjQ4NzZhMjc4YWNmNDA0",
   "tracks": [
     {
       "added_at": "2023-10-18 08:13:47",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "Karpur Gauram",
+        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        }
+      ],
+      "duration_ms": 269348,
+      "name": "Karpur Gauram",
+      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "Goldfish (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 201230,
       "name": "Piya Padh Lena",
       "url": "https://open.spotify.com/track/5fuAQJ1kgVpFi5fge9oBae"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Karpur Gauram",
-        "url": "https://open.spotify.com/album/3u9w8JYY0u6W3bPNc48y9l"
-      },
-      "artists": [
-        {
-          "name": "Maati Baani",
-          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
-        }
-      ],
-      "duration_ms": 269348,
-      "name": "Karpur Gauram",
-      "url": "https://open.spotify.com/track/7z3eWCgWfL3pXbElKfWE1z"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -799,30 +799,6 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Jogiya",
-        "url": "https://open.spotify.com/album/3HDp3VjwowVEIkWkVpP15W"
-      },
-      "artists": [
-        {
-          "name": "Santanu Ghatak",
-          "url": "https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF"
-        },
-        {
-          "name": "Chandreyee Bhattacharya",
-          "url": "https://open.spotify.com/artist/3mH3uFlFhSCBJ9iJRrTtxy"
-        },
-        {
-          "name": "Nilanjan Samadder",
-          "url": "https://open.spotify.com/artist/534gzAUm9B9d5jFkWR0y4A"
-        }
-      ],
-      "duration_ms": 196901,
-      "name": "Jogiya",
-      "url": "https://open.spotify.com/track/7MU4WVkk08iWn61vLxGU9C"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
         "name": "Nirbhay Nirgun (Live)",
         "url": "https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4"
       },
@@ -843,26 +819,6 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Purvayi",
-        "url": "https://open.spotify.com/album/1O5bf4Rfj1Yhz2tq6lPmAp"
-      },
-      "artists": [
-        {
-          "name": "Midival Punditz",
-          "url": "https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY"
-        },
-        {
-          "name": "Papon",
-          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
-        }
-      ],
-      "duration_ms": 310146,
-      "name": "Purvayi",
-      "url": "https://open.spotify.com/track/5poTkPZvxROL3RtuxRVtBU"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
         "name": "Coke Studio: Season 8",
         "url": "https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz"
       },
@@ -875,6 +831,30 @@
       "duration_ms": 261010,
       "name": "Kinaray",
       "url": "https://open.spotify.com/track/0SoxxwwefLwKnzK8byFyje"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
+        "name": "Jogiya",
+        "url": "https://open.spotify.com/album/3HDp3VjwowVEIkWkVpP15W"
+      },
+      "artists": [
+        {
+          "name": "Santanu Ghatak",
+          "url": "https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF"
+        },
+        {
+          "name": "Chandreyee Bhattacharya",
+          "url": "https://open.spotify.com/artist/3mH3uFlFhSCBJ9iJRrTtxy"
+        },
+        {
+          "name": "Nilanjan Samadder",
+          "url": "https://open.spotify.com/artist/534gzAUm9B9d5jFkWR0y4A"
+        }
+      ],
+      "duration_ms": 196901,
+      "name": "Jogiya",
+      "url": "https://open.spotify.com/track/7MU4WVkk08iWn61vLxGU9C"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -1023,6 +1003,30 @@
       "duration_ms": 239220,
       "name": "Hans Dhuni",
       "url": "https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
+        "name": "Jogiya",
+        "url": "https://open.spotify.com/album/3oj1F2vMdJa8TUHKhlo1La"
+      },
+      "artists": [
+        {
+          "name": "Aabhas Joshi",
+          "url": "https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI"
+        },
+        {
+          "name": "Aabhas - Shreyas",
+          "url": "https://open.spotify.com/artist/0igGknafipnY3uY0KKaBn4"
+        },
+        {
+          "name": "Indie Routes",
+          "url": "https://open.spotify.com/artist/2QxOfctGL0UcikrK1WSEQu"
+        }
+      ],
+      "duration_ms": 249827,
+      "name": "Jogiya",
+      "url": "https://open.spotify.com/track/2T0WqDhuQDfqcjSZnRDOVK"
     }
   ],
   "unique_name": "Fusion Finds",

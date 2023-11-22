@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWP0WY5aV2Xz.md) - [plain]
 
 > The official EA SPORTS NHL 24 soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,875 likes - 33 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,898 likes - 33 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWP0WY5aV2Xz.md) - [plain]
 | 32 | [Boomerang](https://open.spotify.com/track/6WAnCthQkSQG17scgIkEhs) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Boomerang](https://open.spotify.com/album/4ASpLHLdbuxlKM4gTaOwlK) | 2:47 |
 | 33 | [Lowlife](https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lowlife](https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E) | 3:53 |
 
-Snapshot ID: `MCw4MzNlYjhhNDg3Njc0Zjk1YzY5OGMzYTllYTk3MjFiNWRkYzBjZjJi`
+Snapshot ID: `MCw1NjYxYzNjYTg5ZGI5YWZiYzc1NTA5ZDUyZTNkMDM0MzcwODFjYTJl`

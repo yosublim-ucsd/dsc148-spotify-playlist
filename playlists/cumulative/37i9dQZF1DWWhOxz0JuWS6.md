@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-525 songs - 1 day 14 hr 3 min
+526 songs - 1 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Dear God \- Remastered 2001](https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Skylarking](https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW) | 3:39 | 2020-12-08 |  |
 | [Devil Inside](https://open.spotify.com/track/0sTnQus7pGewDC0UHSyRDS) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick \(Remastered 2011\)](https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu) | 5:13 | 2020-12-08 | 2022-07-29 |
 | [Devil Inside](https://open.spotify.com/track/3m4OWJ3Ovl0pXwT79bw94N) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 5:14 | 2020-12-08 |  |
-| [Disintegration \- 2010 Remaster](https://open.spotify.com/track/0zY8t5dC1KQXcPUKByWMJM) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg) | 8:19 | 2022-11-17 |  |
+| [Disintegration \- 2010 Remaster](https://open.spotify.com/track/0zY8t5dC1KQXcPUKByWMJM) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg) | 8:19 | 2022-11-17 | 2023-11-22 |
 | [Disintegration \- Remastered](https://open.spotify.com/track/5LO3M8pfuprpwNN1p3tuxW) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 8:19 | 2020-12-08 | 2022-06-29 |
 | [Distant Early Warning](https://open.spotify.com/track/1bVnRjdVprR6ZoT67DBxML) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Grace Under Pressure](https://open.spotify.com/album/20RfdO7fta9qlXEWTFSWuT) | 4:56 | 2022-03-28 | 2022-07-29 |
 | [Do You Wanna Touch Me \(Oh Yeah\)](https://open.spotify.com/track/6Xprc4GuCejWA3BjU5knyw) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep) | 3:46 | 2020-12-08 |  |
@@ -349,6 +349,7 @@
 | [Red Sky](https://open.spotify.com/track/1y6HJqWv71bML3FEZNFOrS) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [In The Army Now](https://open.spotify.com/album/2AkxtR1F8F0kf13A1kZ1lx) | 4:15 | 2020-12-08 | 2022-07-29 |
 | [Reptile](https://open.spotify.com/track/29Znt9AbEH9FSsw86zPAYT) | [The Church](https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt) | [Starfish](https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x) | 4:55 | 2020-12-08 |  |
 | [Rock 'n' Roll High School \- 2002 Remaster](https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [End of the Century \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv) | 2:17 | 2020-12-08 |  |
+| [Rock and Roll Girls](https://open.spotify.com/track/3ViNfhx1IhxOPfMJUxPjpR) | [John Fogerty](https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t) | [Centerfield – 25th Anniversary](https://open.spotify.com/album/5ZYrDri9HWKLgSqDZOquH5) | 3:26 | 2022-11-17 |  |
 | [Rock and Roll Girls](https://open.spotify.com/track/5DeuAlTIDflXOomztXYM5D) | [John Fogerty](https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t) | [Centerfield \- 25th Anniversary](https://open.spotify.com/album/59uBuqBgldmgEK0O01jN12) | 3:26 | 2020-12-08 | 2023-11-04 |
 | [Rock Me](https://open.spotify.com/track/0OhusLY3xIViFynFjTi4EA) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Once Bitten](https://open.spotify.com/album/3mdyS3MKYPnMopSlMlqFUc) | 7:19 | 2022-11-17 |  |
 | [Rock Me](https://open.spotify.com/track/0u6toDywZABXlUBq76iPKW) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Once Bitten](https://open.spotify.com/album/7L3JfVjB7PpYEqDkWeJkAz) | 7:19 | 2020-12-08 | 2023-05-13 |

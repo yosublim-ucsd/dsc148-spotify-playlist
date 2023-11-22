@@ -1,12 +1,12 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 95345,
+  "num_followers": 95417,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODMxOTA2NmViMjZjNjM3ZDVjYTU2MGE4ZGQ0YmIxYzA5MDdiZjMx",
+  "snapshot_id": "MCxjNzI2MzA4YWEyOWMzMWFhYzQyZDAxZGM1OTM3NmFkYTU2MTFkOTg1",
   "tracks": [
     {
       "added_at": "2023-07-14 16:56:11",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Eyshila Falando de Amor",
-        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 258345,
-      "name": "Meu Sonho",
-      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Amo Voc\u00ea Vol. 17",
         "url": "https://open.spotify.com/album/1TrtJ1uPEolNGRW4tC2QzM"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 220357,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4ri0UC7hws6BdVYyrKMSCg"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "Eyshila Falando de Amor",
+        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 258345,
+      "name": "Meu Sonho",
+      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -611,18 +611,22 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "S\u00f3 Voc\u00ea",
-        "url": "https://open.spotify.com/album/1DidIBN9aVQUIU46UqxohJ"
+        "name": "Com Voc\u00ea",
+        "url": "https://open.spotify.com/album/54ci89R6xdQfxdsQLgH1no"
       },
       "artists": [
         {
-          "name": "Mariana Aguiar",
-          "url": "https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw"
+          "name": "Cassiane e Jairinho",
+          "url": "https://open.spotify.com/artist/754GsjALc0WkYIDzrf6e7H"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 225280,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/2feCY4xsBplBAsiTmqVt4o"
+      "duration_ms": 223886,
+      "name": "Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -643,22 +647,18 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Com Voc\u00ea",
-        "url": "https://open.spotify.com/album/54ci89R6xdQfxdsQLgH1no"
+        "name": "S\u00f3 Voc\u00ea",
+        "url": "https://open.spotify.com/album/1DidIBN9aVQUIU46UqxohJ"
       },
       "artists": [
         {
-          "name": "Cassiane e Jairinho",
-          "url": "https://open.spotify.com/artist/754GsjALc0WkYIDzrf6e7H"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+          "name": "Mariana Aguiar",
+          "url": "https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw"
         }
       ],
-      "duration_ms": 223886,
-      "name": "Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ"
+      "duration_ms": 225280,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/2feCY4xsBplBAsiTmqVt4o"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
+        "name": "Um Novo Tempo",
+        "url": "https://open.spotify.com/album/3gnWedgsMqJPS0EEUpJQyE"
+      },
+      "artists": [
+        {
+          "name": "Cristina Mel",
+          "url": "https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "Amor Sem Limites",
+      "url": "https://open.spotify.com/track/3UlT5ua4JXyS64vf1Y5ksz"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
         "name": "Amar pra Sempre",
         "url": "https://open.spotify.com/album/3xmpGzhNKqpZcyjRNruEDR"
       },
@@ -755,18 +771,18 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Um Novo Tempo",
-        "url": "https://open.spotify.com/album/3gnWedgsMqJPS0EEUpJQyE"
+        "name": "Sobre o Amor",
+        "url": "https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn"
       },
       "artists": [
         {
-          "name": "Cristina Mel",
-          "url": "https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP"
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Amor Sem Limites",
-      "url": "https://open.spotify.com/track/3UlT5ua4JXyS64vf1Y5ksz"
+      "duration_ms": 172288,
+      "name": "Prometo",
+      "url": "https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -787,34 +803,18 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Sobre o Amor",
-        "url": "https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn"
+        "name": "N\u00e3o H\u00e1 Limites",
+        "url": "https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB"
       },
       "artists": [
         {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 172288,
-      "name": "Prometo",
-      "url": "https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "Como da Primeira Vez",
-        "url": "https://open.spotify.com/album/1l251cpn8Zq7lddCDv6ek4"
-      },
-      "artists": [
-        {
-          "name": "Wilian Nascimento",
-          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Como da Primeira Vez",
-      "url": "https://open.spotify.com/track/5LtLJOxgWzpbt633NCrYTG"
+      "duration_ms": 254676,
+      "name": "N\u00e3o H\u00e1 Limites",
+      "url": "https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "N\u00e3o H\u00e1 Limites",
-        "url": "https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB"
+        "name": "Como da Primeira Vez",
+        "url": "https://open.spotify.com/album/1l251cpn8Zq7lddCDv6ek4"
       },
       "artists": [
         {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
         }
       ],
-      "duration_ms": 254676,
-      "name": "N\u00e3o H\u00e1 Limites",
-      "url": "https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs"
+      "duration_ms": 226626,
+      "name": "Como da Primeira Vez",
+      "url": "https://open.spotify.com/track/5LtLJOxgWzpbt633NCrYTG"
     },
     {
       "added_at": "2023-07-14 16:56:11",

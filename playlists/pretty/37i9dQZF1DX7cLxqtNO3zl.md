@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 
 > From India to MENA, these hits will make you dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,814 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,848 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 | 49 | [Mashallah \(feat\. Sukriti Kakar & Prakriti Kakar\)](https://open.spotify.com/track/7LasZEDby0I9uVNUjED1yS) | [THEMXXNLIGHT](https://open.spotify.com/artist/7crF48BmAnNaoNU8QPVld0), [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [Mashallah \(feat\. Sukriti Kakar & Prakriti Kakar\)](https://open.spotify.com/album/4msvzEOis0kGxDHn2ZaQQx) | 3:32 |
 | 50 | [Yalla Yalla](https://open.spotify.com/track/6IKDI3h0vjvOdwllJtp4lX) | [Miraya Varma](https://open.spotify.com/artist/4FhmGc9lD5PO3ZrPPDGiRV), [Zeus](https://open.spotify.com/artist/08go4qm2BDvBAZMtpV25QV) | [Yalla Yalla](https://open.spotify.com/album/2m6iGaVxOvvS1UcdNfNakp) | 3:49 |
 
-Snapshot ID: `MCw5ZWQwYmIzMjNkOTNjNmRiZmY4MmZjY2I0ZjEwYzgwNDA3YzhjMjFh`
+Snapshot ID: `MCw5Yjc0N2NkNzhiNzc4YjJhOGViMjJjOTQxNTJlYzU1NTkwNjVmMWFl`

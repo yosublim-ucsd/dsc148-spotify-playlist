@@ -16097,6 +16097,28 @@
     },
     {
       "album": {
+        "name": "HYDRO",
+        "url": "https://open.spotify.com/album/1ZZGszO3VVBTEovRO38a7p"
+      },
+      "artists": [
+        {
+          "name": "Subculture",
+          "url": "https://open.spotify.com/artist/45CiOVzqS9wkh8pX59IOfx"
+        },
+        {
+          "name": "Chelou",
+          "url": "https://open.spotify.com/artist/2RwfRD2vlkdztGtVXENShq"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171568,
+      "name": "HYDRO",
+      "url": "https://open.spotify.com/track/4hobk2AHTUbIno7ij44X1p"
+    },
+    {
+      "album": {
         "name": "HYPER BLOOM",
         "url": "https://open.spotify.com/album/5ufkWrcjwZh7irmqnSplDt"
       },
@@ -23460,6 +23482,28 @@
       "duration_ms": 140804,
       "name": "note2self",
       "url": "https://open.spotify.com/track/5tEvrViXR5HwKShQsUqpKz"
+    },
+    {
+      "album": {
+        "name": "Nothing Lasts Forever (with Grimes)",
+        "url": "https://open.spotify.com/album/4QBQzfxBfxVpLnAl91LB74"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199183,
+      "name": "Nothing Lasts Forever (with Grimes)",
+      "url": "https://open.spotify.com/track/3g2JWlyUpLgwiLRsIKHM8h"
     },
     {
       "album": {

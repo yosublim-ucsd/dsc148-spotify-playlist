@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Imminence
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,907 likes - 68 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,026 likes - 68 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 67 | [The Endless Road Home](https://open.spotify.com/track/2JCR3gfgZYwMOi8uxDtjri) | [Lord Dying](https://open.spotify.com/artist/4t2eZIRH71WTOXpENMOM2Z) | [The Endless Road Home](https://open.spotify.com/album/6Ga1f3RTQ1zuVcepTnMqVv) | 4:34 |
 | 68 | [Through The Storm](https://open.spotify.com/track/2dLHYjWVsGyewM5TjG3Gfd) | [Hiraes](https://open.spotify.com/artist/1Djkm24RzECe7M6KuxKZzt) | [Through The Storm](https://open.spotify.com/album/57scurk5eFlyrR6sYTydTV) | 4:04 |
 
-Snapshot ID: `MCw2OWEyYzllMjI5NjUzNDNhNTMxMDkzZWQ5MDgzM2FjNDE0MDk2MTc0`
+Snapshot ID: `MCxiZjI2NzVlYjY2Mzg5ZGFjMWI4YmQwOGRlYmMyOGU1MTUyYWM0OTA1`

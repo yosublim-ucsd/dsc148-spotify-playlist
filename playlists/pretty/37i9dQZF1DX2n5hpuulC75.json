@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 259446,
+  "num_followers": 259480,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2FiMTc4MmIyZTc2NjQ4MTRjNzg1ZmNiMzE2MzFhN2NlNWE1ZWY2",
+  "snapshot_id": "MCwzZDQ1YjVlZmMwNDAwNzlmOTYxNDU3YWE0M2YwNmVkZmIyZTZkZDM1",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -799,6 +799,26 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Home (feat. LEES)",
+        "url": "https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt"
+      },
+      "artists": [
+        {
+          "name": "Gaspar Narby",
+          "url": "https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s"
+        },
+        {
+          "name": "LEES",
+          "url": "https://open.spotify.com/artist/7GS5zVk2C5Bt4Gnzl87py5"
+        }
+      ],
+      "duration_ms": 198776,
+      "name": "Home (feat. LEES)",
+      "url": "https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Small Clan",
         "url": "https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 293613,
       "name": "Your Own Truth",
       "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Home (feat. LEES)",
-        "url": "https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt"
-      },
-      "artists": [
-        {
-          "name": "Gaspar Narby",
-          "url": "https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s"
-        },
-        {
-          "name": "LEES",
-          "url": "https://open.spotify.com/artist/7GS5zVk2C5Bt4Gnzl87py5"
-        }
-      ],
-      "duration_ms": 198776,
-      "name": "Home (feat. LEES)",
-      "url": "https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF"
     },
     {
       "added_at": "2018-12-11 21:12:31",

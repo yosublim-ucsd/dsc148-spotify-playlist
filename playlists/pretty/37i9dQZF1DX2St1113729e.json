@@ -1,12 +1,12 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Fran Laoren",
-  "num_followers": 123459,
+  "num_followers": 123470,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjQxZGRlYTk3Zjk4MWFiMGI1MmQwOWFjNGU1OGRiNGI3MDUzODNm",
+  "snapshot_id": "MCxkYmQ4ZTE0NmZkNTMzOTUwNzM5M2JkYzA1YWY4ZDgwZjFmZTAyZjA1",
   "tracks": [
     {
       "added_at": "2023-11-16 22:59:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "TU SI K TA LOKO",
-        "url": "https://open.spotify.com/album/3wGWu2LA3agP0zM0uejUx0"
-      },
-      "artists": [
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        }
-      ],
-      "duration_ms": 170095,
-      "name": "TU SI K TA LOKO",
-      "url": "https://open.spotify.com/track/2u9No01x6M0p6DQwDFFZbA"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "Desde la Luna",
         "url": "https://open.spotify.com/album/189H9UzXywc9F8HeLnlJ9z"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 114869,
       "name": "Desde la Luna",
       "url": "https://open.spotify.com/track/3YUn5SXAbsxkxUWbn9vc2k"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "TU SI K TA LOKO",
+        "url": "https://open.spotify.com/album/3wGWu2LA3agP0zM0uejUx0"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "duration_ms": 170095,
+      "name": "TU SI K TA LOKO",
+      "url": "https://open.spotify.com/track/2u9No01x6M0p6DQwDFFZbA"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1163,6 +1163,26 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
+        "name": "LA ESKINA DEL ESTANKE",
+        "url": "https://open.spotify.com/album/2VukIjOu9AXoe66SxCFJTF"
+      },
+      "artists": [
+        {
+          "name": "alequi",
+          "url": "https://open.spotify.com/artist/4Rg6w1AZFPOeY8SurpUTPH"
+        },
+        {
+          "name": "cyber666",
+          "url": "https://open.spotify.com/artist/7GXNxwLHUMNNNuu11UiFs6"
+        }
+      ],
+      "duration_ms": 190158,
+      "name": "SONRISAS & L\u00c1GRIMAS",
+      "url": "https://open.spotify.com/track/5iov0X5z1uz67GVrbQswaL"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
         "name": "L\u00aa N\u00aave",
         "url": "https://open.spotify.com/album/2krXsG88F9yuWO0lrw80ar"
       },
@@ -1207,6 +1227,22 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
+        "name": "Lun\u00e1tico",
+        "url": "https://open.spotify.com/album/71icODq6GLIj9NQpU5XJWx"
+      },
+      "artists": [
+        {
+          "name": "New Boix",
+          "url": "https://open.spotify.com/artist/4IACNJzFCAIe9W5lVBUsvI"
+        }
+      ],
+      "duration_ms": 154701,
+      "name": "Otra Noche de Verano",
+      "url": "https://open.spotify.com/track/2NYc4s8dBf5nBhlXRaydlq"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
         "name": "Coraz\u00f3n Maldito",
         "url": "https://open.spotify.com/album/6MUzxwHh6BbrO19mEvrLfc"
       },
@@ -1247,22 +1283,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "Lun\u00e1tico",
-        "url": "https://open.spotify.com/album/71icODq6GLIj9NQpU5XJWx"
-      },
-      "artists": [
-        {
-          "name": "New Boix",
-          "url": "https://open.spotify.com/artist/4IACNJzFCAIe9W5lVBUsvI"
-        }
-      ],
-      "duration_ms": 154701,
-      "name": "Otra Noche de Verano",
-      "url": "https://open.spotify.com/track/2NYc4s8dBf5nBhlXRaydlq"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "AUTOBOICOT",
         "url": "https://open.spotify.com/album/0dGZG0TM4jZwjaRzs0A2tl"
       },
@@ -1279,26 +1299,6 @@
       "duration_ms": 201578,
       "name": "AUTOBOICOT",
       "url": "https://open.spotify.com/track/2t8pTWkyRjaXQmpcrOQvYl"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
-        "name": "LA ESKINA DEL ESTANKE",
-        "url": "https://open.spotify.com/album/2VukIjOu9AXoe66SxCFJTF"
-      },
-      "artists": [
-        {
-          "name": "alequi",
-          "url": "https://open.spotify.com/artist/4Rg6w1AZFPOeY8SurpUTPH"
-        },
-        {
-          "name": "cyber666",
-          "url": "https://open.spotify.com/artist/7GXNxwLHUMNNNuu11UiFs6"
-        }
-      ],
-      "duration_ms": 190158,
-      "name": "SONRISAS & L\u00c1GRIMAS",
-      "url": "https://open.spotify.com/track/5iov0X5z1uz67GVrbQswaL"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "Paranormal",
-        "url": "https://open.spotify.com/album/2O23fQIEXMr2vD1DpYnqDA"
-      },
-      "artists": [
-        {
-          "name": "MU\u00d1EKI77A",
-          "url": "https://open.spotify.com/artist/4vPj1iAE8l3VAQNenIOGt8"
-        }
-      ],
-      "duration_ms": 157088,
-      "name": "Paranormal",
-      "url": "https://open.spotify.com/track/2DBkKyH9T63bvfNRmXlPRZ"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "MIEDO MADRID",
         "url": "https://open.spotify.com/album/3RzZDssgztAD1xg2YCyuc6"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 149647,
       "name": "MIEDO MADRID",
       "url": "https://open.spotify.com/track/3X2PZpa14yolH5rh8FTStr"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "Paranormal",
+        "url": "https://open.spotify.com/album/2O23fQIEXMr2vD1DpYnqDA"
+      },
+      "artists": [
+        {
+          "name": "MU\u00d1EKI77A",
+          "url": "https://open.spotify.com/artist/4vPj1iAE8l3VAQNenIOGt8"
+        }
+      ],
+      "duration_ms": 157088,
+      "name": "Paranormal",
+      "url": "https://open.spotify.com/track/2DBkKyH9T63bvfNRmXlPRZ"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "EP1 \u00b7 (\u0482\u25e1_\u25e1)",
-        "url": "https://open.spotify.com/album/0FwBzeTyAxzcTT9ov81hjo"
+        "name": "''las cosas no salen tan bien en rosario''",
+        "url": "https://open.spotify.com/album/4vmR9xqphwJA4rHMDJ9Fn7"
       },
       "artists": [
         {
-          "name": "Guayaba",
-          "url": "https://open.spotify.com/artist/5MOE8DFWAHa51a5gKzz78m"
+          "name": "conan kid",
+          "url": "https://open.spotify.com/artist/5MpPZ2g8moHwXhQbp4Xwy7"
         }
       ],
-      "duration_ms": 160500,
-      "name": "dondestas tu? (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b",
-      "url": "https://open.spotify.com/track/5Wd5tZzpUOoIUcfxwLEKbi"
+      "duration_ms": 148375,
+      "name": "''las cosas no salen tan bien en rosario''",
+      "url": "https://open.spotify.com/track/7cWQJPHLzDbzx1TV4vVKCD"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
+        "name": "EP1 \u00b7 (\u0482\u25e1_\u25e1)",
+        "url": "https://open.spotify.com/album/0FwBzeTyAxzcTT9ov81hjo"
+      },
+      "artists": [
+        {
+          "name": "Guayaba",
+          "url": "https://open.spotify.com/artist/5MOE8DFWAHa51a5gKzz78m"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "dondestas tu? (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b",
+      "url": "https://open.spotify.com/track/5Wd5tZzpUOoIUcfxwLEKbi"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
         "name": "Anesthesia",
         "url": "https://open.spotify.com/album/32Q7r3heHX8qo2DQIisRcN"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 144000,
       "name": "Anesthesia",
       "url": "https://open.spotify.com/track/4bUJAlDGjmIuyJAJbXabPo"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
-        "name": "''las cosas no salen tan bien en rosario''",
-        "url": "https://open.spotify.com/album/4vmR9xqphwJA4rHMDJ9Fn7"
-      },
-      "artists": [
-        {
-          "name": "conan kid",
-          "url": "https://open.spotify.com/artist/5MpPZ2g8moHwXhQbp4Xwy7"
-        }
-      ],
-      "duration_ms": 148375,
-      "name": "''las cosas no salen tan bien en rosario''",
-      "url": "https://open.spotify.com/track/7cWQJPHLzDbzx1TV4vVKCD"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "PURGATORIO",
-        "url": "https://open.spotify.com/album/6VIEndH3EFAVPvCUhlZWtl"
+        "name": "Cu\u00e1ntas Veces",
+        "url": "https://open.spotify.com/album/7igQKVqM29rwzZYHoV267G"
       },
       "artists": [
         {
-          "name": "Espineli",
-          "url": "https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f"
+          "name": "Nova Caeli",
+          "url": "https://open.spotify.com/artist/6RgIDy1x1vhGst77P2Wuts"
         }
       ],
-      "duration_ms": 118904,
-      "name": "MICPAPALOTL",
-      "url": "https://open.spotify.com/track/13PBhn5XdUPYty1ErFsru3"
+      "duration_ms": 161828,
+      "name": "Cu\u00e1ntas Veces",
+      "url": "https://open.spotify.com/track/7xqVmgYINjUmLktnTxQqFY"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "Cu\u00e1ntas Veces",
-        "url": "https://open.spotify.com/album/7igQKVqM29rwzZYHoV267G"
+        "name": "PURGATORIO",
+        "url": "https://open.spotify.com/album/6VIEndH3EFAVPvCUhlZWtl"
       },
       "artists": [
         {
-          "name": "Nova Caeli",
-          "url": "https://open.spotify.com/artist/6RgIDy1x1vhGst77P2Wuts"
+          "name": "Espineli",
+          "url": "https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f"
         }
       ],
-      "duration_ms": 161828,
-      "name": "Cu\u00e1ntas Veces",
-      "url": "https://open.spotify.com/track/7xqVmgYINjUmLktnTxQqFY"
+      "duration_ms": 118904,
+      "name": "MICPAPALOTL",
+      "url": "https://open.spotify.com/track/13PBhn5XdUPYty1ErFsru3"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
+        "name": "HYPER PUC",
+        "url": "https://open.spotify.com/album/3VkmZxyLYOuSeBqhKYwJBP"
+      },
+      "artists": [
+        {
+          "name": "Eva Puc",
+          "url": "https://open.spotify.com/artist/2zA0HW4T836wu7h3atnUiO"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Un Techno",
+      "url": "https://open.spotify.com/track/48zjy7vkY1ODmJZTTb463A"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
         "name": "TikTok",
         "url": "https://open.spotify.com/album/35hGzz3bFwNrnqfPuYTDWu"
       },
@@ -1911,38 +1927,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "HYPER PUC",
-        "url": "https://open.spotify.com/album/3VkmZxyLYOuSeBqhKYwJBP"
-      },
-      "artists": [
-        {
-          "name": "Eva Puc",
-          "url": "https://open.spotify.com/artist/2zA0HW4T836wu7h3atnUiO"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "Un Techno",
-      "url": "https://open.spotify.com/track/48zjy7vkY1ODmJZTTb463A"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
-        "name": "tamagotchi",
-        "url": "https://open.spotify.com/album/5tBPoDajcUY3wf4pnBJfMV"
-      },
-      "artists": [
-        {
-          "name": "Lil Zhark",
-          "url": "https://open.spotify.com/artist/3FI7NS91eeSjBP3V0znDuB"
-        }
-      ],
-      "duration_ms": 105100,
-      "name": "tamagotchi",
-      "url": "https://open.spotify.com/track/72QyKS10NvfMYszzFMYWzj"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "Club Mood",
         "url": "https://open.spotify.com/album/7A4AwFyMY3PC53Sd5zSmXE"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 135529,
       "name": "Club Mood",
       "url": "https://open.spotify.com/track/6EQ1GmJL0ITzztn1Nl22vP"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "tamagotchi",
+        "url": "https://open.spotify.com/album/5tBPoDajcUY3wf4pnBJfMV"
+      },
+      "artists": [
+        {
+          "name": "Lil Zhark",
+          "url": "https://open.spotify.com/artist/3FI7NS91eeSjBP3V0znDuB"
+        }
+      ],
+      "duration_ms": 105100,
+      "name": "tamagotchi",
+      "url": "https://open.spotify.com/track/72QyKS10NvfMYszzFMYWzj"
     },
     {
       "added_at": "2023-11-16 22:59:00",

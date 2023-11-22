@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Alan Troy\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,783 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,782 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 21 | [Cumbia Espectro \- DUSU Remix](https://open.spotify.com/track/1NRhtJ7VQy55WJC9R6J2sb) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv), [DUSU](https://open.spotify.com/artist/2C6vqUrtXufvoUk5iwJ2KX) | [Cumbia Espectro \(DUSU Remix\)](https://open.spotify.com/album/3VRV4d2vD0hgiMIhlA9GGw) | 5:06 |
 | 22 | [Jardín](https://open.spotify.com/track/394fdiSv97RDJy2lIxTL9v) | [Teo Bok](https://open.spotify.com/artist/54HTLyYHg8qHdZTPLtAo7r) | [Jardín](https://open.spotify.com/album/4zLn1jP6DyndmlMalVm8Rk) | 2:24 |
 | 23 | [Contestador](https://open.spotify.com/track/5Vm8mIKlvaNwdO3hu4AIir) | [Malbo](https://open.spotify.com/artist/0D3sglhi3aAhEHHF5E20fm), [AhoraDimeLu](https://open.spotify.com/artist/3s2IhfIEXwFDoWfUfyr5mq) | [Contestador](https://open.spotify.com/album/0BACSXG1wUu05i7Jo6FK4B) | 3:09 |
-| 24 | [Dama](https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Dama](https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru) | 3:46 |
-| 25 | [¿Así Que Te Gusta Hacerte El Lou Reed?](https://open.spotify.com/track/3tv2PAwZArvekOqHojdsFo) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [El Sonido Del Éxtasis](https://open.spotify.com/album/1W8z2q9AdSAC9nzLOITY0N) | 4:05 |
+| 24 | [¿Así Que Te Gusta Hacerte El Lou Reed?](https://open.spotify.com/track/3tv2PAwZArvekOqHojdsFo) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [El Sonido Del Éxtasis](https://open.spotify.com/album/1W8z2q9AdSAC9nzLOITY0N) | 4:05 |
+| 25 | [Dama](https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Dama](https://open.spotify.com/album/5YsBGBAtUA1GsQqaVXyyru) | 3:46 |
 | 26 | [no es culpa mía](https://open.spotify.com/track/3carpytTJk59ujDuX0gs8I) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [no es culpa mía](https://open.spotify.com/album/5ZbHwgfry7ONiynI2424Uq) | 3:05 |
 | 27 | [Siempre Tendré Mi Voz](https://open.spotify.com/track/54wJFzt61TudRFI8y49xWu) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Siempre Tendré Mi Voz](https://open.spotify.com/album/2c8dGA6npi8KtLB8fJqFr4) | 2:45 |
-| 28 | [Diamante y Lágrima](https://open.spotify.com/track/76SatmEoGFfKiA6qVuBg7s) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [Diamante y Lágrima](https://open.spotify.com/album/5LUxPQ5YEkWH0rKz20FQLY) | 3:20 |
-| 29 | [ntendp](https://open.spotify.com/track/2PedtXa3HI4oGbfgJSi7W5) | [Iván Ivengo](https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x), [Luis Mint](https://open.spotify.com/artist/1kGLVoWLKArhbWhADndMKu) | [ntendp](https://open.spotify.com/album/5IESmcewxuYZh3A4OMtXIv) | 2:28 |
+| 28 | [ntendp](https://open.spotify.com/track/2PedtXa3HI4oGbfgJSi7W5) | [Iván Ivengo](https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x), [Luis Mint](https://open.spotify.com/artist/1kGLVoWLKArhbWhADndMKu) | [ntendp](https://open.spotify.com/album/5IESmcewxuYZh3A4OMtXIv) | 2:28 |
+| 29 | [Diamante y Lágrima](https://open.spotify.com/track/76SatmEoGFfKiA6qVuBg7s) | [Baby City Club](https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h) | [Diamante y Lágrima](https://open.spotify.com/album/5LUxPQ5YEkWH0rKz20FQLY) | 3:20 |
 | 30 | [Riley](https://open.spotify.com/track/3tQpd0YrAwWK8YGP3aRj8D) | [I AM](https://open.spotify.com/artist/67g2E0HwTkrMj3nPvw46mR) | [Riley \(S\)](https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0) | 2:58 |
 | 31 | [Una historia que contar](https://open.spotify.com/track/0T3y7Z7Nx4RMPJH1L594EZ) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [Una historia que contar](https://open.spotify.com/album/2DTN8LKAtN4SqPHzAgh1vk) | 3:06 |
 | 32 | [Nada va a quedar](https://open.spotify.com/track/7JSuVdzogccF5zuudGEZAo) | [Jorge Prada](https://open.spotify.com/artist/7MNJy93yO4MA7MWAzfAMGo) | [Nada va a quedar](https://open.spotify.com/album/64zQT3GwCnWEDzvkVBRFaF) | 2:43 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 34 | [Apocalíptico](https://open.spotify.com/track/3jpi95EBQXXKTdd510DQBe) | [Sofia Lafuente](https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9) | [Apocalíptico](https://open.spotify.com/album/0kFnFOhodIwr3UY0f2JQXn) | 3:17 |
 | 35 | [Aire.](https://open.spotify.com/track/69iMg2FY6RPtF84ilGrkRB) | [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP) | [Si yo sé hablar es por ti](https://open.spotify.com/album/3SWn0kBDOKFxwYHB2JUTEe) | 3:48 |
 | 36 | [Ya Se Fue](https://open.spotify.com/track/6JQ3tU4PwJr51FW9YRKq43) | [Gonzalo Brancciari](https://open.spotify.com/artist/2kvcov0e0ppYAVU5NywB2x) | [Ya Se Fue](https://open.spotify.com/album/6SFW7nOwBJK61hJLnfU2PX) | 2:50 |
-| 37 | [¿Quién Fue?](https://open.spotify.com/track/7BSxbFNHZr4Zl5GXb2d8dy) | [Calisur](https://open.spotify.com/artist/26qAmOvljJQWP1TK2zK7qS) | [¿Quién Fue?](https://open.spotify.com/album/0pnIgEH1xMkp1RB1BBKi2H) | 2:38 |
-| 38 | [No llamaste](https://open.spotify.com/track/3Ai0LAvak9jRvvNiNav1dr) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [No llamaste](https://open.spotify.com/album/1VybcvZTjsmeh2YTcIQF5H) | 3:54 |
+| 37 | [No llamaste](https://open.spotify.com/track/3Ai0LAvak9jRvvNiNav1dr) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [No llamaste](https://open.spotify.com/album/1VybcvZTjsmeh2YTcIQF5H) | 3:54 |
+| 38 | [¿Quién Fue?](https://open.spotify.com/track/7BSxbFNHZr4Zl5GXb2d8dy) | [Calisur](https://open.spotify.com/artist/26qAmOvljJQWP1TK2zK7qS) | [¿Quién Fue?](https://open.spotify.com/album/0pnIgEH1xMkp1RB1BBKi2H) | 2:38 |
 | 39 | [Evil Dead](https://open.spotify.com/track/0ZyrbgosyeinetxLfJ31Lu) | [Justo Antes de la Guerra con los Esquimales](https://open.spotify.com/artist/0E8okIJZJy58uvxYajtFor) | [Evil Dead](https://open.spotify.com/album/4zlAqUr4qS76Ci1BeEawVr) | 2:55 |
 | 40 | [el gil](https://open.spotify.com/track/0j5MACLCW2AQVh82thXuJ7) | [Camarú](https://open.spotify.com/artist/36yItyZJx0Tw3OpFQADb8z) | [el gil](https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD) | 4:32 |
 | 41 | [the homesick song](https://open.spotify.com/track/3bnDb8pF6JHDPmiguP7kEY) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [the homesick song](https://open.spotify.com/album/44zlKZzMSMxv3zyPdnDa2T) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Sebastian](https://open.spotify.com/track/3SSxawk0oNwp0QPHiDvgvK) | [ZEEVA](https://open.spotify.com/artist/5c7xVgAzKeYYrYnKTrHELH), [xKori](https://open.spotify.com/artist/7482JBrvZ3ILAr4vVigQvI) | [Sebastian](https://open.spotify.com/album/5fQIyRR1iWaIsZSHNfI3he) | 3:16 |
 | 50 | [¿A qué le tiras?](https://open.spotify.com/track/5YdurFSX0XI9LSEBWFPDbl) | [Feelder](https://open.spotify.com/artist/5hlVR9GtWAmGrx9GLJhHxr) | [¿A qué le tiras?](https://open.spotify.com/album/3MQyQ487oNDMIbv2uO2maE) | 1:48 |
 
-Snapshot ID: `MCw3NDRkZmM4MjVmNTMxZTQwOThhNDE0M2M4YjZjNzU5NmViMjYwYTEx`
+Snapshot ID: `MCw1NGRlYTI2NGMwODg0OGMwMWNlNGZmOWQ0YTE4ODg1ZWJmOWExMDU3`

@@ -4,7 +4,7 @@
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-168 songs - 6 hr 21 min
+170 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Deck the halls](https://open.spotify.com/track/2Wo9ErDDar0mLFho1FZmQZ) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [Christmas Lights](https://open.spotify.com/album/0AArO6paluj1u7vrmEBATx) | 2:45 | 2022-11-09 |  |
 | [Deck The Halls](https://open.spotify.com/track/6tSvntSFjdODPTKX8G3FEi) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Christmas Lullabies](https://open.spotify.com/album/3RUWlYDyNsSqVAka080J39) | 1:23 | 2021-12-14 | 2022-11-10 |
 | [Ding Dong Merrily On High](https://open.spotify.com/track/51VCb04kTqUOziuk2kviK5) | [Michiko Mullins](https://open.spotify.com/artist/0kZcnLHQCIufaWOKpac6ZG) | [Light The Candles](https://open.spotify.com/album/1iAiCpBrkkToAoC7CU1Ed9) | 2:03 | 2021-12-14 | 2023-10-04 |
-| [Ding Dong! Merrily on High](https://open.spotify.com/track/4YJa9BSCvs4HesVnhqdjND) | [Avery Tormichael](https://open.spotify.com/artist/6XlTCj3XJ2exhVk2rW5JbL) | [Ding Dong! Merrily on High](https://open.spotify.com/album/0AiX2e2fpeJNZuxDEmjIwf) | 2:10 | 2023-10-03 |  |
+| [Ding Dong Merrily on High](https://open.spotify.com/track/5vqMZbAU4yvKhZlZNBOGre) | [Teodor Seti](https://open.spotify.com/artist/26jqyiqSsIwsXWuz5hgctN) | [Ding Dong Merrily on High](https://open.spotify.com/album/28rlS1Z0VuczgX7HqlviJK) | 2:37 | 2023-11-21 |  |
+| [Ding Dong! Merrily on High](https://open.spotify.com/track/4YJa9BSCvs4HesVnhqdjND) | [Avery Tormichael](https://open.spotify.com/artist/6XlTCj3XJ2exhVk2rW5JbL) | [Ding Dong! Merrily on High](https://open.spotify.com/album/0AiX2e2fpeJNZuxDEmjIwf) | 2:10 | 2023-10-03 | 2023-11-22 |
 | [Do You Hear What I Hear](https://open.spotify.com/track/4cchwOn0AJBffk0mlB8wmU) | [Manny Heights](https://open.spotify.com/artist/3whru6xFIYhdqBRrDD12Wb) | [I Heard The Bells On Christmas Day](https://open.spotify.com/album/3GfMZyyP8eMXxsNrU9jFPA) | 3:20 | 2021-12-14 |  |
 | [Do You Want to Build A Snowman?](https://open.spotify.com/track/6s8M6j0NmquCYZy6NKjDGx) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Do You Want to Build A Snowman?](https://open.spotify.com/album/6vaGiLu1MD3JcsZmkQXp6Q) | 3:06 | 2022-10-14 |  |
 | [Donkey Carol](https://open.spotify.com/track/59AHzvoqVmzDZ832T7gkkL) | [Sophie Wendel](https://open.spotify.com/artist/0H6L0sikl86jo2Rpq6kVMZ) | [Donkey Carol](https://open.spotify.com/album/5I0RyOInIuhD3loWBDnlY7) | 2:06 | 2023-09-26 |  |
@@ -159,6 +160,7 @@
 | [The First Noël](https://open.spotify.com/track/2s286y2oyE6zfa6QF8X9eU) | [Ralph Aachen](https://open.spotify.com/artist/0dJtjZpWliouisclYavoGF) | [Gather Around The Christmas Tree](https://open.spotify.com/album/2bDhA7c8KAj4CzavWa49fU) | 2:02 | 2021-12-14 | 2022-12-07 |
 | [The Holly And The Ivy](https://open.spotify.com/track/0Z56bFna9S2pNcWM3dQ0P4) | [David Osborne](https://open.spotify.com/artist/0oA8UUNNUP3zWCUkZVin0G) | [Home for Christmas: Timeless Holiday Favorites Featuring Piano and Strings](https://open.spotify.com/album/155DIBTJApyx01CHnBUdB8) | 1:50 | 2022-12-16 | 2023-09-27 |
 | [The Holly and the Ivy](https://open.spotify.com/track/0YrtmukmxadUiL71QmYavc) | [David Osborne](https://open.spotify.com/artist/0oA8UUNNUP3zWCUkZVin0G) | [Piano Christmas](https://open.spotify.com/album/5DzeLiTyNyuJWq5kJkjaVV) | 1:52 | 2021-12-14 | 2023-07-29 |
+| [The Holly And The Ivy](https://open.spotify.com/track/4XH9cphQMl74WJkF5pPeUK) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [The Holly And The Ivy](https://open.spotify.com/album/2IpYph2sUxGcIIynpQpaSl) | 3:42 | 2023-11-21 |  |
 | [The Most Wonderful Gift](https://open.spotify.com/track/1A2p03BIqWmsrZ1m5HMNFv) | [Benjamin Dobbs](https://open.spotify.com/artist/0Ryn8sGu13BwRC3zDySvOP) | [The Most Wonderful Gift](https://open.spotify.com/album/4YGmYz1eoA6TW6ZgjiM58V) | 2:56 | 2022-11-09 |  |
 | [The Night Before Christmas](https://open.spotify.com/track/40BxkceWiGC2D37Iv3PqQS) | [Marvin Simmons](https://open.spotify.com/artist/6K3rVk2qB0yKO8ToZnovWf) | [It's Christmas Every Day](https://open.spotify.com/album/3lHNVUvVKOZvjuA6VkpCIN) | 2:36 | 2021-12-14 |  |
 | [The Prayer](https://open.spotify.com/track/6NbF82CkLv5mtx9bTvF59B) | [Mira Sorentido](https://open.spotify.com/artist/3Ig5M58nRVrph2yIHV5DLa) | [The Prayer](https://open.spotify.com/album/4hM0rDr8vSfrwe1OrkcEZ4) | 4:38 | 2021-12-14 |  |

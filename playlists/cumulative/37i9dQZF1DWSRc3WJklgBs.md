@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,222 songs - 2 day 23 hr 22 min
+1,223 songs - 2 day 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Anti\-Everything \- Jake Wolfe Remix](https://open.spotify.com/track/3tQe6EipndJbSE8R23JAP0) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1), [Jake Wolfe](https://open.spotify.com/artist/6jMh7J6fuHyAgvnzSsQUDs) | [Anti\-Everything \(Remixes\)](https://open.spotify.com/album/0BPgdPdQpRynxOY0el8vRu) | 2:33 | 2019-08-09\* | 2020-03-29 |
 | [Antidote](https://open.spotify.com/track/6qIEUT4vS2g2g8EgqOS62o) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Antidote](https://open.spotify.com/album/2eBWEtVvAtX1Ajoh0VKogz) | 3:08 | 2023-02-24 |  |
 | [Antigone \- Edit](https://open.spotify.com/track/0UIwRVLDc0POG4oaLEEsY3) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Antigone](https://open.spotify.com/album/6mA5zAxBOtN4ojyu6pDZyS) | 3:39 | 2019-08-09\* | 2020-03-29 |
-| [Anybody Else \- Alyx Ander Remix](https://open.spotify.com/track/70ssLyL7lsxio25h7maT7I) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [Alyx Ander](https://open.spotify.com/artist/4gxmaAX3cWO9PUVmEYVAhd) | [Anybody Else \(Alyx Ander Remix\)](https://open.spotify.com/album/6MJzg2V7MhrpNQ6GTZSsNh) | 3:24 | 2022-07-08 |  |
+| [Anybody Else \- Alyx Ander Remix](https://open.spotify.com/track/70ssLyL7lsxio25h7maT7I) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [Alyx Ander](https://open.spotify.com/artist/4gxmaAX3cWO9PUVmEYVAhd) | [Anybody Else \(Alyx Ander Remix\)](https://open.spotify.com/album/6MJzg2V7MhrpNQ6GTZSsNh) | 3:24 | 2022-07-08 | 2023-11-22 |
 | [Anything 4 U](https://open.spotify.com/track/0MuAaWayfAeq0C6WDM15Mz) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Anything 4 U](https://open.spotify.com/album/7gjErqquS2uyJy0rGbYcOC) | 3:08 | 2023-07-14 |  |
 | [Anything For You](https://open.spotify.com/track/4HmuPzVgJtdhRI1YUL5XHp) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166) | [Anything For You](https://open.spotify.com/album/0bwSexfmiVJ0snck4drx1E) | 2:53 | 2019-08-09\* | 2020-03-29 |
 | [Anyway \(feat\. RuthAnne\)](https://open.spotify.com/track/5TAlj8WBSEWPdzudunvu0B) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Anyway \(feat\. RuthAnne\)](https://open.spotify.com/album/709dbtr4OzXUGUfOeRrAV7) | 2:48 | 2023-01-13 |  |
@@ -1005,6 +1005,7 @@
 | [Take Me Somewhere](https://open.spotify.com/track/6Qmalh6imfMxJAiO6HjiZh) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Take Me Somewhere](https://open.spotify.com/album/5AyOo0oZOQmoDrU8dqyiNp) | 3:14 | 2023-08-11 |  |
 | [Take Me There](https://open.spotify.com/track/6cirkf76kYPUsdzQfjAFRw) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Take Me There](https://open.spotify.com/album/1u4DytoOvqrGjqVMfemZyY) | 4:28 | 2019-08-09\* | 2019-09-14 |
 | [Take Me To The Sunshine \(feat\. BullySongs\)](https://open.spotify.com/track/4peF3yGZAZfeOFDahi6Ig5) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [BullySongs](https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5) | [Take Me To The Sunshine \(feat\. BullySongs\)](https://open.spotify.com/album/20AY41HrcfdjRmHSpLLSgd) | 2:57 | 2022-02-04 |  |
+| [Take My Chance](https://open.spotify.com/track/3uD3HzG6tO8lWUIKtJKcxA) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/3xaAySZDsBeu2k12tDaLsZ) | 3:18 | 2023-11-17 |  |
 | [Take My Chance](https://open.spotify.com/track/6d0ediFvVUAQXkeraZRtXR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Take My Chance](https://open.spotify.com/album/48mkI91Qbu55gGYgtKPVK9) | 3:18 | 2023-11-10 | 2023-11-20 |
 | [Take My Hand](https://open.spotify.com/track/1Z650q7rTHtlSWi17dvDFo) | [Janji](https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E), [OLAVI](https://open.spotify.com/artist/2m5zXSeaN8U33bgGG2XlYi) | [Take My Hand](https://open.spotify.com/album/08yGtFtsjppMCvfHUBGkYZ) | 3:14 | 2019-08-09\* | 2020-03-29 |
 | [Take You](https://open.spotify.com/track/1Mqg86bac6H0wgukTgG3gR) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/4xADuwIS5TSQzoYTaPA5VH) | 3:13 | 2023-04-21 | 2023-05-21 |

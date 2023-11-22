@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 75084,
+  "num_followers": 75150,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTkzYmMwNGZmZGZkYTU2MTgxNzY2NmNlNzlhOTM0OWM0NDEyZjAy",
+  "snapshot_id": "MCwyYTdiYjMwMzhkMWU3MGI4OGVmYmQ2NTM3Zjk1M2Y4ZWZjYzhhZjQ1",
   "tracks": [
     {
       "added_at": "2023-10-20 04:59:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-10-20 04:59:00",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "B\u00e9same Mucho",
-      "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
-    },
-    {
-      "added_at": "2023-10-20 04:59:00",
-      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/28wQLNnT2Vt6yrsoNAxErW"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 176019,
       "name": "La C\u00e1rcel de Sing Sing",
       "url": "https://open.spotify.com/track/5EHoGs7zKe79N5kcTaV1da"
+    },
+    {
+      "added_at": "2023-10-20 04:59:00",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 180626,
+      "name": "B\u00e9same Mucho",
+      "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
     },
     {
       "added_at": "2023-10-20 04:59:00",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-10-20 04:59:00",
       "album": {
-        "name": "Leyendas Solamente Los Mejores",
-        "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/28wQLNnT2Vt6yrsoNAxErW"
       },
       "artists": [
         {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+          "name": "El Rey de la Cantina",
+          "url": "https://open.spotify.com/artist/3Z30LsykS8OWsx2Ro7MO1Y"
         }
       ],
-      "duration_ms": 171533,
-      "name": "Contigo - Tema Remasterizado",
-      "url": "https://open.spotify.com/track/6qvpcGNIOMkim3TZqvGhC6"
+      "duration_ms": 153533,
+      "name": "El Contragolpe",
+      "url": "https://open.spotify.com/track/34vslpjwLp3AiR86EwJgCz"
     },
     {
       "added_at": "2023-10-20 04:59:00",
@@ -319,18 +319,18 @@
     {
       "added_at": "2023-10-20 04:59:00",
       "album": {
-        "name": "Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/28wQLNnT2Vt6yrsoNAxErW"
+        "name": "Leyendas Solamente Los Mejores",
+        "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
       },
       "artists": [
         {
-          "name": "El Rey de la Cantina",
-          "url": "https://open.spotify.com/artist/3Z30LsykS8OWsx2Ro7MO1Y"
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
         }
       ],
-      "duration_ms": 153533,
-      "name": "El Contragolpe",
-      "url": "https://open.spotify.com/track/34vslpjwLp3AiR86EwJgCz"
+      "duration_ms": 171533,
+      "name": "Contigo - Tema Remasterizado",
+      "url": "https://open.spotify.com/track/6qvpcGNIOMkim3TZqvGhC6"
     },
     {
       "added_at": "2023-10-20 04:59:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-10-20 04:59:00",
       "album": {
+        "name": "Esencial Ana y Victor",
+        "url": "https://open.spotify.com/album/5PqWboO8JlSZ2OGBlJGBBn"
+      },
+      "artists": [
+        {
+          "name": "Ana Bel\u00e9n",
+          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
+        }
+      ],
+      "duration_ms": 185240,
+      "name": "La Mentira",
+      "url": "https://open.spotify.com/track/46Q6e4fQyElbUyg4Jivhts"
+    },
+    {
+      "added_at": "2023-10-20 04:59:00",
+      "album": {
         "name": "Un Canto por M\u00e9xico, Vol. II",
         "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 222453,
       "name": "Cien A\u00f1os",
       "url": "https://open.spotify.com/track/4SL8wbnGRP0nkIYyjeIKRU"
-    },
-    {
-      "added_at": "2023-10-20 04:59:00",
-      "album": {
-        "name": "Esencial Ana y Victor",
-        "url": "https://open.spotify.com/album/5PqWboO8JlSZ2OGBlJGBBn"
-      },
-      "artists": [
-        {
-          "name": "Ana Bel\u00e9n",
-          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
-        }
-      ],
-      "duration_ms": 185240,
-      "name": "La Mentira",
-      "url": "https://open.spotify.com/track/46Q6e4fQyElbUyg4Jivhts"
     },
     {
       "added_at": "2023-10-20 04:59:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-10-20 04:59:00",
       "album": {
+        "name": "Toda una Vida",
+        "url": "https://open.spotify.com/album/5vDTFuOk5kEFLFb5PsampY"
+      },
+      "artists": [
+        {
+          "name": "Carmen Delia Dipini",
+          "url": "https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL"
+        }
+      ],
+      "duration_ms": 178733,
+      "name": "Dimelo",
+      "url": "https://open.spotify.com/track/3hY0TCeZr9VVBz8ZXnL9U2"
+    },
+    {
+      "added_at": "2023-10-20 04:59:00",
+      "album": {
         "name": "Loca Ansiedad",
         "url": "https://open.spotify.com/album/2JGjsZpQxsRZlNobxeLr4s"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 335533,
       "name": "Y Despu\u00e9s Del Amor",
       "url": "https://open.spotify.com/track/40uK9I0QmVwRaZqS0v1IBq"
-    },
-    {
-      "added_at": "2023-10-20 04:59:00",
-      "album": {
-        "name": "Toda una Vida",
-        "url": "https://open.spotify.com/album/5vDTFuOk5kEFLFb5PsampY"
-      },
-      "artists": [
-        {
-          "name": "Carmen Delia Dipini",
-          "url": "https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL"
-        }
-      ],
-      "duration_ms": 178733,
-      "name": "Dimelo",
-      "url": "https://open.spotify.com/track/3hY0TCeZr9VVBz8ZXnL9U2"
     },
     {
       "added_at": "2023-10-20 04:59:00",

@@ -1,12 +1,12 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 236938,
+  "num_followers": 237043,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWQ2ODNlMTQwMTc4ZTdkMzQ2ZDEwNzFkZTllZWNlOTM5ZTc2MTcz",
+  "snapshot_id": "MCwyNzI3Njg0Y2NmZTMwODVjYTkyMzBiNzc1NDUwMmM4NWQ0OTBjMWI5",
   "tracks": [
     {
       "added_at": "2023-08-11 15:42:20",
@@ -955,26 +955,6 @@
     {
       "added_at": "2023-08-11 15:42:20",
       "album": {
-        "name": "Canoa",
-        "url": "https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt"
-      },
-      "artists": [
-        {
-          "name": "DJ Gregory",
-          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
-        },
-        {
-          "name": "Gregor Salto",
-          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
-        }
-      ],
-      "duration_ms": 546791,
-      "name": "Canoa",
-      "url": "https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx"
-    },
-    {
-      "added_at": "2023-08-11 15:42:20",
-      "album": {
         "name": "Remix Album",
         "url": "https://open.spotify.com/album/2M8DuRnkOsYlM9MAa2XLGr"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 406691,
       "name": "Hungry For The Power - Jamie Jones Ridge Street Remix",
       "url": "https://open.spotify.com/track/0fhsLuoWjfqGIg9ucb3Jab"
+    },
+    {
+      "added_at": "2023-08-11 15:42:20",
+      "album": {
+        "name": "Canoa",
+        "url": "https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt"
+      },
+      "artists": [
+        {
+          "name": "DJ Gregory",
+          "url": "https://open.spotify.com/artist/08P7D5oQ3HUmQ0Gjbw6nzR"
+        },
+        {
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+        }
+      ],
+      "duration_ms": 546791,
+      "name": "Canoa",
+      "url": "https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx"
     },
     {
       "added_at": "2023-08-11 15:42:20",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2023-08-11 15:42:20",
       "album": {
-        "name": "Destination Calabria",
-        "url": "https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8"
-      },
-      "artists": [
-        {
-          "name": "Alex Gaudino",
-          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
-        },
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        }
-      ],
-      "duration_ms": 416333,
-      "name": "Destination Calabria - Extended Mix",
-      "url": "https://open.spotify.com/track/5FLHMNGjvwvvyk2gx5rNue"
-    },
-    {
-      "added_at": "2023-08-11 15:42:20",
-      "album": {
         "name": "Don't You Want Me",
         "url": "https://open.spotify.com/album/5EsmJemSNDssD0hy9bJA3N"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 187053,
       "name": "Don't You Want Me - Hooj Mix Edit",
       "url": "https://open.spotify.com/track/5yccftMOR4DWGxpVyuqaKs"
+    },
+    {
+      "added_at": "2023-08-11 15:42:20",
+      "album": {
+        "name": "Destination Calabria",
+        "url": "https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8"
+      },
+      "artists": [
+        {
+          "name": "Alex Gaudino",
+          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
+        },
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 416333,
+      "name": "Destination Calabria - Extended Mix",
+      "url": "https://open.spotify.com/track/5FLHMNGjvwvvyk2gx5rNue"
     },
     {
       "added_at": "2023-08-11 15:42:20",

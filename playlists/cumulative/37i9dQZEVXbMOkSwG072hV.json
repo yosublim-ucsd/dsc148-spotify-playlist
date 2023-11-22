@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 141334,
       "name": "ALL MY FELLAS",
       "url": "https://open.spotify.com/track/1ckhUtD8nBH2ShPlU8w2nU"
@@ -6721,6 +6721,24 @@
     },
     {
       "album": {
+        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
+        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205483,
+      "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/17cia5k4BpGVlyEfqrFH50"
+    },
+    {
+      "album": {
         "name": "Festa Junina 2018",
         "url": "https://open.spotify.com/album/0z36hTi24qD5Y2D2kFdogn"
       },
@@ -7398,7 +7416,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 186870,
       "name": "Cheiro de Mato",
       "url": "https://open.spotify.com/track/1WgIQxW737iaI3dOG4Szfc"
@@ -9154,7 +9172,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 169411,
       "name": "De Marola",
       "url": "https://open.spotify.com/track/5DlrNzF7YmK2dZBjfr0qZ2"
@@ -9296,6 +9314,24 @@
       "duration_ms": 125538,
       "name": "Deixa Escondido - Sarra no Pent\u00e3o",
       "url": "https://open.spotify.com/track/2DD0BY8n0GjSbA5hqLUzCg"
+    },
+    {
+      "album": {
+        "name": "On Fire",
+        "url": "https://open.spotify.com/album/2EgIkuV76R6XfAefSNOkWX"
+      },
+      "artists": [
+        {
+          "name": "Fernando & Sorocaba",
+          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191833,
+      "name": "Deixa Eu Amar Voc\u00ea",
+      "url": "https://open.spotify.com/track/2DyuHPs5w0HXuzzusnoMYa"
     },
     {
       "album": {
@@ -11794,7 +11830,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 143160,
       "name": "Ent\u00e3o Ta, Quando Tu Quiser Foder \u00c9 S\u00f3 Me Ligar",
       "url": "https://open.spotify.com/track/1FDW4AbYuE3EaylVp1QsIq"
@@ -13832,7 +13868,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 185552,
       "name": "Feather",
       "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
@@ -16932,6 +16968,24 @@
     {
       "album": {
         "name": "idyll",
+        "url": "https://open.spotify.com/album/4BrYq3nCEijPj9k8IvTDOB"
+      },
+      "artists": [
+        {
+          "name": "Jonjthan",
+          "url": "https://open.spotify.com/artist/3SjhqYt7O9ANKZgMNnbcfx"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73624,
+      "name": "idyll",
+      "url": "https://open.spotify.com/track/0GirVGtZ50YAHXdtcrVIgy"
+    },
+    {
+      "album": {
+        "name": "idyll",
         "url": "https://open.spotify.com/album/5SrwygCxFLQtFY1NNWJuPA"
       },
       "artists": [
@@ -16960,7 +17014,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 73795,
       "name": "idyll",
       "url": "https://open.spotify.com/track/3hDGLi1TjRpnZ2NbpQv42R"
@@ -17676,7 +17730,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 161760,
       "name": "IT GIRL",
       "url": "https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP"
@@ -20971,6 +21025,28 @@
     },
     {
       "album": {
+        "name": "Sorriso Eu Gosto No Pagode - Parte 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2xcArGM32SN0HS6owAdKqg"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401025,
+      "name": "Me Olha Nos Olhos / Futuro Prometido / N\u00e3o Tem Perd\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/6npsMy4sqPy5oywywl2UJy"
+    },
+    {
+      "album": {
         "name": "Me Papa Que \u00c9 Pop",
         "url": "https://open.spotify.com/album/4VZckLjkW2434SZ4XBnE1u"
       },
@@ -21162,6 +21238,24 @@
       "duration_ms": 217845,
       "name": "Medley S\u00f3 das Nova 2.0",
       "url": "https://open.spotify.com/track/1IdopRa5QT9qoQMppQjlzp"
+    },
+    {
+      "album": {
+        "name": "Mega a Cura Antidepressiva",
+        "url": "https://open.spotify.com/album/73R5uagMROZ4xjnxnH9bBc"
+      },
+      "artists": [
+        {
+          "name": "DJ Wesley Gonzaga",
+          "url": "https://open.spotify.com/artist/0PLUhcaPtfTkL6ckBw0btt"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "Mega a Cura Antidepressiva",
+      "url": "https://open.spotify.com/track/7crmvYhSWPBfLmvkheZKEk"
     },
     {
       "album": {
@@ -28030,7 +28124,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 197538,
       "name": "Piloto",
       "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
@@ -28712,6 +28806,32 @@
       "duration_ms": 122005,
       "name": "Por Vc Eu Bebo O Mar De Canudinho, Atravesso O Polo Norte De Shortinho",
       "url": "https://open.spotify.com/track/2Ldqjec16o0VrjMUwgUdzW"
+    },
+    {
+      "album": {
+        "name": "Porradeiro Vs Marretada",
+        "url": "https://open.spotify.com/album/1uqu47jY40H0GB6JDrpmOF"
+      },
+      "artists": [
+        {
+          "name": "mc pl alves",
+          "url": "https://open.spotify.com/artist/47wsfaEWJwhWd9bs04Oc1g"
+        },
+        {
+          "name": "MC FG",
+          "url": "https://open.spotify.com/artist/1kAJwKG8RJwXdA7qWNWwKI"
+        },
+        {
+          "name": "LC Santos",
+          "url": "https://open.spotify.com/artist/2V0Xb2QqVOlHN4yxDSGluP"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "Porradeiro Vs Marretada",
+      "url": "https://open.spotify.com/track/5M7mAMgIjMRwECVLh6IUoZ"
     },
     {
       "album": {
@@ -32541,6 +32661,24 @@
     },
     {
       "album": {
+        "name": "Si No Est\u00e1s (Sped Up)",
+        "url": "https://open.spotify.com/album/4G9kPHRXsREM1Gd1feSyk3"
+      },
+      "artists": [
+        {
+          "name": "Formula Speed",
+          "url": "https://open.spotify.com/artist/2nQICMBSbxi0lojZH8WB3b"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139807,
+      "name": "Si No Est\u00e1s - Sped Up",
+      "url": "https://open.spotify.com/track/61tCa29zrdJ6y2WbgGlHLv"
+    },
+    {
+      "album": {
         "name": "Rebelde la Serie (Official Soundtrack)",
         "url": "https://open.spotify.com/album/0D6P1mugyeO1RGyeCEzabS"
       },
@@ -33241,6 +33379,28 @@
     },
     {
       "album": {
+        "name": "Sugar Papi",
+        "url": "https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187153,
+      "name": "Sou Musa do Ver\u00e3o",
+      "url": "https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc"
+    },
+    {
+      "album": {
         "name": "Sou o Cordeirinho (Funk)",
         "url": "https://open.spotify.com/album/3Sv9zPas1Cf1mfeQMKdoIU"
       },
@@ -33432,6 +33592,24 @@
       "duration_ms": 221359,
       "name": "SSA",
       "url": "https://open.spotify.com/track/0DI7TtujPBwhpjmUncFpU9"
+    },
+    {
+      "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206019,
+      "name": "Standing Next to You",
+      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
     },
     {
       "album": {
@@ -35726,7 +35904,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 83927,
       "name": "TOMA ESFREGA",
       "url": "https://open.spotify.com/track/7AyHyLFWS6ikrooAvYxLMO"
@@ -35942,7 +36120,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 192320,
       "name": "Tras De M\u00ed",
       "url": "https://open.spotify.com/track/1AO5MeGsWdPLejY47pnYYy"
@@ -38462,7 +38640,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
@@ -39211,6 +39389,24 @@
     },
     {
       "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147557,
+      "name": "Yes or No",
+      "url": "https://open.spotify.com/track/2gkVEnpahpE3bQuvGuCpAV"
+    },
+    {
+      "album": {
         "name": "yes to heaven",
         "url": "https://open.spotify.com/album/7irGbx3XVENSgp7HkcV4hy"
       },
@@ -39374,7 +39570,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 190652,
       "name": "Zero a Cem",
       "url": "https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M"

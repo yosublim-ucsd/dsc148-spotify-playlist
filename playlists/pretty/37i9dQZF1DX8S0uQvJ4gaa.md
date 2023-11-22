@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: MacKenzie Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,183,858 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,196 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [I Know A Guy](https://open.spotify.com/track/6LCY0s8iDoooe8eMkdEQMu) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [Side Effects Of The Heart](https://open.spotify.com/album/5NyxBYEqQFpOCS4Gn3wNCK) | 2:41 |
 | 100 | [Hey Whiskey](https://open.spotify.com/track/2Kw5QYMTLrRV7jpoE8YkMg) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Hey Whiskey](https://open.spotify.com/album/7bEvOn0bOFcr5eqvchRhOt) | 3:23 |
 
-Snapshot ID: `MCxkNTQxYzRhZTRhM2ViNmM3MmVlYTQyMTg0ZDZiYzAxYzU0MTU5MmM3`
+Snapshot ID: `MCxjYjJmYWY0NjZmMjcwNzA5OTUwYWNlM2Q3YzU4ZWVkMzJkMjE3ZWRk`

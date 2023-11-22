@@ -2,7 +2,7 @@
 
 ### [La Tierra del Corrido](https://open.spotify.com/playlist/37i9dQZF1DWXjOlK5exuVE)
 
-> ¡Bienvenidos a La Tierra del Corrido! Historias que hacen historia\. Luis R Conriquez, Grupo Marca Registrada, Chino Pacas, Esteban Gabriel y Xavi en portada.
+> ¡Bienvenidos a La Tierra del Corrido! Historias que hacen historia\. Eden Muñoz, Los Tucanes de Tijuana y Fuerza Regida en portada.
 
 181 songs - 9 hr 29 min
 

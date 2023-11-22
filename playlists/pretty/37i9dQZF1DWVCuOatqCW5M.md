@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Vishal Mishra, Dino James
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,818 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,865 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Jaane Jaa](https://open.spotify.com/track/0NK1YsOdr6kMiIbRw7zlWc) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Jaane Jaa](https://open.spotify.com/album/4PyjkNuVzNQ836nnjd6kPo) | 3:26 |
 | 50 | [Mulaqat](https://open.spotify.com/track/7uZLUFqPgGqwzD5rzOl8Sa) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Mulaqat](https://open.spotify.com/album/2LBQG9vBtXEL7RD4FUTJTa) | 4:06 |
 
-Snapshot ID: `MCw4NzkwMjQyNWNiZGNmNDQzODc2MjRhZTYzMTgyNzhlN2Q2NjM4YmNj`
+Snapshot ID: `MCxlNjlmNTQyODIxY2E1OWEwOTE0ZjI0MzJjMGI3M2IyMTM4NTkwZDBj`

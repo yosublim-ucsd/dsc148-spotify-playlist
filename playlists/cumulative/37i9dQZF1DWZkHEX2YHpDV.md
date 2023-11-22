@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: Four Year Strong
 
-1,074 songs - 2 day 8 hr 45 min
+1,075 songs - 2 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,8 +575,9 @@
 | [Losing What We Love](https://open.spotify.com/track/6CrWJF0SI2XfWGMzyXdIZe) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/6uROVKhZs2MvHAHUdwAwb3) | 3:41 | 2023-10-10 |  |
 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 | 2023-05-12 |  |
 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 | 2022-12-02 |  |
-| [Love Letter](https://open.spotify.com/track/2EMjjC2tFr5yCt7Ha4Q7I8) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Love Letter \(Acoustic\)](https://open.spotify.com/album/5bz1ltKT4NjJNNGnARCOvY) | 2:38 | 2023-10-27 |  |
+| [Love Letter](https://open.spotify.com/track/2EMjjC2tFr5yCt7Ha4Q7I8) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Love Letter \(Acoustic\)](https://open.spotify.com/album/5bz1ltKT4NjJNNGnARCOvY) | 2:38 | 2023-10-27 | 2023-11-22 |
 | [Love Letter](https://open.spotify.com/track/3wIMmFNL5hdqUBpAO0Ogpu) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Love Letter](https://open.spotify.com/album/3w1dvrYzb7K4yRGjpULCPo) | 2:38 | 2023-04-28 | 2023-11-05 |
+| [Love Letter](https://open.spotify.com/track/7pqr7LOy8p7UKOuZhQBrf6) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [I'm So Good At Being Alone?](https://open.spotify.com/album/3USnuRvSzhPtYAYoz0xgvN) | 2:38 | 2023-11-10 |  |
 | [Love Me or Hate Me](https://open.spotify.com/track/0Uhx8dVUqIrlrVVdo2hHKa) | [Kelsy Karter](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Love Me or Hate Me](https://open.spotify.com/album/2ncqvPvPyJtLIdvYVxmF5E) | 3:16 | 2021-12-10 | 2022-07-27 |
 | [Love Needs an Encore](https://open.spotify.com/track/0lK2E4HR64nfoi3vOBXt03) | [Incase We Crash](https://open.spotify.com/artist/60BV8AYHelvsX7RpjQXlBA), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Love Needs an Encore](https://open.spotify.com/album/6Hp1StiHyODpHgVPWeNUqB) | 3:33 | 2022-06-24 | 2022-07-24 |
 | [love race \(feat\. Kellin Quinn\)](https://open.spotify.com/track/1F9kEuwT29fgqlovIclu81) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [love race \(feat\. Kellin Quinn\)](https://open.spotify.com/album/3q4wUTOTsRASPClG5Fg3tk) | 3:08 | 2021-12-10 | 2023-04-11 |

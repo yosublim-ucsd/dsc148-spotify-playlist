@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Costi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,176 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,215 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 59 | [Kasvanu tääl](https://open.spotify.com/track/663rcZNdSoM2aGJgQ49mNQ) | [Äänet Käskee](https://open.spotify.com/artist/6tYoCkla26VpGOZcUVCuT3), [Olli August](https://open.spotify.com/artist/5rNbjiCW5GOrb9nuSX91Xw) | [Kasvanu tääl](https://open.spotify.com/album/0dXYwsreUtjhf5KacLKgk2) | 2:23 |
 | 60 | [FREEZE](https://open.spotify.com/track/4w2x55aaWpyqsw2K2vPOxI) | [Teos](https://open.spotify.com/artist/6acDZee4XWF64k1YnoVX3W), [MC Rambo](https://open.spotify.com/artist/2Hu0h2qsnarFN33k7U0tta), [Jere](https://open.spotify.com/artist/3Oxf4EUF3hcY3qpqd5W04o), [DJ Massimo](https://open.spotify.com/artist/71qkSHIyLGgk1ffDbcbEAj) | [FREEZE](https://open.spotify.com/album/6nMbcnOyEZT578OBkVw5dQ) | 4:48 |
 
-Snapshot ID: `MCxkNjgzMGUxN2YwZDg4ZGZjYWVmNjUxZjQxODQzYWJhMGU5YjAxZjFi`
+Snapshot ID: `MCxhNWI4ZTZmM2EyY2MxYzdhY2FjMTM0ZjcwNjM0MWRiNjlhZTgzNTMz`

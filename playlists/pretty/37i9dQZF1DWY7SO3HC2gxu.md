@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,962 likes - 80 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,006 likes - 80 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 57 | [Mzuzi Park](https://open.spotify.com/track/0KHKdCpEbvDyJxvMRVJkZG) | [OneDown](https://open.spotify.com/artist/0KPKANr8Lag2AzWfHYGdj0), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Mzuzi Park](https://open.spotify.com/album/1dJXbNR32lgYW7Pr54e2Sk) | 8:13 |
 | 58 | [3 Tingz](https://open.spotify.com/track/1d4KRceZZhzweBscFL2NsU) | [Vandrel](https://open.spotify.com/artist/6nYKLho6i0KRNEEqffoJfv), [Bryvvn](https://open.spotify.com/artist/1YcGi2JIfTzbotFBDiysfS), [Prince.Wasabi](https://open.spotify.com/artist/2Gaxo8kmFvgNJvNmg6ZsGH), [7AY](https://open.spotify.com/artist/3MiRH0LK3bcno7nZa6QtLm) | [3 Tingz](https://open.spotify.com/album/0Evq35s64fjfGM4pLL0Xw8) | 3:41 |
 | 59 | [Mwenye](https://open.spotify.com/track/115rYufaofiqBoQGAwNCdt) | [DJ Qness](https://open.spotify.com/artist/6VT3tPkf65cNEp8vOdpWZ0), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mwenye](https://open.spotify.com/album/0wiXMY7q9dyIsR24alOcvl) | 8:33 |
-| 60 | [Ba Ba Bu, pt\. I](https://open.spotify.com/track/7AYAxhYXMLQQUjnFMDFWjm) | [Jupiter Sky](https://open.spotify.com/artist/3IrrIr36E38ozdtqZUlGLX) | [Ba Ba Bu, pt\. I](https://open.spotify.com/album/4DQ1LODQJ01AVqtI0jFq8l) | 2:15 |
+| 60 | [Ba Ba Bu](https://open.spotify.com/track/7AYAxhYXMLQQUjnFMDFWjm) | [Jupiter Sky](https://open.spotify.com/artist/0Q6xrLYqCIOLqnBSGCnaIe) | [Ba Ba Bu](https://open.spotify.com/album/4DQ1LODQJ01AVqtI0jFq8l) | 2:15 |
 | 61 | [Need You Here \- Classic Radio Cut](https://open.spotify.com/track/2k59VYohDddyeVXdvTb5lw) | [DJ Vivona](https://open.spotify.com/artist/2MrGECnmnJ6NsokRk4QHkz) | [Need You Here \(Classic Radio Cut\)](https://open.spotify.com/album/1UI4n5553dSQo8buWlIlgH) | 3:25 |
 | 62 | [Who Are You \(Imran Mwangi House Remix\)](https://open.spotify.com/track/6sLPX0Q4GdazVifDwhcu49) | [Ayrosh](https://open.spotify.com/artist/4YrVetGQMUK3WKhRcqC7zH), [Imran Mwangi](https://open.spotify.com/artist/1QScCx9tjYCQux14NpPjmn) | [Who Are You \(Imran Mwangi House Remix\)](https://open.spotify.com/album/4aFCYdSzyEJ3u52iADPzkj) | 5:00 |
 | 63 | [Mbesha Fari Fari](https://open.spotify.com/track/7eJCWj0y3C1zOYtC9MJjts) | [Nelmo Newsong](https://open.spotify.com/artist/0jQAdAzjIh6BrZEShGb95v) | [Mbesha Fari Fari](https://open.spotify.com/album/5w052vFIxbeK6F2P4DGyuY) | 3:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 79 | [Tobina](https://open.spotify.com/track/1wQIZO21QL5D36PjSYU5aE) | [Suraj](https://open.spotify.com/artist/2ARJ6ydBtv95xyrmkRUhql), [Mandala](https://open.spotify.com/artist/4XRCFvGfu0MhCKJ42OGXDe) | [Tobina](https://open.spotify.com/album/1JLdZk9Qcw4EiGsDhst35a) | 5:17 |
 | 80 | [Nyoro](https://open.spotify.com/track/5GdgzFPADlFrhDRBoEHq7f) | [Kato Change](https://open.spotify.com/artist/3Day7hRDsVXE8uRBCpR2z5), [Winyo](https://open.spotify.com/artist/0xYZnLkJHs6y9Ts7Yq2C1C), [Suraj](https://open.spotify.com/artist/2ARJ6ydBtv95xyrmkRUhql) | [Nyoro](https://open.spotify.com/album/0Jn4m8XlZgSbuWYjlzc22S) | 4:36 |
 
-Snapshot ID: `MCw3YWQyMGVjZmJhNDNiYmIzMDIxYTkwMGQyZThjMWUwNWYyMGZkZGI4`
+Snapshot ID: `MCw3ZDY5MDQzZTA4YmIwMGNiM2E4ZDdmNWNhNGI1NjkxNTAwZTA4ZWJk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Chartreuse
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,231 likes - 101 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,232 likes - 101 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 100 | [Last Living Buffalo](https://open.spotify.com/track/3BOhoENNsKpSmG3ZOfU1iq) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [Last Living Buffalo](https://open.spotify.com/album/1F7dOibX5qhJEhGUlCn78b) | 3:14 |
 | 101 | [Splendor](https://open.spotify.com/track/1SQcUBkH4zgYNRRnwUNx4x) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [Splendor](https://open.spotify.com/album/0YCFTmRRxUduoa0CmrT0To) | 4:13 |
 
-Snapshot ID: `MCwwNzllMmVlMWJkYWEyN2Y3ZTAyNDg3NGFjY2Q4ZmMzMzdkMWUyMTQ5`
+Snapshot ID: `MCw0MTY2ZGExYWRiMmQ4M2EwODk0NTZhMjY3MGI1YjUwYmJjNmFlYWFl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Depresión Sonora en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,604 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,619 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Tried My Best](https://open.spotify.com/track/6jblgAN3ZeZpxzOJydifdn) | [No Stories](https://open.spotify.com/artist/0mbkM3QZtS7hm3M1peCnPc) | [Tried My Best](https://open.spotify.com/album/4opfvMLwwGNzLc3rQUxTKQ) | 3:39 |
 | 50 | [huracán](https://open.spotify.com/track/4G91l5iCU9zRDlY0Vc8zbf) | [Outerloop](https://open.spotify.com/artist/7jdQfMeOmxyVKHbmenM3z2) | [huracán](https://open.spotify.com/album/2BChF8W36CPtth0r8oURYF) | 2:58 |
 
-Snapshot ID: `MCw1NGEzYjc1MjI5ZTQ3Y2M5Nzc3NzIxMzcxMzRlZTZmN2E4NDljOWQ5`
+Snapshot ID: `MCw1NmVlYTcwMzExNDE2MjMwYTg0ZmU1YTI4YTBlNjgwNDRmYjRhY2Y4`

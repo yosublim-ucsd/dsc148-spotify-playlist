@@ -1,12 +1,12 @@
 {
   "description": "Tough crowd.",
-  "num_followers": 97744,
+  "num_followers": 98131,
   "original_name": "Laid Back Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODVlMTM3MTc4NzExMWYyOWY5YTRkYmUzNmVmNTg2ODU4MDBkMTNj",
+  "snapshot_id": "MCw0MzZjMDEwZWY5ZTRjZDdlNWYxMzI0NzBjM2I1ZWRmOTA0MzdjODgy",
   "tracks": [
     {
       "added_at": "2023-10-19 22:00:00",
@@ -555,22 +555,18 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Ur Best Friend",
-        "url": "https://open.spotify.com/album/5vQaqB1ZfaOW6BSEGuQ8HC"
+        "name": "Chasing Summer",
+        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
       },
       "artists": [
         {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
         }
       ],
-      "duration_ms": 182858,
-      "name": "Ur Best Friend (with Kehlani)",
-      "url": "https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc"
+      "duration_ms": 174946,
+      "name": "You Can't Save Me",
+      "url": "https://open.spotify.com/track/1OykBmq3vmMSEOQShNIBLv"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -591,6 +587,26 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "Ur Best Friend",
+        "url": "https://open.spotify.com/album/5vQaqB1ZfaOW6BSEGuQ8HC"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 182858,
+      "name": "Ur Best Friend (with Kehlani)",
+      "url": "https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "Do To Me",
         "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 225103,
       "name": "Do To Me",
       "url": "https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Chasing Summer",
-        "url": "https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 174946,
-      "name": "You Can't Save Me",
-      "url": "https://open.spotify.com/track/1OykBmq3vmMSEOQShNIBLv"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -671,22 +671,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "Phases II - EP",
-        "url": "https://open.spotify.com/album/6VIjrQlk9cTrufxWJX8pi1"
+        "name": "None Of Your Concern",
+        "url": "https://open.spotify.com/album/2pq9ByHGHMflMY3qy20BMW"
       },
       "artists": [
         {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         },
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
         }
       ],
-      "duration_ms": 192546,
-      "name": "Change (with Kehlani)",
-      "url": "https://open.spotify.com/track/2qhId6ko1ug9A0mw8BQJs8"
+      "duration_ms": 262213,
+      "name": "None Of Your Concern",
+      "url": "https://open.spotify.com/track/1nal3Tf1OCV53KigMZXsZ7"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -711,22 +711,22 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "None Of Your Concern",
-        "url": "https://open.spotify.com/album/2pq9ByHGHMflMY3qy20BMW"
+        "name": "Phases II - EP",
+        "url": "https://open.spotify.com/album/6VIjrQlk9cTrufxWJX8pi1"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
         },
         {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 262213,
-      "name": "None Of Your Concern",
-      "url": "https://open.spotify.com/track/1nal3Tf1OCV53KigMZXsZ7"
+      "duration_ms": 192546,
+      "name": "Change (with Kehlani)",
+      "url": "https://open.spotify.com/track/2qhId6ko1ug9A0mw8BQJs8"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1263,42 +1263,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "People Come And Go",
-        "url": "https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN"
-      },
-      "artists": [
-        {
-          "name": "Delara",
-          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
-        }
-      ],
-      "duration_ms": 154076,
-      "name": "People Come And Go",
-      "url": "https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Sweet Life",
-        "url": "https://open.spotify.com/album/0saOIEtDIQ0DyauxiejMHr"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        },
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "Sweet Life",
-      "url": "https://open.spotify.com/track/5Yr0XWjR4eX41pwPljs7NV"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Hyperion",
         "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
       },
@@ -1347,6 +1311,42 @@
       "duration_ms": 227880,
       "name": "Tamale",
       "url": "https://open.spotify.com/track/6CEiPLGmX7V2GQwMYjB6DL"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "Sweet Life",
+        "url": "https://open.spotify.com/album/0saOIEtDIQ0DyauxiejMHr"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        },
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/5Yr0XWjR4eX41pwPljs7NV"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "People Come And Go",
+        "url": "https://open.spotify.com/album/6proxaDXCxD6lCrYjIeUmN"
+      },
+      "artists": [
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        }
+      ],
+      "duration_ms": 154076,
+      "name": "People Come And Go",
+      "url": "https://open.spotify.com/track/4aHmZq4scHbduZcGKqv28T"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "who knew (from Grown-ish)",
-        "url": "https://open.spotify.com/album/1iGnMcJ5NNC1NZprmZt9y0"
-      },
-      "artists": [
-        {
-          "name": "Chloe x Halle",
-          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "who knew - from Grown-ish",
-      "url": "https://open.spotify.com/track/0uIitPtzjqgkmFyY0wkPfl"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "Roll Some Mo (feat. Ty Dolla $ign & Wale) [Remix]",
         "url": "https://open.spotify.com/album/0iRhoLbrny7qdvxdclPcaO"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 211707,
       "name": "Roll Some Mo (feat. Ty Dolla $ign & Wale) - Remix",
       "url": "https://open.spotify.com/track/6G0XqXVBx2PHaOrSuHaWP0"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "who knew (from Grown-ish)",
+        "url": "https://open.spotify.com/album/1iGnMcJ5NNC1NZprmZt9y0"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "who knew - from Grown-ish",
+      "url": "https://open.spotify.com/track/0uIitPtzjqgkmFyY0wkPfl"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
-        "name": "How Is Your Soul?",
-        "url": "https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X"
-      },
-      "artists": [
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
-        }
-      ],
-      "duration_ms": 166848,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/7FdweFFs7ZqJe4dHoKicuR"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
         "name": "sukkerspinn & hodepine (Del 2)",
         "url": "https://open.spotify.com/album/1VMrZTOpnA6v86LaR8YST0"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 163366,
       "name": "gangster romanse (feat. Magdi)",
       "url": "https://open.spotify.com/track/1wYNkGybIdmnXFtTM7sS9C"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
+        "name": "How Is Your Soul?",
+        "url": "https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X"
+      },
+      "artists": [
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        }
+      ],
+      "duration_ms": 166848,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/7FdweFFs7ZqJe4dHoKicuR"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -1587,6 +1587,26 @@
     {
       "added_at": "2023-10-19 22:00:00",
       "album": {
+        "name": "Chasing Summer",
+        "url": "https://open.spotify.com/album/6GkRXv0hCHePEkqkhxCpk2"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 216906,
+      "name": "Hair Down",
+      "url": "https://open.spotify.com/track/3OuELTPhn9RX3XpEocsIwm"
+    },
+    {
+      "added_at": "2023-10-19 22:00:00",
+      "album": {
         "name": "Sympati For Djevelen",
         "url": "https://open.spotify.com/album/0Hdb0MziTQXfHUDTAzWf1r"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 173809,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/4JRrncVqFfwoAQbNJb5cTT"
-    },
-    {
-      "added_at": "2023-10-19 22:00:00",
-      "album": {
-        "name": "Chasing Summer",
-        "url": "https://open.spotify.com/album/6GkRXv0hCHePEkqkhxCpk2"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 216906,
-      "name": "Hair Down",
-      "url": "https://open.spotify.com/track/3OuELTPhn9RX3XpEocsIwm"
     },
     {
       "added_at": "2023-10-19 22:00:00",

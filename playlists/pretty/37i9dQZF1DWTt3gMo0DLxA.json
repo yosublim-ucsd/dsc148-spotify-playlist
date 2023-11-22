@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover - MAD",
-  "num_followers": 50850,
+  "num_followers": 50952,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmU2MWFhOTc0NzVmOTY2ZjM0NzY5OTE3MzkzMWU1YzE5NTBiOTcw",
+  "snapshot_id": "MCxmZmYyYzc1ZTNiMThhZjdmMTE2MzFhNjU5YjFkZTY1Yzk0MTFiNTcy",
   "tracks": [
     {
       "added_at": "2023-11-06 11:12:57",
@@ -79,6 +79,30 @@
       "duration_ms": 282222,
       "name": "Aradhya (From \"Kushi\") (Telugu)",
       "url": "https://open.spotify.com/track/4KwsXvFDCoW7l1cfxhjTdD"
+    },
+    {
+      "added_at": "2023-11-21 12:05:40",
+      "album": {
+        "name": "Ganagana Mogalira (From \"Mangalavaaram\")",
+        "url": "https://open.spotify.com/album/0knqqzJEBzdR7LnSVILmj6"
+      },
+      "artists": [
+        {
+          "name": "V.M. Mahalingam",
+          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Bhaskarabhatla",
+          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
+        }
+      ],
+      "duration_ms": 234375,
+      "name": "Ganagana Mogalira (From \"Mangalavaaram\")",
+      "url": "https://open.spotify.com/track/51KOcPgZXSV9prNhN6MBRU"
     },
     {
       "added_at": "2023-08-30 10:44:11",
@@ -463,30 +487,6 @@
     {
       "added_at": "2023-08-30 10:44:11",
       "album": {
-        "name": "Almost Padipoyindhe Pilla (From \"Das Ka Dhamki\") - Single",
-        "url": "https://open.spotify.com/album/3Bq1oXhTLEWvDV03ZmrVue"
-      },
-      "artists": [
-        {
-          "name": "Leon James",
-          "url": "https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy"
-        },
-        {
-          "name": "Adithya RK",
-          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
-        },
-        {
-          "name": "Poornachari",
-          "url": "https://open.spotify.com/artist/7ebwtbh8aSrOUbKIHDW4ty"
-        }
-      ],
-      "duration_ms": 213242,
-      "name": "Almost Padipoyindhe Pilla (From \"Das Ka Dhamki\")",
-      "url": "https://open.spotify.com/track/3d4BUW2iX1HagWRRkat9l7"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
         "name": "Vellake",
         "url": "https://open.spotify.com/album/5wJ35PHDoH8sL0C74s4fQL"
       },
@@ -742,6 +742,10 @@
         {
           "name": "Anurag Kulkarni",
           "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Chaitanya Prasad",
+          "url": "https://open.spotify.com/artist/3atkL177PZeKsF3aLyWYRf"
         }
       ],
       "duration_ms": 235299,

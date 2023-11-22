@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-252 songs - 15 hr 3 min
+253 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [](https://open.spotify.com/track/7d4i1kAUl9IZR4i46klvNT) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2NOV4cZnAxpbVm2JPMFldc) | 0:00 | 2020-12-08\* | 2022-09-09 |
 | [1000 Arms](https://open.spotify.com/track/0zZIYr7bxWx4RMQx5k4R3G) | [Lymbyc Systym](https://open.spotify.com/artist/7fpjImuvKls8BeMFW9iil5) | [Carved By Glaciers](https://open.spotify.com/album/12JjiCRZO1g6JAdPn0jGpG) | 2:49 | 2021-01-15 | 2022-05-20 |
 | [160512](https://open.spotify.com/track/4qTfc9EIeFGUhy5uYLkpjU) | [New Mountain](https://open.spotify.com/artist/13XROkNcgR324FYTeCcFey) | [160512](https://open.spotify.com/album/4AkJRb8Du6HgER21JF1rad) | 2:28 | 2021-01-15 | 2022-05-20 |
+| [A Brief Walk in the Sea](https://open.spotify.com/track/0vie4cHF1RnW9n4Pvzadzi) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [L'Eixample](https://open.spotify.com/album/64d6rUGUQCzx5YYQxqEJuH) | 7:04 | 2023-11-10 |  |
 | [A Brief Walk in the Sea](https://open.spotify.com/track/1O3wMxzAagYQ336rdfH9bQ) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [L'Eixample](https://open.spotify.com/album/6lBcFKiDVRp6rMWC5Po809) | 7:04 | 2022-07-22 | 2023-04-30 |
 | [A Brief Walk in the Sea](https://open.spotify.com/track/5F1vyDlHJfC8APmTQbrWmK) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [L'Eixample](https://open.spotify.com/album/1lfCe8KBQcAdEttuWRuao5) | 7:04 | 2023-04-21 | 2023-11-01 |
 | [A Brief Walk in the Sea](https://open.spotify.com/track/7AgcA4piGo8vbvXEt7ib1n) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [L'eixample](https://open.spotify.com/album/5DLrneBHg2tNEXr6sM6pzx) | 7:04 | 2020-12-08\* | 2022-07-29 |
@@ -133,7 +134,7 @@
 | [Kepesh](https://open.spotify.com/track/0p8gq23UoCaw6mfndx470w) | [Arms and Sleepers](https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP) | [The Organ Hearts](https://open.spotify.com/album/4Fb3dmmuXqDzsa1BtaP9JR) | 5:28 | 2021-01-15 | 2021-05-27 |
 | [Kilika](https://open.spotify.com/track/2GvS6SG9VHxRgMbLLPFEVI) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Kilika](https://open.spotify.com/album/665D0qSJx36civibfzbJ3B) | 4:44 | 2020-12-08\* | 2021-03-18 |
 | [Know Where](https://open.spotify.com/track/0iT8tYZ3haeUUXWogdRJh0) | [Holy Other](https://open.spotify.com/artist/7txCfGfh46OwoUBDPj4HKL) | [With U](https://open.spotify.com/album/5eIrB1QIV8Yz2tbGaw2S9D) | 3:28 | 2020-12-08\* | 2021-03-06 |
-| [Komal](https://open.spotify.com/track/1jMYGXV4IDZcB3M4Bi3W16) | [Ka Wadhwa](https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv) | [Komal](https://open.spotify.com/album/6XfBKfj6M49k4j5fRh1uME) | 3:03 | 2023-10-20 |  |
+| [Komal](https://open.spotify.com/track/1jMYGXV4IDZcB3M4Bi3W16) | [Ka Wadhwa](https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv) | [Komal](https://open.spotify.com/album/6XfBKfj6M49k4j5fRh1uME) | 3:03 | 2023-10-20 | 2023-11-22 |
 | [Lake Green](https://open.spotify.com/track/5CGZFKWSIipVq4DfANWaBl) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Colors](https://open.spotify.com/album/5YRZc34LMwheVAwDJX9u2x) | 3:21 | 2022-12-30 | 2023-10-16 |
 | [Leaving the Tetons](https://open.spotify.com/track/0tehe7Y347aJvGjsDBjeIw) | [Mark Preston](https://open.spotify.com/artist/64mJPfKjDJqEcrc1fRJH9j) | [Nature & Design](https://open.spotify.com/album/6D6xz53TceI61ZebcMtmSo) | 5:34 | 2020-12-08\* | 2021-05-27 |
 | [Levitate](https://open.spotify.com/track/2EXBGX5M8y0bp8IUPagUpy) | [Rizik](https://open.spotify.com/artist/1RPAAHsStLojK33L7zhgzl) | [Levitate](https://open.spotify.com/album/0BtISmmdavrCmqfYAZyeKK) | 4:22 | 2020-12-08\* | 2021-03-06 |
@@ -195,7 +196,7 @@
 | [Response](https://open.spotify.com/track/0RxznT4d9yj4Uc70jYC95k) | [Corre](https://open.spotify.com/artist/0IR5NctDCruRpAkUbkezi9) | [Response](https://open.spotify.com/album/7jA8d1DuXyHGtN7uWsnFxl) | 3:09 | 2020-12-08\* |  |
 | [Retreat Bubble](https://open.spotify.com/track/1M7KwdBtaGsBNzUcOyidzy) | [Rombos Aran](https://open.spotify.com/artist/5urp8Oh8Gq6I7H53TgRjpi) | [Retreat Bubble](https://open.spotify.com/album/4dwdIrQLJUn0tmpwFtUhKe) | 1:55 | 2021-12-09 | 2023-07-29 |
 | [Reveries](https://open.spotify.com/track/2Vjjo1WB2m1YBYyJqrcA9u) | [Dream City](https://open.spotify.com/artist/0xKWlgGQrGhZgWxhbQlBSE) | [Somnolent Summer](https://open.spotify.com/album/7lvhfPxqTsvbM5ZFKPinq2) | 2:02 | 2022-05-26 |  |
-| [Reversoothes](https://open.spotify.com/track/61JqDmHZeYLK2RclRBSr9F) | [Selma Moore](https://open.spotify.com/artist/2JMWh2t6eo5FgtnVUTX7Im) | [Reversoothes](https://open.spotify.com/album/2RNjKIjMIo0FXWk71vzadZ) | 3:07 | 2021-09-30 | 2023-08-11 |
+| [Reversoothes](https://open.spotify.com/track/61JqDmHZeYLK2RclRBSr9F) | [Selma Moore](https://open.spotify.com/artist/2JMWh2t6eo5FgtnVUTX7Im) | [Reversoothes](https://open.spotify.com/album/2RNjKIjMIo0FXWk71vzadZ) | 3:07 | 2021-09-30 |  |
 | [Rêves](https://open.spotify.com/track/415qfvQLevoRRug7NsTPxy) | [Ignace Lamar](https://open.spotify.com/artist/1isXKlJdwhM1qWvvIMxZja) | [Rêves](https://open.spotify.com/album/5eM0EWZ2ZqFxihXtzQQirS) | 3:18 | 2021-05-27 |  |
 | [Santa Rosa](https://open.spotify.com/track/3xATEhxjTSArvaWteLLtZg) | [Trifonic](https://open.spotify.com/artist/2TDsrZZt4XXF7iQlr5l20Z) | [Ninth Wave](https://open.spotify.com/album/4NJb6SsQSl8kbTPGdMmwgp) | 6:13 | 2020-12-08\* | 2021-02-16 |
 | [sapphire soul](https://open.spotify.com/track/6nCdkMcXgi5Dgb4sdwXq77) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [ivory comet & sapphire soul](https://open.spotify.com/album/0ktKJDZnePFCxsB7FNBUEx) | 2:47 | 2022-06-16 |  |
@@ -257,7 +258,7 @@
 | [way of form](https://open.spotify.com/track/6GYmiaM2r76K3k0sdp6gFL) | [Astrama](https://open.spotify.com/artist/4afZNKvxr3g0kxXDx58At1) | [way of form](https://open.spotify.com/album/6uXIpxafwnsXtciS4v93Zl) | 3:12 | 2022-12-30 | 2023-04-16 |
 | [We Belong To The Stars](https://open.spotify.com/track/2ud8DOtMIZABZJC0huKtFC) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [We Belong To The Stars](https://open.spotify.com/album/2geyxNpK0n1rdkWJFAmajU) | 3:09 | 2022-12-30 | 2023-11-16 |
 | [Weightless Dreams](https://open.spotify.com/track/5UfsYYVyxWRpJ5sBA32Rns) | [Vayalada](https://open.spotify.com/artist/2MMloDSBp4kDC7SflBJrZi) | [Weightless Dreams](https://open.spotify.com/album/1a3IWoGFoLQ1leCfaT0h81) | 2:53 | 2023-10-06 |  |
-| [Westerfall](https://open.spotify.com/track/2pbp5D1W6KHMTHjVCopP1t) | [Auricz](https://open.spotify.com/artist/1PL9QegP0mArHAjJeJDKWN) | [Westerfall](https://open.spotify.com/album/47VRzxnUBkgeF0wVc5wTLy) | 3:19 | 2022-05-19 |  |
+| [Westerfall](https://open.spotify.com/track/2pbp5D1W6KHMTHjVCopP1t) | [Auricz](https://open.spotify.com/artist/1PL9QegP0mArHAjJeJDKWN) | [Westerfall](https://open.spotify.com/album/47VRzxnUBkgeF0wVc5wTLy) | 3:19 | 2022-05-19 | 2023-11-22 |
 | [Who Tends a Garden](https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Who Tends a Garden](https://open.spotify.com/album/0i1t8drfXdByzo8FYiVNCS) | 4:40 | 2023-01-13 |  |
 | [You Want Dark Tunes?](https://open.spotify.com/track/5sIYyLglAXMRVkhi5IxAwP) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Twin Solar Sunrise](https://open.spotify.com/album/2bwyKZAU4AjrsS3YF5gFhE) | 4:57 | 2020-12-08\* | 2021-01-07 |
 

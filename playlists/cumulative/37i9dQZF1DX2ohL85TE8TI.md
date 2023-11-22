@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: CASTAWAY DIVA\(무인도의 디바\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-757 songs - 1 day 21 hr 47 min
+758 songs - 1 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,6 +494,7 @@
 | [Only You](https://open.spotify.com/track/1PrTalIGiaPcUGTRNe5eNB) | [Lee Hyun](https://open.spotify.com/artist/6MLmtxHkGVuPhYIcMUm1AQ) | [Eve, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/4RFyDkwHHZKpxXYleEs2U8) | 4:10 | 2022-08-02 | 2022-11-17 |
 | [Only You \(My love X CHEEZE\)](https://open.spotify.com/track/5PR7KeW3YOmGYVQcfMGyln) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Only You \(My love X CHEEZE\)](https://open.spotify.com/album/0tcoDdwZLT3fZssyMMn45r) | 3:13 | 2023-07-17 |  |
 | [Oopsy](https://open.spotify.com/track/6P4Q8SeHr7kPcCHopi1pcS) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [Destined with You \(Original Television Soundtrack\), Pt.8](https://open.spotify.com/album/3PJSbWsupdVmmv9P4M4TUx) | 3:21 | 2023-10-10 |  |
+| [Open Your Eyes](https://open.spotify.com/track/0z3nhpdXbtvvBxy1RCKjca) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [CASTAWAY DIVA OST SEO MOK HA \(PARK EUN BIN\) Vol.4](https://open.spotify.com/album/4yLlp2CKXFmk4HuFrXtfaA) | 4:08 | 2023-11-21 |  |
 | [Open Your Heart](https://open.spotify.com/track/74ypPUrpGXmPe5FYXpFcIl) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 9](https://open.spotify.com/album/02aLskpsr4Ef6Njn2XIw73) | 3:45 | 2022-04-12 | 2022-06-19 |
 | [Orange Dream](https://open.spotify.com/track/7mXP2e8BWogfNUetKRIWes) | [nokdu](https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D) | [The Killer's Shopping List, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5vbG0V7H1bPV18r1cP891u) | 4:36 | 2022-05-11 | 2022-07-09 |
 | [Our love was pain \(Nth Romance X Baek Z Young\)](https://open.spotify.com/track/4HdQsMtjNUqknNh5V0fGpE) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Our love was pain \(Nth Romance X Baek Z Young\)](https://open.spotify.com/album/4vmJ55oDItdV87QWV1gRCP) | 3:39 | 2021-12-19 | 2022-03-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 
 > Lush, shimmery guitars\. Cover: Ichika Nito
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,044 likes - 71 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,080 likes - 71 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 22 | [Rain](https://open.spotify.com/track/26OHZSf061GCTUdcs3e2MP) | [Ruben Wan](https://open.spotify.com/artist/5bYwZAV9K923kEHW1Yhol5) | [Rain](https://open.spotify.com/album/3hjh63il08PF8uSXbw1bot) | 2:40 |
 | 23 | [Surface](https://open.spotify.com/track/44bTGsp2iJO8AjYEjRqP47) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [INIMI](https://open.spotify.com/artist/4tge67x7Fvdd1Z04eJr2LL) | [Could It Be U / Surface](https://open.spotify.com/album/4cU2LPwnLxgMwF8151yNxt) | 3:07 |
 | 24 | [Daygrooves](https://open.spotify.com/track/60ypA21Lm4l9A19fR7FJuB) | [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K) | [Equilibrium](https://open.spotify.com/album/3kqWqfzGCVESFoN7vI1kbt) | 1:59 |
-| 25 | [When She's Mine](https://open.spotify.com/track/1sU9AsKJehVcsHdE4pDKh8) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 1:11 |
+| 25 | [When She's Mine](https://open.spotify.com/track/1sU9AsKJehVcsHdE4pDKh8) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 1:11 |
 | 26 | [Where The Light Comes](https://open.spotify.com/track/6fG0RedcoVqZHOHaDfZDkl) | [G R I Z](https://open.spotify.com/artist/3gBnd68xkEhdBujCwX6daz) | [Where The Light Comes](https://open.spotify.com/album/4OiaKI9cso30eTR4xdYaIg) | 2:31 |
 | 27 | [Buttermilk](https://open.spotify.com/track/7MJC5ROiAjImSkGm85eIWa) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY) | [Flutter](https://open.spotify.com/album/1iXnreOHsfrUOF81pv2Alk) | 3:25 |
 | 28 | [The Brook](https://open.spotify.com/track/1sLUDiE3A4PuWT3vmiCAio) | [Kurt Stewart](https://open.spotify.com/artist/1SzLvjYm0lQLPi3AneCpDO), [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Pegan Hill](https://open.spotify.com/album/3olh0hdIR0hLqYxJcfoPQB) | 1:55 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 70 | [Holiday](https://open.spotify.com/track/3yEinCTSzCdXNxbJ1ax7o6) | [jalowo](https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS), [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY), [Alber](https://open.spotify.com/artist/5nJQi88KO8UbkSHDUb57ZS) | [Holiday](https://open.spotify.com/album/1IdapISfbxpMTBCsPTLsvg) | 2:48 |
 | 71 | [This World](https://open.spotify.com/track/5UrRSpJaU8sCp1C8OeurgV) | [Justus West](https://open.spotify.com/artist/1Rr0QwTQSGjUCpYFfXqnWO), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [This World](https://open.spotify.com/album/0VuUpLsPLvDF51IvRGk4jV) | 4:27 |
 
-Snapshot ID: `MCwwNzUwZDlmOGM5NmQyNzM2MDE5ZjZhNmMxZGU3Y2JhZTRkNjUyZjAx`
+Snapshot ID: `MCw3MGU5N2YyMjk0YzFiNzY1MGQwMTg1ZmE5MTNhZjI5MDgxZWZiOTBk`

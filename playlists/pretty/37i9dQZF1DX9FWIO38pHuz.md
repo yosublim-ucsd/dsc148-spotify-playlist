@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 
 > Funk favorites from 2022\. Cover: Cory Henry \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,580 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,581 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 | 28 | [Lesson](https://open.spotify.com/track/2CVYQ2byZuJjVFW0mZND7X) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4) | [Reachin' Up](https://open.spotify.com/album/4Adfft6sCzWvgkr4B7Vjql) | 4:10 |
 | 29 | [BURN YOU OUT](https://open.spotify.com/track/6XTiMdM4asDBoJlZ6VTmUR) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [WE SURVIVED THE STORM, VOL\. 1](https://open.spotify.com/album/6qMZQhxycxbNmswW4bEfim) | 3:04 |
 | 30 | [The Power of the One](https://open.spotify.com/track/3HUE2LkLoZNyxUPVGClp1k) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT), [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv), [The Williams Singers](https://open.spotify.com/artist/1KRYQkqH6DhWJ05AzMhGME) | [The Power of the One](https://open.spotify.com/album/0HiqFidTpNyPKiaW8B0lwg) | 4:58 |
-| 31 | [This is It \(feat\. Cory Wong\)](https://open.spotify.com/track/09iwuUrPrk4O1ogWhbe35x) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 3:05 |
+| 31 | [This is It \(feat\. Cory Wong\)](https://open.spotify.com/track/09iwuUrPrk4O1ogWhbe35x) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 3:05 |
 | 32 | [My Kinda Love](https://open.spotify.com/track/1gmevzt1F99VdMOGfy3RAu) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj), [rynjae](https://open.spotify.com/artist/5IZyhABCE3PaMrBL14PNKM) | [My Kinda Love](https://open.spotify.com/album/6JPyYRYC3yYxl9xTnxQV2v) | 3:24 |
 | 33 | [Smoke](https://open.spotify.com/track/3ksB5r2RBez5pI8ze6weIz) | [AJ McLean](https://open.spotify.com/artist/5RFf1gyPc9lMOtCq2k6tLl) | [Smoke](https://open.spotify.com/album/14X6uVSMTSRi5k0SPTTkhw) | 1:58 |
 | 34 | [GOODTIME](https://open.spotify.com/track/0B1u3O0JaCDxlInbrjT6CE) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [GOODTIME](https://open.spotify.com/album/69nDpEyn52nnxChWwUDSO3) | 3:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FWIO38pHuz.md) - [plain]
 | 74 | [You Not Me \- Remix](https://open.spotify.com/track/6qmZKSHiYJCV09bSToTm3y) | [Baegod](https://open.spotify.com/artist/1F03cvxw1p5NzqkLnwDpcL), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [You Not Me \(Remix\)](https://open.spotify.com/album/5nCT2rB99boTMRmYIvky0d) | 2:34 |
 | 75 | [Pepper Dem](https://open.spotify.com/track/3NNozRRUuQnwMb3uASRpj4) | [Nathan Adams](https://open.spotify.com/artist/4Qc2hTBOx11WvgZMK2M4O9) | [Pepper Dem](https://open.spotify.com/album/2UffSLAJYhM96CBOt5dZtR) | 4:08 |
 
-Snapshot ID: `MCw5OGEzOWM5NTExN2RjNWYwMDA3YTcwNzQwODhlOGE5NTNjOGRmYjc5`
+Snapshot ID: `MCxjMjQ3Mjk5OTY5YTBmMGEyMDljODZiYjQ1MjRhYmY4YjU1MjIyMGU5`

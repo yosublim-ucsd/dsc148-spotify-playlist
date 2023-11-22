@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Regina Song, Adriel\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,858 likes - 142 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,868 likes - 142 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 13 | [ALIVE](https://open.spotify.com/track/0m5nYYS1ns1HriJIAJLij7) | [Lucky Levi](https://open.spotify.com/artist/33uMBnoMtyYiiD1fICF1r7), [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [ALIVE](https://open.spotify.com/album/0oezakACIT7wGoCOo7NZG3) | 2:08 |
 | 14 | [marie.](https://open.spotify.com/track/1z5qvchVOW2jtZ6o1mSfXO) | [tuneron](https://open.spotify.com/artist/4TyMl1Bv5BGyDSc2MCbGB8), [UNA](https://open.spotify.com/artist/7eNUE9YfOy3u8n1tDgKazU) | [marie.](https://open.spotify.com/album/1oZzk4fCn46E48y4xdXmSt) | 3:46 |
 | 15 | [Back to You](https://open.spotify.com/track/21ywnlhRGe2tjnnjh7Q1hz) | [Charis](https://open.spotify.com/artist/624di24HXgttjdzLB0MgNW) | [Back to You](https://open.spotify.com/album/2v4hWluG2B0azVyTvABWuD) | 3:20 |
-| 16 | [Stepped Out](https://open.spotify.com/track/6h60gzTtGD8s6FxUknwPxU) | [Count Vernon](https://open.spotify.com/artist/2047BIPNm8CrFvFRmu8CvS) | [The Nomad Diaries](https://open.spotify.com/album/2K4lmCE2cPoRlI3QtHSYbW) | 3:31 |
+| 16 | [Stepped Out](https://open.spotify.com/track/5ahoBmPEdFeMDtfoRnVTih) | [Count Vernon](https://open.spotify.com/artist/2047BIPNm8CrFvFRmu8CvS) | [The Nomad Diaries](https://open.spotify.com/album/6PoVtTqUjdDFE67k4YN4YC) | 3:31 |
 | 17 | [Stale](https://open.spotify.com/track/7MzIqF3Uj3KSf4pxYondnp) | [Krunkle](https://open.spotify.com/artist/2i1PcYTSpRTEvgF5SbTlB3) | [Stale](https://open.spotify.com/album/6RxSUTquenhzrkIrCKCRS1) | 3:27 |
 | 18 | [Love I Won't Show](https://open.spotify.com/track/2iHasHlT7ZRnKhTbs7wJPy) | [Zafrin Izham](https://open.spotify.com/artist/7ui5d2vzoHu3xI1k5cM3cb), [Lolaophy](https://open.spotify.com/artist/6gaxcywgaksI4Xl5G2acKe) | [Love I Won't Show](https://open.spotify.com/album/4lc3SJXew90wEegmwYsvzb) | 3:49 |
 | 19 | [Again](https://open.spotify.com/track/637QmtjwFCTxMqIYNZQKo0) | [jan osg](https://open.spotify.com/artist/1R9V4etlxmQ7HaJyY3tozP) | [Again](https://open.spotify.com/album/7MVO282s0BAIXdFUmYxTsd) | 4:09 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 141 | [Taxi Fare](https://open.spotify.com/track/62UTUM3McxWoeB3Zo3Abg7) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [mya](https://open.spotify.com/artist/7yLUaQwfD82tNZm2ACAUtb) | [Taxi Fare](https://open.spotify.com/album/4Q9B5EDsCIFhPd3NqltGkO) | 3:36 |
 | 142 | [Nadia](https://open.spotify.com/track/6QFiYCiXkIt7arRQYsopu9) | [Burmese Bombshells](https://open.spotify.com/artist/2LjrfHF7nEMEDoTd4eJ522) | [Nadia](https://open.spotify.com/album/1dkVblyDuSDRjGfdL505Vf) | 3:21 |
 
-Snapshot ID: `MCxhYzg3ZDUzNjQ0ZWExMjcyYzY0YzE4NjNiYmY1M2M4ODcwNTY1ZmIy`
+Snapshot ID: `MCxmMTgzMGM0YmUyMmNmYWQ0MDlkMTNkMWI4MmNhMmZlMzRlOWRkN2Fi`

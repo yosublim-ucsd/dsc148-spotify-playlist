@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Snelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,215 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,223 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Ruin me](https://open.spotify.com/track/6Wk0Zttmn4k4Z5An5DMdmJ) | [Ann King](https://open.spotify.com/artist/5UmI3pf3FYbVS6VLdQvrQa) | [Ruin me](https://open.spotify.com/album/7d7xFjMiMWiGJ2TRTXrjc0) | 3:24 |
 | 100 | [Dirt On My Diamonds](https://open.spotify.com/track/5EtjaLlwWCGojDkPc3aFfO) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Dirt On My Diamonds, Vol\. 1](https://open.spotify.com/album/6mAmIXjkf15GnL9LFpW8yL) | 3:23 |
 
-Snapshot ID: `MCw1N2I2NTVkMTE3MTYwMmZmZmVlNDk2NmQ5ZGY3Y2QwNTg1MmZkYjQx`
+Snapshot ID: `MCxmODliNDBjYTJiMGM0YmQ0YjI5OGFiZDdlMzNkYWYyZjUxZTZjM2Iw`

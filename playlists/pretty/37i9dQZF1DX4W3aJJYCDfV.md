@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Eliza Rose + Calvin Harris \(pictured\), Tate McRae, Bugzy Malone and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,155 likes - 149 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,168 likes - 149 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 148 | [Zone](https://open.spotify.com/track/6UDPdvoMulmGHHdapJmlOJ) | [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [Zone](https://open.spotify.com/album/6oHMFq66Q1jYi8H6i8WzZU) | 2:57 |
 | 149 | [Desire \(with VITA\)](https://open.spotify.com/track/6aCFpO6fjm5FTEsvqJtALr) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB) | [Desire](https://open.spotify.com/album/5rrC3LhLmzUkQQC5mqO5AY) | 2:58 |
 
-Snapshot ID: `MCw2N2UxNzE1ZWRhNjE3NjM5YTliOWEwMjRjM2ZhNDY4MzcyNjM5NTZi`
+Snapshot ID: `MCwxMzY0MTA4ZTQxZmM4Yzk5ODYzMjY0Yjc2MTU5YjRkYzNiNDhmYzIz`

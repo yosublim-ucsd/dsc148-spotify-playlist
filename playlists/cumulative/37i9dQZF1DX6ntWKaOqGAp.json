@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u30b5\u30f3\u30dc\u30de\u30b9\u30bf\u30fc",
+  "description": "\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: Chilli Beans.",
   "name": "J-Rock Now",
   "tracks": [
     {
@@ -666,7 +666,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 204581,
       "name": "Anshin",
       "url": "https://open.spotify.com/track/3t6pKG8DLUbtlaLSSNr4z6"
@@ -1164,6 +1164,24 @@
       "duration_ms": 165368,
       "name": "Blood in blue",
       "url": "https://open.spotify.com/track/4qfi7sCX4w5dZiIltgkPHB"
+    },
+    {
+      "album": {
+        "name": "bloom",
+        "url": "https://open.spotify.com/album/3M1wHslRzr0CVK4oYyCV0K"
+      },
+      "artists": [
+        {
+          "name": "\u30cd\u30af\u30e9\u30a4\u30c8\u30fc\u30ad\u30fc",
+          "url": "https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197237,
+      "name": "bloom",
+      "url": "https://open.spotify.com/track/1f37xjUqPlrDvA6MdQoAis"
     },
     {
       "album": {
@@ -1819,6 +1837,24 @@
     },
     {
       "album": {
+        "name": "Cult.",
+        "url": "https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268203,
+      "name": "Cult.",
+      "url": "https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M"
+    },
+    {
+      "album": {
         "name": "ACTA",
         "url": "https://open.spotify.com/album/3gjpogPcDu12ZDRaDtV5KL"
       },
@@ -1902,7 +1938,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 189333,
       "name": "daiseikai",
       "url": "https://open.spotify.com/track/1dVE8jZlBroPUcnFTEc3hS"
@@ -2115,6 +2151,24 @@
     },
     {
       "album": {
+        "name": "YUGE",
+        "url": "https://open.spotify.com/album/57lFRwSw9KGnaZC99LG2LU"
+      },
+      "artists": [
+        {
+          "name": "tacica",
+          "url": "https://open.spotify.com/artist/6iglpAqZTAmvm0ffNKlaFS"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244700,
+      "name": "discord",
+      "url": "https://open.spotify.com/track/59KtqHrsiFU8ab3iOMlNsb"
+    },
+    {
+      "album": {
         "name": "Division",
         "url": "https://open.spotify.com/album/1o4wsjJbgLTH2q2LqowwX1"
       },
@@ -2202,6 +2256,24 @@
       "duration_ms": 209811,
       "name": "Dokodatteii",
       "url": "https://open.spotify.com/track/444UtyeTFdSZ7eRRfUJSnp"
+    },
+    {
+      "album": {
+        "name": "Welcome to My Castle",
+        "url": "https://open.spotify.com/album/6DSelDneeVFEluC97trMur"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213552,
+      "name": "doll",
+      "url": "https://open.spotify.com/track/4LbegEhpVETr2aAOoo6kP5"
     },
     {
       "album": {
@@ -3418,7 +3490,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 223600,
       "name": "Hanaarashi",
       "url": "https://open.spotify.com/track/7appEyBT2D7skgWyyb5klH"
@@ -4236,7 +4308,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 230000,
       "name": "I like you",
       "url": "https://open.spotify.com/track/3RJRPo3N1StuAjAjJqacYk"
@@ -5259,6 +5331,24 @@
     },
     {
       "album": {
+        "name": "Lively Christmas",
+        "url": "https://open.spotify.com/album/0W6Ot4XHxqDZbZGLGCjRrP"
+      },
+      "artists": [
+        {
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198711,
+      "name": "Lively Christmas",
+      "url": "https://open.spotify.com/track/6r3CoPret0z1iBjUEnnlB8"
+    },
+    {
+      "album": {
         "name": "miss you",
         "url": "https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts"
       },
@@ -5310,6 +5400,24 @@
       "duration_ms": 326284,
       "name": "LOTUS",
       "url": "https://open.spotify.com/track/4qDe8F9LpIIvd7xN2sJzN5"
+    },
+    {
+      "album": {
+        "name": "LOVE (XL)",
+        "url": "https://open.spotify.com/album/4OpHb4ubmIAxWM945jNyfj"
+      },
+      "artists": [
+        {
+          "name": "Hedigan\u2019s",
+          "url": "https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285148,
+      "name": "LOVE (XL)",
+      "url": "https://open.spotify.com/track/5GAjhDdUw6vA33k2DvEbYJ"
     },
     {
       "album": {
@@ -5602,6 +5710,24 @@
       "duration_ms": 191863,
       "name": "Match Pomp",
       "url": "https://open.spotify.com/track/1s27XQgfXccu3SwpsU3ZBP"
+    },
+    {
+      "album": {
+        "name": "Maybe I should die with you",
+        "url": "https://open.spotify.com/album/6LblXqNqBXHUMUTLzmhX7C"
+      },
+      "artists": [
+        {
+          "name": "HOME",
+          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335429,
+      "name": "Maybe I should die with you",
+      "url": "https://open.spotify.com/track/33W1lz1ejtTU4NOfoesFp2"
     },
     {
       "album": {
@@ -7268,7 +7394,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 313974,
       "name": "replica",
       "url": "https://open.spotify.com/track/2ZLdeyeaIQdP4mqcMCB9yR"
@@ -7724,7 +7850,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 224566,
       "name": "sasen",
       "url": "https://open.spotify.com/track/7xy7oiS6rUvZdiqyH451Wd"
@@ -7926,6 +8052,24 @@
       "duration_ms": 298653,
       "name": "Shinyaku [Tsugunai]",
       "url": "https://open.spotify.com/track/6hW5JA90T47nYMNavZw0u3"
+    },
+    {
+      "album": {
+        "name": "ShissoSengen",
+        "url": "https://open.spotify.com/album/1obpchkgyFcuSu20tUsrHo"
+      },
+      "artists": [
+        {
+          "name": "Akasick",
+          "url": "https://open.spotify.com/artist/2P2L4d4iTJgApjJrawjPVT"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "ShissoSengen",
+      "url": "https://open.spotify.com/track/5CDXGv6gewPMnFCx5RXNAe"
     },
     {
       "album": {
@@ -8582,6 +8726,24 @@
       "duration_ms": 321103,
       "name": "Sweet sweet candy time",
       "url": "https://open.spotify.com/track/7KIYIwWDNssdv7tsw90Z8V"
+    },
+    {
+      "album": {
+        "name": "SweetSweet",
+        "url": "https://open.spotify.com/album/3GeS61a2vvPT50oKHaOoIv"
+      },
+      "artists": [
+        {
+          "name": "Puffy AmiYumi",
+          "url": "https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260031,
+      "name": "SweetSweet",
+      "url": "https://open.spotify.com/track/7LgPH3O0HkHYo5IJBcwpTG"
     },
     {
       "album": {
@@ -11035,6 +11197,24 @@
     },
     {
       "album": {
+        "name": "\u3084\u308f\u3089\u304b\u3044\u30d1\u30f3",
+        "url": "https://open.spotify.com/album/09RDJ7ahRy1r4EY1Vy9a1v"
+      },
+      "artists": [
+        {
+          "name": "GLASGOW",
+          "url": "https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200193,
+      "name": "\u3084\u308f\u3089\u304b\u3044\u30d1\u30f3",
+      "url": "https://open.spotify.com/track/13iGFzuBbWAip4qIoVwdEV"
+    },
+    {
+      "album": {
         "name": "\u3089\u3057\u304f",
         "url": "https://open.spotify.com/album/2OcLL8HffVsOIZCM2EmQD9"
       },
@@ -11086,7 +11266,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 204373,
       "name": "\u308b\u308d\u3046\u306e\u5f62\u4ee3",
       "url": "https://open.spotify.com/track/5CIkjGfSK8B46So8gmbwCV"
@@ -11662,7 +11842,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 203937,
       "name": "\u30ab\u30fc\u30cb\u30d0\u30eb",
       "url": "https://open.spotify.com/track/5XGhwqu1TB391if1pD4lje"
@@ -12590,7 +12770,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 310448,
       "name": "\u30c8\u30c9\u30e1\u306e\u4e00\u6483",
       "url": "https://open.spotify.com/track/7sd09c4dFK5dLHRsySex9L"
@@ -13044,6 +13224,24 @@
       "duration_ms": 292509,
       "name": "\u30d1\u30d4\u30b3",
       "url": "https://open.spotify.com/track/061UEZryTNIpPeN9YzDhhY"
+    },
+    {
+      "album": {
+        "name": "SINGER'S HIGH",
+        "url": "https://open.spotify.com/album/0uqbdmdAkwobS4msDI68DG"
+      },
+      "artists": [
+        {
+          "name": "Singer's High",
+          "url": "https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172466,
+      "name": "\u30d1\u30f3\u30b6\u30de\u30b9\u30c8",
+      "url": "https://open.spotify.com/track/1ObqbQDyABhBhhofOITc58"
     },
     {
       "album": {
@@ -14944,7 +15142,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 345139,
       "name": "\u547c\u5438\u306e\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/5DDmuZWyW0lyz1NnJTU0z8"
@@ -15226,6 +15424,24 @@
       "duration_ms": 237975,
       "name": "\u5915\u51ea\u8a60\u8349",
       "url": "https://open.spotify.com/track/3ubz3X8CL6Fd1xUYh1L2IU"
+    },
+    {
+      "album": {
+        "name": "\u5915\u66ae\u308c",
+        "url": "https://open.spotify.com/album/0j9WDauhGREpUgekdrCE8d"
+      },
+      "artists": [
+        {
+          "name": "KANA-BOON",
+          "url": "https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257566,
+      "name": "\u5915\u66ae\u308c",
+      "url": "https://open.spotify.com/track/23eQdy6vYVdy6nkscPMCVG"
     },
     {
       "album": {
@@ -16947,6 +17163,24 @@
     },
     {
       "album": {
+        "name": "\u6d99\u3092\u96a0\u3057\u3066(Boys Don't Cry)",
+        "url": "https://open.spotify.com/album/4JeWP56kr9EVljgX76I0sw"
+      },
+      "artists": [
+        {
+          "name": "Cody\u30fbLee(\u674e)",
+          "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276666,
+      "name": "\u6d99\u3092\u96a0\u3057\u3066(Boys Don't Cry)",
+      "url": "https://open.spotify.com/track/1cMqlaNP7zoTbp8Xerp8em"
+    },
+    {
+      "album": {
         "name": "\u6e26\u5e55",
         "url": "https://open.spotify.com/album/0RpAonftWJz2XX5Rrlc8TK"
       },
@@ -18350,7 +18584,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 230000,
       "name": "\u98a8\u306e\u5642",
       "url": "https://open.spotify.com/track/0XF71aEbLVIqAkvOdnf8YA"
@@ -18386,7 +18620,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 206107,
       "name": "\u98df\u5353",
       "url": "https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI"
@@ -18494,7 +18728,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 248988,
       "name": "\u9ed2\u5b50",
       "url": "https://open.spotify.com/track/3YOzU8IiYNHphHhVrgvuV9"

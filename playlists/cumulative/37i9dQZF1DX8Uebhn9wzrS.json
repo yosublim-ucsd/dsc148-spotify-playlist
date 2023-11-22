@@ -10940,7 +10940,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 141578,
       "name": "Gas Guzzling",
       "url": "https://open.spotify.com/track/4S586yJKAg7TtGaA4SOLec"
@@ -13438,7 +13438,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 151125,
       "name": "in a... mood",
       "url": "https://open.spotify.com/track/06EpTiOF7FJajxmFd3iBZs"
@@ -18404,7 +18404,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 104062,
       "name": "Morning Journey",
       "url": "https://open.spotify.com/track/1191leNva7cN89gJQahJxz"
@@ -20281,6 +20281,24 @@
     },
     {
       "album": {
+        "name": "once upon a time",
+        "url": "https://open.spotify.com/album/5YTL2uewGmx1D5GJcQSZ2w"
+      },
+      "artists": [
+        {
+          "name": "Cheeky Beez",
+          "url": "https://open.spotify.com/artist/2bsxN6WcHThnyAuPiLscbA"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "once upon a time",
+      "url": "https://open.spotify.com/track/4h1kjj76abuzotO1l1b4UK"
+    },
+    {
+      "album": {
         "name": "Once Upon A Time",
         "url": "https://open.spotify.com/album/3lmq7930x9ksc0Foz7Egzx"
       },
@@ -20940,7 +20958,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 97602,
       "name": "Paper Heart",
       "url": "https://open.spotify.com/track/1Hc3WJFNoEVScMuJ8ofDxB"
@@ -30574,7 +30592,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 113339,
       "name": "Walk Through the Sky",
       "url": "https://open.spotify.com/track/1r467DzLbANDioW9MKeM1f"
@@ -31657,6 +31675,24 @@
     },
     {
       "album": {
+        "name": "With your eyes!",
+        "url": "https://open.spotify.com/album/2WomwpHMSA6E2yrMSEJxCI"
+      },
+      "artists": [
+        {
+          "name": "Duos On Mars",
+          "url": "https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149815,
+      "name": "With your eyes!",
+      "url": "https://open.spotify.com/track/1USmYJcOKa94oA58sRnOXJ"
+    },
+    {
+      "album": {
         "name": "Woke",
         "url": "https://open.spotify.com/album/23iKhQwfBkYI5FOwrnMjar"
       },
@@ -31758,7 +31794,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 161927,
       "name": "Wonders",
       "url": "https://open.spotify.com/track/1X1rPupt0v0EpvmIjGfrPI"

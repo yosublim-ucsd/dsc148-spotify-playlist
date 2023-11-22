@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 525928,
+  "num_followers": 526195,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTY2OWZjZDQ5OTRkMGVlMjRhZmZlNzdhZDI3Zjc0NGRiODEyZmNk",
+  "snapshot_id": "MCxkZjdhMzk5YTEyNzg0MmRlMDY3ZmE1OGNhMjZlODg1NWM1ZmY0NTg4",
   "tracks": [
     {
       "added_at": "2023-11-17 17:00:16",
@@ -55,8 +55,8 @@
     {
       "added_at": "2023-11-17 17:00:16",
       "album": {
-        "name": "Blonde Chaya (Sped up)",
-        "url": "https://open.spotify.com/album/1AEkNrupHvnPkit7mBJUKY"
+        "name": "Blonde Chaya (Sped Up)",
+        "url": "https://open.spotify.com/album/6XFhvAghhMETC42WFMhRjc"
       },
       "artists": [
         {
@@ -69,8 +69,8 @@
         }
       ],
       "duration_ms": 181052,
-      "name": "Blonde Chaya - Sped up",
-      "url": "https://open.spotify.com/track/30vcuzW3d8goJci3OBUNt9"
+      "name": "Blonde Chaya - Sped Up",
+      "url": "https://open.spotify.com/track/6WbDwAoc5xr0kFflHZW0A4"
     },
     {
       "added_at": "2023-11-17 17:00:16",
@@ -755,30 +755,6 @@
     {
       "added_at": "2023-11-17 17:00:16",
       "album": {
-        "name": "Anders",
-        "url": "https://open.spotify.com/album/5AXp6zh5m2lyBV5OTH5iwq"
-      },
-      "artists": [
-        {
-          "name": "01099",
-          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
-        },
-        {
-          "name": "Paul",
-          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
-        },
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        }
-      ],
-      "duration_ms": 155020,
-      "name": "Anders",
-      "url": "https://open.spotify.com/track/5TYmnScjaRecWuBqEaA7S5"
-    },
-    {
-      "added_at": "2023-11-17 17:00:16",
-      "album": {
         "name": "Nachts wach",
         "url": "https://open.spotify.com/album/6VLivifFeh65jFqwXCAar3"
       },
@@ -819,6 +795,46 @@
     {
       "added_at": "2023-11-17 17:00:16",
       "album": {
+        "name": "Anders",
+        "url": "https://open.spotify.com/album/5AXp6zh5m2lyBV5OTH5iwq"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "duration_ms": 155020,
+      "name": "Anders",
+      "url": "https://open.spotify.com/track/5TYmnScjaRecWuBqEaA7S5"
+    },
+    {
+      "added_at": "2023-11-17 17:00:16",
+      "album": {
+        "name": "Heute Nacht",
+        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Heute Nacht",
+      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
+    },
+    {
+      "added_at": "2023-11-17 17:00:16",
+      "album": {
         "name": "Turn On The Lights again.. (feat. Future)",
         "url": "https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 267946,
       "name": "Turn On The Lights again.. (feat. Future)",
       "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
-    },
-    {
-      "added_at": "2023-11-17 17:00:16",
-      "album": {
-        "name": "Heute Nacht",
-        "url": "https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Heute Nacht",
-      "url": "https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH"
     },
     {
       "added_at": "2023-11-17 17:00:16",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-11-17 17:00:16",
       "album": {
+        "name": "HERZINFUCKED",
+        "url": "https://open.spotify.com/album/4wJVpq8vt31kB9wySZY0WB"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 165476,
+      "name": "Auf & Ab",
+      "url": "https://open.spotify.com/track/2sFsvaMRe8PKo5AFdBE9qC"
+    },
+    {
+      "added_at": "2023-11-17 17:00:16",
+      "album": {
         "name": "Durstl\u00f6scher",
         "url": "https://open.spotify.com/album/4RF1l08nRRHF3lWfM35bUx"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 161440,
       "name": "Durstl\u00f6scher",
       "url": "https://open.spotify.com/track/2QAsTQ1tydZ6mhYH2FyzfG"
-    },
-    {
-      "added_at": "2023-11-17 17:00:16",
-      "album": {
-        "name": "HERZINFUCKED",
-        "url": "https://open.spotify.com/album/4wJVpq8vt31kB9wySZY0WB"
-      },
-      "artists": [
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        }
-      ],
-      "duration_ms": 165476,
-      "name": "Auf & Ab",
-      "url": "https://open.spotify.com/track/2sFsvaMRe8PKo5AFdBE9qC"
     },
     {
       "added_at": "2023-11-17 17:00:16",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-11-17 17:00:16",
       "album": {
-        "name": "CHASE THE SUN",
-        "url": "https://open.spotify.com/album/7aWwnUeQPDuBor9y5h8duc"
-      },
-      "artists": [
-        {
-          "name": "TurboKevin",
-          "url": "https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6"
-        }
-      ],
-      "duration_ms": 211288,
-      "name": "CHASE THE SUN",
-      "url": "https://open.spotify.com/track/0v9FopnUjdazLkHb2vzcdt"
-    },
-    {
-      "added_at": "2023-11-17 17:00:16",
-      "album": {
         "name": "Dunes",
         "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 184752,
       "name": "Typa Girl",
       "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
+    },
+    {
+      "added_at": "2023-11-17 17:00:16",
+      "album": {
+        "name": "CHASE THE SUN",
+        "url": "https://open.spotify.com/album/7aWwnUeQPDuBor9y5h8duc"
+      },
+      "artists": [
+        {
+          "name": "TurboKevin",
+          "url": "https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6"
+        }
+      ],
+      "duration_ms": 211288,
+      "name": "CHASE THE SUN",
+      "url": "https://open.spotify.com/track/0v9FopnUjdazLkHb2vzcdt"
     },
     {
       "added_at": "2023-11-17 17:00:16",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2023-11-17 17:00:16",
       "album": {
-        "name": "Es kracht in Buxtehude",
-        "url": "https://open.spotify.com/album/1eOfCZvt4oRKS10xyLkvLO"
-      },
-      "artists": [
-        {
-          "name": "Trizto",
-          "url": "https://open.spotify.com/artist/34hL467mqffW7Z5WQhM1MS"
-        },
-        {
-          "name": "MontanaBlack",
-          "url": "https://open.spotify.com/artist/3G48828EYRdDAQ77Z6HidC"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "Es kracht in Buxtehude",
-      "url": "https://open.spotify.com/track/1oryzuL2gSZMmTGgKD3sh1"
-    },
-    {
-      "added_at": "2023-11-17 17:00:16",
-      "album": {
         "name": "How You Remind Me",
         "url": "https://open.spotify.com/album/0W6erefb8fRvnBVvfxCS1P"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 148411,
       "name": "How You Remind Me",
       "url": "https://open.spotify.com/track/2SqCxbiL0ClhKZgIQxAgK0"
+    },
+    {
+      "added_at": "2023-11-17 17:00:16",
+      "album": {
+        "name": "Es kracht in Buxtehude",
+        "url": "https://open.spotify.com/album/1eOfCZvt4oRKS10xyLkvLO"
+      },
+      "artists": [
+        {
+          "name": "Trizto",
+          "url": "https://open.spotify.com/artist/34hL467mqffW7Z5WQhM1MS"
+        },
+        {
+          "name": "MontanaBlack",
+          "url": "https://open.spotify.com/artist/3G48828EYRdDAQ77Z6HidC"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "Es kracht in Buxtehude",
+      "url": "https://open.spotify.com/track/1oryzuL2gSZMmTGgKD3sh1"
     },
     {
       "added_at": "2023-11-17 17:00:16",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2023-11-17 17:00:16",
       "album": {
-        "name": "Einmal um die Welt 2k23",
-        "url": "https://open.spotify.com/album/3a42tIOr7yy7FOBgrXT48a"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "NIKSTER",
-          "url": "https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai"
-        }
-      ],
-      "duration_ms": 135551,
-      "name": "Einmal um die Welt 2k23",
-      "url": "https://open.spotify.com/track/5HSZBIy10tdHp6OuNwEEaU"
-    },
-    {
-      "added_at": "2023-11-17 17:00:16",
-      "album": {
         "name": "The Bad Touch 2k20",
         "url": "https://open.spotify.com/album/66mM7VqKVfvV9dhZpj0Hat"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 160844,
       "name": "The Bad Touch 2k20",
       "url": "https://open.spotify.com/track/0knsBJ21cqAbgjdr2i0R9b"
+    },
+    {
+      "added_at": "2023-11-17 17:00:16",
+      "album": {
+        "name": "Einmal um die Welt 2k23",
+        "url": "https://open.spotify.com/album/3a42tIOr7yy7FOBgrXT48a"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "NIKSTER",
+          "url": "https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai"
+        }
+      ],
+      "duration_ms": 135551,
+      "name": "Einmal um die Welt 2k23",
+      "url": "https://open.spotify.com/track/5HSZBIy10tdHp6OuNwEEaU"
     },
     {
       "added_at": "2023-11-17 17:00:16",
@@ -1823,22 +1823,18 @@
     {
       "added_at": "2023-11-17 17:00:16",
       "album": {
-        "name": "WILDES DING",
-        "url": "https://open.spotify.com/album/6nnBMvIedNf19zjzk2KGhF"
+        "name": "Get Up Off The Floor",
+        "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
       },
       "artists": [
         {
-          "name": "Valexus",
-          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
-        },
-        {
-          "name": "Culcha Candela",
-          "url": "https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL"
+          "name": "FORTELLA",
+          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
         }
       ],
-      "duration_ms": 136204,
-      "name": "WILDES DING",
-      "url": "https://open.spotify.com/track/2BssmP7ruTX7iZrWLm7EVk"
+      "duration_ms": 155000,
+      "name": "Get Up Off The Floor",
+      "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
     }
   ],
   "unique_name": "schiebt anders",

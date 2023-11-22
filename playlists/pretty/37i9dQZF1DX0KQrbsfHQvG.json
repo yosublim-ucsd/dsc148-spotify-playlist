@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 189052,
+  "num_followers": 189103,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGFkZDA0MGQ5N2FkYjE5YjBhNGRhMmU3NDU4MDgxZDllOTA1MzVk",
+  "snapshot_id": "MCxkZGU4OWRmY2Y5OWRiNDNmYTI3MmViNTgwM2UyYTA4MTc4YTcyOGVj",
   "tracks": [
     {
       "added_at": "2023-06-23 04:01:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
+        "name": "AMERICA",
+        "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 201956,
+      "name": "Hail To The Victor",
+      "url": "https://open.spotify.com/track/64gbzSMPloO2SNBTk3PG3h"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
         "name": "DOA [Feat. Joyner Lucas]",
         "url": "https://open.spotify.com/album/4mcoqib00QAFwabXPGH9kY"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 218571,
       "name": "DOA [Feat. Joyner Lucas]",
       "url": "https://open.spotify.com/track/78fUyqhfdpL5aaD12QSGCi"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "AMERICA",
-        "url": "https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 201956,
-      "name": "Hail To The Victor",
-      "url": "https://open.spotify.com/track/64gbzSMPloO2SNBTk3PG3h"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Made An America",
-        "url": "https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 173326,
-      "name": "Made An America",
-      "url": "https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Eat The Elephant",
         "url": "https://open.spotify.com/album/7nnNLD5cv828YSFxXaezRm"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
+        "name": "Made An America",
+        "url": "https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 173326,
+      "name": "Made An America",
+      "url": "https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
         "name": "Loner",
         "url": "https://open.spotify.com/album/08iSi4GIyoDt2zSvNyru7M"
       },
@@ -787,38 +787,6 @@
       "duration_ms": 215200,
       "name": "Middle Fingers",
       "url": "https://open.spotify.com/track/1RgvTl4vQN4qECtnO1guEp"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "21st Century Liability",
-        "url": "https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 189262,
-      "name": "21st Century Liability",
-      "url": "https://open.spotify.com/track/5tJd3cKHXsDlSq6vIV4Tgj"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
-      },
-      "artists": [
-        {
-          "name": "Arrested Youth",
-          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
-        }
-      ],
-      "duration_ms": 186475,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -851,6 +819,38 @@
       "duration_ms": 205160,
       "name": "JU$T (feat. Pharrell Williams & Zack de la Rocha)",
       "url": "https://open.spotify.com/track/0YdjfAmUyxF4Dh0HNEhmoI"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8"
+      },
+      "artists": [
+        {
+          "name": "Arrested Youth",
+          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
+        }
+      ],
+      "duration_ms": 186475,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/4esDZrFzW7QEYBgYyFkd6y"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "21st Century Liability",
+        "url": "https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 189262,
+      "name": "21st Century Liability",
+      "url": "https://open.spotify.com/track/5tJd3cKHXsDlSq6vIV4Tgj"
     },
     {
       "added_at": "2023-06-23 04:01:00",

@@ -5618,7 +5618,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 301933,
       "name": "Modjadji",
       "url": "https://open.spotify.com/track/2zLckBnqmefpJSPZM75KpW"
@@ -6710,6 +6710,24 @@
       "duration_ms": 453706,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/0I8VJcDYdGgPowFb8sL7R3"
+    },
+    {
+      "album": {
+        "name": "Trio",
+        "url": "https://open.spotify.com/album/2MzuZQsdTNTVDg1DKIQJAp"
+      },
+      "artists": [
+        {
+          "name": "Timo Lassy",
+          "url": "https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295889,
+      "name": "Orlo",
+      "url": "https://open.spotify.com/track/0pa3uox4Y79mZLWBx51G2O"
     },
     {
       "album": {

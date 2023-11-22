@@ -2,7 +2,7 @@
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> The best new music by independent artists and labels, updated every Wednesday\. Cover: Elijah Malik , Artwork: Isu Kim.
+> The best new music by independent artists and labels, updated every Wednesday\. Cover: Elijah Malik, Artwork: Isu Kim.
 
 962 songs - 2 day 7 hr 58 min
 

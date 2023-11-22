@@ -4,7 +4,7 @@
 
 > Real Rap\. All Pressure\. Cover: Kaliii
 
-504 songs - 21 hr 34 min
+505 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [25 Days of Christmas \(feat\. K Carbon, Slimeroni, and Aleza\)](https://open.spotify.com/track/3FbjvZ0r9yIZAT8YXtWItC) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz) | [25 Days of Christmas \(feat\. K Carbon, Slimeroni, and Aleza\)](https://open.spotify.com/album/1BiH7myT4q3TP9kDTJxjbr) | 1:49 | 2022-12-09 | 2023-01-07 |
 | [313\-414 \(feat\. Tee Grizzley\)](https://open.spotify.com/track/7gW1UPdKgyEhUW6jDgP9sw) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [313\-414 \(feat\. Tee Grizzley\)](https://open.spotify.com/album/6cmBaEBEeyzfI9dSCcGQc8) | 2:29 | 2021-11-05 | 2022-07-25 |
 | [380 BAKE](https://open.spotify.com/track/7iFkd7WdWJO63WG9JRmKyS) | [Lebra Jolie](https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV) | [380 BAKE](https://open.spotify.com/album/65fpNPgM1mjLQNdEvx2CX3) | 2:20 | 2023-08-18 | 2023-09-23 |
+| [3D](https://open.spotify.com/track/7t7eBzrvv1YL547LI44Bvb) | [Big Bratt](https://open.spotify.com/artist/4H7s71IsQDWe4DFArSBzD4), [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [3D](https://open.spotify.com/album/24R8yEtVrZoThYWEyH7r5Y) | 2:31 | 2023-11-22 |  |
 | [6000 Degrees \(AH HA\)](https://open.spotify.com/track/5XFGYtybPWAP90N7gEVpwc) | [$hyfromdatre](https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC) | [6000 Degrees \(AH HA\)](https://open.spotify.com/album/4ZjzeyERuwR39NcUmg95S8) | 1:42 | 2023-10-06 |  |
 | [6000 Degrees \(AH HA\)](https://open.spotify.com/track/5no1uAP51SFQzZqITUxsfG) | [$hyfromdatre](https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC) | [6000 Degrees \(AH HA\)](https://open.spotify.com/album/4xX7TRWNeiqsCfCgGB5SkH) | 1:42 | 2022-11-18 | 2023-10-13 |
 | [8 Year Run](https://open.spotify.com/track/3E4xQP5sFwanJROhnqkEJF) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [8 Year Run](https://open.spotify.com/album/1Mo5tYLmHQz2Lo9QiDatea) | 2:10 | 2022-06-24 | 2022-10-01 |

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "num_followers": 205715,
+  "num_followers": 205732,
   "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzUzODQ1NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzUzOTMxMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-11-20 08:46:58",
+      "added_at": "2023-11-21 08:31:05",
       "album": {
         "name": "Kiko Club",
         "url": "https://open.spotify.com/album/3y4SAFKOvJ9CDDwNaMOgLL"
@@ -29,107 +29,7 @@
       "url": "https://open.spotify.com/track/3VWuGvgAaYMB6bSNevfozD"
     },
     {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "Et Barn Af Jul",
-        "url": "https://open.spotify.com/album/2NoVdaZGygsj673n8ndWyV"
-      },
-      "artists": [
-        {
-          "name": "Burhan G",
-          "url": "https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8"
-        },
-        {
-          "name": "Frida Brygmann",
-          "url": "https://open.spotify.com/artist/6ohx0Iujh5kRkt5BibHlXj"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Tinka",
-      "url": "https://open.spotify.com/track/2f82yXiMKGkX2CtbkhgtvT"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "The Singles: Echoes from the Edge of Heaven",
-        "url": "https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 265960,
-      "name": "Last Christmas - Single Version",
-      "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "Julehjertets Hemmelighed",
-        "url": "https://open.spotify.com/album/5Kq4xMn9jnLuMozqTKiQGN"
-      },
-      "artists": [
-        {
-          "name": "Malte Ebert",
-          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
-        }
-      ],
-      "duration_ms": 189356,
-      "name": "Julehjertets Hemmelighed",
-      "url": "https://open.spotify.com/track/1t11cr48B1olNdfs2TlxHE"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "Under The Mistletoe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Mistletoe",
-      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
+      "added_at": "2023-11-21 08:31:05",
       "album": {
         "name": "Kiko Club",
         "url": "https://open.spotify.com/album/3y4SAFKOvJ9CDDwNaMOgLL"
@@ -145,23 +45,7 @@
       "url": "https://open.spotify.com/track/4dC3pTi2Bbei0QGMg722Rl"
     },
     {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "Verden Ka' Vente",
-        "url": "https://open.spotify.com/album/4HUawJHoVJpBSAU0HcBjNU"
-      },
-      "artists": [
-        {
-          "name": "Rasmus Seebach",
-          "url": "https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ"
-        }
-      ],
-      "duration_ms": 215731,
-      "name": "Der' Noget I December",
-      "url": "https://open.spotify.com/track/0wm3wOmYpTILjqyHzDDJIp"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
+      "added_at": "2023-11-21 08:31:05",
       "album": {
         "name": "Danser Med D\u00e6moner",
         "url": "https://open.spotify.com/album/0ylIK3wZr5wKMixNJxrqNy"
@@ -181,39 +65,7 @@
       "url": "https://open.spotify.com/track/5BKvRShfSfa1phRGEKkSvb"
     },
     {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "I En Stjerneregn Af Sne (Fra julekalenderen 'Tvillingerne og Julemanden')",
-        "url": "https://open.spotify.com/album/2Sa4U9mpWwOGCbasceUIOA"
-      },
-      "artists": [
-        {
-          "name": "Mads Langer",
-          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
-        }
-      ],
-      "duration_ms": 204946,
-      "name": "I En Stjerneregn Af Sne - Fra julekalenderen 'Tvillingerne og Julemanden'",
-      "url": "https://open.spotify.com/track/2MHiE76HdeJznaQtrLwBug"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "Midt I En Dr\u00f8m Eller Noget Der Ligner",
-        "url": "https://open.spotify.com/album/0Ac80GpaaAu8pUGfjO6Swb"
-      },
-      "artists": [
-        {
-          "name": "Hjalmer",
-          "url": "https://open.spotify.com/artist/0thQkzSyTo4l3zbpibZznQ"
-        }
-      ],
-      "duration_ms": 170986,
-      "name": "Kongespil - Tinka og Kongespillet",
-      "url": "https://open.spotify.com/track/0nQBmwUprs4LYyhECw44LH"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
+      "added_at": "2023-11-21 08:31:05",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -229,39 +81,23 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2023-11-20 08:46:58",
+      "added_at": "2023-11-21 08:31:05",
       "album": {
-        "name": "Verden Ka' Vente",
-        "url": "https://open.spotify.com/album/4HUawJHoVJpBSAU0HcBjNU"
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
       "artists": [
         {
-          "name": "Rasmus Seebach",
-          "url": "https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
         }
       ],
-      "duration_ms": 208188,
-      "name": "Lille Store Verden",
-      "url": "https://open.spotify.com/track/4ZmaxcxpEmzZgsMZPRdLIG"
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
-        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
-      },
-      "artists": [
-        {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
-        }
-      ],
-      "duration_ms": 130973,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
+      "added_at": "2023-11-21 08:31:05",
       "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
@@ -277,7 +113,43 @@
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
-      "added_at": "2023-11-20 08:46:58",
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "The Singles: Echoes from the Edge of Heaven",
+        "url": "https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 265960,
+      "name": "Last Christmas - Single Version",
+      "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "Et Barn Af Jul",
+        "url": "https://open.spotify.com/album/2NoVdaZGygsj673n8ndWyV"
+      },
+      "artists": [
+        {
+          "name": "Burhan G",
+          "url": "https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8"
+        },
+        {
+          "name": "Frida Brygmann",
+          "url": "https://open.spotify.com/artist/6ohx0Iujh5kRkt5BibHlXj"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Tinka",
+      "url": "https://open.spotify.com/track/2f82yXiMKGkX2CtbkhgtvT"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
       "album": {
         "name": "I KNOW",
         "url": "https://open.spotify.com/album/5DjM5MJoima73xcyXJ1mkG"
@@ -293,39 +165,23 @@
       "url": "https://open.spotify.com/track/3aQzeklWllLWZSH4xk7Udj"
     },
     {
-      "added_at": "2023-11-20 08:46:58",
+      "added_at": "2023-11-21 08:31:05",
       "album": {
-        "name": "Merry Christmas Everyone",
-        "url": "https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa"
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
       },
       "artists": [
         {
-          "name": "Shakin' Stevens",
-          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 220160,
-      "name": "Merry Christmas Everyone",
-      "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
     },
     {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "Christmas (Deluxe Special Edition)",
-        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 207199,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
+      "added_at": "2023-11-21 08:31:05",
       "album": {
         "name": "Tak For Sidst",
         "url": "https://open.spotify.com/album/0rvZGDpA6Gw8s4dT3xRnpi"
@@ -341,7 +197,7 @@
       "url": "https://open.spotify.com/track/5cNxyZy9r5f8m2L7it8ZtB"
     },
     {
-      "added_at": "2023-11-20 08:46:58",
+      "added_at": "2023-11-21 08:31:05",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -365,23 +221,311 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2023-11-20 08:46:58",
+      "added_at": "2023-11-21 08:31:05",
       "album": {
-        "name": "New Light Through Old Windows",
-        "url": "https://open.spotify.com/album/7p9ePF3nuGOHHKdK54xjHH"
+        "name": "Julehjertets Hemmelighed",
+        "url": "https://open.spotify.com/album/5Kq4xMn9jnLuMozqTKiQGN"
       },
       "artists": [
         {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+          "name": "Malte Ebert",
+          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
         }
       ],
-      "duration_ms": 239946,
-      "name": "Driving Home for Christmas",
-      "url": "https://open.spotify.com/track/0ZoHHROTzwIYeNAHRPedTY"
+      "duration_ms": 189356,
+      "name": "Julehjertets Hemmelighed",
+      "url": "https://open.spotify.com/track/1t11cr48B1olNdfs2TlxHE"
     },
     {
-      "added_at": "2023-11-20 08:46:58",
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "Under The Mistletoe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "Verden Ka' Vente",
+        "url": "https://open.spotify.com/album/4HUawJHoVJpBSAU0HcBjNU"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Seebach",
+          "url": "https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ"
+        }
+      ],
+      "duration_ms": 215731,
+      "name": "Der' Noget I December",
+      "url": "https://open.spotify.com/track/0wm3wOmYpTILjqyHzDDJIp"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "I En Stjerneregn Af Sne (Fra julekalenderen 'Tvillingerne og Julemanden')",
+        "url": "https://open.spotify.com/album/2Sa4U9mpWwOGCbasceUIOA"
+      },
+      "artists": [
+        {
+          "name": "Mads Langer",
+          "url": "https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x"
+        }
+      ],
+      "duration_ms": 204946,
+      "name": "I En Stjerneregn Af Sne - Fra julekalenderen 'Tvillingerne og Julemanden'",
+      "url": "https://open.spotify.com/track/2MHiE76HdeJznaQtrLwBug"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "FORSVINDER (feat. Gobs)",
+        "url": "https://open.spotify.com/album/0Xhp7Kgke0OveQaVRMkJwW"
+      },
+      "artists": [
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        },
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "duration_ms": 160470,
+      "name": "FORSVINDER (feat. Gobs)",
+      "url": "https://open.spotify.com/track/2aNMkT86YjYPlKujUiHYbS"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "Verden Ka' Vente",
+        "url": "https://open.spotify.com/album/4HUawJHoVJpBSAU0HcBjNU"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Seebach",
+          "url": "https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ"
+        }
+      ],
+      "duration_ms": 208188,
+      "name": "Lille Store Verden",
+      "url": "https://open.spotify.com/track/4ZmaxcxpEmzZgsMZPRdLIG"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "Midt I En Dr\u00f8m Eller Noget Der Ligner",
+        "url": "https://open.spotify.com/album/0Ac80GpaaAu8pUGfjO6Swb"
+      },
+      "artists": [
+        {
+          "name": "Hjalmer",
+          "url": "https://open.spotify.com/artist/0thQkzSyTo4l3zbpibZznQ"
+        }
+      ],
+      "duration_ms": 170986,
+      "name": "Kongespil - Tinka og Kongespillet",
+      "url": "https://open.spotify.com/track/0nQBmwUprs4LYyhECw44LH"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "exes",
+        "url": "https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "exes",
+      "url": "https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "Dansktop",
+        "url": "https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5"
+      },
+      "artists": [
+        {
+          "name": "Ukendt Kunstner",
+          "url": "https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67"
+        }
+      ],
+      "duration_ms": 191341,
+      "name": "Uden Dig",
+      "url": "https://open.spotify.com/track/5dNSfOZb6AlEF0Xg6C970o"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "Merry Christmas Everyone",
+        "url": "https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa"
+      },
+      "artists": [
+        {
+          "name": "Shakin' Stevens",
+          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
+        }
+      ],
+      "duration_ms": 220160,
+      "name": "Merry Christmas Everyone",
+      "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "Championship",
+        "url": "https://open.spotify.com/album/7imt3ZtPP755cCvwrSCsjC"
+      },
+      "artists": [
+        {
+          "name": "Jamaika",
+          "url": "https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS"
+        },
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        },
+        {
+          "name": "Carmon",
+          "url": "https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "For Life",
+      "url": "https://open.spotify.com/track/0WsFZJppZyqnjW63zGLQzH"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "Je Ka Jo",
+        "url": "https://open.spotify.com/album/29OCZ1A2FbLNBvoDrlEUf0"
+      },
+      "artists": [
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        }
+      ],
+      "duration_ms": 178556,
+      "name": "Je Ka Jo",
+      "url": "https://open.spotify.com/track/0GFJI3tJuE9S3su4H8Co2G"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "Et Sted Herude",
+        "url": "https://open.spotify.com/album/7hGBBxMDxFPoIAslWcoA5E"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "duration_ms": 137475,
+      "name": "Et Sted Herude",
+      "url": "https://open.spotify.com/track/1BrhRqAJRa8YweyLVNCBQm"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "EV1GT&ALT1D",
+        "url": "https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "duration_ms": 197043,
+      "name": "MOONLIGHT",
+      "url": "https://open.spotify.com/track/3neYAjvKDOfvBUpIgReOkC"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "2 Kanoner",
+        "url": "https://open.spotify.com/album/1OkJRJq4oFJgzaCOIcA04p"
+      },
+      "artists": [
+        {
+          "name": "Merro8",
+          "url": "https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc"
+        }
+      ],
+      "duration_ms": 160615,
+      "name": "2 Kanoner",
+      "url": "https://open.spotify.com/track/19Lap3pvucrN4aEBmmBZRn"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "Christmas (Deluxe Special Edition)",
+        "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 207199,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "F\u00f8les Godt",
+        "url": "https://open.spotify.com/album/4qe6zKD6u4d4PdmjKqq0bX"
+      },
+      "artists": [
+        {
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+        },
+        {
+          "name": "Mekdes",
+          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
+        }
+      ],
+      "duration_ms": 170611,
+      "name": "F\u00f8les Godt (feat. Mekdes)",
+      "url": "https://open.spotify.com/track/6OSHB3gKDyYTNNmCiOlpIc"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
       "album": {
         "name": "20 Danske Jule Hits",
         "url": "https://open.spotify.com/album/0DoRXVU8nb8mkB6ySRLB3j"
@@ -401,55 +545,39 @@
       "url": "https://open.spotify.com/track/0IhL5sXNR9b12DR0h9vxKa"
     },
     {
-      "added_at": "2023-11-20 08:46:58",
+      "added_at": "2023-11-21 08:31:05",
       "album": {
-        "name": "A Winter Romance",
-        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+        "name": "New Light Through Old Windows",
+        "url": "https://open.spotify.com/album/7p9ePF3nuGOHHKdK54xjHH"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
         }
       ],
-      "duration_ms": 117146,
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+      "duration_ms": 239946,
+      "name": "Driving Home for Christmas",
+      "url": "https://open.spotify.com/track/0ZoHHROTzwIYeNAHRPedTY"
     },
     {
-      "added_at": "2023-11-20 08:46:58",
+      "added_at": "2023-11-21 08:31:05",
       "album": {
-        "name": "The Andy Williams Christmas Album",
-        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
       },
       "artists": [
         {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
         }
       ],
-      "duration_ms": 151000,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
+      "duration_ms": 172964,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "Guld Jul",
-        "url": "https://open.spotify.com/album/66Nh0wS7H4CDsz5FdUSLIg"
-      },
-      "artists": [
-        {
-          "name": "Gulddreng",
-          "url": "https://open.spotify.com/artist/1twDsBPbUYeljharVfF6Lf"
-        }
-      ],
-      "duration_ms": 227023,
-      "name": "Guld Jul",
-      "url": "https://open.spotify.com/track/2rui6bCZAz3yJ7YFQeyWMq"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
+      "added_at": "2023-11-21 08:31:05",
       "album": {
         "name": "Koldt Udenfor",
         "url": "https://open.spotify.com/album/0vo1GonIjpeo2GIVUobBaM"
@@ -465,23 +593,7 @@
       "url": "https://open.spotify.com/track/0rEwD7QVscNnz05ooEb0qB"
     },
     {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "My Only Wish (This Year)",
-        "url": "https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 255400,
-      "name": "My Only Wish (This Year)",
-      "url": "https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
+      "added_at": "2023-11-21 08:31:05",
       "album": {
         "name": "Let Love Be Love",
         "url": "https://open.spotify.com/album/5NFrrfohVwnOGXmJ83tlOv"
@@ -509,295 +621,39 @@
       "url": "https://open.spotify.com/track/6PTn6uJPekoEtfikiudUv7"
     },
     {
-      "added_at": "2023-11-20 08:46:58",
+      "added_at": "2023-11-21 08:31:05",
       "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+        "name": "Si No Est\u00e1s",
+        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
       },
       "artists": [
         {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
         }
       ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+      "duration_ms": 184061,
+      "name": "Si No Est\u00e1s",
+      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
-      "added_at": "2023-11-20 08:46:58",
+      "added_at": "2023-11-21 08:31:05",
       "album": {
-        "name": "Tidsrejsen",
-        "url": "https://open.spotify.com/album/0qgtqZdjNCEqrZq4Jr5f1g"
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
       },
       "artists": [
         {
-          "name": "Caroline Castell",
-          "url": "https://open.spotify.com/artist/4vRpu2xRHEtlmBoI5nsK7P"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 232478,
-      "name": "Tidsrejsen",
-      "url": "https://open.spotify.com/track/5jl2ASpLH6ch4vkD4xcpyq"
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "FORSVINDER (feat. Gobs)",
-        "url": "https://open.spotify.com/album/0Xhp7Kgke0OveQaVRMkJwW"
-      },
-      "artists": [
-        {
-          "name": "Branco",
-          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
-        },
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        }
-      ],
-      "duration_ms": 160470,
-      "name": "FORSVINDER (feat. Gobs)",
-      "url": "https://open.spotify.com/track/2aNMkT86YjYPlKujUiHYbS"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "Do They Know It\u2019s Christmas?",
-        "url": "https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq"
-      },
-      "artists": [
-        {
-          "name": "Band Aid",
-          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Do They Know It's Christmas? - 1984 Version",
-      "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "Dansktop",
-        "url": "https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5"
-      },
-      "artists": [
-        {
-          "name": "Ukendt Kunstner",
-          "url": "https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67"
-        }
-      ],
-      "duration_ms": 191341,
-      "name": "Uden Dig",
-      "url": "https://open.spotify.com/track/5dNSfOZb6AlEF0Xg6C970o"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "Et Barn Af Jul",
-        "url": "https://open.spotify.com/album/2NoVdaZGygsj673n8ndWyV"
-      },
-      "artists": [
-        {
-          "name": "Burhan G",
-          "url": "https://open.spotify.com/artist/14nVYgOiwVBJIEATXIDYC8"
-        }
-      ],
-      "duration_ms": 180482,
-      "name": "Nu Er Det Jul (Nissebanden)",
-      "url": "https://open.spotify.com/track/5Jqo99jKKbaSYKQ7P0SM54"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "The Christmas Song (Merry Christmas To You)",
-      "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "Je Ka Jo",
-        "url": "https://open.spotify.com/album/29OCZ1A2FbLNBvoDrlEUf0"
-      },
-      "artists": [
-        {
-          "name": "ICEKIID",
-          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
-        }
-      ],
-      "duration_ms": 178556,
-      "name": "Je Ka Jo",
-      "url": "https://open.spotify.com/track/0GFJI3tJuE9S3su4H8Co2G"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "exes",
-        "url": "https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "exes",
-      "url": "https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "Vintertid",
-        "url": "https://open.spotify.com/album/7Mxhdn7huwlRomQPuh0hFH"
-      },
-      "artists": [
-        {
-          "name": "Joey Moe",
-          "url": "https://open.spotify.com/artist/0XuMowqsbFr0TmhOHfmWuc"
-        }
-      ],
-      "duration_ms": 187551,
-      "name": "Hey Mor",
-      "url": "https://open.spotify.com/track/0WWgeQQ4sklycJK1lR6fmB"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "EV1GT&ALT1D",
-        "url": "https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw"
-      },
-      "artists": [
-        {
-          "name": "D1MA",
-          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
-        }
-      ],
-      "duration_ms": 197043,
-      "name": "MOONLIGHT",
-      "url": "https://open.spotify.com/track/3neYAjvKDOfvBUpIgReOkC"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "Julefeber",
-        "url": "https://open.spotify.com/album/6MDY6h8rVoFbOwaFNvaLeq"
-      },
-      "artists": [
-        {
-          "name": "Oh Land",
-          "url": "https://open.spotify.com/artist/46CuxapoPjUfIOiXdNq7qM"
-        }
-      ],
-      "duration_ms": 206965,
-      "name": "Julefeber",
-      "url": "https://open.spotify.com/track/07q8J1HMwIfSO6TrPaZHWd"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "F\u00f8les Godt",
-        "url": "https://open.spotify.com/album/4qe6zKD6u4d4PdmjKqq0bX"
-      },
-      "artists": [
-        {
-          "name": "URO",
-          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
-        },
-        {
-          "name": "Mekdes",
-          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
-        }
-      ],
-      "duration_ms": 170611,
-      "name": "F\u00f8les Godt (feat. Mekdes)",
-      "url": "https://open.spotify.com/track/6OSHB3gKDyYTNNmCiOlpIc"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "Et Sted Herude",
-        "url": "https://open.spotify.com/album/7hGBBxMDxFPoIAslWcoA5E"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        }
-      ],
-      "duration_ms": 137475,
-      "name": "Et Sted Herude",
-      "url": "https://open.spotify.com/track/1BrhRqAJRa8YweyLVNCBQm"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "Jul P\u00e5 Vesterbro",
-        "url": "https://open.spotify.com/album/2164xFQmRLyfnHxqKoFPj5"
-      },
-      "artists": [
-        {
-          "name": "Anders Matthesen",
-          "url": "https://open.spotify.com/artist/7ywx4levGzk6v90WXQToXe"
-        }
-      ],
-      "duration_ms": 266893,
-      "name": "Jul P\u00e5 Vesterbro",
-      "url": "https://open.spotify.com/track/20oNCyFVv55xDpXGIw0QEs"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "Championship",
-        "url": "https://open.spotify.com/album/7imt3ZtPP755cCvwrSCsjC"
-      },
-      "artists": [
-        {
-          "name": "Jamaika",
-          "url": "https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS"
-        },
-        {
-          "name": "Branco",
-          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
-        },
-        {
-          "name": "Carmon",
-          "url": "https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "For Life",
-      "url": "https://open.spotify.com/track/0WsFZJppZyqnjW63zGLQzH"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
-      "album": {
-        "name": "2 Kanoner",
-        "url": "https://open.spotify.com/album/1OkJRJq4oFJgzaCOIcA04p"
-      },
-      "artists": [
-        {
-          "name": "Merro8",
-          "url": "https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc"
-        }
-      ],
-      "duration_ms": 160615,
-      "name": "2 Kanoner",
-      "url": "https://open.spotify.com/track/19Lap3pvucrN4aEBmmBZRn"
-    },
-    {
-      "added_at": "2023-11-20 08:46:58",
+      "added_at": "2023-11-21 08:31:05",
       "album": {
         "name": "Jeg Ka' Rigtig Godt Li' Dig (feat. andreas odbjerg)",
         "url": "https://open.spotify.com/album/0tbu70Bb9VJQNW2tE5OVqt"
@@ -817,52 +673,208 @@
       "url": "https://open.spotify.com/track/6P8HH4mh0jmGlOhHwAkY5o"
     },
     {
-      "added_at": "2023-11-20 08:46:58",
+      "added_at": "2023-11-21 08:31:05",
       "album": {
-        "name": "Wrapped In Red",
-        "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
+        "name": "My Only Wish (This Year)",
+        "url": "https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL"
       },
       "artists": [
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 229640,
-      "name": "Underneath the Tree",
-      "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
+      "duration_ms": 255400,
+      "name": "My Only Wish (This Year)",
+      "url": "https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM"
     },
     {
-      "added_at": "2023-11-20 08:46:58",
+      "added_at": "2023-11-21 08:31:05",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
+        "name": "Tidsrejsen",
+        "url": "https://open.spotify.com/album/0qgtqZdjNCEqrZq4Jr5f1g"
       },
       "artists": [
         {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+          "name": "Caroline Castell",
+          "url": "https://open.spotify.com/artist/4vRpu2xRHEtlmBoI5nsK7P"
         }
       ],
-      "duration_ms": 172964,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+      "duration_ms": 232478,
+      "name": "Tidsrejsen",
+      "url": "https://open.spotify.com/track/5jl2ASpLH6ch4vkD4xcpyq"
     },
     {
-      "added_at": "2023-11-20 08:46:58",
+      "added_at": "2023-11-21 08:31:05",
       "album": {
-        "name": "Si No Est\u00e1s",
-        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
+        "name": "Guld Jul",
+        "url": "https://open.spotify.com/album/66Nh0wS7H4CDsz5FdUSLIg"
       },
       "artists": [
         {
-          "name": "i\u00f1igo quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+          "name": "Gulddreng",
+          "url": "https://open.spotify.com/artist/1twDsBPbUYeljharVfF6Lf"
         }
       ],
-      "duration_ms": 184061,
-      "name": "Si No Est\u00e1s",
-      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
+      "duration_ms": 227023,
+      "name": "Guld Jul",
+      "url": "https://open.spotify.com/track/2rui6bCZAz3yJ7YFQeyWMq"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "Kiko Club",
+        "url": "https://open.spotify.com/album/3y4SAFKOvJ9CDDwNaMOgLL"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "duration_ms": 173024,
+      "name": "Du & Jeg",
+      "url": "https://open.spotify.com/track/5NJgjCGDgufp9FRlNrYb4c"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "Tilf\u00e6ldigt (feat. D1MA)",
+        "url": "https://open.spotify.com/album/3Ngfa3iuBjLSwMdFE4m2ac"
+      },
+      "artists": [
+        {
+          "name": "Caroline Dubois",
+          "url": "https://open.spotify.com/artist/1l7Qv31AZtPOBuIF7xezqJ"
+        },
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "duration_ms": 170573,
+      "name": "Tilf\u00e6ldigt (feat. D1MA)",
+      "url": "https://open.spotify.com/track/1F1I56Ye8w74inE5krVYF9"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "DK GOAT",
+        "url": "https://open.spotify.com/album/5rwILepTiMfBTOwJCqholQ"
+      },
+      "artists": [
+        {
+          "name": "TopGunn",
+          "url": "https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 170698,
+      "name": "Bump (feat. Lamin)",
+      "url": "https://open.spotify.com/track/13WzDquxQyCnJwQTAf3Xdl"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "A Winter Romance",
+        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 117146,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "Do They Know It\u2019s Christmas?",
+        "url": "https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq"
+      },
+      "artists": [
+        {
+          "name": "Band Aid",
+          "url": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Do They Know It's Christmas? - 1984 Version",
+      "url": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "nu hvor vi er her",
+        "url": "https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc"
+      },
+      "artists": [
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 207010,
+      "name": "vi ku' blive",
+      "url": "https://open.spotify.com/track/5yiJTfrtlzDsVMDshFLUna"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2023-11-21 08:31:05",
+      "album": {
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     }
   ],
   "unique_name": "Top 50 - Denmark",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Kossisko
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,771 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,804 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 82 | [Real Good](https://open.spotify.com/track/1g8a0OQ17VNbBQ518OFiVu) | [Outasight](https://open.spotify.com/artist/1zuG3w1Zgeou53fb3Vu3bO) | [Real Good](https://open.spotify.com/album/4ohTe605nVMKNPeDZfxihB) | 3:19 |
 | 83 | [Keep That Funk Alive](https://open.spotify.com/track/6pSQEg63mPYvaXQVJdmEy9) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Unify](https://open.spotify.com/album/0b7YzSdS2YIQp1uuPL05k5) | 4:21 |
 | 84 | [Stuck On You](https://open.spotify.com/track/7tAC9gjYufg2uOOEDbf36s) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [EP2](https://open.spotify.com/album/6MWzxBIxSMJilh1LW7jbhU) | 4:32 |
-| 85 | [This is It \(feat\. Cory Wong\)](https://open.spotify.com/track/09iwuUrPrk4O1ogWhbe35x) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 3:05 |
+| 85 | [This is It \(feat\. Cory Wong\)](https://open.spotify.com/track/09iwuUrPrk4O1ogWhbe35x) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 3:05 |
 | 86 | [This Vibe](https://open.spotify.com/track/1Y9z7IqlSnet2A5raxs22e) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe) | [This Vibe](https://open.spotify.com/album/46gXRt1zGMf89qJPSI9cje) | 4:12 |
 | 87 | [Until I Get Back](https://open.spotify.com/track/2inueyaWWmc0Hu0LJwMetH) | [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Until I Get Back](https://open.spotify.com/album/0mqVkEjfEhg8jXz7HRtWqJ) | 4:33 |
 | 88 | [Dead Inside Shuffle](https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Dead Inside Shuffle](https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Say Your Name](https://open.spotify.com/track/46H4hZk0WHNC4fmVJaLfr6) | [Osquello](https://open.spotify.com/artist/6ScAPpYnDsH3Cu3TKmhUJr), [Akin Soul](https://open.spotify.com/artist/2tU7aVBZIXzsKTPhm56266) | [Say Your Name](https://open.spotify.com/album/5SzR4ahdi6DTBn3vevmw0j) | 3:35 |
 | 100 | [End of Tha Night](https://open.spotify.com/track/4FCEeZGENqjVz9dDRsKJoM) | [Blaxian](https://open.spotify.com/artist/5hY9vFP2SpMfb5ZXqMI3o4), [Elijah Treat](https://open.spotify.com/artist/4SzodZqoVynssqd6ajKdpB) | [End of Tha Night](https://open.spotify.com/album/4H51nFp0Ojxn4mRa8WHraj) | 3:09 |
 
-Snapshot ID: `MCwwZmE1ZDkzMzRjNTg4YWFjMGFmMzc0YTAzYTMyNDM3NWUwMTE0M2I5`
+Snapshot ID: `MCw4NTczZDc5ZWFhODgxYTRmYWE4YTgyY2Y5ZmExNjE2NjQyZmRmNzFk`

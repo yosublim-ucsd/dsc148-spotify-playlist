@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 38246,
+  "num_followers": 38286,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDA2MjFjNzNmOWU5MTMwODk1Yjg5MjVlZTY3ODgxM2QwYzVkOGNk",
+  "snapshot_id": "MCwyODk4MzEwYTg5MzRmZjE1ZGFiOTczNDRmNDIzMTYwNTg1Y2U4MDk3",
   "tracks": [
     {
       "added_at": "2022-02-04 14:45:56",
@@ -223,18 +223,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Los Errantes",
-        "url": "https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3"
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7"
       },
       "artists": [
         {
-          "name": "Los Errantes",
-          "url": "https://open.spotify.com/artist/3YObW3HRSRdnLAy5qVBowr"
+          "name": "Pelo D'Ambrosio",
+          "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
         }
       ],
-      "duration_ms": 161933,
-      "name": "Llanto por Llanto",
-      "url": "https://open.spotify.com/track/5H1GKJbNqttrG2mXCnMwWJ"
+      "duration_ms": 281653,
+      "name": "Ay Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0bzZwaUXxJGoEYGrPdSLwk"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -271,18 +271,18 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Lejos de Ti",
-        "url": "https://open.spotify.com/album/2Jlb5DtMYxEaP5V2W3L6s7"
+        "name": "Los Errantes",
+        "url": "https://open.spotify.com/album/6MBZ95LW4dmnyRsRvG7Nx3"
       },
       "artists": [
         {
-          "name": "Pelo D'Ambrosio",
-          "url": "https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ"
+          "name": "Los Errantes",
+          "url": "https://open.spotify.com/artist/3YObW3HRSRdnLAy5qVBowr"
         }
       ],
-      "duration_ms": 281653,
-      "name": "Ay Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0bzZwaUXxJGoEYGrPdSLwk"
+      "duration_ms": 161933,
+      "name": "Llanto por Llanto",
+      "url": "https://open.spotify.com/track/5H1GKJbNqttrG2mXCnMwWJ"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "La Reina de las Parranditas",
-        "url": "https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F"
-      },
-      "artists": [
-        {
-          "name": "Abencia Meza",
-          "url": "https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt"
-        }
-      ],
-      "duration_ms": 220708,
-      "name": "Cuanto Tiempo Sin Verte",
-      "url": "https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
         "name": "Los Pacharacos",
         "url": "https://open.spotify.com/album/5r2IZe4Ce9ozJ1lcBU9iAZ"
       },
@@ -883,22 +867,34 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "T\u00fa Puedes Volar",
-        "url": "https://open.spotify.com/album/6Mfa1vsbXf1sIRg4GMtpXw"
+        "name": "La Reina de las Parranditas",
+        "url": "https://open.spotify.com/album/4ilEmL4SZbMRFZl5apcr3F"
       },
       "artists": [
         {
-          "name": "Damaris",
-          "url": "https://open.spotify.com/artist/2zcBBdC0mMH60MMglRpHod"
-        },
-        {
-          "name": "Raices de Jauja",
-          "url": "https://open.spotify.com/artist/4GBwdePu8Ym2dbI6P72zi9"
+          "name": "Abencia Meza",
+          "url": "https://open.spotify.com/artist/4zCJHsmMfINEFpnFz1DkZt"
         }
       ],
-      "duration_ms": 250533,
-      "name": "Amor Verdadero",
-      "url": "https://open.spotify.com/track/1CMgLNMnmOzQc1pbaVwctV"
+      "duration_ms": 220708,
+      "name": "Cuanto Tiempo Sin Verte",
+      "url": "https://open.spotify.com/track/7GlMO54HvIzDc6E7vWw7W9"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Lo Mejor del Incomparable...Mario Mendoza",
+        "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
+      },
+      "artists": [
+        {
+          "name": "Mario Mendoza",
+          "url": "https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ"
+        }
+      ],
+      "duration_ms": 180853,
+      "name": "Tomando Cerveza",
+      "url": "https://open.spotify.com/track/2zkjU1FIQ35rpmDHK2C9fy"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -935,34 +931,22 @@
     {
       "added_at": "2022-02-04 14:45:56",
       "album": {
-        "name": "Lo Mejor del Incomparable...Mario Mendoza",
-        "url": "https://open.spotify.com/album/1fq9eMMW89xN3BxZvWgDuw"
+        "name": "T\u00fa Puedes Volar",
+        "url": "https://open.spotify.com/album/6Mfa1vsbXf1sIRg4GMtpXw"
       },
       "artists": [
         {
-          "name": "Mario Mendoza",
-          "url": "https://open.spotify.com/artist/16wOUZsJRt4lH9cM9Js3VQ"
-        }
-      ],
-      "duration_ms": 180853,
-      "name": "Tomando Cerveza",
-      "url": "https://open.spotify.com/track/2zkjU1FIQ35rpmDHK2C9fy"
-    },
-    {
-      "added_at": "2022-02-04 14:45:56",
-      "album": {
-        "name": "Huayno, Vol. 2",
-        "url": "https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4"
-      },
-      "artists": [
+          "name": "Damaris",
+          "url": "https://open.spotify.com/artist/2zcBBdC0mMH60MMglRpHod"
+        },
         {
-          "name": "Los Puquiales",
-          "url": "https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn"
+          "name": "Raices de Jauja",
+          "url": "https://open.spotify.com/artist/4GBwdePu8Ym2dbI6P72zi9"
         }
       ],
-      "duration_ms": 167466,
-      "name": "Sihuarsito",
-      "url": "https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN"
+      "duration_ms": 250533,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/1CMgLNMnmOzQc1pbaVwctV"
     },
     {
       "added_at": "2022-02-04 14:45:56",
@@ -979,6 +963,22 @@
       "duration_ms": 160200,
       "name": "Carrito del Gobierno",
       "url": "https://open.spotify.com/track/1Net8ueUaiGDbFvokcINq7"
+    },
+    {
+      "added_at": "2022-02-04 14:45:56",
+      "album": {
+        "name": "Huayno, Vol. 2",
+        "url": "https://open.spotify.com/album/5ruEdZJIr4XPSlNvCrnrU4"
+      },
+      "artists": [
+        {
+          "name": "Los Puquiales",
+          "url": "https://open.spotify.com/artist/56BGpfV7llrp7rvvseEaPn"
+        }
+      ],
+      "duration_ms": 167466,
+      "name": "Sihuarsito",
+      "url": "https://open.spotify.com/track/1SE8uvi7ORh3Q9qFR91yWN"
     }
   ],
   "unique_name": "Huaynos Cl\u00e1sicos",

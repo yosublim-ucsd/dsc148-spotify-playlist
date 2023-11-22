@@ -1,12 +1,12 @@
 {
-  "description": "The best indie dance tracks of the moment. Cover: Barry Can't Swim",
-  "num_followers": 863879,
+  "description": "The best indie dance tracks of the moment. Cover: Mindchatter",
+  "num_followers": 863936,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzE4OWMxODFlMWMyNjM4NTcwMGUwMTQxMGU0YmIwNTgyM2ZkNTA1",
+  "snapshot_id": "MCw1NGNiZmZlZTNmZTkyNThhMTI1NjIwNjQ4MmVlNGE2ODcxZGU4M2Q0",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -139,6 +139,22 @@
       "duration_ms": 176524,
       "name": "I Believe In Love Again",
       "url": "https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD"
+    },
+    {
+      "added_at": "2023-11-21 19:15:45",
+      "album": {
+        "name": "D-SIDES",
+        "url": "https://open.spotify.com/album/1UxVfG3L2BJhRcn6E1EwrN"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 134412,
+      "name": "Uglyfisherman",
+      "url": "https://open.spotify.com/track/0soF6Of8Zw4wsjkrFWyKf2"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2672,7 +2688,7 @@
       "added_at": "2023-10-02 15:19:18",
       "album": {
         "name": "MOONSHOTS",
-        "url": "https://open.spotify.com/album/2mIOejIeyVH58sDAKVfi53"
+        "url": "https://open.spotify.com/album/5qf3r31KB5dW7XroCdkjIQ"
       },
       "artists": [
         {
@@ -2690,7 +2706,7 @@
       ],
       "duration_ms": 191253,
       "name": "DREAMS!",
-      "url": "https://open.spotify.com/track/6DdYJsftrnVgdxH5agavaP"
+      "url": "https://open.spotify.com/track/03lQ18VuymG6LDITQItJpn"
     },
     {
       "added_at": "2023-10-02 15:19:18",

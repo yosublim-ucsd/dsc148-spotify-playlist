@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Dominique Fils\-Aimé
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,099 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,175 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 49 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 |
 | 50 | [Have A Talk With God](https://open.spotify.com/track/4wGhj2z3EHOKr3BsIjFgNa) | [Jack Lee](https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Have A Talk With God](https://open.spotify.com/album/46GEMh4lyKE3Y3XKKDH4Qf) | 5:41 |
 
-Snapshot ID: `MCxhZGJiMTQ0Y2I3ZDMzOGU2MGViMGM1MDg0ZWZmYjRiYzY5MDMwMTFj`
+Snapshot ID: `MCwzNGRjZjNkYWJlZTJiYzRmMzJjOWQxMDU2ODJiNjMxNWI4NGY1Zjcz`

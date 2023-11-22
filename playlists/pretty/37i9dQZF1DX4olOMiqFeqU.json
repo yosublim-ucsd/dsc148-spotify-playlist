@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2436886,
+  "num_followers": 2437322,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NWY2MzE1OWY5MjFhMTNiM2JmMjkzNzE0MDZkOTJjNTgwYzRiZWNi",
+  "snapshot_id": "MCxiMGRhNDExYTgxNDg1MjUyYTBhOTZjOWNhMGZkNjU0NGQ5Y2MzYjA4",
   "tracks": [
     {
       "added_at": "2023-09-13 05:36:31",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Mundo",
-        "url": "https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV"
-      },
-      "artists": [
-        {
-          "name": "IV Of Spades",
-          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
-        }
-      ],
-      "duration_ms": 349713,
-      "name": "Mundo",
-      "url": "https://open.spotify.com/track/4u8RkgV6P4TLi89SmlUtv8"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
         "name": "Ikaw Pa Rin",
         "url": "https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 191009,
       "name": "Ikaw Pa Rin",
       "url": "https://open.spotify.com/track/4z7xboLD3PqY9dOUscS2ly"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
+        "name": "Mundo",
+        "url": "https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV"
+      },
+      "artists": [
+        {
+          "name": "IV Of Spades",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "duration_ms": 349713,
+      "name": "Mundo",
+      "url": "https://open.spotify.com/track/4u8RkgV6P4TLi89SmlUtv8"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Yakap",
-        "url": "https://open.spotify.com/album/0HNCZzy2tqjuLZJuTDGdAW"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 178947,
-      "name": "Yakap",
-      "url": "https://open.spotify.com/track/3h8uWt8HNyDNubPSEBgTPG"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
         "name": "Imahe",
         "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 321817,
       "name": "Imahe",
       "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
+        "name": "Yakap",
+        "url": "https://open.spotify.com/album/0HNCZzy2tqjuLZJuTDGdAW"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "duration_ms": 178947,
+      "name": "Yakap",
+      "url": "https://open.spotify.com/track/3h8uWt8HNyDNubPSEBgTPG"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Destination XYZ",
-        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
-      },
-      "artists": [
-        {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
-        }
-      ],
-      "duration_ms": 326813,
-      "name": "Magbalik",
-      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
         "name": "Buruguduystunstugudunstuy",
         "url": "https://open.spotify.com/album/6BGIBrSqYRLcOEOwz0x19B"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 182200,
       "name": "Harana",
       "url": "https://open.spotify.com/track/6UGrgPcISfwGeDikA4YpEv"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
+        "name": "Destination XYZ",
+        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
+      },
+      "artists": [
+        {
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+        }
+      ],
+      "duration_ms": 326813,
+      "name": "Magbalik",
+      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
+        "name": "Sinta",
+        "url": "https://open.spotify.com/album/0LAPQm2tSDLFDDpCfpw5DO"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "duration_ms": 316683,
+      "name": "Sinta",
+      "url": "https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
         "name": "Ang Wakas (feat. Trisha Macapagal)",
         "url": "https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 304000,
       "name": "Ang Wakas (feat. Trisha Macapagal)",
       "url": "https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
-        "name": "Sinta",
-        "url": "https://open.spotify.com/album/0LAPQm2tSDLFDDpCfpw5DO"
-      },
-      "artists": [
-        {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
-        }
-      ],
-      "duration_ms": 316683,
-      "name": "Sinta",
-      "url": "https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
+        "name": "Hale",
+        "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
+      },
+      "artists": [
+        {
+          "name": "Hale",
+          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "Kahit Pa",
+      "url": "https://open.spotify.com/track/444aHC3uiDijx7jzmMkIUK"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
         "name": "Tersera",
         "url": "https://open.spotify.com/album/5ZNxJGEM28nI1M8SKQcXNr"
       },
@@ -831,34 +847,18 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Hale",
-        "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
+        "name": "Mahika",
+        "url": "https://open.spotify.com/album/65PZ3P2MKJuSAVCMM9WWkA"
       },
       "artists": [
         {
-          "name": "Hale",
-          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
         }
       ],
-      "duration_ms": 235920,
-      "name": "Kahit Pa",
-      "url": "https://open.spotify.com/track/444aHC3uiDijx7jzmMkIUK"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
-        "name": "Binibini",
-        "url": "https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Binibini",
-      "url": "https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX"
+      "duration_ms": 210586,
+      "name": "Mahika",
+      "url": "https://open.spotify.com/track/0Pafr67ogSuAur2L3DxB4b"
     }
   ],
   "unique_name": "OPM Favorites",

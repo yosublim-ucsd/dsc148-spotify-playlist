@@ -1,28 +1,32 @@
 {
   "description": "Genre-less. Quality first always. Cover: Danny Brown",
-  "num_followers": 1329663,
+  "num_followers": 1329785,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmMzMzgxNzRiNDBmNGJkNzg1OWIxMmM3MTA4MjRkNTZjMjYyOTYy",
+  "snapshot_id": "MCw0ZTcwNjRlMTkwOTFmMDIzNzI2YmQ5OTcwYzdlYWUzYzdiN2RlNWU0",
   "tracks": [
     {
-      "added_at": "2023-11-17 05:00:00",
+      "added_at": "2023-11-21 16:49:31",
       "album": {
-        "name": "Jenn\u2019s Terrific Vacation (feat. Kassa Overall)",
-        "url": "https://open.spotify.com/album/7yxKIwASvMAr0e9sEjdE6u"
+        "name": "Oral",
+        "url": "https://open.spotify.com/album/0Jldmuyjx6v7nMefI7y00r"
       },
       "artists": [
         {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 206671,
-      "name": "Jenn\u2019s Terrific Vacation - feat. Kassa Overall",
-      "url": "https://open.spotify.com/track/3GRpNIRRBSeBNddgrwrH3U"
+      "duration_ms": 222737,
+      "name": "Oral",
+      "url": "https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -59,18 +63,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Hearth Room",
-        "url": "https://open.spotify.com/album/4Jxk91uFsdzMWcZNyqj6eO"
+        "name": "Hey Lou",
+        "url": "https://open.spotify.com/album/4Vwfbi3fYMpl3BcMYP2VF2"
       },
       "artists": [
         {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        },
+        {
+          "name": "Camille Jansen",
+          "url": "https://open.spotify.com/artist/3fPap8kKuNMRn5PR06x0gN"
         }
       ],
-      "duration_ms": 202466,
-      "name": "Marigold",
-      "url": "https://open.spotify.com/track/44rWKhxzR6hsa04LKavgoC"
+      "duration_ms": 220346,
+      "name": "Hey Lou",
+      "url": "https://open.spotify.com/track/1JrLzZwjwOssxX11afM3XS"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -93,26 +101,6 @@
       "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Hey Lou",
-        "url": "https://open.spotify.com/album/4Vwfbi3fYMpl3BcMYP2VF2"
-      },
-      "artists": [
-        {
-          "name": "Lewis OfMan",
-          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
-        },
-        {
-          "name": "Camille Jansen",
-          "url": "https://open.spotify.com/artist/3fPap8kKuNMRn5PR06x0gN"
-        }
-      ],
-      "duration_ms": 220346,
-      "name": "Hey Lou",
-      "url": "https://open.spotify.com/track/1JrLzZwjwOssxX11afM3XS"
-    },
-    {
       "added_at": "2023-11-08 18:31:53",
       "album": {
         "name": "Jasmine",
@@ -127,6 +115,38 @@
       "duration_ms": 219598,
       "name": "Jasmine",
       "url": "https://open.spotify.com/track/6bniCXManaPDnCN34waQs6"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Hearth Room",
+        "url": "https://open.spotify.com/album/4Jxk91uFsdzMWcZNyqj6eO"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Marigold",
+      "url": "https://open.spotify.com/track/44rWKhxzR6hsa04LKavgoC"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Jenn\u2019s Terrific Vacation (feat. Kassa Overall)",
+        "url": "https://open.spotify.com/album/7yxKIwASvMAr0e9sEjdE6u"
+      },
+      "artists": [
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 206671,
+      "name": "Jenn\u2019s Terrific Vacation - feat. Kassa Overall",
+      "url": "https://open.spotify.com/track/3GRpNIRRBSeBNddgrwrH3U"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -295,26 +315,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "The Good Fight",
-        "url": "https://open.spotify.com/album/7B4EGze9lOlYOOVT1fPZL8"
-      },
-      "artists": [
-        {
-          "name": "Lord Apex",
-          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
-        },
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 233761,
-      "name": "In Your Heart",
-      "url": "https://open.spotify.com/track/5J0hqgFzg27jSx041QP2AF"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Cartwheel",
         "url": "https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz"
       },
@@ -367,26 +367,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "I<3UQTINVU",
-        "url": "https://open.spotify.com/album/6dBMy5XXlOdEvj59IJC1WH"
-      },
-      "artists": [
-        {
-          "name": "Jockstrap",
-          "url": "https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k"
-        },
-        {
-          "name": "Taylor Skye",
-          "url": "https://open.spotify.com/artist/4fsQyHWKED0KhPzgQBPWh2"
-        }
-      ],
-      "duration_ms": 212523,
-      "name": "Sexy 2",
-      "url": "https://open.spotify.com/track/7bqrh2IOMOnLgRWjadYpvA"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Morning Ritual",
         "url": "https://open.spotify.com/album/5qshGdKKt0bR3lBLJDhmoc"
       },
@@ -425,6 +405,26 @@
       "url": "https://open.spotify.com/track/6VXaYZdg5lVthukdAx0uBk"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "The Good Fight",
+        "url": "https://open.spotify.com/album/7B4EGze9lOlYOOVT1fPZL8"
+      },
+      "artists": [
+        {
+          "name": "Lord Apex",
+          "url": "https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz"
+        },
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 233761,
+      "name": "In Your Heart",
+      "url": "https://open.spotify.com/track/5J0hqgFzg27jSx041QP2AF"
+    },
+    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Larger Than Life",
@@ -439,6 +439,26 @@
       "duration_ms": 82508,
       "name": "Best Time",
       "url": "https://open.spotify.com/track/1zgHn1EqUyA0HqNYMdJ5ia"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "I<3UQTINVU",
+        "url": "https://open.spotify.com/album/6dBMy5XXlOdEvj59IJC1WH"
+      },
+      "artists": [
+        {
+          "name": "Jockstrap",
+          "url": "https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k"
+        },
+        {
+          "name": "Taylor Skye",
+          "url": "https://open.spotify.com/artist/4fsQyHWKED0KhPzgQBPWh2"
+        }
+      ],
+      "duration_ms": 212523,
+      "name": "Sexy 2",
+      "url": "https://open.spotify.com/track/7bqrh2IOMOnLgRWjadYpvA"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1379,22 +1399,6 @@
       "duration_ms": 205821,
       "name": "Hypnotherapy",
       "url": "https://open.spotify.com/track/1TMNFPRHGWzCaamL1J5geX"
-    },
-    {
-      "added_at": "2023-10-02 16:02:48",
-      "album": {
-        "name": "let u in",
-        "url": "https://open.spotify.com/album/1KFa59MlWSYXHJnvtdQr5a"
-      },
-      "artists": [
-        {
-          "name": "DEBBY FRIDAY",
-          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
-        }
-      ],
-      "duration_ms": 175504,
-      "name": "let u in",
-      "url": "https://open.spotify.com/track/4baqpGz3NRtHZ8ye1T6Dhl"
     },
     {
       "added_at": "2023-09-21 18:14:10",

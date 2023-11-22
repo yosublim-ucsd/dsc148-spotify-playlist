@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de dos mundos! Qué retumbe la tuba y arremangue el acordeón\. Calibre 50 en portada.
 
-52 songs - 2 hr 57 min
+53 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [La Fuga Del Dorian](https://open.spotify.com/track/5DgIgLz265MAoaBulWlV5f) | [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [La Fuga Del Dorian](https://open.spotify.com/album/36mJ5VoUwMC3MFQHcUt68T) | 4:37 | 2023-02-24 |  |
 | [La Fuga del Dorian \(feat\. Ariel Camacho & Regulo Caro\)](https://open.spotify.com/track/0aKMglFhqmZzJXiNdT0BGK) | [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik), [Ariel Camacho](https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [La Fuga del Dorian](https://open.spotify.com/album/5JTve2kpwniH9fmvXiwO0z) | 4:37 | 2023-02-24 | 2023-07-07 |
 | [La Mb](https://open.spotify.com/track/3FfCRdvFfPA93T8zT2dGqV) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Mb](https://open.spotify.com/album/5R2kp5lNX5KmyRxFw4bRfl) | 3:23 | 2023-02-24 |  |
-| [La Plebada Belica](https://open.spotify.com/track/633anwFhRhaAqgIBMc2teA) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Plebada Belica](https://open.spotify.com/album/62GRUzOlwI6NIGuHp1IBOS) | 2:45 | 2023-02-24 |  |
+| [La Plebada Belica](https://open.spotify.com/track/0Liq4rybSdxhZ5oCeVZWup) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Plebada Belica](https://open.spotify.com/album/64Dj5lN4cxi8nacidPCbvs) | 2:45 | 2023-02-24 |  |
+| [La Plebada Belica](https://open.spotify.com/track/633anwFhRhaAqgIBMc2teA) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Plebada Belica](https://open.spotify.com/album/62GRUzOlwI6NIGuHp1IBOS) | 2:45 | 2023-02-24 | 2023-11-22 |
 | [La Ultima Sombra](https://open.spotify.com/track/6Z5k18VPZu4b1IaIQmbecn) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 3:57 | 2023-02-24 |  |
 | [Levantando Polvadera](https://open.spotify.com/track/4rQyZTWAh23M9fndTO0TWG) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Levantando Polvadera \(Versión Deluxe\)](https://open.spotify.com/album/69YTjXSiMwojeJytLOHhW6) | 3:05 | 2023-02-24 |  |
 | [Me Gustas Mucho](https://open.spotify.com/track/3l2IN6sBGjNBO0WL8UOsNH) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Me Gustas Mucho](https://open.spotify.com/album/0VWQifu9sjPwdxyFnVQPeg) | 3:04 | 2023-02-24 |  |

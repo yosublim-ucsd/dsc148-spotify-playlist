@@ -2225,6 +2225,28 @@
     },
     {
       "album": {
+        "name": "Metadata",
+        "url": "https://open.spotify.com/album/4iLsgAr1wbuz1B8MkGc6wf"
+      },
+      "artists": [
+        {
+          "name": "Willix",
+          "url": "https://open.spotify.com/artist/6xWCdgEVD3rUXv3AYA4VPj"
+        },
+        {
+          "name": "Z\u00d8MB",
+          "url": "https://open.spotify.com/artist/79NIVAOefeJgwo0QIIZ9t2"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108518,
+      "name": "Metadata",
+      "url": "https://open.spotify.com/track/4h3K5he5ItFqJB1MVHMKJV"
+    },
+    {
+      "album": {
         "name": "METAMORPHOSIS (Sped Up)",
         "url": "https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh"
       },

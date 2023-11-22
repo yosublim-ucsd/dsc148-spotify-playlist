@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Rau_Ze",
-  "num_followers": 39142,
+  "num_followers": 39152,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2E4MzRlMWZkNWM5YmQ4MzgzZmZmOTRkZDkwZGFjYTc2ZjYzYWIx",
+  "snapshot_id": "MCw2OTJmN2U4YzBlNWJhMWQ1MWJhOTQ2ZmMyY2RmMDUwNGMwM2E3NDgy",
   "tracks": [
     {
       "added_at": "2023-11-17 05:01:00",
@@ -71,22 +71,22 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Telegram 2",
-        "url": "https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc"
+        "name": "DELLALI (feat. Hamza)",
+        "url": "https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7"
       },
       "artists": [
         {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
         },
         {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 196089,
-      "name": "Magot",
-      "url": "https://open.spotify.com/track/69zAnyBtarXinChSUq925t"
+      "duration_ms": 182037,
+      "name": "DELLALI (feat. Hamza)",
+      "url": "https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -107,22 +107,22 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "DELLALI (feat. Hamza)",
-        "url": "https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7"
+        "name": "Telegram 2",
+        "url": "https://open.spotify.com/album/7931mqzx81Hm7rsKGjaVFc"
       },
       "artists": [
         {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
         },
         {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
         }
       ],
-      "duration_ms": 182037,
-      "name": "DELLALI (feat. Hamza)",
-      "url": "https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w"
+      "duration_ms": 196089,
+      "name": "Magot",
+      "url": "https://open.spotify.com/track/69zAnyBtarXinChSUq925t"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -179,22 +179,18 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "TRAP$TAR 3",
-        "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
+        "name": "Akrapo 7",
+        "url": "https://open.spotify.com/album/5HNtYiR4vYnDFBv2jnGh6X"
       },
       "artists": [
         {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
         }
       ],
-      "duration_ms": 160858,
-      "name": "Dans le noir",
-      "url": "https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F"
+      "duration_ms": 189618,
+      "name": "Akrapo 7",
+      "url": "https://open.spotify.com/track/1C6E3aZ4S4fMN1HIgj73MQ"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -215,18 +211,22 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Akrapo 7",
-        "url": "https://open.spotify.com/album/5HNtYiR4vYnDFBv2jnGh6X"
+        "name": "TRAP$TAR 3",
+        "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
       },
       "artists": [
         {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         }
       ],
-      "duration_ms": 189618,
-      "name": "Akrapo 7",
-      "url": "https://open.spotify.com/track/1C6E3aZ4S4fMN1HIgj73MQ"
+      "duration_ms": 160858,
+      "name": "Dans le noir",
+      "url": "https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Pr\u00e9judice",
-        "url": "https://open.spotify.com/album/5v5g6wVemrFkJFJDe4S77V"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 121446,
-      "name": "Pr\u00e9judice",
-      "url": "https://open.spotify.com/track/4QNPtD5yF7sTwoE92n2sSg"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
         "name": "Au suivant",
         "url": "https://open.spotify.com/album/6ckMeHqNLxSIHSWVpXQyA7"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 199123,
       "name": "Au suivant",
       "url": "https://open.spotify.com/track/6O6071g2kIG6A78TMiF3Fz"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Pr\u00e9judice",
+        "url": "https://open.spotify.com/album/5v5g6wVemrFkJFJDe4S77V"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 121446,
+      "name": "Pr\u00e9judice",
+      "url": "https://open.spotify.com/track/4QNPtD5yF7sTwoE92n2sSg"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -595,42 +595,6 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Comme \u00e7a",
-        "url": "https://open.spotify.com/album/0wXuAfHyW6b04NTj1CjUYt"
-      },
-      "artists": [
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        }
-      ],
-      "duration_ms": 151346,
-      "name": "Comme \u00e7a",
-      "url": "https://open.spotify.com/track/5FLLf89AfmWazFDM6ojiGk"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
-        "name": "Maintenant",
-        "url": "https://open.spotify.com/album/3QoOwSTdtIHltBdrel4lav"
-      },
-      "artists": [
-        {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
-        },
-        {
-          "name": "Renaud",
-          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
-        }
-      ],
-      "duration_ms": 189588,
-      "name": "Maintenant",
-      "url": "https://open.spotify.com/track/2GOyEBwixrrrT6LdscVoxo"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
         "name": "AMBITION",
         "url": "https://open.spotify.com/album/48JSJ6nOB4SegSt9Gs2cZY"
       },
@@ -651,70 +615,18 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Joli coeur",
-        "url": "https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd"
+        "name": "Comme \u00e7a",
+        "url": "https://open.spotify.com/album/0wXuAfHyW6b04NTj1CjUYt"
       },
       "artists": [
         {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
         }
       ],
-      "duration_ms": 194466,
-      "name": "Joli coeur",
-      "url": "https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
-        "name": "Charlotte",
-        "url": "https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu"
-      },
-      "artists": [
-        {
-          "name": "Vitaa",
-          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
-        }
-      ],
-      "duration_ms": 188093,
-      "name": "Promets-moi",
-      "url": "https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
-        "name": "Plaisir Risque D\u00e9pendance",
-        "url": "https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e8le Castillon",
-          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
-        },
-        {
-          "name": "Videoclub",
-          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "Sensations",
-      "url": "https://open.spotify.com/track/1UfM6gnwpBhkzMw07kK6TP"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
-        "name": "Tant de choses",
-        "url": "https://open.spotify.com/album/6EfLgtRJhhgLDPriPnpbgU"
-      },
-      "artists": [
-        {
-          "name": "DTF",
-          "url": "https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM"
-        }
-      ],
-      "duration_ms": 204477,
-      "name": "Tant de choses",
-      "url": "https://open.spotify.com/track/7ac0WtAVR9UjpSyrDY9yLQ"
+      "duration_ms": 151346,
+      "name": "Comme \u00e7a",
+      "url": "https://open.spotify.com/track/5FLLf89AfmWazFDM6ojiGk"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -743,18 +655,18 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Parler de nous",
-        "url": "https://open.spotify.com/album/3lVI7Rh4ow2Yqs6RQL56Ds"
+        "name": "Joli coeur",
+        "url": "https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd"
       },
       "artists": [
         {
-          "name": "Imen Es",
-          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
         }
       ],
-      "duration_ms": 193103,
-      "name": "Parler de nous",
-      "url": "https://open.spotify.com/track/32YBIhzebjwpqwSYZbDiu9"
+      "duration_ms": 194466,
+      "name": "Joli coeur",
+      "url": "https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -771,6 +683,94 @@
       "duration_ms": 177791,
       "name": "PROTOCOLE - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2wzrkGLKgMbkRYRw8bo0HX"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Plaisir Risque D\u00e9pendance",
+        "url": "https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        },
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "Sensations",
+      "url": "https://open.spotify.com/track/1UfM6gnwpBhkzMw07kK6TP"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Charlotte",
+        "url": "https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "duration_ms": 188093,
+      "name": "Promets-moi",
+      "url": "https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Maintenant",
+        "url": "https://open.spotify.com/album/3QoOwSTdtIHltBdrel4lav"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        },
+        {
+          "name": "Renaud",
+          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
+        }
+      ],
+      "duration_ms": 189588,
+      "name": "Maintenant",
+      "url": "https://open.spotify.com/track/2GOyEBwixrrrT6LdscVoxo"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Tant de choses",
+        "url": "https://open.spotify.com/album/6EfLgtRJhhgLDPriPnpbgU"
+      },
+      "artists": [
+        {
+          "name": "DTF",
+          "url": "https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM"
+        }
+      ],
+      "duration_ms": 204477,
+      "name": "Tant de choses",
+      "url": "https://open.spotify.com/track/7ac0WtAVR9UjpSyrDY9yLQ"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Parler de nous",
+        "url": "https://open.spotify.com/album/3lVI7Rh4ow2Yqs6RQL56Ds"
+      },
+      "artists": [
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "Parler de nous",
+      "url": "https://open.spotify.com/track/32YBIhzebjwpqwSYZbDiu9"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Liberta",
-        "url": "https://open.spotify.com/album/4ezzeRj05jnLrRqunm6qJn"
+        "name": "Avec elle",
+        "url": "https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg"
       },
       "artists": [
         {
-          "name": "DTF",
-          "url": "https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM"
+          "name": "GLK",
+          "url": "https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez"
         }
       ],
-      "duration_ms": 148130,
-      "name": "Liberta",
-      "url": "https://open.spotify.com/track/69lKtGrjuqYypkYHm6H2WY"
+      "duration_ms": 166299,
+      "name": "Avec elle",
+      "url": "https://open.spotify.com/track/2cjMxpKD3fAmM0iZPWHJri"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Avec elle",
-        "url": "https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg"
+        "name": "Liberta",
+        "url": "https://open.spotify.com/album/4ezzeRj05jnLrRqunm6qJn"
       },
       "artists": [
         {
-          "name": "GLK",
-          "url": "https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez"
+          "name": "DTF",
+          "url": "https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM"
         }
       ],
-      "duration_ms": 166299,
-      "name": "Avec elle",
-      "url": "https://open.spotify.com/track/2cjMxpKD3fAmM0iZPWHJri"
+      "duration_ms": 148130,
+      "name": "Liberta",
+      "url": "https://open.spotify.com/track/69lKtGrjuqYypkYHm6H2WY"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

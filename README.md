@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(7043\)
+## Playlists \(7044\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -2702,6 +2702,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Instrumental Backdrop](/playlists/pretty/37i9dQZF1DWYmSg58uBxin.md)
 - [Instrumental Bluegrass](/playlists/pretty/37i9dQZF1DXby9Yl80gEWW.md)
 - [Instrumental Christmas Hymns](/playlists/pretty/37i9dQZF1DWViKwLyOBsJF.md)
+- [Instrumental Christmas Jazz](/playlists/pretty/37i9dQZF1DX1JHAMXPtau2.md)
 - [Instrumental Dance Hits](/playlists/pretty/37i9dQZF1DX8QHI5qVTd7o.md)
 - [Instrumental Funk](/playlists/pretty/37i9dQZF1DX8f5qTGj8FYl.md)
 - [Instrumental Guitar Focus](/playlists/pretty/37i9dQZF1DXc6Umi4GHdr1.md)
@@ -4176,6 +4177,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Rap Internazionale](/playlists/pretty/37i9dQZF1DWXRPjCBAuFj3.md)
 - [Rap Latte](/playlists/pretty/37i9dQZF1DX4O0AdBo80OE.md)
 - [Rap Motivazionale](/playlists/pretty/37i9dQZF1DWYBofUhpgE88.md)
+- [Rap Rewind](/playlists/pretty/37i9dQZF1DXaAXb45NEVkE.md)
 - [Rap Tuga Hits](/playlists/pretty/37i9dQZF1DX5nVsobG0zBp.md)
 - [Rap UK](/playlists/pretty/37i9dQZF1DX6PKX5dyBKeq.md)
 - [Rap Workout](/playlists/pretty/37i9dQZF1DX76t638V6CA8.md)
@@ -4403,7 +4405,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Ruleteando](/playlists/pretty/37i9dQZF1DWYP6zmGbwfYH.md)
 - [Rumba Colombiana](/playlists/pretty/37i9dQZF1DWSIJCwMOQ10E.md)
 - [Run 'N' Bass](/playlists/pretty/37i9dQZF1DX8jnAPF7Iiqp.md)
-- [Run It Back](/playlists/pretty/37i9dQZF1DXaAXb45NEVkE.md)
 - [Run This Town](/playlists/pretty/37i9dQZF1DWWPcvnOpPG3x.md)
 - [Run Wild](/playlists/pretty/37i9dQZF1DX35oM5SPECmN.md)
 - [Running to Rock 170\-190 BPM](/playlists/pretty/37i9dQZF1DWZUTt0fNaCPB.md)

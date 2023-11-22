@@ -4,7 +4,7 @@
 
 > it was never just a phase
 
-175 songs - 8 hr 58 min
+176 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Can You Feel My Heart](https://open.spotify.com/track/1PInWkBARsxLyouDqa2GtF) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Deluxe Edition\)](https://open.spotify.com/album/4dhfdOEUI4tfqwdgouFTQA) | 3:47 | 2021-11-19 | 2022-07-29 |
 | [Can You Feel My Heart](https://open.spotify.com/track/5z0iBVc00KwiIcaZBW8kQW) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [2004 \- 2013](https://open.spotify.com/album/09SCnIP5BPLqhTA92iPVec) | 3:47 | 2022-08-16 | 2022-11-14 |
 | [Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:48 | 2022-03-04 |  |
+| [CASUALTY](https://open.spotify.com/track/6KZS7UyCY1akaJGAp64Akl) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/0ZBgA8AktdUxgz54mAUxrN) | 2:38 | 2023-05-19 |  |
 | [Children of The Dark](https://open.spotify.com/track/17bqduRY9LL8WWXtsSE1Kp) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Children of The Dark](https://open.spotify.com/album/78MIA5qaj5wiJgE9pTA9py) | 2:32 | 2021-11-19 | 2022-07-25 |
 | [Chokecherry](https://open.spotify.com/track/6hoZSx85bdN44Y3BJrZHLY) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Chokecherry](https://open.spotify.com/album/0dM5NOKQUtmt8p6Ai4aakW) | 2:45 | 2021-11-19 | 2022-07-28 |
 | [Choose Life](https://open.spotify.com/track/64bFcGOGHhAtNtYzneEDJV) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [The Breakfast Club \(Deluxe Edition\)](https://open.spotify.com/album/2TdlMuVGZfRMgPvB467tu2) | 2:09 | 2021-11-19 | 2023-10-25 |
@@ -180,7 +181,7 @@
 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 | 2023-05-19 |  |
 | [You're So Fucking Pretty](https://open.spotify.com/track/2CQy2zQj9Cs7mRvPnxtHN4) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [You're So Fucking Pretty](https://open.spotify.com/album/3AP7UCAzrXif4SQQhxNUti) | 3:49 | 2022-02-04 | 2022-07-29 |
 | [You're So Fucking Pretty](https://open.spotify.com/track/2UzNrlJnzS5N0PDz2n2kwu) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 3:49 | 2022-08-16 | 2022-12-09 |
-| [{ The Dreamer's Hotel }](https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp) | 2:53 | 2022-08-16 |  |
+| [{ The Dreamer's Hotel }](https://open.spotify.com/track/0kKLYJlTi8RRR18vTOBsKd) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp) | 2:53 | 2022-08-16 | 2023-11-22 |
 | [{ The Dreamer’s Hotel }](https://open.spotify.com/track/54wnl8UEtlaWgy3mNaXMnL) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/4VBnxLnSqWSodiwHIZGdIH) | 2:53 | 2022-03-04 | 2023-01-06 |
 | [\~Cya Later\~](https://open.spotify.com/track/6Ua3hwMCkhRYgesV5kC9Rl) | [Tired Lion](https://open.spotify.com/artist/5Vf0Z6jyMOGr07Gf8irDMt) | [Breakfast For Pathetics](https://open.spotify.com/album/4cr6QE3fflOcnK8W1AWZYo) | 3:20 | 2021-11-19 | 2022-05-23 |
 

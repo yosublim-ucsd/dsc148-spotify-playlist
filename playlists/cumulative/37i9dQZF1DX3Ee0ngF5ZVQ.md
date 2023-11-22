@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Flatland Cavalry
 
-568 songs - 1 day 9 hr 50 min
+569 songs - 1 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Everything I Had](https://open.spotify.com/track/70eyw755HGnxFAk8jPJGRo) | [Gunnar Latham](https://open.spotify.com/artist/7D4Tp8mNvYMeE6xMDSTlU4) | [Volume 2](https://open.spotify.com/album/1Ow5quOYqrRSf4SU6SQnga) | 3:30 | 2021-12-17 | 2022-03-19 |
 | [Excuses](https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Excuses](https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t) | 3:26 | 2021-12-17 | 2022-03-19 |
 | [Family Affair](https://open.spotify.com/track/4ImB5tDz8EHehkCSLe6Ep7) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Family Affair](https://open.spotify.com/album/0zUXeQ5pqqy0FBCAiK4qWx) | 3:57 | 2023-06-09 | 2023-09-09 |
-| [Fast Car](https://open.spotify.com/track/40TItUSmH99bXtbzp0pl4H) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Homecoming](https://open.spotify.com/album/1Om7EoqiNsXCCMeiTzC9BZ) | 3:28 | 2022-10-14 |  |
+| [Fast Car](https://open.spotify.com/track/40TItUSmH99bXtbzp0pl4H) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Homecoming](https://open.spotify.com/album/1Om7EoqiNsXCCMeiTzC9BZ) | 3:28 | 2022-10-14 | 2023-11-22 |
 | [Feels Right](https://open.spotify.com/track/7tEvD2vzhu8FnZ2i4EdPsU) | [Logan Samford](https://open.spotify.com/artist/2szN0HF9UCH9ZkGkkoGqVz) | [Feels Right](https://open.spotify.com/album/40jOCf6bWDCLNsLSzEBvuX) | 3:24 | 2021-12-17 | 2022-03-19 |
 | [Fences](https://open.spotify.com/track/37TQSRXPacyRqVmnLT1QVi) | [Mark Jones & Twenty Paces](https://open.spotify.com/artist/36RSMY5KaK2Bk8HwFrOq04) | [Fences](https://open.spotify.com/album/7oka0HTuXQiLUo51Ai621C) | 4:06 | 2022-04-08 | 2022-07-28 |
 | [Fine & Dandy](https://open.spotify.com/track/0HRBAbJgZuQM3Ku66svJFZ) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Fine & Dandy](https://open.spotify.com/album/4SJS7Bx8c2eYe5mcBTHgw3) | 3:39 | 2023-09-29 |  |
@@ -573,6 +573,7 @@
 | [Work Boots](https://open.spotify.com/track/1exnSf5fH7OBKDvxduf0LT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Work Boots and More from Leather](https://open.spotify.com/album/5RO9lbgYJlJxBdtdz4unA0) | 2:49 | 2023-09-22 |  |
 | [You Ain't No Cowboy](https://open.spotify.com/track/6JVlshaVI7xO3C9o57eMOj) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [You Ain't No Cowboy](https://open.spotify.com/album/6hNyzOd9PDGjkzooGPJRXd) | 3:28 | 2023-02-01 | 2023-03-04 |
 | [You In A Honky Tonk](https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [You In A Honky Tonk](https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ) | 3:03 | 2021-12-17 | 2023-09-02 |
+| [You To Me](https://open.spotify.com/track/6gIhOCip5eeREn4sQj8NMw) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [You To Me](https://open.spotify.com/album/1wr3A9DOyF5ooxpLrYlEb2) | 3:14 | 2023-11-17 |  |
 | [Young Man's Game](https://open.spotify.com/track/1fvnxdH0nEoDFNJPIjdVCN) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Young Man's Game](https://open.spotify.com/album/7d1ev8ZOIejEvyeNxIs6mL) | 3:34 | 2022-02-11 | 2022-03-19 |
 | [Your Alpine](https://open.spotify.com/track/0zxMh6r7kGqomTu9KzcYbi) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Your Alpine](https://open.spotify.com/album/786tMhrL0dSlsMkauWbOUv) | 4:39 | 2023-10-06 |  |
 | [Your Bar Now](https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Your Bar Now](https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR) | 3:34 | 2022-05-13 |  |

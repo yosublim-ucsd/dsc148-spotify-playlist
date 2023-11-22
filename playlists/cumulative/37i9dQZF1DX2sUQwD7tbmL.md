@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-620 songs - 1 day 11 hr 1 min
+621 songs - 1 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Alameda](https://open.spotify.com/track/7h5VAXxxAm8lYi7vrTHRo6) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Alameda](https://open.spotify.com/album/7LgkvNyeL12xJmTVW6rfTX) | 2:41 | 2021-05-01 | 2022-04-13 |
 | [Alemania](https://open.spotify.com/track/5dkhXb9kA9TRhhC929wbkm) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Alemania](https://open.spotify.com/album/6omb0Celi5La2laiUoweog) | 3:55 | 2021-05-01 | 2022-04-13 |
 | [Algorithms](https://open.spotify.com/track/0kac7CtVs9A8AZF8FHK2UE) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Algorithms](https://open.spotify.com/album/4RXegfKZ1n5kUOrAE3QuE0) | 3:09 | 2023-06-16 |  |
+| [All Day All Night](https://open.spotify.com/track/0E9Wzbeo7DMkWyJ8htEZlM) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Daybreaker](https://open.spotify.com/album/7IWUDaOGwoX7VBo2PPad7u) | 3:51 | 2023-10-13 |  |
 | [All Day All Night](https://open.spotify.com/track/1dv9NZzzUeuMRwqqnsWbyW) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Daybreaker](https://open.spotify.com/album/5hqGibvfAVIp9plqmnflCg) | 3:51 | 2023-09-29 | 2023-11-04 |
 | [All Day All Night](https://open.spotify.com/track/2gzKrevrRv9ihRiDItYPBJ) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [All Day All Night](https://open.spotify.com/album/1xZeArCxOOHs2UHWu9Gnzm) | 3:51 | 2022-04-13 | 2022-04-20 |
 | [All I Think About Now](https://open.spotify.com/track/3NfqN997u9A3YAAafgzhIa) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Head Carrier](https://open.spotify.com/album/5F9YYEKDxenkRpyuovdqZe) | 3:07 | 2022-10-14 | 2023-06-17 |
@@ -311,7 +312,7 @@
 | [King / Ghost In A Song](https://open.spotify.com/track/2XhY4sFDDwSSPFUkHLt6om) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [King / Ghost In A Song](https://open.spotify.com/album/51pxUB1F7wVu1BGWL9vqpk) | 3:19 | 2021-05-01 | 2022-03-02 |
 | [Kno Me](https://open.spotify.com/track/6XaMOKR9NHzIFIgNQrpYvU) | [Jerry Paper](https://open.spotify.com/artist/2gzxBoK71ohENPlxlshHV7) | [Kno Me](https://open.spotify.com/album/5NEHXdCbHCF93ARy2ozAqM) | 3:36 | 2022-04-13 | 2022-07-01 |
 | [Kyoto](https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:04 | 2022-04-13 |  |
-| [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 | 2023-03-03 |  |
+| [lalala](https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [It’s Never Fair, Always True](https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES) | 2:47 | 2023-03-03 | 2023-11-22 |
 | [Last Train Home](https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:07 | 2022-07-22 | 2022-10-15 |
 | [Last Train Home](https://open.spotify.com/track/1fzf9Aad4y1RWrmwosAK5y) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Last Train Home](https://open.spotify.com/album/0N81gHRK0RnJY0vMAOKVyi) | 3:07 | 2021-06-04 | 2022-04-21 |
 | [Lavish Living](https://open.spotify.com/track/50I49PT5jn5mi7yA57KYZe) | [Carey St](https://open.spotify.com/artist/1z2f6CTsefDoKLji8oxeJ9) | [Lavish Living](https://open.spotify.com/album/0ASqMfJE3Q6PjQLjkmwtl5) | 3:55 | 2021-05-01 | 2022-04-14 |

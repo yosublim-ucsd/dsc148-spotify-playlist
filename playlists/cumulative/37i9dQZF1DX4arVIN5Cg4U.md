@@ -4,7 +4,7 @@
 
 > Get your bassface on with these classic Dubstep tracks.
 
-97 songs - 7 hr 20 min
+98 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Crush On You](https://open.spotify.com/track/6NJNZKFys2ypAG7L0XKaeT) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:10 | 2020-10-03 |  |
 | [Crush On You](https://open.spotify.com/track/7JJLUJwQCMv7i9lWDvTCLN) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality](https://open.spotify.com/album/02Zb13fM8k04tRwTfMUhe9) | 4:10 | 2020-10-03 | 2022-07-27 |
 | [Dark Matter](https://open.spotify.com/track/0kmABryX13FCanpYXjoYdo) | [N\-Type](https://open.spotify.com/artist/2L3xOZQKjlT0Hb2QpTM4XY) | [Dark Matter / HP Sauce](https://open.spotify.com/album/38JjEHK0Q9MW0FYqjeWr4m) | 7:00 | 2020-10-03 | 2022-07-29 |
-| [Decisions](https://open.spotify.com/track/2E3wYUlW72BCDsGn5YNgCC) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [Decisions \- EP](https://open.spotify.com/album/6VjR9AEeFdSqpIjBkQieqR) | 3:13 | 2020-10-03 |  |
+| [Decisions](https://open.spotify.com/track/2E3wYUlW72BCDsGn5YNgCC) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz) | [Decisions \- EP](https://open.spotify.com/album/6VjR9AEeFdSqpIjBkQieqR) | 3:13 | 2020-10-03 | 2023-11-22 |
 | [Deeper](https://open.spotify.com/track/5qRe3KNf0uXJpt1RKEAEwI) | [Von D](https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD), [Phephe](https://open.spotify.com/artist/6hbDRl5YS14dPDgukOomDc) | [Deeper](https://open.spotify.com/album/5hwtvGZkoGZa3zwB7zM3eB) | 4:42 | 2020-10-03 | 2022-07-29 |
 | [Doomsday](https://open.spotify.com/track/3ziKJoRHiJsaoTaeBYCJBA) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:11 | 2020-10-03 |  |
 | [Doomsday](https://open.spotify.com/track/2C8YrzMqdi6HgijBREcFAk) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality](https://open.spotify.com/album/6GazPcWYAUnvB83tXIbs97) | 4:11 | 2020-10-03 | 2022-07-29 |
@@ -40,6 +40,7 @@
 | [Forefather](https://open.spotify.com/track/0UZvF6KJhjpUawO1ifNvF4) | [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p), [Kano](https://open.spotify.com/artist/50nN8IFD4xA67fI4jYbLV4) | [Chapter II \(Deluxe\)](https://open.spotify.com/album/1IMBoaFPmzHBHQjR8vVO2v) | 3:59 | 2020-10-03 | 2022-11-13 |
 | [Get By \(Radio Edit\)](https://open.spotify.com/track/1JIrfzWMTkGrYHm5ZMlNGb) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Down the Rabbit Hole EP](https://open.spotify.com/album/1w5H63ddvjR8XD0rIrQK6p) | 3:03 | 2020-10-03 |  |
 | [Get By \- Radio Edit](https://open.spotify.com/track/4rRaDsDJq99TaLw3nd8uQS) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Down the Rabbit Hole \- EP](https://open.spotify.com/album/4jeEQrGfSNM1SPggPe28Lq) | 3:03 | 2020-10-03 | 2022-07-29 |
+| [Ginger Pubes](https://open.spotify.com/track/0xp0U9YtEv0u58gr3JZdgE) | [Cookie Monsta](https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP) | [Ginger Pubes / Blurgh!](https://open.spotify.com/album/54RmCOwOUlWLkZQbbG1zcq) | 5:09 | 2023-10-17 |  |
 | [Ginger Pubes](https://open.spotify.com/track/2s0xboyJ9qfdUQVS3ZcY8B) | [Cookie Monsta](https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP) | [Ginger Pubes / Blurgh!](https://open.spotify.com/album/4n7w7SRIJxV6oKySEmaAlK) | 5:09 | 2020-10-03 | 2023-11-12 |
 | [Hard](https://open.spotify.com/track/35M4cbE6QoUF5b3SlOR9GS) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5), [David Rodigan](https://open.spotify.com/artist/3Ecj5Hl1oHo9V7XKXdursh), [Newham Generals](https://open.spotify.com/artist/4uvxuGejwpYNsKHUkNNtc7) | [Foundation](https://open.spotify.com/album/3xy1r4NNCOswj3q7vKJpDd) | 3:43 | 2020-10-03 |  |
 | [Heartbeat \- Chase & Status We Just Bought A Guitar Mix](https://open.spotify.com/track/5qPmR4nG3nNAECAN5JxrEV) | [Nneka](https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Heartbeat EP](https://open.spotify.com/album/7cFT0IlqXCMqkjYi7iL5Jf) | 3:57 | 2020-10-03 |  |

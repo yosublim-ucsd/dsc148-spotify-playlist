@@ -775,6 +775,24 @@
     },
     {
       "album": {
+        "name": "Dear",
+        "url": "https://open.spotify.com/album/54urGS6ShBVfd3Bo5ysX2R"
+      },
+      "artists": [
+        {
+          "name": "EOW",
+          "url": "https://open.spotify.com/artist/3hufeT9qrBonKU5iZxAeHI"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211166,
+      "name": "Dear",
+      "url": "https://open.spotify.com/track/6b6SZrXJVcoMDNk5IostYm"
+    },
+    {
+      "album": {
         "name": "5am",
         "url": "https://open.spotify.com/album/1dLcTY0iMPyX7i6yrz5KjP"
       },
@@ -888,6 +906,24 @@
       "duration_ms": 132000,
       "name": "Earth: my Home Planet",
       "url": "https://open.spotify.com/track/5jrasBBRelZu8W51HHYWSx"
+    },
+    {
+      "album": {
+        "name": "la RiSCOPERTA",
+        "url": "https://open.spotify.com/album/652RGF778mGaycsNVqdpkz"
+      },
+      "artists": [
+        {
+          "name": "KAN",
+          "url": "https://open.spotify.com/artist/0wVJakYe8YCkSjdmiHaVHY"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249306,
+      "name": "Eien",
+      "url": "https://open.spotify.com/track/7fjoRm4S87mpqGiAGOpEhQ"
     },
     {
       "album": {
@@ -1162,7 +1198,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 327173,
       "name": "Good Night Station",
       "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"
@@ -1380,6 +1416,24 @@
       "duration_ms": 240886,
       "name": "hello",
       "url": "https://open.spotify.com/track/7Mk2nGXe7KtjLIA2ghL8kH"
+    },
+    {
+      "album": {
+        "name": "Amiko (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/229nsZcyvUQGLn30FP3ngu"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240895,
+      "name": "hello",
+      "url": "https://open.spotify.com/track/795bHfsDk7EC34IsLqaXfp"
     },
     {
       "album": {
@@ -1836,7 +1890,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 272436,
       "name": "Lamp",
       "url": "https://open.spotify.com/track/0pdzquGBpJs3hndcMnhFK9"
@@ -3007,6 +3061,24 @@
     },
     {
       "album": {
+        "name": "Sekaino Owarini",
+        "url": "https://open.spotify.com/album/68lKm8eBspdlrvLURlu3Ki"
+      },
+      "artists": [
+        {
+          "name": "Sou Yamasaki",
+          "url": "https://open.spotify.com/artist/0ZVL58XQLY5kUCSKRIVhOs"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244500,
+      "name": "Sekaino Owarini",
+      "url": "https://open.spotify.com/track/6ZoXL8YgyqPJkVWmD4AUoB"
+    },
+    {
+      "album": {
         "name": "Sentimental",
         "url": "https://open.spotify.com/album/7vcX2nndbcQzkpqJbatqM2"
       },
@@ -3210,6 +3282,24 @@
       "duration_ms": 275630,
       "name": "Space Orphans",
       "url": "https://open.spotify.com/track/4IXZoWKRxDqw7hfz3jLwwg"
+    },
+    {
+      "album": {
+        "name": "Space Orphans",
+        "url": "https://open.spotify.com/album/2AsKnr2Popc5l1Sbj1rext"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275644,
+      "name": "Space Orphans",
+      "url": "https://open.spotify.com/track/0aCZDVvoYRJURBk4lzdA1b"
     },
     {
       "album": {
@@ -3496,7 +3586,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 126517,
       "name": "There is Nothing More to Say",
       "url": "https://open.spotify.com/track/7zg26Jo05UY1kYtTnRZvyW"
@@ -6310,7 +6400,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 176542,
       "name": "\u77e5\u3089\u306a\u3044\u4e16\u754c\u3082\u898b\u98fd\u304d\u305f",
       "url": "https://open.spotify.com/track/1lY1S9iNCw3zj9mBO7lYkt"
@@ -6412,7 +6502,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 457613,
       "name": "\u7d20\u6674\u3089\u3057\u3044\u4e16\u754c",
       "url": "https://open.spotify.com/track/09VONHJev5pvXazOBr7VVz"

@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 203450,
       "name": "Can't See Me",
       "url": "https://open.spotify.com/track/54Au5DttvRoZRgUM4uitC1"
@@ -1764,6 +1764,24 @@
       "duration_ms": 171188,
       "name": "Cennet",
       "url": "https://open.spotify.com/track/2974zbfDwnPAnx9XNniMou"
+    },
+    {
+      "album": {
+        "name": "Cevaps\u0131z \u00c7a\u011fr\u0131",
+        "url": "https://open.spotify.com/album/2pGJLA5Zlfsq6woqzekNkX"
+      },
+      "artists": [
+        {
+          "name": "\u00fc\u00e7kuru\u015f",
+          "url": "https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153500,
+      "name": "Cevaps\u0131z \u00c7a\u011fr\u0131",
+      "url": "https://open.spotify.com/track/228g9hAzqo5B12nfz6VXfF"
     },
     {
       "album": {
@@ -2500,7 +2518,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 151981,
       "name": "Elektrik",
       "url": "https://open.spotify.com/track/7gzsVgd6N4gmODaA6cHRud"
@@ -2864,6 +2882,24 @@
       "duration_ms": 210674,
       "name": "Geceden Kareler",
       "url": "https://open.spotify.com/track/6YLL52Mw0FjEYmL9izGleP"
+    },
+    {
+      "album": {
+        "name": "Gel Benimle",
+        "url": "https://open.spotify.com/album/0fOFNvmx0dPd1DkxvT71wt"
+      },
+      "artists": [
+        {
+          "name": "Y\u0131lmaz A\u00e7\u0131kyer",
+          "url": "https://open.spotify.com/artist/7KnyUlO6hscu5egsLBOADq"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162740,
+      "name": "Gel Benimle",
+      "url": "https://open.spotify.com/track/2nz7jCVtv4SRNhgyEpjAMp"
     },
     {
       "album": {
@@ -3877,6 +3913,24 @@
     },
     {
       "album": {
+        "name": "Horrorshow",
+        "url": "https://open.spotify.com/album/4E1jzlYXxvRBjUv6RuXXlg"
+      },
+      "artists": [
+        {
+          "name": "Agency",
+          "url": "https://open.spotify.com/artist/5KANYu21k8lWz2Hw42qf5i"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203157,
+      "name": "Horrorshow",
+      "url": "https://open.spotify.com/track/585vFUu6wdrCH9XHf65Ewh"
+    },
+    {
+      "album": {
         "name": "Endowment Effect",
         "url": "https://open.spotify.com/album/3QKrO9mL47HKo9BslN9dAt"
       },
@@ -4502,6 +4556,24 @@
       "duration_ms": 246013,
       "name": "Ka\u00e7mal\u0131 Bu Kafadan",
       "url": "https://open.spotify.com/track/3aIqNnWruuAVjF9FKdeCtp"
+    },
+    {
+      "album": {
+        "name": "Ka\u00e7\u0131nc\u0131 Bahar",
+        "url": "https://open.spotify.com/album/08K1YnYU5kkN8He1dKu6Qc"
+      },
+      "artists": [
+        {
+          "name": "\u0130sa \u00d6zkocaman",
+          "url": "https://open.spotify.com/artist/0U4jQs28By5TA9EzKTG6vZ"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158624,
+      "name": "Ka\u00e7\u0131nc\u0131 Bahar",
+      "url": "https://open.spotify.com/track/4PvjDZvRgyvpTFt2hnt60k"
     },
     {
       "album": {
@@ -5633,6 +5705,24 @@
     },
     {
       "album": {
+        "name": "Olmuyor",
+        "url": "https://open.spotify.com/album/4OlBvgaM2Ni1vdfdqHHdbx"
+      },
+      "artists": [
+        {
+          "name": "G\u00fcne\u015f \u00d6zge\u00e7",
+          "url": "https://open.spotify.com/artist/6mkCYg6ZwD3mv7XnLy19CB"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213374,
+      "name": "Olmuyor",
+      "url": "https://open.spotify.com/track/3YVaWDYskHmC9bRDbCSPv4"
+    },
+    {
+      "album": {
         "name": "Oluru Yok",
         "url": "https://open.spotify.com/album/7rUwPGoappyEYxlG1JTFM5"
       },
@@ -6112,7 +6202,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 285498,
       "name": "Sabah Alt\u0131",
       "url": "https://open.spotify.com/track/5KkIrkEC2ckANnhS4SZkoV"
@@ -6238,7 +6328,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 198000,
       "name": "sahil kenar\u0131",
       "url": "https://open.spotify.com/track/1aGGh3lIqQFVYbRph0lvHn"
@@ -6443,6 +6533,24 @@
     },
     {
       "album": {
+        "name": "Savrulduk",
+        "url": "https://open.spotify.com/album/3M8g5SJuGHFqr1SlSbsRKv"
+      },
+      "artists": [
+        {
+          "name": "Neva",
+          "url": "https://open.spotify.com/artist/5Mc80B08U84VTd98nZcvuD"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126750,
+      "name": "Savrulduk",
+      "url": "https://open.spotify.com/track/6wdjOsjDIkkE7AsRKa0vNU"
+    },
+    {
+      "album": {
         "name": "Savrulsun",
         "url": "https://open.spotify.com/album/34JWzCpYV45Y6psASFd0zm"
       },
@@ -6642,6 +6750,24 @@
       "duration_ms": 183309,
       "name": "Sendin",
       "url": "https://open.spotify.com/track/7qKTR3J0bozO3WjEoYGggD"
+    },
+    {
+      "album": {
+        "name": "Seni G\u00f6rmem Laz\u0131m",
+        "url": "https://open.spotify.com/album/7CdQKtWdT9rsMQJGnvPtO4"
+      },
+      "artists": [
+        {
+          "name": "Ayb\u00fcke Po\u00e7an",
+          "url": "https://open.spotify.com/artist/57rQZpIPdlavJHPyiIckCy"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223026,
+      "name": "Seni G\u00f6rmem Laz\u0131m",
+      "url": "https://open.spotify.com/track/5RdkTUkhyfMebw8Wgc58eM"
     },
     {
       "album": {
@@ -7162,6 +7288,24 @@
       "duration_ms": 240000,
       "name": "Tapmak \u0130sterim",
       "url": "https://open.spotify.com/track/779XwdaG92MI9RJE0krkgX"
+    },
+    {
+      "album": {
+        "name": "Tatl\u0131m (Demo)",
+        "url": "https://open.spotify.com/album/4bzYghCabsXuKIiLWo3PFA"
+      },
+      "artists": [
+        {
+          "name": "Lil Pain",
+          "url": "https://open.spotify.com/artist/06ePYk53piEuTORXKoYd9P"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Tatl\u0131m - Demo",
+      "url": "https://open.spotify.com/track/7CzJBsAQuemCzc4yJErskA"
     },
     {
       "album": {

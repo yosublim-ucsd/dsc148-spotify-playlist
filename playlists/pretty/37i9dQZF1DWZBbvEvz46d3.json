@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 62481,
+  "num_followers": 62517,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjBjYzMxYzA0NmYzN2IzMDQ4YjIyMjlhMDU1NTBmNzZjOTNhNDI3",
+  "snapshot_id": "MCxkZTBkMjg2MDY4YzE1ODRiMGYwZDFmOGU5OGEzOGU3MzkwYzRkYWU4",
   "tracks": [
     {
       "added_at": "2023-09-01 14:10:27",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
-        "name": "Paparanoja",
-        "url": "https://open.spotify.com/album/6qtt0FdpkEMbKO2ZpPs4Be"
-      },
-      "artists": [
-        {
-          "name": "Enej",
-          "url": "https://open.spotify.com/artist/5Dhx2Dt5jkQDTORznqwjo0"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "Kamie\u0144 z Napisem Love",
-      "url": "https://open.spotify.com/track/23KqpM3GPAqiNvfZoyMvsU"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
         "name": "Duety",
         "url": "https://open.spotify.com/album/2ubxdOP13B5rWDTeEHPw1t"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 263853,
       "name": "Trudno Tak (Razem By\u0107 Nam Ze Sob\u0105)",
       "url": "https://open.spotify.com/track/2XaWRFfWAopw4MjhWzuJ15"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
+        "name": "Paparanoja",
+        "url": "https://open.spotify.com/album/6qtt0FdpkEMbKO2ZpPs4Be"
+      },
+      "artists": [
+        {
+          "name": "Enej",
+          "url": "https://open.spotify.com/artist/5Dhx2Dt5jkQDTORznqwjo0"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "Kamie\u0144 z Napisem Love",
+      "url": "https://open.spotify.com/track/23KqpM3GPAqiNvfZoyMvsU"
     },
     {
       "added_at": "2023-09-01 14:10:27",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
-        "name": "Z\u0142oto",
-        "url": "https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW"
-      },
-      "artists": [
-        {
-          "name": "Krzysztof Zalewski",
-          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Mi\u0142o\u015b\u0107 mi\u0142o\u015b\u0107",
-      "url": "https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 223200,
       "name": "Niewiele Ci Mog\u0119 Da\u0107",
       "url": "https://open.spotify.com/track/6dcudkZz9XlmfPw0ZHREU1"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
+        "name": "Z\u0142oto",
+        "url": "https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Mi\u0142o\u015b\u0107 mi\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8"
     },
     {
       "added_at": "2023-09-01 14:10:27",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
-        "name": "Wielki Odlot 2 - Najlepsze 80-te",
-        "url": "https://open.spotify.com/album/47q9qzxUVT9p21WJPJicYI"
-      },
-      "artists": [
-        {
-          "name": "Urszula",
-          "url": "https://open.spotify.com/artist/6vIPbNGbwdrg7LSpz4V2QX"
-        }
-      ],
-      "duration_ms": 326706,
-      "name": "Dmuchawce, Latawce, Wiatr",
-      "url": "https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
         "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
         "url": "https://open.spotify.com/album/6qHFJJQdzanqKZ0jcqx5nb"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 157837,
       "name": "Niech no tylko zakwitn\u0105 jab\u0142onie",
       "url": "https://open.spotify.com/track/4MwftOfY0ufMcOP4rtmtCg"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
+        "name": "Wielki Odlot 2 - Najlepsze 80-te",
+        "url": "https://open.spotify.com/album/47q9qzxUVT9p21WJPJicYI"
+      },
+      "artists": [
+        {
+          "name": "Urszula",
+          "url": "https://open.spotify.com/artist/6vIPbNGbwdrg7LSpz4V2QX"
+        }
+      ],
+      "duration_ms": 326706,
+      "name": "Dmuchawce, Latawce, Wiatr",
+      "url": "https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3"
     },
     {
       "added_at": "2023-09-01 14:10:27",

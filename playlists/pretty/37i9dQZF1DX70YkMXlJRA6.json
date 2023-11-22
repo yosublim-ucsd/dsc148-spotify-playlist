@@ -1,13 +1,29 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 47682,
+  "num_followers": 47699,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDFiOTU2ZjM4YThkZDc0YTE4NTM0NjgyZDA4YjA0ZThlOTMzZGYx",
+  "snapshot_id": "MCwyOGU5MTFkYmExNzlkODk5MjgyMDk2YzRhMGVlMThhMDg0NDcyYzA3",
   "tracks": [
+    {
+      "added_at": "2022-11-12 17:30:07",
+      "album": {
+        "name": "Sera El Sol (Mixed)",
+        "url": "https://open.spotify.com/album/73LjynB8Hfg63Kz4DQqJlR"
+      },
+      "artists": [
+        {
+          "name": "PAAX (Tulum)",
+          "url": "https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd"
+        }
+      ],
+      "duration_ms": 187851,
+      "name": "Epico",
+      "url": "https://open.spotify.com/track/6nv7sDQtRxp0JeH2sFUuwE"
+    },
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
@@ -31,22 +47,6 @@
       "duration_ms": 212621,
       "name": "Sr. Tigre - French Braids Rework",
       "url": "https://open.spotify.com/track/3u2hfoDnXpCiQQRQkblecj"
-    },
-    {
-      "added_at": "2022-11-12 17:30:07",
-      "album": {
-        "name": "Sera El Sol (Mixed)",
-        "url": "https://open.spotify.com/album/73LjynB8Hfg63Kz4DQqJlR"
-      },
-      "artists": [
-        {
-          "name": "PAAX (Tulum)",
-          "url": "https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd"
-        }
-      ],
-      "duration_ms": 187851,
-      "name": "Epico",
-      "url": "https://open.spotify.com/track/6nv7sDQtRxp0JeH2sFUuwE"
     },
     {
       "added_at": "2023-11-06 22:19:34",
@@ -261,22 +261,6 @@
       "url": "https://open.spotify.com/track/3R9l60BDCH4pq8iaR44i0O"
     },
     {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx"
-      },
-      "artists": [
-        {
-          "name": "Bruxas",
-          "url": "https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "M\u00e1s Profundo",
-      "url": "https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt"
-    },
-    {
       "added_at": "2023-03-31 18:10:31",
       "album": {
         "name": "Atl\u00e1ntida",
@@ -295,6 +279,22 @@
       "duration_ms": 330880,
       "name": "Atl\u00e1ntida",
       "url": "https://open.spotify.com/track/4XG8r3tuGn2Sossi2eoNtO"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "M\u00e1s Profundo",
+        "url": "https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx"
+      },
+      "artists": [
+        {
+          "name": "Bruxas",
+          "url": "https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "M\u00e1s Profundo",
+      "url": "https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt"
     },
     {
       "added_at": "2023-03-31 18:13:24",
@@ -337,22 +337,6 @@
       "url": "https://open.spotify.com/track/5Cc7P1f3WRSFFP6iBencng"
     },
     {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Raffolution",
-        "url": "https://open.spotify.com/album/5xUHGEzydxmTfZiVEGZgiz"
-      },
-      "artists": [
-        {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
-        }
-      ],
-      "duration_ms": 220306,
-      "name": "Latino & Proud",
-      "url": "https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4"
-    },
-    {
       "added_at": "2023-03-23 21:34:53",
       "album": {
         "name": "Gato Negro (Daniel Hokum & Okuma Remix)",
@@ -375,6 +359,22 @@
       "duration_ms": 395632,
       "name": "Gato Negro - Daniel Hokum & okuma Remix",
       "url": "https://open.spotify.com/track/4lCjFg06zDoSOSFVxSQyzp"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Raffolution",
+        "url": "https://open.spotify.com/album/5xUHGEzydxmTfZiVEGZgiz"
+      },
+      "artists": [
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "duration_ms": 220306,
+      "name": "Latino & Proud",
+      "url": "https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -433,26 +433,6 @@
       "url": "https://open.spotify.com/track/3tp88MGqFKSLfoieHOfbNC"
     },
     {
-      "added_at": "2023-04-14 01:19:32",
-      "album": {
-        "name": "Espantap\u00e1jaros",
-        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "La Perla",
-          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Espantap\u00e1jaros",
-      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
-    },
-    {
       "added_at": "2022-06-07 16:47:23",
       "album": {
         "name": "Agua",
@@ -487,6 +467,26 @@
       "duration_ms": 220452,
       "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
       "url": "https://open.spotify.com/track/6GMd54cabubG2fdz438cmF"
+    },
+    {
+      "added_at": "2023-04-14 01:19:32",
+      "album": {
+        "name": "Espantap\u00e1jaros",
+        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Espantap\u00e1jaros",
+      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -753,6 +753,22 @@
       "url": "https://open.spotify.com/track/1823wxCop81BdNRMKcfygg"
     },
     {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "El Baile de las Ara\u00f1as",
+        "url": "https://open.spotify.com/album/6BHC6zcjaMC9gilqBS68Tw"
+      },
+      "artists": [
+        {
+          "name": "PAAX (Tulum)",
+          "url": "https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd"
+        }
+      ],
+      "duration_ms": 404351,
+      "name": "Elelu Tomassita",
+      "url": "https://open.spotify.com/track/1RGmt75GiXpnUxM1jYeiCW"
+    },
+    {
       "added_at": "2023-03-24 19:41:45",
       "album": {
         "name": "Ca\u00f1a Brava",
@@ -771,22 +787,6 @@
       "duration_ms": 181134,
       "name": "Ca\u00f1a Brava",
       "url": "https://open.spotify.com/track/0hy6YsimguNescPjjijro0"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "El Baile de las Ara\u00f1as",
-        "url": "https://open.spotify.com/album/6BHC6zcjaMC9gilqBS68Tw"
-      },
-      "artists": [
-        {
-          "name": "PAAX (Tulum)",
-          "url": "https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd"
-        }
-      ],
-      "duration_ms": 404351,
-      "name": "Elelu Tomassita",
-      "url": "https://open.spotify.com/track/1RGmt75GiXpnUxM1jYeiCW"
     },
     {
       "added_at": "2022-06-30 17:42:11",
@@ -939,22 +939,18 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Caribe Express",
-        "url": "https://open.spotify.com/album/4ab1kveCYeqKhuhYwX17P8"
+        "name": "Planeta",
+        "url": "https://open.spotify.com/album/5zGB9eumbNxficstbn9e7R"
       },
       "artists": [
         {
-          "name": "Diego Raposo",
-          "url": "https://open.spotify.com/artist/1rGSYidxwKVwew2k0cuUFi"
-        },
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7wGtDLvDRGllVRX01cj9Ml"
+          "name": "Bleepolar",
+          "url": "https://open.spotify.com/artist/5bJyVqX3ILcqs9CGDrDHYQ"
         }
       ],
-      "duration_ms": 181280,
-      "name": "Desconocidos",
-      "url": "https://open.spotify.com/track/3ta4JlvWcD4hL86TXu8YWa"
+      "duration_ms": 210748,
+      "name": "Planeta",
+      "url": "https://open.spotify.com/track/2feE2TzHjLRK2gVMLzfWBU"
     }
   ],
   "unique_name": "Club Electropical",

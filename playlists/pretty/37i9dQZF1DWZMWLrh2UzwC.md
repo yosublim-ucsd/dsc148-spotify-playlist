@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: DOLLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,166 likes - 94 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,168 likes - 94 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 85 | [hatemyself](https://open.spotify.com/track/5ffcJ5nIKylLvT8tl1a0zw) | [Amber Liu](https://open.spotify.com/artist/4ZpzgTOUAznSK70KdPbJHf) | [hatemyself](https://open.spotify.com/album/0xKtCHDFQuXUj3dvdV4kZv) | 3:10 |
 | 86 | [The Long Breath](https://open.spotify.com/track/2jQWDgZhvkTREAXi7R0Vnf) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [The Long Breath / The Willows](https://open.spotify.com/album/0phsQExgJ5IKweBTgJNdp3) | 4:48 |
 | 87 | [Carte Blanche](https://open.spotify.com/track/6gYpnGlag7CVkVT2Ri5bf9) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Carte Blanche](https://open.spotify.com/album/0LAjgUMlMcbTQ5dz9wx6EW) | 3:18 |
-| 88 | [ALL NIGHT LONG](https://open.spotify.com/track/0zprG792oR31uWPCkYbCJZ) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [THE DEEP](https://open.spotify.com/album/5ZbTp52QK3RIXIQ05wCfdE) | 3:34 |
+| 88 | [ALL NIGHT LONG](https://open.spotify.com/track/0zprG792oR31uWPCkYbCJZ) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [THE DEEP](https://open.spotify.com/album/5ZbTp52QK3RIXIQ05wCfdE) | 3:33 |
 | 89 | [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 |
 | 90 | [A Weekend Song for Me and You](https://open.spotify.com/track/6U7OAuBeJuAsx3zpDDABWW) | [Dead Bachelors](https://open.spotify.com/artist/28anP55ld80zmZjMVOnWZ6), [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Special](https://open.spotify.com/album/4tgy9j0OaBd7rJbnwyGmHL) | 4:05 |
 | 91 | [DOUBLE STANDARDS](https://open.spotify.com/track/5ZxEaTbHYH57kiGuJOB2qd) | [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl) | [DOUBLE STANDARDS](https://open.spotify.com/album/0s52D3Vg8CVxcjZEJXMj0c) | 2:55 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 93 | [Wherever](https://open.spotify.com/track/3BjJ7VHJrIrXPTmbWLE2oa) | [Arabelle](https://open.spotify.com/artist/7uU11RJKOt74chXI2s6eQf) | [Wherever](https://open.spotify.com/album/45tK8A8YV4q8nUZNMgckKc) | 3:03 |
 | 94 | [sleep with me on my birthday](https://open.spotify.com/track/5kn9bgoRskj3jgcEfsK1zL) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [sleep with me on my birthday](https://open.spotify.com/album/5H3aAu6WbGWDmLgCpx2OEs) | 2:55 |
 
-Snapshot ID: `MCw1NDQzMzY1OTdmNTg1NzU1MzY1NWZlZWQ3MmZlMWRhMjkwYWIzMjEw`
+Snapshot ID: `MCw5MWE5MzcwM2M4ZmJiNmY5N2FkMjc2OTRiZjdlOWNjMTliOWY0NTgz`

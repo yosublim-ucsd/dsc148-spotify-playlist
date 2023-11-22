@@ -4,7 +4,7 @@
 
 > Curl up in your favorite spot with some sweet, mellow tunes...
 
-296 songs - 17 hr 46 min
+297 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,8 @@
 | [Rainstorm](https://open.spotify.com/track/0QEweNusTHFbDPp2lXVzut) | [The Sea The Sea](https://open.spotify.com/artist/3uKFW2tuZB4NFThJfHJtZ1) | [Stumbling Home](https://open.spotify.com/album/4wiWyprlpvO3CPxTmS2bHJ) | 3:36 | 2020-10-06 | 2021-04-15 |
 | [Rambling Blade](https://open.spotify.com/track/44GJU8UBKFfwZnvZgyPMJo) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Boots No\. 2: The Lost Songs, Vol\. 2](https://open.spotify.com/album/6yhpvD3T1rlfsGUAoYcIeL) | 2:45 | 2020-10-06 | 2021-01-29 |
 | [Rattlesnake](https://open.spotify.com/track/7rNXmIrtLHJkGtobg9Anjj) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Fruit from the Trees](https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO) | 4:56 | 2023-01-05 |  |
-| [Recording 15](https://open.spotify.com/track/1vNfYCzcCJz0FY7MVVA9lM) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd) | 4:02 | 2019-09-29\* |  |
+| [Recording 15](https://open.spotify.com/track/1vNfYCzcCJz0FY7MVVA9lM) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd) | 4:02 | 2019-09-29\* | 2023-11-22 |
+| [Recording 15](https://open.spotify.com/track/6YKyA96vWcOmcW62bd4M5F) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/6ErBtQXSqQZfmzVX1ns4zu) | 4:02 | 2023-10-13 |  |
 | [Records](https://open.spotify.com/track/5OJEYeJhPaczY1BQFZ2yIv) | [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Water Dog](https://open.spotify.com/album/14od62nFeY9aOW4x7MAoyk) | 3:49 | 2019-09-29\* |  |
 | [Remember Fall In Montreal](https://open.spotify.com/track/6QKMam3vLX9hXvW488YXHU) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [The Summer Isles](https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl) | 5:00 | 2023-02-28 |  |
 | [Remember Fall In Montreal](https://open.spotify.com/track/6VX4UQs6a6jszZeDyx4tgY) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Remember Fall In Montreal](https://open.spotify.com/album/2yIDTUhXvmtDR504JIZOBr) | 5:01 | 2021-10-09 | 2022-07-29 |

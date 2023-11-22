@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-1,275 songs - 2 day 8 hr 20 min
+1,276 songs - 2 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Breath Out](https://open.spotify.com/track/5Kq8SScLc5QiEiSYOstFiP) | [Alrik Lagom](https://open.spotify.com/artist/3hre26wvV7Cy00fDfbJBbn) | [Breath Out](https://open.spotify.com/album/55cGilCCqvhzWpaFevwDhj) | 2:44 | 2023-09-08 |  |
 | [Breather](https://open.spotify.com/track/3EX7o6cJG9jGUJBSOLLKdP) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Pending](https://open.spotify.com/album/2SZomWDmOD84JYTbqJo6PG) | 3:26 | 2022-04-12 | 2023-09-09 |
 | [Brief Stack](https://open.spotify.com/track/2aJ4q1Y7Ks5NMKcLr3DUrZ) | [Vice Bertha](https://open.spotify.com/artist/4fQorNG5OR6L1XCK9r1RJX) | [Brief Stack](https://open.spotify.com/album/4eFJkuboRVGp7xYylyRgNQ) | 2:27 | 2023-09-22 |  |
-| [Bright Encounters](https://open.spotify.com/track/5sNMW4UPPJ8Zosu9elP9dj) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Bright Encounters](https://open.spotify.com/album/1OxZx87VNTRNnMoZFmSYPQ) | 2:05 | 2023-09-22 |  |
+| [Bright Encounters](https://open.spotify.com/track/5sNMW4UPPJ8Zosu9elP9dj) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Bright Encounters](https://open.spotify.com/album/1OxZx87VNTRNnMoZFmSYPQ) | 2:05 | 2023-09-22 | 2023-11-22 |
 | [Bubinga](https://open.spotify.com/track/1qh4v6N6Ozm9jHyuD9qBeB) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Bubinga](https://open.spotify.com/album/1JTUjel0M8No911bMMVhr6) | 3:10 | 2022-04-12 | 2023-09-09 |
 | [Bukkla](https://open.spotify.com/track/5QM0fXFIyTIztACe2YNkk1) | [All High Fives](https://open.spotify.com/artist/4YG7rA1dxiUyeQvpNgKds2) | [Bukkla](https://open.spotify.com/album/2XTTbTvSYaVn8FYUeb3rqC) | 3:25 | 2023-09-08 |  |
 | [Bullet Train](https://open.spotify.com/track/46rQypiYgXMrC2tssYiLsK) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [Bullet Train](https://open.spotify.com/album/6ALsegdjupq4DCT1JAWkRn) | 2:15 | 2023-11-17 |  |
@@ -346,7 +346,7 @@
 | [Engraçado](https://open.spotify.com/track/1rD8PBJipssSYGR5F1KlFk) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Engraçado](https://open.spotify.com/album/7qqZGyhgzBV0nk2LtHRubI) | 1:53 | 2023-09-08 |  |
 | [Enjoy](https://open.spotify.com/track/4CFNtLZ1c7bzTWfoCK8gWl) | [billsbeats](https://open.spotify.com/artist/24ogSxdy5DLO3KUmXh9WT8) | [Enjoy](https://open.spotify.com/album/2mdTnYWSmD4lb2b2H7blc7) | 1:24 | 2023-09-22 |  |
 | [Enjoying the day](https://open.spotify.com/track/4xdJ4CpOduId5pWpvCCDjH) | [Arkei](https://open.spotify.com/artist/0zRhlnZOOvpAwow405hTFw) | [Desde Casa](https://open.spotify.com/album/2r5rGpkSvAUNznch677mSZ) | 1:43 | 2023-09-08 | 2023-09-29 |
-| [Enough](https://open.spotify.com/track/2ALlB3nsSzTahHS1pH8Qnz) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [SōNE](https://open.spotify.com/artist/0vyQIO5WNw4aGfAaf9yUXi) | [Enough](https://open.spotify.com/album/0jmTlZaX5hQsFZ6PF2w63v) | 2:33 | 2023-09-08 |  |
+| [Enough](https://open.spotify.com/track/2ALlB3nsSzTahHS1pH8Qnz) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [SōNE](https://open.spotify.com/artist/0vyQIO5WNw4aGfAaf9yUXi) | [Enough](https://open.spotify.com/album/0jmTlZaX5hQsFZ6PF2w63v) | 2:33 | 2023-09-08 | 2023-11-22 |
 | [Episodes](https://open.spotify.com/track/3tX9hPhKxKBusddqCTWZo4) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Episodes](https://open.spotify.com/album/7mxhPKbg32cdY4LaczJftN) | 3:06 | 2022-04-12 | 2023-09-09 |
 | [Episodes](https://open.spotify.com/track/4lIfzxIDvFtWmelRLY4oud) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Episodes](https://open.spotify.com/album/4dlaAUxtiaESKKMCEuKhsp) | 3:06 | 2022-04-12 | 2022-07-29 |
 | [Eremito](https://open.spotify.com/track/4K4tXvsNSkxkmo88sdjdSH) | [Morpheus Two](https://open.spotify.com/artist/1YFyublQissuj82xACfDxj) | [Eremito](https://open.spotify.com/album/1Mjfh4k7pxFSQGFkmmYYr5) | 2:01 | 2022-04-12 | 2023-09-09 |
@@ -631,7 +631,7 @@
 | [London](https://open.spotify.com/track/4IgI10xrOzTIiDg4ApvfwC) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [London](https://open.spotify.com/album/5vyoEpmkwXKO8lUSaTsz2O) | 2:35 | 2023-09-22 |  |
 | [Lonely Astronaut](https://open.spotify.com/track/2kVhsKwPV0Cc4rd7DsLFZP) | [Flying Demond](https://open.spotify.com/artist/6RBGmg9yokIH4mEaoPABJd) | [Cloudy Sleeps](https://open.spotify.com/album/4yi7uuzEv3syYYIHbku9Nd) | 2:31 | 2023-09-22 |  |
 | [Long Green](https://open.spotify.com/track/4ADWxy7ycP8yvfYvbKrgro) | [ULMÄR](https://open.spotify.com/artist/68q8XXsA6PTuUJGRge3sR5) | [Long Green](https://open.spotify.com/album/08vHVer2zsqXCop1SKBA5Y) | 2:52 | 2023-09-22 |  |
-| [Longing For](https://open.spotify.com/track/6tC7lce2KkOFAB4dvK5ZpM) | [Stuffed Tomato](https://open.spotify.com/artist/5cbjnkdsTmPqxejdiFdK6b) | [Longing For](https://open.spotify.com/album/5G3xHYW51UTTOjWDtj7R30) | 2:24 | 2023-09-08 | 2023-11-21 |
+| [Longing For](https://open.spotify.com/track/6tC7lce2KkOFAB4dvK5ZpM) | [Stuffed Tomato](https://open.spotify.com/artist/5cbjnkdsTmPqxejdiFdK6b) | [Longing For](https://open.spotify.com/album/5G3xHYW51UTTOjWDtj7R30) | 2:24 | 2023-09-08 |  |
 | [Longing for summer](https://open.spotify.com/track/7I6VIP00dwIA97Ge5AK1YP) | [LOVICHI](https://open.spotify.com/artist/0RqNl8EYEK17F2EKwlBLfP) | [Longing for summer](https://open.spotify.com/album/4FGN3nnZpSUtQ0tbzccpmX) | 2:20 | 2023-09-22 |  |
 | [Looped](https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Kiasmos](https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d) | 6:00 | 2022-04-12 | 2023-09-09 |
 | [Looped](https://open.spotify.com/track/4zSbFrERDuBdZ1Bio9uee4) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Kiasmos](https://open.spotify.com/album/5M7H7J3LJfIk9zqcDJVi6T) | 6:00 | 2022-04-12 | 2022-07-29 |
@@ -1257,6 +1257,7 @@
 | [Winning At Life](https://open.spotify.com/track/5zGhvl37kzqACtEnoVpdyz) | [Platinum Dust](https://open.spotify.com/artist/4EOKoMTIR7K71Skv7gAmgS) | [Winning At Life](https://open.spotify.com/album/0zTRtapY3LFvuOqUFOSALb) | 1:59 | 2023-09-22 |  |
 | [winter balloon](https://open.spotify.com/track/6qKhsRKyfUbeqeIEArP2d8) | [Ponzi Skeemz](https://open.spotify.com/artist/217VkbBQjlErrkiDqNPDPM) | [winter balloon](https://open.spotify.com/album/69793ppyxJHCz149lVQHIt) | 2:11 | 2023-09-08 |  |
 | [Wistful Silhouettes](https://open.spotify.com/track/5Ltgq6XMTilOXhNiSQZrVT) | [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41), [alt.bin.beats](https://open.spotify.com/artist/19RtbWE9QLz3K4YW19qdos) | [Wistful Silhouettes](https://open.spotify.com/album/7bnbpre7jCyEwHu1hT9ngt) | 2:16 | 2023-10-13 |  |
+| [With your eyes!](https://open.spotify.com/track/1USmYJcOKa94oA58sRnOXJ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [With your eyes!](https://open.spotify.com/album/2WomwpHMSA6E2yrMSEJxCI) | 2:29 | 2023-11-17 |  |
 | [Woke](https://open.spotify.com/track/5EGp4crErFOKGNAr7bGtU6) | [Namaskar Blunt](https://open.spotify.com/artist/1YgUnb4dGNkaCsneIunFmm) | [Woke](https://open.spotify.com/album/23iKhQwfBkYI5FOwrnMjar) | 1:42 | 2023-09-22 |  |
 | [wombat](https://open.spotify.com/track/0PXyjded1E0xIDuDphr7EV) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [wombat](https://open.spotify.com/album/7111PKKgdMHNA21d8Y7VKA) | 2:53 | 2023-09-22 |  |
 | [wonderland](https://open.spotify.com/track/2fP5vQ1GnN9FhbWpPRgQeT) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Broken Clocks And Still Time](https://open.spotify.com/album/3DznMUC2aXorcY7A4i9bAq) | 1:50 | 2023-09-22 |  |

@@ -667,6 +667,24 @@
     },
     {
       "album": {
+        "name": "Another Disaster",
+        "url": "https://open.spotify.com/album/5byRdBEonyHtaP8IwaGaFU"
+      },
+      "artists": [
+        {
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290322,
+      "name": "Another Disaster",
+      "url": "https://open.spotify.com/track/607sdsDqekZqncZatOMu4x"
+    },
+    {
+      "album": {
         "name": "Another Planet EP",
         "url": "https://open.spotify.com/album/5rX6PK39rcuG2pjYWWA528"
       },
@@ -3326,7 +3344,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 521940,
       "name": "Farsi",
       "url": "https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi"
@@ -7332,7 +7350,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 260500,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/6LBNRWUS3dKeZxREy3WHTL"
@@ -7372,6 +7390,24 @@
       "duration_ms": 416840,
       "name": "One More Ride",
       "url": "https://open.spotify.com/track/1eys1iysFllOg7dAbUjFtB"
+    },
+    {
+      "album": {
+        "name": "One Touch",
+        "url": "https://open.spotify.com/album/2aYXVu6p7YCnCUmIwosOP7"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352986,
+      "name": "One Touch",
+      "url": "https://open.spotify.com/track/0UrxrZzg8x8xa5GFRRngMS"
     },
     {
       "album": {

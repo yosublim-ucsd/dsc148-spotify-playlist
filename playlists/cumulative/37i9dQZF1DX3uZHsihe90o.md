@@ -4,7 +4,7 @@
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-148 songs - 6 hr 30 min
+149 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Family Time \(feat\. Judah Marley\)](https://open.spotify.com/track/6hHg2WvX0JYQt8Sw2qTAoP) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/1OreWX3yJbrIozwosO1ELn) | 4:20 | 2021-12-16 | 2022-07-29 |
 | [Farmer's Market](https://open.spotify.com/track/2ajPDldJr8RicylhXAwbnh) | [Laura Doherty](https://open.spotify.com/artist/7bVSBw7ZOfKRyPBzTjEIoG) | [Kids In The City](https://open.spotify.com/album/0u6Q3uQTy7aqQ7DVKpGltt) | 2:37 | 2021-12-16 |  |
 | [Five Little Monkeys Jumping on the Bed](https://open.spotify.com/track/42asoM3aOwxRsivZEKFEeI) | [David Landau](https://open.spotify.com/artist/2xIaXC0ztnAJkUsZWFVSPV) | [Kids and Kitties](https://open.spotify.com/album/5dO917ENOex3W1RnneH0wv) | 1:41 | 2021-12-16 |  |
-| [Follow the Drinkin' Gourd](https://open.spotify.com/track/5qRrrhYkzHAjF5XRlmGGzT) | [Fox and Branch](https://open.spotify.com/artist/5FI0PNabN2h4i206dKqFRI) | [Did You Hear That?](https://open.spotify.com/album/0dIRGuMAPwJP9ZAXeLtvOG) | 4:28 | 2021-12-16 |  |
+| [Follow the Drinkin' Gourd](https://open.spotify.com/track/5qRrrhYkzHAjF5XRlmGGzT) | [Fox and Branch](https://open.spotify.com/artist/5FI0PNabN2h4i206dKqFRI) | [Did You Hear That?](https://open.spotify.com/album/0dIRGuMAPwJP9ZAXeLtvOG) | 4:28 | 2021-12-16 | 2023-11-22 |
 | [Free To Be...You And Me](https://open.spotify.com/track/2bPcvz0qVLImBAQQwJCEKb) | [The New Seekers](https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn) | [Free To Be...You And Me](https://open.spotify.com/album/4IKOXQvJjYwPZBYSQg8gKF) | 3:14 | 2021-12-16 |  |
 | [Frog Went A\-Courtin'](https://open.spotify.com/track/77tu5ZdU2IPNpHoAQQgyWA) | [Children Music Unlimited](https://open.spotify.com/artist/5nN2JCrrbEwgCgKHFO6Dps) | [20 Fun Songs For Kids \(Classic Children's Music\)](https://open.spotify.com/album/4hksJsetWK0RrlPlKAmV1K) | 3:33 | 2021-12-16 | 2023-05-03 |
 | [Glue](https://open.spotify.com/track/1OnQCrHqov2hDGd0WFh6VV) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Glue](https://open.spotify.com/album/0CrN2sQKKHa2IvNJybDCID) | 2:18 | 2021-12-16 |  |
@@ -99,6 +99,7 @@
 | [Matter of Fact](https://open.spotify.com/track/24QRXHKVA6rWIxHZqU8rX9) | [Elliott Park](https://open.spotify.com/artist/6iz85IUQbVWxKzemxy4u16) | [The Mouth](https://open.spotify.com/album/4KZHTM0tObhCZPckxqb4hA) | 2:24 | 2021-12-16 |  |
 | [Michael Row the Boat Ashore](https://open.spotify.com/track/1awrgXeSM9rCjdZaVmWeU6) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Around the Campfire](https://open.spotify.com/album/2iGp6aL5TSPT0GQDsxJB7l) | 2:43 | 2021-12-16 |  |
 | [Mud Puddle](https://open.spotify.com/track/4aOVkC8IPmOFw963gwu6iI) | [Will's Jams](https://open.spotify.com/artist/0bLuwS5s9quZsZYfBt3xdm) | [Big Shiny Spoons](https://open.spotify.com/album/48MhlB2X3QT0WP5hZ1pe9y) | 3:46 | 2021-12-16 | 2022-07-19 |
+| [My Country Tis of Thee](https://open.spotify.com/track/1Z5ng6hqs2Xm2XmdKFpT7F) | [Crosby & Nash](https://open.spotify.com/artist/2mDlls63YpRsMjgpyXxyu6) | [Crosby & Nash](https://open.spotify.com/album/3NbFrkeEDvGRX0iOt52rPd) | 1:42 | 2023-01-31 |  |
 | [My Country Tis of Thee](https://open.spotify.com/track/6b00M2aFkwisrX6GEZAg7N) | [Crosby & Nash](https://open.spotify.com/artist/2mDlls63YpRsMjgpyXxyu6) | [Crosby & Nash](https://open.spotify.com/album/79ZjC6bM9LX2brEnqhraVd) | 1:42 | 2022-04-15 | 2023-11-04 |
 | [My Country Tis of Thee](https://open.spotify.com/track/7I8OOfdIvHnvLUJ09BQBU3) | [Crosby & Nash](https://open.spotify.com/artist/2mDlls63YpRsMjgpyXxyu6) | [Crosby & Nash](https://open.spotify.com/album/03QD54RAeTky8OoxIUxHxs) | 1:42 | 2021-12-16 | 2022-07-28 |
 | [My Own Two Hands](https://open.spotify.com/track/0RcOyACUtCAgCglC9tPlqK) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy) | 2:58 | 2021-12-16 |  |

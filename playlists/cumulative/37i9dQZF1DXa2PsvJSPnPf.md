@@ -4,7 +4,7 @@
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-210 songs - 13 hr 7 min
+211 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [A Little More Love](https://open.spotify.com/track/1BvuS6gwnoBDh7AgMie0ys) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O), [Von Grey](https://open.spotify.com/artist/5xR9ASaTQjZvn8Uv38G2vL) | [A Little More Love](https://open.spotify.com/album/1TVnibZsoy5zg0HbsotDn5) | 4:48 | 2021-11-19 |  |
 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 | 2021-11-19 |  |
 | [All Good Cowboys](https://open.spotify.com/track/2tGGjVf9IAyXRv9XucKgCs) | [Mercy Bell](https://open.spotify.com/artist/66gM98dnEDRy8GkDmZt0EG) | [Mercy Bell](https://open.spotify.com/album/0DqRo10IE9EQwVM5Uva7l7) | 3:51 | 2021-11-19 |  |
-| [Always Room](https://open.spotify.com/track/74nuuKLWKLboj141dT2vBV) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd) | 2:14 | 2021-11-19 |  |
+| [Always Room](https://open.spotify.com/track/74nuuKLWKLboj141dT2vBV) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/3UirGXBKa2VVuip8JPlBpd) | 2:14 | 2021-11-19 | 2023-11-22 |
+| [Always Room](https://open.spotify.com/track/3tPMZ7HPzjguzpyy6kraW8) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/6ErBtQXSqQZfmzVX1ns4zu) | 2:14 | 2023-11-20 |  |
 | [American Dream](https://open.spotify.com/track/0OOIFL8VNFHXRSsci9F2m4) | [Rainbow Girls](https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7) | [American Dream](https://open.spotify.com/album/14MQkr5UdHfFY4IvpMv08p) | 4:52 | 2021-11-19 | 2023-07-29 |
 | [And It's Still Alright](https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:55 | 2021-11-19 |  |
 | [Avalon, My Hometown](https://open.spotify.com/track/0JIRGF8Q3qjw73kCQ83FN6) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Avalon, My Hometown](https://open.spotify.com/album/3V65aoyRCvsL5rv0JoO8IZ) | 4:20 | 2022-10-28 |  |

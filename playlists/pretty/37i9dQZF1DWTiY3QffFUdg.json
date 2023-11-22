@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
-  "num_followers": 35589,
+  "num_followers": 35908,
   "original_name": "techno party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjRiZjA0NmYyYWU4M2I4NDNjODkwYWFkYTMyZDYyZjUxNmZiZTY4",
+  "snapshot_id": "MCwwMmZkOTczNGU4ZTcyY2M5MTczMTE1YTk5N2NlZTg2Y2MyYTA2NTVh",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -628,13 +628,33 @@
           "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
         },
         {
-          "name": "Nightcore",
-          "url": "https://open.spotify.com/artist/4T7P7W7Jp191exHszNy0iz"
+          "name": "KAJAK",
+          "url": "https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt"
         }
       ],
       "duration_ms": 192643,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/0KppS35Sn3pnHM0Sap5bBs"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        },
+        {
+          "name": "The Bossline",
+          "url": "https://open.spotify.com/artist/2mqLyztNOo3DF8seytuHzE"
+        }
+      ],
+      "duration_ms": 146304,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/4z6ygaxvCR8osXCgT2IZa7"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -659,26 +679,6 @@
       "duration_ms": 248888,
       "name": "Gam Gam - 2023",
       "url": "https://open.spotify.com/track/1mWbB1bGjvdZR3vFtaT2gL"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Rapture",
-        "url": "https://open.spotify.com/album/0KppS35Sn3pnHM0Sap5bBs"
-      },
-      "artists": [
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        },
-        {
-          "name": "The Bossline",
-          "url": "https://open.spotify.com/artist/2mqLyztNOo3DF8seytuHzE"
-        }
-      ],
-      "duration_ms": 146304,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/4z6ygaxvCR8osXCgT2IZa7"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "The Violator",
-        "url": "https://open.spotify.com/album/1kLSXmk2rBzGoPizreKGnB"
+        "name": "Waka Waka",
+        "url": "https://open.spotify.com/album/7HGP96lEH5assiam9DokmF"
       },
       "artists": [
         {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
         }
       ],
-      "duration_ms": 241770,
-      "name": "The Violator",
-      "url": "https://open.spotify.com/track/3WMSOkdBmgxgkQkZkkgqZc"
+      "duration_ms": 125856,
+      "name": "Waka Waka",
+      "url": "https://open.spotify.com/track/5Idil10mcvgdD2CHbRR2sF"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -783,18 +783,38 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Waka Waka",
-        "url": "https://open.spotify.com/album/7HGP96lEH5assiam9DokmF"
+        "name": "The Violator",
+        "url": "https://open.spotify.com/album/1kLSXmk2rBzGoPizreKGnB"
       },
       "artists": [
         {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
         }
       ],
-      "duration_ms": 125856,
-      "name": "Waka Waka",
-      "url": "https://open.spotify.com/track/5Idil10mcvgdD2CHbRR2sF"
+      "duration_ms": 241770,
+      "name": "The Violator",
+      "url": "https://open.spotify.com/track/3WMSOkdBmgxgkQkZkkgqZc"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Lose This Feeling (Maddix Remix)",
+        "url": "https://open.spotify.com/album/7kGQVU6PHkVJmq6Lg1jf5e"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Lose This Feeling - Maddix Remix",
+      "url": "https://open.spotify.com/track/4k6rfEGWGrv8rOHnjVcXVw"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -867,22 +887,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Schwer",
-        "url": "https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10"
-      },
-      "artists": [
-        {
-          "name": "Paul Kalkbrenner",
-          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
-        }
-      ],
-      "duration_ms": 214895,
-      "name": "Schwer",
-      "url": "https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Push It",
         "url": "https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL"
       },
@@ -907,22 +911,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Techno Sound",
-        "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "Techno Sound",
-      "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
       },
@@ -935,6 +923,38 @@
       "duration_ms": 409000,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Schwer",
+        "url": "https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10"
+      },
+      "artists": [
+        {
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
+        }
+      ],
+      "duration_ms": 214895,
+      "name": "Schwer",
+      "url": "https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Techno Sound",
+        "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "Techno Sound",
+      "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -975,30 +995,6 @@
       "duration_ms": 172563,
       "name": "Love Is Free",
       "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Komodo",
-        "url": "https://open.spotify.com/album/0kvwytv9p1qqdGdlDzLN0c"
-      },
-      "artists": [
-        {
-          "name": "MATTN",
-          "url": "https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio"
-        },
-        {
-          "name": "DJs From Mars",
-          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
-        },
-        {
-          "name": "Mauro Picotto",
-          "url": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
-        }
-      ],
-      "duration_ms": 155836,
-      "name": "Komodo",
-      "url": "https://open.spotify.com/track/7xkKZ9TjRm5zE6hJf5CaGC"
     }
   ],
   "unique_name": "techno party",

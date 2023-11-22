@@ -4,7 +4,7 @@
 
 > back up in the sky
 
-245 songs - 14 hr 54 min
+248 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 | 2022-09-02 | 2022-10-29 |
 | [fade out](https://open.spotify.com/track/2vNgbnSl6VBCQI3S799n6N) | [Tlim Shug](https://open.spotify.com/artist/6ZBY7xp0TKiZx6TlQk19yh) | [demosdemos](https://open.spotify.com/album/0tlrRls5bOWqRWaPkr1jGl) | 2:46 | 2023-01-19 | 2023-05-25 |
 | [Fading Strangers](https://open.spotify.com/track/2XF1JdrtOorRbxw02e3tFI) | [Unreality](https://open.spotify.com/artist/18LV0HPxHANRVU6z3L7xKs) | [Fading Strangers](https://open.spotify.com/album/287xZvqs6sT1Sme8GnVkaf) | 3:15 | 2022-09-16 | 2023-09-30 |
+| [Feed The Fire](https://open.spotify.com/track/5MEcComvM8pxNN3V3pUOCG) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [A Little Disaster](https://open.spotify.com/album/2qioFepYwtRRzdP91fGsj5) | 3:38 | 2023-11-21 |  |
 | [flutter](https://open.spotify.com/track/1D8sCqR7SwxUTwUDqMyUAp) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [flutter](https://open.spotify.com/album/0r2dEhL4Ijur6WDzvgXygl) | 4:27 | 2022-12-12 | 2023-05-25 |
 | [forest green](https://open.spotify.com/track/4ARqMW0NJQpNtqnYHAgbjO) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [forest green](https://open.spotify.com/album/10avrb3XzKDttFJte6w2gR) | 3:27 | 2023-09-29 |  |
 | [Forgotten, Fossilized, Archaic](https://open.spotify.com/track/61YVCATCLSWCAh7xDNN7Kw) | [Autumn's Grey Solace](https://open.spotify.com/artist/0f00mZvxmxeuhmxEot8LlP) | [Within The Depths Of A Darkened Forest](https://open.spotify.com/album/5Gk1Trdz04ixib0LV4LIdy) | 4:43 | 2023-10-31 |  |
@@ -205,6 +206,7 @@
 | [Shadow Lady](https://open.spotify.com/track/4yx91SkOX4OWjUmhEj4rDl) | [Portwave](https://open.spotify.com/artist/5g97nXsHBZDyY6wPKckqLc) | [Shadow Lady](https://open.spotify.com/album/5SqGemHRM0ZfooBHuC81qK) | 5:02 | 2023-03-22 |  |
 | [Shellshock \- Dubyshkin Feed Your Pet Mix](https://open.spotify.com/track/5DPoMqEbmuENT6EKpVY5OQ) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA), [Vladimir Dubyshkin](https://open.spotify.com/artist/1ZzmTycawZ9YbMeiKcfKLL) | [Joy Squad / Shellshock \(VTSS & Dubyshkin Remixes\)](https://open.spotify.com/album/3o8z9yU8EHtoQgzgdFR0Cp) | 4:07 | 2023-01-19 | 2023-05-25 |
 | [Singing To Let England Shake](https://open.spotify.com/track/4WgPnx0VIchYHqhIBK6I7y) | [Forever Honey](https://open.spotify.com/artist/4Cb3ba0NtoWqbwygQNCyjN) | [Singing To Let England Shake](https://open.spotify.com/album/6XvASASymN1EvsH5J3i4G9) | 3:36 | 2022-09-09 | 2023-05-25 |
+| [Slick Rick](https://open.spotify.com/track/4fYjk7xP6yiNrTxRrh27Hl) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:55 | 2023-11-21 |  |
 | [Slumbernumb](https://open.spotify.com/track/3bcQvxrW59PlemA7rrPm2G) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Slumbernumb](https://open.spotify.com/album/7ItF9Bbj5JzCVqNv1nOp4p) | 3:09 | 2023-09-29 |  |
 | [snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 4:05 | 2023-05-24 | 2023-11-11 |
 | [So Nice](https://open.spotify.com/track/2CUezCxDV2BTpyiRSXqeau) | [Total](https://open.spotify.com/artist/1oprjfdpOCEGVwpSRr2XDH) | [Lava](https://open.spotify.com/album/1Z7KqmX9z5qsEnCAVkvMFU) | 2:43 | 2022-09-30 | 2023-05-25 |
@@ -237,6 +239,7 @@
 | [veil](https://open.spotify.com/track/0DEJ2X4QvFGboCAdO5MyXz) | [akiaura](https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc), [Olya Holiday](https://open.spotify.com/artist/7yH0tCtttU4pORkXn6rWZS) | [veil](https://open.spotify.com/album/5qW1FvS2dys9B2K8c9cscx) | 1:47 | 2023-06-02 | 2023-09-30 |
 | [Verónica Pass](https://open.spotify.com/track/4bDOgyXzdqu74giNhwXMX5) | [R\. Missing](https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu) | [Verónica Pass](https://open.spotify.com/album/5bqgcc97DxAORtjTBfrXwP) | 2:59 | 2023-01-19 | 2023-08-19 |
 | [Violent Youth](https://open.spotify.com/track/67cdrrKC32SfLTcYMPDfcK) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 4:21 | 2022-09-30 | 2022-11-11 |
+| [Violet](https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Live Through This](https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7) | 3:24 | 2023-11-21 |  |
 | [VIOLET NOISE](https://open.spotify.com/track/62zciqjLHP51CxpJGPGDGM) | [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [NOISE T.V](https://open.spotify.com/album/3TxlPPVEkL4vlOcmpEJWLS) | 2:58 | 2023-10-20 |  |
 | [Watersong](https://open.spotify.com/track/60kgQtJNMGRaFfzwy18XUY) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Wings Of Joy \(Expanded Edition\)](https://open.spotify.com/album/5RzJqDl7qP2xQ2mV8CX4qq) | 3:51 | 2022-10-28 | 2022-12-13 |
 | [When I'm Small](https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Eyelid Movies](https://open.spotify.com/album/6smJTxDxrnxi6fPfFWYSQV) | 4:09 | 2023-03-22 | 2023-05-25 |

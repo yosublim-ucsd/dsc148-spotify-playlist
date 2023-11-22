@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau?si=tV19pJIgSkSq1IjoAZtWIQ">Anendlessocean</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,842 likes - 90 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,895 likes - 90 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 89 | [The One \- Remix](https://open.spotify.com/track/2Ne0ovpMlUx6wVm6tzAu9E) | [Iryne Rock](https://open.spotify.com/artist/0lZBllAgaDbRiaQnNJJFLe), [Isaac Geralds](https://open.spotify.com/artist/0koRhDQ7F7dsjljcuU05PX) | [The One \(Remix\)](https://open.spotify.com/album/4otZyK17QTH5WdPW7DyyoU) | 3:06 |
 | 90 | [CONFIDENCE \(Part 1\)](https://open.spotify.com/track/7upI55mhDKvTglOMQ5Wj5N) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [CONFIDENCE \(Part 1\)](https://open.spotify.com/album/5xRpwUmnqamMVJErrTYZuj) | 2:28 |
 
-Snapshot ID: `MCw3Mjc1Y2U4NmE2NzBlYjczNjgwMDEwMTdlNWFlNzRlZmZkODQxOWI5`
+Snapshot ID: `MCwzNzkwODAwOWYxMTA4Y2ExZWM2MzIyODBiNmVjZWUzMGZmYjg1YmY2`

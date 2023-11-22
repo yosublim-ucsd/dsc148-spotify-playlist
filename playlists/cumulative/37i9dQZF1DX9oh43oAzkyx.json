@@ -129,6 +129,28 @@
     },
     {
       "album": {
+        "name": "Too Good To Be True",
+        "url": "https://open.spotify.com/album/1jhGoiKDR41Qa2mzlveJFX"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124163,
+      "name": "800 Karats",
+      "url": "https://open.spotify.com/track/7GuyypFtmHPM16P0bWjqdP"
+    },
+    {
+      "album": {
         "name": "9 Bridge",
         "url": "https://open.spotify.com/album/0MKr6ZcGoEnkycOQTpDANu"
       },
@@ -2250,7 +2272,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 205893,
       "name": "Hanging With Wolves",
       "url": "https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in R&B, right now – featuring Zeina زينة.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,662 likes - 74 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,780 likes - 74 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 73 | [IYKYK \(with Muni Long\)](https://open.spotify.com/track/0sWkEz8MtC4ZZri7gXLIyP) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [IYKYK \(with Muni Long\)](https://open.spotify.com/album/2qam4mrKeyqh3xTSVxWz1c) | 3:02 |
 | 74 | [calm & patient](https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [calm & patient](https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg) | 3:33 |
 
-Snapshot ID: `MCxjNjI2NTlhNjVlNDNmZDFkZTM1YTJlMGRkNjQzZDc1NzJlN2U2ZmIx`
+Snapshot ID: `MCw1M2Y4YmZkMTRjZTQzMWIyNDUwZDNmMjRjMGI2OTkxNWJlMTM2Nzcz`

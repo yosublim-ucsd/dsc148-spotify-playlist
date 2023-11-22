@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Will Linley
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,230 likes - 84 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,254 likes - 84 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 61 | [Second to Last](https://open.spotify.com/track/5QqBKaGI2vLb8d33krUWap) | [Ryan Nealon](https://open.spotify.com/artist/6eeu1cHi3LjiKnTxa7eJux) | [Second to Last](https://open.spotify.com/album/0AwxkrLnKxKZHwGb2WZyP2) | 2:50 |
 | 62 | [chuck taylors](https://open.spotify.com/track/4tGb9FSVHRKmUIWsXxf7o6) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [chuck taylors](https://open.spotify.com/album/4liRxZ74LiRx6k8WzAW1pf) | 2:42 |
 | 63 | [Healing in a Parking Lot](https://open.spotify.com/track/19Lq2qImmNCv28WC9aS8UM) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [Healing in a Parking Lot](https://open.spotify.com/album/2RaI4sb4jDituRwlms2qC4) | 2:49 |
-| 64 | [Not The 1975](https://open.spotify.com/track/15sze1xMQqq3nkC2fH3vbh) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Not The 1975 \(Acoustic\)](https://open.spotify.com/album/56a8vWZVQQeEmh1G1SBM10) | 3:18 |
+| 64 | [Not The 1975](https://open.spotify.com/track/2U0Zowgw2tgJXu5K56i4Q4) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [I'm So Good At Being Alone?](https://open.spotify.com/album/3USnuRvSzhPtYAYoz0xgvN) | 3:18 |
 | 65 | [Play With Fire \(feat\. Frances Forever\)](https://open.spotify.com/track/7LyGoh4umDLZgIlLYSzO1t) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [Play With Fire \(feat\. Frances Forever\)](https://open.spotify.com/album/75mqQgjafxqZIwypeugZwK) | 3:56 |
 | 66 | [I'm Not Crazy](https://open.spotify.com/track/3fiMmMyvoBGjfU9BWkTNWM) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [I’m Not Crazy](https://open.spotify.com/album/193T8nOZCynXr5GHbC5UzO) | 2:41 |
 | 67 | [Givin Up](https://open.spotify.com/track/3ioUU8TzRPMsN8C4sFi1fz) | [Saint Blonde](https://open.spotify.com/artist/0nLQlvzkknOFtgjAzBCcqq) | [Givin Up](https://open.spotify.com/album/63RtHHVvzPc2dXa8fdq3f9) | 2:28 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 83 | [Ruin My Life](https://open.spotify.com/track/64239Uo0wTZHwUVipPzBbw) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [The Last Songs I'll Write About You \(for real\)](https://open.spotify.com/album/49uA6OX4uL1St7ZPWJ4kGD) | 3:40 |
 | 84 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
 
-Snapshot ID: `MCw3OTM0NTRlNjgxZjcwODc0NzRiNjk2MzM4ZTVjNDNkZDBhZDAwZDgw`
+Snapshot ID: `MCxjNzJjYWZkYzVhODZlMjUwNTRkOWYxN2EzODk0Y2ViYTc1OGIyNmVm`

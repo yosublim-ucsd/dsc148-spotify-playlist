@@ -14827,6 +14827,32 @@
     },
     {
       "album": {
+        "name": "Otti Vaaraney (From \"80's Buildup\")",
+        "url": "https://open.spotify.com/album/7AmWYvsFVsuQ3ROhlpDPYP"
+      },
+      "artists": [
+        {
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+        },
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Muthamil",
+          "url": "https://open.spotify.com/artist/00qjMsqhac19yBB1Um8BU2"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222507,
+      "name": "Otti Vaaraney (From \"80's Buildup\")",
+      "url": "https://open.spotify.com/track/2zqrnmQ7zRa6bY0R1qiqBX"
+    },
+    {
+      "album": {
         "name": "Jigarthanda DoubleX (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/66wPpXvuJUBh5lrHY0LmhS"
       },

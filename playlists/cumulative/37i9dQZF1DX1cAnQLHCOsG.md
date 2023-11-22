@@ -2,9 +2,9 @@
 
 ### [Navidad Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX1cAnQLHCOsG)
 
-> Pa' las posadas y las fiestas, canciones navideñas con sazón mexa\. Chiquis en portada.
+> Pa' las posadas y las fiestas, canciones navideñas con sazón mexa\. Panter Bélico en portada.
 
-100 songs - 5 hr 28 min
+101 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [El Mejor Regalo](https://open.spotify.com/track/1HlS59V3jDAQx9VWfj1Ztm) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 2:56 | 2022-11-07 | 2023-01-03 |
 | [El Niño del Tambor \- Edición Especial](https://open.spotify.com/track/1C0Uip3Flj5zCvpUeKcLmF) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Navidad Con Angela \(Edición Especial\)](https://open.spotify.com/album/602qxwQA6vuw9d8ukke3XX) | 3:16 | 2022-11-07 |  |
 | [El Pasado \(Feat\. Nabález, Los Nietos De Terán, Grace Guillén, Randy Ortiz, Kevin Apolo\)](https://open.spotify.com/track/2ENAB9Rfh8hmtp6awBInxS) | [Banda La Ejecutiva de Mazatlan Sinaloa](https://open.spotify.com/artist/6BHFzhrhbK5ogpJ8H2z71Y), [Uriel Barrera](https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH), [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Los Nietos De Terán](https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf), [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD), [Randy Ortiz](https://open.spotify.com/artist/6XVpqvozhSd6poOFT5cN0J), [Kevin Apolo](https://open.spotify.com/artist/5nWxW2KyBENRSOPv4SsoiY) | [El Pasado \(Feat\. Nabález, Los Nietos De Terán, Grace Guillén, Randy Ortiz, Kevin Apolo\)](https://open.spotify.com/album/7Kgewkz5TPdZo4NQpD2fvJ) | 2:56 | 2022-12-02 | 2023-11-17 |
-| [El Pastorcito](https://open.spotify.com/track/0HI3KL6QIYOKfGQZuynytW) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0), [El Lobito de Sinaloa](https://open.spotify.com/artist/0fkoN4Y9Kba7rZsoVTf4g7) | [Posada Navideña](https://open.spotify.com/album/6mKSmYtURuiXfM201oKg0A) | 2:50 | 2022-12-23 |  |
+| [El Pastorcito](https://open.spotify.com/track/0HI3KL6QIYOKfGQZuynytW) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0), [El Lobito de Sinaloa](https://open.spotify.com/artist/0fkoN4Y9Kba7rZsoVTf4g7) | [Posada Navideña](https://open.spotify.com/album/6mKSmYtURuiXfM201oKg0A) | 2:50 | 2022-12-23 | 2023-11-22 |
 | [En Esta Navidad](https://open.spotify.com/track/2ZT2xtqP0co0XrHNCrFmtD) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Esta Navidad](https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv) | 4:10 | 2022-11-07 |  |
 | [En Esta Navidad](https://open.spotify.com/track/7ofILMyGT68odr4rGQR1aP) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Navidad Fiesta Universal](https://open.spotify.com/album/5lqwgchnH79RupSj0uRznb) | 3:01 | 2022-11-07 |  |
 | [En Esta Navidad](https://open.spotify.com/track/0esfRArcK1mkQapp2FYMnO) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 4:00 | 2022-11-07 | 2022-12-17 |
@@ -98,6 +98,7 @@
 | [Tristes Navidades](https://open.spotify.com/track/0HloBd2QQWB51uOp4Y52WN) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Tristes Navidades](https://open.spotify.com/album/0eHkoehUngElAFuWvDzKVc) | 3:59 | 2022-12-02 |  |
 | [Un Diciembre Diferente](https://open.spotify.com/track/3mACvGTK4JB371p4fkBtdU) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Un Diciembre Diferente](https://open.spotify.com/album/7q079isg5qDwqZmk6ZvHym) | 3:22 | 2022-11-07 |  |
 | [Un Regalo una Sonrisa](https://open.spotify.com/track/5jFcs0BJTswFvzrEcguPXm) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn), [Pepe G](https://open.spotify.com/artist/753i8pkcJtqc0z82Zdgr9c), [Arturo Jaimes Y Los Cantantes](https://open.spotify.com/artist/4LOxW5D6hIgOAAOh1jedrx) | [Un Regalo una Sonrisa](https://open.spotify.com/album/6QsgZwHoRd37cN9SQbHmTL) | 3:52 | 2022-11-07 | 2023-11-18 |
+| [Un Vaquero En Navidad \- Spotify Singles Holiday](https://open.spotify.com/track/1nOpu7a0wobR8Fa9zUqS2s) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Un Vaquero En Navidad \(Spotify Singles Holiday\)](https://open.spotify.com/album/53N3BvckuE8dwVPMNNNdfB) | 3:53 | 2023-11-21 |  |
 | [Una Noche Especial](https://open.spotify.com/track/7q8GUMNiVTC7UnoZSrJPyg) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Una Noche Especial](https://open.spotify.com/album/5ECYaKAjfXnztQ5wGe3IUc) | 2:49 | 2022-11-07 | 2023-11-09 |
 | [Una Nueva Estrella](https://open.spotify.com/track/3ENLfWZIafaH7a6a5anPGV) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [De Corazon a Corazon en Esta Navidad](https://open.spotify.com/album/1PQk4pKxClYXgUKbSSGJs2) | 2:46 | 2022-11-07 |  |
 | [Unidos En Navidad](https://open.spotify.com/track/120fyL4fR64MjBNqGvj5hv) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Unidos En Navidad](https://open.spotify.com/album/1ThpEAdltcrkn3V68mb1iU) | 3:45 | 2023-11-07 |  |

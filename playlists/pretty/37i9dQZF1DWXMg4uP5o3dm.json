@@ -1,12 +1,12 @@
 {
   "description": "alternative meets electronic Cover: Layto",
-  "num_followers": 468272,
+  "num_followers": 468379,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmU5OWI2ZWViYjNkZTY1ZWVlNDMwMGViYzE3ZGRjZjUwMjBlNjRi",
+  "snapshot_id": "MCwwNzEyMDRiZDdmZjU3NmExMGVmY2M1NDg0YTAxOTIwYWQ4NWE2MGJm",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1055,6 +1055,30 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/2eE9LjZBF3tbwvm802OGPK"
+      },
+      "artists": [
+        {
+          "name": "THE DRIVER ERA",
+          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
+        },
+        {
+          "name": "Ross Lynch",
+          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
+        },
+        {
+          "name": "Rocky",
+          "url": "https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f"
+        }
+      ],
+      "duration_ms": 219745,
+      "name": "Heaven Angel",
+      "url": "https://open.spotify.com/track/7sky3fJ4SA5CiGY905vphj"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Time Isn't Real",
         "url": "https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g"
       },
@@ -1083,30 +1107,6 @@
       "duration_ms": 225038,
       "name": "Your Touch",
       "url": "https://open.spotify.com/track/5dS9u36myZ35YBrhgqAIle"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/2eE9LjZBF3tbwvm802OGPK"
-      },
-      "artists": [
-        {
-          "name": "THE DRIVER ERA",
-          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
-        },
-        {
-          "name": "Ross Lynch",
-          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
-        },
-        {
-          "name": "Rocky",
-          "url": "https://open.spotify.com/artist/542yUd4rGzUEOLd1diV94f"
-        }
-      ],
-      "duration_ms": 219745,
-      "name": "Heaven Angel",
-      "url": "https://open.spotify.com/track/7sky3fJ4SA5CiGY905vphj"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1171,38 +1171,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "deadly ever after",
-        "url": "https://open.spotify.com/album/257JMntLr2vKOG3esYNkdK"
-      },
-      "artists": [
-        {
-          "name": "Ethan Bortnick",
-          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
-        }
-      ],
-      "duration_ms": 196880,
-      "name": "deadly ever after",
-      "url": "https://open.spotify.com/track/49RVuMbXGzYwu7Q8Jec5Yw"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Shape & Form",
-        "url": "https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL"
-      },
-      "artists": [
-        {
-          "name": "Two Feet",
-          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
-        }
-      ],
-      "duration_ms": 176459,
-      "name": "Caviar",
-      "url": "https://open.spotify.com/track/6eQARsls2o0rLd6ee12Z5c"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Crown",
         "url": "https://open.spotify.com/album/1IKHE6yFVUkJR9peiUHwFQ"
       },
@@ -1223,6 +1191,38 @@
       "duration_ms": 171428,
       "name": "Crown",
       "url": "https://open.spotify.com/track/2WvJe9V3Ee7CL8Fn6DwF8i"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Shape & Form",
+        "url": "https://open.spotify.com/album/7q1CcQco23wrR3dpVd87kL"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 176459,
+      "name": "Caviar",
+      "url": "https://open.spotify.com/track/6eQARsls2o0rLd6ee12Z5c"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "deadly ever after",
+        "url": "https://open.spotify.com/album/257JMntLr2vKOG3esYNkdK"
+      },
+      "artists": [
+        {
+          "name": "Ethan Bortnick",
+          "url": "https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY"
+        }
+      ],
+      "duration_ms": 196880,
+      "name": "deadly ever after",
+      "url": "https://open.spotify.com/track/49RVuMbXGzYwu7Q8Jec5Yw"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy"
-      },
-      "artists": [
-        {
-          "name": "Sir Sly",
-          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
-        }
-      ],
-      "duration_ms": 131440,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/5GbK9am1svakX356ltRPcm"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Oh No!!! (from The Suicide Squad)",
         "url": "https://open.spotify.com/album/4gG47LR7Xbk0E9k0zNCHZp"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 213995,
       "name": "Oh No!!! (from The Suicide Squad)",
       "url": "https://open.spotify.com/track/7mYKxi4gqlSweFg2xigZ1w"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/5fAJP8107G7ymzxJwmqkUy"
+      },
+      "artists": [
+        {
+          "name": "Sir Sly",
+          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
+        }
+      ],
+      "duration_ms": 131440,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/5GbK9am1svakX356ltRPcm"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Already Dead",
-        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 139925,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "flowers",
         "url": "https://open.spotify.com/album/6dMHxPB6mErfnAiAXpj4CN"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 161309,
       "name": "flowers",
       "url": "https://open.spotify.com/track/1MXfyXi4OdU0WMhgZM6tLR"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Already Dead",
+        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 139925,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "RUN THRU ME",
-        "url": "https://open.spotify.com/album/2kUz84vIo4FczGj1UZ2pZe"
-      },
-      "artists": [
-        {
-          "name": "MILKBLOOD",
-          "url": "https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME"
-        }
-      ],
-      "duration_ms": 177316,
-      "name": "RUN THRU ME",
-      "url": "https://open.spotify.com/track/4ysb8MTFAVIDloHNX6l4jt"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "VILLAIN",
         "url": "https://open.spotify.com/album/45DgFMUv8WhXWkWjtI03qN"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 213494,
       "name": "We Are Who We Are",
       "url": "https://open.spotify.com/track/5DP2aoo37wHvurr9FeNM1W"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "RUN THRU ME",
+        "url": "https://open.spotify.com/album/2kUz84vIo4FczGj1UZ2pZe"
+      },
+      "artists": [
+        {
+          "name": "MILKBLOOD",
+          "url": "https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME"
+        }
+      ],
+      "duration_ms": 177316,
+      "name": "RUN THRU ME",
+      "url": "https://open.spotify.com/track/4ysb8MTFAVIDloHNX6l4jt"
     },
     {
       "added_at": "2023-08-18 04:00:00",

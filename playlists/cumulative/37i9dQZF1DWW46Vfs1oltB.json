@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover: SINCE)",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover: punchnello)",
   "name": "KrOWN",
   "tracks": [
     {
@@ -3145,6 +3145,28 @@
     },
     {
       "album": {
+        "name": "bury.",
+        "url": "https://open.spotify.com/album/2nSMgMQr9dsqtcOD8jWjCq"
+      },
+      "artists": [
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196960,
+      "name": "bury. (Feat. SOLE)",
+      "url": "https://open.spotify.com/track/5SQjrx1k3ZSs5QISqoxIy9"
+    },
+    {
+      "album": {
         "name": "BUST IT",
         "url": "https://open.spotify.com/album/0T5O8zzBxemSL7BIL6jJAu"
       },
@@ -3906,6 +3928,28 @@
       "duration_ms": 195078,
       "name": "City Life",
       "url": "https://open.spotify.com/track/3yp1VIzV5AjvvzzrgJ18SM"
+    },
+    {
+      "album": {
+        "name": "49",
+        "url": "https://open.spotify.com/album/0oujM5prhH6pLloIjXRGAS"
+      },
+      "artists": [
+        {
+          "name": "Keem Hyo-Eun",
+          "url": "https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p"
+        },
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194825,
+      "name": "city light",
+      "url": "https://open.spotify.com/track/1UCoIhGIA2aeyQk64ho2G7"
     },
     {
       "album": {
@@ -7333,6 +7377,24 @@
     },
     {
       "album": {
+        "name": "w18c",
+        "url": "https://open.spotify.com/album/09iEIfveKKed0mIiEcbBOH"
+      },
+      "artists": [
+        {
+          "name": "Kim Ximya",
+          "url": "https://open.spotify.com/artist/2tB3jPHyyfcxvvor2flc1Q"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177360,
+      "name": "GAWI",
+      "url": "https://open.spotify.com/track/4MCoUDAuGqhE84TtXFYcfI"
+    },
+    {
+      "album": {
         "name": "Street Man Fighter Original Vol.4 (Crew Songs)",
         "url": "https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw"
       },
@@ -8969,7 +9031,7 @@
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 152710,
+      "duration_ms": 152708,
       "name": "HiiPEBEAST",
       "url": "https://open.spotify.com/track/5mzrpo8EIHh5FxKu5eK7l3"
     },
@@ -19992,6 +20054,32 @@
       "duration_ms": 176326,
       "name": "Talk (feat. PULLIK, VVON) (Prod. Will Not Fear)",
       "url": "https://open.spotify.com/track/05onm9I0fdRNSwa9xSzskH"
+    },
+    {
+      "album": {
+        "name": "Monthly AP - November, 2023",
+        "url": "https://open.spotify.com/album/4onBELGXq3mzGqTzUWFImE"
+      },
+      "artists": [
+        {
+          "name": "Swings",
+          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
+        },
+        {
+          "name": "Nochang",
+          "url": "https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO"
+        },
+        {
+          "name": "Don Mills",
+          "url": "https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Talk Money (With. Don Mills) (Prod. Wiz World)",
+      "url": "https://open.spotify.com/track/3eMt7gWvfL9XZzc0WMw3qK"
     },
     {
       "album": {

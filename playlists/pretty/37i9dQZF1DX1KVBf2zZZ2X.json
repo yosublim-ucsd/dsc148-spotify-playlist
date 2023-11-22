@@ -1,12 +1,12 @@
 {
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
-  "num_followers": 19869,
+  "num_followers": 19942,
   "original_name": "Soft Nature Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjM4YjQyYTZmNDBhOTA5ODlhOTNmOGM4MGFjZDFmMWRkZTg0Y2Mx",
+  "snapshot_id": "MCw4YzNjMTJkNTI5YTQwYTViZTY3ZWI4NGMxOTEwYjA1MmUyZWQ3ZTg4",
   "tracks": [
     {
       "added_at": "2023-11-18 11:41:33",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-11-18 11:41:33",
       "album": {
-        "name": "Pentode",
-        "url": "https://open.spotify.com/album/7s4sByi9wlNJ4Dd07s0K9A"
-      },
-      "artists": [
-        {
-          "name": "No Pude Detenerme",
-          "url": "https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN"
-        }
-      ],
-      "duration_ms": 159808,
-      "name": "Pentode",
-      "url": "https://open.spotify.com/track/3R3XZJ6HPrGIuBXdHehp9W"
-    },
-    {
-      "added_at": "2023-11-18 11:41:33",
-      "album": {
         "name": "Ra\u00f0lj\u00f3st",
         "url": "https://open.spotify.com/album/2tjRIDpABNLXdgdCUoN8xa"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 135000,
       "name": "Ra\u00f0lj\u00f3st",
       "url": "https://open.spotify.com/track/5J617lX3koBmpHLZjgRmmB"
+    },
+    {
+      "added_at": "2023-11-18 11:41:33",
+      "album": {
+        "name": "Pentode",
+        "url": "https://open.spotify.com/album/7s4sByi9wlNJ4Dd07s0K9A"
+      },
+      "artists": [
+        {
+          "name": "No Pude Detenerme",
+          "url": "https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN"
+        }
+      ],
+      "duration_ms": 159808,
+      "name": "Pentode",
+      "url": "https://open.spotify.com/track/3R3XZJ6HPrGIuBXdHehp9W"
     },
     {
       "added_at": "2023-11-18 11:41:33",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-11-18 11:41:33",
       "album": {
-        "name": "Seranade Of The Silver Falls",
-        "url": "https://open.spotify.com/album/1M82XkTNPXbviNbSH5ftte"
-      },
-      "artists": [
-        {
-          "name": "No Pude Detenerme",
-          "url": "https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN"
-        }
-      ],
-      "duration_ms": 137250,
-      "name": "Seranade Of The Silver Falls",
-      "url": "https://open.spotify.com/track/2kVUr2KapDstGpx4QzsZx2"
-    },
-    {
-      "added_at": "2023-11-18 11:41:33",
-      "album": {
         "name": "Hygrometer",
         "url": "https://open.spotify.com/album/7g8aQXOYqsDa3IgG0AAO9C"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 146500,
       "name": "Hygrometer",
       "url": "https://open.spotify.com/track/0biBfEiD8KIuUkwWvbtOjz"
+    },
+    {
+      "added_at": "2023-11-18 11:41:33",
+      "album": {
+        "name": "Seranade Of The Silver Falls",
+        "url": "https://open.spotify.com/album/1M82XkTNPXbviNbSH5ftte"
+      },
+      "artists": [
+        {
+          "name": "No Pude Detenerme",
+          "url": "https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN"
+        }
+      ],
+      "duration_ms": 137250,
+      "name": "Seranade Of The Silver Falls",
+      "url": "https://open.spotify.com/track/2kVUr2KapDstGpx4QzsZx2"
     },
     {
       "added_at": "2023-11-18 11:41:33",
@@ -1387,8 +1387,8 @@
     {
       "added_at": "2023-11-18 11:41:33",
       "album": {
-        "name": "Evening meditation",
-        "url": "https://open.spotify.com/album/4lcEdJhSpYvbF5srsqyz9u"
+        "name": "Winter Lake",
+        "url": "https://open.spotify.com/album/7uDFwqkJQ98z06u7ft3Mqb"
       },
       "artists": [
         {
@@ -1396,9 +1396,9 @@
           "url": "https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN"
         }
       ],
-      "duration_ms": 129750,
-      "name": "Evening meditation",
-      "url": "https://open.spotify.com/track/3hk0ICZCX8X0xGvel6hkyj"
+      "duration_ms": 265000,
+      "name": "Winter Lake",
+      "url": "https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6"
     },
     {
       "added_at": "2023-11-18 11:41:33",
@@ -1467,8 +1467,8 @@
     {
       "added_at": "2023-11-18 11:41:33",
       "album": {
-        "name": "Winter Lake",
-        "url": "https://open.spotify.com/album/7uDFwqkJQ98z06u7ft3Mqb"
+        "name": "Evening meditation",
+        "url": "https://open.spotify.com/album/4lcEdJhSpYvbF5srsqyz9u"
       },
       "artists": [
         {
@@ -1476,9 +1476,9 @@
           "url": "https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN"
         }
       ],
-      "duration_ms": 265000,
-      "name": "Winter Lake",
-      "url": "https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6"
+      "duration_ms": 129750,
+      "name": "Evening meditation",
+      "url": "https://open.spotify.com/track/3hk0ICZCX8X0xGvel6hkyj"
     },
     {
       "added_at": "2023-11-18 11:41:33",

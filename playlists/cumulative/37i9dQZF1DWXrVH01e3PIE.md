@@ -4,7 +4,7 @@
 
 > MP El Juvenil & Lucho SSJ en la casa del Trap Argentino.
 
-251 songs - 12 hr 5 min
+252 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Tumbando el Club \(feat\. C.R.O, Obiewanshot, YSY A, Cazzu, Khea, Lucho SSJ, Coqeéin Montana, Marcianos Crew & Duki\) \- Remix](https://open.spotify.com/track/0OWcpVA83HI8Pb5DybDuoX) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Coqeéin Montana](https://open.spotify.com/artist/4StQh17zinsbJ4r5ekmPj7), [Marcianos Crew](https://open.spotify.com/artist/0Hkx0YcHHxDRRbH9WsSW0I), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Tumbando el Club \(feat\. C.R.O, Obiewanshot, YSY A, Cazzu, Khea, Lucho SSJ, Coqeéin Montana, Marcianos Crew & Duki\) \[Remix\]](https://open.spotify.com/album/36ehOw44KSj8riww8Eamd8) | 7:36 | 2022-01-21 |  |
 | [Turrita](https://open.spotify.com/track/0zZX1KC6rGJfXMh4brGv5q) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Turrita](https://open.spotify.com/album/44liNl52XZzjDDztOfuFoB) | 2:52 | 2023-09-15 |  |
 | [Tú](https://open.spotify.com/track/2bweGiZkARokGehStQeENF) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ), [Lisan Beat](https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [BAXIAN](https://open.spotify.com/artist/6tvnVXgayn0Qd29pt0633X) | [Tú](https://open.spotify.com/album/4IEQwedQvsAJn05mWfuQ4I) | 3:20 | 2022-01-21 | 2023-08-05 |
+| [Uh na na na](https://open.spotify.com/track/3SNH6o5OJfROtX05zXNQnH) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Awesome Pierre](https://open.spotify.com/artist/7FWtti4FgQOvxvoB2Ycmmh) | [Uh na na na](https://open.spotify.com/album/2hwP9WeoDxH00BciEy4jpH) | 3:04 | 2023-11-21 |  |
 | [Ultimo Tren a Ameri](https://open.spotify.com/track/1UuWDJ8wmptULOs6RbFrBo) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Ameri](https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU) | 1:51 | 2023-06-23 | 2023-07-19 |
 | [Ultimo Tren a Ameri](https://open.spotify.com/track/2P25SKGU0f3OdZOcxFmZ0x) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Ameri](https://open.spotify.com/album/26nUVuonXEdbJTo9PeBYoR) | 1:51 | 2023-09-22 |  |
 | [Ultimo Tren a Ameri](https://open.spotify.com/track/6AgGMIxxvzzpqvRHRfrRMm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Ameri](https://open.spotify.com/album/02QhfNE9CheRJi0gi4hZIO) | 1:51 | 2023-07-14 | 2023-09-27 |

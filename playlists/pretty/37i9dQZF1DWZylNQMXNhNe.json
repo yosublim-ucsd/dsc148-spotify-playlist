@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Lia Clark",
-  "num_followers": 226162,
+  "num_followers": 226194,
   "original_name": "AUGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjAwYWFjYWFmNWNkYTgzZmY5OWFkY2Y4YmE3ZWVhOTA4MGQ1MGZl",
+  "snapshot_id": "MCxhZWQzYzU5NGUxNTcyYzg3ZjYyODZjODI4ODI3NmNmOTk2MWJmMTA3",
   "tracks": [
     {
       "added_at": "2023-11-03 06:24:12",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-11-03 06:24:12",
       "album": {
+        "name": "Fim do Mundo",
+        "url": "https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 135001,
+      "name": "LAMBO",
+      "url": "https://open.spotify.com/track/5IVndtDa35XdYbAoDBPtLw"
+    },
+    {
+      "added_at": "2023-11-03 06:24:12",
+      "album": {
         "name": "f:)da-se",
         "url": "https://open.spotify.com/album/3vMYpDQKiuAxtHzj6R5QSY"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 163569,
       "name": "f:)da-se",
       "url": "https://open.spotify.com/track/2UBAm99YG2MubgLymHqXOl"
-    },
-    {
-      "added_at": "2023-11-03 06:24:12",
-      "album": {
-        "name": "Fim do Mundo",
-        "url": "https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 135001,
-      "name": "LAMBO",
-      "url": "https://open.spotify.com/track/5IVndtDa35XdYbAoDBPtLw"
     },
     {
       "added_at": "2023-11-03 06:24:12",

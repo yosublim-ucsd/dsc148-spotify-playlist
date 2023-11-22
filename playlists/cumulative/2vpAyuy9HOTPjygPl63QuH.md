@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno music, updated every friday 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-1,535 songs - 3 day 15 hr 29 min
+1,536 songs - 3 day 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -694,6 +694,7 @@
 | [KEEP ME BUSY](https://open.spotify.com/track/0a5hwkRaXF7PSa8nVxqKf8) | [Fab Massimo](https://open.spotify.com/artist/6EDKZ3fyIzcualNVjPayM4), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t), [ALXJ](https://open.spotify.com/artist/4HKMNMB8TawiVHIO8m51VK) | [KEEP ME BUSY](https://open.spotify.com/album/55Rwm9mbcDiGuJ0wQkxoZv) | 3:25 | 2023-10-27 | 2023-11-04 |
 | [Keep My Cool](https://open.spotify.com/track/6m6ucQX9ePhtXr2jUsRkuH) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [Keep My Cool](https://open.spotify.com/album/0G37rSyVyYR3GZgObLeYxK) | 2:52 | 2023-06-30 | 2023-07-16 |
 | [Keep On](https://open.spotify.com/track/1go1aSw2WQieTVMUgg3Fax) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR) | [3 point 0](https://open.spotify.com/album/5VdT2qpUfGAAwcqfQ3145u) | 3:30 | 2023-11-10 | 2023-11-18 |
+| [Keep On Dancing](https://open.spotify.com/track/3iQo5xKxX0KUy594uytQ0e) | [KOCHAM](https://open.spotify.com/artist/07gJZgbJwBIKN2DmCn7Dqu) | [Keep On Dancing](https://open.spotify.com/album/7eJmtEYNcJjDZjfKvN1g62) | 3:05 | 2023-11-21 |  |
 | [Keep On Makin' Me Hot](https://open.spotify.com/track/3EnWQighBgTAiGn5Dme7bD) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Keep On Makin' Me Hot](https://open.spotify.com/album/4j425Buzfs218cth9xgDTl) | 2:48 | 2023-03-10 | 2023-03-18 |
 | [Keep Up](https://open.spotify.com/track/0H4ldHOvXdVJXyxHZZC3hm) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Keep Up](https://open.spotify.com/album/2wstSFU3VMTXdqTIuXARw6) | 2:42 | 2023-01-13 | 2023-01-22 |
 | [Kerching](https://open.spotify.com/track/3voNCdMNCd1M2Yh1Y7cm4Y) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [Kerching](https://open.spotify.com/album/2EbLWvMUt7vknp9BZUXj2j) | 2:58 | 2022-07-29 | 2022-08-06 |
@@ -1246,7 +1247,7 @@
 | [Susanna](https://open.spotify.com/track/2OHLvh6BIA1yTKQLA4kAbF) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm) | [Susanna](https://open.spotify.com/album/3vAiDmx1dpeDcqT4ebU8CU) | 2:34 | 2022-09-02 | 2022-09-10 |
 | [Swagga](https://open.spotify.com/track/3zKkcyRXcDiKbYQh0srMBe) | [Shdws](https://open.spotify.com/artist/68yqVCDFykVIUWzVglAcEg), [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [Spellbound](https://open.spotify.com/album/0cX2g0xSiSLrMBmqWyUmUE) | 4:27 | 2022-04-29 | 2022-05-14 |
 | [Sweat](https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Sweat](https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs) | 3:20 | 2023-04-21 | 2023-04-29 |
-| [System](https://open.spotify.com/track/1Xio5cQPFkGh1RZOBlOPVO) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [System](https://open.spotify.com/album/10sdLjtJkKLiFE7Ohmm3Oh) | 5:20 | 2023-11-17 |  |
+| [System](https://open.spotify.com/track/1Xio5cQPFkGh1RZOBlOPVO) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [System EP](https://open.spotify.com/album/10sdLjtJkKLiFE7Ohmm3Oh) | 5:20 | 2023-11-17 |  |
 | [Systems](https://open.spotify.com/track/0YQNYbRsnyQRidGJVqhegH) | [Kohmi](https://open.spotify.com/artist/6NhJ3byRXx7HJzpryxi8w7) | [Systems](https://open.spotify.com/album/0EEP26OCAWe9dOio2dEdOp) | 2:47 | 2022-09-09 | 2022-09-18 |
 | [T.F.C.](https://open.spotify.com/track/4kDuFLglikZPQXUMfmWj1F) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [T.F.C.](https://open.spotify.com/album/0W8dOcmOLqtPv79RzaUWIT) | 3:07 | 2023-03-17 | 2023-03-25 |
 | [T.Y.S.D\. \(Throw Your Soul Down\) \- HoneyLuv Remix](https://open.spotify.com/track/1PVROc2q2huRGb1sd0FJWw) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi), [Sharlene Hector](https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [T.Y.S.D\. \(Throw Your Soul Down\) \[Remix EP\]](https://open.spotify.com/album/3pogOmNSH3PIO1bNbz7d28) | 3:15 | 2022-11-11 | 2022-11-19 |

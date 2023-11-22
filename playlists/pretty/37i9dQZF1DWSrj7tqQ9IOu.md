@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Adèle Castillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,409 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,441 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Cinéma](https://open.spotify.com/track/6KXJymOSI776EMEgY96JbP) | [Elephanz](https://open.spotify.com/artist/2CD8tl357w6zYA3XYuOJPO), [Zahia Dehar](https://open.spotify.com/artist/5b6Y4VfGSc8rw3XA7PZPDh) | [Rien De Personnel](https://open.spotify.com/album/5kO9QAxCNOKUwSQuvi4KAO) | 3:09 |
 | 50 | [HOW STRANGE?](https://open.spotify.com/track/4IQw9pS2PfMsYYeTkZ5CGy) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [HOW STRANGE?](https://open.spotify.com/album/29KjlAdATsp7XF6Pp08fXa) | 2:57 |
 
-Snapshot ID: `MCw2NmUyNDAwZTY2YWE0NTIzZDRlMjE3NmFjYTQ3NmZkNGE2MjQxOTBh`
+Snapshot ID: `MCxkOTM5N2U5NGE3NjIwOWY0NjI3YmM0YmM0MjgxMGExNWQ0ZjRkNTA3`

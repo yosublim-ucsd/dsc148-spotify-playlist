@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 279931,
+  "num_followers": 280024,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODEzYzQzMWNhNDkwYzE0MDMzMWY2Y2IwZTA4NmI0ZDE1Y2UzNDFj",
+  "snapshot_id": "MCxkYjU3MTdiNTM3ZTU1YTIyOWY0MjdmYjJiNGE0NWQyZDZlNjhiOGM3",
   "tracks": [
     {
       "added_at": "2023-02-24 00:00:00",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Ultra Mono",
-        "url": "https://open.spotify.com/album/20O6GKv8VfyvL4Gy0TAJs7"
+        "name": "Sweet Princess EP",
+        "url": "https://open.spotify.com/album/0KRCyLdLWJioBvbXi4ZdRR"
       },
       "artists": [
         {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
         }
       ],
-      "duration_ms": 318694,
-      "name": "A Hymn",
-      "url": "https://open.spotify.com/track/0atNheZuMnQDtTnJOzd96N"
+      "duration_ms": 230121,
+      "name": "Magic of Meghan",
+      "url": "https://open.spotify.com/track/0L1yjgPN1zIGLYP6TjVgHR"
     },
     {
       "added_at": "2023-03-17 13:08:31",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "Ultra Mono",
+        "url": "https://open.spotify.com/album/20O6GKv8VfyvL4Gy0TAJs7"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 318694,
+      "name": "A Hymn",
+      "url": "https://open.spotify.com/track/0atNheZuMnQDtTnJOzd96N"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "Orc",
         "url": "https://open.spotify.com/album/6UqkJtjad0HIClK1ndqCsd"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 177120,
       "name": "Nite Expo",
       "url": "https://open.spotify.com/track/4MMUZtRnaz25sXteRs2mXl"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Sweet Princess EP",
-        "url": "https://open.spotify.com/album/0KRCyLdLWJioBvbXi4ZdRR"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 230121,
-      "name": "Magic of Meghan",
-      "url": "https://open.spotify.com/track/0L1yjgPN1zIGLYP6TjVgHR"
     },
     {
       "added_at": "2023-07-28 14:24:56",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Bright Green Field",
-        "url": "https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt"
-      },
-      "artists": [
-        {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
-        }
-      ],
-      "duration_ms": 483800,
-      "name": "Pamphlets",
-      "url": "https://open.spotify.com/track/3tOKVaYAYRMr3aaNqLxJaM"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "'Til The Stream Runs Dry",
         "url": "https://open.spotify.com/album/7IM36wFeDv1bhzc1soETfO"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 204354,
       "name": "Best Behavior",
       "url": "https://open.spotify.com/track/0ZJHhuXm33Qm9gOxRCQzzk"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Bright Green Field",
+        "url": "https://open.spotify.com/album/219LGvgmAhhwlfc3unDhUt"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "duration_ms": 483800,
+      "name": "Pamphlets",
+      "url": "https://open.spotify.com/track/3tOKVaYAYRMr3aaNqLxJaM"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "It's a Myth",
-        "url": "https://open.spotify.com/album/4RgV6eObleITuJIV0cfF6k"
-      },
-      "artists": [
-        {
-          "name": "Sneaks",
-          "url": "https://open.spotify.com/artist/40iUcsx6LWJ0DEPryPmU30"
-        }
-      ],
-      "duration_ms": 197613,
-      "name": "Look Like That",
-      "url": "https://open.spotify.com/track/7aW0CpzMvI4MjptzitR24G"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Debonair",
         "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 265879,
       "name": "Wharf (ii)",
       "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "It's a Myth",
+        "url": "https://open.spotify.com/album/4RgV6eObleITuJIV0cfF6k"
+      },
+      "artists": [
+        {
+          "name": "Sneaks",
+          "url": "https://open.spotify.com/artist/40iUcsx6LWJ0DEPryPmU30"
+        }
+      ],
+      "duration_ms": 197613,
+      "name": "Look Like That",
+      "url": "https://open.spotify.com/track/7aW0CpzMvI4MjptzitR24G"
     },
     {
       "added_at": "2023-02-24 00:00:00",

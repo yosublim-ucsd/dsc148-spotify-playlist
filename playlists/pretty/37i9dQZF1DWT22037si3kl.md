@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do trap\. Foto: Igão
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,057 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,137 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [TAMBOR](https://open.spotify.com/track/5I3fsOI8IJjOkmgqCyZVfY) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [Diego Kairo](https://open.spotify.com/artist/6D0yjB3AE6xTi137BEQkWb), [L300](https://open.spotify.com/artist/0PVUOzL3xWKnD1lMEE3tPw), [Slain Rúbia](https://open.spotify.com/artist/0PWSIUUy2RF5TYkx6JXoit), [FELINA](https://open.spotify.com/artist/3RwgTYuexocU1QLpiOhhNO), [RUI'f](https://open.spotify.com/artist/7eAOkFsB01T4iRqfC4cjH9) | [ISSO Ñ É GPT](https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI) | 6:03 |
 | 50 | [Balenciaga](https://open.spotify.com/track/6rvi9icLMuSMWkdgcUwhVh) | [LB Prince](https://open.spotify.com/artist/3KZYhP8cZRLQKGy3m2biiK), [HATZ](https://open.spotify.com/artist/5xTgBjp7sMoQ7Wrgm7ETf5) | [Balenciaga](https://open.spotify.com/album/1N3TXHhLbMAHd5bzOExNfk) | 2:21 |
 
-Snapshot ID: `MCxjYWFlZmI4MzdlZmRlMWQyODBkNGQ2YTk5MzY0NzI2MjY0M2YwN2U2`
+Snapshot ID: `MCwzMzI5MTljMTI1YzUxNTkxNzc5MmZkZGUwY2QzYmY2NDRhMGRiNDBj`

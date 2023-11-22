@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,239 songs - 9 day 20 hr 22 min
+6,240 songs - 9 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1162,7 +1162,7 @@
 | [constant](https://open.spotify.com/track/0zCyInoIsH7dw4T63cJ0V2) | [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi) | [weak](https://open.spotify.com/album/2MBN7qRm9y1nFtgQN99tHA) | 1:08 | 2019-09-10 | 2020-08-25 |
 | [Constellations \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4UVPZVegkvVUEytaViWdym) | [Sam Barsh](https://open.spotify.com/artist/4vVYohuzsd1OIOpYw2FuER), [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Spotify Singles \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/6JxnS1pZVWSZW4qtr2gfEu) | 1:55 | 2019-05-26\* | 2020-06-07 |
 | [Contemplation](https://open.spotify.com/track/2Im64cB8iNl0QcjV2hoxbG) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Contemplation](https://open.spotify.com/album/3lzsCmIPP3ZUZ6a9rzacrd) | 2:13 | 2022-09-23 | 2022-12-16 |
-| [Continuo](https://open.spotify.com/track/6p3iLjuyLGL2hoF215WROz) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [Ease Vol\. 2](https://open.spotify.com/album/2TE4QBm33NpQApM88hN06M) | 2:47 | 2023-11-17 |  |
+| [Continuo](https://open.spotify.com/track/6p3iLjuyLGL2hoF215WROz) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [Ease Vol\. 2](https://open.spotify.com/album/2TE4QBm33NpQApM88hN06M) | 2:47 | 2023-11-17 | 2023-11-22 |
 | [controlla](https://open.spotify.com/track/7pAwFD2HMqGxTnDq8ujxMZ) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening ep](https://open.spotify.com/album/6soiPlH2jKkRLW6a1aSwlm) | 1:48 | 2019-06-07 | 2020-05-03 |
 | [Conversations](https://open.spotify.com/track/3Oa2DOMaRBL1O8DrI2JrxH) | [Lou Filou](https://open.spotify.com/artist/6CUArmqtKpviCeaJS2QUzH), [evans](https://open.spotify.com/artist/3Dm30k7Otucd2Yfq7V1mQ6) | [Conversations](https://open.spotify.com/album/5cAVzGtoJsdrRDXT3Yvi8c) | 3:44 | 2022-02-14 | 2022-07-22 |
 | [cookie dough](https://open.spotify.com/track/1XElbAIXis1OYIRREuBRoN) | [xOHARA](https://open.spotify.com/artist/2Sebo5izi3H67nS858uHoK) | [cookie dough](https://open.spotify.com/album/3ONGNrSIM5k6U5m1OBdRHM) | 2:01 | 2022-09-30 | 2023-01-20 |
@@ -1769,6 +1769,7 @@
 | [Far Away](https://open.spotify.com/track/1lyjTYNyeHiUdEfthHCT1R) | [Swørn](https://open.spotify.com/artist/4iyFpbbfjNvfLQPx82OrYc) | [Escapade](https://open.spotify.com/album/1HaMd10QbuXfZhn2MWEJRt) | 1:46 | 2019-05-27 | 2020-06-12 |
 | [Far East](https://open.spotify.com/track/6PQdebTH2xQn4mURkNP4IU) | [Darren Spice](https://open.spotify.com/artist/6DR7b1QU9VjGiJlBEAtkvT) | [Far East](https://open.spotify.com/album/0FTsRS7Jn5xpr3evrJpPsV) | 2:04 | 2023-10-13 |  |
 | [far far away](https://open.spotify.com/track/02lD05wrDhtJVJkQELhwkt) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [aurora](https://open.spotify.com/album/6ImO1VVSZr0cpYuhtBbXvp) | 2:52 | 2023-03-24 | 2023-05-19 |
+| [Fare Thee Well O Noble Timepiece](https://open.spotify.com/track/3sKKyt8RryZTi8HZD0Qqu4) | [Domo 759](https://open.spotify.com/artist/0PWZbiy5ZX5uSWrPPVRhYz) | [Fare Thee Well O Noble Timepiece](https://open.spotify.com/album/4csKfMmsQHpSCZYYFLtkcw) | 3:15 | 2023-11-17 |  |
 | [Farewell Fishing](https://open.spotify.com/track/3LhFhDwxUIdHj27xAyHS3x) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Natur](https://open.spotify.com/album/598sSSZlwCJiS8e2PemAiu) | 2:15 | 2022-06-17 | 2022-10-28 |
 | [Farewell to Shaman](https://open.spotify.com/track/0nevZ2Ezq589BnYF5YXdjq) | [Spectateur](https://open.spotify.com/artist/1AZzFXI8C6JD8nMdcSLmgW), [La Cantina](https://open.spotify.com/artist/01iBYoUzhKZLQAGRDF0L9U) | [Farewell to Shaman](https://open.spotify.com/album/3pNrtCNDNq8MYTp0ZI05MX) | 2:08 | 2021-07-11 | 2022-03-12 |
 | [Faro](https://open.spotify.com/track/7j7t4nDQdRU0s1xbimTtYP) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Faro](https://open.spotify.com/album/1eTY3x4tKJumY2Yzua4HEY) | 2:57 | 2022-11-25 | 2023-01-20 |

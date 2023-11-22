@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 217160,
       "name": "A Hundred Lives",
       "url": "https://open.spotify.com/track/2vAmx7XDSa8k6FMDexIkye"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 222889,
       "name": "Aselestine - Bunker Session",
       "url": "https://open.spotify.com/track/5APOkC9qu8igSKMFnPWuV3"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 231684,
       "name": "Be More",
       "url": "https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53"
@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 204000,
       "name": "Books of Fantasy",
       "url": "https://open.spotify.com/track/6sYTGXJE67xL22ZtkXxV1H"
@@ -1434,6 +1434,24 @@
       "duration_ms": 190213,
       "name": "Centre of The Universe",
       "url": "https://open.spotify.com/track/2GUhQOTvUulHaiIXUChVVu"
+    },
+    {
+      "album": {
+        "name": "Identity",
+        "url": "https://open.spotify.com/album/3Qp3rbTXFIzd4MNWjlRJXh"
+      },
+      "artists": [
+        {
+          "name": "UEBO",
+          "url": "https://open.spotify.com/artist/4ZdEBA9PcwlKaC0hBZ2hhQ"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223333,
+      "name": "Chai Latte",
+      "url": "https://open.spotify.com/track/2F7lKDfEJzfK6tPGMEwz4r"
     },
     {
       "album": {
@@ -2894,7 +2912,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 186653,
       "name": "Headlock - Demo",
       "url": "https://open.spotify.com/track/2dnPEMYTJQ81ZHeIlNrhGj"
@@ -3708,7 +3726,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 211149,
       "name": "ILYSB",
       "url": "https://open.spotify.com/track/2btKtacOXuMtC9WjcNRvAA"
@@ -4300,7 +4318,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-03",
+      "date_removed": null,
       "duration_ms": 250547,
       "name": "Love & War in Your Twenties",
       "url": "https://open.spotify.com/track/3m9al81IVXLFCF4vG8Nqjw"
@@ -4394,7 +4412,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 208466,
       "name": "Lucy In The Sky With Diamonds - Remastered 2009",
       "url": "https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR"
@@ -4564,7 +4582,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 202433,
       "name": "money body",
       "url": "https://open.spotify.com/track/5IU0tq0QipMw6lUrQlRQtV"
@@ -5030,7 +5048,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 121695,
       "name": "Once More",
       "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
@@ -6218,7 +6236,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 174560,
       "name": "Thank God",
       "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
@@ -8128,7 +8146,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 172653,
       "name": "\u5fae\u7b11\u307f",
       "url": "https://open.spotify.com/track/1hLTIAmQa2era3fKz1V17b"
@@ -8496,6 +8514,24 @@
       "duration_ms": 220236,
       "name": "\u982c\u6756",
       "url": "https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u306f\u30d1\u30fc\u30de\u30cd\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/32tomxdqMRKajeCDIi5CEv"
+      },
+      "artists": [
+        {
+          "name": "\u5009\u54c1\u7fd4",
+          "url": "https://open.spotify.com/artist/2Aa3LycVvMqqNSBzmTrPOl"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281728,
+      "name": "\u98a8\u306f\u30d1\u30fc\u30de\u30cd\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/3aMJ5rSErhY4xcrkofdUG2"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Laufey
 
-489 songs - 1 day 1 hr 44 min
+490 songs - 1 day 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [Stretchy Pants](https://open.spotify.com/track/4nEo5fRitrMAf8VBfRBAWQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Stretchy Pants](https://open.spotify.com/album/6yMUbq6Ij65DrdAApMDgvD) | 3:07 | 2021-12-24 | 2022-09-28 |
 | [Sunshine for Christmas](https://open.spotify.com/track/1XkTm4mzmhLSv0lLCpZSy4) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [Sunshine for Christmas](https://open.spotify.com/album/0JOoOiIcMDVzYxlmJ1HIyQ) | 5:10 | 2022-11-18 | 2023-10-04 |
 | [Thank You Note](https://open.spotify.com/track/5EHoaIl9RURnb8nhyf26ug) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Thank You Note](https://open.spotify.com/album/3rRIBVqBytXrBgtfsNpBe9) | 2:36 | 2021-12-24 | 2022-11-12 |
+| [the b\*tch who stole christmas](https://open.spotify.com/track/16diS2hN9fIZiyjdtjJjPE) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [the b\*tch who stole christmas](https://open.spotify.com/album/60bxITz36xeSamTsQ0Kn8d) | 2:22 | 2023-11-21 |  |
 | [The Bells Are Ringing \- Acoustic](https://open.spotify.com/track/2bCs42HuMNTnbH4JCJ7tDo) | [Classified](https://open.spotify.com/artist/7t6GsqGAwrj1kwYbvNX0hN) | [The Bells Are Ringing \(Acoustic\)](https://open.spotify.com/album/0d4tQ6L8nuQiYMxtkM8iOI) | 3:05 | 2021-12-24 | 2022-07-29 |
 | [The Chipmunk Song \(Christmas Don't Be Late\)](https://open.spotify.com/track/1x27t6mqX9PYYEB5BdykVW) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [The Chipmunk Song \(Christmas Don't Be Late\)](https://open.spotify.com/album/4MXLtuKJuY9HnAjnJuyz7S) | 2:27 | 2021-12-24 | 2022-11-12 |
 | [The Christmas Song](https://open.spotify.com/track/6V3TFkg3aKRSu109j3yxV2) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [The Christmas Song](https://open.spotify.com/album/5afqwKiu72YDroqLPLTEA5) | 1:58 | 2023-11-17 |  |

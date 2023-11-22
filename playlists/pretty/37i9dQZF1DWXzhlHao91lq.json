@@ -1,12 +1,12 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 70835,
+  "num_followers": 70860,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTM4MzY5NzMzN2E5NDM3NzJkODI0NTliY2UxZGE3M2MxNDFiZDhj",
+  "snapshot_id": "MCw2ZWFlZGZmN2U4MTIxNzE5ZDJmMzA3NWZlZDM4ODU4MGY3ODVjNWU0",
   "tracks": [
     {
       "added_at": "2023-11-20 02:16:12",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-11-20 02:16:12",
       "album": {
-        "name": "Revamp: The Songs Of Elton John & Bernie Taupin",
-        "url": "https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 198777,
-      "name": "Candle In The Wind - 2018 Version",
-      "url": "https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L"
-    },
-    {
-      "added_at": "2023-11-20 02:16:12",
-      "album": {
         "name": "Good Riddance (Deluxe)",
         "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 259592,
       "name": "Amelie",
       "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
+    },
+    {
+      "added_at": "2023-11-20 02:16:12",
+      "album": {
+        "name": "Revamp: The Songs Of Elton John & Bernie Taupin",
+        "url": "https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 198777,
+      "name": "Candle In The Wind - 2018 Version",
+      "url": "https://open.spotify.com/track/73TXMz1i41sGfOuDg8gH4L"
     },
     {
       "added_at": "2023-11-20 02:16:12",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-11-20 02:16:12",
       "album": {
-        "name": "\u2014star.",
-        "url": "https://open.spotify.com/album/58b3PoxwilkN0qpqKvKbdP"
-      },
-      "artists": [
-        {
-          "name": "Nadin Amizah",
-          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
-        }
-      ],
-      "duration_ms": 153885,
-      "name": "\u2014star.",
-      "url": "https://open.spotify.com/track/7Gju1wbqklcglziqjPIDVM"
-    },
-    {
-      "added_at": "2023-11-20 02:16:12",
-      "album": {
         "name": "our generation",
         "url": "https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 237780,
       "name": "Soul Mate",
       "url": "https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO"
+    },
+    {
+      "added_at": "2023-11-20 02:16:12",
+      "album": {
+        "name": "\u2014star.",
+        "url": "https://open.spotify.com/album/58b3PoxwilkN0qpqKvKbdP"
+      },
+      "artists": [
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "duration_ms": 153885,
+      "name": "\u2014star.",
+      "url": "https://open.spotify.com/track/7Gju1wbqklcglziqjPIDVM"
     },
     {
       "added_at": "2023-11-20 02:16:12",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-11-20 02:16:12",
       "album": {
-        "name": "Grow As We Go (feat. Sara Bareilles)",
-        "url": "https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M"
-      },
-      "artists": [
-        {
-          "name": "Ben Platt",
-          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
-        },
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 249937,
-      "name": "Grow as We Go (feat. Sara Bareilles)",
-      "url": "https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi"
-    },
-    {
-      "added_at": "2023-11-20 02:16:12",
-      "album": {
         "name": "Renee's Song",
         "url": "https://open.spotify.com/album/0WuZ8xp4MRsvNfYeN0M33G"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 184694,
       "name": "the broken hearts club",
       "url": "https://open.spotify.com/track/3Uu6pcfL9xsdfsKRx3DXRf"
+    },
+    {
+      "added_at": "2023-11-20 02:16:12",
+      "album": {
+        "name": "Grow As We Go (feat. Sara Bareilles)",
+        "url": "https://open.spotify.com/album/3BEJQtuowUpkfO9ducuC0M"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        },
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 249937,
+      "name": "Grow as We Go (feat. Sara Bareilles)",
+      "url": "https://open.spotify.com/track/1xscBC6UV21t0sMCgu0mLi"
     },
     {
       "added_at": "2023-11-20 02:16:12",

@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras?si=GkFCponvT7aad8_K8wHWoQ\">MashBeatz</a>",
-  "num_followers": 70249,
+  "num_followers": 70311,
   "original_name": "Mzansi Raps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTUxNDU1Mjk1NThiMmRhMDEyNmZhMjI0NjI3YzFiODdjOGI4ZmU3",
+  "snapshot_id": "MCxjNTIwNzYxZmZhNjM3OGRhNjNlMmQ4NDU2NmY1MmI3YzNlOTc5MmY4",
   "tracks": [
     {
       "added_at": "2023-11-09 23:00:00",
@@ -41,26 +41,6 @@
       "url": "https://open.spotify.com/track/3HZ6ViRqdNvm5crhn16h8C"
     },
     {
-      "added_at": "2023-11-10 06:53:46",
-      "album": {
-        "name": "ARE YOU ALRiGHT?",
-        "url": "https://open.spotify.com/album/6hICsM6NMQHck05IjUGsWZ"
-      },
-      "artists": [
-        {
-          "name": "Shane Eagle",
-          "url": "https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV"
-        },
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        }
-      ],
-      "duration_ms": 280888,
-      "name": "ARE YOU ALRiGHT?",
-      "url": "https://open.spotify.com/track/6NvzVmhpOTyITRRdt9ibmF"
-    },
-    {
       "added_at": "2023-11-09 23:00:00",
       "album": {
         "name": "NOTE TO SELF",
@@ -83,6 +63,22 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
+        "name": "Adawise",
+        "url": "https://open.spotify.com/album/7wLpoVIC5jJPCiF1U74VB7"
+      },
+      "artists": [
+        {
+          "name": "ZULO",
+          "url": "https://open.spotify.com/artist/5nWYsE0N983XcI3qsU55bp"
+        }
+      ],
+      "duration_ms": 202750,
+      "name": "Adawise",
+      "url": "https://open.spotify.com/track/2u9E7r2kQCQxCU0x7SqJXt"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
         "name": "P2 : THE BIG HEARTED BAD GUY",
         "url": "https://open.spotify.com/album/5VRS9HeUxDmGRnmkfHPmp1"
       },
@@ -95,6 +91,38 @@
       "duration_ms": 115575,
       "name": "BRUCE WAYNE",
       "url": "https://open.spotify.com/track/1eIk9KQ1zkDB4K3QO4cmlQ"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "VATELA",
+        "url": "https://open.spotify.com/album/0IkItZca2QJEMgX2FAXxoe"
+      },
+      "artists": [
+        {
+          "name": "Espiquet",
+          "url": "https://open.spotify.com/artist/7JnVA6sPhYeTpLoWd5DvTz"
+        },
+        {
+          "name": "TOSS",
+          "url": "https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        },
+        {
+          "name": "DJ Kaymoworld",
+          "url": "https://open.spotify.com/artist/7y4x271U84CHr0SwMZug6y"
+        },
+        {
+          "name": "Mondo Dusk",
+          "url": "https://open.spotify.com/artist/4FjBDxb0p9Qol1Kkrxx01e"
+        }
+      ],
+      "duration_ms": 194689,
+      "name": "VATELA",
+      "url": "https://open.spotify.com/track/7wUN20FK96Fu3nbvbUPVKl"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -115,6 +143,58 @@
       "duration_ms": 208539,
       "name": "Hennessy",
       "url": "https://open.spotify.com/track/6kIS7rImcCJECQod84TqOr"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "PEOPLE FORGET TO BE PEOPLE",
+        "url": "https://open.spotify.com/album/7Ahv4tX3pcBtuPP6kH6A6V"
+      },
+      "artists": [
+        {
+          "name": "Wordz",
+          "url": "https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd"
+        },
+        {
+          "name": "MAGLERA DOE BOY",
+          "url": "https://open.spotify.com/artist/50gnXpyd5RQPPbyilQLVKB"
+        },
+        {
+          "name": "MOCHEN",
+          "url": "https://open.spotify.com/artist/2W342X5Hkpzt1JdUQhdZPo"
+        }
+      ],
+      "duration_ms": 246857,
+      "name": "BARKER HAINES",
+      "url": "https://open.spotify.com/track/3VsKpmCGU3yLqn4SSnzSzt"
+    },
+    {
+      "added_at": "2023-11-21 09:25:55",
+      "album": {
+        "name": "SAMO",
+        "url": "https://open.spotify.com/album/7bgvFvfqC91K9IaMcWGYuB"
+      },
+      "artists": [
+        {
+          "name": "ZRi.",
+          "url": "https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N"
+        },
+        {
+          "name": "Michael Tuohy",
+          "url": "https://open.spotify.com/artist/5FeEPMjFuqvtxQzU2hl6Y5"
+        },
+        {
+          "name": "Tembipowers",
+          "url": "https://open.spotify.com/artist/4SQ0j97pz30NcGfWAUmTMg"
+        },
+        {
+          "name": "Steveisfrench",
+          "url": "https://open.spotify.com/artist/7hp0SnWWlw5OsqNbDQvmbB"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "THAT'S ON GOD",
+      "url": "https://open.spotify.com/track/0Csh3OemUxK2K8YVuKtdmg"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -157,52 +237,24 @@
       "url": "https://open.spotify.com/track/70CWmghvBEJteWKBc8ZWPd"
     },
     {
-      "added_at": "2023-11-09 23:00:00",
+      "added_at": "2023-11-10 06:53:46",
       "album": {
-        "name": "Adawise",
-        "url": "https://open.spotify.com/album/7wLpoVIC5jJPCiF1U74VB7"
+        "name": "ARE YOU ALRiGHT?",
+        "url": "https://open.spotify.com/album/6hICsM6NMQHck05IjUGsWZ"
       },
       "artists": [
         {
-          "name": "ZULO",
-          "url": "https://open.spotify.com/artist/5nWYsE0N983XcI3qsU55bp"
+          "name": "Shane Eagle",
+          "url": "https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
         }
       ],
-      "duration_ms": 202750,
-      "name": "Adawise",
-      "url": "https://open.spotify.com/track/2u9E7r2kQCQxCU0x7SqJXt"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
-        "name": "VATELA",
-        "url": "https://open.spotify.com/album/0IkItZca2QJEMgX2FAXxoe"
-      },
-      "artists": [
-        {
-          "name": "Espiquet",
-          "url": "https://open.spotify.com/artist/7JnVA6sPhYeTpLoWd5DvTz"
-        },
-        {
-          "name": "TOSS",
-          "url": "https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9"
-        },
-        {
-          "name": "Maglera Doe Boy",
-          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
-        },
-        {
-          "name": "DJ Kaymoworld",
-          "url": "https://open.spotify.com/artist/7y4x271U84CHr0SwMZug6y"
-        },
-        {
-          "name": "Mondo Dusk",
-          "url": "https://open.spotify.com/artist/4FjBDxb0p9Qol1Kkrxx01e"
-        }
-      ],
-      "duration_ms": 194689,
-      "name": "VATELA",
-      "url": "https://open.spotify.com/track/7wUN20FK96Fu3nbvbUPVKl"
+      "duration_ms": 280888,
+      "name": "ARE YOU ALRiGHT?",
+      "url": "https://open.spotify.com/track/6NvzVmhpOTyITRRdt9ibmF"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -227,6 +279,22 @@
       "duration_ms": 204685,
       "name": "STECKE",
       "url": "https://open.spotify.com/track/4vrWndPBOnXg6Gx5DpL9eH"
+    },
+    {
+      "added_at": "2023-11-21 09:49:18",
+      "album": {
+        "name": "HOT PURSUIT",
+        "url": "https://open.spotify.com/album/2cEvPoT3SHHPKcEhyDSIDA"
+      },
+      "artists": [
+        {
+          "name": "TVZ",
+          "url": "https://open.spotify.com/artist/5z06CUX4OaOxeMrIFTh4t7"
+        }
+      ],
+      "duration_ms": 181301,
+      "name": "HOT PURSUIT",
+      "url": "https://open.spotify.com/track/5ZWq5CluqGCUa9gIH6vL1p"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -275,6 +343,30 @@
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
+        "name": "Ntja'ka",
+        "url": "https://open.spotify.com/album/5dOXzra9baPyj14cP7JNwB"
+      },
+      "artists": [
+        {
+          "name": "Priddy Ugly",
+          "url": "https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        },
+        {
+          "name": "MashBeatz",
+          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
+        }
+      ],
+      "duration_ms": 261120,
+      "name": "Ntja'ka",
+      "url": "https://open.spotify.com/track/2IO1qCsafE2xApON7VDokz"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
         "name": "Sosh Plata",
         "url": "https://open.spotify.com/album/3pvgrTHdJ0tA8hLJOvuIQm"
       },
@@ -295,30 +387,6 @@
       "duration_ms": 238032,
       "name": "Sosh Plata - Remix",
       "url": "https://open.spotify.com/track/3x3aen8g82ZErdMyGBuHNN"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
-        "name": "PEOPLE FORGET TO BE PEOPLE",
-        "url": "https://open.spotify.com/album/7Ahv4tX3pcBtuPP6kH6A6V"
-      },
-      "artists": [
-        {
-          "name": "Wordz",
-          "url": "https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd"
-        },
-        {
-          "name": "MAGLERA DOE BOY",
-          "url": "https://open.spotify.com/artist/50gnXpyd5RQPPbyilQLVKB"
-        },
-        {
-          "name": "MOCHEN",
-          "url": "https://open.spotify.com/artist/2W342X5Hkpzt1JdUQhdZPo"
-        }
-      ],
-      "duration_ms": 246857,
-      "name": "BARKER HAINES",
-      "url": "https://open.spotify.com/track/3VsKpmCGU3yLqn4SSnzSzt"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -475,30 +543,6 @@
       "duration_ms": 220041,
       "name": "Inkumbulo",
       "url": "https://open.spotify.com/track/1xL5DE9xNucOz9K2t7Q7IH"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
-        "name": "Ntja'ka",
-        "url": "https://open.spotify.com/album/5dOXzra9baPyj14cP7JNwB"
-      },
-      "artists": [
-        {
-          "name": "Priddy Ugly",
-          "url": "https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz"
-        },
-        {
-          "name": "Maglera Doe Boy",
-          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
-        },
-        {
-          "name": "MashBeatz",
-          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "Ntja'ka",
-      "url": "https://open.spotify.com/track/2IO1qCsafE2xApON7VDokz"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -967,46 +1011,6 @@
       "duration_ms": 151182,
       "name": "Bank Account",
       "url": "https://open.spotify.com/track/5tPuNGrJdBtrbydT1B4nuQ"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
-        "name": "ASBONGE",
-        "url": "https://open.spotify.com/album/43rilzzWFXOZkBCpNV5Dbv"
-      },
-      "artists": [
-        {
-          "name": "Megshizzy",
-          "url": "https://open.spotify.com/artist/2RlvT9UC0U92n19NeiCJRL"
-        },
-        {
-          "name": "BULA BULL",
-          "url": "https://open.spotify.com/artist/6kKLGZl1lKCCxaYoVgi5Jd"
-        },
-        {
-          "name": "MAO'H",
-          "url": "https://open.spotify.com/artist/1gKiHfn6NEmALbkuzQ7O10"
-        }
-      ],
-      "duration_ms": 218566,
-      "name": "ASBONGE",
-      "url": "https://open.spotify.com/track/5kjb86Dq1QvPLVHR5PRHto"
-    },
-    {
-      "added_at": "2023-11-09 23:00:00",
-      "album": {
-        "name": "Nithini?",
-        "url": "https://open.spotify.com/album/1MHHK9qBqZHu7nvDx7xnl0"
-      },
-      "artists": [
-        {
-          "name": "Mbali The Real",
-          "url": "https://open.spotify.com/artist/040t3dBfLI6NdVLMILt3PX"
-        }
-      ],
-      "duration_ms": 160320,
-      "name": "Nithini?",
-      "url": "https://open.spotify.com/track/1tYL8Em7jaTqhXpA01IgDH"
     },
     {
       "added_at": "2023-11-09 23:00:00",

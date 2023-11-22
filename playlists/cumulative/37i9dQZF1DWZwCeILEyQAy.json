@@ -137,6 +137,28 @@
     },
     {
       "album": {
+        "name": "3D",
+        "url": "https://open.spotify.com/album/24R8yEtVrZoThYWEyH7r5Y"
+      },
+      "artists": [
+        {
+          "name": "Big Bratt",
+          "url": "https://open.spotify.com/artist/4H7s71IsQDWe4DFArSBzD4"
+        },
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151926,
+      "name": "3D",
+      "url": "https://open.spotify.com/track/7t7eBzrvv1YL547LI44Bvb"
+    },
+    {
+      "album": {
         "name": "6000 Degrees (AH HA)",
         "url": "https://open.spotify.com/album/4ZjzeyERuwR39NcUmg95S8"
       },

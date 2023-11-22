@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Eliza Rose, Calvin Harris
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,091 likes - 101 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,157 likes - 101 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Body Moving](https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Body Moving](https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K) | 2:34 |
 | 2 | [Work](https://open.spotify.com/track/1sPQUqawv3PHbgXs5Pe7a2) | [WIIGZ](https://open.spotify.com/artist/0mh9FUIglCeBXhVTYqjhaB) | [Songs To Catwalk To](https://open.spotify.com/album/3Njtvq6DdcIvHckaDm6F31) | 3:31 |
 | 3 | [You Don't Even Know Me](https://open.spotify.com/track/0gqspClYQRq1Bdc3R48lnj) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [You Don’t Even Know Me](https://open.spotify.com/album/1YSZG8X5xJNi3KL9pxgghn) | 2:31 |
-| 4 | [In Our Nature](https://open.spotify.com/track/3y3qDR1tWTuiaoMb4Q02ic) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Sg\. Nik Presents: Rinse On Toast](https://open.spotify.com/album/5ni3K90cPqPPCbWapSUhkT) | 2:20 |
+| 4 | [In Our Nature](https://open.spotify.com/track/3yQ6foVcC6Frbs7Deum0Dd) | [Sg\. Nik](https://open.spotify.com/artist/1kEtbhjtG8HAlLbGST9McW) | [Sg\. Nik Presents: Rinse On Toast](https://open.spotify.com/album/15v75tITBAMoR0Ajl7f9RU) | 2:20 |
 | 5 | [When We Were Young \(The Logical Song\)](https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [When We Were Young \(The Logical Song\)](https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY) | 2:27 |
 | 6 | [Nostalgia \(feat\. Little Green\)](https://open.spotify.com/track/3VP9aycULSUnBqGN5ThCXT) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [Nostalgia \(feat\. Little Green\)](https://open.spotify.com/album/2XvL2rUofsY9xaXN2D4VwW) | 2:43 |
 | 7 | [Bullet Train To Paris](https://open.spotify.com/track/0lIOamNC6EMXu1AgPyzSTD) | [Willaris\. K](https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Silversun](https://open.spotify.com/album/4EAemIQHlJl7ZwCndwy8ro) | 4:59 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 61 | [Love On You \(feat\. Griff Clawson\)](https://open.spotify.com/track/7Iv0928rZ28KjivhAJPqfC) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Love On You \(feat\. Griff Clawson\)](https://open.spotify.com/album/7hijxy3rso2MSNyHf0K5kj) | 2:50 |
 | 62 | [Now Or Never \(Toneshifterz Remix\)](https://open.spotify.com/track/39Xd2miEi3vR7sHl55O9Un) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Sara Phillips](https://open.spotify.com/artist/0IYTdG3kSqaozW2xSPA6GL), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Now Or Never \(Toneshifterz Remix\)](https://open.spotify.com/album/2KwzYmQzK3dLFJDxBb2moh) | 4:01 |
 | 63 | [Fever](https://open.spotify.com/track/4aonFWNn1hriqeEtXmMIRy) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ) | [Fever](https://open.spotify.com/album/1czheboLJFCb4lgJL2q4KK) | 2:40 |
-| 64 | [Bop To Runway Cres](https://open.spotify.com/track/6nE9VomiAVdd0fkPlDhvWw) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Bop To Runway Cres](https://open.spotify.com/album/3mqydhpGcinWn3cU7NBLEl) | 2:28 |
+| 64 | [Bop To Runway Cres](https://open.spotify.com/track/5uwdvEbttKItydrL75nX6J) | [Sg\. Nik](https://open.spotify.com/artist/1kEtbhjtG8HAlLbGST9McW) | [Bop To Runway Cres](https://open.spotify.com/album/4F2rFo8jOHjraCX8ExJStW) | 2:28 |
 | 65 | [Hold On To Now \(Extended Mix\)](https://open.spotify.com/track/4r3NfonL0kZ6rgACUnAjzo) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Hold On To Now](https://open.spotify.com/album/7b63wJrdWbYNjPeDilwSor) | 5:28 |
 | 66 | [Big FU](https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big FU](https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU) | 2:41 |
 | 67 | [Forget You](https://open.spotify.com/track/7CbJoy4Rl2kzkGFAXDDH8a) | [NEOTEK](https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv), [Breezie 311](https://open.spotify.com/artist/7AjXl1MssQbIgKrleqAzim) | [Forget You](https://open.spotify.com/album/7sHgL4Rl2GqefbufyPsUnc) | 2:19 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 100 | [Brain](https://open.spotify.com/track/2oXY9Dw45tIBh9ln2mdPQj) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Brake Fluid](https://open.spotify.com/album/6y5cvZO6OK8UCRXPU5Cmmj) | 4:45 |
 | 101 | [exactly the same](https://open.spotify.com/track/7KAFWdeDgkekYrjFomiXkB) | [yergurl](https://open.spotify.com/artist/256Y9onrKClLcW4xSDtbwo) | [exactly the same](https://open.spotify.com/album/6QWdwdcEsYCXHmvp9GVzAx) | 2:31 |
 
-Snapshot ID: `MCw5MThhZGVhZjczZGFlOGM4ZDI2NzkyNTUyZjA1MmFlMTIwMDUyMDgy`
+Snapshot ID: `MCw3MDVlYmMwZWY2NGM3NDc4ZTA3MjY2YWYxZjBjMGUxMjc0MWZiNTJj`

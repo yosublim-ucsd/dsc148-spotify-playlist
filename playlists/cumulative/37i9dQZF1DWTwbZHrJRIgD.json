@@ -1377,6 +1377,32 @@
     },
     {
       "album": {
+        "name": "In Raahon Mein (From \"The Archies\")",
+        "url": "https://open.spotify.com/album/1QH9L2KybZAacyZODZyZ3n"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183882,
+      "name": "In Raahon Mein (From \"The Archies\")",
+      "url": "https://open.spotify.com/track/25qNCxhu9VzFgcCPawszwh"
+    },
+    {
+      "album": {
         "name": "Jaadui (From \"Tu Jhoothi Main Makkaar\")",
         "url": "https://open.spotify.com/album/5OsAf4SSVDOAxF9FLbp8oF"
       },
@@ -1656,7 +1682,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 230400,
       "name": "Jugnu",
       "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"

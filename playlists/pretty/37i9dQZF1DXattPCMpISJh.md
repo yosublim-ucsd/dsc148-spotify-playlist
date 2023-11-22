@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,304 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,351 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [Starlight \- Radio Edit](https://open.spotify.com/track/1hlwWbnyFeLayYT2AxKoFS) | [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f), [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z) | [Starlight](https://open.spotify.com/album/2vIW6gdHZ7SxBfWOPonMui) | 3:50 |
 | 100 | [Lost Tonight](https://open.spotify.com/track/7yz9JSRAHicHMCzXUT4OBq) | [Roman Müller](https://open.spotify.com/artist/3nFw6mPGG5Uj2YS7IyaGEF), [Danny Dearden](https://open.spotify.com/artist/52kE0a8ilvPQop3NN7tplj) | [Lost Tonight](https://open.spotify.com/album/40EL8JYJETe50ES1GN39Kp) | 2:51 |
 
-Snapshot ID: `MCxlYzJiNDIwZTQ3ZjhkMDg0ZjE1NzlkNTllNGYwMjFlMWNhZjcwOTg5`
+Snapshot ID: `MCw1NzZlMzJjZDgwM2VlZGRlNTc5ZDQwMDIyZmVjYzJkYjkyOGNkM2Ji`

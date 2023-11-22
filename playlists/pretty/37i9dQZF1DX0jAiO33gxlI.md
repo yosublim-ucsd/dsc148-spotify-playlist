@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Renan Samam
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,022 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,021 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 17 | [Chucro](https://open.spotify.com/track/15ZOAdhNuqy4BeMK4V5VzT) | [Salaga](https://open.spotify.com/artist/4Pqz6aZYK7On1mzad1vjeG), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Toepper](https://open.spotify.com/artist/2GF7qsjsk8GXGYezCljjNF) | [Chucro](https://open.spotify.com/album/3hInArKfCQHhg4uBznHAN8) | 2:25 |
 | 18 | [Ganhos](https://open.spotify.com/track/0wrePFro6HxW7tjYWC7uqi) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [DaFrança](https://open.spotify.com/artist/2V4G3cFRwJpGpO27YJQ4cK), [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q) | [Ganhos](https://open.spotify.com/album/333I0QRAviHx2YewC8c4gI) | 2:22 |
 | 19 | [Disposição e Atividade](https://open.spotify.com/track/1IZmGrAEkq98MxDQCYhtjJ) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Yokame](https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F) | [Disposição e Atividade](https://open.spotify.com/album/4pEQ7i96Nba9nCoa1VmtUU) | 2:44 |
-| 20 | [O Dom](https://open.spotify.com/track/2J54NmREH05OZsHDu7MxC5) | [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV), [Guerr44](https://open.spotify.com/artist/3yRhE2MiZWu5EtSeVfWRj2) | [O Dom](https://open.spotify.com/album/78rwF10UTWqspDm5C3VEwQ) | 2:18 |
+| 20 | [O Dom](https://open.spotify.com/track/2J54NmREH05OZsHDu7MxC5) | [Guerr44](https://open.spotify.com/artist/3yRhE2MiZWu5EtSeVfWRj2), [Xavier2bit](https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV) | [O Dom](https://open.spotify.com/album/78rwF10UTWqspDm5C3VEwQ) | 2:18 |
 | 21 | [Antologia](https://open.spotify.com/track/37Fk991ojWvA3Eg3o3wP3s) | [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd), [Drill De Lobos](https://open.spotify.com/artist/7JUwduKCtopPBNkw7cizw6), [Stvnley](https://open.spotify.com/artist/6UGAtF64z3L9xfeQbyAV8h) | [Antologia](https://open.spotify.com/album/6wxlNVLwzFRSsy8n9U2DRN) | 4:22 |
 | 22 | [BELVEDERE](https://open.spotify.com/track/75tB9lzCTAemsOXI2hkcPN) | [Raillow](https://open.spotify.com/artist/0sidBbuq2OCR7mtHiSIfCN), [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU), [Lucas Gali](https://open.spotify.com/artist/3K0d3wFUuuzWb3o6tEqRlm), [Mezz](https://open.spotify.com/artist/5NgxTIRaWqhU5SPVqD3IEq), [MindHunters](https://open.spotify.com/artist/0QRlMdCWxBYvMrUJT9R8Rj) | [NO LUV](https://open.spotify.com/album/7eU6g8rDIuaPfr7h8fmmVC) | 3:58 |
 | 23 | [Girl From Ipanema](https://open.spotify.com/track/7ysU8N5QdUZNFzkuQhDpV4) | [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [NSFS](https://open.spotify.com/artist/3w7GpmivBfWVh5CTrp0irY) | [Girl From Ipanema](https://open.spotify.com/album/5KmgelwwyTOIP93hJwqt7T) | 3:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [INTENÇÃO](https://open.spotify.com/track/3BSrkgc0HEM0dod45jmqyN) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Dj Juninho da Espanha](https://open.spotify.com/artist/7v3YsPZy6l4QPJQ8RqnfZ4), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 3:46 |
 | 75 | [Faça Dinheiro, Se Mantenha Vivo](https://open.spotify.com/track/6XGN9afKuLwmXEipg53yqz) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Faça Dinheiro, Se Mantenha Vivo](https://open.spotify.com/album/67FpK5RVgcIG9LexjpWHv4) | 2:18 |
 
-Snapshot ID: `MCwwYzM0ZWRlZGMzMDI4ZThjNTk4ZWE3OWY2NzM4MmM4YTE2ZmY2ZGFi`
+Snapshot ID: `MCwwOGU1YmViZGFlMzcyZmQzZjEwMjZmM2M4NWQ0ZTZhZmQwY2ExZTQ5`

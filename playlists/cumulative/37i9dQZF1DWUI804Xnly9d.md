@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-210 songs - 11 hr 46 min
+211 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Banja Beimaan](https://open.spotify.com/track/4F6hIftaEtiZqX7O9qohUo) | [Siddharth Agarwal](https://open.spotify.com/artist/0khYzwgAKUdtcnxx3ETNRs) | [Banja Beimaan](https://open.spotify.com/album/5iiyu8Old8pPtzM0HULCVE) | 4:32 | 2023-05-17 | 2023-06-21 |
 | [Barsaat Aa Gayi \- Acoustic](https://open.spotify.com/track/3u2TfgGswNKiTuBMB8cIXe) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Hina Khan](https://open.spotify.com/artist/4xKss8ZlA5A4abTQpqynah) | [Barsaat Aa Gayi \(Acoustic\)](https://open.spotify.com/album/1nOjUyG49pdq4P20pv7Nam) | 3:36 | 2023-09-21 | 2023-11-06 |
 | [Baton Baton Mein \(From "Love\-All"\)](https://open.spotify.com/track/6fnVga9swfvgQ6r8NcRQoj) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Saurabh Vaibhav](https://open.spotify.com/artist/2f8BvXBGosWesY17nmZAGl) | [Baton Baton Mein \(From "Love\-All"\)](https://open.spotify.com/album/4hxaVoj9O1DZ3bsvicYH0s) | 3:49 | 2023-08-04 | 2023-09-02 |
+| [Bawariya](https://open.spotify.com/track/5V4skDQqJVmt6gIgYpYEFB) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Bawariya](https://open.spotify.com/album/1bIZt0uCgtKJOvlqvBSs4C) | 2:59 | 2023-11-21 |  |
 | [Bechara Dil](https://open.spotify.com/track/5qwJbElzgetMpn5fVYFsyO) | [Aditya Agrahari](https://open.spotify.com/artist/4NIu0zykf43b9Ncn20tTxG), [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2) | [Bechara Dil](https://open.spotify.com/album/0EqCYTvlwapU4OdjUfoEkP) | 2:41 | 2023-05-31 |  |
 | [Bewakoofiyaan Kare](https://open.spotify.com/track/73mYX4I9cu6kA0Q8v1M8Z2) | [Anil Thakur](https://open.spotify.com/artist/1pUKvwa9hBCPDk8CP4gDKi), [Roshanaara Qureshi](https://open.spotify.com/artist/7G3sWx07js0ZjqND7YQvrF) | [Bewakoofiyaan Kare](https://open.spotify.com/album/16PdauoPKILtNmJepn4Qlf) | 3:00 | 2023-06-27 |  |
 | [Bikhra](https://open.spotify.com/track/6YnilfIRgLOzlOrqPEOEnb) | [Vaibhav Malhotra](https://open.spotify.com/artist/5wHCytYglbwzeqqfClAI1j) | [Afsana](https://open.spotify.com/album/17yHafgTW0pQ2yGcanLduv) | 3:25 | 2023-05-17 | 2023-05-27 |
@@ -48,7 +49,7 @@
 | [Chal Bhool Ja](https://open.spotify.com/track/48tLTRTLXGx9nj9RHgal6S) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Chal Bhool Ja](https://open.spotify.com/album/2JOUKg6FMICnKDlQS5D6pg) | 2:28 | 2023-06-16 | 2023-06-21 |
 | [Chale Gaye](https://open.spotify.com/track/0eZUo7dcgwmPHalQat5JuJ) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Chale Gaye](https://open.spotify.com/album/5uWSN63exQGd7pyABRRDbz) | 3:58 | 2023-09-27 |  |
 | [Chalenge Wahin](https://open.spotify.com/track/4ivXGD5mirJrO1Y6w88J1K) | [Anushka Gupta](https://open.spotify.com/artist/72383grtnEIxiyYCo76KtJ) | [Chalenge Wahin](https://open.spotify.com/album/7eIWWjP5MxC2AQCoPDQD2A) | 3:37 | 2023-05-24 | 2023-09-21 |
-| [Chehra 2.0](https://open.spotify.com/track/6d3lOkNs93ZbMkhmoUCGbS) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Thank You for Coming \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3EFK3YhILj3V22ifGoyLsJ) | 4:07 | 2023-10-06 |  |
+| [Chehra 2.0](https://open.spotify.com/track/6d3lOkNs93ZbMkhmoUCGbS) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Thank You for Coming \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3EFK3YhILj3V22ifGoyLsJ) | 4:07 | 2023-10-06 | 2023-11-22 |
 | [Chhipa Hoon](https://open.spotify.com/track/7ufgQB1szGY68NSXxCGFnV) | [Anupam Hazra](https://open.spotify.com/artist/1aKIIGG77pUWHh51RDdmW8) | [Chhipa Hoon](https://open.spotify.com/album/6lF4M45kwtSY83I3CjMoa5) | 4:07 | 2023-05-17 | 2023-07-04 |
 | [Chhora Kyun](https://open.spotify.com/track/374WHQptMGIDX7CDPCoMGw) | [SURAJJ](https://open.spotify.com/artist/4yzeHzQ6XvpEq2FR1b6l4S) | [Chhora Kyun](https://open.spotify.com/album/72LLod1dP7uQjLYIBpOn3d) | 3:54 | 2023-07-24 | 2023-09-22 |
 | [DARMIYAN](https://open.spotify.com/track/3QJRS9EGOweIgeqZ4M7m6H) | [Isis Paul](https://open.spotify.com/artist/0bBfNUh8Ud2skCAxD2g5Z5), [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Sagar Satpute](https://open.spotify.com/artist/7qafwPWhC9pjVtB43gSm3a) | [DARMIYAN](https://open.spotify.com/album/0L4oUESTyLktM4tm7uzOur) | 2:15 | 2023-06-02 | 2023-07-08 |

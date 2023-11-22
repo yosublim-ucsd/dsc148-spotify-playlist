@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Instructions: volume up\. Cover: Five Finger Death Punch
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,454 likes - 121 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,635 likes - 121 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 120 | [Will I Run?](https://open.spotify.com/track/2FLVcNtaeQPcfpW6B15IEE) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Will I Run?](https://open.spotify.com/album/3vSYFCoj6LqTRxdYh9r6pq) | 4:02 |
 | 121 | [Dark Thoughts](https://open.spotify.com/track/7aSFYakNWB9xQGDEZtoBDH) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Dark Thoughts](https://open.spotify.com/album/4hZRZ9Mwu9NAIeB73uI2JT) | 4:08 |
 
-Snapshot ID: `MCxkMGIzNTY3ZDEwMjg1MDVlOGZlMjhmOWQxOTc0Njc5YzVlOGVhNmNl`
+Snapshot ID: `MCw2OWI4NTczZGYzNmViNzg5MzYwY2UxOWU2NTk1NTlmOGRkOWNiNDkz`

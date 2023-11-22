@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,792 likes - 297 songs - 16 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,948 likes - 297 songs - 16 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 22 | [With You](https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [With You](https://open.spotify.com/album/1BBT9e9UssKGz49zmGAFRH) | 2:48 |
 | 23 | [Renaissance](https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Renaissance](https://open.spotify.com/album/4MT3BeO1DE8PAbsJSgfDtA) | 2:31 |
 | 24 | [On My Mind](https://open.spotify.com/track/3Z8pXlydvG00cjalDZgiUq) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [JIM](https://open.spotify.com/artist/5ahYpnzCN3IMzBCFqwnKfr) | [On My Mind](https://open.spotify.com/album/3Tc4RzAWum7OKbNkTGgkAX) | 2:20 |
-| 25 | [Meet You There \- Vall Remix](https://open.spotify.com/track/1rXVach7i7Iywa91TtWcd5) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt), [Vall](https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD) | [A R I Z O N A \(R E M I X E D\)](https://open.spotify.com/album/3ab2NFkx4nCfOmgh8VFz7P) | 4:17 |
+| 25 | [Meet You There \- Vall Remix](https://open.spotify.com/track/1rXVach7i7Iywa91TtWcd5) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt), [Vall](https://open.spotify.com/artist/1nn5V08qmK0rKqWX5tFBac) | [A R I Z O N A \(R E M I X E D\)](https://open.spotify.com/album/3ab2NFkx4nCfOmgh8VFz7P) | 4:17 |
 | 26 | [My Love \(feat\. Ayra Starr\) \- BUNT\. Remix](https://open.spotify.com/track/5w1FBbKnlwQaLRv4BqzawB) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [My Love \(feat\. Ayra Starr\) \[Remixes\]](https://open.spotify.com/album/098hyxuLtCjLSY0UkmGVfu) | 2:50 |
 | 27 | [Better Days](https://open.spotify.com/track/4GUC41StA7bwWyG3Ry3KAb) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [Better Days](https://open.spotify.com/album/47Tp9SOFl0hF6snQX8I0a2) | 1:47 |
 | 28 | [BACK FOR MORE](https://open.spotify.com/track/0TdKvw86k95MpKXD6pamFN) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [BACK FOR MORE](https://open.spotify.com/album/4DE4QCn4le3BWkCt4OnMee) | 2:55 |
@@ -306,4 +306,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 296 | [The Fall](https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:16 |
 | 297 | [Just The Way I Feel](https://open.spotify.com/track/26ZLujrsJ2JQ8QWHYOe9B3) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [EMIAH](https://open.spotify.com/artist/2SvY2cO17kdD3swIBGOxs8) | [Just The Way I Feel](https://open.spotify.com/album/2P642dj0EaJxTs1fRpkqxa) | 3:06 |
 
-Snapshot ID: `MCxjNmQwNDJmYTVmMDQ4NTRhZTdjNTM5YzQ4MzUyM2FmY2RmZWFhZjdh`
+Snapshot ID: `MCxmYThmZTViMzdkODE4NmNkNWQ4NTk3ODc1ZDMwNjE3ZjZiOGYyMWNi`

@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-436 songs - 23 hr 4 min
+437 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Eve Bounce \- Remix](https://open.spotify.com/track/70XKM6b0oyRXMSagZABK5v) | [Yaadman fka Yung L](https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Eve Bounce](https://open.spotify.com/album/715RAdaas5D9Fx38E9blPJ) | 3:24 | 2021-12-16 |  |
 | [Fall](https://open.spotify.com/track/1hEXElwyPez2z7m5dZ56Mc) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:00 | 2021-12-16 |  |
 | [Fast Wine](https://open.spotify.com/track/2RQ2CwHD5mJBox0Hc6HYRc) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Fast Wine](https://open.spotify.com/album/1mlDPzy4l8LhGVqNEiopIN) | 3:24 | 2021-12-16 | 2022-01-09 |
+| [FEEL](https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:34 | 2023-11-21 |  |
 | [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/track/05LWBvN1FeUHot4CdIowmL) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Feelings \(with J Boog & Gyptian\)](https://open.spotify.com/album/0qwr73RDAt6DloQiEuljUS) | 3:14 | 2021-12-16 | 2023-05-21 |
 | [Finders Keepers](https://open.spotify.com/track/06BD7TeUR6mYbF6cWyzvZt) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [Finders Keepers](https://open.spotify.com/album/0GHwcubAh10ID1apl4n22z) | 4:31 | 2021-12-16 | 2022-07-26 |
 | [Fine Wine & Hennessy](https://open.spotify.com/track/63yTeYugkFyU8DEsVFamix) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Slim Jxmmi](https://open.spotify.com/artist/7EEiVZvj6RCEtVX2F2pyxu) | [Afrowave 3](https://open.spotify.com/album/79dXMRWb9dGw08ud6M87GH) | 3:10 | 2021-12-16 | 2023-02-10 |
@@ -297,7 +298,7 @@
 | [Oso Deh](https://open.spotify.com/track/2PebmrsrzbKxn4worrNdrx) | [Jahari](https://open.spotify.com/artist/4w0QJkFl9n9KUZxPdIMB83) | [Oso Deh](https://open.spotify.com/album/356DaM4uEodJrXX8700UYk) | 2:35 | 2021-12-16 | 2022-12-15 |
 | [Otra Noche Sin Ti](https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Otra Noche Sin Ti](https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV) | 3:48 | 2021-12-16 |  |
 | [Ova You](https://open.spotify.com/track/5ZOTYsNnZTja0z0hvIMTtJ) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Ova You](https://open.spotify.com/album/4UzuK4u0aC1UF6yRviSDLX) | 3:29 | 2021-12-16 | 2022-02-24 |
-| [OVER DEM](https://open.spotify.com/track/1KCCxeit3q5wJXxDmRgbl3) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:18 | 2023-07-14 |  |
+| [OVER DEM](https://open.spotify.com/track/1KCCxeit3q5wJXxDmRgbl3) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:18 | 2023-07-14 | 2023-11-22 |
 | [Overloading \(OVERDOSE\)](https://open.spotify.com/track/4lVEVXrlQlXPdYWMGTwrFe) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Overloading \(OVERDOSE\)](https://open.spotify.com/album/0PhRHHW803w4pHDJR4AUw8) | 3:25 | 2022-06-16 | 2023-04-07 |
 | [Pam Pam](https://open.spotify.com/track/0bwggp9wrFlopQffgG4Rhb) | [Ketchup](https://open.spotify.com/artist/1k1u0kjSZiPC7myovUsekH) | [Skilahmatic](https://open.spotify.com/album/7MZVojSUyO9HNyq4nBMS2D) | 3:10 | 2022-07-28 | 2023-04-07 |
 | [Pam Pam](https://open.spotify.com/track/0onCpID636LlzqZ1OXJcRk) | [Ketchup](https://open.spotify.com/artist/1k1u0kjSZiPC7myovUsekH) | [Pam Pam](https://open.spotify.com/album/3NwwILNuIUnDBTCcAYXIZ3) | 3:10 | 2021-12-16 | 2022-04-23 |

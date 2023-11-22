@@ -1,12 +1,12 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 65440,
+  "num_followers": 65486,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzg2MWQ5M2RiMzNhYTM3ZWUwODRkODgzMzU5ZmQwODk5ODRkNWUw",
+  "snapshot_id": "MCw4MjZjZjkzODU1MmJkZjNhNmE5YjkyOTQ2ODg1ZmNkZWE1MjQ3MmRm",
   "tracks": [
     {
       "added_at": "2023-10-06 13:11:56",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Wu Wei",
-        "url": "https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW"
-      },
-      "artists": [
-        {
-          "name": "De Moi",
-          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
-        }
-      ],
-      "duration_ms": 169382,
-      "name": "Wu Wei",
-      "url": "https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Pilgrimage",
         "url": "https://open.spotify.com/album/2XWMV5XBqmoPaPxOWLlJGq"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 177391,
       "name": "Protection",
       "url": "https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Wu Wei",
+        "url": "https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW"
+      },
+      "artists": [
+        {
+          "name": "De Moi",
+          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
+        }
+      ],
+      "duration_ms": 169382,
+      "name": "Wu Wei",
+      "url": "https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/4AbGPGOPsO9TRbn6XjTJDf"
-      },
-      "artists": [
-        {
-          "name": "James Nepali",
-          "url": "https://open.spotify.com/artist/0SsqkRL4JQC709FbQeLn1x"
-        }
-      ],
-      "duration_ms": 137349,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/3cHdJ8k5NWG45OAmlz7NU9"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Hush",
         "url": "https://open.spotify.com/album/2BElhJUiYFx4bLB0D8BYTt"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 141724,
       "name": "Hush",
       "url": "https://open.spotify.com/track/1MfkuRzoYgwSNFntMCDvYd"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/4AbGPGOPsO9TRbn6XjTJDf"
+      },
+      "artists": [
+        {
+          "name": "James Nepali",
+          "url": "https://open.spotify.com/artist/0SsqkRL4JQC709FbQeLn1x"
+        }
+      ],
+      "duration_ms": 137349,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/3cHdJ8k5NWG45OAmlz7NU9"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Floating Without Gravity",
-        "url": "https://open.spotify.com/album/2LXf2YrNnOa930vkRcCBVh"
-      },
-      "artists": [
-        {
-          "name": "Tranquil Spirits",
-          "url": "https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "Floating Without Gravity",
-      "url": "https://open.spotify.com/track/1EUeo0MgTVTCAqzaYZO4OU"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Sleepy Eyes",
         "url": "https://open.spotify.com/album/5XDgcCLTTeLRtQiC0H6ooQ"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 224791,
       "name": "Sleepy Eyes",
       "url": "https://open.spotify.com/track/6yh2v1ESQ0gOqU8d1Cyexm"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Floating Without Gravity",
+        "url": "https://open.spotify.com/album/2LXf2YrNnOa930vkRcCBVh"
+      },
+      "artists": [
+        {
+          "name": "Tranquil Spirits",
+          "url": "https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "Floating Without Gravity",
+      "url": "https://open.spotify.com/track/1EUeo0MgTVTCAqzaYZO4OU"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "One Sense",
-        "url": "https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT"
-      },
-      "artists": [
-        {
-          "name": "Collected Dreams",
-          "url": "https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "My Horizon",
-      "url": "https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "Oh so Quiet",
         "url": "https://open.spotify.com/album/7hA3Z4F90GoBPxsNz8DZj4"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 193043,
       "name": "Paracosm",
       "url": "https://open.spotify.com/track/6pkMeMeBHzcw7pp722OMfk"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "One Sense",
+        "url": "https://open.spotify.com/album/466ShS1EJQJcwI63omgHJT"
+      },
+      "artists": [
+        {
+          "name": "Collected Dreams",
+          "url": "https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "My Horizon",
+      "url": "https://open.spotify.com/track/0IeAKzoK78YpLGWn8wCQV8"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Loveliness",
-        "url": "https://open.spotify.com/album/4SYjccDi2Vcm3XMUk65cNP"
-      },
-      "artists": [
-        {
-          "name": "Gentle Dreams",
-          "url": "https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC"
-        }
-      ],
-      "duration_ms": 160188,
-      "name": "Loveliness",
-      "url": "https://open.spotify.com/track/3dKprU1S9gkO3AlCKnjNyt"
-    },
-    {
-      "added_at": "2023-10-06 13:11:56",
-      "album": {
         "name": "\u200bGentle Dreams",
         "url": "https://open.spotify.com/album/6JR2chegFWuuoU7KqOU1BG"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 195000,
       "name": "Gentle Dreams",
       "url": "https://open.spotify.com/track/3Y8h3LXQ1jR3jsdbdR7nmt"
+    },
+    {
+      "added_at": "2023-10-06 13:11:56",
+      "album": {
+        "name": "Loveliness",
+        "url": "https://open.spotify.com/album/4SYjccDi2Vcm3XMUk65cNP"
+      },
+      "artists": [
+        {
+          "name": "Gentle Dreams",
+          "url": "https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC"
+        }
+      ],
+      "duration_ms": 160188,
+      "name": "Loveliness",
+      "url": "https://open.spotify.com/track/3dKprU1S9gkO3AlCKnjNyt"
     },
     {
       "added_at": "2023-10-06 13:11:56",
@@ -1919,18 +1919,18 @@
     {
       "added_at": "2023-10-06 13:11:56",
       "album": {
-        "name": "Nebulae",
-        "url": "https://open.spotify.com/album/6L1zv90N3x8xOzXASWr8jj"
+        "name": "Somnolent",
+        "url": "https://open.spotify.com/album/0g7Ole1o31s5RhWYCIZqoy"
       },
       "artists": [
         {
-          "name": "Hello Artemisia!",
-          "url": "https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3"
+          "name": "Golden Slumber",
+          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
         }
       ],
-      "duration_ms": 189272,
-      "name": "Niobe",
-      "url": "https://open.spotify.com/track/0OEUIVHPNUXHoIgt4qxZW3"
+      "duration_ms": 236521,
+      "name": "Somnolent",
+      "url": "https://open.spotify.com/track/0NQmxDWx3thsepS1TcO8bR"
     }
   ],
   "unique_name": "Sanaci\u00f3n Profunda",

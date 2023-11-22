@@ -4,7 +4,7 @@
 
 > Enjoy music From "Paradox Live"! HIPHOPメディアミックスプロジェクト「Paradox Live（パラライ）」の楽曲&ドラマトラックを1つのプレイリストで。 ©Paradox Live2023
 
-126 songs - 20 hr 5 min
+128 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Endless Dream](https://open.spotify.com/track/0nd2vulAlXnULt6RLfpImm) | [VISTY](https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF) | [Paradox Live \- Road to Legend \- Consolation Match"SHOWDOWN"](https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx) | 3:48 | 2023-01-31 |  |
 | [Faith](https://open.spotify.com/track/6lqEiNZgdHxWlNm0Rs6v21) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS) | [Paradox Live Stage Battle "JUSTICE"](https://open.spotify.com/album/3i54Y4LgI4XGwheoY6lejl) | 3:46 | 2022-03-29 |  |
 | [Fight For Liberty](https://open.spotify.com/track/3T6HSNJ19xJCrk9gJ8bHiC) | [獄Luck](https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA) | [Paradox Live \-Road to Legend\- Round1 “RAGE"](https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp) | 4:01 | 2022-08-30 |  |
+| [FLY HIGH!!!](https://open.spotify.com/track/1GD8J2VAVWcWHQqpK2Ekyg) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH) | [Paradox Live THE ANIMATION Opening Track「RISE UP」](https://open.spotify.com/album/19rtC1twZKhiqLfnOZT6bS) | 3:44 | 2023-11-21 |  |
 | [For my Stella](https://open.spotify.com/track/44235JiVl4tVmnLu7bw9yp) | [VISTY](https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF) | [Paradox Live Opening Show\-Road to Legend\-](https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs) | 3:38 | 2022-03-29 |  |
 | [FRE△KOUT](https://open.spotify.com/track/0zacDFf8WX2QZS9y9A2Kih) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH) | [Paradox Live Exhibition Show \-BAE\-](https://open.spotify.com/album/6Mjif8qAaWdTdVOBjrSC1p) | 3:54 | 2022-03-29 |  |
 | [F△Bulous](https://open.spotify.com/track/3piRNhTT2avDb6LIMkjhmF) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH) | [Paradox Live Stage Battle “VIBES"](https://open.spotify.com/album/5zwNzFPeOEHHAbl4fguBIa) | 3:46 | 2022-03-29 |  |
@@ -54,6 +55,7 @@
 | [Rats & Nobles](https://open.spotify.com/track/5puGKhaphVDO2yaU9ycynd) | [燕夏準](https://open.spotify.com/artist/6IQXL6FP1MHrFrMO329e8I), [矢戸乃上可波汰](https://open.spotify.com/artist/2V7qMRMjNcuZmu3JQyFkqa), [矢戸乃上那由汰](https://open.spotify.com/artist/7nVUI9CT2OrfnsQSyyU5wK) | [Paradox Live Shuffle Team Show \(Vol.2\)](https://open.spotify.com/album/0Rnc7ihMXSzdvQ02iVvfu3) | 4:48 | 2022-03-29 |  |
 | [REBELLION \-悪漢奴等 is still Burning\-](https://open.spotify.com/track/1A41PE1Z8ho4FMsswv8CMX) | [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC) | [Paradox Live Exhibition Show \-悪漢奴等\-](https://open.spotify.com/album/4SUPnE9AhmKqt7ws8j5jLH) | 3:56 | 2022-03-29 |  |
 | [Ride Out](https://open.spotify.com/track/6pG5LKAHWEtItr80wXd1wB) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS) | [Paradox Live Opening Show\-Road to Legend\-](https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs) | 3:14 | 2022-03-29 |  |
+| [RISE UP](https://open.spotify.com/track/1fB1NOeELQJwHw5kLeQEf4) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH), [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS), [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn), [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC) | [Paradox Live THE ANIMATION Opening Track「RISE UP」](https://open.spotify.com/album/19rtC1twZKhiqLfnOZT6bS) | 3:40 | 2023-11-21 |  |
 | [Road to Legend](https://open.spotify.com/track/5Pj0XVgXzilQpaMUemNeDr) | [武雷管](https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC) | [Paradox Live Opening Show\-Road to Legend\-](https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs) | 3:05 | 2022-03-29 |  |
 | [Rooftop](https://open.spotify.com/track/6rriREMck8MKJGyIvDz8RM) | [闇堂四季](https://open.spotify.com/artist/5BVVhDIGYa7cfSVBoBUAKi), [矢戸乃上那由汰](https://open.spotify.com/artist/7nVUI9CT2OrfnsQSyyU5wK) | [Paradox Live Shuffle Team Show \(Vol.1\)](https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm) | 3:19 | 2022-03-29 |  |
 | [ROWDIEZ \- 悪漢奴等 Wanted Vibes\-](https://open.spotify.com/track/1zpEnLXTatOpkqPZOmaWqJ) | [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC) | [Paradox Live Stage Battle “VIBES"](https://open.spotify.com/album/5zwNzFPeOEHHAbl4fguBIa) | 4:19 | 2022-03-29 |  |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjOlK5exuVE.md) - [plain]
 
 ### [La Tierra del Corrido](https://open.spotify.com/playlist/37i9dQZF1DWXjOlK5exuVE)
 
-> ¡Bienvenidos a La Tierra del Corrido! Historias que hacen historia\. Luis R Conriquez, Grupo Marca Registrada, Chino Pacas, Esteban Gabriel y Xavi en portada.
+> ¡Bienvenidos a La Tierra del Corrido! Historias que hacen historia\. Eden Muñoz, Los Tucanes de Tijuana y Fuerza Regida en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,122 likes - 152 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,548 likes - 152 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjOlK5exuVE.md) - [plain]
 | 151 | [Pescadores De Ensenada](https://open.spotify.com/track/5nqaSZdUzcKPGIwqLf0QAe) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos](https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R) | 2:54 |
 | 152 | [El Corrido de Milo Vela](https://open.spotify.com/track/3zwBVTTefiTWLRerxC2fts) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [El Corrido de Milo Vela](https://open.spotify.com/album/0TkqWGLLhKA7Izw3sPpIq8) | 3:30 |
 
-Snapshot ID: `MCxmODRjOWVhNWMwYTc4YWZlNzY4Y2E0OWFjY2MzZDRkZTZlN2ZmNTM4`
+Snapshot ID: `MCwyMjhhMjI0Mjg1YmI1MTc4MjRkMTJmNTVjODNkMzI4ZWNhOTJlZGQ3`

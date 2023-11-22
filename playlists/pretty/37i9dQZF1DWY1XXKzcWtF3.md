@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 
 > NYC DJ, The Loft founder, and Dance legend David Mancuso passed on Nov 14 2016\. This is a Tommie Sunshine, Spotify & Billboard Dance tribute\. Without Mancuso there would be no Rave scene, no House Music, no festival culture\. His legacy is vast; these are merely some of the classics born of The Loft.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,876 likes - 205 songs - 21 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,874 likes - 205 songs - 21 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 | 32 | [Shakalaodé](https://open.spotify.com/track/1dmUCUFDouI4QIdiQNEZb6) | [Wganda Kenya](https://open.spotify.com/artist/6svnFatzuDJZKCWIK6edka) | [Diablos del Ritmo 1960\-1985: The Colombian Melting Pot \(Analog Africa No\. 12\)](https://open.spotify.com/album/6EsqKrqreoVsnArRLYg77B) | 7:33 |
 | 33 | [Music Is My Way of Life](https://open.spotify.com/track/6BgdKqlUfMTATNMmbOzKpk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Best Of Patti Labelle](https://open.spotify.com/album/2fgrmnOGJzwU79xlHe4Iub) | 8:11 |
 | 34 | [Heavy Vibes](https://open.spotify.com/track/3gJrzgD9bx8jazL30OTsSk) | [Vincent Montana Orchestra](https://open.spotify.com/artist/7hD445gm1udEdPsTRNqtx7) | [Disco Music History, Vol\. 9](https://open.spotify.com/album/7r6pCoKa5CvSD2Lz2tFPVY) | 8:16 |
-| 35 | [Ain't No Stopping Us Now \- Unreleased Version](https://open.spotify.com/track/1yAXD9x09EhJHlq2qQCyuD) | [Risco Connection](https://open.spotify.com/artist/3YrLgmYQWlt5j33mG8smnG) | [Ain't No Stopping Us Now / Chapter Three](https://open.spotify.com/album/5rIjiIXVzF7xqWYLZtbpZY) | 6:11 |
+| 35 | [Ain't No Stopping Us Now \- Unreleased Version](https://open.spotify.com/track/79UEK0XYemip32SdLdAegB) | [Risco Connection](https://open.spotify.com/artist/3YrLgmYQWlt5j33mG8smnG) | [Ain't No Stopping us Now & Chapter Three](https://open.spotify.com/album/4JDARvfHaSYTE5mUBxDIgH) | 6:11 |
 | 36 | [Love Love Love](https://open.spotify.com/track/2ZBdJRJBPLykgC0WSDY288) | [Those Guys](https://open.spotify.com/artist/5SoZXXHTYRjRmuDYE0HQCr) | [Basement Boys House Party, Vol\. 1](https://open.spotify.com/album/71X6QkScpmHdm09tsd43X0) | 10:09 |
 | 37 | [Going Back to My Roots](https://open.spotify.com/track/3Ls5qhpvs46HkG12xCh3bD) | [Lamont Dozier](https://open.spotify.com/artist/6Dpx8fRtNa9CEORHIiBQTG) | [Discomania: Hits Dance 70\-80, Vol\. 6](https://open.spotify.com/album/2lEVsqT80Q3vnYlRkUEZ1d) | 4:38 |
 | 38 | [Love and Happiness](https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [I'm Still in Love with You](https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT) | 5:07 |
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1XXKzcWtF3.md) - [plain]
 | 204 | [I Zimbra](https://open.spotify.com/track/7oyNN8YzrHBb08FCDCgrdS) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Bonus Rarities & Outtakes](https://open.spotify.com/album/3azmJJ3Ejy93PHyxE7Ps30) | 3:56 |
 | 205 | [My Peace of Heaven \- International Mix](https://open.spotify.com/track/0qAXmTUtBaQsdfUGvT4bIy) | [Ten City](https://open.spotify.com/artist/3DIaOWIVFxJdTYyEb9mXzi) | [My Peace of Heaven](https://open.spotify.com/album/7DrWQeOnroI91NwolZFivl) | 9:08 |
 
-Snapshot ID: `MCwyM2Y2MDQ1ZWU4N2IxMzkxMjQyNjliNzM3NjVjZTJlYTZmNmIwOTRm`
+Snapshot ID: `MCw5ZTlmZmY0YjM2OWNhMmEzZmE3MzMzN2M5ZWU3N2I2OTU3Njg5YTI5`

@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Bawariya",
+        "url": "https://open.spotify.com/album/1bIZt0uCgtKJOvlqvBSs4C"
+      },
+      "artists": [
+        {
+          "name": "Vilen",
+          "url": "https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179318,
+      "name": "Bawariya",
+      "url": "https://open.spotify.com/track/5V4skDQqJVmt6gIgYpYEFB"
+    },
+    {
+      "album": {
         "name": "Bechara Dil",
         "url": "https://open.spotify.com/album/0EqCYTvlwapU4OdjUfoEkP"
       },
@@ -844,7 +862,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 247468,
       "name": "Chehra 2.0",
       "url": "https://open.spotify.com/track/6d3lOkNs93ZbMkhmoUCGbS"

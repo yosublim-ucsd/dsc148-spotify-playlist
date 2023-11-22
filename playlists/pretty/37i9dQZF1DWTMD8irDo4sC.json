@@ -1,12 +1,12 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 61674,
+  "num_followers": 61702,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWE3M2EyZjcxMzAwYzE4ODhmMDYyNWY2NDg4ZWI3Y2YwOWZlMWZj",
+  "snapshot_id": "MCw2NWJiMDc3ZDY4YjY1NmQzMjZmMTUwYWNlY2YwOTJjNWQ0YTFkMjg0",
   "tracks": [
     {
       "added_at": "2022-05-09 08:05:11",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Identit\u00e9",
-        "url": "https://open.spotify.com/album/0BhgbOGDmeayGBVonX5hVR"
-      },
-      "artists": [
-        {
-          "name": "Labess",
-          "url": "https://open.spotify.com/artist/5ifXprV3Ehe3xSTObbk16Y"
-        }
-      ],
-      "duration_ms": 216506,
-      "name": "El Kess Yaddour",
-      "url": "https://open.spotify.com/track/7pgUEhd5vgSZLDMBVapiTm"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "K'lma",
         "url": "https://open.spotify.com/album/2XY4xSVrYpRDTuUbPkVo81"
       },
@@ -215,22 +199,18 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "\u0635\u062d \u0627\u0644\u0646\u0648\u0645",
-        "url": "https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j"
+        "name": "Identit\u00e9",
+        "url": "https://open.spotify.com/album/0BhgbOGDmeayGBVonX5hVR"
       },
       "artists": [
         {
-          "name": "\u0647\u064a\u0628\u0629",
-          "url": "https://open.spotify.com/artist/4ntBp9iTyEwM06tIVPn3NB"
-        },
-        {
-          "name": "Zeid Hamdan",
-          "url": "https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks"
+          "name": "Labess",
+          "url": "https://open.spotify.com/artist/5ifXprV3Ehe3xSTObbk16Y"
         }
       ],
-      "duration_ms": 199636,
-      "name": "Ahwak Hiba",
-      "url": "https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN"
+      "duration_ms": 216506,
+      "name": "El Kess Yaddour",
+      "url": "https://open.spotify.com/track/7pgUEhd5vgSZLDMBVapiTm"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -247,6 +227,26 @@
       "duration_ms": 249023,
       "name": "Tghayarti",
       "url": "https://open.spotify.com/track/2UCflIlO6RFX1cIfuu2pmR"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "\u0635\u062d \u0627\u0644\u0646\u0648\u0645",
+        "url": "https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j"
+      },
+      "artists": [
+        {
+          "name": "\u0647\u064a\u0628\u0629",
+          "url": "https://open.spotify.com/artist/4ntBp9iTyEwM06tIVPn3NB"
+        },
+        {
+          "name": "Zeid Hamdan",
+          "url": "https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks"
+        }
+      ],
+      "duration_ms": 199636,
+      "name": "Ahwak Hiba",
+      "url": "https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -383,8 +383,8 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Win Yamchi Zine",
-        "url": "https://open.spotify.com/album/3gkBsIfmzf69MGfMji8gnf"
+        "name": "Best of Cameleon",
+        "url": "https://open.spotify.com/album/2jEH3fpo2Jv9H8MYWmFU02"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9"
         }
       ],
-      "duration_ms": 193881,
-      "name": "Win Yamchi Zine",
-      "url": "https://open.spotify.com/track/3Zlfkuzu8esBnCck3OAztD"
+      "duration_ms": 295266,
+      "name": "Walleh",
+      "url": "https://open.spotify.com/track/1kgBYAd72ZhwTDWeffZqDL"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -431,6 +431,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "\u0622\u0647 \u064a\u0627 \u0633\u0644\u0637\u0627\u0646\u064a",
+        "url": "https://open.spotify.com/album/3YVwJwSUGOnWiDgIirPjoN"
+      },
+      "artists": [
+        {
+          "name": "Nabyla Maan",
+          "url": "https://open.spotify.com/artist/11MBLpYXQnyoJN5wJ9NQhW"
+        }
+      ],
+      "duration_ms": 268500,
+      "name": "\u0622\u0647 \u064a\u0627 \u0633\u0644\u0637\u0627\u0646\u064a",
+      "url": "https://open.spotify.com/track/1ZrtmwKkF7LEl8fgOn4h0d"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "\u0644\u0645\u0627 \u0628\u0646\u062a\u0648\u0644\u062f",
         "url": "https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf"
       },
@@ -447,6 +463,22 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Win Yamchi Zine",
+        "url": "https://open.spotify.com/album/3gkBsIfmzf69MGfMji8gnf"
+      },
+      "artists": [
+        {
+          "name": "Cameleon",
+          "url": "https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9"
+        }
+      ],
+      "duration_ms": 193881,
+      "name": "Win Yamchi Zine",
+      "url": "https://open.spotify.com/track/3Zlfkuzu8esBnCck3OAztD"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "Aw'at (Acoustic Version)",
         "url": "https://open.spotify.com/album/6pQPztLyEyAIPZEzIzOzs1"
       },
@@ -459,38 +491,6 @@
       "duration_ms": 185345,
       "name": "Aw'at (Acoustic Version)",
       "url": "https://open.spotify.com/track/0v034Wtk8VdmetOJGMAVZV"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Best of Cameleon",
-        "url": "https://open.spotify.com/album/2jEH3fpo2Jv9H8MYWmFU02"
-      },
-      "artists": [
-        {
-          "name": "Cameleon",
-          "url": "https://open.spotify.com/artist/6S2OpU5mNabEiTOEcTJ8Y9"
-        }
-      ],
-      "duration_ms": 295266,
-      "name": "Walleh",
-      "url": "https://open.spotify.com/track/1kgBYAd72ZhwTDWeffZqDL"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "\u0622\u0647 \u064a\u0627 \u0633\u0644\u0637\u0627\u0646\u064a",
-        "url": "https://open.spotify.com/album/3YVwJwSUGOnWiDgIirPjoN"
-      },
-      "artists": [
-        {
-          "name": "Nabyla Maan",
-          "url": "https://open.spotify.com/artist/11MBLpYXQnyoJN5wJ9NQhW"
-        }
-      ],
-      "duration_ms": 268500,
-      "name": "\u0622\u0647 \u064a\u0627 \u0633\u0644\u0637\u0627\u0646\u064a",
-      "url": "https://open.spotify.com/track/1ZrtmwKkF7LEl8fgOn4h0d"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Keda Bardou (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3DRoMceTit2X7pVuxGk0SJ"
-      },
-      "artists": [
-        {
-          "name": "Maya Diab",
-          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
-        }
-      ],
-      "duration_ms": 163631,
-      "name": "Keda Bardou - Acoustic Version",
-      "url": "https://open.spotify.com/track/1pfjYmRDZtkza7Z1nAkb32"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Revelation of Ecstasy and Rebellion",
         "url": "https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 354760,
       "name": "The Taste of Love",
       "url": "https://open.spotify.com/track/0RFU7SHpffAeG65QzNvy18"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Keda Bardou (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3DRoMceTit2X7pVuxGk0SJ"
+      },
+      "artists": [
+        {
+          "name": "Maya Diab",
+          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
+        }
+      ],
+      "duration_ms": 163631,
+      "name": "Keda Bardou - Acoustic Version",
+      "url": "https://open.spotify.com/track/1pfjYmRDZtkza7Z1nAkb32"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "W3od",
-        "url": "https://open.spotify.com/album/3bHgKovmK3owcLCYh8nGFq"
-      },
-      "artists": [
-        {
-          "name": "MoJaNaD",
-          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "W3od",
-      "url": "https://open.spotify.com/track/1OeKW3YAJXqdR3cx3OVxlg"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Ella Enta (Live Session)",
         "url": "https://open.spotify.com/album/5FT5xEJlyZtt1XIRZbxaq3"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 248952,
       "name": "Ella Enta - Live Session",
       "url": "https://open.spotify.com/track/1l85llrpN5nsLuEdKlGQFQ"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "W3od",
+        "url": "https://open.spotify.com/album/3bHgKovmK3owcLCYh8nGFq"
+      },
+      "artists": [
+        {
+          "name": "MoJaNaD",
+          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "W3od",
+      "url": "https://open.spotify.com/track/1OeKW3YAJXqdR3cx3OVxlg"
     },
     {
       "added_at": "2022-05-09 08:05:11",

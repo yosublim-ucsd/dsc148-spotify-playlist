@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno music, updated every friday 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,833 likes - 37 songs - 2 hr 7 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,841 likes - 38 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 12 | [I Want Your Soul \- AVH Rework](https://open.spotify.com/track/7rmSMSQwRNQtOU2mcz8ubs) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [I Want Your Soul \(AVH Rework\)](https://open.spotify.com/album/3V0gTcJZRbokUfN7kSRIIn) | 2:33 |
 | 13 | [You Feel](https://open.spotify.com/track/5rsxpe0Jqg804aRryqw7Hs) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [You Feel](https://open.spotify.com/album/00le7WzuiUjS7C6zl5lzdu) | 3:00 |
 | 14 | [If These Walls Could Talk](https://open.spotify.com/track/7JlAyP7iel14JmHM01iNHb) | [Bryan Softwell](https://open.spotify.com/artist/3BoPm6NYFfRsuJplyNuUzf) | [If These Walls Could Talk EP](https://open.spotify.com/album/4abW8Bpxhe1F4n7Aw9eQMc) | 6:07 |
-| 15 | [System](https://open.spotify.com/track/1Xio5cQPFkGh1RZOBlOPVO) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [System](https://open.spotify.com/album/10sdLjtJkKLiFE7Ohmm3Oh) | 5:20 |
+| 15 | [System](https://open.spotify.com/track/1Xio5cQPFkGh1RZOBlOPVO) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI) | [System EP](https://open.spotify.com/album/10sdLjtJkKLiFE7Ohmm3Oh) | 5:20 |
 | 16 | [Freak Out](https://open.spotify.com/track/42w1i3guWLaz1VeEJUsbL0) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Silque](https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW) | [Freak Out](https://open.spotify.com/album/62OsTy7hkNuFKAwFR4L7ro) | 2:18 |
 | 17 | [Balkan](https://open.spotify.com/track/1i0ZQ72AAnVIL0FbZGAvRX) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Balkan EP](https://open.spotify.com/album/5JsA1GvTSj2I0KobGuNN34) | 2:22 |
 | 18 | [Marabunta](https://open.spotify.com/track/7Gj66OhPqcQYMTt1ZFqS2N) | [Jargen](https://open.spotify.com/artist/7eNmYIb1F1EUjKBc4UIJBl), [Sliipow](https://open.spotify.com/artist/5nx5ccWrSWtJIpxjcCplLx), [Roman](https://open.spotify.com/artist/4JtSkt6BHUs5KCXI8dzuLg) | [Marabunta](https://open.spotify.com/album/5rYvsI7is4N4aNBb10K8ut) | 6:15 |
@@ -45,5 +45,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 35 | [Old Skool](https://open.spotify.com/track/5dyJBdgctRWcJa91o6UjTj) | [MISS DRE](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P), [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7) | [Old Skool](https://open.spotify.com/album/5eiH0pVNBEiwZwYeb0fEW8) | 2:33 |
 | 36 | [The Space](https://open.spotify.com/track/2BLFJHSfc0ofSdz9l7foDP) | [Go Freek](https://open.spotify.com/artist/2aRd7rRSUjtZ6WPG5GsBO6), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [The Space](https://open.spotify.com/album/7esmpq4CUhJI3gjHmycWHl) | 3:06 |
 | 37 | [Dreamer](https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Dreamer](https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ) | 3:35 |
+| 38 | [Keep On Dancing](https://open.spotify.com/track/3iQo5xKxX0KUy594uytQ0e) | [KOCHAM](https://open.spotify.com/artist/07gJZgbJwBIKN2DmCn7Dqu) | [Keep On Dancing](https://open.spotify.com/album/7eJmtEYNcJjDZjfKvN1g62) | 3:05 |
 
-Snapshot ID: `Nzk5MCw5ZjEwZjU3YTVkYTFiYzcyODc1MWIyZjQ5OTI3MzA5MmU2ODk0MzAw`
+Snapshot ID: `Nzk5MSw4ZjM5ZGRmOWNlODUxYzlkMTM4MTZmMDM1ZjNjNjAxOTAzZGE5ZmMy`

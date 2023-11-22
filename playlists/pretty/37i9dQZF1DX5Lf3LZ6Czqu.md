@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Angel Vivaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,879 likes - 101 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,973 likes - 101 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,10 +80,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 70 | [The Roaring Twenties](https://open.spotify.com/track/7jrR6S8gfJyVrWZ8K5FmsB) | [Maarten Ouweneel](https://open.spotify.com/artist/4tZfjyeyjqlORFxtCYJdjG) | [The Roaring Twenties](https://open.spotify.com/album/6Sy81CHsix5Idl3jkXs5sw) | 4:58 |
 | 71 | [Headless Chicken](https://open.spotify.com/track/5rDXHvjM3oIlEpkq0iao8N) | [Marbin](https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16) | [Headless Chicken](https://open.spotify.com/album/4dZ8oDnHYryYJ66VKiBjxD) | 8:39 |
 | 72 | [Fat Hair](https://open.spotify.com/track/7xtnntJ25E0IGT9fQny0IP) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Bird of Passage](https://open.spotify.com/album/1nrKhiNrFuverJiIo1zliu) | 3:42 |
-| 73 | [When She Leaves](https://open.spotify.com/track/2Z29IIOq6xaec3uwJj84Uq) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 1:20 |
+| 73 | [When She Leaves](https://open.spotify.com/track/2Z29IIOq6xaec3uwJj84Uq) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 1:20 |
 | 74 | [Falling Up](https://open.spotify.com/track/76u0xybJDLKrKS8TOnIE40) | [Allen Hinds](https://open.spotify.com/artist/3GxEPmRiVDifXYi0mswBAK) | [Falling Up](https://open.spotify.com/album/4j7MhzKAEAEzCSD9dXC4uK) | 4:45 |
 | 75 | [Theme from a Perfect World](https://open.spotify.com/track/5s25dl6bXuRn6nyGJMgwe5) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj) | [Theme from a Perfect World](https://open.spotify.com/album/62bvGtckemXfkTyTs0sFbi) | 7:26 |
-| 76 | [I Don't Funk with You](https://open.spotify.com/track/2eiK5sjccZJdNTq8Qej596) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 2:33 |
+| 76 | [I Don't Funk with You](https://open.spotify.com/track/2eiK5sjccZJdNTq8Qej596) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 2:33 |
 | 77 | [Flight Mode](https://open.spotify.com/track/4X7Jsy8kRkRz7LHrrtFunn) | [Mr\. Fastfinger](https://open.spotify.com/artist/2EwvEoMSkP2QHZfLoN7AVd), [Mika Tyyskä](https://open.spotify.com/artist/7I3GNszuWihe6wYylLTuie) | [Flight Mode](https://open.spotify.com/album/4hAUsySEtN8LtIyC3hzeTC) | 4:14 |
 | 78 | [Action Boyz](https://open.spotify.com/track/1vyWw3z1eW510h1DfcjOBq) | [Owane](https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2), [Jack Gardiner](https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo) | [Guardian Spirits of the Quantum Multiverse](https://open.spotify.com/album/5BX8DiVw5Um6m93W6ZvuO5) | 3:08 |
 | 79 | [California Waves](https://open.spotify.com/track/40GKKivAkAwgM0rTibvNmn) | [Lari Basilio](https://open.spotify.com/artist/74cXaGQVjndcGMGcxWz7j0), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ), [Greg Phillinganes](https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu) | [Far More](https://open.spotify.com/album/2yt2ezg0pwAQwDfkT4TqAw) | 3:53 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 100 | [Tumescent](https://open.spotify.com/track/47XVn2ciuhWqHorHdWn89D) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [All's Well That Ends Well](https://open.spotify.com/album/37Ge505lCbErq9PAjkKEyd) | 4:02 |
 | 101 | [The Answer](https://open.spotify.com/track/1ez3IST5sbHJsHXhzefpDR) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Slow](https://open.spotify.com/album/5F5w7O6boIDy3lKnrzxXNP) | 1:16 |
 
-Snapshot ID: `MCw4ZWJiYTljMzI5N2EzNjM1N2E1NmU1YWQ4YjFmMjUxZGJmMWU1ZmJi`
+Snapshot ID: `MCxjZDkxMDcxZjVjNjJhODAwYzFlNWMyMDAzZWQzMWQ1N2I2Mjg5Mzlh`

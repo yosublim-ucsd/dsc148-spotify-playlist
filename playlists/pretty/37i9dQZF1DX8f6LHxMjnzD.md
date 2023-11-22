@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Offset
 
-[Spotify](https://open.spotify.com/user/spotify) - 867,617 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 867,595 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [TEQUILA](https://open.spotify.com/track/38LKH0Af9y2fdgQLpOr1sS) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [TEQUILA](https://open.spotify.com/album/5g9iR0BMaHokdsxPERf5rB) | 3:03 |
 | 40 | [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 |
 
-Snapshot ID: `MCw5Njc0MTc4YTZmMjdiZTgwOGExMjM3NjJjZWIxODM1MjhlYTNmMjUx`
+Snapshot ID: `MCw2NmI3YTZiM2Y4ZjEwZGI3ZGE3OGIyYmQ1NGUzZjQzZGM2NWRlMWM1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Ofenbach, Norma Jean Martine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,797,442 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,797,572 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [High On Life](https://open.spotify.com/track/63yVtv3jDnjMa89SD7uYj2) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [High On Life](https://open.spotify.com/album/0A4eJEZQmWWNB2jPrE0xuR) | 3:19 |
 | 50 | [Wake Me Up \- Radio Edit](https://open.spotify.com/track/6d0T2bz3qCRTtG126QFkp3) | [MOLOW](https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Wake Me Up](https://open.spotify.com/album/4GfBtGzN9za6LxsOgWU7jT) | 2:48 |
 
-Snapshot ID: `MCxlZjJjOTIxMWQ5MjdhNmNiNDg2MDU3YTZlNDkyN2Y5NWQzY2I2ODIy`
+Snapshot ID: `MCxhZjA4MmY3ZDhhZjY5YzVjZDJmMWI2M2EyNGU3YjU4YWVhZTdlZjUy`

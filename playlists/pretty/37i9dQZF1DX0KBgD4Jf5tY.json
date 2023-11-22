@@ -1,13 +1,185 @@
 {
   "description": "Solo musica italiana indipendente, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:6l4tbTRTSxsnEubYgnd2u9\">fluente</a>",
-  "num_followers": 7669,
+  "num_followers": 7674,
   "original_name": "Fresh Finds Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzFjNGVjNWVlMGFmNWYxOWI2NTFiYTEzYTE0ZGNiNTNkZmY2YTAz",
+  "snapshot_id": "MCw2NmJjZTYzZDUyMjU3Yzg0ZTc3NDBkYWJmZjNhODJkZDBhMmE4NTc3",
   "tracks": [
+    {
+      "added_at": "2023-11-21 23:01:00",
+      "album": {
+        "name": "NON C'HO VOGLIA",
+        "url": "https://open.spotify.com/album/0DfhGcBmei3dnp2pXPU9q1"
+      },
+      "artists": [
+        {
+          "name": "venerd\u00ec",
+          "url": "https://open.spotify.com/artist/0v9674wp1zmIxhlfpjBXfo"
+        }
+      ],
+      "duration_ms": 168923,
+      "name": "NON C'HO VOGLIA",
+      "url": "https://open.spotify.com/track/0PJuBiUN2seAh7Ia33OYA9"
+    },
+    {
+      "added_at": "2023-11-21 23:01:00",
+      "album": {
+        "name": "Non ti credo",
+        "url": "https://open.spotify.com/album/0fPKyI7zy1RO4VU5jZ64EX"
+      },
+      "artists": [
+        {
+          "name": "Saintess",
+          "url": "https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J"
+        },
+        {
+          "name": "aura6am",
+          "url": "https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU"
+        }
+      ],
+      "duration_ms": 140724,
+      "name": "Non ti credo",
+      "url": "https://open.spotify.com/track/0fzky2CPINj0Y3QiTMGUqs"
+    },
+    {
+      "added_at": "2023-11-21 23:01:00",
+      "album": {
+        "name": "Stefano",
+        "url": "https://open.spotify.com/album/3rOAf8bWbzAMWrWwBQRhc0"
+      },
+      "artists": [
+        {
+          "name": "le vite degli altri",
+          "url": "https://open.spotify.com/artist/5MXyajGaB4FejUzTBE8Oyi"
+        }
+      ],
+      "duration_ms": 184813,
+      "name": "Stefano",
+      "url": "https://open.spotify.com/track/4x2ujpyYo1aKwZY2VdY3i2"
+    },
+    {
+      "added_at": "2023-11-21 23:01:00",
+      "album": {
+        "name": "Comm'\u00e8",
+        "url": "https://open.spotify.com/album/395APju1iPROdQXgoNvfpR"
+      },
+      "artists": [
+        {
+          "name": "Anna and Vulkan",
+          "url": "https://open.spotify.com/artist/338OK54trmorxC1704hKpD"
+        }
+      ],
+      "duration_ms": 197399,
+      "name": "Comm'\u00e8",
+      "url": "https://open.spotify.com/track/1l7AOWBhRF7zciDbybV3hi"
+    },
+    {
+      "added_at": "2023-11-21 23:01:00",
+      "album": {
+        "name": "ANIMALESSERE",
+        "url": "https://open.spotify.com/album/3blCKuY6EzVYPlluFR942T"
+      },
+      "artists": [
+        {
+          "name": "NUBIARSE",
+          "url": "https://open.spotify.com/artist/7KYEK9g2ajKzn9n0tWCxSl"
+        }
+      ],
+      "duration_ms": 158669,
+      "name": "Chi Sei Tu?",
+      "url": "https://open.spotify.com/track/39WWF2Q80B8mLthyJbKEfx"
+    },
+    {
+      "added_at": "2023-11-21 23:01:00",
+      "album": {
+        "name": "Si putesse",
+        "url": "https://open.spotify.com/album/4Ac6H4rfj4AMQO0rxOEmIJ"
+      },
+      "artists": [
+        {
+          "name": "Rayo",
+          "url": "https://open.spotify.com/artist/4wa7qisFQVyHvGnE93JrDA"
+        }
+      ],
+      "duration_ms": 177167,
+      "name": "Si putesse",
+      "url": "https://open.spotify.com/track/5i4tKtK3OnM5PM0KjWM5FN"
+    },
+    {
+      "added_at": "2023-11-21 23:01:00",
+      "album": {
+        "name": "Litio",
+        "url": "https://open.spotify.com/album/3wtS2TyYLgqynBwiiRolQg"
+      },
+      "artists": [
+        {
+          "name": "Distemah",
+          "url": "https://open.spotify.com/artist/1Jjk9plzVKCCPjqmipNIuK"
+        }
+      ],
+      "duration_ms": 167884,
+      "name": "Litio",
+      "url": "https://open.spotify.com/track/2vw4SyIcrfMtVDzOFC4gmZ"
+    },
+    {
+      "added_at": "2023-11-21 23:01:00",
+      "album": {
+        "name": "multa",
+        "url": "https://open.spotify.com/album/02v7LA7wO1rOF4jMnbbrvT"
+      },
+      "artists": [
+        {
+          "name": "Bilu",
+          "url": "https://open.spotify.com/artist/7kCdQlFzI23kq4VDOKNOws"
+        }
+      ],
+      "duration_ms": 119277,
+      "name": "multa",
+      "url": "https://open.spotify.com/track/4yt0GAqL091yBYXp7gz44b"
+    },
+    {
+      "added_at": "2023-11-21 23:01:00",
+      "album": {
+        "name": "ARIAH",
+        "url": "https://open.spotify.com/album/5CJuBor0wzFBq4Vuc6LoTH"
+      },
+      "artists": [
+        {
+          "name": "Keitho",
+          "url": "https://open.spotify.com/artist/69ijR6KQt5CmkVMurO8eX5"
+        },
+        {
+          "name": "Hybrido",
+          "url": "https://open.spotify.com/artist/2C0B8pJz2cga9qRoR41Xmz"
+        },
+        {
+          "name": "Thomie",
+          "url": "https://open.spotify.com/artist/2fqmvIXvXg6AXU5PIcIVVD"
+        }
+      ],
+      "duration_ms": 101904,
+      "name": "ARIAH",
+      "url": "https://open.spotify.com/track/1pYrbPCQr7QNEXA2jCRWwV"
+    },
+    {
+      "added_at": "2023-11-21 23:01:00",
+      "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/3RhxqTTmoS4mc1mQHRAtHp"
+      },
+      "artists": [
+        {
+          "name": "Club Rivera",
+          "url": "https://open.spotify.com/artist/1L4K8LgLv7PjcRWILPgKZs"
+        }
+      ],
+      "duration_ms": 295320,
+      "name": "Rain is still fine",
+      "url": "https://open.spotify.com/track/7wgPfPXhpXYzfLqsHumKyn"
+    },
     {
       "added_at": "2023-11-14 23:01:00",
       "album": {

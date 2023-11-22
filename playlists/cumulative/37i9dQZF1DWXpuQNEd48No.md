@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Yo Hai Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala & Raftaar
+> Yo Hai Haryanvi Hip\-Hop! Cover: Elvish Yadav
 
-132 songs - 7 hr 7 min
+133 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Kulfa](https://open.spotify.com/track/4zKDlQCxNiPXzMIobrPbNh) | [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE) | [Kulfa](https://open.spotify.com/album/7CmYhs6j6VNKTgDGkYQdkq) | 3:06 | 2023-04-28 | 2023-06-11 |
 | [Kurta Pajama](https://open.spotify.com/track/3bGBZ5hsWJU9WfMXeajHw7) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2) | [Kurta Pajama](https://open.spotify.com/album/1NAmbgqpAiLinz2r5d1mcQ) | 2:58 | 2023-03-28 | 2023-07-07 |
 | [Laado](https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Laado](https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB) | 2:28 | 2023-08-31 |  |
-| [Lal Dabbi](https://open.spotify.com/track/5DKyVzIjrD99sb4i1gp3bh) | [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs), [Bulbul](https://open.spotify.com/artist/1xFXeCGBk96SDtK0TmDolR) | [Lal Dabbi](https://open.spotify.com/album/5D3nsWdMjguRgVKibtbVFi) | 3:04 | 2023-11-06 |  |
+| [Lal Dabbi](https://open.spotify.com/track/5DKyVzIjrD99sb4i1gp3bh) | [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs), [Bulbul](https://open.spotify.com/artist/1xFXeCGBk96SDtK0TmDolR) | [Lal Dabbi](https://open.spotify.com/album/5D3nsWdMjguRgVKibtbVFi) | 3:04 | 2023-11-06 | 2023-11-22 |
 | [MAHAKAAL](https://open.spotify.com/track/6bwmcJiXjx2297D0mgdeFF) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [MAHAKAAL](https://open.spotify.com/album/6P1oRqxxhiRkmOvSdG0hw0) | 3:19 | 2023-03-28 |  |
 | [Mashooka](https://open.spotify.com/track/78iOfBb1DWPhKzihpDGZf5) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Mashooka](https://open.spotify.com/album/5YIfNbv6RRMIdjP2hvF1Nc) | 2:28 | 2023-09-27 |  |
 | [Mcoca](https://open.spotify.com/track/1xbltijhuDs1FqqnBplv8l) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Mcoca](https://open.spotify.com/album/1LTxGYiIFEo8KzqpEkJKS1) | 3:13 | 2023-03-28 |  |
@@ -138,6 +138,7 @@
 | [Unstoppable](https://open.spotify.com/track/6IePbDU29ymA3unC9NoETt) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Unstoppable](https://open.spotify.com/album/2iVLy5zu6a1W3gz8VK4azB) | 3:19 | 2023-10-09 |  |
 | [Up To U](https://open.spotify.com/track/7695jWrVLrftHb9ChEmFCg) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/3LqdYNb1s5tt77gpYkMeeF) | 3:08 | 2023-10-06 |  |
 | [Vampire](https://open.spotify.com/track/31olLVhKdDW291OezbnDZt) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM) | [Vampire](https://open.spotify.com/album/5KI34lG871b5QkuNHKeIn1) | 5:06 | 2023-03-28 |  |
+| [Vehem](https://open.spotify.com/track/6ZvrPAj3CE6yEi6IPP5Vjh) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Vehem](https://open.spotify.com/album/7yAES0qSOCdfBs045ZwmiU) | 2:57 | 2023-11-21 |  |
 | [Yaar Haryane Te](https://open.spotify.com/track/7M5rtXfBW7FZ9gEWkw2uDR) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Yaar Haryane Te](https://open.spotify.com/album/2T5gjowpYgITFECRvQcFOE) | 4:03 | 2023-03-28 |  |
 | [Yamraaj](https://open.spotify.com/track/3YaeW3xxbjiLITtHQIK3y0) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Yamraaj](https://open.spotify.com/album/6yXzEfYAv5KsrReCdVWgJw) | 3:29 | 2023-03-28 |  |
 

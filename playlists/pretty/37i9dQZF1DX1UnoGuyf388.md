@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 
 > Pop music driving the current, every week\.  Cover: Billy Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,373 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,385 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UnoGuyf388.md) - [plain]
 | 69 | [Better Off Alone](https://open.spotify.com/track/5XZctn11QB8rHaPWkqtiSn) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [TECHNICOLOR](https://open.spotify.com/album/5exi3yRTbh6d22GFMToL0z) | 2:42 |
 | 70 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 |
 
-Snapshot ID: `MCxmZTdmNDQxNjExYzY2MTdiYTYzODBhNmVjMGMwNzVhYzJkNmZjYzk0`
+Snapshot ID: `MCxmODUzZDU2YjEyNjgxYzdlODJmNTRmNzkxYTIyY2QwNzM0ODMyYzYx`

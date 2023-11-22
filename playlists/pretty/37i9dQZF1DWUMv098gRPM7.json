@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: Majid Jordan",
-  "num_followers": 8196,
+  "num_followers": 8269,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTc3M2ZlNDkzYjYxN2U0MjFmYWFhMmU4Yzk3NzA5ZTI4M2M3OGFi",
+  "snapshot_id": "MCwyYjVjZWQ0ZmIzOTVkOWIwZmFlZTk0OWVjZDU3OWQzMzg4MGQ2YWQ1",
   "tracks": [
     {
       "added_at": "2023-11-17 05:01:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
+        "name": "Mixed Emotions",
+        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "duration_ms": 158737,
+      "name": "Touch You",
+      "url": "https://open.spotify.com/track/1eloKbVFeduo6qxp7xqhQ0"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
         "name": "When It Blooms",
         "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 191952,
       "name": "Kilimanjaro (with BEAM)",
       "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
-        "name": "Mixed Emotions",
-        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
-      },
-      "artists": [
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        }
-      ],
-      "duration_ms": 158737,
-      "name": "Touch You",
-      "url": "https://open.spotify.com/track/1eloKbVFeduo6qxp7xqhQ0"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
+        "name": "Time Goes \"Bye\"",
+        "url": "https://open.spotify.com/album/40VUN4AbGTVF4JQgnSRL0e"
+      },
+      "artists": [
+        {
+          "name": "Jex Nwalor",
+          "url": "https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8"
+        }
+      ],
+      "duration_ms": 261027,
+      "name": "Time Goes \"Bye\"",
+      "url": "https://open.spotify.com/track/01PUsoJjBsFweo5SHoQPeX"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
         "name": "soft thing",
         "url": "https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 151055,
       "name": "Vibe for Me (Bob for Me)",
       "url": "https://open.spotify.com/track/0DfvMYHipoZ3u0AJf4LjKF"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
-        "name": "Time Goes \"Bye\"",
-        "url": "https://open.spotify.com/album/40VUN4AbGTVF4JQgnSRL0e"
-      },
-      "artists": [
-        {
-          "name": "Jex Nwalor",
-          "url": "https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8"
-        }
-      ],
-      "duration_ms": 261027,
-      "name": "Time Goes \"Bye\"",
-      "url": "https://open.spotify.com/track/01PUsoJjBsFweo5SHoQPeX"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Lost In You",
-        "url": "https://open.spotify.com/album/23kfRYglxsFBBSNQ0uEZOt"
+        "name": "Live Inside",
+        "url": "https://open.spotify.com/album/1KQsxZhpiCYO1fvmmfqvvi"
       },
       "artists": [
         {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
         }
       ],
-      "duration_ms": 153293,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/7N2r26B4SQ9YTjacvK03P1"
+      "duration_ms": 207680,
+      "name": "Live Inside",
+      "url": "https://open.spotify.com/track/4OdIxs1Y7DXHxnqQxkP3tT"
     }
   ],
   "unique_name": "R&B Rewind",

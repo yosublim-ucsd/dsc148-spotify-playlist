@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Juan De Ron, Eduardo Laguna, Christian Lara, Nivel, Omar Rodriquez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,726 likes - 176 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,778 likes - 176 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 175 | [La Gripa Del Perico](https://open.spotify.com/track/4VTRF8XNXWoO2tAffbaSpi) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [Mas Me Rinde La Hielera](https://open.spotify.com/album/4AqWWqIvVnQYWRD5bmLl8R) | 3:02 |
 | 176 | [El Arbol De Mi Familia](https://open.spotify.com/track/5ABXU27kjthunVsP9gwfZp) | [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [Mas Me Rinde La Hielera](https://open.spotify.com/album/4AqWWqIvVnQYWRD5bmLl8R) | 3:06 |
 
-Snapshot ID: `MCw5NDQzOTE3MjEwOTNkNmU3ZWI5MTA0MDViYzE3YzUzZTFhZDkxZTQ1`
+Snapshot ID: `MCxkMDdjOTJhMDYyNWQyNjVlZWYxM2Y3MmE2NjZlNTZiMzk5ZjNkMGFi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz7CcPuNVXF.md) - [plain]
 
 > Stay relaxed with these timeless easy\-listening songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,808 likes - 20 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,883 likes - 20 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaz7CcPuNVXF.md) - [plain]
 | 19 | [Everything](https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Call Me Irresponsible](https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22) | 3:32 |
 | 20 | [Sunday Morning](https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:04 |
 
-Snapshot ID: `MCw0MmRjZjYyNWQ0NTE4YjhkNzk3MDIyM2VlZmYzZjRlYmNmOGEyZTE0`
+Snapshot ID: `MCw2N2JhNjM0ZjNjMGM4YjdiYzFkYjAxZDIyZGE5ZGI3YzJhOTY1NThm`

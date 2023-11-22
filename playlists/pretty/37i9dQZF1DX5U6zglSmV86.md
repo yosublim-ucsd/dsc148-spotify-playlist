@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 
 > Nuestra alma mater es la calle\. La Santa Grifa en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,260 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,268 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 | 66 | [Sangre Fría](https://open.spotify.com/track/7v7PbRe43fszZckZQkrzJz) | [Shainy](https://open.spotify.com/artist/1dWbgySTFdOiYwHXESFqIJ), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Sangre Fría](https://open.spotify.com/album/0LqPMeRqfjt6ogzS8hxE7w) | 3:44 |
 | 67 | [No Cambio](https://open.spotify.com/track/4JU0mlUVCsyjAsDU5Y9GdZ) | [Mudo Beats](https://open.spotify.com/artist/1TDWRnXFEYnOO4gUn1ZXN1), [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Vizual Dealer](https://open.spotify.com/artist/55rW4Zyiqqky6OxedADMkY) | [No Cambio](https://open.spotify.com/album/57mBr7meCLPPOVv7bS4WEU) | 5:30 |
 | 68 | [Los Pizzas](https://open.spotify.com/track/3bLQpegrU5malKNhQKXpeR) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH), [Victor Rivera Y Su Nuevo Estilo](https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4) | [Los Pizzas](https://open.spotify.com/album/2QQIg514vVQfqwOYNbcIm0) | 2:16 |
-| 69 | [SWITCH](https://open.spotify.com/track/60hha07HcgmqYb89l9o4NQ) | [Tony Trampa](https://open.spotify.com/artist/6Vr3k8kDA4fINICtY4tcb7), [TALE$](https://open.spotify.com/artist/5w9YZfwWPTeCQn6QEGieIU), [Tona Sativa](https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK), [Rich ODB](https://open.spotify.com/artist/4wbmYiCWerkG8IQiJx6NpX), [Killa ODB](https://open.spotify.com/artist/2HPoKDZTfkX52ENDHgqPm2), [Wesos El Savage](https://open.spotify.com/artist/2Ei5kNvEc7wSrdaJDu3coa) | [SWITCH](https://open.spotify.com/album/6WEtBN0HY8umVNrHFcGlzJ) | 4:41 |
+| 69 | [SWITCH](https://open.spotify.com/track/60hha07HcgmqYb89l9o4NQ) | [Tony Trampa](https://open.spotify.com/artist/6Vr3k8kDA4fINICtY4tcb7), [TALE$](https://open.spotify.com/artist/5w9YZfwWPTeCQn6QEGieIU), [T.O.N.A](https://open.spotify.com/artist/10UmrqEfeg6yiGZo5qKqyK), [Rich ODB](https://open.spotify.com/artist/4wbmYiCWerkG8IQiJx6NpX), [Killa ODB](https://open.spotify.com/artist/2HPoKDZTfkX52ENDHgqPm2), [Wesos El Savage](https://open.spotify.com/artist/2Ei5kNvEc7wSrdaJDu3coa) | [SWITCH](https://open.spotify.com/album/6WEtBN0HY8umVNrHFcGlzJ) | 4:41 |
 | 70 | [Aqui no dominas nada](https://open.spotify.com/track/1lGKVCGOgKSiDJbnvNUMyU) | [W\. Corona](https://open.spotify.com/artist/2wqy0ojBEcx7OvHezdGDXQ) | [8 Diamantes](https://open.spotify.com/album/1Zg4Cot6eVwmbHimkp2zc0) | 3:43 |
 | 71 | [Se Le Batalla](https://open.spotify.com/track/0VEgZAhQ59CxSnPAjay03D) | [HR Dave](https://open.spotify.com/artist/2ivk6qPEBKEAbtbV8hqw07), [El Pinche Brujo](https://open.spotify.com/artist/1LjUlFOtTxcvWZQldBMSOW) | [Se Le Batalla](https://open.spotify.com/album/5UgBCPw2xI04J69Sg0pGTY) | 3:47 |
 | 72 | [BIEN](https://open.spotify.com/track/3SojRz8QWCcDobJTkEC56e) | [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP), [Doble P Ache Ene](https://open.spotify.com/artist/5yh17UV0XSFV1lzzFC39XR) | [BIEN](https://open.spotify.com/album/6D2pfqxHrPDnJGnUNlubJD) | 3:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 | 79 | [HDP](https://open.spotify.com/track/6Yz3ftaOXFBSIUh8DKFoLp) | [Duendy](https://open.spotify.com/artist/6EcbitbSqckbOT8K5Bjhrk), [Dorian Cracken](https://open.spotify.com/artist/1qrJLoZNlTEVIg47qBWCnc), [Cuervo Loomi](https://open.spotify.com/artist/5I3JpPqcXZjUiLOmDFKQfE) | [HDP](https://open.spotify.com/album/671zdpfcfgpxxEsEP3XUo5) | 3:42 |
 | 80 | [Nos Van a Conocer](https://open.spotify.com/track/1XcODam3aq5Zs70GFXlhei) | [Agw Beats](https://open.spotify.com/artist/5cCs0AWlMd3d3sBMqE2gLy), [Char MX](https://open.spotify.com/artist/4iE0sXv3Oyfskggb2BKjnW), [Kambu](https://open.spotify.com/artist/57rDkxjPOZ5Tvy1MbSv9nQ) | [Nos Van a Conocer](https://open.spotify.com/album/3iXBS3JlOxBn65Q1uBTvLc) | 3:12 |
 
-Snapshot ID: `MCw1M2U2ZjUzM2Y1YmZiYzhhNzAxYWY5YThkMjlmNGI1ZWZhMjA3ZGM0`
+Snapshot ID: `MCw5MjY2MTUyZDE2NjQ0MGQ4ZWZhZTJjN2MyODE1NWI4Y2Y0OWEwY2Q3`

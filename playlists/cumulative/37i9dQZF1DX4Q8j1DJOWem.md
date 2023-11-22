@@ -4,7 +4,7 @@
 
 > ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย\. ปก: PUN
 
-132 songs - 8 hr 19 min
+133 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [ลืมไปแล้วว่าลืมยังไง \(Fade\)](https://open.spotify.com/track/4gNkIyfaf2iwPgeLSVIj8O) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ลืมไปแล้วว่าลืมยังไง \(Fade\)](https://open.spotify.com/album/3HMAApilEcTJ4HZ8xMvlh6) | 4:22 | 2022-09-23 |  |
 | [ลูกเทวดา](https://open.spotify.com/track/37hVWVtSjHJjSSuEmeXdet) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [ลูกเทวดา](https://open.spotify.com/album/1wA0Hk3CI8w8lrKNKfSb4a) | 2:01 | 2023-03-23 | 2023-04-19 |
 | [วันนี้คือพรุ่งนี้ของเมื่อวาน \(Loop\)](https://open.spotify.com/track/0sy9KKtn79mAumL6ImSjoI) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [วันนี้คือพรุ่งนี้ของเมื่อวาน \(Loop\)](https://open.spotify.com/album/1CSCDhch6bUx2o8ibPTJAc) | 4:26 | 2022-09-15 | 2023-01-11 |
-| [วันนี้เธอเก่งมากแล้ว](https://open.spotify.com/track/550qprwsd0ICIzDcrVhzhY) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [วันนี้เธอเก่งมากแล้ว](https://open.spotify.com/album/1yxMwyiGUaOeVmoK0fwyIG) | 4:39 | 2023-08-25 |  |
+| [วันนี้เธอเก่งมากแล้ว](https://open.spotify.com/track/550qprwsd0ICIzDcrVhzhY) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [วันนี้เธอเก่งมากแล้ว](https://open.spotify.com/album/1yxMwyiGUaOeVmoK0fwyIG) | 4:39 | 2023-08-25 | 2023-11-22 |
 | [สุขสันต์วันครบรอบ](https://open.spotify.com/track/34dOw4pfjiyTNOr4tSLf3Z) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [First Anuwat](https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny) | [สุขสันต์วันครบรอบ](https://open.spotify.com/album/4hT9XktGfBnIarFtL2kpcZ) | 4:50 | 2023-05-08 | 2023-06-23 |
 | [หมอนข้าง](https://open.spotify.com/track/4QBb6jWjJQ4AAZwiCkCyvX) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [หมอนข้าง](https://open.spotify.com/album/0Drbw1FOrgz3WiwHfejmFT) | 3:23 | 2023-07-21 |  |
 | [หัวใจ \(The Reason Why I Live\)](https://open.spotify.com/track/63QIlrzh79BhQYrd9FuR5A) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg), [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [หัวใจ \(The Reason Why I Live\)](https://open.spotify.com/album/4ETXZZ3z3Q4OBTy2Jmnq3Q) | 4:39 | 2023-01-10 | 2023-04-14 |
@@ -123,6 +123,7 @@
 | [เพื่อนที่ดี \(good old days\)](https://open.spotify.com/track/6qfpY6fSeF8X25XaEEmBHm) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [เพื่อนที่ดี \(good old days\)](https://open.spotify.com/album/11wS9KhiTUXdZhOAtBXn14) | 3:21 | 2022-09-15 | 2023-04-14 |
 | [เลิกกันแล้ว\(แล้วยังไง\)](https://open.spotify.com/track/2L12dZiM8puWFJBVg7R0wn) | [I HATE MONDAY](https://open.spotify.com/artist/4bZFk69BTd1y2IsxIjO35M) | [เลิกกันแล้ว\(แล้วยังไง\)](https://open.spotify.com/album/5wlDk0JcNyQnJmfLWMWa2v) | 3:13 | 2022-09-15 | 2022-11-24 |
 | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/track/7jLdjsFuLefnYSkDYxfDu9) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/album/24KFghzsx4qWrq6B9U9ZOI) | 3:15 | 2022-09-15 | 2023-06-23 |
+| [เอาความเสียใจมาไว้ที่ฉัน \(Vasopressin\)](https://open.spotify.com/track/1WJ5tWjTdfywqMANcu7jXi) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [เอาความเสียใจมาไว้ที่ฉัน \(Vasopressin\)](https://open.spotify.com/album/4eGLMhfvQ4qCHFZ1XqDTnC) | 4:34 | 2023-11-21 |  |
 | [เอาปากกามาวง](https://open.spotify.com/track/4aDz9NTsLULSvewSLg8lih) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เอาปากกามาวง](https://open.spotify.com/album/7HadcYAjeZGgkiCg0WnPnm) | 3:24 | 2022-09-15 | 2023-04-14 |
 | [แค่ \(what if\)](https://open.spotify.com/track/04QOxY5s2wHKj7WMPc3qDf) | [First Anuwat](https://open.spotify.com/artist/4KjqrvqKO5fbI5yDR5yzny) | [แค่ \(what if\)](https://open.spotify.com/album/2JnFmBAUZDudhnWSzbBGqf) | 3:00 | 2023-08-25 | 2023-08-29 |
 | [แค่เงา \(Hide\)](https://open.spotify.com/track/33JnDNgKlExUckYH3xK78n) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [แค่เงา \(Hide\)](https://open.spotify.com/album/1mulr04By8ZaH9h0dL9Hnj) | 3:36 | 2022-09-15 | 2023-07-22 |

@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti! Novità rock, indie, punk ed emo dall'Italia\. Cover: Bambole Di Pezza
 
-638 songs - 1 day 11 hr 27 min
+639 songs - 1 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Acid Disorder](https://open.spotify.com/track/4t1n0MCx8ZFpo7foNfnbws) | [Giobia](https://open.spotify.com/artist/4pKR1QNX7EW2uRlMWEOMRF) | [Acid Disorder](https://open.spotify.com/album/60glGlFZVSG0O5FfxeXFTr) | 6:21 | 2023-04-20 | 2023-05-12 |
 | [Acqua Bagnami](https://open.spotify.com/track/2cCxcIcuIRMRLEvDUrdHjN) | [Santamarea](https://open.spotify.com/artist/016AD2neE2X7e0ChuREr4o) | [Acqua Bagnami](https://open.spotify.com/album/4BJj638K8ZAasjQw8YDEV5) | 5:08 | 2023-09-21 | 2023-11-17 |
 | [Acufeni](https://open.spotify.com/track/7gl0ggiK2seWoUZekpC994) | [Nobraino](https://open.spotify.com/artist/0j8bZPtWT5Nf60PEarotFf) | [Acufeni](https://open.spotify.com/album/7CxWEWxdO4P0Hxshmoqgdk) | 3:29 | 2023-06-08 | 2023-09-01 |
-| [ADRENALINA](https://open.spotify.com/track/6QaCGYJKeuGrg0jTHv3eS4) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [AMICI COME PRIMA](https://open.spotify.com/album/1CEc97gdSCxBJ53JKzVeXN) | 2:28 | 2023-11-09 |  |
+| [ADRENALINA](https://open.spotify.com/track/5LYTI3bURxYBWPogQEFClx) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [AMICI COME PRIMA](https://open.spotify.com/album/3JWUk346U6XiB7Q1nlTybY) | 2:28 | 2023-11-21 |  |
+| [ADRENALINA](https://open.spotify.com/track/6QaCGYJKeuGrg0jTHv3eS4) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [AMICI COME PRIMA](https://open.spotify.com/album/1CEc97gdSCxBJ53JKzVeXN) | 2:28 | 2023-11-09 | 2023-11-22 |
 | [Aeroporto di città](https://open.spotify.com/track/5AobQ54GCauJZy45LStLg6) | [Eva\-Q](https://open.spotify.com/artist/3cBfELczRjo7xPOzgoBaS9) | [Aeroporto di città](https://open.spotify.com/album/5uu5BlWrM1msUIhiHlP04J) | 2:50 | 2022-12-15 | 2023-03-10 |
 | [Afterimage](https://open.spotify.com/track/4kS29RC8JZ7rxIFOs30ppc) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [Afterimage](https://open.spotify.com/album/12zYtbjFPBR7LVv8yCy0uN) | 2:28 | 2022-08-04 | 2022-08-12 |
 | [Agata](https://open.spotify.com/track/4C2Bpn24iZZHWUSfpQvLiv) | [Alemoa](https://open.spotify.com/artist/0lswjSfiPA2bKp6PHlJISF) | [Agata](https://open.spotify.com/album/5OvRahjqujnEOetZFcPesY) | 3:44 | 2022-05-09 | 2022-06-03 |
@@ -456,7 +457,7 @@
 | [Quando Il Sogno Si Avvera](https://open.spotify.com/track/53hS7kYfegowstBCu9P0fl) | [Øjne](https://open.spotify.com/artist/0zZRbZrBprUwWRKnbaIEXq) | [Sogno \#3](https://open.spotify.com/album/2ZGKnFkK7En0LSTCNGsaCn) | 4:05 | 2023-06-15 | 2023-10-20 |
 | [Quando non c'è nessuno](https://open.spotify.com/track/2vcdJqLYSoL2Uhrs6DlqkN) | [Fine Before You Came](https://open.spotify.com/artist/3TZ3WMTZ0zxiQw8cKTA4wA) | [Ti canto​ / ​Quando non c'è nessuno](https://open.spotify.com/album/1SUL3JTXeNNwqJOj7uQPj4) | 5:04 | 2023-07-13 | 2023-09-22 |
 | [Quattro Mani](https://open.spotify.com/track/3t7lGtFe1sWmlC9XbmZMtR) | [Bluagata](https://open.spotify.com/artist/7omRRCthvOtMCaRhEHx30S) | [Quattro Mani](https://open.spotify.com/album/31YHeb8EdstnKJ40HKYOAI) | 3:08 | 2022-05-09 | 2022-05-13 |
-| [Quelli come noi](https://open.spotify.com/track/6upmplbcaxbVDciIg7UAQh) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [Quelli come noi](https://open.spotify.com/album/4rYhntW2a7ri7dnstTtip8) | 2:48 | 2023-11-16 |  |
+| [Quelli come noi](https://open.spotify.com/track/6upmplbcaxbVDciIg7UAQh) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [Quelli come noi](https://open.spotify.com/album/4rYhntW2a7ri7dnstTtip8) | 2:48 | 2023-11-16 | 2023-11-22 |
 | [Quello Che Non C'è \(feat\. Manuel Agnelli\)](https://open.spotify.com/track/65ieb5XPGR2QmKWcYBMpVx) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1), [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [MOSTRO](https://open.spotify.com/album/1x8hEawwm7gHP3FZFtAfnt) | 3:55 | 2023-04-02 | 2023-04-07 |
 | [Radio](https://open.spotify.com/track/3gPJiyqsPT0VeMSxoDtA0j) | [Leanò](https://open.spotify.com/artist/0pb0sehd5pPALyoCt8B4MV) | [Radio](https://open.spotify.com/album/2JDZQBDwn6sQ5QMLolMR9o) | 2:44 | 2023-06-22 | 2023-08-24 |
 | [Re](https://open.spotify.com/track/2MXmns9bnMQK75QRXglbuE) | [Umberto Maria Giardini](https://open.spotify.com/artist/1jUnq1j9h7jwhefWzS8r95) | [Re](https://open.spotify.com/album/0010d1A2rC7GUI0F9yPNCz) | 3:54 | 2023-11-16 |  |

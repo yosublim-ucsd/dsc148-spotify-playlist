@@ -4,13 +4,13 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-327 songs - 23 hr 36 min
+328 songs - 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [.oOo.](https://open.spotify.com/track/2geihwLMsED3t9okk4Ag6k) | [Mette Henriette](https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP) | [Mette Henriette](https://open.spotify.com/album/6myWUuimrfYOjiXowul6L5) | 3:47 | 2022-06-29 |  |
 | [.oOo.](https://open.spotify.com/track/7vrUHvt40IKya566MZIQol) | [Mette Henriette](https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP) | [Mette Henriette](https://open.spotify.com/album/3H9E1flzXB693dYwZvuBwT) | 3:47 | 2021-12-17 | 2022-07-29 |
-| [22](https://open.spotify.com/track/14WHFYmB7bieMaJCQEQ8jE) | [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh), [Harmen Fraanje](https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz), [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY) | [And Then Comes The Night](https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V) | 4:58 | 2022-05-25 |  |
+| [22](https://open.spotify.com/track/14WHFYmB7bieMaJCQEQ8jE) | [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh), [Harmen Fraanje](https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz), [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY) | [And Then Comes The Night](https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V) | 4:58 | 2022-05-25 | 2023-11-22 |
 | [22 \- Var.](https://open.spotify.com/track/4kYbo2VRkqIwF9joXPDAuH) | [Mats Eilertsen](https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh), [Harmen Fraanje](https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz), [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY) | [And Then Comes The Night](https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V) | 4:58 | 2022-06-01 | 2022-10-08 |
 | [8\-Dust Motes Dancing In The Sunbeams \(Hammershøi\)](https://open.spotify.com/track/64Pqln5ASlvOLzlGGQ9Iz6) | [Jakob Davidsen](https://open.spotify.com/artist/2uaSwkD4g1H5BYouNo4BL8), [Thomas Strønen](https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY), [Jesper Egelund](https://open.spotify.com/artist/3dvSTjrR6LGBW2LSkVpHnD) | [Silence Trio 3](https://open.spotify.com/album/3wiQ4CkjCsvuGgZk6ULxfb) | 5:03 | 2022-06-29 | 2023-10-24 |
 | [A Patch of Old Snow](https://open.spotify.com/track/5wSlPHEoAMlca7sm29Ayoe) | [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS) | [A Patch of Old Snow](https://open.spotify.com/album/1VgkPOavzHFghUa01Y2xch) | 3:47 | 2021-12-17 | 2023-01-27 |
@@ -227,6 +227,7 @@
 | [Richter Sonntag](https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1) | [Nils Berg Cinemascope](https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3) | [We Seem to Be Drifting Apart](https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2) | 2:46 | 2021-12-17 | 2022-11-11 |
 | [Right There](https://open.spotify.com/track/2m6wKuxNH3qDSqdSSRr3r7) | [Tord Gustavsen Quartet](https://open.spotify.com/artist/0yWGF7B6ZQy6HUg0cEP5lq) | [Extended Circle](https://open.spotify.com/album/3Y2Gvmeg7lM8r22Zp53sZJ) | 2:53 | 2022-05-26 | 2023-09-01 |
 | [Ripples of a Stream](https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Ripples of a Stream](https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3) | 4:00 | 2022-11-11 |  |
+| [Road to Eden](https://open.spotify.com/track/1DkwudFUViQRC9K55E7dO3) | [Claire Cross](https://open.spotify.com/artist/6bwpmSl0lkpkKL4WOeTJkM), [Harry Cook](https://open.spotify.com/artist/43ZoUJoa611w4B97Z1xmD2) | [Dialect](https://open.spotify.com/album/4UpbueFifa4yKmDEC1WF4g) | 3:42 | 2023-11-17 |  |
 | [roads](https://open.spotify.com/track/3os2ZWpiap6mjJjuXRwoZw) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK), [Håkon Kornstad](https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2) | [roads](https://open.spotify.com/album/0HZEY9yhNkDxB2fZPoAj92) | 4:46 | 2021-12-17 | 2022-09-15 |
 | [Romancing](https://open.spotify.com/track/5GuytCR8JGCn90ReWuhYvL) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Romancing](https://open.spotify.com/album/7ly2OexnrlJiPdJ9ka7MKS) | 2:55 | 2023-01-19 |  |
 | [Ruins II](https://open.spotify.com/track/3DT8dSU0Vz2mjpyHfIn04W) | [Ayumi Tanaka Trio](https://open.spotify.com/artist/3ay6T09fpLYwib1MxOW9G1) | [Ruins II](https://open.spotify.com/album/62hzQtcRAnkV1nUdFlvckl) | 2:42 | 2021-12-17 |  |

@@ -4,7 +4,7 @@
 
 > Unearthing your new favourite artists\. Cover: Regina Song, Adriel\. Artwork: Isu Kim.
 
-586 songs - 1 day 8 hr 18 min
+587 songs - 1 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,7 +464,8 @@
 | [Stay Here Tonight](https://open.spotify.com/track/39dbWw38KuNL77wf0GlelT) | [Andre Ang](https://open.spotify.com/artist/4OvRMrLoSSnK1HfbFlpq2G), [chocoloe](https://open.spotify.com/artist/17JnpB5VHM95aO5Ae6bInm) | [Stay Here Tonight](https://open.spotify.com/album/3rTG7H3DuRctsGrIpAaGhU) | 3:07 | 2023-06-01 | 2023-10-20 |
 | [STAY WITH ME](https://open.spotify.com/track/4frkW3V6yiL2RWP0Cf0aKY) | [Dan$on](https://open.spotify.com/artist/1H95nqLZEVhgVtON6hxg2T) | [STAY WITH ME](https://open.spotify.com/album/64rsgcGXEhiKWQOJ5Zl9de) | 3:33 | 2023-10-19 |  |
 | [STAY.GO.](https://open.spotify.com/track/13jsHnIl8hKkjN7x4KcSe5) | [Ultra Mega Cat Attack](https://open.spotify.com/artist/72GN0dgKapv61MGo3jubDg) | [STAY.GO.](https://open.spotify.com/album/6UfXSilQp4SnwMcZYCwloN) | 2:59 | 2022-03-03 | 2022-06-17 |
-| [Stepped Out](https://open.spotify.com/track/6h60gzTtGD8s6FxUknwPxU) | [Count Vernon](https://open.spotify.com/artist/2047BIPNm8CrFvFRmu8CvS) | [The Nomad Diaries](https://open.spotify.com/album/2K4lmCE2cPoRlI3QtHSYbW) | 3:31 | 2023-11-09 |  |
+| [Stepped Out](https://open.spotify.com/track/5ahoBmPEdFeMDtfoRnVTih) | [Count Vernon](https://open.spotify.com/artist/2047BIPNm8CrFvFRmu8CvS) | [The Nomad Diaries](https://open.spotify.com/album/6PoVtTqUjdDFE67k4YN4YC) | 3:31 | 2023-11-17 |  |
+| [Stepped Out](https://open.spotify.com/track/6h60gzTtGD8s6FxUknwPxU) | [Count Vernon](https://open.spotify.com/artist/2047BIPNm8CrFvFRmu8CvS) | [The Nomad Diaries](https://open.spotify.com/album/2K4lmCE2cPoRlI3QtHSYbW) | 3:31 | 2023-11-09 | 2023-11-22 |
 | [Stolen](https://open.spotify.com/track/1oSC81BQM0d2Wt3UgoG66Z) | [Yazmin Aziz](https://open.spotify.com/artist/45zTHOPOnQwfIIKnnZ10NG), [DJ Fuzz](https://open.spotify.com/artist/1YfTLG8X1AGBhEuUegQJrb) | [Stolen](https://open.spotify.com/album/5hLO7KicXb7v9tDt3xMLjl) | 3:27 | 2023-06-15 |  |
 | [Stop Playing!](https://open.spotify.com/track/2fZAtkoNrUrJuiCeeCUgEy) | [Mary Sue](https://open.spotify.com/artist/2vmWNXWLIWsf0mlVQoO251), [Psychedelic Ensemble\. ](https://open.spotify.com/artist/3n6uOAk5t1mGD2JhBGC2kO) | [CACOPHONOUS DIGRESSIONS, A RECORD OF A MOMENT IN TIME](https://open.spotify.com/album/0DI7fCoiZixb2rscyjE8lj) | 1:22 | 2023-11-02 |  |
 | [Stoplight](https://open.spotify.com/track/47N6MR3XrYN5AwW01bEHu4) | [xena giam](https://open.spotify.com/artist/7aKGYYCdqzIowwzzBMdKSF) | [Stoplight](https://open.spotify.com/album/1b1RmBzvKgnQWIkPv0gBC8) | 3:21 | 2023-06-22 |  |

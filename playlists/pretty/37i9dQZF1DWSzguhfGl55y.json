@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 621154,
+  "num_followers": 621217,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDcyNjJjOGVmMjhhMmU1ZTA3NmM3MWQ0MWI5NDc5MWEzMzI1YWM5",
+  "snapshot_id": "MCxiZjVhNzk5NWRiODIwYjA5MWU3NzI1MWZlNWQ1YmJjYzBlNDIzMjBh",
   "tracks": [
     {
       "added_at": "2023-10-11 12:51:15",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
+        "name": "Ich & meine Maske (Premium Version)",
+        "url": "https://open.spotify.com/album/2xBC5FpIToABiNhGz2x3jN"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "Augen auf",
+      "url": "https://open.spotify.com/track/1ZQdvTmo5eSs7N2LRQQSwa"
+    },
+    {
+      "added_at": "2023-10-11 12:51:15",
+      "album": {
         "name": "Advanced Chemistry",
         "url": "https://open.spotify.com/album/5rBJ9tt8jQ0PQLc0dBlNJI"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 253680,
       "name": "Ahnma",
       "url": "https://open.spotify.com/track/1sr9lbDDGIxmFK7wUdA1Z8"
-    },
-    {
-      "added_at": "2023-10-11 12:51:15",
-      "album": {
-        "name": "Ich & meine Maske (Premium Version)",
-        "url": "https://open.spotify.com/album/2xBC5FpIToABiNhGz2x3jN"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 230906,
-      "name": "Augen auf",
-      "url": "https://open.spotify.com/track/1ZQdvTmo5eSs7N2LRQQSwa"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -839,26 +839,6 @@
     {
       "added_at": "2023-10-11 12:51:15",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/62tJU39A7UP3x85dJGQkdn"
-      },
-      "artists": [
-        {
-          "name": "Kool Savas",
-          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
-        },
-        {
-          "name": "AZAD",
-          "url": "https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU"
-        }
-      ],
-      "duration_ms": 213813,
-      "name": "All 4 One",
-      "url": "https://open.spotify.com/track/5stqdnEmsr98AV26GweHJ8"
-    },
-    {
-      "added_at": "2023-10-11 12:51:15",
-      "album": {
         "name": "BLYAT",
         "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
       },
@@ -871,26 +851,6 @@
       "duration_ms": 212506,
       "name": "Nur noch Gucci",
       "url": "https://open.spotify.com/track/6zxFyURXhsMwwkLQGZbzBw"
-    },
-    {
-      "added_at": "2023-10-11 12:51:15",
-      "album": {
-        "name": "Bambule",
-        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
-      },
-      "artists": [
-        {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
-        },
-        {
-          "name": "Samy Deluxe",
-          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
-        }
-      ],
-      "duration_ms": 274640,
-      "name": "F\u00fcchse",
-      "url": "https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi"
     },
     {
       "added_at": "2023-10-11 12:51:15",
@@ -915,6 +875,46 @@
       "duration_ms": 278960,
       "name": "Mit dir (feat. Joy Denalane)",
       "url": "https://open.spotify.com/track/5EX0HiIyvhavnpjgbwDCeL"
+    },
+    {
+      "added_at": "2023-10-11 12:51:15",
+      "album": {
+        "name": "Bambule",
+        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
+      },
+      "artists": [
+        {
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        },
+        {
+          "name": "Samy Deluxe",
+          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
+        }
+      ],
+      "duration_ms": 274640,
+      "name": "F\u00fcchse",
+      "url": "https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi"
+    },
+    {
+      "added_at": "2023-10-11 12:51:15",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/62tJU39A7UP3x85dJGQkdn"
+      },
+      "artists": [
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        },
+        {
+          "name": "AZAD",
+          "url": "https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU"
+        }
+      ],
+      "duration_ms": 213813,
+      "name": "All 4 One",
+      "url": "https://open.spotify.com/track/5stqdnEmsr98AV26GweHJ8"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",

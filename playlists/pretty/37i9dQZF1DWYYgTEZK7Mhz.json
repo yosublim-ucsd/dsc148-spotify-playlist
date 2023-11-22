@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 24561,
+  "num_followers": 24588,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmJlYmI0YmU4NDc1YWVhM2JjMGVjYTI1YTE4OGQwZjJjZGRiOTli",
+  "snapshot_id": "MCw1YmIxZDI1ZmYwMGQyODQ0M2JmYTQ1ZmI4MDViMTY4YTRlMmQ5ZWJi",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Basta Chiudere Gli Occhi",
-        "url": "https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j"
-      },
-      "artists": [
-        {
-          "name": "Gino Paoli",
-          "url": "https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH"
-        }
-      ],
-      "duration_ms": 214306,
-      "name": "Sapore di sale",
-      "url": "https://open.spotify.com/track/3DAFQyYYpTDEuChTS8eTU7"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Traslocando",
         "url": "https://open.spotify.com/album/3OiG985bPYsI0pWrNenI2Z"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 209466,
       "name": "Non sono una signora",
       "url": "https://open.spotify.com/track/1zj7vlb9EFZ8NqbSHofkGT"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Basta Chiudere Gli Occhi",
+        "url": "https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j"
+      },
+      "artists": [
+        {
+          "name": "Gino Paoli",
+          "url": "https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH"
+        }
+      ],
+      "duration_ms": 214306,
+      "name": "Sapore di sale",
+      "url": "https://open.spotify.com/track/3DAFQyYYpTDEuChTS8eTU7"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Italian Classics: Fred Bongusto, Vol. 1",
-        "url": "https://open.spotify.com/album/5nHzXZgjSFKOJqKkUGOyzQ"
-      },
-      "artists": [
-        {
-          "name": "Fred Bongusto",
-          "url": "https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly"
-        }
-      ],
-      "duration_ms": 168642,
-      "name": "Una rotonda sul mare",
-      "url": "https://open.spotify.com/track/4qF6z47UqzpuA7lZOsXbQF"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Gwiazdy xx Wieku - Ricchi E Poveri",
         "url": "https://open.spotify.com/album/0XsMAfYOmVhmLTXmM77R9G"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 223453,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/65UvDVV0MRSSNgT6wJ4zdt"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Italian Classics: Fred Bongusto, Vol. 1",
+        "url": "https://open.spotify.com/album/5nHzXZgjSFKOJqKkUGOyzQ"
+      },
+      "artists": [
+        {
+          "name": "Fred Bongusto",
+          "url": "https://open.spotify.com/artist/03zMprDSi8xGJbXYayx6ly"
+        }
+      ],
+      "duration_ms": 168642,
+      "name": "Una rotonda sul mare",
+      "url": "https://open.spotify.com/track/4qF6z47UqzpuA7lZOsXbQF"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Le Sue Piu' Belle Canzoni",
-        "url": "https://open.spotify.com/album/4SqXWQCA4UAE8VyZLwOa8E"
-      },
-      "artists": [
-        {
-          "name": "Umberto Rosario Balsamo",
-          "url": "https://open.spotify.com/artist/3Rq9HHem3z97gYP5vD6BUm"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Balla",
-      "url": "https://open.spotify.com/track/4cpTdeZIwK2F1qBHo2Gnq4"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Legata a un granello di sabbia (Remastered)",
         "url": "https://open.spotify.com/album/18n1cji3OvtCKepHxLgV1c"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 245822,
       "name": "Legata a un granello di sabbia - Remastered",
       "url": "https://open.spotify.com/track/4rMOHVZSrOXyJUIcfBwZXB"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Le Sue Piu' Belle Canzoni",
+        "url": "https://open.spotify.com/album/4SqXWQCA4UAE8VyZLwOa8E"
+      },
+      "artists": [
+        {
+          "name": "Umberto Rosario Balsamo",
+          "url": "https://open.spotify.com/artist/3Rq9HHem3z97gYP5vD6BUm"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Balla",
+      "url": "https://open.spotify.com/track/4cpTdeZIwK2F1qBHo2Gnq4"
     },
     {
       "added_at": "2023-06-05 07:42:38",

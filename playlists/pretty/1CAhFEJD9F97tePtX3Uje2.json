@@ -6,7 +6,7 @@
     "name": "leoyuki",
     "url": "https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw"
   },
-  "snapshot_id": "MjQxLDk0NDEwYWEzZjVhYzgyNGEzNmE5MDI4YTc0NTVkN2E4YjE0YzkxNGI=",
+  "snapshot_id": "MjQyLDY4NjhiNDE2YzJhYzk1ZTgxNWFiNzI4NjRlMDQxZGZiY2EzYTljYmU=",
   "tracks": [
     {
       "added_at": "2018-11-27 22:12:08",
@@ -3847,6 +3847,26 @@
       "duration_ms": 218507,
       "name": "Tel Aviv (Lvst Remix)",
       "url": "https://open.spotify.com/track/3LFAHDElPcGRmRoQBSnqGF"
+    },
+    {
+      "added_at": "2023-11-21 18:49:15",
+      "album": {
+        "name": "Metadata",
+        "url": "https://open.spotify.com/album/4iLsgAr1wbuz1B8MkGc6wf"
+      },
+      "artists": [
+        {
+          "name": "Willix",
+          "url": "https://open.spotify.com/artist/6xWCdgEVD3rUXv3AYA4VPj"
+        },
+        {
+          "name": "Z\u00d8MB",
+          "url": "https://open.spotify.com/artist/79NIVAOefeJgwo0QIIZ9t2"
+        }
+      ],
+      "duration_ms": 108518,
+      "name": "Metadata",
+      "url": "https://open.spotify.com/track/4h3K5he5ItFqJB1MVHMKJV"
     }
   ],
   "unique_name": "hardwave~phonk",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Aziz Hedra
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,094 likes - 107 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,172 likes - 107 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 98 | [hatemyself](https://open.spotify.com/track/5ffcJ5nIKylLvT8tl1a0zw) | [Amber Liu](https://open.spotify.com/artist/4ZpzgTOUAznSK70KdPbJHf) | [hatemyself](https://open.spotify.com/album/0xKtCHDFQuXUj3dvdV4kZv) | 3:10 |
 | 99 | [The Long Breath](https://open.spotify.com/track/2jQWDgZhvkTREAXi7R0Vnf) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [The Long Breath / The Willows](https://open.spotify.com/album/0phsQExgJ5IKweBTgJNdp3) | 4:48 |
 | 100 | [Carte Blanche](https://open.spotify.com/track/6gYpnGlag7CVkVT2Ri5bf9) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Carte Blanche](https://open.spotify.com/album/0LAjgUMlMcbTQ5dz9wx6EW) | 3:18 |
-| 101 | [ALL NIGHT LONG](https://open.spotify.com/track/0zprG792oR31uWPCkYbCJZ) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [THE DEEP](https://open.spotify.com/album/5ZbTp52QK3RIXIQ05wCfdE) | 3:34 |
+| 101 | [ALL NIGHT LONG](https://open.spotify.com/track/0zprG792oR31uWPCkYbCJZ) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [THE DEEP](https://open.spotify.com/album/5ZbTp52QK3RIXIQ05wCfdE) | 3:33 |
 | 102 | [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 |
 | 103 | [DOUBLE STANDARDS](https://open.spotify.com/track/5ZxEaTbHYH57kiGuJOB2qd) | [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl) | [DOUBLE STANDARDS](https://open.spotify.com/album/0s52D3Vg8CVxcjZEJXMj0c) | 2:55 |
 | 104 | [Hell & Heaven](https://open.spotify.com/track/1GNecsOsY6eplkYgqsBzwU) | [Jaakko Eino Kalevi](https://open.spotify.com/artist/20o7mwLphfnviZKGPw1gi3), [Faux Real](https://open.spotify.com/artist/0853SMh8o0PpHpSTDHttsO) | [Hell & Heaven](https://open.spotify.com/album/1PcdjiOHD0AclkaSet5pmF) | 4:02 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 106 | [Wherever](https://open.spotify.com/track/3BjJ7VHJrIrXPTmbWLE2oa) | [Arabelle](https://open.spotify.com/artist/7uU11RJKOt74chXI2s6eQf) | [Wherever](https://open.spotify.com/album/45tK8A8YV4q8nUZNMgckKc) | 3:03 |
 | 107 | [sleep with me on my birthday](https://open.spotify.com/track/5kn9bgoRskj3jgcEfsK1zL) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [sleep with me on my birthday](https://open.spotify.com/album/5H3aAu6WbGWDmLgCpx2OEs) | 2:55 |
 
-Snapshot ID: `MCw2YzA2ZTI5ZmMyMTc0ODA5ZDJjZmZjMzc0ZTNiMmU2YTNhNmIwOWRh`
+Snapshot ID: `MCxiOTVhNDU4YTFmYTBjZmE3MTYwZDViOWY2YmJkYmJkYzNmMTg5ZmFl`

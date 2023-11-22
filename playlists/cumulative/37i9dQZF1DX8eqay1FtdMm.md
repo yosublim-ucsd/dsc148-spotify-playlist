@@ -4,7 +4,7 @@
 
 > Meet the vocalists representing Korea! \(Cover:THAMA\(따마\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-436 songs - 1 day 4 hr 28 min
+437 songs - 1 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [An Unfamiliar Day](https://open.spotify.com/track/4Q9mTqVTAHmkeJMsKZo2EZ) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [DOCTOR LAWYER \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/6vlqa9cpCWCv56aMR0YwHb) | 4:04 | 2022-06-20 | 2023-01-09 |
 | [And The End](https://open.spotify.com/track/5g4Gu5pc7STz901CngD3JC) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [And The End](https://open.spotify.com/album/4Cd5Q17VMgm5OKSqLJvoQJ) | 3:48 | 2022-05-13 | 2022-07-28 |
 | [Anomaly](https://open.spotify.com/track/5DvxeABzpKJ5wrQ9PNYzAN) | [Aylah](https://open.spotify.com/artist/1chOut2a9FJiw0pQFHsCBP) | [Anomaly](https://open.spotify.com/album/1pYNoczdbcFbN7udLlB1t0) | 3:01 | 2023-04-07 | 2023-04-19 |
-| [Anymore \(Feat\. Whee In of MAMAMOO\)](https://open.spotify.com/track/72X2j4RIxqhho6A60i3Uk1) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [RETRO](https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N) | 4:18 | 2021-12-20 |  |
+| [Anymore \(Feat\. Whee In of MAMAMOO\)](https://open.spotify.com/track/72X2j4RIxqhho6A60i3Uk1) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [RETRO](https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N) | 4:18 | 2021-12-20 | 2023-11-22 |
 | [Around You](https://open.spotify.com/track/1FDmOfHoU1hXFxHjWMPObq) | [Yeon Kyoo Seong](https://open.spotify.com/artist/0HuGdUxGEptCnucoZr32rH) | [Around You](https://open.spotify.com/album/28DDo4pRZosbVFpZxGnJbn) | 3:59 | 2022-07-04 | 2022-07-23 |
 | [As Autumn Brings Cold Wind](https://open.spotify.com/track/6Nrkbf2TodraiIu0BHcFYN) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [As Autumn Brings Cold Wind](https://open.spotify.com/album/45hrhqXvP86clCVmptlKBA) | 4:19 | 2023-10-05 | 2023-11-10 |
 | [Autumn Breeze \(The Forbidden Marriage X Han Dong Geun\)](https://open.spotify.com/track/1o1VpJ8DKeVzbWT0WnSLFK) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Autumn Breeze \(The Forbidden Marriage X Han Dong Geun\)](https://open.spotify.com/album/4cBY8PVf0xqqnWsAiSrIGG) | 3:28 | 2021-12-27 | 2022-07-24 |
@@ -374,6 +374,7 @@
 | [Two Faced \(The Forbidden Marriage X Ailee\)](https://open.spotify.com/track/36ua7Cbt724p1RFlOVy9up) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Two Faced \(The Forbidden Marriage X Ailee\)](https://open.spotify.com/album/6go9sISRH2r8yCT5UDUDKh) | 3:41 | 2022-03-11 | 2022-07-03 |
 | [understand](https://open.spotify.com/track/3J1SWo1MyGSR6dwjv1jdlT) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [understand](https://open.spotify.com/album/0RluOrRGTkAJ6Z8jtj11Ru) | 4:41 | 2021-12-27 | 2022-07-06 |
 | [Unforgettable](https://open.spotify.com/track/2y0fZIKYpjN8ZCylkttePB) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [THE LETTER](https://open.spotify.com/album/5uCKvyWTxVemL1hFXpVLx9) | 3:28 | 2021-12-27 | 2022-07-18 |
+| [Unforgettable Love](https://open.spotify.com/track/6nC0meiqIoorz6Lb7Ufte8) | [YANG YO SEOP](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [My Dearest \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/3kcfskSR4RWXWelADGzNli) | 3:42 | 2023-11-16 |  |
 | [Us, then](https://open.spotify.com/track/0VuQ9J9lpFdLAaQzKzBtRX) | [Hong Jin Ho](https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Modern Cello](https://open.spotify.com/album/4ofOUfKLp3RsIH9fdpgXL4) | 5:05 | 2022-08-03 | 2022-08-13 |
 | [Valentine \(The Forbidden Marriage X KIM BUMSOO\)](https://open.spotify.com/track/6z64XSsOD0upZtSwOlyCTk) | [Kim Bum Soo](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [Valentine \(The Forbidden Marriage X KIM BUMSOO\)](https://open.spotify.com/album/1x3aRKM4ruSyjtoicIuySM) | 4:08 | 2022-03-24 | 2022-07-29 |
 | [Walk With Me](https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Walk With Me](https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd) | 4:06 | 2022-03-24 | 2023-04-30 |

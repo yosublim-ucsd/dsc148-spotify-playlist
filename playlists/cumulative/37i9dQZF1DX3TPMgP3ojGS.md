@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,772 songs - 3 day 7 hr 22 min
+1,774 songs - 3 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,7 +451,7 @@
 | [Enchantement](https://open.spotify.com/track/3PagPKzTBiZnglxdoJ6knI) | [Piano Novel](https://open.spotify.com/artist/1xeLCRvHTbkkV3mrSyEZsN) | [La Clairière](https://open.spotify.com/album/5ZLgxAT6GdUAUPId8dZXnn) | 2:57 | 2021-03-21 | 2022-04-18 |
 | [Endelig](https://open.spotify.com/track/5eCVjuhzCBe8qESlBuSU5w) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Endelig](https://open.spotify.com/album/0YmsVzGyJWtbfyorjeyfhJ) | 3:24 | 2022-03-29 | 2022-07-14 |
 | [Endings](https://open.spotify.com/track/1BOpxyhfyyHYjDYA4gEGZF) | [Vincent Sparro](https://open.spotify.com/artist/1fkVeQuRUagDehsQrRfh99) | [A Missing Piece](https://open.spotify.com/album/5N4as2iSANQpt1HIUa0wYv) | 1:37 | 2021-05-05 | 2022-04-20 |
-| [Entangled \- Ole\-Bjørn Talstad Rework](https://open.spotify.com/track/3ZvBA6TQA4CTOZNOyxou90) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Entangled \(Ole\-Bjørn Talstad Rework\)](https://open.spotify.com/album/01gAuQyr7X51xepWCsi4az) | 2:13 | 2022-12-22 |  |
+| [Entangled \- Ole\-Bjørn Talstad Rework](https://open.spotify.com/track/3ZvBA6TQA4CTOZNOyxou90) | [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Entangled \(Ole\-Bjørn Talstad Rework\)](https://open.spotify.com/album/01gAuQyr7X51xepWCsi4az) | 2:13 | 2022-12-22 | 2023-11-22 |
 | [Epenthesis](https://open.spotify.com/track/1n4aWKep4lJeeDMkmkfJav) | [Lauren Hawley](https://open.spotify.com/artist/5UDWPRjs2Qvdp65nqY3f2r) | [Epenthesis](https://open.spotify.com/album/0aH8bPdKkSPIAyTGi7mM3D) | 2:51 | 2021-03-17 | 2022-07-29 |
 | [Episode](https://open.spotify.com/track/1drr6zT3kdWCr78jPuBYDt) | [Charlotte Funke](https://open.spotify.com/artist/3yO7osdYZcoKHt0kTZT486) | [Episode](https://open.spotify.com/album/09cW79JXOPShafrskPjFxK) | 2:30 | 2021-03-07 | 2021-05-25 |
 | [Erin's Waltz](https://open.spotify.com/track/7CzyIeMXvK2BFc9rc6wqJf) | [Per Magnusson](https://open.spotify.com/artist/6r9azAnNoGhtJ4ljPU4a2U) | [Erin's Waltz](https://open.spotify.com/album/3mAciq9EYfuFTLUVarqP6L) | 3:17 | 2021-03-11 | 2022-04-17 |
@@ -630,6 +630,7 @@
 | [Heartbeat](https://open.spotify.com/track/5gYcfdwdwQ7eowE3ycuXaW) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [Heartbeat](https://open.spotify.com/album/23F1BckCyP3XYDPo7JQtZL) | 2:17 | 2021-10-02 | 2022-07-29 |
 | [Heartland](https://open.spotify.com/track/0M3DaTZsuttjClg5VG8exA) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Heartland](https://open.spotify.com/album/0fKjmVxLE5o2sDd1b47REq) | 3:28 | 2021-11-25 | 2022-07-29 |
 | [Hearts Made of Gold](https://open.spotify.com/track/3saEHBnU9n5mDGwXchbre6) | [Lisa Rex](https://open.spotify.com/artist/2phMpVsIMBg1Htuv0lF9Pq) | [Hearts Made of Gold](https://open.spotify.com/album/6wd4w4oIY1olCuu689poNo) | 3:05 | 2021-03-17 | 2022-06-10 |
+| [Hearts of Desire](https://open.spotify.com/track/6CWzmoxDJJdIJ5GImw0RHv) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Hearts of Desire](https://open.spotify.com/album/3Wt4j3Ro26gcIOYvmp3DLb) | 2:19 | 2023-11-21 |  |
 | [Hearts of Us](https://open.spotify.com/track/2aVPRmQnQ95n2lPG1QjXr2) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Hearts of Us](https://open.spotify.com/album/4PgiOdtd12ASXZcnG24F1e) | 2:16 | 2022-03-29 | 2022-07-29 |
 | [Heaven in my Heart](https://open.spotify.com/track/4Hvzc1phamhnrwQVVTR0VA) | [Lopez Ciendra](https://open.spotify.com/artist/7D3sEbiHlFq1QmISYmyneT) | [Heaven in my Heart](https://open.spotify.com/album/5v0n61dottHAksv60R227O) | 2:05 | 2021-04-24 | 2022-07-28 |
 | [Heimweh](https://open.spotify.com/track/1qnQqvSMiErQ7WWt1nYm7R) | [Heike Blau](https://open.spotify.com/artist/3dcO6J0QtVq4xwePBwkq3W) | [Heimweh](https://open.spotify.com/album/6gPGhzFC7Xl0UphWavmvZd) | 2:18 | 2022-03-29 | 2022-04-17 |
@@ -947,6 +948,7 @@
 | [Melancholy](https://open.spotify.com/track/25kDEZNeYdOa61StT88v4G) | [Emanuel Green](https://open.spotify.com/artist/5Vdb46TtoBR9BKioOQfszd) | [Emotional State](https://open.spotify.com/album/7chN0A9m3xKUja0y0zzVpb) | 4:24 | 2021-03-07 | 2022-07-29 |
 | [Mellow Moon](https://open.spotify.com/track/3pwWWv9jwQxxh81W8bKWSB) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Winds](https://open.spotify.com/album/0y85Fl4PfcS9zsfvYyA7q6) | 3:25 | 2021-03-17 | 2022-04-09 |
 | [Memoir](https://open.spotify.com/track/4K29oq8bXo7wel9P8QMY2n) | [Pied\-à\-Terre](https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ) | [Memoir](https://open.spotify.com/album/6lxC3Lifp52AImYMNuaLi5) | 3:22 | 2021-03-17 | 2022-07-22 |
+| [Memories in a Solitary Dance](https://open.spotify.com/track/7eh4caukWjVRB7Tno29B0u) | [Sonic Abodes](https://open.spotify.com/artist/3rzgt7XlVxEmuSp8o1Md0x) | [Memories in a Solitary Dance](https://open.spotify.com/album/5m9llyocnBGYqCKCwkwJlF) | 2:29 | 2023-11-21 |  |
 | [Memories of You](https://open.spotify.com/track/5t2JG7Pv1Sj7nv5p1KO72U) | [Stephan Berg](https://open.spotify.com/artist/17uFWG2FVYgtw7fUhgGo7G) | [Memories of you](https://open.spotify.com/album/1eLC6TBT9uYsii0YEPfECe) | 2:35 | 2022-03-29 | 2022-04-16 |
 | [Memory Lane](https://open.spotify.com/track/1z2q4Dmj24cBFnkkV0GPli) | [Niels Saunders](https://open.spotify.com/artist/6nlfg6qBEp3xeCBIkgqOmu) | [Memory Lane](https://open.spotify.com/album/21WNlxDCxJFAZuihLhOPRQ) | 2:18 | 2021-05-27 | 2022-04-17 |
 | [Mending](https://open.spotify.com/track/21Ky8dYEzcp04NJNKyUt1L) | [Mark Mintuny](https://open.spotify.com/artist/3gegJAyl43HbhzEFT1Dp8s) | [Mending](https://open.spotify.com/album/0V6QaIaGDI7fycgBzUENid) | 2:12 | 2021-03-18 | 2022-04-20 |
@@ -989,7 +991,7 @@
 | [Morass](https://open.spotify.com/track/1FXshXB0McPgzDJdWSHDZF) | [Caitrìona Caitir](https://open.spotify.com/artist/5lbTGHBF3QM93KDgX5hsEH) | [Morass](https://open.spotify.com/album/3nF9JLo09IJE2Hy1xc8Cn5) | 2:10 | 2021-04-26 | 2022-04-03 |
 | [Morgensol](https://open.spotify.com/track/6aJcjGsNvyivFBeBaigFXQ) | [Bolethe Kristensen](https://open.spotify.com/artist/5FdY1HR5TdShBfxywCliMI) | [Morgensol](https://open.spotify.com/album/1CiembCAvOPBFHRbZe8cLk) | 1:45 | 2021-03-23 | 2022-07-28 |
 | [Morgenstern](https://open.spotify.com/track/1djt5vu3t1tQsaLyuS3DgA) | [Alma Klein](https://open.spotify.com/artist/13BmXB0asE1bzPqYfWSTin) | [Morgenstern](https://open.spotify.com/album/5YMCE4ptMtQgujet4mkiZb) | 3:09 | 2021-03-19 | 2022-07-24 |
-| [Morning Dance](https://open.spotify.com/track/73uDJDqIcF5QQWXZ19rH8z) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Morning Dance](https://open.spotify.com/album/0p1cZEnGXZvsDbDvKfCevD) | 1:55 | 2022-12-22 |  |
+| [Morning Dance](https://open.spotify.com/track/73uDJDqIcF5QQWXZ19rH8z) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Morning Dance](https://open.spotify.com/album/0p1cZEnGXZvsDbDvKfCevD) | 1:55 | 2022-12-22 | 2023-11-22 |
 | [Morning Glory](https://open.spotify.com/track/6b7IbDwrebRecI6ODzX6z4) | [Ron Dahlgreen](https://open.spotify.com/artist/5RHD80qlzaWlvAhwvIYlEq) | [Morning Glory](https://open.spotify.com/album/1ozJe27PVQdzr9yWyiAW2o) | 2:14 | 2021-03-17 | 2022-07-22 |
 | [Morphée](https://open.spotify.com/track/2ewd25cXIdZvLxbgGh5eYA) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Automne](https://open.spotify.com/album/6KjNkS21n7ICAQRmUVrCK7) | 3:12 | 2021-12-13 | 2021-12-21 |
 | [Morro Da Saudade](https://open.spotify.com/track/4vXsKnpFye30mrSj3QqMjb) | [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ), [Bob Marconi](https://open.spotify.com/artist/3C0kjCJadbdNXJXJmjzEn5) | [Morro Da Saudade](https://open.spotify.com/album/5PwlrJ6yMoMPYvGBo0kzOw) | 2:49 | 2022-02-15 | 2022-07-22 |

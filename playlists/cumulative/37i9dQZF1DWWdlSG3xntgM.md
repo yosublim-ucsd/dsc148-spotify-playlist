@@ -4,7 +4,7 @@
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
 
-222 songs - 18 hr 52 min
+223 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Người Ngoài Phố](https://open.spotify.com/track/5tCyOXDeo8eQNqpJQ6zgse) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw) | [Áo Hoa: Best of Như Quỳnh 2](https://open.spotify.com/album/0EnFGB1E7NMO9vwm9GJqh1) | 4:36 | 2022-03-11 | 2023-11-13 |
 | [Người Phụ Tình Tôi](https://open.spotify.com/track/76n21hc8bFprmvEa2MTA3I) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe), [Truong Vu](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Người Phụ Tình Tôi](https://open.spotify.com/album/30NR2qhdstcERTNSbfH8P7) | 6:58 | 2022-03-11 | 2023-05-24 |
 | [Người Thương Kẻ Nhớ](https://open.spotify.com/track/0uN3MEs0l5wgER0LKmjfLT) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk) | [Người Thương Kẻ Nhớ](https://open.spotify.com/album/54cWAp3JvSPROX2sLz5Z4l) | 4:24 | 2022-03-11 | 2022-07-29 |
-| [Người Thương Kẻ Nhớ](https://open.spotify.com/track/7uRH7YpXzcK9yfRJSyrP7w) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk) | [Lan Và Điệp 4](https://open.spotify.com/album/2VhxESlFWGQJ2qDsZSajZB) | 4:32 | 2022-03-11 |  |
+| [Người Thương Kẻ Nhớ](https://open.spotify.com/track/7uRH7YpXzcK9yfRJSyrP7w) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk) | [Lan Và Điệp 4](https://open.spotify.com/album/2VhxESlFWGQJ2qDsZSajZB) | 4:32 | 2022-03-11 | 2023-11-22 |
 | [Nhung Doi Hoa Sim](https://open.spotify.com/track/0BQRouDnpSqugi3WUbJ4Nl) | [Tuan Vu](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Nhung Doi Hoa Sim](https://open.spotify.com/album/6qJfuDMW94u2TQjlA5ItWr) | 6:03 | 2022-03-11 | 2023-06-25 |
 | [Nhà Anh Nhà Em](https://open.spotify.com/track/7xsNkxqEmqfmd9cP9OdqSB) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe) | [Chuyện Tình Hoa Trắng](https://open.spotify.com/album/2BmWCLi5QYHSaDCEbzqedc) | 5:02 | 2022-03-11 | 2022-07-29 |
 | [Nhịp Cầu Tri Âm](https://open.spotify.com/track/2G2oDfnPZT0VCHvzXCJOM0) | [Như Quỳnh](https://open.spotify.com/artist/5TIZ9p5TSviYl96ladXXFw), [Trường Vũ](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Nhịp Cầu Tri Âm](https://open.spotify.com/album/3CpUiRoMBxPSTlaklbTPXk) | 5:37 | 2022-03-11 | 2023-10-18 |
@@ -180,6 +180,7 @@
 | [Trang Nhật Ký](https://open.spotify.com/track/6IgdnDf4f0gVAOM5GKZVv3) | [Duong Hong Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI), [Dong Nguyen](https://open.spotify.com/artist/5euEtaUIXOl9B8MKotc5Vb) | [Trang Nhật Ký](https://open.spotify.com/album/5vVqZvQkbrhucGpzN3oSbY) | 4:24 | 2022-03-11 | 2023-04-19 |
 | [Trom Nhin Nhau](https://open.spotify.com/track/2YnaiSCpOhyn77VAwTY7SA) | [Quang Le](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Doi Mat Nguoi Xua](https://open.spotify.com/album/1cr15CHmotR28DFJa0kgze) | 5:28 | 2022-03-11 | 2022-07-29 |
 | [Trách Ai Bây Giờ](https://open.spotify.com/track/2qlyYKZWlVavGedljgEaeW) | [Mạnh Quỳnh](https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W) | [Trách Ai Bây Giờ](https://open.spotify.com/album/6fP9rfjkCA7PotRxqk4RBB) | 5:43 | 2022-03-11 | 2022-07-14 |
+| [Trăng tàn trên hè phố](https://open.spotify.com/track/2M4sGZZOSakycaEI5YZdEt) | [Giang Tử](https://open.spotify.com/artist/2tvLovBlbaYyzUFeBgXRFW) | [Giang Tử Tuyệt Phẩm](https://open.spotify.com/album/01Z3lEP1pIv1DGkqrzUBff) | 5:21 | 2023-10-12 |  |
 | [Trường Cũ Tình Xưa](https://open.spotify.com/track/6G4CiuoWSwK5LeytZFkL1d) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk) | [Trường Cũ Tình Xưa](https://open.spotify.com/album/6p7PcIgCsqsF9i3atpJxzB) | 4:31 | 2022-03-11 | 2022-07-29 |
 | [Trả Lại Thời Gian](https://open.spotify.com/track/5FBZTuXD8VEc3TUdkcW02G) | [Lưu Ánh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Trả Lại Thời Gian](https://open.spotify.com/album/3anrtl0M6qcB22rTHH9JNy) | 5:47 | 2023-10-12 |  |
 | [Trộm nhìn nhau](https://open.spotify.com/track/75ZCiIFJ0LBlhCKuJDhUP4) | [Hoang Oanh](https://open.spotify.com/artist/2ztKQFCq6NdVbjWLq33H7o) | [Chuyến Đò Vĩ Tuyến](https://open.spotify.com/album/77wZqbAtSJNK6Com3oBswt) | 5:11 | 2022-03-11 | 2022-07-25 |

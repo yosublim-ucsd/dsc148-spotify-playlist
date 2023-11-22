@@ -8042,7 +8042,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 133487,
       "name": "Entangled - Ole-Bj\u00f8rn Talstad Rework",
       "url": "https://open.spotify.com/track/3ZvBA6TQA4CTOZNOyxou90"
@@ -11270,6 +11270,24 @@
       "duration_ms": 185460,
       "name": "Hearts Made of Gold",
       "url": "https://open.spotify.com/track/3saEHBnU9n5mDGwXchbre6"
+    },
+    {
+      "album": {
+        "name": "Hearts of Desire",
+        "url": "https://open.spotify.com/album/3Wt4j3Ro26gcIOYvmp3DLb"
+      },
+      "artists": [
+        {
+          "name": "Cole Neumann",
+          "url": "https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139312,
+      "name": "Hearts of Desire",
+      "url": "https://open.spotify.com/track/6CWzmoxDJJdIJ5GImw0RHv"
     },
     {
       "album": {
@@ -16995,6 +17013,24 @@
     },
     {
       "album": {
+        "name": "Memories in a Solitary Dance",
+        "url": "https://open.spotify.com/album/5m9llyocnBGYqCKCwkwJlF"
+      },
+      "artists": [
+        {
+          "name": "Sonic Abodes",
+          "url": "https://open.spotify.com/artist/3rzgt7XlVxEmuSp8o1Md0x"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149937,
+      "name": "Memories in a Solitary Dance",
+      "url": "https://open.spotify.com/track/7eh4caukWjVRB7Tno29B0u"
+    },
+    {
+      "album": {
         "name": "Memories of you",
         "url": "https://open.spotify.com/album/1eLC6TBT9uYsii0YEPfECe"
       },
@@ -17766,7 +17802,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 115124,
       "name": "Morning Dance",
       "url": "https://open.spotify.com/track/73uDJDqIcF5QQWXZ19rH8z"

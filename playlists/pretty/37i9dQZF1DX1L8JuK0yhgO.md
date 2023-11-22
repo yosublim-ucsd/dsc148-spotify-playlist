@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,200 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,205 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [ikiru](https://open.spotify.com/track/547UB1FlXJTcS0Cd2X4AZd) | [Yoyou](https://open.spotify.com/artist/217ChH8bJDq7t6NiqMK2dF) | [ikiru](https://open.spotify.com/album/0N1A7QOmxtCDt7diEKZdJB) | 3:10 |
 | 60 | [The Pier](https://open.spotify.com/track/6QR4TrQQ9u5xmFpkIMO0Si) | [MON/KU](https://open.spotify.com/artist/4SpTEmOFzoqGQYI53t13Df) | [The Pier](https://open.spotify.com/album/6QHygwVkxGEIn7f71nVu4R) | 4:55 |
 
-Snapshot ID: `MCwwYTdlMjM3MDYzMTRhNjNiZDIyOTk2ODQzNzE2NzY0NzZkYmQ1NzI1`
+Snapshot ID: `MCxkMTUxMzdkZmU4YmM1ZjI0MDgxOGMwNTE0YmUxMTM4Mjk1NDRmZDE3`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best indie dance tracks of the moment. Cover: Barry Can't Swim",
+  "description": "The best indie dance tracks of the moment. Cover: Mindchatter",
   "name": "metropolis",
   "tracks": [
     {
@@ -4660,6 +4660,32 @@
     {
       "album": {
         "name": "MOONSHOTS",
+        "url": "https://open.spotify.com/album/5qf3r31KB5dW7XroCdkjIQ"
+      },
+      "artists": [
+        {
+          "name": "The South Hill Experiment",
+          "url": "https://open.spotify.com/artist/6PmrG14lGhCeDfxf40nbZX"
+        },
+        {
+          "name": "Baird",
+          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
+        },
+        {
+          "name": "Goldwash",
+          "url": "https://open.spotify.com/artist/7yYa2im7sawSzuVkXx8W21"
+        }
+      ],
+      "date_added": "2023-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191253,
+      "name": "DREAMS!",
+      "url": "https://open.spotify.com/track/03lQ18VuymG6LDITQItJpn"
+    },
+    {
+      "album": {
+        "name": "MOONSHOTS",
         "url": "https://open.spotify.com/album/2mIOejIeyVH58sDAKVfi53"
       },
       "artists": [
@@ -4678,7 +4704,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-22",
       "duration_ms": 191253,
       "name": "DREAMS!",
       "url": "https://open.spotify.com/track/6DdYJsftrnVgdxH5agavaP"
@@ -19156,6 +19182,24 @@
       "duration_ms": 294240,
       "name": "U&ME - Baauer Remix",
       "url": "https://open.spotify.com/track/1isVA9WBGqhuSB7jtiq5M7"
+    },
+    {
+      "album": {
+        "name": "D-SIDES",
+        "url": "https://open.spotify.com/album/1UxVfG3L2BJhRcn6E1EwrN"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134412,
+      "name": "Uglyfisherman",
+      "url": "https://open.spotify.com/track/0soF6Of8Zw4wsjkrFWyKf2"
     },
     {
       "album": {

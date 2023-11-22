@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: James Francis
 
-136 songs - 7 hr 34 min
+137 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Blue Notes](https://open.spotify.com/track/7Gfidoax4lBjPGHkE4kCBK) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [Still Love](https://open.spotify.com/album/0p4sD08fHj8S8ZdFyXaVzn) | 2:05 | 2023-08-22 |  |
 | [Byzantine](https://open.spotify.com/track/71zcfefEk6z9LwMczxpp56) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r), [Protonebula](https://open.spotify.com/artist/79QsjitGhOGT7ixKYuWJun), [Glance](https://open.spotify.com/artist/4zsm9w2iVTLhuOIhnpqz9M), [Heem](https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m) | [Byzantine](https://open.spotify.com/album/6asKTaEIC7zt9Nb32ZaGV4) | 2:56 | 2023-08-22 |  |
 | [C.F.D.](https://open.spotify.com/track/3vitE6XRGDP8SdoDwu40Ty) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 3:17 | 2023-08-22 |  |
-| [Cap Camarat](https://open.spotify.com/track/4TWtN1Dyc4VpP5pJlpxj0z) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Cap Camarat](https://open.spotify.com/album/4MXJK2URbvnoLt3UTkezyP) | 4:15 | 2023-10-13 |  |
+| [Cap Camarat](https://open.spotify.com/track/4TWtN1Dyc4VpP5pJlpxj0z) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Cap Camarat](https://open.spotify.com/album/4MXJK2URbvnoLt3UTkezyP) | 4:15 | 2023-10-13 | 2023-11-22 |
 | [Caterpillar](https://open.spotify.com/track/4jdQy8mSJyVY3KaoTKSS2Y) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Caterpillar](https://open.spotify.com/album/32rGvU3BrFUlryfw3yA5EU) | 3:06 | 2023-11-10 |  |
 | [Chance of a Day, Pt\. 3](https://open.spotify.com/track/0s9VfOoqJPquZo84u9B6oS) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg) | [Chance of a Day, Pt\. 3](https://open.spotify.com/album/1DDUzSGu06cmlKlTuctpO5) | 6:27 | 2023-08-22 |  |
 | [Chime](https://open.spotify.com/track/5V3TlTt1Jwg53UaUcF8MgS) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Chime](https://open.spotify.com/album/7M0vcSJJuFrevzgrwjJ2EW) | 1:49 | 2023-08-22 |  |
@@ -128,6 +128,7 @@
 | [The Banquet](https://open.spotify.com/track/0zBVBRE5tTBUCi3EKgECpO) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Twelve Chapters](https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf) | 2:19 | 2023-08-22 |  |
 | [The Elephant in the Room](https://open.spotify.com/track/4kG68VmZZJcRqCR5r2tg0Z) | [An0](https://open.spotify.com/artist/7bGMJI5extdRfbKjw1NufB), [kevin](https://open.spotify.com/artist/3S8QW0sAq2cXykM7MKCC0z), [An0kevin](https://open.spotify.com/artist/31UWwbJn6pacSbQ499Ubw4) | [Motions](https://open.spotify.com/album/4kI3cs7XkyzACcl9suYQ6s) | 4:29 | 2023-08-22 |  |
 | [The Pearl That Glitters](https://open.spotify.com/track/4Vsi0U4B1ECmquKgeco8b0) | [SHOLTO](https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u) | [The Pearl That Glitters](https://open.spotify.com/album/2padzsKqfrIWHBZjlOl2gW) | 3:43 | 2023-10-13 |  |
+| [The Pleasure Principle](https://open.spotify.com/track/4BT2EgvDvzQUki9ixfqQls) | [SHOLTO](https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u) | [The Changing Tides of Dreams](https://open.spotify.com/album/2eeg6bbrUX1NWJRix0wi4I) | 3:01 | 2023-11-17 |  |
 | [This Was Once Out of Shape](https://open.spotify.com/track/4pce4kuGacGxXi8PA9QJcr) | [Trap Rabbit](https://open.spotify.com/artist/66PSCfmOi8qw6DUFrfdDM8), [Maxfield Gast](https://open.spotify.com/artist/2H7TnI00EbxkXJ39wENiTo) | [This Was Once Out of Shape](https://open.spotify.com/album/1wBwauk7beuBQDseEBcjU2) | 3:47 | 2023-08-22 |  |
 | [Twinkles](https://open.spotify.com/track/4cLHFuugccA4MqTZ6SiVY7) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd) | [Twinkles](https://open.spotify.com/album/56v5lYuiMgsqZxjL3vC0Vn) | 2:41 | 2023-10-13 |  |
 | [Up](https://open.spotify.com/track/2KM2zleCL1o3ruHOic7ZLY) | [Bear Garden](https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2) | [Up](https://open.spotify.com/album/5tF9qI8ae8ieur4U7SSFow) | 3:24 | 2023-10-13 |  |

@@ -4,7 +4,7 @@
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Mitski
 
-545 songs - 1 day 10 hr 6 min
+546 songs - 1 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Dog Has Its Day](https://open.spotify.com/track/0XDMbuw3mMWjRkvL9Pb2uV) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 3:10 | 2022-06-24 | 2023-07-15 |
 | [Don't Go Far](https://open.spotify.com/track/2BfvdgdBqLtwAzvgtZq9hb) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv) | 3:39 | 2022-06-24 | 2023-11-04 |
 | [Don't Go Far](https://open.spotify.com/track/3pzc4ipTvnIX9t8zSydnGe) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Don't Go Far](https://open.spotify.com/album/6NrHf91NP4zDICGyGzaiYd) | 3:39 | 2022-04-13 | 2022-04-22 |
+| [Don't Go Far](https://open.spotify.com/track/5mslFLg97Oelh0rGpt82yQ) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p) | 3:39 | 2023-11-10 |  |
 | [Don’t Slow Me Down \(feat\. Bonnie Prince Billy\)](https://open.spotify.com/track/21dLiJG5xpbs4CBkV9RZiI) | [Ashley Shadow](https://open.spotify.com/artist/5RdjQlRaM2PIjLE2tfgHxY), [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV) | [Don't Slow Me Down \(feat\. Bonnie Prince Billy\)](https://open.spotify.com/album/7HVul4K3F0FWQbM6VIvRau) | 4:29 | 2021-10-22 | 2022-07-25 |
 | [Down by the Water](https://open.spotify.com/track/4c5npp9gnwBHHyKnaqK2mD) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Getaway](https://open.spotify.com/album/6SVeCBELPZSeSyO8RCbSOV) | 2:55 | 2022-04-13 |  |
 | [Drinking Song](https://open.spotify.com/track/0QrxeCKmq1qHJSqysK5rdD) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Fish Eyes EP](https://open.spotify.com/album/0AJs8uGiBASbgSV5t34yhp) | 3:14 | 2022-02-25 | 2022-04-17 |
@@ -431,7 +432,7 @@
 | [Still Life \(feat\. Joseph\)](https://open.spotify.com/track/2Qj1pOoYSCjLDgxMKffGuS) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Tourism](https://open.spotify.com/album/7G07UTNS6qqiu7c5cz7jcj) | 3:48 | 2021-10-22 | 2022-07-23 |
 | [Stone](https://open.spotify.com/track/7ByCBSiSnTIiI8E3wp6gof) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Stone](https://open.spotify.com/album/6lPerPOYueMPnlKjuRghia) | 3:37 | 2023-09-01 |  |
 | [Storm in Summer](https://open.spotify.com/track/01wiNf866foVe76Q6LFqU7) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Storm in Summer](https://open.spotify.com/album/7loAmhY1aqyfhLyUqm629W) | 4:20 | 2021-10-22 | 2022-07-29 |
-| [Strange Overtones](https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 3:26 | 2022-06-24 |  |
+| [Strange Overtones](https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 3:26 | 2022-06-24 | 2023-11-22 |
 | [Strange Overtones](https://open.spotify.com/track/7J6alVcVYqASesygsZG4VW) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/61ouYBX1skZYiuv5EHnmEK) | 3:26 | 2021-10-22 | 2022-07-29 |
 | [Stranger](https://open.spotify.com/track/0JmSm5QqrdHEUDOG1k0D4h) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [Stranger](https://open.spotify.com/album/4bqE0GxxSdnrfJMiFB6MAA) | 2:48 | 2021-10-22 | 2023-06-10 |
 | [Sucker](https://open.spotify.com/track/1YwjbuXJi7nTwnw4wI4wbU) | [Madeline Kenney](https://open.spotify.com/artist/2mirb9SKAm6IUHtPwreoqN) | [Sucker's Lunch](https://open.spotify.com/album/0YUoB7N8IdXjrgSxkgzNrQ) | 4:43 | 2022-10-14 | 2022-11-13 |

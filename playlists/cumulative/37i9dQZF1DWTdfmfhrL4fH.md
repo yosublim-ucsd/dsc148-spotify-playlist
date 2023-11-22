@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-557 songs - 1 day 10 hr 55 min
+558 songs - 1 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [A Reason to Fight](https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 4:44 | 2022-05-25 |  |
 | [Aberdeen](https://open.spotify.com/track/7pwULzYydZdjJX3SiqQ5bR) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday](https://open.spotify.com/album/2jVxhH1xg6EIc87rGM1Ogt) | 3:12 | 2022-05-25 | 2022-07-05 |
 | [Adolescents](https://open.spotify.com/track/7CBD8biut3IwSJDfhKHLoH) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [If Not Now, When?](https://open.spotify.com/album/7d4zNXpbzKsvJpjQi4cIfj) | 4:48 | 2022-05-25 | 2022-07-18 |
-| [After Midnight](https://open.spotify.com/track/27H8WsrkD5catdc3a2fCLV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 3:26 | 2022-05-25 |  |
+| [After Midnight](https://open.spotify.com/track/27H8WsrkD5catdc3a2fCLV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 3:26 | 2022-05-25 | 2023-11-22 |
 | [After Midnight](https://open.spotify.com/track/29bWDkf8qtCmsvDWOW55CJ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 3:26 | 2022-05-25 | 2022-07-27 |
 | [After Midnight](https://open.spotify.com/track/217LuteR9uZbrD0Z1FYkt0) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [ROCKISDEAD](https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir) | 2:29 | 2022-05-25 | 2022-07-26 |
 | [Afterlife](https://open.spotify.com/track/2R9EzpfbMKA3UkGTQLD3mG) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Vice Verses \(Deluxe Edition\)](https://open.spotify.com/album/3a5RuKhK983i7weX2pwtG6) | 3:37 | 2022-05-25 | 2022-07-29 |
@@ -131,6 +131,7 @@
 | [Die To Live](https://open.spotify.com/track/7u9r4j7KSMW5yLsgjLRZGZ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT), [Neil Fallon](https://open.spotify.com/artist/1PvBXGOTvO3zrbDtL5mKEB) | [Rewind, Replay, Rebound \(Deluxe\)](https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5) | 3:02 | 2022-05-25 |  |
 | [Dig Down](https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:48 | 2022-05-25 |  |
 | [Dirty Girl](https://open.spotify.com/track/14OBGVZHB5KEWoYyr5Lb2w) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [World on Fire](https://open.spotify.com/album/0HBgPC1vbZUmQziDZS78Rg) | 4:14 | 2022-05-25 | 2022-07-29 |
+| [Do It Now Remember It Later](https://open.spotify.com/track/3I9c2OFpB0al6qmYNcyMht) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/3RSJ0kbP7TxLRqH7BqX8Gl) | 3:23 | 2023-01-18 |  |
 | [Do It Now Remember It Later](https://open.spotify.com/track/3ikf8zLuO1MACbNFfDvJ12) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T) | 3:23 | 2022-05-25 | 2023-11-04 |
 | [Do You Wanna Get High?](https://open.spotify.com/track/5FR7kPfV0yEnZhxvqVty8e) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Do You Wanna Get High?](https://open.spotify.com/album/4RkSnyKz7ZedhltNDV4FBi) | 3:27 | 2022-05-25 | 2022-07-14 |
 | [Doc Holliday](https://open.spotify.com/track/3jejwfw2BnlBFySbDv6irh) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/0MNiO7qCmDHphcsefaAjEy) | 5:45 | 2022-05-25 | 2022-07-28 |

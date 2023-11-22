@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 82124,
+  "num_followers": 82197,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTQxNWE2N2IzM2Y3YmEzMTI0NTg1ZjQwNmY0MGZhODM3NWEzMTUw",
+  "snapshot_id": "MCw0NTdmNTI2NzcwZDY3YjUwY2RmZTVmMjM1YWI3NWVlMmVmNTk0NGQ2",
   "tracks": [
     {
       "added_at": "2023-10-20 03:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "samba do mo\u00e7o bonito",
-        "url": "https://open.spotify.com/album/79yWNPUh9pzwttJ4dTtlVQ"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 197090,
-      "name": "samba do mo\u00e7o bonito",
-      "url": "https://open.spotify.com/track/2RRSoVyvUIW7vNH9Ti3827"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Flora - EP",
         "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 158000,
       "name": "Vem conversar",
       "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "samba do mo\u00e7o bonito",
+        "url": "https://open.spotify.com/album/79yWNPUh9pzwttJ4dTtlVQ"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 197090,
+      "name": "samba do mo\u00e7o bonito",
+      "url": "https://open.spotify.com/track/2RRSoVyvUIW7vNH9Ti3827"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-        "url": "https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 271293,
-      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-      "url": "https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "O amor te d\u00e1",
         "url": "https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 247812,
       "name": "O amor te d\u00e1",
       "url": "https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+        "url": "https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 271293,
+      "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+      "url": "https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Te Levar (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/53DSOKPvUINVwmFN32JqhJ"
-      },
-      "artists": [
-        {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
-        }
-      ],
-      "duration_ms": 173397,
-      "name": "Te Levar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4QmLP7fU49UyWgxED0hvAI"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "Sala De Estar",
         "url": "https://open.spotify.com/album/4s4HfTHQpIsZDrNYhDjF8A"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 245676,
       "name": "Sala De Estar",
       "url": "https://open.spotify.com/track/22kzz5JUNNdKLKChbUjjx6"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Te Levar (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/53DSOKPvUINVwmFN32JqhJ"
+      },
+      "artists": [
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        }
+      ],
+      "duration_ms": 173397,
+      "name": "Te Levar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4QmLP7fU49UyWgxED0hvAI"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Sou Daqui",
-        "url": "https://open.spotify.com/album/6dlqVfrdENu9wZsrj38w0O"
-      },
-      "artists": [
-        {
-          "name": "Lucas Felix",
-          "url": "https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Sou Daqui",
-      "url": "https://open.spotify.com/track/3eUTsCeVdnA68g6PJ9kXQd"
-    },
-    {
-      "added_at": "2023-10-20 03:00:00",
-      "album": {
         "name": "PREAMAR",
         "url": "https://open.spotify.com/album/46P8ssX2MolOO2NNGcGoeA"
       },
@@ -1367,22 +1351,18 @@
     {
       "added_at": "2023-10-20 03:00:00",
       "album": {
-        "name": "Dend\u00ea",
-        "url": "https://open.spotify.com/album/3U8bBYe8mDobP6FKeSyERH"
+        "name": "Sou Daqui",
+        "url": "https://open.spotify.com/album/6dlqVfrdENu9wZsrj38w0O"
       },
       "artists": [
         {
-          "name": "Matheus de Bezerra",
-          "url": "https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm"
-        },
-        {
-          "name": "Tin\u00e9",
-          "url": "https://open.spotify.com/artist/5JrbMsFnbJZdlS07y7p4Yz"
+          "name": "Lucas Felix",
+          "url": "https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV"
         }
       ],
-      "duration_ms": 286320,
-      "name": "Dend\u00ea",
-      "url": "https://open.spotify.com/track/6GHnfVzr6EV7kiT9VK4imY"
+      "duration_ms": 208906,
+      "name": "Sou Daqui",
+      "url": "https://open.spotify.com/track/3eUTsCeVdnA68g6PJ9kXQd"
     },
     {
       "added_at": "2023-10-20 03:00:00",
@@ -1399,6 +1379,26 @@
       "duration_ms": 225400,
       "name": "De Toda M\u00e3e",
       "url": "https://open.spotify.com/track/2BHoY4Q7w2CHBfXj9z58Fo"
+    },
+    {
+      "added_at": "2023-10-20 03:00:00",
+      "album": {
+        "name": "Dend\u00ea",
+        "url": "https://open.spotify.com/album/3U8bBYe8mDobP6FKeSyERH"
+      },
+      "artists": [
+        {
+          "name": "Matheus de Bezerra",
+          "url": "https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm"
+        },
+        {
+          "name": "Tin\u00e9",
+          "url": "https://open.spotify.com/artist/5JrbMsFnbJZdlS07y7p4Yz"
+        }
+      ],
+      "duration_ms": 286320,
+      "name": "Dend\u00ea",
+      "url": "https://open.spotify.com/track/6GHnfVzr6EV7kiT9VK4imY"
     },
     {
       "added_at": "2023-10-20 03:00:00",

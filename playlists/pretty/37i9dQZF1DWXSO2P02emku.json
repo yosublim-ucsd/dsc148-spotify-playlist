@@ -1,23 +1,27 @@
 {
   "description": "\u00a1Ponte las que m\u00e1s sonaron en 2022! \u00a1Ponte lo mejor de La Reina! Carin Le\u00f3n en portada.",
-  "num_followers": 39622,
+  "num_followers": 39644,
   "original_name": "Lo Mejor de La Reina 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTQ2NzJiOGI0MzczMTVhZmMzZWI1ZTE5OWNiNGI4OWE1ZTY1NGY0",
+  "snapshot_id": "MCxhYzJlOWE4M2FkOWJjN2VmNjlmODFmYTFjZDVjYTZmODdkZTRhMWU3",
   "tracks": [
     {
       "added_at": "2022-11-30 13:45:00",
       "album": {
-        "name": "Borrachera Con los Honorables (En Vivo)",
+        "name": "Borrachera Con Los Honorables (En Vivo)",
         "url": "https://open.spotify.com/album/5Js6rpaXDIBbdJA5Xn8AYd"
       },
       "artists": [
         {
           "name": "Carin Leon",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Los Honorables",
+          "url": "https://open.spotify.com/artist/3FBJxYbSWdf4s3b7qKbjRL"
         }
       ],
       "duration_ms": 188429,

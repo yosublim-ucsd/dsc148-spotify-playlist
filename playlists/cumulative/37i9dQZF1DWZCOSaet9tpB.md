@@ -4,7 +4,7 @@
 
 > Nigeria's hottest tracks\.  Cover: <a href="https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=rglqV64oS9e6bc4u2r43iw">Omah Lay</a>
 
-244 songs - 11 hr 52 min
+245 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,8 @@
 | [NSV](https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [NSV](https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB) | 3:08 | 2023-05-11 | 2023-09-27 |
 | [Nuh Nuh](https://open.spotify.com/track/5Col4SGdmyeYAzude856ET) | [Uzzyice](https://open.spotify.com/artist/3QLyUHCGQYqiIHNr9prSR4), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk), [Positivv](https://open.spotify.com/artist/7BrzYQ8rJ3qsyzsGgAlvof) | [Nuh Nuh](https://open.spotify.com/album/6ppP37vHHxPHsm6JXLHLYu) | 2:11 | 2023-05-04 | 2023-05-12 |
 | [NYEM EGO \(feat\. Jeriq\)](https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:35 | 2023-11-03 |  |
-| [Obapluto](https://open.spotify.com/track/2tQMxGMxZIsXez0oVkHg2U) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Pa Monday\-Edo](https://open.spotify.com/artist/1n6avnWlG0KCkrsU6OazAC) | [Planet Pluto](https://open.spotify.com/album/60FVQvMmSfnKLSG8ExQnw6) | 2:50 | 2023-09-26 |  |
+| [Obapluto](https://open.spotify.com/track/2tQMxGMxZIsXez0oVkHg2U) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Pa Monday\-Edo](https://open.spotify.com/artist/1n6avnWlG0KCkrsU6OazAC) | [Planet Pluto](https://open.spotify.com/album/60FVQvMmSfnKLSG8ExQnw6) | 2:50 | 2023-09-26 | 2023-11-22 |
+| [Obapluto \(feat\. Pa Monday\-Edo\)](https://open.spotify.com/track/6TBpPOmLOa1mInpq3PIz6N) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Pa Monday\-Edo](https://open.spotify.com/artist/1n6avnWlG0KCkrsU6OazAC) | [Planet Pluto](https://open.spotify.com/album/0iCqV7WYwbkEDktnkZXkQ0) | 2:50 | 2023-11-17 |  |
 | [Ogaranya](https://open.spotify.com/track/3XmvXK6pJRewCn6mAfmsdS) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:48 | 2023-09-26 |  |
 | [Ojapiano](https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Ojapiano](https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e) | 2:48 | 2023-06-19 | 2023-11-17 |
 | [Ole \(feat\. BNXN\)](https://open.spotify.com/track/7onM6Fbiu7ufnMQnbd5oZJ) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Ole](https://open.spotify.com/album/1ob2YtI9F9r54JXKXt7lhX) | 2:50 | 2023-09-26 |  |

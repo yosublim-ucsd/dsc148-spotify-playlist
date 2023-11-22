@@ -1,12 +1,12 @@
 {
   "description": "The emotional interludes we wish were longer.",
-  "num_followers": 11296,
+  "num_followers": 11297,
   "original_name": "Mood Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjVmZmI0ZjE2YTc4NGY4Yjc5ZTRkMTg3MDkxYjE0N2MzYWRhZGYx",
+  "snapshot_id": "MCw0ZmIyYjMyMGJkYzljZDIxMmJjOGU2ZDJiNTcxNmQzYjlmMjk4Yzk4",
   "tracks": [
     {
       "added_at": "2022-12-03 05:29:16",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Harlem World",
-        "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
-      },
-      "artists": [
-        {
-          "name": "Mase",
-          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
-        }
-      ],
-      "duration_ms": 100680,
-      "name": "Puff's Intro",
-      "url": "https://open.spotify.com/track/2YaPcdtXF1u1MEbj9TV1tu"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Brandy",
         "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 55360,
       "name": "I Dedicate (Pt. 2)",
       "url": "https://open.spotify.com/track/3LXboMeaQsF3iNGV3uKOlA"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Harlem World",
+        "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
+      },
+      "artists": [
+        {
+          "name": "Mase",
+          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+        }
+      ],
+      "duration_ms": 100680,
+      "name": "Puff's Intro",
+      "url": "https://open.spotify.com/track/2YaPcdtXF1u1MEbj9TV1tu"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
+        "name": "Brandy",
+        "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 89066,
+      "name": "I Dedicate (Pt. 1)",
+      "url": "https://open.spotify.com/track/1q2JBhpO3REmsJDJdFQaAt"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
         "name": "Crazysexycool",
         "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
       },
@@ -643,34 +659,18 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Acoustic Soul",
-        "url": "https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z"
+        "name": "Frank (US Clean e-Version)",
+        "url": "https://open.spotify.com/album/0RisvCe4jLWes0m89StnuZ"
       },
       "artists": [
         {
-          "name": "India.Arie",
-          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
         }
       ],
-      "duration_ms": 84600,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/2CpIzsORlIOclbE1nB8NEq"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
-        "name": "Brandy",
-        "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 89066,
-      "name": "I Dedicate (Pt. 1)",
-      "url": "https://open.spotify.com/track/1q2JBhpO3REmsJDJdFQaAt"
+      "duration_ms": 39026,
+      "name": "Teo Licks",
+      "url": "https://open.spotify.com/track/6IqhxPxds9Wrm63slCROHO"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
+        "name": "Acoustic Soul",
+        "url": "https://open.spotify.com/album/6ApdnTHD5zXzmZqxf0TA9Z"
+      },
+      "artists": [
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        }
+      ],
+      "duration_ms": 84600,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/2CpIzsORlIOclbE1nB8NEq"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
         "name": "Crazysexycool",
         "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 177066,
       "name": "Can I Get a Witness-Interlude",
       "url": "https://open.spotify.com/track/4lFuxxdGm2o6pbUgyQMoEl"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
-        "name": "Frank (US Clean e-Version)",
-        "url": "https://open.spotify.com/album/0RisvCe4jLWes0m89StnuZ"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 39026,
-      "name": "Teo Licks",
-      "url": "https://open.spotify.com/track/6IqhxPxds9Wrm63slCROHO"
     },
     {
       "added_at": "2022-12-03 05:29:16",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Ready is Always Too Late",
-        "url": "https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        }
-      ],
-      "duration_ms": 39600,
-      "name": "J.L (Interlude)",
-      "url": "https://open.spotify.com/track/5f2vIGTelDfdvHLOJkfeqW"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "1st Born Second",
         "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 130026,
       "name": "C'mere",
       "url": "https://open.spotify.com/track/6m8jUowInyWee9inDLOF9S"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Ready is Always Too Late",
+        "url": "https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "duration_ms": 39600,
+      "name": "J.L (Interlude)",
+      "url": "https://open.spotify.com/track/5f2vIGTelDfdvHLOJkfeqW"
     },
     {
       "added_at": "2022-12-03 05:29:16",
