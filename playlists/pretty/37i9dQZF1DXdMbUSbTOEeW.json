@@ -1,12 +1,12 @@
 {
   "description": "Trending dance hits in India. Cover: Diljit & Sia",
-  "num_followers": 62752,
+  "num_followers": 62905,
   "original_name": "mint India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmQyZGRhNDQ0ZjhjZWQwMmRiODM1YmU4NjlmYzlkMmY0ZjVjNTdl",
+  "snapshot_id": "MCxiNDNiOTViZmNjZGYyZjc2YmQyYzRiNTkyMzQzMWU5MDk2NzE0ODJi",
   "tracks": [
     {
       "added_at": "2023-11-17 05:31:21",
@@ -102,6 +102,10 @@
         {
           "name": "Jay Trak",
           "url": "https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu"
+        },
+        {
+          "name": "Rooh Sandhu",
+          "url": "https://open.spotify.com/artist/54E3dYx7RpaGZaDVXJTWjr"
         }
       ],
       "duration_ms": 117606,

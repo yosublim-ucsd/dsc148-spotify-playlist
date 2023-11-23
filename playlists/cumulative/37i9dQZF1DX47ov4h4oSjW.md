@@ -4,7 +4,7 @@
 
 > Music to help you concentrate during your homework.
 
-133 songs - 6 hr 6 min
+134 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Azure \- Piano Version](https://open.spotify.com/track/5b3i1A9Frf3c0UFffMtoXA) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny), [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Azure \(Piano Version\)](https://open.spotify.com/album/4lT2JzD3ZAEfjRx5crCbA5) | 3:42 | 2023-01-26 |  |
 | [Before We Met](https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Before We Met](https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ) | 1:53 | 2023-01-26 |  |
 | [Beloved](https://open.spotify.com/track/3OLeQWqsXLKFbboNufjc8Z) | [Mark Mintuny](https://open.spotify.com/artist/3gegJAyl43HbhzEFT1Dp8s) | [Beloved](https://open.spotify.com/album/6i5SVdY8ISwT3o3TVyAXF9) | 2:13 | 2023-01-26 | 2023-02-14 |
-| [Beyond This Moment](https://open.spotify.com/track/54QFGiOthVqXeJtiXdlLYa) | [Patrick O'Hearn](https://open.spotify.com/artist/6T7JFvP8qvpOia4q43OmbJ) | [So Flows The Current](https://open.spotify.com/album/2G7NJdUQxp6vAO0arTebvj) | 4:49 | 2023-01-26 |  |
+| [Beyond This Moment](https://open.spotify.com/track/54QFGiOthVqXeJtiXdlLYa) | [Patrick O'Hearn](https://open.spotify.com/artist/6T7JFvP8qvpOia4q43OmbJ) | [So Flows The Current](https://open.spotify.com/album/2G7NJdUQxp6vAO0arTebvj) | 4:49 | 2023-01-26 | 2023-11-23 |
 | [Bienveillant](https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73) | [Edie Chastain](https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk) | [Bienveillant](https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr) | 1:57 | 2023-01-26 | 2023-09-24 |
 | [Box of Memories](https://open.spotify.com/track/0I9HIOTtaXrX968btEa3DA) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Box of Memories](https://open.spotify.com/album/2ixLdAPGlXOSH0Qu8cAFgZ) | 2:42 | 2023-01-26 |  |
 | [Branches étoilées](https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Branches étoilées](https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj) | 2:46 | 2023-01-26 |  |
@@ -120,6 +120,7 @@
 | [Story of You](https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 3:36 | 2023-01-26 | 2023-10-25 |
 | [Sunday Morning](https://open.spotify.com/track/0rlR7gBOx5jfIvVsPfGQsC) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Sunday Morning](https://open.spotify.com/album/0BNnVpYY4xnQkmUNEMUhuO) | 2:14 | 2023-01-26 |  |
 | [Sunlight](https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU) | [Alec Windt](https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW) | [In Love](https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm) | 2:15 | 2023-03-12 |  |
+| [Svanninge Bakker](https://open.spotify.com/track/0rC5Pg1C2ig0OxyaM3Gro3) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [Svanninge Bakker](https://open.spotify.com/album/4fuBNKsqvOsvVZRe0rd0XX) | 1:57 | 2023-03-12 |  |
 | [Synchronicity](https://open.spotify.com/track/5wFGu1dl3Lw08doFu0gVmA) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Synchronicity](https://open.spotify.com/album/5W3dGpqFKJCRZxH0uCaXck) | 3:09 | 2023-01-26 | 2023-03-04 |
 | [The Great Plains Hymn](https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Seasons Changing](https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu) | 1:59 | 2023-03-12 |  |
 | [The Greek](https://open.spotify.com/track/6sMS6Z4qcxbtaF22plJzaM) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [The Greek](https://open.spotify.com/album/5KK54vaBmGiVmnggSiXPgb) | 2:44 | 2023-01-26 |  |

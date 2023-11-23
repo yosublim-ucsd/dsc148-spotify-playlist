@@ -4,7 +4,7 @@
 
 > Descubre lo más fresco de la electrónica mexicana\. Lex en portada.
 
-232 songs - 13 hr 9 min
+233 songs - 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [El Pana Dero](https://open.spotify.com/track/0umJFQoaXdG6N8RhWdSElT) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [El Pana Dero](https://open.spotify.com/album/5HJNjbWyZqILeVwam3MV3I) | 2:44 | 2022-05-06 |  |
 | [El Santito](https://open.spotify.com/track/5fau5l1O4BhhJlho8S7UdC) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Dmitri Saidi](https://open.spotify.com/artist/5rATH049aVcH3W1RIoiU1g) | [El Santito](https://open.spotify.com/album/5nZ6ZTp4KeOq9EYlV4n2SZ) | 3:42 | 2022-05-06 | 2023-03-25 |
 | [ELOVRGA](https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [ELOVRGA](https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR) | 3:14 | 2023-09-29 |  |
+| [Empty Words](https://open.spotify.com/track/2MsiOygSrbmia1mSUD8xQn) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [S & L](https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL) | [Empty Words](https://open.spotify.com/album/5y0WVHEW9q3N77kELEyvme) | 2:47 | 2023-11-17 |  |
 | [Empty Words](https://open.spotify.com/track/6yAGKyOvFquLOnrM75re5N) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [S & L](https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL) | [Empty Words](https://open.spotify.com/album/3ZkgrJ5TuwFNMniMQIKRRl) | 2:47 | 2022-05-06 | 2023-11-18 |
 | [Espantapájaros](https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Espantapájaros](https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg) | 2:52 | 2023-04-14 |  |
 | [Esta Noche](https://open.spotify.com/track/3ZPbwLRggZ9JneiD5Rmvzc) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Esta Noche](https://open.spotify.com/album/0E9a76DH1w2WuSwdu6Be9E) | 2:15 | 2022-05-06 | 2023-03-25 |
@@ -195,7 +196,7 @@
 | [Slow Motion](https://open.spotify.com/track/2r8Wq7tUVdkIZpeuI8TBsE) | [Betoko](https://open.spotify.com/artist/48aaubPa3RsbAp4uCPhoS7) | [Tándem 003](https://open.spotify.com/album/71edUZkWDVsyQjUwC4Bb3d) | 8:00 | 2022-05-06 | 2022-07-26 |
 | [Someone Else's Love](https://open.spotify.com/track/30HuQuGTnEumX2PmUWdLo8) | [Jake Silva](https://open.spotify.com/artist/5RLODyL9SNX8KYZ0yiiXvL), [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93) | [Someone Else's Love](https://open.spotify.com/album/4sAZLc3KOCg7sZ6CA6wRWK) | 2:54 | 2023-09-29 |  |
 | [Sorry](https://open.spotify.com/track/0avt9Jr2hdNXeqaRWOv1SA) | [Youth In Circles](https://open.spotify.com/artist/35FbwufKDprqJfq8Qnk31b) | [Sorry](https://open.spotify.com/album/56XAoIyyXf4gbRyBO7uEur) | 3:49 | 2022-05-06 | 2022-07-16 |
-| [Space](https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3) | [NØRBY](https://open.spotify.com/artist/2U3LN7n2HqjV95bmXJ3RLw), [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Space](https://open.spotify.com/album/3r4UauxvbGR8am8API7124) | 2:58 | 2022-05-06 |  |
+| [Space](https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3) | [NØRBY](https://open.spotify.com/artist/2U3LN7n2HqjV95bmXJ3RLw), [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Space](https://open.spotify.com/album/3r4UauxvbGR8am8API7124) | 2:58 | 2022-05-06 | 2023-11-23 |
 | [Sr\. Tigre \- French Braids Rework](https://open.spotify.com/track/3u2hfoDnXpCiQQRQkblecj) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Sr\. Tigre \(French Braids Rework\)](https://open.spotify.com/album/4iRAsml6uMPqEiTQZ0zmDp) | 3:32 | 2023-01-13 | 2023-03-25 |
 | [Stereo Love](https://open.spotify.com/track/6X9hD9medguWs5mMGy6S0X) | [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [Donovan's Playground](https://open.spotify.com/artist/67tuLuJ6EoOTR1KntyUnHQ), [Lujavo](https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Stereo Love](https://open.spotify.com/album/3G5JR3RJrRSVJTQv2QfcGH) | 3:07 | 2022-05-06 | 2023-03-25 |
 | [Sunrise](https://open.spotify.com/track/63qjpIJeOAK2EW5IEFBv6M) | [VINIIUM](https://open.spotify.com/artist/01wEzy3mqT1ofEGTAz0Li8), [Cuish](https://open.spotify.com/artist/61RmCUTCpJE6fDpVAerv0e), [J R](https://open.spotify.com/artist/5MYXFUnXVLXnZQakGP9yQn) | [Sunrise](https://open.spotify.com/album/30vmI1DiwumAQksOw5OqMm) | 2:48 | 2022-07-28 | 2022-09-02 |

@@ -4,7 +4,7 @@
 
 > Gentle instrumental tunes.
 
-161 songs - 9 hr 52 min
+162 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Lilac](https://open.spotify.com/track/67U3BF1e1PTw6DF1LLRPcF) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8) | [Lilac](https://open.spotify.com/album/0yEDrVPu9cPGu23o1ulSbC) | 4:05 | 2021-11-19 |  |
 | [Lo, the full, final sacrifice, Op\. 26: Amen \- Instrumental](https://open.spotify.com/track/5776PanLfe9zLJMhDbMBgW) | [Gerald Finzi](https://open.spotify.com/artist/4CDMSd6tmH66svpunz3aWP), [Amy Dickson](https://open.spotify.com/artist/3jCy6dMGBsf8Bt8fKD11Ty), [Aurora Orchestra](https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ), [Nicholas Collon](https://open.spotify.com/artist/23qJKSvfqtc9c3VFwdEV4a) | [Introit: The Music of Gerald Finzi](https://open.spotify.com/album/7D1xCSxqiXQxbmP39RknDJ) | 2:40 | 2021-11-19 |  |
 | [Loom \- Sunrise Session II](https://open.spotify.com/track/42DSWZ06VzGVzuoRwZEHHe) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Reykjavík Orkestra](https://open.spotify.com/artist/2QNVqJUUo1JmnkDVBblSaU) | [Loom \(Sunrise Session II\)](https://open.spotify.com/album/0lCyefnvL1HqQkpXl5HjC5) | 3:46 | 2022-05-11 |  |
-| [Lucida](https://open.spotify.com/track/5TQ69mBOhC49tCWTTCWUMG) | [Thomas Bartlett](https://open.spotify.com/artist/1fMujthy4KyGgUJnOeehH1) | [Lucida](https://open.spotify.com/album/65NRqIsEiD5ZvrO3TVrmFL) | 6:39 | 2021-11-19 |  |
+| [Lucida](https://open.spotify.com/track/1BWFgp352htOukWtjsD7B7) | [Thomas Bartlett](https://open.spotify.com/artist/1fMujthy4KyGgUJnOeehH1) | [Shelter](https://open.spotify.com/album/3wB9cEC4wDm8TeNJEvRLbo) | 6:39 | 2023-06-30 |  |
+| [Lucida](https://open.spotify.com/track/5TQ69mBOhC49tCWTTCWUMG) | [Thomas Bartlett](https://open.spotify.com/artist/1fMujthy4KyGgUJnOeehH1) | [Lucida](https://open.spotify.com/album/65NRqIsEiD5ZvrO3TVrmFL) | 6:39 | 2021-11-19 | 2023-11-23 |
 | [Manhattan Sunrise](https://open.spotify.com/track/7jT28bNawgEskE8tDLEBbd) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Gjeilo: Manhattan Sunrise](https://open.spotify.com/album/0N8AvE66Yxl0NLaqx6vcDl) | 3:38 | 2022-05-11 |  |
 | [Maribel](https://open.spotify.com/track/0d7dpG6tUWelr6FiWwF9uy) | [Oskar Schuster](https://open.spotify.com/artist/06n2rDm62tW55l6cZEL15r) | [Maribel](https://open.spotify.com/album/0iIrXR9x55TcFUDdzHEvD0) | 2:43 | 2021-11-19 |  |
 | [Martyrdom \(Movement 1\)](https://open.spotify.com/track/0GRg28lwZ59kMh5oPEiJlO) | [Calum Martin](https://open.spotify.com/artist/6PVCEjWmAFpQwdHhVhBJIT), [Hugh Wilson](https://open.spotify.com/artist/7ncGVIFxTwhKnirYwJ2E6a), [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO), [Cecilia Weston](https://open.spotify.com/artist/7wDGcaDnFQX255UV92O8jt), [Scottish Ensemble](https://open.spotify.com/artist/7ruv7Qzy1XmFJui8t2s4sJ), [Daniel Pioro](https://open.spotify.com/artist/4ZrHyIxtzxZC1yIot7S7qM) | [The Edge of the Sea](https://open.spotify.com/album/2YKHaToV4R5ysJNtEkJiuK) | 2:08 | 2023-06-30 |  |

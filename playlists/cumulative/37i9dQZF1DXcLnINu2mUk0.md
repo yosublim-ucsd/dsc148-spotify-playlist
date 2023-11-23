@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro e Van Zee.
 
-467 songs - 1 day 1 hr 11 min
+469 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 | 2023-03-01 |  |
 | [Eu Até Percebo](https://open.spotify.com/track/0KIkEVPxKOJpEvtnHO1NTk) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Eu Até Percebo](https://open.spotify.com/album/47sWRsYMS8jxmeS71jVs77) | 3:30 | 2023-08-17 | 2023-09-15 |
 | [Eu Ela & o Facebook](https://open.spotify.com/track/7kba44tTPcgX4LOrJRNvCT) | [Hidrah O Donno](https://open.spotify.com/artist/1LUkGzq1z3AGByPwLNfXzR) | [R&B Clock](https://open.spotify.com/album/0DoXmg9jYjuPmhbj9Ortvy) | 3:02 | 2023-07-27 | 2023-08-04 |
-| [Eu Sei](https://open.spotify.com/track/3BLnlQwb0h9EVzDWI9WFpm) | [Fugitivo AH](https://open.spotify.com/artist/3VAnoZNiMY5AHI8EBW9DEo) | [Eu Sei](https://open.spotify.com/album/3PlnVKoDX4HdryOK9e5uWu) | 2:27 | 2023-11-17 |  |
+| [Eu Sei](https://open.spotify.com/track/3BLnlQwb0h9EVzDWI9WFpm) | [Fugitivo AH](https://open.spotify.com/artist/3VAnoZNiMY5AHI8EBW9DEo) | [Eu Sei](https://open.spotify.com/album/3PlnVKoDX4HdryOK9e5uWu) | 2:27 | 2023-11-17 | 2023-11-23 |
 | [EU SEI](https://open.spotify.com/track/7BN2gjCwesbpg6fk2AgRvB) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [EU SEI](https://open.spotify.com/album/7Ks72VKkVAbJqTbvz8VwVa) | 3:43 | 2023-04-13 | 2023-06-30 |
 | [Everyday](https://open.spotify.com/track/5dqky2uELRcvjcMYbEP5TW) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Everyday](https://open.spotify.com/album/2p9CnUqvAVGHFe9eU2KyWW) | 3:22 | 2023-05-26 | 2023-06-16 |
 | [Fada](https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [tripsyhell](https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB), [vano1337](https://open.spotify.com/artist/0TBtIg6LfQ7ScMO7txwIci) | [Eurotape](https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6) | 2:56 | 2023-05-11 | 2023-06-02 |
@@ -285,6 +285,7 @@
 | [Nada a Esconder](https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3) | 3:38 | 2023-03-17 |  |
 | [Nada a Esconder](https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj) | 3:38 | 2022-07-07 | 2023-03-18 |
 | [Naufrágio](https://open.spotify.com/track/3B1Dx1Aw35feOLmZXuGf7t) | [Rikas](https://open.spotify.com/artist/4Vfwk2pzV3ppLQ93PtT54a) | [Naufrágio](https://open.spotify.com/album/02LpaXLNwr4dcPDYMXl131) | 2:14 | 2022-10-27 | 2022-11-18 |
+| [Nazaré](https://open.spotify.com/track/1egCduaKZy7kiJiAtozeGz) | [P.L.E.N.A](https://open.spotify.com/artist/3yhNvnt2mdwKiuJTvlVNtF) | [Nazaré](https://open.spotify.com/album/6OmfdNi5uveoVGPtWZ2fv7) | 1:54 | 2023-11-17 |  |
 | [Negritude](https://open.spotify.com/track/4rgoNviXWceudmqv6B0ul2) | [Euryy](https://open.spotify.com/artist/0mYDvl1DdVl3KHSWckVwUp), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu), [MEM](https://open.spotify.com/artist/6Hfk8OlN3fiMSad3IxCNTy) | [Negritude](https://open.spotify.com/album/5fFdfNqLJPrhi1s98xlrsE) | 3:17 | 2023-06-22 | 2023-07-07 |
 | [Nha Love](https://open.spotify.com/track/6VlC9B6pTO5BNZozsm2j7w) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Nha Love](https://open.spotify.com/album/1inJQsJMoKg8QOzG5Ff02T) | 3:14 | 2023-04-27 | 2023-05-26 |
 | [NIKES](https://open.spotify.com/track/6X8jYXB1nCKWdwKqdzkT4D) | [Lukky Boy](https://open.spotify.com/artist/5FlnhIR9qfozOYH8bfoeEF), [Dysae](https://open.spotify.com/artist/4tBin3wXRG4NDEbiHVpOLR) | [NIKES](https://open.spotify.com/album/2eoUv4LT4XjeD7a6voLFZ5) | 3:30 | 2023-02-17 | 2023-03-11 |
@@ -374,6 +375,7 @@
 | [Saudade](https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU) | 5:06 | 2022-07-21 |  |
 | [Saudade](https://open.spotify.com/track/7sBMMplj5JAauU85M4wdvS) | [FR3DDY](https://open.spotify.com/artist/5D4bziCymPVk5UwjMLj33u) | [Passado](https://open.spotify.com/album/05zWfvsJH9b0jYSBo9HERB) | 2:30 | 2023-01-20 | 2023-01-22 |
 | [Saudades](https://open.spotify.com/track/4zcd47kKnAja9SU61xNL2o) | [Odah Odah](https://open.spotify.com/artist/2OxsglIzZbMyjm3yEeLuMB) | [Saudades](https://open.spotify.com/album/25aQvTGMXD64EsjTSZDHS7) | 3:32 | 2023-09-07 | 2023-09-22 |
+| [Say Now](https://open.spotify.com/track/6GQ3ZjpAvzlBKH0eSrgSim) | [BiDU](https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg) | [Say Now](https://open.spotify.com/album/2fq8Q2fhkLWyB6FK6agP4l) | 4:42 | 2023-11-17 |  |
 | [Say Yeah](https://open.spotify.com/track/1ctGMBEia7oXjiIwceNT9m) | [Dilson](https://open.spotify.com/artist/23ghAzuoE80qxROFQQ1twm), [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Say Yeah](https://open.spotify.com/album/2lAGHS6egl953MXfBMYUid) | 2:50 | 2022-08-04 | 2022-09-17 |
 | [Scroll](https://open.spotify.com/track/4unvkr5iuzbmEEWJRPY1L2) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Scroll](https://open.spotify.com/album/6lk3zTjEETJD9jzXzn5rWJ) | 2:37 | 2022-07-07 | 2023-04-28 |
 | [Se Solta](https://open.spotify.com/track/1ChK1yPWB25WNNVeKkCJLA) | [Dougie Knight](https://open.spotify.com/artist/2PU8j6LKs1ndgXQQ92n5RB), [Southline Studios](https://open.spotify.com/artist/5a9DXAq1JDZQAW9TdE943b) | [Até que vc volte](https://open.spotify.com/album/7kFbTOktJv8c6PlTXUboEz) | 2:21 | 2023-11-10 | 2023-11-18 |

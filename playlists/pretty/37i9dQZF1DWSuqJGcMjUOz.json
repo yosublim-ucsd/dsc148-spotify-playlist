@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 3897,
+  "num_followers": 3895,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTdlMWQxMDJkMmFhNGVkNjQxOWZkMjdiODk5NDkxZjFlMTY3ODI4",
+  "snapshot_id": "MCw0MDg1NGE3ZGJiNTBhM2UyM2FjNTc4ZmFjODhjYjI0MjA1YjlmODVk",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Le blanc des yeux",
-        "url": "https://open.spotify.com/album/0JAW79jDrxy7bv5INPuC4z"
-      },
-      "artists": [
-        {
-          "name": "Roxane Bruneau",
-          "url": "https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ"
-        }
-      ],
-      "duration_ms": 177282,
-      "name": "Le blanc des yeux",
-      "url": "https://open.spotify.com/track/49pEcB0pNVNQPh70gnRL1m"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Les Royaumes Minuscules",
         "url": "https://open.spotify.com/album/3VGubAeKi1fg002fAta5rz"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 252146,
       "name": "L'hiver",
       "url": "https://open.spotify.com/track/3gUgoLt5p69lJCfCJ7bhLd"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Le blanc des yeux",
+        "url": "https://open.spotify.com/album/0JAW79jDrxy7bv5INPuC4z"
+      },
+      "artists": [
+        {
+          "name": "Roxane Bruneau",
+          "url": "https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ"
+        }
+      ],
+      "duration_ms": 177282,
+      "name": "Le blanc des yeux",
+      "url": "https://open.spotify.com/track/49pEcB0pNVNQPh70gnRL1m"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Sprint!",
-        "url": "https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq"
-      },
-      "artists": [
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
-        }
-      ],
-      "duration_ms": 164360,
-      "name": "Si tu comprends pas maintenant (tu comprendras peut-\u00eatre jamais)",
-      "url": "https://open.spotify.com/track/36gW3LyIrKBYuOgwBQtXlr"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "L'\u00e9norme chien tr\u00e8s gentil",
         "url": "https://open.spotify.com/album/0H7KQjMqQ9IBJg6Wdupr3C"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 179384,
       "name": "L'\u00e9norme chien tr\u00e8s gentil",
       "url": "https://open.spotify.com/track/6svpIJIzxKMSpb7oieyN6p"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Sprint!",
+        "url": "https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "duration_ms": 164360,
+      "name": "Si tu comprends pas maintenant (tu comprendras peut-\u00eatre jamais)",
+      "url": "https://open.spotify.com/track/36gW3LyIrKBYuOgwBQtXlr"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Hagra, Vol.1",
-        "url": "https://open.spotify.com/album/4D4QUuwxoAe9qYpoqd4Zhn"
-      },
-      "artists": [
-        {
-          "name": "Izuku",
-          "url": "https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8"
-        }
-      ],
-      "duration_ms": 145598,
-      "name": "Filature",
-      "url": "https://open.spotify.com/track/5WYQmwTH0OtbOyyFsjUIby"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
         "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 108066,
       "name": "J'esp\u00e8re encore que quelque part l'attente s'arr\u00eate",
       "url": "https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Hagra, Vol.1",
+        "url": "https://open.spotify.com/album/4D4QUuwxoAe9qYpoqd4Zhn"
+      },
+      "artists": [
+        {
+          "name": "Izuku",
+          "url": "https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8"
+        }
+      ],
+      "duration_ms": 145598,
+      "name": "Filature",
+      "url": "https://open.spotify.com/track/5WYQmwTH0OtbOyyFsjUIby"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "D\u00e9bloquer",
-        "url": "https://open.spotify.com/album/0nLznb2oEE0QTEpYciNEoU"
-      },
-      "artists": [
-        {
-          "name": "Ya Cetidon",
-          "url": "https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj"
-        },
-        {
-          "name": "Dee End",
-          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "D\u00e9bloquer",
-      "url": "https://open.spotify.com/track/2EwkmMArSs5Qxb6Tus0r4A"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Le soleil et la mer",
         "url": "https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s"
       },
@@ -1247,22 +1227,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Plan Large",
-        "url": "https://open.spotify.com/album/5BCdQbyzn2Od3LooHrOclF"
-      },
-      "artists": [
-        {
-          "name": "Glauque",
-          "url": "https://open.spotify.com/artist/1iZD9g4AQZNty8Z0TjBe1X"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Plan Large",
-      "url": "https://open.spotify.com/track/3YZFGlIsPQafYIMJMR4UFI"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "CHROME",
         "url": "https://open.spotify.com/album/4MDZ6yaBI8zprg0toiVi2V"
       },
@@ -1279,18 +1243,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Cosmologie",
-        "url": "https://open.spotify.com/album/34KGYEvoB2LUHCH9BnPnRY"
+        "name": "Plan Large",
+        "url": "https://open.spotify.com/album/5BCdQbyzn2Od3LooHrOclF"
       },
       "artists": [
         {
-          "name": "Dumas",
-          "url": "https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD"
+          "name": "Glauque",
+          "url": "https://open.spotify.com/artist/1iZD9g4AQZNty8Z0TjBe1X"
         }
       ],
-      "duration_ms": 198666,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/3dnd5JpATGwY43MRiS0Kqw"
+      "duration_ms": 223186,
+      "name": "Plan Large",
+      "url": "https://open.spotify.com/track/3YZFGlIsPQafYIMJMR4UFI"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1311,6 +1275,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Cosmologie",
+        "url": "https://open.spotify.com/album/34KGYEvoB2LUHCH9BnPnRY"
+      },
+      "artists": [
+        {
+          "name": "Dumas",
+          "url": "https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/3dnd5JpATGwY43MRiS0Kqw"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "3050 DEGREEZ: Condamn\u00e9 \u00e0 l'Excellence",
         "url": "https://open.spotify.com/album/1N2S2joB3PmUVI6FmY04sz"
       },
@@ -1327,22 +1307,6 @@
       "duration_ms": 145617,
       "name": "AUDEMARS",
       "url": "https://open.spotify.com/track/0FFPCPoYpblYPfJ33Mqe40"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Aurore",
-        "url": "https://open.spotify.com/album/3sCIeVkKjVyZxe6ZSc189m"
-      },
-      "artists": [
-        {
-          "name": "Roselle",
-          "url": "https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3"
-        }
-      ],
-      "duration_ms": 96031,
-      "name": "Suffit d'attendre I",
-      "url": "https://open.spotify.com/track/7sTjKKeqMATaiX5yjbd3FB"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1383,6 +1347,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Aurore",
+        "url": "https://open.spotify.com/album/3sCIeVkKjVyZxe6ZSc189m"
+      },
+      "artists": [
+        {
+          "name": "Roselle",
+          "url": "https://open.spotify.com/artist/1ed5I5Y5G6Tn8CpI4LlKb3"
+        }
+      ],
+      "duration_ms": 96031,
+      "name": "Suffit d'attendre I",
+      "url": "https://open.spotify.com/track/7sTjKKeqMATaiX5yjbd3FB"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Tipatshimushtunan",
         "url": "https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy"
       },
@@ -1399,22 +1379,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Quoi-ce tu fais \u00e7a pour?",
-        "url": "https://open.spotify.com/album/4vliM81fTpX4bXh6YKsWv7"
-      },
-      "artists": [
-        {
-          "name": "Lisa LeBlanc",
-          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
-        }
-      ],
-      "duration_ms": 192653,
-      "name": "Quoi-ce tu fais \u00e7a pour?",
-      "url": "https://open.spotify.com/track/6IJwTNMx1itiFI3oapuYsP"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Emmanuelle",
         "url": "https://open.spotify.com/album/6cCZfRWhDASJ01M6s1ZrQ4"
       },
@@ -1427,6 +1391,22 @@
       "duration_ms": 146853,
       "name": "Non merci",
       "url": "https://open.spotify.com/track/63ixPBQwY5w4gXvi7XU7Br"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Quoi-ce tu fais \u00e7a pour?",
+        "url": "https://open.spotify.com/album/4vliM81fTpX4bXh6YKsWv7"
+      },
+      "artists": [
+        {
+          "name": "Lisa LeBlanc",
+          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
+        }
+      ],
+      "duration_ms": 192653,
+      "name": "Quoi-ce tu fais \u00e7a pour?",
+      "url": "https://open.spotify.com/track/6IJwTNMx1itiFI3oapuYsP"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1647,22 +1627,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Le pouvoir de l'esprit est infini",
-        "url": "https://open.spotify.com/album/4Tn6ivEofLTooQvhHqmTRm"
+        "name": "M\u00e9tastases",
+        "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
       },
       "artists": [
         {
-          "name": "Eman",
-          "url": "https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9"
-        },
-        {
-          "name": "ISMA",
-          "url": "https://open.spotify.com/artist/7oeOvjTf8uB3MYhPSXTDIy"
+          "name": "Keith Kouna",
+          "url": "https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK"
         }
       ],
-      "duration_ms": 277195,
-      "name": "Ensemble",
-      "url": "https://open.spotify.com/track/6vM411RagdEKjnK4kb1f88"
+      "duration_ms": 312653,
+      "name": "A\u00e9roplane",
+      "url": "https://open.spotify.com/track/3oB2fUCPgYkLezFGxSkuXk"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1683,18 +1659,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "M\u00e9tastases",
-        "url": "https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO"
+        "name": "Le pouvoir de l'esprit est infini",
+        "url": "https://open.spotify.com/album/4Tn6ivEofLTooQvhHqmTRm"
       },
       "artists": [
         {
-          "name": "Keith Kouna",
-          "url": "https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK"
+          "name": "Eman",
+          "url": "https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9"
+        },
+        {
+          "name": "ISMA",
+          "url": "https://open.spotify.com/artist/7oeOvjTf8uB3MYhPSXTDIy"
         }
       ],
-      "duration_ms": 312653,
-      "name": "A\u00e9roplane",
-      "url": "https://open.spotify.com/track/3oB2fUCPgYkLezFGxSkuXk"
+      "duration_ms": 277195,
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/6vM411RagdEKjnK4kb1f88"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1767,6 +1747,26 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "D\u00e9bloquer",
+        "url": "https://open.spotify.com/album/3RaTe5Dfyw2h84iX4PMkSw"
+      },
+      "artists": [
+        {
+          "name": "Ya Cetidon",
+          "url": "https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj"
+        },
+        {
+          "name": "Dee End",
+          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "D\u00e9bloquer",
+      "url": "https://open.spotify.com/track/6GqDdQilljjSQtOIrJpjPc"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Alexandre Martel",
         "url": "https://open.spotify.com/album/12gDz8t5kwGaQtuWrwVEsH"
       },
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "GLAM",
-        "url": "https://open.spotify.com/album/3oXFV6ywdIGcB5MTE1D7WM"
-      },
-      "artists": [
-        {
-          "name": "LUMI\u00c8RE",
-          "url": "https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "Rock Band",
-      "url": "https://open.spotify.com/track/6rqWGgXtPRQ00iEOQMUbCB"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Hauterive",
         "url": "https://open.spotify.com/album/2T3H2zGJ0OAdpDDful41Bn"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 269173,
       "name": "Le temps d'avance",
       "url": "https://open.spotify.com/track/7sYhY4B6gKSH5XERKxS6UF"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "GLAM",
+        "url": "https://open.spotify.com/album/3oXFV6ywdIGcB5MTE1D7WM"
+      },
+      "artists": [
+        {
+          "name": "LUMI\u00c8RE",
+          "url": "https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "Rock Band",
+      "url": "https://open.spotify.com/track/6rqWGgXtPRQ00iEOQMUbCB"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "la fin n\u2019arrive jamais",
-        "url": "https://open.spotify.com/album/08D8xAFw9rWrS0vF6poy5d"
-      },
-      "artists": [
-        {
-          "name": "adieu narcisse",
-          "url": "https://open.spotify.com/artist/1GY5zIB9GwQQcjruxXLfCN"
-        }
-      ],
-      "duration_ms": 255597,
-      "name": "P\u00e9n\u00e9lope",
-      "url": "https://open.spotify.com/track/7G5vlQHmTPRsF9oDJu4fxf"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Lance-Flamme Lance-Glace",
         "url": "https://open.spotify.com/album/4fdaBFDsJ1y7vJFgVMKvCR"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 181286,
       "name": "Lance-Flamme Lance-Glace",
       "url": "https://open.spotify.com/track/04mBqAXAqVpBSjMRlD2qrv"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "la fin n\u2019arrive jamais",
+        "url": "https://open.spotify.com/album/08D8xAFw9rWrS0vF6poy5d"
+      },
+      "artists": [
+        {
+          "name": "adieu narcisse",
+          "url": "https://open.spotify.com/artist/1GY5zIB9GwQQcjruxXLfCN"
+        }
+      ],
+      "duration_ms": 255597,
+      "name": "P\u00e9n\u00e9lope",
+      "url": "https://open.spotify.com/track/7G5vlQHmTPRsF9oDJu4fxf"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "On va sauver ce qui reste",
-        "url": "https://open.spotify.com/album/6klAWNXAeknSb05EFLbllK"
-      },
-      "artists": [
-        {
-          "name": "Pasteur Papillon",
-          "url": "https://open.spotify.com/artist/3x1SdsTSvhIkg0NcvDUlTB"
-        }
-      ],
-      "duration_ms": 164966,
-      "name": "Comme din' vues",
-      "url": "https://open.spotify.com/track/5msAtJ2hvNdz8uQhCuTrEt"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Elle \u00e9tait une fois",
         "url": "https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 207058,
       "name": "Or",
       "url": "https://open.spotify.com/track/7xgslGPncPsM3K0h7B8KNI"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "On va sauver ce qui reste",
+        "url": "https://open.spotify.com/album/6klAWNXAeknSb05EFLbllK"
+      },
+      "artists": [
+        {
+          "name": "Pasteur Papillon",
+          "url": "https://open.spotify.com/artist/3x1SdsTSvhIkg0NcvDUlTB"
+        }
+      ],
+      "duration_ms": 164966,
+      "name": "Comme din' vues",
+      "url": "https://open.spotify.com/track/5msAtJ2hvNdz8uQhCuTrEt"
     },
     {
       "added_at": "2023-05-25 23:46:15",

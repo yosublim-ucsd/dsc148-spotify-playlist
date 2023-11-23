@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9y1JjaVVwIa.md) - [plain]
 
 > El sonido experimental del Caribe 🌴🦀⚛️
 
-[Spotify](https://open.spotify.com/user/spotify) - 424 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 425 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9y1JjaVVwIa.md) - [plain]
 | 42 | [Te Crees Tú](https://open.spotify.com/track/1FT5c0bdVWkgPctocSQywO) | [International Dub Ambassadors](https://open.spotify.com/artist/2oLtapTBBJCjp7rwiU5XqE) | [Te Crees Tú](https://open.spotify.com/album/26toS8EEQOsP65CWSnkksd) | 3:32 |
 | 43 | [Heart Full of Love](https://open.spotify.com/track/0GKfAI5sNpbv1ALYiPgbU0) | [ÌFÉ](https://open.spotify.com/artist/7hwZLbYVax5K8GvRSmRSOF) | [0000+0000](https://open.spotify.com/album/3YjfgRAfbaZEKrYkrXRVPp) | 4:10 |
 | 44 | [Pasame a buca](https://open.spotify.com/track/60EESpZTd9pRPhXfRIo2h6) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp), [Los Misterios](https://open.spotify.com/artist/3T76GOT2fKXnAsFQxiuOQj) | [El Juidero](https://open.spotify.com/album/4Rpdq5XtZniKOf1Bv8N4rj) | 5:45 |
-| 45 | [Subo Subo](https://open.spotify.com/track/4SulPJvtMSoxfj1uCuNzMz) | [Turista](https://open.spotify.com/artist/2OUkwuGIhpX2QlFzulGE6F), [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [La Nueva Esquina](https://open.spotify.com/album/3PzZzZV9XyKNaRfF7oMEQM) | 3:47 |
+| 45 | [La Nueva Ciudad](https://open.spotify.com/track/07A2ymyQdaN7P1sbmJ6miC) | [Balún](https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU) | [Prisma Tropical](https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU) | 4:53 |
 | 46 | [La Princesa](https://open.spotify.com/track/6chz5xP4roMLoNADGUjmEv) | [Mima](https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw) | [El Pozo](https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3) | 6:05 |
-| 47 | [La Nueva Ciudad](https://open.spotify.com/track/07A2ymyQdaN7P1sbmJ6miC) | [Balún](https://open.spotify.com/artist/6Uk2pq20qpkftbU2PEDWoU) | [Prisma Tropical](https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU) | 4:53 |
-| 48 | [Agua que Llegó](https://open.spotify.com/track/1WBC4Eg7S6448UzcZP7tYi) | [La Marimba](https://open.spotify.com/artist/7MX1qcF0L9NKjXkXiLtbAx) | [Agua que Llegó](https://open.spotify.com/album/7A2qFodTELKiPiZjcxrMdV) | 4:01 |
+| 47 | [Agua que Llegó](https://open.spotify.com/track/1WBC4Eg7S6448UzcZP7tYi) | [La Marimba](https://open.spotify.com/artist/7MX1qcF0L9NKjXkXiLtbAx) | [Agua que Llegó](https://open.spotify.com/album/7A2qFodTELKiPiZjcxrMdV) | 4:01 |
+| 48 | [Subo Subo](https://open.spotify.com/track/4SulPJvtMSoxfj1uCuNzMz) | [Turista](https://open.spotify.com/artist/2OUkwuGIhpX2QlFzulGE6F), [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [La Nueva Esquina](https://open.spotify.com/album/3PzZzZV9XyKNaRfF7oMEQM) | 3:47 |
 | 49 | [No le de tó](https://open.spotify.com/track/46gUBj8C01B7vWo7cpU9OQ) | [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [No le de tó](https://open.spotify.com/album/4F1aR4ERzltYUOOnoU7T0r) | 4:24 |
 | 50 | [Miedo](https://open.spotify.com/track/5O5uV0ywfQ4Hl1LVyHdJp7) | [Rita Indiana](https://open.spotify.com/artist/6xjy0XOCLNmstyCRTA8lIp) | [Mandinga Times](https://open.spotify.com/album/2s9A3VNum5BpETQR6GQkY6) | 3:31 |
 
-Snapshot ID: `MCwxNzlmN2EyYTExMjBiZjY3MGU0OGNiZjdjZGI1NTk1NThjY2FlMDNm`
+Snapshot ID: `MCw3ZDhiZGMwYWFmZjcwMjEyOTFjNThiZTE3N2U1Mjg2MmUyOGFhMzhi`

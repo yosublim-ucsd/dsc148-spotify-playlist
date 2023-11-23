@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Carolina Ross en portada.",
-  "num_followers": 99238,
+  "num_followers": 99313,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Yjk1ODIwN2Y2MGNiMGY3YWIyY2M2NmQ0MjQ1OTZhOGUyY2FiZTgw",
+  "snapshot_id": "MCw0NjU0NTQ5YjRhYTg3ZjFlYjlkZjczNDc0ZTBmMGFiOWM2NDE5ODAy",
   "tracks": [
     {
       "added_at": "2023-11-17 06:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Le Gusta",
-        "url": "https://open.spotify.com/album/7Kr0BdZQDAMQDY2veKJbaf"
-      },
-      "artists": [
-        {
-          "name": "Michelle BI",
-          "url": "https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM"
-        }
-      ],
-      "duration_ms": 155374,
-      "name": "Le Gusta",
-      "url": "https://open.spotify.com/track/3Z3tUJIewkGw9zSIR9kted"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
         "url": "https://open.spotify.com/album/5x7kmstea5CT51BApKPU5N"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 164054,
       "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
       "url": "https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Le Gusta",
+        "url": "https://open.spotify.com/album/7Kr0BdZQDAMQDY2veKJbaf"
+      },
+      "artists": [
+        {
+          "name": "Michelle BI",
+          "url": "https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM"
+        }
+      ],
+      "duration_ms": 155374,
+      "name": "Le Gusta",
+      "url": "https://open.spotify.com/track/3Z3tUJIewkGw9zSIR9kted"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Solita Solita",
-        "url": "https://open.spotify.com/album/6XNR6JLc1mboTXg8sZTWyM"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 187411,
-      "name": "Solita Solita",
-      "url": "https://open.spotify.com/track/2PGG4xCY4sQfCH4ioOYPs3"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "Ahora Va La M\u00eda",
         "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 206960,
       "name": "Si Quieres Verme Llorar",
       "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Solita Solita",
+        "url": "https://open.spotify.com/album/6XNR6JLc1mboTXg8sZTWyM"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 187411,
+      "name": "Solita Solita",
+      "url": "https://open.spotify.com/track/2PGG4xCY4sQfCH4ioOYPs3"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "Quiz\u00e1s Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/09JmTJCZF852vM3wsiO5iw"
+      },
+      "artists": [
+        {
+          "name": "Aida Cuevas",
+          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
+        }
+      ],
+      "duration_ms": 275064,
+      "name": "Quiz\u00e1s Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4Jze2pgd8QU9XHjzFCIFKL"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "LMV",
         "url": "https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 171153,
       "name": "LMV",
       "url": "https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Quiz\u00e1s Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/09JmTJCZF852vM3wsiO5iw"
-      },
-      "artists": [
-        {
-          "name": "Aida Cuevas",
-          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
-        }
-      ],
-      "duration_ms": 275064,
-      "name": "Quiz\u00e1s Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4Jze2pgd8QU9XHjzFCIFKL"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Con La Mirada",
-        "url": "https://open.spotify.com/album/2boCTrvGLGYoi0CL6oGnHE"
-      },
-      "artists": [
-        {
-          "name": "Gabriella",
-          "url": "https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM"
-        }
-      ],
-      "duration_ms": 232973,
-      "name": "Con La Mirada",
-      "url": "https://open.spotify.com/track/4BCKCpZVirE6JD4X3Hmqzi"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "Tu Lo Decidiste",
         "url": "https://open.spotify.com/album/0HKJJRXEaWNdDPPSP0543Y"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 231793,
       "name": "Tu Lo Decidiste",
       "url": "https://open.spotify.com/track/7hUTX7fvNLej0G7u2QMWni"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Con La Mirada",
+        "url": "https://open.spotify.com/album/2boCTrvGLGYoi0CL6oGnHE"
+      },
+      "artists": [
+        {
+          "name": "Gabriella",
+          "url": "https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM"
+        }
+      ],
+      "duration_ms": 232973,
+      "name": "Con La Mirada",
+      "url": "https://open.spotify.com/track/4BCKCpZVirE6JD4X3Hmqzi"
     },
     {
       "added_at": "2023-11-17 06:00:00",

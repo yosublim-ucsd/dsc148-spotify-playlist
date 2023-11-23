@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno music, updated every friday 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,841 likes - 38 songs - 2 hr 10 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 6,854 likes - 39 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,5 +46,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 36 | [The Space](https://open.spotify.com/track/2BLFJHSfc0ofSdz9l7foDP) | [Go Freek](https://open.spotify.com/artist/2aRd7rRSUjtZ6WPG5GsBO6), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [The Space](https://open.spotify.com/album/7esmpq4CUhJI3gjHmycWHl) | 3:06 |
 | 37 | [Dreamer](https://open.spotify.com/track/47SEt8Ftu5Vm69yRoFUDXr) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Dreamer](https://open.spotify.com/album/60DNwMVgnq9J3dV0yC0LcQ) | 3:35 |
 | 38 | [Keep On Dancing](https://open.spotify.com/track/3iQo5xKxX0KUy594uytQ0e) | [KOCHAM](https://open.spotify.com/artist/07gJZgbJwBIKN2DmCn7Dqu) | [Keep On Dancing](https://open.spotify.com/album/7eJmtEYNcJjDZjfKvN1g62) | 3:05 |
+| 39 | [No Signal](https://open.spotify.com/track/6W9Q0aD4aiKYZBuHt7BTyK) | [Ghetto Birds](https://open.spotify.com/artist/1Obs7jiOM1afyArwQkOC1U) | [No Signal](https://open.spotify.com/album/7iPw8nupkZme0HDagHXwar) | 3:33 |
 
-Snapshot ID: `Nzk5MSw4ZjM5ZGRmOWNlODUxYzlkMTM4MTZmMDM1ZjNjNjAxOTAzZGE5ZmMy`
+Snapshot ID: `Nzk5MiwyMWQzZmFjODFhNDdlNjhmMDU0YWE5NDFkYTdlZmM1MTE4YjQ4MjVi`

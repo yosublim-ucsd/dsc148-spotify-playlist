@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/stevenvictor/\">Steven Victor</a>",
-  "num_followers": 39909,
+  "num_followers": 40063,
   "original_name": "Steven Victor's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTc4ZTI3YmMzNDA2MjViMjJlNGY2YjQzNjgzNTYwYzU1YzM1Nzgy",
+  "snapshot_id": "MCw4ZmM3ODBkNzUyZTg3YjkxZGRkZGI0ZjBlZTNkYWU1OWM1NDM1ZDQ5",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Purple Reign",
+        "url": "https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 241800,
+      "name": "Purple Reign",
+      "url": "https://open.spotify.com/track/3E2i7xoT542yQ59bP2vBbF"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 314906,
       "name": "Picture Me Rollin'",
       "url": "https://open.spotify.com/track/71jzSTkT0F0w1v4moZIDyc"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Purple Reign",
-        "url": "https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 241800,
-      "name": "Purple Reign",
-      "url": "https://open.spotify.com/track/3E2i7xoT542yQ59bP2vBbF"
     }
   ],
   "unique_name": "Steven Victor's Taste",

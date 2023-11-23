@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 
 > Thunder is coming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,315 likes - 40 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,338 likes - 40 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 | 39 | [Golden Hill](https://open.spotify.com/track/3FhASv6CcevRilYRxpCZrK) | [Tristeza](https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5) | [Spine And Sensory \(Expanded And Remastered\)](https://open.spotify.com/album/6fYcfqLS4HumMAdPHpH9Z6) | 4:52 |
 | 40 | [We'll Find the Light in Darkness](https://open.spotify.com/track/1aWPIurjGonozOh46AzNcj) | [The Mantra Discord](https://open.spotify.com/artist/7qGUciCek4iIXfo65Gl7zA) | [We'll Find the Light in Darkness](https://open.spotify.com/album/7JOwJdBWGN0GAKcEf1qanb) | 4:41 |
 
-Snapshot ID: `MCwxZWI1OTEwYzhkZGU2ZGU2NmMyNGU4YjUyOWFmNTRiNGZhMDkyMTdh`
+Snapshot ID: `MCwyMGU1NDkxMDM5OTMwZDZhYzYwNGU0ZDU3ZjVlOGEwMzkxNWMxZTJh`

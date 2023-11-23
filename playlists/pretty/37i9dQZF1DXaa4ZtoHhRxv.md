@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Cheat Codes and MacKenzie Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,750 likes - 149 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,757 likes - 149 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 11 | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo) | 3:08 |
 | 12 | [Sun Don't Let Me Down](https://open.spotify.com/track/3TiOpwAlLf0kqa6EeN4YrO) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:23 |
 | 13 | [Fancy Like \(Dave Audé Remix\)](https://open.spotify.com/track/1YW8olrB29icos92vsWPvd) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Fancy Like \(Dave Audé Remix\)](https://open.spotify.com/album/2ev30eQbF3E9neNPUaTc98) | 2:57 |
-| 14 | [That Don't Impress Me Much \- Dance Mix](https://open.spotify.com/track/4OzQg5IcAkBxQV6Awq2T0y) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Greatest Hits](https://open.spotify.com/album/02SQS3hERbgOjnZc0hmWKk) | 4:27 |
+| 14 | [That Don't Impress Me Much \- Dance Mix / Remastered 2023](https://open.spotify.com/track/3OtB1qZrtHs2w0PkQj1krC) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Greatest Hits \(Remastered\)](https://open.spotify.com/album/7sGhX3TPiZuJRbYJRFBOsI) | 4:30 |
 | 15 | [Us ft\. ERNEST](https://open.spotify.com/track/1pNvwvyu0toAciKIigdbO5) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [HiROQUEST 2: Double Helix](https://open.spotify.com/album/2Y5AL4Rd7wOyEWycA1kRzO) | 3:16 |
 | 16 | [High Horse \- Kue Remix](https://open.spotify.com/track/4uD3M8K5kxryLFRCWPSkc4) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [DJ Kue](https://open.spotify.com/artist/6sAEKhLqI8pzUMHWgvj6pZ) | [High Horse Remix](https://open.spotify.com/album/1BJXLKb7OD5fnx330csFDB) | 4:12 |
 | 17 | [Jolene \- Destructo Remix](https://open.spotify.com/track/6XzM8wBEznCteSOdeHMyTE) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Destructo](https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab) | [Jolene \(Destructo Remix\)](https://open.spotify.com/album/0BqURnT3y12BQqlypGTiyi) | 5:08 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 148 | [Someday](https://open.spotify.com/track/73h6Ma5QhBFrshEN2CTevS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:43 |
 | 149 | [Two Black Cadillacs / Jolene \(Dee Jay Silver Edit\) \(feat\. Dolly Parton\)](https://open.spotify.com/track/3H0JQLCfWoVvPGfQvzDT42) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Country Club](https://open.spotify.com/album/0ND26IiObIrQgNuzU5dFmt) | 4:12 |
 
-Snapshot ID: `MCxjZmYwZGY3NTM4NjlkZmEzMzI3Mzk5NGIxOGYxNjViZThjMDI1ZDEz`
+Snapshot ID: `MCwzNzViMDYxODRmN2JkMzI0MDk4NWExNTI0Njk1YzcwYzRmYmRmMGUz`

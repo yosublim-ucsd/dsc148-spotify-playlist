@@ -4,7 +4,7 @@
 
 > The best new rock on the rise\. Cover: The Linda Lindas
 
-64 songs - 3 hr 19 min
+65 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Cherry Picking](https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [Cherry Picking](https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8) | 2:30 | 2022-03-24 |  |
 | [Children In The Dark](https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Children In The Dark](https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI) | 2:58 | 2022-03-24 |  |
 | [debbie downer](https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [debbie downer](https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6) | 2:39 | 2022-03-24 |  |
-| [Destructible](https://open.spotify.com/track/73IXs3h1OUIecDOAoYvH15) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Destructible](https://open.spotify.com/album/39n6Z4LYELVW2vaElXsgxH) | 2:51 | 2022-03-24 |  |
+| [Destructible](https://open.spotify.com/track/0A6B94apx89HIZgPxp33UA) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Destructible](https://open.spotify.com/album/71m5cZFoHcPHEDChFU3xrv) | 2:51 | 2022-03-24 |  |
+| [Destructible](https://open.spotify.com/track/73IXs3h1OUIecDOAoYvH15) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Destructible](https://open.spotify.com/album/39n6Z4LYELVW2vaElXsgxH) | 2:51 | 2022-03-24 | 2023-11-23 |
 | [Down](https://open.spotify.com/track/1K2YHBBSOIGB7UCK2gLBbI) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Down](https://open.spotify.com/album/4DGWHq0aKL2IgckAKvAEOk) | 3:00 | 2022-03-24 |  |
 | [Drive Me Home](https://open.spotify.com/track/3AmBGjKYm9c2unI4HVKhEl) | [Orchards](https://open.spotify.com/artist/4XWU6kWmuSBJJ1QL0BV3NZ) | [Drive Me Home](https://open.spotify.com/album/0EHwLpLAugSESONgAX8qAl) | 3:18 | 2022-03-24 |  |
 | [Endgame](https://open.spotify.com/track/7y6bW9cd1UfttzwqU2lsti) | [The Clockworks](https://open.spotify.com/artist/6Jg3DFzPWX2VIy01oqLGkz) | [Endgame](https://open.spotify.com/album/4qqgxO477yvIgcKNL3PwfJ) | 2:36 | 2022-03-24 |  |

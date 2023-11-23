@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 107276,
+  "num_followers": 107305,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGE0M2Q1ZmViMmM0OGYwOWQ5NzA2OWE3MWJjNDk2NjhkMTQwY2Y3",
+  "snapshot_id": "MCwzMGI1ZDE1ODE1OWI5YTA0ZDFmMjMwODFiMzZlMWEwNzQyOTc5OTll",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -627,22 +627,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "I Have a Question",
-        "url": "https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 361402,
-      "name": "Sound 6",
-      "url": "https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "White Light",
         "url": "https://open.spotify.com/album/4WYhXrhMUSMsbHtgoKgSCx"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 345520,
       "name": "Warsaw (White Light Version)",
       "url": "https://open.spotify.com/track/2gF5ZsKfoGV8ZevuYAAbou"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "I Have a Question",
+        "url": "https://open.spotify.com/album/4LX7G0ldbZDlJPBZGOhPW5"
+      },
+      "artists": [
+        {
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+        }
+      ],
+      "duration_ms": 361402,
+      "name": "Sound 6",
+      "url": "https://open.spotify.com/track/1YNgwOjLp0zJWf4qJwQe4l"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Better Living Through Chemistry",
-        "url": "https://open.spotify.com/album/4q9EafI4cNCb3yMjEPoPCB"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 349493,
-      "name": "Everybody Needs A 303",
-      "url": "https://open.spotify.com/track/3JoEudxv4MYugQXrxMSUVs"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Double Cup",
         "url": "https://open.spotify.com/album/4EAuFwsFpxj4S7K4licbT7"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 204579,
       "name": "Acid Bit (feat. Addison Groove)",
       "url": "https://open.spotify.com/track/1j4bvX0pHJm2vtjphhD6hp"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Better Living Through Chemistry",
+        "url": "https://open.spotify.com/album/4q9EafI4cNCb3yMjEPoPCB"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 349493,
+      "name": "Everybody Needs A 303",
+      "url": "https://open.spotify.com/track/3JoEudxv4MYugQXrxMSUVs"
     },
     {
       "added_at": "2021-10-22 11:07:27",

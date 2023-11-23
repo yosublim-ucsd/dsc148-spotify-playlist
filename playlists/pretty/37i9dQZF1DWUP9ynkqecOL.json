@@ -1,12 +1,12 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 20374,
+  "num_followers": 20413,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzExMzFmOTljOGQ3YWY3Njk5ODIyYjZlNTIwZWM0Y2QyZGEzYmUx",
+  "snapshot_id": "MCxjNmRjODE3NTY5OWMxOWYwZTUwMDc4ZDEyMTllNzRkMmRkMTYwMTJm",
   "tracks": [
     {
       "added_at": "2023-11-10 14:30:24",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
+        "name": "AMA",
+        "url": "https://open.spotify.com/album/02fcZ97Z4wjbM0143uMLUI"
+      },
+      "artists": [
+        {
+          "name": "Paloma del Cerro",
+          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
+        }
+      ],
+      "duration_ms": 251468,
+      "name": "Su\u00e9ltalo",
+      "url": "https://open.spotify.com/track/2GduMjneBXAVXwnwkgrxCh"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
-        "name": "AMA",
-        "url": "https://open.spotify.com/album/02fcZ97Z4wjbM0143uMLUI"
-      },
-      "artists": [
-        {
-          "name": "Paloma del Cerro",
-          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
-        }
-      ],
-      "duration_ms": 251468,
-      "name": "Su\u00e9ltalo",
-      "url": "https://open.spotify.com/track/2GduMjneBXAVXwnwkgrxCh"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
+        "name": "Viajante",
+        "url": "https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ"
+      },
+      "artists": [
+        {
+          "name": "Tremor",
+          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
+        }
+      ],
+      "duration_ms": 232013,
+      "name": "Viajante",
+      "url": "https://open.spotify.com/track/5YZ9dOdtcaGilbW43A5YDj"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
         "name": "Arriba Quemando el Sol",
         "url": "https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 208170,
       "name": "Arriba Quemando el Sol",
       "url": "https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
-        "name": "Viajante",
-        "url": "https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ"
-      },
-      "artists": [
-        {
-          "name": "Tremor",
-          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
-        }
-      ],
-      "duration_ms": 232013,
-      "name": "Viajante",
-      "url": "https://open.spotify.com/track/5YZ9dOdtcaGilbW43A5YDj"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -783,34 +783,26 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Juana Azurduy",
-        "url": "https://open.spotify.com/album/2iTeE4WVvIMNbSyJ0dlGOH"
+        "name": "Tierra Natal (Barzo Remix)",
+        "url": "https://open.spotify.com/album/33JGt2tM21JG75Sf0dzpmI"
       },
       "artists": [
         {
-          "name": "Naci\u00f3n Ekeko",
-          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
+          "name": "Lagartijeando",
+          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
         },
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         },
         {
-          "name": "Miss Bolivia",
-          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
-        },
-        {
-          "name": "Hilda Lizarazu",
-          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
-        },
-        {
-          "name": "Estela de Carlotto",
-          "url": "https://open.spotify.com/artist/3iRYSRX3m5TOt8wz26xx32"
+          "name": "Barzo",
+          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
         }
       ],
-      "duration_ms": 218461,
-      "name": "Juana Azurduy",
-      "url": "https://open.spotify.com/track/1xbpUvFjNmx7lv0IpiQoUn"
+      "duration_ms": 199578,
+      "name": "Tierra Natal - Barzo Remix",
+      "url": "https://open.spotify.com/track/61rdpohhquc8kcD1VBZSY0"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -839,26 +831,34 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Tierra Natal (Barzo Remix)",
-        "url": "https://open.spotify.com/album/33JGt2tM21JG75Sf0dzpmI"
+        "name": "Juana Azurduy",
+        "url": "https://open.spotify.com/album/2iTeE4WVvIMNbSyJ0dlGOH"
       },
       "artists": [
         {
-          "name": "Lagartijeando",
-          "url": "https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw"
+          "name": "Naci\u00f3n Ekeko",
+          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
         },
         {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         },
         {
-          "name": "Barzo",
-          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
+          "name": "Miss Bolivia",
+          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
+        },
+        {
+          "name": "Hilda Lizarazu",
+          "url": "https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn"
+        },
+        {
+          "name": "Estela de Carlotto",
+          "url": "https://open.spotify.com/artist/3iRYSRX3m5TOt8wz26xx32"
         }
       ],
-      "duration_ms": 199578,
-      "name": "Tierra Natal - Barzo Remix",
-      "url": "https://open.spotify.com/track/61rdpohhquc8kcD1VBZSY0"
+      "duration_ms": 218461,
+      "name": "Juana Azurduy",
+      "url": "https://open.spotify.com/track/1xbpUvFjNmx7lv0IpiQoUn"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -903,26 +903,6 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Como la Cigarra",
-        "url": "https://open.spotify.com/album/1gnN6SQHW3qjUsGhCwP5xH"
-      },
-      "artists": [
-        {
-          "name": "Naci\u00f3n Ekeko",
-          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
-        },
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 249970,
-      "name": "Como la Cigarra",
-      "url": "https://open.spotify.com/track/276D6h5wgvcyhcGxFIJXGV"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
         "name": "Wal\u00fcng II",
         "url": "https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY"
       },
@@ -939,6 +919,46 @@
       "duration_ms": 244000,
       "name": "Baile De M\u00e1scaras",
       "url": "https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
+        "name": "El Despertar Del Anfibio (Instrumental)",
+        "url": "https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3"
+      },
+      "artists": [
+        {
+          "name": "Trickst4",
+          "url": "https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY"
+        },
+        {
+          "name": "Tom\u00e1s Pinkus",
+          "url": "https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr"
+        }
+      ],
+      "duration_ms": 383686,
+      "name": "El Despertar Del Anfibio - Instrumental",
+      "url": "https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
+        "name": "Como la Cigarra",
+        "url": "https://open.spotify.com/album/1gnN6SQHW3qjUsGhCwP5xH"
+      },
+      "artists": [
+        {
+          "name": "Naci\u00f3n Ekeko",
+          "url": "https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym"
+        },
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 249970,
+      "name": "Como la Cigarra",
+      "url": "https://open.spotify.com/track/276D6h5wgvcyhcGxFIJXGV"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1027,26 +1047,6 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "La Monta\u00f1a Sin Nombre II",
-        "url": "https://open.spotify.com/album/2Avt4J3pvgttxcTfJc4Kvs"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Gallardo",
-          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
-        },
-        {
-          "name": "Raag",
-          "url": "https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF"
-        }
-      ],
-      "duration_ms": 362653,
-      "name": "CUMBIA ORIENTAL",
-      "url": "https://open.spotify.com/track/0UcW62xUDm9MsxcKesIxj8"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
         "name": "Madre de la Sierra",
         "url": "https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk"
       },
@@ -1131,6 +1131,26 @@
       "duration_ms": 217333,
       "name": "Dada",
       "url": "https://open.spotify.com/track/2E5t5IZSEF6DhbuQathQNi"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
+        "name": "La Monta\u00f1a Sin Nombre II",
+        "url": "https://open.spotify.com/album/2Avt4J3pvgttxcTfJc4Kvs"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gallardo",
+          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
+        },
+        {
+          "name": "Raag",
+          "url": "https://open.spotify.com/artist/17TlDRAcjM6AW38ayDz5eF"
+        }
+      ],
+      "duration_ms": 362653,
+      "name": "CUMBIA ORIENTAL",
+      "url": "https://open.spotify.com/track/0UcW62xUDm9MsxcKesIxj8"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1303,26 +1323,6 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "El Despertar Del Anfibio (Instrumental)",
-        "url": "https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3"
-      },
-      "artists": [
-        {
-          "name": "Trickst4",
-          "url": "https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY"
-        },
-        {
-          "name": "Tom\u00e1s Pinkus",
-          "url": "https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr"
-        }
-      ],
-      "duration_ms": 383686,
-      "name": "El Despertar Del Anfibio - Instrumental",
-      "url": "https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
         "name": "Pluma (Un Disco de Reversiones de la San Llamarada)",
         "url": "https://open.spotify.com/album/75WAti5nxvS6YsoKr9jnUO"
       },
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Patagonia Nature",
-        "url": "https://open.spotify.com/album/7I2AmpCMrqvozljRbFf3Kt"
-      },
-      "artists": [
-        {
-          "name": "Oscar Irustia",
-          "url": "https://open.spotify.com/artist/07UfZCBlpyqwjh9587IYvt"
-        }
-      ],
-      "duration_ms": 182951,
-      "name": "Huayno and Pacha Mama",
-      "url": "https://open.spotify.com/track/5a004HjwSoZrKb8u84FQ29"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
         "name": "Do\u00f1a Ubenza (Remix)",
         "url": "https://open.spotify.com/album/1qRVbQRDzcUTNeYUVZji93"
       },
@@ -1391,6 +1375,26 @@
       "duration_ms": 281142,
       "name": "Do\u00f1a Ubenza - Remix",
       "url": "https://open.spotify.com/track/6xYZqXLrgnRVOhVvkfNocZ"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
+        "name": "Asimetrico",
+        "url": "https://open.spotify.com/album/0MlR0D5QnF9PLS7wQjHXit"
+      },
+      "artists": [
+        {
+          "name": "El Remol\u00f3n",
+          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
+        },
+        {
+          "name": "Brawlio",
+          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
+        }
+      ],
+      "duration_ms": 260867,
+      "name": "Los Pajaros",
+      "url": "https://open.spotify.com/track/7ip0PYb575HHoCjQUGaA97"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1415,6 +1419,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
+        "name": "Patagonia Nature",
+        "url": "https://open.spotify.com/album/7I2AmpCMrqvozljRbFf3Kt"
+      },
+      "artists": [
+        {
+          "name": "Oscar Irustia",
+          "url": "https://open.spotify.com/artist/07UfZCBlpyqwjh9587IYvt"
+        }
+      ],
+      "duration_ms": 182951,
+      "name": "Huayno and Pacha Mama",
+      "url": "https://open.spotify.com/track/5a004HjwSoZrKb8u84FQ29"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
         "name": "Antikuna Anqa",
         "url": "https://open.spotify.com/album/5OjIJkbPTPDdOy8n7Fb2UD"
       },
@@ -1435,26 +1455,6 @@
       "duration_ms": 456000,
       "name": "Antikuna Anqa",
       "url": "https://open.spotify.com/track/2B9mD5rMhk1WQgs3AM3sgO"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
-        "name": "Asimetrico",
-        "url": "https://open.spotify.com/album/0MlR0D5QnF9PLS7wQjHXit"
-      },
-      "artists": [
-        {
-          "name": "El Remol\u00f3n",
-          "url": "https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR"
-        },
-        {
-          "name": "Brawlio",
-          "url": "https://open.spotify.com/artist/04AVdIGdOnBeEaYJ2zNUxK"
-        }
-      ],
-      "duration_ms": 260867,
-      "name": "Los Pajaros",
-      "url": "https://open.spotify.com/track/7ip0PYb575HHoCjQUGaA97"
     },
     {
       "added_at": "2023-11-10 14:30:24",

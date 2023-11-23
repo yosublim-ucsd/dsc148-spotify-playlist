@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,570 likes - 40 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,602 likes - 40 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 39 | [Mercy](https://open.spotify.com/track/7y5LAzG8epnHrXjh3jN7ol) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Mercy](https://open.spotify.com/album/4eoXF9sYckKQAajJCzUngn) | 3:14 |
 | 40 | [Made in Ghana](https://open.spotify.com/track/7dMMkof2wbprZYG6ggp8eP) | [RCEE](https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb) | [Made in Ghana](https://open.spotify.com/album/2U7uD59hrGd7V5i1HiASD1) | 3:09 |
 
-Snapshot ID: `MCxjNjg4NDZlZDA4MjVhMThhMGE3YTVkNmVmOTU0YzkwMTkzZDUzZGZh`
+Snapshot ID: `MCw2N2IxOGUxODU3ZWIwZmVhYTE4YjhkOTI5YjhkNTQyOGVmNDMzZDZl`

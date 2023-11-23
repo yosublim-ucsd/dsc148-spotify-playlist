@@ -4,7 +4,7 @@
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Cheat Codes and MacKenzie Porter
 
-176 songs - 9 hr 38 min
+177 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [Talking With Our Hands \(feat\. Jimmie Allen\)](https://open.spotify.com/track/6mbvUyUv4jp8BIr6k3JH6T) | [Roadhouse](https://open.spotify.com/artist/3I8ZwvgzfDF1OtQNXay4EC), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [RoadHouse \- EP](https://open.spotify.com/album/6CCynmRT6vWoHPbfUhYdsy) | 2:45 | 2023-09-15 |  |
 | [Tequila \- R3HAB Remix](https://open.spotify.com/track/3fsT6VEOxJz3j8cqhzK19Y) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Tequila \(The Remixes\)](https://open.spotify.com/album/0mbXdG2oPnAa1FY1H5EpxZ) | 2:37 | 2021-12-10 |  |
 | [Tequila Does \- Remix](https://open.spotify.com/track/5OAR2NIvwDJ5QAmrJYgGv5) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Tequila Does \(Remix\)](https://open.spotify.com/album/34IfaAv6R5zmpjLQhzlwIh) | 3:29 | 2021-12-10 |  |
-| [That Don't Impress Me Much \- Dance Mix](https://open.spotify.com/track/4OzQg5IcAkBxQV6Awq2T0y) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Greatest Hits](https://open.spotify.com/album/02SQS3hERbgOjnZc0hmWKk) | 4:27 | 2023-06-09 |  |
+| [That Don't Impress Me Much \- Dance Mix](https://open.spotify.com/track/4OzQg5IcAkBxQV6Awq2T0y) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Greatest Hits](https://open.spotify.com/album/02SQS3hERbgOjnZc0hmWKk) | 4:27 | 2023-06-09 | 2023-11-23 |
+| [That Don't Impress Me Much \- Dance Mix / Remastered 2023](https://open.spotify.com/track/3OtB1qZrtHs2w0PkQj1krC) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Greatest Hits \(Remastered\)](https://open.spotify.com/album/7sGhX3TPiZuJRbYJRFBOsI) | 4:30 | 2023-11-17 |  |
 | [The Bones \- Dave Audé Remix](https://open.spotify.com/track/3LJWl9hMaxvRU3TosbK1wh) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [The Bones \(Dave Audé Remix\)](https://open.spotify.com/album/0G2rV2elRi9BCBMr4gTT2c) | 4:48 | 2021-12-10 |  |
 | [The Champion](https://open.spotify.com/track/0stPNUkU1LZnvxIcfrKnEZ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Champion](https://open.spotify.com/album/46muKAiFbLEkonRNRpTuEH) | 3:43 | 2021-12-10 |  |
 | [The Git Up \(feat\. Ciara\) \(Remix\)](https://open.spotify.com/track/3zhflexak3VmuY88axLRol) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [The Git Up \(feat\. Ciara\) \[Remix\]](https://open.spotify.com/album/1Dl92iIBUDfJkVRgFTD1IJ) | 3:13 | 2023-09-15 |  |

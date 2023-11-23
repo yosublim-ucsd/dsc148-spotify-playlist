@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 森大翔
 
-4,670 songs - 11 day 19 hr 7 min
+4,671 songs - 11 day 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2295,7 +2295,8 @@
 | [Step](https://open.spotify.com/track/49GUjKB2nBXKVrjwiwTnfZ) | [Yurufuwa Gang](https://open.spotify.com/artist/5F80x2l9juqR6RLeuACpqS) | [GAMA](https://open.spotify.com/album/2FUak4FlOqbNoPMQB2MiiV) | 4:14 | 2022-06-20 | 2022-06-28 |
 | [Step by Step](https://open.spotify.com/track/6AYenFdbJRF2qQGQFLggeJ) | [HiiT FACTORY](https://open.spotify.com/artist/79VrjqPueHVfdoI6zJxhlo) | [AZYL](https://open.spotify.com/album/7ppXNChH9m86G7tG4V042W) | 3:57 | 2023-05-22 | 2023-05-30 |
 | [Step in Step in](https://open.spotify.com/track/0qzFZw1TWpnc2XyGM8lhKs) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Step in Step in](https://open.spotify.com/album/43riaF3pwPBkCthmadVPu4) | 3:38 | 2022-04-25 | 2022-05-11 |
-| [Stereo Sunset \- Prod\. AmPm](https://open.spotify.com/track/5c8o2Q842Z84mGReKadXOf) | [Himika Akaneya](https://open.spotify.com/artist/4TDDISoY3TSX4gninvaW8h), [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf) | [Stereo Sunset \(Prod\. AmPm\)](https://open.spotify.com/album/7jT0sumIl0rPWh8oBePBhX) | 3:21 | 2023-11-13 |  |
+| [Stereo Sunset \- Prod\. AmPm](https://open.spotify.com/track/5c8o2Q842Z84mGReKadXOf) | [Himika Akaneya](https://open.spotify.com/artist/4TDDISoY3TSX4gninvaW8h), [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf) | [Stereo Sunset \(Prod\. AmPm\)](https://open.spotify.com/album/7jT0sumIl0rPWh8oBePBhX) | 3:21 | 2023-11-13 | 2023-11-23 |
+| [Stereo Sunset \- Prod\. AmPm](https://open.spotify.com/track/72imPVoZOz2Ey140BJc1yi) | [Himika Akaneya](https://open.spotify.com/artist/4TDDISoY3TSX4gninvaW8h), [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf) | [Stereo Sunset \(Prod\. AmPm\)](https://open.spotify.com/album/12s5mYujjqvIfAlMx9xgW6) | 3:21 | 2023-11-20 |  |
 | [Sticky \(feat\. 稚雪もえの\)](https://open.spotify.com/track/2JEIdNqoP1PowEHwM0rDpA) | [KOTONOHOUSE](https://open.spotify.com/artist/3eOyGULyH8dDoCBQMuLYZC), [稚雪もえの](https://open.spotify.com/artist/4Pql4nIU6Gt6RRXUGN9Zyu) | [Sticky \(feat\. 稚雪もえの\)](https://open.spotify.com/album/6pRBcBfUEXNouQFNAF15ai) | 4:33 | 2022-05-10 | 2022-05-17 |
 | [Still Dreamin’](https://open.spotify.com/track/3kS5u2QrXPiX15KNBwc1zk) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [Still Dreamin'](https://open.spotify.com/album/4FnSdO9Au9DBEYoVTKcQrY) | 4:02 | 2022-01-18 | 2022-02-02 |
 | [Strange Leaf](https://open.spotify.com/track/3c9NKkqj3SNvc1njMOgUks) | [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Strange Leaf](https://open.spotify.com/album/5GX6BXfojiA7qG2sXni4hb) | 3:47 | 2023-11-13 |  |

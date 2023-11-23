@@ -1,12 +1,12 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 21273,
+  "num_followers": 21326,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWI4YmUxYjY1NDY3Y2FlNzY5ZmYxYjg1MzBmOTAzMTc2ZjM3NTYz",
+  "snapshot_id": "MCw0NmZhNjA5ZjU3YTdiNzUwMzZlZTJmMTNiMDRjYWY2OTRlM2Y1MmYz",
   "tracks": [
     {
       "added_at": "2023-11-21 15:00:00",
@@ -263,38 +263,6 @@
     {
       "added_at": "2023-11-21 15:00:00",
       "album": {
-        "name": "FULLCOLOR",
-        "url": "https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 255408,
-      "name": "Burning Friday Night",
-      "url": "https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V"
-    },
-    {
-      "added_at": "2023-11-21 15:00:00",
-      "album": {
-        "name": "Here for You",
-        "url": "https://open.spotify.com/album/3UzbiJ7QAN36hdoSY9Ks8g"
-      },
-      "artists": [
-        {
-          "name": "the engy",
-          "url": "https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO"
-        }
-      ],
-      "duration_ms": 201492,
-      "name": "Here for You",
-      "url": "https://open.spotify.com/track/1W2WTiFB8jFyfvrGskpFuM"
-    },
-    {
-      "added_at": "2023-11-21 15:00:00",
-      "album": {
         "name": "GANADARA",
         "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
       },
@@ -315,18 +283,18 @@
     {
       "added_at": "2023-11-21 15:00:00",
       "album": {
-        "name": "475",
-        "url": "https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn"
+        "name": "Here for You",
+        "url": "https://open.spotify.com/album/3UzbiJ7QAN36hdoSY9Ks8g"
       },
       "artists": [
         {
-          "name": "jo0ji",
-          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+          "name": "the engy",
+          "url": "https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO"
         }
       ],
-      "duration_ms": 197942,
-      "name": "\u4e0d\u5c48\u306b\u82b1",
-      "url": "https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM"
+      "duration_ms": 201492,
+      "name": "Here for You",
+      "url": "https://open.spotify.com/track/1W2WTiFB8jFyfvrGskpFuM"
     },
     {
       "added_at": "2023-11-21 15:00:00",
@@ -343,6 +311,38 @@
       "duration_ms": 216169,
       "name": "\u540d\u524d\u306f\u7247\u60f3\u3044",
       "url": "https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu"
+    },
+    {
+      "added_at": "2023-11-21 15:00:00",
+      "album": {
+        "name": "475",
+        "url": "https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "duration_ms": 197942,
+      "name": "\u4e0d\u5c48\u306b\u82b1",
+      "url": "https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM"
+    },
+    {
+      "added_at": "2023-11-21 15:00:00",
+      "album": {
+        "name": "FULLCOLOR",
+        "url": "https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "duration_ms": 255408,
+      "name": "Burning Friday Night",
+      "url": "https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V"
     },
     {
       "added_at": "2023-11-21 15:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-11-21 15:00:00",
       "album": {
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 276223,
+      "name": "\u305d\u3093\u306abitter\u306a\u8a71",
+      "url": "https://open.spotify.com/track/4DmmljTCS4ViQRSLCiMnOt"
+    },
+    {
+      "added_at": "2023-11-21 15:00:00",
+      "album": {
         "name": "\u590f\u98a8\u306b\u6eb6\u3051\u308b",
         "url": "https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 175693,
       "name": "Have a nice day",
       "url": "https://open.spotify.com/track/3FmTrTjnEZ9ZX7b0LUPZYW"
-    },
-    {
-      "added_at": "2023-11-21 15:00:00",
-      "album": {
-        "name": "replica",
-        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 276223,
-      "name": "\u305d\u3093\u306abitter\u306a\u8a71",
-      "url": "https://open.spotify.com/track/4DmmljTCS4ViQRSLCiMnOt"
     },
     {
       "added_at": "2023-11-21 15:00:00",

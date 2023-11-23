@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs\. Cover: Ankit Baiyanpuria
 
-71 songs - 3 hr 33 min
+72 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Chora Gaam Ka](https://open.spotify.com/track/0zcGWOUvePGVGRjxQ0FC7h) | [Rohit Sardhana](https://open.spotify.com/artist/0Q0kJJdWZIZP0niaKPifDY) | [Chora Gaam Ka](https://open.spotify.com/album/6V3Qpx4kXCSnTnm4X47xrR) | 3:51 | 2023-10-20 |  |
 | [Chore Haryane Aale](https://open.spotify.com/track/2YTKohkHJHXgRCut4Ew0HS) | [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [PINNOCIO](https://open.spotify.com/artist/6iNOTxWm3HgwNKL3MhFvzY), [Ankit Baiyanpuria](https://open.spotify.com/artist/1tYgxFs8KyYSXCfQGFsnsu) | [Chore Haryane Aale](https://open.spotify.com/album/7fd96zMwZ0cbsMCmxHyhLf) | 3:27 | 2023-10-09 |  |
 | [Convoy](https://open.spotify.com/track/70ouErfLUxUY2WQwcQI2fO) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Convoy](https://open.spotify.com/album/4ZcTQRJtPrN8azjI83NHNg) | 4:35 | 2023-10-20 |  |
+| [Death Row](https://open.spotify.com/track/0Rx6TVOQ137NAN4UZF6GmT) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Death Row](https://open.spotify.com/album/7IflR8avCHPbAfp5wOpoD3) | 3:41 | 2023-11-22 |  |
 | [Declare](https://open.spotify.com/track/3wiHYkijyJp1yqq4qIAQ6I) | [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf), [Komal Choudhary](https://open.spotify.com/artist/42TuhqUBzIpywk1h4QlUyT), [Biru Kataria,Fiza Choudhary](https://open.spotify.com/artist/5LS1kuFh0mMZLe7t7n75wH) | [Declare](https://open.spotify.com/album/3qIl0JOhAkbLNjoAq9qWew) | 3:17 | 2023-07-24 |  |
 | [Demand](https://open.spotify.com/track/6QoYcLyjQNTOsgh9dRHFDM) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me), [Crush Wale Yaar](https://open.spotify.com/artist/5H3ASJionzrQzxNQQwhtsL) | [Demand](https://open.spotify.com/album/5HdrVdrrcFxmYPpLDgPoxU) | 2:34 | 2023-07-24 |  |
 | [Desi](https://open.spotify.com/track/4PdZM5PoGGLIFWfPquRnEd) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD](https://open.spotify.com/artist/30Bev10vDi5uByGqVky2MX) | [Desi](https://open.spotify.com/album/5I0yk3Qb3CaTM12ijQ0Z1U) | 3:33 | 2023-07-24 |  |
@@ -77,7 +78,7 @@
 | [Wheel Feel \(Feat\. Pranjal Dahiya\)](https://open.spotify.com/track/6gAgB2lfRXYywp9ixvOrOJ) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Wheel Feel \(Feat\. Pranjal Dahiya\)](https://open.spotify.com/album/7xESf5ZybX0vVQMZoih7qB) | 2:23 | 2023-07-24 |  |
 | [World Famous Haryanvi](https://open.spotify.com/track/4I5UULvQZeU6XuSPoC2u3W) | [Ashoka Deswal](https://open.spotify.com/artist/0fggoEiFOovUAaLHGFOseZ) | [World Famous Haryanvi](https://open.spotify.com/album/68rxbjQHUE8Hle8y6xsm6Y) | 2:52 | 2023-07-24 |  |
 | [Yaar Badmash](https://open.spotify.com/track/6vQYsw6Nfh3eI7CsrVz8A1) | [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs) | [Yaar Badmash](https://open.spotify.com/album/6DuHB7XdpvrHK11Ry4ffe4) | 3:10 | 2023-07-24 |  |
-| [Yaari](https://open.spotify.com/track/1GgE8OLZdV6X8vemSbGc0B) | [MD DesiRockstar](https://open.spotify.com/artist/5j28WuraZ1QL8A3IXruKU0), [Bunny Beats](https://open.spotify.com/artist/16FYhIBIBDW43AIviL9T4A) | [Yaari](https://open.spotify.com/album/4PZ0HxYICGGRROf4mM8UlN) | 2:29 | 2023-10-09 |  |
+| [Yaari](https://open.spotify.com/track/1GgE8OLZdV6X8vemSbGc0B) | [MD DesiRockstar](https://open.spotify.com/artist/5j28WuraZ1QL8A3IXruKU0), [Bunny Beats](https://open.spotify.com/artist/16FYhIBIBDW43AIviL9T4A) | [Yaari](https://open.spotify.com/album/4PZ0HxYICGGRROf4mM8UlN) | 2:29 | 2023-10-09 | 2023-11-23 |
 | [Yadav Maar Maran \(feat\. Akki Kalyan\)](https://open.spotify.com/track/3eqWEV3vl7YSITnYzzfW76) | [Sachin Yadav Official](https://open.spotify.com/artist/694xpjfQS0hWDQyGidnxGR) | [Yadav Maar Maran \(feat\. Akki Kalyan\)](https://open.spotify.com/album/0Y1KyxobsFGgQC3iufNDTY) | 3:09 | 2023-07-24 | 2023-08-01 |
 
 \*This playlist was first scraped on 2023-07-25. Prior content cannot be recovered.

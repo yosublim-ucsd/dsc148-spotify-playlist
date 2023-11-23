@@ -52,10 +52,28 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 153600,
       "name": "07:19:32",
       "url": "https://open.spotify.com/track/6E0cTY3jmPmElVNNmCqGrx"
+    },
+    {
+      "album": {
+        "name": "07:19:32",
+        "url": "https://open.spotify.com/album/4wI67lCdS3LRTeg5S0WRY4"
+      },
+      "artists": [
+        {
+          "name": "safmusic",
+          "url": "https://open.spotify.com/artist/6Iq2QcwNckedD5LwLDusw7"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "07:19:32",
+      "url": "https://open.spotify.com/track/7LdQC2u7wPLQd51l0OrlyQ"
     },
     {
       "album": {
@@ -2706,10 +2724,28 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 151751,
       "name": "Dancing When You're Dead",
       "url": "https://open.spotify.com/track/2RerWkbiaQpI1eOKxwW23S"
+    },
+    {
+      "album": {
+        "name": "Dancing When You're Dead",
+        "url": "https://open.spotify.com/album/1qynxmWVJti2YubCEWb2bg"
+      },
+      "artists": [
+        {
+          "name": "STAP Sigh Boys",
+          "url": "https://open.spotify.com/artist/0CaylYCVMWiEhpoZxxdDeu"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151751,
+      "name": "Dancing When You're Dead",
+      "url": "https://open.spotify.com/track/6DFbeSxrQ0e2PsUCCCiH4i"
     },
     {
       "album": {
@@ -3420,7 +3456,7 @@
     {
       "album": {
         "name": "Eclipse",
-        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
+        "url": "https://open.spotify.com/album/3awnnhSoffzFbLrQs0QnKA"
       },
       "artists": [
         {
@@ -3431,6 +3467,24 @@
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 217659,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/3xUemE6fdgQKwymzvCjHJt"
+    },
+    {
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-23",
       "duration_ms": 217659,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
@@ -6427,6 +6481,24 @@
     },
     {
       "album": {
+        "name": "Last Supper",
+        "url": "https://open.spotify.com/album/5c2Aeu1g0pwsQnpqXgvzlu"
+      },
+      "artists": [
+        {
+          "name": "GLASGOW",
+          "url": "https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200193,
+      "name": "Last Supper",
+      "url": "https://open.spotify.com/track/4sqPcQyiHESSahprYt5LMx"
+    },
+    {
+      "album": {
         "name": "Late summer waves",
         "url": "https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU"
       },
@@ -6701,6 +6773,28 @@
     },
     {
       "album": {
+        "name": "Loa",
+        "url": "https://open.spotify.com/album/5OqNUWEYKUC2EBCIyJCzbJ"
+      },
+      "artists": [
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        },
+        {
+          "name": "knoak",
+          "url": "https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226476,
+      "name": "Loa",
+      "url": "https://open.spotify.com/track/2v5d3HDGwzyiJ7hI7cOhLt"
+    },
+    {
+      "album": {
         "name": "LOA",
         "url": "https://open.spotify.com/album/6e3mISa6hpUWZFkmiv3Vdo"
       },
@@ -6716,7 +6810,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 226476,
       "name": "LOA",
       "url": "https://open.spotify.com/track/7fFwkEjPSEapRqQRSOH8uL"
@@ -7096,7 +7190,7 @@
     {
       "album": {
         "name": "Maybe I should die with you",
-        "url": "https://open.spotify.com/album/6LblXqNqBXHUMUTLzmhX7C"
+        "url": "https://open.spotify.com/album/0FEkgIsDVj9Aeyd1iApTG3"
       },
       "artists": [
         {
@@ -7107,6 +7201,24 @@
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 335429,
+      "name": "Maybe I should die with you",
+      "url": "https://open.spotify.com/track/1SUUK6C8DAteFfcOygsdJo"
+    },
+    {
+      "album": {
+        "name": "Maybe I should die with you",
+        "url": "https://open.spotify.com/album/6LblXqNqBXHUMUTLzmhX7C"
+      },
+      "artists": [
+        {
+          "name": "HOME",
+          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-23",
       "duration_ms": 335429,
       "name": "Maybe I should die with you",
       "url": "https://open.spotify.com/track/33W1lz1ejtTU4NOfoesFp2"
@@ -8844,6 +8956,24 @@
       "duration_ms": 273396,
       "name": "PANORAMA WORLD",
       "url": "https://open.spotify.com/track/70rnHbHv0WkMF8oQgIrVDL"
+    },
+    {
+      "album": {
+        "name": "Singer's High",
+        "url": "https://open.spotify.com/album/7IMFRkZNqf5y7cEZvE7cky"
+      },
+      "artists": [
+        {
+          "name": "Singer's High",
+          "url": "https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172466,
+      "name": "panzamasuto",
+      "url": "https://open.spotify.com/track/1zVMbhWohOGBTxK5SPd83c"
     },
     {
       "album": {
@@ -15212,7 +15342,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 200193,
       "name": "\u3084\u308f\u3089\u304b\u3044\u30d1\u30f3",
       "url": "https://open.spotify.com/track/13iGFzuBbWAip4qIoVwdEV"
@@ -16832,7 +16962,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 172466,
       "name": "\u30d1\u30f3\u30b6\u30de\u30b9\u30c8",
       "url": "https://open.spotify.com/track/1ObqbQDyABhBhhofOITc58"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,741 likes - 104 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,755 likes - 104 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 59 | [Regenjacke](https://open.spotify.com/track/6rIPv85eTCIPBKjuV1NkOb) | [Disarstar](https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Regenjacke](https://open.spotify.com/album/1TmkV0WB5zs6caFt334uei) | 2:43 |
 | 60 | [Someone](https://open.spotify.com/track/2304CYfbu2y5QYY5Ale7Vj) | [Bayuk](https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Someone](https://open.spotify.com/album/0W1ghSYxUZUV9MmdcQ5uDz) | 2:14 |
 | 61 | [Zürich](https://open.spotify.com/track/6dMTEGYnfL5TkkLYqAlxPq) | [Laurin Buser](https://open.spotify.com/artist/0rjivryTp9P7Ks1vQT5kG3), [Audio Dope](https://open.spotify.com/artist/7vByi0TCh4wNTdqNK7dNqe) | [Zürich](https://open.spotify.com/album/0QH5PeOfD7Eh0kaOFCAVPv) | 3:18 |
-| 62 | [Kaltes Berlin](https://open.spotify.com/track/6m4HrJmRbzbTEcol4RUvL7) | [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg), [b\-flat](https://open.spotify.com/artist/6E5vbB8yEGcZ3jEhfiHB8I), [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY) | [Kaltes Berlin](https://open.spotify.com/album/610xqBPXlxPmEOu6QgJNr8) | 3:02 |
+| 62 | [Kaltes Berlin](https://open.spotify.com/track/6m4HrJmRbzbTEcol4RUvL7) | [Herbert Grönemeyer](https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg), [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY) | [Kaltes Berlin](https://open.spotify.com/album/610xqBPXlxPmEOu6QgJNr8) | 3:02 |
 | 63 | [GO!](https://open.spotify.com/track/5QQdGD8Nc3btdZswgLOdCJ) | [xthedoc](https://open.spotify.com/artist/6mGFlAPqigaj2KL5DFovck) | [SORRY FOR BEING TOXIC](https://open.spotify.com/album/2uNpfTW1etR1RHHpGImF3k) | 2:36 |
 | 64 | [Es zieht im Paradies](https://open.spotify.com/track/72japCviuui2IqOffiZurS) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Es zieht im Paradies](https://open.spotify.com/album/1gK7m86MSO7JTqmlO7DKvM) | 3:05 |
 | 65 | [Different Eyes](https://open.spotify.com/track/6DUcejOi1r0yHgbfwDUzaH) | [Tobias Jensen](https://open.spotify.com/artist/58b7ah7ekcjMDdqRXp0VrK) | [Different Eyes](https://open.spotify.com/album/3xXkAcNspdg0TG7s3QY2rR) | 3:40 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 103 | [Geisterfahrt](https://open.spotify.com/track/5jr0CVRzBNct2PuHKPN9mN) | [Sam James](https://open.spotify.com/artist/3VQwTh92cOv9BsboReaIQy) | [Geisterfahrt](https://open.spotify.com/album/6B0MZzJvTTeRjGNKMNMENb) | 2:10 |
 | 104 | [This ain’t love](https://open.spotify.com/track/1WU5JW11ZiNqJnqxbJ9Wm3) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8), [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [Elisabeth](https://open.spotify.com/album/1ojZ56lN40DofYZtvz78vp) | 3:26 |
 
-Snapshot ID: `MCxjN2IxNjRhNTNkYWU5NmE1OWQ1MDRmNGYyZDcyYWM4MTZhZmI1ODdh`
+Snapshot ID: `MCw3Y2E3NjRkYzM5NTVjZmJmNzY1YzQ3OWQwOTU3MzUyMDE3YzQ4ZWI3`

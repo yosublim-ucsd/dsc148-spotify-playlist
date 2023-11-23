@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: ProfJam.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,555 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,603 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 67 | [Gosta](https://open.spotify.com/track/2X10SwvnLgiESulxlxczHz) | [Kelson Most Wanted](https://open.spotify.com/artist/12GghNFuOPqpisGJPLH0Jn), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Espiritual](https://open.spotify.com/album/7xTaxeHz6oesIEjdahzG7O) | 3:12 |
 | 68 | [Conclusão](https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Conclusão](https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE) | 2:27 |
 | 69 | [SAFE \(feat\. Lhast, LON3R JOHNY & 9 Miller\)](https://open.spotify.com/track/2DFM9kky0Jp7C4VSPspR2i) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX) | [SAFE \(feat\. Lhast, LON3R JOHNY & 9 Miller\)](https://open.spotify.com/album/4c327lXMvrvL8c5ChWcwq2) | 3:29 |
-| 70 | [Baba \- Remix](https://open.spotify.com/track/43YdIDJpvSDplyF6oL1DYI) | [Dezinho](https://open.spotify.com/artist/6HV1KRb1BBx4VgcXyBmXxA), [Bebuxxa](https://open.spotify.com/artist/6Y8OUOqy57oaLHX3LzZWgo) | [Baba \(Remix\)](https://open.spotify.com/album/3cbfpMUO3BlEfkGCoE3Y9Q) | 3:29 |
-| 71 | [Malandro](https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Malandro](https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe) | 3:30 |
+| 70 | [Malandro](https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Malandro](https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe) | 3:30 |
+| 71 | [Baba \- Remix](https://open.spotify.com/track/43YdIDJpvSDplyF6oL1DYI) | [Dezinho](https://open.spotify.com/artist/6HV1KRb1BBx4VgcXyBmXxA), [Bebuxxa](https://open.spotify.com/artist/6Y8OUOqy57oaLHX3LzZWgo) | [Baba \(Remix\)](https://open.spotify.com/album/3cbfpMUO3BlEfkGCoE3Y9Q) | 3:29 |
 | 72 | [Coisas na Cabeça](https://open.spotify.com/track/5K91m4uOhos4AhyLhb6Ilc) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu) | [Coisas na Cabeça](https://open.spotify.com/album/5a82H0UW4hecXTZWD713Aq) | 3:31 |
 | 73 | [Hoji N'ka ta Rola](https://open.spotify.com/track/3EtXiDhRO8psTWs2uY8nyA) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Hoji N'ka ta Rola](https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR) | 3:56 |
 | 74 | [CHRISTIAN DIOR](https://open.spotify.com/track/1hERc5FfnJ09h2wMHBJOqN) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n), [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx) | [CHRISTIAN DIOR](https://open.spotify.com/album/53mSlu9sPIazTH9T5McbmU) | 3:14 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 79 | [Good Life](https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu) | [Good Life](https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6) | 3:40 |
 | 80 | [Morte do Artista](https://open.spotify.com/track/049X01PzvnR4faZt2I3eXr) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna) | [Morte do Artista](https://open.spotify.com/album/7a88VpAUQJiWQbrlWOF9oL) | 3:27 |
 
-Snapshot ID: `MCwyN2M5ZTc0OWQzNzVmZTM2OTkyMTIzZjE5NTZlNDUzOWNhZTg3ZjIz`
+Snapshot ID: `MCw1NGMyNjAzODEwZGM4MGM3NTQ4NDQ5NzZjYjk2ZmU3OGRiZWUwMGQ2`

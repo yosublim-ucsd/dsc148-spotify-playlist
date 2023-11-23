@@ -4,7 +4,7 @@
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=bWfP8oYHRI6Scnl72IzCZA">Tyla</a>
 
-267 songs - 14 hr 13 min
+269 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Dangerous \(feat\. Ayra Starr\)](https://open.spotify.com/track/0hnfvkzawEjVVxBUWDEnEL) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Bravo](https://open.spotify.com/album/2VrbmxYUpIxZHb6uq7d695) | 2:58 | 2021-10-08 | 2022-05-06 |
 | [DECLAN RICE](https://open.spotify.com/track/0QdQh3umB7stVOExuHlWvl) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 2:04 | 2023-10-05 | 2023-10-20 |
 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-05-04 |  |
-| [Dejavu](https://open.spotify.com/track/3ZwqPR9wHrcH1yEmm3nBto) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/4yOuw6mqRk6nusJyfT3Kvk) | 2:40 | 2023-06-16 |  |
+| [Dejavu](https://open.spotify.com/track/3ZwqPR9wHrcH1yEmm3nBto) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/4yOuw6mqRk6nusJyfT3Kvk) | 2:40 | 2023-06-16 | 2023-11-23 |
+| [Dejavu](https://open.spotify.com/track/4o9Byedt716sEyVFu1cQjZ) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj) | 2:40 | 2023-11-17 |  |
 | [Dior](https://open.spotify.com/track/6nLdg1lpE3dHLmNam1aoA6) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave](https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD) | 3:40 | 2022-05-05 | 2023-05-05 |
 | [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 | 2020-09-10 | 2022-05-06 |
 | [DND](https://open.spotify.com/track/0BVVrZ3UL7b3VU3jE234fr) | [Dunnie](https://open.spotify.com/artist/5q1uxBdFXCDZDdNOw2rzD2) | [DND](https://open.spotify.com/album/0WENkwbQAil9puByD0fKZd) | 2:48 | 2023-05-04 |  |
@@ -161,7 +162,8 @@
 | [Loyalty](https://open.spotify.com/track/2oOr7XZmuqYTdmCnC5qQsC) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Loyalty](https://open.spotify.com/album/1xaW0G0ccKSbUuHfYGVhbL) | 2:47 | 2022-05-05 | 2023-05-05 |
 | [Mad Apology](https://open.spotify.com/track/4rl3QSAy9yZ0n6yc0vLQF0) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Anger Management](https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4) | 3:00 | 2023-06-08 |  |
 | [Maitama \(Going\)](https://open.spotify.com/track/6u333HFOmt5OTEqNg5qkEJ) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1) | [Maitama \(Going\)](https://open.spotify.com/album/3cErrQwNkGcBR37wIZUDd5) | 3:26 | 2022-11-18 | 2023-05-05 |
-| [Man of The Year](https://open.spotify.com/track/4UdDJ77xjH9ru5r5F9kfOG) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1EUh0evo2sfC0Y8T0cnPAd) | 2:24 | 2023-06-27 |  |
+| [Man of The Year](https://open.spotify.com/track/4UdDJ77xjH9ru5r5F9kfOG) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1EUh0evo2sfC0Y8T0cnPAd) | 2:24 | 2023-06-27 | 2023-11-23 |
+| [Man of The Year](https://open.spotify.com/track/6OhEAnxF6FzPoUU3KxH44F) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn) | 2:24 | 2023-11-17 |  |
 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 | 2022-06-30 | 2023-05-05 |
 | [Many Things](https://open.spotify.com/track/7rIHP8C7oHYONnJpLjVnAc) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Many Things](https://open.spotify.com/album/1yS7tbUsMdT1D1tcwGKNIe) | 2:47 | 2023-05-04 |  |
 | [Mapuka](https://open.spotify.com/track/2OwWSctJ0S8Nd44gBzmQQC) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Dikoo](https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw), [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Mapuka](https://open.spotify.com/album/0FF6Wtr4hqAWcUKyWto24h) | 3:18 | 2023-09-14 |  |

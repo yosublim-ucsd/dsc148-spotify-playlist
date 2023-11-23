@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Wyatt Flores, MacKenzie Porter, Warren Zeiders and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,909 likes - 68 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,024 likes - 68 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 27 | [Hillbillies & Betties](https://open.spotify.com/track/4EjSN8BDsK4Uxs5tYZYjTz) | [Renee Blair](https://open.spotify.com/artist/6sv0SHO2ZhBe1i0xkk7uM1) | [Hillbillies & Betties](https://open.spotify.com/album/4t4bMWco8PCsnBfU1chtoi) | 2:57 |
 | 28 | [Dive Bar](https://open.spotify.com/track/7Es3jo5w8VMQai8U9U0pO2) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM), [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Dive Bar](https://open.spotify.com/album/4vzsVvIlOfhkH3Ka6QkfXi) | 3:15 |
 | 29 | [Jack and Diet Coke \- Juicy J Remix](https://open.spotify.com/track/2ggX4hdFiaYAKIILwV9xD9) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Jack and Diet Coke \(Juicy J Remix\)](https://open.spotify.com/album/7Mw8aq0bzSDh3ruDtKaSfB) | 3:10 |
-| 30 | [On My Mind \(feat\. Taylor Austin Dye\)](https://open.spotify.com/track/32RRwgVIkGgOVt4o4Gnexz) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez), [Taylor Austin Dye](https://open.spotify.com/artist/25fKXUc8KaT2o17A094b15) | [Place I Don't Belong](https://open.spotify.com/album/6AXwGgFZ6KojA17l64XkLU) | 2:39 |
+| 30 | [On Your Mind \(feat\. Taylor Austin Dye\)](https://open.spotify.com/track/32RRwgVIkGgOVt4o4Gnexz) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez), [Taylor Austin Dye](https://open.spotify.com/artist/25fKXUc8KaT2o17A094b15) | [Place I Don't Belong](https://open.spotify.com/album/6AXwGgFZ6KojA17l64XkLU) | 2:39 |
 | 31 | [90s Rap Mashup](https://open.spotify.com/track/067ogyD1BIeZDh4UD0yV3Y) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [90s Rap Mashup](https://open.spotify.com/album/5Kt5QHJX0wnEk3A3mAApR5) | 3:30 |
 | 32 | [Off His Rocker](https://open.spotify.com/track/3yW9kTgiq94zxdp9zJhkds) | [Payton Smith](https://open.spotify.com/artist/4ZLKYFbf4KJWJR0MeQWLEt) | [Off His Rocker](https://open.spotify.com/album/5GePr1I7DoTmkBdZfSvLgS) | 3:12 |
 | 33 | [Neon Sky](https://open.spotify.com/track/1ncJzzb1ATs2pq3deHZsM6) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Map Dot Missing You](https://open.spotify.com/album/7axZWRgJx6LVZHtrW2Y4sv) | 3:02 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 67 | [Goin Out Sober](https://open.spotify.com/track/7Fc7E271oNVX4gXGDrHZDo) | [Tayler Holder](https://open.spotify.com/artist/5Hz3IW691fbgGqLk4yvlNN) | [Goin Out Sober](https://open.spotify.com/album/7uzIiJZ7Yj4w5Gh8leXv1E) | 3:16 |
 | 68 | [Get You Off That Fence](https://open.spotify.com/track/424P0OXKS5Lpae44oBTnJt) | [Matt Rogers](https://open.spotify.com/artist/05fmyImfk8ILasGDFWQkbC) | [Get You Off That Fence](https://open.spotify.com/album/6cV9t53nUqGdN3eEdt5kGQ) | 3:36 |
 
-Snapshot ID: `MCw1NGEzZjNmNzlmMjgxMjliNzI1YWE3YTE2ZjZjN2ViYjQ3Y2Y0ZTRj`
+Snapshot ID: `MCxlNWM3MTIwMTVlYTQxYzczY2RiNTUzMTRiZDJmMjBmM2RiZDdkOWQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Aziz Hedra
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,172 likes - 107 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,235 likes - 107 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 40 | [Halu](https://open.spotify.com/track/3LIRWQp6RKSZJC9vKvHGew) | [Krista Monica](https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz) | [Halu](https://open.spotify.com/album/348uE3kY6urfkxTZMjvTqd) | 4:19 |
 | 41 | [sleepcall](https://open.spotify.com/track/70dCKNNcuabq5dcbqDaO6K) | [Pelin](https://open.spotify.com/artist/2K4c57tnoM6U3Oy7b5KFUB) | [sleepcall](https://open.spotify.com/album/3qhyg4ygpuk3d7hCS9pts7) | 3:02 |
 | 42 | [Pria Idaman](https://open.spotify.com/track/7C3bOKEUJqooGKEwpMeawk) | [The Chasmala](https://open.spotify.com/artist/0VIItj9liYV72uUhayMLGB) | [Pria Idaman](https://open.spotify.com/album/6lQ2xMoVCaNIW4GTdpgEpL) | 4:19 |
-| 43 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
+| 43 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
 | 44 | [I Do](https://open.spotify.com/track/6sl8thmAsTzYfVw3jJ9z49) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel \(Deluxe\)](https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf) | 2:39 |
 | 45 | [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 |
 | 46 | [Answer Phone](https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Answer Phone](https://open.spotify.com/album/64J78r5rx9qs9ZJZ4xSkBt) | 2:40 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 59 | [santa doesn’t know you like i do](https://open.spotify.com/track/5mi0HQrZMhRb2MRdFiUP6v) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [fruitcake](https://open.spotify.com/album/7EisdwWcodpmHxgpGVE5Pg) | 3:09 |
 | 60 | [UUU](https://open.spotify.com/track/2Klf5ZEk8ug7qRpMiiB2JB) | [Vince](https://open.spotify.com/artist/3RnlokVV0FpqtV5FDeHYZd) | [The Drive](https://open.spotify.com/album/7040pvLMxs3NnuQao9PsgT) | 3:17 |
 | 61 | [Ride It](https://open.spotify.com/track/2CFHcnCYe7AGWoxwRdMx70) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H) | [Ride It](https://open.spotify.com/album/4vGP301b5kqTeeaeYpsMaM) | 2:18 |
-| 62 | [Lackin'](https://open.spotify.com/track/7l9LyA8LkmsXpMZ9WZ3ReC) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/4TdIVLLS4os2X4r2p6vTr5) | 2:59 |
-| 63 | [Matematika Cinta](https://open.spotify.com/track/2qHc1g7cWJwvSzIK7NqFtw) | [Novi Ayla](https://open.spotify.com/artist/5mf5kk94dM7dPugSKwvxy1), [Angel Lelga](https://open.spotify.com/artist/43TweGBrE4hm7UoxWqpUIF) | [Dua Jelita](https://open.spotify.com/album/2R79D0s9BDN6c2Fp1pPhsK) | 5:12 |
+| 62 | [Lackin'](https://open.spotify.com/track/7C6lV2MBF9SsQfNzb6hWUW) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/26osN3pVqjyhGUedWZIueX) | 2:59 |
+| 63 | [Matematika Cinta](https://open.spotify.com/track/2qHc1g7cWJwvSzIK7NqFtw) | [Novi Ayla](https://open.spotify.com/artist/5mf5kk94dM7dPugSKwvxy1) | [Matematika Cinta](https://open.spotify.com/album/2R79D0s9BDN6c2Fp1pPhsK) | 4:53 |
 | 64 | [Desire \(with VITA\)](https://open.spotify.com/track/6aCFpO6fjm5FTEsvqJtALr) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB) | [Desire](https://open.spotify.com/album/5rrC3LhLmzUkQQC5mqO5AY) | 2:58 |
 | 65 | [Baby Blue](https://open.spotify.com/track/5ZDdx332AQj2n6TOW0LlZU) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Baby Blue](https://open.spotify.com/album/4SZISLudRb6XD44SO2NBtZ) | 2:04 |
 | 66 | [You Don't Even Know Me](https://open.spotify.com/track/0gqspClYQRq1Bdc3R48lnj) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [You Don’t Even Know Me](https://open.spotify.com/album/1YSZG8X5xJNi3KL9pxgghn) | 2:31 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 106 | [Wherever](https://open.spotify.com/track/3BjJ7VHJrIrXPTmbWLE2oa) | [Arabelle](https://open.spotify.com/artist/7uU11RJKOt74chXI2s6eQf) | [Wherever](https://open.spotify.com/album/45tK8A8YV4q8nUZNMgckKc) | 3:03 |
 | 107 | [sleep with me on my birthday](https://open.spotify.com/track/5kn9bgoRskj3jgcEfsK1zL) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [sleep with me on my birthday](https://open.spotify.com/album/5H3aAu6WbGWDmLgCpx2OEs) | 2:55 |
 
-Snapshot ID: `MCxiOTVhNDU4YTFmYTBjZmE3MTYwZDViOWY2YmJkYmJkYzNmMTg5ZmFl`
+Snapshot ID: `MCw2YzA2ZTI5ZmMyMTc0ODA5ZDJjZmZjMzc0ZTNiMmU2YTNhNmIwOWRh`

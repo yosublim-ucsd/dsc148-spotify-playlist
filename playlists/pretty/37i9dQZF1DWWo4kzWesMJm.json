@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 141332,
+  "num_followers": 141406,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjY2OGE1ZjRlNGY0MmYzYTQyNTZmODI3NTBkZTcwNzhlZmRjMjEx",
+  "snapshot_id": "MCxmYjc1YzY3ZWI4NjJiZDg0NDVkMzQ0NjQ5ZTIyNjRhOWZlZjBkOWVi",
   "tracks": [
     {
       "added_at": "2023-11-16 16:29:20",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
+        "name": "Fais comme l'oiseau",
+        "url": "https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP"
+      },
+      "artists": [
+        {
+          "name": "Michel Fugain & Le Big Bazar",
+          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "Une belle histoire",
+      "url": "https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
         "name": "Le chemin",
         "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 210706,
       "name": "Le chemin (feat. Sita)",
       "url": "https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
-        "name": "Fais comme l'oiseau",
-        "url": "https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP"
-      },
-      "artists": [
-        {
-          "name": "Michel Fugain & Le Big Bazar",
-          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
-        }
-      ],
-      "duration_ms": 195306,
-      "name": "Une belle histoire",
-      "url": "https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
+        "name": "Miroirs",
+        "url": "https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        }
+      ],
+      "duration_ms": 156413,
+      "name": "Celui qui part",
+      "url": "https://open.spotify.com/track/4ZeveNuwkv5cUrkDsx2eGQ"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
         "name": "Sur La Route De Memphis",
         "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 173933,
       "name": "Sur la route de Memphis",
       "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
-        "name": "Le Premier Jour",
-        "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
-        }
-      ],
-      "duration_ms": 250413,
-      "name": "Le Premier jour (Du reste de ta vie)",
-      "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
+        "name": "Le Premier Jour",
+        "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+        }
+      ],
+      "duration_ms": 250413,
+      "name": "Le Premier jour (Du reste de ta vie)",
+      "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
         "name": "Sacha Distel: Crooner",
         "url": "https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 123053,
       "name": "La belle vie",
       "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
-        "name": "Miroirs",
-        "url": "https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu"
-      },
-      "artists": [
-        {
-          "name": "Joseph Kamel",
-          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
-        }
-      ],
-      "duration_ms": 156413,
-      "name": "Celui qui part",
-      "url": "https://open.spotify.com/track/4ZeveNuwkv5cUrkDsx2eGQ"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -683,30 +683,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "\u00c9ph\u00e9m\u00e8re",
-        "url": "https://open.spotify.com/album/3THI8m0WtBsYrdxKsRuS3w"
-      },
-      "artists": [
-        {
-          "name": "Grand Corps Malade",
-          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
-        },
-        {
-          "name": "Ben Mazu\u00e9",
-          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
-        },
-        {
-          "name": "Ga\u00ebl Faye",
-          "url": "https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg"
-        }
-      ],
-      "duration_ms": 225240,
-      "name": "Tailler la route",
-      "url": "https://open.spotify.com/track/3G6gPn5Ux19JYSXkrK34A3"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "L'Ange De Mon D\u00e9mon",
         "url": "https://open.spotify.com/album/37lOShWdQxr7gTVjKZm6v0"
       },
@@ -719,6 +695,22 @@
       "duration_ms": 219333,
       "name": "Ulysse",
       "url": "https://open.spotify.com/track/6OPNvqvtQf9QT5zPh8wDk7"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Amoureuse (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9ronique Sanson",
+          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Amoureuse - Remasteris\u00e9 en 2008",
+      "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -739,18 +731,26 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Amoureuse (Edition Deluxe)",
-        "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
+        "name": "\u00c9ph\u00e9m\u00e8re",
+        "url": "https://open.spotify.com/album/3THI8m0WtBsYrdxKsRuS3w"
       },
       "artists": [
         {
-          "name": "V\u00e9ronique Sanson",
-          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
+          "name": "Grand Corps Malade",
+          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
+        },
+        {
+          "name": "Ben Mazu\u00e9",
+          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+        },
+        {
+          "name": "Ga\u00ebl Faye",
+          "url": "https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg"
         }
       ],
-      "duration_ms": 221600,
-      "name": "Amoureuse - Remasteris\u00e9 en 2008",
-      "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
+      "duration_ms": 225240,
+      "name": "Tailler la route",
+      "url": "https://open.spotify.com/track/3G6gPn5Ux19JYSXkrK34A3"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
+        "name": "\u00e0 2 \u00e0 3",
+        "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 201138,
+      "name": "Call on me - feat. Ed Sheeran",
+      "url": "https://open.spotify.com/track/2Hn8kSDjl8qAJ0BVgFYcnp"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
         "name": "Belle Ile En Mer",
         "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 189666,
       "name": "Non non rien n'a chang\u00e9",
       "url": "https://open.spotify.com/track/1fxoAloBlcKe3t49QwIL4m"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
-        "name": "\u00e0 2 \u00e0 3",
-        "url": "https://open.spotify.com/album/4cuSo5bm0er72EcqLcJZ9d"
-      },
-      "artists": [
-        {
-          "name": "Vianney",
-          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 201138,
-      "name": "Call on me - feat. Ed Sheeran",
-      "url": "https://open.spotify.com/track/2Hn8kSDjl8qAJ0BVgFYcnp"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
+        "name": "Charlotte",
+        "url": "https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "duration_ms": 196693,
+      "name": "Les choses qu'on fait",
+      "url": "https://open.spotify.com/track/240tflmnpjIPLhT60svcaw"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
         "name": "In\u00e9dits 1968-1998",
         "url": "https://open.spotify.com/album/1MlpnvY0WaNqf3fzEoklGj"
       },
@@ -1215,18 +1231,18 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Charlotte",
-        "url": "https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu"
+        "name": "La loi du papillon",
+        "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
       },
       "artists": [
         {
-          "name": "Vitaa",
-          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
         }
       ],
-      "duration_ms": 196693,
-      "name": "Les choses qu'on fait",
-      "url": "https://open.spotify.com/track/240tflmnpjIPLhT60svcaw"
+      "duration_ms": 173266,
+      "name": "D\u00e9pass\u00e9",
+      "url": "https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -1283,26 +1299,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Pays des merveilles",
-        "url": "https://open.spotify.com/album/43YnMTktKT5nEJoC5W5XXC"
-      },
-      "artists": [
-        {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
-        },
-        {
-          "name": "CEUZANY",
-          "url": "https://open.spotify.com/artist/5AYXYNFAvk8uUmCa5FDe7L"
-        }
-      ],
-      "duration_ms": 206619,
-      "name": "Pays des merveilles",
-      "url": "https://open.spotify.com/track/5lph5Ohom4uGk7pQDyLPJB"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "Animaux fragiles",
         "url": "https://open.spotify.com/album/0bM7IqCH0vPrYCrhFiScY6"
       },
@@ -1323,18 +1319,22 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Je Dis Aime",
-        "url": "https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav"
+        "name": "Pays des merveilles",
+        "url": "https://open.spotify.com/album/43YnMTktKT5nEJoC5W5XXC"
       },
       "artists": [
         {
-          "name": "-M-",
-          "url": "https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6"
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        },
+        {
+          "name": "CEUZANY",
+          "url": "https://open.spotify.com/artist/5AYXYNFAvk8uUmCa5FDe7L"
         }
       ],
-      "duration_ms": 236600,
-      "name": "Je dis aime",
-      "url": "https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO"
+      "duration_ms": 206619,
+      "name": "Pays des merveilles",
+      "url": "https://open.spotify.com/track/5lph5Ohom4uGk7pQDyLPJB"
     }
   ],
   "unique_name": "Bleu Blanc Route",

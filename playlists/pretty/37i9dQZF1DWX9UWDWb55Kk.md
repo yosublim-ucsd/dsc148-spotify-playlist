@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > La música de la séptima temporada de ÉLI7E vive aquí ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,115 likes - 408 songs - 1 day 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,127 likes - 408 songs - 1 day 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -235,7 +235,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 225 | [Bad Attitude](https://open.spotify.com/track/4pla7Qmpw3SHEe3aHZkFEf) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3), [Klergy](https://open.spotify.com/artist/1p9Lr8nFJ21Jej6dwMLngp) | [Bad Attitude](https://open.spotify.com/album/3gKtT1weq4ZQWMG3XBqoKj) | 2:51 |
 | 226 | [Kind of Love](https://open.spotify.com/track/1V028kR7hQgxkibAYOMntP) | [Rat City](https://open.spotify.com/artist/6VSMAVF00xwG8Adoqnbqy6), [Isak Heim](https://open.spotify.com/artist/3noOJBzljbPMoifF6wY12v) | [Kind of Love \(feat\. Isak Heim\)](https://open.spotify.com/album/2n32yXbJfmXJHF28laEV7j) | 3:22 |
 | 227 | [Greyhound](https://open.spotify.com/track/0VffaI2jwQknRrxpECYHsF) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Until Now](https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L) | 6:50 |
-| 228 | [Swipe It Off](https://open.spotify.com/track/5EkkonCZXg6dRf9wSBqEtT) | [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Brazzabelle](https://open.spotify.com/artist/0Vqd4JxqpC1sfl2n0Cn0Zr), [Zanillya Farrell](https://open.spotify.com/artist/3ky48Nd3PX3w6xJXVSFsrM) | [Swipe It Off](https://open.spotify.com/album/4ZIqYLcgit6njZ4RjHMZck) | 2:25 |
+| 228 | [Swipe It Off](https://open.spotify.com/track/5EkkonCZXg6dRf9wSBqEtT) | [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Brazzabelle](https://open.spotify.com/artist/0Vqd4JxqpC1sfl2n0Cn0Zr), [Zanillya](https://open.spotify.com/artist/525tLjcAVmE8JpqncIAD7p) | [Swipe It Off](https://open.spotify.com/album/4ZIqYLcgit6njZ4RjHMZck) | 2:25 |
 | 229 | [Wild Ones](https://open.spotify.com/track/2Nfwhr89NY1PKY0Cb4If7o) | [The Rassle](https://open.spotify.com/artist/1w7xqTJFKpD7XS03t0KkuU) | [Wild Ones](https://open.spotify.com/album/3HmVyQwJj2ectPIPdP9zHF) | 4:05 |
 | 230 | [Autoestima \(Feat\. Lola Indigo, Alizzz\) \- Remix](https://open.spotify.com/track/7cmRd1iwDaANckyPHSOv5V) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Autoestima \(Feat\. Lola Indigo, Alizzz\) \[Remix\]](https://open.spotify.com/album/1rQveAvG3YlWrgnySx9QUu) | 3:27 |
 | 231 | [Baza Ba Skivere](https://open.spotify.com/track/7dQ27JNR15yJITJaj8deG7) | [Bala Bala Boyz](https://open.spotify.com/artist/6VEV31FFx8Fh0cO37Twj11) | [Bana Zamba](https://open.spotify.com/album/6fsvoJxNacQJtGVjCOjzRG) | 3:26 |
@@ -417,4 +417,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 407 | [1987 \- Original mix](https://open.spotify.com/track/2w74y6Iy98dFo2buhXu4fU) | [Ticon](https://open.spotify.com/artist/1UjhKEWO8s7Vvidh2LzwZ1) | [Iboga Revival Vol.01](https://open.spotify.com/album/24Sc7Xy1Gpauxjp8f3rfV1) | 8:27 |
 | 408 | [You Are the One](https://open.spotify.com/track/4ZWmHquNez0tTqRKCAu7TQ) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Amador](https://open.spotify.com/album/27scONugjs898tPlDCKo3p) | 3:36 |
 
-Snapshot ID: `MCw5YjcwNzkyMTg0ZWM5YjQwYjg1YjQ0NjcwNGQ3ZWQ3ODU0MWIxMzlk`
+Snapshot ID: `MCxhMjk2NGZkMTYwMDA5M2YxOTNhYzExYjYxNDYwMWFmNDRlNzZhYWU5`

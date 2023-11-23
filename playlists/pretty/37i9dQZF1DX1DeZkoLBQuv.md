@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > Celebre o nascimento de Jesus com louvores natalinos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,899 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,925 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 26 | [Filho de Deus Amigo Meu](https://open.spotify.com/track/6Ho433JPP8UAtgUsasuOZZ) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Revolução](https://open.spotify.com/album/7lzq7OwJjzlM8ZD7g2kwqR) | 4:18 |
 | 27 | [Natal em Família](https://open.spotify.com/track/3aPIxvuSiITws5DPY1via8) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll) | [Natal em Família](https://open.spotify.com/album/4QDBdfwMYCdnme9obNYOy5) | 4:47 |
 | 28 | [O Milagre do Natal](https://open.spotify.com/track/0CmiLc9AYVBz18brWHIStv) | [Alex Gonzaga, Marcus Salles e Wilian Nascimento](https://open.spotify.com/artist/42IbPCXTETX76KEm5oW2hh) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:19 |
-| 29 | [Natal de Amor](https://open.spotify.com/track/2ygJjF3mMGpICRfkJZKQS3) | [Pâmela Jardim](https://open.spotify.com/artist/2FaZIsYvglfq2Bw97xhQ3b), [Rhayle Campos](https://open.spotify.com/artist/41U4eo2r9FH2gv8JtijGIf), [André Leono](https://open.spotify.com/artist/3wNqSrnDViXQMST6ioshi0), [Ministério Atitude](https://open.spotify.com/artist/0pbx4jJ7KkygStvqKplUV4) | [Natal de Amor](https://open.spotify.com/album/1ow4VlwnqoFnYqBaOQrZ40) | 5:01 |
-| 30 | [Natal](https://open.spotify.com/track/5JqMJ3rqFdyPjlzCEHrRnF) | [Voices](https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD) | [Natal](https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR) | 3:24 |
+| 29 | [Natal](https://open.spotify.com/track/5JqMJ3rqFdyPjlzCEHrRnF) | [Voices](https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD) | [Natal](https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR) | 3:24 |
+| 30 | [Natal de Amor](https://open.spotify.com/track/2ygJjF3mMGpICRfkJZKQS3) | [Pâmela Jardim](https://open.spotify.com/artist/2FaZIsYvglfq2Bw97xhQ3b), [Rhayle Campos](https://open.spotify.com/artist/41U4eo2r9FH2gv8JtijGIf), [André Leono](https://open.spotify.com/artist/3wNqSrnDViXQMST6ioshi0), [Ministério Atitude](https://open.spotify.com/artist/0pbx4jJ7KkygStvqKplUV4) | [Natal de Amor](https://open.spotify.com/album/1ow4VlwnqoFnYqBaOQrZ40) | 5:01 |
 | 31 | [Maravilhoso É / Rei dos Reis](https://open.spotify.com/track/10RdMJVJqgP8ooC3csHvi4) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Clássicos](https://open.spotify.com/album/3ZMh5UQE6PXXzx09BtUHz7) | 3:40 |
 | 32 | [Maria](https://open.spotify.com/track/1hDbPsFAV6FSFhvLIaEfuP) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 3:16 |
 | 33 | [Ó, Vinde, Adoremos](https://open.spotify.com/track/5DVZUWNEIsKUq12krk7On2) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Zoe Lilly](https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp) | [Ó, Vinde, Adoremos](https://open.spotify.com/album/18SwXFPhxjgOzEnJERhcBd) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 49 | [Surgem Anjos Proclamando](https://open.spotify.com/track/5pNlqLCLOabYZ4loPeomBL) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [Folk Christmas](https://open.spotify.com/album/0FzqPCxiw93GwXTou4IvZX) | 2:51 |
 | 50 | [Noite Feliz \(Stille Nacht\)](https://open.spotify.com/track/51CfgUkv6ZVK5MMtsuBgWT) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 4:44 |
 
-Snapshot ID: `MCwyMjc4YzFiOGVmYjc1MDJjYzAyMzRlN2E5NDk0YmFmMjNlZDI3MDA1`
+Snapshot ID: `MCxmODBiNWUyZjc5ZDczMWU5Y2YzYmQzMzQ4M2UwY2VkZjc4MDIzY2Yy`

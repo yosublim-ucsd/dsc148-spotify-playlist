@@ -350,7 +350,7 @@
     {
       "album": {
         "name": "Destructible",
-        "url": "https://open.spotify.com/album/39n6Z4LYELVW2vaElXsgxH"
+        "url": "https://open.spotify.com/album/71m5cZFoHcPHEDChFU3xrv"
       },
       "artists": [
         {
@@ -361,6 +361,24 @@
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 171830,
+      "name": "Destructible",
+      "url": "https://open.spotify.com/track/0A6B94apx89HIZgPxp33UA"
+    },
+    {
+      "album": {
+        "name": "Destructible",
+        "url": "https://open.spotify.com/album/39n6Z4LYELVW2vaElXsgxH"
+      },
+      "artists": [
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-23",
       "duration_ms": 171830,
       "name": "Destructible",
       "url": "https://open.spotify.com/track/73IXs3h1OUIecDOAoYvH15"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwcS5W73XRr.md) - [plain]
 
 > The original soundtrack to a dancefloor revolution, from the basement to the world \- this is Acid.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,764 likes - 48 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,905 likes - 48 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwcS5W73XRr.md) - [plain]
 | 18 | [Break 4 Love](https://open.spotify.com/track/4mk4dIw4updA2XbWQOZCoA) | [Raze](https://open.spotify.com/artist/1zZ0EgH5ZZ6ruxh0oViZc0) | [Break 4 Love](https://open.spotify.com/album/1r5pf1BQgipzAfzR6x0hak) | 5:26 |
 | 19 | [The Chase \- Smooth Mix](https://open.spotify.com/track/20in5yzly6u3AxrIWUOFiA) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [Classics](https://open.spotify.com/album/2LFSdOptnLt2lslUi5M68n) | 5:44 |
 | 20 | [In\-Ten\-Si\-T \(Justin Robertson Edit\)](https://open.spotify.com/track/7MZpzMpifYZ8JjHegxEvZT) | [Mickey Oliver](https://open.spotify.com/artist/38Z7qUi0hKwX35bT7AW7dE) | [The Art Of Acid Re\-Edits](https://open.spotify.com/album/29yqMCQDnePeZrNksbQb3c) | 7:16 |
-| 21 | [This Is Acid](https://open.spotify.com/track/0Pm1MZryiAy9VZe90imD2g) | [ACID MF](https://open.spotify.com/artist/3vdcl9hcqIowFbRGxQqAbt) | [This Is Acid](https://open.spotify.com/album/7jrZytNwpxHeFduqjDFPIe) | 4:56 |
+| 21 | [This is Acid](https://open.spotify.com/track/23HpSrqrULF8mF1WKdZRyl) | [Maurice](https://open.spotify.com/artist/6ji89XTJxUyNUkRXnZuFSZ) | [The Haçienda \- Acid House Classics](https://open.spotify.com/album/7lwBCmb2LjThWjPAasAyoW) | 4:37 |
 | 22 | [ACiD \- Pierre's ACiD FACE Mix](https://open.spotify.com/track/6u4REq4x66khAf6gjYY4k6) | [D.J\. Pierre](https://open.spotify.com/artist/6kfuLLbtWi4hOnZh7gMxt0) | [ACiD / Jack Da Groove](https://open.spotify.com/album/75n6hE7jUDaym4NHiNdGiM) | 6:18 |
 | 23 | [Papua New Guinea \- Translation 1 \- 12" Original](https://open.spotify.com/track/7a88AscDxctD2V4SqKk6fs) | [The Future Sound Of London](https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3) | [Papua New Guinea Translations](https://open.spotify.com/album/3eoUP3N4SiNbu7dd4ULmOb) | 4:59 |
 | 24 | [Hot Hands](https://open.spotify.com/track/3iMCVmBE4SLDFuZm4qCDoe) | [Hula](https://open.spotify.com/artist/2vjqIh27GaevR96cT0h9f0) | [Mad On Acid Vol\. 1 CD2](https://open.spotify.com/album/7u1t3m5nMwr27S5D7LUwsy) | 6:12 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwcS5W73XRr.md) - [plain]
 | 47 | [Pump Up The Acid \- Hardrock Striker K.O\. 12'S Mix](https://open.spotify.com/track/7tQIbrrNYmqki8e4yX0f1u) | [Michael Olivier](https://open.spotify.com/artist/0tTOxeN5CptlTVZuFh5vGw) | [Jackin' The Acid](https://open.spotify.com/album/6FPl4ww2oR0wmZv8OYvxOk) | 6:19 |
 | 48 | [The Garden of Eden \(A Himalayan Song\)](https://open.spotify.com/track/2yheDn4bIOJVZmfDSTzILA) | [The Garden Of Eden](https://open.spotify.com/artist/3BTGILbxq4Bjb5qwkIr3af), [Angela McCluskey](https://open.spotify.com/artist/0cJMitw1iwiFVc1MwfRxWX), [Mark Tinley](https://open.spotify.com/artist/0ytLhQB1D6Syrgetn8QHco), [Pam Hogg](https://open.spotify.com/artist/7uyKQ6IUwjoSSiwvmFi0YG) | [The Garden of Eden](https://open.spotify.com/album/0zRO73WKcyEzInguX9yubX) | 4:01 |
 
-Snapshot ID: `MCw5NmY4ZjZlOWRkODYzZGQwNTg4M2IxMmFhMjQ2MWU0YjUwYzZlYTEy`
+Snapshot ID: `MCxkOWQyOTRkNTQ2ZmFkYjliNzRkZmIzNThkMjZhZmJkN2ZiMGNmNjEy`

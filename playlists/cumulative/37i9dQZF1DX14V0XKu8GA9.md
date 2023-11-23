@@ -4,7 +4,7 @@
 
 > The wave of Latinos representing Hip\-Hop in the U.S\. Cover: King Lil G & Young Drummer Boy
 
-329 songs - 15 hr 32 min
+330 songs - 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Heartless](https://open.spotify.com/track/5LjyYOewMVX59gPXvHKdxo) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Heartless](https://open.spotify.com/album/5y30KHVGp4rVHme0Fq17Df) | 2:40 | 2022-07-06 | 2023-01-28 |
 | [Hello](https://open.spotify.com/track/6AJTjzjcJk1BPmFLNhLgYG) | [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC) | [Hello](https://open.spotify.com/album/6WSzeqdorZFOgN9fUanmZG) | 2:38 | 2022-01-10 | 2022-02-26 |
 | [High](https://open.spotify.com/track/2nkPcGygBk0S7RTsWdFLr6) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [High](https://open.spotify.com/album/7v6fz2Sq43ZReewY3UOUOP) | 2:15 | 2023-01-27 | 2023-05-28 |
+| [High Stakes](https://open.spotify.com/track/6DK4YwXkmJovNIJbLrbSvx) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [High Stakes](https://open.spotify.com/album/2Mg50CHp8AF18jNeRaWaD3) | 2:03 | 2023-11-23 |  |
 | [Hit List \(with BigXthaPlug & Big Yavo\)](https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 3:05 | 2023-07-28 |  |
 | [Hometown \- Remix](https://open.spotify.com/track/7sqjINADShaCnrTjYvTpHj) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [TEDIOUS](https://open.spotify.com/artist/1SVFYOra8X1PkHxidibFAV) | [Hometown \(Remix\)](https://open.spotify.com/album/6hhnhx8RqgkpvGtRlRoU1j) | 2:36 | 2023-05-27 |  |
 | [HOTBOX](https://open.spotify.com/track/3YcRYxAyBjDfbgV06qUFNz) | [ihateyouALX](https://open.spotify.com/artist/1ITIh5T2bdvDHALVgbR55O), [Nick Reed](https://open.spotify.com/artist/09heoAE0BM814OysRJsXe3) | [HOTBOX](https://open.spotify.com/album/44FgFhfpWj4xlapaY4866Y) | 3:41 | 2022-01-10 | 2022-02-25 |
@@ -229,7 +230,7 @@
 | [Preguntas \(feat\. D Smoke\)](https://open.spotify.com/track/6hxCLo1NKmkjGQ1KWekm14) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Preguntas \(feat\. D Smoke\)](https://open.spotify.com/album/7tzB7azJJSUd3xlvad2EFn) | 3:01 | 2022-06-07 | 2023-01-28 |
 | [PRO CLUB](https://open.spotify.com/track/4aTOaLYeM0WOhY1kmwS0zz) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [PRO CLUB](https://open.spotify.com/album/23IDJMWYQ8AFrVkw7x5h61) | 2:46 | 2022-02-25 | 2023-01-28 |
 | [Props](https://open.spotify.com/track/3K89G9TiC7SahIWGZ5DDCc) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Mah](https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5) | [Props](https://open.spotify.com/album/04fwpYWKcIOAiyRjo4WvQz) | 2:54 | 2023-05-27 | 2023-06-22 |
-| [Props](https://open.spotify.com/track/7lJzf1aOYFCETBbrLvdt4k) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Mah](https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5) | [Props](https://open.spotify.com/album/2LNkVTLJFYRz9sxzSVZ7rP) | 2:54 | 2023-05-27 |  |
+| [Props](https://open.spotify.com/track/7lJzf1aOYFCETBbrLvdt4k) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [Mah](https://open.spotify.com/artist/3YphOEEPD57GnkVgJZrLG5) | [Props](https://open.spotify.com/album/2LNkVTLJFYRz9sxzSVZ7rP) | 2:54 | 2023-05-27 | 2023-11-23 |
 | [Push It](https://open.spotify.com/track/10bY9V94M7Y9700hp4A3zX) | [DAISY SIMO](https://open.spotify.com/artist/7xBn4ObqYv4qP8X0Fb81dp) | [La Daisy](https://open.spotify.com/album/3xyyYu17BLPZABcyCVKFDb) | 2:22 | 2022-09-11 | 2023-01-28 |
 | [Put My Life on It](https://open.spotify.com/track/1dpTlkDdSAMTCPhu28FM92) | [Ybe](https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz) | [Paid in Full](https://open.spotify.com/album/7zbK5ee8Di5uPqqBuRW1hj) | 4:22 | 2022-02-25 | 2022-07-02 |
 | [Put Yo Hood Up](https://open.spotify.com/track/5yHXeweGNpVV4oXb8g8zN0) | [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Southside Hoodlum](https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ) | [No Hesitation](https://open.spotify.com/album/0872l0VaA9zcuG1NhSHjQQ) | 2:12 | 2022-01-10 | 2022-02-26 |

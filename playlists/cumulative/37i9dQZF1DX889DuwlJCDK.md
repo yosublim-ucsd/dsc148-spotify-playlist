@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。Cover: シンガーズハイ
 
-324 songs - 19 hr 54 min
+327 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Hangekiteki Sanka](https://open.spotify.com/track/2TCX7U0yP34HIOKLyXfz3z) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Hangekiteki Sanka](https://open.spotify.com/album/08QROagGDzR2Nz5n9lHoGU) | 4:17 | 2023-07-27 | 2023-08-16 |
 | [Happy Sad](https://open.spotify.com/track/232oLu8Rkz7YBt0oUcfy7i) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Departure : My New Me](https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0) | 2:50 | 2023-07-27 |  |
 | [hedonist.](https://open.spotify.com/track/1ilxwybAc0Sd3Gwc4oRKgi) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [HEDONIST](https://open.spotify.com/album/2hJqttVXOCMHCGrfqkkuRl) | 2:55 | 2023-07-27 | 2023-11-02 |
+| [Hima](https://open.spotify.com/track/3tI1VcYJ0TYFJowY3z3IBg) | [3markets\[ \]](https://open.spotify.com/artist/0HxV66MjdNTz6E2oHZxS6g) | [Hima](https://open.spotify.com/album/7qSk3L32X9nRUI7YV6ELJy) | 2:52 | 2023-11-21 |  |
 | [Himitsu](https://open.spotify.com/track/6mdV5v37CdoCbVXEtRahiU) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Himitsu](https://open.spotify.com/album/03sy8AL2bY0ejjG6vjko6a) | 3:27 | 2023-10-05 | 2023-11-08 |
 | [Himitsu](https://open.spotify.com/track/0HoZNIXm2wZ5qh3Ipc5AHR) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [Eisei no Yoru / Himitsu](https://open.spotify.com/album/40DrlmSNJQpMC058lWDYhJ) | 4:04 | 2023-10-24 | 2023-11-16 |
 | [Hontowane,](https://open.spotify.com/track/1p24ocb4bvCRId4cquDUHl) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:21 | 2023-11-14 |  |
@@ -79,6 +80,7 @@
 | [Koiwoshite](https://open.spotify.com/track/3hvEYruyX0x0zZXoTZ5RgE) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Koiwoshite](https://open.spotify.com/album/6x0T33qsWWfVD24C6Lji91) | 3:59 | 2023-11-14 |  |
 | [Kokkisin](https://open.spotify.com/track/3xN7nR1BQt9PewgVODVuit) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [Kokkisin](https://open.spotify.com/album/5cf61jQY5LOLwPpEPXgepe) | 3:06 | 2023-09-26 | 2023-10-17 |
 | [Lamp](https://open.spotify.com/track/1K9F6b0vDjtKkmpmW1Ub4E) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [Lamp](https://open.spotify.com/album/4B0JbnimIGL9UtO5Z3t0Ro) | 2:56 | 2023-09-12 | 2023-09-20 |
+| [Last Supper](https://open.spotify.com/track/4sqPcQyiHESSahprYt5LMx) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [Last Supper](https://open.spotify.com/album/5c2Aeu1g0pwsQnpqXgvzlu) | 3:20 | 2023-11-21 |  |
 | [Lies for you](https://open.spotify.com/track/3g7pMGtAkXcwOglNJcd9dS) | [Umnoise](https://open.spotify.com/artist/6mfqMKlmKZSjVBITWTT4Y7) | [Lies for you](https://open.spotify.com/album/5UHQEsqXzbOPQPrS7qoUpr) | 4:00 | 2023-11-14 | 2023-11-22 |
 | [Life Is Good](https://open.spotify.com/track/1EfPleE2AT7pvxpvFYIlIO) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [ugly beauty](https://open.spotify.com/album/28sDeJjrMZ6TmwiZQCJ0wY) | 4:24 | 2023-07-27 | 2023-10-22 |
 | [Love Hurts](https://open.spotify.com/track/53edT6tOZLJsRhFB96uvcU) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf), [蓮](https://open.spotify.com/artist/5moZ9eus9L5mQamT5SFtfe) | [Love Hurts](https://open.spotify.com/album/2HZ0CN6GwHo1JS7im9Vrbw) | 4:27 | 2023-10-17 | 2023-10-25 |
@@ -111,6 +113,7 @@
 | [OUR\-AWA\-HOUR!!](https://open.spotify.com/track/3pzF6qBlLfGG2rk8QIQ8xH) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [OUR\-AWA\-HOUR!!](https://open.spotify.com/album/7baaliEPecZK25JCO29ze3) | 2:29 | 2023-08-01 |  |
 | [Page One](https://open.spotify.com/track/3yWXrzzmQFMxOe9bVcQVJ2) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [Page One](https://open.spotify.com/album/3w754CuU5wKeIVJSn0IEa8) | 2:58 | 2023-10-31 |  |
 | [Pain Pain Pain](https://open.spotify.com/track/2ycQ68NmaWeLzlQHNUBtuI) | [teto](https://open.spotify.com/artist/5dzOZikdYydnlbmBNOS24S) | [手](https://open.spotify.com/album/16PQwAqrBvaLMuvdYShGc3) | 2:51 | 2023-07-27 | 2023-08-09 |
+| [panzamasuto](https://open.spotify.com/track/1zVMbhWohOGBTxK5SPd83c) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Singer's High](https://open.spotify.com/album/7IMFRkZNqf5y7cEZvE7cky) | 2:52 | 2023-11-21 |  |
 | [Peanut butter 2023 GIGA MAX](https://open.spotify.com/track/0r2abRSwPrVaYtiX5SeAt8) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [peanut butters II](https://open.spotify.com/album/32Y4rnV7l6GCXUy005ox3p) | 2:47 | 2023-11-14 | 2023-11-22 |
 | [Peppermint Gum](https://open.spotify.com/track/0ALSxIhd5E0qfXBum5AQCa) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [Peppermint Gum](https://open.spotify.com/album/4tGCW6bLt5nbGQSFVECn1I) | 3:50 | 2023-11-07 |  |
 | [Play](https://open.spotify.com/track/5Ec4YyeFG6IIYOf93DbzZ3) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Q.](https://open.spotify.com/album/68UCYi46B4pP5WUo6Yxeuf) | 3:35 | 2023-07-27 | 2023-08-02 |
@@ -169,7 +172,7 @@
 | [ぼくたちは無傷だ](https://open.spotify.com/track/3I1yL7X8bJMvGXwbPPSqT1) | [毎晩揺れてスカート](https://open.spotify.com/artist/6IvxcMAeLdqm8vGjSiTxwv) | [ぼくたちは無傷だ](https://open.spotify.com/album/5XJSwV6ZVRmleFjc5pIdbE) | 3:37 | 2023-07-27 | 2023-08-09 |
 | [まぶた](https://open.spotify.com/track/2TUKLEXyjtKOmTjJupAexh) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:16 | 2023-11-14 |  |
 | [もちもち](https://open.spotify.com/track/4jTi6dAHuebFmXXxP80gYR) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [もちもち](https://open.spotify.com/album/2q4S1j03cG4zpnFZ2cvOo9) | 5:05 | 2023-07-27 | 2023-08-16 |
-| [やわらかいパン](https://open.spotify.com/track/13iGFzuBbWAip4qIoVwdEV) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [やわらかいパン](https://open.spotify.com/album/09RDJ7ahRy1r4EY1Vy9a1v) | 3:20 | 2023-11-21 |  |
+| [やわらかいパン](https://open.spotify.com/track/13iGFzuBbWAip4qIoVwdEV) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [やわらかいパン](https://open.spotify.com/album/09RDJ7ahRy1r4EY1Vy9a1v) | 3:20 | 2023-11-21 | 2023-11-23 |
 | [ゆ](https://open.spotify.com/track/2W7vjjKEHsJwEHGNtjcFuF) | [ROMANKAKUMEI](https://open.spotify.com/artist/6jgUFsEBD3a3CW645IVQuN) | [ゆ](https://open.spotify.com/album/4DWbmkvim2AmjV1EB4fk4J) | 2:53 | 2023-09-12 | 2023-09-14 |
 | [ゆられり](https://open.spotify.com/track/5i0HAXe2g0a5B2NOWMDEIb) | [Umibare.](https://open.spotify.com/artist/2ikoEyDOZWiLMX01SSZLQO) | [ゆられり](https://open.spotify.com/album/4CTJDwfDxBQWIWAHU876e0) | 2:17 | 2023-09-05 | 2023-09-13 |
 | [わたしたちへ](https://open.spotify.com/track/78XrrMFIEGU8yOUdkn5umM) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [わたしたちへ](https://open.spotify.com/album/6bi87bNy6rch5PTXdjW1I6) | 4:05 | 2023-07-27 | 2023-08-09 |
@@ -206,7 +209,7 @@
 | [ノックブーツ](https://open.spotify.com/track/0qgj1atPxj1ae6rG7VHS0M) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ノックブーツ](https://open.spotify.com/album/6adm4VVFTHqIF4qmKbcpOd) | 3:11 | 2023-09-12 |  |
 | [ノーダウト](https://open.spotify.com/track/5DMEvbg3gUmiR5HIBWdveV) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 3:22 | 2023-08-15 |  |
 | [バッドリピートエンド](https://open.spotify.com/track/0647L6JfnQWufikSR6AabW) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [バッドリピートエンド](https://open.spotify.com/album/2PflW869EJaNYuPaHgK6gq) | 3:17 | 2023-07-27 |  |
-| [パンザマスト](https://open.spotify.com/track/1ObqbQDyABhBhhofOITc58) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [SINGER'S HIGH](https://open.spotify.com/album/0uqbdmdAkwobS4msDI68DG) | 2:52 | 2023-11-21 |  |
+| [パンザマスト](https://open.spotify.com/track/1ObqbQDyABhBhhofOITc58) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [SINGER'S HIGH](https://open.spotify.com/album/0uqbdmdAkwobS4msDI68DG) | 2:52 | 2023-11-21 | 2023-11-23 |
 | [ヒメイドディストーション](https://open.spotify.com/track/4QkWzvg0V6OrjsjSbNYlPL) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [夜間逃避行](https://open.spotify.com/album/1ysb6EC14AmOIpwuN5qyaJ) | 2:58 | 2023-09-05 | 2023-09-13 |
 | [ピクトグラム](https://open.spotify.com/track/3H9uf3sWoygzTXiU5sdn6a) | [dramastore](https://open.spotify.com/artist/4m7NpM6ekl26IgjouiqfwJ) | [LAST DAY\(S\) LAST](https://open.spotify.com/album/6LA6pioM7PbcyrAEn4DFpq) | 4:30 | 2023-07-27 | 2023-08-09 |
 | [ファジーネーブル](https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [ファジーネーブル](https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe) | 3:57 | 2023-07-27 |  |
@@ -283,7 +286,7 @@
 | [春時雨](https://open.spotify.com/track/2r8JOEVYE1zfKmibXja6Hz) | [RIP DISHONOR](https://open.spotify.com/artist/4aDGKnZOq8zStrKXfR3pWu) | [春時雨](https://open.spotify.com/album/2nkTLVmUPnMDhFzBPBp4ln) | 4:29 | 2023-08-08 | 2023-08-23 |
 | [晩夏の証](https://open.spotify.com/track/6KU3dJafIZsnlCEV78HwrU) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [晩夏の証](https://open.spotify.com/album/36HSuNcl0dgad1TuEoqVVd) | 5:45 | 2023-08-17 | 2023-08-19 |
 | [晴れるな](https://open.spotify.com/track/2YTSYQPXLljftwle3Q6Jom) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [晴れるな](https://open.spotify.com/album/3ghXwssaEDLOwvzMXYCHgS) | 3:08 | 2023-07-27 | 2023-10-13 |
-| [暇](https://open.spotify.com/track/293e3CLrYhSFE9gFmwolDL) | [3markets\[ \]](https://open.spotify.com/artist/0HxV66MjdNTz6E2oHZxS6g) | [暇](https://open.spotify.com/album/2rD7iojkiDlCSHbevEOHls) | 2:52 | 2023-11-21 |  |
+| [暇](https://open.spotify.com/track/293e3CLrYhSFE9gFmwolDL) | [3markets\[ \]](https://open.spotify.com/artist/0HxV66MjdNTz6E2oHZxS6g) | [暇](https://open.spotify.com/album/2rD7iojkiDlCSHbevEOHls) | 2:52 | 2023-11-21 | 2023-11-23 |
 | [最終電車](https://open.spotify.com/track/5w6BAOkBuEeu9etAliMA4a) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [最終電車](https://open.spotify.com/album/4YBeOztoozbacnkUrTIZ9a) | 3:22 | 2023-09-26 | 2023-09-28 |
 | [月が綺麗だって](https://open.spotify.com/track/7gALnxrfC3lMPhRJJUQPL8) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [月が綺麗だって](https://open.spotify.com/album/1mlgrd63GCXnZyaTrXA2Hj) | 4:28 | 2023-11-14 | 2023-11-22 |
 | [未恋](https://open.spotify.com/track/7di9SUFpG3DttWIodKMhJ0) | [606号室](https://open.spotify.com/artist/50CaItPFaCPzuA8juPqWfI) | [未恋](https://open.spotify.com/album/4QhL2RqwlVwJy8S8hQJ7LA) | 2:53 | 2023-07-27 |  |

@@ -2317,6 +2317,24 @@
     },
     {
       "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/4hPFkUHWLtzWxtn6hcINeS"
+      },
+      "artists": [
+        {
+          "name": "\u304a\u98a8\u5442\u3067\u30d4\u30fc\u30ca\u30c3\u30c4",
+          "url": "https://open.spotify.com/artist/6k0zURWsJhaiI1PWVt8CV4"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206953,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/7rSG25mWZzUGW274om6WhR"
+    },
+    {
+      "album": {
         "name": "MAISON de ROMANTIC",
         "url": "https://open.spotify.com/album/1LvEJrGQu3aEIfq1GoYAkL"
       },
@@ -8180,10 +8198,28 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 181000,
       "name": "Ruin Garden",
       "url": "https://open.spotify.com/track/0ges8Lc8lL7cs3TYpLnfer"
+    },
+    {
+      "album": {
+        "name": "Ruin Garden EP",
+        "url": "https://open.spotify.com/album/57a4UeoRGOuvzHHMgXS8hl"
+      },
+      "artists": [
+        {
+          "name": "STEREOGIRL",
+          "url": "https://open.spotify.com/artist/0VEN6k2yg8hCRyBHesHWSL"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Ruin Garden",
+      "url": "https://open.spotify.com/track/7mPu4eVF4rDEtVEl921h5O"
     },
     {
       "album": {
@@ -13648,7 +13684,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 206953,
       "name": "\u30a8\u30f3\u30c9\u30ec\u30b9",
       "url": "https://open.spotify.com/track/4NVdDiQzaxYw08F2Pzpwq7"
@@ -16284,7 +16320,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-25",
+      "date_removed": null,
       "duration_ms": 260588,
       "name": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30bb\u30d6\u30f3\u30b9",
       "url": "https://open.spotify.com/track/51jRHjjy4d41dN85nQzxcF"
@@ -20790,7 +20826,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 236692,
       "name": "\u72ac\u3053\u308d - ACOUSTIC ver.",
       "url": "https://open.spotify.com/track/23I8aRvG4XIC0stNGiynA1"

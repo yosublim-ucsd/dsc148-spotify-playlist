@@ -1,12 +1,12 @@
 {
   "description": "the soundtrack for your vitamin d fix. ",
-  "num_followers": 1054078,
+  "num_followers": 1054060,
   "original_name": "Soak Up The Sun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzg4NDE1NGFjY2FiMDk0MDhjMmQ0OTNlNWNiNzcwOWYxMTIzNjRl",
+  "snapshot_id": "MCw3MDIzZGU2ZDRiMjQ4NzdhMjVjOGVhN2Y3OGYxMjRjYTExYzI3NjA5",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Coast Modern",
+        "url": "https://open.spotify.com/album/7oU1JaPIxWfpCFyvIZyiZL"
+      },
+      "artists": [
+        {
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
+        }
+      ],
+      "duration_ms": 204066,
+      "name": "Guru",
+      "url": "https://open.spotify.com/track/1bHEcHv3lUkLFAebNnaPNE"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Life Is Yours",
         "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 198440,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/0mBkoM8r7KAQzZij5swTUL"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Coast Modern",
-        "url": "https://open.spotify.com/album/7oU1JaPIxWfpCFyvIZyiZL"
-      },
-      "artists": [
-        {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
-        }
-      ],
-      "duration_ms": 204066,
-      "name": "Guru",
-      "url": "https://open.spotify.com/track/1bHEcHv3lUkLFAebNnaPNE"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Uncanny Valley",
+        "url": "https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 193299,
+      "name": "Chapstick",
+      "url": "https://open.spotify.com/track/33E5u0qmzBlsHkhU1bTBWa"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "Dancing In The Courthouse",
         "url": "https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 158293,
       "name": "Talk",
       "url": "https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
-        "name": "Uncanny Valley",
-        "url": "https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6"
-      },
-      "artists": [
-        {
-          "name": "COIN",
-          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
-        }
-      ],
-      "duration_ms": 193299,
-      "name": "Chapstick",
-      "url": "https://open.spotify.com/track/33E5u0qmzBlsHkhU1bTBWa"
     },
     {
       "added_at": "2023-09-08 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "New song and hits from your favorite Alternative artists. Cover: Jack White",
-  "num_followers": 72304,
+  "num_followers": 72341,
   "original_name": "Your Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGVjZmFlYTIwZDlkYWFhY2U0ZDA0NzAxYmI4MzA1ZmNjZmFjZWNk",
+  "snapshot_id": "MCxmN2Y3Y2NmZDE5ZDZhNDQyY2NiNDNmNmU5ZDc2ZmI3NmE5M2EyZmQ3",
   "tracks": [
     {
       "added_at": "2022-02-04 05:01:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Only By The Night",
-        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "Use Somebody",
-      "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 264066,
       "name": "Karma Police",
       "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Only By The Night",
+        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 230760,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Tearing At The Seams",
-        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 214160,
-      "name": "You Worry Me",
-      "url": "https://open.spotify.com/track/7ADBL3WZ9Oyj7zgkg7ODT8"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "Social Cues",
         "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 226533,
       "name": "Black Madonna",
       "url": "https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Tearing At The Seams",
+        "url": "https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 214160,
+      "name": "You Worry Me",
+      "url": "https://open.spotify.com/track/7ADBL3WZ9Oyj7zgkg7ODT8"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Social Cues",
-        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Skin and Bones",
-      "url": "https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "Dear Miss Lonelyhearts",
         "url": "https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy"
       },
@@ -747,22 +731,6 @@
       "duration_ms": 180133,
       "name": "Miracle Mile",
       "url": "https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "Two Vines",
-        "url": "https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy"
-      },
-      "artists": [
-        {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "High And Low",
-      "url": "https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -783,6 +751,38 @@
       "duration_ms": 218763,
       "name": "Sober Up (feat. Rivers Cuomo)",
       "url": "https://open.spotify.com/track/5tf8NV1rHghYymjIqeKMus"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Skin and Bones",
+      "url": "https://open.spotify.com/track/6ubPFMzlIg73d1jzzWcC8B"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Two Vines",
+        "url": "https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy"
+      },
+      "artists": [
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "High And Low",
+      "url": "https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Social Cues",
-        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        },
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Night Running",
-      "url": "https://open.spotify.com/track/0wSmZykDgah7GfaUNZUZCb"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "We Are The Wrecks",
         "url": "https://open.spotify.com/album/0vQRfUULb3EpObpn28YOkH"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 231896,
       "name": "High",
       "url": "https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Night Running",
+      "url": "https://open.spotify.com/track/0wSmZykDgah7GfaUNZUZCb"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
+        "name": "Language & Perspective",
+        "url": "https://open.spotify.com/album/4TPjqLZkA2ekWLEQ8GvMr9"
+      },
+      "artists": [
+        {
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
+        }
+      ],
+      "duration_ms": 182467,
+      "name": "Cardiac Arrest",
+      "url": "https://open.spotify.com/track/5aejtAMTPonqopEygQgOkq"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
         "name": "Imploding The Mirage",
         "url": "https://open.spotify.com/album/1uROBP2G4MP0O4w1v5Cpbg"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 261936,
       "name": "The Runner",
       "url": "https://open.spotify.com/track/0AS03vnvXv9m0ZFxtuvOBW"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "Language & Perspective",
-        "url": "https://open.spotify.com/album/4TPjqLZkA2ekWLEQ8GvMr9"
-      },
-      "artists": [
-        {
-          "name": "Bad Suns",
-          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
-        }
-      ],
-      "duration_ms": 182467,
-      "name": "Cardiac Arrest",
-      "url": "https://open.spotify.com/track/5aejtAMTPonqopEygQgOkq"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Terra Firma",
-        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 279137,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "The Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 184666,
       "name": "Preach",
       "url": "https://open.spotify.com/track/4wxTn03zuXvkQwNvI6oHyF"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 279137,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
     },
     {
       "added_at": "2022-02-04 05:01:00",

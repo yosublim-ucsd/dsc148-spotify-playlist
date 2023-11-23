@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de baladas para suspirar de amor.",
-  "num_followers": 68790,
+  "num_followers": 68816,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjdlZGM5ZmE0NTYwNTgyNTMyMjA1ZmVhNWQxZTk0Mzg3NTJhYThm",
+  "snapshot_id": "MCw5YTE5YjlhOTQ5NDU5NTgyMjU4MzQyMWE0NzAxYzFlMjQ2OTUzZmRm",
   "tracks": [
     {
       "added_at": "2023-11-10 13:34:27",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "Desde Adentro",
-        "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
-      },
-      "artists": [
-        {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
-        }
-      ],
-      "duration_ms": 162093,
-      "name": "La Flor Azul",
-      "url": "https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5"
-    },
-    {
-      "added_at": "2023-11-10 13:34:27",
-      "album": {
         "name": "Zamba para Decir Adi\u00f3s",
         "url": "https://open.spotify.com/album/0Yu1ZRD84F4phx551aEUl5"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 234347,
       "name": "Zamba para Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/1XojvsvPtUsG4SqgHiGiGX"
+    },
+    {
+      "added_at": "2023-11-10 13:34:27",
+      "album": {
+        "name": "Desde Adentro",
+        "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "duration_ms": 162093,
+      "name": "La Flor Azul",
+      "url": "https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -743,22 +743,18 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "Hablan de Ti",
-        "url": "https://open.spotify.com/album/7gpv5WXgXoZlRpVso7o8yz"
+        "name": "No Te Rindas",
+        "url": "https://open.spotify.com/album/6ogjTJpmQxnxaoOvyvajP6"
       },
       "artists": [
         {
-          "name": "Copla alta",
-          "url": "https://open.spotify.com/artist/60g9S4kJm1m9kbrt89H5CQ"
-        },
-        {
-          "name": "Chacho Ramos",
-          "url": "https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm"
+          "name": "Destino San Javier",
+          "url": "https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW"
         }
       ],
-      "duration_ms": 242684,
-      "name": "Hablan de Ti",
-      "url": "https://open.spotify.com/track/4kXxLcxnzWUbpuRHI3gVH6"
+      "duration_ms": 219050,
+      "name": "No Te Rindas",
+      "url": "https://open.spotify.com/track/2duWyNfkGp0ve1VXPMjiwf"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -795,18 +791,22 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "No Te Rindas",
-        "url": "https://open.spotify.com/album/6ogjTJpmQxnxaoOvyvajP6"
+        "name": "Hablan de Ti",
+        "url": "https://open.spotify.com/album/7gpv5WXgXoZlRpVso7o8yz"
       },
       "artists": [
         {
-          "name": "Destino San Javier",
-          "url": "https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW"
+          "name": "Copla alta",
+          "url": "https://open.spotify.com/artist/60g9S4kJm1m9kbrt89H5CQ"
+        },
+        {
+          "name": "Chacho Ramos",
+          "url": "https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm"
         }
       ],
-      "duration_ms": 219050,
-      "name": "No Te Rindas",
-      "url": "https://open.spotify.com/track/2duWyNfkGp0ve1VXPMjiwf"
+      "duration_ms": 242684,
+      "name": "Hablan de Ti",
+      "url": "https://open.spotify.com/track/4kXxLcxnzWUbpuRHI3gVH6"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "Andando",
-        "url": "https://open.spotify.com/album/4Ni4fgItgWOCP2mCyPce10"
-      },
-      "artists": [
-        {
-          "name": "Peteco Carabajal",
-          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Para Los Ojos M\u00e1s Bellos",
-      "url": "https://open.spotify.com/track/669cJlmstiDWCFDyef4pil"
-    },
-    {
-      "added_at": "2023-11-10 13:34:27",
-      "album": {
         "name": "Ven Por Mi",
         "url": "https://open.spotify.com/album/5iJ01M2dW7JSiUteLvn2D8"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 301800,
       "name": "Mucho M\u00e1s Que Piel",
       "url": "https://open.spotify.com/track/4NpOVJ3MRm2bn2SIBJU4aw"
+    },
+    {
+      "added_at": "2023-11-10 13:34:27",
+      "album": {
+        "name": "Andando",
+        "url": "https://open.spotify.com/album/4Ni4fgItgWOCP2mCyPce10"
+      },
+      "artists": [
+        {
+          "name": "Peteco Carabajal",
+          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Para Los Ojos M\u00e1s Bellos",
+      "url": "https://open.spotify.com/track/669cJlmstiDWCFDyef4pil"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "Repechando la Senda",
-        "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
-      },
-      "artists": [
-        {
-          "name": "Los Puesteros",
-          "url": "https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY"
-        }
-      ],
-      "duration_ms": 249627,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/545Zvp4rHyPVKj7aSCbv2f"
-    },
-    {
-      "added_at": "2023-11-10 13:34:27",
-      "album": {
         "name": "Luna Llena",
         "url": "https://open.spotify.com/album/3qNKPQP0exJIApWPz1SzWR"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 187439,
       "name": "Luna Llena",
       "url": "https://open.spotify.com/track/27682VM2spSTjaneKmvNjk"
+    },
+    {
+      "added_at": "2023-11-10 13:34:27",
+      "album": {
+        "name": "Repechando la Senda",
+        "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
+      },
+      "artists": [
+        {
+          "name": "Los Puesteros",
+          "url": "https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY"
+        }
+      ],
+      "duration_ms": 249627,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/545Zvp4rHyPVKj7aSCbv2f"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -1275,30 +1275,6 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "La \u00daltima Estrella",
-        "url": "https://open.spotify.com/album/3ZRhNcfRj7QzjK9iDNPQDc"
-      },
-      "artists": [
-        {
-          "name": "Los Changos",
-          "url": "https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71"
-        },
-        {
-          "name": "Franco Barrionuevo",
-          "url": "https://open.spotify.com/artist/1Lw75bAtvyN31qYzmjgMMb"
-        },
-        {
-          "name": "Luis Paredes",
-          "url": "https://open.spotify.com/artist/62b29phHmw4APV3xe26cco"
-        }
-      ],
-      "duration_ms": 228388,
-      "name": "No Me Quiero Olvidar",
-      "url": "https://open.spotify.com/track/0pwdW67It2KSrOIRVqFLiQ"
-    },
-    {
-      "added_at": "2023-11-10 13:34:27",
-      "album": {
         "name": "Repechando la Senda",
         "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
       },
@@ -1331,6 +1307,30 @@
       "duration_ms": 185852,
       "name": "Entrega de Amor",
       "url": "https://open.spotify.com/track/3kogL0GmyIz6TjX9ZQ3uqf"
+    },
+    {
+      "added_at": "2023-11-10 13:34:27",
+      "album": {
+        "name": "La \u00daltima Estrella",
+        "url": "https://open.spotify.com/album/3ZRhNcfRj7QzjK9iDNPQDc"
+      },
+      "artists": [
+        {
+          "name": "Los Changos",
+          "url": "https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71"
+        },
+        {
+          "name": "Franco Barrionuevo",
+          "url": "https://open.spotify.com/artist/1Lw75bAtvyN31qYzmjgMMb"
+        },
+        {
+          "name": "Luis Paredes",
+          "url": "https://open.spotify.com/artist/62b29phHmw4APV3xe26cco"
+        }
+      ],
+      "duration_ms": 228388,
+      "name": "No Me Quiero Olvidar",
+      "url": "https://open.spotify.com/track/0pwdW67It2KSrOIRVqFLiQ"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -1419,18 +1419,22 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "Te Olvid\u00e9",
-        "url": "https://open.spotify.com/album/2v4r41b9qAum58wHgrBDDU"
+        "name": "Ansiado Encuentro",
+        "url": "https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR"
       },
       "artists": [
         {
-          "name": "Chaque\u00f1o Palavecino",
-          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+          "name": "ALEJANDRO FARIAS",
+          "url": "https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh"
+        },
+        {
+          "name": "La Eulogia Folk",
+          "url": "https://open.spotify.com/artist/044zb14KOZosDnxI71XpGr"
         }
       ],
-      "duration_ms": 180362,
-      "name": "Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/5rIOM7T84bwcBz4Rctn9bB"
+      "duration_ms": 275563,
+      "name": "Ansiado Encuentro",
+      "url": "https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -1451,22 +1455,38 @@
     {
       "added_at": "2023-11-10 13:34:27",
       "album": {
-        "name": "Ansiado Encuentro",
-        "url": "https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR"
+        "name": "Te Olvid\u00e9",
+        "url": "https://open.spotify.com/album/2v4r41b9qAum58wHgrBDDU"
       },
       "artists": [
         {
-          "name": "ALEJANDRO FARIAS",
-          "url": "https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh"
-        },
-        {
-          "name": "La Eulogia Folk",
-          "url": "https://open.spotify.com/artist/044zb14KOZosDnxI71XpGr"
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
         }
       ],
-      "duration_ms": 275563,
-      "name": "Ansiado Encuentro",
-      "url": "https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT"
+      "duration_ms": 180362,
+      "name": "Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/5rIOM7T84bwcBz4Rctn9bB"
+    },
+    {
+      "added_at": "2023-11-10 13:34:27",
+      "album": {
+        "name": "Tonada De Tus Labios",
+        "url": "https://open.spotify.com/album/7CUPx0jk0kMV7CaS8uae5n"
+      },
+      "artists": [
+        {
+          "name": "Karamelo Santo",
+          "url": "https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1"
+        },
+        {
+          "name": "Goy Karamelo",
+          "url": "https://open.spotify.com/artist/6ivDKC9j7KCZ6vYb9syvcC"
+        }
+      ],
+      "duration_ms": 177937,
+      "name": "Tonada De Tus Labios",
+      "url": "https://open.spotify.com/track/5iynZIlZkHVoWrxXgdhd4N"
     },
     {
       "added_at": "2023-11-10 13:34:27",
@@ -1503,26 +1523,6 @@
       "duration_ms": 237957,
       "name": "Vivo",
       "url": "https://open.spotify.com/track/0Nvnd56uJQpOB104qIEcOM"
-    },
-    {
-      "added_at": "2023-11-10 13:34:27",
-      "album": {
-        "name": "Tonada De Tus Labios",
-        "url": "https://open.spotify.com/album/7CUPx0jk0kMV7CaS8uae5n"
-      },
-      "artists": [
-        {
-          "name": "Karamelo Santo",
-          "url": "https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1"
-        },
-        {
-          "name": "Goy Karamelo",
-          "url": "https://open.spotify.com/artist/6ivDKC9j7KCZ6vYb9syvcC"
-        }
-      ],
-      "duration_ms": 177937,
-      "name": "Tonada De Tus Labios",
-      "url": "https://open.spotify.com/track/5iynZIlZkHVoWrxXgdhd4N"
     }
   ],
   "unique_name": "Folklore Rom\u00e1ntico ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Ronisia
 
-[Spotify](https://open.spotify.com/user/spotify) - 852,246 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,557 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Best Of Me](https://open.spotify.com/track/3Z19t8pNaAHqlLmz2LuwNa) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:51 |
 | 50 | [Petit Boutchou](https://open.spotify.com/track/7Ez3kDo8g1E68jYWTMXOzv) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Petit Boutchou](https://open.spotify.com/album/3PqVYulkBcXeXyNOZTsZvC) | 2:09 |
 
-Snapshot ID: `MCxiMWI0NmFmZWRiNDk0MTkxNGU2YjRjNWYwMmY0NjFlYzEyMTM1MTA0`
+Snapshot ID: `MCwzNzQ0MDM4NTZkODQ5YWUzMGM3NmNmOGUxMzQzNWQxNjI0ZjI4ZTI3`

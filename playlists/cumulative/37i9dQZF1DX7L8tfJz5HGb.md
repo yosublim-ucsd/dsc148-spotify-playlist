@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#menow](https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Unlock My World](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) | 2:49 | 2023-06-23 |  |
-| [0X1=LOVESONG \(I Know I Love You\) feat\. Seori](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 | 2023-06-23 |  |
+| [0X1=LOVESONG \(I Know I Love You\) feat\. Seori](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 | 2023-06-23 |  |
 | [A Low Constellation](https://open.spotify.com/track/4orxgubG8XgwFlA0iYmGgC) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [DIMENSION](https://open.spotify.com/album/2C4tl17a4f1oXbUPl2fymv) | 3:52 | 2023-06-01 | 2023-06-24 |
 | [A.C.C.E.L](https://open.spotify.com/track/4BoY1eil1TJEBkkbGGiC3N) | [BUMZU](https://open.spotify.com/artist/4FCneqQd4xiPXKOa6poPIf) | [BUMZU 3RD MINI ALBUM ‘27’](https://open.spotify.com/album/2d9Kz3dJLWF81WhdEaWV8z) | 2:58 | 2023-06-01 | 2023-06-24 |
 | [Ah yeah](https://open.spotify.com/track/0DoEJclzs5Q54GvYF6CeOI) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [iCE](https://open.spotify.com/album/6Bmm0yb59VBvI7ozMOQZoB) | 3:11 | 2023-06-01 | 2023-06-24 |

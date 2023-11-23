@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > 🩸 Emo, punk e rock 🇮🇹 e 🌎!  Cover: Olly
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,354 likes - 70 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,352 likes - 70 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 69 | [leave me for dead](https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [leave me for dead](https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO) | 2:56 |
 | 70 | [BOYFRIEND](https://open.spotify.com/track/0Gz8JS4mdWf67lqbslmWZr) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch), [IN6N](https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE), [yuks](https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd) | [BOYFRIEND](https://open.spotify.com/album/37QXWJp84QyTbjhaL2izYD) | 2:01 |
 
-Snapshot ID: `MCw4MDI4ODc3N2NkYmFhZTQzOWFiOTlkNmVlNzA4NjY3ZGI1ODJmNjc2`
+Snapshot ID: `MCxlYjk5MjM3ZjhiODg5ZTUwOTZmMjVlMmRhMjQ5NmEzNjhkODI5YmJh`

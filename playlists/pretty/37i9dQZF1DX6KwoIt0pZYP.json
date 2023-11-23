@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 207545,
+  "num_followers": 207692,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmYxOTYyYTIyMWRiMzVmNThiYTA5MmUwNGZhNjg0NjkwZTE2NTQ1",
+  "snapshot_id": "MCwzNTBmYjE4MWE2MWZkYWQxZjMxNzNlMDQ0ZmU0ODllYTBjNjY5MDcw",
   "tracks": [
     {
       "added_at": "2023-11-13 05:41:18",
@@ -847,6 +847,26 @@
     {
       "added_at": "2023-11-13 05:41:18",
       "album": {
+        "name": "B.A.D.",
+        "url": "https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 170078,
+      "name": "B.A.D.",
+      "url": "https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9"
+    },
+    {
+      "added_at": "2023-11-13 05:41:18",
+      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/5wYwKu8dqEcnrgoGonXAbc"
       },
@@ -879,42 +899,6 @@
     {
       "added_at": "2023-11-13 05:41:18",
       "album": {
-        "name": "B.A.D.",
-        "url": "https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM"
-      },
-      "artists": [
-        {
-          "name": "Denise Julia",
-          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 170078,
-      "name": "B.A.D.",
-      "url": "https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9"
-    },
-    {
-      "added_at": "2023-11-13 05:41:18",
-      "album": {
-        "name": "Tip Toe",
-        "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 224725,
-      "name": "Tip Toe",
-      "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
-    },
-    {
-      "added_at": "2023-11-13 05:41:18",
-      "album": {
         "name": "Happy w u",
         "url": "https://open.spotify.com/album/3wGtsGy8caFXddQMJau2kb"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 280714,
       "name": "Happy w u",
       "url": "https://open.spotify.com/track/0EA8jl8Wje9ALRKC8Qlzyt"
+    },
+    {
+      "added_at": "2023-11-13 05:41:18",
+      "album": {
+        "name": "Tip Toe",
+        "url": "https://open.spotify.com/album/2uNZ0G4uxGlzuqULW6lQnF"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 224725,
+      "name": "Tip Toe",
+      "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"
     },
     {
       "added_at": "2023-11-13 05:41:18",
@@ -999,22 +999,18 @@
     {
       "added_at": "2023-11-13 05:41:18",
       "album": {
-        "name": "Turn Back Time",
-        "url": "https://open.spotify.com/album/7DPwQrbr0nxNZEzdJbXouI"
+        "name": "butterflies",
+        "url": "https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv"
       },
       "artists": [
         {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        },
-        {
-          "name": "Violette Wautier",
-          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
         }
       ],
-      "duration_ms": 220781,
-      "name": "Turn Back Time",
-      "url": "https://open.spotify.com/track/48k3HCHPnUuKLok43GUC41"
+      "duration_ms": 212790,
+      "name": "butterflies",
+      "url": "https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07"
     },
     {
       "added_at": "2023-11-13 05:41:18",
@@ -1051,18 +1047,22 @@
     {
       "added_at": "2023-11-13 05:41:18",
       "album": {
-        "name": "butterflies",
-        "url": "https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv"
+        "name": "Turn Back Time",
+        "url": "https://open.spotify.com/album/7DPwQrbr0nxNZEzdJbXouI"
       },
       "artists": [
         {
-          "name": "Denise Julia",
-          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        },
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
         }
       ],
-      "duration_ms": 212790,
-      "name": "butterflies",
-      "url": "https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07"
+      "duration_ms": 220781,
+      "name": "Turn Back Time",
+      "url": "https://open.spotify.com/track/48k3HCHPnUuKLok43GUC41"
     },
     {
       "added_at": "2023-11-13 05:41:18",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-11-13 05:41:18",
       "album": {
+        "name": "confidence in me",
+        "url": "https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 162151,
+      "name": "confidence in me",
+      "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
+    },
+    {
+      "added_at": "2023-11-13 05:41:18",
+      "album": {
         "name": "plum blossom",
         "url": "https://open.spotify.com/album/6awIkxDLnbvhD1Wxrvwvb5"
       },
@@ -1411,18 +1427,22 @@
     {
       "added_at": "2023-11-13 05:41:18",
       "album": {
-        "name": "confidence in me",
-        "url": "https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv"
+        "name": "Split",
+        "url": "https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ"
       },
       "artists": [
         {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
         }
       ],
-      "duration_ms": 162151,
-      "name": "confidence in me",
-      "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
+      "duration_ms": 207013,
+      "name": "Split",
+      "url": "https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0"
     },
     {
       "added_at": "2023-11-13 05:41:18",
@@ -1443,26 +1463,6 @@
       "duration_ms": 179810,
       "name": "My Simple Jeep (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/0ZpC3Exz0loDQahf1jPErB"
-    },
-    {
-      "added_at": "2023-11-13 05:41:18",
-      "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 207013,
-      "name": "Split",
-      "url": "https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0"
     },
     {
       "added_at": "2023-11-13 05:41:18",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-11-13 05:41:18",
       "album": {
-        "name": "Black Tie",
-        "url": "https://open.spotify.com/album/7sg3qBl3rfjTLQePSn7HzY"
-      },
-      "artists": [
-        {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
-        }
-      ],
-      "duration_ms": 167202,
-      "name": "Black Tie",
-      "url": "https://open.spotify.com/track/5MeRUPtBTANorTH2kD7Cin"
-    },
-    {
-      "added_at": "2023-11-13 05:41:18",
-      "album": {
         "name": "Slow (with Ciara)",
         "url": "https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 192181,
       "name": "Slow (with Ciara)",
       "url": "https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5"
+    },
+    {
+      "added_at": "2023-11-13 05:41:18",
+      "album": {
+        "name": "Black Tie",
+        "url": "https://open.spotify.com/album/7sg3qBl3rfjTLQePSn7HzY"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 167202,
+      "name": "Black Tie",
+      "url": "https://open.spotify.com/track/5MeRUPtBTANorTH2kD7Cin"
     },
     {
       "added_at": "2023-11-13 05:41:18",

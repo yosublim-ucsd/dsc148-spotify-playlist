@@ -1,12 +1,12 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 1002768,
+  "num_followers": 1002790,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTY0ZjE1NTQ2NjdlZjM2ZmU3ZTQ3OTMyNDFhYzgwZjMwZmE5MGUw",
+  "snapshot_id": "MCw5Y2VlNWJkYzBiOGI0ZjUwZGY3MTAzMmI0YWYzNGZiMjJkOTc2MTBi",
   "tracks": [
     {
       "added_at": "2023-06-26 14:06:50",
@@ -459,6 +459,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Cheia de Marra",
+        "url": "https://open.spotify.com/album/4GEYyoMWwYRKeEUU6x6ZS4"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "duration_ms": 267049,
+      "name": "Cheia de Marra",
+      "url": "https://open.spotify.com/track/4k1IrLxPtGF2qdSSFV5Ghw"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "SENTAD\u00c3O",
         "url": "https://open.spotify.com/album/6kMwu0LljP1LlrzpQPlvvQ"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 188388,
       "name": "Vem Me Satisfazer",
       "url": "https://open.spotify.com/track/63SHcJzckFykS8faA5zojY"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Cheia de Marra",
-        "url": "https://open.spotify.com/album/4GEYyoMWwYRKeEUU6x6ZS4"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
-        }
-      ],
-      "duration_ms": 267049,
-      "name": "Cheia de Marra",
-      "url": "https://open.spotify.com/track/4k1IrLxPtGF2qdSSFV5Ghw"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -715,18 +715,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Coisa Boa",
-        "url": "https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru"
+        "name": "Azul Piscina",
+        "url": "https://open.spotify.com/album/3kMegJnLY4Ywh6Dw1NvHBF"
       },
       "artists": [
         {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
         }
       ],
-      "duration_ms": 165600,
-      "name": "Coisa Boa",
-      "url": "https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg"
+      "duration_ms": 214153,
+      "name": "Azul Piscina",
+      "url": "https://open.spotify.com/track/01t5aRQQqY5R95Ptlwi2jm"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -755,22 +759,18 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Azul Piscina",
-        "url": "https://open.spotify.com/album/3kMegJnLY4Ywh6Dw1NvHBF"
+        "name": "Coisa Boa",
+        "url": "https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru"
       },
       "artists": [
         {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 214153,
-      "name": "Azul Piscina",
-      "url": "https://open.spotify.com/track/01t5aRQQqY5R95Ptlwi2jm"
+      "duration_ms": 165600,
+      "name": "Coisa Boa",
+      "url": "https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Os Muleke \u00c9 Liso",
+        "url": "https://open.spotify.com/album/4H8m7WqTAjfVBTcw7qgBDp"
+      },
+      "artists": [
+        {
+          "name": "MC Rodolfinho",
+          "url": "https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp"
+        }
+      ],
+      "duration_ms": 232646,
+      "name": "Os Muleke \u00c9 Liso",
+      "url": "https://open.spotify.com/track/6OmKF6WW3eQtZzGQ4hDSOX"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "MODO TURBO",
         "url": "https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 150259,
       "name": "MODO TURBO",
       "url": "https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Os Muleke \u00c9 Liso",
-        "url": "https://open.spotify.com/album/4H8m7WqTAjfVBTcw7qgBDp"
-      },
-      "artists": [
-        {
-          "name": "MC Rodolfinho",
-          "url": "https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp"
-        }
-      ],
-      "duration_ms": 232646,
-      "name": "Os Muleke \u00c9 Liso",
-      "url": "https://open.spotify.com/track/6OmKF6WW3eQtZzGQ4hDSOX"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Espirra o lan\u00e7a",
-        "url": "https://open.spotify.com/album/2vVlusorMbZz0KabAljXLV"
-      },
-      "artists": [
-        {
-          "name": "DJ Kaue00s",
-          "url": "https://open.spotify.com/artist/1XFWZNuLxDjQR35rEwbquF"
-        },
-        {
-          "name": "Bal00n Beats",
-          "url": "https://open.spotify.com/artist/3leYW5KDg6Pelw1yNUqVUN"
-        }
-      ],
-      "duration_ms": 190058,
-      "name": "Espirra o lan\u00e7a",
-      "url": "https://open.spotify.com/track/5FTsdMGSSqWaFa3igQZ53p"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "TOMA",
         "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 129654,
       "name": "TOMA",
       "url": "https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Espirra o lan\u00e7a",
+        "url": "https://open.spotify.com/album/2vVlusorMbZz0KabAljXLV"
+      },
+      "artists": [
+        {
+          "name": "DJ Kaue00s",
+          "url": "https://open.spotify.com/artist/1XFWZNuLxDjQR35rEwbquF"
+        },
+        {
+          "name": "Bal00n Beats",
+          "url": "https://open.spotify.com/artist/3leYW5KDg6Pelw1yNUqVUN"
+        }
+      ],
+      "duration_ms": 190058,
+      "name": "Espirra o lan\u00e7a",
+      "url": "https://open.spotify.com/track/5FTsdMGSSqWaFa3igQZ53p"
     },
     {
       "added_at": "2023-06-26 14:06:50",

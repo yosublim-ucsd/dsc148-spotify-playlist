@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > Tate deze week op de cover van Fresh Pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,182 likes - 99 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,232 likes - 99 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 98 | [Guilty Conscience](https://open.spotify.com/track/5f4O6EoPQRLjTY9waVSamq) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Analysis Paralysis](https://open.spotify.com/album/6jXVI1qo7iRCK8GrnMsjW7) | 1:58 |
 | 99 | [Tension](https://open.spotify.com/track/6435Ra0NWQzPyZAcd1ojWI) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:36 |
 
-Snapshot ID: `MCwyYzhiN2RjMjFlNGYxZGYyMDg1Zjc0Y2NhYTM4NjhhZTY1ZDg0NjZk`
+Snapshot ID: `MCw4ZjFhNGQyNjk1YWUwZDMwOTFkOTg2ZDgzYTA3YmE5MTM4NWExN2Rh`

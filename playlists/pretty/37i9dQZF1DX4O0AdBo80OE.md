@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Rimas cremosas, tan necesarias como tu café\. Blnko y Lng/Sht \(Ex Austin TV\) en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,365 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,400 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 | 99 | [La Maga](https://open.spotify.com/track/0o5qM2f6QPZXTKSVtc4Oq0) | [Ice Boxxx](https://open.spotify.com/artist/3SJlzyiXomOGjYv5QZ6tyG) | [Heart](https://open.spotify.com/album/2pGHEsQxNUHpDrevP7G8ji) | 3:54 |
 | 100 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 |
 
-Snapshot ID: `MCwzMzkxNWJkYjQ4ZDQ5OTAwN2NhMGY2MTkyODRmOTVlMzczZjQyYWVk`
+Snapshot ID: `MCw2YTViNGIyMWQ3NWJlZDQ5OTY5YTA1MTdmYjJjNTA1ODcwYzA4MThl`

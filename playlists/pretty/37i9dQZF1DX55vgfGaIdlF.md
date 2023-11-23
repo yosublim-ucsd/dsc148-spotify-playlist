@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55vgfGaIdlF.md) - [plain]
 | 38 | [Someone Great](https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 6:30 |
 | 39 | [Blame](https://open.spotify.com/track/1k3toTRu7ak8fNqiDdpRn0) | [Tropics](https://open.spotify.com/artist/0d00ssafltw8HYv2zxe4fD) | [Rapture](https://open.spotify.com/album/7sgjuijoXgthRExQdEC5SZ) | 4:06 |
 | 40 | [Silhouette \(feat\. Ellie Goulding\)](https://open.spotify.com/track/6AvlKEshOOsJ5Me7FNU5sn) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Rapor \- EP](https://open.spotify.com/album/64XNIRzXRlEjbj8jfoabRZ) | 4:08 |
-| 41 | [So Good At Being in Trouble](https://open.spotify.com/track/2lwi35A2ym3FAmSlvOGnQp) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II](https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19) | 3:50 |
+| 41 | [So Good at Being in Trouble](https://open.spotify.com/track/3DXHaJzqRCgv3rd5U9EoXU) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II \(10 Year Anniversary Edition\)](https://open.spotify.com/album/1boMSpoKkFe901QZaU7Gb3) | 3:50 |
 | 42 | [The Fall](https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:44 |
 | 43 | [House](https://open.spotify.com/track/6V7P3GMwJ4qwczOs87AGpn) | [Kindness](https://open.spotify.com/artist/6SYIsHAQ1sPokVxmzpaDBU) | [World, You Need a Change of Mind](https://open.spotify.com/album/3Z10TDlk4DiFPeNvOj1VXz) | 3:37 |
 | 44 | [It All Feels Right](https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Paracosm](https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL) | 4:05 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55vgfGaIdlF.md) - [plain]
 | 50 | [Look At Where We Are](https://open.spotify.com/track/5r5AMZbVoTbyUGppcm5UWC) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [In Our Heads](https://open.spotify.com/album/5GDNKEug3ME9sCAtCU0vu7) | 3:58 |
 | 51 | [808 PM At The Beach \- Original Mix](https://open.spotify.com/track/332axSkCygFiO7rlQ9TYiC) | [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Part IV](https://open.spotify.com/album/4zgA8bqaYJLSrMOn3MkxyU) | 6:24 |
 
-Snapshot ID: `MCxlZmM5ZTM2Mzg0NDkwZjBhNjkwN2FkZWEyNzQ3ZTlkOTI1NzA2Mzlh`
+Snapshot ID: `MCxlZTgwYTc5NGNmYjUxMTdmOGE0MDFhMjAwZjc0NGU5YjQ5NjcxZjM4`

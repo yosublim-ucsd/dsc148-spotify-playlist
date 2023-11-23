@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,174 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,183 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 41 | [Happy Music](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:52 |
 | 42 | [Ain't No Other Man \- Rework](https://open.spotify.com/track/2arAYoniFUo3ojtcDEIhdl) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Ain't No Other Man \(Rework\)](https://open.spotify.com/album/6iHOTd9FBBOLSDfJp8mFFq) | 2:34 |
 | 43 | [You've Done Enough](https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:32 |
-| 44 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 |
-| 45 | [Used To This](https://open.spotify.com/track/1iL5lMhZdMmVg34AM6xQxx) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Cognition](https://open.spotify.com/album/6T8lsInCHvVedcVchEBS2l) | 3:46 |
+| 44 | [Used To This](https://open.spotify.com/track/1iL5lMhZdMmVg34AM6xQxx) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Cognition](https://open.spotify.com/album/6T8lsInCHvVedcVchEBS2l) | 3:46 |
+| 45 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 |
 | 46 | [Through 2 You](https://open.spotify.com/track/0evAtYjWJMnNQrdzgNvqvF) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ) | [Through 2 You](https://open.spotify.com/album/3Efj2YOlPbnm2Bz3m3KmwZ) | 3:18 |
 | 47 | [On & On](https://open.spotify.com/track/6q8lkavDM3yhk7PXdRK3me) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [On & On](https://open.spotify.com/album/1HaIedqKyxg6wI24PEQfHi) | 2:35 |
 | 48 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 62 | [Selecta](https://open.spotify.com/track/0mFf9f9u0qjXq7eJDZCWDF) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN) | [Selecta](https://open.spotify.com/album/22m0jj6FqVyVpBIW2R4UxF) | 2:49 |
 | 63 | [Lost Myself Again](https://open.spotify.com/track/1uRkLJG9sdMFIB8Hb18uGx) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Lost Myself Again](https://open.spotify.com/album/1h5Xisd09gC9H641NaRwaY) | 2:52 |
 | 64 | [Every Single Time \(with Silky\)](https://open.spotify.com/track/61drLfij7yoXMTYIY8088V) | [Bissett](https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7), [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Every Single Time \(with Silky\)](https://open.spotify.com/album/7t7ONZWC56jEHLGBTKPZSX) | 2:47 |
-| 65 | [My House](https://open.spotify.com/track/2nIaXCaDBXXALg3gKajbLB) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [My House](https://open.spotify.com/album/240UfV3VITJsiUJjn3dKhf) | 2:55 |
-| 66 | [WANT NEED LOVE](https://open.spotify.com/track/3FIb81xI76x7pGPbFbzZXu) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [WANT NEED LOVE](https://open.spotify.com/album/6T51zmSsyXWFh2wgu2AVLq) | 4:01 |
+| 65 | [WANT NEED LOVE](https://open.spotify.com/track/3FIb81xI76x7pGPbFbzZXu) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [WANT NEED LOVE](https://open.spotify.com/album/6T51zmSsyXWFh2wgu2AVLq) | 4:01 |
+| 66 | [My House](https://open.spotify.com/track/2nIaXCaDBXXALg3gKajbLB) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [My House](https://open.spotify.com/album/240UfV3VITJsiUJjn3dKhf) | 2:55 |
 | 67 | [Feels](https://open.spotify.com/track/1e2VTVaFPqbOk3LoRFkA64) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Feels](https://open.spotify.com/album/47wCYDJUFpC2MZkrQF5ZpK) | 2:27 |
 | 68 | [Not In Love \(feat\. LOWES\)](https://open.spotify.com/track/28MLM0VRhhcqtWzxsNLvwu) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Not In Love \(feat\. LOWES\)](https://open.spotify.com/album/6bPw3hRULbo1TP1718uPGo) | 3:43 |
 | 69 | [Dance With Me \- Edit](https://open.spotify.com/track/7IPdXJf4DEisUUL0WqTcKL) | [KUU](https://open.spotify.com/artist/6TGsaPbyXTM7FAeHi68yp7), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD), [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1) | [Dance With Me \(Edit\)](https://open.spotify.com/album/4mvAV6SSMEmkZ3CZBaVF0u) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 99 | [You and I Are Equal](https://open.spotify.com/track/6BIweFOFIRXXDLc67A0Spf) | [BluePrint](https://open.spotify.com/artist/0oV5K4BDmoENgjwB8lvDmT) | [You and I Are Equal](https://open.spotify.com/album/1pCPI9WdnyBJ7AR9HTdu4U) | 4:14 |
 | 100 | [Never Let Me Down](https://open.spotify.com/track/3AjzBL7fuEdboRnleIlPIw) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Never Let Me Down](https://open.spotify.com/album/7KCiIL4GO5P7gINLSF5fUF) | 3:05 |
 
-Snapshot ID: `MCw2MWQwMjAzYjliM2Y1ODlhNWE3ZjMwYmMyMzlmYzYxNjBjMjYzOGYw`
+Snapshot ID: `MCxjNjBhNmNkOTM0OWNkOGNmYWUxZTdkMzRlZTY3YTk3YTRkN2M3NmE3`

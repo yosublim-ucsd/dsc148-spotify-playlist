@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 
 > Southern boogie, swinging blues rock and classic boogie rock\. Cover: ZZ Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,477 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,574 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 32 | [Whatever You Want](https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Quotable Quo](https://open.spotify.com/album/4IAafmNssq4xupEIUR7enj) | 4:02 |
 | 33 | [Silver Dollar](https://open.spotify.com/track/6FI74cRYyrYgDC51ZYtVt3) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Fighting](https://open.spotify.com/album/4XGIy3KPZ0zjl5dhhvQtFQ) | 3:26 |
 | 34 | [True Blue](https://open.spotify.com/track/0zkQxCDeyu1Q35wfgCQaPX) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Never A Dull Moment](https://open.spotify.com/album/1V0trkg3Pt4pGCyxfztFLZ) | 3:31 |
-| 35 | [The Golden Age of Rock 'n' Roll](https://open.spotify.com/track/2M9aZcP4xcDiEvEChmHTsx) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [The Hoople](https://open.spotify.com/album/2Jar3nPcvUZVEIT2DBJ8Am) | 3:24 |
+| 35 | [Worry No More](https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK) | [Gimme Some Neck](https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9) | 2:33 |
 | 36 | [Hell Cat](https://open.spotify.com/track/4osrtrJTY1PRKHi44srR3c) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Top Priority \(Remastered 2017\)](https://open.spotify.com/album/479bZ6qz6NIBHMex9X1Awy) | 4:50 |
-| 37 | [Worry No More](https://open.spotify.com/track/1hbPE73HMcCexM0bJUC7kq) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK) | [Gimme Some Neck](https://open.spotify.com/album/6BAyV837xPY0ukq8vph9G9) | 2:33 |
+| 37 | [The Golden Age of Rock 'n' Roll](https://open.spotify.com/track/2M9aZcP4xcDiEvEChmHTsx) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [The Hoople](https://open.spotify.com/album/2Jar3nPcvUZVEIT2DBJ8Am) | 3:24 |
 | 38 | [Leave This House](https://open.spotify.com/track/3EXwHbECDsXgl0M9iZcfhP) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Leave This House](https://open.spotify.com/album/5FjVzRR2EtfRBJjsmZ1HBi) | 3:29 |
 | 39 | [Spinning Wheel Blues](https://open.spotify.com/track/2DmqtzZkGjbxQx38qZ22zw) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Down the Dustpipe](https://open.spotify.com/album/6uZDQxyMSEQ9kWFVjAaHl3) | 3:18 |
 | 40 | [Tars Of India \- Deluxe Edition](https://open.spotify.com/track/2yQTF2kyJayBzLUMBdbDQm) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Spirit In The Sky \(Deluxe Edition\)](https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 49 | [Keep Playin' That Rock 'n' Roll](https://open.spotify.com/track/0rQf7arPF7Fob1ewkKicL1) | [Edgar Winter's White Trash](https://open.spotify.com/artist/4uOdVRRuTWjJVkcN0LXxwL) | [The Essential Edgar Winter](https://open.spotify.com/album/3a27WqEqhsikCfuxVSq2vW) | 3:44 |
 | 50 | [Rockout, Whatever You Feel Like](https://open.spotify.com/track/2F2bTEfEFPaq1GoY2pQIyx) | [Cactus](https://open.spotify.com/artist/0GLvcqWIueXNjv3212pJAj) | [One Way...Or Another](https://open.spotify.com/album/1enFOK5mMWdC4VQoO4H9Ly) | 4:00 |
 
-Snapshot ID: `MCwxNTBiODJmZjdiMDdjNjA2YmUyMTFiMjFlZGQ3ZmY1NzUzOTNlZmIz`
+Snapshot ID: `MCw1Y2VlMzhlNWYxZTg0YjFlMDVjZDAzNDViNTc4YzA2MjU4OWM1YTAw`

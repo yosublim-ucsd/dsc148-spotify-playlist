@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,114 likes - 144 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,165 likes - 144 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 143 | [Topsy at the Top](https://open.spotify.com/track/4nJ2EMvjNqxBDrT0s6AK47) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Topsy at the Top](https://open.spotify.com/album/1n9Z8PcktdiG2ccx7CRnCm) | 4:20 |
 | 144 | [Light](https://open.spotify.com/track/6XMLzR52m0SAZfM8WxzQ0w) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF) | [Light](https://open.spotify.com/album/1QDrLXAZrhuye2dHxB2fzn) | 3:08 |
 
-Snapshot ID: `MCw1MmI4OTYxNmFhOWE5YzdmNmM3Y2Q0NmNkN2M3NDBiZThlYWExZjJh`
+Snapshot ID: `MCxjNTVmYzE0OWY3MzI4MTkzOThmMTg4YWY3Yzg0ODNiMzIyY2JiYjc5`

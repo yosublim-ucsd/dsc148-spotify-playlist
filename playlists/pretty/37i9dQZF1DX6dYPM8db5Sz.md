@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ?si=ygY5KPDnT3W2Ng5lASMb6w">Justin Lee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,168 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,186 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 99 | [Games Night](https://open.spotify.com/track/5qWC2QEfRsTp6UE9NPNu2y) | [Local Neighbour](https://open.spotify.com/artist/4zMdLoGXWkdYvVNPN6HGqR) | [Games Night](https://open.spotify.com/album/31oy4HFSd7E3t0CnGKYcZi) | 4:03 |
 | 100 | [The Phoenix](https://open.spotify.com/track/6wUrwv6uO6roQ1OUQrLnFW) | [Golden Blue](https://open.spotify.com/artist/6IPUSjbmivAym8Q1pj9yvc) | [The Phoenix](https://open.spotify.com/album/4Bt6P8MUACJ5f3oGSZ6hAb) | 4:12 |
 
-Snapshot ID: `MCw4OTMxNWQ4Yjc2ZjNhN2QwYTYxYjc5OTE3NzIyODRlNWFlMzJhMjUy`
+Snapshot ID: `MCxmYWI3MjJiMmIyNjNkNWZhMGM3OGY3NDU5YzdkODlhYzI3ODMxY2E0`

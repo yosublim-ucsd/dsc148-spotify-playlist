@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,301 likes - 78 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,381 likes - 78 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 | 77 | [FALLING \(Prod\. by DPR CREAM\)](https://open.spotify.com/track/1sGc6tYogGNv3t09uGlucD) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [FALLING](https://open.spotify.com/album/2MKQwaFRybLOoQ1Cl19OLm) | 3:34 |
 | 78 | [Butterfly](https://open.spotify.com/track/6wNKKoUQfLPmch7cqSFytV) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[X X\]](https://open.spotify.com/album/49CwarPH45v2tFRHhnjtPf) | 3:57 |
 
-Snapshot ID: `MCw4ZWU2MDk2YTI2YTU3ODE0OGY5OGRmZjM3MGQzMWU2ZTQ5MWZmNWYw`
+Snapshot ID: `MCwzZTk2ODA5ODUzMzg3Yjg1ZWZjZDU3ODBkNjlhODc5MjhmY2NjNjhj`

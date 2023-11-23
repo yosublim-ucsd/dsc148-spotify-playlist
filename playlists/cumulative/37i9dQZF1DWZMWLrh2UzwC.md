@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: DOLLA
 
-8,403 songs - 19 day 4 hr 48 min
+8,404 songs - 19 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3908,7 +3908,8 @@
 | [La La La](https://open.spotify.com/track/4lVRLtbxN9Aqo8zpgqt2ep) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [La La La](https://open.spotify.com/album/3oso8n6CkMfjn4h5hEvrjF) | 2:14 | 2023-08-03 | 2023-08-11 |
 | [La Nena](https://open.spotify.com/track/3G1MmrIyPcSJnP6w2xyeXf) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Nena](https://open.spotify.com/album/47qwD2S4QZc1LVWBDxUZdN) | 2:44 | 2023-06-29 | 2023-07-07 |
 | [La Novela](https://open.spotify.com/track/0zeeAjrLX2mNacLeefRTGG) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [La Novela](https://open.spotify.com/album/0Jm9vE88gbVVxYVyXfSgcY) | 4:51 | 2022-02-10 | 2022-02-18 |
-| [Lackin'](https://open.spotify.com/track/7l9LyA8LkmsXpMZ9WZ3ReC) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/4TdIVLLS4os2X4r2p6vTr5) | 2:59 | 2023-11-16 |  |
+| [Lackin'](https://open.spotify.com/track/7C6lV2MBF9SsQfNzb6hWUW) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/26osN3pVqjyhGUedWZIueX) | 2:59 | 2023-11-16 |  |
+| [Lackin'](https://open.spotify.com/track/7l9LyA8LkmsXpMZ9WZ3ReC) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/4TdIVLLS4os2X4r2p6vTr5) | 2:59 | 2023-11-16 | 2023-11-23 |
 | [LADY](https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LADY](https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW) | 3:27 | 2023-03-23 | 2023-03-31 |
 | [Ladybug](https://open.spotify.com/track/4J7A5l3KlT1tyi6jfE5dSE) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [Ladybug](https://open.spotify.com/album/43AUX3S660O7gGKeZqGUsk) | 3:40 | 2022-05-05 | 2022-05-13 |
 | [Laggard](https://open.spotify.com/track/5aJ9DSaUu4Y5VEcgGTebO9) | [SHIN YOUME](https://open.spotify.com/artist/2xST7A5VgPIcA7u5F8alGE) | [My Liberation Notes OST Part 3](https://open.spotify.com/album/4owVl5lSW1wYKDwVAxR4hh) | 3:28 | 2022-04-21 | 2022-04-29 |
@@ -6979,7 +6980,7 @@
 | [The Gift](https://open.spotify.com/track/6eiJiRI1RNHniYBF4evk3a) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Love Again \(Soundtrack from the Motion Picture\)](https://open.spotify.com/album/1YV5gnob3qCnMQuVomwGwG) | 3:24 | 2023-05-11 | 2023-05-19 |
 | [The Girl That Never Was](https://open.spotify.com/track/02yhtKy4U4R7Z15cxdcWcc) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Girl That Never Was](https://open.spotify.com/album/1kmfSWlvNxYhWEPfpNXwBS) | 3:13 | 2023-10-05 | 2023-10-13 |
 | [THE GIRLS \- BLACKPINK THE GAME OST](https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS) | 2:42 | 2023-08-24 | 2023-09-01 |
-| [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 | 2023-11-16 |  |
+| [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 | 2023-11-16 |  |
 | [The Good Days Boys](https://open.spotify.com/track/4pF4jl2H1m5UVlKT8rE7vE) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [The Good Days Boys Playlist 1](https://open.spotify.com/album/5qQ6xIXc6aVePk5GcAV92Z) | 2:42 | 2021-12-30 | 2022-01-07 |
 | [The Good Parts](https://open.spotify.com/track/02zkVbK2r3BaGMQGm4XPM5) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [The Good Parts](https://open.spotify.com/album/6wnooCp85VRvQfb9oQL1Bj) | 3:18 | 2022-11-17 | 2022-11-25 |
 | [The Grants](https://open.spotify.com/track/3dMdHqNk3h3gl2p8M5e7Ze) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [The Grants](https://open.spotify.com/album/63n3qENYkOIeDFXZuceoUA) | 4:55 | 2023-03-16 | 2023-03-25 |

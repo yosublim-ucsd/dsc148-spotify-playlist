@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-331 songs - 19 hr 50 min
+332 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [Can’t Catch Me Now \(from The Hunger Games: The Ballad of Songbirds & Snakes\)](https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s) | 3:25 | 2023-11-02 |  |
 | [Cardboard Box \- Acoustic](https://open.spotify.com/track/3k7E83vyhWu7UUl9FxPNRn) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box \(Acoustic\)](https://open.spotify.com/album/1DWnard9ZSt1HfKIHJxQRp) | 2:53 | 2023-02-24 | 2023-10-25 |
 | [Carry On](https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 2:48 | 2023-11-09 | 2023-11-16 |
-| [Chai Latte](https://open.spotify.com/track/2F7lKDfEJzfK6tPGMEwz4r) | [UEBO](https://open.spotify.com/artist/4ZdEBA9PcwlKaC0hBZ2hhQ) | [Identity](https://open.spotify.com/album/3Qp3rbTXFIzd4MNWjlRJXh) | 3:43 | 2023-11-21 |  |
+| [Chai Latte](https://open.spotify.com/track/0k3FxPBgYwQwX9few9fOeV) | [UEBO](https://open.spotify.com/artist/4ZdEBA9PcwlKaC0hBZ2hhQ) | [Identity](https://open.spotify.com/album/1HgnvAjSsTZSsJKphEa8zQ) | 3:43 | 2023-11-21 |  |
+| [Chai Latte](https://open.spotify.com/track/2F7lKDfEJzfK6tPGMEwz4r) | [UEBO](https://open.spotify.com/artist/4ZdEBA9PcwlKaC0hBZ2hhQ) | [Identity](https://open.spotify.com/album/3Qp3rbTXFIzd4MNWjlRJXh) | 3:43 | 2023-11-21 | 2023-11-23 |
 | [Cleanup Dive](https://open.spotify.com/track/1MlTuNCsKVdJQLUOGnuX3B) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [Cleanup Dive](https://open.spotify.com/album/3Ka7AjpXM0IbrX06vd9gD0) | 4:33 | 2023-10-05 |  |
 | [Coastline](https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw) | 3:53 | 2022-10-20 |  |
 | [Columbo](https://open.spotify.com/track/0y26ehF7JqHVHqb2Fik0uG) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/6DW1K4bAZPcJHzCW17pAnP) | 3:33 | 2023-05-23 | 2023-07-07 |

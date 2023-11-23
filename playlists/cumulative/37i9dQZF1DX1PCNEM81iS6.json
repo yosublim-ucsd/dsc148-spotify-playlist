@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "MONOGRAM",
+        "url": "https://open.spotify.com/album/1D7FJhAmoqrVERB7IRXZ0h"
+      },
+      "artists": [
+        {
+          "name": "STEREO DIVE FOUNDATION",
+          "url": "https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219375,
+      "name": "MONOGRAM",
+      "url": "https://open.spotify.com/track/135nKXuCgD9wcByXRWjB4o"
+    },
+    {
+      "album": {
         "name": "Nameless Story (\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u76e4)",
         "url": "https://open.spotify.com/album/5ALYVB2B7UAkaeYrukIXGt"
       },

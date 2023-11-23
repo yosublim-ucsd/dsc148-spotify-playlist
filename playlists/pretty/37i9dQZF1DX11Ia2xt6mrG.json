@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Lex en portada.",
-  "num_followers": 55353,
+  "num_followers": 55368,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzVhNzNmOGNhMzQxMmUyNGVkMDlhM2Q1ODU4NzMwMjY2ZjNmODBm",
+  "snapshot_id": "MCxmNjk2Mzc0ZWM3ZWFhMjNkOTAyMzRhMzNjOTQwOTFiY2VmYjU1MDc0",
   "tracks": [
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "I Saw You",
-        "url": "https://open.spotify.com/album/4gxbyW1dpyW55B5YxRzw8w"
-      },
-      "artists": [
-        {
-          "name": "Fortu & Mendoza",
-          "url": "https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex"
-        },
-        {
-          "name": "A-Dyad",
-          "url": "https://open.spotify.com/artist/11HbXAUaPyevfyRYnmHpX6"
-        }
-      ],
-      "duration_ms": 228923,
-      "name": "I Saw You",
-      "url": "https://open.spotify.com/track/0S7Z61F0tievPImUOKNnXy"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "Bajo Cero",
         "url": "https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 211903,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/1eA6VJPzWaqTcOqzXdxYAN"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "I Saw You",
+        "url": "https://open.spotify.com/album/4gxbyW1dpyW55B5YxRzw8w"
+      },
+      "artists": [
+        {
+          "name": "Fortu & Mendoza",
+          "url": "https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex"
+        },
+        {
+          "name": "A-Dyad",
+          "url": "https://open.spotify.com/artist/11HbXAUaPyevfyRYnmHpX6"
+        }
+      ],
+      "duration_ms": 228923,
+      "name": "I Saw You",
+      "url": "https://open.spotify.com/track/0S7Z61F0tievPImUOKNnXy"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Highway",
-        "url": "https://open.spotify.com/album/21J0Swjz8gN4mRTfTTyrC7"
+        "name": "The Same Loop Again",
+        "url": "https://open.spotify.com/album/3qqZB0NVdshpuwCx2nT4oC"
       },
       "artists": [
         {
-          "name": "Andre VII",
-          "url": "https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq"
+          "name": "Orig\u0101mi",
+          "url": "https://open.spotify.com/artist/0wUeskhCjrNua9CuV5D0Z0"
         }
       ],
-      "duration_ms": 369828,
-      "name": "Highway - Original Mix",
-      "url": "https://open.spotify.com/track/6AUlcDivRD0L1EbeljUoLr"
+      "duration_ms": 279594,
+      "name": "The Same Loop Again",
+      "url": "https://open.spotify.com/track/6XereS7uqOuoevU1yp8HWC"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "The Same Loop Again",
-        "url": "https://open.spotify.com/album/3qqZB0NVdshpuwCx2nT4oC"
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/21J0Swjz8gN4mRTfTTyrC7"
       },
       "artists": [
         {
-          "name": "Orig\u0101mi",
-          "url": "https://open.spotify.com/artist/0wUeskhCjrNua9CuV5D0Z0"
+          "name": "Andre VII",
+          "url": "https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq"
         }
       ],
-      "duration_ms": 279594,
-      "name": "The Same Loop Again",
-      "url": "https://open.spotify.com/track/6XereS7uqOuoevU1yp8HWC"
+      "duration_ms": 369828,
+      "name": "Highway - Original Mix",
+      "url": "https://open.spotify.com/track/6AUlcDivRD0L1EbeljUoLr"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1527,18 +1527,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "LA NOTA",
-        "url": "https://open.spotify.com/album/3QLxisHqYsMHKqaka1gyEQ"
+        "name": "Covalent Bond",
+        "url": "https://open.spotify.com/album/5jZ5hLf3m4UenDBUFjfsNK"
       },
       "artists": [
         {
-          "name": "Yoiker",
-          "url": "https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ"
+          "name": "Erick T",
+          "url": "https://open.spotify.com/artist/0oL2gjYOTpcRB9aFqFMLw0"
+        },
+        {
+          "name": "The Second Wave",
+          "url": "https://open.spotify.com/artist/7IFy6bk5Xwsf0f58o1al0o"
         }
       ],
-      "duration_ms": 158200,
-      "name": "LA NOTA",
-      "url": "https://open.spotify.com/track/26Wn0xpOkIRrFulsjZzuMj"
+      "duration_ms": 159359,
+      "name": "Covalent Bond",
+      "url": "https://open.spotify.com/track/2TZLm2KyyWHlNhyFXAhvCK"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1567,22 +1571,18 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Covalent Bond",
-        "url": "https://open.spotify.com/album/5jZ5hLf3m4UenDBUFjfsNK"
+        "name": "LA NOTA",
+        "url": "https://open.spotify.com/album/3QLxisHqYsMHKqaka1gyEQ"
       },
       "artists": [
         {
-          "name": "Erick T",
-          "url": "https://open.spotify.com/artist/0oL2gjYOTpcRB9aFqFMLw0"
-        },
-        {
-          "name": "The Second Wave",
-          "url": "https://open.spotify.com/artist/7IFy6bk5Xwsf0f58o1al0o"
+          "name": "Yoiker",
+          "url": "https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ"
         }
       ],
-      "duration_ms": 159359,
-      "name": "Covalent Bond",
-      "url": "https://open.spotify.com/track/2TZLm2KyyWHlNhyFXAhvCK"
+      "duration_ms": 158200,
+      "name": "LA NOTA",
+      "url": "https://open.spotify.com/track/26Wn0xpOkIRrFulsjZzuMj"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1795,6 +1795,26 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "Empty Words",
+        "url": "https://open.spotify.com/album/5y0WVHEW9q3N77kELEyvme"
+      },
+      "artists": [
+        {
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "S & L",
+          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Empty Words",
+      "url": "https://open.spotify.com/track/2MsiOygSrbmia1mSUD8xQn"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "Eunoia",
         "url": "https://open.spotify.com/album/6vvIKaVVvt3qHX94edFmmj"
       },
@@ -1807,26 +1827,6 @@
       "duration_ms": 428000,
       "name": "Eunoia",
       "url": "https://open.spotify.com/track/2ki07Ir7ZDaQdJWnmYopFy"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/3r4UauxvbGR8am8API7124"
-      },
-      "artists": [
-        {
-          "name": "N\u00d8RBY",
-          "url": "https://open.spotify.com/artist/2U3LN7n2HqjV95bmXJ3RLw"
-        },
-        {
-          "name": "Taylor Diaz",
-          "url": "https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3"
     }
   ],
   "unique_name": "mint MX",

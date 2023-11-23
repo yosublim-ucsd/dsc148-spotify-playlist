@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 130637,
+  "num_followers": 130671,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjk3ODY2M2YzZmIwNmZiOTRhMjgxOTVkMmRjM2FkM2JmNWI0NDI1",
+  "snapshot_id": "MCxhMjRiOWFhZGU1Y2M1NTU0MTM2Y2E3MTdlMTU2ZWQ1ZjIzZjcwY2Vj",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe"
     },
     {
-      "added_at": "2023-10-20 05:37:48",
-      "album": {
-        "name": "Am\u00e9n (The Nomad\u2019s Dream)",
-        "url": "https://open.spotify.com/album/0BBWvsze1fTh8HS6kKQjiD"
-      },
-      "artists": [
-        {
-          "name": "Berhana",
-          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
-        }
-      ],
-      "duration_ms": 157213,
-      "name": "WOW!",
-      "url": "https://open.spotify.com/track/0F95C4z2gQJ8NigLuO4z4u"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "EXTC",
@@ -775,6 +759,22 @@
       "duration_ms": 235801,
       "name": "hmu",
       "url": "https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz"
+    },
+    {
+      "added_at": "2023-10-20 05:37:48",
+      "album": {
+        "name": "Am\u00e9n (The Nomad\u2019s Dream)",
+        "url": "https://open.spotify.com/album/0BBWvsze1fTh8HS6kKQjiD"
+      },
+      "artists": [
+        {
+          "name": "Berhana",
+          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+        }
+      ],
+      "duration_ms": 157213,
+      "name": "WOW!",
+      "url": "https://open.spotify.com/track/0F95C4z2gQJ8NigLuO4z4u"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1137,6 +1137,30 @@
       "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
     },
     {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
+        "url": "https://open.spotify.com/album/6SymPOBPwcX3daLExr5uXP"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 310340,
+      "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
+      "url": "https://open.spotify.com/track/4W1VDzvrBBG0lZvC221Qh5"
+    },
+    {
       "added_at": "2023-10-20 05:37:48",
       "album": {
         "name": "90s (Remix)",
@@ -1163,30 +1187,6 @@
       "duration_ms": 205330,
       "name": "90s - Remix",
       "url": "https://open.spotify.com/track/1NzjKlRWYEfH3UORKH0zyD"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
-        "url": "https://open.spotify.com/album/6SymPOBPwcX3daLExr5uXP"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 310340,
-      "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
-      "url": "https://open.spotify.com/track/4W1VDzvrBBG0lZvC221Qh5"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1277,22 +1277,6 @@
       "url": "https://open.spotify.com/track/0dIfJUr08iuUos2rGg9uEJ"
     },
     {
-      "added_at": "2023-10-06 05:19:16",
-      "album": {
-        "name": "ON THE LOW",
-        "url": "https://open.spotify.com/album/0Jdg9AhorPRvu4W5lHyz7A"
-      },
-      "artists": [
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        }
-      ],
-      "duration_ms": 157251,
-      "name": "ON THE LOW",
-      "url": "https://open.spotify.com/track/1EAYfaIcNMICqXBkpaEdJ5"
-    },
-    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "Interstellar.",
@@ -1311,6 +1295,22 @@
       "duration_ms": 235339,
       "name": "Interstellar.",
       "url": "https://open.spotify.com/track/4k9BF0WyAx8l8GaB9oJzyV"
+    },
+    {
+      "added_at": "2023-10-06 05:19:16",
+      "album": {
+        "name": "ON THE LOW",
+        "url": "https://open.spotify.com/album/0Jdg9AhorPRvu4W5lHyz7A"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        }
+      ],
+      "duration_ms": 157251,
+      "name": "ON THE LOW",
+      "url": "https://open.spotify.com/track/1EAYfaIcNMICqXBkpaEdJ5"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -1677,26 +1677,6 @@
       "url": "https://open.spotify.com/track/7olP7S3e0XDQ08eisCHVgp"
     },
     {
-      "added_at": "2023-10-06 05:19:16",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/1607XCpNlwbHG2ZY9OwtDl"
-      },
-      "artists": [
-        {
-          "name": "Raquel",
-          "url": "https://open.spotify.com/artist/2WKGwl7U3upSvwbJrBJSla"
-        },
-        {
-          "name": "Kofi",
-          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
-        }
-      ],
-      "duration_ms": 179006,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/1oCwqRH1deWph40WFy7zCB"
-    },
-    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "never worry",
@@ -1715,6 +1695,26 @@
       "duration_ms": 186123,
       "name": "Sumthin Crazy (with Rochelle Jordan)",
       "url": "https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl"
+    },
+    {
+      "added_at": "2023-10-06 05:19:16",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/1607XCpNlwbHG2ZY9OwtDl"
+      },
+      "artists": [
+        {
+          "name": "Raquel",
+          "url": "https://open.spotify.com/artist/2WKGwl7U3upSvwbJrBJSla"
+        },
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "duration_ms": 179006,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/1oCwqRH1deWph40WFy7zCB"
     },
     {
       "added_at": "2023-10-27 04:00:00",

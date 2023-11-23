@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 
 > Gentle instrumental tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,648 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,971 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 43 | [Flower Duet \- Goldmund Rework](https://open.spotify.com/track/3x5EerSpxWhkSvLKQ87U2S) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw), [Scott Moore](https://open.spotify.com/artist/3k5d36mzom5r3bYb2ZBI3E), [Emily Pisaturo](https://open.spotify.com/artist/2s0fOzYaGHBDTbKTmY1rLm) | [Flower Duet \(Goldmund Rework\)](https://open.spotify.com/album/38RHDC1MzoEZa5xaDMggAY) | 2:47 |
 | 44 | [Rhapsody on a Theme of Paganini, Op\. 43: Variation No\. 18 Andante cantabile](https://open.spotify.com/track/5xcYuTciYwyCDPkOgYBAYz) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1), [Yannick Nézet\-Séguin](https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5) | [Rachmaninov Variations](https://open.spotify.com/album/63PKBCJO4rZRgejds1VMCf) | 2:54 |
 | 45 | [Train in New York](https://open.spotify.com/track/122EWbjLx9gYysvIscsZRe) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Puzzle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6TDQmJ2G8UoCyyKFsWKsq7) | 2:49 |
-| 46 | [Lucida](https://open.spotify.com/track/5TQ69mBOhC49tCWTTCWUMG) | [Thomas Bartlett](https://open.spotify.com/artist/1fMujthy4KyGgUJnOeehH1) | [Lucida](https://open.spotify.com/album/65NRqIsEiD5ZvrO3TVrmFL) | 6:39 |
+| 46 | [Lucida](https://open.spotify.com/track/1BWFgp352htOukWtjsD7B7) | [Thomas Bartlett](https://open.spotify.com/artist/1fMujthy4KyGgUJnOeehH1) | [Shelter](https://open.spotify.com/album/3wB9cEC4wDm8TeNJEvRLbo) | 6:39 |
 | 47 | [In the Waiting](https://open.spotify.com/track/0WzetzBykY3fl41dEJjoYa) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 2:39 |
 | 48 | [Autumn](https://open.spotify.com/track/6k72nrGlCMKzs5TZXUF9Gp) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR) | [Autumn](https://open.spotify.com/album/4tfc7VtpuBBON6YHnGFaXU) | 4:41 |
 | 49 | [PAN](https://open.spotify.com/track/05j4VSG0fxZHI7MB3mMyVO) | [Martin Kohlstedt](https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk) | [Flur](https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPDLmy88MDk.md) - [plain]
 | 99 | [Piano Sonata No\. 9: II\. Lento](https://open.spotify.com/track/28E9jz4D9f3j4pkLo67ZFe) | [Anis Fuleihan](https://open.spotify.com/artist/5gHoKuc3ZL5JlXOXJnyP9E), [Tatiana Primak\-Khoury](https://open.spotify.com/artist/1erZzEQ3UqiP7kNDe2rQy6) | [Lebanese Piano Music](https://open.spotify.com/album/6C6FXqvkxp62ZmImOXuHPz) | 4:08 |
 | 100 | [Aria variata, BWV 989: Var\. 10](https://open.spotify.com/track/55yVBAj9RlTiZLtzjwJ79H) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Tamara Stefanovich](https://open.spotify.com/artist/3j715uRkAjPRwIvUB7ruMC) | [Influences](https://open.spotify.com/album/0T0QqdUwohT4wESYVgHLtd) | 2:32 |
 
-Snapshot ID: `MCw1MzZhYjVjZDM4ZjExNzA5MTFlYjFhMmIyZjBmYmI2ZTAzMzA1YWI5`
+Snapshot ID: `MCxmNzhhMDVkYzhhMDUzZTkyZGY0YWM4OThiOTMxZjFmODQwNDlkMmJj`

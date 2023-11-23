@@ -231,6 +231,28 @@
     },
     {
       "album": {
+        "name": "Alla Dem Bad",
+        "url": "https://open.spotify.com/album/63IVVJ6unNqy2Dd2u5INc3"
+      },
+      "artists": [
+        {
+          "name": "J69",
+          "url": "https://open.spotify.com/artist/46M2k6hBDA6GLd9iuNZgRh"
+        },
+        {
+          "name": "Miss Baas",
+          "url": "https://open.spotify.com/artist/6Q8qDODQwBDwTvqoP2G3xU"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Alla Dem Bad",
+      "url": "https://open.spotify.com/track/4zYsCeHjJYwXJxWzR8AlNN"
+    },
+    {
+      "album": {
         "name": "Amazon Prime",
         "url": "https://open.spotify.com/album/2GY4CND4eFzrv4QwW3zNA9"
       },
@@ -3638,7 +3660,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 253181,
       "name": "Signal (feat. Ruth Royall)",
       "url": "https://open.spotify.com/track/0DH8DLh53K6WKk5eShesMx"

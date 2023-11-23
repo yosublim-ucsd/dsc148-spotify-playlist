@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Happy Asmara
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,131 likes - 91 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,915 likes - 91 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 90 | [Banyu Moto](https://open.spotify.com/track/1UqXKWMR9HXUSabmXxxUiB) | [Sleman Receh](https://open.spotify.com/artist/0jcgtGZTWxoepAUgADwcHP) | [Banyu Moto](https://open.spotify.com/album/4aeI54j6CouhfK7LqwJpCV) | 4:09 |
 | 91 | [angin dalu](https://open.spotify.com/track/658ox296pj18QSjzTBGWWy) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [angin dalu](https://open.spotify.com/album/398tNxv0AePP2zEWNYOmKs) | 4:19 |
 
-Snapshot ID: `MCw2NDY0NzA2ZmY5YWYzY2JlMGUzNDVlNDk5MTZmZTQ4Zjk5YmQ2OWU1`
+Snapshot ID: `MCw2NDk5NTY4NDExMDZlMzdkZTNjYjkzNDVlNDlkMmNkYjc5YTVjNzI0`

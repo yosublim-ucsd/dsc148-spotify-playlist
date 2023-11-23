@@ -1,12 +1,12 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 481458,
+  "num_followers": 481722,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTYwMTk1YTk4NWU0NTk4ZWZkMWY2MjVjN2E4ZTYzYzM5YTUyYWQ5",
+  "snapshot_id": "MCw3YTIwMDNlNWE2Y2UyZGQ5YjM3ZTMyYWJmOWRmYzQyNjU0ZTMzZWFh",
   "tracks": [
     {
       "added_at": "2023-06-09 16:26:46",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
-        "name": "Wanted on Voyage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF"
-    },
-    {
-      "added_at": "2023-06-09 16:26:46",
-      "album": {
         "name": "I'm Wide Awake, It's Morning",
         "url": "https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 188877,
       "name": "First Day of My Life",
       "url": "https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd"
+    },
+    {
+      "added_at": "2023-06-09 16:26:46",
+      "album": {
+        "name": "Wanted on Voyage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -435,26 +435,6 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
-        "name": "Ma Fleur",
-        "url": "https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO"
-      },
-      "artists": [
-        {
-          "name": "The Cinematic Orchestra",
-          "url": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
-        },
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 370666,
-      "name": "To Build A Home",
-      "url": "https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp"
-    },
-    {
-      "added_at": "2023-06-09 16:26:46",
-      "album": {
         "name": "Oh My Messy Mind",
         "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 176826,
       "name": "Peer Pressure",
       "url": "https://open.spotify.com/track/4RE3vueod5PL48rvHtuu9C"
+    },
+    {
+      "added_at": "2023-06-09 16:26:46",
+      "album": {
+        "name": "Ma Fleur",
+        "url": "https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO"
+      },
+      "artists": [
+        {
+          "name": "The Cinematic Orchestra",
+          "url": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
+        },
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 370666,
+      "name": "To Build A Home",
+      "url": "https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
+        "name": "Know.",
+        "url": "https://open.spotify.com/album/7dwIWyB2jdJgL3P2JEgRKm"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 226106,
+      "name": "Have It All",
+      "url": "https://open.spotify.com/track/7BXW1QCg56yzEBV8pW8pah"
+    },
+    {
+      "added_at": "2023-06-09 16:26:46",
+      "album": {
         "name": "Minefields",
         "url": "https://open.spotify.com/album/6Pp5U1A6z6OogrtQEL5Q89"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 190605,
       "name": "Minefields",
       "url": "https://open.spotify.com/track/1OU4E4HiVjdak0mL4blVWT"
-    },
-    {
-      "added_at": "2023-06-09 16:26:46",
-      "album": {
-        "name": "Know.",
-        "url": "https://open.spotify.com/album/7dwIWyB2jdJgL3P2JEgRKm"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 226106,
-      "name": "Have It All",
-      "url": "https://open.spotify.com/track/7BXW1QCg56yzEBV8pW8pah"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 197178,
+      "name": "Lost On You",
+      "url": "https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt"
+    },
+    {
+      "added_at": "2023-06-09 16:26:46",
+      "album": {
         "name": "The Breach EP",
         "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 176946,
       "name": "Friend",
       "url": "https://open.spotify.com/track/6fGSHpEipD1YjtLLChnBzW"
-    },
-    {
-      "added_at": "2023-06-09 16:26:46",
-      "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 197178,
-      "name": "Lost On You",
-      "url": "https://open.spotify.com/track/6glNKSv2aUtfQhe1SJBZZt"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
-        "name": "Ain't Nobody (Loves Me Better) [Acoustic] [Acoustic Version]",
-        "url": "https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 178355,
-      "name": "Ain't Nobody (Loves Me Better) - Acoustic",
-      "url": "https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG"
-    },
-    {
-      "added_at": "2023-06-09 16:26:46",
-      "album": {
         "name": "Girl",
         "url": "https://open.spotify.com/album/1rKpOJytpITLf7mbE7lrkY"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 211881,
       "name": "Girl - Acoustic",
       "url": "https://open.spotify.com/track/4BrGYhbT975hwXXPBUqXNY"
+    },
+    {
+      "added_at": "2023-06-09 16:26:46",
+      "album": {
+        "name": "Ain't Nobody (Loves Me Better) [Acoustic] [Acoustic Version]",
+        "url": "https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 178355,
+      "name": "Ain't Nobody (Loves Me Better) - Acoustic",
+      "url": "https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
-        "name": "Superhero",
-        "url": "https://open.spotify.com/album/3CzwQEWpViOABDuwIPmlNW"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 179997,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/6mipiX3H43Lz4vIJTG6cdO"
-    },
-    {
-      "added_at": "2023-06-09 16:26:46",
-      "album": {
         "name": "Solar Power",
         "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 225862,
       "name": "Mood Ring",
       "url": "https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv"
+    },
+    {
+      "added_at": "2023-06-09 16:26:46",
+      "album": {
+        "name": "Superhero",
+        "url": "https://open.spotify.com/album/3CzwQEWpViOABDuwIPmlNW"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 179997,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/6mipiX3H43Lz4vIJTG6cdO"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
+        "name": "Kissin' In The Cold",
+        "url": "https://open.spotify.com/album/1HsifiywuteSStUutGfkpO"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 224083,
+      "name": "Kissin' In The Cold",
+      "url": "https://open.spotify.com/track/2nZq5WQOW4FEPxCVTdNGfB"
+    },
+    {
+      "added_at": "2023-06-09 16:26:46",
+      "album": {
         "name": "Process (Bonus Edition)",
         "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
       },
@@ -1271,22 +1291,6 @@
       "duration_ms": 218160,
       "name": "(No One Knows Me) Like the Piano",
       "url": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
-    },
-    {
-      "added_at": "2023-06-09 16:26:46",
-      "album": {
-        "name": "Fresh Roses",
-        "url": "https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp"
-      },
-      "artists": [
-        {
-          "name": "Juke Ross",
-          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
-        }
-      ],
-      "duration_ms": 201093,
-      "name": "Fresh Roses",
-      "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
     },
     {
       "added_at": "2023-06-09 16:26:46",
@@ -1307,6 +1311,22 @@
     {
       "added_at": "2023-06-09 16:26:46",
       "album": {
+        "name": "Fresh Roses",
+        "url": "https://open.spotify.com/album/6DUbcDDJa547U0KvgjCthp"
+      },
+      "artists": [
+        {
+          "name": "Juke Ross",
+          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "Fresh Roses",
+      "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
+    },
+    {
+      "added_at": "2023-06-09 16:26:46",
+      "album": {
         "name": "Is It Just Me?",
         "url": "https://open.spotify.com/album/3DgJhCabZjQ3zMcw0E8zWX"
       },
@@ -1323,22 +1343,6 @@
       "duration_ms": 203300,
       "name": "Is It Just Me? (feat. JP Cooper)",
       "url": "https://open.spotify.com/track/754zNJgoWQaGETFzSYVlmC"
-    },
-    {
-      "added_at": "2023-06-09 16:26:46",
-      "album": {
-        "name": "our generation",
-        "url": "https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx"
-      },
-      "artists": [
-        {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
-        }
-      ],
-      "duration_ms": 237780,
-      "name": "Soul Mate",
-      "url": "https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO"
     }
   ],
   "unique_name": "No Stress",

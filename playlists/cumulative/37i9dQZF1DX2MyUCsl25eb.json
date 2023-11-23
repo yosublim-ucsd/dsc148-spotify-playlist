@@ -7154,7 +7154,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 204455,
       "name": "Lily",
       "url": "https://open.spotify.com/track/1ozY7x1q8nZqXVTsuBfUgg"
@@ -7176,6 +7176,24 @@
       "duration_ms": 204455,
       "name": "Lily",
       "url": "https://open.spotify.com/track/4vl9dAQphgp3kWPLg2gUXB"
+    },
+    {
+      "album": {
+        "name": "Lily",
+        "url": "https://open.spotify.com/album/0AhEyJgOMDYFaC5cyEJOGa"
+      },
+      "artists": [
+        {
+          "name": "Francisco Martin",
+          "url": "https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204455,
+      "name": "Lily",
+      "url": "https://open.spotify.com/track/70CCOxFTtRj6yfAt0dXzGx"
     },
     {
       "album": {

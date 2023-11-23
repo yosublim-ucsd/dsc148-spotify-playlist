@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 70447,
+  "num_followers": 70495,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTZiNTBiNDllZDc4MDllNjcyMTUxMDUwOWU2MTdlZjc5MmMwYzMz",
+  "snapshot_id": "MCwyMTFhNTA0MzYyYzljOTcyMjYwMWE2YmJiYzdkOWRkYmUxZmRjYWZl",
   "tracks": [
     {
       "added_at": "2023-10-06 09:12:51",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "Avery*sunshine Album",
-        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        }
-      ],
-      "duration_ms": 194333,
-      "name": "I Got Sunshine",
-      "url": "https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 257386,
       "name": "Ladies",
       "url": "https://open.spotify.com/track/6iNHWlOLt4NuDi9iSvtznO"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
+        "name": "Avery*sunshine Album",
+        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "duration_ms": 194333,
+      "name": "I Got Sunshine",
+      "url": "https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -531,26 +531,6 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "Honey Dove",
-      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
         "name": "Young Sick Camellia",
         "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 236546,
       "name": "Stay Together",
       "url": "https://open.spotify.com/track/0Gs5zsjp7Rp2i41yMgNxCf"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "Honey Dove",
+      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "L.A.B",
-        "url": "https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 258200,
-      "name": "Starry Eyes",
-      "url": "https://open.spotify.com/track/2eWG4GJSLwpDaRkOu2xatT"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
         "name": "True to Myself",
         "url": "https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 208418,
       "name": "Things We Do for Love",
       "url": "https://open.spotify.com/track/6f3hzGasIjbHOjvwmylCze"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
+        "name": "L.A.B",
+        "url": "https://open.spotify.com/album/0bAw54Ih5LQ7SmC7uJ0IUv"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 258200,
+      "name": "Starry Eyes",
+      "url": "https://open.spotify.com/track/2eWG4GJSLwpDaRkOu2xatT"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "New Magic",
-        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 213192,
-      "name": "Blue Magic (Waikiki)",
-      "url": "https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
         "name": "Make the Road By Walking",
         "url": "https://open.spotify.com/album/6YN8jfCZLngnYeAoaWy4RC"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 198786,
       "name": "Montego Sunset",
       "url": "https://open.spotify.com/track/46g7hr6VAtl08So3KkvLc8"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
+        "name": "New Magic",
+        "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 213192,
+      "name": "Blue Magic (Waikiki)",
+      "url": "https://open.spotify.com/track/3auSQjs9kylJwN0aU7S5Qc"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "Covered in Soul",
-        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
-      },
-      "artists": [
-        {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "O-O-H Child",
-      "url": "https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
         "name": "All Your Love",
         "url": "https://open.spotify.com/album/3owhRoShVOJ29xOAgoLG8w"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 214517,
       "name": "All Your Love - Single Edit",
       "url": "https://open.spotify.com/track/0DS0qQnq5jxPlePtWFfVMI"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
+        "name": "Covered in Soul",
+        "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 185333,
+      "name": "O-O-H Child",
+      "url": "https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl"
     },
     {
       "added_at": "2023-10-06 09:12:51",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-10-06 09:12:51",
       "album": {
-        "name": "Stand Up",
-        "url": "https://open.spotify.com/album/07bddfiyAYcp3Gwp1AgDnn"
-      },
-      "artists": [
-        {
-          "name": "Steffen Morrison",
-          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
-        }
-      ],
-      "duration_ms": 175829,
-      "name": "Stand Up",
-      "url": "https://open.spotify.com/track/2AOCiU18f4kuZMltkR8cgh"
-    },
-    {
-      "added_at": "2023-10-06 09:12:51",
-      "album": {
         "name": "Ben L'Oncle Soul",
         "url": "https://open.spotify.com/album/0cf7toJ9xKuKgsaTDwxaCj"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 265560,
       "name": "All For Love",
       "url": "https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp"
+    },
+    {
+      "added_at": "2023-10-06 09:12:51",
+      "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/07bddfiyAYcp3Gwp1AgDnn"
+      },
+      "artists": [
+        {
+          "name": "Steffen Morrison",
+          "url": "https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r"
+        }
+      ],
+      "duration_ms": 175829,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/2AOCiU18f4kuZMltkR8cgh"
     },
     {
       "added_at": "2023-10-06 09:12:51",

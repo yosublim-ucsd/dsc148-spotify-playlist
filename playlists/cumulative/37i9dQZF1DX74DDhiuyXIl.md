@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-350 songs - 1 day 1 hr 17 min
+351 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [我很好騙](https://open.spotify.com/track/5VJV7hZSVV81OrQN3VDmfM) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [我很好騙](https://open.spotify.com/album/7f0TsfTwdRaujau4u25Jsq) | 5:13 | 2022-06-06 | 2022-07-29 |
 | [我怨](https://open.spotify.com/track/5AXPd43PkgVAp9ezRbfp9H) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [我怨](https://open.spotify.com/album/2pubZInn0m4l00rM4Azlm8) | 5:38 | 2022-06-06 | 2022-07-29 |
 | [我恨我還愛](https://open.spotify.com/track/3lDTaqfNFNCuMHBDLWXvHp) | [Queena Cui](https://open.spotify.com/artist/3Pf6bS1cRCdiMT5XRH9St1) | [有生之年再也不見](https://open.spotify.com/album/3UArgaYx1L1E7FyYQ2WzUo) | 4:45 | 2022-06-13 | 2022-07-08 |
-| [我想念](https://open.spotify.com/track/6nO5UyAtYeK2M8QuCB8bay) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [我想念](https://open.spotify.com/album/31JTgArhlChkvAHXYyDehs) | 3:44 | 2023-07-31 |  |
+| [我想念](https://open.spotify.com/track/6nO5UyAtYeK2M8QuCB8bay) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [我想念](https://open.spotify.com/album/31JTgArhlChkvAHXYyDehs) | 3:44 | 2023-07-31 | 2023-11-23 |
 | [我想我願意 \(電視劇《驕陽伴我》片尾曲\)](https://open.spotify.com/track/7LEKeXpffMyiLPFW957rH8) | [王錚亮](https://open.spotify.com/artist/3mCdK5iQjk98thTdx2UAUN), [林凡](https://open.spotify.com/artist/1YmWActCNjKmuIz1TSgSRx) | [我想我願意 \(電視劇《驕陽伴我》片尾曲\)](https://open.spotify.com/album/3P8SmlZnoFho5whbNfDnI3) | 4:28 | 2023-09-18 | 2023-09-26 |
 | [我想让你快乐](https://open.spotify.com/track/4Z16C80hk5PJN2wgZ5QIK0) | [于冬然](https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs) | [我想让你快乐](https://open.spotify.com/album/3iwuRjVk0RqcgnmjnlstN3) | 3:49 | 2023-04-11 | 2023-04-28 |
 | [我想陪你](https://open.spotify.com/track/4ht7eHqkvXiT7cFh6CLQSd) | [Meeia Foo](https://open.spotify.com/artist/4jC2S13tMZQ19PBlAJTmeY) | [我想陪你](https://open.spotify.com/album/1k5fSpZKtRec7jMbI0ADXe) | 3:27 | 2022-12-19 | 2022-12-27 |
@@ -281,6 +281,7 @@
 | [白鸽](https://open.spotify.com/track/3ZzjBnvlMgDpD4OH0LcGR4) | [你的上好佳](https://open.spotify.com/artist/14hDbC4uLLxDn19VsFrjsL) | [白鸽](https://open.spotify.com/album/6JQ6jGtfTpnjLU8yQawNO0) | 3:28 | 2023-03-02 |  |
 | [看我始终 \- 《镇魂街》第三季动画主题曲](https://open.spotify.com/track/2p7qN9TcKVfPKwypob19uy) | [Mao Buyi](https://open.spotify.com/artist/6gvSKE72vF6N20LfBqrDmm) | [看我始终 \(《镇魂街》第三季动画主题曲\)](https://open.spotify.com/album/5fCbkgAmst9tUzjDFNqKQD) | 3:09 | 2023-08-07 | 2023-08-15 |
 | [看起來不錯其實也還好](https://open.spotify.com/track/3zMmF25anSSUsnJmcYMbmF) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [巷子內](https://open.spotify.com/album/7aNRNUuP1X1f6B1MxUp9QX) | 4:00 | 2022-06-06 | 2022-07-29 |
+| [真的傻 \(電影《一吻定情》追愛版主題曲\)](https://open.spotify.com/track/6fOTtt07m7yEtYlWBLojDb) | [Baozhai Mezhong](https://open.spotify.com/artist/1sNBvC3ul9Xy0beVtEDPqV) | [真的傻 \(電影《一吻定情》追愛版主題曲\)](https://open.spotify.com/album/5VjoZ5TS5zF54zP5gB4O0B) | 4:16 | 2023-11-20 |  |
 | [真的傻 \(電影《一吻定情》追愛版主題曲\)](https://open.spotify.com/track/7mCr6Rn5jx04Fisvts97Z3) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [真的傻 \(電影《一吻定情》追愛版主題曲\)](https://open.spotify.com/album/1kwz2DPjIizXiCnWz6ru2s) | 4:16 | 2022-06-06 | 2023-02-24 |
 | [眼淚記得你 \- 電影《想見你》主題曲](https://open.spotify.com/track/0USeB0Tykai3QZj5YAUclG) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [眼淚記得你](https://open.spotify.com/album/34b13gZHKmAMzg1uqviOxg) | 4:04 | 2022-12-27 |  |
 | [知足 \(諾亞方舟 10週年進化\)](https://open.spotify.com/track/5chcwiV9mmq2vllfsxVCEu) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [知足](https://open.spotify.com/album/3kkCnnNH23dAmzEatPhaBz) | 4:10 | 2023-04-17 | 2023-08-17 |

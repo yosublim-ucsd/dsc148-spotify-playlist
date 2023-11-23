@@ -7032,7 +7032,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 134582,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
@@ -9561,6 +9561,24 @@
     },
     {
       "album": {
+        "name": "exes",
+        "url": "https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159400,
+      "name": "exes",
+      "url": "https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o"
+    },
+    {
+      "album": {
         "name": "Expensive (feat. Noah Cyrus)",
         "url": "https://open.spotify.com/album/0SUEY2iGWTpFiqLBr1GXHr"
       },
@@ -11508,6 +11526,24 @@
       "duration_ms": 163927,
       "name": "Girl Of Your Dreams",
       "url": "https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg"
+    },
+    {
+      "album": {
+        "name": "Girl On The Internet",
+        "url": "https://open.spotify.com/album/6NnlOV3v51Tmlnf6sEsVOX"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155400,
+      "name": "Girl On The Internet",
+      "url": "https://open.spotify.com/track/4sYUUsGf0z6S99Yk7rXWdv"
     },
     {
       "album": {
@@ -19536,7 +19572,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 193386,
       "name": "Magic",
       "url": "https://open.spotify.com/track/1ozTHWtYAhhLeJ2CejjNyF"
@@ -20218,7 +20254,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 177524,
       "name": "missin u",
       "url": "https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX"
@@ -21970,7 +22006,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 198022,
       "name": "Not The 1975",
       "url": "https://open.spotify.com/track/15sze1xMQqq3nkC2fH3vbh"

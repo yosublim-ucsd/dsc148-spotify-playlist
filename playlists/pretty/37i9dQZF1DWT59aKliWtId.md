@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality alternative blend ft\. Madison Cunningham
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,524 likes - 127 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,560 likes - 127 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 126 | [Alright, Alright](https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8) | [Easy Honey](https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj) | [Ooooo](https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5) | 2:34 |
 | 127 | [Flowers in Your Hair](https://open.spotify.com/track/3r8tN8h34miJWeu5VuVzk3) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Flowers in Your Hair](https://open.spotify.com/album/18jqHWp5uH00u051RM58zQ) | 3:47 |
 
-Snapshot ID: `MCxjNzBlZDFlMzhhY2IxZjFlZjU4M2IxMmMzY2FiNjI2NmFlZjg0OGU0`
+Snapshot ID: `MCxlMjhlYWYyYmI0MjYyMjMxYTExMjk1OTVmN2RlYWEzZmJjN2NiZDQ1`

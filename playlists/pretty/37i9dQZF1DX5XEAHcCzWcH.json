@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 30504,
+  "num_followers": 30536,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTE0NzBiNmZiZWNiMTlmZTc2YTM3ODRmYWIzNDhiN2QwODdhNTE5",
+  "snapshot_id": "MCwyMjUxNTc1M2QzMjgwZGExYTJiNTlmM2QwYTZkOWQzMjllZWY1ZTVh",
   "tracks": [
     {
       "added_at": "2023-09-15 11:43:10",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "The Essential Leroy Carr",
-        "url": "https://open.spotify.com/album/02k5tV3zpF2khwjxro1oUT"
-      },
-      "artists": [
-        {
-          "name": "Leroy Carr",
-          "url": "https://open.spotify.com/artist/2FtoVJBkfbE89zyZJ0E9eR"
-        }
-      ],
-      "duration_ms": 175400,
-      "name": "Papa's on the House Top",
-      "url": "https://open.spotify.com/track/2O36OWzPpO7qg7CxdmPtN3"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "The Sonet Blues Story",
         "url": "https://open.spotify.com/album/4PTxdqiU8HhL5GW5Zf0pZ0"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 236733,
       "name": "Lovesick Soul",
       "url": "https://open.spotify.com/track/0E3Ck752Kw29gVpyAVDLDo"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "The Essential Leroy Carr",
+        "url": "https://open.spotify.com/album/02k5tV3zpF2khwjxro1oUT"
+      },
+      "artists": [
+        {
+          "name": "Leroy Carr",
+          "url": "https://open.spotify.com/artist/2FtoVJBkfbE89zyZJ0E9eR"
+        }
+      ],
+      "duration_ms": 175400,
+      "name": "Papa's on the House Top",
+      "url": "https://open.spotify.com/track/2O36OWzPpO7qg7CxdmPtN3"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Victor Wainwright and the Train",
-        "url": "https://open.spotify.com/album/1F2skCbg4JAAdWjWM2jr9p"
-      },
-      "artists": [
-        {
-          "name": "Victor Wainwright",
-          "url": "https://open.spotify.com/artist/5iXJjikLdfxrmqGkdyW5C9"
-        }
-      ],
-      "duration_ms": 215460,
-      "name": "Train",
-      "url": "https://open.spotify.com/track/7wKp4mA6hcs13duOudDQ6C"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Good Candy",
         "url": "https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 392600,
       "name": "West Side Woman",
       "url": "https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "The Honeydripper",
+        "url": "https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt Sykes",
+          "url": "https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Pocketful Of Money",
+      "url": "https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "The Honeydripper",
-        "url": "https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm"
+        "name": "Victor Wainwright and the Train",
+        "url": "https://open.spotify.com/album/1F2skCbg4JAAdWjWM2jr9p"
       },
       "artists": [
         {
-          "name": "Roosevelt Sykes",
-          "url": "https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5"
+          "name": "Victor Wainwright",
+          "url": "https://open.spotify.com/artist/5iXJjikLdfxrmqGkdyW5C9"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Pocketful Of Money",
-      "url": "https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY"
+      "duration_ms": 215460,
+      "name": "Train",
+      "url": "https://open.spotify.com/track/7wKp4mA6hcs13duOudDQ6C"
     },
     {
       "added_at": "2023-09-15 11:43:10",

@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 607887,
+  "num_followers": 608045,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTk0ZTVjYjk2YWI0MWQ3YTAzYmYwMGQ4ZDA4Njk1MmNhYTY5YTJh",
+  "snapshot_id": "MCwxMGMzOGU0MzQzMzRhMDVlNDNkODc3YWJmOGI3YjliZDM3YzU0ZDli",
   "tracks": [
     {
       "added_at": "2023-11-14 11:01:57",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "Cynnes",
+        "url": "https://open.spotify.com/album/1gBWP6CbeIFWedMHaR5FJ4"
+      },
+      "artists": [
+        {
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+        }
+      ],
+      "duration_ms": 324333,
+      "name": "Cynnes",
+      "url": "https://open.spotify.com/track/6EjqmQ7tyQUIOYo4jXDiX9"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "Caprice",
         "url": "https://open.spotify.com/album/0zv9KQqPhVAPleEi8anQ4R"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 230839,
       "name": "Caprice",
       "url": "https://open.spotify.com/track/6UJTyXQvDe3hv8NQXOKOCl"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
-        "name": "Cynnes",
-        "url": "https://open.spotify.com/album/1gBWP6CbeIFWedMHaR5FJ4"
-      },
-      "artists": [
-        {
-          "name": "il:lo",
-          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
-        }
-      ],
-      "duration_ms": 324333,
-      "name": "Cynnes",
-      "url": "https://open.spotify.com/track/6EjqmQ7tyQUIOYo4jXDiX9"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -591,6 +591,34 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "Ode Ireti (Nitefreak Remix)",
+        "url": "https://open.spotify.com/album/2qqR1bQI6G7jEzK5zALbpL"
+      },
+      "artists": [
+        {
+          "name": "&friends",
+          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
+        },
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "El-Jay",
+          "url": "https://open.spotify.com/artist/6I4x3myd2zhgAIrqkp4D85"
+        },
+        {
+          "name": "Oluwadamvic",
+          "url": "https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly"
+        }
+      ],
+      "duration_ms": 239925,
+      "name": "Ode Ireti - Nitefreak Remix",
+      "url": "https://open.spotify.com/track/40UBIQiUwe6Or8rUKRlG0N"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "Burning Out EP",
         "url": "https://open.spotify.com/album/4iO74LdA4G9TthnWNIdw3I"
       },
@@ -651,34 +679,6 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "Ode Ireti (Nitefreak Remix)",
-        "url": "https://open.spotify.com/album/2qqR1bQI6G7jEzK5zALbpL"
-      },
-      "artists": [
-        {
-          "name": "&friends",
-          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
-        },
-        {
-          "name": "Nitefreak",
-          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
-        },
-        {
-          "name": "El-Jay",
-          "url": "https://open.spotify.com/artist/6I4x3myd2zhgAIrqkp4D85"
-        },
-        {
-          "name": "Oluwadamvic",
-          "url": "https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly"
-        }
-      ],
-      "duration_ms": 239925,
-      "name": "Ode Ireti - Nitefreak Remix",
-      "url": "https://open.spotify.com/track/40UBIQiUwe6Or8rUKRlG0N"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
         "name": "La Perla (Tourist Remix)",
         "url": "https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor"
       },
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "NA NA NA",
+        "url": "https://open.spotify.com/album/7IjkeZsYlHbD116c6ZA92P"
+      },
+      "artists": [
+        {
+          "name": "WAALAAXXX",
+          "url": "https://open.spotify.com/artist/7wc6nhyFtZS1Lw4dS1LwnQ"
+        }
+      ],
+      "duration_ms": 430819,
+      "name": "NA NA NA",
+      "url": "https://open.spotify.com/track/7xMyPCsSnWJqsgjhgLy0dz"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "R U 4REAL (feat. Marina Maximilian)",
         "url": "https://open.spotify.com/album/2WV2u9UIG4I3BQ3jkuphBa"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 189677,
       "name": "R U 4REAL (feat. Marina Maximilian)",
       "url": "https://open.spotify.com/track/7qEYvfP5ONliv8obMM2A4E"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
-        "name": "NA NA NA",
-        "url": "https://open.spotify.com/album/7IjkeZsYlHbD116c6ZA92P"
-      },
-      "artists": [
-        {
-          "name": "WAALAAXXX",
-          "url": "https://open.spotify.com/artist/7wc6nhyFtZS1Lw4dS1LwnQ"
-        }
-      ],
-      "duration_ms": 430819,
-      "name": "NA NA NA",
-      "url": "https://open.spotify.com/track/7xMyPCsSnWJqsgjhgLy0dz"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "I WON'T STAY",
-        "url": "https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 286423,
-      "name": "I WON'T STAY",
-      "url": "https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/1sJDL3FIePJVTbHo2ffJ17"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 238095,
       "name": "Outside",
       "url": "https://open.spotify.com/track/3UaFSJ0Oycs0SVSEWgfGqO"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
+        "name": "I WON'T STAY",
+        "url": "https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 286423,
+      "name": "I WON'T STAY",
+      "url": "https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "NOSTALGIA*",
+        "url": "https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl"
+      },
+      "artists": [
+        {
+          "name": "MATVE\u00cf",
+          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "NOSTALGIA*",
+      "url": "https://open.spotify.com/track/4AFWYfIxLAiEL3G3KwEhQR"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "Be Here and Now",
         "url": "https://open.spotify.com/album/3pcwig8qvCceUoeo4xhLD7"
       },
@@ -959,18 +975,18 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "NOSTALGIA*",
-        "url": "https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl"
+        "name": "Sign of the Times",
+        "url": "https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB"
       },
       "artists": [
         {
-          "name": "MATVE\u00cf",
-          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 145000,
-      "name": "NOSTALGIA*",
-      "url": "https://open.spotify.com/track/4AFWYfIxLAiEL3G3KwEhQR"
+      "duration_ms": 193403,
+      "name": "Sign of the Times",
+      "url": "https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -991,22 +1007,6 @@
       "duration_ms": 316721,
       "name": "Estaci\u00f3n Esperanza",
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
-        "name": "Sign of the Times",
-        "url": "https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 193403,
-      "name": "Sign of the Times",
-      "url": "https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1115,6 +1115,30 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "Voices Above",
+        "url": "https://open.spotify.com/album/4U7wCpJuheM9IlV53aBLuJ"
+      },
+      "artists": [
+        {
+          "name": "Archila",
+          "url": "https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        }
+      ],
+      "duration_ms": 190942,
+      "name": "Voices Above",
+      "url": "https://open.spotify.com/track/6ME9tv8WUbvUs7be9nt48J"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "Lay It All On Me",
         "url": "https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37"
       },
@@ -1147,30 +1171,6 @@
       "duration_ms": 196451,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/2af85ilHz1R6Cuo4JzqpIR"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
-        "name": "Voices Above",
-        "url": "https://open.spotify.com/album/4U7wCpJuheM9IlV53aBLuJ"
-      },
-      "artists": [
-        {
-          "name": "Archila",
-          "url": "https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh"
-        },
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Mal\u00f3ne",
-          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
-        }
-      ],
-      "duration_ms": 190942,
-      "name": "Voices Above",
-      "url": "https://open.spotify.com/track/6ME9tv8WUbvUs7be9nt48J"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1347,30 +1347,6 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "Howl (Logic1000 Remix)",
-        "url": "https://open.spotify.com/album/6HbMk0eBtEDGFMMlkpV5gq"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        },
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        }
-      ],
-      "duration_ms": 289156,
-      "name": "Howl - Logic1000 Remix",
-      "url": "https://open.spotify.com/track/4ZS3lUdUGn5NFaw5FwWIgB"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
         "name": "To Be Written",
         "url": "https://open.spotify.com/album/75NlKx9OHVKAVa0oFZV0D2"
       },
@@ -1395,18 +1371,26 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "Better In The Dark",
-        "url": "https://open.spotify.com/album/5MkPjNJCfBw0UibTBk9aax"
+        "name": "Howl (Logic1000 Remix)",
+        "url": "https://open.spotify.com/album/6HbMk0eBtEDGFMMlkpV5gq"
       },
       "artists": [
         {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        },
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
         }
       ],
-      "duration_ms": 352054,
-      "name": "Better In The Dark",
-      "url": "https://open.spotify.com/track/16UraNXA43rxM6EihGAl9r"
+      "duration_ms": 289156,
+      "name": "Howl - Logic1000 Remix",
+      "url": "https://open.spotify.com/track/4ZS3lUdUGn5NFaw5FwWIgB"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1435,6 +1419,22 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "Better In The Dark",
+        "url": "https://open.spotify.com/album/5MkPjNJCfBw0UibTBk9aax"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 352054,
+      "name": "Better In The Dark",
+      "url": "https://open.spotify.com/track/16UraNXA43rxM6EihGAl9r"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "Love And Hate",
         "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
       },
@@ -1447,22 +1447,6 @@
       "duration_ms": 267004,
       "name": "Love And Hate",
       "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
-        "name": "Aperol Spiritz",
-        "url": "https://open.spotify.com/album/2U4jv3hgtuYc95dCjjsTs2"
-      },
-      "artists": [
-        {
-          "name": "Luuk Van Dijk",
-          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
-        }
-      ],
-      "duration_ms": 315200,
-      "name": "Aperol Spiritz",
-      "url": "https://open.spotify.com/track/7LHJGgiSJEsa1uaYqubGde"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1483,6 +1467,22 @@
       "duration_ms": 383250,
       "name": "Teleport - Future Mix",
       "url": "https://open.spotify.com/track/70Oo2oO6UkIjkh6oy3SXDM"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
+        "name": "Aperol Spiritz",
+        "url": "https://open.spotify.com/album/2U4jv3hgtuYc95dCjjsTs2"
+      },
+      "artists": [
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t"
+        }
+      ],
+      "duration_ms": 315200,
+      "name": "Aperol Spiritz",
+      "url": "https://open.spotify.com/track/7LHJGgiSJEsa1uaYqubGde"
     },
     {
       "added_at": "2023-11-14 11:01:57",

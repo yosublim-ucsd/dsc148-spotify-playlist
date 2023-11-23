@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 305465,
+  "num_followers": 305573,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDk5NmYxMjQ5NGNiZWJlMTQ4YjYxMWEyN2YwYmQ5NDE0YzI4YjI5",
+  "snapshot_id": "MCxmOTZiYTFhMzY5YTc1M2E5NWMwZDVkMjlmZGI5YWY3Zjg0ODIzNGM1",
   "tracks": [
     {
       "added_at": "2023-11-14 16:28:50",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-11-14 16:28:50",
       "album": {
-        "name": "Candyass",
-        "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
-      },
-      "artists": [
-        {
-          "name": "Orgy",
-          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Blue Monday",
-      "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
-    },
-    {
-      "added_at": "2023-11-14 16:28:50",
-      "album": {
         "name": "Victorious",
         "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 244538,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7"
+    },
+    {
+      "added_at": "2023-11-14 16:28:50",
+      "album": {
+        "name": "Candyass",
+        "url": "https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A"
+      },
+      "artists": [
+        {
+          "name": "Orgy",
+          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Blue Monday",
+      "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
     },
     {
       "added_at": "2023-11-14 16:28:50",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-11-14 16:28:50",
       "album": {
-        "name": "The Crow Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
-      },
-      "artists": [
-        {
-          "name": "My Life With The Thrill Kill Kult",
-          "url": "https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD"
-        }
-      ],
-      "duration_ms": 179733,
-      "name": "After the Flesh",
-      "url": "https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK"
-    },
-    {
-      "added_at": "2023-11-14 16:28:50",
-      "album": {
         "name": "Global Warning",
         "url": "https://open.spotify.com/album/3DdWOQOpbWHrWKonpcbcUN"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 251200,
       "name": "Naitu",
       "url": "https://open.spotify.com/track/3bPM4JJvL7VwcnMh9Yl2Oz"
+    },
+    {
+      "added_at": "2023-11-14 16:28:50",
+      "album": {
+        "name": "The Crow Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
+      },
+      "artists": [
+        {
+          "name": "My Life With The Thrill Kill Kult",
+          "url": "https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD"
+        }
+      ],
+      "duration_ms": 179733,
+      "name": "After the Flesh",
+      "url": "https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK"
     },
     {
       "added_at": "2023-11-14 16:28:50",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-11-14 16:28:50",
       "album": {
-        "name": "Obliteration",
-        "url": "https://open.spotify.com/album/4Zcp0AbVFKRBbBQSC3zUNe"
-      },
-      "artists": [
-        {
-          "name": "Filter",
-          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
-        }
-      ],
-      "duration_ms": 217071,
-      "name": "Obliteration",
-      "url": "https://open.spotify.com/track/4JSHiFEX1B19USiqbiW9pw"
-    },
-    {
-      "added_at": "2023-11-14 16:28:50",
-      "album": {
         "name": "Terapunk",
         "url": "https://open.spotify.com/album/6YJolVxpGYWLOmjQ3e4Ma5"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 243400,
       "name": "End Of The Line",
       "url": "https://open.spotify.com/track/25gdaVFJL17lx7sysc8Pul"
+    },
+    {
+      "added_at": "2023-11-14 16:28:50",
+      "album": {
+        "name": "Obliteration",
+        "url": "https://open.spotify.com/album/4Zcp0AbVFKRBbBQSC3zUNe"
+      },
+      "artists": [
+        {
+          "name": "Filter",
+          "url": "https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C"
+        }
+      ],
+      "duration_ms": 217071,
+      "name": "Obliteration",
+      "url": "https://open.spotify.com/track/4JSHiFEX1B19USiqbiW9pw"
     },
     {
       "added_at": "2023-11-14 16:28:50",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-11-14 16:28:50",
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN"
+      },
+      "artists": [
+        {
+          "name": "Prick",
+          "url": "https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz"
+        }
+      ],
+      "duration_ms": 255111,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH"
+    },
+    {
+      "added_at": "2023-11-14 16:28:50",
+      "album": {
         "name": "Digital Gods",
         "url": "https://open.spotify.com/album/2dhSJeHtfSCcpEwyQCikfc"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 203636,
       "name": "Black Lipstick",
       "url": "https://open.spotify.com/track/0jXfVK691dITawcnze17h2"
-    },
-    {
-      "added_at": "2023-11-14 16:28:50",
-      "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/5PQYQdOU14ivWxFlBrh5PN"
-      },
-      "artists": [
-        {
-          "name": "Prick",
-          "url": "https://open.spotify.com/artist/4hILJw5uchW1ZZJO10icIz"
-        }
-      ],
-      "duration_ms": 255111,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0ppkIgN7FXvAtHD95pMvRH"
     },
     {
       "added_at": "2023-11-14 16:28:50",

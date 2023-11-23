@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats love stories have the best beginnings",
-  "num_followers": 22618,
+  "num_followers": 22715,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWVhNmUzYzYxN2U5YjY2NmE3N2M2ZjQ5NDJiMDg4MjY3M2Y2YTJl",
+  "snapshot_id": "MCwwM2JmNmMxOTRhYzQ0ZjI3NzUyYzZlNTA3ODlkNmY5MmQxMWU3OWY3",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "RAVAGE",
-        "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 185500,
-      "name": "Don't Leave",
-      "url": "https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Love Don't Cost A Dime (Re-Up)",
         "url": "https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 147600,
       "name": "Love Don't Cost A Dime (Re-Up)",
       "url": "https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "RAVAGE",
+        "url": "https://open.spotify.com/album/53oOgXjjaTx42Sy2exYlH9"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 185500,
+      "name": "Don't Leave",
+      "url": "https://open.spotify.com/track/19fCpJYZVtBKyOtIvEnDv0"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 175254,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "What's Poppin",
         "url": "https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 195426,
       "name": "What's Poppin",
       "url": "https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 175254,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1227,22 +1227,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "PARIWO",
-        "url": "https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8"
+        "name": "Single Again (feat. Ruger) [Remix]",
+        "url": "https://open.spotify.com/album/0xsygiGSVxNtNnz06K173w"
       },
       "artists": [
         {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
         },
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 120439,
-      "name": "PARIWO",
-      "url": "https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9"
+      "duration_ms": 236181,
+      "name": "Single Again (feat. Ruger) - Remix",
+      "url": "https://open.spotify.com/track/463mgOOvzTeyL2u2cmqKIE"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1263,22 +1263,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Single Again (feat. Ruger) [Remix]",
-        "url": "https://open.spotify.com/album/0xsygiGSVxNtNnz06K173w"
+        "name": "PARIWO",
+        "url": "https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8"
       },
       "artists": [
         {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
         },
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 236181,
-      "name": "Single Again (feat. Ruger) - Remix",
-      "url": "https://open.spotify.com/track/463mgOOvzTeyL2u2cmqKIE"
+      "duration_ms": 120439,
+      "name": "PARIWO",
+      "url": "https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9"
     },
     {
       "added_at": "2023-11-17 00:01:00",

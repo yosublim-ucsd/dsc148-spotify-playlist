@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock for a nice and easy drive.",
-  "num_followers": 242503,
+  "num_followers": 242571,
   "original_name": "Soft Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjBmNGVhY2U0NzQ5MTQxODlhY2JhNjMyNDMxMDg5MjI3YjJmMzc1",
+  "snapshot_id": "MCxkNzFiNDgzY2MzYjU2M2VhOGI5NjJlM2FiNzRhYTQ1ZGY0ZmQyYmQw",
   "tracks": [
     {
       "added_at": "2020-01-07 15:31:11",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Can't Buy A Thrill",
-        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 357041,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "On the Waters",
         "url": "https://open.spotify.com/album/2eTrV6WUTJtKFzg5iznPJ7"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 192200,
       "name": "Make It with You",
       "url": "https://open.spotify.com/track/7wWw7hBmErNg9u5w6Xx0vy"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 357041,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -267,22 +267,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Sleeper Catcher (Remastered 2022)",
-        "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
-      },
-      "artists": [
-        {
-          "name": "Little River Band",
-          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
-        }
-      ],
-      "duration_ms": 257868,
-      "name": "Reminiscing - Remastered 2010",
-      "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Lost in Love",
         "url": "https://open.spotify.com/album/3fB2z5YtmKvSCu77Z3nTnW"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 233866,
       "name": "Lost In Love",
       "url": "https://open.spotify.com/track/6MfVSA5iKBPHzo6RGARjL0"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Sleeper Catcher (Remastered 2022)",
+        "url": "https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ"
+      },
+      "artists": [
+        {
+          "name": "Little River Band",
+          "url": "https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg"
+        }
+      ],
+      "duration_ms": 257868,
+      "name": "Reminiscing - Remastered 2010",
+      "url": "https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -651,6 +651,22 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
+        "name": "Back to Front (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6LoUAyxzjVgwIIYBZOM6xQ"
+      },
+      "artists": [
+        {
+          "name": "Gilbert O'Sullivan",
+          "url": "https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "Alone Again (Naturally)",
+      "url": "https://open.spotify.com/track/54pvEYFocTlvIAQOfXSjqV"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
         "name": "A Rock And Roll Alternative",
         "url": "https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 181226,
       "name": "Promises",
       "url": "https://open.spotify.com/track/1oar8gdDX5yHWzVstAHDav"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
-        "name": "Back to Front (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6LoUAyxzjVgwIIYBZOM6xQ"
-      },
-      "artists": [
-        {
-          "name": "Gilbert O'Sullivan",
-          "url": "https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "Alone Again (Naturally)",
-      "url": "https://open.spotify.com/track/54pvEYFocTlvIAQOfXSjqV"
     },
     {
       "added_at": "2020-01-07 15:31:11",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2020-01-07 15:31:11",
       "album": {
-        "name": "Chicago IX: Chicago's Greatest Hits",
-        "url": "https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 235800,
-      "name": "Saturday in the Park",
-      "url": "https://open.spotify.com/track/6suCI1pLqqvVVLLvLzjoKc"
-    },
-    {
-      "added_at": "2020-01-07 15:31:11",
-      "album": {
         "name": "Careless",
         "url": "https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 192973,
       "name": "Save It For A Rainy Day",
       "url": "https://open.spotify.com/track/5AHjRKFCVUaRClF2Oxx8Ld"
+    },
+    {
+      "added_at": "2020-01-07 15:31:11",
+      "album": {
+        "name": "Chicago IX: Chicago's Greatest Hits",
+        "url": "https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 235800,
+      "name": "Saturday in the Park",
+      "url": "https://open.spotify.com/track/6suCI1pLqqvVVLLvLzjoKc"
     },
     {
       "added_at": "2020-01-07 15:31:11",

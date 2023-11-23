@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-60 songs - 3 hr 29 min
+61 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Bantu Baby, Bantu Maybe \- Remix](https://open.spotify.com/track/1bM4MsGlanDmDn7DtkUS5P) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY), [Elza Tsaiger](https://open.spotify.com/artist/6peIB4PwYFH1cLNVOTUrE7), [African Vic](https://open.spotify.com/artist/1yLy1xaquU2qxuFpQBZm2B) | [See Me\. Si Me\. Reimagined](https://open.spotify.com/album/1YOIMfZ2tKd0p18XUnSIR1) | 3:24 | 2023-09-01 | 2023-11-11 |
 | [Caught Out](https://open.spotify.com/track/3RwL3Dm5AbICvYXSAGFuu0) | [Athieno](https://open.spotify.com/artist/2Mkt9y1gnzybZCa5R8CNBr) | [Caught Out](https://open.spotify.com/album/51AuQNCfV9SKNR3ivka3wE) | 3:52 | 2023-06-30 |  |
 | [Chasing Love](https://open.spotify.com/track/0UvDsFVi25ulx7UsoboyLZ) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nawekulo](https://open.spotify.com/artist/65e3J8lxvSLAQ3RJ5RGjes) | [Chasing Love](https://open.spotify.com/album/4kCSRS7Tr6RMq67l3icaTd) | 3:20 | 2023-06-30 |  |
-| [Cut Me Down](https://open.spotify.com/track/6g33SNfqUoIcxnNpGfzWak) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/1f0MuY3kBgS1QmAIaRu3kj) | 4:57 | 2023-06-30 |  |
+| [Cut Me Down](https://open.spotify.com/track/6g33SNfqUoIcxnNpGfzWak) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/1f0MuY3kBgS1QmAIaRu3kj) | 4:57 | 2023-06-30 | 2023-11-23 |
+| [Cut Me Down](https://open.spotify.com/track/7xoO1pGXQrZ0huDZdsh59F) | [Njerae](https://open.spotify.com/artist/3ZYEtzcOgxeYX1DdaAYjuO) | [Unintentional](https://open.spotify.com/album/02Gdfad4w6K6LVJQKU8mwO) | 4:57 | 2023-11-10 |  |
 | [Dream Awake](https://open.spotify.com/track/7M5R2ZlSmpqDsCJfulhN6Z) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Sun & Moon](https://open.spotify.com/album/6f22BsAjuWxAKdEbJCuQ6X) | 4:28 | 2023-06-30 |  |
 | [Enemy](https://open.spotify.com/track/6F5eJTix3ms5lvH71omyS3) | [TornPockets](https://open.spotify.com/artist/6pUEc7BVEFA6b6hUw4RMxA), [ach13ng'](https://open.spotify.com/artist/7nXNiHraAkhLlIMCFaBGc0) | [Enemy](https://open.spotify.com/album/2RgIw1IxjLtEn4U9YGoSNF) | 3:31 | 2023-06-30 |  |
 | [Faith](https://open.spotify.com/track/7412Sp0DWo9Sc70hidP1jw) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Few & Far Between](https://open.spotify.com/album/0Jiq0Tpj8SN3rsMhe52RKp) | 3:33 | 2023-11-10 |  |

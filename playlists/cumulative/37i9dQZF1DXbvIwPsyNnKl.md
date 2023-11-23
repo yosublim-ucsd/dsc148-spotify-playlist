@@ -4,15 +4,16 @@
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Gloc\-9, Hero, Ramdiss
 
-78 songs - 4 hr 22 min
+79 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [3 AM](https://open.spotify.com/track/7CrpqsFrk3PdqMFSW7nlDV) | [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76) | [3 AM](https://open.spotify.com/album/4c1eaKMLG6YMdQ8f08tXgY) | 2:56 | 2023-09-20 |  |
+| [3 AM](https://open.spotify.com/track/7CrpqsFrk3PdqMFSW7nlDV) | [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76) | [3 AM](https://open.spotify.com/album/4c1eaKMLG6YMdQ8f08tXgY) | 2:56 | 2023-09-20 | 2023-11-23 |
 | [4:AM](https://open.spotify.com/track/4OaVpRQJWIgMTecpLSmhnn) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [4:AM](https://open.spotify.com/album/2KbChrlOoIu1vhxwCiNpXo) | 3:48 | 2023-09-20 |  |
 | [4u](https://open.spotify.com/track/5KzreODVITXVze4HkoMhhZ) | [RB Slatt](https://open.spotify.com/artist/1mp3obA5hrR8GjHx95Wlrk) | [4u](https://open.spotify.com/album/0RkWVWCivVaatlwqwErefx) | 3:38 | 2023-10-18 |  |
 | [ALABAMBANG](https://open.spotify.com/track/5kKjzkcKdk7yPHc39b95Ue) | [Paul Cassimir](https://open.spotify.com/artist/6Q6o0QNejNJNu2O86CJVHQ), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [ALABAMBANG](https://open.spotify.com/album/5Wlq2jyxmMzh0RceGkqmTb) | 3:25 | 2023-09-20 | 2023-11-02 |
 | [Alam Mo Ba Girl](https://open.spotify.com/track/57Z7lSnhwx82laEb6rdZPB) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Kung Alam Mo Lang](https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa) | 3:43 | 2023-11-08 |  |
+| [Amboy Shit \- Remix](https://open.spotify.com/track/4VcZYr4uByjtmwAsoIypBs) | [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T), [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [Amboy Shit \(Remix\)](https://open.spotify.com/album/298TlujqrKvwxUrfoGwKJj) | 2:48 | 2023-11-22 |  |
 | [Aminin](https://open.spotify.com/track/58Y3alAZ4Z2zJGFJiyT9CX) | [Pricetagg](https://open.spotify.com/artist/1UvsiRB2EarPibq6XRl9Sv), [Zae](https://open.spotify.com/artist/4Flrlc0Sf1QaWLbDLdvU3L) | [Aminin](https://open.spotify.com/album/1nxQSlG58nXJJextcAoTzy) | 3:37 | 2023-09-20 |  |
 | [Anytime](https://open.spotify.com/track/0GiqrzfvBVHmkyJEWP4kcx) | [Lipip](https://open.spotify.com/artist/4NslYs4dIwJjyAmfak2Yc2), [Asiong De Luna](https://open.spotify.com/artist/4fhejfeRXmlwh5ozRvrltW), [esseca](https://open.spotify.com/artist/4G6h14o5YEgdmiwd10cemr) | [Anytime](https://open.spotify.com/album/73d8pQZqyvAkvYNiq1eCqN) | 4:19 | 2023-09-20 |  |
 | [ARÁL](https://open.spotify.com/track/0b58IHPRtTbBv48sOwc6Vr) | [Loonie](https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc), [Apekz](https://open.spotify.com/artist/76xGhfBlYK3ZLMwkGxOuQn), [Ron Henley](https://open.spotify.com/artist/6eGQ0qPUlGBjmRgyQ84g3f), [Abra](https://open.spotify.com/artist/0e7I5fhtxrhsH8xrjGGDiv) | [ARÁL](https://open.spotify.com/album/2otfhblFnjovKbuiZSYbHF) | 3:40 | 2023-10-04 | 2023-11-11 |

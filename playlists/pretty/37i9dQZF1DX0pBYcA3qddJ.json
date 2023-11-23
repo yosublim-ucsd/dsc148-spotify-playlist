@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 50690,
+  "num_followers": 50869,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWQ4NjBhODdjMWMzZmE3MDg0NWNlYWY3N2Q1YzU1NjJmODI0MjI0",
+  "snapshot_id": "MCw1NDQ2NDU3MWM5Y2IwZWNkYmM1NGEwMzhiYmVjZGY0ZDQ5ODdlMDg4",
   "tracks": [
     {
       "added_at": "2023-11-21 22:52:38",
@@ -491,22 +491,18 @@
     {
       "added_at": "2023-11-21 22:52:38",
       "album": {
-        "name": "Little Blue (feat. Brandi Carlile)",
-        "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
+        "name": "Wall Of Eyes",
+        "url": "https://open.spotify.com/album/200fExjblMBQHdfptuDUra"
       },
       "artists": [
         {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
         }
       ],
-      "duration_ms": 265306,
-      "name": "Little Blue (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
+      "duration_ms": 305946,
+      "name": "Wall Of Eyes",
+      "url": "https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J"
     },
     {
       "added_at": "2023-11-21 22:52:38",
@@ -531,18 +527,22 @@
     {
       "added_at": "2023-11-21 22:52:38",
       "album": {
-        "name": "Wall Of Eyes",
-        "url": "https://open.spotify.com/album/200fExjblMBQHdfptuDUra"
+        "name": "Little Blue (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
       },
       "artists": [
         {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 305946,
-      "name": "Wall Of Eyes",
-      "url": "https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J"
+      "duration_ms": 265306,
+      "name": "Little Blue (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
     },
     {
       "added_at": "2023-11-21 22:52:38",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2023-11-21 22:52:38",
       "album": {
-        "name": "Blue Stone of Atlas (Piano Solo Version)",
-        "url": "https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3"
+        "name": "Lanterns",
+        "url": "https://open.spotify.com/album/74fknK9KmdcRzazEqMAGp3"
       },
       "artists": [
         {
-          "name": "Hikaru Shirosu",
-          "url": "https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a"
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Blue Stone of Atlas - Piano Solo Version",
-      "url": "https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF"
+      "duration_ms": 184773,
+      "name": "The Longest Goodbye",
+      "url": "https://open.spotify.com/track/0W0USnsioLvTw6DcmoZyea"
     },
     {
       "added_at": "2023-11-21 22:52:38",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2023-11-21 22:52:38",
       "album": {
-        "name": "Lanterns",
-        "url": "https://open.spotify.com/album/74fknK9KmdcRzazEqMAGp3"
+        "name": "Blue Stone of Atlas (Piano Solo Version)",
+        "url": "https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3"
       },
       "artists": [
         {
-          "name": "Rosie Darling",
-          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+          "name": "Hikaru Shirosu",
+          "url": "https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a"
         }
       ],
-      "duration_ms": 184773,
-      "name": "The Longest Goodbye",
-      "url": "https://open.spotify.com/track/0W0USnsioLvTw6DcmoZyea"
+      "duration_ms": 158000,
+      "name": "Blue Stone of Atlas - Piano Solo Version",
+      "url": "https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF"
     },
     {
       "added_at": "2023-11-21 22:52:38",

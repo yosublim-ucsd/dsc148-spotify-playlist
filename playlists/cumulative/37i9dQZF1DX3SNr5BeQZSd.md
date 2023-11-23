@@ -4,7 +4,7 @@
 
 > Trending lofi beats from across the World Wide Web.
 
-494 songs - 17 hr 40 min
+495 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,7 +399,8 @@
 | [Snowflakes](https://open.spotify.com/track/5K3jDO95bhQuIIjF5Zcuqb) | [E I S U](https://open.spotify.com/artist/3XUMv4qB3v7QXUgAx08OGu), [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Lazy Sunday](https://open.spotify.com/album/4OVaPCoLOF9nLhXfvA3D8g) | 2:06 | 2023-09-08 |  |
 | [Snowman](https://open.spotify.com/track/3LcKimBaYnx7XEIM89nAfB) | [Lofi Girl](https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN), [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [Snowman](https://open.spotify.com/album/3iyRG8ivPnrOx65kmrFZZI) | 3:15 | 2023-11-16 | 2023-11-21 |
 | [Snowman](https://open.spotify.com/track/2Cd1uLyjCQXAdpG1oHLjfY) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [1 Am\. Study Session](https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C) | 3:15 | 2023-09-08 | 2023-09-17 |
-| [Snowman](https://open.spotify.com/track/5oKzIi5OFGRD8f2oGaHLtj) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [1 Am\. Study Session](https://open.spotify.com/album/6a1N8QyPPdXy1cmicmWktX) | 3:15 | 2023-09-08 |  |
+| [Snowman](https://open.spotify.com/track/5oKzIi5OFGRD8f2oGaHLtj) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f) | [1 Am\. Study Session](https://open.spotify.com/album/6a1N8QyPPdXy1cmicmWktX) | 3:15 | 2023-09-08 | 2023-11-23 |
+| [Snowman](https://open.spotify.com/track/0K9g7Spk2zY40WkJRd7Ora) | [WYS](https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f), [Lofi Girl](https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN) | [Snowman](https://open.spotify.com/album/6BonnucWfOnY0JBzdljiwh) | 3:15 | 2023-11-16 |  |
 | [solitude](https://open.spotify.com/track/6p2JZmB8hTVktn4QDjKIT9) | [majic](https://open.spotify.com/artist/5sNthmyXtGakNigg1xxlMS) | [solitude](https://open.spotify.com/album/0039cgUzchjfsqy2GoPXsk) | 1:36 | 2023-09-08 |  |
 | [Sorry](https://open.spotify.com/track/2RdfSFMfi7ZSYwxmGAMfjH) | [eiji](https://open.spotify.com/artist/1wzqhHInXSYezJHke90Jeo) | [Calling My Phone](https://open.spotify.com/album/37r40oMXd3eXLT6XNh9b7Z) | 1:54 | 2023-09-08 |  |
 | [Sorry, I Like You](https://open.spotify.com/track/34MqDD3411uJQvXsqpZv3D) | [Burbank](https://open.spotify.com/artist/4iHB5bp1wwN5qTbVPaBykO) | [Sorry, I Like You](https://open.spotify.com/album/7EZ0zxMKXkJZGZBESFJZGA) | 2:02 | 2022-09-09 | 2023-09-09 |

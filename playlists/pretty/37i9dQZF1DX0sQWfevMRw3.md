@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DEN ENDA PROMENADEN SOM JAG TAR DEN ÄR TILL BAREN!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,214 likes - 100 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,279 likes - 100 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [DOMINO](https://open.spotify.com/track/0afbMSmL4iLcrBukHIEPTS) | [LBSB](https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0) | [DOMINO](https://open.spotify.com/album/0EMP9W1YZPOwEKeXM1hLi4) | 2:43 |
 | 100 | [Kan Inte Gå](https://open.spotify.com/track/6KOzO2mUwSwe8a9GiJAn7X) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Kan Inte Gå](https://open.spotify.com/album/1rOwYVdRnJW8rHhEkG6zfC) | 2:26 |
 
-Snapshot ID: `MCwyMDM3NDkyM2FjNGM1Nzk4OTk0NDI0M2FhYjdiMjhkNDE3NjU5OTM4`
+Snapshot ID: `MCxhMGE2NjlmNzI2ODEwMTNhZDBiYjcwNzEyZGY4ZjcwYmNkZTg4NzE5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 
 > Our editors’ picks for the best of R&B in Canada in 2022\. Cover: dvsn \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,127 likes - 74 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,140 likes - 74 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 | 28 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 |
 | 29 | [Can't Anymore](https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [ALPHA](https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq) | 2:35 |
 | 30 | [Entice Me](https://open.spotify.com/track/1vnRt6CigEJlA8W7weKTvI) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [PALISADE](https://open.spotify.com/album/7u21OnTH4Ve4lOD1qwwe8r) | 2:36 |
-| 31 | [Nothing Even Matters](https://open.spotify.com/track/1pJsmr01tzKnFfjeCvzcdc) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Nothing Even Matters](https://open.spotify.com/album/6r5e7Kryn9PUFiwofr19K0) | 3:39 |
+| 31 | [Nothing Even Matters](https://open.spotify.com/track/6J0UG6nhMQUDV3h0Tnds5k) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Nothing Even Matters](https://open.spotify.com/album/6SkRYiDjvd9qqQZKIPUj8J) | 3:39 |
 | 32 | [Spin the Block](https://open.spotify.com/track/2TSG42QFc7S36Mtya4RjV1) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST](https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl) | 3:49 |
 | 33 | [Immature](https://open.spotify.com/track/6pCM4QZOv17vjMAMRPrG5v) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/4r7OqXkih4qYvozSZEGYyG) | 2:53 |
 | 34 | [Best Friends \- Remix](https://open.spotify.com/track/0ubOHILtEFcusJK7xzxuKm) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Dawn FM \(Alternate World\)](https://open.spotify.com/album/4ixmmZ1fUOvfZtVtsigbaQ) | 2:55 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZbHJkHSDOTR.md) - [plain]
 | 73 | [See Through Love \(feat\. Chris Brown\)](https://open.spotify.com/track/0IogifAdwkriM0XAW0zESH) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [R&B MONEY](https://open.spotify.com/album/71nLT87STaJugBB3qub0Ri) | 3:50 |
 | 74 | [Why](https://open.spotify.com/track/6VqQJ70rwAKKbRZf0wJLNu) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Why](https://open.spotify.com/album/4vjUPxgv4uyeGfd1WKViP2) | 3:20 |
 
-Snapshot ID: `MCwwNTI4NzdiNGEwZWU2NGI3YTUzMTJlN2M5YTc0Y2RhNzg4NTcwZTA1`
+Snapshot ID: `MCwyMTM0NDNjYjAyOTYzNGJiZjcwZTcyYmU3NDEwYjQxMTI0MDYzMWIx`

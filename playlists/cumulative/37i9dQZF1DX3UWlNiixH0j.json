@@ -3010,7 +3010,7 @@
     {
       "album": {
         "name": "Eclipse",
-        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
+        "url": "https://open.spotify.com/album/3awnnhSoffzFbLrQs0QnKA"
       },
       "artists": [
         {
@@ -3021,6 +3021,24 @@
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 217659,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/3xUemE6fdgQKwymzvCjHJt"
+    },
+    {
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-23",
       "duration_ms": 217659,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
@@ -3890,6 +3908,24 @@
       "duration_ms": 143076,
       "name": "From The Top",
       "url": "https://open.spotify.com/track/2EZEeTAXxYhScVxtUYsw9c"
+    },
+    {
+      "album": {
+        "name": "Fukukarani",
+        "url": "https://open.spotify.com/album/23D2dt4gqy4PRY2NndpGvY"
+      },
+      "artists": [
+        {
+          "name": "\u307e\u3093\u3077\u304f",
+          "url": "https://open.spotify.com/artist/20Wm3Gk1SOfk0QQRRGECNV"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274288,
+      "name": "Fukukarani",
+      "url": "https://open.spotify.com/track/1EQ6MbZNhH11dFytFUxltF"
     },
     {
       "album": {
@@ -5538,10 +5574,32 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 259539,
       "name": "Just A Game feat. Benny Sings",
       "url": "https://open.spotify.com/track/3Hjrizdjm4Knd5KiVgKW1l"
+    },
+    {
+      "album": {
+        "name": "Just A Game feat. Benny Sings",
+        "url": "https://open.spotify.com/album/5vrhmmQ8OL0SnNtEpNb5G0"
+      },
+      "artists": [
+        {
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
+        },
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259539,
+      "name": "Just A Game feat. Benny Sings",
+      "url": "https://open.spotify.com/track/788y834RoRJUQAH2O8jq7u"
     },
     {
       "album": {
@@ -6474,7 +6532,7 @@
     {
       "album": {
         "name": "Maybe I should die with you",
-        "url": "https://open.spotify.com/album/6LblXqNqBXHUMUTLzmhX7C"
+        "url": "https://open.spotify.com/album/0FEkgIsDVj9Aeyd1iApTG3"
       },
       "artists": [
         {
@@ -6485,6 +6543,24 @@
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 335429,
+      "name": "Maybe I should die with you",
+      "url": "https://open.spotify.com/track/1SUUK6C8DAteFfcOygsdJo"
+    },
+    {
+      "album": {
+        "name": "Maybe I should die with you",
+        "url": "https://open.spotify.com/album/6LblXqNqBXHUMUTLzmhX7C"
+      },
+      "artists": [
+        {
+          "name": "HOME",
+          "url": "https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-23",
       "duration_ms": 335429,
       "name": "Maybe I should die with you",
       "url": "https://open.spotify.com/track/33W1lz1ejtTU4NOfoesFp2"
@@ -7959,6 +8035,42 @@
     },
     {
       "album": {
+        "name": "peanut butters II",
+        "url": "https://open.spotify.com/album/32Y4rnV7l6GCXUy005ox3p"
+      },
+      "artists": [
+        {
+          "name": "peanut butters",
+          "url": "https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167522,
+      "name": "Peanut butter 2023 GIGA MAX",
+      "url": "https://open.spotify.com/track/0r2abRSwPrVaYtiX5SeAt8"
+    },
+    {
+      "album": {
+        "name": "Pearl (Organic)",
+        "url": "https://open.spotify.com/album/5bd05vGM75xHxCNFDKrx1P"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u6771\u4eac",
+          "url": "https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175698,
+      "name": "Pearl - Organic",
+      "url": "https://open.spotify.com/track/4TNtPxLxMTFHm2Hgdiw7bO"
+    },
+    {
+      "album": {
         "name": "Pearl (Organic)",
         "url": "https://open.spotify.com/album/7bAPLsa0Nv3cjdIQhrJGNZ"
       },
@@ -7970,7 +8082,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 175698,
       "name": "Pearl - Organic",
       "url": "https://open.spotify.com/track/4VzOvKlczlUmzhfFiwP7w0"
@@ -8844,10 +8956,28 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 181000,
       "name": "Ruin Garden",
       "url": "https://open.spotify.com/track/0ges8Lc8lL7cs3TYpLnfer"
+    },
+    {
+      "album": {
+        "name": "Ruin Garden EP",
+        "url": "https://open.spotify.com/album/57a4UeoRGOuvzHHMgXS8hl"
+      },
+      "artists": [
+        {
+          "name": "STEREOGIRL",
+          "url": "https://open.spotify.com/artist/0VEN6k2yg8hCRyBHesHWSL"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Ruin Garden",
+      "url": "https://open.spotify.com/track/7mPu4eVF4rDEtVEl921h5O"
     },
     {
       "album": {
@@ -8916,7 +9046,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 403983,
       "name": "Runner's High",
       "url": "https://open.spotify.com/track/0tX5aD8AVLQSKCoEl2VCVx"
@@ -15692,7 +15822,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 274288,
       "name": "\u5439\u304f\u304b\u3089\u306b",
       "url": "https://open.spotify.com/track/42XfwSC7utfzObv92fhOml"

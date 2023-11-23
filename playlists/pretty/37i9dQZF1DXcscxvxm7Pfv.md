@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 
 > Free your mind from distraction with calming white noise.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,925 likes - 175 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,365 likes - 175 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcscxvxm7Pfv.md) - [plain]
 | 174 | [Morning Noise](https://open.spotify.com/track/5Yha53zwcxaZ6BCfIjFwnQ) | [Sleep Sound Factory](https://open.spotify.com/artist/0TNR9PuUgbrCPci3tolmNT) | [Noises At Night](https://open.spotify.com/album/5mGK1d7pOHtMaVlY2o6ngO) | 2:22 |
 | 175 | [Loud Noise Sound](https://open.spotify.com/track/3WEhUtfxXaoRrpSIZ1XzQY) | [Misa Bee](https://open.spotify.com/artist/5JSgVFubDnbqYDUWPzl4tj) | [Noise Waterfalls](https://open.spotify.com/album/7By7Jo2T4WuFDwzW7MRc02) | 2:25 |
 
-Snapshot ID: `MCxjZTk0ZDUwMzU5NWViZjdhMjc2MDJlODAzZTdhZTZiZDM3ODQ1YTRk`
+Snapshot ID: `MCwxNTE3MDczOWYxMzk5YWJlY2U5Mzc2NzdlN2IzMjIwY2E5NTE2NjEx`

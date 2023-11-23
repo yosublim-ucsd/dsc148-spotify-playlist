@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 
 > Instrumental and vocal versions of the incredible Cole Porter\. Cover: Cole Porter
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,771 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,811 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 33 | [Ace In The Hole](https://open.spotify.com/track/4zYrT1u1EtXxOmjgDi5Zad) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Cole Porter Song Book](https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM) | 1:59 |
 | 34 | [Easy To Love](https://open.spotify.com/track/67Bz7gVmb1F5xZMKhjdV6B) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Charlie Parker With Strings \(Deluxe Edition\)](https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw) | 3:32 |
 | 35 | [You're The Top](https://open.spotify.com/track/6pdbfNeGcAkMkkVClm532h) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Boy Meets Girl: Sammy Davis Jr\. And Carmen McRae On Decca](https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge) | 3:02 |
-| 36 | [Paris Loves Lovers](https://open.spotify.com/track/5jDN0wdmd3AcunXBceqmDO) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX), [Carole Richards](https://open.spotify.com/artist/05D7eSjISFRSkreseiUx5k) | [Silk Stockings \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg) | 2:43 |
-| 37 | [True Love](https://open.spotify.com/track/5oFEPYz8XBXD0hfe5ZuCIy) | [Jan Lundgren Trio](https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy) | [Plays Cole Porter Love Songs](https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q) | 3:23 |
+| 36 | [True Love](https://open.spotify.com/track/5oFEPYz8XBXD0hfe5ZuCIy) | [Jan Lundgren Trio](https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy) | [Plays Cole Porter Love Songs](https://open.spotify.com/album/2eGafFrY8qL3HtTmqQ4n9Q) | 3:23 |
+| 37 | [Paris Loves Lovers](https://open.spotify.com/track/5jDN0wdmd3AcunXBceqmDO) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX), [Carole Richards](https://open.spotify.com/artist/05D7eSjISFRSkreseiUx5k) | [Silk Stockings \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg) | 2:43 |
 | 38 | [Mind If I Make Love To You](https://open.spotify.com/track/3GD3m29NcArkb0AjtdBwM8) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Great Songs From Stage And Screen](https://open.spotify.com/album/4y6GJcsPLnYDEBtOF7sknV) | 3:41 |
 | 39 | [I Am Ashamed That Women Are so Simple](https://open.spotify.com/track/37tJzpOIs4hDV1B87UrvuQ) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 1:51 |
 | 40 | [I Love Paris](https://open.spotify.com/track/62UVjAjo8ra1PVSeHfnxk3) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Latin Kick](https://open.spotify.com/album/6XxDxfs4XBAjRv3dgOSoE2) | 5:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HwEXibv1ID.md) - [plain]
 | 74 | [Which?](https://open.spotify.com/track/315WTwPNY1X0M2gNXeUqHw) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:41 |
 | 75 | [Ours](https://open.spotify.com/track/78KdwqXUk0AuKFHDy32ABX) | [Mabel Mercer](https://open.spotify.com/artist/0mOVyYkf8fSNRKT1Olnj9K) | [Mabel Mercer Sings Cole Porter](https://open.spotify.com/album/4FGwVrifTCmycPRDnfGmLN) | 2:49 |
 
-Snapshot ID: `MCw1OTIyMGIwNGQ2YWZiZWM1YjQzYjNmYjFkODAwMDliYTk3MjY3ZTA5`
+Snapshot ID: `MCxhMGE3NjNiNjY0MDA0Y2JjYzZiMGI5YjYwMGUzNGI4ZjgwNmYwYmFl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQP3bGyOAvs.md) - [plain]
 
 > Great chilled house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,087 likes - 225 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,292 likes - 225 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQP3bGyOAvs.md) - [plain]
 | 224 | [Velvet Skies](https://open.spotify.com/track/0HBQ7cU8gPitLvHX8nQ3DH) | [VILT](https://open.spotify.com/artist/4VzZG2yIlxLmbilBTDlEb0) | [Velvet Skies](https://open.spotify.com/album/3LAJb6QHo5QkgoW0T2vJNT) | 3:05 |
 | 225 | [Growing](https://open.spotify.com/track/6rCkaw89aoGhunEMTXpSiN) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Growing](https://open.spotify.com/album/7HTo42U44LHzt3eVfKCh0w) | 2:40 |
 
-Snapshot ID: `MCxhZmU4Y2EyNWYxMDkwNTM3ZDJkMzMyOGQ2ZjY4YTEwZDU0NGM0MTNi`
+Snapshot ID: `MCxiMGZlNTEwY2E5MWExM2FjNDIzYTliYTUyYjQ5MjViODgwMjM2ZmIw`

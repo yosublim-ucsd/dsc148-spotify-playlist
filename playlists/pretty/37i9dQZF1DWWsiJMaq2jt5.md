@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:1g9e5uwqOiqTC4rZJULLO4">Kathia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,084 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,093 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 54 | [Tchórz](https://open.spotify.com/track/3IWmtaAgIywmurEdfBcMVh) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Tchórz](https://open.spotify.com/album/3rHS5Om5ZqZGpvwpQneCU2) | 2:51 |
 | 55 | [Nic nie zmieni się w ciszy](https://open.spotify.com/track/0u9DTtjM83RMOXX9B2s2Rx) | [Justyna Biedrawa](https://open.spotify.com/artist/2jonFoAFilDQI0GmJJu3qE) | [Nic nie zmieni się w ciszy](https://open.spotify.com/album/3Rie2wqsxElWuyoR0P3poQ) | 3:23 |
 
-Snapshot ID: `MCwyM2I2OWQ1YTljNzdhZDViODNjMmM0OWZlZDg5Mjg2OWRmYWRhMjNj`
+Snapshot ID: `MCw1NDc2NzVmNGY4OTA5YTNlYTA3MTEyNjM5OTA2ODA0MWI4MmVkYTgx`

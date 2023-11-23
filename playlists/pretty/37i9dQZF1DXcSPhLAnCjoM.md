@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 > Joseph Kamel au top des 50 hits de variété française du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 968,950 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 969,344 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 | 49 | [Holidays \- Ofenbach Rework](https://open.spotify.com/track/1tZQQot5H6wxWXiwsclT13) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Holidays \(Ofenbach Rework\)](https://open.spotify.com/album/3GoqRd7odk60LOJW8fvftD) | 2:26 |
 | 50 | [Sensations](https://open.spotify.com/track/1UfM6gnwpBhkzMw07kK6TP) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Plaisir Risque Dépendance](https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc) | 2:42 |
 
-Snapshot ID: `MCwyODcwZjYzMjc4Mjg3OGRjOTQ1MGEzMmIxMTk2MWU3OWQ0NGJiMGI1`
+Snapshot ID: `MCxjZmEwNTkwZWQ0MTI2ZWY2Y2Y0ZmQwMGQ1NTdiMjUzNDRhZTViMmEw`

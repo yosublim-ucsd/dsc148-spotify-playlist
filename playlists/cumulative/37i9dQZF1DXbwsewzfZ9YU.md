@@ -4,7 +4,7 @@
 
 > open the pit\. cover: Scowl
 
-166 songs - 6 hr 56 min
+167 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [The Pain of Being Awake](https://open.spotify.com/track/2PA108Ghj4ihRUzeYFbAuE) | [Gillian Carter](https://open.spotify.com/artist/4Nq1P1SOkKWDqlx2TJkUdv) | [Salvation Through Misery](https://open.spotify.com/album/3ML1vXlzmlCqEd4ZoGtYCG) | 2:22 | 2023-02-24 | 2023-08-26 |
 | [The Patriot](https://open.spotify.com/track/7ctiBYiZtdJXPN3E5wqSh1) | [Age of Apocalypse](https://open.spotify.com/artist/0vMfvtQ4YXnMFh1az1izft) | [Grim Wisdom](https://open.spotify.com/album/3URTR3FhDn9zcDyJ0M2Xv6) | 2:23 | 2023-02-24 | 2023-07-18 |
 | [The Portrait, Now Perceived](https://open.spotify.com/track/1gx45zvC0tdRawEPVIT8W7) | [Excide](https://open.spotify.com/artist/340j9YEGnVocbAAgrtiBUh) | [Deliberate Revolver](https://open.spotify.com/album/29pnd8Su99YAqNbXzk2bdg) | 3:51 | 2023-02-24 |  |
-| [The Sin of Human Frailty](https://open.spotify.com/track/5JZnn0DbRP9ZrpNfut6nCx) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [The Sin of Human Frailty](https://open.spotify.com/album/259zMZ6YBj39MehGYMR80C) | 2:11 | 2023-09-22 |  |
+| [The Sin of Human Frailty](https://open.spotify.com/track/2d1mziSU1ZqRdYdMj2Yn5o) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [The Sin of Human Frailty](https://open.spotify.com/album/6o6dgZpNASxsEcIbAGVJTq) | 2:11 | 2023-11-10 |  |
+| [The Sin of Human Frailty](https://open.spotify.com/track/5JZnn0DbRP9ZrpNfut6nCx) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [The Sin of Human Frailty](https://open.spotify.com/album/259zMZ6YBj39MehGYMR80C) | 2:11 | 2023-09-22 | 2023-11-23 |
 | [The Whole World Is Going Insane](https://open.spotify.com/track/0vg20pb8LtH1g8aqPIDK6J) | [Roughed Up](https://open.spotify.com/artist/4OhXYJWzSlb33F7UtmRTgb) | [King and Council](https://open.spotify.com/album/3skHBTTM1EPjztnxNelXCe) | 2:54 | 2023-02-24 |  |
 | [Theatre Of Cruelty](https://open.spotify.com/track/5Axsl42T0DhsvSOTKVjPf3) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [The Above](https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C) | 3:58 | 2023-09-29 |  |
 | [Theory of Mind](https://open.spotify.com/track/2Xi6LZpHWcMHIV6ISd3cHU) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Theory of Mind](https://open.spotify.com/album/7gZ9pMj6MrqrAZz4ilZ7qg) | 3:51 | 2023-05-08 | 2023-11-11 |

@@ -367,6 +367,28 @@
     },
     {
       "album": {
+        "name": "Against The Wall",
+        "url": "https://open.spotify.com/album/2xO8ur8yma45D2drHsPPR4"
+      },
+      "artists": [
+        {
+          "name": "1111",
+          "url": "https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE"
+        },
+        {
+          "name": "BIIANCO",
+          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205061,
+      "name": "Against The Wall",
+      "url": "https://open.spotify.com/track/31KsPoBWtNNUWvBreMsLZG"
+    },
+    {
+      "album": {
         "name": "Ain't Seen Nothing Yet",
         "url": "https://open.spotify.com/album/3LcVbnZA14ci52Oc7yzyQH"
       },
@@ -642,7 +664,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 172933,
       "name": "Angels In The Snow",
       "url": "https://open.spotify.com/track/5LJ9zB2g4qftILTNZeeDgA"
@@ -3912,7 +3934,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 126000,
       "name": "f0rbiidden l0ve$tory",
       "url": "https://open.spotify.com/track/4LIKefM5MAyRNuMg0fZkCo"
@@ -5014,6 +5036,24 @@
       "duration_ms": 299491,
       "name": "Good Time - Bright Light Bright Light Remix",
       "url": "https://open.spotify.com/track/4YAmOTejshVDYM2kaVJzmK"
+    },
+    {
+      "album": {
+        "name": "Goodnight Sleep Tight",
+        "url": "https://open.spotify.com/album/3e2fWiIiH5VfNy7vAYiAMp"
+      },
+      "artists": [
+        {
+          "name": "TIMMS",
+          "url": "https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149482,
+      "name": "Goodnight Sleep Tight",
+      "url": "https://open.spotify.com/track/1QbOzVxzYsqDIgFZLRSWOA"
     },
     {
       "album": {

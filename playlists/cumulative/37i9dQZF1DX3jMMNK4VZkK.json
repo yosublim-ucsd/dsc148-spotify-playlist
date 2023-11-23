@@ -680,7 +680,7 @@
       ],
       "date_added": "2020-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 158571,
       "name": "GIRLS",
       "url": "https://open.spotify.com/track/2voQ1UBNNiXTk52ZrYc48D"
@@ -702,6 +702,24 @@
       "duration_ms": 158571,
       "name": "GIRLS",
       "url": "https://open.spotify.com/track/6VmyLa0AepMixL3ur4yyU6"
+    },
+    {
+      "album": {
+        "name": "GIRLS",
+        "url": "https://open.spotify.com/album/7zbiF2kPFemm3H1vvIEMZi"
+      },
+      "artists": [
+        {
+          "name": "Rosie McClelland",
+          "url": "https://open.spotify.com/artist/5ZP6UcDgCZVaurzfVf1Vjh"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "GIRLS",
+      "url": "https://open.spotify.com/track/71SPvXAkIELx4MJBURhJXs"
     },
     {
       "album": {

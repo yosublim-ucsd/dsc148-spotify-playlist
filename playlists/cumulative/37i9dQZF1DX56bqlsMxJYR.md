@@ -4,7 +4,7 @@
 
 > Classic hits from the 50s and 60s.
 
-377 songs - 17 hr 4 min
+378 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Downtown](https://open.spotify.com/track/0hgWgToJgb7O1tT12YWRCz) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Les Plus Grands Succès De Petula Clark](https://open.spotify.com/album/4Z05J0oWrBhYR89jcDsju9) | 3:03 | 2020-12-16 | 2022-04-21 |
 | [Downtown](https://open.spotify.com/track/0mVTT4eqN3TbcieL6ShnDH) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Les Annees Petula](https://open.spotify.com/album/5JG1zi4jVUPJqYx5jkv1cR) | 3:05 | 2023-03-04 | 2023-11-04 |
 | [Downtown](https://open.spotify.com/track/0ZQ6ckgerHYM5mOUxTl99Q) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [The Ultimate Petula Clark](https://open.spotify.com/album/4pvPAWiVRHdnVXkOt49sKk) | 3:07 | 2022-03-07 | 2022-10-12 |
+| [Downtown](https://open.spotify.com/track/6S55C80YzjhSrCRRd1p80b) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [The Ultimate Petula Clark](https://open.spotify.com/album/3YQNnpZGnTAxgQ2CQ8C1l8) | 3:07 | 2023-08-03 |  |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/27hhIs2fp6w06N5zx4Eaa5) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [The Papas & The Mamas](https://open.spotify.com/album/0JJMI060q086v9ul5gHdey) | 3:14 | 2022-10-10 |  |
 | [Dream Lover](https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [The Ultimate Bobby Darin](https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8) | 2:30 | 2020-12-16 |  |
 | [Duke of Earl](https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy) | [Gene Chandler](https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW) | [The Duke Of Earl](https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl) | 2:27 | 2020-12-16 | 2022-11-13 |
@@ -226,7 +227,7 @@
 | [Only You \(And You Alone\)](https://open.spotify.com/track/0S8ibKBl3tjRmYbZhGHNhG) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters Golden Hits](https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B) | 2:36 | 2022-10-11 |  |
 | [Only You \(And You Alone\)](https://open.spotify.com/track/0S5cs4lAkx99tGjoWS4Jtk) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Magic Touch: An Anthology](https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC) | 2:36 | 2022-03-07 | 2022-10-11 |
 | [Papa's Got A Brand New Bag](https://open.spotify.com/track/6v4gV9s0pnwKbmF1yk5knO) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [20 All\-Time Greatest Hits!](https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s) | 2:05 | 2022-03-07 | 2022-04-20 |
-| [Papa's Got A Brand New Bag](https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:08 | 2023-08-03 |  |
+| [Papa's Got A Brand New Bag](https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 2:08 | 2023-08-03 | 2023-11-23 |
 | [Peggy Sue](https://open.spotify.com/track/2OARIMw1hpehr86Iwmv04c) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D), [The Crickets](https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR) | [Buddy Holly](https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP) | 2:30 | 2022-03-07 | 2022-10-11 |
 | [Peggy Sue \- Single Version](https://open.spotify.com/track/5SWqbaVQI5EgILjYVniKqe) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Greatest Hits](https://open.spotify.com/album/2DxPHmsvN4oP5PldgkbvrA) | 2:30 | 2020-12-16 | 2022-07-29 |
 | [Perhaps, Perhaps, Perhaps](https://open.spotify.com/track/0UsdtLayy7SqJ4rUsDMRk8) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [With A Smile And A Song](https://open.spotify.com/album/6Ltxm93iOwkB1rw6nBdLNS) | 2:31 | 2022-10-10 |  |

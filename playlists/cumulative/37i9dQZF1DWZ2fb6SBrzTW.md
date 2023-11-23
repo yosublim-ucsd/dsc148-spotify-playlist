@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-345 songs - 17 hr 46 min
+346 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,8 @@
 | [Emi Gan Gan](https://open.spotify.com/track/34WqWIoQyIA3hyt16vak0a) | [Meji](https://open.spotify.com/artist/3k78thgo5x5O8rr1kkPdkD), [Vader the Wildcard](https://open.spotify.com/artist/2hqg3nrEdtdSTiMMllWO2w) | [Emi Gan Gan](https://open.spotify.com/album/2A6yifMnyoRH9cbPCMyLl1) | 2:57 | 2022-02-11 | 2022-07-29 |
 | [Empini](https://open.spotify.com/track/2DAox48qc6LqTuujKSdQTf) | [Snow Deep](https://open.spotify.com/artist/31wydQx3Jc53Ql9whp9yP1), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4), [DJ THE MXO](https://open.spotify.com/artist/3PE9L43fjymtOSiKNe7zJw) | [Empini](https://open.spotify.com/album/3LwVVWkBDijiVd6CSsEvED) | 5:48 | 2022-06-16 | 2022-07-26 |
 | [Energy](https://open.spotify.com/track/44mZGWI8y8Iku5lNOPBTUr) | [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH), [Jay Teazer](https://open.spotify.com/artist/3NJtgj1RyywLt9iGtxxjsl), [Killashay](https://open.spotify.com/artist/1D77wT9J4xlUWqO7YZgB3N), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Energy](https://open.spotify.com/album/0rDA4Ouw7MWAota6SFg3C5) | 3:09 | 2022-07-14 | 2022-07-24 |
-| [Ex Convict](https://open.spotify.com/track/3Q4oVlA6z9TH0jhaDl6aNT) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/1ZNJEECHv1mt8ktam5iX6i) | 3:22 | 2023-07-14 |  |
+| [Ex Convict](https://open.spotify.com/track/3Q4oVlA6z9TH0jhaDl6aNT) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/1ZNJEECHv1mt8ktam5iX6i) | 3:22 | 2023-07-14 | 2023-11-23 |
+| [Ex Convict](https://open.spotify.com/track/5WAFaje0Cs3hHhNqjUIfY6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Ex Convict](https://open.spotify.com/album/5Y0FIl4JX5S1vvm5Kc8OHh) | 3:22 | 2023-11-17 |  |
 | [Far Away](https://open.spotify.com/track/0xHd7j5lVaKaHbOjs0EXIq) | [Dangbana Republik](https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [High Tension 2.0](https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q) | 3:19 | 2021-07-09 | 2022-08-02 |
 | [Faya](https://open.spotify.com/track/11Q7avc3GINHS2pSxso0vF) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Where We Come From, Vol\. 01](https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO) | 2:10 | 2022-12-02 | 2023-09-26 |
 | [Feel Different](https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Feel Different](https://open.spotify.com/album/3WkYJGUSNOTvGoe4YkIVjM) | 2:59 | 2023-06-09 | 2023-06-17 |

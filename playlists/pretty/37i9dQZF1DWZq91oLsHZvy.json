@@ -1,12 +1,12 @@
 {
   "description": "Let's go!",
-  "num_followers": 336096,
+  "num_followers": 336328,
   "original_name": "Indie x Running",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWJlZGM4MDcxNzIwODc5MTNlM2FlY2Y4NTY4ZDEyNzI1NWM2MGU1",
+  "snapshot_id": "MCxjYTlmN2M1NWRkZmI5M2UxMGI1MmUzMWY1ZTk0YzUzODBjMGQxNDIw",
   "tracks": [
     {
       "added_at": "2023-01-20 11:00:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "bad idea!",
-        "url": "https://open.spotify.com/album/4AEKKY9Sny3Uj6U3ELK4Sl"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 219638,
-      "name": "bad idea!",
-      "url": "https://open.spotify.com/track/57j65yC2HggQfmYNc6rdOK"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Tourist History",
         "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
       },
@@ -235,22 +219,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Hurry Up, We're Dreaming",
-        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "Midnight City",
-      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
       },
@@ -263,6 +231,22 @@
       "duration_ms": 227080,
       "name": "Breezeblocks",
       "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "Midnight City",
+      "url": "https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -315,22 +299,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Oysters In My Pocket",
-        "url": "https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 162338,
-      "name": "Oysters In My Pocket",
-      "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "i'll die anyway.",
         "url": "https://open.spotify.com/album/4Zt3XT3vADR97nZGrFoSOY"
       },
@@ -343,6 +311,22 @@
       "duration_ms": 192612,
       "name": "i'll die anyway.",
       "url": "https://open.spotify.com/track/14tud1FLjpHMYHpD2c7NbO"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Fitz and The Tantrums (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "duration_ms": 193253,
+      "name": "HandClap",
+      "url": "https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -363,18 +347,18 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Fitz and The Tantrums (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4eoIRaV8z8v2LaXQSWy2LC"
+        "name": "Oysters In My Pocket",
+        "url": "https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES"
       },
       "artists": [
         {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 193253,
-      "name": "HandClap",
-      "url": "https://open.spotify.com/track/4qRaZYiaOsSvWC7VgcxrI0"
+      "duration_ms": 162338,
+      "name": "Oysters In My Pocket",
+      "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
     },
     {
       "added_at": "2023-05-17 13:32:35",
@@ -677,22 +661,6 @@
       "url": "https://open.spotify.com/track/4yYvWFUWMaKMXtoJKJnmZk"
     },
     {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 177768,
-      "name": "Lo/Hi",
-      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
-    },
-    {
       "added_at": "2023-05-17 13:32:35",
       "album": {
         "name": "After Midnight (feat. Clairo)",
@@ -743,6 +711,22 @@
       "duration_ms": 224840,
       "name": "High And Low",
       "url": "https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 177768,
+      "name": "Lo/Hi",
+      "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -811,18 +795,18 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+        "name": "Chaise Longue",
+        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
         }
       ],
-      "duration_ms": 146596,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw"
+      "duration_ms": 196905,
+      "name": "Chaise Longue",
+      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -857,6 +841,22 @@
       "url": "https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P"
     },
     {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "We Are Only What We Feel",
+        "url": "https://open.spotify.com/album/58z2Nvab8wcQNs0n4J3GNZ"
+      },
+      "artists": [
+        {
+          "name": "NONONO",
+          "url": "https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb"
+        }
+      ],
+      "duration_ms": 209485,
+      "name": "Pumpin Blood",
+      "url": "https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM"
+    },
+    {
       "added_at": "2023-02-10 12:43:59",
       "album": {
         "name": "My Love",
@@ -875,34 +875,18 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Chaise Longue",
-        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
       "artists": [
         {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 196905,
-      "name": "Chaise Longue",
-      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
-        "name": "We Are Only What We Feel",
-        "url": "https://open.spotify.com/album/58z2Nvab8wcQNs0n4J3GNZ"
-      },
-      "artists": [
-        {
-          "name": "NONONO",
-          "url": "https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb"
-        }
-      ],
-      "duration_ms": 209485,
-      "name": "Pumpin Blood",
-      "url": "https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM"
+      "duration_ms": 146596,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1071,22 +1055,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Mondo",
-        "url": "https://open.spotify.com/album/2RAn6k3jUNl82STRz2xtL8"
-      },
-      "artists": [
-        {
-          "name": "Electric Guest",
-          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
-        }
-      ],
-      "duration_ms": 175773,
-      "name": "This Head I Hold",
-      "url": "https://open.spotify.com/track/2dA8HyqpMOXYQBMbeHUQnl"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Uncanny Valley",
         "url": "https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6"
       },
@@ -1099,6 +1067,38 @@
       "duration_ms": 184315,
       "name": "Cutie",
       "url": "https://open.spotify.com/track/555poPmhRmQWPsMDGwkifG"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Cool Like You (Deluxe)",
+        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 222488,
+      "name": "There's A Reason Why (I Never Returned Your Calls)",
+      "url": "https://open.spotify.com/track/5pVbLYTdihSKd8Kylfhwa7"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Mondo",
+        "url": "https://open.spotify.com/album/2RAn6k3jUNl82STRz2xtL8"
+      },
+      "artists": [
+        {
+          "name": "Electric Guest",
+          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+        }
+      ],
+      "duration_ms": 175773,
+      "name": "This Head I Hold",
+      "url": "https://open.spotify.com/track/2dA8HyqpMOXYQBMbeHUQnl"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Cool Like You (Deluxe)",
-        "url": "https://open.spotify.com/album/0yO5Mwu2oDdGbeRFpAaBGa"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 222488,
-      "name": "There's A Reason Why (I Never Returned Your Calls)",
-      "url": "https://open.spotify.com/track/5pVbLYTdihSKd8Kylfhwa7"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "A Deeper Understanding",
         "url": "https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF"
       },
@@ -1151,22 +1135,6 @@
       "duration_ms": 350893,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/2h5CXy8Pme1lTY3CUAEI1i"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
-        "name": "Healer",
-        "url": "https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 234386,
-      "name": "Deleter",
-      "url": "https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf"
     },
     {
       "added_at": "2023-05-16 12:08:08",
@@ -1183,6 +1151,22 @@
       "duration_ms": 190626,
       "name": "Going Kokomo",
       "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Healer",
+        "url": "https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 234386,
+      "name": "Deleter",
+      "url": "https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf"
     },
     {
       "added_at": "2023-11-09 07:04:57",
@@ -1287,26 +1271,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
-      },
-      "artists": [
-        {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
-        },
-        {
-          "name": "Sebu Simonian",
-          "url": "https://open.spotify.com/artist/2qNFFftPmkByIgN023GgLZ"
-        }
-      ],
-      "duration_ms": 202921,
-      "name": "One Minute More",
-      "url": "https://open.spotify.com/track/0NYLOvWtvJdyeceDD9R1Vw"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "1998",
         "url": "https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i"
       },
@@ -1323,6 +1287,26 @@
       "duration_ms": 224026,
       "name": "1998",
       "url": "https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        },
+        {
+          "name": "Sebu Simonian",
+          "url": "https://open.spotify.com/artist/2qNFFftPmkByIgN023GgLZ"
+        }
+      ],
+      "duration_ms": 202921,
+      "name": "One Minute More",
+      "url": "https://open.spotify.com/track/0NYLOvWtvJdyeceDD9R1Vw"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1389,22 +1373,6 @@
       "url": "https://open.spotify.com/track/3fHZJOvXmyHeFLFS1sDE30"
     },
     {
-      "added_at": "2023-05-16 12:08:08",
-      "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 216665,
-      "name": "Kool Aid",
-      "url": "https://open.spotify.com/track/2HKDVLcHYBD8asWWttLU3W"
-    },
-    {
       "added_at": "2023-01-20 11:00:00",
       "album": {
         "name": "Bankrupt!",
@@ -1421,20 +1389,20 @@
       "url": "https://open.spotify.com/track/1fyVtrPPWQ6vWnchDoJc7o"
     },
     {
-      "added_at": "2023-01-20 11:00:00",
+      "added_at": "2023-05-16 12:08:08",
       "album": {
-        "name": "Why Make Sense? (Definitive Version)",
-        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
       "artists": [
         {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 285565,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
+      "duration_ms": 216665,
+      "name": "Kool Aid",
+      "url": "https://open.spotify.com/track/2HKDVLcHYBD8asWWttLU3W"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1455,6 +1423,22 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
+        "name": "Why Make Sense? (Definitive Version)",
+        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 285565,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
         "name": "The Gods We Can Touch",
         "url": "https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX"
       },
@@ -1467,22 +1451,6 @@
       "duration_ms": 203066,
       "name": "A Temporary High",
       "url": "https://open.spotify.com/track/02SgwZdog41hbpKX9aHA0c"
-    },
-    {
-      "added_at": "2023-05-17 13:32:35",
-      "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
     },
     {
       "added_at": "2023-05-17 13:32:35",
@@ -1503,6 +1471,22 @@
       "duration_ms": 174708,
       "name": "Redlight (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/4uTNk3wbViJoxwndrE6wqj"
+    },
+    {
+      "added_at": "2023-05-17 13:32:35",
+      "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1583,6 +1567,22 @@
       "duration_ms": 193066,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/3Kh2n3zlDSGUVlDM2sjkts"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "chapter 2",
+        "url": "https://open.spotify.com/album/2PjloAS981jof5y1KEhOPb"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 219638,
+      "name": "bad idea!",
+      "url": "https://open.spotify.com/track/1HRTFytvp1Bs50ckTlL5qs"
     },
     {
       "added_at": "2023-01-20 11:00:00",

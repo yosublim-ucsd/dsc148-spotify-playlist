@@ -15496,7 +15496,7 @@
     {
       "album": {
         "name": "Boulevard",
-        "url": "https://open.spotify.com/album/1oIeOYtDg50OC7PWYKuhQs"
+        "url": "https://open.spotify.com/album/3JoxsektYkE7UQaDSqFE91"
       },
       "artists": [
         {
@@ -15511,6 +15511,28 @@
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 171985,
+      "name": "Stay (ft. Omar Noir)",
+      "url": "https://open.spotify.com/track/1yyPP0oltWpmVSUZ5gJe4R"
+    },
+    {
+      "album": {
+        "name": "Boulevard",
+        "url": "https://open.spotify.com/album/1oIeOYtDg50OC7PWYKuhQs"
+      },
+      "artists": [
+        {
+          "name": "Nova North",
+          "url": "https://open.spotify.com/artist/0m77k2AK3NjOt2nBk1n0Af"
+        },
+        {
+          "name": "Omar Noir",
+          "url": "https://open.spotify.com/artist/5paQT78PtTz59108hibz4G"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-23",
       "duration_ms": 171985,
       "name": "Stay (ft. Omar Noir)",
       "url": "https://open.spotify.com/track/3Ure17oumtGk8DeUXnjlwo"
@@ -16796,6 +16818,10 @@
         {
           "name": "H.E.R.",
           "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
       "date_added": "2023-11-16",

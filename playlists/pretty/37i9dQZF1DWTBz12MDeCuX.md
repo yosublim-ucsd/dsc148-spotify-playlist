@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: JBS, MilleniumKid
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,608 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,700 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Why Do You Hate Me](https://open.spotify.com/track/2sgbEfih4ClTQ13fo3zaOl) | [CH4YN](https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU) | [Why Do You Hate Me](https://open.spotify.com/album/2TOSa1BTQF23HlqLjOSltx) | 2:23 |
 | 100 | [Wein](https://open.spotify.com/track/1lnDtmE0sOQwTmJp0AmDnH) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [KALUMA](https://open.spotify.com/artist/4dgLZMavMm3danubiJxbtw), [Beamy](https://open.spotify.com/artist/0vmBLdFrNG2HAUT5N5oNew) | [Wein](https://open.spotify.com/album/1GVRKw1hdICjzXZzQJhLMw) | 2:25 |
 
-Snapshot ID: `MCxlNWY1OWQ4YjNmMWI5MjM1NGI1OWYyNWNiYzk5MmY2MzQzZjllNDgx`
+Snapshot ID: `MCxmZDIxODE0YjI3ZjkzNWQ1YmZlNGMzZjY5ZjAzMTA3YjdjZWFiOGVk`

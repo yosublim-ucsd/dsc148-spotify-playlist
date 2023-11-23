@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Melim",
-  "num_followers": 434452,
+  "num_followers": 434478,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTAwOTljZjBmZDYwNDA2NWExYWU3OGM4ZmUwOTNiOWY0MjgyNDYw",
+  "snapshot_id": "MCxiN2U4ZTg5YTNiZGM5OTE3Y2M3OTNlZjgzM2M3ZTlhMTAyNDIyODQz",
   "tracks": [
     {
       "added_at": "2023-11-17 13:58:53",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-11-17 13:58:53",
       "album": {
+        "name": "solo (vol. 1)",
+        "url": "https://open.spotify.com/album/0YiKGrl1G9eH44TSKqRX4q"
+      },
+      "artists": [
+        {
+          "name": "JUNIOR",
+          "url": "https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT"
+        }
+      ],
+      "duration_ms": 189250,
+      "name": "de volta pra casa",
+      "url": "https://open.spotify.com/track/7H8fF2N1CXHUSiH4BHRmRJ"
+    },
+    {
+      "added_at": "2023-11-17 13:58:53",
+      "album": {
         "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 230772,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
       "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
-    },
-    {
-      "added_at": "2023-11-17 13:58:53",
-      "album": {
-        "name": "solo (vol. 1)",
-        "url": "https://open.spotify.com/album/0YiKGrl1G9eH44TSKqRX4q"
-      },
-      "artists": [
-        {
-          "name": "Junior",
-          "url": "https://open.spotify.com/artist/0OllCB8jre2XE6LnWXQKp4"
-        }
-      ],
-      "duration_ms": 189250,
-      "name": "de volta pra casa",
-      "url": "https://open.spotify.com/track/7H8fF2N1CXHUSiH4BHRmRJ"
     },
     {
       "added_at": "2023-11-17 13:58:53",
@@ -687,6 +687,26 @@
     {
       "added_at": "2023-11-17 13:58:53",
       "album": {
+        "name": "T\u00f4 te olhando",
+        "url": "https://open.spotify.com/album/1dA5DEFhICKQiv9rwFRV7Z"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Froede",
+          "url": "https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx"
+        },
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 150306,
+      "name": "T\u00f4 te olhando",
+      "url": "https://open.spotify.com/track/7FvZAnyZVwuCU0j5ta9TNj"
+    },
+    {
+      "added_at": "2023-11-17 13:58:53",
+      "album": {
         "name": "Desconectar",
         "url": "https://open.spotify.com/album/2C5zqpWHoMAxVmZXnfLg2o"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 156000,
       "name": "Desconectar",
       "url": "https://open.spotify.com/track/5k7iqWlybTTsHlyy9FbdiA"
-    },
-    {
-      "added_at": "2023-11-17 13:58:53",
-      "album": {
-        "name": "T\u00f4 te olhando",
-        "url": "https://open.spotify.com/album/1dA5DEFhICKQiv9rwFRV7Z"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Froede",
-          "url": "https://open.spotify.com/artist/4qmLb4nnhd2KPmnUi5Xlkx"
-        },
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 150306,
-      "name": "T\u00f4 te olhando",
-      "url": "https://open.spotify.com/track/7FvZAnyZVwuCU0j5ta9TNj"
     },
     {
       "added_at": "2023-11-17 13:58:53",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-11-17 13:58:53",
       "album": {
+        "name": "Primeiro Bom Dia",
+        "url": "https://open.spotify.com/album/05x9tfi2dUqNtsOuFOToWF"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+        }
+      ],
+      "duration_ms": 133770,
+      "name": "Primeiro Bom Dia",
+      "url": "https://open.spotify.com/track/0pAfPb9PMGcLoWpsPh1wB0"
+    },
+    {
+      "added_at": "2023-11-17 13:58:53",
+      "album": {
         "name": "N\u00e3o Me Chame Mais De Ex",
         "url": "https://open.spotify.com/album/4DtJfSrX5mpAgr8pvH9VtV"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 148330,
       "name": "N\u00e3o Me Chame Mais De Ex",
       "url": "https://open.spotify.com/track/4z1PRlsNS6oO3EPefmKFzl"
-    },
-    {
-      "added_at": "2023-11-17 13:58:53",
-      "album": {
-        "name": "Primeiro Bom Dia",
-        "url": "https://open.spotify.com/album/05x9tfi2dUqNtsOuFOToWF"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Gonti",
-          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
-        }
-      ],
-      "duration_ms": 133770,
-      "name": "Primeiro Bom Dia",
-      "url": "https://open.spotify.com/track/0pAfPb9PMGcLoWpsPh1wB0"
     },
     {
       "added_at": "2023-11-17 13:58:53",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-11-17 13:58:53",
       "album": {
-        "name": "Todo Azul",
-        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
-      },
-      "artists": [
-        {
-          "name": "Capim-Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 152952,
-      "name": "Todo Azul",
-      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
-    },
-    {
-      "added_at": "2023-11-17 13:58:53",
-      "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 145131,
       "name": "O Que Eu Devia Ter Vivido",
       "url": "https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1"
+    },
+    {
+      "added_at": "2023-11-17 13:58:53",
+      "album": {
+        "name": "Todo Azul",
+        "url": "https://open.spotify.com/album/0PhIT1yRUYgCFLXAwEka7S"
+      },
+      "artists": [
+        {
+          "name": "Capim-Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 152952,
+      "name": "Todo Azul",
+      "url": "https://open.spotify.com/track/1b4pZ2Z718s9rO7uEqoVHB"
     },
     {
       "added_at": "2023-11-17 13:58:53",
@@ -1015,58 +1015,6 @@
     {
       "added_at": "2023-11-17 13:58:53",
       "album": {
-        "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg"
-      },
-      "artists": [
-        {
-          "name": "Pedro Pascual",
-          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
-        },
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 167424,
-      "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC"
-    },
-    {
-      "added_at": "2023-11-17 13:58:53",
-      "album": {
-        "name": "Vou Fugir",
-        "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Vou Fugir",
-      "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"
-    },
-    {
-      "added_at": "2023-11-17 13:58:53",
-      "album": {
-        "name": "Ideias Sobre Voc\u00ea",
-        "url": "https://open.spotify.com/album/6Qr4XXaE4RBCqxknr5XH4Y"
-      },
-      "artists": [
-        {
-          "name": "Helena Novais",
-          "url": "https://open.spotify.com/artist/4KRNAfwa80eLnH9BpswUUG"
-        }
-      ],
-      "duration_ms": 152346,
-      "name": "Incompar\u00e1vel",
-      "url": "https://open.spotify.com/track/3e0X9b18FDVcWJmXwU7fE4"
-    },
-    {
-      "added_at": "2023-11-17 13:58:53",
-      "album": {
         "name": "Renata",
         "url": "https://open.spotify.com/album/2NZvpmeIzbwYbTi0KODCYI"
       },
@@ -1087,34 +1035,22 @@
     {
       "added_at": "2023-11-17 13:58:53",
       "album": {
-        "name": "Ser Eu",
-        "url": "https://open.spotify.com/album/0RAQR6HW13BW5Q3ikBfc9M"
+        "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg"
       },
       "artists": [
         {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
-        }
-      ],
-      "duration_ms": 161828,
-      "name": "Ser Eu",
-      "url": "https://open.spotify.com/track/2ExyuObg4f2r7wTiM03rST"
-    },
-    {
-      "added_at": "2023-11-17 13:58:53",
-      "album": {
-        "name": "Sanidade Mental",
-        "url": "https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY"
-      },
-      "artists": [
+          "name": "Pedro Pascual",
+          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
+        },
         {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         }
       ],
-      "duration_ms": 119706,
-      "name": "Sanidade Mental",
-      "url": "https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj"
+      "duration_ms": 167424,
+      "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC"
     },
     {
       "added_at": "2023-11-17 13:58:53",
@@ -1135,6 +1071,70 @@
     {
       "added_at": "2023-11-17 13:58:53",
       "album": {
+        "name": "Vou Fugir",
+        "url": "https://open.spotify.com/album/7tXmK4dfYwqV6qUeRIUsuR"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Vou Fugir",
+      "url": "https://open.spotify.com/track/7nAGVYygZ9bB8jlChOoQlj"
+    },
+    {
+      "added_at": "2023-11-17 13:58:53",
+      "album": {
+        "name": "Ser Eu",
+        "url": "https://open.spotify.com/album/0RAQR6HW13BW5Q3ikBfc9M"
+      },
+      "artists": [
+        {
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
+        }
+      ],
+      "duration_ms": 161828,
+      "name": "Ser Eu",
+      "url": "https://open.spotify.com/track/2ExyuObg4f2r7wTiM03rST"
+    },
+    {
+      "added_at": "2023-11-17 13:58:53",
+      "album": {
+        "name": "Ideias Sobre Voc\u00ea",
+        "url": "https://open.spotify.com/album/6Qr4XXaE4RBCqxknr5XH4Y"
+      },
+      "artists": [
+        {
+          "name": "Helena Novais",
+          "url": "https://open.spotify.com/artist/4KRNAfwa80eLnH9BpswUUG"
+        }
+      ],
+      "duration_ms": 152346,
+      "name": "Incompar\u00e1vel",
+      "url": "https://open.spotify.com/track/3e0X9b18FDVcWJmXwU7fE4"
+    },
+    {
+      "added_at": "2023-11-17 13:58:53",
+      "album": {
+        "name": "Sanidade Mental",
+        "url": "https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY"
+      },
+      "artists": [
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        }
+      ],
+      "duration_ms": 119706,
+      "name": "Sanidade Mental",
+      "url": "https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj"
+    },
+    {
+      "added_at": "2023-11-17 13:58:53",
+      "album": {
         "name": "Melodram\u00e1tico",
         "url": "https://open.spotify.com/album/0uu6hlbdqlBp6dqTQ7TBRw"
       },
@@ -1147,6 +1147,22 @@
       "duration_ms": 146000,
       "name": "Melodram\u00e1tico",
       "url": "https://open.spotify.com/track/1fn9Ca7f5FdrZ5E6JUVh9s"
+    },
+    {
+      "added_at": "2023-11-17 13:58:53",
+      "album": {
+        "name": "Sacada",
+        "url": "https://open.spotify.com/album/5E6CAgzHkHTejiQSaQhLe7"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Sacada",
+      "url": "https://open.spotify.com/track/4e64LuNXrIJ4M788FG79kK"
     },
     {
       "added_at": "2023-11-17 13:58:53",
@@ -1183,6 +1199,38 @@
     {
       "added_at": "2023-11-17 13:58:53",
       "album": {
+        "name": "ABSORVENDO TUDO",
+        "url": "https://open.spotify.com/album/4LE3dTrNjyxSWqk7pHjFZv"
+      },
+      "artists": [
+        {
+          "name": "Cruvinel",
+          "url": "https://open.spotify.com/artist/2TUCCtskhrTEMAAGyQaBaW"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Absorvendo Tudo",
+      "url": "https://open.spotify.com/track/5Ppn6TF1mFx5hEiRpjxEfY"
+    },
+    {
+      "added_at": "2023-11-17 13:58:53",
+      "album": {
+        "name": "Fim de Semana",
+        "url": "https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys"
+      },
+      "artists": [
+        {
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
+        }
+      ],
+      "duration_ms": 154603,
+      "name": "Fim de Semana",
+      "url": "https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ"
+    },
+    {
+      "added_at": "2023-11-17 13:58:53",
+      "album": {
         "name": "Me Arrependo",
         "url": "https://open.spotify.com/album/3C40vpn8VGTZiMQ6IYICkZ"
       },
@@ -1211,38 +1259,6 @@
       "duration_ms": 182004,
       "name": "Samba Azul",
       "url": "https://open.spotify.com/track/3fABA4ex5mUpAbiFG09zKl"
-    },
-    {
-      "added_at": "2023-11-17 13:58:53",
-      "album": {
-        "name": "Fim de Semana",
-        "url": "https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys"
-      },
-      "artists": [
-        {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
-        }
-      ],
-      "duration_ms": 154603,
-      "name": "Fim de Semana",
-      "url": "https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ"
-    },
-    {
-      "added_at": "2023-11-17 13:58:53",
-      "album": {
-        "name": "Sacada",
-        "url": "https://open.spotify.com/album/5E6CAgzHkHTejiQSaQhLe7"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Sacada",
-      "url": "https://open.spotify.com/track/4e64LuNXrIJ4M788FG79kK"
     },
     {
       "added_at": "2023-11-17 13:58:53",
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2023-11-17 13:58:53",
       "album": {
-        "name": "Curto Circuito",
-        "url": "https://open.spotify.com/album/0SQUnsHd7sJpXtNVnGVthT"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Napoli",
-          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Curto Circuito",
-      "url": "https://open.spotify.com/track/2JGqsJfRy8n0NgDJBwbGxd"
-    },
-    {
-      "added_at": "2023-11-17 13:58:53",
-      "album": {
         "name": "deixa eu me perder",
         "url": "https://open.spotify.com/album/56H5OItpiWEjREhIsSpy8l"
       },
@@ -1359,22 +1359,6 @@
       "duration_ms": 145000,
       "name": "deixa eu me perder",
       "url": "https://open.spotify.com/track/47byIEQkbY3In4DyTYmOw4"
-    },
-    {
-      "added_at": "2023-11-17 13:58:53",
-      "album": {
-        "name": "ABSORVENDO TUDO",
-        "url": "https://open.spotify.com/album/4LE3dTrNjyxSWqk7pHjFZv"
-      },
-      "artists": [
-        {
-          "name": "Cruvinel",
-          "url": "https://open.spotify.com/artist/2TUCCtskhrTEMAAGyQaBaW"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Absorvendo Tudo",
-      "url": "https://open.spotify.com/track/5Ppn6TF1mFx5hEiRpjxEfY"
     },
     {
       "added_at": "2023-11-17 13:58:53",
@@ -1395,22 +1379,18 @@
     {
       "added_at": "2023-11-17 13:58:53",
       "album": {
-        "name": "Sincero",
-        "url": "https://open.spotify.com/album/4uKUlLXDo9irryq46SOnyl"
+        "name": "Curto Circuito",
+        "url": "https://open.spotify.com/album/0SQUnsHd7sJpXtNVnGVthT"
       },
       "artists": [
         {
-          "name": "F\u00ea Costa",
-          "url": "https://open.spotify.com/artist/44iMU2cm99b2s3YahO5TQ1"
-        },
-        {
-          "name": "Conc\u00ea",
-          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
+          "name": "Jo\u00e3o Napoli",
+          "url": "https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L"
         }
       ],
-      "duration_ms": 169275,
-      "name": "Sincero",
-      "url": "https://open.spotify.com/track/00MVlCqEO9ANx8tNIwJnCV"
+      "duration_ms": 153573,
+      "name": "Curto Circuito",
+      "url": "https://open.spotify.com/track/2JGqsJfRy8n0NgDJBwbGxd"
     },
     {
       "added_at": "2023-11-17 13:58:53",
@@ -1427,6 +1407,26 @@
       "duration_ms": 133222,
       "name": "Mundo de Papel",
       "url": "https://open.spotify.com/track/72f0aOR0Tp6LH4KZ7whF4R"
+    },
+    {
+      "added_at": "2023-11-17 13:58:53",
+      "album": {
+        "name": "Sincero",
+        "url": "https://open.spotify.com/album/4uKUlLXDo9irryq46SOnyl"
+      },
+      "artists": [
+        {
+          "name": "F\u00ea Costa",
+          "url": "https://open.spotify.com/artist/44iMU2cm99b2s3YahO5TQ1"
+        },
+        {
+          "name": "Conc\u00ea",
+          "url": "https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE"
+        }
+      ],
+      "duration_ms": 169275,
+      "name": "Sincero",
+      "url": "https://open.spotify.com/track/00MVlCqEO9ANx8tNIwJnCV"
     },
     {
       "added_at": "2023-11-17 13:58:53",

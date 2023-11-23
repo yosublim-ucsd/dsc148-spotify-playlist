@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Matt Hansen
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,563 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,582 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [CALL HER BACK](https://open.spotify.com/track/3B3i8gxv4lZNu5kGzBZ317) | [Group Project](https://open.spotify.com/artist/7gGjxniWt0ovSoAY7440o1) | [THE BIG PICTURE](https://open.spotify.com/album/6y2sUWXuDVM2YBwSGnryrg) | 2:32 |
 | 100 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 |
 
-Snapshot ID: `MCxhYjIwNjFkYWEwODgwZGQ4NGJmODA4ZjIzYjVhYjQ2Yjk3YjAyMTJh`
+Snapshot ID: `MCw3YWY0ODliMmU1ODJhMTIxNzY2Njc3NGIyZDg3YjYwNjVmOThjNjQ1`

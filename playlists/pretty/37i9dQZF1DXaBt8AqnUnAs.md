@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,760 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,791 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [VALHO NADA](https://open.spotify.com/track/18XOY618zQH4bFw3TgVT9L) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Vinicin](https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G), [Amorim](https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a), [A.R](https://open.spotify.com/artist/7KEZl3nvHOJaaLZUo1wLwc), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [Felipe Rosa](https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N), [Brutos](https://open.spotify.com/artist/3Og0gjJyLFUdqIYzXxq6T6), [Bairro 13](https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 3:37 |
 | 75 | [Só me ligar](https://open.spotify.com/track/31ySVMbs7U8LOuy7w4McR9) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:13 |
 
-Snapshot ID: `MCwyZTcxNmRjMDZiMTlkNTAwYzFmZGM0MjMyMmZkMGMwOTkyNDVlZWQ2`
+Snapshot ID: `MCw0MmFjYjEwODBhYzZlZmQ0ZTAzYmM4YWI1YTVmNDFhMzFiOWJiZTMx`

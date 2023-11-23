@@ -4,7 +4,7 @@
 
 > P fkn R\. Esto llega al choliiiii\. Cover: YOVNGCHIMI & Dei V
 
-340 songs - 19 hr 31 min
+341 songs - 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Big Booty](https://open.spotify.com/track/5nBHB9JZjBS087RSDgIEon) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Lil Geniuz](https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U) | [Big Booty](https://open.spotify.com/album/3a6Zg7J0UPZMl8rujyXgvt) | 3:11 | 2023-02-03 | 2023-06-10 |
 | [Blancos & Rojos](https://open.spotify.com/track/4FRMNJTazpo6vhHnfnG2qy) | [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [Blancos & Rojos](https://open.spotify.com/album/6dLcpS5nJkKsDy78PQakRP) | 2:42 | 2023-10-24 |  |
 | [Blessings](https://open.spotify.com/track/0aOcyrtTn2Fpit2GIeaGwO) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Blessings](https://open.spotify.com/album/0stTNi5KJMdoruNe8JG6by) | 3:04 | 2023-02-03 | 2023-10-25 |
-| [Bonnie and Clyde](https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [Bonnie and Clyde](https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7) | 3:29 | 2023-06-09 |  |
+| [Bonnie and Clyde](https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [Bonnie and Clyde](https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7) | 3:29 | 2023-06-09 | 2023-11-23 |
+| [BONNIE AND CLYDE \- REMIX](https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [BONNIE AND CLYDE \(REMIX\)](https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om) | 4:46 | 2023-11-22 |  |
 | [BRUJULA](https://open.spotify.com/track/7rM5p9uIjlARBdYYzfEEyf) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [BRUJULA](https://open.spotify.com/album/0MfA07UgcDNEG8jv0hw6ti) | 2:45 | 2023-02-03 | 2023-03-18 |
 | [Cactus](https://open.spotify.com/track/2jcgREuJBtLjfMV4hHngte) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [El Playlist de Anoche](https://open.spotify.com/album/5BRmh1Zjhc83GybZiRhq5e) | 3:21 | 2023-02-03 | 2023-03-18 |
 | [Caile](https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 2:21 | 2022-12-07 | 2023-02-04 |

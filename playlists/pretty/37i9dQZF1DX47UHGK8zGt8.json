@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax. ",
-  "num_followers": 508038,
+  "num_followers": 508294,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2ZiMjcyZTMyYTNhYTQyMjI4N2IxYmI1ZTBhOGNiMGQzM2RhNGYx",
+  "snapshot_id": "MCxjMzI3YjEyMDliMzVlYTExYTAyNGE4NDBkODlkZWE2ZjFmYWNlNTM1",
   "tracks": [
     {
       "added_at": "2023-11-17 14:03:52",
@@ -208,8 +208,8 @@
       },
       "artists": [
         {
-          "name": "Junior",
-          "url": "https://open.spotify.com/artist/0OllCB8jre2XE6LnWXQKp4"
+          "name": "JUNIOR",
+          "url": "https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT"
         }
       ],
       "duration_ms": 189250,
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-11-17 14:03:52",
       "album": {
+        "name": "Monomania",
+        "url": "https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA"
+      },
+      "artists": [
+        {
+          "name": "Clarice Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
+        }
+      ],
+      "duration_ms": 217756,
+      "name": "Eu Me Lembro",
+      "url": "https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe"
+    },
+    {
+      "added_at": "2023-11-17 14:03:52",
+      "album": {
         "name": "Aos Vivos",
         "url": "https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 171594,
       "name": "Quando Amanhecer",
       "url": "https://open.spotify.com/track/2n9V0JRShzCydUp7Ve3bGt"
-    },
-    {
-      "added_at": "2023-11-17 14:03:52",
-      "album": {
-        "name": "Monomania",
-        "url": "https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA"
-      },
-      "artists": [
-        {
-          "name": "Clarice Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
-        }
-      ],
-      "duration_ms": 217756,
-      "name": "Eu Me Lembro",
-      "url": "https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe"
     },
     {
       "added_at": "2023-11-17 14:03:52",

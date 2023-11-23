@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Lime Garden
 
-508 songs - 1 day 4 hr 31 min
+509 songs - 1 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -399,6 +399,7 @@
 | [Six\-Pack](https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Six\-Pack](https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI) | 3:51 | 2023-01-13 | 2023-04-16 |
 | [Skin](https://open.spotify.com/track/1Z9lVNEZbKMoAIrt65LBaQ) | [Egyptian Blue](https://open.spotify.com/artist/3IW8WBsi0vGrcdMNsXS6Bi) | [Skin](https://open.spotify.com/album/0PtAPfJCItl2cEOza0ZYDG) | 2:44 | 2023-08-04 | 2023-08-12 |
 | [Sleep](https://open.spotify.com/track/6h17D5OtByI2UJ9StWVgAv) | [L.A\. WITCH](https://open.spotify.com/artist/4VIQa9l1HW6VPhR9IdJS8C) | [Octubre](https://open.spotify.com/album/1GMAtZzE5QxNlRoAnMH3f3) | 3:53 | 2021-03-09 | 2022-01-17 |
+| [Slime](https://open.spotify.com/track/3jWZUXWXIWDsXVwrkwjOhS) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Slime](https://open.spotify.com/album/44ccxqrWWElidyDHNU3W3M) | 3:58 | 2023-11-17 |  |
 | [Slowing Down](https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:20 | 2022-10-13 |  |
 | [Slowing Down](https://open.spotify.com/track/4PPodWxVosPAXvwLlqbjyt) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/3Yo08VwO5AZjYxM9XC6IXp) | 5:20 | 2022-10-13 | 2022-11-13 |
 | [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-06 | 2022-11-02 |
@@ -442,7 +443,7 @@
 | [The Aftergone \(feat\. CLEWS\)](https://open.spotify.com/track/3VpeDsKDbBILjniX4y3rFA) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2), [CLEWS](https://open.spotify.com/artist/6cw5iGpmkR9dNaIZ85j8ya) | [The Aftergone \(feat\. CLEWS\)](https://open.spotify.com/album/2PI3lgEBf6tTcJlb0vMWlF) | 3:55 | 2021-07-16 | 2022-08-19 |
 | [the angel of 8th ave.](https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 3:58 | 2022-08-18 |  |
 | [The Beach](https://open.spotify.com/track/1nPphsH386vi13IEenaQi0) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [The Beach](https://open.spotify.com/album/60fgp2GJAd5zdTelbURJSl) | 4:53 | 2023-07-13 | 2023-07-28 |
-| [The Cabin](https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [The Cabin](https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl) | 3:57 | 2023-08-10 |  |
+| [The Cabin](https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [The Cabin](https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl) | 3:57 | 2023-08-10 | 2023-11-23 |
 | [The Dance You Sell](https://open.spotify.com/track/2ccm3ZxZcrlLYJu7KCmyVE) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [The Dance You Sell](https://open.spotify.com/album/3eKHyyJnvSmh6U0r0xa5V7) | 4:02 | 2022-10-13 | 2023-02-04 |
 | [The Dance You Sell](https://open.spotify.com/track/3qA9TSRQp8ImNqkl6gbwer) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [The Dance You Sell](https://open.spotify.com/album/5SxaGaRMHhnRdTA4YU8xrK) | 4:02 | 2022-09-29 | 2022-10-14 |
 | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd) | 3:34 | 2023-08-17 |  |

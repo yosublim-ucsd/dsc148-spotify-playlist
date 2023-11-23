@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 
 > Get moving with these family\-friendly dance hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,071 likes - 43 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,072 likes - 43 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,18 +12,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 | 2 | [Gangnam Style \(강남스타일\)](https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99) | 3:39 |
 | 3 | [Boot Scootin' Boogie](https://open.spotify.com/track/7Fq9RwQxSn3kW85PrDUf0M) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:18 |
 | 4 | [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [I AM...SASHA FIERCE](https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7) | 3:13 |
-| 5 | [Time Warp](https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu) | [Little Nell](https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke), [Patricia Quinn](https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs), [Richard O'Brien](https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg) | [The Rocky Horror Picture Show \- Original Soundtrack](https://open.spotify.com/album/4QviryaneolcRmDB57SLco) | 3:19 |
-| 6 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
-| 7 | [Y.M.C.A.](https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Cruisin'](https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG) | 4:46 |
-| 8 | [The Git Up](https://open.spotify.com/track/01tA4XmJ4fGQNwti6b2hPm) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Honeysuckle & Lightning Bugs](https://open.spotify.com/album/2oxv6Q0GYUkYqz2dhUKo12) | 3:20 |
+| 5 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
+| 6 | [Time Warp](https://open.spotify.com/track/4WFeJTXNHIS2wURtwlAkhu) | [Little Nell](https://open.spotify.com/artist/213WFYdlgojElnXhDyhwke), [Patricia Quinn](https://open.spotify.com/artist/7Akz0poR4eUgNM0ciCWqIs), [Richard O'Brien](https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg) | [The Rocky Horror Picture Show \- Original Soundtrack](https://open.spotify.com/album/4QviryaneolcRmDB57SLco) | 3:19 |
+| 7 | [The Git Up](https://open.spotify.com/track/01tA4XmJ4fGQNwti6b2hPm) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Honeysuckle & Lightning Bugs](https://open.spotify.com/album/2oxv6Q0GYUkYqz2dhUKo12) | 3:20 |
+| 8 | [Y.M.C.A.](https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Cruisin'](https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG) | 4:46 |
 | 9 | [Cupid Shuffle](https://open.spotify.com/track/07Tx168RSsUS1HqkDIOZbH) | [Cupid](https://open.spotify.com/artist/0lax1ZgWclW6mZFaGu27MM) | [Time for a Change](https://open.spotify.com/album/1tDyAU95D65Shy34JxsQCu) | 3:51 |
 | 10 | [The Twist](https://open.spotify.com/track/4YCnTYbq3oL1Lqpyxg33CU) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [Dancin' Party: The Chubby Checker Collection \(1960\-1966\)](https://open.spotify.com/album/0YgWInMbwTXPCaHRUHqoeY) | 2:35 |
 | 11 | [The Hokey Pokey](https://open.spotify.com/track/4aiELSmheCgsRIxvuOckBU) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 6: Fun Baby Songs](https://open.spotify.com/album/5Z4p6QUeFGMH3DiUdfVRFP) | 2:24 |
 | 12 | [Party Freeze Dance Song](https://open.spotify.com/track/5n5IxMcG2oV8IOzklsW6Vd) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Freeze Dance Songs for Learning](https://open.spotify.com/album/3d2Swul1tNBo1PSXdwfOGU) | 2:08 |
 | 13 | [Get Yo Body Movin'](https://open.spotify.com/track/7GizF53H6JpwNWIEsZRuWC) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Whoopty Whoop](https://open.spotify.com/album/6ophnm6Vp3brWGK8NvldMT) | 1:57 |
-| 14 | [Casper Cha\-Cha Slide \(Live Platinum Band\)](https://open.spotify.com/track/0AaEbPXWdeiW6MbW80Eibj) | [Casper & Col'ta](https://open.spotify.com/artist/3mWhHh5X42WmVx7Hku1zc3) | [The Slide Album](https://open.spotify.com/album/3KoYKWvKJrI6T0n5D5PTCS) | 6:27 |
-| 15 | [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/3LporUvjsmpxGBdREXWlwu) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Nursery Rhymes](https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr) | 1:30 |
-| 16 | [The Loco\-Motion](https://open.spotify.com/track/2hBR3npBmnfr1VWB3O64Jt) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie](https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv) | 3:13 |
+| 14 | [The Loco\-Motion](https://open.spotify.com/track/2hBR3npBmnfr1VWB3O64Jt) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie](https://open.spotify.com/album/7lZXsT33rkuXF3WBZc5rQv) | 3:13 |
+| 15 | [Casper Cha\-Cha Slide \(Live Platinum Band\)](https://open.spotify.com/track/0AaEbPXWdeiW6MbW80Eibj) | [Casper & Col'ta](https://open.spotify.com/artist/3mWhHh5X42WmVx7Hku1zc3) | [The Slide Album](https://open.spotify.com/album/3KoYKWvKJrI6T0n5D5PTCS) | 6:27 |
+| 16 | [Head, Shoulders, Knees and Toes](https://open.spotify.com/track/3LporUvjsmpxGBdREXWlwu) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Nursery Rhymes](https://open.spotify.com/album/0ZZiqgSSDNybO8p6YW5fqr) | 1:30 |
 | 17 | [Limbo Rock](https://open.spotify.com/track/6FXjVsmKPW93LXRFYhfmmw) | [Chubby Checker](https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2) | [Chubby Checker Classics](https://open.spotify.com/album/36tc0l1brbD9CCaUDrvqVi) | 2:28 |
 | 18 | [Shake Break](https://open.spotify.com/track/7w6RBPKhCaxZiyXb1ekdYy) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Pancake Manor](https://open.spotify.com/album/5nfoLW8Ut0picjRjdGcC0g) | 1:35 |
 | 19 | [Jump](https://open.spotify.com/track/6T4sYADPiCpYQgddqmCyrl) | [Patty Shukla](https://open.spotify.com/artist/6lQcPZtrhQfbSkXafngUYc) | [Play With Me, Sing Along!](https://open.spotify.com/album/0PGKxxYVEpD1jSlr3ipoPZ) | 2:50 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 | 42 | [Robot Song](https://open.spotify.com/track/6ADL4RJj0h56aOAS8CvPLP) | [Michael & The Rockness Monsters](https://open.spotify.com/artist/3LPxmAUuHX9k2jUlC9m38f) | [Preschool Songs Volume 2](https://open.spotify.com/album/2KJEDC7n10EJ9gXETFQbsJ) | 3:13 |
 | 43 | [Bounce! Bounce!](https://open.spotify.com/track/0rfMVNm8MAXyqBzW7YWV4t) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Silly Songs Sing\-Along](https://open.spotify.com/album/3z7PERlx9otKn0E4rKeKP9) | 2:06 |
 
-Snapshot ID: `MCxhNjdmNmY1OWI3YTZiYjllYzI2MzA5Zjc1NDE3YmQzYTk4YTZjYTE2`
+Snapshot ID: `MCwxNTkwMWJmYTFkNDRlODE2ZGQ3NmZkMzNmMjVlMzZiMmM0MzllNDdi`

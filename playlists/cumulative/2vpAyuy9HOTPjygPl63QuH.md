@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno music, updated every friday 🔥🔊 \| tech house \- house \- techno \- rave \- party \- bangers \- tiktok techno \- dance \| Submit via Instagram: @subshiftmusic
 
-1,536 songs - 3 day 15 hr 32 min
+1,537 songs - 3 day 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -924,6 +924,7 @@
 | [No Numbers](https://open.spotify.com/track/5An03wGKSV1nHmxMhC1ARC) | [Golf Clap](https://open.spotify.com/artist/2NBV0SMMP4gvzmqibFlwjN), [owie](https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai) | [No Numbers](https://open.spotify.com/album/0ipcJsuCFXFn1EkH4As0JN) | 3:50 | 2022-06-06 | 2022-06-11 |
 | [No Option](https://open.spotify.com/track/4dFuxpnBVz4K5wXw6Qq6mQ) | [Ice X Diaz](https://open.spotify.com/artist/7LjMN8V8JnMOjSQEC9X5EW) | [No Option](https://open.spotify.com/album/7s9zD2VTjtHTRmzuMnuzNJ) | 2:35 | 2022-05-18 | 2022-05-22 |
 | [NO RULES](https://open.spotify.com/track/26rijoQF8lOAFYmorF7tqv) | [Keeld](https://open.spotify.com/artist/4JU2KBLwvIFo9iH3a2FtCT) | [NO RULES](https://open.spotify.com/album/6tOKu53xWJecRH0QMEx1KO) | 4:13 | 2022-06-17 | 2022-06-25 |
+| [No Signal](https://open.spotify.com/track/6W9Q0aD4aiKYZBuHt7BTyK) | [Ghetto Birds](https://open.spotify.com/artist/1Obs7jiOM1afyArwQkOC1U) | [No Signal](https://open.spotify.com/album/7iPw8nupkZme0HDagHXwar) | 3:33 | 2023-11-22 |  |
 | [No Sleep \(6AM\) \(feat\. MERYLL\)](https://open.spotify.com/track/2hpoG18R8aBXB3O5QmheJt) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [No Sleep \(6AM\) \(feat\. MERYLL\)](https://open.spotify.com/album/4UwWfFDYZcjQRnS9Rv94Ro) | 2:26 | 2023-10-06 | 2023-10-14 |
 | [No Standing](https://open.spotify.com/track/1Sjav5dn1J3e5kCnggX3BR) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [No Standing](https://open.spotify.com/album/4FIF0uU4AJDcQVgUjrqM5Z) | 4:59 | 2022-12-02 | 2022-12-17 |
 | [No Stoppin'](https://open.spotify.com/track/4MqZA9u2BDdFheypDOjAxU) | [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K) | [No Stoppin'](https://open.spotify.com/album/5n5T2dugUpP3orPV6aWYRh) | 3:02 | 2023-07-15 | 2023-08-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,185 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,217 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 46 | [Moonrise \- Acoustic Version](https://open.spotify.com/track/0lyVQP4aWjnbW3T3a21wh9) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Moonrise \(Acoustic Version\)](https://open.spotify.com/album/40UTvukiFB88tuyc3oN2NJ) | 2:44 |
 | 47 | [Bewakoofiyaan Kare](https://open.spotify.com/track/73mYX4I9cu6kA0Q8v1M8Z2) | [Anil Thakur](https://open.spotify.com/artist/1pUKvwa9hBCPDk8CP4gDKi), [Roshanaara Qureshi](https://open.spotify.com/artist/7G3sWx07js0ZjqND7YQvrF) | [Bewakoofiyaan Kare](https://open.spotify.com/album/16PdauoPKILtNmJepn4Qlf) | 3:00 |
 | 48 | [Naya Jahaan \- Stripped](https://open.spotify.com/track/3OUmQlsuMxUxcapjTotHMB) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Naya Jahaan \- Stripped](https://open.spotify.com/album/6V61uR9ixr8BOxYo84Xso3) | 2:15 |
-| 49 | [Ishq Ki Baat](https://open.spotify.com/track/40rKj95kijRhQThm1RHo0f) | [Milan](https://open.spotify.com/artist/6uabsr2THX1Yls9VsqeQti) | [Ishq Ki Baat](https://open.spotify.com/album/0tnHMFYxC1zZrdtvo2DqXH) | 1:31 |
+| 49 | [Ishq Ki Baat](https://open.spotify.com/track/40rKj95kijRhQThm1RHo0f) | [Milan](https://open.spotify.com/artist/4ZKKwaNWnjFlrpnBbs0899) | [Ishq Ki Baat](https://open.spotify.com/album/0tnHMFYxC1zZrdtvo2DqXH) | 1:31 |
 | 50 | [Kaayar](https://open.spotify.com/track/6cbxJhOuZWDP8kEeM6QWYe) | [Khatth](https://open.spotify.com/artist/25z03NEKPCRRfHVBCsgOiY) | [Kaayar](https://open.spotify.com/album/3nuufuEPeDjesdwC7AqzNQ) | 2:14 |
 | 51 | [Humnava \(Reprise\)](https://open.spotify.com/track/5soQc8BLjpCkIMScA6bqyf) | [Jivitesh Kharbanda](https://open.spotify.com/artist/6xRm13Ry0rDXAZyspU8Rue), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Humnava \(Reprise\)](https://open.spotify.com/album/0OnIshfjH5WOWlzcZhcwXw) | 3:42 |
 | 52 | [Roshni Ka Sira](https://open.spotify.com/track/59jj3LZxOuRbmdfyes94m4) | [Pulkit Jain](https://open.spotify.com/artist/1XUV920NkslALtUg2Msk4U) | [Roshni Ka Sira](https://open.spotify.com/album/3BMZq92gJk681qk9Y899Zo) | 3:41 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Jhoothi Chai](https://open.spotify.com/track/5ISTUCwZ9SzLgoY0wdwYLN) | [Meiyang Chang](https://open.spotify.com/artist/4kil03O4zZQwIsvj3SGCxH) | [Jhoothi Chai](https://open.spotify.com/album/2MzAQ0GKFGqTBB2Y7lOB7o) | 2:56 |
 | 75 | [Manmaani](https://open.spotify.com/track/71F3RWCBhiCixxN3fMmxqc) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Manmaani](https://open.spotify.com/album/3pd5cpY9hUSI7ZCE3STwwT) | 3:54 |
 
-Snapshot ID: `MCxjOTg0MGU4Y2VjODZhZjRjZTA5ZGM4YzllNDA3NjZlOWI2YTg0MmUz`
+Snapshot ID: `MCxhMzEwYTQzY2ExMzhhMDFjZGNmMmY1NDUwYTYwYjA3MzBkMWQ4NjQz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchirPPLF8A7.md) - [plain]
 
 > Listen to the music from and inspired by Scott Pilgrim Takes Off, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 500 likes - 75 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,242 likes - 75 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchirPPLF8A7.md) - [plain]
 | 12 | [Subboss Theme](https://open.spotify.com/track/6U5g7Doh2ec6MljZc7p8As) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL) | [Scott Pilgrim vs\. the World: The Game \(Original Videogame Soundtrack\)](https://open.spotify.com/album/3DNHW2ckMRr3v0f7JF3HcR) | 1:43 |
 | 13 | [I Feel Fine, Pt\. 1](https://open.spotify.com/track/3heBIU1G3GTA6NkbZdBCfp) | [Sex Bob\-Omb](https://open.spotify.com/artist/0epidpyARaIPmKpFUwcgnJ) | [Scott Pilgrim Takes Off \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31) | 0:56 |
 | 14 | [Orange Shirt](https://open.spotify.com/track/7FUXU3d1lOpbikVA8ewNOS) | [Sex Bob\-Omb](https://open.spotify.com/artist/0epidpyARaIPmKpFUwcgnJ) | [Scott Pilgrim Takes Off \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31) | 0:42 |
-| 15 | [I Will Remember You](https://open.spotify.com/track/7E95SsjwLh21FxnyxTiMEj) | [Emily Haines](https://open.spotify.com/artist/0g9SI3fQvQdbDvb20pPF5M), [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Scott Pilgrim Takes Off \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31) | 2:02 |
+| 15 | [I Will Remember You](https://open.spotify.com/track/7E95SsjwLh21FxnyxTiMEj) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Scott Pilgrim Takes Off \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31) | 2:02 |
 | 16 | [Sometimes Bad Guys Turn Into Great Guys](https://open.spotify.com/track/34UvWY4On4cr90TpqR9Kiu) | [Scott Pilgrim](https://open.spotify.com/artist/0ae6qHyVemCP8ROue5wwJf) | [Scott Pilgrim Takes Off \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31) | 0:32 |
 | 17 | [Konya Wa Hurricane](https://open.spotify.com/track/108Fv7C3wVxL8Wp5QzpwLN) | [Pop’n TwinBee](https://open.spotify.com/artist/7AWrl0K9kU0rMNyi5fFrcZ) | [Scott Pilgrim Takes Off \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31) | 0:49 |
 | 18 | [Scott Pilgrim's Precious Little Overture](https://open.spotify.com/track/2ysd4jIysZVFhFwWuPxDhS) | [Original Scott Pilgrim Off\-Broadway Orchestra](https://open.spotify.com/artist/7Jrin2pQoyjJX87mySk5BC) | [Scott Pilgrim Takes Off \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31) | 0:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchirPPLF8A7.md) - [plain]
 | 74 | [Bad Husband \(Bonus Track\)](https://open.spotify.com/track/761wA4ahjL8XV2w3mGWLyy) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V) | [Scott Pilgrim Takes Off \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31) | 0:46 |
 | 75 | [We Did It \(Bonus Track\)](https://open.spotify.com/track/0otwMwfq6MDcjrpoIZ3cLC) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V) | [Scott Pilgrim Takes Off \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2nhkM1L6KVHFwkcdIlKX31) | 0:21 |
 
-Snapshot ID: `MCxlOTc4N2NiM2ZiNmU1NDhhY2MzMjNiYjc3NDAzOWZmYmU0ZDZiYjgx`
+Snapshot ID: `MCxlNzY0NDgyNjRhMjkyMjkxOTFlMzA1MmRmMjE5MDhmNmM2OTVhMGU2`

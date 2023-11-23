@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 31267,
+  "num_followers": 31301,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDA3NzYwZTQ4YzVmMjNmMWYzM2ZjNDA5NDU0MjdjZGU3OGVlNmYz",
+  "snapshot_id": "MCxiZTU4MzM5OTYzNGQ3MzE2NjcxZDViMTEzM2I2Mjg1NjEyMmNlN2Ji",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/1VLqSHhPv6mCfYdGvBFfHF"
-      },
-      "artists": [
-        {
-          "name": "Sun, Sun, Sun",
-          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
-        }
-      ],
-      "duration_ms": 441120,
-      "name": "Curious (Vocal Mix)",
-      "url": "https://open.spotify.com/track/7Mfn2DaQvcnvjfRb18c4g1"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Break Night",
         "url": "https://open.spotify.com/album/4k0Sm7yG4yKx7wD0jAX1Ve"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 781853,
       "name": "Break Night (The Mardi Gras Mix)",
       "url": "https://open.spotify.com/track/5wjkcqSBnatDQjoggovBrO"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/1VLqSHhPv6mCfYdGvBFfHF"
+      },
+      "artists": [
+        {
+          "name": "Sun, Sun, Sun",
+          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
+        }
+      ],
+      "duration_ms": 441120,
+      "name": "Curious (Vocal Mix)",
+      "url": "https://open.spotify.com/track/7Mfn2DaQvcnvjfRb18c4g1"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Jazz It Up",
+        "url": "https://open.spotify.com/album/3Nm4uP8Qb9TLcaLiqRtyJr"
+      },
+      "artists": [
+        {
+          "name": "The Erick Morillo Project",
+          "url": "https://open.spotify.com/artist/3MmjZB2xUVCKPMLbh1ABA7"
+        }
+      ],
+      "duration_ms": 311760,
+      "name": "Jazz it Up (Extended Jazz)",
+      "url": "https://open.spotify.com/track/3IGALj2BWgLobfde5ybccP"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Tyler Moore Mary (Mixes)",
         "url": "https://open.spotify.com/album/0yLhyujDegVpusv5ILwz0S"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 471692,
       "name": "Tyler Moore Mary",
       "url": "https://open.spotify.com/track/2GR2SyVgjnJCDyCxajyCEB"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Jazz It Up",
-        "url": "https://open.spotify.com/album/3Nm4uP8Qb9TLcaLiqRtyJr"
-      },
-      "artists": [
-        {
-          "name": "The Erick Morillo Project",
-          "url": "https://open.spotify.com/artist/3MmjZB2xUVCKPMLbh1ABA7"
-        }
-      ],
-      "duration_ms": 311760,
-      "name": "Jazz it Up (Extended Jazz)",
-      "url": "https://open.spotify.com/track/3IGALj2BWgLobfde5ybccP"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -811,26 +811,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Warning (Remixes)",
-        "url": "https://open.spotify.com/album/6MgegMKyBL5NjEkD9ITHVz"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT"
-        },
-        {
-          "name": "Claude Monnet",
-          "url": "https://open.spotify.com/artist/08UnNnUkmKlxFVb25yboWo"
-        }
-      ],
-      "duration_ms": 233466,
-      "name": "The Warning (2 Copy Mix)",
-      "url": "https://open.spotify.com/track/2AHVEBAfnayE9WI0JMxZ0t"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Swing Doctor",
         "url": "https://open.spotify.com/album/00V3nccGV3eXjxWRPkmqmD"
       },
@@ -847,18 +827,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
+        "name": "The Warning (Remixes)",
+        "url": "https://open.spotify.com/album/6MgegMKyBL5NjEkD9ITHVz"
       },
       "artists": [
         {
-          "name": "Shadii",
-          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT"
+        },
+        {
+          "name": "Claude Monnet",
+          "url": "https://open.spotify.com/artist/08UnNnUkmKlxFVb25yboWo"
         }
       ],
-      "duration_ms": 342621,
-      "name": "My People (My People Mix)",
-      "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
+      "duration_ms": 233466,
+      "name": "The Warning (2 Copy Mix)",
+      "url": "https://open.spotify.com/track/2AHVEBAfnayE9WI0JMxZ0t"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -883,22 +867,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Set My Spirit Free",
-        "url": "https://open.spotify.com/album/26niUzngjZz2T00CSUek56"
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
       },
       "artists": [
         {
-          "name": "Kings Of Tomorrow",
-          "url": "https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX"
-        },
-        {
-          "name": "Sandy Rivera",
-          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
+          "name": "Shadii",
+          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
         }
       ],
-      "duration_ms": 468520,
-      "name": "Set My Spirit Free (feat. Sandy Rivera)",
-      "url": "https://open.spotify.com/track/1Atpos1RTfmnpMzeSTkMHx"
+      "duration_ms": 342621,
+      "name": "My People (My People Mix)",
+      "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -915,6 +895,26 @@
       "duration_ms": 260065,
       "name": "Shine (Sundown Dub)",
       "url": "https://open.spotify.com/track/20PGCMaMNwACzTtZGdiCBm"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Set My Spirit Free",
+        "url": "https://open.spotify.com/album/26niUzngjZz2T00CSUek56"
+      },
+      "artists": [
+        {
+          "name": "Kings Of Tomorrow",
+          "url": "https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX"
+        },
+        {
+          "name": "Sandy Rivera",
+          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
+        }
+      ],
+      "duration_ms": 468520,
+      "name": "Set My Spirit Free (feat. Sandy Rivera)",
+      "url": "https://open.spotify.com/track/1Atpos1RTfmnpMzeSTkMHx"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -951,18 +951,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Choices",
-        "url": "https://open.spotify.com/album/1GrIg6TtWx42HcBpIHu1gh"
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
+        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
       },
       "artists": [
         {
-          "name": "Full Swing",
-          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
+          "name": "Androgeny",
+          "url": "https://open.spotify.com/artist/7xspivzK6Gu6XyRExmL0UZ"
         }
       ],
-      "duration_ms": 472984,
-      "name": "Choices (Choices Vocal Mix)",
-      "url": "https://open.spotify.com/track/5N7cwa4semi11gavRLxWGu"
+      "duration_ms": 494374,
+      "name": "I Could Be This... (The Remix) (Morel's That Mix)",
+      "url": "https://open.spotify.com/track/5wEJrQ6vGxYfA8vkFwp9tZ"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -983,18 +983,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
-        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/1GrIg6TtWx42HcBpIHu1gh"
       },
       "artists": [
         {
-          "name": "Androgeny",
-          "url": "https://open.spotify.com/artist/7xspivzK6Gu6XyRExmL0UZ"
+          "name": "Full Swing",
+          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
         }
       ],
-      "duration_ms": 494374,
-      "name": "I Could Be This... (The Remix) (Morel's That Mix)",
-      "url": "https://open.spotify.com/track/5wEJrQ6vGxYfA8vkFwp9tZ"
+      "duration_ms": 472984,
+      "name": "Choices (Choices Vocal Mix)",
+      "url": "https://open.spotify.com/track/5N7cwa4semi11gavRLxWGu"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Stay Together",
-        "url": "https://open.spotify.com/album/0xrqODIep7KKo2vidLXRwa"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 777623,
-      "name": "Stay Together (Armand's ''Crazy'' Trauma Mix)",
-      "url": "https://open.spotify.com/track/3WRopB0zlN46JeckfHUF3G"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 410967,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/2m69e2a2MVhTOpx1dVZDkz"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Stay Together",
+        "url": "https://open.spotify.com/album/0xrqODIep7KKo2vidLXRwa"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 777623,
+      "name": "Stay Together (Armand's ''Crazy'' Trauma Mix)",
+      "url": "https://open.spotify.com/track/3WRopB0zlN46JeckfHUF3G"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Master Blaster (Turn It Up)",
-        "url": "https://open.spotify.com/album/2SQELO2MoW3s7TP7LLU8cJ"
-      },
-      "artists": [
-        {
-          "name": "Joint Venture",
-          "url": "https://open.spotify.com/artist/74wZtI4BPyfHBDLoyLfUwt"
-        }
-      ],
-      "duration_ms": 938544,
-      "name": "Master Blaster (Turn It Up)",
-      "url": "https://open.spotify.com/track/5MDM0VryFjBi6EiLuX2PyM"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
         "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 334220,
       "name": "We Can Make It (The \u2018I Believe' Dub)",
       "url": "https://open.spotify.com/track/5Os1U3nFLRBZ7eB4QTTMmZ"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Master Blaster (Turn It Up)",
+        "url": "https://open.spotify.com/album/2SQELO2MoW3s7TP7LLU8cJ"
+      },
+      "artists": [
+        {
+          "name": "Joint Venture",
+          "url": "https://open.spotify.com/artist/74wZtI4BPyfHBDLoyLfUwt"
+        }
+      ],
+      "duration_ms": 938544,
+      "name": "Master Blaster (Turn It Up)",
+      "url": "https://open.spotify.com/track/5MDM0VryFjBi6EiLuX2PyM"
     },
     {
       "added_at": "2022-03-03 13:59:16",

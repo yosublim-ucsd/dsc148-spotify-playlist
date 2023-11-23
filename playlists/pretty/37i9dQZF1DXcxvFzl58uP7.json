@@ -1,12 +1,12 @@
 {
   "description": "Dreamy melodies and hushed vocals.  Cover: Clairo",
-  "num_followers": 1101050,
+  "num_followers": 1101407,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWFiMWY3Zjc3OGI4YjQ2NTYxODQ2MDI5NWNkMTljMDI1MGNjZDM2",
+  "snapshot_id": "MCwzNmU0YjUyYjQxYTA3NGZlZTFmZjIyNTgzYjRiMDc2NGE1NWFjZmUz",
   "tracks": [
     {
       "added_at": "2023-09-29 19:35:30",
@@ -129,6 +129,22 @@
       "url": "https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf"
     },
     {
+      "added_at": "2023-10-19 19:03:47",
+      "album": {
+        "name": "Good God!",
+        "url": "https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY"
+      },
+      "artists": [
+        {
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Nothing's New",
+      "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
+    },
+    {
       "added_at": "2023-09-29 19:35:30",
       "album": {
         "name": "Immunity",
@@ -147,22 +163,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "Fuzzybrain",
-        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 278769,
-      "name": "Can I Call You Tonight?",
-      "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "Her Favorite Flowers",
         "url": "https://open.spotify.com/album/3ZtwVDikRanGqN17IGpWgh"
       },
@@ -177,20 +177,20 @@
       "url": "https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j"
     },
     {
-      "added_at": "2023-10-19 19:03:47",
+      "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "Good God!",
-        "url": "https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY"
+        "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
       },
       "artists": [
         {
-          "name": "Rio Romeo",
-          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Nothing's New",
-      "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
+      "duration_ms": 278769,
+      "name": "Can I Call You Tonight?",
+      "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "Mosquito",
-        "url": "https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 146240,
-      "name": "Mosquito",
-      "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "4EVER",
         "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 159595,
       "name": "4EVER",
       "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
+        "name": "Mosquito",
+        "url": "https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 146240,
+      "name": "Mosquito",
+      "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -501,22 +501,6 @@
       "url": "https://open.spotify.com/track/4WGoMHtZq6u4af9EBCQ2IE"
     },
     {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
-        "name": "Was It Something I Said",
-        "url": "https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH"
-      },
-      "artists": [
-        {
-          "name": "MyKey",
-          "url": "https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9"
-        }
-      ],
-      "duration_ms": 220588,
-      "name": "Was It Something I Said",
-      "url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt"
-    },
-    {
       "added_at": "2023-10-18 22:57:34",
       "album": {
         "name": "Hot in NY",
@@ -531,6 +515,22 @@
       "duration_ms": 118787,
       "name": "Hot in NY",
       "url": "https://open.spotify.com/track/5pLLiyazbpDHplZz7JCvNm"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
+        "name": "Was It Something I Said",
+        "url": "https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH"
+      },
+      "artists": [
+        {
+          "name": "MyKey",
+          "url": "https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Was It Something I Said",
+      "url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "You Tear Me Apart",
-        "url": "https://open.spotify.com/album/3R9q0veyA51VYC6w6VMDQt"
-      },
-      "artists": [
-        {
-          "name": "Dev Lemons",
-          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
-        }
-      ],
-      "duration_ms": 177957,
-      "name": "You Tear Me Apart",
-      "url": "https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "Friday",
         "url": "https://open.spotify.com/album/034zknyDzHTXojF5mOYtyO"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 204000,
       "name": "Friday",
       "url": "https://open.spotify.com/track/4GQGU0CI1lR4xRcxxioIIQ"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
+        "name": "You Tear Me Apart",
+        "url": "https://open.spotify.com/album/3R9q0veyA51VYC6w6VMDQt"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "duration_ms": 177957,
+      "name": "You Tear Me Apart",
+      "url": "https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP"
+        "name": "Spoonfed",
+        "url": "https://open.spotify.com/album/4eMIxtrxlRZjJtKnHBWcyg"
       },
       "artists": [
         {
-          "name": "Public Library Commute",
-          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
+          "name": "Hala",
+          "url": "https://open.spotify.com/artist/1dTBAtLZBUB8Ir4PmJYw9t"
         }
       ],
-      "duration_ms": 156381,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp"
+      "duration_ms": 230546,
+      "name": "What Is Love? Tell Me, Is It Easy?",
+      "url": "https://open.spotify.com/track/4Sr6N2pJXCb5VjdknAjblG"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "Spoonfed",
-        "url": "https://open.spotify.com/album/4eMIxtrxlRZjJtKnHBWcyg"
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/6nZ6CzN8H527SATBg4wqoP"
       },
       "artists": [
         {
-          "name": "Hala",
-          "url": "https://open.spotify.com/artist/1dTBAtLZBUB8Ir4PmJYw9t"
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
         }
       ],
-      "duration_ms": 230546,
-      "name": "What Is Love? Tell Me, Is It Easy?",
-      "url": "https://open.spotify.com/track/4Sr6N2pJXCb5VjdknAjblG"
+      "duration_ms": 156381,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/5FcK65jGaIPzdIUB9asktp"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1183,38 +1183,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "Her and All of My Friends",
-        "url": "https://open.spotify.com/album/0TeYGtUrx1OcGrP8uT3gtK"
-      },
-      "artists": [
-        {
-          "name": "Ritt Momney",
-          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
-        }
-      ],
-      "duration_ms": 179748,
-      "name": "Wormwood",
-      "url": "https://open.spotify.com/track/3W89enABhR4P2BFYvARctH"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
-        "name": "PLEASURES",
-        "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
-      },
-      "artists": [
-        {
-          "name": "ADOY",
-          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "With Somebody",
         "url": "https://open.spotify.com/album/5FCsvzNZ50iU6eKUvWLBNu"
       },
@@ -1227,6 +1195,22 @@
       "duration_ms": 204160,
       "name": "With Somebody",
       "url": "https://open.spotify.com/track/2pxjnQcQ2fNje67977QI0f"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
+        "name": "Her and All of My Friends",
+        "url": "https://open.spotify.com/album/0TeYGtUrx1OcGrP8uT3gtK"
+      },
+      "artists": [
+        {
+          "name": "Ritt Momney",
+          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
+        }
+      ],
+      "duration_ms": 179748,
+      "name": "Wormwood",
+      "url": "https://open.spotify.com/track/3W89enABhR4P2BFYvARctH"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
+        "name": "PLEASURES",
+        "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
+      },
+      "artists": [
+        {
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
         "name": "Baby Baby",
         "url": "https://open.spotify.com/album/1hBfaUAmlC3S1IOH67Vly9"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "Robes",
-        "url": "https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy"
-      },
-      "artists": [
-        {
-          "name": "Ricky Gourmet",
-          "url": "https://open.spotify.com/artist/0Q4wGWyoRtJmgRaQJYNtbg"
-        }
-      ],
-      "duration_ms": 187432,
-      "name": "Robes",
-      "url": "https://open.spotify.com/track/1qD1cw9NSca7RMNwOKcpWA"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 277312,
       "name": "East Coast",
       "url": "https://open.spotify.com/track/00GXITN3KudnqcJgkwXRrh"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
+        "name": "Robes",
+        "url": "https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy"
+      },
+      "artists": [
+        {
+          "name": "Ricky Gourmet",
+          "url": "https://open.spotify.com/artist/0Q4wGWyoRtJmgRaQJYNtbg"
+        }
+      ],
+      "duration_ms": 187432,
+      "name": "Robes",
+      "url": "https://open.spotify.com/track/1qD1cw9NSca7RMNwOKcpWA"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
+        "name": "Saviour Complex",
+        "url": "https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1"
+      },
+      "artists": [
+        {
+          "name": "Yellow House",
+          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Saviour Complex",
+      "url": "https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
         "name": "Warmer",
         "url": "https://open.spotify.com/album/2opDURU1h6QFzIGYDFGOyA"
       },
@@ -1459,22 +1475,6 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "Saviour Complex",
-        "url": "https://open.spotify.com/album/0o8UXLj1ZRLUTXVeCIh0V1"
-      },
-      "artists": [
-        {
-          "name": "Yellow House",
-          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Saviour Complex",
-      "url": "https://open.spotify.com/track/1j2ULumv0PlrpUXvoBsb4G"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
         "name": "love & doubt",
         "url": "https://open.spotify.com/album/1EaMmtRSymGiffaNBKxIYb"
       },
@@ -1487,22 +1487,6 @@
       "duration_ms": 175280,
       "name": "love & doubt",
       "url": "https://open.spotify.com/track/7pFeq7Itvy8BM68NIu5VUZ"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
-        "name": "Floating Sun",
-        "url": "https://open.spotify.com/album/6zHqfxThvhCt7dV0xdgnmb"
-      },
-      "artists": [
-        {
-          "name": "Froogle",
-          "url": "https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso"
-        }
-      ],
-      "duration_ms": 146823,
-      "name": "Floating Sun",
-      "url": "https://open.spotify.com/track/3t0xEA4jxxiDNdUOo2Ri7x"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1523,6 +1507,22 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
+        "name": "Liquid Sunshine EP",
+        "url": "https://open.spotify.com/album/426V1QEmGVI8bI2nuFoVk6"
+      },
+      "artists": [
+        {
+          "name": "Devan",
+          "url": "https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2"
+        }
+      ],
+      "duration_ms": 145718,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/5C5kyJAAl8LNBg61hIjmUe"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
         "name": "Catching Rabbits",
         "url": "https://open.spotify.com/album/2OZngTNbmegPhnUPITvkTy"
       },
@@ -1535,6 +1535,22 @@
       "duration_ms": 175317,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/4XzChVB9r1xBGegWWpzzSh"
+    },
+    {
+      "added_at": "2023-09-29 19:35:30",
+      "album": {
+        "name": "Floating Sun",
+        "url": "https://open.spotify.com/album/6zHqfxThvhCt7dV0xdgnmb"
+      },
+      "artists": [
+        {
+          "name": "Froogle",
+          "url": "https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso"
+        }
+      ],
+      "duration_ms": 146823,
+      "name": "Floating Sun",
+      "url": "https://open.spotify.com/track/3t0xEA4jxxiDNdUOo2Ri7x"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1555,34 +1571,18 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "What Happens In Your Head?",
-        "url": "https://open.spotify.com/album/7wjvbNdWmNkdyYy5FSfi5O"
+        "name": "What You Do To Me",
+        "url": "https://open.spotify.com/album/3P2eHCVYVyfzYRlmG5I2qO"
       },
       "artists": [
         {
-          "name": "MOSSS",
-          "url": "https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey"
+          "name": "Blanks",
+          "url": "https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF"
         }
       ],
-      "duration_ms": 214243,
-      "name": "What Happens In Your Head?",
-      "url": "https://open.spotify.com/track/4wzVFbvPQB9Rz24NqkoWgQ"
-    },
-    {
-      "added_at": "2023-09-29 19:35:30",
-      "album": {
-        "name": "Liquid Sunshine EP",
-        "url": "https://open.spotify.com/album/426V1QEmGVI8bI2nuFoVk6"
-      },
-      "artists": [
-        {
-          "name": "Devan",
-          "url": "https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2"
-        }
-      ],
-      "duration_ms": 145718,
-      "name": "Feel Better",
-      "url": "https://open.spotify.com/track/5C5kyJAAl8LNBg61hIjmUe"
+      "duration_ms": 196868,
+      "name": "What You Do To Me",
+      "url": "https://open.spotify.com/track/0QuQCTJL4UXkDx111mXrbL"
     },
     {
       "added_at": "2023-09-29 19:35:30",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-09-29 19:35:30",
       "album": {
-        "name": "What You Do To Me",
-        "url": "https://open.spotify.com/album/3P2eHCVYVyfzYRlmG5I2qO"
+        "name": "What Happens In Your Head?",
+        "url": "https://open.spotify.com/album/7wjvbNdWmNkdyYy5FSfi5O"
       },
       "artists": [
         {
-          "name": "Blanks",
-          "url": "https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF"
+          "name": "MOSSS",
+          "url": "https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey"
         }
       ],
-      "duration_ms": 196868,
-      "name": "What You Do To Me",
-      "url": "https://open.spotify.com/track/0QuQCTJL4UXkDx111mXrbL"
+      "duration_ms": 214243,
+      "name": "What Happens In Your Head?",
+      "url": "https://open.spotify.com/track/4wzVFbvPQB9Rz24NqkoWgQ"
     },
     {
       "added_at": "2023-09-29 19:35:30",

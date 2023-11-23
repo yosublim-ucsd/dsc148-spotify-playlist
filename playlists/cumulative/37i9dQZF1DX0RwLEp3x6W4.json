@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Bluegrass Collection",
+        "url": "https://open.spotify.com/album/0sNJxbeInhCu3q0xJG8JKc"
+      },
+      "artists": [
+        {
+          "name": "The Osborne Brothers",
+          "url": "https://open.spotify.com/artist/6gM87haEMrst4Eqdobf98c"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190066,
+      "name": "Blue Ridge Cabin Home",
+      "url": "https://open.spotify.com/track/1Lw8GLJX0va0dCP4UnPICt"
+    },
+    {
+      "album": {
         "name": "Columbia Historic Edition",
         "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
       },

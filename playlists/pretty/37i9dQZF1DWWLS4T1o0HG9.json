@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 80s. Cover: The Go-Go's",
-  "num_followers": 234893,
+  "num_followers": 235134,
   "original_name": "80s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGFkMzg2ZGUyNmRjOGYyOGIwYmRkMTFkZDg3M2U4NTI0NjY4Y2M3",
+  "snapshot_id": "MCwwNjBhMDIwY2Y4YWQ2ZjU0MDY5ZDUxNjg4MWFjMjM1ODg1OTViMjll",
   "tracks": [
     {
       "added_at": "2023-01-18 21:24:22",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 212226,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
         "name": "Let's Dance (2018 Remaster)",
         "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 457675,
       "name": "Let's Dance - 2018 Remaster",
       "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
     },
     {
       "added_at": "2023-01-18 21:24:22",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-01-18 21:24:22",
       "album": {
-        "name": "Brotherhood (Collector's Edition)",
-        "url": "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu"
-      },
-      "artists": [
-        {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        }
-      ],
-      "duration_ms": 263213,
-      "name": "Bizarre Love Triangle",
-      "url": "https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR"
-    },
-    {
-      "added_at": "2023-01-18 21:24:22",
-      "album": {
         "name": "An Innocent Man",
         "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 217906,
       "name": "The Longest Time",
       "url": "https://open.spotify.com/track/5DH7nDryMhpixm4G4B7RP9"
+    },
+    {
+      "added_at": "2023-01-18 21:24:22",
+      "album": {
+        "name": "Brotherhood (Collector's Edition)",
+        "url": "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 263213,
+      "name": "Bizarre Love Triangle",
+      "url": "https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR"
     },
     {
       "added_at": "2023-01-18 21:24:22",

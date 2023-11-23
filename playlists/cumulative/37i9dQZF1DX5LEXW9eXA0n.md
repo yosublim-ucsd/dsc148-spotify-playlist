@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover:DAVICHI\(다비치\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,094 songs - 2 day 22 hr 51 min
+1,098 songs - 2 day 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,6 +477,7 @@
 | [It's love](https://open.spotify.com/track/2V39IroCENdZjsgL3hcFfe) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [It's love](https://open.spotify.com/album/1vWyjDV4yPgghl7qB7UHKR) | 4:16 | 2022-03-29 | 2022-04-11 |
 | [It's love that I missed even the pain](https://open.spotify.com/track/1tlgpCAaywWUQVTEjYCDoU) | [Yeon Kyoo Seong](https://open.spotify.com/artist/0HuGdUxGEptCnucoZr32rH) | [It's love that I missed even the pain](https://open.spotify.com/album/3x62no3krQg9gByimPI8ql) | 3:34 | 2023-01-10 | 2023-02-25 |
 | [It's Not By You](https://open.spotify.com/track/6D2CBNy9dfynxT3fzHSS31) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [It's Not By You](https://open.spotify.com/album/2ShQW0ln6IiAiC2UGs3iXx) | 3:29 | 2023-06-22 | 2023-10-20 |
+| [It's okay](https://open.spotify.com/track/4B4Fi07IQMGEjvCFis7KTS) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [It's okay](https://open.spotify.com/album/74DHtTm05OxjkGVLUa4GjE) | 4:37 | 2023-11-22 |  |
 | [It's Okay If It's Dawn](https://open.spotify.com/track/7o8RDTHEkUpe8cnM05rdYW) | [LimJi](https://open.spotify.com/artist/07iBNkDjwUvp70cKJj3K6Z) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.26](https://open.spotify.com/album/4I5LlmyI6K0n6oC6JnzPZZ) | 3:33 | 2023-01-10 | 2023-02-25 |
 | [It's You](https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [Destined with You \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz) | 3:23 | 2023-08-24 | 2023-11-03 |
 | [It’s a day to say goodbye](https://open.spotify.com/track/4OPPOsgT4LOSwrGzs8paTp) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [It’s a day to say goodbye](https://open.spotify.com/album/017aEEelOtuBy22ROLHDH4) | 3:35 | 2023-09-18 |  |
@@ -692,6 +693,7 @@
 | [One More Time](https://open.spotify.com/track/0EjyI90qLsPr9CXO1kyjJQ) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 4:04 | 2022-06-15 | 2022-08-19 |
 | [ONE ROOM](https://open.spotify.com/track/6TeiNdpV8PMX4TAlf5fY4b) | [Lee Ki\-chan](https://open.spotify.com/artist/06lmDAKbe4tXjN9m7bRaQj) | [ONE ROOM](https://open.spotify.com/album/04EzWMvT1s3D2Q26JbDiKz) | 5:05 | 2021-12-23 | 2022-01-01 |
 | [One Small Day](https://open.spotify.com/track/0yWidm1JpKns67r0W3oTUc) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Welcome to the Kicako House 2](https://open.spotify.com/album/24cIjlP36dlt3XsERLqrrE) | 4:12 | 2023-01-10 | 2023-02-25 |
+| [Only](https://open.spotify.com/track/7li0cs7VNPzKTepvKWYHCf) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [When I stop thinking](https://open.spotify.com/album/5fYmB8cdgKh3GBzhXoDaLw) | 4:59 | 2023-11-22 |  |
 | [Only luv](https://open.spotify.com/track/6fCL82Vvs0MuDHs9kQlLuC) | [shim you sun](https://open.spotify.com/artist/5rirhcZ4s2nAj2zcMzQbfy) | [Only luv](https://open.spotify.com/album/3yunARC1worGEjDVY3gb4I) | 4:32 | 2023-11-02 |  |
 | [Only One Person \(My love X Lee Hong Ki \(FTISLAND\)\)](https://open.spotify.com/track/3vZlTN0MeWV9DCYMfvny7d) | [Lee Hong Ki \(FTISLAND\)](https://open.spotify.com/artist/2uhdqkoAiPkJq5vkEQSlyE) | [Only One Person \(My love X Lee Hong Ki \(FTISLAND\)\)](https://open.spotify.com/album/134CLUvRAY02C9Z4KtTlXo) | 4:16 | 2023-07-17 | 2023-11-03 |
 | [Only Tears](https://open.spotify.com/track/3PPaHowjfMPcsImH4yK8cw) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [Only Tears](https://open.spotify.com/album/0HiwK44A6FNxVFpCy7yGBZ) | 4:46 | 2023-11-02 |  |
@@ -948,6 +950,7 @@
 | [Until I love the love](https://open.spotify.com/track/1Qv9rEY9i8E78NQ3xRsKbE) | [Choi junghoon of Jannabi](https://open.spotify.com/artist/3tYhkFMgzudLuw0ICWgnko) | [Until I love the love](https://open.spotify.com/album/4wOnyTSfHScSoCxq54NzVX) | 3:56 | 2022-04-21 | 2022-04-24 |
 | [Until The End](https://open.spotify.com/track/5ywcBaGtUM4WmAuew0SrYF) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Until The End](https://open.spotify.com/album/3nttddhDLwta0CfJN5RUjI) | 4:08 | 2022-07-07 | 2022-08-13 |
 | [Untitled](https://open.spotify.com/track/7qoNik0g1HwjxPlIXkXoAD) | [DOHU](https://open.spotify.com/artist/2R1wgdbaWY2KJG9xLWJ2Vh) | [Untitled](https://open.spotify.com/album/2sgztJsIjPUwd6qWA5qw3E) | 3:22 | 2022-11-03 | 2023-01-21 |
+| [Voyage](https://open.spotify.com/track/3NAHK3gLOVmkOVoSmMJvOu) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [CASTAWAY DIVA OST Part.8](https://open.spotify.com/album/5nV389t1fA2IIlIxflp4EK) | 4:14 | 2023-11-22 |  |
 | [Waiting all day](https://open.spotify.com/track/0LaQ4W4RqpdUn7WQxsT5ys) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [Waiting all day](https://open.spotify.com/album/3xSW8rCfLopuPonyzj9RgJ) | 4:40 | 2023-10-11 |  |
 | [Waiting for Spring](https://open.spotify.com/track/2V19urBSfuZu7k8THUpFa3) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [bimil:ier vol.2 "Waiting for Spring"](https://open.spotify.com/album/160i9qiaCyfd8l5YzjYMIY) | 3:21 | 2022-01-14 | 2022-06-11 |
 | [Waiting Fou You](https://open.spotify.com/track/1TWjbxRYeG0BF6TL8rVpAT) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Waiting Fou You \(CURTAIN CALL OST Part.1\)](https://open.spotify.com/album/3XwhlL7dKkT3PaTBlqLRZf) | 4:06 | 2022-11-01 | 2022-12-28 |
@@ -1085,6 +1088,7 @@
 | [사랑합니다...](https://open.spotify.com/track/4t1DWpmfKVCv4ValVniwfc) | [Tim](https://open.spotify.com/artist/1H0rJYjO99jtsKOtaXmYTY) | [영민](https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF) | 3:48 | 2023-05-05 | 2023-05-16 |
 | [아낌없이 주고 싶어](https://open.spotify.com/track/2D3o4ROlfkUE4NOBriN97p) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Themselves OST Chapter\. 3 \(Soundtrack\)](https://open.spotify.com/album/2E46TGiCyxX5W2xVtcg1LP) | 4:25 | 2022-12-27 | 2023-02-25 |
 | [안개 속 어디로](https://open.spotify.com/track/6EzhxjPONekJoXQbe2u7W0) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [왜 오수재인가 \(Original Television Soundtrack\) Pt.6](https://open.spotify.com/album/0RbcfAVkoy1nKigpkLmUaC) | 3:51 | 2022-08-01 | 2022-11-02 |
+| [알지 못하는 너에게](https://open.spotify.com/track/3lCdUc9VIBKL527AS3xerq) | [KIM DO HEE](https://open.spotify.com/artist/2u6Q4aqOAeDYSUUwKYo8r4) | [알지 못하는 너에게](https://open.spotify.com/album/4RS2Q5NXRVOrApadj2If3l) | 3:42 | 2023-11-22 |  |
 | [어디선가 나처럼 이 노랠 듣고 있을 너에게](https://open.spotify.com/track/1WXhJfb1BXQbaxQzVdS1zD) | [J\-Cera](https://open.spotify.com/artist/3MhLDkENRwJOmFU5MSeLjZ) | [어디선가 나처럼 이 노랠 듣고 있을 너에게](https://open.spotify.com/album/6E7urCzpXOlGAu71563txg) | 4:24 | 2023-04-08 | 2023-08-25 |
 | [우리 둘만의 영화가](https://open.spotify.com/track/4WznValRfibE40XCfrR64W) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [A movie just between us](https://open.spotify.com/album/61Anwyk3urEQ5RNz8NE7Te) | 3:44 | 2023-07-17 | 2023-10-28 |
 | [이렇게 지금](https://open.spotify.com/track/0S3pZ3ihAbPiB0qr1lodFX) | [RUNY](https://open.spotify.com/artist/3Gqep11q40qGtYbAWy20t8) | [황금가면 \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/4GyBq0xnIoHvbRWK2Zlq3L) | 3:57 | 2022-07-26 | 2022-10-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Charlotte Sands
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,934 likes - 51 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,174 likes - 51 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 50 | [Get Over](https://open.spotify.com/track/5pvksr9GzU4VVRCjckY2zq) | [Sloww](https://open.spotify.com/artist/1wEhZJ2uOgx8CLud1H4XBk) | [Get Over](https://open.spotify.com/album/2t5JTvKhXebh2X6WSwim44) | 3:13 |
 | 51 | [The Girl Sleeping Next to Me](https://open.spotify.com/track/2NZfckfF2jzReopBG88UOB) | [The Singer is Dead](https://open.spotify.com/artist/21bN775otWRD0ldHpVqXHK) | [The Girl Sleeping Next to Me](https://open.spotify.com/album/7D4fnijlgPVFdVn5zfMChZ) | 6:11 |
 
-Snapshot ID: `MCxhYmFkMjE3OGFlNDMyMTJhOGU1ZGUxZTkyYTcxOWJlMDViZjJlYzgy`
+Snapshot ID: `MCw4MGY2NWQyOTA0ZDViYTJjMGNhY2M5MDJiZDAxNGRiYTdhYjg3YTBk`

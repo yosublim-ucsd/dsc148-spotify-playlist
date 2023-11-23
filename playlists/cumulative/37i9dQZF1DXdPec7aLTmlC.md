@@ -4,7 +4,7 @@
 
 > Hits to boost your mood and fill you with happiness!
 
-757 songs - 1 day 16 hr 0 min
+758 songs - 1 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Electricity \(with Dua Lipa\)](https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Electricity \(with Dua Lipa\)](https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7) | 3:58 | 2019-12-12 | 2020-06-29 |
 | [End of Time](https://open.spotify.com/track/67O8CWXxPsfz8orZVGMQwf) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ahrix](https://open.spotify.com/artist/0kXCdaJ7C5MD27jXxzvHsa) | [End of Time](https://open.spotify.com/album/03tk4zBML1lvnm5xrjnJFl) | 3:07 | 2020-06-12 | 2020-06-19 |
 | [Everything But You \(feat\. A7S\)](https://open.spotify.com/track/2wVQcA1YCuGL6EW0QbgVoV) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Everything But You \(feat\. A7S\)](https://open.spotify.com/album/0pRwjoHpYyvVuf6cF3shYg) | 3:18 | 2022-02-17 | 2022-07-29 |
+| [exes](https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [exes](https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH) | 2:39 | 2023-11-21 |  |
 | [EXTRA FR!ES](https://open.spotify.com/track/5JfXI7NmMyak0lAzCTbVUw) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [EXTRA FR!ES](https://open.spotify.com/album/7J9nP67J4hULMaGGrYdOUu) | 2:50 | 2019-10-18 | 2020-05-26 |
 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2022-11-18 | 2023-07-09 |
 | [F Is For Friends \(with Becky G & Tainy\) \- Music From "Sponge On The Run" Movie](https://open.spotify.com/track/4OdWosI4ngItG5hn1EIZos) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [The SpongeBob Movie: Sponge On The Run \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7) | 2:51 | 2021-03-06 | 2021-05-21 |
@@ -312,7 +313,7 @@
 | [Holiday](https://open.spotify.com/track/3G2omDJ5ZGYSiJV3UOOPw0) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z) | [Holiday](https://open.spotify.com/album/40jLpWdeDFnV2ir6Su8HGT) | 3:13 | 2021-06-23 | 2022-04-14 |
 | [Holiday](https://open.spotify.com/track/44gz3bzhdcGUFgA5oc1wSu) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Holiday](https://open.spotify.com/album/1txD6fW07v5uxBJ6ueyXo2) | 3:33 | 2020-07-24 | 2021-02-06 |
 | [Holiday](https://open.spotify.com/track/4k6ktr10Hczmh55NY3LfJy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 6:08 | 2019-07-18 | 2019-08-09 |
-| [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy](https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS) | 3:32 | 2020-09-18 |  |
+| [Holy \(feat\. Chance The Rapper\)](https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Holy](https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS) | 3:32 | 2020-09-18 | 2023-11-23 |
 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2022-07-21 | 2023-11-11 |
 | [Hot In It \(feat\. Charli XCX\)](https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:09 | 2023-09-28 |  |
 | [Hot Stuff](https://open.spotify.com/track/00ETaeHUQ6lops3oWU1Wrt) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Hot Stuff](https://open.spotify.com/album/6t95dMgjNYMtwXTKlISI42) | 3:19 | 2020-09-18 | 2022-04-20 |

@@ -4,7 +4,7 @@
 
 > Our editors’ picks for the best of R&B in Canada in 2022\. Cover: dvsn \#SpotifyWrapped
 
-206 songs - 11 hr 46 min
+207 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,8 @@
 | [No Fuss](https://open.spotify.com/track/7BAreLM0Yif723pgS8Kydl) | [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [No Fuss](https://open.spotify.com/album/2HEjp4r9NGBGLtXxk5TxsA) | 3:10 | 2022-11-30 |  |
 | [No Love \(with SZA\)](https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:51 | 2021-12-09 | 2022-12-01 |
 | [Nobody But You](https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Nobody But You](https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7) | 3:33 | 2021-12-09 | 2022-12-01 |
-| [Nothing Even Matters](https://open.spotify.com/track/1pJsmr01tzKnFfjeCvzcdc) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Nothing Even Matters](https://open.spotify.com/album/6r5e7Kryn9PUFiwofr19K0) | 3:39 | 2022-11-30 |  |
+| [Nothing Even Matters](https://open.spotify.com/track/1pJsmr01tzKnFfjeCvzcdc) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Nothing Even Matters](https://open.spotify.com/album/6r5e7Kryn9PUFiwofr19K0) | 3:39 | 2022-11-30 | 2023-11-23 |
+| [Nothing Even Matters](https://open.spotify.com/track/6J0UG6nhMQUDV3h0Tnds5k) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Nothing Even Matters](https://open.spotify.com/album/6SkRYiDjvd9qqQZKIPUj8J) | 3:39 | 2022-11-30 |  |
 | [Nothing Feels Better](https://open.spotify.com/track/1VhGRC4yzcDFBM4yQSpUGg) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Pink Moon](https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1) | 2:37 | 2022-11-30 |  |
 | [Nothing Feels Better](https://open.spotify.com/track/5tmxPmmXvgJPU7bIukFX8p) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Nothing Feels Better](https://open.spotify.com/album/3Pm0LABzgq730cCRhayUTw) | 2:37 | 2021-12-09 | 2022-12-01 |
 | [Nova](https://open.spotify.com/track/0n1JxQTqtzezc6y6sDLzuT) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Nova](https://open.spotify.com/album/1fTBfblP2agHA345cRJmX6) | 3:25 | 2021-12-09 | 2022-12-01 |

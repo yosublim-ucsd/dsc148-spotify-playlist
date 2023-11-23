@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1534434,
+  "num_followers": 1534615,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzI4YThjMTk3NzdlNjc4YzI5YWNkYTI2OWYxMDY4Y2ZkZjRkMGU4",
+  "snapshot_id": "MCw4NTc2MjA1MmEzNjFlYThiMGRiZmYyNTQ5N2EwMmViZDcyNGVlOTYx",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "I Need You (Adriatique Remix)",
-        "url": "https://open.spotify.com/album/5xoWT0xsoV2jQ5wFvLUEfN"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
-        }
-      ],
-      "duration_ms": 291304,
-      "name": "I Need You - Adriatique Remix",
-      "url": "https://open.spotify.com/track/4RfOBweHWhbKwFDqIsuxdY"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Turning Away",
         "url": "https://open.spotify.com/album/5AbK8i6n3jcVRAdjeFQS2c"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 244543,
       "name": "Turning Away",
       "url": "https://open.spotify.com/track/5CAcrDVbEhc64A5sHqO5Md"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "I Need You (Adriatique Remix)",
+        "url": "https://open.spotify.com/album/5xoWT0xsoV2jQ5wFvLUEfN"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "duration_ms": 291304,
+      "name": "I Need You - Adriatique Remix",
+      "url": "https://open.spotify.com/track/4RfOBweHWhbKwFDqIsuxdY"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1447,26 +1447,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Skyscrapers (Hi-Lo Remix)",
-        "url": "https://open.spotify.com/album/5jhAOb0JdrZjlbfEl6BVPS"
+        "name": "Fall Again",
+        "url": "https://open.spotify.com/album/4Lgy6GaK2eR2QwOyoDeDg0"
       },
       "artists": [
         {
-          "name": "Nina Kraviz",
-          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
-        },
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
         }
       ],
-      "duration_ms": 296368,
-      "name": "Skyscrapers - Hi-Lo Remix",
-      "url": "https://open.spotify.com/track/2g95XDCx4GqcaJPv7TTk8C"
+      "duration_ms": 206794,
+      "name": "Fall Again",
+      "url": "https://open.spotify.com/track/3oOvEw1pgxMtrQMNgPWQHL"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1491,6 +1483,30 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Skyscrapers (Hi-Lo Remix)",
+        "url": "https://open.spotify.com/album/5jhAOb0JdrZjlbfEl6BVPS"
+      },
+      "artists": [
+        {
+          "name": "Nina Kraviz",
+          "url": "https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE"
+        },
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 296368,
+      "name": "Skyscrapers - Hi-Lo Remix",
+      "url": "https://open.spotify.com/track/2g95XDCx4GqcaJPv7TTk8C"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Twisted Reality (Edit)",
         "url": "https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 207360,
       "name": "Twisted Reality - Edit",
       "url": "https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Fall Again",
-        "url": "https://open.spotify.com/album/4Lgy6GaK2eR2QwOyoDeDg0"
-      },
-      "artists": [
-        {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 206794,
-      "name": "Fall Again",
-      "url": "https://open.spotify.com/track/3oOvEw1pgxMtrQMNgPWQHL"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "The Maker",
-        "url": "https://open.spotify.com/album/3iXFPnNVizKfo1pUerR7Md"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
-        },
-        {
-          "name": "Notelle",
-          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
-        }
-      ],
-      "duration_ms": 156795,
-      "name": "The Maker",
-      "url": "https://open.spotify.com/track/4EKzntRiyE131lB2swX5TU"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "To the Sea",
         "url": "https://open.spotify.com/album/06S6sPT6DP3ho0h0MkLbzm"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 452000,
       "name": "To the Sea - Einmusik Remix",
       "url": "https://open.spotify.com/track/6yCjfTARifCLjtZ611DWvA"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "The Maker",
+        "url": "https://open.spotify.com/album/3iXFPnNVizKfo1pUerR7Md"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        },
+        {
+          "name": "Notelle",
+          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
+        }
+      ],
+      "duration_ms": 156795,
+      "name": "The Maker",
+      "url": "https://open.spotify.com/track/4EKzntRiyE131lB2swX5TU"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1791,26 +1791,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Not Over Yet (feat. Grace Grundy)",
-        "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
-      },
-      "artists": [
-        {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-        },
-        {
-          "name": "Grace Grundy",
-          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "Not Over Yet (feat. Grace Grundy)",
-      "url": "https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Elements Of A New Life",
         "url": "https://open.spotify.com/album/47c6Wt8ZJP39IEhtn8JzTd"
       },
@@ -1827,6 +1807,26 @@
       "duration_ms": 205161,
       "name": "Elements Of A New Life",
       "url": "https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Not Over Yet (feat. Grace Grundy)",
+        "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
+      },
+      "artists": [
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        },
+        {
+          "name": "Grace Grundy",
+          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "Not Over Yet (feat. Grace Grundy)",
+      "url": "https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 326929,
+      "name": "Flame - Edit",
+      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Should Have Seen It Coming",
         "url": "https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa"
       },
@@ -1967,18 +1983,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
+        "name": "Elamy",
+        "url": "https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6"
       },
       "artists": [
         {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
         }
       ],
-      "duration_ms": 326929,
-      "name": "Flame - Edit",
-      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
+      "duration_ms": 278400,
+      "name": "Elamy",
+      "url": "https://open.spotify.com/track/6jdaBz780wecXanS9elu68"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2003,22 +2019,6 @@
       "duration_ms": 259351,
       "name": "Desire (with Sam Smith) - Cedric Gervais Festival Mix",
       "url": "https://open.spotify.com/track/4E03xcSx0FZOfzEeTdcmRc"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Elamy",
-        "url": "https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "Elamy",
-      "url": "https://open.spotify.com/track/6jdaBz780wecXanS9elu68"
     },
     {
       "added_at": "2023-11-17 05:00:00",

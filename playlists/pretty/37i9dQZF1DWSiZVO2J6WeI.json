@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic bliss.",
-  "num_followers": 776980,
+  "num_followers": 777013,
   "original_name": "Dreamy Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWQ0Zjc3MGNiZWVkMjQ2NTU1ZGE4OGE5MWEzMDYwNmVlYTY0OTk1",
+  "snapshot_id": "MCxhYjYxNjA0MjRhMDM2YzcyY2I2OWFiZjBiZWJkMzU2YWRjODMyY2U3",
   "tracks": [
     {
       "added_at": "2023-10-13 00:01:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Spirituale",
-        "url": "https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO"
-      },
-      "artists": [
-        {
-          "name": "Constantine Lupo",
-          "url": "https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn"
-        }
-      ],
-      "duration_ms": 193777,
-      "name": "Insieme",
-      "url": "https://open.spotify.com/track/2FjdJ4hXRC6rrKD1zNGHqZ"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Dr\u00f8mme",
         "url": "https://open.spotify.com/album/3D9tYGhMOv7qrgs7lBAJQf"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 132427,
       "name": "Dr\u00f8mme",
       "url": "https://open.spotify.com/track/2QjHg0IKNKgURtYuRaOSVh"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Spirituale",
+        "url": "https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO"
+      },
+      "artists": [
+        {
+          "name": "Constantine Lupo",
+          "url": "https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn"
+        }
+      ],
+      "duration_ms": 193777,
+      "name": "Insieme",
+      "url": "https://open.spotify.com/track/2FjdJ4hXRC6rrKD1zNGHqZ"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Revolve",
-        "url": "https://open.spotify.com/album/5x1eSN3IFw7QEbT9sm44w2"
-      },
-      "artists": [
-        {
-          "name": "Sleepless Eye",
-          "url": "https://open.spotify.com/artist/0q1jgFxjleKLegFYRiyPxS"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Revolve",
-      "url": "https://open.spotify.com/track/0X33Oo6yg2qlTsrFiH1qta"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Gemoedsrust",
         "url": "https://open.spotify.com/album/5zaZLYq9V194ekStDoTBNC"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 137142,
       "name": "Gemoedsrust",
       "url": "https://open.spotify.com/track/6dHg2I0Gs22X3WY4ii1cAS"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Revolve",
+        "url": "https://open.spotify.com/album/5x1eSN3IFw7QEbT9sm44w2"
+      },
+      "artists": [
+        {
+          "name": "Sleepless Eye",
+          "url": "https://open.spotify.com/artist/0q1jgFxjleKLegFYRiyPxS"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Revolve",
+      "url": "https://open.spotify.com/track/0X33Oo6yg2qlTsrFiH1qta"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Peripateo",
-        "url": "https://open.spotify.com/album/0IQFwbUk5gJin6nQGMJPWz"
-      },
-      "artists": [
-        {
-          "name": "For The Lost",
-          "url": "https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ"
-        }
-      ],
-      "duration_ms": 193162,
-      "name": "Peripateo",
-      "url": "https://open.spotify.com/track/3Jsht2hQ08RWncvgXaFpcp"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Desiderio",
         "url": "https://open.spotify.com/album/3sN0qF9BHNIrLSN2Z0IWYk"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 206500,
       "name": "Desiderio",
       "url": "https://open.spotify.com/track/0wOCx6BAKo9ZSpejgL8C2Y"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Peripateo",
+        "url": "https://open.spotify.com/album/0IQFwbUk5gJin6nQGMJPWz"
+      },
+      "artists": [
+        {
+          "name": "For The Lost",
+          "url": "https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ"
+        }
+      ],
+      "duration_ms": 193162,
+      "name": "Peripateo",
+      "url": "https://open.spotify.com/track/3Jsht2hQ08RWncvgXaFpcp"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Breathe In Life",
+        "url": "https://open.spotify.com/album/6tmwkDjL7V66iC4cROQKOr"
+      },
+      "artists": [
+        {
+          "name": "Now & Anatma",
+          "url": "https://open.spotify.com/artist/6RJUE6sgw2xb5nVYXhKxE9"
+        }
+      ],
+      "duration_ms": 134750,
+      "name": "Breathe In Life",
+      "url": "https://open.spotify.com/track/4HC6IEkrv8jhBBse3tcQHH"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Everything is Different",
         "url": "https://open.spotify.com/album/4mPGHru1buIU18RXBhJbzX"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Breathe In Life",
-        "url": "https://open.spotify.com/album/6tmwkDjL7V66iC4cROQKOr"
-      },
-      "artists": [
-        {
-          "name": "Now & Anatma",
-          "url": "https://open.spotify.com/artist/6RJUE6sgw2xb5nVYXhKxE9"
-        }
-      ],
-      "duration_ms": 134750,
-      "name": "Breathe In Life",
-      "url": "https://open.spotify.com/track/4HC6IEkrv8jhBBse3tcQHH"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Make It Last",
         "url": "https://open.spotify.com/album/0vQymbxDgCdBXGuwVtUsH2"
       },
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Ich W\u00fcnsche",
-        "url": "https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA"
-      },
-      "artists": [
-        {
-          "name": "Nils Schreiber",
-          "url": "https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl"
-        }
-      ],
-      "duration_ms": 179727,
-      "name": "Unendlich",
-      "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Stay Safe",
         "url": "https://open.spotify.com/album/6D3qaysSHYi8dvpwslqB9A"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 212000,
       "name": "Gold Coast Australia",
       "url": "https://open.spotify.com/track/6BNTFiV9i392ZnBLp4gpC2"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Ich W\u00fcnsche",
+        "url": "https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA"
+      },
+      "artists": [
+        {
+          "name": "Nils Schreiber",
+          "url": "https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl"
+        }
+      ],
+      "duration_ms": 179727,
+      "name": "Unendlich",
+      "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/70FUCWJ79m4CS4zihjWmro"
-      },
-      "artists": [
-        {
-          "name": "Studio Tranquilo",
-          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
-        }
-      ],
-      "duration_ms": 153962,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/555LtwRZ3fc00jnQSGOd0q"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Zenith",
         "url": "https://open.spotify.com/album/63Jrpo23ArGvLOU0CnJykQ"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 181770,
       "name": "Zenith",
       "url": "https://open.spotify.com/track/5ewt0YJYj6aDSurpOEdc9i"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/70FUCWJ79m4CS4zihjWmro"
+      },
+      "artists": [
+        {
+          "name": "Studio Tranquilo",
+          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
+        }
+      ],
+      "duration_ms": 153962,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/555LtwRZ3fc00jnQSGOd0q"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "What If",
-        "url": "https://open.spotify.com/album/7iM2s8IjqntNzimnJ0bFgq"
-      },
-      "artists": [
-        {
-          "name": "Leon Browder",
-          "url": "https://open.spotify.com/artist/4BkBZBE6plYlbXWuxSLeWH"
-        }
-      ],
-      "duration_ms": 240527,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/3Y1uYjKIPFZ4PBNOYkTFqR"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "396 Hz Peace and Tranquility",
         "url": "https://open.spotify.com/album/4Kjc4r0y8SfRfseDfOyXIo"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 181500,
       "name": "396 Hz Peace and Tranquility",
       "url": "https://open.spotify.com/track/4s3ba4kPr3fPcCCUuwSf32"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "What If",
+        "url": "https://open.spotify.com/album/7iM2s8IjqntNzimnJ0bFgq"
+      },
+      "artists": [
+        {
+          "name": "Leon Browder",
+          "url": "https://open.spotify.com/artist/4BkBZBE6plYlbXWuxSLeWH"
+        }
+      ],
+      "duration_ms": 240527,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/3Y1uYjKIPFZ4PBNOYkTFqR"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Moonchild's First Flight",
-        "url": "https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc"
-      },
-      "artists": [
-        {
-          "name": "Amos Stremann",
-          "url": "https://open.spotify.com/artist/3bG8t8K1zUVkhWwUHMO6yV"
-        }
-      ],
-      "duration_ms": 172372,
-      "name": "Moonchild's First Flight",
-      "url": "https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Rugare",
         "url": "https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 188691,
       "name": "Rugare",
       "url": "https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Moonchild's First Flight",
+        "url": "https://open.spotify.com/album/7IuYVLETfUDeaLNUjy0yjc"
+      },
+      "artists": [
+        {
+          "name": "Amos Stremann",
+          "url": "https://open.spotify.com/artist/3bG8t8K1zUVkhWwUHMO6yV"
+        }
+      ],
+      "duration_ms": 172372,
+      "name": "Moonchild's First Flight",
+      "url": "https://open.spotify.com/track/1IX7UbfRE92CznRFY5a011"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Calm Constellation",
-        "url": "https://open.spotify.com/album/6f5aCBvmIRyqGnPp4TBWqz"
-      },
-      "artists": [
-        {
-          "name": "Sophie Jordan",
-          "url": "https://open.spotify.com/artist/0ELcJtf6GlKRO4lF27W57K"
-        }
-      ],
-      "duration_ms": 240741,
-      "name": "Double Star",
-      "url": "https://open.spotify.com/track/4CAp39QFkWYkLWwMCr0dod"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Collide",
         "url": "https://open.spotify.com/album/1OeaLoXQqjva3gV0HcH9cx"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 193636,
       "name": "Collide",
       "url": "https://open.spotify.com/track/2QrdvFIYMJtrAOXYaQi4vZ"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Calm Constellation",
+        "url": "https://open.spotify.com/album/6f5aCBvmIRyqGnPp4TBWqz"
+      },
+      "artists": [
+        {
+          "name": "Sophie Jordan",
+          "url": "https://open.spotify.com/artist/0ELcJtf6GlKRO4lF27W57K"
+        }
+      ],
+      "duration_ms": 240741,
+      "name": "Double Star",
+      "url": "https://open.spotify.com/track/4CAp39QFkWYkLWwMCr0dod"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Obelus",
-        "url": "https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b"
-      },
-      "artists": [
-        {
-          "name": "Jin Eun-Kyung",
-          "url": "https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y"
-        }
-      ],
-      "duration_ms": 203728,
-      "name": "Frozen In Time",
-      "url": "https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "396 Hz Sleep and Rest Frequencies",
         "url": "https://open.spotify.com/album/7lslmhseWYQFmtzvyoeErL"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 190800,
       "name": "396 Hz Breathe Deeply",
       "url": "https://open.spotify.com/track/5fHv6nk5URUA3UIzFpw0CA"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Obelus",
+        "url": "https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b"
+      },
+      "artists": [
+        {
+          "name": "Jin Eun-Kyung",
+          "url": "https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y"
+        }
+      ],
+      "duration_ms": 203728,
+      "name": "Frozen In Time",
+      "url": "https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Peaceful Drones",
-        "url": "https://open.spotify.com/album/3MmpFmPLWVAb52EVPwxqx5"
-      },
-      "artists": [
-        {
-          "name": "Belgravia",
-          "url": "https://open.spotify.com/artist/1TCHpEVHoqVlWQIJXz5oEP"
-        }
-      ],
-      "duration_ms": 172069,
-      "name": "Peaceful Drones",
-      "url": "https://open.spotify.com/track/1WBfurgMWL2sDqdXuXXXVw"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Vincible",
         "url": "https://open.spotify.com/album/2gElzA8obHtMwl3FlYLBQD"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 212000,
       "name": "Vincible",
       "url": "https://open.spotify.com/track/4oeOk10qaT2s2jR04dyiPT"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Peaceful Drones",
+        "url": "https://open.spotify.com/album/3MmpFmPLWVAb52EVPwxqx5"
+      },
+      "artists": [
+        {
+          "name": "Belgravia",
+          "url": "https://open.spotify.com/artist/1TCHpEVHoqVlWQIJXz5oEP"
+        }
+      ],
+      "duration_ms": 172069,
+      "name": "Peaceful Drones",
+      "url": "https://open.spotify.com/track/1WBfurgMWL2sDqdXuXXXVw"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Enlightened",
-        "url": "https://open.spotify.com/album/7AE9pKUnW5HGG11bqD5Ddu"
-      },
-      "artists": [
-        {
-          "name": "Atmospheric Lights",
-          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
-        }
-      ],
-      "duration_ms": 226250,
-      "name": "Enlightened",
-      "url": "https://open.spotify.com/track/2eOzs9ioq2suHpRsZgY0IF"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Compassion",
         "url": "https://open.spotify.com/album/2TIvzUtfG9bbDTN60kM15E"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 144166,
       "name": "Compassion",
       "url": "https://open.spotify.com/track/7dE78NM9rSNYkRWkj66QNT"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Enlightened",
+        "url": "https://open.spotify.com/album/7AE9pKUnW5HGG11bqD5Ddu"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+        }
+      ],
+      "duration_ms": 226250,
+      "name": "Enlightened",
+      "url": "https://open.spotify.com/track/2eOzs9ioq2suHpRsZgY0IF"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Understanding Yourself",
-        "url": "https://open.spotify.com/album/6QRXv3tItnPqmqwDeWStrZ"
-      },
-      "artists": [
-        {
-          "name": "Mikael Arvo",
-          "url": "https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C"
-        }
-      ],
-      "duration_ms": 228961,
-      "name": "Deep Contemplation",
-      "url": "https://open.spotify.com/track/4FmtDJ462G7hEWMbATTLLm"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "432 Hz Calm",
         "url": "https://open.spotify.com/album/3YOE3QpeQ1OrOxn1G1rqZp"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 176667,
       "name": "432 Hz Calm",
       "url": "https://open.spotify.com/track/2fKKLKOdbvoENYG2UG92vB"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Understanding Yourself",
+        "url": "https://open.spotify.com/album/6QRXv3tItnPqmqwDeWStrZ"
+      },
+      "artists": [
+        {
+          "name": "Mikael Arvo",
+          "url": "https://open.spotify.com/artist/2RlRTTL9u7o7tf8dGgb78C"
+        }
+      ],
+      "duration_ms": 228961,
+      "name": "Deep Contemplation",
+      "url": "https://open.spotify.com/track/4FmtDJ462G7hEWMbATTLLm"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Oblac\u030cno",
-        "url": "https://open.spotify.com/album/5TvXotn7BPEyVbHcT4n5uT"
-      },
-      "artists": [
-        {
-          "name": "Lois Haas",
-          "url": "https://open.spotify.com/artist/5PsdrzXdwCvCN2Hz6uc5K5"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Oblac\u030cno",
-      "url": "https://open.spotify.com/track/4njX5u1fq7kcrpki88zDMq"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Gratitude Frequency",
         "url": "https://open.spotify.com/album/4zGMCjX93ABo5zAxf8qbFl"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 144025,
       "name": "Gratitude Frequency",
       "url": "https://open.spotify.com/track/1oyb1oP98qZm1xnoPg11CO"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Oblac\u030cno",
+        "url": "https://open.spotify.com/album/5TvXotn7BPEyVbHcT4n5uT"
+      },
+      "artists": [
+        {
+          "name": "Lois Haas",
+          "url": "https://open.spotify.com/artist/5PsdrzXdwCvCN2Hz6uc5K5"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Oblac\u030cno",
+      "url": "https://open.spotify.com/track/4njX5u1fq7kcrpki88zDMq"
     },
     {
       "added_at": "2023-10-13 00:01:00",

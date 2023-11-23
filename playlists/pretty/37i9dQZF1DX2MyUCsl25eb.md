@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 983,853 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 983,878 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 86 | [How Long \(Single Version\)](https://open.spotify.com/track/5F1MUKe3MGBmHDDYT9XFaB) | [Sumbuck](https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ) | [How Long \(Single Version\)](https://open.spotify.com/album/5msvA8WSAQxX6ras6GKJHD) | 3:34 |
 | 87 | [you don't love me anymore](https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [you don't love me anymore](https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF) | 3:24 |
 | 88 | [No Rewrites](https://open.spotify.com/track/04TArnJgprxiEqS8d1vzea) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [No Rewrites](https://open.spotify.com/album/1Ki19KBc90IVKValgb33aD) | 2:19 |
-| 89 | [Lily](https://open.spotify.com/track/1ozY7x1q8nZqXVTsuBfUgg) | [Francisco Martin](https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE) | [Breakfast for Dinner](https://open.spotify.com/album/5QFaughTCnERwMq1dLJoaL) | 3:24 |
+| 89 | [Lily](https://open.spotify.com/track/70CCOxFTtRj6yfAt0dXzGx) | [Francisco Martin](https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE) | [Lily](https://open.spotify.com/album/0AhEyJgOMDYFaC5cyEJOGa) | 3:24 |
 | 90 | [Sand Roads \(with G\. Love\)](https://open.spotify.com/track/6RK2nnUMxvdJDl97rMuanL) | [Claire Wright](https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [Sand Roads \(with G\. Love\)](https://open.spotify.com/album/66ANNvd4ipUTmZ3LG8Map3) | 2:45 |
 | 91 | [Don't Forget Me](https://open.spotify.com/track/7173t6WyjOaVya4lPFY00a) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:10 |
 | 92 | [Whatcha Know](https://open.spotify.com/track/50xfWsLVNNvXYdeLbdT0lz) | [Bobby Oroza](https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ), [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Whatcha Know](https://open.spotify.com/album/0w7NTBLYYYWY5fabjAUyhZ) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 99 | [Hiding On The Moon](https://open.spotify.com/track/5tgY2SlsTLGMETzl2tIem4) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [Hiding On The Moon](https://open.spotify.com/album/0j8BOGYANd6au3xvdmQka0) | 3:53 |
 | 100 | [Sandman](https://open.spotify.com/track/3iXH8nRdc945PO0GlbOroA) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sandman](https://open.spotify.com/album/0tdqSTY29oE3dMnk2A1PVc) | 3:32 |
 
-Snapshot ID: `MCw4M2I1ZDExM2UwMmQ2MGIzMWU4N2ExY2Q5M2YyYmEyNDNmYjYxMGRl`
+Snapshot ID: `MCw0N2QyMzE0MzJhZmI1ZWI1M2Y0NzAwODg5NGE2OGNmY2YyYjRmZWUw`

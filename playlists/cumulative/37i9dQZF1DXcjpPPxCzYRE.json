@@ -1096,6 +1096,24 @@
     {
       "album": {
         "name": "Her Favorite Flowers",
+        "url": "https://open.spotify.com/album/3ZtwVDikRanGqN17IGpWgh"
+      },
+      "artists": [
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193242,
+      "name": "hold me, never let go",
+      "url": "https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j"
+    },
+    {
+      "album": {
+        "name": "Her Favorite Flowers",
         "url": "https://open.spotify.com/album/5rFnAfQqhy7sFGSq15gN7g"
       },
       "artists": [
@@ -1822,7 +1840,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 237746,
       "name": "Moving in Slow Motion",
       "url": "https://open.spotify.com/track/1JzJFYOlNFISoz28z5t20x"

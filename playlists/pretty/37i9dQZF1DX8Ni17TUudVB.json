@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 140669,
+  "num_followers": 140682,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODJhNDZkYzJiMzEwYzZiNWEzMTY0NGNhMmJhNzEyNzNiYTFjM2Y1",
+  "snapshot_id": "MCwyNDJkZjg2Zjg0ZDRmNTgyNmQ3ODNjN2MwMzgwZDc5OTlkOWM0NjEx",
   "tracks": [
     {
       "added_at": "2023-09-11 15:59:41",
@@ -107,6 +107,26 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Miss You - Bonus Track",
+      "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
       },
@@ -131,26 +151,6 @@
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
-        "name": "Alone In A Crowd",
-        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Miss You - Bonus Track",
-      "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
+        "name": "Five Hours",
+        "url": "https://open.spotify.com/album/3hM67HrtJ55aUC5TGt66Za"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 326887,
+      "name": "Five Hours",
+      "url": "https://open.spotify.com/track/6r7FXNO57mlZCBY6PXcZZT"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
         "name": "Tukoh Taka (Official FIFA Fan Festival\u2122Anthem)",
         "url": "https://open.spotify.com/album/2Coh1rdkbDRHPI5WLkpNpO"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 178529,
       "name": "Tukoh Taka - Official FIFA Fan Festival\u2122 Anthem",
       "url": "https://open.spotify.com/track/7twsd0lwXyy0ARdsTyzHoJ"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
-        "name": "Five Hours",
-        "url": "https://open.spotify.com/album/3hM67HrtJ55aUC5TGt66Za"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 326887,
-      "name": "Five Hours",
-      "url": "https://open.spotify.com/track/6r7FXNO57mlZCBY6PXcZZT"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "Bum Bum",
-        "url": "https://open.spotify.com/album/0xILTcOCna3TN6GQSF4ncV"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "Bum Bum",
-      "url": "https://open.spotify.com/track/1rUfAnT35qS7hL6okyDOH0"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "Physical (Alok Remix)",
         "url": "https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 189000,
       "name": "Physical - Alok Remix",
       "url": "https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "Bum Bum",
+        "url": "https://open.spotify.com/album/0xILTcOCna3TN6GQSF4ncV"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "Bum Bum",
+      "url": "https://open.spotify.com/track/1rUfAnT35qS7hL6okyDOH0"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "Winter",
-        "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
-      },
-      "artists": [
-        {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        },
-        {
-          "name": "Flakk\u00eb",
-          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Winter",
-      "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "AGEN WIDA",
         "url": "https://open.spotify.com/album/5Oc42yHyXbHNXD87yEwfA7"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 199047,
       "name": "AGEN WIDA",
       "url": "https://open.spotify.com/track/35V6qXUDCvwZdmbKe5PlPG"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
+      },
+      "artists": [
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "Flakk\u00eb",
+          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "BRAVE",
-        "url": "https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7"
-      },
-      "artists": [
-        {
-          "name": "JOYRYDE",
-          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
-        }
-      ],
-      "duration_ms": 285860,
-      "name": "IM GONE",
-      "url": "https://open.spotify.com/track/7CEvYqcXhE11M8tBVIpUb0"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "e-mail",
         "url": "https://open.spotify.com/album/7MRRiwXI5ao5uNDEinBIzn"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 151112,
       "name": "Death Rail",
       "url": "https://open.spotify.com/track/6ZI5UgjEGb82o1XaAZKLJ2"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "BRAVE",
+        "url": "https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7"
+      },
+      "artists": [
+        {
+          "name": "JOYRYDE",
+          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
+        }
+      ],
+      "duration_ms": 285860,
+      "name": "IM GONE",
+      "url": "https://open.spotify.com/track/7CEvYqcXhE11M8tBVIpUb0"
     },
     {
       "added_at": "2023-09-11 15:59:41",

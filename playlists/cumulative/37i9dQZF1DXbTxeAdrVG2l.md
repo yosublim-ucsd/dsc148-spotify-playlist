@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1990s\. Cover: Sheryl Crow.
 
-710 songs - 2 day 2 hr 24 min
+711 songs - 2 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,7 @@
 | [I Have Nothing \- Film Version](https://open.spotify.com/track/76puoNshqjAAocKl5KbmpQ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Wish You Love: More From The Bodyguard](https://open.spotify.com/album/3qEUTNGTeDXwYwSl3v2hNV) | 4:56 | 2019-05-26\* | 2022-04-19 |
 | [I Knew I Loved You](https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Affirmation](https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC) | 4:10 | 2020-05-30 | 2022-11-14 |
 | [I Knew I Loved You](https://open.spotify.com/track/68K0qD0VDqdm0eWXsGqnvM) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Truly Madly Completely \- The Best of Savage Garden](https://open.spotify.com/album/5S4ycMpNlcTpLaO7u6mkkb) | 4:11 | 2019-05-26\* | 2020-10-21 |
-| [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 | 2019-05-26\* |  |
+| [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 | 2019-05-26\* | 2023-11-23 |
 | [I Love Your Smile](https://open.spotify.com/track/69mFxANpGyq9s69LqH3d9G) | [Shanice](https://open.spotify.com/artist/0Ttph0pOZiPNTD3y2wUUb6) | [Inner Child](https://open.spotify.com/album/3O1AUjaFcoauFoI10ZZJxi) | 4:17 | 2019-05-26\* | 2022-07-29 |
 | [I Promised Myself](https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O) | [Nick Kamen](https://open.spotify.com/artist/05GsKvp0yKuCyWQMsPAAmB) | [Move Until We Fly](https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N) | 4:00 | 2019-06-22 | 2022-04-19 |
 | [I Swear](https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS) | [All\-4\-One](https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG) | [All\-4\-One](https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy) | 4:19 | 2019-05-26\* | 2022-11-13 |
@@ -372,6 +372,7 @@
 | [Learn to Fly](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:55 | 2022-06-02 |  |
 | [Learning To Fly](https://open.spotify.com/track/17S4XrLvF5jlGvGCJHgF51) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 4:02 | 2021-03-23 |  |
 | [Lemon Tree](https://open.spotify.com/track/1yr9HpAu3prvxmq783ZELn) | [Fools Garden](https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG) | [Dish of the Day](https://open.spotify.com/album/1VQkUcV1j0hbsZAFghmeXh) | 3:11 | 2022-10-01 | 2023-11-03 |
+| [Lemon Tree](https://open.spotify.com/track/2epbL7s3RFV81K5UhTgZje) | [Fools Garden](https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG) | [Dish of the Day](https://open.spotify.com/album/3epesmrZX0KYpeImQtcVUa) | 3:11 | 2022-12-22 |  |
 | [Lemon Tree](https://open.spotify.com/track/4fXGWiVhlOLdhwRDP6pIFG) | [Fools Garden](https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG) | [Dish Of The Day](https://open.spotify.com/album/1l2SxZKUm1UH45qUqpLfYH) | 3:11 | 2019-06-25 | 2022-10-08 |
 | [Let Me Entertain You](https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Life Thru A Lens](https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN) | 4:22 | 2019-05-26\* | 2022-07-29 |
 | [Let There Be Love \- 2002 Digital Remaster](https://open.spotify.com/track/1KKAzCSZ7tS4KWDqG6uxVA) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Real Life](https://open.spotify.com/album/2O5Qb4CQBTkN7UIvFBTCsq) | 5:09 | 2019-05-27 | 2020-04-04 |

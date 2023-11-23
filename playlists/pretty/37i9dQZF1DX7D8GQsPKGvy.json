@@ -1,12 +1,12 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 777524,
+  "num_followers": 778111,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWZmMTg0OTc4ZmE0MmZiM2UwMzJiZDE2NGNhZjAzNzI3ZDljNjI1",
+  "snapshot_id": "MCw1ZTYyODc5Mjg4ZTY0OWZmY2Y3ODk1NWMwMTE3OWUxMjljYzM5MTg5",
   "tracks": [
     {
       "added_at": "2023-07-03 13:15:34",
@@ -219,6 +219,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Wounded Rhymes (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/19ms2xSmphDqfhx2dp11Tl"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        },
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        }
+      ],
+      "duration_ms": 279635,
+      "name": "I Follow Rivers - The Magician Remix",
+      "url": "https://open.spotify.com/track/3zNNXjjjeLrzIXSJZKalDi"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Monster (Robin Schulz Remix)",
         "url": "https://open.spotify.com/album/67PtnkGcMlHCa1RcYSzleO"
       },
@@ -239,26 +259,6 @@
       "duration_ms": 165947,
       "name": "Monster - Robin Schulz Remix",
       "url": "https://open.spotify.com/track/4tknhO5RmXIxnpoipMKBmG"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Wounded Rhymes (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/19ms2xSmphDqfhx2dp11Tl"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        },
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        }
-      ],
-      "duration_ms": 279635,
-      "name": "I Follow Rivers - The Magician Remix",
-      "url": "https://open.spotify.com/track/3zNNXjjjeLrzIXSJZKalDi"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -799,6 +799,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Into You (3LAU Remix)",
+        "url": "https://open.spotify.com/album/3c5hq7WzAnJapzz9CNuuLl"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "Into You - 3LAU Remix",
+      "url": "https://open.spotify.com/track/1cfVkL84XmRON3Gl9jDXKI"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Something Just Like This (Remix Pack) [Remixes]",
         "url": "https://open.spotify.com/album/4uRfYhBBaSX8N3amojmMBE"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 252933,
       "name": "Something Just Like This - Alesso Remix",
       "url": "https://open.spotify.com/track/50RJdoxw8iajGNtHQe6QeS"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Into You (3LAU Remix)",
-        "url": "https://open.spotify.com/album/3c5hq7WzAnJapzz9CNuuLl"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "Into You - 3LAU Remix",
-      "url": "https://open.spotify.com/track/1cfVkL84XmRON3Gl9jDXKI"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1003,22 +1003,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "If I Can't Have You (Gryffin Remix)",
-        "url": "https://open.spotify.com/album/4QxzbfSsVryEQwvPFEV5Iu"
+        "name": "Roses (Remixes) (feat. ROZES)",
+        "url": "https://open.spotify.com/album/2QmFzuPKkXez2pfFPXgwqW"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         },
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+        },
+        {
+          "name": "Zaxx",
+          "url": "https://open.spotify.com/artist/1VF81Q4Usmpf2fgjEV3HPJ"
         }
       ],
-      "duration_ms": 253040,
-      "name": "If I Can't Have You - Gryffin Remix",
-      "url": "https://open.spotify.com/track/1IXGILkPm0tOCNeq00kCPa"
+      "duration_ms": 190266,
+      "name": "Roses (feat. ROZES) - Zaxx Remix",
+      "url": "https://open.spotify.com/track/5MgBUUjbkQ27Kd9CbeZFLo"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1043,26 +1047,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Roses (Remixes) (feat. ROZES)",
-        "url": "https://open.spotify.com/album/2QmFzuPKkXez2pfFPXgwqW"
+        "name": "If I Can't Have You (Gryffin Remix)",
+        "url": "https://open.spotify.com/album/4QxzbfSsVryEQwvPFEV5Iu"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         },
         {
-          "name": "ROZES",
-          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
-        },
-        {
-          "name": "Zaxx",
-          "url": "https://open.spotify.com/artist/1VF81Q4Usmpf2fgjEV3HPJ"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         }
       ],
-      "duration_ms": 190266,
-      "name": "Roses (feat. ROZES) - Zaxx Remix",
-      "url": "https://open.spotify.com/track/5MgBUUjbkQ27Kd9CbeZFLo"
+      "duration_ms": 253040,
+      "name": "If I Can't Have You - Gryffin Remix",
+      "url": "https://open.spotify.com/track/1IXGILkPm0tOCNeq00kCPa"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Best Day Of My Life (Gazzo Remix)",
-        "url": "https://open.spotify.com/album/4nrYXklg3p07sDPX8evRhT"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Best Day Of My Life - Gazzo Remix",
-      "url": "https://open.spotify.com/track/5ng9duWuWbHlwviFSh5Vqx"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "In The Name Of Love Remixes",
         "url": "https://open.spotify.com/album/1WSShu5SDgRFWR9ZXImKLM"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 200597,
       "name": "In the Name of Love - DallasK Remix",
       "url": "https://open.spotify.com/track/55y30bh2ZUtzOXjWLxn7XT"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Best Day Of My Life (Gazzo Remix)",
+        "url": "https://open.spotify.com/album/4nrYXklg3p07sDPX8evRhT"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Best Day Of My Life - Gazzo Remix",
+      "url": "https://open.spotify.com/track/5ng9duWuWbHlwviFSh5Vqx"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1519,22 +1519,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Princess of China",
-        "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
+        "name": "Get Weird - Rarities & Remixes",
+        "url": "https://open.spotify.com/album/03byBYXGfV7seOUDb645TJ"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Cahill",
+          "url": "https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm"
         }
       ],
-      "duration_ms": 286346,
-      "name": "Paradise - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/0pjMTISKHTJkogN1BPZxaC"
+      "duration_ms": 198909,
+      "name": "Black Magic - Cahill Remix",
+      "url": "https://open.spotify.com/track/5MeTUONtAo08JqtGPljSxv"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1559,22 +1559,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Get Weird - Rarities & Remixes",
-        "url": "https://open.spotify.com/album/03byBYXGfV7seOUDb645TJ"
+        "name": "Princess of China",
+        "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
       },
       "artists": [
         {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         },
         {
-          "name": "Cahill",
-          "url": "https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 198909,
-      "name": "Black Magic - Cahill Remix",
-      "url": "https://open.spotify.com/track/5MeTUONtAo08JqtGPljSxv"
+      "duration_ms": 286346,
+      "name": "Paradise - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/0pjMTISKHTJkogN1BPZxaC"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Treasure Remix EP",
-        "url": "https://open.spotify.com/album/7yBnuW3SpMKy3EB9iU0C7p"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 208278,
-      "name": "Treasure - Cash Cash Radio Mix",
-      "url": "https://open.spotify.com/track/7dQGDSVjt1vS6BsDURjYhS"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Scared To Be Lonely Remixes Vol. 1",
         "url": "https://open.spotify.com/album/5dwSRV6U5oyxplujp17RQQ"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 200624,
       "name": "Scared To Be Lonely - Brooks Remix",
       "url": "https://open.spotify.com/track/389MC596K4IN35zaHAyuYz"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Treasure Remix EP",
+        "url": "https://open.spotify.com/album/7yBnuW3SpMKy3EB9iU0C7p"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 208278,
+      "name": "Treasure - Cash Cash Radio Mix",
+      "url": "https://open.spotify.com/track/7dQGDSVjt1vS6BsDURjYhS"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1903,6 +1903,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Ciao Adios (Remixes)",
+        "url": "https://open.spotify.com/album/7C6UoXE3QOfuwS0jBeLAvZ"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Burak Yeter",
+          "url": "https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI"
+        }
+      ],
+      "duration_ms": 180937,
+      "name": "Ciao Adios - Burak Yeter Remix",
+      "url": "https://open.spotify.com/track/0xedZw4tBgVZdsB8w7r5aG"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "FRIENDS (R3hab Remix)",
         "url": "https://open.spotify.com/album/2KBVjOOFq54CcaHTxItDhl"
       },
@@ -1923,26 +1943,6 @@
       "duration_ms": 157142,
       "name": "FRIENDS - R3hab Remix",
       "url": "https://open.spotify.com/track/18YRKiIZO4qDEc5Ik0Cry6"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Ciao Adios (Remixes)",
-        "url": "https://open.spotify.com/album/7C6UoXE3QOfuwS0jBeLAvZ"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Burak Yeter",
-          "url": "https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI"
-        }
-      ],
-      "duration_ms": 180937,
-      "name": "Ciao Adios - Burak Yeter Remix",
-      "url": "https://open.spotify.com/track/0xedZw4tBgVZdsB8w7r5aG"
     },
     {
       "added_at": "2023-07-03 13:15:34",

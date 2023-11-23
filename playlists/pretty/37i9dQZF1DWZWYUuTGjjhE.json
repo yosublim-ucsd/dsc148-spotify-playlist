@@ -1,12 +1,12 @@
 {
   "description": "Timeless easy listening from the sixties...",
-  "num_followers": 351427,
+  "num_followers": 351480,
   "original_name": "Easy 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGE5ODNlYjgzOTYyNTJmYWExMGRjYzY2ODAzN2MwMWFjNTg5Yjlh",
+  "snapshot_id": "MCw4YzJjYjllMDU2Y2Q4NzMyNzYyNzUyM2FmZTljZmM2ZGRhNDdjZmZk",
   "tracks": [
     {
       "added_at": "2023-10-17 16:16:50",
@@ -915,6 +915,26 @@
     {
       "added_at": "2023-10-17 16:16:50",
       "album": {
+        "name": "Presenting Maurice Williams",
+        "url": "https://open.spotify.com/album/742DgTRTmsBGMGxOcTPLIo"
+      },
+      "artists": [
+        {
+          "name": "Maurice Williams",
+          "url": "https://open.spotify.com/artist/1CgE69lpZKGAcA5kIIK82D"
+        },
+        {
+          "name": "The Zodiacs",
+          "url": "https://open.spotify.com/artist/1HCE0pbqGLSvWaz5q4TeDd"
+        }
+      ],
+      "duration_ms": 97493,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/12BB5t506Of3s3NPBoKScC"
+    },
+    {
+      "added_at": "2023-10-17 16:16:50",
+      "album": {
         "name": "The Voice of Scott McKenzie (Expanded Edition)",
         "url": "https://open.spotify.com/album/58TeEraOu8GyAFSUwF4fQZ"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 159973,
       "name": "Different Drum",
       "url": "https://open.spotify.com/track/3k63RLvRgkgPGx0keOH3P6"
-    },
-    {
-      "added_at": "2023-10-17 16:16:50",
-      "album": {
-        "name": "Presenting Maurice Williams",
-        "url": "https://open.spotify.com/album/742DgTRTmsBGMGxOcTPLIo"
-      },
-      "artists": [
-        {
-          "name": "Maurice Williams",
-          "url": "https://open.spotify.com/artist/1CgE69lpZKGAcA5kIIK82D"
-        },
-        {
-          "name": "The Zodiacs",
-          "url": "https://open.spotify.com/artist/1HCE0pbqGLSvWaz5q4TeDd"
-        }
-      ],
-      "duration_ms": 97493,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/12BB5t506Of3s3NPBoKScC"
     },
     {
       "added_at": "2023-10-17 16:16:50",

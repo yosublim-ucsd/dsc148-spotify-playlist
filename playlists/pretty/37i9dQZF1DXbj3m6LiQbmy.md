@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Vieni a conoscere GLOW alla Milano Music Week il 22/11, <a href="https://www.milanomusicweek.it/evento/spotify\-presenta\-glow\-ascolta\-le\-voci\-della\-comunita\-lgbtqia">iscriviti gratuitamente qua</a>\. Con Giolì & Assia, Asteria, Yosef e KAPUT! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,839 likes - 82 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,851 likes - 82 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

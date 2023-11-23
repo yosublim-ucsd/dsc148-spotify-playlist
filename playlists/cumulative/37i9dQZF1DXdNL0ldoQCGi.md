@@ -4,7 +4,7 @@
 
 > caaaalmaêeee jibóio!!!!
 
-466 songs - 23 hr 46 min
+467 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Assunto Delicado \- Ao Vivo](https://open.spotify.com/track/3yHXEidSu4gYVRqKoI653O) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Assunto Delicado \(Ao Vivo\)](https://open.spotify.com/album/7fMbYVUDAIWPuKcyehDYlT) | 3:00 | 2022-09-21 | 2023-03-08 |
 | [Atlantis](https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:49 | 2022-05-25 | 2022-08-18 |
 | [Até A Próxima Vida Lambadão](https://open.spotify.com/track/43Yk4244yJ5ut6TZQyAzhG) | [CESINHA MELLO](https://open.spotify.com/artist/6y5AaWOVdRE2xb4eXWQChQ) | [Até A Próxima Vida Lambadão](https://open.spotify.com/album/5iez3GbD9KyWwXB4w4w5VH) | 3:48 | 2022-07-20 | 2022-07-29 |
+| [Até o Amanhecer](https://open.spotify.com/track/1SBz05f5xeykR0m9NR6F3p) | [MARINA NA VOZ](https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G) | [Até o Amanhecer](https://open.spotify.com/album/5ludmz2fQPSnAZgl5Ynff8) | 3:22 | 2023-11-21 |  |
 | [Até o Amanhecer \- Speed](https://open.spotify.com/track/1GgcLnBZt7nIWCQPORuJTa) | [MARINA NA VOZ](https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G) | [Até o Amanhecer \(Speed\)](https://open.spotify.com/album/02763dYG02KeQw7xfNMs9w) | 2:50 | 2023-11-13 |  |
 | [Aulas e Cursos](https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn) | [Aulas e Cursos](https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr) | 3:33 | 2022-05-25 | 2022-08-12 |
 | [Automotivo Bibi Fogosa](https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3), [KZA Produções](https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax) | [Automotivo Bibi Fogosa](https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2) | 2:09 | 2023-06-28 | 2023-09-28 |
@@ -467,7 +468,7 @@
 | [You Da One](https://open.spotify.com/track/3Yt9lRtS5V4nbJnwcgFgvC) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk](https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T) | 3:20 | 2022-05-25 | 2022-07-07 |
 | [Your Love](https://open.spotify.com/track/2jPCbFrFlyGbKgblxub8Lm) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Play Deep](https://open.spotify.com/album/4OJQDWKq4gTWCXq5jpNToo) | 3:36 | 2022-05-25 | 2022-07-29 |
 | [Your Love](https://open.spotify.com/track/4oDZ5L8izBals6jKBJDBcX) | [The Outfield](https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y) | [Play Deep](https://open.spotify.com/album/2d5GU9ms5JCSS9GjsFebu8) | 3:36 | 2022-07-28 | 2022-08-05 |
-| [Zero a Cem](https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Zero a Cem](https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG) | 3:10 | 2023-10-02 |  |
+| [Zero a Cem](https://open.spotify.com/track/5dpDnd3Nnw5dRql80RcI7M) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Zero a Cem](https://open.spotify.com/album/196Sp6RFxVhYFGYjACcsCG) | 3:10 | 2023-10-02 | 2023-11-23 |
 | [Zidane](https://open.spotify.com/track/1Byvv0RuG4JaJwRzdNoWqn) | [Frost](https://open.spotify.com/artist/1Pwn5xh6yzHjkDdDOk5xqD), [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [YG Saull](https://open.spotify.com/artist/5JsdUwOF1q652VQpSdeC5Z), [YOVANCE!](https://open.spotify.com/artist/5xekWu0d327YLtbYFhhDGu), [sickobabyxo](https://open.spotify.com/artist/5QFWsfryRsbn8O2ryBFsqL), [SLIME DREAMS](https://open.spotify.com/artist/1vrfZnY0gHgFpP4aOAbFAY), [1\-800WRLD](https://open.spotify.com/artist/279jm5uJdkabH3QdQu4eF7) | [Zidane](https://open.spotify.com/album/6j0CTG6WzlXLfMp8MVO1M6) | 2:54 | 2023-04-26 | 2023-07-18 |
 | [Zona De Perigo](https://open.spotify.com/track/1jHgfC8T5KxUyC5Ldw6lk9) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Zona De Perigo](https://open.spotify.com/album/6dj4bRg0LCMm7B2P5Xenq5) | 2:22 | 2023-01-30 |  |
 | [É Tesão ou É Amor](https://open.spotify.com/track/19TnKf5YHapfrI1FJjbx8i) | [cjnobeat](https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM), [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [É Tesão ou É Amor](https://open.spotify.com/album/6yimbyJdwJgL4bKA8MfS1s) | 2:38 | 2023-09-27 |  |

@@ -1,12 +1,12 @@
 {
   "description": "indie tunes to make you shine bby :)",
-  "num_followers": 453763,
+  "num_followers": 453783,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTg4OWE0MWJkNzgxOTA4MjdmM2UzOTRmZTkwZmNlNzgyODI4MGQ1",
+  "snapshot_id": "MCwxYTQ2ZWNjOGUwZWEwYzUyZDUxZGMzMDEyYjg5YTVmMmQyNWFmMjli",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Carta de Amor",
+        "url": "https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 176807,
+      "name": "Carta de Amor",
+      "url": "https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Un D\u00eda A La Vez",
         "url": "https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 188841,
       "name": "costas de coral",
       "url": "https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Carta de Amor",
-        "url": "https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 176807,
-      "name": "Carta de Amor",
-      "url": "https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "TE QUIERO",
+        "url": "https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        },
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 210763,
+      "name": "NO TE ALEJES",
+      "url": "https://open.spotify.com/track/3x5uBmNaBtm8l843nO15P1"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Get Lost In The Music",
         "url": "https://open.spotify.com/album/5FBk0BFXqwMrtdrxxfa21B"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 175470,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/3wwHxBjK4Y1IohNUVgwX31"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "TE QUIERO",
-        "url": "https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo"
-      },
-      "artists": [
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        },
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 210763,
-      "name": "NO TE ALEJES",
-      "url": "https://open.spotify.com/track/3x5uBmNaBtm8l843nO15P1"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "qu\u00e9 bueno!",
+        "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 157394,
+      "name": "qu\u00e9 bueno!",
+      "url": "https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
         "url": "https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 167753,
       "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
       "url": "https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "qu\u00e9 bueno!",
-        "url": "https://open.spotify.com/album/5NF8Q7vFhmT1RJ15czoEL7"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 157394,
-      "name": "qu\u00e9 bueno!",
-      "url": "https://open.spotify.com/track/5oxWWmZLJIH0y6v2isD7Lt"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Pelo Negro",
-        "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
-      },
-      "artists": [
-        {
-          "name": "Jos Canela",
-          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
-        }
-      ],
-      "duration_ms": 192340,
-      "name": "Pelo Negro",
-      "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "L\u00ednea Recta",
         "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 182760,
       "name": "Pasatiempo",
       "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Pelo Negro",
+        "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
+      },
+      "artists": [
+        {
+          "name": "Jos Canela",
+          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
+        }
+      ],
+      "duration_ms": 192340,
+      "name": "Pelo Negro",
+      "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "buena vista!",
-        "url": "https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv"
-      },
-      "artists": [
-        {
-          "name": "Ariel & The Culture",
-          "url": "https://open.spotify.com/artist/2KBHBsJ99i4e8X08fRE8o4"
-        }
-      ],
-      "duration_ms": 175007,
-      "name": "t\u00fa y yo",
-      "url": "https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "A No Llorar",
         "url": "https://open.spotify.com/album/6QVVfvXpuOKOxuOweZTnAB"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 232750,
       "name": "A No Llorar",
       "url": "https://open.spotify.com/track/4JxEKIxczOK2dvQWq8Gb9T"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "buena vista!",
+        "url": "https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv"
+      },
+      "artists": [
+        {
+          "name": "Ariel & The Culture",
+          "url": "https://open.spotify.com/artist/2KBHBsJ99i4e8X08fRE8o4"
+        }
+      ],
+      "duration_ms": 175007,
+      "name": "t\u00fa y yo",
+      "url": "https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "CLEAN BABY",
-        "url": "https://open.spotify.com/album/5VzoByWr9exzILjqYGPS2F"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 184150,
-      "name": "CLEAN BABY",
-      "url": "https://open.spotify.com/track/2enQxKJL5ZTGoU3U8ri85A"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Un Espejismo",
         "url": "https://open.spotify.com/album/09t2QufWnwK3qqAyojkkis"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 214736,
       "name": "Un Espejismo",
       "url": "https://open.spotify.com/track/2Ge2F0SEtRF85xYenNxgaj"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "CLEAN BABY",
+        "url": "https://open.spotify.com/album/5VzoByWr9exzILjqYGPS2F"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 184150,
+      "name": "CLEAN BABY",
+      "url": "https://open.spotify.com/track/2enQxKJL5ZTGoU3U8ri85A"
     }
   ],
   "unique_name": "indie feliz",

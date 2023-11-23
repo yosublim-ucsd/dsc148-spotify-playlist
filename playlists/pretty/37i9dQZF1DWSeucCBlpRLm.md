@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeucCBlpRLm.md) - [plain]
 
 > Kickstart your Diwali party with these bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,128 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,134 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSeucCBlpRLm.md) - [plain]
 | 74 | [Don't Be Shy Again \(From "Bala"\)](https://open.spotify.com/track/2TbCdbFzs2xO2nzasn0Qvw) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Gurdeep Mehndi](https://open.spotify.com/artist/3ZeKRqvjWodGs3IenNQXio) | [Don't Be Shy Again \(From "Bala"\)](https://open.spotify.com/album/7dtf0qx0yeOZzcysKPVDUr) | 2:44 |
 | 75 | [Dj Waley Babu \(feat\. Aastha Gill\)](https://open.spotify.com/track/2SRv30X7NoYRZB62dX0UzH) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Dj Waley Babu \(feat\. Aastha Gill\)](https://open.spotify.com/album/0Md3x45nETTF6TQ0r6b0tJ) | 2:49 |
 
-Snapshot ID: `MCxjNDFmYjhkNDFjOTI0NWYzNDMwNjkzMjhmOTM0OGJhMWFlODU5MGQ4`
+Snapshot ID: `MCw3MmNmZDU4ODU1NjczZDE3YzRkZmEzYmUzYjRjMDA0MzY2NTgzNTJl`

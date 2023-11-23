@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L8tfJz5HGb.md) - [plain]
 
 > Enjoy the Weverse Con Festival 2023 LIVE SET including the voices of artists on stage and set lists! \(아티스트들의 무대 위 목소리와 셋리스트가 포함된 위버스 콘 페스티벌 2023 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,134 likes - 108 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,169 likes - 108 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L8tfJz5HGb.md) - [plain]
 | 46 | [Comment from TOMORROW X TOGETHER 1](https://open.spotify.com/track/1nMHI6d5ERxmq2GLx0z38k) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Weverse Con Festival Live set](https://open.spotify.com/album/5LNFYlbkNG3gmcEBM1NO35) | 4:41 |
 | 47 | [Tinnitus \(Wanna be a rock\)](https://open.spotify.com/track/0f0SbtoKGe41cX5LzlnX6X) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 2:37 |
 | 48 | [Farewell, Neverland](https://open.spotify.com/track/43mnNatwMMydJ4CxMdQVnJ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:00 |
-| 49 | [0X1=LOVESONG \(I Know I Love You\) feat\. Seori](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 |
+| 49 | [0X1=LOVESONG \(I Know I Love You\) feat\. Seori](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 |
 | 50 | [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 |
 | 51 | [Happy Fools \(feat\. Coi Leray\)](https://open.spotify.com/track/77LZvE2XLYn2AW55UxIG8H) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 2:35 |
 | 52 | [Magic](https://open.spotify.com/track/4Wh5WGtov1VJ6EJ8OQgNeS) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 2:39 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L8tfJz5HGb.md) - [plain]
 | 107 | [Okay Dokey](https://open.spotify.com/track/1R6qeTvAvaxB7hydIYVIY8) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Show Me the Money 4 Episode 6](https://open.spotify.com/album/27Cyf9iWomIAiiU99eHPFN) | 4:08 |
 | 108 | [Boys And Girls](https://open.spotify.com/track/2vefaHJYN4zKolfWa48BwV) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo) | [Boys and Girls](https://open.spotify.com/album/7ADI8MDAmfM10pipMZnq8e) | 3:20 |
 
-Snapshot ID: `MCwyYWFjOTEzNmQzZmI2OTQ2YmVmZjFhODMyNDg2NmM3YmVkOGFhMzIz`
+Snapshot ID: `MCwyMDljNzQ2Mzg2YWI1NDI1M2VmOWE2YmU0NjBkNzY4N2RjOGQzY2Vh`

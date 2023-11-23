@@ -1,12 +1,12 @@
 {
   "description": "all gains",
-  "num_followers": 271861,
+  "num_followers": 273589,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmFjYWY1MmExYTU3ODUxYzVkYzYyZGJiYzM4YzE3ODQ4ZmUwYTJh",
+  "snapshot_id": "MCwyNDE1ZWQ4N2MzMjAwMDNmZDdmYTRkNmUzNmUxYjU4YmEwYzg2Mjlj",
   "tracks": [
     {
       "added_at": "2023-10-05 17:47:28",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-10-05 17:47:28",
       "album": {
-        "name": "Scopin",
-        "url": "https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 101632,
-      "name": "Scopin",
-      "url": "https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb"
-    },
-    {
-      "added_at": "2023-10-05 17:47:28",
-      "album": {
         "name": "Rotten",
         "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 139440,
       "name": "HDMI",
       "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
+    },
+    {
+      "added_at": "2023-10-05 17:47:28",
+      "album": {
+        "name": "Scopin",
+        "url": "https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 101632,
+      "name": "Scopin",
+      "url": "https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb"
     },
     {
       "added_at": "2023-10-05 17:47:28",

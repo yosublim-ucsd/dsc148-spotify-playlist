@@ -4,7 +4,7 @@
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-195 songs - 8 hr 13 min
+199 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Each glorious entity](https://open.spotify.com/track/6wldb27dwn4uxIGPELz55b) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [Each glorious entity](https://open.spotify.com/album/5AsSot5Zm8jb8iSBLg966r) | 2:13 | 2023-10-18 |  |
 | [Echoes](https://open.spotify.com/track/2FOlLBy4G6UKrSNgHrestM) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Echoes](https://open.spotify.com/album/6gLOeTm93OHXZHFPHtsYJ5) | 2:00 | 2023-10-18 |  |
 | [Echoes room](https://open.spotify.com/track/2G4Oj5TrGOpEx6dUNJvlWe) | [Giles Garnier](https://open.spotify.com/artist/7kROE0Pp2o1NqMVIWLX3Vg) | [Echoes room](https://open.spotify.com/album/1UmaZu1sC5NXYkqOKiIyBK) | 2:29 | 2023-10-18 |  |
+| [Elevation](https://open.spotify.com/track/741SePkge5anOObH5JLG5r) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Elevation](https://open.spotify.com/album/7gM5ChlcBV9dLSxm53qLJ4) | 3:20 | 2023-11-22 |  |
 | [Ellipse](https://open.spotify.com/track/6mVw4YqgAB21pd1kuRs1HQ) | [Eve Dennison](https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK) | [Ellipse](https://open.spotify.com/album/3wPhguvaKQPIdvmoc5bkVW) | 2:28 | 2023-10-18 |  |
 | [Elysian](https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Elysian](https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ) | 2:19 | 2023-10-18 |  |
 | [Enchanted](https://open.spotify.com/track/4VFWqPpohVxrvj0X30zY7M) | [Francine Gaétane](https://open.spotify.com/artist/6gMlkMM2jbGYhiNAzcR6Zw) | [Enchanted](https://open.spotify.com/album/1Ok4CK8AVQH0v7KAVkmHSS) | 2:16 | 2023-10-18 |  |
@@ -125,6 +126,7 @@
 | [No Goodbye](https://open.spotify.com/track/6wnhi4gipABWBE4JNHp7lm) | [Jules Dubois](https://open.spotify.com/artist/7MNh5HtGFSXQ77Tqhiz4WY) | [No Goodbye](https://open.spotify.com/album/2y7M4RgG4hQsa3BP3zpjLL) | 2:24 | 2023-10-18 |  |
 | [Nordanvind](https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Nordanvind](https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze) | 2:07 | 2023-10-18 |  |
 | [Norma](https://open.spotify.com/track/0haQKlwgcSVo1tVJR6TX90) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Norma](https://open.spotify.com/album/4DTOQtOqK3fHZqspFvhSFC) | 3:17 | 2023-10-18 |  |
+| [Onirique](https://open.spotify.com/track/0BzV38nap8TF9v1Z8aX4Qk) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Onirique](https://open.spotify.com/album/4AmV0ApxmACCuyh5KZRbJG) | 2:35 | 2023-11-22 |  |
 | [Only My Truth](https://open.spotify.com/track/63WeYLkKYPF3ybwkvlGEGB) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Only My Truth](https://open.spotify.com/album/3Zi9UxcwNDiI9SFKw5af9h) | 2:10 | 2023-10-18 |  |
 | [Onyx](https://open.spotify.com/track/75Y41KT0PeczPom4iZFs87) | [Brian Charlie](https://open.spotify.com/artist/0s3zGPEjLXfQMOETZfkvOT) | [Onyx](https://open.spotify.com/album/381RgbrHTumeg0pKzXtDdn) | 2:43 | 2023-10-18 |  |
 | [Open Wings To Fly](https://open.spotify.com/track/4cYaNAmm0gtwTVAZKmANUF) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Open Wings To Fly](https://open.spotify.com/album/5Jv2ENPuHQZ2d5Eq8w6FIF) | 2:18 | 2023-10-18 |  |
@@ -137,10 +139,12 @@
 | [Poletje](https://open.spotify.com/track/3VJ0vnnH8Q4OeUsLpAae3s) | [Valbona Ceferin](https://open.spotify.com/artist/2iH6SSywrGgmHMA5ODnZcJ) | [Poletje](https://open.spotify.com/album/3VaIqSs3sZT75qKjysHgUP) | 2:16 | 2023-10-18 |  |
 | [Previous](https://open.spotify.com/track/059ryoQJ8Nt3xndqMJWDHk) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Previous](https://open.spotify.com/album/1aARVlUxqmMjPW1SZzLhW3) | 2:03 | 2023-10-18 |  |
 | [Pyramidale](https://open.spotify.com/track/2ECCRffnbDdRXwbkfBPTzP) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Pyramidale](https://open.spotify.com/album/2ZXnb9NFeJnwzW0wQ4jY8A) | 2:56 | 2023-10-18 |  |
+| [Pythagoras](https://open.spotify.com/track/3WgaMM16BpTDi2bbZUUuDf) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Pythagoras](https://open.spotify.com/album/2XNgpjBCD0a25yRe2u3GAp) | 3:51 | 2023-11-22 |  |
 | [Ravello](https://open.spotify.com/track/669Eej0mplxG7OhOxgNVl9) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Ravello](https://open.spotify.com/album/5aiv12mtWb7NJFpkPnmRP9) | 2:14 | 2023-10-18 |  |
 | [Real As Rain](https://open.spotify.com/track/7zhkMFOWQEwHxIrZzd8Ze5) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Real As Rain](https://open.spotify.com/album/3GzSfzBdU8FXRnrSLQxJGF) | 2:06 | 2023-10-18 |  |
 | [Release from silence](https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9) | [Patrick Buote](https://open.spotify.com/artist/7ICIWajOxziHTqP1yzsz74) | [Release from silence](https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ) | 2:17 | 2023-10-18 |  |
 | [Relinquishing](https://open.spotify.com/track/3pUnfBXv3XTGqdtpHH9a4T) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Relinquishing](https://open.spotify.com/album/3O66GdoL4N2pmZf1PImUO1) | 2:05 | 2023-10-18 |  |
+| [Remain](https://open.spotify.com/track/2UZFceHSxA4HUsPdOp5Vzr) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Remain](https://open.spotify.com/album/4QxhQ7l9PaQx3QqfSqI3Ho) | 2:05 | 2023-11-22 |  |
 | [Reminder](https://open.spotify.com/track/5nRqY2Ujz9GkqbZRx8oiU6) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Reminder](https://open.spotify.com/album/1Z7r4T5wjvImk7BOaSZtf2) | 4:08 | 2023-10-18 |  |
 | [Respiro](https://open.spotify.com/track/4SGQ9TT7NTUAMnYvuwsWfW) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Respiro](https://open.spotify.com/album/6rs8vroVC5n6qKclLx9prJ) | 2:05 | 2023-10-18 |  |
 | [Return To Le Berry](https://open.spotify.com/track/5CLTDDnoA0QbcKKIwpEDDa) | [Jordi Forniés](https://open.spotify.com/artist/2XpDoARX6IQRx9w19lO62x) | [Return To Le Berry](https://open.spotify.com/album/6NSObXFjmErUsJ4FA5kGqM) | 2:45 | 2023-10-18 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 740772,
+  "num_followers": 740907,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjRmODdiZTRmMmNkY2UwOTM0OGU2ODAwMmQ0NjY1MDk0ZWVkZWU0",
+  "snapshot_id": "MCxhYTYxYzk5ZmQ1MTA2YzRkZjJjNmY5MDI3MjQ4MTBkM2ZmNGJjNjE3",
   "tracks": [
     {
       "added_at": "2023-11-14 12:00:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Hidden Garden",
-        "url": "https://open.spotify.com/album/5ADWAdx830C67511L0FVPj"
-      },
-      "artists": [
-        {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
-        }
-      ],
-      "duration_ms": 297802,
-      "name": "Hidden Garden",
-      "url": "https://open.spotify.com/track/6qLDqEm4xmS8GvJKHl5Qx0"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
         "name": "Luv Machine",
         "url": "https://open.spotify.com/album/5cWSMyNz7Klrqatz2j5Ln3"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 371814,
       "name": "Luv Machine",
       "url": "https://open.spotify.com/track/3dZkhrOzJGbRRl3dBfJNkp"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Hidden Garden",
+        "url": "https://open.spotify.com/album/5ADWAdx830C67511L0FVPj"
+      },
+      "artists": [
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "duration_ms": 297802,
+      "name": "Hidden Garden",
+      "url": "https://open.spotify.com/track/6qLDqEm4xmS8GvJKHl5Qx0"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Astavakra",
-        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
-      },
-      "artists": [
-        {
-          "name": "Sadhu Sensi",
-          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
-        }
-      ],
-      "duration_ms": 420215,
-      "name": "Astavakra",
-      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
         "name": "Forlorn Hope",
         "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 520042,
       "name": "Forlorn Hope",
       "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Astavakra",
+        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
+      },
+      "artists": [
+        {
+          "name": "Sadhu Sensi",
+          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
+        }
+      ],
+      "duration_ms": 420215,
+      "name": "Astavakra",
+      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -739,6 +739,26 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
+        "name": "Mesta",
+        "url": "https://open.spotify.com/album/5Qr3sN626ogWOB6VtefrNS"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        },
+        {
+          "name": "Ilhan Ersahin",
+          "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
+        }
+      ],
+      "duration_ms": 371106,
+      "name": "Mesta",
+      "url": "https://open.spotify.com/track/0qPCty2LrwBk1unrp3mRlI"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
         "name": "Ma Gally",
         "url": "https://open.spotify.com/album/1komNaPBI0xb2FNDYRy6BC"
       },
@@ -755,6 +775,22 @@
       "duration_ms": 433330,
       "name": "Ya Nahar Ya Gamel",
       "url": "https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Patika",
+        "url": "https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ"
+      },
+      "artists": [
+        {
+          "name": "Hezarfen",
+          "url": "https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx"
+        }
+      ],
+      "duration_ms": 333818,
+      "name": "Patika",
+      "url": "https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -783,42 +819,6 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Mesta",
-        "url": "https://open.spotify.com/album/5Qr3sN626ogWOB6VtefrNS"
-      },
-      "artists": [
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        },
-        {
-          "name": "Ilhan Ersahin",
-          "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
-        }
-      ],
-      "duration_ms": 371106,
-      "name": "Mesta",
-      "url": "https://open.spotify.com/track/0qPCty2LrwBk1unrp3mRlI"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "Patika",
-        "url": "https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ"
-      },
-      "artists": [
-        {
-          "name": "Hezarfen",
-          "url": "https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx"
-        }
-      ],
-      "duration_ms": 333818,
-      "name": "Patika",
-      "url": "https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
         "name": "Neko Ep",
         "url": "https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip"
       },
@@ -835,6 +835,22 @@
       "duration_ms": 273523,
       "name": "Neko (feat Kotoe)",
       "url": "https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Man Dies Alone",
+        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Man Dies Alone - Short Version",
+      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -859,18 +875,18 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Man Dies Alone",
-        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
+        "name": "Jendayi EP",
+        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
       },
       "artists": [
         {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+          "name": "Anber",
+          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
         }
       ],
-      "duration_ms": 279000,
-      "name": "Man Dies Alone - Short Version",
-      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
+      "duration_ms": 391511,
+      "name": "Jendayi",
+      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -891,18 +907,18 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Jendayi EP",
-        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
+        "name": "Osam",
+        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
       },
       "artists": [
         {
-          "name": "Anber",
-          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
         }
       ],
-      "duration_ms": 391511,
-      "name": "Jendayi",
-      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
+      "duration_ms": 482715,
+      "name": "Entrecote",
+      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -923,22 +939,6 @@
       "duration_ms": 381176,
       "name": "Time",
       "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "Osam",
-        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
-      },
-      "artists": [
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
-        }
-      ],
-      "duration_ms": 482715,
-      "name": "Entrecote",
-      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Izvor",
-        "url": "https://open.spotify.com/album/0xQNQdVxQkEj8HKlDmqgP1"
-      },
-      "artists": [
-        {
-          "name": "Tebra",
-          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Izvor",
-      "url": "https://open.spotify.com/track/2yYMZJdB6IYccaX1JmMXje"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
         "name": "Ciclos",
         "url": "https://open.spotify.com/album/5LlS93cEkVy5VermCbVEp4"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 396960,
       "name": "Ciclos",
       "url": "https://open.spotify.com/track/6G6SAy7BwNGKttAFGjADmQ"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Izvor",
+        "url": "https://open.spotify.com/album/0xQNQdVxQkEj8HKlDmqgP1"
+      },
+      "artists": [
+        {
+          "name": "Tebra",
+          "url": "https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "Izvor",
+      "url": "https://open.spotify.com/track/2yYMZJdB6IYccaX1JmMXje"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
+        "name": "WannaCry",
+        "url": "https://open.spotify.com/album/0gynnFOvGURjtAO1hpvPWl"
+      },
+      "artists": [
+        {
+          "name": "Coss",
+          "url": "https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74"
+        }
+      ],
+      "duration_ms": 383861,
+      "name": "Running After Dark",
+      "url": "https://open.spotify.com/track/5D8LgrSdHF2zpUU123Y57i"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
         "name": "REKERE",
         "url": "https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 465502,
       "name": "Kwenzenjani",
       "url": "https://open.spotify.com/track/2EqGCX02606uk3f7HfzOGu"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "WannaCry",
-        "url": "https://open.spotify.com/album/0gynnFOvGURjtAO1hpvPWl"
-      },
-      "artists": [
-        {
-          "name": "Coss",
-          "url": "https://open.spotify.com/artist/3YdYc0Ewo5Vpejw0r3dV74"
-        }
-      ],
-      "duration_ms": 383861,
-      "name": "Running After Dark",
-      "url": "https://open.spotify.com/track/5D8LgrSdHF2zpUU123Y57i"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
+        "name": "Beyond Strings",
+        "url": "https://open.spotify.com/album/4O3CN6cMyHP95IpF7QcPJa"
+      },
+      "artists": [
+        {
+          "name": "Ghenwa Nemnom",
+          "url": "https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp"
+        },
+        {
+          "name": "Mohab Sammy",
+          "url": "https://open.spotify.com/artist/223p44YDBTVmvgi2NeHC5j"
+        }
+      ],
+      "duration_ms": 451525,
+      "name": "Beyond Strings",
+      "url": "https://open.spotify.com/track/0X0nx6xOexUGeR5lGfqXCE"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
         "name": "Mona Ki Ngi Xica (Everything Counts Remix)",
         "url": "https://open.spotify.com/album/2SuKOpLD4bk74dJzeXQDa5"
       },
@@ -1275,22 +1295,18 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Beyond Strings",
-        "url": "https://open.spotify.com/album/4O3CN6cMyHP95IpF7QcPJa"
+        "name": "Caminata",
+        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
       },
       "artists": [
         {
-          "name": "Ghenwa Nemnom",
-          "url": "https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp"
-        },
-        {
-          "name": "Mohab Sammy",
-          "url": "https://open.spotify.com/artist/223p44YDBTVmvgi2NeHC5j"
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
         }
       ],
-      "duration_ms": 451525,
-      "name": "Beyond Strings",
-      "url": "https://open.spotify.com/track/0X0nx6xOexUGeR5lGfqXCE"
+      "duration_ms": 416267,
+      "name": "Caminata",
+      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2023-11-14 12:00:00",
       "album": {
-        "name": "Caminata",
-        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
-      },
-      "artists": [
-        {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
-        }
-      ],
-      "duration_ms": 416267,
-      "name": "Caminata",
-      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
         "name": "Samra Samra",
         "url": "https://open.spotify.com/album/201SZUyTn3TvqdaxQJuiMB"
       },
@@ -1343,6 +1343,22 @@
       "duration_ms": 304418,
       "name": "Samra Samra",
       "url": "https://open.spotify.com/track/4tBq8B4uW8szPKbsW2KmOS"
+    },
+    {
+      "added_at": "2023-11-14 12:00:00",
+      "album": {
+        "name": "Pastel",
+        "url": "https://open.spotify.com/album/7GORODzuiM1sFSosuxQL5v"
+      },
+      "artists": [
+        {
+          "name": "Theo Gramal",
+          "url": "https://open.spotify.com/artist/2cUMjbWPmVjM6hHs18dYbc"
+        }
+      ],
+      "duration_ms": 371520,
+      "name": "Pastel",
+      "url": "https://open.spotify.com/track/0QWG9OtA0oHnpQH0iCxicr"
     },
     {
       "added_at": "2023-11-14 12:00:00",
@@ -1363,22 +1379,6 @@
       "duration_ms": 264317,
       "name": "Senhor Carangeju - Dengue Dengue Dengue Remix",
       "url": "https://open.spotify.com/track/76WbdLgFwXC1ZwMzWDTNxt"
-    },
-    {
-      "added_at": "2023-11-14 12:00:00",
-      "album": {
-        "name": "Pastel",
-        "url": "https://open.spotify.com/album/7GORODzuiM1sFSosuxQL5v"
-      },
-      "artists": [
-        {
-          "name": "Theo Gramal",
-          "url": "https://open.spotify.com/artist/2cUMjbWPmVjM6hHs18dYbc"
-        }
-      ],
-      "duration_ms": 371520,
-      "name": "Pastel",
-      "url": "https://open.spotify.com/track/0QWG9OtA0oHnpQH0iCxicr"
     },
     {
       "added_at": "2023-11-14 12:00:00",

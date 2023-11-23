@@ -1,12 +1,12 @@
 {
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
-  "num_followers": 22700,
+  "num_followers": 22713,
   "original_name": "Aguas Frescas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzJmZjc1Mjg2MWUxNWQ0N2NiMWNmZjM2YWU0YzA1NjJjMDI1ZTJh",
+  "snapshot_id": "MCxhMTJkZmI5NmQ4NTFmZmU1OGQ1NTRkYjdjYTgyMDgwNzNiOGViN2My",
   "tracks": [
     {
       "added_at": "2023-01-23 22:42:50",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Que Rico Mambo",
-        "url": "https://open.spotify.com/album/3rzBUm3IuhOIYHHKAJtu9l"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 236235,
-      "name": "Que Rico Mambo",
-      "url": "https://open.spotify.com/track/65KQTYQiwd2kZSmGxpfZs0"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Antolog\u00eda...Los Sonor's",
         "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 133000,
       "name": "El Ahualulco",
       "url": "https://open.spotify.com/track/6ZNp1Fg2IDhpfxW3yOoHv9"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Que Rico Mambo",
+        "url": "https://open.spotify.com/album/3rzBUm3IuhOIYHHKAJtu9l"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 236235,
+      "name": "Que Rico Mambo",
+      "url": "https://open.spotify.com/track/65KQTYQiwd2kZSmGxpfZs0"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -947,26 +947,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Az\u00facar! Caliente",
-        "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Yerbero Moderno",
-      "url": "https://open.spotify.com/track/6DIjVmwlgVdSdHAYSkS5ga"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "40 Temas Originales",
         "url": "https://open.spotify.com/album/6G9XJm8YJ4oO265SWCqmk5"
       },
@@ -987,6 +967,42 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
+        "name": "Az\u00facar! Caliente",
+        "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Yerbero Moderno",
+      "url": "https://open.spotify.com/track/6DIjVmwlgVdSdHAYSkS5ga"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "A Bailar Se Ha Dicho",
+        "url": "https://open.spotify.com/album/5hNJkxdEqoo3xGaDNCROJH"
+      },
+      "artists": [
+        {
+          "name": "Los Plebeyos",
+          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
+        }
+      ],
+      "duration_ms": 146468,
+      "name": "Sabor A Guayaba",
+      "url": "https://open.spotify.com/track/3Gy7M3ycoSLO9uMhIlPY9u"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
         "name": "Espuma De Mar",
         "url": "https://open.spotify.com/album/0X8f23dP4XuKPgM8xaTisW"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 175613,
       "name": "Pasito Tun Tun",
       "url": "https://open.spotify.com/track/6vXP8taf6h8VGQYeBpt644"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "Los \u00c9xitos de Chava Flores en la Voz de Chava Flores y Fernando Rosas",
-        "url": "https://open.spotify.com/album/6T1qoWlqTnzh8668YTyKSL"
-      },
-      "artists": [
-        {
-          "name": "Chava Flores",
-          "url": "https://open.spotify.com/artist/3qvw5E5LD9Wq0nFNnBL4O2"
-        }
-      ],
-      "duration_ms": 168053,
-      "name": "S\u00e1bado D.F.",
-      "url": "https://open.spotify.com/track/2CoCTWNwmcDsTMPxG4CmMP"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "A Bailar Se Ha Dicho",
-        "url": "https://open.spotify.com/album/5hNJkxdEqoo3xGaDNCROJH"
+        "name": "Los \u00c9xitos de Chava Flores en la Voz de Chava Flores y Fernando Rosas",
+        "url": "https://open.spotify.com/album/6T1qoWlqTnzh8668YTyKSL"
       },
       "artists": [
         {
-          "name": "Los Plebeyos",
-          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
+          "name": "Chava Flores",
+          "url": "https://open.spotify.com/artist/3qvw5E5LD9Wq0nFNnBL4O2"
         }
       ],
-      "duration_ms": 146468,
-      "name": "Sabor A Guayaba",
-      "url": "https://open.spotify.com/track/3Gy7M3ycoSLO9uMhIlPY9u"
+      "duration_ms": 168053,
+      "name": "S\u00e1bado D.F.",
+      "url": "https://open.spotify.com/track/2CoCTWNwmcDsTMPxG4CmMP"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
+        "name": "Aguanta Coraz\u00f3n (1955 -1959)",
+        "url": "https://open.spotify.com/album/3vWOVb2soptTEz5vdUPY2c"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 174393,
+      "name": "Alma llanera",
+      "url": "https://open.spotify.com/track/37uKoiJSNUeHiUVJmP4rWM"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
         "name": "Colecci\u00f3n Diamante",
         "url": "https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 165933,
       "name": "El Manisero",
       "url": "https://open.spotify.com/track/6b8ZFIKJGomI4OgYgoQ5Ty"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "Aguanta Coraz\u00f3n (1955 -1959)",
-        "url": "https://open.spotify.com/album/3vWOVb2soptTEz5vdUPY2c"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 174393,
-      "name": "Alma llanera",
-      "url": "https://open.spotify.com/track/37uKoiJSNUeHiUVJmP4rWM"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
+        "name": "Tibiri Tabara",
+        "url": "https://open.spotify.com/album/0sBZusCQsXx3gERsOGyeOD"
+      },
+      "artists": [
+        {
+          "name": "Sierra Maestra",
+          "url": "https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "T\u00edbiri T\u00e1bara",
+      "url": "https://open.spotify.com/track/5imytNyyEoxEvClMBwZe6j"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
         "name": "Aguita de Coco",
         "url": "https://open.spotify.com/album/2mnZqRaITER5ycCq6AXcQV"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 217813,
       "name": "Aguita de Coco",
       "url": "https://open.spotify.com/track/2uFL2daNnQgaBzFynQAvJo"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "Tibiri Tabara",
-        "url": "https://open.spotify.com/album/0sBZusCQsXx3gERsOGyeOD"
-      },
-      "artists": [
-        {
-          "name": "Sierra Maestra",
-          "url": "https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "T\u00edbiri T\u00e1bara",
-      "url": "https://open.spotify.com/track/5imytNyyEoxEvClMBwZe6j"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2CktXUtQ2L4pUIDgmzdsHa"
-      },
-      "artists": [
-        {
-          "name": "Los Aragon",
-          "url": "https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw"
-        }
-      ],
-      "duration_ms": 130002,
-      "name": "Tema De Lara",
-      "url": "https://open.spotify.com/track/6XG9vkGncaL7SMcq4jg9eb"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Coleccion Original",
         "url": "https://open.spotify.com/album/1hu7GjmtnChBUBDLZjb2Mb"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 186720,
       "name": "La Cocaleca",
       "url": "https://open.spotify.com/track/58CN85IjWK5GSLFqXeq9lm"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2CktXUtQ2L4pUIDgmzdsHa"
+      },
+      "artists": [
+        {
+          "name": "Los Aragon",
+          "url": "https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw"
+        }
+      ],
+      "duration_ms": 130002,
+      "name": "Tema De Lara",
+      "url": "https://open.spotify.com/track/6XG9vkGncaL7SMcq4jg9eb"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "That Cuban Cha Cha",
-        "url": "https://open.spotify.com/album/0Bps0zXxMfLbDhVS7decVt"
+        "name": "Pachito E\u00b4che",
+        "url": "https://open.spotify.com/album/0Cxh8n8EkCGsrM5v7xrFnA"
       },
       "artists": [
         {
-          "name": "Orquesta Arag\u00f3n",
-          "url": "https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr"
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
         }
       ],
-      "duration_ms": 188160,
-      "name": "El Bodeguero",
-      "url": "https://open.spotify.com/track/7dM7GVMw7EWT5juif19fgX"
+      "duration_ms": 188290,
+      "name": "La Culebra",
+      "url": "https://open.spotify.com/track/28NfNMIx60WE9757qHI2J1"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Pachito E\u00b4che",
-        "url": "https://open.spotify.com/album/0Cxh8n8EkCGsrM5v7xrFnA"
+        "name": "That Cuban Cha Cha",
+        "url": "https://open.spotify.com/album/0Bps0zXxMfLbDhVS7decVt"
       },
       "artists": [
         {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+          "name": "Orquesta Arag\u00f3n",
+          "url": "https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr"
         }
       ],
-      "duration_ms": 188290,
-      "name": "La Culebra",
-      "url": "https://open.spotify.com/track/28NfNMIx60WE9757qHI2J1"
+      "duration_ms": 188160,
+      "name": "El Bodeguero",
+      "url": "https://open.spotify.com/track/7dM7GVMw7EWT5juif19fgX"
     },
     {
       "added_at": "2023-01-23 22:42:50",

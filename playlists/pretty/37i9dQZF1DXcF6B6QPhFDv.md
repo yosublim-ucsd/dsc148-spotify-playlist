@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > blink\-182 along with today's Rock songs you need to know.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,797,899 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,799,827 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 49 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 |
 | 50 | [Heartbreak Kid](https://open.spotify.com/track/52J6YtU7jLcoBKShJxMITp) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Heartbreak Kid](https://open.spotify.com/album/6iDURKweXeDCpXnIXcTchM) | 3:00 |
 
-Snapshot ID: `MCxiYzNlYTZmZDY3MjIxNGQyMmQ0MzAyMTExZWU0N2Y1MjU5OTc3Y2Vj`
+Snapshot ID: `MCxhMWQwMDZhYjRjNWY2NjkzNGE2ZjI0MDAwYTRmZWE4MmU3OTY1YzM1`

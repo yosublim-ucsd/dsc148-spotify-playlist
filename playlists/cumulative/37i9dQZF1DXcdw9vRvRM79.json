@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 274500,
       "name": "A Rainy Day",
       "url": "https://open.spotify.com/track/48OP27UHUkU4R1YdaKjP2p"
@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Astral Abyss",
+        "url": "https://open.spotify.com/album/3eQwJNXiMcWiVEBvM2YViS"
+      },
+      "artists": [
+        {
+          "name": "Mindful Measures",
+          "url": "https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199245,
+      "name": "Astral Abyss - Sound Bath",
+      "url": "https://open.spotify.com/track/2f1eM4SOV9TR9Cn50Qb3X0"
+    },
+    {
+      "album": {
         "name": "Beyond Stillness",
         "url": "https://open.spotify.com/album/4rdtBWNEGTtROhwD3DCq10"
       },
@@ -110,6 +128,24 @@
       "duration_ms": 152624,
       "name": "Bless the rain",
       "url": "https://open.spotify.com/track/4316Vo0mHiEqYZyPaAO8QJ"
+    },
+    {
+      "album": {
+        "name": "Blue Moon Shadow (528 Hz Rain)",
+        "url": "https://open.spotify.com/album/73ajiWPZKRnw9lN3faZS0K"
+      },
+      "artists": [
+        {
+          "name": "Syntropic Mind",
+          "url": "https://open.spotify.com/artist/01O0xjXft0U8kHePVxE0iC"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Blue Moon Shadow (528 Hz Rain)",
+      "url": "https://open.spotify.com/track/75VC0x88Tb6kKoSNRjxZKL"
     },
     {
       "album": {
@@ -236,6 +272,24 @@
       "duration_ms": 352500,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/4vTOrAXAOgUoweADeF5I0C"
+    },
+    {
+      "album": {
+        "name": "Returning to the Moment & Circle of Solitude",
+        "url": "https://open.spotify.com/album/15OItHbcXHD0A2Rs9leWEh"
+      },
+      "artists": [
+        {
+          "name": "Aurora Axis",
+          "url": "https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Circle of Solitude (in the Rain)",
+      "url": "https://open.spotify.com/track/1go1DH4MbQDYmMo0ee1u8k"
     },
     {
       "album": {
@@ -437,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Evighet Rain",
+        "url": "https://open.spotify.com/album/7IJsF3kqxRkA6rzcOMGYRz"
+      },
+      "artists": [
+        {
+          "name": "Jungussen",
+          "url": "https://open.spotify.com/artist/0pEakNfx2p7HQU6e3Ow9jW"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186750,
+      "name": "Evighet Rain",
+      "url": "https://open.spotify.com/track/5RYXKxCk5nqe4VWwrimXa6"
+    },
+    {
+      "album": {
         "name": "Fading",
         "url": "https://open.spotify.com/album/3Ozgr3NwCMB2YLaZEFKmR4"
       },
@@ -520,7 +592,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 137647,
       "name": "Fragile Rain",
       "url": "https://open.spotify.com/track/0uiCq1HS0BuNXFhtt1MlZr"
@@ -556,7 +628,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 287819,
       "name": "Healing Rain",
       "url": "https://open.spotify.com/track/3GHubhWgwgig5GnKFrY10V"
@@ -923,6 +995,42 @@
     },
     {
       "album": {
+        "name": "Returning to the Moment & Circle of Solitude",
+        "url": "https://open.spotify.com/album/15OItHbcXHD0A2Rs9leWEh"
+      },
+      "artists": [
+        {
+          "name": "Aurora Axis",
+          "url": "https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Returning to the Moment (in the Rain)",
+      "url": "https://open.spotify.com/track/3UqcyeFWIvvZRp8gHvqzsH"
+    },
+    {
+      "album": {
+        "name": "Sacral Sound Bath (528 Hz)",
+        "url": "https://open.spotify.com/album/3JptFEwX1TtkenkiYeqixQ"
+      },
+      "artists": [
+        {
+          "name": "Rah Moon",
+          "url": "https://open.spotify.com/artist/2ZTWRQ0L4s7UuB55QBxOfN"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158671,
+      "name": "Sacral Sound Bath (528 Hz)",
+      "url": "https://open.spotify.com/track/0ZUIbpVQ1J9Rr7rMdSpLzx"
+    },
+    {
+      "album": {
         "name": "Sacred Pace",
         "url": "https://open.spotify.com/album/39GPeST40NH8GOEU5UmXWd"
       },
@@ -1022,7 +1130,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 113750,
       "name": "Solar Winds",
       "url": "https://open.spotify.com/track/0mbtO31eMSpK4rRK8Rh4PI"
@@ -1040,7 +1148,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 107076,
       "name": "Something New",
       "url": "https://open.spotify.com/track/6r20JaBI5mFikdksEjvIIY"
@@ -1170,6 +1278,24 @@
       "duration_ms": 181666,
       "name": "The Healer",
       "url": "https://open.spotify.com/track/3w6Vt2kE5Zn9p9fKsDijgu"
+    },
+    {
+      "album": {
+        "name": "The Heart of the Storm",
+        "url": "https://open.spotify.com/album/3iKn0ATFIiMMsNTe47qMJf"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hoffman",
+          "url": "https://open.spotify.com/artist/317F1iW6iH9zh8WaLoI1d7"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168145,
+      "name": "The Heart of the Storm",
+      "url": "https://open.spotify.com/track/0sE2WzHvYU7R1cjYfo2who"
     },
     {
       "album": {

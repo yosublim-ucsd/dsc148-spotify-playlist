@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > o melhor do trap dá o play e aumenta! Foto: Orochi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,293,526 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,294,325 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [Chocolate](https://open.spotify.com/track/1wel2ZS8igiOCdRByEKRe0) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K) | [Chocolate](https://open.spotify.com/album/6qivCWwzJNbXu2tLo9kXIy) | 2:52 |
 | 50 | [Manda Áudio](https://open.spotify.com/track/106v1J8uUOsa6Q0pAcxsKr) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Vice\-Versa](https://open.spotify.com/artist/3uFYZKcA0ABjsnxzgEBhKX) | [Manda Áudio](https://open.spotify.com/album/51Jdr9EBtQHruGrmzNZF5h) | 2:18 |
 
-Snapshot ID: `MCxkMzY3ZTBlZDY4NjI2NDczYzI3MzliMTlmNWVjZGJjZTE1MjdkMzNl`
+Snapshot ID: `MCw5MWZmNGEwZjk4MTQ0MDNiNTFlOGQwMTY0MjBhZWJhMTIwNmU4Mjg0`

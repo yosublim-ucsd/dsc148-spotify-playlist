@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 222385,
+  "num_followers": 222434,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDhkNmM1Y2Q4ZjNlZWEwMGFlMzJlYWZiYTI2M2QyNTg4ZDAxNWM1",
+  "snapshot_id": "MCwwNWM3MDc3ZWFmOTJkMzIyN2M3ZmE4MTRjYjVjNmE4ZGVlZjEyNDYw",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -623,6 +623,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Fear of Music (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 188973,
+      "name": "I Zimbra - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Grandmaster Flash, Grandmaster Melle-Mel & The Furious Five: The Greatest Hits",
         "url": "https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9"
       },
@@ -643,18 +659,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Fear of Music (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
+        "name": "Disco Jazz",
+        "url": "https://open.spotify.com/album/39VaqEkzu1GAw1pESi2tBt"
       },
       "artists": [
         {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+          "name": "Rupa",
+          "url": "https://open.spotify.com/artist/1ZeGksupgZKMlzvtBjMEEh"
         }
       ],
-      "duration_ms": 188973,
-      "name": "I Zimbra - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D"
+      "duration_ms": 479629,
+      "name": "Aaj Shanibar",
+      "url": "https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -671,22 +687,6 @@
       "duration_ms": 414000,
       "name": "Running Away - 12-Inch Long Version",
       "url": "https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Disco Jazz",
-        "url": "https://open.spotify.com/album/39VaqEkzu1GAw1pESi2tBt"
-      },
-      "artists": [
-        {
-          "name": "Rupa",
-          "url": "https://open.spotify.com/artist/1ZeGksupgZKMlzvtBjMEEh"
-        }
-      ],
-      "duration_ms": 479629,
-      "name": "Aaj Shanibar",
-      "url": "https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "World",
-        "url": "https://open.spotify.com/album/4ka25IRzopZcy8QCBwHF80"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 327560,
-      "name": "Exotica Dance Club",
-      "url": "https://open.spotify.com/track/08NpvTDlC0HaA4RwO1wRs7"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Mysteries of the World",
         "url": "https://open.spotify.com/album/3HFASQCSrKTM9DSu3FevyN"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 330080,
       "name": "Mysteries of the World",
       "url": "https://open.spotify.com/track/5WYzouzEJIKk0QJjNsiVue"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "World",
+        "url": "https://open.spotify.com/album/4ka25IRzopZcy8QCBwHF80"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 327560,
+      "name": "Exotica Dance Club",
+      "url": "https://open.spotify.com/track/08NpvTDlC0HaA4RwO1wRs7"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Charles Webster - Coast2Coast",
-        "url": "https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO"
-      },
-      "artists": [
-        {
-          "name": "Larry Heard",
-          "url": "https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz"
-        }
-      ],
-      "duration_ms": 396546,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Silk Rhodes",
         "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 145646,
       "name": "Face 2 Face",
       "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Charles Webster - Coast2Coast",
+        "url": "https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO"
+      },
+      "artists": [
+        {
+          "name": "Larry Heard",
+          "url": "https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz"
+        }
+      ],
+      "duration_ms": 396546,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Early Recordings",
-        "url": "https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs"
-      },
-      "artists": [
-        {
-          "name": "Patchworks",
-          "url": "https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo"
-        }
-      ],
-      "duration_ms": 330013,
-      "name": "Brothers on the Slide - Brooklyn Mix",
-      "url": "https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Paradise (Remastered)",
         "url": "https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 331893,
       "name": "Classy Lady - Remastered Version",
       "url": "https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Early Recordings",
+        "url": "https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs"
+      },
+      "artists": [
+        {
+          "name": "Patchworks",
+          "url": "https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo"
+        }
+      ],
+      "duration_ms": 330013,
+      "name": "Brothers on the Slide - Brooklyn Mix",
+      "url": "https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Gwen McCrae: Cat & Atlantic Years",
-        "url": "https://open.spotify.com/album/5hUkNJBkNpK5oINAjEdpVt"
-      },
-      "artists": [
-        {
-          "name": "Gwen McCrae",
-          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
-        }
-      ],
-      "duration_ms": 233306,
-      "name": "All This Love That I'm Givin'",
-      "url": "https://open.spotify.com/track/18Zt6bYW7WZ7gIzFHPHNXu"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Taana Gardner",
         "url": "https://open.spotify.com/album/3Cry53QsMK0kF7Z59FUml0"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 587029,
       "name": "Heartbeat (Club Mix) (2012 - Remaster)",
       "url": "https://open.spotify.com/track/281WOsKoaGN9lMttUL7tjs"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Gwen McCrae: Cat & Atlantic Years",
+        "url": "https://open.spotify.com/album/5hUkNJBkNpK5oINAjEdpVt"
+      },
+      "artists": [
+        {
+          "name": "Gwen McCrae",
+          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
+        }
+      ],
+      "duration_ms": 233306,
+      "name": "All This Love That I'm Givin'",
+      "url": "https://open.spotify.com/track/18Zt6bYW7WZ7gIzFHPHNXu"
     },
     {
       "added_at": "2022-09-05 16:54:43",

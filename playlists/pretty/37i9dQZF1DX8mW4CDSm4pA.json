@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/domfishback/\">Dominique Fishback</a>. ",
-  "num_followers": 382,
+  "num_followers": 381,
   "original_name": "Dominique's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWRlYTkxYWNmMWUwNzBjYTYwYTc4OTUxNGJhMGRiNjc5YTIzNmIy",
+  "snapshot_id": "MCw3MzFkYjNhMzMxY2FiNTY0NzAxYzE2NmM4MjE0YzcwNTA5YzU4NDc0",
   "tracks": [
     {
       "added_at": "2023-06-01 04:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-06-01 04:00:00",
       "album": {
-        "name": "Penny & the Quarters EP",
-        "url": "https://open.spotify.com/album/6zmwrJVYFvWE4xOVFBP04V"
-      },
-      "artists": [
-        {
-          "name": "Penny & The Quarters",
-          "url": "https://open.spotify.com/artist/76sXjAhV0Hc3Pdb6bH3waC"
-        }
-      ],
-      "duration_ms": 160813,
-      "name": "You And Me",
-      "url": "https://open.spotify.com/track/39FFlqltctkj6vkIcVgkec"
-    },
-    {
-      "added_at": "2023-06-01 04:00:00",
-      "album": {
         "name": "Flesh Of My Flesh, Blood Of My Blood",
         "url": "https://open.spotify.com/album/3dNsHWAS8t7AiAqj9ofG5T"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 305466,
       "name": "Slippin'",
       "url": "https://open.spotify.com/track/740gNyGWKk98gy8nJLhHrv"
+    },
+    {
+      "added_at": "2023-06-01 04:00:00",
+      "album": {
+        "name": "Penny & the Quarters EP",
+        "url": "https://open.spotify.com/album/6zmwrJVYFvWE4xOVFBP04V"
+      },
+      "artists": [
+        {
+          "name": "Penny & The Quarters",
+          "url": "https://open.spotify.com/artist/76sXjAhV0Hc3Pdb6bH3waC"
+        }
+      ],
+      "duration_ms": 160813,
+      "name": "You And Me",
+      "url": "https://open.spotify.com/track/39FFlqltctkj6vkIcVgkec"
     },
     {
       "added_at": "2023-06-01 04:00:00",

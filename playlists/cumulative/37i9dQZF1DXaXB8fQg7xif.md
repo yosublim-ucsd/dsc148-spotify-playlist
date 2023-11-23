@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,024 songs - 2 day 7 hr 25 min
+1,025 songs - 2 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [DALE](https://open.spotify.com/track/4BVn3RIQ4gZxxytx8duidP) | [ricky retro](https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8) | [DALE](https://open.spotify.com/album/0MNPF6dmnLWxPypu6wVJH5) | 2:11 | 2020-05-22\* | 2020-07-01 |
 | [Dame Mas](https://open.spotify.com/track/0JZdzytn0hL7Zzr538YEos) | [BadWolf](https://open.spotify.com/artist/6MyKIMrr222sdw8idnPVSd), [Soff](https://open.spotify.com/artist/7w1nxdMHMb92psp9qhI9mM) | [Dame Mas](https://open.spotify.com/album/0APfj52qXDE1HGaKGhFQJs) | 6:25 | 2022-04-29 | 2022-05-14 |
 | [Dance and Chant](https://open.spotify.com/track/1ZhpOYEE0nGcn0k7Ai7DK1) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Dance and Chant](https://open.spotify.com/album/1kyWzwoj5zkIK71DCoHXIq) | 3:09 | 2020-05-22\* | 2022-04-12 |
-| [Dance Around It](https://open.spotify.com/track/4ThxV3T887uIHatv3QPMhO) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Dance Around It](https://open.spotify.com/album/6vxZwJ7nz8OQ8UbEI4maOt) | 2:24 | 2023-05-26 |  |
+| [Dance Around It](https://open.spotify.com/track/4ThxV3T887uIHatv3QPMhO) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Dance Around It](https://open.spotify.com/album/6vxZwJ7nz8OQ8UbEI4maOt) | 2:24 | 2023-05-26 | 2023-11-23 |
 | [Dance No More \(with Kaleena Zanders\)](https://open.spotify.com/track/5IkqbeN8L6DC9kRA7Hp64t) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Dance No More \(with Kaleena Zanders\)](https://open.spotify.com/album/3QOx2Pb0YAOD48iVQOAqjA) | 3:22 | 2023-09-22 |  |
 | [Dance With Somebody](https://open.spotify.com/track/0Jmh09aQdMyzpIwnwNwiLS) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Benny Bridges](https://open.spotify.com/artist/4lP1lKWYqNLYWYtnuTh8OF) | [Dance With Somebody](https://open.spotify.com/album/5P3b13kbX6kSjcURHPyqxv) | 3:24 | 2023-05-19 | 2023-09-07 |
 | [Dancing](https://open.spotify.com/track/7xbBNB9bivza5vrYfnZJYg) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Dancing](https://open.spotify.com/album/3iPsWPoPZgELmUp9karTTe) | 4:00 | 2021-11-20 | 2022-08-13 |
@@ -826,6 +826,7 @@
 | [Slow Down](https://open.spotify.com/track/66HB3QjqHIl9VF4O7ojyEB) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Slow Down](https://open.spotify.com/album/3amvTG1sQqcGwCE1vOsDNg) | 3:11 | 2022-04-01 | 2022-06-23 |
 | [Slow Down \(feat\. Jorja Smith\) \- Vintage Culture & Slow Motion Remix](https://open.spotify.com/track/5PNvgiKSwMdjBsDsgFCFLX) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Slow Motion](https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I) | [Slow Down \(feat\. Jorja Smith\) \[Vintage Culture & Slow Motion Remix\]](https://open.spotify.com/album/3AvjrWwSEgfZs0Ic7Srt8b) | 3:01 | 2020-11-03 | 2021-10-13 |
 | [Smack Yo'](https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Smack Yo'](https://open.spotify.com/album/22zxJTlAohxTyPwxjrfwqm) | 4:05 | 2022-10-07 |  |
+| [Smash My Heart](https://open.spotify.com/track/4f9iU6U8XBqlzZyoEHirXS) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Pink](https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL) | 2:50 | 2023-11-17 |  |
 | [Smash My Heart](https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Smash My Heart](https://open.spotify.com/album/6OGooptBXrnOCxCvdgKz7O) | 2:50 | 2023-07-14 | 2023-11-11 |
 | [So Hot \- MK x Nightlapse Remix](https://open.spotify.com/track/41hcstGzn592p7hyWMfOjv) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c), [Nightlapse](https://open.spotify.com/artist/7tnekRHOd4h5mo77R3OOxX), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [So Hot \(MK x Nightlapse Remix\)](https://open.spotify.com/album/0w3CDtEsEhQtZzOCSeGrLL) | 3:45 | 2020-08-04 | 2021-12-21 |
 | [So Into You](https://open.spotify.com/track/4h5I5Y4HZzLNFveiLyXABZ) | [Lost + Found](https://open.spotify.com/artist/5mRE8kKA1XzOkZpPSiF5yv) | [So Into You](https://open.spotify.com/album/48wX1Mat1ZZE5yhjH5PoC4) | 2:40 | 2020-12-12 | 2021-12-11 |

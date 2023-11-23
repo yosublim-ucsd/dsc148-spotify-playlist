@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:09LCTrVGnMsGbxexUFJoap\">Lacey Sturm</a> ",
-  "num_followers": 140484,
+  "num_followers": 140537,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWIzYzgzYjNlM2EwY2U2MmMyOTcyMWU0MGNkMTUxODdhMGIzZjUw",
+  "snapshot_id": "MCwwODU5NjRiMzczZTI5OTRkNzk1NTM2YTVhMTdlNjdhOGY4OGNjNTg5",
   "tracks": [
     {
       "added_at": "2023-11-17 22:08:15",
@@ -303,22 +303,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Dominion: Day of Destiny",
-        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
+        "name": "Dominion",
+        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
       },
       "artists": [
         {
           "name": "Skillet",
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        },
-        {
-          "name": "Adam Gontier",
-          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
         }
       ],
-      "duration_ms": 207759,
-      "name": "Finish Line (feat. Adam Gontier)",
-      "url": "https://open.spotify.com/track/3zkge7duYNYjsByp6Q0qZM"
+      "duration_ms": 238870,
+      "name": "Surviving The Game",
+      "url": "https://open.spotify.com/track/0urubGmXiODfWyGL6o6W4P"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -419,38 +415,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "I'm Living Righteous",
-        "url": "https://open.spotify.com/album/0ciyefHKuOKaPFTmMStdea"
-      },
-      "artists": [
-        {
-          "name": "Alex Jean",
-          "url": "https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "I'm Living Righteous",
-      "url": "https://open.spotify.com/track/1nxEUqqYeq2UCObsrZ30y4"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "Dominion",
-        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 238870,
-      "name": "Surviving The Game",
-      "url": "https://open.spotify.com/track/0urubGmXiODfWyGL6o6W4P"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Three Nails",
         "url": "https://open.spotify.com/album/544EtjtqYdmqkar16e8xtc"
       },
@@ -463,6 +427,42 @@
       "duration_ms": 210511,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/5lb9lMxW4p4Wm0Ecdv8W7f"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Dominion: Day of Destiny",
+        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        },
+        {
+          "name": "Adam Gontier",
+          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
+        }
+      ],
+      "duration_ms": 207759,
+      "name": "Finish Line (feat. Adam Gontier)",
+      "url": "https://open.spotify.com/track/3zkge7duYNYjsByp6Q0qZM"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "I'm Living Righteous",
+        "url": "https://open.spotify.com/album/0ciyefHKuOKaPFTmMStdea"
+      },
+      "artists": [
+        {
+          "name": "Alex Jean",
+          "url": "https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "I'm Living Righteous",
+      "url": "https://open.spotify.com/track/1nxEUqqYeq2UCObsrZ30y4"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
+        "name": "Kenotic Metanoia",
+        "url": "https://open.spotify.com/album/0yZGwoSScfeRA5dbZ6NGy3"
+      },
+      "artists": [
+        {
+          "name": "Lacey Sturm",
+          "url": "https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "State of Me",
+      "url": "https://open.spotify.com/track/7rSW52PJGbeFMwIdk5kEmB"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
         "name": "Have A Little Faith",
         "url": "https://open.spotify.com/album/7K8eL4wIKT0MtV1Z9oOl2q"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 272281,
       "name": "Listen Friend",
       "url": "https://open.spotify.com/track/14AnfhjSiQyo0uNzsjG4bK"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "Kenotic Metanoia",
-        "url": "https://open.spotify.com/album/0yZGwoSScfeRA5dbZ6NGy3"
-      },
-      "artists": [
-        {
-          "name": "Lacey Sturm",
-          "url": "https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap"
-        }
-      ],
-      "duration_ms": 194040,
-      "name": "State of Me",
-      "url": "https://open.spotify.com/track/7rSW52PJGbeFMwIdk5kEmB"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Still Alive",
-        "url": "https://open.spotify.com/album/46JJleyJyvOvbOfiH9TbO3"
-      },
-      "artists": [
-        {
-          "name": "Red",
-          "url": "https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Still Alive",
-      "url": "https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Live Again",
         "url": "https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 225840,
       "name": "Live Again",
       "url": "https://open.spotify.com/track/1k64wHAUesHpWz0bBZV8UH"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Still Alive",
+        "url": "https://open.spotify.com/album/46JJleyJyvOvbOfiH9TbO3"
+      },
+      "artists": [
+        {
+          "name": "Red",
+          "url": "https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Still Alive",
+      "url": "https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/53d2Js7Xbyw8MlCq2EcXvW"
+      },
+      "artists": [
+        {
+          "name": "XXI",
+          "url": "https://open.spotify.com/artist/7dPci6f1wSaMR2McjBdb4C"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "Way You Love Me",
+      "url": "https://open.spotify.com/track/1CFV6jDeM0HDY0wqvbhNCW"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
         "name": "Acoustic - EP",
         "url": "https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 254866,
       "name": "Balconies",
       "url": "https://open.spotify.com/track/5qGemnxUmsiA4vHME1K3Fo"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/53d2Js7Xbyw8MlCq2EcXvW"
-      },
-      "artists": [
-        {
-          "name": "XXI",
-          "url": "https://open.spotify.com/artist/7dPci6f1wSaMR2McjBdb4C"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "Way You Love Me",
-      "url": "https://open.spotify.com/track/1CFV6jDeM0HDY0wqvbhNCW"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Pennell",
-        "url": "https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D"
-      },
-      "artists": [
-        {
-          "name": "Pennell",
-          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
-        }
-      ],
-      "duration_ms": 333370,
-      "name": "Send Forth Laborers",
-      "url": "https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Futures",
         "url": "https://open.spotify.com/album/5bEuICumNUiE7BVE3kUFV7"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 246286,
       "name": "Drive",
       "url": "https://open.spotify.com/track/05rFfMp2OJiuspwd2XADJS"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Pennell",
+        "url": "https://open.spotify.com/album/10HIcl5dqsQbzbg93Q6i6D"
+      },
+      "artists": [
+        {
+          "name": "Pennell",
+          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
+        }
+      ],
+      "duration_ms": 333370,
+      "name": "Send Forth Laborers",
+      "url": "https://open.spotify.com/track/6GvKRrywS5aUfHWry1KaEb"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Salvation For 100%",
-        "url": "https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF"
-      },
-      "artists": [
-        {
-          "name": "Pennell",
-          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
-        },
-        {
-          "name": "Jacob Coyne",
-          "url": "https://open.spotify.com/artist/7K73VB30xtMVN68b30wzfR"
-        }
-      ],
-      "duration_ms": 369191,
-      "name": "Salvation For 100%",
-      "url": "https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Pariah",
         "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
       },
@@ -1423,22 +1403,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Faith Over Fear",
-        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
-      },
-      "artists": [
-        {
-          "name": "Aaron Michaels",
-          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
-        }
-      ],
-      "duration_ms": 194298,
-      "name": "Faith Over Fear",
-      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Melancholy Machines",
         "url": "https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz"
       },
@@ -1451,6 +1415,42 @@
       "duration_ms": 255980,
       "name": "Pls Snd Hlp",
       "url": "https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Salvation For 100%",
+        "url": "https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF"
+      },
+      "artists": [
+        {
+          "name": "Pennell",
+          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
+        },
+        {
+          "name": "Jacob Coyne",
+          "url": "https://open.spotify.com/artist/7K73VB30xtMVN68b30wzfR"
+        }
+      ],
+      "duration_ms": 369191,
+      "name": "Salvation For 100%",
+      "url": "https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Faith Over Fear",
+        "url": "https://open.spotify.com/album/1AIYD2XjncX9ir1zRTrgV0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Michaels",
+          "url": "https://open.spotify.com/artist/2aNlHGoWugw2nY0gNmu3fd"
+        }
+      ],
+      "duration_ms": 194298,
+      "name": "Faith Over Fear",
+      "url": "https://open.spotify.com/track/7Cta8xZQzWkvYOKVxL64gC"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
+        "name": "The Seventh Seal",
+        "url": "https://open.spotify.com/album/2j6zV6SBFEmqssUFMeOxJO"
+      },
+      "artists": [
+        {
+          "name": "All For The King",
+          "url": "https://open.spotify.com/artist/1Lc6WndggonIvvJlq8qdOF"
+        },
+        {
+          "name": "Ulf Christiansson",
+          "url": "https://open.spotify.com/artist/14dnSBT7oYepXKo7iqsq58"
+        }
+      ],
+      "duration_ms": 214728,
+      "name": "The Seventh Seal (feat. Ulf Christiansson)",
+      "url": "https://open.spotify.com/track/0BozmqbKcWNBdRPCyFNwwo"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
         "name": "Boom (The Crystal Method Remix) [2021 Remaster]",
         "url": "https://open.spotify.com/album/0ShPWwAwhOYolkaEiboDOr"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 196294,
       "name": "Boom (The Crystal Method Remix) - 2021 Remaster",
       "url": "https://open.spotify.com/track/5E10Tq93lSG3gP6usfKAT6"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "The Seventh Seal",
-        "url": "https://open.spotify.com/album/2j6zV6SBFEmqssUFMeOxJO"
-      },
-      "artists": [
-        {
-          "name": "All For The King",
-          "url": "https://open.spotify.com/artist/1Lc6WndggonIvvJlq8qdOF"
-        },
-        {
-          "name": "Ulf Christiansson",
-          "url": "https://open.spotify.com/artist/14dnSBT7oYepXKo7iqsq58"
-        }
-      ],
-      "duration_ms": 214728,
-      "name": "The Seventh Seal (feat. Ulf Christiansson)",
-      "url": "https://open.spotify.com/track/0BozmqbKcWNBdRPCyFNwwo"
     },
     {
       "added_at": "2023-11-17 22:08:15",

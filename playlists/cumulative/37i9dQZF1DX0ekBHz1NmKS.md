@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-873 songs - 1 day 22 hr 5 min
+874 songs - 1 day 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Heartbreak Hotel](https://open.spotify.com/track/1GgYN93yWE3pA7wmbvkX1F) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG) | [Heartbreak Hotel](https://open.spotify.com/album/6AEhJn5nqGPP6bGXO7HJYq) | 2:37 | 2022-04-07 | 2022-04-21 |
 | [Heartbreakmiljonär](https://open.spotify.com/track/2li3Mf9nEwOkvQ43QUNh0j) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Heartbreakmiljonär](https://open.spotify.com/album/0b4MV4Nget3iV9y2vi7Ewz) | 3:13 | 2023-10-12 | 2023-11-19 |
 | [Heartbreakmiljonär](https://open.spotify.com/track/49I4fTavMoX9SL0KDmd6Tw) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Heartbreakmiljonär](https://open.spotify.com/album/6rRVhNGvjcmFs9kgfi660n) | 3:13 | 2023-11-16 |  |
+| [Heartstrings](https://open.spotify.com/track/2pohuzN9EF18O5cFEi0qaW) | [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Heartstrings](https://open.spotify.com/album/328NMDlL1I9SemrTEUTQOw) | 2:40 | 2023-11-16 |  |
 | [Heaven med dig](https://open.spotify.com/track/03UV6Xr4KkBwN4ej2C1irI) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt](https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM) | 3:03 | 2022-07-28 | 2023-10-06 |
 | [Heaven med dig](https://open.spotify.com/track/787m7kcyC5KB6IQ87jkwbX) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Heaven med dig](https://open.spotify.com/album/2vzCnj1pPXHhvobiWvRFtK) | 3:03 | 2022-05-12 | 2022-07-29 |
 | [Hela Vägen Upp](https://open.spotify.com/track/7CgPoYEwEFp4w71sECwFou) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [Jaqe](https://open.spotify.com/artist/6GFNszjoVtonHtwNFGUABT) | [Hela Vägen Upp](https://open.spotify.com/album/5d313T0tvzEEZrsibsdvjP) | 3:01 | 2022-10-15 | 2023-02-07 |
@@ -744,7 +745,7 @@
 | [Take A Chance On Me](https://open.spotify.com/track/6KJBwR1yrqviwL31XRpu3n) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3yZSOcz06tt6XFh5sWGnkI) | 4:24 | 2023-10-05 | 2023-11-17 |
 | [Tappat \- Spotify Singles](https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Tappat \- Spotify Singles](https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW) | 2:30 | 2022-09-29 | 2023-10-06 |
 | [Tar det som det kommer](https://open.spotify.com/track/1Di5aUgV5pLRQhn9w1rQSx) | [HON](https://open.spotify.com/artist/4ErLqbv0gQ49ED1AKtvrBr) | [Tar det som det kommer](https://open.spotify.com/album/2YWizNtuqlm7GiBu6b68LU) | 3:27 | 2022-04-07 | 2022-11-08 |
-| [Taste Of Heaven](https://open.spotify.com/track/2ByE2T6q6xsJ4540xka3pz) | [Cazzi Opeia](https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee) | [Taste Of Heaven](https://open.spotify.com/album/0Cbt2xiCAc1vjTCHnPdFDG) | 2:50 | 2023-11-03 |  |
+| [Taste Of Heaven](https://open.spotify.com/track/2ByE2T6q6xsJ4540xka3pz) | [Cazzi Opeia](https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee) | [Taste Of Heaven](https://open.spotify.com/album/0Cbt2xiCAc1vjTCHnPdFDG) | 2:50 | 2023-11-03 | 2023-11-23 |
 | [Taxin](https://open.spotify.com/track/6fVsYWoMw8kR0pudjjEUb0) | [Broder Jakob](https://open.spotify.com/artist/6O55JxNwObW4tmmL0jO9zy) | [Taxin](https://open.spotify.com/album/4z5n7zYUidCJA6enyihZ6F) | 2:53 | 2022-05-05 | 2022-07-23 |
 | [Teach Me](https://open.spotify.com/track/67WrJrYuDihmwIVhR4p7N1) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Youth And Why It Ends](https://open.spotify.com/album/2rv9MHfgzqAvshO61zMdBn) | 2:40 | 2023-11-03 |  |
 | [Teach Me](https://open.spotify.com/track/69C61BkstEREBdizQrgbQi) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Teach Me](https://open.spotify.com/album/1G5PjW6Cy80XPTmyRr2nyv) | 2:40 | 2023-10-20 | 2023-11-05 |

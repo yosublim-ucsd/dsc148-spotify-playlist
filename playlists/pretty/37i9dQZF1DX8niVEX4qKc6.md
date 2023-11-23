@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Cata Raybaud y Benjamin Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,907 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,916 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 91 | [Fuji](https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Frontera / Fuji](https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr) | 4:38 |
 | 92 | [Mágica](https://open.spotify.com/track/46rlf6zgGnGcHZG233h3Uf) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Mágica](https://open.spotify.com/album/1dLbHPD9bGcsTAj9dA2GHQ) | 2:16 |
 | 93 | [Pasos Al Costado](https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Turf](https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV) | 4:31 |
-| 94 | [AWCH \- Acústico](https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH \(Acústico\)](https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf) | 3:16 |
-| 95 | [Tren Al Sur](https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Tren Al Sur](https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS) | 3:55 |
-| 96 | [Mundo Agradable \(feat\. Ricardo Mollo\)](https://open.spotify.com/track/4VcZ2jEE3t9ij9XJV9n7in) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Mundo Agradable \(feat\. Ricardo Mollo\)](https://open.spotify.com/album/2nmLLO4dGuIfQ8wTr9esh5) | 4:33 |
-| 97 | [Acuarela](https://open.spotify.com/track/5dC1LZin7IxDvzYx3cMhjc) | [Mariano Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Primavera](https://open.spotify.com/album/20QbwxEHyGQbWzhfr6uUqP) | 4:02 |
-| 98 | [Me Gusta \(Acústico\)](https://open.spotify.com/track/1Cv81Tk7LCeTgZgQPwKxUe) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 4:24 |
-| 99 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
-| 100 | [Nunca Quise](https://open.spotify.com/track/4FcFl5vL9Sr5UiU0Qv39Kx) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Animal](https://open.spotify.com/album/5mpZvqI6GZFC38N266RXqg) | 3:16 |
+| 94 | [Tren Al Sur](https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Tren Al Sur](https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS) | 3:55 |
+| 95 | [AWCH \- Acústico](https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH \(Acústico\)](https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf) | 3:16 |
+| 96 | [Nunca Quise](https://open.spotify.com/track/4FcFl5vL9Sr5UiU0Qv39Kx) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Animal](https://open.spotify.com/album/5mpZvqI6GZFC38N266RXqg) | 3:16 |
+| 97 | [Mundo Agradable \(feat\. Ricardo Mollo\)](https://open.spotify.com/track/4VcZ2jEE3t9ij9XJV9n7in) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Mundo Agradable \(feat\. Ricardo Mollo\)](https://open.spotify.com/album/2nmLLO4dGuIfQ8wTr9esh5) | 4:33 |
+| 98 | [Acuarela](https://open.spotify.com/track/5dC1LZin7IxDvzYx3cMhjc) | [Mariano Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Primavera](https://open.spotify.com/album/20QbwxEHyGQbWzhfr6uUqP) | 4:02 |
+| 99 | [Me Gusta \(Acústico\)](https://open.spotify.com/track/1Cv81Tk7LCeTgZgQPwKxUe) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 4:24 |
+| 100 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
 
-Snapshot ID: `MCw1NjM3OTk4MWMzYzJmMTVhNzQxNDkwNWUyMjM2ZjljNjlhNTQ0MWE2`
+Snapshot ID: `MCxiYWI1OWE3NzVjOGVkNzBmM2IxZDdjOTA4NjU2ZWIyODE4ZmY1Zjlj`

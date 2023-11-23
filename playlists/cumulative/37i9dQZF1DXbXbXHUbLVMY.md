@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-105 songs - 4 hr 31 min
+106 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [555](https://open.spotify.com/track/4s8kJv5M6vIXPciohYgMHN) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi) | [Takket være livet](https://open.spotify.com/album/0FpElBecf0GKSZh1ZV2XZC) | 3:30 | 2023-11-09 |  |
 | [95](https://open.spotify.com/track/41rOFUwgdYCySkMPb99RjL) | [Hiwá](https://open.spotify.com/artist/6dxaJO4moD1NB2YpmTRg4a), [Philip Emilio](https://open.spotify.com/artist/2GN0eor58XbyUUfQxWTgYn) | [95](https://open.spotify.com/album/3IKvmlokK9vfru4Aki55GX) | 2:42 | 2023-09-21 | 2023-10-13 |
 | [Aktiv](https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Spår av BLod](https://open.spotify.com/album/7aZiFpe3Ji0BQ3E2Uo7LzK) | 2:40 | 2023-11-09 |  |
-| [Aura](https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Aura](https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI) | 3:06 | 2023-09-28 |  |
+| [Aura](https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Aura](https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI) | 3:06 | 2023-09-28 | 2023-11-23 |
 | [Automatic](https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Automatic](https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P) | 2:10 | 2023-09-21 |  |
 | [BAD GIRL](https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [BAD GIRL](https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1) | 2:28 | 2023-09-21 |  |
 | [Banana](https://open.spotify.com/track/2EXIXFyWSnJAVzxy4kZQfA) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Banana](https://open.spotify.com/album/3qIFOSosWTxUJu0fSpdemE) | 2:10 | 2023-09-21 | 2023-09-24 |
@@ -56,7 +56,7 @@
 | [Hva Velger Du?](https://open.spotify.com/track/6DZlnogbcsiGyMY8jzvRhu) | [Dio Mudara](https://open.spotify.com/artist/44dtVuy3JdjkJ0PqVh4nKy), [T Section](https://open.spotify.com/artist/6JQh39rF2lAj25dMHEXpoC) | [Hva Velger Du?](https://open.spotify.com/album/35YPGd2TO0R1JDqm3nSJI4) | 2:45 | 2023-09-21 | 2023-09-29 |
 | [Hvit hval](https://open.spotify.com/track/0jEn2ndzR7erpPbKpktqjW) | [Linni](https://open.spotify.com/artist/5EnyJ6QaGHnetHxAUD9Xoc) | [Hvit hval](https://open.spotify.com/album/4YXxwP7NteUVqFzSZLiyW4) | 3:40 | 2023-10-12 | 2023-11-11 |
 | [Hvor Som Helst](https://open.spotify.com/track/6bJJTDQthQY85h4W1l0vad) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Tessas Hævn \(Igen Bitch\)](https://open.spotify.com/album/0fpVZ3AwZeu6EWKuYB1ZEZ) | 2:16 | 2023-09-21 |  |
-| [I Care](https://open.spotify.com/track/05e7SNuOTnMpY6D39ZbNI6) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [I Care](https://open.spotify.com/album/3eEH7sepvY4yYG8DGly0ii) | 2:19 | 2023-11-09 |  |
+| [I Care](https://open.spotify.com/track/05e7SNuOTnMpY6D39ZbNI6) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [I Care](https://open.spotify.com/album/3eEH7sepvY4yYG8DGly0ii) | 2:19 | 2023-11-09 | 2023-11-23 |
 | [jeg har stream](https://open.spotify.com/track/0GGwFY0Wh72UJ1x934E2Kl) | [B\-Boy Myhre](https://open.spotify.com/artist/7H788ePZvqYPv7MxfLt3rj) | [sitter inne](https://open.spotify.com/album/1rVBiTR6WE7TpJ3CI35SD9) | 1:17 | 2023-11-09 |  |
 | [Ka Kac](https://open.spotify.com/track/66rngPnLy4VNXRsTUWaUSw) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [SKAPAD AV SMÄRTAN](https://open.spotify.com/album/5JgB4y6k3WdxG5sVKfUzbp) | 2:41 | 2023-09-21 |  |
 | [KALASH](https://open.spotify.com/track/5yT7K64oCQTH9nlWDVP2a9) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [KALASH](https://open.spotify.com/album/2vPQjrPL4biW6F8s2y2A1f) | 2:10 | 2023-09-21 |  |
@@ -69,13 +69,14 @@
 | [Lenge Leve](https://open.spotify.com/track/0eoNXHlt2V32uXCy60jCCa) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 2:15 | 2023-09-21 |  |
 | [LEVENDE LEGENDE](https://open.spotify.com/track/3JTf2EmzC8Y2xEXTkHbman) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [LEVENDE LEGENDE](https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb) | 4:10 | 2023-09-21 |  |
 | [M.O.B](https://open.spotify.com/track/7scyrGYhNkIz5t4U630EmD) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [M.O.B](https://open.spotify.com/album/3gfzgUuXhBJC2KMjvWgGQ7) | 1:48 | 2023-09-21 |  |
-| [Mama](https://open.spotify.com/track/774f2Kn00cBgYObzXGEHbx) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Mama](https://open.spotify.com/album/7IELyzUSjtZ8BRFXXsvvPO) | 2:15 | 2023-11-09 | 2023-11-21 |
+| [Mama](https://open.spotify.com/track/774f2Kn00cBgYObzXGEHbx) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Mama](https://open.spotify.com/album/7IELyzUSjtZ8BRFXXsvvPO) | 2:15 | 2023-11-09 |  |
 | [MANDANA](https://open.spotify.com/track/6uYHRLIW2Q9qWZGtRuiLSa) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [MANDANA](https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl) | 2:03 | 2023-09-21 |  |
 | [Mariachi](https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Mariachi](https://open.spotify.com/album/5VEJg4FgkfQXOJygPhgqzL) | 2:42 | 2023-10-12 |  |
 | [Marokko Barcelona Colorado California](https://open.spotify.com/track/2jHkG1qU1vrb5gssUNTevT) | [Vågard](https://open.spotify.com/artist/6ZXRSfJDOksQ4bLcqXS71g), [Girson](https://open.spotify.com/artist/62DjNN5uijrpERaMexkBjE) | [Notoriske B.O.G.](https://open.spotify.com/album/1PBwk1ooupSISW2Py20p3O) | 4:12 | 2023-09-21 | 2023-10-13 |
 | [MATRIX](https://open.spotify.com/track/4butcwjYBTovLwdjYsGdz9) | [Hiwá](https://open.spotify.com/artist/6dxaJO4moD1NB2YpmTRg4a) | [ALT DET HER FOR HVA?](https://open.spotify.com/album/6QxpsJgAPM242CqMshoHW3) | 2:26 | 2023-10-19 |  |
 | [Ment for hverandre](https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Det var aldri meg](https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ) | 3:14 | 2023-10-26 |  |
 | [Michelin Stjerner](https://open.spotify.com/track/4KjHgPOIsA8LlMwyAJRlfv) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 3:04 | 2023-09-21 |  |
+| [Millions](https://open.spotify.com/track/2h5GOVxIHF4jJCvIGa8xIq) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Millions](https://open.spotify.com/album/3MAwZL5tB0PKU5DDcB0Ic4) | 2:01 | 2023-11-16 |  |
 | [Millions](https://open.spotify.com/track/6Mel5VQ8UQXDT4aetZvzWg) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Millions](https://open.spotify.com/album/3Xdn3e64AD2PB90zCsA7i0) | 2:01 | 2023-09-21 | 2023-11-11 |
 | [Narcissist](https://open.spotify.com/track/1XKxURVG2NMwaR92iF90Ek) | [Yung Slippy](https://open.spotify.com/artist/5q2b2XIdrnuvoT7hAZqWws), [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [Narcissist](https://open.spotify.com/album/6PSmLzomYnUw4VXEcJSzSp) | 2:05 | 2023-09-21 | 2023-09-25 |
 | [Narcissist \(feat\. Rambow\)](https://open.spotify.com/track/5nYDSfRi5fN8ju240UGSkb) | [Yung Slippy](https://open.spotify.com/artist/5q2b2XIdrnuvoT7hAZqWws), [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [Narcissist \(feat\. Rambow\)](https://open.spotify.com/album/1eBSaoNmGwoFznhndULplu) | 2:05 | 2023-09-21 | 2023-10-13 |

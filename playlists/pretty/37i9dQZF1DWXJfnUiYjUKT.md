@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,853 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,022 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Can't Forget](https://open.spotify.com/track/05lvABI7h1aa0o69Z2hpqS) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Can't Forget](https://open.spotify.com/album/2kGVa9ARhLbTdGbz8MPTPo) | 4:07 |
 | 100 | [Uglyfisherman](https://open.spotify.com/track/0soF6Of8Zw4wsjkrFWyKf2) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [D\-SIDES](https://open.spotify.com/album/1UxVfG3L2BJhRcn6E1EwrN) | 2:14 |
 
-Snapshot ID: `MCxkYTJlZWI1MWU4ZDdhMDRjYTQyOWUwZTVhYWQ4ZGUyYTFkNDc3N2Fm`
+Snapshot ID: `MCwzNDNhYjBjYjdjYjk2OGNkMDg4NWMyMjBmMjcxMjlhMWE4ODMzZTZk`

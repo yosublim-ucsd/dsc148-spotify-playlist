@@ -4,7 +4,7 @@
 
 > vibe out w some 🇵🇭 R&B Cover: jikamarie
 
-186 songs - 10 hr 51 min
+187 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Kulang](https://open.spotify.com/track/6uGRcwf0z3FV9CGC5jOrxX) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Kulang](https://open.spotify.com/album/43yikgeYnQWXUzMfqN4j9i) | 4:00 | 2022-12-14 | 2023-08-31 |
 | [Kusa](https://open.spotify.com/track/58V8gsbmm9RxVeCzbn9Tbz) | [VNCE](https://open.spotify.com/artist/3zMIe4QuRLRn7JDkxBeENc) | [Kusa](https://open.spotify.com/album/6qhqfpUcoJiYusxKWOTWI7) | 2:20 | 2023-04-06 | 2023-09-22 |
 | [Labis](https://open.spotify.com/track/3sDoNhKtVJvUnkZMK51MAN) | [Ichan](https://open.spotify.com/artist/3U65jtJ0G4RudAEsuanoQA), [Lee](https://open.spotify.com/artist/3eQtpy0MqPUf6GNDIIut3T) | [Labis](https://open.spotify.com/album/05vUTwC0R27PEPwj91rZE3) | 4:17 | 2022-10-12 | 2023-05-18 |
-| [Lackin'](https://open.spotify.com/track/7l9LyA8LkmsXpMZ9WZ3ReC) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/4TdIVLLS4os2X4r2p6vTr5) | 2:59 | 2023-11-17 |  |
+| [Lackin'](https://open.spotify.com/track/7C6lV2MBF9SsQfNzb6hWUW) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/26osN3pVqjyhGUedWZIueX) | 2:59 | 2023-11-17 |  |
+| [Lackin'](https://open.spotify.com/track/7l9LyA8LkmsXpMZ9WZ3ReC) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/4TdIVLLS4os2X4r2p6vTr5) | 2:59 | 2023-11-17 | 2023-11-23 |
 | [Lalayo O Tatabi](https://open.spotify.com/track/6Mxh4RBf3BA3hNzaqHseqR) | [KV](https://open.spotify.com/artist/4ZPvMY3YPMZbVZn5WIjzvB) | [Lalayo O Tatabi](https://open.spotify.com/album/1103FsKVzZZnObhDt0cHLn) | 2:31 | 2023-08-03 | 2023-10-28 |
 | [Lambing \(feat\. Kiyo\)](https://open.spotify.com/track/0daJYm6XQNjKKiIrddULNH) | [KINDRED](https://open.spotify.com/artist/20bisCfPMhrXJH4Wv5lmh1), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [Lambing \(feat\. Kiyo\)](https://open.spotify.com/album/6l0kQa5M2byUTlTE3vQPug) | 3:41 | 2023-04-17 | 2023-10-03 |
 | [Langit, Mundo](https://open.spotify.com/track/7pB8BnZyVdgiomsOnOzmp1) | [MMONN](https://open.spotify.com/artist/57wPsYZkEErG0C2ntgqNTe), [Calvin De Leon](https://open.spotify.com/artist/3WyQJx169swY8v3htgAqaK) | [Langit, Mundo](https://open.spotify.com/album/3gvxmxAFCY9gypFJ0RUW3A) | 3:24 | 2023-05-17 | 2023-11-18 |

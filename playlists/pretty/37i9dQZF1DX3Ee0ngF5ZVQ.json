@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Flatland Cavalry",
-  "num_followers": 419814,
+  "num_followers": 419848,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGQxNDQ0YzljZDYwNzEwNjgxZTVmYzViZDlkZTQ1MjBmMmFiMzhi",
+  "snapshot_id": "MCwwMWNhZTIyYWQzMjZlYmE5NGY0ZGI4NGYzZjc3ZWE4NGY3NGRjNTJh",
   "tracks": [
     {
       "added_at": "2023-11-17 20:48:54",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-11-17 20:48:54",
       "album": {
-        "name": "Creeps",
-        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
+        "name": "Pretty Little Poison",
+        "url": "https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
         }
       ],
-      "duration_ms": 226309,
-      "name": "Creeps",
-      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
+      "duration_ms": 189013,
+      "name": "West Texas Weather",
+      "url": "https://open.spotify.com/track/4SKO7VBkJOwyfLNzYC8CkB"
     },
     {
       "added_at": "2023-11-17 20:48:54",
@@ -311,18 +311,18 @@
     {
       "added_at": "2023-11-17 20:48:54",
       "album": {
-        "name": "Pretty Little Poison",
-        "url": "https://open.spotify.com/album/2s7CBSj6aKbWmkfBU8eEsg"
+        "name": "Creeps",
+        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
       },
       "artists": [
         {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 189013,
-      "name": "West Texas Weather",
-      "url": "https://open.spotify.com/track/4SKO7VBkJOwyfLNzYC8CkB"
+      "duration_ms": 226309,
+      "name": "Creeps",
+      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
     },
     {
       "added_at": "2023-11-17 20:48:54",
@@ -763,22 +763,18 @@
     {
       "added_at": "2023-11-17 20:48:54",
       "album": {
-        "name": "Last Goodbye",
-        "url": "https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA"
+        "name": "Green Eyes Blue",
+        "url": "https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq"
       },
       "artists": [
         {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
-        },
-        {
-          "name": "Graycie York",
-          "url": "https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552"
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
         }
       ],
-      "duration_ms": 212946,
-      "name": "Last Goodbye",
-      "url": "https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp"
+      "duration_ms": 217093,
+      "name": "Green Eyes Blue",
+      "url": "https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6"
     },
     {
       "added_at": "2023-11-17 20:48:54",
@@ -831,6 +827,26 @@
     {
       "added_at": "2023-11-17 20:48:54",
       "album": {
+        "name": "Last Goodbye",
+        "url": "https://open.spotify.com/album/0WXyQUyDdTimxIhieDQIlA"
+      },
+      "artists": [
+        {
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+        },
+        {
+          "name": "Graycie York",
+          "url": "https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552"
+        }
+      ],
+      "duration_ms": 212946,
+      "name": "Last Goodbye",
+      "url": "https://open.spotify.com/track/4G3alzPjLhRcm7rxsSHMkp"
+    },
+    {
+      "added_at": "2023-11-17 20:48:54",
+      "album": {
         "name": "Boy From Anderson County To The Moon",
         "url": "https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 220234,
       "name": "Breaking News",
       "url": "https://open.spotify.com/track/7d9gF9B10bhRGsYOSlWhXX"
-    },
-    {
-      "added_at": "2023-11-17 20:48:54",
-      "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6"
-      },
-      "artists": [
-        {
-          "name": "Jarrod Morris",
-          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
-        }
-      ],
-      "duration_ms": 208477,
-      "name": "The Show",
-      "url": "https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE"
     },
     {
       "added_at": "2023-11-17 20:48:54",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-11-17 20:48:54",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY"
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6"
       },
       "artists": [
         {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+          "name": "Jarrod Morris",
+          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
         }
       ],
-      "duration_ms": 257146,
-      "name": "Who I Am",
-      "url": "https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd"
+      "duration_ms": 208477,
+      "name": "The Show",
+      "url": "https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE"
     },
     {
       "added_at": "2023-11-17 20:48:54",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-11-17 20:48:54",
       "album": {
-        "name": "Turn It Down",
-        "url": "https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4"
+        "name": "Diamondhead",
+        "url": "https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc"
       },
       "artists": [
         {
-          "name": "Grant Gilbert",
-          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
+          "name": "J.R. Carroll",
+          "url": "https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm"
         }
       ],
-      "duration_ms": 192643,
-      "name": "Turn It Down",
-      "url": "https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF"
+      "duration_ms": 187375,
+      "name": "Diamondhead",
+      "url": "https://open.spotify.com/track/1y76vWynOdnIbixqJvxD3e"
     },
     {
       "added_at": "2023-11-17 20:48:54",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-11-17 20:48:54",
       "album": {
-        "name": "Green Eyes Blue",
-        "url": "https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq"
+        "name": "Here's To You. Here's To Me.",
+        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
       },
       "artists": [
         {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
         }
       ],
-      "duration_ms": 217093,
-      "name": "Green Eyes Blue",
-      "url": "https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6"
+      "duration_ms": 182318,
+      "name": "Tennessee Drinkin'",
+      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
     },
     {
       "added_at": "2023-11-17 20:48:54",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-11-17 20:48:54",
       "album": {
-        "name": "Here's To You. Here's To Me.",
-        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY"
       },
       "artists": [
         {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
         }
       ],
-      "duration_ms": 182318,
-      "name": "Tennessee Drinkin'",
-      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
+      "duration_ms": 257146,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd"
     },
     {
       "added_at": "2023-11-17 20:48:54",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-11-17 20:48:54",
       "album": {
-        "name": "Diamondhead",
-        "url": "https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc"
+        "name": "Turn It Down",
+        "url": "https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4"
       },
       "artists": [
         {
-          "name": "J.R. Carroll",
-          "url": "https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm"
+          "name": "Grant Gilbert",
+          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
         }
       ],
-      "duration_ms": 187375,
-      "name": "Diamondhead",
-      "url": "https://open.spotify.com/track/1y76vWynOdnIbixqJvxD3e"
+      "duration_ms": 192643,
+      "name": "Turn It Down",
+      "url": "https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF"
     },
     {
       "added_at": "2023-11-17 20:48:54",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-11-17 20:48:54",
       "album": {
-        "name": "Your Alpine",
-        "url": "https://open.spotify.com/album/786tMhrL0dSlsMkauWbOUv"
+        "name": "State You Left Me In",
+        "url": "https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd"
       },
       "artists": [
         {
-          "name": "Kolton Moore & the Clever Few",
-          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
+          "name": "Jake Worthington",
+          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
         }
       ],
-      "duration_ms": 279435,
-      "name": "Your Alpine",
-      "url": "https://open.spotify.com/track/0zxMh6r7kGqomTu9KzcYbi"
+      "duration_ms": 325299,
+      "name": "State You Left Me In",
+      "url": "https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W"
     },
     {
       "added_at": "2023-11-17 20:48:54",
@@ -1171,34 +1171,34 @@
     {
       "added_at": "2023-11-17 20:48:54",
       "album": {
-        "name": "State You Left Me In",
-        "url": "https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd"
+        "name": "Your Alpine",
+        "url": "https://open.spotify.com/album/786tMhrL0dSlsMkauWbOUv"
       },
       "artists": [
         {
-          "name": "Jake Worthington",
-          "url": "https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp"
+          "name": "Kolton Moore & the Clever Few",
+          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
         }
       ],
-      "duration_ms": 325299,
-      "name": "State You Left Me In",
-      "url": "https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W"
+      "duration_ms": 279435,
+      "name": "Your Alpine",
+      "url": "https://open.spotify.com/track/0zxMh6r7kGqomTu9KzcYbi"
     },
     {
       "added_at": "2023-11-17 20:48:54",
       "album": {
-        "name": "Easy as Hello",
-        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
+        "name": "You To Me",
+        "url": "https://open.spotify.com/album/1wr3A9DOyF5ooxpLrYlEb2"
       },
       "artists": [
         {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+          "name": "Cody Hibbard",
+          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
         }
       ],
-      "duration_ms": 279796,
-      "name": "Easy as Hello",
-      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
+      "duration_ms": 194142,
+      "name": "You To Me",
+      "url": "https://open.spotify.com/track/6gIhOCip5eeREn4sQj8NMw"
     },
     {
       "added_at": "2023-11-17 20:48:54",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2023-11-17 20:48:54",
       "album": {
-        "name": "blood",
-        "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
+        "name": "Easy as Hello",
+        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
       },
       "artists": [
         {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
         }
       ],
-      "duration_ms": 298906,
-      "name": "blood",
-      "url": "https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq"
+      "duration_ms": 279796,
+      "name": "Easy as Hello",
+      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
     },
     {
       "added_at": "2023-11-17 20:48:54",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-11-17 20:48:54",
       "album": {
-        "name": "Destiny",
-        "url": "https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl"
+        "name": "blood",
+        "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
       },
       "artists": [
         {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
         }
       ],
-      "duration_ms": 201733,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU"
+      "duration_ms": 298906,
+      "name": "blood",
+      "url": "https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq"
     },
     {
       "added_at": "2023-11-17 20:48:54",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-11-17 20:48:54",
       "album": {
-        "name": "Baker Hotel",
-        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
+        "name": "Boy From Anderson County To The Moon",
+        "url": "https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr"
       },
       "artists": [
         {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
         }
       ],
-      "duration_ms": 276280,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
+      "duration_ms": 244290,
+      "name": "Boy From Anderson County",
+      "url": "https://open.spotify.com/track/6rQGkoBBYegak061SkBSKH"
     },
     {
       "added_at": "2023-11-17 20:48:54",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2023-11-17 20:48:54",
       "album": {
-        "name": "You To Me",
-        "url": "https://open.spotify.com/album/1wr3A9DOyF5ooxpLrYlEb2"
+        "name": "Baker Hotel",
+        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
       },
       "artists": [
         {
-          "name": "Cody Hibbard",
-          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
         }
       ],
-      "duration_ms": 194142,
-      "name": "You To Me",
-      "url": "https://open.spotify.com/track/6gIhOCip5eeREn4sQj8NMw"
+      "duration_ms": 276280,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
     },
     {
       "added_at": "2023-11-17 20:48:54",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-11-17 20:48:54",
       "album": {
-        "name": "Boy From Anderson County To The Moon",
-        "url": "https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr"
+        "name": "How The Hurtin' Goes",
+        "url": "https://open.spotify.com/album/2ncmrKQvRbxIkds4J4o3Ly"
       },
       "artists": [
         {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+          "name": "Curtis Grimes",
+          "url": "https://open.spotify.com/artist/21NiIObyfGUR3UPql6UrkP"
         }
       ],
-      "duration_ms": 244290,
-      "name": "Boy From Anderson County",
-      "url": "https://open.spotify.com/track/6rQGkoBBYegak061SkBSKH"
+      "duration_ms": 170896,
+      "name": "How The Hurtin' Goes",
+      "url": "https://open.spotify.com/track/0kx8fHSdEZPDaSommWNjfa"
     },
     {
       "added_at": "2023-11-17 20:48:54",
@@ -1447,18 +1447,22 @@
     {
       "added_at": "2023-11-17 20:48:54",
       "album": {
-        "name": "How The Hurtin' Goes",
-        "url": "https://open.spotify.com/album/2ncmrKQvRbxIkds4J4o3Ly"
+        "name": "Your Bar Now",
+        "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
       },
       "artists": [
         {
-          "name": "Curtis Grimes",
-          "url": "https://open.spotify.com/artist/21NiIObyfGUR3UPql6UrkP"
+          "name": "Tyler Halverson",
+          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
+        },
+        {
+          "name": "Kylie Frey",
+          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
         }
       ],
-      "duration_ms": 170896,
-      "name": "How The Hurtin' Goes",
-      "url": "https://open.spotify.com/track/0kx8fHSdEZPDaSommWNjfa"
+      "duration_ms": 214253,
+      "name": "Your Bar Now",
+      "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
     },
     {
       "added_at": "2023-11-17 20:48:54",
@@ -1479,22 +1483,18 @@
     {
       "added_at": "2023-11-17 20:48:54",
       "album": {
-        "name": "Your Bar Now",
-        "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl"
       },
       "artists": [
         {
-          "name": "Tyler Halverson",
-          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
-        },
-        {
-          "name": "Kylie Frey",
-          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
         }
       ],
-      "duration_ms": 214253,
-      "name": "Your Bar Now",
-      "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
+      "duration_ms": 201733,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU"
     },
     {
       "added_at": "2023-11-17 20:48:54",

@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: LUDI",
-  "num_followers": 82416,
+  "num_followers": 82508,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzgwMTQzYmMwNTZlNWQzYTc2OTMxN2JkYTMyM2E5ZGViZGMwYjdl",
+  "snapshot_id": "MCxlZjRkMGZhYWE4MjZkYTg1MzA4ZjU3Mjk1ZjYyM2FhMTEzMzdmOWQ4",
   "tracks": [
     {
       "added_at": "2023-11-03 04:44:35",
@@ -423,6 +423,26 @@
     {
       "added_at": "2023-11-03 04:44:35",
       "album": {
+        "name": "O Tempo N\u00e3o Para",
+        "url": "https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi"
+      },
+      "artists": [
+        {
+          "name": "Weslley Fonseca",
+          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
+        },
+        {
+          "name": "Os Meireles",
+          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
+        }
+      ],
+      "duration_ms": 202431,
+      "name": "O Tempo N\u00e3o Para",
+      "url": "https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC"
+    },
+    {
+      "added_at": "2023-11-03 04:44:35",
+      "album": {
         "name": "Eu To Vivo",
         "url": "https://open.spotify.com/album/1lztSLUPpggJsYVv6rEZjt"
       },
@@ -459,26 +479,6 @@
     {
       "added_at": "2023-11-03 04:44:35",
       "album": {
-        "name": "O Tempo N\u00e3o Para",
-        "url": "https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi"
-      },
-      "artists": [
-        {
-          "name": "Weslley Fonseca",
-          "url": "https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9"
-        },
-        {
-          "name": "Os Meireles",
-          "url": "https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1"
-        }
-      ],
-      "duration_ms": 202431,
-      "name": "O Tempo N\u00e3o Para",
-      "url": "https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC"
-    },
-    {
-      "added_at": "2023-11-03 04:44:35",
-      "album": {
         "name": "Me Ensina a Viver",
         "url": "https://open.spotify.com/album/1sqdI1xPDGAJxlYLg2pI8w"
       },
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-11-03 04:44:35",
       "album": {
-        "name": "Dia de Festa",
-        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 298213,
-      "name": "Dia de Festa",
-      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
-    },
-    {
-      "added_at": "2023-11-03 04:44:35",
-      "album": {
         "name": "Vida Leve",
         "url": "https://open.spotify.com/album/08ujgEoWflIBTXaf0T5XUl"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 176417,
       "name": "Vida Leve",
       "url": "https://open.spotify.com/track/7jb65juKqmYcQg5qXhJSVw"
+    },
+    {
+      "added_at": "2023-11-03 04:44:35",
+      "album": {
+        "name": "Dia de Festa",
+        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 298213,
+      "name": "Dia de Festa",
+      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
     },
     {
       "added_at": "2023-11-03 04:44:35",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-11-03 04:44:35",
       "album": {
+        "name": "\u00c9 de Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
+      },
+      "artists": [
+        {
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+        }
+      ],
+      "duration_ms": 196306,
+      "name": "\u00c9 de Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
+    },
+    {
+      "added_at": "2023-11-03 04:44:35",
+      "album": {
         "name": "Reconstituir",
         "url": "https://open.spotify.com/album/5FVMdmhaJfHB0o2ZDzb1SJ"
       },
@@ -747,18 +763,18 @@
     {
       "added_at": "2023-11-03 04:44:35",
       "album": {
-        "name": "\u00c9 de Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5i6tJzC8I16Rwc6YTsmFK4"
+        "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
+        "url": "https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI"
       },
       "artists": [
         {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+          "name": "Hellen Caroline",
+          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
         }
       ],
-      "duration_ms": 196306,
-      "name": "\u00c9 de Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0GcE9fifKZiHDX0EroenSk"
+      "duration_ms": 272021,
+      "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
+      "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
     },
     {
       "added_at": "2023-11-03 04:44:35",
@@ -783,18 +799,18 @@
     {
       "added_at": "2023-11-03 04:44:35",
       "album": {
-        "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
-        "url": "https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI"
+        "name": "Pra Sempre",
+        "url": "https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN"
       },
       "artists": [
         {
-          "name": "Hellen Caroline",
-          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
         }
       ],
-      "duration_ms": 272021,
-      "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
-      "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
+      "duration_ms": 219857,
+      "name": "Pra Sempre",
+      "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
     },
     {
       "added_at": "2023-11-03 04:44:35",
@@ -811,22 +827,6 @@
       "duration_ms": 222103,
       "name": "Teu Reino Venha",
       "url": "https://open.spotify.com/track/2xYtgaVWlSpUBDq8BoAynx"
-    },
-    {
-      "added_at": "2023-11-03 04:44:35",
-      "album": {
-        "name": "Pra Sempre",
-        "url": "https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN"
-      },
-      "artists": [
-        {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
-        }
-      ],
-      "duration_ms": 219857,
-      "name": "Pra Sempre",
-      "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
     },
     {
       "added_at": "2023-11-03 04:44:35",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-11-03 04:44:35",
       "album": {
-        "name": "Ponto de Paz",
-        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 180864,
-      "name": "Ponto de Paz",
-      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
-    },
-    {
-      "added_at": "2023-11-03 04:44:35",
-      "album": {
         "name": "Neste Lugar",
         "url": "https://open.spotify.com/album/5pIGdmHVVKLTNIZ6pCAyA0"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 314622,
       "name": "Neste Lugar",
       "url": "https://open.spotify.com/track/64rFHVKbXxm2xzFbkjIZ6d"
+    },
+    {
+      "added_at": "2023-11-03 04:44:35",
+      "album": {
+        "name": "Ponto de Paz",
+        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 180864,
+      "name": "Ponto de Paz",
+      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
     },
     {
       "added_at": "2023-11-03 04:44:35",

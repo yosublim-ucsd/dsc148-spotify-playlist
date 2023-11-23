@@ -1,12 +1,12 @@
 {
   "description": "Entering my reputation era...",
-  "num_followers": 1170215,
+  "num_followers": 1170846,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGQ1ODZmYzk2ZWFlZDY5MjNjNDI2MmJjZDgxODAwMzU1MWNiOTIz",
+  "snapshot_id": "MCw5ODA1YWJkOTY5YzVhMjdlYzNkYmMzODY3YTViMGU1YmQ2MzE3ZDlh",
   "tracks": [
     {
       "added_at": "2023-09-22 02:45:02",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-09-22 02:45:02",
       "album": {
-        "name": "Wars In A Wonderland",
-        "url": "https://open.spotify.com/album/2npzGBEPDOfVLN8ajYm3pZ"
-      },
-      "artists": [
-        {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "DARKSIDE",
-      "url": "https://open.spotify.com/track/6xlOnm5MITIKtixzJW8R0j"
-    },
-    {
-      "added_at": "2023-09-22 02:45:02",
-      "album": {
         "name": "labour",
         "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 237744,
       "name": "labour",
       "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
+    },
+    {
+      "added_at": "2023-09-22 02:45:02",
+      "album": {
+        "name": "Wars In A Wonderland",
+        "url": "https://open.spotify.com/album/2npzGBEPDOfVLN8ajYm3pZ"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "DARKSIDE",
+      "url": "https://open.spotify.com/track/6xlOnm5MITIKtixzJW8R0j"
     },
     {
       "added_at": "2023-09-22 02:45:02",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-09-22 02:45:02",
       "album": {
-        "name": "Born This Way (Special Edition)",
-        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 244760,
-      "name": "Bloody Mary",
-      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
-    },
-    {
-      "added_at": "2023-09-22 02:45:02",
-      "album": {
         "name": "Sharks",
         "url": "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2023-09-22 02:45:02",
       "album": {
-        "name": "Neveroddoreven",
-        "url": "https://open.spotify.com/album/0MNY21WYhxGWfT9WQzrZe5"
+        "name": "Born This Way (Special Edition)",
+        "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
       },
       "artists": [
         {
-          "name": "I Monster",
-          "url": "https://open.spotify.com/artist/1CcPlAmcnJjC4FnaPVzv2v"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 213373,
-      "name": "Who Is She ?",
-      "url": "https://open.spotify.com/track/1QxcWlk8PivolUaWcpAoNq"
+      "duration_ms": 244760,
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
     },
     {
       "added_at": "2023-09-22 02:45:02",
@@ -1055,6 +1039,22 @@
       "duration_ms": 160613,
       "name": "The Bidding",
       "url": "https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH"
+    },
+    {
+      "added_at": "2023-09-22 02:45:02",
+      "album": {
+        "name": "Neveroddoreven",
+        "url": "https://open.spotify.com/album/0MNY21WYhxGWfT9WQzrZe5"
+      },
+      "artists": [
+        {
+          "name": "I Monster",
+          "url": "https://open.spotify.com/artist/1CcPlAmcnJjC4FnaPVzv2v"
+        }
+      ],
+      "duration_ms": 213373,
+      "name": "Who Is She ?",
+      "url": "https://open.spotify.com/track/1QxcWlk8PivolUaWcpAoNq"
     },
     {
       "added_at": "2023-09-22 02:45:02",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-09-22 02:45:02",
       "album": {
-        "name": "Build a Bitch",
-        "url": "https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o"
-      },
-      "artists": [
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        }
-      ],
-      "duration_ms": 122772,
-      "name": "Build a Bitch",
-      "url": "https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q"
-    },
-    {
-      "added_at": "2023-09-22 02:45:02",
-      "album": {
         "name": "Public Void",
         "url": "https://open.spotify.com/album/49iT8dV8hZ5o7bqpOI5yfI"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2023-09-22 02:45:02",
       "album": {
-        "name": "BADLANDS (Deluxe)",
-        "url": "https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin"
+        "name": "Build a Bitch",
+        "url": "https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o"
       },
       "artists": [
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
         }
       ],
-      "duration_ms": 199593,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT"
+      "duration_ms": 122772,
+      "name": "Build a Bitch",
+      "url": "https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q"
     },
     {
       "added_at": "2023-09-22 02:45:02",
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2023-09-22 02:45:02",
       "album": {
-        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
-        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
+        "name": "BADLANDS (Deluxe)",
+        "url": "https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 247147,
-      "name": "Season Of The Witch",
-      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
+      "duration_ms": 199593,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/2IO7yf562c1zLzpanal1DT"
     },
     {
       "added_at": "2023-09-22 02:45:02",
@@ -1295,6 +1279,22 @@
       "duration_ms": 213266,
       "name": "Run Boy Run",
       "url": "https://open.spotify.com/track/0boS4e6uXwp3zAvz1mLxZS"
+    },
+    {
+      "added_at": "2023-09-22 02:45:02",
+      "album": {
+        "name": "Season Of The Witch (From The Motion Picture \"Scary Stories To Tell In The Dark\")",
+        "url": "https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 247147,
+      "name": "Season Of The Witch",
+      "url": "https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp"
     },
     {
       "added_at": "2023-09-22 02:45:02",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2023-09-22 02:45:02",
       "album": {
-        "name": "Seven",
-        "url": "https://open.spotify.com/album/4bahLUJtW6lWbzyAfn4xD0"
+        "name": "Sunset on Summerville",
+        "url": "https://open.spotify.com/album/6IA6npG3aDtFpcVwNNBT9r"
       },
       "artists": [
         {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+          "name": "Madds Buckley",
+          "url": "https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq"
         }
       ],
-      "duration_ms": 124373,
-      "name": "Seven",
-      "url": "https://open.spotify.com/track/0YrwiodQd07LE9vpI0w3Iw"
+      "duration_ms": 233979,
+      "name": "The Red Means I Love You",
+      "url": "https://open.spotify.com/track/3FD23QWCO0aP7fzKXHCDE8"
     }
   ],
   "unique_name": "Villain Mode",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,375 likes - 120 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,479 likes - 120 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 41 | [Kobe En LA](https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN) | 3:45 |
 | 42 | [YO LE LLEGO](https://open.spotify.com/track/0uIfrUwwg0Z7KTitul7E3T) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:09 |
 | 43 | [En Que País](https://open.spotify.com/track/7B1hXzq4zemjlaEJ2C27KB) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [En Que País](https://open.spotify.com/album/2t2wCPIFNSgaPfIHg9mjJm) | 3:30 |
-| 44 | [LHNA](https://open.spotify.com/track/0pLZ7PPAId3OLfVIPTVAz5) | [RobGz](https://open.spotify.com/artist/7y5vacxuCM2lyUEEPnQcwd), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LHNA](https://open.spotify.com/album/3LRLlnwyvfUL074sdXQW45) | 3:20 |
+| 44 | [Side Bitch](https://open.spotify.com/track/5OkfdedI0mwIY5nZ5eHe1N) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 3:19 |
 | 45 | [Ahora Dice \- Real Hasta La Muerte Remix](https://open.spotify.com/track/2TQTZ2TSAO5eGgkCtjxjrt) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Anuel](https://open.spotify.com/artist/00VnRQuhdfjkeaXeDu5dlW), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Ahora Dice \(Real Hasta La Muerte Remix\)](https://open.spotify.com/album/69kbK6RzAI23eD2TImJ687) | 4:36 |
 | 46 | [Soldado Y Profeta \(feat\. Ozuna, Almighty, Kendo & Ñengo Flow\)](https://open.spotify.com/track/6OIePp3zOPV4OubtVTyJJ8) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Soldado Y Profeta \(Remix\) \[feat\. Ozuna, Almighty, Kendo & Ñengo Flow\]](https://open.spotify.com/album/1vvOGbKeidxIS74bWGE0gz) | 8:32 |
-| 47 | [Side Bitch](https://open.spotify.com/track/5OkfdedI0mwIY5nZ5eHe1N) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 3:19 |
+| 47 | [LHNA](https://open.spotify.com/track/0pLZ7PPAId3OLfVIPTVAz5) | [RobGz](https://open.spotify.com/artist/7y5vacxuCM2lyUEEPnQcwd), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LHNA](https://open.spotify.com/album/3LRLlnwyvfUL074sdXQW45) | 3:20 |
 | 48 | [Ronca](https://open.spotify.com/track/0WxhO7pvOWqFJRMBQ3q3B2) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Easy Money Baby](https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ) | 2:29 |
 | 49 | [No Ando Solo](https://open.spotify.com/track/6ZEb5M7dycMbooECbG2He4) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Cambio de Clima](https://open.spotify.com/album/3f8ilKUbFtOSPM2aVq0zCl) | 4:01 |
 | 50 | [Subiendo De Nivel \- Remix](https://open.spotify.com/track/2kvGoSGHWI0uvjJlooy1AQ) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Famouz Reloaded](https://open.spotify.com/album/7gDjowB5fv1LkntmDVv0jT) | 4:09 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 119 | [Triste](https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Oscuridad](https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB) | 4:24 |
 | 120 | [Brindemos](https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:36 |
 
-Snapshot ID: `MCw2ZjgxMmFiYmZmZjZiYTJjOWYyZDUwMzI5MzNlNDg3NzU4ZjI4MTgw`
+Snapshot ID: `MCxkOTE3OTkwNGQwNGNlNjE5ZjE1NTg4YTNhNDQ1OGMzNjgzNjY5MzE5`

@@ -1,12 +1,12 @@
 {
   "description": "the pearls of an oyster.",
-  "num_followers": 127683,
+  "num_followers": 127749,
   "original_name": "Oyster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjEwYzI2Y2I3NWFhYjgzOTZiM2QxNTc1MThmMDAyMTRkOWM1MGZm",
+  "snapshot_id": "MCwyZjc2ZjY3ZGQ5M2JjNDA4ZmQzZjlmOGM2ZDUzMjEwNjU1NWViNTg1",
   "tracks": [
     {
       "added_at": "2023-11-16 23:00:00",
@@ -230,6 +230,10 @@
         {
           "name": "H.E.R.",
           "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
       "duration_ms": 211190,
@@ -556,7 +560,7 @@
       "added_at": "2023-11-16 23:00:00",
       "album": {
         "name": "Boulevard",
-        "url": "https://open.spotify.com/album/1oIeOYtDg50OC7PWYKuhQs"
+        "url": "https://open.spotify.com/album/3JoxsektYkE7UQaDSqFE91"
       },
       "artists": [
         {
@@ -570,7 +574,7 @@
       ],
       "duration_ms": 171985,
       "name": "Stay (ft. Omar Noir)",
-      "url": "https://open.spotify.com/track/3Ure17oumtGk8DeUXnjlwo"
+      "url": "https://open.spotify.com/track/1yyPP0oltWpmVSUZ5gJe4R"
     },
     {
       "added_at": "2023-11-16 23:00:00",

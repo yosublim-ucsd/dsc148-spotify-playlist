@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JHAMXPtau2.md) - [plain]
 
 > Soft and cozy piano versions of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510 likes - 39 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 528 likes - 39 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JHAMXPtau2.md) - [plain]
 | 38 | [Ding dong! Merrily on high!](https://open.spotify.com/track/5m1IVNnQujQZUIr6dutOcC) | [Chris Beard](https://open.spotify.com/artist/7hTEeJAMokCNuBxW8GtFKp) | [Christmas is a\-comin'](https://open.spotify.com/album/1FQA9vud3qC2AHLIhoN633) | 2:29 |
 | 39 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/5fcwexbxECTYiCUvrBig0V) | [Ray Love](https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy) | [What Are You Doing New Year's Eve?](https://open.spotify.com/album/5GMPCJizVO43fjyoj6to1V) | 2:25 |
 
-Snapshot ID: `MCxiMzAxZmYwMTgxMjk3YTFjMmIyMmUwNzM5YjIzODE5NmNmMGM1MmZh`
+Snapshot ID: `MCw4YTMxYWVlZDkwNjM0NzQ3ZmU2NTZmYzY2ODNjNGJmOWEyYzM0NmYy`

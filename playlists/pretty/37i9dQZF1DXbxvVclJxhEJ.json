@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 42150,
+  "num_followers": 42330,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODRlYmZkMWUxMmFlOThlODQ1NDY2NTI1ODZlNWY1ZTU2ZmIxYTE3",
+  "snapshot_id": "MCwwMzRmNWZjNjRjYjhkZDUzNDhmNTM2MGNlMWRhMTRlZTEyNTlmYTMy",
   "tracks": [
     {
       "added_at": "2023-08-23 10:15:28",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "The Complete Recordings, Vol. 1",
-        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
-      },
-      "artists": [
-        {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
-        }
-      ],
-      "duration_ms": 208840,
-      "name": "Haunted House Blues",
-      "url": "https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Jump Jack Jump!",
         "url": "https://open.spotify.com/album/7xAQpANaShSbcAUfPs39ci"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 116933,
       "name": "Nursery Rhyme Rock",
       "url": "https://open.spotify.com/track/1CZ4Wzu1EHqyGT2AsIeDlG"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "The Complete Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 208840,
+      "name": "Haunted House Blues",
+      "url": "https://open.spotify.com/track/0GHJuqABJchfWPdLHBnwII"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 165413,
-      "name": "As Long as I'm Moving",
-      "url": "https://open.spotify.com/track/4ldqBacc2ov7cUIlzLMB5W"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Big Band Bounce & Boogie",
         "url": "https://open.spotify.com/album/0JvsAccfEZHWiUNULgAjDk"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 166760,
       "name": "Shout Sister Shout",
       "url": "https://open.spotify.com/track/7hpI4eFBXUYk3ZtsztFmWc"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 165413,
+      "name": "As Long as I'm Moving",
+      "url": "https://open.spotify.com/track/4ldqBacc2ov7cUIlzLMB5W"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Sings Bessie Smith",
-        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
-      },
-      "artists": [
-        {
-          "name": "LaVern Baker",
-          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Gimme a Pigfoot - Mono",
-      "url": "https://open.spotify.com/track/0xhxIYLDAAKjaLN6X012bc"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Love You!",
         "url": "https://open.spotify.com/album/3eI35uCed555J4UWJwGKUp"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 133733,
       "name": "Rock The Bop",
       "url": "https://open.spotify.com/track/7h1AT1bKAy5dX2Nj8itIcA"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Sings Bessie Smith",
+        "url": "https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4"
+      },
+      "artists": [
+        {
+          "name": "LaVern Baker",
+          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Gimme a Pigfoot - Mono",
+      "url": "https://open.spotify.com/track/0xhxIYLDAAKjaLN6X012bc"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -551,8 +551,8 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
+        "name": "The Essential Billie Holiday",
+        "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 187146,
-      "name": "Billie's Blues",
-      "url": "https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug"
+      "duration_ms": 157960,
+      "name": "Billie's Blues - Take 1",
+      "url": "https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "The Essential Billie Holiday",
-        "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 157960,
-      "name": "Billie's Blues - Take 1",
-      "url": "https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Shave 'Em Dry: The Best Of Lucille Bogan",
         "url": "https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw"
       },
@@ -683,6 +667,38 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 187146,
+      "name": "Billie's Blues",
+      "url": "https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Those Dirty Blues, Vol. 2",
+        "url": "https://open.spotify.com/album/0zDMxkrHTiWACsChYUqCNl"
+      },
+      "artists": [
+        {
+          "name": "Hattie North & Roosevelt Sykes",
+          "url": "https://open.spotify.com/artist/7sD5sKsFCqEVKUIluXkIpx"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Honey Dripper Blues",
+      "url": "https://open.spotify.com/track/1Os8Vy3lPy5jV1pvbWhVb1"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
         "name": "Sweet Emma Barrett And Her New Orleans Music",
         "url": "https://open.spotify.com/album/3ePmdU3EBhhiID5RI6ZlUg"
       },
@@ -695,6 +711,22 @@
       "duration_ms": 220299,
       "name": "Jelly Roll Blues",
       "url": "https://open.spotify.com/track/5VTLcHNmiFZ99okh2YliQF"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Territory Singers Vol. 1 (1922-1928)",
+        "url": "https://open.spotify.com/album/3LupTSTBpB0MDBKDgCbyae"
+      },
+      "artists": [
+        {
+          "name": "Ada Brown",
+          "url": "https://open.spotify.com/artist/5GiCHhSywK8JwLeR149WAI"
+        }
+      ],
+      "duration_ms": 184111,
+      "name": "Evil Mama Blues",
+      "url": "https://open.spotify.com/track/22ytr8Lkn7HH7DDSIt80Ee"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -727,6 +759,22 @@
       "duration_ms": 285400,
       "name": "Back Water Blues",
       "url": "https://open.spotify.com/track/2ABW9AYFdHh1QTGYNVmurr"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Female Blues Singers Vol. 1 A/B (1924-1932)",
+        "url": "https://open.spotify.com/album/0taoz29EBZr4cz9UKTrbIB"
+      },
+      "artists": [
+        {
+          "name": "Ora Alexander",
+          "url": "https://open.spotify.com/artist/1PQwSb0u9VGGk4yqojZYgl"
+        }
+      ],
+      "duration_ms": 183667,
+      "name": "I Crave Your Lovin' Every Day",
+      "url": "https://open.spotify.com/track/2PyvydBuudmwj7BtCNY45U"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -783,22 +831,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Bertha \"Chippie\" Hill 1925-1929",
-        "url": "https://open.spotify.com/album/6sA70gGM15Et2Ebw1AvsP9"
-      },
-      "artists": [
-        {
-          "name": "Bertha \"Chippie\" Hill",
-          "url": "https://open.spotify.com/artist/1sPDyROEgOvKQlReOg874E"
-        }
-      ],
-      "duration_ms": 164624,
-      "name": "Trouble In Mind (9510)",
-      "url": "https://open.spotify.com/track/3oUKkbX1oyjIKSDZBnADDT"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "The Complete Okeh Sessions 1952-1955",
         "url": "https://open.spotify.com/album/4ENn66pgc12XTse3zDQAxZ"
       },
@@ -815,18 +847,18 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Ma Rainey Vol. 3 (1925-1926)",
-        "url": "https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht"
+        "name": "Bertha \"Chippie\" Hill 1925-1929",
+        "url": "https://open.spotify.com/album/6sA70gGM15Et2Ebw1AvsP9"
       },
       "artists": [
         {
-          "name": "Ma Rainey",
-          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+          "name": "Bertha \"Chippie\" Hill",
+          "url": "https://open.spotify.com/artist/1sPDyROEgOvKQlReOg874E"
         }
       ],
-      "duration_ms": 175726,
-      "name": "Stack O'Lee Blues",
-      "url": "https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO"
+      "duration_ms": 164624,
+      "name": "Trouble In Mind (9510)",
+      "url": "https://open.spotify.com/track/3oUKkbX1oyjIKSDZBnADDT"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -847,6 +879,22 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
+        "name": "Ma Rainey Vol. 3 (1925-1926)",
+        "url": "https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "duration_ms": 175726,
+      "name": "Stack O'Lee Blues",
+      "url": "https://open.spotify.com/track/3AhXSiloqX8hkEmXsSBWAO"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
         "name": "Tonight's the Night",
         "url": "https://open.spotify.com/album/29MBxwwCj9k7jt6Z6mUTnv"
       },
@@ -863,22 +911,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Female Blues - The Remaining Titles Vol. 2 (1938-1949)",
-        "url": "https://open.spotify.com/album/5Cdll1bM00Aeg588xttgyU"
-      },
-      "artists": [
-        {
-          "name": "Perline Ellison",
-          "url": "https://open.spotify.com/artist/07lfk5rYOlkkPfbpTPEarh"
-        }
-      ],
-      "duration_ms": 179644,
-      "name": "New That Ain't Right",
-      "url": "https://open.spotify.com/track/2DP2o8uBWk14XUdRzVf91L"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Heart & Soul: A Retrospective",
         "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
       },
@@ -891,6 +923,22 @@
       "duration_ms": 142293,
       "name": "Every Night (a.k.a. Baby Baby Every Night)",
       "url": "https://open.spotify.com/track/1IGDi02X5YvVMuY9NSynH5"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Female Blues - The Remaining Titles Vol. 2 (1938-1949)",
+        "url": "https://open.spotify.com/album/5Cdll1bM00Aeg588xttgyU"
+      },
+      "artists": [
+        {
+          "name": "Perline Ellison",
+          "url": "https://open.spotify.com/artist/07lfk5rYOlkkPfbpTPEarh"
+        }
+      ],
+      "duration_ms": 179644,
+      "name": "New That Ain't Right",
+      "url": "https://open.spotify.com/track/2DP2o8uBWk14XUdRzVf91L"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -943,22 +991,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Those Dirty Blues, Vol. 2",
-        "url": "https://open.spotify.com/album/0zDMxkrHTiWACsChYUqCNl"
-      },
-      "artists": [
-        {
-          "name": "Hattie North & Roosevelt Sykes",
-          "url": "https://open.spotify.com/artist/7sD5sKsFCqEVKUIluXkIpx"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Honey Dripper Blues",
-      "url": "https://open.spotify.com/track/1Os8Vy3lPy5jV1pvbWhVb1"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Presenting Mamie Smith",
         "url": "https://open.spotify.com/album/5uHc3ZtdzPgRH4Jea9Yo7F"
       },
@@ -991,22 +1023,6 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Territory Singers Vol. 1 (1922-1928)",
-        "url": "https://open.spotify.com/album/3LupTSTBpB0MDBKDgCbyae"
-      },
-      "artists": [
-        {
-          "name": "Ada Brown",
-          "url": "https://open.spotify.com/artist/5GiCHhSywK8JwLeR149WAI"
-        }
-      ],
-      "duration_ms": 184111,
-      "name": "Evil Mama Blues",
-      "url": "https://open.spotify.com/track/22ytr8Lkn7HH7DDSIt80Ee"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
         "name": "Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum",
         "url": "https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3"
       },
@@ -1019,54 +1035,6 @@
       "duration_ms": 179133,
       "name": "Tight in Chicago",
       "url": "https://open.spotify.com/track/4k67bWm6tosvIFUjuv9zpV"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "Female Blues Singers Vol. 1 A/B (1924-1932)",
-        "url": "https://open.spotify.com/album/0taoz29EBZr4cz9UKTrbIB"
-      },
-      "artists": [
-        {
-          "name": "Ora Alexander",
-          "url": "https://open.spotify.com/artist/1PQwSb0u9VGGk4yqojZYgl"
-        }
-      ],
-      "duration_ms": 183667,
-      "name": "I Crave Your Lovin' Every Day",
-      "url": "https://open.spotify.com/track/2PyvydBuudmwj7BtCNY45U"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "Stationary Mama",
-        "url": "https://open.spotify.com/album/7r099iFTUtERJVckKP5O7E"
-      },
-      "artists": [
-        {
-          "name": "Edith Wilson",
-          "url": "https://open.spotify.com/artist/5elEUmHT71U4DXo5QV52pH"
-        }
-      ],
-      "duration_ms": 168973,
-      "name": "How Come You Do Me Like You Do?",
-      "url": "https://open.spotify.com/track/0t0zHxsrim0OQv0dkqy9EL"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "Downhearted Blues",
-        "url": "https://open.spotify.com/album/0uGxY4y7NJupIs7b5Keeep"
-      },
-      "artists": [
-        {
-          "name": "Alberta Hunter",
-          "url": "https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA"
-        }
-      ],
-      "duration_ms": 151262,
-      "name": "My Castle's Rocking",
-      "url": "https://open.spotify.com/track/4Yza9eguJ9gSLPK7HypTIF"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -1091,34 +1059,18 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "East and West Blues",
-        "url": "https://open.spotify.com/album/2CpcUaXSolfue1LCymEctZ"
+        "name": "Stationary Mama",
+        "url": "https://open.spotify.com/album/7r099iFTUtERJVckKP5O7E"
       },
       "artists": [
         {
-          "name": "Marie Grinter",
-          "url": "https://open.spotify.com/artist/5xNjHH7UcOnDXIb6SnK1qr"
+          "name": "Edith Wilson",
+          "url": "https://open.spotify.com/artist/5elEUmHT71U4DXo5QV52pH"
         }
       ],
-      "duration_ms": 206240,
-      "name": "East and West Blues",
-      "url": "https://open.spotify.com/track/0dTUDvCC9x6a6UUPjOrOM2"
-    },
-    {
-      "added_at": "2023-08-23 10:15:28",
-      "album": {
-        "name": "The Complete Recordings, Vol. 1",
-        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
-      },
-      "artists": [
-        {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Any Woman's Blues",
-      "url": "https://open.spotify.com/track/3FJtZTsF3e7gWmaWXjfkvZ"
+      "duration_ms": 168973,
+      "name": "How Come You Do Me Like You Do?",
+      "url": "https://open.spotify.com/track/0t0zHxsrim0OQv0dkqy9EL"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -1139,18 +1091,34 @@
     {
       "added_at": "2023-08-23 10:15:28",
       "album": {
-        "name": "Fujiyama Mama",
-        "url": "https://open.spotify.com/album/7FTc1eu8VZfYfKSybTquyA"
+        "name": "Downhearted Blues",
+        "url": "https://open.spotify.com/album/0uGxY4y7NJupIs7b5Keeep"
       },
       "artists": [
         {
-          "name": "Annisteen Allen",
-          "url": "https://open.spotify.com/artist/1NL2N25zWc4cTacQTntwi4"
+          "name": "Alberta Hunter",
+          "url": "https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA"
         }
       ],
-      "duration_ms": 171693,
-      "name": "The Bluest Blues",
-      "url": "https://open.spotify.com/track/7LZa39RPiKZSTxBKq7sbDo"
+      "duration_ms": 151262,
+      "name": "My Castle's Rocking",
+      "url": "https://open.spotify.com/track/4Yza9eguJ9gSLPK7HypTIF"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "East and West Blues",
+        "url": "https://open.spotify.com/album/2CpcUaXSolfue1LCymEctZ"
+      },
+      "artists": [
+        {
+          "name": "Marie Grinter",
+          "url": "https://open.spotify.com/artist/5xNjHH7UcOnDXIb6SnK1qr"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "East and West Blues",
+      "url": "https://open.spotify.com/track/0dTUDvCC9x6a6UUPjOrOM2"
     },
     {
       "added_at": "2023-08-23 10:15:28",
@@ -1167,6 +1135,38 @@
       "duration_ms": 165573,
       "name": "Jack I'm Mellow (Alternate Take 2)",
       "url": "https://open.spotify.com/track/5d72jeEFlnQLM8crLgRPX3"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "Fujiyama Mama",
+        "url": "https://open.spotify.com/album/7FTc1eu8VZfYfKSybTquyA"
+      },
+      "artists": [
+        {
+          "name": "Annisteen Allen",
+          "url": "https://open.spotify.com/artist/1NL2N25zWc4cTacQTntwi4"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "The Bluest Blues",
+      "url": "https://open.spotify.com/track/7LZa39RPiKZSTxBKq7sbDo"
+    },
+    {
+      "added_at": "2023-08-23 10:15:28",
+      "album": {
+        "name": "The Complete Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Any Woman's Blues",
+      "url": "https://open.spotify.com/track/3FJtZTsF3e7gWmaWXjfkvZ"
     },
     {
       "added_at": "2023-08-23 10:15:28",

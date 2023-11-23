@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-1,284 songs - 2 day 8 hr 36 min
+1,285 songs - 2 day 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Baddie](https://open.spotify.com/track/1H2DnpRik7Rg2UFgkHrtr1) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Baddie](https://open.spotify.com/album/7kzDj5EnJcr0434Hf1faOL) | 2:20 | 2022-06-17 | 2022-09-16 |
 | [Bagaget](https://open.spotify.com/track/1zTa8EjeV78WHp4zDKN9Qr) | [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf) | [MP3](https://open.spotify.com/album/6ebOVpxiICOiwmCY4B5qTQ) | 1:54 | 2021-12-16 | 2022-03-04 |
 | [BAGS](https://open.spotify.com/track/7BrVRDCieNEotTW4FptYh3) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl) | [BAGS](https://open.spotify.com/album/5uQIVyMtZm1kjPA5acv8IC) | 2:40 | 2021-12-16 | 2022-01-28 |
-| [Baileys](https://open.spotify.com/track/5TWJiRYe4iG0VboVgSCaDQ) | [Nilo](https://open.spotify.com/artist/0keJuhsaIXm08OuJkPM1la) | [Baileys](https://open.spotify.com/album/0QVJ9wCNMgM2D2zRzfcVOU) | 2:31 | 2023-09-14 |  |
+| [Baileys](https://open.spotify.com/track/5TWJiRYe4iG0VboVgSCaDQ) | [Nilo](https://open.spotify.com/artist/0keJuhsaIXm08OuJkPM1la) | [Baileys](https://open.spotify.com/album/0QVJ9wCNMgM2D2zRzfcVOU) | 2:31 | 2023-09-14 | 2023-11-23 |
 | [BAKANA](https://open.spotify.com/track/5kAeW2aLOg5fy7DMuLbEkQ) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt), [ORIO](https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn) | [BAKANA](https://open.spotify.com/album/6EOC6qSjZBqWUr6BeRF3IS) | 2:03 | 2023-08-03 | 2023-10-13 |
 | [Bakom kulisserna](https://open.spotify.com/track/5KQuFht8RqgECvi2LbF6WP) | [Parana](https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv), [Ahdam](https://open.spotify.com/artist/7sc53ILf25bAriqrCMgYTt) | [Bakom kulisserna](https://open.spotify.com/album/3i6r96nl9ottiXvcmhhh0H) | 2:38 | 2023-05-11 | 2023-05-26 |
 | [Balans](https://open.spotify.com/track/3BQYhwomkv3WA1SR2th6mi) | [PABI](https://open.spotify.com/artist/5Y3Y1CiblRM9kggjDwTEU8) | [Balans](https://open.spotify.com/album/4jODEREKTsKuATek4Xi5Ob) | 3:12 | 2023-05-18 | 2023-06-16 |
@@ -379,7 +379,7 @@
 | [EXPLODERA](https://open.spotify.com/track/6DfI4m4RCt0i8rICQozCC0) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [EXPLODERA](https://open.spotify.com/album/1vjgiMzH8u9x1l91RbJTSn) | 2:01 | 2023-06-29 | 2023-09-08 |
 | [EXTEND](https://open.spotify.com/track/6f5P5n98ZkYG7Kveh4N5kh) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [SILENT HILLS](https://open.spotify.com/album/7pcx9qC7j4WPDUkuXwKUuo) | 2:29 | 2023-11-02 |  |
 | [Extra mos](https://open.spotify.com/track/07RHzJVq83JxWWhNCGEF5j) | [Just](https://open.spotify.com/artist/3l0MJsYtGAgUr045qBu0LH), [FLINT](https://open.spotify.com/artist/3lDPeBHbu2pI9O6NZxXBjC), [Gonza](https://open.spotify.com/artist/3o574CSarKWtidUxIMm1jr) | [Guld & gröna skogar](https://open.spotify.com/album/6dB6m1XuheaQyBg2BKwcNn) | 2:36 | 2023-01-12 | 2023-02-03 |
-| [Extravagant](https://open.spotify.com/track/44S0PulbWlAgDVwfPEEZJp) | [T.G Boogie](https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d) | [Extravagant](https://open.spotify.com/album/4smZJruokOJ2KlfuRSlggP) | 2:58 | 2023-08-31 |  |
+| [Extravagant](https://open.spotify.com/track/44S0PulbWlAgDVwfPEEZJp) | [T.G Boogie](https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d) | [Extravagant](https://open.spotify.com/album/4smZJruokOJ2KlfuRSlggP) | 2:58 | 2023-08-31 | 2023-11-23 |
 | [Eywah](https://open.spotify.com/track/79Kjd4UfzhR1VkRHRDYV2t) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [Eywah](https://open.spotify.com/album/118qcA7hZCrqUkJDMpUZNp) | 2:14 | 2022-03-24 | 2022-04-15 |
 | [F\*ck Fame \(feat\. 1.Cuz\)](https://open.spotify.com/track/1OwpLtZ5IeQrGii3q2i9W5) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [1.Cuz](https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr) | [F\*ck Fame \(feat\. 1.Cuz\)](https://open.spotify.com/album/4eFABY2Ipe0L8wx93oiEXj) | 3:08 | 2023-02-02 | 2023-02-17 |
 | [F\*CK MINA OPPS](https://open.spotify.com/track/02g6wZQZ0cByIqVgjSHBzy) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc) | [F\*CK MINA OPPS](https://open.spotify.com/album/3U29jASVemqFqtaviWlnfI) | 2:24 | 2022-03-04 | 2022-05-27 |
@@ -725,7 +725,7 @@
 | [Långt Hemifrån](https://open.spotify.com/track/11dvt39aUJjx3jPK47HWK1) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [PISTOLER POESI OCH SEX](https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy) | 2:46 | 2023-02-27 | 2023-03-31 |
 | [Långt ifrån mig](https://open.spotify.com/track/6qEIot5DKIuVO20Rg3LJPc) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Långt ifrån mig](https://open.spotify.com/album/2It7zywwTR4Pna7xOAbk9A) | 1:58 | 2023-11-09 |  |
 | [Långt ifrån samma](https://open.spotify.com/track/0IGX8vVUYMZ1v4JufTlcF7) | [E4an](https://open.spotify.com/artist/21fClS8OEQ4cTa868Q8INi) | [Långt ifrån samma](https://open.spotify.com/album/0dIPXHYTBIGSPVMNzEeJRX) | 2:29 | 2023-06-29 | 2023-07-28 |
-| [Låt mig berätta](https://open.spotify.com/track/14WMlsgmbqBz8BKJRf5adz) | [Oscar](https://open.spotify.com/artist/0WmXq6amDycrGNI8kFE5Kf), [Aliammo](https://open.spotify.com/artist/17xEFtyxHsXwQEAy49fXCA) | [Låt mig berätta](https://open.spotify.com/album/067F7WJ1h5ybPA80S06gSx) | 2:40 | 2023-09-28 |  |
+| [Låt mig berätta](https://open.spotify.com/track/14WMlsgmbqBz8BKJRf5adz) | [Oscar](https://open.spotify.com/artist/0WmXq6amDycrGNI8kFE5Kf), [Aliammo](https://open.spotify.com/artist/17xEFtyxHsXwQEAy49fXCA) | [Låt mig berätta](https://open.spotify.com/album/067F7WJ1h5ybPA80S06gSx) | 2:40 | 2023-09-28 | 2023-11-23 |
 | [Låta mig va](https://open.spotify.com/track/3QIyTPHILvEB0IjQrxU2f8) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [TJUGI23](https://open.spotify.com/album/5J8dRxQwNyJdrvNlNY6NMg) | 2:24 | 2023-03-16 | 2023-04-28 |
 | [M.I.A](https://open.spotify.com/track/64jrnru6MMrKMUpgDNBlvi) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [M.I.A](https://open.spotify.com/album/6Xakhvb7BiuvGK1S12OQUN) | 3:00 | 2023-02-09 | 2023-03-18 |
 | [M.O.B](https://open.spotify.com/track/7scyrGYhNkIz5t4U630EmD) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [M.O.B](https://open.spotify.com/album/3gfzgUuXhBJC2KMjvWgGQ7) | 1:48 | 2022-12-08 | 2023-02-15 |
@@ -967,6 +967,7 @@
 | [Riskera allt](https://open.spotify.com/track/3FkOXddFZB2m6TRjotDM0X) | [Theo Ama](https://open.spotify.com/artist/49WKi1DsyLCsbVMNKvTIDQ) | [Riskera allt](https://open.spotify.com/album/26bqeOYvLPhvNAfkD5GtRM) | 2:55 | 2023-06-01 | 2023-06-16 |
 | [ROCKARE](https://open.spotify.com/track/0K6aHb68850FoOuFfxAsre) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [ROCKARE](https://open.spotify.com/album/7J1wd4gYFae902bJB62UOP) | 2:14 | 2023-06-08 | 2023-07-14 |
 | [ROM & BACARDI](https://open.spotify.com/track/2VCd1yhoWXyUmHcpQGMjqe) | [Boogie dinero](https://open.spotify.com/artist/5sOVX1TzQHg85L624KEOIH), [Jamkid](https://open.spotify.com/artist/1AXqKV1nhx3eMcHzD5pNVx) | [ROM & BACARDI](https://open.spotify.com/album/6CaEhxaKnqtw6YzmGkCCH8) | 3:04 | 2023-07-19 | 2023-08-11 |
+| [Roma](https://open.spotify.com/track/72Vowls7A5ZiLp8bfAOPig) | [FGZ](https://open.spotify.com/artist/4Si6O7X4gvXWjVF2yYzORs) | [Roma](https://open.spotify.com/album/56IVBQgF3IcQE3cYrrsDJL) | 2:41 | 2023-11-22 |  |
 | [Ronaldo](https://open.spotify.com/track/3MgfEGq3GyR4FeGjjz1KJV) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [Viktor Ax](https://open.spotify.com/artist/4qp8Vfo8zlEF8ZqJxQJt84) | [Ronaldo](https://open.spotify.com/album/5iUkpQGQ4tETayxbpTq87e) | 2:47 | 2023-10-05 |  |
 | [ROOKIE OF THE YEAR](https://open.spotify.com/track/3sEFYu8UIUjj4N0DJ3ox4s) | [DR](https://open.spotify.com/artist/6c4sJR389IWJzl4ao1uAiA), [TUTTOLENTE](https://open.spotify.com/artist/3VRrEInrOGVHmPGBP7T3M1) | [DRAFT NIGHT](https://open.spotify.com/album/19msykTDEX8xNB5Rih9BCD) | 2:29 | 2023-11-09 |  |
 | [Rop på hjälp](https://open.spotify.com/track/5NmrDCepEwpxQbiOCCYLru) | [Roffe Ruff](https://open.spotify.com/artist/6FkSZBvBZ74ADdf5aWrT1O), [Hofmästarn](https://open.spotify.com/artist/5TgOBj4v5RI1Guk1F0bfGA) | [Panterparken 2](https://open.spotify.com/album/6lmTBJ0qtEp9mvaLwdlxlG) | 3:23 | 2023-08-03 | 2023-09-08 |

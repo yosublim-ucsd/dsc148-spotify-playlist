@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 135806,
+  "num_followers": 135912,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTM4MWViMGJiYmFkY2Q3NmU1MzdkNzU4NzBjYzUzMzE3M2JkZDVi",
+  "snapshot_id": "MCxjMTBlYjA5OWM5YTNlZjhkMGVhM2ViYzA1Nzg1M2IwODNhYjMyZjcz",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "El Amor Manda",
-        "url": "https://open.spotify.com/album/6iyVNbwXzxrdVZKFyHTW8Y"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9rica Sierra",
-          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Porque El Amor Manda",
-      "url": "https://open.spotify.com/track/3ot3tplmCSuP4tghJia2jR"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Dicen",
         "url": "https://open.spotify.com/album/4H1sa79MAZ1neRpTKa5Idz"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 226906,
       "name": "Simplemente T\u00fa",
       "url": "https://open.spotify.com/track/6n5bmDFKf6PNPfyMBxYdyA"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "El Amor Manda",
+        "url": "https://open.spotify.com/album/6iyVNbwXzxrdVZKFyHTW8Y"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9rica Sierra",
+          "url": "https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Porque El Amor Manda",
+      "url": "https://open.spotify.com/track/3ot3tplmCSuP4tghJia2jR"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
+        "name": "Canciones De Amor",
+        "url": "https://open.spotify.com/album/69hcj06pBkmRqZYNqtbI8c"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 255333,
+      "name": "Desnuda",
+      "url": "https://open.spotify.com/track/5DRMxhUUiebOG9ruo5aLxj"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
         "name": "Desequilibrio",
         "url": "https://open.spotify.com/album/1HqNCyE4T5lD1R1CYnE4Se"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 182720,
       "name": "Mi Coraz\u00f3n Es Tuyo",
       "url": "https://open.spotify.com/track/1ITcEqIHJwRU1oTBz4M0uE"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "Canciones De Amor",
-        "url": "https://open.spotify.com/album/69hcj06pBkmRqZYNqtbI8c"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 255333,
-      "name": "Desnuda",
-      "url": "https://open.spotify.com/track/5DRMxhUUiebOG9ruo5aLxj"
     },
     {
       "added_at": "2022-05-06 18:32:26",

@@ -1,12 +1,12 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 47699,
+  "num_followers": 47715,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGU5MTFkYmExNzlkODk5MjgyMDk2YzRhMGVlMThhMDg0NDcyYzA3",
+  "snapshot_id": "MCw3MzY3ZGRkOWZmNjU1OTU2YzhlMGI2ZDRiN2QxZWUwOWJjY2ViNmE5",
   "tracks": [
     {
       "added_at": "2022-11-12 17:30:07",
@@ -23,6 +23,42 @@
       "duration_ms": 187851,
       "name": "Epico",
       "url": "https://open.spotify.com/track/6nv7sDQtRxp0JeH2sFUuwE"
+    },
+    {
+      "added_at": "2023-04-01 01:11:30",
+      "album": {
+        "name": "Liit",
+        "url": "https://open.spotify.com/album/1bSOutlOEi6xlqpLQC4Mss"
+      },
+      "artists": [
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 167449,
+      "name": "Liit",
+      "url": "https://open.spotify.com/track/0tZytKFwVKhuTVAr1kJCSB"
+    },
+    {
+      "added_at": "2023-11-06 22:19:34",
+      "album": {
+        "name": "Marimbitiaos",
+        "url": "https://open.spotify.com/album/75sLevy1ItKbdECqdT0VWs"
+      },
+      "artists": [
+        {
+          "name": "Rizomagic",
+          "url": "https://open.spotify.com/artist/4S3Z9ltQKcBL7BoKrJUaqt"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "\u00d1e\u00f1o",
+      "url": "https://open.spotify.com/track/04wkclUopy6en6H0Fvqs9E"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -47,42 +83,6 @@
       "duration_ms": 212621,
       "name": "Sr. Tigre - French Braids Rework",
       "url": "https://open.spotify.com/track/3u2hfoDnXpCiQQRQkblecj"
-    },
-    {
-      "added_at": "2023-11-06 22:19:34",
-      "album": {
-        "name": "Marimbitiaos",
-        "url": "https://open.spotify.com/album/75sLevy1ItKbdECqdT0VWs"
-      },
-      "artists": [
-        {
-          "name": "Rizomagic",
-          "url": "https://open.spotify.com/artist/4S3Z9ltQKcBL7BoKrJUaqt"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "\u00d1e\u00f1o",
-      "url": "https://open.spotify.com/track/04wkclUopy6en6H0Fvqs9E"
-    },
-    {
-      "added_at": "2023-04-01 01:11:30",
-      "album": {
-        "name": "Liit",
-        "url": "https://open.spotify.com/album/1bSOutlOEi6xlqpLQC4Mss"
-      },
-      "artists": [
-        {
-          "name": "\u00c7antamarta",
-          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
-        },
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 167449,
-      "name": "Liit",
-      "url": "https://open.spotify.com/track/0tZytKFwVKhuTVAr1kJCSB"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -317,26 +317,6 @@
       "url": "https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc"
     },
     {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Los Guasang\u00fa (Cerrero Remix)",
-        "url": "https://open.spotify.com/album/7Khc3U2x9wL0e7kx8PiFkV"
-      },
-      "artists": [
-        {
-          "name": "Semblanzas del Rio Guapi",
-          "url": "https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H"
-        },
-        {
-          "name": "Cerrero",
-          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
-        }
-      ],
-      "duration_ms": 311554,
-      "name": "Los Guasang\u00fa - (Cerrero Remix)",
-      "url": "https://open.spotify.com/track/5Cc7P1f3WRSFFP6iBencng"
-    },
-    {
       "added_at": "2023-03-23 21:34:53",
       "album": {
         "name": "Gato Negro (Daniel Hokum & Okuma Remix)",
@@ -359,6 +339,26 @@
       "duration_ms": 395632,
       "name": "Gato Negro - Daniel Hokum & okuma Remix",
       "url": "https://open.spotify.com/track/4lCjFg06zDoSOSFVxSQyzp"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Los Guasang\u00fa (Cerrero Remix)",
+        "url": "https://open.spotify.com/album/7Khc3U2x9wL0e7kx8PiFkV"
+      },
+      "artists": [
+        {
+          "name": "Semblanzas del Rio Guapi",
+          "url": "https://open.spotify.com/artist/5z2De8UDjNsituyyJOXh8H"
+        },
+        {
+          "name": "Cerrero",
+          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+        }
+      ],
+      "duration_ms": 311554,
+      "name": "Los Guasang\u00fa - (Cerrero Remix)",
+      "url": "https://open.spotify.com/track/5Cc7P1f3WRSFFP6iBencng"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -469,26 +469,6 @@
       "url": "https://open.spotify.com/track/6GMd54cabubG2fdz438cmF"
     },
     {
-      "added_at": "2023-04-14 01:19:32",
-      "album": {
-        "name": "Espantap\u00e1jaros",
-        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "La Perla",
-          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Espantap\u00e1jaros",
-      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
-    },
-    {
       "added_at": "2022-06-07 16:47:23",
       "album": {
         "name": "Mira Bien",
@@ -507,6 +487,26 @@
       "duration_ms": 207386,
       "name": "Mira Bien",
       "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
+    },
+    {
+      "added_at": "2023-04-14 01:19:32",
+      "album": {
+        "name": "Espantap\u00e1jaros",
+        "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "La Perla",
+          "url": "https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Espantap\u00e1jaros",
+      "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -769,26 +769,6 @@
       "url": "https://open.spotify.com/track/1RGmt75GiXpnUxM1jYeiCW"
     },
     {
-      "added_at": "2023-03-24 19:41:45",
-      "album": {
-        "name": "Ca\u00f1a Brava",
-        "url": "https://open.spotify.com/album/02aqlW1aBYEyhEC4I6lW42"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "NIKOLA",
-          "url": "https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk"
-        }
-      ],
-      "duration_ms": 181134,
-      "name": "Ca\u00f1a Brava",
-      "url": "https://open.spotify.com/track/0hy6YsimguNescPjjijro0"
-    },
-    {
       "added_at": "2022-06-30 17:42:11",
       "album": {
         "name": "Duele",
@@ -807,6 +787,26 @@
       "duration_ms": 197733,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
+    },
+    {
+      "added_at": "2023-03-24 19:41:45",
+      "album": {
+        "name": "Ca\u00f1a Brava",
+        "url": "https://open.spotify.com/album/02aqlW1aBYEyhEC4I6lW42"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "NIKOLA",
+          "url": "https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk"
+        }
+      ],
+      "duration_ms": 181134,
+      "name": "Ca\u00f1a Brava",
+      "url": "https://open.spotify.com/track/0hy6YsimguNescPjjijro0"
     },
     {
       "added_at": "2022-06-07 16:47:23",

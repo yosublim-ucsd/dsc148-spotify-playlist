@@ -1,6 +1,6 @@
 {
   "description": "Stay current with the latest indie-alt tracks.",
-  "num_followers": 28572,
+  "num_followers": 28571,
   "original_name": "Hipster Radar",
   "owner": {
     "name": "Filtr Canada\t",
@@ -18,6 +18,10 @@
         {
           "name": "H.E.R.",
           "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
       "duration_ms": 211190,

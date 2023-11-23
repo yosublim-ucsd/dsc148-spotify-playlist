@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 526195,
+  "num_followers": 526428,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjdhMzk5YTEyNzg0MmRlMDY3ZmE1OGNhMjZlODg1NWM1ZmY0NTg4",
+  "snapshot_id": "MCxhMTY2OWZjZDQ5OTRkMGVlMjRhZmZlNzdhZDI3Zjc0NGRiODEyZmNk",
   "tracks": [
     {
       "added_at": "2023-11-17 17:00:16",
@@ -539,6 +539,26 @@
     {
       "added_at": "2023-11-17 17:00:16",
       "album": {
+        "name": "This Is The Life",
+        "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        }
+      ],
+      "duration_ms": 131388,
+      "name": "This Is The Life",
+      "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
+    },
+    {
+      "added_at": "2023-11-17 17:00:16",
+      "album": {
         "name": "Ich will nur dass du wei\u00dft (IIVEN Remix)",
         "url": "https://open.spotify.com/album/2prLFss2H7K0y4ZY094MZA"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 156387,
       "name": "Ich will nur dass du wei\u00dft - IIVEN Remix",
       "url": "https://open.spotify.com/track/7MCNurIGh8Hg9SYaCPP9vv"
-    },
-    {
-      "added_at": "2023-11-17 17:00:16",
-      "album": {
-        "name": "This Is The Life",
-        "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "KYANU",
-          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
-        }
-      ],
-      "duration_ms": 131388,
-      "name": "This Is The Life",
-      "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
     },
     {
       "added_at": "2023-11-17 17:00:16",
@@ -755,26 +755,6 @@
     {
       "added_at": "2023-11-17 17:00:16",
       "album": {
-        "name": "Nachts wach",
-        "url": "https://open.spotify.com/album/6VLivifFeh65jFqwXCAar3"
-      },
-      "artists": [
-        {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
-        },
-        {
-          "name": "makko",
-          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
-        }
-      ],
-      "duration_ms": 158080,
-      "name": "Nachts wach (Lila Wolken Bootleg)",
-      "url": "https://open.spotify.com/track/5qEGAHerczFt3HmL9lhh4j"
-    },
-    {
-      "added_at": "2023-11-17 17:00:16",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
       },
@@ -795,26 +775,22 @@
     {
       "added_at": "2023-11-17 17:00:16",
       "album": {
-        "name": "Anders",
-        "url": "https://open.spotify.com/album/5AXp6zh5m2lyBV5OTH5iwq"
+        "name": "Nachts wach",
+        "url": "https://open.spotify.com/album/6VLivifFeh65jFqwXCAar3"
       },
       "artists": [
         {
-          "name": "01099",
-          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
         },
         {
-          "name": "Paul",
-          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
-        },
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+          "name": "makko",
+          "url": "https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt"
         }
       ],
-      "duration_ms": 155020,
-      "name": "Anders",
-      "url": "https://open.spotify.com/track/5TYmnScjaRecWuBqEaA7S5"
+      "duration_ms": 158080,
+      "name": "Nachts wach (Lila Wolken Bootleg)",
+      "url": "https://open.spotify.com/track/5qEGAHerczFt3HmL9lhh4j"
     },
     {
       "added_at": "2023-11-17 17:00:16",
@@ -855,6 +831,30 @@
       "duration_ms": 267946,
       "name": "Turn On The Lights again.. (feat. Future)",
       "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
+    },
+    {
+      "added_at": "2023-11-17 17:00:16",
+      "album": {
+        "name": "Anders",
+        "url": "https://open.spotify.com/album/5AXp6zh5m2lyBV5OTH5iwq"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "duration_ms": 155020,
+      "name": "Anders",
+      "url": "https://open.spotify.com/track/5TYmnScjaRecWuBqEaA7S5"
     },
     {
       "added_at": "2023-11-17 17:00:16",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-11-17 17:00:16",
       "album": {
-        "name": "Es kracht in Buxtehude",
-        "url": "https://open.spotify.com/album/1eOfCZvt4oRKS10xyLkvLO"
-      },
-      "artists": [
-        {
-          "name": "Trizto",
-          "url": "https://open.spotify.com/artist/34hL467mqffW7Z5WQhM1MS"
-        },
-        {
-          "name": "MontanaBlack",
-          "url": "https://open.spotify.com/artist/3G48828EYRdDAQ77Z6HidC"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "Es kracht in Buxtehude",
-      "url": "https://open.spotify.com/track/1oryzuL2gSZMmTGgKD3sh1"
-    },
-    {
-      "added_at": "2023-11-17 17:00:16",
-      "album": {
         "name": "Thank You (Not So Bad)",
         "url": "https://open.spotify.com/album/3SmoOc6Jcej35ioy9xpB7j"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 148965,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/6a39HPcHKbPD536syYsRra"
+    },
+    {
+      "added_at": "2023-11-17 17:00:16",
+      "album": {
+        "name": "Es kracht in Buxtehude",
+        "url": "https://open.spotify.com/album/1eOfCZvt4oRKS10xyLkvLO"
+      },
+      "artists": [
+        {
+          "name": "Trizto",
+          "url": "https://open.spotify.com/artist/34hL467mqffW7Z5WQhM1MS"
+        },
+        {
+          "name": "MontanaBlack",
+          "url": "https://open.spotify.com/artist/3G48828EYRdDAQ77Z6HidC"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "Es kracht in Buxtehude",
+      "url": "https://open.spotify.com/track/1oryzuL2gSZMmTGgKD3sh1"
     },
     {
       "added_at": "2023-11-17 17:00:16",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-11-17 17:00:16",
       "album": {
-        "name": "Mangos mit Chili",
-        "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 134887,
-      "name": "Mangos mit Chili",
-      "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
-    },
-    {
-      "added_at": "2023-11-17 17:00:16",
-      "album": {
         "name": "Next!",
         "url": "https://open.spotify.com/album/3BKfDiq9KWSmbV7NHoCGlt"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 206160,
       "name": "Ding",
       "url": "https://open.spotify.com/track/5LH1z4ma2TN2aVeESXthj9"
+    },
+    {
+      "added_at": "2023-11-17 17:00:16",
+      "album": {
+        "name": "Mangos mit Chili",
+        "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 134887,
+      "name": "Mangos mit Chili",
+      "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
     },
     {
       "added_at": "2023-11-17 17:00:16",
@@ -1795,34 +1795,6 @@
     {
       "added_at": "2023-11-17 17:00:16",
       "album": {
-        "name": "Tempo",
-        "url": "https://open.spotify.com/album/1xQnVy9txnqnRnbr2nlJf2"
-      },
-      "artists": [
-        {
-          "name": "01099",
-          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
-        },
-        {
-          "name": "Paul",
-          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
-        },
-        {
-          "name": "Gustav",
-          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
-        },
-        {
-          "name": "Zachi",
-          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
-        }
-      ],
-      "duration_ms": 131122,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/4U4wfzEfxCHCiAdPg3oage"
-    },
-    {
-      "added_at": "2023-11-17 17:00:16",
-      "album": {
         "name": "Get Up Off The Floor",
         "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
       },
@@ -1835,6 +1807,26 @@
       "duration_ms": 155000,
       "name": "Get Up Off The Floor",
       "url": "https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW"
+    },
+    {
+      "added_at": "2023-11-17 17:00:16",
+      "album": {
+        "name": "WILDES DING",
+        "url": "https://open.spotify.com/album/6nnBMvIedNf19zjzk2KGhF"
+      },
+      "artists": [
+        {
+          "name": "Valexus",
+          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
+        },
+        {
+          "name": "Culcha Candela",
+          "url": "https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL"
+        }
+      ],
+      "duration_ms": 136204,
+      "name": "WILDES DING",
+      "url": "https://open.spotify.com/track/2BssmP7ruTX7iZrWLm7EVk"
     }
   ],
   "unique_name": "schiebt anders",

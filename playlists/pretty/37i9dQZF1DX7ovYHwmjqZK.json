@@ -1,12 +1,12 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 203012,
+  "num_followers": 203113,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDMyNzU1Y2NkYjNmM2JmNGE4ODY5OWY2M2E3ZWFkMzlhMzRjY2Fh",
+  "snapshot_id": "MCxkOGI2YTNjOGVjMWViNTIzMDc0OWU4ZTQ3MmUxMTk4MzE0MDM0ODM3",
   "tracks": [
     {
       "added_at": "2023-07-07 06:05:01",
@@ -83,6 +83,22 @@
     {
       "added_at": "2023-07-07 06:05:01",
       "album": {
+        "name": "Light Dance",
+        "url": "https://open.spotify.com/album/0M1TSMQxxvXzHdH4ZtgLkZ"
+      },
+      "artists": [
+        {
+          "name": "Ennio M\u00e1no",
+          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
+        }
+      ],
+      "duration_ms": 219750,
+      "name": "Light Dance",
+      "url": "https://open.spotify.com/track/7wHsraPGARpUvcRW8holDn"
+    },
+    {
+      "added_at": "2023-07-07 06:05:01",
+      "album": {
         "name": "Elis & Tom",
         "url": "https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 194030,
       "name": "Chovendo Na Roseira",
       "url": "https://open.spotify.com/track/4FwoSbAlyYBm2hsmAb6S7Q"
-    },
-    {
-      "added_at": "2023-07-07 06:05:01",
-      "album": {
-        "name": "Light Dance",
-        "url": "https://open.spotify.com/album/0M1TSMQxxvXzHdH4ZtgLkZ"
-      },
-      "artists": [
-        {
-          "name": "Ennio M\u00e1no",
-          "url": "https://open.spotify.com/artist/257NeKIWsdypZxr0j4xnOs"
-        }
-      ],
-      "duration_ms": 219750,
-      "name": "Light Dance",
-      "url": "https://open.spotify.com/track/7wHsraPGARpUvcRW8holDn"
     },
     {
       "added_at": "2023-07-07 06:05:01",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-07-07 06:05:01",
       "album": {
-        "name": "House Of Jade",
-        "url": "https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR"
-      },
-      "artists": [
-        {
-          "name": "Eugene Lambert",
-          "url": "https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl"
-        }
-      ],
-      "duration_ms": 442000,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1"
-    },
-    {
-      "added_at": "2023-07-07 06:05:01",
-      "album": {
         "name": "Bim Bom",
         "url": "https://open.spotify.com/album/6Z5CN2IlbUsmmxxnLSrDwq"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 101793,
       "name": "Bim Bom",
       "url": "https://open.spotify.com/track/0QNmH33S2Hk6tIHVYLcom4"
+    },
+    {
+      "added_at": "2023-07-07 06:05:01",
+      "album": {
+        "name": "House Of Jade",
+        "url": "https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR"
+      },
+      "artists": [
+        {
+          "name": "Eugene Lambert",
+          "url": "https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl"
+        }
+      ],
+      "duration_ms": 442000,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1"
     },
     {
       "added_at": "2023-07-07 06:05:01",
@@ -743,26 +743,6 @@
     {
       "added_at": "2023-07-07 06:05:01",
       "album": {
-        "name": "Vamos Partir Pro Mundo - a M\u00fasica de Antonio Adolfo e Tib\u00e9rio Gaspar",
-        "url": "https://open.spotify.com/album/7cUhVVnTCLut3xdKKRkCFa"
-      },
-      "artists": [
-        {
-          "name": "Antonio Adolfo",
-          "url": "https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9"
-        },
-        {
-          "name": "Leila Pinheiro",
-          "url": "https://open.spotify.com/artist/4YBLaoTWDgIwBB6Y61Y6Nb"
-        }
-      ],
-      "duration_ms": 204394,
-      "name": "Cl\u00e1udia",
-      "url": "https://open.spotify.com/track/6kWTVslk9c1Vm7LCqwnssP"
-    },
-    {
-      "added_at": "2023-07-07 06:05:01",
-      "album": {
         "name": "As Cores das Flores",
         "url": "https://open.spotify.com/album/4KdRvg4blGZQsB2upPmpKL"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 181894,
       "name": "As Cores das Flores",
       "url": "https://open.spotify.com/track/0SIpgaiaCYnrMsFra2eRRU"
+    },
+    {
+      "added_at": "2023-07-07 06:05:01",
+      "album": {
+        "name": "Vamos Partir Pro Mundo - a M\u00fasica de Antonio Adolfo e Tib\u00e9rio Gaspar",
+        "url": "https://open.spotify.com/album/7cUhVVnTCLut3xdKKRkCFa"
+      },
+      "artists": [
+        {
+          "name": "Antonio Adolfo",
+          "url": "https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9"
+        },
+        {
+          "name": "Leila Pinheiro",
+          "url": "https://open.spotify.com/artist/4YBLaoTWDgIwBB6Y61Y6Nb"
+        }
+      ],
+      "duration_ms": 204394,
+      "name": "Cl\u00e1udia",
+      "url": "https://open.spotify.com/track/6kWTVslk9c1Vm7LCqwnssP"
     },
     {
       "added_at": "2023-07-07 06:05:01",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-07-07 06:05:01",
       "album": {
+        "name": "A Ma\u00e7\u00e3",
+        "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
+      },
+      "artists": [
+        {
+          "name": "Carlos Buzelin",
+          "url": "https://open.spotify.com/artist/3LRki4zLTVbYzI6R1kwcsB"
+        }
+      ],
+      "duration_ms": 300126,
+      "name": "A Mac\u0327a\u0303",
+      "url": "https://open.spotify.com/track/0Y1uSDQytl2Tq5zc2vb4ZA"
+    },
+    {
+      "added_at": "2023-07-07 06:05:01",
+      "album": {
         "name": "Veja Bem Meu Bem (Single)",
         "url": "https://open.spotify.com/album/395WtO1KY2VMx5NVcilT1R"
       },
@@ -851,22 +867,6 @@
     {
       "added_at": "2023-07-07 06:05:01",
       "album": {
-        "name": "A Ma\u00e7\u00e3",
-        "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
-      },
-      "artists": [
-        {
-          "name": "Carlos Buzelin",
-          "url": "https://open.spotify.com/artist/3LRki4zLTVbYzI6R1kwcsB"
-        }
-      ],
-      "duration_ms": 300126,
-      "name": "A Mac\u0327a\u0303",
-      "url": "https://open.spotify.com/track/0Y1uSDQytl2Tq5zc2vb4ZA"
-    },
-    {
-      "added_at": "2023-07-07 06:05:01",
-      "album": {
         "name": "Selfie",
         "url": "https://open.spotify.com/album/7Al9VuPMLbkh6hjL90GFgz"
       },
@@ -879,6 +879,22 @@
       "duration_ms": 187905,
       "name": "Seres Incriveis",
       "url": "https://open.spotify.com/track/6k1V8fUxya4uGTu5gRZ1OW"
+    },
+    {
+      "added_at": "2023-07-07 06:05:01",
+      "album": {
+        "name": "\u00cdndia",
+        "url": "https://open.spotify.com/album/0jKrhKSGwTc4ZJ1cBvtRpI"
+      },
+      "artists": [
+        {
+          "name": "Last Aliens in Rio",
+          "url": "https://open.spotify.com/artist/6mlVweP8wRCjPz47REmRD8"
+        }
+      ],
+      "duration_ms": 188597,
+      "name": "\u00cdndia - Tarde de Sol",
+      "url": "https://open.spotify.com/track/78wqr91hQ7oX3H5FEOE6zF"
     },
     {
       "added_at": "2023-07-07 06:05:01",
@@ -903,22 +919,6 @@
       "duration_ms": 253870,
       "name": "Samba Sem Ver\u00e3o",
       "url": "https://open.spotify.com/track/5W5wploZHg8Y2CpiwTp1l9"
-    },
-    {
-      "added_at": "2023-07-07 06:05:01",
-      "album": {
-        "name": "\u00cdndia",
-        "url": "https://open.spotify.com/album/0jKrhKSGwTc4ZJ1cBvtRpI"
-      },
-      "artists": [
-        {
-          "name": "Last Aliens in Rio",
-          "url": "https://open.spotify.com/artist/6mlVweP8wRCjPz47REmRD8"
-        }
-      ],
-      "duration_ms": 188597,
-      "name": "\u00cdndia - Tarde de Sol",
-      "url": "https://open.spotify.com/track/78wqr91hQ7oX3H5FEOE6zF"
     },
     {
       "added_at": "2023-07-07 06:05:01",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-07-07 06:05:01",
       "album": {
+        "name": "Giordano Rosa",
+        "url": "https://open.spotify.com/album/0SHzAgEULVIquqUqZmm7ni"
+      },
+      "artists": [
+        {
+          "name": "Giordano Rosa",
+          "url": "https://open.spotify.com/artist/3iapiuDh6JQb6xxMsZA0TU"
+        }
+      ],
+      "duration_ms": 151875,
+      "name": "Marinheiro",
+      "url": "https://open.spotify.com/track/5iaG80CUlrQrMte5ZiBXMY"
+    },
+    {
+      "added_at": "2023-07-07 06:05:01",
+      "album": {
         "name": "Saudades de Amanh\u00e3",
         "url": "https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 332026,
       "name": "Queixa (feat. Maur\u00edcio Tizumba, Josi Lopes & Play)",
       "url": "https://open.spotify.com/track/1QK2zn2AcGsogRJh3mwPpJ"
-    },
-    {
-      "added_at": "2023-07-07 06:05:01",
-      "album": {
-        "name": "Giordano Rosa",
-        "url": "https://open.spotify.com/album/0SHzAgEULVIquqUqZmm7ni"
-      },
-      "artists": [
-        {
-          "name": "Giordano Rosa",
-          "url": "https://open.spotify.com/artist/3iapiuDh6JQb6xxMsZA0TU"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Marinheiro",
-      "url": "https://open.spotify.com/track/5iaG80CUlrQrMte5ZiBXMY"
     },
     {
       "added_at": "2023-07-07 06:05:01",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-07-07 06:05:01",
       "album": {
-        "name": "Bachianas Brasileiras No.2: O Trenzinho do Caipira",
-        "url": "https://open.spotify.com/album/550yBsaBetEVsKvQkVH2Xn"
+        "name": "Storytellers",
+        "url": "https://open.spotify.com/album/79Nec7JBai5QMAC0PX81ic"
       },
       "artists": [
         {
-          "name": "Chico Teixeira",
-          "url": "https://open.spotify.com/artist/0rAlodh0dGYlbFuk3XGPmW"
+          "name": "Luciana Souza",
+          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
         }
       ],
-      "duration_ms": 161233,
-      "name": "Bachianas Brasileiras No.2: O Trenzinho do Caipira",
-      "url": "https://open.spotify.com/track/2EJVC0ARkDDHxTkFQe4hhW"
+      "duration_ms": 310680,
+      "name": "Se Acontecer",
+      "url": "https://open.spotify.com/track/1PuqbHqhn1uGiT6xTyt4hw"
     },
     {
       "added_at": "2023-07-07 06:05:01",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2023-07-07 06:05:01",
       "album": {
-        "name": "Storytellers",
-        "url": "https://open.spotify.com/album/79Nec7JBai5QMAC0PX81ic"
+        "name": "Bachianas Brasileiras No.2: O Trenzinho do Caipira",
+        "url": "https://open.spotify.com/album/550yBsaBetEVsKvQkVH2Xn"
       },
       "artists": [
         {
-          "name": "Luciana Souza",
-          "url": "https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM"
+          "name": "Chico Teixeira",
+          "url": "https://open.spotify.com/artist/0rAlodh0dGYlbFuk3XGPmW"
         }
       ],
-      "duration_ms": 310680,
-      "name": "Se Acontecer",
-      "url": "https://open.spotify.com/track/1PuqbHqhn1uGiT6xTyt4hw"
+      "duration_ms": 161233,
+      "name": "Bachianas Brasileiras No.2: O Trenzinho do Caipira",
+      "url": "https://open.spotify.com/track/2EJVC0ARkDDHxTkFQe4hhW"
     },
     {
       "added_at": "2023-07-07 06:05:01",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-07-07 06:05:01",
       "album": {
-        "name": "Samba Doce",
-        "url": "https://open.spotify.com/album/2vKAuIaTIb9QTQdfoFo6fh"
-      },
-      "artists": [
-        {
-          "name": "Jorge Helder",
-          "url": "https://open.spotify.com/artist/15xTCSZpFY72P0e47a7jIg"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Samba Doce",
-      "url": "https://open.spotify.com/track/6jEzvYcZm5HIpuGpRXutzf"
-    },
-    {
-      "added_at": "2023-07-07 06:05:01",
-      "album": {
         "name": "O Samba, a Roseira e o Vento",
         "url": "https://open.spotify.com/album/1zVeyQapR2zvcR9xqTMemg"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 173178,
       "name": "Compro o Vento",
       "url": "https://open.spotify.com/track/1Ihq48VjNlON6ZbAlOderq"
+    },
+    {
+      "added_at": "2023-07-07 06:05:01",
+      "album": {
+        "name": "Samba Doce",
+        "url": "https://open.spotify.com/album/2vKAuIaTIb9QTQdfoFo6fh"
+      },
+      "artists": [
+        {
+          "name": "Jorge Helder",
+          "url": "https://open.spotify.com/artist/15xTCSZpFY72P0e47a7jIg"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Samba Doce",
+      "url": "https://open.spotify.com/track/6jEzvYcZm5HIpuGpRXutzf"
     },
     {
       "added_at": "2023-07-07 06:05:01",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-07-07 06:05:01",
       "album": {
+        "name": "\u00c0guas De Mar\u00e7o / Esse Ano / Nada \u00c9 Melhor Do Que Voc\u00ea",
+        "url": "https://open.spotify.com/album/2OADy8bkOEcsMWyF4raTRe"
+      },
+      "artists": [
+        {
+          "name": "Vitto Meirelles",
+          "url": "https://open.spotify.com/artist/1k6FKHfl8lzBXvBfr6IPee"
+        }
+      ],
+      "duration_ms": 145974,
+      "name": "Esse Ano",
+      "url": "https://open.spotify.com/track/6oEYnlgYjJAZtrT6SY118e"
+    },
+    {
+      "added_at": "2023-07-07 06:05:01",
+      "album": {
         "name": "Terra Papagali Coffee Shop",
         "url": "https://open.spotify.com/album/3q60h8km0is6TAC3w4hncb"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 155586,
       "name": "Allora Allor",
       "url": "https://open.spotify.com/track/6bNE6tP41XZAEAiYV9Rq0X"
-    },
-    {
-      "added_at": "2023-07-07 06:05:01",
-      "album": {
-        "name": "\u00c0guas De Mar\u00e7o / Esse Ano / Nada \u00c9 Melhor Do Que Voc\u00ea",
-        "url": "https://open.spotify.com/album/2OADy8bkOEcsMWyF4raTRe"
-      },
-      "artists": [
-        {
-          "name": "Vitto Meirelles",
-          "url": "https://open.spotify.com/artist/1k6FKHfl8lzBXvBfr6IPee"
-        }
-      ],
-      "duration_ms": 145974,
-      "name": "Esse Ano",
-      "url": "https://open.spotify.com/track/6oEYnlgYjJAZtrT6SY118e"
     },
     {
       "added_at": "2023-07-07 06:05:01",

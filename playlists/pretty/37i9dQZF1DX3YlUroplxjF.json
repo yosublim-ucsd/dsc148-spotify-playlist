@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Knocked Loose",
-  "num_followers": 471183,
+  "num_followers": 471295,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGFiM2UwNDhhMTczNmY2ZDQ0Njk3MzgyZjI4ZjEwMmY0Yjc4YzBm",
+  "snapshot_id": "MCxhY2VmNzQ5MjllMjQ5YzM3ZGQyOWNmNDQ2M2U3YjA0MjQ1NDhhM2E5",
   "tracks": [
     {
       "added_at": "2023-06-20 21:21:38",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "Long Time, No Sea (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7LgruFgKT9Vg00mymfEyf7"
+      },
+      "artists": [
+        {
+          "name": "Attack Attack!",
+          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
+        }
+      ],
+      "duration_ms": 184285,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/60ICDcC995UF0nu85r75qV"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 170571,
       "name": "Do Or Die",
       "url": "https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Long Time, No Sea (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7LgruFgKT9Vg00mymfEyf7"
-      },
-      "artists": [
-        {
-          "name": "Attack Attack!",
-          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
-        }
-      ],
-      "duration_ms": 184285,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/60ICDcC995UF0nu85r75qV"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Call Me Little Sunshine",
-        "url": "https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 284266,
-      "name": "Call Me Little Sunshine",
-      "url": "https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "To Better Days",
         "url": "https://open.spotify.com/album/0R8nkP9bWyoCi6NuetVq5p"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 196427,
       "name": "Bury a Lie",
       "url": "https://open.spotify.com/track/1RNS0ntWy01bZpPkrjJAyt"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Call Me Little Sunshine",
+        "url": "https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 284266,
+      "name": "Call Me Little Sunshine",
+      "url": "https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -727,26 +727,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "DISCO4 :: PART II",
-        "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
-      },
-      "artists": [
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        },
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 326771,
-      "name": "COLD BLOOD",
-      "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Infinite",
         "url": "https://open.spotify.com/album/4A0h5fDeSf8P1egJGllKz4"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 163720,
       "name": "Infinite",
       "url": "https://open.spotify.com/track/1aWpVsNjEiqpFvV3KhJiWu"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "DISCO4 :: PART II",
+        "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        },
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 326771,
+      "name": "COLD BLOOD",
+      "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "How It Feels to Be Lost (Deluxe)",
-        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 190783,
-      "name": "Talking to Myself",
-      "url": "https://open.spotify.com/track/2BAt57GbkJ1DGDDh6U41eS"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Anon.",
         "url": "https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 198358,
       "name": "A Death In The Family",
       "url": "https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "How It Feels to Be Lost (Deluxe)",
+        "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 190783,
+      "name": "Talking to Myself",
+      "url": "https://open.spotify.com/track/2BAt57GbkJ1DGDDh6U41eS"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/5Icvhj9ZzhnOkgrkhb67a1"
+      },
+      "artists": [
+        {
+          "name": "Picturesque",
+          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
+        }
+      ],
+      "duration_ms": 224453,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/1DuYS5IWAl7fk4sottVMyZ"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "LIVING PROOF",
         "url": "https://open.spotify.com/album/035ul2Le143j2WBozMShrW"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 127933,
       "name": "Evil Finds Light",
       "url": "https://open.spotify.com/track/51ktvRKdU2hi52Ra9Q8rFF"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Restless Heart, Keep Running",
-        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
-      },
-      "artists": [
-        {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
-        }
-      ],
-      "duration_ms": 207106,
-      "name": "Stars Before The Sun",
-      "url": "https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1127,34 +1127,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/5Icvhj9ZzhnOkgrkhb67a1"
+        "name": "Restless Heart, Keep Running",
+        "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
       },
       "artists": [
         {
-          "name": "Picturesque",
-          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
         }
       ],
-      "duration_ms": 224453,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/1DuYS5IWAl7fk4sottVMyZ"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "New Age Filth",
-        "url": "https://open.spotify.com/album/5DGfTPWaXmfdiwlUOBzZdh"
-      },
-      "artists": [
-        {
-          "name": "Hail The Sun",
-          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
-        }
-      ],
-      "duration_ms": 264646,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/6rYBRpj2tKN3pTnrugVuZF"
+      "duration_ms": 207106,
+      "name": "Stars Before The Sun",
+      "url": "https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "New Age Filth",
+        "url": "https://open.spotify.com/album/5DGfTPWaXmfdiwlUOBzZdh"
+      },
+      "artists": [
+        {
+          "name": "Hail The Sun",
+          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
+        }
+      ],
+      "duration_ms": 264646,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/6rYBRpj2tKN3pTnrugVuZF"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Sick Day",
         "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
       },
@@ -1187,54 +1187,6 @@
       "duration_ms": 123337,
       "name": "Sick Day",
       "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "DEATH (Ever Colder)",
-        "url": "https://open.spotify.com/album/312yRj61uGSmld6RIl9zl4"
-      },
-      "artists": [
-        {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
-        }
-      ],
-      "duration_ms": 287692,
-      "name": "DEATH (Ever Colder)",
-      "url": "https://open.spotify.com/track/7tAUrb26TuIeZlVVvn9XdJ"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "Bob Vylan Presents The Price Of Life",
-        "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
-      },
-      "artists": [
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        }
-      ],
-      "duration_ms": 150143,
-      "name": "Wicked & Bad",
-      "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
-        "name": "wet milk",
-        "url": "https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI"
-      },
-      "artists": [
-        {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "myfeelingshavefeelings",
-      "url": "https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1255,6 +1207,38 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
+        "name": "Bob Vylan Presents The Price Of Life",
+        "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "duration_ms": 150143,
+      "name": "Wicked & Bad",
+      "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "DEATH (Ever Colder)",
+        "url": "https://open.spotify.com/album/312yRj61uGSmld6RIl9zl4"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 287692,
+      "name": "DEATH (Ever Colder)",
+      "url": "https://open.spotify.com/track/7tAUrb26TuIeZlVVvn9XdJ"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
         "name": "Damned Soul",
         "url": "https://open.spotify.com/album/29VUzmhLK0zvxyKCPU6AUe"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 217146,
       "name": "Moonlit",
       "url": "https://open.spotify.com/track/41pMAwF1Z0Z7OhxGfPMDwb"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "wet milk",
+        "url": "https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "myfeelingshavefeelings",
+      "url": "https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Familiar Drugs",
-        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 258718,
-      "name": "Familiar Drugs",
-      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Afterlife",
         "url": "https://open.spotify.com/album/41aWOCOKzixf8tmnc79Wdi"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 226309,
       "name": "Afterlife - Single Edit",
       "url": "https://open.spotify.com/track/5EP4iTqknNPDQsbXrc6Ab3"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Familiar Drugs",
+        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 258718,
+      "name": "Familiar Drugs",
+      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
     },
     {
       "added_at": "2023-06-20 21:21:38",

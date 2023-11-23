@@ -275,6 +275,28 @@
     },
     {
       "album": {
+        "name": "Broken Melodies (JVKE Remix)",
+        "url": "https://open.spotify.com/album/3YnDJuzNXU0pT9g1CniODn"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226173,
+      "name": "Broken Melodies - JVKE Remix",
+      "url": "https://open.spotify.com/track/2LqesWzQTXoMv01fZTz0rh"
+    },
+    {
+      "album": {
         "name": "Hello Future - The 1st Album Repackage",
         "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
       },

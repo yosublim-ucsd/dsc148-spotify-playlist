@@ -1,12 +1,12 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 744821,
+  "num_followers": 744904,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWNkY2IwMGFkMzA0NjFiYzU2ZWU3OGJiNjE4YTRlMDViMzhkZmQ4",
+  "snapshot_id": "MCw1YzEyNzBhZDYyMDFlMWQ0MmRkN2ViOWNjNjNkNjU0MDQwNzgyN2Ri",
   "tracks": [
     {
       "added_at": "2022-08-26 12:00:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Don't Play That Song (Mono)",
-        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 180055,
-      "name": "Stand by Me",
-      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 243360,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Don't Play That Song (Mono)",
+        "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "duration_ms": 180055,
+      "name": "Stand by Me",
+      "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 199396,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Back to Bedlam",
         "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 209493,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 199396,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Picture This (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2ddZd59LSTHIyH8QGSisjY"
-      },
-      "artists": [
-        {
-          "name": "Wet Wet Wet",
-          "url": "https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "Love Is All Around - From \"Four Weddings And A Funeral\"",
-      "url": "https://open.spotify.com/track/0PCGfA36HrVPmsBZJ57zOU"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "No Jacket Required (2016 Remaster)",
         "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 288973,
       "name": "One More Night - 2016 Remaster",
       "url": "https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Picture This (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2ddZd59LSTHIyH8QGSisjY"
+      },
+      "artists": [
+        {
+          "name": "Wet Wet Wet",
+          "url": "https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "Love Is All Around - From \"Four Weddings And A Funeral\"",
+      "url": "https://open.spotify.com/track/0PCGfA36HrVPmsBZJ57zOU"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "I've Been Expecting You",
+        "url": "https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 258026,
+      "name": "She's The One",
+      "url": "https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Can't Get Enough",
         "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 274000,
       "name": "Can't Get Enough Of Your Love, Babe",
       "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "I've Been Expecting You",
-        "url": "https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs"
+        "name": "XO",
+        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
       },
       "artists": [
         {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 258026,
-      "name": "She's The One",
-      "url": "https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq"
+      "duration_ms": 213626,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
-      },
-      "artists": [
-        {
-          "name": "Eric Carmen",
-          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
-        }
-      ],
-      "duration_ms": 248426,
-      "name": "Hungry Eyes - From \"Dirty Dancing\" Soundtrack",
-      "url": "https://open.spotify.com/track/7eafuv44YprITfOdzfVLoU"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Never Forget: The Ultimate Collection",
         "url": "https://open.spotify.com/album/7jzGCK8GdjuWEAe1lZ71xI"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 220813,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/0pO9wem4wi61QD2PWFpIJQ"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
+      },
+      "artists": [
+        {
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
+        }
+      ],
+      "duration_ms": 248426,
+      "name": "Hungry Eyes - From \"Dirty Dancing\" Soundtrack",
+      "url": "https://open.spotify.com/track/7eafuv44YprITfOdzfVLoU"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Red Rose Speedway",
-        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
-      },
-      "artists": [
-        {
-          "name": "Wings",
-          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "My Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Frampton Comes Alive! (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3719jlsd41vKAiYWrXNt9o"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 281066,
       "name": "Baby, I Love Your Way - Live",
       "url": "https://open.spotify.com/track/1ksayCHVLH4eKFm43GFokU"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Red Rose Speedway",
+        "url": "https://open.spotify.com/album/0ht0PyiPPsG3mYqvFhTfgD"
+      },
+      "artists": [
+        {
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "My Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/0Oj0TT23GBH2XuHAaSsloH"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Natural High",
-        "url": "https://open.spotify.com/album/01xiIydpf1MyOg7DWDRF2N"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 398506,
-      "name": "Three Times A Lady",
-      "url": "https://open.spotify.com/track/2uTGX4wxnRGS3i0FSOMGCQ"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Paradise Valley",
         "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 222720,
       "name": "Dear Marie",
       "url": "https://open.spotify.com/track/5Aq5TIy9jVK70aL7xcE9oa"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Natural High",
+        "url": "https://open.spotify.com/album/01xiIydpf1MyOg7DWDRF2N"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 398506,
+      "name": "Three Times A Lady",
+      "url": "https://open.spotify.com/track/2uTGX4wxnRGS3i0FSOMGCQ"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Double Fantasy: Stripped Down",
-        "url": "https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 239933,
-      "name": "Watching The Wheels - Remastered 2010",
-      "url": "https://open.spotify.com/track/4fKhRRYn7F5shZItjJkPJU"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
       },
@@ -2143,6 +2127,22 @@
       "duration_ms": 329800,
       "name": "On Bended Knee",
       "url": "https://open.spotify.com/track/7MYmo0JJJDmu4MZTSAF9y3"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Double Fantasy: Stripped Down",
+        "url": "https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 239933,
+      "name": "Watching The Wheels - Remastered 2010",
+      "url": "https://open.spotify.com/track/4fKhRRYn7F5shZItjJkPJU"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Vital Signs",
-        "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
-      },
-      "artists": [
-        {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
-        }
-      ],
-      "duration_ms": 252613,
-      "name": "The Search Is Over",
-      "url": "https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "One Call Away (Acoustic + Remixes)",
         "url": "https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 189052,
       "name": "One Call Away - Acoustic",
       "url": "https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Vital Signs",
+        "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 252613,
+      "name": "The Search Is Over",
+      "url": "https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "First Impressions",
-        "url": "https://open.spotify.com/album/4TOuZm9IHXWmFDPh8ccp1Z"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "When You Love Someone",
-      "url": "https://open.spotify.com/track/1o6YK7phnXgsljfWSQQfWc"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Endless Flight",
         "url": "https://open.spotify.com/album/1d79WI0e5XKTpBymbKADDQ"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 253226,
       "name": "When I Need You - Remastered",
       "url": "https://open.spotify.com/track/2TcwEYyydQuEMJwdmSgVLD"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "First Impressions",
+        "url": "https://open.spotify.com/album/4TOuZm9IHXWmFDPh8ccp1Z"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "When You Love Someone",
+      "url": "https://open.spotify.com/track/1o6YK7phnXgsljfWSQQfWc"
     },
     {
       "added_at": "2022-08-26 12:00:00",

@@ -4,7 +4,7 @@
 
 > A salute to all of the women opening up the pit\. Cover: NOVELISTS
 
-294 songs - 19 hr 2 min
+295 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Kamikaze](https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Will King](https://open.spotify.com/artist/3g3ei7i91lYAZuV3UWPZgt) | [Bad Decisions](https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB) | 3:12 | 2021-05-15 |  |
 | [Kids with Guns](https://open.spotify.com/track/1epNIM4w2WQJ9aBdBdbIqb) | [Nemesea](https://open.spotify.com/artist/0KV2B2b0q24rEawMkFmQvD) | [Kids with Guns](https://open.spotify.com/album/3xZx4a4AcbVMF3t1H7x88I) | 2:42 | 2020-12-07\* | 2020-12-11 |
 | [kill\[h\]er](https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [kill\[h\]er](https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL) | 2:25 | 2023-02-03 |  |
-| [Last Dance](https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Last Dance](https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt) | 3:31 | 2021-04-10 |  |
+| [Last Dance](https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Last Dance](https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt) | 3:31 | 2021-04-10 | 2023-11-23 |
 | [Last One Standing](https://open.spotify.com/track/0l9zlXpT3inDwP7pRvnIS7) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Last One Standing](https://open.spotify.com/album/09BxkLEcznMDHJ9MWH4FtE) | 3:24 | 2020-12-11 | 2023-02-24 |
 | [Lay All Your Love on Me](https://open.spotify.com/track/2Btn2mmghzndEJVi06z65t) | [Amberian Dawn](https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI) | [Looking for You](https://open.spotify.com/album/2pesVUS0cVRFLtGjiU4sJ9) | 3:53 | 2022-03-11 |  |
 | [Lay All Your Love on Me](https://open.spotify.com/track/7pQkSNKRQgaN9HdlMvf2NP) | [Amberian Dawn](https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI) | [Lay All Your Love on Me](https://open.spotify.com/album/5vNkP3tfQItCM7PLz52ZAm) | 3:53 | 2020-12-07\* | 2022-07-29 |
@@ -216,6 +216,7 @@
 | [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 | 2021-08-24 | 2023-11-22 |
 | [Sanctuary](https://open.spotify.com/track/121A7emtDzvnIiXZWlAP3S) | [Leah](https://open.spotify.com/artist/5JrVokmullzV1zq8M8iP69) | [Sanctuary](https://open.spotify.com/album/4YIWJJcTcA7dyjTNMu1hO2) | 4:44 | 2020-12-07\* | 2022-07-20 |
 | [Save Me](https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Save Me](https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL) | 4:36 | 2020-12-07\* | 2023-01-25 |
+| [Secret Garden](https://open.spotify.com/track/0OzpSEZ5rwwAu1JC2zRAvb) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 3:39 | 2023-09-15 |  |
 | [Secret Garden](https://open.spotify.com/track/2SKbTx3bPi2aPu5GRz59Dz) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Secret Garden](https://open.spotify.com/album/1tWbfY8SUwLBt8g5VuvatE) | 3:39 | 2021-05-29 | 2022-07-29 |
 | [Secret Garden](https://open.spotify.com/track/39sAePHCDbaZlpLow8lRp4) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 3:39 | 2022-03-11 | 2023-11-19 |
 | [See You in Hell](https://open.spotify.com/track/48hnT1MKDCeRiufK6uCToc) | [Ad Infinitum](https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD) | [See You in Hell](https://open.spotify.com/album/20QqdzCbXmdDXgtSerBEgD) | 3:49 | 2020-12-07\* | 2022-07-29 |

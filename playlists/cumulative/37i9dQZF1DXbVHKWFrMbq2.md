@@ -4,7 +4,7 @@
 
 > Canciones chill para ayudarte a bajar.
 
-83 songs - 4 hr 33 min
+84 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Amores Callejeros \- Bolero Remix](https://open.spotify.com/track/4TiuSDziSZ8QClZZYWfOqJ) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [SUPERSTICIONES: Remixes](https://open.spotify.com/album/1ur69lVV9gt3FuGhXD02Sf) | 3:24 | 2023-10-17 | 2023-11-12 |
 | [AWCH \- Acústico](https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH \(Acústico\)](https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf) | 3:16 | 2023-10-17 |  |
 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 | 2023-10-17 |  |
+| [Beso de Luna](https://open.spotify.com/track/722rVjkkGTlugUMxQn3BGz) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Aries](https://open.spotify.com/album/5UDENHnOZGZhPbjsItZaRx) | 3:03 | 2023-11-21 |  |
 | [Carta para no llorar](https://open.spotify.com/track/3PdR3n0YudDEp44YmS9xs2) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Carta para no llorar](https://open.spotify.com/album/46FyZtW1e0JwoR0yERzbNw) | 2:58 | 2023-11-10 |  |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-10-17 |  |
 | [Como vos \- En vivo](https://open.spotify.com/track/2On90QefesETPtJw7LePV2) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ), [Vitali Sessions](https://open.spotify.com/artist/0qygzhCoNDqxeoer3H2M4Y) | [Vitali Sessions \#3 \(En vivo\)](https://open.spotify.com/album/5u2FYSwtiZr6LiDxdRnJO1) | 3:18 | 2023-10-17 |  |
@@ -85,7 +86,7 @@
 | [tus ojos \(feat\. AKRIILA\)](https://open.spotify.com/track/2R2BQLVW5l8eStyuQB4EJh) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [tus ojos \(feat\. AKRIILA\)](https://open.spotify.com/album/6CiyiAWLFRiEQRK6lSSRRh) | 3:09 | 2023-11-14 |  |
 | [Una Lágrima y Un Beso](https://open.spotify.com/track/1WKQltJAgWGgBi038RjysV) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Una Lágrima y Un Beso](https://open.spotify.com/album/5rnUwBTdluUlt8sJIxyRCS) | 3:20 | 2023-10-17 |  |
 | [Una Vez Más](https://open.spotify.com/track/1Pm4oHKLf3IrPYjn8OajCg) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 3:08 | 2023-10-17 |  |
-| [Uno De Esos Días](https://open.spotify.com/track/3knplr6ptMfZ4B1inYhfXP) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Uno De Esos Días](https://open.spotify.com/album/6P4acuRUxR1uWUxB07yBJW) | 2:48 | 2023-10-17 |  |
+| [Uno De Esos Días](https://open.spotify.com/track/3knplr6ptMfZ4B1inYhfXP) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Uno De Esos Días](https://open.spotify.com/album/6P4acuRUxR1uWUxB07yBJW) | 2:48 | 2023-10-17 | 2023-11-23 |
 | [Uno Más Uno](https://open.spotify.com/track/2EI0oMlblptqVqHRo05UdT) | [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Uno Más Uno](https://open.spotify.com/album/4zwAsG8qj3qekA4MUngiov) | 3:09 | 2023-10-17 |  |
 | [Volverte a Ver](https://open.spotify.com/track/4gRcLZTs6GDMmU9182DU5p) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Volverte a Ver](https://open.spotify.com/album/7dnmMht0lILU9q9QjCXHta) | 3:34 | 2023-10-17 |  |
 | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU) | 3:40 | 2023-10-17 |  |

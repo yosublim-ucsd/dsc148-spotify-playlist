@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: EPITONE PROJECT\(YOONA\)\) \(감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요\. \(커버: 에피톤 프로젝트\(윤아\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,722 likes - 52 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,797 likes - 52 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 51 | [Can I Be Me](https://open.spotify.com/track/6EUtGHQUEvqH1LzaitgSXw) | [훈정양](https://open.spotify.com/artist/4dv6MuOGWS4Y6tt7IbTnfp) | [Destined with You \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/14gtejc7d8d85MVpb8mL2E) | 3:26 |
 | 52 | [I want to be a pillow](https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [H\_ello?](https://open.spotify.com/album/6jfjO5f2SuzkXZHlE7pH4B) | 3:43 |
 
-Snapshot ID: `MCwxOGI1MDIyNDFiNzFkY2E0ZGM0YTNlZjQyODVlY2RiNmFjNjEwMjZj`
+Snapshot ID: `MCxiMjAzM2EyZTM4NDIxY2ExM2JjZmI0ZDc4MTU4YTc5ZDI4ODRiMGU3`

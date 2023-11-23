@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: DOLLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,168 likes - 94 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,176 likes - 94 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 33 | [Why](https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Why](https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w) | 3:28 |
 | 34 | [Amigos \(with Becky G\)](https://open.spotify.com/track/60DPrTJRHzpGPSJXLiSdDX) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Amigos \(with Becky G\)](https://open.spotify.com/album/3HtYZEKcsbFqEzKX8xntam) | 2:31 |
 | 35 | [Hmm\-cheat](https://open.spotify.com/track/7hYGWflgiI2aa25jOgL6eg) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [wonderego](https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP) | 3:03 |
-| 36 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
+| 36 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
 | 37 | [Somewhere Somehow](https://open.spotify.com/track/2gsb36kertVaRxppKoEu6c) | [Summerlane](https://open.spotify.com/artist/5qNRmCwvoxDRNP12wW3s0H) | [Hope, Fear & Everything in\-Between](https://open.spotify.com/album/7zAUwBnJtzJwuk1QBR55af) | 3:29 |
 | 38 | [I Do](https://open.spotify.com/track/6sl8thmAsTzYfVw3jJ9z49) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel \(Deluxe\)](https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf) | 2:39 |
 | 39 | [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 |
 | 40 | [Answer Phone](https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Answer Phone](https://open.spotify.com/album/64J78r5rx9qs9ZJZ4xSkBt) | 2:40 |
-| 41 | [Lackin'](https://open.spotify.com/track/7l9LyA8LkmsXpMZ9WZ3ReC) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/4TdIVLLS4os2X4r2p6vTr5) | 2:59 |
+| 41 | [Lackin'](https://open.spotify.com/track/7C6lV2MBF9SsQfNzb6hWUW) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Sweet Nothings \(Chapter 1\)](https://open.spotify.com/album/26osN3pVqjyhGUedWZIueX) | 2:59 |
 | 42 | [White Tee](https://open.spotify.com/track/6zEEdQoOrlQnxHs4LnR5T9) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [White Tee / Long Walk](https://open.spotify.com/album/0aJQ1Jbp8SmMBGy7Bi47OT) | 3:19 |
 | 43 | [If You Died Today](https://open.spotify.com/track/5HvkvFJeLOOEbCfHPatHAh) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Where Am I?](https://open.spotify.com/album/5JoRXCu751qGLUiGB56E8X) | 2:42 |
 | 44 | [Alma Mater](https://open.spotify.com/track/0XJ5H4jtFNrlywhYkhjCcb) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Alma Mater](https://open.spotify.com/album/33ZsoPlzcb0TXIdZQlSqHH) | 3:30 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 93 | [Wherever](https://open.spotify.com/track/3BjJ7VHJrIrXPTmbWLE2oa) | [Arabelle](https://open.spotify.com/artist/7uU11RJKOt74chXI2s6eQf) | [Wherever](https://open.spotify.com/album/45tK8A8YV4q8nUZNMgckKc) | 3:03 |
 | 94 | [sleep with me on my birthday](https://open.spotify.com/track/5kn9bgoRskj3jgcEfsK1zL) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [sleep with me on my birthday](https://open.spotify.com/album/5H3aAu6WbGWDmLgCpx2OEs) | 2:55 |
 
-Snapshot ID: `MCw5MWE5MzcwM2M4ZmJiNmY5N2FkMjc2OTRiZjdlOWNjMTliOWY0NTgz`
+Snapshot ID: `MCw1NDQzMzY1OTdmNTg1NzU1MzY1NWZlZWQ3MmZlMWRhMjkwYWIzMjEw`

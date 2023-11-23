@@ -1,12 +1,12 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Molotov en portada. ",
-  "num_followers": 1010571,
+  "num_followers": 1010690,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWE3MjZkZmM5YTYxZGFjYmM1NmZhZGU2ODI0YzE0Y2NkMTA0MDk3",
+  "snapshot_id": "MCw4OTdlMTNiZGRiNDAyOTA2MTNkNjk0ZGZiOTA3ZmIxMDExNGRjZTU2",
   "tracks": [
     {
       "added_at": "2023-11-17 06:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
-      },
-      "artists": [
-        {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
-        }
-      ],
-      "duration_ms": 177786,
-      "name": "Florecita Rockera",
-      "url": "https://open.spotify.com/track/7dg3Q2HXM5tlaV5B5KXhTr"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "Monarca",
         "url": "https://open.spotify.com/album/2Y2jwkzcM6CszpX1FEghEw"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 283013,
       "name": "Tu Volver\u00e1s",
       "url": "https://open.spotify.com/track/3FD4WGUSXKAkYSXs1FJ5JU"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/5KSmyxLneU9PjuBZQguAnf"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        }
+      ],
+      "duration_ms": 177786,
+      "name": "Florecita Rockera",
+      "url": "https://open.spotify.com/track/7dg3Q2HXM5tlaV5B5KXhTr"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -931,26 +931,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Reluciente, Rechinante y Aterciopelado",
-        "url": "https://open.spotify.com/album/3vy5S1DPa0WFL3bRBmxXpg"
-      },
-      "artists": [
-        {
-          "name": "Aterciopelados",
-          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
-        },
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 291666,
-      "name": "Maligno (feat. Le\u00f3n Larregui)",
-      "url": "https://open.spotify.com/track/4JbaHnHxPaMXQG1NFT1Nem"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "PRISMARAMA",
         "url": "https://open.spotify.com/album/5v6P0bMAwBTwIoe1ENTyst"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 278934,
       "name": "\u00c9l No Lo Mat\u00f3",
       "url": "https://open.spotify.com/track/0HCppMSh838nCgSxskJGzz"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Reluciente, Rechinante y Aterciopelado",
+        "url": "https://open.spotify.com/album/3vy5S1DPa0WFL3bRBmxXpg"
+      },
+      "artists": [
+        {
+          "name": "Aterciopelados",
+          "url": "https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW"
+        },
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 291666,
+      "name": "Maligno (feat. Le\u00f3n Larregui)",
+      "url": "https://open.spotify.com/track/4JbaHnHxPaMXQG1NFT1Nem"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Mun\u0303equita Sinte\u0301tica",
-        "url": "https://open.spotify.com/album/2iPJkJKGh18tLEVvesivr6"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        },
-        {
-          "name": "Rub\u00e9n Albarr\u00e1n",
-          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
-        }
-      ],
-      "duration_ms": 283488,
-      "name": "Mun\u0303equita Sinte\u0301tica",
-      "url": "https://open.spotify.com/track/0SztZWdbPLXk7EcvQJ6MLt"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "Fuera Del Cielo",
         "url": "https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 174880,
       "name": "Cada Vez Que Me Voy",
       "url": "https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Mun\u0303equita Sinte\u0301tica",
+        "url": "https://open.spotify.com/album/2iPJkJKGh18tLEVvesivr6"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+        }
+      ],
+      "duration_ms": 283488,
+      "name": "Mun\u0303equita Sinte\u0301tica",
+      "url": "https://open.spotify.com/track/0SztZWdbPLXk7EcvQJ6MLt"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Hojas de t\u00e9 (2023)",
-        "url": "https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe"
-      },
-      "artists": [
-        {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
-        }
-      ],
-      "duration_ms": 209610,
-      "name": "Hojas de t\u00e9 - 2023",
-      "url": "https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "El \u00c1tico",
         "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 242813,
       "name": "El \u00c1tico",
       "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Hojas de t\u00e9 (2023)",
+        "url": "https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "duration_ms": 209610,
+      "name": "Hojas de t\u00e9 - 2023",
+      "url": "https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1523,38 +1523,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Nezayork",
-        "url": "https://open.spotify.com/album/3L7rldwdTRAT5qydAQJXJR"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 154005,
-      "name": "Nezayork",
-      "url": "https://open.spotify.com/track/1AoIZbgzOfGJ9wiBPm3UHC"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Las Clases de Cha Cha Ska Medley: El Cuchillo, Mi Parte Viva, La Cerveza y El Dolor, El Ni\u00f1o Objeto, Espergesia, Mi Tamagochi, Peter Punk",
-        "url": "https://open.spotify.com/album/2yTicDu0XFg8HUATcCQa3U"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 734790,
-      "name": "Las Clases de Cha Cha Ska Medley: El Cuchillo, Mi Parte Viva, La Cerveza y El Dolor, El Ni\u00f1o Objeto, Espergesia, Mi Tamagochi, Peter Punk",
-      "url": "https://open.spotify.com/track/1vw07M44PHHu3ziRY5Wn4t"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "ADN (Cap\u00edtulo N)",
         "url": "https://open.spotify.com/album/5dsGcOBv9D6MNQWEBkFbxX"
       },
@@ -1575,6 +1543,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "Las Clases de Cha Cha Ska Medley: El Cuchillo, Mi Parte Viva, La Cerveza y El Dolor, El Ni\u00f1o Objeto, Espergesia, Mi Tamagochi, Peter Punk",
+        "url": "https://open.spotify.com/album/2yTicDu0XFg8HUATcCQa3U"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 734790,
+      "name": "Las Clases de Cha Cha Ska Medley: El Cuchillo, Mi Parte Viva, La Cerveza y El Dolor, El Ni\u00f1o Objeto, Espergesia, Mi Tamagochi, Peter Punk",
+      "url": "https://open.spotify.com/track/1vw07M44PHHu3ziRY5Wn4t"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "Un Segundo MTV Unplugged",
         "url": "https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "V\u00edctimas",
-        "url": "https://open.spotify.com/album/4J21DOgMP48X3i1Bct05ON"
+        "name": "Nezayork",
+        "url": "https://open.spotify.com/album/3L7rldwdTRAT5qydAQJXJR"
       },
       "artists": [
         {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 238809,
-      "name": "V\u00edctimas",
-      "url": "https://open.spotify.com/track/4FeOc23B21fz3Z1pLnnKo6"
+      "duration_ms": 154005,
+      "name": "Nezayork",
+      "url": "https://open.spotify.com/track/1AoIZbgzOfGJ9wiBPm3UHC"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1623,6 +1607,22 @@
       "duration_ms": 219000,
       "name": "Yo Tomo",
       "url": "https://open.spotify.com/track/7EFXiU4su2Wrbw395sExAX"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "V\u00edctimas",
+        "url": "https://open.spotify.com/album/4J21DOgMP48X3i1Bct05ON"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 238809,
+      "name": "V\u00edctimas",
+      "url": "https://open.spotify.com/track/4FeOc23B21fz3Z1pLnnKo6"
     },
     {
       "added_at": "2023-11-17 06:00:00",

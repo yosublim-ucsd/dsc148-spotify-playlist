@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: Kim Petras
 
-731 songs - 1 day 12 hr 53 min
+733 songs - 1 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Abracadabra](https://open.spotify.com/track/6afv05TNOInabonuY1OkbU) | [Qveen Herby](https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT) | [Halloqveen](https://open.spotify.com/album/3g3P8dofBdBkEioDroTO2H) | 2:26 | 2022-02-15 | 2022-06-25 |
 | [AFFECTION](https://open.spotify.com/track/2i3IDtDlmYuDebOiY1QPG1) | [Chrissy Chlapecka](https://open.spotify.com/artist/7L5no8Dp7Y2Gk0L1JIWj9S) | [AFFECTION](https://open.spotify.com/album/0u0nt4E7qmeI8GhtO6sGGm) | 2:42 | 2023-10-27 |  |
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-08-24 | 2022-12-24 |
+| [Against The Wall](https://open.spotify.com/track/31KsPoBWtNNUWvBreMsLZG) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE), [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt) | [Against The Wall](https://open.spotify.com/album/2xO8ur8yma45D2drHsPPR4) | 3:25 | 2023-11-22 |  |
 | [Ain't Seen Nothing Yet](https://open.spotify.com/track/1eBBnwbleqZvZjfCAbRlkn) | [Krysta Youngs](https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf) | [Ain't Seen Nothing Yet](https://open.spotify.com/album/3LcVbnZA14ci52Oc7yzyQH) | 2:26 | 2022-05-20 | 2022-07-09 |
 | [ALERGICA](https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [ALERGICA](https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l) | 3:05 | 2023-01-27 | 2023-04-09 |
 | [Alice](https://open.spotify.com/track/41A89rj3GoMG6ktN37L7PG) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:57 | 2022-07-18 | 2022-08-13 |
@@ -41,7 +42,7 @@
 | [AMERICA HAS A PROBLEM](https://open.spotify.com/track/2XMAWynSTIst5KmLSv0Npf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:18 | 2023-03-10 | 2023-04-01 |
 | [Amour, Haine & Danger](https://open.spotify.com/track/0AwExghm7adTvBm2N8fiuX) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Amour, Haine & Danger](https://open.spotify.com/album/6XXGJ69eGc1pjZCWcPuKm3) | 3:18 | 2022-09-30 | 2022-12-03 |
 | [Ancient Dreams in a Modern Land](https://open.spotify.com/track/2Do0VnlZgtjaVnKU5T4zC0) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Ancient Dreams In A Modern Land \(Deluxe Edition\)](https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d) | 3:26 | 2022-02-15 | 2023-09-02 |
-| [Angels In The Snow](https://open.spotify.com/track/5LJ9zB2g4qftILTNZeeDgA) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 2:52 | 2023-10-20 |  |
+| [Angels In The Snow](https://open.spotify.com/track/5LJ9zB2g4qftILTNZeeDgA) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 2:52 | 2023-10-20 | 2023-11-23 |
 | [Animal](https://open.spotify.com/track/3WdijbYmphZ8N0MYblXDnF) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:01 | 2022-07-15 | 2023-05-20 |
 | [Another Broken Heart](https://open.spotify.com/track/7MGEno7KAP4QgcBMGZzusR) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/3b1SWPjpkf4jEDtnNQdfu4) | 2:47 | 2022-09-02 | 2023-03-04 |
 | [Another Stranger](https://open.spotify.com/track/03ApTIkz4BbUuIY7grHTEr) | [Hedda Mae](https://open.spotify.com/artist/7zd05tehJ8h4VEpwxdo4g4) | [Another Stranger](https://open.spotify.com/album/5bnsd00W441t5LStFk95ov) | 2:58 | 2022-06-10 | 2022-07-16 |
@@ -214,7 +215,7 @@
 | [Explosive](https://open.spotify.com/track/2eAekdkZ8Dbtkv1dmXWQWT) | [CuteBad](https://open.spotify.com/artist/09FEhj90tAtYK9WDdWfgeP) | [Explosive](https://open.spotify.com/album/3HDeUdqtFGF5NIkLZP4KWl) | 3:22 | 2022-07-01 | 2022-08-13 |
 | [Extra Agenda](https://open.spotify.com/track/6VdxXCKrjYafM3qAbtwMSA) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Extra Agenda](https://open.spotify.com/album/6P4LnWcuO5p08cetdZtPaX) | 3:40 | 2022-03-25 | 2022-05-07 |
 | [F U Goodbye](https://open.spotify.com/track/205wK88loGkvq5Me6h3XZg) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [F U Goodbye](https://open.spotify.com/album/1qN1cdmp9anpdy8fohdvLo) | 2:46 | 2023-03-03 | 2023-06-03 |
-| [f0rbiidden l0ve$tory](https://open.spotify.com/track/4LIKefM5MAyRNuMg0fZkCo) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [f0rbiidden l0ve$tory](https://open.spotify.com/album/34neOqBrIAoc7zw2qZN2JE) | 2:06 | 2023-10-27 |  |
+| [f0rbiidden l0ve$tory](https://open.spotify.com/track/4LIKefM5MAyRNuMg0fZkCo) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [f0rbiidden l0ve$tory](https://open.spotify.com/album/34neOqBrIAoc7zw2qZN2JE) | 2:06 | 2023-10-27 | 2023-11-23 |
 | [Fading Like A Flower](https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Fading Like A Flower](https://open.spotify.com/album/5wFmirRzEpKhkN1zQR73tT) | 2:25 | 2022-04-22 | 2022-06-04 |
 | [Fantasy Girl](https://open.spotify.com/track/202C4Jw7Ww8RryU62w8GOq) | [Revenge Wife](https://open.spotify.com/artist/25ze27QLJJPQewxTzQjKlT) | [Fantasy Girl](https://open.spotify.com/album/4AIOpQIz2coSkRGqdGC6z1) | 4:08 | 2023-05-19 | 2023-08-19 |
 | [Fashion](https://open.spotify.com/track/2Pm4Sxl4S1iJK38YnFGAFC) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Fashion](https://open.spotify.com/album/7bW2kZXTYEGUrVvDl1xdlY) | 3:03 | 2023-05-23 | 2023-07-01 |
@@ -272,6 +273,7 @@
 | [Good Time](https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Good Time](https://open.spotify.com/album/3qte9ec3e2N3SNIQk8qLzy) | 2:41 | 2022-03-18 | 2022-08-13 |
 | [Good Time](https://open.spotify.com/track/6DrIPRR1T24XUqmsW64cUF) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Good Time](https://open.spotify.com/album/2MMXRYeLPtmnPNPAYc8C4o) | 3:10 | 2022-08-19 | 2023-01-14 |
 | [Good Time \- Bright Light Bright Light Remix](https://open.spotify.com/track/4YAmOTejshVDYM2kaVJzmK) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0), [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [THEIR VERSIONS](https://open.spotify.com/album/6j6E8QjZqtdM4ts263uEB6) | 4:59 | 2023-01-13 | 2023-01-28 |
+| [Goodnight Sleep Tight](https://open.spotify.com/track/1QbOzVxzYsqDIgFZLRSWOA) | [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Goodnight Sleep Tight](https://open.spotify.com/album/3e2fWiIiH5VfNy7vAYiAMp) | 2:29 | 2023-11-22 |  |
 | [Got Me Started](https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Got Me Started](https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26) | 3:18 | 2023-09-22 | 2023-10-14 |
 | [Grapefruit](https://open.spotify.com/track/35seOt4wMvu7gWzYFwqNGh) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Grapefruit](https://open.spotify.com/album/2LndkOOunBNk2DKJ7ajq6X) | 3:51 | 2022-10-14 | 2023-02-11 |
 | [Grim Reaper](https://open.spotify.com/track/1TWC0DUf4xXC2QqpBovlws) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Grim Reaper](https://open.spotify.com/album/0lCbxop4nU0dSKUdZ0rQ5Y) | 2:50 | 2023-10-20 |  |

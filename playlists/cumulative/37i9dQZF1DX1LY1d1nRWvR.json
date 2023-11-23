@@ -498,7 +498,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 221813,
       "name": "Isbj\u00f8rn",
       "url": "https://open.spotify.com/track/4aXOm1VINrpS06azxb7DaW"
@@ -716,6 +716,24 @@
       "duration_ms": 371861,
       "name": "Mogeri",
       "url": "https://open.spotify.com/track/6Iq7a7HZ6eFpsAVW6Qfohp"
+    },
+    {
+      "album": {
+        "name": "Highlife World Series: Cuba",
+        "url": "https://open.spotify.com/album/4Q85JHfw0WgT1MFlEqoSZ0"
+      },
+      "artists": [
+        {
+          "name": "Auntie Flo",
+          "url": "https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356313,
+      "name": "Mother Theresa",
+      "url": "https://open.spotify.com/track/6kfZ34Gl892WmuGxiLeD3a"
     },
     {
       "album": {

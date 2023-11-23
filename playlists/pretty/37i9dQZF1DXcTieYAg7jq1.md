@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Sarah Kang
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,420 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,461 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 74 | [Wtsdg \(with Alessia Cara\)](https://open.spotify.com/track/45Dhc9gFBVFwaxSgzBd7Lo) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [WTSDG \(with Alessia Cara\)](https://open.spotify.com/album/1H3Bkc4nd4MD8hxToqVqjW) | 4:04 |
 | 75 | [The Day](https://open.spotify.com/track/0ke9U2e1M4VU4R6fRBfhcw) | [Sille Trolle](https://open.spotify.com/artist/5RkAoyWwIt8ljO3cTSa4FV) | [The Day](https://open.spotify.com/album/3KnShXEl47Ok7ASlslmFcs) | 2:39 |
 | 76 | [When You Lose Someone \(Acoustic\)](https://open.spotify.com/track/6eqWfdpYkmPZYX9iW5PRBZ) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [When You Lose Someone \(Acoustic\)](https://open.spotify.com/album/3eNCYLraD0G0mIHSeD5f6I) | 3:11 |
-| 77 | [Higher](https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Higher](https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l) | 2:39 |
+| 77 | [Higher](https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Higher](https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l) | 2:39 |
 | 78 | [OUT OF CONTEXT](https://open.spotify.com/track/3jLaggXofmoijL25AdphVG) | [Devon](https://open.spotify.com/artist/2CXVeT982HeechgvKI3f2v) | [SOMEWHERE IN NOWHERELAND](https://open.spotify.com/album/25KP5rdvSlUzdZixsNBVva) | 2:42 |
 | 79 | [Everybody](https://open.spotify.com/track/01YZSZi4jNs7QjEXn6eM6Y) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [Everybody](https://open.spotify.com/album/5lMHqkGXjoC0pKVUV8IKzQ) | 3:17 |
 | 80 | [Breaking Myself](https://open.spotify.com/track/7jDlsRzKo3tsMsTEjL1Ns2) | [Grace Kinstler](https://open.spotify.com/artist/1tsgfgGTbYHKRfV3GGua3u) | [Breaking Myself](https://open.spotify.com/album/2cpfzE4YqxiesLIQaFqMzt) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Pain](https://open.spotify.com/track/37u0I5Q44POEFCLhFREtGJ) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Pain](https://open.spotify.com/album/2pPhFt9U1vjGoQgPVN9v9I) | 3:35 |
 | 100 | [Turn the Radio Up \(feat\. Jewel\)](https://open.spotify.com/track/1nNfkK3cfckAyTmNRk1b60) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Turn the Radio Up](https://open.spotify.com/album/4Ok4zpUyKd6vCaqa5D5vTJ) | 3:19 |
 
-Snapshot ID: `MCwyZGIzOWJhMjZhZGIyYjhmMGI4MTU3ZmQ2YTFkYjExNmNiOWQ1ODU2`
+Snapshot ID: `MCxhNzU3OTI1ZTE1ZWVlZDBmMDMxYTY4YzVlMzBlNjAzNWVmOGQxNWMx`

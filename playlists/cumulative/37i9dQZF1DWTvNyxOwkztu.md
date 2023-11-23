@@ -4,14 +4,14 @@
 
 > Just lean back and enjoy relaxed beats.
 
-297 songs - 16 hr 27 min
+298 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1984](https://open.spotify.com/track/0BhUDBjyi50j1kDfJLsyys) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [1984](https://open.spotify.com/album/5ZFdhp6funk02EyD2Whp0b) | 2:37 | 2021-12-09 | 2022-04-21 |
 | [1984](https://open.spotify.com/track/0scTJd9W6i8CJFJ1dtPzw7) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [1984](https://open.spotify.com/album/03FYIY7GnjIE0F3qvAaszJ) | 2:37 | 2022-06-02 | 2023-04-15 |
 | [9 PM](https://open.spotify.com/track/0R6iI9Z9Zj0h6BvHO4o2P9) | [COLIN](https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH) | [9 PM](https://open.spotify.com/album/1yAbvqzI8QNGsSP7KxtP0F) | 2:00 | 2021-12-09 |  |
-| [A Glitch](https://open.spotify.com/track/2aIkJY5Fqg5F5r09nk47GG) | [Miller Ford](https://open.spotify.com/artist/6CsVE4PENAADboY4Pzq5Xy) | [A Glitch](https://open.spotify.com/album/3m5DMoORrvBiIaBDzDjDrv) | 3:18 | 2022-03-11 |  |
+| [A Glitch](https://open.spotify.com/track/2aIkJY5Fqg5F5r09nk47GG) | [Miller Ford](https://open.spotify.com/artist/6CsVE4PENAADboY4Pzq5Xy) | [A Glitch](https://open.spotify.com/album/3m5DMoORrvBiIaBDzDjDrv) | 3:18 | 2022-03-11 | 2023-11-23 |
 | [Adore](https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT) | [Apsa](https://open.spotify.com/artist/6DDiYDtHywDhJPGHDCSKzm) | [Adore](https://open.spotify.com/album/6FTW4vthpJX9HeB97mtvh4) | 2:02 | 2021-12-09 | 2023-01-29 |
 | [Adventurous](https://open.spotify.com/track/1Fqwyw77YAzrBVSaJp9kFm) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Adventurous](https://open.spotify.com/album/4HEaT0EG4q2UpZvkyVPm6W) | 2:59 | 2021-12-09 | 2023-01-14 |
 | [Africa to the World](https://open.spotify.com/track/2SVPNYPAozCGQP4C7uhTqq) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Africa to the World](https://open.spotify.com/album/5DHuZXoJiWYFbtqxRYDPH2) | 2:26 | 2021-12-09 | 2022-07-29 |
@@ -24,7 +24,7 @@
 | [All Roads Lead Here \(Edit\)](https://open.spotify.com/track/5dABuTnt3wSDc014DCASDW) | [Mark Bassano](https://open.spotify.com/artist/7khhkGwYL2XLuNTOwnkV5u) | [All Roads Lead Here \(Edit\)](https://open.spotify.com/album/08NukPbbuxAupnoNEeRyQ7) | 2:41 | 2021-12-09 |  |
 | [Almost a Lover](https://open.spotify.com/track/2Kz5VfjMtgbvEOfUc0RU2F) | [NLSN](https://open.spotify.com/artist/7vO5wbzI9RdVYlOGFL2ofk), [scanta rose](https://open.spotify.com/artist/4CkbkeeBv3D8E6p5o1aJiW) | [Almost a Lover](https://open.spotify.com/album/2gBLkKPbdDCgMKue6MfEuD) | 2:01 | 2021-12-09 |  |
 | [Apart & Beyond](https://open.spotify.com/track/1FODiQJw75rxHyV2LZ8xIr) | [Partika](https://open.spotify.com/artist/3kKhFe1UhACeP31S9i1ZvS) | [Apart & Beyond](https://open.spotify.com/album/19vpRsrsBJp47KdMT8crx4) | 5:36 | 2021-12-09 | 2022-04-20 |
-| [Aquarium](https://open.spotify.com/track/3kAlWNK9bo5pEMwKvpgzNE) | [Kharfi](https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC) | [AQUARIUM](https://open.spotify.com/album/4FtyDXorsIluXMZxpEAR4I) | 3:07 | 2022-03-25 |  |
+| [Aquarium](https://open.spotify.com/track/3kAlWNK9bo5pEMwKvpgzNE) | [Kharfi](https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC) | [AQUARIUM](https://open.spotify.com/album/4FtyDXorsIluXMZxpEAR4I) | 3:07 | 2022-03-25 | 2023-11-23 |
 | [Are You](https://open.spotify.com/track/5SfQmmOQp5Id17CnInfHp8) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU) | [Are You](https://open.spotify.com/album/0bxVHE0OnDNiTnw7O2VdKQ) | 3:34 | 2022-02-26 | 2023-05-27 |
 | [As Long As You Love Me](https://open.spotify.com/track/75nLmZ3IjorDYevGhuhahs) | [Lilly Bay](https://open.spotify.com/artist/638CAHfkNvK7AEpXSqWB31) | [As Long As You Love Me](https://open.spotify.com/album/6rhRsutNATQlnIarYSAC8m) | 2:38 | 2023-01-13 |  |
 | [Babylon](https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh) | [Lak Host](https://open.spotify.com/artist/6rsmOmkstPMAPmXCKJhgam) | [Babylon](https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf) | 3:28 | 2021-12-09 |  |
@@ -198,6 +198,7 @@
 | [Ours \- Hermanez Remix](https://open.spotify.com/track/7e93cN9QsW1gJZWRXvkEsa) | [LØC](https://open.spotify.com/artist/4BdGq2d0jIMo3egZnE61sD), [Hermanez](https://open.spotify.com/artist/4JPGyWMMmaxIRcS4zItdHJ) | [Ours](https://open.spotify.com/album/7IrwbWvazSqPcLSnW3XoYC) | 7:39 | 2021-12-09 | 2022-07-29 |
 | [Over You](https://open.spotify.com/track/5ITjUucH19eHJvfh7iUIhw) | [Sunmoon](https://open.spotify.com/artist/5AUNYfOEjduhpVTnozqYxv), [wavecrvsh](https://open.spotify.com/artist/5egmvcmVXBPzk6y3A9Tqrm), [Johanson](https://open.spotify.com/artist/5oNwxILfJ5rJhMaFdwB9tN) | [Over You](https://open.spotify.com/album/4LqGhps0CA546STC9A5Neq) | 2:38 | 2023-10-13 |  |
 | [Palm Beach](https://open.spotify.com/track/6nR1DVH1bd69bmDlrjDNvf) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Palm Beach](https://open.spotify.com/album/2E678lyyte3DaqRa14PkUD) | 3:37 | 2021-12-09 | 2022-07-26 |
+| [Peaceful Tides](https://open.spotify.com/track/1mS1U0JsLAqj1ACpvqrOig) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci), [Bye Ocean](https://open.spotify.com/artist/6ZAvjmUvQe54XRoWoUA05x) | [Peaceful Tides](https://open.spotify.com/album/5ysY0aa6qyuUjrAAp1Hrul) | 3:00 | 2023-11-14 |  |
 | [Peaceful Tides](https://open.spotify.com/track/77hpS2mcbPfsRddmnLjls2) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci), [Bye Ocean](https://open.spotify.com/artist/6ZAvjmUvQe54XRoWoUA05x) | [Peaceful Tides](https://open.spotify.com/album/5O5mpaPfpj53GIG4pCD34O) | 3:00 | 2023-06-30 | 2023-10-08 |
 | [Portimao](https://open.spotify.com/track/5ABEwAmOIvGgTWQtBvmGHQ) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [Portimao](https://open.spotify.com/album/4xERM1hwtquFCNTuw4e1zE) | 3:26 | 2021-12-09 | 2022-05-18 |
 | [Push](https://open.spotify.com/track/1i5lXpzjo8qBAVRvEoBl7Z) | [Grennels](https://open.spotify.com/artist/0qbTETuJCrGSTL7EKVWIH5) | [Push](https://open.spotify.com/album/3qjxhwOM5CJJ83VVlwe2cv) | 5:35 | 2021-12-09 | 2022-05-21 |
@@ -248,7 +249,7 @@
 | [Stranded Thoughts](https://open.spotify.com/track/4VValXSltZWVCMLOkZbOYr) | [Saive](https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ) | [Stranded Thoughts](https://open.spotify.com/album/79rMJY41n8OmQERClNA7Wk) | 3:55 | 2023-09-13 | 2023-11-02 |
 | [Sueño Lúcido](https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Sueño Lúcido](https://open.spotify.com/album/1wHV1TO3GZcKhZGVVaKVPD) | 4:05 | 2021-12-09 | 2023-11-16 |
 | [Summer Vibe](https://open.spotify.com/track/1s7MlV77vmjAHqzVq60Vfd) | [Tomas Skyldeberg](https://open.spotify.com/artist/3yeLWKlxZaq5grWz85s0Ef) | [Everything Shines](https://open.spotify.com/album/3eXCBTg64X3AuakWQGuQ7Y) | 2:59 | 2021-12-09 | 2022-02-27 |
-| [Sun Road](https://open.spotify.com/track/25R1QCYHhETbO5552Hxl4W) | [Alinno](https://open.spotify.com/artist/43Sajp33BHbRnUaDUrWQn7) | [Sun Road](https://open.spotify.com/album/4zt4I3llbETJPs7EOoJAJa) | 3:14 | 2021-12-09 | 2023-11-21 |
+| [Sun Road](https://open.spotify.com/track/25R1QCYHhETbO5552Hxl4W) | [Alinno](https://open.spotify.com/artist/43Sajp33BHbRnUaDUrWQn7) | [Sun Road](https://open.spotify.com/album/4zt4I3llbETJPs7EOoJAJa) | 3:14 | 2021-12-09 |  |
 | [Sundown](https://open.spotify.com/track/07GHJiyxs9nbOUXuo33DEp) | [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl) | [Sundown](https://open.spotify.com/album/56WWOnVnKXVIPOww1TGvk0) | 2:29 | 2022-06-02 | 2023-09-14 |
 | [Sundown](https://open.spotify.com/track/5XIUgxFkVbv2ckJiLUbGlb) | [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl) | [Sundown](https://open.spotify.com/album/2AJg6YLd8FMwIyQbClExND) | 2:29 | 2021-12-09 | 2022-07-29 |
 | [Sunny Cruisin](https://open.spotify.com/track/4A0ubBA1RJokIlivz7vEyo) | [Marcos Berretini](https://open.spotify.com/artist/5JmI54Dii7SFTo2b5VGJDl) | [Sunny Cruisin](https://open.spotify.com/album/7pAD2HJ6Q0SDx7HNwBcgRw) | 2:40 | 2021-12-09 | 2022-08-02 |

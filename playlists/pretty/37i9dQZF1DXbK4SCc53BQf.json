@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 91751,
+  "num_followers": 91793,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzFiNWIxYTliNWEwMWY3MTk3YjI2N2U5YjM3YjkwNmFlOGU2NDE5",
+  "snapshot_id": "MCxkMzUyMTljMzc2MTA0MWI4MDFmMjU1NGYxYzE1ZDAzNWIwMTQ4NzBj",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -275,26 +275,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Por Amor",
-        "url": "https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy"
-      },
-      "artists": [
-        {
-          "name": "Mikey A",
-          "url": "https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks"
-        },
-        {
-          "name": "Andrea Dominguez",
-          "url": "https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O"
-        }
-      ],
-      "duration_ms": 219692,
-      "name": "Tu Eres (feat. Andrea Dominguez)",
-      "url": "https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/0SwG9W9WTQNhAJV8z4LYNU"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 261147,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/6GvSHhIxdWaQJbiQyzdOCy"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Por Amor",
+        "url": "https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy"
+      },
+      "artists": [
+        {
+          "name": "Mikey A",
+          "url": "https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks"
+        },
+        {
+          "name": "Andrea Dominguez",
+          "url": "https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O"
+        }
+      ],
+      "duration_ms": 219692,
+      "name": "Tu Eres (feat. Andrea Dominguez)",
+      "url": "https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -579,22 +579,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Lo Mejor De Mi, Para El",
-        "url": "https://open.spotify.com/album/1e1CABBw5I7ZK8vUPcl3JG"
-      },
-      "artists": [
-        {
-          "name": "Puchi Colon",
-          "url": "https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi"
-        }
-      ],
-      "duration_ms": 316640,
-      "name": "Renuevame",
-      "url": "https://open.spotify.com/track/5y8KU2x7B5DEpxP66I1Ghz"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/0qSI9KwRdzu1euqI19poAi"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 203187,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/2YhJlGNniJbAMbNUWf6iiE"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Lo Mejor De Mi, Para El",
+        "url": "https://open.spotify.com/album/1e1CABBw5I7ZK8vUPcl3JG"
+      },
+      "artists": [
+        {
+          "name": "Puchi Colon",
+          "url": "https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi"
+        }
+      ],
+      "duration_ms": 316640,
+      "name": "Renuevame",
+      "url": "https://open.spotify.com/track/5y8KU2x7B5DEpxP66I1Ghz"
     },
     {
       "added_at": "2020-11-24 13:23:55",

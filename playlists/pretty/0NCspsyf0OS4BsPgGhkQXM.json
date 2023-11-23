@@ -1,12 +1,12 @@
 {
   "description": "The Official Trap Nation Playlist ",
-  "num_followers": 2048710,
+  "num_followers": 2048942,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTQyNDIsY2Y4ZDM5Mjk3OTQ4ZGY0YjE1MzdjMTRlMGM5ODkzMWMyMTI4ZWQ0OQ==",
+  "snapshot_id": "MTQyNDQsZjM5NTkyZTIwZWFkZjNlZTkyOWQ1ZTVkMDNkMjg1NGVkODA0OTc4Mg==",
   "tracks": [
     {
       "added_at": "2023-09-06 04:03:55",
@@ -2243,6 +2243,30 @@
       "duration_ms": 166120,
       "name": "Feel the Fire - MEMBA Remix",
       "url": "https://open.spotify.com/track/1PzNqhDtJYHVBMOI9Xmx2c"
+    },
+    {
+      "added_at": "2023-11-22 21:12:02",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/59RfSXQK7bjCJHziKEwC1K"
+      },
+      "artists": [
+        {
+          "name": "Soular",
+          "url": "https://open.spotify.com/artist/1bBITBo8ppdefWZYR6eRYC"
+        },
+        {
+          "name": "Ila",
+          "url": "https://open.spotify.com/artist/1GbpislQVgNCZHK7KKnftY"
+        },
+        {
+          "name": "Lenny",
+          "url": "https://open.spotify.com/artist/3ZYWQmZsfFj8OhSHFQEwVU"
+        }
+      ],
+      "duration_ms": 143375,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/0N8FAdEsKhLVqr1T8DgC7M"
     },
     {
       "added_at": "2023-10-06 16:07:08",

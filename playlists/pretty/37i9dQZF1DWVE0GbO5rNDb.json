@@ -1,12 +1,12 @@
 {
   "description": "Hit dance per l'estate 2023, anche in autunno \ud83d\udc40",
-  "num_followers": 102705,
+  "num_followers": 102726,
   "original_name": "Estate Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmIzMzBmMTllYWJmNDg0MDkyOTAxZTMzMDYzZGJlOTU5ODcwNzBi",
+  "snapshot_id": "MCwxMmRhYzVmNjBiMzE3ZjMwZjU1NzRhNGQzZGZiODI0YTc5NmZhMjZh",
   "tracks": [
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1959,26 +1959,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/6KV17NyVQwm5PJOVwAVlyV"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/29p6UW08MXzwj9thWBW3uF"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Ritmo (HUGEL Edit)",
         "url": "https://open.spotify.com/album/2c20yP2mNChmFgk4axzacT"
       },
@@ -1995,6 +1975,26 @@
       "duration_ms": 165483,
       "name": "Ritmo - HUGEL Edit",
       "url": "https://open.spotify.com/track/17lDd5hXfSr86GTUq2k7Wh"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/6KV17NyVQwm5PJOVwAVlyV"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 171840,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/29p6UW08MXzwj9thWBW3uF"
     },
     {
       "added_at": "2023-11-10 00:01:00",

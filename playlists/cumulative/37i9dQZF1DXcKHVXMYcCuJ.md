@@ -4,7 +4,7 @@
 
 > Gotta catch 'em all.
 
-370 songs - 23 hr 11 min
+371 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [9 Volter](https://open.spotify.com/track/4K2Yn301eqRDarK6qpImmt) | [Colour Of Fire](https://open.spotify.com/artist/5ej8t8W7sivheDVZ9RtrAN) | [Pearl Necklace](https://open.spotify.com/album/5Yr4hHvdsDJ7lUjDT0QfMf) | 2:47 | 2022-01-28 | 2022-07-28 |
 | [A Modern Way of Letting Go](https://open.spotify.com/track/1fplcK4BIi4k5hzp2DJ0kt) | [Idlewild](https://open.spotify.com/artist/1xdB9gS1NrKEYgZUEfoqIw) | [The Remote Part](https://open.spotify.com/album/7zsB506W3ZKxNpjy8iIf8q) | 2:23 | 2021-12-15 |  |
 | [Abuse Me](https://open.spotify.com/track/6lgsxp4M1RmnkivCqp6kPa) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:59 | 2023-02-27 |  |
-| [Afterthought](https://open.spotify.com/track/2rXsixFU3OcaBDl2tqEZj9) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Dear Seattle](https://open.spotify.com/album/34Ir94UYwf78pBgdEtk6AL) | 4:20 | 2021-12-15 |  |
+| [Afterthought](https://open.spotify.com/track/2rXsixFU3OcaBDl2tqEZj9) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Dear Seattle](https://open.spotify.com/album/34Ir94UYwf78pBgdEtk6AL) | 4:20 | 2021-12-15 | 2023-11-23 |
 | [Airplane](https://open.spotify.com/track/246PWkuEwTNahzwBXyvrsr) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Airplane](https://open.spotify.com/album/7GNLSiqm0a7XIAsbORgOJW) | 3:25 | 2022-04-15 | 2022-07-29 |
 | [Airplane](https://open.spotify.com/track/6RwA2pDXj6jI3BGTSFwIfo) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Airplane](https://open.spotify.com/album/5K2RCdPtAfVdCI7gOssT0R) | 3:25 | 2022-10-11 | 2023-02-15 |
 | [All Roads To Fault](https://open.spotify.com/track/0fFBu7H2PmhCekkSKLt4WM) | [YOURCODENAMEIS:MILO](https://open.spotify.com/artist/4NxevFKr3yFvhjmHzx9LiC) | [All Roads To Fault](https://open.spotify.com/album/5JGrdQ4TMXyliWqV0uabyn) | 2:45 | 2022-02-02 | 2022-07-27 |
@@ -35,6 +35,7 @@
 | [Baby Shea](https://open.spotify.com/track/1rfPkAinCwapsCXV5KTTGq) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [Buds](https://open.spotify.com/album/3aPtrtMapoYJdzVa7Jkc3M) | 1:37 | 2022-06-23 | 2023-04-30 |
 | [Baby Shea](https://open.spotify.com/track/25X6dvLEb2EiZY3U5jciy5) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [Buds](https://open.spotify.com/album/2A7lRd0UYJ9k6sOWhXElSS) | 1:37 | 2023-03-14 |  |
 | [Backroads](https://open.spotify.com/track/33dunxmWFO2n1a2sjD1wGD) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 4:06 | 2022-11-02 |  |
+| [Be Your Man](https://open.spotify.com/track/0VcZrEWCLqMbicQhx7FayF) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Holy Doom \(Deluxe\)](https://open.spotify.com/album/1YLVdRzCDpTvzpvbwEgxEt) | 3:35 | 2023-11-16 |  |
 | [Be Your Man](https://open.spotify.com/track/5ja7epgM2zgrQ0CnL5Fc52) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Holy Doom](https://open.spotify.com/album/1mdsGFvnN2Ok832ehemqgX) | 3:35 | 2022-01-28 | 2022-07-29 |
 | [Be Your Man](https://open.spotify.com/track/4OE8lJeG82iSDhHo3reh1N) | [Demob Happy](https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI) | [Be Your Man](https://open.spotify.com/album/7vuZMf0cXrAKVVXAz6Gaq1) | 3:37 | 2022-06-23 | 2023-09-15 |
 | [Been Training Dogs](https://open.spotify.com/track/0WZrOyH0XiP94LigN6U3mS) | [The Cooper Temple Clause](https://open.spotify.com/artist/0DEgoO9OsoL2jW9Orh3TNT) | [See This Through And Leave](https://open.spotify.com/album/3PFi7kQUpcXhib2ifH0dlk) | 3:13 | 2021-12-15 | 2022-07-29 |

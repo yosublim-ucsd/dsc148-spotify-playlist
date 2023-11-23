@@ -623,6 +623,24 @@
     },
     {
       "album": {
+        "name": "Carta de Amor",
+        "url": "https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176807,
+      "name": "Carta de Amor",
+      "url": "https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada"
+    },
+    {
+      "album": {
         "name": "Cerca",
         "url": "https://open.spotify.com/album/7H9c1oaTs6DRLoRM1SR3it"
       },
@@ -1036,7 +1054,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 250977,
       "name": "Dos Amantes",
       "url": "https://open.spotify.com/track/66lOJXZVLAIBFogLrXM4Z6"

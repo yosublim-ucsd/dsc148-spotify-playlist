@@ -1,12 +1,12 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Sunny War",
-  "num_followers": 281087,
+  "num_followers": 281124,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTRjMWVmMDljMmE2MWIxZWVkNmEyNWRiNmYzYjVmNjExMWNkZTA5",
+  "snapshot_id": "MCwxMzkyOWY3NTNkNjUzOTMxYjNjNmQ2Y2JmYjY1NmIwY2ZlMzQ3YTJh",
   "tracks": [
     {
       "added_at": "2023-08-04 04:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Outside Child",
-        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 295546,
-      "name": "Nightflyer",
-      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Puxico",
         "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 179306,
       "name": "Cairo, IL",
       "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Outside Child",
+        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 295546,
+      "name": "Nightflyer",
+      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Other Voices, Other Rooms",
-        "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
-      },
-      "artists": [
-        {
-          "name": "Nanci Griffith",
-          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
-        }
-      ],
-      "duration_ms": 260440,
-      "name": "Speed of the Sound of Loneliness",
-      "url": "https://open.spotify.com/track/4wESSHqChrl4kwWmZ6otXc"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Ana\u00efs Mitchell",
         "url": "https://open.spotify.com/album/2XVyQw7WE4hAozLKcUTuHD"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 190586,
       "name": "Bright Star",
       "url": "https://open.spotify.com/track/582t08OyJrrpS35HyWSruM"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Other Voices, Other Rooms",
+        "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
+      },
+      "artists": [
+        {
+          "name": "Nanci Griffith",
+          "url": "https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0"
+        }
+      ],
+      "duration_ms": 260440,
+      "name": "Speed of the Sound of Loneliness",
+      "url": "https://open.spotify.com/track/4wESSHqChrl4kwWmZ6otXc"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Time (The Revelator)",
-        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Everything Is Free",
-      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Expectations",
         "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 312613,
       "name": "Out Of The Blue",
       "url": "https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Time (The Revelator)",
+        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Everything Is Free",
+      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Cusp",
-        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
-      },
-      "artists": [
-        {
-          "name": "Alela Diane",
-          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "\u00c9migr\u00e9",
-      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Ani DiFranco",
         "url": "https://open.spotify.com/album/0831E4Cmgg52SYn6TEuw3K"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 176360,
       "name": "House Of The Rising Sun",
       "url": "https://open.spotify.com/track/3AuVZyDw1VhjjLfHZR4ba3"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Cusp",
+        "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
+      },
+      "artists": [
+        {
+          "name": "Alela Diane",
+          "url": "https://open.spotify.com/artist/2QIHd0B2VIKlmLyoq4lUr7"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "\u00c9migr\u00e9",
+      "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Motel Bouquet",
-        "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 184787,
-      "name": "Motel",
-      "url": "https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "At Swim",
         "url": "https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 179826,
       "name": "Fall",
       "url": "https://open.spotify.com/track/6C7oqaJSqSG84MScfmW310"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Motel Bouquet",
+        "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "duration_ms": 184787,
+      "name": "Motel",
+      "url": "https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
-      },
-      "artists": [
-        {
-          "name": "Mirel Wagner",
-          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
-        }
-      ],
-      "duration_ms": 180077,
-      "name": "Oak Tree",
-      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "In the Magic Hour",
         "url": "https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 197466,
       "name": "Porch Light",
       "url": "https://open.spotify.com/track/1w9WCqGYdaEUMPs7BAvemm"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
+      },
+      "artists": [
+        {
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+        }
+      ],
+      "duration_ms": 180077,
+      "name": "Oak Tree",
+      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Freedom Highway",
-        "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        }
-      ],
-      "duration_ms": 256560,
-      "name": "At the Purchaser's Option",
-      "url": "https://open.spotify.com/track/5RmAtT0VaKttU0Eybo6ZWA"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Front Porch",
         "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 209173,
       "name": "Canary",
       "url": "https://open.spotify.com/track/0CTwMHxWBYOcuA2K02qcOf"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Freedom Highway",
+        "url": "https://open.spotify.com/album/1CVuPxNHwY5ORJ8MhjD0UB"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "duration_ms": 256560,
+      "name": "At the Purchaser's Option",
+      "url": "https://open.spotify.com/track/5RmAtT0VaKttU0Eybo6ZWA"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -1855,30 +1855,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Be Careful",
-        "url": "https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        },
-        {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 342272,
-      "name": "Be Careful",
-      "url": "https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "I Will Not Be Afraid",
         "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
       },
@@ -1907,6 +1883,30 @@
       "duration_ms": 214173,
       "name": "RHODODENDRON",
       "url": "https://open.spotify.com/track/3Ugq8kEET6KgKBmZ3ttCNl"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Be Careful",
+        "url": "https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        },
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 342272,
+      "name": "Be Careful",
+      "url": "https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2215,18 +2215,18 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Time And Love: The Essential Masters",
-        "url": "https://open.spotify.com/album/5XRavq9AfzLqovq2HpQBDP"
+        "name": "Ignorance",
+        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
       },
       "artists": [
         {
-          "name": "Laura Nyro",
-          "url": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
         }
       ],
-      "duration_ms": 227000,
-      "name": "Stoned Soul Picnic",
-      "url": "https://open.spotify.com/track/2oV3mzorzJTZa3gmp8vAJl"
+      "duration_ms": 246611,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/7LOrMKPfsaAhekoVOAFcEq"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2247,6 +2247,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Time And Love: The Essential Masters",
+        "url": "https://open.spotify.com/album/5XRavq9AfzLqovq2HpQBDP"
+      },
+      "artists": [
+        {
+          "name": "Laura Nyro",
+          "url": "https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Stoned Soul Picnic",
+      "url": "https://open.spotify.com/track/2oV3mzorzJTZa3gmp8vAJl"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Do You See The Light Around Me?",
         "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
       },
@@ -2259,22 +2275,6 @@
       "duration_ms": 204034,
       "name": "Do You See The Light Around Me?",
       "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
-        "name": "Ignorance",
-        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 246611,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/7LOrMKPfsaAhekoVOAFcEq"
     },
     {
       "added_at": "2023-08-04 04:00:00",
@@ -2363,6 +2363,22 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
+        "name": "Second Nature",
+        "url": "https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 247320,
+      "name": "White Lies",
+      "url": "https://open.spotify.com/track/6jMEXMw4i0LZ1ZwU7Bw0lW"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
         "name": "Same History, New Feelings",
         "url": "https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9"
       },
@@ -2383,22 +2399,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Second Nature",
-        "url": "https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 247320,
-      "name": "White Lies",
-      "url": "https://open.spotify.com/track/6jMEXMw4i0LZ1ZwU7Bw0lW"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Sorry Now",
         "url": "https://open.spotify.com/album/72kgT7HDOlYmJmmIxUwy7k"
       },
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2023-08-04 04:00:00",
       "album": {
-        "name": "Fruit",
-        "url": "https://open.spotify.com/album/2ypGAXfloqIuWWhyxhWQFJ"
-      },
-      "artists": [
-        {
-          "name": "The A's",
-          "url": "https://open.spotify.com/artist/0lL30FdUoEkbzNtJSrXM9p"
-        }
-      ],
-      "duration_ms": 249173,
-      "name": "Swing and Turn Jubilee",
-      "url": "https://open.spotify.com/track/0wg0CxkcfjRkq3BMwE4m9D"
-    },
-    {
-      "added_at": "2023-08-04 04:00:00",
-      "album": {
         "name": "Violet Light",
         "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 173077,
       "name": "How Bad I Wanna Live",
       "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
+    },
+    {
+      "added_at": "2023-08-04 04:00:00",
+      "album": {
+        "name": "Fruit",
+        "url": "https://open.spotify.com/album/2ypGAXfloqIuWWhyxhWQFJ"
+      },
+      "artists": [
+        {
+          "name": "The A's",
+          "url": "https://open.spotify.com/artist/0lL30FdUoEkbzNtJSrXM9p"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "Swing and Turn Jubilee",
+      "url": "https://open.spotify.com/track/0wg0CxkcfjRkq3BMwE4m9D"
     },
     {
       "added_at": "2023-08-04 04:00:00",

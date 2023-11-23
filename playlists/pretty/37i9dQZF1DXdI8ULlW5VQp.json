@@ -1,12 +1,12 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Reik y Ha*Ash en portada.",
-  "num_followers": 62238,
+  "num_followers": 62462,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWY5NmE4ZjQzZGZjNTM2NGUwNzk5ZDRjODAyNWNhMTQzMzlmNDU0",
+  "snapshot_id": "MCw5YWI0NTNmZTcwOGY5NTBmYTExNWNhZTEyMmUyOWY5YjEwYTZjZGIw",
   "tracks": [
     {
       "added_at": "2023-09-26 16:29:26",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 262309,
+      "name": "AMOR DE CINE",
+      "url": "https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
         "name": "T\u00fa Me Gustas",
         "url": "https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 206956,
       "name": "T\u00fa Me Gustas",
       "url": "https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
-      },
-      "artists": [
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 262309,
-      "name": "AMOR DE CINE",
-      "url": "https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS"
     },
     {
       "added_at": "2023-09-26 16:29:26",
@@ -323,26 +323,6 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
-        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 185038,
-      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
         "name": "Amigos (con Maria Becerra)",
         "url": "https://open.spotify.com/album/3znR1F0VbgfKsDyTeC0Nt8"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 233755,
       "name": "Amigos (con Maria Becerra)",
       "url": "https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
+        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 185038,
+      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
     },
     {
       "added_at": "2023-09-26 16:29:26",
@@ -511,26 +511,6 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
-        "name": "El Cielo A\u00fan Espera",
-        "url": "https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        },
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 233200,
-      "name": "El Cielo A\u00fan Espera",
-      "url": "https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
         "name": "Cu\u00e1ntas Veces",
         "url": "https://open.spotify.com/album/2nliVdeqWoH2jDShBUdGMj"
       },
@@ -551,18 +531,38 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
-        "name": "Wacha Checa",
-        "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
       },
       "artists": [
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 217693,
-      "name": "Wacha Checa",
-      "url": "https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN"
+      "duration_ms": 322013,
+      "name": "De todas las flores",
+      "url": "https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
+        "name": "El Cielo A\u00fan Espera",
+        "url": "https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "El Cielo A\u00fan Espera",
+      "url": "https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881"
     },
     {
       "added_at": "2023-09-26 16:29:26",
@@ -579,22 +579,6 @@
       "duration_ms": 226481,
       "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
       "url": "https://open.spotify.com/track/6X6wECGLnBIMDsAjgOR5Di"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
-        "name": "Limerencia",
-        "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 226636,
-      "name": "No Te Quiero Perder",
-      "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
     },
     {
       "added_at": "2023-09-26 16:29:26",
@@ -631,6 +615,38 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
+        "name": "Wacha Checa",
+        "url": "https://open.spotify.com/album/72q9OpG5SNz6dZeT6gFVKY"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "Wacha Checa",
+      "url": "https://open.spotify.com/track/6jLWCKkuqRS9zKd0PcdvdN"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
+        "name": "Limerencia",
+        "url": "https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 226636,
+      "name": "No Te Quiero Perder",
+      "url": "https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
         "name": "Contigo Quiero",
         "url": "https://open.spotify.com/album/4XICGSUas3iNGZb7OxZlE5"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 259122,
       "name": "Contigo Quiero",
       "url": "https://open.spotify.com/track/71fHHYGL47wkCw3TQRmU14"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 322013,
-      "name": "De todas las flores",
-      "url": "https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU"
     },
     {
       "added_at": "2023-09-26 16:29:26",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
-        "name": "Diosa",
-        "url": "https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
         "name": "Ahora S\u00e9",
         "url": "https://open.spotify.com/album/7c0oX5ymPQwBlgO9ETKrXx"
       },
@@ -771,6 +755,22 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
+        "name": "Diosa",
+        "url": "https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
         "name": "T\u00fa Me Llevas a Un Espacio",
         "url": "https://open.spotify.com/album/7pSl9SJcRDNSuSaafs5CA8"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
-        "name": "Calle Sin Salida",
-        "url": "https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 170240,
-      "name": "Calle Sin Salida",
-      "url": "https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
         "name": "La Puerta",
         "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
       },
@@ -823,34 +807,18 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
-        "name": "Dime Que S\u00ed",
-        "url": "https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs"
+        "name": "Calle Sin Salida",
+        "url": "https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL"
       },
       "artists": [
         {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 274601,
-      "name": "Dime Que S\u00ed",
-      "url": "https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
-        "name": "Tom's Diner",
-        "url": "https://open.spotify.com/album/2j5kahqVzUv6g4gsWC84oM"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 220365,
-      "name": "Tom's Diner",
-      "url": "https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0"
+      "duration_ms": 170240,
+      "name": "Calle Sin Salida",
+      "url": "https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH"
     },
     {
       "added_at": "2023-09-26 16:29:26",
@@ -875,6 +843,22 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
+        "name": "Tom's Diner",
+        "url": "https://open.spotify.com/album/2j5kahqVzUv6g4gsWC84oM"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 220365,
+      "name": "Tom's Diner",
+      "url": "https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
         "name": "Hola, Me Llamo Mar\u00eda",
         "url": "https://open.spotify.com/album/0hPPueaVFAIrjdMAx1z7P1"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 156000,
       "name": "Hola, Me Llamo Mar\u00eda",
       "url": "https://open.spotify.com/track/2J5AcNu1g9UHgWjDVMok5q"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
+        "name": "Dime Que S\u00ed",
+        "url": "https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 274601,
+      "name": "Dime Que S\u00ed",
+      "url": "https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY"
     },
     {
       "added_at": "2023-09-26 16:29:26",
@@ -999,42 +999,6 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
-        "name": "Nada Para Ti",
-        "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 236255,
-      "name": "Nada Para Ti",
-      "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
-        "name": "Polvo De Gigantes",
-        "url": "https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 153440,
-      "name": "Polvo De Gigantes",
-      "url": "https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
         "name": "Ella Qu\u00e9 Te Dio",
         "url": "https://open.spotify.com/album/2dIJdIf0ALm98VNk6Cy7Pe"
       },
@@ -1055,6 +1019,26 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
+        "name": "Nada Para Ti",
+        "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 236255,
+      "name": "Nada Para Ti",
+      "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
         "name": "La Gata Bajo la Lluvia (Sesi\u00f3n Ac\u00fastica en Vivo)",
         "url": "https://open.spotify.com/album/4mmdaqmKgI4mdCGdim1l7T"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 248896,
       "name": "La Gata Bajo la Lluvia - Sesi\u00f3n Ac\u00fastica en Vivo",
       "url": "https://open.spotify.com/track/7cdVE8GcD1IWxO5dkBJUvq"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
+        "name": "Polvo De Gigantes",
+        "url": "https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 153440,
+      "name": "Polvo De Gigantes",
+      "url": "https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV"
     },
     {
       "added_at": "2023-09-26 16:29:26",
@@ -1111,22 +1111,18 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
-        "name": "Luna y Marea (feat. KURT)",
-        "url": "https://open.spotify.com/album/3lekI28ahWodrOaaRgmmae"
+        "name": "Hola, Buenas Noches",
+        "url": "https://open.spotify.com/album/37UpKSYkiLfgNAINIxl8YK"
       },
       "artists": [
         {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
         }
       ],
-      "duration_ms": 228731,
-      "name": "Luna y Marea (feat. KURT)",
-      "url": "https://open.spotify.com/track/5Z2gkSJIibMCdbE7TWceE6"
+      "duration_ms": 193190,
+      "name": "Hola, Buenas Noches",
+      "url": "https://open.spotify.com/track/7kRRsr7Wdfru5o7wWjJPUb"
     },
     {
       "added_at": "2023-09-26 16:29:26",
@@ -1147,18 +1143,22 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
-        "name": "Hola, Buenas Noches",
-        "url": "https://open.spotify.com/album/37UpKSYkiLfgNAINIxl8YK"
+        "name": "Luna y Marea (feat. KURT)",
+        "url": "https://open.spotify.com/album/3lekI28ahWodrOaaRgmmae"
       },
       "artists": [
         {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 193190,
-      "name": "Hola, Buenas Noches",
-      "url": "https://open.spotify.com/track/7kRRsr7Wdfru5o7wWjJPUb"
+      "duration_ms": 228731,
+      "name": "Luna y Marea (feat. KURT)",
+      "url": "https://open.spotify.com/track/5Z2gkSJIibMCdbE7TWceE6"
     },
     {
       "added_at": "2023-09-26 16:29:26",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
-        "name": "Despeinada",
-        "url": "https://open.spotify.com/album/4oJTRn5A4d4gBEgRmvLS6A"
+        "name": "Nada Te Pido",
+        "url": "https://open.spotify.com/album/4yFAfqltaU7RRFT3U6XcLO"
       },
       "artists": [
         {
-          "name": "Bala",
-          "url": "https://open.spotify.com/artist/1KSyJ6T61RxbnR3ksp5Ehp"
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
         }
       ],
-      "duration_ms": 209167,
-      "name": "Despeinada",
-      "url": "https://open.spotify.com/track/61yj7aoeF4gQvk99auCIWz"
+      "duration_ms": 179459,
+      "name": "Nada Te Pido",
+      "url": "https://open.spotify.com/track/2BgaHOrVH5QD1YRIaZraQo"
     }
   ],
   "unique_name": "Cantamores",

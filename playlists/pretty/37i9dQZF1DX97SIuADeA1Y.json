@@ -1,12 +1,12 @@
 {
   "description": "The bassline keeps you moving.",
-  "num_followers": 326704,
+  "num_followers": 326795,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTE0N2E0MmY4ZmYyYzIwMjI1YmQ5MmVhYTk3MzBhZjI0NGE3ODY0",
+  "snapshot_id": "MCwyNTRmNDU1MjY3NGUzNDQwOTQ5MDYzOGM5ZjYxMGQ3ODM5ZTQxMTVl",
   "tracks": [
     {
       "added_at": "2023-10-27 13:20:33",
@@ -95,6 +95,22 @@
     {
       "added_at": "2023-10-27 13:20:33",
       "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Padam Padam",
+      "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
+    },
+    {
+      "added_at": "2023-10-27 13:20:33",
+      "album": {
         "name": "Get Up Off The Floor",
         "url": "https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 160849,
       "name": "Afterparty",
       "url": "https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK"
-    },
-    {
-      "added_at": "2023-10-27 13:20:33",
-      "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Padam Padam",
-      "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
     },
     {
       "added_at": "2023-10-27 13:20:33",
@@ -363,26 +363,6 @@
     {
       "added_at": "2023-10-27 13:20:33",
       "album": {
-        "name": "Wonderful Life",
-        "url": "https://open.spotify.com/album/2Bx9G3XtMsbZRe5TzyYDZd"
-      },
-      "artists": [
-        {
-          "name": "Remady",
-          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
-        },
-        {
-          "name": "Ane",
-          "url": "https://open.spotify.com/artist/0832DbKyCSpPqX9lkf7aCj"
-        }
-      ],
-      "duration_ms": 160873,
-      "name": "Wonderful Life",
-      "url": "https://open.spotify.com/track/08lo8MO2RVzNRGO6da99RQ"
-    },
-    {
-      "added_at": "2023-10-27 13:20:33",
-      "album": {
         "name": "Off Of My Mind",
         "url": "https://open.spotify.com/album/1CAAuVihGJthVufDRUjsQ5"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 164739,
       "name": "Off Of My Mind",
       "url": "https://open.spotify.com/track/1HHnQYqcnlnE9q7LGFFGFj"
+    },
+    {
+      "added_at": "2023-10-27 13:20:33",
+      "album": {
+        "name": "Wonderful Life",
+        "url": "https://open.spotify.com/album/2Bx9G3XtMsbZRe5TzyYDZd"
+      },
+      "artists": [
+        {
+          "name": "Remady",
+          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
+        },
+        {
+          "name": "Ane",
+          "url": "https://open.spotify.com/artist/0832DbKyCSpPqX9lkf7aCj"
+        }
+      ],
+      "duration_ms": 160873,
+      "name": "Wonderful Life",
+      "url": "https://open.spotify.com/track/08lo8MO2RVzNRGO6da99RQ"
     },
     {
       "added_at": "2023-10-27 13:20:33",
@@ -635,30 +635,6 @@
     {
       "added_at": "2023-10-27 13:20:33",
       "album": {
-        "name": "Queen of Kings",
-        "url": "https://open.spotify.com/album/6bEjekJctuBJt6KNSFQOic"
-      },
-      "artists": [
-        {
-          "name": "VARGENTA",
-          "url": "https://open.spotify.com/artist/4hg56haGFxxnKEt3AkW3fo"
-        },
-        {
-          "name": "MITCH DB",
-          "url": "https://open.spotify.com/artist/6fMSq8NSVe1QWRSTiBCxwL"
-        },
-        {
-          "name": "Maxim Schunk",
-          "url": "https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB"
-        }
-      ],
-      "duration_ms": 151415,
-      "name": "Queen of Kings",
-      "url": "https://open.spotify.com/track/5fjTWNXJij0V6JGgcnC61K"
-    },
-    {
-      "added_at": "2023-10-27 13:20:33",
-      "album": {
         "name": "Raindrops (feat. Jessica Chertock)",
         "url": "https://open.spotify.com/album/0TXJLXPHhsYpHPAK0s3E1S"
       },
@@ -683,22 +659,26 @@
     {
       "added_at": "2023-10-27 13:20:33",
       "album": {
-        "name": "Party All The Time",
-        "url": "https://open.spotify.com/album/3zGETi4jg5TAtkdUogqAxh"
+        "name": "Queen of Kings",
+        "url": "https://open.spotify.com/album/6bEjekJctuBJt6KNSFQOic"
       },
       "artists": [
         {
-          "name": "Braaheim",
-          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+          "name": "VARGENTA",
+          "url": "https://open.spotify.com/artist/4hg56haGFxxnKEt3AkW3fo"
         },
         {
-          "name": "Masove",
-          "url": "https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR"
+          "name": "MITCH DB",
+          "url": "https://open.spotify.com/artist/6fMSq8NSVe1QWRSTiBCxwL"
+        },
+        {
+          "name": "Maxim Schunk",
+          "url": "https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB"
         }
       ],
-      "duration_ms": 134544,
-      "name": "Party All The Time",
-      "url": "https://open.spotify.com/track/1LBlcDruAKflMoNV0Ue0AK"
+      "duration_ms": 151415,
+      "name": "Queen of Kings",
+      "url": "https://open.spotify.com/track/5fjTWNXJij0V6JGgcnC61K"
     },
     {
       "added_at": "2023-10-27 13:20:33",
@@ -719,6 +699,26 @@
       "duration_ms": 145941,
       "name": "Another Level (ft. Lovespeake)",
       "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
+    },
+    {
+      "added_at": "2023-10-27 13:20:33",
+      "album": {
+        "name": "Party All The Time",
+        "url": "https://open.spotify.com/album/3zGETi4jg5TAtkdUogqAxh"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        },
+        {
+          "name": "Masove",
+          "url": "https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR"
+        }
+      ],
+      "duration_ms": 134544,
+      "name": "Party All The Time",
+      "url": "https://open.spotify.com/track/1LBlcDruAKflMoNV0Ue0AK"
     },
     {
       "added_at": "2023-10-27 13:20:33",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-10-27 13:20:33",
       "album": {
+        "name": "She Wolf (Falling to Pieces)",
+        "url": "https://open.spotify.com/album/7A37H04INETElZeLJioWDD"
+      },
+      "artists": [
+        {
+          "name": "YES YES",
+          "url": "https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus"
+        }
+      ],
+      "duration_ms": 171028,
+      "name": "She Wolf (Falling to Pieces)",
+      "url": "https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML"
+    },
+    {
+      "added_at": "2023-10-27 13:20:33",
+      "album": {
         "name": "Outta Love",
         "url": "https://open.spotify.com/album/59FlDwNsfaskGibimitsIm"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 164704,
       "name": "Outta Love",
       "url": "https://open.spotify.com/track/0oLBr0Knuo63yDvnq3f5U3"
-    },
-    {
-      "added_at": "2023-10-27 13:20:33",
-      "album": {
-        "name": "She Wolf (Falling to Pieces)",
-        "url": "https://open.spotify.com/album/7A37H04INETElZeLJioWDD"
-      },
-      "artists": [
-        {
-          "name": "YES YES",
-          "url": "https://open.spotify.com/artist/3jcjf0rNrcWYAdeiz96Yus"
-        }
-      ],
-      "duration_ms": 171028,
-      "name": "She Wolf (Falling to Pieces)",
-      "url": "https://open.spotify.com/track/0hr1uftboYFqgJadb7ecML"
     },
     {
       "added_at": "2023-10-27 13:20:33",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2023-10-27 13:20:33",
       "album": {
-        "name": "Fantasy Girl",
-        "url": "https://open.spotify.com/album/3H1EjhaEw3ZPi2oXpP9mcC"
-      },
-      "artists": [
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
-        },
-        {
-          "name": "Sarah Lahn",
-          "url": "https://open.spotify.com/artist/54mlM6Oc1sqUvyI2RC5sYa"
-        }
-      ],
-      "duration_ms": 195247,
-      "name": "Fantasy Girl",
-      "url": "https://open.spotify.com/track/0x0UAeFDjDrFr9mahXB7ti"
-    },
-    {
-      "added_at": "2023-10-27 13:20:33",
-      "album": {
         "name": "Alone Again (feat. PollyAnna)",
         "url": "https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 157560,
       "name": "Alone Again (feat. PollyAnna)",
       "url": "https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz"
+    },
+    {
+      "added_at": "2023-10-27 13:20:33",
+      "album": {
+        "name": "Fantasy Girl",
+        "url": "https://open.spotify.com/album/3H1EjhaEw3ZPi2oXpP9mcC"
+      },
+      "artists": [
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        },
+        {
+          "name": "Sarah Lahn",
+          "url": "https://open.spotify.com/artist/54mlM6Oc1sqUvyI2RC5sYa"
+        }
+      ],
+      "duration_ms": 195247,
+      "name": "Fantasy Girl",
+      "url": "https://open.spotify.com/track/0x0UAeFDjDrFr9mahXB7ti"
     },
     {
       "added_at": "2023-10-27 13:20:33",

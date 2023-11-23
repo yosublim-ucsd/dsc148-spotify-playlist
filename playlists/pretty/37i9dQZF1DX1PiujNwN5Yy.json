@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para los d\u00edas tristes.",
-  "num_followers": 110395,
+  "num_followers": 110429,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTg0MzE5MGRjYTQyYTg2ZWQwMDg1YjQ4ZTdkYWQ4YjRkMjY4NGNl",
+  "snapshot_id": "MCw5MGM3NDk0MTE0NmViZDk4MWExZDMwNmZhNWZmYmJhZjQzYTAxNjIx",
   "tracks": [
     {
       "added_at": "2023-11-17 05:01:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 223465,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
         "name": "Pendant",
         "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
       },
@@ -779,18 +795,18 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+        "name": "Los D\u00edas en la Sala",
+        "url": "https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45"
       },
       "artists": [
         {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
         }
       ],
-      "duration_ms": 223465,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D"
+      "duration_ms": 163411,
+      "name": "Siempre Te Voy a Querer",
+      "url": "https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -811,22 +827,6 @@
       "duration_ms": 222560,
       "name": "Online ;(",
       "url": "https://open.spotify.com/track/4ZL7RxR7Ce5sXDhaWkAaGa"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
-        "name": "Los D\u00edas en la Sala",
-        "url": "https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 163411,
-      "name": "Siempre Te Voy a Querer",
-      "url": "https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "La Pared",
-        "url": "https://open.spotify.com/album/01IGc70ZlPLU5ot3oG7fUa"
-      },
-      "artists": [
-        {
-          "name": "Cupido",
-          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
-        }
-      ],
-      "duration_ms": 289762,
-      "name": "La Pared",
-      "url": "https://open.spotify.com/track/6k436htnE7M4QXXWOjhTYZ"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
         "name": "guerrera",
         "url": "https://open.spotify.com/album/1QWy1TAhYwAgd5OA7chIEo"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 270093,
       "name": "guerrera",
       "url": "https://open.spotify.com/track/1op8GBKx3U5BrDDvOAKYbO"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "La Pared",
+        "url": "https://open.spotify.com/album/01IGc70ZlPLU5ot3oG7fUa"
+      },
+      "artists": [
+        {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
+        }
+      ],
+      "duration_ms": 289762,
+      "name": "La Pared",
+      "url": "https://open.spotify.com/track/6k436htnE7M4QXXWOjhTYZ"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "chiquita",
-        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "culpa",
-      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
         "name": "Nada de Nada",
         "url": "https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 217500,
       "name": "Nada de Nada",
       "url": "https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "chiquita",
+        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "culpa",
+      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Canciones Tristes",
-        "url": "https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 186266,
-      "name": "Canciones Tristes",
-      "url": "https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
         "name": "\u00bfC\u00f3mo decir adi\u00f3s?",
         "url": "https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T"
       },
@@ -1103,18 +1087,34 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Eres Diamante",
-        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+        "name": "Canciones Tristes",
+        "url": "https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
         }
       ],
-      "duration_ms": 218853,
-      "name": "Nadie Va",
-      "url": "https://open.spotify.com/track/77DSKbAL8JZjoJybl2tcAU"
+      "duration_ms": 186266,
+      "name": "Canciones Tristes",
+      "url": "https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Ciclo",
+        "url": "https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 191041,
+      "name": "Luna Llena",
+      "url": "https://open.spotify.com/track/3SOaZGYymRd6SdQXioeenz"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Ciclo",
-        "url": "https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs"
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
       },
       "artists": [
         {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 191041,
-      "name": "Luna Llena",
-      "url": "https://open.spotify.com/track/3SOaZGYymRd6SdQXioeenz"
+      "duration_ms": 218853,
+      "name": "Nadie Va",
+      "url": "https://open.spotify.com/track/77DSKbAL8JZjoJybl2tcAU"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "el jardinero",
-        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "el jardinero",
-      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
         "name": "D\u00e9jame Dejarte Atr\u00e1s",
         "url": "https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 204775,
       "name": "D\u00e9jame Dejarte Atr\u00e1s",
       "url": "https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "el jardinero",
+        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "el jardinero",
+      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "No Te Voy a Ver",
-        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
-      },
-      "artists": [
-        {
-          "name": "Claire Deli\u0107",
-          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
-        }
-      ],
-      "duration_ms": 217399,
-      "name": "No Te Voy a Ver",
-      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
         "name": "T la Sudo (Demo)",
         "url": "https://open.spotify.com/album/35avDyqo3YuTl3panFpyFz"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 185411,
       "name": "T la Sudo (Demo)",
       "url": "https://open.spotify.com/track/1Vyf9dBD7DzVWobiEbHoKx"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "No Te Voy a Ver",
+        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
+      },
+      "artists": [
+        {
+          "name": "Claire Deli\u0107",
+          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
+        }
+      ],
+      "duration_ms": 217399,
+      "name": "No Te Voy a Ver",
+      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 237518,
-      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
         "name": "yo q se",
         "url": "https://open.spotify.com/album/6nVaPGZVNQZ9yZxSBvOa9k"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 120000,
       "name": "yo q se",
       "url": "https://open.spotify.com/track/5PAh18eBXkV3WV5lPgW5Ww"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Amsterdam (Versi\u00f3n En Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0wAVBk6Y3crq4Oy4g2pB4w"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 237518,
+      "name": "Amsterdam - Versi\u00f3n En Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/3z452TQ2qNiuNtyn4OJSBj"
     },
     {
       "added_at": "2023-11-17 05:01:00",

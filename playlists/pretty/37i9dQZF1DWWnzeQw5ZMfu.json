@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Taylor Swift",
-  "num_followers": 65355,
+  "num_followers": 65418,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTg2MTYxYzcwYzBhZTE2NmJhMTM2OGY1NThiZTE1NzliMmMyYjdh",
+  "snapshot_id": "MCwxM2QxOGI1YzZmZmMwMDdkY2RiMDY0MjQyMTE2OWYxNjczNTg5NWJh",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -234,10 +234,6 @@
         {
           "name": "The Heritage Orchestra",
           "url": "https://open.spotify.com/artist/6r2opkx0McCgqlKKiTxGKx"
-        },
-        {
-          "name": "Anna Lapwood",
-          "url": "https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP"
         }
       ],
       "duration_ms": 422283,
@@ -271,22 +267,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Cassy O' (EP)",
-        "url": "https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 209306,
-      "name": "Budapest - Live from Spotify Stockholm",
-      "url": "https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/5hxH5SSwxf6oObJB1KzS7J"
       },
@@ -303,6 +283,22 @@
       "duration_ms": 207253,
       "name": "Don't Take The Money (feat. Lorde) - MTV Unplugged",
       "url": "https://open.spotify.com/track/25wTebB8ECapFHWRPywpYR"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Cassy O' (EP)",
+        "url": "https://open.spotify.com/album/7maZrVJGD2VVevE5YJX68x"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 209306,
+      "name": "Budapest - Live from Spotify Stockholm",
+      "url": "https://open.spotify.com/track/4HqU80xAozomP0XtgxAu6w"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -919,22 +915,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Progress Live",
-        "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
-      },
-      "artists": [
-        {
-          "name": "Take That",
-          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
-        }
-      ],
-      "duration_ms": 314240,
-      "name": "Back For Good - Progress Tour Live / 2011",
-      "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg"
       },
@@ -951,6 +931,22 @@
       "duration_ms": 486889,
       "name": "Latch - Live From Madison Square Garden",
       "url": "https://open.spotify.com/track/63i2WzJd0BIyyOT2aVLGVO"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Progress Live",
+        "url": "https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR"
+      },
+      "artists": [
+        {
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+        }
+      ],
+      "duration_ms": 314240,
+      "name": "Back For Good - Progress Tour Live / 2011",
+      "url": "https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1003,22 +999,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Live Friday The 13th",
-        "url": "https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 379013,
-      "name": "She Will Be Loved - Live",
-      "url": "https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "The Feeling of Falling Upwards (Live from The Royal Albert Hall)",
         "url": "https://open.spotify.com/album/35LYgkNRuy9zsyyuWBlJwr"
       },
@@ -1031,6 +1011,22 @@
       "duration_ms": 235928,
       "name": "Youngblood (Live from The Royal Albert Hall)",
       "url": "https://open.spotify.com/track/23mTDAlbA5Ux2sGU0kJ28c"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Live Friday The 13th",
+        "url": "https://open.spotify.com/album/07hPT8Ndirhuv2NeurOD6C"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 379013,
+      "name": "She Will Be Loved - Live",
+      "url": "https://open.spotify.com/track/4CbFaTmshnLTEKYS2v3t2L"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1339,18 +1335,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Live 8 (Live, July 2005)",
-        "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
+        "name": "Infinite Disco",
+        "url": "https://open.spotify.com/album/22FbsSjPqf7kxayE4M5ut3"
       },
       "artists": [
         {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 267263,
-      "name": "Feel - Live at Live 8, Hyde Park, London, 2nd July 2005",
-      "url": "https://open.spotify.com/track/2Smji1HNCbqpFFMtrrzPHN"
+      "duration_ms": 193026,
+      "name": "Slow / Love to Love You Baby (From the Infinite Disco Livestream)",
+      "url": "https://open.spotify.com/track/0AocMj1DZuKPXGVrCICNNu"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1367,6 +1363,22 @@
       "duration_ms": 285466,
       "name": "The Power Of Love - Live \u00e0 Paris",
       "url": "https://open.spotify.com/track/2nJKHm0UEvnXIxUWSOq26L"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Live 8 (Live, July 2005)",
+        "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 267263,
+      "name": "Feel - Live at Live 8, Hyde Park, London, 2nd July 2005",
+      "url": "https://open.spotify.com/track/2Smji1HNCbqpFFMtrrzPHN"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1415,22 +1427,6 @@
       "duration_ms": 278026,
       "name": "Always Be My Baby - Live at the Tokyo Dome",
       "url": "https://open.spotify.com/track/58QgGWqvercpslOCOlxyEr"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Infinite Disco",
-        "url": "https://open.spotify.com/album/22FbsSjPqf7kxayE4M5ut3"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 193026,
-      "name": "Slow / Love to Love You Baby (From the Infinite Disco Livestream)",
-      "url": "https://open.spotify.com/track/0AocMj1DZuKPXGVrCICNNu"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1507,6 +1503,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Whitney Houston Live: Her Greatest Performances",
+        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 226226,
+      "name": "My Love Is Your Love - Live from Late Show with David Letterman",
+      "url": "https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Live 8 (Live, July 2005)",
         "url": "https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H"
       },
@@ -1551,22 +1563,6 @@
       "duration_ms": 342586,
       "name": "Take On Me - Live",
       "url": "https://open.spotify.com/track/6q8XHT9eax6UnNnqFTi7W5"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Whitney Houston Live: Her Greatest Performances",
-        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 226226,
-      "name": "My Love Is Your Love - Live from Late Show with David Letterman",
-      "url": "https://open.spotify.com/track/1Tmn4RzLBoZRryh3NJPlLd"
     },
     {
       "added_at": "2023-11-03 04:00:00",

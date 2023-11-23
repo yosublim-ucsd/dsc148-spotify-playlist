@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda MS de Sergio Liz\u00e1rraga y Gloria Trevi en portada.",
-  "num_followers": 1142094,
+  "num_followers": 1142255,
   "original_name": "Banda 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2U3NjY1OTQ2ZjNkMWQ3ODdiNTY3MDYxOGE5NzhkOWY1NDg0YTMy",
+  "snapshot_id": "MCwyOTU5ZmQ4NTdkOWFkYzc1MWNlNGNmMzhjYTVmODE4Nzk3YTlhMmUw",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -355,22 +355,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Solitario (En Vivo)",
-        "url": "https://open.spotify.com/album/0D3idmPk07CksmgrVaEiKi"
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
       },
       "artists": [
         {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 208966,
-      "name": "Solitario - En Vivo",
-      "url": "https://open.spotify.com/track/20obamXOznVCGTRUL4ZX6q"
+      "duration_ms": 217600,
+      "name": "La Casita",
+      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -391,18 +387,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+        "name": "Solitario (En Vivo)",
+        "url": "https://open.spotify.com/album/0D3idmPk07CksmgrVaEiKi"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 217600,
-      "name": "La Casita",
-      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
+      "duration_ms": 208966,
+      "name": "Solitario - En Vivo",
+      "url": "https://open.spotify.com/track/20obamXOznVCGTRUL4ZX6q"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Gente Corriente",
-        "url": "https://open.spotify.com/album/6pzjO8qClKr8iQ5eDqNZ84"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 133480,
-      "name": "Gente Corriente",
-      "url": "https://open.spotify.com/track/4IwuZ9TArWPahGjIdTqyJw"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "12 Rifles",
         "url": "https://open.spotify.com/album/1KqUq2OTqTIlxAdXhz0Ypn"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 173500,
       "name": "12 Rifles",
       "url": "https://open.spotify.com/track/6bKPmj3k2zoTzoEOiFnmM0"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Gente Corriente",
+        "url": "https://open.spotify.com/album/6pzjO8qClKr8iQ5eDqNZ84"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 133480,
+      "name": "Gente Corriente",
+      "url": "https://open.spotify.com/track/4IwuZ9TArWPahGjIdTqyJw"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Aqui Ando En El Caloron (En Vivo)",
+        "url": "https://open.spotify.com/album/58YRNZZq0vxANqr6g0DBjn"
+      },
+      "artists": [
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+        },
+        {
+          "name": "Grupo Descarga Del 3030",
+          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
+        }
+      ],
+      "duration_ms": 232820,
+      "name": "Aqui Ando En El Caloron - En Vivo",
+      "url": "https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "1500 Pedas",
         "url": "https://open.spotify.com/album/5EMqj06njQIBN3brtsh81P"
       },
@@ -1335,26 +1355,6 @@
       "duration_ms": 182080,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/5oqySFPNtOq6jYlQf5ItWE"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Aqui Ando En El Caloron (En Vivo)",
-        "url": "https://open.spotify.com/album/58YRNZZq0vxANqr6g0DBjn"
-      },
-      "artists": [
-        {
-          "name": "La Septima Banda",
-          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
-        },
-        {
-          "name": "Grupo Descarga Del 3030",
-          "url": "https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL"
-        }
-      ],
-      "duration_ms": 232820,
-      "name": "Aqui Ando En El Caloron - En Vivo",
-      "url": "https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "M En El Radar",
+        "url": "https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 140546,
+      "name": "M En El Radar",
+      "url": "https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Es Amor",
         "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
       },
@@ -1419,6 +1439,22 @@
       "duration_ms": 164933,
       "name": "Es Amor",
       "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Porque Soy Abeja Reina",
+        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 158146,
+      "name": "PORQUE SOY ABEJA REINA",
+      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1443,42 +1479,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Porque Soy Abeja Reina",
-        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 158146,
-      "name": "PORQUE SOY ABEJA REINA",
-      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "M En El Radar",
-        "url": "https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 140546,
-      "name": "M En El Radar",
-      "url": "https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "M\u00e1ndame Otra Vez A La Chingada",
         "url": "https://open.spotify.com/album/370vnYfsorNlT6jEV2ul1X"
       },
@@ -1491,6 +1491,22 @@
       "duration_ms": 214775,
       "name": "M\u00e1ndame Otra Vez A La Chingada",
       "url": "https://open.spotify.com/track/5Xd5yjl9UdzLQxclBT6pMf"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Que Te Trague La Tierra",
+        "url": "https://open.spotify.com/album/0K58rVn5sbwOxIvEBECmIv"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 188266,
+      "name": "Que Te Trague La Tierra",
+      "url": "https://open.spotify.com/track/1NW4Mnhvl5NX7yxEgylV1x"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1511,18 +1527,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "De Memoria Me Las S\u00e9",
-        "url": "https://open.spotify.com/album/7oMVwl3lOSJC0KEnvliwzl"
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
       },
       "artists": [
         {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 163320,
-      "name": "De Memoria Me Las S\u00e9",
-      "url": "https://open.spotify.com/track/4EcwphS4DVi9Zjuyzp9Zxr"
+      "duration_ms": 245183,
+      "name": "Due\u00f1o De Ti - En vivo",
+      "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1539,22 +1555,6 @@
       "duration_ms": 140063,
       "name": "No Es Cierto Que Nunca Te Quise",
       "url": "https://open.spotify.com/track/7zA3aIGMcvxEtW45H12w0E"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Las Preferidas, Vol. 5 (En vivo)",
-        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 245183,
-      "name": "Due\u00f1o De Ti - En vivo",
-      "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Que Te Trague La Tierra",
-        "url": "https://open.spotify.com/album/0K58rVn5sbwOxIvEBECmIv"
+        "name": "De Memoria Me Las S\u00e9",
+        "url": "https://open.spotify.com/album/7oMVwl3lOSJC0KEnvliwzl"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 188266,
-      "name": "Que Te Trague La Tierra",
-      "url": "https://open.spotify.com/track/1NW4Mnhvl5NX7yxEgylV1x"
+      "duration_ms": 163320,
+      "name": "De Memoria Me Las S\u00e9",
+      "url": "https://open.spotify.com/track/4EcwphS4DVi9Zjuyzp9Zxr"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1823,46 +1823,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Se Me Hizo Vicio",
-        "url": "https://open.spotify.com/album/0q9YBFD8bUPkQewdsKcTVW"
-      },
-      "artists": [
-        {
-          "name": "Israel Valdez",
-          "url": "https://open.spotify.com/artist/6ku8V32RMBkP9rURvRjHCi"
-        },
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 165898,
-      "name": "Se Me Hizo Vicio",
-      "url": "https://open.spotify.com/track/5xBFETjSNKNMfeMI5G2ceS"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Otra Botella",
-        "url": "https://open.spotify.com/album/6Nr8ddIjhdjliv3Db8foiD"
-      },
-      "artists": [
-        {
-          "name": "Zexta Alianza",
-          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
-        },
-        {
-          "name": "La Decima Banda",
-          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
-        }
-      ],
-      "duration_ms": 217402,
-      "name": "Otra Botella",
-      "url": "https://open.spotify.com/track/3X1sFqUe5J6Wqrn99jL6R7"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Aplaca Tus Berrinches",
         "url": "https://open.spotify.com/album/7pb7D979yuDEsK1g5tWgKj"
       },
@@ -1895,6 +1855,46 @@
       "duration_ms": 147725,
       "name": "Como un Diamante",
       "url": "https://open.spotify.com/track/31H3yoObeK8WjkbJxoVgvq"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Otra Botella",
+        "url": "https://open.spotify.com/album/6Nr8ddIjhdjliv3Db8foiD"
+      },
+      "artists": [
+        {
+          "name": "Zexta Alianza",
+          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
+        },
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+        }
+      ],
+      "duration_ms": 217402,
+      "name": "Otra Botella",
+      "url": "https://open.spotify.com/track/3X1sFqUe5J6Wqrn99jL6R7"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Se Me Hizo Vicio",
+        "url": "https://open.spotify.com/album/0q9YBFD8bUPkQewdsKcTVW"
+      },
+      "artists": [
+        {
+          "name": "Israel Valdez",
+          "url": "https://open.spotify.com/artist/6ku8V32RMBkP9rURvRjHCi"
+        },
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 165898,
+      "name": "Se Me Hizo Vicio",
+      "url": "https://open.spotify.com/track/5xBFETjSNKNMfeMI5G2ceS"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -2159,6 +2159,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "A La Inversa",
+        "url": "https://open.spotify.com/album/4iWRJOClu9BdSjuea9K3o8"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "A La Inversa",
+      "url": "https://open.spotify.com/track/3ZfCRzL47DhOYyFfDThd9j"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "La Ultima M",
         "url": "https://open.spotify.com/album/5ouXM6FaBR9vMf6ZLK3fZr"
       },
@@ -2175,22 +2191,6 @@
       "duration_ms": 193929,
       "name": "La Ultima M",
       "url": "https://open.spotify.com/track/0RMu8AlxI3YUSuDYld8HxY"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "A La Inversa",
-        "url": "https://open.spotify.com/album/4iWRJOClu9BdSjuea9K3o8"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "A La Inversa",
-      "url": "https://open.spotify.com/track/3ZfCRzL47DhOYyFfDThd9j"
     }
   ],
   "unique_name": "Banda 2023",

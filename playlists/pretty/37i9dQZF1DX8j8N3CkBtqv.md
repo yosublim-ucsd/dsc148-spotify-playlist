@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Kayan, Yashraj
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,164 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,184 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Rut](https://open.spotify.com/track/5uh7keTPmUsignN5Ic4xz3) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Rut](https://open.spotify.com/album/63IaAvAME2z5eLC8qKkIhs) | 3:26 |
 | 50 | [Naya](https://open.spotify.com/track/4rk28ykwn5z7XGvKeh3QD8) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq), [Sameer Rahat](https://open.spotify.com/artist/0GjCAhxXdNW2Cje8YIHxp0), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N) | [Naya](https://open.spotify.com/album/5rsV2w5lZzUjKQD9KZZ6WY) | 3:38 |
 
-Snapshot ID: `MCw0NTA2MzA2YzgzNWUwYzdiMzcwMDMyZTg2YjQ0NDdjMDcyYTY1MTUz`
+Snapshot ID: `MCxjNDFiNjM4NmQ3ZDE5NmM1YWM1MThmNGU5YzAzNDM5OTNkNjI0ZjJi`

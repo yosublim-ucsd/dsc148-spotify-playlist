@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Sfera Ebbasta
 
-[Spotify](https://open.spotify.com/user/spotify) - 905,104 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 905,566 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [DOV'ERI? \(feat\. Baby Gang\)](https://open.spotify.com/track/1ayxvCxpk0oFaL8lbx88on) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [DOV'ERI? \(feat\. Baby Gang\)](https://open.spotify.com/album/1pITHFIU30Kt38axjWvvwY) | 3:01 |
 | 50 | [Vegeta \(feat\. Néza\)](https://open.spotify.com/track/73TYUZ7vZ6hFP0p5NXin0g) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Vegeta \(feat\. Néza\)](https://open.spotify.com/album/0kqfgJpLsbN2pysxJoNIfg) | 2:28 |
 
-Snapshot ID: `MCw0OWI1ZDc1MTBlMzIyODYyM2Q1YTFiMGU4NmYyZjNjZjc4ZmYzZTZk`
+Snapshot ID: `MCxjOTA3NzMyZWEzNjE3YzNkZmNiNDM5ZGI1ZmEzNDU2MDkyOThlMTk2`

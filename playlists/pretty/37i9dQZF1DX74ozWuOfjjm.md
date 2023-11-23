@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of Au & NZ at full volume! Cover: The Veronicas
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,453 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,461 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 18 | [Mangos](https://open.spotify.com/track/2ckFO1sBiKvLQpuiB9jDaC) | [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b) | [Mangos](https://open.spotify.com/album/2vFtPglhOz8e8qh7WlyYqs) | 3:10 |
 | 19 | [Glow](https://open.spotify.com/track/5MckA3kQHCdxK8ds3spKz7) | [YURA](https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6) | [Eternal Tiare](https://open.spotify.com/album/0XtfBpk9aU5If0XXfM8tIv) | 2:33 |
 | 20 | [Can't Afford Therapy](https://open.spotify.com/track/6Mek4TbQaDrS2jqe0KBhWy) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Can't Afford Therapy](https://open.spotify.com/album/3ZHMK3HK4L9j5pmYZ7eBHH) | 4:09 |
-| 21 | [Ghost](https://open.spotify.com/track/3zZInrkeo7dj4D2Wu5lvnn) | [Ricki\-Lee](https://open.spotify.com/artist/07lgEPGfoA4Lqos6YGYPDU) | [Ghost](https://open.spotify.com/album/7F2SSNO9UHdED1tJQcfUAZ) | 3:05 |
+| 21 | [Ghost](https://open.spotify.com/track/3zZInrkeo7dj4D2Wu5lvnn) | [Ricki\-Lee](https://open.spotify.com/artist/07lgEPGfoA4Lqos6YGYPDU) | [Ghost](https://open.spotify.com/album/7F2SSNO9UHdED1tJQcfUAZ) | 3:07 |
 | 22 | [The Nightmare](https://open.spotify.com/track/1LelsCLOrLroUkAyIeBCvH) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [The Nightmare](https://open.spotify.com/album/77RPzaih1NxrPvXrDDZV83) | 3:04 |
 | 23 | [Wait](https://open.spotify.com/track/6u4DSrgxLXATEgwZSaaQHI) | [Heleina Zara](https://open.spotify.com/artist/4o5FaQ8rUj73klMevMPTEF) | [Wait](https://open.spotify.com/album/5I0MDswOJzuRHkLy98b30O) | 3:11 |
 | 24 | [Baby Don't Fight It](https://open.spotify.com/track/6KgVaUmyv6CFjb9ZjXVQkV) | [Asha Jefferies](https://open.spotify.com/artist/4XUmpHj581ooyS5rJuCBJg) | [Baby Don't Fight It](https://open.spotify.com/album/5sgqCZRIWkjKAvo8qiZvkd) | 3:47 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 89 | [Heartbreak Baby](https://open.spotify.com/track/6EfhY8vZYt027wQkz6dTaS) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Positive Spin](https://open.spotify.com/album/0JgrsEfBVs4xoD6O5YVaQR) | 3:37 |
 | 90 | [Honey](https://open.spotify.com/track/0dCEJOvkHsIJMeLseG4LpK) | [Jack River](https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS) | [Endless Summer](https://open.spotify.com/album/2jN32X41GKugOYRTrJmMj2) | 2:58 |
 | 91 | [On the Rocks](https://open.spotify.com/track/68qevxiwR8ypuZz05Pes9h) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Crowd Pleaser](https://open.spotify.com/album/60vWUnWhnEsAyJfcEp8C1u) | 2:50 |
-| 92 | [Baby Mama](https://open.spotify.com/track/273vdzfgPWUOKEzgcZb0tt) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO) | [Baby Mama](https://open.spotify.com/album/0pT6T1yjiHVl9JG41Br9n0) | 3:34 |
+| 92 | [Baby Mama](https://open.spotify.com/track/6Tw2kvzyRYMQLq0kNhX83w) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO) | [Baby Mama](https://open.spotify.com/album/7cDGoweZdUcioBZTTWbAOs) | 3:34 |
 | 93 | [On The Way Down](https://open.spotify.com/track/4AL5dpsq6yJ7J57Ki9TFrt) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [The Answer Is Always Yes](https://open.spotify.com/album/2GsledOrcsMKdanswVrWDp) | 3:35 |
 | 94 | [jupiter and mars](https://open.spotify.com/track/3FVuolqDK7QnP53YYyMc8d) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [Jupiter and Mars](https://open.spotify.com/album/0Hkx5bkDbfHjR2h8QTNDZh) | 4:07 |
 | 95 | [Things Aren't Nice In Paradise](https://open.spotify.com/track/06FNbzPuASPqeV4UUa5ILt) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Things Aren't Nice In Paradise](https://open.spotify.com/album/5aPE4YbHgJ3C5n6TCz6Yhz) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 99 | [Spring to Life](https://open.spotify.com/track/0GzPoR4Q0ik9kfPk01mfdd) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5) | [Spring to Life](https://open.spotify.com/album/0qG6DPGDmFKM36zz5KAg1E) | 2:38 |
 | 100 | [Cheating on Myself](https://open.spotify.com/track/4pR70cMgLgsH2Y4WjWhbIH) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Cheating on Myself](https://open.spotify.com/album/2BBJcoBveE93eqIOXLt7qc) | 2:53 |
 
-Snapshot ID: `MCw3Njc5OTM4ODEzZjdjNzI2MzdlYjk0MGU2YTJlYzBiYzFhYjBlZmE0`
+Snapshot ID: `MCxhZjljMTliZDg3Y2RmMzlhYWVkYTMzNTBmM2Y3M2VlYWU1ZTgxYzhl`

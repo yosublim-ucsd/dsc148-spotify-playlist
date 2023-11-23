@@ -1726,10 +1726,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 156759,
       "name": "Dentes Amarelos",
       "url": "https://open.spotify.com/track/2HZ01B2TGIBQTlff9Vk7th"
+    },
+    {
+      "album": {
+        "name": "Dentes Amarelos",
+        "url": "https://open.spotify.com/album/7MtCGjHayofUeaOKu7TGu4"
+      },
+      "artists": [
+        {
+          "name": "Dead Fish",
+          "url": "https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156759,
+      "name": "Dentes Amarelos",
+      "url": "https://open.spotify.com/track/4MKFLktfOFYZT8e7GRjavw"
     },
     {
       "album": {

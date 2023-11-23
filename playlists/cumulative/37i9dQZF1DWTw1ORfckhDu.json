@@ -753,6 +753,24 @@
     },
     {
       "album": {
+        "name": "Jumalanmiehii II",
+        "url": "https://open.spotify.com/album/1X9aFx4o8VF9A1ZKhLgl7q"
+      },
+      "artists": [
+        {
+          "name": "Immanuel",
+          "url": "https://open.spotify.com/artist/57KAL3JM9mmp29xb8dUvpr"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140346,
+      "name": "G.O.A.T.",
+      "url": "https://open.spotify.com/track/5XEb9nRdMy9sXxkM583JIx"
+    },
+    {
+      "album": {
         "name": "CHECKTAPE",
         "url": "https://open.spotify.com/album/4JBZJ0IXsl5iEaBF1Y3kNN"
       },

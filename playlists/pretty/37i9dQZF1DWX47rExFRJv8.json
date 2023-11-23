@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2018. Cover: Bad Bunny",
-  "num_followers": 73508,
+  "num_followers": 73549,
   "original_name": "Latin Hits 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGRhNDA4MThiMzNjZmUxOGE1NDRjYmRjYzhiMmY5NmE0NTQ3ZDFm",
+  "snapshot_id": "MCxkOTUyZDFmNTE0N2Q3NmRmMzM5NzYzYTFmNzE1MzYwNzZkNTljMDYy",
   "tracks": [
     {
       "added_at": "2021-12-16 01:11:32",
@@ -791,6 +791,22 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
+        "name": "Adan y Eva",
+        "url": "https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 258638,
+      "name": "Adan y Eva",
+      "url": "https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
         "name": "Adictiva",
         "url": "https://open.spotify.com/album/7Eeyj4vopzd7c1aAhwXFGU"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 207853,
       "name": "Adictiva",
       "url": "https://open.spotify.com/track/6MJUCumnQsQEKbCy28tbCP"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
-        "name": "Adan y Eva",
-        "url": "https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 258638,
-      "name": "Adan y Eva",
-      "url": "https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk"
     },
     {
       "added_at": "2021-12-16 01:11:32",

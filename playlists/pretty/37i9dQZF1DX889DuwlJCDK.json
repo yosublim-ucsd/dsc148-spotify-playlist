@@ -1,18 +1,18 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u30b7\u30f3\u30ac\u30fc\u30ba\u30cf\u30a4",
-  "num_followers": 10507,
+  "num_followers": 10517,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTc5OGNhYzMzMjM4MWZiNjczZTU2M2Y4MzJkZWU5ZjNlZTgzNWRk",
+  "snapshot_id": "MCwyMjYwOTEzM2Q0MzEyMDUyMWE0NGQ3MmUyNzk1MWMwOGZmMDdlNjM0",
   "tracks": [
     {
       "added_at": "2023-11-21 15:00:00",
       "album": {
-        "name": "SINGER'S HIGH",
-        "url": "https://open.spotify.com/album/0uqbdmdAkwobS4msDI68DG"
+        "name": "Singer's High",
+        "url": "https://open.spotify.com/album/7IMFRkZNqf5y7cEZvE7cky"
       },
       "artists": [
         {
@@ -21,8 +21,8 @@
         }
       ],
       "duration_ms": 172466,
-      "name": "\u30d1\u30f3\u30b6\u30de\u30b9\u30c8",
-      "url": "https://open.spotify.com/track/1ObqbQDyABhBhhofOITc58"
+      "name": "panzamasuto",
+      "url": "https://open.spotify.com/track/1zVMbhWohOGBTxK5SPd83c"
     },
     {
       "added_at": "2023-11-21 15:00:00",
@@ -299,8 +299,8 @@
     {
       "added_at": "2023-11-21 15:00:00",
       "album": {
-        "name": "\u6687",
-        "url": "https://open.spotify.com/album/2rD7iojkiDlCSHbevEOHls"
+        "name": "Hima",
+        "url": "https://open.spotify.com/album/7qSk3L32X9nRUI7YV6ELJy"
       },
       "artists": [
         {
@@ -309,8 +309,8 @@
         }
       ],
       "duration_ms": 172340,
-      "name": "\u6687",
-      "url": "https://open.spotify.com/track/293e3CLrYhSFE9gFmwolDL"
+      "name": "Hima",
+      "url": "https://open.spotify.com/track/3tI1VcYJ0TYFJowY3z3IBg"
     },
     {
       "added_at": "2023-11-21 15:00:00",
@@ -379,8 +379,8 @@
     {
       "added_at": "2023-11-21 15:00:00",
       "album": {
-        "name": "\u3084\u308f\u3089\u304b\u3044\u30d1\u30f3",
-        "url": "https://open.spotify.com/album/09RDJ7ahRy1r4EY1Vy9a1v"
+        "name": "Last Supper",
+        "url": "https://open.spotify.com/album/5c2Aeu1g0pwsQnpqXgvzlu"
       },
       "artists": [
         {
@@ -389,8 +389,8 @@
         }
       ],
       "duration_ms": 200193,
-      "name": "\u3084\u308f\u3089\u304b\u3044\u30d1\u30f3",
-      "url": "https://open.spotify.com/track/13iGFzuBbWAip4qIoVwdEV"
+      "name": "Last Supper",
+      "url": "https://open.spotify.com/track/4sqPcQyiHESSahprYt5LMx"
     },
     {
       "added_at": "2023-11-21 15:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-11-21 15:00:00",
       "album": {
-        "name": "\u5927\u4eba\u306e\u6d99",
-        "url": "https://open.spotify.com/album/72UULR9EffVteuvT9xDIKs"
-      },
-      "artists": [
-        {
-          "name": "Macaroni Empitsu",
-          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
-        }
-      ],
-      "duration_ms": 202213,
-      "name": "\u30da\u30d1\u30fc\u30df\u30f3\u30c8",
-      "url": "https://open.spotify.com/track/3U3xD3JRHaBzrMKsrhOazB"
-    },
-    {
-      "added_at": "2023-11-21 15:00:00",
-      "album": {
         "name": "GOLD",
         "url": "https://open.spotify.com/album/2nxVvU7LqydShGwRUuto85"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 129785,
       "name": "\u590f\u306f\u5de1\u308b",
       "url": "https://open.spotify.com/track/2EHUDtTMLscFB0DKXp03A7"
+    },
+    {
+      "added_at": "2023-11-21 15:00:00",
+      "album": {
+        "name": "\u5927\u4eba\u306e\u6d99",
+        "url": "https://open.spotify.com/album/72UULR9EffVteuvT9xDIKs"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "duration_ms": 202213,
+      "name": "\u30da\u30d1\u30fc\u30df\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/3U3xD3JRHaBzrMKsrhOazB"
     },
     {
       "added_at": "2023-11-21 15:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-11-21 15:00:00",
       "album": {
-        "name": "ODYSSEY",
-        "url": "https://open.spotify.com/album/5EIlrktUwngp4QAnoyduiJ"
-      },
-      "artists": [
-        {
-          "name": "Novelbright",
-          "url": "https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "ODYSSEY",
-      "url": "https://open.spotify.com/track/6BYUfQgurDttfJg5EddPYl"
-    },
-    {
-      "added_at": "2023-11-21 15:00:00",
-      "album": {
         "name": "\u30b5\u30f3\u30c7\u30a4\u30e2\u30fc\u30cb\u30f3\u30b0",
         "url": "https://open.spotify.com/album/55ojVYLlcXJnGXDOvWeELv"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 206575,
       "name": "\u30b5\u30f3\u30c7\u30a4\u30e2\u30fc\u30cb\u30f3\u30b0",
       "url": "https://open.spotify.com/track/7EKHpb7x9utoOKVzz8aZw3"
+    },
+    {
+      "added_at": "2023-11-21 15:00:00",
+      "album": {
+        "name": "ODYSSEY",
+        "url": "https://open.spotify.com/album/5EIlrktUwngp4QAnoyduiJ"
+      },
+      "artists": [
+        {
+          "name": "Novelbright",
+          "url": "https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri"
+        }
+      ],
+      "duration_ms": 257026,
+      "name": "ODYSSEY",
+      "url": "https://open.spotify.com/track/6BYUfQgurDttfJg5EddPYl"
     },
     {
       "added_at": "2023-11-21 15:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-11-21 15:00:00",
       "album": {
-        "name": "\u50d5\u3089\u306f\u305d\u308c\u3092\u611b\u3068\u547c\u3093\u3060",
-        "url": "https://open.spotify.com/album/6DyaCGI2tKENbFVyTziRcs"
-      },
-      "artists": [
-        {
-          "name": "\u3042\u305f\u3089\u3088",
-          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
-        }
-      ],
-      "duration_ms": 322100,
-      "name": "\u50d5\u3089\u306f\u305d\u308c\u3092\u611b\u3068\u547c\u3093\u3060",
-      "url": "https://open.spotify.com/track/1m4yMmtlUxlmmT4gEzjGSh"
-    },
-    {
-      "added_at": "2023-11-21 15:00:00",
-      "album": {
         "name": "\u30ce\u30c3\u30af\u30d6\u30fc\u30c4",
         "url": "https://open.spotify.com/album/6adm4VVFTHqIF4qmKbcpOd"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 191180,
       "name": "\u30ce\u30c3\u30af\u30d6\u30fc\u30c4",
       "url": "https://open.spotify.com/track/0qgj1atPxj1ae6rG7VHS0M"
+    },
+    {
+      "added_at": "2023-11-21 15:00:00",
+      "album": {
+        "name": "\u50d5\u3089\u306f\u305d\u308c\u3092\u611b\u3068\u547c\u3093\u3060",
+        "url": "https://open.spotify.com/album/6DyaCGI2tKENbFVyTziRcs"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u305f\u3089\u3088",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+        }
+      ],
+      "duration_ms": 322100,
+      "name": "\u50d5\u3089\u306f\u305d\u308c\u3092\u611b\u3068\u547c\u3093\u3060",
+      "url": "https://open.spotify.com/track/1m4yMmtlUxlmmT4gEzjGSh"
     },
     {
       "added_at": "2023-11-21 15:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-11-21 15:00:00",
       "album": {
-        "name": "\u5b63\u5104\u306e\u7bb1",
-        "url": "https://open.spotify.com/album/5vBcyTeKwu2h7JBdkjhURs"
-      },
-      "artists": [
-        {
-          "name": "\u3042\u305f\u3089\u3088",
-          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
-        }
-      ],
-      "duration_ms": 239067,
-      "name": "\u590f\u304c\u6765\u308b\u305f\u3073",
-      "url": "https://open.spotify.com/track/55ItTj78No5IMK6yR9grGj"
-    },
-    {
-      "added_at": "2023-11-21 15:00:00",
-      "album": {
         "name": "\u6b53\u58f0\u3092\u3055\u304c\u3057\u3066",
         "url": "https://open.spotify.com/album/2rAIEvDcCLxjTG2tMqtuXl"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 233173,
       "name": "\u6b53\u58f0\u3092\u3055\u304c\u3057\u3066",
       "url": "https://open.spotify.com/track/3N6QVzApdGF3xInV7HpxZm"
+    },
+    {
+      "added_at": "2023-11-21 15:00:00",
+      "album": {
+        "name": "\u5b63\u5104\u306e\u7bb1",
+        "url": "https://open.spotify.com/album/5vBcyTeKwu2h7JBdkjhURs"
+      },
+      "artists": [
+        {
+          "name": "\u3042\u305f\u3089\u3088",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+        }
+      ],
+      "duration_ms": 239067,
+      "name": "\u590f\u304c\u6765\u308b\u305f\u3073",
+      "url": "https://open.spotify.com/track/55ItTj78No5IMK6yR9grGj"
     },
     {
       "added_at": "2023-11-21 15:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-11-21 15:00:00",
       "album": {
-        "name": "\u30a8\u30d0\u30fc\u30b0\u30ea\u30fc\u30f3",
-        "url": "https://open.spotify.com/album/6RxYB8bqVBrNg4ls25HlDY"
-      },
-      "artists": [
-        {
-          "name": "SIX LOUNGE",
-          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
-        }
-      ],
-      "duration_ms": 255293,
-      "name": "\u30a8\u30d0\u30fc\u30b0\u30ea\u30fc\u30f3",
-      "url": "https://open.spotify.com/track/6L8EXO1KIMl41yEzspq3yA"
-    },
-    {
-      "added_at": "2023-11-21 15:00:00",
-      "album": {
         "name": "Aoiharu",
         "url": "https://open.spotify.com/album/3iKkkzM6MXkAYSvYLWTVxN"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 178473,
       "name": "Aoiharu",
       "url": "https://open.spotify.com/track/3VSNqUnc1KhmPmlZXsbN40"
+    },
+    {
+      "added_at": "2023-11-21 15:00:00",
+      "album": {
+        "name": "\u30a8\u30d0\u30fc\u30b0\u30ea\u30fc\u30f3",
+        "url": "https://open.spotify.com/album/6RxYB8bqVBrNg4ls25HlDY"
+      },
+      "artists": [
+        {
+          "name": "SIX LOUNGE",
+          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
+        }
+      ],
+      "duration_ms": 255293,
+      "name": "\u30a8\u30d0\u30fc\u30b0\u30ea\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/6L8EXO1KIMl41yEzspq3yA"
     },
     {
       "added_at": "2023-11-21 15:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-11-21 15:00:00",
       "album": {
-        "name": "Banquet",
-        "url": "https://open.spotify.com/album/1mLswaDUHOOUoxgevsNs9T"
-      },
-      "artists": [
-        {
-          "name": "Chevon",
-          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
-        }
-      ],
-      "duration_ms": 231628,
-      "name": "Banquet",
-      "url": "https://open.spotify.com/track/2gUrRUgr10dRIqRXWtbZsZ"
-    },
-    {
-      "added_at": "2023-11-21 15:00:00",
-      "album": {
         "name": "456",
         "url": "https://open.spotify.com/album/5Eh10wXkYJPtrP8wPQ77co"
       },
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2023-11-21 15:00:00",
       "album": {
-        "name": "\u604b\u306e\u30b8\u30e3\u30fc\u30ca\u30eb",
-        "url": "https://open.spotify.com/album/1oRp7okGGR1nfSNBirPdwX"
+        "name": "Banquet",
+        "url": "https://open.spotify.com/album/1mLswaDUHOOUoxgevsNs9T"
       },
       "artists": [
         {
-          "name": "THE 2",
-          "url": "https://open.spotify.com/artist/668YZEv91Ux6vBKFwc3NLk"
+          "name": "Chevon",
+          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
         }
       ],
-      "duration_ms": 220545,
-      "name": "\u604b\u306e\u30b8\u30e3\u30fc\u30ca\u30eb",
-      "url": "https://open.spotify.com/track/7ue4j1Jq6f1xdgH5LXIxW6"
+      "duration_ms": 231628,
+      "name": "Banquet",
+      "url": "https://open.spotify.com/track/2gUrRUgr10dRIqRXWtbZsZ"
     },
     {
       "added_at": "2023-11-21 15:00:00",
@@ -1579,6 +1563,22 @@
       "duration_ms": 161027,
       "name": "\u30d7\u30ed\u30dd\u30fc\u30ba",
       "url": "https://open.spotify.com/track/0tssvHEK5o69GJtv2zhLMc"
+    },
+    {
+      "added_at": "2023-11-21 15:00:00",
+      "album": {
+        "name": "\u604b\u306e\u30b8\u30e3\u30fc\u30ca\u30eb",
+        "url": "https://open.spotify.com/album/1oRp7okGGR1nfSNBirPdwX"
+      },
+      "artists": [
+        {
+          "name": "THE 2",
+          "url": "https://open.spotify.com/artist/668YZEv91Ux6vBKFwc3NLk"
+        }
+      ],
+      "duration_ms": 220545,
+      "name": "\u604b\u306e\u30b8\u30e3\u30fc\u30ca\u30eb",
+      "url": "https://open.spotify.com/track/7ue4j1Jq6f1xdgH5LXIxW6"
     },
     {
       "added_at": "2023-11-21 15:00:00",

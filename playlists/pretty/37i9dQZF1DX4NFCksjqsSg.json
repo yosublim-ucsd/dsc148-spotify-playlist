@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 27889,
+  "num_followers": 27897,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGFmZTY3MGRmNjdiZmU0NWM2ODc0YTVlNDU4YmQwNjkzMWUyNTdk",
+  "snapshot_id": "MCxlODYwYTAzY2MwNjJkMTNhOTcyZjU4N2FhMDA0YmYwY2NjNWY5MGY5",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -95,22 +95,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Alors regarde",
-        "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
-      },
-      "artists": [
-        {
-          "name": "Patrick Bruel",
-          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
-        }
-      ],
-      "duration_ms": 268746,
-      "name": "Place des grands hommes",
-      "url": "https://open.spotify.com/track/20RHWjtCLr7ODGQEItdZXg"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Fais comme l'oiseau",
         "url": "https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 195306,
       "name": "Une belle histoire",
       "url": "https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Alors regarde",
+        "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bruel",
+          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
+        }
+      ],
+      "duration_ms": 268746,
+      "name": "Place des grands hommes",
+      "url": "https://open.spotify.com/track/20RHWjtCLr7ODGQEItdZXg"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -367,18 +367,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Lapointe 1994-2006 N'importe qui",
-        "url": "https://open.spotify.com/album/4EOQXoXxZI0XYTB1in1Ivk"
+        "name": "Fruit de ma r\u00e9cente nuit blanche",
+        "url": "https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5"
       },
       "artists": [
         {
-          "name": "\u00c9ric Lapointe",
-          "url": "https://open.spotify.com/artist/3fzExoQtGmGs8w7ba2nTJc"
+          "name": "Dany B\u00e9dar",
+          "url": "https://open.spotify.com/artist/6EAWDYcvaCSV43LMeRELDm"
         }
       ],
-      "duration_ms": 246333,
-      "name": "La bartendresse",
-      "url": "https://open.spotify.com/track/6gIGvgL9rcRhldbaVFTaaW"
+      "duration_ms": 225426,
+      "name": "Faire la paix avec l'amour",
+      "url": "https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -403,18 +403,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Fruit de ma r\u00e9cente nuit blanche",
-        "url": "https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5"
+        "name": "Lapointe 1994-2006 N'importe qui",
+        "url": "https://open.spotify.com/album/4EOQXoXxZI0XYTB1in1Ivk"
       },
       "artists": [
         {
-          "name": "Dany B\u00e9dar",
-          "url": "https://open.spotify.com/artist/6EAWDYcvaCSV43LMeRELDm"
+          "name": "\u00c9ric Lapointe",
+          "url": "https://open.spotify.com/artist/3fzExoQtGmGs8w7ba2nTJc"
         }
       ],
-      "duration_ms": 225426,
-      "name": "Faire la paix avec l'amour",
-      "url": "https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b"
+      "duration_ms": 246333,
+      "name": "La bartendresse",
+      "url": "https://open.spotify.com/track/6gIGvgL9rcRhldbaVFTaaW"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -643,22 +643,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Snob",
-        "url": "https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy"
-      },
-      "artists": [
-        {
-          "name": "Les BB",
-          "url": "https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr"
-        }
-      ],
-      "duration_ms": 328706,
-      "name": "Seul au combat",
-      "url": "https://open.spotify.com/track/28DBhTwgt6Gnu2g4K0Sn83"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Joe Dassin \u00c9ternel...",
         "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 169546,
       "name": "\u00c0 toi",
       "url": "https://open.spotify.com/track/6jiUhLBjMV8ve9eORFDsi6"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Snob",
+        "url": "https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy"
+      },
+      "artists": [
+        {
+          "name": "Les BB",
+          "url": "https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr"
+        }
+      ],
+      "duration_ms": 328706,
+      "name": "Seul au combat",
+      "url": "https://open.spotify.com/track/28DBhTwgt6Gnu2g4K0Sn83"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -855,22 +855,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Francine Raymond",
-        "url": "https://open.spotify.com/album/7yduHV2iKYQgiQHPb9ECkL"
-      },
-      "artists": [
-        {
-          "name": "Francine Raymond",
-          "url": "https://open.spotify.com/artist/4XhSu04KR47kzRHF6esYas"
-        }
-      ],
-      "duration_ms": 223360,
-      "name": "Vivre Avec Celui Qu'on Aime",
-      "url": "https://open.spotify.com/track/3QeHjFpa62YmVG4rCVhQ1g"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Autour de Montr\u00e9al (Compilation 1978-1982)",
         "url": "https://open.spotify.com/album/5J2cTiDe35i6XR3hXtMvNU"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 287253,
       "name": "Si j'\u00e9tais un homme",
       "url": "https://open.spotify.com/track/3fX8Q1XVOKfkD5TpRSWGnF"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Francine Raymond",
+        "url": "https://open.spotify.com/album/7yduHV2iKYQgiQHPb9ECkL"
+      },
+      "artists": [
+        {
+          "name": "Francine Raymond",
+          "url": "https://open.spotify.com/artist/4XhSu04KR47kzRHF6esYas"
+        }
+      ],
+      "duration_ms": 223360,
+      "name": "Vivre Avec Celui Qu'on Aime",
+      "url": "https://open.spotify.com/track/3QeHjFpa62YmVG4rCVhQ1g"
     },
     {
       "added_at": "2020-04-07 15:18:18",

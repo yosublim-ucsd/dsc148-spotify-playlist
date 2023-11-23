@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 392213,
+  "num_followers": 392268,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGRlYjcxZjEyNGVmNmM3MGZkZmFjNTQyNGFmNjNjMDU0MTU4Mzgw",
+  "snapshot_id": "MCxjZjM1MGNhNzgyNGY2NTQyMGExM2Y5NGFjMTk5ODM1MjgyOTVmNWFh",
   "tracks": [
     {
       "added_at": "2020-03-06 16:28:56",
@@ -515,6 +515,22 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
+        "name": "The Great American Songbook",
+        "url": "https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
         "name": "Tony Bennett With Count Baise",
         "url": "https://open.spotify.com/album/4WHnCeRDUhw3uecb62g7C6"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 163122,
       "name": "Are You Having Any Fun",
       "url": "https://open.spotify.com/track/7J15xzJsmb6ikExnnMO7MP"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "The Great American Songbook",
-        "url": "https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P"
     },
     {
       "added_at": "2020-03-06 16:28:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3FQfFV3K6V.md) - [plain]
 
 > Acoustic versions of well\-known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,009 likes - 74 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,073 likes - 74 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3FQfFV3K6V.md) - [plain]
 | 73 | [Like Everybody Else \- Acoustic](https://open.spotify.com/track/4cRVPfsnX1r3S3GzXRy2wt) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Like Everybody Else \(Acoustic\)](https://open.spotify.com/album/0usdDFkfTwgtgdFKUjeuS8) | 3:14 |
 | 74 | [Irreplaceable](https://open.spotify.com/track/04dqYNkXUPAVc9ZfHYicW6) | [Zak Manley](https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2) | [Irreplaceable](https://open.spotify.com/album/597cDRdmbPhqWq8GpaJk1o) | 3:09 |
 
-Snapshot ID: `MCw0Zjk2YTg1YmI1OTUyZTQ1ZDdiMGY4Y2ZmYzlmM2IxMjQ0M2E3MDUz`
+Snapshot ID: `MCw3NWUyZjUzNDVlZGE1MmYzYmQzODZiNGNiYzcyYzcxNzQ5M2UzMzEy`

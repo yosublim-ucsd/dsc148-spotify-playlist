@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > The dancefloor is the place to be 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,570 likes - 70 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 851,674 likes - 70 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 60 | [Cold Shoulder \- Helsloot Remix](https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP) | [Words of Niō](https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Cold Shoulder \(Helsloot Remix\)](https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st) | 4:06 |
 | 61 | [My City's On Fire](https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [My City's On Fire](https://open.spotify.com/album/3euSt2OpPER3gjNEI0ATaz) | 3:07 |
 | 62 | [Untold](https://open.spotify.com/track/5oWNQlLaRLALWkKz3JuTap) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Untold](https://open.spotify.com/album/2U3a211EBDRSdPZfM4pukk) | 6:42 |
-| 63 | [Paradise \- Âme Remix](https://open.spotify.com/track/6m1p8pNdASucv2yWqYeMOs) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Paradise \(Âme Remix\)](https://open.spotify.com/album/5TeEwBih6CBovsO6sFYqtb) | 4:04 |
-| 64 | [Chaos](https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [혼돈 과 질서](https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7) | 8:48 |
+| 63 | [Voices Above](https://open.spotify.com/track/6ME9tv8WUbvUs7be9nt48J) | [Archila](https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM) | [Voices Above](https://open.spotify.com/album/4U7wCpJuheM9IlV53aBLuJ) | 3:10 |
+| 64 | [Paradise \- Âme Remix](https://open.spotify.com/track/6m1p8pNdASucv2yWqYeMOs) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Paradise \(Âme Remix\)](https://open.spotify.com/album/5TeEwBih6CBovsO6sFYqtb) | 4:04 |
 | 65 | [Do My Thing \- Dixon Rework](https://open.spotify.com/track/4taJ42xa2t0EmWsrHcZNiz) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK), [Dixon](https://open.spotify.com/artist/3wc57nV2fGEoM8x4xPK1O9) | [Do My Thing \(Dixon Rework\)](https://open.spotify.com/album/0f3ZiEntOHX7P6W790ukxe) | 3:17 |
-| 66 | [Voices Above](https://open.spotify.com/track/6ME9tv8WUbvUs7be9nt48J) | [Archila](https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM) | [Voices Above](https://open.spotify.com/album/4U7wCpJuheM9IlV53aBLuJ) | 3:10 |
+| 66 | [Chaos](https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [혼돈 과 질서](https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7) | 8:48 |
 | 67 | [Joy](https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Joy](https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv) | 4:21 |
 | 68 | [Copal \- Super Flu Remix](https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Made of Wood Remixed](https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA) | 6:37 |
 | 69 | [Vodka & Orange](https://open.spotify.com/track/3xv8dKKfN1WjhGnsFhn9TC) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Vodka & Orange EP](https://open.spotify.com/album/0DzRyBfMWMQZa1AtsF7PY0) | 7:19 |
 | 70 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 |
 
-Snapshot ID: `MCw4OTRjOWYxMzQ5ZjJlMWE5YzE3MDFkNjRhNGNhNmExYjU5YzViYWUy`
+Snapshot ID: `MCxjMWFjNzg5Yjc4MDFkODI1MGUyZDAwZWYwNjY1MTU2YjI3ZDcwOTY1`

@@ -5807,6 +5807,24 @@
     },
     {
       "album": {
+        "name": "Contacto Visual",
+        "url": "https://open.spotify.com/album/22HIRZwEVE2yCR8VHzS0z8"
+      },
+      "artists": [
+        {
+          "name": "Mauryceo",
+          "url": "https://open.spotify.com/artist/78XfDNY0PJ2x2ADv30uJiX"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176813,
+      "name": "Contacto Visual",
+      "url": "https://open.spotify.com/track/4ZPQZ1OZrZSsNcei6op5Ns"
+    },
+    {
+      "album": {
         "name": "Contacto Visual (Remix So\u00f1ao)",
         "url": "https://open.spotify.com/album/4MGCQQhStPAeoMIaaKIhAO"
       },
@@ -5822,7 +5840,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 175973,
       "name": "Contacto Visual - Remix So\u00f1ao",
       "url": "https://open.spotify.com/track/7bjl4rO7uftiOhzNCMu9T7"
@@ -6864,7 +6882,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 463737,
       "name": "DEMO #4: BellaK.O.",
       "url": "https://open.spotify.com/track/2eQFpLpV3jteALVz85YKIs"
@@ -6918,7 +6936,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 215055,
       "name": "Demo 5 Nostalgia Intro - Remix",
       "url": "https://open.spotify.com/track/7KBsgiueEgAtNiKxgIxTMj"
@@ -9628,7 +9646,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 200580,
       "name": "Fina Fina",
       "url": "https://open.spotify.com/track/1Wknk6vdXzczOS96JkMwO3"
@@ -19001,6 +19019,24 @@
     },
     {
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/3pOcGJViPO9wETV6T8hg5v"
+      },
+      "artists": [
+        {
+          "name": "FlowGPT",
+          "url": "https://open.spotify.com/artist/1mxt7qtdBFCHAeEeDHGgiC"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222168,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/1cpVRg3KxPzALorPNCxhqI"
+    },
+    {
+      "album": {
         "name": "Only Built For Infinity Links",
         "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
       },
@@ -19274,7 +19310,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 140461,
       "name": "Oah Oah",
       "url": "https://open.spotify.com/track/3RjfJ510iifdsQs06QAELV"
@@ -22566,7 +22602,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 198288,
       "name": "Que Lata (Remix So\u00f1ao)",
       "url": "https://open.spotify.com/track/1CwSJsNdTrcRF1iQaaLTOn"

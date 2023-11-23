@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: Travis Scott.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 46,909 likes - 60 songs - 3 hr 16 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 46,908 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 | 8 | [No One Else \(feat\. Fridayy\)](https://open.spotify.com/track/1lYqI9WKBPsL6Hf93yT9bB) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 3:43 |
 | 9 | [I'm The Type](https://open.spotify.com/track/24zmKlJp1LlIRpagSbMaRY) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [chief wuk](https://open.spotify.com/artist/2Hm8pRagdhRNFBbCiGaJEI), [Only The Family](https://open.spotify.com/artist/3IaKn0ExWTMPqa0mscUYw3) | [Nightmares In the Trenches](https://open.spotify.com/album/3ZuNOvosbywUYTfgZc09tU) | 2:36 |
 | 10 | [Last Page](https://open.spotify.com/track/3KDPSpHzY5cegiICdgq2l9) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Last Page](https://open.spotify.com/album/5LJAa3XFNU5XQl8OFgC8Mc) | 2:55 |
-| 11 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
+| 11 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
 | 12 | [Beyond \(Drumless Edition\)](https://open.spotify.com/track/4MeKGdl7CImLdWxvjB9lTa) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Random Access Memories \(Drumless Edition\)](https://open.spotify.com/album/5AFf68gtvNgGLZarsyEEL8) | 4:50 |
 | 13 | [Don't Get Me Started \(feat\. Coi Leray & Nija\)](https://open.spotify.com/track/1HaK0frM7BL1EG1bDYz3WI) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Dennis Daughter](https://open.spotify.com/album/7ywXde70bz91YtIKSFzPOh) | 3:19 |
 | 14 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |

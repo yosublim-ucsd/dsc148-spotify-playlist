@@ -2567,6 +2567,24 @@
     },
     {
       "album": {
+        "name": "High Stakes",
+        "url": "https://open.spotify.com/album/2Mg50CHp8AF18jNeRaWaD3"
+      },
+      "artists": [
+        {
+          "name": "Reverie",
+          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123061,
+      "name": "High Stakes",
+      "url": "https://open.spotify.com/track/6DK4YwXkmJovNIJbLrbSvx"
+    },
+    {
+      "album": {
         "name": "Lonestar Luchador",
         "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
       },
@@ -4594,7 +4612,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 174065,
       "name": "Props",
       "url": "https://open.spotify.com/track/7lJzf1aOYFCETBbrLvdt4k"

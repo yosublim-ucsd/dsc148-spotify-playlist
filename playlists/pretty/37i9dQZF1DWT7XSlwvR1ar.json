@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2080978,
+  "num_followers": 2081064,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWY5NmQ1MjIxMjM0YjE0MTgwYTI0YTI2OWEyYzM5YzAxOTNjODU4",
+  "snapshot_id": "MCwxMDNhMDY4NjI0ODA4ODQ1YzU4ODg3OGVjNWRmZmM1M2M4YzY4MzQx",
   "tracks": [
     {
       "added_at": "2023-11-10 19:54:35",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
+        "name": "Long Blue Light",
+        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 200173,
+      "name": "Long Blue Light",
+      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
         "name": "My God Has a Telephone",
         "url": "https://open.spotify.com/album/6A6ktPfg9TWvgNmk87FUmk"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 175492,
       "name": "My God Has A Telephone",
       "url": "https://open.spotify.com/track/0vOHWx4itwA0pQeWromAAx"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
-        "name": "Long Blue Light",
-        "url": "https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "Long Blue Light",
-      "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "In Your Hands",
-        "url": "https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 230164,
-      "name": "In Your Hands - Single Version",
-      "url": "https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 252760,
       "name": "That's Where I Am",
       "url": "https://open.spotify.com/track/49EXOlUTFBGdI098L6SXDh"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
+        "name": "In Your Hands",
+        "url": "https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 230164,
+      "name": "In Your Hands - Single Version",
+      "url": "https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "Sad Hunk",
-        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "Trick To Happy",
-      "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
         "name": "Wilderado",
         "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 210895,
       "name": "Take Some Time",
       "url": "https://open.spotify.com/track/3C3KF3yVvF7iIsGxkmr6VB"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
+        "name": "Sad Hunk",
+        "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "Trick To Happy",
+      "url": "https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
+        "name": "I Want More / Break My Baby",
+        "url": "https://open.spotify.com/album/0zohDZP7J5cZe6cN5jjIaY"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 212392,
+      "name": "I Want More",
+      "url": "https://open.spotify.com/track/4xQRRue5qsu2tULiz7UDKi"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
         "name": "Ready or Not (feat. Sierra Ferrell)",
         "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 216946,
       "name": "Stay For Something",
       "url": "https://open.spotify.com/track/5tEREzW79U8O3FIkrGyRNW"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
-        "name": "I Want More / Break My Baby",
-        "url": "https://open.spotify.com/album/0zohDZP7J5cZe6cN5jjIaY"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 212392,
-      "name": "I Want More",
-      "url": "https://open.spotify.com/track/4xQRRue5qsu2tULiz7UDKi"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "It Will Never Be The Same",
-        "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
+        "name": "The Joy of Music",
+        "url": "https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN"
       },
       "artists": [
         {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+          "name": "Ben Rector",
+          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
         }
       ],
-      "duration_ms": 250362,
-      "name": "Superglue",
-      "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
+      "duration_ms": 224333,
+      "name": "Steady Love",
+      "url": "https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "The Joy of Music",
-        "url": "https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN"
+        "name": "It Will Never Be The Same",
+        "url": "https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX"
       },
       "artists": [
         {
-          "name": "Ben Rector",
-          "url": "https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI"
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
         }
       ],
-      "duration_ms": 224333,
-      "name": "Steady Love",
-      "url": "https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI"
+      "duration_ms": 250362,
+      "name": "Superglue",
+      "url": "https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "Quietly Blowing It",
-        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 266756,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
         "name": "Pink Shades",
         "url": "https://open.spotify.com/album/5u14nFR2NAMX1R0DslsyH9"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 206903,
       "name": "Pink Shades",
       "url": "https://open.spotify.com/track/3YsjOrar28TbRQAOZ7z63r"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
+        "name": "Quietly Blowing It",
+        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 266756,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
     },
     {
       "added_at": "2023-11-10 19:54:35",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-11-10 19:54:35",
       "album": {
-        "name": "Amidst the Chaos (Bonus Version)",
-        "url": "https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 253395,
-      "name": "Orpheus",
-      "url": "https://open.spotify.com/track/3sC62j1Cjeea5tAhcyGcs8"
-    },
-    {
-      "added_at": "2023-11-10 19:54:35",
-      "album": {
         "name": "Humble Quest",
         "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 195760,
       "name": "Circles Around This Town",
       "url": "https://open.spotify.com/track/08TCIO6LpgC11UdayeOxWB"
+    },
+    {
+      "added_at": "2023-11-10 19:54:35",
+      "album": {
+        "name": "Amidst the Chaos (Bonus Version)",
+        "url": "https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 253395,
+      "name": "Orpheus",
+      "url": "https://open.spotify.com/track/3sC62j1Cjeea5tAhcyGcs8"
     },
     {
       "added_at": "2023-11-10 19:54:35",

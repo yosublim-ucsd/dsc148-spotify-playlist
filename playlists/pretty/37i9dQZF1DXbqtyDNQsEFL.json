@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
-  "num_followers": 52456,
+  "num_followers": 52901,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmViNzhkZTE4MGQ3MDNhMzlhZDU3Zjg5ZDVjOWY4YzE3NDczMjZh",
+  "snapshot_id": "MCw0NDg2NGJlMjNmMTFlZTBlYzZlMjJkZWM4MWNlODM0OWEzNzc2MjJj",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -127,6 +127,38 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "B'Ola (Honour)",
+        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 324703,
+      "name": "B'Ola - Honour",
+      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Only God Can Save Me",
+        "url": "https://open.spotify.com/album/46BxNQYEL1ez8HQ8w6Fpql"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Only God Can Save Me",
+      "url": "https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "YET (feat. Ashley Hess & the King will come)",
         "url": "https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb"
       },
@@ -159,22 +191,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "B'Ola (Honour)",
-        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 324703,
-      "name": "B'Ola - Honour",
-      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Brighter Days",
         "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 208691,
       "name": "Brighter Days",
       "url": "https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Only God Can Save Me",
-        "url": "https://open.spotify.com/album/46BxNQYEL1ez8HQ8w6Fpql"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Only God Can Save Me",
-      "url": "https://open.spotify.com/track/3QnQAJkb10GQWnmUtJLBoq"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -247,26 +247,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Best Days",
-        "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
-      },
-      "artists": [
-        {
-          "name": "Tamela Mann",
-          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 287573,
-      "name": "Take Me to the King (feat. Kirk Franklin)",
-      "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Too Faithful",
         "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
       },
@@ -283,18 +263,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Awesome (Remixes)",
-        "url": "https://open.spotify.com/album/32vZndDj0nQMdWrUESU0eF"
+        "name": "Best Days",
+        "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
       },
       "artists": [
         {
-          "name": "Charles Jenkins & Fellowship Chicago",
-          "url": "https://open.spotify.com/artist/2jqLJvBYhbA8qNe37kbSaU"
+          "name": "Tamela Mann",
+          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 348773,
-      "name": "Awesome",
-      "url": "https://open.spotify.com/track/6b1RS3RtYHYbZK1DQUjpvB"
+      "duration_ms": 287573,
+      "name": "Take Me to the King (feat. Kirk Franklin)",
+      "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -319,6 +303,22 @@
       "duration_ms": 260064,
       "name": "Kumama Papa",
       "url": "https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Awesome (Remixes)",
+        "url": "https://open.spotify.com/album/32vZndDj0nQMdWrUESU0eF"
+      },
+      "artists": [
+        {
+          "name": "Charles Jenkins & Fellowship Chicago",
+          "url": "https://open.spotify.com/artist/2jqLJvBYhbA8qNe37kbSaU"
+        }
+      ],
+      "duration_ms": 348773,
+      "name": "Awesome",
+      "url": "https://open.spotify.com/track/6b1RS3RtYHYbZK1DQUjpvB"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Truth in Sounds",
-        "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
-      },
-      "artists": [
-        {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
-        }
-      ],
-      "duration_ms": 546156,
-      "name": "I Get Backing",
-      "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "My Daddy, My Daddy (Live at AiiiH - As It Is In Heaven)",
         "url": "https://open.spotify.com/album/1a3RbXj5cz5vDXsJNd7MqQ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 812625,
       "name": "My Daddy, My Daddy - Live at AiiiH - As It Is In Heaven",
       "url": "https://open.spotify.com/track/0bqV6cwBAloZuaPTFww9F4"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Truth in Sounds",
+        "url": "https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 546156,
+      "name": "I Get Backing",
+      "url": "https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 502333,
-      "name": "Believe For It - Live",
-      "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "We Behold(Qavah Anthem)",
         "url": "https://open.spotify.com/album/0NIrozR8k7bnKvgzuoslNM"
       },
@@ -579,6 +563,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 502333,
+      "name": "Believe For It - Live",
+      "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Lion of Judah",
         "url": "https://open.spotify.com/album/5z1FT7nquPSxdERNQ1oUvy"
       },
@@ -591,26 +591,6 @@
       "duration_ms": 316280,
       "name": "Lion of Judah",
       "url": "https://open.spotify.com/track/74crNF63DNXE5J20s1IjNg"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "TOBECHUKWU",
-        "url": "https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "MERCY CHINWO BLESSED",
-          "url": "https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI"
-        }
-      ],
-      "duration_ms": 487711,
-      "name": "TOBECHUKWU",
-      "url": "https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -631,6 +611,26 @@
       "duration_ms": 154588,
       "name": "Pretty Day",
       "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "TOBECHUKWU",
+        "url": "https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "MERCY CHINWO BLESSED",
+          "url": "https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI"
+        }
+      ],
+      "duration_ms": 487711,
+      "name": "TOBECHUKWU",
+      "url": "https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "The Glory Experience (Live In Houston)",
-        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
-      },
-      "artists": [
-        {
-          "name": "Uche Agu",
-          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
-        }
-      ],
-      "duration_ms": 298306,
-      "name": "Most High - African Worship Medley/Live",
-      "url": "https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "The Glory Experience (Songs of Zion)",
         "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
       },
@@ -699,6 +683,42 @@
       "duration_ms": 577592,
       "name": "Kaabo",
       "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Desire Pt. 2",
+        "url": "https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 160308,
+      "name": "Desire Pt. 2",
+      "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "The Glory Experience (Live In Houston)",
+        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
+      },
+      "artists": [
+        {
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
+        }
+      ],
+      "duration_ms": 298306,
+      "name": "Most High - African Worship Medley/Live",
+      "url": "https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -747,26 +767,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Desire Pt. 2",
-        "url": "https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 160308,
-      "name": "Desire Pt. 2",
-      "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "These Same Skies (Live)",
         "url": "https://open.spotify.com/album/08skyG33WqHITgFg6S09LR"
       },
@@ -811,26 +811,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Olorun Agbaye - You Are Mighty",
-        "url": "https://open.spotify.com/album/0bquI98KbNHqOrpGFXpNyS"
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD"
       },
       "artists": [
         {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
         },
         {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Oba",
-          "url": "https://open.spotify.com/artist/1WLvxeydcpCGxEpV9pQCP2"
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
         }
       ],
-      "duration_ms": 438744,
-      "name": "Olorun Agbaye - You Are Mighty",
-      "url": "https://open.spotify.com/track/05o0RoSQ1pQFvHe54uFUZf"
+      "duration_ms": 168000,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -855,6 +851,30 @@
       "duration_ms": 293782,
       "name": "Ebenezeri",
       "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Olorun Agbaye - You Are Mighty",
+        "url": "https://open.spotify.com/album/0bquI98KbNHqOrpGFXpNyS"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Oba",
+          "url": "https://open.spotify.com/artist/1WLvxeydcpCGxEpV9pQCP2"
+        }
+      ],
+      "duration_ms": 438744,
+      "name": "Olorun Agbaye - You Are Mighty",
+      "url": "https://open.spotify.com/track/05o0RoSQ1pQFvHe54uFUZf"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -899,26 +919,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Talk & Do",
-        "url": "https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 165254,
-      "name": "Talk & Do",
-      "url": "https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Hallelujah (feat. Dunsin Oyekan) [Live]",
         "url": "https://open.spotify.com/album/0ebuJYKuAn6Of3jD5nC8CV"
       },
@@ -935,6 +935,26 @@
       "duration_ms": 320902,
       "name": "Hallelujah (feat. Dunsin Oyekan) - Live",
       "url": "https://open.spotify.com/track/3OwXa5v85UzgmQBieUscvu"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Elijah Level (with Limoblaze)",
+        "url": "https://open.spotify.com/album/6FT3RodFpDNE4R4cAhb5O9"
+      },
+      "artists": [
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 173262,
+      "name": "Elijah Level (with Limoblaze)",
+      "url": "https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1011,26 +1031,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Elijah Level (with Limoblaze)",
-        "url": "https://open.spotify.com/album/6FT3RodFpDNE4R4cAhb5O9"
-      },
-      "artists": [
-        {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 173262,
-      "name": "Elijah Level (with Limoblaze)",
-      "url": "https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Ah Yami",
         "url": "https://open.spotify.com/album/7tQV02VyNXreMnwXiG8Qxy"
       },
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "The Kadosh (Live)",
+        "url": "https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 364762,
+      "name": "Kadosh",
+      "url": "https://open.spotify.com/track/5PiWLqMAszHolxxQYVQQE9"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Never Ending Love",
         "url": "https://open.spotify.com/album/6Pj4CUUtQXon0qZ7aFtQc1"
       },
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "The Kadosh (Live)",
-        "url": "https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY"
+        "name": "Better Me",
+        "url": "https://open.spotify.com/album/1Ry5NqQ2mLK26TRq23B3So"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+          "name": "MOGmusic",
+          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
         }
       ],
-      "duration_ms": 364762,
-      "name": "Kadosh",
-      "url": "https://open.spotify.com/track/5PiWLqMAszHolxxQYVQQE9"
+      "duration_ms": 505147,
+      "name": "Be Lifted (Live)",
+      "url": "https://open.spotify.com/track/0mdAgU0AmtvFkQAwnpEpKz"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1179,22 +1195,6 @@
       "duration_ms": 176379,
       "name": "Exit",
       "url": "https://open.spotify.com/track/7uEkbtNgUSECmGBWsHmwjT"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Better Me",
-        "url": "https://open.spotify.com/album/1Ry5NqQ2mLK26TRq23B3So"
-      },
-      "artists": [
-        {
-          "name": "MOGmusic",
-          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
-        }
-      ],
-      "duration_ms": 505147,
-      "name": "Be Lifted (Live)",
-      "url": "https://open.spotify.com/track/0mdAgU0AmtvFkQAwnpEpKz"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1355,22 +1355,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Believe For It (Eu Creio)",
-        "url": "https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK"
+        "name": "Apostolos (Sounds of Transition)",
+        "url": "https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv"
       },
       "artists": [
         {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+          "name": "Pastor Emmanuel Iren",
+          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
         },
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Nosa",
+          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
         }
       ],
-      "duration_ms": 338218,
-      "name": "Believe For It (Eu Creio)",
-      "url": "https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys"
+      "duration_ms": 382499,
+      "name": "Prophetic Chant (Live)",
+      "url": "https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1395,22 +1395,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Apostolos (Sounds of Transition)",
-        "url": "https://open.spotify.com/album/2EB9Skh5opMuYmAusHBMlv"
+        "name": "Believe For It (Eu Creio)",
+        "url": "https://open.spotify.com/album/5hAQOCl3WmhAe3K6KMbxwK"
       },
       "artists": [
         {
-          "name": "Pastor Emmanuel Iren",
-          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         },
         {
-          "name": "Nosa",
-          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 382499,
-      "name": "Prophetic Chant (Live)",
-      "url": "https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD"
+      "duration_ms": 338218,
+      "name": "Believe For It (Eu Creio)",
+      "url": "https://open.spotify.com/track/7DiPgo2fNrAwI9es1ffAys"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1447,30 +1447,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Daily (Remix)",
-        "url": "https://open.spotify.com/album/5r78TqhG05fGrwHDpjeUkC"
+        "name": "Living Again",
+        "url": "https://open.spotify.com/album/09LjYLqfVpJaJhVM375rB2"
       },
       "artists": [
         {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Becca Folkes",
-          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+          "name": "Living Again",
+          "url": "https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6"
         }
       ],
-      "duration_ms": 195428,
-      "name": "Daily - Remix",
-      "url": "https://open.spotify.com/track/3dtD6RxBNau20iIsowaKVu"
+      "duration_ms": 257693,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/3uX0W1YKOJHanqyZaNJ81D"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1503,18 +1491,46 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Undeniable Love",
-        "url": "https://open.spotify.com/album/4HHoMWPivUumtBDKR3xHY8"
+        "name": "Igbala (Live)",
+        "url": "https://open.spotify.com/album/41ESBstwRoGpda3w243UjH"
       },
       "artists": [
         {
-          "name": "Elvis E",
-          "url": "https://open.spotify.com/artist/4LSiLtX7e1IRV9AQ2Zj9w4"
+          "name": "Spirit of Prophecy",
+          "url": "https://open.spotify.com/artist/47QqOqn5ySXFRyTezxJRBF"
         }
       ],
-      "duration_ms": 239847,
-      "name": "Praise Anthem",
-      "url": "https://open.spotify.com/track/6SggGs62ILFrYXmushLa8C"
+      "duration_ms": 260993,
+      "name": "Igbala - Live",
+      "url": "https://open.spotify.com/track/5HyqBGjTcy5KzJZVb8z2qL"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Daily (Remix)",
+        "url": "https://open.spotify.com/album/5r78TqhG05fGrwHDpjeUkC"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Daily - Remix",
+      "url": "https://open.spotify.com/track/3dtD6RxBNau20iIsowaKVu"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1531,22 +1547,6 @@
       "duration_ms": 395810,
       "name": "Maranatha",
       "url": "https://open.spotify.com/track/1ArP26FqyUNqdZFnyGksOp"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Ndichatarisa",
-        "url": "https://open.spotify.com/album/10MaqFUzBYnSznaeJhkTDP"
-      },
-      "artists": [
-        {
-          "name": "Gemma Griffiths",
-          "url": "https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG"
-        }
-      ],
-      "duration_ms": 205188,
-      "name": "Ndichatarisa",
-      "url": "https://open.spotify.com/track/70ZBUNVFSHZSmZqLPDKAzx"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Selense",
-        "url": "https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 225153,
-      "name": "Selense",
-      "url": "https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Oil + Water",
         "url": "https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 243040,
       "name": "Wonder (feat. Le'Andria Johnson)",
       "url": "https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Selense",
+        "url": "https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "duration_ms": 225153,
+      "name": "Selense",
+      "url": "https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh"
     }
   ],
   "unique_name": "Be Lifted ",

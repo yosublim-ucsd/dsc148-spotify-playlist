@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,110 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,251 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 60 | [Teamo \(feat\. Messias Maricoa\)](https://open.spotify.com/track/2wuJk9kUdm3Z8dobXgpzyf) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Flowers](https://open.spotify.com/album/1yYgqZbQEi9NdfrGg364bW) | 4:26 |
 | 61 | [Turn You On](https://open.spotify.com/track/2CjxsWQv49DdO0E0UD9WSt) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Su Casa](https://open.spotify.com/album/0JnhG5mHpSHvdCQnzM3egu) | 5:02 |
 | 62 | [Odo](https://open.spotify.com/track/2KqVNeDwxcfNaXQFJvNnmf) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Odo](https://open.spotify.com/album/5FoQYJCY5hZcVO4TkAxUxv) | 3:06 |
-| 63 | [Nyota Yako](https://open.spotify.com/track/03tmpdJzhAdQgEPOvG8KWr) | [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv) | [Nyota Yako](https://open.spotify.com/album/2Lj9jCdLSXzRg7jeSF05mj) | 4:51 |
+| 63 | [Nyota Yako](https://open.spotify.com/track/2IxodVxAhukQQskh0KW1Y9) | [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv) | [T I D Singles](https://open.spotify.com/album/2M8BcYuMxICp6yaB7VeRIr) | 4:51 |
 | 64 | [Naogopa](https://open.spotify.com/track/0vybWIHJOFMSwMVJQpAFxv) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Flowers](https://open.spotify.com/album/1yYgqZbQEi9NdfrGg364bW) | 3:43 |
 | 65 | [Sweet Love](https://open.spotify.com/track/73EVyhT9Wq0diDaasJi9yu) | [Wahu](https://open.spotify.com/artist/71rskhiIZ7C255cRyXfZOq) | [Wahu Classics](https://open.spotify.com/album/0cu2ZwMtnug5JX2hIFpJY2) | 4:20 |
 | 66 | [True Love](https://open.spotify.com/track/64Abyr4HpkCBbT0DqBp1dx) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 99 | [Zeze](https://open.spotify.com/track/0SopH24w1T4KFqDSF7ZObO) | [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv) | [Girlfriend](https://open.spotify.com/album/3paXpDLkQ42bCZM2XNI223) | 4:03 |
 | 100 | [Vaileti](https://open.spotify.com/track/3C9HNfpYE8IbTuwN8WtIBy) | [Matonya](https://open.spotify.com/artist/2nHyoDQinKKGYIzSkK3IwI) | [Best of Tanzania Bongo Classics 2](https://open.spotify.com/album/3ZWfP82qw9qk6iCaaeiMir) | 4:49 |
 
-Snapshot ID: `MCxkOTU4NjExZGM4ZGRiY2Y1YzkzYjkyOGI2ODJhZTE4NGNmNDk1ZDRi`
+Snapshot ID: `MCxlNWI4OGNkNzFkZDZiNmQ3ZjhlZjU5OTg5N2I1NTkxODc2NmFkMmNm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Lleva el folclore de México a donde sea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,527 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,545 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 19 | [El toro viejo](https://open.spotify.com/track/2ylZf2S54qXZtWn8sogpdz) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Las Mañanitas](https://open.spotify.com/album/6cGMHg7ykaPoGdCWFfBvEW) | 3:21 |
 | 20 | [Las Clases del Cha Cha Cha](https://open.spotify.com/track/0vCBgiJZPjYXwVqVcqy8FR) | [Marimba Chiapas](https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5) | [Danzones, Mambos y Cha Cha Chas](https://open.spotify.com/album/4PipSu48FG3zqHb249qzgL) | 2:36 |
 | 21 | [San Cristobal](https://open.spotify.com/track/6eFJW7pI0m6oxhnjR8mABo) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb) | [San Cristobal](https://open.spotify.com/album/2cKjc9JgutU0ZJstgSh60V) | 2:21 |
-| 22 | [Zopilote mojado](https://open.spotify.com/track/1yaCuWQl54kgdlCmuAUi0L) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi Azteca](https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo) | 3:16 |
-| 23 | [Las Bicicletas](https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 3:09 |
+| 22 | [Las Bicicletas](https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 3:09 |
+| 23 | [Zopilote mojado](https://open.spotify.com/track/1yaCuWQl54kgdlCmuAUi0L) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi Azteca](https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo) | 3:16 |
 | 24 | [El polvorete](https://open.spotify.com/track/5amnmPiBA09lmltsLR4xok) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Trio Azteca: Folk Songs and Ballads](https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq) | 4:05 |
 | 25 | [Adiós Mariquita Linda](https://open.spotify.com/track/6sFEBrEEtj5nQqR17KFq1L) | [Juan Torres](https://open.spotify.com/artist/6f9xTYssmtLTLCoErssCLY) | [15 Éxitos Al Estilo Ranchero De Juan Torres](https://open.spotify.com/album/4eJxF67PdhW7DGjq1f21gF) | 3:32 |
 | 26 | [Que Chula Es Puebla](https://open.spotify.com/track/72wFUQWbD8nThZnUTrOQYP) | [Marimba Chiapas](https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5) | [No Me Platiques Más](https://open.spotify.com/album/4fZthxX55ATYvOF7cZQDe4) | 2:31 |
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 75 | [El querreque](https://open.spotify.com/track/5dTTwhrvFAFrSVEZhIgK7U) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Mexico: 20 Best Mariachi and Folk Songs](https://open.spotify.com/album/056QcfXOgyiTK2LKaeJ5Y9) | 3:47 |
 | 76 | [San Pedro Hermoso](https://open.spotify.com/track/0xARjffWeQ3NEmseEU4rum) | [Costa Mía Orquesta](https://open.spotify.com/artist/5gr6ZjgBXbZAcIjsHJgwoL), [Sicarú Gazga](https://open.spotify.com/artist/6G1d37MQZPkT8JbDIIMS6V) | [San Pedro Hermoso](https://open.spotify.com/album/5XbUpC6yNlA4W9e6K4Cv37) | 3:59 |
 | 77 | [Ay Jalisco No Te Rajes](https://open.spotify.com/track/5q673d8BBfaK3CrQWBUMOH) | [Daniel Armas](https://open.spotify.com/artist/62m8kgUSiuiUb2cl118JCi) | [México 2010 El Salterio](https://open.spotify.com/album/1PU88tZ22xHSWrdTY1jroX) | 2:41 |
-| 78 | [Rayando El Sol](https://open.spotify.com/track/0vbTSruZjJ7ypw0mbqwQ8J) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Recordando A Antonio Bribiesca](https://open.spotify.com/album/0jvIr4ODC4xNyRFJxkoI08) | 3:05 |
+| 78 | [Lindas Mexicanas](https://open.spotify.com/track/71AU1WeRsBgdRceTWqNloI) | [Velino Miguel Preza](https://open.spotify.com/artist/2xtHMMGdjIdwWqHQ0ZNslN), [Anabel Medrano](https://open.spotify.com/artist/4kyT6BkRnlPf8pBAk5X1AR), [Ensamble Centenario](https://open.spotify.com/artist/35xQxv2nFAmbbkHKGkizto) | [Música Mexicana de Salón Con Salterio: Finales del Siglo Xix y Principios del Siglo Xx](https://open.spotify.com/album/0NIeTPc7wQYpjgX0ZGodeZ) | 4:27 |
 | 79 | [La Llorona](https://open.spotify.com/track/1DQKQpOqSSDMrsHkvsQd0J) | [Los Vega](https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB) | [En Tonos Muy Diferentes](https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf) | 5:42 |
-| 80 | [Lindas Mexicanas](https://open.spotify.com/track/71AU1WeRsBgdRceTWqNloI) | [Velino Miguel Preza](https://open.spotify.com/artist/2xtHMMGdjIdwWqHQ0ZNslN), [Anabel Medrano](https://open.spotify.com/artist/4kyT6BkRnlPf8pBAk5X1AR), [Ensamble Centenario](https://open.spotify.com/artist/35xQxv2nFAmbbkHKGkizto) | [Música Mexicana de Salón Con Salterio: Finales del Siglo Xix y Principios del Siglo Xx](https://open.spotify.com/album/0NIeTPc7wQYpjgX0ZGodeZ) | 4:27 |
+| 80 | [Rayando El Sol](https://open.spotify.com/track/0vbTSruZjJ7ypw0mbqwQ8J) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Recordando A Antonio Bribiesca](https://open.spotify.com/album/0jvIr4ODC4xNyRFJxkoI08) | 3:05 |
 | 81 | [Los Ojos de Francesca Marimba](https://open.spotify.com/track/7ofMVPa6s7hn74GlymSyXr) | [MML Latin](https://open.spotify.com/artist/16jL08iIvOjNhzRJnfDkJc), [Domingo Suarez](https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx), [Mauricio Huerta](https://open.spotify.com/artist/2zcc9iKtsz33S7ectcj0Qb), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Danzon](https://open.spotify.com/album/6S565D3m0inBWDcogI71nQ) | 2:16 |
 | 82 | [El Feo](https://open.spotify.com/track/1orAub5Dz1NbEMOtojgVal) | [Los Hermanos Ríos](https://open.spotify.com/artist/4T0GBgActseXoBYsSNouZV) | [La Tortuga, Sones Istmeños](https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE) | 3:01 |
 | 83 | [LAS ALTEÑITAS](https://open.spotify.com/track/0U6SkH7h38q4SNHHoEckCW) | [LA BELLA EPOCA CON SALTERIO](https://open.spotify.com/artist/5AEvcZM8v0mptSbdX427om) | [LA BELLA EPOCA CON SALTERIO](https://open.spotify.com/album/0sDmy1GnNFZN5JmuuUyn9p) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 99 | [La Virgen de la Macarena](https://open.spotify.com/track/0NgGwoMrsVIYEfU1P2G9qL) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi from Mexico](https://open.spotify.com/album/37XAmBpj05Ohmoql3AFiMM) | 3:51 |
 | 100 | [La Bamba](https://open.spotify.com/track/1oDbPrTemDs4joED2sUEJP) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [The Best of Mexico](https://open.spotify.com/album/53ovjfvOTKp9wfeI0J35TM) | 2:47 |
 
-Snapshot ID: `MCwwNjI2MDhmNDFmOTFlYmI2OTZkZjU5OGUyYTczMmJhZjIxMWVmZjRh`
+Snapshot ID: `MCxlOWZmZTY0OWU3YjBjYzFhOTYxZDIxNTY2MDE3Mzk0Y2IxZjZmMzNl`

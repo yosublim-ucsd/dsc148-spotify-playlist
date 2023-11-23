@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. Charlotte Sands
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,426 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,410 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 79 | [A Sad Sad Song](https://open.spotify.com/track/5b9M4d2UlAOwPDAur72Z1G) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [People R Ugly](https://open.spotify.com/album/7zokQXDSsOzWWswmtKjZrL) | 2:52 |
 | 80 | [BLOODSTREAM](https://open.spotify.com/track/3ey44BzqrH2Si5FmeFZ300) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [BLOODSTREAM](https://open.spotify.com/album/3A1dpM3b53KREb9DeWsEoP) | 3:09 |
 
-Snapshot ID: `MCxhZTI2MThhYzNlY2M2NTc0NjkyMDcxYjUwNDkxOGNhZDA5YjI0NGVi`
+Snapshot ID: `MCxmYTk3MzJmMzY5ZDUzMTczNTM4OWI4MDZjMzk5ZTE1YTk2Y2YxOGVk`

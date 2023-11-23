@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "t\u00e1 olhando oq \u00f4 lingui\u00e7\u00e3o",
+  "description": "a retrospectiva Spotify vem ai...ta preparado?? assume seus b.o!!!!",
   "name": "Hits da Internet",
   "tracks": [
     {
@@ -2354,6 +2354,32 @@
       "duration_ms": 235206,
       "name": "Ela me Falou Que Quer Rave",
       "url": "https://open.spotify.com/track/0JdkDCdrhMOaeXjIZdeBXN"
+    },
+    {
+      "album": {
+        "name": "RICKNELSO",
+        "url": "https://open.spotify.com/album/2eKGskEpGoKMBahXHpM8ZR"
+      },
+      "artists": [
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "GORD\u00c3O DO PC",
+          "url": "https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Ela N\u00e3o Presta",
+      "url": "https://open.spotify.com/track/0GEagb54APuGgr0aKeJbAp"
     },
     {
       "album": {
@@ -6698,7 +6724,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 466744,
       "name": "Tchau Obrigado 2",
       "url": "https://open.spotify.com/track/1rlwNQVWtrM96ufHPHCwLG"
@@ -7660,6 +7686,24 @@
       "duration_ms": 120115,
       "name": "Vulgo Mc Paiva",
       "url": "https://open.spotify.com/track/6S2336rQHx8rcEGuCETufv"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "album": {

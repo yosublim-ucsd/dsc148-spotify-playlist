@@ -1,12 +1,12 @@
 {
   "description": "Las canciones de amor inolvidables de los 70.",
-  "num_followers": 1372683,
+  "num_followers": 1373008,
   "original_name": "70s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTNiZDdjZjJiYjQ0NDVmYWI1YzVhZTE1NjE1YmU2OGNjMmY3ZTEw",
+  "snapshot_id": "MCxiMzc4ZGY5MjgyODI0MjBhOTYyNDFmMWU1NjZhODM0NDQ3YmQ3NGZk",
   "tracks": [
     {
       "added_at": "2023-05-22 05:45:50",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-05-22 05:45:50",
       "album": {
+        "name": "Gorilla (2019 Remaster)",
+        "url": "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "How Sweet It Is (To Be Loved By You) - 2019 Remaster",
+      "url": "https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF"
+    },
+    {
+      "added_at": "2023-05-22 05:45:50",
+      "album": {
         "name": "Now & Then (Reissue)",
         "url": "https://open.spotify.com/album/0A7WaXRUZ2fkHtUYfeoF73"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 277960,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
-    },
-    {
-      "added_at": "2023-05-22 05:45:50",
-      "album": {
-        "name": "Gorilla (2019 Remaster)",
-        "url": "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "How Sweet It Is (To Be Loved By You) - 2019 Remaster",
-      "url": "https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF"
     },
     {
       "added_at": "2023-05-22 05:45:50",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-05-22 05:45:50",
       "album": {
-        "name": "Abandoned Luncheonette",
-        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 313373,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
-    },
-    {
-      "added_at": "2023-05-22 05:45:50",
-      "album": {
         "name": "Of A Simple Man",
         "url": "https://open.spotify.com/album/27rTUUNLERkGxzXxBr1d1u"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2023-05-22 05:45:50",
       "album": {
+        "name": "Abandoned Luncheonette",
+        "url": "https://open.spotify.com/album/47Dmo9RLpgHMusEiF8luvu"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 313373,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/5dFoWIiJ2814hRwMYDcFiU"
+    },
+    {
+      "added_at": "2023-05-22 05:45:50",
+      "album": {
         "name": "Make Your Move",
         "url": "https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 256666,
       "name": "Do That To Me One More Time",
       "url": "https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG"
+    },
+    {
+      "added_at": "2023-05-22 05:45:50",
+      "album": {
+        "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
+        "url": "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "You've Got a Friend - 2019 Remaster",
+      "url": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"
     },
     {
       "added_at": "2023-05-22 05:45:50",
@@ -695,22 +711,6 @@
       "duration_ms": 265973,
       "name": "Babe",
       "url": "https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt"
-    },
-    {
-      "added_at": "2023-05-22 05:45:50",
-      "album": {
-        "name": "Mud Slide Slim and the Blue Horizon (2019 Remaster)",
-        "url": "https://open.spotify.com/album/3ahHxtwRwMIdHcAo0MEXxX"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "You've Got a Friend - 2019 Remaster",
-      "url": "https://open.spotify.com/track/6zV8IpLvw0tkRSVCFQJB1y"
     },
     {
       "added_at": "2023-05-22 05:45:50",

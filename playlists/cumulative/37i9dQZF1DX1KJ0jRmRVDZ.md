@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-889 songs - 2 day 2 hr 50 min
+890 songs - 2 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -567,7 +567,8 @@
 | [ホーラ](https://open.spotify.com/track/50XSXcuibBs69Wzwpoy8mM) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [ホーラ](https://open.spotify.com/album/1UTgtOudDQjoJH0BUEGQRo) | 3:13 | 2022-06-13 | 2022-07-07 |
 | [マダ](https://open.spotify.com/track/5sT1HVShyWkWaKb16JP2px) | [うらたぬき](https://open.spotify.com/artist/72sQdYlvuZr27NBEcppyXe) | [Toni9ht](https://open.spotify.com/album/06jHnQM8LjAgU8oSGWXGcy) | 2:37 | 2022-07-05 | 2022-07-07 |
 | [マヤの時辰儀](https://open.spotify.com/track/3xBy7KnRsDwJT7PV1kxRd9) | [Heavenz](https://open.spotify.com/artist/5irL1slWEq9iei6AFKbBTo), [mizuki](https://open.spotify.com/artist/7dmSZsl5g1La0G3VIIzuas) | [マヤの時辰儀](https://open.spotify.com/album/6ieTNVAjyjMGgV40nfjL19) | 4:53 | 2022-06-23 | 2022-06-26 |
-| [マンネリウィークエンド](https://open.spotify.com/track/2s9Uki9DWCJ6DxLNeEt6NH) | [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [マンネリウィークエンド](https://open.spotify.com/album/32rK5dEvV8Lu0PNBpvKxkd) | 3:13 | 2023-11-14 |  |
+| [マンネリウィークエンド](https://open.spotify.com/track/2s9Uki9DWCJ6DxLNeEt6NH) | [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [マンネリウィークエンド](https://open.spotify.com/album/32rK5dEvV8Lu0PNBpvKxkd) | 3:13 | 2023-11-14 | 2023-11-23 |
+| [マンネリウィークエンド](https://open.spotify.com/track/34qr8Cp46RRSzDAPYpHf1u) | [FAKE TYPE.](https://open.spotify.com/artist/3wvCMqwyJachksGLF0kjMJ), [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4) | [FAKE SWING 2](https://open.spotify.com/album/08agBb2R2sUIaqPGpzNI25) | 3:13 | 2023-11-21 |  |
 | [マーダーサーカス](https://open.spotify.com/track/1OkJS4hS5MRGzxROhiVGbo) | [Lezel](https://open.spotify.com/artist/6Dt654Ld9lg3i6fjLGClz7) | [マーダーサーカス](https://open.spotify.com/album/0EJ0RMZwexZzBlcjSL8522) | 3:11 | 2022-06-21 | 2022-07-05 |
 | [ミスター](https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ミスター](https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt) | 3:07 | 2022-06-09 | 2023-11-05 |
 | [ミミクリーマン](https://open.spotify.com/track/2jeJlKMzqrGrCYJZYFL4Pc) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI), [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [ミミクリーマン](https://open.spotify.com/album/3KhJWcKUJrmr9AG9g3iI5I) | 3:55 | 2022-06-09 | 2022-07-28 |

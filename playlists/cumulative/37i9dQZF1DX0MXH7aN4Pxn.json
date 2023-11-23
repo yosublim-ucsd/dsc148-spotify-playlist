@@ -97,6 +97,24 @@
     },
     {
       "album": {
+        "name": "Do That EP",
+        "url": "https://open.spotify.com/album/0JYLFoVSCplUAgU55biKTa"
+      },
+      "artists": [
+        {
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163245,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/6m4nNzJAiWFePTf5IlwReN"
+    },
+    {
+      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/3p0BU885ZO6h15ShwrV0kj"
       },
@@ -2046,7 +2064,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 215294,
       "name": "Faith",
       "url": "https://open.spotify.com/track/6pvWQ658tA5tXa07TGAb0i"

@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste releases elke vrijdag op Spotify! Cover: Snelle",
-  "num_followers": 259223,
+  "num_followers": 259234,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODliNDBjYTJiMGM0YmQ0YjI5OGFiZDdlMzNkYWYyZjUxZTZjM2Iw",
+  "snapshot_id": "MCw1N2I2NTVkMTE3MTYwMmZmZmVlNDk2NmQ5ZGY3Y2QwNTg1MmZkYjQx",
   "tracks": [
     {
       "added_at": "2023-11-17 10:34:03",
@@ -602,6 +602,10 @@
         {
           "name": "H.E.R.",
           "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
       "duration_ms": 211190,

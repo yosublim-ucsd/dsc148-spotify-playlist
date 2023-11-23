@@ -1,12 +1,12 @@
 {
   "description": "Big rooms and big sounds. Cover: Hardwell & Afrojack",
-  "num_followers": 467462,
+  "num_followers": 467574,
   "original_name": "Big Room Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjRlN2M4YzUyZDUwMGY4MWQ2NjY3YmE0YWM3YTU1OTVjMjZkMjQz",
+  "snapshot_id": "MCxmM2U2NWIzMWI4MmVkMDQ0OGI0N2M5MzZhOTAwNzE5YWM0ZTI4MDI0",
   "tracks": [
     {
       "added_at": "2023-11-16 23:00:00",
@@ -291,22 +291,26 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "Let Me Think About It Again",
-        "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/5u1NYKRPYx8KkcAVXXryQS"
       },
       "artists": [
         {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         },
         {
-          "name": "Ida Corr",
-          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
+          "name": "DJs From Mars",
+          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
+        },
+        {
+          "name": "Tomcraft",
+          "url": "https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp"
         }
       ],
-      "duration_ms": 195813,
-      "name": "Let Me Think About It Again",
-      "url": "https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY"
+      "duration_ms": 163555,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/0iFxSf5RjiybnVSjofFEBg"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -347,26 +351,22 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/5u1NYKRPYx8KkcAVXXryQS"
+        "name": "Let Me Think About It Again",
+        "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
       },
       "artists": [
         {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
         },
         {
-          "name": "DJs From Mars",
-          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
-        },
-        {
-          "name": "Tomcraft",
-          "url": "https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp"
+          "name": "Ida Corr",
+          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
         }
       ],
-      "duration_ms": 163555,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/0iFxSf5RjiybnVSjofFEBg"
+      "duration_ms": 195813,
+      "name": "Let Me Think About It Again",
+      "url": "https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -447,26 +447,6 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "Follow",
-        "url": "https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        }
-      ],
-      "duration_ms": 221220,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
         "name": "I Wanna Dance",
         "url": "https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 198805,
       "name": "I Wanna Dance",
       "url": "https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        }
+      ],
+      "duration_ms": 221220,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -599,6 +599,26 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
+        "name": "REBELS NEVER DIE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
+      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
         "name": "Won't Forget You (Remixes)",
         "url": "https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 192000,
       "name": "Dance With The Devil (The 6th Gate) (Reinier Zonneveld Remix)",
       "url": "https://open.spotify.com/track/4Q6TuhtBOgaV0m8mlccIpU"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
-        "name": "REBELS NEVER DIE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 189374,
-      "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
-      "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
+        "name": "It Burns - EP",
+        "url": "https://open.spotify.com/album/2Ez7bO7GYBLHsgXdApOnl2"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "duration_ms": 192619,
+      "name": "It Burns",
+      "url": "https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
         "name": "Hands Up",
         "url": "https://open.spotify.com/album/0H0NrzTM22cyfL4jXEySzf"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "It Burns - EP",
-        "url": "https://open.spotify.com/album/2Ez7bO7GYBLHsgXdApOnl2"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        }
-      ],
-      "duration_ms": 192619,
-      "name": "It Burns",
-      "url": "https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
         "name": "Motor",
         "url": "https://open.spotify.com/album/0x6mXhYCkb1icLuxTLhAr4"
       },
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "Accepted Concept",
-        "url": "https://open.spotify.com/album/5026e5pinYOgls5mjv1duU"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 171006,
-      "name": "The Chant",
-      "url": "https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/3HS2cRx6K0TpmTDkBPiykk"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 159406,
       "name": "Killing Me Softly",
       "url": "https://open.spotify.com/track/3LL8dZ33Gd7u7DFrkqPfo3"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
+        "name": "Accepted Concept",
+        "url": "https://open.spotify.com/album/5026e5pinYOgls5mjv1duU"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 171006,
+      "name": "The Chant",
+      "url": "https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -959,26 +959,6 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "Let Me Be Your Fantasy",
-        "url": "https://open.spotify.com/album/7xgkEBwCZmK4dOkh2648dV"
-      },
-      "artists": [
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        },
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Let Me Be Your Fantasy",
-      "url": "https://open.spotify.com/track/4fGOsBz3c3d3CXAmc1kLob"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
         "name": "Computers Take Over The World (Remixes)",
         "url": "https://open.spotify.com/album/6VhnussdJIvf9LGBVkUr6J"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 183555,
       "name": "He's A Pirate",
       "url": "https://open.spotify.com/track/45kPbDRRY5kWe8p6OO2YvM"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
+        "name": "Let Me Be Your Fantasy",
+        "url": "https://open.spotify.com/album/7xgkEBwCZmK4dOkh2648dV"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Let Me Be Your Fantasy",
+      "url": "https://open.spotify.com/track/4fGOsBz3c3d3CXAmc1kLob"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "No Pictures",
-        "url": "https://open.spotify.com/album/573qIEbqPVxrCYCjnr7U3l"
-      },
-      "artists": [
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        }
-      ],
-      "duration_ms": 150234,
-      "name": "No Pictures",
-      "url": "https://open.spotify.com/track/18nfqYE5Jl9YsJnj2hEEiB"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
         "name": "Thrill",
         "url": "https://open.spotify.com/album/5TqgtXhlVZi0KwEdWr1AST"
       },
@@ -1147,6 +1131,26 @@
       "duration_ms": 237157,
       "name": "WANNA GO BANG",
       "url": "https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
+        "name": "Spirits",
+        "url": "https://open.spotify.com/album/587i2QIX8EqgyCBBYMlov5"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "RIELL",
+          "url": "https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd"
+        }
+      ],
+      "duration_ms": 233587,
+      "name": "Spirits",
+      "url": "https://open.spotify.com/track/7gApd1GU1it6ZpTMU1Xa2T"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -1207,22 +1211,18 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "Spirits",
-        "url": "https://open.spotify.com/album/587i2QIX8EqgyCBBYMlov5"
+        "name": "No Pictures",
+        "url": "https://open.spotify.com/album/573qIEbqPVxrCYCjnr7U3l"
       },
       "artists": [
         {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "RIELL",
-          "url": "https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd"
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
         }
       ],
-      "duration_ms": 233587,
-      "name": "Spirits",
-      "url": "https://open.spotify.com/track/7gApd1GU1it6ZpTMU1Xa2T"
+      "duration_ms": 150234,
+      "name": "No Pictures",
+      "url": "https://open.spotify.com/track/18nfqYE5Jl9YsJnj2hEEiB"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "The Wave (Legacy Edit)",
-        "url": "https://open.spotify.com/album/4FueCgISobfwBlgXwsOBQy"
-      },
-      "artists": [
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        },
-        {
-          "name": "X-TOF",
-          "url": "https://open.spotify.com/artist/04XgEt5RkgdF4EM9lZyKCE"
-        }
-      ],
-      "duration_ms": 185192,
-      "name": "The Wave - Legacy Edit",
-      "url": "https://open.spotify.com/track/5zcJw3n3pJKhTIf4Pr7VgF"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
         "name": "Apex",
         "url": "https://open.spotify.com/album/39DFgihpiauLPgVncx2g4J"
       },
@@ -1403,26 +1383,6 @@
       "duration_ms": 261879,
       "name": "Apex",
       "url": "https://open.spotify.com/track/2rkYtkOUorjiLp4kDdnOzk"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
-        "name": "Dark Water",
-        "url": "https://open.spotify.com/album/79RBEFYqd3CZZZ3iqQuRRK"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        },
-        {
-          "name": "JESSCA",
-          "url": "https://open.spotify.com/artist/4ZUkMKPfAdbnBHuZZyjXf9"
-        }
-      ],
-      "duration_ms": 206733,
-      "name": "Dark Water",
-      "url": "https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -1447,22 +1407,42 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "We Go Out",
-        "url": "https://open.spotify.com/album/2S4ZrXG3eyX4HMCaOzpnyg"
+        "name": "Dark Water",
+        "url": "https://open.spotify.com/album/79RBEFYqd3CZZZ3iqQuRRK"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
         },
         {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+          "name": "JESSCA",
+          "url": "https://open.spotify.com/artist/4ZUkMKPfAdbnBHuZZyjXf9"
         }
       ],
-      "duration_ms": 170010,
-      "name": "We Go Out",
-      "url": "https://open.spotify.com/track/6AinKYxrQuioECwavX1XQn"
+      "duration_ms": 206733,
+      "name": "Dark Water",
+      "url": "https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
+        "name": "The Wave (Legacy Edit)",
+        "url": "https://open.spotify.com/album/4FueCgISobfwBlgXwsOBQy"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        {
+          "name": "X-TOF",
+          "url": "https://open.spotify.com/artist/04XgEt5RkgdF4EM9lZyKCE"
+        }
+      ],
+      "duration_ms": 185192,
+      "name": "The Wave - Legacy Edit",
+      "url": "https://open.spotify.com/track/5zcJw3n3pJKhTIf4Pr7VgF"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -1487,6 +1467,26 @@
       "duration_ms": 243529,
       "name": "Cannonball - Will Sparks Remix",
       "url": "https://open.spotify.com/track/4wRKAezWo1oLA0g2fw0XE9"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
+        "name": "We Go Out",
+        "url": "https://open.spotify.com/album/2S4ZrXG3eyX4HMCaOzpnyg"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "duration_ms": 170010,
+      "name": "We Go Out",
+      "url": "https://open.spotify.com/track/6AinKYxrQuioECwavX1XQn"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -1531,42 +1531,6 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "Lose It",
-        "url": "https://open.spotify.com/album/1WaJKd3G4P2d6KQch1PyYj"
-      },
-      "artists": [
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        },
-        {
-          "name": "SaberZ",
-          "url": "https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Lose It",
-      "url": "https://open.spotify.com/track/0fWJG4fB5xWnpA7FWF6PXd"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
-        "name": "BANG!",
-        "url": "https://open.spotify.com/album/3u5seutkhK9M6DdLiTaZMa"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        }
-      ],
-      "duration_ms": 168775,
-      "name": "BANG!",
-      "url": "https://open.spotify.com/track/5FsTWdLoi1GTy1B6KIMO8N"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
         "name": "Spitfire",
         "url": "https://open.spotify.com/album/3uVzRplKnlKereBzUsE4zG"
       },
@@ -1583,6 +1547,26 @@
       "duration_ms": 164090,
       "name": "Spitfire",
       "url": "https://open.spotify.com/track/7j9J5wZI8xVd9H8iy8fHES"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
+        "name": "Lose It",
+        "url": "https://open.spotify.com/album/1WaJKd3G4P2d6KQch1PyYj"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        {
+          "name": "SaberZ",
+          "url": "https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Lose It",
+      "url": "https://open.spotify.com/track/0fWJG4fB5xWnpA7FWF6PXd"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -1607,22 +1591,18 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/3z7h4c33zeC577R9EWwksj"
+        "name": "BANG!",
+        "url": "https://open.spotify.com/album/3u5seutkhK9M6DdLiTaZMa"
       },
       "artists": [
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
         }
       ],
-      "duration_ms": 251933,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/7vSx1uzjLF2elseUEFDDgu"
+      "duration_ms": 168775,
+      "name": "BANG!",
+      "url": "https://open.spotify.com/track/5FsTWdLoi1GTy1B6KIMO8N"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -1643,6 +1623,26 @@
       "duration_ms": 264374,
       "name": "TARAKA - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/3tDhrE0UftmIEuPwBLUf7d"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/3z7h4c33zeC577R9EWwksj"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/7vSx1uzjLF2elseUEFDDgu"
     },
     {
       "added_at": "2023-11-16 23:00:00",

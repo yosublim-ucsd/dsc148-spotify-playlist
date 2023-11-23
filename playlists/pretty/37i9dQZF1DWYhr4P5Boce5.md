@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,461 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,485 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,10 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 41 | [Safe](https://open.spotify.com/track/33AwnZl99mjxjNjMIbflbH) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Safe](https://open.spotify.com/album/3PD9s1GRpT7ahstwgF6AlX) | 4:30 |
 | 42 | [Angel](https://open.spotify.com/track/7qO1aodqqumMLHFybn0AvP) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Come To The Well](https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze) | 3:44 |
 | 43 | [The Marriage Prayer](https://open.spotify.com/track/2no4dAQQt46aVsrlkriysB) | [John Waller](https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL) | [As for Me and My House](https://open.spotify.com/album/6fcO3Z9ItTTxCHQzCcNFc2) | 4:05 |
-| 44 | [Love Song](https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Love Song](https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9) | 3:34 |
-| 45 | [This Loving](https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [This Loving](https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr) | 2:36 |
-| 46 | [This Is Love](https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [This Is Love](https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY) | 3:11 |
-| 47 | [Meant to Be](https://open.spotify.com/track/2YGu3QpHqj5AHtS8RzFQdW) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Meant to Be](https://open.spotify.com/album/1SC4K6OlwiX7QGUfdBHneY) | 3:06 |
+| 44 | [This Loving](https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [This Loving](https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr) | 2:36 |
+| 45 | [Love Song](https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Love Song](https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9) | 3:34 |
+| 46 | [Meant to Be](https://open.spotify.com/track/2YGu3QpHqj5AHtS8RzFQdW) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Meant to Be](https://open.spotify.com/album/1SC4K6OlwiX7QGUfdBHneY) | 3:06 |
+| 47 | [This Is Love](https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [This Is Love](https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY) | 3:11 |
 | 48 | [Love Me Like I Am](https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Love Me Like I Am](https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR) | 3:04 |
 | 49 | [Till I Found You](https://open.spotify.com/track/1var9mNP1RLTlu8qVDji0F) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Till I Found You](https://open.spotify.com/album/5i8yKKrI71gqHdXxYafYAo) | 4:00 |
 | 50 | [Faith Hope Love Repeat](https://open.spotify.com/track/67OCXWC93GcixTk3wYvX9c) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Faith Hope Love Repeat](https://open.spotify.com/album/4lpaCFD1YtduxtT2W1jlNb) | 4:01 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 65 | [Love Letter](https://open.spotify.com/track/3vVRe4hWXAhC7Q5NNVvqPc) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Love Letter](https://open.spotify.com/album/3xN0nvkOFcvxlT2LeyxtDd) | 2:59 |
 | 66 | [Another Song About Love](https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Enough Already](https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco) | 3:11 |
 | 67 | [YOU](https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [YOU](https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4) | 3:08 |
-| 68 | [Pilots](https://open.spotify.com/track/1t3koreZmmgvTYvxATwqfz) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [The Soul](https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0) | 3:39 |
-| 69 | [Letters](https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8) | [LaPeer](https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc) | ['90s Kids](https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h) | 3:26 |
+| 68 | [Letters](https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8) | [LaPeer](https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc) | ['90s Kids](https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h) | 3:26 |
+| 69 | [Pilots](https://open.spotify.com/track/1t3koreZmmgvTYvxATwqfz) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [The Soul](https://open.spotify.com/album/3ziyaxQziaPPYaUYKl4uR0) | 3:39 |
 | 70 | [Dear Future Wife \- Acoustic](https://open.spotify.com/track/2MIbcBadDFvf6WQghSFekw) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Dear Future Wife \(Acoustic\)](https://open.spotify.com/album/1VKgGEv8tyviSxzw181xxg) | 2:48 |
 | 71 | [How Much You Mean To Me](https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [How Much You Mean To Me](https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0) | 3:38 |
 | 72 | [YOU'RE THE ONE I WANT](https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [NATIVE TONGUE](https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc) | 2:05 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 80 | [Can't Quit You](https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Colton Dixon](https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B) | 3:20 |
 | 81 | [Loving You Is Easy](https://open.spotify.com/track/1HuGBQWHagNJLx57lp1rcP) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [No Far Away](https://open.spotify.com/album/4DR24RXyrZxcHD7UZTj8tA) | 3:08 |
 | 82 | [Wait For You](https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h) | [Wait For You](https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw) | 2:12 |
-| 83 | [Love Will Never Fail \(I Corinthians 13\)](https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY) | [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh) | [Love Will Never Fail](https://open.spotify.com/album/1bVIUQcllEzUNmxYqEsk5h) | 3:19 |
-| 84 | [Pretty Beautiful](https://open.spotify.com/track/3rMhxwfj0i7t2N3bTx6vuY) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/58MAD1NrlMznn1k5C4up8M) | 3:07 |
+| 83 | [Pretty Beautiful](https://open.spotify.com/track/3rMhxwfj0i7t2N3bTx6vuY) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/58MAD1NrlMznn1k5C4up8M) | 3:07 |
+| 84 | [Love Will Never Fail \(I Corinthians 13\)](https://open.spotify.com/track/3tXcHkiprWXY3pfkkzoWUY) | [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh) | [Love Will Never Fail](https://open.spotify.com/album/1bVIUQcllEzUNmxYqEsk5h) | 3:19 |
 | 85 | [Lemonade](https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [What A Heart Is Beating For](https://open.spotify.com/album/077nEk4a0GRzvBuMphKmYs) | 3:03 |
 | 86 | [Perfect Love](https://open.spotify.com/track/3GnOOXcTykwVEoxTz2rF8u) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Perfect Love](https://open.spotify.com/album/28WgOahB2gvQUOZAOW6NVd) | 3:21 |
 | 87 | [Feel The Waters](https://open.spotify.com/track/4aIqxQgeNADC1RmI3uYdxb) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 4:04 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 89 | [If Only](https://open.spotify.com/track/3LJr3TanDnPqDHXWzet4Yi) | [Million Miles](https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm) | [If Only](https://open.spotify.com/album/5GOzSUBrOb6PaXHMQQixr2) | 3:27 |
 | 90 | [Fallin In Love](https://open.spotify.com/track/6lSKrLc95qy97lCE6CXSZb) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [Britt Nicole \(Deluxe Edition\)](https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM) | 4:11 |
 | 91 | [Band of Gold // Summer Sessions](https://open.spotify.com/track/3LOJIVOfwVfbeflndxQx3j) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Band of Gold // Summer Sessions](https://open.spotify.com/album/5has36k6H1PClwTsdEhSKU) | 3:28 |
-| 92 | [Till I Found You](https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4) | [Becca Bradley](https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU), [The Psalm Room](https://open.spotify.com/artist/2oPhfJuwBg41qIyMzzSsaW) | [Till I Found You](https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou) | 3:26 |
-| 93 | [Midwest Magic](https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Heartland](https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d) | 3:43 |
+| 92 | [Midwest Magic](https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Heartland](https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d) | 3:43 |
+| 93 | [Till I Found You](https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4) | [Becca Bradley](https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU), [The Psalm Room](https://open.spotify.com/artist/2oPhfJuwBg41qIyMzzSsaW) | [Till I Found You](https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou) | 3:26 |
 | 94 | [Te Quiero Cerca](https://open.spotify.com/track/480guoEvEQRmEjsmq35ypE) | [Harold y Elena](https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL) | [Te Quiero Cerca](https://open.spotify.com/album/7gp9Iqcg9xX9A8XcKGmiUU) | 3:47 |
 | 95 | [SHE](https://open.spotify.com/track/0QOkTTHHu298cUM38FZTd8) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [SHE](https://open.spotify.com/album/02f36Pk33LsVh9tkAyZobH) | 3:44 |
 | 96 | [I do](https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa) | [Caitie Hurst](https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b) | [I do](https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 99 | [BUSY](https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [BUSY](https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC) | 2:07 |
 | 100 | [Oh How I Love You \- R&B Version](https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Oh How I Love You](https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr) | 3:53 |
 
-Snapshot ID: `MCw3NjE1NGRmNjllMWQwMWRkYjlmZTljZDE5MmViZWMyOTIzMWZmZDU2`
+Snapshot ID: `MCw4MDkyYmM2ODIxMjgzMTMxMjA1ZWE5ZmU0ZGMyN2NkZDQzOWQwZDdj`

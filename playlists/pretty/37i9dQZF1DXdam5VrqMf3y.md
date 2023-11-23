@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 
 > Your favorite holiday tunes, like you've never heard before\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,253 likes - 83 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,397 likes - 83 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 | 49 | [In The Morning \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/3xpxZ6cMMY4B49ytbFo1LL) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Spotify Singles \- Holiday](https://open.spotify.com/album/1uzMDh8QFZHkCw4fFsqQFr) | 3:01 |
 | 50 | [Make It Jingle \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/1IYH6s2qo2RHjtH3ILO5MB) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Spotify Singles \- Holiday](https://open.spotify.com/album/0ybmEyT3DY9ZucUieIP7IV) | 3:17 |
 | 51 | [Silent Night \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6VfL1VmTLZDVtTbxWMvmtj) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [Silent Night \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/album/3HLtBaCRyg6J3Axd585iWS) | 4:23 |
-| 52 | [Mistletoe \- Recorded at Electric Lady Studios NYC.](https://open.spotify.com/track/7vW6JovXotgbToBedYaznx) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Mistletoe \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/album/3RztE1FplfDqTSZu9oE9Ps) | 3:04 |
+| 52 | [Mistletoe \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/7vW6JovXotgbToBedYaznx) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Mistletoe \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/album/3RztE1FplfDqTSZu9oE9Ps) | 3:04 |
 | 53 | [Christmas Wrapping](https://open.spotify.com/track/6pq23eiUqcB8WogaPqtaXB) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Spotify Singles \- Holiday](https://open.spotify.com/album/2h0VfPEhVcpcQdAWja6amX) | 3:13 |
 | 54 | [Jingle Bells \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0MxRRwGZhC4eWNhbqcLkDI) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [Spotify Singles \- Holiday](https://open.spotify.com/album/76CnhLRU413n1WfIqbsGT3) | 2:20 |
 | 55 | [Last Christmas \- Recorded at Spotify Studios NYC \- Live](https://open.spotify.com/track/5xEGUxCXZxRFicoMlDgn9v) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles \- Holiday \(Live\)](https://open.spotify.com/album/1LsoxRCERzWRpdxoPfyOPB) | 3:22 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 | 82 | [Shchedrivka \- Spotify Singles Holiday](https://open.spotify.com/track/2ScUNIrBDPOR1bj36Z7QjC) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Spotify Singles Holiday](https://open.spotify.com/album/2NVzutkr3TkBwCz0QdA51H) | 2:17 |
 | 83 | [Must Be Santa \- Spotify Singles Holiday](https://open.spotify.com/track/04LnqfQEzvutfUhSylWowv) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Must Be Santa \(Spotify Singles Holiday\)](https://open.spotify.com/album/0wJyKcyU78UBHupNdCEtW4) | 5:11 |
 
-Snapshot ID: `MCw2ODc3NGI4YTA3NTM2YWNjNTg2MTQzOGZmMmIwNTVjMGQzMGZjMWY2`
+Snapshot ID: `MCw5ZDAyYjlkZTVjNWFiNWVjMmQ4YmYyOGNjNTVkNjhhYzk0OGMzNGQw`

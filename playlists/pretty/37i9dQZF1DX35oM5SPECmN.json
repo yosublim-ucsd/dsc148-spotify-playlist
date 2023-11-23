@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
-  "num_followers": 2391854,
+  "num_followers": 2391813,
   "original_name": "Run Wild",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YmRjYzFmZDNjMTYyNWU5ZjcwYWQzY2MyZDQxYjQzODdiZmNmZTQ3",
+  "snapshot_id": "MCxhYjg1ZjYzNWIzYTI0MjU4ZTQ1YjJhNTc3ZWQ1ZjFlYmIwN2VmN2Jk",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Jade Bird",
+        "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 142443,
+      "name": "Uh Huh",
+      "url": "https://open.spotify.com/track/5sRyU2xqnQvCzL6L0OMD37"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Strays",
         "url": "https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 169186,
       "name": "Radio [Feat. Sharon Van Etten]",
       "url": "https://open.spotify.com/track/0J4TuecWdkdRAPbTZXxy62"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Jade Bird",
-        "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 142443,
-      "name": "Uh Huh",
-      "url": "https://open.spotify.com/track/5sRyU2xqnQvCzL6L0OMD37"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -911,38 +911,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "All Or Nothin'",
-        "url": "https://open.spotify.com/album/1d0rJFoBz1G0QsIpyYOa1s"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Right Time",
-      "url": "https://open.spotify.com/track/33bIBZTNim7ZxKrhEAXYyu"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Bad Moves",
-        "url": "https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "Bad Moves",
-      "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Salt",
         "url": "https://open.spotify.com/album/28pyk4QKjNKAt7fXL27Jth"
       },
@@ -959,6 +927,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "All Or Nothin'",
+        "url": "https://open.spotify.com/album/1d0rJFoBz1G0QsIpyYOa1s"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 201666,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/33bIBZTNim7ZxKrhEAXYyu"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "When The Night",
         "url": "https://open.spotify.com/album/7fbye8EAeiLsiKAe2upMEh"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 308360,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/5BxVRqpZi6tIhAap1ZjzVD"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Bad Moves",
+        "url": "https://open.spotify.com/album/6c2fkeEyjpOCqJqj5L6BTy"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "Bad Moves",
+      "url": "https://open.spotify.com/track/04LtT3aIQTrKUpVR9UG3OL"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Exit Wounds",
+        "url": "https://open.spotify.com/album/53XIkqGsvjR2WayoVSvz6l"
+      },
+      "artists": [
+        {
+          "name": "The Wallflowers",
+          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
+        }
+      ],
+      "duration_ms": 234694,
+      "name": "Roots And Wings",
+      "url": "https://open.spotify.com/track/6p2ptJ8ZTeN7Qi7I64oG74"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Classic",
         "url": "https://open.spotify.com/album/5uYr1aUdzhYkW4QkY45vPR"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 235226,
       "name": "Expectations",
       "url": "https://open.spotify.com/track/5j5bXVwxBapNPj0MbYBa6f"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Exit Wounds",
-        "url": "https://open.spotify.com/album/53XIkqGsvjR2WayoVSvz6l"
-      },
-      "artists": [
-        {
-          "name": "The Wallflowers",
-          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
-        }
-      ],
-      "duration_ms": 234694,
-      "name": "Roots And Wings",
-      "url": "https://open.spotify.com/track/6p2ptJ8ZTeN7Qi7I64oG74"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Dream Within a Dream",
-        "url": "https://open.spotify.com/album/5NnQzQNyUQMwiHTzNrrGdx"
-      },
-      "artists": [
-        {
-          "name": "Tristen",
-          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
-        }
-      ],
-      "duration_ms": 168080,
-      "name": "Dream Within a Dream",
-      "url": "https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "In The Wind",
         "url": "https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 250786,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/3bAgQ4fNuTVf98RtiVgKRv"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Dream Within a Dream",
+        "url": "https://open.spotify.com/album/5NnQzQNyUQMwiHTzNrrGdx"
+      },
+      "artists": [
+        {
+          "name": "Tristen",
+          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
+        }
+      ],
+      "duration_ms": 168080,
+      "name": "Dream Within a Dream",
+      "url": "https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw"
     }
   ],
   "unique_name": "Run Wild",

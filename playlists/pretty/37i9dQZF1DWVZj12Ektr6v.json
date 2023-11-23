@@ -1,13 +1,33 @@
 {
   "description": "To The World, Here is NCT! Hi we are NCT DREAM!",
-  "num_followers": 301589,
+  "num_followers": 301656,
   "original_name": "This Is NCT DREAM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTg5NzFjNDZhMGFjYTE5NWVlYzY4ZTU1YTMzZGQ2MmY0Y2JmY2M4",
+  "snapshot_id": "MCxkZDgzMmI4OTA2NzQ0YWJjNWY3ODZiMmFlY2Q2N2FmNzM1ZDQ3MGJj",
   "tracks": [
+    {
+      "added_at": "2023-11-22 15:00:14",
+      "album": {
+        "name": "Broken Melodies (JVKE Remix)",
+        "url": "https://open.spotify.com/album/3YnDJuzNXU0pT9g1CniODn"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "Broken Melodies - JVKE Remix",
+      "url": "https://open.spotify.com/track/2LqesWzQTXoMv01fZTz0rh"
+    },
     {
       "added_at": "2023-07-17 09:00:00",
       "album": {

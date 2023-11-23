@@ -4,7 +4,7 @@
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-118 songs - 11 hr 36 min
+119 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Dance, Dance, Dance \(Yowsah, Yowsah, Yowsah\)](https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Dance, Dance, Dance: The Best of Chic](https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd) | 8:21 | 2022-05-17 |  |
 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 | 2022-05-17 |  |
 | [Date With The Rain](https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS) | [Eddie Kendricks](https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn) | [People..\. Hold On](https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS) | 2:40 | 2022-05-17 |  |
+| [Doctor Love \(Tom Moulton 12" Mix\)](https://open.spotify.com/track/1xifiLRb2Uo6kBzZruN6rw) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4) | [Delusions \(Bonus Version\)](https://open.spotify.com/album/0TEdP49Slshj2dxALw1ONj) | 7:37 | 2023-09-18 |  |
 | [Doctor Love \- Tom Moulton 12" Mix](https://open.spotify.com/track/0zewaxyhaiad2J2V8X12GL) | [First Choice](https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | [Delusions \(Bonus Version\)](https://open.spotify.com/album/0YbZ9lgPYhxGHS2zpRIOZg) | 7:37 | 2022-05-17 | 2023-11-04 |
 | [Don't You Want My Love \- Remastered](https://open.spotify.com/track/4ti2wje1ckDWltwP45ea9U) | [Debbie Jacobs](https://open.spotify.com/artist/3CR8jIKs7xwpWHZ1s8CgBL) | [Don't You Want My Love](https://open.spotify.com/album/3wbkiu4RK9zumoN2ibzd5h) | 7:48 | 2022-05-17 |  |
 | [Earth Can Be Just Like Heaven](https://open.spotify.com/track/2JtOzmQZb3aJjfvrVt73hF) | [Two Tons O' Fun](https://open.spotify.com/artist/3PCgPbv5fHI2KvXHCkAkCi) | [Get The Feeling](https://open.spotify.com/album/3azVmwEJkiz3GcH8zNA7rQ) | 4:25 | 2022-05-17 | 2022-07-29 |
@@ -58,7 +59,7 @@
 | [If You Could Read My Mind](https://open.spotify.com/track/009bHl93A8kHlbDJLjkqHV) | [Viola Wills](https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8) | [Disco Town](https://open.spotify.com/album/5V85BzpisFxZyK5bhlUZei) | 3:24 | 2022-05-17 | 2022-07-28 |
 | [If You Could Read My Mind](https://open.spotify.com/track/6SuipERmfkj0SDFkK6wAeR) | [Viola Wills](https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8) | [If You Could Read My Mind](https://open.spotify.com/album/0yCVcOhMbzwhCL1b8lYq8z) | 5:35 | 2022-05-17 | 2022-09-13 |
 | [If You Could Read My Mind \- Studio 54](https://open.spotify.com/track/6MVRSthLVJ9KHffbIngIUf) | [The Oscar Hollywood Films](https://open.spotify.com/artist/3eJjmSyANG0ZoJzVvKQO60) | [Estrenos De Cine Vol.2](https://open.spotify.com/album/3INlqEP71qu66PAZjA6U3O) | 3:29 | 2022-07-15 | 2022-09-13 |
-| [If You Could Read My Mind \- The Disconet Re\-Edit](https://open.spotify.com/track/3EG8FaTTO2uCoWv0KRP696) | [Viola Wills](https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8) | [If You Could Read My Mind](https://open.spotify.com/album/4RorVVZCpGY24vI4HpGW4L) | 12:03 | 2022-09-12 |  |
+| [If You Could Read My Mind \- The Disconet Re\-Edit](https://open.spotify.com/track/3EG8FaTTO2uCoWv0KRP696) | [Viola Wills](https://open.spotify.com/artist/3zFfbTj9QY7pvmtjI53DB8) | [If You Could Read My Mind](https://open.spotify.com/album/4RorVVZCpGY24vI4HpGW4L) | 12:03 | 2022-09-12 | 2023-11-23 |
 | [In The Navy \- Single Version](https://open.spotify.com/track/3qUfFs8rW6FukRFnfRctTq) | [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW) | [Go West](https://open.spotify.com/album/0nEUsJwm1yIl9IyC5z8oJb) | 5:40 | 2022-05-17 |  |
 | [Instant Replay](https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Instant Replay \(Expanded Edition\)](https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa) | 5:20 | 2022-05-17 |  |
 | [It's a Better Than Good Time](https://open.spotify.com/track/0htlkpMiT2nAUwpBxo64LL) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0) | [The Way We Were: The Best Of Gladys Knight & The Pips](https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE) | 5:46 | 2022-05-17 | 2022-07-29 |

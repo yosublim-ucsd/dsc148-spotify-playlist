@@ -11522,7 +11522,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 122385,
       "name": "ILG",
       "url": "https://open.spotify.com/track/2YvYluH4m4YSx9CP7sJsyD"
@@ -21494,6 +21494,24 @@
       "duration_ms": 194164,
       "name": "Showing Off",
       "url": "https://open.spotify.com/track/6UxQOvVfE9xfWdYotjw5xX"
+    },
+    {
+      "album": {
+        "name": "Sick With It",
+        "url": "https://open.spotify.com/album/2CwMbsVWMU3mQhvUhwzyIA"
+      },
+      "artists": [
+        {
+          "name": "Kevin Knapp",
+          "url": "https://open.spotify.com/artist/1qhZdOpfyWk2RbhTCpbAkv"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225208,
+      "name": "Sick With It",
+      "url": "https://open.spotify.com/track/15zpqXOkvL346KQVCK0lYT"
     },
     {
       "album": {

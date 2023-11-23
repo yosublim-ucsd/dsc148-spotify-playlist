@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,683 likes - 103 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,749 likes - 103 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 10 | [dngr](https://open.spotify.com/track/2f1RWCZRCiNB2EfPQQSBQG) | [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY) | [Late 20's Love Affair](https://open.spotify.com/album/5IBr2x2IAMYWtJ1rBvJMgv) | 2:09 |
 | 11 | [Ambrosia](https://open.spotify.com/track/0t4XPmrCs5f9JWo26yQdPz) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Ambrosia](https://open.spotify.com/album/6liLrRZ18eTnyKwKKdlhYB) | 3:06 |
 | 12 | [Chill Pad Deluxe](https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People / Afterhours](https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4) | 2:51 |
-| 13 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
+| 13 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
 | 14 | [Lately](https://open.spotify.com/track/1L7d0Jjf2QRvlw7hp4wQ6F) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Lately](https://open.spotify.com/album/0Gsq7UF8A26LS2CNh8liQn) | 2:30 |
 | 15 | [Jasmine](https://open.spotify.com/track/6bniCXManaPDnCN34waQs6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Jasmine](https://open.spotify.com/album/1DBHlk9JyIXfKOFtK7mYjQ) | 3:39 |
 | 16 | [Running For My Life](https://open.spotify.com/track/7gAR3P5oBKzYIuGTcRYS60) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [Everything's Conditional](https://open.spotify.com/album/4d3beSene5sO3fdKMvwmr0) | 3:45 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 28 | [U & I](https://open.spotify.com/track/4jBSQcXXIgmJF0ngkSbPCH) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [The NightBirds](https://open.spotify.com/artist/5y3PKV2Jacq5FBub8joiNJ) | [HOUSE OF GROOVE](https://open.spotify.com/album/0SAEMNzphsLut3Z5OZlmAo) | 3:36 |
 | 29 | [Nice to meet you \(feat\. Central Cee\)](https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:42 |
 | 30 | [concentrate](https://open.spotify.com/track/78BHW3aMoR2UrF1Pg1W0oc) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [concentrate](https://open.spotify.com/album/12Q6rsos506fgL55F1c5Ca) | 4:41 |
-| 31 | [Stay \(ft\. Omar Noir\)](https://open.spotify.com/track/3Ure17oumtGk8DeUXnjlwo) | [Nova North](https://open.spotify.com/artist/0m77k2AK3NjOt2nBk1n0Af), [Omar Noir](https://open.spotify.com/artist/5paQT78PtTz59108hibz4G) | [Boulevard](https://open.spotify.com/album/1oIeOYtDg50OC7PWYKuhQs) | 2:51 |
+| 31 | [Stay \(ft\. Omar Noir\)](https://open.spotify.com/track/1yyPP0oltWpmVSUZ5gJe4R) | [Nova North](https://open.spotify.com/artist/0m77k2AK3NjOt2nBk1n0Af), [Omar Noir](https://open.spotify.com/artist/5paQT78PtTz59108hibz4G) | [Boulevard](https://open.spotify.com/album/3JoxsektYkE7UQaDSqFE91) | 2:51 |
 | 32 | [Natural Habitat \(feat\. Ken Carson\)](https://open.spotify.com/track/3s9PhZ3X5NH3Dgrtd4K8lM) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Natural Habitat](https://open.spotify.com/album/4CkICP9DdEovx6lQdLpDj9) | 3:28 |
 | 33 | [Kinks](https://open.spotify.com/track/6biOWQ7B2x5VDxfZrQxg44) | [Smile High](https://open.spotify.com/artist/2TD6omXIh4gf6AJZlVV7oG), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT), [QUIN](https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA) | [Kinks](https://open.spotify.com/album/38xAsoxCRO7zuPsGfZi4Wv) | 3:33 |
 | 34 | [LIGHTS](https://open.spotify.com/track/1AoR3F9cAjoHm6qpB0wpFe) | [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [LIGHTS](https://open.spotify.com/album/2VOmS03kyA3Gqvf79dgp9c) | 3:07 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 102 | [Suspended](https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:05 |
 | 103 | [Out of my way](https://open.spotify.com/track/3IJva3DWEpzNA51HuB9kal) | [SoLonely](https://open.spotify.com/artist/5wLADFwrz9AGUJotefFzPv) | [Out of my way](https://open.spotify.com/album/73N684FrI6TzO1b9mPmDM6) | 2:48 |
 
-Snapshot ID: `MCwxNjEwYzI2Y2I3NWFhYjgzOTZiM2QxNTc1MThmMDAyMTRkOWM1MGZm`
+Snapshot ID: `MCwyZjc2ZjY3ZGQ5M2JjNDA4ZmQzZjlmOGM2ZDUzMjEwNjU1NWViNTg1`

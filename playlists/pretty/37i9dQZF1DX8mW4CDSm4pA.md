@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/domfishback/">Dominique Fishback</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 381 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 | 10 | [I Gotta Find Peace of Mind \- Live](https://open.spotify.com/track/6ocxCGYgcmZhCeTT1yuNkt) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [MTV Unplugged No\. 2.0](https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM) | 9:18 |
 | 11 | [No Woman, No Cry](https://open.spotify.com/track/5bUVHuzQh5mkvMPjUU074i) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:33 |
 | 12 | [Juicy](https://open.spotify.com/track/2AP7m2dBb8ULTx4Gc1rdMc) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/2yDwwjGzGEcyJMEJuCNyiP) | 4:45 |
-| 13 | [You And Me](https://open.spotify.com/track/39FFlqltctkj6vkIcVgkec) | [Penny & The Quarters](https://open.spotify.com/artist/76sXjAhV0Hc3Pdb6bH3waC) | [Penny & the Quarters EP](https://open.spotify.com/album/6zmwrJVYFvWE4xOVFBP04V) | 2:40 |
-| 14 | [Slippin'](https://open.spotify.com/track/740gNyGWKk98gy8nJLhHrv) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Flesh Of My Flesh, Blood Of My Blood](https://open.spotify.com/album/3dNsHWAS8t7AiAqj9ofG5T) | 5:05 |
+| 13 | [Slippin'](https://open.spotify.com/track/740gNyGWKk98gy8nJLhHrv) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Flesh Of My Flesh, Blood Of My Blood](https://open.spotify.com/album/3dNsHWAS8t7AiAqj9ofG5T) | 5:05 |
+| 14 | [You And Me](https://open.spotify.com/track/39FFlqltctkj6vkIcVgkec) | [Penny & The Quarters](https://open.spotify.com/artist/76sXjAhV0Hc3Pdb6bH3waC) | [Penny & the Quarters EP](https://open.spotify.com/album/6zmwrJVYFvWE4xOVFBP04V) | 2:40 |
 | 15 | [Blessed \(feat\. Damian Marley\)](https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:22 |
 | 16 | [Girl Like Me \(feat\. H.E.R.\)](https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:44 |
 | 17 | [Jungle](https://open.spotify.com/track/3SkKLZFgKIY0DKX5Vro5jV) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Jungle](https://open.spotify.com/album/4r2ptyNGtHhPSMvjUusNPY) | 5:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mW4CDSm4pA.md) - [plain]
 | 49 | [Gold](https://open.spotify.com/track/5dAD6gxUH9Bo9nwsKNHRo0) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [Find Me](https://open.spotify.com/album/78Kr4ruzKsm21euYuovY7C) | 3:27 |
 | 50 | [The Passion](https://open.spotify.com/track/1j1SEf9cpBQ0azBl7qKnGm) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Passion Of The Christ: Songs](https://open.spotify.com/album/5DmO1nHehQ5oS3FXPQuZTF) | 5:45 |
 
-Snapshot ID: `MCxiMWRlYTkxYWNmMWUwNzBjYTYwYTc4OTUxNGJhMGRiNjc5YTIzNmIy`
+Snapshot ID: `MCw3MzFkYjNhMzMxY2FiNTY0NzAxYzE2NmM4MjE0YzcwNTA5YzU4NDc0`

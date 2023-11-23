@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Jordan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,913 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,036 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 74 | [Guitar \- From the Album "XYZ"](https://open.spotify.com/track/76XQ1JrztUciUlQHYIXLl0) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Guitar](https://open.spotify.com/album/2cZavSlbZLnEpU938tCGuG) | 2:32 |
 | 75 | [Udd Gaya \- From "Lekh"](https://open.spotify.com/track/6aFKTWTMLEJA4VqGM3aPbw) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Udd Gaya \(From "Lekh"\)](https://open.spotify.com/album/3uVhhmevWrSzN4LUyQEvQq) | 4:03 |
 
-Snapshot ID: `MCw4YTM3NWMxNmU4N2IyNzVhODliZjNkYjBmNjkzYzk4NGY2OWI1NjE5`
+Snapshot ID: `MCw3MDc3ODI3MmNlM2Y0NDdlOGYyMjczYzg1ZGQ4OTQ1Y2M2N2QzZjVl`

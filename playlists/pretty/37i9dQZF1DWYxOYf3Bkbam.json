@@ -1,12 +1,12 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 43704,
+  "num_followers": 43718,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjZjZTBlNmNlMWM4MTdmMTFjYjU2MjAzNDE5OTBhY2QzNDJjNDBi",
+  "snapshot_id": "MCw4YWU2MWU5YTJiNWYwY2FiMWYwYjg0MmM3ZDY4OWI0MmFjOTkyZjM4",
   "tracks": [
     {
       "added_at": "2023-06-09 03:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Me Dicen el Rey",
-        "url": "https://open.spotify.com/album/6CA6JZ9igKWBTxi18sdTo8"
-      },
-      "artists": [
-        {
-          "name": "Miguel Figueroa y Su Conjunto Amanecer Campero",
-          "url": "https://open.spotify.com/artist/32B3zRuq8jrRRCqu82YFef"
-        }
-      ],
-      "duration_ms": 166480,
-      "name": "Amanecer Campero",
-      "url": "https://open.spotify.com/track/1WOW5dpVavNNqNA83WY0IM"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "La Juventud Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/3T3vOhEeWb1LcxzzJKzC5t"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 252018,
       "name": "Lloviendo Estrellas",
       "url": "https://open.spotify.com/track/5KOtFFnWELr378pMNuNTJO"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Me Dicen el Rey",
+        "url": "https://open.spotify.com/album/6CA6JZ9igKWBTxi18sdTo8"
+      },
+      "artists": [
+        {
+          "name": "Miguel Figueroa y Su Conjunto Amanecer Campero",
+          "url": "https://open.spotify.com/artist/32B3zRuq8jrRRCqu82YFef"
+        }
+      ],
+      "duration_ms": 166480,
+      "name": "Amanecer Campero",
+      "url": "https://open.spotify.com/track/1WOW5dpVavNNqNA83WY0IM"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -563,26 +563,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Consagraci\u00f3n del Chamam\u00e9",
-        "url": "https://open.spotify.com/album/0kEF93WZ8CIPwwNeqCRaq1"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Ofelia",
-          "url": "https://open.spotify.com/artist/5arJEBdYZb8ZOQmZzsMcVf"
-        },
-        {
-          "name": "Los Hermanos Barrios",
-          "url": "https://open.spotify.com/artist/6XP86ozgnpENnWaTixIiAw"
-        }
-      ],
-      "duration_ms": 163920,
-      "name": "A\u00f1oranzas",
-      "url": "https://open.spotify.com/track/6ctYrtmkOhEulwp0OgFRrq"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Alegr\u00eda y Chamam\u00e9",
         "url": "https://open.spotify.com/album/5KMt2a3QOU9w4b8ihoCJBq"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 173386,
       "name": "La Due\u00f1a del Monte",
       "url": "https://open.spotify.com/track/0fDOXK3M6HYYhkdUp0Vilt"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Consagraci\u00f3n del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/0kEF93WZ8CIPwwNeqCRaq1"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Ofelia",
+          "url": "https://open.spotify.com/artist/5arJEBdYZb8ZOQmZzsMcVf"
+        },
+        {
+          "name": "Los Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/6XP86ozgnpENnWaTixIiAw"
+        }
+      ],
+      "duration_ms": 163920,
+      "name": "A\u00f1oranzas",
+      "url": "https://open.spotify.com/track/6ctYrtmkOhEulwp0OgFRrq"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Otras M\u00fasicas",
+        "url": "https://open.spotify.com/album/09sEjVuNxgmY9OxKR6P9Jn"
+      },
+      "artists": [
+        {
+          "name": "Chango Spasiuk",
+          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
+        }
+      ],
+      "duration_ms": 275026,
+      "name": "Nazareno",
+      "url": "https://open.spotify.com/track/6pIAha0Dd1jjrMLozs2kVv"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
         "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
       },
@@ -799,38 +815,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Dos Orillas",
-        "url": "https://open.spotify.com/album/0CsQeb1UcHckmnqmUB00Uz"
-      },
-      "artists": [
-        {
-          "name": "Raul Barboza",
-          "url": "https://open.spotify.com/artist/50G8Md24RBllYioL9BeZ1s"
-        }
-      ],
-      "duration_ms": 196733,
-      "name": "La Calandria",
-      "url": "https://open.spotify.com/track/1r5cTK6CzYEIhDS1p81OS2"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Otras M\u00fasicas",
-        "url": "https://open.spotify.com/album/09sEjVuNxgmY9OxKR6P9Jn"
-      },
-      "artists": [
-        {
-          "name": "Chango Spasiuk",
-          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
-        }
-      ],
-      "duration_ms": 275026,
-      "name": "Nazareno",
-      "url": "https://open.spotify.com/track/6pIAha0Dd1jjrMLozs2kVv"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "All\u00e1 por Capivar\u00e1 / De Oreja a Oreja / Puerta de los Cerros",
         "url": "https://open.spotify.com/album/73HBzmonTc0g6yuCmtC4Y6"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 313344,
       "name": "All\u00e1 por Capivar\u00e1 / De Oreja a Oreja / Puerta de los Cerros",
       "url": "https://open.spotify.com/track/0wWeQZqhCbXEIFEji96kic"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Dos Orillas",
+        "url": "https://open.spotify.com/album/0CsQeb1UcHckmnqmUB00Uz"
+      },
+      "artists": [
+        {
+          "name": "Raul Barboza",
+          "url": "https://open.spotify.com/artist/50G8Md24RBllYioL9BeZ1s"
+        }
+      ],
+      "duration_ms": 196733,
+      "name": "La Calandria",
+      "url": "https://open.spotify.com/track/1r5cTK6CzYEIhDS1p81OS2"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Coleccion Aniversario",
-        "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
-      },
-      "artists": [
-        {
-          "name": "Ramona Galarza",
-          "url": "https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm"
-        },
-        {
-          "name": "Tarrago Ros",
-          "url": "https://open.spotify.com/artist/2Bx9gYQLMfwrkxEhpo9xKL"
-        }
-      ],
-      "duration_ms": 147986,
-      "name": "Siete Higueras",
-      "url": "https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
         "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 194853,
       "name": "Para Volver a So\u00f1ar",
       "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Coleccion Aniversario",
+        "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
+      },
+      "artists": [
+        {
+          "name": "Ramona Galarza",
+          "url": "https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm"
+        },
+        {
+          "name": "Tarrago Ros",
+          "url": "https://open.spotify.com/artist/2Bx9gYQLMfwrkxEhpo9xKL"
+        }
+      ],
+      "duration_ms": 147986,
+      "name": "Siete Higueras",
+      "url": "https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Fito Ledesma",
+          "url": "https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL"
+        }
+      ],
+      "duration_ms": 120720,
+      "name": "Jineteando",
+      "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "21 Grandes Exitos",
         "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 143466,
       "name": "Jam\u00e1s Te Podr\u00e9 Olvidar",
       "url": "https://open.spotify.com/track/1ckEDMHvvZTZxWAUINDPoh"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Fito Ledesma",
-          "url": "https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL"
-        }
-      ],
-      "duration_ms": 120720,
-      "name": "Jineteando",
-      "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
     },
     {
       "added_at": "2023-06-09 03:00:00",

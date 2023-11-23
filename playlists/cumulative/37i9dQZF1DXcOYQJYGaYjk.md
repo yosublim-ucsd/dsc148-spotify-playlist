@@ -4,7 +4,7 @@
 
 > For those that like it hard and heavy\. Cover: Motionless In White
 
-185 songs - 12 hr 16 min
+186 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Bipolarity](https://open.spotify.com/track/2Fnl5TWYqdmSwTHvrB7voW) | [Vitalism](https://open.spotify.com/artist/7aBLyeKiEpyPfFpkfoLVRZ) | [Causa](https://open.spotify.com/album/0igZfXDTXbiGovhw9w4mxU) | 5:02 | 2022-05-12 | 2022-07-17 |
 | [Bird On A Chain](https://open.spotify.com/track/4IF5tqSLknKGYp0uQPZw6P) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [Bird On A Chain](https://open.spotify.com/album/5eY8X2zrWWaHlm7kMPV7qu) | 2:52 | 2022-04-28 | 2022-07-29 |
 | [Bitter](https://open.spotify.com/track/4GOQLGfeCednzst9gy1M7S) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Bitter](https://open.spotify.com/album/4Up0H6lEZYeooXEQJzhe63) | 3:11 | 2022-04-28 | 2022-07-29 |
+| [Black Honey](https://open.spotify.com/track/1A89Jia7SuA6179NKiq3Ud) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [To Be Everywhere Is to Be Nowhere](https://open.spotify.com/album/5i3Vd8CipVhDocbVVFYvVv) | 3:59 | 2022-12-15 |  |
 | [Black Honey](https://open.spotify.com/track/4FX7dhugVxsKsyC4DgwJyM) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Black Honey](https://open.spotify.com/album/72NG7Su9csuE3s1T7YurnM) | 3:59 | 2022-05-12 | 2022-07-21 |
 | [Black Veins](https://open.spotify.com/track/05SIf43ERRTKeJYrxyZCSB) | [Adept](https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu) | [Sleepless](https://open.spotify.com/album/0IKTSPKqD9EwaZ6hlbK7WH) | 5:28 | 2022-04-28 | 2022-07-29 |
 | [Black Wedding \(feat\. Rob Halford\)](https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Ritual](https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL) | 4:07 | 2022-04-28 |  |
@@ -135,7 +136,7 @@
 | [Reinventing Your Exit](https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:22 | 2022-06-01 |  |
 | [Right Now](https://open.spotify.com/track/1cFx6g4ytDsZAx9gmap4pR) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [American Sun](https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7) | 3:45 | 2022-12-15 |  |
 | [Right Now](https://open.spotify.com/track/1mQaehT2IA8PAb6drI1RNB) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Right Now](https://open.spotify.com/album/0CTiiacS0NVOYgQnHLRPGa) | 3:45 | 2022-04-28 | 2022-07-29 |
-| [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2022-08-12 |  |
+| [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2022-08-12 | 2023-11-23 |
 | [Sad But True](https://open.spotify.com/track/1PhLYngBKbeDtdmDzCg3Pb) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug) | 5:23 | 2022-05-12 | 2022-07-29 |
 | [Sad But True \(Remastered\)](https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:24 | 2022-06-16 |  |
 | [Save Me](https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:43 | 2022-06-16 |  |

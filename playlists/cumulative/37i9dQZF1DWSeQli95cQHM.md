@@ -4,7 +4,7 @@
 
 > Na música eletrônica underground brasileira, nos vemos no front.
 
-64 songs - 5 hr 55 min
+65 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Autoconstrução](https://open.spotify.com/track/3JDNY92MkmvZUnMIu8zxaU) | [Mari Herzer](https://open.spotify.com/artist/3EZyY0T4MFZqjpqRODdtbw) | [Kengaral Eletrohits, Vol\. 1](https://open.spotify.com/album/2iN0VnUvrVr8VVsW9iiEgk) | 5:29 | 2023-06-16 | 2023-11-22 |
 | [Baile do Tai Tai](https://open.spotify.com/track/2NdwBjodJX5zHUdSQWfPyh) | [Jaca Beats](https://open.spotify.com/artist/0JjiErN6IoSLDRsoSCAUBD), [holandês](https://open.spotify.com/artist/34ITSPuNhuQlfKKAPAocpL) | [Conexao Riocife](https://open.spotify.com/album/6tTaBjchGgTfDQBn5Bw3bp) | 5:04 | 2023-10-06 |  |
 | [Benzine](https://open.spotify.com/track/5Df2OdR13Gvj8hH05VkBG0) | [Renato Cohen](https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD) | [Benzine EP](https://open.spotify.com/album/2DibufkG06qMeScycqEsXE) | 6:46 | 2023-06-16 |  |
-| [Blazar](https://open.spotify.com/track/3KTd2D84oIwX9SPDKf9jzu) | [DJ Murphy](https://open.spotify.com/artist/0YfLVLBaiKaPsXwjEV3pUU), [SPURI](https://open.spotify.com/artist/2NJLjJZ6xzX8mCg6aTuU1I) | [Blazar](https://open.spotify.com/album/73GKefJeOI0W7wfN7NGaut) | 7:18 | 2023-11-10 |  |
+| [Blazar](https://open.spotify.com/track/3KTd2D84oIwX9SPDKf9jzu) | [DJ Murphy](https://open.spotify.com/artist/0YfLVLBaiKaPsXwjEV3pUU), [SPURI](https://open.spotify.com/artist/2NJLjJZ6xzX8mCg6aTuU1I) | [Blazar](https://open.spotify.com/album/73GKefJeOI0W7wfN7NGaut) | 7:18 | 2023-11-10 | 2023-11-23 |
 | [Caso Sério \- L\_cio & Tessuto Remix](https://open.spotify.com/track/5sL6LS9GsDYHWTiJyq20QG) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [L\_cio](https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW), [Tessuto](https://open.spotify.com/artist/3kMly97EShp3F2RmDkuNdk) | [Rita Lee & Roberto \- Classix Remix Vol\. III](https://open.spotify.com/album/0rZu9DYrrdzdOUQ7Nm2QB8) | 7:01 | 2023-06-16 |  |
 | [Charme](https://open.spotify.com/track/6Zuy9QOueOYh8O4LcCRrgo) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Charme](https://open.spotify.com/album/60cvpqPVesp2srVcNCFKJV) | 5:44 | 2023-06-16 |  |
 | [Chá de trombeta](https://open.spotify.com/track/1pw1Jq2XPSyQNgdz3xplV5) | [Entropia\-Entalpia](https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e), [Fel C](https://open.spotify.com/artist/2y6nJKuBcPdakXmgggiGo4), [Bica](https://open.spotify.com/artist/3ZlQplsw3GzQQximvP0vgU) | [Chá de trombeta](https://open.spotify.com/album/3v6CT4nFEl2aUw0E5CY2Zp) | 7:00 | 2023-06-16 |  |
@@ -55,6 +55,7 @@
 | [Odara](https://open.spotify.com/track/3rAsJNy8H7u0wO5yoeRfNL) | [Gabto](https://open.spotify.com/artist/2rHQ2hZZmJeJlkPp5OzzuP) | [V.A\. Odara Vol.1 \- Arde Mas Aguenta](https://open.spotify.com/album/3WP0lbkJsGiL9I3wWQXlmt) | 6:16 | 2023-06-16 | 2023-10-10 |
 | [Orange Sunlight](https://open.spotify.com/track/3DkKyCC7BJViCAkirE2kMP) | [Zopelar](https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb) | [Mensagem](https://open.spotify.com/album/2TQmM3zK1XuCRLAYmcPQhb) | 4:26 | 2023-06-16 |  |
 | [Passa a Lata de Lólo](https://open.spotify.com/track/3j3Qy9Xc8Lpy5xxZ0nwgRq) | [Diaz](https://open.spotify.com/artist/0iT0OQnrYcfJ5nCee7jbGX) | [Kengaral Eletrohits, Vol\. 2](https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC) | 4:07 | 2023-06-16 |  |
+| [Passo](https://open.spotify.com/track/2WORt2lp1EbXTED385XziR) | [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Passo](https://open.spotify.com/album/4JOhes3NGK2zgGx78Pimv5) | 2:36 | 2023-11-10 |  |
 | [Praia de Artista](https://open.spotify.com/track/1eKWTjC4e5kKPTXcxi3GNH) | [Noporn](https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ) | [Sim](https://open.spotify.com/album/5CIyFdCFNFLvubMRjg6POG) | 4:21 | 2023-06-16 |  |
 | [Proibidao \- Selvagem / Trepanado Remix](https://open.spotify.com/track/1jjruWEZ2qpnv3pW5eepY2) | [Renato Cohen](https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD), [Rosco Sledge](https://open.spotify.com/artist/77MSjesIIrHWtmTzGOLMM5), [Selvagem](https://open.spotify.com/artist/0BNvsgoekC0iZFQ7xaXNTt), [Trepanado](https://open.spotify.com/artist/36xqOgs50nlKOUVSRV4XXZ) | [Proibidao EP](https://open.spotify.com/album/4QGXGZqhe0fi5tu2TBijEj) | 6:38 | 2023-06-16 |  |
 | [Pó de Guaraná \(Caiporas e Armadilhas\)](https://open.spotify.com/track/2cYWtypetLoFznZbirS1dX) | [XAXIM](https://open.spotify.com/artist/2KcqD9l4cRXg6pXeOT1Zv3), [Laylah Arruda](https://open.spotify.com/artist/0o1Y8bazz3XXeUqerefrzo), [Dudu Marote](https://open.spotify.com/artist/4xFgfJU1EalypjsJWYh8S5), [Fabião Soares](https://open.spotify.com/artist/4g2rKx5EgDCFPtpPUiomkf) | [Pó de Guaraná \(Caiporas e Armadilhas\)](https://open.spotify.com/album/3PFFktM3VF29A9n0pPBBDJ) | 3:08 | 2023-06-16 |  |

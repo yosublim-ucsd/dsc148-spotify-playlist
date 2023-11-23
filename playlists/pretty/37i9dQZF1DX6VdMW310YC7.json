@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3685557,
+  "num_followers": 3686001,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOGEyY2VjYzA5YTFmYTg5NDE0YWE5YjhiYTkzNDI3MDhhYTZhMTcw",
+  "snapshot_id": "MCxjZTAyNWQ3NmFiOTM5NzBiYWI4NzEzODVjMmY2MWQ4MGY3NWRhNGJl",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 174344,
+      "name": "Just Over",
+      "url": "https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Spring Embers",
         "url": "https://open.spotify.com/album/13GMW4eLsmDiDr0BJihOxU"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 152298,
       "name": "Rain",
       "url": "https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Growth",
-        "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
-      },
-      "artists": [
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 174344,
-      "name": "Just Over",
-      "url": "https://open.spotify.com/track/3U4wxiV8A190qwogybOHC9"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Where I Find My Mind",
-        "url": "https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Where I Find My Mind",
-      "url": "https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Turning Away (Parra for Cuva Remix)",
         "url": "https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 261538,
       "name": "Turning Away - Parra for Cuva Remix",
       "url": "https://open.spotify.com/track/02JRU5lHhypYRUKlF4mw8o"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Where I Find My Mind",
+        "url": "https://open.spotify.com/album/0sJ4br8FWqrOwoGcxTwJOM"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Where I Find My Mind",
+      "url": "https://open.spotify.com/track/1RuXenlriyybOv1ra0zeSQ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1083,18 +1083,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Why Does My Heart",
-        "url": "https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd"
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/3o2K9k9I6qN5U8VAD8vfVp"
       },
       "artists": [
         {
-          "name": "LYOD",
-          "url": "https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq"
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Rae Morris",
+          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
         }
       ],
-      "duration_ms": 172454,
-      "name": "Why Does My Heart",
-      "url": "https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR"
+      "duration_ms": 250920,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/1FTrDODUS6bWx3eSCWu1Ym"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1119,22 +1123,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/3o2K9k9I6qN5U8VAD8vfVp"
+        "name": "Why Does My Heart",
+        "url": "https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd"
       },
       "artists": [
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Rae Morris",
-          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
+          "name": "LYOD",
+          "url": "https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq"
         }
       ],
-      "duration_ms": 250920,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/1FTrDODUS6bWx3eSCWu1Ym"
+      "duration_ms": 172454,
+      "name": "Why Does My Heart",
+      "url": "https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1319,42 +1319,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Hopeful",
-        "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        }
-      ],
-      "duration_ms": 248432,
-      "name": "Hopeful",
-      "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/76KSQ3akvHhp39YWJAQsTx"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        },
-        {
-          "name": "Tailor",
-          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
-        }
-      ],
-      "duration_ms": 220383,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/1sDYbAOkanOKny7BQzvtRG"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Before Dawn",
         "url": "https://open.spotify.com/album/3ClrFAuuK8LNzQg8kMo3zb"
       },
@@ -1379,6 +1343,42 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/76KSQ3akvHhp39YWJAQsTx"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        },
+        {
+          "name": "Tailor",
+          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
+        }
+      ],
+      "duration_ms": 220383,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/1sDYbAOkanOKny7BQzvtRG"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "duration_ms": 248432,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "The Chase (Edit)",
         "url": "https://open.spotify.com/album/56iwbPSWGAZk0V4ureAoBZ"
       },
@@ -1391,22 +1391,6 @@
       "duration_ms": 170721,
       "name": "The Chase (Edit)",
       "url": "https://open.spotify.com/track/1vQ4ip1vF9VKRiBQjZ79n9"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Assassin",
-        "url": "https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Assassin",
-      "url": "https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1427,6 +1411,22 @@
       "duration_ms": 227987,
       "name": "Those Days",
       "url": "https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Assassin",
+        "url": "https://open.spotify.com/album/1K8RGioeHlH4DyaeSxnnrz"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Assassin",
+      "url": "https://open.spotify.com/track/1xjvIE3l0BACb24sF2TpPH"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Rave",
-        "url": "https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 288387,
-      "name": "Rave",
-      "url": "https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Manzanita",
         "url": "https://open.spotify.com/album/2Qidx1pVb6bVpooKf9tiUt"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 164433,
       "name": "Manzanita",
       "url": "https://open.spotify.com/track/4G0cM5vW6osbKteFqcgexA"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Rave",
+        "url": "https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "duration_ms": 288387,
+      "name": "Rave",
+      "url": "https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Woman",
-        "url": "https://open.spotify.com/album/1xV4Z9H7ZUvnrf526Udsw2"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 627096,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/477nsrJgEucX7WEdxc149q"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Anywhere (Road Trippin')",
         "url": "https://open.spotify.com/album/40xJi5GEwSANMciM0RuwDA"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 275958,
       "name": "Breaking Apart",
       "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/1xV4Z9H7ZUvnrf526Udsw2"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "duration_ms": 627096,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/477nsrJgEucX7WEdxc149q"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "These Things Will Come To Be",
-        "url": "https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 296360,
-      "name": "These Things Will Come To Be",
-      "url": "https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/7merJnzS4bvQD6Nv7PaA39"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 186643,
       "name": "Friends",
       "url": "https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "These Things Will Come To Be",
+        "url": "https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 296360,
+      "name": "These Things Will Come To Be",
+      "url": "https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE"
     },
     {
       "added_at": "2023-11-17 05:00:00",

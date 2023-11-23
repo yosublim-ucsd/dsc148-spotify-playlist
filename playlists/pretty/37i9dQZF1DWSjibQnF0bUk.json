@@ -1,12 +1,12 @@
 {
   "description": "Definitive African party starters, perfect for any jollof jam or braai! \"Spray\" money to these hits!",
-  "num_followers": 430143,
+  "num_followers": 430353,
   "original_name": "Afro Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTVkMjhiODNlNDU5MmNhNmY5N2Q1ZmIwYTI3ZDY5MGIwNWU5YjMz",
+  "snapshot_id": "MCxlZmY1OTU1OWIzN2EyODc1OGU4OGNiMjBkMDY4ZmJiZDFmN2VlMjBh",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/3SYYiw2TfVVlau3XAu5NHG"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 169813,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/0int0g8dikLn0uhd1b1iZu"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Buga (Lo Lo Lo)",
         "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 183103,
       "name": "Buga (Lo Lo Lo)",
       "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/3SYYiw2TfVVlau3XAu5NHG"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 169813,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/0int0g8dikLn0uhd1b1iZu"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -667,22 +667,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Mumu",
-        "url": "https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU"
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
       "artists": [
         {
-          "name": "DJ Neptune",
-          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 173571,
-      "name": "Mumu",
-      "url": "https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4"
+      "duration_ms": 170000,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -707,18 +703,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
+        "name": "Mumu",
+        "url": "https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/1OGZU2zmK6x0UnM3yeZ4lR"
+      "duration_ms": 173571,
+      "name": "Mumu",
+      "url": "https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4"
     },
     {
       "added_at": "2023-11-17 00:01:00",

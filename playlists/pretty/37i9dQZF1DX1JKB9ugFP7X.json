@@ -1,12 +1,12 @@
 {
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23757,
+  "num_followers": 23761,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDc5MWU1YjYzMGI3OWJiN2VhZTczMjM2YTRlYjFiYTE4OGI0Yzgz",
+  "snapshot_id": "MCw5MjEwMTk1NTFkNzE2OWE0MDcxZmViYmEwNDdiNDY5ZWE3Njg0MmNl",
   "tracks": [
     {
       "added_at": "2023-11-17 13:09:08",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-11-17 13:09:08",
       "album": {
+        "name": "VALOR",
+        "url": "https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "VALOR",
+      "url": "https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6"
+    },
+    {
+      "added_at": "2023-11-17 13:09:08",
+      "album": {
         "name": "Hay que venir al Sur",
         "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
       },
@@ -671,18 +687,18 @@
     {
       "added_at": "2023-11-17 13:09:08",
       "album": {
-        "name": "VALOR",
-        "url": "https://open.spotify.com/album/7kOTGMgMDMkgIagREdKl9s"
+        "name": "Xtasis",
+        "url": "https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe"
       },
       "artists": [
         {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+          "name": "FRANSIA",
+          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
         }
       ],
-      "duration_ms": 223133,
-      "name": "VALOR",
-      "url": "https://open.spotify.com/track/1pkGCeruFaTaIVsYrbw1f6"
+      "duration_ms": 203125,
+      "name": "Xtasis",
+      "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
     },
     {
       "added_at": "2023-11-17 13:09:08",
@@ -703,22 +719,6 @@
       "duration_ms": 186472,
       "name": "Ya fue",
       "url": "https://open.spotify.com/track/1RsAoqvtT8Uqsg2HUejHeG"
-    },
-    {
-      "added_at": "2023-11-17 13:09:08",
-      "album": {
-        "name": "Xtasis",
-        "url": "https://open.spotify.com/album/1sTh1Y7r8r24MRuFcLL7pe"
-      },
-      "artists": [
-        {
-          "name": "FRANSIA",
-          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
-        }
-      ],
-      "duration_ms": 203125,
-      "name": "Xtasis",
-      "url": "https://open.spotify.com/track/3YhDwzSVlVULhqWv2D3M2b"
     },
     {
       "added_at": "2023-11-17 13:09:08",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-11-17 13:09:08",
       "album": {
+        "name": "El Mundo Ser\u00e1 Nuestro",
+        "url": "https://open.spotify.com/album/4HU8TUSho4zUe3eG9I2xnX"
+      },
+      "artists": [
+        {
+          "name": "GLAS",
+          "url": "https://open.spotify.com/artist/4Z1zjj6iQYhxLY9zE9sJch"
+        }
+      ],
+      "duration_ms": 278120,
+      "name": "El Mundo Ser\u00e1 Nuestro",
+      "url": "https://open.spotify.com/track/44ISmW3lNQUqyqRRKrTw2K"
+    },
+    {
+      "added_at": "2023-11-17 13:09:08",
+      "album": {
         "name": "Desconfiguraci\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1yFI2RRP9WaDO0XqdtwXaX"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 448000,
       "name": "No Van a Parar - Remix",
       "url": "https://open.spotify.com/track/3zY3SqG8uQdD2zhNQi98NY"
-    },
-    {
-      "added_at": "2023-11-17 13:09:08",
-      "album": {
-        "name": "El Mundo Ser\u00e1 Nuestro",
-        "url": "https://open.spotify.com/album/4HU8TUSho4zUe3eG9I2xnX"
-      },
-      "artists": [
-        {
-          "name": "GLAS",
-          "url": "https://open.spotify.com/artist/4Z1zjj6iQYhxLY9zE9sJch"
-        }
-      ],
-      "duration_ms": 278120,
-      "name": "El Mundo Ser\u00e1 Nuestro",
-      "url": "https://open.spotify.com/track/44ISmW3lNQUqyqRRKrTw2K"
     },
     {
       "added_at": "2023-11-17 13:09:08",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2023-11-17 13:09:08",
       "album": {
+        "name": "Trampa",
+        "url": "https://open.spotify.com/album/5h0zHqIGlc2gXRQclK3JNL"
+      },
+      "artists": [
+        {
+          "name": "Nan Que",
+          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
+        },
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "Trampa",
+      "url": "https://open.spotify.com/track/24fcNlKEIRBrKvVk1OYCiM"
+    },
+    {
+      "added_at": "2023-11-17 13:09:08",
+      "album": {
         "name": "Pervertida",
         "url": "https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 149538,
       "name": "Pervertida",
       "url": "https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk"
-    },
-    {
-      "added_at": "2023-11-17 13:09:08",
-      "album": {
-        "name": "Trampa",
-        "url": "https://open.spotify.com/album/5h0zHqIGlc2gXRQclK3JNL"
-      },
-      "artists": [
-        {
-          "name": "Nan Que",
-          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
-        },
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "Trampa",
-      "url": "https://open.spotify.com/track/24fcNlKEIRBrKvVk1OYCiM"
     },
     {
       "added_at": "2023-11-17 13:09:08",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-11-17 13:09:08",
       "album": {
-        "name": "Peces Raros (Vivo Buenos Aires)",
-        "url": "https://open.spotify.com/album/4JeBmwhPxwCmyT7nCjO5yZ"
-      },
-      "artists": [
-        {
-          "name": "Peces Raros",
-          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
-        }
-      ],
-      "duration_ms": 310890,
-      "name": "Sombras en la Pared - Vivo Buenos Aires",
-      "url": "https://open.spotify.com/track/22y9nKZDxQu7tgPwkeHPqW"
-    },
-    {
-      "added_at": "2023-11-17 13:09:08",
-      "album": {
         "name": "Formas",
         "url": "https://open.spotify.com/album/1EGRoPgHHReeUzwtktkirF"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 213018,
       "name": "Housie",
       "url": "https://open.spotify.com/track/0bk5rMOL7200N3fvqhSfL6"
+    },
+    {
+      "added_at": "2023-11-17 13:09:08",
+      "album": {
+        "name": "Peces Raros (Vivo Buenos Aires)",
+        "url": "https://open.spotify.com/album/4JeBmwhPxwCmyT7nCjO5yZ"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "duration_ms": 310890,
+      "name": "Sombras en la Pared - Vivo Buenos Aires",
+      "url": "https://open.spotify.com/track/22y9nKZDxQu7tgPwkeHPqW"
     },
     {
       "added_at": "2023-11-17 13:09:08",
@@ -1579,22 +1579,18 @@
     {
       "added_at": "2023-11-17 13:09:08",
       "album": {
-        "name": "Todas las Luces (Remix)",
-        "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
+        "name": "Una Hora para Verte",
+        "url": "https://open.spotify.com/album/38Aye9SVpQxuZXTktavk7q"
       },
       "artists": [
         {
-          "name": "Nadar de Noche",
-          "url": "https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get"
-        },
-        {
-          "name": "Disonar",
-          "url": "https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM"
+          "name": "Max Tejera",
+          "url": "https://open.spotify.com/artist/58kI4cP6MQccdJq0tU4gXa"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Todas las Luces - Remix",
-      "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
+      "duration_ms": 187250,
+      "name": "Una Hora para Verte",
+      "url": "https://open.spotify.com/track/0mXS6S5ZxUCiUZLZgz6qTO"
     },
     {
       "added_at": "2023-11-17 13:09:08",
@@ -1635,18 +1631,22 @@
     {
       "added_at": "2023-11-17 13:09:08",
       "album": {
-        "name": "Una Hora para Verte",
-        "url": "https://open.spotify.com/album/38Aye9SVpQxuZXTktavk7q"
+        "name": "Todas las Luces (Remix)",
+        "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
       },
       "artists": [
         {
-          "name": "Max Tejera",
-          "url": "https://open.spotify.com/artist/58kI4cP6MQccdJq0tU4gXa"
+          "name": "Nadar de Noche",
+          "url": "https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get"
+        },
+        {
+          "name": "Disonar",
+          "url": "https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM"
         }
       ],
-      "duration_ms": 187250,
-      "name": "Una Hora para Verte",
-      "url": "https://open.spotify.com/track/0mXS6S5ZxUCiUZLZgz6qTO"
+      "duration_ms": 220000,
+      "name": "Todas las Luces - Remix",
+      "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
     },
     {
       "added_at": "2023-11-17 13:09:08",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2023-11-17 13:09:08",
       "album": {
-        "name": "La Mar (Remixes)",
-        "url": "https://open.spotify.com/album/7BUfVp5TlqMljuNoO8tX1O"
-      },
-      "artists": [
-        {
-          "name": "Mariana Montenegro",
-          "url": "https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm"
-        },
-        {
-          "name": "Nico Castro",
-          "url": "https://open.spotify.com/artist/3BPUQKAxccyClPyj2A4vv9"
-        }
-      ],
-      "duration_ms": 347000,
-      "name": "Dejarte de Querer - Nico Castro Remix",
-      "url": "https://open.spotify.com/track/6PXKYJVbtpfZuOTmiIgJC2"
-    },
-    {
-      "added_at": "2023-11-17 13:09:08",
-      "album": {
         "name": "Latina",
         "url": "https://open.spotify.com/album/3QPv9v7HojqK3ebBcfBpzR"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 187248,
       "name": "Latina",
       "url": "https://open.spotify.com/track/0bVVqy2JB5oztWohSkWhPU"
+    },
+    {
+      "added_at": "2023-11-17 13:09:08",
+      "album": {
+        "name": "La Mar (Remixes)",
+        "url": "https://open.spotify.com/album/7BUfVp5TlqMljuNoO8tX1O"
+      },
+      "artists": [
+        {
+          "name": "Mariana Montenegro",
+          "url": "https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm"
+        },
+        {
+          "name": "Nico Castro",
+          "url": "https://open.spotify.com/artist/3BPUQKAxccyClPyj2A4vv9"
+        }
+      ],
+      "duration_ms": 347000,
+      "name": "Dejarte de Querer - Nico Castro Remix",
+      "url": "https://open.spotify.com/track/6PXKYJVbtpfZuOTmiIgJC2"
     }
   ],
   "unique_name": "ElectroPop",

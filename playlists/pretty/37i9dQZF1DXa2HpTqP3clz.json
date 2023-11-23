@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Willie Nelson",
-  "num_followers": 128930,
+  "num_followers": 128968,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmFkOTMyZmE5YmQyYmM0YTZjOTc4NzJmOTU5OWNjOGI5MjQ0ZWUz",
+  "snapshot_id": "MCwzYmVlNzkyZmVhODBmOTgyYWY5ZjA2N2Y0Mjc4MDAwYjIxN2VmYTQ3",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "We Were Cowboys",
+        "url": "https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Granny's Got a Garden - For G'maw Jan",
+      "url": "https://open.spotify.com/track/481vOKAlV93O0kHSxEWpTy"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "The Light We Bring",
         "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 237186,
       "name": "The Cure",
       "url": "https://open.spotify.com/track/4HlqSTUFKv6bzI3OK2q7kE"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "We Were Cowboys",
-        "url": "https://open.spotify.com/album/3ZGZNsbL4jY4pnOxxlYOCG"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "Granny's Got a Garden - For G'maw Jan",
-      "url": "https://open.spotify.com/track/481vOKAlV93O0kHSxEWpTy"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Snake Charmer",
-        "url": "https://open.spotify.com/album/2UH01cDPXCH1ln2zcn08Vc"
-      },
-      "artists": [
-        {
-          "name": "Balsam Range",
-          "url": "https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Snake Charmer",
-      "url": "https://open.spotify.com/track/2gCwXdJiQdwislATbhC3NG"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Ink, Dust & Luck",
         "url": "https://open.spotify.com/album/40hyJ3WFVt22d9w4DPM3aA"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 190789,
       "name": "Don't Make Me Get up and Go",
       "url": "https://open.spotify.com/track/7dPMI5iIdwonksEYLSdsZY"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Snake Charmer",
+        "url": "https://open.spotify.com/album/2UH01cDPXCH1ln2zcn08Vc"
+      },
+      "artists": [
+        {
+          "name": "Balsam Range",
+          "url": "https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Snake Charmer",
+      "url": "https://open.spotify.com/track/2gCwXdJiQdwislATbhC3NG"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Celebrants",
-        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 204618,
-      "name": "Where the Long Line Leads",
-      "url": "https://open.spotify.com/track/2nl7VPKy1XQ2NiUrdI5AeY"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Hell on Church Street",
         "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 178973,
       "name": "Any Old Time",
       "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Celebrants",
+        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 204618,
+      "name": "Where the Long Line Leads",
+      "url": "https://open.spotify.com/track/2nl7VPKy1XQ2NiUrdI5AeY"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Stress Dreams",
-        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
-      },
-      "artists": [
-        {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
-        }
-      ],
-      "duration_ms": 481641,
-      "name": "Stress Dreams",
-      "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Twisted Pine",
         "url": "https://open.spotify.com/album/0Wqmu0yvCdbcd9Vgsq3G3i"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 252428,
       "name": "When I Called Your Name",
       "url": "https://open.spotify.com/track/5TqVxkKAbdoc4iyShy5tTq"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 481641,
+      "name": "Stress Dreams",
+      "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Sweet Spot",
+        "url": "https://open.spotify.com/album/6Nt0b4ON7Q9AO9C4T8m4lV"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "duration_ms": 263662,
+      "name": "Sweet Spot",
+      "url": "https://open.spotify.com/track/2bnFgOomCWidOvd2PXFr9D"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Old Cane Back Rocker",
         "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 231269,
       "name": "Kentucky Morning",
       "url": "https://open.spotify.com/track/16f8ddX6OESa2a0FXTtJzb"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Sweet Spot",
-        "url": "https://open.spotify.com/album/6Nt0b4ON7Q9AO9C4T8m4lV"
-      },
-      "artists": [
-        {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
-        }
-      ],
-      "duration_ms": 263662,
-      "name": "Sweet Spot",
-      "url": "https://open.spotify.com/track/2bnFgOomCWidOvd2PXFr9D"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Well",
-        "url": "https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Well",
-      "url": "https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 139000,
       "name": "Maybelle",
       "url": "https://open.spotify.com/track/6IBbvLtjyuA0kv30goCK42"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Well",
+        "url": "https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Well",
+      "url": "https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Fall In Tennessee",
-        "url": "https://open.spotify.com/album/1QtwwF0WtSMo35OFQoyCQU"
-      },
-      "artists": [
-        {
-          "name": "Authentic Unlimited",
-          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 231120,
-      "name": "Fall In Tennessee (feat. Jerry Douglas)",
-      "url": "https://open.spotify.com/track/57bKuzcq04EQaYuGhl9k8J"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Fall Like Rain",
         "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
       },
@@ -1607,6 +1587,22 @@
       "duration_ms": 262640,
       "name": "Fall Like Rain",
       "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Travelers Rest",
+        "url": "https://open.spotify.com/album/0nx6Drh6lFh27sZ5uNQwRy"
+      },
+      "artists": [
+        {
+          "name": "The Foreign Landers",
+          "url": "https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Traveler",
+      "url": "https://open.spotify.com/track/5ytipdvaQRgOQvRARYQD4z"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1631,18 +1627,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Travelers Rest",
-        "url": "https://open.spotify.com/album/0nx6Drh6lFh27sZ5uNQwRy"
+        "name": "Fall In Tennessee",
+        "url": "https://open.spotify.com/album/1QtwwF0WtSMo35OFQoyCQU"
       },
       "artists": [
         {
-          "name": "The Foreign Landers",
-          "url": "https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv"
+          "name": "Authentic Unlimited",
+          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
         }
       ],
-      "duration_ms": 217066,
-      "name": "Traveler",
-      "url": "https://open.spotify.com/track/5ytipdvaQRgOQvRARYQD4z"
+      "duration_ms": 231120,
+      "name": "Fall In Tennessee (feat. Jerry Douglas)",
+      "url": "https://open.spotify.com/track/57bKuzcq04EQaYuGhl9k8J"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1663,22 +1663,6 @@
       "duration_ms": 222646,
       "name": "East Virginia Blues",
       "url": "https://open.spotify.com/track/37LaaqKaMg5ivz0qMeRzKw"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Tall Tales & Fables",
-        "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
-      },
-      "artists": [
-        {
-          "name": "Haunted Like Human",
-          "url": "https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI"
-        }
-      ],
-      "duration_ms": 177414,
-      "name": "Ohio",
-      "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1715,6 +1699,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Tall Tales & Fables",
+        "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
+      },
+      "artists": [
+        {
+          "name": "Haunted Like Human",
+          "url": "https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI"
+        }
+      ],
+      "duration_ms": 177414,
+      "name": "Ohio",
+      "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Open The Road",
         "url": "https://open.spotify.com/album/2j5ouBQL6NuejKYQ6HlwRx"
       },
@@ -1727,6 +1727,22 @@
       "duration_ms": 178182,
       "name": "Alive With You",
       "url": "https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Live At The CMA Theater In The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/2mzSAxDSMwyWtrH1MisKT5"
+      },
+      "artists": [
+        {
+          "name": "The Earls Of Leicester",
+          "url": "https://open.spotify.com/artist/7fFA5wvCHgJ4SIqCuIYFNm"
+        }
+      ],
+      "duration_ms": 152440,
+      "name": "Salty Dog Blues - Live",
+      "url": "https://open.spotify.com/track/34HGrU0mKfR4dEJW0kydUh"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1747,22 +1763,6 @@
       "duration_ms": 150575,
       "name": "Rosa Lee McFall - Live",
       "url": "https://open.spotify.com/track/2w8khZ6OgCOUwrbkQ4GYAK"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Live At The CMA Theater In The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/2mzSAxDSMwyWtrH1MisKT5"
-      },
-      "artists": [
-        {
-          "name": "The Earls Of Leicester",
-          "url": "https://open.spotify.com/artist/7fFA5wvCHgJ4SIqCuIYFNm"
-        }
-      ],
-      "duration_ms": 152440,
-      "name": "Salty Dog Blues - Live",
-      "url": "https://open.spotify.com/track/34HGrU0mKfR4dEJW0kydUh"
     },
     {
       "added_at": "2023-11-17 05:00:00",

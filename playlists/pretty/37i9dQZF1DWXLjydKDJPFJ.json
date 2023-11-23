@@ -1,12 +1,12 @@
 {
   "description": "Compare, prenda el carb\u00f3n y saque la bocina que ya se arm\u00f3 la carnita.",
-  "num_followers": 340085,
+  "num_followers": 340217,
   "original_name": "Carnita Asada Estilo Norte\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjg4M2JkOGQwMTE0YTJhMDA4ZDA3MmU4OWVkMzc3ZjAyMjg5OTVl",
+  "snapshot_id": "MCxlNWQ4ZDgzZWYzNWVhMDRkZWUwZjRlMDI3ZWQ2NjdiMzFkMDNjMDE2",
   "tracks": [
     {
       "added_at": "2023-11-08 23:01:07",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "Simbolo Sexual",
-        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 180208,
-      "name": "S\u00edmbolo Sexual",
-      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
         "name": "Me Gusta Vivir De Noche",
         "url": "https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 164466,
       "name": "El Amor So\u00f1ado",
       "url": "https://open.spotify.com/track/587p8shYuTXUhThG3t9x60"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
+        "name": "Simbolo Sexual",
+        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 180208,
+      "name": "S\u00edmbolo Sexual",
+      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
+        "name": "AYAYAY! (Deluxe)",
+        "url": "https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 143933,
+      "name": "Aqu\u00ed Abajo",
+      "url": "https://open.spotify.com/track/16ONd70tvWAaLIc6hcLzaG"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
         "name": "3 Doritos Despues (En Vivo)",
         "url": "https://open.spotify.com/album/4PJXpxazXhN6AOC0xUagQF"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 218453,
       "name": "3 Doritos Despues (En Vivo)",
       "url": "https://open.spotify.com/track/07aKw7LfC27IGSb5ppldIQ"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
-        "name": "AYAYAY! (Deluxe)",
-        "url": "https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 143933,
-      "name": "Aqu\u00ed Abajo",
-      "url": "https://open.spotify.com/track/16ONd70tvWAaLIc6hcLzaG"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
+        "name": "Ll\u00e9vate",
+        "url": "https://open.spotify.com/album/7MUSVV4fqHvAad5HZdy0kD"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "Ll\u00e9vate",
+      "url": "https://open.spotify.com/track/3m8SsLYXGo2JVeUhsZ9RtO"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
         "name": "Punto Y Aparte",
         "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
       },
@@ -1151,26 +1171,6 @@
       "duration_ms": 236453,
       "name": "Algo De M\u00ed",
       "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
-        "name": "Ll\u00e9vate",
-        "url": "https://open.spotify.com/album/7MUSVV4fqHvAad5HZdy0kD"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "Ll\u00e9vate",
-      "url": "https://open.spotify.com/track/3m8SsLYXGo2JVeUhsZ9RtO"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
-        }
-      ],
-      "duration_ms": 201084,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
         "name": "Siempre Imitado, Jamas Igualado",
         "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 165733,
       "name": "Voy A Llorar Por Ti",
       "url": "https://open.spotify.com/track/20qd1CUZCdgbOYN8vDt8Se"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        }
+      ],
+      "duration_ms": 201084,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "A Todo Galope",
-        "url": "https://open.spotify.com/album/6ACxvZ4en9mhTSxTeKWGaJ"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 176533,
-      "name": "Que No Quede Huella",
-      "url": "https://open.spotify.com/track/0vqs9bIFJgk6X9LvlatKfp"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
         "name": "Mi Historia",
         "url": "https://open.spotify.com/album/3XqjOolTMs2plXorDGZINS"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 175373,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/2Y1qcW4b9aVRnX1fHaVvxY"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
+        "name": "A Todo Galope",
+        "url": "https://open.spotify.com/album/6ACxvZ4en9mhTSxTeKWGaJ"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 176533,
+      "name": "Que No Quede Huella",
+      "url": "https://open.spotify.com/track/0vqs9bIFJgk6X9LvlatKfp"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/4hH7njS67Xgt6TRcBwK8A8"
-      },
-      "artists": [
-        {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/1k9D0uyT8BvBCNJQoPBZLK"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
         "name": "A Chillar a otra parte",
         "url": "https://open.spotify.com/album/4ph9RG0taaHcR6LlXbtHYW"
       },
@@ -1935,6 +1915,26 @@
       "duration_ms": 213066,
       "name": "A Chillar a otra parte",
       "url": "https://open.spotify.com/track/6dAYjYfWJvETKJOCm36jGH"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/4hH7njS67Xgt6TRcBwK8A8"
+      },
+      "artists": [
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/1k9D0uyT8BvBCNJQoPBZLK"
     },
     {
       "added_at": "2023-11-08 23:01:07",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2023-11-08 23:01:07",
       "album": {
+        "name": "Corridos Aesthetic",
+        "url": "https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/6fON6XAgh3MWT1QBw4katd"
+    },
+    {
+      "added_at": "2023-11-08 23:01:07",
+      "album": {
         "name": "Y Es el Contacto \u00a1Raza!",
         "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 167210,
       "name": "Celos Del Viento (En vivo)",
       "url": "https://open.spotify.com/track/0tg8RppkhrRC972fm380kd"
-    },
-    {
-      "added_at": "2023-11-08 23:01:07",
-      "album": {
-        "name": "Corridos Aesthetic",
-        "url": "https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "Ojitos Lindos",
-      "url": "https://open.spotify.com/track/6fON6XAgh3MWT1QBw4katd"
     },
     {
       "added_at": "2023-11-08 23:01:07",

@@ -4,7 +4,7 @@
 
 > Listen to women at full volume!  On the cover this month: <a href="spotify:artist:5sJWIuRMqeiMooXNf6pavo">Noémie Wolfs</a>
 
-542 songs - 1 day 5 hr 50 min
+543 songs - 1 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,8 @@
 | [happy for you](https://open.spotify.com/track/1k8AXX52293tVBANnrEFg1) | [judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [happy for you](https://open.spotify.com/album/3vgatBi7QrQDi0McNPwlnL) | 2:54 | 2023-06-06 | 2023-11-08 |
 | [Hate You](https://open.spotify.com/track/20DTxZFaXhUWsnWFRmWgya) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Hate You](https://open.spotify.com/album/62IzaVIraFlR3BZQBBqwk0) | 3:24 | 2022-07-05 | 2022-10-05 |
 | [Hate You](https://open.spotify.com/track/5fvorAQup5Z61u1TdZNQff) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Hate You](https://open.spotify.com/album/75w9NF1ZtnSE7ChqrdPMk9) | 3:24 | 2022-07-05 | 2022-07-31 |
-| [Heartbreak Baby](https://open.spotify.com/track/13HuQ9p9eU8hBUX6eWf56H) | [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [Heartbreak Baby](https://open.spotify.com/album/2VCjnaqUpqVeYrNO22jglN) | 3:51 | 2023-11-07 |  |
+| [Heartbreak Baby](https://open.spotify.com/track/13HuQ9p9eU8hBUX6eWf56H) | [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [Heartbreak Baby](https://open.spotify.com/album/2VCjnaqUpqVeYrNO22jglN) | 3:51 | 2023-11-07 | 2023-11-23 |
+| [Heartbreak Baby](https://open.spotify.com/track/5rHSd9zyNfFz8f1jkele2f) | [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [Heartbreak Baby](https://open.spotify.com/album/3CvXwi8gxyDhsHdTZWcsIN) | 3:51 | 2023-11-07 |  |
 | [Heen & Weer](https://open.spotify.com/track/02iaOCmV85mxy1QlE5sD54) | [Laura Lynn](https://open.spotify.com/artist/5v1n40JSt183xWxcHYj4Or) | [Heen & Weer](https://open.spotify.com/album/5kmLhJ6X0pvfx75TyTf6B6) | 2:56 | 2023-06-06 | 2023-08-02 |
 | [Hellballad](https://open.spotify.com/track/1JOmr9WQ81YcXBhWotjhhM) | [Tristan](https://open.spotify.com/artist/2Mv66D4QHzg4knZjy1wbHW) | [Wellif](https://open.spotify.com/album/5YRqVtHH8m3PY04UBz39Do) | 3:37 | 2022-11-29 | 2023-01-04 |
 | [Hellballad](https://open.spotify.com/track/7rj0cDDr8dyeZVb0R3lsIc) | [Tristan](https://open.spotify.com/artist/2Mv66D4QHzg4knZjy1wbHW) | [Hellballad](https://open.spotify.com/album/0aYdX9kUcY4frUo46vXfKr) | 3:37 | 2022-04-05 | 2022-07-06 |

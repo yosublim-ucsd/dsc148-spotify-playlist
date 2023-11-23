@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvPjXfc8G9S.md) - [plain]
 
 > Los mejores éxitos de hoy en Colombia\. Foto: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,386 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,820 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvPjXfc8G9S.md) - [plain]
 | 49 | [LUCES DE TECNO](https://open.spotify.com/track/0goXAEnjWhssHU0y9Zyqyf) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:44 |
 | 50 | [No Se Va](https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:36 |
 
-Snapshot ID: `MCw2MmVhNWIxMDRiMzQ0NDcyODcxYTc2NWE2NDgxNDRjYmY2Y2E5MTIy`
+Snapshot ID: `MCxkZWI4OGVlYzAzN2FlYzMxZGU0ODYxYWY4NzI0M2Y4ZTM5Y2RmZDQw`

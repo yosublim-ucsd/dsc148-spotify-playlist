@@ -515,6 +515,28 @@
     },
     {
       "album": {
+        "name": "Blackout EP",
+        "url": "https://open.spotify.com/album/0yz7YNl5CiFPXVyYWPdNZm"
+      },
+      "artists": [
+        {
+          "name": "Christian Smith",
+          "url": "https://open.spotify.com/artist/0Z2EpubIhxnq4B6PV0I8n3"
+        },
+        {
+          "name": "John Selway",
+          "url": "https://open.spotify.com/artist/48gnpTaBbk8G5zSla0SLXb"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292608,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/5hJ26ZK6LaVXxHZtVQEadU"
+    },
+    {
+      "album": {
         "name": "Bocat (Michael Bibi Remix)",
         "url": "https://open.spotify.com/album/7eFCcNOJPqwfcHfdfygATF"
       },
@@ -749,6 +771,24 @@
     },
     {
       "album": {
+        "name": "Let Me Dance #2",
+        "url": "https://open.spotify.com/album/2CpK7mjQMX9OhcpttXw7Ff"
+      },
+      "artists": [
+        {
+          "name": "DJ Jauche",
+          "url": "https://open.spotify.com/artist/0g9msGyAkAlJTVoNvdRqnr"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464981,
+      "name": "Connections On A Dance Floor",
+      "url": "https://open.spotify.com/track/7Gfyw2r6Ps0ockRZ1jauex"
+    },
+    {
+      "album": {
         "name": "Could Heaven Ever Be Like This (Walker & Royce and Chris Lorenzo Remix)",
         "url": "https://open.spotify.com/album/6kOLMQtok9ETuuNCN6LByQ"
       },
@@ -940,6 +980,24 @@
       "duration_ms": 386000,
       "name": "Discoteca Exotica",
       "url": "https://open.spotify.com/track/3yIlfK9UxOCsXlbk9vLZ14"
+    },
+    {
+      "album": {
+        "name": "Dog Days",
+        "url": "https://open.spotify.com/album/05CHTnmUe3df2YJyJGvRA8"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223631,
+      "name": "Dog Days",
+      "url": "https://open.spotify.com/track/0Uk6JcLoMOKwIP9Qkg1z4q"
     },
     {
       "album": {
@@ -1255,6 +1313,24 @@
     },
     {
       "album": {
+        "name": "Activate Ep",
+        "url": "https://open.spotify.com/album/0txiuwBl8jtTftDsWSbCay"
+      },
+      "artists": [
+        {
+          "name": "Mike Agent X Clark",
+          "url": "https://open.spotify.com/artist/2khZmUiKOYCIIjniMfair6"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421995,
+      "name": "Going off the Wall",
+      "url": "https://open.spotify.com/track/5pxc7Ug8D8p4oT5KmGbDCS"
+    },
+    {
+      "album": {
         "name": "LALALAND Miami 2023",
         "url": "https://open.spotify.com/album/20Rtpy2qVNnac1nrC4eUlv"
       },
@@ -1270,6 +1346,24 @@
       "duration_ms": 291428,
       "name": "Got That",
       "url": "https://open.spotify.com/track/3aE9BUxoqzgE46rIuALUll"
+    },
+    {
+      "album": {
+        "name": "Growling / E\u00f0a?",
+        "url": "https://open.spotify.com/album/3u5Ex27IPFfRvJor3zyIga"
+      },
+      "artists": [
+        {
+          "name": "Shall Ocin",
+          "url": "https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335343,
+      "name": "Growling",
+      "url": "https://open.spotify.com/track/30EV6mJUyiRadpUDJ0P0LF"
     },
     {
       "album": {
@@ -1331,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "Standalone",
+        "url": "https://open.spotify.com/album/1TQZbDSDXgAZdJNCMKiiul"
+      },
+      "artists": [
+        {
+          "name": "BEQA",
+          "url": "https://open.spotify.com/artist/141iDKf4xG7DvTE4hHXC79"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445000,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/2oxsm2saiwJxvUXGM8DbEo"
+    },
+    {
+      "album": {
         "name": "Soldier March",
         "url": "https://open.spotify.com/album/0hNAm3uBkWcpqwJr6TaMOV"
       },
@@ -1360,10 +1472,36 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 350491,
       "name": "Hot",
       "url": "https://open.spotify.com/track/6cg1QF09R1E5c5PCBkfffF"
+    },
+    {
+      "album": {
+        "name": "Hot N Spicy",
+        "url": "https://open.spotify.com/album/0R2xy2RR5jXLQZl4m3fekH"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "DJ E-Clyps",
+          "url": "https://open.spotify.com/artist/4mnSMKXeNuynsdozoCUpcZ"
+        },
+        {
+          "name": "Dajae",
+          "url": "https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181475,
+      "name": "Hot N Spicy",
+      "url": "https://open.spotify.com/track/0OvodwcSNXTieEWKm4F3n2"
     },
     {
       "album": {
@@ -1513,6 +1651,24 @@
     },
     {
       "album": {
+        "name": "Inner Vision",
+        "url": "https://open.spotify.com/album/1PHAeuLr57TZOeKZoPdVyl"
+      },
+      "artists": [
+        {
+          "name": "Blanco K",
+          "url": "https://open.spotify.com/artist/3R8CoLaVPHCE55AkYktjdj"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342580,
+      "name": "Inner Vision",
+      "url": "https://open.spotify.com/track/68DQbuR3ulifO7R7GzqtWK"
+    },
+    {
+      "album": {
         "name": "Invert Drift",
         "url": "https://open.spotify.com/album/1AKYPOmxoOQEhUDEuCOHfB"
       },
@@ -1524,7 +1680,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 448128,
       "name": "Invert Drift",
       "url": "https://open.spotify.com/track/68nhhAKNAt09d5NOglXD0K"
@@ -2198,6 +2354,50 @@
       "duration_ms": 411877,
       "name": "Moody Fuse",
       "url": "https://open.spotify.com/track/6MDaMEgEVbKk5POEdY3TN5"
+    },
+    {
+      "album": {
+        "name": "Morgana (2023 Edit)",
+        "url": "https://open.spotify.com/album/3YlTnr4cYNg9tufccsFgRQ"
+      },
+      "artists": [
+        {
+          "name": "Monika Kruse",
+          "url": "https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg"
+        },
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306501,
+      "name": "Morgana - 2023 Edit",
+      "url": "https://open.spotify.com/track/2IOaOQTxrtJf0clbcjXNua"
+    },
+    {
+      "album": {
+        "name": "Motown Philly",
+        "url": "https://open.spotify.com/album/2Rb5KdeDt7P1WASorfVR46"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158140,
+      "name": "Motown Philly",
+      "url": "https://open.spotify.com/track/07Jkr2QHuoVGBLVhZNpRFl"
     },
     {
       "album": {
@@ -2934,7 +3134,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 220531,
       "name": "TAKE ME HIGH",
       "url": "https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy"
@@ -3022,6 +3222,28 @@
       "duration_ms": 330240,
       "name": "Tell Me Something",
       "url": "https://open.spotify.com/track/32yVZFsBw4pR4YTsEC57Lu"
+    },
+    {
+      "album": {
+        "name": "Tell You What It Is",
+        "url": "https://open.spotify.com/album/6DSU3tmrRd6nymUrEaapbu"
+      },
+      "artists": [
+        {
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187491,
+      "name": "Tell You What It Is",
+      "url": "https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc"
     },
     {
       "album": {
@@ -3544,6 +3766,24 @@
       "duration_ms": 168768,
       "name": "Wurk",
       "url": "https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/3ZtmkEcM4kvBVjk3YLBbRq"
+      },
+      "artists": [
+        {
+          "name": "Martin Kent",
+          "url": "https://open.spotify.com/artist/0CC66E1NvoyohxC7ZlwyQv"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Your Love - Radio-Edit",
+      "url": "https://open.spotify.com/track/2lKwyON4xrzPZ8ylEyhHWw"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9iI5CD4auV5"

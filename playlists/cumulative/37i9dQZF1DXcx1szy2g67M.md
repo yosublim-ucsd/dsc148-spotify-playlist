@@ -4,7 +4,7 @@
 
 > Niks aan te doen, Winter 2023 is coming!
 
-312 songs - 15 hr 43 min
+314 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,8 +162,9 @@
 | [KU LO SA \(with Camila Cabello\)](https://open.spotify.com/track/0HihDC6qQ8MChAhjfW3gMU) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [KU LO SA \(with Camila Cabello\)](https://open.spotify.com/album/0Pkjt4TMwpQJRrskYaZIny) | 2:28 | 2023-02-23 | 2023-05-12 |
 | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/track/0LVjBdjZvJykxed42ExTLf) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/album/0MNpgjf367wpgf742ZkHGr) | 2:44 | 2023-02-23 | 2023-04-18 |
 | [Lay Low](https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:33 | 2023-05-25 | 2023-11-11 |
-| [Layla](https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl) | 2:43 | 2023-04-17 |  |
+| [Layla](https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl) | 2:43 | 2023-04-17 | 2023-11-23 |
 | [Layla](https://open.spotify.com/track/6w6pCi9HrZX8P4yee6Lli9) | [MiracVR](https://open.spotify.com/artist/057SJVTg46DEbNRl83KBeh), [Phiec](https://open.spotify.com/artist/1huEWeyAvL6wYs0wsJWKVI) | [Layla](https://open.spotify.com/album/1MDzGxEcn8e2JEE5OAJtiu) | 2:43 | 2023-11-09 | 2023-11-18 |
+| [Layla](https://open.spotify.com/track/5IYrw3MenTovSfbgewbpgt) | [Phiec](https://open.spotify.com/artist/1huEWeyAvL6wYs0wsJWKVI), [CATO1948](https://open.spotify.com/artist/5UWB8WQR5gxyNqfhmNbXmt) | [Layla](https://open.spotify.com/album/7rP263q8KPQ0sxQLd8mGth) | 2:43 | 2023-11-16 |  |
 | [Layla](https://open.spotify.com/track/4bFtZ97olZXoCns9zMImDs) | [Phiec](https://open.spotify.com/artist/1huEWeyAvL6wYs0wsJWKVI), [CATO1948](https://open.spotify.com/artist/5UWB8WQR5gxyNqfhmNbXmt), [Erenzy](https://open.spotify.com/artist/3AP6MCvLF9oYJWYfBubRYH), [SELMAN ALTUNBAŞ](https://open.spotify.com/artist/6cN5reMOX748NGhI2KVO9h) | [Layla](https://open.spotify.com/album/1iwZqyrUQ8UqvW2iIezjVX) | 2:43 | 2023-09-29 | 2023-10-13 |
 | [Lil Boo Thang](https://open.spotify.com/track/0cVyQfDyRnMJ0V3rjjdlU3) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Lil Boo Thang](https://open.spotify.com/album/1j5AROUr8rq5xb2CXDIH1c) | 1:54 | 2023-09-22 |  |
 | [Lionheart \(Fearless\)](https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lionheart \(Fearless\)](https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT) | 3:06 | 2023-02-23 | 2023-08-25 |
@@ -273,7 +274,8 @@
 | [SunKissing](https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [SunKissing](https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A) | 2:57 | 2023-04-17 | 2023-07-07 |
 | [Symphony](https://open.spotify.com/track/2ThaHV10xrAcL2WfqXyLnp) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:55 | 2023-03-17 | 2023-10-01 |
 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-03-17 | 2023-10-24 |
-| [Tell Me More](https://open.spotify.com/track/1jBN9OHMe8Fi39mazoXHvS) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tell Me More](https://open.spotify.com/album/2l7I3NR8pYbyDaTdwjYkMU) | 3:23 | 2023-04-17 |  |
+| [Tell Me More](https://open.spotify.com/track/1FC2VBtt9dWeXZoXIYVvbh) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tell Me More](https://open.spotify.com/album/1eQYcYc3wrWX1tO6tvLWtl) | 3:23 | 2023-11-16 |  |
+| [Tell Me More](https://open.spotify.com/track/1jBN9OHMe8Fi39mazoXHvS) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tell Me More](https://open.spotify.com/album/2l7I3NR8pYbyDaTdwjYkMU) | 3:23 | 2023-04-17 | 2023-11-23 |
 | [That Part](https://open.spotify.com/track/7vfCm8tEWV9lCpyY1nvJVB) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [That Part](https://open.spotify.com/album/3BBoVJSqbpAPVYWt5lXHfC) | 2:54 | 2023-05-30 | 2023-11-11 |
 | [The Ballet Girl](https://open.spotify.com/track/3aiOu3VFNOD9omIGG7nSq1) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/0oHwFrjiH6pkhFp8C4LWa3) | 3:21 | 2023-05-30 | 2023-09-29 |
 | [The Feeling](https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [The Feeling](https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG) | 2:33 | 2023-06-10 | 2023-11-11 |

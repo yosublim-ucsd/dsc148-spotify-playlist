@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 19467,
+  "num_followers": 19497,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTI2YTg4YTdiZGEyMzJjMTI1OTM3ZWNjNmZiYTZlZTVlOTAyYzlk",
+  "snapshot_id": "MCwyNDBlM2RkODFiYjc5NmNiNjk3ZmRkZGY5NmVhMzU1ZDBiMjFhZjRi",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Leche de Tigre",
+        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 211281,
+      "name": "Gobi\u00e9rname",
+      "url": "https://open.spotify.com/track/5GpngZwVz4DO2jLBV9d7iZ"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Peque\u00f1ines",
         "url": "https://open.spotify.com/album/1duq75hTXY2aFwcFgy9jmX"
       },
@@ -711,18 +727,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Leche de Tigre",
-        "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
+        "name": "Fino",
+        "url": "https://open.spotify.com/album/7LukmvcXz75vKINXivcMjl"
       },
       "artists": [
         {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
         }
       ],
-      "duration_ms": 211281,
-      "name": "Gobi\u00e9rname",
-      "url": "https://open.spotify.com/track/5GpngZwVz4DO2jLBV9d7iZ"
+      "duration_ms": 243113,
+      "name": "No Puedo Parar",
+      "url": "https://open.spotify.com/track/18jJegd092oIkvSWiezdW3"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -739,22 +755,6 @@
       "duration_ms": 192973,
       "name": "Holy Hell",
       "url": "https://open.spotify.com/track/6PIuuyPtky0MGlv3kHEC3T"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Fino",
-        "url": "https://open.spotify.com/album/7LukmvcXz75vKINXivcMjl"
-      },
-      "artists": [
-        {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        }
-      ],
-      "duration_ms": 243113,
-      "name": "No Puedo Parar",
-      "url": "https://open.spotify.com/track/18jJegd092oIkvSWiezdW3"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Ritmo Natural",
-        "url": "https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu"
-      },
-      "artists": [
-        {
-          "name": "Plastical People",
-          "url": "https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6"
-        }
-      ],
-      "duration_ms": 202080,
-      "name": "Ritmo Natural",
-      "url": "https://open.spotify.com/track/13h03rdDvweAVeunMnw8si"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Leche de Tigre",
         "url": "https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 205462,
       "name": "Leche de Tigre",
       "url": "https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Ritmo Natural",
+        "url": "https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu"
+      },
+      "artists": [
+        {
+          "name": "Plastical People",
+          "url": "https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6"
+        }
+      ],
+      "duration_ms": 202080,
+      "name": "Ritmo Natural",
+      "url": "https://open.spotify.com/track/13h03rdDvweAVeunMnw8si"
     },
     {
       "added_at": "2023-11-17 05:00:00",

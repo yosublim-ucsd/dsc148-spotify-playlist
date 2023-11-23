@@ -1,12 +1,12 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 55528,
+  "num_followers": 55549,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODAzMjAyZWE2ZjZjYWNkZmY0NmM5ZDZjMGU5MGI4MmYxNjYxZjU0",
+  "snapshot_id": "MCwwMTkyNDFmZDEzOGI4NGNkN2Y0ZmNkM2Y5ODNjM2Y2Y2FhY2JhZTNj",
   "tracks": [
     {
       "added_at": "2023-10-13 00:01:00",
@@ -511,22 +511,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "If These Walls Could Talk",
-        "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
+        "name": "The Very Best of Jimmy Reed",
+        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
       },
       "artists": [
         {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
-        },
-        {
-          "name": "Roberto Luti",
-          "url": "https://open.spotify.com/artist/33Cme6gMFRML19GrfipNMH"
+          "name": "Jimmy Reed",
+          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
         }
       ],
-      "duration_ms": 216716,
-      "name": "Watch Me Change",
-      "url": "https://open.spotify.com/track/01jQJSRH05Y1GnldY8nhp1"
+      "duration_ms": 169306,
+      "name": "Shame, Shame, Shame",
+      "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -547,6 +543,26 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "If These Walls Could Talk",
+        "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        },
+        {
+          "name": "Roberto Luti",
+          "url": "https://open.spotify.com/artist/33Cme6gMFRML19GrfipNMH"
+        }
+      ],
+      "duration_ms": 216716,
+      "name": "Watch Me Change",
+      "url": "https://open.spotify.com/track/01jQJSRH05Y1GnldY8nhp1"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "At Fillmore East",
         "url": "https://open.spotify.com/album/0Y5Wlv2OJKaW0uDJ5HnUfy"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 275303,
       "name": "Done Somebody Wrong - Live At The Fillmore East, March 1971",
       "url": "https://open.spotify.com/track/0WDsLvL9DKjj3qjed4IBa0"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "The Very Best of Jimmy Reed",
-        "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Reed",
-          "url": "https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV"
-        }
-      ],
-      "duration_ms": 169306,
-      "name": "Shame, Shame, Shame",
-      "url": "https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Completely Well",
-        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 295026,
-      "name": "Confessin' The Blues",
-      "url": "https://open.spotify.com/track/1rv1DreUDVLn4j0LqmEfIe"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 156733,
       "name": "Poor Boy",
       "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Completely Well",
+        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 295026,
+      "name": "Confessin' The Blues",
+      "url": "https://open.spotify.com/track/1rv1DreUDVLn4j0LqmEfIe"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -911,26 +911,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "That's What Love Will Make You Do",
-        "url": "https://open.spotify.com/album/7xmzTkr3X0BrctEwkEDqcp"
-      },
-      "artists": [
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "That's What Love Will Make You Do",
-      "url": "https://open.spotify.com/track/4rXXgDpZw2k1yu0ZnWWqJL"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Bob Corritore & Friends: Women In Blues Showcase",
         "url": "https://open.spotify.com/album/5Fo1fjBqdMpJcZfROBZI5x"
       },
@@ -951,6 +931,26 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "That's What Love Will Make You Do",
+        "url": "https://open.spotify.com/album/7xmzTkr3X0BrctEwkEDqcp"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "That's What Love Will Make You Do",
+      "url": "https://open.spotify.com/track/4rXXgDpZw2k1yu0ZnWWqJL"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Neon Sounds",
         "url": "https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Trouble No More",
-      "url": "https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
         "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 152893,
       "name": "Shake Your Money Maker",
       "url": "https://open.spotify.com/track/2VxnY6jbl0SckkZp9wrNF7"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Trouble No More",
+      "url": "https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Rumpshaker",
-        "url": "https://open.spotify.com/album/2TAatpkEA5nQcZkh9AiW6g"
-      },
-      "artists": [
-        {
-          "name": "Crystal Shawanda",
-          "url": "https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG"
-        }
-      ],
-      "duration_ms": 203250,
-      "name": "Rumpshaker",
-      "url": "https://open.spotify.com/track/7ucZi9RuxviWkpDCJrpyjE"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Change My Way",
         "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 179893,
       "name": "Down The Road Apiece",
       "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Rumpshaker",
+        "url": "https://open.spotify.com/album/2TAatpkEA5nQcZkh9AiW6g"
+      },
+      "artists": [
+        {
+          "name": "Crystal Shawanda",
+          "url": "https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "Rumpshaker",
+      "url": "https://open.spotify.com/track/7ucZi9RuxviWkpDCJrpyjE"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Choo Ma Gum",
-        "url": "https://open.spotify.com/album/5h1Z15QryGdZRCdLZsD8WE"
-      },
-      "artists": [
-        {
-          "name": "The Cinelli Brothers",
-          "url": "https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Choo Ma Gum",
-      "url": "https://open.spotify.com/track/6pTovnxQRzYQ6DlJO18sGf"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "I Pity The Fool: The Duke Recordings, Vol. One",
         "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 157800,
       "name": "Don't Want No Woman",
       "url": "https://open.spotify.com/track/4wf3I828IPvlbEGw7IZ3Ic"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Choo Ma Gum",
+        "url": "https://open.spotify.com/album/5h1Z15QryGdZRCdLZsD8WE"
+      },
+      "artists": [
+        {
+          "name": "The Cinelli Brothers",
+          "url": "https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Choo Ma Gum",
+      "url": "https://open.spotify.com/track/6pTovnxQRzYQ6DlJO18sGf"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Somebody Save Me",
+        "url": "https://open.spotify.com/album/6is4NsogY9tsZX0vcQWCv2"
+      },
+      "artists": [
+        {
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+        }
+      ],
+      "duration_ms": 217361,
+      "name": "Time to Get Movin'",
+      "url": "https://open.spotify.com/track/1L4bBxv6uRhBjRVXTFAQ3R"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Last Time",
         "url": "https://open.spotify.com/album/7d1zgjgQZO89I2ffcHpVze"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 151919,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/5y0qdBH20kqP3xCWP2UmQt"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Somebody Save Me",
-        "url": "https://open.spotify.com/album/6is4NsogY9tsZX0vcQWCv2"
-      },
-      "artists": [
-        {
-          "name": "Sugaray Rayford",
-          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
-        }
-      ],
-      "duration_ms": 217361,
-      "name": "Time to Get Movin'",
-      "url": "https://open.spotify.com/track/1L4bBxv6uRhBjRVXTFAQ3R"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Proud Disturber of the Peace",
+        "url": "https://open.spotify.com/album/2cIAXqoRWFfKAZxfR5ervI"
+      },
+      "artists": [
+        {
+          "name": "William The Conqueror",
+          "url": "https://open.spotify.com/artist/1r3usFuloWo113ldctoDnX"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "Mind Keeps Changing",
+      "url": "https://open.spotify.com/track/5LmnECs0CjogD3qLbMNUf9"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "The Sun is Shining Down",
         "url": "https://open.spotify.com/album/5xuD9DAR2jAPxlYw4XnaXt"
       },
@@ -1759,22 +1775,6 @@
       "duration_ms": 300143,
       "name": "Hungry and Ready (feat. Melvin Taylor)",
       "url": "https://open.spotify.com/track/1gbujLyUUFGmgxjJ8EGuZt"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Proud Disturber of the Peace",
-        "url": "https://open.spotify.com/album/2cIAXqoRWFfKAZxfR5ervI"
-      },
-      "artists": [
-        {
-          "name": "William The Conqueror",
-          "url": "https://open.spotify.com/artist/1r3usFuloWo113ldctoDnX"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "Mind Keeps Changing",
-      "url": "https://open.spotify.com/track/5LmnECs0CjogD3qLbMNUf9"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1831,18 +1831,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Home Sweet Home",
-        "url": "https://open.spotify.com/album/67kl2wY1aV6HVoUT5OlIkM"
+        "name": "Back to the Blues (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0oy6FL21rdqKFlGEmJfuZp"
       },
       "artists": [
         {
-          "name": "Joe Flip",
-          "url": "https://open.spotify.com/artist/7I0jia2wrhNWpDzqpjam1k"
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
         }
       ],
-      "duration_ms": 217213,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/2oGjkwyqqZmp4BERyVekFI"
+      "duration_ms": 245400,
+      "name": "Cold Black Night (Live at VH1)",
+      "url": "https://open.spotify.com/track/4YTn5VVoRwySkVvlHOgTU1"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1863,18 +1863,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Back to the Blues (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0oy6FL21rdqKFlGEmJfuZp"
+        "name": "Home Sweet Home",
+        "url": "https://open.spotify.com/album/67kl2wY1aV6HVoUT5OlIkM"
       },
       "artists": [
         {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+          "name": "Joe Flip",
+          "url": "https://open.spotify.com/artist/7I0jia2wrhNWpDzqpjam1k"
         }
       ],
-      "duration_ms": 245400,
-      "name": "Cold Black Night (Live at VH1)",
-      "url": "https://open.spotify.com/track/4YTn5VVoRwySkVvlHOgTU1"
+      "duration_ms": 217213,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/2oGjkwyqqZmp4BERyVekFI"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "RED DRESS",
-        "url": "https://open.spotify.com/album/4uh2J2yGXDUpXqN3VNSTtA"
-      },
-      "artists": [
-        {
-          "name": "Ethan Wilson",
-          "url": "https://open.spotify.com/artist/0HrxgAPTbsueVGzLVZ6RzP"
-        }
-      ],
-      "duration_ms": 196754,
-      "name": "RED DRESS",
-      "url": "https://open.spotify.com/track/7piAoG8DsUIsXzahToJ5Yb"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "May Be the Last Time",
         "url": "https://open.spotify.com/album/7fGQsHSygCD5xVwM0IVQhK"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 233653,
       "name": "Shake Your Hips",
       "url": "https://open.spotify.com/track/2vb1sXfQJ3WsmevEvfnKeo"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "RED DRESS",
+        "url": "https://open.spotify.com/album/4uh2J2yGXDUpXqN3VNSTtA"
+      },
+      "artists": [
+        {
+          "name": "Ethan Wilson",
+          "url": "https://open.spotify.com/artist/0HrxgAPTbsueVGzLVZ6RzP"
+        }
+      ],
+      "duration_ms": 196754,
+      "name": "RED DRESS",
+      "url": "https://open.spotify.com/track/7piAoG8DsUIsXzahToJ5Yb"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "They Call Me Mud",
-        "url": "https://open.spotify.com/album/3BAjDAf2GWUYnpIebugxyP"
-      },
-      "artists": [
-        {
-          "name": "Mud Morganfield",
-          "url": "https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn"
-        }
-      ],
-      "duration_ms": 240098,
-      "name": "They Call Me Mud",
-      "url": "https://open.spotify.com/track/4RA6mNzd1GmecXAlQaZ6GK"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "All For Business",
         "url": "https://open.spotify.com/album/57Iat2JrCisYjDyFsW9qhK"
       },
@@ -2055,18 +2039,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Ridin' with the Blues",
-        "url": "https://open.spotify.com/album/0lD5BukyzH1hadhyhdmqlT"
+        "name": "They Call Me Mud",
+        "url": "https://open.spotify.com/album/3BAjDAf2GWUYnpIebugxyP"
       },
       "artists": [
         {
-          "name": "Betty Padgett",
-          "url": "https://open.spotify.com/artist/5WlOxakcWwJzjXE7AIt7He"
+          "name": "Mud Morganfield",
+          "url": "https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn"
         }
       ],
-      "duration_ms": 268121,
-      "name": "Old School Blues",
-      "url": "https://open.spotify.com/track/10E1R5NUF4kCYl1o7QosuR"
+      "duration_ms": 240098,
+      "name": "They Call Me Mud",
+      "url": "https://open.spotify.com/track/4RA6mNzd1GmecXAlQaZ6GK"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -2099,6 +2083,22 @@
       "duration_ms": 201640,
       "name": "Hound Dog On a Chain",
       "url": "https://open.spotify.com/track/7cqji2mGT2RZLt8MdpH0Eb"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Ridin' with the Blues",
+        "url": "https://open.spotify.com/album/0lD5BukyzH1hadhyhdmqlT"
+      },
+      "artists": [
+        {
+          "name": "Betty Padgett",
+          "url": "https://open.spotify.com/artist/5WlOxakcWwJzjXE7AIt7He"
+        }
+      ],
+      "duration_ms": 268121,
+      "name": "Old School Blues",
+      "url": "https://open.spotify.com/track/10E1R5NUF4kCYl1o7QosuR"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -2431,22 +2431,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Trying to Hold On",
-        "url": "https://open.spotify.com/album/4eYqi12IL2UvjNbnrZYP5s"
-      },
-      "artists": [
-        {
-          "name": "Diunna Greenleaf",
-          "url": "https://open.spotify.com/artist/22laryZFr71CbB5WtXIMzb"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "I Can't Wait",
-      "url": "https://open.spotify.com/track/0H5OwyqyF1UM39wieKPGn0"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "No Entry",
         "url": "https://open.spotify.com/album/54Q3cyvgB0PlWf3ML7v3rD"
       },
@@ -2459,6 +2443,22 @@
       "duration_ms": 250750,
       "name": "Fools for Love",
       "url": "https://open.spotify.com/track/65oJF7sCSUj1Bzlox3lRdU"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Trying to Hold On",
+        "url": "https://open.spotify.com/album/4eYqi12IL2UvjNbnrZYP5s"
+      },
+      "artists": [
+        {
+          "name": "Diunna Greenleaf",
+          "url": "https://open.spotify.com/artist/22laryZFr71CbB5WtXIMzb"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/0H5OwyqyF1UM39wieKPGn0"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -2479,18 +2479,18 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Easy / Before Long",
-        "url": "https://open.spotify.com/album/69z9bVNIBVsYOB2tNIVXJt"
+        "name": "Don\u2019t Care",
+        "url": "https://open.spotify.com/album/2IVrkUiubvKS4oYzuuVEug"
       },
       "artists": [
         {
-          "name": "Jimmy & Walter",
-          "url": "https://open.spotify.com/artist/4gWn6kCmkp7tqmWkCO59Kb"
+          "name": "The Bluetonics",
+          "url": "https://open.spotify.com/artist/3nBX9z9NzfzxHfOkyU6226"
         }
       ],
-      "duration_ms": 177831,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2l9uaFZ6qLT51iuuzCgYIk"
+      "duration_ms": 204400,
+      "name": "Don`t Care",
+      "url": "https://open.spotify.com/track/3k6KyWwZQCTfK4Hj9dDKRU"
     }
   ],
   "unique_name": "Upbeat Blues",

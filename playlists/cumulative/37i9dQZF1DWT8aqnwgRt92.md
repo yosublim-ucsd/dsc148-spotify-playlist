@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,056 songs - 2 day 18 hr 41 min
+1,057 songs - 2 day 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [RVR～ライジングボルテッカーズラップ～ \- モリーVer.](https://open.spotify.com/track/17DKh6A3l3WlRSBy10TGf9) | [リコ\(CV:鈴木みのり\)](https://open.spotify.com/artist/41iMg7aLYR9zoeTg3YG83s), [ロイ\(CV:寺崎裕香\)](https://open.spotify.com/artist/7KHjxPdqQu8j5gigNdrZEi), [モリ―\(CV:真堂圭\)](https://open.spotify.com/artist/0EYCrd7ZzqVl5vGOJ4Ols9) | [RVR～ライジングボルテッカーズラップ～ \(モリーVer.\)](https://open.spotify.com/album/5g4zaYfnYIuN5uXSJVDrI2) | 1:29 | 2023-07-27 | 2023-09-01 |
 | [RVR～ライジングボルテッカーズラップ～ \- ランドウVer.](https://open.spotify.com/track/0bSBXopHoBy11bJCdIAOQU) | [リコ\(CV:鈴木みのり\)](https://open.spotify.com/artist/41iMg7aLYR9zoeTg3YG83s), [ロイ\(CV:寺崎裕香\)](https://open.spotify.com/artist/7KHjxPdqQu8j5gigNdrZEi), [ランドウ\(CV:塾一久\)](https://open.spotify.com/artist/2STQX1HWU0pb0ceNCgmhqQ) | [RVR～ライジングボルテッカーズラップ～ \(ランドウVer.\)](https://open.spotify.com/album/7LdJcx81WCtyPxNNrIjsUV) | 1:29 | 2023-07-27 | 2023-07-29 |
 | [S9aiR](https://open.spotify.com/track/2bREEoMT7EyoUFwxh04IzM) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [S9aiR](https://open.spotify.com/album/6VGtl5hQVxkrUoY3k0t5vm) | 3:17 | 2023-10-07 | 2023-11-08 |
+| [Sad Man's Land](https://open.spotify.com/track/4xyUAs7SidlrpWhIPM7HDI) | [Kento Ito](https://open.spotify.com/artist/07VroOJ1SGvFrdu69YwEdd) | [Sad Man's Land](https://open.spotify.com/album/0AIgo5bU09D3dqvChlq1HZ) | 3:30 | 2023-11-21 |  |
 | [Saigo no Kyojin](https://open.spotify.com/track/1iwxWteWfmWb1LekPweXnY) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Saigo no Kyojin](https://open.spotify.com/album/0aski4Pd2GvDmA6l90Mepg) | 4:00 | 2023-11-05 |  |
 | [Salt & Sugar](https://open.spotify.com/track/2X0wvwTrhRC9oDdCa48DPR) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Salt & Sugar](https://open.spotify.com/album/3VFrgDd3xHNejGad8vyBh3) | 3:51 | 2023-04-11 | 2023-04-26 |
 | [Salvia](https://open.spotify.com/track/0bcTxNXi8c0IUY0PhNYItd) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Sarracenia / Salvia](https://open.spotify.com/album/4KO4Ul7zk5Rz2itJ5KKtyl) | 3:26 | 2023-08-29 | 2023-10-08 |
@@ -731,7 +732,7 @@
 | [サイダー](https://open.spotify.com/track/1pgT2Ue3CjtILtKHkifnmS) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [サイダー](https://open.spotify.com/album/3hCLUq4eAthQqGFZ3KfJbY) | 4:27 | 2022-07-05 | 2022-08-06 |
 | [サイレントマイノリティー](https://open.spotify.com/track/2X0KAuaG6RCoa8C1A1DPmI) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [TVアニメ「乙女ゲー世界はモブに厳しい世界です」オープニングテーマ「サイレントマイノリティー」](https://open.spotify.com/album/5hK3alKl1ln4eAJtM3vN4u) | 3:38 | 2022-05-28 | 2022-07-06 |
 | [サインはB \- アイ Solo Ver.](https://open.spotify.com/track/3xFQL262WHl5XNigU4rgW0) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [アイ\(CV:高橋李依\)](https://open.spotify.com/artist/5TB17Dz2LxzznEW190lYs0) | [TVアニメ「【推しの子】」キャラクターソングCD \(Vol.1\)](https://open.spotify.com/album/7d64mWymF8BzaGpIrSp0iS) | 3:33 | 2023-07-04 | 2023-07-06 |
-| [サッドマンズランド](https://open.spotify.com/track/7ioRJHFZ1aD7ZnmyLeJQJx) | [伊東健人](https://open.spotify.com/artist/1bPpm1gD9bX3hXCYaORYlw) | [サッドマンズランド](https://open.spotify.com/album/3OIaGppkarhicPJMPsaYh9) | 3:30 | 2023-11-21 |  |
+| [サッドマンズランド](https://open.spotify.com/track/7ioRJHFZ1aD7ZnmyLeJQJx) | [伊東健人](https://open.spotify.com/artist/1bPpm1gD9bX3hXCYaORYlw) | [サッドマンズランド](https://open.spotify.com/album/3OIaGppkarhicPJMPsaYh9) | 3:30 | 2023-11-21 | 2023-11-23 |
 | [サプライズ](https://open.spotify.com/track/0zStZ471xNYcNM4sh5hzIM) | [中島怜](https://open.spotify.com/artist/7pQmC6NNs7KvWfrYKmqPbo) | [TVアニメ「シュガーアップル・フェアリーテイル」第2クールオープニングテーマ サプライズ](https://open.spotify.com/album/1krpjY1aTPLATC48GhTm7C) | 4:25 | 2023-07-18 | 2023-07-20 |
 | [サムライハート\(Some Like It Hot!!\) \- New Version \-](https://open.spotify.com/track/4kAAFbY5pyUCgRtxxjysPM) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [サムライハート\(Some Like It Hot!!\) \-New Version\-](https://open.spotify.com/album/64UfMDi2h1SPbZH0Btb857) | 3:18 | 2023-06-08 | 2023-07-19 |
 | [シャル・ウィ・ダンス?](https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [シャル・ウィ・ダンス?](https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ) | 4:26 | 2022-07-12 | 2022-10-14 |

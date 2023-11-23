@@ -20452,10 +20452,28 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 187000,
       "name": "Show Friends",
       "url": "https://open.spotify.com/track/0Grfb5ta2qSUt3DHCiaLM1"
+    },
+    {
+      "album": {
+        "name": "Show Friends",
+        "url": "https://open.spotify.com/album/4Giirh6zaV7k8g7INupvwH"
+      },
+      "artists": [
+        {
+          "name": "Fucked Up",
+          "url": "https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Show Friends",
+      "url": "https://open.spotify.com/track/553jmB9Nq4yPJgMFtkjVRm"
     },
     {
       "album": {

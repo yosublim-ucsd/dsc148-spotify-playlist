@@ -4,7 +4,7 @@
 
 > La liste de lecture officielle de l’édition 2023 des Francos de Montréal!
 
-318 songs - 18 hr 16 min
+319 songs - 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [DIMANCHE SOIR](https://open.spotify.com/track/4fPYWGikmNerft32c7oBFx) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/1NGo3rdbMESZwF6TxptGSN) | 3:09 | 2022-05-25 | 2023-04-13 |
 | [DIMANCHE SOIR](https://open.spotify.com/track/5zNJA7dp0PRlghdKSEcYIp) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [OCTEMBRE](https://open.spotify.com/album/0K0qvDRwlR3XcVDuJy4Jqx) | 3:09 | 2022-05-25 | 2022-07-29 |
 | [DOWN](https://open.spotify.com/track/2FLFmCpVrGBTp0C85BaFWL) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [DOWN](https://open.spotify.com/album/4PN3DB5DCWhfnKL8MPmmJV) | 2:45 | 2023-05-24 |  |
-| [Débloquer](https://open.spotify.com/track/2EwkmMArSs5Qxb6Tus0r4A) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Débloquer](https://open.spotify.com/album/0nLznb2oEE0QTEpYciNEoU) | 3:27 | 2023-05-25 |  |
+| [Débloquer](https://open.spotify.com/track/2EwkmMArSs5Qxb6Tus0r4A) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Débloquer](https://open.spotify.com/album/0nLznb2oEE0QTEpYciNEoU) | 3:27 | 2023-05-25 | 2023-11-23 |
+| [Débloquer](https://open.spotify.com/track/6GqDdQilljjSQtOIrJpjPc) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Débloquer](https://open.spotify.com/album/3RaTe5Dfyw2h84iX4PMkSw) | 3:27 | 2023-05-25 |  |
 | [Encore et encore](https://open.spotify.com/track/4fD6FWsUZCFaq9phZERRoF) | [SAÏK](https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I), [Pompis](https://open.spotify.com/artist/5MvTyp1ILPh1FZupAcFffI), [Layanah](https://open.spotify.com/artist/7DFSyHRCHorchjSaMe9M3M) | [Givmeall Hit Stars](https://open.spotify.com/album/0MEMQh52RnTAOhY9flt4Ju) | 3:45 | 2022-05-25 | 2023-04-13 |
 | [Ensemble](https://open.spotify.com/track/6vM411RagdEKjnK4kb1f88) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9), [ISMA](https://open.spotify.com/artist/7oeOvjTf8uB3MYhPSXTDIy) | [Le pouvoir de l'esprit est infini](https://open.spotify.com/album/4Tn6ivEofLTooQvhHqmTRm) | 4:37 | 2023-05-25 |  |
 | [Entre ce que j'dis...](https://open.spotify.com/track/3NxTgCKrntVPsM0u5V4Crn) | [Maggie Savoie](https://open.spotify.com/artist/3U1HJVYm4Z3G59ldoODMmA) | [Appalaches](https://open.spotify.com/album/2eq8zH8ZO19shABNzBX9qT) | 3:31 | 2022-05-25 | 2022-07-28 |

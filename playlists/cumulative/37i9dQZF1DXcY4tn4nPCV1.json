@@ -1179,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Daily Routine",
+        "url": "https://open.spotify.com/album/2nrC6flLFnb4KFulBMM4VW"
+      },
+      "artists": [
+        {
+          "name": "Gale Moore",
+          "url": "https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125612,
+      "name": "Daily Routine",
+      "url": "https://open.spotify.com/track/3Cjph5SHBAwB3JTTFjAPci"
+    },
+    {
+      "album": {
         "name": "Dandelion Song",
         "url": "https://open.spotify.com/album/26QuZDw2nEtsvVWUUZaLwM"
       },
@@ -1406,7 +1424,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 110624,
       "name": "Easy Mind",
       "url": "https://open.spotify.com/track/5yWqERL6uxGk8aM0kwTLLK"
@@ -3869,6 +3887,24 @@
     },
     {
       "album": {
+        "name": "Onirique",
+        "url": "https://open.spotify.com/album/4AmV0ApxmACCuyh5KZRbJG"
+      },
+      "artists": [
+        {
+          "name": "Mes Croquis",
+          "url": "https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155731,
+      "name": "Onirique",
+      "url": "https://open.spotify.com/track/0BzV38nap8TF9v1Z8aX4Qk"
+    },
+    {
+      "album": {
         "name": "Open Mind Open Heart",
         "url": "https://open.spotify.com/album/31VjY7OLmvvYe6JrEc5LSf"
       },
@@ -4406,6 +4442,24 @@
       "duration_ms": 114285,
       "name": "Red Roses",
       "url": "https://open.spotify.com/track/5CF6kdYN9s5x3Zps5hHPDZ"
+    },
+    {
+      "album": {
+        "name": "Remain",
+        "url": "https://open.spotify.com/album/4QxhQ7l9PaQx3QqfSqI3Ho"
+      },
+      "artists": [
+        {
+          "name": "Carl Moir",
+          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125804,
+      "name": "Remain",
+      "url": "https://open.spotify.com/track/2UZFceHSxA4HUsPdOp5Vzr"
     },
     {
       "album": {

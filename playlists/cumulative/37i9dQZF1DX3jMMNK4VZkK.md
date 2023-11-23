@@ -4,7 +4,7 @@
 
 > Who runs the world? GIRLS!
 
-142 songs - 8 hr 31 min
+143 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,8 +44,9 @@
 | [FANCY](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 3:33 | 2020-09-29 |  |
 | [FANCY](https://open.spotify.com/track/60zxdAqWtdDu0vYsbXViA7) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/759BaVI4pjAh6l16xqm56V) | 3:33 | 2020-09-29 | 2022-07-29 |
 | [Funeral](https://open.spotify.com/track/4RmKK37XKL0J27QUc58MTm) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Funeral](https://open.spotify.com/album/2srLmNollr7uXI3HS6rlqq) | 3:17 | 2020-09-29 |  |
-| [GIRLS](https://open.spotify.com/track/2voQ1UBNNiXTk52ZrYc48D) | [Rosie McClelland](https://open.spotify.com/artist/5ZP6UcDgCZVaurzfVf1Vjh) | [GIRLS](https://open.spotify.com/album/0OQq3BWjLMyGTu0rNTQZZU) | 2:38 | 2020-10-26 |  |
+| [GIRLS](https://open.spotify.com/track/2voQ1UBNNiXTk52ZrYc48D) | [Rosie McClelland](https://open.spotify.com/artist/5ZP6UcDgCZVaurzfVf1Vjh) | [GIRLS](https://open.spotify.com/album/0OQq3BWjLMyGTu0rNTQZZU) | 2:38 | 2020-10-26 | 2023-11-23 |
 | [GIRLS](https://open.spotify.com/track/6VmyLa0AepMixL3ur4yyU6) | [Rosie McClelland](https://open.spotify.com/artist/5ZP6UcDgCZVaurzfVf1Vjh) | [GIRLS](https://open.spotify.com/album/2zzZ9a1gHH7rtOsbdYp02S) | 2:38 | 2020-10-26 | 2022-10-14 |
+| [GIRLS](https://open.spotify.com/track/71SPvXAkIELx4MJBURhJXs) | [Rosie McClelland](https://open.spotify.com/artist/5ZP6UcDgCZVaurzfVf1Vjh) | [GIRLS](https://open.spotify.com/album/7zbiF2kPFemm3H1vvIEMZi) | 2:38 | 2023-03-17 |  |
 | [Girls Do It Best](https://open.spotify.com/track/0Nk5gkcSIkSu29m4XO95mq) | [Karma's World](https://open.spotify.com/artist/2d9kWGh7cYV72fwJkePAVS) | [We Dance Full Out](https://open.spotify.com/album/4KfRi7zVFxgR5GO33iLbTC) | 2:22 | 2023-03-17 |  |
 | [Give A Little](https://open.spotify.com/track/3D4uUFRoYDFHbkQlTKL2Om) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:46 | 2020-09-29 |  |
 | [Go Lay Lay Go](https://open.spotify.com/track/0jPTahwv09GWoUFKeWvVZr) | [That Girl Lay Lay](https://open.spotify.com/artist/6GVYRmhvBibjGCythicOlZ) | [Tha Cheat Code](https://open.spotify.com/album/1BC5qLOF5lsmAfV7WgfRfA) | 3:23 | 2020-09-29 |  |

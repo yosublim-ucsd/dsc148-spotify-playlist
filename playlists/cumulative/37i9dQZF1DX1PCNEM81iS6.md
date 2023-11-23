@@ -4,7 +4,7 @@
 
 > Music from "That Time I Got Reincarnated as a Slime"! /アニメ「転生したらスライムだった件」の世界を彩る楽曲をプレイリストで。©川上泰樹・伏瀬・講談社／転スラ製作委員会
 
-60 songs - 2 hr 48 min
+61 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Like Flames](https://open.spotify.com/track/1alE9lua8JABuhSHZUWb4p) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [My Journey](https://open.spotify.com/album/78xcCfTKnMuCjukZaOayf0) | 4:10 | 2022-11-25 |  |
 | [Like Flames](https://open.spotify.com/track/4xBBNJ8spMyuJynOQxJf7e) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Like Flames](https://open.spotify.com/album/1si6jnjPfRrzezrxnKGxtd) | 4:10 | 2022-11-25 | 2022-12-24 |
 | [Make Me Feel Better](https://open.spotify.com/track/48Hxgmy2rW0jT6YZUo18R8) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Make Me Feel Better](https://open.spotify.com/album/0VymrjRtKPZUvHkcJLaqby) | 4:29 | 2022-11-25 |  |
+| [MONOGRAM](https://open.spotify.com/track/135nKXuCgD9wcByXRWjB4o) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [MONOGRAM](https://open.spotify.com/album/1D7FJhAmoqrVERB7IRXZ0h) | 3:39 | 2023-11-22 |  |
 | [Nameless Story](https://open.spotify.com/track/0DR2YxEHLwmb3ZLcqHbjN2) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [Nameless Story \(アーティスト盤\)](https://open.spotify.com/album/5ALYVB2B7UAkaeYrukIXGt) | 4:02 | 2022-11-25 |  |
 | [Reincarnate](https://open.spotify.com/track/0xjYJAWptZsu023I70OhKj) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [LAYERING](https://open.spotify.com/album/0zkDqUmXN5wclz5CtXr3ey) | 4:03 | 2022-11-25 |  |
 | [SPARKLES](https://open.spotify.com/track/3heytsqAvwcOmpvJvKop80) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [SPARKLES](https://open.spotify.com/album/7DLjM7lmuv7rlhVShdIBXN) | 4:36 | 2022-11-25 |  |

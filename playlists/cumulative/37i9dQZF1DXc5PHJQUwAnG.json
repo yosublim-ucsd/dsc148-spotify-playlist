@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/5Qw2pehPdFFcfrbxDIYkKi"
+      },
+      "artists": [
+        {
+          "name": "Tryzty",
+          "url": "https://open.spotify.com/artist/3WwHNlLL31bBoiHYzd8hAS"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213041,
+      "name": "333",
+      "url": "https://open.spotify.com/track/6oznrEzGcHGVEOpChT2xTv"
+    },
+    {
+      "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/13k2zzqSV0ZCV8tmYGhvSL"
       },
@@ -2810,7 +2828,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 111364,
       "name": "Mvp - Freestyle",
       "url": "https://open.spotify.com/track/6McibwzZ3hpQWVF173HXjg"
@@ -2832,6 +2850,36 @@
       "duration_ms": 182000,
       "name": "My Name",
       "url": "https://open.spotify.com/track/0O1AdqQhfLoWp0gNsG8ysy"
+    },
+    {
+      "album": {
+        "name": "M\u00e1rcame (feat. Los Reyes del Norte)",
+        "url": "https://open.spotify.com/album/2jPwtiL1pBWoVZgeHEpwH4"
+      },
+      "artists": [
+        {
+          "name": "Nash",
+          "url": "https://open.spotify.com/artist/4YBfycQ7b5Nim6IepjpnO3"
+        },
+        {
+          "name": "Pinky06",
+          "url": "https://open.spotify.com/artist/3IaOQV2tg0ZxEbN6UyYF1E"
+        },
+        {
+          "name": "Papi Trujillo",
+          "url": "https://open.spotify.com/artist/7dG3aAHAFVHMyQo9meGLwb"
+        },
+        {
+          "name": "Los Reyes del Norte",
+          "url": "https://open.spotify.com/artist/5XZZmaQkH0J3IFGNTYf7LA"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202593,
+      "name": "M\u00e1rcame (feat. Los Reyes del Norte)",
+      "url": "https://open.spotify.com/track/0GHd7P1o51mNiu6HeXSZo4"
     },
     {
       "album": {
@@ -3804,7 +3852,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 129373,
       "name": "Se\u00f1ales",
       "url": "https://open.spotify.com/track/11C3JshvZNh5hPkWKQVpoR"

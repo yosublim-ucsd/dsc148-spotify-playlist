@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-268 songs - 14 hr 35 min
+269 songs - 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bar Friends \- Acoustic](https://open.spotify.com/track/2F6WS0ge5MpaMlOiIXOwUG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Bar Friends \(Acoustic\)](https://open.spotify.com/album/0ihzfb4aNvUcjehS3Fr8es) | 3:00 | 2021-12-17 | 2022-08-14 |
 | [Be The Whiskey \- Acoustic](https://open.spotify.com/track/14JVlEhfjxjxIlWuJdCG4d) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Be The Whiskey \(Acoustic\)](https://open.spotify.com/album/0vtH7u5PFFZpvAaRuxNa5f) | 3:02 | 2023-02-03 | 2023-04-05 |
 | [Best Of Me \(feat\. Dallas Smith\) \- Live Acoustic](https://open.spotify.com/track/595uX2pBVg3T7twSbuWiFE) | [Josh Ramsay](https://open.spotify.com/artist/5lemlzREG6FOAergTgPi9B), [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Best Of Me \(feat\. Dallas Smith\) \[Live Acoustic\]](https://open.spotify.com/album/3k5vv15i6n5dlHsLkDIAmG) | 3:57 | 2022-03-11 | 2022-07-22 |
+| [Best Shot \(Acoustic\)](https://open.spotify.com/track/1i3koBIHigtGkhFSKEW3Gn) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Best Shot \(Acoustic\)](https://open.spotify.com/album/6RKktqrvsQlht15wzaeWR2) | 3:13 | 2023-11-10 |  |
 | [Best Shot \- Acoustic](https://open.spotify.com/track/760faKfgTNKZeuJ9khjV1J) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Best Shot \(Acoustic\)](https://open.spotify.com/album/75cVE2IQSMeE4LwiQAfCS4) | 3:13 | 2021-12-17 | 2023-11-04 |
 | [Best Shot \- Spotify Singles](https://open.spotify.com/track/6rrLJj8UgltvAustzZhK1w) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:10 | 2022-04-01 | 2022-08-27 |
 | [Better Off Gone \(Acoustic Sessions\)](https://open.spotify.com/track/3KJsNDJeH0GF0XJs0U0tl1) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Acoustic Sessions](https://open.spotify.com/album/4rLHas5Md1Z8huxYjp0dkm) | 3:24 | 2021-12-17 | 2022-07-29 |
@@ -201,7 +202,7 @@
 | [Something You Ain't Ever Had \- Acoustic](https://open.spotify.com/track/0WdkuR9ZwleXI1MZH37ZCP) | [Waterloo Revival](https://open.spotify.com/artist/3dYdcyW7mhZYVDDkNvkd0c) | [Something You Ain't Ever Had \(Acoustic\)](https://open.spotify.com/album/4p6gQvM1IU97W6vhWNdBkk) | 3:18 | 2021-12-17 | 2022-07-16 |
 | [Something's Gonna Kill Me \- Piano](https://open.spotify.com/track/4zUuhIVPfWkfSWMFIi7WKx) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me \(Piano\)](https://open.spotify.com/album/1Ih4pEKPgOCvcLiVwijzwS) | 3:02 | 2023-09-29 |  |
 | [Son Of A \(Acoustic\)](https://open.spotify.com/track/6dUVnXkXzVlv9UfxRoJtYN) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Son Of A \(Acoustic\)](https://open.spotify.com/album/3DfnUMdSb5KMIpsJE7BQb3) | 3:16 | 2022-01-28 | 2022-08-12 |
-| [St\. Louis](https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [St\. Louis](https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n) | 4:34 | 2021-12-17 |  |
+| [St\. Louis](https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [St\. Louis](https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n) | 4:34 | 2021-12-17 | 2023-11-23 |
 | [Standing Room Only \- Acoustic](https://open.spotify.com/track/0B8Z2MvMXc52D06L3SkXwE) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Standing Room Only \(Acoustic\)](https://open.spotify.com/album/3rFLlJ2vRuigTDlrA8DmN4) | 3:46 | 2023-07-14 |  |
 | [Steady Heart \- Wedding Version](https://open.spotify.com/track/3UHicRfzUv8WiMXgIVKXBV) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart \(Wedding Version\)](https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp) | 3:30 | 2022-02-04 |  |
 | [Still Got It \- Acoustic](https://open.spotify.com/track/6EfDVHrPMkd7QvxgxZBag1) | [Pierre Alexander](https://open.spotify.com/artist/55TMBUBKkjVqu2EipyfY9z) | [Still Got It \(Acoustic\)](https://open.spotify.com/album/3joSZ5iwWIS6VucduIrwkl) | 3:03 | 2022-04-08 | 2022-07-11 |

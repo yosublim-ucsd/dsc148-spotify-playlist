@@ -4,7 +4,7 @@
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-92 songs - 6 hr 28 min
+96 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,8 @@
 | [Gangster Disco](https://open.spotify.com/track/79seu23FNymmrr6YCWg75p) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Gangster Disco](https://open.spotify.com/album/6C0sEFSyuNWk03faNZZJ7J) | 3:40 | 2023-08-18 |  |
 | [Guddi Riddim](https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Guddi Riddim](https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN) | 3:30 | 2023-08-18 |  |
 | [Hai Hai \(Original Mix\)](https://open.spotify.com/track/4g8bzs2j3D72vm0wcguZ2q) | [Panjabi Hit Squad](https://open.spotify.com/artist/3IlSLDQTwlMSGiWDRoJ0Gj), [Ms Scandalous](https://open.spotify.com/artist/28BHtfPgUuB1w2hGu3j0mZ) | [Essential Desi](https://open.spotify.com/album/1xSOkSOQZcrwGFYYib8Bri) | 4:33 | 2023-08-18 |  |
+| [Heera Ranjha](https://open.spotify.com/track/4X6IOxtvss2IVzLRz0zxeA) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Shefali Alvares](https://open.spotify.com/artist/1Jt7JB3WIWaANzwHoybsVn) | [Heera Ranjha](https://open.spotify.com/album/5ib7pTJDafkQ9zAjjhe6Wp) | 2:16 | 2023-11-21 |  |
+| [Husn Walo Se](https://open.spotify.com/track/71EgEPhb8EqMpuq2BAbIJs) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Kutle Khan](https://open.spotify.com/artist/6RBH1sfqF19q05ODygFOZE) | [Husn Walo Se](https://open.spotify.com/album/4Tw7DA7tvyjBsVq5KwEGWt) | 2:44 | 2023-11-21 |  |
 | [Huzur \(Reprise\)](https://open.spotify.com/track/2zRKJr7WxH6wzWxZRAmpxb) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Bazaar](https://open.spotify.com/album/1diwJts8QHs0Jv8SReZjN3) | 4:56 | 2023-08-18 |  |
 | [India Style](https://open.spotify.com/track/2Dr4gu3NnRA8vyikJMp1pw) | [Y do I](https://open.spotify.com/artist/4GVWch4tEmNGIx9gAWrnex) | [Mama India](https://open.spotify.com/album/0Qb4ObiRkJ17EvkYXa10ak) | 6:45 | 2023-10-27 |  |
 | [Inteha\-e\-Ishq \- Stereo Munk Reinterpretation](https://open.spotify.com/track/5yqM3cyY9lQLNOflyHArSG) | [Adnan Qureshi](https://open.spotify.com/artist/3F4hn6cXw4bc2RDWrAWMrL), [STEREO MUNK](https://open.spotify.com/artist/3r7gMVTtZJajmfLVhYH3Pj) | [Inteha\-e\-Ishq \(Stereo Munk Reinterpretation\)](https://open.spotify.com/album/3YZ8rrcC76UkReoBpeG2N2) | 6:30 | 2023-08-18 |  |
@@ -59,6 +61,7 @@
 | [Mohabbat](https://open.spotify.com/track/6FwgPbbQXBxa4mab8jjnfh) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Mohabbat](https://open.spotify.com/album/5jbAbd9jlNKpTPION8w7rr) | 3:46 | 2023-10-03 |  |
 | [Moonlit Lover](https://open.spotify.com/track/4Uj0H89Q93tiAxRcoi8aMk) | [November Rose](https://open.spotify.com/artist/40i8JD0t84iUXFC2Y2bNHO), [M2Ray](https://open.spotify.com/artist/41PvTcdjo838tJg5GdqJEm) | [Moonlit Lover](https://open.spotify.com/album/1huguE9oxumqzkuZFV6ryL) | 1:57 | 2023-08-18 |  |
 | [Mukabala](https://open.spotify.com/track/4MoVhriAvZ7FiZO8uQ3f7j) | [Sodhivine](https://open.spotify.com/artist/2S6ptKppxWXwvrTaabpeT0) | [Future Bollywood Trap Sounds](https://open.spotify.com/album/6jbG2VTBM4KAD652A2uhxQ) | 2:58 | 2023-08-18 |  |
+| [Mundian to Bach Ke](https://open.spotify.com/track/4uMHWo1URfFfPBHE67KlUa) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz) | [Mundian to Bach Ke](https://open.spotify.com/album/4awzx1tZHPa4Vbf11QvdpZ) | 3:11 | 2023-11-21 |  |
 | [Naani](https://open.spotify.com/track/3wjTIGcE4bDjdMUVKELEtm) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Naani](https://open.spotify.com/album/2sSpXO2C7ZNHh19dnIIOn4) | 3:56 | 2023-08-18 |  |
 | [Nacho \- Extended Mix](https://open.spotify.com/track/6pRR2YZd7YxHi2FtHU8M6w) | [Anyasa](https://open.spotify.com/artist/63zQTMtwPjkb5cFFMkL4xd), [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8) | [Gaya EP](https://open.spotify.com/album/5iRIzCy1oVuia0O7binb0O) | 6:29 | 2023-10-27 |  |
 | [Nadiyan \- Extended Mix](https://open.spotify.com/track/0eEx4uqVBsYvhywfko53Nd) | [Anyasa](https://open.spotify.com/artist/63zQTMtwPjkb5cFFMkL4xd), [Amira Gill](https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS) | [Gaya EP](https://open.spotify.com/album/5iRIzCy1oVuia0O7binb0O) | 6:45 | 2023-10-27 |  |
@@ -74,6 +77,7 @@
 | [Pan Jabi](https://open.spotify.com/track/3wd4oqBJFIu1jjLhlWgsVw) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Pan Jabi](https://open.spotify.com/album/0iUrCDGe8kZITt1Gu2Jy5G) | 2:47 | 2023-08-18 |  |
 | [Papi \(Bhabi\)](https://open.spotify.com/track/2jxJzUWxqX2fnQTD9lmi2x) | [Eden Shalev](https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe) | [Papi \(Bhabi\)](https://open.spotify.com/album/3CmWvWiEAkuipFIqyhs5ps) | 5:46 | 2023-08-18 |  |
 | [Patha Patha Gugu \- Drill Remix](https://open.spotify.com/track/5kHSMRbZKyGwaSwNSRrQXV) | [Trinix Remix](https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ) | [Patha Patha Gugu \(Drill Remix\)](https://open.spotify.com/album/6UGreHTcQAYRnZCK5RO8Gr) | 2:07 | 2023-08-18 | 2023-11-02 |
+| [Rachida](https://open.spotify.com/track/3kXokE7ko4LJ1ZitycjqTa) | [Chineur](https://open.spotify.com/artist/0x7kCGAtSNcUFZ9BW4tdPc) | [Rachida](https://open.spotify.com/album/4SBKRrBetMftYOEHXovZFd) | 4:04 | 2023-11-21 |  |
 | [Rampage](https://open.spotify.com/track/5NmqFfgM0mU1ziT6L63MDV) | [Kahani](https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb) | [Rampage](https://open.spotify.com/album/2ocj9AhDoonurBSEu9VVQP) | 2:41 | 2023-08-18 |  |
 | [Rangila](https://open.spotify.com/track/0XUM5nnJU87hbmMCENzjEn) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Rangila](https://open.spotify.com/album/1ZMzNG3ds5oo1QkqMjmwzJ) | 3:05 | 2023-08-18 |  |
 | [Rani](https://open.spotify.com/track/5d1IthC1D1CaajaQ0Vh8s3) | [MALFNKTION](https://open.spotify.com/artist/7x7rCZwlkVvRGOQVeDqND8) | [Hindustani Rascal](https://open.spotify.com/album/1DEuZO94EnGImw1UII6BzX) | 4:31 | 2023-08-18 |  |

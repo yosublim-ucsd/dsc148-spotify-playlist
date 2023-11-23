@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 86595,
+  "num_followers": 86618,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTJhNGIxMzRiMmM5OWE5NGExYTNlZjc3MTEwNzdkZWM0ZGVmOTky",
+  "snapshot_id": "MCxlOTU3MTAzY2E1NDI4MTNjNzExZTEyYjg2Y2E5NTA3YTA3MzNjNjBm",
   "tracks": [
     {
       "added_at": "2023-10-26 20:41:14",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Protein Valve EP",
-        "url": "https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp"
+        "name": "When We Used to Play",
+        "url": "https://open.spotify.com/album/1tdeIyzQBV8wym67Wpegbo"
       },
       "artists": [
         {
-          "name": "Robert Hood",
-          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
+          "name": "Blake Baxter",
+          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
         }
       ],
-      "duration_ms": 330462,
-      "name": "A.M. Track",
-      "url": "https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2"
+      "duration_ms": 500807,
+      "name": "When We Used To Play - Extended Mix",
+      "url": "https://open.spotify.com/track/2t3xaBvKKhMotBH5kNt3nu"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "When We Used to Play",
-        "url": "https://open.spotify.com/album/1tdeIyzQBV8wym67Wpegbo"
+        "name": "Protein Valve EP",
+        "url": "https://open.spotify.com/album/4LU9fvyf1nqv22veiUGXNp"
       },
       "artists": [
         {
-          "name": "Blake Baxter",
-          "url": "https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h"
+          "name": "Robert Hood",
+          "url": "https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8"
         }
       ],
-      "duration_ms": 500807,
-      "name": "When We Used To Play - Extended Mix",
-      "url": "https://open.spotify.com/track/2t3xaBvKKhMotBH5kNt3nu"
+      "duration_ms": 330462,
+      "name": "A.M. Track",
+      "url": "https://open.spotify.com/track/3rNDbLTgpgN1NYMLXIrIA2"
     },
     {
       "added_at": "2023-10-26 20:41:14",

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Crisha  Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,740 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,781 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Diwata](https://open.spotify.com/track/21LflOzdhgdND8z1mHlH0p) | [Kahel](https://open.spotify.com/artist/2en1UzOP6taB2wxIFQzULa) | [Diwata](https://open.spotify.com/album/041061OlVKyq7Zkaxa5Gfn) | 5:01 |
-| 2 | [Real](https://open.spotify.com/track/2qRt1KviapVm0RVVpunvvC) | [Crisha](https://open.spotify.com/artist/3IJSSAmsW0l0ilgw0foj8m) | [Real](https://open.spotify.com/album/4OxItxLbgyLD0n3FIcBi0w) | 3:49 |
+| 2 | [Real](https://open.spotify.com/track/2qRt1KviapVm0RVVpunvvC) | [CRISHA](https://open.spotify.com/artist/3IJSSAmsW0l0ilgw0foj8m) | [Real](https://open.spotify.com/album/4OxItxLbgyLD0n3FIcBi0w) | 3:49 |
 | 3 | [Ako at Ikaw](https://open.spotify.com/track/3WM5zFwFpUntzNZmdrQGUC) | [Gil Guevarra](https://open.spotify.com/artist/2AhnMmzodFTCwIl7ju3Lq8) | [Ako at Ikaw](https://open.spotify.com/album/2CaThgaxoH18dClnUYXnzb) | 4:10 |
 | 4 | [Gigil](https://open.spotify.com/track/175olPDR4vvN4lrPgHNZtJ) | [The Right Things](https://open.spotify.com/artist/0eCM6bGOxkZgKPLEYCX1JO) | [Gigil](https://open.spotify.com/album/3t5KRD3M9dAwnFlvACylLd) | 3:19 |
 | 5 | [Just Another Christmas](https://open.spotify.com/track/6uy8wSbsQ9zJQxkxgWiwNl) | [Suspiria Pink](https://open.spotify.com/artist/4IKpNf1Bm3nSEa4LZi2F28) | [Just Another Christmas](https://open.spotify.com/album/4OQMVYjqTox3kXqh4TcUwG) | 2:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [Bumalik](https://open.spotify.com/track/5aT1PKWRJ7KC9938enppYJ) | [Louise Laurel](https://open.spotify.com/artist/0SJZewYE7KVefeZBHRgnEf), [Furio](https://open.spotify.com/artist/6xj3tCDLs1SCkjvRCyqwZF), [nate dela cruz](https://open.spotify.com/artist/2n50KLuVIwdtBOGNpElndE) | [Bumalik](https://open.spotify.com/album/1Zw7JtDoUjXLuooE63GW4h) | 3:26 |
 | 100 | [See You Next Year](https://open.spotify.com/track/5mU1EQ3cpXbY8Acb1regIN) | [Violet Aurora](https://open.spotify.com/artist/5Evxi5m14YWdNYE1EFADf0) | [See You Next Year](https://open.spotify.com/album/4d48a9BmYlPqmK0iX1g8rO) | 3:46 |
 
-Snapshot ID: `MCw4NzhjZmExMGEwOWM5ZjE2YTA4YmVlYWM3Y2ZiMjkyZGRhMGRmNGMw`
+Snapshot ID: `MCxmNDkxMDJkNDBiNTQ2YmEwYTYzMzUxN2UyOTQzZmU1MTY3NDdkMDBm`

@@ -1,12 +1,12 @@
 {
   "description": "may the odds be forever in tom blyth's favor",
-  "num_followers": 2167581,
+  "num_followers": 2167930,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzIxNTM0NDY5ZjYwMjJjNmFmZDYxNzhjZWVlNjg3ZDNmMmM5Yzlh",
+  "snapshot_id": "MCwzODQ3MjEzY2Q5N2Q2MmY3YTdhODY2Zjk4NTIxNWMzOWY3NDMxNTM3",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -125,6 +125,22 @@
       "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
     },
     {
+      "added_at": "2023-11-21 05:16:55",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
       "added_at": "2023-11-21 17:54:13",
       "album": {
         "name": "reputation",
@@ -237,20 +253,20 @@
       "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
     },
     {
-      "added_at": "2023-11-21 05:16:55",
+      "added_at": "2023-11-22 22:43:33",
       "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+        "name": "From the Start",
+        "url": "https://open.spotify.com/album/5SUqRbAHrcEGeLPb38L85v"
       },
       "artists": [
         {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+          "name": "Good Kid",
+          "url": "https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP"
         }
       ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+      "duration_ms": 150047,
+      "name": "From the Start",
+      "url": "https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr"
     },
     {
       "added_at": "2023-10-13 03:59:49",

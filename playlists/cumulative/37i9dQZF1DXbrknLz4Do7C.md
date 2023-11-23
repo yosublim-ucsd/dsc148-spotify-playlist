@@ -4,7 +4,7 @@
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: Maverick City Music \#SpotifyWrapped
 
-176 songs - 12 hr 35 min
+177 songs - 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [God's Got Us](https://open.spotify.com/track/2hblLgMBErp2DQCWCjjmdy) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Kingdom Book One \(Deluxe\)](https://open.spotify.com/album/6yyl9jkkJYITe8z6dNDvIj) | 4:28 | 2022-12-01 |  |
 | [God's Got Us \(feat\. Chandler Moore\)](https://open.spotify.com/track/5KmQTbZx32wyekcRD0pllw) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Kingdom Book One \(Deluxe\)](https://open.spotify.com/album/3w8cEFKC4JCLPKiOSOhWzh) | 4:28 | 2022-12-01 | 2023-07-26 |
 | [Good God Almighty](https://open.spotify.com/track/4Wea9K8KRTsrlfIks5yepP) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Honey](https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD) | 3:11 | 2021-12-01 | 2022-12-01 |
-| [Good Morning Mercy](https://open.spotify.com/track/2ZeYstnGxcxaQJnztHJrEZ) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Good Morning Mercy](https://open.spotify.com/album/3Wsy7LgDdHHZKuU4QDLFpB) | 3:18 | 2022-12-01 |  |
+| [Good Morning Mercy](https://open.spotify.com/track/2ZeYstnGxcxaQJnztHJrEZ) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Good Morning Mercy](https://open.spotify.com/album/3Wsy7LgDdHHZKuU4QDLFpB) | 3:18 | 2022-12-01 | 2023-11-23 |
+| [Good Morning Mercy](https://open.spotify.com/track/4XDfUFceoSfpXRKrWYcOHc) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Good Morning Mercy](https://open.spotify.com/album/6UU1YPHof0qz9JI6YZrWAU) | 3:18 | 2022-12-01 |  |
 | [Good Morning Mercy](https://open.spotify.com/track/65pxpJbOeIc2oXexkr5vfU) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Good Morning Mercy](https://open.spotify.com/album/5F7deqvU0BTbsTIzr8rKnM) | 3:18 | 2022-12-01 | 2023-04-30 |
 | [Good To Be Loved By You \(with Tyler Hubbard\)](https://open.spotify.com/track/62q03kZpF2r4d8rfLcExsu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Chris Tomlin & Friends: Summer EP](https://open.spotify.com/album/7pfDAfc2EmNkl5TTVdVx5z) | 3:21 | 2021-12-01 | 2022-12-01 |
 | [Goodness of God](https://open.spotify.com/track/4v4NiTCwgjwJixy0doOsCP) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Cristabel Clack](https://open.spotify.com/artist/56Yt4ZJKPJohGDQmn32w4Y) | [Feels Like Home, Vol\. 2](https://open.spotify.com/album/0lK9s3Mt3B2iDuUBmSl7EE) | 5:12 | 2021-12-01 | 2022-12-01 |

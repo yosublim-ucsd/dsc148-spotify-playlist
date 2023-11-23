@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems\. Cover: <a href="https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo?si=sNoPVTS5RIakT8Bga4p\_Fw">Amanda Black</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,457 likes - 54 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,580 likes - 54 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 23 | [Bengdakiwe](https://open.spotify.com/track/1KIKoF34Yafcd8TkwBzwPv) | [Xowla](https://open.spotify.com/artist/08ejcjfMzbGwiK9MVslxc5), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Bengdakiwe](https://open.spotify.com/album/62I8W34ivwTtJJikdzlnp2) | 4:42 |
 | 24 | [Bayandijikela](https://open.spotify.com/track/3IBHk1OOaE6AeEJR0EcJAg) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8) | [Bayandijikela](https://open.spotify.com/album/5n6CXGLsltPQyDT99zC677) | 4:11 |
 | 25 | [Amalanga](https://open.spotify.com/track/6TptXPkegwMj4Pyn35QLzq) | [Calvin Mangena](https://open.spotify.com/artist/5mo5ML6eCYXlZdU1kuvcPu), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Amalanga](https://open.spotify.com/album/0hBF2GKu3RT6hZsZz42nvw) | 3:02 |
-| 26 | [uMngani Wami](https://open.spotify.com/track/7ALJH5Zqi2vtNYY12TFw1N) | [Paige](https://open.spotify.com/artist/1UiuIk36C3ZI4Jqat38Q5L), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Ntate Stunna](https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL), [Cheez Beezy](https://open.spotify.com/artist/3rjwqVAqz74iTFIOoG8ze0) | [African Child](https://open.spotify.com/album/4gtaA752fjI7CZsaQR81DH) | 5:37 |
+| 26 | [uMngani Wami](https://open.spotify.com/track/7ALJH5Zqi2vtNYY12TFw1N) | [Paige](https://open.spotify.com/artist/1UiuIk36C3ZI4Jqat38Q5L), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Ntate Stunna](https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL), [Cheez Beezy](https://open.spotify.com/artist/3rjwqVAqz74iTFIOoG8ze0) | [African Child](https://open.spotify.com/album/4gtaA752fjI7CZsaQR81DH) | 5:55 |
 | 27 | [BIZAN'UMAMA](https://open.spotify.com/track/40OrhVxoTGnPbo1avCDYTM) | [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [BIZAN'UMAMA](https://open.spotify.com/album/4zhPzcxKGHw0CLDmP28HRc) | 4:18 |
 | 28 | [Umthombo](https://open.spotify.com/track/36FgHjJFdA3y3uBCgW6PSR) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be), [Lwanda Gogwana](https://open.spotify.com/artist/4u5M9vxEOTAINqw8n7b4VK) | [Umthombo](https://open.spotify.com/album/13FZYGktp6pn3NXDkqmlQs) | 3:55 |
 | 29 | [Nje](https://open.spotify.com/track/5b7WFIRAFAHjqnbeYCdxTH) | [Nue\_Sam](https://open.spotify.com/artist/2mQ1WAgOTUQDBsJpt7tGTY), [Just Bheki](https://open.spotify.com/artist/4FOfnMPuibRUgSBHBwvoPz) | [Nje](https://open.spotify.com/album/2M13T1EgIMlDtA1EtwD490) | 3:42 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 53 | [Feelings](https://open.spotify.com/track/3LNQ3RLbxPOjfGVTrlXQl5) | [Lizwi Wokuqala](https://open.spotify.com/artist/6IYozrt74PPhQ409pE583w) | [Feelings](https://open.spotify.com/album/2kN74xWPubjhrFnDtL2pHJ) | 2:54 |
 | 54 | [Kukude Emathandweni](https://open.spotify.com/track/5gwyqqUjqTSOnXklI7582D) | [Linda Gcwensa](https://open.spotify.com/artist/08vFZzvz5L5aP8Bk4PHeWv) | [Kukude Emathandweni](https://open.spotify.com/album/18UdSJLB7xeeigWWsF0u4s) | 3:52 |
 
-Snapshot ID: `MCwxYmUzMjY3OWM3YzhmYTYxMWI4NDg5YjZjNDk4MzQzMDIxYzAyMWUx`
+Snapshot ID: `MCxjM2RhNGVkMjUxMWI2NmM2MTAxM2JhM2NjODdmMmM0NWFlNTA5MjQ2`

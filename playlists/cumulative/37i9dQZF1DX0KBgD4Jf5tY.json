@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica italiana indipendente, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:6l4tbTRTSxsnEubYgnd2u9\">fluente</a>",
+  "description": "Solo musica italiana indipendente, aggiornata ogni mercoled\u00ec. Cover: <a href=\"spotify:artist:0K0IoIF0ARUBsCeRrIs6iw\">Daria Huber</a>",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -2140,7 +2140,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 130140,
       "name": "BALLO DA SOLA",
       "url": "https://open.spotify.com/track/0pyA6CnGDuauxYtocrJ90A"
@@ -4101,6 +4101,24 @@
     },
     {
       "album": {
+        "name": "Come facciamo noi",
+        "url": "https://open.spotify.com/album/5EHXV4XboHIcsHfDdfYM4m"
+      },
+      "artists": [
+        {
+          "name": "Gaia Banfi",
+          "url": "https://open.spotify.com/artist/60hS0Wt0Px2B3rr9Zzur8E"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264347,
+      "name": "Come facciamo noi",
+      "url": "https://open.spotify.com/track/5ve1uJ5fmYkrgPj6kc29mS"
+    },
+    {
+      "album": {
         "name": "COME I CLASH",
         "url": "https://open.spotify.com/album/6oteA5eXo02tbnKUHV4u1f"
       },
@@ -4202,7 +4220,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 169412,
       "name": "Complete",
       "url": "https://open.spotify.com/track/1X3mNKzys58uXx4JVtV5KY"
@@ -4480,7 +4498,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 210250,
       "name": "Curami",
       "url": "https://open.spotify.com/track/3sKJ4KHTFqbMD0MT6t0DYM"
@@ -5499,6 +5517,24 @@
     },
     {
       "album": {
+        "name": "Empty Promises",
+        "url": "https://open.spotify.com/album/4Wz6jgcLUucTKcL5OO5lWC"
+      },
+      "artists": [
+        {
+          "name": "Afra Kane",
+          "url": "https://open.spotify.com/artist/1RhC0s2ubtgnMLr7UxwWwr"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188611,
+      "name": "Empty Promises",
+      "url": "https://open.spotify.com/track/4ErBLuGNSFURHQvNGag3Ib"
+    },
+    {
+      "album": {
         "name": "energie zero",
         "url": "https://open.spotify.com/album/2xdRFL3OHaeSeqTbBOPhOO"
       },
@@ -5994,7 +6030,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 162672,
       "name": "Ferite",
       "url": "https://open.spotify.com/track/7u88twc2XAIGQb0Yz2r71S"
@@ -7171,6 +7207,24 @@
     },
     {
       "album": {
+        "name": "H e a v e n s",
+        "url": "https://open.spotify.com/album/4xxIEq6v4kHR6FTuP21MiY"
+      },
+      "artists": [
+        {
+          "name": "YONIRO",
+          "url": "https://open.spotify.com/artist/1i8LCo49iaXGwXOHKwPAxq"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Heavens",
+      "url": "https://open.spotify.com/track/3IFmGkht8Bc7n5c4xLYEBQ"
+    },
+    {
+      "album": {
         "name": "Helsinki",
         "url": "https://open.spotify.com/album/1eblMYLfcBaQsvhfv9DXwn"
       },
@@ -7802,7 +7856,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 182455,
       "name": "In Bilico",
       "url": "https://open.spotify.com/track/4oYerxUi4oBUrZLSCrgci6"
@@ -7854,6 +7908,24 @@
       "duration_ms": 208673,
       "name": "in loop",
       "url": "https://open.spotify.com/track/2yfTs9jXTKNAxRZ9X3BlSU"
+    },
+    {
+      "album": {
+        "name": "IN NATURA VINCE",
+        "url": "https://open.spotify.com/album/0w8vo18gbDX9EDoX3YBd4z"
+      },
+      "artists": [
+        {
+          "name": "Daria Huber",
+          "url": "https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177417,
+      "name": "IN NATURA VINCE",
+      "url": "https://open.spotify.com/track/6J3C1Ayo6OK4OcWTsFePNU"
     },
     {
       "album": {
@@ -12014,7 +12086,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 166649,
       "name": "NOSTALGIA",
       "url": "https://open.spotify.com/track/4nRVnLPj9mwuXciqhgANN3"
@@ -12560,7 +12632,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 176486,
       "name": "orsi",
       "url": "https://open.spotify.com/track/3eqWiO14rV2jI5JNfdfsqx"
@@ -12806,6 +12878,24 @@
       "duration_ms": 153708,
       "name": "paralosofia",
       "url": "https://open.spotify.com/track/3n4VTinSBZKzxXyWiVTGUN"
+    },
+    {
+      "album": {
+        "name": "paranormale che",
+        "url": "https://open.spotify.com/album/4Dv3N0tGiSGPGwx1O3ubPZ"
+      },
+      "artists": [
+        {
+          "name": "chesma",
+          "url": "https://open.spotify.com/artist/14qfpqRSUFUcZOK424qddH"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156200,
+      "name": "paranormale che",
+      "url": "https://open.spotify.com/track/1RdllQCAMgg8MFC7nB6XtR"
     },
     {
       "album": {
@@ -15096,7 +15186,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 206457,
       "name": "Salto Nel Vuoto",
       "url": "https://open.spotify.com/track/74vDsrQLOSFYovmEdMpev5"
@@ -15974,7 +16064,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 160124,
       "name": "sogni",
       "url": "https://open.spotify.com/track/0Mcy3IYdRftD9YZt0Rhjme"
@@ -16562,7 +16652,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 201998,
       "name": "Splender\u00f2",
       "url": "https://open.spotify.com/track/3deYxvbyqmeJkV7NV2LgBE"
@@ -16812,6 +16902,24 @@
       "duration_ms": 184813,
       "name": "Stefano",
       "url": "https://open.spotify.com/track/4x2ujpyYo1aKwZY2VdY3i2"
+    },
+    {
+      "album": {
+        "name": "stella diazepam",
+        "url": "https://open.spotify.com/album/36qmKezCV6117mh4GhEb3D"
+      },
+      "artists": [
+        {
+          "name": "Floral Grin",
+          "url": "https://open.spotify.com/artist/5m1fvLDO1DDWVNhluFhOA9"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210681,
+      "name": "stella diazepam",
+      "url": "https://open.spotify.com/track/1ULJEeIKRw0QrMZruqZ6JE"
     },
     {
       "album": {
@@ -18158,7 +18266,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 150334,
       "name": "Un sacco bello",
       "url": "https://open.spotify.com/track/5MseQki8CNLIsc9xQhHhHl"

@@ -1,12 +1,12 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. Julio Preciado en portada.",
-  "num_followers": 217364,
+  "num_followers": 217645,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzJhNmY5MTZiYmFmZTdkNDUxYjdkYWEzMWNmNWYzZTVmNGEyNGRj",
+  "snapshot_id": "MCw1NjQ4YTQzODAzNzRlMDBhMWVhZDgwNTUyMWE3YWZhMDM2NDFjYzIy",
   "tracks": [
     {
       "added_at": "2023-10-11 23:54:18",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "Banda Sinaloense los Recoditos",
-        "url": "https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense Los Recoditos",
-          "url": "https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF"
-        }
-      ],
-      "duration_ms": 150999,
-      "name": "Cuando Nadie Te Quiera",
-      "url": "https://open.spotify.com/track/6oRP3CKIpSqVsJKYrxiYHp"
-    },
-    {
-      "added_at": "2023-10-11 23:54:18",
-      "album": {
         "name": "Sangre de indio",
         "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 162800,
       "name": "Al gato y al rat\u00f3n",
       "url": "https://open.spotify.com/track/3qtsVB90KMoccHtSCbAHOE"
+    },
+    {
+      "added_at": "2023-10-11 23:54:18",
+      "album": {
+        "name": "Banda Sinaloense los Recoditos",
+        "url": "https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense Los Recoditos",
+          "url": "https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF"
+        }
+      ],
+      "duration_ms": 150999,
+      "name": "Cuando Nadie Te Quiera",
+      "url": "https://open.spotify.com/track/6oRP3CKIpSqVsJKYrxiYHp"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "Misa De Cuerpo Presente",
-        "url": "https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU"
-      },
-      "artists": [
-        {
-          "name": "Banda Movil",
-          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
-        }
-      ],
-      "duration_ms": 168360,
-      "name": "Misa De Cuerpo Presente",
-      "url": "https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd"
-    },
-    {
-      "added_at": "2023-10-11 23:54:18",
-      "album": {
         "name": "Quisiera Tener Alas",
         "url": "https://open.spotify.com/album/6HwwODofS26o2VDCLiaArE"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 218853,
       "name": "Aunque No Sea Conmigo",
       "url": "https://open.spotify.com/track/0zCpvH2HP9vvw8GC6wjDrt"
+    },
+    {
+      "added_at": "2023-10-11 23:54:18",
+      "album": {
+        "name": "Misa De Cuerpo Presente",
+        "url": "https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU"
+      },
+      "artists": [
+        {
+          "name": "Banda Movil",
+          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
+        }
+      ],
+      "duration_ms": 168360,
+      "name": "Misa De Cuerpo Presente",
+      "url": "https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "Banda Sinaloense los Recoditos",
-        "url": "https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy"
-      },
-      "artists": [
-        {
-          "name": "Banda Sinaloense Los Recoditos",
-          "url": "https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF"
-        }
-      ],
-      "duration_ms": 209571,
-      "name": "Vuelve Por Favor",
-      "url": "https://open.spotify.com/track/4JOjEDadsxI1wZo60GX9pH"
-    },
-    {
-      "added_at": "2023-10-11 23:54:18",
-      "album": {
         "name": "Mis 20 Exitos Originales",
         "url": "https://open.spotify.com/album/2EY8NXsnOxgj4E70kSA4xL"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 192522,
       "name": "Te He Prometido",
       "url": "https://open.spotify.com/track/2vdVI9ya3CLLXKCRr4rryJ"
+    },
+    {
+      "added_at": "2023-10-11 23:54:18",
+      "album": {
+        "name": "Banda Sinaloense los Recoditos",
+        "url": "https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense Los Recoditos",
+          "url": "https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF"
+        }
+      ],
+      "duration_ms": 209571,
+      "name": "Vuelve Por Favor",
+      "url": "https://open.spotify.com/track/4JOjEDadsxI1wZo60GX9pH"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "Borracho Morir\u00e9",
-        "url": "https://open.spotify.com/album/1Y9UJgmzXcYS2Eq3jOFhJu"
-      },
-      "artists": [
-        {
-          "name": "La Incontenible Banda Astilleros",
-          "url": "https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG"
-        }
-      ],
-      "duration_ms": 149346,
-      "name": "El An\u00f3nimo",
-      "url": "https://open.spotify.com/track/1lHWO3zuDdyi1pXYFGaQmS"
-    },
-    {
-      "added_at": "2023-10-11 23:54:18",
-      "album": {
         "name": "Mis 20 Exitos Originales",
         "url": "https://open.spotify.com/album/2EY8NXsnOxgj4E70kSA4xL"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 163186,
       "name": "Creo Estar So\u00f1ando",
       "url": "https://open.spotify.com/track/6LOJGtfyJW14lMEj06qxQZ"
+    },
+    {
+      "added_at": "2023-10-11 23:54:18",
+      "album": {
+        "name": "Borracho Morir\u00e9",
+        "url": "https://open.spotify.com/album/1Y9UJgmzXcYS2Eq3jOFhJu"
+      },
+      "artists": [
+        {
+          "name": "La Incontenible Banda Astilleros",
+          "url": "https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG"
+        }
+      ],
+      "duration_ms": 149346,
+      "name": "El An\u00f3nimo",
+      "url": "https://open.spotify.com/track/1lHWO3zuDdyi1pXYFGaQmS"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3"
-      },
-      "artists": [
-        {
-          "name": "Banda Arkangel R-15",
-          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
-        }
-      ],
-      "duration_ms": 142253,
-      "name": "Al Mismo Nivel",
-      "url": "https://open.spotify.com/track/3j4JOeXU20JrrYGHXCr1EY"
-    },
-    {
-      "added_at": "2023-10-11 23:54:18",
-      "album": {
         "name": "Solo Esta Vez, Con Sabor a Ca\u00f1a Verde...!",
         "url": "https://open.spotify.com/album/4KtrknMzLGD9HZEAdfVUVG"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 200046,
       "name": "Solo Esta Vez",
       "url": "https://open.spotify.com/track/1wkoejavhjDSCsahWjsSxW"
+    },
+    {
+      "added_at": "2023-10-11 23:54:18",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3"
+      },
+      "artists": [
+        {
+          "name": "Banda Arkangel R-15",
+          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
+        }
+      ],
+      "duration_ms": 142253,
+      "name": "Al Mismo Nivel",
+      "url": "https://open.spotify.com/track/3j4JOeXU20JrrYGHXCr1EY"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "Super Exitos",
-        "url": "https://open.spotify.com/album/3FgnbvpmigNrgsaJAeCZL0"
+        "name": "Lo Dejar\u00eda Todo",
+        "url": "https://open.spotify.com/album/1wCQwyB4zWv8aeKKEmX7RP"
       },
       "artists": [
         {
-          "name": "Vaquero's Musical",
-          "url": "https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1"
+          "name": "La Incontenible Banda Astilleros",
+          "url": "https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG"
         }
       ],
-      "duration_ms": 163693,
-      "name": "El Ranchero Chido",
-      "url": "https://open.spotify.com/track/12wG2c9gS7pwSndBZTB4XI"
+      "duration_ms": 182439,
+      "name": "No Me Dejes Tan Solo",
+      "url": "https://open.spotify.com/track/0FDCMtJNlmnkR1L3Svh0MI"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "Lo Dejar\u00eda Todo",
-        "url": "https://open.spotify.com/album/1wCQwyB4zWv8aeKKEmX7RP"
+        "name": "Super Exitos",
+        "url": "https://open.spotify.com/album/3FgnbvpmigNrgsaJAeCZL0"
       },
       "artists": [
         {
-          "name": "La Incontenible Banda Astilleros",
-          "url": "https://open.spotify.com/artist/7EQ9iuyTpUsFKqHP1w27nG"
+          "name": "Vaquero's Musical",
+          "url": "https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1"
         }
       ],
-      "duration_ms": 182439,
-      "name": "No Me Dejes Tan Solo",
-      "url": "https://open.spotify.com/track/0FDCMtJNlmnkR1L3Svh0MI"
+      "duration_ms": 163693,
+      "name": "El Ranchero Chido",
+      "url": "https://open.spotify.com/track/12wG2c9gS7pwSndBZTB4XI"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "M\u00fasica Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD"
-      },
-      "artists": [
-        {
-          "name": "Jorge Luis Cabrera con Banda Tierra Blanca",
-          "url": "https://open.spotify.com/artist/3z5x6g8Vdhann3CHdeLZLr"
-        }
-      ],
-      "duration_ms": 134186,
-      "name": "Estrellita Marinera",
-      "url": "https://open.spotify.com/track/0NatF9wNvUjWVOVGaYKDuf"
-    },
-    {
-      "added_at": "2023-10-11 23:54:18",
-      "album": {
         "name": "Lo Mejor de lo Nuestro",
         "url": "https://open.spotify.com/album/71hwjNty3bVhTj8DwodqN4"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 155063,
       "name": "El Domingo Se Casa",
       "url": "https://open.spotify.com/track/1GAYDRFBxQDkpe4BT2M2kv"
+    },
+    {
+      "added_at": "2023-10-11 23:54:18",
+      "album": {
+        "name": "M\u00fasica Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD"
+      },
+      "artists": [
+        {
+          "name": "Jorge Luis Cabrera con Banda Tierra Blanca",
+          "url": "https://open.spotify.com/artist/3z5x6g8Vdhann3CHdeLZLr"
+        }
+      ],
+      "duration_ms": 134186,
+      "name": "Estrellita Marinera",
+      "url": "https://open.spotify.com/track/0NatF9wNvUjWVOVGaYKDuf"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -1931,18 +1931,18 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
-        "name": "Para Morir Iguales",
-        "url": "https://open.spotify.com/album/0RIFdYKVISFMObAL0OzmQV"
+        "name": "Al Ataque",
+        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
       },
       "artists": [
         {
-          "name": "Nico Flores Y Su Banda Puro Mazatl\u00e1n",
-          "url": "https://open.spotify.com/artist/6WcMKSNQdcj4BlR52fhsrF"
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 119333,
-      "name": "Ingratos Ojos M\u00edos",
-      "url": "https://open.spotify.com/track/6hySXoZ9NTQZD2Pn4quRs1"
+      "duration_ms": 189022,
+      "name": "Hasta La Miel Amarga",
+      "url": "https://open.spotify.com/track/0FpI0nJLp0xE9rSf2VE7PD"
     },
     {
       "added_at": "2023-10-11 23:54:18",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2023-10-11 23:54:18",
       "album": {
+        "name": "Para Morir Iguales",
+        "url": "https://open.spotify.com/album/0RIFdYKVISFMObAL0OzmQV"
+      },
+      "artists": [
+        {
+          "name": "Nico Flores Y Su Banda Puro Mazatl\u00e1n",
+          "url": "https://open.spotify.com/artist/6WcMKSNQdcj4BlR52fhsrF"
+        }
+      ],
+      "duration_ms": 119333,
+      "name": "Ingratos Ojos M\u00edos",
+      "url": "https://open.spotify.com/track/6hySXoZ9NTQZD2Pn4quRs1"
+    },
+    {
+      "added_at": "2023-10-11 23:54:18",
+      "album": {
         "name": "M\u00fasica Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD"
       },
@@ -1975,22 +1991,6 @@
       "duration_ms": 143426,
       "name": "Tus Desprecios",
       "url": "https://open.spotify.com/track/1uuGSnwSJOJsNW9iN4uskZ"
-    },
-    {
-      "added_at": "2023-10-11 23:54:18",
-      "album": {
-        "name": "Al Ataque",
-        "url": "https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 189022,
-      "name": "Hasta La Miel Amarga",
-      "url": "https://open.spotify.com/track/0FpI0nJLp0xE9rSf2VE7PD"
     },
     {
       "added_at": "2023-10-11 23:54:18",

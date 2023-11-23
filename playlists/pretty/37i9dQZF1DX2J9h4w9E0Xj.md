@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2J9h4w9E0Xj.md) - [plain]
 
 > The best new rock on the rise\. Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,562 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,566 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2J9h4w9E0Xj.md) - [plain]
 | 15 | [AFTER THERAPY \(feat\. Hot Mulligan\)](https://open.spotify.com/track/6SuaNvXzk4kADnudvmd5EN) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI), [Extra Large Holiday Card](https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe) | [MY BRAIN AFTER THERAPY](https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag) | 2:21 |
 | 16 | [Mercy Stroke](https://open.spotify.com/track/45Me6oIEz4AlHq7E8cNfcF) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Mercy Stroke](https://open.spotify.com/album/2gIICHzjGClgUbObjPauqK) | 2:45 |
 | 17 | [Children In The Dark](https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Children In The Dark](https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI) | 2:58 |
-| 18 | [Destructible](https://open.spotify.com/track/73IXs3h1OUIecDOAoYvH15) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Destructible](https://open.spotify.com/album/39n6Z4LYELVW2vaElXsgxH) | 2:51 |
+| 18 | [Destructible](https://open.spotify.com/track/0A6B94apx89HIZgPxp33UA) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Destructible](https://open.spotify.com/album/71m5cZFoHcPHEDChFU3xrv) | 2:51 |
 | 19 | [I Can't Drive](https://open.spotify.com/track/5D5YcH3dr3b53fi0F8cVsU) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [I Can't Drive](https://open.spotify.com/album/2G3tEj45E2F3slj2qsVAby) | 4:07 |
 | 20 | [Down](https://open.spotify.com/track/1K2YHBBSOIGB7UCK2gLBbI) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Down](https://open.spotify.com/album/4DGWHq0aKL2IgckAKvAEOk) | 3:00 |
 | 21 | [Target Practice](https://open.spotify.com/track/6I2kg7KS6otbKx6uKYs2OE) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Target Practice](https://open.spotify.com/album/16J5UoAKGvk7w6gOqNzubI) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2J9h4w9E0Xj.md) - [plain]
 | 49 | [Bullet Farm](https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Bullet Farm](https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee) | 3:10 |
 | 50 | [Endgame](https://open.spotify.com/track/7y6bW9cd1UfttzwqU2lsti) | [The Clockworks](https://open.spotify.com/artist/6Jg3DFzPWX2VIy01oqLGkz) | [Endgame](https://open.spotify.com/album/4qqgxO477yvIgcKNL3PwfJ) | 2:36 |
 
-Snapshot ID: `MCwyZjk3N2FiOGY2ZGQ4YjFkYjZlZDRmMTI4ZDg3OTllZmIwMWU3MmEx`
+Snapshot ID: `MCxjODhhN2Q5NWZlOTQxZjNmN2QxMWRiYzZiZmI2ZjFlMzE1OWM2Nzcz`

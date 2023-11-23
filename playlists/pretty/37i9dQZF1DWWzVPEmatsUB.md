@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 
 > Ease into the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,618 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,587 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 54 | [Any Way You Come \(Bonus Track\)](https://open.spotify.com/track/6Fv2S3jT43CCgOGRApyqp8) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Anaïs Mitchell \(Deluxe\)](https://open.spotify.com/album/571TqZzVFeMTC35iuh3od0) | 3:25 |
 | 55 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 |
 | 56 | [All I Need](https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:33 |
-| 57 | [Higher](https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Higher](https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l) | 2:39 |
+| 57 | [Higher](https://open.spotify.com/track/19zyupEw3vTNL3waafGwW6) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Higher](https://open.spotify.com/album/5mF15IKfMlbKTO2sKFZz3l) | 2:39 |
 | 58 | [Stuck In A Moment You Can't Get Out Of](https://open.spotify.com/track/5unLOBl5QNJX50EVVr0tF6) | [Paul Loren](https://open.spotify.com/artist/2nDJWmL1CFvojp0T9FFOPt) | [Stuck In A Moment](https://open.spotify.com/album/0rlUp5UcdlNfxDauM54rM2) | 4:27 |
 | 59 | [Selfish Love](https://open.spotify.com/track/4fklgusc52EoLTiRx5hwOj) | [Emily Alexander](https://open.spotify.com/artist/3MT8riFDEyIoykxJ0rQAXc) | [Selfish Love](https://open.spotify.com/album/2sNd6MHVRN7p4uISWHoo4R) | 4:56 |
 | 60 | [Missing You Feels Right](https://open.spotify.com/track/3t3aGS6XilzbV2g4olN8d4) | [Julia Shuren](https://open.spotify.com/artist/4V8ZAyBfaMQ8gEpLPXhf5V) | [FLIPSIDE](https://open.spotify.com/album/3lcndc4IH5pbNB1X8OyhV9) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 99 | [Next Time](https://open.spotify.com/track/3HQrxN0bBKxWIKRmgjUq06) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Next Time](https://open.spotify.com/album/7hgfr4aUdhvtwC1xK5XhJ6) | 3:17 |
 | 100 | [Only The Lonely](https://open.spotify.com/track/2vf6KIEKiEEyc1OGr97TII) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Only The Lonely](https://open.spotify.com/album/2r4VTLpIKfKm9tUNIdylPk) | 3:52 |
 
-Snapshot ID: `MCw4MDNlMTAwNTU3Y2ViMmNkZDE4NzE4MDdlYjBiMmE2Y2QzZmI4NjFj`
+Snapshot ID: `MCw3YTBiZTA1MjBkZjM2Nzg2YTAyNWVkNjJjNWRhZDNlMmFmZjI0N2Y3`

@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: QUBIT
 
-1,262 songs - 3 day 7 hr 27 min
+1,264 songs - 3 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [eienno koibito](https://open.spotify.com/track/2x5ycWQvPTl4sOk5BSnGpS) | [とにもかくにも](https://open.spotify.com/artist/7eRFoVEguUGUZ5kYaOR8sL) | [eienno koibito](https://open.spotify.com/album/0WCgyIveEmwIVnkteT94Fp) | 3:48 | 2023-10-31 | 2023-11-08 |
 | [embrace](https://open.spotify.com/track/6u3h9u66nxEKqtXCOsdYlS) | [Hammer Head Shark](https://open.spotify.com/artist/4ReYBtwk8GTvuIklAiCqHI) | [embrace](https://open.spotify.com/album/1RYmW4uvFxPF7DF7Wd8anS) | 5:33 | 2023-08-30 | 2023-09-06 |
 | [Emergence No.1](https://open.spotify.com/track/18RsGEb4NcRC6T0dqTq235) | [黒木渚](https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL) | [Emergence No.1](https://open.spotify.com/album/5fkgRBj5V38v5dF62PBJnS) | 3:21 | 2022-10-25 | 2022-11-02 |
+| [Endless](https://open.spotify.com/track/7rSG25mWZzUGW274om6WhR) | [お風呂でピーナッツ](https://open.spotify.com/artist/6k0zURWsJhaiI1PWVt8CV4) | [Endless](https://open.spotify.com/album/4hPFkUHWLtzWxtn6hcINeS) | 3:26 | 2023-11-21 |  |
 | [Enter, Enter](https://open.spotify.com/track/5PMyUxPsleC4vModENzE3c) | [THE ROMANTIC MOTEL](https://open.spotify.com/artist/05vTDhjOwhFqCTxAErSC4K) | [MAISON de ROMANTIC](https://open.spotify.com/album/1LvEJrGQu3aEIfq1GoYAkL) | 2:57 | 2022-06-21 | 2022-07-15 |
 | [eri](https://open.spotify.com/track/5RhTrT5KJNdhi287gWh4Gb) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [eri](https://open.spotify.com/album/2yoPSy5bhS0ou9N1quxGtS) | 3:51 | 2022-06-28 | 2022-06-30 |
 | [ESSAFOSSA](https://open.spotify.com/track/0Us98qR9hodEUjrik1cwBc) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [ESSAFOSSA](https://open.spotify.com/album/3DmTR6NKkXhmnTnwO0Kt1N) | 4:49 | 2022-06-30 | 2022-07-18 |
@@ -454,7 +455,8 @@
 | [Romantic](https://open.spotify.com/track/0RUbjiQ6citzGZvortbbcY) | [プピリットパロ](https://open.spotify.com/artist/0Wqd6QKWApCBqdiJEbfkZm) | [Romantic](https://open.spotify.com/album/2qT0IsljyXf1Fg7h6sDcuh) | 3:32 | 2023-10-17 | 2023-10-25 |
 | [rose \- feat\. Vaundy](https://open.spotify.com/track/72DWkd9AazMHYDafzpq4XF) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [mixtape](https://open.spotify.com/album/3kbR4fhps595HxImAmVHvY) | 3:07 | 2023-01-31 |  |
 | [Royal Mile](https://open.spotify.com/track/7KvwRpgvmOd1bsTJqh753h) | [Crispy Camera Club](https://open.spotify.com/artist/3qEb8wuWUimyFEe3a8kF90) | [未来の途中](https://open.spotify.com/album/77WsE90G0tRmxa3vvrbKdE) | 3:56 | 2023-03-28 | 2023-04-05 |
-| [Ruin Garden](https://open.spotify.com/track/0ges8Lc8lL7cs3TYpLnfer) | [STEREOGIRL](https://open.spotify.com/artist/0VEN6k2yg8hCRyBHesHWSL) | [Ruin Garden EP](https://open.spotify.com/album/4ecsiWyOj8aNeyeLadHGje) | 3:01 | 2023-11-21 |  |
+| [Ruin Garden](https://open.spotify.com/track/0ges8Lc8lL7cs3TYpLnfer) | [STEREOGIRL](https://open.spotify.com/artist/0VEN6k2yg8hCRyBHesHWSL) | [Ruin Garden EP](https://open.spotify.com/album/4ecsiWyOj8aNeyeLadHGje) | 3:01 | 2023-11-21 | 2023-11-23 |
+| [Ruin Garden](https://open.spotify.com/track/7mPu4eVF4rDEtVEl921h5O) | [STEREOGIRL](https://open.spotify.com/artist/0VEN6k2yg8hCRyBHesHWSL) | [Ruin Garden EP](https://open.spotify.com/album/57a4UeoRGOuvzHHMgXS8hl) | 3:01 | 2023-11-21 |  |
 | [Sabukaru no Iki wo denai](https://open.spotify.com/track/4LkKiQcq9ZmSzR9LzFagHa) | [Akasick](https://open.spotify.com/artist/2P2L4d4iTJgApjJrawjPVT) | [Sabukaru no Iki wo denai](https://open.spotify.com/album/29SEHfNCTNXqvFMa58w9P2) | 4:46 | 2023-10-17 | 2023-10-25 |
 | [Sailing Day](https://open.spotify.com/track/5FcMcYQdFskcg6SR88V1NN) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Titles](https://open.spotify.com/album/5E46XMFqVKTJtLez7Pl2pE) | 3:08 | 2022-09-13 | 2022-11-04 |
 | [Saint Anger](https://open.spotify.com/track/5TQPOFSG75V4emyF8fjJ5i) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [C toshiikerumono](https://open.spotify.com/album/0YMnwungrphEtyh8jkH4TE) | 4:21 | 2022-05-26 | 2022-07-20 |
@@ -756,7 +758,7 @@
 | [ウロボロス](https://open.spotify.com/track/4LXgVmwJfKI2YIVLuaIKNb) | [のんぴー](https://open.spotify.com/artist/0JEql610gvFzhlnZZkI4we) | [ウロボロス](https://open.spotify.com/album/2JTkYGzLLOqBF6zCZA2kIk) | 3:46 | 2023-10-31 | 2023-11-08 |
 | [エア・ブラスト](https://open.spotify.com/track/59qOVWAKPZ4TBnX6OuVww6) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [エア・ブラスト](https://open.spotify.com/album/2K7aDz2GIymxoiEbCuORPc) | 5:34 | 2022-06-07 | 2022-07-12 |
 | [エクレール](https://open.spotify.com/track/74D1fZvt1jnZ8psXIf1FJ4) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [エクレール](https://open.spotify.com/album/17ldd7eO4vY7MFODEl5FIw) | 3:32 | 2022-05-31 | 2022-08-11 |
-| [エンドレス](https://open.spotify.com/track/4NVdDiQzaxYw08F2Pzpwq7) | [お風呂でピーナッツ](https://open.spotify.com/artist/6k0zURWsJhaiI1PWVt8CV4) | [エンドレス](https://open.spotify.com/album/3mqWyHcGSxQICmVxjO9Ukg) | 3:26 | 2023-11-21 |  |
+| [エンドレス](https://open.spotify.com/track/4NVdDiQzaxYw08F2Pzpwq7) | [お風呂でピーナッツ](https://open.spotify.com/artist/6k0zURWsJhaiI1PWVt8CV4) | [エンドレス](https://open.spotify.com/album/3mqWyHcGSxQICmVxjO9Ukg) | 3:26 | 2023-11-21 | 2023-11-23 |
 | [エンドレスサマータイムブルーズ](https://open.spotify.com/track/5n0gF8mkPyfMOYhopF9ZEL) | [Kidder Friendly Club](https://open.spotify.com/artist/6weiyle8glz1DmsCMPNKlG) | [エンドレスサマータイムブルーズ](https://open.spotify.com/album/35vLAcLEVRt4KHFdbzgRSc) | 3:20 | 2023-08-29 | 2023-09-06 |
 | [エンドレスロール](https://open.spotify.com/track/38Tl5EsjN4IeOpvWWII8jN) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [骨格](https://open.spotify.com/album/1t5NspTaHRuDwAwSLNQH16) | 3:45 | 2022-05-31 | 2022-07-22 |
 | [エンドロール](https://open.spotify.com/track/34leYne4zziRmoUEj82Jlc) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [エンドロール / コマンドバトル!](https://open.spotify.com/album/3VZI9J4WFixloKbFyuaSnF) | 4:47 | 2022-08-17 | 2022-09-07 |
@@ -902,7 +904,7 @@
 | [マーリー](https://open.spotify.com/track/6VGTKK0e9aEWCdgloRQLoH) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [マーリー](https://open.spotify.com/album/4jUKy53voLyneRk3hPFUkh) | 4:58 | 2022-05-26 | 2022-07-29 |
 | [ミゾのないところ](https://open.spotify.com/track/3Nu5vwCbrvY8jRux6ie0zB) | [Kurhaus](https://open.spotify.com/artist/2sF23ot1kT16locrM0fOgy) | [ミゾのないところ](https://open.spotify.com/album/65hvbSzuXJLEeLeSg9cuP3) | 4:11 | 2022-06-02 | 2022-06-04 |
 | [ミチヲユケ](https://open.spotify.com/track/63EaBEMlwYv55V7YXO7LQv) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ミチヲユケ](https://open.spotify.com/album/736H5vVC9j0YWJ6YjrGSBU) | 3:35 | 2022-11-03 |  |
-| [ミッドナイトセブンス](https://open.spotify.com/track/51jRHjjy4d41dN85nQzxcF) | [つきみ](https://open.spotify.com/artist/5CTOLdHtiGvfebSVgrmYgq) | [ミッドナイトセブンス](https://open.spotify.com/album/5vDGaNbODrH1jBo4tBKV2q) | 4:20 | 2023-10-17 | 2023-10-25 |
+| [ミッドナイトセブンス](https://open.spotify.com/track/51jRHjjy4d41dN85nQzxcF) | [つきみ](https://open.spotify.com/artist/5CTOLdHtiGvfebSVgrmYgq) | [ミッドナイトセブンス](https://open.spotify.com/album/5vDGaNbODrH1jBo4tBKV2q) | 4:20 | 2023-10-17 |  |
 | [ミッドナイトハイウェイ](https://open.spotify.com/track/3iWo7wRMXjUWFQPReQRa3O) | [goomiey](https://open.spotify.com/artist/1y7irH3IbpZNJ7ShGAH5Wx) | [ワンセンス](https://open.spotify.com/album/2GEdH3NZKf3U4aVFC0mTZV) | 3:17 | 2022-06-30 | 2022-07-05 |
 | [ミュージック](https://open.spotify.com/track/7cix8xx00wXIvuuWAoI08M) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [ミュージック](https://open.spotify.com/album/0cgxBDktbUNcoCD94TX6pK) | 3:30 | 2022-05-31 | 2022-06-26 |
 | [ミラーチューン](https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ミラーチューン](https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8) | 4:09 | 2022-06-02 | 2022-12-14 |
@@ -1151,7 +1153,7 @@
 | [煙](https://open.spotify.com/track/7dGYY5OqFqcHCGfXANJpnd) | [ナカムラマユ](https://open.spotify.com/artist/0SEwHBIuSqJzE4b8OrOlKz) | [煙](https://open.spotify.com/album/3bcnckNl3V1iMXQnKXd3NG) | 3:40 | 2022-06-07 | 2022-06-27 |
 | [煙のジャンクション](https://open.spotify.com/track/1lZU2PKOokAeKaKnM6Bq6o) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [煙のジャンクション](https://open.spotify.com/album/3cP0SOZpq6yfAXskh6itoK) | 3:25 | 2023-10-17 | 2023-11-22 |
 | [熱帯的シンドローム](https://open.spotify.com/track/29L3dMe6SV4B9JpgpQBxon) | [Muvidat](https://open.spotify.com/artist/2nZDTiqeubNWxIrxObKyER) | [熱帯的シンドローム](https://open.spotify.com/album/5iBv9IQMKZbKsmb74rTWqZ) | 4:20 | 2022-06-07 | 2022-06-15 |
-| [犬ころ \- ACOUSTIC ver.](https://open.spotify.com/track/23I8aRvG4XIC0stNGiynA1) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [犬ころ \(ACOUSTIC ver\)](https://open.spotify.com/album/5BMAO6e2opOWkhTuxBFG0e) | 3:56 | 2023-10-31 |  |
+| [犬ころ \- ACOUSTIC ver.](https://open.spotify.com/track/23I8aRvG4XIC0stNGiynA1) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [犬ころ \(ACOUSTIC ver\)](https://open.spotify.com/album/5BMAO6e2opOWkhTuxBFG0e) | 3:56 | 2023-10-31 | 2023-11-23 |
 | [犬姫](https://open.spotify.com/track/1O8Z5URYRvYs8O8Qo1Uuja) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [犬姫](https://open.spotify.com/album/7bRCiRgKNFmtuVX8BpwZvl) | 3:05 | 2022-05-31 | 2022-06-19 |
 | [独立上昇曲 第一番](https://open.spotify.com/track/0hzicSH2fJO8RQYzmX4RJA) | [黒木渚](https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL) | [独立上昇曲 第一番](https://open.spotify.com/album/2IoQpVdhjPj4YMa5OqXNdf) | 3:21 | 2022-10-25 | 2022-10-27 |
 | [獅子奮迅フルスイング](https://open.spotify.com/track/6VW6j5OaLv9IOLvmq52DFh) | [MOSHIMO](https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy) | [獅子奮迅フルスイング](https://open.spotify.com/album/3KJXFbHkKqwW1qSdaYOVlp) | 3:41 | 2022-07-14 | 2022-07-19 |

@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 451786,
+  "num_followers": 451837,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjlmMjQyODRkYTYxMGE4ZDY1MWU0YzkyODM2MmQxZDY3ODlkMWQ5",
+  "snapshot_id": "MCw0ZGQ3M2YzYWM2ZTVjODgxNGQ5MzY4OTZhMWVlOGYwYjIxMTQyM2M5",
   "tracks": [
     {
       "added_at": "2023-05-26 04:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Shadowboxer",
-        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
-      },
-      "artists": [
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 272680,
-      "name": "Easier",
-      "url": "https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Language & Perspective",
         "url": "https://open.spotify.com/album/4TPjqLZkA2ekWLEQ8GvMr9"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 182467,
       "name": "Cardiac Arrest",
       "url": "https://open.spotify.com/track/5aejtAMTPonqopEygQgOkq"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Shadowboxer",
+        "url": "https://open.spotify.com/album/1lozs5nIWjppJZWFEnfGlV"
+      },
+      "artists": [
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        }
+      ],
+      "duration_ms": 272680,
+      "name": "Easier",
+      "url": "https://open.spotify.com/track/59yTEzjOYeugvF9WKAvONs"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Rescue Me",
-        "url": "https://open.spotify.com/album/6WcG7TieHbllhLcjHNHRh8"
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
       "artists": [
         {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 172280,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2"
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 196317,
-      "name": "Sofa King",
-      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Black Bear",
         "url": "https://open.spotify.com/album/2Objy4bpKyIT4JsUsBr8ka"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 241119,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/2DHDuADAHoUW6n0z80RLQF"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/6WcG7TieHbllhLcjHNHRh8"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "duration_ms": 172280,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Cub",
-        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Stateless",
         "url": "https://open.spotify.com/album/1WcBYYpdKBhDvIRrtu8NMS"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 313800,
       "name": "Bloodstream",
       "url": "https://open.spotify.com/track/5I2UElY0XPnPhQhBTxBcq3"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Cub",
+        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
+        "name": "White Noise (Deluxe Version)",
+        "url": "https://open.spotify.com/album/68kO84eoAPgWxQB1mJ2P1w"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/6mIHP19RfAUXTPdxxUqtfn"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
         "name": "The Singles Collection",
         "url": "https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 183852,
       "name": "Horizons",
       "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "White Noise (Deluxe Version)",
-        "url": "https://open.spotify.com/album/68kO84eoAPgWxQB1mJ2P1w"
-      },
-      "artists": [
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/6mIHP19RfAUXTPdxxUqtfn"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Love Gloom",
-        "url": "https://open.spotify.com/album/32rUQTIoMxs9b12WftzHP7"
-      },
-      "artists": [
-        {
-          "name": "Night Riots",
-          "url": "https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y"
-        }
-      ],
-      "duration_ms": 206976,
-      "name": "Nothing Personal",
-      "url": "https://open.spotify.com/track/4fzOCrzbRLppR4wkN8bFzz"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Ocean by Ocean",
         "url": "https://open.spotify.com/album/71JvFFLbdANicbU2Ys3s55"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 266906,
       "name": "Big Ideas",
       "url": "https://open.spotify.com/track/4xXJhn3Z0HXzA1OfH20mwP"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Love Gloom",
+        "url": "https://open.spotify.com/album/32rUQTIoMxs9b12WftzHP7"
+      },
+      "artists": [
+        {
+          "name": "Night Riots",
+          "url": "https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y"
+        }
+      ],
+      "duration_ms": 206976,
+      "name": "Nothing Personal",
+      "url": "https://open.spotify.com/track/4fzOCrzbRLppR4wkN8bFzz"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Stay Out Of It",
-        "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
-      },
-      "artists": [
-        {
-          "name": "Michigander",
-          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
-        }
-      ],
-      "duration_ms": 185317,
-      "name": "Stay Out Of It",
-      "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Just Say When (Version 2.0)",
         "url": "https://open.spotify.com/album/7LkSukso0Smyx9sMGl8R2d"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 224343,
       "name": "Just Say When - Version 2.0",
       "url": "https://open.spotify.com/track/1D1yuEDp0EqvX1yFxWqeuS"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Stay Out Of It",
+        "url": "https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "duration_ms": 185317,
+      "name": "Stay Out Of It",
+      "url": "https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Back In My Head Again",
-        "url": "https://open.spotify.com/album/0nH41ZLIbjlXlExaoo4kge"
-      },
-      "artists": [
-        {
-          "name": "Levi Evans",
-          "url": "https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX"
-        }
-      ],
-      "duration_ms": 174539,
-      "name": "Back In My Head Again",
-      "url": "https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
         "name": "Sunlit Youth",
         "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 233520,
       "name": "Fountain Of Youth",
       "url": "https://open.spotify.com/track/46exzPPGwXU9Xcoz5u618b"
+    },
+    {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "Back In My Head Again",
+        "url": "https://open.spotify.com/album/0nH41ZLIbjlXlExaoo4kge"
+      },
+      "artists": [
+        {
+          "name": "Levi Evans",
+          "url": "https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX"
+        }
+      ],
+      "duration_ms": 174539,
+      "name": "Back In My Head Again",
+      "url": "https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0"
     },
     {
       "added_at": "2023-05-26 04:00:00",

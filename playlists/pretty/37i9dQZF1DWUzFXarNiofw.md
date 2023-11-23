@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Queen Naija
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,030,354 likes - 175 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,030,595 likes - 175 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 9 | [Fashion](https://open.spotify.com/track/6Qo7qjGij0dOtoyVN9c3UK) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Mr Oúlala](https://open.spotify.com/album/2uFpZj1OcVRJlnSMs0Zlby) | 2:29 |
 | 10 | [Don't Stop](https://open.spotify.com/track/6VEKL1sNR6Yurnix0rEWfD) | [GoGo Morrow](https://open.spotify.com/artist/5DdULwXLSGsEN2nMNoeaCO), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Don't Stop](https://open.spotify.com/album/1MIJE8W8DdlZNunkNgMJpl) | 2:35 |
 | 11 | [Can't Forget](https://open.spotify.com/track/05lvABI7h1aa0o69Z2hpqS) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm), [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Can't Forget](https://open.spotify.com/album/2kGVa9ARhLbTdGbz8MPTPo) | 4:07 |
-| 12 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
+| 12 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
 | 13 | [Tandem](https://open.spotify.com/track/73ypDYXaKLXgb69ja5J21D) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [sneek](https://open.spotify.com/artist/6O4EoU7wO1VU8yAEhbIii5) | [sneek](https://open.spotify.com/album/48KwaEx2y9uL0cHJBoKacx) | 3:13 |
 | 14 | [Battle](https://open.spotify.com/track/5JQe2UYzLo91jmScVSY9mV) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Battle](https://open.spotify.com/album/57oaoYKJewebnaHJ6umJOe) | 2:41 |
 | 15 | [Take It Easy \(Miles' Song\)](https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [FIELDNOTES PT III](https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q) | 3:11 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 174 | [Ain’t Nobody](https://open.spotify.com/track/0Ctpzuq446LGu8RVIQOFiJ) | [Nevi](https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM) | [genesis \(Deluxe Edition\)](https://open.spotify.com/album/5snWN07rioDJfH1hR8aITX) | 2:25 |
 | 175 | [Good Ex](https://open.spotify.com/track/7b7MKh1kOgwASPihOs7vve) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [In A Perfect World](https://open.spotify.com/album/3oPebCk2nGseupO5q4PxiI) | 2:35 |
 
-Snapshot ID: `MCwzZDdjOTA1YjVhMTgwYjUzOTk0Y2M4NWRlZjZiM2NjNGM2Y2Q5YWUw`
+Snapshot ID: `MCw3OGFjYzJlZTczYTdiZmMxYmM1ZTY1NDI5YmM0ZTQwY2MyNzM4Yzk3`

@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-169 songs - 9 hr 56 min
+170 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2022-11-11 |  |
 | [Hero](https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF) | [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Loma Vista](https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg) | 3:10 | 2022-11-11 |  |
 | [High](https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High](https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby) | 2:44 | 2023-01-05 | 2023-02-18 |
+| [hold me, never let go](https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Her Favorite Flowers](https://open.spotify.com/album/3ZtwVDikRanGqN17IGpWgh) | 3:13 | 2023-10-26 |  |
 | [hold me, never let go](https://open.spotify.com/track/6QC5Dtp38M05T536UONe6J) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Her Favorite Flowers](https://open.spotify.com/album/5rFnAfQqhy7sFGSq15gN7g) | 3:13 | 2023-10-16 | 2023-11-18 |
 | [Hollow \- Acoustic](https://open.spotify.com/track/2K4uwGeeT2AmZgAgdxdDNM) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Volume I](https://open.spotify.com/album/7AtPi4pa51OrsqZOVqzS84) | 3:56 | 2022-11-11 |  |
 | [How Bad Can A Good Girl Be](https://open.spotify.com/track/1apf3Tw4DeNAH0wEK80Bft) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [Life Love Flesh Blood \(Deluxe\)](https://open.spotify.com/album/2hdRpcOMoNDlHfqeQUsgcU) | 3:27 | 2022-11-11 | 2023-06-10 |
@@ -103,7 +104,7 @@
 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 | 2023-06-09 | 2023-07-07 |
 | [Moon River](https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 3:14 | 2022-11-11 |  |
 | [More of Your Love](https://open.spotify.com/track/7fA7DeIVWaXOjHj9QfjzsM) | [JR JR](https://open.spotify.com/artist/3VAxb3UskTNiHAKh4UeOEv), [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [More of Your Love](https://open.spotify.com/album/15iwuw5NkGLK78cvvoCGr1) | 3:35 | 2023-02-18 | 2023-03-18 |
-| [Moving in Slow Motion](https://open.spotify.com/track/1JzJFYOlNFISoz28z5t20x) | [The Sweet Remains](https://open.spotify.com/artist/35HoDSeQMKnwC1f4sng0eK) | [Laurel & Sunset](https://open.spotify.com/album/6HjqPv1wOvpoPzyINKwTf4) | 3:57 | 2022-11-11 |  |
+| [Moving in Slow Motion](https://open.spotify.com/track/1JzJFYOlNFISoz28z5t20x) | [The Sweet Remains](https://open.spotify.com/artist/35HoDSeQMKnwC1f4sng0eK) | [Laurel & Sunset](https://open.spotify.com/album/6HjqPv1wOvpoPzyINKwTf4) | 3:57 | 2022-11-11 | 2023-11-23 |
 | [Mucho Peor \- Spotify Singles](https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Mucho Peor \- Spotify Singles](https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf) | 3:31 | 2023-08-18 | 2023-09-02 |
 | [Mudanza](https://open.spotify.com/track/2p607VlsD6tMuYukIxolRw) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Nave Especial](https://open.spotify.com/album/6OF2h9gMF6CmnuMN2hyfiL) | 2:16 | 2022-11-11 | 2023-03-18 |
 | [Naranja Paraíso](https://open.spotify.com/track/2IMlhZ6Sxse3z7ghzRO7qc) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [Naranja Paraíso](https://open.spotify.com/album/60pnmUd6TxVl3cABofrNFI) | 4:18 | 2023-06-09 |  |

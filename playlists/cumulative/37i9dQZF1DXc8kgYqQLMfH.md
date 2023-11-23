@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,087 songs - 1 day 17 hr 2 min
+1,088 songs - 1 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [crystal clear](https://open.spotify.com/track/48dwboYJcg9uNoVwJDIN1d) | [Brian Tuey](https://open.spotify.com/artist/4xPlBQAVyS9TNgDEBHbKCs) | [crystal clear](https://open.spotify.com/album/0sObfdc3y54BswoKtUMtvS) | 2:04 | 2022-06-03 | 2023-09-22 |
 | [Crystallized](https://open.spotify.com/track/70z3gnc374PHSBFFD0fz3x) | [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Crystallized](https://open.spotify.com/album/3t5SuQBjkOyoX27byBxvgf) | 2:06 | 2022-10-15 | 2023-10-06 |
 | [Création du Monde](https://open.spotify.com/track/4ZJFDEerMptTZzIbHQqnsi) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Création du Monde](https://open.spotify.com/album/7xX40x8BpmihVAuvZRBVgG) | 2:01 | 2022-04-22 | 2023-09-16 |
-| [cuba libre](https://open.spotify.com/track/7bOIeDRXO2pDN3yk15jQGB) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g) | [cuba libre](https://open.spotify.com/album/6yrTF5H3ukKqPukYBRqDDk) | 2:17 | 2023-11-17 |  |
+| [cuba libre](https://open.spotify.com/track/7bOIeDRXO2pDN3yk15jQGB) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g) | [cuba libre](https://open.spotify.com/album/6yrTF5H3ukKqPukYBRqDDk) | 2:17 | 2023-11-17 | 2023-11-23 |
 | [Cuddle Plz](https://open.spotify.com/track/2xkvJdvWp4OUaSl99S2JM3) | [Kirub](https://open.spotify.com/artist/43lUFmT9yMM9uQyZfo47JC) | [Cuddle Plz](https://open.spotify.com/album/4wxFyzzkQHh5eDnBMzb649) | 1:28 | 2022-08-05 | 2023-10-06 |
 | [Curious Shadows](https://open.spotify.com/track/2afipVQcYOHwXFxrQdoCZW) | [Obie Hans](https://open.spotify.com/artist/59WcuCFVwOnZdOUvAHW1NV) | [Curious Shadows](https://open.spotify.com/album/3McYyHGMBzbqgZW34lBjrX) | 2:48 | 2021-11-10 | 2022-07-22 |
 | [cushion](https://open.spotify.com/track/6z4uqDqO9LLdsW3i8GR9Li) | [Tesk](https://open.spotify.com/artist/7ntBtETW7gkufH8Hw38gb4), [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O) | [cushion](https://open.spotify.com/album/3UCS7p1N7vswlJQPgPglHC) | 2:27 | 2022-08-12 | 2023-10-06 |
@@ -461,6 +461,7 @@
 | [Infatuation](https://open.spotify.com/track/3UY75fys1T1zWADWQAs96z) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Infatuation](https://open.spotify.com/album/4zZKMPFyShYfoE0Jv8XepT) | 1:20 | 2022-12-16 |  |
 | [Infinite](https://open.spotify.com/track/4LJlnit8huwaWtlvDlVKb2) | [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS) | [Infinite](https://open.spotify.com/album/7FBFVGMtNfcb74gVgzYw6K) | 1:52 | 2022-09-02 | 2023-03-18 |
 | [Inner toughts](https://open.spotify.com/track/3K6JgqMN4vp8qkJYVcuwjY) | [Surdég Broed](https://open.spotify.com/artist/7mKovR2MtFaB4qRQhfzcSx) | [Inner toughts](https://open.spotify.com/album/5cu23aEbBPtFutqNENSaIR) | 2:29 | 2022-10-28 |  |
+| [Inner Vibration](https://open.spotify.com/track/4p163ntlRk3wPrb3v2LuQy) | [Somebody's Son](https://open.spotify.com/artist/3vmZybcmAnD5q3J5h6K8Ny) | [Inner Vibration](https://open.spotify.com/album/43CJs7tGiQeu2V4Ey6duPY) | 2:09 | 2023-11-17 |  |
 | [Inner Voice](https://open.spotify.com/track/5katSZ3S0P9MgcXTTsTD1R) | [Sora](https://open.spotify.com/artist/00JdEIGleCDoyrrKiFu8Vk) | [Inner Voice](https://open.spotify.com/album/627rNGraCQ7vqdvUsXR5LX) | 1:34 | 2022-12-09 |  |
 | [innerstellar](https://open.spotify.com/track/1XjXLbMacHjagjg1bkPYKE) | [henry loops](https://open.spotify.com/artist/15pHVeLU2nmaUkhMoremIO) | [innerstellar](https://open.spotify.com/album/4FqvopQIN3zBeXujzUyL7P) | 2:24 | 2022-05-13 |  |
 | [Intention](https://open.spotify.com/track/6NC6GH3zmJN9shNBMkvwNg) | [Redmatic レド](https://open.spotify.com/artist/5V1bfKS8WRsJ9uwJNRQWoy), [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [Intention](https://open.spotify.com/album/2105vVjzBKbZTkyvJmsLMT) | 2:00 | 2022-04-15 | 2022-12-10 |

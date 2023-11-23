@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 8822,
+  "num_followers": 8836,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjAwYTc5ZTNhZjU3YzU0ODQ5ZmJjNGY0ZWFhNDQzODNjNjc3Zjc1",
+  "snapshot_id": "MCwwNmY0ZTU2NjQzMDA5ZjJlZGRkYzRkMjFlZTVhY2Y5YzkxMjJjZWMz",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -163,22 +163,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Kingdom Come",
-        "url": "https://open.spotify.com/album/6lfwLgVBxltkAIvkpK4axR"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 288640,
-      "name": "When You Walk Into The Room",
-      "url": "https://open.spotify.com/track/22wEdAfAi35HqfNBCRzaz4"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Sing Like Never Before: The Essential Collection",
         "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 318120,
       "name": "The Heart Of Worship",
       "url": "https://open.spotify.com/track/5N23UhzMfAuCYjwhSbTQwH"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Kingdom Come",
+        "url": "https://open.spotify.com/album/6lfwLgVBxltkAIvkpK4axR"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 288640,
+      "name": "When You Walk Into The Room",
+      "url": "https://open.spotify.com/track/22wEdAfAi35HqfNBCRzaz4"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -251,22 +251,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Jesus Freak (Remastered)",
-        "url": "https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF"
-      },
-      "artists": [
-        {
-          "name": "DC Talk",
-          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
-        }
-      ],
-      "duration_ms": 305480,
-      "name": "In The Light - Remastered 2013",
-      "url": "https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Sing Like Never Before: The Essential Collection",
         "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 348893,
       "name": "Blessed Be Your Name",
       "url": "https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Jesus Freak (Remastered)",
+        "url": "https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF"
+      },
+      "artists": [
+        {
+          "name": "DC Talk",
+          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
+        }
+      ],
+      "duration_ms": 305480,
+      "name": "In The Light - Remastered 2013",
+      "url": "https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -331,26 +331,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Aodh\u00e1n King",
-          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "Best Friends",
-      "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Don't Censor Me",
         "url": "https://open.spotify.com/album/19QwRyfvFmQiIudO3x5m1C"
       },
@@ -379,38 +359,6 @@
       "duration_ms": 361173,
       "name": "Trading My Sorrows (Yes Lord)",
       "url": "https://open.spotify.com/track/4lD8ygUjwpsMvnHgJaSJBC"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "8 Great Hits dc Talk",
-        "url": "https://open.spotify.com/album/4ml5pL07kDVb9AxJutpI9U"
-      },
-      "artists": [
-        {
-          "name": "DC Talk",
-          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
-        }
-      ],
-      "duration_ms": 287173,
-      "name": "Jesus Freak",
-      "url": "https://open.spotify.com/track/5ID6qIRs04r4fMajBDY7uK"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Action Bible Songs",
-        "url": "https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv"
-      },
-      "artists": [
-        {
-          "name": "Cedarmont Kids",
-          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
-        }
-      ],
-      "duration_ms": 127800,
-      "name": "Rise And Shine (Arky, Arky)",
-      "url": "https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -455,8 +403,8 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C"
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
       },
       "artists": [
         {
@@ -464,13 +412,45 @@
           "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
         },
         {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
         }
       ],
-      "duration_ms": 205440,
-      "name": "Love Won't Let Me Down",
-      "url": "https://open.spotify.com/track/2NssSayyXceWY40zguZjeq"
+      "duration_ms": 185573,
+      "name": "Best Friends",
+      "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "8 Great Hits dc Talk",
+        "url": "https://open.spotify.com/album/4ml5pL07kDVb9AxJutpI9U"
+      },
+      "artists": [
+        {
+          "name": "DC Talk",
+          "url": "https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh"
+        }
+      ],
+      "duration_ms": 287173,
+      "name": "Jesus Freak",
+      "url": "https://open.spotify.com/track/5ID6qIRs04r4fMajBDY7uK"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Action Bible Songs",
+        "url": "https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv"
+      },
+      "artists": [
+        {
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        }
+      ],
+      "duration_ms": 127800,
+      "name": "Rise And Shine (Arky, Arky)",
+      "url": "https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -523,6 +503,26 @@
       "duration_ms": 229487,
       "name": "You Are My All In All",
       "url": "https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Love Won't Let Me Down",
+      "url": "https://open.spotify.com/track/2NssSayyXceWY40zguZjeq"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -619,6 +619,26 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "We Belong To Jesus (feat. New Life Kids)",
+        "url": "https://open.spotify.com/album/6ozGlAuSM6L95qyDfhRfsm"
+      },
+      "artists": [
+        {
+          "name": "Shout Praises Kids",
+          "url": "https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE"
+        },
+        {
+          "name": "New Life Kids",
+          "url": "https://open.spotify.com/artist/7gEZRb7O8vKSmKFCNjypG2"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "Never Be Shaken",
+      "url": "https://open.spotify.com/track/4siHGq67CuIl7m8L5qC3a5"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "We Are Young & Free (Live)",
         "url": "https://open.spotify.com/album/2WUtIkuLnF3EndnswpqEvJ"
       },
@@ -651,26 +671,6 @@
       "duration_ms": 160130,
       "name": "Fear Get Out of Here",
       "url": "https://open.spotify.com/track/4eBEZDnYDOrCJqBLg6JobM"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "We Belong To Jesus (feat. New Life Kids)",
-        "url": "https://open.spotify.com/album/6ozGlAuSM6L95qyDfhRfsm"
-      },
-      "artists": [
-        {
-          "name": "Shout Praises Kids",
-          "url": "https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE"
-        },
-        {
-          "name": "New Life Kids",
-          "url": "https://open.spotify.com/artist/7gEZRb7O8vKSmKFCNjypG2"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Never Be Shaken",
-      "url": "https://open.spotify.com/track/4siHGq67CuIl7m8L5qC3a5"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Hymns",
-        "url": "https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd"
-      },
-      "artists": [
-        {
-          "name": "Cedarmont Kids",
-          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
-        }
-      ],
-      "duration_ms": 126333,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/07Hbd32Jgwe7yT8QHus4aJ"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "I Am Alive",
         "url": "https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 228506,
       "name": "I Am Alive",
       "url": "https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Hymns",
+        "url": "https://open.spotify.com/album/6IsMuKCzRSdfK9uRNq5Bfd"
+      },
+      "artists": [
+        {
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        }
+      ],
+      "duration_ms": 126333,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/07Hbd32Jgwe7yT8QHus4aJ"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -935,22 +935,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol. 7",
-        "url": "https://open.spotify.com/album/2VdzXsV1FBxZT7ytoFLZHV"
-      },
-      "artists": [
-        {
-          "name": "GroupMusic",
-          "url": "https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF"
-        }
-      ],
-      "duration_ms": 178155,
-      "name": "The Golden Rule",
-      "url": "https://open.spotify.com/track/4W7djqunY8rq7pphJAdqrb"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Belong",
         "url": "https://open.spotify.com/album/23UWXk1FORanft5u9boft9"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 228679,
       "name": "Belong",
       "url": "https://open.spotify.com/track/2LCjZzth94744Ki2vR4scR"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol. 7",
+        "url": "https://open.spotify.com/album/2VdzXsV1FBxZT7ytoFLZHV"
+      },
+      "artists": [
+        {
+          "name": "GroupMusic",
+          "url": "https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF"
+        }
+      ],
+      "duration_ms": 178155,
+      "name": "The Golden Rule",
+      "url": "https://open.spotify.com/track/4W7djqunY8rq7pphJAdqrb"
     }
   ],
   "unique_name": "Christian Summer Camp",

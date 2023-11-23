@@ -1,12 +1,12 @@
 {
   "description": "If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist. A mix of both African and International songs. ",
-  "num_followers": 80900,
+  "num_followers": 81192,
   "original_name": "Praise and Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjgyMDdkNzI5ZGU2YjI0MGRmZDQ0NDQ2YTgyYmFiNTZlNmViYTNm",
+  "snapshot_id": "MCw4YjgyOTk0NTIxYjdjNzYyODgyNWU1NGYzODI5NTE0OTcyZjNkODU2",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Trust In God (Radio Version)",
-        "url": "https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 243715,
-      "name": "Trust In God - Radio Version",
-      "url": "https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Iba",
         "url": "https://open.spotify.com/album/3bdmsRx4jXf9I2w4x5lY3d"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 625166,
       "name": "Iba",
       "url": "https://open.spotify.com/track/0EWnPlQCVV2fTp0EGvLnjY"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Trust In God (Radio Version)",
+        "url": "https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 243715,
+      "name": "Trust In God - Radio Version",
+      "url": "https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Oke Mmiri",
-        "url": "https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 504000,
-      "name": "Oke Mmiri - Live",
-      "url": "https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "TOBECHUKWU",
         "url": "https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 487711,
       "name": "TOBECHUKWU",
       "url": "https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Oke Mmiri",
+        "url": "https://open.spotify.com/album/5baenpMXZnIbXczP9a9zMp"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 504000,
+      "name": "Oke Mmiri - Live",
+      "url": "https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Confidence",
+        "url": "https://open.spotify.com/album/0fJaLIpMiumMavCQtcvYx6"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 299176,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Jesus Oh",
         "url": "https://open.spotify.com/album/62srZNS6dHIfKMjU1CHxNL"
       },
@@ -947,6 +963,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "The Glory Experience (Songs of Zion)",
+        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 577592,
+      "name": "Kaabo",
+      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Thandwa Ndim",
         "url": "https://open.spotify.com/album/06bVQgyIrwyPBaCmuwwrqH"
       },
@@ -963,38 +995,6 @@
       "duration_ms": 271480,
       "name": "Thandwa Ndim",
       "url": "https://open.spotify.com/track/55xuM0wTpunSG8BNtWPTuP"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Confidence",
-        "url": "https://open.spotify.com/album/0fJaLIpMiumMavCQtcvYx6"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 299176,
-      "name": "Confidence",
-      "url": "https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "The Glory Experience (Songs of Zion)",
-        "url": "https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 577592,
-      "name": "Kaabo",
-      "url": "https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Over",
+        "url": "https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Jehovah 'Meliwo (Live)",
         "url": "https://open.spotify.com/album/34tawuuWHPRWc1kjVG2n3u"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 293782,
       "name": "Ebenezeri",
       "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/3pea7BAnzcaMlscFEhMfRD"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Calvary's Enough",
-        "url": "https://open.spotify.com/album/0WSEBQibT5euqk9cNl6PU8"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 197689,
-      "name": "Calvary's Enough",
-      "url": "https://open.spotify.com/track/2oBrfq6TBwRyW15UZozfZs"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Adura",
         "url": "https://open.spotify.com/album/2W4BAkrYRCQ6YjUDnJKw7B"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 481462,
       "name": "Adura",
       "url": "https://open.spotify.com/track/3mpeIYgtnY2QrjJp0s3G4D"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Calvary's Enough",
+        "url": "https://open.spotify.com/album/0WSEBQibT5euqk9cNl6PU8"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 197689,
+      "name": "Calvary's Enough",
+      "url": "https://open.spotify.com/track/2oBrfq6TBwRyW15UZozfZs"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1347,6 +1347,30 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/5ohhAarbKDSjtPZO54IbP7"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        }
+      ],
+      "duration_ms": 237669,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/0QDzvCDTphXN4P0waDbWRS"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "The Lord's Prayer (It's Yours)",
         "url": "https://open.spotify.com/album/3ITnYvWUgrQFBeUmYcUlIw"
       },
@@ -1383,30 +1407,6 @@
       "duration_ms": 397850,
       "name": "Bina Moya Waka (Live)",
       "url": "https://open.spotify.com/track/4JhsyZE6eZYmT3m108U3JQ"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/5ohhAarbKDSjtPZO54IbP7"
-      },
-      "artists": [
-        {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Greatman Takit",
-          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
-        }
-      ],
-      "duration_ms": 237669,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/0QDzvCDTphXN4P0waDbWRS"
     },
     {
       "added_at": "2023-11-17 00:01:00",

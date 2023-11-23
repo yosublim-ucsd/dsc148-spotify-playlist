@@ -4,11 +4,12 @@
 
 > Grind day motivation
 
-380 songs - 18 hr 31 min
+384 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [+234](https://open.spotify.com/track/371o3VFIoEDH6crkA42Kxy) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [+234](https://open.spotify.com/album/76AK0KzTGvTeld5Tza5MRc) | 2:12 | 2022-07-28 |  |
+| [+234](https://open.spotify.com/track/371o3VFIoEDH6crkA42Kxy) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [+234](https://open.spotify.com/album/76AK0KzTGvTeld5Tza5MRc) | 2:12 | 2022-07-28 | 2023-11-23 |
+| [+234](https://open.spotify.com/track/4jcMUbPIu4CAfTwNJw4HGZ) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Billion Dollar Baby](https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV) | 2:12 | 2023-11-17 |  |
 | [1 billi \(feat\. Majeeed\)](https://open.spotify.com/track/6Iw6lAzDTqTWHHPBJYyhdO) | [Xbusta](https://open.spotify.com/artist/4MXhHvUOSehGxYEXHioArJ), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [1 billi \(feat\. Majeeed\)](https://open.spotify.com/album/0IxR8Nsm9xsT73bpG0Rr3Z) | 2:21 | 2023-03-03 | 2023-03-11 |
 | [1 Hour](https://open.spotify.com/track/3mK2wWhcgKT1QbPT97Vy0R) | [Lemon Adisa](https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3), [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [1 Hour](https://open.spotify.com/album/4yjXmygzd1jmDWAJMiPVKo) | 2:56 | 2023-04-20 | 2023-04-28 |
 | [23](https://open.spotify.com/track/7EqoATlXAKNwzv45LAlqRt) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 4:05 | 2021-07-05 |  |
@@ -98,7 +99,8 @@
 | [Dawn](https://open.spotify.com/track/5VfOaSfpHD1jbS98dxr7cr) | [John Networq](https://open.spotify.com/artist/5SyIdSMJiUxOaA9HXlHH4E) | [Dawn](https://open.spotify.com/album/2yptlRK8B8OmAe9AnfuBa1) | 2:13 | 2022-09-01 | 2022-09-10 |
 | [DECLAN RICE](https://open.spotify.com/track/0QdQh3umB7stVOExuHlWvl) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 2:04 | 2023-10-13 | 2023-10-20 |
 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-03-24 |  |
-| [Dejavu](https://open.spotify.com/track/3ZwqPR9wHrcH1yEmm3nBto) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/4yOuw6mqRk6nusJyfT3Kvk) | 2:40 | 2023-06-16 |  |
+| [Dejavu](https://open.spotify.com/track/3ZwqPR9wHrcH1yEmm3nBto) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/4yOuw6mqRk6nusJyfT3Kvk) | 2:40 | 2023-06-16 | 2023-11-23 |
+| [Dejavu](https://open.spotify.com/track/4o9Byedt716sEyVFu1cQjZ) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj) | 2:40 | 2023-11-17 |  |
 | [Dem Deh Try](https://open.spotify.com/track/2DSFcgpJYAHUREdK5fgc9b) | [Paq](https://open.spotify.com/artist/0XYSXxykpPb4xmTjvc2yY4), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Dem Deh Try](https://open.spotify.com/album/16hOVq7kncTdjePoCYbB70) | 2:37 | 2023-05-19 | 2023-06-03 |
 | [Destiny](https://open.spotify.com/track/0p7qv8cZ5g44hPJMcjGOuV) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Destiny](https://open.spotify.com/album/4Iz82Kum1brRGUy8HSbXGp) | 2:40 | 2022-11-25 | 2023-04-15 |
 | [Destiny](https://open.spotify.com/track/4o288GFXXDZIo745sGSFRJ) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9) | [Destiny](https://open.spotify.com/album/3wKyONrSgO5XaH4ojx5bw5) | 3:00 | 2023-09-14 | 2023-09-22 |
@@ -155,7 +157,8 @@
 | [GWAGWALADA](https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GWAGWALADA](https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc) | 3:08 | 2023-02-16 |  |
 | [H.G.P](https://open.spotify.com/track/18iGUgdPv3j0JAt7dkceip) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [H.G.P](https://open.spotify.com/album/6LF7lz1IEsfRiZaeiz8Msc) | 2:42 | 2022-11-18 | 2023-01-20 |
 | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/album/1AyItMJ8g0claNyariIM6z) | 2:17 | 2023-05-04 |  |
-| [Hat\-trick](https://open.spotify.com/track/33ohxqNJdE1QXNSnJihNbN) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Hat\-trick](https://open.spotify.com/album/7jYk45lrUzw0NTDk9WBbqU) | 2:40 | 2023-06-02 |  |
+| [Hat\-trick](https://open.spotify.com/track/33ohxqNJdE1QXNSnJihNbN) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Hat\-trick](https://open.spotify.com/album/7jYk45lrUzw0NTDk9WBbqU) | 2:40 | 2023-06-02 | 2023-11-23 |
+| [Hat\-trick](https://open.spotify.com/track/6kq3Twa8T9Rf9nxpf111hx) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj) | 2:40 | 2023-11-17 |  |
 | [HBP](https://open.spotify.com/track/3xY9AUbeibAeVDyPkHm8Kj) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [HBP](https://open.spotify.com/album/5SOS13paz0WPPdIf9CL0Y8) | 2:47 | 2023-08-17 |  |
 | [Hey! \- A COLORS SHOW](https://open.spotify.com/track/7LDMiQocR2DFVu12nG2TKP) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR) | [Hey! \- A COLORS SHOW](https://open.spotify.com/album/6ChwUKdWh13psgCZEY3NCN) | 2:37 | 2022-08-12 | 2022-09-10 |
 | [Hnd \(Hope Never Dies\)](https://open.spotify.com/track/5PQDXuDEElqqwcbNdDgXGh) | [Giwa Olamilekan](https://open.spotify.com/artist/46rywf7VexMpM2srNiCqKb), [Macario](https://open.spotify.com/artist/2N0tmLNeG1KIeLiZKZuhde) | [Hnd \(Hope Never Dies\)](https://open.spotify.com/album/2ZH4cwFcXBBNpfNYVvCsQS) | 2:18 | 2023-06-16 | 2023-06-23 |
@@ -225,7 +228,8 @@
 | [MAKAVELI](https://open.spotify.com/track/1PfJV9r696a5sNZDr6w4Fu) | [T\-Classic](https://open.spotify.com/artist/2nR9FjLTz90sFqGrhYdzXE) | [MAKAVELI](https://open.spotify.com/album/6m1Or4HcLLjFLFhLLBNT96) | 2:18 | 2021-09-03 | 2023-04-28 |
 | [Make a Way](https://open.spotify.com/track/6KCczXRB9QHnBgCW99N2uI) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Sounds from the Slums](https://open.spotify.com/album/1xLyVixg49I9c99vL3CNgu) | 2:52 | 2022-10-30 | 2023-01-20 |
 | [Malaika](https://open.spotify.com/track/2uznTqRWArP0zVo3aq55ar) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Malaika](https://open.spotify.com/album/7gxJJvnaREpG5vxTkVnPIV) | 3:23 | 2023-11-03 |  |
-| [Man of The Year](https://open.spotify.com/track/4UdDJ77xjH9ru5r5F9kfOG) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1EUh0evo2sfC0Y8T0cnPAd) | 2:24 | 2023-06-27 |  |
+| [Man of The Year](https://open.spotify.com/track/4UdDJ77xjH9ru5r5F9kfOG) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1EUh0evo2sfC0Y8T0cnPAd) | 2:24 | 2023-06-27 | 2023-11-23 |
+| [Man of The Year](https://open.spotify.com/track/6OhEAnxF6FzPoUU3KxH44F) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Thy Kingdom Come](https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn) | 2:24 | 2023-11-17 |  |
 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 | 2022-06-30 | 2022-10-14 |
 | [Many Things](https://open.spotify.com/track/7rIHP8C7oHYONnJpLjVnAc) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Many Things](https://open.spotify.com/album/1yS7tbUsMdT1D1tcwGKNIe) | 2:47 | 2023-04-20 |  |
 | [Memories](https://open.spotify.com/track/79zKIZT7jEii0P5ZfKtgPX) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN), [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP) | [Memories](https://open.spotify.com/album/0BgalCTCs4Hitda1yc5LgJ) | 3:00 | 2022-11-18 | 2023-01-20 |

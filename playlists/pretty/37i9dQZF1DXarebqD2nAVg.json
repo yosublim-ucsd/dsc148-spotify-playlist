@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 443664,
+  "num_followers": 443724,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzQ3YWRiMGY4MzQ3M2ZhZmM3OTg2YTVhYTUyNTNjZjRkMzVkYWE3",
+  "snapshot_id": "MCwzMzVkZTdiYjkzYzQwNjUyMzY4ODMxNGUyYjNiNGU4NzY4ODZkN2Q4",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -99,22 +99,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "garden gnomes",
-        "url": "https://open.spotify.com/album/3qtLuyrhyW7G8GXJI9Xly3"
-      },
-      "artists": [
-        {
-          "name": "mutedvibes",
-          "url": "https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K"
-        }
-      ],
-      "duration_ms": 171958,
-      "name": "garden gnomes",
-      "url": "https://open.spotify.com/track/5wmwBWwC0JRC6AIpKvqZW5"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "falling down",
         "url": "https://open.spotify.com/album/1ophVAxCyBO9AQ5Mvh2ALP"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 96000,
       "name": "falling down",
       "url": "https://open.spotify.com/track/6gN6kwb5xLVfup7d2A33aS"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "garden gnomes",
+        "url": "https://open.spotify.com/album/3qtLuyrhyW7G8GXJI9Xly3"
+      },
+      "artists": [
+        {
+          "name": "mutedvibes",
+          "url": "https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K"
+        }
+      ],
+      "duration_ms": 171958,
+      "name": "garden gnomes",
+      "url": "https://open.spotify.com/track/5wmwBWwC0JRC6AIpKvqZW5"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "soul",
-        "url": "https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW"
-      },
-      "artists": [
-        {
-          "name": "Tatami Construct",
-          "url": "https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC"
-        }
-      ],
-      "duration_ms": 215713,
-      "name": "memory",
-      "url": "https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "roamwave",
         "url": "https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 138663,
       "name": "roamwave",
       "url": "https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "soul",
+        "url": "https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW"
+      },
+      "artists": [
+        {
+          "name": "Tatami Construct",
+          "url": "https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC"
+        }
+      ],
+      "duration_ms": 215713,
+      "name": "memory",
+      "url": "https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/3Qz7hcEsSRjN1akGaNuM4N"
-      },
-      "artists": [
-        {
-          "name": "Bill Snoozer",
-          "url": "https://open.spotify.com/artist/20z7TXde6nPUsv561EMQZo"
-        }
-      ],
-      "duration_ms": 164062,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/1KohJWIWwDDw7mBxs2wv90"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Blue Side",
         "url": "https://open.spotify.com/album/2PPei5ygMvZ0Zk1tDSIxZX"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 128212,
       "name": "Blue Side",
       "url": "https://open.spotify.com/track/1PSbDjjGuMpfGeKaHZGiwh"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/3Qz7hcEsSRjN1akGaNuM4N"
+      },
+      "artists": [
+        {
+          "name": "Bill Snoozer",
+          "url": "https://open.spotify.com/artist/20z7TXde6nPUsv561EMQZo"
+        }
+      ],
+      "duration_ms": 164062,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/1KohJWIWwDDw7mBxs2wv90"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Silent Sky",
-        "url": "https://open.spotify.com/album/0YxKDYxkNGU6qbnVtLN9PV"
-      },
-      "artists": [
-        {
-          "name": "Lofi Leif",
-          "url": "https://open.spotify.com/artist/4rPu3mEDy7ZWvjAsNE6q0N"
-        }
-      ],
-      "duration_ms": 139723,
-      "name": "Silent Sky",
-      "url": "https://open.spotify.com/track/1CwEJgKOytEZgRt7XmYdd0"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "trading places",
         "url": "https://open.spotify.com/album/6IHy6eRU3YJCEuEmkrfKdP"
       },
@@ -759,6 +743,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Silent Sky",
+        "url": "https://open.spotify.com/album/0YxKDYxkNGU6qbnVtLN9PV"
+      },
+      "artists": [
+        {
+          "name": "Lofi Leif",
+          "url": "https://open.spotify.com/artist/4rPu3mEDy7ZWvjAsNE6q0N"
+        }
+      ],
+      "duration_ms": 139723,
+      "name": "Silent Sky",
+      "url": "https://open.spotify.com/track/1CwEJgKOytEZgRt7XmYdd0"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "lunar walk",
         "url": "https://open.spotify.com/album/155VVaMjlTDghYkltp5CUE"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 120000,
       "name": "lunar walk",
       "url": "https://open.spotify.com/track/6ZJjAycopbrK5ab4Q2YImx"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Burnt Coffee",
+        "url": "https://open.spotify.com/album/7JLxezcgbxK6owUxAtJnsA"
+      },
+      "artists": [
+        {
+          "name": "AAGAPE",
+          "url": "https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Burnt Coffee",
+      "url": "https://open.spotify.com/track/754aGQqZJaznJc5fc2lTbG"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -923,22 +939,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Burnt Coffee",
-        "url": "https://open.spotify.com/album/7JLxezcgbxK6owUxAtJnsA"
-      },
-      "artists": [
-        {
-          "name": "AAGAPE",
-          "url": "https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "Burnt Coffee",
-      "url": "https://open.spotify.com/track/754aGQqZJaznJc5fc2lTbG"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Forget About Her",
         "url": "https://open.spotify.com/album/0DRMTbC9VGMiv75DM20nHD"
       },
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Soft Life",
-        "url": "https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV"
-      },
-      "artists": [
-        {
-          "name": "Laflov",
-          "url": "https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH"
-        }
-      ],
-      "duration_ms": 132260,
-      "name": "Melatonin",
-      "url": "https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Choke",
         "url": "https://open.spotify.com/album/40Ig3tBAjg46yp6XMUdxDg"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Last Summer",
-        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
+        "name": "Soft Life",
+        "url": "https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV"
       },
       "artists": [
         {
-          "name": "Barnes Blvd.",
-          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
+          "name": "Laflov",
+          "url": "https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH"
         }
       ],
-      "duration_ms": 161238,
-      "name": "I Have Love for Everyone Besides Myself.",
-      "url": "https://open.spotify.com/track/6okflAl3X7elXPx7MgJMi6"
+      "duration_ms": 132260,
+      "name": "Melatonin",
+      "url": "https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1035,6 +1019,22 @@
       "duration_ms": 214857,
       "name": "$orries",
       "url": "https://open.spotify.com/track/6F0gZWBvI3BnV39qCXfsbf"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Last Summer",
+        "url": "https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8"
+      },
+      "artists": [
+        {
+          "name": "Barnes Blvd.",
+          "url": "https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc"
+        }
+      ],
+      "duration_ms": 161238,
+      "name": "I Have Love for Everyone Besides Myself.",
+      "url": "https://open.spotify.com/track/6okflAl3X7elXPx7MgJMi6"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Distant",
-        "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
-      },
-      "artists": [
-        {
-          "name": "w00ds",
-          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
-        }
-      ],
-      "duration_ms": 121672,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/7xqFOjNcp0NJFo9wGKGOpJ"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Pause",
         "url": "https://open.spotify.com/album/1SGKhtJ0H8iLa4Q9CKsjOP"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Prelude to the Dawn",
-        "url": "https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS"
+        "name": "Distant",
+        "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
       },
       "artists": [
         {
-          "name": "Behind Clouds",
-          "url": "https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM"
+          "name": "w00ds",
+          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
         }
       ],
-      "duration_ms": 154800,
-      "name": "But of All We Did Together, Was It Worth It?",
-      "url": "https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe"
+      "duration_ms": 121672,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7xqFOjNcp0NJFo9wGKGOpJ"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1323,6 +1307,22 @@
       "duration_ms": 113345,
       "name": "Seymour (with Dawn Golden)",
       "url": "https://open.spotify.com/track/3tpr337B8DsgKo7JR2eYAS"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Prelude to the Dawn",
+        "url": "https://open.spotify.com/album/6b8KFU2jTjCRJiCVuDYnJS"
+      },
+      "artists": [
+        {
+          "name": "Behind Clouds",
+          "url": "https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "But of All We Did Together, Was It Worth It?",
+      "url": "https://open.spotify.com/track/48hI6OYk6KCGxGD7vm3qOe"
     },
     {
       "added_at": "2023-11-17 00:01:00",

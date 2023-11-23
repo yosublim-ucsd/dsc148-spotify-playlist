@@ -4,7 +4,7 @@
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-144 songs - 11 hr 2 min
+145 songs - 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Endless Haze](https://open.spotify.com/track/657ok2Bk1W8xDJfPBFi73X) | [Koherent](https://open.spotify.com/artist/2648rIoX4aFFXNipSvyBUD) | [Endless Haze](https://open.spotify.com/album/5UGUBeYZSWd1qjsWC7LRYO) | 4:54 | 2022-01-21 |  |
 | [Everywhere I Go](https://open.spotify.com/track/6PbDGsz1YF8vKNVmn0Lu9c) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d) | [Everywhere I Go](https://open.spotify.com/album/17Mzd54AI68RCfpPeAjzu8) | 4:50 | 2022-01-21 | 2023-10-14 |
 | [Evolving](https://open.spotify.com/track/0CSosCSVwHqhpxYmYfHExx) | [Sl8r](https://open.spotify.com/artist/3YLFA4Zkxkzk8NV9RmYMXR), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Evolving](https://open.spotify.com/album/7fvxLFTtlCn5FwQaDzpz0b) | 3:40 | 2022-01-21 | 2022-08-06 |
+| [Falling In Love](https://open.spotify.com/track/1Qyzdb5fhdZOQLJ3hH7kIq) | [Mystific](https://open.spotify.com/artist/1vmJX00cwTh9L8kYn1JfT4) | [Falling In Love](https://open.spotify.com/album/1d7ORhsWDJmFP2skkYFwTX) | 4:24 | 2023-11-17 |  |
 | [Farore](https://open.spotify.com/track/3FKHPk807KtTYigTRBTZZR) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Nymfo](https://open.spotify.com/artist/2Pdhwac5oHsY95PeUq6VBS) | [Farore](https://open.spotify.com/album/1NcOECskAuHYeRlsoJjpR0) | 4:51 | 2022-01-21 | 2023-04-05 |
 | [Final Render](https://open.spotify.com/track/2kkSL3E7r2SfdgTBNaA3qz) | [MKSTN](https://open.spotify.com/artist/43sodApl7acNHbFLOrgZuD), [CAPSUL](https://open.spotify.com/artist/6bKawCX7BxUXTBf05SsIpZ) | [CAPSUL](https://open.spotify.com/album/6ya1ggGwmnwegd0bjjyW0t) | 2:29 | 2022-10-28 |  |
 | [Fine Lines](https://open.spotify.com/track/6eD6GPEiaMna96ylz395oa) | [GLXY](https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT), [Sustance](https://open.spotify.com/artist/3069G1J62ioGObj518Umm2), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Fine Lines](https://open.spotify.com/album/0cFM1QU0I7aQRBoSDWdP85) | 3:24 | 2023-09-15 |  |
@@ -79,7 +80,7 @@
 | [Inertia](https://open.spotify.com/track/6y52a1OHsJGNyU5qjIghhe) | [Mirrored Theory](https://open.spotify.com/artist/27844MJ5IB1HBPtf5jxuji) | [Inertia](https://open.spotify.com/album/4yX1mfitgmZsCfgq14Phmo) | 3:51 | 2022-01-21 | 2023-09-15 |
 | [Intrigue](https://open.spotify.com/track/5vrnYqImaKKtkoTlY0OfII) | [Channell](https://open.spotify.com/artist/0USu267KXIgx4OKwhU9n5D) | [Intrigue](https://open.spotify.com/album/6UmvC0qaSHA3y6K5vTFDyz) | 5:23 | 2022-06-14 | 2022-07-22 |
 | [Just Words](https://open.spotify.com/track/4tPo56YuTnYEFOiuOyZWe5) | [Satl](https://open.spotify.com/artist/6OwnHoDYszPivlUgbApZbR) | [Just Words](https://open.spotify.com/album/7zQHE3p8PNvK3yZO9GjJoz) | 5:23 | 2022-01-21 | 2022-07-28 |
-| [Kinetic](https://open.spotify.com/track/0av697tc282yeLXrEbnamz) | [Makoto](https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu), [Polaris](https://open.spotify.com/artist/5MOQAMudR22V5K5P9rDF32) | [Kinetic](https://open.spotify.com/album/0lfl73mNR86aDka1MkStK3) | 5:45 | 2023-09-22 |  |
+| [Kinetic](https://open.spotify.com/track/0av697tc282yeLXrEbnamz) | [Makoto](https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu), [Polaris](https://open.spotify.com/artist/5MOQAMudR22V5K5P9rDF32) | [Kinetic](https://open.spotify.com/album/0lfl73mNR86aDka1MkStK3) | 5:45 | 2023-09-22 | 2023-11-23 |
 | [Let It Shine](https://open.spotify.com/track/1n2KSJqlys1ODCu26r3RFZ) | [Submorphics](https://open.spotify.com/artist/1SztdYGnQZ9QWXdGAjKKAH), [Satl](https://open.spotify.com/artist/6OwnHoDYszPivlUgbApZbR), [VEDA BLACK](https://open.spotify.com/artist/3nfA7vD5V98mOplOVXvxUo) | [Let It Shine](https://open.spotify.com/album/2cv6zecpFUry3tZsDZKPqx) | 5:26 | 2022-01-21 | 2022-07-04 |
 | [Lifted](https://open.spotify.com/track/2LcpeTWnyaULVZCYdBAh5E) | [Operate](https://open.spotify.com/artist/60j2M5PC8KpsahjNL6T2OO), [Banditt](https://open.spotify.com/artist/4uoxnYSZK48iKLjfbjRi6A), [Patch Edison](https://open.spotify.com/artist/0i592jj5zkb94alNCGfATI) | [Lifted](https://open.spotify.com/album/0IAKjFGpFSiVyhTzGpBMbR) | 4:09 | 2022-01-21 | 2022-07-28 |
 | [Like A Tattoo](https://open.spotify.com/track/4FSODqy1KStAlvQJmH7vR9) | [Don Arcadio](https://open.spotify.com/artist/6ihzZuNxERm0dxAQltMHjh), [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Like A Tattoo](https://open.spotify.com/album/2UaT96Sd2dBECtupDDASAO) | 4:20 | 2023-09-15 |  |

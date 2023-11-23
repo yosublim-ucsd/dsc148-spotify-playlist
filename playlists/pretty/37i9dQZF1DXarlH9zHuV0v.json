@@ -1,12 +1,12 @@
 {
   "description": "A playlist of spooky songs to get you ready for fright night!",
-  "num_followers": 240397,
+  "num_followers": 240373,
   "original_name": "Ultimate Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTM4OTg5NTdmNDNhZGMyMGJkNzgwNDljZjY0OWRkMGVmZWEyYWI3",
+  "snapshot_id": "MCw5NmUxYTEyYTQ0YWYxZmI1MWZlOTUzMGZlNTEyYjJmYzlmMzQ3ODE3",
   "tracks": [
     {
       "added_at": "2019-10-09 15:02:50",
@@ -143,22 +143,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Somebody\u2019s Watching Me (Sped Up)",
-        "url": "https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT"
-      },
-      "artists": [
-        {
-          "name": "Rockwell",
-          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
-        }
-      ],
-      "duration_ms": 238786,
-      "name": "Somebody's Watching Me - Single Version",
-      "url": "https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 378146,
       "name": "Sympathy For The Devil - 50th Anniversary Edition",
       "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Somebody\u2019s Watching Me (Sped Up)",
+        "url": "https://open.spotify.com/album/1xoC74ySN2wlcOishb1gvT"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "duration_ms": 238786,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/2QN9zL3SzXdGqqmXO68gFp"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -607,22 +607,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
-        "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 313453,
-      "name": "Scary Monsters (And Super Creeps) - 2017 Remaster",
-      "url": "https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "The Pious Bird of Good Omen",
         "url": "https://open.spotify.com/album/2KOI69X6VG66offffHQvjg"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 172693,
       "name": "Black Magic Woman - 2018 Master",
       "url": "https://open.spotify.com/track/6y5eBHh57iYViDkK4Hn6R7"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
+        "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 313453,
+      "name": "Scary Monsters (And Super Creeps) - 2017 Remaster",
+      "url": "https://open.spotify.com/track/4mm9p1NTNBYnyA89jfss3Z"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -671,22 +671,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Disney Halloween",
-        "url": "https://open.spotify.com/album/0ljU90uqoVtWg6WinOaV9y"
-      },
-      "artists": [
-        {
-          "name": "China Anne McClain",
-          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
-        }
-      ],
-      "duration_ms": 206675,
-      "name": "Calling All the Monsters",
-      "url": "https://open.spotify.com/track/1u2Z7Xp9kpnzYKUNFcBSEx"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "The Very Best of the Eagles (2013 Remaster)",
         "url": "https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 250888,
       "name": "Witchy Woman - 2013 Remaster",
       "url": "https://open.spotify.com/track/1NSjV4Ji9MKtUQDXHAH4k0"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Disney Halloween",
+        "url": "https://open.spotify.com/album/0ljU90uqoVtWg6WinOaV9y"
+      },
+      "artists": [
+        {
+          "name": "China Anne McClain",
+          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+        }
+      ],
+      "duration_ms": 206675,
+      "name": "Calling All the Monsters",
+      "url": "https://open.spotify.com/track/1u2Z7Xp9kpnzYKUNFcBSEx"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -739,22 +739,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
-        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 312426,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Going To Hell (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2PYeB2ZxvfvPsEpd951xP4"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 276053,
       "name": "Going To Hell",
       "url": "https://open.spotify.com/track/1Lg55kAU7qG9y9IZ3jTaIG"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
+        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 312426,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ"
     },
     {
       "added_at": "2019-10-09 15:02:50",
@@ -931,26 +931,6 @@
     {
       "added_at": "2019-10-09 15:02:50",
       "album": {
-        "name": "Just For The Record...",
-        "url": "https://open.spotify.com/album/1p6eCn8I7XVTGQ4E9RhCfj"
-      },
-      "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        },
-        {
-          "name": "Harold Arlen",
-          "url": "https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA"
-        }
-      ],
-      "duration_ms": 114960,
-      "name": "Ding-Dong! The Witch Is Dead (feat. Harold Arlen)",
-      "url": "https://open.spotify.com/track/08ZDdpL9NVZ2IzYmyqOofM"
-    },
-    {
-      "added_at": "2019-10-09 15:02:50",
-      "album": {
         "name": "Rewind, Replay, Rebound (Deluxe)",
         "url": "https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 311200,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0"
+    },
+    {
+      "added_at": "2019-10-09 15:02:50",
+      "album": {
+        "name": "Just For The Record...",
+        "url": "https://open.spotify.com/album/1p6eCn8I7XVTGQ4E9RhCfj"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        },
+        {
+          "name": "Harold Arlen",
+          "url": "https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA"
+        }
+      ],
+      "duration_ms": 114960,
+      "name": "Ding-Dong! The Witch Is Dead (feat. Harold Arlen)",
+      "url": "https://open.spotify.com/track/08ZDdpL9NVZ2IzYmyqOofM"
     },
     {
       "added_at": "2019-10-09 15:02:50",

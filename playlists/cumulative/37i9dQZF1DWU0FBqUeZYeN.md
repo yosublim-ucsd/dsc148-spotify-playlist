@@ -4,7 +4,7 @@
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-268 songs - 14 hr 39 min
+269 songs - 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,8 +217,9 @@
 | [She Lied](https://open.spotify.com/track/1FIMA2TNS2poopXXrpL5hh) | [Rockin' Ramrods](https://open.spotify.com/artist/1sSFqRg1plYYDDID9UURcc) | [Rockin' Ramrods \- Best](https://open.spotify.com/album/3qXKOQgebyUeOxWfmrCNjA) | 2:07 | 2015-07-23 |  |
 | [She Said](https://open.spotify.com/track/5SGaKs4lgCZxOdKgl2vE0e) | [Hasil Adkins](https://open.spotify.com/artist/5PXHQdsE6wKNW3hNpFDAyR) | [Out To Hunch](https://open.spotify.com/album/6OKqyMn9x0hbafkKKlr1hX) | 2:48 | 2015-07-23 |  |
 | [She's About A Mover](https://open.spotify.com/track/5r1hcMaYg7ECRPu1DYhHSz) | [Sir Douglas Quintet](https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW) | [Mad Men: A Musical Companion \(1960\-1965\)](https://open.spotify.com/album/0bsu7M7VJN8AheepyXeGza) | 2:21 | 2015-07-23 | 2022-07-29 |
-| [She's About a Mover](https://open.spotify.com/track/6ZYvCY3zyajhHunwbDrCtx) | [Sir Douglas Quintet](https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW) | [Walking the Streets](https://open.spotify.com/album/17MHW0ENg57rfMGXYtNkvV) | 2:25 | 2015-07-23 |  |
+| [She's About a Mover](https://open.spotify.com/track/6ZYvCY3zyajhHunwbDrCtx) | [Sir Douglas Quintet](https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW) | [Walking the Streets](https://open.spotify.com/album/17MHW0ENg57rfMGXYtNkvV) | 2:25 | 2015-07-23 | 2023-11-23 |
 | [She's About A Mover](https://open.spotify.com/track/40Fs8G1qws6fP8Zz0Tm1u3) | [Sir Douglas Quintet](https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW) | [The Best Of Sir Douglas Quintet](https://open.spotify.com/album/11H6HAyk5ZYXSvXmMPcBjQ) | 2:25 | 2015-07-23 | 2022-11-13 |
+| [She's About a Mover](https://open.spotify.com/track/5X3JIyJzDdB8SIRjzH4fvm) | [Sir Douglas Quintet](https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW) | [The Best of the Sir Douglas Quintet \(The Crazy Cajun Recordings\)](https://open.spotify.com/album/2h331kKZufXWpEWd1TBGa2) | 2:25 | 2015-07-23 |  |
 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/3v8PlUFGQQDBIk1J86waCo) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 3:08 | 2015-07-23 |  |
 | [Silver Machine](https://open.spotify.com/track/2xTF1DGbD8uQzsjaTZgcRq) | [Hawkwind](https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05) | [Pure Rock](https://open.spotify.com/album/2bDWdWdMlGXttmm6MP6CP6) | 4:37 | 2015-07-23 | 2022-07-29 |
 | [Silver Machine \- Live at the Roundhouse London; 1996 Remaster](https://open.spotify.com/track/73HSIWZlSCfs4tqVkrGv7H) | [Hawkwind](https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05) | [In Search of Space](https://open.spotify.com/album/1cgsYqtDTMTetu7FjEsIhI) | 4:39 | 2015-07-23 |  |

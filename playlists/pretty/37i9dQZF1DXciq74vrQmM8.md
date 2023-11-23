@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. Anna Sofia
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,403 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,548 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 79 | [Enemies with Benefits](https://open.spotify.com/track/2Mq5YOnYgqvOfZn8uMMAvC) | [AlienBlaze](https://open.spotify.com/artist/79eu73GhyfHgYTGt6lTn34) | [Enemies with Benefits](https://open.spotify.com/album/1glHI4LZaPaDyhWRnfiTG2) | 3:12 |
 | 80 | [Dreams](https://open.spotify.com/track/2c6DUvTVi7UkUXmnGmUxuf) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Dreams](https://open.spotify.com/album/3k2NdOf9Kud0fTpCn1RBZe) | 3:50 |
 
-Snapshot ID: `MCw3ZTJkODAxNzM5N2RhNWVjZTk3NWM0YzEwYWU5ZWM0ZTA4M2VhMDJh`
+Snapshot ID: `MCwzYjkwZGMzZTNmZDI3ZTlmNjM0N2M4N2U0MzFkNjFkNWE0ZDU5ZjY3`

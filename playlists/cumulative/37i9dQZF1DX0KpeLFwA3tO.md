@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Death Lens
 
-1,449 songs - 3 day 0 hr 29 min
+1,450 songs - 3 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1108,7 +1108,8 @@
 | [Shooting Star \(feat\. Sum 41\)](https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X) | [SK8](https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Last Day On Earth](https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1) | 2:18 | 2022-04-07 | 2022-05-27 |
 | [Short Straw](https://open.spotify.com/track/3QJWvFiMtkl4B5bIc8RQRR) | [Popes Of Chillitown](https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN) | [Take A Picture](https://open.spotify.com/album/1ChLWmwf2uKugRHKCtxMSM) | 3:38 | 2023-06-29 | 2023-09-02 |
 | [Shot Down](https://open.spotify.com/track/6rvlbf5Rle9exopdtBY3cL) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Shot Down](https://open.spotify.com/album/25RwbMetO9mwESyZvfIRAB) | 1:49 | 2023-03-03 | 2023-04-09 |
-| [Show Friends](https://open.spotify.com/track/0Grfb5ta2qSUt3DHCiaLM1) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [Show Friends](https://open.spotify.com/album/3tApeKsRnpdmtum9EYzFAn) | 3:07 | 2023-10-19 |  |
+| [Show Friends](https://open.spotify.com/track/0Grfb5ta2qSUt3DHCiaLM1) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [Show Friends](https://open.spotify.com/album/3tApeKsRnpdmtum9EYzFAn) | 3:07 | 2023-10-19 | 2023-11-23 |
+| [Show Friends](https://open.spotify.com/track/553jmB9Nq4yPJgMFtkjVRm) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [Show Friends](https://open.spotify.com/album/4Giirh6zaV7k8g7INupvwH) | 3:07 | 2023-11-17 |  |
 | [SHOWER SONG 2](https://open.spotify.com/track/46fW1xHXSwTCvvty3TiiMq) | [fredo disco](https://open.spotify.com/artist/1zNfnkHqbNqPMm0LY98Tfx), [Disco Inc.](https://open.spotify.com/artist/3mPyBjLQNaO5XwUyTXf5wL) | [POP PUNK PONZI SCHEME!!!](https://open.spotify.com/album/0rkZSgDbzpQA6elsUSzy8e) | 2:49 | 2022-01-28 | 2022-03-18 |
 | [Sick](https://open.spotify.com/track/4wBf57Njjl4tKNBGpa39s2) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [Velveteen](https://open.spotify.com/album/20autaRlTtoAUnewO5c12H) | 3:07 | 2023-05-18 | 2023-07-14 |
 | [SiCK ABOuT U](https://open.spotify.com/track/4kktxKYY6MQK6rNlEvNl2o) | [TITUS](https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd) | [SiCK ABOuT U](https://open.spotify.com/album/2ycxmpyCma1VJLKs1O8Sp4) | 3:08 | 2021-12-17 | 2022-02-25 |

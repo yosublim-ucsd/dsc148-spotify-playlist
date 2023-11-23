@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: TesseracT
 
-643 songs - 2 day 7 hr 30 min
+644 songs - 2 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Embers](https://open.spotify.com/track/4IY2yfzVQb4DRRly6kXxQI) | [Sentinels](https://open.spotify.com/artist/0JwMB5kwBvLi6uyLUnKDKv) | [Collapse by Design](https://open.spotify.com/album/52Y0UXCuYODCbm18Zh8QYE) | 4:01 | 2021-12-17 | 2023-01-21 |
 | [Empire](https://open.spotify.com/track/0x8VSd3L1jtCGm1CZwXB5B) | [Red Handed Denial](https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7) | [Empire](https://open.spotify.com/album/390CJ2fKWDx7IE6DMdX8O8) | 3:10 | 2022-07-13 | 2022-07-27 |
 | [Empire](https://open.spotify.com/track/2aj46915WcKBD1HnbnYpQz) | [Red Handed Denial](https://open.spotify.com/artist/51hAPClmrwe6oa8aXLsbq7) | [Redeemer](https://open.spotify.com/album/1eZGxI9LWYt3VdvEUUCPBa) | 3:10 | 2022-07-13 |  |
+| [Empires Erased](https://open.spotify.com/track/663CMmhlatqRPRa1viS72M) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [The Eternal Reign](https://open.spotify.com/album/6323vcawGVGPqKrt8ZihTp) | 3:25 | 2023-08-18 |  |
 | [Empires Erased](https://open.spotify.com/track/6mbVph0fNVnBDCAmtJ19ju) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [The Eternal Reign](https://open.spotify.com/album/6I9rxohdKInov3F52qTlV2) | 3:25 | 2022-07-13 | 2022-11-05 |
 | [Empires Erased](https://open.spotify.com/track/7LdWEEzQ7ppMKBBDzsGLEA) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [The Eternal Reign](https://open.spotify.com/album/4cQvWOaOguhmfKKGlzzg1S) | 3:25 | 2022-10-28 | 2023-11-20 |
 | [Empty](https://open.spotify.com/track/2DIqYiqMXd7OZ92QEERUHS) | [Awakening Sun](https://open.spotify.com/artist/1cEjFjoSrq4vgbB3vnWU9v) | [Empty](https://open.spotify.com/album/3b7uGrWZsEwVkFtDs2Wl8A) | 4:21 | 2021-12-17 | 2022-07-29 |
@@ -390,7 +391,7 @@
 | [Paralyzed](https://open.spotify.com/track/7DCLX6EC3qcwW9Cz38DJ8O) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Distance Over Time \(Bonus track version\)](https://open.spotify.com/album/1sRDi0MSGOy91fHhcpXIu4) | 4:17 | 2021-12-17 | 2022-09-03 |
 | [Paratyphoid Fever](https://open.spotify.com/track/1hBR7sbMShSI6SO84BTHZd) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [Paratyphoid Fever](https://open.spotify.com/album/3JRjPOWMqdpV81L7Y5rnEZ) | 6:37 | 2021-12-17 | 2022-05-13 |
 | [Pendulum](https://open.spotify.com/track/4HMh3kHGNPE9pSZwR0Jr1M) | [Their Dogs Were Astronauts](https://open.spotify.com/artist/4Z9zaQ8l8EbHdZPwaP691h) | [Pendulum](https://open.spotify.com/album/3atT3fDVkxsThexLnxNjfM) | 3:52 | 2023-04-07 |  |
-| [penny royal poison](https://open.spotify.com/track/3JkngcpInYH1pC37MubshJ) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [penny royal poison](https://open.spotify.com/album/6vN7gFRSTozXhZ7RNrk1NO) | 3:09 | 2022-07-13 |  |
+| [penny royal poison](https://open.spotify.com/track/3JkngcpInYH1pC37MubshJ) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [penny royal poison](https://open.spotify.com/album/6vN7gFRSTozXhZ7RNrk1NO) | 3:09 | 2022-07-13 | 2023-11-23 |
 | [Perennial Philosophy](https://open.spotify.com/track/2PSI1KGrynoogbYLnoTybJ) | [Eidola](https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3) | [Hidden Worship](https://open.spotify.com/album/7fHg4wRjf0m5MA6e3IuROT) | 4:03 | 2021-12-17 | 2023-01-21 |
 | [Periscope](https://open.spotify.com/track/77nsctL8EWneiHnnyTBXl5) | [Andromeda](https://open.spotify.com/artist/46U3e36KOitRTJchc1SqFu) | [Chimera](https://open.spotify.com/album/5N1vbVOrAyU7qqTTkpNc5u) | 6:11 | 2021-12-17 | 2022-01-23 |
 | [Peruvian Skies \(Basic Tracks\)](https://open.spotify.com/track/7lXJWraADeGngycPUcBngY) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Lost Not Forgotten Archives: The Making of Falling Into Infinity \(1997\)](https://open.spotify.com/album/6PSF6V0b6eMbuBI8lBMahX) | 1:44 | 2023-04-07 | 2023-11-05 |

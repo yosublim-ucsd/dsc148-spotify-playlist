@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline! ft\. Y U QT
 
-212 songs - 13 hr 15 min
+213 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [All My Love](https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [All My Love](https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98) | 2:49 | 2022-08-12 |  |
 | [All My Love](https://open.spotify.com/track/3RAgAdJt10E68RQj6NcG7p) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [All My Love](https://open.spotify.com/album/2p3AHorjKMnURWK4apzAYt) | 2:49 | 2022-04-15 | 2022-08-05 |
 | [All Night](https://open.spotify.com/track/0J4ecx7h9B73ihSLT88YXm) | [Cooky](https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap) | [All Night](https://open.spotify.com/album/6BGQEGytHSd4axFauI67A8) | 3:48 | 2022-04-15 | 2023-05-20 |
+| [Alla Dem Bad](https://open.spotify.com/track/4zYsCeHjJYwXJxWzR8AlNN) | [J69](https://open.spotify.com/artist/46M2k6hBDA6GLd9iuNZgRh), [Miss Baas](https://open.spotify.com/artist/6Q8qDODQwBDwTvqoP2G3xU) | [Alla Dem Bad](https://open.spotify.com/album/63IVVJ6unNqy2Dd2u5INc3) | 2:54 | 2023-10-28 |  |
 | [Amazon Prime](https://open.spotify.com/track/7KMqFgnOWEIBPayRCLx7NI) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p), [1st Born](https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb) | [Amazon Prime](https://open.spotify.com/album/2GY4CND4eFzrv4QwW3zNA9) | 2:40 | 2022-04-15 | 2023-04-11 |
 | [Amazon Prime](https://open.spotify.com/track/7wuJLTnogk3Q5Iy3fW4Vrv) | [Window Kid](https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p), [1st Born](https://open.spotify.com/artist/1KBcM1utBexIFa20pstSMb) | [Amazon Prime](https://open.spotify.com/album/3d1z6S3dXHKcarGfMh1VhA) | 2:40 | 2023-04-04 | 2023-09-22 |
 | [Annihilation](https://open.spotify.com/track/43auTkxJdUs3TRkMNJROYj) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [In Two Worlds](https://open.spotify.com/album/5oAPopKo0zZwdDdYtzqgu9) | 4:30 | 2022-04-15 | 2022-11-27 |
@@ -183,7 +184,7 @@
 | [Show Me \- Skepsis Remix](https://open.spotify.com/track/7EfCX1JJcvCtul38U9PBRB) | [Kamakaze](https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Show Me \(Skepsis Remix\)](https://open.spotify.com/album/3KQMAgCDCdTzqCjWPRvaPY) | 2:45 | 2022-09-23 | 2023-08-11 |
 | [Shutdown](https://open.spotify.com/track/4gIm8QiIZrLb4UAn4JUXdP) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Shutdown](https://open.spotify.com/album/1uMBr5KbMr7jDxJCrc3iZT) | 3:43 | 2022-09-05 |  |
 | [Signal](https://open.spotify.com/track/2pdswR1p29SsJNP6Zl7d05) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Signal / Have You Over](https://open.spotify.com/album/1i685TMCvqmUHQc9ZcGqf4) | 4:13 | 2022-10-28 | 2023-05-19 |
-| [Signal \(feat\. Ruth Royall\)](https://open.spotify.com/track/0DH8DLh53K6WKk5eShesMx) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Signal / Have You Over \(feat\. Ruth Royall\)](https://open.spotify.com/album/2wROMSuKGzDy8R8AuVHcuE) | 4:13 | 2023-04-04 |  |
+| [Signal \(feat\. Ruth Royall\)](https://open.spotify.com/track/0DH8DLh53K6WKk5eShesMx) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Signal / Have You Over \(feat\. Ruth Royall\)](https://open.spotify.com/album/2wROMSuKGzDy8R8AuVHcuE) | 4:13 | 2023-04-04 | 2023-11-23 |
 | [Skanker](https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Skanker](https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48) | 3:47 | 2022-04-15 |  |
 | [Slappy Slap](https://open.spotify.com/track/60oyrB49x7WsTklriQ7kec) | [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH) | [Slappy Slap](https://open.spotify.com/album/7hU5Bsz8CEnekGSiDsd6ZJ) | 4:27 | 2023-10-28 |  |
 | [Solid Ground](https://open.spotify.com/track/5rPEJbUTX6yaznk9V78jQZ) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N) | [Solid Ground](https://open.spotify.com/album/6bVBjsTZcvTMDr5sjzgVsJ) | 4:01 | 2022-04-15 | 2023-05-19 |

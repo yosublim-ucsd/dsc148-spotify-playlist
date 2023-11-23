@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 
 > Sleep is the best Medicine
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,313 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,318 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 6 | [Can You Feel The Love Tonight](https://open.spotify.com/track/6KQVHlSUKdIEO91qTNm6Uz) | [Mingmei Hsueh](https://open.spotify.com/artist/2Z1JaXCxqUBOH0Zm2Eyrxq) | [My Dream](https://open.spotify.com/album/31elgDQoMPiS8VCMVBxbcA) | 2:10 |
 | 7 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 |
 | 8 | [Vague](https://open.spotify.com/track/3IOXceWmoCrTyl5TXFDzWu) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Envision](https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F) | 2:23 |
-| 9 | [Endless Sleep](https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk), [Yoga Savasana](https://open.spotify.com/artist/7JzaqHa1JiixMzAQsMNgEq), [Moon Tunes](https://open.spotify.com/artist/2CrKYctaeLX0vhSesbWyTD) | [Endless Meditation](https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK) | 2:43 |
-| 10 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 |
+| 9 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 |
+| 10 | [Endless Sleep](https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk), [Yoga Savasana](https://open.spotify.com/artist/7JzaqHa1JiixMzAQsMNgEq), [Moon Tunes](https://open.spotify.com/artist/2CrKYctaeLX0vhSesbWyTD) | [Endless Meditation](https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK) | 2:43 |
 | 11 | [In the Far Away Distance](https://open.spotify.com/track/1oHDNBIxtHai4IcMQ4mJuL) | [Zen Gaya](https://open.spotify.com/artist/5zC4k86g6y3NsIvUwFVX1G) | [In the Far Away Distance](https://open.spotify.com/album/6hxNWvBvsKr4mV1YAjz9HS) | 2:56 |
 | 12 | [Under A Smiling Moon](https://open.spotify.com/track/0aqmVdsk85uvygzAxpJENH) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 4:23 |
 | 13 | [Pads of Redemption](https://open.spotify.com/track/5I3JZ3zvxKQMdp9rEcGkiR) | [Masala Roo](https://open.spotify.com/artist/3A81JSAePWWFgyybGr8zIE) | [Pads of Redemption](https://open.spotify.com/album/2XCWjHkbcCvT4WXFwnY253) | 2:48 |
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 32 | [The Tower of Embellion](https://open.spotify.com/track/76RktDCi1rVj63vpt9u5F0) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Winds of Haryana](https://open.spotify.com/album/1RR1WACNqmE89FmqtAUW07) | 2:56 |
 | 33 | [Mantric Melody](https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [Mantric Melody](https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9) | 1:51 |
 | 34 | [The Great Plains Hymn](https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Seasons Changing](https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu) | 1:59 |
-| 35 | [A Gift To Share](https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [A Gift To Share](https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy) | 2:19 |
-| 36 | [You'll Be In My Heart](https://open.spotify.com/track/48TkJSl7gj38DZ8AMoI9Fs) | [Daavid Laaksonen](https://open.spotify.com/artist/4EOykGH38DFfCDrP5xkFhK) | [You'll Be In My Heart](https://open.spotify.com/album/6ryxDYCLluZ4E9s8xlQGNU) | 4:32 |
+| 35 | [You'll Be In My Heart](https://open.spotify.com/track/48TkJSl7gj38DZ8AMoI9Fs) | [Daavid Laaksonen](https://open.spotify.com/artist/4EOykGH38DFfCDrP5xkFhK) | [You'll Be In My Heart](https://open.spotify.com/album/6ryxDYCLluZ4E9s8xlQGNU) | 4:32 |
+| 36 | [A Gift To Share](https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [A Gift To Share](https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy) | 2:19 |
 | 37 | [Trail of Light](https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:18 |
-| 38 | [A Clear Mind](https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [A Clear Mind](https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ) | 2:53 |
-| 39 | [Murray's Moon](https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [Murray's Moon](https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW) | 2:07 |
+| 38 | [Murray's Moon](https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [Murray's Moon](https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW) | 2:07 |
+| 39 | [A Clear Mind](https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [A Clear Mind](https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ) | 2:53 |
 | 40 | [Atmosphere](https://open.spotify.com/track/55EbjQa4Th0gmzKQdSnMrw) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Newborn Soul](https://open.spotify.com/album/5AtAU8ju6CMZKMEELFbDOR) | 4:07 |
 | 41 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 |
 | 42 | [Olancha Farewell](https://open.spotify.com/track/4KyJQKAFvEH4F52qSMuwIF) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Lovely Thunder](https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA) | 2:18 |
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 46 | [Loveliness](https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx) | [Jean Petri](https://open.spotify.com/artist/5Nh6KbxCO5DFRmgQEllo2G) | [Moments of Tomorrow](https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a) | 1:50 |
 | 47 | [schemering](https://open.spotify.com/track/0Dp0J1AvJ3mQEE0zSiRbIG) | [Jaidy Thissen](https://open.spotify.com/artist/1W2V4bgvEbn1I8BK8KOcHT) | [schemering](https://open.spotify.com/album/1wIbm0IUexXCSFVCnWpMpq) | 2:04 |
 | 48 | [Sentiment](https://open.spotify.com/track/7wd5Xpj9J0ekJY2htpCsv9) | [Sufi Sheman](https://open.spotify.com/artist/4hWBezYoYKyxns86q3P9ok) | [Sentiment](https://open.spotify.com/album/7ccpFpZ8vOqBmsvVsGxr4w) | 2:10 |
-| 49 | [As We Believed](https://open.spotify.com/track/6yinSttivI31ybMeU8jlAF) | [Oakwood Station](https://open.spotify.com/artist/5ogO48IG4KEeiAwFTJ8nCf) | [For Better Times](https://open.spotify.com/album/1hWM5tdWHTjSXHvCP17aSJ) | 4:07 |
-| 50 | [Astral Therapy](https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Floating, Always](https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB) | 2:17 |
-| 51 | [If you ever change your mind](https://open.spotify.com/track/4meLskE3DIQEBlBC18GS0Z) | [Santo Trevisani](https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ) | [If you ever change your mind](https://open.spotify.com/album/29OMOWzMu8Ypte7rgzzEk2) | 2:02 |
-| 52 | [Cosmos](https://open.spotify.com/track/211l6gKeErP58kN2gvzuQZ) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 4:31 |
+| 49 | [If you ever change your mind](https://open.spotify.com/track/4meLskE3DIQEBlBC18GS0Z) | [Santo Trevisani](https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ) | [If you ever change your mind](https://open.spotify.com/album/29OMOWzMu8Ypte7rgzzEk2) | 2:02 |
+| 50 | [Cosmos](https://open.spotify.com/track/211l6gKeErP58kN2gvzuQZ) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 4:31 |
+| 51 | [Astral Therapy](https://open.spotify.com/track/17Wjmh3nZzAywevzFHqJnx) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Floating, Always](https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB) | 2:17 |
+| 52 | [As We Believed](https://open.spotify.com/track/6yinSttivI31ybMeU8jlAF) | [Oakwood Station](https://open.spotify.com/artist/5ogO48IG4KEeiAwFTJ8nCf) | [For Better Times](https://open.spotify.com/album/1hWM5tdWHTjSXHvCP17aSJ) | 4:07 |
 | 53 | [Violin Lullaby](https://open.spotify.com/track/4j48DHJh8QgMeLJyScpRAd) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Sleep Well](https://open.spotify.com/album/3dTunlZ8wSkLIT53kwCeAx) | 2:26 |
 | 54 | [Mother's Wingspan](https://open.spotify.com/track/2InC8TNlBd9N5E0leI2l8G) | [Ben Leinbach](https://open.spotify.com/artist/1bs286UUnvo0aH5N0nmZEX) | [Devotion 1: Blessings of the Heart](https://open.spotify.com/album/5sl94ANcRPBvU2jfOe01Ub) | 8:33 |
 | 55 | [Let Go](https://open.spotify.com/track/2gixQXOUSRnv7yBuplbgAK) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Let Go](https://open.spotify.com/album/28liljlrdNabEfDkZG7JWW) | 3:11 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 81 | [Inside Out](https://open.spotify.com/track/1OTHwPZtINBdYK4wAFyF4V) | [Borghild Wenn](https://open.spotify.com/artist/1r8KaUu0MuGreHt8J0ZqT7) | [Inside Out](https://open.spotify.com/album/3ZNnzT63UWTBmWMF7yjbY7) | 2:32 |
 | 82 | [Storybook](https://open.spotify.com/track/0nMvEL9CNSdeBwV3TgUGSi) | [Mi Soon](https://open.spotify.com/artist/6wM8laf4eWnxQnhABs0E5i) | [Storybook](https://open.spotify.com/album/5KwSIcT8RrbxnKscueYIxI) | 2:21 |
 | 83 | [Voyager](https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL) | [Beyond The Bubble](https://open.spotify.com/artist/7M4nJXpkznecW7NGJTu45o) | [Voyager](https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq) | 3:25 |
-| 84 | [Bliss](https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN) | [Sufi Ellman](https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz) | [Bliss](https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2) | 2:15 |
-| 85 | [Danny](https://open.spotify.com/track/3ApyQUpg6me0GcLmOx9bcz) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Broadchurch \(Music From The Original TV Series\)](https://open.spotify.com/album/3GmecFBWNs4fTi0PkLF7qR) | 4:23 |
+| 84 | [Danny](https://open.spotify.com/track/3ApyQUpg6me0GcLmOx9bcz) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Broadchurch \(Music From The Original TV Series\)](https://open.spotify.com/album/3GmecFBWNs4fTi0PkLF7qR) | 4:23 |
+| 85 | [Bliss](https://open.spotify.com/track/7eEwlmgLLzzWGR1YNuQfDN) | [Sufi Ellman](https://open.spotify.com/artist/6ygBRVOC9dNamRsZec9vdz) | [Bliss](https://open.spotify.com/album/1FpbbSOjOEWAwBPzRv3CO2) | 2:15 |
 | 86 | [Heavenly Walk](https://open.spotify.com/track/7N38FhlGOzPZ8AAnQjAMpU) | [Minisol](https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf) | [Heavenly Walk](https://open.spotify.com/album/4WG7sewn60p16rOU8lumWS) | 4:44 |
 | 87 | [Soothing Mountain Winds \- Massage Music With Tibetan Flute & Restful Winds](https://open.spotify.com/track/7Jif3bSrhQXySnfLtCaLmC) | [Lullaby Tribe](https://open.spotify.com/artist/0GPPKMS6tmfbyCwpy0Frcy) | [World Flute Lullabies \- Native American & Asian Flutes for Sleep Therapy](https://open.spotify.com/album/2SMZ78xm92pM7R25LxOm9q) | 5:22 |
 | 88 | [As She Awakens](https://open.spotify.com/track/1tZxzyEBPmsMTOpc6t005r) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [Monument](https://open.spotify.com/album/05oo8Bv67GY4iClgCrG6jv) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 99 | [Lorimar](https://open.spotify.com/track/45Of6RO7cx8xbYWKk2uyI7) | [Danyel Varda](https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB) | [Mandala Spirit](https://open.spotify.com/album/7hEcayytLnBIvyX3vl234z) | 3:42 |
 | 100 | [Rain](https://open.spotify.com/track/47yf6KungKlUDUJdfvIItH) | [Violin Music](https://open.spotify.com/artist/4jzPc3lvsP75j3CKWqacTt) | [New Romantic Classical Piano and Violin Duets](https://open.spotify.com/album/7v6s1nucVtGQC0mfjShaax) | 4:32 |
 
-Snapshot ID: `MCw5ZjA1NTMzNGY0YTRlMzc0N2UwMmFhM2UzYjk5MmNhMTE5YzcwMGUz`
+Snapshot ID: `MCxlZGFhNjEzMTFkMmZkMjIxYTQ2MzgzYWMzNjhmMjgxNzI0MzhjMDk0`

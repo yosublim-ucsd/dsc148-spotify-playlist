@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Mida
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,950 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,964 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 49 | [Balla \(come la domenica\)](https://open.spotify.com/track/5c5i976D2vDemkPHOMcyDT) | [Deddy](https://open.spotify.com/artist/7FoxLMG7HePgQvwDfJj7VR), [Paps'n'Skar](https://open.spotify.com/artist/7pbBSvkFKdTKLCJl5G1jSV) | [Balla \(come la domenica\)](https://open.spotify.com/album/5hun2luD1TdLOyNPm33U5Z) | 2:46 |
 | 50 | [Chi Sono Veramente](https://open.spotify.com/track/5Xxz4XYpz2aViGUfW50Y4O) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [CHI SONO VERAMENTE EP](https://open.spotify.com/album/5fEPgkaJVP12LRMZ5T6fhI) | 2:50 |
 
-Snapshot ID: `MCxiNzRhYzYxOWRkY2M1NTVlNGU0YzBhOWU5ZjJjNTBjOWM1YTM2NjYz`
+Snapshot ID: `MCw3ZjUwMjU3NjIwOThiZDA4NGU4YzcwOGIzMjAzOGE4YjhkNTQ0Y2E5`

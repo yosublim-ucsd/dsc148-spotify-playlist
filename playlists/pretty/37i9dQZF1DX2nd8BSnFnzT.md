@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Ciça Moreira, Egypcio
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,323 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,327 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 11 | [Coração Codificado](https://open.spotify.com/track/7p39pt1zEPGAJqhBL7VHVM) | [Gloria](https://open.spotify.com/artist/7IvxX9RKB0Tal8lE7LZxXN) | [Coração Codificado](https://open.spotify.com/album/6q4dxXqEwVg2Bf3SFOQmGl) | 3:24 |
 | 12 | [Por que a gente é assim?](https://open.spotify.com/track/6r5MJTD9mUworfbzTS1Riz) | [Barão Vermelho](https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj), [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Barão 40 \(Clássicos\)](https://open.spotify.com/album/1Q1yWO18Uc16tYa9jNd3la) | 3:41 |
 | 13 | [Piloto Automático \- Ao Vivo no Studio F](https://open.spotify.com/track/2jaF9qxuI3hqvfH3xKlQcu) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Supercombo Ao Vivo no Studio F](https://open.spotify.com/album/3DnxGjjJhlvXuUgSkQpqvp) | 3:11 |
-| 14 | [Dentes Amarelos](https://open.spotify.com/track/2HZ01B2TGIBQTlff9Vk7th) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [Dentes Amarelos](https://open.spotify.com/album/2KwgTGfuvwNwQhTKCzarML) | 2:36 |
+| 14 | [Dentes Amarelos](https://open.spotify.com/track/4MKFLktfOFYZT8e7GRjavw) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [Dentes Amarelos](https://open.spotify.com/album/7MtCGjHayofUeaOKu7TGu4) | 2:36 |
 | 15 | [O Verão Passou, Mas O Sol Continua Aqui](https://open.spotify.com/track/2wIwKAvMEcdA5oKYwX16ta) | [Selvagens à Procura de Lei](https://open.spotify.com/artist/093ybF4c81CndQe6qWtc8S) | [O Verão Passou, Mas O Sol Continua Aqui](https://open.spotify.com/album/01b9ock8wNdadj9h2L53t3) | 2:57 |
 | 16 | [Blue](https://open.spotify.com/track/6XnN3odDNIC7ALIxEEkjQq) | [No Gabiru](https://open.spotify.com/artist/7ohOiUqAS7HaDCUxK01Oty) | [Blue](https://open.spotify.com/album/3F7Zw02ymEuJu1fLZl4Yf2) | 3:03 |
 | 17 | [Infame](https://open.spotify.com/track/1yJoSwOtQPXcGf3Vzm5DSe) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1), [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Infame](https://open.spotify.com/album/5ajNNK3Yk53P8040QnuhOT) | 4:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Inabalável](https://open.spotify.com/track/3972PNho0RmiNcpIm6hcYn) | [Mattilha](https://open.spotify.com/artist/1p5k3q7GkTTeSI3dundiSU) | [Inabalável](https://open.spotify.com/album/6PG3v6BBWyDyDR3BgBqXgw) | 4:23 |
 | 75 | [Primeiros Erros](https://open.spotify.com/track/7FWkuxnRVX16pkVmxtO2Lt) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Primeiros Erros](https://open.spotify.com/album/4Zjcmh7q0ShqZPHtAMcFDM) | 5:51 |
 
-Snapshot ID: `MCw0NmJjYTRjZjMwOGZlN2I4YjljZjM3ZDI5OGZjY2IzN2ZmOThkZmMw`
+Snapshot ID: `MCw2NjFkNjZlNzcyNjA5MGMwMjkxMjQxYzNmY2YyOWRkNDdkYmYwN2Ey`

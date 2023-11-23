@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 
 > 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요\. \(Listen to K\-Pop autumn songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,660 likes - 121 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,663 likes - 121 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 109 | [잊어줄 순 없을까 \(feat\. 명다원\)](https://open.spotify.com/track/5A9T2kIskC3ei72QWs9lvz) | [카페모카](https://open.spotify.com/artist/5BF4JZwqktSwyAEmpjLLN0), [명다원](https://open.spotify.com/artist/62PadTYQecttv7r6Gc2L77) | [forget it](https://open.spotify.com/album/2Ptu3GcNcF8v42IN733NTt) | 3:41 |
 | 110 | [Leaf \(feat\. 10CM\)](https://open.spotify.com/track/012syLYaTalPGsorWvJJSJ) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Leaf \(feat\. 10CM\)](https://open.spotify.com/album/7e8DEKMXqSQ8SkQS8nWyis) | 3:19 |
 | 111 | [HYE](https://open.spotify.com/track/2hMLyprzSqOWiW2RCdhXWa) | [onthedal](https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV) | [HYE](https://open.spotify.com/album/6BoAOP9rSYxsCiucBIUwXC) | 4:07 |
-| 112 | [He'll be good to you\. \(feat.KURO\)](https://open.spotify.com/track/5O6OjZxFxxroClXNp6hHK8) | [Kumira](https://open.spotify.com/artist/1Ntydb0DmiKZ4gs185CpoK), [KURO](https://open.spotify.com/artist/4Hw8Xf4xtbRExhhYgX95eE) | [He'll be good to you.](https://open.spotify.com/album/7kh037xNhXtxAgwMnWS49V) | 3:32 |
+| 112 | [He'll be good to you\. \(feat.KURO\)](https://open.spotify.com/track/5O6OjZxFxxroClXNp6hHK8) | [kumira](https://open.spotify.com/artist/1Ntydb0DmiKZ4gs185CpoK), [KURO](https://open.spotify.com/artist/4Hw8Xf4xtbRExhhYgX95eE) | [He'll be good to you.](https://open.spotify.com/album/7kh037xNhXtxAgwMnWS49V) | 3:32 |
 | 113 | [우린 알고 있잖아](https://open.spotify.com/track/41ZWcnUBJnwvvqCeqIf8TA) | [Joo Yein](https://open.spotify.com/artist/3aSFvFghagKF9tdjluIkAT) | [스물아홉](https://open.spotify.com/album/7f2UlqqrxEscD2ffbGPBnd) | 3:42 |
 | 114 | [Spring in September](https://open.spotify.com/track/5PkgKQxZ73NxGaKdWrAUNg) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [Spring in September](https://open.spotify.com/album/6iZSNXjixRDZ6owQkOM37K) | 3:43 |
 | 115 | [The Pain Is Over Here](https://open.spotify.com/track/7lGyKRGHqiNJy3iX53WlZO) | [Autumn Vacation](https://open.spotify.com/artist/09FfoFiVjZZEQ7ZcFVfYts) | [The World Is Like a Handkerchief](https://open.spotify.com/album/1fUnCRqBma6HJXolcC4SDO) | 3:47 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ4yqIW9PVQn.md) - [plain]
 | 120 | [Autumn breeze \(Feat\. Milky Day\)](https://open.spotify.com/track/2XOy3DKHapEiDxG7EFI2wT) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [Autumn breeze](https://open.spotify.com/album/2qaPqpiQfg952oIT1nrDXB) | 2:54 |
 | 121 | [Bad](https://open.spotify.com/track/2DGrRwugivZANDFU3gXo4j) | [BANHANA](https://open.spotify.com/artist/6RvPayywUEsk1MMK0Magpy) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 16](https://open.spotify.com/album/19Ov0ZxXqwknA1QnqaMVK3) | 3:27 |
 
-Snapshot ID: `MCxhNDNkNDRjYTEzMzY3N2I2Y2JmZDY1MjgyMDE3YmE4ZWFmODc0Mzk1`
+Snapshot ID: `MCwzMDZkZmZkZDllYmY2NTliMWExNzhiZDUyZGY5ODMyMmRkZmMzMDg0`

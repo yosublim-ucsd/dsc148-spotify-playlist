@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 
 > Aquí está el sonido urbano de Venezuela\. Cover: Briella
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,154 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,187 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 | 6 | [No Creo En Mujeres](https://open.spotify.com/track/1khZCgEjEDU5O3SvFXhvAw) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [The Classics, Vol\. 1](https://open.spotify.com/album/7Fk8BYKoCrlqVHAyYY7yfP) | 3:33 |
 | 7 | [Awakate](https://open.spotify.com/track/6oN4KnpdniSxi3i4webjGs) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Mangus](https://open.spotify.com/artist/1MBFloPAlrKWbgNRCyldSF) | [Retrofuturismopsicotropical](https://open.spotify.com/album/40lrVieyV0nLORPYMtIc1U) | 3:21 |
 | 8 | [De Oro](https://open.spotify.com/track/39vbXhdllt7Npz6Ym9ekfB) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [De Oro](https://open.spotify.com/album/0UYD1YeqrWOe2aSx1vvgsk) | 2:47 |
-| 9 | [ENCAPUCHA’O](https://open.spotify.com/track/7GVujyCArRUJCIi3dnRpbW) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Vvstears](https://open.spotify.com/artist/35b0Dt3ZlltjG3FJx2KRVg) | [TERRITORIO](https://open.spotify.com/album/1EHRjzxq4saYdE6agQT9yz) | 1:34 |
+| 9 | [ENCAPUCHAO'](https://open.spotify.com/track/7GVujyCArRUJCIi3dnRpbW) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Vvstears](https://open.spotify.com/artist/35b0Dt3ZlltjG3FJx2KRVg) | [TERRITORIO APACHE](https://open.spotify.com/album/1EHRjzxq4saYdE6agQT9yz) | 1:34 |
 | 10 | [Es Épico](https://open.spotify.com/track/2kd0T6zgABT8P0s2h9QU5O) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Muerte](https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12) | 6:01 |
 | 11 | [Oh qué será? \(feat\. Irepelusa & Veztalone\)](https://open.spotify.com/track/11jJjmMgj3vNPwuhzEQSC7) | [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5), [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Oh qué será? \(feat\. Irepelusa & Veztalone\)](https://open.spotify.com/album/2bzpJ4PL5yf9kExI3Wdk8A) | 3:10 |
 | 12 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtgIvO0zxTI.md) - [plain]
 | 59 | [Como Si Nada](https://open.spotify.com/track/2ECKWYbTPpKvtnKiRiUQqC) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Como Si Nada](https://open.spotify.com/album/25baT12B8EsCMIjKVCztUi) | 2:36 |
 | 60 | [Imaginándote](https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn) | 2:29 |
 
-Snapshot ID: `MCwyNTc5ZmRjNDYwMzE1ZTk1NWRiMjkwYjU3N2IzZTQ1ZDUyZDJhMTgw`
+Snapshot ID: `MCw2ZTQwOWFiOWY0YmVjNTRiMzgyY2ZjOTE5ZGM2NDY2ZDM2ZTZmOWE0`

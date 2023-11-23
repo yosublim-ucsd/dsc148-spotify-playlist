@@ -158,7 +158,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 186123,
       "name": "Aura",
       "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
@@ -960,7 +960,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 139764,
       "name": "I Care",
       "url": "https://open.spotify.com/track/05e7SNuOTnMpY6D39ZbNI6"
@@ -1218,7 +1218,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 135901,
       "name": "Mama",
       "url": "https://open.spotify.com/track/774f2Kn00cBgYObzXGEHbx"
@@ -1338,6 +1338,28 @@
       "duration_ms": 184346,
       "name": "Michelin Stjerner",
       "url": "https://open.spotify.com/track/4KjHgPOIsA8LlMwyAJRlfv"
+    },
+    {
+      "album": {
+        "name": "Millions",
+        "url": "https://open.spotify.com/album/3MAwZL5tB0PKU5DDcB0Ic4"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        },
+        {
+          "name": "Shenzi Beats",
+          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121263,
+      "name": "Millions",
+      "url": "https://open.spotify.com/track/2h5GOVxIHF4jJCvIGa8xIq"
     },
     {
       "album": {

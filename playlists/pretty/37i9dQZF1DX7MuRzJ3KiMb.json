@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 62908,
+  "num_followers": 62984,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGVjZTQxOWFmOTZiYmNiZWFmMzc2Njg2ZGU1YmJmOGRmZmQzNGNi",
+  "snapshot_id": "MCxiYzY3YWMxN2UxMzUzOTE2NDkxNTNiODRmZmI5MzliMzk0MzFlMWFj",
   "tracks": [
     {
       "added_at": "2023-06-22 20:49:18",
@@ -727,26 +727,6 @@
     {
       "added_at": "2023-06-22 20:49:18",
       "album": {
-        "name": "Quer\u00eda Volverte a Ver",
-        "url": "https://open.spotify.com/album/7K9bGfbvaK3k2DRjyWLBPO"
-      },
-      "artists": [
-        {
-          "name": "Los Claxons",
-          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
-        },
-        {
-          "name": "Rom\u00e1n Torres",
-          "url": "https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg"
-        }
-      ],
-      "duration_ms": 251760,
-      "name": "Quer\u00eda Volverte a Ver",
-      "url": "https://open.spotify.com/track/2o5rzkYatnrHVUYrCbRFnE"
-    },
-    {
-      "added_at": "2023-06-22 20:49:18",
-      "album": {
         "name": "ULYSE",
         "url": "https://open.spotify.com/album/6vIeyrxfW5aoC4mRhB95VD"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 214186,
       "name": "Timidez (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/6JMp6i9OZ70VwsC2MbgX5n"
+    },
+    {
+      "added_at": "2023-06-22 20:49:18",
+      "album": {
+        "name": "Quer\u00eda Volverte a Ver",
+        "url": "https://open.spotify.com/album/7K9bGfbvaK3k2DRjyWLBPO"
+      },
+      "artists": [
+        {
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
+        },
+        {
+          "name": "Rom\u00e1n Torres",
+          "url": "https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg"
+        }
+      ],
+      "duration_ms": 251760,
+      "name": "Quer\u00eda Volverte a Ver",
+      "url": "https://open.spotify.com/track/2o5rzkYatnrHVUYrCbRFnE"
     },
     {
       "added_at": "2023-06-22 20:49:18",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-06-22 20:49:18",
       "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/1NM35ebOcjBJsY0SYIezku"
+      },
+      "artists": [
+        {
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0XYn21VZfgYoFMI4l9cE6U"
+    },
+    {
+      "added_at": "2023-06-22 20:49:18",
+      "album": {
         "name": "Tanto Amor",
         "url": "https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": "2023-06-22 20:49:18",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/1NM35ebOcjBJsY0SYIezku"
-      },
-      "artists": [
-        {
-          "name": "Ramona",
-          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0XYn21VZfgYoFMI4l9cE6U"
-    },
-    {
-      "added_at": "2023-06-22 20:49:18",
-      "album": {
         "name": "Florecer",
         "url": "https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk"
       },
@@ -875,22 +875,6 @@
       "duration_ms": 214865,
       "name": "Florecer",
       "url": "https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR"
-    },
-    {
-      "added_at": "2023-06-22 20:49:18",
-      "album": {
-        "name": "Tu Historia",
-        "url": "https://open.spotify.com/album/5e3dSyeSBjthMeTcNJ6VBF"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 212156,
-      "name": "Te Encontr\u00e9",
-      "url": "https://open.spotify.com/track/7jcOfJG3z9Bt543UQSg72w"
     },
     {
       "added_at": "2023-06-22 20:49:18",
@@ -931,22 +915,6 @@
     {
       "added_at": "2023-06-22 20:49:18",
       "album": {
-        "name": "Ni Modo",
-        "url": "https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 185058,
-      "name": "Ni Modo",
-      "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
-    },
-    {
-      "added_at": "2023-06-22 20:49:18",
-      "album": {
         "name": "De Verdad",
         "url": "https://open.spotify.com/album/3yMBrg5Xa9WdumtUJlE1gW"
       },
@@ -959,6 +927,22 @@
       "duration_ms": 206440,
       "name": "De Verdad",
       "url": "https://open.spotify.com/track/1afwnLVsqusPl2cAUQ94ky"
+    },
+    {
+      "added_at": "2023-06-22 20:49:18",
+      "album": {
+        "name": "Ni Modo",
+        "url": "https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 185058,
+      "name": "Ni Modo",
+      "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
     },
     {
       "added_at": "2023-06-22 20:49:18",
@@ -1191,22 +1175,6 @@
     {
       "added_at": "2023-06-22 20:49:18",
       "album": {
-        "name": "Bolero Estelar",
-        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 238406,
-      "name": "Bolero Estelar",
-      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
-    },
-    {
-      "added_at": "2023-06-22 20:49:18",
-      "album": {
         "name": "Bonito",
         "url": "https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL"
       },
@@ -1263,6 +1231,22 @@
     {
       "added_at": "2023-06-22 20:49:18",
       "album": {
+        "name": "Bolero Estelar",
+        "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 238406,
+      "name": "Bolero Estelar",
+      "url": "https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ"
+    },
+    {
+      "added_at": "2023-06-22 20:49:18",
+      "album": {
         "name": "Para Verte",
         "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 200000,
       "name": "Ir por un Caf\u00e9",
       "url": "https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP"
+    },
+    {
+      "added_at": "2023-06-22 20:49:18",
+      "album": {
+        "name": "capturas de pantalla",
+        "url": "https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "capturas de pantalla",
+      "url": "https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR"
     }
   ],
   "unique_name": "cursi",

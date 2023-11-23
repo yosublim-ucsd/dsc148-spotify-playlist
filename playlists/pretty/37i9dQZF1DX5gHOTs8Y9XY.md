@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 
 > A beginners introduction to the beauty of Jazz\. Cover: Chet Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,433 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,523 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 66 | [Mean To Me \- Remastered/1998](https://open.spotify.com/track/4R6rf3KbP45JST6Cr3Enry) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 2:10 |
 | 67 | [Dedicated To You](https://open.spotify.com/track/7981FAW8DbDs1ueK4Ha8R2) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:32 |
 | 68 | [I Guess I'll Hang My Tears Out To Dry \- Rudy Van Gelder Edition/Remastered 1999](https://open.spotify.com/track/58ylMBq2yqYdHyevarkNWa) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Go! \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet) | 5:22 |
-| 69 | [Dindi](https://open.spotify.com/track/13Nh6UPBy8WgoTc5l7iGR8) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:41 |
-| 70 | [Blue Bossa \- Remastered](https://open.spotify.com/track/6qqK0oeBRapZn8f9hJJENw) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Page One](https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi) | 8:02 |
+| 69 | [Blue Bossa \- Remastered](https://open.spotify.com/track/6qqK0oeBRapZn8f9hJJENw) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Page One](https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi) | 8:02 |
+| 70 | [Dindi](https://open.spotify.com/track/13Nh6UPBy8WgoTc5l7iGR8) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:41 |
 | 71 | [Everything Happens to Me](https://open.spotify.com/track/4Y5fyQ5fBysC32Na5sZT3J) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings: It Could Happen To You \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc) | 5:05 |
 | 72 | [Splanky](https://open.spotify.com/track/3Y0LpU5kqQ3vSZvwcGjl1M) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [The Atomic Mr Basie](https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb) | 3:37 |
 | 73 | [You'd Be So Nice To Come Home To](https://open.spotify.com/track/5eJ90rBnkUv7PqxgTExfvd) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 4:15 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 93 | [Makin' Whoopee](https://open.spotify.com/track/6tL1ZlPRSihc6gyWhVfA8X) | [The Ben Webster Quintet](https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU) | [Soulville](https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc) | 4:31 |
 | 94 | [The Nearness Of You \- Remastered](https://open.spotify.com/track/7yCEzOAfijmD88IA1DHgSo) | [George Shearing Quintet](https://open.spotify.com/artist/6uduXqfPOgmcelx9Kclo3y), [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [The Swingin's Mutual \(Expanded Edition / Remastered\)](https://open.spotify.com/album/5DeuKgqbg1Bw3AqqrwyqF7) | 3:00 |
 | 95 | [Have You Met Miss Jones?](https://open.spotify.com/track/2HzipY6RzuFXeem8dzqA66) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Jazz in Autumn: Oscar Peterson](https://open.spotify.com/album/4ciNFo3mAg97yUGQwPRe5y) | 4:10 |
-| 96 | [But Not For Me](https://open.spotify.com/track/07vtuaY3Ym8jf76SJ8g7ar) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Is Here To Stay](https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t) | 3:05 |
-| 97 | [They Can't Take That Away from Me \(2012 \- Remaster\)](https://open.spotify.com/track/28z6KATfhamoyDgOtcm25F) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Mel Tormé Sings Fred Astaire \(2012 \- Remaster\)](https://open.spotify.com/album/01xKHe137Bs6g3HcBMjLD7) | 3:01 |
+| 96 | [They Can't Take That Away from Me \(2012 \- Remaster\)](https://open.spotify.com/track/28z6KATfhamoyDgOtcm25F) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Mel Tormé Sings Fred Astaire \(2012 \- Remaster\)](https://open.spotify.com/album/01xKHe137Bs6g3HcBMjLD7) | 3:01 |
+| 97 | [But Not For Me](https://open.spotify.com/track/07vtuaY3Ym8jf76SJ8g7ar) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Is Here To Stay](https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t) | 3:05 |
 | 98 | [Tenor Madness \- Rudy Van Gelder Remaster](https://open.spotify.com/track/7f4svguucdFTOv6gOjOvhO) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Tenor Madness](https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII) | 12:13 |
 | 99 | [St\. Thomas](https://open.spotify.com/track/05LNBtMuc26HSAHh7C6iG8) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [Doug Watkins](https://open.spotify.com/artist/3j0ZsENc1qq8vQ0stKX2z1), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Saxophone Colossus](https://open.spotify.com/album/2dtjLAwt7Cq763h6AupyPZ) | 6:47 |
 | 100 | [Stevie](https://open.spotify.com/track/6Ylpg33fqhQfJrXLwSxnzh) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:22 |
 
-Snapshot ID: `MCw3MzZlMDY1MTAxOWEwYzMwYzUxOWZmNDJlZDg2NDQxZGRmZGY3ZGQ0`
+Snapshot ID: `MCxkMmNjODYzYjBhYzVhZjkxYTZmOTU0ZTk0MjJlZDMzMDZkMDE1NzYy`

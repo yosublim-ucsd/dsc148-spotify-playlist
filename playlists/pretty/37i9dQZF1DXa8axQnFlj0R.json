@@ -1,12 +1,12 @@
 {
   "description": "The playlist version of a warm hug",
-  "num_followers": 80477,
+  "num_followers": 80655,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzdhYzUwZmE4Yjk1OTE1ZTllYzcxN2VjYzc0ZjUyYzkzNzcxNTY2",
+  "snapshot_id": "MCxjODc2ZWNhMWY4ZThhYWJiYjI1M2Q3ZGIyMTg5MTY5NzZjMWM0ZWQ1",
   "tracks": [
     {
       "added_at": "2023-11-21 17:29:48",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-11-21 17:29:48",
       "album": {
-        "name": "Do You Love Me, or Are You Just Lonely?",
-        "url": "https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3"
-      },
-      "artists": [
-        {
-          "name": "Jess Benko",
-          "url": "https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P"
-        }
-      ],
-      "duration_ms": 316556,
-      "name": "A Soulmate Who Wasn\u2019t Meant to Be",
-      "url": "https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo"
-    },
-    {
-      "added_at": "2023-11-21 17:29:48",
-      "album": {
         "name": "Dream Your Life Away (Special Edition)",
         "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 230506,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
+    },
+    {
+      "added_at": "2023-11-21 17:29:48",
+      "album": {
+        "name": "Do You Love Me, or Are You Just Lonely?",
+        "url": "https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3"
+      },
+      "artists": [
+        {
+          "name": "Jess Benko",
+          "url": "https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P"
+        }
+      ],
+      "duration_ms": 316556,
+      "name": "A Soulmate Who Wasn\u2019t Meant to Be",
+      "url": "https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo"
     },
     {
       "added_at": "2023-11-21 17:29:48",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-11-21 17:29:48",
       "album": {
+        "name": "Two Hearts",
+        "url": "https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 246796,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m"
+    },
+    {
+      "added_at": "2023-11-21 17:29:48",
+      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 401413,
       "name": "Re: Stacks",
       "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
-    },
-    {
-      "added_at": "2023-11-21 17:29:48",
-      "album": {
-        "name": "Two Hearts",
-        "url": "https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 246796,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m"
     },
     {
       "added_at": "2023-11-21 17:29:48",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-11-21 17:29:48",
       "album": {
+        "name": "Without Fear",
+        "url": "https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 202346,
+      "name": "Rome",
+      "url": "https://open.spotify.com/track/2ZwihAP8zB5XX1CmYIOBbF"
+    },
+    {
+      "added_at": "2023-11-21 17:29:48",
+      "album": {
         "name": "+",
         "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 382613,
       "name": "New Song",
       "url": "https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b"
-    },
-    {
-      "added_at": "2023-11-21 17:29:48",
-      "album": {
-        "name": "Without Fear",
-        "url": "https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "Rome",
-      "url": "https://open.spotify.com/track/2ZwihAP8zB5XX1CmYIOBbF"
     },
     {
       "added_at": "2023-11-21 17:29:48",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-11-21 17:29:48",
       "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 206008,
-      "name": "Punchline",
-      "url": "https://open.spotify.com/track/5IUq1DyjOjej1u3U9gWaUa"
-    },
-    {
-      "added_at": "2023-11-21 17:29:48",
-      "album": {
         "name": "Without Fear (The Complete Edition)",
         "url": "https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 260147,
       "name": "The Killer Was a Coward",
       "url": "https://open.spotify.com/track/3c67dPnPg08gwduVB08hpZ"
+    },
+    {
+      "added_at": "2023-11-21 17:29:48",
+      "album": {
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 206008,
+      "name": "Punchline",
+      "url": "https://open.spotify.com/track/5IUq1DyjOjej1u3U9gWaUa"
     },
     {
       "added_at": "2023-11-21 17:29:48",

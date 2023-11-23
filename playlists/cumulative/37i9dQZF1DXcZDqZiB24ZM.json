@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Dead Obies",
+  "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Loud",
   "name": "Les nouveaux classiques",
   "tracks": [
     {
@@ -893,6 +893,24 @@
     },
     {
       "album": {
+        "name": "Dans la peau (Anxiety)",
+        "url": "https://open.spotify.com/album/6exA47nOA3FEkMkiwZCFSq"
+      },
+      "artists": [
+        {
+          "name": "Yes*",
+          "url": "https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS"
+        }
+      ],
+      "date_added": "2022-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183746,
+      "name": "Dans la peau (Anxiety)",
+      "url": "https://open.spotify.com/track/4thpnFUoYU4QYeQuhANS1j"
+    },
+    {
+      "album": {
         "name": "Day Off",
         "url": "https://open.spotify.com/album/2EwxsQk2KSnXppM37afXlK"
       },
@@ -1308,7 +1326,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 262800,
       "name": "Fais ton shift",
       "url": "https://open.spotify.com/track/4rXzUQCQQSfa8pybnq5Wok"

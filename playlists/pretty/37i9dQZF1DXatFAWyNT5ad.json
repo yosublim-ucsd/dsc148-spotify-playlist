@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it. Cover: Landon Barker",
-  "num_followers": 127955,
+  "num_followers": 128040,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTA4NmZlYTZhMzJiMjY1ZDgxYjU4ZWVlYjBiNTNhZGU3ZGJmMjVl",
+  "snapshot_id": "MCwyYTQ3YzE5MWY5ZDdkYTgyNTk1M2Y2MWM3YzY4MTZlM2Q0MWM0MDM1",
   "tracks": [
     {
       "added_at": "2023-11-17 15:36:12",
@@ -651,6 +651,30 @@
     {
       "added_at": "2023-11-17 15:36:12",
       "album": {
+        "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
+        "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        },
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 207280,
+      "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
+      "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
+    },
+    {
+      "added_at": "2023-11-17 15:36:12",
+      "album": {
         "name": "Heart Attack (Rock Version)",
         "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
       },
@@ -679,30 +703,6 @@
       "duration_ms": 179573,
       "name": "I Want To Be With You",
       "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
-    },
-    {
-      "added_at": "2023-11-17 15:36:12",
-      "album": {
-        "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
-        "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        },
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        },
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 207280,
-      "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
-      "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
     },
     {
       "added_at": "2023-11-17 15:36:12",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-11-17 15:36:12",
       "album": {
+        "name": "Faith In The Future (Deluxe)",
+        "url": "https://open.spotify.com/album/2RMzjdvRjr9gd2XgS5PnEn"
+      },
+      "artists": [
+        {
+          "name": "Louis Tomlinson",
+          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
+        }
+      ],
+      "duration_ms": 137973,
+      "name": "Out Of My System",
+      "url": "https://open.spotify.com/track/4QU579S6uCG9vWaHUeGnLp"
+    },
+    {
+      "added_at": "2023-11-17 15:36:12",
+      "album": {
         "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
         "url": "https://open.spotify.com/album/4QI0QDu2k1PpD4432zbNHK"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 149160,
       "name": "don't sleep, repeat (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2qtqIinDwJQzsUofMtkH0D"
-    },
-    {
-      "added_at": "2023-11-17 15:36:12",
-      "album": {
-        "name": "Faith In The Future (Deluxe)",
-        "url": "https://open.spotify.com/album/2RMzjdvRjr9gd2XgS5PnEn"
-      },
-      "artists": [
-        {
-          "name": "Louis Tomlinson",
-          "url": "https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp"
-        }
-      ],
-      "duration_ms": 137973,
-      "name": "Out Of My System",
-      "url": "https://open.spotify.com/track/4QU579S6uCG9vWaHUeGnLp"
     },
     {
       "added_at": "2023-11-17 15:36:12",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-11-17 15:36:12",
       "album": {
-        "name": "BANG BANG!",
-        "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 136387,
-      "name": "BANG BANG!",
-      "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
-    },
-    {
-      "added_at": "2023-11-17 15:36:12",
-      "album": {
         "name": "FUNERAL",
         "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 181923,
       "name": "FUNERAL",
       "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
+    },
+    {
+      "added_at": "2023-11-17 15:36:12",
+      "album": {
+        "name": "BANG BANG!",
+        "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 136387,
+      "name": "BANG BANG!",
+      "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
     },
     {
       "added_at": "2023-11-17 15:36:12",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-11-17 15:36:12",
       "album": {
-        "name": "GO GO GO",
-        "url": "https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 145893,
-      "name": "GO GO GO",
-      "url": "https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N"
-    },
-    {
-      "added_at": "2023-11-17 15:36:12",
-      "album": {
         "name": "California Girl",
         "url": "https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 173836,
       "name": "California Girl",
       "url": "https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX"
+    },
+    {
+      "added_at": "2023-11-17 15:36:12",
+      "album": {
+        "name": "GO GO GO",
+        "url": "https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 145893,
+      "name": "GO GO GO",
+      "url": "https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N"
     },
     {
       "added_at": "2023-11-17 15:36:12",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-11-17 15:36:12",
       "album": {
-        "name": "Cynical",
-        "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 134582,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
-    },
-    {
-      "added_at": "2023-11-17 15:36:12",
-      "album": {
         "name": "How Do You Love Me",
         "url": "https://open.spotify.com/album/5jKzirISr4V40vLUvN8gMI"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 236490,
       "name": "How Do You Love Me",
       "url": "https://open.spotify.com/track/44UXLRvq1ZrSLb32OVOteB"
+    },
+    {
+      "added_at": "2023-11-17 15:36:12",
+      "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 134582,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3"
     },
     {
       "added_at": "2023-11-17 15:36:12",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-11-17 15:36:12",
       "album": {
-        "name": "Viva Las Vengeance",
-        "url": "https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 200037,
-      "name": "Middle Of A Breakup",
-      "url": "https://open.spotify.com/track/18Lvxsm4l6noRNjQW8nS4b"
-    },
-    {
-      "added_at": "2023-11-17 15:36:12",
-      "album": {
         "name": "UPSAHL PRESENTS: THE PHX TAPES",
         "url": "https://open.spotify.com/album/4ehJjs7mB5D5sTgsEAKG8Y"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 139844,
       "name": "GOOD GIRL ERA (SIDE A)",
       "url": "https://open.spotify.com/track/5LJsMlAwHdRzyq6Z3lLCat"
+    },
+    {
+      "added_at": "2023-11-17 15:36:12",
+      "album": {
+        "name": "Viva Las Vengeance",
+        "url": "https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 200037,
+      "name": "Middle Of A Breakup",
+      "url": "https://open.spotify.com/track/18Lvxsm4l6noRNjQW8nS4b"
     },
     {
       "added_at": "2023-11-17 15:36:12",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2023-11-17 15:36:12",
       "album": {
-        "name": "i don\u2019t sleep as good as i used to",
-        "url": "https://open.spotify.com/album/6aUYWT72B92zOpEK5xIo0i"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1GpKwtg3FhxOAWQtfVERxv"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "The Scarlet Opera",
+          "url": "https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix"
         }
       ],
-      "duration_ms": 183109,
-      "name": "i don\u2019t sleep as good as i used to",
-      "url": "https://open.spotify.com/track/2YCrJo5Ly8VS7rWMO30xbX"
+      "duration_ms": 192748,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2KoE7jhmorIAAqxBh3K7FI"
     },
     {
       "added_at": "2023-11-17 15:36:12",
@@ -1591,22 +1591,6 @@
       "duration_ms": 182792,
       "name": "dead inside",
       "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
-    },
-    {
-      "added_at": "2023-11-17 15:36:12",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1GpKwtg3FhxOAWQtfVERxv"
-      },
-      "artists": [
-        {
-          "name": "The Scarlet Opera",
-          "url": "https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix"
-        }
-      ],
-      "duration_ms": 192748,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/2KoE7jhmorIAAqxBh3K7FI"
     },
     {
       "added_at": "2023-11-17 15:36:12",
@@ -1643,22 +1627,18 @@
     {
       "added_at": "2023-11-17 15:36:12",
       "album": {
-        "name": "The Witching Hour",
-        "url": "https://open.spotify.com/album/28izFr04hNwIUy1XQNwKqE"
+        "name": "i don\u2019t sleep as good as i used to",
+        "url": "https://open.spotify.com/album/6aUYWT72B92zOpEK5xIo0i"
       },
       "artists": [
         {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        },
-        {
-          "name": "Kailee Morgue",
-          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
         }
       ],
-      "duration_ms": 191539,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/6Fz5NTInUwZFcsjUSXiNHG"
+      "duration_ms": 183109,
+      "name": "i don\u2019t sleep as good as i used to",
+      "url": "https://open.spotify.com/track/2YCrJo5Ly8VS7rWMO30xbX"
     },
     {
       "added_at": "2023-11-17 15:36:12",
@@ -1683,6 +1663,26 @@
     {
       "added_at": "2023-11-17 15:36:12",
       "album": {
+        "name": "The Witching Hour",
+        "url": "https://open.spotify.com/album/28izFr04hNwIUy1XQNwKqE"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "Kailee Morgue",
+          "url": "https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0"
+        }
+      ],
+      "duration_ms": 191539,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/6Fz5NTInUwZFcsjUSXiNHG"
+    },
+    {
+      "added_at": "2023-11-17 15:36:12",
+      "album": {
         "name": "MASOCHIST",
         "url": "https://open.spotify.com/album/2NM15uX3nFGvD6nnJUCuPK"
       },
@@ -1695,6 +1695,22 @@
       "duration_ms": 164800,
       "name": "MASOCHIST",
       "url": "https://open.spotify.com/track/1fDGlJAUBDeCgWYqhna9jN"
+    },
+    {
+      "added_at": "2023-11-17 15:36:12",
+      "album": {
+        "name": "Nocturnal",
+        "url": "https://open.spotify.com/album/0ZBgA8AktdUxgz54mAUxrN"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "duration_ms": 158081,
+      "name": "CASUALTY",
+      "url": "https://open.spotify.com/track/6KZS7UyCY1akaJGAp64Akl"
     },
     {
       "added_at": "2023-11-17 15:36:12",
@@ -1731,18 +1747,18 @@
     {
       "added_at": "2023-11-17 15:36:12",
       "album": {
-        "name": "Nocturnal",
-        "url": "https://open.spotify.com/album/0ZBgA8AktdUxgz54mAUxrN"
+        "name": "wear your heart out",
+        "url": "https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu"
       },
       "artists": [
         {
-          "name": "MOTHICA",
-          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
         }
       ],
-      "duration_ms": 158081,
-      "name": "CASUALTY",
-      "url": "https://open.spotify.com/track/6KZS7UyCY1akaJGAp64Akl"
+      "duration_ms": 191287,
+      "name": "the feeling",
+      "url": "https://open.spotify.com/track/0FZoGTWJNMUYCzcJRXe5ny"
     },
     {
       "added_at": "2023-11-17 15:36:12",
@@ -1759,22 +1775,6 @@
       "duration_ms": 120287,
       "name": "everybody hates me",
       "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
-    },
-    {
-      "added_at": "2023-11-17 15:36:12",
-      "album": {
-        "name": "wear your heart out",
-        "url": "https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu"
-      },
-      "artists": [
-        {
-          "name": "Nightly",
-          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
-        }
-      ],
-      "duration_ms": 191287,
-      "name": "the feeling",
-      "url": "https://open.spotify.com/track/0FZoGTWJNMUYCzcJRXe5ny"
     },
     {
       "added_at": "2023-11-17 15:36:12",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2023-11-17 15:36:12",
       "album": {
+        "name": "butterflies (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6vrh5MHwmmqW4WYZr4wWfg"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 136200,
+      "name": "butterflies (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/0awsZaKWdHDpbayAdfYY0p"
+    },
+    {
+      "added_at": "2023-11-17 15:36:12",
+      "album": {
         "name": "Head in The Clouds",
         "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 131944,
       "name": "nobody's favorite person, not even my own",
       "url": "https://open.spotify.com/track/0RmfWxyMmROruOHM3dmdKq"
-    },
-    {
-      "added_at": "2023-11-17 15:36:12",
-      "album": {
-        "name": "butterflies (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/6vrh5MHwmmqW4WYZr4wWfg"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 136200,
-      "name": "butterflies (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/0awsZaKWdHDpbayAdfYY0p"
     },
     {
       "added_at": "2023-11-17 15:36:12",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2023-11-17 15:36:12",
       "album": {
+        "name": "m.i.a.",
+        "url": "https://open.spotify.com/album/3SyMCFHyoImUg9xdgP9xIc"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "m.i.a.",
+      "url": "https://open.spotify.com/track/0mSMy8pVeo1UQ2trCK9nTs"
+    },
+    {
+      "added_at": "2023-11-17 15:36:12",
+      "album": {
         "name": "fmk (with blackbear)",
         "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
       },
@@ -2015,18 +2031,18 @@
     {
       "added_at": "2023-11-17 15:36:12",
       "album": {
-        "name": "m.i.a.",
-        "url": "https://open.spotify.com/album/3SyMCFHyoImUg9xdgP9xIc"
+        "name": "Alpha Zulu",
+        "url": "https://open.spotify.com/album/4kLWiOcd9HWMx4VhRR1XHV"
       },
       "artists": [
         {
-          "name": "MICO",
-          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
         }
       ],
-      "duration_ms": 152000,
-      "name": "m.i.a.",
-      "url": "https://open.spotify.com/track/0mSMy8pVeo1UQ2trCK9nTs"
+      "duration_ms": 170386,
+      "name": "Alpha Zulu",
+      "url": "https://open.spotify.com/track/1QgegXUzfvRJxNRHM9sP3F"
     },
     {
       "added_at": "2023-11-17 15:36:12",
@@ -2047,22 +2063,6 @@
       "duration_ms": 158423,
       "name": "Day Job",
       "url": "https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN"
-    },
-    {
-      "added_at": "2023-11-17 15:36:12",
-      "album": {
-        "name": "Alpha Zulu",
-        "url": "https://open.spotify.com/album/4kLWiOcd9HWMx4VhRR1XHV"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 170386,
-      "name": "Alpha Zulu",
-      "url": "https://open.spotify.com/track/1QgegXUzfvRJxNRHM9sP3F"
     },
     {
       "added_at": "2023-11-17 15:36:12",

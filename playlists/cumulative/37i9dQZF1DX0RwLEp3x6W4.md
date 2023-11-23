@@ -4,13 +4,14 @@
 
 > Travel back to the start, tracing the roots of bluegrass through to early hits and gems\. Cover: Hazel Dickens and Alice Gerrard
 
-90 songs - 3 hr 48 min
+91 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Blue Moon Of Kentucky](https://open.spotify.com/track/6XHbYnwTB7YoSV4TLeycuB) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [Anthology](https://open.spotify.com/album/3jOrYZPtUL54bBR71yGixE) | 2:06 | 2018-04-04 |  |
 | [Blue Moon Of Kentucky](https://open.spotify.com/track/0xHP5UnXOGqtMYqpp9Wo98) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Definitive Collection](https://open.spotify.com/album/07VLDDae58jYlE1WyAD7bl) | 2:06 | 2018-04-04 | 2022-07-29 |
 | [Blue Moon Of Kentucky](https://open.spotify.com/track/2e0elbkEZi7EW0jlHIK4YY) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Essential Collection](https://open.spotify.com/album/4yoRGOx7QTGiMftU2ap1sv) | 2:07 | 2022-10-07 | 2022-11-14 |
+| [Blue Ridge Cabin Home](https://open.spotify.com/track/1Lw8GLJX0va0dCP4UnPICt) | [The Osborne Brothers](https://open.spotify.com/artist/6gM87haEMrst4Eqdobf98c) | [Bluegrass Collection](https://open.spotify.com/album/0sNJxbeInhCu3q0xJG8JKc) | 3:10 | 2023-11-22 |  |
 | [Blue Yodel No\. 4](https://open.spotify.com/track/0qkp5UK0HUwmsRfL8MICXK) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [Columbia Historic Edition](https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l) | 3:28 | 2018-04-04 |  |
 | [Bowling Green](https://open.spotify.com/track/4t1Sxqd7LPwmgmmqZYUC2X) | [The New Lost City Ramblers](https://open.spotify.com/artist/4fqd1tgX1D2YESwxzr2cvd), [Cousin Emmy](https://open.spotify.com/artist/7GcI4qqLnvVY1wlRdRixpx) | [New Lost City Ramblers with Cousin Emmy](https://open.spotify.com/album/0yLszzEelH2VYtBIJd96yY) | 1:50 | 2018-04-04 |  |
 | [Brilliancy Medley](https://open.spotify.com/track/5dH5JqHaYSZhNsYiJLJ5Ty) | [Eck Robertson](https://open.spotify.com/artist/1CdShwwnkXvTy5avs5GGsK) | [Old Time Texas Fiddler](https://open.spotify.com/album/1frgWjs8tUTxPiubw9NYRL) | 2:57 | 2018-04-04 |  |

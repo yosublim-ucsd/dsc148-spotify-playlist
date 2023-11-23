@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 130475,
+  "num_followers": 130586,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODFhMDZkY2I2M2YwYTgwNTBhY2QxMGZjNjNkZmZjNDg5N2U0NWZm",
+  "snapshot_id": "MCw0MTg0MDE0Yjc0NDkzNjc0MWMwZWNhMDg1MjJhMDQ2ZGI3MGFjZGJm",
   "tracks": [
     {
       "added_at": "2023-10-06 04:04:27",
@@ -119,22 +119,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
-      },
-      "artists": [
-        {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
-        }
-      ],
-      "duration_ms": 230792,
-      "name": "Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "Mais",
         "url": "https://open.spotify.com/album/4s3DJODPpSqMtiC5rARb0Y"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 271266,
       "name": "17 de janeiro",
       "url": "https://open.spotify.com/track/6JhK1r09ZViJy723xux4Ty"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
+      },
+      "artists": [
+        {
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+        }
+      ],
+      "duration_ms": 230792,
+      "name": "Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
+        "name": "Vai Ficar Tudo Bem",
+        "url": "https://open.spotify.com/album/6Jn1wSFx0bo4GYCc66mslN"
+      },
+      "artists": [
+        {
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+        }
+      ],
+      "duration_ms": 137333,
+      "name": "Vai Ficar Tudo Bem",
+      "url": "https://open.spotify.com/track/2CYlC1aTQZW5YuXz5xIXAJ"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
         "name": "Claro e Certo",
         "url": "https://open.spotify.com/album/47ggi22ENuvh5a7AXHbDbI"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 241840,
       "name": "Claro e Certo",
       "url": "https://open.spotify.com/track/2C4bL85AHMERutNrejvo0B"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
-        "name": "Vai Ficar Tudo Bem",
-        "url": "https://open.spotify.com/album/6Jn1wSFx0bo4GYCc66mslN"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 137333,
-      "name": "Vai Ficar Tudo Bem",
-      "url": "https://open.spotify.com/track/2CYlC1aTQZW5YuXz5xIXAJ"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -671,26 +671,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Infinito Amor",
-        "url": "https://open.spotify.com/album/3kDwHwOF0WcZ7bUS6Rcrdv"
-      },
-      "artists": [
-        {
-          "name": "REVERE",
-          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
-        },
-        {
-          "name": "Central 3",
-          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
-        }
-      ],
-      "duration_ms": 243417,
-      "name": "Infinito Amor",
-      "url": "https://open.spotify.com/track/3x8ZWtrehlt4W1us1hhFzq"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "O Tempo N\u00e3o Para",
         "url": "https://open.spotify.com/album/0ZMuQTRuZCZVZ9un30jtRi"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 202431,
       "name": "O Tempo N\u00e3o Para",
       "url": "https://open.spotify.com/track/4QnTfzAGFfEfxJMC6qkCIC"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Infinito Amor",
+        "url": "https://open.spotify.com/album/3kDwHwOF0WcZ7bUS6Rcrdv"
+      },
+      "artists": [
+        {
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
+        },
+        {
+          "name": "Central 3",
+          "url": "https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL"
+        }
+      ],
+      "duration_ms": 243417,
+      "name": "Infinito Amor",
+      "url": "https://open.spotify.com/track/3x8ZWtrehlt4W1us1hhFzq"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
-        "name": "Coragem",
-        "url": "https://open.spotify.com/album/3kGyXvpJx1IrYx9HwjlO3G"
-      },
-      "artists": [
-        {
-          "name": "Netto",
-          "url": "https://open.spotify.com/artist/5awlcFnDX9Dst9FAu5zgFP"
-        }
-      ],
-      "duration_ms": 265982,
-      "name": "Coragem",
-      "url": "https://open.spotify.com/track/1RUoOYWFB0ofFixpupBK4K"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
         "name": "Soul Hymns (Live Sessions)",
         "url": "https://open.spotify.com/album/0Ey2hZpmOENZZFXtyXk9f1"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 321536,
       "name": "Captured - Live Session",
       "url": "https://open.spotify.com/track/3JK2OGtwRzxmKUf2fKPcVk"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
+        "name": "Coragem",
+        "url": "https://open.spotify.com/album/3kGyXvpJx1IrYx9HwjlO3G"
+      },
+      "artists": [
+        {
+          "name": "Netto",
+          "url": "https://open.spotify.com/artist/5awlcFnDX9Dst9FAu5zgFP"
+        }
+      ],
+      "duration_ms": 265982,
+      "name": "Coragem",
+      "url": "https://open.spotify.com/track/1RUoOYWFB0ofFixpupBK4K"
     },
     {
       "added_at": "2023-10-06 04:04:27",

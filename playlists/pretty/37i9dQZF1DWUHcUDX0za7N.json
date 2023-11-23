@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=trFsKDswS6WMzSd-RVFl4w\"> Shallipopi </a> and <a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=U8w7_PIuTm6h7wIv43Ji2g\"> ODUMODUBLVCK</a>",
-  "num_followers": 33457,
+  "num_followers": 33692,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWE4NmUzZjJlMmQyYWU0OTUyYjBmOWI0MzZjODBiODIxYjhmODhh",
+  "snapshot_id": "MCw1MDk5YzVmMWEzOWFkNTBmYzZjMWM0YTRkZGI2ZTZjZWE2NzJkMTk1",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Where Dem Dey",
-        "url": "https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d"
-      },
-      "artists": [
-        {
-          "name": "Laime",
-          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Where Dem Dey",
-      "url": "https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Sweet Life",
         "url": "https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 186401,
       "name": "Sweet Life",
       "url": "https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Where Dem Dey",
+        "url": "https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d"
+      },
+      "artists": [
+        {
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Where Dem Dey",
+      "url": "https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -971,26 +971,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "BACK IN UNI",
-        "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "BACK IN UNI",
-      "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "ATSG, Vol. 1",
         "url": "https://open.spotify.com/album/0eVa4HR3x7BlftG6OsvTAn"
       },
@@ -1019,6 +999,46 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "BACK IN UNI",
+        "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "BACK IN UNI",
+      "url": "https://open.spotify.com/track/1DjjSWom4la3p67sZcBWTN"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Make E No Cause Fight 3",
+        "url": "https://open.spotify.com/album/0KL40ckvFn3gRSiPWLZJ56"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        }
+      ],
+      "duration_ms": 171272,
+      "name": "42",
+      "url": "https://open.spotify.com/track/2Kui4WxXbqrxVO7q0H1XBA"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "My Own (feat. Blaqbonez)",
         "url": "https://open.spotify.com/album/2nIqYjNOgesUQ3kxeiGguV"
       },
@@ -1035,6 +1055,26 @@
       "duration_ms": 180765,
       "name": "My Own (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/5YHRiz4ZoCCAIJaMNy1Ct8"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Philo (Remix)",
+        "url": "https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 166556,
+      "name": "Philo - Remix",
+      "url": "https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1059,22 +1099,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Philo (Remix)",
-        "url": "https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV"
+        "name": "High Tension 2.0",
+        "url": "https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Dangbana Republik",
+          "url": "https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK"
         },
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 166556,
-      "name": "Philo - Remix",
-      "url": "https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN"
+      "duration_ms": 163813,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1103,46 +1143,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Make E No Cause Fight 3",
-        "url": "https://open.spotify.com/album/0KL40ckvFn3gRSiPWLZJ56"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
-        }
-      ],
-      "duration_ms": 171272,
-      "name": "42",
-      "url": "https://open.spotify.com/track/2Kui4WxXbqrxVO7q0H1XBA"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "High Tension 2.0",
-        "url": "https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q"
-      },
-      "artists": [
-        {
-          "name": "Dangbana Republik",
-          "url": "https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 163813,
-      "name": "Out There",
-      "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Where Dem Dey (Remix)",
         "url": "https://open.spotify.com/album/2xh0FtjHY2TH41Wo5j4Dhj"
       },
@@ -1167,6 +1167,26 @@
       "duration_ms": 172500,
       "name": "Where Dem Dey - Remix",
       "url": "https://open.spotify.com/track/5Lxbl2U3zVqF93OYsQgLhY"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "SPORT",
+        "url": "https://open.spotify.com/album/7mQ3kE0HJD3m67PE3dIXgm"
+      },
+      "artists": [
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        },
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        }
+      ],
+      "duration_ms": 125659,
+      "name": "NOSTALGIA",
+      "url": "https://open.spotify.com/track/7aIYf40dMcEKIz4cDMJ1io"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1211,26 +1231,6 @@
       "duration_ms": 158298,
       "name": "Bando Diaries",
       "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "SPORT",
-        "url": "https://open.spotify.com/album/7mQ3kE0HJD3m67PE3dIXgm"
-      },
-      "artists": [
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        },
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        }
-      ],
-      "duration_ms": 125659,
-      "name": "NOSTALGIA",
-      "url": "https://open.spotify.com/track/7aIYf40dMcEKIz4cDMJ1io"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Offer",
+        "url": "https://open.spotify.com/album/50F4J1EHs1IncMSPztq6yJ"
+      },
+      "artists": [
+        {
+          "name": "PDSTRN",
+          "url": "https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv"
+        },
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        }
+      ],
+      "duration_ms": 124983,
+      "name": "Offer",
+      "url": "https://open.spotify.com/track/4ogJO1FCRzu1mbYJ5ykHzG"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Kpos Lifestyle, Vol. 1",
         "url": "https://open.spotify.com/album/3XpW2dVRMpVwDZU0igQPEZ"
       },
@@ -1395,26 +1415,6 @@
       "duration_ms": 235081,
       "name": "Soft Life",
       "url": "https://open.spotify.com/track/6JQWH9Kpcjp6RygaRwGnG2"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Offer",
-        "url": "https://open.spotify.com/album/50F4J1EHs1IncMSPztq6yJ"
-      },
-      "artists": [
-        {
-          "name": "PDSTRN",
-          "url": "https://open.spotify.com/artist/7oAl5VKsXmNAcXuyKA5sSv"
-        },
-        {
-          "name": "Vector",
-          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
-        }
-      ],
-      "duration_ms": 124983,
-      "name": "Offer",
-      "url": "https://open.spotify.com/track/4ogJO1FCRzu1mbYJ5ykHzG"
     }
   ],
   "unique_name": "Naija Bars ",

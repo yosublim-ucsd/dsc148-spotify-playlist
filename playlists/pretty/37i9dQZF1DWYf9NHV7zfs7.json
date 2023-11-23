@@ -1,12 +1,12 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Miranda!",
-  "num_followers": 21790,
+  "num_followers": 21874,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2E0NGU3ZDA3MzdlM2Y3MWY0N2Q0ZDc2N2NmZDk2NWI5Yzc4NTI0",
+  "snapshot_id": "MCxkYmZmNWU3YTE3NjhhOTVkNTBmOTdkNDVkNDUzZjJhOTkxMDcxNjk0",
   "tracks": [
     {
       "added_at": "2023-11-17 03:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-11-17 03:00:00",
       "album": {
+        "name": "Cositas",
+        "url": "https://open.spotify.com/album/4prSQa2wK7Ge0Pdqc7tPlP"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Cositas",
+      "url": "https://open.spotify.com/track/6u0O2Kmx6BxnYUDyVtUY3I"
+    },
+    {
+      "added_at": "2023-11-17 03:00:00",
+      "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/2cklcTS1Fw81SExHyUKPbO"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 173209,
       "name": "Salvaje",
       "url": "https://open.spotify.com/track/0GH7oknphO2UXvCdQSEwko"
-    },
-    {
-      "added_at": "2023-11-17 03:00:00",
-      "album": {
-        "name": "Cositas",
-        "url": "https://open.spotify.com/album/4prSQa2wK7Ge0Pdqc7tPlP"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Cositas",
-      "url": "https://open.spotify.com/track/6u0O2Kmx6BxnYUDyVtUY3I"
     },
     {
       "added_at": "2023-11-17 03:00:00",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-11-17 03:00:00",
       "album": {
-        "name": "Ya Borr\u00e9 Tu N\u00famero del Celular",
-        "url": "https://open.spotify.com/album/2Ce8ExX8V8f5OTLdgKUak8"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/5qKhpOCkPRF0rLhzxtpUaS"
       },
       "artists": [
         {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
         }
       ],
-      "duration_ms": 211327,
-      "name": "Ya Borr\u00e9 Tu N\u00famero del Celular",
-      "url": "https://open.spotify.com/track/1XLnF48KJykKU2yMN5miJl"
+      "duration_ms": 225586,
+      "name": "Tormento de Amor",
+      "url": "https://open.spotify.com/track/0B9Tp3mEGR1mDDkAm1m21o"
     },
     {
       "added_at": "2023-11-17 03:00:00",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2023-11-17 03:00:00",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/5qKhpOCkPRF0rLhzxtpUaS"
+        "name": "Ya Borr\u00e9 Tu N\u00famero del Celular",
+        "url": "https://open.spotify.com/album/2Ce8ExX8V8f5OTLdgKUak8"
       },
       "artists": [
         {
-          "name": "Marcela Morelo",
-          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
         }
       ],
-      "duration_ms": 225586,
-      "name": "Tormento de Amor",
-      "url": "https://open.spotify.com/track/0B9Tp3mEGR1mDDkAm1m21o"
+      "duration_ms": 211327,
+      "name": "Ya Borr\u00e9 Tu N\u00famero del Celular",
+      "url": "https://open.spotify.com/track/1XLnF48KJykKU2yMN5miJl"
     },
     {
       "added_at": "2023-11-17 03:00:00",

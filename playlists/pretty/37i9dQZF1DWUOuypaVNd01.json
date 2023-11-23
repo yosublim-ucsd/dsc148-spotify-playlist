@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Grone, Orochi, SD9, Big Bllakk",
-  "num_followers": 34793,
+  "num_followers": 34811,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGM3NzJjM2Q5YzNlNWNjY2QwYzdkODY3OTEwZmYwMDY1M2Y2NjFi",
+  "snapshot_id": "MCxlZmJjMDhmNmMwNDBhNDdkZmQyNjYyNmVkMDYxZGRlY2RmYWIwMzVm",
   "tracks": [
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1095,6 +1095,30 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "ISSO \u00d1 \u00c9 GPT",
+        "url": "https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI"
+      },
+      "artists": [
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        },
+        {
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
+        }
+      ],
+      "duration_ms": 186454,
+      "name": "TA\u00c7A",
+      "url": "https://open.spotify.com/track/64BcBJ5my00gL91v6Dvgne"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "FILHO PR\u00d3DIGO 2",
         "url": "https://open.spotify.com/album/28mAEAvObMp2Aci3GyVbu2"
       },
@@ -1127,30 +1151,6 @@
       "duration_ms": 134893,
       "name": "Versos Fortes",
       "url": "https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "ISSO \u00d1 \u00c9 GPT",
-        "url": "https://open.spotify.com/album/79Ie0NdfCAMkZQakRrMLFI"
-      },
-      "artists": [
-        {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        },
-        {
-          "name": "Coruja Bc1",
-          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
-        }
-      ],
-      "duration_ms": 186454,
-      "name": "TA\u00c7A",
-      "url": "https://open.spotify.com/track/64BcBJ5my00gL91v6Dvgne"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Chav\u00e3o",
-        "url": "https://open.spotify.com/album/0ZATod1zpCGAnD5gNin9CN"
-      },
-      "artists": [
-        {
-          "name": "Ney Rodr\u00ed",
-          "url": "https://open.spotify.com/artist/10SGtgEezop7sV6Le4UoLf"
-        },
-        {
-          "name": "DANDARO$",
-          "url": "https://open.spotify.com/artist/2cJn9KL6C7AkdgsCV7XTCR"
-        }
-      ],
-      "duration_ms": 118153,
-      "name": "Chav\u00e3o",
-      "url": "https://open.spotify.com/track/5sz8xfbQ7dkr4ggUZpATok"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Maior Que O Amor, S\u00f3 O \u00d3dio",
         "url": "https://open.spotify.com/album/1SyRKMpzUFQHqMcJIzcc6X"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 137142,
       "name": "Papo De \u00d3pera 2",
       "url": "https://open.spotify.com/track/3mYNDYsHiLxxOSJkSLHmO7"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Chav\u00e3o",
+        "url": "https://open.spotify.com/album/0ZATod1zpCGAnD5gNin9CN"
+      },
+      "artists": [
+        {
+          "name": "Ney Rodr\u00ed",
+          "url": "https://open.spotify.com/artist/10SGtgEezop7sV6Le4UoLf"
+        },
+        {
+          "name": "DANDARO$",
+          "url": "https://open.spotify.com/artist/2cJn9KL6C7AkdgsCV7XTCR"
+        }
+      ],
+      "duration_ms": 118153,
+      "name": "Chav\u00e3o",
+      "url": "https://open.spotify.com/track/5sz8xfbQ7dkr4ggUZpATok"
     },
     {
       "added_at": "2023-11-17 03:01:00",

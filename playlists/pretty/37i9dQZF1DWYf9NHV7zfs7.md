@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷 Miranda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,790 likes - 85 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,874 likes - 85 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,17 +65,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 55 | [Cuídame](https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Sofá](https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4) | 4:24 |
 | 56 | [Quiero Verte](https://open.spotify.com/track/68hs0QwwcssOzKuqZgonw7) | [Lelé](https://open.spotify.com/artist/30zaUiWxGl2IDR0dTiRrXO), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Quiero Verte](https://open.spotify.com/album/2gnITQUWyhtqnZn6DgcjoI) | 3:52 |
 | 57 | [Olivia](https://open.spotify.com/track/7aMBK1r16NAACeiJHsb9cf) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Intemperie](https://open.spotify.com/album/0vW5os63sQZKBtIxsqFx9f) | 3:42 |
-| 58 | [Rosa](https://open.spotify.com/track/33AWuTMifxeDWvizVzYBiA) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Rosa](https://open.spotify.com/album/2cklcTS1Fw81SExHyUKPbO) | 2:02 |
-| 59 | [Corazón Salvaje](https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Manantial](https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE) | 4:27 |
-| 60 | [Salvaje](https://open.spotify.com/track/0GH7oknphO2UXvCdQSEwko) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 2:53 |
-| 61 | [Cositas](https://open.spotify.com/track/6u0O2Kmx6BxnYUDyVtUY3I) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Cositas](https://open.spotify.com/album/4prSQa2wK7Ge0Pdqc7tPlP) | 2:31 |
+| 58 | [Cositas](https://open.spotify.com/track/6u0O2Kmx6BxnYUDyVtUY3I) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Cositas](https://open.spotify.com/album/4prSQa2wK7Ge0Pdqc7tPlP) | 2:31 |
+| 59 | [Rosa](https://open.spotify.com/track/33AWuTMifxeDWvizVzYBiA) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Rosa](https://open.spotify.com/album/2cklcTS1Fw81SExHyUKPbO) | 2:02 |
+| 60 | [Corazón Salvaje](https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Manantial](https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE) | 4:27 |
+| 61 | [Salvaje](https://open.spotify.com/track/0GH7oknphO2UXvCdQSEwko) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 2:53 |
 | 62 | [La Araña](https://open.spotify.com/track/0V8rl5jHgjdhglRjpG7cbj) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj) | [Mala Sangre](https://open.spotify.com/album/2wrjRXAX0alWHtCiwYGYG7) | 2:29 |
 | 63 | [Te Daría](https://open.spotify.com/track/101Lk3kCjDQVt2tns7xbEr) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Aqua di Emma](https://open.spotify.com/album/5iRgxoxtpaeUAlhY9r7CoU) | 2:42 |
 | 64 | [No Me Importa el Dinero \(feat\. Julieta Venegas\) \[Vivo\]](https://open.spotify.com/track/5R0lYQFdOTYaX3K2QUkaOI) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Gamba \- Los Retro](https://open.spotify.com/album/2Y8xORMOnz6pfEr1yrjmjx) | 3:54 |
 | 65 | [Tarde \(feat\. Malena Villa\)](https://open.spotify.com/track/6WqX4T9GsccD5j64OOGPnI) | [Franco Rizzaro](https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB), [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [Tarde \(feat\. Malena Villa\)](https://open.spotify.com/album/2Q7SYjBnXAqOvfXNrTLv28) | 2:33 |
-| 66 | [Ya Borré Tu Número del Celular](https://open.spotify.com/track/1XLnF48KJykKU2yMN5miJl) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Ya Borré Tu Número del Celular](https://open.spotify.com/album/2Ce8ExX8V8f5OTLdgKUak8) | 3:31 |
+| 66 | [Tormento de Amor](https://open.spotify.com/track/0B9Tp3mEGR1mDDkAm1m21o) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Eclipse](https://open.spotify.com/album/5qKhpOCkPRF0rLhzxtpUaS) | 3:45 |
 | 67 | [Moscas en la Casa](https://open.spotify.com/track/3UrlI9WfUyN257ll1w9gtI) | [Ivan Noble](https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p) | [Mujer & Ego](https://open.spotify.com/album/255HbyPo532v2tNoSpGnHQ) | 3:34 |
-| 68 | [Tormento de Amor](https://open.spotify.com/track/0B9Tp3mEGR1mDDkAm1m21o) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Eclipse](https://open.spotify.com/album/5qKhpOCkPRF0rLhzxtpUaS) | 3:45 |
+| 68 | [Ya Borré Tu Número del Celular](https://open.spotify.com/track/1XLnF48KJykKU2yMN5miJl) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Ya Borré Tu Número del Celular](https://open.spotify.com/album/2Ce8ExX8V8f5OTLdgKUak8) | 3:31 |
 | 69 | [A Escondidas](https://open.spotify.com/track/4qURp3b9IvKvtcv5ZQahmG) | [Emanuel Ortega](https://open.spotify.com/artist/1DbNO9pwS4AzYbWX367Pvg) | [Momentos](https://open.spotify.com/album/0Hj4TxCCSedmboBADrHDSV) | 3:51 |
 | 70 | [Hablo Con Vos \(feat\. Nahuel Barbero\)](https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Nahuel Barbero](https://open.spotify.com/artist/2QQM8K8Eqkysh2Dn5Myv6I) | [Otro Lado](https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN) | 3:51 |
 | 71 | [Esperanza \(feat\. Agarrate Catalina\)](https://open.spotify.com/track/3yUylEQIeozYWNXv8MIGqJ) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Agarrate Catalina](https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:46 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 84 | [Amor Libre](https://open.spotify.com/track/6fFG7bHilanpAAbEu9jF95) | [Rocio Igarzabal](https://open.spotify.com/artist/7HzX50l6Oi0gFLTkdHJcOZ), [Lola Parda](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [Amor Libre](https://open.spotify.com/album/0FCNWttcDi6rF5pRuwppVx) | 3:05 |
 | 85 | [Lamento Boliviano \(Acoustic Sessions\)](https://open.spotify.com/track/4fBWeFKXhBjpqMynPoSVkd) | [Victoria Bernardi](https://open.spotify.com/artist/7lpsX3627bQJTo9nQjHuAp) | [Sesiones Solo Sé](https://open.spotify.com/album/0Ak3jCp6wVF2fuM7OFH69b) | 4:26 |
 
-Snapshot ID: `MCwyY2E0NGU3ZDA3MzdlM2Y3MWY0N2Q0ZDc2N2NmZDk2NWI5Yzc4NTI0`
+Snapshot ID: `MCxkYmZmNWU3YTE3NjhhOTVkNTBmOTdkNDVkNDUzZjJhOTkxMDcxNjk0`

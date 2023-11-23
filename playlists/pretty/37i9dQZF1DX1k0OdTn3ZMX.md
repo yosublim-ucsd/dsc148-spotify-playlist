@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 
 > nü\-metal revival is happening here and now with While She Sleeps.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,533 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,685 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1k0OdTn3ZMX.md) - [plain]
 | 49 | [Witch](https://open.spotify.com/track/5MSdmihYEiWhtegR9Ji6mA) | [Islander](https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w) | [Witch](https://open.spotify.com/album/7jtLgmvH6nnulQ3mPZKzq6) | 3:39 |
 | 50 | [Unraveling](https://open.spotify.com/track/6YP09NwxQ8SLxcIksD89Bp) | [Earshot](https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA) | [Unraveling](https://open.spotify.com/album/1QpkidAXuoW3JBeHlA8Vu0) | 2:59 |
 
-Snapshot ID: `MCw1YjIyNWRkZWMwZGVjNmFhZDFiNzk2MTdlYTJhOTBiNTAzZWRlOGIx`
+Snapshot ID: `MCxmZWIxYjVkZTc4ZWVkY2NjMGQwNDQyMjkyZjcwZDBmZjVjOTM1MGJh`

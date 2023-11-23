@@ -4,7 +4,7 @@
 
 > An essential list of recent hits of SoGo\.  Cover:  <a href="https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA">The Browns</a>
 
-151 songs - 9 hr 31 min
+152 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [God, Do it Again](https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o) | [The Taylors](https://open.spotify.com/artist/7cWAsRKW1DL0pRUXWyCDsX) | [Love Is the Voice](https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR) | 2:45 | 2022-08-27 |  |
 | [Godfidence](https://open.spotify.com/track/28N2L4CON8Z5VOHu5e7GAH) | [Kennis Clark](https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs), [Kristelle](https://open.spotify.com/artist/1tSoHKZsP9949r1PCPJrr9) | [Godfidence](https://open.spotify.com/album/6H6B0z1SFnGFclDLWKu1ku) | 3:16 | 2022-08-27 |  |
 | [Good in the Good Times](https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I) | [Down East Boys](https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln) | [The Stories We Tell](https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI) | 3:01 | 2022-08-27 |  |
-| [Good Morning Mercy](https://open.spotify.com/track/2ZeYstnGxcxaQJnztHJrEZ) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Good Morning Mercy](https://open.spotify.com/album/3Wsy7LgDdHHZKuU4QDLFpB) | 3:18 | 2023-04-14 |  |
+| [Good Morning Mercy](https://open.spotify.com/track/2ZeYstnGxcxaQJnztHJrEZ) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Good Morning Mercy](https://open.spotify.com/album/3Wsy7LgDdHHZKuU4QDLFpB) | 3:18 | 2023-04-14 | 2023-11-23 |
+| [Good Morning Mercy](https://open.spotify.com/track/4XDfUFceoSfpXRKrWYcOHc) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Good Morning Mercy](https://open.spotify.com/album/6UU1YPHof0qz9JI6YZrWAU) | 3:18 | 2023-04-14 |  |
 | [Good Morning Mercy](https://open.spotify.com/track/65pxpJbOeIc2oXexkr5vfU) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Good Morning Mercy](https://open.spotify.com/album/5F7deqvU0BTbsTIzr8rKnM) | 3:18 | 2022-08-27 | 2023-04-30 |
 | [Good News from Jerusalem](https://open.spotify.com/track/2k2brD2GZrxd8meu918pBa) | [Tribute Quartet](https://open.spotify.com/artist/4TYL0NFQgCj8VLdz8gBfAC) | [Shout It Out Vol\. 2](https://open.spotify.com/album/39EMIoZJsj8ZtFG9h5WXch) | 3:59 | 2021-10-29 | 2022-07-29 |
 | [Good News From Jerusalem \(Demonstration in C\-C\#\-D\)](https://open.spotify.com/track/3KbuCBE1F1dPBEBaLAN6hb) | [Crossroads Performance Tracks](https://open.spotify.com/artist/6aIaHnJNo69R2FX2PWKLiF) | [Good News From Jerusalem \(Made Popular by Tribute Quartet\) \[Performance Track\]](https://open.spotify.com/album/1T2TM15utzZjxJxO674Q3H) | 3:57 | 2021-10-29 |  |

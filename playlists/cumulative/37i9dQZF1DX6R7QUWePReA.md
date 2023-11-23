@@ -4,7 +4,7 @@
 
 > Timeless heart\-warming classics from 1940\- 1980 for the holiday season.
 
-112 songs - 5 hr 33 min
+113 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Caroling, Caroling](https://open.spotify.com/track/11Z7sdkpC5IaaydoIvDn74) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:01 | 2021-12-25 |  |
 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/46pF1zFimM582ss1PrMy68) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 2:46 | 2021-12-25 |  |
 | [Christmas Dream](https://open.spotify.com/track/1PrhnQxWAVYikCHcieRQiy) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [A Perry Como Christmas](https://open.spotify.com/album/6kwOEj6diw9tUSbhgIVeBP) | 2:49 | 2021-12-25 |  |
+| [Christmas Island](https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:17 | 2023-11-17 |  |
 | [Christmas Medley: Joy to the World / Deck the Halls / O Come All Ye Faithful / Jingle Bells \(Tom Moulton Remix\) \(2022 \- Remaster\)](https://open.spotify.com/track/60xnB0fgmCft0Pqq6zaivb) | [The Salsoul Orchestra](https://open.spotify.com/artist/0m04NLVsIfjqZMBfw7vTf4), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | [Christmas Jollies \(Tom Moulton Remix;2022 \- Remaster\)](https://open.spotify.com/album/2nEDg0fIQFVbPCcuSNDBpK) | 12:07 | 2023-09-26 |  |
 | [Christmas Medley: Joy To The World/Deck The Halls/O Come All Ye Faithful/Jingle Bells](https://open.spotify.com/track/73gbEonI6EtiPiqxcsN8DL) | [The Salsoul Orchestra](https://open.spotify.com/artist/0m04NLVsIfjqZMBfw7vTf4), [Tom Moulton](https://open.spotify.com/artist/6xDW6TfPeBAiq1gmqMJnM6) | [Christmas Jollies](https://open.spotify.com/album/1SDZGLwOJjtqGrCEbQKTdW) | 12:08 | 2022-12-25 | 2023-11-05 |
 | [Christmas Time Is Here](https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 2:43 | 2021-12-25 |  |

@@ -4,7 +4,7 @@
 
 > La banda de sonido de tu día.
 
-267 songs - 17 hr 38 min
+268 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [La Vida Cura](https://open.spotify.com/track/70H9KzJ3vy5655EHTpdiP4) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Devorando Intensidad](https://open.spotify.com/album/16ycW7h7bErtyFt9CI5BN8) | 4:12 | 2022-07-06 | 2022-07-14 |
 | [La Vida Es Así](https://open.spotify.com/track/1Zsu6m9PyxwcpyUcw3yQgk) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [La Vida Es Así](https://open.spotify.com/album/4A5ZpkfXDkiVFXrQWQQv8s) | 3:56 | 2022-07-19 | 2022-07-28 |
 | [Lago en el Cielo](https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 5:08 | 2022-06-29 | 2023-01-28 |
+| [Las cosas que no se tocan](https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 3:34 | 2023-11-10 |  |
 | [Las Lunas](https://open.spotify.com/track/4N6ReNPvyh4r8KExkKyow9) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Las Lunas](https://open.spotify.com/album/4iCgdNm7iU0GDegH0hEnVJ) | 3:46 | 2022-07-19 | 2022-07-28 |
 | [Le Di Sol](https://open.spotify.com/track/0vslbOoaPP1sglPchHGrX9) | [Vanthra](https://open.spotify.com/artist/3APvOv4wyrZTgdYZxtCZ8l), [Abril Sosa](https://open.spotify.com/artist/7roniIo6ZzxBLAlFCf5fcl) | [Le Di Sol](https://open.spotify.com/album/0puy8tSxqpaYpy4FHY0NK9) | 4:21 | 2022-07-01 | 2022-07-06 |
 | [Levanta](https://open.spotify.com/track/4UPUBUMoP6lvNlD4IwAbGz) | [Otro Mambo](https://open.spotify.com/artist/2A97aqvY9ztir1zVoTPF1D) | [Levanta](https://open.spotify.com/album/1nJhV6uEhavtkwjZcGTNxK) | 5:41 | 2022-06-29 | 2022-07-01 |
@@ -266,7 +267,7 @@
 | [Veneno](https://open.spotify.com/track/1oEiPMu3QKXsFNvNE8EU2R) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku) | [Veneno](https://open.spotify.com/album/40QUXWbQyuTJ98c0B1wJc8) | 2:41 | 2022-07-18 | 2022-07-20 |
 | [Venganza](https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Venganza](https://open.spotify.com/album/3tDmUK7yNLCQZF7e8kjiLZ) | 3:22 | 2022-07-19 | 2023-03-03 |
 | [Volver a Casa](https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr), [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 3:03 | 2022-07-01 |  |
-| [Volver a Nacer](https://open.spotify.com/track/6mH8dpee5PZFA7L8QISURa) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [A Mil](https://open.spotify.com/album/2InkYfFJSLS5cIXt74tenM) | 3:34 | 2023-10-06 |  |
+| [Volver a Nacer](https://open.spotify.com/track/6mH8dpee5PZFA7L8QISURa) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [A Mil](https://open.spotify.com/album/2InkYfFJSLS5cIXt74tenM) | 3:34 | 2023-10-06 | 2023-11-23 |
 | [Voy Dejando Atrás](https://open.spotify.com/track/6snF6krbkLtbfYq3Ue0rgo) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Voy Dejando Atrás](https://open.spotify.com/album/6BN8riRvckGDLeNDjJ5gJ7) | 4:22 | 2022-07-01 | 2022-07-28 |
 | [Washington](https://open.spotify.com/track/1kdC7TRPWpZC0O26qBggLD) | [Duratierra](https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3) | [LA FUERZA](https://open.spotify.com/album/3ynXtOWXUAZTyjJ1QwxXVC) | 4:12 | 2023-06-16 | 2023-08-26 |
 | [Ya Lo Sabés](https://open.spotify.com/track/5mMFnSDg8Jz0BDToHPahlg) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Es Así](https://open.spotify.com/album/2UE88brWNLJTYpJpnxTN16) | 3:28 | 2022-06-29 | 2022-07-29 |

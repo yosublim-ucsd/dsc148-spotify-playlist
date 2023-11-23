@@ -3814,7 +3814,7 @@
       ],
       "date_added": "2015-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 145000,
       "name": "She's About a Mover",
       "url": "https://open.spotify.com/track/6ZYvCY3zyajhHunwbDrCtx"
@@ -3836,6 +3836,24 @@
       "duration_ms": 145146,
       "name": "She's About A Mover",
       "url": "https://open.spotify.com/track/40Fs8G1qws6fP8Zz0Tm1u3"
+    },
+    {
+      "album": {
+        "name": "The Best of the Sir Douglas Quintet (The Crazy Cajun Recordings)",
+        "url": "https://open.spotify.com/album/2h331kKZufXWpEWd1TBGa2"
+      },
+      "artists": [
+        {
+          "name": "Sir Douglas Quintet",
+          "url": "https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW"
+        }
+      ],
+      "date_added": "2015-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145146,
+      "name": "She's About a Mover",
+      "url": "https://open.spotify.com/track/5X3JIyJzDdB8SIRjzH4fvm"
     },
     {
       "album": {

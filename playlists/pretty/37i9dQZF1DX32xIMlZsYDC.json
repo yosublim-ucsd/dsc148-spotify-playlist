@@ -1,12 +1,12 @@
 {
   "description": "Despierta poco a poco con la tranquilidad de las notas del piano.",
-  "num_followers": 18619,
+  "num_followers": 18621,
   "original_name": "Piano para Despertar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGNlNzJkZDA5YWZjNDFmZTM5YjE3Y2YxMzczM2M5NDYwZjJiMjI2",
+  "snapshot_id": "MCxmNmJmNDBlZmRlMTEzZTg5OTBiN2YzYzg5ZTUwMGEyMWE5Zjk5NzI4",
   "tracks": [
     {
       "added_at": "2023-09-11 13:52:39",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Becoming",
-        "url": "https://open.spotify.com/album/1XDp0E8TtyTWFlniXqkV1C"
-      },
-      "artists": [
-        {
-          "name": "Davignon",
-          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
-        }
-      ],
-      "duration_ms": 163250,
-      "name": "Becoming",
-      "url": "https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Lekko",
         "url": "https://open.spotify.com/album/2AKOAyRuAkRAg0sNWoH2nL"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 147374,
       "name": "Lekko",
       "url": "https://open.spotify.com/track/6hg8132jlk9fZsSbfpdmGR"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Becoming",
+        "url": "https://open.spotify.com/album/1XDp0E8TtyTWFlniXqkV1C"
+      },
+      "artists": [
+        {
+          "name": "Davignon",
+          "url": "https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE"
+        }
+      ],
+      "duration_ms": 163250,
+      "name": "Becoming",
+      "url": "https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Avalanche",
-        "url": "https://open.spotify.com/album/0VG2I88bspS6L3rgcTC3Dm"
-      },
-      "artists": [
-        {
-          "name": "Luci\u00e9n",
-          "url": "https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Avalanche",
-      "url": "https://open.spotify.com/track/1kQFxgqG3KcKErQlvH66lz"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Brief Respite",
         "url": "https://open.spotify.com/album/1EVU6rShFk3cxVhk7o4qN6"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 179500,
       "name": "Seeking The Autumn Wind",
       "url": "https://open.spotify.com/track/2TV5VWvY46I7k51reLMGvE"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Avalanche",
+        "url": "https://open.spotify.com/album/0VG2I88bspS6L3rgcTC3Dm"
+      },
+      "artists": [
+        {
+          "name": "Luci\u00e9n",
+          "url": "https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/1kQFxgqG3KcKErQlvH66lz"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Reading Life",
-        "url": "https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti"
-      },
-      "artists": [
-        {
-          "name": "Martyn Justice",
-          "url": "https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Reading Life",
-      "url": "https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Involution",
         "url": "https://open.spotify.com/album/3GqBjeMovVIis4YxjAYfg4"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 163500,
       "name": "Involution",
       "url": "https://open.spotify.com/track/7pYYH192TuKAQH2cHG7vPR"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Reading Life",
+        "url": "https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti"
+      },
+      "artists": [
+        {
+          "name": "Martyn Justice",
+          "url": "https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Reading Life",
+      "url": "https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Der Wandervogel",
-        "url": "https://open.spotify.com/album/1UVUymmfClpklygLYiWIWJ"
-      },
-      "artists": [
-        {
-          "name": "Ludwig Bern",
-          "url": "https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA"
-        }
-      ],
-      "duration_ms": 160368,
-      "name": "Der Wandervogel",
-      "url": "https://open.spotify.com/track/3I7JFFCxYmFnhU5qrsIpZo"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Mind Wide Open",
         "url": "https://open.spotify.com/album/1LVpYB2Jtto4OMvjzQqBrn"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 158000,
       "name": "Mind Wide Open",
       "url": "https://open.spotify.com/track/3qofUkK1Yak7mp81Lojn3L"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Der Wandervogel",
+        "url": "https://open.spotify.com/album/1UVUymmfClpklygLYiWIWJ"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Bern",
+          "url": "https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA"
+        }
+      ],
+      "duration_ms": 160368,
+      "name": "Der Wandervogel",
+      "url": "https://open.spotify.com/track/3I7JFFCxYmFnhU5qrsIpZo"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Forgive Us",
-        "url": "https://open.spotify.com/album/2g5Cpml6zGcLEEZweDWEc5"
-      },
-      "artists": [
-        {
-          "name": "Signe Bratlie",
-          "url": "https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Forgive Us",
-      "url": "https://open.spotify.com/track/7pIprvHSIi4bZiFGc6xf5p"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Days Gone By",
         "url": "https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 176250,
       "name": "Evergreen Valley",
       "url": "https://open.spotify.com/track/5nCSPEXKmujALmfjnM2rpP"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Forgive Us",
+        "url": "https://open.spotify.com/album/2g5Cpml6zGcLEEZweDWEc5"
+      },
+      "artists": [
+        {
+          "name": "Signe Bratlie",
+          "url": "https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Forgive Us",
+      "url": "https://open.spotify.com/track/7pIprvHSIi4bZiFGc6xf5p"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "L'habit ne fait pas le moine",
-        "url": "https://open.spotify.com/album/0jq8I1nrYieRyPt7tcl0Db"
-      },
-      "artists": [
-        {
-          "name": "Pascal Duval",
-          "url": "https://open.spotify.com/artist/3VpKcUweq77xUWClI5oSYl"
-        }
-      ],
-      "duration_ms": 180124,
-      "name": "L'habit ne fait pas le moine",
-      "url": "https://open.spotify.com/track/0XGbTlSbgCWgqL5KuQY2qz"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Morgenstern",
         "url": "https://open.spotify.com/album/5YMCE4ptMtQgujet4mkiZb"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 189250,
       "name": "Morgenstern",
       "url": "https://open.spotify.com/track/1djt5vu3t1tQsaLyuS3DgA"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "L'habit ne fait pas le moine",
+        "url": "https://open.spotify.com/album/0jq8I1nrYieRyPt7tcl0Db"
+      },
+      "artists": [
+        {
+          "name": "Pascal Duval",
+          "url": "https://open.spotify.com/artist/3VpKcUweq77xUWClI5oSYl"
+        }
+      ],
+      "duration_ms": 180124,
+      "name": "L'habit ne fait pas le moine",
+      "url": "https://open.spotify.com/track/0XGbTlSbgCWgqL5KuQY2qz"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Memoir",
-        "url": "https://open.spotify.com/album/6lxC3Lifp52AImYMNuaLi5"
-      },
-      "artists": [
-        {
-          "name": "Pied-\u00e0-Terre",
-          "url": "https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Memoir",
-      "url": "https://open.spotify.com/track/4K29oq8bXo7wel9P8QMY2n"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "S\u00fcda",
         "url": "https://open.spotify.com/album/0dR60aXaRgIAUExGS6ZKfG"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 202750,
       "name": "S\u00fcda",
       "url": "https://open.spotify.com/track/5QjGudbECrTR2yRa2AdZBV"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Memoir",
+        "url": "https://open.spotify.com/album/6lxC3Lifp52AImYMNuaLi5"
+      },
+      "artists": [
+        {
+          "name": "Pied-\u00e0-Terre",
+          "url": "https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Memoir",
+      "url": "https://open.spotify.com/track/4K29oq8bXo7wel9P8QMY2n"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "New Beginning",
-        "url": "https://open.spotify.com/album/3iRjsoMuilRzsn7s6uDkgC"
-      },
-      "artists": [
-        {
-          "name": "No\u00ebl",
-          "url": "https://open.spotify.com/artist/3hCvaJnqBQX6DqHh4nZiYj"
-        }
-      ],
-      "duration_ms": 133495,
-      "name": "New Beginning",
-      "url": "https://open.spotify.com/track/2KIt5oD3oklHr00HKEXQia"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "united",
         "url": "https://open.spotify.com/album/0xEHLj5DHQfAY9lNsuqOd5"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 182288,
       "name": "Morgentau",
       "url": "https://open.spotify.com/track/405hXsV5rmcZarrpP71qA8"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/3iRjsoMuilRzsn7s6uDkgC"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebl",
+          "url": "https://open.spotify.com/artist/3hCvaJnqBQX6DqHh4nZiYj"
+        }
+      ],
+      "duration_ms": 133495,
+      "name": "New Beginning",
+      "url": "https://open.spotify.com/track/2KIt5oD3oklHr00HKEXQia"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "On Your Side",
-        "url": "https://open.spotify.com/album/6sJJQ0VIYMW3lQLv6zdhPV"
-      },
-      "artists": [
-        {
-          "name": "Ragnar Seaholm",
-          "url": "https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "On Your Side",
-      "url": "https://open.spotify.com/track/12Ha6FmHZqlgVgIJU2kn3o"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "I\u2019ll Be The One",
         "url": "https://open.spotify.com/album/52bpQJrCO3rA3DqfwKOk5h"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 134250,
       "name": "I'll Be The One",
       "url": "https://open.spotify.com/track/1VhGpGEKywAKiCd3OmRev3"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "On Your Side",
+        "url": "https://open.spotify.com/album/6sJJQ0VIYMW3lQLv6zdhPV"
+      },
+      "artists": [
+        {
+          "name": "Ragnar Seaholm",
+          "url": "https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "On Your Side",
+      "url": "https://open.spotify.com/track/12Ha6FmHZqlgVgIJU2kn3o"
     },
     {
       "added_at": "2023-09-11 13:52:39",

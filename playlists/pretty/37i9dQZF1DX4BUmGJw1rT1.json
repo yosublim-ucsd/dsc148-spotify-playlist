@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 67524,
+  "num_followers": 67532,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmYzZDQyODdlMjQ1NDUzNzhiZDNhYTA2N2EwMTU5ZGY3NmIyOTY3",
+  "snapshot_id": "MCw1ZmFjOGZiZTdjNjU5MjQ4ZDk1Njc1NzRiMTE0NDJjNWFjNWViNGVh",
   "tracks": [
     {
       "added_at": "2023-10-13 00:01:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Tough Love",
         "url": "https://open.spotify.com/album/7bR8aFMrtFOLuAvRbeVJHP"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 368186,
       "name": "In From The Cold",
       "url": "https://open.spotify.com/track/2I8C3GvRQgmhBmbDAABokg"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Things Happen That Way",
-        "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Holy Water",
-      "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Rise to the Grind",
         "url": "https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 290453,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/31lG2URaPvdi7atAM8Tu4V"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Things Happen That Way",
+        "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Get Behind the Wheel",
+        "url": "https://open.spotify.com/album/38uG2SenaORYitq26CJnh9"
+      },
+      "artists": [
+        {
+          "name": "Eilen Jewell",
+          "url": "https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M"
+        }
+      ],
+      "duration_ms": 163534,
+      "name": "Come Home Soon",
+      "url": "https://open.spotify.com/track/7eRtuwFqQMdzpNM6arbA5s"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Jigsaw Heart",
         "url": "https://open.spotify.com/album/1ypgfVxnEINJJpmIf3olHI"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 188973,
       "name": "Gunsmoke Blues (feat. Jason Isbell)",
       "url": "https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Get Behind the Wheel",
-        "url": "https://open.spotify.com/album/38uG2SenaORYitq26CJnh9"
-      },
-      "artists": [
-        {
-          "name": "Eilen Jewell",
-          "url": "https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M"
-        }
-      ],
-      "duration_ms": 163534,
-      "name": "Come Home Soon",
-      "url": "https://open.spotify.com/track/7eRtuwFqQMdzpNM6arbA5s"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "He Was a Friend of Mine",
-        "url": "https://open.spotify.com/album/2TRKsCcvGeQYjl2V57Vcj8"
-      },
-      "artists": [
-        {
-          "name": "Tom Freund",
-          "url": "https://open.spotify.com/artist/3YwhoOWrHJZrk5XzE3WXkT"
-        },
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 197739,
-      "name": "He Was a Friend of Mine",
-      "url": "https://open.spotify.com/track/3gHUW8ZIHmC3rgImRIYIjn"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/7I4v2j4ueGOtCgCKzuRjPp"
       },
@@ -1599,6 +1579,26 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "He Was a Friend of Mine",
+        "url": "https://open.spotify.com/album/2TRKsCcvGeQYjl2V57Vcj8"
+      },
+      "artists": [
+        {
+          "name": "Tom Freund",
+          "url": "https://open.spotify.com/artist/3YwhoOWrHJZrk5XzE3WXkT"
+        },
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 197739,
+      "name": "He Was a Friend of Mine",
+      "url": "https://open.spotify.com/track/3gHUW8ZIHmC3rgImRIYIjn"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "The Complete Blue Horizon Sessions",
         "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
       },
@@ -1611,6 +1611,22 @@
       "duration_ms": 180680,
       "name": "And That's Saying a Lot",
       "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Dusty Highway",
+        "url": "https://open.spotify.com/album/0W1be2o6NzfXZmQZDfFz7H"
+      },
+      "artists": [
+        {
+          "name": "David Gelman",
+          "url": "https://open.spotify.com/artist/7wCbwQRrqj5daUqfaUVVsN"
+        }
+      ],
+      "duration_ms": 242786,
+      "name": "Let It Shine",
+      "url": "https://open.spotify.com/track/4bqK1zQ6908Tnvj4DkFHZG"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1647,6 +1663,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Lucille",
+        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 264506,
+      "name": "Country Girl",
+      "url": "https://open.spotify.com/track/3o34jLExYxt9nkMr8Q88oF"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Connor Selby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU"
       },
@@ -1675,22 +1707,6 @@
       "duration_ms": 188520,
       "name": "If Heaven Is A Hotel",
       "url": "https://open.spotify.com/track/1GxhXZons5WjLrGmiQDBhE"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Lucille",
-        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 264506,
-      "name": "Country Girl",
-      "url": "https://open.spotify.com/track/3o34jLExYxt9nkMr8Q88oF"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -1727,22 +1743,6 @@
       "duration_ms": 243880,
       "name": "Better Days (feat. Dave Fenley)",
       "url": "https://open.spotify.com/track/2BrKBhvGdc2l0OTd8YSwCw"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Dusty Highway",
-        "url": "https://open.spotify.com/album/0W1be2o6NzfXZmQZDfFz7H"
-      },
-      "artists": [
-        {
-          "name": "David Gelman",
-          "url": "https://open.spotify.com/artist/7wCbwQRrqj5daUqfaUVVsN"
-        }
-      ],
-      "duration_ms": 242786,
-      "name": "Let It Shine",
-      "url": "https://open.spotify.com/track/4bqK1zQ6908Tnvj4DkFHZG"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Wherever You Aren't",
-        "url": "https://open.spotify.com/album/4KwhVr9nLyGgJT2qf54fDc"
-      },
-      "artists": [
-        {
-          "name": "Elizabeth Moen",
-          "url": "https://open.spotify.com/artist/3asn1tEPhRNjVd48GXOo1N"
-        }
-      ],
-      "duration_ms": 279922,
-      "name": "Ex's House Party",
-      "url": "https://open.spotify.com/track/0eTbwl7KzaUDsMwbQCcAcp"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Behind The Rain",
         "url": "https://open.spotify.com/album/5ktC5H8hQ2G5tNOoDER8FE"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 214412,
       "name": "Behind The Rain",
       "url": "https://open.spotify.com/track/3EvlnCWBHQlJZI0Iu2iAwx"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Wherever You Aren't",
+        "url": "https://open.spotify.com/album/4KwhVr9nLyGgJT2qf54fDc"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Moen",
+          "url": "https://open.spotify.com/artist/3asn1tEPhRNjVd48GXOo1N"
+        }
+      ],
+      "duration_ms": 279922,
+      "name": "Ex's House Party",
+      "url": "https://open.spotify.com/track/0eTbwl7KzaUDsMwbQCcAcp"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -2071,38 +2071,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Breadwinner",
-        "url": "https://open.spotify.com/album/31rWdk9uDmDdhpMSSi8Ar2"
-      },
-      "artists": [
-        {
-          "name": "Ferris & Sylvester",
-          "url": "https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf"
-        }
-      ],
-      "duration_ms": 230426,
-      "name": "Breadwinner",
-      "url": "https://open.spotify.com/track/2nT0mY6172fHVa71weoplF"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "The Deep And The Dirty",
-        "url": "https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4"
-      },
-      "artists": [
-        {
-          "name": "Eric Johanson",
-          "url": "https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z"
-        }
-      ],
-      "duration_ms": 260866,
-      "name": "Just Like New",
-      "url": "https://open.spotify.com/track/2d9GYgrWMIVs9asm6FSzwq"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Get Behind the Wheel",
         "url": "https://open.spotify.com/album/38uG2SenaORYitq26CJnh9"
       },
@@ -2119,6 +2087,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Breadwinner",
+        "url": "https://open.spotify.com/album/31rWdk9uDmDdhpMSSi8Ar2"
+      },
+      "artists": [
+        {
+          "name": "Ferris & Sylvester",
+          "url": "https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf"
+        }
+      ],
+      "duration_ms": 230426,
+      "name": "Breadwinner",
+      "url": "https://open.spotify.com/track/2nT0mY6172fHVa71weoplF"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "One Foot In The Groove",
         "url": "https://open.spotify.com/album/4tvZrqg0Yow830Ko9pnYqD"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 205974,
       "name": "Ice Cream and Cigarettes",
       "url": "https://open.spotify.com/track/3gj8kdPWFbNEnBegd20KJJ"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "The Deep And The Dirty",
+        "url": "https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4"
+      },
+      "artists": [
+        {
+          "name": "Eric Johanson",
+          "url": "https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z"
+        }
+      ],
+      "duration_ms": 260866,
+      "name": "Just Like New",
+      "url": "https://open.spotify.com/track/2d9GYgrWMIVs9asm6FSzwq"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/6lJWfWMqJ3suSucrbR6Kv2"
-      },
-      "artists": [
-        {
-          "name": "Ebba Forsberg",
-          "url": "https://open.spotify.com/artist/1MrzQFvlf2DzLE1qP98ehk"
-        }
-      ],
-      "duration_ms": 149746,
-      "name": "Lost Count - Live",
-      "url": "https://open.spotify.com/track/2WVdl7Dja5y0vv8mrn6Fwa"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
         "name": "Not the One",
         "url": "https://open.spotify.com/album/34i7Bv4RkWhjcAWgddRDMS"
       },
@@ -2307,6 +2291,22 @@
     {
       "added_at": "2023-10-13 00:01:00",
       "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/6lJWfWMqJ3suSucrbR6Kv2"
+      },
+      "artists": [
+        {
+          "name": "Ebba Forsberg",
+          "url": "https://open.spotify.com/artist/1MrzQFvlf2DzLE1qP98ehk"
+        }
+      ],
+      "duration_ms": 149746,
+      "name": "Lost Count - Live",
+      "url": "https://open.spotify.com/track/2WVdl7Dja5y0vv8mrn6Fwa"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
         "name": "Hard to Kill",
         "url": "https://open.spotify.com/album/53nnG57cJkUHY52Ftihn0P"
       },
@@ -2319,22 +2319,6 @@
       "duration_ms": 207653,
       "name": "Fireman",
       "url": "https://open.spotify.com/track/2sSpzTMLQTLn2BjPTuSyaO"
-    },
-    {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "THOUSAND STRINGED INSTRUMENT",
-        "url": "https://open.spotify.com/album/3VDFvOgo5bt6v84LppDFJD"
-      },
-      "artists": [
-        {
-          "name": "THE DAWN LIGHT",
-          "url": "https://open.spotify.com/artist/2GY423HSoOGDoAZpfYp23A"
-        }
-      ],
-      "duration_ms": 329000,
-      "name": "THOUSAND STRINGED INSTRUMENT",
-      "url": "https://open.spotify.com/track/5Z7VtnF9lSGqEsv8KOTkC6"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -2375,6 +2359,22 @@
       "duration_ms": 226792,
       "name": "Oh Frustration",
       "url": "https://open.spotify.com/track/6wzjO71k5y5NLqOqQmnZDP"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "THOUSAND STRINGED INSTRUMENT",
+        "url": "https://open.spotify.com/album/3VDFvOgo5bt6v84LppDFJD"
+      },
+      "artists": [
+        {
+          "name": "THE DAWN LIGHT",
+          "url": "https://open.spotify.com/artist/2GY423HSoOGDoAZpfYp23A"
+        }
+      ],
+      "duration_ms": 329000,
+      "name": "THOUSAND STRINGED INSTRUMENT",
+      "url": "https://open.spotify.com/track/5Z7VtnF9lSGqEsv8KOTkC6"
     },
     {
       "added_at": "2023-10-13 00:01:00",
@@ -2544,9 +2544,9 @@
           "url": "https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc"
         }
       ],
-      "duration_ms": 290502,
-      "name": "Hear My Prayer",
-      "url": "https://open.spotify.com/track/06R14qk3s1Zm9DvridBsGn"
+      "duration_ms": 406432,
+      "name": "The Man I Ought To Be",
+      "url": "https://open.spotify.com/track/0iMbe85OzernkDXLzGZ37e"
     }
   ],
   "unique_name": "Home at Last",

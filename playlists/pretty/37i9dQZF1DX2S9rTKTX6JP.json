@@ -1,12 +1,12 @@
 {
   "description": "The very best rock covers. Cover: Dolly Parton",
-  "num_followers": 664668,
+  "num_followers": 664732,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmQwNWFmNzU4NWI4NjFiMjllNzgyYzg3MzBhMzAzNjA3MTcxZDVj",
+  "snapshot_id": "MCwzZmI1OTYyNzM0Y2YzZDdlODRkYTQ5ZGU2NWQ4OWJhYmI0NjY2NTI4",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Don't Worry About Me",
+        "url": "https://open.spotify.com/album/3hltYmpx3K2z2C2nlRLv7N"
+      },
+      "artists": [
+        {
+          "name": "Joey Ramone",
+          "url": "https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx"
+        }
+      ],
+      "duration_ms": 143360,
+      "name": "What a Wonderful World",
+      "url": "https://open.spotify.com/track/3Kgz8aGqtXJFyihsSuNAWO"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Rebels",
         "url": "https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 188573,
       "name": "Get Lucky",
       "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Don't Worry About Me",
-        "url": "https://open.spotify.com/album/3hltYmpx3K2z2C2nlRLv7N"
-      },
-      "artists": [
-        {
-          "name": "Joey Ramone",
-          "url": "https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx"
-        }
-      ],
-      "duration_ms": 143360,
-      "name": "What a Wonderful World",
-      "url": "https://open.spotify.com/track/3Kgz8aGqtXJFyihsSuNAWO"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 189248,
-      "name": "Hungry Like the Wolf - Recorded Live at AIR Studios, London",
-      "url": "https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "DJ Got Us Fallin in Love",
         "url": "https://open.spotify.com/album/7BlAqQCFaGeZ74asl8SvGL"
       },
@@ -1915,6 +1899,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 189248,
+      "name": "Hungry Like the Wolf - Recorded Live at AIR Studios, London",
+      "url": "https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Dancing on My Own",
         "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
       },
@@ -1927,6 +1927,22 @@
       "duration_ms": 209813,
       "name": "Dancing on My Own",
       "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "At Night We Live",
+        "url": "https://open.spotify.com/album/1hHLV0qtV4X9O1iAoVQP3i"
+      },
+      "artists": [
+        {
+          "name": "Far",
+          "url": "https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "Pony",
+      "url": "https://open.spotify.com/track/108U9FAOtfHOAIGdHG12Fc"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1991,34 +2007,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "At Night We Live",
-        "url": "https://open.spotify.com/album/1hHLV0qtV4X9O1iAoVQP3i"
+        "name": "Instant Karma: The Amnesty International Campaign To Save Darfur (Standard Version)",
+        "url": "https://open.spotify.com/album/5hJwAMtrAvp9cGLhR3ZmYN"
       },
       "artists": [
         {
-          "name": "Far",
-          "url": "https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 262746,
-      "name": "Pony",
-      "url": "https://open.spotify.com/track/108U9FAOtfHOAIGdHG12Fc"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 292040,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
+      "duration_ms": 263733,
+      "name": "Working Class Hero",
+      "url": "https://open.spotify.com/track/1rls1uw64JiGI2O7MZABWj"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2039,18 +2039,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Instant Karma: The Amnesty International Campaign To Save Darfur (Standard Version)",
-        "url": "https://open.spotify.com/album/5hJwAMtrAvp9cGLhR3ZmYN"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
         }
       ],
-      "duration_ms": 263733,
-      "name": "Working Class Hero",
-      "url": "https://open.spotify.com/track/1rls1uw64JiGI2O7MZABWj"
+      "duration_ms": 259188,
+      "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2071,22 +2075,34 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
       },
       "artists": [
         {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 259188,
-      "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
+      "duration_ms": 292040,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Live & Inspired",
+        "url": "https://open.spotify.com/album/6QOoJkjaJw5mp6FUp6KCkN"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/30KaTTGsHO8z9esyfuJuU6"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2139,22 +2155,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Live & Inspired",
-        "url": "https://open.spotify.com/album/6QOoJkjaJw5mp6FUp6KCkN"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 226293,
-      "name": "Come Together",
-      "url": "https://open.spotify.com/track/30KaTTGsHO8z9esyfuJuU6"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Fortunate Son",
         "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
       },
@@ -2167,22 +2167,6 @@
       "duration_ms": 203520,
       "name": "Fortunate Son",
       "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Telepath",
-        "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "Telepath",
-      "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2223,6 +2207,22 @@
       "duration_ms": 246695,
       "name": "Beds Are Burning (feat. Tim Mcllrath of Rise Against)",
       "url": "https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Telepath",
+        "url": "https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "Telepath",
+      "url": "https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2291,6 +2291,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "The Dirt Soundtrack",
+        "url": "https://open.spotify.com/album/6FLUCOGmzatDd2Ab85FjsO"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Like a Virgin",
+      "url": "https://open.spotify.com/track/7zmEtA2x8zcMDiDBr9kT2p"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Highway to Hell (feat. Bruce Springsteen & Eddie Vedder)",
         "url": "https://open.spotify.com/album/60qUFi2mJQWWvBONczWFLa"
       },
@@ -2331,22 +2347,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "The Dirt Soundtrack",
-        "url": "https://open.spotify.com/album/6FLUCOGmzatDd2Ab85FjsO"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Like a Virgin",
-      "url": "https://open.spotify.com/track/7zmEtA2x8zcMDiDBr9kT2p"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "The Chain",
         "url": "https://open.spotify.com/album/6isNHMQ20tEx8dJ7CUAiAT"
       },
@@ -2359,6 +2359,22 @@
       "duration_ms": 275146,
       "name": "The Chain",
       "url": "https://open.spotify.com/track/6Y3AzfzJP4NswhfLOpd8aY"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/7nI7V6Sc70en38PPnjPAKE"
+      },
+      "artists": [
+        {
+          "name": "The Polyphonic Spree",
+          "url": "https://open.spotify.com/artist/0inqWv3OS4VpWt691ki8yk"
+        }
+      ],
+      "duration_ms": 323666,
+      "name": "Lithium",
+      "url": "https://open.spotify.com/track/4IEn8Os5XMZpIRF9xX74Aj"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2403,22 +2419,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Table For Glasses",
-        "url": "https://open.spotify.com/album/3aE2gaGZQVA0X6YcspS0fs"
-      },
-      "artists": [
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        }
-      ],
-      "duration_ms": 231368,
-      "name": "Table For Glasses",
-      "url": "https://open.spotify.com/track/2eYqYMFIyOq9yJSZzAy6B7"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Origin (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu"
       },
@@ -2451,18 +2451,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/7nI7V6Sc70en38PPnjPAKE"
+        "name": "Table For Glasses",
+        "url": "https://open.spotify.com/album/3aE2gaGZQVA0X6YcspS0fs"
       },
       "artists": [
         {
-          "name": "The Polyphonic Spree",
-          "url": "https://open.spotify.com/artist/0inqWv3OS4VpWt691ki8yk"
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
         }
       ],
-      "duration_ms": 323666,
-      "name": "Lithium",
-      "url": "https://open.spotify.com/track/4IEn8Os5XMZpIRF9xX74Aj"
+      "duration_ms": 231368,
+      "name": "Table For Glasses",
+      "url": "https://open.spotify.com/track/2eYqYMFIyOq9yJSZzAy6B7"
     },
     {
       "added_at": "2023-11-17 05:00:00",

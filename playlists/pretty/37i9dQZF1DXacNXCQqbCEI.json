@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 356888,
+  "num_followers": 356912,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTI0ODg0YmI2NjM0MTIzOTcxYzczZWIxNWE1ZDg2ZjEwOWE2MDE1",
+  "snapshot_id": "MCwyM2FkZDllNzRiOWJmMmMwN2ZiNTBjNThmNWM4ZWQzNjdlNTRiZDQ3",
   "tracks": [
     {
       "added_at": "2023-02-13 21:09:56",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV"
-      },
-      "artists": [
-        {
-          "name": "Felipe Schuster",
-          "url": "https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE"
-        }
-      ],
-      "duration_ms": 213146,
-      "name": "Tamarugal (Para de Mirarme)",
-      "url": "https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Ghetto Kumb\u00e9",
         "url": "https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 255976,
       "name": "Sola",
       "url": "https://open.spotify.com/track/3pFvfrF9ye3Cn97rcZZv3q"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV"
+      },
+      "artists": [
+        {
+          "name": "Felipe Schuster",
+          "url": "https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE"
+        }
+      ],
+      "duration_ms": 213146,
+      "name": "Tamarugal (Para de Mirarme)",
+      "url": "https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A"
     },
     {
       "added_at": "2023-02-13 21:09:56",

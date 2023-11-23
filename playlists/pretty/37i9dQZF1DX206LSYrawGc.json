@@ -1,12 +1,12 @@
 {
   "description": "80s rock to fuel your ride. Cover: Guns N' Roses",
-  "num_followers": 262079,
+  "num_followers": 262286,
   "original_name": "80s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjQzMGU4OTgyNDg4YjYzZGFiZDlhZTAwYzBiNjE2ZDAyYjY2M2Q0",
+  "snapshot_id": "MCxhZjJhYTdjZmU0YWIxNzQ3OWZmNzYxOGM5MDliYzc4YWYyYWFjNzVk",
   "tracks": [
     {
       "added_at": "2021-03-16 22:32:51",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/5B6Z7NwVqA7W3UFiqBdEJC"
     },
     {
-      "added_at": "2022-06-29 17:56:03",
-      "album": {
-        "name": "Skid Row",
-        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 198906,
-      "name": "Youth Gone Wild",
-      "url": "https://open.spotify.com/track/1jF5Id0OPFU1Mae8BEUF5u"
-    },
-    {
       "added_at": "2021-03-16 22:32:51",
       "album": {
         "name": "Dr. Feelgood (Deluxe Version)",
@@ -471,6 +455,22 @@
       "duration_ms": 282653,
       "name": "Kickstart My Heart",
       "url": "https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy"
+    },
+    {
+      "added_at": "2022-06-29 17:56:03",
+      "album": {
+        "name": "Skid Row",
+        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 198906,
+      "name": "Youth Gone Wild",
+      "url": "https://open.spotify.com/track/1jF5Id0OPFU1Mae8BEUF5u"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -571,6 +571,22 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
+        "name": "Girls, Girls, Girls",
+        "url": "https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 270533,
+      "name": "Girls, Girls, Girls",
+      "url": "https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
         "name": "Introduce Yourself",
         "url": "https://open.spotify.com/album/0kBy2KA6BuCWveFo88VmMX"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 258600,
       "name": "When the Children Cry",
       "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
-        "name": "W.A.S.P.",
-        "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
-      },
-      "artists": [
-        {
-          "name": "W.A.S.P.",
-          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "I Wanna Be Somebody",
-      "url": "https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -665,6 +665,22 @@
       "url": "https://open.spotify.com/track/6Fba9RZtC6vTY814JToDtP"
     },
     {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "W.A.S.P.",
+        "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
+      },
+      "artists": [
+        {
+          "name": "W.A.S.P.",
+          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "I Wanna Be Somebody",
+      "url": "https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ"
+    },
+    {
       "added_at": "2022-06-29 17:56:03",
       "album": {
         "name": "Standing Hampton",
@@ -679,6 +695,22 @@
       "duration_ms": 230506,
       "name": "Heavy Metal",
       "url": "https://open.spotify.com/track/1XxUDJp9zsjd6tBSvE3la4"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "Long Cold Winter",
+        "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "duration_ms": 235733,
+      "name": "Gypsy Road",
+      "url": "https://open.spotify.com/track/2F8Glc7r4mHHSCEegD4Ju1"
     },
     {
       "added_at": "2022-06-29 17:56:03",
@@ -699,24 +731,8 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Long Cold Winter",
-        "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 235733,
-      "name": "Gypsy Road",
-      "url": "https://open.spotify.com/track/2F8Glc7r4mHHSCEegD4Ju1"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
-        "name": "Girls, Girls, Girls",
-        "url": "https://open.spotify.com/album/0vPZhR1KpbRNBOQBsDScS8"
+        "name": "Dr. Feelgood (40th Anniversary;2021 - Remaster)",
+        "url": "https://open.spotify.com/album/2EToovm9UH7cVPepJOg1B6"
       },
       "artists": [
         {
@@ -724,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 270533,
-      "name": "Girls, Girls, Girls",
-      "url": "https://open.spotify.com/track/3439OLNIeD3y68kVuoZUO5"
+      "duration_ms": 289971,
+      "name": "Dr. Feelgood (2021- Remaster)",
+      "url": "https://open.spotify.com/track/35Aj3CGTmWkjGr4bjYmkk5"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -791,22 +807,6 @@
       "duration_ms": 243280,
       "name": "Just Like Paradise",
       "url": "https://open.spotify.com/track/5ZY7Gug850kv4heJcWZGHM"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
-        "name": "You Can't Stop Rock 'N' Roll",
-        "url": "https://open.spotify.com/album/3KW5iWFnvhHtFoMHwWnUr5"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "The Kids Are Back",
-      "url": "https://open.spotify.com/track/7xzmJPFQAn0O1ZYYtbGRlz"
     }
   ],
   "unique_name": "80s Rock Drive",

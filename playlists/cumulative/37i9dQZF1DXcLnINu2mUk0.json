@@ -2980,7 +2980,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 147200,
       "name": "Eu Sei",
       "url": "https://open.spotify.com/track/3BLnlQwb0h9EVzDWI9WFpm"
@@ -5547,6 +5547,24 @@
     },
     {
       "album": {
+        "name": "Nazar\u00e9",
+        "url": "https://open.spotify.com/album/6OmfdNi5uveoVGPtWZ2fv7"
+      },
+      "artists": [
+        {
+          "name": "P.L.E.N.A",
+          "url": "https://open.spotify.com/artist/3yhNvnt2mdwKiuJTvlVNtF"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114935,
+      "name": "Nazar\u00e9",
+      "url": "https://open.spotify.com/track/1egCduaKZy7kiJiAtozeGz"
+    },
+    {
+      "album": {
         "name": "Negritude",
         "url": "https://open.spotify.com/album/5fFdfNqLJPrhi1s98xlrsE"
       },
@@ -7342,6 +7360,24 @@
       "duration_ms": 212688,
       "name": "Saudades",
       "url": "https://open.spotify.com/track/4zcd47kKnAja9SU61xNL2o"
+    },
+    {
+      "album": {
+        "name": "Say Now",
+        "url": "https://open.spotify.com/album/2fq8Q2fhkLWyB6FK6agP4l"
+      },
+      "artists": [
+        {
+          "name": "BiDU",
+          "url": "https://open.spotify.com/artist/0g4pI2zFfWsjyvugZT0fBg"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282250,
+      "name": "Say Now",
+      "url": "https://open.spotify.com/track/6GQ3ZjpAvzlBKH0eSrgSim"
     },
     {
       "album": {

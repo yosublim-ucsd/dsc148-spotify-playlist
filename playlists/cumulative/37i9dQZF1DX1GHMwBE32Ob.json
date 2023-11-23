@@ -111,6 +111,24 @@
     },
     {
       "album": {
+        "name": "Adura",
+        "url": "https://open.spotify.com/album/6ZNm2eW5rxG18gzgtE7iWR"
+      },
+      "artists": [
+        {
+          "name": "Klent Maidas",
+          "url": "https://open.spotify.com/artist/5HJZof8HvPVFswmsVbPt6k"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160714,
+      "name": "Adura",
+      "url": "https://open.spotify.com/track/0AQf6pQyEI2vXHxnxQzE1X"
+    },
+    {
+      "album": {
         "name": "Agbado Wa O",
         "url": "https://open.spotify.com/album/3UATmv0OvLERgHyOnI40lx"
       },
@@ -228,7 +246,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 180584,
       "name": "Amdallah",
       "url": "https://open.spotify.com/track/0KBrX7XrrLWxv4nO3NOHQh"
@@ -582,7 +600,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 146951,
       "name": "Caution (Remix)",
       "url": "https://open.spotify.com/track/0SO4p98PikYlEcZKa6YXv9"
@@ -618,7 +636,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 177449,
       "name": "Chance (Na Ham)",
       "url": "https://open.spotify.com/track/56iVI65i40FrCO5p382IrK"
@@ -730,10 +748,28 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 160982,
       "name": "Dejavu",
       "url": "https://open.spotify.com/track/3ZwqPR9wHrcH1yEmm3nBto"
+    },
+    {
+      "album": {
+        "name": "Vibe Till Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160982,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/4o9Byedt716sEyVFu1cQjZ"
     },
     {
       "album": {
@@ -894,10 +930,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 202605,
       "name": "Ex Convict",
       "url": "https://open.spotify.com/track/3Q4oVlA6z9TH0jhaDl6aNT"
+    },
+    {
+      "album": {
+        "name": "Ex Convict",
+        "url": "https://open.spotify.com/album/5Y0FIl4JX5S1vvm5Kc8OHh"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202605,
+      "name": "Ex Convict",
+      "url": "https://open.spotify.com/track/5WAFaje0Cs3hHhNqjUIfY6"
     },
     {
       "album": {
@@ -952,10 +1006,32 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 143300,
       "name": "Feel Better",
       "url": "https://open.spotify.com/track/11gtAsVqrzhvI0g9lVrLc0"
+    },
+    {
+      "album": {
+        "name": "Feel Better",
+        "url": "https://open.spotify.com/album/6PXWungbDlNlNvfZJe42GD"
+      },
+      "artists": [
+        {
+          "name": "Anonymous Music",
+          "url": "https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG"
+        },
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143300,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/2d3hsKUez4aoqs5E0uPyS0"
     },
     {
       "album": {
@@ -1284,10 +1360,28 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 160757,
       "name": "Hat-trick",
       "url": "https://open.spotify.com/track/33ohxqNJdE1QXNSnJihNbN"
+    },
+    {
+      "album": {
+        "name": "Vibe Till Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160757,
+      "name": "Hat-trick",
+      "url": "https://open.spotify.com/track/6kq3Twa8T9Rf9nxpf111hx"
     },
     {
       "album": {
@@ -1970,10 +2064,28 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 144000,
       "name": "Man of The Year",
       "url": "https://open.spotify.com/track/4UdDJ77xjH9ru5r5F9kfOG"
+    },
+    {
+      "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Man of The Year",
+      "url": "https://open.spotify.com/track/6OhEAnxF6FzPoUU3KxH44F"
     },
     {
       "album": {
@@ -2006,7 +2118,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 315257,
       "name": "Mara pass Mara Beat",
       "url": "https://open.spotify.com/track/1gUKeGrLdVT4LCt77oRkJT"
@@ -2064,6 +2176,24 @@
       "duration_ms": 186000,
       "name": "Mental",
       "url": "https://open.spotify.com/track/5j7OST3AEbe2N3nmMZflWg"
+    },
+    {
+      "album": {
+        "name": "El Major",
+        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131364,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/5pmuDpn0aIzw8mjJBUWUsv"
     },
     {
       "album": {

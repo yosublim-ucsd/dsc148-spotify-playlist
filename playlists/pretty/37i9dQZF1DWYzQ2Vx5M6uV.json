@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Feid & Rema",
-  "num_followers": 114945,
+  "num_followers": 114957,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGM3NDU3NzcxMGMyNzg0YjQ2MmNkODIwMDE4ZDRhNjM2YmY5OWU2",
+  "snapshot_id": "MCxhMzk0NDI0NzA1ODZhMDVkMjVmMTYxZjFkMWViMDM1ODFiMTJiYThk",
   "tracks": [
     {
       "added_at": "2023-11-08 15:41:14",
@@ -71,46 +71,6 @@
     {
       "added_at": "2023-11-08 15:41:14",
       "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 199850,
-      "name": "Eva Longoria",
-      "url": "https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG"
-    },
-    {
-      "added_at": "2023-11-08 15:41:14",
-      "album": {
-        "name": "GOOD DAY (feat. Camidoh)",
-        "url": "https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        },
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        }
-      ],
-      "duration_ms": 164765,
-      "name": "GOOD DAY (feat. Camidoh)",
-      "url": "https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf"
-    },
-    {
-      "added_at": "2023-11-08 15:41:14",
-      "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
         "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
       },
@@ -135,6 +95,46 @@
     {
       "added_at": "2023-11-08 15:41:14",
       "album": {
+        "name": "GOOD DAY (feat. Camidoh)",
+        "url": "https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        },
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "duration_ms": 164765,
+      "name": "GOOD DAY (feat. Camidoh)",
+      "url": "https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf"
+    },
+    {
+      "added_at": "2023-11-08 15:41:14",
+      "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 199850,
+      "name": "Eva Longoria",
+      "url": "https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG"
+    },
+    {
+      "added_at": "2023-11-08 15:41:14",
+      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -151,22 +151,6 @@
       "duration_ms": 248040,
       "name": "Essence (feat. Tems)",
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
-    },
-    {
-      "added_at": "2023-11-08 15:41:14",
-      "album": {
-        "name": "Un Rodeoooo",
-        "url": "https://open.spotify.com/album/0moZUivW5b3JvniIYYiaEi"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 136082,
-      "name": "Un Rodeoooo",
-      "url": "https://open.spotify.com/track/5ak67nfN54lbm0ophfLj2t"
     },
     {
       "added_at": "2023-11-08 15:41:14",
@@ -195,6 +179,22 @@
     {
       "added_at": "2023-11-08 15:41:14",
       "album": {
+        "name": "Un Rodeoooo",
+        "url": "https://open.spotify.com/album/0moZUivW5b3JvniIYYiaEi"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 136082,
+      "name": "Un Rodeoooo",
+      "url": "https://open.spotify.com/track/5ak67nfN54lbm0ophfLj2t"
+    },
+    {
+      "added_at": "2023-11-08 15:41:14",
+      "album": {
         "name": "Dream Girl (Remix)",
         "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
       },
@@ -211,6 +211,30 @@
       "duration_ms": 192452,
       "name": "Dream Girl - Remix",
       "url": "https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX"
+    },
+    {
+      "added_at": "2023-11-08 15:41:14",
+      "album": {
+        "name": "ENOC",
+        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Del Mar",
+      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
     },
     {
       "added_at": "2023-11-08 15:41:14",
@@ -271,46 +295,6 @@
     {
       "added_at": "2023-11-08 15:41:14",
       "album": {
-        "name": "ENOC",
-        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "Del Mar",
-      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
-    },
-    {
-      "added_at": "2023-11-08 15:41:14",
-      "album": {
-        "name": "Sin Gato (MIAU!)",
-        "url": "https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Sin Gato (MIAU!)",
-      "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
-    },
-    {
-      "added_at": "2023-11-08 15:41:14",
-      "album": {
         "name": "People (feat. Becky G) [Remixes]",
         "url": "https://open.spotify.com/album/49TVWS0iWtQ7ZAQFzqqpoB"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 202760,
       "name": "People (feat. Becky G)",
       "url": "https://open.spotify.com/track/40OZkN8qle7lxaovVrn1QY"
+    },
+    {
+      "added_at": "2023-11-08 15:41:14",
+      "album": {
+        "name": "Sin Gato (MIAU!)",
+        "url": "https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Sin Gato (MIAU!)",
+      "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
     },
     {
       "added_at": "2023-11-08 15:41:14",
@@ -479,26 +479,6 @@
     {
       "added_at": "2023-11-08 15:41:14",
       "album": {
-        "name": "Cough",
-        "url": "https://open.spotify.com/album/0H0fVt4IgYrsTJGfWxPJfx"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 177680,
-      "name": "Cough",
-      "url": "https://open.spotify.com/track/2SggWVBRvkOmtQRfbKh6sV"
-    },
-    {
-      "added_at": "2023-11-08 15:41:14",
-      "album": {
         "name": "Beamer (Bad Boys)",
         "url": "https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 195047,
       "name": "Beamer (Bad Boys)",
       "url": "https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q"
+    },
+    {
+      "added_at": "2023-11-08 15:41:14",
+      "album": {
+        "name": "Cough",
+        "url": "https://open.spotify.com/album/0H0fVt4IgYrsTJGfWxPJfx"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 177680,
+      "name": "Cough",
+      "url": "https://open.spotify.com/track/2SggWVBRvkOmtQRfbKh6sV"
     },
     {
       "added_at": "2023-11-08 15:41:14",
@@ -703,6 +703,26 @@
     {
       "added_at": "2023-11-08 15:41:14",
       "album": {
+        "name": "The Prince I Became",
+        "url": "https://open.spotify.com/album/0wCcVlx3DNajtnqVSnFthH"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 196870,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2sLaOFvIqadkSw8iYlv7SU"
+    },
+    {
+      "added_at": "2023-11-08 15:41:14",
+      "album": {
         "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
         "url": "https://open.spotify.com/album/42xtXqJiVEqAHLCXbKhSVX"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 206585,
       "name": "Posa",
       "url": "https://open.spotify.com/track/3fcIZ1K25xOEAwePGagbN8"
-    },
-    {
-      "added_at": "2023-11-08 15:41:14",
-      "album": {
-        "name": "The Prince I Became",
-        "url": "https://open.spotify.com/album/0wCcVlx3DNajtnqVSnFthH"
-      },
-      "artists": [
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 196870,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/2sLaOFvIqadkSw8iYlv7SU"
     },
     {
       "added_at": "2023-11-08 15:41:14",
@@ -955,22 +955,22 @@
     {
       "added_at": "2023-11-08 15:41:14",
       "album": {
-        "name": "iluminada",
-        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
+        "name": "Hapo Tu",
+        "url": "https://open.spotify.com/album/24PHVy5OkPyLKeR3Jjh6nc"
       },
       "artists": [
         {
-          "name": "Zubi",
-          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+          "name": "Nyashinski",
+          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
         },
         {
-          "name": "Andrew Ace",
-          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
+          "name": "Chris Kaiga",
+          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
         }
       ],
-      "duration_ms": 175000,
-      "name": "before",
-      "url": "https://open.spotify.com/track/4E6uEWazcA6C2VaWoODFyH"
+      "duration_ms": 187555,
+      "name": "Hapo Tu",
+      "url": "https://open.spotify.com/track/5g90vbGDO2zc7tYUqUHtmN"
     },
     {
       "added_at": "2023-11-08 15:41:14",
@@ -999,22 +999,22 @@
     {
       "added_at": "2023-11-08 15:41:14",
       "album": {
-        "name": "Hapo Tu",
-        "url": "https://open.spotify.com/album/24PHVy5OkPyLKeR3Jjh6nc"
+        "name": "iluminada",
+        "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
       },
       "artists": [
         {
-          "name": "Nyashinski",
-          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
         },
         {
-          "name": "Chris Kaiga",
-          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
+          "name": "Andrew Ace",
+          "url": "https://open.spotify.com/artist/00lZW5mZJvO9cXMz2nZ3DG"
         }
       ],
-      "duration_ms": 187555,
-      "name": "Hapo Tu",
-      "url": "https://open.spotify.com/track/5g90vbGDO2zc7tYUqUHtmN"
+      "duration_ms": 175000,
+      "name": "before",
+      "url": "https://open.spotify.com/track/4E6uEWazcA6C2VaWoODFyH"
     },
     {
       "added_at": "2023-11-08 15:41:14",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2023-11-08 15:41:14",
       "album": {
-        "name": "Dumebi (Becky G Remix)",
-        "url": "https://open.spotify.com/album/6kSKLZKTG9l9oWJSqAWsEC"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 187926,
-      "name": "Dumebi - Becky G Remix",
-      "url": "https://open.spotify.com/track/6z2kfyTUOkZhxEj1cG5jps"
-    },
-    {
-      "added_at": "2023-11-08 15:41:14",
-      "album": {
         "name": "Like A Queen Remix",
         "url": "https://open.spotify.com/album/6OG8umJAVi3XTE72N5Iqmj"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 159001,
       "name": "Like A Queen Remix - Remix",
       "url": "https://open.spotify.com/track/7iGwFKZDnlkXRTEIxNLVYk"
+    },
+    {
+      "added_at": "2023-11-08 15:41:14",
+      "album": {
+        "name": "Dumebi (Becky G Remix)",
+        "url": "https://open.spotify.com/album/6kSKLZKTG9l9oWJSqAWsEC"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 187926,
+      "name": "Dumebi - Becky G Remix",
+      "url": "https://open.spotify.com/track/6z2kfyTUOkZhxEj1cG5jps"
     },
     {
       "added_at": "2023-11-08 15:41:14",

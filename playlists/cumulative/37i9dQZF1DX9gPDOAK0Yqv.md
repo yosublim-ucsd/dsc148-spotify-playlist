@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-377 songs - 1 day 8 hr 1 min
+378 songs - 1 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Life Moves Fast](https://open.spotify.com/track/2qnLd7v8htk8uHQaoUecLs) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Life Moves Fast](https://open.spotify.com/album/0oNJfZFoypJFKQtOHAvPgW) | 3:53 | 2023-03-24 |  |
 | [Like An Old Dog \- Maceo Plex Remix](https://open.spotify.com/track/0QNSgg2CPslZbcvKmkFN0N) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Pixx](https://open.spotify.com/artist/6QDPfX2YaZAGJnhpClg8Jo), [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Like An Old Dog \(Maceo Plex Remix\)](https://open.spotify.com/album/0eKC58ZvlGo6Xge3vAASYZ) | 6:30 | 2023-06-30 | 2023-09-10 |
 | [Liquid Fantasy \- Edit](https://open.spotify.com/track/6fBTtzHK8itlE1mqgDTLmH) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Vicky Who?](https://open.spotify.com/artist/0fj8NKbvzFH5LxS1h7Yr5I) | [Liquid Fantasy](https://open.spotify.com/album/1qkpQWUWtHprhuiVsGDz9p) | 3:54 | 2023-02-04 | 2023-02-10 |
-| [Liquid Gold](https://open.spotify.com/track/5ePsIL5oYErKR9zvEFjtIr) | [AN21](https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn) | [Liquid Gold](https://open.spotify.com/album/2K6e07SwGsxM7pTm3AbPCm) | 3:34 | 2023-09-29 |  |
+| [Liquid Gold](https://open.spotify.com/track/5ePsIL5oYErKR9zvEFjtIr) | [AN21](https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn) | [Liquid Gold](https://open.spotify.com/album/2K6e07SwGsxM7pTm3AbPCm) | 3:34 | 2023-09-29 | 2023-11-23 |
 | [Lithium](https://open.spotify.com/track/3JULDUED9hQQ94gXnuFl5p) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Amplify](https://open.spotify.com/album/2fnEK9AF3DqYemVCER91js) | 6:38 | 2023-04-07 | 2023-04-29 |
 | [Loneliness \- Original Mix](https://open.spotify.com/track/00IWep1lbWW2wJog8Ewgsj) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Loneliness](https://open.spotify.com/album/48wWbXN8jBw4KCDeF70Zwj) | 6:09 | 2022-12-02 | 2023-10-09 |
 | [Looking Class](https://open.spotify.com/track/0l0iDqdVu0CgllGFKQ6D5l) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Looking Class / Full Circle Moment](https://open.spotify.com/album/1G56ouG8pijwEgYzlbtpWN) | 4:35 | 2023-02-17 | 2023-04-09 |
@@ -376,6 +376,7 @@
 | [Waiting For Too Long](https://open.spotify.com/track/0VsCw4IqlcJ2GeYnQbV5zx) | [Vakabular](https://open.spotify.com/artist/4nuR5cGAyxV1jlRROlerJt) | [Soul On Fire](https://open.spotify.com/album/0hhh9oROZpv3RBWY5FI6W4) | 4:30 | 2022-12-06 |  |
 | [We Are Built \- Jos & Eli Remix](https://open.spotify.com/track/5WGDvD7AaHa8bBC6FjYR5I) | [AÏA](https://open.spotify.com/artist/7hhj3fsLhjXBlv5fQpR78H), [Jos & Eli](https://open.spotify.com/artist/3nOp9kU7OluZlOGCdqWqS3) | [We Are Built \(Jos & Eli Remix\)](https://open.spotify.com/album/5KfqQ27072aHnMVYm5klWC) | 6:39 | 2022-12-28 | 2023-01-06 |
 | [We Will Forgive Ourselves](https://open.spotify.com/track/7MbPQvkLAQEsmln2BRn2u0) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [We Will Forgive Ourselves](https://open.spotify.com/album/11IyXqq9Br1aLPdmTQJ4TD) | 6:31 | 2022-11-23 | 2022-12-29 |
+| [We've Lost Our Light](https://open.spotify.com/track/1CCGkitAlETDZ1hJMFDAZL) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [We've Lost Our Light](https://open.spotify.com/album/57IQqomUmLnKBx0Dxi10ny) | 6:54 | 2023-11-17 |  |
 | [Welcome The Night](https://open.spotify.com/track/4OlnouGKBwHSBt61wlFMcK) | [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [Welcome The Night](https://open.spotify.com/album/1hlK3J8IC3ZiyRj1ujVD82) | 3:18 | 2023-10-27 |  |
 | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/track/3XgtRplaKaBn8lxBCAhfwI) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/album/5T23uxAysoGW9w9blVWTi5) | 4:05 | 2023-06-09 | 2023-08-14 |
 | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/track/7hV8vZMezoQdSdvsi70Ioa) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 4:05 | 2023-08-11 |  |

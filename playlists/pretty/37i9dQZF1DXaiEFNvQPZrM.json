@@ -1,12 +1,12 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 722817,
+  "num_followers": 722980,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2IzMWZhMDE5MzI0NDAxODUwYzU2MTFhN2I1MGZkYjYxNjMyMTU2",
+  "snapshot_id": "MCwxZGY0YTQzMWExYzM5ZmRlOTc2ZTE0ODYzY2JmNTdmZjQzY2ZjNGQ1",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "I'm Countryfied",
-        "url": "https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5"
+        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
       },
       "artists": [
         {
-          "name": "Mel McDaniel",
-          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 144186,
-      "name": "Louisiana Saturday Night",
-      "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
+      "duration_ms": 203373,
+      "name": "Things A Man Oughta Know",
+      "url": "https://open.spotify.com/track/3S0sk6DSTgesXsUSAEHNr5"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
-        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+        "name": "I'm Countryfied",
+        "url": "https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5"
       },
       "artists": [
         {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+          "name": "Mel McDaniel",
+          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
         }
       ],
-      "duration_ms": 203373,
-      "name": "Things A Man Oughta Know",
-      "url": "https://open.spotify.com/track/3S0sk6DSTgesXsUSAEHNr5"
+      "duration_ms": 144186,
+      "name": "Louisiana Saturday Night",
+      "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "A Thousand Memories",
-        "url": "https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb"
-      },
-      "artists": [
-        {
-          "name": "Rhett Akins",
-          "url": "https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24"
-        }
-      ],
-      "duration_ms": 243106,
-      "name": "That Ain't My Truck",
-      "url": "https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "If I Was a Cowboy",
         "url": "https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 195013,
       "name": "If I Was a Cowboy",
       "url": "https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "A Thousand Memories",
+        "url": "https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb"
+      },
+      "artists": [
+        {
+          "name": "Rhett Akins",
+          "url": "https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24"
+        }
+      ],
+      "duration_ms": 243106,
+      "name": "That Ain't My Truck",
+      "url": "https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR"
     },
     {
       "added_at": "2023-11-17 05:00:00",

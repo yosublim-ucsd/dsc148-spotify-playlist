@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 66188,
+  "num_followers": 66293,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTk1YjlhMWY3Yzg0Y2IzZjE5ZjJmNmI1NTc3MmQwMzEwMDMwNjIy",
+  "snapshot_id": "MCw2NWNmMDc5YmY4ZTZlYjMxOTQ0Y2VmNzJhZWY3ZDNhNDg0NjdhZjU5",
   "tracks": [
     {
       "added_at": "2023-11-17 08:38:10",
@@ -539,22 +539,18 @@
     {
       "added_at": "2023-11-17 08:38:10",
       "album": {
-        "name": "So Druff (D-Fence Remix)",
-        "url": "https://open.spotify.com/album/1Syx62VNKXvKBPZ84zQj1v"
+        "name": "Enter The Dome (Official Thunderdome 2022 Anthem)",
+        "url": "https://open.spotify.com/album/11f7M6Iutpt2PDvvxWdRuM"
       },
       "artists": [
         {
-          "name": "KNTRLVRLST",
-          "url": "https://open.spotify.com/artist/5C9HSvVi06YZftH6UVnd6V"
-        },
-        {
-          "name": "D-Fence",
-          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
         }
       ],
-      "duration_ms": 166950,
-      "name": "So Druff - D-Fence Remix",
-      "url": "https://open.spotify.com/track/1yDNPqk30hDMY2wTPuqQiu"
+      "duration_ms": 231102,
+      "name": "Enter The Dome - Official Thunderdome 2022 Anthem",
+      "url": "https://open.spotify.com/track/5wvfLTKIewrRfrZJRs3Qqf"
     },
     {
       "added_at": "2023-11-17 08:38:10",
@@ -579,18 +575,22 @@
     {
       "added_at": "2023-11-17 08:38:10",
       "album": {
-        "name": "Enter The Dome (Official Thunderdome 2022 Anthem)",
-        "url": "https://open.spotify.com/album/11f7M6Iutpt2PDvvxWdRuM"
+        "name": "So Druff (D-Fence Remix)",
+        "url": "https://open.spotify.com/album/1Syx62VNKXvKBPZ84zQj1v"
       },
       "artists": [
         {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+          "name": "KNTRLVRLST",
+          "url": "https://open.spotify.com/artist/5C9HSvVi06YZftH6UVnd6V"
+        },
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
         }
       ],
-      "duration_ms": 231102,
-      "name": "Enter The Dome - Official Thunderdome 2022 Anthem",
-      "url": "https://open.spotify.com/track/5wvfLTKIewrRfrZJRs3Qqf"
+      "duration_ms": 166950,
+      "name": "So Druff - D-Fence Remix",
+      "url": "https://open.spotify.com/track/1yDNPqk30hDMY2wTPuqQiu"
     },
     {
       "added_at": "2023-11-17 08:38:10",
@@ -651,6 +651,26 @@
       "duration_ms": 221368,
       "name": "Dope Sh!t",
       "url": "https://open.spotify.com/track/3NXA25q68QQgGVKPx4SIhs"
+    },
+    {
+      "added_at": "2023-11-17 08:38:10",
+      "album": {
+        "name": "Fat Beat",
+        "url": "https://open.spotify.com/album/4FxTlGHqQ4Xl6S5QByZEBl"
+      },
+      "artists": [
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        },
+        {
+          "name": "Killshot",
+          "url": "https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM"
+        }
+      ],
+      "duration_ms": 231600,
+      "name": "Fat Beat",
+      "url": "https://open.spotify.com/track/6uWksA4RzIKGlHNg4of8pV"
     },
     {
       "added_at": "2023-11-17 08:38:10",
@@ -727,26 +747,6 @@
     {
       "added_at": "2023-11-17 08:38:10",
       "album": {
-        "name": "Fat Beat",
-        "url": "https://open.spotify.com/album/4FxTlGHqQ4Xl6S5QByZEBl"
-      },
-      "artists": [
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        },
-        {
-          "name": "Killshot",
-          "url": "https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM"
-        }
-      ],
-      "duration_ms": 231600,
-      "name": "Fat Beat",
-      "url": "https://open.spotify.com/track/6uWksA4RzIKGlHNg4of8pV"
-    },
-    {
-      "added_at": "2023-11-17 08:38:10",
-      "album": {
         "name": "U Will Be Mine",
         "url": "https://open.spotify.com/album/1Z4SqaLqiOma9BMs8M8MQo"
       },
@@ -783,6 +783,30 @@
       "duration_ms": 161653,
       "name": "DANCEFLOOR SLAYER",
       "url": "https://open.spotify.com/track/7dqpISlr5xVC4eDID1jc5c"
+    },
+    {
+      "added_at": "2023-11-17 08:38:10",
+      "album": {
+        "name": "HYPER",
+        "url": "https://open.spotify.com/album/5nONZdOuEns5bTt2y6Mbcg"
+      },
+      "artists": [
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        },
+        {
+          "name": "BOMBSQUAD",
+          "url": "https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl"
+        },
+        {
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+        }
+      ],
+      "duration_ms": 206285,
+      "name": "HYPER",
+      "url": "https://open.spotify.com/track/4GbecipoI4oyDE148vjkde"
     },
     {
       "added_at": "2023-11-17 08:38:10",
@@ -843,18 +867,18 @@
     {
       "added_at": "2023-11-17 08:38:10",
       "album": {
-        "name": "Hardcore Chemical (Rulebreaking Hard Mix)",
-        "url": "https://open.spotify.com/album/0B5LofZay2fmX3K9pOIFcW"
+        "name": "Not Afraid to Fall",
+        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
       },
       "artists": [
         {
-          "name": "Restrained",
-          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
         }
       ],
-      "duration_ms": 96000,
-      "name": "Hardcore Chemical - Rulebreaking Hard Mix",
-      "url": "https://open.spotify.com/track/4vaXwFEcHq4yBTMmRBdK35"
+      "duration_ms": 185230,
+      "name": "Not Afraid to Fall",
+      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
     },
     {
       "added_at": "2023-11-17 08:38:10",
@@ -879,42 +903,18 @@
     {
       "added_at": "2023-11-17 08:38:10",
       "album": {
-        "name": "HYPER",
-        "url": "https://open.spotify.com/album/5nONZdOuEns5bTt2y6Mbcg"
+        "name": "Hardcore Chemical (Rulebreaking Hard Mix)",
+        "url": "https://open.spotify.com/album/0B5LofZay2fmX3K9pOIFcW"
       },
       "artists": [
         {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        },
-        {
-          "name": "BOMBSQUAD",
-          "url": "https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl"
-        },
-        {
-          "name": "Spitnoise",
-          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+          "name": "Restrained",
+          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
         }
       ],
-      "duration_ms": 206285,
-      "name": "HYPER",
-      "url": "https://open.spotify.com/track/4GbecipoI4oyDE148vjkde"
-    },
-    {
-      "added_at": "2023-11-17 08:38:10",
-      "album": {
-        "name": "Not Afraid to Fall",
-        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 185230,
-      "name": "Not Afraid to Fall",
-      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
+      "duration_ms": 96000,
+      "name": "Hardcore Chemical - Rulebreaking Hard Mix",
+      "url": "https://open.spotify.com/track/4vaXwFEcHq4yBTMmRBdK35"
     },
     {
       "added_at": "2023-11-17 08:38:10",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-11-17 08:38:10",
       "album": {
-        "name": "BE LOUDER",
-        "url": "https://open.spotify.com/album/6dTq1L6wEGnJWNaEVCsTGg"
-      },
-      "artists": [
-        {
-          "name": "Andy the Core",
-          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "BE LOUDER",
-      "url": "https://open.spotify.com/track/6ckT6ox1soFZMQluYlF6uG"
-    },
-    {
-      "added_at": "2023-11-17 08:38:10",
-      "album": {
         "name": "Without Respect",
         "url": "https://open.spotify.com/album/1HchmgP9OViO0fwt5IJGhw"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 205664,
       "name": "I'm A Raver",
       "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
+    },
+    {
+      "added_at": "2023-11-17 08:38:10",
+      "album": {
+        "name": "BE LOUDER",
+        "url": "https://open.spotify.com/album/6dTq1L6wEGnJWNaEVCsTGg"
+      },
+      "artists": [
+        {
+          "name": "Andy the Core",
+          "url": "https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "BE LOUDER",
+      "url": "https://open.spotify.com/track/6ckT6ox1soFZMQluYlF6uG"
     },
     {
       "added_at": "2023-11-17 08:38:10",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-11-17 08:38:10",
       "album": {
-        "name": "Woo",
-        "url": "https://open.spotify.com/album/3Zf6HFquFGMyFJrVCvp2bB"
-      },
-      "artists": [
-        {
-          "name": "Korsakoff",
-          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
-        }
-      ],
-      "duration_ms": 217652,
-      "name": "Woo",
-      "url": "https://open.spotify.com/track/0EpqkTQgogq6iHpeOwEoGh"
-    },
-    {
-      "added_at": "2023-11-17 08:38:10",
-      "album": {
         "name": "Psychopath",
         "url": "https://open.spotify.com/album/1lDlO2niOnrZPbzGwMez5e"
       },
@@ -1171,22 +1155,18 @@
     {
       "added_at": "2023-11-17 08:38:10",
       "album": {
-        "name": "The Ultimate Killing Machine",
-        "url": "https://open.spotify.com/album/4Go2MGwW5SXqoJCzYgmW23"
+        "name": "Woo",
+        "url": "https://open.spotify.com/album/3Zf6HFquFGMyFJrVCvp2bB"
       },
       "artists": [
         {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        },
-        {
-          "name": "Serouj Guidanian",
-          "url": "https://open.spotify.com/artist/401yqK30JbtGhF3zV07qzU"
+          "name": "Korsakoff",
+          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
         }
       ],
-      "duration_ms": 205846,
-      "name": "Here To Stay",
-      "url": "https://open.spotify.com/track/6Zvj3BSyp3lwyw9uSqsGpr"
+      "duration_ms": 217652,
+      "name": "Woo",
+      "url": "https://open.spotify.com/track/0EpqkTQgogq6iHpeOwEoGh"
     },
     {
       "added_at": "2023-11-17 08:38:10",
@@ -1203,6 +1183,26 @@
       "duration_ms": 202124,
       "name": "Beat My Drum",
       "url": "https://open.spotify.com/track/17RJrhF02qbO7jN0jU5mdQ"
+    },
+    {
+      "added_at": "2023-11-17 08:38:10",
+      "album": {
+        "name": "The Ultimate Killing Machine",
+        "url": "https://open.spotify.com/album/4Go2MGwW5SXqoJCzYgmW23"
+      },
+      "artists": [
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        },
+        {
+          "name": "Serouj Guidanian",
+          "url": "https://open.spotify.com/artist/401yqK30JbtGhF3zV07qzU"
+        }
+      ],
+      "duration_ms": 205846,
+      "name": "Here To Stay",
+      "url": "https://open.spotify.com/track/6Zvj3BSyp3lwyw9uSqsGpr"
     },
     {
       "added_at": "2023-11-17 08:38:10",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-11-17 08:38:10",
       "album": {
-        "name": "The Ultimate Sound",
-        "url": "https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW"
-      },
-      "artists": [
-        {
-          "name": "Neophyte",
-          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
-        }
-      ],
-      "duration_ms": 161419,
-      "name": "The Ultimate Sound",
-      "url": "https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g"
-    },
-    {
-      "added_at": "2023-11-17 08:38:10",
-      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/5NGidUj0aCwf9QLxMWomEy"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 223578,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0I6ZUfEYKF37J8UQhIVKBg"
+    },
+    {
+      "added_at": "2023-11-17 08:38:10",
+      "album": {
+        "name": "The Ultimate Sound",
+        "url": "https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW"
+      },
+      "artists": [
+        {
+          "name": "Neophyte",
+          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
+        }
+      ],
+      "duration_ms": 161419,
+      "name": "The Ultimate Sound",
+      "url": "https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g"
     },
     {
       "added_at": "2023-11-17 08:38:10",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2023-11-17 08:38:10",
       "album": {
+        "name": "Adrenaline (Never Surrender Remix)",
+        "url": "https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9"
+      },
+      "artists": [
+        {
+          "name": "Neophyte Records All Stars",
+          "url": "https://open.spotify.com/artist/2hVZTYGteTg6wpyXg8TNeE"
+        },
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 167996,
+      "name": "Adrenaline - Never Surrender Remix",
+      "url": "https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5"
+    },
+    {
+      "added_at": "2023-11-17 08:38:10",
+      "album": {
         "name": "The Gospel (Geck-o's Gabber Confession Remix)",
         "url": "https://open.spotify.com/album/0dkaXxnzrtl4qbG53b8nKo"
       },
@@ -1575,26 +1595,6 @@
       "duration_ms": 241500,
       "name": "We are One (Official Leaderz 2023 Anthem)",
       "url": "https://open.spotify.com/track/2wVnIK8OHuNAvmvq30EsSt"
-    },
-    {
-      "added_at": "2023-11-17 08:38:10",
-      "album": {
-        "name": "Adrenaline (Never Surrender Remix)",
-        "url": "https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9"
-      },
-      "artists": [
-        {
-          "name": "Neophyte Records All Stars",
-          "url": "https://open.spotify.com/artist/2hVZTYGteTg6wpyXg8TNeE"
-        },
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 167996,
-      "name": "Adrenaline - Never Surrender Remix",
-      "url": "https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5"
     },
     {
       "added_at": "2023-11-17 08:38:10",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2023-11-17 08:38:10",
       "album": {
-        "name": "Slugs 4 Snitches",
-        "url": "https://open.spotify.com/album/4g2EKX6UswnPDGqYVK1pBs"
-      },
-      "artists": [
-        {
-          "name": "Hellsystem",
-          "url": "https://open.spotify.com/artist/53EHsN2X6QI9xsmunKAW85"
-        },
-        {
-          "name": "Predator",
-          "url": "https://open.spotify.com/artist/39nubWTSdyGoDYpl3Wc5Zj"
-        }
-      ],
-      "duration_ms": 170742,
-      "name": "Slugs 4 Snitches",
-      "url": "https://open.spotify.com/track/6MHMcWZdrG6ZqqNdfLh2RM"
-    },
-    {
-      "added_at": "2023-11-17 08:38:10",
-      "album": {
         "name": "Demonic Playgrounds",
         "url": "https://open.spotify.com/album/23jLMFzSBYcGYrdu1f85NC"
       },
@@ -1787,6 +1767,26 @@
       "duration_ms": 188404,
       "name": "Demonic Playgrounds",
       "url": "https://open.spotify.com/track/1kiI7G35IZs0u4vtKX2Mne"
+    },
+    {
+      "added_at": "2023-11-17 08:38:10",
+      "album": {
+        "name": "Slugs 4 Snitches",
+        "url": "https://open.spotify.com/album/4g2EKX6UswnPDGqYVK1pBs"
+      },
+      "artists": [
+        {
+          "name": "Hellsystem",
+          "url": "https://open.spotify.com/artist/53EHsN2X6QI9xsmunKAW85"
+        },
+        {
+          "name": "Predator",
+          "url": "https://open.spotify.com/artist/39nubWTSdyGoDYpl3Wc5Zj"
+        }
+      ],
+      "duration_ms": 170742,
+      "name": "Slugs 4 Snitches",
+      "url": "https://open.spotify.com/track/6MHMcWZdrG6ZqqNdfLh2RM"
     },
     {
       "added_at": "2023-11-17 08:38:10",

@@ -162,10 +162,28 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 297913,
       "name": "Cut Me Down",
       "url": "https://open.spotify.com/track/6g33SNfqUoIcxnNpGfzWak"
+    },
+    {
+      "album": {
+        "name": "Unintentional",
+        "url": "https://open.spotify.com/album/02Gdfad4w6K6LVJQKU8mwO"
+      },
+      "artists": [
+        {
+          "name": "Njerae",
+          "url": "https://open.spotify.com/artist/3ZYEtzcOgxeYX1DdaAYjuO"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297913,
+      "name": "Cut Me Down",
+      "url": "https://open.spotify.com/track/7xoO1pGXQrZ0huDZdsh59F"
     },
     {
       "album": {

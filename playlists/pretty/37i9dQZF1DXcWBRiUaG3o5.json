@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1306735,
+  "num_followers": 1306636,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYTYxNDNjYzk1ZWNiYjc5ZDY4YjM5NDk3NDk1YjExZTZiYzUzMjUz",
+  "snapshot_id": "MCw3NmYzNjIxY2NkM2Y0ZGM0ZDEyNWJlYzcyZDRkZWRjZmZmODE3YWVl",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Haven (from Life Is Strange)",
-        "url": "https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Haven (from Life Is Strange)",
-      "url": "https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -171,6 +155,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 230518,
+      "name": "Even the Darkness Has Arms",
+      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Are You Happy Now?",
         "url": "https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9"
       },
@@ -187,18 +187,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Sleeping Operator",
-        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
+        "name": "Haven (from Life Is Strange)",
+        "url": "https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE"
       },
       "artists": [
         {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
         }
       ],
-      "duration_ms": 230518,
-      "name": "Even the Darkness Has Arms",
-      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
+      "duration_ms": 172500,
+      "name": "Haven (from Life Is Strange)",
+      "url": "https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -315,26 +315,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 240171,
-      "name": "Walk Above the City",
-      "url": "https://open.spotify.com/track/2i7sd9qKptLrkXLkwAOX15"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Slow Tide",
         "url": "https://open.spotify.com/album/1OUc76NQYG5Fb9gXH6G8TA"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 231706,
       "name": "El B\u00faho",
       "url": "https://open.spotify.com/track/4TtrTorJrVMEIprmQydrVv"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 240171,
+      "name": "Walk Above the City",
+      "url": "https://open.spotify.com/track/2i7sd9qKptLrkXLkwAOX15"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Nocturne EP",
+        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 268626,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Lonely Nights",
         "url": "https://open.spotify.com/album/0vJAXq86NlUT3gAKfuohvm"
       },
@@ -535,18 +551,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Nocturne EP",
-        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
+        "name": "On Hold",
+        "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
       },
       "artists": [
         {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
         }
       ],
-      "duration_ms": 268626,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST"
+      "duration_ms": 216252,
+      "name": "Top to Toe",
+      "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -567,18 +583,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "On Hold",
-        "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
       "artists": [
         {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 216252,
-      "name": "Top to Toe",
-      "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
+      "duration_ms": 163973,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -599,22 +615,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 163973,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Doomsday",
         "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
       },
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Siren Song",
-        "url": "https://open.spotify.com/album/2muIm4KF0yGt8T630su2Vq"
-      },
-      "artists": [
-        {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
-        }
-      ],
-      "duration_ms": 183767,
-      "name": "Siren Song",
-      "url": "https://open.spotify.com/track/3nKCmdfFSB49NPGRsfD4wh"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Party",
         "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 351309,
       "name": "Imagining My Man",
       "url": "https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Siren Song",
+        "url": "https://open.spotify.com/album/2muIm4KF0yGt8T630su2Vq"
+      },
+      "artists": [
+        {
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
+        }
+      ],
+      "duration_ms": 183767,
+      "name": "Siren Song",
+      "url": "https://open.spotify.com/track/3nKCmdfFSB49NPGRsfD4wh"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Before the Sun",
-        "url": "https://open.spotify.com/album/4tCs31ECl6vTX2t5hVOeN2"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 168853,
-      "name": "Before the Sun",
-      "url": "https://open.spotify.com/track/5g54tKWuCOrHmLppzxzQrt"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Barchords",
         "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
       },
@@ -763,22 +747,6 @@
       "duration_ms": 236720,
       "name": "Lost In The Light",
       "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Nothing\u2019s Gonna Happen",
-      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -799,18 +767,34 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "The Baby",
-        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
+        "name": "Before the Sun",
+        "url": "https://open.spotify.com/album/4tCs31ECl6vTX2t5hVOeN2"
       },
       "artists": [
         {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 210173,
-      "name": "Is There Something in the Movies?",
-      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
+      "duration_ms": 168853,
+      "name": "Before the Sun",
+      "url": "https://open.spotify.com/track/5g54tKWuCOrHmLppzxzQrt"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Nothing\u2019s Gonna Happen",
+      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -831,22 +815,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Under Dusk",
-        "url": "https://open.spotify.com/album/6P2il2hKvAhUel4zPM0Dpp"
+        "name": "The Baby",
+        "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
       },
       "artists": [
         {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
-        },
-        {
-          "name": "Enna Blake",
-          "url": "https://open.spotify.com/artist/3qIZ7QSE210xVDfAHDpXmb"
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
         }
       ],
-      "duration_ms": 219186,
-      "name": "Under Dusk",
-      "url": "https://open.spotify.com/track/3TbH823KFCLfwo8elqPtpj"
+      "duration_ms": 210173,
+      "name": "Is There Something in the Movies?",
+      "url": "https://open.spotify.com/track/1n96oXchJtgq5FGyvVLrvE"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -871,18 +851,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Build A Problem",
-        "url": "https://open.spotify.com/album/2oMbQ7W1QddUdasTYrJdzE"
+        "name": "Under Dusk",
+        "url": "https://open.spotify.com/album/6P2il2hKvAhUel4zPM0Dpp"
       },
       "artists": [
         {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        },
+        {
+          "name": "Enna Blake",
+          "url": "https://open.spotify.com/artist/3qIZ7QSE210xVDfAHDpXmb"
         }
       ],
-      "duration_ms": 199384,
-      "name": "Cool Girl",
-      "url": "https://open.spotify.com/track/51ZW0OUvhcO0uyXR3E68bh"
+      "duration_ms": 219186,
+      "name": "Under Dusk",
+      "url": "https://open.spotify.com/track/3TbH823KFCLfwo8elqPtpj"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -899,6 +883,22 @@
       "duration_ms": 332360,
       "name": "Wake Me",
       "url": "https://open.spotify.com/track/6tBTW1d7ikxXEfkhGQjPHi"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Build A Problem",
+        "url": "https://open.spotify.com/album/2oMbQ7W1QddUdasTYrJdzE"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Cool Girl",
+      "url": "https://open.spotify.com/track/51ZW0OUvhcO0uyXR3E68bh"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Big Bend (An Original Soundtrack for Public Television)",
-        "url": "https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv"
-      },
-      "artists": [
-        {
-          "name": "Explosions In The Sky",
-          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
-        }
-      ],
-      "duration_ms": 125408,
-      "name": "Woodpecker",
-      "url": "https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Every Kingdom (Deluxe Version)",
         "url": "https://open.spotify.com/album/1nJsbWm3Yy2DW1KIc1OKle"
       },
@@ -1047,34 +1031,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "La Lune",
-        "url": "https://open.spotify.com/album/1q07FQXhMgTtjMqOHXycAA"
+        "name": "Big Bend (An Original Soundtrack for Public Television)",
+        "url": "https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "Explosions In The Sky",
+          "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
         }
       ],
-      "duration_ms": 188426,
-      "name": "La Lune",
-      "url": "https://open.spotify.com/track/36DcfX0BSdwNHPqsBPQ1AH"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Golden (Acoustic)",
-        "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
-      },
-      "artists": [
-        {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
-        }
-      ],
-      "duration_ms": 307312,
-      "name": "Golden (Acoustic)",
-      "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
+      "duration_ms": 125408,
+      "name": "Woodpecker",
+      "url": "https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1107,6 +1075,38 @@
       "duration_ms": 173927,
       "name": "Mother Song",
       "url": "https://open.spotify.com/track/7BAKX6s6fXzAJhzzsxGYW2"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "La Lune",
+        "url": "https://open.spotify.com/album/1q07FQXhMgTtjMqOHXycAA"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 188426,
+      "name": "La Lune",
+      "url": "https://open.spotify.com/track/36DcfX0BSdwNHPqsBPQ1AH"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Golden (Acoustic)",
+        "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "duration_ms": 307312,
+      "name": "Golden (Acoustic)",
+      "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Granny Music",
-        "url": "https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Millionaire",
-      "url": "https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "the death of you & i - EP",
         "url": "https://open.spotify.com/album/611A5mdzrmqo8cL5B2zFor"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 201892,
       "name": "Can't Get My Head Around Loving You",
       "url": "https://open.spotify.com/track/7zZMiYg8kdGBEgXFjdMO6G"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Granny Music",
+        "url": "https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1343,50 +1343,18 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Campfire, Vol. 1",
-        "url": "https://open.spotify.com/album/5iAggKoFENKm9glKjYBivz"
+        "name": "God I Hope This Year Is Better Than the Last",
+        "url": "https://open.spotify.com/album/0uc3cq7SlAfQwTmC26p0zL"
       },
       "artists": [
         {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
         }
       ],
-      "duration_ms": 205454,
-      "name": "Let's Go Outside - Campfire Version",
-      "url": "https://open.spotify.com/track/6TTY6RUXmtl8VgKzm5szBO"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Wild Turkey",
-        "url": "https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "Wild Turkey",
-      "url": "https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Song Spells, No.1: Cedarsmoke",
-        "url": "https://open.spotify.com/album/3Q4S1bRlEEeztfrM4KsMFQ"
-      },
-      "artists": [
-        {
-          "name": "Sea Wolf",
-          "url": "https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Young Bodies",
-      "url": "https://open.spotify.com/track/4BhEQsifqbzCdknLf52O1G"
+      "duration_ms": 236849,
+      "name": "God I Hope This Year Is Better Than The Last",
+      "url": "https://open.spotify.com/track/68HuYxpnrwRnXmIo7xcYmY"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1407,18 +1375,50 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "God I Hope This Year Is Better Than the Last",
-        "url": "https://open.spotify.com/album/0uc3cq7SlAfQwTmC26p0zL"
+        "name": "Song Spells, No.1: Cedarsmoke",
+        "url": "https://open.spotify.com/album/3Q4S1bRlEEeztfrM4KsMFQ"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+          "name": "Sea Wolf",
+          "url": "https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x"
         }
       ],
-      "duration_ms": 236849,
-      "name": "God I Hope This Year Is Better Than The Last",
-      "url": "https://open.spotify.com/track/68HuYxpnrwRnXmIo7xcYmY"
+      "duration_ms": 209266,
+      "name": "Young Bodies",
+      "url": "https://open.spotify.com/track/4BhEQsifqbzCdknLf52O1G"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Wild Turkey",
+        "url": "https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "Wild Turkey",
+      "url": "https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Campfire, Vol. 1",
+        "url": "https://open.spotify.com/album/5iAggKoFENKm9glKjYBivz"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "duration_ms": 205454,
+      "name": "Let's Go Outside - Campfire Version",
+      "url": "https://open.spotify.com/track/6TTY6RUXmtl8VgKzm5szBO"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1451,6 +1451,22 @@
       "duration_ms": 212634,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Sweet Return",
+        "url": "https://open.spotify.com/album/3SVbamqXTzLhP9x6yDeHSK"
+      },
+      "artists": [
+        {
+          "name": "Diamond Thug",
+          "url": "https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX"
+        }
+      ],
+      "duration_ms": 135077,
+      "name": "Sweet Return",
+      "url": "https://open.spotify.com/track/5nLX5d1k44smyu9OT7tydf"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "The Moons Detriment",
-        "url": "https://open.spotify.com/album/40uRLasPxbgmHu5yfueU2m"
-      },
-      "artists": [
-        {
-          "name": "Shannon Lay",
-          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "The Moons Detriment",
-      "url": "https://open.spotify.com/track/6dRKRVyjzxa2efBCXZez6R"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Maybe Tomorrow",
         "url": "https://open.spotify.com/album/5UfmWpaxxhLd6f0ZdKnHaT"
       },
@@ -1519,22 +1519,6 @@
       "duration_ms": 225744,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/7xObdqm0oTTUyerRM4EB1N"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Sweet Return",
-        "url": "https://open.spotify.com/album/3SVbamqXTzLhP9x6yDeHSK"
-      },
-      "artists": [
-        {
-          "name": "Diamond Thug",
-          "url": "https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX"
-        }
-      ],
-      "duration_ms": 135077,
-      "name": "Sweet Return",
-      "url": "https://open.spotify.com/track/5nLX5d1k44smyu9OT7tydf"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1587,22 +1571,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Year In The Kingdom",
-        "url": "https://open.spotify.com/album/50UnH0t4AHlGSa1sqqxYAg"
-      },
-      "artists": [
-        {
-          "name": "J. Tillman",
-          "url": "https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC"
-        }
-      ],
-      "duration_ms": 214640,
-      "name": "Howling Light",
-      "url": "https://open.spotify.com/track/0wZ5Yxp0MDP7aAsc68UF87"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Hummingbird",
         "url": "https://open.spotify.com/album/3E5U6w1a0Zw9BDFAzo3giD"
       },
@@ -1615,6 +1583,22 @@
       "duration_ms": 317266,
       "name": "Hummingbird",
       "url": "https://open.spotify.com/track/2eZZZSbd7OQ6g2m9ww9MXH"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Year In The Kingdom",
+        "url": "https://open.spotify.com/album/50UnH0t4AHlGSa1sqqxYAg"
+      },
+      "artists": [
+        {
+          "name": "J. Tillman",
+          "url": "https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC"
+        }
+      ],
+      "duration_ms": 214640,
+      "name": "Howling Light",
+      "url": "https://open.spotify.com/track/0wZ5Yxp0MDP7aAsc68UF87"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1647,6 +1631,22 @@
       "duration_ms": 186560,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/09GKItLsZLhzxdz70rKhCt"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Some Kind of Heaven",
+        "url": "https://open.spotify.com/album/6XeaMbpgFQXOvE0QtQOIhH"
+      },
+      "artists": [
+        {
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+        }
+      ],
+      "duration_ms": 310799,
+      "name": "Some Kind of Heaven",
+      "url": "https://open.spotify.com/track/2lObD7vBRT6ZjyORWDIzLD"
     }
   ],
   "unique_name": "Evening Acoustic",

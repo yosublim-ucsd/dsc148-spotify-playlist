@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: John Francis Flynn \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,763 likes - 113 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,369 likes - 113 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 112 | [Untying a Knot](https://open.spotify.com/track/3savyEd2opkZyZr9w62iIe) | [Mutual Benefit](https://open.spotify.com/artist/0AUwa5xmiy57qdGlOksvea) | [Untying A Knot](https://open.spotify.com/album/7LiNxzSxuNnaRs4Rw0wlbh) | 4:12 |
 | 113 | [Back On My Feet](https://open.spotify.com/track/3r630b4qT5TRkpUyIrIQNI) | [lilo](https://open.spotify.com/artist/0UHZYAHCtBGKef12trPQrL) | [Back On My Feet / Addicted To Love](https://open.spotify.com/album/4ztly9uAqCzneeKPNId3oe) | 3:19 |
 
-Snapshot ID: `MCw0NzFiNDkyMjI2ODk3MWUwMGQzOWNkZWMyMDRjZTVjMmI2NzJmY2Zl`
+Snapshot ID: `MCxjNGJjNWMzNDkxMGY2NzQzOWQyNzFkMmI2OTgyNGQ0ZWJjZjY5Njg0`

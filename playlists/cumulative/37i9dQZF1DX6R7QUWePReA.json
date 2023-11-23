@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137880,
+      "name": "Christmas Island",
+      "url": "https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3"
+    },
+    {
+      "album": {
         "name": "Christmas Jollies (Tom Moulton Remix;2022 - Remaster)",
         "url": "https://open.spotify.com/album/2nEDg0fIQFVbPCcuSNDBpK"
       },

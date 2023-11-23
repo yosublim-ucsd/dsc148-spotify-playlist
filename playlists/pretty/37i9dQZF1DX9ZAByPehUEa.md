@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,836 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,958 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 35 | [Be The One \(feat\. Yung Bae\)](https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr) | [Disco Dom](https://open.spotify.com/artist/3q8DkzC4UfA5lKG1YG4004), [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Inferno \(No\. 1\)](https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG) | 4:56 |
 | 36 | [I Miss Having Someone To Talk To](https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [I Miss Having Someone To Talk To](https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR) | 3:43 |
 | 37 | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/track/6tRzd5IvfCywkLX8OdTDiB) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 3:22 |
-| 38 | [Love You Better](https://open.spotify.com/track/1TvazP1ZwXFtJnkO3FcGsD) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Love You Better](https://open.spotify.com/album/38ra4cHiMOZQRLZQrrTFp1) | 3:14 |
-| 39 | [Never Knew Love Like This Before](https://open.spotify.com/track/7oNT84XA7GAxohEKbTGDMZ) | [QUINZE](https://open.spotify.com/artist/20gDD3CGKvzoW5nVHT8oPa), [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Never Knew Love Like This Before](https://open.spotify.com/album/61ltNUgRtP1DymAGD7XuE3) | 3:02 |
+| 38 | [Never Knew Love Like This Before](https://open.spotify.com/track/7oNT84XA7GAxohEKbTGDMZ) | [QUINZE](https://open.spotify.com/artist/20gDD3CGKvzoW5nVHT8oPa), [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Never Knew Love Like This Before](https://open.spotify.com/album/61ltNUgRtP1DymAGD7XuE3) | 3:02 |
+| 39 | [Love You Better](https://open.spotify.com/track/1TvazP1ZwXFtJnkO3FcGsD) | [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Love You Better](https://open.spotify.com/album/38ra4cHiMOZQRLZQrrTFp1) | 3:14 |
 | 40 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 |
 | 41 | [Better Day \(feat\. Nile Rodgers & Josh Barry\)](https://open.spotify.com/track/3PdLMTut7spFf9leWqBrjK) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Josh Barry](https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6) | [Better Day \(feat\. Nile Rodgers & Josh Barry\)](https://open.spotify.com/album/67B57RL961NRFHyce5dYEK) | 2:29 |
 | 42 | [Sky's the Limit \- Edit](https://open.spotify.com/track/1CXE6v4j5TkObA01MtchbP) | [Full Intention](https://open.spotify.com/artist/1tayOcNuoYWnrXeuh1HhXB) | [Sky's the Limit \(Edit\)](https://open.spotify.com/album/5pQwvmqU1IU8VdvqBGuSl1) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 49 | [Celebration](https://open.spotify.com/track/5aFK3KNMaCkMKJWeU78xB4) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Celebration](https://open.spotify.com/album/69TDYss3NTUG1MlHq1AkvK) | 2:39 |
 | 50 | [Moves](https://open.spotify.com/track/07DuoTCTocHk7y3d8MImks) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Moves EP](https://open.spotify.com/album/7sAOz7qlL8UyeRtFyVNWcj) | 3:43 |
 
-Snapshot ID: `MCxhMWMzYmUxMDIyNzQ4MmIzNDQ3OTEyZWY0OTU1MDgyODJhMTZlMDRk`
+Snapshot ID: `MCxlNWVkZDgwMTE2YzFlNDM3NmM4NzczNTI0OTc3ZDk1MDZmY2Y3ZWFj`

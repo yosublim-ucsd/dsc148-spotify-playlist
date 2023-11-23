@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-526 songs - 1 day 14 hr 6 min
+528 songs - 1 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [Lay Your Hands On Me](https://open.spotify.com/track/4oNktvBDV8PNZqZh6MgwZ3) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [New Jersey \(Deluxe Edition\)](https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR) | 5:58 | 2020-12-08 | 2022-07-26 |
 | [Legs \- 2008 Remaster](https://open.spotify.com/track/7t6CAWplijBj4sdl0q3z0e) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:33 | 2020-12-08 |  |
 | [Let It Go](https://open.spotify.com/track/1aR6W01r094onPc4O2avEp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:43 | 2020-12-08 |  |
-| [Let Love Rule](https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Let Love Rule](https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb) | 5:42 | 2020-12-08 |  |
+| [Let Love Rule](https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Let Love Rule](https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb) | 5:42 | 2020-12-08 | 2023-11-23 |
 | [Let's Go](https://open.spotify.com/track/43G3McVkRa8V7oGQzfQuRr) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Candy\-O](https://open.spotify.com/album/4UFgeduzEZegQE74xUwI6J) | 3:33 | 2022-03-28 |  |
 | [Life Is Real \(Song For Lennon\) \- Remastered 2011](https://open.spotify.com/track/6xYHezItSIXOpxMvrVRJTb) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Hot Space \(2011 Remaster\)](https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1) | 3:31 | 2020-12-08 | 2022-06-13 |
 | [Like A Rock](https://open.spotify.com/track/5Jno63iv0mzu5OZ28asYbE) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Like A Rock](https://open.spotify.com/album/5zkrBl6rudGLk8YhscRbjl) | 5:55 | 2020-12-08 |  |
@@ -264,6 +264,7 @@
 | [Love Walks In](https://open.spotify.com/track/6FRQGRdhueJGTKiYnirDNy) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [5150](https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq) | 5:10 | 2020-12-08 |  |
 | [Love Will Tear Us Apart](https://open.spotify.com/track/2JO3HwMRPeya8bXbtbyPcf) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 3:26 | 2020-12-08 | 2022-07-28 |
 | [Love Will Tear Us Apart \- 2020 Remaster](https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Love Will Tear Us Apart](https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G) | 3:28 | 2020-12-08 |  |
+| [Lovin' Every Minute of It](https://open.spotify.com/track/1N9KAY1WftAtnTqbf8ULKZ) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Lovin' Every Minute Of It](https://open.spotify.com/album/6eUcLefUAxqjKk30UvlbAG) | 3:33 | 2022-11-17 |  |
 | [Lovin' Every Minute Of It](https://open.spotify.com/track/25p61cWPCWnEiFDgkHDAjO) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [LOVIN' EVERY MINUTE OF IT](https://open.spotify.com/album/643kixg9Mrw0e9OxJQngMx) | 3:33 | 2020-12-08 | 2022-07-24 |
 | [Lovin' Every Minute of It](https://open.spotify.com/track/7wxRteSKMVVYD570x3D7bx) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Lovin' Every Minute Of It](https://open.spotify.com/album/6JRbpzSriG4dCzBWQCVcVT) | 3:33 | 2020-12-08 | 2023-10-25 |
 | [Made of Stone \- Remastered](https://open.spotify.com/track/0bZelokqNQicLQfLU1Ayw8) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:14 | 2020-12-08 |  |
@@ -322,7 +323,7 @@
 | [People Have the Power](https://open.spotify.com/track/4GbnjrrobeVLCl1FQ5C0OY) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe) | 5:10 | 2020-12-08 | 2023-04-25 |
 | [Permanent Vacation](https://open.spotify.com/track/0neVe9ZjvNk1ag0SrI2ra0) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:49 | 2020-12-08 | 2022-07-29 |
 | [Plainsong \- Remastered](https://open.spotify.com/track/4gcfxHL1iRgP0RHCDYMNIo) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 5:17 | 2020-12-08 | 2022-07-06 |
-| [Play The Game \- Remastered 2011](https://open.spotify.com/track/4b0mX1GtrQLiUW9jpb6Xcx) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:32 | 2022-11-17 |  |
+| [Play The Game \- Remastered 2011](https://open.spotify.com/track/4b0mX1GtrQLiUW9jpb6Xcx) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:32 | 2022-11-17 | 2023-11-23 |
 | [Play The Game \- Remastered 2011](https://open.spotify.com/track/5p6xhgQCwzX0G9PadMU9GA) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:32 | 2020-12-08 | 2022-07-27 |
 | [Play the Game Tonight](https://open.spotify.com/track/5JQaG1VrTu4fbieUsDUdrt) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Vinyl Confessions](https://open.spotify.com/album/31kDP6XF3s8dIt0iGFS4PX) | 3:27 | 2020-12-08 |  |
 | [Playing with the Boys \- From "Top Gun" Original Soundtrack](https://open.spotify.com/track/0Ag8WW9OeJNnq7inwkqaxL) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [TOP GUN/SOUNDTRACK](https://open.spotify.com/album/0aAtSw6p6dKW33Azdc0Ihq) | 3:54 | 2022-05-30 | 2022-07-26 |
@@ -391,6 +392,7 @@
 | [Slave \- Remastered](https://open.spotify.com/track/0oM5Z3MGSOieWT6ObRQ2Uj) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 6:32 | 2020-12-08 | 2022-07-26 |
 | [Smokin' In The Boys Room](https://open.spotify.com/track/0TiRPD1YD6Ox3bUujwXCQa) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Theatre of Pain](https://open.spotify.com/album/18fYN6Hlig5t7ObBfQYUPe) | 3:28 | 2020-12-08 | 2022-07-29 |
 | [Smokin' In The Boys Room](https://open.spotify.com/track/2gvgvbokPJZ7Uw5u2m5LeP) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Theatre Of Pain \(Deluxe Version\)](https://open.spotify.com/album/317PMJr7FxxDrsjJWydYVb) | 3:28 | 2020-12-08 | 2023-11-18 |
+| [Smokin' In The Boys Room \(2021\- Remaster\)](https://open.spotify.com/track/4dT2PKLVkBCrakB8C9Fk8A) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Theatre of Pain \(40th Anniversary; 2021 \- Remaster\)](https://open.spotify.com/album/4fDqaa3OmWQcD6Q1tSEupF) | 3:26 | 2022-11-17 |  |
 | [Snowblind](https://open.spotify.com/track/7rcKKQTJLSno5RRDXbskGN) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Paradise Theatre](https://open.spotify.com/album/6PhLTeuN0G894bdSBTCwUF) | 4:57 | 2020-12-08 | 2022-07-29 |
 | [Someone Somewhere \(In Summertime\)](https://open.spotify.com/track/4wJq75UFYtFYbMO2KBBnlw) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [New Gold Dream \(81/82/83/84\)](https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj) | 4:37 | 2020-12-08 |  |
 | [Someone Somewhere \(In Summertime\)](https://open.spotify.com/track/4GAODfoys7MDfMYXayR4Sv) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [New Gold Dream \(81/82/83/84\)](https://open.spotify.com/album/1m8ybrw0umxg8FbBC3pH7K) | 4:37 | 2020-12-08 | 2022-07-25 |

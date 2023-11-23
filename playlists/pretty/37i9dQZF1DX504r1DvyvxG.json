@@ -1,12 +1,12 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2658580,
+  "num_followers": 2658730,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjAwMmNmZWI5ZDFjOTgxMzQ1MDNhM2Q5Y2M0YWEzZDFkOWFiN2Zi",
+  "snapshot_id": "MCwyZmJiNzc4ODc1OGIwN2JhNWM5NDhjZTAzNThkMmQxNGVmMzg5ODM2",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 295626,
-      "name": "Gold Dust Woman - 2004 Remaster",
-      "url": "https://open.spotify.com/track/2w3ScXudq4aD3K5HFO5xvx"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Born To Run",
         "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
       },
@@ -799,18 +783,34 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Songs Of Leonard Cohen",
-        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
       "artists": [
         {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 229293,
-      "name": "Suzanne",
-      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
+      "duration_ms": 295626,
+      "name": "Gold Dust Woman - 2004 Remaster",
+      "url": "https://open.spotify.com/track/2w3ScXudq4aD3K5HFO5xvx"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Chelsea Girl",
+        "url": "https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU"
+      },
+      "artists": [
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+        }
+      ],
+      "duration_ms": 210653,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Simple Dreams",
-        "url": "https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry"
+        "name": "Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5"
       },
       "artists": [
         {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
         }
       ],
-      "duration_ms": 239399,
-      "name": "Blue Bayou",
-      "url": "https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU"
+      "duration_ms": 229293,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Chelsea Girl",
-        "url": "https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU"
+        "name": "Simple Dreams",
+        "url": "https://open.spotify.com/album/15lJi5fAnWPltCKBTUbTry"
       },
       "artists": [
         {
-          "name": "Nico",
-          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
         }
       ],
-      "duration_ms": 210653,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs"
+      "duration_ms": 239399,
+      "name": "Blue Bayou",
+      "url": "https://open.spotify.com/track/3zxklD2EGecZre9MjEEvIU"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Life & Times",
+        "url": "https://open.spotify.com/album/25K3YPiFx7Yb7ms10m58Vt"
+      },
+      "artists": [
+        {
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "Bad, Bad Leroy Brown",
+      "url": "https://open.spotify.com/track/2r3XNMon9K7bl2KTtHsaQO"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "San Francisco Days",
         "url": "https://open.spotify.com/album/75BiePy3TDKg9or1NKm0ov"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 287720,
       "name": "Where Do You Go To (My Lovely) - Re-Recorded",
       "url": "https://open.spotify.com/track/6M665tf7ZKQzUFA5yOrUE4"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Life & Times",
-        "url": "https://open.spotify.com/album/25K3YPiFx7Yb7ms10m58Vt"
-      },
-      "artists": [
-        {
-          "name": "Jim Croce",
-          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "Bad, Bad Leroy Brown",
-      "url": "https://open.spotify.com/track/2r3XNMon9K7bl2KTtHsaQO"
     },
     {
       "added_at": "2023-03-31 04:00:00",

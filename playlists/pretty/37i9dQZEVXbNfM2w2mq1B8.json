@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Bulgaria.",
-  "num_followers": 14440,
+  "num_followers": 14450,
   "original_name": "Top 50 - Bulgaria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzUzOTMxMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzU0MDE3NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "Ulitsata",
         "url": "https://open.spotify.com/album/0ayda6ZTtMLDwW6KF2YZMJ"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4X99ol0n6puMQpiQyMxHJn"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "\u041a'\u044a\u0432 \u0441\u044a\u043c \u044f\u043a",
         "url": "https://open.spotify.com/album/7j3nIj23kSaqcZ0bYaWswl"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/6z6PaDoMisMAHCB2OKwsrf"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "\u041c\u043e\u043d\u043e\u043f\u043e\u043b",
         "url": "https://open.spotify.com/album/2u1eRbwrIxnHDr3ZrJquPW"
@@ -61,27 +61,7 @@
       "url": "https://open.spotify.com/track/5UHIkr0EzHVc1aCvXArWRr"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
-      "album": {
-        "name": "\u041f\u043e, \u043f\u043e, \u043f\u043e",
-        "url": "https://open.spotify.com/album/2DnO6wHygXfwSr18zUbPdl"
-      },
-      "artists": [
-        {
-          "name": "Galena",
-          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
-        },
-        {
-          "name": "Azis",
-          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
-        }
-      ],
-      "duration_ms": 241558,
-      "name": "\u041f\u043e, \u043f\u043e, \u043f\u043e",
-      "url": "https://open.spotify.com/track/5cnMyNarUAcwZ6GkXguSDT"
-    },
-    {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "MRUSNO",
         "url": "https://open.spotify.com/album/2e1LIrta3mP1uOui80H8Lj"
@@ -101,7 +81,7 @@
       "url": "https://open.spotify.com/track/28c39bRqOQYmEnnxTF9Zru"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "MARGINALA",
         "url": "https://open.spotify.com/album/5gDt0JJ8LDNz22Qt0FNH9i"
@@ -121,7 +101,7 @@
       "url": "https://open.spotify.com/track/0QW4josN9fFAy5cbN4oHHh"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -137,7 +117,27 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
+      "album": {
+        "name": "\u041f\u043e, \u043f\u043e, \u043f\u043e",
+        "url": "https://open.spotify.com/album/2DnO6wHygXfwSr18zUbPdl"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        },
+        {
+          "name": "Azis",
+          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
+        }
+      ],
+      "duration_ms": 241558,
+      "name": "\u041f\u043e, \u043f\u043e, \u043f\u043e",
+      "url": "https://open.spotify.com/track/5cnMyNarUAcwZ6GkXguSDT"
+    },
+    {
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "\u041e\u0431\u0438\u0447\u0430\u043c \u0442\u0435, \u0442\u0438 \u043c\u0435\u043d\u0435 - \u043d\u0435",
         "url": "https://open.spotify.com/album/4sSVZfarKHR318eTUD2avZ"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/2R3jE3iK7C1Ok8eCuIFCmy"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "Alcohol",
         "url": "https://open.spotify.com/album/57UKx4LXqW0P7PmT9OHXw8"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/1Oxshg4204lRdcogzvdP4x"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
@@ -189,27 +189,7 @@
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 260111,
-      "name": "IDGAF (feat. Yeat)",
-      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
-    },
-    {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "\u0415\u043b\u0430, \u0425\u0430\u0431\u0438\u0431\u0438",
         "url": "https://open.spotify.com/album/4yarZg2w7Qn15Nc1lDecVD"
@@ -229,7 +209,27 @@
       "url": "https://open.spotify.com/track/0mOFdyp76eRHMi09yTolXS"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 260111,
+      "name": "IDGAF (feat. Yeat)",
+      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
+    },
+    {
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "\u041f\u043e\u043b\u0443\u0434\u044f\u0445",
         "url": "https://open.spotify.com/album/7gJItUuU2u9TynYjbMB7QP"
@@ -249,23 +249,7 @@
       "url": "https://open.spotify.com/track/5SVhcxTgaQjQZBg8bFWiAV"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
-    },
-    {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "MAZNA",
         "url": "https://open.spotify.com/album/3cugOGZrC7vLybuDCJ3L0B"
@@ -281,7 +265,23 @@
       "url": "https://open.spotify.com/track/6fDWIHsi9yw805Op5G6dtD"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+    },
+    {
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "\u0414\u0440\u0430\u0441\u043a\u0430\u0439 \u043a\u043b\u0435\u0447\u043a\u0430\u0442\u0430",
         "url": "https://open.spotify.com/album/2qq6QeRqXDYov7JUxXkEt7"
@@ -297,71 +297,27 @@
       "url": "https://open.spotify.com/track/5zGNZb89Vq33vOvyqjgYvF"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
-        "name": "\u041c\u0430\u043b\u043a\u0430\u0442\u0430 \u0431\u0435\u043b\u044f",
-        "url": "https://open.spotify.com/album/30tRJ14dRISdoMJeedfayf"
+        "name": "\u0411\u0430\u0432\u0430\u0440\u0438\u044f",
+        "url": "https://open.spotify.com/album/2yFMOSTwQWSgBkR3wDA9YG"
       },
       "artists": [
         {
-          "name": "Djordan",
-          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "\u041c\u0430\u043b\u043a\u0430\u0442\u0430 \u0431\u0435\u043b\u044f",
-      "url": "https://open.spotify.com/track/2Fs3HuNZQ2QK0Qcfr19L8Y"
-    },
-    {
-      "added_at": "2023-11-21 08:31:05",
-      "album": {
-        "name": "Vtori dom",
-        "url": "https://open.spotify.com/album/6LY6OXijZsm3DHTS9GuvNl"
-      },
-      "artists": [
+          "name": "VANE$$A",
+          "url": "https://open.spotify.com/artist/12a4KgFut39rBB8WjeN2oL"
+        },
         {
-          "name": "Emanuela",
-          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
+          "name": "Konstantin",
+          "url": "https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8"
         }
       ],
-      "duration_ms": 231111,
-      "name": "Vtori dom",
-      "url": "https://open.spotify.com/track/17YEUOeBPpIUIIORfXyFd8"
+      "duration_ms": 197030,
+      "name": "\u0411\u0430\u0432\u0430\u0440\u0438\u044f",
+      "url": "https://open.spotify.com/track/0FQVI0C86ASSO1TW4YIoUG"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
-      "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
-    },
-    {
-      "added_at": "2023-11-21 08:31:05",
-      "album": {
-        "name": "\u0416\u0438\u0432\u0435\u0439, \u043c\u0438\u043b\u043e \u043c\u043e\u0435",
-        "url": "https://open.spotify.com/album/793qXnOneVVHQrbebbRpfc"
-      },
-      "artists": [
-        {
-          "name": "Medi",
-          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "\u0416\u0438\u0432\u0435\u0439, \u043c\u0438\u043b\u043e \u043c\u043e\u0435",
-      "url": "https://open.spotify.com/track/2LMdXVxVRKM5Ls7IVBjqb9"
-    },
-    {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
@@ -377,10 +333,42 @@
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
-        "name": "\u0414\u0436\u0435\u043d\u0442\u044a\u043b\u043c\u0435\u043d",
-        "url": "https://open.spotify.com/album/2u9hkU7grdSjkLPClwZ3He"
+        "name": "Vtori dom",
+        "url": "https://open.spotify.com/album/6LY6OXijZsm3DHTS9GuvNl"
+      },
+      "artists": [
+        {
+          "name": "Emanuela",
+          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
+        }
+      ],
+      "duration_ms": 231111,
+      "name": "Vtori dom",
+      "url": "https://open.spotify.com/track/17YEUOeBPpIUIIORfXyFd8"
+    },
+    {
+      "added_at": "2023-11-22 08:28:07",
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
+    },
+    {
+      "added_at": "2023-11-22 08:28:07",
+      "album": {
+        "name": "\u0416\u0438\u0432\u0435\u0439, \u043c\u0438\u043b\u043e \u043c\u043e\u0435",
+        "url": "https://open.spotify.com/album/793qXnOneVVHQrbebbRpfc"
       },
       "artists": [
         {
@@ -388,12 +376,28 @@
           "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
         }
       ],
-      "duration_ms": 185217,
-      "name": "\u0414\u0436\u0435\u043d\u0442\u044a\u043b\u043c\u0435\u043d",
-      "url": "https://open.spotify.com/track/3VjtC9G89HrlWKwd1TuWwk"
+      "duration_ms": 189600,
+      "name": "\u0416\u0438\u0432\u0435\u0439, \u043c\u0438\u043b\u043e \u043c\u043e\u0435",
+      "url": "https://open.spotify.com/track/2LMdXVxVRKM5Ls7IVBjqb9"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
+      "album": {
+        "name": "\u041c\u0430\u043b\u043a\u0430\u0442\u0430 \u0431\u0435\u043b\u044f",
+        "url": "https://open.spotify.com/album/30tRJ14dRISdoMJeedfayf"
+      },
+      "artists": [
+        {
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "\u041c\u0430\u043b\u043a\u0430\u0442\u0430 \u0431\u0435\u043b\u044f",
+      "url": "https://open.spotify.com/track/2Fs3HuNZQ2QK0Qcfr19L8Y"
+    },
+    {
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
@@ -417,7 +421,59 @@
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
+      "album": {
+        "name": "\u0414\u0436\u0435\u043d\u0442\u044a\u043b\u043c\u0435\u043d",
+        "url": "https://open.spotify.com/album/2u9hkU7grdSjkLPClwZ3He"
+      },
+      "artists": [
+        {
+          "name": "Medi",
+          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "\u0414\u0436\u0435\u043d\u0442\u044a\u043b\u043c\u0435\u043d",
+      "url": "https://open.spotify.com/track/3VjtC9G89HrlWKwd1TuWwk"
+    },
+    {
+      "added_at": "2023-11-22 08:28:07",
+      "album": {
+        "name": "Ne znaesh koya sam",
+        "url": "https://open.spotify.com/album/5Z5kepFgoYaMUlvBgrwSO0"
+      },
+      "artists": [
+        {
+          "name": "Djena",
+          "url": "https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "Ne e lyubov",
+      "url": "https://open.spotify.com/track/1vQSEMGnWWKlz7V6jh73kf"
+    },
+    {
+      "added_at": "2023-11-22 08:28:07",
+      "album": {
+        "name": "Spomeni / Anamniseis",
+        "url": "https://open.spotify.com/album/1gBBu1rUFOXrVNEuOmXnZc"
+      },
+      "artists": [
+        {
+          "name": "Preslava",
+          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
+        },
+        {
+          "name": "Aristos Constantinou",
+          "url": "https://open.spotify.com/artist/2YVliflb2HHp7RBP3AtUuK"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Spomeni / Anamniseis",
+      "url": "https://open.spotify.com/track/4ihsE0B7tB0rIKdBRig7qq"
+    },
+    {
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "7 Dni",
         "url": "https://open.spotify.com/album/6FjH4zDKyAEV8dZgzcFXOK"
@@ -433,7 +489,27 @@
       "url": "https://open.spotify.com/track/1BnF35gLqCRWiTzSWgC9hK"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
+      "album": {
+        "name": "\u041d\u044f\u043c\u0430\u043c \u0422\u0435\u0431",
+        "url": "https://open.spotify.com/album/7jePjUOREudBjAaaSfDlim"
+      },
+      "artists": [
+        {
+          "name": "Ivayla",
+          "url": "https://open.spotify.com/artist/29Hsg37sCbjeeCdDA0HIgt"
+        },
+        {
+          "name": "Ilian Boyd",
+          "url": "https://open.spotify.com/artist/1LLZb3EzxafwHumGvgwy5u"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "\u041d\u044f\u043c\u0430\u043c \u0422\u0435\u0431",
+      "url": "https://open.spotify.com/track/1SWt6vgg3LHeYBvVXe1RR7"
+    },
+    {
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "a Gift & a Curse",
         "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
@@ -449,7 +525,23 @@
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
+      "album": {
+        "name": "\u0413\u043e\u0440\u0447\u0438\u0432\u043e",
+        "url": "https://open.spotify.com/album/0FjTFwmO3GBJT7ASdZsist"
+      },
+      "artists": [
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "duration_ms": 202271,
+      "name": "\u0413\u043e\u0440\u0447\u0438\u0432\u043e",
+      "url": "https://open.spotify.com/track/5oH8yCgjc0GoB9HTHB3wA0"
+    },
+    {
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "3/3",
         "url": "https://open.spotify.com/album/0iPAgdeorXevx4eVGu3rpt"
@@ -473,27 +565,7 @@
       "url": "https://open.spotify.com/track/3H1jUz6uPDIIUmfBvS0YhQ"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
-      "album": {
-        "name": "Spomeni / Anamniseis",
-        "url": "https://open.spotify.com/album/1gBBu1rUFOXrVNEuOmXnZc"
-      },
-      "artists": [
-        {
-          "name": "Preslava",
-          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
-        },
-        {
-          "name": "Aristos Constantinou",
-          "url": "https://open.spotify.com/artist/2YVliflb2HHp7RBP3AtUuK"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Spomeni / Anamniseis",
-      "url": "https://open.spotify.com/track/4ihsE0B7tB0rIKdBRig7qq"
-    },
-    {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "\u0417\u0430 \u043c\u0430\u043b\u043a\u043e",
         "url": "https://open.spotify.com/album/0TXOInhUIspxmzgH6COp95"
@@ -513,95 +585,7 @@
       "url": "https://open.spotify.com/track/2ztqAbI1bIzIlKBd2JCSvH"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
-      "album": {
-        "name": "Ne znaesh koya sam",
-        "url": "https://open.spotify.com/album/5Z5kepFgoYaMUlvBgrwSO0"
-      },
-      "artists": [
-        {
-          "name": "Djena",
-          "url": "https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g"
-        }
-      ],
-      "duration_ms": 224680,
-      "name": "Ne e lyubov",
-      "url": "https://open.spotify.com/track/1vQSEMGnWWKlz7V6jh73kf"
-    },
-    {
-      "added_at": "2023-11-21 08:31:05",
-      "album": {
-        "name": "\u0413\u043e\u0440\u0447\u0438\u0432\u043e",
-        "url": "https://open.spotify.com/album/0FjTFwmO3GBJT7ASdZsist"
-      },
-      "artists": [
-        {
-          "name": "Galena",
-          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
-        }
-      ],
-      "duration_ms": 202271,
-      "name": "\u0413\u043e\u0440\u0447\u0438\u0432\u043e",
-      "url": "https://open.spotify.com/track/5oH8yCgjc0GoB9HTHB3wA0"
-    },
-    {
-      "added_at": "2023-11-21 08:31:05",
-      "album": {
-        "name": "\u041d\u044f\u043c\u0430\u043c \u0422\u0435\u0431",
-        "url": "https://open.spotify.com/album/7jePjUOREudBjAaaSfDlim"
-      },
-      "artists": [
-        {
-          "name": "Ivayla",
-          "url": "https://open.spotify.com/artist/29Hsg37sCbjeeCdDA0HIgt"
-        },
-        {
-          "name": "Ilian Boyd",
-          "url": "https://open.spotify.com/artist/1LLZb3EzxafwHumGvgwy5u"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "\u041d\u044f\u043c\u0430\u043c \u0422\u0435\u0431",
-      "url": "https://open.spotify.com/track/1SWt6vgg3LHeYBvVXe1RR7"
-    },
-    {
-      "added_at": "2023-11-21 08:31:05",
-      "album": {
-        "name": "Seven",
-        "url": "https://open.spotify.com/album/1e3AsihMn2vg7ivyWt1Hgt"
-      },
-      "artists": [
-        {
-          "name": "Marso",
-          "url": "https://open.spotify.com/artist/1UUQq3z2RCIqSE1eiP00Jv"
-        },
-        {
-          "name": "MBT",
-          "url": "https://open.spotify.com/artist/3yFsv1OXPdnKzt9dqdkrgQ"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Kradena",
-      "url": "https://open.spotify.com/track/2RgC1nTzRNAf9MiOhoLHxk"
-    },
-    {
-      "added_at": "2023-11-21 08:31:05",
-      "album": {
-        "name": "\u0422\u043e\u043a\u0441\u0438\u0447\u0435\u043d",
-        "url": "https://open.spotify.com/album/34bAlG5aCwHO8CNodbQd5N"
-      },
-      "artists": [
-        {
-          "name": "Desi Slava",
-          "url": "https://open.spotify.com/artist/1FYHEsfPuSTAOV5oK1CNXG"
-        }
-      ],
-      "duration_ms": 202857,
-      "name": "\u0422\u043e\u043a\u0441\u0438\u0447\u0435\u043d",
-      "url": "https://open.spotify.com/track/46w6RqZXx96cORKIbExvSu"
-    },
-    {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "Ustnite ti mrasni",
         "url": "https://open.spotify.com/album/0YaFAOACGiIuKix5Kwc8fP"
@@ -617,23 +601,7 @@
       "url": "https://open.spotify.com/track/2z0cwGTvP2Dqx5p2Ia0c9U"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
-      "album": {
-        "name": "exes",
-        "url": "https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "exes",
-      "url": "https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o"
-    },
-    {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -657,27 +625,7 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
-      "album": {
-        "name": "\u041e\u0442 \u043a\u0435\u0444 \u0434\u0430 \u0443\u043c\u0438\u0440\u0430\u043c",
-        "url": "https://open.spotify.com/album/2YnlJgWFLWQcP5JMoNZG3C"
-      },
-      "artists": [
-        {
-          "name": "Dessita",
-          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
-        },
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq"
-        }
-      ],
-      "duration_ms": 240937,
-      "name": "\u041e\u0442 \u043a\u0435\u0444 \u0434\u0430 \u0443\u043c\u0438\u0440\u0430\u043c",
-      "url": "https://open.spotify.com/track/6XJc1nK44MNSV2kK1IuyKU"
-    },
-    {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "Notarialno zaveren",
         "url": "https://open.spotify.com/album/2YYmbSctz57pLARmtiFZ1h"
@@ -697,43 +645,7 @@
       "url": "https://open.spotify.com/track/1TIQ8BrPa6qiL7l3k4El2e"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
-      "album": {
-        "name": "TOP CONNECTION",
-        "url": "https://open.spotify.com/album/73uApRuqHZwuNn5Seu1Crl"
-      },
-      "artists": [
-        {
-          "name": "Trap19 Connection",
-          "url": "https://open.spotify.com/artist/6AjCPcn7DKLntjmAL4zpL2"
-        },
-        {
-          "name": "Kotenceto",
-          "url": "https://open.spotify.com/artist/1yxLPqI8RMcczR0u8y9tBf"
-        }
-      ],
-      "duration_ms": 188774,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/0YeqCYaK0ZOvksy54BNADO"
-    },
-    {
-      "added_at": "2023-11-21 08:31:05",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 211582,
-      "name": "I KNOW ?",
-      "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
-    },
-    {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "FACTOR",
         "url": "https://open.spotify.com/album/4UryWPho5YcedoV2E8ukOE"
@@ -749,67 +661,67 @@
       "url": "https://open.spotify.com/track/6LpL3NUIJuJ3zyBfdMXD2O"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
-        "name": "Men Si Tarsil",
-        "url": "https://open.spotify.com/album/5WNRNUPRA3iUd1IfJBt4tf"
+        "name": "Seven",
+        "url": "https://open.spotify.com/album/1e3AsihMn2vg7ivyWt1Hgt"
       },
       "artists": [
         {
-          "name": "Andrea",
-          "url": "https://open.spotify.com/artist/3Q71N3lHz2pijhljCNqOqw"
+          "name": "Marso",
+          "url": "https://open.spotify.com/artist/1UUQq3z2RCIqSE1eiP00Jv"
+        },
+        {
+          "name": "MBT",
+          "url": "https://open.spotify.com/artist/3yFsv1OXPdnKzt9dqdkrgQ"
         }
       ],
-      "duration_ms": 201533,
-      "name": "Dai Mi Vsichko",
-      "url": "https://open.spotify.com/track/7qmV6PWC86hFlYusuxAqwg"
+      "duration_ms": 137142,
+      "name": "Kradena",
+      "url": "https://open.spotify.com/track/2RgC1nTzRNAf9MiOhoLHxk"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/0fv4ZkhqYX39VAB6IYmkbx"
+        "name": "exes",
+        "url": "https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH"
       },
       "artists": [
         {
-          "name": "Torino",
-          "url": "https://open.spotify.com/artist/47WAtpqR2af9uiq2HWwWNM"
-        },
-        {
-          "name": "Pashata",
-          "url": "https://open.spotify.com/artist/2YAAnLogLeNYzffelkG6lF"
-        },
-        {
-          "name": "Kamelia",
-          "url": "https://open.spotify.com/artist/0m8Tk5oVIhtGD0QRQGKnNe"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 208941,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/6rQCv5zfqq8NLcUJbS5G1u"
+      "duration_ms": 159400,
+      "name": "exes",
+      "url": "https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
-        "name": "AZ I TI",
-        "url": "https://open.spotify.com/album/1sGVD9m3Z9kTgDAZjt5W4H"
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
       "artists": [
         {
-          "name": "V:RGO",
-          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         },
         {
-          "name": "Molec",
-          "url": "https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 227878,
-      "name": "AZ I TI",
-      "url": "https://open.spotify.com/track/0itd5lrE0cjqqIho0TYTKN"
+      "duration_ms": 199920,
+      "name": "Too Many Nights (feat. Don Toliver & with Future)",
+      "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -829,43 +741,147 @@
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
-        "name": "FREESTYLE 1",
-        "url": "https://open.spotify.com/album/0NTHsDHK0ocVXHpOUSlyhN"
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
       "artists": [
         {
-          "name": "Dimoff",
-          "url": "https://open.spotify.com/artist/0lWhRqKSRYsM6QpHaFuZXP"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 121315,
-      "name": "FREESTYLE 1",
-      "url": "https://open.spotify.com/track/6g12ki5xI3oUmz8yznhCxt"
+      "duration_ms": 211582,
+      "name": "I KNOW ?",
+      "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
-        "name": "Masquerade",
-        "url": "https://open.spotify.com/album/47oLHYHuwdGtZ70V7hVxQL"
+        "name": "Men Si Tarsil",
+        "url": "https://open.spotify.com/album/5WNRNUPRA3iUd1IfJBt4tf"
       },
       "artists": [
         {
-          "name": "MBT",
-          "url": "https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd"
+          "name": "Andrea",
+          "url": "https://open.spotify.com/artist/3Q71N3lHz2pijhljCNqOqw"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Dai Mi Vsichko",
+      "url": "https://open.spotify.com/track/7qmV6PWC86hFlYusuxAqwg"
+    },
+    {
+      "added_at": "2023-11-22 08:28:07",
+      "album": {
+        "name": "\u041e\u0442 \u043a\u0435\u0444 \u0434\u0430 \u0443\u043c\u0438\u0440\u0430\u043c",
+        "url": "https://open.spotify.com/album/2YnlJgWFLWQcP5JMoNZG3C"
+      },
+      "artists": [
+        {
+          "name": "Dessita",
+          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
         },
         {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/7dIMk9WD4Q6zenoCibMWyu"
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq"
         }
       ],
-      "duration_ms": 215771,
-      "name": "Nqma Kak",
-      "url": "https://open.spotify.com/track/5nuqX3R4iAhbXO1sGrBLqi"
+      "duration_ms": 240937,
+      "name": "\u041e\u0442 \u043a\u0435\u0444 \u0434\u0430 \u0443\u043c\u0438\u0440\u0430\u043c",
+      "url": "https://open.spotify.com/track/6XJc1nK44MNSV2kK1IuyKU"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
+      "album": {
+        "name": "AZ I TI",
+        "url": "https://open.spotify.com/album/1sGVD9m3Z9kTgDAZjt5W4H"
+      },
+      "artists": [
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        },
+        {
+          "name": "Molec",
+          "url": "https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr"
+        }
+      ],
+      "duration_ms": 227878,
+      "name": "AZ I TI",
+      "url": "https://open.spotify.com/track/0itd5lrE0cjqqIho0TYTKN"
+    },
+    {
+      "added_at": "2023-11-22 08:28:07",
+      "album": {
+        "name": "TOP CONNECTION",
+        "url": "https://open.spotify.com/album/73uApRuqHZwuNn5Seu1Crl"
+      },
+      "artists": [
+        {
+          "name": "Trap19 Connection",
+          "url": "https://open.spotify.com/artist/6AjCPcn7DKLntjmAL4zpL2"
+        },
+        {
+          "name": "Kotenceto",
+          "url": "https://open.spotify.com/artist/1yxLPqI8RMcczR0u8y9tBf"
+        }
+      ],
+      "duration_ms": 188774,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/0YeqCYaK0ZOvksy54BNADO"
+    },
+    {
+      "added_at": "2023-11-22 08:28:07",
+      "album": {
+        "name": "\u043d\u043e\u0449\u043d\u0438 \u043f\u0442\u0438\u0446\u0438",
+        "url": "https://open.spotify.com/album/4Gsutxd4EZHcNsgxh7HTqo"
+      },
+      "artists": [
+        {
+          "name": "Boro Purvi",
+          "url": "https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV"
+        }
+      ],
+      "duration_ms": 161667,
+      "name": "\u043d\u043e\u0449\u043d\u0438 \u043f\u0442\u0438\u0446\u0438",
+      "url": "https://open.spotify.com/track/602QkeWqc4SkzgiLYFT4HK"
+    },
+    {
+      "added_at": "2023-11-22 08:28:07",
+      "album": {
+        "name": "Sartse ot lego",
+        "url": "https://open.spotify.com/album/3Qu9mPOeyhnZZxsuupQgSp"
+      },
+      "artists": [
+        {
+          "name": "Djena",
+          "url": "https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g"
+        }
+      ],
+      "duration_ms": 216338,
+      "name": "Sartse ot lego",
+      "url": "https://open.spotify.com/track/5Awm1t92craHebGMzwY4kl"
+    },
+    {
+      "added_at": "2023-11-22 08:28:07",
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "added_at": "2023-11-22 08:28:07",
       "album": {
         "name": "\u041f\u0438\u0441\u0442\u043e\u043b\u0435\u0442",
         "url": "https://open.spotify.com/album/4d2IGg5C8bhKmfcx3vZboq"
@@ -885,36 +901,20 @@
       "url": "https://open.spotify.com/track/3bEbRxixvEVlEVIgvepXcg"
     },
     {
-      "added_at": "2023-11-21 08:31:05",
+      "added_at": "2023-11-22 08:28:07",
       "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+        "name": "FREESTYLE 1",
+        "url": "https://open.spotify.com/album/0NTHsDHK0ocVXHpOUSlyhN"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Dimoff",
+          "url": "https://open.spotify.com/artist/0lWhRqKSRYsM6QpHaFuZXP"
         }
       ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
-    },
-    {
-      "added_at": "2023-11-21 08:31:05",
-      "album": {
-        "name": "Poveche ot dumi",
-        "url": "https://open.spotify.com/album/21eM3KtI3phjtd0To0fLo0"
-      },
-      "artists": [
-        {
-          "name": "Andrea",
-          "url": "https://open.spotify.com/artist/3Q71N3lHz2pijhljCNqOqw"
-        }
-      ],
-      "duration_ms": 258913,
-      "name": "Poveche ot dumi - Radio Edit",
-      "url": "https://open.spotify.com/track/4dUCUAiLfbIvHdHiHFpYUl"
+      "duration_ms": 121315,
+      "name": "FREESTYLE 1",
+      "url": "https://open.spotify.com/track/6g12ki5xI3oUmz8yznhCxt"
     }
   ],
   "unique_name": "Top 50 - Bulgaria",

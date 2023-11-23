@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32xIMlZsYDC.md) - [plain]
 
 > Despierta poco a poco con la tranquilidad de las notas del piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,619 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,621 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32xIMlZsYDC.md) - [plain]
 | 10 | [Untextured Sighs](https://open.spotify.com/track/2DfFinSzRS5nwkya1xdHaH) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Untextured Sighs](https://open.spotify.com/album/7axKO0cbma2inHc4wJFg4o) | 2:38 |
 | 11 | [Chambers](https://open.spotify.com/track/4wHsmSi7FBZ2aZhQ3ook7M) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Chambers](https://open.spotify.com/album/61DhX4MuBUYTYnlrdBhyiN) | 2:25 |
 | 12 | [Cessura](https://open.spotify.com/track/7uvey8m0ZfknE25sBVWoGY) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 3:05 |
-| 13 | [Becoming](https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Becoming](https://open.spotify.com/album/1XDp0E8TtyTWFlniXqkV1C) | 2:43 |
-| 14 | [Lekko](https://open.spotify.com/track/6hg8132jlk9fZsSbfpdmGR) | [Marcin Starosta](https://open.spotify.com/artist/3zXWrdKJkoFzMsPsw51Nzw) | [Lekko](https://open.spotify.com/album/2AKOAyRuAkRAg0sNWoH2nL) | 2:27 |
+| 13 | [Lekko](https://open.spotify.com/track/6hg8132jlk9fZsSbfpdmGR) | [Marcin Starosta](https://open.spotify.com/artist/3zXWrdKJkoFzMsPsw51Nzw) | [Lekko](https://open.spotify.com/album/2AKOAyRuAkRAg0sNWoH2nL) | 2:27 |
+| 14 | [Becoming](https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Becoming](https://open.spotify.com/album/1XDp0E8TtyTWFlniXqkV1C) | 2:43 |
 | 15 | [Young Love](https://open.spotify.com/track/5LS7VV5Gp3evv8pjcpTDDu) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Glacier](https://open.spotify.com/album/0D5gc8mGZMBzB5ioXy6fdK) | 2:23 |
 | 16 | [Kaleidoscope](https://open.spotify.com/track/3WiissyVFRpCVrqbyPKZxZ) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Kaleidoscope](https://open.spotify.com/album/0eVw8w35dO9VuGLy4vOprZ) | 2:01 |
 | 17 | [Humbly](https://open.spotify.com/track/6MeOCVIU94xMVgr1kTMKRT) | [Gail Singleton](https://open.spotify.com/artist/1VA9HBofA9Pc9Q3DSR4gQw) | [Humbly](https://open.spotify.com/album/7r8ESgCgTKTuJRjAUo7F1I) | 2:12 |
 | 18 | [New Chapter](https://open.spotify.com/track/3tO1NCvA91cZ481O9b9Oab) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Chapter](https://open.spotify.com/album/0yFqWwIT5jDcx0EfhSuQLU) | 2:29 |
-| 19 | [Avalanche](https://open.spotify.com/track/1kQFxgqG3KcKErQlvH66lz) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Avalanche](https://open.spotify.com/album/0VG2I88bspS6L3rgcTC3Dm) | 2:16 |
-| 20 | [Seeking The Autumn Wind](https://open.spotify.com/track/2TV5VWvY46I7k51reLMGvE) | [Brian Busch](https://open.spotify.com/artist/6aRyxVvym2hAGccdLKcUB1) | [Brief Respite](https://open.spotify.com/album/1EVU6rShFk3cxVhk7o4qN6) | 2:59 |
+| 19 | [Seeking The Autumn Wind](https://open.spotify.com/track/2TV5VWvY46I7k51reLMGvE) | [Brian Busch](https://open.spotify.com/artist/6aRyxVvym2hAGccdLKcUB1) | [Brief Respite](https://open.spotify.com/album/1EVU6rShFk3cxVhk7o4qN6) | 2:59 |
+| 20 | [Avalanche](https://open.spotify.com/track/1kQFxgqG3KcKErQlvH66lz) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Avalanche](https://open.spotify.com/album/0VG2I88bspS6L3rgcTC3Dm) | 2:16 |
 | 21 | [Maurice](https://open.spotify.com/track/7l92bhAAWWCnRrbmekFSor) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Maurice](https://open.spotify.com/album/6bSnjwj5vMGVwxfjOJkBt3) | 2:47 |
 | 22 | [Quieta](https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY) | [Gioia Moreschi](https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH) | [Quieta](https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk) | 2:43 |
 | 23 | [Innamorarsi](https://open.spotify.com/track/07DOQ7ce43Q5ICTdzG8M97) | [Irene Gaifana](https://open.spotify.com/artist/6gdy6anlAQAem03BVY6m83) | [Innamorarsi](https://open.spotify.com/album/47kowrH6Cijbzn3xy0FMV6) | 2:32 |
@@ -57,12 +57,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32xIMlZsYDC.md) - [plain]
 | 47 | [Glow](https://open.spotify.com/track/7ooM6rULm5upVZNOKwux3B) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Lifeline](https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45) | 4:14 |
 | 48 | [Paradox](https://open.spotify.com/track/4MAzPvI7zmpv3jF1WxfeTx) | [Karen Kasper](https://open.spotify.com/artist/3GRHFs9roBSvjMZangZ5Qi) | [Paradox](https://open.spotify.com/album/3feFqOuaXAe4Lc9sgycv0t) | 2:17 |
 | 49 | [Badzura: Muse d'eau](https://open.spotify.com/track/2X32IY314Mt7NRi2taldLX) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Reflections Pt\. 3 / RWKS](https://open.spotify.com/album/4lKjOi9WFEBvafMP8IXToY) | 3:33 |
-| 50 | [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 |
-| 51 | [Involution](https://open.spotify.com/track/7pYYH192TuKAQH2cHG7vPR) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Involution](https://open.spotify.com/album/3GqBjeMovVIis4YxjAYfg4) | 2:43 |
+| 50 | [Involution](https://open.spotify.com/track/7pYYH192TuKAQH2cHG7vPR) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Involution](https://open.spotify.com/album/3GqBjeMovVIis4YxjAYfg4) | 2:43 |
+| 51 | [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 |
 | 52 | [Synchronicities](https://open.spotify.com/track/3EzFGVsv6wd9u8ZZx7F7En) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [Synchronicities](https://open.spotify.com/album/7bTFxC5zyv0TsCEyu9FB2v) | 2:46 |
 | 53 | [Memories In Red](https://open.spotify.com/track/7oj0ajSBpsNjSZAL51fIAM) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Memories In Red](https://open.spotify.com/album/7qCicUGGOs2RmmV7QDFs7y) | 2:15 |
-| 54 | [Der Wandervogel](https://open.spotify.com/track/3I7JFFCxYmFnhU5qrsIpZo) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Der Wandervogel](https://open.spotify.com/album/1UVUymmfClpklygLYiWIWJ) | 2:40 |
-| 55 | [Mind Wide Open](https://open.spotify.com/track/3qofUkK1Yak7mp81Lojn3L) | [Dan Volker](https://open.spotify.com/artist/6dKolJLPeFV2ruWSwZBuYk) | [Mind Wide Open](https://open.spotify.com/album/1LVpYB2Jtto4OMvjzQqBrn) | 2:38 |
+| 54 | [Mind Wide Open](https://open.spotify.com/track/3qofUkK1Yak7mp81Lojn3L) | [Dan Volker](https://open.spotify.com/artist/6dKolJLPeFV2ruWSwZBuYk) | [Mind Wide Open](https://open.spotify.com/album/1LVpYB2Jtto4OMvjzQqBrn) | 2:38 |
+| 55 | [Der Wandervogel](https://open.spotify.com/track/3I7JFFCxYmFnhU5qrsIpZo) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Der Wandervogel](https://open.spotify.com/album/1UVUymmfClpklygLYiWIWJ) | 2:40 |
 | 56 | [Now and Then](https://open.spotify.com/track/3flrE9SDAQj4hP2kKzcHOG) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:27 |
 | 57 | [Just a Thought](https://open.spotify.com/track/0yoaGTIVmywSYedV1YsIhG) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Just a Thought](https://open.spotify.com/album/2ThuoXpPbWohcnLD3na9SP) | 2:34 |
 | 58 | [Forelsket](https://open.spotify.com/track/4Oo0RKYm64PZSIbpFmcuK9) | [Idun Vinter](https://open.spotify.com/artist/1xxEOepOhE9VubYZpZX10m) | [Forelsket](https://open.spotify.com/album/6HKYX4ZmdHL8DMhsWp497N) | 2:50 |
@@ -71,11 +71,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32xIMlZsYDC.md) - [plain]
 | 61 | [Manus in Mano](https://open.spotify.com/track/3igpedNqhZcfhXMLtqn4Cr) | [Jacques Moni](https://open.spotify.com/artist/4jfYO6eSH5i7WlvIasFP6b) | [Manus in Mano](https://open.spotify.com/album/0UZv7J3zLMPRhhxcZuOmDa) | 3:00 |
 | 62 | [Revolve](https://open.spotify.com/track/3vM5WFlaaxJjCMWsQYLwZI) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Revolve](https://open.spotify.com/album/6EDRURCpmlUE7b6OkrVmeR) | 2:30 |
 | 63 | [Foreigners](https://open.spotify.com/track/3pPVu5GqeYai4ZFNP0j9Wr) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Foreigners](https://open.spotify.com/album/3eVdNFfpQKGj1btqfQGoa4) | 2:59 |
-| 64 | [Forgive Us](https://open.spotify.com/track/7pIprvHSIi4bZiFGc6xf5p) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Forgive Us](https://open.spotify.com/album/2g5Cpml6zGcLEEZweDWEc5) | 3:32 |
-| 65 | [Evergreen Valley](https://open.spotify.com/track/5nCSPEXKmujALmfjnM2rpP) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 2:56 |
+| 64 | [Evergreen Valley](https://open.spotify.com/track/5nCSPEXKmujALmfjnM2rpP) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 2:56 |
+| 65 | [Forgive Us](https://open.spotify.com/track/7pIprvHSIi4bZiFGc6xf5p) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Forgive Us](https://open.spotify.com/album/2g5Cpml6zGcLEEZweDWEc5) | 3:32 |
 | 66 | [Soudainement](https://open.spotify.com/track/4k9OkooMVPlnoU2qJLKl0k) | [Alonzo Gautier](https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3) | [Soudainement](https://open.spotify.com/album/1ifSKbmtHSrvkhBtp2Q9rX) | 2:48 |
-| 67 | [L'habit ne fait pas le moine](https://open.spotify.com/track/0XGbTlSbgCWgqL5KuQY2qz) | [Pascal Duval](https://open.spotify.com/artist/3VpKcUweq77xUWClI5oSYl) | [L'habit ne fait pas le moine](https://open.spotify.com/album/0jq8I1nrYieRyPt7tcl0Db) | 3:00 |
-| 68 | [Morgenstern](https://open.spotify.com/track/1djt5vu3t1tQsaLyuS3DgA) | [Alma Klein](https://open.spotify.com/artist/13BmXB0asE1bzPqYfWSTin) | [Morgenstern](https://open.spotify.com/album/5YMCE4ptMtQgujet4mkiZb) | 3:09 |
+| 67 | [Morgenstern](https://open.spotify.com/track/1djt5vu3t1tQsaLyuS3DgA) | [Alma Klein](https://open.spotify.com/artist/13BmXB0asE1bzPqYfWSTin) | [Morgenstern](https://open.spotify.com/album/5YMCE4ptMtQgujet4mkiZb) | 3:09 |
+| 68 | [L'habit ne fait pas le moine](https://open.spotify.com/track/0XGbTlSbgCWgqL5KuQY2qz) | [Pascal Duval](https://open.spotify.com/artist/3VpKcUweq77xUWClI5oSYl) | [L'habit ne fait pas le moine](https://open.spotify.com/album/0jq8I1nrYieRyPt7tcl0Db) | 3:00 |
 | 69 | [Oh Endless Day](https://open.spotify.com/track/7gqehJjwPZxAkMFEsxMAYr) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [Oh Endless Day](https://open.spotify.com/album/3RRumjF8Ef3D6eGngq3Vbb) | 4:47 |
 | 70 | [All My Words](https://open.spotify.com/track/4t6nAyyW8FEEXbN5MLAjtL) | [Mark Millson](https://open.spotify.com/artist/3wIkO7KPoP7jhrn7OA4yvG) | [All My Words](https://open.spotify.com/album/3szqW639zPbIC99Fy8eNfF) | 2:41 |
 | 71 | [Sentinel](https://open.spotify.com/track/6eF8X3wXM9mrwmLPprYEe6) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Sentinel](https://open.spotify.com/album/30YAFhyQWYw9KnQTD4jABf) | 4:16 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32xIMlZsYDC.md) - [plain]
 | 82 | [Spørsmål](https://open.spotify.com/track/68P6GOHe9PuVi7eu2wlAs2) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Fylke](https://open.spotify.com/album/1jSCqDW3ZNficEbdHvTD8H) | 3:16 |
 | 83 | [Trust](https://open.spotify.com/track/6MV97AqFAH2PLEzfuX5qzS) | [Loris Murray](https://open.spotify.com/artist/0wIQaTVToNDimdZU9Kj2gk) | [Trust](https://open.spotify.com/album/4ppzXvFRl1WF5nnjUq0Vjk) | 2:15 |
 | 84 | [Stelle Scure](https://open.spotify.com/track/1K8znXZepqVCcp7Wj07Cy0) | [Enrico Parente](https://open.spotify.com/artist/1G3EQC9KtF5LKIzoCIls6f) | [Stelle Scure](https://open.spotify.com/album/3SMfkvTQyWjcz1rXwiKatT) | 2:17 |
-| 85 | [Memoir](https://open.spotify.com/track/4K29oq8bXo7wel9P8QMY2n) | [Pied\-à\-Terre](https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ) | [Memoir](https://open.spotify.com/album/6lxC3Lifp52AImYMNuaLi5) | 3:22 |
-| 86 | [Süda](https://open.spotify.com/track/5QjGudbECrTR2yRa2AdZBV) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Süda](https://open.spotify.com/album/0dR60aXaRgIAUExGS6ZKfG) | 3:22 |
+| 85 | [Süda](https://open.spotify.com/track/5QjGudbECrTR2yRa2AdZBV) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Süda](https://open.spotify.com/album/0dR60aXaRgIAUExGS6ZKfG) | 3:22 |
+| 86 | [Memoir](https://open.spotify.com/track/4K29oq8bXo7wel9P8QMY2n) | [Pied\-à\-Terre](https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ) | [Memoir](https://open.spotify.com/album/6lxC3Lifp52AImYMNuaLi5) | 3:22 |
 | 87 | [Wunder](https://open.spotify.com/track/119a8rsOkvUFXPwpVCQUPW) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Wunder](https://open.spotify.com/album/0inF6HuUMAG0pdakByW83E) | 2:56 |
 | 88 | [Prends soin de toi](https://open.spotify.com/track/2Fh9R2pniRV3HgCjj61q9S) | [Falerina Paquet](https://open.spotify.com/artist/2EVyOTY6DUVsMpLzqcCZ8B) | [Prends soin de toi](https://open.spotify.com/album/7jN0OUbMMlz5qsMif0uyYJ) | 2:29 |
 | 89 | [Arkata \(Munich Session\)](https://open.spotify.com/track/2Vtfuz6CZSpOZ6f40k7Ywk) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Munich Session](https://open.spotify.com/album/5Dp1VpNlgHhyXoLVU3xUEC) | 4:02 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32xIMlZsYDC.md) - [plain]
 | 91 | [Desalniettemin](https://open.spotify.com/track/3nm9jlY1vOwilh9o1Ap5cI) | [Mavis Marchena](https://open.spotify.com/artist/6MSPdpw1XqfQfFarlvDwhd) | [Desalniettemin](https://open.spotify.com/album/4gHUVgx7oXpx056ricXMCA) | 2:52 |
 | 92 | [Here](https://open.spotify.com/track/3rLYj3hgyEw9BhGgcJER8O) | [Leonardo Cupelli](https://open.spotify.com/artist/4aTJ4F6R23RQkM2ZJKU3vD) | [Here](https://open.spotify.com/album/6TzBL8Jxr3OjvgBRmOWdce) | 2:26 |
 | 93 | [In Bloom](https://open.spotify.com/track/6UBUNOxmO5HloYRN3y4PPr) | [Józef Gatysik](https://open.spotify.com/artist/4k0n9qZSgE1HVExw9b2T9j) | [In Bloom](https://open.spotify.com/album/3YfYjGlD2ZGO5DEcgs3QOj) | 2:48 |
-| 94 | [New Beginning](https://open.spotify.com/track/2KIt5oD3oklHr00HKEXQia) | [Noël](https://open.spotify.com/artist/3hCvaJnqBQX6DqHh4nZiYj) | [New Beginning](https://open.spotify.com/album/3iRjsoMuilRzsn7s6uDkgC) | 2:13 |
-| 95 | [Morgentau](https://open.spotify.com/track/405hXsV5rmcZarrpP71qA8) | [Volker Wagner](https://open.spotify.com/artist/4fpf1I40UxYf5cOaMO9Agr) | [united](https://open.spotify.com/album/0xEHLj5DHQfAY9lNsuqOd5) | 3:02 |
+| 94 | [Morgentau](https://open.spotify.com/track/405hXsV5rmcZarrpP71qA8) | [Volker Wagner](https://open.spotify.com/artist/4fpf1I40UxYf5cOaMO9Agr) | [united](https://open.spotify.com/album/0xEHLj5DHQfAY9lNsuqOd5) | 3:02 |
+| 95 | [New Beginning](https://open.spotify.com/track/2KIt5oD3oklHr00HKEXQia) | [Noël](https://open.spotify.com/artist/3hCvaJnqBQX6DqHh4nZiYj) | [New Beginning](https://open.spotify.com/album/3iRjsoMuilRzsn7s6uDkgC) | 2:13 |
 | 96 | [Snefri](https://open.spotify.com/track/61WmSJkNz048nns7uCmn1E) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 3:43 |
 | 97 | [Apricity](https://open.spotify.com/track/0gqETOpvyX2eAbcbfjjqGz) | [Ivalu Karlsen](https://open.spotify.com/artist/4RHvOz3KD1p3LmEEnpVN8a) | [Apricity](https://open.spotify.com/album/4EV4xaMY99ldNfGanMgaoe) | 2:12 |
-| 98 | [On Your Side](https://open.spotify.com/track/12Ha6FmHZqlgVgIJU2kn3o) | [Ragnar Seaholm](https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG) | [On Your Side](https://open.spotify.com/album/6sJJQ0VIYMW3lQLv6zdhPV) | 3:26 |
-| 99 | [I'll Be The One](https://open.spotify.com/track/1VhGpGEKywAKiCd3OmRev3) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [I’ll Be The One](https://open.spotify.com/album/52bpQJrCO3rA3DqfwKOk5h) | 2:14 |
+| 98 | [I'll Be The One](https://open.spotify.com/track/1VhGpGEKywAKiCd3OmRev3) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [I’ll Be The One](https://open.spotify.com/album/52bpQJrCO3rA3DqfwKOk5h) | 2:14 |
+| 99 | [On Your Side](https://open.spotify.com/track/12Ha6FmHZqlgVgIJU2kn3o) | [Ragnar Seaholm](https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG) | [On Your Side](https://open.spotify.com/album/6sJJQ0VIYMW3lQLv6zdhPV) | 3:26 |
 | 100 | [Just Us](https://open.spotify.com/track/1QQUFiArleFKStW1ttUfoN) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Lifeline](https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45) | 3:35 |
 
-Snapshot ID: `MCxhNGNlNzJkZDA5YWZjNDFmZTM5YjE3Y2YxMzczM2M5NDYwZjJiMjI2`
+Snapshot ID: `MCxmNmJmNDBlZmRlMTEzZTg5OTBiN2YzYzg5ZTUwMGEyMWE5Zjk5NzI4`

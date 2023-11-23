@@ -2,7 +2,7 @@
 
 ### [Reggaetón Mexa ](https://open.spotify.com/playlist/37i9dQZF1DX5hrSNdL1ktS)
 
-> Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Yeri Mua en portada
+> Mi gusto, mi estilo mi flow, puro perreo Mexa, bebé 🍑 Dani Flow en portada
 
 411 songs - 20 hr 39 min
 

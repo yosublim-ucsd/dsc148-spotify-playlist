@@ -1,12 +1,12 @@
 {
   "description": "ela eh o momento  / Foto: Tyla",
-  "num_followers": 271596,
+  "num_followers": 271696,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjBhYWMxMmJmYTMwNjM3YWU4NGI2MjAyOWIyN2ExMGQxMzBhZTZk",
+  "snapshot_id": "MCxmOGM0YjBiOGIwNGI0Mjg4OTRkNTczM2VhNDM2ODY0NWFiM2Y4Yzk1",
   "tracks": [
     {
       "added_at": "2023-11-17 14:08:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-11-17 14:08:00",
       "album": {
+        "name": "Good God!",
+        "url": "https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY"
+      },
+      "artists": [
+        {
+          "name": "Rio Romeo",
+          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Nothing's New",
+      "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
+    },
+    {
+      "added_at": "2023-11-17 14:08:00",
+      "album": {
         "name": "Snooze (Acoustic) (feat. Justin Bieber)",
         "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 190464,
       "name": "Snooze (Acoustic) (feat. Justin Bieber)",
       "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
-    },
-    {
-      "added_at": "2023-11-17 14:08:00",
-      "album": {
-        "name": "Good God!",
-        "url": "https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY"
-      },
-      "artists": [
-        {
-          "name": "Rio Romeo",
-          "url": "https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Nothing's New",
-      "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
     },
     {
       "added_at": "2023-11-17 14:08:00",

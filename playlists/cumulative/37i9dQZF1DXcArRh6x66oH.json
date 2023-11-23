@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218679,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0FJqXBo7ZHrskhH4owaL9S"
+    },
+    {
+      "album": {
         "name": "Blue Eyed Constellation",
         "url": "https://open.spotify.com/album/6y45mq9RVJVkAiZiOmUvpw"
       },
@@ -2231,6 +2249,24 @@
     },
     {
       "album": {
+        "name": "Losing Sleep",
+        "url": "https://open.spotify.com/album/0Kz5Gl8KgN8Kbc5Ls20WMf"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208536,
+      "name": "Losing Sleep",
+      "url": "https://open.spotify.com/track/4xumDfmt5GgWAskJdfc0T3"
+    },
+    {
+      "album": {
         "name": "Adobe Sessions",
         "url": "https://open.spotify.com/album/0XwvWmuegqeWhDpg2FZaXW"
       },
@@ -3021,6 +3057,24 @@
     },
     {
       "album": {
+        "name": "Run Away High",
+        "url": "https://open.spotify.com/album/06mk4vdbCFKD3K3sIEpEd6"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201705,
+      "name": "Run Away High",
+      "url": "https://open.spotify.com/track/58XuhoLGFJCqpD5EOPif3f"
+    },
+    {
+      "album": {
         "name": "Fortune Favors the Bold",
         "url": "https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw"
       },
@@ -3670,7 +3724,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 216311,
       "name": "Till I Return",
       "url": "https://open.spotify.com/track/5bi8RvkKme1gAWymqVbhSR"
@@ -3834,7 +3888,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 203130,
       "name": "West Of Tulsa",
       "url": "https://open.spotify.com/track/30CTixQQMXTkbBUKrLQpbe"

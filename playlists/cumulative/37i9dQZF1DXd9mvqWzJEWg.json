@@ -223,6 +223,24 @@
     },
     {
       "album": {
+        "name": "Baxolele Bawo",
+        "url": "https://open.spotify.com/album/3JjqGNAHT7uG2btOfihiGu"
+      },
+      "artists": [
+        {
+          "name": "Mshayi",
+          "url": "https://open.spotify.com/artist/6dCmmuXfV4rTEO3NRlXLXg"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338100,
+      "name": "Baxolele Bawo",
+      "url": "https://open.spotify.com/track/29cTBN1NTRlfGB5tonC6ys"
+    },
+    {
+      "album": {
         "name": "Bedtime Story",
         "url": "https://open.spotify.com/album/0pYrO4JibN17dqQ4DIfn84"
       },
@@ -538,6 +556,28 @@
       "duration_ms": 305946,
       "name": "Cruel Style",
       "url": "https://open.spotify.com/track/1VNIGZyXG9s8s4MQ30ulwO"
+    },
+    {
+      "album": {
+        "name": "Dana",
+        "url": "https://open.spotify.com/album/74ZTUz0CKWuF3AKwi3vr9b"
+      },
+      "artists": [
+        {
+          "name": "Mshayi",
+          "url": "https://open.spotify.com/artist/6dCmmuXfV4rTEO3NRlXLXg"
+        },
+        {
+          "name": "Mr Thela",
+          "url": "https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338028,
+      "name": "Dana",
+      "url": "https://open.spotify.com/track/2zIuiSWAQRzLx0UWt0xRUD"
     },
     {
       "album": {
@@ -1742,6 +1782,24 @@
       "duration_ms": 305086,
       "name": "Mam Mkhize",
       "url": "https://open.spotify.com/track/1AIS0xFujEqZPLaOzRHpH3"
+    },
+    {
+      "album": {
+        "name": "Marry Me",
+        "url": "https://open.spotify.com/album/7mjQtZykEFcCsjHeqw14cU"
+      },
+      "artists": [
+        {
+          "name": "NV Funk",
+          "url": "https://open.spotify.com/artist/2Y4YLJHlF2q5jg5pTE5CSz"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369162,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/2SYkXjj4fMmDYxKTeWMmkJ"
     },
     {
       "album": {

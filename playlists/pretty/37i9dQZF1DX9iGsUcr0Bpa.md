@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 
 > Classics from trailblazing women in hip\-hop\. Cover: Missy Elliott
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,306 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,426 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 47 | [Party Ain't A Party](https://open.spotify.com/track/3plNsz0KQaJjtW75gYTMEn) | [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [My Melody](https://open.spotify.com/album/5qFxfTMR6bzWVpmC1baGie) | 4:10 |
 | 48 | [3 Tha Hard Way](https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 4:12 |
 | 49 | [Poor Georgie](https://open.spotify.com/track/0wIEQYOLgV9TneTgM3aRVE) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [Act Like You Know \(Explicit Version\)](https://open.spotify.com/album/4eKcz8mSIGrPkibjjwRXqF) | 4:30 |
-| 50 | [Whuteva](https://open.spotify.com/track/5K66mTtWcmGelHC4FkqOFK) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story \(Explicit\)](https://open.spotify.com/album/3fsD8zvVTghKqePQ19oKLO) | 3:46 |
+| 50 | [Mask 2 My Face](https://open.spotify.com/track/3j4yKzIaTnsruQDmfaw2kK) | [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [Both Worlds, \*69](https://open.spotify.com/album/6QH3lzZB4MIpYGhuCISHKt) | 4:10 |
 
-Snapshot ID: `MCxiZjhmYmI3ZmUzYWU1ZDE0YzU5MmU1Yzk1ZmY2ZTMyM2RjODhhMmY0`
+Snapshot ID: `MCxiNDc1ZmJjZmExZmFhM2QwMmMwOTA3ZDk1NjEwZDZkYjRiNWI5ZDRk`

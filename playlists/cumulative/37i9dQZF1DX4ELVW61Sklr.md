@@ -4,7 +4,7 @@
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-148 songs - 9 hr 39 min
+149 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Silent Night](https://open.spotify.com/track/2mtm0aF6c7Yd66sFaE3ipu) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Give Love At Christmas](https://open.spotify.com/album/40nc0tA9KcJHexXijyqHSP) | 6:05 | 2021-12-15 |  |
 | [Silent Night](https://open.spotify.com/track/5P2cn4Xn6XX9QXS9HGMJ38) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [A Motown Holiday](https://open.spotify.com/album/2UQr1aieOS6AkM82LCU9JB) | 4:01 | 2021-12-15 | 2022-07-26 |
 | [Silver Bells](https://open.spotify.com/track/4llYiT4hqVZAshVmEAmc1W) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 2:56 | 2022-11-25 |  |
+| [Sleigh](https://open.spotify.com/track/68Yalnq8hXLbLzO9rsm3X8) | [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Sleigh](https://open.spotify.com/album/0uclO2Rx8I2zKd3AWRmpHs) | 3:25 | 2023-11-18 |  |
 | [Sleigh Ride](https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS) | [Winter Loversland](https://open.spotify.com/album/0RC79iOln9WK1Rcd9z7IXm) | 1:57 | 2021-12-15 |  |
 | [Sleigh Ride](https://open.spotify.com/track/3KHCV3XwRnNQrcM1jXHl1g) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Sleigh Ride \(Remixes\)](https://open.spotify.com/album/1PmqStRSXXG1rC7SotPbK1) | 3:44 | 2022-11-25 |  |
 | [Somebody's Waiting](https://open.spotify.com/track/7MeJ8GQz5nUxjrai6tEf3J) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Christmas With Brandy](https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk) | 3:01 | 2023-11-10 |  |
@@ -152,7 +153,7 @@
 | [Winter Wonderland \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/28cTgrTZZChH8qO2fvm6my) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Spotify Singles \- Holiday](https://open.spotify.com/album/1KXfyj4DeQVABeUTKxnBfG) | 3:38 | 2021-12-15 |  |
 | [Winter Wonderland \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/4wB2shyrhiiSjAArieIRYK) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Spotify Singles \- Holiday](https://open.spotify.com/album/4tljBHLATQbwuphb5wLO94) | 3:38 | 2021-12-15 | 2022-07-29 |
 | [Wishlist \(feat\. PJ Morton\)](https://open.spotify.com/track/7ypXUdwJthmzmTxJAWjr5G) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [December Baby](https://open.spotify.com/album/5gzHuhZpa8gB7ABxH60pNT) | 3:57 | 2021-12-15 |  |
-| [Wonderful Christmastime \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Spotify Singles \- Holiday](https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB) | 3:06 | 2021-12-15 |  |
+| [Wonderful Christmastime \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Spotify Singles \- Holiday](https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB) | 3:06 | 2021-12-15 | 2023-11-23 |
 | [Wrap Me Up](https://open.spotify.com/track/1RtVREAhqwLLN4QI6bzvQe) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Wrap Me Up](https://open.spotify.com/album/4IbL419tdab98FW1C2z9ny) | 3:33 | 2021-12-15 | 2022-11-26 |
 | [Wrap Me Up](https://open.spotify.com/track/6BH5Ls5uYLQCBwXResfDbw) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 3:34 | 2022-11-25 |  |
 | [You Bring The Love](https://open.spotify.com/track/149fBDwVVHfw2MlOMSJgiF) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS), [Louis York](https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb), [We Sound Crazy](https://open.spotify.com/artist/5PWUiJtn4mRYya62TSdZ04) | [You Bring The Love](https://open.spotify.com/album/58VcFrioXE1f8hhqwqA6y6) | 2:58 | 2023-11-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 冨岡 愛
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,544 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,805 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [Luv Myself](https://open.spotify.com/track/4woDrq2rIKBbI6UNkzB48j) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Luv Myself](https://open.spotify.com/album/4sJMZSWobdfCTgwICMGU6d) | 4:28 |
 | 50 | [The bothered birthday](https://open.spotify.com/track/2RJySXuT5ALvB2hPRPTCLX) | [Yuna Hoshino](https://open.spotify.com/artist/0PkmvSD3XRGyGrOScz4Av1) | [The bothered birthday](https://open.spotify.com/album/1keD0gL0gusiLlIRM0ubB0) | 3:47 |
 
-Snapshot ID: `MCw3YWY5MTAyZmQzYmI0OTA4MDhmODM2M2UyYWZkNjA0OGQ5OTAxOGUx`
+Snapshot ID: `MCw1MTlkNzUzOTkwZjFlYjgwNDEzOWI1NzViMjc5OGFkZmU3N2U4ZTMy`

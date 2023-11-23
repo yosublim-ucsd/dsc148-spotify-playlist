@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Dimple Saikia, Artwork: Isu Kim",
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Dhrriti Saharan, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -888,7 +888,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 149055,
       "name": "Akela",
       "url": "https://open.spotify.com/track/0rPhYhj6Ai48pfs88MjFHB"
@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 231000,
       "name": "Azaad",
       "url": "https://open.spotify.com/track/5BjV0cBPXAJJEAAW4JNb6r"
@@ -1810,7 +1810,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 244800,
       "name": "Barkha Bahaar",
       "url": "https://open.spotify.com/track/3RasEms9BsZBgdY25u5MVo"
@@ -4598,7 +4598,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 134512,
       "name": "Easy Come Easy Go",
       "url": "https://open.spotify.com/track/6UjMIBoyAgu0CbSIO62Dbr"
@@ -5833,6 +5833,28 @@
     },
     {
       "album": {
+        "name": "Gumshuda Main Hoon",
+        "url": "https://open.spotify.com/album/6aySSUidnzLpeWVjRHJeDv"
+      },
+      "artists": [
+        {
+          "name": "Ishaan Nigam",
+          "url": "https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2"
+        },
+        {
+          "name": "Brite Roy",
+          "url": "https://open.spotify.com/artist/7rxPUpZCGnK9I2SHVhTw1Y"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143641,
+      "name": "Gumshuda Main Hoon",
+      "url": "https://open.spotify.com/track/3WloGOKxA9SHMN30wxefa3"
+    },
+    {
+      "album": {
         "name": "Gumsum",
         "url": "https://open.spotify.com/album/3Wyz0NuatgyIfFhXjNMs3q"
       },
@@ -6142,7 +6164,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 215000,
       "name": "Hey Now",
       "url": "https://open.spotify.com/track/4iI7OkIZWkh4coWUfiREWa"
@@ -7145,6 +7167,24 @@
     },
     {
       "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/4lT4PR8m65a1eClXovw2K7"
+      },
+      "artists": [
+        {
+          "name": "Dev Mehta",
+          "url": "https://open.spotify.com/artist/36XfUWdNl0C8pE198a8scl"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217161,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/3DSEQ0vw0NbNcFtwDjFODN"
+    },
+    {
+      "album": {
         "name": "In The Memory Of You",
         "url": "https://open.spotify.com/album/5wgQ4sVCbNHk0YmCJyN1GC"
       },
@@ -7724,6 +7764,32 @@
     {
       "album": {
         "name": "Jahaan",
+        "url": "https://open.spotify.com/album/3tQL7BDhLcoqcijUqdLndX"
+      },
+      "artists": [
+        {
+          "name": "Abeer Chopra",
+          "url": "https://open.spotify.com/artist/09xj6gkWIutXfg7oGGm1RF"
+        },
+        {
+          "name": "Rhythm V",
+          "url": "https://open.spotify.com/artist/3y9truNExJUI46Q17RJvyD"
+        },
+        {
+          "name": "Ro",
+          "url": "https://open.spotify.com/artist/7vGhIQpt8BEDMmvc54Rbks"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Jahaan",
+      "url": "https://open.spotify.com/track/0lDbiE4PfsGJX61XUtSX6p"
+    },
+    {
+      "album": {
+        "name": "Jahaan",
         "url": "https://open.spotify.com/album/5bhr1CfHRDlEy9XAdctVfU"
       },
       "artists": [
@@ -7901,6 +7967,28 @@
     },
     {
       "album": {
+        "name": "Jeeya Jaaye Naa",
+        "url": "https://open.spotify.com/album/7iUkttSpAY0rf3IhMq3zbk"
+      },
+      "artists": [
+        {
+          "name": "Joell",
+          "url": "https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd"
+        },
+        {
+          "name": "Chinmayi Tripathi",
+          "url": "https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182480,
+      "name": "Jeeya Jaaye Naa",
+      "url": "https://open.spotify.com/track/1XvMkTZCTWVg4lh2uP3gSk"
+    },
+    {
+      "album": {
         "name": "Jhoom Le",
         "url": "https://open.spotify.com/album/7vduDX5f2h0owQQ12OLT0N"
       },
@@ -8064,6 +8152,32 @@
       "duration_ms": 267154,
       "name": "Josephine On The Floor",
       "url": "https://open.spotify.com/track/65acdnLjDjysEy1nMGu6jM"
+    },
+    {
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/22A52Bei3qUTPGA4Li8VGw"
+      },
+      "artists": [
+        {
+          "name": "Harini Iyer",
+          "url": "https://open.spotify.com/artist/3Wpq48rI8vokXpZ0y0XkMv"
+        },
+        {
+          "name": "Aleif Hamdan",
+          "url": "https://open.spotify.com/artist/0TmInNPGLSWyopwB9XNa2s"
+        },
+        {
+          "name": "Julian Schoming",
+          "url": "https://open.spotify.com/artist/3Mw5g22qLsyREdvcVRvyAi"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335623,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/31I0BHIOs0lydljTMGUrnu"
     },
     {
       "album": {
@@ -8510,6 +8624,24 @@
     {
       "album": {
         "name": "Kahaani",
+        "url": "https://open.spotify.com/album/5gcwr1YqpEQF22N7uK64t8"
+      },
+      "artists": [
+        {
+          "name": "Nidhi Wagle",
+          "url": "https://open.spotify.com/artist/3QhhebcxZAmtffJDKFLJ4I"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168192,
+      "name": "Kahaani",
+      "url": "https://open.spotify.com/track/3tscgHPxpOfUT2guSyjOYA"
+    },
+    {
+      "album": {
+        "name": "Kahaani",
         "url": "https://open.spotify.com/album/4lxUkMMvdKwdM6Hlwkmwtg"
       },
       "artists": [
@@ -8930,7 +9062,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 256764,
       "name": "Kar Kinare Mujhe",
       "url": "https://open.spotify.com/track/6gXO6W4mqlJyXr0XWBDj3z"
@@ -10132,6 +10264,24 @@
       "duration_ms": 274250,
       "name": "Le Chal Wahan Candle Light Version",
       "url": "https://open.spotify.com/track/3TxvxCQ8b1AS2r4WHGk67J"
+    },
+    {
+      "album": {
+        "name": "Leave This Place",
+        "url": "https://open.spotify.com/album/79Ei02Hoy6UD5Hz0Ci2GkC"
+      },
+      "artists": [
+        {
+          "name": "TheSinnerSaint",
+          "url": "https://open.spotify.com/artist/3gdMH3UoGfgZFdnE6NXSRP"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158980,
+      "name": "Leave This Place",
+      "url": "https://open.spotify.com/track/3X7PbO3FNSH17MSatZnN2E"
     },
     {
       "album": {
@@ -11374,6 +11524,28 @@
       "duration_ms": 198000,
       "name": "Mere Qareeb",
       "url": "https://open.spotify.com/track/3xkYg80DLOoOvYsDSBBPuR"
+    },
+    {
+      "album": {
+        "name": "Mere Qareeb",
+        "url": "https://open.spotify.com/album/0fovxe4eHfrnV0eT1AK94C"
+      },
+      "artists": [
+        {
+          "name": "Purple Stringz",
+          "url": "https://open.spotify.com/artist/4Iehn39e1T1sd4LfVqHXWB"
+        },
+        {
+          "name": "Doli Kalita",
+          "url": "https://open.spotify.com/artist/0mrcviG7p9gw7vlrGHIDA0"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158261,
+      "name": "Mere Qareeb",
+      "url": "https://open.spotify.com/track/6K5UseQMawDU2WKKVV4Jcz"
     },
     {
       "album": {
@@ -13820,7 +13992,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 202890,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/6YpLv9foS2WememOy83Iw4"
@@ -16511,6 +16683,28 @@
     },
     {
       "album": {
+        "name": "Tere Bina Jiya Jaye Na",
+        "url": "https://open.spotify.com/album/0oBm7u9JgClT1pOFZEilap"
+      },
+      "artists": [
+        {
+          "name": "Siddharth Bharadwaj",
+          "url": "https://open.spotify.com/artist/7595q9MtzJfP8AqfdWPVgR"
+        },
+        {
+          "name": "Ranamit Sarma",
+          "url": "https://open.spotify.com/artist/3lTFKOnGFnR3YqdFBHneR2"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234351,
+      "name": "Tere Bina Jiya Jaye Na",
+      "url": "https://open.spotify.com/track/0TthPVr1cZg4SuA7nsJe4a"
+    },
+    {
+      "album": {
         "name": "Tere Irade",
         "url": "https://open.spotify.com/album/5lQelyYoBHYfS6UCnL1Sty"
       },
@@ -16558,7 +16752,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 314594,
       "name": "Tere Liye",
       "url": "https://open.spotify.com/track/1z3nEVTxTwliGeHxFDeZsQ"
@@ -17403,6 +17597,24 @@
     },
     {
       "album": {
+        "name": "Tu Chal Diya",
+        "url": "https://open.spotify.com/album/6rxIukulxs2SrftCHVE5y2"
+      },
+      "artists": [
+        {
+          "name": "Pragya Sodhani",
+          "url": "https://open.spotify.com/artist/7uISpoX55zzPLpBvXzPyGc"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257785,
+      "name": "Tu Chal Diya",
+      "url": "https://open.spotify.com/track/5FuI91YuM1oEkyRBgHn0cA"
+    },
+    {
+      "album": {
         "name": "Tu Chodiyon Na",
         "url": "https://open.spotify.com/album/1DdgnxCTXd5ggIFAy3TtHe"
       },
@@ -18184,7 +18396,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 239999,
       "name": "Un Dinon",
       "url": "https://open.spotify.com/track/2WgOsBunjsUQbEn3tHOyCK"
@@ -19130,7 +19342,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 208894,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/1zRFBSJOkGqky3hjOCK85o"

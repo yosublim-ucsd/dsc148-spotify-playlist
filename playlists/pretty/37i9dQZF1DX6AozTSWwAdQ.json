@@ -1,12 +1,12 @@
 {
   "description": "\u6c92\u6709\u4ec0\u9ebc\u6bd4\u611f\u89ba\u597d\u66f4\u91cd\u8981\u4e86\uff01\u9019\u88e1\u7684\u6b4c\u66f2\u80fd\u5927\u5927\u632f\u596e\u5fc3\u60c5\u3001\u4ee4\u4f60\u5143\u6c23\u5341\u8db3\uff01",
-  "num_followers": 59814,
+  "num_followers": 59831,
   "original_name": "\u5fc3\u60c5\u5927\u632f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5N2U4OThjOWEwYTQwZWE3NDU2YTdjMGNhYTZhYWNhMDA2MWJkZjdi",
+  "snapshot_id": "MCxhNDdjZmE2MjA0OTgwZmIyNzkwZDY4MjgyZjYyOWEzMGUxNzhkZmM0",
   "tracks": [
     {
       "added_at": "2023-11-20 01:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-11-20 01:00:00",
       "album": {
-        "name": "HONEY (ARE U COMING?)",
-        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 167276,
-      "name": "HONEY (ARE U COMING?)",
-      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
-    },
-    {
-      "added_at": "2023-11-20 01:00:00",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 193000,
       "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
       "url": "https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45"
+    },
+    {
+      "added_at": "2023-11-20 01:00:00",
+      "album": {
+        "name": "HONEY (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 167276,
+      "name": "HONEY (ARE U COMING?)",
+      "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
     },
     {
       "added_at": "2023-11-20 01:00:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-11-20 01:00:00",
       "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 206539,
+      "name": "Santa's Coming for Us",
+      "url": "https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv"
+    },
+    {
+      "added_at": "2023-11-20 01:00:00",
+      "album": {
         "name": "Normal People Things",
         "url": "https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 164844,
       "name": "Normal People Things",
       "url": "https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p"
-    },
-    {
-      "added_at": "2023-11-20 01:00:00",
-      "album": {
-        "name": "No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",
-        "url": "https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS"
-      },
-      "artists": [
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "I'm Just a Kid",
-      "url": "https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG"
     },
     {
       "added_at": "2023-11-20 01:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-11-20 01:00:00",
       "album": {
+        "name": "No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)",
+        "url": "https://open.spotify.com/album/3W6TEVlmaP22E4KvWY9HrS"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "I'm Just a Kid",
+      "url": "https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG"
+    },
+    {
+      "added_at": "2023-11-20 01:00:00",
+      "album": {
         "name": "Sonder (2023)",
         "url": "https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 229436,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/1ELMCVbADOtZj8tYdS01nI"
-    },
-    {
-      "added_at": "2023-11-20 01:00:00",
-      "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 206539,
-      "name": "Santa's Coming for Us",
-      "url": "https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv"
     },
     {
       "added_at": "2023-11-20 01:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-11-20 01:00:00",
       "album": {
-        "name": "Back To Me / Alive",
-        "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 224968,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
-    },
-    {
-      "added_at": "2023-11-20 01:00:00",
-      "album": {
         "name": "The American Dream Is Killing Me",
         "url": "https://open.spotify.com/album/12VEQ6qRfhz9epkYVPE2nC"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 186270,
       "name": "The American Dream Is Killing Me",
       "url": "https://open.spotify.com/track/48SmjoT74xf4Zi07EHRt1s"
+    },
+    {
+      "added_at": "2023-11-20 01:00:00",
+      "album": {
+        "name": "Back To Me / Alive",
+        "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 224968,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD"
     },
     {
       "added_at": "2023-11-20 01:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-11-20 01:00:00",
       "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 258418,
-      "name": "American Teenager",
-      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
-    },
-    {
-      "added_at": "2023-11-20 01:00:00",
-      "album": {
         "name": "Already Over",
         "url": "https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 160640,
       "name": "Already Over",
       "url": "https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8"
+    },
+    {
+      "added_at": "2023-11-20 01:00:00",
+      "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 258418,
+      "name": "American Teenager",
+      "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
     },
     {
       "added_at": "2023-11-20 01:00:00",

@@ -2,7 +2,7 @@
 
 ### [EQUAL Anime](https://open.spotify.com/playlist/37i9dQZF1DXblYBkrEcpLK)
 
-> アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: EIKO starring 96猫
+> アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ヒグチアイ \(Ai Higuchi\)
 
 557 songs - 1 day 13 hr 37 min
 
@@ -103,7 +103,7 @@
 | [Fly with You!!](https://open.spotify.com/track/3HbYu8ekAukuOo5w71KBUp) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 4:34 | 2023-10-03 | 2023-10-18 |
 | [for...](https://open.spotify.com/track/1VF7SGJTafH27FNW2WJcJB) | [逢田梨香子](https://open.spotify.com/artist/7L3LvUmPSjYVIStpUxBsUu) | [Curtain raise](https://open.spotify.com/album/5jgPJpy4bePdsCkfLpQzip) | 3:31 | 2022-06-09 | 2022-07-28 |
 | [Forever U & I](https://open.spotify.com/track/3v0TLKy8v5Jr8wRbitWpzV) | [ヨハネ\(CV.小林愛香\)](https://open.spotify.com/artist/0Mhc2SHyQr07pN53aQ7txf) | [Forever U & I](https://open.spotify.com/album/4dpWX71NcDsWinA5NF9KrA) | 4:01 | 2023-09-12 | 2023-09-27 |
-| [Friends Are For](https://open.spotify.com/track/0ZyxK0yMUKlUpBXsYg0cmi) | [MOONCHILD](https://open.spotify.com/artist/4wZ56MQgx9kLpOmF3IuJmM) | [Friends Are For](https://open.spotify.com/album/08tOtAc9Wd3ca6vYh5iPVe) | 3:23 | 2023-11-16 |  |
+| [Friends Are For](https://open.spotify.com/track/0ZyxK0yMUKlUpBXsYg0cmi) | [MOONCHILD](https://open.spotify.com/artist/4wZ56MQgx9kLpOmF3IuJmM) | [Friends Are For](https://open.spotify.com/album/08tOtAc9Wd3ca6vYh5iPVe) | 3:23 | 2023-11-16 | 2023-11-23 |
 | [Full moon…!](https://open.spotify.com/track/2ZQaCiKPUz3gKtmhj3A57l) | [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q) | [TVアニメ「【推しの子】」キャラクターソングCD \(Vol.3\)](https://open.spotify.com/album/67zSBhEfFjdI0xRa8hR3ew) | 3:38 | 2023-07-04 | 2023-07-06 |
 | [FULL MOON…!](https://open.spotify.com/track/7K1tMixfZFxdUh8wjj8aha) | [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q) | [TV SERIES ”【OSHI NO KO】 ” \(Vol.3\)](https://open.spotify.com/album/2Fj6DhkX6JQFEAcay7jzAc) | 3:38 | 2023-07-04 | 2023-07-26 |
 | [Future Wing](https://open.spotify.com/track/5d58rXWjgbHQJFlo9ph4yD) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [Future Wing](https://open.spotify.com/album/69idlSBWg7B1dGiVqJ7S8D) | 4:12 | 2023-10-03 | 2023-10-18 |
@@ -244,7 +244,7 @@
 | [Shogeki](https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [Shogeki](https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh) | 3:01 | 2022-07-28 |  |
 | [Shooting Star](https://open.spotify.com/track/5CQckhFOdIUS1N4dAiFtNP) | [RAKURA](https://open.spotify.com/artist/3voKaAQ6dZPw9gMA7KOTcP) | [tint](https://open.spotify.com/album/5Y292CKdDGO2PEOHvGaAWe) | 2:37 | 2022-06-12 | 2022-07-27 |
 | [Shout Baby](https://open.spotify.com/track/3SNczkrn6bUm6zZM8i5XDe) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Shout Baby](https://open.spotify.com/album/5eOZfFGTrGw41rNqFjTaas) | 4:25 | 2022-06-09 | 2022-07-28 |
-| [Shout Baby](https://open.spotify.com/track/5K1m4aaPCxwnm9SKlWW1vh) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Shout Baby](https://open.spotify.com/album/09zBDn6RECoEaWhArkgnjf) | 4:25 | 2022-07-28 | 2023-11-12 |
+| [Shout Baby](https://open.spotify.com/track/5K1m4aaPCxwnm9SKlWW1vh) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Shout Baby](https://open.spotify.com/album/09zBDn6RECoEaWhArkgnjf) | 4:25 | 2022-07-28 |  |
 | [Sign](https://open.spotify.com/track/3pUeCDzHNM0yHN0FoPEadN) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Ephemera](https://open.spotify.com/album/4sZTfQPwOERRFZJ75QZgsO) | 3:53 | 2022-06-12 | 2022-06-15 |
 | [SIGN IS B \- AI SOLO VER.](https://open.spotify.com/track/7382VXbagXQiuxHc7uFZr5) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [アイ\(CV:高橋李依\)](https://open.spotify.com/artist/5TB17Dz2LxzznEW190lYs0) | [TV SERIES ”【OSHI NO KO】 ” \(Vol.1\)](https://open.spotify.com/album/1p6iimUATzHm5X377CBKUZ) | 3:33 | 2023-07-04 |  |
 | [SIGN IS B \- NEW ARRANGE SOLO VER.](https://open.spotify.com/track/7FhKL9ufaGBFz10O129ca1) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [TV SERIES ”【OSHI NO KO】 ” \(Vol.2\)](https://open.spotify.com/album/4MLXH5rVUsSl0nbmuljoVv) | 3:41 | 2023-07-04 | 2023-08-29 |
@@ -303,7 +303,7 @@
 | [Welcome!](https://open.spotify.com/track/4NrsLiWz4tu4eh9HVTC5JX) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [Welcome!](https://open.spotify.com/album/1OF3CVQb02uJtiMwXQOlBt) | 3:13 | 2023-10-03 | 2023-10-18 |
 | [Welcome!](https://open.spotify.com/track/5kcPYZhmbe7M7rcO3bI9PV) | [angela](https://open.spotify.com/artist/2M1CLA7j3jwJNs1s90nzdL) | [Welcome!](https://open.spotify.com/album/2KlzKHbKhBL8n3jWNUnUfd) | 3:14 | 2023-10-24 | 2023-11-18 |
 | [What's your Identity?](https://open.spotify.com/track/6ZYS22xpIw2AIDzpL6ZFp7) | [Sae Otsuka](https://open.spotify.com/artist/5GRsTGu3LNc4NlgG5Osobv) | [アバンタイトル](https://open.spotify.com/album/2eC8tp47jsNKiB8c3YmR4B) | 3:42 | 2022-06-24 | 2022-07-07 |
-| [White Lyrical Kingdom](https://open.spotify.com/track/2lZZCsLdqbkCtEADTsx9w1) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [White Lyrical Kingdom](https://open.spotify.com/album/4QC4x75GRyTk1btQkxUWZS) | 4:44 | 2023-11-16 |  |
+| [White Lyrical Kingdom](https://open.spotify.com/track/2lZZCsLdqbkCtEADTsx9w1) | [i☆Ris](https://open.spotify.com/artist/5AT0jKTq4D7IVlXsDscmQ1) | [White Lyrical Kingdom](https://open.spotify.com/album/4QC4x75GRyTk1btQkxUWZS) | 4:44 | 2023-11-16 | 2023-11-23 |
 | [YAMAZAKURA](https://open.spotify.com/track/16sWvf8J80qCiiBUKpBLIN) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [サイダーのように言葉が湧き上がる オリジナル・サウンドトラック](https://open.spotify.com/album/6pxDZTN1fMAzDOb0VEJ5s8) | 4:51 | 2022-07-07 | 2022-07-23 |
 | [YOU YOU YOU](https://open.spotify.com/track/2TCyzMmyiyTRCFywT93KmT) | [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP) | [EVERYBODY! EVERYBODY! / YOU YOU YOU](https://open.spotify.com/album/6iKqixctHE9MFc0JZFlUNt) | 3:55 | 2022-06-14 | 2022-06-17 |
 | [Your Name](https://open.spotify.com/track/3yU4bAIj873n4QI2otkPO8) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Your Name](https://open.spotify.com/album/2IPmik2ZoemnGk0V2VlWiI) | 3:37 | 2022-06-09 | 2022-07-28 |
@@ -525,7 +525,7 @@
 | [真っ白](https://open.spotify.com/track/4QGwWIrSqaITsefkbVSTHg) | [諸星すみれ](https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP) | [デビューミニアルバム「smile」](https://open.spotify.com/album/1P950IwnBjVGbImslEefQf) | 4:19 | 2022-06-09 | 2022-06-13 |
 | [知らなきゃ](https://open.spotify.com/track/0OKPegc5MwJHYhoMkjDxdS) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [TVアニメ「ハコヅメ\~交番女子の逆襲\~」オープニングテーマ「知らなきゃ」](https://open.spotify.com/album/2iiaezKudY12uKe5LT7Fmh) | 3:53 | 2022-06-09 | 2022-06-12 |
 | [祝福](https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [祝福](https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4) | 3:16 | 2023-01-17 |  |
-| [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 | 2022-06-21 | 2023-11-11 |
+| [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 | 2022-06-21 |  |
 | [穴空きの空](https://open.spotify.com/track/6jc77ebub9mX2uqELoF5Hh) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [穴空きの空](https://open.spotify.com/album/3lMML0Z6akQ8iIuHk61r8h) | 4:06 | 2022-06-09 | 2022-07-29 |
 | [空っぽの心](https://open.spotify.com/track/66EyebDoG7vr9AzvRbJ9H0) | [SARD UNDERGROUND](https://open.spotify.com/artist/7awtWS4uPN7SUSxSRilkMa) | [空っぽの心](https://open.spotify.com/album/6sCZgnJFMkZsm0YaEpYTi3) | 3:16 | 2022-06-24 | 2022-07-25 |
 | [空飛ぶペンギン](https://open.spotify.com/track/5rDH4z9tnXrSSDLUXUPTAt) | [青山吉能](https://open.spotify.com/artist/2oWuPhnuBys0IELQq85Ww2) | [空飛ぶペンギン](https://open.spotify.com/album/0kKe4lYB2uwxmwTZWqDbAe) | 4:13 | 2023-09-26 | 2023-10-04 |

@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 28415,
+  "num_followers": 28469,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDkzMTdjYWRjMzBjMDk5NGQzOGFlNTgwNTY3ZjZiODE3ZjQyZDE4",
+  "snapshot_id": "MCwxNDU5MzNlMTdhZGQ3ZDhlNDdkYTJjOGJlMDBmY2JmZjQ3NGUzYmY3",
   "tracks": [
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Sorpresa La Flauta",
-        "url": "https://open.spotify.com/album/54Isd9McgLu4F3BuV06MZJ"
-      },
-      "artists": [
-        {
-          "name": "Andy Harlow",
-          "url": "https://open.spotify.com/artist/0OLtqzqTcmE2LTN8t5CacG"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "La Loter\u00eda",
-      "url": "https://open.spotify.com/track/1i8gsWMG0WxYoPMw498quW"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
         "name": "La Cr\u00edtica: Salseros De Coraz\u00f3n, Vol. 3",
         "url": "https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 239420,
       "name": "Pregones De San Crist\u00f3bal",
       "url": "https://open.spotify.com/track/64agTveoc8y1cXjfLHJG9c"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "Sorpresa La Flauta",
+        "url": "https://open.spotify.com/album/54Isd9McgLu4F3BuV06MZJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Harlow",
+          "url": "https://open.spotify.com/artist/0OLtqzqTcmE2LTN8t5CacG"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "La Loter\u00eda",
+      "url": "https://open.spotify.com/track/1i8gsWMG0WxYoPMw498quW"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
+        "name": "Colecci\u00f3n De Oro: La Cr\u00edtica Y Sus Cantantes, Vol. 1",
+        "url": "https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix"
+      },
+      "artists": [
+        {
+          "name": "La Critica",
+          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
+        }
+      ],
+      "duration_ms": 215272,
+      "name": "Cu\u00eddate Bi\u00e9n",
+      "url": "https://open.spotify.com/track/6T5ITpAYsPK1CfNPhtBKZm"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
         "name": "Live in Berlin",
         "url": "https://open.spotify.com/album/0fKzk4CCTilGtw4T4lBxFi"
       },
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Colecci\u00f3n De Oro: La Cr\u00edtica Y Sus Cantantes, Vol. 1",
-        "url": "https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix"
-      },
-      "artists": [
-        {
-          "name": "La Critica",
-          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
-        }
-      ],
-      "duration_ms": 215272,
-      "name": "Cu\u00eddate Bi\u00e9n",
-      "url": "https://open.spotify.com/track/6T5ITpAYsPK1CfNPhtBKZm"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
         "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
         "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
       },
@@ -1443,22 +1443,18 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "La Din\u00e1mica!",
-        "url": "https://open.spotify.com/album/0f3n5513x4jjxDMe8IvAaT"
+        "name": "La Cr\u00edtica: Salseros De Coraz\u00f3n, Vol. 3",
+        "url": "https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel"
       },
       "artists": [
         {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "La Critica",
+          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
         }
       ],
-      "duration_ms": 161946,
-      "name": "Tumba La Ca\u00f1a Jibarito",
-      "url": "https://open.spotify.com/track/3qiFFGj7QQ2XOFbO0NA56s"
+      "duration_ms": 243781,
+      "name": "Rumba Rumbero",
+      "url": "https://open.spotify.com/track/4gsXvTDs4yC7LrnJpNsWLA"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1475,6 +1471,26 @@
       "duration_ms": 167133,
       "name": "Mambo Goz\u00f3n",
       "url": "https://open.spotify.com/track/2P12SmID74922J8JwQd90j"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "La Din\u00e1mica!",
+        "url": "https://open.spotify.com/album/0f3n5513x4jjxDMe8IvAaT"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 161946,
+      "name": "Tumba La Ca\u00f1a Jibarito",
+      "url": "https://open.spotify.com/track/3qiFFGj7QQ2XOFbO0NA56s"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1543,22 +1559,6 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "La Cr\u00edtica: Salseros De Coraz\u00f3n, Vol. 3",
-        "url": "https://open.spotify.com/album/0icCOLmmUE8cpKPbLGrAel"
-      },
-      "artists": [
-        {
-          "name": "La Critica",
-          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
-        }
-      ],
-      "duration_ms": 243781,
-      "name": "Rumba Rumbero",
-      "url": "https://open.spotify.com/track/4gsXvTDs4yC7LrnJpNsWLA"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
         "name": "Separala Tambi\u00e9n! Cantando Tito Rodr\u00edguez",
         "url": "https://open.spotify.com/album/0NnMASskJ96x4sESAFpMCR"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 173046,
       "name": "Me Voy Pa Las Villas",
       "url": "https://open.spotify.com/track/5HCX01ucQXm6DQBO3z0aTh"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "Colecci\u00f3n De Oro: La Cr\u00edtica Y Sus Cantantes, Vol. 1",
+        "url": "https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix"
+      },
+      "artists": [
+        {
+          "name": "La Critica",
+          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
+        }
+      ],
+      "duration_ms": 235125,
+      "name": "Ya Se Pein\u00f3 Mar\u00eda",
+      "url": "https://open.spotify.com/track/5weRMk5hP0utlRS6nYK1dM"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1659,38 +1675,6 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Colecci\u00f3n De Oro: La Cr\u00edtica Y Sus Cantantes, Vol. 1",
-        "url": "https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix"
-      },
-      "artists": [
-        {
-          "name": "La Critica",
-          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
-        }
-      ],
-      "duration_ms": 235125,
-      "name": "Ya Se Pein\u00f3 Mar\u00eda",
-      "url": "https://open.spotify.com/track/5weRMk5hP0utlRS6nYK1dM"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/2tG9CZgoAY04Rr1iR5OstZ"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 299093,
-      "name": "Yo Me Quedo",
-      "url": "https://open.spotify.com/track/6bwLgRFk9bZa59Uof5fXBf"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
         "name": "Dave Santiago & Latin Affair",
         "url": "https://open.spotify.com/album/5nsIWHi6VDXMiQw7s55YHY"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 172226,
       "name": "Cuando Sale El Sol",
       "url": "https://open.spotify.com/track/0uf3jiwe0HBtiQL8zUbVmO"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/2tG9CZgoAY04Rr1iR5OstZ"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 299093,
+      "name": "Yo Me Quedo",
+      "url": "https://open.spotify.com/track/6bwLgRFk9bZa59Uof5fXBf"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
+        "name": "West Side Beat",
+        "url": "https://open.spotify.com/album/1f1d2MmipD04zEtytUAhT2"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez",
+          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+        }
+      ],
+      "duration_ms": 167640,
+      "name": "Matrimonio Feliz",
+      "url": "https://open.spotify.com/track/2dk2tOQ35mWaIkdv6HYE2X"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
         "name": "Vintage Cuba No. 90 - EP: Salta Perico",
         "url": "https://open.spotify.com/album/0PP7vABwnCQJAwR6g2nGnl"
       },
@@ -1791,22 +1807,6 @@
     {
       "added_at": "2023-10-19 19:33:34",
       "album": {
-        "name": "Sabor a Salsa",
-        "url": "https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z"
-      },
-      "artists": [
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        }
-      ],
-      "duration_ms": 376013,
-      "name": "La rebelion",
-      "url": "https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
         "name": "Instant Party",
         "url": "https://open.spotify.com/album/5EsC8QT3FQu6nhwcVoX9Kr"
       },
@@ -1819,6 +1819,22 @@
       "duration_ms": 346520,
       "name": "Fiesta A La King",
       "url": "https://open.spotify.com/track/5AamAvieYb8hFN5cmI6aPg"
+    },
+    {
+      "added_at": "2023-10-19 19:33:34",
+      "album": {
+        "name": "Sabor a Salsa",
+        "url": "https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z"
+      },
+      "artists": [
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        }
+      ],
+      "duration_ms": 376013,
+      "name": "La rebelion",
+      "url": "https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43"
     },
     {
       "added_at": "2023-10-19 19:33:34",
@@ -1851,22 +1867,6 @@
       "duration_ms": 332532,
       "name": "Nuestro Sue\u00f1o",
       "url": "https://open.spotify.com/track/0hrzWL0y3GVHEeWVDrWw5g"
-    },
-    {
-      "added_at": "2023-10-19 19:33:34",
-      "album": {
-        "name": "West Side Beat",
-        "url": "https://open.spotify.com/album/1f1d2MmipD04zEtytUAhT2"
-      },
-      "artists": [
-        {
-          "name": "Tito Rodriguez",
-          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
-        }
-      ],
-      "duration_ms": 167640,
-      "name": "Matrimonio Feliz",
-      "url": "https://open.spotify.com/track/2dk2tOQ35mWaIkdv6HYE2X"
     },
     {
       "added_at": "2023-10-19 19:33:34",

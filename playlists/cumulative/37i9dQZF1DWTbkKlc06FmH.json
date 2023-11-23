@@ -1715,6 +1715,28 @@
     },
     {
       "album": {
+        "name": "Cheat Life (feat. punchnello)(prod. by GRAY)",
+        "url": "https://open.spotify.com/album/3Tk0EPZRaUwlNyRhrUFxOL"
+      },
+      "artists": [
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        },
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154705,
+      "name": "Cheat Life (feat. punchnello)(prod. by GRAY)",
+      "url": "https://open.spotify.com/track/25ZpVBEhPmKuMwJHVbUXIG"
+    },
+    {
+      "album": {
         "name": "CHEAT LIFE (feat. punchnello)(prod. by GRAY)",
         "url": "https://open.spotify.com/album/5SrwSVphcftHJVl3QvbRrp"
       },
@@ -1730,7 +1752,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 154705,
       "name": "CHEAT LIFE (feat. punchnello)(prod. by GRAY)",
       "url": "https://open.spotify.com/track/5JKA7tGFrOFULXalGDdsr1"
@@ -4522,10 +4544,32 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 259539,
       "name": "Just A Game feat. Benny Sings",
       "url": "https://open.spotify.com/track/3Hjrizdjm4Knd5KiVgKW1l"
+    },
+    {
+      "album": {
+        "name": "Just A Game feat. Benny Sings",
+        "url": "https://open.spotify.com/album/5vrhmmQ8OL0SnNtEpNb5G0"
+      },
+      "artists": [
+        {
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
+        },
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259539,
+      "name": "Just A Game feat. Benny Sings",
+      "url": "https://open.spotify.com/track/788y834RoRJUQAH2O8jq7u"
     },
     {
       "album": {
@@ -4931,6 +4975,28 @@
     },
     {
       "album": {
+        "name": "Loa",
+        "url": "https://open.spotify.com/album/5OqNUWEYKUC2EBCIyJCzbJ"
+      },
+      "artists": [
+        {
+          "name": "Furui Riho",
+          "url": "https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh"
+        },
+        {
+          "name": "knoak",
+          "url": "https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226476,
+      "name": "Loa",
+      "url": "https://open.spotify.com/track/2v5d3HDGwzyiJ7hI7cOhLt"
+    },
+    {
+      "album": {
         "name": "LOA",
         "url": "https://open.spotify.com/album/6e3mISa6hpUWZFkmiv3Vdo"
       },
@@ -4946,7 +5012,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 226476,
       "name": "LOA",
       "url": "https://open.spotify.com/track/7fFwkEjPSEapRqQRSOH8uL"
@@ -7158,7 +7224,7 @@
     {
       "album": {
         "name": "pure",
-        "url": "https://open.spotify.com/album/69PIhKhUSBwZkJRTP4MSkj"
+        "url": "https://open.spotify.com/album/7yHEymRjZe5RVDm84rp3XW"
       },
       "artists": [
         {
@@ -7169,6 +7235,24 @@
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 205728,
+      "name": "pure",
+      "url": "https://open.spotify.com/track/2Ghs8zDKCFcrGIOUw6sF6n"
+    },
+    {
+      "album": {
+        "name": "pure",
+        "url": "https://open.spotify.com/album/69PIhKhUSBwZkJRTP4MSkj"
+      },
+      "artists": [
+        {
+          "name": "showmore",
+          "url": "https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-23",
       "duration_ms": 205728,
       "name": "pure",
       "url": "https://open.spotify.com/track/63TFuwZlCpaK4Y5BTqJFFP"

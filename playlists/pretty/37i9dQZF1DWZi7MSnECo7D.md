@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Bruno Berle
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,225 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,230 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 74 | [Tô Bem Sozin](https://open.spotify.com/track/4e5wyWT8OKRkZfrXvoluDd) | [Fxbricio](https://open.spotify.com/artist/7G28rKG3ECA7Pt6HFs54ZB), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Tô Bem Sozin](https://open.spotify.com/album/69TH1pWebxqDKWcjCqKSWO) | 3:48 |
 | 75 | [Desabriga](https://open.spotify.com/track/4lZACQsjOZo5XxwUBK3KW2) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [Desabriga](https://open.spotify.com/album/60jnx3HvluMJu7Q0G3xIw3) | 3:05 |
 
-Snapshot ID: `MCxiZGQxYWQzMTk3Y2FjZTk3ZWZlOWEzZjUxM2ZlMzdjZjhiYzJlNDFl`
+Snapshot ID: `MCw5OTdlOTYxMDlkNzkwN2I0MDQ0OTA5ZDhhNjY0Mjk0ZWY3NjY1NjUw`

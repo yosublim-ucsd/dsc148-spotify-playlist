@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie driving the current\. Cover: Jordan Ward
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,247 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,295 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 49 | [Love You](https://open.spotify.com/track/7lTWrTbrL3BFcc2UZRMSzy) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Love You](https://open.spotify.com/album/52WW7hHCH0hlS77PVWplta) | 2:56 |
 | 50 | [Touch Me](https://open.spotify.com/track/4uIVFtMN3AlkLfGYGV7TPM) | [DivineDevine](https://open.spotify.com/artist/2FmbdQRR6CJb0ZY5LW8bKJ), [Shai Nowell](https://open.spotify.com/artist/6uClb6xksR6JJJPRvAvES5), [2oo7](https://open.spotify.com/artist/13R1iYcEssmzmqLw7EcWFu) | [Riot Of The Kelly Green Love](https://open.spotify.com/album/0EogU0lIOTI9cWwdtxVuKr) | 2:40 |
 
-Snapshot ID: `MCw2Yzc1YjFhYzFkNzY2ZTMxYjQ1MGY5YmQ2YWIxNjVmZjA1MmExMGZm`
+Snapshot ID: `MCwxMjZhMDA3NWU5OWExZWViMjg0ZGRmZDJjNDljYTRjMGY1NDY4YmM2`

@@ -3602,10 +3602,28 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 231173,
       "name": "Heartbreak Baby",
       "url": "https://open.spotify.com/track/13HuQ9p9eU8hBUX6eWf56H"
+    },
+    {
+      "album": {
+        "name": "Heartbreak Baby",
+        "url": "https://open.spotify.com/album/3CvXwi8gxyDhsHdTZWcsIN"
+      },
+      "artists": [
+        {
+          "name": "OLIVIA",
+          "url": "https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231173,
+      "name": "Heartbreak Baby",
+      "url": "https://open.spotify.com/track/5rHSd9zyNfFz8f1jkele2f"
     },
     {
       "album": {

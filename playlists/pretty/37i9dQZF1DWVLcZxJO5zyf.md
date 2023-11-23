@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça todos as novidades e hits do pop br aqui e agora! Foto: DUDA BEAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,460,118 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,460,226 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Saudade De Você](https://open.spotify.com/track/35GWqTSabXuqbfVxHeM8Or) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Saudade De Você](https://open.spotify.com/album/08lJ5G87tJYD81MOC0jSbo) | 3:55 |
+| 1 | [SAUDADE DE VOCÊ](https://open.spotify.com/track/35GWqTSabXuqbfVxHeM8Or) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [SAUDADE DE VOCÊ](https://open.spotify.com/album/08lJ5G87tJYD81MOC0jSbo) | 3:55 |
 | 2 | [Sou Musa do Verão](https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Sugar Papi](https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH) | 3:07 |
 | 3 | [Monstrão](https://open.spotify.com/track/2LZjtOXWZMSpRbQyd89HyQ) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Monstrão](https://open.spotify.com/album/0i0UyaiLEhUGQQT65177hS) | 2:07 |
 | 4 | [DA BRABA](https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 49 | [sentaDONA \(Remix\) s2](https://open.spotify.com/track/3sd2p4kE7xQmFH3lPnFl6h) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [sentaDONA \(Remix\) s2](https://open.spotify.com/album/1KpRGCxuMGo9hqsy4GTkb0) | 2:05 |
 | 50 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
 
-Snapshot ID: `MCw1MDNkZjgzYTc4ZDI2ODFiMDE4MjkxMTM4NjkyMTNlY2VhNzY3MzY1`
+Snapshot ID: `MCw0YzQ2ZmIxYzZhMWFlZWVjOGNkNmEyMWExZGZkOWYxMTU4OThiM2M1`

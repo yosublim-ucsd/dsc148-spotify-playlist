@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 
 > Big bands, big sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,213 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,268 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 26 | [Honeysuckle Rose](https://open.spotify.com/track/10Hiskp06jZeXKjiYbkuj7) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32), [Hawkins C\. All Star Jam Band](https://open.spotify.com/artist/2a3WvnK2EAxYYXyJZ8OxVz) | [Djangologie Vol.4 / 1937](https://open.spotify.com/album/46Ffy1LBhLRzUAz53jMIVI) | 2:46 |
 | 27 | [Take The "A" Train](https://open.spotify.com/track/6noZKuR5pjlEIynqvpFPbD) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX) | 6:44 |
 | 28 | [Orange Colored Sky \- Remastered 2005](https://open.spotify.com/track/0CEWQROXhDHxcbXlZYYdym) | [Nat King Cole Trio](https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ), [Stan Kenton & His Orchestra](https://open.spotify.com/artist/6MHjWRkmBS7mzh7Ol2Aw0b) | [The World Of Nat King Cole \(Expanded Edition\)](https://open.spotify.com/album/1z5Ut9gopzeYwM7QsseZtP) | 2:33 |
-| 29 | [Are You Having Any Fun](https://open.spotify.com/track/7J15xzJsmb6ikExnnMO7MP) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Tony Bennett With Count Baise](https://open.spotify.com/album/4WHnCeRDUhw3uecb62g7C6) | 2:43 |
-| 30 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great American Songbook](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) | 3:03 |
+| 29 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great American Songbook](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) | 3:03 |
+| 30 | [Are You Having Any Fun](https://open.spotify.com/track/7J15xzJsmb6ikExnnMO7MP) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Tony Bennett With Count Baise](https://open.spotify.com/album/4WHnCeRDUhw3uecb62g7C6) | 2:43 |
 | 31 | [Whirly\-Bird](https://open.spotify.com/track/5YtcHwvM9O2BayUOsghqhO) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [The Atomic Mr Basie](https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb) | 3:52 |
 | 32 | [Woodchopper’s Ball](https://open.spotify.com/track/28Ku0JK5FGK2tNdfI0rzXz) | [Woody Herman & His Orchestra](https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn) | [Welcome to My Dream](https://open.spotify.com/album/0DdGWUa83ELS8iOT66bo1o) | 3:15 |
 | 33 | [Happy Together](https://open.spotify.com/track/3fwtrg0fdPvtW793T6WPwF) | [Matt Forbes](https://open.spotify.com/artist/04NOFvtSv6ElxAgVdXsjdt) | [Happy Together](https://open.spotify.com/album/4RsJz7fSJgWzGhooCmzGoO) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 49 | [Luck Be a Lady](https://open.spotify.com/track/5HiCP97aBMKcaNJdp8CAPq) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [That's Life](https://open.spotify.com/album/3i0UVz6teoPDfy3JhK74Tr) | 3:04 |
 | 50 | [Three In One](https://open.spotify.com/track/5NdEAODwKFtl1ZJ0Bjyk9h) | [Thad Jones\-Mel Lewis Jazz Orchestra](https://open.spotify.com/artist/486Xo5PeXA3TAkK0hisOtc) | [Presenting Thad Jones\-Mel Lewis & The Jazz Orchestra](https://open.spotify.com/album/0GVZOTR7vm9mYlZrbKTDPh) | 5:48 |
 
-Snapshot ID: `MCw4NGRlYjcxZjEyNGVmNmM3MGZkZmFjNTQyNGFmNjNjMDU0MTU4Mzgw`
+Snapshot ID: `MCxjZjM1MGNhNzgyNGY2NTQyMGExM2Y5NGFjMTk5ODM1MjgyOTVmNWFh`

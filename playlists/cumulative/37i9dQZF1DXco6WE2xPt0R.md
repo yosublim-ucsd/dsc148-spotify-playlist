@@ -4,7 +4,7 @@
 
 > longe dos perigos noturnos
 
-259 songs - 15 hr 33 min
+261 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [No Love Song](https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [No Love Song](https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct) | 3:59 | 2022-02-25 |  |
 | [No Pussy For Losers](https://open.spotify.com/track/5VDF6rpkDLlbmB8Vf8sxea) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [New Growth](https://open.spotify.com/album/5FqqxmI6py4VQuCDCvGFJO) | 2:57 | 2023-11-10 |  |
 | [Nothing Even Matters](https://open.spotify.com/track/3xhXKRGahWzcXF8rD5gUvd) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3) | 5:50 | 2022-02-25 | 2022-07-29 |
-| [Nothing Even Matters](https://open.spotify.com/track/1pJsmr01tzKnFfjeCvzcdc) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Nothing Even Matters](https://open.spotify.com/album/6r5e7Kryn9PUFiwofr19K0) | 3:39 | 2022-09-23 |  |
+| [Nothing Even Matters](https://open.spotify.com/track/1pJsmr01tzKnFfjeCvzcdc) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Nothing Even Matters](https://open.spotify.com/album/6r5e7Kryn9PUFiwofr19K0) | 3:39 | 2022-09-23 | 2023-11-23 |
+| [Nothing Even Matters](https://open.spotify.com/track/6J0UG6nhMQUDV3h0Tnds5k) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Nothing Even Matters](https://open.spotify.com/album/6SkRYiDjvd9qqQZKIPUj8J) | 3:39 | 2023-11-10 |  |
 | [Nothing Even Matters \(feat\. D'Angelo\)](https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:50 | 2022-07-01 |  |
 | [Nu Beginning](https://open.spotify.com/track/0y02zQ9NMivG2bJvhYshY4) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Amber Navran](https://open.spotify.com/artist/4NRkD92d03MJcb326Jo9mt) | [Nu Beginning](https://open.spotify.com/album/3TJ8K56Zo9QRiUH3F39XXO) | 3:54 | 2022-05-25 | 2023-08-14 |
 | [Nu Beginning](https://open.spotify.com/track/35btHqeeA6qR7ToMRNKI3D) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Amber Navran](https://open.spotify.com/artist/4NRkD92d03MJcb326Jo9mt) | [Nu Beginning](https://open.spotify.com/album/0cDn0DpGWprEjyZtH455xm) | 3:54 | 2023-08-04 |  |
@@ -203,7 +204,8 @@
 | [Right Back In It](https://open.spotify.com/track/03y3sE8OXK9PecrdjnX6dB) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [Thought U Knew](https://open.spotify.com/album/21hotFpTsSBEofaYnbecMQ) | 3:42 | 2023-11-10 |  |
 | [Right Back In It](https://open.spotify.com/track/6v3SMTdZiexZt12g6rG5v1) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [Right Back In It](https://open.spotify.com/album/6LDfHzJYzCoJzKvDSjOFIk) | 3:42 | 2023-07-14 | 2023-11-11 |
 | [Right Time](https://open.spotify.com/track/279rl4oKt4TZGxMOaQa34T) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Right Time \(feat\. Reggie Becton\)](https://open.spotify.com/album/68GpIwLR39Lkm6B5QqmEIi) | 2:57 | 2022-02-25 |  |
-| [Satisfaction](https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Satisfaction](https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q) | 2:10 | 2022-05-06 |  |
+| [Satisfaction](https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Satisfaction](https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q) | 2:10 | 2022-05-06 | 2023-11-23 |
+| [Satisfaction](https://open.spotify.com/track/3XLDQwrRn2gC73UA2b9Bnc) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Satisfaction](https://open.spotify.com/album/78X3MDElRpnb0R0zZxwfys) | 2:10 | 2023-11-10 |  |
 | [Say Yea](https://open.spotify.com/track/72kAhVS63uHIQV7drmjjHZ) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Say Yea](https://open.spotify.com/album/7LRIPWJaK4kQfrfD94zTzS) | 3:25 | 2022-05-20 | 2022-10-15 |
 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 | 2022-02-25 | 2023-07-15 |
 | [Scene 1 \- A COLORS SHOW](https://open.spotify.com/track/10BWEQ0WDTc9JlG1kfNZI5) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Scene 1 \- A COLORS SHOW](https://open.spotify.com/album/0f39zUtqQNYunlzmj3yLmh) | 3:00 | 2022-10-14 |  |

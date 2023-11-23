@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2000s. Cover: Kelly Clarkson.",
-  "num_followers": 169169,
+  "num_followers": 169273,
   "original_name": "00s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDNiMzFmZmQ3NTM1MTUwMTI2OTcwYWI0NGFhMDAyZWY2NDE4Mjlm",
+  "snapshot_id": "MCxlOGU5NzQ1ODAzODJmNzE2ZGUwZDI0NmJhMTQxNmY4YTRjYTI1ZmM0",
   "tracks": [
     {
       "added_at": "2023-01-18 21:26:30",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "How To Save A Life",
-        "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
+        "name": "Stadium Arcadium",
+        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
       },
       "artists": [
         {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         }
       ],
-      "duration_ms": 262533,
-      "name": "How to Save a Life",
-      "url": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
+      "duration_ms": 334666,
+      "name": "Snow (Hey Oh)",
+      "url": "https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Stadium Arcadium",
-        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
+        "name": "How To Save A Life",
+        "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
         }
       ],
-      "duration_ms": 334666,
-      "name": "Snow (Hey Oh)",
-      "url": "https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO"
+      "duration_ms": 262533,
+      "name": "How to Save a Life",
+      "url": "https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Daniel Powter",
-        "url": "https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI"
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
       "artists": [
         {
-          "name": "Daniel Powter",
-          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 233640,
-      "name": "Bad Day",
-      "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
+      "duration_ms": 226680,
+      "name": "In My Place",
+      "url": "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -507,18 +507,18 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+        "name": "Daniel Powter",
+        "url": "https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Daniel Powter",
+          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
         }
       ],
-      "duration_ms": 226680,
-      "name": "In My Place",
-      "url": "https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah"
+      "duration_ms": 233640,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 287906,
+      "name": "Speed of Sound",
+      "url": "https://open.spotify.com/track/7clUVcSOtkNWa58Gw5RfD4"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
         "name": "The Long Road",
         "url": "https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 196093,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
-        "name": "X&Y",
-        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 287906,
-      "name": "Speed of Sound",
-      "url": "https://open.spotify.com/track/7clUVcSOtkNWa58Gw5RfD4"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Dead Letters",
-        "url": "https://open.spotify.com/album/1J9W7Fkg34vdOVa8gR7dx7"
-      },
-      "artists": [
-        {
-          "name": "The Rasmus",
-          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
-        }
-      ],
-      "duration_ms": 257920,
-      "name": "In the Shadows",
-      "url": "https://open.spotify.com/track/1fr92Vupmcs2vgLMFVQ7rd"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
         "name": "All the Right Reasons",
         "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 238173,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/0ADZ5dmXhlfzjMw6lefoPl"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
+        "name": "Dead Letters",
+        "url": "https://open.spotify.com/album/1J9W7Fkg34vdOVa8gR7dx7"
+      },
+      "artists": [
+        {
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+        }
+      ],
+      "duration_ms": 257920,
+      "name": "In the Shadows",
+      "url": "https://open.spotify.com/track/1fr92Vupmcs2vgLMFVQ7rd"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
+        "name": "America Town",
+        "url": "https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY"
+      },
+      "artists": [
+        {
+          "name": "Five For Fighting",
+          "url": "https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Superman (It's Not Easy)",
+      "url": "https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp"
+    },
+    {
+      "added_at": "2023-01-18 21:26:30",
+      "album": {
         "name": "All I Ever Wanted",
         "url": "https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "America Town",
-        "url": "https://open.spotify.com/album/5MqEXYwwyJYjOb3g7vJ9ZY"
+        "name": "All the Right Reasons",
+        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
       },
       "artists": [
         {
-          "name": "Five For Fighting",
-          "url": "https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA"
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 221693,
-      "name": "Superman (It's Not Easy)",
-      "url": "https://open.spotify.com/track/3TwtrR1yNLY1PMPsrGQpOp"
+      "duration_ms": 258920,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -859,22 +875,6 @@
       "duration_ms": 200480,
       "name": "Hero (feat. Josey Scott)",
       "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo"
-    },
-    {
-      "added_at": "2023-01-18 21:26:30",
-      "album": {
-        "name": "All the Right Reasons",
-        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
-      },
-      "artists": [
-        {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
-        }
-      ],
-      "duration_ms": 258920,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "Smash Mouth",
-        "url": "https://open.spotify.com/album/0E0q3hPeALlDvoDvYztYeH"
+        "name": "C'Mon C'Mon",
+        "url": "https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1"
       },
       "artists": [
         {
-          "name": "Smash Mouth",
-          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
         }
       ],
-      "duration_ms": 183400,
-      "name": "I'm A Believer - Radio Edit",
-      "url": "https://open.spotify.com/track/1RC5Mb0VhnlhnMlFDnrvE0"
+      "duration_ms": 292306,
+      "name": "Soak Up The Sun",
+      "url": "https://open.spotify.com/track/215JYyyUnrJ98NK3KEwu6d"
     },
     {
       "added_at": "2023-01-18 21:26:30",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-01-18 21:26:30",
       "album": {
-        "name": "C'Mon C'Mon",
-        "url": "https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1"
+        "name": "Smash Mouth",
+        "url": "https://open.spotify.com/album/0E0q3hPeALlDvoDvYztYeH"
       },
       "artists": [
         {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+          "name": "Smash Mouth",
+          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
         }
       ],
-      "duration_ms": 292306,
-      "name": "Soak Up The Sun",
-      "url": "https://open.spotify.com/track/215JYyyUnrJ98NK3KEwu6d"
+      "duration_ms": 183400,
+      "name": "I'm A Believer - Radio Edit",
+      "url": "https://open.spotify.com/track/1RC5Mb0VhnlhnMlFDnrvE0"
     },
     {
       "added_at": "2023-01-18 21:26:30",

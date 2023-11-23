@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,976 likes - 70 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,035 likes - 70 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 34 | [Home](https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 3:33 |
 | 35 | [Hopeful](https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Hopeful](https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT) | 4:08 |
 | 36 | [Tidal Waves](https://open.spotify.com/track/3YTZyDywwVOWOXw2d970Dx) | [Isaak Young](https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo) | [Tidal Waves](https://open.spotify.com/album/5JUNGkyetUR1RC0svtR772) | 3:10 |
-| 37 | [All I've Ever Known](https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [All I've Ever Known](https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK) | 3:38 |
+| 37 | [About You](https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [About You](https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta) | 2:34 |
 | 38 | [Cmon](https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:20 |
-| 39 | [About You](https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [About You](https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta) | 2:34 |
+| 39 | [All I've Ever Known](https://open.spotify.com/track/2uBELhgylBRkmLI5B5yCbe) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [All I've Ever Known](https://open.spotify.com/album/4hFPQHIvNtt8c9pn1F25uK) | 3:38 |
 | 40 | [Alone](https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Alone](https://open.spotify.com/album/0tdmeX1Dul9IyOVpVIy8Lt) | 3:50 |
 | 41 | [Wake Up Call](https://open.spotify.com/track/6HjoXmL9BiC1Cmb7oktz5N) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Sanctuary Point](https://open.spotify.com/album/2vnz72t4mSjrw1RhgfDSTN) | 3:44 |
 | 42 | [What a Wonderful World \- Krister Remix](https://open.spotify.com/track/7bHGlhtwAMSuaMyXn2GqII) | [No.oN](https://open.spotify.com/artist/0qMl6zkAQhTdHzzFA31ZZK), [Nikko Mad](https://open.spotify.com/artist/29c8c8UVfvvDTkco0Ndw4y), [Krister](https://open.spotify.com/artist/3zrnHI8M8fvS6VmPF8behc) | [What a Wonderful World \(Krister Remix\)](https://open.spotify.com/album/7K9B42KWbEt2pR4CFHt2DW) | 1:35 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 69 | [Heartaches](https://open.spotify.com/track/1hBvUKlvyia60edCcBsxkv) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Heartaches](https://open.spotify.com/album/5YPvNcQMA4ZIwvZthhtMz3) | 3:27 |
 | 70 | [Blue](https://open.spotify.com/track/15oqkxMUZc8vrA7D2aV81v) | [Daily J](https://open.spotify.com/artist/5Eu1oxL5oJhJxbRZYuuJEs) | [Blue](https://open.spotify.com/album/3DD7MzX5oOQhkOUpJhGIIP) | 3:26 |
 
-Snapshot ID: `MCxmNDUxZjY0NzljZWI5ZDE1MDFhODQzNTViNWZkMTg2YmY4MzQzZmQ2`
+Snapshot ID: `MCw5NDgzMTcyMDVjYjNkN2NlNmYwY2ZmZTdlMTRjMjc2MmRhNzNjNzky`

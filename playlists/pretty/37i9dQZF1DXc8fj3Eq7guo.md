@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8fj3Eq7guo.md) - [plain]
 
 > Where you at? We outside!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,374 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8fj3Eq7guo.md) - [plain]
 | 49 | [Kigali](https://open.spotify.com/track/5aKtS7Z8gdWmYH1BBbECiv) | [Kitoko Sound](https://open.spotify.com/artist/7DqZ1E3qLhl3dXPc7jiVOb), [Afro Zen](https://open.spotify.com/artist/31VvRi0goQyK22zqEqAboz), [Arándano](https://open.spotify.com/artist/4vFS1RK96haxCYFEOEtv69), [D.i.n BEATS](https://open.spotify.com/artist/01jkpVYZa78YgI61h3gZbO) | [Kigali](https://open.spotify.com/album/07emJhY6FQilkGBhHhsveQ) | 2:53 |
 | 50 | [Limpopo](https://open.spotify.com/track/6DX3c5LFsm0sJE8eZezUWu) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Take Over](https://open.spotify.com/album/59Oas92o7LPanTgxcsJTjU) | 4:13 |
 
-Snapshot ID: `MCxkNjY1YTU3NTBkYjcwOWNkMDYxYzQwZWUwNjE4OTQ1NmVjMGFmMWVk`
+Snapshot ID: `MCw5MjIzNDY3NjM2ODg2OWZkMmE4OWExYWE0MTcwN2Q2NmZmZThlZDQy`

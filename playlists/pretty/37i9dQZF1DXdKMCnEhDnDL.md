@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De beste Nederlandse hits van vroeger en nu\. Cover: Tino Martin & Mart Hoogkamer
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,545 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,778 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 16 | [Ik Kom Weer Thuis](https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Ik Kom Weer Thuis](https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk) | 3:03 |
 | 17 | [Leven](https://open.spotify.com/track/2Mv9R8FDkPCjAghezGUgJC) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Leven](https://open.spotify.com/album/22DIca4jxPu2N5o8vgKAKm) | 2:14 |
 | 18 | [Bassline](https://open.spotify.com/track/3Zehk6s1n9ZBoDKpYRTK7U) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Sliden EP](https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY) | 2:19 |
-| 19 | [Layla](https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Layla](https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl) | 2:43 |
+| 19 | [Layla](https://open.spotify.com/track/5IYrw3MenTovSfbgewbpgt) | [Phiec](https://open.spotify.com/artist/1huEWeyAvL6wYs0wsJWKVI), [CATO1948](https://open.spotify.com/artist/5UWB8WQR5gxyNqfhmNbXmt) | [Layla](https://open.spotify.com/album/7rP263q8KPQ0sxQLd8mGth) | 2:43 |
 | 20 | [Nickel For Goodbye](https://open.spotify.com/track/0mozpacigd082TTRqi5IZc) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Nickel For Goodbye](https://open.spotify.com/album/4xROG3RcoNOVF8A7IycHEI) | 3:51 |
 | 21 | [Laat Mij 'M Zijn](https://open.spotify.com/track/5QVaVjxwbu9G2qVqDXUjcJ) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [Meesterwerk](https://open.spotify.com/album/6tOUUlBUw8hSyZWnvzu5im) | 2:51 |
 | 22 | [This World Is Our Home](https://open.spotify.com/track/0HUapsBY3CrGXtMzUrsOvY) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [This World Is Our Home](https://open.spotify.com/album/1M1oZP4IZGIj4a4fG6JQny) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 99 | [Hallo](https://open.spotify.com/track/7GwNDFyxvpHAd4l1IfUDmr) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Hallo](https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1) | 2:12 |
 | 100 | [Vroeger](https://open.spotify.com/track/4ZxRhotBmIcc1WUCdSJIQt) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj) | [Vroeger](https://open.spotify.com/album/2tKIKvy498Gp8pqsfYobV4) | 2:44 |
 
-Snapshot ID: `MCxjN2UwZGRiYzJmMjczMjg1ZWUyN2MxZDIzNTJlYmMxZWEyNjUwM2Jk`
+Snapshot ID: `MCwxZDM0MjM0NGM1NDIyN2YwOGI1MDdmMWY2MWZiODQ2N2JlOGEzN2Q4`

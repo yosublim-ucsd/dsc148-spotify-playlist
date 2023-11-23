@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Ana Mena
 
-[Spotify](https://open.spotify.com/user/spotify) - 990,206 likes - 57 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 990,333 likes - 57 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 31 | [El Wey](https://open.spotify.com/track/4bFDvUCl0ZMQ6yHAUaSsF5) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [El Wey](https://open.spotify.com/album/52neKij6fmer1UfXcau0Dr) | 3:17 |
 | 32 | [Poquito a Poquito](https://open.spotify.com/track/1Uf6XdCFBmIrbs1Rbx8t9v) | [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Poquito a Poquito](https://open.spotify.com/album/1v7khGGbZK12Y7CMofMFxI) | 2:15 |
 | 33 | [El Olor De Tu Pelo](https://open.spotify.com/track/0XKYeF1y231Lr16dcZDYlK) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [El Olor De Tu Pelo](https://open.spotify.com/album/72hkK8DcshHwWV8gJREaF1) | 2:43 |
-| 34 | [Puerta del Sol](https://open.spotify.com/track/13Cpy3Cl5f1K0VlNw0xPaT) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Puerta del Sol](https://open.spotify.com/album/0Feep6LUA5614f0kBIgLtU) | 3:13 |
-| 35 | [RED FLAGS](https://open.spotify.com/track/4ihlB1pDXbQEtaDoMfyaYs) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [RED FLAGS](https://open.spotify.com/album/3xmrtrlaAAjBX7kVcAMB8G) | 3:10 |
+| 34 | [RED FLAGS](https://open.spotify.com/track/4ihlB1pDXbQEtaDoMfyaYs) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [RED FLAGS](https://open.spotify.com/album/3xmrtrlaAAjBX7kVcAMB8G) | 3:10 |
+| 35 | [Puerta del Sol](https://open.spotify.com/track/13Cpy3Cl5f1K0VlNw0xPaT) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Puerta del Sol](https://open.spotify.com/album/0Feep6LUA5614f0kBIgLtU) | 3:13 |
 | 36 | [PORTARSE MAL](https://open.spotify.com/track/20EnydkCy1x6OZsITbWQre) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [PORTARSE MAL](https://open.spotify.com/album/3X0mM0p3c8LhRw6T64svoe) | 3:12 |
 | 37 | [Me Enamoro](https://open.spotify.com/track/7JTqqfnDlXxkhtQnf4bsKp) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 2:44 |
 | 38 | [cuando salto me duele](https://open.spotify.com/track/5Z7mpQCwr8Ydr5WNQgO8Dd) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [cuando salto me duele](https://open.spotify.com/album/2MTsy6zxZYxcmm1VYkYySR) | 3:09 |
@@ -56,14 +56,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 46 | [RESPIRAR](https://open.spotify.com/track/4WSrc5DozzVTtZcGafsVvf) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Uri](https://open.spotify.com/artist/1Sdn8kqQIdeQBjwMiwyNNN), [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv) | [RESPIRAR](https://open.spotify.com/album/2mdpPhNB6O4BDobUFxI7ai) | 2:25 |
 | 47 | [Copita Champagne](https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW) | [Mireya Rivas](https://open.spotify.com/artist/2eYwxBc6FsGFC45eWrEgps), [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Copita Champagne](https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU) | 2:43 |
 | 48 | [En el mismo bar](https://open.spotify.com/track/06LzzgytKKWpG9T7fRRyR9) | [De Rancho](https://open.spotify.com/artist/5CvFmofsJbfkYoGOFryI2k), [H Roto](https://open.spotify.com/artist/5Q7VQ40wSh0GOm1CaNOIHL), [GARZI](https://open.spotify.com/artist/0sAHZQtvqLdcBvIrEAYo4m) | [En el mismo bar](https://open.spotify.com/album/5mK99XckqcPxkOJDt25MPF) | 2:42 |
-| 49 | [Frenesí](https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex) | [Danny Romero](https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM), [Fabbio](https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Frenesí](https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ) | 3:24 |
+| 49 | [Palabra Prohibida](https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Palabra Prohibida](https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ) | 2:56 |
 | 50 | [Que se caiga el cielo](https://open.spotify.com/track/5hpOWFyKa1hvE5DnCoGV2A) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Que se caiga el cielo](https://open.spotify.com/album/3OS2rIj6cyb2K34ATaVh2t) | 3:47 |
 | 51 | [TE TRAJE FLORES](https://open.spotify.com/track/4SRojgjWd8Vqc40sicAEC8) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O) | [TE TRAJE FLORES](https://open.spotify.com/album/4dzuTa3xJlpktfUcbp5i83) | 3:04 |
-| 52 | [MI BANDERA](https://open.spotify.com/track/60ZaHUyLn4CMUNSFUo1cdr) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [Lugar Paraíso](https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5) | 3:21 |
-| 53 | [Palabra Prohibida](https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Palabra Prohibida](https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ) | 2:56 |
+| 52 | [Frenesí](https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex) | [Danny Romero](https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM), [Fabbio](https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Frenesí](https://open.spotify.com/album/3LkkwtFWAINR8sxBuADadZ) | 3:24 |
+| 53 | [MI BANDERA](https://open.spotify.com/track/60ZaHUyLn4CMUNSFUo1cdr) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [Lugar Paraíso](https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5) | 3:21 |
 | 54 | [PALANTE](https://open.spotify.com/track/28cN5fxRkyri38B7vYA6rp) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [PALANTE](https://open.spotify.com/album/1XiLA8WVP7MMDvDCHJ9uKj) | 2:26 |
 | 55 | [volverás??](https://open.spotify.com/track/7z0gvrbNudxiGUJ3mga5XL) | [Hey Kid](https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF), [Paula Becker](https://open.spotify.com/artist/04ZTxnvwV4jOWqGpRR2xLz) | [volverás??](https://open.spotify.com/album/5qEWzce6jaRVuEnobRAAOg) | 3:14 |
 | 56 | [Pirata](https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [Pirata](https://open.spotify.com/album/0qNBlTwJDx8h3gfTSBJzYf) | 3:13 |
 | 57 | [Tocao](https://open.spotify.com/track/6QiA3JGlrHiatHiJZkcpCF) | [Danny Romero](https://open.spotify.com/artist/30HlKUFTsqlFQsPfyv2yuM), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Tocao](https://open.spotify.com/album/6p3hD2DfqEmuL7rLBnQk8q) | 3:25 |
 
-Snapshot ID: `MCwxM2VlZWQyNmQwODU2ZjVlNjljODg1OTNiZTQ4YWRhNWY5NzQzZjRi`
+Snapshot ID: `MCw0NjFhZjgwY2VkYmU5NTQ3YzllOGEzMDM4MTNkYWI1NmI4YWMzNmMy`

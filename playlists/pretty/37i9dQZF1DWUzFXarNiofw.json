@@ -1,12 +1,12 @@
 {
   "description": "The newest r&b drops, every week. Cover: Queen Naija",
-  "num_followers": 1030354,
+  "num_followers": 1030595,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDdjOTA1YjVhMTgwYjUzOTk0Y2M4NWRlZjZiM2NjNGM2Y2Q5YWUw",
+  "snapshot_id": "MCw3OGFjYzJlZTczYTdiZmMxYmM1ZTY1NDI5YmM0ZTQwY2MyNzM4Yzk3",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -218,6 +218,10 @@
         {
           "name": "H.E.R.",
           "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
       "duration_ms": 211190,

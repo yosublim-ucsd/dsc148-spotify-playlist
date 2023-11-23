@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 304083,
+  "num_followers": 304265,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2QyYTA3YzcyMTdmZWE0YzgwZjE5Y2JjODE0MTA0YWY2ZTFjYTll",
+  "snapshot_id": "MCwxMTU0OTVlNDM0YTdiYmM4M2RiZGYyZjc4MWEwOGNiNjBiNzhiMGU3",
   "tracks": [
     {
       "added_at": "2023-09-12 23:56:56",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-09-12 23:56:56",
       "album": {
+        "name": "Dr. Feelgood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 282653,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy"
+    },
+    {
+      "added_at": "2023-09-12 23:56:56",
+      "album": {
         "name": "Wisconsin Death Trip",
         "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2023-09-12 23:56:56",
       "album": {
-        "name": "Dr. Feelgood (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 282653,
-      "name": "Kickstart My Heart",
-      "url": "https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy"
-    },
-    {
-      "added_at": "2023-09-12 23:56:56",
-      "album": {
         "name": "The Poison",
         "url": "https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 243853,
       "name": "The Heart from Your Hate",
       "url": "https://open.spotify.com/track/5yDJpu0xh0d1w13gXaE3lS"
-    },
-    {
-      "added_at": "2023-09-12 23:56:56",
-      "album": {
-        "name": "Primo Victoria (Re-Armed)",
-        "url": "https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 250720,
-      "name": "Primo Victoria",
-      "url": "https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t"
     },
     {
       "added_at": "2023-09-12 23:56:56",
@@ -731,6 +715,22 @@
     {
       "added_at": "2023-09-12 23:56:56",
       "album": {
+        "name": "When Legends Rise",
+        "url": "https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 177048,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/0baguYeIsl8FtArOv1jV5o"
+    },
+    {
+      "added_at": "2023-09-12 23:56:56",
+      "album": {
         "name": "Mutter",
         "url": "https://open.spotify.com/album/7ikuEzL6xeAgu6yT6YVLy7"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 188600,
       "name": "Feuer frei!",
       "url": "https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc"
+    },
+    {
+      "added_at": "2023-09-12 23:56:56",
+      "album": {
+        "name": "Primo Victoria (Re-Armed)",
+        "url": "https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 250720,
+      "name": "Primo Victoria",
+      "url": "https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t"
     },
     {
       "added_at": "2023-09-12 23:56:56",
@@ -775,22 +791,6 @@
       "duration_ms": 202158,
       "name": "Blinded",
       "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
-    },
-    {
-      "added_at": "2023-09-12 23:56:56",
-      "album": {
-        "name": "When Legends Rise",
-        "url": "https://open.spotify.com/album/2wOY4tZ3bcJecD5ypBPHg9"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 177048,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/0baguYeIsl8FtArOv1jV5o"
     },
     {
       "added_at": "2023-09-12 23:56:56",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-09-12 23:56:56",
       "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "Rats",
-      "url": "https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0"
-    },
-    {
-      "added_at": "2023-09-12 23:56:56",
-      "album": {
         "name": "Piece of Mind (2015 Remaster)",
         "url": "https://open.spotify.com/album/0wza6LbioNIj4FsDAIDz66"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 252733,
       "name": "The Trooper (2015 Remaster)",
       "url": "https://open.spotify.com/track/2C3B3dva983HPMojFqWLOp"
+    },
+    {
+      "added_at": "2023-09-12 23:56:56",
+      "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "Rats",
+      "url": "https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0"
     },
     {
       "added_at": "2023-09-12 23:56:56",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-09-12 23:56:56",
       "album": {
-        "name": "Jomsviking",
-        "url": "https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 263760,
-      "name": "Raise Your Horns",
-      "url": "https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf"
-    },
-    {
-      "added_at": "2023-09-12 23:56:56",
-      "album": {
         "name": "Firepower",
         "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 207444,
       "name": "Firepower",
       "url": "https://open.spotify.com/track/3uDNzcGyRINKSFedKCvEwB"
+    },
+    {
+      "added_at": "2023-09-12 23:56:56",
+      "album": {
+        "name": "Jomsviking",
+        "url": "https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 263760,
+      "name": "Raise Your Horns",
+      "url": "https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf"
     },
     {
       "added_at": "2023-09-12 23:56:56",

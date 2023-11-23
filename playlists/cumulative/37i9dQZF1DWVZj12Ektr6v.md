@@ -4,7 +4,7 @@
 
 > To The World, Here is NCT! Hi we are NCT DREAM!
 
-80 songs - 4 hr 33 min
+81 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Blue Wave](https://open.spotify.com/track/4qJYwbYkxvijEEbTk5uF4m) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [ISTJ \- The 3rd Album](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) | 3:10 | 2023-07-17 |  |
 | [BOOM](https://open.spotify.com/track/6rcn967QN5JtkPOBDwYIuT) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Boom \- The 3rd Mini Album](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) | 3:15 | 2022-03-28 |  |
 | [Broken Melodies](https://open.spotify.com/track/5OehhztxLfJeCxUMbFfPy6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Broken Melodies](https://open.spotify.com/album/54rCRVcg8v1yA9MFCYol8W) | 3:46 | 2023-06-19 |  |
+| [Broken Melodies \- JVKE Remix](https://open.spotify.com/track/2LqesWzQTXoMv01fZTz0rh) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Broken Melodies \(JVKE Remix\)](https://open.spotify.com/album/3YnDJuzNXU0pT9g1CniODn) | 3:46 | 2023-11-22 |  |
 | [Bungee](https://open.spotify.com/track/2dRiyL82K8xPV3gLBDJZMx) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:28 | 2022-03-28 |  |
 | [Bye My First…](https://open.spotify.com/track/0qhTNlYrAJBXpHHzay7qvM) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Boom \- The 3rd Mini Album](https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc) | 3:27 | 2022-03-28 |  |
 | [Candle Light](https://open.spotify.com/track/6nUpdTLUSel3Zp6lhHZRbX) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candle Light \- SM STATION](https://open.spotify.com/album/077Bz6P3dTrhGjYx2vF0yY) | 3:56 | 2022-03-28 |  |

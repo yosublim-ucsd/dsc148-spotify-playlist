@@ -981,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Hima",
+        "url": "https://open.spotify.com/album/7qSk3L32X9nRUI7YV6ELJy"
+      },
+      "artists": [
+        {
+          "name": "3markets[ ]",
+          "url": "https://open.spotify.com/artist/0HxV66MjdNTz6E2oHZxS6g"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172340,
+      "name": "Hima",
+      "url": "https://open.spotify.com/track/3tI1VcYJ0TYFJowY3z3IBg"
+    },
+    {
+      "album": {
         "name": "Himitsu",
         "url": "https://open.spotify.com/album/03sy8AL2bY0ejjG6vjko6a"
       },
@@ -1284,6 +1302,24 @@
       "duration_ms": 176426,
       "name": "Lamp",
       "url": "https://open.spotify.com/track/1K9F6b0vDjtKkmpmW1Ub4E"
+    },
+    {
+      "album": {
+        "name": "Last Supper",
+        "url": "https://open.spotify.com/album/5c2Aeu1g0pwsQnpqXgvzlu"
+      },
+      "artists": [
+        {
+          "name": "GLASGOW",
+          "url": "https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200193,
+      "name": "Last Supper",
+      "url": "https://open.spotify.com/track/4sqPcQyiHESSahprYt5LMx"
     },
     {
       "album": {
@@ -1864,6 +1900,24 @@
       "duration_ms": 171346,
       "name": "Pain Pain Pain",
       "url": "https://open.spotify.com/track/2ycQ68NmaWeLzlQHNUBtuI"
+    },
+    {
+      "album": {
+        "name": "Singer's High",
+        "url": "https://open.spotify.com/album/7IMFRkZNqf5y7cEZvE7cky"
+      },
+      "artists": [
+        {
+          "name": "Singer's High",
+          "url": "https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172466,
+      "name": "panzamasuto",
+      "url": "https://open.spotify.com/track/1zVMbhWohOGBTxK5SPd83c"
     },
     {
       "album": {
@@ -2922,7 +2976,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 200193,
       "name": "\u3084\u308f\u3089\u304b\u3044\u30d1\u30f3",
       "url": "https://open.spotify.com/track/13iGFzuBbWAip4qIoVwdEV"
@@ -3588,7 +3642,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 172466,
       "name": "\u30d1\u30f3\u30b6\u30de\u30b9\u30c8",
       "url": "https://open.spotify.com/track/1ObqbQDyABhBhhofOITc58"
@@ -4978,7 +5032,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 172340,
       "name": "\u6687",
       "url": "https://open.spotify.com/track/293e3CLrYhSFE9gFmwolDL"

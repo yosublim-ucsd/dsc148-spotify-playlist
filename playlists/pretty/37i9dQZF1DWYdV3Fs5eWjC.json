@@ -1,12 +1,12 @@
 {
   "description": "Discover the multifaceted creativity of the black queer community. Cover: Janelle Mon\u00e1e",
-  "num_followers": 76009,
+  "num_followers": 76010,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTlhMTdiZDExMWYyNTgwY2RkMmQzODAyMjljMDE4ODYyN2Q3ZTYw",
+  "snapshot_id": "MCw3NTczM2ExYzQ2YTFkYTJiY2NjNDI4YTQ5MGQxMDFjYjljYzQyMzcz",
   "tracks": [
     {
       "added_at": "2021-08-03 17:22:27",
@@ -617,22 +617,6 @@
       "url": "https://open.spotify.com/track/0lsw4q8Jei7gEoV7kFe3DS"
     },
     {
-      "added_at": "2020-06-01 21:07:43",
-      "album": {
-        "name": "Grrrl Like",
-        "url": "https://open.spotify.com/album/5kqRjRGnmafy2tv229uHsp"
-      },
-      "artists": [
-        {
-          "name": "Dope Saint Jude",
-          "url": "https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN"
-        }
-      ],
-      "duration_ms": 171667,
-      "name": "Grrrl Like",
-      "url": "https://open.spotify.com/track/4EZGpYmEN1m5erWvnVsa8a"
-    },
-    {
       "added_at": "2020-10-23 15:11:26",
       "album": {
         "name": "Green Eyes",
@@ -647,6 +631,22 @@
       "duration_ms": 197524,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+    },
+    {
+      "added_at": "2020-06-01 21:07:43",
+      "album": {
+        "name": "Grrrl Like",
+        "url": "https://open.spotify.com/album/5kqRjRGnmafy2tv229uHsp"
+      },
+      "artists": [
+        {
+          "name": "Dope Saint Jude",
+          "url": "https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN"
+        }
+      ],
+      "duration_ms": 171667,
+      "name": "Grrrl Like",
+      "url": "https://open.spotify.com/track/4EZGpYmEN1m5erWvnVsa8a"
     },
     {
       "added_at": "2020-06-01 21:07:43",

@@ -4,7 +4,7 @@
 
 > Rock tranqui para concentrarse.
 
-78 songs - 4 hr 36 min
+79 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Desaparecido](https://open.spotify.com/track/4vy4VpbZA0nPd6seQfADhI) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Desaparecido](https://open.spotify.com/album/06eINx79WI2dm9D78cyn04) | 3:00 | 2021-05-13 |  |
 | [Desvanecer \- Versión Acústica](https://open.spotify.com/track/1ZilxgQ1uFsJZAKOdYCBLl) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 3:01 | 2021-05-13 |  |
 | [Domingo de Ceniza](https://open.spotify.com/track/4sOlPDKhf5fKPOAcWyBE1t) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Aurora](https://open.spotify.com/album/1OjVXhmpVqU9331Lqmq3of) | 3:48 | 2023-03-17 | 2023-04-01 |
+| [Ecos y Ruido](https://open.spotify.com/track/1u2aFq1CWNi97H2JQlYRKW) | [Kill Aniston](https://open.spotify.com/artist/4ltjTwCiYMegbR6ZA3Jbor) | [Ecos y Ruido](https://open.spotify.com/album/7yMKIXccKrlZt7A9EbLlgW) | 3:36 | 2023-11-22 |  |
 | [El Amor Despues Del Amor](https://open.spotify.com/track/2UInWUPg1jiOkXWCBr2CKD) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [El Amor Despues Del Amor](https://open.spotify.com/album/3u8jj80tHV1wlNcrT4QEdI) | 3:00 | 2021-05-13 |  |
 | [El Matador](https://open.spotify.com/track/3GSFaZ8m1nTEzZaZ5bco11) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [El Matador](https://open.spotify.com/album/4iRUuWS0A140Fm7tjKchrj) | 2:31 | 2021-05-13 |  |
 | [El Microbito](https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [El Microbito](https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR) | 3:14 | 2021-05-13 |  |

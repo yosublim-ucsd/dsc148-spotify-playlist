@@ -2,9 +2,9 @@
 
 ### [Chill the F\*\*\* out](https://open.spotify.com/playlist/1jelEUwXFe9YeEjdAR3aC8)
 
-> Just chill the F\*\*\* out to our mix of relaxing hits\. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix \| Chillax \| Relax
+> Just chill the F\*\*\* out to our mix of relaxing hits\. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix
 
-658 songs - 1 day 12 hr 34 min
+659 songs - 1 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Changes](https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Changes](https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e) | 3:09 | 2023-02-20 | 2023-05-01 |
 | [Chasing A Feeling](https://open.spotify.com/track/1sqVMoQANGKLdMi3qMdFSw) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Shaking Hands With Elvis](https://open.spotify.com/album/3q8zi9mKfPybw6geOqHbI3) | 2:50 | 2022-06-13 | 2022-07-11 |
 | [Checkers](https://open.spotify.com/track/7kfsIAWpJNEToyrRIQNDFH) | [Bonnie Kemplay](https://open.spotify.com/artist/4hPxGC5HIlcK36XGqoYCpZ) | [Checkers](https://open.spotify.com/album/28o7FjJg1spDrelWZXPfex) | 3:12 | 2022-11-10 | 2022-11-15 |
-| [Cinnamon Girl](https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:00 | 2023-11-08 |  |
+| [Cinnamon Girl](https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:00 | 2023-11-08 | 2023-11-23 |
 | [Cleanup Dive](https://open.spotify.com/track/1MlTuNCsKVdJQLUOGnuX3B) | [Grace Gardner](https://open.spotify.com/artist/3yRBlQnEPNnucMU0lAaxCt) | [Cleanup Dive](https://open.spotify.com/album/3Ka7AjpXM0IbrX06vd9gD0) | 4:33 | 2023-10-09 | 2023-10-18 |
 | [Close](https://open.spotify.com/track/10go0Q45BH1boBneiRDHiM) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Close](https://open.spotify.com/album/49PO4ocytnypbnWzjusOFC) | 2:58 | 2023-06-12 | 2023-06-20 |
 | [Close My Eyes](https://open.spotify.com/track/2h4I9QSVxzP6DwsKMO52st) | [Ezra Glatt](https://open.spotify.com/artist/1q5vdeaANN9uxk1na1WXek) | [Pathways](https://open.spotify.com/album/6O3nOESQ83406o4w97Wn1b) | 2:52 | 2023-01-16 | 2023-01-24 |
@@ -646,6 +646,7 @@
 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-04-17 | 2023-05-23 |
 | [Wishes](https://open.spotify.com/track/1VXR3v34RbLz5uMPRkJPvW) | [Allen Haley](https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb) | [Wishes](https://open.spotify.com/album/4Tpp1ho5wng1GkxsiSg8Sa) | 2:41 | 2023-08-21 | 2023-08-29 |
 | [Without Me](https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Without Me](https://open.spotify.com/album/0zzrCTzvL4ZmR42xF46Afm) | 3:21 | 2023-11-08 | 2023-11-21 |
+| [Witness Me \(feat\. Shawn Mendes, Stormzy & Kirk Franklin\)](https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Witness Me \(feat\. Shawn Mendes, Stormzy & Kirk Franklin\)](https://open.spotify.com/album/0FNmNqZYPEXQbLajHmR9En) | 3:45 | 2023-11-22 |  |
 | [Woman](https://open.spotify.com/track/3IlbpxM6lji2UsBL2VYIAn) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH) | 4:34 | 2022-10-13 | 2023-02-23 |
 | [Woman](https://open.spotify.com/track/4LngVAmigX4WrBEDfonBlU) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4cKEpUZp7REMrSjd4ICCZz) | 4:34 | 2022-08-19 | 2022-10-11 |
 | [Woman No](https://open.spotify.com/track/1FmvLSFlQNc2z8BFGOP8kn) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Woman No](https://open.spotify.com/album/7fSmCvKf3HjfCiq3dGDFP2) | 3:28 | 2023-02-27 | 2023-03-07 |

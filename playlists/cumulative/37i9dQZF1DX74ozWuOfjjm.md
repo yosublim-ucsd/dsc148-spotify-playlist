@@ -4,7 +4,7 @@
 
 > Listen to the women of Au & NZ at full volume! Cover: The Veronicas
 
-528 songs - 1 day 4 hr 23 min
+529 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Asphalt](https://open.spotify.com/track/7wsZgP1uN9IRlcH0NoCVq9) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Asphalt](https://open.spotify.com/album/10N8STYVe81IzMCAkA8eBf) | 2:34 | 2023-11-17 |  |
 | [Astral Projection](https://open.spotify.com/track/4Pg6eqgANtv5uZiUYkH9NX) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Astral Projection](https://open.spotify.com/album/1eDcD5cHvzCPcSuB9GdB06) | 3:52 | 2022-04-05 | 2022-05-28 |
 | [Baby Don't Fight It](https://open.spotify.com/track/6KgVaUmyv6CFjb9ZjXVQkV) | [Asha Jefferies](https://open.spotify.com/artist/4XUmpHj581ooyS5rJuCBJg) | [Baby Don't Fight It](https://open.spotify.com/album/5sgqCZRIWkjKAvo8qiZvkd) | 3:47 | 2023-10-31 |  |
-| [Baby Mama](https://open.spotify.com/track/273vdzfgPWUOKEzgcZb0tt) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO) | [Baby Mama](https://open.spotify.com/album/0pT6T1yjiHVl9JG41Br9n0) | 3:34 | 2023-05-12 |  |
+| [Baby Mama](https://open.spotify.com/track/273vdzfgPWUOKEzgcZb0tt) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO) | [Baby Mama](https://open.spotify.com/album/0pT6T1yjiHVl9JG41Br9n0) | 3:34 | 2023-05-12 | 2023-11-23 |
+| [Baby Mama](https://open.spotify.com/track/6Tw2kvzyRYMQLq0kNhX83w) | [Bailey Wiley](https://open.spotify.com/artist/48mqgfPfJ8cyxGNNJ2jpSO) | [Baby Mama](https://open.spotify.com/album/7cDGoweZdUcioBZTTWbAOs) | 3:34 | 2023-11-17 |  |
 | [Back To Your Heart](https://open.spotify.com/track/6t0HlyysZGmCCj1yNgZT7W) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Back To Your Heart](https://open.spotify.com/album/4melEKaCbMfBiFl22B2elc) | 3:15 | 2023-08-15 |  |
 | [Backbone](https://open.spotify.com/track/1DWWHqw2Uykp2OC9szKUUW) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Backbone](https://open.spotify.com/album/3KiSUV7EetsmikzSUv2cGa) | 3:00 | 2023-06-30 |  |
 | [Backseat of My Mind \- Radio Edit](https://open.spotify.com/track/1J4kj8tzo0G55ylWK7IMXL) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Backseat of My Mind](https://open.spotify.com/album/2hdB4ZjP8tMqYCM6ylx6YU) | 3:30 | 2022-05-27 | 2022-09-06 |
@@ -170,7 +171,7 @@
 | [Fuck My Money](https://open.spotify.com/track/5tcz08acmFO5SfXwhBMHCt) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Fuck My Money](https://open.spotify.com/album/17jtrUDqTib0dp9CAsLecX) | 2:41 | 2023-02-28 | 2023-08-16 |
 | [Ghost](https://open.spotify.com/track/4gpeE0yoKLMcz0jRuUZRwV) | [Cassie Henderson](https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr) | [The Pink Chapter](https://open.spotify.com/album/6k6wmEOV5gKazj2lJEfgiy) | 4:33 | 2023-09-19 | 2023-09-21 |
 | [Ghost](https://open.spotify.com/track/6V7srdT0Mu63F4XN97buVZ) | [Cassie Henderson](https://open.spotify.com/artist/2lZ09YCpdWMMmBTSdDqspr) | [The Pink Chapter](https://open.spotify.com/album/1CQNzjeDFVKqUeveRH9Tar) | 4:33 | 2023-09-19 |  |
-| [Ghost](https://open.spotify.com/track/3zZInrkeo7dj4D2Wu5lvnn) | [Ricki\-Lee](https://open.spotify.com/artist/07lgEPGfoA4Lqos6YGYPDU) | [Ghost](https://open.spotify.com/album/7F2SSNO9UHdED1tJQcfUAZ) | 3:05 | 2023-11-10 |  |
+| [Ghost](https://open.spotify.com/track/3zZInrkeo7dj4D2Wu5lvnn) | [Ricki\-Lee](https://open.spotify.com/artist/07lgEPGfoA4Lqos6YGYPDU) | [Ghost](https://open.spotify.com/album/7F2SSNO9UHdED1tJQcfUAZ) | 3:07 | 2023-11-10 |  |
 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 | 2023-09-30 |  |
 | [Give It Hell](https://open.spotify.com/track/3HLfUZSknynfsgCRW9Tp2I) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Give It Hell](https://open.spotify.com/album/0nfZ5UQSjxfYF4MC5YFxC2) | 3:24 | 2022-02-03 | 2022-03-07 |
 | [Give You Everything](https://open.spotify.com/track/6PMRGsl6rIZOdT3PrsjXtT) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Give You Everything](https://open.spotify.com/album/7Kun6EouwhyDRRTku3xGgi) | 3:23 | 2022-03-01 | 2022-05-28 |

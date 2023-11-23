@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 
 > <a href="spotify:artist:3UlAQex8nw3vquHcmY8fpb">Sinego's</a> favorite tracks\. Updated regularly\. Curated by Sinego\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,210 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,281 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcakKtomq71w.md) - [plain]
 | 49 | [A Flecha \- Extended](https://open.spotify.com/track/5uzzl0M6zG2L2nByFip1Z3) | [Natema](https://open.spotify.com/artist/4rRv0Fox6Cw8lHMorSyksg) | [A Flecha](https://open.spotify.com/album/1ukLthhXWSmgM73XHTMT9T) | 6:05 |
 | 50 | [Chan Chan](https://open.spotify.com/track/0K4Cv55G86CAGt2wwRIceK) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Joao del Monte](https://open.spotify.com/artist/7pMIhJRnRP1wg1rAW3wy9v) | [Chan Chan](https://open.spotify.com/album/4TFMCF9Z7ZYvvlLcMRFzxD) | 5:18 |
 
-Snapshot ID: `MCxmNmY2YTlmZmQ5Yjg5MDE5ZWRiMTQ1ZmNiMTE2ZWQyY2YwOTQ3ZmEz`
+Snapshot ID: `MCwyOWM5ZGYwYjdkMGMyYmZjNWQwOTE3OWYxZGNkOTMyNDNkNjEzMTcy`

@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: Chilli Beans.
 
-1,025 songs - 2 day 16 hr 31 min
+1,029 songs - 2 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [LAST FOREVER](https://open.spotify.com/track/3LGrZHuqKCts17QUjaOPm8) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [LAST FOREVER](https://open.spotify.com/album/73tNOaqid3GTZjHaQx7lQ4) | 4:16 | 2023-05-16 | 2023-06-21 |
 | [LAST PARADISE](https://open.spotify.com/track/3TSQBufd7cUzhn7WKy5DWd) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/5iXPHOx4enp2jKYSPQTgMd) | 3:40 | 2023-07-11 | 2023-07-13 |
 | [LAST PARADISE](https://open.spotify.com/track/5SfXOoYk181gFxteYvmGSo) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/2jIf8JcgSXB8mCaAdR9Unx) | 3:40 | 2023-07-11 | 2023-09-22 |
+| [Last Supper](https://open.spotify.com/track/4sqPcQyiHESSahprYt5LMx) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [Last Supper](https://open.spotify.com/album/5c2Aeu1g0pwsQnpqXgvzlu) | 3:20 | 2023-11-21 |  |
 | [Leap](https://open.spotify.com/track/3hrZ10jvm7019DdwZLxmCU) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Leap](https://open.spotify.com/album/2RPT4dc1XDtfpyALnf0yq7) | 4:06 | 2023-03-14 | 2023-03-16 |
 | [Leap](https://open.spotify.com/track/5UvLomZ74b75rzQmYVkhG7) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Leap](https://open.spotify.com/album/7HYIajVHlesffzuOM67G6Q) | 4:06 | 2023-03-14 | 2023-04-05 |
 | [Life](https://open.spotify.com/track/37a5ZqRLzP1msTWdV2fc9q) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Life](https://open.spotify.com/album/7zPWO2JKcttuUQe2flGSjA) | 3:11 | 2023-08-15 | 2023-09-20 |
@@ -299,7 +300,8 @@
 | [Light and Darkness](https://open.spotify.com/track/0olkiWqNuL76Zul02kqS0o) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Light and Darkness](https://open.spotify.com/album/3WDhH38G6iRALKLUjM20VL) | 4:04 | 2023-02-23 | 2023-03-25 |
 | [Listen](https://open.spotify.com/track/5rtulpUZ7hinDGwe46ondS) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Listen](https://open.spotify.com/album/5duMvcqwktn0TEvcoRkDJm) | 4:10 | 2023-02-28 | 2023-03-31 |
 | [Little Sparrow](https://open.spotify.com/track/3E8afOCrmBwpaWJa088oiK) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [Little Sparrow](https://open.spotify.com/album/5GxWPcPEess2AWA8YswjHE) | 3:11 | 2023-07-25 | 2023-08-16 |
-| [Lively Christmas](https://open.spotify.com/track/6r3CoPret0z1iBjUEnnlB8) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Lively Christmas](https://open.spotify.com/album/0W6Ot4XHxqDZbZGLGCjRrP) | 3:18 | 2023-11-21 |  |
+| [Lively Christmas](https://open.spotify.com/track/53DGlr6zHEfNFQV4719Wsd) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Lively Christmas](https://open.spotify.com/album/4XRSy18v6qt4iAzmqc9rXi) | 3:18 | 2023-11-21 |  |
+| [Lively Christmas](https://open.spotify.com/track/6r3CoPret0z1iBjUEnnlB8) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Lively Christmas](https://open.spotify.com/album/0W6Ot4XHxqDZbZGLGCjRrP) | 3:18 | 2023-11-21 | 2023-11-23 |
 | [LOST](https://open.spotify.com/track/4MqmrcRFEFv2xkQLZWaCWf) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 3:43 | 2023-11-07 |  |
 | [LOTUS](https://open.spotify.com/track/2ltQSZL2wJ7tZGI9iuEgKP) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [LOTUS](https://open.spotify.com/album/4FCFA4Jhv12f4DSemJgtsN) | 5:26 | 2023-08-22 | 2023-09-27 |
 | [LOTUS](https://open.spotify.com/track/4qDe8F9LpIIvd7xN2sJzN5) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [LOTUS](https://open.spotify.com/album/1g8SzxU5rOWw2X0yCZ9A39) | 5:26 | 2023-08-22 | 2023-08-24 |
@@ -320,7 +322,8 @@
 | [Mama's Pie](https://open.spotify.com/track/6ykodFke0uF1y6RLQt0zzr) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Mama's Pie](https://open.spotify.com/album/0OKTVjdBXcxBkksj2tlztZ) | 3:45 | 2023-01-24 | 2023-02-15 |
 | [Masquerade Parade](https://open.spotify.com/track/5WXr7EX614ZvEPgsAIBScz) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [Masquerade Parade](https://open.spotify.com/album/7v57E9Kbu6Di4AXnCBkqm5) | 3:54 | 2023-07-11 | 2023-07-26 |
 | [Match Pomp](https://open.spotify.com/track/1s27XQgfXccu3SwpsU3ZBP) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [HUMANIAC](https://open.spotify.com/album/5wYKiUTV4VrL30c638WAME) | 3:11 | 2023-11-14 |  |
-| [Maybe I should die with you](https://open.spotify.com/track/33W1lz1ejtTU4NOfoesFp2) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Maybe I should die with you](https://open.spotify.com/album/6LblXqNqBXHUMUTLzmhX7C) | 5:35 | 2023-11-21 |  |
+| [Maybe I should die with you](https://open.spotify.com/track/1SUUK6C8DAteFfcOygsdJo) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Maybe I should die with you](https://open.spotify.com/album/0FEkgIsDVj9Aeyd1iApTG3) | 5:35 | 2023-11-21 |  |
+| [Maybe I should die with you](https://open.spotify.com/track/33W1lz1ejtTU4NOfoesFp2) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Maybe I should die with you](https://open.spotify.com/album/6LblXqNqBXHUMUTLzmhX7C) | 5:35 | 2023-11-21 | 2023-11-23 |
 | [memoria](https://open.spotify.com/track/2qFyT85n89vYkxdVOCn1GE) | [AIRCRAFT](https://open.spotify.com/artist/56xP3O4YvqejlueiysaheO) | [memoria](https://open.spotify.com/album/5gAn7GfKbxBp520YiqbGYa) | 3:40 | 2023-05-23 | 2023-06-28 |
 | [Memory](https://open.spotify.com/track/5VjIsZGx4Io1lGrjDeZZtI) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [Memory](https://open.spotify.com/album/1BZIL3wcac9vq6EQUXZMbl) | 3:37 | 2023-11-07 |  |
 | [Messages that don't reach you](https://open.spotify.com/track/59IEVzGqH7942VwaRP4DIp) | [小山田壮平](https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v) | [Messages that don't reach you](https://open.spotify.com/album/7yH7OsvM7a11HaCOb68azC) | 4:07 | 2023-11-10 |  |
@@ -378,6 +381,7 @@
 | [Ougon No Hibi](https://open.spotify.com/track/4AjvNnE1FWK8kz0p85qrWS) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/4L8Bs6GXOzzo6aytp3ACOr) | 3:26 | 2023-03-22 | 2023-06-07 |
 | [Over the rain\~Hikari no hashi\~ \- Ryu\-Take 2023 ver.](https://open.spotify.com/track/7cjE6T1u6wqUY3jtNW3g95) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Over the rain\~Hikari no hashi\~ \(Ryu\-Take 2023 ver.\)](https://open.spotify.com/album/3gsC9sx5X4FKPG30MPD8BR) | 4:38 | 2023-08-15 | 2023-09-15 |
 | [Page One](https://open.spotify.com/track/3yWXrzzmQFMxOe9bVcQVJ2) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [Page One](https://open.spotify.com/album/3w754CuU5wKeIVJSn0IEa8) | 2:58 | 2023-07-25 | 2023-08-30 |
+| [panzamasuto](https://open.spotify.com/track/1zVMbhWohOGBTxK5SPd83c) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Singer's High](https://open.spotify.com/album/7IMFRkZNqf5y7cEZvE7cky) | 2:52 | 2023-11-21 |  |
 | [Paradox](https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Paradox](https://open.spotify.com/album/5CVLZcnzPNgpSUqJA71HYz) | 4:01 | 2023-04-04 | 2023-06-21 |
 | [Paradox](https://open.spotify.com/track/0Xz3vuo3cINtRsZWMsxZUx) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh), [Bonnie Fraser](https://open.spotify.com/artist/4lPsOekQkRVNqFikwNd7jZ) | [Paradox](https://open.spotify.com/album/33O3I5EWGkW54jeNWW1lZZ) | 4:01 | 2023-06-20 | 2023-09-06 |
 | [Parasol](https://open.spotify.com/track/3exFdWjEOzH8fOq1U2c8EI) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [gravity](https://open.spotify.com/album/7HDUHwXlqdvOYYtgAqx54M) | 2:47 | 2023-08-22 | 2023-09-27 |
@@ -620,7 +624,7 @@
 | [まぶた](https://open.spotify.com/track/6YCwX5jlAEFL775YJqgLqN) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [まぶた](https://open.spotify.com/album/787EPgEJvHIXQ5MFDqG0oP) | 4:16 | 2023-01-13 | 2023-03-15 |
 | [みらいのうた \- 2023 Master](https://open.spotify.com/track/51UlfCizQkKyESnzcJjOn4) | [Kazuya Yoshii](https://open.spotify.com/artist/4tgnOBWTNWUtp3uhUiLCkj) | [20](https://open.spotify.com/album/4HfadgK8td5R4tcqNr017d) | 5:07 | 2023-09-12 | 2023-09-14 |
 | [もういちど生まれる](https://open.spotify.com/track/6o9KWIl2RvWm17VXiZDdOQ) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [もういちど生まれる](https://open.spotify.com/album/2A0pOYUT0mWFIpSighZv6S) | 5:26 | 2023-03-07 | 2023-03-15 |
-| [やわらかいパン](https://open.spotify.com/track/13iGFzuBbWAip4qIoVwdEV) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [やわらかいパン](https://open.spotify.com/album/09RDJ7ahRy1r4EY1Vy9a1v) | 3:20 | 2023-11-21 |  |
+| [やわらかいパン](https://open.spotify.com/track/13iGFzuBbWAip4qIoVwdEV) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [やわらかいパン](https://open.spotify.com/album/09RDJ7ahRy1r4EY1Vy9a1v) | 3:20 | 2023-11-21 | 2023-11-23 |
 | [らしく](https://open.spotify.com/track/12ZJt0tZRUr1k4ROKm3MUT) | [ヤングスキニー](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [らしく](https://open.spotify.com/album/2OcLL8HffVsOIZCM2EmQD9) | 4:22 | 2023-02-07 | 2023-02-09 |
 | [らりらりらん](https://open.spotify.com/track/2poGMUj2CSBTzsVNMxkCpm) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [らりらりらん](https://open.spotify.com/album/7G4ECKkC7XBgxmBQondoj1) | 2:39 | 2023-06-06 | 2023-07-26 |
 | [るろうの形代](https://open.spotify.com/track/5CIkjGfSK8B46So8gmbwCV) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [るろうの形代](https://open.spotify.com/album/1z3z4NyD2ZqalZB8HsumO4) | 3:24 | 2023-10-05 | 2023-11-22 |
@@ -731,7 +735,7 @@
 | [バニラ](https://open.spotify.com/track/5vLpv8cGMdqRACES2z33gG) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj) | [バニラ](https://open.spotify.com/album/1t4hfGiNU92vuBhu625JVp) | 3:15 | 2023-01-17 | 2023-01-19 |
 | [バードヘッドブルース](https://open.spotify.com/track/1oPGZM3eWNMXo7KJiUwPPB) | [a flood of circle](https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl) | [バードヘッドブルース](https://open.spotify.com/album/0zgAmWHJSVbQpSSIekqYXH) | 3:49 | 2023-01-24 | 2023-02-15 |
 | [パピコ](https://open.spotify.com/track/061UEZryTNIpPeN9YzDhhY) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [パピコ](https://open.spotify.com/album/3COmQ1RmxzodhQ0I51hPQK) | 4:52 | 2023-02-07 | 2023-03-15 |
-| [パンザマスト](https://open.spotify.com/track/1ObqbQDyABhBhhofOITc58) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [SINGER'S HIGH](https://open.spotify.com/album/0uqbdmdAkwobS4msDI68DG) | 2:52 | 2023-11-21 |  |
+| [パンザマスト](https://open.spotify.com/track/1ObqbQDyABhBhhofOITc58) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [SINGER'S HIGH](https://open.spotify.com/album/0uqbdmdAkwobS4msDI68DG) | 2:52 | 2023-11-21 | 2023-11-23 |
 | [ヒアソビ](https://open.spotify.com/track/6qKp7lmQmKJMOlQILibPqA) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [ヒアソビ](https://open.spotify.com/album/1h3Bt2RaUK4JELrtxZsXo3) | 3:43 | 2023-07-06 | 2023-07-08 |
 | [ヒメゴト](https://open.spotify.com/track/36A9odRn2YOFd32Z0imnyy) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [ヒメゴト](https://open.spotify.com/album/3irroKY3CuejqNOU5qniXG) | 4:41 | 2023-06-27 | 2023-06-29 |
 | [ヒモと愛](https://open.spotify.com/track/0bYCJFtqOP7Zkf4EFzRka1) | [ヤングスキニー](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [ヒモと愛](https://open.spotify.com/album/6iCCe0GQhkRgDP2ru8iUtG) | 2:42 | 2023-02-28 | 2023-03-02 |

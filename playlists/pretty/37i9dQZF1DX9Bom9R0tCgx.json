@@ -1,12 +1,12 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 345075,
+  "num_followers": 345394,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGQ1OTFlZDUwZDFiMDcwMWZjZjEyODRlMDEzYzBiNjNlODI3YTY3",
+  "snapshot_id": "MCxjMWQ2YmJkMjAwODdlNDIxNWVmZTc0YzA4NDA4MzgwNzY3ZjA0ZmYw",
   "tracks": [
     {
       "added_at": "2023-11-16 23:00:00",
@@ -607,6 +607,26 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
+        "name": "Million Places",
+        "url": "https://open.spotify.com/album/0FDi6UKrT6OaQuzY0a4Hna"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "duration_ms": 157548,
+      "name": "Million Places",
+      "url": "https://open.spotify.com/track/3rCuELlVNqzcG8JHDJh76m"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/5YWOlO1sHAk84Oh4W9NhzX"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 152727,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/42jqtDBoV2YGTRbFI02p6H"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
-        "name": "Million Places",
-        "url": "https://open.spotify.com/album/0FDi6UKrT6OaQuzY0a4Hna"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        }
-      ],
-      "duration_ms": 157548,
-      "name": "Million Places",
-      "url": "https://open.spotify.com/track/3rCuELlVNqzcG8JHDJh76m"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
+        "name": "I Want It All",
+        "url": "https://open.spotify.com/album/5VqugzmPIecQ6AD9ld0hfe"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "duration_ms": 182852,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/5SuWRkFDofAjJbOXrghgnc"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
         "name": "dropitlikeitshot!",
         "url": "https://open.spotify.com/album/1vBHM5ULJcCmVBbgxSSuR6"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 105486,
       "name": "dropitlikeitshot!",
       "url": "https://open.spotify.com/track/5qvBojdG05Ec8cUqPKG4Ue"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
-        "name": "I Want It All",
-        "url": "https://open.spotify.com/album/5VqugzmPIecQ6AD9ld0hfe"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        }
-      ],
-      "duration_ms": 182852,
-      "name": "I Want It All",
-      "url": "https://open.spotify.com/track/5SuWRkFDofAjJbOXrghgnc"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Breathe Carolina",
-          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
-        }
-      ],
-      "duration_ms": 163124,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
         "name": "Donkers",
         "url": "https://open.spotify.com/album/06SEttic5htIY70LgIXuQR"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 304500,
       "name": "Donkers",
       "url": "https://open.spotify.com/track/6kvjzDjx2Z3z23xRq13xMu"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Breathe Carolina",
+          "url": "https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC"
+        }
+      ],
+      "duration_ms": 163124,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/1j8z4qXWHnME4XD5gt9E2s"
-      },
-      "artists": [
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 254545,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/6WuhWyOHhhXGSHOtNrJ3Is"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
         "name": "In The City (Yves V remix)",
         "url": "https://open.spotify.com/album/1ac90oaxn3B1FlwW0yUY1N"
       },
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/1j8z4qXWHnME4XD5gt9E2s"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 254545,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/6WuhWyOHhhXGSHOtNrJ3Is"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
         "name": "GASOLINA & COCAINA",
         "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
       },
@@ -1363,6 +1363,30 @@
       "duration_ms": 192390,
       "name": "GASOLINA & COCAINA",
       "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/7qPFcO0JaiYoCgsBX5K6fw"
+      },
+      "artists": [
+        {
+          "name": "Hard Lights",
+          "url": "https://open.spotify.com/artist/3tLvKk2N4IGhT3aZceW2Hy"
+        },
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        },
+        {
+          "name": "Serzo",
+          "url": "https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6"
+        }
+      ],
+      "duration_ms": 130700,
+      "name": "All I Ever Wanted",
+      "url": "https://open.spotify.com/track/21deaXqPzYtLunigUjpZuB"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -1419,30 +1443,6 @@
       "duration_ms": 172563,
       "name": "Love Is Free",
       "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
-        "name": "All I Ever Wanted",
-        "url": "https://open.spotify.com/album/7qPFcO0JaiYoCgsBX5K6fw"
-      },
-      "artists": [
-        {
-          "name": "Hard Lights",
-          "url": "https://open.spotify.com/artist/3tLvKk2N4IGhT3aZceW2Hy"
-        },
-        {
-          "name": "Zombic",
-          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
-        },
-        {
-          "name": "Serzo",
-          "url": "https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6"
-        }
-      ],
-      "duration_ms": 130700,
-      "name": "All I Ever Wanted",
-      "url": "https://open.spotify.com/track/21deaXqPzYtLunigUjpZuB"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -1643,6 +1643,38 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
+        "name": "Hardcore Vibes",
+        "url": "https://open.spotify.com/album/1F6VezXavMMMumP9w2Aqc2"
+      },
+      "artists": [
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Hardcore Vibes - Radio Edit",
+      "url": "https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
+        "name": "Space Case",
+        "url": "https://open.spotify.com/album/61OEWqooBSWvgvqPxRvc9L"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 212252,
+      "name": "Space Case",
+      "url": "https://open.spotify.com/track/1VSbfnWlHajs3Wz9LhucLB"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
         "name": "MBAPP\u00c9 (Restricted & Sunset Bros Remix) [feat. JAY1 & KAHUKX]",
         "url": "https://open.spotify.com/album/4FHgGUbR5QZxu31GYYqS3V"
       },
@@ -1675,38 +1707,6 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "Space Case",
-        "url": "https://open.spotify.com/album/61OEWqooBSWvgvqPxRvc9L"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 212252,
-      "name": "Space Case",
-      "url": "https://open.spotify.com/track/1VSbfnWlHajs3Wz9LhucLB"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
-        "name": "Hardcore Vibes",
-        "url": "https://open.spotify.com/album/1F6VezXavMMMumP9w2Aqc2"
-      },
-      "artists": [
-        {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Hardcore Vibes - Radio Edit",
-      "url": "https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
         "name": "Better Off Alone (Hardstyle)",
         "url": "https://open.spotify.com/album/6lmxlgUWCaQPL48esioKtW"
       },
@@ -1723,30 +1723,6 @@
       "duration_ms": 161000,
       "name": "Better Off Alone - Hardstyle",
       "url": "https://open.spotify.com/track/5xGpNlEZ0BHF1Y0KtRIqTO"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
-        "name": "Low (Macon's HYPERTECHNO Remix)",
-        "url": "https://open.spotify.com/album/4Tpa491B6dAf3VnlXdts6V"
-      },
-      "artists": [
-        {
-          "name": "71 Digits",
-          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
-        },
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Macon",
-          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Low (Macon's HYPERTECHNO Remix)",
-      "url": "https://open.spotify.com/track/7tMVmdCrQvj3iC0z8tZBZT"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -1799,6 +1775,50 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
+        "name": "Low (Macon's HYPERTECHNO Remix)",
+        "url": "https://open.spotify.com/album/4Tpa491B6dAf3VnlXdts6V"
+      },
+      "artists": [
+        {
+          "name": "71 Digits",
+          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
+        },
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Low (Macon's HYPERTECHNO Remix)",
+      "url": "https://open.spotify.com/track/7tMVmdCrQvj3iC0z8tZBZT"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
+        "name": "Popcorn (Rework)",
+        "url": "https://open.spotify.com/album/2t39L0Xt4lG7tslqEoZDHs"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        },
+        {
+          "name": "Jack Holiday",
+          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
+        }
+      ],
+      "duration_ms": 141679,
+      "name": "Popcorn - Rework",
+      "url": "https://open.spotify.com/track/6NOB3pY3jA5YEWV9DUR1ZF"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
         "name": "CALL MY NAME",
         "url": "https://open.spotify.com/album/4VYUHJuxMvr4tPQIk6ZJMv"
       },
@@ -1831,26 +1851,6 @@
       "duration_ms": 143600,
       "name": "Weekend Party",
       "url": "https://open.spotify.com/track/6l6qbSwlEAWRGfbL5sf8y8"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
-        "name": "Popcorn (Rework)",
-        "url": "https://open.spotify.com/album/2t39L0Xt4lG7tslqEoZDHs"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        },
-        {
-          "name": "Jack Holiday",
-          "url": "https://open.spotify.com/artist/64yON9pK0j392YkionGKAF"
-        }
-      ],
-      "duration_ms": 141679,
-      "name": "Popcorn - Rework",
-      "url": "https://open.spotify.com/track/6NOB3pY3jA5YEWV9DUR1ZF"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -1975,26 +1975,6 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "Romeo & Juliet",
-        "url": "https://open.spotify.com/album/3MOCPhpSF2KOfh1eE688mI"
-      },
-      "artists": [
-        {
-          "name": "Neptunica",
-          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
-        },
-        {
-          "name": "ZANA",
-          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
-        }
-      ],
-      "duration_ms": 160472,
-      "name": "Romeo & Juliet",
-      "url": "https://open.spotify.com/track/4t2BiyPhaMpf2bzOdUoTD5"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
         "name": "Welcome to the Club",
         "url": "https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ"
       },
@@ -2015,6 +1995,26 @@
       "duration_ms": 195537,
       "name": "Welcome to the Club",
       "url": "https://open.spotify.com/track/6TvQn79IjdaQanfYK7ZDgo"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
+        "name": "Romeo & Juliet",
+        "url": "https://open.spotify.com/album/3MOCPhpSF2KOfh1eE688mI"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "ZANA",
+          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
+        }
+      ],
+      "duration_ms": 160472,
+      "name": "Romeo & Juliet",
+      "url": "https://open.spotify.com/track/4t2BiyPhaMpf2bzOdUoTD5"
     },
     {
       "added_at": "2023-11-16 23:00:00",

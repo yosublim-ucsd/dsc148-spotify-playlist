@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Sabrina Carpenter
 
-1,130 songs - 2 day 20 hr 54 min
+1,133 songs - 2 day 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Any Ol' Barstool \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5fghXy9xCMweLOu6kQgAul) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/4wEdL5MJYDGgytZqNN6p4e) | 3:20 | 2022-01-19 | 2022-07-29 |
 | [Any Ol’ Barstool \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/3iZ7yYvQ1oxWgYvMMM23WH) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Spotify Singles](https://open.spotify.com/album/6IinmJcfap7cw0m1QVX4Nn) | 3:20 | 2023-10-02 |  |
 | [Army Of Me \- Spotify Single](https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Spotify Singles](https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM) | 4:49 | 2023-06-07 |  |
+| [Arnaq \- Spotify Singles](https://open.spotify.com/track/0T4IShtGeuGZS3siXj4MJe) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Spotify Singles](https://open.spotify.com/album/5bbRNKzRs3j44dxQR9SzJ3) | 3:39 | 2023-11-22 |  |
 | [As It Was \- Spotify Singles](https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Spotify Singles](https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w) | 3:26 | 2022-08-24 |  |
 | [As It Was \- Spotify Singles](https://open.spotify.com/track/1lUNlmwyhsJy6kXmmrO11t) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [As It Was \- Spotify Singles](https://open.spotify.com/album/53TYhJdqLF6eU5GbYZezTB) | 2:39 | 2022-10-03 |  |
 | [At Your Best \(You Are Love\) \- Spotify Singles](https://open.spotify.com/track/5OFoInHe162W9I97oVDzY8) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [At Your Best \(You Are Love\) \- Spotify Singles](https://open.spotify.com/album/5hRR7gwAw1b7XbJ3HCZHIn) | 5:17 | 2022-01-19 |  |
@@ -501,6 +502,7 @@
 | [I'm Goin' Down \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/4l7aryEsduuO7tQU8ZY46e) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Spotify Singles](https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA) | 3:27 | 2022-01-19 |  |
 | [I'm Going Down \- From Spotify Studios NYC](https://open.spotify.com/track/2YXvW4m3TS8c9lWDRpn0z4) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Spotify Singles](https://open.spotify.com/album/1Ky94F6giScymXgk83nhzl) | 3:08 | 2022-01-19 |  |
 | [I'm Like A Bird \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Spotify Singles](https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j) | 3:39 | 2022-01-19 |  |
+| [I'm On Fire \- Spotify Singles](https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [I'm On Fire \- Spotify Singles](https://open.spotify.com/album/6Oe8Xx4xBMAAfPYisJZKKV) | 3:29 | 2023-11-22 |  |
 | [I've Got The World On A String \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/3BtIUTUYKdzrgTj7gjcV0W) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Spotify Singles](https://open.spotify.com/album/64oiZ51GV3YCpCzEafi1sp) | 2:58 | 2022-01-19 |  |
 | [I\-89 \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5ou4c3qI8EvtpwsvYIM4L4) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 3:00 | 2022-01-19 |  |
 | [If I Ever Was A Child \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/69eSem5Y1nrCaGi2FrQhVJ) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Spotify Singles](https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak) | 3:12 | 2022-01-19 |  |
@@ -624,6 +626,7 @@
 | [Love and Happiness](https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Sobrevolando](https://open.spotify.com/album/3rCmFIVWG9ktkGhKNcZnli) | 5:08 | 2022-07-05 |  |
 | [Love And Happiness \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1OgjvzxeljGaL4LrZmV1Qj) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Spotify Singles](https://open.spotify.com/album/3DkpSX4WupAad9H3DgdVji) | 5:07 | 2022-01-19 | 2022-07-29 |
 | [LOVE IN THE DARK \- Recorded at East West Studios, LA](https://open.spotify.com/track/1qBT1qIyGu3jFTjF6dEqIb) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Spotify Singles](https://open.spotify.com/album/2ceL7dMRViacYhqhPGQRLM) | 3:34 | 2022-01-19 |  |
+| [Love Is a Stranger \- Spotify Singles](https://open.spotify.com/track/1BSirCglKNnJ39ag8fhiK0) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Spotify Singles](https://open.spotify.com/album/5bbRNKzRs3j44dxQR9SzJ3) | 3:42 | 2023-11-22 |  |
 | [Love Is Here To Stay \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4ehAqz41dlWdLbBBIubIla) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Spotify Singles](https://open.spotify.com/album/64oiZ51GV3YCpCzEafi1sp) | 2:42 | 2022-01-19 |  |
 | [Love Is Mystical \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4Q35tqm635VYFT8G9gcBkO) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Spotify Singles](https://open.spotify.com/album/6bcZYFHfdRSeiHxYlKGUOa) | 3:34 | 2022-01-19 |  |
 | [Love Me Now \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2pPRgFEENF3LtuxYUPuT24) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:48 | 2022-01-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Death Lens
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,711 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,757 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 48 | [Dancer](https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Dancer](https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR) | 3:09 |
 | 49 | [Blood, Hair, And Eyeballs](https://open.spotify.com/track/6dYtCV39bCt10NMfzgOdtA) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Blood, Hair, And Eyeballs](https://open.spotify.com/album/5oXZKwnlG0mYFrjKYzYf92) | 3:00 |
 | 50 | [You & I](https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:34 |
-| 51 | [Show Friends](https://open.spotify.com/track/0Grfb5ta2qSUt3DHCiaLM1) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [Show Friends](https://open.spotify.com/album/3tApeKsRnpdmtum9EYzFAn) | 3:07 |
+| 51 | [Show Friends](https://open.spotify.com/track/553jmB9Nq4yPJgMFtkjVRm) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [Show Friends](https://open.spotify.com/album/4Giirh6zaV7k8g7INupvwH) | 3:07 |
 | 52 | [ParaNoia](https://open.spotify.com/track/5G9amsIn2lFbIbx628vDFk) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [ParaNoia](https://open.spotify.com/album/53Dya4cEvTYgXDScEkawx3) | 3:26 |
 | 53 | [Under The Rules](https://open.spotify.com/track/3HgZwGpYYI6jKcW3UsDC49) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [MORE UK GRIM](https://open.spotify.com/album/2AQNQR9GwxxByoFeXHPH3F) | 3:33 |
 | 54 | [Stare At The Sun](https://open.spotify.com/track/0dNuX5ft4fSSgKsRau3JEP) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Stare At The Sun](https://open.spotify.com/album/238Qlq3yh7LNfO3e5TD1uu) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Herberts On Holiday](https://open.spotify.com/track/2SLS4rCsxzCVPLG6cS0wYe) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:24 |
 | 100 | [Roses In My Backpack](https://open.spotify.com/track/0unmFukTNfCHAXM7jsYREn) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Roses In My Backpack](https://open.spotify.com/album/35Nuc21qqcUssDSCHRU3ko) | 2:38 |
 
-Snapshot ID: `MCxiYzcwYjFmOWQ1MGU0MzdkOTgyYWRlZjFkYjQ4OTc4MGY0N2U5M2Ew`
+Snapshot ID: `MCw5ZGQ2NzM2NmFlYjI5NzY2NTk3ZTU5NGU1MTY3MTM4NzczNmM5ZWEx`

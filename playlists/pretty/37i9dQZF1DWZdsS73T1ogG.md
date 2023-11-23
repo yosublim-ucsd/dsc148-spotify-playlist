@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: IZaak, Luar La L & Omar Courtz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,037 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,071 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,14 +51,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 41 | [Te Menti](https://open.spotify.com/track/1QtKYyXEw9tSMIlK4RfA8B) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Te Menti](https://open.spotify.com/album/0ucVAnzaNBmu2fQIF459tl) | 3:07 |
 | 42 | [Palabras Sobran \- Remix](https://open.spotify.com/track/2I4ZalccAYtOnI9tnKDDml) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Palabras Sobran \(Remix\)](https://open.spotify.com/album/4sqkoyyQKAmoIgYZypfLn9) | 4:48 |
 | 43 | [Bandidona](https://open.spotify.com/track/5V7Gy8FkCKGsVNgvaVssJi) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Bandidona](https://open.spotify.com/album/3FRUYA30mgEKxyHR634UHx) | 2:40 |
-| 44 | [GANGSTERS Y PISTOLAS](https://open.spotify.com/track/2GOnlLJqDMvlXlEqD8AQqn) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:50 |
-| 45 | [CRUSH](https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [CRUSH](https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf) | 3:53 |
+| 44 | [CRUSH](https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [CRUSH](https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf) | 3:53 |
+| 45 | [GANGSTERS Y PISTOLAS](https://open.spotify.com/track/2GOnlLJqDMvlXlEqD8AQqn) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:50 |
 | 46 | [333](https://open.spotify.com/track/5NlRqUTd4tv8AegeU7RW5x) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [333](https://open.spotify.com/album/6KDLws7nb97FLIZw1VHisk) | 2:45 |
 | 47 | [TU$$I \(with Dei V\)](https://open.spotify.com/track/5sRLuy3aeAq8MaiZwK92Dn) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [TU$$I \(with Dei V\)](https://open.spotify.com/album/6hcobkxdWIAXzj6OYfjlWo) | 2:43 |
 | 48 | [LOCO X PERREARTE](https://open.spotify.com/track/1s7AggVbT1tlkjwfVCjvux) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [LOCO X PERREARTE](https://open.spotify.com/album/1EKXvsbN9F0aBxigrLRXnc) | 3:32 |
 | 49 | [NO PARE \- REMIX](https://open.spotify.com/track/64eezAxFI6wjCPcshao8Pe) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [NO PARE \(REMIX\)](https://open.spotify.com/album/4pyrlTwGbdl8NXHVSNty1k) | 3:05 |
-| 50 | [GHETTO PRINCESS](https://open.spotify.com/track/6GgpoeDugrrXl06NIsE1Bo) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [GHETTO PRINCESS](https://open.spotify.com/album/5I5GpNMS30V1a23j2lKl2a) | 2:41 |
-| 51 | [CARNET](https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [CARNET](https://open.spotify.com/album/0rmHm455rHhQamdptQjYn3) | 2:19 |
+| 50 | [CARNET](https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [CARNET](https://open.spotify.com/album/0rmHm455rHhQamdptQjYn3) | 2:19 |
+| 51 | [GHETTO PRINCESS](https://open.spotify.com/track/6GgpoeDugrrXl06NIsE1Bo) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [GHETTO PRINCESS](https://open.spotify.com/album/5I5GpNMS30V1a23j2lKl2a) | 2:41 |
 | 52 | [Oh Na Na](https://open.spotify.com/track/2EtOOnd0tseAvHcm3WzACQ) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Oh Na Na](https://open.spotify.com/album/4BHwvzeYB8EY1stGUBUlFg) | 4:00 |
 | 53 | [REPEAT](https://open.spotify.com/track/0TV7rMZ42HNc3xTuMaLC0m) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [TRAPPii](https://open.spotify.com/album/1EcwiKaYxKwOWsnju1rwHT) | 2:30 |
 | 54 | [Maullame](https://open.spotify.com/track/0hKXlakDWwbKS43VuHDV5d) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Maullame](https://open.spotify.com/album/02SfPrc9u72kuzrv2ZFjFj) | 4:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 99 | [Desbarata](https://open.spotify.com/track/6PvX6uIThIrFSYCi0tdsUt) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [DESBARATA](https://open.spotify.com/album/7JcSJdoEszIcVdmmLkqZvp) | 2:46 |
 | 100 | [Te Acuerdas](https://open.spotify.com/track/6Z9ZZGhn03kt8F6fd1blqM) | [Armez](https://open.spotify.com/artist/5SETXxt4h3XsZONZRoodOz) | [Te Acuerdas](https://open.spotify.com/album/195kQz5FnlCK1gA4EyuMrF) | 3:14 |
 
-Snapshot ID: `MCw0YTU3MzcyMjZkNjg3ZmRkMDBhZTVjNGY5NGNlNzhjNjA0MzExNzQy`
+Snapshot ID: `MCwxMTYwNmI0ZjUwNDk2MzUwNGE4NDQxOTdjZDZjODViMDE0ZmM1YzI3`

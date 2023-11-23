@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Los Primos del Este en portada.",
-  "num_followers": 430626,
+  "num_followers": 430739,
   "original_name": "Norte\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxM2Y0ODI0YjMzMzlkMmQzNjVlYmNiMTljZTljZjA1NmI3YTQ2NmU2",
+  "snapshot_id": "MCw1ZWI0ZjIxYjJjMGE2ZDk0MDk1MzNkODA5N2I0MTMxMzY3OTAwYjBk",
   "tracks": [
     {
       "added_at": "2023-10-21 07:06:11",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 196864,
+      "name": "Fuga Pa Cali 2",
+      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
         "name": "La Mamoncita del Insta",
         "url": "https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 193193,
       "name": "La Mamoncita del Insta",
       "url": "https://open.spotify.com/track/4Dg3WEqGpBbSu4EKjudiwV"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 196864,
-      "name": "Fuga Pa Cali 2",
-      "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Simbolo Sexual",
-        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 180208,
-      "name": "S\u00edmbolo Sexual",
-      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
         "name": "El Rescate",
         "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 160897,
       "name": "El Rescate",
       "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
+        "name": "Simbolo Sexual",
+        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 180208,
+      "name": "S\u00edmbolo Sexual",
+      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
+        "name": "La Loca (En Vivo)",
+        "url": "https://open.spotify.com/album/3CrwaaScRSxqVbChDMrSbq"
+      },
+      "artists": [
+        {
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+        }
+      ],
+      "duration_ms": 246251,
+      "name": "La Loca (En Vivo)",
+      "url": "https://open.spotify.com/track/358qSGpL4SSy7tRoj6gsmS"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
         "name": "Tres Veces Te Enga\u00f1\u00e9 (En Vivo)",
         "url": "https://open.spotify.com/album/67cz8x4lTBKle18uAhzeRa"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 256733,
       "name": "Tres Veces Te Enga\u00f1\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/2mDtpjFCkc94ZBGPNFUCRB"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
-        "name": "La Loca (En Vivo)",
-        "url": "https://open.spotify.com/album/3CrwaaScRSxqVbChDMrSbq"
-      },
-      "artists": [
-        {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
-        }
-      ],
-      "duration_ms": 246251,
-      "name": "La Loca (En Vivo)",
-      "url": "https://open.spotify.com/track/358qSGpL4SSy7tRoj6gsmS"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Dif\u00edcil De Creer",
-        "url": "https://open.spotify.com/album/4b2ryIz8gwDs5IJQXGQAlW"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        }
-      ],
-      "duration_ms": 168736,
-      "name": "Dif\u00edcil De Creer",
-      "url": "https://open.spotify.com/track/5qEx0yHStDKu57CGnvtsir"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
         "name": "Qu\u00e9date Conmigo Esta Noche",
         "url": "https://open.spotify.com/album/3B5Wz224y9RsbOZ7uCmedi"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 201706,
       "name": "Qu\u00e9date Conmigo Esta Noche",
       "url": "https://open.spotify.com/track/0eJ45rJvRVc6OBZqe4hHsc"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
+        "name": "Dif\u00edcil De Creer",
+        "url": "https://open.spotify.com/album/4b2ryIz8gwDs5IJQXGQAlW"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 168736,
+      "name": "Dif\u00edcil De Creer",
+      "url": "https://open.spotify.com/track/5qEx0yHStDKu57CGnvtsir"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "La Ley del Mayo",
-        "url": "https://open.spotify.com/album/0XCMIwN9p62x59fQn6eQTH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 216604,
-      "name": "La Ley del Mayo",
-      "url": "https://open.spotify.com/track/4JgF8vGk0Vp3rBOHWBMjW7"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
         "name": "Pobre Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4rJVWswYNiKmh9HVB3WXxd"
       },
@@ -1895,18 +1875,22 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "La Invitaci\u00f3n",
-        "url": "https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK"
+        "name": "La Ley del Mayo",
+        "url": "https://open.spotify.com/album/0XCMIwN9p62x59fQn6eQTH"
       },
       "artists": [
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
         }
       ],
-      "duration_ms": 193960,
-      "name": "La Invitaci\u00f3n",
-      "url": "https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz"
+      "duration_ms": 216604,
+      "name": "La Ley del Mayo",
+      "url": "https://open.spotify.com/track/4JgF8vGk0Vp3rBOHWBMjW7"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -1927,6 +1911,22 @@
       "duration_ms": 215121,
       "name": "Me Dicen Nini",
       "url": "https://open.spotify.com/track/6E3InxDzcHJG7Pe4HrgxkV"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
+        "name": "La Invitaci\u00f3n",
+        "url": "https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 193960,
+      "name": "La Invitaci\u00f3n",
+      "url": "https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Feliz Cumplea\u00f1os Ferxxo",
-        "url": "https://open.spotify.com/album/7yyvOT1nCkOMoCAsr2Rid0"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 170266,
-      "name": "Feliz Cumplea\u00f1os Ferxxo",
-      "url": "https://open.spotify.com/track/0dyggYGK7keiyhNaxo1XLy"
-    },
-    {
-      "added_at": "2023-10-21 07:06:11",
-      "album": {
         "name": "Obsesi\u00f3n",
         "url": "https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 153733,
       "name": "TE QUIERO",
       "url": "https://open.spotify.com/track/7r3xWBPAiFNZS7QVxXc3HJ"
+    },
+    {
+      "added_at": "2023-10-21 07:06:11",
+      "album": {
+        "name": "Feliz Cumplea\u00f1os Ferxxo",
+        "url": "https://open.spotify.com/album/7yyvOT1nCkOMoCAsr2Rid0"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 170266,
+      "name": "Feliz Cumplea\u00f1os Ferxxo",
+      "url": "https://open.spotify.com/track/0dyggYGK7keiyhNaxo1XLy"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -2167,22 +2167,18 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Nada De Nada",
-        "url": "https://open.spotify.com/album/49gCKCeoM3fmWI4jNv71PK"
+        "name": "Cholos al Punto",
+        "url": "https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1"
       },
       "artists": [
         {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 181600,
-      "name": "Nada De Nada",
-      "url": "https://open.spotify.com/track/78PFDzdmPuMpTHLgMpIkKU"
+      "duration_ms": 159056,
+      "name": "Cholos al Punto",
+      "url": "https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB"
     },
     {
       "added_at": "2023-10-21 07:06:11",
@@ -2203,18 +2199,22 @@
     {
       "added_at": "2023-10-21 07:06:11",
       "album": {
-        "name": "Cholos al Punto",
-        "url": "https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1"
+        "name": "Nada De Nada",
+        "url": "https://open.spotify.com/album/49gCKCeoM3fmWI4jNv71PK"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 159056,
-      "name": "Cholos al Punto",
-      "url": "https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB"
+      "duration_ms": 181600,
+      "name": "Nada De Nada",
+      "url": "https://open.spotify.com/track/78PFDzdmPuMpTHLgMpIkKU"
     },
     {
       "added_at": "2023-10-21 07:06:11",

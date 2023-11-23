@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf42",
-  "num_followers": 115103,
+  "num_followers": 115299,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODNjYWU5OGFiZTM1ODg3YWRkNTc3YWJiNDMyZjA5ZjM0ODM4NTA4",
+  "snapshot_id": "MCwyMmQ5OWQwNWVlNThlYjhhYzllMzAyYjhjMDk5MGMyOTlkMzM5YTdk",
   "tracks": [
     {
       "added_at": "2023-11-10 22:04:12",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-11-10 22:04:12",
       "album": {
-        "name": "Close to Paradise",
-        "url": "https://open.spotify.com/album/056yp65HkG28gOvkLPWAem"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        }
-      ],
-      "duration_ms": 187373,
-      "name": "The Great Escape",
-      "url": "https://open.spotify.com/track/1GIPP103zfsythULEpsmdw"
-    },
-    {
-      "added_at": "2023-11-10 22:04:12",
-      "album": {
         "name": "consolation",
         "url": "https://open.spotify.com/album/6wdpXFepbCvXuDmw45f9FR"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 265813,
       "name": "la rivi\u00e8re",
       "url": "https://open.spotify.com/track/4x0krxg1vdzPGTzBKPQBNt"
+    },
+    {
+      "added_at": "2023-11-10 22:04:12",
+      "album": {
+        "name": "Close to Paradise",
+        "url": "https://open.spotify.com/album/056yp65HkG28gOvkLPWAem"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        }
+      ],
+      "duration_ms": 187373,
+      "name": "The Great Escape",
+      "url": "https://open.spotify.com/track/1GIPP103zfsythULEpsmdw"
     },
     {
       "added_at": "2023-11-10 22:04:12",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-11-10 22:04:12",
       "album": {
-        "name": "Inuktitut",
-        "url": "https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP"
+        "name": "C'est tout, c'est rien",
+        "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
       },
       "artists": [
         {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
         }
       ],
-      "duration_ms": 273997,
-      "name": "Isumagijunnaitaungituq (The Unforgiven)",
-      "url": "https://open.spotify.com/track/2lVAxivFrLs61yVFAlnqSb"
+      "duration_ms": 173515,
+      "name": "C'est tout, c'est rien",
+      "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
     },
     {
       "added_at": "2023-11-10 22:04:12",
@@ -591,18 +591,18 @@
     {
       "added_at": "2023-11-10 22:04:12",
       "album": {
-        "name": "C'est tout, c'est rien",
-        "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
+        "name": "Inuktitut",
+        "url": "https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP"
       },
       "artists": [
         {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
         }
       ],
-      "duration_ms": 173515,
-      "name": "C'est tout, c'est rien",
-      "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
+      "duration_ms": 253090,
+      "name": "Taimangalimaaq (Time After Time)",
+      "url": "https://open.spotify.com/track/2lC31Spot6dK5hrdlGRYbe"
     },
     {
       "added_at": "2023-11-10 22:04:12",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-11-10 22:04:12",
       "album": {
-        "name": "Inuktitut",
-        "url": "https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP"
+        "name": "Cantalou",
+        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
       },
       "artists": [
         {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
         }
       ],
-      "duration_ms": 253090,
-      "name": "Taimangalimaaq (Time After Time)",
-      "url": "https://open.spotify.com/track/2lC31Spot6dK5hrdlGRYbe"
+      "duration_ms": 215560,
+      "name": "L'\u00eele \u00e0 vingt-cinq sous",
+      "url": "https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc"
     },
     {
       "added_at": "2023-11-10 22:04:12",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-11-10 22:04:12",
       "album": {
-        "name": "Cantalou",
-        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
-      },
-      "artists": [
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
-        }
-      ],
-      "duration_ms": 215560,
-      "name": "L'\u00eele \u00e0 vingt-cinq sous",
-      "url": "https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc"
-    },
-    {
-      "added_at": "2023-11-10 22:04:12",
-      "album": {
         "name": "Swimmer",
         "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 213107,
       "name": "Swimmer",
       "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
+    },
+    {
+      "added_at": "2023-11-10 22:04:12",
+      "album": {
+        "name": "La mort des \u00e9toiles",
+        "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 259733,
+      "name": "La mort des \u00e9toiles",
+      "url": "https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr"
     },
     {
       "added_at": "2023-11-10 22:04:12",
@@ -739,8 +739,8 @@
     {
       "added_at": "2023-11-10 22:04:12",
       "album": {
-        "name": "Horoscope / Cher Montr\u00e9al",
-        "url": "https://open.spotify.com/album/7npxouwTuaKyDKWLa9msy9"
+        "name": "Dear Vancouver / Cher Montr\u00e9al",
+        "url": "https://open.spotify.com/album/2H4s2ePccwQL6sj6oT5XaT"
       },
       "artists": [
         {
@@ -750,23 +750,23 @@
       ],
       "duration_ms": 242710,
       "name": "Horoscope",
-      "url": "https://open.spotify.com/track/3XtnHORQkTP7FMIRDDNrpJ"
+      "url": "https://open.spotify.com/track/0EIiyuu3CJsaxDQa7ErM1w"
     },
     {
       "added_at": "2023-11-10 22:04:12",
       "album": {
-        "name": "La mort des \u00e9toiles",
-        "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
+        "name": "Inuktitut",
+        "url": "https://open.spotify.com/album/6Kw9owtgtKeyx9LSM1CEzP"
       },
       "artists": [
         {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
         }
       ],
-      "duration_ms": 259733,
-      "name": "La mort des \u00e9toiles",
-      "url": "https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr"
+      "duration_ms": 273997,
+      "name": "Isumagijunnaitaungituq (The Unforgiven)",
+      "url": "https://open.spotify.com/track/2lVAxivFrLs61yVFAlnqSb"
     },
     {
       "added_at": "2023-11-10 22:04:12",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-11-10 22:04:12",
       "album": {
-        "name": "Go Get It",
-        "url": "https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV"
-      },
-      "artists": [
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
-        }
-      ],
-      "duration_ms": 141509,
-      "name": "Go Get It",
-      "url": "https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc"
-    },
-    {
-      "added_at": "2023-11-10 22:04:12",
-      "album": {
         "name": "Heavy Stone",
         "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 188027,
       "name": "Heavy Stone",
       "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
+    },
+    {
+      "added_at": "2023-11-10 22:04:12",
+      "album": {
+        "name": "Go Get It",
+        "url": "https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 141509,
+      "name": "Go Get It",
+      "url": "https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc"
     },
     {
       "added_at": "2023-11-10 22:04:12",
@@ -915,38 +915,6 @@
     {
       "added_at": "2023-11-10 22:04:12",
       "album": {
-        "name": "ET SI, DE/main l'oiseau",
-        "url": "https://open.spotify.com/album/4NJy1ueaJ0uqJwNDsycSVa"
-      },
-      "artists": [
-        {
-          "name": "Safia Nolin",
-          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
-        }
-      ],
-      "duration_ms": 206468,
-      "name": "main l\u2019oiseau",
-      "url": "https://open.spotify.com/track/1b00k9gcQ9SxLK0aLXlUpa"
-    },
-    {
-      "added_at": "2023-11-10 22:04:12",
-      "album": {
-        "name": "Trait d'union",
-        "url": "https://open.spotify.com/album/4aQNQZ4nwVCZDqgBFGj4A3"
-      },
-      "artists": [
-        {
-          "name": "Marilou",
-          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
-        }
-      ],
-      "duration_ms": 245250,
-      "name": "Trait d'union",
-      "url": "https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV"
-    },
-    {
-      "added_at": "2023-11-10 22:04:12",
-      "album": {
         "name": "\u00c9chapper \u00e0 la nuit",
         "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
       },
@@ -963,18 +931,18 @@
     {
       "added_at": "2023-11-10 22:04:12",
       "album": {
-        "name": "Encounter",
-        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
+        "name": "Trait d'union",
+        "url": "https://open.spotify.com/album/4aQNQZ4nwVCZDqgBFGj4A3"
       },
       "artists": [
         {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+          "name": "Marilou",
+          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
         }
       ],
-      "duration_ms": 219760,
-      "name": "Closely",
-      "url": "https://open.spotify.com/track/08Sf05VZzVWXrBfUFX6fwa"
+      "duration_ms": 245250,
+      "name": "Trait d'union",
+      "url": "https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV"
     },
     {
       "added_at": "2023-11-10 22:04:12",
@@ -999,22 +967,6 @@
     {
       "added_at": "2023-11-10 22:04:12",
       "album": {
-        "name": "Live Slow Die Wise",
-        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
-      },
-      "artists": [
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 224520,
-      "name": "Cold World",
-      "url": "https://open.spotify.com/track/6vrfAwiU7e7pM8GSa3A75S"
-    },
-    {
-      "added_at": "2023-11-10 22:04:12",
-      "album": {
         "name": "Les choses ext\u00e9rieures",
         "url": "https://open.spotify.com/album/3RLBT6Do3B4ZbX5eJBdCH0"
       },
@@ -1031,18 +983,34 @@
     {
       "added_at": "2023-11-10 22:04:12",
       "album": {
-        "name": "Carrie",
-        "url": "https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub"
+        "name": "Encounter",
+        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
       },
       "artists": [
         {
-          "name": "Safia Nolin",
-          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
         }
       ],
-      "duration_ms": 242193,
-      "name": "Carrie",
-      "url": "https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S"
+      "duration_ms": 219760,
+      "name": "Closely",
+      "url": "https://open.spotify.com/track/08Sf05VZzVWXrBfUFX6fwa"
+    },
+    {
+      "added_at": "2023-11-10 22:04:12",
+      "album": {
+        "name": "Live Slow Die Wise",
+        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 224520,
+      "name": "Cold World",
+      "url": "https://open.spotify.com/track/6vrfAwiU7e7pM8GSa3A75S"
     },
     {
       "added_at": "2023-11-10 22:04:12",
@@ -1059,22 +1027,6 @@
       "duration_ms": 195235,
       "name": "Sans Toi",
       "url": "https://open.spotify.com/track/7qY8npe1fAwNhuY6Sx663F"
-    },
-    {
-      "added_at": "2023-11-10 22:04:12",
-      "album": {
-        "name": "L'\u00e9trange pays",
-        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
-      },
-      "artists": [
-        {
-          "name": "Jean Leloup",
-          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Passe ton chemin",
-      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
     },
     {
       "added_at": "2023-11-10 22:04:12",
@@ -1099,6 +1051,38 @@
     {
       "added_at": "2023-11-10 22:04:12",
       "album": {
+        "name": "Carrie",
+        "url": "https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub"
+      },
+      "artists": [
+        {
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+        }
+      ],
+      "duration_ms": 242193,
+      "name": "Carrie",
+      "url": "https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S"
+    },
+    {
+      "added_at": "2023-11-10 22:04:12",
+      "album": {
+        "name": "L'\u00e9trange pays",
+        "url": "https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp"
+      },
+      "artists": [
+        {
+          "name": "Jean Leloup",
+          "url": "https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Passe ton chemin",
+      "url": "https://open.spotify.com/track/6wKUnfSAJRQagiCuvNgMbB"
+    },
+    {
+      "added_at": "2023-11-10 22:04:12",
+      "album": {
         "name": "Les joailliers (piano, voix)",
         "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
       },
@@ -1115,22 +1099,18 @@
     {
       "added_at": "2023-11-10 22:04:12",
       "album": {
-        "name": "1969",
-        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
+        "name": "Live Slow Die Wise",
+        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
       },
       "artists": [
         {
-          "name": "1969 Collective",
-          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
-        },
-        {
-          "name": "Safia Nolin",
-          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
         }
       ],
-      "duration_ms": 197320,
-      "name": "Tu danses, condessa",
-      "url": "https://open.spotify.com/track/2kM47CzCvo48ZaPGO6LFu2"
+      "duration_ms": 263720,
+      "name": "As My Old Man Always Said",
+      "url": "https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8"
     },
     {
       "added_at": "2023-11-10 22:04:12",
@@ -1155,22 +1135,6 @@
     {
       "added_at": "2023-11-10 22:04:12",
       "album": {
-        "name": "Live Slow Die Wise",
-        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
-      },
-      "artists": [
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 263720,
-      "name": "As My Old Man Always Said",
-      "url": "https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8"
-    },
-    {
-      "added_at": "2023-11-10 22:04:12",
-      "album": {
         "name": "Interlude",
         "url": "https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP"
       },
@@ -1187,18 +1151,18 @@
     {
       "added_at": "2023-11-10 22:04:12",
       "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+        "name": "ET SI, DE/main l'oiseau",
+        "url": "https://open.spotify.com/album/4NJy1ueaJ0uqJwNDsycSVa"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
         }
       ],
-      "duration_ms": 191280,
-      "name": "Le vent se l\u00e8ve",
-      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
+      "duration_ms": 206468,
+      "name": "main l\u2019oiseau",
+      "url": "https://open.spotify.com/track/1b00k9gcQ9SxLK0aLXlUpa"
     },
     {
       "added_at": "2023-11-10 22:04:12",
@@ -1215,6 +1179,42 @@
       "duration_ms": 207133,
       "name": "Dans tes bras",
       "url": "https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe"
+    },
+    {
+      "added_at": "2023-11-10 22:04:12",
+      "album": {
+        "name": "1969",
+        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
+      },
+      "artists": [
+        {
+          "name": "1969 Collective",
+          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
+        },
+        {
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+        }
+      ],
+      "duration_ms": 197320,
+      "name": "Tu danses, condessa",
+      "url": "https://open.spotify.com/track/2kM47CzCvo48ZaPGO6LFu2"
+    },
+    {
+      "added_at": "2023-11-10 22:04:12",
+      "album": {
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Le vent se l\u00e8ve",
+      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
     },
     {
       "added_at": "2023-11-10 22:04:12",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2023-11-10 22:04:12",
       "album": {
+        "name": "Valhalla Dancer",
+        "url": "https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "Valhalla Dancer",
+      "url": "https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI"
+    },
+    {
+      "added_at": "2023-11-10 22:04:12",
+      "album": {
         "name": "La vraie nature - Chansons par Pilou",
         "url": "https://open.spotify.com/album/1sPNNoeAwmRJxMKoGlVdQD"
       },
@@ -1251,38 +1267,6 @@
       "duration_ms": 231360,
       "name": "Passagers",
       "url": "https://open.spotify.com/track/41apzFxQ6xPFWMsut29O1J"
-    },
-    {
-      "added_at": "2023-11-10 22:04:12",
-      "album": {
-        "name": "Encounter",
-        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 167920,
-      "name": "Nous sommes",
-      "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
-    },
-    {
-      "added_at": "2023-11-10 22:04:12",
-      "album": {
-        "name": "AVALANCHE (n.f.)",
-        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
-      },
-      "artists": [
-        {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
-        }
-      ],
-      "duration_ms": 188516,
-      "name": "Tu pars",
-      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
     },
     {
       "added_at": "2023-11-10 22:04:12",
@@ -1303,50 +1287,18 @@
     {
       "added_at": "2023-11-10 22:04:12",
       "album": {
-        "name": "Elle danse",
-        "url": "https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy"
+        "name": "AVALANCHE (n.f.)",
+        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
       },
       "artists": [
         {
-          "name": "Mimi O'Bonsawin",
-          "url": "https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt"
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
         }
       ],
-      "duration_ms": 149015,
-      "name": "Elle danse",
-      "url": "https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN"
-    },
-    {
-      "added_at": "2023-11-10 22:04:12",
-      "album": {
-        "name": "Pourchasser l'aube",
-        "url": "https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR"
-      },
-      "artists": [
-        {
-          "name": "Caroline Savoie",
-          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Mille et un",
-      "url": "https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc"
-    },
-    {
-      "added_at": "2023-11-10 22:04:12",
-      "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/5JKfHycWZ3soRfR1VTfsuC"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey Piton",
-          "url": "https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8"
-        }
-      ],
-      "duration_ms": 205386,
-      "name": "Californie",
-      "url": "https://open.spotify.com/track/2nEyKTVsQeVlbNt5bCBG7I"
+      "duration_ms": 188516,
+      "name": "Tu pars",
+      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
     },
     {
       "added_at": "2023-11-10 22:04:12",
@@ -1367,18 +1319,34 @@
     {
       "added_at": "2023-11-10 22:04:12",
       "album": {
-        "name": "Valhalla Dancer",
-        "url": "https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da"
+        "name": "L'\u00e9t\u00e9 indien de ta vie",
+        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
       },
       "artists": [
         {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 223533,
-      "name": "Valhalla Dancer",
-      "url": "https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI"
+      "duration_ms": 238969,
+      "name": "L'\u00e9t\u00e9 indien de ta vie",
+      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
+    },
+    {
+      "added_at": "2023-11-10 22:04:12",
+      "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/5JKfHycWZ3soRfR1VTfsuC"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Piton",
+          "url": "https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8"
+        }
+      ],
+      "duration_ms": 205386,
+      "name": "Californie",
+      "url": "https://open.spotify.com/track/2nEyKTVsQeVlbNt5bCBG7I"
     },
     {
       "added_at": "2023-11-10 22:04:12",
@@ -1415,18 +1383,50 @@
     {
       "added_at": "2023-11-10 22:04:12",
       "album": {
-        "name": "L'\u00e9t\u00e9 indien de ta vie",
-        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
+        "name": "Encounter",
+        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
         }
       ],
-      "duration_ms": 238969,
-      "name": "L'\u00e9t\u00e9 indien de ta vie",
-      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
+      "duration_ms": 167920,
+      "name": "Nous sommes",
+      "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
+    },
+    {
+      "added_at": "2023-11-10 22:04:12",
+      "album": {
+        "name": "Elle danse",
+        "url": "https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy"
+      },
+      "artists": [
+        {
+          "name": "Mimi O'Bonsawin",
+          "url": "https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt"
+        }
+      ],
+      "duration_ms": 149015,
+      "name": "Elle danse",
+      "url": "https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN"
+    },
+    {
+      "added_at": "2023-11-10 22:04:12",
+      "album": {
+        "name": "Pourchasser l'aube",
+        "url": "https://open.spotify.com/album/3xer7sT9XMC2HV98zIFfJR"
+      },
+      "artists": [
+        {
+          "name": "Caroline Savoie",
+          "url": "https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "Mille et un",
+      "url": "https://open.spotify.com/track/1BBYJdtHPOhITu6oDZyhHc"
     },
     {
       "added_at": "2023-11-10 22:04:12",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-11-10 22:04:12",
       "album": {
-        "name": "Me semble que c'est facile",
-        "url": "https://open.spotify.com/album/79oVShReMrIa4ACzMTX990"
-      },
-      "artists": [
-        {
-          "name": "Lisa LeBlanc",
-          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "Me semble que c'est facile",
-      "url": "https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4"
-    },
-    {
-      "added_at": "2023-11-10 22:04:12",
-      "album": {
         "name": "La nuit est une panth\u00e8re",
         "url": "https://open.spotify.com/album/7eau0t375JHKnxK48tequj"
       },
@@ -1491,90 +1475,6 @@
       "duration_ms": 177116,
       "name": "Platane",
       "url": "https://open.spotify.com/track/74GGj9rWMmSzJEzn4k0rjs"
-    },
-    {
-      "added_at": "2023-11-10 22:04:12",
-      "album": {
-        "name": "M\u00e8res",
-        "url": "https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY"
-      },
-      "artists": [
-        {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
-        }
-      ],
-      "duration_ms": 273933,
-      "name": "M\u00e8res",
-      "url": "https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e"
-    },
-    {
-      "added_at": "2023-11-10 22:04:12",
-      "album": {
-        "name": "Prendre soin du beau",
-        "url": "https://open.spotify.com/album/6qGTjFlt1VfhS1ISV2OACY"
-      },
-      "artists": [
-        {
-          "name": "Jessica Charlie",
-          "url": "https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op"
-        }
-      ],
-      "duration_ms": 195030,
-      "name": "Prendre soin du beau",
-      "url": "https://open.spotify.com/track/6cqT1guXExDBibebscbGqg"
-    },
-    {
-      "added_at": "2023-11-10 22:04:12",
-      "album": {
-        "name": "1969",
-        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
-      },
-      "artists": [
-        {
-          "name": "1969 Collective",
-          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
-        },
-        {
-          "name": "Claudia Bouvette",
-          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
-        }
-      ],
-      "duration_ms": 223733,
-      "name": "Post Mortem",
-      "url": "https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v"
-    },
-    {
-      "added_at": "2023-11-10 22:04:12",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp"
-      },
-      "artists": [
-        {
-          "name": "Milk & Bone",
-          "url": "https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW"
-        }
-      ],
-      "duration_ms": 208698,
-      "name": "On br\u00fblera - Spotify Singles",
-      "url": "https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm"
-    },
-    {
-      "added_at": "2023-11-10 22:04:12",
-      "album": {
-        "name": "Notre-Dame-des-Sept-Douleurs",
-        "url": "https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh"
-      },
-      "artists": [
-        {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
-        }
-      ],
-      "duration_ms": 235800,
-      "name": "J'aurai les cheveux longs",
-      "url": "https://open.spotify.com/track/6WL8nV3YgTlrIIlV5aQGyD"
     },
     {
       "added_at": "2023-11-10 22:04:12",
@@ -1595,38 +1495,102 @@
     {
       "added_at": "2023-11-10 22:04:12",
       "album": {
-        "name": "Ceci est une esp\u00e8ce aim\u00e9e",
-        "url": "https://open.spotify.com/album/1EFz0WbdlqvV50NkSxJoWq"
+        "name": "Me semble que c'est facile",
+        "url": "https://open.spotify.com/album/79oVShReMrIa4ACzMTX990"
       },
       "artists": [
         {
-          "name": "Saratoga",
-          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
+          "name": "Lisa LeBlanc",
+          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
         }
       ],
-      "duration_ms": 299320,
-      "name": "Morceaux",
-      "url": "https://open.spotify.com/track/5cEjAzmvWIQYF54kUTdRKY"
+      "duration_ms": 203586,
+      "name": "Me semble que c'est facile",
+      "url": "https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4"
     },
     {
       "added_at": "2023-11-10 22:04:12",
       "album": {
-        "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
-        "url": "https://open.spotify.com/album/270Bbbh2dJynbVAV9qb3kO"
+        "name": "M\u00e8res",
+        "url": "https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY"
       },
       "artists": [
         {
-          "name": "Charlie Winston",
-          "url": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
-        },
-        {
-          "name": "Cam\u00e9lia Jordana",
-          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
         }
       ],
-      "duration_ms": 187893,
-      "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
-      "url": "https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz"
+      "duration_ms": 273933,
+      "name": "M\u00e8res",
+      "url": "https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e"
+    },
+    {
+      "added_at": "2023-11-10 22:04:12",
+      "album": {
+        "name": "1969",
+        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
+      },
+      "artists": [
+        {
+          "name": "1969 Collective",
+          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
+        },
+        {
+          "name": "Jason Bajada",
+          "url": "https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p"
+        }
+      ],
+      "duration_ms": 195360,
+      "name": "Grande ivresse",
+      "url": "https://open.spotify.com/track/5nPYNl5IlVU2qHnmNZX7yf"
+    },
+    {
+      "added_at": "2023-11-10 22:04:12",
+      "album": {
+        "name": "Prendre soin du beau",
+        "url": "https://open.spotify.com/album/6qGTjFlt1VfhS1ISV2OACY"
+      },
+      "artists": [
+        {
+          "name": "Jessica Charlie",
+          "url": "https://open.spotify.com/artist/0nBaWM1NoLFB7kPSftK6op"
+        }
+      ],
+      "duration_ms": 195030,
+      "name": "Prendre soin du beau",
+      "url": "https://open.spotify.com/track/6cqT1guXExDBibebscbGqg"
+    },
+    {
+      "added_at": "2023-11-10 22:04:12",
+      "album": {
+        "name": "Notre-Dame-des-Sept-Douleurs",
+        "url": "https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh"
+      },
+      "artists": [
+        {
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+        }
+      ],
+      "duration_ms": 235800,
+      "name": "J'aurai les cheveux longs",
+      "url": "https://open.spotify.com/track/6WL8nV3YgTlrIIlV5aQGyD"
+    },
+    {
+      "added_at": "2023-11-10 22:04:12",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp"
+      },
+      "artists": [
+        {
+          "name": "Milk & Bone",
+          "url": "https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW"
+        }
+      ],
+      "duration_ms": 208698,
+      "name": "On br\u00fblera - Spotify Singles",
+      "url": "https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm"
     },
     {
       "added_at": "2023-11-10 22:04:12",
@@ -1651,18 +1615,54 @@
     {
       "added_at": "2023-11-10 22:04:12",
       "album": {
-        "name": "En attendant l'aube",
-        "url": "https://open.spotify.com/album/3lGpnDRketjClNuE2F0Wyd"
+        "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
+        "url": "https://open.spotify.com/album/270Bbbh2dJynbVAV9qb3kO"
       },
       "artists": [
         {
-          "name": "H\u00e9ra M\u00e9nard",
-          "url": "https://open.spotify.com/artist/5H5gfDCrcb5XzSrhQhzTiO"
+          "name": "Charlie Winston",
+          "url": "https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3"
+        },
+        {
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
         }
       ],
-      "duration_ms": 222186,
-      "name": "En attendant l'aube",
-      "url": "https://open.spotify.com/track/2j46EsGcn2W7AJrqKTJ9yF"
+      "duration_ms": 187893,
+      "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
+      "url": "https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz"
+    },
+    {
+      "added_at": "2023-11-10 22:04:12",
+      "album": {
+        "name": "Ceci est une esp\u00e8ce aim\u00e9e",
+        "url": "https://open.spotify.com/album/1EFz0WbdlqvV50NkSxJoWq"
+      },
+      "artists": [
+        {
+          "name": "Saratoga",
+          "url": "https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn"
+        }
+      ],
+      "duration_ms": 299320,
+      "name": "Morceaux",
+      "url": "https://open.spotify.com/track/5cEjAzmvWIQYF54kUTdRKY"
+    },
+    {
+      "added_at": "2023-11-10 22:04:12",
+      "album": {
+        "name": "The Paradise Club",
+        "url": "https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7"
+      },
+      "artists": [
+        {
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
+        }
+      ],
+      "duration_ms": 184680,
+      "name": "1000 Bornes",
+      "url": "https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco"
     }
   ],
   "unique_name": "Caf\u00e9 montr\u00e9alais",

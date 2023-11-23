@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits já consagrados e os novos nomes da cena pop dividindo o mesmo palco!  / Foto: PRISCILLA, Bonde do Tigrão
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,181 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,203 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 38 | [Vem com tudo](https://open.spotify.com/track/3KBeevk3IGoAdoktaH1OBJ) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Vem com tudo](https://open.spotify.com/album/53ycsc2CcgfoTgYtBWtEY8) | 3:14 |
 | 39 | [24 Horas](https://open.spotify.com/track/3Q0LWpLuhEcCCWjpfBRnzH) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Baile do Papato](https://open.spotify.com/album/2xReweSuwmZbdogHMILeek) | 3:01 |
 | 40 | [ne\-yo](https://open.spotify.com/track/5h2lBg0mULQ6s60TqebwT5) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Dois](https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm) | 2:22 |
-| 41 | [I'm Good \(Blue\) \[feat\. Bebe Rexha, Ludmilla and LIT killah\] \- 2023 Version](https://open.spotify.com/track/68NaWutYrE6BcbWuY49HYP) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\) \[feat\. Bebe Rexha, Ludmilla and LIT killah\] \[2023 Version\]](https://open.spotify.com/album/360cogIQEaXAo8mpdcJFfI) | 2:40 |
-| 42 | [RADAR \- AO VIVO](https://open.spotify.com/track/4g771Ik6PRt0poI1wXddXb) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE \(AO VIVO\)](https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d) | 3:04 |
+| 41 | [RADAR \- AO VIVO](https://open.spotify.com/track/4g771Ik6PRt0poI1wXddXb) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE \(AO VIVO\)](https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d) | 3:04 |
+| 42 | [I'm Good \(Blue\) \[feat\. Bebe Rexha, Ludmilla and LIT killah\] \- 2023 Version](https://open.spotify.com/track/68NaWutYrE6BcbWuY49HYP) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\) \[feat\. Bebe Rexha, Ludmilla and LIT killah\] \[2023 Version\]](https://open.spotify.com/album/360cogIQEaXAo8mpdcJFfI) | 2:40 |
 | 43 | [Carta Branca](https://open.spotify.com/track/1ZpU1yLyBqrc45HOSFK9C1) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Carta Branca](https://open.spotify.com/album/0Zu9p2cVWWhqbGspECnalU) | 3:41 |
 | 44 | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX) | 2:32 |
 | 45 | [Fiu Fiu](https://open.spotify.com/track/19fy7EiY7vCLVpQOMl4yeq) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 3:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 79 | [sinto muito](https://open.spotify.com/track/1ZNk7XzTYha1MgKl4K3kJw) | [BENJAMÍN](https://open.spotify.com/artist/3QvQ9sZG5xZHu4foUWiK5P) | [sinto muito](https://open.spotify.com/album/5zTaa6tUbzf19VztvJerVq) | 2:53 |
 | 80 | [Insegura](https://open.spotify.com/track/34XDlytLvelV6XaVPkWLyz) | [Lori](https://open.spotify.com/artist/30zBkdxHh8fXgxTx99rwhH) | [Cuore Aperto](https://open.spotify.com/album/2oSnyEJ0FAzDNJMA1oZ8Lg) | 2:58 |
 
-Snapshot ID: `MCw3NGNhOWU2NjgwYmQwYzYxMjc4OTczYjUxODUwOGNkMzYwYTI2ZGVl`
+Snapshot ID: `MCwyZWE2OGQwZDExMzE4N2Y4MDAxMzM0YzJhNWFjMDI0MmFjMjczYWNh`

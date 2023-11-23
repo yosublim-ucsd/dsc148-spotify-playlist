@@ -100,10 +100,28 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 207400,
       "name": "All We Got",
       "url": "https://open.spotify.com/track/6Amc3m1OJiQvtrSbWu6qjf"
+    },
+    {
+      "album": {
+        "name": "All We Got",
+        "url": "https://open.spotify.com/album/6GL8KAt8KIoYIJcx3Fshzm"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "All We Got",
+      "url": "https://open.spotify.com/track/6Ox1Ncu48HmzyYmbjvbo1s"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 29479,
+  "num_followers": 29543,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWNmYmJmZDIxNDliODk4YmE5NmRmOWFmOWEwN2FiN2JhZTdhMTFk",
+  "snapshot_id": "MCxmNWZmMDFhYTA1ODlkYjMyZjMyMGQwMmM4NzBjNzY4ZjY1NjQ5OGJi",
   "tracks": [
     {
       "added_at": "2023-11-17 05:01:00",
@@ -811,18 +811,22 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Sublime Tech House, Vol. 20",
-        "url": "https://open.spotify.com/album/1JftMTvxojkM6pe9C1yFAk"
+        "name": "Vamo",
+        "url": "https://open.spotify.com/album/5fpcn6vdsxTyh1m3XmGDHA"
       },
       "artists": [
         {
-          "name": "Reblok",
-          "url": "https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn"
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+        },
+        {
+          "name": "Secondcity",
+          "url": "https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq"
         }
       ],
-      "duration_ms": 176264,
-      "name": "Slim Shady",
-      "url": "https://open.spotify.com/track/4SWHIURgjr6c3B7J7TxorD"
+      "duration_ms": 216000,
+      "name": "Vamo",
+      "url": "https://open.spotify.com/track/1TyO82OeIOUO6845tQH3Yu"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -843,18 +847,18 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "No Turning Back",
-        "url": "https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt"
+        "name": "Sublime Tech House, Vol. 20",
+        "url": "https://open.spotify.com/album/1JftMTvxojkM6pe9C1yFAk"
       },
       "artists": [
         {
-          "name": "MANT",
-          "url": "https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y"
+          "name": "Reblok",
+          "url": "https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn"
         }
       ],
-      "duration_ms": 190449,
-      "name": "No Turning Back",
-      "url": "https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug"
+      "duration_ms": 176264,
+      "name": "Slim Shady",
+      "url": "https://open.spotify.com/track/4SWHIURgjr6c3B7J7TxorD"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -875,22 +879,18 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Hip Trumpets",
-        "url": "https://open.spotify.com/album/4VUQYr2q75PTwBQqg4Lno4"
+        "name": "No Turning Back",
+        "url": "https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt"
       },
       "artists": [
         {
-          "name": "Yolanda Be Cool",
-          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
-        },
-        {
-          "name": "KVISION",
-          "url": "https://open.spotify.com/artist/2Ha11athGRqW6lDwDDgTpR"
+          "name": "MANT",
+          "url": "https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y"
         }
       ],
-      "duration_ms": 195238,
-      "name": "Hip Trumpets",
-      "url": "https://open.spotify.com/track/4kYT3hIu8BKMxFqfApbIou"
+      "duration_ms": 190449,
+      "name": "No Turning Back",
+      "url": "https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -915,22 +915,22 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Vamo",
-        "url": "https://open.spotify.com/album/5fpcn6vdsxTyh1m3XmGDHA"
+        "name": "Hip Trumpets",
+        "url": "https://open.spotify.com/album/4VUQYr2q75PTwBQqg4Lno4"
       },
       "artists": [
         {
-          "name": "Route 94",
-          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+          "name": "Yolanda Be Cool",
+          "url": "https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F"
         },
         {
-          "name": "Secondcity",
-          "url": "https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq"
+          "name": "KVISION",
+          "url": "https://open.spotify.com/artist/2Ha11athGRqW6lDwDDgTpR"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Vamo",
-      "url": "https://open.spotify.com/track/1TyO82OeIOUO6845tQH3Yu"
+      "duration_ms": 195238,
+      "name": "Hip Trumpets",
+      "url": "https://open.spotify.com/track/4kYT3hIu8BKMxFqfApbIou"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
+        "name": "Supermodel Thick",
+        "url": "https://open.spotify.com/album/1WBrocFNoWaAwV1n7y4UTo"
+      },
+      "artists": [
+        {
+          "name": "Jho Roscioli",
+          "url": "https://open.spotify.com/artist/1YyeTuJ8IrPSpPiZMq0rhH"
+        }
+      ],
+      "duration_ms": 326357,
+      "name": "Supermodel Thick",
+      "url": "https://open.spotify.com/track/4czwcLS8x96vBcCDAFBeKv"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
         "name": "Ready For The Blues",
         "url": "https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL"
       },
@@ -967,18 +983,18 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Supermodel Thick",
-        "url": "https://open.spotify.com/album/1WBrocFNoWaAwV1n7y4UTo"
+        "name": "Bionic Boy",
+        "url": "https://open.spotify.com/album/4up90bXZVvpCwtYljSiI16"
       },
       "artists": [
         {
-          "name": "Jho Roscioli",
-          "url": "https://open.spotify.com/artist/1YyeTuJ8IrPSpPiZMq0rhH"
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
         }
       ],
-      "duration_ms": 326357,
-      "name": "Supermodel Thick",
-      "url": "https://open.spotify.com/track/4czwcLS8x96vBcCDAFBeKv"
+      "duration_ms": 206265,
+      "name": "Bionic Boy",
+      "url": "https://open.spotify.com/track/0CtMpuQoedYSaVBVni2rtE"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -999,18 +1015,22 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Bionic Boy",
-        "url": "https://open.spotify.com/album/4up90bXZVvpCwtYljSiI16"
+        "name": "The Attention Deficit Track",
+        "url": "https://open.spotify.com/album/45KWFCVez0XRbv74zCYSTc"
       },
       "artists": [
         {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+          "name": "Jackmaster",
+          "url": "https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
         }
       ],
-      "duration_ms": 206265,
-      "name": "Bionic Boy",
-      "url": "https://open.spotify.com/track/0CtMpuQoedYSaVBVni2rtE"
+      "duration_ms": 228420,
+      "name": "The Attention Deficit Track - Edit",
+      "url": "https://open.spotify.com/track/7AKaUvMxAw88jMdy9wXYFW"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -1071,26 +1091,6 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "The Attention Deficit Track",
-        "url": "https://open.spotify.com/album/45KWFCVez0XRbv74zCYSTc"
-      },
-      "artists": [
-        {
-          "name": "Jackmaster",
-          "url": "https://open.spotify.com/artist/1VQgvnkH9rOB2YkNr1ovuB"
-        },
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
-        }
-      ],
-      "duration_ms": 228420,
-      "name": "The Attention Deficit Track - Edit",
-      "url": "https://open.spotify.com/track/7AKaUvMxAw88jMdy9wXYFW"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
         "name": "Do One EP",
         "url": "https://open.spotify.com/album/5aGWQJq8ewvgKOgRpIFddl"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 189473,
       "name": "0121 Do One",
       "url": "https://open.spotify.com/track/02wFfnZKAuBcyxjtaxWwIA"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/12quZo2PlX4wa0k6S1NveB"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 201172,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/68qcK1XoQLaaI3NNNEYdaQ"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -1175,22 +1191,6 @@
       "duration_ms": 518400,
       "name": "Geh\u00f6rschadengenerator",
       "url": "https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/12quZo2PlX4wa0k6S1NveB"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 201172,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/68qcK1XoQLaaI3NNNEYdaQ"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
+        "name": "Alley Rave",
+        "url": "https://open.spotify.com/album/125AHdT7Yan1Nw5vUwwBnq"
+      },
+      "artists": [
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "duration_ms": 364099,
+      "name": "Alley Rave",
+      "url": "https://open.spotify.com/track/1Zc0AQvQNk5UfjVOMD1Dxq"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
         "name": "Touch Me",
         "url": "https://open.spotify.com/album/6AGx5r4hGfYYK1uZLpJCUR"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 148153,
       "name": "Take",
       "url": "https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
-        "name": "Alley Rave",
-        "url": "https://open.spotify.com/album/125AHdT7Yan1Nw5vUwwBnq"
-      },
-      "artists": [
-        {
-          "name": "Andrea Oliva",
-          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
-        }
-      ],
-      "duration_ms": 364099,
-      "name": "Alley Rave",
-      "url": "https://open.spotify.com/track/1Zc0AQvQNk5UfjVOMD1Dxq"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
+        "name": "No Bueno (Extended Mix)",
+        "url": "https://open.spotify.com/album/6z3pZ6w15ymHLm4dyOHo6u"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 350125,
+      "name": "No Bueno (Extended Mix)",
+      "url": "https://open.spotify.com/track/3Ayzf6IFTLutVUf9Hyxx2d"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
         "name": "Picante EP",
         "url": "https://open.spotify.com/album/1AyirEP5GhX0ZsTrCHJCvE"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 454000,
       "name": "N NIGHT",
       "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
-        "name": "No Bueno (Extended Mix)",
-        "url": "https://open.spotify.com/album/6z3pZ6w15ymHLm4dyOHo6u"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 350125,
-      "name": "No Bueno (Extended Mix)",
-      "url": "https://open.spotify.com/track/3Ayzf6IFTLutVUf9Hyxx2d"
     },
     {
       "added_at": "2023-11-17 05:01:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "You & Me",
-        "url": "https://open.spotify.com/album/7g0uWDHesKV8s9JvFHRLIS"
-      },
-      "artists": [
-        {
-          "name": "Ky William",
-          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
-        }
-      ],
-      "duration_ms": 221818,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/5QQSZ36V2Jsh6jgnc2Bysn"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
         "name": "World Is Empty",
         "url": "https://open.spotify.com/album/6XEry2Mab6D2CmMJMSQdNl"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 196030,
       "name": "World Is Empty",
       "url": "https://open.spotify.com/track/2nXrGRA0qLwXtZ4QtQD6Jg"
+    },
+    {
+      "added_at": "2023-11-17 05:01:00",
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/7g0uWDHesKV8s9JvFHRLIS"
+      },
+      "artists": [
+        {
+          "name": "Ky William",
+          "url": "https://open.spotify.com/artist/2dIpuJtQApGRmGeUobllYq"
+        }
+      ],
+      "duration_ms": 221818,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/5QQSZ36V2Jsh6jgnc2Bysn"
     },
     {
       "added_at": "2023-11-17 05:01:00",

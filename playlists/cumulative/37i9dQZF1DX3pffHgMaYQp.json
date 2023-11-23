@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 262529,
       "name": "A Todo Madre o a Un Desmadre",
       "url": "https://open.spotify.com/track/5SiPuGuAxZQ3TB1OQQUTdK"
@@ -328,7 +328,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 247296,
       "name": "Barrio de Tepito",
       "url": "https://open.spotify.com/track/3lANKbxL65aPuEKl9pt5UK"
@@ -1413,6 +1413,24 @@
     },
     {
       "album": {
+        "name": "Lxs Vampirxs",
+        "url": "https://open.spotify.com/album/7BzIXzDZRnFZEHo1OfYsfy"
+      },
+      "artists": [
+        {
+          "name": "Los Blenders",
+          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149250,
+      "name": "Lxs Vampirxs",
+      "url": "https://open.spotify.com/track/7BdvEr27dk6v2X8OY2ZPi0"
+    },
+    {
+      "album": {
         "name": "Mala Suerte",
         "url": "https://open.spotify.com/album/3o0emNyeX0yyYhoycpn96X"
       },
@@ -1586,7 +1604,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 205612,
       "name": "Mu\u00f1eca",
       "url": "https://open.spotify.com/track/0oiz4s31QXy6Mremkst4Ux"
@@ -1890,7 +1908,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 313781,
       "name": "Perro Quieto",
       "url": "https://open.spotify.com/track/1xrODYFckm3LB32KtUgpbJ"
@@ -2200,7 +2218,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 216160,
       "name": "The First Party on Mars",
       "url": "https://open.spotify.com/track/4R0szfTXAHewydqsTGFTks"
@@ -2240,7 +2258,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 384401,
       "name": "Tibio (feat. Alo)",
       "url": "https://open.spotify.com/track/4YYkqEGlnnUP1Veadfw3kW"
@@ -2258,7 +2276,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 207669,
       "name": "Todo el mundo miente",
       "url": "https://open.spotify.com/track/5ScYhM18hLZ9ZlDYyGuVUy"
@@ -2298,6 +2316,24 @@
       "duration_ms": 218322,
       "name": "Todo Puede Ser Mejor - Fc Chdkf",
       "url": "https://open.spotify.com/track/0ks15BzbVU00CmOo22NRjL"
+    },
+    {
+      "album": {
+        "name": "Tornillo",
+        "url": "https://open.spotify.com/album/6MSMis63C7wWLVSSmSl92b"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93251,
+      "name": "Tornillo",
+      "url": "https://open.spotify.com/track/1mj4y7NHlTq6YfTZOeNqOx"
     },
     {
       "album": {
@@ -2546,10 +2582,28 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 220235,
       "name": "Ya No Dueles M\u00e1s",
       "url": "https://open.spotify.com/track/2HAiOXH71idwbKym8n44hu"
+    },
+    {
+      "album": {
+        "name": "\u00bfA qu\u00e9 le tiras?",
+        "url": "https://open.spotify.com/album/3MQyQ487oNDMIbv2uO2maE"
+      },
+      "artists": [
+        {
+          "name": "Feelder",
+          "url": "https://open.spotify.com/artist/5hlVR9GtWAmGrx9GLJhHxr"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "\u00bfA qu\u00e9 le tiras?",
+      "url": "https://open.spotify.com/track/5YdurFSX0XI9LSEBWFPDbl"
     },
     {
       "album": {

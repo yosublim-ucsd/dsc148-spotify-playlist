@@ -1,6 +1,6 @@
 {
   "description": "Stream your favourite trending tracks and discover new jams along the way! Cover: Travis Scott.",
-  "num_followers": 46909,
+  "num_followers": 46908,
   "original_name": "Trending Now",
   "owner": {
     "name": "Filtr Canada\t",
@@ -202,6 +202,10 @@
         {
           "name": "H.E.R.",
           "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
       "duration_ms": 211190,

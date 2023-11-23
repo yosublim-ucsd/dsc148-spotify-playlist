@@ -1,12 +1,12 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 17791,
+  "num_followers": 17817,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODgwNjRmZDhhM2FkYjczZmNhZGVhYzZkN2Y4ZjU4MjAyMGYzN2Ix",
+  "snapshot_id": "MCwwYmExMDM4NTNjNDQ0ZjEyZGQ0OWM0N2M0MjAyNTBmZjVlM2ZjMWQz",
   "tracks": [
     {
       "added_at": "2023-11-20 07:30:13",
@@ -411,18 +411,22 @@
     {
       "added_at": "2023-11-20 07:30:13",
       "album": {
-        "name": "Ajay - Atul Hits",
-        "url": "https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl"
+        "name": "Ringa Ringa",
+        "url": "https://open.spotify.com/album/5AUCIkaMURDFGsS6ycGlPe"
       },
       "artists": [
         {
-          "name": "Kunal Ganjawala",
-          "url": "https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ"
+          "name": "Ajay",
+          "url": "https://open.spotify.com/artist/0cZUnZAl3WmjGJwEVcBqEH"
+        },
+        {
+          "name": "Atul Gogavale",
+          "url": "https://open.spotify.com/artist/2muHoS1rv7HcYG5hqW0Zob"
         }
       ],
       "duration_ms": 272226,
-      "name": "Baaygo Baaygo - From \"Ringa Ringa\"",
-      "url": "https://open.spotify.com/track/5clzHGXtLse37TfRK3puiq"
+      "name": "Baaygo Baaygo",
+      "url": "https://open.spotify.com/track/5fd9sY2cFgVGhCc1popLbY"
     },
     {
       "added_at": "2023-11-20 07:30:13",

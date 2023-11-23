@@ -1,12 +1,12 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 68357,
+  "num_followers": 68584,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDI2MGUyNGNiYTI3ZTZkZmUyYjQ1MzY1ODZjMjM1MGIxNjhiM2E4",
+  "snapshot_id": "MCw4Y2Q4YjM4ZTFkNmQ2MTYyMzlmNTEzZmNlZmUwNTg3NTFmMmFlNDUz",
   "tracks": [
     {
       "added_at": "2023-11-20 15:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2E00JwOIngqnZbeBkj7aB2"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 181750,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/5rzxppLxFWvtwzjmyppcqk"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "098RADIO vol.1 Hosted by Awich",
         "url": "https://open.spotify.com/album/6jQI4R1D8sk5YXQnSju44y"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 289846,
       "name": "RASEN in OKINAWA",
       "url": "https://open.spotify.com/track/6JDDIx1vSs5GvMZXsy2aR2"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/2E00JwOIngqnZbeBkj7aB2"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 181750,
-      "name": "Nothing Matters",
-      "url": "https://open.spotify.com/track/5rzxppLxFWvtwzjmyppcqk"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 279810,
-      "name": "Fall Right In",
-      "url": "https://open.spotify.com/track/5NqxYiQuZFRIlhZmNVQEPX"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Osama (Bruno Be, Ralk Rework)",
         "url": "https://open.spotify.com/album/5Tds5Ajn5nx4GMId45f9TV"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 279810,
+      "name": "Fall Right In",
+      "url": "https://open.spotify.com/track/5NqxYiQuZFRIlhZmNVQEPX"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Mamgobhozi",
         "url": "https://open.spotify.com/album/3stGihwj49yO2EJ6Ovl598"
       },
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Who Let Him In",
-        "url": "https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Who Let Him In",
-      "url": "https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "STRUGGLER",
         "url": "https://open.spotify.com/album/1mzWBk8fzEEMumcy5IuVcf"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 231240,
       "name": "What Comes Will Come",
       "url": "https://open.spotify.com/track/5U1MVqAfPoLPKllKr0WaRT"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Who Let Him In",
+        "url": "https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Who Let Him In",
+      "url": "https://open.spotify.com/track/3zKdTxoDlo5CT5HlqgUxJ3"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Move On",
-        "url": "https://open.spotify.com/album/3n3gvdhR2fkx9qXXPrIAi3"
-      },
-      "artists": [
-        {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/1uD1DhAEZ2XzU8psOERt54"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Dreaming Of You",
         "url": "https://open.spotify.com/album/3qYlIJsZmQyM9K9CfSv9Ri"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 204137,
       "name": "Dreaming Of You",
       "url": "https://open.spotify.com/track/7iSNRfFHvHeYL3fq4Njqd9"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/3n3gvdhR2fkx9qXXPrIAi3"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/1uD1DhAEZ2XzU8psOERt54"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 243354,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Panna Cotta",
         "url": "https://open.spotify.com/album/76bR8wlB1DS5iaKqFy3fWH"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 177467,
       "name": "Complicated (feat. Young Franco)",
       "url": "https://open.spotify.com/track/2TdAhpmGqB1DhzI0Auo9lq"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 243354,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Isn\u2019t It Now?",
-        "url": "https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf"
-      },
-      "artists": [
-        {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
-        }
-      ],
-      "duration_ms": 368386,
-      "name": "Soul Capturer",
-      "url": "https://open.spotify.com/track/5Rt1uhpnvrrXSf7HNX3mMi"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "The Hard Way",
         "url": "https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 212933,
       "name": "The Hard Way",
       "url": "https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Isn\u2019t It Now?",
+        "url": "https://open.spotify.com/album/0J2TlWaut2IAlWdBRHLIHf"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 368386,
+      "name": "Soul Capturer",
+      "url": "https://open.spotify.com/track/5Rt1uhpnvrrXSf7HNX3mMi"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "FLATLINE",
-        "url": "https://open.spotify.com/album/68qY8pAl8uRX4XxzTJ64cf"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 225883,
-      "name": "FLATLINE",
-      "url": "https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Paragon Songs",
         "url": "https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 247613,
       "name": "Gan Ainm",
       "url": "https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "FLATLINE",
+        "url": "https://open.spotify.com/album/68qY8pAl8uRX4XxzTJ64cf"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 225883,
+      "name": "FLATLINE",
+      "url": "https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Pinking Shears",
-        "url": "https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK"
-      },
-      "artists": [
-        {
-          "name": "Mandy, Indiana",
-          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
-        }
-      ],
-      "duration_ms": 152420,
-      "name": "Pinking Shears",
-      "url": "https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "EZ 4 Me",
         "url": "https://open.spotify.com/album/4LP7SRO9YsGGtDjvOMVWlg"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 185471,
       "name": "The World's Biggest Paving Slab",
       "url": "https://open.spotify.com/track/0BrPXLcu7IavDEzSU7YwSo"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Pinking Shears",
+        "url": "https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK"
+      },
+      "artists": [
+        {
+          "name": "Mandy, Indiana",
+          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
+        }
+      ],
+      "duration_ms": 152420,
+      "name": "Pinking Shears",
+      "url": "https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "We Are The Ones (FC24 Version)",
+        "url": "https://open.spotify.com/album/0PgSzrzBZiMHbOGQVFKUuO"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "duration_ms": 135950,
+      "name": "We Are The Ones - FC24 Version",
+      "url": "https://open.spotify.com/track/0e9puAKZblpFaZyEZ0ZcJ6"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "My Way",
         "url": "https://open.spotify.com/album/2HByMoy9KrW78HhZk1Jf6h"
       },
@@ -1663,38 +1679,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "We Are The Ones (FC24 Version)",
-        "url": "https://open.spotify.com/album/0PgSzrzBZiMHbOGQVFKUuO"
-      },
-      "artists": [
-        {
-          "name": "King",
-          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
-        }
-      ],
-      "duration_ms": 135950,
-      "name": "We Are The Ones - FC24 Version",
-      "url": "https://open.spotify.com/track/0e9puAKZblpFaZyEZ0ZcJ6"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "THAT GIRL",
-        "url": "https://open.spotify.com/album/0dCFboe6x4Nz3e7LkGWIgE"
-      },
-      "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        }
-      ],
-      "duration_ms": 125800,
-      "name": "THAT GIRL",
-      "url": "https://open.spotify.com/track/3WSlZ5C7P9rN98QG7AYcB5"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "FIST IN THE SKY (feat. Jordan Mackampa)",
         "url": "https://open.spotify.com/album/1KZV8Ywiz12q19o5rtFMoU"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 267066,
       "name": "FIST IN THE SKY (feat. Jordan Mackampa)",
       "url": "https://open.spotify.com/track/3yVz0LNJ7gdMsAfIAxlKJO"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "THAT GIRL",
+        "url": "https://open.spotify.com/album/0dCFboe6x4Nz3e7LkGWIgE"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "duration_ms": 125800,
+      "name": "THAT GIRL",
+      "url": "https://open.spotify.com/track/3WSlZ5C7P9rN98QG7AYcB5"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1795,42 +1795,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "I Go Get It",
-        "url": "https://open.spotify.com/album/1NCyCAeI4jdb8HTymUhouL"
-      },
-      "artists": [
-        {
-          "name": "Souls Of Creation",
-          "url": "https://open.spotify.com/artist/2IdVY7sUy5Dvugq7YXpp9L"
-        },
-        {
-          "name": "Bobbie Johnson",
-          "url": "https://open.spotify.com/artist/53UYVk8esbujg16JqCpQEO"
-        }
-      ],
-      "duration_ms": 131320,
-      "name": "I Go Get It",
-      "url": "https://open.spotify.com/track/4ADaOjVuuwWbRrOyvayozt"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Pain/Pleasure",
-        "url": "https://open.spotify.com/album/2PDLRqHuLXz6X9pzaeRh19"
-      },
-      "artists": [
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 113526,
-      "name": "Get It",
-      "url": "https://open.spotify.com/track/5Oy1hOAnCit3XFyQVwIGOH"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "WRECKED",
         "url": "https://open.spotify.com/album/2e36y4LFJxSObcZOvWrMBF"
       },
@@ -1851,6 +1815,42 @@
       "duration_ms": 173535,
       "name": "FORMULA",
       "url": "https://open.spotify.com/track/6H8YEkzK8FziT1QWnu6fdl"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Pain/Pleasure",
+        "url": "https://open.spotify.com/album/2PDLRqHuLXz6X9pzaeRh19"
+      },
+      "artists": [
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 113526,
+      "name": "Get It",
+      "url": "https://open.spotify.com/track/5Oy1hOAnCit3XFyQVwIGOH"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "I Go Get It",
+        "url": "https://open.spotify.com/album/1NCyCAeI4jdb8HTymUhouL"
+      },
+      "artists": [
+        {
+          "name": "Souls Of Creation",
+          "url": "https://open.spotify.com/artist/2IdVY7sUy5Dvugq7YXpp9L"
+        },
+        {
+          "name": "Bobbie Johnson",
+          "url": "https://open.spotify.com/artist/53UYVk8esbujg16JqCpQEO"
+        }
+      ],
+      "duration_ms": 131320,
+      "name": "I Go Get It",
+      "url": "https://open.spotify.com/track/4ADaOjVuuwWbRrOyvayozt"
     },
     {
       "added_at": "2023-11-20 15:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with Marta Del Grandi on cover. Updates every Wednesday.",
-  "num_followers": 123207,
+  "num_followers": 123391,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDgzMTRlM2E3ZDhkNzBmZGQyNzU4ZjIyYTc0OGFiM2RlODQzZGYx",
+  "snapshot_id": "MCwxMjMwMjFmZjE5NTVmNzE1OWNhZTg2MDYxZGFhYjA1ODE4YTM0ODA4",
   "tracks": [
     {
       "added_at": "2023-10-25 14:01:56",
@@ -661,22 +661,6 @@
       "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
-      "album": {
-        "name": "Step Outside This Area",
-        "url": "https://open.spotify.com/album/1r5MgVZWwQBnCMqABXtAyh"
-      },
-      "artists": [
-        {
-          "name": "Myles O'Reilly",
-          "url": "https://open.spotify.com/artist/7BHdwnkL0tV0SpfhTVRTjU"
-        }
-      ],
-      "duration_ms": 600000,
-      "name": "Fractus",
-      "url": "https://open.spotify.com/track/0ovXw0MenWBT4fn8LBWqCG"
-    },
-    {
       "added_at": "2023-08-10 05:46:09",
       "album": {
         "name": "MY BLACK CAT",
@@ -691,6 +675,22 @@
       "duration_ms": 149433,
       "name": "MY BLACK CAT",
       "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
+    },
+    {
+      "added_at": "2023-09-13 15:55:38",
+      "album": {
+        "name": "Step Outside This Area",
+        "url": "https://open.spotify.com/album/1r5MgVZWwQBnCMqABXtAyh"
+      },
+      "artists": [
+        {
+          "name": "Myles O'Reilly",
+          "url": "https://open.spotify.com/artist/7BHdwnkL0tV0SpfhTVRTjU"
+        }
+      ],
+      "duration_ms": 600000,
+      "name": "Fractus",
+      "url": "https://open.spotify.com/track/0ovXw0MenWBT4fn8LBWqCG"
     },
     {
       "added_at": "2023-10-11 18:36:09",
@@ -741,22 +741,6 @@
       "url": "https://open.spotify.com/track/5Ad2MmfRQlCue9adixQyrw"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
-      "album": {
-        "name": "Where The Bough Has Broken",
-        "url": "https://open.spotify.com/album/7HyRN7nsxJgyPBahLV5Qv7"
-      },
-      "artists": [
-        {
-          "name": "Hilary Woods",
-          "url": "https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749"
-        }
-      ],
-      "duration_ms": 303716,
-      "name": "Where The Bough Has Broken",
-      "url": "https://open.spotify.com/track/662hnQxH5qXWqMlwZnL0OA"
-    },
-    {
       "added_at": "2023-09-13 15:55:38",
       "album": {
         "name": "Figura de Cristal",
@@ -775,6 +759,22 @@
       "duration_ms": 160693,
       "name": "Ver a Trav\u00e9s de tus Ojos",
       "url": "https://open.spotify.com/track/2MGKlTC9Dw17dB3SztZOhU"
+    },
+    {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "Where The Bough Has Broken",
+        "url": "https://open.spotify.com/album/7HyRN7nsxJgyPBahLV5Qv7"
+      },
+      "artists": [
+        {
+          "name": "Hilary Woods",
+          "url": "https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749"
+        }
+      ],
+      "duration_ms": 303716,
+      "name": "Where The Bough Has Broken",
+      "url": "https://open.spotify.com/track/662hnQxH5qXWqMlwZnL0OA"
     },
     {
       "added_at": "2023-08-16 06:00:00",
@@ -873,20 +873,20 @@
       "url": "https://open.spotify.com/track/2WEb5xogCboXRtXnU3W2a8"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
+      "added_at": "2023-08-30 04:00:00",
       "album": {
-        "name": "How The River Flows",
-        "url": "https://open.spotify.com/album/1i4Gs7Srglt8CsdPwlutVp"
+        "name": "Hint",
+        "url": "https://open.spotify.com/album/6kuAtwn4IGu4L0NnlBOJHc"
       },
       "artists": [
         {
-          "name": "S\u00f3lstrauman",
-          "url": "https://open.spotify.com/artist/4RaiONmR8oJ3bxr2RlH1bO"
+          "name": "SPIME.IM",
+          "url": "https://open.spotify.com/artist/6zOLowG2X8FkUqPSEmetDJ"
         }
       ],
-      "duration_ms": 263451,
-      "name": "How The River Flows",
-      "url": "https://open.spotify.com/track/4M4ote4L4R4Zs4JeOmHzo6"
+      "duration_ms": 303500,
+      "name": "Hint",
+      "url": "https://open.spotify.com/track/5RTICRvRhMHjURWKZvYO9y"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -905,20 +905,36 @@
       "url": "https://open.spotify.com/track/52e028KD9UrxvpunBicff3"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
+      "added_at": "2023-09-13 15:55:38",
       "album": {
-        "name": "Hint",
-        "url": "https://open.spotify.com/album/6kuAtwn4IGu4L0NnlBOJHc"
+        "name": "How The River Flows",
+        "url": "https://open.spotify.com/album/1i4Gs7Srglt8CsdPwlutVp"
       },
       "artists": [
         {
-          "name": "SPIME.IM",
-          "url": "https://open.spotify.com/artist/6zOLowG2X8FkUqPSEmetDJ"
+          "name": "S\u00f3lstrauman",
+          "url": "https://open.spotify.com/artist/4RaiONmR8oJ3bxr2RlH1bO"
         }
       ],
-      "duration_ms": 303500,
-      "name": "Hint",
-      "url": "https://open.spotify.com/track/5RTICRvRhMHjURWKZvYO9y"
+      "duration_ms": 263451,
+      "name": "How The River Flows",
+      "url": "https://open.spotify.com/track/4M4ote4L4R4Zs4JeOmHzo6"
+    },
+    {
+      "added_at": "2023-10-25 14:01:56",
+      "album": {
+        "name": "October",
+        "url": "https://open.spotify.com/album/0ESqmNRSe1gA2yXIJmopkP"
+      },
+      "artists": [
+        {
+          "name": "Mejiwahn",
+          "url": "https://open.spotify.com/artist/5nwqAZGgbbZOuK11nRCGyj"
+        }
+      ],
+      "duration_ms": 196996,
+      "name": "October",
+      "url": "https://open.spotify.com/track/4BlcZJBXjWCffLynTahdVD"
     },
     {
       "added_at": "2023-10-25 14:01:56",
@@ -937,20 +953,20 @@
       "url": "https://open.spotify.com/track/7CgPSGWTtmFOIRhND4GThX"
     },
     {
-      "added_at": "2023-10-25 14:01:56",
+      "added_at": "2023-11-08 01:45:00",
       "album": {
-        "name": "October",
-        "url": "https://open.spotify.com/album/0ESqmNRSe1gA2yXIJmopkP"
+        "name": "Vibra\u00e7\u00f5es de Prata",
+        "url": "https://open.spotify.com/album/2JIG0FQTzPK42gw78K2Cuj"
       },
       "artists": [
         {
-          "name": "Mejiwahn",
-          "url": "https://open.spotify.com/artist/5nwqAZGgbbZOuK11nRCGyj"
+          "name": "Xexa",
+          "url": "https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8"
         }
       ],
-      "duration_ms": 196996,
-      "name": "October",
-      "url": "https://open.spotify.com/track/4BlcZJBXjWCffLynTahdVD"
+      "duration_ms": 128750,
+      "name": "Assim",
+      "url": "https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -971,22 +987,6 @@
       "duration_ms": 169226,
       "name": "Adentro de mis S\u00e1banas",
       "url": "https://open.spotify.com/track/0V0vY4Bqlm24GycZpOvNOd"
-    },
-    {
-      "added_at": "2023-11-08 01:45:00",
-      "album": {
-        "name": "Vibra\u00e7\u00f5es de Prata",
-        "url": "https://open.spotify.com/album/2JIG0FQTzPK42gw78K2Cuj"
-      },
-      "artists": [
-        {
-          "name": "Xexa",
-          "url": "https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8"
-        }
-      ],
-      "duration_ms": 128750,
-      "name": "Assim",
-      "url": "https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX"
     },
     {
       "added_at": "2023-10-25 14:01:56",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-10-04 14:25:37",
       "album": {
-        "name": "RIFT (Ambient Version)",
-        "url": "https://open.spotify.com/album/4t8epmIXuDQ6QXXBPjdajD"
-      },
-      "artists": [
-        {
-          "name": "Honeychurch",
-          "url": "https://open.spotify.com/artist/7t5JF3FCDzTM64OgEVtEY5"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "State of Grace - Ambient Version",
-      "url": "https://open.spotify.com/track/2B3AOSa351dCQytIBWYQV8"
-    },
-    {
-      "added_at": "2023-10-04 14:25:37",
-      "album": {
         "name": "Synth Spirit",
         "url": "https://open.spotify.com/album/4IP9MB3gCJKcrtayUfrECI"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 171962,
       "name": "Synth Spirit",
       "url": "https://open.spotify.com/track/1NGSf4OOcZaorLoH0DVcMp"
+    },
+    {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "RIFT (Ambient Version)",
+        "url": "https://open.spotify.com/album/4t8epmIXuDQ6QXXBPjdajD"
+      },
+      "artists": [
+        {
+          "name": "Honeychurch",
+          "url": "https://open.spotify.com/artist/7t5JF3FCDzTM64OgEVtEY5"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "State of Grace - Ambient Version",
+      "url": "https://open.spotify.com/track/2B3AOSa351dCQytIBWYQV8"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -1205,22 +1205,6 @@
       "url": "https://open.spotify.com/track/1lMkjU3ZlTXJR7HsblUglU"
     },
     {
-      "added_at": "2023-09-13 15:55:38",
-      "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/5haRNlDl1sHNbrJ2mYwAtj"
-      },
-      "artists": [
-        {
-          "name": "Naoko Sakata",
-          "url": "https://open.spotify.com/artist/4Jd7iJiBlNefAj47YIio6x"
-        }
-      ],
-      "duration_ms": 475200,
-      "name": "Improvisation 15",
-      "url": "https://open.spotify.com/track/4ttcYW4q4RimK9gP5cjYkK"
-    },
-    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "True",
@@ -1235,6 +1219,22 @@
       "duration_ms": 122331,
       "name": "Wired",
       "url": "https://open.spotify.com/track/1ttEhhzFufoxZYJw2S4l69"
+    },
+    {
+      "added_at": "2023-09-13 15:55:38",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/5haRNlDl1sHNbrJ2mYwAtj"
+      },
+      "artists": [
+        {
+          "name": "Naoko Sakata",
+          "url": "https://open.spotify.com/artist/4Jd7iJiBlNefAj47YIio6x"
+        }
+      ],
+      "duration_ms": 475200,
+      "name": "Improvisation 15",
+      "url": "https://open.spotify.com/track/4ttcYW4q4RimK9gP5cjYkK"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -1337,6 +1337,22 @@
       "url": "https://open.spotify.com/track/2X3U6oC0OOfZ2rGMhf8AxQ"
     },
     {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "Miracle-Tech",
+        "url": "https://open.spotify.com/album/0KfFMK9V0890u9O5qAsV3v"
+      },
+      "artists": [
+        {
+          "name": "SEES00000",
+          "url": "https://open.spotify.com/artist/6w3jNIUXSNbtWXNnAiBK45"
+        }
+      ],
+      "duration_ms": 186185,
+      "name": "Reno",
+      "url": "https://open.spotify.com/track/65i8qMn7gtqUu1cfKhCL6j"
+    },
+    {
       "added_at": "2023-10-25 14:01:56",
       "album": {
         "name": "depois do sonho, s\u00f3 a saudade de quem nunca fomos",
@@ -1367,22 +1383,6 @@
       "duration_ms": 263999,
       "name": "C (Featuring the Voice of Fred Moten)",
       "url": "https://open.spotify.com/track/3ttvx9JURlyt351VhBFmkg"
-    },
-    {
-      "added_at": "2023-10-04 14:25:37",
-      "album": {
-        "name": "Miracle-Tech",
-        "url": "https://open.spotify.com/album/0KfFMK9V0890u9O5qAsV3v"
-      },
-      "artists": [
-        {
-          "name": "SEES00000",
-          "url": "https://open.spotify.com/artist/6w3jNIUXSNbtWXNnAiBK45"
-        }
-      ],
-      "duration_ms": 186185,
-      "name": "Reno",
-      "url": "https://open.spotify.com/track/65i8qMn7gtqUu1cfKhCL6j"
     },
     {
       "added_at": "2023-10-25 14:01:56",
@@ -1481,22 +1481,6 @@
       "url": "https://open.spotify.com/track/5UkLcM1yFjeFBLUhwuKbkV"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
-      "album": {
-        "name": "If Yer Dreamin",
-        "url": "https://open.spotify.com/album/3HyJilhL4GD8PugNhsRfiZ"
-      },
-      "artists": [
-        {
-          "name": "Colin Miller",
-          "url": "https://open.spotify.com/artist/0vRHLsgnZk64dSk4mKgpaw"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "If Yer Dreamin",
-      "url": "https://open.spotify.com/track/7vCCMfYUSapBh426uTrChQ"
-    },
-    {
       "added_at": "2023-09-13 15:55:38",
       "album": {
         "name": "small circle",
@@ -1527,6 +1511,22 @@
       "duration_ms": 704253,
       "name": "FUTURA 2000",
       "url": "https://open.spotify.com/track/7taqxrAe5xltbEdeamlD0m"
+    },
+    {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "If Yer Dreamin",
+        "url": "https://open.spotify.com/album/3HyJilhL4GD8PugNhsRfiZ"
+      },
+      "artists": [
+        {
+          "name": "Colin Miller",
+          "url": "https://open.spotify.com/artist/0vRHLsgnZk64dSk4mKgpaw"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "If Yer Dreamin",
+      "url": "https://open.spotify.com/track/7vCCMfYUSapBh426uTrChQ"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -1625,22 +1625,6 @@
       "url": "https://open.spotify.com/track/3rfon8g6edGAA0pNcsXOQV"
     },
     {
-      "added_at": "2023-10-25 14:01:56",
-      "album": {
-        "name": "HEAVEN",
-        "url": "https://open.spotify.com/album/4c9WLUSIr93MPolYtdeGdK"
-      },
-      "artists": [
-        {
-          "name": "UNCIVILIZED GIRLS MEMORY",
-          "url": "https://open.spotify.com/artist/01UvG1nVdhGv3bF6VVIT2H"
-        }
-      ],
-      "duration_ms": 75518,
-      "name": "Incubator",
-      "url": "https://open.spotify.com/track/4yV0SSifaLWmDDiCLAewH1"
-    },
-    {
       "added_at": "2023-08-30 04:00:00",
       "album": {
         "name": "J\u00e1 n\u00e3o consigo mais, mas vou continuar",
@@ -1655,6 +1639,22 @@
       "duration_ms": 354031,
       "name": "J\u00e1 n\u00e3o consigo mais, mas vou continuar",
       "url": "https://open.spotify.com/track/7KYswH2kUpHwYo81gatUsJ"
+    },
+    {
+      "added_at": "2023-10-25 14:01:56",
+      "album": {
+        "name": "HEAVEN",
+        "url": "https://open.spotify.com/album/4c9WLUSIr93MPolYtdeGdK"
+      },
+      "artists": [
+        {
+          "name": "UNCIVILIZED GIRLS MEMORY",
+          "url": "https://open.spotify.com/artist/01UvG1nVdhGv3bF6VVIT2H"
+        }
+      ],
+      "duration_ms": 75518,
+      "name": "Incubator",
+      "url": "https://open.spotify.com/track/4yV0SSifaLWmDDiCLAewH1"
     },
     {
       "added_at": "2023-11-08 01:45:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7Zgh168Jxf.md) - [plain]
 
 > Electrónica para bailar al calor de la Riviera Maya.
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,847 likes - 200 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,412 likes - 200 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7Zgh168Jxf.md) - [plain]
 | 61 | [Dance](https://open.spotify.com/track/7qnlO9DnL4Ezvk7VeQtTEc) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Sentir](https://open.spotify.com/album/1vg3FBBYCH1uuBvbJfJcpA) | 3:50 |
 | 62 | [Drinkee \- Vintage Culture & John Summit Remix](https://open.spotify.com/track/68raS6F0ad2Iilql3yYeCt) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Drinkee \(Vintage Culture & John Summit Remix\)](https://open.spotify.com/album/3SJnS1rKgzb1tgi7oCkf5F) | 3:25 |
 | 63 | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) | 3:03 |
-| 64 | [All Comes Back To You](https://open.spotify.com/track/4AkCyd9Nlbt8JprQq9V6o2) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [All Comes Back To You](https://open.spotify.com/album/5sF8cTLQirqDYQWJwzxq87) | 2:40 |
+| 64 | [All Comes Back To You](https://open.spotify.com/track/3A8tXjJFi8JEwnItSJyCtN) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [All Comes Back To You](https://open.spotify.com/album/7BBauWrnEwcPNcKcd6ueAq) | 2:40 |
 | 65 | [Does It Make You Feel Good?](https://open.spotify.com/track/03HCgI7hnbXdgQfVS5R6Na) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Does It Make You Feel Good?](https://open.spotify.com/album/0gCYmi1WiIAMVer7yWnhk6) | 4:50 |
 | 66 | [In Flames](https://open.spotify.com/track/2HNn0DzRQFontxhp7QYlzF) | [SAG](https://open.spotify.com/artist/3laRUVXNA2glQ95MJJ5qHi), [Lucho](https://open.spotify.com/artist/0Fh9nNdiSPLCwaKF1NV9De), [The Vujà Dé](https://open.spotify.com/artist/0yrGVe3z7pqMgE3Xzscn6P) | [In Flames](https://open.spotify.com/album/0CfjFbJNKwV7F9jsFlczKD) | 2:08 |
 | 67 | [Happiness](https://open.spotify.com/track/1cmCNXQkKgqP04FU8tQYjQ) | [Peter Brown](https://open.spotify.com/artist/6FgtU463qtDrvUsL5b3Ael), [Mijangos](https://open.spotify.com/artist/55Y97uxwaGhvalkzZbxyzf) | [Happiness](https://open.spotify.com/album/4ZRoQkPxXvsKGdrGyEpPFM) | 3:15 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7Zgh168Jxf.md) - [plain]
 | 199 | [La Botella](https://open.spotify.com/track/5SAuyeUPUD1vmRGt653Gta) | [BonHaus](https://open.spotify.com/artist/34gZinCBxDwlo9VlbFA995), [Holy Pig](https://open.spotify.com/artist/5noU5w3Au49jwWgCXih5IE) | [La Botella](https://open.spotify.com/album/61lIlJlRlFgsMNUWVNafrg) | 3:45 |
 | 200 | [Dominicana \- The Martinez Brothers + Florentino Remix](https://open.spotify.com/track/7GtkJSvO9djv0GkoCoPbyH) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44) | [Dominicana \(The Martinez Brothers + Florentino Remix\)](https://open.spotify.com/album/5zruzxbUxzzf2mjJpuUqAX) | 4:05 |
 
-Snapshot ID: `MCxmMjZiNmNhMjNmYzcyMzE4MzJiZmY2NWNiYjk2OTlhYWNiNmM2ZTIw`
+Snapshot ID: `MCxkYTg1ZTAzOTZhNzBlMWMxZjI0YjhkNGQ4ZmNhOWZlZDgyYzE5Y2I4`

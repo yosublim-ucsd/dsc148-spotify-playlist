@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 688198,
+  "num_followers": 688258,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2IxZWY3NGJjYjgzNGI2OTBlM2M4NGU4ZWZiNmU2N2EwNDBjYmUy",
+  "snapshot_id": "MCw1YTI5ODg0NWNkOWE5Yzg0ZmMwNmRjMzE4MTQyMmMwZDcwMDk3MWQy",
   "tracks": [
     {
       "added_at": "2023-10-20 16:58:03",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "7\" Singles",
-        "url": "https://open.spotify.com/album/46QQwFMdIzeLyBfIeQrqYp"
-      },
-      "artists": [
-        {
-          "name": "Kishi Bashi",
-          "url": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
-        }
-      ],
-      "duration_ms": 206896,
-      "name": "This Must Be the Place (Naive Melody) [by Talking Heads]",
-      "url": "https://open.spotify.com/track/7nSomK5Wrh8KWUCJbluEgo"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "The Band",
         "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 219960,
       "name": "I Wanna Dance with Somebody",
       "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "7\" Singles",
+        "url": "https://open.spotify.com/album/46QQwFMdIzeLyBfIeQrqYp"
+      },
+      "artists": [
+        {
+          "name": "Kishi Bashi",
+          "url": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
+        }
+      ],
+      "duration_ms": 206896,
+      "name": "This Must Be the Place (Naive Melody) [by Talking Heads]",
+      "url": "https://open.spotify.com/track/7nSomK5Wrh8KWUCJbluEgo"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "Vignettes",
-        "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
-      },
-      "artists": [
-        {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
-        }
-      ],
-      "duration_ms": 256798,
-      "name": "My City of Ruins",
-      "url": "https://open.spotify.com/track/0F8Ec2ppXwQxDEdMRWEVaX"
-    },
-    {
-      "added_at": "2023-10-20 16:58:03",
-      "album": {
         "name": "A Case of You",
         "url": "https://open.spotify.com/album/4Kac74ulpXDAqVyvnyzsna"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 190110,
       "name": "A Case of You",
       "url": "https://open.spotify.com/track/5c6VpFSGVRfe6cNYm85zI0"
+    },
+    {
+      "added_at": "2023-10-20 16:58:03",
+      "album": {
+        "name": "Vignettes",
+        "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
+      },
+      "artists": [
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "duration_ms": 256798,
+      "name": "My City of Ruins",
+      "url": "https://open.spotify.com/track/0F8Ec2ppXwQxDEdMRWEVaX"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "A Whiter Shade of Pale",
-        "url": "https://open.spotify.com/album/2cT21JKia9DgqhvdakdHfC"
+        "name": "Playing Chess",
+        "url": "https://open.spotify.com/album/6qxLZgtrMkwuRlZW9j6dYt"
       },
       "artists": [
         {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+          "name": "Elise LeGrow",
+          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
         }
       ],
-      "duration_ms": 285428,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/0b5LFCOeFZfVlX0gxLTDaW"
+      "duration_ms": 185755,
+      "name": "You Never Can Tell",
+      "url": "https://open.spotify.com/track/5V6Slm8bHgFA5wINHUZskE"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1771,18 +1771,18 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "Playing Chess",
-        "url": "https://open.spotify.com/album/6qxLZgtrMkwuRlZW9j6dYt"
+        "name": "A Whiter Shade of Pale",
+        "url": "https://open.spotify.com/album/2cT21JKia9DgqhvdakdHfC"
       },
       "artists": [
         {
-          "name": "Elise LeGrow",
-          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
         }
       ],
-      "duration_ms": 185755,
-      "name": "You Never Can Tell",
-      "url": "https://open.spotify.com/track/5V6Slm8bHgFA5wINHUZskE"
+      "duration_ms": 285428,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/0b5LFCOeFZfVlX0gxLTDaW"
     },
     {
       "added_at": "2023-10-20 16:58:03",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2023-10-20 16:58:03",
       "album": {
-        "name": "You'll Never Walk Alone",
-        "url": "https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM"
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/5wA9NBMfYM8cv3Wa3b7Xye"
       },
       "artists": [
         {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
         }
       ],
-      "duration_ms": 118476,
-      "name": "You'll Never Walk Alone",
-      "url": "https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK"
+      "duration_ms": 141653,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/1xbHo1GPXcfbw3lg9ImsNL"
     }
   ],
   "unique_name": "Classic Covers",

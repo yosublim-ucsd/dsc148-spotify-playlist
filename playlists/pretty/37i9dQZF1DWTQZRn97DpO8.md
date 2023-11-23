@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : Enchantée Julia
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,951 likes - 49 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,978 likes - 49 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 48 | [Sur la rive](https://open.spotify.com/track/01EU33zjVyNNaBK46wfD2X) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp), [Hedges](https://open.spotify.com/artist/4wIqXlUU7ManNDpURytYbJ) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 3:11 |
 | 49 | [Rouge](https://open.spotify.com/track/0MGa47R4L0OFTUd0H2AOBU) | [Naë](https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh) | [Rouge](https://open.spotify.com/album/5CEexTwatSOWIHJdarjQiR) | 2:34 |
 
-Snapshot ID: `MCxkYWM0NzQxYjA1ZDE3MmYxNjYxYTczMDBkNWJlMmY0YzNkMDMzMDMy`
+Snapshot ID: `MCw3N2NlMjEzYzczMzk2MDhiMDIyNTUwODE0MDcyNDYxMTE3MjlmYjIx`

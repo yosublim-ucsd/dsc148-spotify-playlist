@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 
 > Chanson alterno, rock festif, ska ou reggae, peu importe le genre : crie\-le bien fort, use tes cordes vocales !
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,871 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,916 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 46 | [Awalpé](https://open.spotify.com/track/4cHUyhoq1PxNub0EE75Hbl) | [Les Fils De Teuhpu](https://open.spotify.com/artist/0MNXVnloSEVTmqTduBnJkt) | [La Schnek](https://open.spotify.com/album/2tC0TcdZtYpJ6mdovkEepR) | 3:01 |
 | 47 | [Vitrolles](https://open.spotify.com/track/6b3Hgev5YOJrqbF9IRaTka) | [Raspigaous](https://open.spotify.com/artist/6hOwWmb5Hl7HZ0J8tQLe4u) | [Chaud time](https://open.spotify.com/album/50sNVGEowGVYHhaxyazz8S) | 5:04 |
 | 48 | [Tout le monde est là](https://open.spotify.com/track/63BT1ZA8NSk0soGSmKQVfq) | [Mister Gang](https://open.spotify.com/artist/0g9joi70vEh2c7i9U141ao) | [Liberté illégale](https://open.spotify.com/album/4KoQ7ZbiBN4itXhGVAiR5Q) | 2:58 |
-| 49 | [L'odyssée du réel](https://open.spotify.com/track/6T8JxxGowkAfXH6YfwL2II) | [La Ruda Salska](https://open.spotify.com/artist/5wLQgAe9uO150K07T2MYvl) | [Passager du réel](https://open.spotify.com/album/2CtHL2zu55v3Xu1K1PUCvZ) | 4:55 |
-| 50 | [Ginette](https://open.spotify.com/track/5jGN1aPoIYI8r2y9H2p9nf) | [Têtes Raides](https://open.spotify.com/artist/2omAWwH1ZV9JYIyfMUQSgG) | [Corps de mots](https://open.spotify.com/album/0CxKfId0AGilFv1dpj8VyY) | 3:40 |
+| 49 | [Ginette](https://open.spotify.com/track/5jGN1aPoIYI8r2y9H2p9nf) | [Têtes Raides](https://open.spotify.com/artist/2omAWwH1ZV9JYIyfMUQSgG) | [Corps de mots](https://open.spotify.com/album/0CxKfId0AGilFv1dpj8VyY) | 3:40 |
+| 50 | [L'odyssée du réel](https://open.spotify.com/track/6T8JxxGowkAfXH6YfwL2II) | [La Ruda Salska](https://open.spotify.com/artist/5wLQgAe9uO150K07T2MYvl) | [Passager du réel](https://open.spotify.com/album/2CtHL2zu55v3Xu1K1PUCvZ) | 4:55 |
 
-Snapshot ID: `MCxjOGUzMTYxOGZkN2E3ZmZhYzllMjc0M2Y5ZmIxODZhMmEzZThjMDlk`
+Snapshot ID: `MCwyZDBkYmU5ZjY4NWM3MmNjODZkMWE5YmQ0OTM2ZjU1NmZhMzYzN2Vh`

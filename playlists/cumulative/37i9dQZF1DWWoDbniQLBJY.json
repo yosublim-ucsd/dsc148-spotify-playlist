@@ -2077,6 +2077,28 @@
     },
     {
       "album": {
+        "name": "Antes de Dormir EP (feat. Betsayda Machado)",
+        "url": "https://open.spotify.com/album/45RGMyNXyrwo3dB9fe9ZKY"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        },
+        {
+          "name": "Alvaro Paiva-Bimbo",
+          "url": "https://open.spotify.com/artist/6xDnFHAdyxSODNZWkS5jYC"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188948,
+      "name": "No se me Olvid\u00f3 - Ac\u00fastica (feat. Alvaro Paiva-Bimbo)",
+      "url": "https://open.spotify.com/track/0s9MgbxqFjOrGQSXWdTCeD"
+    },
+    {
+      "album": {
         "name": "No Valgo Pa' Ciudad",
         "url": "https://open.spotify.com/album/6inO88KEzGOsZxOYAvRsr2"
       },
@@ -3426,7 +3448,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 136595,
       "name": "Velero",
       "url": "https://open.spotify.com/track/4mQ4EM1rxdOo7Cc9g5dXK2"

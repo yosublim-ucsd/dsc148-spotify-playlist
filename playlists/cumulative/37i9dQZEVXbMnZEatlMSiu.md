@@ -4,14 +4,14 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-766 songs - 1 day 21 hr 52 min
+767 songs - 1 day 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 | 2023-10-28 | 2023-11-10 |
 | [0321](https://open.spotify.com/track/1pbb71pOKB5iqfkju4NmPj) | [space x](https://open.spotify.com/artist/5MfPm7ai5Y5vRePZ4MC9XL) | [0321](https://open.spotify.com/album/1BoE1TWkVoegvrUClT0YcB) | 3:14 | 2021-10-21 | 2023-07-23 |
 | [10,000 HOURS \- 國際中文版](https://open.spotify.com/track/5bTdT9cJXEVs6w7pOSx59B) | [Jung Yong Hwa](https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q) | [10,000 HOURS \(國際中文版\)](https://open.spotify.com/album/36MfdKK7q5qO4jjUD2KkOQ) | 2:46 | 2021-05-28 | 2021-05-29 |
-| [11](https://open.spotify.com/track/4TJ4AEPBhqj9xYykVBU4GL) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [11](https://open.spotify.com/album/0xlWjniRpsQDTfF9mCNGWS) | 3:48 | 2023-11-09 |  |
+| [11](https://open.spotify.com/track/4TJ4AEPBhqj9xYykVBU4GL) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [11](https://open.spotify.com/album/0xlWjniRpsQDTfF9mCNGWS) | 3:48 | 2023-11-09 | 2023-11-23 |
 | [24/7, 365](https://open.spotify.com/track/05QUYSOApWLr8oBbpONl7p) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [24/7, 365](https://open.spotify.com/album/4GIH14Ii08p24CHN7MlooG) | 2:47 | 2023-10-03 |  |
 | [3am \- Demo Ver.](https://open.spotify.com/track/70R10GZEIyNaOsltKW5kli) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [3am \(Demo Ver.\)](https://open.spotify.com/album/4RAme39y8E1VMWkuFYrnqM) | 2:36 | 2023-11-08 |  |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:21 | 2023-10-03 |  |
@@ -761,6 +761,7 @@
 | [雛形](https://open.spotify.com/track/3mrkmWt803vSvGxTlW27YI) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [雛形](https://open.spotify.com/album/6sP1HwzA0iqkGjoroBgog4) | 3:59 | 2021-09-12 | 2021-10-02 |
 | [離別總是那麼突然](https://open.spotify.com/track/3GA0mzpusqiNCeUZuPDqjg) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [離別總是那麼突然](https://open.spotify.com/album/5cUVq2mIwcOGEWZTDLNlZj) | 4:02 | 2023-03-25 | 2023-04-11 |
 | [離開你以後 \- 電影《你的婚禮》插曲](https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [離開你以後 \(電影《你的婚禮》插曲\)](https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk) | 5:09 | 2021-05-30 | 2022-01-08 |
+| [離開的一路上](https://open.spotify.com/track/1NoDTQhJsrd5rnpb6PQthK) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [半熟理想](https://open.spotify.com/album/1qE3IWG3xPJZdLkAXB1rAs) | 4:14 | 2023-11-22 |  |
 | [雨不停。流 \- 電視劇《無神之地不下雨》片尾曲](https://open.spotify.com/track/6vS1IucniRN5dlIV9Zf3Ur) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [雨不停。流 \(電視劇《無神之地不下雨》片尾曲\)](https://open.spotify.com/album/07RSNZskdcUd9hES3kDGgU) | 4:25 | 2021-11-04 | 2021-11-21 |
 | [雪 Distance](https://open.spotify.com/track/0EpH84Gd5z9xDavnWowfaC) | [Capper](https://open.spotify.com/artist/0NWX8s7X9gtjad7sIB0uba), [罗言](https://open.spotify.com/artist/34j9L1hyeq9JDSwUTgBhoE) | [Uniconfication](https://open.spotify.com/album/7xlWrNZ5NHxhQz9hHFqgbv) | 2:45 | 2023-03-29 | 2023-09-07 |
 | [零距離](https://open.spotify.com/track/6h1RP9yK4p8xAw1Mdjyj4I) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [零距離](https://open.spotify.com/album/3OTDp64MLrt8TKvHxKkYzf) | 3:52 | 2021-09-25 | 2021-09-26 |

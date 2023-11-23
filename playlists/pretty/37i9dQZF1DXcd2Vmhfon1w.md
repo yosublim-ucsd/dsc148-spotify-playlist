@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Prok
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,980 likes - 40 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,492 likes - 40 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 4 | [Te Diría](https://open.spotify.com/track/2nPt4HyshAzcCkH1GUjE7R) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw) | [Te Diría](https://open.spotify.com/album/3sO3011CRF4Hpn4wnRZHb1) | 3:05 |
 | 5 | [Barquito de Vela](https://open.spotify.com/track/09p2nomOAPyylPjRg1gzH0) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc) | [Barquito de Vela](https://open.spotify.com/album/75S6U8Hx9BIbXRASlEWPQT) | 3:40 |
 | 6 | [Hasta Cuando](https://open.spotify.com/track/2py8CbfQ8NvoXK4hIGhEHP) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Hasta Cuando](https://open.spotify.com/album/3g8qnjrSaAVo1KeY8QVJxt) | 3:19 |
-| 7 | [EL CIELO](https://open.spotify.com/track/24I9WTdrlkbfz6XCqLbmCr) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Kaze](https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q) | [El CIELO](https://open.spotify.com/album/14CzUMaIzjfXKGwsCBSStK) | 4:25 |
+| 7 | [EL CIELO](https://open.spotify.com/track/463VPNMkJAbRUFYlEf8NMJ) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Kaze](https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q) | [LACOSTA](https://open.spotify.com/album/4WxcXC1fsy3SGx2BPpgmwc) | 4:25 |
 | 8 | [Me Lo Pienso](https://open.spotify.com/track/7wI8VR7eA11W2Jpq8D4Olw) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw) | [Me Lo Pienso](https://open.spotify.com/album/7wxQQrU7i44rtSah6GHnj6) | 2:54 |
 | 9 | [Veneno](https://open.spotify.com/track/5BopknbHSxEm9Ohcs4IbGu) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz), [J.Moods](https://open.spotify.com/artist/7q3hzOFspDedtkyBi1Azc8) | [La Tour Liffee](https://open.spotify.com/album/7ppEt8YdvnAWeNTKNPR4ca) | 4:18 |
 | 10 | [Brigantes](https://open.spotify.com/track/1wqQks7huD10fXqgXd3qGR) | [Prok](https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Brigantes](https://open.spotify.com/album/6sVXofzsxugo2kWlJ45Kmh) | 3:24 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 14 | [Explícito](https://open.spotify.com/track/0g99Wc6vw9Wnzhb1ORyPub) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [Simarro Prods](https://open.spotify.com/artist/3Dw9l7rIlfvWzcuYErEuE1) | [Explícito](https://open.spotify.com/album/0nQUEirtrGnhrokGqQRKdy) | 2:34 |
 | 15 | [Volver](https://open.spotify.com/track/6rwYZI7sVX2fIdTmc27flL) | [Miranda](https://open.spotify.com/artist/0DjGDEVSQsodFbL1bMVPRs), [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Volver](https://open.spotify.com/album/2j6YJ0BZPF1FISLalfgPGv) | 3:30 |
 | 16 | [Kurosawa](https://open.spotify.com/track/65WhbNdDsoCwVEa8hv2WQB) | [Prok](https://open.spotify.com/artist/690kydOVFha4Ri8kieEQ31), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Kurosawa](https://open.spotify.com/album/6NO60vTg71nt4e397VOlz3) | 4:18 |
-| 17 | [MAMITA](https://open.spotify.com/track/6ug0Fl5Hqq3vTzb161NZri) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [MAMITA](https://open.spotify.com/album/0cgEM3YLRPuYOd3MIMSoX9) | 3:03 |
+| 17 | [MAMITA](https://open.spotify.com/track/0k7K5AQ6mn6JeRDFmYlhZQ) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [LACOSTA](https://open.spotify.com/album/4WxcXC1fsy3SGx2BPpgmwc) | 3:03 |
 | 18 | [Madame Bovary](https://open.spotify.com/track/6Pu1EJORDSkTgVhZXx9V8U) | [Ayax](https://open.spotify.com/artist/1lVofHO8O8nEygHTwJ2tnU), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Madame Bovary](https://open.spotify.com/album/0SxFte5a7xpVWJtKFfW3cs) | 2:25 |
 | 19 | [Welcome](https://open.spotify.com/track/37KLoLkhcJMe7Odsstah0V) | [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD) | [Patato](https://open.spotify.com/album/4gJBXdGhYA1piaLYhYpZR9) | 2:24 |
 | 20 | [Quiero volar](https://open.spotify.com/track/0TlVTrOwRNH8YGvBDHqPCo) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY) | [Luna llena](https://open.spotify.com/album/7wgNRpq6MqrRHGRKUaUZTu) | 3:36 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 39 | [Cicatrices](https://open.spotify.com/track/2zQvtkghOHiBG48Bj0oFR9) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Cicatrices](https://open.spotify.com/album/3DtogKlZPCChofGSlc7DUu) | 2:56 |
 | 40 | [Pa que lo gocen \(feat\. Dollar Selmouni & Blasfem\)](https://open.spotify.com/track/0TcHENybtIPcEPfr4bSPpA) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ), [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb) | [Yipiyou](https://open.spotify.com/album/0QlYj53TIFDRDq6E7GrRXH) | 3:40 |
 
-Snapshot ID: `MCw4NzA2NzEyZTAxYTJkNGFiYzFlYjZjZjA1OTE1MjgyMTAyZTAyY2E2`
+Snapshot ID: `MCxjMGQ1MmYyYTliYzRiMGQwMGIxYjBhZDFjNDA2YTA1NWI4NDE4ZGFl`

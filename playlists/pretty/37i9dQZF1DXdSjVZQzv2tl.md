@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Guilherme & Benuto, Simone Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,625,598 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,638,372 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Basiquinho \- Ao Vivo](https://open.spotify.com/track/2HMbGPbGiqGaHXzFkQAmZI) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Basiquinho \(Ao Vivo\)](https://open.spotify.com/album/66K770CKTCoFFTRTiZGEwJ) | 2:44 |
 | 50 | [Beijo de Glicose \- Ao Vivo](https://open.spotify.com/track/6gyhp7IcNhTYzwlk8utsgP) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Beijo de Glicose \(Ao Vivo\)](https://open.spotify.com/album/6Y3F7RFN8cOh7ewKiyn2rC) | 2:51 |
 
-Snapshot ID: `MCw1ZjAyNGZiZGYxY2JhMTFlMjdiNWEzMGQ4ZDgwOGM2YmRhYzQ3M2Vj`
+Snapshot ID: `MCwyYzEzOGY2NGJiMzcyY2FjYmE0OWMwNjIwYzY1NjlhNGE0MjFkZGNh`

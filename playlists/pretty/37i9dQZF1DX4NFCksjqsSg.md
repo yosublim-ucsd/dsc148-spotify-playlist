@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 
 > Pas mal "tes tounes de karaoké préférées".
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,889 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,897 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 3 | [Je l'aime à mourir \- Remastered](https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Les chemins de traverse \(Remastered\)](https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x) | 2:43 |
 | 4 | [Sous le vent](https://open.spotify.com/track/6VZB0ttlqGjpGMAcaomXh9) | [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Seul](https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP) | 3:31 |
 | 5 | [Joe le taxi](https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [M & J](https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc) | 3:55 |
-| 6 | [Place des grands hommes](https://open.spotify.com/track/20RHWjtCLr7ODGQEItdZXg) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Alors regarde](https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt) | 4:28 |
-| 7 | [Une belle histoire](https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais comme l'oiseau](https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP) | 3:15 |
+| 6 | [Une belle histoire](https://open.spotify.com/track/5oxKrYimzs8AZp8lkoar6V) | [Michel Fugain & Le Big Bazar](https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY) | [Fais comme l'oiseau](https://open.spotify.com/album/3F2NC1OGndItyXyR6uJevP) | 3:15 |
+| 7 | [Place des grands hommes](https://open.spotify.com/track/20RHWjtCLr7ODGQEItdZXg) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Alors regarde](https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt) | 4:28 |
 | 8 | [La maladie d'amour](https://open.spotify.com/track/2flivK5ivlprHRE7YNcRrj) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [La Maladie D'Amour](https://open.spotify.com/album/4Np1TTVFW72n9RjrJaQWqf) | 3:30 |
 | 9 | [D'amour ou d'amitié](https://open.spotify.com/track/7o4JMsKg9Et6s0qb6jWmof) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 3:58 |
 | 10 | [Amoureuse \- Remasterisé en 2008](https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Amoureuse \(Edition Deluxe\)](https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG) | 3:41 |
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 20 | [Je n'ai que mon âme](https://open.spotify.com/track/1VOjHLyRyIqSnIrT4H1jcd) | [Natasha St\-Pier](https://open.spotify.com/artist/1miK7RIscxXIgQgHQ0G7ch) | [A Chacun Son Histoire](https://open.spotify.com/album/38CgBQufkUucyi195crt9D) | 2:50 |
 | 21 | [Donne\-moi ma chance](https://open.spotify.com/track/1ppfN5g0xqRlvNsy5n5Ib1) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [Snob](https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy) | 4:13 |
 | 22 | [C'est zéro](https://open.spotify.com/track/36eHvuluPjSm7HNRLqng7R) | [Julie Masse](https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC) | [Julie Masse](https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE) | 4:02 |
-| 23 | [La bartendresse](https://open.spotify.com/track/6gIGvgL9rcRhldbaVFTaaW) | [Éric Lapointe](https://open.spotify.com/artist/3fzExoQtGmGs8w7ba2nTJc) | [Lapointe 1994\-2006 N'importe qui](https://open.spotify.com/album/4EOQXoXxZI0XYTB1in1Ivk) | 4:06 |
+| 23 | [Faire la paix avec l'amour](https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b) | [Dany Bédar](https://open.spotify.com/artist/6EAWDYcvaCSV43LMeRELDm) | [Fruit de ma récente nuit blanche](https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5) | 3:45 |
 | 24 | [Les yeux du coeur](https://open.spotify.com/track/2T9wXXxMx8IKfGdK2FrHPa) | [Gerry Boulet](https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv), [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Rendez\-vous doux](https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu) | 4:16 |
-| 25 | [Faire la paix avec l'amour](https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b) | [Dany Bédar](https://open.spotify.com/artist/6EAWDYcvaCSV43LMeRELDm) | [Fruit de ma récente nuit blanche](https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5) | 3:45 |
+| 25 | [La bartendresse](https://open.spotify.com/track/6gIGvgL9rcRhldbaVFTaaW) | [Éric Lapointe](https://open.spotify.com/artist/3fzExoQtGmGs8w7ba2nTJc) | [Lapointe 1994\-2006 N'importe qui](https://open.spotify.com/album/4EOQXoXxZI0XYTB1in1Ivk) | 4:06 |
 | 26 | [Aime moi](https://open.spotify.com/track/2EUITdSOgkQvddobT5veE6) | [Claude Barzotti](https://open.spotify.com/artist/3rXJOlQbim2cC6I7wxAlrb) | [Aime\-moi](https://open.spotify.com/album/3x5aI6oO3eoUSVzi9XsjMT) | 4:10 |
 | 27 | [Chats sauvages](https://open.spotify.com/track/0clO0QOJszhztY2jKzT1k3) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Celle qui va](https://open.spotify.com/album/5A8miUxbmrkHnXpbCkWKr2) | 4:28 |
 | 28 | [Parlez\-moi de lui](https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW) | [Nicole Croisille](https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV) | [Parlez\-moi de lui \- Single](https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq) | 3:20 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 37 | [Une femme avec toi](https://open.spotify.com/track/3LIghH0HLWzawM5n5Vu8Cc) | [Nicole Croisille](https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV) | [Une femme avec toi \- Single](https://open.spotify.com/album/76bKZd3b4fuLRTY446i1lc) | 4:23 |
 | 38 | [L'amour est dans tes yeux](https://open.spotify.com/track/3UBrZaRETY6l2xfCsik4NL) | [Martine St Clair](https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq) | [Ce soir l'amour est dans tes yeux](https://open.spotify.com/album/7HZfX5GAbCjWiJf1L1AJjQ) | 6:33 |
 | 39 | [Je l'ai jamais dit à personne](https://open.spotify.com/track/7cxWHyonvdK6l64sEeSpnM) | [Étienne Drapeau](https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5) | [Je l'ai jamais dit à personne](https://open.spotify.com/album/1OTwwEKQGXrw0lsHiuy5ni) | 3:22 |
-| 40 | [Seul au combat](https://open.spotify.com/track/28DBhTwgt6Gnu2g4K0Sn83) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [Snob](https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy) | 5:28 |
-| 41 | [À toi](https://open.spotify.com/track/6jiUhLBjMV8ve9eORFDsi6) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 2:49 |
+| 40 | [À toi](https://open.spotify.com/track/6jiUhLBjMV8ve9eORFDsi6) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 2:49 |
+| 41 | [Seul au combat](https://open.spotify.com/track/28DBhTwgt6Gnu2g4K0Sn83) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [Snob](https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy) | 5:28 |
 | 42 | [Que je t'aime](https://open.spotify.com/track/0ui0AsKMbOntbzq6j2SN9a) | [Sylvain Cossette](https://open.spotify.com/artist/660PvqDaksGwQPFLbAy7pb) | [Mes succès francophones 1](https://open.spotify.com/album/3UvMunvcUi84AkywMx0htO) | 3:57 |
 | 43 | [Je voudrais voir la mer](https://open.spotify.com/track/49PbjFOCzUYDUbjUJxin8V) | [Michel Rivard](https://open.spotify.com/artist/6CVur2iw4ExLNmsSGiATZN) | [Un trou dans les nuages](https://open.spotify.com/album/1wLEC5NI6C2Cq4Ap4TpDKN) | 5:19 |
 | 44 | [Qui a le droit..\. \- Live "Si ce soir"](https://open.spotify.com/track/6uORP6hjzTP6GzzkZJgtok) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Si ce soir, Vol\. 2](https://open.spotify.com/album/7tRP3KQ3PpfmNqByG0C1K7) | 4:33 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 50 | [Quelqu'un M'a Dit](https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Learn French Thru Music](https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA) | 2:43 |
 | 51 | [Changer](https://open.spotify.com/track/59DiAbELxjxnY5fcgQRTI9) | [Jean\-François Breau](https://open.spotify.com/artist/6TQdhArWgJCZTAHu9V2gdu), [Marie\-Ève Janvier](https://open.spotify.com/artist/0FeqojwZ2cxZ5ME0n9XAwK) | [Don Juan \(Les plus grands succès du spectacle musical de Félix Gray\)](https://open.spotify.com/album/6zCqUEDoZRN92o7vtddpV5) | 4:06 |
 | 52 | [Corridor](https://open.spotify.com/track/6F3rXgxgLE7UAq0o34YpVn) | [Laurence Jalbert](https://open.spotify.com/artist/1oFTFxi0QwrD1xr3sg5S3l) | [Corridors](https://open.spotify.com/album/1DxFlq6oCVCZxUuvusxlkV) | 3:58 |
-| 53 | [Vivre Avec Celui Qu'on Aime](https://open.spotify.com/track/3QeHjFpa62YmVG4rCVhQ1g) | [Francine Raymond](https://open.spotify.com/artist/4XhSu04KR47kzRHF6esYas) | [Francine Raymond](https://open.spotify.com/album/7yduHV2iKYQgiQHPb9ECkL) | 3:43 |
-| 54 | [Si j'étais un homme](https://open.spotify.com/track/3fX8Q1XVOKfkD5TpRSWGnF) | [Diane Tell](https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h) | [Autour de Montréal \(Compilation 1978\-1982\)](https://open.spotify.com/album/5J2cTiDe35i6XR3hXtMvNU) | 4:47 |
+| 53 | [Si j'étais un homme](https://open.spotify.com/track/3fX8Q1XVOKfkD5TpRSWGnF) | [Diane Tell](https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h) | [Autour de Montréal \(Compilation 1978\-1982\)](https://open.spotify.com/album/5J2cTiDe35i6XR3hXtMvNU) | 4:47 |
+| 54 | [Vivre Avec Celui Qu'on Aime](https://open.spotify.com/track/3QeHjFpa62YmVG4rCVhQ1g) | [Francine Raymond](https://open.spotify.com/artist/4XhSu04KR47kzRHF6esYas) | [Francine Raymond](https://open.spotify.com/album/7yduHV2iKYQgiQHPb9ECkL) | 3:43 |
 | 55 | [Flagrant délit](https://open.spotify.com/track/0t0zkVay0Nbt9qynMK7C4a) | [Herbert Léonard](https://open.spotify.com/artist/2VsTgQUocqoaXjLG5YerlB) | [Best of Herbert Léonard](https://open.spotify.com/album/6ZudFHSwgkQxsmCDwjHSRX) | 4:32 |
 | 56 | [Echappé belle \- 2008 Digital Remaster](https://open.spotify.com/track/4SUoJetaqEiKRyiEh2HQG5) | [Beau Dommage](https://open.spotify.com/artist/2cdnxq3gRcJudFLmWhDTQp) | [35th Anniversary Collection](https://open.spotify.com/album/2YViwEGMIRU0HonwnkgTEE) | 4:23 |
 | 57 | [Je sais je sais](https://open.spotify.com/track/13ZsSDfT1P3zmDEkq1eBrZ) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Tant qu'il y aura des enfants](https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur) | 4:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 74 | [Le ciel est à moi](https://open.spotify.com/track/7rei6qkJoTI00AaYWB7a0k) | [Marie\-Élaine Thibert](https://open.spotify.com/artist/4dCRlMJfHuq6GTTVNyxjNH) | [Marie\-Élaine Thibert](https://open.spotify.com/album/7u5RRckpk4riXBpIiIwCFs) | 4:35 |
 | 75 | [Tu t'en vas](https://open.spotify.com/track/5SVzFoP3aaTXEW4NkhvWbc) | [Aucun Regret](https://open.spotify.com/artist/2YrEQN4rjMODioEZQrfvMM) | [Mixmania](https://open.spotify.com/album/5A7aFa2NYD5V6l0wzY7fpl) | 3:26 |
 
-Snapshot ID: `MCw2NGFmZTY3MGRmNjdiZmU0NWM2ODc0YTVlNDU4YmQwNjkzMWUyNTdk`
+Snapshot ID: `MCxlODYwYTAzY2MwNjJkMTNhOTcyZjU4N2FhMDA0YmYwY2NjNWY5MGY5`

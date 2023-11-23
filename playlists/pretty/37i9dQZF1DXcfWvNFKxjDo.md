@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Macon
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,603 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,938 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Atlantis](https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Atlantis](https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr) | 2:16 |
 | 2 | [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 |
-| 3 | [Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/1R0KvMBXz6qzjAEIS57Sz8) | 3:24 |
+| 3 | [Cover Up My Face](https://open.spotify.com/track/0t4N3qUMwdnDZNumcVxPRu) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/4vj7dl0foafvI0OOVmB4s2) | 3:24 |
 | 4 | [Fugazi \(Robin Schulz Presents KOPPY\)](https://open.spotify.com/track/1As70eMQbPuG2cABqKZvq2) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [Fugazi \(Robin Schulz Presents KOPPY\)](https://open.spotify.com/album/07g9RO7MnP7rV6K0vXBoTc) | 2:31 |
 | 5 | [Karma](https://open.spotify.com/track/3mzvXUlRgBnk24rhTOmcq8) | [Emdey](https://open.spotify.com/artist/74p1xp9ykLc2z0r5Nl3W7J), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Karma](https://open.spotify.com/album/18ePcY0UTWfLiGQa0hb06B) | 2:44 |
 | 6 | [Ready For It All](https://open.spotify.com/track/0oIlZ9KBMQnhHOw9uFAJm8) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [Amanda Wilson](https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1) | [Ready For It All](https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8) | 2:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 74 | [Diamond Coochie](https://open.spotify.com/track/5ZR2sczAINzRY7jCpNwOtv) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c), [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [Diamond Coochie](https://open.spotify.com/album/6oWQg2sqGiEDddhzbWV2dP) | 2:53 |
 | 75 | [Lover](https://open.spotify.com/track/6vUgDCza1EXX8vJgwAH0yy) | [Martin van Lectro](https://open.spotify.com/artist/0goAkRbqjvGdCHsTN0ToOL), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Lover](https://open.spotify.com/album/6B1xFOFr8UbCIkkon6j88A) | 2:01 |
 
-Snapshot ID: `MCw4MDQ3ZTY0ZmY3OGE4M2E5Nzg3OWExNmY5ZWVmY2I0MDM2MTdjYzA5`
+Snapshot ID: `MCxiZDQ2MmI1YWM5ZWEzYWJkMTE4ZmQ2YTgyNGJlNjczNTY5MjQyZWJl`

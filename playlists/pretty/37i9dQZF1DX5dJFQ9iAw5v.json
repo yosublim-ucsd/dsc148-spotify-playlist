@@ -1,12 +1,12 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 31542,
+  "num_followers": 31543,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDQyMGNjMTI2Njc1ZjY5ZDFmNWJlNzU4MDJhMjU1ODYyMGVlZTY5",
+  "snapshot_id": "MCxmN2M1OGRlY2FkYWNmMDNkMzk5MzkzZTZkOTUxYjFiNTllYTExMDk1",
   "tracks": [
     {
       "added_at": "2023-10-26 20:37:32",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
-        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
-      },
-      "artists": [
-        {
-          "name": "Ramiro Flores",
-          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
-        }
-      ],
-      "duration_ms": 114760,
-      "name": "Entrada al Jardi\u0301n de Ordo\u0301n\u0303ez",
-      "url": "https://open.spotify.com/track/41DLK2Kl0UCoP9YvRohQ74"
-    },
-    {
-      "added_at": "2023-10-26 20:37:32",
-      "album": {
         "name": "Encuentro",
         "url": "https://open.spotify.com/album/0b4HCbP13kNcvrPT4Wokxz"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 197196,
       "name": "Encuentro",
       "url": "https://open.spotify.com/track/5IDm7K9atPMJRl51HiCbsE"
+    },
+    {
+      "added_at": "2023-10-26 20:37:32",
+      "album": {
+        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
+        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
+      },
+      "artists": [
+        {
+          "name": "Ramiro Flores",
+          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
+        }
+      ],
+      "duration_ms": 114760,
+      "name": "Entrada al Jardi\u0301n de Ordo\u0301n\u0303ez",
+      "url": "https://open.spotify.com/track/41DLK2Kl0UCoP9YvRohQ74"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "Jazz Bazar II (feat. Pat\u00e1n Vidal)",
-        "url": "https://open.spotify.com/album/7zFU0yE4XcMWXWSA2kqGLv"
-      },
-      "artists": [
-        {
-          "name": "Valentino Jazz Bazar",
-          "url": "https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/4G9yziRWIvfbrHDAScv4jj"
-    },
-    {
-      "added_at": "2023-10-26 20:37:32",
-      "album": {
         "name": "Acto 2",
         "url": "https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 353220,
       "name": "Mi Elemento",
       "url": "https://open.spotify.com/track/6kdT5qRuBmiQDhegDgvkrU"
+    },
+    {
+      "added_at": "2023-10-26 20:37:32",
+      "album": {
+        "name": "Jazz Bazar II (feat. Pat\u00e1n Vidal)",
+        "url": "https://open.spotify.com/album/7zFU0yE4XcMWXWSA2kqGLv"
+      },
+      "artists": [
+        {
+          "name": "Valentino Jazz Bazar",
+          "url": "https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/4G9yziRWIvfbrHDAScv4jj"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
+        "name": "En Las Afueras",
+        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
       },
       "artists": [
         {
-          "name": "Ligia Piro",
-          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
+          "name": "Pat Nu\u00f1o",
+          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
         }
       ],
-      "duration_ms": 140213,
-      "name": "I'm Beginning to See the Light",
-      "url": "https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC"
+      "duration_ms": 230133,
+      "name": "Caminando Con Aud\u00edfonos",
+      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -595,6 +595,22 @@
       "duration_ms": 345370,
       "name": "El Regreso (feat. Martin Bejerano)",
       "url": "https://open.spotify.com/track/35YdBVFv2Oij9ve8P6FP5F"
+    },
+    {
+      "added_at": "2023-10-26 20:37:32",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
+      },
+      "artists": [
+        {
+          "name": "Ligia Piro",
+          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
+        }
+      ],
+      "duration_ms": 140213,
+      "name": "I'm Beginning to See the Light",
+      "url": "https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -787,22 +803,6 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "En Las Afueras",
-        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
-      },
-      "artists": [
-        {
-          "name": "Pat Nu\u00f1o",
-          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Caminando Con Aud\u00edfonos",
-      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
-    },
-    {
-      "added_at": "2023-10-26 20:37:32",
-      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
       },
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "Nude (En Vivo)",
-        "url": "https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Est\u00e9vez",
-          "url": "https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq"
-        }
-      ],
-      "duration_ms": 305108,
-      "name": "Learning the Blues - En Vivo",
-      "url": "https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf"
-    },
-    {
-      "added_at": "2023-10-26 20:37:32",
-      "album": {
         "name": "No Fear",
         "url": "https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 436414,
       "name": "Kua Nalu",
       "url": "https://open.spotify.com/track/2UMpvaP5UQzYqQ07pJTon6"
+    },
+    {
+      "added_at": "2023-10-26 20:37:32",
+      "album": {
+        "name": "Nude (En Vivo)",
+        "url": "https://open.spotify.com/album/6EgEoC0cgQtzv6v7RC24cH"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Est\u00e9vez",
+          "url": "https://open.spotify.com/artist/3kpzLtvkHcjmix7BO6GZcq"
+        }
+      ],
+      "duration_ms": 305108,
+      "name": "Learning the Blues - En Vivo",
+      "url": "https://open.spotify.com/track/4r4IhvaFjRHSX7C2B671Jf"
     },
     {
       "added_at": "2023-10-26 20:37:32",
@@ -1343,30 +1343,22 @@
     {
       "added_at": "2023-10-26 20:37:32",
       "album": {
-        "name": "Tr\u00edas",
-        "url": "https://open.spotify.com/album/3r9kmsMm2FztYolno45BT2"
+        "name": "Algo Bueno - Something Good",
+        "url": "https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5"
       },
       "artists": [
         {
-          "name": "Juan Cruz De Urquiza",
-          "url": "https://open.spotify.com/artist/0nRwYzrk9wrf5ZIsvPuxwl"
+          "name": "Marta Bellomo",
+          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
         },
         {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        },
-        {
-          "name": "Carlos Alvarez",
-          "url": "https://open.spotify.com/artist/3n4bsQdUztlsnOwCfEYsSI"
-        },
-        {
-          "name": "Carto Brand\u00e1n",
-          "url": "https://open.spotify.com/artist/6V37ntXjzq4ozdp0SYKsmB"
+          "name": "Alejandro Moro",
+          "url": "https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8"
         }
       ],
-      "duration_ms": 640853,
-      "name": "Trias",
-      "url": "https://open.spotify.com/track/7sTSysRFQYhAW6SqmCUaaw"
+      "duration_ms": 572278,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N"
     }
   ],
   "unique_name": "Jazz Argentino",

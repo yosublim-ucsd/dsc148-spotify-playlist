@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,119,108 likes - 198 songs - 11 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,118,855 likes - 198 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 67 | [Rats](https://open.spotify.com/track/5hciyPCQi7gLbzAKtArJaa) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3qjUxwtbMHsiO0U20ezOjR) | 4:35 |
 | 68 | [It's Just Ice](https://open.spotify.com/track/1gk1v5MUHmsiLUs9zhfcyI) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3qjUxwtbMHsiO0U20ezOjR) | 4:00 |
 | 69 | [Baba O'Riley \- ConfidentialMX Remix](https://open.spotify.com/track/5iq0Tela3gm73ZW72XZ5dm) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Stranger Things: Soundtrack from the Netflix Original Series, Season 3](https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP) | 2:33 |
-| 70 | [You Don't Mess Around with Jim \(Live\)](https://open.spotify.com/track/3U3DLE0Fwz0oPHR53tYHHt) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Live: The Final Tour](https://open.spotify.com/album/2WYSfBrOUTHXHYMWZyLt04) | 3:11 |
+| 70 | [You Don't Mess Around with Jim](https://open.spotify.com/track/6ZBeRXjadHvBk9VYSnoO0R) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9) | 3:02 |
 | 71 | [Get Up And Go](https://open.spotify.com/track/5u165RYdVYhMtPc8ukhaoY) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Greatest](https://open.spotify.com/album/6qDHT0nQqu8GhK2jFa5LNp) | 3:16 |
 | 72 | [Shiver Me Timbers](https://open.spotify.com/track/5kdKeBozyX8PRvhAUaUrWV) | [Paddy Kingsland](https://open.spotify.com/artist/16esHTYwUm6JWRj2Qijsq6) | [In Character](https://open.spotify.com/album/1bKQrqQnMFyO4ybU3i1t2U) | 0:59 |
 | 73 | [All Hands Forward](https://open.spotify.com/track/26372a3uGIJN6F8A5mupfs) | [Gerald Crossman](https://open.spotify.com/artist/1VPmRAzP5pQtV15VQ3BPHc) | [Well Known Tunes of England, Ireland, America & More](https://open.spotify.com/album/6QQu6K3MCLDPk8iqPO95ly) | 1:32 |
@@ -207,4 +207,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 197 | [Ghostbusters](https://open.spotify.com/track/300zfRaCgTmEm5Eqe3HqZZ) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Arista Heritage Series: Ray Parker](https://open.spotify.com/album/1Fq1oCtmlSQabl1zIdoWCg) | 4:00 |
 | 198 | [Eight Fifteen](https://open.spotify.com/track/7bocrcIvqXs0tBFM5VI6Rf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 1:25 |
 
-Snapshot ID: `MCwwNTBlZTNhZTFiNTRiYjc3MWZjMzM2YzIwMzI4MjJiMjNjNzRjM2U4`
+Snapshot ID: `MCw1Nzc4MTIzYWQ4NjgzM2UyNGU5ZTNhNWQ0NGNjZDA2NjBmMzkxNWI0`

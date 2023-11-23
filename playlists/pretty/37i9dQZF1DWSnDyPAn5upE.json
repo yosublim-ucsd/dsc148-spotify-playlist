@@ -1,12 +1,12 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 47824,
+  "num_followers": 47869,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDBkNDc3MGMxNmFkN2RmZThmYzE1ZjQ1MDQ5N2Y5YWY4N2M1OWUw",
+  "snapshot_id": "MCxjZWJiMDE1ZTNlYTc1Yzc5NTIwODFhNjkwNmQwZGVhNDhlM2VhMmMz",
   "tracks": [
     {
       "added_at": "2023-10-12 18:05:50",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "\u30ed\u30b9\u30c8\u30a8\u30c7\u30f3\u3078\u306e\u30d1\u30b9",
+        "url": "https://open.spotify.com/album/6IjPpVn9OlOmcfs9en8XRA"
+      },
+      "artists": [
+        {
+          "name": "Nmesh",
+          "url": "https://open.spotify.com/artist/5XbtWFLdL2sXDUo3oqzn9b"
+        }
+      ],
+      "duration_ms": 114436,
+      "name": "\u5fc3\u75db\u3092\u53d7\u3051\u5165\u308c\u307e\u3059",
+      "url": "https://open.spotify.com/track/72XuEUV21PjYcWswFeqyiw"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "Lost At Sea (Kelly Moran remix)",
         "url": "https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 296681,
       "name": "Lost At Sea - Kelly Moran remix",
       "url": "https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "\u30ed\u30b9\u30c8\u30a8\u30c7\u30f3\u3078\u306e\u30d1\u30b9",
-        "url": "https://open.spotify.com/album/6IjPpVn9OlOmcfs9en8XRA"
-      },
-      "artists": [
-        {
-          "name": "Nmesh",
-          "url": "https://open.spotify.com/artist/5XbtWFLdL2sXDUo3oqzn9b"
-        }
-      ],
-      "duration_ms": 114436,
-      "name": "\u5fc3\u75db\u3092\u53d7\u3051\u5165\u308c\u307e\u3059",
-      "url": "https://open.spotify.com/track/72XuEUV21PjYcWswFeqyiw"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Fragmente",
-        "url": "https://open.spotify.com/album/5RHqv8G1C59xAEGVl1z5fK"
-      },
-      "artists": [
-        {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
-        }
-      ],
-      "duration_ms": 145926,
-      "name": "Elegy for Peace",
-      "url": "https://open.spotify.com/track/0OMZyApsIr7O9RIPNizyQV"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
         "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "Fragmente",
+        "url": "https://open.spotify.com/album/5RHqv8G1C59xAEGVl1z5fK"
+      },
+      "artists": [
+        {
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
+        }
+      ],
+      "duration_ms": 145926,
+      "name": "Elegy for Peace",
+      "url": "https://open.spotify.com/track/0OMZyApsIr7O9RIPNizyQV"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "Revival Renaissance Rebirth (Act 1)",
         "url": "https://open.spotify.com/album/6jh3oBLsscOI7bXBXfqSSW"
       },
@@ -599,38 +599,6 @@
       "duration_ms": 304934,
       "name": "999 Renaissance",
       "url": "https://open.spotify.com/track/0EqNLH4s6EJGhcFNJ9ZaP2"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "Anomi",
-        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
-      },
-      "artists": [
-        {
-          "name": "Sonja Tofik",
-          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
-        }
-      ],
-      "duration_ms": 173798,
-      "name": "Graveyard",
-      "url": "https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "Untethering",
-        "url": "https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw"
-      },
-      "artists": [
-        {
-          "name": "Sea Oleena",
-          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
-        }
-      ],
-      "duration_ms": 418349,
-      "name": "Untethering",
-      "url": "https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -651,6 +619,38 @@
       "duration_ms": 160800,
       "name": "I Lost You When the Rain Sang a Song - Original Mix",
       "url": "https://open.spotify.com/track/01CY7mMX7qFPg8t5bHPqB2"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Untethering",
+        "url": "https://open.spotify.com/album/7pQyhMhsJvmpghevCKZnhw"
+      },
+      "artists": [
+        {
+          "name": "Sea Oleena",
+          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
+        }
+      ],
+      "duration_ms": 418349,
+      "name": "Untethering",
+      "url": "https://open.spotify.com/track/2qwUHXTpXXDGuCpjbssBdQ"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Anomi",
+        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
+      },
+      "artists": [
+        {
+          "name": "Sonja Tofik",
+          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
+        }
+      ],
+      "duration_ms": 173798,
+      "name": "Graveyard",
+      "url": "https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Illogical Dance",
-        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 473075,
-      "name": "Illogical Lullaby",
-      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "One Life : four remixes",
         "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 360193,
       "name": "Nana (Like A Star Made For Me) - Julianna Barwick remix",
       "url": "https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Illogical Dance",
+        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 473075,
+      "name": "Illogical Lullaby",
+      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "Cliodynamics",
+        "url": "https://open.spotify.com/album/6K2aexjzxXsEHHl7e6Yeg6"
+      },
+      "artists": [
+        {
+          "name": "Astrid Sonne",
+          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
+        }
+      ],
+      "duration_ms": 238145,
+      "name": "Strong, Calm, Slow",
+      "url": "https://open.spotify.com/track/32AKEpYYeBd6C21XlviUKn"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "There Up, Behind The Moon",
         "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
       },
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Cliodynamics",
-        "url": "https://open.spotify.com/album/6K2aexjzxXsEHHl7e6Yeg6"
+        "name": "Ithaca",
+        "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
       },
       "artists": [
         {
-          "name": "Astrid Sonne",
-          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
+          "name": "Madeleine Cocolas",
+          "url": "https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB"
         }
       ],
-      "duration_ms": 238145,
-      "name": "Strong, Calm, Slow",
-      "url": "https://open.spotify.com/track/32AKEpYYeBd6C21XlviUKn"
+      "duration_ms": 341000,
+      "name": "Across The Ocean, But Not Yet",
+      "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1251,22 +1267,6 @@
       "duration_ms": 284724,
       "name": "Orbits",
       "url": "https://open.spotify.com/track/6ncyCZRN47j2h1Ps537PFe"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "Ithaca",
-        "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Cocolas",
-          "url": "https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB"
-        }
-      ],
-      "duration_ms": 341000,
-      "name": "Across The Ocean, But Not Yet",
-      "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "The Unfolding",
-        "url": "https://open.spotify.com/album/1i4GbF35hBkHQhPPfa1oTU"
-      },
-      "artists": [
-        {
-          "name": "Hannah Peel",
-          "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
-        },
-        {
-          "name": "Paraorchestra",
-          "url": "https://open.spotify.com/artist/0Ax5KSkjmnXxFcGw72EPTm"
-        }
-      ],
-      "duration_ms": 347800,
-      "name": "The Unfolding",
-      "url": "https://open.spotify.com/track/5kbyFnbUce8V5bQRfBp8CB"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Hush Now Baby",
         "url": "https://open.spotify.com/album/7ynWqs3YeWAhkFEhGpaApR"
       },
@@ -1359,6 +1339,26 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "The Unfolding",
+        "url": "https://open.spotify.com/album/1i4GbF35hBkHQhPPfa1oTU"
+      },
+      "artists": [
+        {
+          "name": "Hannah Peel",
+          "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
+        },
+        {
+          "name": "Paraorchestra",
+          "url": "https://open.spotify.com/artist/0Ax5KSkjmnXxFcGw72EPTm"
+        }
+      ],
+      "duration_ms": 347800,
+      "name": "The Unfolding",
+      "url": "https://open.spotify.com/track/5kbyFnbUce8V5bQRfBp8CB"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "Languoria",
         "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
       },
@@ -1375,6 +1375,42 @@
       "duration_ms": 256682,
       "name": "Morning Room I",
       "url": "https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "emerged, vol. II",
+        "url": "https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb"
+      },
+      "artists": [
+        {
+          "name": "badfocus",
+          "url": "https://open.spotify.com/artist/5ec0e3hAOAh9jeqUCvoRAh"
+        },
+        {
+          "name": "Albert \u0160tifter",
+          "url": "https://open.spotify.com/artist/6yynqBHksHTX8RxjCUqnhi"
+        }
+      ],
+      "duration_ms": 143157,
+      "name": "abundance",
+      "url": "https://open.spotify.com/track/68PdypBDiAkvrARPOnT03A"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Our Hands Against the Dusk",
+        "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
+      },
+      "artists": [
+        {
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+        }
+      ],
+      "duration_ms": 487715,
+      "name": "Aurobindo",
+      "url": "https://open.spotify.com/track/1C7RELF3UfbZzyb7eQ2KZg"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1403,26 +1439,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "emerged, vol. II",
-        "url": "https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb"
-      },
-      "artists": [
-        {
-          "name": "badfocus",
-          "url": "https://open.spotify.com/artist/5ec0e3hAOAh9jeqUCvoRAh"
-        },
-        {
-          "name": "Albert \u0160tifter",
-          "url": "https://open.spotify.com/artist/6yynqBHksHTX8RxjCUqnhi"
-        }
-      ],
-      "duration_ms": 143157,
-      "name": "abundance",
-      "url": "https://open.spotify.com/track/68PdypBDiAkvrARPOnT03A"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Meditations Mixtape Vol.1",
         "url": "https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 299666,
       "name": "Satnam Waheguru",
       "url": "https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "Our Hands Against the Dusk",
-        "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
-      },
-      "artists": [
-        {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
-        }
-      ],
-      "duration_ms": 487715,
-      "name": "Aurobindo",
-      "url": "https://open.spotify.com/track/1C7RELF3UfbZzyb7eQ2KZg"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "Forward / Wreck Dive",
+        "url": "https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN"
+      },
+      "artists": [
+        {
+          "name": "Niia",
+          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
+        }
+      ],
+      "duration_ms": 196129,
+      "name": "Forward",
+      "url": "https://open.spotify.com/track/59J12WhFRuPxJLGt3qIm0x"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "Seeing Inside",
         "url": "https://open.spotify.com/album/5DpwvMHLe0PK3XfNMYYyRF"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 707200,
       "name": "From the Sea",
       "url": "https://open.spotify.com/track/0oscyoMaLrUVmAWCeevHig"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "Forward / Wreck Dive",
-        "url": "https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN"
-      },
-      "artists": [
-        {
-          "name": "Niia",
-          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
-        }
-      ],
-      "duration_ms": 196129,
-      "name": "Forward",
-      "url": "https://open.spotify.com/track/59J12WhFRuPxJLGt3qIm0x"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1707,18 +1707,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Stretch Your Eyes (Ambient Acapella)",
-        "url": "https://open.spotify.com/album/09WtH5RWOGs0YbzpamTJWp"
+        "name": "Inori (William Basinski Rework)",
+        "url": "https://open.spotify.com/album/2QvRUt9kt1X6JFDC1z8xK1"
       },
       "artists": [
         {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        },
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
         }
       ],
-      "duration_ms": 367253,
-      "name": "Stretch Your Eyes - Ambient Acapella",
-      "url": "https://open.spotify.com/track/6mLm1FpmlEDWWLjCmNeggQ"
+      "duration_ms": 306154,
+      "name": "Inori - William Basinski Rework",
+      "url": "https://open.spotify.com/track/4WHgvsBS0aMtRgb2dihFYH"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1739,6 +1743,22 @@
       "duration_ms": 240500,
       "name": "Bones Knowing",
       "url": "https://open.spotify.com/track/1E38dgmmUiM6abO6GYKiJB"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Stretch Your Eyes (Ambient Acapella)",
+        "url": "https://open.spotify.com/album/09WtH5RWOGs0YbzpamTJWp"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "duration_ms": 367253,
+      "name": "Stretch Your Eyes - Ambient Acapella",
+      "url": "https://open.spotify.com/track/6mLm1FpmlEDWWLjCmNeggQ"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1779,26 +1799,6 @@
       "duration_ms": 198880,
       "name": "For You I Am Missing \u2026",
       "url": "https://open.spotify.com/track/5rVeiG9p1XlvfC1ch2zqnp"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "Inori (William Basinski Rework)",
-        "url": "https://open.spotify.com/album/2QvRUt9kt1X6JFDC1z8xK1"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        },
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
-        }
-      ],
-      "duration_ms": 306154,
-      "name": "Inori - William Basinski Rework",
-      "url": "https://open.spotify.com/track/4WHgvsBS0aMtRgb2dihFYH"
     },
     {
       "added_at": "2023-10-12 18:05:50",

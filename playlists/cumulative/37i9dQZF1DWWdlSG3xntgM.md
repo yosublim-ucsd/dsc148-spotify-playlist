@@ -4,7 +4,7 @@
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
 
-223 songs - 18 hr 57 min
+224 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Sầu Lẻ Bóng](https://open.spotify.com/track/43NMdhGO3jWk3BWpM8I8QB) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa](https://open.spotify.com/album/1wVDUWmmUJaGPe60pX3t9h) | 5:16 | 2022-03-11 | 2022-07-28 |
 | [Sầu Lẻ Bóng](https://open.spotify.com/track/4a9t1NmCc4PH7i9uNXS6pi) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa](https://open.spotify.com/album/20hpRAF1vJyA9Svfa5di1H) | 5:18 | 2023-05-24 | 2023-10-13 |
 | [Sầu Lẻ Bóng](https://open.spotify.com/track/1JT9Wjnze2Tsf38HUChiWy) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa](https://open.spotify.com/album/1zbN3JwSe3zu6NHMgeDNnq) | 5:18 | 2022-03-11 | 2022-10-02 |
+| [Sầu Tím Thiệp Hồng](https://open.spotify.com/track/71ellkgNTMLTxPhIoTplQD) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Sầu Tím Thiệp Hồng](https://open.spotify.com/album/38QhJtxGadPTfPOBxVNPwU) | 4:46 | 2023-10-12 |  |
 | [Sầu Tím Thiệp Hồng](https://open.spotify.com/track/7L7UYxdL9yqBgZWjU1L0tW) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8), [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Chuyện Tình Không Dĩ Vãng](https://open.spotify.com/album/6cDs6BELcr9iAvNrjDKAug) | 4:46 | 2022-03-11 | 2023-11-12 |
 | [Thanh Pho Buon](https://open.spotify.com/track/3tPEPW6UyC3N8aqjFUIXBa) | [Che Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Thoi Doi](https://open.spotify.com/album/49yr3PC62RhDanMpZdmAfc) | 5:04 | 2022-03-11 | 2022-07-07 |
 | [Thu Xuan Tren Rung Cao](https://open.spotify.com/track/7MbROy2VEfuC9FZG6Un7dF) | [Duy Khanh](https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O) | [Xuan](https://open.spotify.com/album/1nSynBLPNX3TKcKFkWpAQl) | 4:55 | 2022-03-11 | 2022-07-27 |
@@ -212,7 +213,7 @@
 | [Xin Thời Gian Qua Mau](https://open.spotify.com/track/1cFQ97xPMbOqlH8V7B9Ytn) | [Quang Le](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Chuyện Tình Hoa 10 Giờ](https://open.spotify.com/album/0huTCpWAp5Ibqhb80DwUVR) | 5:09 | 2022-03-11 | 2022-07-25 |
 | [Xuân Này Con Không Về](https://open.spotify.com/track/7rQUKFLXPOIYpvFKNddRcS) | [Duy Khanh](https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O) | [Xuân Đi Lễ Chùa](https://open.spotify.com/album/18i2NFATMQPG1f09I2eAwc) | 5:05 | 2023-08-08 | 2023-10-07 |
 | [Xuân này con không về](https://open.spotify.com/track/6i7wRwKIDHT8UqeynMOM63) | [Duy Khanh](https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O), [Đặng Thế Luân](https://open.spotify.com/artist/4eLFgnJaGjZVOMJctGmqsl) | [Tôi Chưa Có Mùa Xuân](https://open.spotify.com/album/7fHOU3HrRkkIMcAnzfHI6U) | 4:19 | 2022-03-11 | 2022-07-25 |
-| [Xuân Này Con Không Về](https://open.spotify.com/track/1Y89eBUJ1lS7d2yQlVUm3M) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Bến Xuân](https://open.spotify.com/album/1MADZBcRfbVzBsrBBsqaaZ) | 4:45 | 2023-01-17 |  |
+| [Xuân Này Con Không Về](https://open.spotify.com/track/1Y89eBUJ1lS7d2yQlVUm3M) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Bến Xuân](https://open.spotify.com/album/1MADZBcRfbVzBsrBBsqaaZ) | 4:45 | 2023-01-17 | 2023-11-23 |
 | [Xuân này con về mẹ ở đâu](https://open.spotify.com/track/4G6pLDWfTKAXJINPDQsZC2) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Mừng Xuân Năm 2016](https://open.spotify.com/album/3iya7kk0t0kMYSCGd0R901) | 4:15 | 2023-01-17 | 2023-05-24 |
 | [Xuân Này Con Về Mẹ Ở Đâu?](https://open.spotify.com/track/4WTxlwgBTqJ5dilU8zhfbj) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [7000 Đêm Góp Lại](https://open.spotify.com/album/04O1fXXjgeAolM0IrG9Bq8) | 4:48 | 2022-03-11 |  |
 | [Xuân Xa Mẹ](https://open.spotify.com/track/3UhzjoXWr64hFled827ran) | [Luu Anh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Tết Xưa](https://open.spotify.com/album/21gWQ1KpAyWWN07AqOCdF0) | 5:21 | 2023-01-17 | 2023-05-30 |

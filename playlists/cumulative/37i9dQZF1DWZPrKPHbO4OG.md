@@ -4,7 +4,7 @@
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-40 songs - 2 hr 44 min
+41 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Aika Dajiba](https://open.spotify.com/track/4UBC20ayn5J864fPoLp7GS) | [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Aika Dajiba](https://open.spotify.com/album/5rJeNTeUR4l1XowSGY2zTa) | 4:44 | 2023-07-04 |  |
 | [Angaar Bhangar Nai Rr](https://open.spotify.com/track/4FXuuc4lb1CfTOfcKny9G1) | [Madhur Milind Shinde](https://open.spotify.com/artist/0H2K4pNnOqpTXf4eVCvk5J) | [Angar Bhangar Nay Rr \- Single](https://open.spotify.com/album/0tbwtoIOv2PyS1hPr5kwRg) | 3:37 | 2023-07-04 |  |
 | [Angaat Aalaya \(From "Zombivli"\)](https://open.spotify.com/track/3MJXmwTHOh3F1xgvnV7kCl) | [Rohan Pradhan](https://open.spotify.com/artist/5OvvUIcEWpnKuP0F3HoRce), [Rohan Rohan](https://open.spotify.com/artist/6wnx3CHIWmuaOWubIXn6UE) | [Angaat Aalaya \(From "Zombivli"\) \- Single](https://open.spotify.com/album/5x16mBjk8q3rJZmgV2aUS8) | 3:46 | 2023-07-04 |  |
-| [Baaygo Baaygo \- From "Ringa Ringa"](https://open.spotify.com/track/5clzHGXtLse37TfRK3puiq) | [Kunal Ganjawala](https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ) | [Ajay \- Atul Hits](https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl) | 4:32 | 2023-07-04 |  |
+| [Baaygo Baaygo](https://open.spotify.com/track/5fd9sY2cFgVGhCc1popLbY) | [Ajay](https://open.spotify.com/artist/0cZUnZAl3WmjGJwEVcBqEH), [Atul Gogavale](https://open.spotify.com/artist/2muHoS1rv7HcYG5hqW0Zob) | [Ringa Ringa](https://open.spotify.com/album/5AUCIkaMURDFGsS6ycGlPe) | 4:32 | 2023-11-20 |  |
+| [Baaygo Baaygo \- From "Ringa Ringa"](https://open.spotify.com/track/5clzHGXtLse37TfRK3puiq) | [Kunal Ganjawala](https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ) | [Ajay \- Atul Hits](https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl) | 4:32 | 2023-07-04 | 2023-11-23 |
 | [Baghtoy Rikshawala Ga Waat Mazhi Baghatoy Rikshawala](https://open.spotify.com/track/3l8vEUmm8vh4QNoF9TeMIp) | [Reshma Sonawane](https://open.spotify.com/artist/0us5qLUz4waTwJ7hGoBrxl) | [Wat Mazi Baghatoy Rikshavala](https://open.spotify.com/album/1oNTgjkByWIbvZhMeW5xbP) | 3:46 | 2023-07-04 |  |
 | [Baharla Ha Madhumas](https://open.spotify.com/track/1j2cBWHYNaN6dB8QAMY8mw) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Maharashtra Shaheer](https://open.spotify.com/album/4XK80Uj04Z0zrTT5qTyjBk) | 3:43 | 2023-07-04 |  |
 | [Chandra \(Featuring\. Shreya Ghoshal\)](https://open.spotify.com/track/4mtGAPsQCIlD4ZXdpRi0wf) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Chandramukhi](https://open.spotify.com/album/4OK7vE5nVTJgG7OPn0tlio) | 5:15 | 2023-07-04 |  |

@@ -4,7 +4,7 @@
 
 > Walk the bridge between indie and folk\. Cover: Abby Sage
 
-416 songs - 1 day 1 hr 52 min
+417 songs - 1 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Hunger](https://open.spotify.com/track/1CNggxo4qMyliKFtF65d3R) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Hunger](https://open.spotify.com/album/48x84mxhTZ879CkFdwxo5S) | 2:38 | 2023-11-10 |  |
 | [Hunter](https://open.spotify.com/track/466VygGb2Jte8wlEWq0snM) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [The Greatest Part](https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST) | 2:49 | 2022-04-29 | 2023-05-28 |
 | [Hunter](https://open.spotify.com/track/6HsTyyMAHbWQdBU33OvTDz) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Hunter](https://open.spotify.com/album/3Iv7gfIAsbFWqhX3hXdWp2) | 2:49 | 2022-01-21 | 2022-07-29 |
+| [i only sing about food](https://open.spotify.com/track/09XeVkE5Vurcpbb4HpXy1M) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [like dying stars, we’re reaching out](https://open.spotify.com/album/6jkHto9kw0tfs59PFEIO0c) | 2:24 | 2023-10-20 |  |
 | [i only sing about food](https://open.spotify.com/track/7GaiT2Cb8y9d9AE4E6XwFI) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [i only sing about food](https://open.spotify.com/album/4Xn3xhVosUGko2o77ABfAa) | 2:24 | 2022-10-14 | 2023-03-23 |
 | [I Pity the Country](https://open.spotify.com/track/5kLzTt5wBILL0VfUEDkX9h) | [Leanne Betasamosake Simpson](https://open.spotify.com/artist/6REprvUcVwBr69s8NfEQj4) | [Theory of Ice](https://open.spotify.com/album/5MMyebXVwA0Vzyvs1WvVS9) | 4:54 | 2022-04-13 | 2022-07-29 |
 | [I Want To Change](https://open.spotify.com/track/443ELj0DbDiRRRYlY5TL5N) | [Nana Adjoa](https://open.spotify.com/artist/2W61gnKGmJykgFSJSvqVCe) | [I Want To Change](https://open.spotify.com/album/3Ol2YPIo1XO9tptJviBNLB) | 4:36 | 2022-04-13 | 2022-07-24 |
@@ -332,7 +333,7 @@
 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 | 2022-10-14 |  |
 | [Spell](https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Spell](https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK) | 4:07 | 2022-10-21 |  |
 | [Spitting Image](https://open.spotify.com/track/34FB1jk6Tq4q8cto3JlF8O) | [Sharon Silva](https://open.spotify.com/artist/6I55n82pFxEj4D3zMdnR9S) | [Spitting Image](https://open.spotify.com/album/0EqJ4c61p88qmPbjRx8Zlb) | 4:19 | 2022-04-13 | 2022-11-13 |
-| [Spring Bug](https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Spring Bug](https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L) | 3:27 | 2023-06-02 |  |
+| [Spring Bug](https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Spring Bug](https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L) | 3:27 | 2023-06-02 | 2023-11-23 |
 | [squirrel song](https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [squirrel song](https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn) | 1:48 | 2023-02-24 | 2023-07-20 |
 | [stained glass](https://open.spotify.com/track/0QxUwYYcLvt1560lZP5il6) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [stained glass](https://open.spotify.com/album/7LW5Bo8L7FlRHCNhMmTcGX) | 4:12 | 2022-10-14 | 2022-12-11 |
 | [stained glass](https://open.spotify.com/track/68zzdY0R3TIjFJm1nEQO1f) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [grow your hair long if you’re wanting to see something that you can change](https://open.spotify.com/album/5YCEWH1mVK86feTnIOBtHQ) | 4:12 | 2022-12-09 | 2023-02-11 |

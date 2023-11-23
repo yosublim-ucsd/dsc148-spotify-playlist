@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 
 > Island vibes for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,753 likes - 40 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,804 likes - 40 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 | 29 | [Zungguzungguguzungguzeng](https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Most Wanted Series \- Yellowman](https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N) | 6:27 |
 | 30 | [The Harder They Come](https://open.spotify.com/track/2XIr0KTybGQsC1SFfeaZhI) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7) | 3:39 |
 | 31 | [Funky Kingston](https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Funky Kingston](https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz) | 4:55 |
-| 32 | [Here I Go Again](https://open.spotify.com/track/07gLSfLyr23jSKaUpRgR1B) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [J\-Status](https://open.spotify.com/artist/28ykFujzSxWjvgZ7owaROx) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:11 |
-| 33 | [007 \(Shanty Town\)](https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [007 Shanty Town](https://open.spotify.com/album/76noJaSuS2UFRm3QBU2hZl) | 2:34 |
+| 32 | [007 \(Shanty Town\)](https://open.spotify.com/track/0lwHFB5OUlBeiXyaEOKJd6) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [007 Shanty Town](https://open.spotify.com/album/76noJaSuS2UFRm3QBU2hZl) | 2:34 |
+| 33 | [Here I Go Again](https://open.spotify.com/track/07gLSfLyr23jSKaUpRgR1B) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [J\-Status](https://open.spotify.com/artist/28ykFujzSxWjvgZ7owaROx) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 4:11 |
 | 34 | [\(You Gotta Walk\) Don't Look Back \- 2002 Remaster](https://open.spotify.com/track/2vDUqLZsaEEYmREcRo9gnn) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Bush Doctor](https://open.spotify.com/album/0K9oJKr8cOfWfdT33y3L9b) | 5:20 |
 | 35 | [Could You Be Loved](https://open.spotify.com/track/6ZXmTH4DpP07a2TvHx1EF9) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:57 |
 | 36 | [Here Comes The Hotstepper \- Heartical Mix](https://open.spotify.com/track/3DWS2ZgcoQgfFm7uEnzYMI) | [Ini Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Here Comes The Hotstepper](https://open.spotify.com/album/4xylgI6zPzJlHY8iZXAeK9) | 4:10 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f4tKhI2axk.md) - [plain]
 | 39 | [Country Road](https://open.spotify.com/track/78idK1ANg6tbO8d67GD09B) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Funky Kingston](https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz) | 3:25 |
 | 40 | [Animal \- Mark Ronson Remix](https://open.spotify.com/track/1jsdtlKxAPYSVKwqsIJGLb) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Animal Remixes](https://open.spotify.com/album/1QR3ok2BgBhCicv4DQOhuH) | 4:31 |
 
-Snapshot ID: `MCxlMmM2ODRjZTE4ZTg3NmM2MDRjZDFiZjkyNDg2OWYxZDRmOGYzY2Zm`
+Snapshot ID: `MCw1ZDYwYjE0NTJlNTUzZTE5YjNiZTdkOGU4YjM2NGNlYjYyMThjZjZj`

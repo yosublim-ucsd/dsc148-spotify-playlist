@@ -4,7 +4,7 @@
 
 > Chill tunes to soundtrack your gaming session.
 
-214 songs - 13 hr 11 min
+215 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [afterdark.](https://open.spotify.com/track/1LEO99UJQTKugOVT62f6rf) | [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM), [chillwithme](https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8), [cødy](https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC) | [afterdark.](https://open.spotify.com/album/6SzfyFW0pQHh7MJxXp6N3I) | 1:33 | 2023-09-08 |  |
 | [Agony \- Instrumental](https://open.spotify.com/track/0XiGmM93irCMKo0FADlWFj) | [Scammacist](https://open.spotify.com/artist/6cMsaDvwIUXtHGQPDbqHvn) | [Agony \(Instrumental\)](https://open.spotify.com/album/7uL9TY3BOHFFDaMeAJIYfm) | 5:01 | 2023-09-08 | 2023-11-13 |
 | [Agony \- Instrumental](https://open.spotify.com/track/6HPmLVvM08mqGfYuUyjcOF) | [Scammacist](https://open.spotify.com/artist/6cMsaDvwIUXtHGQPDbqHvn) | [Agony \(Instrumental\)](https://open.spotify.com/album/6mt70ysyrbOAdJBEDjqfHM) | 5:01 | 2023-09-08 | 2023-09-25 |
+| [Agony \- Instrumental](https://open.spotify.com/track/1nO49nVkqlqOHU8mrjAVWu) | [TheExorcist](https://open.spotify.com/artist/4RP2lKGYgYkC0TUiTT2JTR) | [Agony \(Instrumental\)](https://open.spotify.com/album/6WF6Q0Ihfc5ZmbxICIuRnN) | 5:01 | 2023-09-08 |  |
 | [Alone Forever](https://open.spotify.com/track/4KLXhuPL5YS4mYZFL8XGBM) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0), [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR) | [Isolation](https://open.spotify.com/album/1LZl9LkihImKLeAVcq3NbA) | 1:20 | 2022-08-31 | 2023-11-07 |
 | [Aminals](https://open.spotify.com/track/1depKpsqGCvr8wtjFFaFoO) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Cerulean](https://open.spotify.com/album/66Pk1ZQyHpMjF2Fm7qjqQY) | 3:18 | 2019-12-16 | 2022-07-29 |
 | [Aminals](https://open.spotify.com/track/17RkpFRsRKCNSX7WfxX2qi) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Cerulean](https://open.spotify.com/album/3luRdv37JrEEOUYw8s9pA4) | 3:18 | 2019-12-16 | 2022-09-01 |
@@ -122,7 +123,7 @@
 | [Midnight Cruisin'](https://open.spotify.com/track/47y4QykKNIbrJiTSSq1dut) | [Kreatev](https://open.spotify.com/artist/5fca6jKkDzssBHS5V1jU8z) | [Midnight Cruisin'](https://open.spotify.com/album/19w0su9Sn8qBrPhLkOjGM3) | 2:05 | 2022-11-22 | 2023-09-09 |
 | [Midnight In A Perfect World](https://open.spotify.com/track/48Dz1HTWoMLpT5voht8igk) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Reconstructed : The Best Of DJ Shadow](https://open.spotify.com/album/4sYfLmgzqy0enDlFDHo9Ih) | 4:59 | 2019-12-16 | 2022-09-01 |
 | [Minecraft](https://open.spotify.com/track/6xwhCiWXREsAIQVZqHswVw) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Alpha](https://open.spotify.com/album/3Gt7rOjcZQoHCfnKl5AkK7) | 4:14 | 2022-08-31 | 2022-09-03 |
-| [mirage](https://open.spotify.com/track/7gy6sob5awFll0Pc5zPP1w) | [théos](https://open.spotify.com/artist/3zyJ0KYR7Zxowqq4T4QKru), [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [mirage](https://open.spotify.com/album/2sk4WAQuLII3lYSUWFYZuU) | 1:58 | 2023-09-08 |  |
+| [mirage](https://open.spotify.com/track/7gy6sob5awFll0Pc5zPP1w) | [théos](https://open.spotify.com/artist/3zyJ0KYR7Zxowqq4T4QKru), [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW) | [mirage](https://open.spotify.com/album/2sk4WAQuLII3lYSUWFYZuU) | 1:58 | 2023-09-08 | 2023-11-23 |
 | [Montauk Paddling](https://open.spotify.com/track/2lS3Hau6BLChEmAckRsT1w) | [auv](https://open.spotify.com/artist/6mmGVOvxusEdkxXmPg0Wlm) | [Montauk Paddling](https://open.spotify.com/album/4dyIqQlSISpBqT2SDD2eKI) | 4:01 | 2022-08-31 | 2023-06-28 |
 | [Moonraker](https://open.spotify.com/track/5arnfvbhWPuE4EE8jzoket) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Moonraker](https://open.spotify.com/album/4Z5PMf1Nw6xCAcnaTBKj6d) | 6:04 | 2019-12-16 | 2022-09-01 |
 | [Moonraker](https://open.spotify.com/track/6hJA3Nn6jBjuUxSoymBn9D) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Moonraker \(Remixes\)](https://open.spotify.com/album/7bfmgbE2iBZNVK85AqU95R) | 6:04 | 2019-12-16 | 2022-07-29 |

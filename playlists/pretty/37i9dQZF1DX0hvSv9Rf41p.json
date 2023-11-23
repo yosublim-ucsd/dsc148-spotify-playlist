@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with NGHTMRE, Rezz & DeathbyRomy",
-  "num_followers": 976878,
+  "num_followers": 976890,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmM2MzU0ZmFlMDlhMzVhNzJiOWJmNzVhZDI2YjhlZGYxMmE5NTE1",
+  "snapshot_id": "MCw1ZDFjNzBhMWZlNWI3MjIwOWMxNDVjODNhZDY2ZTA5MTRiMzExZGNm",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -969,26 +969,6 @@
       "url": "https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Sweet Dreams (Are Made Of This)",
-        "url": "https://open.spotify.com/album/6TCJvwsIvDhoSlJQEhWWKI"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "fknsyd",
-          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Sweet Dreams (Are Made Of This)",
-      "url": "https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Walk On Water (Wooli & Trivecta Remix)",
@@ -1019,6 +999,26 @@
       "duration_ms": 228413,
       "name": "Walk On Water (Wooli & Trivecta Remix)",
       "url": "https://open.spotify.com/track/50y6kX6Sd8wK5lZJcyAmX0"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Sweet Dreams (Are Made Of This)",
+        "url": "https://open.spotify.com/album/6TCJvwsIvDhoSlJQEhWWKI"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Sweet Dreams (Are Made Of This)",
+      "url": "https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "SAXORiDDiM",
-        "url": "https://open.spotify.com/album/1WsunKMSnqcyc51FuXD5Od"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "SAXORiDDiM",
-      "url": "https://open.spotify.com/track/6DVZpwOZyjhPkL09b0mqtg"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "kidsgonemad!",
         "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 221142,
       "name": "dontstopme!",
       "url": "https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "SAXORiDDiM",
+        "url": "https://open.spotify.com/album/1WsunKMSnqcyc51FuXD5Od"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "SAXORiDDiM",
+      "url": "https://open.spotify.com/track/6DVZpwOZyjhPkL09b0mqtg"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1273,6 +1273,22 @@
       "url": "https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT"
     },
     {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Tear Jerker",
+        "url": "https://open.spotify.com/album/5vqaFNDtNXDaXjM7MoCOeu"
+      },
+      "artists": [
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        }
+      ],
+      "duration_ms": 155538,
+      "name": "Tear Jerker",
+      "url": "https://open.spotify.com/track/44tKnY1Tsoe9jPGmoA1H2c"
+    },
+    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "Revenge of the Orchestra",
@@ -1291,22 +1307,6 @@
       "duration_ms": 230476,
       "name": "Revenge of the Orchestra",
       "url": "https://open.spotify.com/track/1LeeXhb4CsZZAxb7VzRWng"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Tear Jerker",
-        "url": "https://open.spotify.com/album/5vqaFNDtNXDaXjM7MoCOeu"
-      },
-      "artists": [
-        {
-          "name": "Cyclops",
-          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
-        }
-      ],
-      "duration_ms": 155538,
-      "name": "Tear Jerker",
-      "url": "https://open.spotify.com/track/44tKnY1Tsoe9jPGmoA1H2c"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "kidsgonemad!",
+        "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "SHYPOP",
+      "url": "https://open.spotify.com/track/7fBzVMo0aAD3GIqhq6zv3s"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "EAT SLEEP RAGE",
         "url": "https://open.spotify.com/album/3ACwIVqUsWkj9An9umbKmF"
       },
@@ -1587,26 +1607,6 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "kidsgonemad!",
-        "url": "https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "SHYPOP",
-      "url": "https://open.spotify.com/track/7fBzVMo0aAD3GIqhq6zv3s"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
         "name": "Summer Of Saigon",
         "url": "https://open.spotify.com/album/770o01vMAudjvaj6TzBnMO"
       },
@@ -1645,24 +1645,24 @@
       "url": "https://open.spotify.com/track/43girkLVD5WYKCBMOphHhd"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Uh Uh",
-        "url": "https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC"
+        "name": "Interference",
+        "url": "https://open.spotify.com/album/3clju4r9HK4aE2tQ3TUHwd"
       },
       "artists": [
         {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+          "name": "Bensley",
+          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
         },
         {
-          "name": "SLUMBERJACK",
-          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
         }
       ],
-      "duration_ms": 193098,
-      "name": "Uh Uh",
-      "url": "https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj"
+      "duration_ms": 228965,
+      "name": "Interference",
+      "url": "https://open.spotify.com/track/0pIpEN61pTQZN8nBUzgpDq"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1683,26 +1683,6 @@
       "duration_ms": 229805,
       "name": "Heavy Metal",
       "url": "https://open.spotify.com/track/701sPqgQqlzdBPE8reDeBH"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Interference",
-        "url": "https://open.spotify.com/album/3clju4r9HK4aE2tQ3TUHwd"
-      },
-      "artists": [
-        {
-          "name": "Bensley",
-          "url": "https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL"
-        },
-        {
-          "name": "DNMO",
-          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
-        }
-      ],
-      "duration_ms": 228965,
-      "name": "Interference",
-      "url": "https://open.spotify.com/track/0pIpEN61pTQZN8nBUzgpDq"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1791,22 +1771,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "Falling Over You",
-        "url": "https://open.spotify.com/album/7jaDlEf11uQpPoA5ITFETL"
+        "name": "Uh Uh",
+        "url": "https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC"
       },
       "artists": [
         {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
         },
         {
-          "name": "Lucille Croft",
-          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
         }
       ],
-      "duration_ms": 194823,
-      "name": "Falling Over You",
-      "url": "https://open.spotify.com/track/50QFmuvuRizsHUoTRgmky6"
+      "duration_ms": 193098,
+      "name": "Uh Uh",
+      "url": "https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1831,18 +1811,22 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
+        "name": "Falling Over You",
+        "url": "https://open.spotify.com/album/7jaDlEf11uQpPoA5ITFETL"
       },
       "artists": [
         {
-          "name": "Saint Punk",
-          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        },
+        {
+          "name": "Lucille Croft",
+          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
         }
       ],
-      "duration_ms": 140196,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv"
+      "duration_ms": 194823,
+      "name": "Falling Over You",
+      "url": "https://open.spotify.com/track/50QFmuvuRizsHUoTRgmky6"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1859,6 +1843,22 @@
       "duration_ms": 219718,
       "name": "Your Lovin'",
       "url": "https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
+      },
+      "artists": [
+        {
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+        }
+      ],
+      "duration_ms": 140196,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1941,6 +1941,26 @@
       "url": "https://open.spotify.com/track/4yDWW2wokaaPrFBAE1qUAx"
     },
     {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Headshot (feat. Mikey Ceaser)",
+        "url": "https://open.spotify.com/album/0Yp6PDFaAOsqgeYxc3UBM9"
+      },
+      "artists": [
+        {
+          "name": "BARELY ALIVE",
+          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
+        },
+        {
+          "name": "Mikey Ceaser",
+          "url": "https://open.spotify.com/artist/0DqyXytFE3qSI15jPYUSrQ"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "Headshot (feat. Mikey Ceaser)",
+      "url": "https://open.spotify.com/track/4ZImeX5bzp2EFkN2ClFBMo"
+    },
+    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "Next Shot",
@@ -1977,42 +1997,6 @@
       "url": "https://open.spotify.com/track/4tRDqT9CZtUGnjGAJNVqaQ"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Headshot (feat. Mikey Ceaser)",
-        "url": "https://open.spotify.com/album/0Yp6PDFaAOsqgeYxc3UBM9"
-      },
-      "artists": [
-        {
-          "name": "BARELY ALIVE",
-          "url": "https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3"
-        },
-        {
-          "name": "Mikey Ceaser",
-          "url": "https://open.spotify.com/artist/0DqyXytFE3qSI15jPYUSrQ"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "Headshot (feat. Mikey Ceaser)",
-      "url": "https://open.spotify.com/track/4ZImeX5bzp2EFkN2ClFBMo"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Get Wompy",
-        "url": "https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6"
-      },
-      "artists": [
-        {
-          "name": "SIPPY",
-          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Get Wompy",
-      "url": "https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB"
-    },
-    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "Fallen",
@@ -2031,6 +2015,22 @@
       "duration_ms": 189517,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/3VvQKhWigoAD5pfM6zul48"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Get Wompy",
+        "url": "https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Get Wompy",
+      "url": "https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB"
     },
     {
       "added_at": "2023-10-20 04:01:00",

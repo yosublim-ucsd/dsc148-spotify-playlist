@@ -8655,6 +8655,24 @@
     },
     {
       "album": {
+        "name": "Sad Man's Land",
+        "url": "https://open.spotify.com/album/0AIgo5bU09D3dqvChlq1HZ"
+      },
+      "artists": [
+        {
+          "name": "Kento Ito",
+          "url": "https://open.spotify.com/artist/07VroOJ1SGvFrdu69YwEdd"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210493,
+      "name": "Sad Man's Land",
+      "url": "https://open.spotify.com/track/4xyUAs7SidlrpWhIPM7HDI"
+    },
+    {
+      "album": {
         "name": "Saigo no Kyojin",
         "url": "https://open.spotify.com/album/0aski4Pd2GvDmA6l90Mepg"
       },
@@ -13562,7 +13580,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 210493,
       "name": "\u30b5\u30c3\u30c9\u30de\u30f3\u30ba\u30e9\u30f3\u30c9",
       "url": "https://open.spotify.com/track/7ioRJHFZ1aD7ZnmyLeJQJx"

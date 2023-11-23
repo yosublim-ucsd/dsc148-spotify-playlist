@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-285 songs - 18 hr 8 min
+287 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Hope](https://open.spotify.com/track/4aHrl8py7CwMO4rJJ6KzXN) | [Caesaria](https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3), [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Hope](https://open.spotify.com/album/2eJyTdACTIslhQB92NZzWt) | 3:01 | 2023-05-11 | 2023-07-08 |
 | [Hope](https://open.spotify.com/track/6GpL98Krq2to6uvzaUGmy1) | [Caesaria](https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3), [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Afterparty \- All We Have Is Now](https://open.spotify.com/album/0ldHemZlZBRsIDJ1p6F6LU) | 3:01 | 2023-07-05 |  |
 | [HORIZON](https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl) | [The Inspector Cluzo](https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg) | [HORIZON](https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU) | 3:48 | 2023-01-26 |  |
+| [Hotline](https://open.spotify.com/track/49H7g5Cg0iitRMgcNpGcp1) | [Birdstone](https://open.spotify.com/artist/10s9vPaMhzDYMqjwmxNr1t) | [Hotline](https://open.spotify.com/album/27eh9C2MMAgFpb6R2iFNOt) | 4:11 | 2023-11-16 |  |
 | [Houses of American Style](https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Houses of American Style](https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O) | 4:04 | 2023-05-11 | 2023-06-30 |
 | [Humans](https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n) | [Rank\-O](https://open.spotify.com/artist/7EfIjVAkrlvg6SKlUjsAgF) | [De Novo](https://open.spotify.com/album/4zv3fK4zaoXhRmOxdcqml6) | 3:12 | 2022-04-17 |  |
 | [Hush Hush](https://open.spotify.com/track/3L2r7s8P53jfpoVa1fjtNb) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Hush Hush](https://open.spotify.com/album/6RQuIKP2oBM5w9DDbkBUsw) | 2:56 | 2021-12-31 | 2023-10-24 |
@@ -200,6 +201,7 @@
 | [People In The Shadow](https://open.spotify.com/track/23IOlyuOIfugicmFf6yfNf) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Can Be Late](https://open.spotify.com/album/0b4jmkqHnglDe9FUvsuGIW) | 4:31 | 2022-06-30 | 2023-06-30 |
 | [Piece Of You](https://open.spotify.com/track/591M3gxvS0gc4JdZZqn6oy) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Piece Of You](https://open.spotify.com/album/7xZrte2sbYarQDDjHMvHBc) | 4:15 | 2023-01-26 |  |
 | [Playing Dead](https://open.spotify.com/track/4KuwjTOfniivWFKJz3p1yW) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Get Lost, Find Yourself](https://open.spotify.com/album/5jAkJlpRcL7CGmBcApdNjW) | 3:29 | 2022-04-17 |  |
+| [playroom](https://open.spotify.com/track/0O57HN2JOSVjxSI0ajb0Bd) | [marcel](https://open.spotify.com/artist/176oWYh6UJPDOR38W09xmo) | [charivari](https://open.spotify.com/album/3V6SbIMpgP3mEeYfL40yJQ) | 3:36 | 2023-11-16 |  |
 | [Pop Pop Pop](https://open.spotify.com/track/68ySTFttrJJjrCD6U6Yeg3) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [Survivor](https://open.spotify.com/album/24e49t2eGI5UV88f1uLTOe) | 2:57 | 2023-08-24 |  |
 | [Post\-Post\-](https://open.spotify.com/track/3bKFfFz92jBe9ssm5NUmUi) | [The Psychotic Monks](https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy) | [Post\-Post\-](https://open.spotify.com/album/3oJRM9GQn0PBap6MArxGXM) | 7:34 | 2023-02-02 | 2023-04-15 |
 | [Power Lines](https://open.spotify.com/track/1oHDykzsljPnHszthIcZb5) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [Power Lines](https://open.spotify.com/album/1mIwSpOUpBdWloZoz96MTS) | 3:40 | 2021-12-15 |  |
@@ -258,7 +260,7 @@
 | [Take It](https://open.spotify.com/track/2gUDcRODF4dwwC6vi90ypV) | [Teacup Monster](https://open.spotify.com/artist/4Fqq8tVhE1sYO3MxyZL7sW) | [Take It or Leave It](https://open.spotify.com/album/2RHjDtMCXgIFnh1KyoWYpR) | 3:58 | 2021-12-31 |  |
 | [Tant d'années](https://open.spotify.com/track/29HjFpcEU1ckUd7fNp9gRo) | [AqME](https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26) | [AqME](https://open.spotify.com/album/343fWjyqMTiQJ2ZVTz0ABM) | 3:02 | 2022-04-17 | 2022-07-24 |
 | [Tant d'années](https://open.spotify.com/track/2gFOW2xLk0Cr4CPg3rHBWk) | [AqME](https://open.spotify.com/artist/37P7yznrsIGSfuGOzmmt26) | [AqME](https://open.spotify.com/album/2oXGlPpaj8pwFGL2SpnVUF) | 3:02 | 2022-06-30 |  |
-| [Testify](https://open.spotify.com/track/7BFZuaNusBMXusPtaohiVq) | [Stereotypical Working Class](https://open.spotify.com/artist/02ZopYrPQwwalBKGALvGAX) | [Testify](https://open.spotify.com/album/583cJgteBRqts4CLZdfnfu) | 4:29 | 2021-12-15 |  |
+| [Testify](https://open.spotify.com/track/7BFZuaNusBMXusPtaohiVq) | [Stereotypical Working Class](https://open.spotify.com/artist/02ZopYrPQwwalBKGALvGAX) | [Testify](https://open.spotify.com/album/583cJgteBRqts4CLZdfnfu) | 4:29 | 2021-12-15 | 2023-11-23 |
 | [The Ejector Side](https://open.spotify.com/track/0AoTadBjgwXlbLWryWXTqI) | [Watertank](https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC) | [The Ejector Side](https://open.spotify.com/album/4zjmdGy8wezpjAwXwPboBx) | 2:53 | 2021-12-30 | 2022-07-25 |
 | [The Midnight Son](https://open.spotify.com/track/5Eb1TzFxX0FvubRiy05E3j) | [Bukowski](https://open.spotify.com/artist/1CIApew7akAk8PyrxByyja) | [The Midnight Sons](https://open.spotify.com/album/2SKGHcRMMF5TiZzn68jARQ) | 3:29 | 2021-12-15 | 2023-04-14 |
 | [The Party](https://open.spotify.com/track/4X3sNQbihB9lJaySnq5LR8) | [Hightower](https://open.spotify.com/artist/5tmGmnBnIcenxgOLLWquHo) | [Club Dragon](https://open.spotify.com/album/7xfnCJRBfEBZgwkxFHIsb4) | 3:15 | 2022-11-28 | 2023-11-11 |
@@ -270,7 +272,7 @@
 | [Toxin](https://open.spotify.com/track/5jg80lE6H1bTtN33BR7M2F) | [The One You Loved](https://open.spotify.com/artist/3iPrDGnKhUZFKh7hwpiKOY) | [Bitter Memory](https://open.spotify.com/album/12VwqPuaF6edUXKiMaBZCE) | 3:53 | 2023-07-05 |  |
 | [Tree](https://open.spotify.com/track/38fLg3qA8mtJTuLDmtVc3x) | [Servo](https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN) | [The Lair of Gods](https://open.spotify.com/album/1snWQPp1HIT5ixB77kRcpf) | 4:01 | 2021-12-15 | 2022-07-29 |
 | [Two Rocks in a Whiskey](https://open.spotify.com/track/1SNc84gk62C61df7PoPTh0) | [Dirty Deep](https://open.spotify.com/artist/4XoAOMv60D4FylIqui9WGE), [Yarol Poupaud](https://open.spotify.com/artist/1wQavz0TEd9BEp0K2choCR) | [Meet Me in the City](https://open.spotify.com/album/7xQVlfuATrY8K3dK8Ddzlb) | 5:23 | 2021-12-15 | 2022-07-28 |
-| [Two Rocks In a Whiskey](https://open.spotify.com/track/5MJKfpUClhimQ6APxUAFVH) | [Dirty Deep & Yarol](https://open.spotify.com/artist/0S9f3sqwKQxg3GvZ5mAYLl) | [Meet In The City](https://open.spotify.com/album/6G3JP4vgky4O24iSPkmMny) | 5:23 | 2023-05-11 |  |
+| [Two Rocks In a Whiskey](https://open.spotify.com/track/5MJKfpUClhimQ6APxUAFVH) | [Dirty Deep & Yarol](https://open.spotify.com/artist/0S9f3sqwKQxg3GvZ5mAYLl) | [Meet In The City](https://open.spotify.com/album/6G3JP4vgky4O24iSPkmMny) | 5:23 | 2023-05-11 | 2023-11-23 |
 | [Tête blême](https://open.spotify.com/track/6AQvZgtjYGbw2wEMYMZef4) | [Pogo Car Crash Control](https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD) | [Tête blême](https://open.spotify.com/album/1k77W6tW9MlXCnRhNySBSR) | 2:42 | 2022-04-17 | 2022-07-29 |
 | [Ummon](https://open.spotify.com/track/0PL7AWHsbdfccrnhGZb5ix) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [UMMON](https://open.spotify.com/album/0mDB0OdwVTHh6cb70Fcdxq) | 5:45 | 2021-12-15 |  |
 | [Undone](https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb) | 3:38 | 2022-11-28 |  |

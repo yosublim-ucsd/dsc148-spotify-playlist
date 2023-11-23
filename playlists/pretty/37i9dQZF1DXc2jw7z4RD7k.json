@@ -1,12 +1,12 @@
 {
   "description": "It's giving coastal grandmother, it's giving Diane Keaton, it's giving apple pies.",
-  "num_followers": 124150,
+  "num_followers": 126684,
   "original_name": "Grandma's Home",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzBhOTNlNTUzNjg1Zjk3MmRiZDJmODQ3MTA2MWExZDFiZTcxYThj",
+  "snapshot_id": "MCxhNmM5Njc3NjY1YjRjNzUzNTYxODIwNTliZjAyZjFiYzljMjk5OTEz",
   "tracks": [
     {
       "added_at": "2023-09-02 16:32:51",
@@ -452,8 +452,12 @@
       },
       "artists": [
         {
-          "name": "Maurice Williams & The Zodiacs",
-          "url": "https://open.spotify.com/artist/43BgumF6B7s0W2mhVkmVO4"
+          "name": "Maurice Williams",
+          "url": "https://open.spotify.com/artist/1CgE69lpZKGAcA5kIIK82D"
+        },
+        {
+          "name": "The Zodiacs",
+          "url": "https://open.spotify.com/artist/1HCE0pbqGLSvWaz5q4TeDd"
         }
       ],
       "duration_ms": 95386,

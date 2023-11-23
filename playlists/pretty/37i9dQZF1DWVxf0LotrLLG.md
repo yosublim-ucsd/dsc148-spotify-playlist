@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Ozuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,577 likes - 199 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,596 likes - 199 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 14 | [Alucinando](https://open.spotify.com/track/0JYF5gv1VOgOnp10nj2ugN) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANNA Vol1\. LOS AMANTES](https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv) | 2:52 |
 | 15 | [Piernas De Agua](https://open.spotify.com/track/7pcHQDTRnesuQgjhBpgqwR) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANNA Vol1\. LOS AMANTES](https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv) | 4:10 |
 | 16 | [REMEMBAH](https://open.spotify.com/track/2L1CLvJRne3YgAlD9KmWQy) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [REMEMBAH](https://open.spotify.com/album/7FpOYLTCAPfsk9MQqCoHgR) | 2:20 |
-| 17 | [EN BANDA](https://open.spotify.com/track/0qxu5yUr3insFrHV1AEvgG) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8), [Vvstears](https://open.spotify.com/artist/35b0Dt3ZlltjG3FJx2KRVg) | [TERRITORIO](https://open.spotify.com/album/1EHRjzxq4saYdE6agQT9yz) | 2:05 |
-| 18 | [G.O.A.T](https://open.spotify.com/track/1HiSHZJ7HLHwCEIuwFwBsm) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Neutro Shorty](https://open.spotify.com/artist/3H1qCkG6BZ3x9ZYnJHGH83), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [TERRITORIO](https://open.spotify.com/album/1EHRjzxq4saYdE6agQT9yz) | 4:09 |
+| 17 | [EN BANDA](https://open.spotify.com/track/0qxu5yUr3insFrHV1AEvgG) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8), [Vvstears](https://open.spotify.com/artist/35b0Dt3ZlltjG3FJx2KRVg) | [TERRITORIO APACHE](https://open.spotify.com/album/1EHRjzxq4saYdE6agQT9yz) | 2:05 |
+| 18 | [G.O.A.T](https://open.spotify.com/track/1HiSHZJ7HLHwCEIuwFwBsm) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [TERRITORIO APACHE](https://open.spotify.com/album/1EHRjzxq4saYdE6agQT9yz) | 4:09 |
 | 19 | [Vale Madres](https://open.spotify.com/track/02YhaoVERYV2QhGq8NEYnZ) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2) | [Introspección](https://open.spotify.com/album/33tRyIKhIzBW2Y8eufDMFx) | 2:12 |
 | 20 | [Me Quieres Cuando No Estás Bien](https://open.spotify.com/track/3Zk2kCNwdVwj7sGukEseM2) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2) | [Me Quieres Cuando No Estás Bien](https://open.spotify.com/album/1DbJKwzJfxw4xkheUyT1qw) | 3:17 |
 | 21 | [Qué Hago Mal](https://open.spotify.com/track/5Kxjt3tw0Dc6o0dSytdfo8) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2) | [Introspección](https://open.spotify.com/album/33tRyIKhIzBW2Y8eufDMFx) | 2:30 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 198 | [Sale Pa la Calle](https://open.spotify.com/track/5oAzWgKYosXee4Xfjpkbt6) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [EVERYBODY GO TO THE DISCOTEK](https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e) | 3:31 |
 | 199 | [Lollipop](https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [EVERYBODY GO TO THE DISCOTEK](https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e) | 3:19 |
 
-Snapshot ID: `MCxkZGFkMDY5NzQ1Y2ZhNTFhNmNkYjFiYmFiMjI3ZjE1ODU0MjBjMTNi`
+Snapshot ID: `MCw5MzcxZDgwZWZmN2Q2YjQ3MjRmZjQxMGI4NDBjOTg2YjIyMzJhNjgy`

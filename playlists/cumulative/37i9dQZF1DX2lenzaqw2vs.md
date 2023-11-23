@@ -4,7 +4,7 @@
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: Rubio
 
-311 songs - 17 hr 10 min
+312 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [OTRAS MUJERES](https://open.spotify.com/track/3TPyzaMVYGZq6PV1J4kXBV) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OTRAS MUJERES](https://open.spotify.com/album/7kjsiTEu2hzDx0ioEPhWkF) | 3:00 | 2023-01-24 | 2023-04-15 |
 | [Pa Tanto](https://open.spotify.com/track/3WewvS7iUUyev8cka7Mgl0) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Pa Tanto](https://open.spotify.com/album/20ULysRftwowCX4GCySy6f) | 2:49 | 2023-07-21 |  |
 | [Paradinha](https://open.spotify.com/track/05rJdH2MRLJ3sQoEUO78qs) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Paradinha](https://open.spotify.com/album/04BnICBN8E59qwuAPfA9pa) | 2:21 | 2021-12-09 | 2023-01-25 |
-| [Paradise](https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Paradise](https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O) | 3:16 | 2023-01-24 |  |
+| [Paradise](https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Paradise](https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O) | 3:16 | 2023-01-24 | 2023-11-23 |
 | [Perfecta \- Versión con Julieta Venegas](https://open.spotify.com/track/4Ol6lxivp7pR7voovl8vKI) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [El Disco de Tu Corazón](https://open.spotify.com/album/23sglTmI7lQhVogpoa5TXe) | 3:45 | 2021-12-09 | 2023-01-25 |
 | [PERREO FURIOSO](https://open.spotify.com/track/2NAjBeyMUrba97IXdLVMqp) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 2:32 | 2023-01-24 |  |
 | [Pillándome](https://open.spotify.com/track/6VOTtgE47gLBcaAradlOmk) | [Bearoid](https://open.spotify.com/artist/2qxjB0LkbwvgLxmXN31Gp4) | [Pillándome](https://open.spotify.com/album/7g5KQmVTD7mtQSNWoO9S94) | 2:41 | 2022-06-01 | 2023-01-25 |
@@ -277,6 +277,7 @@
 | [Soy Mia](https://open.spotify.com/track/5anRovfNkeo83bshruaWX9) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:41 | 2021-12-09 | 2023-01-25 |
 | [Soy Un Bombón](https://open.spotify.com/track/2tAL1SKeBWQfc4ttSDe8Zn) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [Soy Un Bombón](https://open.spotify.com/album/1ZrKg7EXPJ787usjfGVzcY) | 3:36 | 2023-03-31 | 2023-06-03 |
 | [Space Caco](https://open.spotify.com/track/5VIsazAgDf3bouYwfArMaB) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu), [La Vanda](https://open.spotify.com/artist/2nITWw5w36jbeuUe0NzArh) | [Bairopolis](https://open.spotify.com/album/1IBYaybDDIcaJuNQDfYQZQ) | 2:57 | 2021-12-09 | 2022-06-01 |
+| [Sueños](https://open.spotify.com/track/0VBlnEmi1kQXbi1SVumgEE) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Sueños](https://open.spotify.com/album/4yR4MIZ2kn7WULEOPohp6V) | 3:45 | 2023-11-17 |  |
 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD) | [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sólo Quédate En Silencio](https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB) | 3:55 | 2022-06-01 | 2023-01-25 |
 | [Sólo Quédate En Silencio](https://open.spotify.com/track/64zeBVnG4AnN4gnNrKQEvX) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Sólo Quédate En Silencio](https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB) | 3:39 | 2022-06-01 | 2023-01-25 |
 | [Súper Heroína](https://open.spotify.com/track/4FstWFuCTeZn9Ms5FKx4KD) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP) | [The Early Years](https://open.spotify.com/album/4dWM9PaeRtWEJBxIrGfyYD) | 3:30 | 2023-06-02 | 2023-08-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Chartreuse
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,232 likes - 101 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,244 likes - 101 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 38 | [oblique butterfly](https://open.spotify.com/track/5dd9ebFTVkmdf0QH5DA6i9) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [towncryer](https://open.spotify.com/album/78NnVni8Nz8nkXfnlKajjr) | 6:36 |
 | 39 | [shoelaces](https://open.spotify.com/track/2cPndAZPxgZgXHPAT20xUE) | [joey maxwell](https://open.spotify.com/artist/24HpqK3rYuuJgdh2WkNtTq) | [shoelaces](https://open.spotify.com/album/1iHBSEzbep9OWbgZaawGqh) | 2:59 |
 | 40 | [Street Rat](https://open.spotify.com/track/0Sj7HNNjFAfVVEtDvsMedu) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell \(Deluxe Edition\)](https://open.spotify.com/album/5VTdHKo8yJhitaNtKQ2XQq) | 3:30 |
-| 41 | [Death Drive](https://open.spotify.com/track/3gtxS59vfzWAOne1AIonXw) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Death Drive](https://open.spotify.com/album/3QYzKAOZ6XwSPiOPjiWv2T) | 3:11 |
+| 41 | [Death Drive](https://open.spotify.com/track/73UTl5fz6QOzbBDri1uqg0) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Death Drive](https://open.spotify.com/album/3vCg8G4wrdrCVkmMT8cSH3) | 3:11 |
 | 42 | [Greg Abbott's Maxi Pad](https://open.spotify.com/track/21JwaGcxPE1KuAWgoasLL1) | [Farmer's Wife](https://open.spotify.com/artist/01epJHd4z4JfvkUBWHD5Os) | [Greg Abbott's Maxi Pad](https://open.spotify.com/album/5i4YyMtdpLfa9aMrszZL5D) | 3:08 |
 | 43 | [natural devotion 2](https://open.spotify.com/track/126S4GL29vBOGJBcgIIvBu) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [tapeworm / natural devotion 2](https://open.spotify.com/album/4TJBJOEp2oEQnjz30ZECfO) | 3:12 |
 | 44 | [With Me](https://open.spotify.com/track/37M8fz6hqNXisWg1el9DCl) | [Varsity](https://open.spotify.com/artist/339XMxg3AyRbEfeIAlxB2c) | [With Me](https://open.spotify.com/album/1u1QRvmnXqynuqnQojlYGU) | 3:24 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 100 | [Last Living Buffalo](https://open.spotify.com/track/3BOhoENNsKpSmG3ZOfU1iq) | [Being Dead](https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8) | [Last Living Buffalo](https://open.spotify.com/album/1F7dOibX5qhJEhGUlCn78b) | 3:14 |
 | 101 | [Splendor](https://open.spotify.com/track/1SQcUBkH4zgYNRRnwUNx4x) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [Splendor](https://open.spotify.com/album/0YCFTmRRxUduoa0CmrT0To) | 4:13 |
 
-Snapshot ID: `MCw0MTY2ZGExYWRiMmQ4M2EwODk0NTZhMjY3MGI1YjUwYmJjNmFlYWFl`
+Snapshot ID: `MCwwNzllMmVlMWJkYWEyN2Y3ZTAyNDg3NGFjY2Q4ZmMzMzdkMWUyMTQ5`

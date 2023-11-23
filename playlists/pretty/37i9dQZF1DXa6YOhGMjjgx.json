@@ -1,12 +1,12 @@
 {
   "description": "The very best of the alternative rock scene. Cover: Teenage Wrist",
-  "num_followers": 474839,
+  "num_followers": 474842,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDNiM2IyNmYyNzg2Zjk5YzMyMjkyZjU1M2Q4NWVlMmZhNGZmYjMx",
+  "snapshot_id": "MCwwNTY5ZGJjYzRjMDE0MmFkZmY0OWU3ZGRkNDY1NjdiMTFjNGIzOTAz",
   "tracks": [
     {
       "added_at": "2023-09-08 20:23:35",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Blue Skies",
-        "url": "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 150824,
-      "name": "Bad Love",
-      "url": "https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "The Atlas Underground Fire",
         "url": "https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 192150,
       "name": "Hold The Line (feat. grandson)",
       "url": "https://open.spotify.com/track/4py8spIzvJETEC3srLB0q4"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 150824,
+      "name": "Bad Love",
+      "url": "https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Play My Favourite Song",
-        "url": "https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat"
-      },
-      "artists": [
-        {
-          "name": "Tigercub",
-          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
-        }
-      ],
-      "duration_ms": 155603,
-      "name": "Play My Favourite Song",
-      "url": "https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Too Many Things",
         "url": "https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 155893,
       "name": "Too Many Things",
       "url": "https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Play My Favourite Song",
+        "url": "https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat"
+      },
+      "artists": [
+        {
+          "name": "Tigercub",
+          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
+        }
+      ],
+      "duration_ms": 155603,
+      "name": "Play My Favourite Song",
+      "url": "https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "i heard they found you face down inside your living room",
-        "url": "https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 191548,
-      "name": "i heard they found you face down inside your living room",
-      "url": "https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Common Chaos",
         "url": "https://open.spotify.com/album/7pzoanQ2Iwvk9FbJcqtKwo"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 171426,
       "name": "Common Chaos",
       "url": "https://open.spotify.com/track/231wGywsY9is10w83qwrwC"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "i heard they found you face down inside your living room",
+        "url": "https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q"
+      },
+      "artists": [
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+        }
+      ],
+      "duration_ms": 191548,
+      "name": "i heard they found you face down inside your living room",
+      "url": "https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/65ykYwxWolf3lI0Gua8VRD"
-      },
-      "artists": [
-        {
-          "name": "Mouth Culture",
-          "url": "https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd"
-        }
-      ],
-      "duration_ms": 197777,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/5klhOR0OgxOLXlwP3JY7xi"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Right After I Smoke This...",
         "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 142760,
       "name": "Medication",
       "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/65ykYwxWolf3lI0Gua8VRD"
+      },
+      "artists": [
+        {
+          "name": "Mouth Culture",
+          "url": "https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd"
+        }
+      ],
+      "duration_ms": 197777,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/5klhOR0OgxOLXlwP3JY7xi"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "SAY IT",
-        "url": "https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH"
-      },
-      "artists": [
-        {
-          "name": "NEW LANGUAGE",
-          "url": "https://open.spotify.com/artist/5VgSeaCjuHm9qCimk0aXqL"
-        }
-      ],
-      "duration_ms": 161315,
-      "name": "SAY IT",
-      "url": "https://open.spotify.com/track/6QfxtR8b5iQYsv7zFsBuUv"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Blondshell",
         "url": "https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 220960,
       "name": "Seven White Horses",
       "url": "https://open.spotify.com/track/43yCaDI4VvDPY85pdjInSv"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "SAY IT",
+        "url": "https://open.spotify.com/album/7xfievnMGV3hqp1lW7I4wH"
+      },
+      "artists": [
+        {
+          "name": "NEW LANGUAGE",
+          "url": "https://open.spotify.com/artist/5VgSeaCjuHm9qCimk0aXqL"
+        }
+      ],
+      "duration_ms": 161315,
+      "name": "SAY IT",
+      "url": "https://open.spotify.com/track/6QfxtR8b5iQYsv7zFsBuUv"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Taste The Sun",
-        "url": "https://open.spotify.com/album/4GWmCsQY6CQnw5Xf3sbxl7"
+        "name": "Teenage Lines",
+        "url": "https://open.spotify.com/album/5Yrk53HYq1jeZbWE06FFXv"
       },
       "artists": [
         {
-          "name": "The Pale White",
-          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
+          "name": "alltheprettythings",
+          "url": "https://open.spotify.com/artist/1SbUXI8T8XPfiKewzGUCML"
         }
       ],
-      "duration_ms": 243947,
-      "name": "How Far Can You Push A Man?",
-      "url": "https://open.spotify.com/track/16tDz8bSV96yJ5CQlhuVlG"
+      "duration_ms": 224602,
+      "name": "Teenage Lines",
+      "url": "https://open.spotify.com/track/2VLQao16kkYBiqmoMzNmJA"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Teenage Lines",
-        "url": "https://open.spotify.com/album/5Yrk53HYq1jeZbWE06FFXv"
+        "name": "Taste The Sun",
+        "url": "https://open.spotify.com/album/4GWmCsQY6CQnw5Xf3sbxl7"
       },
       "artists": [
         {
-          "name": "alltheprettythings",
-          "url": "https://open.spotify.com/artist/1SbUXI8T8XPfiKewzGUCML"
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
         }
       ],
-      "duration_ms": 224602,
-      "name": "Teenage Lines",
-      "url": "https://open.spotify.com/track/2VLQao16kkYBiqmoMzNmJA"
+      "duration_ms": 243947,
+      "name": "How Far Can You Push A Man?",
+      "url": "https://open.spotify.com/track/16tDz8bSV96yJ5CQlhuVlG"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Get Out Of My Life",
-        "url": "https://open.spotify.com/album/7CkQnUSUR4eS1lfwJCa18o"
+        "name": "Car Crash",
+        "url": "https://open.spotify.com/album/6YlDs4igPMcAXPvnaKtNsB"
       },
       "artists": [
         {
-          "name": "Little Hurt",
-          "url": "https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO"
+          "name": "Low Lying Sun",
+          "url": "https://open.spotify.com/artist/1xdFO7BuQ7OS0PPmpfKlge"
         }
       ],
-      "duration_ms": 187431,
-      "name": "Get Out Of My Life",
-      "url": "https://open.spotify.com/track/44uVPmfFf3tWyOtekieLci"
+      "duration_ms": 232584,
+      "name": "Car Crash",
+      "url": "https://open.spotify.com/track/5W0pqbWqy3ek86f7CjHyR8"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Car Crash",
-        "url": "https://open.spotify.com/album/6YlDs4igPMcAXPvnaKtNsB"
-      },
-      "artists": [
-        {
-          "name": "Low Lying Sun",
-          "url": "https://open.spotify.com/artist/1xdFO7BuQ7OS0PPmpfKlge"
-        }
-      ],
-      "duration_ms": 232584,
-      "name": "Car Crash",
-      "url": "https://open.spotify.com/track/5W0pqbWqy3ek86f7CjHyR8"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 172495,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "Get Out Of My Life",
+        "url": "https://open.spotify.com/album/7CkQnUSUR4eS1lfwJCa18o"
+      },
+      "artists": [
+        {
+          "name": "Little Hurt",
+          "url": "https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO"
+        }
+      ],
+      "duration_ms": 187431,
+      "name": "Get Out Of My Life",
+      "url": "https://open.spotify.com/track/44uVPmfFf3tWyOtekieLci"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Eye For An Eye",
-        "url": "https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY"
+        "name": "Godsend",
+        "url": "https://open.spotify.com/album/1BIiMBKDK1K2kNE3SzJM3k"
       },
       "artists": [
         {
-          "name": "Loose Lips",
-          "url": "https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND"
+          "name": "Sundara Karma",
+          "url": "https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP"
         }
       ],
-      "duration_ms": 184931,
-      "name": "Eye For An Eye",
-      "url": "https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt"
+      "duration_ms": 262453,
+      "name": "Godsend",
+      "url": "https://open.spotify.com/track/6a9yNu5Nlc1xezZjHAzj0C"
     }
   ],
   "unique_name": "New  Alt-Rock Mixtape",

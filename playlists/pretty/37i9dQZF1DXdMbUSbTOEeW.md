@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 
 > Trending dance hits in India\. Cover: Diljit & Sia
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,752 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,905 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hass Hass](https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Hass Hass](https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC) | 2:33 |
 | 2 | [Besharam Rang \(From "Pathaan"\)](https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Caralisa Monteiro](https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Besharam Rang \(From "Pathaan"\)](https://open.spotify.com/album/5CvI5ppsG522pV554VLezD) | 4:18 |
 | 3 | [She Don't Know \(From "Blessed"\)](https://open.spotify.com/track/23dCPIMivfUQwUPSeDSUPc) | [Millind Gaba](https://open.spotify.com/artist/7hVmdlsJp0E2WQIvVl8ngN), [Music Mg](https://open.spotify.com/artist/187TniBCUYUBlVTjmtsVi9) | [She Don't Know \(From "Blessed"\)](https://open.spotify.com/album/0vomvwmwqw7puUfnwVWjsf) | 3:23 |
-| 4 | [9:45](https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb) | [Prabh Singh](https://open.spotify.com/artist/0VAIiNSKG4DWkSaIy5qWz1), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [9:45](https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR) | 1:57 |
+| 4 | [9:45](https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb) | [Prabh Singh](https://open.spotify.com/artist/0VAIiNSKG4DWkSaIy5qWz1), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Rooh Sandhu](https://open.spotify.com/artist/54E3dYx7RpaGZaDVXJTWjr) | [9:45](https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR) | 1:57 |
 | 5 | [Khalasi \| Coke Studio Bharat](https://open.spotify.com/track/5LSAafg2oH9YPgf3EG17iw) | [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW), [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk) | [Khalasi \| Coke Studio Bharat](https://open.spotify.com/album/0cUSfUJILJ9I38bntZKSLq) | 4:18 |
 | 6 | [True Stories](https://open.spotify.com/track/28lvraTNIN8qiTpoIK7m8Z) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [True Stories](https://open.spotify.com/album/7JABHOzxcWGwmihIUq13dl) | 1:57 |
 | 7 | [Cherie Coco](https://open.spotify.com/track/4LYYlJBBA6NXe4GVpPFxGd) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk), [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay) | [Cherie Coco](https://open.spotify.com/album/2GPZ1NhaVR31emxcDCw8Pz) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 | 49 | [Oh Ho Ho Ho \(Remix\)](https://open.spotify.com/track/3F0I9AkbRwz12yz7Hxn0bF) | [Sukhbir](https://open.spotify.com/artist/7bcSOvqOKoyZqU41p5YuoJ), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Hindi Medium](https://open.spotify.com/album/5wUJ0hK8HJMpf5WEotPihO) | 4:04 |
 | 50 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 |
 
-Snapshot ID: `MCw0NmQyZGRhNDQ0ZjhjZWQwMmRiODM1YmU4NjlmYzlkMmY0ZjVjNTdl`
+Snapshot ID: `MCxiNDNiOTViZmNjZGYyZjc2YmQyYzRiNTkyMzQzMWU5MDk2NzE0ODJi`

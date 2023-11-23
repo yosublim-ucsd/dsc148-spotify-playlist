@@ -2,7 +2,7 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Enjoy trendy & chill Korean R&B music\. \(Cover: Jay Park\(박재범\)\)
+> Enjoy trendy & chill Korean R&B music\. \(Cover: DEAN\)
 
 645 songs - 1 day 10 hr 42 min
 
@@ -93,7 +93,7 @@
 | [Blanket \(feat\. Wonstein\)](https://open.spotify.com/track/1A03hQduqL0zSx6s90c2kV) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Blanket](https://open.spotify.com/album/6JJgCrqlob8AaNBNu2vzRF) | 3:32 | 2022-05-09 | 2022-05-11 |
 | [Blessed \(Feat\. GSoul\)](https://open.spotify.com/track/2rt1yVMnPbvuKJU7hKqAi3) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [DON’T DIE COLORS](https://open.spotify.com/album/0aSh8DK2hVSJppLxwtZ1t4) | 4:11 | 2022-05-02 | 2022-07-27 |
 | [Blue](https://open.spotify.com/track/2s4pzQWSxqfOcMauQ2dMcW) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:00 | 2022-04-22 | 2023-03-31 |
-| [Blue](https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:29 | 2023-09-08 | 2023-09-14 |
+| [Blue](https://open.spotify.com/track/2UU11hvjN1JIn4iihEodNT) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:29 | 2023-09-08 |  |
 | [Blue mood](https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Lost Mood](https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh) | 2:39 | 2022-09-30 | 2022-10-06 |
 | [BLUE MOON](https://open.spotify.com/track/2CETP9YyMZchRIxp7z5LUf) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [BLUE MOON](https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh) | 2:51 | 2023-07-21 | 2023-08-05 |
 | [Bonnie & Clyde](https://open.spotify.com/track/2395WKvJwfuqPBgsyC5k9C) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [American Gothic](https://open.spotify.com/album/6e7McZxhV5in98Ai5gTfnJ) | 3:12 | 2022-04-19 | 2022-07-29 |
@@ -379,7 +379,7 @@
 | [merry merry](https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [merry merry](https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q) | 2:45 | 2022-12-09 | 2023-01-11 |
 | [Microphone](https://open.spotify.com/track/4qaVcA4yzqG1dlGNdvyTh4) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Eternal](https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3) | 3:16 | 2022-07-07 | 2022-07-23 |
 | [Mm Mm](https://open.spotify.com/track/1eXBDCUxn41AwVgVIRbeWz) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Mm Mm](https://open.spotify.com/album/0NS9viwwEi04L7H8ObWJMD) | 2:46 | 2022-04-19 | 2022-07-28 |
-| [Mood](https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:02 | 2022-08-01 | 2023-10-07 |
+| [Mood](https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:02 | 2022-08-01 |  |
 | [Moon&Back](https://open.spotify.com/track/5EFPZrR8SC2izgbBFDcNr4) | [PARK JI HOON](https://open.spotify.com/artist/0tBYMeHDDJCzRuREuCTWi7) | [Moon&Back](https://open.spotify.com/album/4U9vidHdzVMySNompXFcug) | 3:42 | 2022-10-07 | 2022-10-23 |
 | [More](https://open.spotify.com/track/6VacU6Uf16RkcQWUv3Z5Vq) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [More](https://open.spotify.com/album/5fdVNrQ2PoMTyhFXPPWu7L) | 2:41 | 2023-01-26 | 2023-02-22 |
 | [More and More](https://open.spotify.com/track/7dudDzqxkOs74CED8gXcKO) | [SOIN](https://open.spotify.com/artist/7EOsjIvg3a2dPyMW6XNn4U) | [More and More](https://open.spotify.com/album/0tAgvFyBpDkoTCbAxsu73h) | 3:18 | 2022-08-18 | 2022-08-31 |
@@ -514,7 +514,7 @@
 | [Sleep](https://open.spotify.com/track/45vAXcFwBye4C8ct9vwWqJ) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Heaven](https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W) | 2:58 | 2023-02-10 | 2023-02-22 |
 | [Slow Dance](https://open.spotify.com/track/3ASYo6ur6gT6d6sqosWub9) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [Slow Dance](https://open.spotify.com/album/0Ck8vZyl61aCKh8QymZo0E) | 3:03 | 2022-05-11 | 2022-07-09 |
 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-09-08 |  |
-| [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 | 2023-09-13 |  |
+| [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 | 2023-09-13 | 2023-11-23 |
 | [Slow Mo](https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [B](https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7) | 2:32 | 2022-05-28 | 2023-04-16 |
 | [smallthing](https://open.spotify.com/track/0ABgWfH4ksW7hZ7EQWN8Fh) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [smallthing](https://open.spotify.com/album/2BxNOiuS3YJVBwERBDpdgQ) | 2:19 | 2023-02-21 | 2023-02-25 |
 | [SMOKE](https://open.spotify.com/track/2bztJ2R2GVbmtgK5rDQik8) | [PINWHEEL](https://open.spotify.com/artist/4fJLA7qt0hVPOPwE9FERnA) | [Distrust](https://open.spotify.com/album/5ZX0wNPEvEx6w19pGtbFrU) | 3:19 | 2022-07-04 | 2022-07-08 |
@@ -592,7 +592,7 @@
 | [UFO \(Feat\. Seori\)](https://open.spotify.com/track/3RIDQ0NiYcV896kb0mWz3k) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Inside Out](https://open.spotify.com/album/3xA110ttA5PDmnDIBoyb7b) | 3:19 | 2022-04-19 | 2022-07-28 |
 | [uleum](https://open.spotify.com/track/595KCHsr2IGHS3iykdPyta) | [Mokyo](https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP) | [uleum](https://open.spotify.com/album/3KHDiSRpFQg50qplOfznpw) | 3:51 | 2022-04-19 | 2022-04-21 |
 | [Undo](https://open.spotify.com/track/6z1pJ3KUmQagUpMVqL62sa) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:48 | 2022-07-04 | 2022-08-19 |
-| [Up Late](https://open.spotify.com/track/0zGHkO156T5MNaYmaS7fNP) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Love Sick](https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek) | 2:53 | 2023-11-17 |  |
+| [Up Late](https://open.spotify.com/track/0zGHkO156T5MNaYmaS7fNP) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Love Sick](https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek) | 2:53 | 2023-11-17 | 2023-11-23 |
 | [Up Late](https://open.spotify.com/track/1UGQ0UbDJ69eTfUvrqMwNz) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Up Late](https://open.spotify.com/album/4WP3fm7ewSHgbQLHn84oaf) | 2:53 | 2023-08-17 | 2023-08-19 |
 | [US](https://open.spotify.com/track/28toOHNKaU968fvVoKA9pQ) | [Moon Jong Up](https://open.spotify.com/artist/3I9hRYYNJvENa3EcJ6c5cd) | [Moon Jong Up \- 1st Mini Album "US"](https://open.spotify.com/album/5v8Uj3vFwXfdu8eKiyhUuX) | 2:59 | 2022-06-03 | 2022-07-28 |
 | [Vanishing Cats](https://open.spotify.com/track/33DQMWkaKTBkpKlmXuuNT0) | [Owell Mood](https://open.spotify.com/artist/21PxLOZet5J6uX4uMfXUTA) | [LOVE is DRUG](https://open.spotify.com/album/2zv1UOpGFgfJ5GC7Wb3kF0) | 3:15 | 2022-11-22 | 2022-12-10 |

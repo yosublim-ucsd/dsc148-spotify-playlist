@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 382928,
+  "num_followers": 383642,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDVhZTUwZTllNWQxNGJiNDZjYzlhNzVmYzdmNzI5NTBlZWFlOGIy",
+  "snapshot_id": "MCwyNWUwYTRmYTk2NTBkZDZhZjMwZTYyZWRmYjA3MWJiOWM1NDk4N2Yz",
   "tracks": [
     {
       "added_at": "2023-10-26 21:59:00",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-10-26 21:59:00",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+      "duration_ms": 239316,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
     },
     {
       "added_at": "2023-10-26 21:59:00",
@@ -259,18 +259,18 @@
     {
       "added_at": "2023-10-26 21:59:00",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
         }
       ],
-      "duration_ms": 239316,
-      "name": "I'm Not The Only One",
-      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
     },
     {
       "added_at": "2023-10-26 21:59:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-10-26 21:59:00",
       "album": {
+        "name": "Everyday Life",
+        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 258533,
+      "name": "Everyday Life",
+      "url": "https://open.spotify.com/track/0h9fnCSnbUgOEgibnQByFv"
+    },
+    {
+      "added_at": "2023-10-26 21:59:00",
+      "album": {
         "name": "Veneer",
         "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
       },
@@ -647,18 +663,18 @@
     {
       "added_at": "2023-10-26 21:59:00",
       "album": {
-        "name": "Everyday Life",
-        "url": "https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr"
+        "name": "On the Other Side",
+        "url": "https://open.spotify.com/album/7ruII5ZslQNpw4viJv10yG"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
         }
       ],
-      "duration_ms": 258533,
-      "name": "Everyday Life",
-      "url": "https://open.spotify.com/track/0h9fnCSnbUgOEgibnQByFv"
+      "duration_ms": 248160,
+      "name": "Olalla",
+      "url": "https://open.spotify.com/track/4R59wt5nnhYo88PIu3cUIt"
     },
     {
       "added_at": "2023-10-26 21:59:00",
@@ -675,22 +691,6 @@
       "duration_ms": 212853,
       "name": "People Change",
       "url": "https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3"
-    },
-    {
-      "added_at": "2023-10-26 21:59:00",
-      "album": {
-        "name": "On the Other Side",
-        "url": "https://open.spotify.com/album/7ruII5ZslQNpw4viJv10yG"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 248160,
-      "name": "Olalla",
-      "url": "https://open.spotify.com/track/4R59wt5nnhYo88PIu3cUIt"
     },
     {
       "added_at": "2023-10-26 21:59:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-10-26 21:59:00",
       "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 228373,
+      "name": "Ink",
+      "url": "https://open.spotify.com/track/6c6W25YoDGjTq3qSPOga5t"
+    },
+    {
+      "added_at": "2023-10-26 21:59:00",
+      "album": {
         "name": "Best Part of Me (feat. YEBBA)",
         "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 243266,
       "name": "Best Part of Me (feat. YEBBA)",
       "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
-    },
-    {
-      "added_at": "2023-10-26 21:59:00",
-      "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 228373,
-      "name": "Ink",
-      "url": "https://open.spotify.com/track/6c6W25YoDGjTq3qSPOga5t"
     },
     {
       "added_at": "2023-10-26 21:59:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-10-26 21:59:00",
       "album": {
-        "name": "Oh My Messy Mind",
-        "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 225920,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD"
-    },
-    {
-      "added_at": "2023-10-26 21:59:00",
-      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2023-10-26 21:59:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli"
+        "name": "Oh My Messy Mind",
+        "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
       },
       "artists": [
         {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 151214,
-      "name": "La Tortura - Spotify Singles",
-      "url": "https://open.spotify.com/track/5WW6WJUxZsfHF7Na5wwE02"
+      "duration_ms": 225920,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD"
     },
     {
       "added_at": "2023-10-26 21:59:00",
@@ -1023,6 +1007,22 @@
       "duration_ms": 238666,
       "name": "Song For You",
       "url": "https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv"
+    },
+    {
+      "added_at": "2023-10-26 21:59:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 151214,
+      "name": "La Tortura - Spotify Singles",
+      "url": "https://open.spotify.com/track/5WW6WJUxZsfHF7Na5wwE02"
     },
     {
       "added_at": "2023-10-26 21:59:00",
@@ -1075,38 +1075,6 @@
     {
       "added_at": "2023-10-26 21:59:00",
       "album": {
-        "name": "The Good Witch",
-        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 179453,
-      "name": "Two Weeks Ago",
-      "url": "https://open.spotify.com/track/0bnUDXvwi2s8924tLTDg3K"
-    },
-    {
-      "added_at": "2023-10-26 21:59:00",
-      "album": {
-        "name": "you don't love me anymore",
-        "url": "https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 204398,
-      "name": "you don't love me anymore",
-      "url": "https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9"
-    },
-    {
-      "added_at": "2023-10-26 21:59:00",
-      "album": {
         "name": "Hopes And Fears (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6EBAeYn2YJvmXp6AkK18Mc"
       },
@@ -1135,6 +1103,38 @@
       "duration_ms": 223746,
       "name": "Paper Aeroplane",
       "url": "https://open.spotify.com/track/3XcvrvOCfSvK0mm6nOTw6d"
+    },
+    {
+      "added_at": "2023-10-26 21:59:00",
+      "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 179453,
+      "name": "Two Weeks Ago",
+      "url": "https://open.spotify.com/track/0bnUDXvwi2s8924tLTDg3K"
+    },
+    {
+      "added_at": "2023-10-26 21:59:00",
+      "album": {
+        "name": "you don't love me anymore",
+        "url": "https://open.spotify.com/album/2O5GUvgsw90TPr0ZkXyvRF"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 204398,
+      "name": "you don't love me anymore",
+      "url": "https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9"
     },
     {
       "added_at": "2023-10-26 21:59:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-10-26 21:59:00",
       "album": {
+        "name": "Marvin The Album - 21st Anniversary Edition",
+        "url": "https://open.spotify.com/album/6xiH0ZemrUXOxgR7xfLlIQ"
+      },
+      "artists": [
+        {
+          "name": "Frente!",
+          "url": "https://open.spotify.com/artist/2qgHV12WsnwzHZGUB9nd9U"
+        }
+      ],
+      "duration_ms": 119813,
+      "name": "Bizarre Love Triangle - 2014 Remaster",
+      "url": "https://open.spotify.com/track/7sgi66biRYpAXuRZJBDuli"
+    },
+    {
+      "added_at": "2023-10-26 21:59:00",
+      "album": {
         "name": "French Touch",
         "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2023-10-26 21:59:00",
       "album": {
-        "name": "Marvin The Album - 21st Anniversary Edition",
-        "url": "https://open.spotify.com/album/6xiH0ZemrUXOxgR7xfLlIQ"
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
       },
       "artists": [
         {
-          "name": "Frente!",
-          "url": "https://open.spotify.com/artist/2qgHV12WsnwzHZGUB9nd9U"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 119813,
-      "name": "Bizarre Love Triangle - 2014 Remaster",
-      "url": "https://open.spotify.com/track/7sgi66biRYpAXuRZJBDuli"
+      "duration_ms": 224813,
+      "name": "Need The Sun To Break",
+      "url": "https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV"
     },
     {
       "added_at": "2023-10-26 21:59:00",
@@ -1255,22 +1271,6 @@
       "duration_ms": 211935,
       "name": "So\u00f1\u00e9 Contigo",
       "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
-    },
-    {
-      "added_at": "2023-10-26 21:59:00",
-      "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 224813,
-      "name": "Need The Sun To Break",
-      "url": "https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV"
     },
     {
       "added_at": "2023-10-26 21:59:00",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2023-10-26 21:59:00",
       "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/6TzswGbJlD3UorEQoST3bc"
-      },
-      "artists": [
-        {
-          "name": "Pajaro Sunrise",
-          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
-        },
-        {
-          "name": "Yuri M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H"
-        }
-      ],
-      "duration_ms": 155048,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/4ksOH8hJAZJpqWzOJJ5fCV"
-    },
-    {
-      "added_at": "2023-10-26 21:59:00",
-      "album": {
         "name": "I Think I Like You",
         "url": "https://open.spotify.com/album/1uyTVHINj1D2BfyCid3L27"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 146471,
       "name": "I Think I Like You",
       "url": "https://open.spotify.com/track/2Rf33E2vpnJsIV5DpHCC6Y"
+    },
+    {
+      "added_at": "2023-10-26 21:59:00",
+      "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/6TzswGbJlD3UorEQoST3bc"
+      },
+      "artists": [
+        {
+          "name": "Pajaro Sunrise",
+          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
+        },
+        {
+          "name": "Yuri M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H"
+        }
+      ],
+      "duration_ms": 155048,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/4ksOH8hJAZJpqWzOJJ5fCV"
     },
     {
       "added_at": "2023-10-26 21:59:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-10-26 21:59:00",
       "album": {
+        "name": "hortel\u00e3",
+        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 289058,
+      "name": "just wanna forget you",
+      "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
+    },
+    {
+      "added_at": "2023-10-26 21:59:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
       },
@@ -1603,34 +1619,18 @@
     {
       "added_at": "2023-10-26 21:59:00",
       "album": {
-        "name": "hortel\u00e3",
-        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
+        "name": "Her Favorite Flowers",
+        "url": "https://open.spotify.com/album/3ZtwVDikRanGqN17IGpWgh"
       },
       "artists": [
         {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
         }
       ],
-      "duration_ms": 289058,
-      "name": "just wanna forget you",
-      "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
-    },
-    {
-      "added_at": "2023-10-26 21:59:00",
-      "album": {
-        "name": "Things I Chose To Remember",
-        "url": "https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "No Right To Love You - Acoustic",
-      "url": "https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo"
+      "duration_ms": 193242,
+      "name": "hold me, never let go",
+      "url": "https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j"
     },
     {
       "added_at": "2023-10-26 21:59:00",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2023-10-26 21:59:00",
       "album": {
-        "name": "Laurel & Sunset",
-        "url": "https://open.spotify.com/album/6HjqPv1wOvpoPzyINKwTf4"
+        "name": "Things I Chose To Remember",
+        "url": "https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF"
       },
       "artists": [
         {
-          "name": "The Sweet Remains",
-          "url": "https://open.spotify.com/artist/35HoDSeQMKnwC1f4sng0eK"
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
         }
       ],
-      "duration_ms": 237746,
-      "name": "Moving in Slow Motion",
-      "url": "https://open.spotify.com/track/1JzJFYOlNFISoz28z5t20x"
+      "duration_ms": 229960,
+      "name": "No Right To Love You - Acoustic",
+      "url": "https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo"
     }
   ],
   "unique_name": "Relax en casa",

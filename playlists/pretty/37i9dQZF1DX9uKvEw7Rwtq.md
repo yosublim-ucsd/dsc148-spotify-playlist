@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,887 likes - 100 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,967 likes - 100 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,21 +61,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 51 | [Peterson](https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [The American Dollar](https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF) | 3:19 |
 | 52 | [Love Is in Beauty and Chaos](https://open.spotify.com/track/1vztv9K1JVzRzTT1d98aPN) | [This Patch of Sky](https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf) | [This Patch of Sky](https://open.spotify.com/album/1SADIGwbbHfTihT6DryNQM) | 4:42 |
 | 53 | [Stairwell](https://open.spotify.com/track/51XigcN2Snfmb3g3yO9iBC) | [Seas of Years](https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS) | [Drifting Ever Shifting](https://open.spotify.com/album/14a7IkZVZw8536CFPBbSSb) | 5:08 |
-| 54 | [Meteor Shower](https://open.spotify.com/track/2hzgNLpTcKF81lhU6SJz4E) | [Alyas](https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S) | [Meteor Shower](https://open.spotify.com/album/14UMhTcpV3uhQoWzyOZ9GH) | 3:56 |
-| 55 | [Monastic](https://open.spotify.com/track/6hZtYl0fhKYJ3ptc6DiLnL) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour \(Redux\)](https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU) | 6:33 |
-| 56 | [Sailing to Byzantium](https://open.spotify.com/track/08DbQ8Nnd96hLiMMpioawQ) | [Aesthesys](https://open.spotify.com/artist/0wdc6cxY8GzxkrMHGXSuOn) | [Crossing the Shoreline](https://open.spotify.com/album/0oD1pHEnsTiJPRHt88X090) | 7:30 |
-| 57 | [Mystik](https://open.spotify.com/track/6HlZwaeJ51bkVTQICzKDKn) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Escape](https://open.spotify.com/album/3DpIliaV7VrcKNmf4DrgNd) | 2:26 |
+| 54 | [Monastic](https://open.spotify.com/track/6hZtYl0fhKYJ3ptc6DiLnL) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour \(Redux\)](https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU) | 6:33 |
+| 55 | [Meteor Shower](https://open.spotify.com/track/2hzgNLpTcKF81lhU6SJz4E) | [Alyas](https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S) | [Meteor Shower](https://open.spotify.com/album/14UMhTcpV3uhQoWzyOZ9GH) | 3:56 |
+| 56 | [Mystik](https://open.spotify.com/track/6HlZwaeJ51bkVTQICzKDKn) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Escape](https://open.spotify.com/album/3DpIliaV7VrcKNmf4DrgNd) | 2:26 |
+| 57 | [Sailing to Byzantium](https://open.spotify.com/track/08DbQ8Nnd96hLiMMpioawQ) | [Aesthesys](https://open.spotify.com/artist/0wdc6cxY8GzxkrMHGXSuOn) | [Crossing the Shoreline](https://open.spotify.com/album/0oD1pHEnsTiJPRHt88X090) | 7:30 |
 | 58 | [Dust Bowl](https://open.spotify.com/track/4fL6NIQ4BxZuxotGZWORgM) | [The Aquaerials](https://open.spotify.com/artist/4SSLrpx3uzgl5PYQLMzyFc) | [Dust Bowl](https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5) | 6:04 |
 | 59 | [Total Perspective Vortex](https://open.spotify.com/track/32OKcAVCcfhDgojrd7ZMSI) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1), [Adam Bryanbaum Wiltzie](https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf), [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Invisible Cities](https://open.spotify.com/album/5jZGc1A6FrsN8qssSxxTce) | 4:20 |
 | 60 | [Leaking Light](https://open.spotify.com/track/1u03aPhHVE5JM8U16842xB) | [Lachlan R\. Dale](https://open.spotify.com/artist/2RSfekOwEazZ2AzL0HB0t9) | [Leaking Light](https://open.spotify.com/album/5tqUNXVJ9xo3ygoSsmCBbG) | 2:54 |
 | 61 | [My Courtesan](https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Mockingbird Love](https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq) | 2:53 |
-| 62 | [Abschied](https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy) | [Ausklang](https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z) | [Chronos](https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn) | 5:55 |
-| 63 | [Sleeper](https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws) | [Pray for Sound](https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx) | [Dreamer](https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu) | 5:32 |
-| 64 | [Shelter from the Rain](https://open.spotify.com/track/54CKr6JUVSrFYbCWCvJqUs) | [The Gentleman Losers](https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17) | [Make We Here Our Camp of Winter](https://open.spotify.com/album/3kFeiTzNEZG1w6Yy25K2xR) | 4:03 |
-| 65 | [I Would Stare into the Sun with You Forever](https://open.spotify.com/track/4KS0VLY87D2eHBhuvYoUDc) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Love in the Void](https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX) | 6:32 |
-| 66 | [Enfold](https://open.spotify.com/track/28NPBeo0MgVDYCJnu2C5Hq) | [Soars](https://open.spotify.com/artist/7iLGqGUSoPQtj8OH61HFwZ) | [Enfold](https://open.spotify.com/album/3URn9GW2uXY7mTXLXs89oS) | 3:46 |
-| 67 | [Dragoon](https://open.spotify.com/track/6LGFTYASAcu8YMCcAwRG2g) | [Amparo](https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf) | [Dragoon](https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp) | 3:03 |
-| 68 | [Those Winter Sundays](https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me) | [Have a Cigar](https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H) | [Those Winter Sundays](https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP) | 3:49 |
+| 62 | [Enfold](https://open.spotify.com/track/28NPBeo0MgVDYCJnu2C5Hq) | [Soars](https://open.spotify.com/artist/7iLGqGUSoPQtj8OH61HFwZ) | [Enfold](https://open.spotify.com/album/3URn9GW2uXY7mTXLXs89oS) | 3:46 |
+| 63 | [Shelter from the Rain](https://open.spotify.com/track/54CKr6JUVSrFYbCWCvJqUs) | [The Gentleman Losers](https://open.spotify.com/artist/7e8rT9wPUmfu9ZPC8Mym17) | [Make We Here Our Camp of Winter](https://open.spotify.com/album/3kFeiTzNEZG1w6Yy25K2xR) | 4:03 |
+| 64 | [Sleeper](https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws) | [Pray for Sound](https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx) | [Dreamer](https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu) | 5:32 |
+| 65 | [Abschied](https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy) | [Ausklang](https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z) | [Chronos](https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn) | 5:55 |
+| 66 | [I Would Stare into the Sun with You Forever](https://open.spotify.com/track/4KS0VLY87D2eHBhuvYoUDc) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Love in the Void](https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX) | 6:32 |
+| 67 | [Those Winter Sundays](https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me) | [Have a Cigar](https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H) | [Those Winter Sundays](https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP) | 3:49 |
+| 68 | [Dragoon](https://open.spotify.com/track/6LGFTYASAcu8YMCcAwRG2g) | [Amparo](https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf) | [Dragoon](https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp) | 3:03 |
 | 69 | [In Gardens](https://open.spotify.com/track/104iLe9xEka0rgjZYrvZsa) | [HOLM](https://open.spotify.com/artist/1V45eg22S9YuA3rdgVPXKt) | [In Gardens](https://open.spotify.com/album/354ugiF6zocDzbvq5jgSGm) | 5:23 |
 | 70 | [Forever Rain](https://open.spotify.com/track/5eLUHTUUnkiIrDE3TgtgjA) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [Beautiful Illusions](https://open.spotify.com/album/7lpRgODu2tRCkiDIUNV0Wc) | 5:34 |
 | 71 | [Keep The Orange Sun](https://open.spotify.com/track/40rVSnon5rqxnNbZoyMwWG) | [awakened souls](https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU), [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV) | [Keep The Orange Sun](https://open.spotify.com/album/6MLLMv5uFphvY2eXVEHB4X) | 4:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 99 | [Secret Colours](https://open.spotify.com/track/1NMCxRadb4KO7Kjosst5lA) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB), [deer meadow](https://open.spotify.com/artist/7IjTtPufpIvS5zpffa9FXr) | [In a Sad Red Dusk, We Were Finally Leaving](https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR) | 5:18 |
 | 100 | [Barren](https://open.spotify.com/track/7kzMC5fRkZQjjF5jeW02HE) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [Barren](https://open.spotify.com/album/1wLiK2y7Ahf0p4gzmY5oZN) | 10:16 |
 
-Snapshot ID: `MCwzZWIzMmE0NTA2OTY2MTA3NzliNTljNmE5YTM3MjI2MjY4ODAxYjIy`
+Snapshot ID: `MCwzZWYwODc1MDRmZjljMGZkOGYyY2QwYjczYWY3Y2Q2YmE4ODkxNjEw`

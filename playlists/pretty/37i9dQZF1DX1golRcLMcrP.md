@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1golRcLMcrP.md) - [plain]
 
 > Listen to the soundtracks of the Castaway Diva\. \(무인도의 디바 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,394 likes - 48 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,507 likes - 48 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1golRcLMcrP.md) - [plain]
 | 6 | [Night and Day \(Acoustic Ver\)](https://open.spotify.com/track/3TyUUpKmsJ6bqtPT4g5dOF) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [CASTAWAY DIVA OST SEO MOK HA \(PARK EUN BIN\) Vol.2](https://open.spotify.com/album/1T93wAxZlZwzUUTlNpEmq0) | 3:21 |
 | 7 | [Night and Day \(Contest Ver\)](https://open.spotify.com/track/0lwW5qHH7S6XfxYEKScVoe) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [CASTAWAY DIVA OST SEO MOK HA \(PARK EUN BIN\) Vol.2](https://open.spotify.com/album/1T93wAxZlZwzUUTlNpEmq0) | 3:46 |
 | 8 | [Night and Day](https://open.spotify.com/track/37x2x6UQfUcvbM8NVHRngO) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [CASTAWAY DIVA OST Part.4](https://open.spotify.com/album/3MN6ZyB8yfxdfDtAHQ2LNF) | 3:01 |
-| 9 | [ICARUS](https://open.spotify.com/track/6F3JheiZtQnzGfjbAocreQ) | [DINO \(SEVENTEEN\)](https://open.spotify.com/artist/5YaeXxzvqGNBCguELlKo6G) | [CASTAWAY DIVA OST Part.3](https://open.spotify.com/album/0QIzWo1Ly5l26INuULPO6Z) | 3:31 |
+| 9 | [ICARUS](https://open.spotify.com/track/6F3JheiZtQnzGfjbAocreQ) | [DINO](https://open.spotify.com/artist/5YaeXxzvqGNBCguELlKo6G) | [CASTAWAY DIVA OST Part.3](https://open.spotify.com/album/0QIzWo1Ly5l26INuULPO6Z) | 3:31 |
 | 10 | [Someday](https://open.spotify.com/track/3uZxAOpw6ZjMT36GrxqDoK) | [Park Eunbin](https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP) | [CASTAWAY DIVA OST SEO MOK HA \(PARK EUN BIN\) Vol.1](https://open.spotify.com/album/3IJEj5V5TA7Dbz0LpE7nhJ) | 3:52 |
 | 11 | [Butterfly](https://open.spotify.com/track/7kAs2Dw6ymVkriLrbjtGDD) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [CASTAWAY DIVA OST Part.2](https://open.spotify.com/album/2BNNCPXXFjTBBbRYfHJ4ix) | 4:07 |
 | 12 | [Rest](https://open.spotify.com/track/6a2cutO8pmtSA9atoH041j) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [CASTAWAY DIVA OST Part.1](https://open.spotify.com/album/1tWQWkixw1RM7fqRONLMU6) | 3:40 |
 | 13 | [My Days \(Inst.\)](https://open.spotify.com/track/1HzNevFrx0No5FdtshcVDB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [CASTAWAY DIVA OST Part.6](https://open.spotify.com/album/5hL2T779HTraXkK9393LCA) | 3:27 |
 | 14 | [We are \(Inst.\)](https://open.spotify.com/track/3BcuKOI95PKAuBLP2EXnAj) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [CASTAWAY DIVA OST Part.5](https://open.spotify.com/album/76PcyLQsYqziDN1tdw0mjt) | 3:15 |
-| 15 | [ICARUS \(Inst.\)](https://open.spotify.com/track/47DASVFyegev3sT21EbV9c) | [DINO \(SEVENTEEN\)](https://open.spotify.com/artist/5YaeXxzvqGNBCguELlKo6G) | [CASTAWAY DIVA OST Part.3](https://open.spotify.com/album/0QIzWo1Ly5l26INuULPO6Z) | 3:31 |
+| 15 | [ICARUS \(Inst.\)](https://open.spotify.com/track/47DASVFyegev3sT21EbV9c) | [DINO](https://open.spotify.com/artist/5YaeXxzvqGNBCguELlKo6G) | [CASTAWAY DIVA OST Part.3](https://open.spotify.com/album/0QIzWo1Ly5l26INuULPO6Z) | 3:31 |
 | 16 | [Butterfly \(Inst.\)](https://open.spotify.com/track/08zV3QMrjLEpCfrvKlk4jn) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [CASTAWAY DIVA OST Part.2](https://open.spotify.com/album/2BNNCPXXFjTBBbRYfHJ4ix) | 4:07 |
 | 17 | [Rest \(Inst.\)](https://open.spotify.com/track/652CEApT97GNb3Q4EYxe3F) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [CASTAWAY DIVA OST Part.1](https://open.spotify.com/album/1tWQWkixw1RM7fqRONLMU6) | 3:40 |
 | 18 | [Night and Day \(Inst.\)](https://open.spotify.com/track/1LbYPBhiYtJHxBN9Uuz5BV) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [CASTAWAY DIVA OST Part.4](https://open.spotify.com/album/3MN6ZyB8yfxdfDtAHQ2LNF) | 3:01 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1golRcLMcrP.md) - [plain]
 | 47 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 |
 | 48 | [We Belong Together](https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:21 |
 
-Snapshot ID: `MCxkMzgxMTJiZGVmMWEzYTY3ZTFkNzEyNDA5NGNiNDIzMzg2M2VkMjdl`
+Snapshot ID: `MCw3YThmMDMxNTIyM2E4MzdlMzU2Nzk5YWNlNzdiZDFlMTJjNWM3ZmZm`

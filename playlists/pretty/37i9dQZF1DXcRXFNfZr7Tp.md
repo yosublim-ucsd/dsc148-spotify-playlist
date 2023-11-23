@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,854,508 likes - 97 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,856,144 likes - 97 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 | 96 | [Call Your Name](https://open.spotify.com/track/7FyqTJJ8bdFVpNMoMNQbXA) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Call Your Name](https://open.spotify.com/album/3uq11p3soNrPDKFOUFwebO) | 2:50 |
 | 97 | [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 |
 
-Snapshot ID: `MCw0NzY4ZmJjNDMyZDVjYjJiNDgxNzBlOTVkMDFjZDczNjc3N2ZkMmU3`
+Snapshot ID: `MCwyZDhiMDFjNDc1ZTRiOWI5Y2Q1Mzk3YzNkN2UyMzcyMjA5Yjk5NTUz`

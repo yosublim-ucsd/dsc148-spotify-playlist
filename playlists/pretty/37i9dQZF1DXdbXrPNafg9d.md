@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: The Smile
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,280,373 likes - 174 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,280,615 likes - 174 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 173 | [Little Ghost](https://open.spotify.com/track/0qnE2zGsoGm0GaWEYvMUUi) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Demon Compass](https://open.spotify.com/album/61jBwWqfPNkDDHUtgKHRax) | 3:44 |
 | 174 | [Do You](https://open.spotify.com/track/7Haly3Tx3loiBLjxX0XPXO) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [I Get Into Trouble](https://open.spotify.com/album/5YjuYOxqBr5RPuXq6XB2VT) | 4:08 |
 
-Snapshot ID: `MCwxNTNhYjBlYjg0MzA3NGUyMDc1NGQyMThmMTZjNzNiYzg5MjJmNmRj`
+Snapshot ID: `MCwzZjA3Y2Q3MDQ2MGRmYWU4MDA1MTU4YzYxZWJkN2I1MDczZGJmOTE2`

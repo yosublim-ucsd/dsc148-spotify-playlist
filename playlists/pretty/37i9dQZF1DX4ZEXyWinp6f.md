@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,932 likes - 75 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,975 likes - 75 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 48 | [Vision](https://open.spotify.com/track/2zVr2mii2iTDTag39yjf3b) | [Pyramid](https://open.spotify.com/artist/3aSTe6gzR3XChH1wcLfhmD) | [Atmosphere](https://open.spotify.com/album/1Qefhd4hwDiSjtooxAjdhM) | 3:10 |
 | 49 | [\-\- ・ \-・・ ・ ・\-・・ ・\-](https://open.spotify.com/track/4akqPnWyCOWL0QNxQsXsNk) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [\-\- ・ \-・・ ・ ・\-・・ ・\-](https://open.spotify.com/album/1NogWso5ElfJe4n8qKSdy9) | 8:44 |
 | 50 | [Hollow Earth](https://open.spotify.com/track/4e09seMli7tAi2UcXy5lkm) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [Hollow Earth](https://open.spotify.com/album/7fsM6k4wFansul9lF5QeTG) | 5:11 |
-| 51 | [Pressure](https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [Lost Album](https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv) | 9:36 |
-| 52 | [you're not alone](https://open.spotify.com/track/3BDNaH01PE6gJ9LwNe97Ya) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [you're not alone](https://open.spotify.com/album/6FsgtZ55Th99hbLori1oW0) | 2:52 |
+| 51 | [you're not alone](https://open.spotify.com/track/3BDNaH01PE6gJ9LwNe97Ya) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [you're not alone](https://open.spotify.com/album/6FsgtZ55Th99hbLori1oW0) | 2:52 |
+| 52 | [Pressure](https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [Lost Album](https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv) | 9:36 |
 | 53 | [Iniziare](https://open.spotify.com/track/4SgUoGv3RlcMF4Vpm0Jp5i) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Iniziare](https://open.spotify.com/album/0slaiqzIOB4yT6UlSPdC8S) | 5:42 |
 | 54 | [Wind On Water](https://open.spotify.com/track/3PpLfTKoQtN2s2GPmrSrWt) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 5:29 |
 | 55 | [Into the Aether](https://open.spotify.com/track/4lsf0XeoCZ6prJ87TwibO2) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Astrosat](https://open.spotify.com/album/48gGsyx07SAITVjkbyFZED) | 4:55 |
@@ -70,18 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 60 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 |
 | 61 | [Pluto's First Popstar \(Outro\)](https://open.spotify.com/track/5MeaFcLEcsSkcud6tQ2q9L) | [Eli Raybon](https://open.spotify.com/artist/1P6Xty8gqi0gNcqwt2R8Vq) | [Supertoys](https://open.spotify.com/album/50DNnceylCFUrQv5pmjYxm) | 2:28 |
 | 62 | [Subtractive Skies](https://open.spotify.com/track/3ehy5UoF8LJfWmJpm4UHOI) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Nonlin](https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn) | 6:46 |
-| 63 | [Is This Power](https://open.spotify.com/track/0Q70gojAQn9mTAdY15tWzM) | [The Field](https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS) | [Looping State Of Mind](https://open.spotify.com/album/6h1LdVhHDirAXwgDFftCL0) | 8:39 |
-| 64 | [Detroit People Mover](https://open.spotify.com/track/2g8v1yWbbFM6Gb7FLyJrgu) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Be Up A Hello](https://open.spotify.com/album/0dPj5xfT7jv9XxRhPbfGuH) | 4:26 |
-| 65 | [The Runaround](https://open.spotify.com/track/7uapTtBbij6ydhnU7BaerU) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Lowell Brams](https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4) | [Aporia](https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU) | 3:35 |
-| 66 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 |
+| 63 | [Detroit People Mover](https://open.spotify.com/track/2g8v1yWbbFM6Gb7FLyJrgu) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Be Up A Hello](https://open.spotify.com/album/0dPj5xfT7jv9XxRhPbfGuH) | 4:26 |
+| 64 | [Is This Power](https://open.spotify.com/track/0Q70gojAQn9mTAdY15tWzM) | [The Field](https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS) | [Looping State Of Mind](https://open.spotify.com/album/6h1LdVhHDirAXwgDFftCL0) | 8:39 |
+| 65 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 |
+| 66 | [The Runaround](https://open.spotify.com/track/7uapTtBbij6ydhnU7BaerU) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Lowell Brams](https://open.spotify.com/artist/1hCuN7zeXgcoLq6Ys1UOe4) | [Aporia](https://open.spotify.com/album/1juVCzBeCE5Nzx0iqXZ8kU) | 3:35 |
 | 67 | [Mono No Aware 1.1](https://open.spotify.com/track/6iGNMNHHbsdSh0f14q3jcS) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Selva Oscura](https://open.spotify.com/album/1BbS1N3W9MnpKuiAn26tSo) | 5:39 |
 | 68 | [Dead Skin Cells](https://open.spotify.com/track/27W7GHUgfezHQ8krRZUfeX) | [The Future Sound Of London](https://open.spotify.com/artist/2qhmNI4ZHPpeDutdg473Z3) | [Lifeforms](https://open.spotify.com/album/0UcHfoo7KMso767JwePBMh) | 6:50 |
-| 69 | [Dietrofront](https://open.spotify.com/track/7BsVebGCG6XsIhzEzS45hl) | [Matteo Vallicelli](https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Esc](https://open.spotify.com/album/6bcV6kB4szpro5Odp4CcO0) | 6:17 |
-| 70 | [Illusion Of Time](https://open.spotify.com/track/02svSerh4F5X5Fn3rdnd93) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/60zljcyghRa4eCzf8nxeJU) | 4:22 |
+| 69 | [Illusion Of Time](https://open.spotify.com/track/02svSerh4F5X5Fn3rdnd93) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/60zljcyghRa4eCzf8nxeJU) | 4:22 |
+| 70 | [Dietrofront](https://open.spotify.com/track/7BsVebGCG6XsIhzEzS45hl) | [Matteo Vallicelli](https://open.spotify.com/artist/21rQDMeCpg6ajDDdEbk1OL), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Esc](https://open.spotify.com/album/6bcV6kB4szpro5Odp4CcO0) | 6:17 |
 | 71 | [The Girl with the Sun in Her Head](https://open.spotify.com/track/2lbQIq3wQTZvdWnqL2e3Zp) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [In Sides](https://open.spotify.com/album/1wXyzUmlgN6G1DXIY0Sh8l) | 10:27 |
 | 72 | [Los Angeles](https://open.spotify.com/track/0zY2EvOMhmQEF2unzzfqqz) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [I Can Hear the Birds](https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1) | 2:55 |
 | 73 | [Barcarolle](https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW) | [Saloli](https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj) | [The Deep End](https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm) | 4:42 |
 | 74 | [Survivor](https://open.spotify.com/track/413Iz32UCzyMh7AAPdUtLB) | [Klaus Weiss](https://open.spotify.com/artist/0KPSMJaJZl9IpAIVsXkrDz) | [Time Signals](https://open.spotify.com/album/6KwO3tSkwEzoknDeb8ABwS) | 2:43 |
 | 75 | [The First Wave \- Birth Of Venus](https://open.spotify.com/track/6wG4izwDQdTxkpBEB6CRlk) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Seven Waves](https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3) | 5:04 |
 
-Snapshot ID: `MCxmNjY2YjRjMTg3NjhhODk3MmY0Mzc3MDRjMjIwOGIyYWQ1MjM3YmEz`
+Snapshot ID: `MCxjNjIwZjM5MDg0NmE4NzBmMmZiNWE0YmI0ZDA4MmE2MjBiZTc3YWE1`

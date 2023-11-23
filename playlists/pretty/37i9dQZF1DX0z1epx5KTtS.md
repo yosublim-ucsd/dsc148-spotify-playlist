@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Obam's
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,409 likes - 40 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,451 likes - 40 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Gnonmi Avec Lait \- Remix](https://open.spotify.com/track/3QnS0A9QgUik2KThVN0TQf) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL), [Magic Diezel](https://open.spotify.com/artist/6rZ6trCuPYGDWkwuWWDnwa) | [Gnonmi Avec Lait \(Remix\)](https://open.spotify.com/album/2ddu9tzfA9yX18TXIbahkx) | 3:51 |
 | 40 | [Papa arrive](https://open.spotify.com/track/1623sw26SCie7IvE1yUKCp) | [Apoutchou National](https://open.spotify.com/artist/7kHgJvT9eOCLwXr4xPIRnC), [Ks Bloom](https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp) | [Lumière](https://open.spotify.com/album/6DbZeMqndcEBZiJT65WbbI) | 2:56 |
 
-Snapshot ID: `MCxhOGFkZWMyOGU2YTliZjMwNjliNWM5ZDZmNjUxNzM0NDNmOGZkYWQ3`
+Snapshot ID: `MCw3MzlkYjI5OTAwY2FmOWI0MjM1MWQ4Yjc0ZjM4MzA0NWM0M2NhODli`

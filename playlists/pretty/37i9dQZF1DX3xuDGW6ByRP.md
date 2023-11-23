@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 
 > as novas de pop rock br / Foto: DAY LIMNS
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,560 likes - 90 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,607 likes - 90 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [KÁLICE](https://open.spotify.com/track/2XaMdvOBES7VhroymOTQzg) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [VÊNUS≠netuno](https://open.spotify.com/album/5T2KhsmSyj6UvXehTNFLg8) | 2:53 |
 | 2 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 |
-| 3 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 |
+| 3 | [VALENTINE](https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:36 |
 | 4 | [WHAT JUST HAPPENED](https://open.spotify.com/track/2djNsYsA71cIs4A8YaF59J) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [WHAT JUST HAPPENED](https://open.spotify.com/album/5cFhETbBm8L6tybXY4AZSj) | 2:42 |
 | 5 | [Crazy Again](https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Crazy Again](https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK) | 3:17 |
 | 6 | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV) | 3:24 |
 | 7 | [This Is Why](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:26 |
 | 8 | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Fake As Hell \(with Avril Lavigne\)](https://open.spotify.com/album/39fNnKFUvJIyEyItTOoc9Z) | 2:59 |
-| 9 | [VALENTINE](https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:36 |
+| 9 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 |
 | 10 | [Die 4 Me](https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Die 4 Me](https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz) | 3:35 |
 | 11 | [Bite Me](https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:39 |
 | 12 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 54 | [Último Clichê](https://open.spotify.com/track/3n3aZ903Y3TjQseFJTOFin) | [Cine](https://open.spotify.com/artist/4MZmexF6g7Kk5nWAP8f5Zr) | [Último Clichê](https://open.spotify.com/album/6OhFYkE3KeUM6zRlhCE8vE) | 2:49 |
 | 55 | [MINHA RELIGIÃO](https://open.spotify.com/track/4sYeYCVsVIphRn8F1C27s4) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [MINHA RELIGIÃO](https://open.spotify.com/album/2pIHcNnoZyzf0eLWIlT3u9) | 2:33 |
 | 56 | [LSD](https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Reviravolta](https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo) | 3:25 |
-| 57 | [não me importo mais](https://open.spotify.com/track/2bYdCw0rlPBI404BQXTXUn) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [não me importo mais](https://open.spotify.com/album/741ZgcZ2POqxmqoHYAUxYG) | 2:36 |
-| 58 | [Dona da Minha Cabeça](https://open.spotify.com/track/0a5bmaUCdiDzYMlebzehDV) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj), [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj) | [Dona da Minha Cabeça](https://open.spotify.com/album/1yFXVOVzl7frsvybze8Zil) | 3:55 |
+| 57 | [Dona da Minha Cabeça](https://open.spotify.com/track/0a5bmaUCdiDzYMlebzehDV) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj), [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj) | [Dona da Minha Cabeça](https://open.spotify.com/album/1yFXVOVzl7frsvybze8Zil) | 3:55 |
+| 58 | [não me importo mais](https://open.spotify.com/track/2bYdCw0rlPBI404BQXTXUn) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [não me importo mais](https://open.spotify.com/album/741ZgcZ2POqxmqoHYAUxYG) | 2:36 |
 | 59 | [DUBLÊ](https://open.spotify.com/track/2P4Nbb8Gf5TX2JyBu0kuIY) | [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [DUBLÊ](https://open.spotify.com/album/21nz8HbPqUOCkPRXbpH5jJ) | 2:58 |
 | 60 | [ANTISSOCIAL](https://open.spotify.com/track/5vkLsYCrNiD56XifYnIBo9) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [ANTISSOCIAL](https://open.spotify.com/album/3VQBBPFAWLwpMtiEurj5sW) | 2:26 |
 | 61 | [ponto de vista](https://open.spotify.com/track/0NfqR1Kf2opCwXPaNVouRY) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [ponto de vista](https://open.spotify.com/album/0nD3dR5hkxS3g1DyCATB9U) | 3:26 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 89 | [Modo Avião](https://open.spotify.com/track/4ySYEyfeDzgnWLosAGlLQ6) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [Modo Avião](https://open.spotify.com/album/7wht9U41LSGB2ni7dR9mek) | 2:55 |
 | 90 | [Castelo De Areia](https://open.spotify.com/track/3KqYVVEQL5g5bhIV1rr8vV) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Bullet Bane](https://open.spotify.com/artist/78B9QufospnmmneH4UbHK0) | [Castelo De Areia](https://open.spotify.com/album/4cH0cWRb9RsTZWO7v7gu1S) | 2:56 |
 
-Snapshot ID: `MCw3N2E5OTgzMDUwYTQ5NWE3MDA5ZGFkNWFlNmM5ZWRjYzAwY2NlNzc5`
+Snapshot ID: `MCwwNzFhYzE1ZTlmMDAyZjY2N2Q4MWVjNGE0NDFjNmM3MGYyNWE2NDIw`

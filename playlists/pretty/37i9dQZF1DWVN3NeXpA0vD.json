@@ -1,12 +1,12 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 26382,
+  "num_followers": 26381,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGU1NTczY2E2ZTAwOTYwMjlhNGE4OGU5OWQ1MjIyZmM3ZTY3MzBk",
+  "snapshot_id": "MCwzZDQ5ODM5MGZjNDE2NDgyMzE2MWNjNGE3N2RmZjgyNGU0ZGIyYTQz",
   "tracks": [
     {
       "added_at": "2023-03-10 17:59:10",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 214720,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
         "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
         "url": "https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 163804,
       "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
       "url": "https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Saturday Sun",
-      "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1087,6 +1087,42 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
+        "name": "Pacifico",
+        "url": "https://open.spotify.com/album/5HoTuFtFZuqihC7z5zz3uB"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 213842,
+      "name": "Wave of You",
+      "url": "https://open.spotify.com/track/0GYjlsMiLhspkDFB6y7HDU"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
+        "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
+        "url": "https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 215315,
+      "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
+      "url": "https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
         "name": "Instagram",
         "url": "https://open.spotify.com/album/7FTzcNdsKhMe53orWXsai8"
       },
@@ -1123,42 +1159,6 @@
       "duration_ms": 184558,
       "name": "Instagram",
       "url": "https://open.spotify.com/track/0U6bQIAh6MCGo1xjbIIx2S"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
-        "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
-        "url": "https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 215315,
-      "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
-      "url": "https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
-        "name": "Pacifico",
-        "url": "https://open.spotify.com/album/5HoTuFtFZuqihC7z5zz3uB"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 213842,
-      "name": "Wave of You",
-      "url": "https://open.spotify.com/track/0GYjlsMiLhspkDFB6y7HDU"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1383,22 +1383,18 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Famoso",
-        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
+        "name": "Mixer",
+        "url": "https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn"
       },
       "artists": [
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 193554,
-      "name": "Baby (with J Balvin)",
-      "url": "https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5"
+      "duration_ms": 192823,
+      "name": "Mixer",
+      "url": "https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1423,18 +1419,22 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "Mixer",
-        "url": "https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn"
+        "name": "Famoso",
+        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
       },
       "artists": [
         {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 192823,
-      "name": "Mixer",
-      "url": "https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V"
+      "duration_ms": 193554,
+      "name": "Baby (with J Balvin)",
+      "url": "https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5"
     },
     {
       "added_at": "2023-03-10 17:59:10",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2023-03-10 17:59:10",
       "album": {
-        "name": "West Coast (feat. Quinn XCII)",
-        "url": "https://open.spotify.com/album/0tpXPxodrY4gC6cPWAuuoJ"
-      },
-      "artists": [
-        {
-          "name": "DVBBS",
-          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
-        },
-        {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
-        }
-      ],
-      "duration_ms": 150819,
-      "name": "West Coast (feat. Quinn XCII)",
-      "url": "https://open.spotify.com/track/4fCE1SCDulouoac9Q8XroU"
-    },
-    {
-      "added_at": "2023-03-10 17:59:10",
-      "album": {
         "name": "Church (feat. EARTHGANG)",
         "url": "https://open.spotify.com/album/1jAJCdLpq8lMwN7oTPRCQN"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 228117,
       "name": "Church (feat. EARTHGANG)",
       "url": "https://open.spotify.com/track/1T37rmthd8KPcRPcD5Tm7u"
+    },
+    {
+      "added_at": "2023-03-10 17:59:10",
+      "album": {
+        "name": "West Coast (feat. Quinn XCII)",
+        "url": "https://open.spotify.com/album/0tpXPxodrY4gC6cPWAuuoJ"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "duration_ms": 150819,
+      "name": "West Coast (feat. Quinn XCII)",
+      "url": "https://open.spotify.com/track/4fCE1SCDulouoac9Q8XroU"
     }
   ],
   "unique_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",

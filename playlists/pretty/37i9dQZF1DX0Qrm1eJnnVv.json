@@ -1,12 +1,12 @@
 {
   "description": "Solo piano recordings of classic rags",
-  "num_followers": 4474,
+  "num_followers": 4481,
   "original_name": "Ragtime Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzdlNDIyMTllNmM3ZmY3ZTNhYzU3OGEyZDE0NzYzN2M2OTkwMmEz",
+  "snapshot_id": "MCxmOWQ1N2M5NGI2ZWE3YjA5MGM3NzZiYzJiZjdjMWM1NTUwMjUwYjU3",
   "tracks": [
     {
       "added_at": "2020-08-19 17:18:36",
@@ -45,22 +45,6 @@
       "url": "https://open.spotify.com/track/5dSayG6yo6erxGYIiZPEhN"
     },
     {
-      "added_at": "2022-03-28 20:25:43",
-      "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/3c3KuxBqiBX4fmHYV7sit5"
-      },
-      "artists": [
-        {
-          "name": "Tom Brier",
-          "url": "https://open.spotify.com/artist/1MS1jbrxtz1iQg1Gl0z7kL"
-        }
-      ],
-      "duration_ms": 170880,
-      "name": "That American Rag",
-      "url": "https://open.spotify.com/track/1PayBvFJAeaQl6PcHRu7H0"
-    },
-    {
       "added_at": "2020-08-19 17:18:36",
       "album": {
         "name": "The Best Of Scott Joplin",
@@ -75,6 +59,22 @@
       "duration_ms": 154573,
       "name": "St. Louis Rag",
       "url": "https://open.spotify.com/track/58NvSG4gwrmAfoXedtU7YK"
+    },
+    {
+      "added_at": "2022-03-28 20:25:43",
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/3c3KuxBqiBX4fmHYV7sit5"
+      },
+      "artists": [
+        {
+          "name": "Tom Brier",
+          "url": "https://open.spotify.com/artist/1MS1jbrxtz1iQg1Gl0z7kL"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "That American Rag",
+      "url": "https://open.spotify.com/track/1PayBvFJAeaQl6PcHRu7H0"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -147,22 +147,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "The World Of Scott Joplin",
-        "url": "https://open.spotify.com/album/5hg3Km0IQSIa8I1Q8YB2Pl"
-      },
-      "artists": [
-        {
-          "name": "Max Morath",
-          "url": "https://open.spotify.com/artist/34Mreq5fPf8HWbVhNFTJIF"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Top Liner Rag",
-      "url": "https://open.spotify.com/track/3wQVZKxvSnaSiBaNFX80Od"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "The Piano Rolls, Volume Two",
         "url": "https://open.spotify.com/album/5m3U1X9I0oltjme3PeFTlq"
       },
@@ -195,18 +179,34 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Ragtime",
-        "url": "https://open.spotify.com/album/0UNeYC6icoR0UbvUZD7JYs"
+        "name": "The World Of Scott Joplin",
+        "url": "https://open.spotify.com/album/5hg3Km0IQSIa8I1Q8YB2Pl"
       },
       "artists": [
         {
-          "name": "William Ogmundson",
-          "url": "https://open.spotify.com/artist/5uDWJuVykK2j91dsIItMhG"
+          "name": "Max Morath",
+          "url": "https://open.spotify.com/artist/34Mreq5fPf8HWbVhNFTJIF"
         }
       ],
-      "duration_ms": 215133,
-      "name": "Ragtime Nightingale",
-      "url": "https://open.spotify.com/track/6JwN8CvXOJXFMm4pHdx4qX"
+      "duration_ms": 233000,
+      "name": "Top Liner Rag",
+      "url": "https://open.spotify.com/track/3wQVZKxvSnaSiBaNFX80Od"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Ragtime Bolling & Boogie (Enregistrements de 1977 & 2003)",
+        "url": "https://open.spotify.com/album/5Qmz1rdGfyQgpJ16Fvy4rz"
+      },
+      "artists": [
+        {
+          "name": "Claude Bolling",
+          "url": "https://open.spotify.com/artist/17YFYixTwkosluOZZJWhjb"
+        }
+      ],
+      "duration_ms": 197720,
+      "name": "Gladiolus Rag",
+      "url": "https://open.spotify.com/track/1k2cULxRVikKYA97BCcg7F"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -227,18 +227,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Ragtime Bolling & Boogie (Enregistrements de 1977 & 2003)",
-        "url": "https://open.spotify.com/album/5Qmz1rdGfyQgpJ16Fvy4rz"
+        "name": "Ragtime",
+        "url": "https://open.spotify.com/album/0UNeYC6icoR0UbvUZD7JYs"
       },
       "artists": [
         {
-          "name": "Claude Bolling",
-          "url": "https://open.spotify.com/artist/17YFYixTwkosluOZZJWhjb"
+          "name": "William Ogmundson",
+          "url": "https://open.spotify.com/artist/5uDWJuVykK2j91dsIItMhG"
         }
       ],
-      "duration_ms": 197720,
-      "name": "Gladiolus Rag",
-      "url": "https://open.spotify.com/track/1k2cULxRVikKYA97BCcg7F"
+      "duration_ms": 215133,
+      "name": "Ragtime Nightingale",
+      "url": "https://open.spotify.com/track/6JwN8CvXOJXFMm4pHdx4qX"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -647,18 +647,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "The St Louis Rag",
-        "url": "https://open.spotify.com/album/2O2dCZZvsoG97DRpiLG2cv"
+        "name": "Charleston Rag",
+        "url": "https://open.spotify.com/album/47f969oRBPbmRfS6jdVXQE"
       },
       "artists": [
         {
-          "name": "Waldham Ragtime Pianos",
-          "url": "https://open.spotify.com/artist/0494lwWXTnzzYxlGM8czb5"
+          "name": "Morten Gunnar Larsen",
+          "url": "https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI"
         }
       ],
-      "duration_ms": 222013,
-      "name": "Champagne Rag",
-      "url": "https://open.spotify.com/track/0KjbuADnLw2I0TPg7xCj5f"
+      "duration_ms": 186671,
+      "name": "Peace and Plenty Rag",
+      "url": "https://open.spotify.com/track/7G3GHUoDuOBoTrHP04VMDj"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -679,18 +679,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Charleston Rag",
-        "url": "https://open.spotify.com/album/47f969oRBPbmRfS6jdVXQE"
+        "name": "The St Louis Rag",
+        "url": "https://open.spotify.com/album/2O2dCZZvsoG97DRpiLG2cv"
       },
       "artists": [
         {
-          "name": "Morten Gunnar Larsen",
-          "url": "https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI"
+          "name": "Waldham Ragtime Pianos",
+          "url": "https://open.spotify.com/artist/0494lwWXTnzzYxlGM8czb5"
         }
       ],
-      "duration_ms": 186671,
-      "name": "Peace and Plenty Rag",
-      "url": "https://open.spotify.com/track/7G3GHUoDuOBoTrHP04VMDj"
+      "duration_ms": 222013,
+      "name": "Champagne Rag",
+      "url": "https://open.spotify.com/track/0KjbuADnLw2I0TPg7xCj5f"
     },
     {
       "added_at": "2020-08-19 17:18:36",

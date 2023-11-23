@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Arriola en portada.",
-  "num_followers": 58464,
+  "num_followers": 58491,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWE3NTNiNGFmZWYwZjRmMjY2NmVlNTBlMmMwYTlmNjkyYmUzNDdm",
+  "snapshot_id": "MCxhMGFmMDRlYmY2ODA1NjY3ZTVmMWY5NWU0NjFjNjQ1YTljZjU0MzQ5",
   "tracks": [
     {
       "added_at": "2023-11-10 15:27:32",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Tu decisi\u00f3n",
-        "url": "https://open.spotify.com/album/2DMbxG78FoNUx2oGK2SF9f"
-      },
-      "artists": [
-        {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        }
-      ],
-      "duration_ms": 151579,
-      "name": "Tu decisi\u00f3n",
-      "url": "https://open.spotify.com/track/0F2aCrMaX2jiGBGmyBTy9R"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "Fumando Mota",
         "url": "https://open.spotify.com/album/1jlpTCmPcTZ6BmFEyrLtsx"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 201866,
       "name": "Fumando Mota",
       "url": "https://open.spotify.com/track/3oMSVFuPnWFifOrMoGiZGj"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "Tu decisi\u00f3n",
+        "url": "https://open.spotify.com/album/2DMbxG78FoNUx2oGK2SF9f"
+      },
+      "artists": [
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "duration_ms": 151579,
+      "name": "Tu decisi\u00f3n",
+      "url": "https://open.spotify.com/track/0F2aCrMaX2jiGBGmyBTy9R"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 167311,
-      "name": "Soy El \u00danico - Spotify Singles",
-      "url": "https://open.spotify.com/track/7J6AQy64vqI4DYx5oJfgfi"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "Buenas Vibras",
         "url": "https://open.spotify.com/album/7zgQU4dD2S2122n8as0vco"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 129132,
       "name": "Buenas Vibras",
       "url": "https://open.spotify.com/track/1DXjtTKHBMa7MkCUf2Bdzt"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 167311,
+      "name": "Soy El \u00danico - Spotify Singles",
+      "url": "https://open.spotify.com/track/7J6AQy64vqI4DYx5oJfgfi"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -491,6 +491,38 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
+        "name": "Ll\u00f3rame M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/58521yc5XgyIwX0KjWL0z0"
+      },
+      "artists": [
+        {
+          "name": "Janely Rosa",
+          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
+        }
+      ],
+      "duration_ms": 227142,
+      "name": "Ll\u00f3rame M\u00e1s Fuerte",
+      "url": "https://open.spotify.com/track/4MTLY1AiRFlQe0cV6Fl7SN"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "Lujos Flamantes",
+        "url": "https://open.spotify.com/album/4sFXSzYvHlAz3OpUc5kRv6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Supr3me",
+          "url": "https://open.spotify.com/artist/2D04F1wci9jME32L68xaAv"
+        }
+      ],
+      "duration_ms": 148653,
+      "name": "Lujos Flamantes",
+      "url": "https://open.spotify.com/track/7INI7hvoGSZB5W3YDEJXg5"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
         "name": "A 150",
         "url": "https://open.spotify.com/album/51g8xFmtl2Bm6TXRNidRkC"
       },
@@ -515,22 +547,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Ll\u00f3rame M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/58521yc5XgyIwX0KjWL0z0"
-      },
-      "artists": [
-        {
-          "name": "Janely Rosa",
-          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
-        }
-      ],
-      "duration_ms": 227142,
-      "name": "Ll\u00f3rame M\u00e1s Fuerte",
-      "url": "https://open.spotify.com/track/4MTLY1AiRFlQe0cV6Fl7SN"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "No He Parado",
         "url": "https://open.spotify.com/album/0fTbXfGHSfS0Aq8JCqysdZ"
       },
@@ -551,22 +567,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Lujos Flamantes",
-        "url": "https://open.spotify.com/album/4sFXSzYvHlAz3OpUc5kRv6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Supr3me",
-          "url": "https://open.spotify.com/artist/2D04F1wci9jME32L68xaAv"
-        }
-      ],
-      "duration_ms": 148653,
-      "name": "Lujos Flamantes",
-      "url": "https://open.spotify.com/track/7INI7hvoGSZB5W3YDEJXg5"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "Lo Obvio",
         "url": "https://open.spotify.com/album/69WQe5IHTQR4Jxo6sCmqRi"
       },
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "CUANDO LLUEVE",
-        "url": "https://open.spotify.com/album/0Me1LJTvDr06VOYB9jfWjq"
+        "name": "Llegar A La Luna",
+        "url": "https://open.spotify.com/album/68OaTF0C5uLmD2FtXbxAPK"
       },
       "artists": [
         {
-          "name": "Una Canci\u00f3n Bonita",
-          "url": "https://open.spotify.com/artist/3hLAnFsw8LnNJ9FDXSCCP7"
+          "name": "Jassiel Gutierrez",
+          "url": "https://open.spotify.com/artist/0R9UUAXkhio5Vdj76xDKzv"
         }
       ],
-      "duration_ms": 258528,
-      "name": "CUANDO LLUEVE",
-      "url": "https://open.spotify.com/track/1zGm84bD3EQLq7Iot79U3T"
+      "duration_ms": 214973,
+      "name": "Llegar A La Luna",
+      "url": "https://open.spotify.com/track/56Ya7Vj9jcXY2rghRfVB1R"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
+        "name": "CUANDO LLUEVE",
+        "url": "https://open.spotify.com/album/0Me1LJTvDr06VOYB9jfWjq"
+      },
+      "artists": [
+        {
+          "name": "Una Canci\u00f3n Bonita",
+          "url": "https://open.spotify.com/artist/3hLAnFsw8LnNJ9FDXSCCP7"
+        }
+      ],
+      "duration_ms": 258528,
+      "name": "CUANDO LLUEVE",
+      "url": "https://open.spotify.com/track/1zGm84bD3EQLq7Iot79U3T"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
         "name": "Descifrar",
         "url": "https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 256885,
       "name": "Hace Mucho Tiempo",
       "url": "https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
-        "name": "VETE",
-        "url": "https://open.spotify.com/album/3GIN6jcQHRLIno3O1r14SU"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        }
-      ],
-      "duration_ms": 207402,
-      "name": "VETE",
-      "url": "https://open.spotify.com/track/1nZZVprSn3MjlypZ8QYcPF"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -663,6 +663,22 @@
       "duration_ms": 199280,
       "name": "\u00c1mame",
       "url": "https://open.spotify.com/track/5908gatfcY7nK2xJt75zGx"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "VETE",
+        "url": "https://open.spotify.com/album/3GIN6jcQHRLIno3O1r14SU"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "duration_ms": 207402,
+      "name": "VETE",
+      "url": "https://open.spotify.com/track/1nZZVprSn3MjlypZ8QYcPF"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -703,18 +719,18 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Llegar A La Luna",
-        "url": "https://open.spotify.com/album/68OaTF0C5uLmD2FtXbxAPK"
+        "name": "De Este Lado",
+        "url": "https://open.spotify.com/album/4WrwlsCSBx3MMNKgByhHBG"
       },
       "artists": [
         {
-          "name": "Jassiel Gutierrez",
-          "url": "https://open.spotify.com/artist/0R9UUAXkhio5Vdj76xDKzv"
+          "name": "Jose Torres El Rey De Alto Mando",
+          "url": "https://open.spotify.com/artist/0VgLY86OVhqMOAZrMjQO8o"
         }
       ],
-      "duration_ms": 214973,
-      "name": "Llegar A La Luna",
-      "url": "https://open.spotify.com/track/56Ya7Vj9jcXY2rghRfVB1R"
+      "duration_ms": 187500,
+      "name": "De Este Lado",
+      "url": "https://open.spotify.com/track/2u7I1qFc8QdKcHxj3sP9hT"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -731,22 +747,6 @@
       "duration_ms": 147889,
       "name": "Rubicon",
       "url": "https://open.spotify.com/track/5W3D37twMsileaHHoWBrWF"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
-        "name": "De Este Lado",
-        "url": "https://open.spotify.com/album/4WrwlsCSBx3MMNKgByhHBG"
-      },
-      "artists": [
-        {
-          "name": "Jose Torres El Rey De Alto Mando",
-          "url": "https://open.spotify.com/artist/0VgLY86OVhqMOAZrMjQO8o"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "De Este Lado",
-      "url": "https://open.spotify.com/track/2u7I1qFc8QdKcHxj3sP9hT"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -1247,34 +1247,18 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Yo Soy Guerrera",
-        "url": "https://open.spotify.com/album/59Tnc8xzcatjqS7n9eBdks"
+        "name": "R\u00e1pido",
+        "url": "https://open.spotify.com/album/1oyD2MCtu40tDL41zsHsOS"
       },
       "artists": [
         {
-          "name": "Las Fenix",
-          "url": "https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY"
+          "name": "Diego Coss",
+          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
         }
       ],
-      "duration_ms": 138837,
-      "name": "Yo Soy Guerrera",
-      "url": "https://open.spotify.com/track/02qS6Wk3yj1SfEqYt8d8Ya"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
-        "name": "VIDA LOK4",
-        "url": "https://open.spotify.com/album/4ujPObxnBaMOhDUB9qLt78"
-      },
-      "artists": [
-        {
-          "name": "Dazoner",
-          "url": "https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "VIDA LOK4",
-      "url": "https://open.spotify.com/track/1hk76aRYEBVuJtweBQ0GEe"
+      "duration_ms": 194766,
+      "name": "R\u00e1pido",
+      "url": "https://open.spotify.com/track/59wfN7Wrwy48cADOItTXjY"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -1295,18 +1279,34 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "R\u00e1pido",
-        "url": "https://open.spotify.com/album/1oyD2MCtu40tDL41zsHsOS"
+        "name": "VIDA LOK4",
+        "url": "https://open.spotify.com/album/4ujPObxnBaMOhDUB9qLt78"
       },
       "artists": [
         {
-          "name": "Diego Coss",
-          "url": "https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O"
+          "name": "Dazoner",
+          "url": "https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B"
         }
       ],
-      "duration_ms": 194766,
-      "name": "R\u00e1pido",
-      "url": "https://open.spotify.com/track/59wfN7Wrwy48cADOItTXjY"
+      "duration_ms": 193714,
+      "name": "VIDA LOK4",
+      "url": "https://open.spotify.com/track/1hk76aRYEBVuJtweBQ0GEe"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "Yo Soy Guerrera",
+        "url": "https://open.spotify.com/album/59Tnc8xzcatjqS7n9eBdks"
+      },
+      "artists": [
+        {
+          "name": "Las Fenix",
+          "url": "https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY"
+        }
+      ],
+      "duration_ms": 138837,
+      "name": "Yo Soy Guerrera",
+      "url": "https://open.spotify.com/track/02qS6Wk3yj1SfEqYt8d8Ya"
     },
     {
       "added_at": "2023-11-10 15:27:32",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-11-10 15:27:32",
       "album": {
-        "name": "Que Bonito Es Tomar",
-        "url": "https://open.spotify.com/album/4auVeclloio4ybbEMCSeIP"
-      },
-      "artists": [
-        {
-          "name": "Franco Rey",
-          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
-        }
-      ],
-      "duration_ms": 165512,
-      "name": "Que Bonito Es Tomar",
-      "url": "https://open.spotify.com/track/521PvPw05mx8HH97MBxw9Y"
-    },
-    {
-      "added_at": "2023-11-10 15:27:32",
-      "album": {
         "name": "Rey Arturo",
         "url": "https://open.spotify.com/album/4Llilk6OHfidqG3Wki97HJ"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 195760,
       "name": "Rey Arturo",
       "url": "https://open.spotify.com/track/3yoDB3fToxn1WQ7i95FYtU"
+    },
+    {
+      "added_at": "2023-11-10 15:27:32",
+      "album": {
+        "name": "Que Bonito Es Tomar",
+        "url": "https://open.spotify.com/album/4auVeclloio4ybbEMCSeIP"
+      },
+      "artists": [
+        {
+          "name": "Franco Rey",
+          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
+        }
+      ],
+      "duration_ms": 165512,
+      "name": "Que Bonito Es Tomar",
+      "url": "https://open.spotify.com/track/521PvPw05mx8HH97MBxw9Y"
     },
     {
       "added_at": "2023-11-10 15:27:32",

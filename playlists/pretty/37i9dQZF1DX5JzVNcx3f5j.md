@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 
 > Music from "Gintama" Series !「銀魂」シリーズの楽曲を1つのプレイリストで。 ©空知英秋／集英社・テレビ東京・電通・BNP・アニプレックス
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,878 likes - 87 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,914 likes - 87 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 | 64 | [お控えなすって！](https://open.spotify.com/track/0LpBRTBl7Z7PWtBf9vA9Mf) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [銀魂　オリジナル・サウンドトラック ４](https://open.spotify.com/album/7ihGpH9VlBe7tfGXVLo6g9) | 2:03 |
 | 65 | [ゆけ！カイエーン](https://open.spotify.com/track/08MEYNJ878h5sX2UODJyhr) | [singman](https://open.spotify.com/artist/3vKk3DDuHO0gabQsCvk7mL) | [銀魂　オリジナル・サウンドトラック ４](https://open.spotify.com/album/7ihGpH9VlBe7tfGXVLo6g9) | 1:37 |
 | 66 | [あっちむいて](https://open.spotify.com/track/77Re31uf26A9U1aPFBfMJE) | [Swimy](https://open.spotify.com/artist/2sUEUvyOBblaAJdcHnlLXV) | [あっちむいて](https://open.spotify.com/album/3ESy0UsKyNocfZ7xJTI4Dt) | 3:36 |
-| 67 | [カゲロウ](https://open.spotify.com/track/761XPKc6c7sGdQBjnL57OR) | [Real](https://open.spotify.com/artist/0ReiZTKuZ35dMLkf3HeZ5k) | [カゲロウ](https://open.spotify.com/album/5XGVpz7wE8JAf7zC3KTosC) | 4:02 |
+| 67 | [カゲロウ](https://open.spotify.com/track/761XPKc6c7sGdQBjnL57OR) | [ЯeaL](https://open.spotify.com/artist/3kcuGX6Jv5AOsJQTQGxoYL) | [カゲロウ](https://open.spotify.com/album/5XGVpz7wE8JAf7zC3KTosC) | 4:02 |
 | 68 | [SILVER](https://open.spotify.com/track/4OlG9YwpUZhdkEmqY4ZJQ7) | [RIZE](https://open.spotify.com/artist/36wyiJipzsPL3IHMe7JzPX) | [SILVER\(Special Edition\)](https://open.spotify.com/album/6GXNmghE39TBKUoFyaDtLZ) | 3:40 |
 | 69 | [VS](https://open.spotify.com/track/0v07NKL3fTtcPTI7HwSlsf) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [VS](https://open.spotify.com/album/1fZaWgqkoUHR0aWwDrMXwV) | 3:35 |
 | 70 | [反抗声明](https://open.spotify.com/track/5FGpZHUlXM8yHCpDPhQhLc) | [Ayumikurikamaki](https://open.spotify.com/artist/0UDiy9fLk3rtgfh5lDqRqu) | [反抗声明](https://open.spotify.com/album/1oKJnGISQRzI3kKzZBsCTd) | 3:01 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 | 86 | [二百四十六勝、二百四十七敗](https://open.spotify.com/track/5LX24pCdgqUlSOxcImetIG) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [映画「銀魂 THE FINAL」オリジナル・サウンドトラック](https://open.spotify.com/album/7IY4Ti6kPUNW2tEknao1JY) | 3:02 |
 | 87 | [在りし日](https://open.spotify.com/track/0bU5zspmMwLzT8DBvMGC5V) | [Audio Highs](https://open.spotify.com/artist/3LLQBVerGJxiWLNJVByMSJ) | [映画「銀魂 THE FINAL」オリジナル・サウンドトラック](https://open.spotify.com/album/7IY4Ti6kPUNW2tEknao1JY) | 1:45 |
 
-Snapshot ID: `MCw4YTIyZmIzNTVkZThiNmQxM2FlM2M4ZjRkOTMyOWM4NjdhZGRmMmRi`
+Snapshot ID: `MCw0MGRjZGU0OTUzMmQyNjBiMzc3YTA4NTg1MjU4ZjdhMDg1ZDUwODJm`

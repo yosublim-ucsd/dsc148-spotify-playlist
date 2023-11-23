@@ -4,7 +4,7 @@
 
 > Rock out while you game.
 
-468 songs - 1 day 4 hr 1 min
+469 songs - 1 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Is Everybody Going Crazy?](https://open.spotify.com/track/3CauBZqN2EuHTJo4sSpjbS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Is Everybody Going Crazy?](https://open.spotify.com/album/5J2B0xzIbsFSqwLTLrlRe1) | 3:57 | 2020-06-29 | 2022-07-29 |
 | [It's Been Awhile](https://open.spotify.com/track/0d2YnyIPgmPQqNSzDg8s8Q) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [The Singles](https://open.spotify.com/album/5jp2GvFmxYbKge605mja3F) | 4:24 | 2020-06-29 | 2022-07-18 |
 | [It's Been Awhile](https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt) | 4:24 | 2022-07-28 |  |
+| [Jaded](https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU) | 4:22 | 2023-11-17 |  |
 | [Jenny](https://open.spotify.com/track/1qhcO9Akt1mP0Y54OSTX9w) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Nothing More](https://open.spotify.com/album/4aBbor9Sqi43RqUcc9g18G) | 3:56 | 2020-06-29 | 2023-08-31 |
 | [Jenny](https://open.spotify.com/track/2CASGo9Wmd6Dxrq3ygnRjf) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Nothing More](https://open.spotify.com/album/3bq4ql5Y0JNudfTiVX1omb) | 3:56 | 2023-02-09 |  |
 | [Johnny Wants To Fight](https://open.spotify.com/track/0AAZGsiOMGkKtkQC32K6yO) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [This Is How The World Ends](https://open.spotify.com/album/1A2doQQJcGdh1ORygfbEp9) | 4:00 | 2022-04-22 | 2022-05-21 |
@@ -406,7 +407,7 @@
 | [The Disease](https://open.spotify.com/track/7rPQyZgkxzLHAUQhYl29aX) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS) | 2:55 | 2022-04-22 | 2022-05-21 |
 | [The End](https://open.spotify.com/track/1YaB0iZV5u5cXEI4VJR4cl) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [The End](https://open.spotify.com/album/3Idp7GanBlzFHzClNKyNaI) | 2:48 | 2020-06-29 | 2022-07-27 |
 | [The End of the Game](https://open.spotify.com/track/3JNxuA0OA1n5SHfOQn7FYb) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Hero](https://open.spotify.com/album/4FrRRR86MYCjoLFV8dgnm5) | 3:01 | 2020-06-29 | 2022-07-27 |
-| [The Ghosts of Beverly Drive](https://open.spotify.com/track/6wNCdMW82LwJgFrnGqLhpJ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Kintsugi](https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw) | 4:03 | 2020-06-29 |  |
+| [The Ghosts of Beverly Drive](https://open.spotify.com/track/6wNCdMW82LwJgFrnGqLhpJ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Kintsugi](https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw) | 4:03 | 2020-06-29 | 2023-11-23 |
 | [The Itch](https://open.spotify.com/track/3kdKhMpkjx1RNYTPcX4lNa) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6), [Josh A](https://open.spotify.com/artist/2rWCIhENZyPVDAeFC0ESWN) | [The Itch](https://open.spotify.com/album/23Qb4LFqcR9o35iS5tTHf9) | 2:46 | 2021-12-14 | 2022-06-11 |
 | [The Kill \(Bury Me\)](https://open.spotify.com/track/1p1nO35bbi4ZlQgjIA4oa4) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [A Beautiful Lie](https://open.spotify.com/album/2jPmk6qQzuY5AvKkZxMh7h) | 3:51 | 2020-06-29 | 2022-02-26 |
 | [The Kingdom](https://open.spotify.com/track/70GPQX67w54kz33PcsXIuk) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Kingdom](https://open.spotify.com/album/1IduB3mfHISAtpV1zQHpef) | 3:47 | 2022-04-22 | 2022-05-19 |

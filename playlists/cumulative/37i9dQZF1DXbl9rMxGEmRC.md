@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-550 songs - 1 day 22 hr 59 min
+552 songs - 1 day 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Anadem Gyre](https://open.spotify.com/track/1eBUzrOlsY9OMmiaSolhox) | [Antiqva](https://open.spotify.com/artist/6ahZhWLiImspvawPYn6FVd) | [Anadem Gyre](https://open.spotify.com/album/7ykuG0RJkSqhPWCi6kplm5) | 4:04 | 2021-12-17 | 2022-05-07 |
 | [Anarchy](https://open.spotify.com/track/55LOcVCllzfvWvX9d32wlL) | [Sadus](https://open.spotify.com/artist/2J1GmSL3D47TR4TdFYs2hu) | [The Shadow Inside](https://open.spotify.com/album/6IGGBDYr6ImS8ydAegAIHx) | 2:47 | 2023-11-17 |  |
 | [Ancient Death](https://open.spotify.com/track/08k0tIpeDbMWUR3iI6e8Co) | [Asagrimmr](https://open.spotify.com/artist/41V31Mbn9X3RX7GyWrKSQj) | [Ancient Death](https://open.spotify.com/album/0OS5vfWnkTqYz1dBnktFbW) | 6:56 | 2021-12-17 | 2022-01-08 |
-| [Ancient Stones Secrets](https://open.spotify.com/track/6oiWwpxDMJMzjrKI1zITYQ) | [Eminentia Tenebris](https://open.spotify.com/artist/2u7e66l7BhXHw1RUpuBrPA) | [Rise of a New Kingdom](https://open.spotify.com/album/5QTmivzbo2R7ZjRAKLF8to) | 5:28 | 2023-09-26 |  |
+| [Ancient Stones Secrets](https://open.spotify.com/track/6oiWwpxDMJMzjrKI1zITYQ) | [Eminentia Tenebris](https://open.spotify.com/artist/2u7e66l7BhXHw1RUpuBrPA) | [Rise of a New Kingdom](https://open.spotify.com/album/5QTmivzbo2R7ZjRAKLF8to) | 5:28 | 2023-09-26 | 2023-11-23 |
 | [Angels Hung from the Arches of Heaven](https://open.spotify.com/track/2aQuwaap0qGUFx3qCt7y9F) | [Goatwhore](https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI) | [Angels Hung from the Arches of Heaven](https://open.spotify.com/album/3wkROANEE5jyoV1B1usizt) | 4:54 | 2022-10-07 |  |
 | [Anguish](https://open.spotify.com/track/63GKWmCfC9dIOOxP16AwZn) | [Progeny of Sun](https://open.spotify.com/artist/2IOwkQMglFyNgyhjnG2Bpl) | [Anguish](https://open.spotify.com/album/1X9jlZ1B56LU3RpTQOSiaJ) | 3:07 | 2022-05-13 | 2022-07-28 |
 | [Anima](https://open.spotify.com/track/77VGFCWFgsGLIWjoDTzJiq) | [Heretoir](https://open.spotify.com/artist/4W1aTc1mS8IudqNaxfGKar) | [Anima](https://open.spotify.com/album/7M0gsNq0pmdXsjZrSIUSUm) | 4:29 | 2023-03-17 |  |
@@ -350,7 +350,8 @@
 | [On the Wings of Cosmic Fire](https://open.spotify.com/track/4MjToDaPoADzwE6QzjcAno) | [Thulcandra](https://open.spotify.com/artist/3cJkyh6iM5N2AI07hNlu1j) | [Hail the Abyss](https://open.spotify.com/album/3dGCSviVjsc466RJYlR0DI) | 4:18 | 2023-05-30 | 2023-09-27 |
 | [One by One](https://open.spotify.com/track/65sql5o05skwJ6frSq4exl) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Sons of Northern Darkness](https://open.spotify.com/album/2CdmVpeV91e5nfN1kJ6hGj) | 4:58 | 2022-07-13 | 2023-10-10 |
 | [Open the Gates](https://open.spotify.com/track/0LsNJ1h4WWX8T9wZJW9u8l) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [In The Sign..\. \(Re\-issue + Bonus\) \[Deluxe Version\]](https://open.spotify.com/album/3rG83VdcvygOrL6BJGYitt) | 4:34 | 2022-07-13 | 2023-10-10 |
-| [Oppressing Compassion](https://open.spotify.com/track/79yj1unyxjwJHWzFYbuR8L) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [Oppressing Compassion](https://open.spotify.com/album/3WPAHVjP1mrBXlvCuWg3kq) | 2:44 | 2023-05-05 |  |
+| [Oppressing Compassion](https://open.spotify.com/track/79yj1unyxjwJHWzFYbuR8L) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [Oppressing Compassion](https://open.spotify.com/album/3WPAHVjP1mrBXlvCuWg3kq) | 2:44 | 2023-05-05 | 2023-11-23 |
+| [Our Lady of Speed](https://open.spotify.com/track/6IyY9BnIAP6Dkh52TxuQ6Z) | [Bewitcher](https://open.spotify.com/artist/3uqoS4269hIwo4DzfT15Wi) | [Deep Cuts & Shallow Graves](https://open.spotify.com/album/3US4p7WnEXUyu6Yk2rJHmS) | 3:50 | 2023-11-17 |  |
 | [Ov Fire And The Void](https://open.spotify.com/track/2Q73wKbwLLcGS404gkTfjH) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Evangelion](https://open.spotify.com/album/6ZizJ3rk1Eok7JOKL6UMwv) | 4:27 | 2022-07-13 |  |
 | [Ov Fire and the Void](https://open.spotify.com/track/7fire0gDtWtq39qQLJVfev) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Evangelion](https://open.spotify.com/album/3NO3ef0kGIOJMw6y6nZEH0) | 4:27 | 2022-07-13 | 2022-07-29 |
 | [Ov My Herculean Exile](https://open.spotify.com/track/6RqT1YOVMVjDATyYKsBpaO) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Ov My Herculean Exile](https://open.spotify.com/album/1493clTk13mwPDs9E4u6xi) | 4:43 | 2022-05-13 | 2023-03-20 |
@@ -549,6 +550,7 @@
 | [Withstand The Fall Of Time](https://open.spotify.com/track/5nCnSnLtotQ8eB4E189U91) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [At The Heart Of Winter](https://open.spotify.com/album/7cuQrfE3R8cX53zLoGF6Ma) | 8:29 | 2022-07-13 |  |
 | [Woe](https://open.spotify.com/track/04rBvQ3NfSW7UsUvak2Hb2) | [Ragana](https://open.spotify.com/artist/3SwRHVTRoAEOkggZnCSFzt) | [Desolation's Flower](https://open.spotify.com/album/7D1dzLAWZOTumnRTvGZGau) | 6:35 | 2023-10-27 |  |
 | [Wolves](https://open.spotify.com/track/3HfDSiJA2Vf0cdvT4dDwzQ) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Those of the Unlight](https://open.spotify.com/album/2b8tendm7Uy0bTuzXRRxdA) | 5:50 | 2022-07-13 |  |
+| [World Bleak Nepotism](https://open.spotify.com/track/1lMghAPS4Ahu1kQSTMBuoY) | [Aeternus](https://open.spotify.com/artist/08pfvfaswGFhlXz4j50eOP) | [Philosopher](https://open.spotify.com/album/7x5WcqPqGP27WBCP0WnoBp) | 5:19 | 2023-11-17 |  |
 | [Worship](https://open.spotify.com/track/5TSwCc8HVZ9T7fRdx1ffXQ) | [Hypocrisy](https://open.spotify.com/artist/73UIalJYgktSi7qQFV53Qv) | [Worship](https://open.spotify.com/album/5t9JybZLnRj5xMp9bWsMP9) | 4:42 | 2021-12-17 | 2022-03-19 |
 | [Worship the Eternal Darkness](https://open.spotify.com/track/5FwQeW8Z8ky47RqqPk0hi1) | [Archgoat](https://open.spotify.com/artist/3n2bgWmlyHgwnd9aPmnTM4) | [Worship the Eternal Darkness](https://open.spotify.com/album/7kPe4J6zhne6R5lHmFU9iT) | 3:38 | 2021-12-17 | 2022-01-08 |
 | [Worthless](https://open.spotify.com/track/0P9Eascqqk3l4rqw6kYF2z) | [Progeny of Sun](https://open.spotify.com/artist/2IOwkQMglFyNgyhjnG2Bpl) | [Worthless](https://open.spotify.com/album/3E4ImGoMJqqEs3dRROZEMj) | 3:39 | 2022-02-11 | 2022-07-23 |

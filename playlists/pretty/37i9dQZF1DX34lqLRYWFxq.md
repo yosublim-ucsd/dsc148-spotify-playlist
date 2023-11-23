@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in rock this week\. Cover: Mannequin Pussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,014 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,034 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 19 | [Juan](https://open.spotify.com/track/70xYU2CAKsIuWmh4ZuXpP9) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Juan](https://open.spotify.com/album/1PM4REcmfjIKvZpbJuMgth) | 6:38 |
 | 20 | [Vendredi](https://open.spotify.com/track/4hdSkfUs1LUisa1owTWqe4) | [Rouge Pompier](https://open.spotify.com/artist/6juqd2DiJxLYeldyOvjzql) | [Vendredi](https://open.spotify.com/album/0SMlVogwTii9DqvIetc129) | 3:34 |
 | 21 | [Dazed & Confused](https://open.spotify.com/track/6zyNv3dTBNbOTYnnrAyBmT) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Hotel Bleu](https://open.spotify.com/album/3blidU7QbdagNPs3Wqw9cI) | 2:48 |
-| 22 | [What the Sun Saw](https://open.spotify.com/track/0FLmUpO1w2sypa14wwPf7v) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [What the Sun Saw](https://open.spotify.com/album/4Giirh6zaV7k8g7INupvwH) | 4:11 |
+| 22 | [What the Sun Saw](https://open.spotify.com/track/0FLmUpO1w2sypa14wwPf7v) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [Show Friends](https://open.spotify.com/album/4Giirh6zaV7k8g7INupvwH) | 4:11 |
 | 23 | [you&i](https://open.spotify.com/track/62kZVGjudxUzisDclHf8pH) | [Locket](https://open.spotify.com/artist/6h0cRpTv4GFq0zYbCbsDXy) | [Superluminal](https://open.spotify.com/album/1TJzUL7S84wZyudipZLsfA) | 4:01 |
 | 24 | [Off My Back](https://open.spotify.com/track/0HjOIq9IGVyVeLBJBP51uP) | [moondoggy](https://open.spotify.com/artist/5p00nwfrUcZvA9WbXZeQOk) | [Mad and Noisy](https://open.spotify.com/album/15JmQH5VYVKiTdueByfqgz) | 2:52 |
 | 25 | [Hot! Heat! Wow! Hot!](https://open.spotify.com/track/5m2AvZcE0f59XTBDmjNqZA) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Fronzoli](https://open.spotify.com/album/2fsuwVXuxg6psijDhlSbzt) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Ramona](https://open.spotify.com/track/2W6yKDUYSIdp6vPnPWqiv8) | [moondoggy](https://open.spotify.com/artist/5p00nwfrUcZvA9WbXZeQOk) | [Ramona](https://open.spotify.com/album/5IOYVd6STMONjcDQuuQfnm) | 3:02 |
 | 100 | [i don’t sleep as good as i used to](https://open.spotify.com/track/2YCrJo5Ly8VS7rWMO30xbX) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [i don’t sleep as good as i used to](https://open.spotify.com/album/6aUYWT72B92zOpEK5xIo0i) | 3:03 |
 
-Snapshot ID: `MCw3YTExMDgyMTY2MGQ3ZTkwYTk3NDQwMjFjOGRhYTA0NzkwYmVhODA2`
+Snapshot ID: `MCw4MWM4ZTk1MjhmMGQxMjI2NTY3YWQ1MWMzY2ViMWI1NDQ5NWUzNGU4`

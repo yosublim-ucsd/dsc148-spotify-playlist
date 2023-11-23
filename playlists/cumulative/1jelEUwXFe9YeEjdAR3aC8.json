@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Just chill the F*** out to our mix of relaxing hits. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! Chill Pop | Relaxing Pop | Chill Vibes | Lazy Sundays | Chilled Mix | Chillax | Relax",
+  "description": "Just chill the F*** out to our mix of relaxing hits. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! <a href=\"https://lnk.to/EndOfYearSaleOS\">All these hits available to buy on vinyl here!</a> Chill Pop | Relaxing Pop | Chill Vibes | Lazy Sundays | Chilled Mix",
   "name": "Chill the F*** out",
   "tracks": [
     {
@@ -1922,7 +1922,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 300683,
       "name": "Cinnamon Girl",
       "url": "https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e"
@@ -11834,6 +11834,36 @@
       "duration_ms": 201660,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/5p7ujcrUXASCNwRaWNHR1C"
+    },
+    {
+      "album": {
+        "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
+        "url": "https://open.spotify.com/album/0FNmNqZYPEXQbLajHmR9En"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225893,
+      "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
+      "url": "https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG"
     },
     {
       "album": {

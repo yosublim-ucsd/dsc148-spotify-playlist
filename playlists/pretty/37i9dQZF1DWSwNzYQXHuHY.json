@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9445,
+  "num_followers": 9473,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWJhNjVhMDc1NDBmYmNmMmZkYzM0NTc2YjA3MDBiZjJmY2IyM2Rj",
+  "snapshot_id": "MCw1ZWNmYTRjN2I3NGE4ZmE0YzdiMzU3ZjAzY2MzMDg1OWIzNjVlMjkx",
   "tracks": [
     {
       "added_at": "2023-11-13 09:23:57",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-11-13 09:23:57",
       "album": {
-        "name": "Why?",
-        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 147373,
-      "name": "Why?",
-      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
-    },
-    {
-      "added_at": "2023-11-13 09:23:57",
-      "album": {
         "name": "Can I Love ?",
         "url": "https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5"
       },
@@ -191,18 +175,38 @@
     {
       "added_at": "2023-11-13 09:23:57",
       "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg"
+        "name": "Why?",
+        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
       },
       "artists": [
         {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
         }
       ],
-      "duration_ms": 186573,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI"
+      "duration_ms": 147373,
+      "name": "Why?",
+      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
+    },
+    {
+      "added_at": "2023-11-13 09:23:57",
+      "album": {
+        "name": "and you",
+        "url": "https://open.spotify.com/album/09eU8fwmDGBQg264AnjTS3"
+      },
+      "artists": [
+        {
+          "name": "MEENOI",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "and you (Feat. ZICO)",
+      "url": "https://open.spotify.com/track/5r3VFyq4KrdCeRNUDtGfJq"
     },
     {
       "added_at": "2023-11-13 09:23:57",
@@ -227,22 +231,18 @@
     {
       "added_at": "2023-11-13 09:23:57",
       "album": {
-        "name": "and you",
-        "url": "https://open.spotify.com/album/09eU8fwmDGBQg264AnjTS3"
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg"
       },
       "artists": [
         {
-          "name": "MEENOI",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
-        },
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
         }
       ],
-      "duration_ms": 204240,
-      "name": "and you (Feat. ZICO)",
-      "url": "https://open.spotify.com/track/5r3VFyq4KrdCeRNUDtGfJq"
+      "duration_ms": 186573,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI"
     },
     {
       "added_at": "2023-11-13 09:23:57",
@@ -851,22 +851,18 @@
     {
       "added_at": "2023-11-13 09:23:57",
       "album": {
-        "name": "Let's Love",
-        "url": "https://open.spotify.com/album/1brl58xXMDKWcCEbSECZ5P"
+        "name": "DA DA!",
+        "url": "https://open.spotify.com/album/2yTa42wc72yX9hzK7yBrgu"
       },
       "artists": [
         {
-          "name": "CHUU",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        },
-        {
-          "name": "KIM YO HAN",
-          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
+          "name": "MEENOI",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
         }
       ],
-      "duration_ms": 220400,
-      "name": "Let's Love",
-      "url": "https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK"
+      "duration_ms": 225125,
+      "name": "busy guy",
+      "url": "https://open.spotify.com/track/24aNJe1sZzjUyJI2WuPzud"
     }
   ],
   "unique_name": "\uc378 (Something)",

@@ -887,6 +887,24 @@
     },
     {
       "album": {
+        "name": "Elevation",
+        "url": "https://open.spotify.com/album/7gM5ChlcBV9dLSxm53qLJ4"
+      },
+      "artists": [
+        {
+          "name": "Celine Hayes",
+          "url": "https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200843,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/741SePkge5anOObH5JLG5r"
+    },
+    {
+      "album": {
         "name": "Ellipse",
         "url": "https://open.spotify.com/album/3wPhguvaKQPIdvmoc5bkVW"
       },
@@ -2111,6 +2129,24 @@
     },
     {
       "album": {
+        "name": "Onirique",
+        "url": "https://open.spotify.com/album/4AmV0ApxmACCuyh5KZRbJG"
+      },
+      "artists": [
+        {
+          "name": "Mes Croquis",
+          "url": "https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155731,
+      "name": "Onirique",
+      "url": "https://open.spotify.com/track/0BzV38nap8TF9v1Z8aX4Qk"
+    },
+    {
+      "album": {
         "name": "Only My Truth",
         "url": "https://open.spotify.com/album/3Zi9UxcwNDiI9SFKw5af9h"
       },
@@ -2327,6 +2363,24 @@
     },
     {
       "album": {
+        "name": "Pythagoras",
+        "url": "https://open.spotify.com/album/2XNgpjBCD0a25yRe2u3GAp"
+      },
+      "artists": [
+        {
+          "name": "Tiny Rhino",
+          "url": "https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231514,
+      "name": "Pythagoras",
+      "url": "https://open.spotify.com/track/3WgaMM16BpTDi2bbZUUuDf"
+    },
+    {
+      "album": {
         "name": "Ravello",
         "url": "https://open.spotify.com/album/5aiv12mtWb7NJFpkPnmRP9"
       },
@@ -2396,6 +2450,24 @@
       "duration_ms": 125331,
       "name": "Relinquishing",
       "url": "https://open.spotify.com/track/3pUnfBXv3XTGqdtpHH9a4T"
+    },
+    {
+      "album": {
+        "name": "Remain",
+        "url": "https://open.spotify.com/album/4QxhQ7l9PaQx3QqfSqI3Ho"
+      },
+      "artists": [
+        {
+          "name": "Carl Moir",
+          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125804,
+      "name": "Remain",
+      "url": "https://open.spotify.com/track/2UZFceHSxA4HUsPdOp5Vzr"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Where everything is lovely and snuggly <3
 
-278 songs - 17 hr 27 min
+279 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,9 +49,9 @@
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2022-04-27 |  |
 | [cold/mess](https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 4:41 | 2023-01-06 |  |
 | [Colors](https://open.spotify.com/track/62FVFc1vz3NmSlqOOKTlTF) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Wilton](https://open.spotify.com/album/6rOXMsIBhPQfMuGqIjCI8O) | 3:05 | 2022-04-27 | 2023-01-07 |
-| [concentrate](https://open.spotify.com/track/78BHW3aMoR2UrF1Pg1W0oc) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [concentrate](https://open.spotify.com/album/12Q6rsos506fgL55F1c5Ca) | 4:41 | 2023-11-10 | 2023-11-22 |
+| [concentrate](https://open.spotify.com/track/78BHW3aMoR2UrF1Pg1W0oc) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [concentrate](https://open.spotify.com/album/12Q6rsos506fgL55F1c5Ca) | 4:41 | 2023-11-10 |  |
 | [Coolest fucking bitch in town](https://open.spotify.com/track/3kyOvnZwar3WDnpaX4hmqM) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Matchmaker](https://open.spotify.com/album/4TKUMKYMx4AGZqyPEM7DI6) | 4:56 | 2023-04-04 | 2023-09-18 |
-| [Coolest fucking bitch in town](https://open.spotify.com/track/4itvVGU4tjNOiaAv4TrzsZ) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Wisecrack](https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT) | 4:56 | 2023-04-04 |  |
+| [Coolest fucking bitch in town](https://open.spotify.com/track/4itvVGU4tjNOiaAv4TrzsZ) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Wisecrack](https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT) | 4:56 | 2023-04-04 | 2023-11-23 |
 | [Coolest fucking bitch in town](https://open.spotify.com/track/7oF49vbWvNZBSqPRzrqTrr) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Coolest fucking bitch in town](https://open.spotify.com/album/6473Bw0fbg01rEXirczRcs) | 4:56 | 2023-01-06 | 2023-06-08 |
 | [Cottage Roads](https://open.spotify.com/track/1LEK0kOPQrWihpzZO4rMkN) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Young Men](https://open.spotify.com/album/5ADia0t4o7pA8dyi8jRA4E) | 3:01 | 2023-01-06 |  |
 | [Crane Song](https://open.spotify.com/track/4JPSwqR43YDE8kjnMMokOh) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Crane Song](https://open.spotify.com/album/1e41yQtTBhimoUpwdsVjb9) | 4:49 | 2021-10-18 | 2022-07-29 |
@@ -161,6 +161,7 @@
 | [lovers’ carvings](https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w) | 3:58 | 2021-10-18 | 2023-02-03 |
 | [Low](https://open.spotify.com/track/3vDa2fcL7Ge1jQVKJ3uIOA) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/412GzW8zlkJYcQ7YT8u8dJ) | 4:34 | 2022-04-27 | 2023-11-18 |
 | [Low](https://open.spotify.com/track/3xeM8VBsUEcrCZK61hojGn) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Low](https://open.spotify.com/album/3n6YDHfljsNWqJtFj7GPw4) | 4:34 | 2021-10-18 | 2022-07-29 |
+| [Low](https://open.spotify.com/track/4RJYhQEGxI42b2OkiA6eYP) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq) | 4:34 | 2023-11-10 |  |
 | [Lucky](https://open.spotify.com/track/0mYslGmbnkbxuyr0ISIYtB) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Forever & A Few](https://open.spotify.com/album/1NHlnn47gB3IrP9fwahcjF) | 4:11 | 2022-10-07 | 2023-11-21 |
 | [Make Out in My Car \- Sufjan Stevens Version](https://open.spotify.com/track/045NQr6Xvm5o9YFUMwbMzG) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Make Out in My Car: Chameleon Suite](https://open.spotify.com/album/5WI3QDHU8Z2ypfVRsJBtKy) | 2:46 | 2021-10-18 | 2022-07-29 |
 | [Make Out in My Car \- Sufjan Stevens Version](https://open.spotify.com/track/099OI5KEJXIIj1GezRIWU0) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Make Out in My Car: Chameleon Suite](https://open.spotify.com/album/2i1xXXX3jYKBtWLRSNu1ee) | 2:46 | 2022-04-27 |  |
@@ -188,7 +189,7 @@
 | [Palm Sunday](https://open.spotify.com/track/6rN3MviTNZD3Fc1QABVGt9) | [Star Parks](https://open.spotify.com/artist/0yRum3Q7Dqnt8kl4MdO7TH) | [The New Sounds of Late Capitalism](https://open.spotify.com/album/1FvsGwOIqTWvoXHo5wleVE) | 5:23 | 2023-04-04 | 2023-11-11 |
 | [Pfizer](https://open.spotify.com/track/4T1pEFUMRcp383kBMkrEv8) | [Gabriel Sayer](https://open.spotify.com/artist/1YvGXgPvmPL6Iq3FiTkr5b) | [Pfizer](https://open.spotify.com/album/6rYgAwiwVBz8RK2xmTFyVP) | 3:06 | 2021-10-18 | 2022-02-26 |
 | [Pollinate](https://open.spotify.com/track/62AkEfE6QtLE6e81t79k8r) | [Little Bird](https://open.spotify.com/artist/2fnV6seL0Y3klLT1gR7Qa2) | [Proxima: Beta](https://open.spotify.com/album/7rdb04AFC5kUiSWJVR3v5c) | 4:57 | 2021-10-18 | 2022-07-29 |
-| [Quite Like You](https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:25 | 2023-11-10 |  |
+| [Quite Like You](https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:25 | 2023-11-10 | 2023-11-23 |
 | [Rae Street](https://open.spotify.com/track/2CNNKiZvxEUDaw4G8Sk0rP) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Rae Street](https://open.spotify.com/album/4UlYlmh4MZXio3RQc9Jmco) | 4:31 | 2021-10-18 | 2022-07-29 |
 | [Rae Street](https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Things Take Time, Take Time](https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv) | 4:31 | 2022-04-27 | 2023-01-04 |
 | [raw](https://open.spotify.com/track/2bGd94PnM9kaQOCxOrIDh8) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [raw](https://open.spotify.com/album/4Hofq1L0O8op3NV454YqoC) | 3:06 | 2021-10-18 | 2022-10-13 |

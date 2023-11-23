@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 143670,
+  "num_followers": 143757,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjU0N2FkMzc5NGFjNGQxNjIzYjI4ZjExYzYzMWY2M2ZlMmQ3OTVi",
+  "snapshot_id": "MCxmNjNkMTI2NGM4MTYwOGU5NTVlNzU1NmViZWY1ZjY2ZDc3ZTdkYmMz",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "DJ Turn It Up",
+        "url": "https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "DJ Turn It Up",
+      "url": "https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Party All The Time",
         "url": "https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 129860,
       "name": "Party All The Time",
       "url": "https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "DJ Turn It Up",
-        "url": "https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn"
-      },
-      "artists": [
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "DJ Turn It Up",
-      "url": "https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb"
-      },
-      "artists": [
-        {
-          "name": "Aktive",
-          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Where Do We Go (feat. Poppy Baskcomb)",
         "url": "https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 204137,
       "name": "Where Do We Go (feat. Poppy Baskcomb)",
       "url": "https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb"
+      },
+      "artists": [
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -767,26 +767,26 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Diamond Therapy",
-        "url": "https://open.spotify.com/album/72xjIhQnOwXZMvdtlYa3Ep"
+        "name": "Move Your Body (Hedex Remix)",
+        "url": "https://open.spotify.com/album/09nJrAnPgQU8dLEBj1o1lo"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
         },
         {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
         },
         {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
         }
       ],
-      "duration_ms": 199472,
-      "name": "Diamond Therapy",
-      "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
+      "duration_ms": 200239,
+      "name": "Move Your Body - Hedex Remix",
+      "url": "https://open.spotify.com/track/6FgthnS6GYgLuELf7uRdDz"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -811,26 +811,26 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Move Your Body (Hedex Remix)",
-        "url": "https://open.spotify.com/album/09nJrAnPgQU8dLEBj1o1lo"
+        "name": "Diamond Therapy",
+        "url": "https://open.spotify.com/album/72xjIhQnOwXZMvdtlYa3Ep"
       },
       "artists": [
         {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         },
         {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
         },
         {
-          "name": "Hedex",
-          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 200239,
-      "name": "Move Your Body - Hedex Remix",
-      "url": "https://open.spotify.com/track/6FgthnS6GYgLuELf7uRdDz"
+      "duration_ms": 199472,
+      "name": "Diamond Therapy",
+      "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/1gwNOFmeMRGzIj2752iJEB"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 247210,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/3QRE0rMSiI6ceS0ZOxFblB"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Through It All (Hedex Remix)",
         "url": "https://open.spotify.com/album/3g9yPWc8yVPueR4Zk1LPot"
       },
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/1gwNOFmeMRGzIj2752iJEB"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 247210,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/3QRE0rMSiI6ceS0ZOxFblB"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Party All the Time (feat. Kay)",
         "url": "https://open.spotify.com/album/026MiiWON7Aei7MKzxCKGC"
       },
@@ -1207,26 +1207,6 @@
       "duration_ms": 266929,
       "name": "Party All the Time (feat. Kay)",
       "url": "https://open.spotify.com/track/7xN6f50e0ZdiDehWaVFeZ2"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Getting Started (Chase & Status Remix)",
-        "url": "https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        },
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Getting Started - Chase & Status Remix",
-      "url": "https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1251,6 +1231,26 @@
       "duration_ms": 184270,
       "name": "Absolute",
       "url": "https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Getting Started (Chase & Status Remix)",
+        "url": "https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Getting Started - Chase & Status Remix",
+      "url": "https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/3L4Meb0nRGrUulc4Xp9esu"
-      },
-      "artists": [
-        {
-          "name": "EV",
-          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
-        }
-      ],
-      "duration_ms": 170360,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/3HeOOjms1LHV4U91lKcbwd"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Shut It Down",
         "url": "https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 178604,
       "name": "Shut It Down",
       "url": "https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/3L4Meb0nRGrUulc4Xp9esu"
+      },
+      "artists": [
+        {
+          "name": "EV",
+          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
+        }
+      ],
+      "duration_ms": 170360,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/3HeOOjms1LHV4U91lKcbwd"
     },
     {
       "added_at": "2023-11-17 00:01:00",

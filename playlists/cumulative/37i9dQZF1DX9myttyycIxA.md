@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Chartreuse
 
-1,098 songs - 2 day 14 hr 32 min
+1,099 songs - 2 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,8 @@
 | [Dark Star](https://open.spotify.com/track/4AwX0i4DC8buTFbFsHpqzs) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Dark Star b/w Pastel Sunrise](https://open.spotify.com/album/5Em1Nym2EEFoJpQzSgt908) | 3:08 | 2022-04-29 | 2022-06-03 |
 | [David](https://open.spotify.com/track/0VHS1bzjUYPQUUdsveukVU) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [David](https://open.spotify.com/album/2IE0DyI3VpGaW9JsgdLL4f) | 3:05 | 2021-05-14 | 2022-04-29 |
 | [Dawning](https://open.spotify.com/track/6kD2M35ioMIe77cAaL8RzY) | [THEM PARENTS](https://open.spotify.com/artist/0zBu6Ne0tm3kArvljuazCj) | [Dawning](https://open.spotify.com/album/7E8hpPJPfnldSLj41mHHoI) | 3:50 | 2022-03-04 | 2022-04-14 |
-| [Death Drive](https://open.spotify.com/track/3gtxS59vfzWAOne1AIonXw) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Death Drive](https://open.spotify.com/album/3QYzKAOZ6XwSPiOPjiWv2T) | 3:11 | 2023-09-01 |  |
+| [Death Drive](https://open.spotify.com/track/3gtxS59vfzWAOne1AIonXw) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Death Drive](https://open.spotify.com/album/3QYzKAOZ6XwSPiOPjiWv2T) | 3:11 | 2023-09-01 | 2023-11-23 |
+| [Death Drive](https://open.spotify.com/track/73UTl5fz6QOzbBDri1uqg0) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Death Drive](https://open.spotify.com/album/3vCg8G4wrdrCVkmMT8cSH3) | 3:11 | 2023-11-10 |  |
 | [death wish](https://open.spotify.com/track/0oCtO4wLUisjOusLalamVW) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [honeybee table at the butterfly feast](https://open.spotify.com/album/7240kGNKtkhUSkYy9MPrRB) | 2:44 | 2022-09-02 | 2022-12-03 |
 | [DEATHBLOW](https://open.spotify.com/track/0UyDaW1aWaXAUReRul1sQw) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [ur not real](https://open.spotify.com/album/60PCJO6t6GxHI5MFacb1q3) | 2:56 | 2022-05-13 | 2022-09-03 |
 | [DEATHWISH](https://open.spotify.com/track/1OwAfrgAN5H0PVF3OSPY6I) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [i think there's something wrong with joshy](https://open.spotify.com/album/1iero6O9P7g7IFkY96TGU4) | 2:30 | 2023-02-03 | 2023-06-16 |

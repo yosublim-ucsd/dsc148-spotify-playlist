@@ -1,12 +1,12 @@
 {
   "description": "Talented, brilliant, incredible, amazing, show-stopping\u2026 See also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 88150,
+  "num_followers": 88279,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWFhNGYwNzZlNWE4NTZjYmEyNzc2YWQ3ODg5MDFjNmJmZDkwOGY5",
+  "snapshot_id": "MCwzODFlOWU0NzJhNGNkNjcxNjgyMzJkMThmY2M4ZmRkYjY2ODY5NDMz",
   "tracks": [
     {
       "added_at": "2023-08-05 17:03:05",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-08-05 17:03:05",
       "album": {
+        "name": "Beauty Marks",
+        "url": "https://open.spotify.com/album/5rJuc8VCoqz1L3SmUscLkw"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "duration_ms": 204150,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/40VqYKBAJP901tpuq6WMt7"
+    },
+    {
+      "added_at": "2023-08-05 17:03:05",
+      "album": {
         "name": "Hot Mess",
         "url": "https://open.spotify.com/album/41TUivD915ztiKgyu99H9T"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 196413,
       "name": "Good Girls Go Bad (feat. Leighton Meester)",
       "url": "https://open.spotify.com/track/7kMfu3KUydmrFVGEAhjtyl"
-    },
-    {
-      "added_at": "2023-08-05 17:03:05",
-      "album": {
-        "name": "Beauty Marks",
-        "url": "https://open.spotify.com/album/5rJuc8VCoqz1L3SmUscLkw"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 204150,
-      "name": "Level Up",
-      "url": "https://open.spotify.com/track/40VqYKBAJP901tpuq6WMt7"
     },
     {
       "added_at": "2023-08-05 17:03:05",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-08-05 17:03:05",
       "album": {
-        "name": "BLUE LIPS (lady wood phase II)",
-        "url": "https://open.spotify.com/album/6jggnLM3SdDnjQ3GWmIZ4L"
+        "name": "Demi",
+        "url": "https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5"
       },
       "artists": [
         {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
         }
       ],
-      "duration_ms": 223794,
-      "name": "disco tits",
-      "url": "https://open.spotify.com/track/1TIiWomS4i0Ikaf9EKdcLn"
+      "duration_ms": 233173,
+      "name": "Neon Lights",
+      "url": "https://open.spotify.com/track/34MJ07N9Bhu6iKPaxSVnCT"
     },
     {
       "added_at": "2023-08-05 17:03:05",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-08-05 17:03:05",
       "album": {
-        "name": "Demi",
-        "url": "https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5"
+        "name": "BLUE LIPS (lady wood phase II)",
+        "url": "https://open.spotify.com/album/6jggnLM3SdDnjQ3GWmIZ4L"
       },
       "artists": [
         {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
         }
       ],
-      "duration_ms": 233173,
-      "name": "Neon Lights",
-      "url": "https://open.spotify.com/track/34MJ07N9Bhu6iKPaxSVnCT"
+      "duration_ms": 223794,
+      "name": "disco tits",
+      "url": "https://open.spotify.com/track/1TIiWomS4i0Ikaf9EKdcLn"
     },
     {
       "added_at": "2023-08-05 17:03:05",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-08-05 17:03:05",
       "album": {
-        "name": "TURN OFF THE LIGHT",
-        "url": "https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 197651,
-      "name": "There Will Be Blood",
-      "url": "https://open.spotify.com/track/75HFFq9W7Em0dTBG8QeGcT"
-    },
-    {
-      "added_at": "2023-08-05 17:03:05",
-      "album": {
         "name": "Perfect Day Single",
         "url": "https://open.spotify.com/album/5puXns5fNjj1XEnbufYHRJ"
       },
@@ -1307,22 +1291,6 @@
     {
       "added_at": "2023-08-05 17:03:05",
       "album": {
-        "name": "The Secret Life Of...",
-        "url": "https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to"
-      },
-      "artists": [
-        {
-          "name": "The Veronicas",
-          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
-        }
-      ],
-      "duration_ms": 208973,
-      "name": "4ever",
-      "url": "https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT"
-    },
-    {
-      "added_at": "2023-08-05 17:03:05",
-      "album": {
         "name": "Supernature",
         "url": "https://open.spotify.com/album/3vtZKHDljhjJORS14a4qKx"
       },
@@ -1335,6 +1303,38 @@
       "duration_ms": 204373,
       "name": "Ooh La La",
       "url": "https://open.spotify.com/track/3E0gVkirGK2ouGHPuOO9cN"
+    },
+    {
+      "added_at": "2023-08-05 17:03:05",
+      "album": {
+        "name": "TURN OFF THE LIGHT",
+        "url": "https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 197651,
+      "name": "There Will Be Blood",
+      "url": "https://open.spotify.com/track/75HFFq9W7Em0dTBG8QeGcT"
+    },
+    {
+      "added_at": "2023-08-05 17:03:05",
+      "album": {
+        "name": "The Secret Life Of...",
+        "url": "https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "duration_ms": 208973,
+      "name": "4ever",
+      "url": "https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT"
     },
     {
       "added_at": "2023-08-05 17:03:05",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-08-05 17:03:05",
       "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 192172,
-      "name": "Vulnerable",
-      "url": "https://open.spotify.com/track/11OwAR3GlBj9E35Cznf7Lj"
-    },
-    {
-      "added_at": "2023-08-05 17:03:05",
-      "album": {
         "name": "What If",
         "url": "https://open.spotify.com/album/6Z0009JVnJQlOU3aiZCozL"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 243039,
       "name": "What If",
       "url": "https://open.spotify.com/track/1EK5Z3jnZh1nHXPUXpaLhK"
+    },
+    {
+      "added_at": "2023-08-05 17:03:05",
+      "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 192172,
+      "name": "Vulnerable",
+      "url": "https://open.spotify.com/track/11OwAR3GlBj9E35Cznf7Lj"
     },
     {
       "added_at": "2023-08-05 17:03:05",

@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 438750,
       "name": "Blazar",
       "url": "https://open.spotify.com/track/3KTd2D84oIwX9SPDKf9jzu"
@@ -924,6 +924,24 @@
       "duration_ms": 247083,
       "name": "Passa a Lata de L\u00f3lo",
       "url": "https://open.spotify.com/track/3j3Qy9Xc8Lpy5xxZ0nwgRq"
+    },
+    {
+      "album": {
+        "name": "Passo",
+        "url": "https://open.spotify.com/album/4JOhes3NGK2zgGx78Pimv5"
+      },
+      "artists": [
+        {
+          "name": "Nelson D",
+          "url": "https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "Passo",
+      "url": "https://open.spotify.com/track/2WORt2lp1EbXTED385XziR"
     },
     {
       "album": {

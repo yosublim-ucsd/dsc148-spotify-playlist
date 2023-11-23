@@ -1,12 +1,12 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 590613,
+  "num_followers": 591045,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZWJhNjE0NzdkN2VhNTU1YjEwODM3YmNiNjQ4Mjk0YzQzZGVmYThk",
+  "snapshot_id": "MCwxNjBmNzJhMDhkNGI0NzE2YTUyYWZmMjFmMmI5YTUxOTdjYzNmNDQ2",
   "tracks": [
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1084,17 +1084,17 @@
       "added_at": "2023-02-14 19:26:52",
       "album": {
         "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5HvSGPXR4k3PHspJrJTIqw"
+        "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
       },
       "artists": [
         {
-          "name": "Mark Wills",
-          "url": "https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF"
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
         }
       ],
-      "duration_ms": 200466,
-      "name": "19 Somethin' - Greatest Hits Version",
-      "url": "https://open.spotify.com/track/0ElpjZyX8YBiXuYcDC1Ci9"
+      "duration_ms": 216693,
+      "name": "Pickup Man",
+      "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1116,17 +1116,17 @@
       "added_at": "2023-02-14 19:26:52",
       "album": {
         "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0"
+        "url": "https://open.spotify.com/album/5HvSGPXR4k3PHspJrJTIqw"
       },
       "artists": [
         {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+          "name": "Mark Wills",
+          "url": "https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF"
         }
       ],
-      "duration_ms": 216693,
-      "name": "Pickup Man",
-      "url": "https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON"
+      "duration_ms": 200466,
+      "name": "19 Somethin' - Greatest Hits Version",
+      "url": "https://open.spotify.com/track/0ElpjZyX8YBiXuYcDC1Ci9"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
+        "name": "My Kind Of Livin'",
+        "url": "https://open.spotify.com/album/3TQGJlrqggOeyVWF6wDIPn"
+      },
+      "artists": [
+        {
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "That's What I Love About Sunday",
+      "url": "https://open.spotify.com/track/2nKvLnpExkH7Mfc14c6a7H"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
         "name": "Ultimate Dolly Parton",
         "url": "https://open.spotify.com/album/03DTXxfU0UJ96lt1umUtts"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 171653,
       "name": "Every Which Way but Loose - 2009 Remaster",
       "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
-        "name": "My Kind Of Livin'",
-        "url": "https://open.spotify.com/album/3TQGJlrqggOeyVWF6wDIPn"
-      },
-      "artists": [
-        {
-          "name": "Craig Morgan",
-          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "That's What I Love About Sunday",
-      "url": "https://open.spotify.com/track/2nKvLnpExkH7Mfc14c6a7H"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
+        "name": "Old Boots, New Dirt",
+        "url": "https://open.spotify.com/album/5i2qu2FGIYy2BMhHDKST43"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 219160,
+      "name": "Burnin' It Down",
+      "url": "https://open.spotify.com/track/32FcjEWPn4aSRqJ6loL01b"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/43KDShB3LKQv7r6Lq2OR9u"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 200493,
       "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/6ANPIv5r3vdWntrmFa6H6M"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
-        "name": "Old Boots, New Dirt",
-        "url": "https://open.spotify.com/album/5i2qu2FGIYy2BMhHDKST43"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "Burnin' It Down",
-      "url": "https://open.spotify.com/track/32FcjEWPn4aSRqJ6loL01b"
     },
     {
       "added_at": "2023-02-14 19:26:52",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2023-02-14 19:26:52",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5Fx4B1UYRtbc3sbhca9OZo"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 178600,
-      "name": "A Good Hearted Woman - Live at Western Place, Dallas, Texas - September 25, 1974",
-      "url": "https://open.spotify.com/track/1B3wswoDyVdEbWO9lmEzSk"
-    },
-    {
-      "added_at": "2023-02-14 19:26:52",
-      "album": {
         "name": "Behind Closed Doors (Expanded Edition)",
         "url": "https://open.spotify.com/album/79s7QjTPGEFwbpQsMhAYGw"
       },
@@ -1647,6 +1627,22 @@
       "duration_ms": 174826,
       "name": "Behind Closed Doors",
       "url": "https://open.spotify.com/track/4NRFiS0pHjTFDjOm1LWTZj"
+    },
+    {
+      "added_at": "2023-02-14 19:26:52",
+      "album": {
+        "name": "Straight Ahead (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1XNfE0t3kM8zV4XVqPDHNQ"
+      },
+      "artists": [
+        {
+          "name": "Larry Gatlin & The Gatlin Brothers",
+          "url": "https://open.spotify.com/artist/0KzlJXg6A3NVSCkRjecKnS"
+        }
+      ],
+      "duration_ms": 157533,
+      "name": "All the Gold In California",
+      "url": "https://open.spotify.com/track/6yLDMogQVRdVmwlh8uw526"
     }
   ],
   "unique_name": "Country's Greatest Hits",

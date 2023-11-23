@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Kanine",
-  "num_followers": 51407,
+  "num_followers": 51464,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTllZTE4ODcwMjg5OGYzZTg3ZGI4NmI0NjhkNmMyNTIxNTg0Y2Zm",
+  "snapshot_id": "MCwyNGYzMWRmYjRlZTQxOTkyOWZjYTdlYzMyMDAzNWY4ZjNhODZiMmZk",
   "tracks": [
     {
       "added_at": "2023-11-17 16:57:48",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
-        "name": "Back To Normal",
-        "url": "https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 268939,
-      "name": "Lightspeed",
-      "url": "https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
         "name": "Life Of The Party",
         "url": "https://open.spotify.com/album/3dSI7I49Isxr3gFt4V7rHz"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 279566,
       "name": "Life Of The Party",
       "url": "https://open.spotify.com/track/0dYD2Z4SHcYdefhgSWfKmJ"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
+        "name": "Back To Normal",
+        "url": "https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 268939,
+      "name": "Lightspeed",
+      "url": "https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl"
     },
     {
       "added_at": "2023-11-17 16:57:48",

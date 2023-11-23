@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1950s.",
-  "num_followers": 201848,
+  "num_followers": 201985,
   "original_name": "50s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGZiNWFkZjgxYmFlZjRhNzFhNmFkYjhiNzE5ZDVlZDA3NTE3MGFj",
+  "snapshot_id": "MCw2ZTgxYmFmZTU3OTA2MWE0MTJhZjM4YTZlNzkwMDg4ZTAwOGU3OWJm",
   "tracks": [
     {
       "added_at": "2022-01-10 11:46:31",
@@ -343,18 +343,18 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Best Of The Everly Brothers - Rare Solo Classics",
-        "url": "https://open.spotify.com/album/4rnq9VLTICIlomeKZ1N3mB"
+        "name": "Today & Yesterday",
+        "url": "https://open.spotify.com/album/29LVsHDQnohvzRrKerq5t3"
       },
       "artists": [
         {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
         }
       ],
-      "duration_ms": 146733,
-      "name": "Let It Be Me",
-      "url": "https://open.spotify.com/track/0Tjdbd83LEAWrA0atsXMDJ"
+      "duration_ms": 159906,
+      "name": "Magic Moments",
+      "url": "https://open.spotify.com/track/7bflxIMDz5mFxhQyYx1CEh"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -375,18 +375,18 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Today & Yesterday",
-        "url": "https://open.spotify.com/album/29LVsHDQnohvzRrKerq5t3"
+        "name": "Best Of The Everly Brothers - Rare Solo Classics",
+        "url": "https://open.spotify.com/album/4rnq9VLTICIlomeKZ1N3mB"
       },
       "artists": [
         {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
         }
       ],
-      "duration_ms": 159906,
-      "name": "Magic Moments",
-      "url": "https://open.spotify.com/track/7bflxIMDz5mFxhQyYx1CEh"
+      "duration_ms": 146733,
+      "name": "Let It Be Me",
+      "url": "https://open.spotify.com/track/0Tjdbd83LEAWrA0atsXMDJ"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 141040,
-      "name": "Devoted to You",
-      "url": "https://open.spotify.com/track/4FrMb1ckGBrhARbHySQKx5"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
         "name": "The Best Of The Crew Cuts",
         "url": "https://open.spotify.com/album/7dQg87XegvtSinDdZ1p0VP"
       },
@@ -523,22 +507,6 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Rock with Sedaka (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "You Mean Everything to Me",
-      "url": "https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
       },
@@ -551,6 +519,38 @@
       "duration_ms": 140773,
       "name": "A Teenager's Romance",
       "url": "https://open.spotify.com/track/1Qn5jElT7XqjvVeJ8pYM2w"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 141040,
+      "name": "Devoted to You",
+      "url": "https://open.spotify.com/track/4FrMb1ckGBrhARbHySQKx5"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "Rock with Sedaka (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "You Mean Everything to Me",
+      "url": "https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH"
     },
     {
       "added_at": "2022-01-10 11:46:31",

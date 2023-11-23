@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,818 likes - 90 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,861 likes - 90 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 35 | [Entre A Mi Pago Sin Golpear](https://open.spotify.com/track/6W5nrs6SqETt1et20bTtFa) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Poncho Al Viento](https://open.spotify.com/album/5lE01dF2K4sLVwlVfoP124) | 2:35 |
 | 36 | [La Villerita](https://open.spotify.com/track/4lfw4m1ovrPVi2OeaY9FEh) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Idolo De Multitudes](https://open.spotify.com/album/6Vz1jhm0zmxs7oz2OOadaN) | 4:10 |
 | 37 | [Luna Tucumana \- Remastered 2003](https://open.spotify.com/track/2R85ZXoflj01lCJPWyDQZC) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [Recordando Zambas Con Los Chalchaleros](https://open.spotify.com/album/4CEzKKz2fMSjjYwXBTlbZR) | 3:34 |
-| 38 | [Déjame Que Me Vaya](https://open.spotify.com/track/4gqnHuW497Br4ZgZt9cduw) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Nocheros](https://open.spotify.com/album/3zK6I5P3OOV33Mr0DP1H2n) | 3:32 |
-| 39 | [Bajo la Sombra de un Árbol](https://open.spotify.com/track/3qJoxHKIggEiseJWAALdbU) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Ckayna Cunan, Vol\. 2](https://open.spotify.com/album/6zLsN6jhCmxqx81xEUD6MU) | 3:38 |
+| 38 | [Bajo la Sombra de un Árbol](https://open.spotify.com/track/3qJoxHKIggEiseJWAALdbU) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Ckayna Cunan, Vol\. 2](https://open.spotify.com/album/6zLsN6jhCmxqx81xEUD6MU) | 3:38 |
+| 39 | [Déjame Que Me Vaya](https://open.spotify.com/track/4gqnHuW497Br4ZgZt9cduw) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Nocheros](https://open.spotify.com/album/3zK6I5P3OOV33Mr0DP1H2n) | 3:32 |
 | 40 | [Zamba de Abril](https://open.spotify.com/track/71l747KWxSIlCOiKbtBokH) | [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Chango](https://open.spotify.com/album/1gNaGgEmk8a9rH2eRExnKV) | 3:51 |
 | 41 | [Todo Está en Vos](https://open.spotify.com/track/3m0iTs6YcT467EhgWMequG) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [La Llave](https://open.spotify.com/album/3FhFLJcOQ3xuECoy24Dpe6) | 3:50 |
 | 42 | [Mi Luna Cautiva](https://open.spotify.com/track/10md0ULrtvH4fGhPKmknPq) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Este Destino Cantor](https://open.spotify.com/album/0vWwV6hypRxfLP77X58CI3) | 3:34 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 89 | [Serenata Otoñal](https://open.spotify.com/track/39YzTZ5TP1zjtNQOiD3x5B) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Confitería Europea 100 Años](https://open.spotify.com/album/3wcwbHnuDa07nEFmK3qmua) | 2:28 |
 | 90 | [La Tempranera](https://open.spotify.com/track/4Px7Z8x7JBJNlX0HSf9lfJ) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Desde Adentro](https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0) | 4:53 |
 
-Snapshot ID: `MCxlZDdkZjcwMzYzZGIyYjRmYmUzZTgyNzIyNzdjMjA1ZDM2OGVmOTFm`
+Snapshot ID: `MCxjOTg5ZWU0ZDIwZTA4ZWJlMGEwZjg2NTczNjEwMDY0YWY1YzljOGE0`

@@ -4,14 +4,15 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-57 songs - 2 hr 56 min
+58 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Bande](https://open.spotify.com/track/7wX4ffiROMwngmsc3aeL7O) | [George Sidhu](https://open.spotify.com/artist/3D2754tZxCEJ4bhiEN0QEC), [Rinku Chautala](https://open.spotify.com/artist/1wld069pW7ElApAwWfmyOa) | [10 Bande](https://open.spotify.com/album/2RJSx7VJU7VjcNCgmeKGhx) | 3:22 | 2023-07-18 |  |
 | [12 Bande](https://open.spotify.com/track/6dgYHmc5yBnQFI4FSCbp6y) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [12 Bande](https://open.spotify.com/album/77Yf6yctxLgelDYlLk9k1u) | 3:24 | 2023-07-18 |  |
 | [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 | 2023-07-18 |  |
-| [ANIMAL Pre\-Teaser Audio](https://open.spotify.com/track/39uuqD3qzHp5qPRONIrgSe) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [ANIMAL Pre\-Teaser Audio](https://open.spotify.com/album/4jYN9icTE1NDqCSE0YvHVB) | 0:49 | 2023-10-03 |  |
+| [ANIMAL Pre\-Teaser Audio](https://open.spotify.com/track/39uuqD3qzHp5qPRONIrgSe) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [ANIMAL Pre\-Teaser Audio](https://open.spotify.com/album/4jYN9icTE1NDqCSE0YvHVB) | 0:49 | 2023-10-03 | 2023-11-23 |
+| [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K) | 3:02 | 2023-11-18 |  |
 | [Balle Jatta](https://open.spotify.com/track/3TMub7U6GmZ9RIaQpQerbZ) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Balle Jatta](https://open.spotify.com/album/5TSOrVokaOvXbRXJOkJ1b5) | 3:32 | 2023-07-18 |  |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2023-07-18 |  |
 | [Behja Behja](https://open.spotify.com/track/0uBZBeRrBsUuJTepslamCJ) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Abbu](https://open.spotify.com/artist/2g8fHIiFYVaCtpilQR5YTv) | [Another Level](https://open.spotify.com/album/6GYai5E5mBTnottHe72eXm) | 2:27 | 2023-07-18 |  |

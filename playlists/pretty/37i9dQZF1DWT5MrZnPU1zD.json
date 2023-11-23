@@ -1,12 +1,12 @@
 {
   "description": "Pass the sticks & press play. ",
-  "num_followers": 1677572,
+  "num_followers": 1677653,
   "original_name": "Hip Hop Controller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjEyYTgzNDNjMmFhOWIyYjRjYzdiNGVlNjUyOWQyYTU0ODg5YWNi",
+  "snapshot_id": "MCw0NzFhZmU3ZjA0ZmE2MjIwMWZkMTg5YWZmOTM1YWRkMjYyNzQ5NDNi",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -31,22 +31,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Sprinter",
-        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 229133,
-      "name": "Sprinter",
-      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -67,18 +63,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Lovin On Me",
-        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+        "name": "Sprinter",
+        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 138411,
-      "name": "Lovin On Me",
-      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+      "duration_ms": 229133,
+      "name": "Sprinter",
+      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -443,26 +443,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Call Me Revenge (Call of Duty: Modern Warfare 3)",
-        "url": "https://open.spotify.com/album/7ISArb5GeVeJ6O65wUyIux"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 166464,
-      "name": "Call Me Revenge - Call of Duty: Modern Warfare 3",
-      "url": "https://open.spotify.com/track/6m0S4wcG6sTCP010ZrgdJI"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Glizock & Wizop (feat. Key Glock)",
         "url": "https://open.spotify.com/album/4ocf6wJAV6NJCBn8nTkeaj"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 192508,
       "name": "Glizock & Wizop (feat. Key Glock)",
       "url": "https://open.spotify.com/track/0zbGWzQkLY5wn4xyiLYEi0"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Call Me Revenge (Call of Duty: Modern Warfare 3)",
+        "url": "https://open.spotify.com/album/7ISArb5GeVeJ6O65wUyIux"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 166464,
+      "name": "Call Me Revenge - Call of Duty: Modern Warfare 3",
+      "url": "https://open.spotify.com/track/6m0S4wcG6sTCP010ZrgdJI"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "FAN",
-        "url": "https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "FAN",
-      "url": "https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
         "url": "https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 217213,
       "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
       "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "FAN",
+        "url": "https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "FAN",
+      "url": "https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "F*ck U Thought",
-        "url": "https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "F*ck U Thought",
-      "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "222",
         "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 146966,
       "name": "Bla Bla (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "F*ck U Thought",
+        "url": "https://open.spotify.com/album/61Bs2ccx3QlNk6wH1tMwtI"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "F*ck U Thought",
+      "url": "https://open.spotify.com/track/7nGY6TG3NF8MNdUOT2wJA4"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Heard Of Me",
-        "url": "https://open.spotify.com/album/21EvF7Ad9W7agK0o0vSBqz"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 224831,
-      "name": "Heard Of Me",
-      "url": "https://open.spotify.com/track/7pw6IXqjBn0M68l5JI3mIV"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Jenn Jenn Jenn",
         "url": "https://open.spotify.com/album/6WjpdxDbIidSJuY2Z4yjMg"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 120917,
       "name": "Jenn Jenn Jenn",
       "url": "https://open.spotify.com/track/09A7OM0R7yazApSFe0v1SA"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Heard Of Me",
+        "url": "https://open.spotify.com/album/21EvF7Ad9W7agK0o0vSBqz"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 224831,
+      "name": "Heard Of Me",
+      "url": "https://open.spotify.com/track/7pw6IXqjBn0M68l5JI3mIV"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "For You (feat. TaTa)",
-        "url": "https://open.spotify.com/album/3xqrmsG6yWQ05ITnRvqBv6"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        },
-        {
-          "name": "TaTa",
-          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
-        }
-      ],
-      "duration_ms": 119274,
-      "name": "For You (feat. TaTa)",
-      "url": "https://open.spotify.com/track/3rFNqqOjPeAcTn1P2i0FiV"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Underrated (Remix) [feat. MoneySign Suede]",
         "url": "https://open.spotify.com/album/4ko5DEJGsyTMd9UAAYKNAT"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 249411,
       "name": "Underrated (feat. MoneySign Suede) - Remix",
       "url": "https://open.spotify.com/track/6qWlp0154BPzimbk2CPkMm"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "For You (feat. TaTa)",
+        "url": "https://open.spotify.com/album/3xqrmsG6yWQ05ITnRvqBv6"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        }
+      ],
+      "duration_ms": 119274,
+      "name": "For You (feat. TaTa)",
+      "url": "https://open.spotify.com/track/3rFNqqOjPeAcTn1P2i0FiV"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "BREATHE.",
+        "url": "https://open.spotify.com/album/7aaruiZiAzYf7gLW86WhKT"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "duration_ms": 146229,
+      "name": "BREATHE.",
+      "url": "https://open.spotify.com/track/3xKXBuxYNVTFPyNpYPHbOI"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "TEXAS BOY",
         "url": "https://open.spotify.com/album/3MtKbdsPYG1uJWwk16qAVH"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 195267,
       "name": "ARSENAL (I SMELL BITCH) (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/5qVQkDreRgn8TFxRFfgYQB"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "BREATHE.",
-        "url": "https://open.spotify.com/album/7aaruiZiAzYf7gLW86WhKT"
-      },
-      "artists": [
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        }
-      ],
-      "duration_ms": 146229,
-      "name": "BREATHE.",
-      "url": "https://open.spotify.com/track/3xKXBuxYNVTFPyNpYPHbOI"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Pacer",
-        "url": "https://open.spotify.com/album/0C4bcDFbb7cQf2W3WH6RVm"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 176516,
-      "name": "Pacer",
-      "url": "https://open.spotify.com/track/14MdehDJ3lgRO6SVe60eHk"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "BUTTERFLY COUPE feat. Tyga",
         "url": "https://open.spotify.com/album/4Lm3jQ2K459Vufnq6wHjn4"
       },
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Pacer",
+        "url": "https://open.spotify.com/album/0C4bcDFbb7cQf2W3WH6RVm"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 176516,
+      "name": "Pacer",
+      "url": "https://open.spotify.com/track/14MdehDJ3lgRO6SVe60eHk"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Chops on the Blade",
         "url": "https://open.spotify.com/album/1W8rO7SBVNsjB2v197I0bk"
       },
@@ -1627,42 +1627,6 @@
       "duration_ms": 212154,
       "name": "Chops on the Blade",
       "url": "https://open.spotify.com/track/74Fqn1olHLrMlL6deu4ExE"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "DO NOT DISTURB",
-        "url": "https://open.spotify.com/album/7u08JA7JYQNi7rgYve3w0V"
-      },
-      "artists": [
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        },
-        {
-          "name": "Dro Kenji",
-          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "DO NOT DISTURB",
-      "url": "https://open.spotify.com/track/06pDFA1R4GHG9DbzshvbA3"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "ROTY",
-        "url": "https://open.spotify.com/album/1bj8fRMTZww5rRfP7jsnvi"
-      },
-      "artists": [
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        }
-      ],
-      "duration_ms": 129832,
-      "name": "Rapper of the Year",
-      "url": "https://open.spotify.com/track/6LlqdoSjvt0ANFOTIX5cn5"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1703,6 +1667,62 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "ROTY",
+        "url": "https://open.spotify.com/album/1bj8fRMTZww5rRfP7jsnvi"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "duration_ms": 129832,
+      "name": "Rapper of the Year",
+      "url": "https://open.spotify.com/track/6LlqdoSjvt0ANFOTIX5cn5"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "DO NOT DISTURB",
+        "url": "https://open.spotify.com/album/7u08JA7JYQNi7rgYve3w0V"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        },
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "DO NOT DISTURB",
+      "url": "https://open.spotify.com/track/06pDFA1R4GHG9DbzshvbA3"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Walk",
+        "url": "https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "duration_ms": 124965,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "BUTTERFLY COUPE feat. Quavo (PART 2)",
         "url": "https://open.spotify.com/album/7dlgyGTSBR0SyN7tMo3R43"
       },
@@ -1739,26 +1759,6 @@
       "duration_ms": 153600,
       "name": "Chrome Hearted (feat. Tyga)",
       "url": "https://open.spotify.com/track/7xNgrfKL4Ih82SbJIU9S1q"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Walk",
-        "url": "https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9"
-      },
-      "artists": [
-        {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        },
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        }
-      ],
-      "duration_ms": 124965,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/725UfuWEXWg0C7PCqP8HIz"
     },
     {
       "added_at": "2023-11-10 05:00:00",

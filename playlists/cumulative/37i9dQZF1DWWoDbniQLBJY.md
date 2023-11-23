@@ -4,7 +4,7 @@
 
 > Pop acústico para tu día.
 
-187 songs - 11 hr 14 min
+188 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Ni Tú Ni Yo \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3SGYaD6fFdjAKdju5LM2p1) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Spotify Singles](https://open.spotify.com/album/0Y808JJyzRr0gXTNNDL2bA) | 3:37 | 2021-12-16 | 2022-11-13 |
 | [No Ha Parado de Llover \- Unplugged](https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [MTV Unplugged](https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2) | 6:40 | 2021-12-16 |  |
 | [No Lo Soñé \- Version Acustico](https://open.spotify.com/track/6chtkBSmt7RorTFD8EQtXx) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Mis Favoritas](https://open.spotify.com/album/0COUHCrbpLcVNCI8ITVMhi) | 4:41 | 2021-12-16 |  |
+| [No se me Olvidó \- Acústica \(feat\. Alvaro Paiva\-Bimbo\)](https://open.spotify.com/track/0s9MgbxqFjOrGQSXWdTCeD) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN), [Alvaro Paiva\-Bimbo](https://open.spotify.com/artist/6xDnFHAdyxSODNZWkS5jYC) | [Antes de Dormir EP \(feat\. Betsayda Machado\)](https://open.spotify.com/album/45RGMyNXyrwo3dB9fe9ZKY) | 3:08 | 2023-11-17 |  |
 | [No Valgo Pa' Ciudad](https://open.spotify.com/track/4rf696AmoiPsggWktpSyX5) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [No Valgo Pa' Ciudad](https://open.spotify.com/album/6inO88KEzGOsZxOYAvRsr2) | 3:06 | 2021-12-16 |  |
 | [no vuelvas a mirar atrás](https://open.spotify.com/track/0fDRELbqeJ8nlkZJT3UvwQ) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [no vuelvas a mirar atrás](https://open.spotify.com/album/0aJ6gjjfwHDPEDHeltfuu7) | 4:05 | 2022-08-05 | 2023-11-07 |
 | [no vuelvas a mirar atrás](https://open.spotify.com/track/5TmUCweI7JXVWxn1zHJzyN) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [no vuelvas a mirar atrás](https://open.spotify.com/album/05bj3fX7Wrs45EBPp35bBQ) | 4:05 | 2021-12-16 | 2022-10-13 |
@@ -187,7 +188,7 @@
 | [Underdog \- Acoustic Version](https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Underdog \(Acoustic Version\)](https://open.spotify.com/album/29Tp5smvItl2ghk03OAsZP) | 3:30 | 2022-06-07 | 2023-06-09 |
 | [Universo Amor](https://open.spotify.com/track/5HPJg7UI2h3aJjHWf98V1N) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Universo Amor](https://open.spotify.com/album/7qU1O8uxdzWUPVQ9AnzN0Z) | 3:36 | 2021-12-16 |  |
 | [Vasos Vacíos](https://open.spotify.com/track/6hI0uColSS0GsO9oNyYZ3k) | [Natalia Marroquin](https://open.spotify.com/artist/4DMmNPjcbctsOIUt54t5Rk) | [Vasos Vacíos](https://open.spotify.com/album/3r4WBaQUHgHFyCdjmIkqkN) | 7:02 | 2021-12-16 | 2022-07-29 |
-| [Velero](https://open.spotify.com/track/4mQ4EM1rxdOo7Cc9g5dXK2) | [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Velero](https://open.spotify.com/album/7tBeAWDG3WD9AtaxpAjpU4) | 2:16 | 2023-04-03 |  |
+| [Velero](https://open.spotify.com/track/4mQ4EM1rxdOo7Cc9g5dXK2) | [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Velero](https://open.spotify.com/album/7tBeAWDG3WD9AtaxpAjpU4) | 2:16 | 2023-04-03 | 2023-11-23 |
 | [Veneno \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:05 | 2021-12-16 |  |
 | [Vivir Sin Aire \- Unplugged](https://open.spotify.com/track/6ccgxTZ8boW6g80rXPplS6) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [MTV Unplugged](https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2) | 5:44 | 2021-12-16 |  |
 | [Volverte A Ver \- MTV Unplugged](https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Tr3s Presents Juanes MTV Unplugged](https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH) | 4:29 | 2021-12-16 |  |

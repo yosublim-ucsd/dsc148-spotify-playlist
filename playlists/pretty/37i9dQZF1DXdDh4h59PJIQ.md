@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 
 > ¡Estos son los hits de la electrónica en el 2023!
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,507 likes - 150 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,048 likes - 150 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 | 98 | [Morenita](https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Morenita](https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW) | 2:56 |
 | 99 | [Permanence](https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Permanence](https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg) | 3:51 |
 | 100 | [PORQUE TE VAS](https://open.spotify.com/track/6DdABq4yTgh3nRhudbEEGb) | [Audioiko](https://open.spotify.com/artist/5DX6kBsol8H5sx5TYBjOsR), [Redemm](https://open.spotify.com/artist/4HyrJAItCZwWPIrTfRWTvu), [Arely Vega](https://open.spotify.com/artist/2uTF9P7u4OMmFK9NnsEQZm) | [PORQUE TE VAS](https://open.spotify.com/album/7fFCrT7nvjKe2Dvx4JeFi8) | 3:27 |
-| 101 | [Creep](https://open.spotify.com/track/5LRxdeykOfvKb1aWGrrGyo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/31LEjqDdP0TyZgiuse84cf) | 2:41 |
+| 101 | [Creep](https://open.spotify.com/track/44wMXyr2IbVa1e2t1XeSvI) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/2JDxkewW94MQj5GUi5Efvo) | 2:41 |
 | 102 | [Clap Your Hands](https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Clap Your Hands](https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q) | 3:09 |
 | 103 | [Shake It](https://open.spotify.com/track/2Z78AngJD5wuKpSFIf89F3) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Shake It](https://open.spotify.com/album/4LjGbU7iSp0eHTaJmNMfay) | 2:47 |
 | 104 | [Believe](https://open.spotify.com/track/0rhfIKvVhXC4iJlpJr04Lg) | [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Nina Vlu](https://open.spotify.com/artist/64Oy4mSftBMYRrInaWmOFt) | [Believe](https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6) | 2:29 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDh4h59PJIQ.md) - [plain]
 | 149 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 |
 | 150 | [The Business, Pt\. II](https://open.spotify.com/track/0SZPXD0uEl72YjUVY2K3E9) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Business, Pt\. II](https://open.spotify.com/album/2E5YkarkawdVYhDaoygvih) | 2:44 |
 
-Snapshot ID: `MCxlNjBkY2E2YTgwNjhmN2NjYTQ1YjJhZDQ3MDA5MGM5NTRkM2MxNzQx`
+Snapshot ID: `MCxjZWMxZGRmMzY3ZTc0N2RjNmYwYjRiM2NhMTQzYjE2ZWE5YjhiNDdl`

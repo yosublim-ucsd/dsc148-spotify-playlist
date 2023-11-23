@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,621 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,641 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Always Free](https://open.spotify.com/track/0vD4NlJVWTYE8rdj1UGsAt) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends](https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2) | 2:57 |
 | 100 | [She Calls Me Kingfish](https://open.spotify.com/track/7txQNFAmmzHJezbLSVCclc) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:12 |
 
-Snapshot ID: `MCxmNjQyYmEwY2I4ZTk2ZGEzNTQ1YWY1NDk4MzgxOGM3ZjRjZjIwMGQ4`
+Snapshot ID: `MCxjZTBjMWQ2M2Q4YTNmNDBhZmE5ODUwMTRiOTVlMGJjMTQzMjA0MWYw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: bambi
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,241 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,384 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [MUSZĘ TO WYKRZYCZEĆ](https://open.spotify.com/track/6RUbdD23fL9PQYnOMd8L7b) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso) | [Sextape / MTW](https://open.spotify.com/album/3CAUyLZPYc4wP4xOGeSoR2) | 1:46 |
 | 50 | [Cichosza](https://open.spotify.com/track/3kjMeY6ZgOZYAFRiPHMqmS) | [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ), [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [Zeppy Zep](https://open.spotify.com/artist/2hnyMG1DuXarlHFJDITc3n) | [1\-800\-OŚWIECENIE](https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU) | 3:14 |
 
-Snapshot ID: `MCxhNTZhZTFiYmZkMDYyOWFmMzQzY2ZjYTkzZTYzZTU3YzU3MTZhODgw`
+Snapshot ID: `MCw5OWNmZjA3NWU3Y2Y2NzQ3ZTE0NzU4ZTA2NzFmZjUyYWI3ZTZhY2Yy`

@@ -1,12 +1,12 @@
 {
   "description": "Dembow dominicano to el d\u00eda. Foto: Tokischa",
-  "num_followers": 97706,
+  "num_followers": 97756,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NWQyMGY0NzcxY2Q1YTFmNDM5ZTY3ZDRkODViYzYxZmZlMmRiYzk2",
+  "snapshot_id": "MCw2MWQ3NjU3NTFkNDI0MTgyYjkwM2Q5MTRjNjlhZWFiZThlNTg5ZTM3",
   "tracks": [
     {
       "added_at": "2023-10-19 16:48:19",
@@ -667,6 +667,26 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
+        "name": "Teteo (Remix)",
+        "url": "https://open.spotify.com/album/3yD356NolKdgzI3sToykwN"
+      },
+      "artists": [
+        {
+          "name": "El Fecho RD",
+          "url": "https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e"
+        },
+        {
+          "name": "You R",
+          "url": "https://open.spotify.com/artist/2HPjwOl5k2CHqjHyjtsdDe"
+        }
+      ],
+      "duration_ms": 203098,
+      "name": "Teteo - Remix",
+      "url": "https://open.spotify.com/track/3RtkSIb1hkLriZhzPerQHJ"
+    },
+    {
+      "added_at": "2023-10-19 16:48:19",
+      "album": {
         "name": "Hoy Te Toca (with El Cherry Scom & Kunno)",
         "url": "https://open.spotify.com/album/7qYyqW4wCy6d5emJzdNceR"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 277786,
       "name": "La Chanty",
       "url": "https://open.spotify.com/track/6ngGJ6ZxRFFf8sQPxcRsSg"
-    },
-    {
-      "added_at": "2023-10-19 16:48:19",
-      "album": {
-        "name": "Teteo (Remix)",
-        "url": "https://open.spotify.com/album/3yD356NolKdgzI3sToykwN"
-      },
-      "artists": [
-        {
-          "name": "El Fecho RD",
-          "url": "https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e"
-        },
-        {
-          "name": "You R",
-          "url": "https://open.spotify.com/artist/2HPjwOl5k2CHqjHyjtsdDe"
-        }
-      ],
-      "duration_ms": 203098,
-      "name": "Teteo - Remix",
-      "url": "https://open.spotify.com/track/3RtkSIb1hkLriZhzPerQHJ"
     },
     {
       "added_at": "2023-10-19 16:48:19",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
-        "name": "Rulay",
-        "url": "https://open.spotify.com/album/2JXJ6OFAbYksVKJo5kTkpc"
-      },
-      "artists": [
-        {
-          "name": "Wander Love",
-          "url": "https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd"
-        },
-        {
-          "name": "EL PERROTE WZ",
-          "url": "https://open.spotify.com/artist/06VlyIMw7ZPYhc6wNu4f4D"
-        }
-      ],
-      "duration_ms": 175767,
-      "name": "Rulay",
-      "url": "https://open.spotify.com/track/6QTj6gcfI98TUKMK66ku4C"
-    },
-    {
-      "added_at": "2023-10-19 16:48:19",
-      "album": {
         "name": "Dembow 2014 - 14 Original Urban Hits!",
         "url": "https://open.spotify.com/album/2wQgEZf2kLZFjLOqI9EV64"
       },
@@ -1207,6 +1187,22 @@
       "duration_ms": 205080,
       "name": "Siente El Ki",
       "url": "https://open.spotify.com/track/4Y4TzQhODQmsTRA3NTuFlV"
+    },
+    {
+      "added_at": "2023-10-19 16:48:19",
+      "album": {
+        "name": "Mr Brum Brum",
+        "url": "https://open.spotify.com/album/1mQTVVmy6EUp67GjRD2h40"
+      },
+      "artists": [
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        }
+      ],
+      "duration_ms": 172878,
+      "name": "Brum Brum",
+      "url": "https://open.spotify.com/track/62utJ0vVOX6X7EFJ8XsmA1"
     },
     {
       "added_at": "2023-10-19 16:48:19",
@@ -1235,18 +1231,22 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
-        "name": "Mr Brum Brum",
-        "url": "https://open.spotify.com/album/1mQTVVmy6EUp67GjRD2h40"
+        "name": "Rulay",
+        "url": "https://open.spotify.com/album/2JXJ6OFAbYksVKJo5kTkpc"
       },
       "artists": [
         {
-          "name": "Lirico En La Casa",
-          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+          "name": "Wander Love",
+          "url": "https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd"
+        },
+        {
+          "name": "EL PERROTE WZ",
+          "url": "https://open.spotify.com/artist/06VlyIMw7ZPYhc6wNu4f4D"
         }
       ],
-      "duration_ms": 172878,
-      "name": "Brum Brum",
-      "url": "https://open.spotify.com/track/62utJ0vVOX6X7EFJ8XsmA1"
+      "duration_ms": 175767,
+      "name": "Rulay",
+      "url": "https://open.spotify.com/track/6QTj6gcfI98TUKMK66ku4C"
     },
     {
       "added_at": "2023-10-19 16:48:19",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
+        "name": "No Son de Na",
+        "url": "https://open.spotify.com/album/4J4bjLAtDPXFSjhNhV2MIS"
+      },
+      "artists": [
+        {
+          "name": "Tommy Titerito",
+          "url": "https://open.spotify.com/artist/7qaDbD0PkaTUTOaUpqMeGk"
+        }
+      ],
+      "duration_ms": 185984,
+      "name": "No Son de Na",
+      "url": "https://open.spotify.com/track/5W8oJxVClXOOAwS84nfrry"
+    },
+    {
+      "added_at": "2023-10-19 16:48:19",
+      "album": {
         "name": "Dominican Playero 40",
         "url": "https://open.spotify.com/album/2eoQDJb2fNXkuBfWPANoJe"
       },
@@ -1523,18 +1539,18 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
-        "name": "No Son de Na",
-        "url": "https://open.spotify.com/album/4J4bjLAtDPXFSjhNhV2MIS"
+        "name": "Dominican Playero",
+        "url": "https://open.spotify.com/album/5njrj9D5UAV0Hy0H3VGD8Y"
       },
       "artists": [
         {
-          "name": "Tommy Titerito",
-          "url": "https://open.spotify.com/artist/7qaDbD0PkaTUTOaUpqMeGk"
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
         }
       ],
-      "duration_ms": 185984,
-      "name": "No Son de Na",
-      "url": "https://open.spotify.com/track/5W8oJxVClXOOAwS84nfrry"
+      "duration_ms": 189840,
+      "name": "Dominican Playero",
+      "url": "https://open.spotify.com/track/4BTE1TBTl3GUAR4JNYjhU5"
     },
     {
       "added_at": "2023-10-19 16:48:19",
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
-        "name": "Dominican Playero",
-        "url": "https://open.spotify.com/album/5njrj9D5UAV0Hy0H3VGD8Y"
-      },
-      "artists": [
-        {
-          "name": "Quimico Ultra Mega",
-          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "Dominican Playero",
-      "url": "https://open.spotify.com/track/4BTE1TBTl3GUAR4JNYjhU5"
-    },
-    {
-      "added_at": "2023-10-19 16:48:19",
-      "album": {
         "name": "Otro Formato",
         "url": "https://open.spotify.com/album/0axv0B6m5rgRoV9NSPyBha"
       },
@@ -1599,6 +1599,30 @@
       "duration_ms": 245815,
       "name": "Pepe",
       "url": "https://open.spotify.com/track/5A6aB3vKw5NqLZl9IXGvIm"
+    },
+    {
+      "added_at": "2023-10-19 16:48:19",
+      "album": {
+        "name": "Kikito",
+        "url": "https://open.spotify.com/album/1dQIXiLFLRMdI84tjfOwdC"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        }
+      ],
+      "duration_ms": 170084,
+      "name": "KIKITO",
+      "url": "https://open.spotify.com/track/3E24uQnsEFBxqaGrxyTuMK"
     },
     {
       "added_at": "2023-10-19 16:48:19",
@@ -1651,30 +1675,6 @@
       "duration_ms": 199615,
       "name": "Me Tienen Dema (Golo Golo)",
       "url": "https://open.spotify.com/track/6y9VN5ngWahRxk7xv7sQru"
-    },
-    {
-      "added_at": "2023-10-19 16:48:19",
-      "album": {
-        "name": "Kikito",
-        "url": "https://open.spotify.com/album/1dQIXiLFLRMdI84tjfOwdC"
-      },
-      "artists": [
-        {
-          "name": "Engel Montaz",
-          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
-        },
-        {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
-        },
-        {
-          "name": "Leo RD",
-          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
-        }
-      ],
-      "duration_ms": 170084,
-      "name": "KIKITO",
-      "url": "https://open.spotify.com/track/3E24uQnsEFBxqaGrxyTuMK"
     },
     {
       "added_at": "2023-10-19 16:48:19",
@@ -2071,6 +2071,26 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
+        "name": "De Boca",
+        "url": "https://open.spotify.com/album/5nqB5knKXNhnLKENyB1jPg"
+      },
+      "artists": [
+        {
+          "name": "El Super Nuevo",
+          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
+        },
+        {
+          "name": "Bulova",
+          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+        }
+      ],
+      "duration_ms": 183534,
+      "name": "De Boca",
+      "url": "https://open.spotify.com/track/2VaYsYUBZZfj8nLyQxnGCs"
+    },
+    {
+      "added_at": "2023-10-19 16:48:19",
+      "album": {
         "name": "Demagogo Mil Informando",
         "url": "https://open.spotify.com/album/7deYXSwcPnLhlX4wEUV56G"
       },
@@ -2095,42 +2115,22 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
-        "name": "De Boca",
-        "url": "https://open.spotify.com/album/5nqB5knKXNhnLKENyB1jPg"
+        "name": "HIT DEMBOW",
+        "url": "https://open.spotify.com/album/53nhDhd29gXKOnE3vUS1DR"
       },
       "artists": [
         {
-          "name": "El Super Nuevo",
-          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
+          "name": "El Fother",
+          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
         },
         {
           "name": "Bulova",
           "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
         }
       ],
-      "duration_ms": 183534,
-      "name": "De Boca",
-      "url": "https://open.spotify.com/track/2VaYsYUBZZfj8nLyQxnGCs"
-    },
-    {
-      "added_at": "2023-10-19 16:48:19",
-      "album": {
-        "name": "Pikilao",
-        "url": "https://open.spotify.com/album/4WpNyKxMzO2NVseDzkaO0o"
-      },
-      "artists": [
-        {
-          "name": "Los Del Millero",
-          "url": "https://open.spotify.com/artist/5Xid8RniwfI34R5LLqHFbs"
-        },
-        {
-          "name": "El Tratol",
-          "url": "https://open.spotify.com/artist/013YMkhPziWNAvcGcdSnHn"
-        }
-      ],
-      "duration_ms": 160705,
-      "name": "Pikilao",
-      "url": "https://open.spotify.com/track/1USrz45gdBbu2OzpkFZPSI"
+      "duration_ms": 250004,
+      "name": "Bailalo",
+      "url": "https://open.spotify.com/track/0WIZPUEYMsLBMidzp9wf5j"
     },
     {
       "added_at": "2023-10-19 16:48:19",
@@ -2151,22 +2151,22 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
-        "name": "HIT DEMBOW",
-        "url": "https://open.spotify.com/album/53nhDhd29gXKOnE3vUS1DR"
+        "name": "Pikilao",
+        "url": "https://open.spotify.com/album/4WpNyKxMzO2NVseDzkaO0o"
       },
       "artists": [
         {
-          "name": "El Fother",
-          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
+          "name": "Los Del Millero",
+          "url": "https://open.spotify.com/artist/5Xid8RniwfI34R5LLqHFbs"
         },
         {
-          "name": "Bulova",
-          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
+          "name": "El Tratol",
+          "url": "https://open.spotify.com/artist/013YMkhPziWNAvcGcdSnHn"
         }
       ],
-      "duration_ms": 250004,
-      "name": "Bailalo",
-      "url": "https://open.spotify.com/track/0WIZPUEYMsLBMidzp9wf5j"
+      "duration_ms": 160705,
+      "name": "Pikilao",
+      "url": "https://open.spotify.com/track/1USrz45gdBbu2OzpkFZPSI"
     },
     {
       "added_at": "2023-10-19 16:48:19",
@@ -2255,6 +2255,26 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/670TJ2hsrv8Lqump0NmLoN"
+      },
+      "artists": [
+        {
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+        },
+        {
+          "name": "Sensato",
+          "url": "https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS"
+        }
+      ],
+      "duration_ms": 247301,
+      "name": "El Mario De Tu Mujer",
+      "url": "https://open.spotify.com/track/1f1G5MnOof1LHXVAxsqEPJ"
+    },
+    {
+      "added_at": "2023-10-19 16:48:19",
+      "album": {
         "name": "Me Vale V3rg4",
         "url": "https://open.spotify.com/album/12PjHJ65aOOicQRb6Zuslz"
       },
@@ -2279,6 +2299,22 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
+        "name": "Guayabu",
+        "url": "https://open.spotify.com/album/0ir4DHfH1beyncktC1fS9F"
+      },
+      "artists": [
+        {
+          "name": "Liro Shaq",
+          "url": "https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk"
+        }
+      ],
+      "duration_ms": 182543,
+      "name": "Guayabu",
+      "url": "https://open.spotify.com/track/44od1fdb17U2rdvfGYJY68"
+    },
+    {
+      "added_at": "2023-10-19 16:48:19",
+      "album": {
         "name": "Primero Que Kanye",
         "url": "https://open.spotify.com/album/6As2PZV5rjM9lszI3VSjy4"
       },
@@ -2299,22 +2335,6 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
-        "name": "Guayabu",
-        "url": "https://open.spotify.com/album/0ir4DHfH1beyncktC1fS9F"
-      },
-      "artists": [
-        {
-          "name": "Liro Shaq",
-          "url": "https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk"
-        }
-      ],
-      "duration_ms": 182543,
-      "name": "Guayabu",
-      "url": "https://open.spotify.com/track/44od1fdb17U2rdvfGYJY68"
-    },
-    {
-      "added_at": "2023-10-19 16:48:19",
-      "album": {
         "name": "Reverencia H\u00e1ganme",
         "url": "https://open.spotify.com/album/1XTEetVuPgrjIVmwh3Z8RT"
       },
@@ -2327,26 +2347,6 @@
       "duration_ms": 229368,
       "name": "No Me Friso",
       "url": "https://open.spotify.com/track/0kubltSGBsLjlAe9AzCvMQ"
-    },
-    {
-      "added_at": "2023-10-19 16:48:19",
-      "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/670TJ2hsrv8Lqump0NmLoN"
-      },
-      "artists": [
-        {
-          "name": "Don Miguelo",
-          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
-        },
-        {
-          "name": "Sensato",
-          "url": "https://open.spotify.com/artist/7iJrDbKM5fEkGdm5kpjFzS"
-        }
-      ],
-      "duration_ms": 247301,
-      "name": "El Mario De Tu Mujer",
-      "url": "https://open.spotify.com/track/1f1G5MnOof1LHXVAxsqEPJ"
     },
     {
       "added_at": "2023-10-19 16:48:19",
@@ -2631,22 +2631,6 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
-        "name": "Acelera",
-        "url": "https://open.spotify.com/album/7zrOgGlWwDcozHw6W9jQmo"
-      },
-      "artists": [
-        {
-          "name": "Principe Baru",
-          "url": "https://open.spotify.com/artist/7pqTCXbnpkMutsNHe9nsdR"
-        }
-      ],
-      "duration_ms": 206936,
-      "name": "Acelera",
-      "url": "https://open.spotify.com/track/1G1Jk034FuLw7JsaymjIWU"
-    },
-    {
-      "added_at": "2023-10-19 16:48:19",
-      "album": {
         "name": "Kame Hame Ha",
         "url": "https://open.spotify.com/album/5qMNrrCWKtuIoHXFytIPQt"
       },
@@ -2671,6 +2655,22 @@
     {
       "added_at": "2023-10-19 16:48:19",
       "album": {
+        "name": "Acelera",
+        "url": "https://open.spotify.com/album/7zrOgGlWwDcozHw6W9jQmo"
+      },
+      "artists": [
+        {
+          "name": "Principe Baru",
+          "url": "https://open.spotify.com/artist/7pqTCXbnpkMutsNHe9nsdR"
+        }
+      ],
+      "duration_ms": 206936,
+      "name": "Acelera",
+      "url": "https://open.spotify.com/track/1G1Jk034FuLw7JsaymjIWU"
+    },
+    {
+      "added_at": "2023-10-19 16:48:19",
+      "album": {
         "name": "Vaina Bakana",
         "url": "https://open.spotify.com/album/63VzRHrUrmftA2NbRrgzk8"
       },
@@ -2683,6 +2683,26 @@
       "duration_ms": 197217,
       "name": "Vaina Bakana",
       "url": "https://open.spotify.com/track/6zv9M2zIHPSXOLOJsAPW0U"
+    },
+    {
+      "added_at": "2023-10-19 16:48:19",
+      "album": {
+        "name": "Dembow Latino",
+        "url": "https://open.spotify.com/album/13pn00h8Ozr8jWvu6QSAl6"
+      },
+      "artists": [
+        {
+          "name": "El Mega",
+          "url": "https://open.spotify.com/artist/5CUH61JagyX1jRxaLHBpSs"
+        },
+        {
+          "name": "El Mayor Clasico",
+          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
+        }
+      ],
+      "duration_ms": 193192,
+      "name": "La Cueva de los Indios - Remix",
+      "url": "https://open.spotify.com/track/77uS85fmMaIjWSZlwFffB2"
     },
     {
       "added_at": "2023-10-19 16:48:19",
@@ -2723,26 +2743,6 @@
       "duration_ms": 134237,
       "name": "Yo Quiero",
       "url": "https://open.spotify.com/track/1t4DLSdEpTDy5v8aUMK5jY"
-    },
-    {
-      "added_at": "2023-10-19 16:48:19",
-      "album": {
-        "name": "Dembow Latino",
-        "url": "https://open.spotify.com/album/13pn00h8Ozr8jWvu6QSAl6"
-      },
-      "artists": [
-        {
-          "name": "El Mega",
-          "url": "https://open.spotify.com/artist/5CUH61JagyX1jRxaLHBpSs"
-        },
-        {
-          "name": "El Mayor Clasico",
-          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
-        }
-      ],
-      "duration_ms": 193192,
-      "name": "La Cueva de los Indios - Remix",
-      "url": "https://open.spotify.com/track/77uS85fmMaIjWSZlwFffB2"
     },
     {
       "added_at": "2023-10-19 16:48:19",

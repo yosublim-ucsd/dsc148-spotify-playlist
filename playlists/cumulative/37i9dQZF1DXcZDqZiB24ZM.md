@@ -2,9 +2,9 @@
 
 ### [Les nouveaux classiques](https://open.spotify.com/playlist/37i9dQZF1DXcZDqZiB24ZM)
 
-> Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
+> Les essentiels du hip\-hop québécois des dernières années\. Photo: Loud
 
-192 songs - 11 hr 28 min
+193 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [CQJVD](https://open.spotify.com/track/66adaIJbJrkVroQUhM4nIA) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Caballero](https://open.spotify.com/artist/5DE0by3fZT0nrlJSutY2D7), [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [Soufflette](https://open.spotify.com/album/6npTkgdjEFrrIkswNASwS0) | 6:01 | 2022-03-11 | 2022-07-23 |
 | [Dans L'trap](https://open.spotify.com/track/4ZaVq23ofISP4U9EChy7sN) | [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf), [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H), [E.Santana](https://open.spotify.com/artist/4xuP5XVUJPwlw7iP7eY0gQ) | [Encore Des Histoires De Trap](https://open.spotify.com/album/5f27f4CYjasBqMXVn6nbuw) | 3:39 | 2022-03-11 |  |
 | [Dans la peau \(Anxiety\)](https://open.spotify.com/track/3n2pKZvxaUtVUdsj6UcW4s) | [Yes Mccan](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Dans la peau \(Anxiety\)](https://open.spotify.com/album/3xTEAdIIr3QJ67eYSYlDa1) | 3:03 | 2022-03-11 | 2022-07-27 |
+| [Dans la peau \(Anxiety\)](https://open.spotify.com/track/4thpnFUoYU4QYeQuhANS1j) | [Yes\*](https://open.spotify.com/artist/4jZA2jnUB8cz6EgOto9sMS) | [Dans la peau \(Anxiety\)](https://open.spotify.com/album/6exA47nOA3FEkMkiwZCFSq) | 3:03 | 2022-03-11 |  |
 | [Day Off](https://open.spotify.com/track/4SQBOThUyQAdFKXVTyPbIp) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [Day Off](https://open.spotify.com/album/2EwxsQk2KSnXppM37afXlK) | 3:32 | 2022-03-11 | 2023-08-15 |
 | [Dead Summer](https://open.spotify.com/track/6HYFlCcMKPENq5hJOwGXGE) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Dead Summer](https://open.spotify.com/album/3sOQNYpBqJ4ycOhcDTxUy5) | 2:45 | 2022-03-11 |  |
 | [Devenir immortel \(et puis mourir\)](https://open.spotify.com/track/2V87kJ8CDel2anZpqVuC8F) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Une année record](https://open.spotify.com/album/3qXEmug7yjJvgTnWo6h1ZQ) | 3:28 | 2022-03-11 |  |
@@ -66,7 +67,7 @@
 | [Everyday](https://open.spotify.com/track/6QHw065kdaK0q0SKw3Bfwp) | [Kay Bandz](https://open.spotify.com/artist/0NhcQOX46LVhK8aUc4vmMd), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Everyday](https://open.spotify.com/album/7x2cj18Nwk5dWj06lwT8ja) | 3:56 | 2022-03-11 | 2022-07-29 |
 | [Everyday](https://open.spotify.com/track/3j58W1jG6oYzwFJR1zDYkT) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Chacun son chemin](https://open.spotify.com/album/18ptjp43gzqhBk3DdpqZDh) | 3:03 | 2022-03-11 | 2022-07-29 |
 | [Explosif](https://open.spotify.com/track/7tm7eVsfOryDmfT3bflSW0) | [Dead Obies](https://open.spotify.com/artist/6pcIfv5iZnVQgUNcKp8lGA) | [Gesamtkunstwerk](https://open.spotify.com/album/7ltRG1oLVFSKSlU28S0VNW) | 8:01 | 2022-03-11 |  |
-| [Fais ton shift](https://open.spotify.com/track/4rXzUQCQQSfa8pybnq5Wok) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [David Lee](https://open.spotify.com/artist/1e3fh39USNb6tlHc9UMuwf), [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [La Barquetterie](https://open.spotify.com/album/1NrmMEOZY5M0AwC1Dokqef) | 4:22 | 2022-03-11 |  |
+| [Fais ton shift](https://open.spotify.com/track/4rXzUQCQQSfa8pybnq5Wok) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [David Lee](https://open.spotify.com/artist/1e3fh39USNb6tlHc9UMuwf), [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [La Barquetterie](https://open.spotify.com/album/1NrmMEOZY5M0AwC1Dokqef) | 4:22 | 2022-03-11 | 2023-11-23 |
 | [Fais\-moi briller](https://open.spotify.com/track/16WzF91ZzkGWvnaZVQ9rwq) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [La Barquetterie](https://open.spotify.com/album/1NrmMEOZY5M0AwC1Dokqef) | 2:27 | 2022-03-11 | 2022-07-28 |
 | [Faits d'hiver](https://open.spotify.com/track/300wnPpERq0OFEG92ur2Nn) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Faits d'hiver](https://open.spotify.com/album/4kk3W4tg7QRzm0UEQfBBWf) | 3:03 | 2022-03-11 | 2023-06-04 |
 | [Faits d'hiver](https://open.spotify.com/track/6wmeVIUvh2z2jqdWdXJROb) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Faits d'hiver](https://open.spotify.com/album/1EQPa4FED7g3dPTZUzXTaK) | 3:03 | 2022-03-11 |  |

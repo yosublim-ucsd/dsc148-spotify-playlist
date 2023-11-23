@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Only U
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,078 likes - 81 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,114 likes - 81 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 19 | [Reach \(feat\. C.O.S.A.\)](https://open.spotify.com/track/2esBmM9PGpDIjydVegNLy9) | [ANARCHY](https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [My Mind](https://open.spotify.com/album/6bbPfBJXoz1ISxx4T48krs) | 2:57 |
 | 20 | [CRUSIN](https://open.spotify.com/track/4RYFrGHJyy0gHkD4KgvP4e) | [Tha Jointz](https://open.spotify.com/artist/0J7djFMwBhnbgAN11Gggvg), [MFS](https://open.spotify.com/artist/5qH4hGRUWoLtBVgMD0alcb), [WELL\-DONE](https://open.spotify.com/artist/5pBvGEECNZdaPCXcZGe8hQ), [KOH](https://open.spotify.com/artist/0b3KYCtaiOQbtq95mlefTb), [JASS](https://open.spotify.com/artist/5PYaF7q6SqPMfWFqiFSHNw) | [CRUSIN](https://open.spotify.com/album/2dkDsO9Big1Opk9QrNEx6V) | 4:06 |
 | 21 | [Wind Rise](https://open.spotify.com/track/7ft8cpFbv0E9SOUiUMcPuW) | [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Speed Tape](https://open.spotify.com/album/0pYpedPWmSW8BABYhG4QDD) | 3:05 |
-| 22 | [ソールとSoul](https://open.spotify.com/track/5B2riCpFmUMebY1W9eABPj) | [TKdaKurobuchi](https://open.spotify.com/artist/3YeqRPuVdUg4RbLJkIMrY8), [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [ソールとSoul](https://open.spotify.com/album/3AizpdSBOGiEqkSKGrbGfd) | 2:22 |
+| 22 | [Sole to Soul](https://open.spotify.com/track/72UTUM9CT7NfBeSFKkOjwx) | [TKdaKurobuchi](https://open.spotify.com/artist/3YeqRPuVdUg4RbLJkIMrY8), [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [Sole to Soul](https://open.spotify.com/album/6yTZGDEV2SIq8QyL117XF7) | 2:22 |
 | 23 | [Lowkey](https://open.spotify.com/track/0Lp9XhHntpJRwm3K0r5TDT) | [DJ KANJI](https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN), [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU), [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [Lowkey](https://open.spotify.com/album/4mjWtLPXnxZAihOkBJNtvf) | 3:56 |
 | 24 | [EDEN](https://open.spotify.com/track/1OqhdM5mUZ5fJeh4s5vhxg) | [GeG](https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi), [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx) | [EDEN](https://open.spotify.com/album/3vQHDzTYpr08HLbHprAInT) | 3:54 |
 | 25 | [CheckMate](https://open.spotify.com/track/5CbBaIi8ATyn3fJ8PnfYgN) | [Ashley](https://open.spotify.com/artist/68xFTHjN3CYGGlgzKSSAuZ) | [CheckMate](https://open.spotify.com/album/4P33EqCD2BlfS5d57VgGRw) | 2:26 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 46 | [Don't Kill UR...](https://open.spotify.com/track/4n9A7f9EZVYvNwlb6asTlS) | [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [Don't Kill UR...](https://open.spotify.com/album/6i7e9Y8YeIapmYJNvxgMkw) | 3:33 |
 | 47 | [Inori](https://open.spotify.com/track/2q8CAa5H8Bih1zWvwzAglO) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [Sea of Love](https://open.spotify.com/album/6X7MO86uhjtTrUI4HbwYHA) | 3:30 |
 | 48 | [Slow Down](https://open.spotify.com/track/09ugFDsvJDQLMUpsE4IS0L) | [NGONG](https://open.spotify.com/artist/2YnP9D6Xjf1U8HHSu9Lwmq), [Shuto](https://open.spotify.com/artist/25LbZVdqAdvceFjT5kSjIH), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Slow Down](https://open.spotify.com/album/1cSQfptWx5BzodaVMwtYVj) | 3:28 |
-| 49 | [NEW YORK, NEW YORK 2023](https://open.spotify.com/track/0bOnG7Wv79RQlUTdLWUccz) | [TOKONA\-X](https://open.spotify.com/artist/2bkeiir345k380JCph94Zn) | [NEW YORK, NEW YORK 2023](https://open.spotify.com/album/4a9hCuRJctWfHN83O9mebw) | 4:17 |
+| 49 | [NEW YORK, NEW YORK 2023](https://open.spotify.com/track/0JRriidEQHKQC6P9HD91P8) | [TOKONA\-X](https://open.spotify.com/artist/2bkeiir345k380JCph94Zn) | [NEW YORK, NEW YORK 2023](https://open.spotify.com/album/0cS3zzLaLZnFujZu5o0Fui) | 4:17 |
 | 50 | [左利きのBenz](https://open.spotify.com/track/2aC3fh9QFYTHHE0VoIlOSE) | [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [左利きのBenz](https://open.spotify.com/album/7HvUJW7LG42RXGgOUJWw4X) | 2:04 |
 | 51 | [Rollin’](https://open.spotify.com/track/6uCScLbYOicfKzdqgqUiXa) | [MOTONARI](https://open.spotify.com/artist/4hKWXkmygX8rY3e0YI0IQk), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [30.28.3.0](https://open.spotify.com/album/6URZcPggAyOY8xmNyMgeJ4) | 2:30 |
 | 52 | [HAI](https://open.spotify.com/track/16K6xQYDS3eulz06EHWIhH) | [Dj Whitesmith](https://open.spotify.com/artist/1skwckJ4qDwdRUwGwi1Rdn), [RYOFFKARMA](https://open.spotify.com/artist/5ecyyETI01s9nDcpDLqp6z) | [HAI](https://open.spotify.com/album/1CDryzqI7USFEzjX6LfBXo) | 3:06 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 80 | [Do u remember me](https://open.spotify.com/track/3M8hUUiLXqKkk4PCh1KZJN) | [Mall Boyz](https://open.spotify.com/artist/4frHeZ2ummtLwkuV7QohYp), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [gummyboy](https://open.spotify.com/artist/3jk0CePj2VdhqGpN0GX6pd) | [Mall Tape 2](https://open.spotify.com/album/0f5URCBlzbh7u7TuSduM6n) | 3:28 |
 | 81 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 |
 
-Snapshot ID: `MCxlNzk1ZWMxN2RhZWQ4OWVlYTkyOGUxZmMwZGZkMzE2OGRlMWIyN2Rh`
+Snapshot ID: `MCwzZmFkYjk2ZjE5MjhiMGEyNTNmNTlmMjA0MGUxYjZjNGFjYzc0MGYx`

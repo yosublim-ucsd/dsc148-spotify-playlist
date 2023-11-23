@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,375 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,411 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 | 39 | [Too Strong](https://open.spotify.com/track/6If2nmEyWpNEDeqtT1zKUj) | [Mars Maasai](https://open.spotify.com/artist/0OiRYxTqTytbs8aZT4I4zY), [Chevy Kev](https://open.spotify.com/artist/2YUXCCjGjC1ggnAlmzxp0p) | [Too Strong](https://open.spotify.com/album/1eqxzx3k5jnttq3AhOvUQ9) | 2:56 |
 | 40 | [Would You Mind](https://open.spotify.com/track/0GdY20C8oDprKmrIwDeNNc) | [Ondi](https://open.spotify.com/artist/0Kmrssj2JXxBoJ6W2MlW63) | [Tangawizi](https://open.spotify.com/album/5P2OgT54MbjstTwfl6nw27) | 3:42 |
 | 41 | [Spend My Money](https://open.spotify.com/track/23QGS3cR9tRLOmJ2iY8pN2) | [Tetu Shani](https://open.spotify.com/artist/4PATOXrnfnClxoIKMoRSHG), [Labdi](https://open.spotify.com/artist/310NKKgwvfe3k3nf9ug5TZ) | [Spend My Money](https://open.spotify.com/album/7a2QwjWVQQOD1O6M2zBDvq) | 2:56 |
-| 42 | [Cut Me Down](https://open.spotify.com/track/6g33SNfqUoIcxnNpGfzWak) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/1f0MuY3kBgS1QmAIaRu3kj) | 4:57 |
+| 42 | [Cut Me Down](https://open.spotify.com/track/7xoO1pGXQrZ0huDZdsh59F) | [Njerae](https://open.spotify.com/artist/3ZYEtzcOgxeYX1DdaAYjuO) | [Unintentional](https://open.spotify.com/album/02Gdfad4w6K6LVJQKU8mwO) | 4:57 |
 | 43 | [Unga](https://open.spotify.com/track/31wcbX1ryS3piaC3FN4oZI) | [Michelle Gatuiku](https://open.spotify.com/artist/04KS7CODE7DDZ3VvgRrbiT) | [Unga](https://open.spotify.com/album/5ZzEvegnSkHHKseHWJBk1G) | 3:34 |
 | 44 | [Round and Round](https://open.spotify.com/track/6dUfGg8LPOTtsGNDY4q8hT) | [Tetu Shani](https://open.spotify.com/artist/4PATOXrnfnClxoIKMoRSHG) | [Round and Round](https://open.spotify.com/album/5BqzrvY0FQ2n3JT4zu7mgK) | 4:29 |
 | 45 | [African Girl](https://open.spotify.com/track/6VZGwceCEs3wdSKcA5YUWU) | [Naomi Wachira](https://open.spotify.com/artist/6UzW9COOI8GxiDEmlStQEH) | [African Girl](https://open.spotify.com/album/6xk50pJfC0JtA7YsWpqE1x) | 4:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 | 49 | [Saa Kalo](https://open.spotify.com/track/4pf3QeVj6UGc0V3X6mxqYe) | [Akoth Jumadi](https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo) | [Ere Yo](https://open.spotify.com/album/7DNAJQGsUTeV858UCsREoi) | 4:41 |
 | 50 | [Caught Out](https://open.spotify.com/track/3RwL3Dm5AbICvYXSAGFuu0) | [Athieno](https://open.spotify.com/artist/2Mkt9y1gnzybZCa5R8CNBr) | [Caught Out](https://open.spotify.com/album/51AuQNCfV9SKNR3ivka3wE) | 3:52 |
 
-Snapshot ID: `MCxiNDdkNWQ3ZmJiNGVmM2VkODJmNmFjMmUzMTQzNDI1OWQ0YzEwYTI4`
+Snapshot ID: `MCw5MzM4NzM5MjgwZmE3YTg1YmU3ZTRiYjc1OTc3OWRiOTBlY2QzMWEw`

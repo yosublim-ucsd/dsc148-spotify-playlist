@@ -1,12 +1,12 @@
 {
   "description": "Our editorial picks for the best gaming tracks of the year. Cover: Lil Nas X #SpotifyWrapped ",
-  "num_followers": 8238,
+  "num_followers": 8250,
   "original_name": "Top Gaming Tracks of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmVkMjcyZDgzZjAyNDNlNWU4NTA3ZThjZDMzYmE1MjZkZDFjY2I3",
+  "snapshot_id": "MCw3NTM1ZDYwZDc2ZDBhY2FkMTQ3OWVlZDcwZGExYjBmZDUyYTEyY2Ez",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Right On",
-        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 213975,
-      "name": "Right On",
-      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Everything Goes On",
         "url": "https://open.spotify.com/album/0j4PaZDmzAJ4PlS89zcHbW"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 202821,
       "name": "Everything Goes On",
       "url": "https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "Right On",
+        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 213975,
+      "name": "Right On",
+      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
     },
     {
       "added_at": "2022-11-30 13:46:00",

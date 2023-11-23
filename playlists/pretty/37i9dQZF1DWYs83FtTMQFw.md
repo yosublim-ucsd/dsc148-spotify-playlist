@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 
 > The hottest tracks of today ft\. Tyla, Drake, Doja Cat and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,263,251 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,263,432 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 | 74 | [bread & butter](https://open.spotify.com/track/6GoVUO5vla1JtUj2rq9Yl4) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [bread & butter](https://open.spotify.com/album/332Rucu5r475vGx2bntaPb) | 3:46 |
 | 75 | [Too Many Nights \(feat\. Don Toliver & with Future\)](https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:19 |
 
-Snapshot ID: `MCw4MDIzNDJkNmQzZGY5MjczMjM2M2U4NDhkZWYwOTMxOTY4NDY3NDdl`
+Snapshot ID: `MCw5NDM4OTMxMTUwNDkyYmJhMDc0NmU0YWFkODA0NDAxMjUyYTU2NWQ1`

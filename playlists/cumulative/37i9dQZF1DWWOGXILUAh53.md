@@ -4,7 +4,7 @@
 
 > The hottest new pop with all the drops\. Cover: Marshmello & Tyla
 
-762 songs - 1 day 13 hr 38 min
+763 songs - 1 day 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -700,6 +700,7 @@
 | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\) \(DJ Fudge Soulful Remix\)](https://open.spotify.com/track/0OcjIsKz3W3YhvFiiOc8gV) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc), [DJ Fudge](https://open.spotify.com/artist/5SDOrz6Zieh0kqMhQHjxF0) | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\) \(Remixes\)](https://open.spotify.com/album/2WG93k60M6cOJIZxnxFWYH) | 3:17 | 2023-06-16 | 2023-06-24 |
 | [Used To Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 | 2022-03-18 | 2022-07-09 |
 | [Versions of Me](https://open.spotify.com/track/2nkuIfizGlr456oUbGCBmZ) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:04 | 2022-04-15 | 2022-07-23 |
+| [Vocation](https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:04 | 2023-11-22 |  |
 | [Voodoo \(with J Balvin & Tainy\)](https://open.spotify.com/track/4OUAXw3SXI7bUiNtKC7ErW) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Voodoo \(with J Balvin & Tainy\)](https://open.spotify.com/album/0VGq5Ld7zAUVloiMrNa5qQ) | 3:18 | 2022-04-22 | 2022-04-29 |
 | [VULGAR \(with Madonna\)](https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [VULGAR \(with Madonna\)](https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT) | 2:35 | 2023-06-09 | 2023-08-19 |
 | [Waiting \(feat\. Stephen Puth\)](https://open.spotify.com/track/7yAk9XlktYexlz5RCMbfXl) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Stephen Puth](https://open.spotify.com/artist/6B72wjgAkhvxTVCL6xS6mC) | [Waiting \(feat\. Stephen Puth\)](https://open.spotify.com/album/1pbmnH9n46MSq7aTHRolQ4) | 3:14 | 2023-03-24 | 2023-06-03 |

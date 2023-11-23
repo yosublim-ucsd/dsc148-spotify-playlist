@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Moa Rivera",
-  "num_followers": 255788,
+  "num_followers": 255796,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjE4Nzc1M2FjNTg0NzhhZTUwZDc1ODBkNjRkOWZlNmIzYmM0MzJi",
+  "snapshot_id": "MCwwZjg0Yjk0MmIzMTVmNTBmMzZlNTA0ZDY3MGVkNjZjZGNlYTRkNmQw",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -739,22 +739,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Bienvenidos a Mi Barrio",
-        "url": "https://open.spotify.com/album/7c6XRLWcvCYf5slViBDKmF"
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
       },
       "artists": [
         {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 173329,
-      "name": "Bienvenidos a Mi Barrio",
-      "url": "https://open.spotify.com/track/4uRBz2dXQnwi0GyZzvijyM"
+      "duration_ms": 238893,
+      "name": "Amantes Suicidas",
+      "url": "https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -775,18 +771,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Autopoi\u00e9tica",
-        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
+        "name": "Bienvenidos a Mi Barrio",
+        "url": "https://open.spotify.com/album/7c6XRLWcvCYf5slViBDKmF"
       },
       "artists": [
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         }
       ],
-      "duration_ms": 238893,
-      "name": "Amantes Suicidas",
-      "url": "https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb"
+      "duration_ms": 173329,
+      "name": "Bienvenidos a Mi Barrio",
+      "url": "https://open.spotify.com/track/4uRBz2dXQnwi0GyZzvijyM"
     },
     {
       "added_at": "2023-11-17 05:00:00",

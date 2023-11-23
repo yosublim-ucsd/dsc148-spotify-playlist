@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="spotify:artist:2aKyKSggb31Kw9s9i3iXoo"> Aline Barros</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,287 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,478 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Ya Se Fue](https://open.spotify.com/track/67hQnBAsUu2fn8EUmK1Sqs) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [JaydanVerso](https://open.spotify.com/album/46NUgKZXVLwRfUlGz2dbwA) | 3:15 |
 | 100 | [Viviendo Sonriendo](https://open.spotify.com/track/4PxVUp7G2G10yodeAn16bU) | [David Muguercia](https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu) | [Viviendo Sonriendo](https://open.spotify.com/album/6kYEYszAwbaoydRwGlNr82) | 2:42 |
 
-Snapshot ID: `MCxkZDNlOTZlMzVlNjI0NWQxMTM0NDFhMTYyZDg0NmZlNDVmMjI2NTEw`
+Snapshot ID: `MCxlNjkyM2JkNGQxMzM5YTQ0ZTE0YmI0NjZmZTlkNjE3MTRjOGNlMmNk`

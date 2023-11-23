@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New Music from Kollywood.\nCover : Leo",
+  "description": "New Music from Kollywood.\nCover : Captain Miller",
   "name": "Latest Tamil",
   "tracks": [
     {
@@ -6802,7 +6802,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 263314,
       "name": "Inba Inba (From \"Japan\")",
       "url": "https://open.spotify.com/track/48acWLuv6a5AdBwtxCraeP"
@@ -9458,6 +9458,28 @@
       "duration_ms": 147236,
       "name": "Kekkutha (Boat Fight Song)",
       "url": "https://open.spotify.com/track/2iUQCrWugPAS4jsMX6GsN2"
+    },
+    {
+      "album": {
+        "name": "Killer Killer (From \"Captain Miller\") (Tamil)",
+        "url": "https://open.spotify.com/album/07EqQR1SJqHexUWW3UPDfX"
+      },
+      "artists": [
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220440,
+      "name": "Killer Killer (From \"Captain Miller\") (Tamil)",
+      "url": "https://open.spotify.com/track/2aFg2jORQAQwny1oIivRun"
     },
     {
       "album": {
@@ -16365,6 +16387,32 @@
     },
     {
       "album": {
+        "name": "Sooragan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1YgV7FpfQdFllOU141Cvkl"
+      },
+      "artists": [
+        {
+          "name": "Achu",
+          "url": "https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY"
+        },
+        {
+          "name": "Dhirav",
+          "url": "https://open.spotify.com/artist/0lro4ev8IIswxJMIgOO25b"
+        },
+        {
+          "name": "Sruthi",
+          "url": "https://open.spotify.com/artist/63KBriFs1LjmlmpJxtro6T"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177666,
+      "name": "Porvaal",
+      "url": "https://open.spotify.com/track/2H3oGjtX4b4UMd3YPRD62e"
+    },
+    {
+      "album": {
         "name": "Pothi Pothi Valatha Pulla (From \"Varalaru Mukkiyam\")",
         "url": "https://open.spotify.com/album/0XPk2yLjBBHemz21Fqc0VJ"
       },
@@ -18560,7 +18608,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 247228,
       "name": "Sottangalla (From \"Japan\")",
       "url": "https://open.spotify.com/track/5eOMCMju0A8Gl8RLoThXbB"
@@ -20201,6 +20249,32 @@
     },
     {
       "album": {
+        "name": "Sooragan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1YgV7FpfQdFllOU141Cvkl"
+      },
+      "artists": [
+        {
+          "name": "Achu",
+          "url": "https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY"
+        },
+        {
+          "name": "Ku Karthik",
+          "url": "https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284125,
+      "name": "Thodu Vaanam",
+      "url": "https://open.spotify.com/track/4VLvDRwPlEUbJzjLhJz6Cm"
+    },
+    {
+      "album": {
         "name": "Thoduvanam (From \"Kuttram Purinthal\")",
         "url": "https://open.spotify.com/album/4vsyh414OcwNU0HQ3rB524"
       },
@@ -21444,6 +21518,32 @@
       "duration_ms": 194307,
       "name": "Uravu",
       "url": "https://open.spotify.com/track/3bXhstkcy4TU5ZuOuJWOwy"
+    },
+    {
+      "album": {
+        "name": "Joe (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1eucrdJVuFyIP9bZpHmPBl"
+      },
+      "artists": [
+        {
+          "name": "Siddhu Kumar",
+          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        },
+        {
+          "name": "Anand Aravindakshan",
+          "url": "https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Urugi Urugi",
+      "url": "https://open.spotify.com/track/3ysMc34CrgKLFOszOpDmR2"
     },
     {
       "album": {
@@ -23196,6 +23296,24 @@
       "duration_ms": 62000,
       "name": "World of Mark Antony",
       "url": "https://open.spotify.com/track/68Z5GxnGY1zVVBal98Dccv"
+    },
+    {
+      "album": {
+        "name": "Wrong Pannadha (From \"Saindhav\") (Tamil)",
+        "url": "https://open.spotify.com/album/574y1dU6kb36JuixLtKrcY"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Wrong Pannadha (From \"Saindhav\") (Tamil)",
+      "url": "https://open.spotify.com/track/50UWi8cd7L6nU3tePIBBXT"
     },
     {
       "album": {

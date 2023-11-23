@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-201 songs - 10 hr 49 min
+202 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [TheBestVersionOfMyself](https://open.spotify.com/track/5ew51yiULYPreqN5It5h3S) | [surrenderdorothy](https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp) | [BreathingExercise](https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD) | 1:12 | 2023-04-11 |  |
 | [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 | 2023-02-09 | 2023-05-17 |
 | [They Quiet the Room](https://open.spotify.com/track/36bPFYC66Zqi95C9HDOFW8) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [They Quiet the Room b/w Quiet the Room](https://open.spotify.com/album/1RHP4sr5TNlry2dIsTlM2d) | 3:33 | 2023-04-11 |  |
+| [Think Of Me Once In A While, Take Care](https://open.spotify.com/track/4JdYapRlYv67LnjrkDhZVX) | [Take Care](https://open.spotify.com/artist/2HpfqDQ8DBQlnrbAsdIh7s) | [Agony](https://open.spotify.com/album/6hMR006RO5sOuA9Vgs4v9L) | 1:43 | 2023-11-22 |  |
 | [This Feeling Will Pass](https://open.spotify.com/track/6pLGnO6JyJdtp4WlX5ixkI) | [Take Care](https://open.spotify.com/artist/2HpfqDQ8DBQlnrbAsdIh7s) | [Reject](https://open.spotify.com/album/7IllZzTGFyEisKATxVvE4Z) | 2:04 | 2023-06-30 |  |
 | [Time](https://open.spotify.com/track/4DD7pNR3Q3wGCck3N58LbN) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Time](https://open.spotify.com/album/4JIqSYtTrU9W0p92QrjHrd) | 3:20 | 2023-05-16 |  |
 | [time and space](https://open.spotify.com/track/6ASZIbWiYI84peOV3kFlAh) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq), [surfgoth](https://open.spotify.com/artist/5bOnGY1cTwZxkhK4JFLtKK) | [time and space](https://open.spotify.com/album/4cHY0W0XPI7gNInlQJOees) | 3:00 | 2023-04-11 |  |

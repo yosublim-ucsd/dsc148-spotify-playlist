@@ -1,12 +1,12 @@
 {
   "description": "Calm and soft sounds of Jazz to help you relax and unwind.",
-  "num_followers": 82625,
+  "num_followers": 82657,
   "original_name": "Calming Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODFiYjJkZjczNjI3Nzc0ZTJiOGFhNzgzMDAxYmU3ZDU1M2FkYWJl",
+  "snapshot_id": "MCxkYTFkMDZhMTExYWEyNjYzM2E1MDUxOTg2Mjk4YWE4NDFlOTAxMGU4",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Let's go uptown",
-        "url": "https://open.spotify.com/album/30OyjkGuNWO3QGGtlcjZw3"
+        "name": "Vine Street",
+        "url": "https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1"
       },
       "artists": [
         {
-          "name": "Newington Green",
-          "url": "https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE"
+          "name": "Soft Brush Touches",
+          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
         }
       ],
-      "duration_ms": 140648,
-      "name": "Let's go uptown",
-      "url": "https://open.spotify.com/track/4zYPDHYsvTdUMMy8gRkBAA"
+      "duration_ms": 146020,
+      "name": "Vine Street",
+      "url": "https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Vine Street",
-        "url": "https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1"
+        "name": "Let's go uptown",
+        "url": "https://open.spotify.com/album/30OyjkGuNWO3QGGtlcjZw3"
       },
       "artists": [
         {
-          "name": "Soft Brush Touches",
-          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
+          "name": "Newington Green",
+          "url": "https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE"
         }
       ],
-      "duration_ms": 146020,
-      "name": "Vine Street",
-      "url": "https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI"
+      "duration_ms": 140648,
+      "name": "Let's go uptown",
+      "url": "https://open.spotify.com/track/4zYPDHYsvTdUMMy8gRkBAA"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Lonely as a Cloud",
-        "url": "https://open.spotify.com/album/1i3rYnZMbkYnJ986bISo11"
-      },
-      "artists": [
-        {
-          "name": "South North",
-          "url": "https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b"
-        }
-      ],
-      "duration_ms": 167071,
-      "name": "Lonely as a Cloud",
-      "url": "https://open.spotify.com/track/3MDq3Y1Me06yoYQOfjNWcH"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "In My Own Small World",
         "url": "https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 258414,
       "name": "What's Life Without You",
       "url": "https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Lonely as a Cloud",
+        "url": "https://open.spotify.com/album/1i3rYnZMbkYnJ986bISo11"
+      },
+      "artists": [
+        {
+          "name": "South North",
+          "url": "https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b"
+        }
+      ],
+      "duration_ms": 167071,
+      "name": "Lonely as a Cloud",
+      "url": "https://open.spotify.com/track/3MDq3Y1Me06yoYQOfjNWcH"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "I Loves You, Porgy",
-        "url": "https://open.spotify.com/album/6OwHbZzxOCbGgOvi3rnl1A"
-      },
-      "artists": [
-        {
-          "name": "Keanan Field Group",
-          "url": "https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ"
-        }
-      ],
-      "duration_ms": 210292,
-      "name": "I Loves You, Porgy",
-      "url": "https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Obliqua",
         "url": "https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 186664,
       "name": "Caerulea",
       "url": "https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "I Loves You, Porgy",
+        "url": "https://open.spotify.com/album/6OwHbZzxOCbGgOvi3rnl1A"
+      },
+      "artists": [
+        {
+          "name": "Keanan Field Group",
+          "url": "https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ"
+        }
+      ],
+      "duration_ms": 210292,
+      "name": "I Loves You, Porgy",
+      "url": "https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "You Softly Breathe",
-        "url": "https://open.spotify.com/album/4CQl0m4bI32Ffjbmap9VCI"
-      },
-      "artists": [
-        {
-          "name": "Tore Lundblad",
-          "url": "https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2"
-        }
-      ],
-      "duration_ms": 196114,
-      "name": "You Softly Breathe",
-      "url": "https://open.spotify.com/track/71sykxrXDUVEDA4TkHeIzh"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "All the Stars",
         "url": "https://open.spotify.com/album/1cEEgLpfKysT4Ey99HziNV"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 328810,
       "name": "All the Stars",
       "url": "https://open.spotify.com/track/3lNR1Rzlvew7A6lyPEKDEk"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "You Softly Breathe",
+        "url": "https://open.spotify.com/album/4CQl0m4bI32Ffjbmap9VCI"
+      },
+      "artists": [
+        {
+          "name": "Tore Lundblad",
+          "url": "https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2"
+        }
+      ],
+      "duration_ms": 196114,
+      "name": "You Softly Breathe",
+      "url": "https://open.spotify.com/track/71sykxrXDUVEDA4TkHeIzh"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "What If It's Not",
-        "url": "https://open.spotify.com/album/70WZeSLtkNe4CV7grB1Mna"
-      },
-      "artists": [
-        {
-          "name": "Trio Del Norte",
-          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
-        }
-      ],
-      "duration_ms": 249876,
-      "name": "What If It's Not",
-      "url": "https://open.spotify.com/track/2hkVG0p8kgdbzJsPgofWxZ"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Deep In A Dream",
         "url": "https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 253213,
       "name": "I've Told Every Little Star",
       "url": "https://open.spotify.com/track/2bYWfgNXxt4CQCPWBicqPx"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "What If It's Not",
+        "url": "https://open.spotify.com/album/70WZeSLtkNe4CV7grB1Mna"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "duration_ms": 249876,
+      "name": "What If It's Not",
+      "url": "https://open.spotify.com/track/2hkVG0p8kgdbzJsPgofWxZ"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Fading Lights",
+        "url": "https://open.spotify.com/album/4uocVuFhlnWiWkMAgRh5Qi"
+      },
+      "artists": [
+        {
+          "name": "LaSalle Street Trio",
+          "url": "https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn"
+        }
+      ],
+      "duration_ms": 226353,
+      "name": "Fading Lights",
+      "url": "https://open.spotify.com/track/2LNFgWaMkPq59nJEVf2PEP"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Withered Flowers",
         "url": "https://open.spotify.com/album/4BD6urLBwmiEkvlb5R56qU"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 235174,
       "name": "Litania",
       "url": "https://open.spotify.com/track/0ou3UbT1V1FaGU5oz6Q8Bo"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Fading Lights",
-        "url": "https://open.spotify.com/album/4uocVuFhlnWiWkMAgRh5Qi"
-      },
-      "artists": [
-        {
-          "name": "LaSalle Street Trio",
-          "url": "https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn"
-        }
-      ],
-      "duration_ms": 226353,
-      "name": "Fading Lights",
-      "url": "https://open.spotify.com/track/2LNFgWaMkPq59nJEVf2PEP"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Absinthe",
-        "url": "https://open.spotify.com/album/4HbfKHqxencShWOYNeQFZr"
-      },
-      "artists": [
-        {
-          "name": "Dominic Miller",
-          "url": "https://open.spotify.com/artist/32AFNkich94JXfGvIFqpkL"
-        }
-      ],
-      "duration_ms": 133626,
-      "name": "La Petite Reine",
-      "url": "https://open.spotify.com/track/1iW5dmZ7R7BXF60UvGqO78"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Steps from the Nightingale",
         "url": "https://open.spotify.com/album/1ItL7EmWFogCnKiXFZQbmA"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 154681,
       "name": "Steps from the Nightingale",
       "url": "https://open.spotify.com/track/7fyUkkPxqX09GgpTBDR22Z"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Absinthe",
+        "url": "https://open.spotify.com/album/4HbfKHqxencShWOYNeQFZr"
+      },
+      "artists": [
+        {
+          "name": "Dominic Miller",
+          "url": "https://open.spotify.com/artist/32AFNkich94JXfGvIFqpkL"
+        }
+      ],
+      "duration_ms": 133626,
+      "name": "La Petite Reine",
+      "url": "https://open.spotify.com/track/1iW5dmZ7R7BXF60UvGqO78"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Contra La Indecisi\u00f3n",
-        "url": "https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo"
-      },
-      "artists": [
-        {
-          "name": "Bobo Stenson Trio",
-          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "Canci\u00f3n Contra La Indecisi\u00f3n",
-      "url": "https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "The Reasons That I Love You",
         "url": "https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8"
       },
@@ -1771,6 +1755,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Contra La Indecisi\u00f3n",
+        "url": "https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo"
+      },
+      "artists": [
+        {
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Canci\u00f3n Contra La Indecisi\u00f3n",
+      "url": "https://open.spotify.com/track/6fTs9vrso7u7spinTkiauE"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "On 14th Street",
         "url": "https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo"
       },
@@ -1783,6 +1783,22 @@
       "duration_ms": 201386,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/40VZS93r0MMG6m9K0j7VJ7"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Vilan",
+        "url": "https://open.spotify.com/album/5E8XgcpE1y2kI1ypRdww3g"
+      },
+      "artists": [
+        {
+          "name": "Bladverk Band",
+          "url": "https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65"
+        }
+      ],
+      "duration_ms": 174874,
+      "name": "Vilan",
+      "url": "https://open.spotify.com/track/2aGwfZZKECwKRRavMZzEGW"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1815,22 +1831,6 @@
       "duration_ms": 320957,
       "name": "Pour It Out",
       "url": "https://open.spotify.com/track/7GZ7kYUBPNm9whqDDeod1r"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Vilan",
-        "url": "https://open.spotify.com/album/5E8XgcpE1y2kI1ypRdww3g"
-      },
-      "artists": [
-        {
-          "name": "Bladverk Band",
-          "url": "https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65"
-        }
-      ],
-      "duration_ms": 174874,
-      "name": "Vilan",
-      "url": "https://open.spotify.com/track/2aGwfZZKECwKRRavMZzEGW"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Blue Mist",
-        "url": "https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit"
-      },
-      "artists": [
-        {
-          "name": "Matt Marantz Quartet",
-          "url": "https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V"
-        }
-      ],
-      "duration_ms": 204544,
-      "name": "Blue Mist",
-      "url": "https://open.spotify.com/track/4douYG0S01NIbF0vyz7PPb"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "HOME.S.",
         "url": "https://open.spotify.com/album/1GgqGyaOFzCy80a0kDXVmt"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 230000,
       "name": "This Is Not About You",
       "url": "https://open.spotify.com/track/50Y1OxU4NlKYjR2v9RxBpK"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Blue Mist",
+        "url": "https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit"
+      },
+      "artists": [
+        {
+          "name": "Matt Marantz Quartet",
+          "url": "https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V"
+        }
+      ],
+      "duration_ms": 204544,
+      "name": "Blue Mist",
+      "url": "https://open.spotify.com/track/4douYG0S01NIbF0vyz7PPb"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Can't Say the Word",
+        "url": "https://open.spotify.com/album/7zlbqbcAWmuyYU7uV3Emz4"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "duration_ms": 258880,
+      "name": "Can't Say the Word",
+      "url": "https://open.spotify.com/track/3r5ANnOexoh703rQIUIgFj"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "A Long Story",
         "url": "https://open.spotify.com/album/4jIyJQ84ajG8EDOZRAd50H"
       },
@@ -2115,6 +2131,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Opening",
+        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 423813,
+      "name": "Stream",
+      "url": "https://open.spotify.com/track/4fSd7w77XMrJhz1C5VOscJ"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Pipe Dreams",
         "url": "https://open.spotify.com/album/1rDxdpTzfIOsPixMN5unj8"
       },
@@ -2131,22 +2163,6 @@
       "duration_ms": 290013,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/5f8t87EAUOP4JLHGfvVD9Z"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Opening",
-        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 423813,
-      "name": "Stream",
-      "url": "https://open.spotify.com/track/4fSd7w77XMrJhz1C5VOscJ"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -2203,6 +2219,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Mama's Fish House",
+        "url": "https://open.spotify.com/album/5dZVsBbztZsz7aydXjDHve"
+      },
+      "artists": [
+        {
+          "name": "Norris Walker Trio",
+          "url": "https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Mama's Fish House",
+      "url": "https://open.spotify.com/track/7Lg4ezQ23LtLQCF8ONnolW"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Times Revisited",
         "url": "https://open.spotify.com/album/5EKzqYzzf5GHNBo9iRVZAM"
       },
@@ -2227,22 +2259,6 @@
       "duration_ms": 302813,
       "name": "Waking Dream",
       "url": "https://open.spotify.com/track/44Nuza1A4cfjOAbE65797r"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Mama's Fish House",
-        "url": "https://open.spotify.com/album/5dZVsBbztZsz7aydXjDHve"
-      },
-      "artists": [
-        {
-          "name": "Norris Walker Trio",
-          "url": "https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Mama's Fish House",
-      "url": "https://open.spotify.com/track/7Lg4ezQ23LtLQCF8ONnolW"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -2275,22 +2291,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Over Tage",
-        "url": "https://open.spotify.com/album/3d7Q2ztZQOnccU7gJ8y777"
-      },
-      "artists": [
-        {
-          "name": "Svaneborg Kardyb",
-          "url": "https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr"
-        }
-      ],
-      "duration_ms": 183661,
-      "name": "Ubem\u00e6rket",
-      "url": "https://open.spotify.com/track/4Iw7LPiN881xC4OwwfRgnI"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "The Deep",
         "url": "https://open.spotify.com/album/4QzD6FhbxRYxBLrIgixMN7"
       },
@@ -2303,6 +2303,22 @@
       "duration_ms": 269634,
       "name": "You Know I Care",
       "url": "https://open.spotify.com/track/0TUwZjN2G4WA8HBwuGNC6J"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Over Tage",
+        "url": "https://open.spotify.com/album/3d7Q2ztZQOnccU7gJ8y777"
+      },
+      "artists": [
+        {
+          "name": "Svaneborg Kardyb",
+          "url": "https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr"
+        }
+      ],
+      "duration_ms": 183661,
+      "name": "Ubem\u00e6rket",
+      "url": "https://open.spotify.com/track/4Iw7LPiN881xC4OwwfRgnI"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -2359,22 +2375,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Solid Ether",
-        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 299640,
-      "name": "Kakonita",
-      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "\u00c1n tillits",
         "url": "https://open.spotify.com/album/75UE0siCksMmA2Hcl1tIVi"
       },
@@ -2395,18 +2395,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Can't Say the Word",
-        "url": "https://open.spotify.com/album/7zlbqbcAWmuyYU7uV3Emz4"
+        "name": "Solid Ether",
+        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
       },
       "artists": [
         {
-          "name": "Trio Del Norte",
-          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
         }
       ],
-      "duration_ms": 258880,
-      "name": "Can't Say the Word",
-      "url": "https://open.spotify.com/track/3r5ANnOexoh703rQIUIgFj"
+      "duration_ms": 299640,
+      "name": "Kakonita",
+      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Jacob Karlzon Trio: Today",
-        "url": "https://open.spotify.com/album/10ZG1HoTjvzHzq7kvATtMm"
-      },
-      "artists": [
-        {
-          "name": "Jacob Karlzon",
-          "url": "https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM"
-        }
-      ],
-      "duration_ms": 204773,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/029SibhjBcqaRqMiGPJiFp"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Tantum",
         "url": "https://open.spotify.com/album/2ZY1W5hW8XBVi3jMHrtn1u"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 191040,
       "name": "Doubt Thou the Stars",
       "url": "https://open.spotify.com/track/1q9hA5kj31OgXQjhmnOgcy"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Jacob Karlzon Trio: Today",
+        "url": "https://open.spotify.com/album/10ZG1HoTjvzHzq7kvATtMm"
+      },
+      "artists": [
+        {
+          "name": "Jacob Karlzon",
+          "url": "https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM"
+        }
+      ],
+      "duration_ms": 204773,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/029SibhjBcqaRqMiGPJiFp"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -2595,22 +2595,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Surrounded By Sea",
-        "url": "https://open.spotify.com/album/6ARvpI1C3D2kyjPQUmiahD"
-      },
-      "artists": [
-        {
-          "name": "Andy Sheppard Quartet",
-          "url": "https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb"
-        }
-      ],
-      "duration_ms": 315800,
-      "name": "I Want To Vanish",
-      "url": "https://open.spotify.com/track/4CU0tITDu4anNumT9VGYvD"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Everybody Loves Angels",
         "url": "https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm"
       },
@@ -2623,6 +2607,22 @@
       "duration_ms": 382245,
       "name": "Koral",
       "url": "https://open.spotify.com/track/75J3oHSbGQesLlJ1vlQjj9"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Surrounded By Sea",
+        "url": "https://open.spotify.com/album/6ARvpI1C3D2kyjPQUmiahD"
+      },
+      "artists": [
+        {
+          "name": "Andy Sheppard Quartet",
+          "url": "https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb"
+        }
+      ],
+      "duration_ms": 315800,
+      "name": "I Want To Vanish",
+      "url": "https://open.spotify.com/track/4CU0tITDu4anNumT9VGYvD"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -2879,6 +2879,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Rubicon",
+        "url": "https://open.spotify.com/album/7dh5uytJg3kWiL2PuXihEm"
+      },
+      "artists": [
+        {
+          "name": "Mats Eilertsen",
+          "url": "https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh"
+        }
+      ],
+      "duration_ms": 138466,
+      "name": "Cross The Creek",
+      "url": "https://open.spotify.com/track/63llMqyPCx0hz3HLFCZXE7"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Ruins II",
         "url": "https://open.spotify.com/album/62hzQtcRAnkV1nUdFlvckl"
       },
@@ -2895,18 +2911,34 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Rubicon",
-        "url": "https://open.spotify.com/album/7dh5uytJg3kWiL2PuXihEm"
+        "name": "Winter's End",
+        "url": "https://open.spotify.com/album/29HLuD88a9SxVZzoYWNBWB"
       },
       "artists": [
         {
-          "name": "Mats Eilertsen",
-          "url": "https://open.spotify.com/artist/66tv0Nc5AOVkeyMGS25rJh"
+          "name": "Stephan Micus",
+          "url": "https://open.spotify.com/artist/2il0YNVHfuMhPsacyGiGzj"
         }
       ],
-      "duration_ms": 138466,
-      "name": "Cross The Creek",
-      "url": "https://open.spotify.com/track/63llMqyPCx0hz3HLFCZXE7"
+      "duration_ms": 167120,
+      "name": "Walking In Sand",
+      "url": "https://open.spotify.com/track/7rgU8MJnY9aHCgbNo7iYRB"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Never Ending January",
+        "url": "https://open.spotify.com/album/1VY0hkSejVXZ8VDZkMqmSs"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        }
+      ],
+      "duration_ms": 260786,
+      "name": "Never Ending January",
+      "url": "https://open.spotify.com/track/4L10SBstHivQvkGiPu4FHX"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -2939,38 +2971,6 @@
       "duration_ms": 358813,
       "name": "Birthday Song",
       "url": "https://open.spotify.com/track/6lPxHEHnSSey6zI4bdpe0s"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Never Ending January",
-        "url": "https://open.spotify.com/album/1VY0hkSejVXZ8VDZkMqmSs"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        }
-      ],
-      "duration_ms": 260786,
-      "name": "Never Ending January",
-      "url": "https://open.spotify.com/track/4L10SBstHivQvkGiPu4FHX"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Winter's End",
-        "url": "https://open.spotify.com/album/29HLuD88a9SxVZzoYWNBWB"
-      },
-      "artists": [
-        {
-          "name": "Stephan Micus",
-          "url": "https://open.spotify.com/artist/2il0YNVHfuMhPsacyGiGzj"
-        }
-      ],
-      "duration_ms": 167120,
-      "name": "Walking In Sand",
-      "url": "https://open.spotify.com/track/7rgU8MJnY9aHCgbNo7iYRB"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -3127,6 +3127,26 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Dialect",
+        "url": "https://open.spotify.com/album/4UpbueFifa4yKmDEC1WF4g"
+      },
+      "artists": [
+        {
+          "name": "Claire Cross",
+          "url": "https://open.spotify.com/artist/6bwpmSl0lkpkKL4WOeTJkM"
+        },
+        {
+          "name": "Harry Cook",
+          "url": "https://open.spotify.com/artist/43ZoUJoa611w4B97Z1xmD2"
+        }
+      ],
+      "duration_ms": 222858,
+      "name": "Road to Eden",
+      "url": "https://open.spotify.com/track/1DkwudFUViQRC9K55E7dO3"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "One Kiss Too Many",
         "url": "https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM"
       },
@@ -3139,22 +3159,6 @@
       "duration_ms": 200344,
       "name": "Slaraffenland",
       "url": "https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Surrounded By Sea",
-        "url": "https://open.spotify.com/album/6ARvpI1C3D2kyjPQUmiahD"
-      },
-      "artists": [
-        {
-          "name": "Andy Sheppard Quartet",
-          "url": "https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb"
-        }
-      ],
-      "duration_ms": 306213,
-      "name": "Origin Of Species",
-      "url": "https://open.spotify.com/track/1HywDfnuO3zXm7vNcCKxvX"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -3183,6 +3187,22 @@
       "duration_ms": 221620,
       "name": "Imagine Joao",
       "url": "https://open.spotify.com/track/5PjCbHnsy4pgjV5ceukqgn"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Surrounded By Sea",
+        "url": "https://open.spotify.com/album/6ARvpI1C3D2kyjPQUmiahD"
+      },
+      "artists": [
+        {
+          "name": "Andy Sheppard Quartet",
+          "url": "https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb"
+        }
+      ],
+      "duration_ms": 306213,
+      "name": "Origin Of Species",
+      "url": "https://open.spotify.com/track/1HywDfnuO3zXm7vNcCKxvX"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -3247,26 +3267,6 @@
       "duration_ms": 185840,
       "name": "The Choice You Never Had",
       "url": "https://open.spotify.com/track/4wpzDbTUK2GeDVxHRjSpfB"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Dialect",
-        "url": "https://open.spotify.com/album/4UpbueFifa4yKmDEC1WF4g"
-      },
-      "artists": [
-        {
-          "name": "Claire Cross",
-          "url": "https://open.spotify.com/artist/6bwpmSl0lkpkKL4WOeTJkM"
-        },
-        {
-          "name": "Harry Cook",
-          "url": "https://open.spotify.com/artist/43ZoUJoa611w4B97Z1xmD2"
-        }
-      ],
-      "duration_ms": 222858,
-      "name": "Road to Eden",
-      "url": "https://open.spotify.com/track/1DkwudFUViQRC9K55E7dO3"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -3415,6 +3415,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Circuits",
+        "url": "https://open.spotify.com/album/5lI3qpMTIWBJxuk5cVVQMw"
+      },
+      "artists": [
+        {
+          "name": "Kaisa",
+          "url": "https://open.spotify.com/artist/1GbJRt2lt5B6xqHE7DzDL1"
+        }
+      ],
+      "duration_ms": 250822,
+      "name": "Solstice",
+      "url": "https://open.spotify.com/track/6AE9COwzDi5jf92AQgGWKE"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Good Morning Heartache",
         "url": "https://open.spotify.com/album/5hViZsJbP1o4f4xAkv2Z5M"
       },
@@ -3431,22 +3447,6 @@
       "duration_ms": 325799,
       "name": "Good Morning Heartache",
       "url": "https://open.spotify.com/track/3Lye44P9cPy94QWjvFRLq4"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Circuits",
-        "url": "https://open.spotify.com/album/5lI3qpMTIWBJxuk5cVVQMw"
-      },
-      "artists": [
-        {
-          "name": "Kaisa",
-          "url": "https://open.spotify.com/artist/1GbJRt2lt5B6xqHE7DzDL1"
-        }
-      ],
-      "duration_ms": 250822,
-      "name": "Solstice",
-      "url": "https://open.spotify.com/track/6AE9COwzDi5jf92AQgGWKE"
     }
   ],
   "unique_name": "Calming Jazz",

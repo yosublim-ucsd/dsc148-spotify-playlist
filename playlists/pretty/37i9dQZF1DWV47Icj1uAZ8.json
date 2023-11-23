@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://twitter.com/kofi\">Kofi Siriboe</a>",
-  "num_followers": 29906,
+  "num_followers": 29959,
   "original_name": "Kofi Siriboe's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWNiMzk5NWI3NTUzNTIzMGYxYjZmNjJiODE4ZDEwY2MyMmJjNzBm",
+  "snapshot_id": "MCwyMjNhYTkxNzFmZmI4NzdiNGUwMzE0OWZhZTgxMjZlYzZkNjBmOTUx",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -167,30 +167,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Things Fall Apart",
-        "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
       "artists": [
         {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "name": "Tariq Trotter",
-          "url": "https://open.spotify.com/artist/7i3os1iEWOn5UpaylRiMw5"
+          "name": "GLC",
+          "url": "https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7"
         },
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        },
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+          "name": "Consequence",
+          "url": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
         }
       ],
-      "duration_ms": 259306,
-      "name": "You Got Me",
-      "url": "https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw"
+      "duration_ms": 324226,
+      "name": "Spaceship",
+      "url": "https://open.spotify.com/track/1ko2NuvWlQdxtNRc8QQzmT"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -215,26 +211,30 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+        "name": "Things Fall Apart",
+        "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
         },
         {
-          "name": "GLC",
-          "url": "https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7"
+          "name": "Tariq Trotter",
+          "url": "https://open.spotify.com/artist/7i3os1iEWOn5UpaylRiMw5"
         },
         {
-          "name": "Consequence",
-          "url": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
         }
       ],
-      "duration_ms": 324226,
-      "name": "Spaceship",
-      "url": "https://open.spotify.com/track/1ko2NuvWlQdxtNRc8QQzmT"
+      "duration_ms": 259306,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw"
     },
     {
       "added_at": "2022-10-01 16:00:00",

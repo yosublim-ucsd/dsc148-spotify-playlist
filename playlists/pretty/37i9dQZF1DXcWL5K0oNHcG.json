@@ -1,13 +1,29 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: Cooks But We're Chefs Artwork: Joy Yamusangie",
-  "num_followers": 201727,
+  "num_followers": 202156,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzNhMjUyNzk1ZTg4OWRjZGJlYWJmZDlmOTQ5NzRmZWZkODUyYWRi",
+  "snapshot_id": "MCxjMTlhMmI1N2ZhYjMwNmU1NGE5ZGRlYzcxMjdlOGY3MGExMzhhMTM1",
   "tracks": [
+    {
+      "added_at": "2023-11-22 05:00:00",
+      "album": {
+        "name": "Earth",
+        "url": "https://open.spotify.com/album/1L9EOt6qghU2kFVXItfI3S"
+      },
+      "artists": [
+        {
+          "name": "Sol Paradise",
+          "url": "https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII"
+        }
+      ],
+      "duration_ms": 203581,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/33SjP7IwTNrPEpZAn16Bzf"
+    },
     {
       "added_at": "2023-11-01 04:00:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 243000,
       "name": "Funeka",
       "url": "https://open.spotify.com/track/3eNfjouyFU9bTAeBB4eirf"
+    },
+    {
+      "added_at": "2023-11-22 05:00:00",
+      "album": {
+        "name": "Synapse Confusion",
+        "url": "https://open.spotify.com/album/4gDrd4WRxHZ8ZvQVJctO2p"
+      },
+      "artists": [
+        {
+          "name": "igloo",
+          "url": "https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM"
+        }
+      ],
+      "duration_ms": 339132,
+      "name": "Hello,,Dawn,Unknown",
+      "url": "https://open.spotify.com/track/0Pa558A0T3tokMRruGEMIt"
     },
     {
       "added_at": "2023-11-15 05:00:00",
@@ -87,6 +119,22 @@
       "duration_ms": 323800,
       "name": "Mosquita muerta - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/1OJEvEfw2Fr3oPYKt93841"
+    },
+    {
+      "added_at": "2023-11-22 05:00:00",
+      "album": {
+        "name": "GOOD LUCK SOUND TRACKS",
+        "url": "https://open.spotify.com/album/0CHpILGOq59pW8hyphMQBk"
+      },
+      "artists": [
+        {
+          "name": "POLYPLUS",
+          "url": "https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa"
+        }
+      ],
+      "duration_ms": 217332,
+      "name": "ranki",
+      "url": "https://open.spotify.com/track/2F5rkbZHDASUIGAcyeoe0l"
     },
     {
       "added_at": "2023-10-25 04:00:00",
@@ -1435,62 +1483,6 @@
       "duration_ms": 152900,
       "name": "Wreckage",
       "url": "https://open.spotify.com/track/3dSmlxpSvh7RKiq9vlIdZa"
-    },
-    {
-      "added_at": "2023-07-19 04:00:00",
-      "album": {
-        "name": "Live For The Highest Bidder",
-        "url": "https://open.spotify.com/album/7wulyfXzwcIfgwWcf4kSrR"
-      },
-      "artists": [
-        {
-          "name": "Nick Campbell Destroys",
-          "url": "https://open.spotify.com/artist/4eWSxYF6xLmzVwvellHYZ9"
-        },
-        {
-          "name": "Jacob Mann",
-          "url": "https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F"
-        },
-        {
-          "name": "Christian Euman",
-          "url": "https://open.spotify.com/artist/69Fc6qhNwvJGJUhPzkw0UX"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "Sea Cucumber",
-      "url": "https://open.spotify.com/track/1QJYFyJHYs88g1P0XiKktx"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
-        "name": "FO(U)RTH",
-        "url": "https://open.spotify.com/album/6Mom4L0l4IAjZickevYnYK"
-      },
-      "artists": [
-        {
-          "name": "Anthony Fung",
-          "url": "https://open.spotify.com/artist/4NfvvB32qp3QEnzwXUM96W"
-        }
-      ],
-      "duration_ms": 332948,
-      "name": "The Upside Down",
-      "url": "https://open.spotify.com/track/0tpxvQlXSZgUclg7QSTdXs"
-    },
-    {
-      "added_at": "2023-09-27 04:00:00",
-      "album": {
-        "name": "Transporter",
-        "url": "https://open.spotify.com/album/09HngDzsZe65srNA7niD9M"
-      },
-      "artists": [
-        {
-          "name": "Ryosuke Kojima",
-          "url": "https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Transporter",
-      "url": "https://open.spotify.com/track/7EAsB0WBKYzE6Hgmc5VXng"
     }
   ],
   "unique_name": "Fresh Finds Jazz",

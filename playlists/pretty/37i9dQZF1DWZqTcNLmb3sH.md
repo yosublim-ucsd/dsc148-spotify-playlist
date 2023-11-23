@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Sapta Sagaradaache Ello \- Side B
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,779 likes - 77 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,803 likes - 77 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 7 | [Eradu Gundege Katttaaalu](https://open.spotify.com/track/0w2NrEI2G5rNEpC1F44NC7) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Sachin S Nagartha](https://open.spotify.com/artist/1WyqbsqrzA0ok6rGRs3Igw) | [Tiger Nageswara Rao \(Kannada\)](https://open.spotify.com/album/0vdKU1KLGerk7awZ0fV8d7) | 2:22 |
 | 8 | [SuperHero HanuMan \(From "HanuMan"\) \[Kannada\]](https://open.spotify.com/track/6lp827xJFe7epEZXdZNvA9) | [Sai Veda Vagdevi](https://open.spotify.com/artist/581Act09xZmnig5orCHZpw), [Prakruthi Reddy](https://open.spotify.com/artist/7uI1uHoHZxolbz9jIN4hrN) | [SuperHero HanuMan \(From "HanuMan"\) \[Kannada\] \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/3gKVuxzjwOCtG7yVNsaRSb) | 3:48 |
 | 9 | [Third Ogm \(From "Ghost"\)](https://open.spotify.com/track/2rZJtBSjlJLZQUqe7obzKR) | [Nishan Rai](https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Third Ogm \(From "Ghost"\)](https://open.spotify.com/album/0Enpf6jdNYnzzfBOrCU0a3) | 2:02 |
-| 10 | [Lachi Lachi \- From "Maayanagari"](https://open.spotify.com/track/51pswOd4DjRdmIKaLKIvYj) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Nishan Rai](https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy), [Sudarshan D C](https://open.spotify.com/artist/47ilEn45rhiRBDog9f4VwV) | [Lachi Lachi \(From "Maayanagari"\)](https://open.spotify.com/album/3NM7vXmG4RwYJqQF6KOAF9) | 4:16 |
+| 10 | [Lachi Lachi \- From "Maayanagari"](https://open.spotify.com/track/51pswOd4DjRdmIKaLKIvYj) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Nishan Rai](https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy), [Sudarshan D C](https://open.spotify.com/artist/0Vs9eIvhYzedAWrviuWhz0), [Manasa Holla](https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL) | [Lachi Lachi \(From "Maayanagari"\)](https://open.spotify.com/album/3NM7vXmG4RwYJqQF6KOAF9) | 4:16 |
 | 11 | [Mellage \(from "Swathi Mutthina Male Haniye"\)](https://open.spotify.com/track/2YUeI6etyJniTFjGFplqvd) | [Madhuri Seshadri](https://open.spotify.com/artist/4so2LO2B3OqrAlpG9ulXqx), [Midhun Mukundan](https://open.spotify.com/artist/6oyTfygD0Skzy7RZOdUAZp) | [Mellage \(from "Swathi Mutthina Male Haniye"\)](https://open.spotify.com/album/5spE3B5XdFMzx8Q42GJCAm) | 4:37 |
 | 12 | [Bham Bham Bole \(From "Cicada"\)](https://open.spotify.com/track/53mRiu9ELgDp6PpbvKvEDJ) | [Vishak Nagalapura](https://open.spotify.com/artist/6bfkyWyRl7vgkQlV0gy57S), [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg) | [Bham Bham Bole \(From "Cicada"\)](https://open.spotify.com/album/7psUGzi4AiRiBfcliTnr11) | 2:09 |
 | 13 | [Samaraane Nyayanaa](https://open.spotify.com/track/45Sl5dJuvoeXDRuV6d3YCP) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Abhishek M R](https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97) | [Tiger Nageswara Rao \(Kannada\)](https://open.spotify.com/album/0vdKU1KLGerk7awZ0fV8d7) | 4:20 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 76 | [90 Haaku \(From "Kousalya Supraja Rama"\)](https://open.spotify.com/track/7guLFKh9fms3nNu8tu21Ov) | [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Shashank](https://open.spotify.com/artist/37yERfVx2mLLJAVigQekAN) | [90 Haaku \(From "Kousalya Supraja Rama"\)](https://open.spotify.com/album/3UIbArydxRdfjvYNcRZiXD) | 2:43 |
 | 77 | [Preethisuve](https://open.spotify.com/track/1IsoqavrtE8wf6lf2EPCIF) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Prithwi Bhat](https://open.spotify.com/artist/3oHfvwbDQywYV2Kh2Cvr21), [Jayanth Kaikini](https://open.spotify.com/artist/5sLLcCwFCniAJxzLMthF57) | [Kousalya Supraja Rama \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Ekn7qdUqn18EP7APdBLgZ) | 3:58 |
 
-Snapshot ID: `MCw0MGE5ZGFmODk3NTZjMmYwOTM5ZTZjYThiYTZjM2M1ZDNmZDM3MDRm`
+Snapshot ID: `MCxjODhlODA4MTg0YTk2ZTM1MTYxNzZlOWRkYmU0NmQ1NzcyYmNmNjBm`

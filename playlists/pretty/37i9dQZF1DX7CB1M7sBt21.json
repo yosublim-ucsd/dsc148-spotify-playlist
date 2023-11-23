@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 6359,
+  "num_followers": 6388,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDNhMDE1NDQzNThlZWUxOWIzMjdlODczNjFkNjY1MWMzN2NlYzcx",
+  "snapshot_id": "MCw0ODJlYTUxY2VjOWNhZGViNTY5YzczYTkyY2E5YzEzODAyMjA4NWU5",
   "tracks": [
     {
       "added_at": "2023-11-16 23:00:00",
@@ -431,30 +431,6 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
-        "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "Oli Sykes",
-          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 204458,
-      "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
         "name": "Mercy (feat. Jacob Lusk)",
         "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
       },
@@ -475,6 +451,30 @@
       "duration_ms": 178242,
       "name": "Mercy (feat. Jacob Lusk)",
       "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
+        "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
+        "url": "https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Oli Sykes",
+          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 204458,
+      "name": "Happier (feat. Oli Sykes of Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "Take My Breath",
-        "url": "https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 220196,
-      "name": "Take My Breath - Single Version",
-      "url": "https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/5JPF8D6pm5x5eOVL8pvw2l"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 156960,
       "name": "Head Shoulders Knees & Toes (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/2RRpaU7jFVcwo23pthdnBv"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
+        "name": "Take My Breath",
+        "url": "https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 220196,
+      "name": "Take My Breath - Single Version",
+      "url": "https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -971,6 +971,50 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
+        "name": "Let It Happen (Techno)",
+        "url": "https://open.spotify.com/album/0Ux1YVKtFJb3QfC0RLV1mt"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "CLMD",
+          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
+        },
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        }
+      ],
+      "duration_ms": 122571,
+      "name": "Let It Happen (Techno)",
+      "url": "https://open.spotify.com/track/6tnCxKCoZWzRKiDiInhKfq"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
+        "name": "Fugazi (Robin Schulz Presents KOPPY)",
+        "url": "https://open.spotify.com/album/07g9RO7MnP7rV6K0vXBoTc"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "KOPPY",
+          "url": "https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO"
+        }
+      ],
+      "duration_ms": 151279,
+      "name": "Fugazi (Robin Schulz Presents KOPPY)",
+      "url": "https://open.spotify.com/track/1As70eMQbPuG2cABqKZvq2"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
         "name": "Sweet & Sour (feat. Lauv & Tyga)",
         "url": "https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL"
       },
@@ -991,6 +1035,22 @@
       "duration_ms": 163228,
       "name": "Sweet & Sour (feat. Lauv & Tyga)",
       "url": "https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 179831,
+      "name": "OMG What's Happening",
+      "url": "https://open.spotify.com/track/11OPriDpmUrTMTji52ta17"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -1019,46 +1079,6 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 179831,
-      "name": "OMG What's Happening",
-      "url": "https://open.spotify.com/track/11OPriDpmUrTMTji52ta17"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
-        "name": "Let It Happen (Techno)",
-        "url": "https://open.spotify.com/album/0Ux1YVKtFJb3QfC0RLV1mt"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "CLMD",
-          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
-        },
-        {
-          "name": "Braaheim",
-          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
-        }
-      ],
-      "duration_ms": 122571,
-      "name": "Let It Happen (Techno)",
-      "url": "https://open.spotify.com/track/6tnCxKCoZWzRKiDiInhKfq"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
         "name": "Peru",
         "url": "https://open.spotify.com/album/1wGjhakHpFEE3uPqGViTgI"
       },
@@ -1075,22 +1095,22 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "Fugazi (Robin Schulz Presents KOPPY)",
-        "url": "https://open.spotify.com/album/07g9RO7MnP7rV6K0vXBoTc"
+        "name": "22 (Deluxe)",
+        "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
       },
       "artists": [
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
         },
         {
-          "name": "KOPPY",
-          "url": "https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 151279,
-      "name": "Fugazi (Robin Schulz Presents KOPPY)",
-      "url": "https://open.spotify.com/track/1As70eMQbPuG2cABqKZvq2"
+      "duration_ms": 177213,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/41za80kTVaQpZwtPfPtPYB"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -1155,26 +1175,6 @@
       "duration_ms": 190902,
       "name": "I like u",
       "url": "https://open.spotify.com/track/28XsFrUuLEcq9BnGlOHTyJ"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
-        "name": "22 (Deluxe)",
-        "url": "https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/41za80kTVaQpZwtPfPtPYB"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -1403,6 +1403,50 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
+        "name": "So Close",
+        "url": "https://open.spotify.com/album/7f0LueaWnRtuVHilsfVsjX"
+      },
+      "artists": [
+        {
+          "name": "John De Sohn",
+          "url": "https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm"
+        },
+        {
+          "name": "Hanno",
+          "url": "https://open.spotify.com/artist/4y08hdBM8X8dh1Ik7eWZFg"
+        },
+        {
+          "name": "ZANA",
+          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
+        }
+      ],
+      "duration_ms": 168480,
+      "name": "So Close",
+      "url": "https://open.spotify.com/track/3wNt4DRane7yasbJEfR0hX"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
+        "name": "On A Trip (with Marten H\u00f8rger)",
+        "url": "https://open.spotify.com/album/33vrpRLTSvd9YQHJBdgjw7"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 206998,
+      "name": "On A Trip (with Marten H\u00f8rger)",
+      "url": "https://open.spotify.com/track/2c0UQY0FD9cZbMePPB7NdM"
+    },
+    {
+      "added_at": "2023-11-16 23:00:00",
+      "album": {
         "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt",
         "url": "https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM"
       },
@@ -1443,26 +1487,6 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "On A Trip (with Marten H\u00f8rger)",
-        "url": "https://open.spotify.com/album/33vrpRLTSvd9YQHJBdgjw7"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 206998,
-      "name": "On A Trip (with Marten H\u00f8rger)",
-      "url": "https://open.spotify.com/track/2c0UQY0FD9cZbMePPB7NdM"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
         "name": "Coffee (Give Me Something)",
         "url": "https://open.spotify.com/album/0AF75TND45TZytpXlwvVIe"
       },
@@ -1483,26 +1507,18 @@
     {
       "added_at": "2023-11-16 23:00:00",
       "album": {
-        "name": "So Close",
-        "url": "https://open.spotify.com/album/7f0LueaWnRtuVHilsfVsjX"
+        "name": "Daydreamin'",
+        "url": "https://open.spotify.com/album/7nSIgpiG0BxRyrB3o6Xruv"
       },
       "artists": [
         {
-          "name": "John De Sohn",
-          "url": "https://open.spotify.com/artist/3TVjdmhfFoYJLgBEkkZTBm"
-        },
-        {
-          "name": "Hanno",
-          "url": "https://open.spotify.com/artist/4y08hdBM8X8dh1Ik7eWZFg"
-        },
-        {
-          "name": "ZANA",
-          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
         }
       ],
-      "duration_ms": 168480,
-      "name": "So Close",
-      "url": "https://open.spotify.com/track/3wNt4DRane7yasbJEfR0hX"
+      "duration_ms": 139431,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/5qvunEAsoy0tFNNVGB4LFm"
     },
     {
       "added_at": "2023-11-16 23:00:00",
@@ -1519,22 +1535,6 @@
       "duration_ms": 149653,
       "name": "Dumb",
       "url": "https://open.spotify.com/track/5ij0EuOJmqzwBqVIzBAXbb"
-    },
-    {
-      "added_at": "2023-11-16 23:00:00",
-      "album": {
-        "name": "Daydreamin'",
-        "url": "https://open.spotify.com/album/7nSIgpiG0BxRyrB3o6Xruv"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        }
-      ],
-      "duration_ms": 139431,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/5qvunEAsoy0tFNNVGB4LFm"
     },
     {
       "added_at": "2023-11-16 23:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Snelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,223 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,234 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 30 | [What U Doing For Christmas](https://open.spotify.com/track/282kkcTUC7GfK5iGEAy7VM) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb), [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [What U Doing For Christmas](https://open.spotify.com/album/08wjqcGxykTw8h8XaPG4Jl) | 3:45 |
 | 31 | [Blood Moon](https://open.spotify.com/track/5daxO5cHO6SzW2lJyZxy0o) | [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Blood Moon](https://open.spotify.com/album/74CWNx6lQ1QAwEt5vpw7p7) | 2:59 |
 | 32 | [Some Things I'll Never Know \(feat\. Maren Morris\)](https://open.spotify.com/track/3oSGigVd5RezNkTV9PRGmL) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Some Things I'll Never Know \(feat\. Maren Morris\)](https://open.spotify.com/album/1iUKdH9SrtKcSaCbIVcrNj) | 4:02 |
-| 33 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
+| 33 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
 | 34 | [Two Hearts](https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh) | 4:06 |
 | 35 | [Wielen van de bus](https://open.spotify.com/track/4swzrIUzitHxGuCrNLHo1u) | [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Wielen van de bus](https://open.spotify.com/album/45cKLYYRVEmw6DO9fm7LJX) | 3:23 |
 | 36 | [he never will](https://open.spotify.com/track/3gt3BD4A92u4nv6oS5Jkmq) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [he never will](https://open.spotify.com/album/3LRXevJN62aaXJZuxPPVJI) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Ruin me](https://open.spotify.com/track/6Wk0Zttmn4k4Z5An5DMdmJ) | [Ann King](https://open.spotify.com/artist/5UmI3pf3FYbVS6VLdQvrQa) | [Ruin me](https://open.spotify.com/album/7d7xFjMiMWiGJ2TRTXrjc0) | 3:24 |
 | 100 | [Dirt On My Diamonds](https://open.spotify.com/track/5EtjaLlwWCGojDkPc3aFfO) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Dirt On My Diamonds, Vol\. 1](https://open.spotify.com/album/6mAmIXjkf15GnL9LFpW8yL) | 3:23 |
 
-Snapshot ID: `MCxmODliNDBjYTJiMGM0YmQ0YjI5OGFiZDdlMzNkYWYyZjUxZTZjM2Iw`
+Snapshot ID: `MCw1N2I2NTVkMTE3MTYwMmZmZmVlNDk2NmQ5ZGY3Y2QwNTg1MmZkYjQx`

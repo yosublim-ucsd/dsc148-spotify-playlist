@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pmk7QemwOu.md) - [plain]
 
 > ONE DREAM with TXT!
 
-[Spotify](https://open.spotify.com/user/spotify) - 677,471 likes - 91 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 677,597 likes - 91 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pmk7QemwOu.md) - [plain]
 | 35 | [Thursday's Child Has Far To Go](https://open.spotify.com/track/04CHEoMbrLOiX8co3EG5dO) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:31 |
 | 36 | [Ito](https://open.spotify.com/track/0Fb1M7rbOnydw6SrXXSlHr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Ito](https://open.spotify.com/album/4kZPJgs4OcK4AXHlEbIwuU) | 4:03 |
 | 37 | [Anti\-Romantic](https://open.spotify.com/track/0v1cUEN3oF5URBDpc0wVtF) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:35 |
-| 38 | [0X1=LOVESONG \(I Know I Love You\) feat\. Seori](https://open.spotify.com/track/3lyibc1saJfWe5z7rTyWYO) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:22 |
+| 38 | [0X1=LOVESONG \(I Know I Love You\) feat\. Seori](https://open.spotify.com/track/3lyibc1saJfWe5z7rTyWYO) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:22 |
 | 39 | [Magic](https://open.spotify.com/track/15Ocew2xtUZAtviIClOaPt) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 2:39 |
 | 40 | [Ice Cream](https://open.spotify.com/track/5OvpZeRmZEBPp7Vgp0n6oj) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:24 |
 | 41 | [What if I had been that PUMA](https://open.spotify.com/track/2L1l2GV8K16gAqIPKjPhSz) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:33 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pmk7QemwOu.md) - [plain]
 | 47 | [0X1=LOVESONG \(I Know I Love You\) feat\. MOD SUN](https://open.spotify.com/track/2BS6hEI43E8Rx1vDwG7B2N) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [0X1=LOVESONG \(I Know I Love You\) feat\. MOD SUN](https://open.spotify.com/album/4mz8WmQHMhE51kERBJt7oK) | 3:38 |
 | 48 | [0X1=LOVESONG \(I Know I Love You\) feat\. pH\-1, Woodie Gochild, Seori](https://open.spotify.com/track/6jUqjExnh8QBGd7RtnAIJF) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [0X1=LOVESONG \(I Know I Love You\) feat\. pH\-1, Woodie Gochild, Seori](https://open.spotify.com/album/2g6eRzETrUKRIBC8QnjAE1) | 3:25 |
 | 49 | [EYES \(from “Armored Saurus”\)](https://open.spotify.com/track/2jENXjiYuPriGaFNLSmgO5) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [EYES \(from “Armored Saurus”\)](https://open.spotify.com/album/2yyyLbIoQWvZXudDHeUkOd) | 3:34 |
-| 50 | [0X1=LOVESONG \(I Know I Love You\) feat\. Seori](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 |
+| 50 | [0X1=LOVESONG \(I Know I Love You\) feat\. Seori](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 |
 | 51 | [Anti\-Romantic](https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:35 |
 | 52 | [Magic](https://open.spotify.com/track/4Wh5WGtov1VJ6EJ8OQgNeS) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 2:39 |
 | 53 | [Ice Cream](https://open.spotify.com/track/1DA36fEIoN6IKuDAI6oBbK) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pmk7QemwOu.md) - [plain]
 | 90 | [君じゃない誰かの愛し方 \(Ring\) \- Unplugged Ver.](https://open.spotify.com/track/0K1jAnEXaT5BPK6Q6z7WQT) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [SWEET](https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy) | 3:25 |
 | 91 | [Outro : FALLING](https://open.spotify.com/track/4e6VsQ4MBI6hAFXMrEFSUV) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [SWEET](https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy) | 2:09 |
 
-Snapshot ID: `MCw5NGY1ZThmNWMzN2M2ZGExODczNTllZmFiMmFlYTJiYmNkYzczMzBm`
+Snapshot ID: `MCxkNDRiY2ExMzQ1NTE5NzUyOGY4NGJhMzU2ODRkMTkyYjEyMzM2NTgz`

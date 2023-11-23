@@ -1,12 +1,12 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 322965,
+  "num_followers": 323161,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTk1Mjc1ZmVjZTM5YmQ2YWE4MmZhY2JlYzZlZWY2NGVmZWZjMTVk",
+  "snapshot_id": "MCw0YzkzODM5ZjUzMDIzZDYwZWFhZjVkZjM2YmMxZTFhNjQ1ZmJhMzUy",
   "tracks": [
     {
       "added_at": "2023-11-03 04:32:47",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-11-03 04:32:47",
       "album": {
-        "name": "A Casa \u00c9 Sua",
-        "url": "https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR"
-      },
-      "artists": [
-        {
-          "name": "Casa Worship",
-          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
-        }
-      ],
-      "duration_ms": 562388,
-      "name": "A Casa \u00c9 Sua",
-      "url": "https://open.spotify.com/track/1OGtusmbhssNPdnDxqol0P"
-    },
-    {
-      "added_at": "2023-11-03 04:32:47",
-      "album": {
         "name": "Eu Me Atrevi a Te Chamar de Abba",
         "url": "https://open.spotify.com/album/2QgaEgtRuW1EZ3zk7J4oNd"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 425800,
       "name": "Aquieta Minh'alma",
       "url": "https://open.spotify.com/track/2pfh4FmcvPTqBYApHaV6p3"
+    },
+    {
+      "added_at": "2023-11-03 04:32:47",
+      "album": {
+        "name": "A Casa \u00c9 Sua",
+        "url": "https://open.spotify.com/album/5LxNxpv73DPN54DAbtcntR"
+      },
+      "artists": [
+        {
+          "name": "Casa Worship",
+          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
+        }
+      ],
+      "duration_ms": 562388,
+      "name": "A Casa \u00c9 Sua",
+      "url": "https://open.spotify.com/track/1OGtusmbhssNPdnDxqol0P"
     },
     {
       "added_at": "2023-11-03 04:32:47",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-11-03 04:32:47",
       "album": {
+        "name": "Uma Nova Hist\u00f3ria (ao Vivo)",
+        "url": "https://open.spotify.com/album/6fEAuJNkuAFCUJms25Konq"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 297680,
+      "name": "Grandes Coisas - Ao Vivo",
+      "url": "https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1"
+    },
+    {
+      "added_at": "2023-11-03 04:32:47",
+      "album": {
         "name": "Only Jesus",
         "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 206400,
       "name": "Nobody (feat. Matthew West)",
       "url": "https://open.spotify.com/track/0W7KIc2GSB9suYQAaMZ9rF"
-    },
-    {
-      "added_at": "2023-11-03 04:32:47",
-      "album": {
-        "name": "Uma Nova Hist\u00f3ria (ao Vivo)",
-        "url": "https://open.spotify.com/album/6fEAuJNkuAFCUJms25Konq"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 297680,
-      "name": "Grandes Coisas - Ao Vivo",
-      "url": "https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1"
     },
     {
       "added_at": "2023-11-03 04:32:47",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-11-03 04:32:47",
       "album": {
+        "name": "\u00danico (Live)",
+        "url": "https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 419280,
+      "name": "\u00danico - Live",
+      "url": "https://open.spotify.com/track/00E2KxBwL0B3idGMJcRoEh"
+    },
+    {
+      "added_at": "2023-11-03 04:32:47",
+      "album": {
         "name": "Yahweh Se Manifestar\u00e1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6PkqqM3tz6lQCyWTqTvh7f"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 472000,
       "name": "Yahweh Se Manifestar\u00e1 - Ao Vivo",
       "url": "https://open.spotify.com/track/7C6jN12e3k2weyxSDtmpj3"
-    },
-    {
-      "added_at": "2023-11-03 04:32:47",
-      "album": {
-        "name": "\u00danico (Live)",
-        "url": "https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 419280,
-      "name": "\u00danico - Live",
-      "url": "https://open.spotify.com/track/00E2KxBwL0B3idGMJcRoEh"
     },
     {
       "added_at": "2023-11-03 04:32:47",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-11-03 04:32:47",
       "album": {
+        "name": "Caminho no Deserto",
+        "url": "https://open.spotify.com/album/53ExbRaSYoHhR5ZAvD2U62"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 409000,
+      "name": "Caminho no Deserto",
+      "url": "https://open.spotify.com/track/2sKdvtNeQ3D2Lt6ZCHNNSa"
+    },
+    {
+      "added_at": "2023-11-03 04:32:47",
+      "album": {
         "name": "Saudade, Vol. 1",
         "url": "https://open.spotify.com/album/7AJY52qnMHN6z1xn1F0isE"
       },
@@ -503,18 +519,18 @@
     {
       "added_at": "2023-11-03 04:32:47",
       "album": {
-        "name": "Caminho no Deserto",
-        "url": "https://open.spotify.com/album/53ExbRaSYoHhR5ZAvD2U62"
+        "name": "Galileu (ao Vivo)",
+        "url": "https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3"
       },
       "artists": [
         {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         }
       ],
-      "duration_ms": 409000,
-      "name": "Caminho no Deserto",
-      "url": "https://open.spotify.com/track/2sKdvtNeQ3D2Lt6ZCHNNSa"
+      "duration_ms": 325200,
+      "name": "Galileu - Ao Vivo",
+      "url": "https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e"
     },
     {
       "added_at": "2023-11-03 04:32:47",
@@ -563,22 +579,6 @@
       "duration_ms": 290763,
       "name": "Ele N\u00e3o Desiste de Voc\u00ea",
       "url": "https://open.spotify.com/track/344vyXHCBYXPGV4jO8Jo8X"
-    },
-    {
-      "added_at": "2023-11-03 04:32:47",
-      "album": {
-        "name": "Galileu (ao Vivo)",
-        "url": "https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 325200,
-      "name": "Galileu - Ao Vivo",
-      "url": "https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e"
     },
     {
       "added_at": "2023-11-03 04:32:47",
@@ -875,26 +875,6 @@
     {
       "added_at": "2023-11-03 04:32:47",
       "album": {
-        "name": "Deus de Promessas",
-        "url": "https://open.spotify.com/album/5AyYZsFmT70fJevCQRgc4G"
-      },
-      "artists": [
-        {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
-        },
-        {
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
-        }
-      ],
-      "duration_ms": 339033,
-      "name": "Deus de Promessas",
-      "url": "https://open.spotify.com/track/4HKLVCgmv0R8R7PbHgS6hP"
-    },
-    {
-      "added_at": "2023-11-03 04:32:47",
-      "album": {
         "name": "Port\u00f5es Celestiais (Ao Vivo)",
         "url": "https://open.spotify.com/album/574eXP5AevEROvGHuUdGSv"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 350226,
       "name": "Port\u00f5es Celestiais - Ao Vivo",
       "url": "https://open.spotify.com/track/5b3OazQ41nLo3CNeuLyMPA"
+    },
+    {
+      "added_at": "2023-11-03 04:32:47",
+      "album": {
+        "name": "Deus de Promessas",
+        "url": "https://open.spotify.com/album/5AyYZsFmT70fJevCQRgc4G"
+      },
+      "artists": [
+        {
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "duration_ms": 339033,
+      "name": "Deus de Promessas",
+      "url": "https://open.spotify.com/track/4HKLVCgmv0R8R7PbHgS6hP"
     },
     {
       "added_at": "2023-11-03 04:32:47",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-11-03 04:32:47",
       "album": {
+        "name": "Pra que outros possam viver",
+        "url": "https://open.spotify.com/album/0hPCxbrJbUeArwhQpBbq2h"
+      },
+      "artists": [
+        {
+          "name": "Juliano Son",
+          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
+        }
+      ],
+      "duration_ms": 386560,
+      "name": "Vai Valer a Pena",
+      "url": "https://open.spotify.com/track/7fzImqefMkagp3jEeKtdVy"
+    },
+    {
+      "added_at": "2023-11-03 04:32:47",
+      "album": {
         "name": "Come\u00e7o, Meio e Fim / Mais Perto Quero Estar (Ao Vivo)",
         "url": "https://open.spotify.com/album/2kxUqW58yhbbbep56nBy1E"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 337840,
       "name": "Come\u00e7o, Meio e Fim / Mais Perto Quero Estar - Ao Vivo",
       "url": "https://open.spotify.com/track/2IFCM9E7M0AnBwyWXM5Not"
-    },
-    {
-      "added_at": "2023-11-03 04:32:47",
-      "album": {
-        "name": "Pra que outros possam viver",
-        "url": "https://open.spotify.com/album/0hPCxbrJbUeArwhQpBbq2h"
-      },
-      "artists": [
-        {
-          "name": "Juliano Son",
-          "url": "https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P"
-        }
-      ],
-      "duration_ms": 386560,
-      "name": "Vai Valer a Pena",
-      "url": "https://open.spotify.com/track/7fzImqefMkagp3jEeKtdVy"
     },
     {
       "added_at": "2023-11-03 04:32:47",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-11-03 04:32:47",
       "album": {
-        "name": "Saudade, Vol. 2",
-        "url": "https://open.spotify.com/album/2Zg8Q0hCbXr56S86f1C918"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 241881,
-      "name": "Escolho Deus",
-      "url": "https://open.spotify.com/track/4DlUWz3HnEoQrwKN0fFfwO"
-    },
-    {
-      "added_at": "2023-11-03 04:32:47",
-      "album": {
         "name": "Eu Tenho Voc\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/28YHRkBPCjYKUx3Yn7G00T"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 471285,
       "name": "Eu Tenho Voc\u00ea (Ao Vivo)",
       "url": "https://open.spotify.com/track/2FG6DJRP9URLUHWn8GDYex"
+    },
+    {
+      "added_at": "2023-11-03 04:32:47",
+      "album": {
+        "name": "Saudade, Vol. 2",
+        "url": "https://open.spotify.com/album/2Zg8Q0hCbXr56S86f1C918"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 241881,
+      "name": "Escolho Deus",
+      "url": "https://open.spotify.com/track/4DlUWz3HnEoQrwKN0fFfwO"
     },
     {
       "added_at": "2023-11-03 04:32:47",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-11-03 04:32:47",
       "album": {
-        "name": "Eu Sou Livre",
-        "url": "https://open.spotify.com/album/23O2Sf7BGe62TzjYdVP8wu"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 302834,
-      "name": "Meu Universo",
-      "url": "https://open.spotify.com/track/7abLLSsnvZUTnts7L0Ud3m"
-    },
-    {
-      "added_at": "2023-11-03 04:32:47",
-      "album": {
         "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
         "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 476546,
       "name": "Nunca Pare de Lutar",
       "url": "https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN"
+    },
+    {
+      "added_at": "2023-11-03 04:32:47",
+      "album": {
+        "name": "Eu Sou Livre",
+        "url": "https://open.spotify.com/album/23O2Sf7BGe62TzjYdVP8wu"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 302834,
+      "name": "Meu Universo",
+      "url": "https://open.spotify.com/track/7abLLSsnvZUTnts7L0Ud3m"
     },
     {
       "added_at": "2023-11-03 04:32:47",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2023-11-03 04:32:47",
       "album": {
+        "name": "Recebo a Vida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1jBKZa8IyMgyURntDB1VAt"
+      },
+      "artists": [
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "duration_ms": 422987,
+      "name": "Recebo a Vida - Ao Vivo",
+      "url": "https://open.spotify.com/track/4aZteh08WVxvTDjAWdGWYi"
+    },
+    {
+      "added_at": "2023-11-03 04:32:47",
+      "album": {
         "name": "A Tua Real Presen\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/0r6pJYZ81SH8kzX9XGi2Vl"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 286259,
       "name": "A Tua Real Presen\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/6HJY5wSGDmsfFjGhzPtiaM"
-    },
-    {
-      "added_at": "2023-11-03 04:32:47",
-      "album": {
-        "name": "Recebo a Vida (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1jBKZa8IyMgyURntDB1VAt"
-      },
-      "artists": [
-        {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
-        }
-      ],
-      "duration_ms": 422987,
-      "name": "Recebo a Vida - Ao Vivo",
-      "url": "https://open.spotify.com/track/4aZteh08WVxvTDjAWdGWYi"
     },
     {
       "added_at": "2023-11-03 04:32:47",
@@ -2131,18 +2131,22 @@
     {
       "added_at": "2023-11-03 04:32:47",
       "album": {
-        "name": "Cuida De Mim",
-        "url": "https://open.spotify.com/album/3ZmrAlZNemvgYoOoPe1DoY"
+        "name": "Pra Ti Eu Vou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1cpQFbRUBIAbX77LqwdkjB"
       },
       "artists": [
         {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+          "name": "Matheus Goulart",
+          "url": "https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh"
+        },
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
         }
       ],
-      "duration_ms": 217511,
-      "name": "Cuida De Mim",
-      "url": "https://open.spotify.com/track/2vMdTPntkHh37YcrTLulXL"
+      "duration_ms": 303586,
+      "name": "Pra Ti Eu Vou - Ao Vivo",
+      "url": "https://open.spotify.com/track/2U9pql1iLy9o3ZRKygbMwR"
     }
   ],
   "unique_name": "Louvando no Tr\u00e2nsito",

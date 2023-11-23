@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest of Pakistani discoveries\. Cover \- AUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,390 likes - 79 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,423 likes - 79 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 78 | [Vajay 12](https://open.spotify.com/track/2zZJwzTvt7omuXdzwM3pUC) | [Kumail Jaffery](https://open.spotify.com/artist/5Wo2MMvWR5cQCwnYcSkrO3), [Bouncy](https://open.spotify.com/artist/6YLcrxPUm5BavW00kv6WiQ), [Zohan](https://open.spotify.com/artist/5OepRZbo0eTrU1skHBm8hJ) | [Vajay 12](https://open.spotify.com/album/3GJqvmY29FIs9Upn5Giqow) | 2:22 |
 | 79 | [Faaslay](https://open.spotify.com/track/4ym4sCUSQyhWbdD5kd1UyB) | [daudd](https://open.spotify.com/artist/3bTY1NJE0nNY6ngabHAJH7) | [Faaslay](https://open.spotify.com/album/47o5eaeyY2fEQtns49Meh8) | 1:52 |
 
-Snapshot ID: `MCxmOWQwZWFjM2VjYmUxZmMxYzMyN2UxNmM4NjE3Nzg2Mjk2ZDRjN2Qy`
+Snapshot ID: `MCwxMjhkNzg3MzFhMDQ3ZGQ0NWYxODFkNjdjYjk3OTY5Nzk3ZGI4NzAx`

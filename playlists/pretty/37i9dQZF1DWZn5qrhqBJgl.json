@@ -1,12 +1,12 @@
 {
   "description": "Dope global beat makers. <a href=\"spotify:artist:4fOizZJsCaT3RYpqNdeGKk\">Thanks Joey</a>",
-  "num_followers": 107703,
+  "num_followers": 107751,
   "original_name": "Dope Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzE1OTFiYmI2MGNiYjU5ZDExZTA5NzJhZTJmODUwNTkzNzM1M2Zk",
+  "snapshot_id": "MCwzNThmNzFjOTM5MWZkNGM1MzYzYzg0NzUzN2I0YmVlZmM5YjU4ZmVk",
   "tracks": [
     {
       "added_at": "2022-03-22 11:23:16",
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/6A3ddeuWO08Vezfc0ArP7N"
-      },
-      "artists": [
-        {
-          "name": "C Y G N",
-          "url": "https://open.spotify.com/artist/6OgHTWl7y9oeccoxeXXDPn"
-        }
-      ],
-      "duration_ms": 200597,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/6K4UmGe34YIIdnmFfSB6jP"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/0aHNCKqYpx2fKtWo5b08Ut"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 169690,
       "name": "Breakaway",
       "url": "https://open.spotify.com/track/2G0oEXtrGhy2xJKB2bLhuo"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/6A3ddeuWO08Vezfc0ArP7N"
+      },
+      "artists": [
+        {
+          "name": "C Y G N",
+          "url": "https://open.spotify.com/artist/6OgHTWl7y9oeccoxeXXDPn"
+        }
+      ],
+      "duration_ms": 200597,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/6K4UmGe34YIIdnmFfSB6jP"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Glazed",
-        "url": "https://open.spotify.com/album/25z7PJPi2VM4jg3trb5C12"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sitts",
-          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
-        }
-      ],
-      "duration_ms": 159560,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/2JWTVS3ndZcwJrabnCAWvD"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Chasin Daisys",
         "url": "https://open.spotify.com/album/7GT5JveFqzf8ugLQOaunBe"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 131707,
       "name": "Chasin Daisys",
       "url": "https://open.spotify.com/track/6Ubd7b9qq9gihaR8WElv7m"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Glazed",
+        "url": "https://open.spotify.com/album/25z7PJPi2VM4jg3trb5C12"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sitts",
+          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
+        }
+      ],
+      "duration_ms": 159560,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/2JWTVS3ndZcwJrabnCAWvD"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -511,18 +511,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Targa",
-        "url": "https://open.spotify.com/album/1tgeNyPWndmO5FN0xvZFC3"
+        "name": "Le jour o\u00f9 j'ai arr\u00eat\u00e9 le rap",
+        "url": "https://open.spotify.com/album/5h0M4Xlf1r5mYvjhKTMrzY"
       },
       "artists": [
         {
-          "name": "Jewlz",
-          "url": "https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt"
+          "name": "M\u00e9dine",
+          "url": "https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV"
         }
       ],
-      "duration_ms": 172068,
-      "name": "Targa",
-      "url": "https://open.spotify.com/track/3plV0LOsX8KuJ3zWzB97Lc"
+      "duration_ms": 202443,
+      "name": "Le jour o\u00f9 j'ai arr\u00eat\u00e9 le rap (Instrumental)",
+      "url": "https://open.spotify.com/track/4SRYBEVd6ChjJYBhaObHpk"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Le jour o\u00f9 j'ai arr\u00eat\u00e9 le rap",
-        "url": "https://open.spotify.com/album/5h0M4Xlf1r5mYvjhKTMrzY"
+        "name": "Targa",
+        "url": "https://open.spotify.com/album/1tgeNyPWndmO5FN0xvZFC3"
       },
       "artists": [
         {
-          "name": "M\u00e9dine",
-          "url": "https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV"
+          "name": "Jewlz",
+          "url": "https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt"
         }
       ],
-      "duration_ms": 202443,
-      "name": "Le jour o\u00f9 j'ai arr\u00eat\u00e9 le rap (Instrumental)",
-      "url": "https://open.spotify.com/track/4SRYBEVd6ChjJYBhaObHpk"
+      "duration_ms": 172068,
+      "name": "Targa",
+      "url": "https://open.spotify.com/track/3plV0LOsX8KuJ3zWzB97Lc"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
+        "name": "Eshkol",
+        "url": "https://open.spotify.com/album/4vuuyt8VMuzSOzjKkVzDeV"
+      },
+      "artists": [
+        {
+          "name": "Djamil",
+          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
+        }
+      ],
+      "duration_ms": 118588,
+      "name": "Eshkol",
+      "url": "https://open.spotify.com/track/5MlDCzLbDIMw1ZdfkI7rCQ"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
         "name": "Tank",
         "url": "https://open.spotify.com/album/2Q1wocAY05F8VaxnXqfVZM"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 167138,
       "name": "Tank - Instrumental",
       "url": "https://open.spotify.com/track/6Q7nTYBffkZSNebWmz0XSQ"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "Eshkol",
-        "url": "https://open.spotify.com/album/4vuuyt8VMuzSOzjKkVzDeV"
-      },
-      "artists": [
-        {
-          "name": "Djamil",
-          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
-        }
-      ],
-      "duration_ms": 118588,
-      "name": "Eshkol",
-      "url": "https://open.spotify.com/track/5MlDCzLbDIMw1ZdfkI7rCQ"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Act Upon",
-        "url": "https://open.spotify.com/album/4SuOSkTWZgHNY2HAD8SDmB"
-      },
-      "artists": [
-        {
-          "name": "Nadamondi",
-          "url": "https://open.spotify.com/artist/4y5xvBnDBSkmelTGDShAhJ"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Peepers",
-      "url": "https://open.spotify.com/track/2QOgqwD5LGbYjneDPaO8Lq"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Crushing",
         "url": "https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 131350,
       "name": "Crushing",
       "url": "https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Act Upon",
+        "url": "https://open.spotify.com/album/4SuOSkTWZgHNY2HAD8SDmB"
+      },
+      "artists": [
+        {
+          "name": "Nadamondi",
+          "url": "https://open.spotify.com/artist/4y5xvBnDBSkmelTGDShAhJ"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Peepers",
+      "url": "https://open.spotify.com/track/2QOgqwD5LGbYjneDPaO8Lq"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -723,18 +723,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Emot",
-        "url": "https://open.spotify.com/album/0LvbwjOGgBviZPFgTpJQf7"
+        "name": "Stay at Home",
+        "url": "https://open.spotify.com/album/61k37mAg1fytpQuGhzKwOL"
       },
       "artists": [
         {
-          "name": "TheeAgris",
-          "url": "https://open.spotify.com/artist/6je5mA0FQskRZ5PHgxczTB"
+          "name": "ElNasser",
+          "url": "https://open.spotify.com/artist/3D5Jdjpumogr3FInXkSP7R"
         }
       ],
-      "duration_ms": 146207,
-      "name": "Emot",
-      "url": "https://open.spotify.com/track/62ej1SzgHt0FU9nP43qQZs"
+      "duration_ms": 175384,
+      "name": "Stay at Home",
+      "url": "https://open.spotify.com/track/1wuw2GQNMCx8H5b6ax3Twr"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -755,18 +755,18 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Stay at Home",
-        "url": "https://open.spotify.com/album/61k37mAg1fytpQuGhzKwOL"
+        "name": "Emot",
+        "url": "https://open.spotify.com/album/0LvbwjOGgBviZPFgTpJQf7"
       },
       "artists": [
         {
-          "name": "ElNasser",
-          "url": "https://open.spotify.com/artist/3D5Jdjpumogr3FInXkSP7R"
+          "name": "TheeAgris",
+          "url": "https://open.spotify.com/artist/6je5mA0FQskRZ5PHgxczTB"
         }
       ],
-      "duration_ms": 175384,
-      "name": "Stay at Home",
-      "url": "https://open.spotify.com/track/1wuw2GQNMCx8H5b6ax3Twr"
+      "duration_ms": 146207,
+      "name": "Emot",
+      "url": "https://open.spotify.com/track/62ej1SzgHt0FU9nP43qQZs"
     },
     {
       "added_at": "2022-03-22 11:23:16",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
-        "name": "Xvibe",
-        "url": "https://open.spotify.com/album/6W7b9RFrdBE29953myz6b7"
-      },
-      "artists": [
-        {
-          "name": "MoJaNaD",
-          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
-        }
-      ],
-      "duration_ms": 52000,
-      "name": "Xvibe",
-      "url": "https://open.spotify.com/track/0jDRb7fzYpHLHodknLCmBt"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
         "name": "Dini Maak",
         "url": "https://open.spotify.com/album/3wwQ2C251PhaWMg4HOJKNg"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 220722,
       "name": "Daydream in Green",
       "url": "https://open.spotify.com/track/3ig0oMG2de0KiuMlHIyfgB"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
+        "name": "Xvibe",
+        "url": "https://open.spotify.com/album/6W7b9RFrdBE29953myz6b7"
+      },
+      "artists": [
+        {
+          "name": "MoJaNaD",
+          "url": "https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix"
+        }
+      ],
+      "duration_ms": 52000,
+      "name": "Xvibe",
+      "url": "https://open.spotify.com/track/0jDRb7fzYpHLHodknLCmBt"
     },
     {
       "added_at": "2022-03-22 11:23:16",

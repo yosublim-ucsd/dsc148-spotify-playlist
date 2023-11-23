@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 29857,
+  "num_followers": 29906,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
+        "name": "Rotary International Abidjan",
+        "url": "https://open.spotify.com/album/0hzRwW1Jq1U2VNtGph8QLG"
+      },
+      "artists": [
+        {
+          "name": "Alan Cav\u00e9",
+          "url": "https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2"
+        }
+      ],
+      "duration_ms": 325906,
+      "name": "Chokola",
+      "url": "https://open.spotify.com/track/7IIsViFUZYneEz5md6Azse"
+    },
+    {
+      "added_at": "2020-06-03 18:17:45",
+      "album": {
         "name": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
         "url": "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 324026,
       "name": "Yel\u00e9 (feat. Ms. Lauryn Hill)",
       "url": "https://open.spotify.com/track/4oxn5AUl1DYXWgpAjKM0rK"
-    },
-    {
-      "added_at": "2020-06-03 18:17:45",
-      "album": {
-        "name": "Rotary International Abidjan",
-        "url": "https://open.spotify.com/album/0hzRwW1Jq1U2VNtGph8QLG"
-      },
-      "artists": [
-        {
-          "name": "Alan Cav\u00e9",
-          "url": "https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2"
-        }
-      ],
-      "duration_ms": 325906,
-      "name": "Chokola",
-      "url": "https://open.spotify.com/track/7IIsViFUZYneEz5md6Azse"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -383,8 +383,8 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Another Round",
-        "url": "https://open.spotify.com/album/3BQOkiKZPPqcyHOmqKILNQ"
+        "name": "Mete'm alez",
+        "url": "https://open.spotify.com/album/0EbHjaICJ8Zzrj7wwjl2ep"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5"
         }
       ],
-      "duration_ms": 258090,
-      "name": "Another Round - Zouk",
-      "url": "https://open.spotify.com/track/2bMD78FllNnUX5L5cejItr"
+      "duration_ms": 293035,
+      "name": "Wet the hell map vini - Zouk",
+      "url": "https://open.spotify.com/track/3jTIX1lylzAwOIdBjZC3t2"
     },
     {
       "added_at": "2020-06-03 18:17:45",
@@ -555,8 +555,8 @@
     {
       "added_at": "2020-06-03 18:17:45",
       "album": {
-        "name": "Mete'm alez",
-        "url": "https://open.spotify.com/album/0EbHjaICJ8Zzrj7wwjl2ep"
+        "name": "Another Round",
+        "url": "https://open.spotify.com/album/3BQOkiKZPPqcyHOmqKILNQ"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5"
         }
       ],
-      "duration_ms": 293035,
-      "name": "Wet the hell map vini - Zouk",
-      "url": "https://open.spotify.com/track/3jTIX1lylzAwOIdBjZC3t2"
+      "duration_ms": 258090,
+      "name": "Another Round - Zouk",
+      "url": "https://open.spotify.com/track/2bMD78FllNnUX5L5cejItr"
     },
     {
       "added_at": "2020-06-03 18:17:45",

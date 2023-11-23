@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,682 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,700 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 33 | [El Color de Tus Ojos](https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [El Color de Tus Ojos](https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO) | 2:36 |
 | 34 | [Traicionero](https://open.spotify.com/track/7dAO2xy0K5tUqax8LthAml) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24), [Media Naranja](https://open.spotify.com/artist/1CPCudqABxMYzF2PFEfQme) | [Traicionero](https://open.spotify.com/album/1HspaBXnlgh97QO7eIBqpD) | 3:24 |
 | 35 | [Corazón Partío](https://open.spotify.com/track/4CQZ8wD1fWAbeTvSKzBK4M) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Corazón Partío](https://open.spotify.com/album/7zmYwJwT0GS14DstdDa3Yi) | 3:19 |
-| 36 | [Yo Te Pido Amor](https://open.spotify.com/track/4dbQHs5xcUXdA2ZOF2Cf8M) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Un Poco Locos \(Edición De Lujo\)](https://open.spotify.com/album/7e5WnX4OclEABi7QJfLj7v) | 3:29 |
-| 37 | [El Efecto](https://open.spotify.com/track/6FVwZYbQJUpVpwk2pwIOdv) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Max Fernandez](https://open.spotify.com/artist/3dhEq5nvtcF7ESywWnIR51) | [El Efecto](https://open.spotify.com/album/5eCVCeHPbEy53Y4IVmarXb) | 1:43 |
+| 36 | [El Efecto](https://open.spotify.com/track/6FVwZYbQJUpVpwk2pwIOdv) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Max Fernandez](https://open.spotify.com/artist/3dhEq5nvtcF7ESywWnIR51) | [El Efecto](https://open.spotify.com/album/5eCVCeHPbEy53Y4IVmarXb) | 1:43 |
+| 37 | [Yo Te Pido Amor](https://open.spotify.com/track/4dbQHs5xcUXdA2ZOF2Cf8M) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Un Poco Locos \(Edición De Lujo\)](https://open.spotify.com/album/7e5WnX4OclEABi7QJfLj7v) | 3:29 |
 | 38 | [Desvelado](https://open.spotify.com/track/5WkGaCMFbfGke7D1JMTe6p) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Desvelado](https://open.spotify.com/album/3xk1sdgVmSKDY8aV5jpXo4) | 3:51 |
 | 39 | [Hotline Bling](https://open.spotify.com/track/6q3HqeduJaaZvoGkxcJEOb) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Hotline Bling](https://open.spotify.com/album/3wIfrWCteaifdw84a9ckUi) | 3:23 |
 | 40 | [La Incondicional \- Version Cumbia](https://open.spotify.com/track/0AuHkLADfPOZ7OVkPaczoa) | [Otto Bunge](https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn), [Nicki Luis](https://open.spotify.com/artist/2mmVmtJNyml9x36wM2Br3D) | [La Incondicional \(Version Cumbia\)](https://open.spotify.com/album/5JYUEfb6wEMPL0Aixmjpkr) | 2:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 74 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/5rb3whySuw8zcp0HtUVeEO) | [Musicalísimo Fuego Indio](https://open.spotify.com/artist/0rH58cEKLQvObKk2mR7rZN) | [Retro Con](https://open.spotify.com/album/3lbfNpHzH7PMTgmwYJpwHt) | 3:25 |
 | 75 | [Clavado en un Bar](https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Combo Loco](https://open.spotify.com/album/37AK87c1LWBvaSNoBI0jNO) | 3:21 |
 
-Snapshot ID: `MCxhMmE0MWI5ZmU1ZmZkODAyNGQ3MTRkMTk1NTkzYjQxZDlmMmViZDc0`
+Snapshot ID: `MCwyM2JiNTkwYmIyNjM0YWFlZGFlMTc4MGRmN2U5MTY0ZmE2OGY0N2Vk`

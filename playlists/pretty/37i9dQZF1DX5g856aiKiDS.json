@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 480992,
+  "num_followers": 481022,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTMxYzIzZTNhMWUwOWZmODk1NGFhMTE2MTZkMzg1NDRkNzdkMmIx",
+  "snapshot_id": "MCw5ZGYzYmE0ZWViYWI1ZWUxMGRiMWIxNjc5NTc1NTMyYTc0NmJjZGNh",
   "tracks": [
     {
       "added_at": "2023-11-14 13:05:29",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-11-14 13:05:29",
       "album": {
-        "name": "Let Me Know",
-        "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
-    },
-    {
-      "added_at": "2023-11-14 13:05:29",
-      "album": {
         "name": "Like A Fool",
         "url": "https://open.spotify.com/album/4wJPiw5ZoTJFRUt2r2zvCy"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 214426,
       "name": "Like A Fool",
       "url": "https://open.spotify.com/track/1E8Cztx0OIj4zm1IZh2XXj"
+    },
+    {
+      "added_at": "2023-11-14 13:05:29",
+      "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
     },
     {
       "added_at": "2023-11-14 13:05:29",
@@ -311,26 +311,6 @@
     {
       "added_at": "2023-11-14 13:05:29",
       "album": {
-        "name": "SoulMate (feat. IU)",
-        "url": "https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        },
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 219390,
-      "name": "SoulMate (feat. IU)",
-      "url": "https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0"
-    },
-    {
-      "added_at": "2023-11-14 13:05:29",
-      "album": {
         "name": "WINE",
         "url": "https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 232194,
       "name": "WINE (Feat.Changmo) (Prod. SUGA)",
       "url": "https://open.spotify.com/track/3eHkFA3StDR9BU7EVrUFLs"
+    },
+    {
+      "added_at": "2023-11-14 13:05:29",
+      "album": {
+        "name": "SoulMate (feat. IU)",
+        "url": "https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 219390,
+      "name": "SoulMate (feat. IU)",
+      "url": "https://open.spotify.com/track/1pz24zu5H9A0S1a2NKT4F0"
     },
     {
       "added_at": "2023-11-14 13:05:29",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-11-14 13:05:29",
       "album": {
-        "name": "Why?",
-        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 147373,
-      "name": "Why?",
-      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
-    },
-    {
-      "added_at": "2023-11-14 13:05:29",
-      "album": {
         "name": "Can I Love ?",
         "url": "https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 229750,
       "name": "Can I Love ? (feat. youra, Meego)",
       "url": "https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF"
+    },
+    {
+      "added_at": "2023-11-14 13:05:29",
+      "album": {
+        "name": "Why?",
+        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 147373,
+      "name": "Why?",
+      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
     },
     {
       "added_at": "2023-11-14 13:05:29",
@@ -647,26 +647,6 @@
     {
       "added_at": "2023-11-14 13:05:29",
       "album": {
-        "name": "You Might (Feat. SHIRT)",
-        "url": "https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD"
-      },
-      "artists": [
-        {
-          "name": "g0nny",
-          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
-        },
-        {
-          "name": "SHIRT",
-          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
-        }
-      ],
-      "duration_ms": 187185,
-      "name": "You Might (Feat. SHIRT)",
-      "url": "https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14"
-    },
-    {
-      "added_at": "2023-11-14 13:05:29",
-      "album": {
         "name": "fool",
         "url": "https://open.spotify.com/album/7dUPtlVTD9sepa5fcaWB44"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 130333,
       "name": "fool",
       "url": "https://open.spotify.com/track/6lXGf0irWo1XWl8acAlzso"
+    },
+    {
+      "added_at": "2023-11-14 13:05:29",
+      "album": {
+        "name": "You Might (Feat. SHIRT)",
+        "url": "https://open.spotify.com/album/0ZkiSgqFmO169VYOFi02kD"
+      },
+      "artists": [
+        {
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+        },
+        {
+          "name": "SHIRT",
+          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
+        }
+      ],
+      "duration_ms": 187185,
+      "name": "You Might (Feat. SHIRT)",
+      "url": "https://open.spotify.com/track/340yvMO5adu3bo1x5Zrw14"
     },
     {
       "added_at": "2023-11-14 13:05:29",

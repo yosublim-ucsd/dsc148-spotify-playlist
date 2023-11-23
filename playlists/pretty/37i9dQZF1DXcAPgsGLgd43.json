@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3615,
+  "num_followers": 3639,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NGY4NTAyNGU3YTgyMGJkZDMxZjM1NTU3ZWU1ZDlhYzUxNzI5MDg3",
+  "snapshot_id": "MCw4NTkxNjgzNGUwNzAwZGVkZjA4MGVkOTM1NjAzMmNhYzhiMTQ1NDA2",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -399,30 +399,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Chakachaka",
-        "url": "https://open.spotify.com/album/3ZLiJSNwRdxYmm669cq1pv"
+        "name": "Pasilda",
+        "url": "https://open.spotify.com/album/7nTVeqrRHtGvTRCrrUmdoc"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        },
-        {
-          "name": "Damien N-Drix",
-          "url": "https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU"
+          "name": "Afro Medusa",
+          "url": "https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI"
         }
       ],
-      "duration_ms": 160645,
-      "name": "Chakachaka",
-      "url": "https://open.spotify.com/track/5qQ9Hemq7CpsrDRnAgToVI"
+      "duration_ms": 201000,
+      "name": "Pasilda",
+      "url": "https://open.spotify.com/track/6VQDaTTTHeLUhKaHcDe2Bz"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -447,18 +435,30 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Pasilda",
-        "url": "https://open.spotify.com/album/7nTVeqrRHtGvTRCrrUmdoc"
+        "name": "Chakachaka",
+        "url": "https://open.spotify.com/album/3ZLiJSNwRdxYmm669cq1pv"
       },
       "artists": [
         {
-          "name": "Afro Medusa",
-          "url": "https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        },
+        {
+          "name": "Damien N-Drix",
+          "url": "https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Pasilda",
-      "url": "https://open.spotify.com/track/6VQDaTTTHeLUhKaHcDe2Bz"
+      "duration_ms": 160645,
+      "name": "Chakachaka",
+      "url": "https://open.spotify.com/track/5qQ9Hemq7CpsrDRnAgToVI"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Maracuya",
-        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "Maracuya",
-      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Se Va",
         "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 196750,
       "name": "Se Va (feat. Cumbiafrica)",
       "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Maracuya",
+        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "Maracuya",
+      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -699,34 +699,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Pa Lante",
-        "url": "https://open.spotify.com/album/4c5PIf7olnUOXJPR4nlq22"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Minow",
-          "url": "https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen"
-        },
-        {
-          "name": "Gabsy",
-          "url": "https://open.spotify.com/artist/6FyP2gFlBlrXKhcLGFmwhc"
-        }
-      ],
-      "duration_ms": 179527,
-      "name": "Pa Lante",
-      "url": "https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Esta Vaina",
         "url": "https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq"
       },
@@ -739,50 +711,6 @@
       "duration_ms": 215699,
       "name": "Esta Vaina",
       "url": "https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "La Bulla",
-        "url": "https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Many Malon",
-          "url": "https://open.spotify.com/artist/7KizV6niQzeuEqXKvMMXYM"
-        }
-      ],
-      "duration_ms": 170403,
-      "name": "La Bulla",
-      "url": "https://open.spotify.com/track/0TaXn3UgkHmba7ew4JFZEM"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Yo Quiero Una Nena (Sunnery James & Ryan Marciano and Tom Enzy Remix)",
-        "url": "https://open.spotify.com/album/4mbBidN8p7hQbRC1Cf519J"
-      },
-      "artists": [
-        {
-          "name": "Daveartt",
-          "url": "https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87"
-        },
-        {
-          "name": "Sunnery James & Ryan Marciano",
-          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
-        },
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 198214,
-      "name": "Yo Quiero Una Nena (Sunnery James & Ryan Marciano and Tom Enzy Remix)",
-      "url": "https://open.spotify.com/track/0PHsJbGSWsc73G2bAs1FuB"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -811,6 +739,58 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
+        "name": "Pa Lante",
+        "url": "https://open.spotify.com/album/4c5PIf7olnUOXJPR4nlq22"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Minow",
+          "url": "https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen"
+        },
+        {
+          "name": "Gabsy",
+          "url": "https://open.spotify.com/artist/6FyP2gFlBlrXKhcLGFmwhc"
+        }
+      ],
+      "duration_ms": 179527,
+      "name": "Pa Lante",
+      "url": "https://open.spotify.com/track/1naty2glEbU3jjS0XoJHLX"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Yo Quiero Una Nena (Sunnery James & Ryan Marciano and Tom Enzy Remix)",
+        "url": "https://open.spotify.com/album/4mbBidN8p7hQbRC1Cf519J"
+      },
+      "artists": [
+        {
+          "name": "Daveartt",
+          "url": "https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87"
+        },
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        },
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 198214,
+      "name": "Yo Quiero Una Nena (Sunnery James & Ryan Marciano and Tom Enzy Remix)",
+      "url": "https://open.spotify.com/track/0PHsJbGSWsc73G2bAs1FuB"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
         "name": "Dimini",
         "url": "https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 142447,
       "name": "Dimini",
       "url": "https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "La Bulla",
+        "url": "https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Many Malon",
+          "url": "https://open.spotify.com/artist/7KizV6niQzeuEqXKvMMXYM"
+        }
+      ],
+      "duration_ms": 170403,
+      "name": "La Bulla",
+      "url": "https://open.spotify.com/track/0TaXn3UgkHmba7ew4JFZEM"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Hag\u00fce",
-        "url": "https://open.spotify.com/album/0fdy6q55zq1iYKuMkuCJfH"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        }
-      ],
-      "duration_ms": 177958,
-      "name": "Hag\u00fce",
-      "url": "https://open.spotify.com/track/0lpy5ODb3Hk08nGa5izWb6"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Tr\u00e1gatelo",
         "url": "https://open.spotify.com/album/77pIaKUlGjnL7tXbVL7FTI"
       },
@@ -919,22 +903,6 @@
       "duration_ms": 167441,
       "name": "Tr\u00e1gatelo",
       "url": "https://open.spotify.com/track/7isW5u9xH4iDUJfqn36UMl"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Toma Que Toma",
-        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 227076,
-      "name": "Toma Que Toma",
-      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -967,6 +935,38 @@
       "duration_ms": 153750,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/7GA5kAtcfu6ffdjrsDNCe3"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Hag\u00fce",
+        "url": "https://open.spotify.com/album/0fdy6q55zq1iYKuMkuCJfH"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        }
+      ],
+      "duration_ms": 177958,
+      "name": "Hag\u00fce",
+      "url": "https://open.spotify.com/track/0lpy5ODb3Hk08nGa5izWb6"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Toma Que Toma",
+        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 227076,
+      "name": "Toma Que Toma",
+      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
     }
   ],
   "unique_name": "Alma",

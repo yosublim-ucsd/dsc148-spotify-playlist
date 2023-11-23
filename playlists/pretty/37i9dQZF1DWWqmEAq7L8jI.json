@@ -1,12 +1,12 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e.",
-  "num_followers": 266439,
+  "num_followers": 266482,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTYzZjg5MzA4NDNjYzZmZjE3MzhiNTA5ZTk0ZWVjOTY3MmFlMGUy",
+  "snapshot_id": "MCxkMTcwNGM4MmJjNjA2YWIzNGFmMzAwNDY2MjU3YmM3NDIxN2I2N2E1",
   "tracks": [
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1067,18 +1067,22 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Ya No Vuelvas",
-        "url": "https://open.spotify.com/album/2eK5Sw1SDSiCpLNUm6MFoS"
+        "name": "Ojos Noche (feat. Carla Morrison)",
+        "url": "https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV"
       },
       "artists": [
         {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 144491,
-      "name": "Ya No Vuelvas",
-      "url": "https://open.spotify.com/track/6rz0n5iiiFOD9PMuBnFCJV"
+      "duration_ms": 254929,
+      "name": "Ojos Noche (feat. Carla Morrison)",
+      "url": "https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1107,22 +1111,18 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Ojos Noche (feat. Carla Morrison)",
-        "url": "https://open.spotify.com/album/5f0AJWM6jB4pzEsC6b0vDV"
+        "name": "Ya No Vuelvas",
+        "url": "https://open.spotify.com/album/2eK5Sw1SDSiCpLNUm6MFoS"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
         }
       ],
-      "duration_ms": 254929,
-      "name": "Ojos Noche (feat. Carla Morrison)",
-      "url": "https://open.spotify.com/track/0fl9zrtFxmZEE3sx7RbS7k"
+      "duration_ms": 144491,
+      "name": "Ya No Vuelvas",
+      "url": "https://open.spotify.com/track/6rz0n5iiiFOD9PMuBnFCJV"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "La Voz Del Viento",
-        "url": "https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a"
-      },
-      "artists": [
-        {
-          "name": "Los Huayra",
-          "url": "https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl"
-        }
-      ],
-      "duration_ms": 258826,
-      "name": "La Noche Sin T\u00ed",
-      "url": "https://open.spotify.com/track/6dT5W7zuEcUZHnZuVlSIJ5"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
         "name": "No Ha Parado De Llover",
         "url": "https://open.spotify.com/album/682Fbr5tuCp7QR5ZEOL2DU"
       },
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
+        "name": "La Voz Del Viento",
+        "url": "https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a"
+      },
+      "artists": [
+        {
+          "name": "Los Huayra",
+          "url": "https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "La Noche Sin T\u00ed",
+      "url": "https://open.spotify.com/track/6dT5W7zuEcUZHnZuVlSIJ5"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
         "name": "BAIL\u00c9 CON MI EX",
         "url": "https://open.spotify.com/album/1Q2VAJl9617SehQItOqzqI"
       },
@@ -1223,6 +1223,26 @@
       "duration_ms": 161880,
       "name": "BAIL\u00c9 CON MI EX",
       "url": "https://open.spotify.com/track/0Yc0ziTsyjahYqlWXVXlTU"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
+        "name": "Mesa Para Dos",
+        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "duration_ms": 206674,
+      "name": "Lo Que en Ti Veo",
+      "url": "https://open.spotify.com/track/2cLOSF54zDP52z6ma8mivK"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1247,26 +1267,6 @@
       "duration_ms": 231708,
       "name": "2:50 Remix",
       "url": "https://open.spotify.com/track/5eyO0n1HiiSWdGaaSoK731"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
-        "name": "Mesa Para Dos",
-        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        }
-      ],
-      "duration_ms": 206674,
-      "name": "Lo Que en Ti Veo",
-      "url": "https://open.spotify.com/track/2cLOSF54zDP52z6ma8mivK"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
+        "name": "A la Vez",
+        "url": "https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 182876,
+      "name": "A la Vez",
+      "url": "https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
         "name": "Indios y Vaqueros",
         "url": "https://open.spotify.com/album/2t9PxUaBK9Jk2G9vPOaqy5"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 184000,
       "name": "Indios y Vaqueros",
       "url": "https://open.spotify.com/track/3u5GmyJP2MU3tEJgyiAG2T"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
-        "name": "A la Vez",
-        "url": "https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 182876,
-      "name": "A la Vez",
-      "url": "https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1419,22 +1419,22 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Yo No Te Pido la Luna",
-        "url": "https://open.spotify.com/album/64RDIlFxajlL9xg1XuXCTW"
+        "name": "Machu Picchu",
+        "url": "https://open.spotify.com/album/7jqXGkhOKZ3wuZuD6IgTYR"
       },
       "artists": [
         {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         },
         {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
         }
       ],
-      "duration_ms": 171153,
-      "name": "Yo No Te Pido la Luna",
-      "url": "https://open.spotify.com/track/20ltlI3KqpAnJJgo4mr32Q"
+      "duration_ms": 179004,
+      "name": "Machu Picchu",
+      "url": "https://open.spotify.com/track/1LXb70u8SLsvBAPWHMCTMe"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1459,22 +1459,22 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
-        "name": "Machu Picchu",
-        "url": "https://open.spotify.com/album/7jqXGkhOKZ3wuZuD6IgTYR"
+        "name": "Yo No Te Pido la Luna",
+        "url": "https://open.spotify.com/album/64RDIlFxajlL9xg1XuXCTW"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
         },
         {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         }
       ],
-      "duration_ms": 179004,
-      "name": "Machu Picchu",
-      "url": "https://open.spotify.com/track/1LXb70u8SLsvBAPWHMCTMe"
+      "duration_ms": 171153,
+      "name": "Yo No Te Pido la Luna",
+      "url": "https://open.spotify.com/track/20ltlI3KqpAnJJgo4mr32Q"
     },
     {
       "added_at": "2023-11-10 03:00:00",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2023-11-10 03:00:00",
       "album": {
+        "name": "SloMo",
+        "url": "https://open.spotify.com/album/4XH5TqMkP2lFr75tCLtPVz"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        }
+      ],
+      "duration_ms": 176285,
+      "name": "SloMo",
+      "url": "https://open.spotify.com/track/0T71AvVXY4RB65tvdIyzdO"
+    },
+    {
+      "added_at": "2023-11-10 03:00:00",
+      "album": {
         "name": "FINAL (Vol.1)",
         "url": "https://open.spotify.com/album/61a4XyIj98CGrUnKy8Hu4Z"
       },
@@ -1839,26 +1855,6 @@
       "duration_ms": 165360,
       "name": "PENDEJO",
       "url": "https://open.spotify.com/track/5cy2dREJqJAyf3CNr509W7"
-    },
-    {
-      "added_at": "2023-11-10 03:00:00",
-      "album": {
-        "name": "PITADA",
-        "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 226840,
-      "name": "Amor Loco",
-      "url": "https://open.spotify.com/track/1QpOjZOumwGNIo5uvbSHIt"
     },
     {
       "added_at": "2023-11-10 03:00:00",

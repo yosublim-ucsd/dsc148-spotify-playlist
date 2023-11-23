@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-222 songs - 14 hr 48 min
+223 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [AS Too Wrong](https://open.spotify.com/track/74wUpuW4tRQJJGiucm4JfJ) | [Amnesia Scanner](https://open.spotify.com/artist/2J3LwjEkmryU6BSAubwbMF) | [Another Life](https://open.spotify.com/album/0H6yPrBlXON15blsgmA4Aq) | 4:14 | 2020-10-20 | 2023-11-08 |
 | [Assim](https://open.spotify.com/track/2qJ0alAK9ja55NUAafSykX) | [Xexa](https://open.spotify.com/artist/5YOOZDm22sEdpPpf8QX9J8) | [Vibrações de Prata](https://open.spotify.com/album/2JIG0FQTzPK42gw78K2Cuj) | 2:08 | 2023-11-08 |  |
 | [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 | 2022-11-17 |  |
-| [Aura](https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 7:17 | 2022-08-16 | 2023-11-10 |
+| [Aura](https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 7:17 | 2022-08-16 |  |
 | [Balloon](https://open.spotify.com/track/52rmKsylzbi9agOdkggmJ0) | [BAUKHA](https://open.spotify.com/artist/7MIbS9ds7J2A9rLEaIYLRK) | [Balloon](https://open.spotify.com/album/5QoQqIxomkNMTVCSgHzS41) | 5:27 | 2023-03-29 | 2023-04-01 |
 | [Barongan III](https://open.spotify.com/track/6btmo0iGDjMcYj4zHTvMvn) | [Raja Kirik](https://open.spotify.com/artist/22j4DsKGQEcOie7PvfQIVj) | [Rampokan](https://open.spotify.com/album/0JtcEEPTPv9JujTZtJYvZ1) | 3:35 | 2022-02-18 | 2023-04-01 |
 | [Bets Off](https://open.spotify.com/track/14likWYaCVRw5fUDyKMR2g) | [alexmaax](https://open.spotify.com/artist/5LDGjPfMzjhKcWoXL9Jbhi) | [Bets Off](https://open.spotify.com/album/2RrYNlBx8UCYp31U7NgFi8) | 4:16 | 2020-10-20 | 2022-07-29 |
@@ -99,7 +99,7 @@
 | [Jardín de Planetas](https://open.spotify.com/track/1BfNftMwrFFTcyAZbPLn9x) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [Jardín de Planetas](https://open.spotify.com/album/2pldZMO9zTtv2DLkMaIRa7) | 6:14 | 2023-03-03 | 2023-04-01 |
 | [Jordão](https://open.spotify.com/track/0OOjWnUSSQzwav02OSctR2) | [Niagara](https://open.spotify.com/artist/7v9653L6WJv9pZKYEKdcDz) | [Parva Naturalia](https://open.spotify.com/album/5tHvENdIkbBl0ItOTva9W8) | 4:23 | 2022-02-18 | 2023-04-01 |
 | [Jordão](https://open.spotify.com/track/4DBVvRxw7iCF0Os4KqKB2l) | [Niagara](https://open.spotify.com/artist/7v9653L6WJv9pZKYEKdcDz) | [Jordão](https://open.spotify.com/album/0GPBTClGuLZ4Z1aGGOqVWi) | 4:23 | 2022-02-18 | 2023-02-02 |
-| [Karada](https://open.spotify.com/track/0RtKOGhS4fhGkeZFjnZ5cq) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Karada](https://open.spotify.com/album/5tosvcZsTBykv6eZQ8nxbk) | 4:38 | 2023-09-29 |  |
+| [Karada](https://open.spotify.com/track/0RtKOGhS4fhGkeZFjnZ5cq) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Karada](https://open.spotify.com/album/5tosvcZsTBykv6eZQ8nxbk) | 4:38 | 2023-09-29 | 2023-11-23 |
 | [Kinko's field trip 2006](https://open.spotify.com/track/0HPNtkVFdg7vB5fKXSABfn) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Kinko's field trip 2006](https://open.spotify.com/album/7nnmPQgX7VcKpCA0M5cMD8) | 2:31 | 2021-06-23 | 2023-02-28 |
 | [KLK](https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 3:47 | 2020-10-20 | 2023-04-14 |
 | [KLK](https://open.spotify.com/track/5An8NQkXTYa5gz8BIWeWk5) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [KiCk i](https://open.spotify.com/album/2KICtQ7dqaaot7B1yN9wPq) | 3:47 | 2020-10-20 | 2022-07-29 |
@@ -113,7 +113,7 @@
 | [Marco](https://open.spotify.com/track/3cA7sk49Fbtc7mgF2fVuWd) | [Everest Magma](https://open.spotify.com/artist/3NB3jpSQ4F2Ief62BpDCFs) | [Alto//Piano](https://open.spotify.com/album/0szhDIrd23Ck9wiMkQYYts) | 2:16 | 2022-11-25 | 2023-01-14 |
 | [Mata Hari](https://open.spotify.com/track/7wdoS8Tczz8wjhVjVsttIs) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva](https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M) | 3:47 | 2023-10-25 |  |
 | [Me Acoplo](https://open.spotify.com/track/0MuFAufcq283OanYu5Ku8X) | [Párpados](https://open.spotify.com/artist/1gbutEmKJfSHRgXoTyEQO7) | [Párpados](https://open.spotify.com/album/3FMot3T0ERF8jjJZ1Guoov) | 4:00 | 2020-10-20 | 2023-10-17 |
-| [Mind Era](https://open.spotify.com/track/3b0EPvZqJV2BYe599jrhEd) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [Death Is Home](https://open.spotify.com/album/2mbcBhD6LbNpx9Tzv5cPUP) | 4:32 | 2023-11-15 |  |
+| [Mind Era](https://open.spotify.com/track/3b0EPvZqJV2BYe599jrhEd) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [Death Is Home](https://open.spotify.com/album/2mbcBhD6LbNpx9Tzv5cPUP) | 4:32 | 2023-11-15 | 2023-11-23 |
 | [Moans](https://open.spotify.com/track/6HNKZARS17j6rToqn9fpjd) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Ghosts](https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8) | 4:33 | 2023-10-10 |  |
 | [Mojik \(Your Waves\)](https://open.spotify.com/track/5NRrq5DuIlpnkei9mJw0P5) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Mojik \(Your Waves\)](https://open.spotify.com/album/2ASUNe0PUFtSKPcIiz9BMv) | 3:13 | 2023-03-03 | 2023-04-01 |
 | [MONEY CAN'T BUY](https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Nappy Nina](https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 2:50 | 2020-10-20 | 2023-09-30 |
@@ -140,6 +140,7 @@
 | [Oracles](https://open.spotify.com/track/54FyqA3X39JjZZPUEB4Zmp) | [ATŌMI](https://open.spotify.com/artist/2xtvEAA3GV2xnT5iRzbKHX), [Laura Masotto](https://open.spotify.com/artist/0WsOb9lixawpeFLHuAzhpd) | [Little Floating Oracles](https://open.spotify.com/album/1tEL4r90ZTFJVMwg3DvbJ4) | 6:50 | 2022-09-07 | 2023-06-16 |
 | [Otro](https://open.spotify.com/track/4y2aw66CxenyRNHddJ6wFt) | [todo hombre es ruido](https://open.spotify.com/artist/5MaCKOuxFORaVHpJKsOH7e), [Caillou](https://open.spotify.com/artist/6SRjzYXse2LjszXueqw2vi), [Bucephalus](https://open.spotify.com/artist/55VusI1wUo1ZPSvdXt3Qqv) | [Otro](https://open.spotify.com/album/52iwoA7t8Sn6kkAfWzEh1D) | 4:39 | 2021-06-23 | 2023-10-11 |
 | [PAPER BOYFRIEND](https://open.spotify.com/track/5kmgBZhT1uXEljgE0EJahO) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC), [Spinee](https://open.spotify.com/artist/3DvZPVHIRXdnEluWadwf71) | [Dog Food](https://open.spotify.com/album/3aVuMazxmHxjR4YwCHWOrX) | 2:03 | 2020-10-20 | 2023-03-03 |
+| [Patterns](https://open.spotify.com/track/7hP1frR53QoyVsDnlypOdm) | [Just Bee](https://open.spotify.com/artist/1bd502sofLQ6fHDPnU5JPx), [David Boring](https://open.spotify.com/artist/3jlBKVMzOyLuwLWxkkiwKj) | [Patterns](https://open.spotify.com/album/5VF24DhApN026eJJMMWrW6) | 3:51 | 2023-11-22 |  |
 | [Penance](https://open.spotify.com/track/5KhXlSbrNF3MgP4SkzgDL7) | [Cruel Diagonals](https://open.spotify.com/artist/0C7jgMYmKXPmy5bHH5ebEN) | [Fractured Whole](https://open.spotify.com/album/4LLeRNBrcuwxj6QrhMmQ0K) | 5:22 | 2023-03-28 | 2023-04-01 |
 | [Penarabadan](https://open.spotify.com/track/0E1bAb4uZ97SRmOBCQnx7m) | [KUNTARI](https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY) | [Penarabadan](https://open.spotify.com/album/0yDvQFvxAZj9JXmfvHsi1b) | 3:53 | 2023-09-21 | 2023-10-10 |
 | [Pillar](https://open.spotify.com/track/4c0OdyBHSCqfs0tv4HdaKs) | [２８１４](https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd) | [Pillar / New Sun](https://open.spotify.com/album/2RqvxTcNYJdxiHtwULBXPg) | 9:45 | 2020-10-20 | 2023-04-01 |

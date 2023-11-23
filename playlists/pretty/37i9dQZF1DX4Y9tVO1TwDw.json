@@ -1,12 +1,12 @@
 {
   "description": "A place for hyphenated Americans, creating our own identity & connecting to our roots. Cover: Estevie",
-  "num_followers": 6493,
+  "num_followers": 6501,
   "original_name": "Hyphenated",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzdjOGJkODA3MmE2ZTg4NjQ4ZDI0MGE4M2M1MGRkY2MwZTM4NjUx",
+  "snapshot_id": "MCw1OGFjNGU4YTZkMjk3ZTRjMmYyMWUzYmQ3ZWVhNmZkZDIwZjA4ODNl",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Woke Up Dis Morning",
+        "url": "https://open.spotify.com/album/3Er14Y7GQXzN9vINCBgVXD"
+      },
+      "artists": [
+        {
+          "name": "Eddie Zuko",
+          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
+        }
+      ],
+      "duration_ms": 177021,
+      "name": "Woke Up Dis Morning",
+      "url": "https://open.spotify.com/track/312ixrbrcnAF8Mn0XeDOlX"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "VETE",
         "url": "https://open.spotify.com/album/3GIN6jcQHRLIno3O1r14SU"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 187826,
       "name": "kiss u better",
       "url": "https://open.spotify.com/track/7ghyfzs27FAYNaP7sO8FnS"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Woke Up Dis Morning",
-        "url": "https://open.spotify.com/album/3Er14Y7GQXzN9vINCBgVXD"
-      },
-      "artists": [
-        {
-          "name": "Eddie Zuko",
-          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
-        }
-      ],
-      "duration_ms": 177021,
-      "name": "Woke Up Dis Morning",
-      "url": "https://open.spotify.com/track/312ixrbrcnAF8Mn0XeDOlX"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -659,38 +659,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Sigo Muerto",
-        "url": "https://open.spotify.com/album/1aPO6B5MYdkyiZ4vYA1YSX"
-      },
-      "artists": [
-        {
-          "name": "Erick B",
-          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
-        }
-      ],
-      "duration_ms": 149626,
-      "name": "Sigo Muerto",
-      "url": "https://open.spotify.com/track/71S52xUjNYtBSsRcJSZJva"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Until You Came Along",
-        "url": "https://open.spotify.com/album/0sYwcbxbGwHlvz5rBWIKj1"
-      },
-      "artists": [
-        {
-          "name": "Louie Thesinger",
-          "url": "https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj"
-        }
-      ],
-      "duration_ms": 191096,
-      "name": "Until You Came Along",
-      "url": "https://open.spotify.com/track/1njMJM5mlFcgKLYUkwXicp"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Mi Estilo",
         "url": "https://open.spotify.com/album/09hkkkk36xgJfcg8fssPlq"
       },
@@ -711,6 +679,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Sigo Muerto",
+        "url": "https://open.spotify.com/album/1aPO6B5MYdkyiZ4vYA1YSX"
+      },
+      "artists": [
+        {
+          "name": "Erick B",
+          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
+        }
+      ],
+      "duration_ms": 149626,
+      "name": "Sigo Muerto",
+      "url": "https://open.spotify.com/track/71S52xUjNYtBSsRcJSZJva"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Menciones",
         "url": "https://open.spotify.com/album/4ghTu7qG2BaVNrbHCmzxum"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 166500,
       "name": "Menciones",
       "url": "https://open.spotify.com/track/7ydgxBTlslEdoPxB0vElCd"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Until You Came Along",
+        "url": "https://open.spotify.com/album/0sYwcbxbGwHlvz5rBWIKj1"
+      },
+      "artists": [
+        {
+          "name": "Louie Thesinger",
+          "url": "https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj"
+        }
+      ],
+      "duration_ms": 191096,
+      "name": "Until You Came Along",
+      "url": "https://open.spotify.com/track/1njMJM5mlFcgKLYUkwXicp"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "QUIERO LLORAR Y NO PUEDO",
+        "url": "https://open.spotify.com/album/4Ua1w80i6Lz0yF1kc1ZQSP"
+      },
+      "artists": [
+        {
+          "name": "eydrey",
+          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
+        }
+      ],
+      "duration_ms": 201728,
+      "name": "QUIERO LLORAR Y NO PUEDO",
+      "url": "https://open.spotify.com/track/3uvj97aCrgC1bGpiV5oCNm"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "buena vista!",
         "url": "https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 210439,
       "name": "two eyes",
       "url": "https://open.spotify.com/track/6o6ZB7mCnwOutmC06Pey0P"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "QUIERO LLORAR Y NO PUEDO",
-        "url": "https://open.spotify.com/album/4Ua1w80i6Lz0yF1kc1ZQSP"
-      },
-      "artists": [
-        {
-          "name": "eydrey",
-          "url": "https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4"
-        }
-      ],
-      "duration_ms": 201728,
-      "name": "QUIERO LLORAR Y NO PUEDO",
-      "url": "https://open.spotify.com/track/3uvj97aCrgC1bGpiV5oCNm"
     }
   ],
   "unique_name": "Hyphenated",

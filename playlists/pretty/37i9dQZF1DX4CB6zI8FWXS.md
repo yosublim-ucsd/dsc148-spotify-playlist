@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Ari Lennox
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,305 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,319 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 16 | [Into You](https://open.spotify.com/track/6qbkhCaiIvU2fCEbUeZ4KW) | [Incognito](https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs), [Cherri V](https://open.spotify.com/artist/1I8ac7F9m1rf0KT3l1iAiP) | [Into You](https://open.spotify.com/album/4ph7aQr7TBj4CHxSUf5sXj) | 4:15 |
 | 17 | [Practice](https://open.spotify.com/track/6J2ECbAbX4L4WgIkeXyeq6) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Practice](https://open.spotify.com/album/06y4wpVgWExGgvoUECSgMj) | 3:14 |
 | 18 | [Without You \(Blxst Interlude\)](https://open.spotify.com/track/4o37I9GMKgu8bTvt4Zd4Ny) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Without You \(Blxst Interlude\)](https://open.spotify.com/album/7tYruPXBGvlRyeY6ShHX1C) | 2:44 |
-| 19 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
+| 19 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
 | 20 | [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 |
 | 21 | [why dont we go](https://open.spotify.com/track/54PYCknS6lsyUXSkgnj2OM) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [why dont we go](https://open.spotify.com/album/5G5Ujsxpgm9F79YNkGfE4q) | 2:46 |
 | 22 | [U&I](https://open.spotify.com/track/2KGEge5X5RYjOnSH5e4dMu) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w), [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr) | [U&I](https://open.spotify.com/album/2n1WDOBNxKAmBwY4YH3Lo8) | 2:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 79 | [Summer Too Hot](https://open.spotify.com/track/7g6FlLHxbVqMi1s7S8tDTp) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Summer Too Hot](https://open.spotify.com/album/379BJxUOZlfM3UoGjrDpZN) | 3:08 |
 | 80 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA) | 3:06 |
 
-Snapshot ID: `MCw1YmM1NGNiYzVhMDBlZTQ3ZWQ1N2FkZDg3MmU3NTU3NzRhODhiNTY5`
+Snapshot ID: `MCw5N2Y4YWIyYjVmODQyZWE5M2ZkZTlhNGQ2YjMyOWZhNTc1NTc4YjNh`

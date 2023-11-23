@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto:  Fabiana Sinfr\u00f4nio",
-  "num_followers": 309090,
+  "num_followers": 309190,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDhjY2QwN2JhYzc4ZGVmNDU2MGRiMzZjZGNiOTVlZTBhZjYyZjk1",
+  "snapshot_id": "MCw3Mjk2ZWM1Mjg2YzRkMTFkNmZmOTJhNjAyZTUyNjNiZGI2ZDJiZWM1",
   "tracks": [
     {
       "added_at": "2023-11-03 04:28:35",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-11-03 04:28:35",
       "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Deus Vai Agir (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2X9mVjsNBmBJmFC0owcKQV"
-    },
-    {
-      "added_at": "2023-11-03 04:28:35",
-      "album": {
         "name": "Momentos (Vol.2)",
         "url": "https://open.spotify.com/album/0WeIm6VLCQgXjBnCQq3juH"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 321774,
       "name": "Como Na Primeira Vez",
       "url": "https://open.spotify.com/track/3M6mO126G6yqgT1bpTjrfo"
+    },
+    {
+      "added_at": "2023-11-03 04:28:35",
+      "album": {
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Deus Vai Agir (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2X9mVjsNBmBJmFC0owcKQV"
     },
     {
       "added_at": "2023-11-03 04:28:35",
@@ -671,26 +671,6 @@
     {
       "added_at": "2023-11-03 04:28:35",
       "album": {
-        "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 358973,
-      "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B"
-    },
-    {
-      "added_at": "2023-11-03 04:28:35",
-      "album": {
         "name": "Dependente",
         "url": "https://open.spotify.com/album/1rlxjSQ6ZCf6isHexFcbDI"
       },
@@ -707,18 +687,22 @@
     {
       "added_at": "2023-11-03 04:28:35",
       "album": {
-        "name": "A Tenda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
+        "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7"
       },
       "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 470263,
-      "name": "A Tenda (Ao Vivo)",
-      "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
+      "duration_ms": 358973,
+      "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B"
     },
     {
       "added_at": "2023-11-03 04:28:35",
@@ -755,6 +739,22 @@
       "duration_ms": 338625,
       "name": "Meu Deus \u00c9 Grande",
       "url": "https://open.spotify.com/track/7mWGh9B9WzhhP0Xbaoukav"
+    },
+    {
+      "added_at": "2023-11-03 04:28:35",
+      "album": {
+        "name": "A Tenda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 470263,
+      "name": "A Tenda (Ao Vivo)",
+      "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
     },
     {
       "added_at": "2023-11-03 04:28:35",
@@ -827,22 +827,18 @@
     {
       "added_at": "2023-11-03 04:28:35",
       "album": {
-        "name": "Sensibilidade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0rc4ybX88jh6WuX1KxwXJT"
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
       },
       "artists": [
         {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 391899,
-      "name": "Sensibilidade - Ao Vivo",
-      "url": "https://open.spotify.com/track/13YVbmpDXM1dr1uvrzPssX"
+      "duration_ms": 234520,
+      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
     },
     {
       "added_at": "2023-11-03 04:28:35",
@@ -863,18 +859,22 @@
     {
       "added_at": "2023-11-03 04:28:35",
       "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+        "name": "Sensibilidade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0rc4ybX88jh6WuX1KxwXJT"
       },
       "artists": [
         {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 234520,
-      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
+      "duration_ms": 391899,
+      "name": "Sensibilidade - Ao Vivo",
+      "url": "https://open.spotify.com/track/13YVbmpDXM1dr1uvrzPssX"
     },
     {
       "added_at": "2023-11-03 04:28:35",
@@ -899,22 +899,22 @@
     {
       "added_at": "2023-11-03 04:28:35",
       "album": {
-        "name": "Meu Amigo \u00c9 Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6YorWlOuBChcgJjZWnKktu"
+        "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
+        "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
       },
       "artists": [
         {
-          "name": "Soraya Moraes",
-          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         },
         {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 412695,
-      "name": "Meu Amigo \u00c9 Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/1gT5kwHXiHmDUbxg0E43ol"
+      "duration_ms": 459662,
+      "name": "Nunca Pare De Lutar",
+      "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
     },
     {
       "added_at": "2023-11-03 04:28:35",
@@ -935,22 +935,22 @@
     {
       "added_at": "2023-11-03 04:28:35",
       "album": {
-        "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
-        "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
+        "name": "Meu Amigo \u00c9 Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6YorWlOuBChcgJjZWnKktu"
       },
       "artists": [
         {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+          "name": "Soraya Moraes",
+          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
         },
         {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 459662,
-      "name": "Nunca Pare De Lutar",
-      "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
+      "duration_ms": 412695,
+      "name": "Meu Amigo \u00c9 Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/1gT5kwHXiHmDUbxg0E43ol"
     },
     {
       "added_at": "2023-11-03 04:28:35",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-11-03 04:28:35",
       "album": {
-        "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
-        "url": "https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
-      "url": "https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe"
-    },
-    {
-      "added_at": "2023-11-03 04:28:35",
-      "album": {
         "name": "Se uma Coisa",
         "url": "https://open.spotify.com/album/2w0D86Z6ixQvyKPD8PLlgo"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 547704,
       "name": "Se uma Coisa",
       "url": "https://open.spotify.com/track/0ovZfYjN3EHPYBcEzi63EU"
+    },
+    {
+      "added_at": "2023-11-03 04:28:35",
+      "album": {
+        "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
+        "url": "https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
+      "url": "https://open.spotify.com/track/4ZwerMeMyAbdyY2cBmrcGe"
     },
     {
       "added_at": "2023-11-03 04:28:35",

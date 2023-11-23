@@ -4,7 +4,7 @@
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-60 songs - 2 hr 52 min
+61 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,8 +31,9 @@
 | [Human \(Remix\)](https://open.spotify.com/track/0bVp6yZEUrJzOm2agoFYZm) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [Manimal](https://open.spotify.com/artist/1u5OwFCI26TQzGWf3F9iX9) | [Human \(Remix\)](https://open.spotify.com/album/5gV5YLk7ehBmnLzoj1ftOo) | 3:31 | 2023-07-21 |  |
 | [Infinity \- Dubdogz & Bhaskar Edit](https://open.spotify.com/track/4ekDggjElGJX9kNSOtnbVf) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Infinity \(Dubdogz & Bhaskar Edit\)](https://open.spotify.com/album/2NWFwa4mXzXgFHMc0VGiQG) | 3:16 | 2023-07-21 |  |
 | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc) | 2:53 | 2023-07-21 |  |
-| [Lambada](https://open.spotify.com/track/0YmaxzdUQGUJLmQ6disVJp) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Guzz](https://open.spotify.com/artist/2M23z6FczyKLQFTTvB3EI8) | [Lambada](https://open.spotify.com/album/2rIngPYeX9tmQYUEGXXOxV) | 3:31 | 2023-07-21 |  |
+| [Lambada](https://open.spotify.com/track/0YmaxzdUQGUJLmQ6disVJp) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [Guzz](https://open.spotify.com/artist/2M23z6FczyKLQFTTvB3EI8) | [Lambada](https://open.spotify.com/album/2rIngPYeX9tmQYUEGXXOxV) | 3:31 | 2023-07-21 | 2023-11-23 |
 | [Last Time](https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Last Time](https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR) | 3:34 | 2023-07-21 |  |
+| [LET'S GET FKD UP](https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [LET'S GET FKD UP \(feat\. Tribbs\)](https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK) | 2:01 | 2023-11-17 |  |
 | [Maya](https://open.spotify.com/track/3Cn5EULIHXQ3BzoX3EYBWB) | [DANNE](https://open.spotify.com/artist/6Zwiy4J7B6JIcVSeB87riG), [Gusty](https://open.spotify.com/artist/1EGzWaoNjgTZAYZgB1EwxW) | [Maya](https://open.spotify.com/album/5yEmMKkRYLtgzhgT7kpb1E) | 2:26 | 2023-07-21 | 2023-07-30 |
 | [Move Your Body \- Tiësto Edit](https://open.spotify.com/track/6fKNqD073GoAQwpY7xyWVK) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Move Your Body \(Tiësto Edit\)](https://open.spotify.com/album/4S7vkTViiQhVqjtRfs09Cz) | 2:20 | 2023-07-21 |  |
 | [Moving \[edit\]](https://open.spotify.com/track/6KpGyJIyA75C0XyAkIcpZn) | [Love Regenerator](https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Moving](https://open.spotify.com/album/1SoFbdEmEiFgpstKwJ8Iyh) | 3:13 | 2023-07-21 | 2023-11-11 |

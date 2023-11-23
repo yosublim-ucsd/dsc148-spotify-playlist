@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Novedades para reventar la bocina en este \#NoviembreFestivalero con Kevin Roldán, Dani Flow, El Boooo y Uzielito Mix..\. ¡Mátalos papi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,160 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,347 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 38 | [El Poder y la Traición](https://open.spotify.com/track/4PwxizEGS3MSfP0vvvucVI) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [El Poder y la Traición](https://open.spotify.com/album/0gGM7uNxX6x3oIL4spNSwe) | 4:04 |
 | 39 | [Vida Callejera](https://open.spotify.com/track/2E3dGYCkGR30v8UjJANf04) | [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [Japan Trip](https://open.spotify.com/album/4jNcsKzxjFtjFqTPCKXGcH) | 3:57 |
 | 40 | [Que Te Vaya Bien](https://open.spotify.com/track/13r9dCONzcfyRkw3IPPMnf) | [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Que Te Vaya Bien](https://open.spotify.com/album/6FcXPSUHNtXUaP4PY9PDg6) | 3:44 |
-| 41 | [Cielos Transparantes](https://open.spotify.com/track/4wfOte6kmhDMrTIPqF8D2Y) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU) | [Cielos Transparentes](https://open.spotify.com/album/6PcW1gLiMeWhEFPi5pf6Lg) | 4:13 |
+| 41 | [Cielos Transparentes](https://open.spotify.com/track/4wfOte6kmhDMrTIPqF8D2Y) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU) | [Cielos Transparentes](https://open.spotify.com/album/6PcW1gLiMeWhEFPi5pf6Lg) | 4:13 |
 | 42 | [Flotando](https://open.spotify.com/track/7JobhUXz8BHmv8I49fcloU) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Flotando](https://open.spotify.com/album/6AIY9eHjz8qRGKJmcS23sy) | 3:42 |
 | 43 | [Carry Me Higher \- 7 Inch Version](https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Carry Me Higher](https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348) | 4:30 |
 | 44 | [Better Recognize](https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Better Recognize](https://open.spotify.com/album/3E3fHTWpI3VSYUZpVO1Eag) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Nostalgia en Ruta](https://open.spotify.com/track/28T16XoS5KsQSLrRPuwSH5) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Nostalgia en Ruta](https://open.spotify.com/album/4nFhPJ9oLs4RBZSB7RXz5P) | 1:55 |
 | 50 | [Starstruck](https://open.spotify.com/track/6xfghae1MOkdMCf3xDCcxP) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Jordan Brown](https://open.spotify.com/artist/4bp25HfiPZW8JLc4DUEhP6) | [Forever Never Cares](https://open.spotify.com/album/7pearr4dOjSf9cNDe5lHeL) | 3:47 |
 
-Snapshot ID: `MCwyYjE5MDY3ZTg3NDFmNmUxMTM5MDNhZDgzNDVkM2E1ZTY4MDE1YzI3`
+Snapshot ID: `MCxjZjg4YzcyMjM1MjI3NmFmYjE2NjljMzE5ZmU2Y2E5ZGMzN2UzZTQ1`

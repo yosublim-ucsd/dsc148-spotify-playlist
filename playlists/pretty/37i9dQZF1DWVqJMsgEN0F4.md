@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Bleachers along with the best alternative songs of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,891 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,951 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 64 | [The Dead Come Talking](https://open.spotify.com/track/30rgtGTl30WcfiyDDqo94A) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [The Dead Come Talking](https://open.spotify.com/album/3BxsQSkKIAP9bMWA706L1u) | 2:13 |
 | 65 | [In Between](https://open.spotify.com/track/0q1ojrOIoqEjGvojo4Y0FK) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [In Between](https://open.spotify.com/album/6z3SytoRF8ak4NLSdvQH1f) | 2:34 |
 
-Snapshot ID: `MCwwZmVjZGIxODI2ZTlmN2ZjZjc1OTExZWNjZTg0Yjg0M2JjNDJhYjZj`
+Snapshot ID: `MCw2ZTEzNGZlOTJkMWNmMGU2YjUyNjgxNDM2YTE2YWM5NjA0M2QwMWQ0`

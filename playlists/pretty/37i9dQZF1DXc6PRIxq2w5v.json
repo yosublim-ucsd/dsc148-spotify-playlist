@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Jess\u00e9 Alcantara, Silas Magalh\u00e3es",
-  "num_followers": 154638,
+  "num_followers": 155265,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzU2YTUxMGU3OGYzZWVmOTZkYjBmNjU4YmU3ZWJjZThhOGExMDQx",
+  "snapshot_id": "MCw2ZTk1MWRmNzNhNzMyYzVlZmNhMWYzM2U2YjBmZGQ0NDNmOTEwZmE0",
   "tracks": [
     {
       "added_at": "2023-11-03 04:44:02",
@@ -215,18 +215,22 @@
     {
       "added_at": "2023-11-03 04:44:02",
       "album": {
-        "name": "C\u00e9u",
-        "url": "https://open.spotify.com/album/5SQAJeCQJhDU9txcD2eUTh"
+        "name": "Ah Teu (Sample: Naquela Mesa)",
+        "url": "https://open.spotify.com/album/4jUUWhkXEtqTuMp98OThIv"
       },
       "artists": [
         {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        },
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
         }
       ],
-      "duration_ms": 120245,
-      "name": "C\u00e9u",
-      "url": "https://open.spotify.com/track/1VBbIwGEjT8NLyRmBEY97V"
+      "duration_ms": 165031,
+      "name": "Ah Teu (Sample: Naquela Mesa)",
+      "url": "https://open.spotify.com/track/3VYaIt0YgMlaTS6QOhNtF8"
     },
     {
       "added_at": "2023-11-03 04:44:02",
@@ -259,26 +263,6 @@
       "duration_ms": 257488,
       "name": "O Pai Espera Voc\u00ea Voltar",
       "url": "https://open.spotify.com/track/2zXpfNfPYU3CSJopHCY4uW"
-    },
-    {
-      "added_at": "2023-11-03 04:44:02",
-      "album": {
-        "name": "Ah Teu (Sample: Naquela Mesa)",
-        "url": "https://open.spotify.com/album/4jUUWhkXEtqTuMp98OThIv"
-      },
-      "artists": [
-        {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
-        },
-        {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
-        }
-      ],
-      "duration_ms": 165031,
-      "name": "Ah Teu (Sample: Naquela Mesa)",
-      "url": "https://open.spotify.com/track/3VYaIt0YgMlaTS6QOhNtF8"
     },
     {
       "added_at": "2023-11-03 04:44:02",
@@ -351,6 +335,26 @@
     {
       "added_at": "2023-11-03 04:44:02",
       "album": {
+        "name": "Pela Manh\u00e3",
+        "url": "https://open.spotify.com/album/07p5qILARDVfkIH6fQuQ0T"
+      },
+      "artists": [
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        },
+        {
+          "name": "F\u00e1bio Casagrande",
+          "url": "https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn"
+        }
+      ],
+      "duration_ms": 132968,
+      "name": "Pela Manh\u00e3",
+      "url": "https://open.spotify.com/track/2QHMbD5U9awGhvHGcVIh5v"
+    },
+    {
+      "added_at": "2023-11-03 04:44:02",
+      "album": {
         "name": "Por Toda Cidade",
         "url": "https://open.spotify.com/album/1bQgEBOi1K1nZawTojpu46"
       },
@@ -371,6 +375,22 @@
       "duration_ms": 142628,
       "name": "Por Toda Cidade",
       "url": "https://open.spotify.com/track/2zObZH6sreWK9SyS2pVnsW"
+    },
+    {
+      "added_at": "2023-11-03 04:44:02",
+      "album": {
+        "name": "C\u00e9u",
+        "url": "https://open.spotify.com/album/5SQAJeCQJhDU9txcD2eUTh"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        }
+      ],
+      "duration_ms": 120245,
+      "name": "C\u00e9u",
+      "url": "https://open.spotify.com/track/1VBbIwGEjT8NLyRmBEY97V"
     },
     {
       "added_at": "2023-11-03 04:44:02",
@@ -419,8 +439,64 @@
     {
       "added_at": "2023-11-03 04:44:02",
       "album": {
-        "name": "Pela Manh\u00e3",
-        "url": "https://open.spotify.com/album/07p5qILARDVfkIH6fQuQ0T"
+        "name": "Servo do Senhor",
+        "url": "https://open.spotify.com/album/5TmgIGi5LKWx8xJzBBtga8"
+      },
+      "artists": [
+        {
+          "name": "Educky",
+          "url": "https://open.spotify.com/artist/6M6Z0nqgNjESVSgs07odZy"
+        },
+        {
+          "name": "Todah Urban",
+          "url": "https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu"
+        }
+      ],
+      "duration_ms": 159656,
+      "name": "Servo do Senhor",
+      "url": "https://open.spotify.com/track/3udsCR5xMRiw69hU4bj4qu"
+    },
+    {
+      "added_at": "2023-11-03 04:44:02",
+      "album": {
+        "name": "Fundo do Po\u00e7o",
+        "url": "https://open.spotify.com/album/3GygxRCHmOrUPMk7cyc5ET"
+      },
+      "artists": [
+        {
+          "name": "Bep\u00ea",
+          "url": "https://open.spotify.com/artist/7pzwAbIUsONhvIMtwz9o66"
+        },
+        {
+          "name": "Todah Urban",
+          "url": "https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Fundo do Po\u00e7o",
+      "url": "https://open.spotify.com/track/0zIjarjBYBhNTABF3WnsF5"
+    },
+    {
+      "added_at": "2023-11-03 04:44:02",
+      "album": {
+        "name": "God Feat. Me",
+        "url": "https://open.spotify.com/album/4YtnJjWzn6cLoNXUTYcdct"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "duration_ms": 176934,
+      "name": "Mateus 6.6",
+      "url": "https://open.spotify.com/track/3LLyv1b4IX5WjKhs2kuiqZ"
+    },
+    {
+      "added_at": "2023-11-03 04:44:02",
+      "album": {
+        "name": "Multiplica\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0EeuXelK1qIrhVZ2KGidKM"
       },
       "artists": [
         {
@@ -432,9 +508,9 @@
           "url": "https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn"
         }
       ],
-      "duration_ms": 132968,
-      "name": "Pela Manh\u00e3",
-      "url": "https://open.spotify.com/track/2QHMbD5U9awGhvHGcVIh5v"
+      "duration_ms": 163183,
+      "name": "Multiplica\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/41UOPlYbkLEVr9J0EayDCP"
     },
     {
       "added_at": "2023-11-03 04:44:02",
@@ -499,74 +575,6 @@
     {
       "added_at": "2023-11-03 04:44:02",
       "album": {
-        "name": "God Feat. Me",
-        "url": "https://open.spotify.com/album/4YtnJjWzn6cLoNXUTYcdct"
-      },
-      "artists": [
-        {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
-        }
-      ],
-      "duration_ms": 176934,
-      "name": "Mateus 6.6",
-      "url": "https://open.spotify.com/track/3LLyv1b4IX5WjKhs2kuiqZ"
-    },
-    {
-      "added_at": "2023-11-03 04:44:02",
-      "album": {
-        "name": "Pontes, Pt. 2",
-        "url": "https://open.spotify.com/album/203yoUjyzyslGCXeLx9lqB"
-      },
-      "artists": [
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        },
-        {
-          "name": "2metro",
-          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
-        },
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        },
-        {
-          "name": "LEVII MC",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "Jacinto Manto",
-          "url": "https://open.spotify.com/artist/6A3OIry69tkUAEhQpcVsKv"
-        }
-      ],
-      "duration_ms": 303667,
-      "name": "Se Deus \u00c9 Por Mim (Set Da B\u00ean\u00e7\u00e3o)",
-      "url": "https://open.spotify.com/track/7nmVhG1XDaxVRFEGQX2PEJ"
-    },
-    {
-      "added_at": "2023-11-03 04:44:02",
-      "album": {
-        "name": "Servo do Senhor",
-        "url": "https://open.spotify.com/album/5TmgIGi5LKWx8xJzBBtga8"
-      },
-      "artists": [
-        {
-          "name": "Educky",
-          "url": "https://open.spotify.com/artist/6M6Z0nqgNjESVSgs07odZy"
-        },
-        {
-          "name": "Todah Urban",
-          "url": "https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu"
-        }
-      ],
-      "duration_ms": 159656,
-      "name": "Servo do Senhor",
-      "url": "https://open.spotify.com/track/3udsCR5xMRiw69hU4bj4qu"
-    },
-    {
-      "added_at": "2023-11-03 04:44:02",
-      "album": {
         "name": "Fogo",
         "url": "https://open.spotify.com/album/4iuWmHUUjyc7pq5yR8OX63"
       },
@@ -607,26 +615,6 @@
     {
       "added_at": "2023-11-03 04:44:02",
       "album": {
-        "name": "Multiplica\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0EeuXelK1qIrhVZ2KGidKM"
-      },
-      "artists": [
-        {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
-        },
-        {
-          "name": "F\u00e1bio Casagrande",
-          "url": "https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn"
-        }
-      ],
-      "duration_ms": 163183,
-      "name": "Multiplica\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/41UOPlYbkLEVr9J0EayDCP"
-    },
-    {
-      "added_at": "2023-11-03 04:44:02",
-      "album": {
         "name": "100 Versos",
         "url": "https://open.spotify.com/album/3mLp7jYB9OvVRhjHXJMM7s"
       },
@@ -643,22 +631,54 @@
     {
       "added_at": "2023-11-03 04:44:02",
       "album": {
-        "name": "Fundo do Po\u00e7o",
-        "url": "https://open.spotify.com/album/3GygxRCHmOrUPMk7cyc5ET"
+        "name": "Pontes, Pt. 2",
+        "url": "https://open.spotify.com/album/203yoUjyzyslGCXeLx9lqB"
       },
       "artists": [
         {
-          "name": "Bep\u00ea",
-          "url": "https://open.spotify.com/artist/7pzwAbIUsONhvIMtwz9o66"
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
         },
         {
-          "name": "Todah Urban",
-          "url": "https://open.spotify.com/artist/7kFkmcV4pLFF10rnaLoLWu"
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        },
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
+          "name": "LEVII MC",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "Jacinto Manto",
+          "url": "https://open.spotify.com/artist/6A3OIry69tkUAEhQpcVsKv"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Fundo do Po\u00e7o",
-      "url": "https://open.spotify.com/track/0zIjarjBYBhNTABF3WnsF5"
+      "duration_ms": 303667,
+      "name": "Se Deus \u00c9 Por Mim (Set Da B\u00ean\u00e7\u00e3o)",
+      "url": "https://open.spotify.com/track/7nmVhG1XDaxVRFEGQX2PEJ"
+    },
+    {
+      "added_at": "2023-11-03 04:44:02",
+      "album": {
+        "name": "Setenta / Maranata",
+        "url": "https://open.spotify.com/album/69eIqWuYoPjxBXI1XxKnch"
+      },
+      "artists": [
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        },
+        {
+          "name": "F\u00e1bio Casagrande",
+          "url": "https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn"
+        }
+      ],
+      "duration_ms": 120290,
+      "name": "Maranata",
+      "url": "https://open.spotify.com/track/34xtS6GYIxEo59L7hvgnt9"
     },
     {
       "added_at": "2023-11-03 04:44:02",
@@ -695,6 +715,42 @@
     {
       "added_at": "2023-11-03 04:44:02",
       "album": {
+        "name": "Jesus Saves Bro",
+        "url": "https://open.spotify.com/album/4tP8rcE5RLYaO1ff1FF5j4"
+      },
+      "artists": [
+        {
+          "name": "MARCO AZAUSKI",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+        },
+        {
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        }
+      ],
+      "duration_ms": 169016,
+      "name": "Jesus Saves Bro",
+      "url": "https://open.spotify.com/track/16Fi5GqjCkMxazJhOTID63"
+    },
+    {
+      "added_at": "2023-11-03 04:44:02",
+      "album": {
+        "name": "Controle",
+        "url": "https://open.spotify.com/album/4MJLd9rXWPBQONZcUkpVYI"
+      },
+      "artists": [
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+        }
+      ],
+      "duration_ms": 184102,
+      "name": "Controle",
+      "url": "https://open.spotify.com/track/55wOEFXFsswm2z2xGEQOx1"
+    },
+    {
+      "added_at": "2023-11-03 04:44:02",
+      "album": {
         "name": "\u00c9 Voc\u00ea",
         "url": "https://open.spotify.com/album/0Q3XvlrJ3lFZhR22nzEFYX"
       },
@@ -719,62 +775,6 @@
     {
       "added_at": "2023-11-03 04:44:02",
       "album": {
-        "name": "Jesus Saves Bro",
-        "url": "https://open.spotify.com/album/4tP8rcE5RLYaO1ff1FF5j4"
-      },
-      "artists": [
-        {
-          "name": "MARCO AZAUSKI",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
-        },
-        {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
-        }
-      ],
-      "duration_ms": 169016,
-      "name": "Jesus Saves Bro",
-      "url": "https://open.spotify.com/track/16Fi5GqjCkMxazJhOTID63"
-    },
-    {
-      "added_at": "2023-11-03 04:44:02",
-      "album": {
-        "name": "Setenta / Maranata",
-        "url": "https://open.spotify.com/album/69eIqWuYoPjxBXI1XxKnch"
-      },
-      "artists": [
-        {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
-        },
-        {
-          "name": "F\u00e1bio Casagrande",
-          "url": "https://open.spotify.com/artist/6ku2014UKvUMYQwwav7AVn"
-        }
-      ],
-      "duration_ms": 120290,
-      "name": "Maranata",
-      "url": "https://open.spotify.com/track/34xtS6GYIxEo59L7hvgnt9"
-    },
-    {
-      "added_at": "2023-11-03 04:44:02",
-      "album": {
-        "name": "J\u00e1 Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/0Lxd7fr37TkujRxiMBE4LQ"
-      },
-      "artists": [
-        {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
-        }
-      ],
-      "duration_ms": 200816,
-      "name": "J\u00e1 Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/6uPPNDcBGCQoeThIEdtJsL"
-    },
-    {
-      "added_at": "2023-11-03 04:44:02",
-      "album": {
         "name": "Predestinado",
         "url": "https://open.spotify.com/album/4D0hEnelEJSkEplzl3tfh2"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 162272,
       "name": "Viv\u00e3o",
       "url": "https://open.spotify.com/track/06fddvzlWUEew0EGXK7eei"
-    },
-    {
-      "added_at": "2023-11-03 04:44:02",
-      "album": {
-        "name": "Controle",
-        "url": "https://open.spotify.com/album/4MJLd9rXWPBQONZcUkpVYI"
-      },
-      "artists": [
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
-        }
-      ],
-      "duration_ms": 184102,
-      "name": "Controle",
-      "url": "https://open.spotify.com/track/55wOEFXFsswm2z2xGEQOx1"
     },
     {
       "added_at": "2023-11-03 04:44:02",
@@ -823,6 +807,22 @@
     {
       "added_at": "2023-11-03 04:44:02",
       "album": {
+        "name": "J\u00e1 Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/0Lxd7fr37TkujRxiMBE4LQ"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "J\u00e1 Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/6uPPNDcBGCQoeThIEdtJsL"
+    },
+    {
+      "added_at": "2023-11-03 04:44:02",
+      "album": {
         "name": "Ju\u00edzo Final",
         "url": "https://open.spotify.com/album/6vn7pXMOSJHxTwUYkfNNOf"
       },
@@ -835,30 +835,6 @@
       "duration_ms": 149576,
       "name": "Ju\u00edzo Final",
       "url": "https://open.spotify.com/track/7tyML8BrEAJJlYWXCrAr0D"
-    },
-    {
-      "added_at": "2023-11-03 04:44:02",
-      "album": {
-        "name": "Olho pro C\u00e9u",
-        "url": "https://open.spotify.com/album/34rhziCCOtspVNUED09xYb"
-      },
-      "artists": [
-        {
-          "name": "WC12",
-          "url": "https://open.spotify.com/artist/6dQkBBfff6UrkiFWmiPZhe"
-        },
-        {
-          "name": "Gem\u00e3o",
-          "url": "https://open.spotify.com/artist/1MDgpjNeVepTbDdQIjmbE2"
-        },
-        {
-          "name": "Z\u00c9ZIIN",
-          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
-        }
-      ],
-      "duration_ms": 228668,
-      "name": "Olho pro C\u00e9u",
-      "url": "https://open.spotify.com/track/5m4DYDaq07W0o2dIYGik0S"
     },
     {
       "added_at": "2023-11-03 04:44:02",
@@ -891,6 +867,30 @@
       "duration_ms": 385304,
       "name": "Semeadores 2",
       "url": "https://open.spotify.com/track/3t4KmsojPLgjtKvf1XpKWr"
+    },
+    {
+      "added_at": "2023-11-03 04:44:02",
+      "album": {
+        "name": "Olho pro C\u00e9u",
+        "url": "https://open.spotify.com/album/34rhziCCOtspVNUED09xYb"
+      },
+      "artists": [
+        {
+          "name": "WC12",
+          "url": "https://open.spotify.com/artist/6dQkBBfff6UrkiFWmiPZhe"
+        },
+        {
+          "name": "Gem\u00e3o",
+          "url": "https://open.spotify.com/artist/1MDgpjNeVepTbDdQIjmbE2"
+        },
+        {
+          "name": "Z\u00c9ZIIN",
+          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
+        }
+      ],
+      "duration_ms": 228668,
+      "name": "Olho pro C\u00e9u",
+      "url": "https://open.spotify.com/track/5m4DYDaq07W0o2dIYGik0S"
     },
     {
       "added_at": "2023-11-03 04:44:02",
@@ -943,26 +943,6 @@
     {
       "added_at": "2023-11-03 04:44:02",
       "album": {
-        "name": "Ladr\u00e3o",
-        "url": "https://open.spotify.com/album/6w145Bh0gJREaGV52bXvmQ"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Ladr\u00e3o",
-      "url": "https://open.spotify.com/track/1S2LdnCSPrV9xxlGEefNDn"
-    },
-    {
-      "added_at": "2023-11-03 04:44:02",
-      "album": {
         "name": "Com Jesus Eu Ganho",
         "url": "https://open.spotify.com/album/5To4bNdV0QW3H6uiXPHo8u"
       },
@@ -1011,26 +991,86 @@
     {
       "added_at": "2023-11-03 04:44:02",
       "album": {
-        "name": "Amor \u00c1gape",
-        "url": "https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc"
+        "name": "A Gl\u00f3ria da Segunda Casa",
+        "url": "https://open.spotify.com/album/2OOHzHaoKmp8KRWOv8sOui"
       },
       "artists": [
         {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+          "name": "SevenRxni",
+          "url": "https://open.spotify.com/artist/62CjcyuCDE2VvpKPS0z9ps"
         },
         {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
         },
         {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+          "name": "P. Oliveira",
+          "url": "https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd"
+        },
+        {
+          "name": "Lxlrod",
+          "url": "https://open.spotify.com/artist/5H0D7GVFCNJqEW5BdVb82A"
         }
       ],
-      "duration_ms": 326028,
-      "name": "Amor \u00c1gape",
-      "url": "https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU"
+      "duration_ms": 146400,
+      "name": "A Gl\u00f3ria da Segunda Casa",
+      "url": "https://open.spotify.com/track/0pkDpDx2338D3SiCfFs6RZ"
+    },
+    {
+      "added_at": "2023-11-03 04:44:02",
+      "album": {
+        "name": "Ladr\u00e3o",
+        "url": "https://open.spotify.com/album/6w145Bh0gJREaGV52bXvmQ"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Ladr\u00e3o",
+      "url": "https://open.spotify.com/track/1S2LdnCSPrV9xxlGEefNDn"
+    },
+    {
+      "added_at": "2023-11-03 04:44:02",
+      "album": {
+        "name": "Se o Esp\u00edrito de Deus Se Move em Mim",
+        "url": "https://open.spotify.com/album/0onAAqhvNW20080BvMMCkO"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        },
+        {
+          "name": "Daniel Salez",
+          "url": "https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO"
+        }
+      ],
+      "duration_ms": 130515,
+      "name": "Se o Esp\u00edrito de Deus Se Move em Mim",
+      "url": "https://open.spotify.com/track/3Ob9HR0tFe110PuUrZdIcy"
+    },
+    {
+      "added_at": "2023-11-03 04:44:02",
+      "album": {
+        "name": "Nome Sobre Todo Nome",
+        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 133624,
+      "name": "Nome Sobre Todo Nome",
+      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
     },
     {
       "added_at": "2023-11-03 04:44:02",
@@ -1051,38 +1091,26 @@
     {
       "added_at": "2023-11-03 04:44:02",
       "album": {
-        "name": "Labirinto",
-        "url": "https://open.spotify.com/album/5hiTwmu0UXUPUVs9Si2tzW"
+        "name": "Amor \u00c1gape",
+        "url": "https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc"
       },
       "artists": [
         {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
         },
         {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        }
-      ],
-      "duration_ms": 217272,
-      "name": "Labirinto",
-      "url": "https://open.spotify.com/track/4YJuSrst66PSW3bdJk1SwN"
-    },
-    {
-      "added_at": "2023-11-03 04:44:02",
-      "album": {
-        "name": "Nome Sobre Todo Nome",
-        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
-      },
-      "artists": [
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
         {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
-      "duration_ms": 133624,
-      "name": "Nome Sobre Todo Nome",
-      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
+      "duration_ms": 326028,
+      "name": "Amor \u00c1gape",
+      "url": "https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU"
     },
     {
       "added_at": "2023-11-03 04:44:02",
@@ -1131,36 +1159,8 @@
     {
       "added_at": "2023-11-03 04:44:02",
       "album": {
-        "name": "A Gl\u00f3ria da Segunda Casa",
-        "url": "https://open.spotify.com/album/2OOHzHaoKmp8KRWOv8sOui"
-      },
-      "artists": [
-        {
-          "name": "SevenRxni",
-          "url": "https://open.spotify.com/artist/62CjcyuCDE2VvpKPS0z9ps"
-        },
-        {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        },
-        {
-          "name": "P. Oliveira",
-          "url": "https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd"
-        },
-        {
-          "name": "Lxlrod",
-          "url": "https://open.spotify.com/artist/5H0D7GVFCNJqEW5BdVb82A"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "A Gl\u00f3ria da Segunda Casa",
-      "url": "https://open.spotify.com/track/0pkDpDx2338D3SiCfFs6RZ"
-    },
-    {
-      "added_at": "2023-11-03 04:44:02",
-      "album": {
-        "name": "Se o Esp\u00edrito de Deus Se Move em Mim",
-        "url": "https://open.spotify.com/album/0onAAqhvNW20080BvMMCkO"
+        "name": "Labirinto",
+        "url": "https://open.spotify.com/album/5hiTwmu0UXUPUVs9Si2tzW"
       },
       "artists": [
         {
@@ -1168,13 +1168,29 @@
           "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
         },
         {
-          "name": "Daniel Salez",
-          "url": "https://open.spotify.com/artist/2EZBvvwg5lzHMMZgFHC8KO"
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
         }
       ],
-      "duration_ms": 130515,
-      "name": "Se o Esp\u00edrito de Deus Se Move em Mim",
-      "url": "https://open.spotify.com/track/3Ob9HR0tFe110PuUrZdIcy"
+      "duration_ms": 217272,
+      "name": "Labirinto",
+      "url": "https://open.spotify.com/track/4YJuSrst66PSW3bdJk1SwN"
+    },
+    {
+      "added_at": "2023-11-03 04:44:02",
+      "album": {
+        "name": "Me Faz Bem",
+        "url": "https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4"
+      },
+      "artists": [
+        {
+          "name": "MARCO AZAUSKI",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+        }
+      ],
+      "duration_ms": 186293,
+      "name": "Me Faz Bem",
+      "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
     },
     {
       "added_at": "2023-11-03 04:44:02",
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2023-11-03 04:44:02",
       "album": {
-        "name": "Me Faz Bem",
-        "url": "https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4"
-      },
-      "artists": [
-        {
-          "name": "MARCO AZAUSKI",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "Me Faz Bem",
-      "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
-    },
-    {
-      "added_at": "2023-11-03 04:44:02",
-      "album": {
         "name": "Eu Era Servo",
         "url": "https://open.spotify.com/album/4Cc72TrT4isWBvG2OvBu71"
       },
@@ -1235,7 +1235,7 @@
     {
       "added_at": "2023-11-03 04:44:02",
       "album": {
-        "name": "Cristo Faz a Wave",
+        "name": "CRISTO FAZ A WAVE",
         "url": "https://open.spotify.com/album/3cnklZJoW7feW3nF9pZYWL"
       },
       "artists": [
@@ -1249,7 +1249,7 @@
         }
       ],
       "duration_ms": 180000,
-      "name": "Cristo Faz a Wave",
+      "name": "CRISTO FAZ A WAVE",
       "url": "https://open.spotify.com/track/7qA4ovLWETJrwMXOAa7X00"
     },
     {
@@ -1327,6 +1327,38 @@
     {
       "added_at": "2023-11-03 04:44:02",
       "album": {
+        "name": "Es o Meu Ref\u00fagio",
+        "url": "https://open.spotify.com/album/27AyPTY8JJxFSRfo2nO0G2"
+      },
+      "artists": [
+        {
+          "name": "Lil Boas",
+          "url": "https://open.spotify.com/artist/070njtH4mYTth11cYf2DFL"
+        }
+      ],
+      "duration_ms": 154392,
+      "name": "Es o Meu Ref\u00fagio",
+      "url": "https://open.spotify.com/track/5KATaqcejGz2LIlQskSZEZ"
+    },
+    {
+      "added_at": "2023-11-03 04:44:02",
+      "album": {
+        "name": "Notas de um Cora\u00e7\u00e3o Amado",
+        "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 133653,
+      "name": "Al\u00e9m",
+      "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
+    },
+    {
+      "added_at": "2023-11-03 04:44:02",
+      "album": {
         "name": "CQC",
         "url": "https://open.spotify.com/album/7L9uEDiFsqSZGB2F5KBynC"
       },
@@ -1363,22 +1395,6 @@
     {
       "added_at": "2023-11-03 04:44:02",
       "album": {
-        "name": "Notas de um Cora\u00e7\u00e3o Amado",
-        "url": "https://open.spotify.com/album/4x7FObYKO3bwa9kyZUE5M6"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 133653,
-      "name": "Al\u00e9m",
-      "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
-    },
-    {
-      "added_at": "2023-11-03 04:44:02",
-      "album": {
         "name": "Na Paz",
         "url": "https://open.spotify.com/album/2gV7jI1G4hTJgUEB3ud2xS"
       },
@@ -1395,90 +1411,6 @@
       "duration_ms": 181340,
       "name": "Na Paz",
       "url": "https://open.spotify.com/track/5N2s5dO33NZqwA6TE5b14I"
-    },
-    {
-      "added_at": "2023-11-03 04:44:02",
-      "album": {
-        "name": "Meu Primeiro Amor",
-        "url": "https://open.spotify.com/album/1GnENPwUsv1h03yBeFT8W7"
-      },
-      "artists": [
-        {
-          "name": "Boanerges",
-          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
-        },
-        {
-          "name": "Azero",
-          "url": "https://open.spotify.com/artist/2ymuYQ5su4RqRntlGvCIVN"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Meu Primeiro Amor",
-      "url": "https://open.spotify.com/track/0AGpTYmXuygXrjiixCBFD8"
-    },
-    {
-      "added_at": "2023-11-03 04:44:02",
-      "album": {
-        "name": "RESPOSTAS",
-        "url": "https://open.spotify.com/album/03OSVIWZ2eWBgiIOKYxyjs"
-      },
-      "artists": [
-        {
-          "name": "BIG THE KIID",
-          "url": "https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1"
-        },
-        {
-          "name": "borbabeatz",
-          "url": "https://open.spotify.com/artist/7vVkGGhKfIuTogwznm24kM"
-        }
-      ],
-      "duration_ms": 153325,
-      "name": "RESPOSTAS",
-      "url": "https://open.spotify.com/track/4RP61atk3EOYXQcWJIf1Fh"
-    },
-    {
-      "added_at": "2023-11-03 04:44:02",
-      "album": {
-        "name": "Lesgo",
-        "url": "https://open.spotify.com/album/45RX4lG5DndxH8ce22aTZV"
-      },
-      "artists": [
-        {
-          "name": "LEVII MC",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 204210,
-      "name": "Lesgo",
-      "url": "https://open.spotify.com/track/6Ig0Tox0Jcomij14pZkkg1"
-    },
-    {
-      "added_at": "2023-11-03 04:44:02",
-      "album": {
-        "name": "Senhor",
-        "url": "https://open.spotify.com/album/2RbGKTQyIZYsT3c80rTFOz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Coutinho",
-          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
-        },
-        {
-          "name": "Coutinho Records",
-          "url": "https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS"
-        }
-      ],
-      "duration_ms": 218342,
-      "name": "Senhor",
-      "url": "https://open.spotify.com/track/1NpZVpj7w67md1P8p47MBA"
     },
     {
       "added_at": "2023-11-03 04:44:02",
@@ -1507,18 +1439,86 @@
     {
       "added_at": "2023-11-03 04:44:02",
       "album": {
-        "name": "Es o Meu Ref\u00fagio",
-        "url": "https://open.spotify.com/album/27AyPTY8JJxFSRfo2nO0G2"
+        "name": "Meu Primeiro Amor",
+        "url": "https://open.spotify.com/album/1GnENPwUsv1h03yBeFT8W7"
       },
       "artists": [
         {
-          "name": "Lil Boas",
-          "url": "https://open.spotify.com/artist/070njtH4mYTth11cYf2DFL"
+          "name": "Boanerges",
+          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
+        },
+        {
+          "name": "Azero",
+          "url": "https://open.spotify.com/artist/2ymuYQ5su4RqRntlGvCIVN"
         }
       ],
-      "duration_ms": 154392,
-      "name": "Es o Meu Ref\u00fagio",
-      "url": "https://open.spotify.com/track/5KATaqcejGz2LIlQskSZEZ"
+      "duration_ms": 180000,
+      "name": "Meu Primeiro Amor",
+      "url": "https://open.spotify.com/track/0AGpTYmXuygXrjiixCBFD8"
+    },
+    {
+      "added_at": "2023-11-03 04:44:02",
+      "album": {
+        "name": "Senhor",
+        "url": "https://open.spotify.com/album/2RbGKTQyIZYsT3c80rTFOz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Coutinho",
+          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
+        },
+        {
+          "name": "Coutinho Records",
+          "url": "https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS"
+        }
+      ],
+      "duration_ms": 218342,
+      "name": "Senhor",
+      "url": "https://open.spotify.com/track/1NpZVpj7w67md1P8p47MBA"
+    },
+    {
+      "added_at": "2023-11-03 04:44:02",
+      "album": {
+        "name": "Lesgo",
+        "url": "https://open.spotify.com/album/45RX4lG5DndxH8ce22aTZV"
+      },
+      "artists": [
+        {
+          "name": "LEVII MC",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 204210,
+      "name": "Lesgo",
+      "url": "https://open.spotify.com/track/6Ig0Tox0Jcomij14pZkkg1"
+    },
+    {
+      "added_at": "2023-11-03 04:44:02",
+      "album": {
+        "name": "RESPOSTAS",
+        "url": "https://open.spotify.com/album/03OSVIWZ2eWBgiIOKYxyjs"
+      },
+      "artists": [
+        {
+          "name": "BIG THE KIID",
+          "url": "https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1"
+        },
+        {
+          "name": "borbabeatz",
+          "url": "https://open.spotify.com/artist/7vVkGGhKfIuTogwznm24kM"
+        }
+      ],
+      "duration_ms": 153325,
+      "name": "RESPOSTAS",
+      "url": "https://open.spotify.com/track/4RP61atk3EOYXQcWJIf1Fh"
     },
     {
       "added_at": "2023-11-03 04:44:02",
@@ -1563,6 +1563,26 @@
     {
       "added_at": "2023-11-03 04:44:02",
       "album": {
+        "name": "Salmos 116:19",
+        "url": "https://open.spotify.com/album/1SkNFskDuQwBg73IjGzAHM"
+      },
+      "artists": [
+        {
+          "name": "diaszin",
+          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 201047,
+      "name": "Salmos 116:19",
+      "url": "https://open.spotify.com/track/3u94CJO0JGPd0RsEl3EUCB"
+    },
+    {
+      "added_at": "2023-11-03 04:44:02",
+      "album": {
         "name": "Caminhos da Vida",
         "url": "https://open.spotify.com/album/1TE4JunRsZ4INVJUTBVsdN"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 155300,
       "name": "Prosseguir",
       "url": "https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv"
-    },
-    {
-      "added_at": "2023-11-03 04:44:02",
-      "album": {
-        "name": "Salmos 116:19",
-        "url": "https://open.spotify.com/album/1SkNFskDuQwBg73IjGzAHM"
-      },
-      "artists": [
-        {
-          "name": "diaszin",
-          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 201047,
-      "name": "Salmos 116:19",
-      "url": "https://open.spotify.com/track/3u94CJO0JGPd0RsEl3EUCB"
     },
     {
       "added_at": "2023-11-03 04:44:02",

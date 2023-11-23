@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: Chilli Beans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,924 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,008 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 11 | [ドキドキする](https://open.spotify.com/track/2PHZVtdPCqi7oTIw7jsyM1) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [ドキドキする](https://open.spotify.com/album/76fKJdmm2j4KGKtKgiMYW1) | 3:01 |
 | 12 | [Cult.](https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Cult.](https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o) | 4:28 |
 | 13 | [GO!!!](https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [GO!!!](https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0) | 3:24 |
-| 14 | [パンザマスト](https://open.spotify.com/track/1ObqbQDyABhBhhofOITc58) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [SINGER'S HIGH](https://open.spotify.com/album/0uqbdmdAkwobS4msDI68DG) | 2:52 |
+| 14 | [panzamasuto](https://open.spotify.com/track/1zVMbhWohOGBTxK5SPd83c) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Singer's High](https://open.spotify.com/album/7IMFRkZNqf5y7cEZvE7cky) | 2:52 |
 | 15 | [Sweet sweet candy time](https://open.spotify.com/track/7KIYIwWDNssdv7tsw90Z8V) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [Sweet sweet candy time](https://open.spotify.com/album/57YQjhQNWCkmpt0OTUG9d6) | 5:21 |
 | 16 | [Re方程式](https://open.spotify.com/track/5gMvuRZRAtYxsYBs5lRDMH) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [Re方程式](https://open.spotify.com/album/26zVnYZBcPIBYDXv2Id7w7) | 4:12 |
 | 17 | [LOVE \(XL\)](https://open.spotify.com/track/5GAjhDdUw6vA33k2DvEbYJ) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [LOVE \(XL\)](https://open.spotify.com/album/4OpHb4ubmIAxWM945jNyfj) | 4:45 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 19 | [夏暁](https://open.spotify.com/track/7LFGOD6ePfGh8FtPtnq3EJ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Catch Up](https://open.spotify.com/album/7xmycezoMiRbUKwZ50B3CH) | 3:52 |
 | 20 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 |
 | 21 | [Himitsu](https://open.spotify.com/track/0HoZNIXm2wZ5qh3Ipc5AHR) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [Eisei no Yoru / Himitsu](https://open.spotify.com/album/40DrlmSNJQpMC058lWDYhJ) | 4:04 |
-| 22 | [Lively Christmas](https://open.spotify.com/track/6r3CoPret0z1iBjUEnnlB8) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Lively Christmas](https://open.spotify.com/album/0W6Ot4XHxqDZbZGLGCjRrP) | 3:18 |
+| 22 | [Lively Christmas](https://open.spotify.com/track/53DGlr6zHEfNFQV4719Wsd) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Lively Christmas](https://open.spotify.com/album/4XRSy18v6qt4iAzmqc9rXi) | 3:18 |
 | 23 | [Mix](https://open.spotify.com/track/0ObVtzwc7YEuMjDQSTQyCW) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Mix](https://open.spotify.com/album/00p5rwTYsV62tV3RXRYZAO) | 3:29 |
 | 24 | [Heartache](https://open.spotify.com/track/1pBeYVoKOTXOotNJ1MjHrk) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [vanitas](https://open.spotify.com/album/4SKmZ9UDkL4NrEgXzJw81z) | 2:28 |
 | 25 | [Koiwoshite](https://open.spotify.com/track/3hvEYruyX0x0zZXoTZ5RgE) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Koiwoshite](https://open.spotify.com/album/6x0T33qsWWfVD24C6Lji91) | 3:59 |
@@ -92,12 +92,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 82 | [My One Wish](https://open.spotify.com/track/5TO9cofRiOhakgaMh3f75i) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [My One Wish](https://open.spotify.com/album/0LPc8YbGDUS4xkphNIQIbk) | 2:52 |
 | 83 | [Peanut butter 2023 GIGA MAX](https://open.spotify.com/track/0r2abRSwPrVaYtiX5SeAt8) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [peanut butters II](https://open.spotify.com/album/32Y4rnV7l6GCXUy005ox3p) | 2:47 |
 | 84 | [bloom](https://open.spotify.com/track/1f37xjUqPlrDvA6MdQoAis) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [bloom](https://open.spotify.com/album/3M1wHslRzr0CVK4oYyCV0K) | 3:17 |
-| 85 | [やわらかいパン](https://open.spotify.com/track/13iGFzuBbWAip4qIoVwdEV) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [やわらかいパン](https://open.spotify.com/album/09RDJ7ahRy1r4EY1Vy9a1v) | 3:20 |
+| 85 | [Last Supper](https://open.spotify.com/track/4sqPcQyiHESSahprYt5LMx) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [Last Supper](https://open.spotify.com/album/5c2Aeu1g0pwsQnpqXgvzlu) | 3:20 |
 | 86 | [革命の音](https://open.spotify.com/track/3s3dZXOIdbBIGlMfHXUh3G) | [Half time Old](https://open.spotify.com/artist/1zpGAwgdCoZw9CP4QlWq9l) | [ALPHA](https://open.spotify.com/album/483AZhuzgV5PWGEZiIAdts) | 3:15 |
 | 87 | [Closer](https://open.spotify.com/track/24Ai9oaKiidTGV4Keotqml) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [８](https://open.spotify.com/album/18BdJtCTwpeeyRsVEhaT1m) | 3:36 |
 | 88 | [棘](https://open.spotify.com/track/5uyAfPDiRLA3cpithoy8km) | [Thinking Dogs](https://open.spotify.com/artist/09bKUD807BdDQb21HLz0Lq) | [棘](https://open.spotify.com/album/1PUMVIThcMjrkfTYNf6e6m) | 3:19 |
 | 89 | [無限さ](https://open.spotify.com/track/5hXzy6s8VF91bebMSzsd8O) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [無限さ](https://open.spotify.com/album/69vfAcogRrDZ6sHa9zoGjZ) | 4:01 |
-| 90 | [Maybe I should die with you](https://open.spotify.com/track/33W1lz1ejtTU4NOfoesFp2) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Maybe I should die with you](https://open.spotify.com/album/6LblXqNqBXHUMUTLzmhX7C) | 5:35 |
+| 90 | [Maybe I should die with you](https://open.spotify.com/track/1SUUK6C8DAteFfcOygsdJo) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Maybe I should die with you](https://open.spotify.com/album/0FEkgIsDVj9Aeyd1iApTG3) | 5:35 |
 | 91 | [INSOMNIAC](https://open.spotify.com/track/2EzDDlGlwTPNPQPojXvKty) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [INSOMNIAC](https://open.spotify.com/album/2e59EpMeBgRjNL4dcAXzB3) | 3:58 |
 | 92 | [Rest in Punk](https://open.spotify.com/track/45fdY5d6sQWanxK8VH1LzA) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Rest in Punk](https://open.spotify.com/album/4FhRess5TiGML7doG1wP2e) | 2:32 |
 | 93 | [猫の尻尾](https://open.spotify.com/track/007tiKPW8gsEyVI9kJ8VQZ) | [SAKANAMON](https://open.spotify.com/artist/54vKDgG7qoKqB4IHVknTcl), [蒼山幸子](https://open.spotify.com/artist/0kaulfDSrETQ7VpIv2mnkb) | [猫の尻尾](https://open.spotify.com/album/2JLf1BZ1G2PMaXQcpa6TYH) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [Destruction Sisters](https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s) | 2:30 |
 | 100 | [へっぽこ聖剣士](https://open.spotify.com/track/49iGgcordCDcak4qyUs1q7) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [聖なる交差点](https://open.spotify.com/album/0XLNqMOIIu5XUPMmrmTE2w) | 4:10 |
 
-Snapshot ID: `MCwxMjUxMGE4NTVjNjRhYjA5MDY0YmNiZjM4NzZhZDNkNzYwNjEzYzVi`
+Snapshot ID: `MCw3MDM3N2ZhM2Y3MTJkZTllNGIwZGM0M2VkMmFlNzBiZjM1NTcyZTA0`

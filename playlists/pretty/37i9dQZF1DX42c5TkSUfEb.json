@@ -1,12 +1,12 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 756623,
+  "num_followers": 756750,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWIzNjM0ZTM4NGM3MzM4OTVmODMwNjM1YWJlZGQ5NzJjNzYxNjUy",
+  "snapshot_id": "MCxlNTNkNTA0ZjFmOGJiNTVhMDI3NGIyMTkxYmFhNjg3Zjc0NDg5ZWVk",
   "tracks": [
     {
       "added_at": "2023-11-20 17:12:10",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-11-20 17:12:10",
       "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 126824,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l"
+    },
+    {
+      "added_at": "2023-11-20 17:12:10",
+      "album": {
         "name": "Suburban House",
         "url": "https://open.spotify.com/album/4rFmHomF53LoM6DGOSeOwA"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 229878,
       "name": "Suburban House",
       "url": "https://open.spotify.com/track/676TvM26wVq88afbYDPRO3"
-    },
-    {
-      "added_at": "2023-11-20 17:12:10",
-      "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 126824,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l"
     },
     {
       "added_at": "2023-11-20 17:12:10",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-11-20 17:12:10",
       "album": {
-        "name": "Street Bangerz Volume 6: Playhouse",
-        "url": "https://open.spotify.com/album/0BHnSZAC8IfThmwlPcQQMz"
-      },
-      "artists": [
-        {
-          "name": "Poldoore",
-          "url": "https://open.spotify.com/artist/3ph6BKBPsjP7Vhtd1IXhkc"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "But I Do",
-      "url": "https://open.spotify.com/track/4ox2odCf0XL0g6692URWwe"
-    },
-    {
-      "added_at": "2023-11-20 17:12:10",
-      "album": {
         "name": "The Parting Glass",
         "url": "https://open.spotify.com/album/3hapDRjTtKNAQOuavK6vgO"
       },
@@ -675,6 +659,22 @@
     {
       "added_at": "2023-11-20 17:12:10",
       "album": {
+        "name": "Street Bangerz Volume 6: Playhouse",
+        "url": "https://open.spotify.com/album/0BHnSZAC8IfThmwlPcQQMz"
+      },
+      "artists": [
+        {
+          "name": "Poldoore",
+          "url": "https://open.spotify.com/artist/3ph6BKBPsjP7Vhtd1IXhkc"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "But I Do",
+      "url": "https://open.spotify.com/track/4ox2odCf0XL0g6692URWwe"
+    },
+    {
+      "added_at": "2023-11-20 17:12:10",
+      "album": {
         "name": "Swan Upon Leda",
         "url": "https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 222026,
       "name": "Swan Upon Leda",
       "url": "https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl"
-    },
-    {
-      "added_at": "2023-11-20 17:12:10",
-      "album": {
-        "name": "The Flying Club Cup",
-        "url": "https://open.spotify.com/album/71udkw2yxFqNK4SNSYcCce"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 230200,
-      "name": "Nantes",
-      "url": "https://open.spotify.com/track/1WBSFlSLyOZnSa8fj7a5yC"
     },
     {
       "added_at": "2023-11-20 17:12:10",
@@ -727,6 +711,22 @@
     {
       "added_at": "2023-11-20 17:12:10",
       "album": {
+        "name": "The Flying Club Cup",
+        "url": "https://open.spotify.com/album/71udkw2yxFqNK4SNSYcCce"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 230200,
+      "name": "Nantes",
+      "url": "https://open.spotify.com/track/1WBSFlSLyOZnSa8fj7a5yC"
+    },
+    {
+      "added_at": "2023-11-20 17:12:10",
+      "album": {
         "name": "If You Leave",
         "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 253013,
       "name": "Youth",
       "url": "https://open.spotify.com/track/0UPMxtinlgA1dkne9PAKTW"
+    },
+    {
+      "added_at": "2023-11-20 17:12:10",
+      "album": {
+        "name": "Alma Mater",
+        "url": "https://open.spotify.com/album/33ZsoPlzcb0TXIdZQlSqHH"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 210110,
+      "name": "Alma Mater",
+      "url": "https://open.spotify.com/track/0XJ5H4jtFNrlywhYkhjCcb"
     },
     {
       "added_at": "2023-11-20 17:12:10",
@@ -759,22 +775,6 @@
       "duration_ms": 238000,
       "name": "In a Manner of Speaking",
       "url": "https://open.spotify.com/track/3JaRjTNqNKiK8bWp3Dn7KB"
-    },
-    {
-      "added_at": "2023-11-20 17:12:10",
-      "album": {
-        "name": "Alma Mater",
-        "url": "https://open.spotify.com/album/33ZsoPlzcb0TXIdZQlSqHH"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 210110,
-      "name": "Alma Mater",
-      "url": "https://open.spotify.com/track/0XJ5H4jtFNrlywhYkhjCcb"
     },
     {
       "added_at": "2023-11-20 17:12:10",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-11-20 17:12:10",
       "album": {
-        "name": "Hombre Lobo",
-        "url": "https://open.spotify.com/album/5KVxlY0HM8gaTeE9nff9bp"
-      },
-      "artists": [
-        {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
-        }
-      ],
-      "duration_ms": 255346,
-      "name": "That Look You Give That Guy",
-      "url": "https://open.spotify.com/track/5LaE3oXGo5J6ORlGmTlnIb"
-    },
-    {
-      "added_at": "2023-11-20 17:12:10",
-      "album": {
         "name": "Suspiria (Music for the Luca Guadagnino Film)",
         "url": "https://open.spotify.com/album/2UehMLybYgLuuNHRNJpbCB"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 201768,
       "name": "Suspirium",
       "url": "https://open.spotify.com/track/4Y1igB1GDncJvt7ezbV3cW"
+    },
+    {
+      "added_at": "2023-11-20 17:12:10",
+      "album": {
+        "name": "Hombre Lobo",
+        "url": "https://open.spotify.com/album/5KVxlY0HM8gaTeE9nff9bp"
+      },
+      "artists": [
+        {
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+        }
+      ],
+      "duration_ms": 255346,
+      "name": "That Look You Give That Guy",
+      "url": "https://open.spotify.com/track/5LaE3oXGo5J6ORlGmTlnIb"
     },
     {
       "added_at": "2023-11-20 17:12:10",
@@ -923,6 +923,26 @@
     {
       "added_at": "2023-11-20 17:12:10",
       "album": {
+        "name": "The Glass",
+        "url": "https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 211190,
+      "name": "The Glass",
+      "url": "https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W"
+    },
+    {
+      "added_at": "2023-11-20 17:12:10",
+      "album": {
         "name": "Play & Play: B Sides",
         "url": "https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c"
       },
@@ -967,22 +987,6 @@
       "duration_ms": 179880,
       "name": "Moins joli",
       "url": "https://open.spotify.com/track/2fgINBjLf7eCI3ky3n2gnS"
-    },
-    {
-      "added_at": "2023-11-20 17:12:10",
-      "album": {
-        "name": "The Glass",
-        "url": "https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 211190,
-      "name": "The Glass",
-      "url": "https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W"
     },
     {
       "added_at": "2023-11-20 17:12:10",
@@ -1183,6 +1187,22 @@
     {
       "added_at": "2023-11-20 17:12:10",
       "album": {
+        "name": "Good People / Afterhours",
+        "url": "https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 171858,
+      "name": "Chill Pad Deluxe",
+      "url": "https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM"
+    },
+    {
+      "added_at": "2023-11-20 17:12:10",
+      "album": {
         "name": "Paradis",
         "url": "https://open.spotify.com/album/3TlmlAsJZhteMKH47jkDiL"
       },
@@ -1219,22 +1239,6 @@
     {
       "added_at": "2023-11-20 17:12:10",
       "album": {
-        "name": "Good People / Afterhours",
-        "url": "https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 171858,
-      "name": "Chill Pad Deluxe",
-      "url": "https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM"
-    },
-    {
-      "added_at": "2023-11-20 17:12:10",
-      "album": {
         "name": "Proof Of Life (Deluxe)",
         "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
       },
@@ -1267,22 +1271,6 @@
     {
       "added_at": "2023-11-20 17:12:10",
       "album": {
-        "name": "Come on By",
-        "url": "https://open.spotify.com/album/0BNAxaSKj1NIDQQnEBYrOX"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 205093,
-      "name": "Come on By",
-      "url": "https://open.spotify.com/track/1zYY2CKpDuGchopm3RYSKy"
-    },
-    {
-      "added_at": "2023-11-20 17:12:10",
-      "album": {
         "name": "All The Little Lights (Deluxe Version)",
         "url": "https://open.spotify.com/album/6jH2g82WMRAVCuyifUsLpF"
       },
@@ -1295,6 +1283,22 @@
       "duration_ms": 266626,
       "name": "Let Her Go - Acoustic",
       "url": "https://open.spotify.com/track/38OudvGwGjmc5R4sDb2rd0"
+    },
+    {
+      "added_at": "2023-11-20 17:12:10",
+      "album": {
+        "name": "Come on By",
+        "url": "https://open.spotify.com/album/0BNAxaSKj1NIDQQnEBYrOX"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 205093,
+      "name": "Come on By",
+      "url": "https://open.spotify.com/track/1zYY2CKpDuGchopm3RYSKy"
     },
     {
       "added_at": "2023-11-20 17:12:10",

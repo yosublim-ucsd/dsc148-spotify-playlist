@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,307 likes - 75 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,441 likes - 75 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 18 | [How Long Has This Been Going On](https://open.spotify.com/track/10El9hxviSBm7pChWxG1ib) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Ben And "Sweets"](https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk) | 5:30 |
 | 19 | [Danny's Dream](https://open.spotify.com/track/13hLjPatKentvawsFceF9a) | [Lars Gullin](https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI) | [Fäbodjazz](https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW) | 5:38 |
 | 20 | [Here's That Rainy Day](https://open.spotify.com/track/1m0dIj1PvGldkiwJUYzc1l) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [The Boss Is Back!](https://open.spotify.com/album/737Arukc7X3Nc9F5FYuBmz) | 6:07 |
-| 21 | [Tangerine](https://open.spotify.com/track/5EudeHV7lSPc0n0J8C6yhq) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 5:20 |
-| 22 | [Out Of Nowhere](https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Jazz Masters](https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt) | 4:08 |
+| 21 | [Out Of Nowhere](https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Jazz Masters](https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt) | 4:08 |
+| 22 | [Tangerine](https://open.spotify.com/track/5EudeHV7lSPc0n0J8C6yhq) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Coleman Hawkins Encounters Ben Webster \(Expanded Edition\)](https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ) | 5:20 |
 | 23 | [Solitude](https://open.spotify.com/track/6W25U2EbDixQbLbqpjz0TT) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Way Out West \(OJC Remaster\)](https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC) | 7:51 |
 | 24 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/7A2fFWAMjU689JhOCxVs70) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Jazz 'Round Midnight](https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD) | 3:13 |
 | 25 | [The Midnight Sun Will Never Set](https://open.spotify.com/track/2tDKzLQnVYVj6pr8Ha0EBw) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 3:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 74 | [Round Midnight](https://open.spotify.com/track/0f8yEumFr2Wvzq0rIDiVxy) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt), [Al Foster](https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6), [Rufus Reid](https://open.spotify.com/artist/7mcseJPsc7KCQrITzrOrWg) | [The Standard Joe](https://open.spotify.com/album/3sVNad4AWMQvwIpAa8dUzK) | 8:50 |
 | 75 | [When Joanna Loved Me](https://open.spotify.com/track/2rxK2vd9P8QM1TEbyGFjoY) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr), [Eugene Wright](https://open.spotify.com/artist/3Bx84JkzpCnEzS2bTIHI53), [Connie Kay](https://open.spotify.com/artist/7txdgV9R0IGjkZ8R6rPake) | [Falling In Love With Paul Desmond](https://open.spotify.com/album/38SK483XET4r7jzPXaz8rc) | 5:43 |
 
-Snapshot ID: `MCw2OTUwNDJmNThiYTZmMGViNWYyMzZmN2QyMTBjN2E0YmJmOThmY2U1`
+Snapshot ID: `MCxlNWQ4YzIyMDY4OWZkNmNkZmUwNTk1NDY3YWY0NTRiMGEwOGQ5ZWMw`

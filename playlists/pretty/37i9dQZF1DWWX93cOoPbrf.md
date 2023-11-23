@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Código FN, Oscar Maydón, Brandon Reyes y Elvin en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,410 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,548 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 31 | [Libros X Libras](https://open.spotify.com/track/4eS3jVHIH8Forzyb1I4qgs) | [BÉLICO INDIE](https://open.spotify.com/artist/31kHBwfQiX3Iha7wxGwFo3), [Manuel Alejo](https://open.spotify.com/artist/2rtvutteRvtigmBzpaVzEH) | [Libros X Libras](https://open.spotify.com/album/4TRwhmVWFNgywws8DT6JvS) | 2:13 |
 | 32 | [Nene Zambada](https://open.spotify.com/track/3IVFOkEMepCHIAGnUjvWJg) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:03 |
 | 33 | [El Rey Del Pop \(En Vivo\)](https://open.spotify.com/track/1D5KDcr6BB3bHtK3NiBTye) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [La Cruda Deluxe \(En Vivo\)](https://open.spotify.com/album/7FULQRQbO2j0c3uqpr4N5u) | 3:42 |
-| 34 | [El Exitoso](https://open.spotify.com/track/4E1QkNe7kxIzBAOvOWGgPH) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/4SQZsm1mpAPJuxKW7Nlauy) | 3:42 |
+| 34 | [El Exitoso](https://open.spotify.com/track/2nbZDGc8nrRk7pUtuuPBsU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Exitoso](https://open.spotify.com/album/1A58Tldo1ULvhFrVYwPrec) | 3:42 |
 | 35 | [Poco A Poco](https://open.spotify.com/track/4loIMejzvt11s97SGVEat8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Poco A Poco](https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl) | 2:36 |
 | 36 | [La Cheyenne con Camper](https://open.spotify.com/track/3ivXbe3k31PtZtjumCDeH9) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Cheyenne con Camper](https://open.spotify.com/album/6Yw8AbcXq8u76x3QrHHDkg) | 3:00 |
 | 37 | [También Me Llamo Ismael \- En Vivo](https://open.spotify.com/track/4KSaVHKlMWTruKxzUX12uY) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD) | [También Me Llamo Ismael \(En Vivo\)](https://open.spotify.com/album/762prAk1zCDNgHV03q2Wgt) | 3:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Chalineras](https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Chalineras](https://open.spotify.com/album/06AC0m6945Q1SLAv6sSvp2) | 3:37 |
 | 75 | [Lujos Flamantes](https://open.spotify.com/track/7INI7hvoGSZB5W3YDEJXg5) | [Grupo Supr3me](https://open.spotify.com/artist/2D04F1wci9jME32L68xaAv) | [Lujos Flamantes](https://open.spotify.com/album/4sFXSzYvHlAz3OpUc5kRv6) | 2:28 |
 
-Snapshot ID: `MCwwOGU3YTdiMDAxYzM2YzZjYTNmYTMxMTdlY2VmM2FmM2M4MWJkMjFh`
+Snapshot ID: `MCw3NTAxMzFkYTQ1MjRkZWRlOWQ5MzIxYTlmOTg0NWQwODAzYzY2Y2Ez`

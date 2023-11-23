@@ -4,7 +4,7 @@
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Macon
 
-405 songs - 18 hr 40 min
+406 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Come To Me](https://open.spotify.com/track/1otEy9kQnCyhQa1qvl7KoM) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Come To Me](https://open.spotify.com/album/6CBguKwAueet7ftDs2m9cq) | 2:33 | 2023-09-21 | 2023-10-13 |
 | [Coming Home \(feat\. John Martin\)](https://open.spotify.com/track/2ReortySZeaeI0CUWiIh8v) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Coming Home \(feat\. John Martin\)](https://open.spotify.com/album/0e6QKn14Qh0qmpZMRuUvm1) | 3:32 | 2023-08-31 | 2023-09-08 |
 | [Company](https://open.spotify.com/track/1XvOGEMfHaLZu5opqKqtEz) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Company](https://open.spotify.com/album/0Q8UbgnUCvUdvbGjMnYKkP) | 2:42 | 2023-11-09 |  |
-| [Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/1R0KvMBXz6qzjAEIS57Sz8) | 3:24 | 2023-11-17 |  |
+| [Cover Up My Face](https://open.spotify.com/track/0t4N3qUMwdnDZNumcVxPRu) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/4vj7dl0foafvI0OOVmB4s2) | 3:24 | 2023-11-17 |  |
+| [Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/1R0KvMBXz6qzjAEIS57Sz8) | 3:24 | 2023-11-17 | 2023-11-23 |
 | [Crazy](https://open.spotify.com/track/0pJkaFTJB4Tfrsz4oFoe4y) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Crazy](https://open.spotify.com/album/3idgAfBs0vaOt0mk5LHjyT) | 2:59 | 2023-10-12 | 2023-11-11 |
 | [Crazy](https://open.spotify.com/track/4ij2abVupX0NTWG5TuKe02) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Crazy](https://open.spotify.com/album/2gZzx7A5qnSbcO7OmTPAja) | 2:46 | 2023-10-05 | 2023-10-24 |
 | [Damage](https://open.spotify.com/track/3uYo9KXhl2N2RAAKA9XN9h) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Damage](https://open.spotify.com/album/5N1qmRfrSS7gCfZLcps7tI) | 2:57 | 2023-09-14 | 2023-10-06 |

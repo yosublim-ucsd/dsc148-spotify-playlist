@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:11Y54BxlxC3UIAUkU2eadQ">Rend Collective</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,080 likes - 99 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,227 likes - 99 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [Make It Out \(From "Bad Things Happen In Philadelphia"\)](https://open.spotify.com/track/6jE9tkuIHU1Ggo2GAAure5) | [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Make It Out \(From "Bad Things Happen In Philadelphia"\)](https://open.spotify.com/album/6lRoiB35gfnd3zOyxO9x4X) | 2:39 |
 | 99 | [Against The Cosmic Powers](https://open.spotify.com/track/1vIfI3Oy2OvXG3KWkSWBHy) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5), [EmanuelDaProphet](https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC) | [Against The Cosmic Powers](https://open.spotify.com/album/0bCphzyujUHkBHvzNAsmG4) | 2:41 |
 
-Snapshot ID: `MCwzOTJmNWZkYzdkM2Q0ZjBmZjk0YTNjZjUxZDAzZWZkZjVhYTdkMjNh`
+Snapshot ID: `MCxmYzIxY2E4NGJiNWU1ZDYwNWZjYjM3YWI5NWRhNTJlY2JkZGFlZjE3`

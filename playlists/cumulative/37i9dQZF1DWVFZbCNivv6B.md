@@ -4,7 +4,7 @@
 
 > Aquí vive el hip\-hop mexicano\. La Liga Malandra en la casa.
 
-449 songs - 1 day 2 hr 42 min
+450 songs - 1 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Dale](https://open.spotify.com/track/7BQT6c7FWsc3WrW7N5zZev) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Reyna](https://open.spotify.com/album/6gurGGQvCTVdFZZh1Abs3c) | 3:21 | 2022-04-18 | 2022-05-14 |
 | [Dangerous](https://open.spotify.com/track/76cdJNuDt1dgoUAg3Zsmbq) | [La Sinclair](https://open.spotify.com/artist/5kkRe5KI7U7AvJ3PgLMwB9), [Santa RM](https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc), [Adan Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Dangerous](https://open.spotify.com/album/5P6rDFKtvsQO8KsaviUVtq) | 3:35 | 2022-05-06 | 2022-07-20 |
 | [De Callejón](https://open.spotify.com/track/0Z1ap3SVAzq7XjUgp6v9gH) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Luz & Sombra](https://open.spotify.com/album/4zfSMksNSvSWuwVWE0QmM8) | 3:51 | 2022-01-28 | 2022-05-14 |
+| [De Donde Vengo](https://open.spotify.com/track/26tOATEcWkKnW1SI6fTMrO) | [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Sauceda Sm](https://open.spotify.com/artist/40ThJcLn6Q4EPT2e2a9QKm) | [El Rey del Fango](https://open.spotify.com/album/4C5vM3WmU89BUm3RggFYWn) | 4:48 | 2023-11-23 |  |
 | [De Niro](https://open.spotify.com/track/37e713wCRv41OKBhv8cymy) | [Elorik](https://open.spotify.com/artist/0rCrD9pAUWP4kL2ULv94GG), [Iyhon Secuaz](https://open.spotify.com/artist/1zgxaHftgbxv06Bftdq7me) | [De Niro](https://open.spotify.com/album/3g54wS3nIA94mvCwrE4LQ5) | 3:22 | 2023-02-08 | 2023-02-18 |
 | [De Por Vida](https://open.spotify.com/track/6T9LqHQOWTbkZomzvyUL3h) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN) | [De Por Vida](https://open.spotify.com/album/7ASBDgsoGpAge4byZaRPzj) | 3:15 | 2022-06-03 | 2023-05-20 |
 | [De Roll](https://open.spotify.com/track/5yvRLSBdxhhVCZv9MvGKhE) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Pato Machete](https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2) | [De Roll](https://open.spotify.com/album/1j7jCLsAyoWIQvhtB7dByg) | 3:46 | 2022-01-28 | 2022-05-20 |
@@ -394,7 +395,7 @@
 | [Suficiente](https://open.spotify.com/track/7uSIBQ7w0a9uCsqojVASVL) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Suficiente](https://open.spotify.com/album/1RMpc2OGOJ1rDoN6eDIdlj) | 3:35 | 2022-06-22 | 2023-01-28 |
 | [TE ALEJASTE](https://open.spotify.com/track/2drn04PdLw7Ivym9GQBsZX) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:21 | 2023-03-17 |  |
 | [Te Dejé Volar](https://open.spotify.com/track/5eiWiZtsTE7EZqSBkcxKkP) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Degeneración Nacional](https://open.spotify.com/album/6pV6SSMwxUzqGRC5OZjrCi) | 3:41 | 2022-08-19 |  |
-| [Te Encontré](https://open.spotify.com/track/3Do3yeHyrQtV302BQxeOWj) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Te Encontré](https://open.spotify.com/album/0RvUTJIIZUlDiMMhA63sX9) | 3:42 | 2023-03-24 |  |
+| [Te Encontré](https://open.spotify.com/track/3Do3yeHyrQtV302BQxeOWj) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Te Encontré](https://open.spotify.com/album/0RvUTJIIZUlDiMMhA63sX9) | 3:42 | 2023-03-24 | 2023-11-23 |
 | [Te Escondes](https://open.spotify.com/track/5bzIKQnnY1aM9evAj1sZiZ) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Socios II](https://open.spotify.com/album/1tJRUkjWI6rY1pDmVoCaCZ) | 3:57 | 2022-02-24 | 2022-09-30 |
 | [Te Invito a Mi Barrio](https://open.spotify.com/track/64nRwgxwycVnTVnor7tgU6) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Te Invito a Mi Barrio](https://open.spotify.com/album/42zWIVSMYhtuKgx6de8aiE) | 3:58 | 2022-09-28 | 2023-06-10 |
 | [Te Marqué Pedo](https://open.spotify.com/track/4JfWJOuhXu0QVnev3jgC9S) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5whw8haonqjs15S7DzG4Pv) | 3:36 | 2022-01-28 | 2022-07-23 |

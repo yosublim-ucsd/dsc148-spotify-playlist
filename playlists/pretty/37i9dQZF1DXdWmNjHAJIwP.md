@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWmNjHAJIwP.md) - [plain]
 
 > Así suena cada estación\. 🍂 Check back in December for Invierno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,083 likes - 26 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,235 likes - 26 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWmNjHAJIwP.md) - [plain]
 | 25 | [notas](https://open.spotify.com/track/0PR2ybSHB6gkxiiwMJ8D3J) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [notas](https://open.spotify.com/album/3Pg8e9KQnLy6r6JHVNTo6T) | 1:36 |
 | 26 | [Perdí](https://open.spotify.com/track/5QVBBVZLxGUQfTnG5i2PX1) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:24 |
 
-Snapshot ID: `MCwxMjgwMGJkZDk5NTVlZTI0MjdjNThjZjJiNDYyZjliNjU5NjcxZDBh`
+Snapshot ID: `MCxlODFkM2VkZWY2ZGY2MzgzZGZiMjlkNTE3NTUxMzM5Yzk2MGQxNDk4`

@@ -4,7 +4,7 @@
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-292 songs - 17 hr 25 min
+293 songs - 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,10 +291,11 @@
 | [Wipe Out](https://open.spotify.com/track/5yTGv2Mu2O2APZAjMjTRXr) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 2:14 | 2022-05-27 | 2022-07-29 |
 | [Wipe Out \- Re\-Recording](https://open.spotify.com/track/1AulxQ2eNRqaPzHJjnVCV6) | [The Surfaris](https://open.spotify.com/artist/6gZVflqhSHhG3MjYrf1dOv) | [Wipe Out](https://open.spotify.com/album/729uzJVDhD9R1SB8lQ8vTO) | 2:12 | 2022-05-27 | 2022-11-13 |
 | [Workin' for a Livin'](https://open.spotify.com/track/1GbqmRw9pqTVxA1GgIFX7e) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Stranger Things: Soundtrack from the Netflix Original Series, Season 3](https://open.spotify.com/album/7oiDQdZ810FzweT2fm3tAP) | 2:38 | 2019-07-08 |  |
+| [You Don't Mess Around with Jim](https://open.spotify.com/track/6ZBeRXjadHvBk9VYSnoO0R) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9) | 3:02 | 2023-02-27 |  |
 | [You Don't Mess Around With Jim](https://open.spotify.com/track/0Z97JEXHiXXHpc4blFKQc6) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/5STjKsvCHVlSMcUXo8he3T) | 3:03 | 2019-07-10 | 2022-07-29 |
 | [You Don't Mess Around with Jim](https://open.spotify.com/track/5TrCrzkElKWWsjGQ8bnDRy) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [The Original Albums...Plus](https://open.spotify.com/album/4asosdO6SSNJJO5Hij5QbM) | 3:04 | 2019-07-10 | 2022-11-13 |
 | [You Don't Mess Around with Jim](https://open.spotify.com/track/5yrsBzgHkfu2idkl2ILQis) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/3L9sVl5T7UpFK6tNeEiXdy) | 3:04 | 2019-07-10 | 2023-11-11 |
-| [You Don't Mess Around with Jim \(Live\)](https://open.spotify.com/track/3U3DLE0Fwz0oPHR53tYHHt) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Live: The Final Tour](https://open.spotify.com/album/2WYSfBrOUTHXHYMWZyLt04) | 3:11 | 2023-02-27 |  |
+| [You Don't Mess Around with Jim \(Live\)](https://open.spotify.com/track/3U3DLE0Fwz0oPHR53tYHHt) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Live: The Final Tour](https://open.spotify.com/album/2WYSfBrOUTHXHYMWZyLt04) | 3:11 | 2023-02-27 | 2023-11-23 |
 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/30RE5j3UpEhYUBMTOAhjXv) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 3:14 | 2022-05-27 | 2022-07-29 |
 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/1ChulFMnwxoD74Me8eX2TU) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Evolution: The Hits](https://open.spotify.com/album/5AMshCv0RIe2aO4XaQWhp4) | 3:15 | 2022-05-27 |  |
 | [You're a Fighter](https://open.spotify.com/track/08j7EnYlOsO8tNnDAJuLUc) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 3 \(Original Score from the Netflix Original Series\)](https://open.spotify.com/album/3yWXEa4TRUts0oMWjNo2qc) | 4:20 | 2019-07-10 | 2023-04-09 |

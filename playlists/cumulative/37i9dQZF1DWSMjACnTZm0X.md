@@ -4,7 +4,7 @@
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN?si=rQyegiqmQySZXcK\-yI8rEQ">Caleb Awiti</a>
 
-163 songs - 11 hr 41 min
+164 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Feel Good](https://open.spotify.com/track/0int0g8dikLn0uhd1b1iZu) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Feel Good](https://open.spotify.com/album/3SYYiw2TfVVlau3XAu5NHG) | 2:49 | 2022-05-23 | 2022-08-05 |
 | [Feel Your Body](https://open.spotify.com/track/7i1IidJjOxCxv9Yq7DKPM5) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [BUTiFLY](https://open.spotify.com/album/2xvYJb8vpUxIvzmUTeleQ3) | 3:33 | 2023-10-12 |  |
 | [FIESTA \(feat\. PHEELZ\)](https://open.spotify.com/track/6a9kJHRxqrkMM1l9LWedor) | [DJ Shawn](https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [FIESTA \(feat\. PHEELZ\)](https://open.spotify.com/album/3T7tj0HMdpXPMnV8XFsW4f) | 2:36 | 2022-11-10 | 2022-12-17 |
+| [Gas City](https://open.spotify.com/track/6BplH7R9tKDPu0lVqxGPk7) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [MORI](https://open.spotify.com/artist/2VZ62GjyleNEM6B8j0Ea1I) | [JAPANESE AMAPIANO](https://open.spotify.com/album/1HWNAyuS01dk3hyspkwyyk) | 4:25 | 2023-11-22 |  |
 | [Geo Masso](https://open.spotify.com/track/4Upo49eZ0eVIzxh5vJXDvg) | [Sifoor](https://open.spotify.com/artist/0dSAqgiskNQy5Kr6aRDiZj) | [Geo Masso](https://open.spotify.com/album/4yJENcgamf67p9eO7PL2lL) | 3:06 | 2023-05-08 | 2023-06-16 |
 | [Ghana](https://open.spotify.com/track/6sOITd3VYPzrGOWZnHqwYM) | [Champuru Makhenzo](https://open.spotify.com/artist/5opgK8q2QxKDdubvoUO0Cw), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky), [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S) | [Ghana](https://open.spotify.com/album/2qjTD6OsQqyry3q7J0yETh) | 4:11 | 2023-03-02 |  |
 | [Ghorba](https://open.spotify.com/track/2qEevE8eTAeR1kfWzqkEPw) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [Mr Casablanca](https://open.spotify.com/artist/2iIBdi49pjdh580ovditIY) | [Ghorba](https://open.spotify.com/album/1cMWUUCkcxavvahY9LdMLc) | 4:04 | 2022-05-23 | 2023-03-12 |

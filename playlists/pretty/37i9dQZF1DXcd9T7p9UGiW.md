@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: Asake & H.E.R
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,939 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,353 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 51 | [Talibans II](https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Talibans II](https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va) | 2:56 |
 | 52 | [Hide & Seek \- Rema Remix](https://open.spotify.com/track/2Gphd3ei7Q9mE1C7N4NkXb) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Hide & Seek \(Rema Remix\)](https://open.spotify.com/album/6qh0VG873WKoAklRgWoLqY) | 3:48 |
 | 53 | [Attention](https://open.spotify.com/track/0FQmt8YjhSXx2KMvJSiHQ3) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Attention](https://open.spotify.com/album/2NHXAtrSy811tF6Jz99BXy) | 2:22 |
-| 54 | [NEVER WILL I LET YOU GO \(feat\. Simi\)](https://open.spotify.com/track/7vNG72ZHmA5PWIcnE9ta7H) | [Patrice](https://open.spotify.com/artist/1fBcQOi8yEfWN7fknMoqIE), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [9](https://open.spotify.com/album/2DbL0zVF543WfNBeMRvuxa) | 2:28 |
+| 54 | [NEVER WILL I LET YOU GO](https://open.spotify.com/track/7vNG72ZHmA5PWIcnE9ta7H) | [Patrice](https://open.spotify.com/artist/1fBcQOi8yEfWN7fknMoqIE), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [9](https://open.spotify.com/album/2DbL0zVF543WfNBeMRvuxa) | 2:28 |
 | 55 | [Masculine \(feat\. Burna Boy\)](https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:24 |
 | 56 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 |
 | 57 | [Laps \(feat\. Moonchild Sanelly\)](https://open.spotify.com/track/4JlfLLKYzjNRsJKm3o5z88) | [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Laps \(feat\. Moonchild Sanelly\)](https://open.spotify.com/album/4jeyWF5FJIbkcTPKAC8glW) | 3:49 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 79 | [Yo Fam!](https://open.spotify.com/track/3bo6O0oUgrE3V2wqdzQKuE) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Yo Fam!](https://open.spotify.com/album/7rty6S4IzzigIfDhVmUDV3) | 2:41 |
 | 80 | [Honest](https://open.spotify.com/track/2vnNYl3UDY9Grubs0VAK5m) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [TSB](https://open.spotify.com/artist/5TcyvDMRRaMjCBoXIUWofZ) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 3:02 |
 
-Snapshot ID: `MCw2NjU3OWY2ZGI1NGMwY2E2M2Y0NjY2OTM2NzgxMDQzZDQyM2ZlY2Iw`
+Snapshot ID: `MCwxMGE0YThmYTk3Njg1YzMwNTdkNTc4NWQ4MjJkZjE5ZDgzMTNhNzcz`

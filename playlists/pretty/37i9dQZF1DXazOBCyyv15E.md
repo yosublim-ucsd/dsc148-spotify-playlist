@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: KNEECAP
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,174 likes - 85 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,250 likes - 85 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 84 | [pink dress](https://open.spotify.com/track/2MBuWN9LjsJSKyGlWSJOXo) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [pink dress](https://open.spotify.com/album/2By8efmDvVvtVaWyJdyx0s) | 2:53 |
 | 85 | [Paradise](https://open.spotify.com/track/5WtnRVYXnK5cp71j61j9Xz) | [VENICE](https://open.spotify.com/artist/61CQzFXZaNgVL2fgXOY5kn) | [Paradise](https://open.spotify.com/album/1DCEweXzKPXxQuK88aEzpH) | 3:19 |
 
-Snapshot ID: `MCwzMDYxN2M1ZGYzYzVlYjc4M2I5YzVmOGI1MDI0NzkyZGNiZjRiMTYy`
+Snapshot ID: `MCxkZWNiZDllNGY1YzFmNGI3YjRiZDA5ZGFiOTNlYTU0M2QwOTU1YjFj`

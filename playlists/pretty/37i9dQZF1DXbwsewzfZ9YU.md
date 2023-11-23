@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > open the pit\. cover: Scowl
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,729 likes - 100 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,081 likes - 100 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 7 | [Attainable](https://open.spotify.com/track/4QUgb2DKAg4My1m2sbmNgw) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Attainable](https://open.spotify.com/album/0sqW3ChYBPwj3U7YJ0jbBx) | 1:43 |
 | 8 | [We Came To Play](https://open.spotify.com/track/5ZNAXdzYkAMDqAokJ9Ub7Z) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Trouble The Water](https://open.spotify.com/album/1sgYQT8SDu5pjb0MPPqs3t) | 2:15 |
 | 9 | [Theory of Mind](https://open.spotify.com/track/5rhGZ9qe7qmLFWwW313hnk) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Theory of Mind](https://open.spotify.com/album/69PgcqKUBX9fdJuPIg281R) | 3:51 |
-| 10 | [The Sin of Human Frailty](https://open.spotify.com/track/5JZnn0DbRP9ZrpNfut6nCx) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [The Sin of Human Frailty](https://open.spotify.com/album/259zMZ6YBj39MehGYMR80C) | 2:11 |
+| 10 | [The Sin of Human Frailty](https://open.spotify.com/track/2d1mziSU1ZqRdYdMj2Yn5o) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [The Sin of Human Frailty](https://open.spotify.com/album/6o6dgZpNASxsEcIbAGVJTq) | 2:11 |
 | 11 | [Theatre Of Cruelty](https://open.spotify.com/track/5Axsl42T0DhsvSOTKVjPf3) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [The Above](https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C) | 3:58 |
 | 12 | [Eyes Wide Shut](https://open.spotify.com/track/0bBPFGHqMcZrb9v65cJlgF) | [Guilt Trip](https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU) | [Severance](https://open.spotify.com/album/7x7A9ppDKbtuLRVOC0CSAY) | 2:57 |
 | 13 | [Fakin’ Tha Funk \(You Get Did\)](https://open.spotify.com/track/2Pzmq2BVv2f03Wi3CCuypi) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [A New Tomorrow](https://open.spotify.com/album/5r3VG2Pl6fQdDKDQH3tZzZ) | 1:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 99 | [Teeth of Wolves](https://open.spotify.com/track/7LwlqPgjtM72PJVIwIUYeP) | [BITE THE HAND](https://open.spotify.com/artist/1niXxbnUc8pJ3DIBxV8KXg) | [Down Comes the Bay](https://open.spotify.com/album/6z9kejZ3MPWyLzuinXVMvU) | 2:22 |
 | 100 | [Apology Denied](https://open.spotify.com/track/2XwNSG0m9nrLFxi9twvJCQ) | [Bad Blood](https://open.spotify.com/artist/3IBbnAgFWe1zOEuoNS8n53) | [Apology Denied](https://open.spotify.com/album/5tRUQCtgNounNjP9yjapsB) | 2:21 |
 
-Snapshot ID: `MCxkMWU2ODhkYmYwN2RkOTlhM2FjZWIyMTMzMzNhZGMxYjM1ZDllYzIw`
+Snapshot ID: `MCwxNWU5ODBhZDlmMTBjYWE0NmFjMzU1ZTE1NWVhMjgxNDE2NTIzZTJm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,751 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,793 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 13 | [Volaré](https://open.spotify.com/track/4oO60kTXH6bi1EmeVweJEl) | [T\-Bone](https://open.spotify.com/artist/6h2GxbU7emrTikSWxbMyxd), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Pa’ mi Dios y pa’ mi gente](https://open.spotify.com/album/7ihcsW5LBzZr14GwZESL2t) | 5:07 |
 | 14 | [Una Nueva Canción \(feat\. Kike Pavón\)](https://open.spotify.com/track/2s4npyJ0dfZ3uEZ5mw6X7K) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Una Nueva Canción \(feat\. Kike Pavón\)](https://open.spotify.com/album/0ZuChxTZJfnV2rxfyweF8a) | 3:42 |
 | 15 | [De Fiesta](https://open.spotify.com/track/1rDfPvexeMOw83apb0f1S2) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Corazón Abierto](https://open.spotify.com/album/1RcCNA4HKQZ7i8jVglRlW0) | 3:18 |
-| 16 | [Tu Eres \(feat\. Andrea Dominguez\)](https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA) | [Mikey A](https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks), [Andrea Dominguez](https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O) | [Por Amor](https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy) | 3:39 |
-| 17 | [Te Amo](https://open.spotify.com/track/6GvSHhIxdWaQJbiQyzdOCy) | [Triple Seven](https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [7](https://open.spotify.com/album/0SwG9W9WTQNhAJV8z4LYNU) | 4:21 |
+| 16 | [Te Amo](https://open.spotify.com/track/6GvSHhIxdWaQJbiQyzdOCy) | [Triple Seven](https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [7](https://open.spotify.com/album/0SwG9W9WTQNhAJV8z4LYNU) | 4:21 |
+| 17 | [Tu Eres \(feat\. Andrea Dominguez\)](https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA) | [Mikey A](https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks), [Andrea Dominguez](https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O) | [Por Amor](https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy) | 3:39 |
 | 18 | [Ancla](https://open.spotify.com/track/4vWqtYT69Ivi5dXOisjL62) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Daniela Araújo](https://open.spotify.com/artist/7k1mBV7McqMl1WEyuC1M4m) | [Ancla](https://open.spotify.com/album/3Hfdb0KVrFw3gix8Xc0t38) | 3:27 |
 | 19 | [Sin Ti](https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Sin Ti](https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH) | 4:24 |
 | 20 | [Perfume a Tus Pies](https://open.spotify.com/track/2yJyqIIEH2uBAyNqjXnDEM) | [Christian Ray](https://open.spotify.com/artist/31b011kEKkVK3I5v56GOig) | [Enamorarme Mas](https://open.spotify.com/album/3wkaAjJkem9YQO9l7SGmQa) | 4:35 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 30 | [Jovenes Valientes](https://open.spotify.com/track/5kjVhultwR25ejaYCJgbKV) | [Giovanni Rios](https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl) | [24/7](https://open.spotify.com/album/57TWQ1wClUOJ8MFDKIVKAH) | 3:43 |
 | 31 | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/track/3zL4exmKz5syzSXZJEJb5u) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Bueno es Dios \(feat\. Julia Vitória\)](https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD) | 3:22 |
 | 32 | [Sinceridad](https://open.spotify.com/track/6N49H4sNWlPvytIiNmjVzB) | [Jhonny Rafael](https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW) | [30 Bachatas Cristianas Pegaditas](https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt) | 4:28 |
-| 33 | [Renuevame](https://open.spotify.com/track/5y8KU2x7B5DEpxP66I1Ghz) | [Puchi Colon](https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi) | [Lo Mejor De Mi, Para El](https://open.spotify.com/album/1e1CABBw5I7ZK8vUPcl3JG) | 5:16 |
-| 34 | [Summertime](https://open.spotify.com/track/2YhJlGNniJbAMbNUWf6iiE) | [Yeyo](https://open.spotify.com/artist/3lzyHlwA8eLqDqHZ3FnKJp) | [Summertime](https://open.spotify.com/album/0qSI9KwRdzu1euqI19poAi) | 3:23 |
+| 33 | [Summertime](https://open.spotify.com/track/2YhJlGNniJbAMbNUWf6iiE) | [Yeyo](https://open.spotify.com/artist/3lzyHlwA8eLqDqHZ3FnKJp) | [Summertime](https://open.spotify.com/album/0qSI9KwRdzu1euqI19poAi) | 3:23 |
+| 34 | [Renuevame](https://open.spotify.com/track/5y8KU2x7B5DEpxP66I1Ghz) | [Puchi Colon](https://open.spotify.com/artist/2SuLNlSmriMddkk59UkOdi) | [Lo Mejor De Mi, Para El](https://open.spotify.com/album/1e1CABBw5I7ZK8vUPcl3JG) | 5:16 |
 | 35 | [No Puedo Ni Quiero](https://open.spotify.com/track/5gxQHWnI9FhKlGwAMvE3b3) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Punto y Aparte](https://open.spotify.com/album/6AnxBxzyvCtPvNx7nn4zyM) | 3:34 |
 | 36 | [Contigo](https://open.spotify.com/track/2AvucB3PF66vcQoQJ6nZ3H) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Deluxe](https://open.spotify.com/album/7DqUydQ4WODGbSdYLDte9I) | 3:43 |
 | 37 | [Good Good Father \(feat\. Avion Blackman\)](https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo) | [Christafari](https://open.spotify.com/artist/5397Q0lxSvxsQkkYiyQGeO), [Avion Blackman](https://open.spotify.com/artist/0lEo8Bgl7QGsRRZXZr8mWO) | [Original Love](https://open.spotify.com/album/1MWefbBiKCxIX3n7NyAhzO) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 49 | [Desde Mi Alma](https://open.spotify.com/track/4CyVYEF7Jd1PFP5TvKic0Z) | [Joseph Burgos](https://open.spotify.com/artist/1j3m47q8Ul9ZN0YQ1m2ONL) | [Desde Mi Alma](https://open.spotify.com/album/1AGbEgukntBYyagzUeuvOD) | 4:08 |
 | 50 | [Ritmo del Cielo](https://open.spotify.com/track/1rYUm7oOLJcJW5dSnJTem5) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Michael Pratts](https://open.spotify.com/artist/0zdgPYpK8lYxpW8g5uNlxp) | [United Kingdom 2 \(Volumen 2\)](https://open.spotify.com/album/0R4nAHSxTLLMqfbdnAoYSE) | 3:51 |
 
-Snapshot ID: `MCw4YzFiNWIxYTliNWEwMWY3MTk3YjI2N2U5YjM3YjkwNmFlOGU2NDE5`
+Snapshot ID: `MCxkMzUyMTljMzc2MTA0MWI4MDFmMjU1NGYxYzE1ZDAzNWIwMTQ4NzBj`

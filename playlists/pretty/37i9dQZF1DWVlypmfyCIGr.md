@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 森大翔
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,476 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,496 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 74 | [Skymark](https://open.spotify.com/track/78wHLhGmmuh2PdKM8yqW0P) | [堂村璃羽](https://open.spotify.com/artist/6s5z8omxqZ2k0gdGUSB0hp) | [Skymark](https://open.spotify.com/album/3zNf7j0RhV5uI4rori246V) | 2:46 |
 | 75 | [It's not a mistake.](https://open.spotify.com/track/5tIxB5uMAHOjhL0trWICu8) | [中村さんそ](https://open.spotify.com/artist/30R9MQOeKqrMoafeHmTYuY) | [I want know, Sanso Nakamura](https://open.spotify.com/album/6vTYTchECZHtWy5Vedjfqd) | 3:51 |
 | 76 | [会えない](https://open.spotify.com/track/69iM6Hngr0OkZBxxCaohEx) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [相沢](https://open.spotify.com/artist/4XyqVjWt0pEOIM5yZnpyxb) | [会えない](https://open.spotify.com/album/0QkxlHYmvEsgFRsAhhP8Jz) | 3:30 |
-| 77 | [Stereo Sunset \- Prod\. AmPm](https://open.spotify.com/track/5c8o2Q842Z84mGReKadXOf) | [Himika Akaneya](https://open.spotify.com/artist/4TDDISoY3TSX4gninvaW8h), [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf) | [Stereo Sunset \(Prod\. AmPm\)](https://open.spotify.com/album/7jT0sumIl0rPWh8oBePBhX) | 3:21 |
+| 77 | [Stereo Sunset \- Prod\. AmPm](https://open.spotify.com/track/72imPVoZOz2Ey140BJc1yi) | [Himika Akaneya](https://open.spotify.com/artist/4TDDISoY3TSX4gninvaW8h), [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf) | [Stereo Sunset \(Prod\. AmPm\)](https://open.spotify.com/album/12s5mYujjqvIfAlMx9xgW6) | 3:21 |
 | 78 | [such is life](https://open.spotify.com/track/18zszUmH66agkJ3lFGWUrn) | [shirotsume](https://open.spotify.com/artist/4bGLrWPdS0zGaLFsk37XtM) | [haru is imitation](https://open.spotify.com/album/2s9YPAubnqrYG4lLPNYEgp) | 5:17 |
 | 79 | [めざめ](https://open.spotify.com/track/36HbrTD566YyTsL4TWFtQS) | [大阪もちつきサークル](https://open.spotify.com/artist/3F677ufXvzGV2hAnVyF3cL) | [めざめ](https://open.spotify.com/album/2g5r30pWV0z1UkruNpqbfy) | 0:46 |
 | 80 | [Futatsu no ashita](https://open.spotify.com/track/7FafEVghhbuNa5fwPbo752) | [Penguinrush](https://open.spotify.com/artist/6EZO3QfDzV0BREKPesx6Io) | [Futatsu no ashita](https://open.spotify.com/album/5IxhQa8RC3XOqwZglRxf2x) | 4:57 |
 
-Snapshot ID: `MCxlNWEwY2QxZDI1NTc0NGQ5NmRkZjM5MzM5NDkzOTcwNGQxNWNmMjJj`
+Snapshot ID: `MCxmZGVhNmYyYzRiZmQ2MTkwYzg4MTkwNjkzNmFjMDc0Yzc5MjQyMzM4`

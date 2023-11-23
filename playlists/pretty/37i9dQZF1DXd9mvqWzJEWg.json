@@ -1,13 +1,61 @@
 {
   "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/1yGg3EWGfbhHJJ7WcIpR0Q?si=S67L-gTrRSGWwiGYA6XpQA\">Ms. Cosmo</a>",
-  "num_followers": 57423,
+  "num_followers": 57906,
   "original_name": "GQOM Power House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDk5Y2MxODliZTFjNWI5YTk0ZGU0NTFmNzU4ZjQxOTkxMTQwZWQ0",
+  "snapshot_id": "MCwyZjkxNjczOGJjNjRkYmU5ZmMzYzM0NDhlZTgyZGIwM2I0OGViYTVi",
   "tracks": [
+    {
+      "added_at": "2023-11-21 09:30:04",
+      "album": {
+        "name": "Marry Me",
+        "url": "https://open.spotify.com/album/7mjQtZykEFcCsjHeqw14cU"
+      },
+      "artists": [
+        {
+          "name": "NV Funk",
+          "url": "https://open.spotify.com/artist/2Y4YLJHlF2q5jg5pTE5CSz"
+        }
+      ],
+      "duration_ms": 369162,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/2SYkXjj4fMmDYxKTeWMmkJ"
+    },
+    {
+      "added_at": "2023-11-09 23:00:00",
+      "album": {
+        "name": "Woza La (feat. Blxckie, Kamo Mphela, RudeBoyz & Nobantu Vilakazi)",
+        "url": "https://open.spotify.com/album/29UuT78DwwWJz315Z6fZbJ"
+      },
+      "artists": [
+        {
+          "name": "Ms. Cosmo",
+          "url": "https://open.spotify.com/artist/1yGg3EWGfbhHJJ7WcIpR0Q"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Kamo Mphela",
+          "url": "https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon"
+        },
+        {
+          "name": "Nobantu Vilakazi",
+          "url": "https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q"
+        },
+        {
+          "name": "Rudeboyz",
+          "url": "https://open.spotify.com/artist/3De9bGnGSaxAu4sJz4Y9Wk"
+        }
+      ],
+      "duration_ms": 270967,
+      "name": "Woza La (feat. Blxckie, Kamo Mphela, RudeBoyz & Nobantu Vilakazi)",
+      "url": "https://open.spotify.com/track/1ego5wrsNU09mpADmXw809"
+    },
     {
       "added_at": "2023-11-09 23:00:00",
       "album": {
@@ -41,36 +89,24 @@
       "url": "https://open.spotify.com/track/57vFsdstF6Fsw6VwN2ZERH"
     },
     {
-      "added_at": "2023-11-09 23:00:00",
+      "added_at": "2023-11-21 09:37:39",
       "album": {
-        "name": "Woza La (feat. Blxckie, Kamo Mphela, RudeBoyz & Nobantu Vilakazi)",
-        "url": "https://open.spotify.com/album/29UuT78DwwWJz315Z6fZbJ"
+        "name": "Dana",
+        "url": "https://open.spotify.com/album/74ZTUz0CKWuF3AKwi3vr9b"
       },
       "artists": [
         {
-          "name": "Ms. Cosmo",
-          "url": "https://open.spotify.com/artist/1yGg3EWGfbhHJJ7WcIpR0Q"
+          "name": "Mshayi",
+          "url": "https://open.spotify.com/artist/6dCmmuXfV4rTEO3NRlXLXg"
         },
         {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        },
-        {
-          "name": "Kamo Mphela",
-          "url": "https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon"
-        },
-        {
-          "name": "Nobantu Vilakazi",
-          "url": "https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q"
-        },
-        {
-          "name": "Rudeboyz",
-          "url": "https://open.spotify.com/artist/3De9bGnGSaxAu4sJz4Y9Wk"
+          "name": "Mr Thela",
+          "url": "https://open.spotify.com/artist/5R02jdPgCA1tFILr67znle"
         }
       ],
-      "duration_ms": 270967,
-      "name": "Woza La (feat. Blxckie, Kamo Mphela, RudeBoyz & Nobantu Vilakazi)",
-      "url": "https://open.spotify.com/track/1ego5wrsNU09mpADmXw809"
+      "duration_ms": 338028,
+      "name": "Dana",
+      "url": "https://open.spotify.com/track/2zIuiSWAQRzLx0UWt0xRUD"
     },
     {
       "added_at": "2023-11-09 23:00:00",
@@ -191,6 +227,22 @@
       "duration_ms": 364773,
       "name": "Thunderstorm",
       "url": "https://open.spotify.com/track/6t8xc0rGpx11LapBFYU28P"
+    },
+    {
+      "added_at": "2023-11-21 09:37:39",
+      "album": {
+        "name": "Baxolele Bawo",
+        "url": "https://open.spotify.com/album/3JjqGNAHT7uG2btOfihiGu"
+      },
+      "artists": [
+        {
+          "name": "Mshayi",
+          "url": "https://open.spotify.com/artist/6dCmmuXfV4rTEO3NRlXLXg"
+        }
+      ],
+      "duration_ms": 338100,
+      "name": "Baxolele Bawo",
+      "url": "https://open.spotify.com/track/29cTBN1NTRlfGB5tonC6ys"
     },
     {
       "added_at": "2023-11-09 23:00:00",

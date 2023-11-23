@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,725 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,760 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 29 | [RELATE \(R3HAB Remix\)](https://open.spotify.com/track/6hZQGrJlAQwrNnUyFkdO8r) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [RELATE \(R3HAB Remix\)](https://open.spotify.com/album/3RkxywFjnyxYlm7NqJNmMI) | 2:46 |
 | 30 | [MILLION WAYS](https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP) | [Alexander Pappas](https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC), [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [MILLION WAYS](https://open.spotify.com/album/4ERLlP8GmGNr91szsBNiU2) | 3:30 |
 | 31 | [Always Will Be](https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Always Will Be](https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x) | 3:50 |
-| 32 | [Where To Find Me](https://open.spotify.com/track/5CxUClSpwnM0bu7CnBky2k) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [Where To Find Me](https://open.spotify.com/album/5QVDdRmn9AEfo8z1ZD8vrb) | 2:18 |
-| 33 | [Feeling Good](https://open.spotify.com/track/5I2rVSetWAXunwCeqzJBhV) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Good Life](https://open.spotify.com/album/0dCRBYfyfx8MJp26N9efng) | 3:06 |
+| 32 | [Feeling Good](https://open.spotify.com/track/5I2rVSetWAXunwCeqzJBhV) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Good Life](https://open.spotify.com/album/0dCRBYfyfx8MJp26N9efng) | 3:06 |
+| 33 | [Where To Find Me](https://open.spotify.com/track/5CxUClSpwnM0bu7CnBky2k) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [Where To Find Me](https://open.spotify.com/album/5QVDdRmn9AEfo8z1ZD8vrb) | 2:18 |
 | 34 | [Only You Can Do It](https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [Only You Can Do It](https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1) | 2:20 |
 | 35 | [Dwell in Your House](https://open.spotify.com/track/37bn3FT2zwGxXXTG0FHsse) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Dwell in Your House](https://open.spotify.com/album/1kD9ruaU9ozoo1GOSI6Hq7) | 4:38 |
 | 36 | [Empty](https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Empty](https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E) | 4:01 |
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 50 | [Help Me Let Go](https://open.spotify.com/track/1hbvXOQPUpodXhZ51ipfcZ) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3bBm5K76qYvla22fG1IOyy) | 2:37 |
 | 51 | [Jump](https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI) | [Jump](https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH) | 3:33 |
 | 52 | [Unashamed](https://open.spotify.com/track/4WnlXxOMelpUpHAkToKf40) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [HGHTS](https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p) | [Unashamed](https://open.spotify.com/album/05X5UgfB1kaWNrm39td1ey) | 2:58 |
-| 53 | [Kyrie Eleison \(It's Mercy We Need\)](https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Kyrie Eleison \(It's Mercy We Need\)](https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF) | 4:21 |
+| 53 | [Searching For](https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Searching For](https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf) | 4:15 |
 | 54 | [Spring Theory](https://open.spotify.com/track/3sVffzt7erAmEJtWLAWevy) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [Growing Up, Pt.2](https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr) | 3:41 |
 | 55 | [Come Home](https://open.spotify.com/track/5TBHXqbrK6YDOwn2VIjmpp) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Come Home](https://open.spotify.com/album/6tatgifNJ5FMNp7UmkAF3X) | 3:57 |
-| 56 | [Searching For](https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Searching For](https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf) | 4:15 |
+| 56 | [Kyrie Eleison \(It's Mercy We Need\)](https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl) | [Elias Dummer](https://open.spotify.com/artist/5gGNIhEw4JfZ7AS6tVjJbi), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Kyrie Eleison \(It's Mercy We Need\)](https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF) | 4:21 |
 | 57 | [I'm Not Lucky, I'm Blessed](https://open.spotify.com/track/1dArj5ck1vZVgkDh3BskuP) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Only Ever Always](https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH) | 3:31 |
 | 58 | [True Love](https://open.spotify.com/track/690c43quycAQBnis0vi4mY) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Truth](https://open.spotify.com/album/58J1TyJc0toPmIFfOjJMhh) | 2:55 |
 | 59 | [Jireh \- Reyer Remix](https://open.spotify.com/track/6eaKd2wId32qsCIxEA00Hg) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Esther Lisette](https://open.spotify.com/artist/2kT2Pby1qLoiO3ATlZJkhH) | [Jireh \(Reyer Remix\)](https://open.spotify.com/album/1fI7lPIrEa1COWgxq3g7tK) | 3:04 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03azgB68xev.md) - [plain]
 | 75 | [Known, Seen, Loved](https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Known, Seen, Loved](https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn) | 3:08 |
 | 76 | [Happy Day \- Retain Remix](https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc) | [Retain](https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF) | [Happy Day \- Retain Remix](https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk) | 3:20 |
 | 77 | [High Low \- Remix](https://open.spotify.com/track/7y8OstN4MtmOPNN4sOVeoN) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Tryhard Society](https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw) | [High Low \(Remix\)](https://open.spotify.com/album/50wI6SadtCnM3uiXBpjeZ8) | 2:44 |
-| 78 | [HEY GOD](https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr) | [KAYDEN](https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [HEY GOD](https://open.spotify.com/album/16dHro8vtYbycbNct69lmT) | 2:54 |
-| 79 | [ECHO](https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [ECHO](https://open.spotify.com/album/2TounfDp8FG5wdmzSCc0fT) | 3:15 |
-| 80 | [Overcomer \- Julie and Ruslan Remix](https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3), [Julie Lov](https://open.spotify.com/artist/5nAOuMlz0LCXhGVTfT03QR) | [Overcomer: The Remixes](https://open.spotify.com/album/2deAoRH9urnjAY8XKR8zTc) | 3:16 |
+| 78 | [ECHO](https://open.spotify.com/track/5dlME4r4Bt7RqHDDyT0kdY) | [Damaris Guerra](https://open.spotify.com/artist/6KOEJIpphgdK2z7wXfWYvj), [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [ECHO](https://open.spotify.com/album/2TounfDp8FG5wdmzSCc0fT) | 3:15 |
+| 79 | [HEY GOD](https://open.spotify.com/track/4JehmSn8qjxB3BSQSHkiwr) | [KAYDEN](https://open.spotify.com/artist/5Dq2DMerDcvcdlzPTmo6Jn), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [HEY GOD](https://open.spotify.com/album/16dHro8vtYbycbNct69lmT) | 2:54 |
+| 80 | [more like you](https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR) | [more like you](https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J) | 3:17 |
 
-Snapshot ID: `MCxlOGRhYzk1OGJmZTNmZGYyZTk1Mzg0NGY0OGJhYzUzZGFlOWFkM2Nl`
+Snapshot ID: `MCw3YmUwYmQ2MDdmYmJlOGRlZDI5YWY0NmU2YzA3ZTcyOTM0ZGIzZWYx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: Kvi Baba × AKLO × KEIJU
 
-[Spotify](https://open.spotify.com/user/spotify) - 847,758 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 847,858 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [Higher \- Remix](https://open.spotify.com/track/5ziiPlHiZWgexfYDWaMfMS) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [Tiji Jojo](https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [Zen Masuta](https://open.spotify.com/artist/6lwzRQVG0c0n3XhfYOKyLU) | [Higher \(Remix\)](https://open.spotify.com/album/6egmg7oo4uDNKDYDUXSkR2) | 3:56 |
 | 50 | [Glorious](https://open.spotify.com/track/2P7T4KMNrQ7mLXERZHhWYE) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Glorious](https://open.spotify.com/album/06IMFQkTogfHf8PUl9UPZa) | 4:41 |
 
-Snapshot ID: `MCw3MjczNTE2ZDcxYjQ2ODYxYzU0YTJkMzk3NWE3Njc4YTI4MTFmNzVj`
+Snapshot ID: `MCw4NmVmMmFjOTYzMTE0ODRlYWExNWIwYmFiMTkyNWJlNjYyYjM2ZTI3`

@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa Costi.
 
-173 songs - 8 hr 22 min
+174 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Fotogeeninen](https://open.spotify.com/track/6AMW5OL6GhP2vlfM6X1MiW) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Fotogeeninen](https://open.spotify.com/album/0wVCKk5YRkg9PIFRkUsroc) | 2:27 | 2023-09-21 | 2023-11-03 |
 | [FREEZE](https://open.spotify.com/track/4w2x55aaWpyqsw2K2vPOxI) | [Teos](https://open.spotify.com/artist/6acDZee4XWF64k1YnoVX3W), [MC Rambo](https://open.spotify.com/artist/2Hu0h2qsnarFN33k7U0tta), [Jere](https://open.spotify.com/artist/3Oxf4EUF3hcY3qpqd5W04o), [DJ Massimo](https://open.spotify.com/artist/71qkSHIyLGgk1ffDbcbEAj) | [FREEZE](https://open.spotify.com/album/6nMbcnOyEZT578OBkVw5dQ) | 4:48 | 2023-11-16 |  |
 | [FWB](https://open.spotify.com/track/6wpypJHbhEC3xFlq5YX4hc) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [FWB](https://open.spotify.com/album/5dCO8XVeVFzEvBgV5AL38y) | 2:19 | 2023-09-21 | 2023-10-27 |
+| [G.O.A.T.](https://open.spotify.com/track/5XEb9nRdMy9sXxkM583JIx) | [Immanuel](https://open.spotify.com/artist/57KAL3JM9mmp29xb8dUvpr) | [Jumalanmiehii II](https://open.spotify.com/album/1X9aFx4o8VF9A1ZKhLgl7q) | 2:20 | 2023-11-22 |  |
 | [GALAXIS](https://open.spotify.com/track/7jdvq2vMztAFVV1lanuC39) | [Cozie](https://open.spotify.com/artist/38f9ZxefXrMjdW985F0WbO) | [CHECKTAPE](https://open.spotify.com/album/4JBZJ0IXsl5iEaBF1Y3kNN) | 3:20 | 2023-09-28 | 2023-10-06 |
 | [Ghetto Love](https://open.spotify.com/track/4zClLaFTN76B9qHuXpJ2hH) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Ghetto Love](https://open.spotify.com/album/6h6gvLvzUFaap0qVojsrox) | 2:06 | 2023-10-12 |  |
 | [Haikailla](https://open.spotify.com/track/0WaM1Gm2pepIsQOGtUfEKG) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Haikailla](https://open.spotify.com/album/6Cf1dmW8TpCtRTF7xS4tIT) | 3:08 | 2023-10-26 |  |

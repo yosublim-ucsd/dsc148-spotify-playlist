@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 
 > Hits con sabor\. Cover: Juan Luis Guerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,651 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,683 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 80 | [Tú 1ero](https://open.spotify.com/track/4pyTcXRw3Bz3zZMWp81v7F) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Tú 1ero](https://open.spotify.com/album/42WVmjyebCg8XbScD9VwFL) | 3:09 |
 | 81 | [Confesión](https://open.spotify.com/track/30tXcc5r01WeunVJfwrtsE) | [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg), [Randy Malcom](https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ) | [Confesión](https://open.spotify.com/album/1A7jMjI0yYImnTED4kiv0L) | 3:20 |
 | 82 | [A Mi Manera](https://open.spotify.com/track/54VYbUPPoGKGiM0ZJeNTFE) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [Baby Lores](https://open.spotify.com/artist/5xRtCPL9lt9Gp1HP4JhAkl), [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [Eddy K](https://open.spotify.com/artist/6OEL2dR4ggFGWGhuQZAzy1), [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt) | [Epicentro](https://open.spotify.com/album/61q0ScDkIeFdYXnrpEpfRf) | 5:42 |
-| 83 | [Lámpara Pa' Mis Pies](https://open.spotify.com/track/0UnJphaDGpljP59lXRMaiE) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Literal](https://open.spotify.com/album/4jt7MDWCNhXZ09bU03NGgk) | 3:00 |
-| 84 | [El Carnaval De Celia: A Tribute \(La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora\)](https://open.spotify.com/track/60cOKxAs2T446QGDNo2mD2) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx) | [El Carnaval De Celia: A Tribute \(La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora\)](https://open.spotify.com/album/6WMm0QJMuDdKvOBfcFiLQ5) | 3:06 |
+| 83 | [El Carnaval De Celia: A Tribute \(La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora\)](https://open.spotify.com/track/60cOKxAs2T446QGDNo2mD2) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx) | [El Carnaval De Celia: A Tribute \(La Vida es un Carnaval / La Negra Tiene Tumbao / Rie y Llora\)](https://open.spotify.com/album/6WMm0QJMuDdKvOBfcFiLQ5) | 3:06 |
+| 84 | [Lámpara Pa' Mis Pies](https://open.spotify.com/track/0UnJphaDGpljP59lXRMaiE) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Literal](https://open.spotify.com/album/4jt7MDWCNhXZ09bU03NGgk) | 3:00 |
 | 85 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 |
 | 86 | [Boogaloo Supreme](https://open.spotify.com/track/3X5h9JHRn22bwysuTLVOXQ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Boogaloo Supreme](https://open.spotify.com/album/5Pce9doDhsmeD7QEuIsF98) | 3:28 |
 | 87 | [Una Mentirita](https://open.spotify.com/track/6ut8ePIEbWycmzEHXWU06p) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Friends & Legends](https://open.spotify.com/album/6ynC3pKZOdcjotW7NTFta1) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 99 | [Vamo' a Ver Si el Gas Pela \(feat\. Miky Woodz & Marvin Santiago\)](https://open.spotify.com/track/6UhC5S3GcFyHNcD2EX0zvi) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Marvin Santiago](https://open.spotify.com/artist/76h2ycGFYaAFYQgqdoOvVE) | [Vamo' a Ver Si el Gas Pela \(feat\. Miky Woodz & Marvin Santiago\)](https://open.spotify.com/album/6voTsTj7qktcItEfbyV5fH) | 3:04 |
 | 100 | [Los Recuerdos](https://open.spotify.com/track/2huEu8faRAhs0OAtTa5hpH) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Los Recuerdos](https://open.spotify.com/album/0xGbVhKSRFIzUFLDWsmJYV) | 2:41 |
 
-Snapshot ID: `MCxmODFmMzc1MmY3ODgwYmI2Zjg0OWQxODM3NDdlZWUyNTk3NTgxMTVl`
+Snapshot ID: `MCxlNzI3N2NiYmY0OWY3MTNiZjE5YjdjM2M2MDkxY2RiZjIwZjA1NWE0`

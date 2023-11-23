@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Hernan Cattaneo
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,464 likes - 35 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,697 likes - 35 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 34 | [El Deseo \(Original Mix\)](https://open.spotify.com/track/2Pb7uSQ6oDJnejWT7Sgyc4) | [Jime Ferreyra](https://open.spotify.com/artist/4f9usfrcaDpZxuRwzxtlNw) | [El Deseo \(Original Mix\)](https://open.spotify.com/album/4Y7BcT6MivF9iikS7A42q6) | 6:32 |
 | 35 | [Lullaby of the Seraphim](https://open.spotify.com/track/6wOP3IG5mrLCh4DH0K3VjF) | [Sebastian Sellares](https://open.spotify.com/artist/6ZEchPBO4Hl3X2H3gpP8T2) | [Lullaby of the Seraphim EP](https://open.spotify.com/album/5V8Z4wZ8RdRL5Omdr1xFBE) | 3:56 |
 
-Snapshot ID: `MCwzYjAyMGEzYzEwOWZjZmYzZjllYmMyN2E0OTAxZmQ0ZWE3MzdjMzhm`
+Snapshot ID: `MCxkZDkwYTU2NDcyYjMyNTliNTQ0MDM5Y2MzZDVlYjE0YjFjMWYzOWRj`

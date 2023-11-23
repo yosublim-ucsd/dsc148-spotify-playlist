@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Roxy Dekker
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,833 likes - 40 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,856 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [SKEU SKEU \(feat\. wilsko & 7ia\)](https://open.spotify.com/track/0sZEwII5Qe3r7izOgdOvLT) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [7ia](https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG) | [SKEU SKEU \(feat\. wilsko & 7ia\)](https://open.spotify.com/album/5RA05MgWTevAIscvEmiiww) | 3:01 |
 | 40 | [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 |
 
-Snapshot ID: `MCxhNGI4ZTg1YTliYjk4ZjU2MjE0MTQ1YzI5NTVhN2QwZjAyOTI3NzJj`
+Snapshot ID: `MCw5NDkwNGMwZWY0MzQ4NzRkM2U3YTRhZjAxMjRlNmJkY2FkM2NlOThi`

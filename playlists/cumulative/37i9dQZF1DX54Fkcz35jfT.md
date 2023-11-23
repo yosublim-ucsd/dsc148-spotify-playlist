@@ -4,7 +4,7 @@
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: オメでたい頭でなにより
 
-203 songs - 11 hr 47 min
+205 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Breakout](https://open.spotify.com/track/18khd1ouJWDsrs6pO9V1Oq) | [the twenties](https://open.spotify.com/artist/23d14imdoUIYJcQS1KgpPO), [タナカユーキ](https://open.spotify.com/artist/0Ty8GKQtnU6sZ5HSmilIy8) | [Breakout](https://open.spotify.com/album/68f3SfrCWSwwts0jGLH2DW) | 3:14 | 2023-11-21 |  |
 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 | 2023-10-03 |  |
 | [BUG](https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [BUG](https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP) | 3:51 | 2023-07-20 |  |
+| [Chin Age Negotiation](https://open.spotify.com/track/2DGJX6CxOTpXvYspATCQRg) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [Chin Age Negotiation](https://open.spotify.com/album/51Wg05oEpQ48VcwdskP7R7) | 4:02 | 2023-11-21 |  |
 | [Connector Fuck Man](https://open.spotify.com/track/4iqKxmIaivhpczzqgWwvwh) | [Texas 3000](https://open.spotify.com/artist/0vXeC8scvNvE6vIzpGTXeV) | [tx3k](https://open.spotify.com/album/0ZvwbbtzkhWNYwGuoccJ16) | 3:14 | 2023-11-14 |  |
 | [CRAZY BEAUTIFUL NIGHT](https://open.spotify.com/track/1BvsiUIXqmq0i7Fa8cC3LV) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [CRAZY BEAUTIFUL NIGHT](https://open.spotify.com/album/67xKEMSjfmnUn628A2FvYQ) | 3:38 | 2023-08-31 | 2023-11-01 |
 | [Dancer in the Dark](https://open.spotify.com/track/4ZOwl7AnpD3SSRQrZdvjBI) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [Dancer in the Dark](https://open.spotify.com/album/13LBymtNInylsgh2UBrzuh) | 2:55 | 2023-07-20 | 2023-08-10 |
@@ -55,6 +56,7 @@
 | [GROUNDSWELL](https://open.spotify.com/track/4REYshNixTxWSmDaEmA3aC) | [PassCode](https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo) | [GROUNDSWELL ep.](https://open.spotify.com/album/0N44vXI4msINfTkRBt38qH) | 3:57 | 2023-07-20 | 2023-11-22 |
 | [HAPPY BIRTHDAY](https://open.spotify.com/track/5NqAeabxsFbgyRxJGfdKM0) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 2:44 | 2023-10-24 | 2023-11-01 |
 | [HAPPY BIRTHDAY](https://open.spotify.com/track/7x7giWw9D02rZ29zrcVEth) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 2:44 | 2023-10-24 | 2023-10-26 |
+| [happy children](https://open.spotify.com/track/4h39SSDzbmP5T4AQg98SPF) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [the bercedes menz's happy children](https://open.spotify.com/album/2XRC5SjtH8mS9LhnAAtX0z) | 3:42 | 2023-11-21 |  |
 | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \- TV edit](https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \(TV edit\)](https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4) | 1:29 | 2023-07-20 |  |
 | [hedonist.](https://open.spotify.com/track/1ilxwybAc0Sd3Gwc4oRKgi) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [HEDONIST](https://open.spotify.com/album/2hJqttVXOCMHCGrfqkkuRl) | 2:55 | 2023-07-20 | 2023-11-22 |
 | [hellsong\. \(let it in\)](https://open.spotify.com/track/44c8cYVjTFqJ5Yj6WyjMSQ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [hellsong\. \(let it in\)](https://open.spotify.com/album/25BaXSn7LKFdhareEiMpjb) | 3:05 | 2023-07-20 |  |
@@ -185,7 +187,7 @@
 | [コイコガレ](https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [コイコガレ](https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu) | 3:35 | 2023-07-20 |  |
 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 | 2023-07-20 |  |
 | [ストラトキャスター シーサイド](https://open.spotify.com/track/49du8muj1Z8rgQ79oSDzE7) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [GIANTSTAMP](https://open.spotify.com/album/1jwFlxQGCk9MjlwTZVwmrj) | 3:12 | 2023-07-20 |  |
-| [チン♂アゲ⤴交渉中](https://open.spotify.com/track/2gL6fYOjVWCiJNgCmWkNJS) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [チン♂アゲ⤴交渉中](https://open.spotify.com/album/6nL65keILGOcGalS1eRcZl) | 4:02 | 2023-11-21 |  |
+| [チン♂アゲ⤴交渉中](https://open.spotify.com/track/2gL6fYOjVWCiJNgCmWkNJS) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [チン♂アゲ⤴交渉中](https://open.spotify.com/album/6nL65keILGOcGalS1eRcZl) | 4:02 | 2023-11-21 | 2023-11-23 |
 | [ディア・ライフ](https://open.spotify.com/track/112ACjUKFwxpu63VutgJlj) | [BruteRocks](https://open.spotify.com/artist/0gVgOgI0gZrGf3c1DQfB4r) | [SOUNDSCAPE](https://open.spotify.com/album/3XgYoL9XngiOQfU8djgAqQ) | 3:43 | 2023-08-15 | 2023-08-17 |
 | [ハッピーウェディング前ソング \- 2年以内に別れないver.](https://open.spotify.com/track/4yv1CAi0CXaLGMFnmwrNnq) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [ハッピーウェディング前ソング \(2年以内に別れないver.\)](https://open.spotify.com/album/4oKEQDyW0bVuES2JPlAhjd) | 3:49 | 2023-07-20 |  |
 | [ハローフィクサー](https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [10\-FEET入り口の10曲 2](https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw) | 3:23 | 2023-07-20 |  |
@@ -197,7 +199,7 @@
 | [寂寞 \-sekibaku\-](https://open.spotify.com/track/2CTniBM95HMN060rKGccXW) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:11 | 2023-08-31 |  |
 | [小さな恋のうた](https://open.spotify.com/track/39JQojOZro8C3Kt8Mhj42X) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/5jKI97DMyoiLeKEN4VSMOD) | 4:20 | 2023-10-24 |  |
 | [小さな恋のうた](https://open.spotify.com/track/5hVvF58sY57yb7O7G3g1yM) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [800TRIBUTE\-champloo is the BEST!!2\-](https://open.spotify.com/album/2zzC7u1h87UCWnnT60zTTm) | 4:20 | 2023-10-24 | 2023-10-26 |
-| [幸福な子供たち](https://open.spotify.com/track/6rr3ygGHMu7dV3vlCM1s9S) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [ザ・ベルセデス・メンツの幸福な子供たち](https://open.spotify.com/album/3PK43p0A0QZoch1Z5Fa50O) | 3:42 | 2023-11-21 |  |
+| [幸福な子供たち](https://open.spotify.com/track/6rr3ygGHMu7dV3vlCM1s9S) | [the bercedes menz](https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd) | [ザ・ベルセデス・メンツの幸福な子供たち](https://open.spotify.com/album/3PK43p0A0QZoch1Z5Fa50O) | 3:42 | 2023-11-21 | 2023-11-23 |
 | [恋のメガラバ](https://open.spotify.com/track/7cML1VOtaxsPH1EkktvVq6) | [コロナナモレモモ](https://open.spotify.com/artist/1LrHPFKVeA6Lw0vffeFZbr) | [恋のメガラバ / G'old〜en〜Guy \(D×D remix\) \[feat\. Misaki\]](https://open.spotify.com/album/3zf6cTsrsFWo0YyBdc7IsU) | 5:24 | 2023-07-20 |  |
 | [扉の向こう](https://open.spotify.com/track/5EMnOE5ZsMDWl6eQRCj2zY) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Catch Up](https://open.spotify.com/album/7xmycezoMiRbUKwZ50B3CH) | 3:56 | 2023-10-10 |  |
 | [曖昧](https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [曖昧](https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY) | 3:42 | 2023-07-20 |  |

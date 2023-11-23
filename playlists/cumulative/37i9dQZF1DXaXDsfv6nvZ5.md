@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-407 songs - 1 day 0 hr 34 min
+408 songs - 1 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [Monsters in the Closet](https://open.spotify.com/track/7kgzjkFZ3yfpWB4GixJpzC) | [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD) | [Monsters in the Closet](https://open.spotify.com/album/6mTjJt9wjKBjTRh7KgHiQz) | 3:43 | 2023-09-01 |  |
 | [Moonlight](https://open.spotify.com/track/3hIpTc5IwchQUWJkzLXDfK) | [Samoht](https://open.spotify.com/artist/25uXu4OnYB9IH9GI6OgxsK) | [Moonlight](https://open.spotify.com/album/33Eg1v4Pw6xVs7IaZz9qWZ) | 3:06 | 2023-08-11 | 2023-09-09 |
 | [More Than a Love Song](https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than a Love Song](https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX) | 4:47 | 2023-08-25 |  |
-| [Mrs\. Postman](https://open.spotify.com/track/0RmDnoikD0DgBBcXsrt1qN) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Mrs\. Postman](https://open.spotify.com/album/6ku3r5n7dUQAXadxQ9ggZe) | 4:08 | 2023-09-29 |  |
+| [Mrs\. Postman](https://open.spotify.com/track/0RmDnoikD0DgBBcXsrt1qN) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Mrs\. Postman](https://open.spotify.com/album/6ku3r5n7dUQAXadxQ9ggZe) | 4:08 | 2023-09-29 | 2023-11-23 |
 | [Mulholland Drive](https://open.spotify.com/track/70RUzztH81zpAMm9jbMLDi) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t), [LaToiya Williams](https://open.spotify.com/artist/6w71vXwHI2Oz6I5OO41tRM) | [Snoop Dogg Presents Death Row Summer 2022](https://open.spotify.com/album/78R84o4n1a3LxcdzgGZKfC) | 3:41 | 2023-02-10 | 2023-10-07 |
 | [Music](https://open.spotify.com/track/6Watx1YhBZeISowqXK3YGq) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 6:10 | 2022-10-03 | 2023-08-26 |
 | [My Baby Just Cares for Me](https://open.spotify.com/track/63GvtdKbAbi2feQxp0DBpA) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Ledisi Sings Nina](https://open.spotify.com/album/0uRNGjcdUeOG9aekGr1cvc) | 3:39 | 2021-12-03 | 2022-07-29 |
@@ -404,6 +404,7 @@
 | [What Do You Do](https://open.spotify.com/track/76To8vko0V30a8PT3q312Z) | [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [What Do You Do](https://open.spotify.com/album/2kgnbjCeCHMHOsPwxay0ue) | 3:08 | 2023-09-08 | 2023-10-12 |
 | [What It Is](https://open.spotify.com/track/2CJfHjywgcczXQi6Dosw8Q) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [What It Is](https://open.spotify.com/album/3v6186rgsWFvZxf0Sj7DHS) | 5:25 | 2021-12-03 | 2023-05-21 |
 | [What Love Can Do \[Feat\. Emily King\]](https://open.spotify.com/track/6U0xzYsrXAyWYA6CmkFSJb) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [What Love Can Do \[Feat\. Emily King\]](https://open.spotify.com/album/2jAju7615SAS3Lag8ckUTs) | 3:50 | 2023-06-30 | 2023-08-26 |
+| [Whatcha Done Now](https://open.spotify.com/track/76x90uvlD8lQ9SRr2FeAKx) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [Thought U Knew](https://open.spotify.com/album/21hotFpTsSBEofaYnbecMQ) | 3:31 | 2023-10-27 |  |
 | [Whatcha Know](https://open.spotify.com/track/50xfWsLVNNvXYdeLbdT0lz) | [Bobby Oroza](https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ), [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Whatcha Know](https://open.spotify.com/album/0w7NTBLYYYWY5fabjAUyhZ) | 3:54 | 2023-06-16 |  |
 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 | 2022-10-03 |  |
 | [When You Were Mine](https://open.spotify.com/track/3zSwFE91EdwhEwS6vnJohB) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:23 | 2021-12-03 | 2023-04-01 |

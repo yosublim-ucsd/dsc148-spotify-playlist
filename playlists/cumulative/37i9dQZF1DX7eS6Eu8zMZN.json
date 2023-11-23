@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "Ecos y Ruido",
+        "url": "https://open.spotify.com/album/7yMKIXccKrlZt7A9EbLlgW"
+      },
+      "artists": [
+        {
+          "name": "Kill Aniston",
+          "url": "https://open.spotify.com/artist/4ltjTwCiYMegbR6ZA3Jbor"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216234,
+      "name": "Ecos y Ruido",
+      "url": "https://open.spotify.com/track/1u2aFq1CWNi97H2JQlYRKW"
+    },
+    {
+      "album": {
         "name": "El Amor Despues Del Amor",
         "url": "https://open.spotify.com/album/3u8jj80tHV1wlNcrT4QEdI"
       },

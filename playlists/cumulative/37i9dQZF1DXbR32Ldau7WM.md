@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now! Cover: PUFFY
 
-872 songs - 2 day 9 hr 59 min
+873 songs - 2 day 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,8 @@
 | [Lonely Girl, Dreaming Girl](https://open.spotify.com/track/6oHJLXkgQIlpoTD0vMbX0r) | [PORTABLE ROCK](https://open.spotify.com/artist/1vKnlXAnuztfdvpAsZ3yDg) | [Lonely Girl, Dreaming Girl](https://open.spotify.com/album/6TaeLymFoZzPRnxBgSzkSy) | 3:43 | 2022-05-10 | 2022-05-18 |
 | [LONG LIVE ROCK](https://open.spotify.com/track/08GmQyjnL0kkMUuzaYsOFo) | [Radio Caroline](https://open.spotify.com/artist/5HtJaOrfES9nYNOPSyiXwX) | [High Tide](https://open.spotify.com/album/0jW26wQcK5ZviH3M9rGlUV) | 4:10 | 2023-09-12 | 2023-09-14 |
 | [Long Live Rock](https://open.spotify.com/track/7IYrXDZhuYP1O3k7UUxWAf) | [Radio Caroline](https://open.spotify.com/artist/5HtJaOrfES9nYNOPSyiXwX) | [High Tide](https://open.spotify.com/album/1XjgZE1HSKJxITFxH5RMX4) | 4:10 | 2023-09-12 | 2023-09-20 |
-| [LOST](https://open.spotify.com/track/6aVfbXl9xV7de7vaFxnYb6) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [LOST](https://open.spotify.com/album/5LAeTXhPrXuYtoufcplUDu) | 4:03 | 2023-11-21 |  |
+| [LOST](https://open.spotify.com/track/6oNx3YLmwhEY3QxcJBugzU) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GET BACK](https://open.spotify.com/album/3hZAZRM8TWSL3Hby4t2myS) | 4:02 | 2023-11-21 |  |
+| [LOST](https://open.spotify.com/track/6aVfbXl9xV7de7vaFxnYb6) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [LOST](https://open.spotify.com/album/5LAeTXhPrXuYtoufcplUDu) | 4:03 | 2023-11-21 | 2023-11-23 |
 | [LOST](https://open.spotify.com/track/4MqmrcRFEFv2xkQLZWaCWf) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 3:43 | 2023-11-08 |  |
 | [LOTUS](https://open.spotify.com/track/2ltQSZL2wJ7tZGI9iuEgKP) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [LOTUS](https://open.spotify.com/album/4FCFA4Jhv12f4DSemJgtsN) | 5:26 | 2023-08-22 | 2023-09-13 |
 | [LOTUS](https://open.spotify.com/track/4qDe8F9LpIIvd7xN2sJzN5) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [LOTUS](https://open.spotify.com/album/1g8SzxU5rOWw2X0yCZ9A39) | 5:26 | 2023-08-22 | 2023-08-24 |
@@ -667,7 +668,7 @@
 | [ハイパーイメージ](https://open.spotify.com/track/5higKPhcN5wzx2IqafqalE) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [ハイパーイメージ](https://open.spotify.com/album/5aIKLPM4ONVaodAX2Dt3Z8) | 2:30 | 2023-03-14 | 2023-05-10 |
 | [ハイファイ浪漫](https://open.spotify.com/track/39rZNXJgXj6VssiJ1X65pe) | [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD) | [ハイファイ浪漫](https://open.spotify.com/album/5FElR81kIAr80LWcqgeATr) | 3:05 | 2023-08-15 | 2023-09-13 |
 | [ハルジオン](https://open.spotify.com/track/71I3KFTKzYz1qi3SBctusp) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ハルジオン](https://open.spotify.com/album/49qXfXRHzvvCaGOnSTFCST) | 3:58 | 2023-03-30 |  |
-| [ハローフィクサー](https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [10\-FEET入り口の10曲 2](https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw) | 3:23 | 2023-09-12 | 2023-10-11 |
+| [ハローフィクサー](https://open.spotify.com/track/5Dv0DjR4PlyGgUZhnBEpkh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [10\-FEET入り口の10曲 2](https://open.spotify.com/album/3aTZAzTcYFO4fl35mqwdLw) | 3:23 | 2023-09-12 |  |
 | [バイオレンス](https://open.spotify.com/track/5UIFfwovmONqXqzHmscIj5) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [バイオレンス](https://open.spotify.com/album/4ci2aR3GoukVAmJwIfaQ61) | 3:52 | 2022-12-20 |  |
 | [バカサバイバー V](https://open.spotify.com/track/4BjsxmjxBTSRb6U35osAKB) | [Ulfuls](https://open.spotify.com/artist/6e9Wgn2800cCQcM0b4cNwt) | [フル盤](https://open.spotify.com/album/1SpfLV0prn6F8ee2LniWi5) | 4:13 | 2022-05-12 | 2022-06-08 |
 | [バニラ](https://open.spotify.com/track/5vLpv8cGMdqRACES2z33gG) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj) | [バニラ](https://open.spotify.com/album/1t4hfGiNU92vuBhu625JVp) | 3:15 | 2023-01-17 | 2023-01-19 |
@@ -681,7 +682,7 @@
 | [フェイクドラマ](https://open.spotify.com/track/442pMIC5EsDrhR8oNTF6qr) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [最後に残るもの](https://open.spotify.com/album/7EgengpE1IcBrCnlN04J3r) | 3:47 | 2023-10-03 | 2023-10-05 |
 | [フェノメナルマン](https://open.spotify.com/track/5kgEllLZhQRrQjG90PWH7r) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [フェノメナルマン](https://open.spotify.com/album/00v55UgAPns2pZv2NV0DZq) | 3:00 | 2023-04-18 | 2023-04-20 |
 | [ブラッドサーキュレーター](https://open.spotify.com/track/2sFBiCSUNc3ptKrCR8JABx) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [BEST HIT AKG 2 \(2012\-2018\)](https://open.spotify.com/album/1z1fiHGAKZmCXcZCRH1fma) | 3:42 | 2023-06-27 | 2023-07-12 |
-| [プラネタリア](https://open.spotify.com/track/1m0rRTBTKBCiXDkNdEKbYo) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [プラネタリア](https://open.spotify.com/album/17uYpGkXy9NB1RBzHVB7Ri) | 4:33 | 2023-10-10 |  |
+| [プラネタリア](https://open.spotify.com/track/1m0rRTBTKBCiXDkNdEKbYo) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [プラネタリア](https://open.spotify.com/album/17uYpGkXy9NB1RBzHVB7Ri) | 4:33 | 2023-10-10 | 2023-11-23 |
 | [プログレッシブ](https://open.spotify.com/track/10v3G61N0AiAdSKH9r3h7m) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1) | [YF 下](https://open.spotify.com/album/2K5jyDDqgCrrdZgsLps6Pl) | 3:44 | 2022-05-19 | 2022-06-10 |
 | [ペンペン](https://open.spotify.com/track/30AYmvC7pCwHKJZFnPE0Mp) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [ペンペン](https://open.spotify.com/album/4KvWjVts1YRnAB3CrXVOyw) | 4:21 | 2022-07-05 | 2022-07-13 |
 | [ホネホネフェスロード](https://open.spotify.com/track/1mvxF2mVZmSzEXWjxHUoII) | [Keita The Newest](https://open.spotify.com/artist/5lWQCVtFD3JBNC9Z1ohCEh) | [amable muy muy](https://open.spotify.com/album/6Lyui5eCX7NbYFiF4qhKIH) | 3:12 | 2023-11-08 | 2023-11-18 |

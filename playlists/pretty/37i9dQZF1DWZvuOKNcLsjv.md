@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,353 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,385 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 60 | [Sake Wo Nondemo Kami Niwa Narenai](https://open.spotify.com/track/5VJJUOxZXhYifWnr7oUSSs) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Rock Wa Gawaii](https://open.spotify.com/album/3CVU86j1QXprlZbLXpsBgu) | 2:07 |
 | 61 | [無限さ](https://open.spotify.com/track/5hXzy6s8VF91bebMSzsd8O) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [無限さ](https://open.spotify.com/album/69vfAcogRrDZ6sHa9zoGjZ) | 4:01 |
 | 62 | [Golden Child](https://open.spotify.com/track/6a2uNYgQdLyUmi2HOH321M) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Golden Child](https://open.spotify.com/album/45jtyAD4KW3lmbDpE9NeRa) | 4:03 |
-| 63 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
+| 63 | [The Glass](https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Glass](https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm) | 3:31 |
 | 64 | [Lowkey](https://open.spotify.com/track/0Lp9XhHntpJRwm3K0r5TDT) | [DJ KANJI](https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN), [MALIYA](https://open.spotify.com/artist/1HpL1Q0ixotgDFMm7ZlRDU), [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [Lowkey](https://open.spotify.com/album/4mjWtLPXnxZAihOkBJNtvf) | 3:56 |
 | 65 | [Guiding Light \(Anniversary Edition\) \[feat\. Ed Sheeran, Elton John & Keith Urban\]](https://open.spotify.com/track/41MKUzpEvc5u6WVjA2hbs6) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Guiding Light \(Anniversary Edition\) \[feat\. Ed Sheeran, Elton John & Keith Urban\]](https://open.spotify.com/album/1JHWyIN9UgLDvkLQ3ckaO9) | 5:56 |
 | 66 | [Strangers In The Night](https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Strangers In The Night](https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Sweet Venom](https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 2:28 |
 | 100 | [Superman](https://open.spotify.com/track/3R0VkHQ4az4AhbZP2KHFfF) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Superman](https://open.spotify.com/album/6TNjfpFlH6GqH8ZIUp7ziV) | 3:29 |
 
-Snapshot ID: `MCw4ZWM0YWE1NWE1MDMzNzVmNGJjNTFjYjlmYTdhZGFkZGM5OGRhMjll`
+Snapshot ID: `MCwwMmM4MWQ3ZjQzYmQ1MDdlMzA0MGJhOGRhOTY5NjllYjVmYTQ0OGZh`

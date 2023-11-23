@@ -124,10 +124,28 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 141506,
       "name": "All Day and All of the Night",
       "url": "https://open.spotify.com/track/78JmElAFmrPNhLjovDR9Jm"
+    },
+    {
+      "album": {
+        "name": "Kinks (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6HrqKlhAQiv4GjFjwmuxDQ"
+      },
+      "artists": [
+        {
+          "name": "The Kinks",
+          "url": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142226,
+      "name": "All Day and All of the Night",
+      "url": "https://open.spotify.com/track/1mfV2kv9RwFKVI8kEQlmOJ"
     },
     {
       "album": {
@@ -2023,6 +2041,24 @@
     },
     {
       "album": {
+        "name": "Dr. Feelgood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282653,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy"
+    },
+    {
+      "album": {
         "name": "Dr. Feelgood",
         "url": "https://open.spotify.com/album/6pL7kL9cOc0DpWCq6qJtxQ"
       },
@@ -3838,7 +3874,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 191669,
       "name": "Viva La Victoria",
       "url": "https://open.spotify.com/track/2MC57MCOiCz2UGskL2uCVF"

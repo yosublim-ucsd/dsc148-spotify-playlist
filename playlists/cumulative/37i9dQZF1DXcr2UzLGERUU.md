@@ -4,7 +4,7 @@
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-149 songs - 8 hr 9 min
+150 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,8 +49,9 @@
 | [Goodbye Sun, Hello Moon](https://open.spotify.com/track/6btBus1HKjmT0JhXY0Qo3Y) | [The Beanies](https://open.spotify.com/artist/1RxCxHiHxD1XN9Jp6LVIkm) | [Goodbye Sun, Hello Moon](https://open.spotify.com/album/3aoYs8itExQbGs4y2vnizg) | 3:34 | 2023-01-20 | 2023-04-09 |
 | [Halo](https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Linnea Olsson](https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0) | [Rarities](https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP) | 3:52 | 2022-04-01 |  |
 | [Heart of Mine](https://open.spotify.com/track/6QBMx8FuorZiRIDHhQaJ3R) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [Littlefolk](https://open.spotify.com/album/674KI3TgFhWEbUfOa36IqT) | 1:59 | 2022-04-01 |  |
+| [Here Comes the Sun](https://open.spotify.com/track/1xbHo1GPXcfbw3lg9ImsNL) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Yesterday](https://open.spotify.com/album/5wA9NBMfYM8cv3Wa3b7Xye) | 2:21 | 2023-07-12 |  |
 | [Here Comes the Sun](https://open.spotify.com/track/4h9DsTf9n0cizUc0x3ljHP) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Here Comes the Sun](https://open.spotify.com/album/42TfoBfETVrKwCXZ9nBkTc) | 2:21 | 2022-04-01 | 2023-05-23 |
-| [Here Comes the Sun](https://open.spotify.com/track/6fRGlpbaHqgJpRirqWKif7) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Here Comes the Sun](https://open.spotify.com/album/2GXqBtE35cbS4TKzm5Tlb1) | 2:21 | 2023-04-19 |  |
+| [Here Comes the Sun](https://open.spotify.com/track/6fRGlpbaHqgJpRirqWKif7) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Here Comes the Sun](https://open.spotify.com/album/2GXqBtE35cbS4TKzm5Tlb1) | 2:21 | 2023-04-19 | 2023-11-23 |
 | [Hide and Seek](https://open.spotify.com/track/3ih4P7s29EH3syPXMBWE4D) | [Justin Roberts](https://open.spotify.com/artist/0gPiY8YtQXCp3arXBVFUk5) | [Wild Life](https://open.spotify.com/album/0qYRZ1gdZm5eaXcGpNKtLx) | 4:05 | 2022-04-01 |  |
 | [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 | 2022-04-01 |  |
 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 | 2022-04-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: CASTAWAY DIVA\(무인도의 디바\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,537,087 likes - 101 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,537,252 likes - 101 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 100 | [wander](https://open.spotify.com/track/5gzuXMBkHADurR2quS47Dg) | [Mew](https://open.spotify.com/artist/4Y74dNwvq5TMzDHMtlcmYI) | [Romance by Romance \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6w4JkTuZJG5jo0IbORpCjC) | 4:07 |
 | 101 | [cracked](https://open.spotify.com/track/2HlTb0DQEKxcr2755iNRzh) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY) | [Oh! Youngsim Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5dtQrhiiDad61r0TQq2Jlm) | 3:42 |
 
-Snapshot ID: `MCxhZmU2YTBlNGFkZGZhYzFmMTQyNWVjMGY0Y2ZmODQwMWIzMmZlMTdi`
+Snapshot ID: `MCwyMDFlMGIwZGQ5MTliMDc0MTRlNzQ1MmFkZTFhOTY2ZTdlMDM1OGVj`

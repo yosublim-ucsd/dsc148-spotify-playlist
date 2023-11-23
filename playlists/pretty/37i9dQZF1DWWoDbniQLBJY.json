@@ -1,12 +1,12 @@
 {
   "description": "Pop ac\u00fastico para tu d\u00eda.",
-  "num_followers": 1994376,
+  "num_followers": 1994373,
   "original_name": "Mediod\u00eda Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDM4OTlmYzkzMzRmODAyOWY1ZTRlNDdiYmJkODU5ODRhOTBkMjAz",
+  "snapshot_id": "MCxmYmM3ZDM2M2QxNDFmM2NkYzM1NTAzNjdjOTI4YzQzYWVjMWQyNmVk",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "desde que estas en mi vida",
+        "url": "https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX"
+      },
+      "artists": [
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "desde que estas en mi vida",
+      "url": "https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "El Embrujo",
         "url": "https://open.spotify.com/album/0LcKYsPViudGlqmWEoIvH7"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 238533,
       "name": "El Embrujo",
       "url": "https://open.spotify.com/track/6GM7WCa0accugI9b2JTeix"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "desde que estas en mi vida",
-        "url": "https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX"
-      },
-      "artists": [
-        {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "desde que estas en mi vida",
-      "url": "https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas M\u00e1s (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/7EHPmV9Jm3PIc0SK90ISIR"
+        "name": "Planeando Madrid",
+        "url": "https://open.spotify.com/album/6nKhhgRiT0icKwW12lgVKS"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
         }
       ],
-      "duration_ms": 231990,
-      "name": "C\u00f3mo Te Atreves - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/1hGcChJGpozz03cXw0aOjB"
+      "duration_ms": 252736,
+      "name": "Planeando Madrid",
+      "url": "https://open.spotify.com/track/6SreMzzAJ5OFN396IJnBlq"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Planeando Madrid",
-        "url": "https://open.spotify.com/album/6nKhhgRiT0icKwW12lgVKS"
+        "name": "Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas M\u00e1s (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/7EHPmV9Jm3PIc0SK90ISIR"
       },
       "artists": [
         {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 252736,
-      "name": "Planeando Madrid",
-      "url": "https://open.spotify.com/track/6SreMzzAJ5OFN396IJnBlq"
+      "duration_ms": 231990,
+      "name": "C\u00f3mo Te Atreves - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1hGcChJGpozz03cXw0aOjB"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 400826,
-      "name": "No Ha Parado de Llover - Unplugged",
-      "url": "https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Afuera Del Planeta (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/19DNQdTzFuC9krn1bpvwfh"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 261376,
       "name": "Afuera Del Planeta - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0vwACLG2ywcWZtLZyIxf1e"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 400826,
+      "name": "No Ha Parado de Llover - Unplugged",
+      "url": "https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/0COUHCrbpLcVNCI8ITVMhi"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 281640,
-      "name": "No Lo So\u00f1\u00e9 - Version Acustico",
-      "url": "https://open.spotify.com/track/6chtkBSmt7RorTFD8EQtXx"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Tr3s Presents Juanes MTV Unplugged",
         "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 269360,
       "name": "Volverte A Ver - MTV Unplugged",
       "url": "https://open.spotify.com/track/5ZGKfUrzXHHn3JIn2hfKV0"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/0COUHCrbpLcVNCI8ITVMhi"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 281640,
+      "name": "No Lo So\u00f1\u00e9 - Version Acustico",
+      "url": "https://open.spotify.com/track/6chtkBSmt7RorTFD8EQtXx"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 264106,
+      "name": "Es Por T\u00ed - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5AWXkO3VM6LjcRuWNMw8WA"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "V\u00e9rtigo",
         "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
       },
@@ -1203,38 +1219,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Me Haces Falta",
-        "url": "https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 215332,
-      "name": "Me Haces Falta",
-      "url": "https://open.spotify.com/track/59ebZTJzcCoO8vc5El0YJx"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 264106,
-      "name": "Es Por T\u00ed - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5AWXkO3VM6LjcRuWNMw8WA"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "No Valgo Pa' Ciudad",
         "url": "https://open.spotify.com/album/6inO88KEzGOsZxOYAvRsr2"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 186440,
       "name": "No Valgo Pa' Ciudad",
       "url": "https://open.spotify.com/track/4rf696AmoiPsggWktpSyX5"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Me Haces Falta",
+        "url": "https://open.spotify.com/album/1Wzk17m6qpnIduGOGhXxhS"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 215332,
+      "name": "Me Haces Falta",
+      "url": "https://open.spotify.com/track/59ebZTJzcCoO8vc5El0YJx"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Los Mejores A\u00f1os (live desde londres)",
+        "url": "https://open.spotify.com/album/5LZQ3vxuDByVJhOXcO5SFx"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "Los Mejores A\u00f1os - live desde londres",
+      "url": "https://open.spotify.com/track/03BlpWvq9i3TroZwE9pDqW"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "azul",
         "url": "https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK"
       },
@@ -1391,26 +1407,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Qu\u00e9 Dulce",
-        "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
-      },
-      "artists": [
-        {
-          "name": "Jorge Caj\u00edas",
-          "url": "https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe"
-        },
-        {
-          "name": "Claudia Prieto",
-          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
-        }
-      ],
-      "duration_ms": 133666,
-      "name": "Qu\u00e9 Dulce",
-      "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Si Te Soy M\u00e1s Sincera",
         "url": "https://open.spotify.com/album/3j5jBheSpnsonl8m8Fdga3"
       },
@@ -1427,18 +1423,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Los Mejores A\u00f1os (live desde londres)",
-        "url": "https://open.spotify.com/album/5LZQ3vxuDByVJhOXcO5SFx"
+        "name": "Qu\u00e9 Dulce",
+        "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
       "artists": [
         {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+          "name": "Jorge Caj\u00edas",
+          "url": "https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe"
+        },
+        {
+          "name": "Claudia Prieto",
+          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
         }
       ],
-      "duration_ms": 205066,
-      "name": "Los Mejores A\u00f1os - live desde londres",
-      "url": "https://open.spotify.com/track/03BlpWvq9i3TroZwE9pDqW"
+      "duration_ms": 133666,
+      "name": "Qu\u00e9 Dulce",
+      "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Los Cuatro Actos Ac\u00fasticos",
+        "url": "https://open.spotify.com/album/0vblYQ4Zj7ct5R4Yh6cmpH"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 260709,
+      "name": "Ansiedad - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7Aoej8eo1drIzrbzlbzwBL"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "rimas del verbo amar",
         "url": "https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 187666,
       "name": "tensi\u00f3n",
       "url": "https://open.spotify.com/track/17POGo5ALqlJWhUhmH7Zbq"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Los Cuatro Actos Ac\u00fasticos",
-        "url": "https://open.spotify.com/album/0vblYQ4Zj7ct5R4Yh6cmpH"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 260709,
-      "name": "Ansiedad - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/7Aoej8eo1drIzrbzlbzwBL"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1647,6 +1647,26 @@
       "duration_ms": 223634,
       "name": "La Parte Buena",
       "url": "https://open.spotify.com/track/7qXpn9MV3tBoEWI7kr13rQ"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Antes de Dormir EP (feat. Betsayda Machado)",
+        "url": "https://open.spotify.com/album/45RGMyNXyrwo3dB9fe9ZKY"
+      },
+      "artists": [
+        {
+          "name": "Los Amigos Invisibles",
+          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
+        },
+        {
+          "name": "Alvaro Paiva-Bimbo",
+          "url": "https://open.spotify.com/artist/6xDnFHAdyxSODNZWkS5jYC"
+        }
+      ],
+      "duration_ms": 188948,
+      "name": "No se me Olvid\u00f3 - Ac\u00fastica (feat. Alvaro Paiva-Bimbo)",
+      "url": "https://open.spotify.com/track/0s9MgbxqFjOrGQSXWdTCeD"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1715,26 +1735,6 @@
       "duration_ms": 95000,
       "name": "Mocca",
       "url": "https://open.spotify.com/track/55TZBuEIVVCIAKMmITvrFe"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Velero",
-        "url": "https://open.spotify.com/album/7tBeAWDG3WD9AtaxpAjpU4"
-      },
-      "artists": [
-        {
-          "name": "Matt Hunter",
-          "url": "https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU"
-        },
-        {
-          "name": "Jambene",
-          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
-        }
-      ],
-      "duration_ms": 136595,
-      "name": "Velero",
-      "url": "https://open.spotify.com/track/4mQ4EM1rxdOo7Cc9g5dXK2"
     }
   ],
   "unique_name": "Mediod\u00eda Ac\u00fastico",

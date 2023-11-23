@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Elijah Malik, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Almost Twins, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 222000,
       "name": "Ashes of Yesterday's Moan",
       "url": "https://open.spotify.com/track/6ezhcFNOBy2uhmmdagj0td"
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 182373,
       "name": "Blank Page",
       "url": "https://open.spotify.com/track/7n3PGud6gQWS5GnFF8SAbb"
@@ -3662,7 +3662,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 156635,
       "name": "Death of Me",
       "url": "https://open.spotify.com/track/3RMan0n6vZvlj5rzZNtJIa"
@@ -4294,6 +4294,24 @@
       "duration_ms": 206550,
       "name": "Dreamy Choices",
       "url": "https://open.spotify.com/track/69Q1bQjUYgC4EjOdrKmzGG"
+    },
+    {
+      "album": {
+        "name": "Dreiklang",
+        "url": "https://open.spotify.com/album/2iMh2geraJTL5Q2VQLlBNK"
+      },
+      "artists": [
+        {
+          "name": "THORE",
+          "url": "https://open.spotify.com/artist/4r4K9z8DHNLLCc8ki4zQlc"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Dreiklang",
+      "url": "https://open.spotify.com/track/5gJmyxlQ5lq1iToOTKDHyu"
     },
     {
       "album": {
@@ -5196,7 +5214,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 135600,
       "name": "eye to eye",
       "url": "https://open.spotify.com/track/19RHyDJTYWnZq54f3UyCgl"
@@ -6389,6 +6407,24 @@
     },
     {
       "album": {
+        "name": "GRABSTEIN",
+        "url": "https://open.spotify.com/album/7vVLnlKLsV2lh0NG0n72Fx"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/5PqS9LhXCibpyrm40qj1oo"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221880,
+      "name": "GRABSTEIN",
+      "url": "https://open.spotify.com/track/1RiGefQULGy2hGbWBWKZNU"
+    },
+    {
+      "album": {
         "name": "Granada",
         "url": "https://open.spotify.com/album/206hIggGHXiI2Svlm6kpAm"
       },
@@ -6754,6 +6790,24 @@
       "duration_ms": 198361,
       "name": "Hand im Gesicht",
       "url": "https://open.spotify.com/track/0UMR8OqNIvYB2kdB20Lae3"
+    },
+    {
+      "album": {
+        "name": "Hands / Trees",
+        "url": "https://open.spotify.com/album/3QMOytePrNdnXvijYm9nnL"
+      },
+      "artists": [
+        {
+          "name": "Almost Twins",
+          "url": "https://open.spotify.com/artist/7xe5zbkg4tKrRQAAmscgQg"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234667,
+      "name": "Hands / Trees",
+      "url": "https://open.spotify.com/track/016uLcvrFGSOuXdoER26C9"
     },
     {
       "album": {
@@ -7176,6 +7230,24 @@
       "duration_ms": 209750,
       "name": "High Again",
       "url": "https://open.spotify.com/track/6suMLfjKlzmYgPb5SiV0Rs"
+    },
+    {
+      "album": {
+        "name": "High Expectations",
+        "url": "https://open.spotify.com/album/22du9HwMI8OBYb30fGFiRJ"
+      },
+      "artists": [
+        {
+          "name": "Mimi",
+          "url": "https://open.spotify.com/artist/1L2ghKGdjCxlemka3gOyif"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169017,
+      "name": "High Expectations",
+      "url": "https://open.spotify.com/track/6Itg1Mx1mNAUVaSS7Q3LmS"
     },
     {
       "album": {
@@ -9916,7 +9988,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 191351,
       "name": "Meine Rose",
       "url": "https://open.spotify.com/track/6Z1Rs9XbrROuCAL54anKnK"
@@ -10968,7 +11040,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 180194,
       "name": "None Of Us Cannot Be Wrong",
       "url": "https://open.spotify.com/track/1OuQcvuG8ANnmpZmBXuy3R"
@@ -11026,7 +11098,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 133000,
       "name": "Notarzt",
       "url": "https://open.spotify.com/track/3nICvZhpfVdxoUrmNSuRow"
@@ -13523,6 +13595,24 @@
     },
     {
       "album": {
+        "name": "Shillings",
+        "url": "https://open.spotify.com/album/0Uu9c38GWgsgRdlNd26mbU"
+      },
+      "artists": [
+        {
+          "name": "Noum",
+          "url": "https://open.spotify.com/artist/28j3pb4XKdlLKDAmzlSQ3u"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274368,
+      "name": "Shillings",
+      "url": "https://open.spotify.com/track/1oOqyRlTmo6RW6OkZec2MG"
+    },
+    {
+      "album": {
         "name": "EKDYSIS",
         "url": "https://open.spotify.com/album/5zagbC3OcyGCa3tFyh81Gc"
       },
@@ -13888,6 +13978,28 @@
       "duration_ms": 185063,
       "name": "Snow",
       "url": "https://open.spotify.com/track/3YfVl8ppe0M4nM3ROyBS6D"
+    },
+    {
+      "album": {
+        "name": "so drunk",
+        "url": "https://open.spotify.com/album/4eJOvEk3Q7mLwf3aiVKiry"
+      },
+      "artists": [
+        {
+          "name": "oaielup",
+          "url": "https://open.spotify.com/artist/5nAVw3Sdh3uMjGooMoKwoU"
+        },
+        {
+          "name": "TALYA",
+          "url": "https://open.spotify.com/artist/3pERWvcXQcstiJ8KV7IB5B"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219162,
+      "name": "so drunk",
+      "url": "https://open.spotify.com/track/3AVrRviYQWsZW7j2tt4FsN"
     },
     {
       "album": {
@@ -14967,6 +15079,24 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/1wR8GmaQ6xYVL1i1918Ilw"
+      },
+      "artists": [
+        {
+          "name": "gome",
+          "url": "https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233346,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/7tRVTrvTIpYC15QvLkI3Tv"
+    },
+    {
+      "album": {
         "name": "Tell Me One Lie",
         "url": "https://open.spotify.com/album/1B9VQ8HIZdeZEzd5F3iJB8"
       },
@@ -15498,7 +15628,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 192693,
       "name": "tiramisu",
       "url": "https://open.spotify.com/track/6XrJtVLKuLXp48TIp0F6N4"
@@ -16245,6 +16375,24 @@
     },
     {
       "album": {
+        "name": "Up & Down",
+        "url": "https://open.spotify.com/album/4tfcu5MC02QiiC6qbdtmdE"
+      },
+      "artists": [
+        {
+          "name": "Yeshi",
+          "url": "https://open.spotify.com/artist/4n4EtEvCABdRWbhGtre2v9"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/3HGMq458kM7EqMATTj3hHC"
+    },
+    {
+      "album": {
         "name": "Up and Away",
         "url": "https://open.spotify.com/album/2ERdLrGZOF7cduTv92k3z1"
       },
@@ -16675,6 +16823,24 @@
     },
     {
       "album": {
+        "name": "waves",
+        "url": "https://open.spotify.com/album/5xw1cTfnB0a5GLobn8PXPv"
+      },
+      "artists": [
+        {
+          "name": "humming people",
+          "url": "https://open.spotify.com/artist/7JLJAI78pOhwRdnI3duuKN"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228964,
+      "name": "waves",
+      "url": "https://open.spotify.com/track/6rx3c4Nq86l0FHDCrc94XB"
+    },
+    {
+      "album": {
         "name": "We Didn't Fit Together At All",
         "url": "https://open.spotify.com/album/5h0iJ7s2AySm2OuZdBirwV"
       },
@@ -16690,6 +16856,24 @@
       "duration_ms": 179718,
       "name": "We Didn't Fit Together At All",
       "url": "https://open.spotify.com/track/6051tQ7EVkAuRshp4le6Tf"
+    },
+    {
+      "album": {
+        "name": "Weaponized Ideas",
+        "url": "https://open.spotify.com/album/1aXb1g8t1SkJdaH5fLVjfH"
+      },
+      "artists": [
+        {
+          "name": "Vide Obscur",
+          "url": "https://open.spotify.com/artist/6W0zjQHDYZkU1rbvzhe8AM"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254370,
+      "name": "Weaponized Ideas",
+      "url": "https://open.spotify.com/track/3Ej4Noio8YNpBvSPKxJhhI"
     },
     {
       "album": {
@@ -17418,7 +17602,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 254500,
       "name": "www she hot",
       "url": "https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH"
@@ -17696,7 +17880,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 300285,
       "name": "Zecon",
       "url": "https://open.spotify.com/track/7lAWdjHtUZc3uWcTrjIHhO"

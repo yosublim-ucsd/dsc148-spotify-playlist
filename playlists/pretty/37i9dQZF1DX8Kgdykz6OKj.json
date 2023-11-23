@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1197566,
+  "num_followers": 1197928,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmY2MjkxN2Y2ZTY0ZWVjOThjZmRlZjI5M2Q0MzIzM2RjZTQzMjYz",
+  "snapshot_id": "MCwzYzFlMDViYjFhNTc4YTAwOWU0ZDFmMGYxNTVmMjNmZjBhMjI4YjA3",
   "tracks": [
     {
       "added_at": "2023-11-10 03:01:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
+        "name": "The Rain",
+        "url": "https://open.spotify.com/album/60DtiPQbSHleBcigjwztG9"
+      },
+      "artists": [
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        }
+      ],
+      "duration_ms": 157603,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/30qvk9d9puwUPqklbQG3KT"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 226933,
       "name": "Standing There",
       "url": "https://open.spotify.com/track/11qPxILRaVPoLVgVajD82l"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "The Rain",
-        "url": "https://open.spotify.com/album/60DtiPQbSHleBcigjwztG9"
-      },
-      "artists": [
-        {
-          "name": "Summers Sons",
-          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
-        }
-      ],
-      "duration_ms": 157603,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/30qvk9d9puwUPqklbQG3KT"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -983,6 +983,30 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
+        "name": "The Return (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3qA0tPLgVE2F7GjnaqGLDP"
+      },
+      "artists": [
+        {
+          "name": "Glad2Mecha",
+          "url": "https://open.spotify.com/artist/6pokAyXBznXdV5T3gO6cNQ"
+        },
+        {
+          "name": "Ill Treats",
+          "url": "https://open.spotify.com/artist/2XbREPVhH8KH3T1jUiSEgk"
+        },
+        {
+          "name": "Grand Puba",
+          "url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K"
+        }
+      ],
+      "duration_ms": 147617,
+      "name": "Make It Happen",
+      "url": "https://open.spotify.com/track/37NJtv7Cbkb9potgl3pArj"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
         "name": "The Feeling",
         "url": "https://open.spotify.com/album/3vH1qTsY5lbQvkwHH8PwGc"
       },
@@ -1027,30 +1051,6 @@
       "duration_ms": 224374,
       "name": "Feeling High",
       "url": "https://open.spotify.com/track/1aBettOr79Ze27sceoL6U9"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "The Return (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3qA0tPLgVE2F7GjnaqGLDP"
-      },
-      "artists": [
-        {
-          "name": "Glad2Mecha",
-          "url": "https://open.spotify.com/artist/6pokAyXBznXdV5T3gO6cNQ"
-        },
-        {
-          "name": "Ill Treats",
-          "url": "https://open.spotify.com/artist/2XbREPVhH8KH3T1jUiSEgk"
-        },
-        {
-          "name": "Grand Puba",
-          "url": "https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K"
-        }
-      ],
-      "duration_ms": 147617,
-      "name": "Make It Happen",
-      "url": "https://open.spotify.com/track/37NJtv7Cbkb9potgl3pArj"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "IMMORTAL",
-        "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
-      },
-      "artists": [
-        {
-          "name": "Ricki Monique",
-          "url": "https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr"
-        },
-        {
-          "name": "yourbeautifulruin",
-          "url": "https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag"
-        }
-      ],
-      "duration_ms": 185298,
-      "name": "IMMORTAL",
-      "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "You Don\u2019t Know",
         "url": "https://open.spotify.com/album/4NAKerTspkqyqopTNwT82Q"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 250450,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/6qCPW6pWrUNIESY7fp34D9"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "IMMORTAL",
+        "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
+      },
+      "artists": [
+        {
+          "name": "Ricki Monique",
+          "url": "https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr"
+        },
+        {
+          "name": "yourbeautifulruin",
+          "url": "https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag"
+        }
+      ],
+      "duration_ms": 185298,
+      "name": "IMMORTAL",
+      "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1243,22 +1243,22 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "What Am I to Do?",
-        "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
+        "name": "The Patience",
+        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
       },
       "artists": [
         {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
         },
         {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         }
       ],
-      "duration_ms": 244733,
-      "name": "What Am I to Do?",
-      "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
+      "duration_ms": 175750,
+      "name": "Smoke Break-Dance (feat. JID)",
+      "url": "https://open.spotify.com/track/3EcqaLV76JnvSQOInAmdXv"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1275,6 +1275,26 @@
       "duration_ms": 238573,
       "name": "Memories Live",
       "url": "https://open.spotify.com/track/0kHIEdWbOvnrvTmRfPtHDN"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "What Am I to Do?",
+        "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 244733,
+      "name": "What Am I to Do?",
+      "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1343,26 +1363,6 @@
       "duration_ms": 223772,
       "name": "Got Me Thinkin' (feat. Sparkz)",
       "url": "https://open.spotify.com/track/47euMdzPz6bdj7EKPy369S"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "The Patience",
-        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 175750,
-      "name": "Smoke Break-Dance (feat. JID)",
-      "url": "https://open.spotify.com/track/3EcqaLV76JnvSQOInAmdXv"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Head Highs",
-        "url": "https://open.spotify.com/album/6r1uf6dIkqkQvqFb24zZwS"
-      },
-      "artists": [
-        {
-          "name": "Malaki",
-          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
-        },
-        {
-          "name": "jarjarjr",
-          "url": "https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W"
-        }
-      ],
-      "duration_ms": 155346,
-      "name": "Head Highs",
-      "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 251068,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/2uweJu8oFGaj7F3cMCX2Ha"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "Head Highs",
+        "url": "https://open.spotify.com/album/6r1uf6dIkqkQvqFb24zZwS"
+      },
+      "artists": [
+        {
+          "name": "Malaki",
+          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
+        },
+        {
+          "name": "jarjarjr",
+          "url": "https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W"
+        }
+      ],
+      "duration_ms": 155346,
+      "name": "Head Highs",
+      "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Protea",
-        "url": "https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        },
-        {
-          "name": "Hello O'shay",
-          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
-        }
-      ],
-      "duration_ms": 200775,
-      "name": "Super Rare (feat. Hello O'Shay)",
-      "url": "https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "Haiku",
         "url": "https://open.spotify.com/album/1MWZAJAbKyQs3VpDromKj9"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 131000,
       "name": "Careful",
       "url": "https://open.spotify.com/track/63IDTb6NGCCQuLLsS3He3L"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "Protea",
+        "url": "https://open.spotify.com/album/5IPiGKpNz2JF6ZrrFZJypk"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Hello O'shay",
+          "url": "https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp"
+        }
+      ],
+      "duration_ms": 200775,
+      "name": "Super Rare (feat. Hello O'Shay)",
+      "url": "https://open.spotify.com/track/2UzRTCDmvjuzNT9NhGScvt"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1679,6 +1679,26 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
+        "name": "Uhuru",
+        "url": "https://open.spotify.com/album/7H88l7XMg9gALr0Ug4ZbGp"
+      },
+      "artists": [
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        },
+        {
+          "name": "C.Tappin",
+          "url": "https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds"
+        }
+      ],
+      "duration_ms": 250360,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/11rUmp24dnPKg5OuQUeyJb"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
         "name": "Oh Word",
         "url": "https://open.spotify.com/album/56MeentPxn6AWBDIUctPit"
       },
@@ -1711,22 +1731,46 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Uhuru",
-        "url": "https://open.spotify.com/album/7H88l7XMg9gALr0Ug4ZbGp"
+        "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
+        "url": "https://open.spotify.com/album/6OQ6gN6iPAZHNpu8Z1p1Yv"
       },
       "artists": [
         {
-          "name": "Summers Sons",
-          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
         },
         {
-          "name": "C.Tappin",
-          "url": "https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds"
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
         }
       ],
-      "duration_ms": 250360,
-      "name": "Call It Love",
-      "url": "https://open.spotify.com/track/11rUmp24dnPKg5OuQUeyJb"
+      "duration_ms": 355720,
+      "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
+      "url": "https://open.spotify.com/track/6i8K68TanxPlhBlRiQIdC3"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
+      },
+      "artists": [
+        {
+          "name": "RAIZA BIZA",
+          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
+        }
+      ],
+      "duration_ms": 243711,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1755,34 +1799,38 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Day & Night",
-        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
+        "name": "Back At The House",
+        "url": "https://open.spotify.com/album/78q1wlDQCvJXhjqTq9ZTZV"
       },
       "artists": [
         {
-          "name": "RAIZA BIZA",
-          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
+          "name": "Hemlock Ernst",
+          "url": "https://open.spotify.com/artist/0nvvXVx3p5N71liittVwGa"
+        },
+        {
+          "name": "Kenny Segal",
+          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
         }
       ],
-      "duration_ms": 243711,
-      "name": "Wassup",
-      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
+      "duration_ms": 258461,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/0XnhTgMuX3ncdnf5mZnce8"
     },
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Heart Shaped Kisses",
-        "url": "https://open.spotify.com/album/4DiGn9KioSOnbDopzRyZoY"
+        "name": "Elephant in the Room",
+        "url": "https://open.spotify.com/album/5u9fxl08KewKRV27T3nqGN"
       },
       "artists": [
         {
-          "name": "Vluestar",
-          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Heart Shaped Kisses",
-      "url": "https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv"
+      "duration_ms": 189082,
+      "name": "Gucci Tried to Tell Me",
+      "url": "https://open.spotify.com/track/1ufp82dH3kwlqiPmeKNBVz"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1811,38 +1859,18 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Elephant in the Room",
-        "url": "https://open.spotify.com/album/5u9fxl08KewKRV27T3nqGN"
+        "name": "Heart Shaped Kisses",
+        "url": "https://open.spotify.com/album/4DiGn9KioSOnbDopzRyZoY"
       },
       "artists": [
         {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+          "name": "Vluestar",
+          "url": "https://open.spotify.com/artist/2FcgwIGEPmPyItFPscscDO"
         }
       ],
-      "duration_ms": 189082,
-      "name": "Gucci Tried to Tell Me",
-      "url": "https://open.spotify.com/track/1ufp82dH3kwlqiPmeKNBVz"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "Back At The House",
-        "url": "https://open.spotify.com/album/78q1wlDQCvJXhjqTq9ZTZV"
-      },
-      "artists": [
-        {
-          "name": "Hemlock Ernst",
-          "url": "https://open.spotify.com/artist/0nvvXVx3p5N71liittVwGa"
-        },
-        {
-          "name": "Kenny Segal",
-          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
-        }
-      ],
-      "duration_ms": 258461,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/0XnhTgMuX3ncdnf5mZnce8"
+      "duration_ms": 168000,
+      "name": "Heart Shaped Kisses",
+      "url": "https://open.spotify.com/track/2cTbqT9JlHrkzySJQfBRvv"
     },
     {
       "added_at": "2023-11-10 03:01:00",
@@ -1931,6 +1959,26 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
+        "name": "Practice Makes Perfect",
+        "url": "https://open.spotify.com/album/7lO7SXE6Ijleoo4eOkLPvO"
+      },
+      "artists": [
+        {
+          "name": "EllMatic",
+          "url": "https://open.spotify.com/artist/6DyhWc1O1h5v5olTLhKv3M"
+        },
+        {
+          "name": "MpDrees24",
+          "url": "https://open.spotify.com/artist/64pPHAyVpCJBYmDpsNEnOM"
+        }
+      ],
+      "duration_ms": 171061,
+      "name": "Irreversible",
+      "url": "https://open.spotify.com/track/5eAklfAJQPJjX6QLK98Mmq"
+    },
+    {
+      "added_at": "2023-11-10 03:01:00",
+      "album": {
         "name": "Palm Trees",
         "url": "https://open.spotify.com/album/5cFilTRRO7XTL1ZN3AjDKM"
       },
@@ -1955,26 +2003,6 @@
     {
       "added_at": "2023-11-10 03:01:00",
       "album": {
-        "name": "Practice Makes Perfect",
-        "url": "https://open.spotify.com/album/7lO7SXE6Ijleoo4eOkLPvO"
-      },
-      "artists": [
-        {
-          "name": "EllMatic",
-          "url": "https://open.spotify.com/artist/6DyhWc1O1h5v5olTLhKv3M"
-        },
-        {
-          "name": "MpDrees24",
-          "url": "https://open.spotify.com/artist/64pPHAyVpCJBYmDpsNEnOM"
-        }
-      ],
-      "duration_ms": 171061,
-      "name": "Irreversible",
-      "url": "https://open.spotify.com/track/5eAklfAJQPJjX6QLK98Mmq"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
         "name": "Close Distance",
         "url": "https://open.spotify.com/album/1qQCFqeOfLq9LiZKGDdOp1"
       },
@@ -1991,34 +2019,6 @@
       "duration_ms": 162813,
       "name": "Sensitive",
       "url": "https://open.spotify.com/track/2AsKMzGCLp5tZvrX0zzLlR"
-    },
-    {
-      "added_at": "2023-11-10 03:01:00",
-      "album": {
-        "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
-        "url": "https://open.spotify.com/album/6OQ6gN6iPAZHNpu8Z1p1Yv"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "Big K.R.I.T.",
-          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
-        }
-      ],
-      "duration_ms": 355720,
-      "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
-      "url": "https://open.spotify.com/track/6i8K68TanxPlhBlRiQIdC3"
     }
   ],
   "unique_name": "Jazz Rap",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Keenan Te
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,050 likes - 102 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,069 likes - 102 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 31 | [28 \- with Dean Lewis](https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [28 \(with Dean Lewis\)](https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K) | 3:28 |
 | 32 | [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 |
 | 33 | [Good Things](https://open.spotify.com/track/4mhwfPRY7ATYVM8WdYn84z) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Good Things](https://open.spotify.com/album/7uzhXoVrdgBYfrd54Yxo6R) | 3:20 |
-| 34 | [Ghost](https://open.spotify.com/track/3zZInrkeo7dj4D2Wu5lvnn) | [Ricki\-Lee](https://open.spotify.com/artist/07lgEPGfoA4Lqos6YGYPDU) | [Ghost](https://open.spotify.com/album/7F2SSNO9UHdED1tJQcfUAZ) | 3:05 |
+| 34 | [Ghost](https://open.spotify.com/track/3zZInrkeo7dj4D2Wu5lvnn) | [Ricki\-Lee](https://open.spotify.com/artist/07lgEPGfoA4Lqos6YGYPDU) | [Ghost](https://open.spotify.com/album/7F2SSNO9UHdED1tJQcfUAZ) | 3:07 |
 | 35 | [Touchy Feely Fool](https://open.spotify.com/track/3PY47EpOouHdbDI4z5jw3v) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Maybe Man](https://open.spotify.com/album/1bU12iHHt5ujHbuKcIGlpm) | 3:35 |
 | 36 | [Bad Boy!](https://open.spotify.com/track/2RlinrCj73yZ731f2zerOq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Bad Boy!](https://open.spotify.com/album/065coPus7A27Bk6nTD0Pqa) | 2:45 |
 | 37 | [LALALALA](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:02 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 101 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 |
 | 102 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
 
-Snapshot ID: `MCxiNzg5ZTRkN2ZlMmJkZTRhMzg1NmRkMDQ5MjI3MDEyN2I1MzI1NTU3`
+Snapshot ID: `MCxlMmIxNTI0ZTM1ZjY2MTkzN2I4YjQ2Y2YyODM0ODg2OTI5ZTA5NWRl`

@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Isadora Pompeo",
-  "num_followers": 1011184,
+  "num_followers": 1011933,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Zjk5OWUwZGNmMzRlNDIyYjdkNDEyYTBkNDZlNWI1OGU1NWFiZGI0",
+  "snapshot_id": "MCwxZGE1OTUzMDIwMDI0MWE1MTA0M2NjNDQzODgyNjUzM2E4MTU3MTRh",
   "tracks": [
     {
       "added_at": "2023-11-19 15:05:39",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-11-19 15:05:39",
       "album": {
-        "name": "O Amor Tem Um Nome (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1pYPXvssuXozUQKxQu5xt2"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        }
-      ],
-      "duration_ms": 427444,
-      "name": "O Amor Tem Um Nome - Ao Vivo",
-      "url": "https://open.spotify.com/track/6iNLDkJjEGaqguwPWwfrXx"
-    },
-    {
-      "added_at": "2023-11-19 15:05:39",
-      "album": {
         "name": "Santo Pra Sempre (Ao Vivo)",
         "url": "https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 312219,
       "name": "Santo Pra Sempre - Ao Vivo",
       "url": "https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9"
+    },
+    {
+      "added_at": "2023-11-19 15:05:39",
+      "album": {
+        "name": "O Amor Tem Um Nome (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1pYPXvssuXozUQKxQu5xt2"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        }
+      ],
+      "duration_ms": 427444,
+      "name": "O Amor Tem Um Nome - Ao Vivo",
+      "url": "https://open.spotify.com/track/6iNLDkJjEGaqguwPWwfrXx"
     },
     {
       "added_at": "2023-11-19 15:05:39",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-11-19 15:05:39",
       "album": {
+        "name": "Gabriel Guedes (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4BrsoV9CkEuZsHN0LssDZs"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 204700,
+      "name": "Todos Os Meus Dias - Ao Vivo",
+      "url": "https://open.spotify.com/track/6x5Q9YWT21xuqYU4odl6XA"
+    },
+    {
+      "added_at": "2023-11-19 15:05:39",
+      "album": {
         "name": "Eu Vou Construir",
         "url": "https://open.spotify.com/album/4KeInSoEi4lcW498jnvbdH"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 601544,
       "name": "Para Ti Eu Vou - Ao Vivo",
       "url": "https://open.spotify.com/track/6vA1FwRxArrlYJTCW5sxHi"
-    },
-    {
-      "added_at": "2023-11-19 15:05:39",
-      "album": {
-        "name": "Gabriel Guedes (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4BrsoV9CkEuZsHN0LssDZs"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 204700,
-      "name": "Todos Os Meus Dias - Ao Vivo",
-      "url": "https://open.spotify.com/track/6x5Q9YWT21xuqYU4odl6XA"
     },
     {
       "added_at": "2023-11-19 15:05:39",
@@ -1371,6 +1371,22 @@
       "duration_ms": 513505,
       "name": "Rei da Gl\u00f3ria - Ao Vivo",
       "url": "https://open.spotify.com/track/5bkQg34pw8HgHEWIHVrR9a"
+    },
+    {
+      "added_at": "2023-11-19 15:05:39",
+      "album": {
+        "name": "Filho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+        }
+      ],
+      "duration_ms": 245136,
+      "name": "Filho - Ao Vivo",
+      "url": "https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p"
     },
     {
       "added_at": "2023-11-19 15:05:39",
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2023-11-19 15:05:39",
       "album": {
-        "name": "Filho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
-        }
-      ],
-      "duration_ms": 245136,
-      "name": "Filho - Ao Vivo",
-      "url": "https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p"
-    },
-    {
-      "added_at": "2023-11-19 15:05:39",
-      "album": {
         "name": "Mem\u00f3rias 3 - Lado A (Ao Vivo)",
         "url": "https://open.spotify.com/album/6YyvuTGa4V9R37qFNXQ0tI"
       },
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2023-11-19 15:05:39",
       "album": {
+        "name": "O Lamento de Israel",
+        "url": "https://open.spotify.com/album/613HHVVY7kYqtfAwIRyITd"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        },
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        }
+      ],
+      "duration_ms": 254590,
+      "name": "O Lamento de Israel",
+      "url": "https://open.spotify.com/track/09yeqY7MiMdgxlPmITqqIg"
+    },
+    {
+      "added_at": "2023-11-19 15:05:39",
+      "album": {
         "name": "Yeshua",
         "url": "https://open.spotify.com/album/3kxS0sTuaE4F9h9WQiqfK9"
       },
@@ -1563,26 +1583,6 @@
       "duration_ms": 487277,
       "name": "Santo pra Sempre - Ao Vivo",
       "url": "https://open.spotify.com/track/2jCAyhO8rDrechp8ekD9TT"
-    },
-    {
-      "added_at": "2023-11-19 15:05:39",
-      "album": {
-        "name": "O Lamento de Israel",
-        "url": "https://open.spotify.com/album/613HHVVY7kYqtfAwIRyITd"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        },
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        }
-      ],
-      "duration_ms": 254590,
-      "name": "O Lamento de Israel",
-      "url": "https://open.spotify.com/track/09yeqY7MiMdgxlPmITqqIg"
     },
     {
       "added_at": "2023-11-19 15:05:39",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-11-19 15:05:39",
       "album": {
-        "name": "De Ti Preciso (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6hwTDPKPjPBcgKfOkCZ2F0"
+        "name": "O Melhor Pra Ti (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1wd6c2RtTOCEfbZMooYl2w"
       },
       "artists": [
         {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+          "name": "Samuel Miranda",
+          "url": "https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS"
         }
       ],
-      "duration_ms": 313292,
-      "name": "De Ti Preciso - Ao Vivo",
-      "url": "https://open.spotify.com/track/3AbOa504l9MHWKjeUkiITQ"
+      "duration_ms": 245376,
+      "name": "O Melhor Pra Ti (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2lTQLOsw92uCoVVG5knixC"
     },
     {
       "added_at": "2023-11-19 15:05:39",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2023-11-19 15:05:39",
       "album": {
-        "name": "O Melhor Pra Ti (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1wd6c2RtTOCEfbZMooYl2w"
+        "name": "De Ti Preciso (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6hwTDPKPjPBcgKfOkCZ2F0"
       },
       "artists": [
         {
-          "name": "Samuel Miranda",
-          "url": "https://open.spotify.com/artist/0OF4E3fXk2tsG0C6zWmsLS"
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 245376,
-      "name": "O Melhor Pra Ti (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2lTQLOsw92uCoVVG5knixC"
+      "duration_ms": 313292,
+      "name": "De Ti Preciso - Ao Vivo",
+      "url": "https://open.spotify.com/track/3AbOa504l9MHWKjeUkiITQ"
     },
     {
       "added_at": "2023-11-19 15:05:39",

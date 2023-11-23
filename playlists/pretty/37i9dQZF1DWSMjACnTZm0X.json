@@ -1,12 +1,12 @@
 {
   "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN?si=rQyegiqmQySZXcK-yI8rEQ\">Caleb Awiti</a>",
-  "num_followers": 6979,
+  "num_followers": 6988,
   "original_name": "Amapiano to the World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWFkZGMwY2I4MDhiNDBhNTZiOTQxMGMyOTMzNWRkMjRhNjJmNjVk",
+  "snapshot_id": "MCw5ZGI4NDNkZTlhOTg2ZjEzMGRmYTY2ZWM3NmI0NDBkOWM5ZTkzYmE2",
   "tracks": [
     {
       "added_at": "2023-11-16 22:00:00",
@@ -163,6 +163,26 @@
       "duration_ms": 391888,
       "name": "Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
       "url": "https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy"
+    },
+    {
+      "added_at": "2023-11-22 10:39:28",
+      "album": {
+        "name": "JAPANESE AMAPIANO",
+        "url": "https://open.spotify.com/album/1HWNAyuS01dk3hyspkwyyk"
+      },
+      "artists": [
+        {
+          "name": "audiot909",
+          "url": "https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2"
+        },
+        {
+          "name": "MORI",
+          "url": "https://open.spotify.com/artist/2VZ62GjyleNEM6B8j0Ea1I"
+        }
+      ],
+      "duration_ms": 265714,
+      "name": "Gas City",
+      "url": "https://open.spotify.com/track/6BplH7R9tKDPu0lVqxGPk7"
     },
     {
       "added_at": "2023-10-27 05:05:19",

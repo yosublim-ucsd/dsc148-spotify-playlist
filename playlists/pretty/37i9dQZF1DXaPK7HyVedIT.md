@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Sevek
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,223,237 likes - 71 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,223,295 likes - 71 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 70 | [RIOT](https://open.spotify.com/track/3M9Ec4VZNCTXgXgpoFHgxj) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa) | [RIOT](https://open.spotify.com/album/4v3soxxbbiKWfdIrSExxNH) | 3:02 |
 | 71 | [I'll Be Yours](https://open.spotify.com/track/2xz79df2wvttaPMvGJ7CdO) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Georgi Kay](https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj) | [I’ll Be Yours](https://open.spotify.com/album/6ktQGw4pvYbRe8WzpFuS5s) | 3:44 |
 
-Snapshot ID: `MCw1YzkxMTBlNWEyMTEzNGZiMTkyNjYyOGQ3OTkyYzE0ODQwMGY1ZWJi`
+Snapshot ID: `MCw2ZDlmMWIyZTI0NThlYTEyNzk0ZWQ5YTE3MTM1ZTU2OWI3YzI4YjZh`

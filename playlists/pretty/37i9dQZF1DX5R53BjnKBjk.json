@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: dad\u00e1 Jo\u00e3ozinho / Arte: Isu Kim",
-  "num_followers": 18629,
+  "num_followers": 18638,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTQ3YjY2NTUzODk5MWM2YTNkMzBiZjViMzFmNDViZDYzYTY3Njkx",
+  "snapshot_id": "MCwxODFmY2JhNTc1NmQwNWY0NWU0NDFmNjg1MDA3ZThjYTgxMDZhZmNj",
   "tracks": [
     {
       "added_at": "2023-11-17 03:03:00",
@@ -615,18 +615,22 @@
     {
       "added_at": "2023-11-17 03:03:00",
       "album": {
-        "name": "YASSIQ",
-        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
+        "name": "Futurea",
+        "url": "https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K"
       },
       "artists": [
         {
-          "name": "YASSIQ",
-          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
+          "name": "Vincee",
+          "url": "https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN"
+        },
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
         }
       ],
-      "duration_ms": 128771,
-      "name": "AL\u00d4",
-      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
+      "duration_ms": 166611,
+      "name": "Medo de Mim",
+      "url": "https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0"
     },
     {
       "added_at": "2023-11-17 03:03:00",
@@ -647,22 +651,18 @@
     {
       "added_at": "2023-11-17 03:03:00",
       "album": {
-        "name": "Futurea",
-        "url": "https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K"
+        "name": "YASSIQ",
+        "url": "https://open.spotify.com/album/0v9KwYwNsL3nk0YFBPqPIl"
       },
       "artists": [
         {
-          "name": "Vincee",
-          "url": "https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN"
-        },
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+          "name": "YASSIQ",
+          "url": "https://open.spotify.com/artist/2Uqri3X47V2gFAI76QblVr"
         }
       ],
-      "duration_ms": 166611,
-      "name": "Medo de Mim",
-      "url": "https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0"
+      "duration_ms": 128771,
+      "name": "AL\u00d4",
+      "url": "https://open.spotify.com/track/1OI0WImoE0AaoWwEr5fD9a"
     },
     {
       "added_at": "2023-11-17 03:03:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-11-17 03:03:00",
       "album": {
+        "name": "tudo que eu fa\u00e7o",
+        "url": "https://open.spotify.com/album/5fj9SAx9TZ6CwSSc8Tg219"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4",
+          "url": "https://open.spotify.com/artist/0DuebGyOlpHONL8lMizMGQ"
+        }
+      ],
+      "duration_ms": 143766,
+      "name": "tudo que eu fa\u00e7o",
+      "url": "https://open.spotify.com/track/4RDOaLRGMorHJpAndOgWo3"
+    },
+    {
+      "added_at": "2023-11-17 03:03:00",
+      "album": {
         "name": "Queda livre",
         "url": "https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp"
       },
@@ -847,6 +863,26 @@
     {
       "added_at": "2023-11-17 03:03:00",
       "album": {
+        "name": "V\u00edcio Que C\u00ea Tem Em Mim",
+        "url": "https://open.spotify.com/album/6lLhGUbpGSVUuGhlp1BHrg"
+      },
+      "artists": [
+        {
+          "name": "Fanieh",
+          "url": "https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN"
+        },
+        {
+          "name": "Emik\u00e1",
+          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
+        }
+      ],
+      "duration_ms": 162045,
+      "name": "V\u00edcio Que C\u00ea Tem Em Mim",
+      "url": "https://open.spotify.com/track/7uSJeb5UvlZlPD0eTPaz9a"
+    },
+    {
+      "added_at": "2023-11-17 03:03:00",
+      "album": {
         "name": "\u00d4 Lulu",
         "url": "https://open.spotify.com/album/55xxEtIfagPjZR5LcCMJbP"
       },
@@ -879,22 +915,18 @@
     {
       "added_at": "2023-11-17 03:03:00",
       "album": {
-        "name": "V\u00edcio Que C\u00ea Tem Em Mim",
-        "url": "https://open.spotify.com/album/6lLhGUbpGSVUuGhlp1BHrg"
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/7nzIvpG7y3ZK197oCc8RME"
       },
       "artists": [
         {
-          "name": "Fanieh",
-          "url": "https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN"
-        },
-        {
-          "name": "Emik\u00e1",
-          "url": "https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB"
+          "name": "Nevilton",
+          "url": "https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM"
         }
       ],
-      "duration_ms": 162045,
-      "name": "V\u00edcio Que C\u00ea Tem Em Mim",
-      "url": "https://open.spotify.com/track/7uSJeb5UvlZlPD0eTPaz9a"
+      "duration_ms": 211998,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/4ylDsu5lFUMKtI675fAd3x"
     },
     {
       "added_at": "2023-11-17 03:03:00",
@@ -911,22 +943,6 @@
       "duration_ms": 205862,
       "name": "Mad\u00e1 - Remix",
       "url": "https://open.spotify.com/track/38E1DpBkqxCtyQvUxRDjLX"
-    },
-    {
-      "added_at": "2023-11-17 03:03:00",
-      "album": {
-        "name": "Brisa",
-        "url": "https://open.spotify.com/album/7nzIvpG7y3ZK197oCc8RME"
-      },
-      "artists": [
-        {
-          "name": "Nevilton",
-          "url": "https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Brisa",
-      "url": "https://open.spotify.com/track/4ylDsu5lFUMKtI675fAd3x"
     },
     {
       "added_at": "2023-11-17 03:03:00",
@@ -995,22 +1011,6 @@
     {
       "added_at": "2023-11-17 03:03:00",
       "album": {
-        "name": "Meu Mantra pra Te Esquecer",
-        "url": "https://open.spotify.com/album/6NHTjbw0reHFYuDdTM60Pn"
-      },
-      "artists": [
-        {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
-        }
-      ],
-      "duration_ms": 233019,
-      "name": "Meu Mantra pra Te Esquecer",
-      "url": "https://open.spotify.com/track/09rr23IvslgyUlv6Hlemqo"
-    },
-    {
-      "added_at": "2023-11-17 03:03:00",
-      "album": {
         "name": "Surrender!",
         "url": "https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x"
       },
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-11-17 03:03:00",
       "album": {
+        "name": "Meu Mantra pra Te Esquecer",
+        "url": "https://open.spotify.com/album/6NHTjbw0reHFYuDdTM60Pn"
+      },
+      "artists": [
+        {
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+        }
+      ],
+      "duration_ms": 233019,
+      "name": "Meu Mantra pra Te Esquecer",
+      "url": "https://open.spotify.com/track/09rr23IvslgyUlv6Hlemqo"
+    },
+    {
+      "added_at": "2023-11-17 03:03:00",
+      "album": {
         "name": "Ma\u00e7\u00e3 do Amor",
         "url": "https://open.spotify.com/album/2b1X7WinJHgCeLO8LihyIa"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 275882,
       "name": "Se Eu Te Ver de Novo",
       "url": "https://open.spotify.com/track/0MehrXQw4CfMsyy3RPho7c"
-    },
-    {
-      "added_at": "2023-11-17 03:03:00",
-      "album": {
-        "name": "tudo que eu fa\u00e7o",
-        "url": "https://open.spotify.com/album/5fj9SAx9TZ6CwSSc8Tg219"
-      },
-      "artists": [
-        {
-          "name": "R\u00f4",
-          "url": "https://open.spotify.com/artist/0DuebGyOlpHONL8lMizMGQ"
-        }
-      ],
-      "duration_ms": 143766,
-      "name": "tudo que eu fa\u00e7o",
-      "url": "https://open.spotify.com/track/4RDOaLRGMorHJpAndOgWo3"
     },
     {
       "added_at": "2023-11-17 03:03:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-11-17 03:03:00",
       "album": {
-        "name": "De repente voc\u00ea",
-        "url": "https://open.spotify.com/album/2DeoeyTAwykibd8ERHw3VC"
-      },
-      "artists": [
-        {
-          "name": "Marta Maria",
-          "url": "https://open.spotify.com/artist/6bksEANPlDvhAocqR44x7H"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "De repente voc\u00ea",
-      "url": "https://open.spotify.com/track/1uNPYO9ZaIO91uHjvhYhxN"
-    },
-    {
-      "added_at": "2023-11-17 03:03:00",
-      "album": {
         "name": "reluz",
         "url": "https://open.spotify.com/album/4RhsyCCyX1IViJF9P7MBVM"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 193053,
       "name": "reluz",
       "url": "https://open.spotify.com/track/2NqY3ZHWi8NxHiz6RlTyqu"
+    },
+    {
+      "added_at": "2023-11-17 03:03:00",
+      "album": {
+        "name": "De repente voc\u00ea",
+        "url": "https://open.spotify.com/album/2DeoeyTAwykibd8ERHw3VC"
+      },
+      "artists": [
+        {
+          "name": "Marta Maria",
+          "url": "https://open.spotify.com/artist/6bksEANPlDvhAocqR44x7H"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "De repente voc\u00ea",
+      "url": "https://open.spotify.com/track/1uNPYO9ZaIO91uHjvhYhxN"
     },
     {
       "added_at": "2023-11-17 03:03:00",

@@ -4,7 +4,7 @@
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-85 songs - 7 hr 24 min
+86 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Silver Machine](https://open.spotify.com/track/3BS48ldeRLmDwtqVs2GpFI) | [ANII](https://open.spotify.com/artist/3Do8Sv7yTTtIjf68qHkx0o) | [ANIITIME003](https://open.spotify.com/album/6eFC2ysRCdZD45LvWd0em8) | 7:24 | 2021-08-27 | 2022-07-28 |
 | [Sorry to Greta](https://open.spotify.com/track/7yG1xzSxry4KD8iqQBb5Hf) | [IDIOTAPE](https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z) | [Sorry to Greta](https://open.spotify.com/album/30cijGXwjWrVccw47OFR0G) | 3:28 | 2021-08-27 | 2022-07-26 |
 | [Street Rave \- Edit](https://open.spotify.com/track/3iThvzWqPdZdgLnKDJGRaf) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Street Rave EP](https://open.spotify.com/album/4PGKNufqew8YzLUViGgvon) | 4:01 | 2021-08-27 | 2023-11-05 |
+| [Street Rave \- Edit](https://open.spotify.com/track/3rsXgZfEg5ETKOeLXDxCUn) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Street Rave EP](https://open.spotify.com/album/3Txe3gXfJXuzRiL4ahLDdw) | 4:01 | 2021-08-27 |  |
 | [Sununguka \(feat\. Zeke Manyika\) \- Alan Dixon Italo Mix](https://open.spotify.com/track/7Iwv3WVOhjCpv9zGcnTFzz) | [Faze Action](https://open.spotify.com/artist/1MMEHyxVfd0Pv4PEHynX9k), [Zeke Manyika](https://open.spotify.com/artist/1jYJpzl4Ytb9eXGoFprU0n), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x) | [Sununguka \(feat\. Zeke Manyika\)](https://open.spotify.com/album/76Lws0FxWfj2TRHvpvGf98) | 7:24 | 2021-08-27 |  |
 | [The Rollercoaster](https://open.spotify.com/track/6h5pPzgM2z1WcqNbxyki9v) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [The Rollercoaster](https://open.spotify.com/album/54KyCRQfilqmeDuCygaZXF) | 3:39 | 2021-08-27 |  |
 | [The Thrill](https://open.spotify.com/track/6pKeuJDicz6NTYxXLOyxQG) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [The Thrill](https://open.spotify.com/album/1zMy9u9Ipqzixz5U5exg7V) | 2:50 | 2021-08-27 |  |
@@ -89,7 +90,7 @@
 | [Up & Down](https://open.spotify.com/track/5fWpiAAxEWZGU1XtNCMDpG) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Emotion EP](https://open.spotify.com/album/3OWpB3ypCxvkWIHqyKMkTg) | 6:50 | 2021-08-27 | 2022-07-28 |
 | [What Are U Gonna Do](https://open.spotify.com/track/1LPrVY0aROcFkP2A9D9YCJ) | [Ladebare](https://open.spotify.com/artist/5AnAdS3TumeVuPszRkY13h), [Janai](https://open.spotify.com/artist/0x9rtwsyJne349H9TJGDk0) | [What Are U Gonna Do](https://open.spotify.com/album/243U9nGlE63ErtM8fE1g4U) | 3:00 | 2021-08-27 |  |
 | [What Do We Care \- feat\. Tom Sanders \(Gerd Janson remix\)](https://open.spotify.com/track/2U8rwtRxPMkwiTOV7WP7xZ) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ), [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [What Do We Care \(feat\. Tom Sanders\)](https://open.spotify.com/album/6pJG4RS2fMotJ3B5sZp4Wz) | 6:29 | 2021-08-27 | 2022-07-29 |
-| [Wing House \- Shan Remix](https://open.spotify.com/track/1Wc83tGRNW59knQUV26bFp) | [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt), [Shan](https://open.spotify.com/artist/06tx6ueiCMiQl07jV0j1gb) | [Gleis 2 \- Lichtenberg Remixes](https://open.spotify.com/album/3xVK14DvoI1oYFAMWKCuDk) | 6:45 | 2021-08-27 |  |
+| [Wing House \- Shan Remix](https://open.spotify.com/track/1Wc83tGRNW59knQUV26bFp) | [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt), [Shan](https://open.spotify.com/artist/06tx6ueiCMiQl07jV0j1gb) | [Gleis 2 \- Lichtenberg Remixes](https://open.spotify.com/album/3xVK14DvoI1oYFAMWKCuDk) | 6:45 | 2021-08-27 | 2023-11-23 |
 | [You And I \- Late Nite Tuff Guy Dub Remix](https://open.spotify.com/track/2BQgYWhMidgerKZGm12xax) | [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f), [Late Nite Tuff Guy](https://open.spotify.com/artist/0DScNaWV94MOncDB0t2XRK) | [You And I \(Late Nite Tuff Guy Remix\)](https://open.spotify.com/album/1KwHWoSdaV3d9Xs8tgxkFl) | 6:24 | 2021-08-27 |  |
 | [You And I \- Late Nite Tuff Guy Remix](https://open.spotify.com/track/4BOSCizWFzd97VoSNLc0yg) | [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f), [Late Nite Tuff Guy](https://open.spotify.com/artist/0DScNaWV94MOncDB0t2XRK) | [You And I \(Late Nite Tuff Guy Remix\)](https://open.spotify.com/album/7tcY0CDVVadBVksF727ITl) | 6:25 | 2021-08-27 | 2022-09-04 |
 | [You And I \- Late Nite Tuff Guy Remix](https://open.spotify.com/track/6IcrRvU8HwkTz15X3TZbw2) | [Owl Eyes](https://open.spotify.com/artist/3it7AeHVfXdby9tbwEwE3f), [Late Nite Tuff Guy](https://open.spotify.com/artist/0DScNaWV94MOncDB0t2XRK) | [You And I \(Late Nite Tuff Guy Remix\)](https://open.spotify.com/album/7ilHPVgISfupZUzNMysEae) | 6:25 | 2021-08-27 | 2022-07-28 |

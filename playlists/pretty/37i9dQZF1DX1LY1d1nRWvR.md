@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,368 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,406 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 44 | [Night Of Desirable Objects](https://open.spotify.com/track/6aO19OZDf9v2mwDDAiwGvB) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Umami](https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel) | 6:56 |
 | 45 | [Piña Colada](https://open.spotify.com/track/5wt62HFSYWz87H5dztBufJ) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Richie Seivwright](https://open.spotify.com/artist/1iyQnonWJYO8XSOkWQITUH) | [Xover](https://open.spotify.com/album/08OWYxVuGW8F7Ne2TdNMUp) | 3:59 |
 | 46 | [All My Troubles](https://open.spotify.com/track/3m8ilb2QT4RgsPJSh2g6UZ) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [All My Troubles](https://open.spotify.com/album/599n6aMLqgGci5iScyb4nN) | 5:08 |
-| 47 | [Mind](https://open.spotify.com/track/5sfTya6OQoW2rDLKSVT2Qk) | [Fatima](https://open.spotify.com/artist/5uNCGgWH5Id1cW8kh9Sc67), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Follow You EP \(feat\. Floating Points\)](https://open.spotify.com/album/5dt7lQjyinjDt7y0a8tzmw) | 4:27 |
-| 48 | [The Sapiens \(Original Mix\) \[Mixed\]](https://open.spotify.com/track/0g7DrfLCjrhogkP8cIAHm3) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY) | [Music is King 2019 Appreciation Mix \(DJ Mix\)](https://open.spotify.com/album/6ZNoVc15w0AyCOkwNhxHjW) | 6:49 |
-| 49 | [Been A Long Night](https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information](https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA) | 4:32 |
-| 50 | [Isbjørn](https://open.spotify.com/track/4aXOm1VINrpS06azxb7DaW) | [Auntie Flo](https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d) | [Radio Highlife](https://open.spotify.com/album/40LZ3m0pQOrEjEggY5Hm0T) | 3:41 |
+| 47 | [Mother Theresa](https://open.spotify.com/track/6kfZ34Gl892WmuGxiLeD3a) | [Auntie Flo](https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d) | [Highlife World Series: Cuba](https://open.spotify.com/album/4Q85JHfw0WgT1MFlEqoSZ0) | 5:56 |
+| 48 | [Mind](https://open.spotify.com/track/5sfTya6OQoW2rDLKSVT2Qk) | [Fatima](https://open.spotify.com/artist/5uNCGgWH5Id1cW8kh9Sc67), [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Follow You EP \(feat\. Floating Points\)](https://open.spotify.com/album/5dt7lQjyinjDt7y0a8tzmw) | 4:27 |
+| 49 | [The Sapiens \(Original Mix\) \[Mixed\]](https://open.spotify.com/track/0g7DrfLCjrhogkP8cIAHm3) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY) | [Music is King 2019 Appreciation Mix \(DJ Mix\)](https://open.spotify.com/album/6ZNoVc15w0AyCOkwNhxHjW) | 6:49 |
+| 50 | [Been A Long Night](https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information](https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA) | 4:32 |
 
-Snapshot ID: `MCxkYTQwMGE2NWM0NTFiZTQ4Yzc3NjkyMzJhNmYyYThiYjY0NjNjOWE4`
+Snapshot ID: `MCw3YWMxYzNhM2I4OTU0MTA5Yjc3MDI1NjEyYTg2Mjg1ZTlhMzU0Mzhi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,690 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,869 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 25 | [Berceuse](https://open.spotify.com/track/2aj9gk89sJ9Rj8kE6EfxM3) | [Armas Järnefelt](https://open.spotify.com/artist/0DDOvrV9wGcN6EPZU2KeRK), [Erkki Rautio](https://open.spotify.com/artist/0mrn7eJEcqV7KPopqH5UYy), [Izumi Tateno](https://open.spotify.com/artist/1IDW9jgQRukXDqINZyrkue) | [Finland 100 Years: Classical Music](https://open.spotify.com/album/7hCQ6pzgHwpyKFPSoS2sym) | 3:21 |
 | 26 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 |
 | 27 | [Mother Nature](https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Mother Nature](https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s) | 3:55 |
-| 28 | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa) | 4:25 |
+| 28 | [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 |
 | 29 | [18の小品 作品72 より 2 子守唄](https://open.spotify.com/track/4fEN4gcODkve0o4x9yCmpH) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [金子三勇士](https://open.spotify.com/artist/6PdcjZrcYniTGsVEfGPMIT) | [チャイコフスキー:ピアノ協奏曲 第1番、他](https://open.spotify.com/album/5o0pobWmxuMZi83CpVYuKM) | 6:36 |
-| 30 | [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 |
+| 30 | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa) | 4:25 |
 | 31 | [Nature undisclosed](https://open.spotify.com/track/48aOlsvnC4e8cdMsrw59Qd) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Nature undisclosed](https://open.spotify.com/album/4MncWHjrU2jTWsDUaJjpo6) | 2:27 |
 | 32 | [Two Hearts](https://open.spotify.com/track/5Y65gREADmqP7wGn4rOPCJ) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Two Hearts](https://open.spotify.com/album/4FM62Z8aXRnYi3Z6mCLgnE) | 4:06 |
 | 33 | [ギター独奏のための6つのシューベルト歌曲\(メルツ編\)より: セレナーデ](https://open.spotify.com/track/78krJSkQpCruKbw8yrd1uQ) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Ami Inoi](https://open.spotify.com/artist/0rcWfKZ3DLC4N9Zkh9Uscd) | [ムーンライト](https://open.spotify.com/album/5wI1cCs9574YHcRK9Se8a9) | 4:09 |
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 65 | [初戀](https://open.spotify.com/track/1zYjk36LJjAxjAb6izoUSJ) | [Takeshi Senoo](https://open.spotify.com/artist/61n5YgL1SXRIre6tMYlhxq) | [RETRO MODERN DANDY](https://open.spotify.com/album/6uFdwPikkIIXX4dtC7BXuS) | 2:36 |
 | 66 | [Générique de fin](https://open.spotify.com/track/4nAvEP0TxzNPiu710Dl5va) | [Gabriel Yared](https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB) | [Si tu voyais son cœur \(Bande originale du film\)](https://open.spotify.com/album/5mEahbNaoYS9Mic3KcE1In) | 1:41 |
 | 67 | [愛は死なず～『ラブ・ネバー・ダイ』より](https://open.spotify.com/track/5FJ24IGN3usoEy0tBd13MW) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [栗田博文](https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx), [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6), [石田泰尚](https://open.spotify.com/artist/2gWmsXfwLkLs12TIFIxj96) | [オーケストラで聴く、感動のミュージカル名曲集\-The Most Beautiful Melody 'Musical' インストゥルメンタル&カラオケ\-](https://open.spotify.com/album/2MotmDQaOGZiXGy2J1yF9E) | 6:48 |
-| 68 | [Blue Stone of Atlas \- Piano Solo Version](https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Blue Stone of Atlas \(Piano Solo Version\)](https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3) | 2:38 |
+| 68 | [The Longest Goodbye](https://open.spotify.com/track/0W0USnsioLvTw6DcmoZyea) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Lanterns](https://open.spotify.com/album/74fknK9KmdcRzazEqMAGp3) | 3:04 |
 | 69 | [aqua](https://open.spotify.com/track/2Txp8hmiT3aqzD7CBjILo2) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [BTTB \- 20th Anniversary Edition](https://open.spotify.com/album/6HdFNj6bhQQewtNupqVu5J) | 4:30 |
-| 70 | [The Longest Goodbye](https://open.spotify.com/track/0W0USnsioLvTw6DcmoZyea) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Lanterns](https://open.spotify.com/album/74fknK9KmdcRzazEqMAGp3) | 3:04 |
+| 70 | [Blue Stone of Atlas \- Piano Solo Version](https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Blue Stone of Atlas \(Piano Solo Version\)](https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3) | 2:38 |
 | 71 | [Ask me why\(母の思い\)](https://open.spotify.com/track/1ej3rD4t8Fb2n6tZskXFIu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [君たちはどう生きるか　サウンドトラック](https://open.spotify.com/album/4OGf5cOhoHWaXEu0XnsF1t) | 1:48 |
 | 72 | [Fix You](https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fix You](https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC) | 2:21 |
 | 73 | [Alone](https://open.spotify.com/track/1lD3lmjSZKsCQAvp5bvBiS) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [CeaseTone](https://open.spotify.com/artist/2FfS4tGbyODPI92Baw7Ys8) | [Alone](https://open.spotify.com/album/3fq4jjQKN9tURefSyKisVW) | 4:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 99 | [Komorebi no Kioku](https://open.spotify.com/track/0Q72QqA0rLmZMO0Bmy77u2) | [Asuka Noda](https://open.spotify.com/artist/5B5Ip55ekXUdj3wehY9Vnz) | [Komorebi no Kioku](https://open.spotify.com/album/7foPQZ5vYodwAFzigoraxI) | 6:11 |
 | 100 | [Sundays \- Just Piano Version](https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Just Piano](https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH) | 3:32 |
 
-Snapshot ID: `MCwzYWQ4NjBhODdjMWMzZmE3MDg0NWNlYWY3N2Q1YzU1NjJmODI0MjI0`
+Snapshot ID: `MCw1NDQ2NDU3MWM5Y2IwZWNkYmM1NGEwMzhiYmVjZGY0ZDQ5ODdlMDg4`

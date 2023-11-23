@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Santti
 
-[Spotify](https://open.spotify.com/user/spotify) - 692,554 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 692,740 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Bubbalicious](https://open.spotify.com/track/3ZLROYAeP1y3CouHBYZCg7) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Kess Ross](https://open.spotify.com/artist/5YIZvYKBXqG9ChTtAR4D6G), [TITUS](https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd) | [Bubbalicious](https://open.spotify.com/album/5ZVI3iLLLBUscQRvesFWoj) | 3:04 |
 | 50 | [Love Goes](https://open.spotify.com/track/3uAFwegcb4Vavx5BNgzXT9) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [Jae Walters](https://open.spotify.com/artist/2kAm3LwfVyqbufmusOcanD) | [Love Goes](https://open.spotify.com/album/3vGHDvBv1PAtzQCnD00eAO) | 3:21 |
 
-Snapshot ID: `MCxkNmVjNmQxODcxYzA4OTBmNDQyZTNhMzA1ZWE2ZTI2YTBjNDU0NzEx`
+Snapshot ID: `MCxmNGU4MDg2ZTM4MjZhNDQ4NzRlMGRkYTEwMDMwMDdmODExYjk3YmRm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > PRISCILLA e mais mulheres poderosas para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,475 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,514 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 27 | [Pena Que Acabou](https://open.spotify.com/track/57DTGthLG6wQGuJV1QDJCA) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Pena Que Acabou](https://open.spotify.com/album/79R8Ivfbp5Gz1PpvKoBVjJ) | 2:25 |
 | 28 | [Sonhos & Ilusões \- acoustic](https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Sonhos & Ilusões \(acoustic\)](https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f) | 3:51 |
 | 29 | [Chá De Camomila](https://open.spotify.com/track/6HEbNUXxMipde8vEtSZ49N) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Quem É Ela?](https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9) | 3:11 |
-| 30 | [O amor te dá](https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [O amor te dá](https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW) | 4:07 |
-| 31 | [que se fosse](https://open.spotify.com/track/6JcDYTSeUb8TIWrmhRXk8K) | [Sophi](https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn) | [que se fosse](https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z) | 2:19 |
-| 32 | [Tem Dias](https://open.spotify.com/track/5T3xsHD8wTvDRdbehYfjpA) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Você Aprendeu A Amar?](https://open.spotify.com/album/1Qr92jXvQmVjgO7qZAzWe4) | 3:01 |
-| 33 | [Como Tinha Que Ser](https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Como Tinha Que Ser](https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg) | 3:35 |
+| 30 | [que se fosse](https://open.spotify.com/track/6JcDYTSeUb8TIWrmhRXk8K) | [Sophi](https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn) | [que se fosse](https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z) | 2:19 |
+| 31 | [O amor te dá](https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [O amor te dá](https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW) | 4:07 |
+| 32 | [Como Tinha Que Ser](https://open.spotify.com/track/4vD3v8mD6JYvOssnTPm10J) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Como Tinha Que Ser](https://open.spotify.com/album/29LkncPaO5OiMnKEOKZhMg) | 3:35 |
+| 33 | [Tem Dias](https://open.spotify.com/track/5T3xsHD8wTvDRdbehYfjpA) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Você Aprendeu A Amar?](https://open.spotify.com/album/1Qr92jXvQmVjgO7qZAzWe4) | 3:01 |
 | 34 | [Telefone](https://open.spotify.com/track/06pNle1p87Hvz8YMv7IJkV) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Riff](https://open.spotify.com/artist/7HWxy4b4td3XP7WjueymyN) | [Mete Mac Vol 1](https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er) | 3:08 |
 | 35 | [cinco anos em cinco minutos](https://open.spotify.com/track/1wIP79xCQuRtIOPXsWOyoI) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [cinco anos em cinco minutos](https://open.spotify.com/album/10iYPXAHfK0rwB5gNQFr31) | 2:23 |
 | 36 | [Amaré](https://open.spotify.com/track/5cmMXwBZQWWtjPRcl3Boc3) | [Becca Perret](https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Na Becca III](https://open.spotify.com/album/5MsRhdEmCDCsceqWnqWG6H) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Gamei](https://open.spotify.com/track/59LXOmX8TvIf51lxZGezqp) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [93](https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ) | 2:51 |
 | 50 | [Homenagem](https://open.spotify.com/track/2EzZnXR3UgkoX92WHgoNYD) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5weOG4lzh2hlbs1oq5YKjy) | 3:26 |
 
-Snapshot ID: `MCw2ZDViMWRkOTA2YWYyZmNjMjUzN2Q4YWFiMTJlNGY5OTBmNDE2YmJl`
+Snapshot ID: `MCw4ZDYwNDE4NzUzMDkwOTAyNGFmNjdiOWRiYzUzZDE5NTEzZjFhMzQ1`

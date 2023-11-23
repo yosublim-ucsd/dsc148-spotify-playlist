@@ -4,7 +4,7 @@
 
 > music to get fly to ft Erykah Badu and Usher front row at Marni.
 
-504 songs - 1 day 3 hr 29 min
+505 songs - 1 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Bapes](https://open.spotify.com/track/4EY98CyvYgA8rcVBareyQk) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [souljaboytellem.com](https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s) | 3:54 | 2022-04-15 | 2022-04-28 |
 | [bbq](https://open.spotify.com/track/5TIVr1YDRbTmVoPDZRbGDN) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [bbq](https://open.spotify.com/album/0Vk3buSg00AcSP3vv0cBEG) | 2:02 | 2023-03-23 | 2023-07-29 |
 | [Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Icedancer](https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse) | 2:07 | 2022-12-16 | 2023-02-17 |
+| [Be With U \(feat\. DETO BLACK\)](https://open.spotify.com/track/3AzfXSz7wBlTCHovkU8uCk) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Sexy](https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq) | 3:09 | 2023-10-04 |  |
 | [BEST INTEREST](https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [BEST INTEREST](https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh) | 2:07 | 2023-03-03 |  |
 | [BIG FLIRT](https://open.spotify.com/track/21X8Gbc0ztQvD9uhX4WxUK) | [lil hero](https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO) | [dress up!](https://open.spotify.com/album/65PEe4oqDISaoCia7jZ1jJ) | 2:09 | 2022-07-11 | 2022-12-17 |
 | [big flirt](https://open.spotify.com/track/355eZ7ojdzc0ZHc7LeiwE8) | [lil hero](https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO) | [dress up!](https://open.spotify.com/album/7MzgnfEIBNiLkOVU8kHhHw) | 2:09 | 2023-03-03 | 2023-07-31 |
@@ -254,7 +255,7 @@
 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 | 2021-08-05 | 2022-05-04 |
 | [Lava](https://open.spotify.com/track/2dIeraguJ8SoHDqXfSZelZ) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Lately EP](https://open.spotify.com/album/4PeU1vYLxDKGzU3641YmFI) | 2:37 | 2021-08-05 |  |
 | [lavender](https://open.spotify.com/track/5eWkRqvADGZsWW7i714P0R) | [civic flora](https://open.spotify.com/artist/0GXxcGHFY3yG0PCVfR8hSd) | [vincible summer singles](https://open.spotify.com/album/0DHwWYYkOe8CW6v5eXfWgy) | 3:23 | 2022-09-13 | 2022-10-08 |
-| [Leave It Alone](https://open.spotify.com/track/0r5Z0wgmOYDWHnhN4f8DtV) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Tyler Mann](https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz) | [Leave It Alone](https://open.spotify.com/album/73lqd2LyJKLOasSDBdgLH2) | 2:51 | 2023-05-26 |  |
+| [Leave It Alone](https://open.spotify.com/track/0r5Z0wgmOYDWHnhN4f8DtV) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Tyler Mann](https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz) | [Leave It Alone](https://open.spotify.com/album/73lqd2LyJKLOasSDBdgLH2) | 2:51 | 2023-05-26 | 2023-11-23 |
 | [Lemon](https://open.spotify.com/track/4PpuH4mxL0rD35mOWaLoKS) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [NO ONE EVER REALLY DIES](https://open.spotify.com/album/54OXaFd0PtGtAgauTmARkD) | 3:39 | 2022-02-28 | 2022-12-17 |
 | [Les Fleurs](https://open.spotify.com/track/4XCGfHpGVq8xw800o5cwWs) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Come To My Garden](https://open.spotify.com/album/3FuJjgDLCnwRgnRLfjjGPV) | 3:19 | 2022-09-13 | 2022-10-08 |
 | [Let Her Go \(feat\. James Blake\)](https://open.spotify.com/track/2k6OpEcFV2VvXdVmPRNCiw) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:12 | 2023-03-06 | 2023-05-27 |

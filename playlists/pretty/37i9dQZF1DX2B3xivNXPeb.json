@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 36759,
+  "num_followers": 36762,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjhjNWYzNzNiNWExMzEzMDk5ZDJiODkwNTY5M2UwNWY5NTM2YjY3",
+  "snapshot_id": "MCxmY2I2YTgzZmVhMzExNDcyYzJlZTVhMzRjN2I4M2M0M2RjNmFhZmU1",
   "tracks": [
     {
       "added_at": "2023-11-10 17:37:13",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw"
+        "name": "Us",
+        "url": "https://open.spotify.com/album/5H62A6LN8NeKBt4rB2K8Bq"
       },
       "artists": [
         {
-          "name": "shiv",
-          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
+          "name": "Miller Blue",
+          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
         }
       ],
-      "duration_ms": 189426,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW"
+      "duration_ms": 183963,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/5BZhksMl6vZnTSvfJAhn9e"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
-        "name": "Us",
-        "url": "https://open.spotify.com/album/5H62A6LN8NeKBt4rB2K8Bq"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw"
       },
       "artists": [
         {
-          "name": "Miller Blue",
-          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
+          "name": "shiv",
+          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
         }
       ],
-      "duration_ms": 183963,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/5BZhksMl6vZnTSvfJAhn9e"
+      "duration_ms": 189426,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW"
     },
     {
       "added_at": "2023-11-10 17:37:13",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2023-11-10 17:37:13",
       "album": {
+        "name": "Apart",
+        "url": "https://open.spotify.com/album/1NthtnctJUX7DxcNv43Kft"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 195037,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/1uxW2hzpUKMkNAGnVVF3Xy"
+    },
+    {
+      "added_at": "2023-11-10 17:37:13",
+      "album": {
         "name": "Gettin' Down To It",
         "url": "https://open.spotify.com/album/1o3Rv2hBIXYw8pE0TqoM3X"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 200066,
       "name": "Blueberry Hill",
       "url": "https://open.spotify.com/track/2LSW1nlRZCHA6rZayezAUF"
-    },
-    {
-      "added_at": "2023-11-10 17:37:13",
-      "album": {
-        "name": "Apart",
-        "url": "https://open.spotify.com/album/1NthtnctJUX7DxcNv43Kft"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 195037,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/1uxW2hzpUKMkNAGnVVF3Xy"
     },
     {
       "added_at": "2023-11-10 17:37:13",

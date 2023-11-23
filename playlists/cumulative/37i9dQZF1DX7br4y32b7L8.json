@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "date_added": "2023-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143437,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/4eqKoFDvkBK96nYgUTXUWp"
+    },
+    {
+      "album": {
         "name": "Dance For Me (1, 2, 3)",
         "url": "https://open.spotify.com/album/4qUNnH1PZZQkUlpuNAECW3"
       },

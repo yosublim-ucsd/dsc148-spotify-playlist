@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 321777,
+  "num_followers": 322185,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGI2OTVjZThhZGQ5MjAyNDBkZGIwNGMzZjRlOWM5MzIxMTAzYTRi",
+  "snapshot_id": "MCxmMzZlZGNjNzE4ZGFiNTFlNzQyNDY4OGI5NWFiODlkOTg0NTM0OGI4",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -699,26 +699,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Look Easy",
-        "url": "https://open.spotify.com/album/0XCbNyUbT3873z30JAwkbi"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 165219,
-      "name": "Look Easy",
-      "url": "https://open.spotify.com/track/0JzPnwc3eDdyBeReXFLgXr"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "i can't go outside",
         "url": "https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU"
       },
@@ -739,18 +719,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Rocks (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg"
+        "name": "Look Easy",
+        "url": "https://open.spotify.com/album/0XCbNyUbT3873z30JAwkbi"
       },
       "artists": [
         {
-          "name": "JGrrey",
-          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 172910,
-      "name": "For Keeps",
-      "url": "https://open.spotify.com/track/14n6WNRYJDqXhWJKE57zln"
+      "duration_ms": 165219,
+      "name": "Look Easy",
+      "url": "https://open.spotify.com/track/0JzPnwc3eDdyBeReXFLgXr"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -767,6 +751,22 @@
       "duration_ms": 216793,
       "name": "Be Patient",
       "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Rocks (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg"
+      },
+      "artists": [
+        {
+          "name": "JGrrey",
+          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
+        }
+      ],
+      "duration_ms": 172910,
+      "name": "For Keeps",
+      "url": "https://open.spotify.com/track/14n6WNRYJDqXhWJKE57zln"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "FYO",
-        "url": "https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 164963,
-      "name": "FYO",
-      "url": "https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Nightrider",
         "url": "https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 300990,
       "name": "Nightrider",
       "url": "https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "FYO",
+        "url": "https://open.spotify.com/album/4JgRzrCeSKOxzlLXcslAy1"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 164963,
+      "name": "FYO",
+      "url": "https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "STAY UP / SWEET",
+        "url": "https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc"
+      },
+      "artists": [
+        {
+          "name": "Stevedreez",
+          "url": "https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE"
+        }
+      ],
+      "duration_ms": 229765,
+      "name": "STAY UP",
+      "url": "https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Big Bad Mood (feat. Miraa May)",
         "url": "https://open.spotify.com/album/4kpdV2LSaUGLSPLZWz7cEJ"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 229090,
       "name": "Big Bad Mood (feat. Miraa May)",
       "url": "https://open.spotify.com/track/3GdWGAtxFU9184mRdqfB0T"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "STAY UP / SWEET",
-        "url": "https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc"
-      },
-      "artists": [
-        {
-          "name": "Stevedreez",
-          "url": "https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE"
-        }
-      ],
-      "duration_ms": 229765,
-      "name": "STAY UP",
-      "url": "https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -951,6 +951,26 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Two Steps",
+        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
+      },
+      "artists": [
+        {
+          "name": "Maths Time Joy",
+          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
+        },
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Two Steps",
+      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Believe (feat. Fredwave & Jeshi)",
         "url": "https://open.spotify.com/album/0u1IdlsVv5D33d3aPKEZrL"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 208439,
       "name": "Believe (feat. Fredwave & Jeshi)",
       "url": "https://open.spotify.com/track/2DLxohwNmcbWktWGVG0dN7"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Two Steps",
-        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
-      },
-      "artists": [
-        {
-          "name": "Maths Time Joy",
-          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
-        },
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Two Steps",
-      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Heart-Shaped Box",
-        "url": "https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 169626,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Deep Blue",
         "url": "https://open.spotify.com/album/637SUNBNXsYqt6bh7rolJY"
       },
@@ -1059,6 +1043,38 @@
       "duration_ms": 196441,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/2h6xtPKtsmS8w3N2Ex9qrR"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Ma Jo Lo",
+        "url": "https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk"
+      },
+      "artists": [
+        {
+          "name": "Midas the Jagaban",
+          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
+        }
+      ],
+      "duration_ms": 147169,
+      "name": "Ma Jo Lo",
+      "url": "https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Heart-Shaped Box",
+        "url": "https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 169626,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1079,38 +1095,6 @@
       "duration_ms": 150783,
       "name": "Rendezvous (with Miraa May)",
       "url": "https://open.spotify.com/track/5JPF1NwO99YaxEF7AYFa0Z"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Beato Classico",
-        "url": "https://open.spotify.com/album/0dZhnLbdVByf9r4vAdMALB"
-      },
-      "artists": [
-        {
-          "name": "J Lloyd",
-          "url": "https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1"
-        }
-      ],
-      "duration_ms": 208959,
-      "name": "Beato Classico",
-      "url": "https://open.spotify.com/track/7I3PUsLHsP6RCp44lcOvI9"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Hot In Herre",
-        "url": "https://open.spotify.com/album/3nh64W0WwLqiG8eCHBJWXW"
-      },
-      "artists": [
-        {
-          "name": "LION BABE",
-          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
-        }
-      ],
-      "duration_ms": 185786,
-      "name": "Hot In Herre",
-      "url": "https://open.spotify.com/track/6YjRsyEcSOLKYIT5MIkKYT"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1151,26 +1135,34 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Forward",
-        "url": "https://open.spotify.com/album/1pDgEvP1r2JI9HZl39clKx"
+        "name": "Hot In Herre",
+        "url": "https://open.spotify.com/album/3nh64W0WwLqiG8eCHBJWXW"
       },
       "artists": [
         {
-          "name": "p-rallel",
-          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
-        },
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        },
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+          "name": "LION BABE",
+          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
         }
       ],
-      "duration_ms": 197277,
-      "name": "Can't Get Enough (feat. Rachel Chinouriri & Venna)",
-      "url": "https://open.spotify.com/track/7s47cTLl4j1JKawu308yId"
+      "duration_ms": 185786,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/6YjRsyEcSOLKYIT5MIkKYT"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Beato Classico",
+        "url": "https://open.spotify.com/album/0dZhnLbdVByf9r4vAdMALB"
+      },
+      "artists": [
+        {
+          "name": "J Lloyd",
+          "url": "https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1"
+        }
+      ],
+      "duration_ms": 208959,
+      "name": "Beato Classico",
+      "url": "https://open.spotify.com/track/7I3PUsLHsP6RCp44lcOvI9"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1207,6 +1199,30 @@
       "duration_ms": 221217,
       "name": "Super Good Times",
       "url": "https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/1pDgEvP1r2JI9HZl39clKx"
+      },
+      "artists": [
+        {
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+        },
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 197277,
+      "name": "Can't Get Enough (feat. Rachel Chinouriri & Venna)",
+      "url": "https://open.spotify.com/track/7s47cTLl4j1JKawu308yId"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Running In Waves",
-        "url": "https://open.spotify.com/album/0z6Jnk6r2knEl2wvRjOZsN"
-      },
-      "artists": [
-        {
-          "name": "George Riley",
-          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
-        }
-      ],
-      "duration_ms": 138630,
-      "name": "Jealousy",
-      "url": "https://open.spotify.com/track/1pHU8ttAqWRRGCvnoGOY3g"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "All Mine",
         "url": "https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO"
       },
@@ -1319,22 +1319,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "What Kinda Music (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2"
+        "name": "Running In Waves",
+        "url": "https://open.spotify.com/album/0z6Jnk6r2knEl2wvRjOZsN"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
         }
       ],
-      "duration_ms": 189683,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH"
+      "duration_ms": 138630,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/1pHU8ttAqWRRGCvnoGOY3g"
     }
   ],
   "unique_name": "Soultronic",

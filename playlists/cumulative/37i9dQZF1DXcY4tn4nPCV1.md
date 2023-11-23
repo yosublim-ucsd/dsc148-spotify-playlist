@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-380 songs - 16 hr 11 min
+383 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Coziness](https://open.spotify.com/track/7hGdGIg5Q7E1ojq7zWIbft) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Coziness](https://open.spotify.com/album/63zI87IvwsuXDn4BpuSFqT) | 2:00 | 2022-04-04 | 2022-07-08 |
 | [D'émeraude](https://open.spotify.com/track/27NsmJyv3hRvtP9V48xYNB) | [Daniel Joaví](https://open.spotify.com/artist/24edSJTejdFtLRivRZ7uGT) | [D'émeraude](https://open.spotify.com/album/6oDTazvN0pOA0ZMLOvR5lJ) | 2:06 | 2022-04-04 |  |
 | [Dahlias](https://open.spotify.com/track/0r0z0VyDa8X5fu3Kl6ybYi) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Dahlias](https://open.spotify.com/album/22hBdp6pvyZzEI3Fu8x58n) | 2:11 | 2022-04-04 |  |
+| [Daily Routine](https://open.spotify.com/track/3Cjph5SHBAwB3JTTFjAPci) | [Gale Moore](https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw) | [Daily Routine](https://open.spotify.com/album/2nrC6flLFnb4KFulBMM4VW) | 2:05 | 2023-11-20 |  |
 | [Dandelion Song](https://open.spotify.com/track/1wDYoGkjEyzH0LgYNuS4YS) | [Maël Alexandrienne](https://open.spotify.com/artist/5VQ1hti6Wtt95mSCrighiu) | [Dandelion Song](https://open.spotify.com/album/26QuZDw2nEtsvVWUUZaLwM) | 3:12 | 2022-04-04 | 2022-11-19 |
 | [Darfur](https://open.spotify.com/track/2Z82bNIH22cl7KbEmbgYsg) | [Regan O'leary](https://open.spotify.com/artist/1yg5ZzuhPtFiSx96ztMhub) | [Dynjandi](https://open.spotify.com/album/6ZNUdRVZ8XXAaGSpCQczkZ) | 2:30 | 2022-04-04 |  |
 | [Das Versprechen](https://open.spotify.com/track/1QCpwaFTWdn52B1MybBmGJ) | [Alma Klein](https://open.spotify.com/artist/13BmXB0asE1bzPqYfWSTin) | [Das Versprechen](https://open.spotify.com/album/0LgaZhljzonHcCWXVV8zF5) | 2:26 | 2022-04-04 | 2022-11-19 |
@@ -85,7 +86,7 @@
 | [Dreamscape](https://open.spotify.com/track/2NBflxsb2XJnTEBrFXy5XF) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Dreamscape](https://open.spotify.com/album/6NATzdC2BiLCImkdKA16jM) | 2:26 | 2023-08-01 |  |
 | [Duality](https://open.spotify.com/track/1sdV3pcwnK8twgSyqGtmo7) | [Bethany Howell](https://open.spotify.com/artist/0SDJYZtFgByzaTKZrb21kj) | [Water Lilies](https://open.spotify.com/album/7HUWpZuHBpU73fqW0sLEFA) | 2:13 | 2022-04-04 |  |
 | [Each glorious entity](https://open.spotify.com/track/6wldb27dwn4uxIGPELz55b) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [Each glorious entity](https://open.spotify.com/album/5AsSot5Zm8jb8iSBLg966r) | 2:13 | 2023-09-18 |  |
-| [Easy Mind](https://open.spotify.com/track/5yWqERL6uxGk8aM0kwTLLK) | [Melos Mind](https://open.spotify.com/artist/3rxp5aGDhyK8G8vYShjKG2) | [Emotional Echoes](https://open.spotify.com/album/4gnAnMDZEHLbJ2EXUT6Lof) | 1:50 | 2023-09-05 |  |
+| [Easy Mind](https://open.spotify.com/track/5yWqERL6uxGk8aM0kwTLLK) | [Melos Mind](https://open.spotify.com/artist/3rxp5aGDhyK8G8vYShjKG2) | [Emotional Echoes](https://open.spotify.com/album/4gnAnMDZEHLbJ2EXUT6Lof) | 1:50 | 2023-09-05 | 2023-11-23 |
 | [Elevate](https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Elevate](https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO) | 3:08 | 2022-04-04 |  |
 | [Ellipses](https://open.spotify.com/track/28GCsymrcDUXXLC12nkhp3) | [Dominique Marais](https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K) | [Ellipses](https://open.spotify.com/album/40Lka5pXfXf6wA3fRZAsZM) | 2:31 | 2022-04-04 |  |
 | [Emeralds](https://open.spotify.com/track/4cWtWIuQgQF5Tvn7PfqHzA) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Emeralds](https://open.spotify.com/album/6PHgykEEHPYKP67jLJaFWg) | 2:45 | 2022-04-04 |  |
@@ -222,6 +223,7 @@
 | [Når du er nær](https://open.spotify.com/track/5sRJUBDi77h3eJlhS2O7tY) | [Leah Dreyer](https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU) | [Når du er nær](https://open.spotify.com/album/5O8GtiNzgfsJxp7eC8w8hC) | 2:04 | 2023-02-28 |  |
 | [Ombre](https://open.spotify.com/track/3iwSjHyE2dXvTgzL2u771I) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Ombre](https://open.spotify.com/album/1ktCmaFnzHE10sLDumdAMT) | 2:05 | 2022-04-04 |  |
 | [One Step After Another](https://open.spotify.com/track/1zMF82eiy28XdnIpQeZc5t) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [One Step After Another](https://open.spotify.com/album/2UNtxSpZBHe97fM79W5QzG) | 2:06 | 2022-04-04 |  |
+| [Onirique](https://open.spotify.com/track/0BzV38nap8TF9v1Z8aX4Qk) | [Mes Croquis](https://open.spotify.com/artist/7p0rpxmlHJrDNXr8CP2JhW) | [Onirique](https://open.spotify.com/album/4AmV0ApxmACCuyh5KZRbJG) | 2:35 | 2023-11-20 |  |
 | [Open Mind Open Heart](https://open.spotify.com/track/3vqx2A8XnA6aHZ8THpNUfA) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Open Mind Open Heart](https://open.spotify.com/album/31VjY7OLmvvYe6JrEc5LSf) | 3:06 | 2022-04-04 |  |
 | [Open Thoughts](https://open.spotify.com/track/3yO3vslrpSAPNFnWuKh2x3) | [Cedric Grey](https://open.spotify.com/artist/6JbH37KxXJI583fPVzxyqO) | [Open Thoughts](https://open.spotify.com/album/7v1vAxGArRuuXSSshwjA1X) | 2:50 | 2022-10-14 |  |
 | [Ornamental](https://open.spotify.com/track/01rwfTz2dYAldzFRtACqTm) | [Marie Denis](https://open.spotify.com/artist/6rAjrihudWZBgNx0WsY2q3) | [Movement](https://open.spotify.com/album/5Mob5wTrlu4hFQUEL0Reb9) | 4:36 | 2022-04-04 |  |
@@ -252,6 +254,7 @@
 | [Quieta](https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY) | [Gioia Moreschi](https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH) | [Quieta](https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk) | 2:43 | 2022-04-04 | 2022-11-19 |
 | [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 | 2022-04-04 |  |
 | [Red Roses](https://open.spotify.com/track/5CF6kdYN9s5x3Zps5hHPDZ) | [Anderson Rivers](https://open.spotify.com/artist/7986zAExINQv5pQz94fBc3) | [Red Roses](https://open.spotify.com/album/4ahdVWqHe9HBFjoBfq5w9O) | 1:54 | 2022-04-04 | 2023-07-19 |
+| [Remain](https://open.spotify.com/track/2UZFceHSxA4HUsPdOp5Vzr) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Remain](https://open.spotify.com/album/4QxhQ7l9PaQx3QqfSqI3Ho) | 2:05 | 2023-11-20 |  |
 | [Remembrance](https://open.spotify.com/track/43z2LSP0180NFwr720P3xk) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Remembrance](https://open.spotify.com/album/7J0DCHHTGozed1GpKmge8J) | 2:26 | 2022-04-04 |  |
 | [Renaissance](https://open.spotify.com/track/5O0GM5NdPDLIhkxbQKlxFL) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Renaissance](https://open.spotify.com/album/5s31Hfu0bB2BiTuU9AbUKy) | 2:37 | 2022-09-20 |  |
 | [Respectfully](https://open.spotify.com/track/3GNy9aZAn5ZTdBm6Ha0XCt) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Harmonism I](https://open.spotify.com/album/2XOeI9TVCRZL28H4F5CYSm) | 2:10 | 2023-09-05 |  |

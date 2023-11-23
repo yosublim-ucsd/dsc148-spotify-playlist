@@ -4,7 +4,7 @@
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-185 songs - 11 hr 42 min
+186 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2021-11-05 |  |
 | [Help \- Recorded at East West Studios](https://open.spotify.com/track/5FY4iA2mqnJiYwWh3JB2gA) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Spotify Singles](https://open.spotify.com/album/15vSZCbdEfZAXWIuwVvhca) | 3:42 | 2021-11-05 | 2022-07-29 |
 | [Helplessly Hoping](https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Helplessly Hoping](https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA) | 2:39 | 2021-11-05 |  |
+| [Here Comes the Sun](https://open.spotify.com/track/1xbHo1GPXcfbw3lg9ImsNL) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Yesterday](https://open.spotify.com/album/5wA9NBMfYM8cv3Wa3b7Xye) | 2:21 | 2023-10-20 |  |
 | [Here Comes the Sun](https://open.spotify.com/track/4h9DsTf9n0cizUc0x3ljHP) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Here Comes the Sun](https://open.spotify.com/album/42TfoBfETVrKwCXZ9nBkTc) | 2:21 | 2021-11-05 | 2023-05-23 |
 | [Here Comes the Sun](https://open.spotify.com/track/6fRGlpbaHqgJpRirqWKif7) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Here Comes the Sun](https://open.spotify.com/album/2GXqBtE35cbS4TKzm5Tlb1) | 2:21 | 2023-05-12 | 2023-11-20 |
 | [Here Comes Your Man](https://open.spotify.com/track/2XgwFuyUbYZwk327DVYBIY) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO), [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Here Comes Your Man](https://open.spotify.com/album/7amyXS0aB3cRAmgVii9MMK) | 2:39 | 2021-11-05 | 2023-05-28 |
@@ -188,7 +189,7 @@
 | [You Never Can Tell](https://open.spotify.com/track/1GLMm7mMGNZznCUDr5JOkX) | [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Playing Chess](https://open.spotify.com/album/2Ob030pqqBl9S3DZ6kddLU) | 3:05 | 2022-02-04 | 2023-11-03 |
 | [You Never Can Tell](https://open.spotify.com/track/1JYLgZ1ScjqXbKjBD32hXz) | [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [You Never Can Tell](https://open.spotify.com/album/7LmSlhjBa1CvEaxkbZJ3oP) | 3:05 | 2021-11-05 | 2022-07-29 |
 | [You Never Can Tell](https://open.spotify.com/track/5V6Slm8bHgFA5wINHUZskE) | [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Playing Chess](https://open.spotify.com/album/6qxLZgtrMkwuRlZW9j6dYt) | 3:05 | 2023-10-20 |  |
-| [You'll Never Walk Alone](https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [You'll Never Walk Alone](https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM) | 1:58 | 2021-11-05 |  |
+| [You'll Never Walk Alone](https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [You'll Never Walk Alone](https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM) | 1:58 | 2021-11-05 | 2023-11-23 |
 | [You've Got The Love](https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 2:48 | 2021-11-05 |  |
 | [Your Song](https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 3:11 | 2021-11-05 |  |
 | [Zombie \(Live from the NIVA Save Our Stages Festival\)](https://open.spotify.com/track/0olaaJrCBTMJJvqPdvNpsx) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 4:50 | 2022-02-04 |  |

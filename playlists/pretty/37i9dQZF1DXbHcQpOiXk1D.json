@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: NIJI",
-  "num_followers": 301175,
+  "num_followers": 301268,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTNkYzNiMTdhNGQ3OTg3N2UxY2E2MGM2YTVkMTA4MDVkMDhhMTU1",
+  "snapshot_id": "MCw1Njg4ZDdhZTdiODhkZDc4ODU0ZDRkZTlmZDk1NDljNDMzMmYzZGM0",
   "tracks": [
     {
       "added_at": "2023-11-17 00:00:00",
@@ -211,18 +211,18 @@
     {
       "added_at": "2023-11-17 00:00:00",
       "album": {
-        "name": "Fukswityu",
-        "url": "https://open.spotify.com/album/1ERr7OlfiNNJWtKUQqyhdg"
+        "name": "Palms",
+        "url": "https://open.spotify.com/album/222ggbqdnLF0dXZ5L86YO9"
       },
       "artists": [
         {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+          "name": "Robohands",
+          "url": "https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Fukswityu",
-      "url": "https://open.spotify.com/track/7DqF3OvXVr9zMqG72a6hdX"
+      "duration_ms": 171612,
+      "name": "Palms",
+      "url": "https://open.spotify.com/track/1ogAD0gX8Bp0lfPyqYBy8s"
     },
     {
       "added_at": "2023-11-17 00:00:00",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-11-17 00:00:00",
       "album": {
-        "name": "Palms",
-        "url": "https://open.spotify.com/album/222ggbqdnLF0dXZ5L86YO9"
+        "name": "Fukswityu",
+        "url": "https://open.spotify.com/album/1ERr7OlfiNNJWtKUQqyhdg"
       },
       "artists": [
         {
-          "name": "Robohands",
-          "url": "https://open.spotify.com/artist/5qRtt9DQNy64ig66kCWFjX"
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
         }
       ],
-      "duration_ms": 171612,
-      "name": "Palms",
-      "url": "https://open.spotify.com/track/1ogAD0gX8Bp0lfPyqYBy8s"
+      "duration_ms": 202000,
+      "name": "Fukswityu",
+      "url": "https://open.spotify.com/track/7DqF3OvXVr9zMqG72a6hdX"
     },
     {
       "added_at": "2023-11-17 00:00:00",
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-11-17 00:00:00",
       "album": {
+        "name": "The Spoon",
+        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "duration_ms": 426240,
+      "name": "The Spoon",
+      "url": "https://open.spotify.com/track/0uv10KTgGsYAnC9m5io5D9"
+    },
+    {
+      "added_at": "2023-11-17 00:00:00",
+      "album": {
         "name": "Outlines",
         "url": "https://open.spotify.com/album/567bIsxKHOqBqNCUCSI5KU"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 170882,
       "name": "Time To Lose",
       "url": "https://open.spotify.com/track/4ywdVPBmQr1PAkAQitNqyS"
-    },
-    {
-      "added_at": "2023-11-17 00:00:00",
-      "album": {
-        "name": "The Spoon",
-        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        }
-      ],
-      "duration_ms": 426240,
-      "name": "The Spoon",
-      "url": "https://open.spotify.com/track/0uv10KTgGsYAnC9m5io5D9"
     },
     {
       "added_at": "2023-11-17 00:00:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-11-17 00:00:00",
       "album": {
+        "name": "Next Spring",
+        "url": "https://open.spotify.com/album/0gFX9wGUcQBYXDqJ5URIRC"
+      },
+      "artists": [
+        {
+          "name": "B-ahwe",
+          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
+        }
+      ],
+      "duration_ms": 224322,
+      "name": "Next Spring",
+      "url": "https://open.spotify.com/track/54ag16aEyB17RWbLWv05KW"
+    },
+    {
+      "added_at": "2023-11-17 00:00:00",
+      "album": {
         "name": "Find Your Peace (feat. Common, Robert Glasper & Jean Baylor)",
         "url": "https://open.spotify.com/album/2Xk2tl4haAIAl0HPq5LNSN"
       },
@@ -539,38 +555,6 @@
     {
       "added_at": "2023-11-17 00:00:00",
       "album": {
-        "name": "Leader",
-        "url": "https://open.spotify.com/album/3jGEbyweltG52QWuUBcSMm"
-      },
-      "artists": [
-        {
-          "name": "Bel Cobain",
-          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
-        }
-      ],
-      "duration_ms": 215413,
-      "name": "Leader",
-      "url": "https://open.spotify.com/track/55hpPQktBgKbCm12iOqOH7"
-    },
-    {
-      "added_at": "2023-11-17 00:00:00",
-      "album": {
-        "name": "Next Spring",
-        "url": "https://open.spotify.com/album/0gFX9wGUcQBYXDqJ5URIRC"
-      },
-      "artists": [
-        {
-          "name": "B-ahwe",
-          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
-        }
-      ],
-      "duration_ms": 224322,
-      "name": "Next Spring",
-      "url": "https://open.spotify.com/track/54ag16aEyB17RWbLWv05KW"
-    },
-    {
-      "added_at": "2023-11-17 00:00:00",
-      "album": {
         "name": "Saturnine",
         "url": "https://open.spotify.com/album/4DsFPZkhSucdsBJ3uhc5aK"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 293298,
       "name": "Saturnine",
       "url": "https://open.spotify.com/track/4QkOc5MFpxpQxcRBrAkxTz"
+    },
+    {
+      "added_at": "2023-11-17 00:00:00",
+      "album": {
+        "name": "Leader",
+        "url": "https://open.spotify.com/album/3jGEbyweltG52QWuUBcSMm"
+      },
+      "artists": [
+        {
+          "name": "Bel Cobain",
+          "url": "https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F"
+        }
+      ],
+      "duration_ms": 215413,
+      "name": "Leader",
+      "url": "https://open.spotify.com/track/55hpPQktBgKbCm12iOqOH7"
     },
     {
       "added_at": "2023-11-17 00:00:00",
@@ -840,65 +840,13 @@
           "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         },
         {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Charlie Stacey",
-          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
         }
       ],
-      "duration_ms": 319040,
-      "name": "Black Classical Music (feat. Venna & Charlie Stacey)",
-      "url": "https://open.spotify.com/track/3hmCHZFkgE4tkJKSqpOUhz"
-    },
-    {
-      "added_at": "2023-11-17 00:00:00",
-      "album": {
-        "name": "Gift from the Trees",
-        "url": "https://open.spotify.com/album/0ENdkZVVDwCrMhdl29Ccdl"
-      },
-      "artists": [
-        {
-          "name": "Mammal Hands",
-          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
-        }
-      ],
-      "duration_ms": 312438,
-      "name": "Nightingale",
-      "url": "https://open.spotify.com/track/2WY3akDTRwojfbqQWNfSAP"
-    },
-    {
-      "added_at": "2023-11-17 00:00:00",
-      "album": {
-        "name": "We Give Thanks",
-        "url": "https://open.spotify.com/album/0Z5523HDV8PzT0Ea3I2IDb"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "We Give Thanks",
-      "url": "https://open.spotify.com/track/1jcd0ZDms179eAAohF6IVz"
-    },
-    {
-      "added_at": "2023-11-17 00:00:00",
-      "album": {
-        "name": "Friday Film Special",
-        "url": "https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 249675,
-      "name": "Friday Film Special",
-      "url": "https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ"
+      "duration_ms": 271826,
+      "name": "Raisins Under the Sun (feat. Shabaka Hutchings)",
+      "url": "https://open.spotify.com/track/24ZA5a59iToToWe7pPT0A7"
     },
     {
       "added_at": "2023-11-17 00:00:00",
@@ -919,6 +867,54 @@
     {
       "added_at": "2023-11-17 00:00:00",
       "album": {
+        "name": "We Give Thanks",
+        "url": "https://open.spotify.com/album/0Z5523HDV8PzT0Ea3I2IDb"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 220853,
+      "name": "We Give Thanks",
+      "url": "https://open.spotify.com/track/1jcd0ZDms179eAAohF6IVz"
+    },
+    {
+      "added_at": "2023-11-17 00:00:00",
+      "album": {
+        "name": "Gift from the Trees",
+        "url": "https://open.spotify.com/album/0ENdkZVVDwCrMhdl29Ccdl"
+      },
+      "artists": [
+        {
+          "name": "Mammal Hands",
+          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
+        }
+      ],
+      "duration_ms": 312438,
+      "name": "Nightingale",
+      "url": "https://open.spotify.com/track/2WY3akDTRwojfbqQWNfSAP"
+    },
+    {
+      "added_at": "2023-11-17 00:00:00",
+      "album": {
+        "name": "Friday Film Special",
+        "url": "https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 249675,
+      "name": "Friday Film Special",
+      "url": "https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ"
+    },
+    {
+      "added_at": "2023-11-17 00:00:00",
+      "album": {
         "name": "My Voice",
         "url": "https://open.spotify.com/album/3307v7bngEkIXsB6OZWBy8"
       },
@@ -931,6 +927,22 @@
       "duration_ms": 271040,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/1ssRJeVukT0jJEoBO8b0c7"
+    },
+    {
+      "added_at": "2023-11-17 00:00:00",
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+        }
+      ],
+      "duration_ms": 400800,
+      "name": "Words Left Unspoken",
+      "url": "https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX"
     },
     {
       "added_at": "2023-11-17 00:00:00",
@@ -971,22 +983,6 @@
     {
       "added_at": "2023-11-17 00:00:00",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/0f3k4tF3PXSsRKnklbiKKe"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Myra",
-          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
-        }
-      ],
-      "duration_ms": 400800,
-      "name": "Words Left Unspoken",
-      "url": "https://open.spotify.com/track/2b7mhgBdpvDCLYGK8nRfMX"
-    },
-    {
-      "added_at": "2023-11-17 00:00:00",
-      "album": {
         "name": "Black Classical Music",
         "url": "https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET"
       },
@@ -996,13 +992,17 @@
           "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         },
         {
-          "name": "Bahia Dayes",
-          "url": "https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK"
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Charlie Stacey",
+          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
         }
       ],
-      "duration_ms": 340840,
-      "name": "The Light (feat. Bahia Dayes)",
-      "url": "https://open.spotify.com/track/1mkzHA0suincRybCyk5fis"
+      "duration_ms": 319040,
+      "name": "Black Classical Music (feat. Venna & Charlie Stacey)",
+      "url": "https://open.spotify.com/track/3hmCHZFkgE4tkJKSqpOUhz"
     },
     {
       "added_at": "2023-11-17 00:00:00",
@@ -1023,6 +1023,26 @@
       "duration_ms": 220001,
       "name": "Woe Is Me",
       "url": "https://open.spotify.com/track/6vtf3U3toO8stSeLInVJtL"
+    },
+    {
+      "added_at": "2023-11-17 00:00:00",
+      "album": {
+        "name": "26% MIXTAPE",
+        "url": "https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi"
+      },
+      "artists": [
+        {
+          "name": "B-ahwe",
+          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
+        },
+        {
+          "name": "NEONE the Wonderer",
+          "url": "https://open.spotify.com/artist/72RMKo8u5oIuTtyE8HAv5E"
+        }
+      ],
+      "duration_ms": 221409,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/5z9JBWHqRO5Wvz3cWwkCih"
     },
     {
       "added_at": "2023-11-17 00:00:00",
@@ -1075,6 +1095,22 @@
     {
       "added_at": "2023-11-17 00:00:00",
       "album": {
+        "name": "FIELDNOTES PT III",
+        "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "duration_ms": 191707,
+      "name": "Take It Easy (Miles' Song)",
+      "url": "https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob"
+    },
+    {
+      "added_at": "2023-11-17 00:00:00",
+      "album": {
         "name": "STR4TASFEAR Remixes",
         "url": "https://open.spotify.com/album/3dCSbKuoc31g6ebi6I2XZL"
       },
@@ -1095,6 +1131,30 @@
       "duration_ms": 391640,
       "name": "Lazy Days (feat. Emma-Jean Thackray) [Bluey Remix]",
       "url": "https://open.spotify.com/track/5yfojFTeq7UFGuuV3UT9O0"
+    },
+    {
+      "added_at": "2023-11-17 00:00:00",
+      "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/7yw4bZ9kbrQapS8V0Z32Ww"
+      },
+      "artists": [
+        {
+          "name": "Myele Manzanza",
+          "url": "https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd"
+        },
+        {
+          "name": "Matthew Sheens",
+          "url": "https://open.spotify.com/artist/0JPXDx4VWAKMfFCVg2mw5E"
+        },
+        {
+          "name": "Matt Penman",
+          "url": "https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k"
+        }
+      ],
+      "duration_ms": 424960,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/1Rd9TkiuqfUXMYNgguXpKY"
     },
     {
       "added_at": "2023-11-17 00:00:00",
@@ -1127,30 +1187,6 @@
     {
       "added_at": "2023-11-17 00:00:00",
       "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/7yw4bZ9kbrQapS8V0Z32Ww"
-      },
-      "artists": [
-        {
-          "name": "Myele Manzanza",
-          "url": "https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd"
-        },
-        {
-          "name": "Matthew Sheens",
-          "url": "https://open.spotify.com/artist/0JPXDx4VWAKMfFCVg2mw5E"
-        },
-        {
-          "name": "Matt Penman",
-          "url": "https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k"
-        }
-      ],
-      "duration_ms": 424960,
-      "name": "Homesick",
-      "url": "https://open.spotify.com/track/1Rd9TkiuqfUXMYNgguXpKY"
-    },
-    {
-      "added_at": "2023-11-17 00:00:00",
-      "album": {
         "name": "Voice Notes",
         "url": "https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs"
       },
@@ -1163,26 +1199,6 @@
       "duration_ms": 277026,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/30kI3i0mbyg8dXu7aEpqK4"
-    },
-    {
-      "added_at": "2023-11-17 00:00:00",
-      "album": {
-        "name": "26% MIXTAPE",
-        "url": "https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi"
-      },
-      "artists": [
-        {
-          "name": "B-ahwe",
-          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
-        },
-        {
-          "name": "NEONE the Wonderer",
-          "url": "https://open.spotify.com/artist/72RMKo8u5oIuTtyE8HAv5E"
-        }
-      ],
-      "duration_ms": 221409,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/5z9JBWHqRO5Wvz3cWwkCih"
     },
     {
       "added_at": "2023-11-17 00:00:00",
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2023-11-17 00:00:00",
       "album": {
-        "name": "FIELDNOTES PT III",
-        "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
-      },
-      "artists": [
-        {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
-        }
-      ],
-      "duration_ms": 191707,
-      "name": "Take It Easy (Miles' Song)",
-      "url": "https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob"
-    },
-    {
-      "added_at": "2023-11-17 00:00:00",
-      "album": {
         "name": "Hide To Seek",
         "url": "https://open.spotify.com/album/3PfYPUMLpfrmZSbCKz32v8"
       },
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-11-17 00:00:00",
       "album": {
-        "name": "Late Night People",
-        "url": "https://open.spotify.com/album/5pN3T9hCW6y9OKAgJnEYYo"
+        "name": "The Morning Side of Love",
+        "url": "https://open.spotify.com/album/4pK5UBmbIGB03jcNZb4TJf"
       },
       "artists": [
         {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
         }
       ],
-      "duration_ms": 334000,
-      "name": "Late Night People",
-      "url": "https://open.spotify.com/track/69y3XAgRaXrtO5h9YvpPHJ"
+      "duration_ms": 233120,
+      "name": "The Morning Side of Love",
+      "url": "https://open.spotify.com/track/0DsPpM0dgvdJSaf48Qoro3"
     },
     {
       "added_at": "2023-11-17 00:00:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2023-11-17 00:00:00",
       "album": {
-        "name": "The Morning Side of Love",
-        "url": "https://open.spotify.com/album/4pK5UBmbIGB03jcNZb4TJf"
+        "name": "Late Night People",
+        "url": "https://open.spotify.com/album/5pN3T9hCW6y9OKAgJnEYYo"
       },
       "artists": [
         {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 233120,
-      "name": "The Morning Side of Love",
-      "url": "https://open.spotify.com/track/0DsPpM0dgvdJSaf48Qoro3"
+      "duration_ms": 334000,
+      "name": "Late Night People",
+      "url": "https://open.spotify.com/track/69y3XAgRaXrtO5h9YvpPHJ"
     },
     {
       "added_at": "2023-11-17 00:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-11-17 00:00:00",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 352633,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP"
-    },
-    {
-      "added_at": "2023-11-17 00:00:00",
-      "album": {
         "name": "Lovestruck in London",
         "url": "https://open.spotify.com/album/5FGBnsHX3HAHOIOsJSOOaK"
       },
@@ -1431,6 +1415,26 @@
       "duration_ms": 174764,
       "name": "If You Love The Moon",
       "url": "https://open.spotify.com/track/3FPqks4SM8B5gV8tdpEwML"
+    },
+    {
+      "added_at": "2023-11-17 00:00:00",
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT"
+      },
+      "artists": [
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge"
     }
   ],
   "unique_name": "Jazz UK",

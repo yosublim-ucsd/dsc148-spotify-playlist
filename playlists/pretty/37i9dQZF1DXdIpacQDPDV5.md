@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Keys N Krates & Ciara
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,115 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,162 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 69 | [Falling \(For You\)](https://open.spotify.com/track/1cWpspgmyzdO0CzNK5XxXK) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Falling \(For You\)](https://open.spotify.com/album/6bv3fsGWdJPg0MobxWS0eQ) | 3:48 |
 | 70 | [ACHOO!](https://open.spotify.com/track/5RuUuBtaiPVnACY5nTohue) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [CRITTERS](https://open.spotify.com/album/7jycItY9gSsb0WJKLXFuOL) | 1:39 |
 
-Snapshot ID: `MCw5NTNkOWUzMmY2NDY0ZWY2N2FkZWNmYjQwOTVmMGJjMTFjZWIxOThh`
+Snapshot ID: `MCw0MTBmODI0N2ZhNDJlZmU1YWYyMjM5ZmI3M2IwMzA1NmM5ZmNmNTRk`

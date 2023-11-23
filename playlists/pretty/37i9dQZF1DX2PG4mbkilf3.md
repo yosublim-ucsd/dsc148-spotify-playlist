@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada\. Elevate your aura with DJ Rosegold, Savannah Ré and Fana Hues\. 🩷
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,767 likes - 99 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,844 likes - 99 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 16 | [It's You \(feat\. BIA\)](https://open.spotify.com/track/1JwxfXrNbw2tfh0X4ZzQtR) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Real World](https://open.spotify.com/album/1oOQ3NNONlroyPGbElifW3) | 2:12 |
 | 17 | [Ain't You](https://open.spotify.com/track/7yTVwl7gjKjiZJcyrcK6GE) | [GOODBADUGLY](https://open.spotify.com/artist/1lhpezG9iqq6YgLFcKlIA9), [Amari](https://open.spotify.com/artist/6833GgqHOy9y9Dqnsxko1u) | [Ain't You](https://open.spotify.com/album/5ajGSLZVzKx3NmKMPGiFhw) | 2:36 |
 | 18 | [Counting Thunder](https://open.spotify.com/track/0s754byjLl95PM4g25ZSmT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [Counting Thunder](https://open.spotify.com/album/3tPOrTz9PROAgrRWkiL1x8) | 3:18 |
-| 19 | [Hello](https://open.spotify.com/track/1Sr7G1nLlnAFZ8AKT7PuGo) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Hello](https://open.spotify.com/album/3eBHvRyUhfarjwJH0YK7HK) | 3:15 |
+| 19 | [Hello](https://open.spotify.com/track/1YDrNRfnJKkyEuwCUId1vG) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [For the Better](https://open.spotify.com/album/6AlZ1GbJS3uLy8m23EhTfE) | 3:15 |
 | 20 | [Tell Me](https://open.spotify.com/track/53Oolv5zeMnrA4EltNQU2O) | [Sir Travis Knight](https://open.spotify.com/artist/2hXZ3inKoskqRJ9eqAQQxQ) | [Tell Me](https://open.spotify.com/album/2hS2Hbho3XUFzY1JQiLhN7) | 3:39 |
 | 21 | [TWYN](https://open.spotify.com/track/242XDNH51jlYKGcudDDv2C) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [TWYN / Crescent](https://open.spotify.com/album/05uTcwSJ4qXEFhNn3ZP1gB) | 2:37 |
 | 22 | [Unbreakable](https://open.spotify.com/track/3mQmuCyvzPmfxiLXggUgBY) | [Jhyve](https://open.spotify.com/artist/0HmsavbsOIIyKWdQOyFh2f) | [Unbreakable](https://open.spotify.com/album/0T1etrAWsXnW1q84XgtaDT) | 3:45 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 98 | [Notice It](https://open.spotify.com/track/1dYKS6bOekZjU3d1TLwyIr) | [Mighloe](https://open.spotify.com/artist/44obblyrd8EsnfeDkJpiov) | [Notice It](https://open.spotify.com/album/0CwyOwZPnaxCfZv7jEW3di) | 3:16 |
 | 99 | [NDZ](https://open.spotify.com/track/4AVaqcOFUH1JBtMTNKZEXd) | [Afta Hill](https://open.spotify.com/artist/2QyfQWgIraqOxY6uBmwP6f) | [NOTHING nothing](https://open.spotify.com/album/4sOJHnuwsLnFmgDehTLamo) | 3:35 |
 
-Snapshot ID: `MCw5NWUwZDE0NzA4MGYyN2I4NTAyZGYyNjhhOWM5YjBlMjJjNjgwOTk4`
+Snapshot ID: `MCw4ZDgwMGMzNGYzMmMzZjgwYjNkNjJiYWI3MzkxNmVjZTVlMDRkMjVi`

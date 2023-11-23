@@ -1,12 +1,12 @@
 {
   "description": "The ultimate chilled soundtrack to bring your day to a close.",
-  "num_followers": 365332,
+  "num_followers": 365390,
   "original_name": "Ibiza Sunset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzMyYWFkYWNkNGUzNmM5NWEyYjI1YTgwYTc2NTZjMzIxZWRjMTdi",
+  "snapshot_id": "MCxiNzRmNTJmNTliYzdhZTIyOTQ1NmY4NWUxNzY4NGJkOGQyNTQ0NDZh",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Its me ( g 8 ) / Oway ( f 7 )",
-        "url": "https://open.spotify.com/album/6rZTJHYLDsA564tCn9kEJ9"
-      },
-      "artists": [
-        {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
-        }
-      ],
-      "duration_ms": 317765,
-      "name": "Its me ( g 8 )",
-      "url": "https://open.spotify.com/track/3dC6yRjocmprQqEYvv72Ft"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 272093,
       "name": "born slipping",
       "url": "https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Its me ( g 8 ) / Oway ( f 7 )",
+        "url": "https://open.spotify.com/album/6rZTJHYLDsA564tCn9kEJ9"
+      },
+      "artists": [
+        {
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        }
+      ],
+      "duration_ms": 317765,
+      "name": "Its me ( g 8 )",
+      "url": "https://open.spotify.com/track/3dC6yRjocmprQqEYvv72Ft"
     },
     {
       "added_at": "2023-11-17 00:01:00",

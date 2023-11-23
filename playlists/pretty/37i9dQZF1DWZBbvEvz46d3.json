@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 62517,
+  "num_followers": 62540,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTBkMjg2MDY4YzE1ODRiMGYwZDFmOGU5OGEzOGU3MzkwYzRkYWU4",
+  "snapshot_id": "MCwwNjBjYzMxYzA0NmYzN2IzMDQ4YjIyMjlhMDU1NTBmNzZjOTNhNDI3",
   "tracks": [
     {
       "added_at": "2023-09-01 14:10:27",
@@ -983,6 +983,26 @@
     {
       "added_at": "2023-09-01 14:10:27",
       "album": {
+        "name": "Nie k\u0142am \u017ce mnie kochasz",
+        "url": "https://open.spotify.com/album/4E8A1oe3EKWx8AFeFJ0Fz0"
+      },
+      "artists": [
+        {
+          "name": "Ewelina Flinta",
+          "url": "https://open.spotify.com/artist/3gd9XZQnyJXTVfLZh1BF6v"
+        },
+        {
+          "name": "\u0141ukasz Zagrobelny",
+          "url": "https://open.spotify.com/artist/1AnN7D0tGyWS5d3l38oqR0"
+        }
+      ],
+      "duration_ms": 186026,
+      "name": "Nie k\u0142am \u017ce mnie kochasz",
+      "url": "https://open.spotify.com/track/0Xj3MeniDBK33I1YZcqlqP"
+    },
+    {
+      "added_at": "2023-09-01 14:10:27",
+      "album": {
         "name": "Omamy",
         "url": "https://open.spotify.com/album/4izFXcjIxPzX86R1hRAUbD"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 374093,
       "name": "Nikt tak pi\u0119knie nie m\u00f3wi\u0142, \u017ce si\u0119 boi mi\u0142o\u015bci",
       "url": "https://open.spotify.com/track/1kNPvVDqN2KZZrOhyqEiux"
-    },
-    {
-      "added_at": "2023-09-01 14:10:27",
-      "album": {
-        "name": "Nie k\u0142am \u017ce mnie kochasz",
-        "url": "https://open.spotify.com/album/4E8A1oe3EKWx8AFeFJ0Fz0"
-      },
-      "artists": [
-        {
-          "name": "Ewelina Flinta",
-          "url": "https://open.spotify.com/artist/3gd9XZQnyJXTVfLZh1BF6v"
-        },
-        {
-          "name": "\u0141ukasz Zagrobelny",
-          "url": "https://open.spotify.com/artist/1AnN7D0tGyWS5d3l38oqR0"
-        }
-      ],
-      "duration_ms": 186026,
-      "name": "Nie k\u0142am \u017ce mnie kochasz",
-      "url": "https://open.spotify.com/track/0Xj3MeniDBK33I1YZcqlqP"
     },
     {
       "added_at": "2023-09-01 14:10:27",

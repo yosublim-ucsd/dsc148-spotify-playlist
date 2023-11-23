@@ -2215,6 +2215,32 @@
     },
     {
       "album": {
+        "name": "El Rey del Fango",
+        "url": "https://open.spotify.com/album/4C5vM3WmU89BUm3RggFYWn"
+      },
+      "artists": [
+        {
+          "name": "Sid MSC",
+          "url": "https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Sauceda Sm",
+          "url": "https://open.spotify.com/artist/40ThJcLn6Q4EPT2e2a9QKm"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288235,
+      "name": "De Donde Vengo",
+      "url": "https://open.spotify.com/track/26tOATEcWkKnW1SI6fTMrO"
+    },
+    {
+      "album": {
         "name": "De Niro",
         "url": "https://open.spotify.com/album/3g54wS3nIA94mvCwrE4LQ5"
       },
@@ -8688,7 +8714,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 222857,
       "name": "Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/3Do3yeHyrQtV302BQxeOWj"

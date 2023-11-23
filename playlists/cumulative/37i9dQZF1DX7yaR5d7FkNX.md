@@ -4,7 +4,7 @@
 
 > Disfrutemos del amor en los tiempos del rock.
 
-199 songs - 12 hr 15 min
+200 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Buenos Días, Tardes Ya](https://open.spotify.com/track/2R199UIEVC34Nou5YQahMj) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Buenos Días, Tardes Ya](https://open.spotify.com/album/5yelo0AalKgvc2TzyOXbJ2) | 4:12 | 2022-01-28 | 2023-11-07 |
 | [Cachito De Galaxia](https://open.spotify.com/track/6T0ATRfwd6t1xEuVS2hgGN) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [La Historia Sin Fin](https://open.spotify.com/album/6k6jrCUKBeZflALDUS8UF3) | 4:57 | 2022-02-25 |  |
 | [Califórnica](https://open.spotify.com/track/50gjhPjZCyQpya1Bcq2BNe) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Monarca](https://open.spotify.com/album/2Y2jwkzcM6CszpX1FEghEw) | 3:30 | 2022-04-26 | 2023-07-01 |
+| [Carta de Amor](https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Carta de Amor](https://open.spotify.com/album/3vvkKLrUnow3o3O3VbRiUF) | 2:56 | 2023-11-22 |  |
 | [Cerca](https://open.spotify.com/track/2qZ146aMtXEx3mQ4qLijol) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Cerca](https://open.spotify.com/album/7H9c1oaTs6DRLoRM1SR3it) | 4:43 | 2023-02-10 |  |
 | [Como Quiero Que Me Quieras](https://open.spotify.com/track/71NIlviM9agiffcoqAVKE1) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Como Quiero Que Me Quieras](https://open.spotify.com/album/3xTH9gNXwR0KJgkEKEP7Si) | 3:54 | 2022-08-13 | 2023-02-18 |
 | [Como Tú](https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [ECOS](https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty) | 3:13 | 2022-07-01 | 2023-09-02 |
@@ -62,7 +63,7 @@
 | [Dime](https://open.spotify.com/track/3kgBm26rI8faWMTxyzyJF3) | [Polaris](https://open.spotify.com/artist/4f8qDCXvGLNPj783d6PTWS) | [Dime](https://open.spotify.com/album/3Q8Wtw6UB5xLQQ15tb7z9B) | 3:01 | 2022-01-28 | 2023-11-07 |
 | [Dime Como Tú Quieras](https://open.spotify.com/track/09uJJFpcg2q2zuiYRC4PZT) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Pangea](https://open.spotify.com/album/4ZXSSk6W16s3Jn7EXOnVFU) | 3:08 | 2022-01-28 | 2023-07-01 |
 | [Discomanía](https://open.spotify.com/track/3UXcPbwfPgYQjr7tH72p0Q) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Discomanía](https://open.spotify.com/album/24sgoyMdfp46v2N1gYcN2K) | 3:08 | 2023-07-21 | 2023-09-02 |
-| [Dos Amantes](https://open.spotify.com/track/66lOJXZVLAIBFogLrXM4Z6) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Dos Amantes](https://open.spotify.com/album/58yZYSZWbW5RP5xMZTqsgM) | 4:10 | 2022-01-28 |  |
+| [Dos Amantes](https://open.spotify.com/track/66lOJXZVLAIBFogLrXM4Z6) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Dos Amantes](https://open.spotify.com/album/58yZYSZWbW5RP5xMZTqsgM) | 4:10 | 2022-01-28 | 2023-11-23 |
 | [EL FINAL](https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [EL FINAL](https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00) | 3:52 | 2023-05-19 |  |
 | [El grito](https://open.spotify.com/track/1dQuJZVVlSTiFmiKveWNc8) | [Mikel Izal](https://open.spotify.com/artist/4H3BAAfpEcLHQkaQKfvoW8) | [El grito](https://open.spotify.com/album/4X7CJxDX5KU5taf312VW4U) | 4:40 | 2023-09-22 |  |
 | [El Principal](https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [El Principal](https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v) | 3:30 | 2023-05-05 |  |

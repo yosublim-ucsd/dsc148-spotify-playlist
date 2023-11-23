@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(7044\)
+## Playlists \(7046\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1959,6 +1959,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Fiesta 80era](/playlists/pretty/37i9dQZF1DWVA4ETicgIky.md)
 - [Fiesta 90era](/playlists/pretty/37i9dQZF1DWW7hJS3Xj96I.md)
 - [Fiesta Cumbiera](/playlists/pretty/37i9dQZF1DX7N7YskrtOXJ.md)
+- [Fiesta Decembrina](/playlists/pretty/37i9dQZF1DX0sf2VCrbIti.md)
 - [Fiesta Indie](/playlists/pretty/37i9dQZF1DWSXAHZTiX76o.md)
 - [Fiesta Pop](/playlists/pretty/37i9dQZF1DXe9UYa8hql9y.md)
 - [Fiesta Tribal](/playlists/pretty/37i9dQZF1DWWS4QNfVp7YQ.md)
@@ -2168,6 +2169,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Fuego \#073 \- Ronald Acuña Jr.'s Mixtape](/playlists/pretty/37i9dQZF1DWWnwM5ZuDrb9.md)
 - [Fuego \#074 \- Santi's Mixtape](/playlists/pretty/37i9dQZF1DWWB0NjvuKCFr.md)
 - [Fuego \#075 \- Alvaro Diaz's Mixtape](/playlists/pretty/37i9dQZF1DXafqGLBKMLN6.md)
+- [Fuego \#076 \- Fernando Tatis Jr.'s Mixtape](/playlists/pretty/37i9dQZF1DX4fFkqL63eE4.md)
 - [Fuego \- \#059 Sofia Bella's Mixtape](/playlists/pretty/37i9dQZF1DWW9fd5h9dO0R.md)
 - [Full Volume](/playlists/pretty/37i9dQZF1DWUv0cTKdT8jJ.md)
 - [Fun Run](/playlists/pretty/37i9dQZF1DXadOVCgGhS7j.md)
@@ -2360,7 +2362,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [HBO Rap Sh!t's Taste](/playlists/pretty/37i9dQZF1DWYzh3WlsCZMx.md)
 - [HEADPHONES](/playlists/pretty/6ZWbm0tcNxeVmHdssy03yN.md)
 - [HIPHOPPLAYA FESTIVAL 2023](/playlists/pretty/37i9dQZF1DWUAivYWxeKnI.md)
-- [HOT NOW \- Humbe](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
+- [HOT NOW \- Björk & ROSALÍA](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
 - [HOUSE MUSIC 2023 \| TOP 100 DANCE HITS](/playlists/pretty/2otQLmbi8QWHjDfq3eL0DC.md)
 - [HOUSE PARTY BANGERS](/playlists/pretty/0ZWYUjUMhaq0Rammqq3qu1.md)
 - [HUMO](/playlists/pretty/37i9dQZF1DXbONvB5b3uef.md)
@@ -2969,6 +2971,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [La Marisquería con Ozz](/playlists/pretty/37i9dQZF1DWSujWHEEwoTJ.md)
 - [La Milagrosa](/playlists/pretty/37i9dQZF1DX8NWoQCKSdnQ.md)
 - [La Nueva Ola: Música Mexicana](/playlists/pretty/37i9dQZF1DX3bSsPe97LMN.md)
+- [La Playlist Botanera](/playlists/pretty/37i9dQZF1DWZufbpO1g3tw.md)
 - [La Posada](/playlists/pretty/37i9dQZF1DWSODGCFPHOmt.md)
 - [La Pozoliza](/playlists/pretty/37i9dQZF1DX5ofUCE5KJAn.md)
 - [La Reina: Éxitos de la Música Mexicana](/playlists/pretty/37i9dQZF1DX905zIRtblN3.md)
@@ -3160,7 +3163,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Los 90 Argentina](/playlists/pretty/37i9dQZF1DX8KUmmjlkOod.md)
 - [Los 90 México](/playlists/pretty/37i9dQZF1DWZfQQ5UXqF0s.md)
 - [Los Animalitos](/playlists/pretty/37i9dQZF1DWTruDfET03YK.md)
-- [Los Chilaquiles](/playlists/pretty/37i9dQZF1DWZufbpO1g3tw.md)
 - [Los Gallos](/playlists/pretty/37i9dQZF1DX5moeZr1JWKb.md)
 - [Los Malportados](/playlists/pretty/37i9dQZF1DX5U6zglSmV86.md)
 - [Los Que Mandan](/playlists/pretty/37i9dQZF1DXb0COFso7q0D.md)

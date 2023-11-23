@@ -7135,6 +7135,24 @@
     },
     {
       "album": {
+        "name": "Slime",
+        "url": "https://open.spotify.com/album/44ccxqrWWElidyDHNU3W3M"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238946,
+      "name": "Slime",
+      "url": "https://open.spotify.com/track/3jWZUXWXIWDsXVwrkwjOhS"
+    },
+    {
+      "album": {
         "name": "Waiting to Spill",
         "url": "https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C"
       },
@@ -7932,7 +7950,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-23",
       "duration_ms": 237547,
       "name": "The Cabin",
       "url": "https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc"
