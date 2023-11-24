@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest house bangers popping off in the UK, let's go! SOSA",
+  "description": "The biggest house bangers popping off in the UK, let's go! LF SYSTEM, Paul Woolford, Shayan",
   "name": "UK House Music",
   "tracks": [
     {
@@ -938,6 +938,24 @@
       "duration_ms": 176264,
       "name": "Badman Sound",
       "url": "https://open.spotify.com/track/7FcxEutyfHTCKlN2MltRAh"
+    },
+    {
+      "album": {
+        "name": "Bassline Pumping EP",
+        "url": "https://open.spotify.com/album/4AWsi577XmBqslAYZVQLxE"
+      },
+      "artists": [
+        {
+          "name": "Ozzie Guven",
+          "url": "https://open.spotify.com/artist/6VjxkdeZYfc1U2pC3JmwLy"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210232,
+      "name": "Bassline Pumping",
+      "url": "https://open.spotify.com/track/4M11hrPXG4kOKGJoStB0QA"
     },
     {
       "album": {
@@ -2824,7 +2842,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 228760,
       "name": "Dirty Dance",
       "url": "https://open.spotify.com/track/4VMawgqtTlOOHIoad2zPdh"
@@ -3288,6 +3306,28 @@
       "duration_ms": 228216,
       "name": "D\u00d3NDE EST\u00c1",
       "url": "https://open.spotify.com/track/35syZ8HVLl1YBS0bY6nzaj"
+    },
+    {
+      "album": {
+        "name": "E-Soul",
+        "url": "https://open.spotify.com/album/16hF10iERvFSYxGV4ty43f"
+      },
+      "artists": [
+        {
+          "name": "Darius Syrossian",
+          "url": "https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf"
+        },
+        {
+          "name": "Jena",
+          "url": "https://open.spotify.com/artist/5C4eCUR6V0Kbdn8g0y390j"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232520,
+      "name": "E-Soul",
+      "url": "https://open.spotify.com/track/7HtG4VfVor4wAktzmvRtnW"
     },
     {
       "album": {
@@ -6594,7 +6634,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 206875,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/3w0nFtVBa75tPHsSNZxWr6"
@@ -9971,6 +10011,28 @@
     },
     {
       "album": {
+        "name": "Say Goodbye (feat. Billy Raffoul)",
+        "url": "https://open.spotify.com/album/1oXAFYj4N52dFrMcOAKfQk"
+      },
+      "artists": [
+        {
+          "name": "LOSTBOYJAY",
+          "url": "https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL"
+        },
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126023,
+      "name": "Say Goodbye (feat. Billy Raffoul)",
+      "url": "https://open.spotify.com/track/3IkdjPFThBcKciyAV94dYp"
+    },
+    {
+      "album": {
         "name": "Say Yeah",
         "url": "https://open.spotify.com/album/6tdaVrv380eGHJywX3dEOk"
       },
@@ -11580,7 +11642,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 181625,
       "name": "The Loop",
       "url": "https://open.spotify.com/track/7dQibCVyq03l5tGPWZwXjf"

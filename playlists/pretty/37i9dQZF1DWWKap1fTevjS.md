@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,181 likes - 270 songs - 13 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,282 likes - 270 songs - 13 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,7 +227,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 217 | [Must Be For Both](https://open.spotify.com/track/49a8JjwfyAsDmUxELmsrKC) | [Gerald Kenneth Turner](https://open.spotify.com/artist/4n05fm8bjGyVAFjq9luq4L) | [Quoted](https://open.spotify.com/album/01jd9mqfkaXD8Q43Zi9PD3) | 3:28 |
 | 218 | [A Waiting](https://open.spotify.com/track/6eua7DXiCZaYulrVuPI3i7) | [Even Massi](https://open.spotify.com/artist/2u7J0lL8WdlZBR6SqfyGFb) | [Delusion](https://open.spotify.com/album/2ucuXJp8Ym5wSuV6BJJcDX) | 2:13 |
 | 219 | [Uitblinken](https://open.spotify.com/track/5b0EbWEsagMNqlSPRk8FXb) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Uitblinken](https://open.spotify.com/album/4yVuz7QUvFIji1f7ImUS3p) | 2:59 |
-| 220 | [Pharīthī](https://open.spotify.com/track/6FAg23nCoYoNOpV7QXc3nb) | [Sami Muni](https://open.spotify.com/artist/2s6Fglo2Tu3BBUFr5Ihcq9) | [Pharīthī](https://open.spotify.com/album/18Wd2srZXYBVVGpUBUqPof) | 2:08 |
+| 220 | [Pharīthī](https://open.spotify.com/track/6FAg23nCoYoNOpV7QXc3nb) | [Sami Muni](https://open.spotify.com/artist/14ysBEpCMcW4sV0CWhiPRe) | [Pharīthī](https://open.spotify.com/album/18Wd2srZXYBVVGpUBUqPof) | 2:08 |
 | 221 | [Juguete](https://open.spotify.com/track/6SzQkeooDHWPsdSCpRdqgr) | [Explorador Sonico](https://open.spotify.com/artist/0auAk2bDx8dTiTPoZcVaeY) | [Juguete](https://open.spotify.com/album/4B3ke0plUsMSBe3AC5wnra) | 3:41 |
 | 222 | [Mystical \- Alpha Sinus 54,8hz \- 57,3 hz](https://open.spotify.com/track/7zO8xgWtAGQpAKEG9n48Yb) | [Drone](https://open.spotify.com/artist/4g3KE7YbVpqmgxg2zhxzXb) | [Healing Alpha Sinus](https://open.spotify.com/album/4kq3eKdVleRq8aYNT3iWCy) | 3:55 |
 | 223 | [Inner Journey](https://open.spotify.com/track/4w3i820SHA0fOpqmtyAPFu) | [Chopade](https://open.spotify.com/artist/4l026BCC3zvPlM1ByCfPgv) | [Inner Journey](https://open.spotify.com/album/3eZwNjKK21LjFeqNqHj33I) | 3:42 |
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 269 | [Just Because](https://open.spotify.com/track/7iPyN8KKPycEdDIDvtvUdJ) | [Skye Baird](https://open.spotify.com/artist/2oxWaOoXIpRuAtFRSyakJ0) | [Just Because](https://open.spotify.com/album/3721Y3lIW8EZKyHDxntnoP) | 2:51 |
 | 270 | [Passing Through](https://open.spotify.com/track/3clWNXDjKPbqvGviyo1Asg) | [Flying Rivers](https://open.spotify.com/artist/0dpYklrmz6pA7Yc3w48IPk) | [Millons of Trees](https://open.spotify.com/album/4RPxiQwUYBFwoXjLrpkNwl) | 2:33 |
 
-Snapshot ID: `MCxhMzgyYTMwYzA5MmMzZGJiNDVhMWJmODA4NWE5MTQwNmFiZjI3ZDll`
+Snapshot ID: `MCxhZjcxYzUzODU3MDAzOWZjMGM4MTlkYzNjZjljY2RlMGQ1ZmUwNDkz`

@@ -1,12 +1,12 @@
 {
   "description": "The ultimate seasonal (indie) playlist.",
-  "num_followers": 163848,
+  "num_followers": 164098,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDJiODJhNzQ2ZTJhNGE5MmZkNWFiZDkxMTNhMjg0Nzc4OGU4NTUy",
+  "snapshot_id": "MCw5MDA0ZGFhOGUxZGExZTBjNTJiZTI1MjNhZjgyMmMxNDk4NjEyMjky",
   "tracks": [
     {
       "added_at": "2023-11-17 14:56:29",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "All You're Dreaming Of",
-        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
+        "name": "Another Year",
+        "url": "https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn"
       },
       "artists": [
         {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
         }
       ],
-      "duration_ms": 241821,
-      "name": "All You're Dreaming Of",
-      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
+      "duration_ms": 256648,
+      "name": "Another Year",
+      "url": "https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "All You're Dreaming Of",
+        "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 241821,
+      "name": "All You're Dreaming Of",
+      "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "When Christmas Comes Again",
         "url": "https://open.spotify.com/album/1Vw3Muq7BgvhYF5eLL5fjD"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 197787,
       "name": "When Christmas Comes Again",
       "url": "https://open.spotify.com/track/19Gx7n7xkTJ29rA8990QKx"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 157360,
-      "name": "Angel In The Snow",
-      "url": "https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Another Year",
-        "url": "https://open.spotify.com/album/3quUqUaNPWnyz8Yzhmz4bn"
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
       },
       "artists": [
         {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 256648,
-      "name": "Another Year",
-      "url": "https://open.spotify.com/track/1OlYVHLE9GZ32CxmWVC0on"
+      "duration_ms": 157360,
+      "name": "Angel In The Snow",
+      "url": "https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -603,22 +603,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Edits",
-        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
       },
       "artists": [
         {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        },
-        {
-          "name": "Slowed Down Songs + Reverb",
-          "url": "https://open.spotify.com/artist/2fTPQanPcwZAHWokwxcRJi"
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 213783,
-      "name": "This December - slow",
-      "url": "https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi"
+      "duration_ms": 128737,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -639,18 +635,38 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
+        "name": "This Warm December, A Brushfire Holiday Vol. 2",
+        "url": "https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T"
       },
       "artists": [
         {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
         }
       ],
-      "duration_ms": 128737,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
+      "duration_ms": 227173,
+      "name": "Christmas Must Be Tonight",
+      "url": "https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Edits",
+        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        },
+        {
+          "name": "Slowed Down Songs + Reverb",
+          "url": "https://open.spotify.com/artist/2fTPQanPcwZAHWokwxcRJi"
+        }
+      ],
+      "duration_ms": 213783,
+      "name": "This December - slow",
+      "url": "https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -691,22 +707,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "This Warm December, A Brushfire Holiday Vol. 2",
-        "url": "https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 227173,
-      "name": "Christmas Must Be Tonight",
-      "url": "https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "A Little Love (From The John Lewis & Waitrose Christmas Advert 2020)",
         "url": "https://open.spotify.com/album/6uXCDNLCKMosTnjTrDtkp4"
       },
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "A Dreamer's Holiday",
-        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
-      },
-      "artists": [
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        }
-      ],
-      "duration_ms": 180585,
-      "name": "A Dreamer's Holiday",
-      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Mellow Christmas Acoustic",
         "url": "https://open.spotify.com/album/7a9xO4nvdqFcrMb2eHtojJ"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
-        "url": "https://open.spotify.com/album/2cj5LCdytWU3gRISpV2EUQ"
+        "name": "A Dreamer's Holiday",
+        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
       },
       "artists": [
         {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
         }
       ],
-      "duration_ms": 222560,
-      "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
-      "url": "https://open.spotify.com/track/6PI9MKx35DG9NTqGeRvoKr"
+      "duration_ms": 180585,
+      "name": "A Dreamer's Holiday",
+      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -803,6 +787,22 @@
       "duration_ms": 191466,
       "name": "Christmas Treat",
       "url": "https://open.spotify.com/track/4Ie4u5mxn53KoPuEn928Gr"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
+        "url": "https://open.spotify.com/album/2cj5LCdytWU3gRISpV2EUQ"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "Did I Make You Cry on Christmas Day? (Well, You Deserved it!)",
+      "url": "https://open.spotify.com/track/6PI9MKx35DG9NTqGeRvoKr"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Hours Were the Birds",
-        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 236586,
-      "name": "Snow Song",
-      "url": "https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "This Year For Christmas",
         "url": "https://open.spotify.com/album/7otWkigGHFHhUwS1kkXSUo"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Darling I Do",
-        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
+        "name": "Hours Were the Birds",
+        "url": "https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW"
       },
       "artists": [
         {
-          "name": "Ezra Williams",
-          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 181094,
-      "name": "Darling I Do",
-      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
+      "duration_ms": 236586,
+      "name": "Snow Song",
+      "url": "https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -931,6 +915,22 @@
       "duration_ms": 296673,
       "name": "Mama It's Christmas",
       "url": "https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Darling I Do",
+        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
+      },
+      "artists": [
+        {
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+        }
+      ],
+      "duration_ms": 181094,
+      "name": "Darling I Do",
+      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -981,22 +981,6 @@
       "url": "https://open.spotify.com/track/1w9L9fIwzau66Old8bYW5F"
     },
     {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "Last Christmas",
-        "url": "https://open.spotify.com/album/3acMUF1baafzo6Zi61F1rS"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 161811,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/4mOjvafN3FbHFmXH5QaXv5"
-    },
-    {
       "added_at": "2023-11-17 14:56:29",
       "album": {
         "name": "The Christmas Song",
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/3acMUF1baafzo6Zi61F1rS"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 161811,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/4mOjvafN3FbHFmXH5QaXv5"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "A Christmas Album",
         "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
       },
@@ -1043,22 +1043,6 @@
       "duration_ms": 139600,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "O\u2019Holy Night",
-        "url": "https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D"
-      },
-      "artists": [
-        {
-          "name": "Kat Cunning",
-          "url": "https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK"
-        }
-      ],
-      "duration_ms": 173402,
-      "name": "O\u2019Holy Night",
-      "url": "https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1095,6 +1079,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "O\u2019Holy Night",
+        "url": "https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D"
+      },
+      "artists": [
+        {
+          "name": "Kat Cunning",
+          "url": "https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK"
+        }
+      ],
+      "duration_ms": 173402,
+      "name": "O\u2019Holy Night",
+      "url": "https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "Last Christmas",
         "url": "https://open.spotify.com/album/6CkoecFP3wz56NCfaroT7R"
       },
@@ -1107,22 +1107,6 @@
       "duration_ms": 280152,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/3SgeZfuLcoSjizulShWC2J"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "Christmas, Hopefully",
-        "url": "https://open.spotify.com/album/7AiajSCAGYAg6Xqev65K9J"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 241177,
-      "name": "Christmas, Hopefully",
-      "url": "https://open.spotify.com/track/6d6BgnJ28MtFLtx0N0hR3y"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "christmas day",
-        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
+        "name": "Christmas, Hopefully",
+        "url": "https://open.spotify.com/album/7AiajSCAGYAg6Xqev65K9J"
       },
       "artists": [
         {
-          "name": "Lexie Carroll",
-          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
         }
       ],
-      "duration_ms": 161324,
-      "name": "christmas day",
-      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
+      "duration_ms": 241177,
+      "name": "Christmas, Hopefully",
+      "url": "https://open.spotify.com/track/6d6BgnJ28MtFLtx0N0hR3y"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1171,6 +1155,38 @@
       "duration_ms": 167837,
       "name": "Here We Come A-Caroling",
       "url": "https://open.spotify.com/track/3iaFIr7VSe1bp0M2wVFdE6"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "christmas day",
+        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "duration_ms": 161324,
+      "name": "christmas day",
+      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Christmas Rock",
+        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
+      },
+      "artists": [
+        {
+          "name": "Eels",
+          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
+        }
+      ],
+      "duration_ms": 170949,
+      "name": "Everything's Gonna Be Cool This Christmas",
+      "url": "https://open.spotify.com/track/4FMb5NDvglJfEbzjjoz3Xb"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Christmas Rock",
-        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
-      },
-      "artists": [
-        {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
-        }
-      ],
-      "duration_ms": 170949,
-      "name": "Everything's Gonna Be Cool This Christmas",
-      "url": "https://open.spotify.com/track/4FMb5NDvglJfEbzjjoz3Xb"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Auld Lang Syne",
         "url": "https://open.spotify.com/album/5kJSx4MUPIidcP4DZNRzfu"
       },
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aB5CHO6yf2fJxXziIIOa1"
+        "name": "Holidays Rule",
+        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
       },
       "artists": [
         {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
         }
       ],
-      "duration_ms": 187750,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/4MmKdIsEWE8aXtIyQfuKhP"
+      "duration_ms": 272266,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9"
     }
   ],
   "unique_name": "Indie Christmas",

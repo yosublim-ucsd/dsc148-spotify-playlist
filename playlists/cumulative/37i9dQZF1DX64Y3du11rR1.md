@@ -4,7 +4,7 @@
 
 > Acoustic covers of sad songs.
 
-198 songs - 11 hr 16 min
+199 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Wake Me Up](https://open.spotify.com/track/2nBrIzKacrNdIxs90FlsT1) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Wake Me Up](https://open.spotify.com/album/3vTe1NISvsM9f1QGjraPsQ) | 3:16 | 2021-12-22 |  |
 | [We Found Love](https://open.spotify.com/track/7ggLvZ7Ot5bfayAva458kA) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3), [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5) | [We Found Love](https://open.spotify.com/album/5RoKyeuJi66yRI4qjIXbpO) | 2:53 | 2021-12-22 |  |
 | [We Found Love \- Acoustic](https://open.spotify.com/track/4qdLbr82uc46ZDr7pPsbR0) | [Kim & Otto](https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td) | [We Found Love \- Acoustic](https://open.spotify.com/album/0YuVbTUWFSxAPPQCGAat0u) | 2:37 | 2023-01-04 |  |
+| [what if](https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [what if](https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq) | 3:21 | 2023-11-24 |  |
 | [Whatcha Say \- Acoustic](https://open.spotify.com/track/4gq1H2QM58lNLMSeKBfRgW) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Whatcha Say \- Acoustic](https://open.spotify.com/album/3EQAXU3Bz94vwmTtB6VwSR) | 3:07 | 2023-02-17 |  |
 | [When the Party's over \(Acoustic Piano\)](https://open.spotify.com/track/1pG5nd6gmfbMwUfT5shDQe) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [When the Party's over \(Acoustic Piano\)](https://open.spotify.com/album/1m9j79xq6uxNjUeuai8QAl) | 3:15 | 2021-12-22 |  |
 | [When You're Gone](https://open.spotify.com/track/0lb4xFpIZwoLy9ZTmVc7vN) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Jaclyn Davies](https://open.spotify.com/artist/5MKHjGZGjZ7mZV0JPs9iot) | [When You're Gone](https://open.spotify.com/album/178nQkf8AbR0J3c3LgE8VV) | 3:19 | 2022-09-05 |  |

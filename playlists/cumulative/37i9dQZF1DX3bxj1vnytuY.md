@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-237 songs - 23 hr 38 min
+238 songs - 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Birdcall](https://open.spotify.com/track/46wxNcRKABQBQwVQrgkl8l) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Birdcall](https://open.spotify.com/album/3mtQOIxTbI56OPW3iIstwa) | 3:49 | 2022-04-13 | 2022-07-29 |
 | [Birdcall](https://open.spotify.com/track/53IT9veqMzZwnBv2SpdRHB) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Birdcall](https://open.spotify.com/album/1edvx2phtAODVo2MmZKmw4) | 3:49 | 2022-07-21 | 2023-03-09 |
 | [Birdcall](https://open.spotify.com/track/0sb9RPtYKV9SjtRdQoO3F7) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Smooved \- Deep House Collection, Vol\. 67](https://open.spotify.com/album/4a7gzwkhlZePF1wHCaeUek) | 3:49 | 2022-11-10 | 2022-11-13 |
-| [Blame \- VooDoo Tribe Mix](https://open.spotify.com/track/24RWbgjoFZUUMm2UPTo9rF) | [DJ Tomer](https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj), [Ricardo Gi](https://open.spotify.com/artist/6D12U0cOJwowjazT7V1s3c), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb) | [Echoes](https://open.spotify.com/album/2I8nf79Ctv3Y62e7hQsDpr) | 3:00 | 2023-07-24 |  |
+| [Blame \- VooDoo Tribe Mix](https://open.spotify.com/track/24RWbgjoFZUUMm2UPTo9rF) | [DJ Tomer](https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj), [Ricardo Gi](https://open.spotify.com/artist/6D12U0cOJwowjazT7V1s3c), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb) | [Echoes](https://open.spotify.com/album/2I8nf79Ctv3Y62e7hQsDpr) | 3:00 | 2023-07-24 | 2023-11-24 |
 | [Blazin](https://open.spotify.com/track/6fBCHr4DWUwpv3IYxy38zQ) | [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn), [Alton Miller](https://open.spotify.com/artist/0MGh53azHRLHTJ1flx9KGs) | [Blazin'](https://open.spotify.com/album/3cFSGk4d5O5fBhDkOSeGoB) | 8:03 | 2023-04-07 |  |
 | [Blind](https://open.spotify.com/track/5njYulCs6uy94s3zf5W3YP) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0), [Ucha](https://open.spotify.com/artist/6cC53OuM6AJxU0jJrEgiT3) | [Blind](https://open.spotify.com/album/4a1U2aEn9PAkZ7xKvdR5fX) | 7:09 | 2023-06-01 |  |
 | [Borealis](https://open.spotify.com/track/7opM0UdIFdCMbSOCIibLAr) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Borealis](https://open.spotify.com/album/7GJzsBX2cIrYaZbwtOjlbM) | 4:16 | 2022-09-15 | 2022-10-14 |
@@ -75,6 +75,7 @@
 | [Duduk](https://open.spotify.com/track/5hkEwaKH0APo8nyWO2BT6n) | [Omary](https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs), [Roxteel](https://open.spotify.com/artist/0xCictaICMnerRvsyLeisS) | [Soul Of Winds](https://open.spotify.com/album/7pqvYMZ3Mno03S7wSpkddG) | 5:30 | 2022-11-18 |  |
 | [Duende \- Derun Remix](https://open.spotify.com/track/0F3yxc47bdzD1pgDxLoyzp) | [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN), [UNER](https://open.spotify.com/artist/44CkOTmP33qUoft5iGVPov), [Basel Khoury](https://open.spotify.com/artist/6oauqv0dIeqHu5ZiAx5iTB), [Derun](https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo) | [Duende \(Derun Remix\)](https://open.spotify.com/album/2UhA4Ain3n3gfsztBiqVmY) | 6:39 | 2023-03-08 |  |
 | [DüN](https://open.spotify.com/track/2Q8eKyLWsmdmNBKrgdWVf6) | [KeuS](https://open.spotify.com/artist/1DWdkfnG0twxn7hIrGb4YC) | [DüN](https://open.spotify.com/album/0hQnHGP8TLX88RnLDTx9SB) | 6:55 | 2022-04-13 | 2023-07-06 |
+| [Elgoa](https://open.spotify.com/track/4hLv1dWaXMwUjgyfRmE56p) | [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb), [Hamada Hammy](https://open.spotify.com/artist/3ynNwCnPhBjoUFpNe3zoXl) | [Elgoa EP](https://open.spotify.com/album/794UFSLjBzEsZslOOC3ylc) | 7:01 | 2023-11-24 |  |
 | [Elya](https://open.spotify.com/track/3BMyGkAvosGkqTquzNAiEr) | [Satori](https://open.spotify.com/artist/5nri3hyKmKBGAfvjBi0mK0) | [Elya](https://open.spotify.com/album/4eggQ1mmUdI3o0QYdx7eVv) | 6:32 | 2022-10-13 |  |
 | [Emowe](https://open.spotify.com/track/1GydcJBhEsjXVOwffBVyhr) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Emowe](https://open.spotify.com/album/0T2YlhZHMFUHf3xKrxeFle) | 7:40 | 2023-07-05 |  |
 | [Endless History](https://open.spotify.com/track/5OhycGO6E8HwsbtOPeCRxI) | [Gorje Hewek](https://open.spotify.com/artist/0HBaoUIo3fXlnWz1dc4mro), [Facundo Losardo](https://open.spotify.com/artist/4saM6vfv68Mb1xB3EEb9IQ) | [Greatness of Blooming Twig](https://open.spotify.com/album/3jQnaplLlukpbKQlUh6SCM) | 5:04 | 2022-04-13 | 2023-05-13 |

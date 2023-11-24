@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-252 songs - 21 hr 3 min
+253 songs - 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [sentient](https://open.spotify.com/track/2JaBzgwkxZ2TVfCPZOlNOo) | [Etsu](https://open.spotify.com/artist/1KevMNL4UNuuESpeV7iVrk), [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur) | [sentient](https://open.spotify.com/album/029RejYltCG6Nv6PmhDAg5) | 3:24 | 2023-10-02 |  |
 | [Serpentine](https://open.spotify.com/track/0plMWuZSwX65585sUIUdd5) | [Úlfur](https://open.spotify.com/artist/4MdxCuKlnNvOXnVSWN7aLi) | [Arborescence](https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww) | 3:41 | 2022-01-21 |  |
 | [Silkworms](https://open.spotify.com/track/31Vk1L8CuFKyBH86bx8owb) | [Hannu Karjalainen](https://open.spotify.com/artist/1jrtEzcK5ERQoXAFVcQV00) | [Silkworms](https://open.spotify.com/album/2mdi7sz4i7gVr4cg8lD5MY) | 9:35 | 2022-01-28 | 2022-07-26 |
-| [Sista Dagen](https://open.spotify.com/track/1JVvm4PkGTT3ppDBKCBEuA) | [Född Död](https://open.spotify.com/artist/7rjm7DC7c6sTKPmqGgQHFs) | [Studie I Närhet, Längtan & Besvikelse](https://open.spotify.com/album/1EPI6cKlZnQE6NzuS8Iy3M) | 6:20 | 2022-01-21 |  |
+| [Sista Dagen](https://open.spotify.com/track/1JVvm4PkGTT3ppDBKCBEuA) | [Född Död](https://open.spotify.com/artist/7rjm7DC7c6sTKPmqGgQHFs) | [Studie I Närhet, Längtan & Besvikelse](https://open.spotify.com/album/1EPI6cKlZnQE6NzuS8Iy3M) | 6:20 | 2022-01-21 | 2023-11-24 |
 | [Skymningszonen](https://open.spotify.com/track/6TMAYNIdnq8uEgK2YWmBOc) | [AKB](https://open.spotify.com/artist/2t9tbX2KNkdUAkiTmFxsat) | [Marianergraven](https://open.spotify.com/album/2r8nNouZ00fu3vA3CLmgos) | 4:13 | 2022-01-21 | 2022-07-28 |
 | [Slowdown](https://open.spotify.com/track/41QYplWe7lMbiQ0hOi2ZlM) | [Thomas Brett](https://open.spotify.com/artist/24hkUG05qbSP0SqKye9Ahz) | [Slowdown](https://open.spotify.com/album/4T5nJayq61rBgNZRzF8o4Y) | 8:17 | 2022-03-18 |  |
 | [Spectacle Of Ritual](https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD) | 10:53 | 2022-01-21 |  |
@@ -201,6 +201,7 @@
 | [Sternkarten](https://open.spotify.com/track/314hSjWQO1s1IRW7jwOJdt) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Bethanien](https://open.spotify.com/album/1OrrYsb4N2WMpINJrtrRBR) | 3:56 | 2022-01-21 | 2022-07-29 |
 | [Still Like the South Wind](https://open.spotify.com/track/7sNvDW0u0GIMgMf0rysTQz) | [AK](https://open.spotify.com/artist/70c5nphkevqBfOXOf9clbZ) | [Slow for an Instant](https://open.spotify.com/album/5mvpoUhwH6b4FkrhJ8xu4j) | 4:20 | 2022-01-28 |  |
 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 | 2022-01-21 |  |
+| [Stone Beacon](https://open.spotify.com/track/5whrXD70ulKcdCsl0ZMQtO) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Pale Ravine](https://open.spotify.com/album/1fHVqowoh1UFxMOEoGJ1Jz) | 3:29 | 2023-11-14 |  |
 | [Stora vreden i Storvreta](https://open.spotify.com/track/1UN8NVjNxGpLj5bYs0m73h) | [Gävle\-Stockholm Dub](https://open.spotify.com/artist/6aDddHTB6bkZ4ozFebxEdE), [Slim Vic](https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ), [Pro424](https://open.spotify.com/artist/2JM8Yxfky3rGXzVvchyFof) | [Ingenmansland](https://open.spotify.com/album/6LbHHHfmp3sV9olKmzITYk) | 5:04 | 2022-01-21 |  |
 | [Stretching / Invading](https://open.spotify.com/track/17ZTSGtdTtAeKaCvAUosDt) | [Augustus Muller](https://open.spotify.com/artist/6dCwK4owIEfNc1IIK3tlOk), [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Cellulosed Bodies \(Original Score\)](https://open.spotify.com/album/3JRCKVOnmG1VCJM94I3Nk7) | 2:25 | 2023-09-22 |  |
 | [Stretching / Invading](https://open.spotify.com/track/2gz0CqpSgEAif1U3hez55O) | [Augustus Muller](https://open.spotify.com/artist/6dCwK4owIEfNc1IIK3tlOk), [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Fur and Metal](https://open.spotify.com/album/6ehmrA1NW4dSyQQWIK2EJ9) | 2:25 | 2023-07-21 | 2023-09-09 |

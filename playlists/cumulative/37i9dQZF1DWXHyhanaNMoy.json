@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Amaria",
+        "url": "https://open.spotify.com/album/2QDTlTSuwPiVmtTd2B9fYL"
+      },
+      "artists": [
+        {
+          "name": "Jinho 9",
+          "url": "https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196211,
+      "name": "Amaria",
+      "url": "https://open.spotify.com/track/14E6VXR7nqhhdybb57asuu"
+    },
+    {
+      "album": {
         "name": "Amazin\u2019 (Remix)",
         "url": "https://open.spotify.com/album/7CJPdQcYGjdOqor42uir6h"
       },
@@ -5089,6 +5107,32 @@
     },
     {
       "album": {
+        "name": "Fallin in Love",
+        "url": "https://open.spotify.com/album/7N3hxtYqewN5Mz0W0QTaM1"
+      },
+      "artists": [
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Monq",
+          "url": "https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162061,
+      "name": "Fallin in Love",
+      "url": "https://open.spotify.com/track/3HYdxQ11DSiYnuI00jW0QH"
+    },
+    {
+      "album": {
         "name": "Fantasie (Moto Moto)",
         "url": "https://open.spotify.com/album/4Za4UkuFHRpXVwBUPz03pf"
       },
@@ -6191,6 +6235,32 @@
     },
     {
       "album": {
+        "name": "HAMMA",
+        "url": "https://open.spotify.com/album/3MC886v5swRTdejOseX1hP"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Stylo G",
+          "url": "https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd"
+        },
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163882,
+      "name": "HAMMA",
+      "url": "https://open.spotify.com/track/63xYkQNeCb7EYyBFqoJVmK"
+    },
+    {
+      "album": {
         "name": "UIT DE GOOT",
         "url": "https://open.spotify.com/album/2HeL7F2piDUSEuXcFUcHSk"
       },
@@ -6522,6 +6592,32 @@
       "duration_ms": 126606,
       "name": "Het Kost Wat",
       "url": "https://open.spotify.com/track/1JgVMnVVOhPBmUDD7SYva3"
+    },
+    {
+      "album": {
+        "name": "Hey Dame",
+        "url": "https://open.spotify.com/album/3ZpE5H5EQAf5EUbt4yusdg"
+      },
+      "artists": [
+        {
+          "name": "Gio",
+          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
+        },
+        {
+          "name": "Keizer",
+          "url": "https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW"
+        },
+        {
+          "name": "La Rouge",
+          "url": "https://open.spotify.com/artist/0gHpIfv815XYSaH0m3X08y"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187697,
+      "name": "Hey Dame",
+      "url": "https://open.spotify.com/track/4BSSVbRsIpjTMzC9cX5az2"
     },
     {
       "album": {
@@ -9304,6 +9400,24 @@
       "duration_ms": 153560,
       "name": "Maria",
       "url": "https://open.spotify.com/track/6kHUFs2zhLn9XU95U3UTyX"
+    },
+    {
+      "album": {
+        "name": "Hallo",
+        "url": "https://open.spotify.com/album/0D1ih81gNRTlZkzfrsGaKE"
+      },
+      "artists": [
+        {
+          "name": "Toobss",
+          "url": "https://open.spotify.com/artist/0rzkFZ1D0Aayl1ysZnWlpC"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181747,
+      "name": "Maximaal",
+      "url": "https://open.spotify.com/track/6qdRQZ19AVNo9bFV1CoPyo"
     },
     {
       "album": {
@@ -15638,7 +15752,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 165582,
       "name": "UN PREVIEW",
       "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"

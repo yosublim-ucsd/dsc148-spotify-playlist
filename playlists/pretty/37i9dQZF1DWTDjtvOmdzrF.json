@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 571188,
+  "num_followers": 571304,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2EwODIwNGFhMGM5NGQyMmMzZjIyMzJkMjdkOTJjZGM2YWJkZTQ5",
+  "snapshot_id": "MCw4N2UzNDBhNjYwZjk1MmQ1NTAwMTkwMjJlOTY5ZjdlZThmMmM0N2I3",
   "tracks": [
     {
       "added_at": "2023-11-07 10:17:59",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-11-07 10:17:59",
       "album": {
+        "name": "terima kasih",
+        "url": "https://open.spotify.com/album/0RIVNgA95YzOPDHD4aYbqZ"
+      },
+      "artists": [
+        {
+          "name": "Hal",
+          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
+        }
+      ],
+      "duration_ms": 204126,
+      "name": "terima kasih",
+      "url": "https://open.spotify.com/track/2m1ozXAKFam3YQXRPDnEfE"
+    },
+    {
+      "added_at": "2023-11-07 10:17:59",
+      "album": {
         "name": "MARKERS AND SUCH",
         "url": "https://open.spotify.com/album/6pEUguV7EoReCpbQQE6QrE"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 211244,
       "name": "Kita usahakan rumah itu",
       "url": "https://open.spotify.com/track/1x9jnpPOAMSrr7DuIG5jMl"
-    },
-    {
-      "added_at": "2023-11-07 10:17:59",
-      "album": {
-        "name": "8 Tahun",
-        "url": "https://open.spotify.com/album/32SLZ72En7DvxafTDhdk28"
-      },
-      "artists": [
-        {
-          "name": "Adhitia Sofyan",
-          "url": "https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR"
-        }
-      ],
-      "duration_ms": 287453,
-      "name": "Sesuatu Di Jogja",
-      "url": "https://open.spotify.com/track/0MAIxtXWimwhAAQOST9jp7"
     },
     {
       "added_at": "2023-11-07 10:17:59",
@@ -855,18 +855,18 @@
     {
       "added_at": "2023-11-07 10:17:59",
       "album": {
-        "name": "terima kasih",
-        "url": "https://open.spotify.com/album/0RIVNgA95YzOPDHD4aYbqZ"
+        "name": "8 Tahun",
+        "url": "https://open.spotify.com/album/32SLZ72En7DvxafTDhdk28"
       },
       "artists": [
         {
-          "name": "Hal",
-          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
+          "name": "Adhitia Sofyan",
+          "url": "https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR"
         }
       ],
-      "duration_ms": 204126,
-      "name": "terima kasih",
-      "url": "https://open.spotify.com/track/2m1ozXAKFam3YQXRPDnEfE"
+      "duration_ms": 287453,
+      "name": "Sesuatu Di Jogja",
+      "url": "https://open.spotify.com/track/0MAIxtXWimwhAAQOST9jp7"
     },
     {
       "added_at": "2023-11-07 10:17:59",

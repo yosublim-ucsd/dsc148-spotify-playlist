@@ -4,7 +4,7 @@
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Matisse
 
-161 songs - 8 hr 42 min
+162 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Dios nos bendecirá](https://open.spotify.com/track/6F89Ii7pfMzniZ4ueP5xDp) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo) | [Mi Navidad \(Remastered\)](https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN) | 3:15 | 2021-12-15 | 2022-12-20 |
 | [Doy Gracias Por Ti](https://open.spotify.com/track/2ZPAfGIvoOpPi3ozCqVg0L) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [Emily Estefan](https://open.spotify.com/artist/4Lsvn2Czg57zGPvQ7pR0ya), [Sasha Estefan\-Coppola](https://open.spotify.com/artist/6l7jIxHLw66B0NAK5VcdoN) | [Estefan Family Christmas](https://open.spotify.com/album/49b2hgZIN5fqQrswcuVyNk) | 4:03 | 2022-12-19 |  |
 | [Duele Diciembre](https://open.spotify.com/track/3sZoUYrEPFuCnnqXC2C2tH) | [Leyo](https://open.spotify.com/artist/3aZ2G1elrxO4ZMWcafMriO), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Duele Diciembre](https://open.spotify.com/album/5I5nu2lSLK706l3LpmVjoP) | 4:28 | 2021-12-15 | 2022-11-27 |
-| [Duende](https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [Duende](https://open.spotify.com/album/2w5Retn8950UJiwf09tFJq) | 2:46 | 2022-12-19 |  |
+| [Duende](https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [Duende](https://open.spotify.com/album/2w5Retn8950UJiwf09tFJq) | 2:46 | 2022-12-19 | 2023-11-24 |
 | [El Año Que Vendrá Querido Amigo](https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Emmanuel Jingle Bell Rocks](https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55) | 5:25 | 2022-12-19 |  |
 | [El Año Viejo](https://open.spotify.com/track/1QaJZFc1feLLJRuZm7EJ46) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx) | [Somos Navidad](https://open.spotify.com/album/3N4AKHUNLfkdLpPTsBpWea) | 3:01 | 2023-11-17 |  |
 | [El Año Viejo](https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [RCA 100 Años De Musica](https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg) | 3:02 | 2021-12-15 | 2022-12-20 |
@@ -132,6 +132,7 @@
 | [Rodolfo el Reno de la Nariz Roja](https://open.spotify.com/track/6KSTgcCbtpR2AjK1dmC2pR) | [Sasha](https://open.spotify.com/artist/3cVANA4xg8pLvSvg943xCU) | [Mi Navidad](https://open.spotify.com/album/0dk75UOmEo9FjBX7MJ4ZEK) | 2:30 | 2022-11-08 | 2022-12-20 |
 | [Rozándome](https://open.spotify.com/track/2qEzMGg0SXKxwvUNdiFqSD) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 3:11 | 2022-11-25 |  |
 | [Santa](https://open.spotify.com/track/6tApaHH8Tp58OQZIU9lFch) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Santa](https://open.spotify.com/album/5GVLfhHDPRPpHrUCMEY3vI) | 3:00 | 2022-12-19 | 2023-11-14 |
+| [Santa Baby](https://open.spotify.com/track/3ahTtn2xIy34RYlwTOxqW1) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Santa Baby](https://open.spotify.com/album/1mPFY6AcWGENIc1mxPn3Lq) | 2:55 | 2023-11-21 |  |
 | [Santa Baby \(Spanish\)](https://open.spotify.com/track/403k7tpzOWE2CJRvqJitJk) | [Mariachi Divas](https://open.spotify.com/artist/27c4TvzdsKPi3kDRPBW96u) | [My Grown\-up Christmas List](https://open.spotify.com/album/31FO9vaH0PeeIkDJtUfL8d) | 2:45 | 2021-12-15 | 2022-12-20 |
 | [Santa Claus Llegó a La Ciudad](https://open.spotify.com/track/0IrKbfhVKW0xpPEzRDeSUb) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 1:55 | 2021-12-15 | 2022-12-20 |
 | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/4mpwuLCkeVzmzYFYjNrwMr) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/album/07xPl363lb9z67lLCtjuNS) | 2:38 | 2022-12-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 
 > De la isla, pa' el mundo! Representando la cultura con orgullo\. Cover: Christian Alicea
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,283 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,293 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 | 38 | [Randy Johnson](https://open.spotify.com/track/2jjgP6T0u8sCzRXkg6rLMK) | [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o) | [Randy Johnson](https://open.spotify.com/album/2pPVTRXkobNnFqNhlZ6f85) | 2:32 |
 | 39 | [Bonnie and Clyde](https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [Bonnie and Clyde](https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7) | 3:29 |
 | 40 | [Mi Secreto](https://open.spotify.com/track/0EL8nDCstXlfIUONRc8JTj) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Mi Secreto](https://open.spotify.com/album/78zqrmLSjeNYaebSKuYzA8) | 2:59 |
-| 41 | [Bandidos](https://open.spotify.com/track/1KEihgohVX0H1R1C6wjYly) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Bandidos](https://open.spotify.com/album/1ZWbLN7FGdhNwla71leFnt) | 3:44 |
-| 42 | [Mention](https://open.spotify.com/track/3SooDD3ycCki4IMZCHM7OR) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra 2](https://open.spotify.com/album/5uhDPHXOesUiqGwIp8n5XJ) | 3:03 |
+| 41 | [Mention](https://open.spotify.com/track/3SooDD3ycCki4IMZCHM7OR) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra 2](https://open.spotify.com/album/5uhDPHXOesUiqGwIp8n5XJ) | 3:03 |
+| 42 | [Bandidos](https://open.spotify.com/track/1KEihgohVX0H1R1C6wjYly) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Bandidos](https://open.spotify.com/album/1ZWbLN7FGdhNwla71leFnt) | 3:44 |
 | 43 | [Xexo](https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Xexo](https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T) | 3:00 |
 | 44 | [Reina de la Selva](https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Reina de la Selva](https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6) | 2:56 |
 | 45 | [Inseparables](https://open.spotify.com/track/4AoJmA5TNnqjwTZIb8vX8l) | [Xyron](https://open.spotify.com/artist/44WKtA4f1suN0IMmPBQ9be), [Carlitos Rossy](https://open.spotify.com/artist/0FDJB5xf8i09jDjIg1qNED), [Veterano Music](https://open.spotify.com/artist/16hiQsfTkaHbz6o1UpQ0uT) | [Inseparables](https://open.spotify.com/album/0OUlso6XqDSGVETWB19zdh) | 2:57 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rgIhQ2x809.md) - [plain]
 | 93 | [Tratemos](https://open.spotify.com/track/07i2KTypiJ4WqBpHVODAXh) | [Bernier](https://open.spotify.com/artist/7AvLpOO8f4xJk24a2DeIOK), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [Tratemos](https://open.spotify.com/album/3h19PVjctsFFCSkB37a1wE) | 3:49 |
 | 94 | [Gozo](https://open.spotify.com/track/4IomMRQFM45yVC2tN5CppP) | [Gocho](https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5) | [Gozo](https://open.spotify.com/album/69vDVNFIBCFdWlkpf16Zgw) | 3:23 |
 | 95 | [Que Te Vaya Bien](https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Que Te Vaya Bien](https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB) | 2:50 |
-| 96 | [Por Amor](https://open.spotify.com/track/4QUQ8b2ULrIYkKyQ1ZjcCn) | [TIVGO Cruz](https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW) | [Por Amor](https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2) | 3:04 |
-| 97 | [Berserker](https://open.spotify.com/track/06kUBxzGUeklZRH9FjBKNi) | [Alexio](https://open.spotify.com/artist/4Tw0VaV1ENei24iQnktjXj) | [Berserker](https://open.spotify.com/album/50mkOvKHePzYQtiQqZq2l5) | 3:13 |
+| 96 | [Berserker](https://open.spotify.com/track/06kUBxzGUeklZRH9FjBKNi) | [Alexio](https://open.spotify.com/artist/4Tw0VaV1ENei24iQnktjXj) | [Berserker](https://open.spotify.com/album/50mkOvKHePzYQtiQqZq2l5) | 3:13 |
+| 97 | [Por Amor](https://open.spotify.com/track/4QUQ8b2ULrIYkKyQ1ZjcCn) | [TIVGO Cruz](https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW) | [Por Amor](https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2) | 3:04 |
 | 98 | [Traficando](https://open.spotify.com/track/4SQ6Wf45YaLFBsXXPfvuNZ) | [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [Traficando](https://open.spotify.com/album/4uTZikMbZ7sKhApOhIQGxQ) | 4:27 |
 | 99 | [Labios](https://open.spotify.com/track/2Y142yYHTtixFG6tuIbdXP) | [Joonti](https://open.spotify.com/artist/15m7tZMQlQ8QHh4eOnzYGj) | [Labios](https://open.spotify.com/album/3o6YWaKpKu4P2jn9gkEu82) | 2:46 |
-| 100 | [For You](https://open.spotify.com/track/0Bvaux1uoiR3ID2C9rMzxB) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [For You](https://open.spotify.com/album/7mwjFFFHrC2r2oCpnoMHR4) | 2:30 |
+| 100 | [Nube](https://open.spotify.com/track/0uQGGTxOJAzDpQjjXk4B2s) | [Paradize](https://open.spotify.com/artist/3aSBi6CYiiMGBgXnGB0Ej4), [JC Karo](https://open.spotify.com/artist/2MNRfUsu9bA4gzehlJc8hl) | [Nube](https://open.spotify.com/album/2J4jSwEt8wGWqNzr6Od25l) | 3:43 |
 
-Snapshot ID: `MCwyYzFiMzcxOTY2ZjlkMTk1YTJjNGFiOTc2ZWJkZmI4NGJlZGU0Njc3`
+Snapshot ID: `MCwwMmQ2Nzg2MmU2OTk2YzkwZmViNTM2YmEzOWM1N2JlYjk5YTc5NjRm`

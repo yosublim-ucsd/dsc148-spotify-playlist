@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Navy Kenzo",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Harmonize",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -232,6 +232,24 @@
       "duration_ms": 247659,
       "name": "Asante",
       "url": "https://open.spotify.com/track/1F2rGbWtuyZKdoCBTxWGLP"
+    },
+    {
+      "album": {
+        "name": "Asante",
+        "url": "https://open.spotify.com/album/7JQJKv0wkk3YVTeUoOjKIC"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282758,
+      "name": "Asante",
+      "url": "https://open.spotify.com/track/2F3k8A61aTbtXlL6NS4vay"
     },
     {
       "album": {
@@ -2603,6 +2621,28 @@
     },
     {
       "album": {
+        "name": "Manu (feat. Jay Melody)",
+        "url": "https://open.spotify.com/album/3quhGw7vAKqk1Kudwin32W"
+      },
+      "artists": [
+        {
+          "name": "Phina",
+          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+        },
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170721,
+      "name": "Manu (feat. Jay Melody)",
+      "url": "https://open.spotify.com/track/1n2beraaBdeHstydRddlpI"
+    },
+    {
+      "album": {
         "name": "Manzese",
         "url": "https://open.spotify.com/album/5Q7GATwyhV0GGRS9uA6HPo"
       },
@@ -2946,7 +2986,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 160000,
       "name": "Mood (feat. Maud Elka)",
       "url": "https://open.spotify.com/track/0FWxtGkRzhJO1k9VYHpECy"
@@ -3394,7 +3434,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 218475,
       "name": "Nakuja (feat. Marioo, Darassa & Maua Sama) - Remix",
       "url": "https://open.spotify.com/track/5X0Y53r6h3CDzTl7nsbdPA"
@@ -4522,7 +4562,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 222857,
       "name": "Pita Kule",
       "url": "https://open.spotify.com/track/45rces9Jy2Oskyl3D3VaFP"
@@ -5005,6 +5045,24 @@
     },
     {
       "album": {
+        "name": "Visit Bongo",
+        "url": "https://open.spotify.com/album/0ZY5xnqRphPOYRkrHF0LiW"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165599,
+      "name": "Side Niggah",
+      "url": "https://open.spotify.com/track/2P6dLx8C5m0byvNcpWoeLp"
+    },
+    {
+      "album": {
         "name": "Simuachi",
         "url": "https://open.spotify.com/album/0CWFq3CqpGfflKb174f7Z0"
       },
@@ -5376,6 +5434,28 @@
       "duration_ms": 175752,
       "name": "Tajiri",
       "url": "https://open.spotify.com/track/4m6fKxNk1aJG8qY7eSX5CG"
+    },
+    {
+      "album": {
+        "name": "Tamu",
+        "url": "https://open.spotify.com/album/0BHxc5fl2n36fgslNyYbCt"
+      },
+      "artists": [
+        {
+          "name": "Christian Bella",
+          "url": "https://open.spotify.com/artist/6aozNU9SYbDun9FIhXKZEn"
+        },
+        {
+          "name": "Fid Q",
+          "url": "https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220408,
+      "name": "Tamu",
+      "url": "https://open.spotify.com/track/3E6sOJY3T97VxlTxKzMymc"
     },
     {
       "album": {
@@ -6024,7 +6104,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 195348,
       "name": "Wa Sasa",
       "url": "https://open.spotify.com/track/2UBkMt1lT5qjW36HIUKNCm"

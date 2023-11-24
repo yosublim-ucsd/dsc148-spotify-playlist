@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4If4OqUyC8k.md) - [plain]
 
 > Get in touch with nature with these songs about our environment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,792 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,810 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4If4OqUyC8k.md) - [plain]
 | 49 | [Scarborough Fair / Canticle](https://open.spotify.com/track/3g2fYZW5v2od8KIF7VktT0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 3:10 |
 | 50 | [Rule of thumb](https://open.spotify.com/track/36LUWAi5LYSwV57XPYPkOh) | [Waste Free Wanda](https://open.spotify.com/artist/5O1m5LMiBDa7xvPLkzeO2o), [Anna van Riel](https://open.spotify.com/artist/4V7CkMSBBEDqjVnuLvSHQt) | [Waste Free Wanda \(Workin' On A Waste Free World\)](https://open.spotify.com/album/6zrqHnPVu66QV7tjNrbQsb) | 2:44 |
 
-Snapshot ID: `MCxkYTM3Zjc0ODVmNjkyOGFjOTZhZmI4NTUwZTUxZjgxNjQ4YzI3MjNm`
+Snapshot ID: `MCxlMzViM2UyMDY5MmZkOTg4ZjI5MWJjMjY5ZjgwYzcyZWJlNWRhZTFh`

@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-609 songs - 2 day 6 hr 19 min
+610 songs - 2 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Escape Wheel](https://open.spotify.com/track/6WwHK93jWaQ2dPRTwfvw9F) | [Emeralds](https://open.spotify.com/artist/45btnwhUWFlR7Op5oTfDPv) | [Does It Look Like I'm Here? \(Expanded Remaster\)](https://open.spotify.com/album/5rUs6wwi3ARImuk1iPXM4M) | 6:42 | 2023-08-29 | 2023-11-23 |
 | [Ether](https://open.spotify.com/track/3OXf3f3t3Yx9TMVsZHh2lD) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH) | [Plutón](https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW) | 6:56 | 2022-02-16 | 2023-05-03 |
 | [EveryWhen \- Bonus Track](https://open.spotify.com/track/0H8AcdcDVy6ZvuiOliNTD7) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [EveryWhen \(Bonus Track\)](https://open.spotify.com/album/1l2Zp9sLR4Y2aLrzBhhv43) | 4:37 | 2021-10-20 | 2022-07-29 |
-| [EveryWhen \- Bonus Track](https://open.spotify.com/track/2HGeIYpOrU9u5UR9Z98mx9) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Longest Year \(2020\)](https://open.spotify.com/album/3FKwVYsfaB2XWO4anB4LeC) | 4:37 | 2021-10-20 |  |
+| [EveryWhen \- Bonus Track](https://open.spotify.com/track/2HGeIYpOrU9u5UR9Z98mx9) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Longest Year \(2020\)](https://open.spotify.com/album/3FKwVYsfaB2XWO4anB4LeC) | 4:37 | 2021-10-20 | 2023-11-24 |
 | [Existing Closer or Deeper in Space](https://open.spotify.com/track/6kzNAm0RiDW3UyxTOimSLU) | [Earthen Sea](https://open.spotify.com/artist/3vP8rFfMW7ZZtUFfYyN5QH) | [Grass and Trees](https://open.spotify.com/album/5BWggRFjTVj5uC1lqjjFU7) | 3:51 | 2021-10-20 |  |
 | [Expanding Electricity \- Single Edit](https://open.spotify.com/track/2u0bltYG3O7B8LFwkPBdq9) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Expanding Electricity](https://open.spotify.com/album/40Zy3xnuF73RLj6rEIIVRL) | 5:36 | 2021-10-20 | 2022-07-29 |
 | [Extract](https://open.spotify.com/track/4D9fw6C9JR6XaBKS7dwy2O) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour \(Redux\)](https://open.spotify.com/album/3Nrbrk8rTB1tI12OwvQ2PM) | 7:31 | 2021-10-20 | 2022-06-23 |
@@ -417,6 +417,7 @@
 | [radio vision 1](https://open.spotify.com/track/05pbrmX6A4eVzwM0saGAtY) | [Savoir Adore](https://open.spotify.com/artist/2weMnYqCmtNUrSLAJq5dD8) | [Image Tapes Vol\. 1](https://open.spotify.com/album/3yTXYqamF5Kq1FiGjPph0J) | 1:53 | 2021-10-20 | 2022-07-28 |
 | [Raiments](https://open.spotify.com/track/3EdXHY7M1qkrHZKeKeHpdO) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Parted Plains](https://open.spotify.com/album/2nlqWxNg2mIxB7SuE0HPK7) | 3:23 | 2021-10-20 | 2022-07-29 |
 | [Raiments](https://open.spotify.com/track/5IpcpeWGJl0BGb7Ke3zrS9) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Parted Plains](https://open.spotify.com/album/2CY7iodG7q2mC8C6GbMeTq) | 3:23 | 2021-10-20 | 2023-05-10 |
+| [Rapid Eye Movement Sleep](https://open.spotify.com/track/4nowiy9qnEjEryhS6W6DKi) | [MIXO](https://open.spotify.com/artist/6MD94ISQLOMJs8fXGtzmge), [Agustin Ayala](https://open.spotify.com/artist/2P5faXVIQGWdqaW7uSZ3Iv), [Federico Sanchez Flores](https://open.spotify.com/artist/7DYagAejpAIigSoDirH0yT) | [Lucid Dreaming](https://open.spotify.com/album/6pcWuTZ3tmyc77x9oVJv46) | 4:23 | 2023-11-23 |  |
 | [Rausch 2](https://open.spotify.com/track/0OgMUfPcPqvHjEBzzi1xNP) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Rausch](https://open.spotify.com/album/14yMkt1uh0AcO2FBqJ2UmA) | 9:46 | 2021-10-20 | 2022-05-20 |
 | [Raw Silk Uncut Wood](https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Raw Silk Uncut Wood](https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY) | 10:00 | 2021-10-20 | 2022-10-01 |
 | [Recuerdos del Futuro](https://open.spotify.com/track/7qifh2hnuzm2XeIE9VB5il) | [Ishtarka](https://open.spotify.com/artist/7uSEEZKy2idCBab9uurJlo) | [Recuerdos del Futuro](https://open.spotify.com/album/4W4z2keDvA3BSOSvabyHRU) | 3:55 | 2021-10-20 | 2023-11-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,455 likes - 160 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,573 likes - 160 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 | 71 | [A Time To Pause](https://open.spotify.com/track/65cWxl3AnLKcTBetEQ4Bjt) | [Sierra Rubio](https://open.spotify.com/artist/4qnjQV2WCiNWFyIh42xFcM) | [A Time To Pause](https://open.spotify.com/album/0yaKnDd0uVsKTvq8h2gWbE) | 3:34 |
 | 72 | [Evening Flute](https://open.spotify.com/track/2larHmB7pBReS5LlOVBvxY) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Evening Flute](https://open.spotify.com/album/4t8KPqvIKnEPQinKRjrAdt) | 7:21 |
 | 73 | [Healing Serenade](https://open.spotify.com/track/3RVyOL4WiLVUAw5s0M1M2K) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Lotus Garden & Healing Serenade](https://open.spotify.com/album/7KoiOv415asddhMDXYYOlQ) | 3:02 |
-| 74 | [Shalika](https://open.spotify.com/track/7ldw6LqeAFqr8NdQyvoKWk) | [Mathura Horizon](https://open.spotify.com/artist/6uEOyPNPXNONqZlwhsOMSm) | [Aamani](https://open.spotify.com/album/03AsF5mqDr8QiokyguydHT) | 3:10 |
-| 75 | [Soulful Serenity](https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB) | [Neoterikoi](https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA) | [Soulful Serenity](https://open.spotify.com/album/692iI5bmgzIOAdpkD6zMvj) | 3:04 |
+| 74 | [Soulful Serenity](https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB) | [Neoterikoi](https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA) | [Soulful Serenity](https://open.spotify.com/album/692iI5bmgzIOAdpkD6zMvj) | 3:04 |
+| 75 | [Shalika](https://open.spotify.com/track/7ldw6LqeAFqr8NdQyvoKWk) | [Mathura Horizon](https://open.spotify.com/artist/6uEOyPNPXNONqZlwhsOMSm) | [Aamani](https://open.spotify.com/album/03AsF5mqDr8QiokyguydHT) | 3:10 |
 | 76 | [Peace Within](https://open.spotify.com/track/6Oz1xBaVJNyYnukyCHRgLS) | [Holly Summers](https://open.spotify.com/artist/2i8yNoDBOq0tcjOU1sA1es) | [Peace Within](https://open.spotify.com/album/1VXVFichuGqnaL5zfBgobb) | 2:16 |
 | 77 | [Serenity](https://open.spotify.com/track/1n234FI6z2v1rUO4oQ9vQe) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Serenity](https://open.spotify.com/album/2KSHTLkxbjYzZfY85s8L2O) | 5:41 |
 | 78 | [The Break of Dawn](https://open.spotify.com/track/4mXD6Q7OPXWQm6LDajgOBl) | [Pol To Sol](https://open.spotify.com/artist/6hoVTfcaupGzwCGF4AIHuQ) | [The Break of Dawn](https://open.spotify.com/album/14zBgbLcZRWENB1zq8cp1n) | 3:23 |
@@ -122,35 +122,35 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 | 112 | [Lemon Balm](https://open.spotify.com/track/2j7Ahvb0XYHv31vLRrlwTi) | [Rex Imaleo](https://open.spotify.com/artist/0tDrVzr4ZyzLf2618Cxp5w) | [Landscapes](https://open.spotify.com/album/0IEo9mRSBnvqSzoY8cOSPp) | 2:57 |
 | 113 | [Forest Birds \(432 Hz\)](https://open.spotify.com/track/0D2BU6MNxuMXLATPvRr0z8) | [Hrothgar Tarek](https://open.spotify.com/artist/3qck56pCDgsvfDR5WK15SB) | [Forest Birds \(432 Hz\)](https://open.spotify.com/album/5YnDpuAJC5i5twquxOngGg) | 2:38 |
 | 114 | [Aún](https://open.spotify.com/track/45o1tTvcokwroBi9TR5qfv) | [Didio Carrión](https://open.spotify.com/artist/1poC0V8QpqJPeO3ogJw0zw) | [Aún](https://open.spotify.com/album/6vMZ7NEoCkORl8R20IXYGq) | 3:04 |
-| 115 | [Eyes Closed](https://open.spotify.com/track/5UTW5AuwEZOLTlDR6DGMCI) | [Jenna Talenti](https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo) | [Eyes Closed](https://open.spotify.com/album/1tmd6JBEya6uODJHRbzbbp) | 2:24 |
-| 116 | [Fond Memories](https://open.spotify.com/track/41pSl4mg6Xwb2bzC9M0WLl) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [Fond Memories](https://open.spotify.com/album/3QAXPjqvqrS1A3StFuOvn1) | 3:46 |
+| 115 | [Fond Memories](https://open.spotify.com/track/41pSl4mg6Xwb2bzC9M0WLl) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [Fond Memories](https://open.spotify.com/album/3QAXPjqvqrS1A3StFuOvn1) | 3:46 |
+| 116 | [Eyes Closed](https://open.spotify.com/track/5UTW5AuwEZOLTlDR6DGMCI) | [Jenna Talenti](https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo) | [Eyes Closed](https://open.spotify.com/album/1tmd6JBEya6uODJHRbzbbp) | 2:24 |
 | 117 | [Asana](https://open.spotify.com/track/5JrPeUYpXnIXFAA1YLM8kc) | [Makalu](https://open.spotify.com/artist/37iyLYETxVTFwmHXjVwlcj) | [Asana](https://open.spotify.com/album/5jKt8AOgsOYMaEdIykJ3bo) | 2:31 |
 | 118 | [Terrestrial](https://open.spotify.com/track/27oha8wgBjsfI6cAeG3YMl) | [Exhalious](https://open.spotify.com/artist/6wpESevLL5E3kESW8V5nky) | [Terrestrial](https://open.spotify.com/album/4iGvb8pa6VjOCiqTJ0Rx6l) | 3:03 |
 | 119 | [Transcendent Whispers](https://open.spotify.com/track/5MXlWdZ3ESK24lX3u1GU1S) | [Man Dala](https://open.spotify.com/artist/3kf3VjiaMISV3pvj50wkk6) | [Himalayan Breeze](https://open.spotify.com/album/0qwpizBQ8iC6VOLE7jdPTh) | 4:08 |
 | 120 | [Clearing Your Mind](https://open.spotify.com/track/0hadvoa1iZL28fFKLLp6as) | [Marolo Ocean](https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ) | [Green Haven](https://open.spotify.com/album/0ADw9zxE2cWSRk0HvkAZ2q) | 2:43 |
-| 121 | [Lush](https://open.spotify.com/track/5SDlIDE7MvKEEfUwPvXrvN) | [Zoe Connelly](https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO) | [Lush](https://open.spotify.com/album/7magGCz2T7htZUF1uguOP2) | 2:16 |
-| 122 | [Temple of the Heart](https://open.spotify.com/track/2jpdJofQjOI2qCF2A5Fj4M) | [re:inhabit](https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL) | [Temple of the Heart](https://open.spotify.com/album/5yuklwSxgyuIPtHU0nkGXQ) | 3:36 |
-| 123 | [432hz Let It Heal \- Studio Edit](https://open.spotify.com/track/5NWPSiHduPE5OSAeh6Frpb) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Let It Heal](https://open.spotify.com/album/7l2UxyaSgVWBMxCChOXMeR) | 3:40 |
-| 124 | [Sparrow Cloud](https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Essence of Mind](https://open.spotify.com/album/2kXPGbbn7SVW9YCDFYbx1Y) | 4:00 |
-| 125 | [Renaissance](https://open.spotify.com/track/3ezescL9H4NALmkrXYMTr0) | [Tonalie](https://open.spotify.com/artist/0YnZJRRAXYitAp9ksU9O7X) | [Renaissance](https://open.spotify.com/album/22qO0N4uQ1LifMZkBJsUSy) | 2:23 |
-| 126 | [Beyond Thought](https://open.spotify.com/track/7InybwB0mEGdaWyWHxqRQq) | [Astral Shade](https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m) | [Beyond Thought](https://open.spotify.com/album/2IbXteNkbRdqEutQXJg95b) | 2:48 |
+| 121 | [Temple of the Heart](https://open.spotify.com/track/2jpdJofQjOI2qCF2A5Fj4M) | [re:inhabit](https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL) | [Temple of the Heart](https://open.spotify.com/album/5yuklwSxgyuIPtHU0nkGXQ) | 3:36 |
+| 122 | [Lush](https://open.spotify.com/track/5SDlIDE7MvKEEfUwPvXrvN) | [Zoe Connelly](https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO) | [Lush](https://open.spotify.com/album/7magGCz2T7htZUF1uguOP2) | 2:16 |
+| 123 | [Beyond Thought](https://open.spotify.com/track/7InybwB0mEGdaWyWHxqRQq) | [Astral Shade](https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m) | [Beyond Thought](https://open.spotify.com/album/2IbXteNkbRdqEutQXJg95b) | 2:48 |
+| 124 | [432hz Let It Heal \- Studio Edit](https://open.spotify.com/track/5NWPSiHduPE5OSAeh6Frpb) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Let It Heal](https://open.spotify.com/album/7l2UxyaSgVWBMxCChOXMeR) | 3:40 |
+| 125 | [Sparrow Cloud](https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Essence of Mind](https://open.spotify.com/album/2kXPGbbn7SVW9YCDFYbx1Y) | 4:00 |
+| 126 | [Renaissance](https://open.spotify.com/track/3ezescL9H4NALmkrXYMTr0) | [Tonalie](https://open.spotify.com/artist/0YnZJRRAXYitAp9ksU9O7X) | [Renaissance](https://open.spotify.com/album/22qO0N4uQ1LifMZkBJsUSy) | 2:23 |
 | 127 | [Asha](https://open.spotify.com/track/7MMsg5sBQNpVCLlycq0sGw) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Asha](https://open.spotify.com/album/45j2xwLqufgtoAkOIBna6p) | 2:34 |
 | 128 | [Forgiving the Night](https://open.spotify.com/track/52pCSrRxEVGLhFo1aCX3Yv) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Forgiving the Night](https://open.spotify.com/album/6aS6f7Tib2fgnu9WcHHpOD) | 3:08 |
-| 129 | [Jenna’s Lullaby](https://open.spotify.com/track/5JTwCoohusfE5CjptRqvHC) | [Nerum](https://open.spotify.com/artist/0STEjaBPW4uFYhPWOM2mXv) | [Jenna’s Lullaby](https://open.spotify.com/album/6TBbV7K7FIbHG3w2cp79Fp) | 3:55 |
-| 130 | [Flores Del Cielo](https://open.spotify.com/track/5jD1fD1f9uIV9KkgNQaHy6) | [Sonic Xaman](https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c) | [Flores Del Cielo](https://open.spotify.com/album/69U05BZIOhOZR9DUXSPLf0) | 2:48 |
+| 129 | [Flores Del Cielo](https://open.spotify.com/track/5jD1fD1f9uIV9KkgNQaHy6) | [Sonic Xaman](https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c) | [Flores Del Cielo](https://open.spotify.com/album/69U05BZIOhOZR9DUXSPLf0) | 2:48 |
+| 130 | [Jenna’s Lullaby](https://open.spotify.com/track/5JTwCoohusfE5CjptRqvHC) | [Nerum](https://open.spotify.com/artist/0STEjaBPW4uFYhPWOM2mXv) | [Jenna’s Lullaby](https://open.spotify.com/album/6TBbV7K7FIbHG3w2cp79Fp) | 3:55 |
 | 131 | [The Shimmer](https://open.spotify.com/track/2FGtHQ3GZHvqZI0xVAvwzI) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [The Shimmer](https://open.spotify.com/album/6zRUgOuLPUhfBBRtj6eqrt) | 2:49 |
 | 132 | [Sakshi / Witness](https://open.spotify.com/track/6Axf5ANnyyIzYqr45TlclM) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Samadhi](https://open.spotify.com/album/4RScghswP6gs1x9JW40gfB) | 2:40 |
 | 133 | [White Stone](https://open.spotify.com/track/46iDOpQlHuhBlznZapris4) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Distant Call](https://open.spotify.com/album/5EfbJXg23QPARwyBdjnYtd) | 3:05 |
-| 134 | [BYND TME](https://open.spotify.com/track/1h3wacc0OmdTvQOply0ulc) | [Nico Via](https://open.spotify.com/artist/0Q0dFhAcaTlfzBowdB7Btt) | [BYND TME](https://open.spotify.com/album/7tosvh7CaTGdeEMwJ4COao) | 4:04 |
-| 135 | [Undertow](https://open.spotify.com/track/16oGajuaXEQAWKmFqxVCCd) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Undertow](https://open.spotify.com/album/2Qmg5AdizdZqzcl8Y1kLN4) | 2:40 |
+| 134 | [Undertow](https://open.spotify.com/track/16oGajuaXEQAWKmFqxVCCd) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Undertow](https://open.spotify.com/album/2Qmg5AdizdZqzcl8Y1kLN4) | 2:40 |
+| 135 | [BYND TME](https://open.spotify.com/track/1h3wacc0OmdTvQOply0ulc) | [Nico Via](https://open.spotify.com/artist/0Q0dFhAcaTlfzBowdB7Btt) | [BYND TME](https://open.spotify.com/album/7tosvh7CaTGdeEMwJ4COao) | 4:04 |
 | 136 | [Starting Fresh](https://open.spotify.com/track/473jqot4B9jxOm7XiOdSLT) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Starting Fresh](https://open.spotify.com/album/5sn9KGRmiJ3wVzDdw3Arzl) | 2:52 |
 | 137 | [Captain Speaking](https://open.spotify.com/track/6nWU4ka90Da1aQsH9lDbgM) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Captain Speaking](https://open.spotify.com/album/6LxidQWnPX1XULUsNagGG8) | 6:17 |
 | 138 | [Afternoon in Gelug](https://open.spotify.com/track/17kIEKtdWl6M5qs2YuyFlW) | [Tibetan Tribe](https://open.spotify.com/artist/13LiY8DEsI4wCcKPGdBGbN) | [Afternoon in Gelug](https://open.spotify.com/album/7cGsHv7lc4VXKb98VxIgRE) | 3:08 |
 | 139 | [Geosmina](https://open.spotify.com/track/1UUfaxvrgpx6IgQ8MCdsTC) | [Furna](https://open.spotify.com/artist/2MtNVvbfAnblCOA9RXKfBx) | [Pouring rain](https://open.spotify.com/album/3Ft9QVNyd9jlvgb89AYmNF) | 2:42 |
 | 140 | [There And Back](https://open.spotify.com/track/2kH1pkg3I1Z0dk5zcOlXYu) | [Phanari](https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg) | [There And Back](https://open.spotify.com/album/76UGD3zDbzEHjbTKkbSpYL) | 2:53 |
-| 141 | [Star Above Parvati](https://open.spotify.com/track/1v6wDVHNEhAWgQ2ccBHjqg) | [Peyote Level](https://open.spotify.com/artist/4pYUORZCLABNwtzn9kezVd) | [Star Above Parvati](https://open.spotify.com/album/2O7c5JeLgSUTCj3Z403M4k) | 3:04 |
+| 141 | [Mirage](https://open.spotify.com/track/4GDND8Yo6fiuZyDLb3AZFc) | [Aasha](https://open.spotify.com/artist/3oZIhZPCUlo96KASIHluiC) | [Mirage](https://open.spotify.com/album/5r4Jy8mDacGJHNOpxmPYgx) | 2:18 |
 | 142 | [Arrivals](https://open.spotify.com/track/6ebuQW1JklhK6vrS02nS8w) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Arrivals](https://open.spotify.com/album/2wzLZcooRdJ6LYtIGTSDA8) | 2:42 |
-| 143 | [Mirage](https://open.spotify.com/track/4GDND8Yo6fiuZyDLb3AZFc) | [Aasha](https://open.spotify.com/artist/3oZIhZPCUlo96KASIHluiC) | [Mirage](https://open.spotify.com/album/5r4Jy8mDacGJHNOpxmPYgx) | 2:18 |
+| 143 | [Star Above Parvati](https://open.spotify.com/track/1v6wDVHNEhAWgQ2ccBHjqg) | [Peyote Level](https://open.spotify.com/artist/4pYUORZCLABNwtzn9kezVd) | [Star Above Parvati](https://open.spotify.com/album/2O7c5JeLgSUTCj3Z403M4k) | 3:04 |
 | 144 | [Chakra](https://open.spotify.com/track/0SfDJE8Q0RhjgriKxSEXSN) | [Maasoom](https://open.spotify.com/artist/7bFkM59zFpSSmQEmPIfIrg) | [Chakra](https://open.spotify.com/album/4qdm2nundmbGV2g9ppryGD) | 2:10 |
 | 145 | [Travel Through Time](https://open.spotify.com/track/7gYM2J1zY4dHV2TSWBULEJ) | [Sonic Ark](https://open.spotify.com/artist/64yr5oBBkL3KiDfT9eexN1) | [Travel Through Time](https://open.spotify.com/album/0XqN1uf1gz5Ts00H9slDZS) | 3:20 |
 | 146 | [Fading Warmth](https://open.spotify.com/track/6PmqjvzId79ndygAHCg43g) | [Ollwen](https://open.spotify.com/artist/4OhbuoBhnyQzBvA3Zvo9s9) | [Fading Warmth](https://open.spotify.com/album/3F4Im6U0AIuglRqesQwuBs) | 2:35 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPZjY51bRyr.md) - [plain]
 | 159 | [One Giant Leap](https://open.spotify.com/track/782QwZQiP9OIZcZhEF0lQ9) | [Cosmic Garden Gate](https://open.spotify.com/artist/0EBhS1lnPoM1fPhf3YFWS0) | [One Giant Leap](https://open.spotify.com/album/6fleY1qghIw98enZVZw7u9) | 2:37 |
 | 160 | [Blissful Pulses](https://open.spotify.com/track/05lZVhGjLi84vuGB4pa4QF) | [astral rhythms](https://open.spotify.com/artist/41e1gVX7wXCRGUGmFcajEu) | [Blissful Pulses](https://open.spotify.com/album/6ix5Or8Zc4ins5o7AYcAkY) | 3:20 |
 
-Snapshot ID: `MCxhYTY5ZDI3NDJlN2IzNTk4ZmE4ZmNiYjc5ZmE2YWRjMTYxNWIxZDlj`
+Snapshot ID: `MCw4NmZkYzBhYjk5OWFkNGM2OTIwMDI0NTQ2N2I3ZjJjYjgxOTUyYjc1`

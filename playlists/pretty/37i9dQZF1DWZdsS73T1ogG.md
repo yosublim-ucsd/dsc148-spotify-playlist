@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: IZaak, Luar La L & Omar Courtz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,071 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,110 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 58 | [Pa Casa](https://open.spotify.com/track/6GBIsXkI1ketoQpY7GBuj6) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Pa Casa](https://open.spotify.com/album/2TcClZORswUT3AReMz3AR4) | 3:28 |
 | 59 | [TU ME QUIERES? REMIXXX \(feat\. Lucky Brown\)](https://open.spotify.com/track/2EudY7VpHg91v5PDkinD37) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM) | [TU ME QUIERES? REMIXXX \(feat\. Lucky Brown\)](https://open.spotify.com/album/705CyZCCFXeFcybba6kvmv) | 5:08 |
 | 60 | [CC \- Remix](https://open.spotify.com/track/1sMMcQDlV626GPvzJaGSFx) | [lil joujou](https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [CC \(Remix\)](https://open.spotify.com/album/3kHMc3S6pPS9gODoTwhDTH) | 4:02 |
-| 61 | [Trajecito XS](https://open.spotify.com/track/535EyYs5tDynf3kt9niGa4) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Trajecito XS](https://open.spotify.com/album/7GBVZbQlOaJzfzxo7kCHQ1) | 3:40 |
+| 61 | [Te Leo](https://open.spotify.com/track/342n43KiWAClLsJi1JTvRb) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [Te Leo](https://open.spotify.com/album/64eQsDC3CcmAxkXjkyYhT2) | 2:34 |
 | 62 | [Mia Na' Mas](https://open.spotify.com/track/0QlLclyUHQs859oPptz6qh) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Partyson](https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL) | 3:05 |
 | 63 | [Easy](https://open.spotify.com/track/5V42ESWm6CPVldc1vzKwAU) | [Yeruza](https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Easy](https://open.spotify.com/album/2TZv7gq1Xnp8c2IVTRy8Zp) | 4:14 |
 | 64 | [La Manzana](https://open.spotify.com/track/5zn3YmZvi0SYMgGPLc8R93) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [La Manzana](https://open.spotify.com/album/5JD5l71JvRRd1BB4ksdU5s) | 3:16 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 68 | [Perreando Triste \(feat\. Uzielito Mix\)](https://open.spotify.com/track/7yo64TVgvf9hBKZKCuVhUy) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Perreando Triste \(feat\. Uzielito Mix\)](https://open.spotify.com/album/0Z0tJ5ucn0zI9Z1nuPruCs) | 2:55 |
 | 69 | [Merlina](https://open.spotify.com/track/6Ai42oZmF5kTfs8eGUpsmc) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Trap or Ween](https://open.spotify.com/album/2LfYNX1oJszU5Ua1Trj2G2) | 3:26 |
 | 70 | [LLAME PA' VERTE \(feat\. Wisin\)](https://open.spotify.com/track/1RjifKIUX8faZv9nxR0t5f) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [LLAME PA' VERTE \(feat\. Wisin\)](https://open.spotify.com/album/1sRGzLtFGN7Z3Opujc9NdV) | 3:27 |
-| 71 | [Te Leo](https://open.spotify.com/track/342n43KiWAClLsJi1JTvRb) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [Te Leo](https://open.spotify.com/album/64eQsDC3CcmAxkXjkyYhT2) | 2:34 |
+| 71 | [Trajecito XS](https://open.spotify.com/track/535EyYs5tDynf3kt9niGa4) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Trajecito XS](https://open.spotify.com/album/7GBVZbQlOaJzfzxo7kCHQ1) | 3:40 |
 | 72 | [GANGSTA LUV](https://open.spotify.com/track/5DW8n9JygY7J4oMFV5M7ti) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB) | [GANGSTA LUV](https://open.spotify.com/album/6I831rDMtHx8e17mh5xzsP) | 3:51 |
 | 73 | [AHORA](https://open.spotify.com/track/07r64YoKSBEg19K4BLJC6t) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [AHORA](https://open.spotify.com/album/6XY5EPRak33PeJZSuBgvqs) | 3:57 |
 | 74 | [Gafas Pal Sol](https://open.spotify.com/track/1fRVcAo1TNDqdzV55vn3ep) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 99 | [Desbarata](https://open.spotify.com/track/6PvX6uIThIrFSYCi0tdsUt) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [DESBARATA](https://open.spotify.com/album/7JcSJdoEszIcVdmmLkqZvp) | 2:46 |
 | 100 | [Te Acuerdas](https://open.spotify.com/track/6Z9ZZGhn03kt8F6fd1blqM) | [Armez](https://open.spotify.com/artist/5SETXxt4h3XsZONZRoodOz) | [Te Acuerdas](https://open.spotify.com/album/195kQz5FnlCK1gA4EyuMrF) | 3:14 |
 
-Snapshot ID: `MCwxMTYwNmI0ZjUwNDk2MzUwNGE4NDQxOTdjZDZjODViMDE0ZmM1YzI3`
+Snapshot ID: `MCw0YTU3MzcyMjZkNjg3ZmRkMDBhZTVjNGY5NGNlNzhjNjA0MzExNzQy`

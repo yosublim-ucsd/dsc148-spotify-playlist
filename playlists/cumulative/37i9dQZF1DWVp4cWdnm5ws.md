@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon this 2023\. Cover: Alamat
 
-155 songs - 9 hr 43 min
+156 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Runnin'](https://open.spotify.com/track/7y0MRQ7VtQYoKUDcFo7xdT) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8), [Keiko Necesario](https://open.spotify.com/artist/0DouUeF604QbSdKYIL3xrq) | [Runnin'](https://open.spotify.com/album/1E3zxWGYuSM0ir8c29aBtK) | 3:28 | 2021-11-25 | 2022-03-25 |
 | [Sabik](https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:54 | 2023-10-02 |  |
 | [Sagi](https://open.spotify.com/track/3Z7Qh3lOUg0d3Aj18otDVn) | [Paul Pablo](https://open.spotify.com/artist/5GB0qrWq0mz2OanyfhXGp0) | [Sagi](https://open.spotify.com/album/4xK0CN6e6hCWM5r0vL0fV5) | 3:21 | 2023-04-13 |  |
+| [Salvaje Freestyle](https://open.spotify.com/track/4OfPBWngzn8ZXb0LemRhdK) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Salvaje Freestyle](https://open.spotify.com/album/2SfpP4iFulsCAUvNGI3ofg) | 1:41 | 2023-11-23 |  |
 | [Samokan](https://open.spotify.com/track/5k8Qkzwec8v2QjFOdGJeHI) | [August Wahh](https://open.spotify.com/artist/4NsvRUCOVV4KrWRfF65Rcj), [Cookie$](https://open.spotify.com/artist/3mzdfGKp0mQXzuNoS8z915) | [Samokan / Called Ur Bluff](https://open.spotify.com/album/3HBAQ3u2uez5BFfrzyIkzA) | 2:57 | 2021-11-25 | 2022-03-25 |
 | [Sandal](https://open.spotify.com/track/5LkJokf6VTL6eQBNskJM6W) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [Sandal](https://open.spotify.com/album/5BpZBtcQWxONxQzHHYzsDC) | 3:17 | 2023-10-02 |  |
 | [Say My Name](https://open.spotify.com/track/6AchAK5rBD4KTzJ14wOvSI) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Say My Name](https://open.spotify.com/album/2tAO03fZDc1V1TureuHTeH) | 2:39 | 2023-08-30 |  |

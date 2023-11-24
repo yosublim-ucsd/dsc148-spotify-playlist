@@ -2,7 +2,7 @@
 
 ### [Apéro !](https://open.spotify.com/playlist/37i9dQZF1DWZk2SPZ3bugX)
 
-> La bande\-son de votre apéro\. Santé !
+> 🍾
 
 149 songs - 8 hr 55 min
 

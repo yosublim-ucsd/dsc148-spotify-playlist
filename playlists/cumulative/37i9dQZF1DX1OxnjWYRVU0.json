@@ -10416,6 +10416,28 @@
     {
       "album": {
         "name": "Worth It",
+        "url": "https://open.spotify.com/album/4NzrSVtldz8w7hEFG39Maz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "KAJAK",
+          "url": "https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140163,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/74gxiJiHqw0DqeWskmKJvK"
+    },
+    {
+      "album": {
+        "name": "Worth It",
         "url": "https://open.spotify.com/album/74FlFbZ0TVF9sBZm6HIwxi"
       },
       "artists": [
@@ -10434,7 +10456,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 140134,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/2g5CTJ1G3e8GPG6m0iGtFr"

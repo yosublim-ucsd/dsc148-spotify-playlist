@@ -1,28 +1,44 @@
 {
   "description": "Meet the future. New artists on the horizon.",
-  "num_followers": 57197,
+  "num_followers": 57215,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTk4Nzk1NzRiZDAzMjMyNTNiOTBhMmMxN2VjMzg4MjIzYzJkNjY4",
+  "snapshot_id": "MCwzOGY1YjgzNjAyNWViNTc0ZTkwM2I4OTVhMWI3NjAxNDYwZDEwOGI4",
   "tracks": [
     {
       "added_at": "2023-10-05 08:01:42",
       "album": {
-        "name": "Jah",
-        "url": "https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd"
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
       },
       "artists": [
         {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 147641,
-      "name": "Jah",
-      "url": "https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6"
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2023-10-27 06:00:00",
+      "album": {
+        "name": "ELOWI",
+        "url": "https://open.spotify.com/album/49TUnWv5swURA9osAyLHI2"
+      },
+      "artists": [
+        {
+          "name": "Yam\u00ea",
+          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+        }
+      ],
+      "duration_ms": 173826,
+      "name": "Call of Valhalla",
+      "url": "https://open.spotify.com/track/6hShO2ZZ0bFO1SNfpfkHOD"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -41,36 +57,120 @@
       "url": "https://open.spotify.com/track/6sl8thmAsTzYfVw3jJ9z49"
     },
     {
-      "added_at": "2023-10-05 08:01:42",
+      "added_at": "2023-10-13 06:00:00",
       "album": {
-        "name": "Roller Coaster",
-        "url": "https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw"
+        "name": "Unhappier",
+        "url": "https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5"
       },
       "artists": [
         {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+          "name": "laye",
+          "url": "https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn"
         }
       ],
-      "duration_ms": 179373,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df"
+      "duration_ms": 197219,
+      "name": "Unhappier",
+      "url": "https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR"
+    },
+    {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Tic",
+        "url": "https://open.spotify.com/album/5sPX9DRTRsU03utz3IK8vB"
+      },
+      "artists": [
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        }
+      ],
+      "duration_ms": 130815,
+      "name": "Tic",
+      "url": "https://open.spotify.com/track/1rO9az1C7u2RXUK0E9YfUi"
+    },
+    {
+      "added_at": "2023-05-22 07:20:56",
+      "album": {
+        "name": "Diss Na Mi\u0142o\u015b\u0107",
+        "url": "https://open.spotify.com/album/6suEF8zc9TYI3RPuLIi2VT"
+      },
+      "artists": [
+        {
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+        }
+      ],
+      "duration_ms": 112694,
+      "name": "Diss Na Mi\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek"
     },
     {
       "added_at": "2023-10-05 08:01:42",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+        "name": "Jah",
+        "url": "https://open.spotify.com/album/4loLO6BScEOCNJaUnXpIMd"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         }
       ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+      "duration_ms": 147641,
+      "name": "Jah",
+      "url": "https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6"
+    },
+    {
+      "added_at": "2023-11-23 06:00:00",
+      "album": {
+        "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
+        "url": "https://open.spotify.com/album/19bgWVSbdr6hodfxeJd4wU"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 130602,
+      "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
+      "url": "https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F"
+    },
+    {
+      "added_at": "2023-05-30 12:45:30",
+      "album": {
+        "name": "Right Person, Wrong Time",
+        "url": "https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa"
+      },
+      "artists": [
+        {
+          "name": "shazza",
+          "url": "https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD"
+        }
+      ],
+      "duration_ms": 238410,
+      "name": "Right Person, Wrong Time",
+      "url": "https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "\u00d6l \u0130\u00e7imde",
+        "url": "https://open.spotify.com/album/41SssnSpIajL67pupQYIwk"
+      },
+      "artists": [
+        {
+          "name": "Paptircem",
+          "url": "https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b"
+        }
+      ],
+      "duration_ms": 193124,
+      "name": "\u00d6l \u0130\u00e7imde",
+      "url": "https://open.spotify.com/track/0WLyMvzaAjKQd7FTAYvARW"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -117,22 +217,6 @@
       "url": "https://open.spotify.com/track/4hKLzFvNwHF6dPosGT30ed"
     },
     {
-      "added_at": "2023-08-18 06:00:00",
-      "album": {
-        "name": "Tic",
-        "url": "https://open.spotify.com/album/5sPX9DRTRsU03utz3IK8vB"
-      },
-      "artists": [
-        {
-          "name": "Maureen",
-          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
-        }
-      ],
-      "duration_ms": 130815,
-      "name": "Tic",
-      "url": "https://open.spotify.com/track/1rO9az1C7u2RXUK0E9YfUi"
-    },
-    {
       "added_at": "2023-04-17 14:05:23",
       "album": {
         "name": "GAR\u00c7ON",
@@ -165,36 +249,20 @@
       "url": "https://open.spotify.com/track/0t4N3qUMwdnDZNumcVxPRu"
     },
     {
-      "added_at": "2023-10-11 14:30:00",
+      "added_at": "2023-11-23 06:00:00",
       "album": {
-        "name": "IMMA LIAR",
-        "url": "https://open.spotify.com/album/4kinMZv8wlwWMXHZrV049m"
+        "name": "Tak Bisa Bilang",
+        "url": "https://open.spotify.com/album/6PWcf1Zb6nOjN5XJFIs1gH"
       },
       "artists": [
         {
-          "name": "Selin",
-          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
+          "name": "Awdella",
+          "url": "https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw"
         }
       ],
-      "duration_ms": 171606,
-      "name": "IMMA LIAR",
-      "url": "https://open.spotify.com/track/49IX3KVi9QmelCBp9iIUIc"
-    },
-    {
-      "added_at": "2023-10-11 14:30:00",
-      "album": {
-        "name": "Sand\u0131m Ki",
-        "url": "https://open.spotify.com/album/1qOtMCVssBznqkLjjQL0QU"
-      },
-      "artists": [
-        {
-          "name": "Paptircem",
-          "url": "https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b"
-        }
-      ],
-      "duration_ms": 246575,
-      "name": "Sand\u0131m Ki",
-      "url": "https://open.spotify.com/track/5rRE2sa6Q6IgYDBiO9PiXC"
+      "duration_ms": 249336,
+      "name": "Tak Bisa Bilang",
+      "url": "https://open.spotify.com/track/2rNMr1l3vFvJcIJh59QVLg"
     },
     {
       "added_at": "2023-10-27 10:47:14",
@@ -211,6 +279,54 @@
       "duration_ms": 148074,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR"
+    },
+    {
+      "added_at": "2023-10-11 14:30:00",
+      "album": {
+        "name": "IMMA LIAR",
+        "url": "https://open.spotify.com/album/4kinMZv8wlwWMXHZrV049m"
+      },
+      "artists": [
+        {
+          "name": "Selin",
+          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
+        }
+      ],
+      "duration_ms": 171606,
+      "name": "IMMA LIAR",
+      "url": "https://open.spotify.com/track/49IX3KVi9QmelCBp9iIUIc"
+    },
+    {
+      "added_at": "2023-10-05 08:01:42",
+      "album": {
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 179373,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df"
+    },
+    {
+      "added_at": "2023-10-11 14:30:00",
+      "album": {
+        "name": "Sand\u0131m Ki",
+        "url": "https://open.spotify.com/album/1qOtMCVssBznqkLjjQL0QU"
+      },
+      "artists": [
+        {
+          "name": "Paptircem",
+          "url": "https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b"
+        }
+      ],
+      "duration_ms": 246575,
+      "name": "Sand\u0131m Ki",
+      "url": "https://open.spotify.com/track/5rRE2sa6Q6IgYDBiO9PiXC"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -233,36 +349,24 @@
       "url": "https://open.spotify.com/track/62nOLQvhG6l1QAac2CXzJr"
     },
     {
-      "added_at": "2023-10-13 06:00:00",
+      "added_at": "2023-11-23 06:00:00",
       "album": {
-        "name": "Unhappier",
-        "url": "https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5"
+        "name": "Buchi ai lobi",
+        "url": "https://open.spotify.com/album/0yBYqUOcJsCNiYRvTv1E5p"
       },
       "artists": [
         {
-          "name": "laye",
-          "url": "https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn"
-        }
-      ],
-      "duration_ms": 197219,
-      "name": "Unhappier",
-      "url": "https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR"
-    },
-    {
-      "added_at": "2023-10-27 06:00:00",
-      "album": {
-        "name": "ELOWI",
-        "url": "https://open.spotify.com/album/49TUnWv5swURA9osAyLHI2"
-      },
-      "artists": [
+          "name": "piazzabologna",
+          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
+        },
         {
-          "name": "Yam\u00ea",
-          "url": "https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl"
+          "name": "Gorbaciof",
+          "url": "https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF"
         }
       ],
-      "duration_ms": 173826,
-      "name": "Call of Valhalla",
-      "url": "https://open.spotify.com/track/6hShO2ZZ0bFO1SNfpfkHOD"
+      "duration_ms": 146831,
+      "name": "Buchi ai lobi",
+      "url": "https://open.spotify.com/track/1EK9LRcQxtUiZUxXevX1nP"
     },
     {
       "added_at": "2023-04-17 14:05:23",
@@ -279,38 +383,6 @@
       "duration_ms": 177196,
       "name": "Gaffe aux autres",
       "url": "https://open.spotify.com/track/05nHF22haxFM2aLYVUCHDe"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "\u00d6l \u0130\u00e7imde",
-        "url": "https://open.spotify.com/album/41SssnSpIajL67pupQYIwk"
-      },
-      "artists": [
-        {
-          "name": "Paptircem",
-          "url": "https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b"
-        }
-      ],
-      "duration_ms": 193124,
-      "name": "\u00d6l \u0130\u00e7imde",
-      "url": "https://open.spotify.com/track/0WLyMvzaAjKQd7FTAYvARW"
-    },
-    {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
-        "name": "Right Person, Wrong Time",
-        "url": "https://open.spotify.com/album/2IyQsLuXmJsalKTgUgqiaa"
-      },
-      "artists": [
-        {
-          "name": "shazza",
-          "url": "https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD"
-        }
-      ],
-      "duration_ms": 238410,
-      "name": "Right Person, Wrong Time",
-      "url": "https://open.spotify.com/track/4O4NB0PEKsdA1wMatYuJYs"
     },
     {
       "added_at": "2023-09-08 07:14:00",
@@ -343,6 +415,22 @@
       "duration_ms": 140157,
       "name": "procrastinating",
       "url": "https://open.spotify.com/track/15iHiRaaYkXvpN5b8iGqDE"
+    },
+    {
+      "added_at": "2023-11-23 06:00:00",
+      "album": {
+        "name": "VENERE",
+        "url": "https://open.spotify.com/album/1xBryxKD1ss7DvPDrjD5ql"
+      },
+      "artists": [
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
+        }
+      ],
+      "duration_ms": 168095,
+      "name": "VENERE",
+      "url": "https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -457,22 +545,6 @@
       "url": "https://open.spotify.com/track/46yBpFu9lmZt2aowHN9oG9"
     },
     {
-      "added_at": "2023-05-22 07:20:56",
-      "album": {
-        "name": "Diss Na Mi\u0142o\u015b\u0107",
-        "url": "https://open.spotify.com/album/6suEF8zc9TYI3RPuLIi2VT"
-      },
-      "artists": [
-        {
-          "name": "stickxr",
-          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
-        }
-      ],
-      "duration_ms": 112694,
-      "name": "Diss Na Mi\u0142o\u015b\u0107",
-      "url": "https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek"
-    },
-    {
       "added_at": "2023-10-27 06:00:00",
       "album": {
         "name": "Serio",
@@ -507,6 +579,22 @@
       "duration_ms": 170366,
       "name": "NASTY",
       "url": "https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC"
+    },
+    {
+      "added_at": "2023-05-30 12:45:30",
+      "album": {
+        "name": "KAWASAKI",
+        "url": "https://open.spotify.com/album/44SgcdObjod1zClkfe5NoL"
+      },
+      "artists": [
+        {
+          "name": "ENVY*",
+          "url": "https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "KAWASAKI",
+      "url": "https://open.spotify.com/track/1E5gT3cRA3WuH9XDgVIPau"
     },
     {
       "added_at": "2023-10-27 06:00:00",
@@ -575,6 +663,22 @@
       "duration_ms": 175833,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq"
+    },
+    {
+      "added_at": "2023-05-30 12:45:30",
+      "album": {
+        "name": "Pick Up",
+        "url": "https://open.spotify.com/album/5Imz9Ju2AaapUqNbEj36a2"
+      },
+      "artists": [
+        {
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
+        }
+      ],
+      "duration_ms": 203093,
+      "name": "Pick Up",
+      "url": "https://open.spotify.com/track/1yBLm463DXwQaXnQMaiMw7"
     },
     {
       "added_at": "2023-11-10 06:00:00",
@@ -687,22 +791,6 @@
       "duration_ms": 212878,
       "name": "LADY GAGA",
       "url": "https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR"
-    },
-    {
-      "added_at": "2023-10-27 06:00:00",
-      "album": {
-        "name": "LOBA Vol. I",
-        "url": "https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 173642,
-      "name": "Tengo Sed",
-      "url": "https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA"
     },
     {
       "added_at": "2023-10-13 06:00:00",
@@ -869,22 +957,6 @@
       "url": "https://open.spotify.com/track/3VL3aSOA8O3b5iOVBkD9iD"
     },
     {
-      "added_at": "2023-10-13 06:00:00",
-      "album": {
-        "name": "PETARDI",
-        "url": "https://open.spotify.com/album/0KFD7ttxVpwUGGHws8HKod"
-      },
-      "artists": [
-        {
-          "name": "Asteria",
-          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
-        }
-      ],
-      "duration_ms": 148839,
-      "name": "PETARDI",
-      "url": "https://open.spotify.com/track/6aBkkxEVmDGC1o0DpxQcjM"
-    },
-    {
       "added_at": "2023-09-22 06:00:00",
       "album": {
         "name": "WE STILL YOUNG",
@@ -1003,30 +1075,6 @@
       "duration_ms": 193000,
       "name": "LOOK AT ME",
       "url": "https://open.spotify.com/track/0q0J04NigVLzVEtTJ43Gtx"
-    },
-    {
-      "added_at": "2023-10-20 06:00:00",
-      "album": {
-        "name": "STATI MAI",
-        "url": "https://open.spotify.com/album/0UAiDmMSK7SRTOrap8SBSb"
-      },
-      "artists": [
-        {
-          "name": "piazzabologna",
-          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
-        },
-        {
-          "name": "dile",
-          "url": "https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK"
-        },
-        {
-          "name": "Gorbaciof",
-          "url": "https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF"
-        }
-      ],
-      "duration_ms": 162631,
-      "name": "STATI MAI",
-      "url": "https://open.spotify.com/track/4cSjpoTB6wcnwWeDic6S66"
     },
     {
       "added_at": "2023-10-11 14:30:00",
@@ -1811,22 +1859,6 @@
     {
       "added_at": "2023-05-30 12:45:30",
       "album": {
-        "name": "Pick Up",
-        "url": "https://open.spotify.com/album/5Imz9Ju2AaapUqNbEj36a2"
-      },
-      "artists": [
-        {
-          "name": "Illest Morena",
-          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
-        }
-      ],
-      "duration_ms": 203093,
-      "name": "Pick Up",
-      "url": "https://open.spotify.com/track/1yBLm463DXwQaXnQMaiMw7"
-    },
-    {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
         "name": "Headspace",
         "url": "https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv"
       },
@@ -1871,22 +1903,6 @@
       "duration_ms": 181000,
       "name": "BLOOM",
       "url": "https://open.spotify.com/track/4S5emjYAq0EGh9PUCQXD0X"
-    },
-    {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
-        "name": "Tertawan Hati",
-        "url": "https://open.spotify.com/album/4pHrGkGuL62BjpAwLxhoJo"
-      },
-      "artists": [
-        {
-          "name": "Awdella",
-          "url": "https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw"
-        }
-      ],
-      "duration_ms": 237863,
-      "name": "Tertawan Hati",
-      "url": "https://open.spotify.com/track/0DVCvSb8PhHchIP23JOP9q"
     },
     {
       "added_at": "2023-05-30 12:45:30",
@@ -2103,22 +2119,6 @@
       "duration_ms": 290939,
       "name": "Jalan Tengah",
       "url": "https://open.spotify.com/track/4QgumLhe9bOEiyKwazYNer"
-    },
-    {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
-        "name": "KAWASAKI",
-        "url": "https://open.spotify.com/album/44SgcdObjod1zClkfe5NoL"
-      },
-      "artists": [
-        {
-          "name": "ENVY*",
-          "url": "https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "KAWASAKI",
-      "url": "https://open.spotify.com/track/1E5gT3cRA3WuH9XDgVIPau"
     },
     {
       "added_at": "2023-05-30 12:45:30",

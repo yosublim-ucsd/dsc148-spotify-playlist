@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. Cover: Coogie",
+  "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. Cover: DEAN",
   "name": "KimBops!",
   "tracks": [
     {
@@ -350,6 +350,46 @@
       "duration_ms": 183613,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7qrpkyFfaglH9BfYbppZPH"
+    },
+    {
+      "album": {
+        "name": "Amigos (with Becky G)",
+        "url": "https://open.spotify.com/album/3HtYZEKcsbFqEzKX8xntam"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151864,
+      "name": "Amigos (with Becky G)",
+      "url": "https://open.spotify.com/track/60DPrTJRHzpGPSJXLiSdDX"
+    },
+    {
+      "album": {
+        "name": "CONTINUUM",
+        "url": "https://open.spotify.com/album/2AsnF98Eiqyyz1KtvmBhQP"
+      },
+      "artists": [
+        {
+          "name": "VIXX",
+          "url": "https://open.spotify.com/artist/5BkB3rXc0qIdUtuEnhbK0A"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178080,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/6tIIC3K58Sk6Et8KYmynez"
     },
     {
       "album": {
@@ -806,7 +846,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 336240,
       "name": "Because I Don't Know How to Love (2023)",
       "url": "https://open.spotify.com/track/1IxB8MykqlInaU6MHzkaFC"
@@ -2254,7 +2294,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 174253,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/36ylDwMUz1EqrdbfBF8vC7"
@@ -2532,6 +2572,24 @@
       "duration_ms": 165746,
       "name": "DICE",
       "url": "https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC"
+    },
+    {
+      "album": {
+        "name": "DIE 4 YOU",
+        "url": "https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194045,
+      "name": "DIE 4 YOU",
+      "url": "https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk"
     },
     {
       "album": {
@@ -4348,7 +4406,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 176493,
       "name": "How To Twerk (Prod. Czaer)",
       "url": "https://open.spotify.com/track/1ckjVyV85YJob7nFZlEHIo"
@@ -6648,6 +6706,24 @@
       "duration_ms": 187826,
       "name": "ONE MORE TIME",
       "url": "https://open.spotify.com/track/2HGAKzcfEtMfbM2ssgiKez"
+    },
+    {
+      "album": {
+        "name": "[VillainS]",
+        "url": "https://open.spotify.com/album/1GWC45tJrcKctt6qtFQHB7"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176570,
+      "name": "OOTD",
+      "url": "https://open.spotify.com/track/2PSqR2dQWllqSPHeUdCp1S"
     },
     {
       "album": {
@@ -9083,6 +9159,24 @@
     },
     {
       "album": {
+        "name": "ORANGE BLOOD",
+        "url": "https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148753,
+      "name": "Sweet Venom",
+      "url": "https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m"
+    },
+    {
+      "album": {
         "name": "Street Woman Fighter2 (SWF2) Class Mission",
         "url": "https://open.spotify.com/album/3fifgTm6PcVhHE9v72nlCb"
       },
@@ -10475,6 +10569,24 @@
     },
     {
       "album": {
+        "name": "THE BOYZ 2ND ALBUM [PHANTASY] Pt.2 Sixth Sense",
+        "url": "https://open.spotify.com/album/7LmTay8KeH1nl0Kt1BlhMX"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "WATCH IT",
+      "url": "https://open.spotify.com/track/3UQw1V8gM5YihFDcnjNkWN"
+    },
+    {
+      "album": {
         "name": "BIT Part.1",
         "url": "https://open.spotify.com/album/1JIBD2xuWX2cdGLoHvBdoc"
       },
@@ -10878,7 +10990,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 193893,
       "name": "X.O.X",
       "url": "https://open.spotify.com/track/4TsXvv60e5N9uQpanWkFQ9"

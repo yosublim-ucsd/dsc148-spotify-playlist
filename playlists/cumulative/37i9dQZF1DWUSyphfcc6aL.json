@@ -330,7 +330,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 139325,
       "name": "Area Codes",
       "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
@@ -882,6 +882,28 @@
       "duration_ms": 165861,
       "name": "Built To Last (feat. R\u00d8RY)",
       "url": "https://open.spotify.com/track/3OmKuGbtu4U2UnQpDqLXHi"
+    },
+    {
+      "album": {
+        "name": "Silversun",
+        "url": "https://open.spotify.com/album/4EAemIQHlJl7ZwCndwy8ro"
+      },
+      "artists": [
+        {
+          "name": "Willaris. K",
+          "url": "https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj"
+        },
+        {
+          "name": "jamesjamesjames",
+          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299387,
+      "name": "Bullet Train To Paris",
+      "url": "https://open.spotify.com/track/0lIOamNC6EMXu1AgPyzSTD"
     },
     {
       "album": {
@@ -1682,7 +1704,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 169000,
       "name": "Giving Me",
       "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
@@ -3778,6 +3800,36 @@
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
+    },
+    {
+      "album": {
+        "name": "PROPER Remix",
+        "url": "https://open.spotify.com/album/3BXie3ANNW1kNEomWxwjoq"
+      },
+      "artists": [
+        {
+          "name": "2RISKY",
+          "url": "https://open.spotify.com/artist/3O1XjJOqWsWhnaPS3jRCru"
+        },
+        {
+          "name": "Hooligan Hefs",
+          "url": "https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I"
+        },
+        {
+          "name": "NASA NOVA",
+          "url": "https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR"
+        },
+        {
+          "name": "Masi Rooc",
+          "url": "https://open.spotify.com/artist/7lVylfM4gOIszKc9dr1EOc"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145662,
+      "name": "PROPER Remix",
+      "url": "https://open.spotify.com/track/4VqTTfqmQ5TDGq2v6UO78T"
     },
     {
       "album": {

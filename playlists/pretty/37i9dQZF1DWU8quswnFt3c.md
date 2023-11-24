@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Bellakath
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,316 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,269 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 15 | [You Know I'm No Good](https://open.spotify.com/track/4zQuwW24dweWcaX0fEJkP2) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 4:16 |
 | 16 | [Che t’o dico a fa’](https://open.spotify.com/track/7sBmJhD1J7qt33jgxH7Jf9) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Che t’o dico a fa’](https://open.spotify.com/album/06ngD2b3wsMNEKynEGt24o) | 3:07 |
 | 17 | [Berpayung Tuhan](https://open.spotify.com/track/5n7JlSbYBsUSncCwm5OAOh) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Untuk Dunia, Cinta, dan Kotornya](https://open.spotify.com/album/5hpq1LSLCuC7cifjXAM5bf) | 4:57 |
-| 18 | [Monster \- Spotify Singles](https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Monster \(Spotify Singles\)](https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF) | 3:57 |
-| 19 | [Dalie \(feat\. Baby S.O.N\)](https://open.spotify.com/track/4URabg9AGHasjFEVdTbWcC) | [Kamo Mphela](https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp), [Baby S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6) | [Dalie \(feat\. Baby S.O.N\)](https://open.spotify.com/album/0J4K8H2exzOLpz1RcfZbID) | 4:40 |
+| 18 | [Dalie \(feat\. Baby S.O.N\)](https://open.spotify.com/track/4URabg9AGHasjFEVdTbWcC) | [Kamo Mphela](https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp), [Baby S.O.N](https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6) | [Dalie \(feat\. Baby S.O.N\)](https://open.spotify.com/album/0J4K8H2exzOLpz1RcfZbID) | 4:40 |
+| 19 | [Monster \- Spotify Singles](https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Monster \(Spotify Singles\)](https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF) | 3:57 |
 | 20 | [Good bye\-bye](https://open.spotify.com/track/6yrSg5ltrGVOoha4TtUBZ3) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Good bye\-bye](https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq) | 3:21 |
 | 21 | [Turbulent Skies](https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:33 |
 | 22 | [Joli coeur](https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Joli coeur](https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd) | 3:14 |
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 27 | [感情用事](https://open.spotify.com/track/1MzomU1zM1oEuyIAJ1upfu) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [BITE BACK](https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM) | 3:57 |
 | 28 | [Gelatai](https://open.spotify.com/track/3Wx807nizmqn4rU0esPC33) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Gelatai](https://open.spotify.com/album/7ro4CirH2GXfXnAZVHZ6f1) | 2:56 |
 | 29 | [kamfora](https://open.spotify.com/track/3tKMcyxM5JJTXOmim2zH3e) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [przestrzeń](https://open.spotify.com/album/6vd5tpfLPPJ3Bo2VyStDqA) | 3:59 |
-| 30 | [Fără Te Merau](https://open.spotify.com/track/1GGYCLvxTgJG51XRCkf1r2) | [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Fără Te Merau](https://open.spotify.com/album/2N7CbtksyOtSHqEXrSixZ7) | 3:02 |
-| 31 | [Rumah](https://open.spotify.com/track/1PydWeR9bgx8cgoGLoXLVx) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Rumah](https://open.spotify.com/album/632wN8YxY2h4IazaMubRhl) | 4:13 |
-| 32 | [Sophie](https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [Sophie](https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I) | 3:14 |
+| 30 | [Sophie](https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [Sophie](https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I) | 3:14 |
+| 31 | [Fără Te Merau](https://open.spotify.com/track/1GGYCLvxTgJG51XRCkf1r2) | [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Fără Te Merau](https://open.spotify.com/album/2N7CbtksyOtSHqEXrSixZ7) | 3:02 |
+| 32 | [Rumah](https://open.spotify.com/track/1PydWeR9bgx8cgoGLoXLVx) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Rumah](https://open.spotify.com/album/632wN8YxY2h4IazaMubRhl) | 4:13 |
 | 33 | [墮落 \(feat\. Buddha Jump 佛跳牆\)](https://open.spotify.com/track/1hT86g2KE4982nzi9NfrrO) | [Naiwen Yang](https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue), [Buddha Jump](https://open.spotify.com/artist/43k1nPBByWctkFAvo16Xbc) | [Flow](https://open.spotify.com/album/1024AIZX8jeI3kr6pQo4FR) | 4:18 |
 | 34 | [promise to pick up the phone](https://open.spotify.com/track/4OkHozB0MJuzeFiHRU2CFC) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [SHE\-REX](https://open.spotify.com/album/0ioNHVLud9ieI0626t0RP9) | 3:52 |
 | 35 | [Heal My Mind](https://open.spotify.com/track/1i3rncFmCIJfIm24QAjfsG) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx) | [Heal My Mind](https://open.spotify.com/album/4yJ9yZ5Dnv3acY4eLegRNX) | 3:25 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 61 | [No Te Puto Pilles](https://open.spotify.com/track/4UE6QnE8VNcA0YLct7PKix) | [Pantocrator](https://open.spotify.com/artist/0EeQNIqYTjakHI2O81gAa3) | [No Te Puto Pilles](https://open.spotify.com/album/53RXjCnxscKdDQUsBcP4bL) | 2:36 |
 | 62 | [Moonlight](https://open.spotify.com/track/093KjE0RKo2wfnWqYZvWJo) | [Noémie Wolfs](https://open.spotify.com/artist/5sJWIuRMqeiMooXNf6pavo) | [Wild At Heart](https://open.spotify.com/album/2Z74FlDExdsnJm1IG7Y2Ia) | 4:09 |
 | 63 | [idundomuchtalkingnow](https://open.spotify.com/track/669OXkisqk5sChjgpcwaTI) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8), [Jonwl](https://open.spotify.com/artist/1acr3vZX3WVbX6dXdwjyhz) | [idundomuchtalkingnow](https://open.spotify.com/album/30aPnV4ctObMcAxSlO2uPx) | 3:45 |
-| 64 | [Pogo En Casa](https://open.spotify.com/track/0GB2uORdNinfqBLLLwxFkg) | [Pipiolas](https://open.spotify.com/artist/0qFTwtYUtLs9jYEXUfmEpI) | [Crying Mañana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6R4YX3yjKA0U6jM72DI2IR) | 3:05 |
-| 65 | [a la mitad](https://open.spotify.com/track/1gW9X06llszndm9jXmb3tL) | [Lina Sanabria](https://open.spotify.com/artist/4NNyMWpP0BxL3RL0G60hmV) | [a la mitad](https://open.spotify.com/album/5utJnpc0PKXhEjHPdnG9dh) | 3:05 |
+| 64 | [a la mitad](https://open.spotify.com/track/1gW9X06llszndm9jXmb3tL) | [Lina Sanabria](https://open.spotify.com/artist/4NNyMWpP0BxL3RL0G60hmV) | [a la mitad](https://open.spotify.com/album/5utJnpc0PKXhEjHPdnG9dh) | 3:05 |
+| 65 | [Pogo En Casa](https://open.spotify.com/track/0GB2uORdNinfqBLLLwxFkg) | [Pipiolas](https://open.spotify.com/artist/0qFTwtYUtLs9jYEXUfmEpI) | [Crying Mañana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6R4YX3yjKA0U6jM72DI2IR) | 3:05 |
 | 66 | [Not Cool](https://open.spotify.com/track/7HOjhcnpyNJC3u2kLHqntx) | [Ivy Falls](https://open.spotify.com/artist/3I6L2mDZUNbW1BZ5YNwqAv) | [Not Cool](https://open.spotify.com/album/1jU5q6EbnfHpuQ00VyAyIi) | 3:46 |
 | 67 | [FLEX](https://open.spotify.com/track/1jLWGpo6KWHDknCPz4Zltm) | [THE F LIBRA](https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm) | [FLEX](https://open.spotify.com/album/23AMMGNATg5gvSMjD1NqkN) | 2:44 |
 | 68 | [Molly](https://open.spotify.com/track/4gfaPD5mHYGe792vAb1a2Z) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375) | [Molly](https://open.spotify.com/album/2GxFT2qN34pDypV0r4veRK) | 2:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 74 | [ICONS](https://open.spotify.com/track/3ix4gw2l6cCyS82epZ4iCL) | [Sophia Amato](https://open.spotify.com/artist/3cVQTQoXntc489KhMdcCDS) | [ICONS](https://open.spotify.com/album/3ZDL01HaLAtasNBZEe1bPA) | 3:09 |
 | 75 | [Cruel World](https://open.spotify.com/track/2Y2hR1O1cJYvsWkUJRD8Xy) | [GUMPOONG](https://open.spotify.com/artist/5QTueSjTbOjuiLiGz7APuE) | [Cruel World](https://open.spotify.com/album/31i8l1jymUX8KLVq66XkXO) | 3:47 |
 
-Snapshot ID: `MCw0OGUxZDZjNGQ0OTAyYTlmMWRhYmY5ZmEzZDhjOTdmYjkzY2Q3OGQz`
+Snapshot ID: `MCw2OWZlMDUwMWRjNGZiMWRmOTZhNDVmM2M1MzliY2M0YmRhNzRjMjU4`

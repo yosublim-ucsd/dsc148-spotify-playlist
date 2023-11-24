@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa Costi.",
+  "description": "100 Suomi \ud83d\udcaf Kannessa TIPPA ja Kube.",
   "name": "100 Suomi",
   "tracks": [
+    {
+      "album": {
+        "name": "100 kg kukkia",
+        "url": "https://open.spotify.com/album/2I2m3AZ6EkUUIuoK75zwkk"
+      },
+      "artists": [
+        {
+          "name": "Ege Zulu",
+          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167313,
+      "name": "100 kg kukkia",
+      "url": "https://open.spotify.com/track/4T5U89USlowyG8zLMsaKgf"
+    },
     {
       "album": {
         "name": "100%",
@@ -38,7 +56,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 142097,
       "name": "3 Toivomusta",
       "url": "https://open.spotify.com/track/35RegtSScKod4jXc4XtQXz"
@@ -250,7 +268,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 215159,
       "name": "Badman",
       "url": "https://open.spotify.com/track/4E6HHoNChau72S0IeRKyrK"
@@ -360,6 +378,24 @@
       "duration_ms": 156000,
       "name": "Bodega",
       "url": "https://open.spotify.com/track/50AESPBW3vrVKjUnf22Pdw"
+    },
+    {
+      "album": {
+        "name": "Bonafide",
+        "url": "https://open.spotify.com/album/1uiLIZigsnwlf5LU2oHaYw"
+      },
+      "artists": [
+        {
+          "name": "OPA",
+          "url": "https://open.spotify.com/artist/3I5cS6X8oCNIwEFbAjfLGw"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127875,
+      "name": "Bonafide",
+      "url": "https://open.spotify.com/track/1S2B20Nqklu83ZYtu75cUa"
     },
     {
       "album": {
@@ -507,6 +543,24 @@
     },
     {
       "album": {
+        "name": "Down With Me",
+        "url": "https://open.spotify.com/album/2U7oD3b2tWUfWyZ7OFfAHA"
+      },
+      "artists": [
+        {
+          "name": "El Migu",
+          "url": "https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186062,
+      "name": "Down With Me",
+      "url": "https://open.spotify.com/track/19jIH6vZtyZU96Azs9Y6oT"
+    },
+    {
+      "album": {
         "name": "Ei oo en\u00e4\u00e4 meit",
         "url": "https://open.spotify.com/album/5x0z3cHrgrw4dxAFcu59JJ"
       },
@@ -518,7 +572,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 187137,
       "name": "Ei oo en\u00e4\u00e4 meit",
       "url": "https://open.spotify.com/track/46bqUeYsiyYED0DSKNGFQd"
@@ -676,7 +730,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 182546,
       "name": "Feimii",
       "url": "https://open.spotify.com/track/7HOHMXcmf8gl4YuKwBO7SV"
@@ -724,7 +778,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 288000,
       "name": "FREEZE",
       "url": "https://open.spotify.com/track/4w2x55aaWpyqsw2K2vPOxI"
@@ -869,6 +923,28 @@
     },
     {
       "album": {
+        "name": "HOTLINE (feat. Gabri)",
+        "url": "https://open.spotify.com/album/2kBcr2daDwvo92nMCoVLVG"
+      },
+      "artists": [
+        {
+          "name": "NOTO",
+          "url": "https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI"
+        },
+        {
+          "name": "Gabri",
+          "url": "https://open.spotify.com/artist/2Y0CoDCjatoejzndcdPr1c"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125955,
+      "name": "HOTLINE (feat. Gabri)",
+      "url": "https://open.spotify.com/track/4RQfjtiyg5aB3iwcTQWVJ7"
+    },
+    {
+      "album": {
         "name": "Huudimaratoonari",
         "url": "https://open.spotify.com/album/0oCQ6mw8JQETUkE0B9sv2g"
       },
@@ -928,6 +1004,24 @@
       "duration_ms": 171743,
       "name": "H\u00e4rk\u00e4",
       "url": "https://open.spotify.com/track/5TYypnnkujwZ8P21OAJ2Kw"
+    },
+    {
+      "album": {
+        "name": "I MADE IT",
+        "url": "https://open.spotify.com/album/2eYpiQQvI9WPYMbsPpXSr7"
+      },
+      "artists": [
+        {
+          "name": "Jokrates",
+          "url": "https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198955,
+      "name": "I MADE IT",
+      "url": "https://open.spotify.com/track/7himCW3eabGPJ17qGSgb1X"
     },
     {
       "album": {
@@ -1173,6 +1267,24 @@
     },
     {
       "album": {
+        "name": "Kaleidoskooppi",
+        "url": "https://open.spotify.com/album/7czhckhj2OPYBvBs4GBhtJ"
+      },
+      "artists": [
+        {
+          "name": "Eevil St\u00f6\u00f6",
+          "url": "https://open.spotify.com/artist/0hD2uZfgcwrRRMcPYQ45pf"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162076,
+      "name": "Kaleidoskooppi",
+      "url": "https://open.spotify.com/track/4LTEHndiV89M1KEsjwl8uL"
+    },
+    {
+      "album": {
         "name": "KAPUT",
         "url": "https://open.spotify.com/album/0WTovyAkYlrsH7ul78gdA4"
       },
@@ -1224,7 +1336,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 143345,
       "name": "Kasvanu t\u00e4\u00e4l",
       "url": "https://open.spotify.com/track/663rcZNdSoM2aGJgQ49mNQ"
@@ -1242,7 +1354,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 173661,
       "name": "Keltainen sateenvarjo",
       "url": "https://open.spotify.com/track/47CDpVheVOOOdu6Yk7Nmu2"
@@ -1340,7 +1452,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 175672,
       "name": "Kirja",
       "url": "https://open.spotify.com/track/1Xyf1W46hLxG2ccHO4Y3wR"
@@ -1767,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "Liikkuu Juttuu",
+        "url": "https://open.spotify.com/album/3PwvlZoFtHVCnFYTikVl36"
+      },
+      "artists": [
+        {
+          "name": "Jere",
+          "url": "https://open.spotify.com/artist/3Oxf4EUF3hcY3qpqd5W04o"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Liikkuu Juttuu",
+      "url": "https://open.spotify.com/track/7sQkF23GZt3EJYJflV8xVO"
+    },
+    {
+      "album": {
         "name": "Lotos",
         "url": "https://open.spotify.com/album/47fJOAh4neM35NuB79ZJK1"
       },
@@ -1843,6 +1973,28 @@
     },
     {
       "album": {
+        "name": "Maalainen",
+        "url": "https://open.spotify.com/album/7GemBwf8DwYWne3AbV6RjJ"
+      },
+      "artists": [
+        {
+          "name": "Pyrythekid",
+          "url": "https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW"
+        },
+        {
+          "name": "Axel Kala",
+          "url": "https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178657,
+      "name": "Maalainen",
+      "url": "https://open.spotify.com/track/1vVDwcw3Qo9lL3RpIBrwqS"
+    },
+    {
+      "album": {
         "name": "Mahdoton rakastaa",
         "url": "https://open.spotify.com/album/0p4XcUu5jkvugffCsiyvAs"
       },
@@ -1854,7 +2006,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 149389,
       "name": "Mahdoton rakastaa",
       "url": "https://open.spotify.com/track/7FB5KRkl40pwZL9tNyCRH0"
@@ -1916,6 +2068,28 @@
       "duration_ms": 191000,
       "name": "Marraskuu",
       "url": "https://open.spotify.com/track/6LmE87Pw29ZoHM4wge8YTf"
+    },
+    {
+      "album": {
+        "name": "Massii vaan (feat. Nikke Ankara)",
+        "url": "https://open.spotify.com/album/5UbRXspX6uFcp0zIZ2xnRq"
+      },
+      "artists": [
+        {
+          "name": "Leo Luthando",
+          "url": "https://open.spotify.com/artist/5XJUyK4GPxQx9744MvnFy6"
+        },
+        {
+          "name": "Nikke Ankara",
+          "url": "https://open.spotify.com/artist/2E5rkwWAKphgpurncaoAyn"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215421,
+      "name": "Massii vaan (feat. Nikke Ankara)",
+      "url": "https://open.spotify.com/track/5ZOa6UrIaRvuDWIjinDShQ"
     },
     {
       "album": {
@@ -2050,7 +2224,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 114350,
       "name": "Missaat Mut",
       "url": "https://open.spotify.com/track/4I7nd2tef4qV15OAczVuJb"
@@ -2280,7 +2454,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 185357,
       "name": "Oikee mies",
       "url": "https://open.spotify.com/track/1D7EPvrBZpKfa8ff0nOVtn"
@@ -2334,7 +2508,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 231137,
       "name": "Oispa Gasellit",
       "url": "https://open.spotify.com/track/6KWqTgvnmd5LHVJ0Zq1aWE"
@@ -2413,6 +2587,24 @@
     },
     {
       "album": {
+        "name": "Parempaa",
+        "url": "https://open.spotify.com/album/5QZB7QFNnw9p8o3O1Uai6t"
+      },
+      "artists": [
+        {
+          "name": "Tupla W",
+          "url": "https://open.spotify.com/artist/7F78b8yOU6hCoJTYARgIEq"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Parempaa",
+      "url": "https://open.spotify.com/track/58T8f59Q4RGzHJWVpN9Ws7"
+    },
+    {
+      "album": {
         "name": "Passi ja hammasharja",
         "url": "https://open.spotify.com/album/3TCsvowE4AMTAat7IHPIXG"
       },
@@ -2442,7 +2634,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 131611,
       "name": "Pelkk\u00e4\u00e4 <3",
       "url": "https://open.spotify.com/track/5sQX0pAZ79MQioFTKL4zrS"
@@ -2738,6 +2930,28 @@
       "duration_ms": 210911,
       "name": "Ruotsinlaiva",
       "url": "https://open.spotify.com/track/1TJZBnGcTwM89FoOBxuM87"
+    },
+    {
+      "album": {
+        "name": "R\u00f6ge x OFF THE BOOTH (S2)",
+        "url": "https://open.spotify.com/album/4hKXC2FD2HvIMFawUiET5E"
+      },
+      "artists": [
+        {
+          "name": "OFF THE BOOTH",
+          "url": "https://open.spotify.com/artist/6lneXpoKhbBtujfCjkMD6g"
+        },
+        {
+          "name": "R\u00f6ge",
+          "url": "https://open.spotify.com/artist/7lqNZs4MdiiHmnO08Nlkp5"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337153,
+      "name": "R\u00f6ge x OFF THE BOOTH (S2)",
+      "url": "https://open.spotify.com/track/02b2htAMHfnmUZqITvrvf3"
     },
     {
       "album": {
@@ -3052,6 +3266,24 @@
       "duration_ms": 220640,
       "name": "Sw\u00e4ngin\u00b4 kakskyt\u00e4",
       "url": "https://open.spotify.com/track/1IWbqye7ogIfyIoB7XcpbJ"
+    },
+    {
+      "album": {
+        "name": "Syssy (Part 2)",
+        "url": "https://open.spotify.com/album/3zhD7LFgclpwZGJDfLINoc"
+      },
+      "artists": [
+        {
+          "name": "EL'o",
+          "url": "https://open.spotify.com/artist/0Cqk8ixu2235ou4QsVpxnC"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173478,
+      "name": "Syssy (Part 2)",
+      "url": "https://open.spotify.com/track/4UTh2hqijx9svHwAcN1O46"
     },
     {
       "album": {

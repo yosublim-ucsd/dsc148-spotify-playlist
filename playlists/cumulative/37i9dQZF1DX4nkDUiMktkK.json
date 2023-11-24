@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Call Me When You're Lonely",
+        "url": "https://open.spotify.com/album/18W2EsJg8RAEsFeOxkKEOu"
+      },
+      "artists": [
+        {
+          "name": "Eli Mich",
+          "url": "https://open.spotify.com/artist/1HYEbZ42CBI8MsAa2TdDnj"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191422,
+      "name": "Call Me When You're Lonely",
+      "url": "https://open.spotify.com/track/4s7qAt7SbGCY7zUsEHvzJr"
+    },
+    {
+      "album": {
         "name": "Cherry",
         "url": "https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5"
       },
@@ -793,6 +811,28 @@
     },
     {
       "album": {
+        "name": "first time - OTR Remix",
+        "url": "https://open.spotify.com/album/5b7vqarpGmJL9TBKv0rZJy"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "OTR",
+          "url": "https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197647,
+      "name": "first time - OTR Remix",
+      "url": "https://open.spotify.com/track/3J9yZngntlcWtUQHkmxgfF"
+    },
+    {
+      "album": {
         "name": "Flicker",
         "url": "https://open.spotify.com/album/2FEono1vla7gHmopKAAmjC"
       },
@@ -848,6 +888,28 @@
       "duration_ms": 277200,
       "name": "Fly Away XTC",
       "url": "https://open.spotify.com/track/5G4sUncALYICBJzxsRBrhn"
+    },
+    {
+      "album": {
+        "name": "For The People (Remixes)",
+        "url": "https://open.spotify.com/album/1hj2l98lizD8Q8ishVW7dA"
+      },
+      "artists": [
+        {
+          "name": "Kink",
+          "url": "https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb"
+        },
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250371,
+      "name": "For The People - Nikki Nair Remix",
+      "url": "https://open.spotify.com/track/1MeJJLeYgHPGVuW5P5KhfX"
     },
     {
       "album": {
@@ -1466,6 +1528,28 @@
       "duration_ms": 415536,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/698KnJq3rEVcqU0HuULKXJ"
+    },
+    {
+      "album": {
+        "name": "Last Time (feat. EVALINA)",
+        "url": "https://open.spotify.com/album/4B2oAJbm46T1XOnHqzLSY4"
+      },
+      "artists": [
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        },
+        {
+          "name": "EVALINA",
+          "url": "https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185053,
+      "name": "Last Time (feat. EVALINA)",
+      "url": "https://open.spotify.com/track/17T4FxhvOsK908WhWhk2Fn"
     },
     {
       "album": {

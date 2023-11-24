@@ -2405,6 +2405,28 @@
     },
     {
       "album": {
+        "name": "Empty Lake (feat. Clara Mann)",
+        "url": "https://open.spotify.com/album/7mSgfi9tU0a61heEkhyRJi"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        },
+        {
+          "name": "Clara Mann",
+          "url": "https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196725,
+      "name": "Empty Lake (feat. Clara Mann)",
+      "url": "https://open.spotify.com/track/7xmsz7uSxf88gQ1aLtsmqi"
+    },
+    {
+      "album": {
         "name": "empty shell",
         "url": "https://open.spotify.com/album/7MBRu55DHBJOwB8uEsOMjL"
       },
@@ -9690,7 +9712,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 235647,
       "name": "Where Life Comes from and Returns",
       "url": "https://open.spotify.com/track/0fmDTWvkBIjbrRde18ISAS"

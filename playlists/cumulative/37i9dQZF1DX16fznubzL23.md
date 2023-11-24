@@ -4,7 +4,7 @@
 
 > For the pain, tears and heartbreak.
 
-145 songs - 7 hr 55 min
+146 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Love and Trust](https://open.spotify.com/track/2Vt3LIt6PTK8f0LeKt0DnQ) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Love & Trust](https://open.spotify.com/album/1R0lN0IUKzFO6eLUlzDFSJ) | 2:45 | 2023-06-09 |  |
 | [Makoma](https://open.spotify.com/track/7eNjCnXceIhUpOSeVd3Yt5) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [R2Bees, Vol\. 2](https://open.spotify.com/album/1lAl19ypJvU4DLwV8xMEYf) | 4:12 | 2022-02-11 | 2022-07-08 |
 | [Medusa \(feat\. Khaid\)](https://open.spotify.com/track/0iPj4DkNgyDLExLdgQrq9V) | [Layzee Ella](https://open.spotify.com/artist/5pvPu7OzfK3aKQaqKaEP4u), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Medusa \(feat\. Khaid\)](https://open.spotify.com/album/6KE6wjvSKD5EFoVI0jlff5) | 3:04 | 2022-07-22 |  |
-| [Memories](https://open.spotify.com/track/49qUbL1HRDTufCmYWzi37E) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Memories](https://open.spotify.com/album/3nVigkuaDxPHnKTivOc74j) | 2:26 | 2023-02-16 |  |
+| [Memories](https://open.spotify.com/track/49qUbL1HRDTufCmYWzi37E) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Memories](https://open.spotify.com/album/3nVigkuaDxPHnKTivOc74j) | 2:26 | 2023-02-16 | 2023-11-24 |
 | [MIA](https://open.spotify.com/track/1IebTlyuQbihNgzyBHl4ps) | [Phaemous](https://open.spotify.com/artist/24teR3vPUTk7Le0KjxpSwQ), [DJames](https://open.spotify.com/artist/5okIIcFP9Tm05dnmf3qWij) | [Boundaries](https://open.spotify.com/album/2fwP0nclEMCLZaYBI6rfYs) | 2:30 | 2023-07-28 | 2023-08-18 |
 | [Mine \(feat\. Boslen\)](https://open.spotify.com/track/5HvaoqWuK3TkkqOx9U94zv) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Mine \(feat\. Boslen\)](https://open.spotify.com/album/3fHEWdTydZmzMfOyfhSSll) | 3:10 | 2023-03-02 | 2023-06-03 |
 | [Miss U Die](https://open.spotify.com/track/4iGPZPPVnqgMBwKd3wsCYo) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Game Over](https://open.spotify.com/album/4uChaQnoWbwiXeQzbflMJK) | 4:44 | 2022-02-11 | 2022-07-24 |
@@ -153,5 +153,6 @@
 | [Wicked Somebody](https://open.spotify.com/track/7C4B2HESrQL1qXYouNs3qh) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Imperfect](https://open.spotify.com/album/3hqB59kl4O50ywV4jbqggt) | 3:33 | 2022-02-11 | 2022-08-19 |
 | [Yesterday](https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:23 | 2022-02-11 | 2022-09-20 |
 | [Yoruba Demon](https://open.spotify.com/track/24XUKCOaMqHJbVm350wGDD) | [Di'Ja](https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd) | [Yoruba Demon](https://open.spotify.com/album/4hJAQ68RUNCu6pb3mrWYc0) | 2:13 | 2022-09-19 | 2023-02-11 |
+| [You Live On](https://open.spotify.com/track/5qez4U03yulzkie5u20lJf) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [You Live On](https://open.spotify.com/album/1HQ7HQbfGxsVDMX2PoOQ8a) | 3:46 | 2023-11-24 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

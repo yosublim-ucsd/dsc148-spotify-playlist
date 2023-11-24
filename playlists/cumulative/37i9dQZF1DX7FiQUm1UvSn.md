@@ -4,7 +4,7 @@
 
 > The best soundtrack to relax and stretch your body before or after training!
 
-126 songs - 6 hr 43 min
+128 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Blue Moon](https://open.spotify.com/track/2RwTeL5zb473lvRys6xtbZ) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [Blue Moon](https://open.spotify.com/album/0luROvxmUzlDy7VwFRAw6D) | 2:04 | 2023-01-13 | 2023-06-09 |
 | [Boat](https://open.spotify.com/track/5J2CG1KDabRXqoV1KJP1np) | [Kelsey Hodge](https://open.spotify.com/artist/2zUiqmTRqR78NYrM2QuNLE) | [Boat](https://open.spotify.com/album/37hzBgpWfxo0tieKhIs4l2) | 3:12 | 2023-06-08 |  |
 | [Body like backroad](https://open.spotify.com/track/4ftzIVYZ1lhBiQO3vuUfq0) | [Samuel Pine](https://open.spotify.com/artist/59FqDnWsY5WbBqDR5YE2nv) | [Body like backroad](https://open.spotify.com/album/2Bg7RrVYb7rjo314fI5vkO) | 2:48 | 2023-01-13 | 2023-10-27 |
-| [Breathe Me](https://open.spotify.com/track/14K7loEFfkISXmaIMeVTqL) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Breathe Me](https://open.spotify.com/album/3LKfvH0575rEfTQbhR0At8) | 3:14 | 2023-03-10 |  |
+| [Breathe Me](https://open.spotify.com/track/14K7loEFfkISXmaIMeVTqL) | [Nicole Morenno](https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T) | [Breathe Me](https://open.spotify.com/album/3LKfvH0575rEfTQbhR0At8) | 3:14 | 2023-03-10 | 2023-11-24 |
 | [Burn](https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Burn](https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy) | 3:26 | 2023-01-13 |  |
 | [By Your Side](https://open.spotify.com/track/6rOVa2IctGd0B4mdP66Ym5) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [By Your Side](https://open.spotify.com/album/2P9MkaULMEtRZi8BWUpNZ1) | 3:48 | 2023-03-10 |  |
 | [California](https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [California](https://open.spotify.com/album/2EaRR124i84vMnjDK12XoI) | 2:47 | 2023-01-13 | 2023-05-12 |
@@ -43,6 +43,7 @@
 | [Cool](https://open.spotify.com/track/0B6Gf49UuiyYiKM3cCdfzW) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Cool](https://open.spotify.com/album/3Y5mbHm9zcwmAmhKlORakx) | 4:03 | 2023-05-12 |  |
 | [Crazy in Love](https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud) | [Rio Bossa Trio](https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu) | [Crazy in Love](https://open.spotify.com/album/70qfNX4OLt1X1C8t40YxRd) | 3:38 | 2023-01-13 |  |
 | [Dance Monkey](https://open.spotify.com/track/4zYkSXrfgJyrNkNv3mTiIZ) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Dance Monkey](https://open.spotify.com/album/21n1KOLGCVWVnqsaaOWqTT) | 3:17 | 2023-01-13 | 2023-05-12 |
+| [Diamonds](https://open.spotify.com/track/0uXKksgFQS0qgjpEKv82wA) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Diamonds](https://open.spotify.com/album/5LFXHU0Ed4S71AN5baidDF) | 3:26 | 2023-11-24 |  |
 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/7cMg25mIUyWRpyiFDTdiPi) | [Brassfield](https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0) | [Don't You \(Forget About Me\)](https://open.spotify.com/album/2GGSKP9yuyZRAsygbY8prb) | 2:55 | 2023-09-08 |  |
 | [drivers license](https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [drivers license](https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB) | 4:06 | 2023-01-13 |  |
 | [Dynamite](https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV) | [Treadlights](https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK) | [Dynamite](https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU) | 2:31 | 2023-01-13 |  |
@@ -94,7 +95,7 @@
 | [Love Or Something Like It](https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Love Or Something Like It](https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz) | 2:52 | 2023-01-13 |  |
 | [Love Song](https://open.spotify.com/track/3fGDYm9IW5OhqmJ7juHDM4) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Love Song](https://open.spotify.com/album/3D2orXAe3EPWBBB1hK0AHn) | 3:31 | 2023-03-10 |  |
 | [Love Yourself](https://open.spotify.com/track/2HItfrnmtuzBy4jR7MVPiz) | [The Lidls](https://open.spotify.com/artist/6f14pLfPtDV6pJ6F9CAFwE) | [Covers EP](https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q) | 2:33 | 2023-01-13 |  |
-| [Milkshake \(Acoustic\)](https://open.spotify.com/track/7GBJgWf0GLs4RgSlqsSSf3) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [Milkshake \(Acoustic\)](https://open.spotify.com/album/5eCExezuvtFapdTybgDB8H) | 2:28 | 2023-05-12 |  |
+| [Milkshake \(Acoustic\)](https://open.spotify.com/track/7GBJgWf0GLs4RgSlqsSSf3) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [Milkshake \(Acoustic\)](https://open.spotify.com/album/5eCExezuvtFapdTybgDB8H) | 2:28 | 2023-05-12 | 2023-11-24 |
 | [Mood \- Acoustic](https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Mood \(Acoustic\)](https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc) | 2:55 | 2023-01-13 |  |
 | [New Rules](https://open.spotify.com/track/2xugNZzWFJVQB54PS5XnG2) | [Becca Adams](https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb) | [New Rules](https://open.spotify.com/album/6jBrihWQmJCl81kuNQS3pE) | 3:47 | 2023-01-13 |  |
 | [Ocean Eyes](https://open.spotify.com/track/1xzOCZA9ZR2bK0aq5mJj8N) | [Jameson David](https://open.spotify.com/artist/66pRpCCxdVALakZpifVDwq) | [Ocean Eyes](https://open.spotify.com/album/4wbKBzvjGYMMlJIdzBW7Wb) | 2:58 | 2023-01-13 | 2023-09-08 |
@@ -123,6 +124,7 @@
 | [Torn](https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Torn](https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6) | 3:43 | 2023-01-13 |  |
 | [u are my sunshine](https://open.spotify.com/track/69aQlycGbzRbcY2gPTSQsh) | [creamy](https://open.spotify.com/artist/2uSVRVjYZ0PlJPdFHnBETu), [untrusted](https://open.spotify.com/artist/31mtcsgS3CJW5dEPlG83E7), [11:11 Music Group](https://open.spotify.com/artist/2MDj296KJIfgWDNBtHzeFi) | [u are my sunshine](https://open.spotify.com/album/4xIKwtgVoRggtMXiv9ySOu) | 2:05 | 2023-01-13 | 2023-03-10 |
 | [Until I Found You](https://open.spotify.com/track/4HwUDalB30KzSQVbSbr4je) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [Until I Found You](https://open.spotify.com/album/7F9CzPe6XFDYIEzh8KVtpc) | 3:17 | 2023-01-13 |  |
+| [Waterfalls](https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf) | [Tobey Rosen](https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN) | [Waterfalls](https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz) | 2:50 | 2023-11-24 |  |
 | [Watermelon Sugar](https://open.spotify.com/track/5t5Mq5BKOcVSafKUqAvRb0) | [Taylor Daniels](https://open.spotify.com/artist/63joms1yNW673ldeID2y2Q) | [Watermelon Sugar](https://open.spotify.com/album/6CdEvYg17lPpkQcie18ina) | 3:31 | 2023-01-13 | 2023-05-12 |
 | [We Can't Stop \- Acoustic](https://open.spotify.com/track/2nYRexPm8vndayCOHgbovU) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [We Can't Stop \(Acoustic\)](https://open.spotify.com/album/1KfszzDrkQINyxI5oUgCxk) | 2:58 | 2023-01-13 |  |
 | [We Found Love](https://open.spotify.com/track/7ggLvZ7Ot5bfayAva458kA) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3), [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5) | [We Found Love](https://open.spotify.com/album/5RoKyeuJi66yRI4qjIXbpO) | 2:53 | 2023-01-13 |  |

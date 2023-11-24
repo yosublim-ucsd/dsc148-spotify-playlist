@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : Enchant\u00e9e Julia",
+  "description": "Quand R&B francophone rime avec douceur \ud83c\udf6f. Photo : Yam\u00ea",
   "name": "le miel",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 229339,
       "name": "An\u00e9mone",
       "url": "https://open.spotify.com/track/67sUBaW1oE1xD19STSAXgE"
@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "3x5",
+        "url": "https://open.spotify.com/album/2DlmOBqh9CEFA1dfAh9I2U"
+      },
+      "artists": [
+        {
+          "name": "LYNN",
+          "url": "https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142668,
+      "name": "Est-ce que c'est par l\u00e0 qu'on pleure?",
+      "url": "https://open.spotify.com/track/446noPVjJUgf4s9h43mbgE"
+    },
+    {
+      "album": {
         "name": "Fallait pas",
         "url": "https://open.spotify.com/album/42zBmpDY703Nm7x9EPWb15"
       },
@@ -488,6 +506,24 @@
       "duration_ms": 202720,
       "name": "GOLDEN WAY!",
       "url": "https://open.spotify.com/track/6ZCoczOfIDZdtnYOhAZ1CL"
+    },
+    {
+      "album": {
+        "name": "HOLD-UP",
+        "url": "https://open.spotify.com/album/7LW1aet43rMDNm9E96Jotx"
+      },
+      "artists": [
+        {
+          "name": "Jadana\u00eb",
+          "url": "https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153488,
+      "name": "HOLD-UP",
+      "url": "https://open.spotify.com/track/2Kgoo8Ft3XBBKbuS0qI7cH"
     },
     {
       "album": {
@@ -1219,6 +1255,24 @@
     },
     {
       "album": {
+        "name": "Trop parfait",
+        "url": "https://open.spotify.com/album/2urrKhxLyCvLgCcw2n8qta"
+      },
+      "artists": [
+        {
+          "name": "Margane",
+          "url": "https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186750,
+      "name": "Trop parfait",
+      "url": "https://open.spotify.com/track/2c45x4aZmQRPUmRgB0UD6I"
+    },
+    {
+      "album": {
         "name": "Tu m'aimes",
         "url": "https://open.spotify.com/album/2PpHuRVgWli4YFpDObnmNc"
       },
@@ -1230,7 +1284,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 155000,
       "name": "Tu m'aimes",
       "url": "https://open.spotify.com/track/1tUDGMd4dsqF8cFE3Z7UQq"

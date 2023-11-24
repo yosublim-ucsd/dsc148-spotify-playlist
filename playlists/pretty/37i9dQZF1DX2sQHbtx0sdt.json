@@ -1,12 +1,12 @@
 {
   "description": "New and trending hip-hop from around the world. Cover: Sfera Ebbasta",
-  "num_followers": 22647,
+  "num_followers": 22783,
   "original_name": "Global Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTIwZjdlMGYyOGE3NDlmODhmYjBmYWMzYzdjZGVlMGY3NGI0OWNi",
+  "snapshot_id": "MCwwNGJlMjEyZmJlNjI5MzI0YjAzMWZjZjM4MTNkNzI2ZTFiM2ExMDRh",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -18,6 +18,10 @@
         {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         }
       ],
       "duration_ms": 186666,

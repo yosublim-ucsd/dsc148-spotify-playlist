@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Novedades para reventar la bocina en este \#NoviembreFestivalero con Kevin Roldán, Dani Flow, El Boooo y Uzielito Mix..\. ¡Mátalos papi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,347 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,513 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Nostalgia en Ruta](https://open.spotify.com/track/28T16XoS5KsQSLrRPuwSH5) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Nostalgia en Ruta](https://open.spotify.com/album/4nFhPJ9oLs4RBZSB7RXz5P) | 1:55 |
 | 50 | [Starstruck](https://open.spotify.com/track/6xfghae1MOkdMCf3xDCcxP) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Jordan Brown](https://open.spotify.com/artist/4bp25HfiPZW8JLc4DUEhP6) | [Forever Never Cares](https://open.spotify.com/album/7pearr4dOjSf9cNDe5lHeL) | 3:47 |
 
-Snapshot ID: `MCxjZjg4YzcyMjM1MjI3NmFmYjE2NjljMzE5ZmU2Y2E5ZGMzN2UzZTQ1`
+Snapshot ID: `MCwyYjE5MDY3ZTg3NDFmNmUxMTM5MDNhZDgzNDVkM2E1ZTY4MDE1YzI3`

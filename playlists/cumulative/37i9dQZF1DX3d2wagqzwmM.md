@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Hardwell & Afrojack
 
-374 songs - 19 hr 59 min
+375 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [After Midnight](https://open.spotify.com/track/6Xs3cEaNJQIkUKvOmPaDs4) | [Michael Parker](https://open.spotify.com/artist/4Pt8SOQa9s8qftzbBPPC76) | [After Midnight](https://open.spotify.com/album/4DTZ8cBptl7NzqHrH7wVfU) | 2:20 | 2023-11-16 |  |
 | [AIR](https://open.spotify.com/track/7LCsrG7NKsd1gb7dVT2qxk) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [AIR](https://open.spotify.com/album/3tYIMhkgftIuiTtdKpnySC) | 2:25 | 2022-04-14 | 2022-07-12 |
 | [Alive Again](https://open.spotify.com/track/2P7Vn6uJ9hRKTJVYMmjppN) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Alive Again](https://open.spotify.com/album/3jsZSRV7pLrjFCD8FObfok) | 3:32 | 2022-04-14 | 2022-11-28 |
-| [Alone](https://open.spotify.com/track/7vSx1uzjLF2elseUEFDDgu) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Alone](https://open.spotify.com/album/3z7h4c33zeC577R9EWwksj) | 4:11 | 2023-05-16 |  |
+| [Alone](https://open.spotify.com/track/7vSx1uzjLF2elseUEFDDgu) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Alone](https://open.spotify.com/album/3z7h4c33zeC577R9EWwksj) | 4:11 | 2023-05-16 | 2023-11-24 |
 | [Andromeda](https://open.spotify.com/track/7i3uPLPnfPvssc3gvzIKdQ) | [R3SPAWN](https://open.spotify.com/artist/2Pfp9mATiuKRzCMLhfs3tB), [Sammy Boyle](https://open.spotify.com/artist/5D59iWwWhVFmQqqVdfKkU6) | [Andromeda](https://open.spotify.com/album/6upKHQtrjGQpI6c8LN33G6) | 3:06 | 2022-04-21 | 2022-07-12 |
 | [Andromeda](https://open.spotify.com/track/4cXtPGaAVwKygE3vVdYfbT) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58) | [Andromeda](https://open.spotify.com/album/0qUyM1v4xv2u5jW6lL9tmc) | 2:52 | 2023-11-16 |  |
 | [Annihilate](https://open.spotify.com/track/5eAhXdQwzlFwHkZhiJ1KHg) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Annihilate](https://open.spotify.com/album/3ehQrArEPmGNSPiHKO2bsk) | 2:45 | 2022-09-22 | 2023-09-15 |
@@ -338,6 +338,7 @@
 | [The Captain](https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus) | [HIJCKD](https://open.spotify.com/artist/4oFuOElyTlMdZMXMQBSdVq) | [The Captain](https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j) | 3:12 | 2022-12-27 | 2023-01-03 |
 | [The Chant](https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Accepted Concept](https://open.spotify.com/album/5026e5pinYOgls5mjv1duU) | 2:51 | 2023-10-05 |  |
 | [The Chase](https://open.spotify.com/track/00JoqMc5KZFLpdrtymo6f0) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [The Chase](https://open.spotify.com/album/2oR0zKDQpFKxWJjyHqrDpq) | 3:14 | 2022-07-28 | 2022-09-02 |
+| [The Darkness](https://open.spotify.com/track/4tR8fRaxfqK8cbBTGUW4CV) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [The Darkness](https://open.spotify.com/album/1XWG1uWWEu4ojBEPSNakYK) | 3:01 | 2023-11-23 |  |
 | [The Drop \- 3 Are Legend Remix](https://open.spotify.com/track/3Uq7Z88E8NA3FvmXVpP9l6) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP), [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [The Drop \(3 Are Legend Remix\)](https://open.spotify.com/album/4Lvrh1m5G721VkX2LsShNh) | 3:06 | 2022-12-22 | 2023-02-03 |
 | [The Feeling \- 2022 Remaster](https://open.spotify.com/track/4ZhVRSxT1JP0SWp4VF0EL9) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [In My System EP](https://open.spotify.com/album/1ameR5VQ6NncBeudL8K78R) | 6:08 | 2022-10-11 | 2023-10-06 |
 | [The Launch](https://open.spotify.com/track/7peqYrbdxhtRCg8rDp3gok) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [The Launch](https://open.spotify.com/album/7cZbQpz7BIkXMAMUnGWl8P) | 4:27 | 2022-04-14 | 2022-07-29 |

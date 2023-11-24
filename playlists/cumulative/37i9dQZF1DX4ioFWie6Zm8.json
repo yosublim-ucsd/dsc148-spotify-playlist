@@ -792,7 +792,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 273840,
       "name": "Ibaasi",
       "url": "https://open.spotify.com/track/4FFAIsIjrbkA8W7lP64v2y"
@@ -1657,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "Mmuan Daan",
+        "url": "https://open.spotify.com/album/7pqLfnPiVJGRWFvDXJwTYL"
+      },
+      "artists": [
+        {
+          "name": "Muanda",
+          "url": "https://open.spotify.com/artist/7FY23WzyHwLPLK7VSHb7gV"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217889,
+      "name": "Mmuan Daan",
+      "url": "https://open.spotify.com/track/3s5i68yM2uOrvWXxQ5BVHE"
+    },
+    {
+      "album": {
         "name": "Acoustic",
         "url": "https://open.spotify.com/album/3WPGTvO0ryY6LRMhrR6pZE"
       },
@@ -1878,6 +1896,24 @@
       "duration_ms": 252706,
       "name": "Pierrette",
       "url": "https://open.spotify.com/track/46P37n60PWSbtWS4CS7jEC"
+    },
+    {
+      "album": {
+        "name": "Pieteron",
+        "url": "https://open.spotify.com/album/2e1ZMyWJzNs7AYyswMeOsG"
+      },
+      "artists": [
+        {
+          "name": "Fulu Miziki",
+          "url": "https://open.spotify.com/artist/5YpOlimBuGWDamh62kx4cu"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Pieteron",
+      "url": "https://open.spotify.com/track/2hT7SV5QUhbO0p8T1dkHS6"
     },
     {
       "album": {
@@ -2316,7 +2352,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 381666,
       "name": "Sutu Kun",
       "url": "https://open.spotify.com/track/2apsDSuPwQ4OklRmplb6gV"

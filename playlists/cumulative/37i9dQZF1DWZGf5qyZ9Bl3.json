@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 149244,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/5us6nhibrqe4bMTPTEOtHs"
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 109646,
       "name": "Slow Too Slow",
       "url": "https://open.spotify.com/track/4rxkuhtG4udC2ROwptnKGe"
@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 135705,
       "name": "Stir",
       "url": "https://open.spotify.com/track/5dCziBpQVzbNavB3xhRV5a"
@@ -1600,6 +1600,24 @@
       "duration_ms": 159939,
       "name": "The Comeback Kid!",
       "url": "https://open.spotify.com/track/6fO3hA8EZ9xlMkuJWFLX2E"
+    },
+    {
+      "album": {
+        "name": "Thinking Of You",
+        "url": "https://open.spotify.com/album/49M4f8YLFk6hwcvZCL9NxV"
+      },
+      "artists": [
+        {
+          "name": "asanatobi",
+          "url": "https://open.spotify.com/artist/6LeJY3URhc2QOx8vPAB2Ou"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Thinking Of You",
+      "url": "https://open.spotify.com/track/5lTR1HXtYNiOYkZUGJfW4T"
     },
     {
       "album": {
@@ -1914,6 +1932,28 @@
       "duration_ms": 135937,
       "name": "Your Own Path",
       "url": "https://open.spotify.com/track/245r1ee2yxH711FCg5WhSf"
+    },
+    {
+      "album": {
+        "name": "Yuna",
+        "url": "https://open.spotify.com/album/0XrFcg4EQXssbvgGDtwCQZ"
+      },
+      "artists": [
+        {
+          "name": "Kanisan",
+          "url": "https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO"
+        },
+        {
+          "name": "lost echoes",
+          "url": "https://open.spotify.com/artist/4qEfsqgimyar3YYKEUQpWN"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123480,
+      "name": "Yuna",
+      "url": "https://open.spotify.com/track/0myPNIeqjElCgxGy1NrnJO"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZGf5qyZ9Bl3"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa?si=so_TwbG9RECNNXRdvByJtQ\">Spirit of Praise</a>\n",
+  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=jFt0P-mPQlCUwBwBAk1rRQ\">Sneziey</a>\n",
   "name": "Sunday Praise",
   "tracks": [
     {
@@ -723,6 +723,24 @@
     },
     {
       "album": {
+        "name": "IMTHANDAZO YAMI",
+        "url": "https://open.spotify.com/album/2UEZeMkxZuHTmsL2umqtQY"
+      },
+      "artists": [
+        {
+          "name": "Lungelo Hlongwane",
+          "url": "https://open.spotify.com/artist/5tV1nKSYdBNGEBBAODXqrv"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316666,
+      "name": "IMTHANDAZO YAMI",
+      "url": "https://open.spotify.com/track/2PTqfW2JIhX1Rw4VykTbg4"
+    },
+    {
+      "album": {
         "name": "The Grace Encounter, Vol. 2",
         "url": "https://open.spotify.com/album/57ynLVUliNS3GClLff3g9b"
       },
@@ -940,6 +958,24 @@
       "duration_ms": 419053,
       "name": "Jesu Ufik'ekuseni (feat. Thinah Zungu) [Live]",
       "url": "https://open.spotify.com/track/0Md6sFVsOn5rUMrUoX922l"
+    },
+    {
+      "album": {
+        "name": "Jesu Uyi Nkosi",
+        "url": "https://open.spotify.com/album/1zRntt8ENA6kRNG3T2pZqY"
+      },
+      "artists": [
+        {
+          "name": "Reginald Jabu",
+          "url": "https://open.spotify.com/artist/7JH7vnM5DFedm2lcpddAj4"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279937,
+      "name": "Jesu Uyi Nkosi",
+      "url": "https://open.spotify.com/track/0AcxpSjr50ixt53BrWvyLb"
     },
     {
       "album": {
@@ -1216,6 +1252,24 @@
       "duration_ms": 618158,
       "name": "Konyana ya Modimo - Live",
       "url": "https://open.spotify.com/track/3k7yZ0KzbklXi4FwFkjPkW"
+    },
+    {
+      "album": {
+        "name": "Kulungile Baba",
+        "url": "https://open.spotify.com/album/7iZJDcW68iks6zXB6x14Mb"
+      },
+      "artists": [
+        {
+          "name": "S'fiso Ncwane",
+          "url": "https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284853,
+      "name": "Kulungile Baba",
+      "url": "https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i"
     },
     {
       "album": {
@@ -1514,6 +1568,24 @@
       "duration_ms": 646407,
       "name": "Nang'Mthokozisi (Live)",
       "url": "https://open.spotify.com/track/6LMbTgPem4BpEhVQ4nMUNU"
+    },
+    {
+      "album": {
+        "name": "Nanti Izwi Elomemo",
+        "url": "https://open.spotify.com/album/3gCtfFA7XmqrmYR2dd5lAo"
+      },
+      "artists": [
+        {
+          "name": "Mpumelelo Dumisa",
+          "url": "https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 660166,
+      "name": "Nanti Izwi Elomemo",
+      "url": "https://open.spotify.com/track/5ZTaobTZjvlOQwgDtBqSjB"
     },
     {
       "album": {
@@ -2368,6 +2440,24 @@
       "duration_ms": 166478,
       "name": "Thina Simzwile Ubatshazwayo",
       "url": "https://open.spotify.com/track/3j24qyc0nqldEpUbvx5LEU"
+    },
+    {
+      "album": {
+        "name": "Sibonga Umusa (Live)",
+        "url": "https://open.spotify.com/album/0yq9apfBkBDmT9I74n0ABX"
+      },
+      "artists": [
+        {
+          "name": "Sneziey",
+          "url": "https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 589875,
+      "name": "Thixo Wamadinga Ethu (Live)",
+      "url": "https://open.spotify.com/track/5Y0EPmCymKYHOCJD2B04gi"
     },
     {
       "album": {

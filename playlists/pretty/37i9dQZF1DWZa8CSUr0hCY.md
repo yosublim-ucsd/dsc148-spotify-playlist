@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 
 > Laissez\-vous porter par la playlist lo\-fi
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,556 likes - 113 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,583 likes - 113 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZa8CSUr0hCY.md) - [plain]
 | 112 | [Meadow](https://open.spotify.com/track/456sBaOMMyVzIexMVyd1UP) | [Oskar Hahn](https://open.spotify.com/artist/5D47BWKQT56z8xey53ZxmL), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Meadow](https://open.spotify.com/album/0XWPqJT49KK33sv9QiN4Q4) | 2:35 |
 | 113 | [Kodama Hour](https://open.spotify.com/track/4KA3tl17zoh2mpRSmvXCZL) | [azula](https://open.spotify.com/artist/1ExCrobB2mqThavegHEHeS), [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN), [INKY!](https://open.spotify.com/artist/4jlY0hmEPAg8KTa4KVe4R4) | [Spirits](https://open.spotify.com/album/1NZNlyf6Pgr1LbdyUwBVZ9) | 2:00 |
 
-Snapshot ID: `MCwzNTM0MzNiOTkwMmYxMTdkMzBmOTBiMmJhNDk1OGU4NDk3OTk0ZmI0`
+Snapshot ID: `MCwxYjYwY2E0NmRjYzRmYmIzYjE4YzAwMGUyOWQzZWY3NzVjNDYxNGE5`

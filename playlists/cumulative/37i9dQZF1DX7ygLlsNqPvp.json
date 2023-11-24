@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The most intense local drill music firing up the continent. Cover:  <a href=\"https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M?si=BNTOQCPGRsq2weIB86uouA\"> Kojo Cue</a>  ",
+  "description": "The most intense local drill music firing up the continent. Cover:  <a href=\"https://open.spotify.com/artist/05wqlCGQReohsxStVBR052?si=7P7nx9OfTmOxHU1QC3j4IQ\"> Pappy Kojo</a>  ",
   "name": "Asakaa",
   "tracks": [
     {
@@ -1943,6 +1943,28 @@
     },
     {
       "album": {
+        "name": "No Luck",
+        "url": "https://open.spotify.com/album/38JcKfrL4JsWbUIDoafZCN"
+      },
+      "artists": [
+        {
+          "name": "Kwvdwo Pvnch",
+          "url": "https://open.spotify.com/artist/0u9prTI7XmKYiRSR0KcjH9"
+        },
+        {
+          "name": "Emman",
+          "url": "https://open.spotify.com/artist/7nQHvaBA7AKisVxkLQS34d"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140125,
+      "name": "No Luck",
+      "url": "https://open.spotify.com/track/2RVzvB89Lst4inD4pUcnKJ"
+    },
+    {
+      "album": {
         "name": "No Time",
         "url": "https://open.spotify.com/album/0rtdViHV14ahmFiLkbLdce"
       },
@@ -2726,6 +2748,32 @@
       "duration_ms": 158093,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/1mobKOhEY1vmPH7LW6BnPm"
+    },
+    {
+      "album": {
+        "name": "Ka Na Wu",
+        "url": "https://open.spotify.com/album/4WjFmcus19qITkG4kvNWj4"
+      },
+      "artists": [
+        {
+          "name": "Pappy Kojo",
+          "url": "https://open.spotify.com/artist/05wqlCGQReohsxStVBR052"
+        },
+        {
+          "name": "Reggie",
+          "url": "https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1"
+        },
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Tell 'Em To Shut Up (feat. Reggie & Skyface Sdw)",
+      "url": "https://open.spotify.com/track/0yVzC9Bvpi9BhgpP5Nb9dK"
     },
     {
       "album": {

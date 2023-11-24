@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Budah, Lourena
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,062 likes - 74 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,087 likes - 74 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 44 | [FOME](https://open.spotify.com/track/1tH8mey9VPQl2fIQCXWNb9) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z), [FP do Trem Bala](https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR) | [FOME](https://open.spotify.com/album/7xuIwJhjqGszdjDiSSVHn2) | 2:49 |
 | 45 | [Conexão](https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Luan LDS](https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J) | [Conexão](https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i) | 2:23 |
 | 46 | [Um Pouco Mais](https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb) | [João Zoli](https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Um Pouco Mais](https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga) | 3:02 |
-| 47 | [O Agora](https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU) | [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dj Codi](https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv) | [O Agora](https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC) | 3:14 |
-| 48 | [Por Isso Me Liga](https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Por Isso Me Liga](https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh) | 3:39 |
+| 47 | [Por Isso Me Liga](https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Por Isso Me Liga](https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh) | 3:39 |
+| 48 | [O Agora](https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU) | [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dj Codi](https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv) | [O Agora](https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC) | 3:14 |
 | 49 | [Toda Malévola](https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK) | [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [Toda Malévola](https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD) | 3:16 |
 | 50 | [não dá certo](https://open.spotify.com/track/0utqWsykxgSFqI1ODE9UqN) | [SEST](https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [brandu](https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0) | [não dá certo](https://open.spotify.com/album/1Nv4ok4KXKZ2loY0J3jqeq) | 2:39 |
 | 51 | [Sunshine](https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1) | [LK](https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS) | [Sunshine](https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh) | 2:54 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 73 | [Tudo bem](https://open.spotify.com/track/6hEzYlDMj0Fqfq7dMQql1v) | [Fabriccio](https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih) | [Tudo bem](https://open.spotify.com/album/6wp7vBZbqGKdFyJc7iaY98) | 2:37 |
 | 74 | [Versão brasileira](https://open.spotify.com/track/3s9B8mXerJ5rHOqqF9CJTO) | [MC Mari](https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Versão brasileira](https://open.spotify.com/album/0rEujh1Q6qWT21IqisREYo) | 2:35 |
 
-Snapshot ID: `MCw4NTZjMzliYjVkZDhjNWZlZmJlYjA0NTgzMDljYzk2ZDdmY2JmMWU3`
+Snapshot ID: `MCxmMGYwZTQ2NGU4NDgxMzNmOTQ5MTQ1NTQ0MmUzNzNhNzQ5YmVhMGM3`

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ana Mena",
-  "num_followers": 990333,
+  "num_followers": 990405,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjFhZjgwY2VkYmU5NTQ3YzllOGEzMDM4MTNkYWI1NmI4YWMzNmMy",
+  "snapshot_id": "MCwxM2VlZWQyNmQwODU2ZjVlNjljODg1OTNiZTQ4YWRhNWY5NzQzZjRi",
   "tracks": [
     {
       "added_at": "2023-11-21 17:09:53",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-11-21 17:09:53",
       "album": {
+        "name": "BONITA",
+        "url": "https://open.spotify.com/album/1ufDxUWa07eVx4iakS8DVO"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 169842,
+      "name": "BONITA",
+      "url": "https://open.spotify.com/track/6pLYGP1FGsfhUFb3s9X1mz"
+    },
+    {
+      "added_at": "2023-11-21 17:09:53",
+      "album": {
         "name": "Santorini",
         "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
       },
@@ -339,38 +355,18 @@
     {
       "added_at": "2023-11-21 17:09:53",
       "album": {
-        "name": "BONITA",
-        "url": "https://open.spotify.com/album/1ufDxUWa07eVx4iakS8DVO"
+        "name": "LOS MUCHACHOS",
+        "url": "https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 169842,
-      "name": "BONITA",
-      "url": "https://open.spotify.com/track/6pLYGP1FGsfhUFb3s9X1mz"
-    },
-    {
-      "added_at": "2023-11-21 17:09:53",
-      "album": {
-        "name": "XQ Sigues Pasando :(",
-        "url": "https://open.spotify.com/album/5yupynAvNgH8LwQomVJEzz"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "XQ Sigues Pasando :(",
-      "url": "https://open.spotify.com/track/60WnyQpJMxndoCwfo3TbuE"
+      "duration_ms": 199591,
+      "name": "SINCERAMENTE",
+      "url": "https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88"
     },
     {
       "added_at": "2023-11-21 17:09:53",
@@ -391,18 +387,22 @@
     {
       "added_at": "2023-11-21 17:09:53",
       "album": {
-        "name": "LOS MUCHACHOS",
-        "url": "https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa"
+        "name": "XQ Sigues Pasando :(",
+        "url": "https://open.spotify.com/album/5yupynAvNgH8LwQomVJEzz"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 199591,
-      "name": "SINCERAMENTE",
-      "url": "https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88"
+      "duration_ms": 214800,
+      "name": "XQ Sigues Pasando :(",
+      "url": "https://open.spotify.com/track/60WnyQpJMxndoCwfo3TbuE"
     },
     {
       "added_at": "2023-11-21 17:09:53",
@@ -459,6 +459,26 @@
     {
       "added_at": "2023-11-21 17:09:53",
       "album": {
+        "name": "tequiero",
+        "url": "https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN"
+      },
+      "artists": [
+        {
+          "name": "Vicco",
+          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
+        },
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 185958,
+      "name": "tequiero",
+      "url": "https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK"
+    },
+    {
+      "added_at": "2023-11-21 17:09:53",
+      "album": {
         "name": "Hablando En Plata",
         "url": "https://open.spotify.com/album/0fqseXlgVCLiM6B2vkr1eW"
       },
@@ -479,22 +499,18 @@
     {
       "added_at": "2023-11-21 17:09:53",
       "album": {
-        "name": "tequiero",
-        "url": "https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN"
+        "name": "\u00c1NGEL",
+        "url": "https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N"
       },
       "artists": [
         {
-          "name": "Vicco",
-          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
-        },
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
         }
       ],
-      "duration_ms": 185958,
-      "name": "tequiero",
-      "url": "https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK"
+      "duration_ms": 187240,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
     },
     {
       "added_at": "2023-11-21 17:09:53",
@@ -535,22 +551,6 @@
       "duration_ms": 200294,
       "name": "SUPERH\u00c9ROES",
       "url": "https://open.spotify.com/track/3qMpbW78QlPZM2bEdtD1YD"
-    },
-    {
-      "added_at": "2023-11-21 17:09:53",
-      "album": {
-        "name": "\u00c1NGEL",
-        "url": "https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        }
-      ],
-      "duration_ms": 187240,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
     },
     {
       "added_at": "2023-11-21 17:09:53",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-11-21 17:09:53",
       "album": {
-        "name": "El Olor De Tu Pelo",
-        "url": "https://open.spotify.com/album/72hkK8DcshHwWV8gJREaF1"
-      },
-      "artists": [
-        {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
-        }
-      ],
-      "duration_ms": 163448,
-      "name": "El Olor De Tu Pelo",
-      "url": "https://open.spotify.com/track/0XKYeF1y231Lr16dcZDYlK"
-    },
-    {
-      "added_at": "2023-11-21 17:09:53",
-      "album": {
         "name": "RED FLAGS",
         "url": "https://open.spotify.com/album/3xmrtrlaAAjBX7kVcAMB8G"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 190243,
       "name": "RED FLAGS",
       "url": "https://open.spotify.com/track/4ihlB1pDXbQEtaDoMfyaYs"
+    },
+    {
+      "added_at": "2023-11-21 17:09:53",
+      "album": {
+        "name": "El Olor De Tu Pelo",
+        "url": "https://open.spotify.com/album/72hkK8DcshHwWV8gJREaF1"
+      },
+      "artists": [
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        }
+      ],
+      "duration_ms": 163448,
+      "name": "El Olor De Tu Pelo",
+      "url": "https://open.spotify.com/track/0XKYeF1y231Lr16dcZDYlK"
     },
     {
       "added_at": "2023-11-21 17:09:53",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-11-21 17:09:53",
       "album": {
-        "name": "Derecho a No Declarar",
-        "url": "https://open.spotify.com/album/6NapsEjZhrlNNN1txZrR2B"
-      },
-      "artists": [
-        {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
-        }
-      ],
-      "duration_ms": 146763,
-      "name": "Derecho a No Declarar",
-      "url": "https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey"
-    },
-    {
-      "added_at": "2023-11-21 17:09:53",
-      "album": {
         "name": "Estoy aqu\u00ed (feat. La Pegatina)",
         "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 176747,
       "name": "Estoy aqu\u00ed (feat. La Pegatina)",
       "url": "https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz"
+    },
+    {
+      "added_at": "2023-11-21 17:09:53",
+      "album": {
+        "name": "Derecho a No Declarar",
+        "url": "https://open.spotify.com/album/6NapsEjZhrlNNN1txZrR2B"
+      },
+      "artists": [
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        }
+      ],
+      "duration_ms": 146763,
+      "name": "Derecho a No Declarar",
+      "url": "https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey"
     },
     {
       "added_at": "2023-11-21 17:09:53",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-11-21 17:09:53",
       "album": {
+        "name": "Palabra Prohibida",
+        "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 176881,
+      "name": "Palabra Prohibida",
+      "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
+    },
+    {
+      "added_at": "2023-11-21 17:09:53",
+      "album": {
         "name": "En el mismo bar",
         "url": "https://open.spotify.com/album/5mK99XckqcPxkOJDt25MPF"
       },
@@ -915,34 +931,18 @@
     {
       "added_at": "2023-11-21 17:09:53",
       "album": {
-        "name": "Palabra Prohibida",
-        "url": "https://open.spotify.com/album/0SL3CXA1AkeE9i8mlaCCRZ"
+        "name": "PALANTE",
+        "url": "https://open.spotify.com/album/1XiLA8WVP7MMDvDCHJ9uKj"
       },
       "artists": [
         {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+          "name": "Funzo & Baby Loud",
+          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
         }
       ],
-      "duration_ms": 176881,
-      "name": "Palabra Prohibida",
-      "url": "https://open.spotify.com/track/4sRulaggpSTT3mLCZsaJ5v"
-    },
-    {
-      "added_at": "2023-11-21 17:09:53",
-      "album": {
-        "name": "Que se caiga el cielo",
-        "url": "https://open.spotify.com/album/3OS2rIj6cyb2K34ATaVh2t"
-      },
-      "artists": [
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
-        }
-      ],
-      "duration_ms": 227628,
-      "name": "Que se caiga el cielo",
-      "url": "https://open.spotify.com/track/5hpOWFyKa1hvE5DnCoGV2A"
+      "duration_ms": 146264,
+      "name": "PALANTE",
+      "url": "https://open.spotify.com/track/28cN5fxRkyri38B7vYA6rp"
     },
     {
       "added_at": "2023-11-21 17:09:53",
@@ -959,6 +959,38 @@
       "duration_ms": 184792,
       "name": "TE TRAJE FLORES",
       "url": "https://open.spotify.com/track/4SRojgjWd8Vqc40sicAEC8"
+    },
+    {
+      "added_at": "2023-11-21 17:09:53",
+      "album": {
+        "name": "Lugar Para\u00edso",
+        "url": "https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 201206,
+      "name": "MI BANDERA",
+      "url": "https://open.spotify.com/track/60ZaHUyLn4CMUNSFUo1cdr"
+    },
+    {
+      "added_at": "2023-11-21 17:09:53",
+      "album": {
+        "name": "Que se caiga el cielo",
+        "url": "https://open.spotify.com/album/3OS2rIj6cyb2K34ATaVh2t"
+      },
+      "artists": [
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+        }
+      ],
+      "duration_ms": 227628,
+      "name": "Que se caiga el cielo",
+      "url": "https://open.spotify.com/track/5hpOWFyKa1hvE5DnCoGV2A"
     },
     {
       "added_at": "2023-11-21 17:09:53",
@@ -983,38 +1015,6 @@
       "duration_ms": 204492,
       "name": "Frenes\u00ed",
       "url": "https://open.spotify.com/track/3XTmOwWk9zGehWbMzvOnex"
-    },
-    {
-      "added_at": "2023-11-21 17:09:53",
-      "album": {
-        "name": "Lugar Para\u00edso",
-        "url": "https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        }
-      ],
-      "duration_ms": 201206,
-      "name": "MI BANDERA",
-      "url": "https://open.spotify.com/track/60ZaHUyLn4CMUNSFUo1cdr"
-    },
-    {
-      "added_at": "2023-11-21 17:09:53",
-      "album": {
-        "name": "PALANTE",
-        "url": "https://open.spotify.com/album/1XiLA8WVP7MMDvDCHJ9uKj"
-      },
-      "artists": [
-        {
-          "name": "Funzo & Baby Loud",
-          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
-        }
-      ],
-      "duration_ms": 146264,
-      "name": "PALANTE",
-      "url": "https://open.spotify.com/track/28cN5fxRkyri38B7vYA6rp"
     },
     {
       "added_at": "2023-11-21 17:09:53",

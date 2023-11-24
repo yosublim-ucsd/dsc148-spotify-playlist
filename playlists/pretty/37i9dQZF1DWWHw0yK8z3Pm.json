@@ -1,12 +1,12 @@
 {
   "description": "Fearless sounds at the crossroads of Country and Folk. Cover: Dylan Gossett",
-  "num_followers": 56936,
+  "num_followers": 57018,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWMyNDI0YWEzMjRiNGIyNjI3MzViZDFkZWNlMjI2MTZlMzEyNzAx",
+  "snapshot_id": "MCw2NDI1Mzg5NzViOWY2YTc4MjE2MDc0NTZhM2JiZDBhMGI2MjJlZjU2",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -111,18 +111,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Atlanta Millionaires Club",
-        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
+        "name": "Please Don't Go",
+        "url": "https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru"
       },
       "artists": [
         {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
         }
       ],
-      "duration_ms": 202653,
-      "name": "Kingston",
-      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
+      "duration_ms": 181498,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -147,18 +147,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Please Don't Go",
-        "url": "https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru"
+        "name": "Atlanta Millionaires Club",
+        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
       },
       "artists": [
         {
-          "name": "Wyatt Flores",
-          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
         }
       ],
-      "duration_ms": 181498,
-      "name": "Please Don't Go",
-      "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
+      "duration_ms": 202653,
+      "name": "Kingston",
+      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Life Lessons",
+        "url": "https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "duration_ms": 195505,
+      "name": "Life Lessons",
+      "url": "https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Mean Old Sun",
         "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 156178,
       "name": "Road Runner",
       "url": "https://open.spotify.com/track/3hQ51c9dPj9FcSdOHhrfkq"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Life Lessons",
-        "url": "https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Flores",
-          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
-        }
-      ],
-      "duration_ms": 195505,
-      "name": "Life Lessons",
-      "url": "https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -755,6 +755,22 @@
       "duration_ms": 300240,
       "name": "Goodbye Mr. Blue",
       "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Songs For The Canyon",
+        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Bluebird Singing",
+      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -823,22 +839,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Songs For The Canyon",
-        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Bluebird Singing",
-      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Jersey Giant",
         "url": "https://open.spotify.com/album/7HwlzPe0rapJWoSeLp9KDn"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Where My Wild Things Are",
-        "url": "https://open.spotify.com/album/6oWKCBaxJvccxzbe6shr9N"
-      },
-      "artists": [
-        {
-          "name": "Ryan Bingham",
-          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
-        }
-      ],
-      "duration_ms": 237781,
-      "name": "Where My Wild Things Are",
-      "url": "https://open.spotify.com/track/208hyGbFtTa7I7zYzOm13P"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "68",
         "url": "https://open.spotify.com/album/51JORfnib4vdjiXHAouErb"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 208955,
       "name": "68 - Live",
       "url": "https://open.spotify.com/track/1cXJEjvnjVpAIVx5scVLY8"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Where My Wild Things Are",
+        "url": "https://open.spotify.com/album/6oWKCBaxJvccxzbe6shr9N"
+      },
+      "artists": [
+        {
+          "name": "Ryan Bingham",
+          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+        }
+      ],
+      "duration_ms": 237781,
+      "name": "Where My Wild Things Are",
+      "url": "https://open.spotify.com/track/208hyGbFtTa7I7zYzOm13P"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Songs My Friends Wrote",
-        "url": "https://open.spotify.com/album/0Mpxw3Ts3LaQdXp16Ya6MM"
-      },
-      "artists": [
-        {
-          "name": "Corb Lund",
-          "url": "https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og"
-        }
-      ],
-      "duration_ms": 200586,
-      "name": "Highway 87",
-      "url": "https://open.spotify.com/track/5nsv5Oego9Xyud85Pm0UYp"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Among Other Things",
         "url": "https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 288402,
       "name": "Rhododendron",
       "url": "https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Songs My Friends Wrote",
+        "url": "https://open.spotify.com/album/0Mpxw3Ts3LaQdXp16Ya6MM"
+      },
+      "artists": [
+        {
+          "name": "Corb Lund",
+          "url": "https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og"
+        }
+      ],
+      "duration_ms": 200586,
+      "name": "Highway 87",
+      "url": "https://open.spotify.com/track/5nsv5Oego9Xyud85Pm0UYp"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l"
-      },
-      "artists": [
-        {
-          "name": "Jesse Roper",
-          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
-        }
-      ],
-      "duration_ms": 244108,
-      "name": "Two Wolves",
-      "url": "https://open.spotify.com/track/1AbzihR3bhDonO8mNidgEb"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Working On My Tan",
         "url": "https://open.spotify.com/album/0Bao2JWD4FrEx495tuftGc"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 263436,
       "name": "Working On My Tan",
       "url": "https://open.spotify.com/track/1x4SJb7Z9d9SUZokNaCDR2"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l"
+      },
+      "artists": [
+        {
+          "name": "Jesse Roper",
+          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
+        }
+      ],
+      "duration_ms": 244108,
+      "name": "Two Wolves",
+      "url": "https://open.spotify.com/track/1AbzihR3bhDonO8mNidgEb"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/2wIEh2fmEXXcpHoW0MeOpn"
+      },
+      "artists": [
+        {
+          "name": "John Muirhead",
+          "url": "https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0"
+        }
+      ],
+      "duration_ms": 242484,
+      "name": "This Distance",
+      "url": "https://open.spotify.com/track/2BqSw3roc6RFuwoVAw9aud"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Resurrection Day",
         "url": "https://open.spotify.com/album/2hYOs5pJ3WSG1DuKmsh3ZM"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 206168,
       "name": "Encinal Canyon",
       "url": "https://open.spotify.com/track/7l02bzJ5vV8wk67iEpeotE"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/2wIEh2fmEXXcpHoW0MeOpn"
-      },
-      "artists": [
-        {
-          "name": "John Muirhead",
-          "url": "https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0"
-        }
-      ],
-      "duration_ms": 242484,
-      "name": "This Distance",
-      "url": "https://open.spotify.com/track/2BqSw3roc6RFuwoVAw9aud"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Hot Sun",
-        "url": "https://open.spotify.com/album/1cNId27Hm62Df23dz5z7iV"
-      },
-      "artists": [
-        {
-          "name": "Daniel James McFadyen",
-          "url": "https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9"
-        }
-      ],
-      "duration_ms": 181866,
-      "name": "Hot Sun",
-      "url": "https://open.spotify.com/track/08gd2VvSSsJIijiLmW8Xgo"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/0flu8soCpwi7nj3U21kizB"
       },
@@ -1487,22 +1471,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Everywhere I Used to Be",
-        "url": "https://open.spotify.com/album/5nwLpXKbM62DYP0phC6NBV"
-      },
-      "artists": [
-        {
-          "name": "Mariel Buckley",
-          "url": "https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV"
-        }
-      ],
-      "duration_ms": 259790,
-      "name": "Neon Blue",
-      "url": "https://open.spotify.com/track/6iivlt5obvMyejm91rfGgM"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Bequest",
         "url": "https://open.spotify.com/album/6RdTiE9ukZ5h6owKsuGDte"
       },
@@ -1515,6 +1483,38 @@
       "duration_ms": 238473,
       "name": "Bequest",
       "url": "https://open.spotify.com/track/03Hyfti0W36eu4oHZUwrte"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Hot Sun",
+        "url": "https://open.spotify.com/album/1cNId27Hm62Df23dz5z7iV"
+      },
+      "artists": [
+        {
+          "name": "Daniel James McFadyen",
+          "url": "https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9"
+        }
+      ],
+      "duration_ms": 181866,
+      "name": "Hot Sun",
+      "url": "https://open.spotify.com/track/08gd2VvSSsJIijiLmW8Xgo"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Everywhere I Used to Be",
+        "url": "https://open.spotify.com/album/5nwLpXKbM62DYP0phC6NBV"
+      },
+      "artists": [
+        {
+          "name": "Mariel Buckley",
+          "url": "https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV"
+        }
+      ],
+      "duration_ms": 259790,
+      "name": "Neon Blue",
+      "url": "https://open.spotify.com/track/6iivlt5obvMyejm91rfGgM"
     },
     {
       "added_at": "2023-11-17 05:00:00",

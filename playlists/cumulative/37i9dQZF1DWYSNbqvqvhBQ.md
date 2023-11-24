@@ -4,7 +4,7 @@
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: The Indien
 
-316 songs - 18 hr 23 min
+320 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,9 @@
 | [Can't Get Enough](https://open.spotify.com/track/2qx9v2aAKz5AQ2PaXMDdb1) | [Mitch Rivers](https://open.spotify.com/artist/60MGr6u8AF2SYwh7zRBV3K) | [Can't Get Enough](https://open.spotify.com/album/0C4H93VXSWTYU9rRqLhtSg) | 3:51 | 2023-03-30 | 2023-08-25 |
 | [Champagne Apocalypse](https://open.spotify.com/track/7CKlBkG0XPvslx9mKfF1Wj) | [M\. Lucky](https://open.spotify.com/artist/78t0BT9DeKdbggUw16Ghvt) | [Gentlewoman](https://open.spotify.com/album/25J3wD5LwPNKByqKepqYwr) | 3:31 | 2023-02-23 | 2023-06-27 |
 | [Change](https://open.spotify.com/track/6oCkScXYHXf3ErRyYGZfCR) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Change](https://open.spotify.com/album/3il7EoYbXsrqTABgz1IHbV) | 2:53 | 2023-07-14 | 2023-09-22 |
+| [Cool Water \- Single Mix](https://open.spotify.com/track/7Ki9OmvTAsczQSJO1h99WM) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Back to Moon Beach](https://open.spotify.com/album/34ZmHgTZ7OcRCsrTqbHpSQ) | 4:31 | 2023-11-23 |  |
 | [Couldn’t Make It Up](https://open.spotify.com/track/7s59X5LAdm9G2HUV7k62DS) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Couldn't Make It Up](https://open.spotify.com/album/7x4nXw3hbF9h5GORc16WSV) | 3:55 | 2023-05-09 | 2023-09-29 |
+| [Cowboy Gangster Politician](https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Cowboy Gangster Politician](https://open.spotify.com/album/1qdHYrgw9RqJJ6AzBDelnc) | 3:52 | 2023-11-23 |  |
 | [Coyotes](https://open.spotify.com/track/3S0VPSpztymqIswSjQ8Pqm) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [Coyotes](https://open.spotify.com/album/678oZA2MpAcgLyFYKl0Bdy) | 4:56 | 2023-02-23 | 2023-03-03 |
 | [Crazy](https://open.spotify.com/track/1KxO3MDB1mNUm4AHvxeRPF) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Crazy](https://open.spotify.com/album/2IUqvXtUJG23ozaIffSr28) | 3:15 | 2023-08-24 |  |
 | [Curtains](https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:44 | 2023-05-04 | 2023-10-20 |
@@ -224,6 +226,7 @@
 | [Quitter](https://open.spotify.com/track/7ocv79icTTz2R4K398X6wy) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Quitter](https://open.spotify.com/album/5bBwJpH95Uip1jBJORRZDf) | 2:44 | 2023-10-05 |  |
 | [Reliving](https://open.spotify.com/track/4PofaVZAKYv2z3tWBsunnu) | [Calicos](https://open.spotify.com/artist/2uLnbJ7DFXc382YXWyLyNr) | [Reliving](https://open.spotify.com/album/1X7MoOcVPjptu96LYaoKNa) | 3:40 | 2023-07-20 |  |
 | [Rest In Peace](https://open.spotify.com/track/0F634NqZ65Skv8aRDEsyex) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Rest In Peace](https://open.spotify.com/album/65kQ2jcrYIYAMNiE5Zi704) | 2:55 | 2023-08-24 |  |
+| [Rise](https://open.spotify.com/track/5IHTebQWVq7axBYbKcpstz) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Rise](https://open.spotify.com/album/5h38EAp7olx8LgrfGyyxnf) | 3:03 | 2023-11-23 |  |
 | [RUNAWAY](https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [RUNAWAY](https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe) | 2:23 | 2023-05-25 | 2023-11-03 |
 | [Runaway](https://open.spotify.com/track/72RjHoPZPW3LZHgVS4akIy) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 2:42 | 2023-06-29 |  |
 | [Running Backwards Into The Future](https://open.spotify.com/track/6roWUYJAxJW0o5Khr1sU9F) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [blue](https://open.spotify.com/album/26sG7sfbd4Omstr01DGf16) | 3:54 | 2023-03-09 | 2023-06-05 |
@@ -247,6 +250,7 @@
 | [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2023-02-23 | 2023-07-21 |
 | [Spoiler Alert](https://open.spotify.com/track/14p2o2hh7wJuSoosGZsljx) | [Cosmic Crooner](https://open.spotify.com/artist/3dsyPsXzfTDfXC3dUOw3xq) | [Spoiler Alert](https://open.spotify.com/album/1IAHly3YU8Z1i9BOQyJPyA) | 3:46 | 2023-03-02 | 2023-06-27 |
 | [Stay](https://open.spotify.com/track/5w1iTelkA2nBmaqNf8i3cY) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Stay](https://open.spotify.com/album/1WnmijHXFebuls1KB2fVNg) | 3:05 | 2023-11-19 |  |
+| [Stay Or Go](https://open.spotify.com/track/0le00Jf2v8KZRTWzugLhtC) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Pink Shades](https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw) | 3:45 | 2023-11-23 |  |
 | [Stay Where You Are](https://open.spotify.com/track/45TjMpEZBcTD2rpMaJQ8TH) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Stay Where You Are](https://open.spotify.com/album/6yG312KBUfgVXYT3TUWg1H) | 3:25 | 2023-10-12 |  |
 | [Step By Step](https://open.spotify.com/track/4TDGFWcs0ueT9XC56OzHZg) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Step By Step](https://open.spotify.com/album/1LOaA9FH0Sr2DOtj1D68Ui) | 2:45 | 2023-05-25 | 2023-10-28 |
 | [Stick Season](https://open.spotify.com/track/7ibpNcYxrstM16ehN7OwbK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:02 | 2023-10-19 |  |

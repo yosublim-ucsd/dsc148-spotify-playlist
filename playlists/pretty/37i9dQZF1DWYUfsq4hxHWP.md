@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Jake Banfield, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,036 likes - 180 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,084 likes - 180 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 179 | [Lonestar Lonely](https://open.spotify.com/track/0Ot74bX8yoyXSoibhqAlyj) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [Lonestar Lonely](https://open.spotify.com/album/6ccDlVdugIG7zA0AzskxuM) | 3:35 |
 | 180 | [Whiskey & Me](https://open.spotify.com/track/6aIrYA3RLnaER75fmSWBJt) | [Justin Fancy](https://open.spotify.com/artist/3Z2OcC4z5YzBqMMMplywFj) | [Whiskey & Me](https://open.spotify.com/album/4U394NR9rGzbD4OtM6EexK) | 2:52 |
 
-Snapshot ID: `MCxmZGMwN2IxM2Y5NGE4MWE4NzliYjRjODU2MzI3MjVkZGU2OTk0MDA1`
+Snapshot ID: `MCxiOGNmYWRkMDFmYTVjZjhmNzA1NGJiODA1NjIxOTEzN2MxYmE0N2U2`

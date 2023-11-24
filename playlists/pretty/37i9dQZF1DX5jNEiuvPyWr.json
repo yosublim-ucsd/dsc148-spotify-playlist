@@ -1,15 +1,31 @@
 {
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : So La Lune",
-  "num_followers": 351607,
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : joysad",
+  "num_followers": 351626,
   "original_name": "Cloud Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzlkMzBiZDBiOWI3ODU5NjBiNTFjYmI3M2QxNzEwMWY1MDdhNmNm",
+  "snapshot_id": "MCw2YWRiM2EwOGEwOTFlODdlZjkwN2ExNDhjZWRiNmMzZGE5YzcyNDAz",
   "tracks": [
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "Heureusement",
+        "url": "https://open.spotify.com/album/6uMOpdBVbFjlRt7Q3u1JyB"
+      },
+      "artists": [
+        {
+          "name": "joysad",
+          "url": "https://open.spotify.com/artist/6CZr9MXuLgVw8tcZxrf29Z"
+        }
+      ],
+      "duration_ms": 158793,
+      "name": "Heureusement",
+      "url": "https://open.spotify.com/track/2RVDL4W0aKShVflFxNTkfH"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "Triste temps",
         "url": "https://open.spotify.com/album/4rGYoyAGZJbSOSgJEbU7Mx"
@@ -25,39 +41,23 @@
       "url": "https://open.spotify.com/track/2EjucVZtebnlRYwMIOle3N"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
-        "name": "Origine",
-        "url": "https://open.spotify.com/album/13mJHtPMDhomE59E0FmdWz"
+        "name": "Karma (Extended)",
+        "url": "https://open.spotify.com/album/5Rx2hiXG1JTKJFIhjkitd2"
       },
       "artists": [
         {
-          "name": "Yuston XIII",
-          "url": "https://open.spotify.com/artist/2ac0Lmf5nfZU6sq2t6MJLh"
+          "name": "DTF",
+          "url": "https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM"
         }
       ],
-      "duration_ms": 208336,
-      "name": "L'\u00e2me du phoenix",
-      "url": "https://open.spotify.com/track/4V1lFBt09vY2Jfx8jiVejx"
+      "duration_ms": 193206,
+      "name": "Loin",
+      "url": "https://open.spotify.com/track/2QjuqvJRPxx4Bs6CNFi2Zz"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "IBIZA",
-        "url": "https://open.spotify.com/album/28YB7WeIlMMoeNihpT5msF"
-      },
-      "artists": [
-        {
-          "name": "Lapostroz",
-          "url": "https://open.spotify.com/artist/3Bqyb0gNZGktVUZUlE1OGj"
-        }
-      ],
-      "duration_ms": 152598,
-      "name": "IBIZA",
-      "url": "https://open.spotify.com/track/5AaUQq15J9drf3iKfh2XCn"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/6iou1JJdcUlbvNnUdmXuDR"
@@ -73,39 +73,7 @@
       "url": "https://open.spotify.com/track/6EkySKKzlCoJrcNXE8sfhG"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "Gardien du Labyrinthe",
-        "url": "https://open.spotify.com/album/0qCijZ9tv7v38CxL4tO7zQ"
-      },
-      "artists": [
-        {
-          "name": "Yuzmv",
-          "url": "https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "L'incendie",
-      "url": "https://open.spotify.com/track/0YofBGEEMMQGidD3sQcqvp"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/0K5d2mb8sn9RszeoWxJ0N6"
-      },
-      "artists": [
-        {
-          "name": "Django",
-          "url": "https://open.spotify.com/artist/5gU8eqolA1bziWv6e3Wjp3"
-        }
-      ],
-      "duration_ms": 155990,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/1euiSBqrrv34yTtHIJwTT7"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "Quali",
         "url": "https://open.spotify.com/album/0Lq1A7KSLELxh6vJXHKihF"
@@ -121,7 +89,71 @@
       "url": "https://open.spotify.com/track/1FiWe3fM6toG3XapfJpJBY"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "IBIZA",
+        "url": "https://open.spotify.com/album/28YB7WeIlMMoeNihpT5msF"
+      },
+      "artists": [
+        {
+          "name": "Lapostroz",
+          "url": "https://open.spotify.com/artist/3Bqyb0gNZGktVUZUlE1OGj"
+        }
+      ],
+      "duration_ms": 152598,
+      "name": "IBIZA",
+      "url": "https://open.spotify.com/track/5AaUQq15J9drf3iKfh2XCn"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "Gardien du Labyrinthe",
+        "url": "https://open.spotify.com/album/0qCijZ9tv7v38CxL4tO7zQ"
+      },
+      "artists": [
+        {
+          "name": "Yuzmv",
+          "url": "https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "L'incendie",
+      "url": "https://open.spotify.com/track/0YofBGEEMMQGidD3sQcqvp"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "Origine",
+        "url": "https://open.spotify.com/album/13mJHtPMDhomE59E0FmdWz"
+      },
+      "artists": [
+        {
+          "name": "Yuston XIII",
+          "url": "https://open.spotify.com/artist/2ac0Lmf5nfZU6sq2t6MJLh"
+        }
+      ],
+      "duration_ms": 208336,
+      "name": "L'\u00e2me du phoenix",
+      "url": "https://open.spotify.com/track/4V1lFBt09vY2Jfx8jiVejx"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "SOUS L'AVERSE",
+        "url": "https://open.spotify.com/album/2kQVXn6S6Dk7KOs5UCbjGZ"
+      },
+      "artists": [
+        {
+          "name": "LVZ",
+          "url": "https://open.spotify.com/artist/7B8kPWR00p96IXVH6u4zrf"
+        }
+      ],
+      "duration_ms": 139218,
+      "name": "mayday",
+      "url": "https://open.spotify.com/track/6Ax8LuViU7B5YrJBX8V8oe"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "Si tu savais",
         "url": "https://open.spotify.com/album/2WSYOicKVLU5SDaZ5VnB8K"
@@ -137,7 +169,23 @@
       "url": "https://open.spotify.com/track/3TWnM57OZnvqz6aVWu5l5e"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "ICARE",
+        "url": "https://open.spotify.com/album/0fOl6xbizjCOl1Hl2eCgMM"
+      },
+      "artists": [
+        {
+          "name": "GR OMEGA",
+          "url": "https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "TH\u00c9RAPIE",
+      "url": "https://open.spotify.com/track/410PptAEZCpF56YJBxgDIQ"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "SUN7",
         "url": "https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk"
@@ -153,23 +201,7 @@
       "url": "https://open.spotify.com/track/60ouY0tuiKBPMCP0iZStJS"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "nebula",
-        "url": "https://open.spotify.com/album/4FNFa5X1j7FhS3IRchDgqm"
-      },
-      "artists": [
-        {
-          "name": "Ashh",
-          "url": "https://open.spotify.com/artist/4YUcg2ee9TxMNdjhAxzZBF"
-        }
-      ],
-      "duration_ms": 210256,
-      "name": "nebula",
-      "url": "https://open.spotify.com/track/4dWQt09nlBLh34No9tNA5o"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/6mHX3onyNT2xYveguxhrDm"
@@ -185,55 +217,55 @@
       "url": "https://open.spotify.com/track/0qXimz42wMirNPwbOuXPuN"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
-        "name": "AKANI",
-        "url": "https://open.spotify.com/album/3UL2npniaZarBXBS10qpZl"
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/0K5d2mb8sn9RszeoWxJ0N6"
       },
       "artists": [
         {
-          "name": "Berry",
-          "url": "https://open.spotify.com/artist/2DkgMESM21mm7IoELw2tjQ"
+          "name": "Django",
+          "url": "https://open.spotify.com/artist/5gU8eqolA1bziWv6e3Wjp3"
         }
       ],
-      "duration_ms": 160030,
-      "name": "AKANI",
-      "url": "https://open.spotify.com/track/4u9p90qPMSsEgifmnpEe64"
+      "duration_ms": 155990,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/1euiSBqrrv34yTtHIJwTT7"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
-        "name": "Tant de choses",
-        "url": "https://open.spotify.com/album/6EfLgtRJhhgLDPriPnpbgU"
+        "name": "nebula",
+        "url": "https://open.spotify.com/album/4FNFa5X1j7FhS3IRchDgqm"
       },
       "artists": [
         {
-          "name": "DTF",
-          "url": "https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM"
+          "name": "Ashh",
+          "url": "https://open.spotify.com/artist/4YUcg2ee9TxMNdjhAxzZBF"
         }
       ],
-      "duration_ms": 204477,
-      "name": "Tant de choses",
-      "url": "https://open.spotify.com/track/7ac0WtAVR9UjpSyrDY9yLQ"
+      "duration_ms": 210256,
+      "name": "nebula",
+      "url": "https://open.spotify.com/track/4dWQt09nlBLh34No9tNA5o"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
-        "name": "HABITU\u00c9",
-        "url": "https://open.spotify.com/album/0xlt4h3AX1YRqg1HHtOU01"
+        "name": "Le Nine",
+        "url": "https://open.spotify.com/album/1lKTfCQvEvXINqeg7ViPtr"
       },
       "artists": [
         {
-          "name": "Moha MMZ",
-          "url": "https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T"
+          "name": "ELSO",
+          "url": "https://open.spotify.com/artist/4W1lopkH4sNXzwfiUvST3P"
         }
       ],
-      "duration_ms": 180901,
-      "name": "HABITU\u00c9",
-      "url": "https://open.spotify.com/track/7csw8z3PQlXWpmoX29wSLX"
+      "duration_ms": 200930,
+      "name": "Le Nine",
+      "url": "https://open.spotify.com/track/1hseKv4MJMH3eFsrtumMJg"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "Le jour se l\u00e8ve",
         "url": "https://open.spotify.com/album/76IvkXLqQzw6JrjwOIq2PL"
@@ -253,91 +285,39 @@
       "url": "https://open.spotify.com/track/6qwe1TVcoWQ5oCVMmDKvV8"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
-        "name": "osowhereRu?",
-        "url": "https://open.spotify.com/album/2XFlLaI8vYV8Q1gzPrGgZt"
+        "name": "HABITU\u00c9",
+        "url": "https://open.spotify.com/album/0xlt4h3AX1YRqg1HHtOU01"
       },
       "artists": [
         {
-          "name": "OSO",
-          "url": "https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g"
+          "name": "Moha MMZ",
+          "url": "https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T"
         }
       ],
-      "duration_ms": 133099,
-      "name": "STRESS!",
-      "url": "https://open.spotify.com/track/5PSTc9QCtJicfuMYF9OIIb"
+      "duration_ms": 180901,
+      "name": "HABITU\u00c9",
+      "url": "https://open.spotify.com/track/7csw8z3PQlXWpmoX29wSLX"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
-        "name": "Sacrifices",
-        "url": "https://open.spotify.com/album/5LwI8eCEZ6noEApakqdPLc"
+        "name": "AKANI",
+        "url": "https://open.spotify.com/album/3UL2npniaZarBXBS10qpZl"
       },
       "artists": [
         {
-          "name": "Carbonne",
-          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
-        },
-        {
-          "name": "JEY BROWNIE",
-          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+          "name": "Berry",
+          "url": "https://open.spotify.com/artist/2DkgMESM21mm7IoELw2tjQ"
         }
       ],
-      "duration_ms": 178029,
-      "name": "Sacrifices",
-      "url": "https://open.spotify.com/track/2jjOS9VJFoV23Sn1agjhUA"
+      "duration_ms": 160030,
+      "name": "AKANI",
+      "url": "https://open.spotify.com/track/4u9p90qPMSsEgifmnpEe64"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "Le Nine",
-        "url": "https://open.spotify.com/album/1lKTfCQvEvXINqeg7ViPtr"
-      },
-      "artists": [
-        {
-          "name": "ELSO",
-          "url": "https://open.spotify.com/artist/4W1lopkH4sNXzwfiUvST3P"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "Le Nine",
-      "url": "https://open.spotify.com/track/1hseKv4MJMH3eFsrtumMJg"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "Jour de pluie",
-        "url": "https://open.spotify.com/album/55HrsnQR83ZjEiaSYnXdRO"
-      },
-      "artists": [
-        {
-          "name": "F430",
-          "url": "https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG"
-        }
-      ],
-      "duration_ms": 197727,
-      "name": "Jour de pluie",
-      "url": "https://open.spotify.com/track/7Cuca28lbRnHCWlpgEwxCu"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "NUAGES",
-        "url": "https://open.spotify.com/album/4ycC3Z34tOQLpyjsd8i9bx"
-      },
-      "artists": [
-        {
-          "name": "KLS",
-          "url": "https://open.spotify.com/artist/7vnEuM5aFDKZ0kiWIjMpD4"
-        }
-      ],
-      "duration_ms": 145211,
-      "name": "NUAGES",
-      "url": "https://open.spotify.com/track/2dTgoKc0BQ06TLkt9P5BbI"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "Sale dance",
         "url": "https://open.spotify.com/album/3aqjYHUjVbqSouRJ6y3egI"
@@ -353,7 +333,23 @@
       "url": "https://open.spotify.com/track/341nouXQov88BjpSBa08o3"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "Sale Hiver",
+        "url": "https://open.spotify.com/album/3rqd7xvsd4cZWRGY2u86bq"
+      },
+      "artists": [
+        {
+          "name": "Ludmael",
+          "url": "https://open.spotify.com/artist/0irBYhYF9JwxKG8nB3J9vU"
+        }
+      ],
+      "duration_ms": 152873,
+      "name": "Sale Hiver",
+      "url": "https://open.spotify.com/track/1DDJIzkgnpQdYmuHriicic"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "SAISONS",
         "url": "https://open.spotify.com/album/3LpZHVqSCmVXwEKcXXFpnU"
@@ -369,23 +365,55 @@
       "url": "https://open.spotify.com/track/2aLTTUSwkasORopU97TrfP"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
-        "name": "JAUNE CR\u00c9MEUX",
-        "url": "https://open.spotify.com/album/05B6weLYEjhrIIJwECtOdV"
+        "name": "3motional b!tch",
+        "url": "https://open.spotify.com/album/0NTbynNDrYNbBBvGJSYgHq"
       },
       "artists": [
         {
-          "name": "Laroma",
-          "url": "https://open.spotify.com/artist/7Hv2hIVAkEylgEKAOyF7bw"
+          "name": "Ekloz",
+          "url": "https://open.spotify.com/artist/3FlxOuTKmjE9AV3SfMudyw"
         }
       ],
-      "duration_ms": 208629,
-      "name": "JAUNE CR\u00c9MEUX",
-      "url": "https://open.spotify.com/track/5MZ7AYuPDyjSYRWdSu7N1l"
+      "duration_ms": 120053,
+      "name": "Ice",
+      "url": "https://open.spotify.com/track/54d1LJ3a5xIlB5q3ONJQn3"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "NUAGES",
+        "url": "https://open.spotify.com/album/4ycC3Z34tOQLpyjsd8i9bx"
+      },
+      "artists": [
+        {
+          "name": "KLS",
+          "url": "https://open.spotify.com/artist/7vnEuM5aFDKZ0kiWIjMpD4"
+        }
+      ],
+      "duration_ms": 145211,
+      "name": "NUAGES",
+      "url": "https://open.spotify.com/track/2dTgoKc0BQ06TLkt9P5BbI"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "osowhereRu?",
+        "url": "https://open.spotify.com/album/2XFlLaI8vYV8Q1gzPrGgZt"
+      },
+      "artists": [
+        {
+          "name": "OSO",
+          "url": "https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g"
+        }
+      ],
+      "duration_ms": 133099,
+      "name": "STRESS!",
+      "url": "https://open.spotify.com/track/5PSTc9QCtJicfuMYF9OIIb"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "NUIT ET JOUR",
         "url": "https://open.spotify.com/album/6ooUr10tF4PtDsa9yhP5sy"
@@ -401,7 +429,23 @@
       "url": "https://open.spotify.com/track/400rEn95uXwJ6akAq4jSNY"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "M\u00d6DI",
+        "url": "https://open.spotify.com/album/6oGbaQspWtK4A3cCLC5noJ"
+      },
+      "artists": [
+        {
+          "name": "Sokuu",
+          "url": "https://open.spotify.com/artist/0et1mZYLCSVBIBUY94B8Xn"
+        }
+      ],
+      "duration_ms": 139459,
+      "name": "M\u00d6DI",
+      "url": "https://open.spotify.com/track/3KXmiKG3D0imrkAJfMKv3X"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "HUMAIN",
         "url": "https://open.spotify.com/album/5SBWcUHPeO7suJtkQxEj1b"
@@ -417,7 +461,55 @@
       "url": "https://open.spotify.com/track/4LzP3qhx5v3qo1nMn4Fhu9"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "Jour de pluie",
+        "url": "https://open.spotify.com/album/55HrsnQR83ZjEiaSYnXdRO"
+      },
+      "artists": [
+        {
+          "name": "F430",
+          "url": "https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG"
+        }
+      ],
+      "duration_ms": 197727,
+      "name": "Jour de pluie",
+      "url": "https://open.spotify.com/track/7Cuca28lbRnHCWlpgEwxCu"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "JAUNE CR\u00c9MEUX",
+        "url": "https://open.spotify.com/album/05B6weLYEjhrIIJwECtOdV"
+      },
+      "artists": [
+        {
+          "name": "Laroma",
+          "url": "https://open.spotify.com/artist/7Hv2hIVAkEylgEKAOyF7bw"
+        }
+      ],
+      "duration_ms": 208629,
+      "name": "JAUNE CR\u00c9MEUX",
+      "url": "https://open.spotify.com/track/5MZ7AYuPDyjSYRWdSu7N1l"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "CYNE",
+        "url": "https://open.spotify.com/album/13nrCbkuJantG09mJDcikJ"
+      },
+      "artists": [
+        {
+          "name": "GEAVN",
+          "url": "https://open.spotify.com/artist/1wRjJI80Z1xUT2aFdn7aru"
+        }
+      ],
+      "duration_ms": 187782,
+      "name": "VAGUE",
+      "url": "https://open.spotify.com/track/4zTbR7badAt5Xxj2I8Wo5J"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "SITCOM",
         "url": "https://open.spotify.com/album/1dgFGmX8Pogi4Ol44jDgFY"
@@ -433,39 +525,7 @@
       "url": "https://open.spotify.com/track/5vcpJ2wHyrWCCbhy20FvCL"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "ICE",
-        "url": "https://open.spotify.com/album/2Nfsw4UTBPhXl7iPkqQRlJ"
-      },
-      "artists": [
-        {
-          "name": "Ayvee",
-          "url": "https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae"
-        }
-      ],
-      "duration_ms": 140658,
-      "name": "ICE",
-      "url": "https://open.spotify.com/track/0OiIPkNx4U8iwGflifS1Hi"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "Polaro\u00efd Memories",
-        "url": "https://open.spotify.com/album/7Lw5RVHPthW5yIHpGm5TCI"
-      },
-      "artists": [
-        {
-          "name": "Donguti",
-          "url": "https://open.spotify.com/artist/2PjvxxAh4KVmcfcUluYjcf"
-        }
-      ],
-      "duration_ms": 155759,
-      "name": "Derniers Souvenirs",
-      "url": "https://open.spotify.com/track/1Eghaz2zR4lq3gdLeUPUAy"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "L'Audacieuse",
         "url": "https://open.spotify.com/album/4I5drbQZp5uBSaMkzf6Ma6"
@@ -481,55 +541,7 @@
       "url": "https://open.spotify.com/track/0qoimFw2hfFPt7G9X3dpdg"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "Drapeau Blanc",
-        "url": "https://open.spotify.com/album/1dKUfKOZ0RxPt5lRKdU42X"
-      },
-      "artists": [
-        {
-          "name": "Kahra",
-          "url": "https://open.spotify.com/artist/31mTzsWIoE7mjpIQCzyBVi"
-        }
-      ],
-      "duration_ms": 178434,
-      "name": "Drapeau Blanc",
-      "url": "https://open.spotify.com/track/4Q5hHlFSI6fkidddMx3SfC"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "Vivaldi : V\u00edk",
-        "url": "https://open.spotify.com/album/1e3aP2KfgSCO2IwPDAM2DN"
-      },
-      "artists": [
-        {
-          "name": "Elh Kmer",
-          "url": "https://open.spotify.com/artist/6DTpmzMa0Gz93kRKUo4JfQ"
-        }
-      ],
-      "duration_ms": 244395,
-      "name": "Derni\u00e8re page",
-      "url": "https://open.spotify.com/track/6l3HLmhZkRi80m3ymQA8U5"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "LA VIE EN ROSE",
-        "url": "https://open.spotify.com/album/2GS9ArL2nvGfO7zUyUFtYZ"
-      },
-      "artists": [
-        {
-          "name": "GR OMEGA",
-          "url": "https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "LA VIE EN ROSE",
-      "url": "https://open.spotify.com/track/7A1dN4Vg7qyIdTBBvh04FV"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "Temps d'avant",
         "url": "https://open.spotify.com/album/17SmK3zouR37VS6JLDZWL3"
@@ -549,39 +561,23 @@
       "url": "https://open.spotify.com/track/0zBClWjxSCelFFMBTOAcrN"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
-        "name": "M\u00d6DI",
-        "url": "https://open.spotify.com/album/6oGbaQspWtK4A3cCLC5noJ"
+        "name": "Drapeau Blanc",
+        "url": "https://open.spotify.com/album/1dKUfKOZ0RxPt5lRKdU42X"
       },
       "artists": [
         {
-          "name": "Sokuu",
-          "url": "https://open.spotify.com/artist/0et1mZYLCSVBIBUY94B8Xn"
+          "name": "Kahra",
+          "url": "https://open.spotify.com/artist/31mTzsWIoE7mjpIQCzyBVi"
         }
       ],
-      "duration_ms": 139459,
-      "name": "M\u00d6DI",
-      "url": "https://open.spotify.com/track/3KXmiKG3D0imrkAJfMKv3X"
+      "duration_ms": 178434,
+      "name": "Drapeau Blanc",
+      "url": "https://open.spotify.com/track/4Q5hHlFSI6fkidddMx3SfC"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "semaine",
-        "url": "https://open.spotify.com/album/1ryox3WvXWyAMAr0Ax4lNP"
-      },
-      "artists": [
-        {
-          "name": "Ayvee",
-          "url": "https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae"
-        }
-      ],
-      "duration_ms": 114028,
-      "name": "semaine",
-      "url": "https://open.spotify.com/track/7goMhYijPlWUKJDJLOv1BQ"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "LONELY",
         "url": "https://open.spotify.com/album/4VtuAtLL1GxCVfq24z91Qv"
@@ -597,7 +593,23 @@
       "url": "https://open.spotify.com/track/2SyJqs8ZvjZ6hcKSBi44RQ"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "semaine",
+        "url": "https://open.spotify.com/album/1ryox3WvXWyAMAr0Ax4lNP"
+      },
+      "artists": [
+        {
+          "name": "Ayvee",
+          "url": "https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae"
+        }
+      ],
+      "duration_ms": 114028,
+      "name": "semaine",
+      "url": "https://open.spotify.com/track/7goMhYijPlWUKJDJLOv1BQ"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "HARMONIE",
         "url": "https://open.spotify.com/album/61Y7Va9YVIgzniecyIXVVp"
@@ -613,23 +625,7 @@
       "url": "https://open.spotify.com/track/6nCjnp6Y2XMfwnK8EiT1ee"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "Vide",
-        "url": "https://open.spotify.com/album/5j0mtAW5OGpVv7vO7MfEOF"
-      },
-      "artists": [
-        {
-          "name": "Sicario",
-          "url": "https://open.spotify.com/artist/0ajjnGmVt2aVGD70lDbVl6"
-        }
-      ],
-      "duration_ms": 198010,
-      "name": "Vide",
-      "url": "https://open.spotify.com/track/20jeEnFijJd4tRAtcww0tl"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "MAL",
         "url": "https://open.spotify.com/album/37z6z2yjoIDEDBezztDN3G"
@@ -645,20 +641,20 @@
       "url": "https://open.spotify.com/track/1kaCrC3OD8nZF1MLKik7Td"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
-        "name": "CYNE",
-        "url": "https://open.spotify.com/album/13nrCbkuJantG09mJDcikJ"
+        "name": "Vide",
+        "url": "https://open.spotify.com/album/5j0mtAW5OGpVv7vO7MfEOF"
       },
       "artists": [
         {
-          "name": "GEAVN",
-          "url": "https://open.spotify.com/artist/1wRjJI80Z1xUT2aFdn7aru"
+          "name": "Sicario",
+          "url": "https://open.spotify.com/artist/0ajjnGmVt2aVGD70lDbVl6"
         }
       ],
-      "duration_ms": 187782,
-      "name": "VAGUE",
-      "url": "https://open.spotify.com/track/4zTbR7badAt5Xxj2I8Wo5J"
+      "duration_ms": 198010,
+      "name": "Vide",
+      "url": "https://open.spotify.com/track/20jeEnFijJd4tRAtcww0tl"
     }
   ],
   "unique_name": "Cloud Rap",

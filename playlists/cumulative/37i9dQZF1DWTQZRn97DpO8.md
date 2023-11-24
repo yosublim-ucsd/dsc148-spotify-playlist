@@ -2,15 +2,15 @@
 
 ### [le miel](https://open.spotify.com/playlist/37i9dQZF1DWTQZRn97DpO8)
 
-> Quand R&B francophone rime avec douceur 🍯\. Photo : Enchantée Julia
+> Quand R&B francophone rime avec douceur 🍯\. Photo : Yamê
 
-70 songs - 3 hr 34 min
+73 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0](https://open.spotify.com/track/3K35huutmm1Nb1HxpBMJ7m) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD) | [Interlude](https://open.spotify.com/album/4iPBppJLZG5mfmcZjEcmQ0) | 3:21 | 2023-09-28 |  |
 | [A toi](https://open.spotify.com/track/3B2ijizmagthifN7M7F4Zf) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [A toi](https://open.spotify.com/album/1TaHz0GIQppm4JsyLhobCJ) | 3:19 | 2023-09-28 |  |
-| [Anémone](https://open.spotify.com/track/67sUBaW1oE1xD19STSAXgE) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Galatée](https://open.spotify.com/album/0fYC25oqs9YmPIa3V09feB) | 3:49 | 2023-09-28 |  |
+| [Anémone](https://open.spotify.com/track/67sUBaW1oE1xD19STSAXgE) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Galatée](https://open.spotify.com/album/0fYC25oqs9YmPIa3V09feB) | 3:49 | 2023-09-28 | 2023-11-24 |
 | [AVANT\-GOÛT](https://open.spotify.com/track/3tTfPUZSVYLYl8ntO9cQM0) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [AVANT\-GOÛT](https://open.spotify.com/album/0zR9WyWiuEzRYsuLb949NV) | 3:10 | 2023-09-28 | 2023-11-10 |
 | [Avec Toi](https://open.spotify.com/track/0X2jgXzlIaYfEvBze5h2vC) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Avec Toi](https://open.spotify.com/album/7kk0g6pZsVEQrw0abbqLRR) | 3:00 | 2023-09-28 |  |
 | [Bad Mood](https://open.spotify.com/track/1LpsOvHQ77GmWNgp8mxNyp) | [Kyma](https://open.spotify.com/artist/6wrf5UOcbmUA5P9h76uYit) | [Red Cloud](https://open.spotify.com/album/0hOHi6J9qejpTNaUfRkcSS) | 2:20 | 2023-09-28 | 2023-10-27 |
@@ -31,8 +31,10 @@
 | [E.M.I](https://open.spotify.com/track/5FY2ILoDg2EIvjYJxA25MM) | [Macy Lu](https://open.spotify.com/artist/1wEZ7fUt7Mh3ZB38xrYoVB) | [E.M.I](https://open.spotify.com/album/0Pq1bF9Gi48aSXrsrpp2fu) | 3:53 | 2023-10-26 |  |
 | [ELLE](https://open.spotify.com/track/2tGFMERxBPeRJ0OzQ6BAZv) | [Kÿfy](https://open.spotify.com/artist/4tK6ffV3TyicR0N0WtulqB) | [ELLE](https://open.spotify.com/album/0BtEyJbzrnpWrNWuMeip8z) | 2:57 | 2023-09-28 |  |
 | [Encaisser](https://open.spotify.com/track/2MNwHnoWMtZ8V6RA8jC14I) | [Ceddy](https://open.spotify.com/artist/4JtnoUcq4vX7FfPxrFNlqk), [Nola Cherri](https://open.spotify.com/artist/619I9NuGM8wQklavu1cjRj) | [Encaisser](https://open.spotify.com/album/1npBnDSvKkLjVCdJcdL4X5) | 3:23 | 2023-09-28 | 2023-11-17 |
+| [Est\-ce que c'est par là qu'on pleure?](https://open.spotify.com/track/446noPVjJUgf4s9h43mbgE) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [3x5](https://open.spotify.com/album/2DlmOBqh9CEFA1dfAh9I2U) | 2:22 | 2023-11-23 |  |
 | [Fallait pas](https://open.spotify.com/track/6qZSdA8GC5aojquKNFERI5) | [Awa Lemen](https://open.spotify.com/artist/2Q3dL2MjiG85qgYsQNrxXH) | [Fallait pas](https://open.spotify.com/album/42zBmpDY703Nm7x9EPWb15) | 2:38 | 2023-09-28 |  |
 | [GOLDEN WAY!](https://open.spotify.com/track/6ZCoczOfIDZdtnYOhAZ1CL) | [Kyma](https://open.spotify.com/artist/6wrf5UOcbmUA5P9h76uYit) | [GOLDEN WAY!](https://open.spotify.com/album/6joIZOvnrt7CTmyzUpuwLE) | 3:22 | 2023-10-19 |  |
+| [HOLD\-UP](https://open.spotify.com/track/2Kgoo8Ft3XBBKbuS0qI7cH) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [HOLD\-UP](https://open.spotify.com/album/7LW1aet43rMDNm9E96Jotx) | 2:33 | 2023-11-23 |  |
 | [J'apaise](https://open.spotify.com/track/3aoGepSHtgHJdQJKomIvgz) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E), [Astrønne](https://open.spotify.com/artist/2DOAWdT8xBtf0aLDS5U8yN) | [J'apaise](https://open.spotify.com/album/7sjLPJuWjsVNAGSFAGmA2E) | 3:48 | 2023-09-28 |  |
 | [Je me souviens de tout](https://open.spotify.com/track/45I253r1lTUbsOFwHWVe7K) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:27 | 2023-09-28 |  |
 | [Je t'ai cherché](https://open.spotify.com/track/0oncxtG7oIZK34SWHZNe60) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Je t'ai cherché](https://open.spotify.com/album/6oEvFXLoWYTyBTMJoELPKB) | 3:31 | 2023-11-09 |  |
@@ -71,7 +73,8 @@
 | [Sérénade](https://open.spotify.com/track/11gx5jgG7Pm6Y5R2Ba6RDB) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [Saison 00](https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf) | 2:39 | 2023-09-28 |  |
 | [TOMBER](https://open.spotify.com/track/2dd9zGIh8vPvki0zVaNkaV) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [TOMBER](https://open.spotify.com/album/2ihjIrroACvpyiGkrXiZBN) | 1:51 | 2023-09-28 | 2023-11-10 |
 | [Tout essayé \- Acoustic version](https://open.spotify.com/track/77ZBaOziSr8gYC7r6o1RMh) | [MOORE](https://open.spotify.com/artist/0xCU6JJnQWVFOQd6Zcbtj5) | [Tout essayé \(Acoustic version\)](https://open.spotify.com/album/2u4dt36M3jpHIBh1CiXfk9) | 2:36 | 2023-09-28 | 2023-10-13 |
-| [Tu m'aimes](https://open.spotify.com/track/1tUDGMd4dsqF8cFE3Z7UQq) | [Maheva Ony](https://open.spotify.com/artist/2Qrsf6B7PrwRq27zlCdS49) | [Tu m'aimes](https://open.spotify.com/album/2PpHuRVgWli4YFpDObnmNc) | 2:35 | 2023-09-28 |  |
+| [Trop parfait](https://open.spotify.com/track/2c45x4aZmQRPUmRgB0UD6I) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb) | [Trop parfait](https://open.spotify.com/album/2urrKhxLyCvLgCcw2n8qta) | 3:06 | 2023-11-23 |  |
+| [Tu m'aimes](https://open.spotify.com/track/1tUDGMd4dsqF8cFE3Z7UQq) | [Maheva Ony](https://open.spotify.com/artist/2Qrsf6B7PrwRq27zlCdS49) | [Tu m'aimes](https://open.spotify.com/album/2PpHuRVgWli4YFpDObnmNc) | 2:35 | 2023-09-28 | 2023-11-24 |
 | [Tu mens mal](https://open.spotify.com/track/50NmgRTIoJxkwnGLXhplIG) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Tu mens mal](https://open.spotify.com/album/7xkT6u3xmwFtVoBmaeH8Nh) | 3:46 | 2023-09-28 |  |
 | [Un autre que moi](https://open.spotify.com/track/6mW9sMSGdjjMWLAiiG6uf6) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Blessing](https://open.spotify.com/album/1EqLDQ1zxS2Sz5eCcGIRbJ) | 2:40 | 2023-09-28 |  |
 | [Une erreur](https://open.spotify.com/track/7rT5EgRLRIAMf867fTHnTc) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [BTLV](https://open.spotify.com/album/0RVI6Nf64FsFvG8yZJ7JNR) | 2:41 | 2023-09-28 | 2023-11-10 |

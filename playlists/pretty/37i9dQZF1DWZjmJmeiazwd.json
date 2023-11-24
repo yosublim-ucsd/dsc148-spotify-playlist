@@ -1,12 +1,12 @@
 {
   "description": "Rock out while you game.",
-  "num_followers": 535850,
+  "num_followers": 536214,
   "original_name": "Ultimate Rock Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjlhZDBmOWFiMzI5YTdmMTBjMmNhNWU4ZTczZjdmNWE4YmNiMTk5",
+  "snapshot_id": "MCxiYmNkN2I3Yjg1MDdmZGZhMmE4MDFkYmE5N2EwNDllMzVlOWI5YzY2",
   "tracks": [
     {
       "added_at": "2023-11-17 23:54:34",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-11-17 23:54:34",
       "album": {
+        "name": "Dr. Feelgood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 282653,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy"
+    },
+    {
+      "added_at": "2023-11-17 23:54:34",
+      "album": {
         "name": "What Went Down",
         "url": "https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": "2023-11-17 23:54:34",
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 208693,
-      "name": "The Taste of Ink",
-      "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs"
-    },
-    {
-      "added_at": "2023-11-17 23:54:34",
-      "album": {
         "name": "Cobra (Rock Remix) [feat. Spiritbox]",
         "url": "https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y"
       },
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-11-17 23:54:34",
       "album": {
-        "name": "Look Ma, No Brains!",
-        "url": "https://open.spotify.com/album/2alV6LwgUWGExud9ntcugb"
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 123541,
-      "name": "Look Ma, No Brains!",
-      "url": "https://open.spotify.com/track/0Xs1aDAUmp3W6If2y5JQMK"
+      "duration_ms": 208693,
+      "name": "The Taste of Ink",
+      "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs"
     },
     {
       "added_at": "2023-11-17 23:54:34",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-11-17 23:54:34",
       "album": {
-        "name": "Dr. Feelgood (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
+        "name": "Look Ma, No Brains!",
+        "url": "https://open.spotify.com/album/2alV6LwgUWGExud9ntcugb"
       },
       "artists": [
         {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 282653,
-      "name": "Kickstart My Heart",
-      "url": "https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy"
+      "duration_ms": 123541,
+      "name": "Look Ma, No Brains!",
+      "url": "https://open.spotify.com/track/0Xs1aDAUmp3W6If2y5JQMK"
     },
     {
       "added_at": "2023-11-17 23:54:34",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-11-17 23:54:34",
       "album": {
-        "name": "Left Behind",
-        "url": "https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM"
-      },
-      "artists": [
-        {
-          "name": "The Plot In You",
-          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
-        }
-      ],
-      "duration_ms": 206924,
-      "name": "Left Behind",
-      "url": "https://open.spotify.com/track/5G6jZFDAFlpAA9v5LTV4NI"
-    },
-    {
-      "added_at": "2023-11-17 23:54:34",
-      "album": {
         "name": "N.A.T.I.O.N.",
         "url": "https://open.spotify.com/album/6yMblFoGadj25t99DryfSv"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 237065,
       "name": "Killing Me Slowly",
       "url": "https://open.spotify.com/track/5RBWMYMSe6ihNb0hC8ro8v"
+    },
+    {
+      "added_at": "2023-11-17 23:54:34",
+      "album": {
+        "name": "Left Behind",
+        "url": "https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM"
+      },
+      "artists": [
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
+        }
+      ],
+      "duration_ms": 206924,
+      "name": "Left Behind",
+      "url": "https://open.spotify.com/track/5G6jZFDAFlpAA9v5LTV4NI"
     },
     {
       "added_at": "2023-11-17 23:54:34",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-11-17 23:54:34",
       "album": {
+        "name": "To Better Days",
+        "url": "https://open.spotify.com/album/0R8nkP9bWyoCi6NuetVq5p"
+      },
+      "artists": [
+        {
+          "name": "Rain City Drive",
+          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
+        }
+      ],
+      "duration_ms": 211235,
+      "name": "Talk to a Friend",
+      "url": "https://open.spotify.com/track/6nqCVzh5uUc85E0Kctky9r"
+    },
+    {
+      "added_at": "2023-11-17 23:54:34",
+      "album": {
         "name": "Frogstomp (Deluxe Edition) [Remastered]",
         "url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
       },
@@ -887,18 +903,18 @@
     {
       "added_at": "2023-11-17 23:54:34",
       "album": {
-        "name": "To Better Days",
-        "url": "https://open.spotify.com/album/0R8nkP9bWyoCi6NuetVq5p"
+        "name": "Dear Monsters",
+        "url": "https://open.spotify.com/album/4yXFKYXTfZ92kX1ucyIh1o"
       },
       "artists": [
         {
-          "name": "Rain City Drive",
-          "url": "https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7"
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
         }
       ],
-      "duration_ms": 211235,
-      "name": "Talk to a Friend",
-      "url": "https://open.spotify.com/track/6nqCVzh5uUc85E0Kctky9r"
+      "duration_ms": 188769,
+      "name": "If Tomorrow Never Comes",
+      "url": "https://open.spotify.com/track/0OzYhueF403FBct7orzGEg"
     },
     {
       "added_at": "2023-11-17 23:54:34",
@@ -919,22 +935,6 @@
     {
       "added_at": "2023-11-17 23:54:34",
       "album": {
-        "name": "Dial Tone",
-        "url": "https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV"
-      },
-      "artists": [
-        {
-          "name": "Catch Your Breath",
-          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
-        }
-      ],
-      "duration_ms": 200495,
-      "name": "Dial Tone",
-      "url": "https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I"
-    },
-    {
-      "added_at": "2023-11-17 23:54:34",
-      "album": {
         "name": "Ember",
         "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
       },
@@ -951,18 +951,18 @@
     {
       "added_at": "2023-11-17 23:54:34",
       "album": {
-        "name": "Dear Monsters",
-        "url": "https://open.spotify.com/album/4yXFKYXTfZ92kX1ucyIh1o"
+        "name": "Dial Tone",
+        "url": "https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV"
       },
       "artists": [
         {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+          "name": "Catch Your Breath",
+          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
         }
       ],
-      "duration_ms": 188769,
-      "name": "If Tomorrow Never Comes",
-      "url": "https://open.spotify.com/track/0OzYhueF403FBct7orzGEg"
+      "duration_ms": 200495,
+      "name": "Dial Tone",
+      "url": "https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I"
     },
     {
       "added_at": "2023-11-17 23:54:34",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-11-17 23:54:34",
       "album": {
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 262631,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
+    },
+    {
+      "added_at": "2023-11-17 23:54:34",
+      "album": {
         "name": "Back To The Water Below",
         "url": "https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ"
       },
@@ -1507,18 +1523,18 @@
     {
       "added_at": "2023-11-17 23:54:34",
       "album": {
-        "name": "Jaded",
-        "url": "https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU"
+        "name": "Goodnight, God Bless, I Love U, Delete.",
+        "url": "https://open.spotify.com/album/3omXFuNbc0B6MlCm5Nf5Xn"
       },
       "artists": [
         {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+          "name": "\u271d\u271d\u271d (Crosses)",
+          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
         }
       ],
-      "duration_ms": 262631,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn"
+      "duration_ms": 234134,
+      "name": "Invisible Hand",
+      "url": "https://open.spotify.com/track/4r5bMIasNl5uYBnzf9TYXU"
     },
     {
       "added_at": "2023-11-17 23:54:34",
@@ -1535,22 +1551,6 @@
       "duration_ms": 204359,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/5iaTwwgtEyJ7cy6lLTlGBb"
-    },
-    {
-      "added_at": "2023-11-17 23:54:34",
-      "album": {
-        "name": "Goodnight, God Bless, I Love U, Delete.",
-        "url": "https://open.spotify.com/album/3omXFuNbc0B6MlCm5Nf5Xn"
-      },
-      "artists": [
-        {
-          "name": "\u271d\u271d\u271d (Crosses)",
-          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
-        }
-      ],
-      "duration_ms": 234134,
-      "name": "Invisible Hand",
-      "url": "https://open.spotify.com/track/4r5bMIasNl5uYBnzf9TYXU"
     },
     {
       "added_at": "2023-11-17 23:54:34",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-11-17 23:54:34",
       "album": {
+        "name": "Like A House On Fire",
+        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 216411,
+      "name": "Antisocialist",
+      "url": "https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5"
+    },
+    {
+      "added_at": "2023-11-17 23:54:34",
+      "album": {
         "name": "One Hell of a Team (Inspired by \"Hazbin Hotel\")",
         "url": "https://open.spotify.com/album/4CFzl6z4I2HfIH1gPow3bw"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 230636,
       "name": "One Hell of a Team (Inspired by \"Hazbin Hotel\")",
       "url": "https://open.spotify.com/track/0cRGA4WwyzoOdnOcui7d1e"
-    },
-    {
-      "added_at": "2023-11-17 23:54:34",
-      "album": {
-        "name": "Like A House On Fire",
-        "url": "https://open.spotify.com/album/0adkC2KoD14ep1kjOXwkJA"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 216411,
-      "name": "Antisocialist",
-      "url": "https://open.spotify.com/track/0tB4qNEFxgtmXIOVbJyuz5"
     },
     {
       "added_at": "2023-11-17 23:54:34",

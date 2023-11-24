@@ -512,7 +512,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 217672,
       "name": "All My Life (Stray Kids Remix)",
       "url": "https://open.spotify.com/track/5OHNBi6tsE0acRA9Kt4ybC"
@@ -3544,7 +3544,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 152271,
       "name": "DEEP IN LOVE",
       "url": "https://open.spotify.com/track/6Ht6X2tKYkbWNJ4ytBmsDh"
@@ -9463,6 +9463,24 @@
     },
     {
       "album": {
+        "name": "ONLY ONE",
+        "url": "https://open.spotify.com/album/1gh4MsmIImvxnpiDELpt6S"
+      },
+      "artists": [
+        {
+          "name": "BANG YEDAM",
+          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190640,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/00Ba2PRFeih7voe93Bf5mk"
+    },
+    {
+      "album": {
         "name": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
         "url": "https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c"
       },
@@ -9758,6 +9776,24 @@
       "duration_ms": 159080,
       "name": "Perfect Night",
       "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
+    },
+    {
+      "album": {
+        "name": "Perfect Night (Holiday Remix)",
+        "url": "https://open.spotify.com/album/0YaaIvxu7OH0OxUSnM9WFH"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162336,
+      "name": "Perfect Night (Holiday Remix)",
+      "url": "https://open.spotify.com/track/40CJrEAyXS8qe0BBFbYbJO"
     },
     {
       "album": {

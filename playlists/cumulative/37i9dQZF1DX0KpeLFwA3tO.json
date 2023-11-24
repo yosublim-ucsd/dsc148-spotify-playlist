@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Death Lens",
+  "description": "The best new music from the wide world of punk. Cover: Short Stack",
   "name": "All New Punk",
   "tracks": [
     {
@@ -2877,6 +2877,24 @@
     },
     {
       "album": {
+        "name": "Body Politics",
+        "url": "https://open.spotify.com/album/5nzEAtROpZ10pGBwtp7V5y"
+      },
+      "artists": [
+        {
+          "name": "The Menstrual Cramps",
+          "url": "https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Body Politics",
+      "url": "https://open.spotify.com/track/5R9ZQbKLN4gOPx5xCoPMc8"
+    },
+    {
+      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
       },
@@ -4142,7 +4160,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 150542,
       "name": "Changes",
       "url": "https://open.spotify.com/track/7eoZz7VZAVUhRsAwLh6Jbm"
@@ -5076,7 +5094,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 139574,
       "name": "Crushed",
       "url": "https://open.spotify.com/track/4RR8JjZA5ySJtVkyTjYTT7"
@@ -6052,7 +6070,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 150966,
       "name": "Destruction Sisters",
       "url": "https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q"
@@ -6554,6 +6572,24 @@
       "duration_ms": 174657,
       "name": "DOUBTS (feat. Ryan Oakes)",
       "url": "https://open.spotify.com/track/4Oqkl7HhomsKtZ0uLmN1H7"
+    },
+    {
+      "album": {
+        "name": "Misplaced",
+        "url": "https://open.spotify.com/album/51SpKubhOlSWKslwx5GyUR"
+      },
+      "artists": [
+        {
+          "name": "Dance! No Thanks",
+          "url": "https://open.spotify.com/artist/0885hgEwstYF6vz2qHbSpC"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169454,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/1Wxrs8R59LwjCf66UyWw8B"
     },
     {
       "album": {
@@ -9975,6 +10011,24 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/57hsuGuUiT3XmEQi3VymM7"
+      },
+      "artists": [
+        {
+          "name": "Ocean Sleeper",
+          "url": "https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209166,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5qpL3VKrTeaCxfDwICBRXn"
+    },
+    {
+      "album": {
         "name": "Heavy Steps",
         "url": "https://open.spotify.com/album/0fsLogewsZXku52SwVJF0I"
       },
@@ -10152,7 +10206,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 144053,
       "name": "Herberts On Holiday",
       "url": "https://open.spotify.com/track/2SLS4rCsxzCVPLG6cS0wYe"
@@ -11317,6 +11371,24 @@
     },
     {
       "album": {
+        "name": "I'm A Mess",
+        "url": "https://open.spotify.com/album/71OvVTA988kQ9R2xTfhC7M"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Carwash",
+          "url": "https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146065,
+      "name": "I'm A Mess",
+      "url": "https://open.spotify.com/track/0xP0O0ODyEaBDLOQoexHWp"
+    },
+    {
+      "album": {
         "name": "I'm Bored",
         "url": "https://open.spotify.com/album/31GcwxscE4bqvmVsXHXsM0"
       },
@@ -11458,6 +11530,24 @@
       "duration_ms": 184266,
       "name": "Identical Days",
       "url": "https://open.spotify.com/track/4hrptHq1WUVnUIsZpyt3YE"
+    },
+    {
+      "album": {
+        "name": "IDGAF",
+        "url": "https://open.spotify.com/album/78BenUPiBj9XK93B1PO7pt"
+      },
+      "artists": [
+        {
+          "name": "Short Stack",
+          "url": "https://open.spotify.com/artist/0EdNPfEHC714LHuN0NPIyU"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142750,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/3OcUXeWXI3dStj4EQotJoB"
     },
     {
       "album": {
@@ -11840,7 +11930,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 207808,
       "name": "It Won't Be Like This Forever",
       "url": "https://open.spotify.com/track/748NBl59GV0pfENbadjSxE"
@@ -12666,7 +12756,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 175767,
       "name": "Landmines",
       "url": "https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7"
@@ -13746,7 +13836,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 221239,
       "name": "Losing What We Love",
       "url": "https://open.spotify.com/track/6CrWJF0SI2XfWGMzyXdIZe"
@@ -16196,7 +16286,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 139778,
       "name": "nosebleeder",
       "url": "https://open.spotify.com/track/1k6pYLyLyPgKa045AdrIyA"
@@ -19268,7 +19358,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 158905,
       "name": "Roses In My Backpack",
       "url": "https://open.spotify.com/track/0unmFukTNfCHAXM7jsYREn"
@@ -21550,7 +21640,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 229555,
       "name": "Starchild",
       "url": "https://open.spotify.com/track/1RSxsFkC9ddBBxuJMmrrdH"
@@ -22348,6 +22438,24 @@
       "duration_ms": 100858,
       "name": "Sylvie's A Mess",
       "url": "https://open.spotify.com/track/4KHhb8Yvy03AtfsWMTPalP"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Her\u00f3is",
+        "url": "https://open.spotify.com/album/3pISfNpnWgqZkTACzRy1Us"
+      },
+      "artists": [
+        {
+          "name": "Fonzie",
+          "url": "https://open.spotify.com/artist/1OnZFKOhdw6EW4zO2pjb4o"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231200,
+      "name": "S\u00f3 Her\u00f3is",
+      "url": "https://open.spotify.com/track/0vEKCnpCeOQeVx9C6oVvil"
     },
     {
       "album": {
@@ -23287,6 +23395,24 @@
     },
     {
       "album": {
+        "name": "The Gate",
+        "url": "https://open.spotify.com/album/1fSnoyiKXCg9Oy1iBoWefR"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176303,
+      "name": "The Gate",
+      "url": "https://open.spotify.com/track/7oyTjbCHE46CGwG0nSY4PJ"
+    },
+    {
+      "album": {
         "name": "The Ick",
         "url": "https://open.spotify.com/album/4PzRazseCb13gFDs1uXczT"
       },
@@ -24188,6 +24314,28 @@
       "duration_ms": 216047,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/28b4eZYTTAvWdhRuzwOWNA"
+    },
+    {
+      "album": {
+        "name": "TOO MANY REDS",
+        "url": "https://open.spotify.com/album/4TM25UzSci4yltQjwvFToZ"
+      },
+      "artists": [
+        {
+          "name": "Tasman Keith",
+          "url": "https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1"
+        },
+        {
+          "name": "Will Grilla",
+          "url": "https://open.spotify.com/artist/0pecDUSdX73ZAB7McBqhK2"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187644,
+      "name": "TOO MANY REDS",
+      "url": "https://open.spotify.com/track/2H8xBvBSXC92sjYYaIhxN2"
     },
     {
       "album": {
@@ -25841,6 +25989,24 @@
     },
     {
       "album": {
+        "name": "What I Cannot Be",
+        "url": "https://open.spotify.com/album/66eXO39V24h8mUyeNxgbhx"
+      },
+      "artists": [
+        {
+          "name": "DARKO",
+          "url": "https://open.spotify.com/artist/3A7XJB48UZEoAFhVHWa93v"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112466,
+      "name": "What I Cannot Be",
+      "url": "https://open.spotify.com/track/7GhAFapSn11UO9OQuCBjSn"
+    },
+    {
+      "album": {
         "name": "Split",
         "url": "https://open.spotify.com/album/5FloIP7RrOX1UxjwYHF0eo"
       },
@@ -26004,6 +26170,24 @@
       "duration_ms": 148577,
       "name": "Where My Girls At",
       "url": "https://open.spotify.com/track/6P2P7BRXglUXZXZoXrz6YN"
+    },
+    {
+      "album": {
+        "name": "Where will I go when I Dream?",
+        "url": "https://open.spotify.com/album/5ZoxwgGYU4db0fNzeRuUai"
+      },
+      "artists": [
+        {
+          "name": "TITUS",
+          "url": "https://open.spotify.com/artist/20U0ZkzluaLiHuPaG6eGRd"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194526,
+      "name": "Where will I go when I Dream?",
+      "url": "https://open.spotify.com/track/1Nr3rJj29OdAAplLKEP40s"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "Discover new artists on the horizon this 2023. Cover: Alamat\n\n",
-  "num_followers": 80718,
+  "num_followers": 80744,
   "original_name": "RADAR Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTNmMzkwNjAwY2E4MTI2Y2E0NTdkNmU3NTlkNWRkNWQ4NDVmZTk1",
+  "snapshot_id": "MCxmYmExMmYwMTJiZGNiZDc0MGMwMjEzZjdmYjE5ZDBhNzBkMWYyZWE0",
   "tracks": [
+    {
+      "added_at": "2023-11-23 16:00:00",
+      "album": {
+        "name": "Salvaje Freestyle",
+        "url": "https://open.spotify.com/album/2SfpP4iFulsCAUvNGI3ofg"
+      },
+      "artists": [
+        {
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
+        }
+      ],
+      "duration_ms": 101142,
+      "name": "Salvaje Freestyle",
+      "url": "https://open.spotify.com/track/4OfPBWngzn8ZXb0LemRhdK"
+    },
     {
       "added_at": "2023-11-17 07:39:25",
       "album": {

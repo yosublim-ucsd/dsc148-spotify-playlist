@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Biig Piig",
+  "description": "New music off the beaten track. Cover: Sirens of Lesbos",
   "name": "OFF POP",
   "tracks": [
     {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 191622,
       "name": "A Different Frame",
       "url": "https://open.spotify.com/track/0pk4GJ9REs9fRFlUweWVgs"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 186943,
       "name": "Ambrosia",
       "url": "https://open.spotify.com/track/0t4XPmrCs5f9JWo26yQdPz"
@@ -2949,6 +2949,28 @@
     },
     {
       "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/7lkoHO7IuanGlzELdbvgaZ"
+      },
+      "artists": [
+        {
+          "name": "Sirens Of Lesbos",
+          "url": "https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU"
+        },
+        {
+          "name": "dreamcastmoe",
+          "url": "https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209983,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6vS6Lz9bQPYtYD00i6pgti"
+    },
+    {
+      "album": {
         "name": "EVERYTHINGSALRIGHT",
         "url": "https://open.spotify.com/album/6fxy5Sv8laZHCodqu9ICQG"
       },
@@ -3372,7 +3394,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 357463,
       "name": "Flexorcist",
       "url": "https://open.spotify.com/track/2P4FWhDB0wxPyULFAAmx15"
@@ -3496,6 +3518,24 @@
       "duration_ms": 220766,
       "name": "For The Weekend",
       "url": "https://open.spotify.com/track/3J35p7CpDl8iNOUIQyHZd1"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/7bzflIcRwckTpNCCJEjohT"
+      },
+      "artists": [
+        {
+          "name": "Colouring",
+          "url": "https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158433,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/5bGoq1IIwu6uzp5ecdMLZ9"
     },
     {
       "album": {
@@ -4402,7 +4442,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 309421,
       "name": "House of Love",
       "url": "https://open.spotify.com/track/6ElurfirOqT72TO31NQtCp"
@@ -5140,7 +5180,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 175923,
       "name": "Jaguar",
       "url": "https://open.spotify.com/track/1EbPebzZXIn4QmYsL31Ahy"
@@ -8303,6 +8343,28 @@
     },
     {
       "album": {
+        "name": "She Is Coming (Jean Tonique Remix)",
+        "url": "https://open.spotify.com/album/4ffi6qFZOWFltGjdOyTPJP"
+      },
+      "artists": [
+        {
+          "name": "Later.",
+          "url": "https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217413,
+      "name": "She Is Coming - Jean Tonique Remix",
+      "url": "https://open.spotify.com/track/4qYqjNyEIWX3lSoUVZgCY0"
+    },
+    {
+      "album": {
         "name": "Mid Air",
         "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
       },
@@ -9673,6 +9735,28 @@
     },
     {
       "album": {
+        "name": "This Life (feat. Tom Smith)",
+        "url": "https://open.spotify.com/album/3lorSURnDgAL373NgbkvRz"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Tom Smith",
+          "url": "https://open.spotify.com/artist/5nw0YnxEyqweUJ4Piu9TWM"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248894,
+      "name": "This Life (feat. Tom Smith)",
+      "url": "https://open.spotify.com/track/4I7874tDqZCophpQwyMsEj"
+    },
+    {
+      "album": {
         "name": "Tiger",
         "url": "https://open.spotify.com/album/0EFi9pNuGCalEEsWPSb6N4"
       },
@@ -9764,7 +9848,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 161647,
       "name": "Tired",
       "url": "https://open.spotify.com/track/102NPgqNC8JLVKqkIMueJ6"
@@ -10817,6 +10901,28 @@
     },
     {
       "album": {
+        "name": "Y U DO",
+        "url": "https://open.spotify.com/album/088f1tjSyeq9mTXYmqELdS"
+      },
+      "artists": [
+        {
+          "name": "Nobodys Face",
+          "url": "https://open.spotify.com/artist/2cP7dnZQqfYPoMMdmYQyJl"
+        },
+        {
+          "name": "Torky Tork",
+          "url": "https://open.spotify.com/artist/2ULrSviyq7At3VlxHGe1ml"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134733,
+      "name": "Y U DO",
+      "url": "https://open.spotify.com/track/0WE3B6tcpWKbvOmuz6assF"
+    },
+    {
+      "album": {
         "name": "Yonder",
         "url": "https://open.spotify.com/album/2TupW0ECz9yne6k2TC2yVO"
       },
@@ -11040,6 +11146,24 @@
       "duration_ms": 410410,
       "name": "Your Love - Agents of Time Remix",
       "url": "https://open.spotify.com/track/3dZ7Xexqt0O3mx2hhTfYri"
+    },
+    {
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/5h8P7zNBW2vLFBbPro6iJi"
+      },
+      "artists": [
+        {
+          "name": "UTO",
+          "url": "https://open.spotify.com/artist/1qLSzTLKNBRu1byHN1eXoD"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216716,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/3MGUeh1vqSN0mbdVYomj06"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX07Bg0Q5GozA"

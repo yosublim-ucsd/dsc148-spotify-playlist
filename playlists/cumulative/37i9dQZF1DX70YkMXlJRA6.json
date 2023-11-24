@@ -683,6 +683,32 @@
     },
     {
       "album": {
+        "name": "La Murga",
+        "url": "https://open.spotify.com/album/1ppMnxEDSUANAOOCEpxQpK"
+      },
+      "artists": [
+        {
+          "name": "Biomigrant",
+          "url": "https://open.spotify.com/artist/5H59BW8KCUmuwDMGVvuatk"
+        },
+        {
+          "name": "Plu Con Pla",
+          "url": "https://open.spotify.com/artist/15OQgyef5dQZArbCVFvOxH"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262156,
+      "name": "La Murga",
+      "url": "https://open.spotify.com/track/2rOhcW4XLwq7qdJDO30xAQ"
+    },
+    {
+      "album": {
         "name": "Escape Plan",
         "url": "https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y"
       },
@@ -866,7 +892,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 372000,
       "name": "M\u00e1s Profundo",
       "url": "https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt"

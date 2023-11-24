@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 9141,
+  "num_followers": 9152,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2E3OGU3NjNkYTNkNTdjMjM0YjJkMWY2MTVlOTMzN2JiZWRjYTcw",
+  "snapshot_id": "MCwxOTMzNDJmZjhkN2Y2MDJmYWI2OGVjZDI3ZTk4MDczZDBjNTgzYzI5",
   "tracks": [
     {
       "added_at": "2023-11-15 14:49:16",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-11-15 14:49:16",
       "album": {
-        "name": "Future Boy",
-        "url": "https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0"
-      },
-      "artists": [
-        {
-          "name": "Juju B. Goode",
-          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
-        }
-      ],
-      "duration_ms": 124263,
-      "name": "Future Boy",
-      "url": "https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm"
-    },
-    {
-      "added_at": "2023-11-15 14:49:16",
-      "album": {
         "name": "School Rapper4 Semi Final 1",
         "url": "https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 241333,
       "name": "Cold (Feat. SUPERBEE) (Prod. Way Ched)",
       "url": "https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy"
+    },
+    {
+      "added_at": "2023-11-15 14:49:16",
+      "album": {
+        "name": "Future Boy",
+        "url": "https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0"
+      },
+      "artists": [
+        {
+          "name": "Juju B. Goode",
+          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
+        }
+      ],
+      "duration_ms": 124263,
+      "name": "Future Boy",
+      "url": "https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm"
     },
     {
       "added_at": "2023-11-15 14:49:16",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-11-15 14:49:16",
       "album": {
-        "name": "HELLP",
-        "url": "https://open.spotify.com/album/1XV4Tae3eibi8dM3igtbgM"
-      },
-      "artists": [
-        {
-          "name": "RYNO",
-          "url": "https://open.spotify.com/artist/5rIOZ6g7qSlq60wITUUle2"
-        },
-        {
-          "name": "MELOH",
-          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
-        }
-      ],
-      "duration_ms": 206625,
-      "name": "HELLP",
-      "url": "https://open.spotify.com/track/2D3rC3VmUhf3fVZeRbAwcC"
-    },
-    {
-      "added_at": "2023-11-15 14:49:16",
-      "album": {
         "name": "Primary And The Messengers LP",
         "url": "https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 235311,
       "name": "poison (Feat. E-Sens Of Supreme Team)",
       "url": "https://open.spotify.com/track/3BSuec8O8wWWUo82kaCw5T"
+    },
+    {
+      "added_at": "2023-11-15 14:49:16",
+      "album": {
+        "name": "HELLP",
+        "url": "https://open.spotify.com/album/1XV4Tae3eibi8dM3igtbgM"
+      },
+      "artists": [
+        {
+          "name": "RYNO",
+          "url": "https://open.spotify.com/artist/5rIOZ6g7qSlq60wITUUle2"
+        },
+        {
+          "name": "MELOH",
+          "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
+        }
+      ],
+      "duration_ms": 206625,
+      "name": "HELLP",
+      "url": "https://open.spotify.com/track/2D3rC3VmUhf3fVZeRbAwcC"
     },
     {
       "added_at": "2023-11-15 14:49:16",

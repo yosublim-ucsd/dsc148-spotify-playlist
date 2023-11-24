@@ -4,7 +4,7 @@
 
 > Feels like falling in love in the 50s
 
-104 songs - 5 hr 20 min
+105 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Sea Of Love](https://open.spotify.com/track/4gUDdUr5yK0JGlR49zSRVt) | [Phil Phillips & The Twilights](https://open.spotify.com/artist/5EQjT95lePa71P9ZUA6adW) | [Sea Of Love: The Collection](https://open.spotify.com/album/7sDEzqAGqgx95qRrLmqFBB) | 2:21 | 2022-08-11 | 2023-09-14 |
 | [Serenade Of The Bells](https://open.spotify.com/track/1iqKnFk7HVq9QFVWMC4cJy) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [Starring Jo Stafford](https://open.spotify.com/album/4F7IiqL4ElX0lpUG8yQuZ9) | 2:57 | 2023-09-13 | 2023-09-30 |
 | [Seule ce soir](https://open.spotify.com/track/15OTlXh9UjlRxaZTFtzhJ5) | [Léo Marjane](https://open.spotify.com/artist/17biBe7LOJ6V6OH4aAHbXc) | [Soir indigo](https://open.spotify.com/album/3HDOdNOGTaRvyiRPVKiD6G) | 3:22 | 2022-05-03 | 2022-07-28 |
-| [She's Got You \- Single Version](https://open.spotify.com/track/4H1POasJbrLNaQirsIH29e) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Sentimentally Yours](https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ) | 3:01 | 2022-05-03 |  |
+| [She's Got You \- Single Version](https://open.spotify.com/track/4H1POasJbrLNaQirsIH29e) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Sentimentally Yours](https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ) | 3:01 | 2022-05-03 | 2023-11-24 |
 | [Sleepy Lagoon](https://open.spotify.com/track/7bNIYeSqCLZRUsbuYISilH) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG) | [The Incomparable Tommy Dorsey](https://open.spotify.com/album/2RMevcwFFsivslSVNRNjws) | 3:07 | 2023-09-13 | 2023-09-30 |
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/2vSxjnyrWrtxyfzO47EX6q) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Remember When?](https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ) | 2:40 | 2022-05-03 |  |
 | [Solitude](https://open.spotify.com/track/30QD4VRP9yEneOh0eGTrtJ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:27 | 2022-05-03 | 2022-09-30 |
@@ -93,6 +93,7 @@
 | [There, I've Said It Again](https://open.spotify.com/track/6X5VTo4rH1rAfxivxomvoQ) | [Vaughn Monroe](https://open.spotify.com/artist/5TD3Mad384osX9K8DLkx7L) | [Racing With The Moon: An Anthology 1940\-56](https://open.spotify.com/album/4YySxTHzwCCIDLsJViOTHd) | 3:09 | 2022-05-03 | 2022-07-28 |
 | [They Can't Take That Away From Me](https://open.spotify.com/track/5mu20eMSv8zJU3IGWGhaau) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Pure Ella](https://open.spotify.com/album/1sVP1k1tw1hd95xkgiMj72) | 4:39 | 2023-02-07 | 2023-09-12 |
 | [They Can't Take That Away From Me](https://open.spotify.com/track/094P9Go47bQKJ5Do15lt69) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella and Louis](https://open.spotify.com/album/1rP6GkPbp6DvIW59005PnR) | 4:39 | 2022-05-03 | 2022-07-27 |
+| [They Can't Take That Away From Me](https://open.spotify.com/track/2U3ENhffoGzWcoYoR0U4Lm) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella and Louis](https://open.spotify.com/album/3kfnwa4p4uYiTOP8K8ooSE) | 4:39 | 2023-09-29 |  |
 | [They Can't Take That Away From Me](https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 4:40 | 2022-05-03 | 2023-04-05 |
 | [They Say It's Wonderful](https://open.spotify.com/track/2TFzmt2xRoSd3KNelJcUxZ) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 3:02 | 2023-09-13 |  |
 | [Till There Was You \- Remastered](https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Latin Ala Lee](https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK) | 2:31 | 2022-10-11 |  |

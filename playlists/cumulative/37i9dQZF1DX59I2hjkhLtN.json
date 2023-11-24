@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 194575,
       "name": "BULLETPROOF",
       "url": "https://open.spotify.com/track/23v11hul5IayPeQJdaJMUG"
@@ -2065,6 +2065,32 @@
     },
     {
       "album": {
+        "name": "CHORA",
+        "url": "https://open.spotify.com/album/0luMr2P0FbCsQA8oNsaDKr"
+      },
+      "artists": [
+        {
+          "name": "xmat",
+          "url": "https://open.spotify.com/artist/6Ve1CBukAFnOV6WoQVEKlK"
+        },
+        {
+          "name": "brenin",
+          "url": "https://open.spotify.com/artist/2kcY1y41Nm9D754xuID3vk"
+        },
+        {
+          "name": "wise!",
+          "url": "https://open.spotify.com/artist/1BJjhVAeGnLjpZKxyduoJL"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178332,
+      "name": "CHORA",
+      "url": "https://open.spotify.com/track/7Mtm1gjg5Vcp7xgJyUUWfV"
+    },
+    {
+      "album": {
         "name": "Serpentino",
         "url": "https://open.spotify.com/album/2gC3fcWI0NmEb30Jcs3cQ2"
       },
@@ -2232,7 +2258,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 305689,
       "name": "COBRAS & LAGARTOS",
       "url": "https://open.spotify.com/track/41ijYc73yar9Z195mqGAUr"
@@ -4306,7 +4332,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 214920,
       "name": "Folhas",
       "url": "https://open.spotify.com/track/0JUe2TfB22ZCuBTTApHmaJ"
@@ -6034,7 +6060,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 173136,
       "name": "Level Up",
       "url": "https://open.spotify.com/track/41lbOjJ8ut4YSj1CTdKI40"
@@ -8175,6 +8201,24 @@
     },
     {
       "album": {
+        "name": "Nunca Mais",
+        "url": "https://open.spotify.com/album/50FQvj14FjfsbXjz9ui8Rq"
+      },
+      "artists": [
+        {
+          "name": "Zalo",
+          "url": "https://open.spotify.com/artist/401NM4m2Jvdjk0jH0B9YgL"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170317,
+      "name": "Nunca Mais",
+      "url": "https://open.spotify.com/track/31BByFf5zPr0Du1XTOYH7y"
+    },
+    {
+      "album": {
         "name": "Nunca Pares",
         "url": "https://open.spotify.com/album/5MsuLAnLzlJ1ot80UoIwtz"
       },
@@ -8674,7 +8718,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 218666,
       "name": "Ohhh",
       "url": "https://open.spotify.com/track/4eG7PhXsV1S9jW4ENOu1GN"
@@ -9120,6 +9164,28 @@
       "duration_ms": 195223,
       "name": "PAZ",
       "url": "https://open.spotify.com/track/32QmWw2VFxoGkJI5XJT2YU"
+    },
+    {
+      "album": {
+        "name": "PEACE",
+        "url": "https://open.spotify.com/album/4SwVfbpCgRg3KQzNlfHvdh"
+      },
+      "artists": [
+        {
+          "name": "West Wood",
+          "url": "https://open.spotify.com/artist/0PktuNtu7TSLVCmuCBkAkO"
+        },
+        {
+          "name": "lilboysakura",
+          "url": "https://open.spotify.com/artist/7D2UxsQrETj8ciwBsb0OoH"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223107,
+      "name": "PEACE",
+      "url": "https://open.spotify.com/track/35FzhCH5xFPuL1SHOb7Cm5"
     },
     {
       "album": {
@@ -10209,6 +10275,24 @@
     },
     {
       "album": {
+        "name": "REL\u00d3GIO",
+        "url": "https://open.spotify.com/album/4NapxszcwpAi1opbt0FTeT"
+      },
+      "artists": [
+        {
+          "name": "ZARCO",
+          "url": "https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212157,
+      "name": "REL\u00d3GIO",
+      "url": "https://open.spotify.com/track/66AYQkeZV5Jfvlg2i5Alyk"
+    },
+    {
+      "album": {
         "name": "Rendez Vous",
         "url": "https://open.spotify.com/album/63dhxW3bKwPsh7diCrP9Kh"
       },
@@ -11275,6 +11359,28 @@
     },
     {
       "album": {
+        "name": "Sondas",
+        "url": "https://open.spotify.com/album/5QZ5soQ6J96yrPrJ5svIFu"
+      },
+      "artists": [
+        {
+          "name": "FRANKIENB",
+          "url": "https://open.spotify.com/artist/6IySz6ttaFGGbNzvuGRzfu"
+        },
+        {
+          "name": "In\u00eas Matias",
+          "url": "https://open.spotify.com/artist/2rMHkOGKfovYpZuHAegCJx"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230759,
+      "name": "Sondas",
+      "url": "https://open.spotify.com/track/0OEc4yqj55nj0ehp4W5awp"
+    },
+    {
+      "album": {
         "name": "Sonhar",
         "url": "https://open.spotify.com/album/5kmrJzY3TS0ZkGUB0CvjoI"
       },
@@ -11839,6 +11945,24 @@
     },
     {
       "album": {
+        "name": "That Risc",
+        "url": "https://open.spotify.com/album/7ASUDjn3I3vZfVvRfTRmKr"
+      },
+      "artists": [
+        {
+          "name": "RDM GANG85",
+          "url": "https://open.spotify.com/artist/1JPQ0aZEfI5e5KAmszhZuT"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140027,
+      "name": "That Risc",
+      "url": "https://open.spotify.com/track/72LkLYKrUgI6K2BxWBlwSj"
+    },
+    {
+      "album": {
         "name": "Punchlines for Days 3",
         "url": "https://open.spotify.com/album/0eguTT4ygOdlXgyAvsiGP4"
       },
@@ -12170,7 +12294,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 186517,
       "name": "Tudo Se Repete",
       "url": "https://open.spotify.com/track/2gLijdOpgmEv7K8Ly8y4su"

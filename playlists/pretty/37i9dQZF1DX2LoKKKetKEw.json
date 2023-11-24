@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.  Get your fill of Afrobeats and Bible right here!  Cover: <a href=\"spotify:artist:4rwolwLHj97rPwbhyNSeU9\">Marizu</a>",
-  "num_followers": 68996,
+  "num_followers": 69113,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2I2N2Y0MDVlZDAxMjFlNmE0MWNiOGEwZTY5MmY0ZDIwNmM0YWZl",
+  "snapshot_id": "MCwzZjBjZjI0MmY0OTUwZjNmMzY0ODlhMWU5OTVmNTE4NzcyNzk0MGJj",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -771,6 +771,26 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "This can only be God",
+        "url": "https://open.spotify.com/album/0XRw5DvPkwMXbxii2Gvk3q"
+      },
+      "artists": [
+        {
+          "name": "Jimmy D Psalmist",
+          "url": "https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 218644,
+      "name": "This can only be God",
+      "url": "https://open.spotify.com/track/4In9fCMSz4SyK51pGQ7n7l"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Daily (Remix)",
         "url": "https://open.spotify.com/album/5r78TqhG05fGrwHDpjeUkC"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 195428,
       "name": "Daily - Remix",
       "url": "https://open.spotify.com/track/3dtD6RxBNau20iIsowaKVu"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "This can only be God",
-        "url": "https://open.spotify.com/album/0XRw5DvPkwMXbxii2Gvk3q"
-      },
-      "artists": [
-        {
-          "name": "Jimmy D Psalmist",
-          "url": "https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 218644,
-      "name": "This can only be God",
-      "url": "https://open.spotify.com/track/4In9fCMSz4SyK51pGQ7n7l"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "My Back",
-        "url": "https://open.spotify.com/album/1GgRlW2o7EDLwYYgfdSsgH"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 203860,
-      "name": "My Back",
-      "url": "https://open.spotify.com/track/0u2ggZsmOkA7CflvenfJBN"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Bo Ta Joor",
         "url": "https://open.spotify.com/album/4VWI6nIzR2K7kNktuaybxJ"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 160463,
       "name": "Bo Ta Joor",
       "url": "https://open.spotify.com/track/3RztRSbwhcy0LwgR6xcGNu"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "My Back",
+        "url": "https://open.spotify.com/album/1GgRlW2o7EDLwYYgfdSsgH"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 203860,
+      "name": "My Back",
+      "url": "https://open.spotify.com/track/0u2ggZsmOkA7CflvenfJBN"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "My Dey",
-        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 131065,
-      "name": "My Dey",
-      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/7qRh53LMZ3GQTTaNWVPq2o"
       },
@@ -983,22 +967,34 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "My Lover",
-        "url": "https://open.spotify.com/album/3aFg0FSMqY5qJB263VR7vX"
+        "name": "My Dey",
+        "url": "https://open.spotify.com/album/5qgwJVhYPaCluttxOiJ3pT"
       },
       "artists": [
         {
-          "name": "Uwa",
-          "url": "https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV"
-        },
-        {
-          "name": "Grace Lokwa",
-          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
         }
       ],
-      "duration_ms": 167800,
-      "name": "My Lover",
-      "url": "https://open.spotify.com/track/6ZpfJmd40iArYfoXpi6tq5"
+      "duration_ms": 131065,
+      "name": "My Dey",
+      "url": "https://open.spotify.com/track/4Cu4vzXWkuqrq9VgIXqvti"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Oh the day",
+        "url": "https://open.spotify.com/album/0Ibo0WqVCdxd7L3HUfLBuc"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 157335,
+      "name": "Oh the day",
+      "url": "https://open.spotify.com/track/44cJObwiWzhXwuEU31Mlrc"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1023,6 +1019,26 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "My Lover",
+        "url": "https://open.spotify.com/album/3aFg0FSMqY5qJB263VR7vX"
+      },
+      "artists": [
+        {
+          "name": "Uwa",
+          "url": "https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV"
+        },
+        {
+          "name": "Grace Lokwa",
+          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
+        }
+      ],
+      "duration_ms": 167800,
+      "name": "My Lover",
+      "url": "https://open.spotify.com/track/6ZpfJmd40iArYfoXpi6tq5"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Johnny",
         "url": "https://open.spotify.com/album/4LcOFetnZSjygsBtwUXpAY"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 116066,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/1EC2uXIP0AYROl8EbWKiWq"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Oh the day",
-        "url": "https://open.spotify.com/album/0Ibo0WqVCdxd7L3HUfLBuc"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 157335,
-      "name": "Oh the day",
-      "url": "https://open.spotify.com/track/44cJObwiWzhXwuEU31Mlrc"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Mon Dieu",
-        "url": "https://open.spotify.com/album/3j4XcPPW0QPOXfzt2ygnNd"
-      },
-      "artists": [
-        {
-          "name": "Emandiong",
-          "url": "https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Mon Dieu",
-      "url": "https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "On My Case",
         "url": "https://open.spotify.com/album/4yCTzq9LQLQ3b6AJ3BprFc"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 163399,
       "name": "On My Case",
       "url": "https://open.spotify.com/track/04IQOJLLfOYcoyddANSaiY"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Mon Dieu",
+        "url": "https://open.spotify.com/album/3j4XcPPW0QPOXfzt2ygnNd"
+      },
+      "artists": [
+        {
+          "name": "Emandiong",
+          "url": "https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Mon Dieu",
+      "url": "https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "I am Loved",
-        "url": "https://open.spotify.com/album/4qJDN4ldOlLXyultmtivtL"
-      },
-      "artists": [
-        {
-          "name": "Uchenna",
-          "url": "https://open.spotify.com/artist/6Ly48tkmucK1GwvTdjXAjC"
-        },
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        }
-      ],
-      "duration_ms": 168932,
-      "name": "I am Loved",
-      "url": "https://open.spotify.com/track/590d44i18y3y04nVzXFnoJ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "PRAISE YOUR NAME",
         "url": "https://open.spotify.com/album/7iUgmGiBgXkpECjHYgQ7AL"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 201648,
       "name": "For Me",
       "url": "https://open.spotify.com/track/4PKCwcRW3GKzmVJT7tpu3h"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "I am Loved",
+        "url": "https://open.spotify.com/album/4qJDN4ldOlLXyultmtivtL"
+      },
+      "artists": [
+        {
+          "name": "Uchenna",
+          "url": "https://open.spotify.com/artist/6Ly48tkmucK1GwvTdjXAjC"
+        },
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        }
+      ],
+      "duration_ms": 168932,
+      "name": "I am Loved",
+      "url": "https://open.spotify.com/track/590d44i18y3y04nVzXFnoJ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Hallow",
-        "url": "https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6"
-      },
-      "artists": [
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 158608,
-      "name": "Hallow",
-      "url": "https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/24dKzAeT4p0xNoF1RZb9c6"
       },
@@ -1679,6 +1663,42 @@
       "duration_ms": 219088,
       "name": "I Know",
       "url": "https://open.spotify.com/track/7i2iaClUDWgPcqhGCrDCO0"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Hallow",
+        "url": "https://open.spotify.com/album/1xa5PIPcWSV78KhlT8LZH6"
+      },
+      "artists": [
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 158608,
+      "name": "Hallow",
+      "url": "https://open.spotify.com/track/2V9BiIYlcK7vvK864BusrG"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Pepper Dem",
+        "url": "https://open.spotify.com/album/1yLoyhBS3UYGNPUqrMIdIW"
+      },
+      "artists": [
+        {
+          "name": "Kofi Dartey",
+          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
+        },
+        {
+          "name": "Legacy",
+          "url": "https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ"
+        }
+      ],
+      "duration_ms": 168813,
+      "name": "Pepper Dem",
+      "url": "https://open.spotify.com/track/3h1GZSyRIentZ7bg7q20Ca"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1707,22 +1727,26 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Pepper Dem",
-        "url": "https://open.spotify.com/album/1yLoyhBS3UYGNPUqrMIdIW"
+        "name": "Savior",
+        "url": "https://open.spotify.com/album/0xDS06ehDdWLIrKhq4tSvs"
       },
       "artists": [
         {
-          "name": "Kofi Dartey",
-          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
         },
         {
-          "name": "Legacy",
-          "url": "https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ"
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
         }
       ],
-      "duration_ms": 168813,
-      "name": "Pepper Dem",
-      "url": "https://open.spotify.com/track/3h1GZSyRIentZ7bg7q20Ca"
+      "duration_ms": 153473,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/5Twvf31nhxFi1K56nJT3Jv"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1743,30 +1767,6 @@
       "duration_ms": 154218,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Right Here (It Must Be)",
-        "url": "https://open.spotify.com/album/32uMtefl8RRamBjA2b00yM"
-      },
-      "artists": [
-        {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
-        },
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
-        },
-        {
-          "name": "Kojo Dave",
-          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
-        }
-      ],
-      "duration_ms": 189382,
-      "name": "Right Here (It Must Be)",
-      "url": "https://open.spotify.com/track/3WE6NG4DHL1RbbPoKvId64"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1803,30 +1803,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "NOTHING",
-        "url": "https://open.spotify.com/album/5MSlADfWP2gIvuKanKIIAk"
-      },
-      "artists": [
-        {
-          "name": "Spillz Ochai",
-          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
-        },
-        {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        },
-        {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
-        }
-      ],
-      "duration_ms": 168326,
-      "name": "NOTHING",
-      "url": "https://open.spotify.com/track/4CTFXBYcl5AHGRee4b2CAO"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV"
       },
@@ -1847,38 +1823,26 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "MINDFUL",
-        "url": "https://open.spotify.com/album/1pj6d54dUkP7c0x6wzkXbH"
+        "name": "NOTHING",
+        "url": "https://open.spotify.com/album/5MSlADfWP2gIvuKanKIIAk"
       },
       "artists": [
         {
-          "name": "Lilmizzy",
-          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
         },
         {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
-        }
-      ],
-      "duration_ms": 194115,
-      "name": "MINDFUL",
-      "url": "https://open.spotify.com/track/4XJzqZUsubysIivv2VELbU"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Suo M\u00e9",
-        "url": "https://open.spotify.com/album/3UrYNFLEvCSXX1JAJFLxcv"
-      },
-      "artists": [
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        },
         {
-          "name": "yoyo michael",
-          "url": "https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv"
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
         }
       ],
-      "duration_ms": 194181,
-      "name": "Suo M\u00e9",
-      "url": "https://open.spotify.com/track/4ItJnL2F1kAyk1GFiyB8kS"
+      "duration_ms": 168326,
+      "name": "NOTHING",
+      "url": "https://open.spotify.com/track/4CTFXBYcl5AHGRee4b2CAO"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1907,26 +1871,38 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Savior",
-        "url": "https://open.spotify.com/album/0xDS06ehDdWLIrKhq4tSvs"
+        "name": "MINDFUL",
+        "url": "https://open.spotify.com/album/1pj6d54dUkP7c0x6wzkXbH"
       },
       "artists": [
         {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+          "name": "Lilmizzy",
+          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
         },
         {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        },
-        {
-          "name": "TBabz",
-          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
         }
       ],
-      "duration_ms": 153473,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/5Twvf31nhxFi1K56nJT3Jv"
+      "duration_ms": 194115,
+      "name": "MINDFUL",
+      "url": "https://open.spotify.com/track/4XJzqZUsubysIivv2VELbU"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Yellow Soul",
+        "url": "https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Yellow Soul",
+      "url": "https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1955,6 +1931,54 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Right Here (It Must Be)",
+        "url": "https://open.spotify.com/album/32uMtefl8RRamBjA2b00yM"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        },
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        },
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        }
+      ],
+      "duration_ms": 189382,
+      "name": "Right Here (It Must Be)",
+      "url": "https://open.spotify.com/track/3WE6NG4DHL1RbbPoKvId64"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "What He Says",
+        "url": "https://open.spotify.com/album/1jJ1jrDmtORosDh9Uc3XY9"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        },
+        {
+          "name": "Tjsarx",
+          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
+        }
+      ],
+      "duration_ms": 131527,
+      "name": "What He Says",
+      "url": "https://open.spotify.com/track/6K5t19OfWRrRTsvBk5u8Od"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "YOUR MIND",
         "url": "https://open.spotify.com/album/3uCTyAK8W8KgNhOybwSox4"
       },
@@ -1975,42 +1999,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Yellow Soul",
-        "url": "https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd"
+        "name": "Nobody Like You",
+        "url": "https://open.spotify.com/album/1dU5VJTafuXBaXWFZKZ69C"
       },
       "artists": [
         {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Yellow Soul",
-      "url": "https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Belongs to You (EDM Remix)",
-        "url": "https://open.spotify.com/album/5bO2RKSu7dpos2tguifru8"
-      },
-      "artists": [
-        {
-          "name": "Sarah T\u00e9ibo",
-          "url": "https://open.spotify.com/artist/2TiTzlqsBiRzHXSHQIIabT"
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
         },
         {
-          "name": "Sigag Lauren",
-          "url": "https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA"
-        },
-        {
-          "name": "Paola Carla",
-          "url": "https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6"
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
         }
       ],
-      "duration_ms": 187500,
-      "name": "Belongs to You - EDM Remix",
-      "url": "https://open.spotify.com/track/2KCyx1wmIdWUwJPM7LItHS"
+      "duration_ms": 185959,
+      "name": "Nobody Like You (feat. CalledOut Music) - Radio Edit",
+      "url": "https://open.spotify.com/track/69dmysQe6AgLJM4FepdiiJ"
     }
   ],
   "unique_name": "AfroGospel",

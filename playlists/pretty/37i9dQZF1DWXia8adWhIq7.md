@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: LUDI
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,508 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,593 likes - 85 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 41 | [Reconstituir](https://open.spotify.com/track/3IZL1m4OR2XuljkOJrJPji) | [Igor Felix](https://open.spotify.com/artist/0jgIJ7ZflTCTu6QoLUr1ud), [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [Reconstituir](https://open.spotify.com/album/5FVMdmhaJfHB0o2ZDzb1SJ) | 4:22 |
 | 42 | [Em Teus Braços / Oh Quão Lindo Esse Nome É](https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym) | [Hellen Caroline](https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY) | [Em Teus Braços / Oh Quão Lindo Esse Nome É](https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI) | 4:32 |
 | 43 | [Apenas Canção](https://open.spotify.com/track/43ZMXD6nz8fDresDGJWcFV) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv) | [Apenas Canção](https://open.spotify.com/album/7JfcTaZohCXrarbXMox1Cg) | 4:26 |
-| 44 | [Pra Sempre](https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Pra Sempre](https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN) | 3:39 |
-| 45 | [Teu Reino Venha](https://open.spotify.com/track/2xYtgaVWlSpUBDq8BoAynx) | [Cordão de Três](https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88) | [Teu Reino Venha](https://open.spotify.com/album/7AXrbAIoCbiI3ixrnLcCWw) | 3:42 |
-| 46 | [O Amor de Deus](https://open.spotify.com/track/5S5MNp2WRwmvdG7JlbdgW8) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Yuri DSR](https://open.spotify.com/artist/3P5R5KRLnpElqxP6av8N2B), [Jotta X](https://open.spotify.com/artist/3gMrLffCIkO3TWMKXvjEOl) | [O Amor de Deus](https://open.spotify.com/album/08wVdMKnZGndh8zL9uYEvg) | 2:36 |
+| 44 | [O Amor de Deus](https://open.spotify.com/track/5S5MNp2WRwmvdG7JlbdgW8) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Yuri DSR](https://open.spotify.com/artist/3P5R5KRLnpElqxP6av8N2B), [Jotta X](https://open.spotify.com/artist/3gMrLffCIkO3TWMKXvjEOl) | [O Amor de Deus](https://open.spotify.com/album/08wVdMKnZGndh8zL9uYEvg) | 2:36 |
+| 45 | [Pra Sempre](https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Pra Sempre](https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN) | 3:39 |
+| 46 | [Teu Reino Venha](https://open.spotify.com/track/2xYtgaVWlSpUBDq8BoAynx) | [Cordão de Três](https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88) | [Teu Reino Venha](https://open.spotify.com/album/7AXrbAIoCbiI3ixrnLcCWw) | 3:42 |
 | 47 | [Agora](https://open.spotify.com/track/5EewDYykR42DHWCcRh2wO2) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV), [Salomão](https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx), [DD Junior](https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0) | [Agora](https://open.spotify.com/album/4U92cEpwlKPbTOc1lwImMn) | 3:16 |
 | 48 | [A Chave](https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Epifania](https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr) | 3:27 |
 | 49 | [Fim de Tarde](https://open.spotify.com/track/0mC0afeTT4kuc0Lrqzhe3I) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Fim de Tarde](https://open.spotify.com/album/4u1HeTOJKX0y3OAA3GNKKh) | 2:18 |
@@ -81,17 +81,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 71 | [TE ENCONTRAR](https://open.spotify.com/track/3MOm8XpEt9xACdadSFHXfQ) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y) | [TE ENCONTRAR](https://open.spotify.com/album/2wBoEUm3ezJ8l0qO0OALlr) | 2:47 |
 | 72 | [Contigo](https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV) | [Contigo](https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0) | 3:19 |
 | 73 | [Casulo](https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs) | [Isabella Lopes](https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds) | [Casulo](https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva) | 3:39 |
-| 74 | [Teu Calor](https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Teu Calor](https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm) | 3:44 |
-| 75 | [Além do Que Se Vê](https://open.spotify.com/track/4XzEfk8FB5T2D0qEXHhaGW) | [Yuri Costa](https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ) | [Além do Que Se Vê](https://open.spotify.com/album/7eBr2Gk1ELbv9nBX1qNaU2) | 3:54 |
+| 74 | [Além do Que Se Vê](https://open.spotify.com/track/4XzEfk8FB5T2D0qEXHhaGW) | [Yuri Costa](https://open.spotify.com/artist/6DCegHgi8RLp02HGxvjegQ) | [Além do Que Se Vê](https://open.spotify.com/album/7eBr2Gk1ELbv9nBX1qNaU2) | 3:54 |
+| 75 | [Teu Calor](https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Teu Calor](https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm) | 3:44 |
 | 76 | [Te Vejo](https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Te Vejo](https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv) | 3:30 |
 | 77 | [Me Chamar de Filho](https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0) | [Ana Canhoto](https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y) | [Me Chamar de Filho](https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM) | 3:07 |
 | 78 | [Voltar](https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM) | [Eric Cortes](https://open.spotify.com/artist/7Mvuu6yhnhyYtZATxe5C8F) | [Voltar](https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw) | 4:16 |
 | 79 | [Amor de Deus](https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Amor de Deus](https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw) | 2:58 |
 | 80 | [Me Leva Além](https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC) | [Geovanne Oliveira](https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR) | [Me Leva Além](https://open.spotify.com/album/2iwdXuyuljCkNwooRrWCIU) | 3:35 |
 | 81 | [Luz do Mundo](https://open.spotify.com/track/6CDYoW7uZw3st6Fr5uSqSR) | [Idma Brito](https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Luz do Mundo](https://open.spotify.com/album/6VIlAkJqFIEn863W1fFcDW) | 3:13 |
-| 82 | [Eu Só Peço a Deus](https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa) | [Eu Só Peço a Deus](https://open.spotify.com/album/0mDivhPMAh9lJxmk5qvuRw) | 3:06 |
-| 83 | [Testemunho](https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0) | [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq) | [Testemunho](https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ) | 2:19 |
+| 82 | [Testemunho](https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0) | [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq) | [Testemunho](https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ) | 2:19 |
+| 83 | [Eu Só Peço a Deus](https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios) | [Lontraz](https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa) | [Eu Só Peço a Deus](https://open.spotify.com/album/0mDivhPMAh9lJxmk5qvuRw) | 3:06 |
 | 84 | [Plano B](https://open.spotify.com/track/4gjFM2XEKr0UnqwssxCVvm) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Acoustic Sessions, Vol\. 6](https://open.spotify.com/album/0RuvdzSlbLAd2NC4dbhF2z) | 2:45 |
 | 85 | [Sinal de Aviso](https://open.spotify.com/track/479amATgvjJZUzIlKy5WhP) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Sinal de Aviso](https://open.spotify.com/album/7MUhsx0IrsGZGsd3pv2zI4) | 3:15 |
 
-Snapshot ID: `MCxlZjRkMGZhYWE4MjZkYTg1MzA4ZjU3Mjk1ZjYyM2FhMTEzMzdmOWQ4`
+Snapshot ID: `MCw5YzgwMTQzYmMwNTZlNWQzYTc2OTMxN2JkYTMyM2E5ZGViZGMwYjdl`

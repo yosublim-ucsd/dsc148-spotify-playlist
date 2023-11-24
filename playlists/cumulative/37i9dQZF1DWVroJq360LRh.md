@@ -4,7 +4,7 @@
 
 > Músicas acústicas para acompanhar sua sessão de pilates.
 
-247 songs - 13 hr 45 min
+249 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Attention](https://open.spotify.com/track/3gfj8KspdXnjhE60lCtau6) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Attention](https://open.spotify.com/album/0LFGuTTSzJriA5NueC6uNI) | 2:58 | 2022-12-23 |  |
 | [Back For Good](https://open.spotify.com/track/0n3E6m57nDZJDyUHllaMDp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Back For Good](https://open.spotify.com/album/5OnXeyTWDJlOLdGYAa6ekD) | 3:14 | 2023-06-02 |  |
 | [Bad Habits](https://open.spotify.com/track/25TzyGcqLbVgC0H0kpYRjM) | [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Bad Habits](https://open.spotify.com/album/46M6KC4TbTMf4y39aZezz6) | 3:58 | 2022-01-12 | 2023-06-02 |
+| [Because the Night](https://open.spotify.com/track/7BnEsemtidgKsMTYip1ukx) | [Q.Z.B](https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG) | [Because the Night](https://open.spotify.com/album/3MzhDYmvNSlIU86PsF5l0a) | 2:59 | 2023-11-24 |  |
 | [Better Now \(Acoustic\)](https://open.spotify.com/track/7BSAXJ5iT5ERuzduIvX8Ol) | [Kim & Otto](https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2jnbvIEWopuhDSftIelDN0) | 3:40 | 2022-11-11 |  |
 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 | 2022-11-11 | 2023-06-23 |
 | [Big Girls Don't Cry](https://open.spotify.com/track/55eqiKZdQSdbya2Oty6vDE) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [Big Girls Don't Cry](https://open.spotify.com/album/6t7KpPbua4qyuK4VYPs4T6) | 2:43 | 2023-06-02 |  |
@@ -243,6 +244,7 @@
 | [Until I Found You](https://open.spotify.com/track/4HwUDalB30KzSQVbSbr4je) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [Until I Found You](https://open.spotify.com/album/7F9CzPe6XFDYIEzh8KVtpc) | 3:17 | 2022-12-23 | 2023-06-02 |
 | [Use Somebody](https://open.spotify.com/track/3XXaCFZD3dcik18uJYs9fA) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Use Somebody](https://open.spotify.com/album/1uWEXc1yoSNuS3jfUbNWyC) | 3:08 | 2022-11-11 |  |
 | [Visiting Hours \(Acoustic\)](https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Visiting Hours \(Acoustic\)](https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW) | 3:17 | 2022-12-23 |  |
+| [Waterfalls](https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf) | [Tobey Rosen](https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN) | [Waterfalls](https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz) | 2:50 | 2023-11-24 |  |
 | [We Found Love \- Acoustic](https://open.spotify.com/track/4qdLbr82uc46ZDr7pPsbR0) | [Kim & Otto](https://open.spotify.com/artist/7HOR3sWFRsVgoyVhQtM5Td) | [We Found Love \- Acoustic](https://open.spotify.com/album/0YuVbTUWFSxAPPQCGAat0u) | 2:37 | 2022-12-23 |  |
 | [what do you mean?](https://open.spotify.com/track/2ov2JFvZX3vRf2oXYiVs3i) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [what do you mean?](https://open.spotify.com/album/6wqYJ0dhfbVTvuwdHKNNys) | 3:08 | 2023-06-02 |  |
 | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd) | [Macy Ellen](https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L) | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA) | 3:22 | 2023-08-31 |  |

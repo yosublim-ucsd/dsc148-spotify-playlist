@@ -276,7 +276,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 307172,
       "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 230259,
       "name": "Almost Forever",
       "url": "https://open.spotify.com/track/3wx37zQZm1LDSMe3W1I1K2"
@@ -384,7 +384,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 220573,
       "name": "Angel - Acoustic String Version",
       "url": "https://open.spotify.com/track/2qtyj7TOmcHQ5liWb8vOaV"
@@ -442,7 +442,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 178746,
       "name": "Away",
       "url": "https://open.spotify.com/track/4d6EvoLIZvyUzX8XHQu0XQ"
@@ -705,6 +705,24 @@
     },
     {
       "album": {
+        "name": "Brick by Brick",
+        "url": "https://open.spotify.com/album/2MyNPpaEbiLzjwXkMrjIfz"
+      },
+      "artists": [
+        {
+          "name": "August Green",
+          "url": "https://open.spotify.com/artist/4ZoIkqWHz47n5xuIfVbncu"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218248,
+      "name": "Brick by Brick",
+      "url": "https://open.spotify.com/track/4bhQUsObZYGGtiZPe2kGYN"
+    },
+    {
+      "album": {
         "name": "Love EP",
         "url": "https://open.spotify.com/album/483bq5roSleMjKuPlIxEcp"
       },
@@ -788,7 +806,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": null,
       "duration_ms": 194081,
       "name": "By the time you hear this",
       "url": "https://open.spotify.com/track/0aGBL8l3yHYXkRt1rd7mB6"
@@ -844,7 +862,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-05",
+      "date_removed": null,
       "duration_ms": 279757,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/4WGfbOXbDMj5ugvmJ38irE"
@@ -952,7 +970,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 193622,
       "name": "Dark",
       "url": "https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn"
@@ -1096,7 +1114,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 146573,
       "name": "Ei ny tid",
       "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
@@ -1158,6 +1176,24 @@
       "duration_ms": 263880,
       "name": "fare thee well",
       "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
+    },
+    {
+      "album": {
+        "name": "Feathers",
+        "url": "https://open.spotify.com/album/3zLx4WOTS1tZXZuNWWdwPD"
+      },
+      "artists": [
+        {
+          "name": "Days of August",
+          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226642,
+      "name": "Feathers",
+      "url": "https://open.spotify.com/track/60XII1rND3K4yE3ffwbl4W"
     },
     {
       "album": {
@@ -1482,7 +1518,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 220760,
       "name": "Gold Laces",
       "url": "https://open.spotify.com/track/6V9hQ6dVr42xlNVoH8r8om"
@@ -1518,7 +1554,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 232960,
       "name": "Grey",
       "url": "https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I"
@@ -1580,7 +1616,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 170875,
       "name": "Halsmandlar",
       "url": "https://open.spotify.com/track/22f4SB1GpL4PCqrwsxHNav"
@@ -1620,7 +1656,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 205080,
       "name": "Hand On Your Heart - Live",
       "url": "https://open.spotify.com/track/2xHyXRgqnWSeGOvEBKzzfw"
@@ -1956,7 +1992,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-09",
+      "date_removed": null,
       "duration_ms": 167142,
       "name": "In The Silence",
       "url": "https://open.spotify.com/track/4Pyg2i2ZSUriQh5QuuBs0y"
@@ -2334,7 +2370,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 197192,
       "name": "Morgan, I Might",
       "url": "https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x"
@@ -2558,7 +2594,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 155213,
       "name": "Oh God",
       "url": "https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC"
@@ -2620,6 +2656,24 @@
       "duration_ms": 290823,
       "name": "Only Stupid Kids Get Bored",
       "url": "https://open.spotify.com/track/3oVd52XTxdQvg46Z25DHqc"
+    },
+    {
+      "album": {
+        "name": "Out in the Backyard",
+        "url": "https://open.spotify.com/album/5agiqfFKIiceHwD2E44Zdr"
+      },
+      "artists": [
+        {
+          "name": "Konradsen",
+          "url": "https://open.spotify.com/artist/59CWeBMEzwj6U2HhTVLJ3O"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220653,
+      "name": "Out in the Backyard",
+      "url": "https://open.spotify.com/track/5SEdPtbU8mBVtLYbTFjbJ3"
     },
     {
       "album": {
@@ -2984,7 +3038,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-21",
+      "date_removed": null,
       "duration_ms": 275613,
       "name": "Sun, Moon, Stars",
       "url": "https://open.spotify.com/track/0xHgo8tccD2tz1JjTjBcBd"
@@ -3194,7 +3248,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 227760,
       "name": "The Ghost in Your Smile",
       "url": "https://open.spotify.com/track/2BOGhPt0OosTyHJZEc8SYA"
@@ -3364,7 +3418,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 221682,
       "name": "The Sky is Painted Gray Today",
       "url": "https://open.spotify.com/track/0WOz7oU6zfuUvDzWHmIdMK"
@@ -3566,7 +3620,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 250850,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg"
@@ -3910,7 +3964,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 224560,
       "name": "When the Mourning Comes",
       "url": "https://open.spotify.com/track/0EaHuGgiDdWDQi9VsS6Xrv"
@@ -4252,7 +4306,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 200613,
       "name": "Your Ghost",
       "url": "https://open.spotify.com/track/1itLAVoiQi49DTjW3dRtNS"

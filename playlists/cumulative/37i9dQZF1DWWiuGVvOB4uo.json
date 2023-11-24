@@ -2122,7 +2122,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 217573,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/47GwIvmWNwmzurul1rFyJ2"
@@ -3302,6 +3302,24 @@
     {
       "album": {
         "name": "Make You Feel My Love",
+        "url": "https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L"
+      },
+      "artists": [
+        {
+          "name": "Morgan St. Douglas",
+          "url": "https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189680,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I"
+    },
+    {
+      "album": {
+        "name": "Make You Feel My Love",
         "url": "https://open.spotify.com/album/7c1D4N6yGZFpNAbDLUtxbo"
       },
       "artists": [
@@ -3316,7 +3334,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 185454,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/1NqYdUGNJXl4kgH3ucvo4D"
@@ -3334,7 +3352,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 144545,
       "name": "Mama Tried",
       "url": "https://open.spotify.com/track/3rf6VnUNCIgWlujpWL5hlE"
@@ -3792,7 +3810,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 152357,
       "name": "positions - Acoustic",
       "url": "https://open.spotify.com/track/1Ca0BlORhLRm0Z3F66gh5t"
@@ -4911,6 +4929,24 @@
     },
     {
       "album": {
+        "name": "Waterfalls",
+        "url": "https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz"
+      },
+      "artists": [
+        {
+          "name": "Tobey Rosen",
+          "url": "https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170884,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf"
+    },
+    {
+      "album": {
         "name": "Watermelon Sugar (Acoustic)",
         "url": "https://open.spotify.com/album/4vljiSAPCLIfX03BwIgRhk"
       },
@@ -4922,7 +4958,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 183093,
       "name": "Watermelon Sugar - Acoustic",
       "url": "https://open.spotify.com/track/1TZBg0IBHvqfSAlHvVd8eH"
@@ -5312,6 +5348,24 @@
       "duration_ms": 173250,
       "name": "You Get What You Give",
       "url": "https://open.spotify.com/track/7BoCnys48XsoCiJwE6g491"
+    },
+    {
+      "album": {
+        "name": "Your Song",
+        "url": "https://open.spotify.com/album/1OaSVhsJ33mQVXQukPItlv"
+      },
+      "artists": [
+        {
+          "name": "Blended Colours",
+          "url": "https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/5m8CFxNmVxgIUezNyZ3e6e"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWiuGVvOB4uo"

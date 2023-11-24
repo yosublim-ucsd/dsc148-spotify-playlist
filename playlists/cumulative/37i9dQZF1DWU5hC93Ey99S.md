@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-333 songs - 18 hr 12 min
+335 songs - 18 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [BADDER](https://open.spotify.com/track/0Q6vVLxQ6gl6NFMQka3Q9X) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [BADDER](https://open.spotify.com/album/2pxk9vwolPXy353Ru36cIe) | 3:04 | 2023-04-27 |  |
 | [be with you](https://open.spotify.com/track/4GBZ0ZOU9D0pefvZ2V8WCP) | [henri](https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf) | [be with you](https://open.spotify.com/album/0aPSe9U1cK6Q0oFJpvlMcR) | 3:03 | 2023-09-14 |  |
 | [Beautiful Morning](https://open.spotify.com/track/7hETh8TWWZ5u2oI0OhieCL) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Little Love](https://open.spotify.com/album/793CKt4Qo8QvaOx2uWkhst) | 3:07 | 2023-04-13 |  |
+| [Believe In Myself](https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Believe In Myself](https://open.spotify.com/album/5ngmMrPiCbLRleKZXj3zqV) | 3:41 | 2023-11-23 |  |
 | [Beside Me](https://open.spotify.com/track/0CxBI3tA8ZOUYTS0pPX45g) | [Jend](https://open.spotify.com/artist/56WlN4e9YbaEI8KdXaFgTN) | [Beside Me](https://open.spotify.com/album/7muAHpfi1dzcITcDKnjdAc) | 2:20 | 2023-06-08 |  |
 | [Better Days](https://open.spotify.com/track/4GUC41StA7bwWyG3Ry3KAb) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [Better Days](https://open.spotify.com/album/47Tp9SOFl0hF6snQX8I0a2) | 1:47 | 2023-11-09 |  |
 | [Better When You're Here](https://open.spotify.com/track/6qcuf0AmQmrjPPc10Ovhax) | [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL), [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij) | [Better When You're Here](https://open.spotify.com/album/6iaLrXWXvl0yFGhN6xR5z5) | 3:20 | 2023-04-13 |  |
@@ -288,6 +289,7 @@
 | [The Fall](https://open.spotify.com/track/5FvGI8KtImlEbOsvEW3pfX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:16 | 2023-04-13 |  |
 | [The Horizon \(With You\)](https://open.spotify.com/track/0TO3DquQQvJDchx14UOKBF) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [The Horizon \(With You\)](https://open.spotify.com/album/4GO1A8lXlVrAqy0It5up3Q) | 3:07 | 2023-08-31 |  |
 | [then i run :/](https://open.spotify.com/track/5EYKxUeaetAdCefb5UV6JK) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [then i run :/](https://open.spotify.com/album/3iAokiWChaHbgOzMil9WUm) | 3:15 | 2023-08-03 |  |
+| [THERE 4 U](https://open.spotify.com/track/214XTwNwwp16zM1id05Xxj) | [Alex LeMirage](https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu) | [THERE 4 U](https://open.spotify.com/album/0lSwV1L7rakokVE9Uny2Nf) | 3:20 | 2023-11-23 |  |
 | [There's Another Life 4 U](https://open.spotify.com/track/4LiZi2fbEIxcC9tZUtu0WW) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [There's Another Life 4 U / So Long](https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa) | 3:33 | 2023-04-13 |  |
 | [Think About Me](https://open.spotify.com/track/7axdUvn03RFWqD7mnJGoir) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Swedish Red Elephant](https://open.spotify.com/artist/6fT9phXpEYVm2zB0QzGqDJ) | [Think About Me](https://open.spotify.com/album/7083s09Camu5zbVWYuzVbo) | 3:07 | 2023-08-24 |  |
 | [thinkin' about you](https://open.spotify.com/track/5IRzClFKHGNfPhQFhKD2IP) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U) | [thinkin' about you](https://open.spotify.com/album/03nqonZ3inIazXypenyqLl) | 2:17 | 2023-07-28 |  |

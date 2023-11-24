@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Music that's hard to define but easy to love. Cover: Thelma Plum\n",
+  "description": "Music that's hard to define but easy to love. Cover: Lime Cordiale\n",
   "name": "Front Left",
   "tracks": [
     {
@@ -548,6 +548,24 @@
       "duration_ms": 177729,
       "name": "About U",
       "url": "https://open.spotify.com/track/5YbQiHdLvjDYxoycsViPXM"
+    },
+    {
+      "album": {
+        "name": "Adam",
+        "url": "https://open.spotify.com/album/75zWtv9nKbJ4EgEh0yCpHZ"
+      },
+      "artists": [
+        {
+          "name": "Lotte Gallagher",
+          "url": "https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196388,
+      "name": "Adam",
+      "url": "https://open.spotify.com/track/40RVEzCRBmQpMQFL6KxNnV"
     },
     {
       "album": {
@@ -2716,7 +2734,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 132213,
       "name": "Broken is the man",
       "url": "https://open.spotify.com/track/7BwnU39GlAArxm3JmQWcRp"
@@ -5932,6 +5950,24 @@
       "duration_ms": 216189,
       "name": "Every Day's A Lesson In Humility",
       "url": "https://open.spotify.com/track/0rUHnNylp4QiqLOx3hL2EY"
+    },
+    {
+      "album": {
+        "name": "Every Time I Think I'm Happy",
+        "url": "https://open.spotify.com/album/3VBGJNajYbgj3q9vrI7Tp5"
+      },
+      "artists": [
+        {
+          "name": "Greta Stanley",
+          "url": "https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238333,
+      "name": "Every Time I Think I'm Happy",
+      "url": "https://open.spotify.com/track/1QSv4o67AsimQlKnpskKLX"
     },
     {
       "album": {
@@ -9424,7 +9460,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 161600,
       "name": "I dropped the bottle",
       "url": "https://open.spotify.com/track/2Q0mGTS4rOEnl8Z0VwSFFc"
@@ -9908,7 +9944,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 149280,
       "name": "I'm Done",
       "url": "https://open.spotify.com/track/2OfPiMCN1oV3lFgh6mO0vQ"
@@ -10006,7 +10042,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 169472,
       "name": "I've Been In Love",
       "url": "https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo"
@@ -12307,6 +12343,24 @@
     },
     {
       "album": {
+        "name": "5 Stages",
+        "url": "https://open.spotify.com/album/3npBYJtVo5rNcZVGm6gqua"
+      },
+      "artists": [
+        {
+          "name": "Molly Millington",
+          "url": "https://open.spotify.com/artist/52GBEgAVGUOB8bXQQ4s9aF"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143753,
+      "name": "Me and My Denial",
+      "url": "https://open.spotify.com/track/4FOP33q79z94gHxEvi2sq3"
+    },
+    {
+      "album": {
         "name": "Medicine",
         "url": "https://open.spotify.com/album/4PsV0TGDBHtMwcc3rMyYaP"
       },
@@ -12510,7 +12564,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 248135,
       "name": "Midwest",
       "url": "https://open.spotify.com/track/5GDjtfw6yBjAuTGQrrQ6XD"
@@ -14563,6 +14617,24 @@
     },
     {
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5noUoR7axB7PlLJbulwpmz"
+      },
+      "artists": [
+        {
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107232,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7yj7Ju3KQ0oBDS38MuXwON"
+    },
+    {
+      "album": {
         "name": "Summer",
         "url": "https://open.spotify.com/album/1M7I2M0fVqa2QqbeoDD7kq"
       },
@@ -14654,6 +14726,24 @@
       "duration_ms": 172310,
       "name": "Peace",
       "url": "https://open.spotify.com/track/1g7uHUk3gHVYI0FjKCvJYa"
+    },
+    {
+      "album": {
+        "name": "Pedestal",
+        "url": "https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261798,
+      "name": "Pedestal",
+      "url": "https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx"
     },
     {
       "album": {
@@ -17060,7 +17150,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 186466,
       "name": "Slugs",
       "url": "https://open.spotify.com/track/4iTX1HFVrva7chgeMaeR4d"
@@ -19255,6 +19345,24 @@
     },
     {
       "album": {
+        "name": "THE WAY",
+        "url": "https://open.spotify.com/album/46a5l96JYADaY1NXA0bTDi"
+      },
+      "artists": [
+        {
+          "name": "KIAN",
+          "url": "https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155428,
+      "name": "THE WAY",
+      "url": "https://open.spotify.com/track/18z7n9keoWJQH13BiZEKTs"
+    },
+    {
+      "album": {
         "name": "The Way It Works",
         "url": "https://open.spotify.com/album/30mp3HhxjhPEuZacWBTam7"
       },
@@ -19924,7 +20032,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 181586,
       "name": "Touching Yourself",
       "url": "https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n"
@@ -20684,6 +20792,24 @@
       "duration_ms": 164240,
       "name": "Wasting Away",
       "url": "https://open.spotify.com/track/0rJ0SYEc5UGjgQuDFozKer"
+    },
+    {
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220311,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr"
     },
     {
       "album": {

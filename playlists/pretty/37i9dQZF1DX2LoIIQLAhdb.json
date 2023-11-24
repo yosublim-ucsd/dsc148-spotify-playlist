@@ -1,15 +1,31 @@
 {
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Nej",
-  "num_followers": 166246,
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Franglish",
+  "num_followers": 166318,
   "original_name": "R&Bae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTFlMzYyYjc0YmFmNzFjNjZlODI1ZjhhOTdkNTU1YTZmNWIwYzRl",
+  "snapshot_id": "MCxhZjk3YjkwNGY1ZWZhOGU5YTI3ZDAzMjExODhlNGFhMmJjYzAxNWYx",
   "tracks": [
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "MOOD3 (Glish)",
+        "url": "https://open.spotify.com/album/1WnYvTAoJM8BfXj4DpLCYR"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 211180,
+      "name": "Bolingo",
+      "url": "https://open.spotify.com/track/0P6QbrmnUbxbriPFNcBzWe"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "ATHENA",
         "url": "https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP"
@@ -18,18 +34,14 @@
         {
           "name": "Nej",
           "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 186906,
-      "name": "Pardonne-moi",
-      "url": "https://open.spotify.com/track/4JOdBq2YxMlPhUdlVOzzd7"
+      "duration_ms": 191416,
+      "name": "Warda",
+      "url": "https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "era 24",
         "url": "https://open.spotify.com/album/1Owd1dHKk0BH8gKtWH7KPL"
@@ -49,7 +61,23 @@
       "url": "https://open.spotify.com/track/2iU2zIwf1swwLUTMLkb5NN"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "Ghetto",
+        "url": "https://open.spotify.com/album/3Q3X8WomzpzwEWCC8bjoH6"
+      },
+      "artists": [
+        {
+          "name": "Merveille",
+          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
+        }
+      ],
+      "duration_ms": 137437,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/0dwT3Ao581GbtLCSzX1zRz"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "Au suivant",
         "url": "https://open.spotify.com/album/6ckMeHqNLxSIHSWVpXQyA7"
@@ -65,7 +93,7 @@
       "url": "https://open.spotify.com/track/6O6071g2kIG6A78TMiF3Fz"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "Allo",
         "url": "https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD"
@@ -85,7 +113,7 @@
       "url": "https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "Luva",
         "url": "https://open.spotify.com/album/5ncmjE3vxiuOCqcwyuEjhN"
@@ -105,107 +133,31 @@
       "url": "https://open.spotify.com/track/7bDv1BzoGPSnniq1Xe0vvG"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
-        "name": "MOOD3 (Glish)",
-        "url": "https://open.spotify.com/album/1WnYvTAoJM8BfXj4DpLCYR"
+        "name": "One Shot",
+        "url": "https://open.spotify.com/album/3ckCqfuPbJrufOimBv51mh"
       },
       "artists": [
         {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 211180,
-      "name": "Bolingo",
-      "url": "https://open.spotify.com/track/0P6QbrmnUbxbriPFNcBzWe"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "La guitare suit la m\u00e9lo",
-        "url": "https://open.spotify.com/album/0cBCT3uU5iywNCzTXrAaLz"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
         },
         {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
-        }
-      ],
-      "duration_ms": 189120,
-      "name": "La guitare suit la m\u00e9lo",
-      "url": "https://open.spotify.com/track/5BOfwzK5yI9sL2uit0fHIG"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "Ghetto",
-        "url": "https://open.spotify.com/album/3Q3X8WomzpzwEWCC8bjoH6"
-      },
-      "artists": [
+          "name": "JEY BROWNIE",
+          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
+        },
         {
-          "name": "Merveille",
-          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
+          "name": "Marjinal",
+          "url": "https://open.spotify.com/artist/2kw3kVYH86s8K0O4Pebofm"
         }
       ],
-      "duration_ms": 137437,
-      "name": "Ghetto",
-      "url": "https://open.spotify.com/track/0dwT3Ao581GbtLCSzX1zRz"
+      "duration_ms": 105150,
+      "name": "One Shot",
+      "url": "https://open.spotify.com/track/0xg5ABhF24UFZ20SUntmMu"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "Joli coeur",
-        "url": "https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd"
-      },
-      "artists": [
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Joli coeur",
-      "url": "https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "ATHENA",
-        "url": "https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP"
-      },
-      "artists": [
-        {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
-        }
-      ],
-      "duration_ms": 191416,
-      "name": "Warda",
-      "url": "https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "Hokage",
-        "url": "https://open.spotify.com/album/67hwyicW6wPonYbfc4rjet"
-      },
-      "artists": [
-        {
-          "name": "SenSey'",
-          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
-        }
-      ],
-      "duration_ms": 152813,
-      "name": "Coco & Chanel",
-      "url": "https://open.spotify.com/track/3UfSihvkEvTWNH7sFCKB3Q"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "Dans La Chambre / Money",
         "url": "https://open.spotify.com/album/2uhMxgJf8jLDnnDvH4kJ1x"
@@ -225,59 +177,79 @@
       "url": "https://open.spotify.com/track/2pMVcip68iC4QhkyHsfbVt"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
-        "name": "Emma'a",
-        "url": "https://open.spotify.com/album/492YAgwbV47RfRlhs2GA9w"
+        "name": "La guitare suit la m\u00e9lo",
+        "url": "https://open.spotify.com/album/0cBCT3uU5iywNCzTXrAaLz"
       },
       "artists": [
         {
-          "name": "Emma'a",
-          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
         },
         {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
         }
       ],
-      "duration_ms": 124906,
-      "name": "Katana (feat. Jungeli)",
-      "url": "https://open.spotify.com/track/7wdSNcLfqVXJHcECtEZ5ZI"
+      "duration_ms": 189120,
+      "name": "La guitare suit la m\u00e9lo",
+      "url": "https://open.spotify.com/track/5BOfwzK5yI9sL2uit0fHIG"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
-        "name": "Parler de nous",
-        "url": "https://open.spotify.com/album/3lVI7Rh4ow2Yqs6RQL56Ds"
+        "name": "Joli coeur",
+        "url": "https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd"
       },
       "artists": [
         {
-          "name": "Imen Es",
-          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
         }
       ],
-      "duration_ms": 193103,
-      "name": "Parler de nous",
-      "url": "https://open.spotify.com/track/32YBIhzebjwpqwSYZbDiu9"
+      "duration_ms": 194466,
+      "name": "Joli coeur",
+      "url": "https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
-        "name": "London Fever",
-        "url": "https://open.spotify.com/album/6qqoF7rmeABxVZkSVnZb9V"
+        "name": "ATHENA",
+        "url": "https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP"
       },
       "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        },
         {
           "name": "Tayc",
           "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 202106,
-      "name": "London Fever",
-      "url": "https://open.spotify.com/track/3itDCKPwr1kwOo9TIgycIA"
+      "duration_ms": 186906,
+      "name": "Pardonne-moi",
+      "url": "https://open.spotify.com/track/4JOdBq2YxMlPhUdlVOzzd7"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "D\u00c9SOL\u00c9 POURQUOI ?",
+        "url": "https://open.spotify.com/album/6bBPLPUc1eRmCJQ8nHpMIc"
+      },
+      "artists": [
+        {
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "D\u00c9SOL\u00c9 POURQUOI ?",
+      "url": "https://open.spotify.com/track/61eXlvoIlXXuO64Nal87VO"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "Drama (Partie II)",
         "url": "https://open.spotify.com/album/0EsDUFsahyHF3yksO3o5vW"
@@ -297,95 +269,23 @@
       "url": "https://open.spotify.com/track/11R3OU6DbqqqKPyXuPD9qM"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
-        "name": "D\u00e9lire (feat. Tiakola)",
-        "url": "https://open.spotify.com/album/459LQDfdX2DMzsymKkRRfP"
+        "name": "Parler de nous",
+        "url": "https://open.spotify.com/album/3lVI7Rh4ow2Yqs6RQL56Ds"
       },
       "artists": [
         {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
         }
       ],
-      "duration_ms": 206720,
-      "name": "D\u00e9lire (feat. Tiakola)",
-      "url": "https://open.spotify.com/track/5JzxQS6OW4GEruKqShvUo8"
+      "duration_ms": 193103,
+      "name": "Parler de nous",
+      "url": "https://open.spotify.com/track/32YBIhzebjwpqwSYZbDiu9"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "Plus jamais",
-        "url": "https://open.spotify.com/album/1ThA5Ig20ituoUdDKjsi7v"
-      },
-      "artists": [
-        {
-          "name": "Lyna Mahyem",
-          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
-        }
-      ],
-      "duration_ms": 160604,
-      "name": "Plus jamais",
-      "url": "https://open.spotify.com/track/0ppnuARg9o6Alh2QLXHZse"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "Comme toi (Acoustique)",
-        "url": "https://open.spotify.com/album/3jIvEB8gjgp40VnFJFBl9s"
-      },
-      "artists": [
-        {
-          "name": "Still Fresh",
-          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Comme toi (Acoustique)",
-      "url": "https://open.spotify.com/track/1acFKTNboEq5oBVI0BumWX"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "Samira 3",
-        "url": "https://open.spotify.com/album/5CFFfeCizwxS98Dlnhaixv"
-      },
-      "artists": [
-        {
-          "name": "Scridge",
-          "url": "https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU"
-        },
-        {
-          "name": "Isleym",
-          "url": "https://open.spotify.com/artist/3vw5HmeFoWnWYhcOpB8INb"
-        }
-      ],
-      "duration_ms": 207307,
-      "name": "Samira 3",
-      "url": "https://open.spotify.com/track/3BYP7bPPxttHpYQfzdyBuz"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "Carry Me",
-        "url": "https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 223073,
-      "name": "Carry Me",
-      "url": "https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "R\u00e9silience",
         "url": "https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2"
@@ -405,43 +305,127 @@
       "url": "https://open.spotify.com/track/0wzYG3c6CaroEAz4wTPNVD"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
-        "name": "Pi\u00e8ce Ma\u00eetresse",
-        "url": "https://open.spotify.com/album/3ZAiBEiCKVYwdeiWHEYIU3"
+        "name": "Carry Me",
+        "url": "https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs"
       },
       "artists": [
         {
-          "name": "Ma\u00efssa",
-          "url": "https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y"
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 176423,
-      "name": "Trahison",
-      "url": "https://open.spotify.com/track/4KlcmzQslGv5RDpGLEykG9"
+      "duration_ms": 223073,
+      "name": "Carry Me",
+      "url": "https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
-        "name": "Double Jeu",
-        "url": "https://open.spotify.com/album/7siHw2KsKpvxF3QWIaFAz2"
+        "name": "D\u00e9lire (feat. Tiakola)",
+        "url": "https://open.spotify.com/album/459LQDfdX2DMzsymKkRRfP"
       },
       "artists": [
         {
-          "name": "Awa Imani",
-          "url": "https://open.spotify.com/artist/25b5cIThNFVHmLF2DQ814i"
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
         },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 206720,
+      "name": "D\u00e9lire (feat. Tiakola)",
+      "url": "https://open.spotify.com/track/5JzxQS6OW4GEruKqShvUo8"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "Wine Slow",
+        "url": "https://open.spotify.com/album/5m9GW55aDkffBclwaOYB6L"
+      },
+      "artists": [
+        {
+          "name": "Dof'",
+          "url": "https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr"
+        }
+      ],
+      "duration_ms": 181481,
+      "name": "Wine Slow",
+      "url": "https://open.spotify.com/track/5Spn4k5ScY07K4tiNka9G7"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "Samira 3",
+        "url": "https://open.spotify.com/album/5CFFfeCizwxS98Dlnhaixv"
+      },
+      "artists": [
+        {
+          "name": "Scridge",
+          "url": "https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU"
+        },
+        {
+          "name": "Isleym",
+          "url": "https://open.spotify.com/artist/3vw5HmeFoWnWYhcOpB8INb"
+        }
+      ],
+      "duration_ms": 207307,
+      "name": "Samira 3",
+      "url": "https://open.spotify.com/track/3BYP7bPPxttHpYQfzdyBuz"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "Plus jamais",
+        "url": "https://open.spotify.com/album/1ThA5Ig20ituoUdDKjsi7v"
+      },
+      "artists": [
         {
           "name": "Lyna Mahyem",
           "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
         }
       ],
-      "duration_ms": 164677,
-      "name": "Double Jeu",
-      "url": "https://open.spotify.com/track/5CkrxFlXXBSLqs3cslTnpF"
+      "duration_ms": 160604,
+      "name": "Plus jamais",
+      "url": "https://open.spotify.com/track/0ppnuARg9o6Alh2QLXHZse"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "Hokage",
+        "url": "https://open.spotify.com/album/67hwyicW6wPonYbfc4rjet"
+      },
+      "artists": [
+        {
+          "name": "SenSey'",
+          "url": "https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5"
+        }
+      ],
+      "duration_ms": 152813,
+      "name": "Coco & Chanel",
+      "url": "https://open.spotify.com/track/3UfSihvkEvTWNH7sFCKB3Q"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "London Fever",
+        "url": "https://open.spotify.com/album/6qqoF7rmeABxVZkSVnZb9V"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "London Fever",
+      "url": "https://open.spotify.com/track/3itDCKPwr1kwOo9TIgycIA"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "Daddy 9",
         "url": "https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa"
@@ -461,7 +445,43 @@
       "url": "https://open.spotify.com/track/4ZhuivUPhDFWj9rjImvyYM"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "Double Jeu",
+        "url": "https://open.spotify.com/album/7siHw2KsKpvxF3QWIaFAz2"
+      },
+      "artists": [
+        {
+          "name": "Awa Imani",
+          "url": "https://open.spotify.com/artist/25b5cIThNFVHmLF2DQ814i"
+        },
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        }
+      ],
+      "duration_ms": 164677,
+      "name": "Double Jeu",
+      "url": "https://open.spotify.com/track/5CkrxFlXXBSLqs3cslTnpF"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "Comme toi (Acoustique)",
+        "url": "https://open.spotify.com/album/3jIvEB8gjgp40VnFJFBl9s"
+      },
+      "artists": [
+        {
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Comme toi (Acoustique)",
+      "url": "https://open.spotify.com/track/1acFKTNboEq5oBVI0BumWX"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "Pas Les Mots",
         "url": "https://open.spotify.com/album/6WyzXWdIMI09xHThKp8Hbt"
@@ -477,7 +497,7 @@
       "url": "https://open.spotify.com/track/12WqCvcP9QJl4PpmSYDIyt"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "Quelqu'un d'autre",
         "url": "https://open.spotify.com/album/4PtfBRspzSbF2D1Wx0dIxh"
@@ -493,7 +513,7 @@
       "url": "https://open.spotify.com/track/4e4hmNgPXUzfoANBzZbV9h"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "Pourquoi",
         "url": "https://open.spotify.com/album/2OPzyKmOwQErxw9sxWXbLd"
@@ -509,59 +529,27 @@
       "url": "https://open.spotify.com/track/1ivRvCyLMNSWuVZ25a9rf6"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
-        "name": "Wine Slow",
-        "url": "https://open.spotify.com/album/5m9GW55aDkffBclwaOYB6L"
+        "name": "Emma'a",
+        "url": "https://open.spotify.com/album/492YAgwbV47RfRlhs2GA9w"
       },
       "artists": [
         {
-          "name": "Dof'",
-          "url": "https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr"
-        }
-      ],
-      "duration_ms": 181481,
-      "name": "Wine Slow",
-      "url": "https://open.spotify.com/track/5Spn4k5ScY07K4tiNka9G7"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "Hollandaise",
-        "url": "https://open.spotify.com/album/7ezf5Jqi7MmodNkl2rFZOQ"
-      },
-      "artists": [
-        {
-          "name": "Hulk Van JMF",
-          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
-        }
-      ],
-      "duration_ms": 158352,
-      "name": "Hollandaise",
-      "url": "https://open.spotify.com/track/0rQV3d6ckeCZAQrIvOaICE"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "Plus fort",
-        "url": "https://open.spotify.com/album/3uObZqyRFN3G78ywP9xVpk"
-      },
-      "artists": [
-        {
-          "name": "Minissia",
-          "url": "https://open.spotify.com/artist/7grHO7fIKR0mfOLo5BEFBl"
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
         },
         {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/5ndUyzzVSnOtUYoBsI1m5v"
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
         }
       ],
-      "duration_ms": 176326,
-      "name": "Plus fort",
-      "url": "https://open.spotify.com/track/7e1meVSbvi7Khq18QL0Wbn"
+      "duration_ms": 124906,
+      "name": "Katana (feat. Jungeli)",
+      "url": "https://open.spotify.com/track/7wdSNcLfqVXJHcECtEZ5ZI"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "Oublie ton ex",
         "url": "https://open.spotify.com/album/2u7GuKbKtA2Nf11DcCi7jl"
@@ -577,7 +565,23 @@
       "url": "https://open.spotify.com/track/1yphWz5bG21tINheF4Ud9R"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "Ti Ki Da",
+        "url": "https://open.spotify.com/album/7GUiNTPVHZYiI77Ao6CiJV"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        }
+      ],
+      "duration_ms": 161060,
+      "name": "Ti Ki Da",
+      "url": "https://open.spotify.com/track/2yWpYK9STGmtCryb95sJvU"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "Parcours",
         "url": "https://open.spotify.com/album/2f2tSZLBzav0f2YI1cKMIA"
@@ -593,23 +597,39 @@
       "url": "https://open.spotify.com/track/5SuJbEnNmNoBT44In361J2"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
-        "name": "Cardio",
-        "url": "https://open.spotify.com/album/4oVJWi6TrzezKEUJC32gBM"
+        "name": "Pi\u00e8ce Ma\u00eetresse",
+        "url": "https://open.spotify.com/album/3ZAiBEiCKVYwdeiWHEYIU3"
       },
       "artists": [
         {
-          "name": "LIMO",
-          "url": "https://open.spotify.com/artist/5xAlCUQtUJeKkomigruxxR"
+          "name": "Ma\u00efssa",
+          "url": "https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y"
         }
       ],
-      "duration_ms": 154666,
-      "name": "Cardio",
-      "url": "https://open.spotify.com/track/31L0exaoUdAnzx9emY9zYU"
+      "duration_ms": 176423,
+      "name": "Trahison",
+      "url": "https://open.spotify.com/track/4KlcmzQslGv5RDpGLEykG9"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "Hollandaise",
+        "url": "https://open.spotify.com/album/7ezf5Jqi7MmodNkl2rFZOQ"
+      },
+      "artists": [
+        {
+          "name": "Hulk Van JMF",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        }
+      ],
+      "duration_ms": 158352,
+      "name": "Hollandaise",
+      "url": "https://open.spotify.com/track/0rQV3d6ckeCZAQrIvOaICE"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "Insomnie (feat. Ya Levis)",
         "url": "https://open.spotify.com/album/4e0dL7zfHXkmNidenDkufa"
@@ -629,39 +649,7 @@
       "url": "https://open.spotify.com/track/08jAdH80Up9QDh4YEKGeiB"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "Ti Ki Da",
-        "url": "https://open.spotify.com/album/7GUiNTPVHZYiI77Ao6CiJV"
-      },
-      "artists": [
-        {
-          "name": "Lisandro Cuxi",
-          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
-        }
-      ],
-      "duration_ms": 161060,
-      "name": "Ti Ki Da",
-      "url": "https://open.spotify.com/track/2yWpYK9STGmtCryb95sJvU"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
-      "album": {
-        "name": "Pas deux fois",
-        "url": "https://open.spotify.com/album/4v04mvu8sazAy4w0bbtHWi"
-      },
-      "artists": [
-        {
-          "name": "Emma'a",
-          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
-        }
-      ],
-      "duration_ms": 164584,
-      "name": "Pas deux fois",
-      "url": "https://open.spotify.com/track/7rHVUZyPGUAUobgJ4raVjQ"
-    },
-    {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
         "name": "Garde Le",
         "url": "https://open.spotify.com/album/1juOthaPbiYisCAAi4sJsv"
@@ -681,20 +669,56 @@
       "url": "https://open.spotify.com/track/7g8S3AlcYYrUuXjUt0q292"
     },
     {
-      "added_at": "2023-11-16 23:01:00",
+      "added_at": "2023-11-23 23:01:00",
       "album": {
-        "name": "RALENTIS",
-        "url": "https://open.spotify.com/album/3oRMxvh84xIQUVJJxyDqQM"
+        "name": "Plus fort",
+        "url": "https://open.spotify.com/album/3uObZqyRFN3G78ywP9xVpk"
       },
       "artists": [
         {
-          "name": "Still Fresh",
-          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+          "name": "Minissia",
+          "url": "https://open.spotify.com/artist/7grHO7fIKR0mfOLo5BEFBl"
+        },
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/5ndUyzzVSnOtUYoBsI1m5v"
         }
       ],
-      "duration_ms": 132515,
-      "name": "RALENTIS",
-      "url": "https://open.spotify.com/track/2czrgYc5DCObCgvuxboSx8"
+      "duration_ms": 176326,
+      "name": "Plus fort",
+      "url": "https://open.spotify.com/track/7e1meVSbvi7Khq18QL0Wbn"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "Cardio",
+        "url": "https://open.spotify.com/album/4oVJWi6TrzezKEUJC32gBM"
+      },
+      "artists": [
+        {
+          "name": "LIMO",
+          "url": "https://open.spotify.com/artist/5xAlCUQtUJeKkomigruxxR"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/31L0exaoUdAnzx9emY9zYU"
+    },
+    {
+      "added_at": "2023-11-23 23:01:00",
+      "album": {
+        "name": "Pas deux fois",
+        "url": "https://open.spotify.com/album/4v04mvu8sazAy4w0bbtHWi"
+      },
+      "artists": [
+        {
+          "name": "Emma'a",
+          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        }
+      ],
+      "duration_ms": 164584,
+      "name": "Pas deux fois",
+      "url": "https://open.spotify.com/track/7rHVUZyPGUAUobgJ4raVjQ"
     }
   ],
   "unique_name": "R&Bae",

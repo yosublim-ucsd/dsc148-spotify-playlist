@@ -1,12 +1,12 @@
 {
   "description": "Rimas finas para inspirarte en el jale. ",
-  "num_followers": 104911,
+  "num_followers": 105010,
   "original_name": "Chambeando con Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzBiYTNkZWFlYTVhMmExNjRmNDA5YTIyNGM0ZmVhY2VlN2RiZGU0",
+  "snapshot_id": "MCwxOTMzNmQ1N2QwMDU4NmZiZTBiNDA3OTUwNzMwMmQyMzdkNTE0Y2Jk",
   "tracks": [
     {
       "added_at": "2023-10-20 01:00:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
+        "name": "Silencio En El Callejon",
+        "url": "https://open.spotify.com/album/60HUuuZMNdeWtayq06B0NG"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 180062,
+      "name": "Silencio En El Callejon",
+      "url": "https://open.spotify.com/track/4erYu7HwocPKfx8EqcPY9f"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
         "name": "Suena En Mi Barrio",
         "url": "https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 233142,
       "name": "Suena En Mi Barrio",
       "url": "https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "Silencio En El Callejon",
-        "url": "https://open.spotify.com/album/60HUuuZMNdeWtayq06B0NG"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 180062,
-      "name": "Silencio En El Callejon",
-      "url": "https://open.spotify.com/track/4erYu7HwocPKfx8EqcPY9f"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -1727,6 +1727,30 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
+        "name": "Canciones Mamalonas 2",
+        "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "Eirian Music",
+          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
+        }
+      ],
+      "duration_ms": 202597,
+      "name": "No Que No Eras Fan",
+      "url": "https://open.spotify.com/track/41Y8W6QoYpAHO0vw0FpoqM"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
         "name": "West Gold",
         "url": "https://open.spotify.com/album/4cM23aZSWB8PP6LtYRNXrs"
       },
@@ -1827,30 +1851,6 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
-        "name": "Canciones Mamalonas 2",
-        "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "Eirian Music",
-          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
-        }
-      ],
-      "duration_ms": 202597,
-      "name": "No Que No Eras Fan",
-      "url": "https://open.spotify.com/track/41Y8W6QoYpAHO0vw0FpoqM"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
         "name": "Hispanic Causing Panic",
         "url": "https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX"
       },
@@ -1903,18 +1903,18 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
-        "name": "Hecho En Mexico",
-        "url": "https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir"
+        "name": "Afuera Que Tengan Miedo",
+        "url": "https://open.spotify.com/album/5RrtVeQtn3IeueXIIKNr51"
       },
       "artists": [
         {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
-      "duration_ms": 262693,
-      "name": "Hecho En Mexico",
-      "url": "https://open.spotify.com/track/7kCp04jo6XWGVC3ZENX1vI"
+      "duration_ms": 163000,
+      "name": "Afuera Que Tengan Miedo",
+      "url": "https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -1939,18 +1939,18 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
-        "name": "Afuera Que Tengan Miedo",
-        "url": "https://open.spotify.com/album/5RrtVeQtn3IeueXIIKNr51"
+        "name": "Hecho En Mexico",
+        "url": "https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir"
       },
       "artists": [
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Afuera Que Tengan Miedo",
-      "url": "https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g"
+      "duration_ms": 262693,
+      "name": "Hecho En Mexico",
+      "url": "https://open.spotify.com/track/7kCp04jo6XWGVC3ZENX1vI"
     }
   ],
   "unique_name": "Chambeando con Hip-Hop",

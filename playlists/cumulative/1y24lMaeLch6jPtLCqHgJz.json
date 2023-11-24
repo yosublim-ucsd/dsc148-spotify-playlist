@@ -4845,6 +4845,24 @@
     },
     {
       "album": {
+        "name": "The Darkness",
+        "url": "https://open.spotify.com/album/1XWG1uWWEu4ojBEPSNakYK"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181982,
+      "name": "The Darkness",
+      "url": "https://open.spotify.com/track/4tR8fRaxfqK8cbBTGUW4CV"
+    },
+    {
+      "album": {
         "name": "The Deal",
         "url": "https://open.spotify.com/album/2m1rt9ckFcIfeAMUJwewMF"
       },

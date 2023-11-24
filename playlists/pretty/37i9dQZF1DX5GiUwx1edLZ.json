@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 276988,
+  "num_followers": 276987,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTRjZDEzZGMyMWRiMTg3YTkzNWUzZWI1NzI3NWFmNzdkNGMyYWE0",
+  "snapshot_id": "MCwyODI5NmI2MDRkYmQwZTk4ZDJmN2NiODcyYzgzZWYwNzVjMjMzYzkz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Smoke Filled Room (Acoustic Session)",
+        "url": "https://open.spotify.com/album/3VB0x2kFdt2T2ytvT3071d"
+      },
+      "artists": [
+        {
+          "name": "Mako",
+          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
+        }
+      ],
+      "duration_ms": 189660,
+      "name": "Smoke Filled Room - Acoustic Session",
+      "url": "https://open.spotify.com/track/0ncp94ULTBgS0U3GZD80AC"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Safe With Me (with Audrey Mika) [Acoustic]",
         "url": "https://open.spotify.com/album/1OTXmfSLAWBuAShzey4hJv"
       },
@@ -1011,38 +1027,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Smoke Filled Room (Acoustic Session)",
-        "url": "https://open.spotify.com/album/3VB0x2kFdt2T2ytvT3071d"
+        "name": "Clarity (Remixes)",
+        "url": "https://open.spotify.com/album/2BgayRsdVhn6knKI5cgUFS"
       },
       "artists": [
         {
-          "name": "Mako",
-          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
-        }
-      ],
-      "duration_ms": 189660,
-      "name": "Smoke Filled Room - Acoustic Session",
-      "url": "https://open.spotify.com/track/0ncp94ULTBgS0U3GZD80AC"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "By Your Side (Acoustic) (feat. Tom Grennan)",
-        "url": "https://open.spotify.com/album/7lYiqSYSUOeWFahBbVZYCF"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
         },
         {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+          "name": "Foxes",
+          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
         }
       ],
-      "duration_ms": 191327,
-      "name": "By Your Side (feat. Tom Grennan) - Acoustic",
-      "url": "https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT"
+      "duration_ms": 207960,
+      "name": "Clarity - Zedd Union Mix",
+      "url": "https://open.spotify.com/track/2Nf0RbvVIKcL0SbEziqArb"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1063,22 +1063,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Clarity (Remixes)",
-        "url": "https://open.spotify.com/album/2BgayRsdVhn6knKI5cgUFS"
+        "name": "By Your Side (Acoustic) (feat. Tom Grennan)",
+        "url": "https://open.spotify.com/album/7lYiqSYSUOeWFahBbVZYCF"
       },
       "artists": [
         {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "Foxes",
-          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
         }
       ],
-      "duration_ms": 207960,
-      "name": "Clarity - Zedd Union Mix",
-      "url": "https://open.spotify.com/track/2Nf0RbvVIKcL0SbEziqArb"
+      "duration_ms": 191327,
+      "name": "By Your Side (feat. Tom Grennan) - Acoustic",
+      "url": "https://open.spotify.com/track/1QMSIsTV6lcLCQ9MBHTLhT"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1843,30 +1843,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "This Is What It Feels Like (John Ewbank Classical Remix)",
-        "url": "https://open.spotify.com/album/5CLXV7ugS8VViNfpUdFJrr"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Trevor Guthrie",
-          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
-        },
-        {
-          "name": "John Ewbank",
-          "url": "https://open.spotify.com/artist/16mR35QsbHY5CUlzRHMFnG"
-        }
-      ],
-      "duration_ms": 192724,
-      "name": "This Is What It Feels Like - John Ewbank Classical Remix",
-      "url": "https://open.spotify.com/track/77Rx3xMZWX1NxEUnFwQavQ"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "BED (The BEDtime Mixes)",
         "url": "https://open.spotify.com/album/6N5kkUQ8tqA7EMwtdjFjDT"
       },
@@ -1887,6 +1863,30 @@
       "duration_ms": 177364,
       "name": "BED - Acoustic",
       "url": "https://open.spotify.com/track/6tIc4TnrcyqILXEyx8QKAm"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "This Is What It Feels Like (John Ewbank Classical Remix)",
+        "url": "https://open.spotify.com/album/5CLXV7ugS8VViNfpUdFJrr"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Trevor Guthrie",
+          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
+        },
+        {
+          "name": "John Ewbank",
+          "url": "https://open.spotify.com/artist/16mR35QsbHY5CUlzRHMFnG"
+        }
+      ],
+      "duration_ms": 192724,
+      "name": "This Is What It Feels Like - John Ewbank Classical Remix",
+      "url": "https://open.spotify.com/track/77Rx3xMZWX1NxEUnFwQavQ"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Moon Faces (Acoustic Journey)",
-        "url": "https://open.spotify.com/album/2PKQRTPkOdcgdyBFnu2fK0"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        },
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Lost - Acoustic",
-      "url": "https://open.spotify.com/track/0FMV06iWpotUirc42n1Oj4"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Acoustic Collection (Vol. 1)",
         "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
       },
@@ -1951,6 +1931,26 @@
       "duration_ms": 181240,
       "name": "Finest Hour (feat. Abir) - Acoustic Version",
       "url": "https://open.spotify.com/track/6ZMTQIeV5IZMTOFmVhDziW"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Moon Faces (Acoustic Journey)",
+        "url": "https://open.spotify.com/album/2PKQRTPkOdcgdyBFnu2fK0"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Lost - Acoustic",
+      "url": "https://open.spotify.com/track/0FMV06iWpotUirc42n1Oj4"
     },
     {
       "added_at": "2023-10-06 04:01:00",

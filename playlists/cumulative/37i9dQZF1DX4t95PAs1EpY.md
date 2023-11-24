@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-474 songs - 18 hr 15 min
+475 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Asahi](https://open.spotify.com/track/04feLXA7gbT5yNeT14ARNw) | [Axian](https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Asahi](https://open.spotify.com/album/57IchT3b9pISD00a6tD6Ck) | 2:33 | 2023-08-31 |  |
 | [Astro Chill](https://open.spotify.com/track/0wT5rgH4cWdNJrreXaFeV4) | [The Experience](https://open.spotify.com/artist/2UIQJ7LdWN7Py0eSpUN0IC) | [Astro Chill](https://open.spotify.com/album/5uL83Sc02G0iS1sxcba1zJ) | 1:54 | 2022-09-02 |  |
 | [At ease](https://open.spotify.com/track/6iLW8VkIan14KAwzTNQCsu) | [Sam Blues](https://open.spotify.com/artist/7EDIoewG6iGICXM6Ay9y9R) | [At ease](https://open.spotify.com/album/6gzvNuF1FeTRV8ke5YQXM6) | 2:39 | 2022-11-25 |  |
-| [At Peace](https://open.spotify.com/track/3wqiNJYXsMOF2pn7wDUUE5) | [rjoseph](https://open.spotify.com/artist/2cdb2U5hrSfprEgLTrPDwl) | [At Peace](https://open.spotify.com/album/4v47NkXAulaluWWm8YUyoX) | 2:56 | 2023-02-07 |  |
+| [At Peace](https://open.spotify.com/track/3wqiNJYXsMOF2pn7wDUUE5) | [rjoseph](https://open.spotify.com/artist/2cdb2U5hrSfprEgLTrPDwl) | [At Peace](https://open.spotify.com/album/4v47NkXAulaluWWm8YUyoX) | 2:56 | 2023-02-07 | 2023-11-24 |
 | [Aubade](https://open.spotify.com/track/0gbUFxxYG1tnXjFcsCLNk2) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Aubade](https://open.spotify.com/album/55tPJivAF0H4j5Zy85kVfU) | 1:51 | 2022-08-12 | 2022-11-20 |
 | [Aubade](https://open.spotify.com/track/3vDlW4JNICUAN27xLrYj08) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Aubade](https://open.spotify.com/album/5tgMXvZEChCejwI882yJDy) | 1:51 | 2022-11-11 | 2023-03-18 |
 | [Balmy Evening](https://open.spotify.com/track/0ql5XG2bgqKNGzLGDQAQwM) | [​BT](https://open.spotify.com/artist/3pvYsYDAS81yi4BUfHGiue), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Balmy Evening](https://open.spotify.com/album/66YHRIBJH5XiatLKBPBRb9) | 1:57 | 2023-01-13 | 2023-09-08 |
@@ -81,7 +81,7 @@
 | [Cinnamon](https://open.spotify.com/track/4pyVqxmgjlgKp4PWY9VdJp) | [Tinad](https://open.spotify.com/artist/15CCe8N73vvOy2ZYLEKmFs) | [Cinnamon](https://open.spotify.com/album/6ye2vtm17HqV3Rh74NVZzb) | 2:27 | 2023-02-17 |  |
 | [City Park](https://open.spotify.com/track/4lqEtgytnO3H4tDwLV3Tj3) | [Fleet Francis](https://open.spotify.com/artist/0USAl4ZgyskdW7gADLZkdn) | [City Park](https://open.spotify.com/album/6f5JLzj6RhOYa15xlLAlFX) | 2:30 | 2021-12-07 | 2022-05-27 |
 | [Clear Skies](https://open.spotify.com/track/1N5L6TGOYl4udaEk2UxRu2) | [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq) | [Clear Skies](https://open.spotify.com/album/6i2OcCQDNlpywA5dVDE9UA) | 2:00 | 2022-09-16 |  |
-| [Closer](https://open.spotify.com/track/3EdHF4lKiLFX5zxWw33SvH) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Closer](https://open.spotify.com/album/3uNIXCtYe8Brqj9d7yGf7y) | 2:17 | 2023-06-06 |  |
+| [Closer](https://open.spotify.com/track/3EdHF4lKiLFX5zxWw33SvH) | [Bobby Dreamz BIG](https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD) | [Closer](https://open.spotify.com/album/3uNIXCtYe8Brqj9d7yGf7y) | 2:17 | 2023-06-06 | 2023-11-24 |
 | [Closure](https://open.spotify.com/track/5AoRaygf1Gqd5nk0wWZSMl) | [Nick Wolf](https://open.spotify.com/artist/4j60yxoFJVWkQNs6uaoJms), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [Roadetrix](https://open.spotify.com/artist/7Md5xGlvby3sPI2NLkbYlv) | [Closure](https://open.spotify.com/album/0WIibN3WgfTnFPY1isNNv3) | 2:07 | 2022-10-07 |  |
 | [Cognac](https://open.spotify.com/track/3ULY7sln0jffsuZhVlSnB8) | [Grill Hensler](https://open.spotify.com/artist/0jdnj1iJ03t0r3VM4SIgYc) | [Cognac](https://open.spotify.com/album/3nUgwqbeVV4ZPckOwVrivL) | 2:16 | 2021-12-07 |  |
 | [colors of a night](https://open.spotify.com/track/1ygF2oxp5bjMQctM7c3kxS) | [Antennaah](https://open.spotify.com/artist/6KiVH2JCfM9KczjORaXjGj) | [colors of a night](https://open.spotify.com/album/0pk3a6XFh1WiuhXwCphASp) | 1:56 | 2021-12-07 |  |
@@ -92,6 +92,7 @@
 | [Counting Sheep](https://open.spotify.com/track/3rtsPORAAssL2z26CZl9Qe) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Counting Sheep](https://open.spotify.com/album/17thKKGvAnuKtkVWz6YEGD) | 3:08 | 2021-12-07 |  |
 | [Country House](https://open.spotify.com/track/6s5uGQwee1EJREU4LMjbpt) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Country House](https://open.spotify.com/album/2GHuDcUA8BW1VBC7vYCd0w) | 2:36 | 2023-06-06 |  |
 | [cracks](https://open.spotify.com/track/239wmTGRuJt2W2Bmwc3QvJ) | [cofibrkz](https://open.spotify.com/artist/7t9qw1nmtiXsFdnNrfBEYM) | [cracks](https://open.spotify.com/album/7kb6IX9WRNJgUHGB2wBhGm) | 1:58 | 2023-02-17 |  |
+| [Crudites](https://open.spotify.com/track/2hCbK4MEBZngh6WoDgevzk) | [Luna Rossa](https://open.spotify.com/artist/5KM0Pgy2NxMnZrxtOhM9nW) | [Crudites](https://open.spotify.com/album/0hQ68tu32Ukgng8fmVJMui) | 2:26 | 2023-11-24 |  |
 | [cube](https://open.spotify.com/track/62DXVqz8CdKLH2xsJiRAvE) | [nadezhiko](https://open.spotify.com/artist/6JbECRtgmjNHNUeDaKQgtp) | [cube](https://open.spotify.com/album/1I7pnfVVnQEeWte95QP6Nv) | 2:22 | 2022-02-28 |  |
 | [dandelion](https://open.spotify.com/track/0MKy76vfRDZkPeg4SO2U0b) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [dandelion](https://open.spotify.com/album/492Ybcq5tFbemcEipgwpJQ) | 2:23 | 2023-06-06 |  |
 | [Daybreak](https://open.spotify.com/track/2MdpwUHQLQ7yJwQh9oxksN) | [after noon](https://open.spotify.com/artist/23ZyvK3IS7xXY1COP8KiRW), [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy) | [Daybreak](https://open.spotify.com/album/4i16zC5CPIWVLdD3dFdGgJ) | 2:45 | 2022-06-24 | 2022-10-14 |
@@ -125,7 +126,7 @@
 | [enfold](https://open.spotify.com/track/3hTUNqE8dmgR5yX7ddznM3) | [Leo Zane](https://open.spotify.com/artist/7xIrUrdfYoRUQdcBUGP3di) | [enfold](https://open.spotify.com/album/50En9P08lIcp2Sx8Nvt5Tp) | 1:59 | 2023-06-06 |  |
 | [Engines](https://open.spotify.com/track/4zj7KEYf0YhhTFbrzK7TkI) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Engines](https://open.spotify.com/album/00GKYTcoOE8YZ7KqVngw48) | 2:20 | 2022-09-09 |  |
 | [equator](https://open.spotify.com/track/4132t2oYuNlgzSmsp1E9Tm) | [Howtodie](https://open.spotify.com/artist/4XVDSQtpwsFt4UdTIcBW11) | [equator](https://open.spotify.com/album/5UAdjfXZRTmtuEQdOtHUyc) | 1:16 | 2022-04-15 | 2023-09-16 |
-| [Eternity](https://open.spotify.com/track/0ifMpOXlntHTc8GwMz5F7N) | [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Eternity](https://open.spotify.com/album/7yM4TfZftPssf7rLdk0UF7) | 2:19 | 2023-07-13 |  |
+| [Eternity](https://open.spotify.com/track/0ifMpOXlntHTc8GwMz5F7N) | [Cosmic Koala](https://open.spotify.com/artist/3ARvFGBfNt9K1SIDM9yMwu), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Eternity](https://open.spotify.com/album/7yM4TfZftPssf7rLdk0UF7) | 2:19 | 2023-07-13 | 2023-11-24 |
 | [Evelyn Walk](https://open.spotify.com/track/2pWEy7ChzrcnPYJHATnXq3) | [Clint Is Quinn](https://open.spotify.com/artist/1utD3S9jRGZPWdNeLuoaOx) | [Evelyn Walk](https://open.spotify.com/album/0ichHI0kN9SDEbqJtGxxVq) | 2:37 | 2023-02-07 |  |
 | [Evenings](https://open.spotify.com/track/3FOhZvYB8itMm8QsmpqH8N) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4), [dr\. niar](https://open.spotify.com/artist/2L4otMycTiZnRAHL52RXYU) | [Evenings](https://open.spotify.com/album/2bb61CPegak8pasqni0pMF) | 2:29 | 2022-08-05 |  |
 | [Evergreen Forest](https://open.spotify.com/track/2qrTpPdOoAVbqONnV0p6mN) | [WOOLFSON](https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d) | [Evergreen Forest](https://open.spotify.com/album/1SaDSYQdoE17uanBI6qxes) | 2:10 | 2021-12-07 | 2022-11-26 |
@@ -470,7 +471,7 @@
 | [Warm Breeze](https://open.spotify.com/track/5728OBye3peeIkv9qlps0H) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Warm Breeze](https://open.spotify.com/album/0Bm5guq2GPsGYGhfGo5PJu) | 2:24 | 2021-12-07 | 2022-07-29 |
 | [Warm Breeze](https://open.spotify.com/track/6yqhvnDpwXKxITVp4U76QB) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Warm Breeze](https://open.spotify.com/album/1qpP75rfcwrM7UO1n0KhFH) | 2:24 | 2022-07-29 | 2022-08-19 |
 | [wasabi flow](https://open.spotify.com/track/5dScI6hiDI0kYvVVzlr34Q) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [wasabi flow](https://open.spotify.com/album/73dMTdgtZFuHpIXkzuaFQM) | 2:26 | 2022-07-29 | 2022-11-12 |
-| [Wasting Time](https://open.spotify.com/track/0DTdxoRtvMq4Xejvdds1sa) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [OG Nuage](https://open.spotify.com/artist/1yL3sKU07bFZCMjrMbQ1Jd), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Wasting Time](https://open.spotify.com/album/6zktaEDesPaLKmVpLNzWC1) | 3:18 | 2023-07-13 |  |
+| [Wasting Time](https://open.spotify.com/track/0DTdxoRtvMq4Xejvdds1sa) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [OG Nuage](https://open.spotify.com/artist/1yL3sKU07bFZCMjrMbQ1Jd), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Wasting Time](https://open.spotify.com/album/6zktaEDesPaLKmVpLNzWC1) | 3:18 | 2023-07-13 | 2023-11-24 |
 | [Whats Over There](https://open.spotify.com/track/1HH3LSSd4jiXwJfYonnlAX) | [Fryst](https://open.spotify.com/artist/4uX8CtNxSK7yqTTTKWngAS) | [Whats Over There](https://open.spotify.com/album/4XWTHMGOSFDSQoWVGF6f3M) | 2:19 | 2023-01-13 |  |
 | [When the Time Comes](https://open.spotify.com/track/0jVAASD83TspRi2gG53o6R) | [Gordon](https://open.spotify.com/artist/6Y9LyKatIXZuMSIKI04oTc) | [When the Time Comes](https://open.spotify.com/album/4bPg3cepOhvfIjBn1lHoZ9) | 2:04 | 2021-12-07 | 2022-11-12 |
 | [where flowers sleep](https://open.spotify.com/track/3v8QSwP0xN273LdVZ5oXIR) | [Beamer](https://open.spotify.com/artist/6AbxfHV92ca4w7SK7IN9Md) | [where flowers sleep](https://open.spotify.com/album/2S5fyS2jElimYB3ecwCjMX) | 3:09 | 2023-04-11 |  |

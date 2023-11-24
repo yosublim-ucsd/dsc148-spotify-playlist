@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do trap. Foto: Ig\u00e3o",
-  "num_followers": 135223,
+  "num_followers": 135379,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWFlZmI4MzdlZmRlMWQyODBkNGQ2YTk5MzY0NzI2MjY0M2YwN2U2",
+  "snapshot_id": "MCwzMzI5MTljMTI1YzUxNTkxNzc5MmZkZGUwY2QzYmY2NDRhMGRiNDBj",
   "tracks": [
     {
       "added_at": "2023-11-17 03:01:00",
@@ -175,26 +175,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Dama de Vermelho",
-        "url": "https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V"
-      },
-      "artists": [
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Gree Cassua",
-          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
-        }
-      ],
-      "duration_ms": 162585,
-      "name": "Dama de Vermelho",
-      "url": "https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "237",
         "url": "https://open.spotify.com/album/3VGvkH5X8bhjIV0rSohaVU"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 172003,
       "name": "Leans, Pt. 2",
       "url": "https://open.spotify.com/track/0GsQzTpegvifzQZ4wXsCZ2"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Dama de Vermelho",
+        "url": "https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V"
+      },
+      "artists": [
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        }
+      ],
+      "duration_ms": 162585,
+      "name": "Dama de Vermelho",
+      "url": "https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -855,6 +855,26 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Frenesi",
+        "url": "https://open.spotify.com/album/6O1uVR0awNrBIW53rEDGMA"
+      },
+      "artists": [
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        }
+      ],
+      "duration_ms": 221102,
+      "name": "Frenesi",
+      "url": "https://open.spotify.com/track/2zwnREcg5hVy6rGDs5pf02"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "\u00c9 Quem?",
         "url": "https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 140308,
       "name": "Aumentando os Lucros",
       "url": "https://open.spotify.com/track/6flGT8gHgiS6anHceskTmP"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Frenesi",
-        "url": "https://open.spotify.com/album/6O1uVR0awNrBIW53rEDGMA"
-      },
-      "artists": [
-        {
-          "name": "Azevedo",
-          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
-        },
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        }
-      ],
-      "duration_ms": 221102,
-      "name": "Frenesi",
-      "url": "https://open.spotify.com/track/2zwnREcg5hVy6rGDs5pf02"
     },
     {
       "added_at": "2023-11-17 03:01:00",

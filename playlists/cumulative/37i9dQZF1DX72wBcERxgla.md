@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-438 songs - 22 hr 58 min
+441 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A Minute To Myself](https://open.spotify.com/track/0ZcjEawIY7jFDUTJdK9QkO) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [A Minute To Myself](https://open.spotify.com/album/2WzMQD7VpeIWG14dBHSTru) | 3:02 | 2023-08-17 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/0fmlfBRcoK9vpKPxzcykWX) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/2OijUYhZR1MMnlH0gjAgeH) | 4:04 | 2023-01-12 |  |
 | [A Sleepin' Bee](https://open.spotify.com/track/6BMoH1WjyQuNwKrxP1eVNg) | [Jean Fines](https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7) | [A Sleepin' Bee](https://open.spotify.com/album/11yBQcdGh6062GGt9LE6YZ) | 5:00 | 2022-09-13 |  |
+| [A Thought Of You](https://open.spotify.com/track/2RtX44bwJapdvlQ4BaxyJr) | [Millie Blue](https://open.spotify.com/artist/3Z6Jby1DnvCKJMkHjrwg5P) | [A Thought Of You](https://open.spotify.com/album/0HVBnMRkRn2xnpQ4CLph4z) | 2:28 | 2023-11-24 |  |
 | [A Time For Love](https://open.spotify.com/track/13UkFrEMKkCKkUsjIZbq8p) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [A Time For Love](https://open.spotify.com/album/41mr23Qo6KR4QmvlJEcJPA) | 6:04 | 2022-04-12 |  |
 | [After The Rain](https://open.spotify.com/track/1mLzJfxZVjF9MVUb1AEs8C) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Plays John Coltrane At The Village Vanguard](https://open.spotify.com/album/0utLknrD4Ylp6s4r5KMoPJ) | 3:37 | 2022-04-12 | 2022-04-27 |
 | [Afterhours](https://open.spotify.com/track/3qBjnDMDQrSKXKkBHok6oo) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 2:58 | 2022-04-12 |  |
@@ -228,6 +229,7 @@
 | [Love in the First Degree](https://open.spotify.com/track/3LVaEWRdveFDHotlDaRDLa) | [Elsa Gifford](https://open.spotify.com/artist/2WkJQ6rsCVeyNuVidqTaoW) | [Love in the First Degree](https://open.spotify.com/album/39LNWMSNTxqiOAxqhRrOOa) | 2:46 | 2023-04-13 |  |
 | [Love on a Lonely Street](https://open.spotify.com/track/66GYfa8d7hZDXhzEaIG3Ct) | [Clifford Randall](https://open.spotify.com/artist/0IgcC8a3zHkwen1UvM0DkG) | [Love on a Lonely Street](https://open.spotify.com/album/3XdY17cROlAbonVCRJskmc) | 2:34 | 2023-05-25 |  |
 | [Love Theme](https://open.spotify.com/track/7BBqYC7h3qFjmZYQDmnTxi) | [Louie Martin](https://open.spotify.com/artist/6V322191Co4lw7MgeQdcHu) | [Love Theme](https://open.spotify.com/album/1X5HJijS1ImWbwfMA2rE6a) | 3:42 | 2022-08-10 | 2023-08-11 |
+| [Love's Journey](https://open.spotify.com/track/1iTgYDHG7NvHmPr7uBegFL) | [Harry Reed](https://open.spotify.com/artist/1PFJCooFyvogVUkv1abGgu) | [Love's Journey](https://open.spotify.com/album/4NKmB7swj6Fsg2xF2QIE1h) | 2:22 | 2023-11-24 |  |
 | [Lovely Day](https://open.spotify.com/track/7iZkVyfWkb1AzUwlNUyp3u) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Lovely Day](https://open.spotify.com/album/2AXd3f8LGtKWHQGcvIeoQK) | 3:25 | 2022-09-29 |  |
 | [Lovely Dinner](https://open.spotify.com/track/16gVqGtZqBaWI4PYZg04vx) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Breath of Whiskey](https://open.spotify.com/album/2mdwIIjzYqAW10F2eHk7s9) | 2:56 | 2023-08-10 |  |
 | [Lover Man](https://open.spotify.com/track/57fzmVpvr8OGQ3BkfqUexq) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [Steve Kuhn: Mostly Ballads](https://open.spotify.com/album/2xVes2Z1pyjUToAH1xFWdY) | 4:10 | 2022-04-12 | 2022-06-01 |
@@ -434,13 +436,14 @@
 | [Without A Song](https://open.spotify.com/track/2KxXG6EIywCiYcQuJa8Xwp) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Without A Song](https://open.spotify.com/album/55vOtTdjD34L98MWwl57oU) | 4:20 | 2022-06-14 |  |
 | [Witness of Love](https://open.spotify.com/track/0sX45CnQ5ugC1yUzfiKCSB) | [Michael Stylez](https://open.spotify.com/artist/0pW8YnlmlVXiGBfDH3v8j7) | [Witness of Love](https://open.spotify.com/album/5vfklJRWFT9stLnbAh911T) | 1:56 | 2022-11-10 | 2023-08-26 |
 | [Yesterdays](https://open.spotify.com/track/6o5QXX3jRdzZRSS2WLYTWZ) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [Yesterdays](https://open.spotify.com/album/1v5RhDJlT3IAAx0qXVzzzr) | 2:37 | 2023-06-08 |  |
+| [You and I](https://open.spotify.com/track/3QF1JAkRF11UY4k64dtQUD) | [Mason Olsen](https://open.spotify.com/artist/6wYWUf5SSJPtK0XAOjPgET) | [You and I](https://open.spotify.com/album/6Iq2usdsUcLgrTBd2cDdOW) | 2:35 | 2023-11-24 |  |
 | [You Are Too Beautiful](https://open.spotify.com/track/4t85eFNgqV0nqtImOix3X5) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [You Are Too Beautiful](https://open.spotify.com/album/2uG5Jnbvge8kWBxar1TTad) | 3:32 | 2022-04-12 |  |
 | [You can handle it](https://open.spotify.com/track/26iIjzdLwmSFyXNv75DR0e) | [Winola Weber](https://open.spotify.com/artist/0KfXDCKVMe0yr65RVDFZoL) | [You can handle it](https://open.spotify.com/album/3DH1zOPlkITnfkZ0cLRUIk) | 2:31 | 2023-05-04 |  |
 | [You Could Stay If You Want To](https://open.spotify.com/track/7161s2i9EU8DN8U95qLl8q) | [Zachary Ronin](https://open.spotify.com/artist/47ZLS2xH70Buh5bgghBDLx) | [You Could Stay If You Want To](https://open.spotify.com/album/028nyeG5bPwDuBA8apckk9) | 3:18 | 2023-02-16 |  |
 | [You Don't Know What Love Is](https://open.spotify.com/track/4bDk3TKM6kF1MT2Tzek7QJ) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [You Don't Know What Love Is](https://open.spotify.com/album/3WpU0MCWwrDDqsA3KZQJnt) | 2:30 | 2022-04-12 | 2022-09-21 |
 | [You Go To My Head](https://open.spotify.com/track/459LZHA0yHx3SwF5t0UnDE) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [Memories Of You](https://open.spotify.com/album/7s8ph723NPqXXT8a1SIiY5) | 5:19 | 2022-04-12 | 2022-06-29 |
 | [You Know It's Me](https://open.spotify.com/track/1EzsGVXnTmukpzQ8u8F5gg) | [Tina Wellbeck](https://open.spotify.com/artist/4ijOrgStHlgSpuka4omdoe) | [You Know It's Me](https://open.spotify.com/album/70fqNXNdAYga8XSizrCfbS) | 2:37 | 2022-11-10 | 2023-09-08 |
-| [you must believe in spring](https://open.spotify.com/track/4PfwJAIyn4509emIeIHkGs) | [Jeff Robins](https://open.spotify.com/artist/74TmlbkJzQhvG8Jurm01cE) | [You must believe in spring](https://open.spotify.com/album/2K69h6JK7ZyinakSj3GYKf) | 3:30 | 2022-04-12 |  |
+| [you must believe in spring](https://open.spotify.com/track/4PfwJAIyn4509emIeIHkGs) | [Jeff Robins](https://open.spotify.com/artist/74TmlbkJzQhvG8Jurm01cE) | [You must believe in spring](https://open.spotify.com/album/2K69h6JK7ZyinakSj3GYKf) | 3:30 | 2022-04-12 | 2023-11-24 |
 | [You Stepped Out Of A Dream](https://open.spotify.com/track/2szY5ICdZLvJOeN2iF1Tow) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [You Stepped Out Of A Dream](https://open.spotify.com/album/2BtUNsuQFXudi5fGHFjZbS) | 2:35 | 2022-10-27 |  |
 | [You Took Advantage of Me](https://open.spotify.com/track/1C5FahCvIOUsd0RrfmlQng) | [Einar Magnusson](https://open.spotify.com/artist/2sXtKNi7nnKt8XkKX4Agag) | [You Took Advantage of Me](https://open.spotify.com/album/7z4ANRQxTVKOpRpsaMKoKu) | 2:58 | 2023-04-13 |  |
 | [You're not alone](https://open.spotify.com/track/1RsXeyjSMEaxPqEwlBdK33) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [You're not alone](https://open.spotify.com/album/7r0aLaUkVEBT1BXzf1yvKq) | 3:16 | 2023-11-17 |  |

@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-111 songs - 6 hr 25 min
+112 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [No Manner](https://open.spotify.com/track/6BcWqLROWgGk488uw9RBgW) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [No Manner](https://open.spotify.com/album/68t1UBM8b5ZwQWkuHUAgf7) | 3:17 | 2023-08-03 |  |
 | [Open Skies](https://open.spotify.com/track/7FLlHjyfOncjLLtwQWSWVI) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Open Skies](https://open.spotify.com/album/6xg99zXG10jU43BfP2JaKQ) | 3:46 | 2023-08-03 |  |
 | [Quietude \(Rain\)](https://open.spotify.com/track/0kWsC6cDFuducuSGBUAWA6) | [Herman Fred Trio](https://open.spotify.com/artist/1sTe1YB89lKzCmOju2ipvk) | [Quietude \(Rain\)](https://open.spotify.com/album/30H4NMj6s73FG3LylSrr8r) | 4:05 | 2023-09-22 |  |
+| [Rainless](https://open.spotify.com/track/4LlVfy4JGDwzxFRE66SIkB) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Rainless](https://open.spotify.com/album/6QSeMLR0Mg9t0c44pite0q) | 4:07 | 2023-11-24 |  |
 | [Rainy Mix](https://open.spotify.com/track/5Bf6RpE7cymyP9RuFdKUr2) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Rainy Jazz](https://open.spotify.com/album/3QHKLkV974nNsLgaCDZQr2) | 4:39 | 2023-04-27 |  |
 | [Reaching](https://open.spotify.com/track/0tisTFhHm0SFZO2y7RSRRt) | [The Midnight Quartet](https://open.spotify.com/artist/3RgMoZ7V6T8taBTLb58Wld) | [Reaching](https://open.spotify.com/album/4nUAFQ7psaKNzv5aGXALsB) | 3:24 | 2023-04-27 |  |
 | [Reign](https://open.spotify.com/track/6wvYAbSX54UOwWLFNd4rcj) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Reign](https://open.spotify.com/album/1FzB6cl6WzoFi2ruwHEZTp) | 3:10 | 2023-08-03 |  |

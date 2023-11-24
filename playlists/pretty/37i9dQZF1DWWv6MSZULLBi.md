@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Chance Peña
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,915 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,947 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 14 | [Answer Phone](https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Answer Phone](https://open.spotify.com/album/64J78r5rx9qs9ZJZ4xSkBt) | 2:40 |
 | 15 | [Anomaly](https://open.spotify.com/track/60Yt8oCAAQFeoFN9tPMmDG) | [Kylie V](https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI) | [Anomaly](https://open.spotify.com/album/0aPIHOcdgLVvq7EBMxYUN8) | 4:21 |
 | 16 | [A Running Start](https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [A Running Start](https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG) | 4:21 |
-| 17 | [Flowers on the Fire Escape](https://open.spotify.com/track/1tIFvbrapTX46SYlqH9NGH) | [MOONRIIVR](https://open.spotify.com/artist/7L0DI3wlt7yeY4Hi9I87h8) | [Vol\. 1](https://open.spotify.com/album/5IFhMN34yqdi4VhP63MNSx) | 3:56 |
+| 17 | [Flowers on the Fire Escape](https://open.spotify.com/track/5Sx5LEwv1rkb3foo0WYYm0) | [MOONRIIVR](https://open.spotify.com/artist/7L0DI3wlt7yeY4Hi9I87h8) | [Vol\. 1](https://open.spotify.com/album/2QOpujXPtpuOIbieP3eSS9) | 3:56 |
 | 18 | [Room Service](https://open.spotify.com/track/5NURmMpR9TkfYroyf9HcJQ) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/0o9lEiGZLsVcfTwl6z77oB) | 3:46 |
 | 19 | [Along The Mountain Road](https://open.spotify.com/track/6TVW5i43p21luN4n1UQu7c) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Along The Mountain Road](https://open.spotify.com/album/3HppCqUpLtQbo84j76LR4t) | 5:10 |
 | 20 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Triumph](https://open.spotify.com/track/4CJeSWcw7jtHCmxnuwNXXg) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [More Photographs \(A Continuum\)](https://open.spotify.com/album/7p0OgcKhi5q5b2qv3CpeWl) | 4:13 |
 | 100 | [The Hills of Aberfeldy](https://open.spotify.com/track/1eYafSv4c2aFNf98hSFHX0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:15 |
 
-Snapshot ID: `MCw5ODc0NGI1MmJmMDY5NGUyNWY1YTZjMjFjMjg1OGI0NGRjZDZjY2M1`
+Snapshot ID: `MCxjMzVkMGFmMDc5MmEzNzY3NTQxZGMzNjI2YzUzZTQyYWY0ODM0MGU1`

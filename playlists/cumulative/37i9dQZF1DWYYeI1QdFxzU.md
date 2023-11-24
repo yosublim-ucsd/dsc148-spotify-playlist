@@ -4,12 +4,13 @@
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-123 songs - 8 hr 51 min
+124 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [123](https://open.spotify.com/track/3sdLbza2Dux2AIp3BXjSZL) | [FERG](https://open.spotify.com/artist/4WUnl8sNbzqlJPZkX3Psnl) | [123](https://open.spotify.com/album/6goMNKPoqFMhx8TkWz2475) | 2:59 | 2021-10-15 | 2022-07-17 |
 | [1990 \- Edit](https://open.spotify.com/track/2tRnuEZU70qgyrmAEtzPx0) | [Lake Turner](https://open.spotify.com/artist/3Pg3shNdAUhMyxtVa3Gn0d) | [1990](https://open.spotify.com/album/6VajMzqk8hPSRupmSa4E7P) | 3:30 | 2021-10-15 | 2022-07-29 |
+| [365](https://open.spotify.com/track/3y4NbKy6cgdqia74kXIZF9) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Take Me With You](https://open.spotify.com/album/5RK13kDEwU9cEUkPjxq6hZ) | 3:09 | 2023-11-17 |  |
 | [365](https://open.spotify.com/track/6hj18wT1oKX0dmJuJOaXzS) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Take Me With You](https://open.spotify.com/album/6IaBX5I6MLRDB9a10HU9Y1) | 3:09 | 2021-10-15 | 2022-06-30 |
 | [Adderall](https://open.spotify.com/track/0pAGo08jBvebuxMUoqvulX) | [Asierhans](https://open.spotify.com/artist/4hN3QFUZ6g9QKTvy5TI0qU) | [Day One](https://open.spotify.com/album/2ltWCghk7udj6KAhKxJZnb) | 4:56 | 2021-10-15 | 2022-11-13 |
 | [Adderall](https://open.spotify.com/track/3IGKKAcwW7rGGRy1PvxGou) | [Asierhans](https://open.spotify.com/artist/4hN3QFUZ6g9QKTvy5TI0qU) | [Day One](https://open.spotify.com/album/0idk2ck3PCZBI5lccb3FMg) | 4:56 | 2021-10-15 | 2022-07-29 |
@@ -24,7 +25,7 @@
 | [Birds](https://open.spotify.com/track/7dRIjh8tx6qY0mnLNAxeOk) | [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Birds](https://open.spotify.com/album/1gfPvcU1yCx1EMhcREta9T) | 7:12 | 2021-10-15 |  |
 | [Blind Eye](https://open.spotify.com/track/2w0zUD1DqNNznSirUyOFlB) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Blind Eye](https://open.spotify.com/album/0gKCtKyluB72fRXY3BSlJk) | 3:05 | 2021-10-15 | 2022-07-28 |
 | [Blind Eye](https://open.spotify.com/track/6RkRuJgT2iNBsqEJX93zwo) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/6f5i8vNHXp944iy5UPvSI7) | 3:05 | 2021-10-15 | 2022-10-15 |
-| [Blind Eye](https://open.spotify.com/track/6oVLw2Yd1IfCQDLYvUgTmQ) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei) | 3:05 | 2021-10-15 |  |
+| [Blind Eye](https://open.spotify.com/track/6oVLw2Yd1IfCQDLYvUgTmQ) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei) | 3:05 | 2021-10-15 | 2023-11-24 |
 | [Brotherhood](https://open.spotify.com/track/035qofHWoDag0pg1e8gY73) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Brotherhood](https://open.spotify.com/album/6mUllKS0OUyGGwso5gr9vP) | 6:10 | 2021-10-15 | 2023-08-02 |
 | [By](https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Hosoi](https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn) | 2:46 | 2021-10-15 |  |
 | [CARONTE](https://open.spotify.com/track/7FdNsT55XUVcJtPAfNUXhk) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [LP5](https://open.spotify.com/album/5q1fLCH66wHNsoiAVfaPJ8) | 4:40 | 2021-10-15 | 2022-06-25 |

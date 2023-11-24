@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Daddy Yankee
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,522 likes - 52 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,641 likes - 52 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 51 | [Estuve ahí](https://open.spotify.com/track/0lSaZz9iV1StO8USF1IkJx) | [Mateo Falgas](https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W) | [El Bosque Finlandés](https://open.spotify.com/album/4VoNeN99ahd1uhJYwX2rBs) | 2:31 |
 | 52 | [BYE](https://open.spotify.com/track/3emiDWCK8ftUuLmpHcuEYv) | [Matt Louis](https://open.spotify.com/artist/2TOIGYDgOiqlh8hqq2viwX) | [BYE](https://open.spotify.com/album/0Ae3nFESyMfmHCbDCeRDXY) | 3:32 |
 
-Snapshot ID: `MCwwYjYyMGY5MDUwMDQ4Nzc5ZmE1OTA4MDkyMWI3MjlmYjMzNjM4ZGQ5`
+Snapshot ID: `MCw1OTNjOTlkZmQ3MWNhNDJiOWNiYTAwY2ZiNmZjOGQxZDYyNjNkNDc2`

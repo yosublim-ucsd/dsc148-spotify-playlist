@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Dominique Fils-Aim\u00e9",
+  "description": "The best jazz new releases. Cover: Roberto\nFonseca",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Soul Searching",
+        "url": "https://open.spotify.com/album/18YhfplwiGHVr6UAJcB72L"
+      },
+      "artists": [
+        {
+          "name": "Torsten Goods",
+          "url": "https://open.spotify.com/artist/2sjTCH9o9WFyrvjDs2upJS"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312200,
+      "name": "Ain't Gotta Do It",
+      "url": "https://open.spotify.com/track/3Ny0cVL6rKO1twEvcrcc06"
+    },
+    {
+      "album": {
         "name": "An Ode",
         "url": "https://open.spotify.com/album/4BEVT3SXNmALzwZOAONfby"
       },
@@ -766,7 +784,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 110226,
       "name": "Beignet",
       "url": "https://open.spotify.com/track/179Jr6fqOod5QM4vdyVgwN"
@@ -960,7 +978,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 214909,
       "name": "Black Crow",
       "url": "https://open.spotify.com/track/51zuwsjfn77J6NBQodv0WW"
@@ -1814,7 +1832,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 300031,
       "name": "Corner Kisses",
       "url": "https://open.spotify.com/track/1DUQwRzzAeOhFAc5CD7qD9"
@@ -2251,6 +2269,24 @@
     },
     {
       "album": {
+        "name": "Dream Life",
+        "url": "https://open.spotify.com/album/1sqJUG8S7F9cmEe7mxyNVZ"
+      },
+      "artists": [
+        {
+          "name": "Lusaint",
+          "url": "https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177151,
+      "name": "Dream Life",
+      "url": "https://open.spotify.com/track/2dSXV3BOMaw9aB8SrRmOiH"
+    },
+    {
+      "album": {
         "name": "Bewitched",
         "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
       },
@@ -2604,7 +2640,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 204640,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/2PjW6wCK1eBD0CGcswZMTw"
@@ -3340,7 +3376,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 341918,
       "name": "Have A Talk With God",
       "url": "https://open.spotify.com/track/4wGhj2z3EHOKr3BsIjFgNa"
@@ -4033,6 +4069,24 @@
     },
     {
       "album": {
+        "name": "It's Alright with Me",
+        "url": "https://open.spotify.com/album/40iRG6qHYkWd2bbWFZvKeu"
+      },
+      "artists": [
+        {
+          "name": "Susie Arioli",
+          "url": "https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192187,
+      "name": "It's Alright with Me",
+      "url": "https://open.spotify.com/track/45S7VWVW2je3lJ8uOBfFS0"
+    },
+    {
+      "album": {
         "name": "Third Times the Charm",
         "url": "https://open.spotify.com/album/6JpdUA6AjMUOU3ZX3RB8XZ"
       },
@@ -4532,7 +4586,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 298708,
       "name": "Little Fairy Carpenter",
       "url": "https://open.spotify.com/track/5K0V5WtaEJMYc3izrQ6vQV"
@@ -4668,6 +4722,24 @@
       "duration_ms": 182412,
       "name": "Lookin' Up",
       "url": "https://open.spotify.com/track/3wvWXBrtNOSjf3LOZhpfNX"
+    },
+    {
+      "album": {
+        "name": "Feel Good Music",
+        "url": "https://open.spotify.com/album/4zqHegtEjjOFhFg95YjQwi"
+      },
+      "artists": [
+        {
+          "name": "Endea Owens",
+          "url": "https://open.spotify.com/artist/632l8G3bwQHQcFDDbWVXAH"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396292,
+      "name": "Love Cynical",
+      "url": "https://open.spotify.com/track/6BA3YaMWaE76mbju6CP2jC"
     },
     {
       "album": {
@@ -5366,6 +5438,24 @@
       "duration_ms": 234280,
       "name": "Nature Boy",
       "url": "https://open.spotify.com/track/5qRl4AhKqAHyombYJ2SqiZ"
+    },
+    {
+      "album": {
+        "name": "Never Doubt",
+        "url": "https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250399,
+      "name": "Never Doubt",
+      "url": "https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy"
     },
     {
       "album": {
@@ -7876,7 +7966,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 152146,
       "name": "Trop beau pour \u00eatre vrai",
       "url": "https://open.spotify.com/track/3GZQSblqvzUGvA7LmBXXSm"

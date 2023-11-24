@@ -4,7 +4,7 @@
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=bWfP8oYHRI6Scnl72IzCZA">Tyla</a>
 
-269 songs - 14 hr 18 min
+270 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Love/Hate](https://open.spotify.com/track/2ehiR88HYzb7QuO2bh3rKL) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [LOVE / HATE Pt\. 1](https://open.spotify.com/album/1Fv4ReFcbmh4P1tGe96lvC) | 2:43 | 2023-08-31 |  |
 | [Lovin 21](https://open.spotify.com/track/4QboxKsKXMP6J2wKSJwdeN) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Lovin 21](https://open.spotify.com/album/25uPeqo8AAB9Hp46oYquY5) | 3:15 | 2023-05-04 | 2023-07-01 |
 | [Loving you](https://open.spotify.com/track/1ovB353KrNbmTaEL303k3Y) | [Tembipowers](https://open.spotify.com/artist/4SQ0j97pz30NcGfWAUmTMg), [Berny](https://open.spotify.com/artist/0cBJhAZtsIhcRuWSoXCLcE) | [Loving you](https://open.spotify.com/album/2E6HlQE1rhLSjsHNiv5cpv) | 2:41 | 2021-05-03 | 2022-05-06 |
-| [Low Waist](https://open.spotify.com/track/5rb99A8aR2scVXSLIbLAft) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Low Waist](https://open.spotify.com/album/48xKnLRBNSajT7mcP4zdTb) | 3:01 | 2023-09-29 |  |
+| [Low Waist](https://open.spotify.com/track/5rb99A8aR2scVXSLIbLAft) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Low Waist](https://open.spotify.com/album/48xKnLRBNSajT7mcP4zdTb) | 3:01 | 2023-09-29 | 2023-11-24 |
 | [Loyalty](https://open.spotify.com/track/2oOr7XZmuqYTdmCnC5qQsC) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Loyalty](https://open.spotify.com/album/1xaW0G0ccKSbUuHfYGVhbL) | 2:47 | 2022-05-05 | 2023-05-05 |
 | [Mad Apology](https://open.spotify.com/track/4rl3QSAy9yZ0n6yc0vLQF0) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Anger Management](https://open.spotify.com/album/3wI3YjXudpkiPQLQUNEyU4) | 3:00 | 2023-06-08 |  |
 | [Maitama \(Going\)](https://open.spotify.com/track/6u333HFOmt5OTEqNg5qkEJ) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1) | [Maitama \(Going\)](https://open.spotify.com/album/3cErrQwNkGcBR37wIZUDd5) | 3:26 | 2022-11-18 | 2023-05-05 |
@@ -220,6 +220,7 @@
 | [SKYDREAM](https://open.spotify.com/track/772XP90scR680RusnAgQtE) | [Shane Eagle](https://open.spotify.com/artist/68J4TRaqXKr8VhSg71JVdV), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Green](https://open.spotify.com/album/5Qz1TL6338YnS6cnT9Z8GG) | 2:23 | 2022-05-05 | 2022-06-17 |
 | [Slenderman V2](https://open.spotify.com/track/3935qFYNFdI0sUMrBBB4Hc) | [burningforestboy](https://open.spotify.com/artist/44JiNZ7Zxi7IDh6njqD55M) | [Slenderman V2](https://open.spotify.com/album/60VrmwPoE7WZ0d6fgMH6yX) | 2:15 | 2021-05-03 | 2022-05-06 |
 | [SLIDE](https://open.spotify.com/track/7F2bNsonWlmzRe70RoAWhb) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [SLIDE](https://open.spotify.com/album/7clZsZOQ9lN2MAz0hykvW9) | 2:51 | 2023-06-16 | 2023-07-14 |
+| [SNAPCHAT](https://open.spotify.com/track/5kp1hRoHrNokFflgzjzrGl) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [SNAPCHAT](https://open.spotify.com/album/2u3ssIBPv4Gii5gpfNm0Wd) | 3:05 | 2023-11-24 |  |
 | [Soak Garri](https://open.spotify.com/track/3Rs0WjvcDSIbk5mx353yiQ) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Soak Garri](https://open.spotify.com/album/4cDi3B2orh2LGvxnCIgSjK) | 3:31 | 2023-06-02 | 2023-06-17 |
 | [SOIL](https://open.spotify.com/track/460bEh4KXHVoV7PSiP4IBT) | [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz) | [SOIL](https://open.spotify.com/album/4lgTdYVL7YB5aIWeqE8yRh) | 3:05 | 2022-05-05 | 2022-06-06 |
 | [Soja](https://open.spotify.com/track/5F7imvl6nIRWoMCejdR4Sk) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Soja](https://open.spotify.com/album/0WrpYqyMi0ZU8EY9AzCdht) | 3:01 | 2022-10-13 | 2023-05-05 |

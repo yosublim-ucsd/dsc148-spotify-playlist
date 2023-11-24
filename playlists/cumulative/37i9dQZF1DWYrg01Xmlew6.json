@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Rap napoletano e il meglio della scena campana. Vale Lambo in cover.",
+  "description": "Rap napoletano e il meglio della scena campana. Geolier in cover.",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 154105,
       "name": "Affetto",
       "url": "https://open.spotify.com/track/075htnHemIxEE0FmefVA4w"
@@ -674,6 +674,32 @@
       "duration_ms": 144631,
       "name": "CAGN MARCIA",
       "url": "https://open.spotify.com/track/3CLP2Ui5lPjUpYh6dpQXVK"
+    },
+    {
+      "album": {
+        "name": "Campioni In Italia (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/4pZLLjPkLo3LXhkxlOU4OX"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Dat Boi Dee",
+          "url": "https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x"
+        },
+        {
+          "name": "Poison Beatz",
+          "url": "https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Campioni In Italia (Red Bull 64 Bars)",
+      "url": "https://open.spotify.com/track/0lmmsw2Z7uN1e5q93AHXbd"
     },
     {
       "album": {
@@ -2320,7 +2346,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 192580,
       "name": "MACCHINE (feat. Nicola Siciliano, Bresh)",
       "url": "https://open.spotify.com/track/1ibVG0eXe9WlEPPLiwDD2B"
@@ -3731,6 +3757,32 @@
     },
     {
       "album": {
+        "name": "Perdoname",
+        "url": "https://open.spotify.com/album/0xMLo63MMRVK7J5FG9f7vH"
+      },
+      "artists": [
+        {
+          "name": "Capozanarky",
+          "url": "https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt"
+        },
+        {
+          "name": "Lil Tony",
+          "url": "https://open.spotify.com/artist/5scZI5Lpqp6uijn5kCXCEZ"
+        },
+        {
+          "name": "Sam Beats Baby",
+          "url": "https://open.spotify.com/artist/1fphGmGC35v82kdBFDbmNf"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182881,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/7w4aImyv2F7nDvmuNMvN1S"
+    },
+    {
+      "album": {
         "name": "Piazza Affari",
         "url": "https://open.spotify.com/album/1ZToE2WrAGtomIllERroNM"
       },
@@ -4556,6 +4608,24 @@
       "duration_ms": 195600,
       "name": "SOMEBODY",
       "url": "https://open.spotify.com/track/1z4ijeGJocaJ7Uw0LC8VHw"
+    },
+    {
+      "album": {
+        "name": "Soprano",
+        "url": "https://open.spotify.com/album/4Y08s8bqsT5lEPbquo3HhU"
+      },
+      "artists": [
+        {
+          "name": "Cecchy",
+          "url": "https://open.spotify.com/artist/2yLVjmzpKCw0B7SKpWeZjN"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Soprano",
+      "url": "https://open.spotify.com/track/6wtYcRaHvDsuOi4xXGGaSy"
     },
     {
       "album": {
@@ -5388,7 +5458,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 129032,
       "name": "VITTORIO NEVES",
       "url": "https://open.spotify.com/track/6pdftuCHDQJgS6LhT4yWoJ"

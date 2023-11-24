@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "The Brave",
+        "url": "https://open.spotify.com/album/1LIrHjmcINgiNpzx1NvbhB"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194423,
+      "name": "The Brave",
+      "url": "https://open.spotify.com/track/2C0zR1j4Xd5JVSrMABMFSG"
+    },
+    {
+      "album": {
         "name": "E-SIDE 2",
         "url": "https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 11266,
+  "num_followers": 11268,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjdkOTlmN2ZkMjg1ZDFkZWFjMzBlMDA5N2ViZTBhY2U1YmIzNzI2",
+  "snapshot_id": "MCw4ZjZlYTU5MjU4NmU4NDU0MWVlN2M2MDYwZjJhMmQ3ZDYzMWU2YjUw",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -203,22 +203,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Autobahn (2009 Remaster)",
-        "url": "https://open.spotify.com/album/0DzC0tyowMi2O9QfkDRvfJ"
-      },
-      "artists": [
-        {
-          "name": "Kraftwerk",
-          "url": "https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU"
-        }
-      ],
-      "duration_ms": 1367093,
-      "name": "Autobahn - 2009 Remaster",
-      "url": "https://open.spotify.com/track/31uidLEHAcF8Cw1cX1VCS8"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Mars Audiac Quintet",
         "url": "https://open.spotify.com/album/3p7TBwwN0OGa9UxpcbdeY4"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 188933,
       "name": "Wow And Flutter",
       "url": "https://open.spotify.com/track/7I8lsynj5wHO1p2DxccDrX"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Autobahn (2009 Remaster)",
+        "url": "https://open.spotify.com/album/0DzC0tyowMi2O9QfkDRvfJ"
+      },
+      "artists": [
+        {
+          "name": "Kraftwerk",
+          "url": "https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU"
+        }
+      ],
+      "duration_ms": 1367093,
+      "name": "Autobahn - 2009 Remaster",
+      "url": "https://open.spotify.com/track/31uidLEHAcF8Cw1cX1VCS8"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -657,6 +657,22 @@
       "url": "https://open.spotify.com/track/05Dyd2KfjELJ6LMPcaXTlU"
     },
     {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "The View from Halfway Down",
+        "url": "https://open.spotify.com/album/0BYwTvYgdrpiSMXjNQa0td"
+      },
+      "artists": [
+        {
+          "name": "Andy Bell",
+          "url": "https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc"
+        }
+      ],
+      "duration_ms": 288575,
+      "name": "Love Comes In Waves",
+      "url": "https://open.spotify.com/track/6S9QEVCZcuH12m5VeRBv84"
+    },
+    {
       "added_at": "2022-08-09 01:36:21",
       "album": {
         "name": "Pulse Of The Early Brain [Switched On Volume 5]",
@@ -675,22 +691,6 @@
       "duration_ms": 646683,
       "name": "Simple Headphone Mind",
       "url": "https://open.spotify.com/track/1lkxzamwyP2Th5HMmcmeS7"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "The View from Halfway Down",
-        "url": "https://open.spotify.com/album/0BYwTvYgdrpiSMXjNQa0td"
-      },
-      "artists": [
-        {
-          "name": "Andy Bell",
-          "url": "https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc"
-        }
-      ],
-      "duration_ms": 288575,
-      "name": "Love Comes In Waves",
-      "url": "https://open.spotify.com/track/6S9QEVCZcuH12m5VeRBv84"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Not The Time / Callous",
-        "url": "https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU"
-      },
-      "artists": [
-        {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
-        }
-      ],
-      "duration_ms": 170760,
-      "name": "Not The Time",
-      "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "With Dim Light",
         "url": "https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 346883,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Not The Time / Callous",
+        "url": "https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "duration_ms": 170760,
+      "name": "Not The Time",
+      "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
     },
     {
       "added_at": "2023-03-23 21:21:38",
@@ -837,22 +837,6 @@
       "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
     },
     {
-      "added_at": "2023-01-25 02:05:47",
-      "album": {
-        "name": "Blackouts",
-        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
-      },
-      "artists": [
-        {
-          "name": "Ashra",
-          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
-        }
-      ],
-      "duration_ms": 410666,
-      "name": "77 Slightly Delayed",
-      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Murder of the Universe",
@@ -867,6 +851,22 @@
       "duration_ms": 141800,
       "name": "Han-Tyumi, The Confused Cyborg",
       "url": "https://open.spotify.com/track/0ygAoz3haF1jLcHHB7NWf4"
+    },
+    {
+      "added_at": "2023-01-25 02:05:47",
+      "album": {
+        "name": "Blackouts",
+        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
+      },
+      "artists": [
+        {
+          "name": "Ashra",
+          "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
+        }
+      ],
+      "duration_ms": 410666,
+      "name": "77 Slightly Delayed",
+      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -967,6 +967,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Floating Coffin",
+        "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
+      },
+      "artists": [
+        {
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+        }
+      ],
+      "duration_ms": 266120,
+      "name": "No Spell",
+      "url": "https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Gnod Drop Out With White Hills II",
         "url": "https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 661120,
       "name": "Drop Out",
       "url": "https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Floating Coffin",
-        "url": "https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c"
-      },
-      "artists": [
-        {
-          "name": "Thee Oh Sees",
-          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
-        }
-      ],
-      "duration_ms": 266120,
-      "name": "No Spell",
-      "url": "https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
-      "added_at": "2023-03-23 20:53:14",
-      "album": {
-        "name": "Matters",
-        "url": "https://open.spotify.com/album/3T0gHeXi1e900Bb9eue4e5"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00f6st",
-          "url": "https://open.spotify.com/artist/0thj1Xly1i0lA2XKQLH9gE"
-        }
-      ],
-      "duration_ms": 209630,
-      "name": "Record Still Spinning",
-      "url": "https://open.spotify.com/track/6h2jvV3Gwg6onowB0366IB"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Boxed In",
@@ -1079,6 +1063,22 @@
       "duration_ms": 310040,
       "name": "All Your Love is Gone",
       "url": "https://open.spotify.com/track/7kNMIOkd0XgCFvwVvAIQAT"
+    },
+    {
+      "added_at": "2023-03-23 20:53:14",
+      "album": {
+        "name": "Matters",
+        "url": "https://open.spotify.com/album/3T0gHeXi1e900Bb9eue4e5"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00f6st",
+          "url": "https://open.spotify.com/artist/0thj1Xly1i0lA2XKQLH9gE"
+        }
+      ],
+      "duration_ms": 209630,
+      "name": "Record Still Spinning",
+      "url": "https://open.spotify.com/track/6h2jvV3Gwg6onowB0366IB"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Phase Modulation Shuffle (Edit)",
-        "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
-      },
-      "artists": [
-        {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Phase Modulation Shuffle (Edit)",
-      "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Panther Rotate",
         "url": "https://open.spotify.com/album/74cNFrEotN1EgfDVypvLKR"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 309200,
       "name": "Don't Blow Experiment",
       "url": "https://open.spotify.com/track/1izjXQB5vXhgEHzsMTNQOf"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Phase Modulation Shuffle (Edit)",
+        "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Phase Modulation Shuffle (Edit)",
+      "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1471,8 +1471,8 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Refried Ectoplasm [Switched On Volume 2]",
-        "url": "https://open.spotify.com/album/44hyVkJM5NHGkQH48MWkid"
+        "name": "Emperor Tomato Ketchup",
+        "url": "https://open.spotify.com/album/0haIl1ZqGy5akbazF8nxLs"
       },
       "artists": [
         {
@@ -1480,9 +1480,9 @@
           "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
         }
       ],
-      "duration_ms": 355618,
-      "name": "Harmonium",
-      "url": "https://open.spotify.com/track/2BZ3CfmnZ5DM9P5zGuE7SH"
+      "duration_ms": 245093,
+      "name": "Les Yper-Sound",
+      "url": "https://open.spotify.com/track/7EBrYvNV6ZeTFld2I1m8n2"
     },
     {
       "added_at": "2021-07-30 14:56:06",

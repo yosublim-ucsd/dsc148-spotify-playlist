@@ -4,7 +4,7 @@
 
 > Zeit für Plätzchen backen, Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-259 songs - 12 hr 19 min
+260 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Wir machen buh \(Das Monsterlied\)](https://open.spotify.com/track/6IEAhuasBSawgiWh42Cuvp) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Lieder für Jungs](https://open.spotify.com/album/3HnGp4MVndf6sGgmbPwavT) | 3:05 | 2023-10-16 | 2023-11-02 |
 | [Wir sind die Wichtel](https://open.spotify.com/track/5Z4oTHTkzt1hDD5DO0jzB0) | [Simon Sagt](https://open.spotify.com/artist/4B1AsCllmZk9SVd2OUyBRr) | [Wir sind die Wichtel](https://open.spotify.com/album/5EHR8zntKL9n3zLAoObvSq) | 2:49 | 2023-11-14 |  |
 | [Wir wollen Sonne \(Verde e amarelo\)](https://open.spotify.com/track/47ALOYPkzNdCqqzcS58Wsu) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Sommerkinder](https://open.spotify.com/album/6yWDhurBL3quArg4JJ7WgH) | 3:39 | 2023-06-28 | 2023-08-29 |
+| [Wo ist der Schneemann?](https://open.spotify.com/track/72SCIq5HYYugfzSvuAW14M) | [Raketen Erna](https://open.spotify.com/artist/4H4plH9ob6ZyQmad6gS2Wb) | [Lamettawetter EP](https://open.spotify.com/album/7saMLvIPzyVGjHX5DRWBWZ) | 3:23 | 2023-11-22 |  |
 | [Wunderbar, der Herbst ist da](https://open.spotify.com/track/4jLyTZ2sNyG3VTGE3CUBor) | [Familie Sonntag](https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR) | [Der Herbst ist cool!](https://open.spotify.com/album/5Z1pFR01dBUYVzHUymzF2Q) | 3:26 | 2023-08-31 | 2023-10-17 |
 | [Wunderschöne Weihnachtszeit](https://open.spotify.com/track/3eneVHkg8zT9pKjp1fOiJ1) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Weckt den Weihnachtsmann](https://open.spotify.com/album/5Q8D7jMstKaZrKh6xCc18H) | 3:33 | 2023-11-14 |  |
 | [Wär' Dezember doch für immer \(feat\. Katharina Hirschberg, Harriet Herbig\-Matten, Holger Stockhaus\)](https://open.spotify.com/track/4TkCKWiZLp3krxx7aD6vrp) | [Bibi und Tina](https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp), [Katharina Hirschberg](https://open.spotify.com/artist/1KWsxFpNtVFUSQlNqExGTu), [Harriet Herbig\-Matten](https://open.spotify.com/artist/66Jq97moegQjvYDLR64Sp1), [Holger Stockhaus](https://open.spotify.com/artist/3bCQwvxDpV0zM0jD54qliH) | [Das Weihnachtsalbum Deluxe](https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC) | 2:58 | 2023-11-14 |  |

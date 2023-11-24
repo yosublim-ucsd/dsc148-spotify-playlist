@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse liedjes! Cover: Snelle",
+  "description": "De nieuwste Nederlandse liedjes! Cover: Bankzitters",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -646,7 +646,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 190500,
       "name": "Als Ik Mezelf Verdelen Kon",
       "url": "https://open.spotify.com/track/3bTMN5CKwJm18Kx5nnq2wU"
@@ -3635,6 +3635,24 @@
     },
     {
       "album": {
+        "name": "Iemand Anders",
+        "url": "https://open.spotify.com/album/0Du6lXqUfjPK0DJjqKzQIL"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171447,
+      "name": "Iemand Anders",
+      "url": "https://open.spotify.com/track/00Gy9pxJXHzCoRwXi5CUeJ"
+    },
+    {
+      "album": {
         "name": "Ik Ben Jij",
         "url": "https://open.spotify.com/album/5YcRkwaP4xkAiliHuJumPs"
       },
@@ -3726,7 +3744,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 216716,
       "name": "Ik Denk Aan Jou",
       "url": "https://open.spotify.com/track/0WEVWA0uwMVFLFsYUvLsin"
@@ -4634,6 +4652,24 @@
       "duration_ms": 181993,
       "name": "Masker",
       "url": "https://open.spotify.com/track/2l9d5KO0xnO01fYAfHHlLO"
+    },
+    {
+      "album": {
+        "name": "Medeplichtig",
+        "url": "https://open.spotify.com/album/52Rv3uBuWFbr6NAfSDufny"
+      },
+      "artists": [
+        {
+          "name": "Pommelien Thijs",
+          "url": "https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166746,
+      "name": "Medeplichtig",
+      "url": "https://open.spotify.com/track/1M19j4iqQyyWK1IzfY5Cod"
     },
     {
       "album": {

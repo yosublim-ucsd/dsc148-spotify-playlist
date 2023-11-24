@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 154309,
       "name": "Diese Nacht",
       "url": "https://open.spotify.com/track/6CWr033ZS8JwfKfhuMavWp"
@@ -2384,6 +2384,28 @@
       "duration_ms": 152404,
       "name": "Jacke zu",
       "url": "https://open.spotify.com/track/0VYUzxAcxWtn05ZKiubkkU"
+    },
+    {
+      "album": {
+        "name": "James Blake",
+        "url": "https://open.spotify.com/album/5PVKyMewYidIhvFGpiGeNW"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        },
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224146,
+      "name": "James Blake",
+      "url": "https://open.spotify.com/track/6wjiWdFdfcyZNikqjqb9vu"
     },
     {
       "album": {

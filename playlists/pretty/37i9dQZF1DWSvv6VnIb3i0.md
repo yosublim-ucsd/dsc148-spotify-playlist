@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 
 > Les plus grands hits français des années 2000\. Photo : Diam's
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,820 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,939 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [La boulette \(Génération nan nan\)](https://open.spotify.com/track/1Vf09Cxf2jqSkU6sfueYAq) | [Diam's](https://open.spotify.com/artist/6379rD5bSEwInazkKhZ9DM) | [Dans Ma Bulle](https://open.spotify.com/album/1ZlqqgXvzlq8kZBKsY0hWO) | 3:51 |
+| 1 | [La Boulette \(Génération Nan Nan\)](https://open.spotify.com/track/1Vf09Cxf2jqSkU6sfueYAq) | [Diam's](https://open.spotify.com/artist/6379rD5bSEwInazkKhZ9DM) | [Dans Ma Bulle](https://open.spotify.com/album/1ZlqqgXvzlq8kZBKsY0hWO) | 3:51 |
 | 2 | [Dernière danse](https://open.spotify.com/track/7mNErWes3YegbRLgZuILl5) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [Le chemin](https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i) | 3:47 |
 | 3 | [Femme Like U](https://open.spotify.com/track/4iVnfuAmwJNAGsiHz8Po6Y) | [K.Maro](https://open.spotify.com/artist/1a2yfRvULXWkUSvxJbkw75) | [La Good Life](https://open.spotify.com/album/2eGMZPfsXT0YNlc1wOJVJJ) | 4:08 |
 | 4 | [Toutes les femmes de ta vie](https://open.spotify.com/track/0ZpCuFfUUgGNGvMVN5kjhc) | [L5](https://open.spotify.com/artist/5riPm9K3FssJpYLJnDGzOn) | [Lipsyncs Legendarios Volumen 2](https://open.spotify.com/album/1XuJpBdzHn81l2duw8TR4y) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 | 49 | [Le Manège](https://open.spotify.com/track/6yOGumo25Hrr7IKDS75gm6) | [Stanislas](https://open.spotify.com/artist/4B6omre6u07tKDEXvDNJBc) | [L'Equilibre Instable](https://open.spotify.com/album/6eMCkS0r8atntN0rgg2i9G) | 4:45 |
 | 50 | [Les voyages en train](https://open.spotify.com/track/1fhKFixA1BKke1I2evNUxQ) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM) | [Midi 20](https://open.spotify.com/album/3KLf3aJPySlGsTYGdkWPbP) | 2:51 |
 
-Snapshot ID: `MCwxZGEwN2ZiN2FiMTFkZDEzNzUzOTc3MGUyNmNhNWEwMWMxNjk0Mjhl`
+Snapshot ID: `MCw4ZTVhNzg5ZTNlNzkzOWRiMTEwZmJiNzM0NjZmOTZlZTQxZTM2MTk1`

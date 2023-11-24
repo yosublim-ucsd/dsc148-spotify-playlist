@@ -4,7 +4,7 @@
 
 > ¡Cerveza, Sudor y Garage hasta la muerte!
 
-71 songs - 3 hr 20 min
+72 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Salvaje](https://open.spotify.com/track/2rlvHd6nsOZjxa0Yjj6o1K) | [Las Aspiradoras](https://open.spotify.com/artist/3h0o3vjmR8VgugNPqurF9C) | [Haciendo Amigos](https://open.spotify.com/album/7cPzxDh3P1NswdZdJJcM8s) | 3:28 | 2023-04-28 |  |
 | [Señorita Rock'n Roll](https://open.spotify.com/track/1JnHrbhnq095xyZHuCwbd5) | [Las Furias](https://open.spotify.com/artist/4JVrKcOll1rWrmtmVclO7n) | [Señorita Rock'n Roll](https://open.spotify.com/album/2YViM4ipt7gflJU31Rdo4P) | 2:23 | 2023-04-28 |  |
 | [Sicario](https://open.spotify.com/track/7BzuY3JvxY3CW5yRmHXGYB) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Sicario](https://open.spotify.com/album/2WwerTFeLcncB0hVvx63t3) | 4:30 | 2023-04-28 |  |
+| [Subliminal](https://open.spotify.com/track/4VqBs6c74iuWOBiZLO7IjU) | [PuzzleGround](https://open.spotify.com/artist/5OK5NIGNikSMnsJNO3x5TW) | [Borregos Somos y Comida Seremos](https://open.spotify.com/album/07BZKWmlWGYYhFxzrNatoY) | 3:19 | 2023-11-24 |  |
 | [Te Veré Partir](https://open.spotify.com/track/0yH2kMP3ytedDZ1GYy3Z7P) | [Bang Bang Bang y los Espectros](https://open.spotify.com/artist/17es42RGqVMMfYTnyO046k) | [Garge Punk](https://open.spotify.com/album/45ZU17AE0LTLMTVBTI5lT9) | 1:51 | 2023-04-28 |  |
 | [Todo Es Mierda](https://open.spotify.com/track/3l4lL0XCyjRf1eyOUHWX3v) | [Ardillas](https://open.spotify.com/artist/05zZr6xyHFX5GM0ecRvHRI) | [Ardillas](https://open.spotify.com/album/76ap6QQEF2P8r5KHn6fiNm) | 4:13 | 2023-04-28 |  |
 | [Tommy Bahama](https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9) | [Sebimor](https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH) | [Tommy Bahama](https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW) | 3:49 | 2023-07-07 |  |

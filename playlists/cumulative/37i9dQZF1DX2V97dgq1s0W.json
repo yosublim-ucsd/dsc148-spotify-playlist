@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "Beautifully chilled vocals from around the world. Cover: Jaz Karis",
+  "description": "Beautifully chilled vocals from around the world. Cover: Jaz Karis & Shae Universe",
   "name": "Riffs & Runs",
   "tracks": [
     {
@@ -255,6 +255,28 @@
     },
     {
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/04A0QePJ2bXEuRje6wEEwF"
+      },
+      "artists": [
+        {
+          "name": "Tyler Daley",
+          "url": "https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr"
+        },
+        {
+          "name": "Children of Zeus",
+          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/4zrUf784IvoBhlKhbX1Gar"
+    },
+    {
+      "album": {
         "name": "All In Again",
         "url": "https://open.spotify.com/album/6Q607fMYWp8ms1brTs0yY6"
       },
@@ -270,6 +292,28 @@
       "duration_ms": 231000,
       "name": "All In Again",
       "url": "https://open.spotify.com/track/3onrZuNE1XLM7YnTPL5BtW"
+    },
+    {
+      "album": {
+        "name": "After the Butterflies",
+        "url": "https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190498,
+      "name": "All or Nothing (feat. Ella Mai)",
+      "url": "https://open.spotify.com/track/4SPazIWgMqArA81XKxgDZa"
     },
     {
       "album": {
@@ -694,6 +738,28 @@
       "duration_ms": 202009,
       "name": "Cheat (feat. JoJo)",
       "url": "https://open.spotify.com/track/2APWeDZZLBBwAmVVECtgMr"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/6sLawiJo2c2YoL2hzBW5Vm"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235066,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/3ZG7FzfuejHiekD67PtGb7"
     },
     {
       "album": {
@@ -1228,6 +1294,28 @@
       "duration_ms": 175810,
       "name": "Garden",
       "url": "https://open.spotify.com/track/08caoZC4QT327OLth3Er1Q"
+    },
+    {
+      "album": {
+        "name": "Thoughts I Never Said",
+        "url": "https://open.spotify.com/album/2Sz9KQ4T0nCCXBMDQ8TjFl"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "emil",
+          "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181290,
+      "name": "Gave You My All",
+      "url": "https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX"
     },
     {
       "album": {
@@ -3415,6 +3503,24 @@
     },
     {
       "album": {
+        "name": "Sacrifices",
+        "url": "https://open.spotify.com/album/0sOmZ9Cy1CrofLVp2y1bOo"
+      },
+      "artists": [
+        {
+          "name": "Meron Addis",
+          "url": "https://open.spotify.com/artist/3rJPKKWZTceQMIRlMIHVBy"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188080,
+      "name": "Sacrifices",
+      "url": "https://open.spotify.com/track/0ADsPpxjFXl4ULiJkTrIqY"
+    },
+    {
+      "album": {
         "name": "Safe Place",
         "url": "https://open.spotify.com/album/1FV0FZQ4aFnt1HkpNRL2o4"
       },
@@ -3736,7 +3842,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 145054,
       "name": "Stay Long (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/4Ep3FZomL0EAKeYqW0riz6"
@@ -3806,7 +3912,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 154392,
       "name": "Suite Life (Familiar) [Feat. Bellah] - Bonus Track",
       "url": "https://open.spotify.com/track/2X5hOPvGUp800KM7GG6tXn"
@@ -3933,6 +4039,32 @@
     },
     {
       "album": {
+        "name": "The Energy",
+        "url": "https://open.spotify.com/album/5swCVMFkOuL2gVurAan9ZD"
+      },
+      "artists": [
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        },
+        {
+          "name": "Ariza",
+          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
+        },
+        {
+          "name": "KOLE",
+          "url": "https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219464,
+      "name": "The Energy",
+      "url": "https://open.spotify.com/track/0KhNmUNDpg3fPrGV0YpvnH"
+    },
+    {
+      "album": {
         "name": "The Glass",
         "url": "https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm"
       },
@@ -3952,6 +4084,24 @@
       "duration_ms": 211190,
       "name": "The Glass",
       "url": "https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W"
+    },
+    {
+      "album": {
+        "name": "The Knowing (from the Netflix Film \"Rustin\")",
+        "url": "https://open.spotify.com/album/5V4bt7941i62mZftOn3dCd"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271160,
+      "name": "The Knowing",
+      "url": "https://open.spotify.com/track/6GtsBx3VTAarW7XU0uRb3s"
     },
     {
       "album": {
@@ -4216,7 +4366,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 195715,
       "name": "Uptown",
       "url": "https://open.spotify.com/track/5noIlg392n8MvtJdZrQYLB"
@@ -4270,7 +4420,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 208664,
       "name": "Wait A Little Longer",
       "url": "https://open.spotify.com/track/2WSRSvjNO8wLxvFWQkeUhS"
@@ -4438,6 +4588,28 @@
       "duration_ms": 168000,
       "name": "Wish You Well (Hablot Brown Remix)",
       "url": "https://open.spotify.com/track/3bo87BOzyCPK6ZsrhIatMq"
+    },
+    {
+      "album": {
+        "name": "Wish You Wouldn't",
+        "url": "https://open.spotify.com/album/1C0fzrQke15VOfaSRcuzBD"
+      },
+      "artists": [
+        {
+          "name": "Kali Claire",
+          "url": "https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x"
+        },
+        {
+          "name": "Sha\u00e9 Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197508,
+      "name": "Wish You Wouldn't",
+      "url": "https://open.spotify.com/track/4C9QPaM63xlVh4u6cqW1V6"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,119 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,239 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 64 | [Silence \- Brennan Heart Remix](https://open.spotify.com/track/0cfxGRaCEFKwz66bURIYz5) | [Delerium](https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Silence \(feat\. Sarah McLachlan\) \[Brennan Heart Remix\]](https://open.spotify.com/album/3hlMZy5Z5qZnMCzDkIc0Lr) | 4:23 |
 | 65 | [I Follow Rivers \(Deep Sea Baby\)](https://open.spotify.com/track/5LjjFLhe4QChEtBCnZBn1O) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Hixxy](https://open.spotify.com/artist/79PC6rrXA39xOdNTf71dvN), [Jelle van Dael](https://open.spotify.com/artist/4CBytrQX85XtpfDzvdL3DI) | [I Follow Rivers \(Deep Sea Baby\)](https://open.spotify.com/album/1JLEsIAfoxoHV65Lq6NUAL) | 3:07 |
 | 66 | [Bonkerz](https://open.spotify.com/track/0FaG2Hc9LSFsuChAC0ZZcM) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg) | [Bonkerz](https://open.spotify.com/album/5cLA1oOx6ltXJUivbd8Ybs) | 3:10 |
-| 67 | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/track/4OlxnyDUxqxD8s5nLspmz3) | [NoooN](https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X) | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/album/5IqL7tTITGxUmCpIVxa1eZ) | 2:50 |
-| 68 | [Miracle](https://open.spotify.com/track/0cdR2RfFyCknWBh7ghM8RU) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [Miracle](https://open.spotify.com/album/4YK343jFNgtXS9jISVqImF) | 3:25 |
-| 69 | [We Found Love \(Hardstyle\)](https://open.spotify.com/track/5Kv0Oy4K55O5LFOL5Z8kfW) | [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ), [JONIX](https://open.spotify.com/artist/5gukB99FaNZB2VGdDCo9aO), [RAMSES](https://open.spotify.com/artist/5MI90MK6ELzMhVjNVxr60U) | [We Found Love \(Hardstyle\)](https://open.spotify.com/album/6eMaRX72HOopSZMsLwt4XY) | 2:35 |
+| 67 | [We Found Love \(Hardstyle\)](https://open.spotify.com/track/5Kv0Oy4K55O5LFOL5Z8kfW) | [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ), [JONIX](https://open.spotify.com/artist/5gukB99FaNZB2VGdDCo9aO), [RAMSES](https://open.spotify.com/artist/5MI90MK6ELzMhVjNVxr60U) | [We Found Love \(Hardstyle\)](https://open.spotify.com/album/6eMaRX72HOopSZMsLwt4XY) | 2:35 |
+| 68 | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/track/4OlxnyDUxqxD8s5nLspmz3) | [NoooN](https://open.spotify.com/artist/3umQMLxFY9kEIal14xie8X) | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/album/5IqL7tTITGxUmCpIVxa1eZ) | 2:50 |
+| 69 | [Miracle](https://open.spotify.com/track/0cdR2RfFyCknWBh7ghM8RU) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [Miracle](https://open.spotify.com/album/4YK343jFNgtXS9jISVqImF) | 3:25 |
 | 70 | [Instagram \- Mandy Remix](https://open.spotify.com/track/3p69LocgURIn0HniU4SbQy) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [MANDY](https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE) | [Instagram \(The Remixes\)](https://open.spotify.com/album/154K5houWcuFT0xqGKEMC1) | 4:29 |
 
-Snapshot ID: `MCxlZmY1MmE1MGVjMGQzZjAyY2M3ODk5NTAzMTg3NWQ2Mjg5MDZlYzlj`
+Snapshot ID: `MCw3ODEwMzgxYjc4NzkyYTZhNmMyY2U2NTE5Nzc3NjBhNGUzOTQzYTVk`

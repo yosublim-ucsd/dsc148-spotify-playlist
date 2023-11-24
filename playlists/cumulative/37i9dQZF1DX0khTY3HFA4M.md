@@ -4,7 +4,7 @@
 
 > Relaxing instrumental beats to chill to.
 
-672 songs - 1 day 2 hr 20 min
+678 songs - 1 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,9 @@
 | [Dotters](https://open.spotify.com/track/4dAbCuNehX0eahmR3uXhpD) | [Cerwen](https://open.spotify.com/artist/2pA1nFe7eguaXTSRXCWme5) | [Dotters](https://open.spotify.com/album/7xkt4hWZcUg5N4qxWxC0n0) | 2:37 | 2023-01-13 |  |
 | [Double That](https://open.spotify.com/track/21tplmWNkpWv7Kum3hvln3) | [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx), [Taiyo Ky](https://open.spotify.com/artist/5cqVEHbieW14fL0GBelXDJ), [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX) | [Humble](https://open.spotify.com/album/3zoGGBhCfnZl5fo6EjOaLA) | 2:19 | 2023-09-08 | 2023-09-16 |
 | [Down Low](https://open.spotify.com/track/2gk9WoFm0fbQxEWO6Btm5J) | [typographicc](https://open.spotify.com/artist/33yCrt6g1gckis4sCmxfzC) | [Down Low](https://open.spotify.com/album/7aHttJeGMlG3mgontkrnNP) | 2:16 | 2023-01-13 |  |
+| [downright](https://open.spotify.com/track/3MuG1hLdgsuwUpq6CWQ1wM) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [downright](https://open.spotify.com/album/3y8tJE7EYUUR5JJzOiudtv) | 2:24 | 2023-11-24 |  |
 | [Downstream](https://open.spotify.com/track/6s3p8Ovbf6Bg9tou17Juie) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Downstream](https://open.spotify.com/album/2SI53rb2rae57fFOCFs8fp) | 1:49 | 2023-01-13 |  |
+| [Downtime](https://open.spotify.com/track/19duLYydAX6UiqlFKW54Qu) | [DBTFUL](https://open.spotify.com/artist/1GdjEjgv3RpYjjIBvwGv21) | [Downtime](https://open.spotify.com/album/5pWGzIP2RcutSjYAtsITyM) | 2:16 | 2023-11-24 |  |
 | [downtime](https://open.spotify.com/track/00dVbCr2LYx9vMh1M9u3ID) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [downtime](https://open.spotify.com/album/7nckjQkUXOdwNRkwwCu2TX) | 2:33 | 2023-01-13 | 2023-10-20 |
 | [Dreams in Satin](https://open.spotify.com/track/2qUW2AlOovJqRLUtAKKHK3) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [Lofi Sax](https://open.spotify.com/artist/6CnIDZGUocwG0NIyYkoJ7w), [Ale Fillman](https://open.spotify.com/artist/0fNB9GqTAxeZcJW5euF3df) | [Dreams in Satin](https://open.spotify.com/album/05WKNMZgo4SZX9QEZz2ZSw) | 2:25 | 2023-01-13 | 2023-09-16 |
 | [Dreams Of The Broken](https://open.spotify.com/track/3Mt7n41cPt3oRsG9tp26LD) | [Broken Embrace](https://open.spotify.com/artist/5xJZJn5NZIKZ6A25TwDQu8) | [Dreams Of The Broken](https://open.spotify.com/album/71nnTtdqPoBvXzderwdhc3) | 1:57 | 2023-01-13 |  |
@@ -200,6 +202,7 @@
 | [Far Far Piano](https://open.spotify.com/track/0Y8k20PqH7OMMnUigo0rXh) | [Ekfat](https://open.spotify.com/artist/6kprXciGZ5AQ8TtoDPFFVc) | [Magic World](https://open.spotify.com/album/225qX7jQos243ZRNFL7cXU) | 1:52 | 2023-07-19 |  |
 | [Fare Thee Well O Noble Timepiece](https://open.spotify.com/track/3sKKyt8RryZTi8HZD0Qqu4) | [Domo 759](https://open.spotify.com/artist/0PWZbiy5ZX5uSWrPPVRhYz) | [Fare Thee Well O Noble Timepiece](https://open.spotify.com/album/4csKfMmsQHpSCZYYFLtkcw) | 3:15 | 2023-11-17 |  |
 | [Fast Food](https://open.spotify.com/track/7g0axA5g1WqVhJP06cqnae) | [The Spelling Tree](https://open.spotify.com/artist/1OhiNy3jv8JcBwZ04AHY1W) | [Mythologies of Yarn](https://open.spotify.com/album/1qeE6gJE8Bf5C5emPVXast) | 2:38 | 2023-01-13 |  |
+| [fastback ride](https://open.spotify.com/track/2J4JxUvNa8zqP6N5BUitlt) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [fastback ride](https://open.spotify.com/album/0sfVPSFcr0vdy3QDwoy2uM) | 2:49 | 2023-11-24 |  |
 | [Feathers](https://open.spotify.com/track/5f703of0AlVVMqFhBy5Osq) | [Fableistic](https://open.spotify.com/artist/7mP34YiF6cqj41ZEkwXWKD) | [Yogurt](https://open.spotify.com/album/5ud6q8X5Gg5N3qeB4zri4a) | 3:00 | 2023-01-13 | 2023-07-20 |
 | [feels good being in tokyo](https://open.spotify.com/track/7mw3aC70ZBLGL1WjhUBIWQ) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [Tooru Beats](https://open.spotify.com/artist/4dYEjx8v89QVjhmLCDPNND) | [feels good being in tokyo](https://open.spotify.com/album/6McjaAp9wqk6psmpyNl1y9) | 1:46 | 2023-01-13 | 2023-10-27 |
 | [Fender Bender](https://open.spotify.com/track/6hogWoj5zE1i8pLS7pyXwz) | [Alkis Siokis](https://open.spotify.com/artist/4B7RMdxD9keX7PCQIpOs5O) | [Fender Bender](https://open.spotify.com/album/2xhosSPWPwfqIfPLRCtDYT) | 2:39 | 2023-01-13 |  |
@@ -257,6 +260,7 @@
 | [Harpiness](https://open.spotify.com/track/73EllKCl8YXhxV1dEXxF0U) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Harpiness](https://open.spotify.com/album/6znqVk3rBkqkouCbLH8wLV) | 2:09 | 2023-09-08 |  |
 | [Hatching a Dragon](https://open.spotify.com/track/4l6cRJ99ytW8NUqelWn5IL) | [Mean Dartin](https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m) | [Hatching a Dragon](https://open.spotify.com/album/4ZaPUMuADwnfJLZKEXbPix) | 2:46 | 2023-01-13 |  |
 | [have\-a\-cup](https://open.spotify.com/track/5kZHGyQEh8qj9H282Y5vkh) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [have\-a\-cup](https://open.spotify.com/album/3v33qdghvECCPCbFAZwIcR) | 2:16 | 2023-01-13 |  |
+| [Hazel Eyes](https://open.spotify.com/track/18te6JAwwL6xrKnVgYgXvA) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Hazel Eyes](https://open.spotify.com/album/3Fses3uRSqH6ODu45oPCwH) | 2:22 | 2023-11-24 |  |
 | [Heart Chakra](https://open.spotify.com/track/7jOoaIGbwxtH1dpcGp1YSP) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Heart Chakra](https://open.spotify.com/album/1Ns9DLdpOhM2MN8LRuwBHx) | 2:17 | 2023-01-13 |  |
 | [Heart\-Shaped](https://open.spotify.com/track/35Y8cKrF1T4fvkWkfEXCZM) | [Lovely Rascals](https://open.spotify.com/artist/3vxzErr7ghDB5qnfFXnaw3) | [Heart\-Shaped](https://open.spotify.com/album/3QREKCZ4wBIIjZT9iLnXN8) | 2:48 | 2023-01-13 |  |
 | [hello there](https://open.spotify.com/track/4KXDXzJQSFnDBwxee5OWuR) | [akanekuro](https://open.spotify.com/artist/1KyLdid5oA2QFMEzAwo3ZJ) | [hello there](https://open.spotify.com/album/5cSWlGSvXTpMYKX7IEhdbY) | 2:08 | 2023-01-13 |  |
@@ -382,6 +386,7 @@
 | [Moths](https://open.spotify.com/track/1fPDT8ofsWYmPA1x80mjyJ) | [Dolow](https://open.spotify.com/artist/4a45hyniqH4TLiUs5rzZsX) | [Moths](https://open.spotify.com/album/26VMqOfJxBeN9xUbqJpUpc) | 1:55 | 2023-01-13 | 2023-09-29 |
 | [Mottomi \- Cafe](https://open.spotify.com/track/1E6KyBb9JX8Q5uo0S7L2eK) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [Mottomi](https://open.spotify.com/album/1puzRyBPeS5eaCwnSojPbZ) | 2:08 | 2023-01-13 |  |
 | [Moving Day](https://open.spotify.com/track/2F8OkL2J78kiRbEOpriTiz) | [Paul Lovett](https://open.spotify.com/artist/30FUFluc69c0JPtKV8IFMB) | [Monsters Inc](https://open.spotify.com/album/5SoKWr4gj5deZu13j6lXOE) | 2:16 | 2023-01-13 |  |
+| [Multiply](https://open.spotify.com/track/2hn3t1cwovKmBKdLcTa76c) | [A & C](https://open.spotify.com/artist/5XIPbKxnUddeoJ2HIlsM6A) | [Multiply](https://open.spotify.com/album/0TCNPI9uK76IZQ8zCp66SJ) | 2:06 | 2023-11-24 |  |
 | [Multiverse](https://open.spotify.com/track/1eNDyRFLcuozAqujBKXIO6) | [Glow Down](https://open.spotify.com/artist/1gWqPuL3TnL7maQnhHAZhn) | [Multiverse](https://open.spotify.com/album/4LiUvrxaW0hy3iMVmDaiGR) | 2:32 | 2023-01-13 | 2023-10-20 |
 | [Mushroom Walk](https://open.spotify.com/track/1KLcjAynOZxnwuqZo1flxz) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk) | [Lost In Space](https://open.spotify.com/album/0LpxID7sN6SPwcaN7AFJQj) | 2:58 | 2023-01-13 | 2023-09-29 |
 | [my boo](https://open.spotify.com/track/0RpChaozqmTFfKbOSXoDtc) | [phonadium](https://open.spotify.com/artist/1EbUbtNohBB2nDSZVdb0P8) | [my boo](https://open.spotify.com/album/2EA8AyJVBzxszkhuDhlqsm) | 2:27 | 2023-01-13 | 2023-11-17 |
@@ -524,6 +529,7 @@
 | [Slightly Jazzy](https://open.spotify.com/track/67bIxQQAzZDibrLS9Mgz9I) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Slightly Jazzy](https://open.spotify.com/album/2XJ7y3X53rJJocxnW8aCyU) | 2:34 | 2023-09-08 | 2023-09-16 |
 | [Sloane](https://open.spotify.com/track/1fbANcHGIX2fCXtKev0pMA) | [Julia Groves](https://open.spotify.com/artist/2kobiVcFE5QbsUbkxkrFq3) | [Sloane](https://open.spotify.com/album/6MFvfBN3PKYApyt3Te04tv) | 2:13 | 2023-01-13 |  |
 | [Slow Ride](https://open.spotify.com/track/10yN0Q26IrLbulFZAQFcKT) | [Zebra Motion](https://open.spotify.com/artist/72rBpbxZQoKW0NdXdVsdcN) | [Slow Ride](https://open.spotify.com/album/6gdjtRIPXekH19XD3Rjx6Q) | 2:37 | 2023-01-13 | 2023-09-08 |
+| [Slowmotion](https://open.spotify.com/track/62FD9nH97vjBJ7UJBlusRA) | [Zauvage](https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s) | [Slowmotion](https://open.spotify.com/album/09cHYQH8RY5ywsDND2EMp1) | 2:28 | 2023-11-24 |  |
 | [slumbering](https://open.spotify.com/track/7lWLyV9svFxaqUbztGPoY8) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [slumbering](https://open.spotify.com/album/0NvpBfxTafFkVIPT4mI5Ph) | 1:56 | 2023-01-13 | 2023-10-20 |
 | [Smokescreen](https://open.spotify.com/track/7fotEELh5SdLslwYPNzVEo) | [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q) | [Smokescreen](https://open.spotify.com/album/4yO1zAL4LaKKb2caDQeAlp) | 2:57 | 2023-04-11 |  |
 | [Smooth Flava](https://open.spotify.com/track/3m7mHhhMWT2IaVYABrIN3x) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [Smooth Flava](https://open.spotify.com/album/35s0EDqvdbTBQrsPT8LzG9) | 2:41 | 2023-09-04 | 2023-10-27 |

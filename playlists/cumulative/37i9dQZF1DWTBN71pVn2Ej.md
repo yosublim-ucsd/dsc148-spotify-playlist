@@ -4,7 +4,7 @@
 
 > The shape of noise to come.
 
-489 songs - 1 day 4 hr 9 min
+492 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [Flowers for Handcuffs](https://open.spotify.com/track/2BaRigwJhkVeIMVkbcnUYT) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [A Hooded Witness](https://open.spotify.com/album/6tqv1rfiDlcXARBcoCyDTz) | 2:53 | 2023-04-07 | 2023-04-22 |
 | [Flowers for Handcuffs](https://open.spotify.com/track/3jm9aU4VMaweWv0Z8qigRO) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [Flowers for Handcuffs](https://open.spotify.com/album/7EAnHOl4iSzdrU9CJ7sW4n) | 2:53 | 2023-03-17 | 2023-04-09 |
 | [Follow You Down](https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Follow You Down](https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc) | 2:16 | 2022-10-21 | 2023-03-11 |
-| [Forgot To Grow](https://open.spotify.com/track/6paoS9bgvq5NQVrljedfFm) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Forgot To Grow](https://open.spotify.com/album/0QP79EOlImpXgzioV8GdeX) | 3:12 | 2023-11-10 |  |
+| [Forgot To Grow](https://open.spotify.com/track/6paoS9bgvq5NQVrljedfFm) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Forgot To Grow](https://open.spotify.com/album/0QP79EOlImpXgzioV8GdeX) | 3:12 | 2023-11-10 | 2023-11-24 |
 | [Fortress](https://open.spotify.com/track/2yQiSbPAwHXCFOoSGkLCzA) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [Fortress](https://open.spotify.com/album/0qnxV6pF12u35kEVqlujBH) | 3:01 | 2023-10-13 |  |
 | [Freak Of Nature](https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Freak of Nature](https://open.spotify.com/album/3G9FJTEpXcL0vYIX31RGP6) | 3:22 | 2023-09-08 |  |
 | [Front Line](https://open.spotify.com/track/5Vj0T5H3DgBYeFZtfMfJTH) | [Broken Hands](https://open.spotify.com/artist/3YOhTvIIQgGkcSEXUfu7HE) | [Front Line](https://open.spotify.com/album/7sKhbFYxVkFPTjFduWSbhk) | 3:38 | 2022-06-02 | 2022-09-07 |
@@ -239,6 +239,7 @@
 | [Joy Thief](https://open.spotify.com/track/0TvVyjWvb13ZMm9aquJkdy) | [Dosser](https://open.spotify.com/artist/4docLaOEimvNmjei3CLOzB) | [Joy Thief](https://open.spotify.com/album/1j3gt3dSyuzOxHhNxXWOGR) | 3:57 | 2022-09-06 | 2023-02-10 |
 | [Kamikaze](https://open.spotify.com/track/2sqNP3eZQzEaiy2cSrMKC6) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Kamikaze](https://open.spotify.com/album/1Mkw4WVQayaOJUOQDnhv8T) | 3:22 | 2022-09-06 | 2023-02-10 |
 | [Keep Me Sane](https://open.spotify.com/track/2WOICHVDt9A9xDwWG4i8Jw) | [Loose Lips](https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND) | [Keep Me Sane](https://open.spotify.com/album/2qgPRNfb783lWEpKc3Gmpj) | 3:10 | 2023-03-17 | 2023-04-01 |
+| [Kids](https://open.spotify.com/track/6yFPiMOCa00P1y0QupLQtL) | [Dosser](https://open.spotify.com/artist/4docLaOEimvNmjei3CLOzB) | [Violent Picture / Violent Sound](https://open.spotify.com/album/33xiWD33xTarcUbn8Le2hT) | 4:00 | 2023-11-23 |  |
 | [Kill the Moth](https://open.spotify.com/track/6xaYew5NA3m7QFHwayDjsy) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [Kill the Moth](https://open.spotify.com/album/2U304e33s5VZ6xfzXKfYuS) | 2:21 | 2023-06-02 |  |
 | [Killing Time](https://open.spotify.com/track/4me6CoGX1RHTu7VE7Hnkpl) | [Bleed](https://open.spotify.com/artist/15DYcBNS0c6bfsoezOIzT3) | [Killing Time](https://open.spotify.com/album/0RrpTBev2XySRIyv8dnNKn) | 3:14 | 2022-10-07 |  |
 | [Killing Time](https://open.spotify.com/track/5h2zlwT2jML36Y6vUNRH9h) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Killing Time / Lead Pipe](https://open.spotify.com/album/2Kf6AR80jAmKRoaoTYVbV8) | 3:50 | 2023-05-03 | 2023-07-04 |
@@ -258,7 +259,7 @@
 | [Life's a Pill](https://open.spotify.com/track/4XvNALxzCzwFymLvN9Daes) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Life's a Pill](https://open.spotify.com/album/3vH68KoocrWeWtYoQsL60s) | 3:37 | 2023-09-08 |  |
 | [Life's Coming in Slow \- from GRAN TURISMO 7](https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Life's Coming in Slow \(from GRAN TURISMO 7\)](https://open.spotify.com/album/6SCFmqcXOVneLBo6eks8k1) | 2:49 | 2022-02-21 | 2022-09-07 |
 | [Lightning Field](https://open.spotify.com/track/76EZdckv7V2EIyvSu6hpx8) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 2:23 | 2021-12-16 | 2022-02-04 |
-| [Lights Out](https://open.spotify.com/track/0DlW7YgEY7s5qgdmAzcvdj) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [Never Saw It Coming](https://open.spotify.com/album/0VB2l8t71fOQXi9d4lCSeu) | 2:53 | 2023-07-28 |  |
+| [Lights Out](https://open.spotify.com/track/0DlW7YgEY7s5qgdmAzcvdj) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [Never Saw It Coming](https://open.spotify.com/album/0VB2l8t71fOQXi9d4lCSeu) | 2:53 | 2023-07-28 | 2023-11-24 |
 | [Like A Drug](https://open.spotify.com/track/5VDiBRQ6k1RW7H6HGcyme8) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Like A Drug](https://open.spotify.com/album/4KFtddTAu8FBQ5bwymJxZv) | 3:32 | 2022-03-31 | 2022-09-07 |
 | [Little Miss Innocent](https://open.spotify.com/track/12IZSgW7o6fR37QUIfBA1A) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Here's To Being Alive](https://open.spotify.com/album/7yuj8y6ZPVxQUTMJoRRggq) | 2:48 | 2022-03-24 | 2022-09-07 |
 | [Long Way](https://open.spotify.com/track/2q8zC3kA9AYPKsreJ1BoFM) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Long Way](https://open.spotify.com/album/2DfwEF4SRYhYRfZNxX3Z2K) | 3:26 | 2023-10-20 |  |
@@ -336,7 +337,7 @@
 | [Plastic](https://open.spotify.com/track/5QNcjQ59mtn96GALPY1xBO) | [Glitterer](https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj) | [Plastic](https://open.spotify.com/album/40xqzqZgP5bKNE0BIq8KnQ) | 1:24 | 2023-10-27 |  |
 | [Play My Favourite Song](https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Play My Favourite Song](https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat) | 2:35 | 2023-03-02 | 2023-07-07 |
 | [Playback '99 \(Burn the Cassette Deck\)](https://open.spotify.com/track/42aJXANJRz2Prmz48ZGElE) | [The Juliana Theory](https://open.spotify.com/artist/7obdmuirClkgU94pcUy05m) | [Playback '99 \(Burn the Cassette Deck\)](https://open.spotify.com/album/3aBKxP5DFuVPGRLZmJVDrm) | 4:02 | 2022-03-31 | 2022-06-17 |
-| [Playing With Fire](https://open.spotify.com/track/6Du6wbMKta7bWKuFeT2dVi) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Playing With Fire / ELF](https://open.spotify.com/album/5S0CnSM5Ni9l7W7xhdhhqF) | 3:23 | 2023-10-13 |  |
+| [Playing With Fire](https://open.spotify.com/track/6Du6wbMKta7bWKuFeT2dVi) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Playing With Fire / ELF](https://open.spotify.com/album/5S0CnSM5Ni9l7W7xhdhhqF) | 3:23 | 2023-10-13 | 2023-11-24 |
 | [Positive Charge](https://open.spotify.com/track/0hfEJ8ls6bsD4mE1xLVaJO) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Positive Charge](https://open.spotify.com/album/65tqECce0kcEihRHm8QDmR) | 4:05 | 2023-05-19 | 2023-07-21 |
 | [Proud Of You](https://open.spotify.com/track/0PAyt2UZAFlt8IxUm6bVSS) | [Wayside](https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x) | [Proud Of You](https://open.spotify.com/album/2b8gPyA3J0k2XqD0QdcNEg) | 3:56 | 2023-08-31 | 2023-10-21 |
 | [Pull a Little Closer](https://open.spotify.com/track/0dP6zvd8GGgicv6bYnzBlR) | [Bleach](https://open.spotify.com/artist/6BKGabg962snvdMW6BywXW) | [Pull a Little Closer](https://open.spotify.com/album/4MNPxWdAlcLQWptuduqfDw) | 4:02 | 2021-12-16 | 2022-06-24 |
@@ -412,6 +413,7 @@
 | [Sunshine](https://open.spotify.com/track/2czqsuJetQmyHxx3M009FX) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:14 | 2023-11-10 |  |
 | [Sunshine](https://open.spotify.com/track/5lX4aJdcJj3pHYH9mgmWFS) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Sunshine](https://open.spotify.com/album/7tPJDOePzz8zxlHtTPTJVA) | 3:14 | 2023-04-14 | 2023-06-10 |
 | [Supernatural](https://open.spotify.com/track/04Ndcc1318s9s9gRGGlrQo) | [NVM](https://open.spotify.com/artist/3DkHOBTtRZIj7m2aF42rtC) | [Supernatural](https://open.spotify.com/album/61yrnIQNoSMirv6gadFV6W) | 3:52 | 2023-01-06 | 2023-05-13 |
+| [Supernatural](https://open.spotify.com/track/5SBl10YxMr1oimb5ur4VAl) | [NVM](https://open.spotify.com/artist/3DkHOBTtRZIj7m2aF42rtC) | [Burning Halos](https://open.spotify.com/album/3cIrdBgxHkf6o65enOmvTO) | 3:52 | 2023-11-23 |  |
 | [Supernova](https://open.spotify.com/track/4qZSCfYTF2sJ2wiuQXYLHO) | [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Staircase Music](https://open.spotify.com/album/1kjJ7hY4eqtHNwvAcgEZxt) | 3:21 | 2022-02-17 | 2022-07-01 |
 | [Suspect](https://open.spotify.com/track/1L2I2u02iJkQMUalrOYI19) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Suspect](https://open.spotify.com/album/4KU9hQndjgoFYtgRMPoyln) | 3:47 | 2023-02-02 | 2023-05-04 |
 | [Swallow](https://open.spotify.com/track/71rdrqh7onH9Y8qJkBjkFg) | [If Kansas Had Trees](https://open.spotify.com/artist/3YEeJlxfkfxvuPVw5NxiS2) | [Swallow](https://open.spotify.com/album/3DHnEMsVi1H1FqOX4U0lwC) | 4:40 | 2023-02-24 | 2023-06-10 |
@@ -460,6 +462,7 @@
 | [Two Tone Marionette](https://open.spotify.com/track/0PH22JbOIKUc10QRur2dfF) | [NVM](https://open.spotify.com/artist/3DkHOBTtRZIj7m2aF42rtC) | [Two Tone Marionette](https://open.spotify.com/album/5IXMoep5wF4BBJmq6YIXDm) | 4:41 | 2022-10-28 | 2023-02-03 |
 | [UGLY BUG](https://open.spotify.com/track/1ZcDbE8gp4GnmcfVJWdjcs) | [Downward](https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU) | [The Brass Tax](https://open.spotify.com/album/0Gk4iJWdsWeKLW29qk5hzT) | 3:54 | 2022-02-24 | 2022-07-01 |
 | [Under The Knife](https://open.spotify.com/track/3XtlCUDgBJaPbK0S4LKPbA) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Under The Knife](https://open.spotify.com/album/7t8h0W6FsxiFFE4EHeBc5S) | 2:56 | 2022-09-22 | 2023-04-15 |
+| [Undertow](https://open.spotify.com/track/5v3bNY9RlHiv1Otplrmr9s) | [Capsule 9](https://open.spotify.com/artist/6IYuuT4OmtT8w4lnQohDNO) | [Take As Prescribed](https://open.spotify.com/album/6tAuUa4KEZRcWUhfphkVww) | 2:47 | 2023-11-23 |  |
 | [Unlovable](https://open.spotify.com/track/43wZfR5xALfBTKWolvDmya) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Unlovable](https://open.spotify.com/album/3feABk2LYfvJgfSXyjgqU8) | 3:30 | 2022-08-31 | 2022-09-09 |
 | [Up Against It](https://open.spotify.com/track/4cwhDJiQ3vhbcxOapza2MB) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Up Against It](https://open.spotify.com/album/5qpNqPxwizc4AKeVjAPPpD) | 3:06 | 2023-01-20 | 2023-04-01 |
 | [Velvet Hippo](https://open.spotify.com/track/4lJ9iKz54TQDE0SJMegViN) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Velvet Hippo](https://open.spotify.com/album/2Z8dKyKk7B5gVaKSqCL6vr) | 3:31 | 2023-09-22 | 2023-11-11 |

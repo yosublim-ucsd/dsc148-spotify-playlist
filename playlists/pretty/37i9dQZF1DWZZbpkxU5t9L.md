@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: Vaundy, Cory wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,688 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,694 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 49 | [Sugar Honey](https://open.spotify.com/track/7iB96cXDuwxr5mhPfg9J0U) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Sugar Honey](https://open.spotify.com/album/1sjIR9eofpdxuRYwNCgUYV) | 3:25 |
 | 50 | [DREAM!](https://open.spotify.com/track/2aMhMP58VvMNo239lQihep) | [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [DREAM!](https://open.spotify.com/album/5o9p4CUP9NUx7F3C4O0IMK) | 3:20 |
 
-Snapshot ID: `MCwzNDdhM2RlMDQ3ZTM4OWU2NzA3NzA5OGU4NjdkOTIyM2FjMzNkOTEy`
+Snapshot ID: `MCw3NWU3NzhlNjM3YzY0MmQyZWRkMmQ4N2MxZGYxZDBlYmJlMGM5YWM3`

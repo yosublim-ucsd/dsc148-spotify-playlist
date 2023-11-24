@@ -315,6 +315,32 @@
     },
     {
       "album": {
+        "name": "All In (Fender Acoustic)",
+        "url": "https://open.spotify.com/album/28OBI9u2IlOmvZuDU9lNwC"
+      },
+      "artists": [
+        {
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+        },
+        {
+          "name": "NESTA",
+          "url": "https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx"
+        },
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "All In - Fender Acoustic",
+      "url": "https://open.spotify.com/track/0ptUNefO7UXD5tSJv2cjUB"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/174mHmspreZdu8DOUGwFHg"
       },
@@ -472,7 +498,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 167355,
       "name": "Anticipate",
       "url": "https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA"
@@ -730,7 +756,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 174964,
       "name": "Beautiful Lies",
       "url": "https://open.spotify.com/track/319NHi9Pdo152nUvVBWlgS"
@@ -1379,6 +1405,28 @@
     },
     {
       "album": {
+        "name": "Coat",
+        "url": "https://open.spotify.com/album/6MrDXdoSfJyULkVYDUIm0n"
+      },
+      "artists": [
+        {
+          "name": "Rvdical the Kid",
+          "url": "https://open.spotify.com/artist/4eu9GW8WwzF6n6fb34COES"
+        },
+        {
+          "name": "Maesu",
+          "url": "https://open.spotify.com/artist/2kk1THOr0gsQaAqOj02tbl"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90358,
+      "name": "Coat",
+      "url": "https://open.spotify.com/track/72I8QNOhxOPlIUd706FPHd"
+    },
+    {
+      "album": {
         "name": "Come Closer",
         "url": "https://open.spotify.com/album/24ExWn1W0i4NzG1CPxXYXT"
       },
@@ -1492,7 +1540,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 160879,
       "name": "Confess",
       "url": "https://open.spotify.com/track/39SPbq7NgY7ZzKQUf1G0sr"
@@ -2067,6 +2115,28 @@
     },
     {
       "album": {
+        "name": "Fine",
+        "url": "https://open.spotify.com/album/2xS0FKkPCvYQuHW2lel1lp"
+      },
+      "artists": [
+        {
+          "name": "$pacely",
+          "url": "https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/59rDOkRxRZgmhAGLCJIKcs"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/5NcUF8EKTsWbhhRkhCAiR9"
+    },
+    {
+      "album": {
         "name": "Fine Wine (ft. Amaarae)",
         "url": "https://open.spotify.com/album/6BIs3FxdoJXjJFVAbPWR61"
       },
@@ -2308,7 +2378,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 177946,
       "name": "History",
       "url": "https://open.spotify.com/track/42ksa1gP6QjQo12FUd0C1H"
@@ -3175,6 +3245,24 @@
     },
     {
       "album": {
+        "name": "Wayyy Saucy",
+        "url": "https://open.spotify.com/album/4ZG7gMykuBh6qo1uhpbxl6"
+      },
+      "artists": [
+        {
+          "name": "Senth",
+          "url": "https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/5ExWQrTxlHdfCssnKpIxu9"
+    },
+    {
+      "album": {
         "name": "Maame Water",
         "url": "https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS"
       },
@@ -3332,7 +3420,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 237346,
       "name": "MEDITATE",
       "url": "https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX"
@@ -3857,6 +3945,24 @@
     },
     {
       "album": {
+        "name": "OVER U",
+        "url": "https://open.spotify.com/album/0MiAhc6LyVv2S85AMHlYPm"
+      },
+      "artists": [
+        {
+          "name": "OOSHA",
+          "url": "https://open.spotify.com/artist/6OhHuHGJe5YfFNsaoIAWZm"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "OVER U",
+      "url": "https://open.spotify.com/track/3NuOLmaGz1MPCFFmX6zdef"
+    },
+    {
+      "album": {
         "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
         "url": "https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q"
       },
@@ -4014,7 +4120,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 160679,
       "name": "Peperomia",
       "url": "https://open.spotify.com/track/5VvTAowsgsx2pbN1nIpH0D"
@@ -4747,6 +4853,28 @@
     },
     {
       "album": {
+        "name": "SNAPCHAT",
+        "url": "https://open.spotify.com/album/2u3ssIBPv4Gii5gpfNm0Wd"
+      },
+      "artists": [
+        {
+          "name": "Chrystel",
+          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185033,
+      "name": "SNAPCHAT",
+      "url": "https://open.spotify.com/track/5kp1hRoHrNokFflgzjzrGl"
+    },
+    {
+      "album": {
         "name": "The Second Wave",
         "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
       },
@@ -5232,6 +5360,28 @@
       "duration_ms": 186401,
       "name": "Sweet Life",
       "url": "https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq"
+    },
+    {
+      "album": {
+        "name": "Swing",
+        "url": "https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F"
+      },
+      "artists": [
+        {
+          "name": "Ogranya",
+          "url": "https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of"
+        },
+        {
+          "name": "Shorae Moore",
+          "url": "https://open.spotify.com/artist/7oa259fCCMN3S80h0Vmxtp"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174366,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/1Ok6aF4jh2Ij3dCD33ARkG"
     },
     {
       "album": {
@@ -6420,7 +6570,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 157714,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/2vUJStwzYUdARJWLOZSUml"

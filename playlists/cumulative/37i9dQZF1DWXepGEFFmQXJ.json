@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Lane Pittman",
+  "description": "The cream of today's Country crop. Cover: Zac & George",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -694,7 +694,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 170598,
       "name": "Been Better",
       "url": "https://open.spotify.com/track/6FhR5krBQdAF8DbjqRp377"
@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 209000,
       "name": "Called It",
       "url": "https://open.spotify.com/track/6dYuef1LgfWOze15agxnJv"
@@ -4849,6 +4849,24 @@
     },
     {
       "album": {
+        "name": "Made Your Bed",
+        "url": "https://open.spotify.com/album/5WvxLCVOUaTSyftyLpWrFh"
+      },
+      "artists": [
+        {
+          "name": "Tori Forsyth",
+          "url": "https://open.spotify.com/artist/0UVISIZtASrGYL3975rp6w"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229343,
+      "name": "Made Your Bed",
+      "url": "https://open.spotify.com/track/31MzWcw631ZhqvFSQFyZC0"
+    },
+    {
+      "album": {
         "name": "Beach House EP",
         "url": "https://open.spotify.com/album/6rUHR6JumTPgpP3q5G3Usq"
       },
@@ -5066,6 +5084,24 @@
       "duration_ms": 228186,
       "name": "Minimum Wage",
       "url": "https://open.spotify.com/track/4ijajhHtBsOn91S4dgkhu7"
+    },
+    {
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/4TlsN3iiRcwKrxG8TiQ015"
+      },
+      "artists": [
+        {
+          "name": "Casey Barnes",
+          "url": "https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183533,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/0132woHTsOzDxlfVs3PuqO"
     },
     {
       "album": {
@@ -5354,7 +5390,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 183924,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/2hOKrPOGFsWinOWguSvjSR"
@@ -6206,7 +6242,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 229106,
       "name": "Remember Me Well",
       "url": "https://open.spotify.com/track/1Eii2r1Y6Whb6U5URN1Ydm"
@@ -6372,6 +6408,24 @@
       "duration_ms": 186341,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/7jWXoYMa2fd6xrIJ1AOcjb"
+    },
+    {
+      "album": {
+        "name": "Poet\u2019s Resum\u00e9",
+        "url": "https://open.spotify.com/album/575dPLrl892d2TGGeZHDj8"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174497,
+      "name": "Runnin' Outta Love",
+      "url": "https://open.spotify.com/track/2P1uTsmeAdTBy1fl1cdYB8"
     },
     {
       "album": {
@@ -6782,6 +6836,24 @@
       "duration_ms": 253445,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/4otlvyelfJJxZlu63beJUN"
+    },
+    {
+      "album": {
+        "name": "Sin So Sweet",
+        "url": "https://open.spotify.com/album/45GYmPkrKlJKNoEumS726f"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201053,
+      "name": "Sin So Sweet",
+      "url": "https://open.spotify.com/track/4N3mpuGDYO39LYh4XepwbO"
     },
     {
       "album": {
@@ -7985,6 +8057,24 @@
     },
     {
       "album": {
+        "name": "Think I\u2019m In Love With You",
+        "url": "https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222800,
+      "name": "Think I'm In Love With You",
+      "url": "https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa"
+    },
+    {
+      "album": {
         "name": "Thinkin' We're In Love",
         "url": "https://open.spotify.com/album/2xgnv0PA9ibnyNbjrksmww"
       },
@@ -8880,7 +8970,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 267893,
       "name": "White Horse",
       "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"

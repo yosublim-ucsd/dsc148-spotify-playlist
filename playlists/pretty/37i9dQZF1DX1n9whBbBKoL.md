@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 
 > Ambient drone to make you feel weightless.
 
-[Spotify](https://open.spotify.com/user/spotify) - 663,746 likes - 146 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 663,917 likes - 146 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 | 100 | [Across the Sky](https://open.spotify.com/track/2LqrkTxO7V6R0xoLEdtyaQ) | [Jenna Talenti](https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo) | [Across the Sky](https://open.spotify.com/album/2h7RIAyJ3vvnW4Wl8vnklD) | 2:09 |
 | 101 | [Peaceful Sleep](https://open.spotify.com/track/3s5nxh8pO8wMs62xN6F6PV) | [Mikkel Boyer](https://open.spotify.com/artist/1HhdV78nBxhhXAnJKVDEu8) | [Peaceful Sleep](https://open.spotify.com/album/1Cm81VOSmwDbqvOjygazp5) | 2:54 |
 | 102 | [Revolve](https://open.spotify.com/track/0X33Oo6yg2qlTsrFiH1qta) | [Sleepless Eye](https://open.spotify.com/artist/0q1jgFxjleKLegFYRiyPxS) | [Revolve](https://open.spotify.com/album/5x1eSN3IFw7QEbT9sm44w2) | 3:07 |
-| 103 | [Pharīthī](https://open.spotify.com/track/6FAg23nCoYoNOpV7QXc3nb) | [Sami Muni](https://open.spotify.com/artist/2s6Fglo2Tu3BBUFr5Ihcq9) | [Pharīthī](https://open.spotify.com/album/18Wd2srZXYBVVGpUBUqPof) | 2:08 |
+| 103 | [Pharīthī](https://open.spotify.com/track/6FAg23nCoYoNOpV7QXc3nb) | [Sami Muni](https://open.spotify.com/artist/14ysBEpCMcW4sV0CWhiPRe) | [Pharīthī](https://open.spotify.com/album/18Wd2srZXYBVVGpUBUqPof) | 2:08 |
 | 104 | [Runic Inscriptions on Parapets](https://open.spotify.com/track/5Zlpz6ITS8QTfmFY9RUT4F) | [Old Norse](https://open.spotify.com/artist/0mF2EOEFiENizRK7E4ybuX) | [Hall in Bonn](https://open.spotify.com/album/6pTkaZaATdn52njMTppf6u) | 3:12 |
 | 105 | [Beautiful Imagination](https://open.spotify.com/track/5LEHlRPjGcZ5RdagAwXpHS) | [Little Circuits](https://open.spotify.com/artist/1UyzP6admqk7jIIgedlD4B) | [Beautiful Imagination](https://open.spotify.com/album/3hFObbQaeADDqmUJM6BXlQ) | 2:23 |
 | 106 | [Inner Journey](https://open.spotify.com/track/4w3i820SHA0fOpqmtyAPFu) | [Chopade](https://open.spotify.com/artist/4l026BCC3zvPlM1ByCfPgv) | [Inner Journey](https://open.spotify.com/album/3eZwNjKK21LjFeqNqHj33I) | 3:42 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 | 145 | [Nebula](https://open.spotify.com/track/2sf4TXYzqSRdxfwu5auS6r) | [Orla and the Stars](https://open.spotify.com/artist/4RxXXiPn3BQ1PxUnmygCLA) | [Star Ascent](https://open.spotify.com/album/6JIhSF94ncaPE3PLPbiz1b) | 3:17 |
 | 146 | [Carried Away](https://open.spotify.com/track/7iS9HAX2IOXeNLEgoGwZYi) | [Counting Tides](https://open.spotify.com/artist/40ojB8ApYVpcfLDCkoSLDV) | [Carried Away](https://open.spotify.com/album/6w9bA9xq4bmYTb06js67RU) | 2:55 |
 
-Snapshot ID: `MCxjZmM2YzA2N2ZlMGZjMTY4YTA3ZjNhMzUwZWMzYWEyN2I5MGEwMGZk`
+Snapshot ID: `MCxmYTMyZjRkY2QzMTI0MjQ4YmQ5YzVhMTVjZTkyYTQxZTI5ZDNhYWJl`

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 685892,
+  "num_followers": 685890,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjc1MmQzOTc4NDkwODUyZWIxN2E3MzU4ZWVmOWZjNTkzZTJmNTli",
+  "snapshot_id": "MCw0MGQ3ODFhNmQ3MDYxNDU2YzQ4MDdjYTY0NzNjOGNkNjk2NmU5NDEx",
   "tracks": [
     {
       "added_at": "2023-11-10 00:01:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Serotonin Moonbeams",
-        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
-      },
-      "artists": [
-        {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        }
-      ],
-      "duration_ms": 289471,
-      "name": "Serotonin Moonbeams",
-      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "What Would You Do?",
         "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
       },
@@ -335,18 +319,18 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Jealous",
-        "url": "https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ"
+        "name": "Serotonin Moonbeams",
+        "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
       },
       "artists": [
         {
-          "name": "Mochakk",
-          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
         }
       ],
-      "duration_ms": 256406,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0"
+      "duration_ms": 289471,
+      "name": "Serotonin Moonbeams",
+      "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -363,6 +347,22 @@
       "duration_ms": 167142,
       "name": "Melody",
       "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        }
+      ],
+      "duration_ms": 256406,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Talamanca",
-        "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
-      },
-      "artists": [
-        {
-          "name": "BURNS",
-          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
-        }
-      ],
-      "duration_ms": 186727,
-      "name": "Talamanca",
-      "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/5aY4t7BbsfZ7WOTSOXnMUc"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 160000,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/7K9ZxHYSwVJ1BTC044EUNw"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Talamanca",
+        "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
+      },
+      "artists": [
+        {
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        }
+      ],
+      "duration_ms": 186727,
+      "name": "Talamanca",
+      "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Rather Be Alone",
-        "url": "https://open.spotify.com/album/5MFbTHhx95bMJrUfyELiQo"
-      },
-      "artists": [
-        {
-          "name": "Shane Codd",
-          "url": "https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ"
-        }
-      ],
-      "duration_ms": 137419,
-      "name": "Rather Be Alone",
-      "url": "https://open.spotify.com/track/1hUV7Uu4pYQZaaXLjEIIYn"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Unfoolish (You Must Be Used To Me Crying)",
         "url": "https://open.spotify.com/album/4Fxgfr9pg3csJp73m5SZ53"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 133462,
       "name": "Unfoolish (You Must Be Used To Me Crying)",
       "url": "https://open.spotify.com/track/3n8hN6Q8tQR8JHvRQSGFuU"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Rather Be Alone",
+        "url": "https://open.spotify.com/album/5MFbTHhx95bMJrUfyELiQo"
+      },
+      "artists": [
+        {
+          "name": "Shane Codd",
+          "url": "https://open.spotify.com/artist/2s7Oijd4mFGgEkhYJtf3sJ"
+        }
+      ],
+      "duration_ms": 137419,
+      "name": "Rather Be Alone",
+      "url": "https://open.spotify.com/track/1hUV7Uu4pYQZaaXLjEIIYn"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Pleasure Peak",
-        "url": "https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "The Martinez Brothers",
-          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Pleasure Peak",
-      "url": "https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Good Luck",
         "url": "https://open.spotify.com/album/05tBKh2vFcXIUTk3lRHKFy"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 147597,
       "name": "Good Luck",
       "url": "https://open.spotify.com/track/04oTyEbJ190RfXWSlTP4b7"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Pleasure Peak",
+        "url": "https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "Pleasure Peak",
+      "url": "https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "tonight belongs to you",
-        "url": "https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS"
-      },
-      "artists": [
-        {
-          "name": "Bissett",
-          "url": "https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7"
-        }
-      ],
-      "duration_ms": 147075,
-      "name": "tonight belongs to you",
-      "url": "https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/0ZkZ1UQ7SPAhM0E6RrPRMZ"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 173601,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/7EVHULTsnqPHH2kvCQ1r8j"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "tonight belongs to you",
+        "url": "https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS"
+      },
+      "artists": [
+        {
+          "name": "Bissett",
+          "url": "https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7"
+        }
+      ],
+      "duration_ms": 147075,
+      "name": "tonight belongs to you",
+      "url": "https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
-        "name": "Foolish",
-        "url": "https://open.spotify.com/album/55kAr1O53DgjDiEdM0E8fc"
-      },
-      "artists": [
-        {
-          "name": "Jack Fowler",
-          "url": "https://open.spotify.com/artist/5JpqaGiRxnYKrmys8Oh8oO"
-        },
-        {
-          "name": "Tom Zanetti",
-          "url": "https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Foolish (feat. Tom Zanetti)",
-      "url": "https://open.spotify.com/track/2CXSRpNHd9zVSWKSFp1wQ3"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
         "name": "Motown Philly",
         "url": "https://open.spotify.com/album/2Rb5KdeDt7P1WASorfVR46"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 158140,
       "name": "Motown Philly",
       "url": "https://open.spotify.com/track/07Jkr2QHuoVGBLVhZNpRFl"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
+        "name": "Foolish",
+        "url": "https://open.spotify.com/album/55kAr1O53DgjDiEdM0E8fc"
+      },
+      "artists": [
+        {
+          "name": "Jack Fowler",
+          "url": "https://open.spotify.com/artist/5JpqaGiRxnYKrmys8Oh8oO"
+        },
+        {
+          "name": "Tom Zanetti",
+          "url": "https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Foolish (feat. Tom Zanetti)",
+      "url": "https://open.spotify.com/track/2CXSRpNHd9zVSWKSFp1wQ3"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Feels",
+        "url": "https://open.spotify.com/album/47wCYDJUFpC2MZkrQF5ZpK"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 147987,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/1e2VTVaFPqbOk3LoRFkA64"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "Who Let The Dogs Out (feat. EVALINA)",
         "url": "https://open.spotify.com/album/6HuFQMd2x57nMXOImxw9Tm"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 136120,
       "name": "Who Let The Dogs Out (feat. EVALINA)",
       "url": "https://open.spotify.com/track/5eF4cNJ30kdTXnlmUfN8dw"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Feels",
-        "url": "https://open.spotify.com/album/47wCYDJUFpC2MZkrQF5ZpK"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 147987,
-      "name": "Feels",
-      "url": "https://open.spotify.com/track/1e2VTVaFPqbOk3LoRFkA64"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/1nE53MrFK1xt3AYvKdwpQZ"
+      },
+      "artists": [
+        {
+          "name": "New Hype",
+          "url": "https://open.spotify.com/artist/394nMXTFPSgEKKDUverHbo"
+        }
+      ],
+      "duration_ms": 172538,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/7mQmVvJCFwhHSSXwZwnPRQ"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "Ascending Into The Clouds (feat. Elisabeth Troy) [Edit]",
         "url": "https://open.spotify.com/album/6RkAmdnqMxodcx6t6dKg5K"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 208217,
       "name": "Ascending Into The Clouds (feat. Elisabeth Troy) - Edit",
       "url": "https://open.spotify.com/track/5dlwxxHd9RNBPP3PwlLZgB"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/1nE53MrFK1xt3AYvKdwpQZ"
-      },
-      "artists": [
-        {
-          "name": "New Hype",
-          "url": "https://open.spotify.com/artist/394nMXTFPSgEKKDUverHbo"
-        }
-      ],
-      "duration_ms": 172538,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/7mQmVvJCFwhHSSXwZwnPRQ"
     },
     {
       "added_at": "2023-11-10 00:01:00",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2023-11-10 00:01:00",
       "album": {
+        "name": "Just Let Go",
+        "url": "https://open.spotify.com/album/06XNm5rEIqsbFVkLwkZP84"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Just Let Go",
+      "url": "https://open.spotify.com/track/1J9ImnWMtxpx1XfwCzKpkj"
+    },
+    {
+      "added_at": "2023-11-10 00:01:00",
+      "album": {
         "name": "African Lady (Antenna)",
         "url": "https://open.spotify.com/album/2ikxyffOctYIQHMCBpteFS"
       },
@@ -1907,22 +1923,6 @@
       "duration_ms": 116053,
       "name": "African Lady (Antenna)",
       "url": "https://open.spotify.com/track/182Av0m3TEXH9KcEy8G1Yt"
-    },
-    {
-      "added_at": "2023-11-10 00:01:00",
-      "album": {
-        "name": "Just Let Go",
-        "url": "https://open.spotify.com/album/06XNm5rEIqsbFVkLwkZP84"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Just Let Go",
-      "url": "https://open.spotify.com/track/1J9ImnWMtxpx1XfwCzKpkj"
     },
     {
       "added_at": "2023-11-10 00:01:00",

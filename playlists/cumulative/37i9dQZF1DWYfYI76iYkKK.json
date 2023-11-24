@@ -484,7 +484,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 258232,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/3mPXXU0e6toyDqBB2ZFuRs"
@@ -812,7 +812,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 314000,
       "name": "Softer Than Starlight\uff08\u67d4\u591a\u6bd4\u661f\uff09",
       "url": "https://open.spotify.com/track/6g4wGpxgBgFscfxDZiKHyN"
@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 249057,
       "name": "\u4e0d\u61c2\u7d55\u671b",
       "url": "https://open.spotify.com/track/1RLSpChhEUOWkPKRvWt9oY"
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 269655,
       "name": "\u4e8c\u5341\u6b72",
       "url": "https://open.spotify.com/track/32SmMhT7gv6hrE0yRfoApm"
@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 266286,
       "name": "\u5047\u7537\u53cb",
       "url": "https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX"
@@ -1832,6 +1832,24 @@
       "duration_ms": 259466,
       "name": "\u518d\u4e00\u6b21\u64c1\u6709",
       "url": "https://open.spotify.com/track/447anYXT2ONrCfw3PlXLWV"
+    },
+    {
+      "album": {
+        "name": "\u5b89\u8eab",
+        "url": "https://open.spotify.com/album/0f7QIa96ACvp6OR1e70TeZ"
+      },
+      "artists": [
+        {
+          "name": "\u6d2a\u6d69\u7ae3 Anson",
+          "url": "https://open.spotify.com/artist/2CfGVBMPqLbHilWUaWxzJk"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "\u518d\u898b\u6211\u8b1b",
+      "url": "https://open.spotify.com/track/3lLQxUFSWmjHwShvIFEIwA"
     },
     {
       "album": {
@@ -2448,7 +2466,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 211110,
       "name": "\u5927\u6d77",
       "url": "https://open.spotify.com/track/2PBgXM5T6RGutisj2Nrv5Z"
@@ -3032,7 +3050,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 202470,
       "name": "\u5fc3\u7684\u4e00\u5929",
       "url": "https://open.spotify.com/track/5lEX3SmF9PW55qLo9GjbPw"
@@ -3706,7 +3724,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 290022,
       "name": "\u6211\u9019\u500b\u4eba - \u300a\u6211\u6c92\u6709\u8ac7\u7684\u90a3\u5834\u6200\u611b\u300b\u96fb\u5f71\u5ba3\u50b3\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/6jUOZRbaQc9nX8grCUTq24"
@@ -3800,6 +3818,24 @@
       "duration_ms": 287619,
       "name": "\u623f\u9593",
       "url": "https://open.spotify.com/track/3WJyxHcSKh7Pd2hrp3qCn1"
+    },
+    {
+      "album": {
+        "name": "\u62b5\u9054\u4e4b\u8b0e",
+        "url": "https://open.spotify.com/album/2LZlbhC0iWGxb5GXeIZSou"
+      },
+      "artists": [
+        {
+          "name": "\u912d\u8208",
+          "url": "https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304849,
+      "name": "\u62b5\u9054\u4e4b\u8b0e",
+      "url": "https://open.spotify.com/track/2sd9LSgHVnLpfw1ZNNb3nH"
     },
     {
       "album": {
@@ -3922,7 +3958,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 234828,
       "name": "\u65c5\u884c\u4e2d\u5fd8\u8a18",
       "url": "https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA"
@@ -5372,7 +5408,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 207000,
       "name": "\u8352\u5cf6",
       "url": "https://open.spotify.com/track/4KYWEzS8298WL2vzEaGUzy"

@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 106842,
+  "num_followers": 106857,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjQ1MmZkM2RhNGJlMTFkNDJmNmY4NjkzMTYyOWQ0NjE2ZTJmODJj",
+  "snapshot_id": "MCwxZjFiNDFiYWI2YmU2NmQ2ZmM3MzA5NjZmZDEyN2FhZjRiOWY3NmIz",
   "tracks": [
     {
       "added_at": "2023-08-31 14:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "From The Ashes EP",
-        "url": "https://open.spotify.com/album/4QTuY78vkmEXqpDDae2856"
-      },
-      "artists": [
-        {
-          "name": "Oliver Henry",
-          "url": "https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD"
-        }
-      ],
-      "duration_ms": 138337,
-      "name": "Moving Still - Reprise",
-      "url": "https://open.spotify.com/track/6Bb95rf8ewBdgcArC0iEJf"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "MY DEAR",
         "url": "https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 343332,
       "name": "Blissda",
       "url": "https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "From The Ashes EP",
+        "url": "https://open.spotify.com/album/4QTuY78vkmEXqpDDae2856"
+      },
+      "artists": [
+        {
+          "name": "Oliver Henry",
+          "url": "https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD"
+        }
+      ],
+      "duration_ms": 138337,
+      "name": "Moving Still - Reprise",
+      "url": "https://open.spotify.com/track/6Bb95rf8ewBdgcArC0iEJf"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Inperspect",
-        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
-      },
-      "artists": [
-        {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
-        }
-      ],
-      "duration_ms": 498001,
-      "name": "Inperspect",
-      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "You Need Somebody",
         "url": "https://open.spotify.com/album/4oSnGMfEK0NCZlTLsFDtdi"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 200830,
       "name": "You Need Somebody",
       "url": "https://open.spotify.com/track/3MOOLHyOlR0lzcTwoXSci8"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Inperspect",
+        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 498001,
+      "name": "Inperspect",
+      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Leave Here",
-        "url": "https://open.spotify.com/album/4kwlyY10z4cSiF6jmyngt9"
-      },
-      "artists": [
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        }
-      ],
-      "duration_ms": 297585,
-      "name": "Leave Here",
-      "url": "https://open.spotify.com/track/3JKn7wZYSwOGriPALOQPBT"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Change Your Mind",
         "url": "https://open.spotify.com/album/2QV91V7AsQLDSKbcjSFYpG"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 317178,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/6KOngf9VGk1Q6oQgfuryQU"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Leave Here",
+        "url": "https://open.spotify.com/album/4kwlyY10z4cSiF6jmyngt9"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 297585,
+      "name": "Leave Here",
+      "url": "https://open.spotify.com/track/3JKn7wZYSwOGriPALOQPBT"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Floating",
-        "url": "https://open.spotify.com/album/5ZDfdoj6YtnOhPGwPKTTr8"
-      },
-      "artists": [
-        {
-          "name": "Mr. Sosa",
-          "url": "https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP"
-        }
-      ],
-      "duration_ms": 349000,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/0sfY8uUKQxPqnK8sqvvKO2"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Inperspect",
         "url": "https://open.spotify.com/album/0Yon94iHYUaXtGcJ3u6QyW"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Sweet Memory",
-        "url": "https://open.spotify.com/album/0XR0svgHXksDF4hZSOP44z"
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/5ZDfdoj6YtnOhPGwPKTTr8"
       },
       "artists": [
         {
-          "name": "Kloyd",
-          "url": "https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7"
+          "name": "Mr. Sosa",
+          "url": "https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP"
         }
       ],
-      "duration_ms": 211428,
-      "name": "Sweet Memory",
-      "url": "https://open.spotify.com/track/66Wu67u1XZFn7cBOjWf6lD"
+      "duration_ms": 349000,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/0sfY8uUKQxPqnK8sqvvKO2"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -787,6 +771,22 @@
       "duration_ms": 224655,
       "name": "Contra",
       "url": "https://open.spotify.com/track/78Dnmmh4zDQf7mt2N7X7xW"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Sweet Memory",
+        "url": "https://open.spotify.com/album/0XR0svgHXksDF4hZSOP44z"
+      },
+      "artists": [
+        {
+          "name": "Kloyd",
+          "url": "https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Sweet Memory",
+      "url": "https://open.spotify.com/track/66Wu67u1XZFn7cBOjWf6lD"
     },
     {
       "added_at": "2023-08-31 14:00:00",

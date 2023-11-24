@@ -173,6 +173,24 @@
     },
     {
       "album": {
+        "name": "Amaria",
+        "url": "https://open.spotify.com/album/2QDTlTSuwPiVmtTd2B9fYL"
+      },
+      "artists": [
+        {
+          "name": "Jinho 9",
+          "url": "https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196211,
+      "name": "Amaria",
+      "url": "https://open.spotify.com/track/14E6VXR7nqhhdybb57asuu"
+    },
+    {
+      "album": {
         "name": "Laso",
         "url": "https://open.spotify.com/album/4kPltVu8CgPZqtDxUuF2GQ"
       },
@@ -745,6 +763,24 @@
     },
     {
       "album": {
+        "name": "Bossy Girl",
+        "url": "https://open.spotify.com/album/5VO01zNNWXMdYVXRx8oZpM"
+      },
+      "artists": [
+        {
+          "name": "Nenny",
+          "url": "https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154810,
+      "name": "Bossy Girl",
+      "url": "https://open.spotify.com/track/4msbsjQlixRbQU1NRE3eNw"
+    },
+    {
+      "album": {
         "name": "Bottles",
         "url": "https://open.spotify.com/album/1EhfKYJkIdRS5yYDnb3OKq"
       },
@@ -774,7 +810,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 171238,
       "name": "Bumbu",
       "url": "https://open.spotify.com/track/1OXXxrs4Q0x2Vn55tnV76E"
@@ -862,7 +898,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 129123,
       "name": "Cast",
       "url": "https://open.spotify.com/track/6BWgLorAwF17ofyu8361HM"
@@ -1755,6 +1791,32 @@
     },
     {
       "album": {
+        "name": "Fallin in Love",
+        "url": "https://open.spotify.com/album/7N3hxtYqewN5Mz0W0QTaM1"
+      },
+      "artists": [
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Monq",
+          "url": "https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162061,
+      "name": "Fallin in Love",
+      "url": "https://open.spotify.com/track/3HYdxQ11DSiYnuI00jW0QH"
+    },
+    {
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/0FVNUQpXBN55azvwBh4hhr"
       },
@@ -1980,6 +2042,32 @@
       "duration_ms": 170769,
       "name": "Flicky - Bonus track",
       "url": "https://open.spotify.com/track/6A00ITrAOrMuEQvlhw27an"
+    },
+    {
+      "album": {
+        "name": "Foreigner (Remix)",
+        "url": "https://open.spotify.com/album/5uGTNlBHY623RJaSi1c5ZR"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233400,
+      "name": "Foreigner - Remix",
+      "url": "https://open.spotify.com/track/6XgQzX1QmQO5m7uVXqWEHE"
     },
     {
       "album": {
@@ -2452,7 +2540,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 147641,
       "name": "Jah",
       "url": "https://open.spotify.com/track/5em888nSVKmO5gWLR3vFb6"
@@ -3312,7 +3400,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 141829,
       "name": "Mon Bebe",
       "url": "https://open.spotify.com/track/2FtGKTF64tiJozJqtMME0X"
@@ -3874,7 +3962,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 213976,
       "name": "PAMELA",
       "url": "https://open.spotify.com/track/4G3axOEaeRZ95EIbubQbQu"
@@ -3961,6 +4049,28 @@
     },
     {
       "album": {
+        "name": "Ghetto Vibrations",
+        "url": "https://open.spotify.com/album/0HA5iaDr9GyFPnzDEVs1ch"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118883,
+      "name": "Pass me the light",
+      "url": "https://open.spotify.com/track/0JwBcWDAhPBwTJAZjSK9xG"
+    },
+    {
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/7CVLRQTTgjC4WAVhwcJUAP"
       },
@@ -4020,6 +4130,24 @@
       "duration_ms": 184077,
       "name": "PICANTO",
       "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
+    },
+    {
+      "album": {
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218657,
+      "name": "Pidgin & English",
+      "url": "https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve"
     },
     {
       "album": {
@@ -5282,7 +5410,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 235661,
       "name": "Wo Wo Wo (Ebony)",
       "url": "https://open.spotify.com/track/6nKbSBnTJ0V4h5g34h4MY7"

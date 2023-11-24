@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-337 songs - 22 hr 11 min
+338 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Back In Love Again](https://open.spotify.com/track/3B1bhJx4GILtGfFiJjKEKS) | [L.T.D.](https://open.spotify.com/artist/5P53Exo01miUunItQyR2La), [Jeffrey Osborne](https://open.spotify.com/artist/5qUHCOUsvVKUpVrMMmztMK) | [Funky Jams](https://open.spotify.com/album/75PZ4xfeffpjUIbOtKBcl0) | 4:44 | 2021-09-08 | 2022-03-16 |
 | [Back Stabbers](https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 3:06 | 2021-09-08 |  |
 | [Bad Girls](https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls](https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg) | 4:55 | 2021-03-22 |  |
+| [Bad, Bad Leroy Brown](https://open.spotify.com/track/2r3XNMon9K7bl2KTtHsaQO) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Life & Times](https://open.spotify.com/album/25K3YPiFx7Yb7ms10m58Vt) | 2:59 | 2021-09-08 |  |
 | [Bad, Bad Leroy Brown](https://open.spotify.com/track/0T0wSag4yiG1UB3jc2Z5Px) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [The Original Albums…Plus](https://open.spotify.com/album/0MJESR6xqCtsmM0CB4Pjlu) | 3:02 | 2021-09-08 | 2023-11-19 |
 | [Bad, Bad Leroy Brown](https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Life & Times](https://open.spotify.com/album/3q7L4mosMmOcmQNE1d0H4s) | 3:02 | 2021-09-08 | 2023-11-03 |
 | [Band Of Gold \(Single Mix\)](https://open.spotify.com/track/4o7pdbMDw6XwfXZFCZDoUH) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [Band Of Gold](https://open.spotify.com/album/5m1858fUPOsdHRYHIihBB0) | 2:58 | 2021-09-08 | 2022-07-29 |
@@ -308,7 +309,7 @@
 | [There Goes my First Love](https://open.spotify.com/track/29S7KASNHBmchLNNjASaXR) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Legends](https://open.spotify.com/album/1imTGKx9Ak5kaPpZLC9DGg) | 3:02 | 2021-09-08 | 2022-07-21 |
 | [Tie a Yellow Ribbon Round the Ole Oak Tree \(feat\. Tony Orlando\)](https://open.spotify.com/track/2CycawdBZIDL2cxtjhfztA) | [Tony Orlando & Dawn](https://open.spotify.com/artist/72NXpYBIaTfEeAAsxXLs0P), [Tony Orlando](https://open.spotify.com/artist/6PNZ6ZfwWLiUA2BrranFl3) | [Legends](https://open.spotify.com/album/3AI2VvX3lZCuSWTRz0NzZD) | 3:27 | 2021-09-08 | 2022-07-29 |
 | [Tragedy](https://open.spotify.com/track/6UXXeFqMBGiqjkzQzkMT3E) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Spirits Having Flown](https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm) | 5:03 | 2021-03-22 |  |
-| [Travelin' Band](https://open.spotify.com/track/0INUNNYfsp4qr6kJdY46mY) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:07 | 2021-09-08 |  |
+| [Travelin' Band](https://open.spotify.com/track/0INUNNYfsp4qr6kJdY46mY) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:07 | 2021-09-08 | 2023-11-24 |
 | [TSOP \(The Sound of Philadelphia\) \(feat\. The Three Degrees\)](https://open.spotify.com/track/6BEWwyzvc51WyacKoxJX4S) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Essential MFSB](https://open.spotify.com/album/2tYYOj4epWYjUm2rCpVw6C) | 5:46 | 2021-09-08 | 2022-07-11 |
 | [Under the Moon of Love](https://open.spotify.com/track/34LMQb9wE70d6KhZhzHUo1) | [Showaddywaddy](https://open.spotify.com/artist/3zIIUxcnIoUMouVQdphkeC) | [A's & B's](https://open.spotify.com/album/6CzzK91Y1KngXnXK3tTfVn) | 3:12 | 2021-03-22 | 2022-07-29 |
 | [Vehicle](https://open.spotify.com/track/6hnyQ0YpiO35rutiLLHLmr) | [The Ides Of March](https://open.spotify.com/artist/1Csjn2SQV7R9szDhhR7Aji) | [Vehicle](https://open.spotify.com/album/23mdYErK9fS7hxWuFBGUob) | 2:58 | 2021-09-08 | 2022-05-04 |

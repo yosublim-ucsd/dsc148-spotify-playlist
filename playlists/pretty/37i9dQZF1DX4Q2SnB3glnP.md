@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,024 likes - 192 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,041 likes - 192 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 191 | [Essence](https://open.spotify.com/track/1sab9eLTbZCDOHxFAnO00e) | [Calma](https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT) | [Essence](https://open.spotify.com/album/7vCCiQEhbRVYNOCsUraYlI) | 3:08 |
 | 192 | [Sea Of Colors](https://open.spotify.com/track/0vpo0LIlSsiqIWf44ydK2z) | [Airship Express](https://open.spotify.com/artist/57Inb370WrtJEz0OtdNwiG) | [Sea Of Colors](https://open.spotify.com/album/3aW96az8cTGpSCGBw0UsUI) | 3:04 |
 
-Snapshot ID: `MCw1M2RkODE0YzUwZmFkOTBjMDc3ZjJhNjY1ODQ2YjA4YTY4Zjk4YzNl`
+Snapshot ID: `MCxjNjdhMDNiZWNlMGJkYTJhZWEyNTllN2FmMzRkN2VlNmY0N2YyYmFh`

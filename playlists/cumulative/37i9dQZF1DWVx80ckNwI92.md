@@ -4,7 +4,7 @@
 
 > The future of African Indie and Alternative
 
-116 songs - 5 hr 49 min
+117 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [I Don't Usually Fall, But When I Do...](https://open.spotify.com/track/3E0smb4bG5SKBiePR5tbQc) | [Aidan Fraser](https://open.spotify.com/artist/2SNp368DTWkgfo7sM1RqMx) | [I Don't Usually Fall, But When I Do...](https://open.spotify.com/album/3QOb81DKEDB0HFPQR8tkwE) | 2:51 | 2023-06-08 | 2023-06-27 |
 | [i just want you](https://open.spotify.com/track/08UEjr8Y5oRSyHf3krYiNM) | [ZUBIN](https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E) | [i just want you](https://open.spotify.com/album/44Ut5MnUWlRUVt9J6Vbg00) | 2:36 | 2023-04-27 | 2023-05-06 |
 | [I Like](https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [I Like](https://open.spotify.com/album/7lWvIKqlECC0RPyLOtcg3p) | 3:19 | 2023-03-30 |  |
+| [I'm On Fire \- Spotify Singles](https://open.spotify.com/track/68B1wXoTamV83njf2kLTmf) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [I'm On Fire \- Spotify Singles](https://open.spotify.com/album/6Oe8Xx4xBMAAfPYisJZKKV) | 3:29 | 2023-11-24 |  |
 | [I'm Yours](https://open.spotify.com/track/4cTopCzcmxBvWE6K96RnhP) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [I'm Yours](https://open.spotify.com/album/3wg8nl3xkrTiZG3Kq3YH2d) | 3:32 | 2023-03-30 | 2023-06-23 |
 | [Ice Cream](https://open.spotify.com/track/4sBvb7ckoQyRw5PNIHZx7V) | [Zaiigoh](https://open.spotify.com/artist/2y1M4qSsjvWQ8FcqRoX2cr) | [Ice Cream](https://open.spotify.com/album/6ZfcCguyjUUnnGzndPgk8j) | 3:28 | 2023-06-08 |  |
 | [Isn't Love](https://open.spotify.com/track/2QmHGPhKmgCKhlrnvihVK6) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Closure](https://open.spotify.com/album/3ocN0pai5zWdLg5CJLTLc5) | 1:53 | 2023-03-30 | 2023-05-26 |
@@ -105,7 +106,7 @@
 | [The Caring](https://open.spotify.com/track/5rhrqRbrZkhIrHp8IbiJUm) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH) | [Bastard Jargon](https://open.spotify.com/album/6JGb1JtCcQ0hco81PKvYqf) | 3:06 | 2023-11-03 |  |
 | [The Girl and the Time Machine](https://open.spotify.com/track/1d59d3DFywurMx6uBtlGu9) | [Asa Quana](https://open.spotify.com/artist/5bZxKABYkYmtKIh1f3us7m) | [The Girl and the Time Machine](https://open.spotify.com/album/4XsGm3iq4Bg2q6vTZ72lCF) | 1:37 | 2023-03-30 | 2023-05-19 |
 | [THE MORNING AFTER](https://open.spotify.com/track/1ewqOSdMAgdjFCksr1tRts) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [THE MORNING AFTER](https://open.spotify.com/album/0s4AN3UDeP6wTPceysr0Jj) | 2:22 | 2023-06-26 |  |
-| [the pain that a human carries](https://open.spotify.com/track/5ze9r8qVvrAV0p7FovFSVi) | [Janice Iche](https://open.spotify.com/artist/0WKolZ2vjyVVJtGEGNBpeJ) | [the pain that a human carries can be healed](https://open.spotify.com/album/0TH967o2yOEUib97HfF7fC) | 5:30 | 2023-07-07 |  |
+| [the pain that a human carries](https://open.spotify.com/track/5ze9r8qVvrAV0p7FovFSVi) | [Janice Iche](https://open.spotify.com/artist/0WKolZ2vjyVVJtGEGNBpeJ) | [the pain that a human carries can be healed](https://open.spotify.com/album/0TH967o2yOEUib97HfF7fC) | 5:30 | 2023-07-07 | 2023-11-24 |
 | [The Second Kind](https://open.spotify.com/track/0PPEYinIOgCi4sdyoUIwXj) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid), [Okmalumkoolkat](https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f), [Naleli](https://open.spotify.com/artist/49hIn96kDC6AF4Ks5AglNU) | [The Second Kind](https://open.spotify.com/album/76WNrCVTDtgoocY9kw821z) | 4:26 | 2023-05-05 |  |
 | [The Second Kind](https://open.spotify.com/track/7sxN6DpvFJoa2cZTiVLbLW) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid), [Okmalumkoolkat](https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f), [Naleli](https://open.spotify.com/artist/49hIn96kDC6AF4Ks5AglNU) | [The Second Kind](https://open.spotify.com/album/3w59SKiZBq2MdS0GdibdfF) | 4:26 | 2023-05-05 | 2023-06-02 |
 | [THE VALLEY](https://open.spotify.com/track/0FUCIaGATJiBUgOrdgOpQf) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [THE VALLEY](https://open.spotify.com/album/1wXWu2bowTw4dXmSnhzHgn) | 2:07 | 2023-03-30 | 2023-04-07 |

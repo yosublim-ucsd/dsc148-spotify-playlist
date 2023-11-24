@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-541 songs - 2 day 4 hr 5 min
+542 songs - 2 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [REMIND ME \- Booka Shade Remix](https://open.spotify.com/track/696Z4ieoQxAARbRcv9XBip) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [REMIND ME \(Booka Shade Remix\)](https://open.spotify.com/album/0iy46x6FQc5iacmTF5ooUu) | 5:53 | 2022-12-16 | 2023-01-14 |
 | [Reminiscent \- HANA Remix](https://open.spotify.com/track/52XOoMMcI3w8xDC0m0j7vW) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Endless \(Remixed\)](https://open.spotify.com/album/1SDGN8jj5GFx8x9Mqstjjy) | 3:58 | 2023-08-04 | 2023-10-14 |
 | [Renegade \- Adam Ten & Mita Gami Remix](https://open.spotify.com/track/1DdpxHPTsrivn3X0KumOQz) | [Parallelle](https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag), [Nicolas Masseyeff](https://open.spotify.com/artist/53I5TvFOdroD7UzOlZjtRv), [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8) | [Renegade EP](https://open.spotify.com/album/6dgVJGpji0wnAeEt6xc9PA) | 5:33 | 2023-06-16 |  |
+| [Reset](https://open.spotify.com/track/4YJ5mIkrwtMyZknV2uqx3z) | [Jacob Groening](https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f) | [Reset](https://open.spotify.com/album/6Wu82RRKxyysWofgHcfUlD) | 7:27 | 2023-11-17 |  |
 | [Resolution](https://open.spotify.com/track/6c7l5dP10UTpi38lOImXmn) | [Terrence Dixon](https://open.spotify.com/artist/78x5Xzi7CUmQZtZfFYBK9m) | [Resolution](https://open.spotify.com/album/67fAsXuH8nzpde7nXpUcy3) | 5:31 | 2022-07-01 | 2022-07-14 |
 | [Resonance](https://open.spotify.com/track/2KmOzRSCOSUoHL9CAwQbny) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Resonance](https://open.spotify.com/album/4jMpmFIETtRsDgo72PRSaW) | 3:34 | 2023-07-07 |  |
 | [Reverie](https://open.spotify.com/track/2uMk69vfb7CPBysXCfwmdq) | [Argia](https://open.spotify.com/artist/3K2j2d5WP7SfP06QTV8iz4) | [Decameron Volume I](https://open.spotify.com/album/070a9uNdIb8yNw9jrGGWJe) | 6:50 | 2021-05-26 | 2022-04-21 |
@@ -460,7 +461,7 @@
 | [Symphonic Fantasy](https://open.spotify.com/track/0BZxv1E9EqjwWQneH7zFYQ) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [A Winter Sampler II](https://open.spotify.com/album/0m3OpCuqwyI3It73R2Gqwp) | 8:16 | 2021-04-21 | 2022-07-28 |
 | [Synthopia](https://open.spotify.com/track/71S7v0lVV56U2wYzBuhM0b) | [Guy J](https://open.spotify.com/artist/7Em4kWZ5atMYknHwSkp3gD) | [Synthopia / Cicada](https://open.spotify.com/album/5GieeeiYau5SSbD0C5FI8N) | 8:39 | 2021-04-21 | 2022-04-21 |
 | [Synthwave](https://open.spotify.com/track/5y37tkUEZ4zObsXHNjCoNG) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Feathers & Bones](https://open.spotify.com/album/5zbJlJNXWeaDybNeqKjUiN) | 5:43 | 2023-06-02 | 2023-07-16 |
-| [Take Care \- Maz Remix](https://open.spotify.com/track/1oaDZf8tcQMGOeIBxelrs0) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Take Care \(Maz Remix\)](https://open.spotify.com/album/1A6cETJramuODrakRUSlWH) | 5:08 | 2023-04-21 |  |
+| [Take Care \- Maz Remix](https://open.spotify.com/track/1oaDZf8tcQMGOeIBxelrs0) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Take Care \(Maz Remix\)](https://open.spotify.com/album/1A6cETJramuODrakRUSlWH) | 5:08 | 2023-04-21 | 2023-11-24 |
 | [Tantale](https://open.spotify.com/track/011mlIOhqipYb0bttQZnuX) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9), [Ra\*faelle](https://open.spotify.com/artist/1j3ssAVlxEXuW9zikS7gfO) | [Tantale](https://open.spotify.com/album/0KguNfeAVd9Jyv5p4m65ao) | 8:35 | 2022-07-08 | 2022-07-29 |
 | [Tarantism](https://open.spotify.com/track/5YWJDRdl0kh913dc17ZkxI) | [YokoO](https://open.spotify.com/artist/45fzhLbHZdBIgOGQT6M5zr), [Retza](https://open.spotify.com/artist/4DcuYkIAYuHiWl0AOiY9Vy) | [Euneirophrenia EP](https://open.spotify.com/album/25q2hciAYKUzf7ShqviLFd) | 6:57 | 2021-04-21 | 2022-04-21 |
 | [Tarlabasi \- Be Svendsen Remix](https://open.spotify.com/track/41JWvOS6vhn2uANnUsKVEG) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Be Svendsen](https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru) | [Indoor Voyager EP](https://open.spotify.com/album/3909IHgEbjaOHcmPDZwAPM) | 9:05 | 2021-04-21 | 2022-06-06 |

@@ -1,12 +1,12 @@
 {
   "description": "Where Sitar meets Guitar. Cover - Shakti",
-  "num_followers": 66631,
+  "num_followers": 66657,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjgwMTBlOGY1NWU1NWQ3NzZjNDk2M2ZiNGYyYTZiZDkxMTViMDdm",
+  "snapshot_id": "MCxkNTViNjUyMjMxYjFhZWQ2YmZjZjNhY2Q1ZjQ4NzZhMjc4YWNmNDA0",
   "tracks": [
     {
       "added_at": "2023-10-18 08:13:47",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Chanakya",
-        "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
+        "name": "Paniya",
+        "url": "https://open.spotify.com/album/20Roz2R7i9yUs5zNnwo3DW"
       },
       "artists": [
         {
-          "name": "Rishab Rikhiram Sharma",
-          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
         }
       ],
-      "duration_ms": 163071,
-      "name": "Chanakya",
-      "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
+      "duration_ms": 190128,
+      "name": "Dil Mein Ab",
+      "url": "https://open.spotify.com/track/2c16ylboGOBz9EWMZ6iiEA"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Paniya",
-        "url": "https://open.spotify.com/album/20Roz2R7i9yUs5zNnwo3DW"
+        "name": "Chanakya",
+        "url": "https://open.spotify.com/album/4S2ZfDjmdgbaOikNfOEFmX"
       },
       "artists": [
         {
-          "name": "Ali Sethi",
-          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
         }
       ],
-      "duration_ms": 190128,
-      "name": "Dil Mein Ab",
-      "url": "https://open.spotify.com/track/2c16ylboGOBz9EWMZ6iiEA"
+      "duration_ms": 163071,
+      "name": "Chanakya",
+      "url": "https://open.spotify.com/track/4WZE6JnKn3jacgnaJOTF9T"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -583,6 +583,34 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
+        "name": "Sargam Surge",
+        "url": "https://open.spotify.com/album/3u6H2xQHCflSYqB2hkJoYa"
+      },
+      "artists": [
+        {
+          "name": "Purbayan Chatterjee",
+          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
+        },
+        {
+          "name": "Kaushiki Chakraborty",
+          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
+        },
+        {
+          "name": "Yogesh Samsi",
+          "url": "https://open.spotify.com/artist/0w1T6iC8PeJnmb118ywMck"
+        },
+        {
+          "name": "V. Selvaganesh",
+          "url": "https://open.spotify.com/artist/5fHFkjKfYRCErfRi2T3Nzf"
+        }
+      ],
+      "duration_ms": 141224,
+      "name": "Sargam Surge",
+      "url": "https://open.spotify.com/track/0G9GqTdIsZTs3yQnmuQDeg"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
         "name": "This Moment",
         "url": "https://open.spotify.com/album/283JCZJcJLqUYohOHMFuyI"
       },
@@ -615,34 +643,6 @@
       "duration_ms": 390826,
       "name": "Shrini\u2019s Dream",
       "url": "https://open.spotify.com/track/6llehsN0Mgms7vs6J88zTX"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
-        "name": "Sargam Surge",
-        "url": "https://open.spotify.com/album/3u6H2xQHCflSYqB2hkJoYa"
-      },
-      "artists": [
-        {
-          "name": "Purbayan Chatterjee",
-          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
-        },
-        {
-          "name": "Kaushiki Chakraborty",
-          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
-        },
-        {
-          "name": "Yogesh Samsi",
-          "url": "https://open.spotify.com/artist/0w1T6iC8PeJnmb118ywMck"
-        },
-        {
-          "name": "V. Selvaganesh",
-          "url": "https://open.spotify.com/artist/5fHFkjKfYRCErfRi2T3Nzf"
-        }
-      ],
-      "duration_ms": 141224,
-      "name": "Sargam Surge",
-      "url": "https://open.spotify.com/track/0G9GqTdIsZTs3yQnmuQDeg"
     },
     {
       "added_at": "2023-10-18 08:13:47",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-10-18 08:13:47",
       "album": {
-        "name": "Goldfish (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co"
-      },
-      "artists": [
-        {
-          "name": "Tapas Relia",
-          "url": "https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O"
-        },
-        {
-          "name": "Pratibha Singh Baghel",
-          "url": "https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Piya Padh Lena",
-      "url": "https://open.spotify.com/track/5fuAQJ1kgVpFi5fge9oBae"
-    },
-    {
-      "added_at": "2023-10-18 08:13:47",
-      "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/02tgCcfhK6499d0CtWPQgR"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 141459,
       "name": "The Awakening",
       "url": "https://open.spotify.com/track/2pvslHf4vcFm5PVW6wtMwo"
+    },
+    {
+      "added_at": "2023-10-18 08:13:47",
+      "album": {
+        "name": "Goldfish (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co"
+      },
+      "artists": [
+        {
+          "name": "Tapas Relia",
+          "url": "https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O"
+        },
+        {
+          "name": "Pratibha Singh Baghel",
+          "url": "https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Piya Padh Lena",
+      "url": "https://open.spotify.com/track/5fuAQJ1kgVpFi5fge9oBae"
     },
     {
       "added_at": "2023-10-18 08:13:47",

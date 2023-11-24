@@ -2,9 +2,9 @@
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> De nieuwste Nederlandse liedjes! Cover: Snelle
+> De nieuwste Nederlandse liedjes! Cover: Bankzitters
 
-428 songs - 20 hr 51 min
+430 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Als Ik Haar Was](https://open.spotify.com/track/0mOdv3w3W9ZkAsTmlJ3rUs) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx) | 2:45 | 2023-07-20 | 2023-11-03 |
 | [Als Ik Haar Was](https://open.spotify.com/track/5IBW1Rni8F0CRSCuHQhVRr) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet \(Als Ik Haar Was\)](https://open.spotify.com/album/1p2rvLp5vQklvWRDttx17I) | 2:45 | 2023-07-10 | 2023-07-25 |
 | [Als Ik Met De Wind Kon Dansen](https://open.spotify.com/track/09fw5Vabe6GDAdiZgkVxPE) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Als Ik Met De Wind Kon Dansen](https://open.spotify.com/album/5CIzpyQn84ju4CbgwLHAIh) | 2:49 | 2023-02-23 | 2023-04-28 |
-| [Als Ik Mezelf Verdelen Kon](https://open.spotify.com/track/3bTMN5CKwJm18Kx5nnq2wU) | [Jim Bakkum](https://open.spotify.com/artist/0RJ6eS1cimNNF64vRXGwfD) | [Als Ik Mezelf Verdelen Kon](https://open.spotify.com/album/3UeJGVaVCk0YocAVPybptk) | 3:10 | 2023-09-28 |  |
+| [Als Ik Mezelf Verdelen Kon](https://open.spotify.com/track/3bTMN5CKwJm18Kx5nnq2wU) | [Jim Bakkum](https://open.spotify.com/artist/0RJ6eS1cimNNF64vRXGwfD) | [Als Ik Mezelf Verdelen Kon](https://open.spotify.com/album/3UeJGVaVCk0YocAVPybptk) | 3:10 | 2023-09-28 | 2023-11-24 |
 | [Als Je Haar Ziet](https://open.spotify.com/track/60JWfBfFzHeZWoQBE6rLwW) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Als Je Haar Ziet](https://open.spotify.com/album/6cAw10hJOgG4ovnIsikgl5) | 4:19 | 2023-03-16 | 2023-05-12 |
 | [Als Je Me Kwijt Bent](https://open.spotify.com/track/3b4x1jEdKCLioVPZbphndQ) | [Ben Forte](https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7) | [Als Je Me Kwijt Bent](https://open.spotify.com/album/4cJvlN6leu2QgK7FJ2N7kF) | 4:00 | 2023-07-20 | 2023-09-22 |
 | [Als Je Naar Me Kijkt](https://open.spotify.com/track/6NqRNf5axxWSWSDC65nKl4) | [Daniel Kist](https://open.spotify.com/artist/3hcVwibmXAqkX0DIWxDVLA) | [Fouten Kun Je Leren](https://open.spotify.com/album/4JTWSjMzPpl0uDtd40iE6o) | 3:10 | 2023-02-23 | 2023-04-28 |
@@ -199,11 +199,12 @@
 | [Houden Van Mij](https://open.spotify.com/track/6YydP7xxbousqGYDNIpwtc) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Houden Van Mij](https://open.spotify.com/album/3QUGk8yFDNJWqlUU8iu0ty) | 2:18 | 2023-10-26 |  |
 | [Houden Van Mij](https://open.spotify.com/track/6EuitFOryzqbENBhziq2aS) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Houden Van Mij](https://open.spotify.com/album/0H1bolHYB0kTUHvs7cc7Zd) | 2:38 | 2023-08-24 | 2023-09-22 |
 | [Hypnose](https://open.spotify.com/track/4qghq0qfx432ZSTF7DhUPT) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Hypnose](https://open.spotify.com/album/3SyrnhZBklWC6wMamSxfQF) | 2:32 | 2023-07-13 | 2023-09-22 |
+| [Iemand Anders](https://open.spotify.com/track/00Gy9pxJXHzCoRwXi5CUeJ) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Iemand Anders](https://open.spotify.com/album/0Du6lXqUfjPK0DJjqKzQIL) | 2:51 | 2023-11-23 |  |
 | [Ik Ben Jij](https://open.spotify.com/track/1nfbxZYGqSmHhi8PDE7X0Y) | [Dany](https://open.spotify.com/artist/02nYwglWHsI4nowQWSrf32) | [Ik Ben Jij](https://open.spotify.com/album/5YcRkwaP4xkAiliHuJumPs) | 3:46 | 2023-09-07 | 2023-09-22 |
 | [IK BEN VAN MIJ](https://open.spotify.com/track/72QbBvixoNmR87a88o8Ast) | [Roos Blufpand](https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC) | [F\*\*\* DE REST EN SHAKE](https://open.spotify.com/album/1zi0saa4UIsGpKSf954TxW) | 3:11 | 2023-04-13 | 2023-05-12 |
 | [Ik Ben Vrij](https://open.spotify.com/track/1666b4ps2A30GgSoB0Kd4b) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Ik Ben Vrij](https://open.spotify.com/album/6mK9STMoJ4CuVZLEbCZS8J) | 3:27 | 2023-02-23 | 2023-05-19 |
 | [Ik Dans Even Door](https://open.spotify.com/track/570C5OuN8T1SKL4fHzaYcD) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2022 \(Kika Aflevering\)](https://open.spotify.com/album/1nsKLut0cSDbMjlEl0BTyD) | 2:16 | 2023-02-23 | 2023-04-28 |
-| [Ik Denk Aan Jou](https://open.spotify.com/track/0WEVWA0uwMVFLFsYUvLsin) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Ik Denk Aan Jou](https://open.spotify.com/album/6zlSdwdzvjhV2jFo2vMeSb) | 3:36 | 2023-08-31 |  |
+| [Ik Denk Aan Jou](https://open.spotify.com/track/0WEVWA0uwMVFLFsYUvLsin) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Ik Denk Aan Jou](https://open.spotify.com/album/6zlSdwdzvjhV2jFo2vMeSb) | 3:36 | 2023-08-31 | 2023-11-24 |
 | [Ik Heb Je Lief](https://open.spotify.com/track/6ZC1ZszuOswTI4yMSiAPT9) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Ik Heb Je Lief](https://open.spotify.com/album/6zpCLM4g3cf5sAV21QlXTG) | 3:32 | 2023-02-23 | 2023-04-07 |
 | [Ik Heb Jou](https://open.spotify.com/track/4WdlPFMILpzOGx4LFLVkkC) | [Dicecream](https://open.spotify.com/artist/5Y35hxCbhuDsV4hjRpAa20), [Jaap Goud](https://open.spotify.com/artist/0kY3JTHPCakGx8ydflXOyR) | [Ik Heb Jou](https://open.spotify.com/album/0hvRDtidoBVzLAj0d7RfEh) | 3:58 | 2023-10-19 | 2023-11-03 |
 | [Ik Kom Weer Thuis](https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Ik Kom Weer Thuis](https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk) | 3:03 | 2023-02-23 | 2023-03-10 |
@@ -252,6 +253,7 @@
 | [MAMA IK HEB EEN PROBLEEM](https://open.spotify.com/track/15HbiGaVmP7Bbyh2yMWpzH) | [TIJN](https://open.spotify.com/artist/13cnCFcBgn9RdB5k0Skoc4) | [MAMA IK HEB EEN PROBLEEM](https://open.spotify.com/album/0rwBcjeWsQKmmCBkD0UTi4) | 2:46 | 2023-04-06 | 2023-07-14 |
 | [Mama Kijk Ik Kan Het Zelf](https://open.spotify.com/track/2V3C6CtUJ9kyHuTXKOxSe9) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Mama Kijk Ik Kan Het Zelf](https://open.spotify.com/album/0Q5LstDM9e8UuDhAARTs3H) | 3:38 | 2023-11-09 |  |
 | [Masker](https://open.spotify.com/track/2l9d5KO0xnO01fYAfHHlLO) | [Sherefa Yorks](https://open.spotify.com/artist/49iTEmi9QNGpm7a0krIWzE) | [Masker](https://open.spotify.com/album/150BHLMTbugmwMxSnDdepw) | 3:01 | 2023-05-18 | 2023-06-30 |
+| [Medeplichtig](https://open.spotify.com/track/1M19j4iqQyyWK1IzfY5Cod) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Medeplichtig](https://open.spotify.com/album/52Rv3uBuWFbr6NAfSDufny) | 2:46 | 2023-11-23 |  |
 | [Meisje](https://open.spotify.com/track/7xcuQ0m5rSUgrjh2YVTUz4) | [Huize Lucas](https://open.spotify.com/artist/5V8b23P7NLOVaB04lfb79b) | [Meisje](https://open.spotify.com/album/14mgKqbRjCSH7cv13SlnSw) | 3:19 | 2023-03-23 | 2023-07-21 |
 | [Meisje Van December](https://open.spotify.com/track/6nNPd6Lpv9eSffqn5P9sJk) | [Benjamin](https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d) | [Meisje Van December](https://open.spotify.com/album/6yJtY0dw0dKTbyyRHBCECz) | 2:50 | 2023-04-13 | 2023-05-26 |
 | [Mens](https://open.spotify.com/track/17bVqSvBXixR9bo2YsG8nk) | [Charine Eyny](https://open.spotify.com/artist/21VPJzOjvWjxjkaMsnE42x), [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS), [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW), [Charly Luske](https://open.spotify.com/artist/3ywMhp8487caLDqLh6fGOl), [Ewald Gomez](https://open.spotify.com/artist/0UBRIuLUBnpr5dopW2vZjX) | [Mens](https://open.spotify.com/album/1I05faSGCNjViztAEPPgac) | 3:27 | 2023-02-23 | 2023-04-07 |

@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-685 songs - 1 day 6 hr 41 min
+686 songs - 1 day 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Gypsy Woman](https://open.spotify.com/track/615Os9s5deQT7fOQku5grC) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I), [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [Gypsy Woman](https://open.spotify.com/album/2JZtvbGIkc1Ive8AUU9osf) | 3:44 | 2021-12-23 | 2022-07-29 |
 | [Halo](https://open.spotify.com/track/1a0rqWQEjBPsYwADY6nPDF) | [Takashi Kobayashi](https://open.spotify.com/artist/1mbhGqrhvIKVy2h9s9ulvw) | [Halo](https://open.spotify.com/album/6nViH3LlPLcZLqfDv2DDWA) | 3:13 | 2022-06-02 | 2022-06-09 |
 | [HANABI](https://open.spotify.com/track/6sRHCRBuZIRGJtdwXDk2Mc) | [Takashi Kobayashi](https://open.spotify.com/artist/1mbhGqrhvIKVy2h9s9ulvw) | [HANABI](https://open.spotify.com/album/3JnH9rEoWKbQSzjebIU5ZP) | 2:22 | 2022-07-07 | 2022-07-23 |
+| [haneda](https://open.spotify.com/track/6sdgXmN5ZiCQKxYxvCYgf0) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [all of this music was produced on the airplane](https://open.spotify.com/album/3Afy6UInF0JzKJBVuKZjOf) | 2:00 | 2023-11-23 |  |
 | [Hapuna](https://open.spotify.com/track/1iJ2MDg18Ufor1crX5TDFy) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Hapuna](https://open.spotify.com/album/1Y1xcpOvUfv6jWhxoQGmmw) | 2:58 | 2022-05-19 | 2023-10-20 |
 | [hario island](https://open.spotify.com/track/4pwrnZ6t6KwUgUoQiBe70M) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [hario island](https://open.spotify.com/album/6t6geCz3BtiM0WXFNeWGyY) | 2:36 | 2023-01-19 | 2023-02-05 |
 | [HARU](https://open.spotify.com/track/5JhwlmQCauaK3cxXXRo5wz) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [HARU](https://open.spotify.com/album/5A2GCI8off7bbcyfqafcuu) | 5:11 | 2023-11-16 |  |
@@ -322,7 +323,7 @@
 | [kyou](https://open.spotify.com/track/3aRUdjDIGzHoH93jHy07YZ) | [ddddeeeellllaaa](https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA) | [kyou](https://open.spotify.com/album/1bsTiQ9tGAR7wUveZ6oTo7) | 1:58 | 2022-01-06 | 2022-07-25 |
 | [Lamp2](https://open.spotify.com/track/2bcNi4Nwygqo1G9zbSKhTi) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs), [XXX//PEKE//XXX](https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J) | [Lamp2](https://open.spotify.com/album/0Sbup43SbFLVctcQd0L4fi) | 3:18 | 2022-07-28 | 2023-08-28 |
 | [Lamp2](https://open.spotify.com/track/5cT5aaRfRRkF9xPk7LcBt2) | [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs), [XXX//PEKE//XXX](https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J) | [Lamp2](https://open.spotify.com/album/5qFp5leDuFDeTNplGB7I9L) | 3:18 | 2022-02-03 | 2022-07-29 |
-| [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 | 2023-01-06 |  |
+| [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 | 2023-01-06 | 2023-11-24 |
 | [Late Night Walk](https://open.spotify.com/track/3G3WYux2jy8Yp0ICjcKpwb) | [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4) | [Late Night Walk](https://open.spotify.com/album/5CQFzGrUqgVH2M37vTx39t) | 2:50 | 2023-11-14 |  |
 | [Late Summer](https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK) | [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Late Summer](https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF) | 2:34 | 2021-12-23 | 2023-05-11 |
 | [Latitude](https://open.spotify.com/track/5V7ZYaPJlhaVsby0Qev1Kl) | [Dakchi](https://open.spotify.com/artist/1YJAWgwqcfWl06Nyn3Eawa) | [Latitude](https://open.spotify.com/album/4Fj24NC7ybJiVQw7jh4by1) | 2:46 | 2021-12-23 | 2022-07-25 |
@@ -620,9 +621,9 @@
 | [Tokyo Lounge](https://open.spotify.com/track/5zGVjMpbSAdMLgvYewOup5) | [Karmawin](https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK), [Babouk](https://open.spotify.com/artist/2DX3vCsOZOQBwXlQPvpSYb) | [Tokyo Lounge](https://open.spotify.com/album/4gjvinjabrTIwxC3kiJv5b) | 3:50 | 2021-12-23 | 2022-02-11 |
 | [Tokyo Mornings](https://open.spotify.com/track/0vNjMAfi6DB5HahsQjo4D7) | [Akimitsu](https://open.spotify.com/artist/3Clf0gHl3UQ2r5rFlTrfku) | [Memories From Tokyo](https://open.spotify.com/album/2xDTXfIQ5s6693qNEdwohZ) | 1:32 | 2022-01-13 | 2022-07-25 |
 | [Tokyo State of Mind \- Instrumental](https://open.spotify.com/track/4jRYRpw7YTLPrxrRqxnowU) | [Tamuraryo](https://open.spotify.com/artist/15i61GDW435zKWZ5vaJAYR) | [Beats Only Part.Ⅰ](https://open.spotify.com/album/5S7d7U3lrxUS6tZwwSnn4P) | 2:13 | 2021-12-23 | 2022-07-27 |
-| [tombi](https://open.spotify.com/track/7D9fL5OnKFxUG9e5PMNBF1) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [tombi](https://open.spotify.com/album/4IF7VEO4FXEzQ8t04qI6xz) | 2:20 | 2023-11-09 |  |
+| [tombi](https://open.spotify.com/track/7D9fL5OnKFxUG9e5PMNBF1) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [tombi](https://open.spotify.com/album/4IF7VEO4FXEzQ8t04qI6xz) | 2:20 | 2023-11-09 | 2023-11-24 |
 | [tomoshibi](https://open.spotify.com/track/7H26mrFeD2oE8cJu0BroBy) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [tomoshibi](https://open.spotify.com/album/1OzUBhA1PotfdYvF4ED2LP) | 3:07 | 2022-08-11 | 2023-05-05 |
-| [Toucan](https://open.spotify.com/track/2znBuVaZLvA1Kn9xL5tVnT) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0) | [Toucan](https://open.spotify.com/album/1AybPKANweher1ysHuXOC7) | 3:34 | 2022-01-13 | 2023-11-18 |
+| [Toucan](https://open.spotify.com/track/2znBuVaZLvA1Kn9xL5tVnT) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0) | [Toucan](https://open.spotify.com/album/1AybPKANweher1ysHuXOC7) | 3:34 | 2022-01-13 |  |
 | [touch](https://open.spotify.com/track/1tZt5VNrrJBjld65OiZGKc) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [touch](https://open.spotify.com/album/6c8K3yA92WDlMN6WguocxP) | 1:28 | 2023-09-28 | 2023-09-30 |
 | [touch](https://open.spotify.com/track/4N9k6Nklzns7QzslAABaTq) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [touch](https://open.spotify.com/album/0Y8r76clygH0KolOk3ohpR) | 1:28 | 2023-09-28 |  |
 | [Toy Coffee](https://open.spotify.com/track/7JpvzCoiFbTGglpNVDG5GQ) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Toy Coffee](https://open.spotify.com/album/3r1bAeGCOzZhBzeYRhYTzY) | 2:08 | 2021-12-23 | 2022-07-01 |

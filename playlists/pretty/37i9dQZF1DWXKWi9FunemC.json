@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 244469,
+  "num_followers": 244658,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWVmMDYzNjYwNzRlMDQ3OTNlOTE1ZmI3ZDNhZjQyODgwZmNiMWMz",
+  "snapshot_id": "MCw4YWY4YjBhMGQ3Nzg5NDljNjhiMTEwYTYxM2FlMGU0YWZlMzUxOWQ3",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "SURVEY: Part 1",
-        "url": "https://open.spotify.com/album/4uZlAuQbVCZr4LN8ZOzyg0"
-      },
-      "artists": [
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        }
-      ],
-      "duration_ms": 350783,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/68JEeLG2HrM2jNakDd6YlK"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "New Song (Psalm 40)",
         "url": "https://open.spotify.com/album/5SKIaSs8T7xHbPAfQMBvaY"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 254787,
       "name": "New Song (Psalm 40)",
       "url": "https://open.spotify.com/track/5nCSaFxaoliN2NyUtFQOUU"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "SURVEY: Part 1",
+        "url": "https://open.spotify.com/album/4uZlAuQbVCZr4LN8ZOzyg0"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "duration_ms": 350783,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/68JEeLG2HrM2jNakDd6YlK"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Love Unending",
+        "url": "https://open.spotify.com/album/2ZIucC5ZWuMUM4Y8cVZFpb"
+      },
+      "artists": [
+        {
+          "name": "Ry Cox",
+          "url": "https://open.spotify.com/artist/16gW6AKnwvZj4t09Jfv4ap"
+        }
+      ],
+      "duration_ms": 270467,
+      "name": "Deeper Water",
+      "url": "https://open.spotify.com/track/1sPYj7Rd00yeMRGefniYuT"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Christ Be In My Heart",
         "url": "https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 288529,
       "name": "Christ Be In My Heart",
       "url": "https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Love Unending",
-        "url": "https://open.spotify.com/album/2ZIucC5ZWuMUM4Y8cVZFpb"
-      },
-      "artists": [
-        {
-          "name": "Ry Cox",
-          "url": "https://open.spotify.com/artist/16gW6AKnwvZj4t09Jfv4ap"
-        }
-      ],
-      "duration_ms": 270467,
-      "name": "Deeper Water",
-      "url": "https://open.spotify.com/track/1sPYj7Rd00yeMRGefniYuT"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "All In",
-        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 188563,
-      "name": "Broken Things - Acoustic",
-      "url": "https://open.spotify.com/track/3WNw8qXIN8PnOqoVgYXCEl"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "The War Is Over",
         "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 277853,
       "name": "Get Your Hopes Up",
       "url": "https://open.spotify.com/track/6QTEK7q7GPQQDqZLqhx2n7"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 188563,
+      "name": "Broken Things - Acoustic",
+      "url": "https://open.spotify.com/track/3WNw8qXIN8PnOqoVgYXCEl"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "After All These Years: A Collection",
-        "url": "https://open.spotify.com/album/1ixYVxV8caqaVDiHrktthj"
-      },
-      "artists": [
-        {
-          "name": "Andrew Peterson",
-          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
-        }
-      ],
-      "duration_ms": 279373,
-      "name": "Isn't It Love - 2014 Version",
-      "url": "https://open.spotify.com/track/04Lw9ot3N6m7o4Z02JdwCx"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Psalm 136 [Your Mercy Endures] [Thomas Merton Mix] (feat. Leslie Jordan] [Thomas Merton Mix)",
         "url": "https://open.spotify.com/album/0pNvG1RHm2oONef2kFbGkw"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 300746,
       "name": "Psalm 136 [Your Mercy Endures] [Thomas Merton Mix] - feat. Leslie Jordan] [Thomas Merton Mix",
       "url": "https://open.spotify.com/track/685qjYgfMFp0UKvPbDNYoz"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "After All These Years: A Collection",
+        "url": "https://open.spotify.com/album/1ixYVxV8caqaVDiHrktthj"
+      },
+      "artists": [
+        {
+          "name": "Andrew Peterson",
+          "url": "https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1"
+        }
+      ],
+      "duration_ms": 279373,
+      "name": "Isn't It Love - 2014 Version",
+      "url": "https://open.spotify.com/track/04Lw9ot3N6m7o4Z02JdwCx"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Letting Go (Alternate Version)",
-        "url": "https://open.spotify.com/album/4OnW0Q4uEWqOFxz10S7fQJ"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 212739,
-      "name": "Letting Go - Alternate Version",
-      "url": "https://open.spotify.com/track/2hrpfntURuJcSPYJy7nIr8"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "The Harvest",
         "url": "https://open.spotify.com/album/60YVj0sHClGPNLYs3dXMei"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 200261,
       "name": "If You Love Me",
       "url": "https://open.spotify.com/track/19Mez2lwbJzTTp02yaYFPP"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Letting Go (Alternate Version)",
+        "url": "https://open.spotify.com/album/4OnW0Q4uEWqOFxz10S7fQJ"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 212739,
+      "name": "Letting Go - Alternate Version",
+      "url": "https://open.spotify.com/track/2hrpfntURuJcSPYJy7nIr8"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "In Christ Alone",
-        "url": "https://open.spotify.com/album/2lA40iswKQzdMwbVnCqo66"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 256750,
-      "name": "In Christ Alone",
-      "url": "https://open.spotify.com/track/6p0CAEpscLMHWl99ieKwgD"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Ever Be",
         "url": "https://open.spotify.com/album/4Yg6IeCzU0q4OAxu5X2Ks0"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 211800,
       "name": "Magnified (Acoustic)",
       "url": "https://open.spotify.com/track/4hA4SYhcGs5EuxHYW5VKgT"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "In Christ Alone",
+        "url": "https://open.spotify.com/album/2lA40iswKQzdMwbVnCqo66"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 256750,
+      "name": "In Christ Alone",
+      "url": "https://open.spotify.com/track/6p0CAEpscLMHWl99ieKwgD"
     },
     {
       "added_at": "2023-07-28 04:01:00",

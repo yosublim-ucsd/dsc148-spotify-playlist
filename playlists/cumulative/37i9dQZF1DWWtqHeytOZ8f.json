@@ -3310,7 +3310,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 277199,
       "name": "EveryWhen - Bonus Track",
       "url": "https://open.spotify.com/track/2HGeIYpOrU9u5UR9Z98mx9"
@@ -7660,6 +7660,32 @@
       "duration_ms": 203372,
       "name": "Raiments",
       "url": "https://open.spotify.com/track/5IpcpeWGJl0BGb7Ke3zrS9"
+    },
+    {
+      "album": {
+        "name": "Lucid Dreaming",
+        "url": "https://open.spotify.com/album/6pcWuTZ3tmyc77x9oVJv46"
+      },
+      "artists": [
+        {
+          "name": "MIXO",
+          "url": "https://open.spotify.com/artist/6MD94ISQLOMJs8fXGtzmge"
+        },
+        {
+          "name": "Agustin Ayala",
+          "url": "https://open.spotify.com/artist/2P5faXVIQGWdqaW7uSZ3Iv"
+        },
+        {
+          "name": "Federico Sanchez Flores",
+          "url": "https://open.spotify.com/artist/7DYagAejpAIigSoDirH0yT"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263318,
+      "name": "Rapid Eye Movement Sleep",
+      "url": "https://open.spotify.com/track/4nowiy9qnEjEryhS6W6DKi"
     },
     {
       "album": {

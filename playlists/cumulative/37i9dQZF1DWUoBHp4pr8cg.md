@@ -2,9 +2,9 @@
 
 ### [Hip Hop Circle](https://open.spotify.com/playlist/37i9dQZF1DWUoBHp4pr8cg)
 
-> Only the hottest Hip Hop from Shane Eagle \(pictured\), Offset, Drake, and more...
+> Only the hottest Hip Hop from  \(pictured\), Offset, Drake, and more...
 
-242 songs - 13 hr 9 min
+243 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [HOPE](https://open.spotify.com/track/12cZWGf5ZgLcKubEW9mx5q) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/3VYKlqWS3zOv1jli94RFKW) | 4:24 | 2023-02-23 | 2023-03-11 |
 | [Hot Sauce](https://open.spotify.com/track/0Mtk1CAT9lAISJjvBY8CbT) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Hot Sauce](https://open.spotify.com/album/6jeeHsOvUDczcJ17R7ozlc) | 2:57 | 2023-05-05 | 2023-09-23 |
 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy) | 2:22 | 2022-07-14 |  |
+| [I Aint Got The Answers](https://open.spotify.com/track/4JrBckJi6ntTg2883PLOFD) | [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz), [Ginger Trill](https://open.spotify.com/artist/6RBOLfqkI4jKZxRw2X89rI) | [I Ain't Got The Answers](https://open.spotify.com/album/7FvIp2G42YVskYHRbvoWBy) | 4:20 | 2023-11-23 |  |
 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 | 2023-09-22 |  |
 | [I'll Always Have Me](https://open.spotify.com/track/21IPXg9zJBfJRPzwMuVjpN) | [Touchline](https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz), [Veena](https://open.spotify.com/artist/4hSFcNs4ESZUO7f4LDYqOn) | [S.O.O.N 2 \(A Better Year\) \[Deluxe Edition\]](https://open.spotify.com/album/6Xp9Tw8YX3689PRvd23Rl6) | 5:00 | 2023-01-23 | 2023-02-24 |
 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 | 2023-02-23 | 2023-03-07 |

@@ -2923,6 +2923,28 @@
     },
     {
       "album": {
+        "name": "Body Moving",
+        "url": "https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154215,
+      "name": "Body Moving",
+      "url": "https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN"
+    },
+    {
+      "album": {
         "name": "Body On Me",
         "url": "https://open.spotify.com/album/4866zM4AKXkW4PzAdnhwJz"
       },
@@ -3852,7 +3874,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 381322,
       "name": "Champion",
       "url": "https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2"
@@ -4460,7 +4482,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 319076,
       "name": "December",
       "url": "https://open.spotify.com/track/0boqQgW7g8MBJuWJznREYq"
@@ -5390,6 +5412,24 @@
       "duration_ms": 193920,
       "name": "Emergency - Radio Edit",
       "url": "https://open.spotify.com/track/77S8SmK0gNGNRWjpkbdBId"
+    },
+    {
+      "album": {
+        "name": "uMUZI",
+        "url": "https://open.spotify.com/album/5xZs8qFEeWO56dl3AdF6nn"
+      },
+      "artists": [
+        {
+          "name": "Muzi",
+          "url": "https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239500,
+      "name": "eMtunzini",
+      "url": "https://open.spotify.com/track/2rmy76n0ni1sN5qM4UaMze"
     },
     {
       "album": {
@@ -7058,7 +7098,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 216000,
       "name": "Hijos De La Noche",
       "url": "https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5"
@@ -9062,7 +9102,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 340000,
       "name": "Jabula",
       "url": "https://open.spotify.com/track/73dW5ILYT7p6O1P3rQv6qq"
@@ -10022,6 +10062,36 @@
       "duration_ms": 228440,
       "name": "Kwamnandi",
       "url": "https://open.spotify.com/track/4s7KLVfcdAakcWGXjZQKXC"
+    },
+    {
+      "album": {
+        "name": "Kwenzekalan",
+        "url": "https://open.spotify.com/album/3bMm9uOsgWcgpkMWkqKqk1"
+      },
+      "artists": [
+        {
+          "name": "DJ Lag",
+          "url": "https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Leodaleo",
+          "url": "https://open.spotify.com/artist/7bJ9EMwSG96uo9Fl8KuAO5"
+        },
+        {
+          "name": "Dezzodigo",
+          "url": "https://open.spotify.com/artist/5PWY0kEF14p1jEAtwRJRKn"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293335,
+      "name": "Kwenzekalan",
+      "url": "https://open.spotify.com/track/6Nupcrtf9XFpQ2nwHCY0fI"
     },
     {
       "album": {
@@ -12968,7 +13038,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 214000,
       "name": "Ngibambe - Jayda G Remix",
       "url": "https://open.spotify.com/track/73FtRvqWb77kuYk40DYNNS"
@@ -14506,7 +14576,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 206179,
       "name": "Queen (feat. Chris Martin)",
       "url": "https://open.spotify.com/track/4YV7C70NkWmFiU744AfPLf"
@@ -14660,7 +14730,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 192344,
       "name": "Redline",
       "url": "https://open.spotify.com/track/4n7npue0fQKKmgC1CcHmao"
@@ -15287,6 +15357,24 @@
     },
     {
       "album": {
+        "name": "Saving Up",
+        "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207514,
+      "name": "Saving Up",
+      "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
+    },
+    {
+      "album": {
         "name": "Say Goodbye",
         "url": "https://open.spotify.com/album/2HD4JHsouER1ZIwDplfrSQ"
       },
@@ -15886,10 +15974,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 138720,
       "name": "Shayo Galore (feat. Le Mav)",
       "url": "https://open.spotify.com/track/4vxJVCRV3CZR7Wy2NCsMBf"
+    },
+    {
+      "album": {
+        "name": "Mid Air",
+        "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181240,
+      "name": "She's On My Mind",
+      "url": "https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9"
     },
     {
       "album": {
@@ -17160,6 +17266,24 @@
       "duration_ms": 444238,
       "name": "Take One - Stalgic Mix",
       "url": "https://open.spotify.com/track/2lYNVCl9jgXmPWvAkktnGC"
+    },
+    {
+      "album": {
+        "name": "Take U",
+        "url": "https://open.spotify.com/album/1BsEalQCwpuAbqQloCDY9u"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162727,
+      "name": "Take U",
+      "url": "https://open.spotify.com/track/1YwWHm6Ad1fizVPaQ8nrco"
     },
     {
       "album": {
@@ -18764,7 +18888,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 440000,
       "name": "uHambo",
       "url": "https://open.spotify.com/track/0GDX7CnKqm2yiZdQpkK50P"
@@ -19362,6 +19486,32 @@
       "duration_ms": 452535,
       "name": "Vaudzeyi Vanamate",
       "url": "https://open.spotify.com/track/3CJyboSxQkJgIp0ptUnpgi"
+    },
+    {
+      "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/2EQauiLBwWg9SCzJ07bEHj"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+        },
+        {
+          "name": "Sophia Ardessore",
+          "url": "https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143253,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD"
     },
     {
       "album": {
@@ -20081,6 +20231,32 @@
     },
     {
       "album": {
+        "name": "Whispers (Rosario Galati Remix)",
+        "url": "https://open.spotify.com/album/2TXuLTkTMoZoLSGyOciLjX"
+      },
+      "artists": [
+        {
+          "name": "Karol XVII & MB Valence",
+          "url": "https://open.spotify.com/artist/00LIVantW8SMg38JskHPbj"
+        },
+        {
+          "name": "Lazarusman",
+          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
+        },
+        {
+          "name": "Rosario Galati",
+          "url": "https://open.spotify.com/artist/1rXwCgYMZVIyWguIhEzBCT"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249917,
+      "name": "Whispers - Rosario Galati Remix",
+      "url": "https://open.spotify.com/track/3Qx397PILapWMbrpvIQpbA"
+    },
+    {
+      "album": {
         "name": "Who You Are",
         "url": "https://open.spotify.com/album/5ABY90gyOlTU1Nmd5dUtXD"
       },
@@ -20474,6 +20650,32 @@
       "duration_ms": 394576,
       "name": "XXL",
       "url": "https://open.spotify.com/track/4W4m2zIJEeRJrVqXXIRilb"
+    },
+    {
+      "album": {
+        "name": "Yafaso (feat. Villa)",
+        "url": "https://open.spotify.com/album/3018AvgGDwngM2RRBueTgq"
+      },
+      "artists": [
+        {
+          "name": "Cornelius SA",
+          "url": "https://open.spotify.com/artist/7t6WmbNSAbZJj4NDKMxH9N"
+        },
+        {
+          "name": "Dee Cee",
+          "url": "https://open.spotify.com/artist/4rVjLPF02DFPN3mSBMgPdt"
+        },
+        {
+          "name": "Villa",
+          "url": "https://open.spotify.com/artist/0sZFV6TXt2oSQUfW37guTt"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229525,
+      "name": "Yafaso (feat. Villa)",
+      "url": "https://open.spotify.com/track/7dZD5roci3Ue5lRt0mSsKA"
     },
     {
       "album": {

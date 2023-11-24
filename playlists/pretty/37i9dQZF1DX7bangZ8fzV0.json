@@ -1,28 +1,28 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5?si=MyXNh3NQTfiACilP98hBBA\">Karlien Van Jaarsveld</a>  ",
-  "num_followers": 87587,
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS?si=2H3SFEnLRKGItfqi7_GOaw\">Die Piesangskille</a>  ",
+  "num_followers": 87655,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTUyYTZjODJmYjFhZDAyOWQ4MjBhOTMzNzJlMDJmNTAxZTU5OWYy",
+  "snapshot_id": "MCxhMjlmZDUyNzlkMWUwZmIyMTUyYTJiZmZhYzJlNzA3MTM3NGJmMmIy",
   "tracks": [
     {
-      "added_at": "2023-11-16 22:00:00",
+      "added_at": "2023-11-23 22:00:00",
       "album": {
-        "name": "Als Is Okay",
-        "url": "https://open.spotify.com/album/1V7vyyFiCCPYav5PHinkNb"
+        "name": "Haar Naam Was Somer",
+        "url": "https://open.spotify.com/album/1keEU7iuzECezDFw8Z1CVE"
       },
       "artists": [
         {
-          "name": "Karlien Van Jaarsveld",
-          "url": "https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5"
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
         }
       ],
-      "duration_ms": 181250,
-      "name": "Als Is Okay",
-      "url": "https://open.spotify.com/track/4qgi2zxMxeVoBJ2QT7abuE"
+      "duration_ms": 194277,
+      "name": "Haar Naam Was Somer",
+      "url": "https://open.spotify.com/track/6EoilsUTHrNfdslcBOBekC"
     },
     {
       "added_at": "2023-09-21 21:59:00",
@@ -39,22 +39,6 @@
       "duration_ms": 201777,
       "name": "Moegdans",
       "url": "https://open.spotify.com/track/4NoHaRFPShno0CHDtele4b"
-    },
-    {
-      "added_at": "2023-08-17 22:01:39",
-      "album": {
-        "name": "Almal Gly",
-        "url": "https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX"
-      },
-      "artists": [
-        {
-          "name": "Die Piesangskille",
-          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
-        }
-      ],
-      "duration_ms": 221067,
-      "name": "Inge 2",
-      "url": "https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16"
     },
     {
       "added_at": "2023-08-24 21:59:00",
@@ -87,6 +71,38 @@
       "duration_ms": 202917,
       "name": "Foute",
       "url": "https://open.spotify.com/track/6K6L2DgKgeREDJ8c0HxLZI"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Boksemdais",
+        "url": "https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 188553,
+      "name": "Boksemdais",
+      "url": "https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD"
+    },
+    {
+      "added_at": "2023-08-17 22:01:39",
+      "album": {
+        "name": "Almal Gly",
+        "url": "https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX"
+      },
+      "artists": [
+        {
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
+        }
+      ],
+      "duration_ms": 221067,
+      "name": "Inge 2",
+      "url": "https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16"
     },
     {
       "added_at": "2023-10-19 22:00:00",
@@ -123,6 +139,22 @@
     {
       "added_at": "2023-06-29 21:59:00",
       "album": {
+        "name": "Impulsief",
+        "url": "https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "duration_ms": 183317,
+      "name": "Impulsief",
+      "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
+    },
+    {
+      "added_at": "2023-06-29 21:59:00",
+      "album": {
         "name": "Koue Kole",
         "url": "https://open.spotify.com/album/7s3HaB5VNnGEpDMCmRO2UE"
       },
@@ -135,54 +167,6 @@
       "duration_ms": 230080,
       "name": "Koue Kole",
       "url": "https://open.spotify.com/track/0WepYdVNcGEfAXN5DKzSo3"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Boksemdais",
-        "url": "https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 188553,
-      "name": "Boksemdais",
-      "url": "https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD"
-    },
-    {
-      "added_at": "2023-11-09 22:00:00",
-      "album": {
-        "name": "OASE",
-        "url": "https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf"
-      },
-      "artists": [
-        {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
-        }
-      ],
-      "duration_ms": 193853,
-      "name": "Slukkie Inspirasie",
-      "url": "https://open.spotify.com/track/6RUiu6xeHqpsxbXJoZeu7s"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 191303,
-      "name": "Toer Om Die Vloer",
-      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -203,8 +187,24 @@
     {
       "added_at": "2023-06-29 21:59:00",
       "album": {
-        "name": "Impulsief",
-        "url": "https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L"
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 191303,
+      "name": "Toer Om Die Vloer",
+      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
+    },
+    {
+      "added_at": "2023-11-09 22:00:00",
+      "album": {
+        "name": "OASE",
+        "url": "https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
         }
       ],
-      "duration_ms": 183317,
-      "name": "Impulsief",
-      "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
+      "duration_ms": 193853,
+      "name": "Slukkie Inspirasie",
+      "url": "https://open.spotify.com/track/6RUiu6xeHqpsxbXJoZeu7s"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -247,6 +247,54 @@
       "duration_ms": 186495,
       "name": "Khaki",
       "url": "https://open.spotify.com/track/5YtFnh2RwQNFh5G35DntZZ"
+    },
+    {
+      "added_at": "2023-11-16 22:00:00",
+      "album": {
+        "name": "Als Is Okay",
+        "url": "https://open.spotify.com/album/1V7vyyFiCCPYav5PHinkNb"
+      },
+      "artists": [
+        {
+          "name": "Karlien Van Jaarsveld",
+          "url": "https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5"
+        }
+      ],
+      "duration_ms": 181250,
+      "name": "Als Is Okay",
+      "url": "https://open.spotify.com/track/4qgi2zxMxeVoBJ2QT7abuE"
+    },
+    {
+      "added_at": "2023-06-29 21:59:00",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 238615,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg"
+    },
+    {
+      "added_at": "2023-11-23 22:00:00",
+      "album": {
+        "name": "Jona",
+        "url": "https://open.spotify.com/album/2C70Ty4DGUj3nrSIAY16B3"
+      },
+      "artists": [
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+        }
+      ],
+      "duration_ms": 208226,
+      "name": "Lyfie",
+      "url": "https://open.spotify.com/track/0GAX8SapBTjOqW0d5taVMu"
     },
     {
       "added_at": "2023-10-26 22:00:00",
@@ -299,22 +347,6 @@
       "duration_ms": 212533,
       "name": "Skobbejak",
       "url": "https://open.spotify.com/track/1PoFAgfEa11NdWylrd8sCc"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 238615,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg"
     },
     {
       "added_at": "2023-06-29 21:59:00",
@@ -959,22 +991,6 @@
     {
       "added_at": "2023-06-29 21:59:00",
       "album": {
-        "name": "O My Vy",
-        "url": "https://open.spotify.com/album/0vFiwfmHqB84pPcp6tWcbh"
-      },
-      "artists": [
-        {
-          "name": "FATMAN",
-          "url": "https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3"
-        }
-      ],
-      "duration_ms": 209891,
-      "name": "O My Vy",
-      "url": "https://open.spotify.com/track/6UPiIutgybDU0QljOWWUHf"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
         "name": "Bokswyn",
         "url": "https://open.spotify.com/album/0AUEv3KyWp0AGzlxq0sjud"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 238668,
       "name": "Hand Aan Hand",
       "url": "https://open.spotify.com/track/0wgq7qI1QTtlto5lfGJ6s9"
-    },
-    {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "Geheueverlies",
-        "url": "https://open.spotify.com/album/7uxR1ditZkvT9RO8brR8hL"
-      },
-      "artists": [
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
-        }
-      ],
-      "duration_ms": 206296,
-      "name": "Geheueverlies",
-      "url": "https://open.spotify.com/track/6uj9EblCmjH3mD68hXYd1J"
     },
     {
       "added_at": "2023-06-29 21:59:00",

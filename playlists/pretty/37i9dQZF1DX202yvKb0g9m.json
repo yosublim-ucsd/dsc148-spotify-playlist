@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 107305,
+  "num_followers": 107348,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGI1ZDE1ODE1OWI5YTA0ZDFmMjMwODFiMzZlMWEwNzQyOTc5OTll",
+  "snapshot_id": "MCxiOGE0M2Q1ZmViMmM0OGYwOWQ5NzA2OWE3MWJjNDk2NjhkMTQwY2Y3",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -191,22 +191,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Can You Feel It",
-        "url": "https://open.spotify.com/album/7q5nYnbxfVVTsmyW5ZB8KX"
-      },
-      "artists": [
-        {
-          "name": "Larry Heard",
-          "url": "https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz"
-        }
-      ],
-      "duration_ms": 340813,
-      "name": "Can You Feel It - Instrumental",
-      "url": "https://open.spotify.com/track/4b5QHhUld8ba26ZJEHawFW"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Higher State of Consciousness",
         "url": "https://open.spotify.com/album/4DMsPDskkWhCfALt696an6"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 377960,
       "name": "Higher State of Consciousness (Tweekin Acid Funk)",
       "url": "https://open.spotify.com/track/6cJ3yBgG1VzRpf4xrKsfB8"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/7q5nYnbxfVVTsmyW5ZB8KX"
+      },
+      "artists": [
+        {
+          "name": "Larry Heard",
+          "url": "https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz"
+        }
+      ],
+      "duration_ms": 340813,
+      "name": "Can You Feel It - Instrumental",
+      "url": "https://open.spotify.com/track/4b5QHhUld8ba26ZJEHawFW"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -611,22 +611,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Trax Classix",
-        "url": "https://open.spotify.com/album/1wrnRD0sIEcAvmpaW4QEHv"
-      },
-      "artists": [
-        {
-          "name": "Armando",
-          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Land Of Confusion",
-      "url": "https://open.spotify.com/track/7o266LwHT9ITAHO8EJ4ETH"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "White Light",
         "url": "https://open.spotify.com/album/4WYhXrhMUSMsbHtgoKgSCx"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 345520,
       "name": "Warsaw (White Light Version)",
       "url": "https://open.spotify.com/track/2gF5ZsKfoGV8ZevuYAAbou"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Trax Classix",
+        "url": "https://open.spotify.com/album/1wrnRD0sIEcAvmpaW4QEHv"
+      },
+      "artists": [
+        {
+          "name": "Armando",
+          "url": "https://open.spotify.com/artist/6JuRhSfY164psE7nZIXw53"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Land Of Confusion",
+      "url": "https://open.spotify.com/track/7o266LwHT9ITAHO8EJ4ETH"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -707,6 +707,22 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
+        "name": "Phuture and Other Classics from DJ Pierre",
+        "url": "https://open.spotify.com/album/1L4MtfrtI8QiieQPDfnBxy"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "duration_ms": 709466,
+      "name": "Acid Trax",
+      "url": "https://open.spotify.com/track/5j72kVstS2gHKl8zWJDNz0"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
         "name": "Box Energy",
         "url": "https://open.spotify.com/album/1aUctWlfiGAFY8NU1juuJo"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 370306,
       "name": "Box Energy",
       "url": "https://open.spotify.com/track/1AJjf493QWymMyQmDXj6fK"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
-        "name": "Phuture and Other Classics from DJ Pierre",
-        "url": "https://open.spotify.com/album/1L4MtfrtI8QiieQPDfnBxy"
-      },
-      "artists": [
-        {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        }
-      ],
-      "duration_ms": 709466,
-      "name": "Acid Trax",
-      "url": "https://open.spotify.com/track/5j72kVstS2gHKl8zWJDNz0"
     },
     {
       "added_at": "2021-10-22 11:07:27",

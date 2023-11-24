@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 140534,
+  "num_followers": 140595,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmM0NmRjMTQzYTM0OGVmMDU3NmQzNmU0ZWYzODljZTJmMDQ0ZjY1",
+  "snapshot_id": "MCxmZWQxMWEyMTg2MTIyYTQ2OWE3MTExNDJiYmZmYTljYzYwMDdkZTQ0",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Outskirts (Acoustic)",
-        "url": "https://open.spotify.com/album/5qyPZa71L2HyiPndLDI9T0"
-      },
-      "artists": [
-        {
-          "name": "Sean Stemaly",
-          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
-        }
-      ],
-      "duration_ms": 182692,
-      "name": "Outskirts - Acoustic",
-      "url": "https://open.spotify.com/track/31biT4mpfWsydnwXihioIH"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Steady Heart (Wedding Version)",
         "url": "https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 210555,
       "name": "Steady Heart - Wedding Version",
       "url": "https://open.spotify.com/track/3UHicRfzUv8WiMXgIVKXBV"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Outskirts (Acoustic)",
+        "url": "https://open.spotify.com/album/5qyPZa71L2HyiPndLDI9T0"
+      },
+      "artists": [
+        {
+          "name": "Sean Stemaly",
+          "url": "https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb"
+        }
+      ],
+      "duration_ms": 182692,
+      "name": "Outskirts - Acoustic",
+      "url": "https://open.spotify.com/track/31biT4mpfWsydnwXihioIH"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Live from Layman",
-        "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
-      },
-      "artists": [
-        {
-          "name": "Sarah Darling",
-          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Waves (Live)",
-      "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Pretty Little Poison (Piano Version)",
         "url": "https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 216866,
       "name": "Pretty Little Poison - Piano Version",
       "url": "https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Live from Layman",
+        "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
+      },
+      "artists": [
+        {
+          "name": "Sarah Darling",
+          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Waves (Live)",
+      "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "End of the Rain",
-        "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
-      },
-      "artists": [
-        {
-          "name": "Jason Blaine",
-          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
-        }
-      ],
-      "duration_ms": 195701,
-      "name": "End of the Rain",
-      "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "That's Why (Acoustic Version)",
         "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 177772,
       "name": "That's Why (Acoustic Version)",
       "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "End of the Rain",
+        "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
+      },
+      "artists": [
+        {
+          "name": "Jason Blaine",
+          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
+        }
+      ],
+      "duration_ms": 195701,
+      "name": "End of the Rain",
+      "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Cowboy Forever (Acoustic Version)",
-        "url": "https://open.spotify.com/album/06oFPRkliY6amtTA188tk8"
-      },
-      "artists": [
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 170242,
-      "name": "Cowboy Forever (Acoustic Version)",
-      "url": "https://open.spotify.com/track/0NWLt71QlmsCPEgLF2NSMS"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
         "name": "Best Shot (Acoustic)",
         "url": "https://open.spotify.com/album/6RKktqrvsQlht15wzaeWR2"
       },
@@ -1619,18 +1603,34 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Weekends Look A Little Acoustic These Days",
-        "url": "https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0"
+        "name": "Cowboy Forever (Acoustic Version)",
+        "url": "https://open.spotify.com/album/06oFPRkliY6amtTA188tk8"
       },
       "artists": [
         {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
         }
       ],
-      "duration_ms": 254989,
-      "name": "You Didn\u2019t - Acoustic",
-      "url": "https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs"
+      "duration_ms": 170242,
+      "name": "Cowboy Forever (Acoustic Version)",
+      "url": "https://open.spotify.com/track/0NWLt71QlmsCPEgLF2NSMS"
+    },
+    {
+      "added_at": "2023-11-10 05:00:00",
+      "album": {
+        "name": "Take My Name (Wedding Version)",
+        "url": "https://open.spotify.com/album/2gGSvwn3wS3drhrN07fnSC"
+      },
+      "artists": [
+        {
+          "name": "Parmalee",
+          "url": "https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I"
+        }
+      ],
+      "duration_ms": 174133,
+      "name": "Take My Name (Wedding Version)",
+      "url": "https://open.spotify.com/track/5Pe59NlkY1rYND0I1wqgv6"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Love Makes You Blind (Acoustic Version)",
-        "url": "https://open.spotify.com/album/75jOuaznH9JpfkrKLt6AmG"
+        "name": "Weekends Look A Little Acoustic These Days",
+        "url": "https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0"
       },
       "artists": [
         {
-          "name": "Kaylee Rose",
-          "url": "https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH"
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
         }
       ],
-      "duration_ms": 160940,
-      "name": "Love Makes You Blind (Acoustic Version)",
-      "url": "https://open.spotify.com/track/3nigSojrGL9YcS9RIt8X8U"
+      "duration_ms": 254989,
+      "name": "You Didn\u2019t - Acoustic",
+      "url": "https://open.spotify.com/track/27cNKdragPxvklYZNT8QIs"
     }
   ],
   "unique_name": "Nashville Stripped",

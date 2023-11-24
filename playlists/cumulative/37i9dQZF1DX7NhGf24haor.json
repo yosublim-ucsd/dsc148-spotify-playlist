@@ -531,6 +531,28 @@
     },
     {
       "album": {
+        "name": "Army of the Night",
+        "url": "https://open.spotify.com/album/2pAG3WDYtHYynfKzrbGckr"
+      },
+      "artists": [
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        },
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212195,
+      "name": "Army of the Night",
+      "url": "https://open.spotify.com/track/60wBNYcW91OTrWviC5Sfil"
+    },
+    {
+      "album": {
         "name": "Arriba",
         "url": "https://open.spotify.com/album/3u5RVkRjtJhzrtcmua9HP2"
       },
@@ -4167,6 +4189,24 @@
     },
     {
       "album": {
+        "name": "Get Stompin",
+        "url": "https://open.spotify.com/album/5PFPqNAQ7TPziUoWiINBbK"
+      },
+      "artists": [
+        {
+          "name": "MANDY",
+          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186400,
+      "name": "Get Stompin",
+      "url": "https://open.spotify.com/track/7xss5lFXrXr1lD4oqvfFUo"
+    },
+    {
+      "album": {
         "name": "Gimme Bass",
         "url": "https://open.spotify.com/album/4tGntCkV48pCNwIlKAMays"
       },
@@ -4870,7 +4910,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 173540,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/3qDtBXXhuuoBw2FUJolBKA"
@@ -6760,7 +6800,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 175200,
       "name": "Lose It All - LNY TNZ Remix",
       "url": "https://open.spotify.com/track/1Bwxcp4pB2pvs9jec5Nv01"
@@ -8114,6 +8154,24 @@
       "duration_ms": 208451,
       "name": "Next Level",
       "url": "https://open.spotify.com/track/3rYbbTaZpgTkgTVM0TgaSo"
+    },
+    {
+      "album": {
+        "name": "Nine 2 Five",
+        "url": "https://open.spotify.com/album/6s4XltvvPnGX6rv75FrQMd"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143200,
+      "name": "Nine 2 Five",
+      "url": "https://open.spotify.com/track/1qPJHuTYqCa4VwlpZRhUVs"
     },
     {
       "album": {
@@ -9520,6 +9578,24 @@
       "duration_ms": 219870,
       "name": "Reevolution",
       "url": "https://open.spotify.com/track/6fBjnNhmNgAAVt5D30mFtQ"
+    },
+    {
+      "album": {
+        "name": "Reflected Reality (Official Shockerz 2023 Anthem)",
+        "url": "https://open.spotify.com/album/42mQWU7bnIF2p26Mw2mJlx"
+      },
+      "artists": [
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235348,
+      "name": "Reflected Reality - Official Shockerz 2023 Anthem",
+      "url": "https://open.spotify.com/track/0zCbTdlV1vSVAr28LDtwfg"
     },
     {
       "album": {
@@ -12788,6 +12864,24 @@
       "duration_ms": 214500,
       "name": "Tunnel Of Vision",
       "url": "https://open.spotify.com/track/6vAr6v7WLW5xP6Z5uyCLXH"
+    },
+    {
+      "album": {
+        "name": "Turn Back Time",
+        "url": "https://open.spotify.com/album/4vOLCstrSL80j6yPFKJGhE"
+      },
+      "artists": [
+        {
+          "name": "Frontliner",
+          "url": "https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "Turn Back Time",
+      "url": "https://open.spotify.com/track/0WOCiT0nUUyoZh9WkTGlcI"
     },
     {
       "album": {

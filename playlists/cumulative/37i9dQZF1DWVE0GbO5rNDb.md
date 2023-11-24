@@ -4,7 +4,7 @@
 
 > Hit dance per l'estate 2023, anche in autunno 👀
 
-336 songs - 16 hr 29 min
+337 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Fool 4 U \(feat\. Enisa\)](https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Fool 4 U \(feat\. Enisa\)](https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT) | 2:26 | 2023-05-04 | 2023-09-06 |
 | [For Your Love](https://open.spotify.com/track/6viAMV0RuBb5nmzpPlYMAJ) | [Dualities](https://open.spotify.com/artist/7qplXWyxHyxChnW37jxBxt) | [For Your Love](https://open.spotify.com/album/0dwCZmrxAzntiQ7x35ZG5U) | 3:04 | 2022-05-06 | 2022-07-27 |
 | [Forget to Forget](https://open.spotify.com/track/4E5IBDRu8kJbzUv1qaZM1t) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Forget to Forget](https://open.spotify.com/album/3GX2lFOgBOfVw4BYsINt6S) | 2:35 | 2022-12-20 | 2023-03-22 |
-| [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ) | 3:33 | 2023-07-28 |  |
+| [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ) | 3:33 | 2023-07-28 | 2023-11-24 |
 | [Fresh \- House of Prayers Poolside Edit](https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01) | [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1), [House of Prayers](https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg) | [Fresh](https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV) | 4:44 | 2023-05-22 |  |
 | [Friends for the Night](https://open.spotify.com/track/0GJ4JP6rPe5gnyMd8jlJwi) | [DJ Ross](https://open.spotify.com/artist/70yj8eIE94z38CM2kfsXQL), [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj) | [Friends for the Night](https://open.spotify.com/album/2d0YZ32L3faRzz7F0GqZLJ) | 3:48 | 2022-05-06 | 2022-05-18 |
 | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/track/5A52bfa9VVfTTfwLpxopz6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [David Solomon](https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Future In Your Hands \(feat\. Aloe Blacc\)](https://open.spotify.com/album/7s2UFHl1FHu2AkD6pVXxMn) | 3:41 | 2022-08-26 | 2022-12-13 |
@@ -196,6 +196,7 @@
 | [Motion](https://open.spotify.com/track/4jeQnCp9IL3pbLPn0UjLmh) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Motion](https://open.spotify.com/album/2R9a1Kl1u7OT9WlUjVyvVd) | 2:28 | 2023-06-05 | 2023-07-04 |
 | [Motion](https://open.spotify.com/track/1YGVpvE7hKdqNArudG04Ll) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Motion](https://open.spotify.com/album/0XrwWR8YPTfrboiAS3Dp8O) | 3:07 | 2022-10-21 | 2023-03-23 |
 | [Motion](https://open.spotify.com/track/3x7jbRUvcoULvi1WFEHo5w) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Motion](https://open.spotify.com/album/4JbY02dRmfHxC2PQvEV27k) | 3:07 | 2023-03-21 | 2023-09-18 |
+| [Motion](https://open.spotify.com/track/78vBw8siHaT9TcI5cls1iM) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [When The Light Breaks](https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h) | 3:07 | 2023-11-10 |  |
 | [Motion](https://open.spotify.com/track/7GRfEf5BG1OCSMpeVotldQ) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Motion](https://open.spotify.com/album/3NkinGi0Fv1BPYhh06hzjU) | 3:07 | 2022-05-17 | 2022-10-13 |
 | [My Bed \(feat\. RBVLN\)](https://open.spotify.com/track/75VwTAbn9byz537HEMlFvR) | [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [RBVLN](https://open.spotify.com/artist/224G27DUJ00ddLjId4mg68) | [My Bed \(feat\. RBVLN\)](https://open.spotify.com/album/5aUPakJYEkXMj4Mb6KX1DV) | 2:46 | 2022-05-06 | 2022-07-29 |
 | [My Head & My Heart \- Jonas Blue Remix](https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [My Head & My Heart \(Jonas Blue Remix\)](https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe) | 2:59 | 2022-05-06 |  |

@@ -130,7 +130,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 163555,
       "name": "90 Haaku (From \"Kousalya Supraja Rama\")",
       "url": "https://open.spotify.com/track/7guLFKh9fms3nNu8tu21Ov"
@@ -6270,10 +6270,32 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 142040,
       "name": "Eradu Gundege Katttaaalu",
       "url": "https://open.spotify.com/track/0w2NrEI2G5rNEpC1F44NC7"
+    },
+    {
+      "album": {
+        "name": "Tiger Nageswara Rao (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7MUAdFCK3W3AyQfCwXXfFy"
+      },
+      "artists": [
+        {
+          "name": "Sachin S Nagartha",
+          "url": "https://open.spotify.com/artist/1WyqbsqrzA0ok6rGRs3Igw"
+        },
+        {
+          "name": "Raghu Niduvalli",
+          "url": "https://open.spotify.com/artist/3XgLt0qMKO1yeg2MaEqx06"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142040,
+      "name": "Eradu Gundege Katttaaalu",
+      "url": "https://open.spotify.com/track/14JoAupAAEqIZ5AkyOUqNa"
     },
     {
       "album": {
@@ -13508,7 +13530,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 212413,
       "name": "Muddu Rakshasi - From \" Vaamana \"",
       "url": "https://open.spotify.com/track/5K9loq4s6yILgWxK6zbsq4"
@@ -17956,7 +17978,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 238080,
       "name": "Preethisuve",
       "url": "https://open.spotify.com/track/1IsoqavrtE8wf6lf2EPCIF"
@@ -19095,6 +19117,28 @@
     },
     {
       "album": {
+        "name": "Tiger Nageswara Rao (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7MUAdFCK3W3AyQfCwXXfFy"
+      },
+      "artists": [
+        {
+          "name": "Abhishek M R",
+          "url": "https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97"
+        },
+        {
+          "name": "Raghu Niduvalli",
+          "url": "https://open.spotify.com/artist/3XgLt0qMKO1yeg2MaEqx06"
+        }
+      ],
+      "date_added": "2023-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Samaraane Nyayanaa",
+      "url": "https://open.spotify.com/track/5tx3XTdKY3hXyZDomIkW86"
+    },
+    {
+      "album": {
         "name": "Tiger Nageswara Rao (Kannada)",
         "url": "https://open.spotify.com/album/0vdKU1KLGerk7awZ0fV8d7"
       },
@@ -19110,7 +19154,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 260000,
       "name": "Samaraane Nyayanaa",
       "url": "https://open.spotify.com/track/45Sl5dJuvoeXDRuV6d3YCP"
@@ -20102,6 +20146,32 @@
       "duration_ms": 167268,
       "name": "Sojugada Soojumallige (From \"Garuda Gamana Vrishabha Vahana\")",
       "url": "https://open.spotify.com/track/4LqXkFZctfZnu1ezSu39Q5"
+    },
+    {
+      "album": {
+        "name": "Sona Baby (From \"Gana\")",
+        "url": "https://open.spotify.com/album/2pAITBQQ3d5UTUDie9EgoZ"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "J. Anoop Seelin",
+          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230149,
+      "name": "Sona Baby (From \"Gana\")",
+      "url": "https://open.spotify.com/track/1qFicoMiAL9RZA3K9IJLZZ"
     },
     {
       "album": {

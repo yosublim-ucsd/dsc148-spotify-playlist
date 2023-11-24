@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Maanu
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,048 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,078 likes - 55 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 54 | [Nakhre](https://open.spotify.com/track/2hmg6kxG5C2SwaHb0mqqbt) | [Jawad](https://open.spotify.com/artist/5KIc7lniuLWhlXVOuhvvN8), [Road Runner](https://open.spotify.com/artist/0lR8BD5lSNtTjQvggwyqE6), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Nakhre](https://open.spotify.com/album/6gL7uV8ikgeIX8TCV1oQjU) | 2:46 |
 | 55 | [JANI JANI \- feat\. Alistair Alvin](https://open.spotify.com/track/1XCGFjrxtCMDUbWR7aertX) | [Madlock Gilani](https://open.spotify.com/artist/69QGbimZ7ZZJ9w02ET3kpx), [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF) | [JANI JANI \(feat\. Alistair Alvin\)](https://open.spotify.com/album/3OPezImcUAG9eeaW5gGXzb) | 2:06 |
 
-Snapshot ID: `MCwxMTJlMTY5ODdhNjllZjY0N2VjYjk4NTVmODlhMjdmODBlZWQyZDQ2`
+Snapshot ID: `MCw0MjQ2ZDZhNWY3MDY1M2I3NjdmNGUzNTFiYmUxZGU0NTg0MTMxOWY5`

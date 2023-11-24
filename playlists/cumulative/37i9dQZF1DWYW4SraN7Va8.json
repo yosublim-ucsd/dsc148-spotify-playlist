@@ -394,7 +394,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 207466,
       "name": "Black Night",
       "url": "https://open.spotify.com/track/7yn7rpRvg6XCq10B94etIp"
@@ -2162,6 +2162,24 @@
       "duration_ms": 284066,
       "name": "The Passenger",
       "url": "https://open.spotify.com/track/3yP0cohcr97BUNJcgvmSVg"
+    },
+    {
+      "album": {
+        "name": "Too Fast For Love",
+        "url": "https://open.spotify.com/album/0UcyqmHNn536yy8boNihhb"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201213,
+      "name": "Too Fast for Love",
+      "url": "https://open.spotify.com/track/4XdLlfscf06Tk1Ny6JQi84"
     },
     {
       "album": {

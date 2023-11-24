@@ -70,7 +70,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 186357,
       "name": "A World at Peace",
       "url": "https://open.spotify.com/track/7dStBhN0AbvcisUF2IePZg"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 247771,
       "name": "About You",
       "url": "https://open.spotify.com/track/0hIoMybq3v9K2ByrFCwjRu"
@@ -704,7 +704,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 133346,
       "name": "BUS RIDE",
       "url": "https://open.spotify.com/track/0p07eXzptON22i7dk4lmP7"
@@ -984,7 +984,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 108000,
       "name": "Controlla",
       "url": "https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm"
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 168103,
       "name": "Day At The Beach",
       "url": "https://open.spotify.com/track/2uwZFVIBJ4XpXV2NNoiZPx"
@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 190041,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/7lRsXfGnY0PBSxVMIxuHME"
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 130677,
       "name": "Egyptian Pools",
       "url": "https://open.spotify.com/track/0apbliJUvsg6R6l126454r"
@@ -1512,7 +1512,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 130427,
       "name": "FLEETING",
       "url": "https://open.spotify.com/track/35IlMSTOjZ0JDIKeHhQUhM"
@@ -1588,7 +1588,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 134250,
       "name": "Fresh Breeze",
       "url": "https://open.spotify.com/track/3o1DqWwSOUp4GRvsYiB22N"
@@ -1675,6 +1675,28 @@
     },
     {
       "album": {
+        "name": "cordata spring",
+        "url": "https://open.spotify.com/album/1anlhyFZ24KN1BjPNPuSXe"
+      },
+      "artists": [
+        {
+          "name": "Delayde",
+          "url": "https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h"
+        },
+        {
+          "name": "Hemond",
+          "url": "https://open.spotify.com/artist/6hCQ4kHN2kICk36cN1FnJg"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "golota",
+      "url": "https://open.spotify.com/track/1dmaAgL4fAmVdAouTVGThj"
+    },
+    {
+      "album": {
         "name": "Boardwalk Bumps 3",
         "url": "https://open.spotify.com/album/5I1Rdf76k3dEbzhM6RxYim"
       },
@@ -1722,7 +1744,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 121097,
       "name": "Good Evening",
       "url": "https://open.spotify.com/track/5bWvhoW0YfVHgi0IVUl0UG"
@@ -1948,7 +1970,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 210739,
       "name": "Hippocamp",
       "url": "https://open.spotify.com/track/0uKrR91NAfDAcwCE9M2gSY"
@@ -1966,7 +1988,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 159000,
       "name": "Honey",
       "url": "https://open.spotify.com/track/3QAyC3lilsgZ2ZyzMHibYN"
@@ -2172,7 +2194,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 168813,
       "name": "Ji-Eun's Sunset",
       "url": "https://open.spotify.com/track/0DvqAXyoA7zRB8wgH0DjRO"
@@ -2274,7 +2296,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 130000,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/078xh9ZaaEt12G04mzyrqp"
@@ -2426,7 +2448,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 110789,
       "name": "makeitliveforever",
       "url": "https://open.spotify.com/track/1RgopjbTCADvcFRe7dDav2"
@@ -2578,7 +2600,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 152000,
       "name": "Mental Acupuncture",
       "url": "https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX"
@@ -2824,7 +2846,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 163764,
       "name": "night.owls",
       "url": "https://open.spotify.com/track/2bFnRt6WKhNw4maKOxLyj3"
@@ -3040,7 +3062,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 215066,
       "name": "path of the wind",
       "url": "https://open.spotify.com/track/0ovVhnQz8l1HfVl94qxtuC"
@@ -3443,6 +3465,28 @@
     },
     {
       "album": {
+        "name": "Coffee Beats",
+        "url": "https://open.spotify.com/album/3goNpzRpK4nIJr9vIMF3Ks"
+      },
+      "artists": [
+        {
+          "name": "EMERLD",
+          "url": "https://open.spotify.com/artist/4u3lbIhbrOqejxRJhK6Wjp"
+        },
+        {
+          "name": "Buuda",
+          "url": "https://open.spotify.com/artist/23wfDzAGsBklQCozMdlnCy"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153417,
+      "name": "Sesame",
+      "url": "https://open.spotify.com/track/2ZDZ4XT0yFmC5kEACI2pwV"
+    },
+    {
+      "album": {
         "name": "shelter",
         "url": "https://open.spotify.com/album/2luq40AQDoOiR5hkbogFIc"
       },
@@ -3652,7 +3696,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 95921,
       "name": "Smoking at Midnight",
       "url": "https://open.spotify.com/track/69r4VkTUiqOlcDN6ZbsblI"
@@ -3772,7 +3816,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 153549,
       "name": "Somewhere Else",
       "url": "https://open.spotify.com/track/5djyaDp1Antker31qnLCiv"
@@ -3890,7 +3934,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Soul Sista",
       "url": "https://open.spotify.com/track/6tun0i4mdf8qgNXVYxRZRe"
@@ -4160,7 +4204,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 174562,
       "name": "Sundays",
       "url": "https://open.spotify.com/track/5UGC2XD60M7Ki6kh1A4oyI"
@@ -4288,7 +4332,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 96026,
       "name": "The Burn Marks on My Epiano Wont Go Away",
       "url": "https://open.spotify.com/track/6IsX4N6M7i9OrYc4t70Swv"
@@ -4394,7 +4438,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 131000,
       "name": "thinking of you",
       "url": "https://open.spotify.com/track/1oSevjov1EOdo8TYcrb5nQ"
@@ -4452,7 +4496,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 147300,
       "name": "timestamp",
       "url": "https://open.spotify.com/track/0DP6ySJDVMTResFo9zAMqa"
@@ -4658,7 +4702,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 180062,
       "name": "walk in the park",
       "url": "https://open.spotify.com/track/0jA1qk1AX3vbNBcYhwbozw"

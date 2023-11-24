@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: CASTAWAY DIVA\(무인도의 디바\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-758 songs - 1 day 21 hr 51 min
+760 songs - 1 day 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [In Color](https://open.spotify.com/track/6c2z1AwD4exKBy69bvv5Pk) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Jirisan \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/2zlu6Jn5ux4CN6SrzXsebM) | 3:49 | 2021-12-19 | 2022-03-04 |
 | [In My Heart](https://open.spotify.com/track/2URys8E6imQmRIfAlES1p4) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Our Blooming Youth \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/0hRiiWogBg37JG9IGmy0QU) | 3:51 | 2023-02-24 | 2023-07-18 |
 | [In the end we break up again](https://open.spotify.com/track/7wIXKUKydFAekfmkY4dr9y) | [RAN](https://open.spotify.com/artist/3C7ohflntJsa9KFY5GBim1) | [Bravo, My Life OST Part.10](https://open.spotify.com/album/6McBvDgGynQuviMva7QoU4) | 3:49 | 2022-06-09 | 2022-08-03 |
+| [In The Head](https://open.spotify.com/track/7n8CUH5iMozYbk1v9NYH2C) | [Kai](https://open.spotify.com/artist/5zCtihKT8IsDqVS5WBbqHD) | [In The Head](https://open.spotify.com/album/2RYq64m37uOKmmeEL5uF3g) | 6:08 | 2023-11-23 |  |
 | [In Those Days](https://open.spotify.com/track/6DEN4QFoRFqhS8jTYz3hfF) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [The Heavenly Idol \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/6i5T66U2aGVlOzauitF6MB) | 4:03 | 2023-02-24 | 2023-07-18 |
 | [In your days](https://open.spotify.com/track/5E24Cqg0gcD2zrgxxgh0sn) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Thirty\-nine \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3SEHTx0lgdfmbswBht0tCS) | 3:58 | 2022-03-22 | 2022-06-14 |
 | [Inevitable](https://open.spotify.com/track/4oqx4yqCwbudGYhgb7cqC5) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Extraordinary Attorney Woo \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/0LUkbLHroRWtCVrGPb9y1g) | 3:51 | 2022-08-12 | 2022-12-20 |
@@ -633,6 +634,7 @@
 | [The Road not Taken](https://open.spotify.com/track/17BytRtBL3ajgsOQD1cCxT) | [JeHwi](https://open.spotify.com/artist/269A1U75KOCFyPAiXq4sjT) | [The Good Bad Mother \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/6XXs7VIxHhaeIjVW0nwkM0) | 4:14 | 2023-06-02 | 2023-11-03 |
 | [The Season of You](https://open.spotify.com/track/7iEELA32wMz4a1gYZNCNSO) | [Byeol Eun](https://open.spotify.com/artist/6PlVpPXatgot82WQgqM6S2) | [Love in Contract, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/48zQbCd3wr1doH7uH4sWVh) | 3:57 | 2022-10-07 | 2023-01-14 |
 | [The Season of You](https://open.spotify.com/track/2WSh9UDMZbUSI2sdekVaTW) | [Hee brothers](https://open.spotify.com/artist/7qXJEle1HRJwOW1wuTEgwz) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.8](https://open.spotify.com/album/4toOtJwlOljascDRJUd2JE) | 4:15 | 2022-05-11 | 2022-08-03 |
+| [The Secret Between Us](https://open.spotify.com/track/5JWY6YpiWNxlyH5zI6KNcY) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Secret Between Us \(from "A Good Day to be a Dog" Original Television Sountrack, Pt\. 3\)](https://open.spotify.com/album/2tBpgbdd4eCcmHm5I0ormj) | 3:12 | 2023-11-23 |  |
 | [The Secret Garden](https://open.spotify.com/track/2ykHau3Xffgjhm9zmKBILS) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Call It Love, Part 1 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/3mLDrNtCsnapPkEqexs2pz) | 3:16 | 2023-02-24 | 2023-07-18 |
 | [The sun is in my eyes](https://open.spotify.com/track/5C3Zfrnprz4lyeaTsqN9wF) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [Musical <Midnight Sun> Original Soundtrack](https://open.spotify.com/album/3u7PM56bqY9B3cfokdrJLO) | 3:14 | 2022-05-03 | 2022-07-05 |
 | [The Veiled Path](https://open.spotify.com/track/2iu5E0I9RYnCC2Qn3ouZ33) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Young Lady And Gentleman \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5U0cliOy1dfUWkJKP4JsHv) | 3:28 | 2021-12-19 | 2022-04-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Ciça Moreira, Egypcio
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,327 likes - 75 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,332 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 17 | [Infame](https://open.spotify.com/track/1yJoSwOtQPXcGf3Vzm5DSe) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1), [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Infame](https://open.spotify.com/album/5ajNNK3Yk53P8040QnuhOT) | 4:10 |
 | 18 | [Diz Pra Mim](https://open.spotify.com/track/2yHsmCovu6tuaq2avIKcz2) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG), [Bruno Faglioni](https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G) | [Ao Vivo Em Paranavaí \- Vol\. 1](https://open.spotify.com/album/4jgS1WLCGvyeCtxQjJB2Ob) | 3:33 |
 | 19 | [Broken By You \(feat\. Fresno\)](https://open.spotify.com/track/41ATRo4jo08OFfyRPU77Y3) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd), [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Power to Play \(Deluxe\)](https://open.spotify.com/album/6twHmY6QETLwAp4oMBRAp8) | 3:05 |
-| 20 | [Um Drink no Inferno](https://open.spotify.com/track/1ZIL3n6FyzFWOz0fHb0SUu) | [Pappa Jack](https://open.spotify.com/artist/5j8yCUAAtRgPbW98Eym3oo), [Igor Godoy](https://open.spotify.com/artist/6XZXv7MIYiSLmAjx34eaeE) | [Volume 1](https://open.spotify.com/album/1ueUmJn1wDaxpWZFzH1xJc) | 3:20 |
+| 20 | [Um Drink no Inferno](https://open.spotify.com/track/1ZIL3n6FyzFWOz0fHb0SUu) | [Pappa Jack](https://open.spotify.com/artist/5j8yCUAAtRgPbW98Eym3oo), [Igor Godoi](https://open.spotify.com/artist/6nx3QzI1c2xmdV8BrINtmG) | [Volume 1](https://open.spotify.com/album/1ueUmJn1wDaxpWZFzH1xJc) | 3:20 |
 | 21 | [Gigante](https://open.spotify.com/track/41T7H4623zni8AgZ37dIif) | [Dona Cislene](https://open.spotify.com/artist/5y1NGDU4pRq4WRT3ZGP1tz) | [Gigante](https://open.spotify.com/album/5lngOd9ckmPOL4xwcbkotM) | 3:57 |
 | 22 | [A Cera \- Acústico](https://open.spotify.com/track/3qxgnmvKicrwwkC2UGpX6d) | [O Surto](https://open.spotify.com/artist/6SXLkJrpyA2cxh2B1Xq3b7), [Marcelo Magal](https://open.spotify.com/artist/67n9eHOJowmnPtQgpjGw5x) | [A Cera \(Acústico\)](https://open.spotify.com/album/1cEgTIHTLqKjhZJX6HFcWA) | 4:03 |
 | 23 | [Te Louvarei](https://open.spotify.com/track/6dKHmRsN74LZ7BiMdC0znb) | [Banda LIV](https://open.spotify.com/artist/5UNECAhZ0Ih1H6INDhwK9k) | [Te Louvarei](https://open.spotify.com/album/2VurG8NqUWqYArLdPA4pik) | 4:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Inabalável](https://open.spotify.com/track/3972PNho0RmiNcpIm6hcYn) | [Mattilha](https://open.spotify.com/artist/1p5k3q7GkTTeSI3dundiSU) | [Inabalável](https://open.spotify.com/album/6PG3v6BBWyDyDR3BgBqXgw) | 4:23 |
 | 75 | [Primeiros Erros](https://open.spotify.com/track/7FWkuxnRVX16pkVmxtO2Lt) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Primeiros Erros](https://open.spotify.com/album/4Zjcmh7q0ShqZPHtAMcFDM) | 5:51 |
 
-Snapshot ID: `MCw2NjFkNjZlNzcyNjA5MGMwMjkxMjQxYzNmY2YyOWRkNDdkYmYwN2Ey`
+Snapshot ID: `MCw0NmJjYTRjZjMwOGZlN2I4YjljZjM3ZDI5OGZjY2IzN2ZmOThkZmMw`

@@ -1,12 +1,12 @@
 {
   "description": "Essential club anthems from the golden era of house music. Cover: Kenny Dope and Little Louie Vega",
-  "num_followers": 321244,
+  "num_followers": 321464,
   "original_name": "90s House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjk0NmNiYmNjYzc3NDBlMjFkMGRkYmIwMjI4M2NlMmQyOTBmZDlk",
+  "snapshot_id": "MCxhNDBmNWZlOWVjZTQzODg5NWUyMDZkNjMyYmRlMDQ1ZjViZWJmZWFh",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -83,22 +83,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        }
-      ],
-      "duration_ms": 244773,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "King Of My Castle (Mixes)",
         "url": "https://open.spotify.com/album/6ypceV6YBvX5iqzqYH2fow"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 209026,
       "name": "King of My Castle (Roy Malone's King Radio Edit)",
       "url": "https://open.spotify.com/track/5ov3LhsdEifKENMIlLCuJo"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        }
+      ],
+      "duration_ms": 244773,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Strictly Hardrive",
+        "url": "https://open.spotify.com/album/58gDcsComtrCGQGzSuD031"
+      },
+      "artists": [
+        {
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        }
+      ],
+      "duration_ms": 392293,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Move Your Body (Elevation) - EP",
         "url": "https://open.spotify.com/album/1lzDLTMaIPXUVoVfaADink"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 262400,
       "name": "Passion - Naked Edit",
       "url": "https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Strictly Hardrive",
-        "url": "https://open.spotify.com/album/58gDcsComtrCGQGzSuD031"
-      },
-      "artists": [
-        {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
-        }
-      ],
-      "duration_ms": 392293,
-      "name": "Deep Inside",
-      "url": "https://open.spotify.com/track/1i6KuPV0SnkciFR5yJEbty"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "The Best Of Crystal Waters",
-        "url": "https://open.spotify.com/album/3u9FnafwttOYXAz9fznSAg"
-      },
-      "artists": [
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        }
-      ],
-      "duration_ms": 227440,
-      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
-      "url": "https://open.spotify.com/track/4PxoDlPrwGtmWqFA4pm57U"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Needin' U (Radio Edit)",
         "url": "https://open.spotify.com/album/6ROOnXW9kJNHnSzaRuiXnW"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 229933,
       "name": "David Morales - Needin U - Radio Edit",
       "url": "https://open.spotify.com/track/4lgDZcisljVlutaku19eqV"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "The Best Of Crystal Waters",
+        "url": "https://open.spotify.com/album/3u9FnafwttOYXAz9fznSAg"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 227440,
+      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
+      "url": "https://open.spotify.com/track/4PxoDlPrwGtmWqFA4pm57U"
     },
     {
       "added_at": "2023-08-18 04:00:00",

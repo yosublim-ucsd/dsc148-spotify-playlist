@@ -4,7 +4,7 @@
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-449 songs - 23 hr 18 min
+453 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [A Minute To Myself](https://open.spotify.com/track/0ZcjEawIY7jFDUTJdK9QkO) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [A Minute To Myself](https://open.spotify.com/album/2WzMQD7VpeIWG14dBHSTru) | 3:02 | 2023-08-17 |  |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/10RuHxKum9NEanMnjISzNF) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/3sQaHcC5OYhvDmJalmlLoM) | 2:25 | 2021-12-14 |  |
 | [A Sleepin' Bee](https://open.spotify.com/track/6BMoH1WjyQuNwKrxP1eVNg) | [Jean Fines](https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7) | [A Sleepin' Bee](https://open.spotify.com/album/11yBQcdGh6062GGt9LE6YZ) | 5:00 | 2022-09-13 | 2023-02-03 |
+| [A Thought Of You](https://open.spotify.com/track/2RtX44bwJapdvlQ4BaxyJr) | [Millie Blue](https://open.spotify.com/artist/3Z6Jby1DnvCKJMkHjrwg5P) | [A Thought Of You](https://open.spotify.com/album/0HVBnMRkRn2xnpQ4CLph4z) | 2:28 | 2023-11-24 |  |
 | [A Time for Love](https://open.spotify.com/track/2UoiJSDgOE0G8kFZxgzDGk) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [A Time for Love](https://open.spotify.com/album/6Ptv8G7l8cdlc9mvfa3rFw) | 2:55 | 2022-06-09 |  |
 | [Afternoon in Paris](https://open.spotify.com/track/6wg1hOAb1YFirCPxwpzDLm) | [John Lewis](https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s) | [Evolution](https://open.spotify.com/album/50z6YJO0bAitRnyd2gvJlI) | 5:10 | 2021-12-14 | 2022-05-04 |
 | [Alfie](https://open.spotify.com/track/0hM1KJAmxzankL3lgogyxf) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Alfie](https://open.spotify.com/album/5Utoepi0mubUEicgDq7WnY) | 2:43 | 2022-03-10 | 2022-11-18 |
@@ -242,6 +243,7 @@
 | [Love in the First Degree](https://open.spotify.com/track/3LVaEWRdveFDHotlDaRDLa) | [Elsa Gifford](https://open.spotify.com/artist/2WkJQ6rsCVeyNuVidqTaoW) | [Love in the First Degree](https://open.spotify.com/album/39LNWMSNTxqiOAxqhRrOOa) | 2:46 | 2023-04-14 |  |
 | [Love on a Lonely Street](https://open.spotify.com/track/66GYfa8d7hZDXhzEaIG3Ct) | [Clifford Randall](https://open.spotify.com/artist/0IgcC8a3zHkwen1UvM0DkG) | [Love on a Lonely Street](https://open.spotify.com/album/3XdY17cROlAbonVCRJskmc) | 2:34 | 2023-05-25 |  |
 | [Love Theme](https://open.spotify.com/track/7BBqYC7h3qFjmZYQDmnTxi) | [Louie Martin](https://open.spotify.com/artist/6V322191Co4lw7MgeQdcHu) | [Love Theme](https://open.spotify.com/album/1X5HJijS1ImWbwfMA2rE6a) | 3:42 | 2022-08-11 |  |
+| [Love's Journey](https://open.spotify.com/track/1iTgYDHG7NvHmPr7uBegFL) | [Harry Reed](https://open.spotify.com/artist/1PFJCooFyvogVUkv1abGgu) | [Love's Journey](https://open.spotify.com/album/4NKmB7swj6Fsg2xF2QIE1h) | 2:22 | 2023-11-24 |  |
 | [Lovely Day](https://open.spotify.com/track/7iZkVyfWkb1AzUwlNUyp3u) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Lovely Day](https://open.spotify.com/album/2AXd3f8LGtKWHQGcvIeoQK) | 3:25 | 2022-09-29 |  |
 | [Lovely Dinner](https://open.spotify.com/track/16gVqGtZqBaWI4PYZg04vx) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Breath of Whiskey](https://open.spotify.com/album/2mdwIIjzYqAW10F2eHk7s9) | 2:56 | 2023-08-11 |  |
 | [Lover Man](https://open.spotify.com/track/23Q0MMsuaZkngkmx8CEEQl) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lover Man](https://open.spotify.com/album/4vT3k8HlxyiOlTEHde8Unz) | 3:28 | 2021-12-14 | 2022-08-12 |
@@ -259,7 +261,7 @@
 | [Midnight City Lights](https://open.spotify.com/track/3JFk3pN15IteQgQ4nUdib6) | [Kyrie Barnes](https://open.spotify.com/artist/2h0vYX95bmDrALzCLg3Qn6) | [Midnight City Lights](https://open.spotify.com/album/2X7qsOAIRO17i3NIetHmwy) | 2:17 | 2023-08-11 |  |
 | [Misty](https://open.spotify.com/track/4Q7xH2yDR5grUNWulnE8U9) | [Melvin Brooke](https://open.spotify.com/artist/6xsdPHexcY4NhLtZ7colcq) | [Misty](https://open.spotify.com/album/6mSvYvkESutbofwdQ59pM3) | 2:44 | 2023-01-19 |  |
 | [Misty](https://open.spotify.com/track/0fGNaE47Hx1SO8kEKtkGxb) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [Misty](https://open.spotify.com/album/3zOiXs8f5OfRasBgZ7VNcJ) | 2:13 | 2022-01-13 | 2023-01-20 |
-| [Moon River](https://open.spotify.com/track/56HXBWNHzMHHpY2ye7BnWU) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Songs](https://open.spotify.com/album/5O6H1Ig47a51pxpxLyMc2v) | 5:53 | 2021-12-14 |  |
+| [Moon River](https://open.spotify.com/track/56HXBWNHzMHHpY2ye7BnWU) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Songs](https://open.spotify.com/album/5O6H1Ig47a51pxpxLyMc2v) | 5:53 | 2021-12-14 | 2023-11-24 |
 | [Moonlight In Vermont](https://open.spotify.com/track/5opHsxh5NPey4qGcPmDTW6) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [Moonlight In Vermont](https://open.spotify.com/album/5NFah3XIdK3KkaAFblamOk) | 2:58 | 2023-06-15 |  |
 | [Moonlight In Vermont](https://open.spotify.com/track/6itam0ElHeMmal7zEFVn63) | [Charles Fleet](https://open.spotify.com/artist/4sOz9QAfMYqxuuegrF4W8l) | [Moonlight In Vermont](https://open.spotify.com/album/2rFUw8QOtXqyHf9c8LlUF4) | 4:27 | 2022-03-10 | 2022-06-30 |
 | [Moonlight Over Manhattan](https://open.spotify.com/track/1d6SiPIjnEc0Q7H8vHIetM) | [Claire Martinelle](https://open.spotify.com/artist/4cregPQpQ72XMMVzvvyiEl) | [Moonlight Over Manhattan](https://open.spotify.com/album/1EeXlyJEGwucXGlmivU95U) | 3:07 | 2023-10-13 |  |
@@ -294,6 +296,7 @@
 | [Old Devil Moon](https://open.spotify.com/track/4XCMZFYHKBq5Tyt2MUKtDZ) | [Cheryl Patterson](https://open.spotify.com/artist/5ieZXxVzN0lLVFMMUMQrQj) | [Old Devil Moon](https://open.spotify.com/album/6SfGQphn7E3nOTjlipaA2o) | 2:50 | 2022-03-10 | 2022-06-30 |
 | [Old Folks](https://open.spotify.com/track/14BLMhpVsywOPvT7zOaFu5) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Old Folks](https://open.spotify.com/album/3JCK1yX5Znu54wJTl2lbs0) | 4:20 | 2021-12-14 | 2022-12-02 |
 | [Old Memories](https://open.spotify.com/track/014RmdPtVLhsjML1WkskCi) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [Old Memories](https://open.spotify.com/album/40VeupKnBHgPNTEs3SRhMM) | 3:20 | 2022-08-11 |  |
+| [Old\-as\-life story](https://open.spotify.com/track/2ii2YrGhiSHuXNXdfNhX6U) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [Old\-as\-life story](https://open.spotify.com/album/24GlDGQWGZO00lIQF9EA5X) | 2:11 | 2023-11-24 |  |
 | [On A Clear Day](https://open.spotify.com/track/2rIuYJ81BdL5pukyDjhxj7) | [Francis Graden](https://open.spotify.com/artist/2oImW6t3VIxRmM8DdwEH4w) | [On A Clear Day](https://open.spotify.com/album/5tc4yM14HsMvbLUErYQ4MH) | 3:16 | 2022-04-01 |  |
 | [On a Slow Boat to China](https://open.spotify.com/track/5n9PdWYQcdMVS7XpySQuFx) | [Henriette Martin](https://open.spotify.com/artist/2BFYg3poUj1QT1EE8Z8NVS) | [On a Slow Boat to China](https://open.spotify.com/album/5FUtwTa3a5E42ciM1e8Tcw) | 3:22 | 2023-06-01 |  |
 | [On The Street Where You Live](https://open.spotify.com/track/1dgYQO1Hui0E6lGe3F1hDw) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [On The Street Where You Live](https://open.spotify.com/album/5UvGpwpS3tYpZHbiQlonNp) | 3:51 | 2022-05-18 |  |
@@ -442,6 +445,7 @@
 | [Without A Song](https://open.spotify.com/track/2KxXG6EIywCiYcQuJa8Xwp) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Without A Song](https://open.spotify.com/album/55vOtTdjD34L98MWwl57oU) | 4:20 | 2022-06-14 |  |
 | [Witness of Love](https://open.spotify.com/track/0sX45CnQ5ugC1yUzfiKCSB) | [Michael Stylez](https://open.spotify.com/artist/0pW8YnlmlVXiGBfDH3v8j7) | [Witness of Love](https://open.spotify.com/album/5vfklJRWFT9stLnbAh911T) | 1:56 | 2022-11-10 | 2023-09-16 |
 | [Yesterdays](https://open.spotify.com/track/6o5QXX3jRdzZRSS2WLYTWZ) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [Yesterdays](https://open.spotify.com/album/1v5RhDJlT3IAAx0qXVzzzr) | 2:37 | 2023-06-08 |  |
+| [You and I](https://open.spotify.com/track/3QF1JAkRF11UY4k64dtQUD) | [Mason Olsen](https://open.spotify.com/artist/6wYWUf5SSJPtK0XAOjPgET) | [You and I](https://open.spotify.com/album/6Iq2usdsUcLgrTBd2cDdOW) | 2:35 | 2023-11-24 |  |
 | [You Are Too Beautiful](https://open.spotify.com/track/4t85eFNgqV0nqtImOix3X5) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [You Are Too Beautiful](https://open.spotify.com/album/2uG5Jnbvge8kWBxar1TTad) | 3:32 | 2021-12-14 |  |
 | [You can handle it](https://open.spotify.com/track/26iIjzdLwmSFyXNv75DR0e) | [Winola Weber](https://open.spotify.com/artist/0KfXDCKVMe0yr65RVDFZoL) | [You can handle it](https://open.spotify.com/album/3DH1zOPlkITnfkZ0cLRUIk) | 2:31 | 2023-05-04 |  |
 | [You Could Stay If You Want To](https://open.spotify.com/track/7161s2i9EU8DN8U95qLl8q) | [Zachary Ronin](https://open.spotify.com/artist/47ZLS2xH70Buh5bgghBDLx) | [You Could Stay If You Want To](https://open.spotify.com/album/028nyeG5bPwDuBA8apckk9) | 3:18 | 2023-02-16 |  |

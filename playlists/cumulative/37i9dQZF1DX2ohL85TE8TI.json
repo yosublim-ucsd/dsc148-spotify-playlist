@@ -5571,6 +5571,24 @@
     },
     {
       "album": {
+        "name": "In The Head",
+        "url": "https://open.spotify.com/album/2RYq64m37uOKmmeEL5uF3g"
+      },
+      "artists": [
+        {
+          "name": "Kai",
+          "url": "https://open.spotify.com/artist/5zCtihKT8IsDqVS5WBbqHD"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368681,
+      "name": "In The Head",
+      "url": "https://open.spotify.com/track/7n8CUH5iMozYbk1v9NYH2C"
+    },
+    {
+      "album": {
         "name": "The Heavenly Idol (Original Television Soundtrack), Pt.2",
         "url": "https://open.spotify.com/album/6i5T66U2aGVlOzauitF6MB"
       },
@@ -11468,6 +11486,24 @@
       "duration_ms": 255991,
       "name": "The Season of You",
       "url": "https://open.spotify.com/track/2WSh9UDMZbUSI2sdekVaTW"
+    },
+    {
+      "album": {
+        "name": "The Secret Between Us (from \"A Good Day to be a Dog\" Original Television Sountrack, Pt. 3)",
+        "url": "https://open.spotify.com/album/2tBpgbdd4eCcmHm5I0ormj"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192200,
+      "name": "The Secret Between Us",
+      "url": "https://open.spotify.com/track/5JWY6YpiWNxlyH5zI6KNcY"
     },
     {
       "album": {

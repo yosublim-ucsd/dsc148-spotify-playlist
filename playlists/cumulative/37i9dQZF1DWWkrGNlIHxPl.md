@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Majid Jordan
 
-314 songs - 17 hr 38 min
+315 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Flip It](https://open.spotify.com/track/0J2rCP89iP2AZYfJNGp26E) | [Zach Matari](https://open.spotify.com/artist/4HpDofv5tUMQrHzYX452rK) | [Flip It](https://open.spotify.com/album/0qRIZfXNGpKJJMxWiFzJVl) | 1:56 | 2021-12-16 | 2023-02-07 |
 | [Focus](https://open.spotify.com/track/5N5d9Lh1HFFpCaM9Q3H5I7) | [Moh Flow](https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p) | [Focus](https://open.spotify.com/album/2ErzJU2rw2Ytv6EWskE4Ps) | 2:44 | 2023-03-16 | 2023-04-12 |
 | [Follow Me Into The Dark](https://open.spotify.com/track/2aQXnLW2uQwZeRDUR23VTU) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Last Call For Coco](https://open.spotify.com/album/1dpef92yGV81tOPHCzFWeU) | 4:09 | 2021-12-16 | 2022-12-08 |
+| [Freedom](https://open.spotify.com/track/2mJi2pmOR0M184tKgIcAOx) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F), [MMKN](https://open.spotify.com/artist/7va2OJ5yHhDGZfBFVyBD7v) | [Freedom](https://open.spotify.com/album/3Gs2YQWFPGkgxYMiwU3UhM) | 1:36 | 2023-11-23 |  |
 | [Freestyle \#1](https://open.spotify.com/track/3PqCDTA5l72UmTDmTXpely) | [Dhalma](https://open.spotify.com/artist/5nBnuz27wNFubJjmRTRNPC) | [Freestyle \#1](https://open.spotify.com/album/3Sri5bHFhK6jQWQI5pyCzq) | 2:55 | 2022-02-08 | 2022-12-08 |
 | [From Gaza, With Love](https://open.spotify.com/track/3TzuOUqhDIS7gkKS4oy37V) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [From Gaza, With Love](https://open.spotify.com/album/11w9tokUs0UblHxAGtvND2) | 1:59 | 2023-05-12 |  |
 | [From Gaza, With Love](https://open.spotify.com/track/49AG4MU3Ij6a8NWEVLMuRu) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [From Gaza, With Love](https://open.spotify.com/album/5bah1OVDvcvn92BMkgOO6o) | 1:59 | 2023-03-07 | 2023-05-17 |

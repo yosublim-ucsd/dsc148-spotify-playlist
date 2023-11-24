@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Natalie Jane
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,800 likes - 101 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,840 likes - 101 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 100 | [Stop Looking at Me Like That](https://open.spotify.com/track/5bwKZfXDiLIx5v3guwEIrU) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Stop Looking at Me Like That](https://open.spotify.com/album/22ok0HtUav7MN1otSm48Jw) | 2:15 |
 | 101 | [ghost](https://open.spotify.com/track/7kWQzBQbF7xcEIZfhtEzQI) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [ghost](https://open.spotify.com/album/4yTF5wykVgWLVY1zaS677Y) | 2:09 |
 
-Snapshot ID: `MCw5OGE3ODhlNmMwMjdiODk2ZmY1MzZmYTVlYzMyMzdjNTljYTk1ZDQy`
+Snapshot ID: `MCxkMTZlMDU4NjdjZDg2NGVmZTU3MGE5NGNmOWJlNjdhMDljNDIwODdj`

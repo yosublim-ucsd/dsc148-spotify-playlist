@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > new gems by artists carving their own lane\. cover: Peggy Gou, Lenny Kravitz
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,475 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,499 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Open](https://open.spotify.com/track/1N3GP64durAzTxsSELqX9i) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t) | [OPEN](https://open.spotify.com/album/6WgmYQIOJGVs6OKYHCu0wc) | 3:09 |
 | 100 | [how far will you go](https://open.spotify.com/track/7BBX8agn6l3GlJWCecoLi2) | [GOVI](https://open.spotify.com/artist/12qE4Gh9Ee2jAooVkZLq62) | [how far will you go](https://open.spotify.com/album/5APyne5EPcLxhAVEm95BK7) | 3:38 |
 
-Snapshot ID: `MCwxY2U2YmNjYjFlZmE0OWNlNjM5ZWEyM2YyNjg1NTIzMTc4OGFiYzUx`
+Snapshot ID: `MCxlYzljNzUyNjQzNDllNmQwNTJmN2U5NTVlZjUwODY2ZGY3NjVhYTgy`

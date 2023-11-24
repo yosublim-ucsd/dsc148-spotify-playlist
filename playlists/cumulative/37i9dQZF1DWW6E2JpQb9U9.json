@@ -1862,7 +1862,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 289804,
       "name": "Ella Vendr\u00e1",
       "url": "https://open.spotify.com/track/6kz39g8jRUQlnOpCZG5LpU"
@@ -3698,6 +3698,24 @@
       "duration_ms": 243906,
       "name": "Panorama - En Vivo en el Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/0GT0Cd39K5Rvbar6QNHRu1"
+    },
+    {
+      "album": {
+        "name": "Pantalla Del Mundo Nuevo (En Vivo En B.A.Rock)",
+        "url": "https://open.spotify.com/album/6vt2QGdahU0tGtmXHqIv56"
+      },
+      "artists": [
+        {
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3IyuxBX0pwXqbeFI4DWmhG"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410746,
+      "name": "Pantalla Del Mundo Nuevo",
+      "url": "https://open.spotify.com/track/4YbGxcfzDt4vDFUA3RcB5M"
     },
     {
       "album": {

@@ -3104,7 +3104,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 181283,
       "name": "Low Waist",
       "url": "https://open.spotify.com/track/5rb99A8aR2scVXSLIbLAft"
@@ -4366,6 +4366,28 @@
       "duration_ms": 171707,
       "name": "SLIDE",
       "url": "https://open.spotify.com/track/7F2bNsonWlmzRe70RoAWhb"
+    },
+    {
+      "album": {
+        "name": "SNAPCHAT",
+        "url": "https://open.spotify.com/album/2u3ssIBPv4Gii5gpfNm0Wd"
+      },
+      "artists": [
+        {
+          "name": "Chrystel",
+          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185033,
+      "name": "SNAPCHAT",
+      "url": "https://open.spotify.com/track/5kp1hRoHrNokFflgzjzrGl"
     },
     {
       "album": {

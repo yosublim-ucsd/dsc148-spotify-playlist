@@ -4,7 +4,7 @@
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Serenad Bayraktar
 
-498 songs - 1 day 4 hr 32 min
+499 songs - 1 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Sakarmeke](https://open.spotify.com/track/7Mz4xJZOUhn39QKhdV7xLA) | [Bade Nosa](https://open.spotify.com/artist/1HBN8wkDHbw1cp8EX4CFpX) | [Sakarmeke](https://open.spotify.com/album/0HHLLFIOunNN7Yj9e5egIk) | 4:41 | 2023-04-11 | 2023-05-10 |
 | [Sakla](https://open.spotify.com/track/2vaww66IDso9IjNIorOZyv) | [Son Uçurtma](https://open.spotify.com/artist/72Uq2TTPB22Q2WNssGfrdg) | [Sakla](https://open.spotify.com/album/0vnXc6ORZ1RSJmq9oNcFIj) | 3:04 | 2022-02-04 | 2023-01-11 |
 | [Sal](https://open.spotify.com/track/5mrXaiRcf5vsI397tKOxGU) | [Mertkan Erkan](https://open.spotify.com/artist/13lsQbnSpalOoAq3AbDwec) | [Sal](https://open.spotify.com/album/6X9cC8mWJCXW6zk0ZJde5d) | 2:32 | 2023-05-16 |  |
+| [SALIYORUM KENDIMI](https://open.spotify.com/track/3NGjTQadGoMOCP49wATzbA) | [orkun ali](https://open.spotify.com/artist/12J81Ckps37g45ExMM58pz) | [SALIYORUM KENDIMI](https://open.spotify.com/album/0oPOUsC27ibrQdZYT1mEnP) | 3:06 | 2023-11-21 |  |
 | [Sana Göre](https://open.spotify.com/track/11yEWWSaG1aBtujuxMrbIm) | [Yeri Yok](https://open.spotify.com/artist/5veJ9jbFRpoMMQ1aHVisen) | [Sana Göre](https://open.spotify.com/album/07BjCVv5cq7U0npxs6yZ3q) | 2:58 | 2021-12-03 | 2022-01-20 |
 | [Sana Kıyamam](https://open.spotify.com/track/0GZyOk5g6uRKObzxDYrLpH) | [Tunç Aydoğmuş, Co.](https://open.spotify.com/artist/4WSDsWARENCdh6lkJDwdYL) | [Sana Kıyamam](https://open.spotify.com/album/6Gkorg58Aix0whjgBNimvM) | 3:30 | 2023-06-20 |  |
 | [Sana Çıkar Her Yol](https://open.spotify.com/track/23WGxgIxdJppOc67XBXeln) | [Doğan Cem](https://open.spotify.com/artist/0jhlEav8z1aMytlAkk8N9x) | [Sana Çıkar Her Yol](https://open.spotify.com/album/5ur9qbQKNbgBkNKwSVYXrn) | 2:40 | 2022-04-21 | 2023-01-11 |

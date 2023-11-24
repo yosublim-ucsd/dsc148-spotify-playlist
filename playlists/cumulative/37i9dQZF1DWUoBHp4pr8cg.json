@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Only the hottest Hip Hop from Shane Eagle (pictured), Offset, Drake, and more...",
+  "description": "Only the hottest Hip Hop from  (pictured), Offset, Drake, and more...",
   "name": "Hip Hop Circle",
   "tracks": [
     {
@@ -2066,6 +2066,28 @@
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
+    },
+    {
+      "album": {
+        "name": "I Ain't Got The Answers",
+        "url": "https://open.spotify.com/album/7FvIp2G42YVskYHRbvoWBy"
+      },
+      "artists": [
+        {
+          "name": "Priddy Ugly",
+          "url": "https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz"
+        },
+        {
+          "name": "Ginger Trill",
+          "url": "https://open.spotify.com/artist/6RBOLfqkI4jKZxRw2X89rI"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260129,
+      "name": "I Aint Got The Answers",
+      "url": "https://open.spotify.com/track/4JrBckJi6ntTg2883PLOFD"
     },
     {
       "album": {

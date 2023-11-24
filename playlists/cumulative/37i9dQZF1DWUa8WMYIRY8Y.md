@@ -2,9 +2,9 @@
 
 ### [Hot Alternative](https://open.spotify.com/playlist/37i9dQZF1DWUa8WMYIRY8Y)
 
-> Les meilleurs morceaux alternatifs du moment\. Photo : Gossip
+> Les meilleurs morceaux alternatifs du moment\. Photo : Paramore
 
-83 songs - 5 hr 11 min
+86 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Heartbreak Kid](https://open.spotify.com/track/52J6YtU7jLcoBKShJxMITp) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Heartbreak Kid](https://open.spotify.com/album/6iDURKweXeDCpXnIXcTchM) | 3:00 | 2023-09-28 | 2023-11-03 |
 | [Heaven \- feat\. Damon Albarn](https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 5:22 | 2023-10-19 | 2023-11-17 |
 | [Hello](https://open.spotify.com/track/0AvmYTwL16E2CAqCrXP0dW) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Hello](https://open.spotify.com/album/2dVvbYd3dfLWqDhFDLRK5S) | 3:16 | 2023-10-19 |  |
-| [Her Father and Her](https://open.spotify.com/track/2qZKtduc9kHdWz4Uwp9csE) | [Ben Kweller](https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn) | [Her Father and Her](https://open.spotify.com/album/0GdBjd1DWArDPXvzzNTb4q) | 3:13 | 2023-11-09 |  |
+| [Her Father and Her](https://open.spotify.com/track/2qZKtduc9kHdWz4Uwp9csE) | [Ben Kweller](https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn) | [Her Father and Her](https://open.spotify.com/album/0GdBjd1DWArDPXvzzNTb4q) | 3:13 | 2023-11-09 | 2023-11-24 |
 | [I COULDN'T CARE](https://open.spotify.com/track/0ikSWphMqweqLxsGa0cLjs) | [SHADESOFBLUE](https://open.spotify.com/artist/3e6Ols9XnX8XpR1dDFsRt6) | [I Couldn't Care](https://open.spotify.com/album/416pePvAcGPEqundwgHGtG) | 4:19 | 2023-09-28 |  |
 | [I Want To Be Your Only Pet](https://open.spotify.com/track/1J5JzMOAuxoiGYI3Irn2St) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Want To Be Your Only Pet](https://open.spotify.com/album/5JN324RyeAPDTbRDkn5KRW) | 3:34 | 2023-09-28 | 2023-10-13 |
 | [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:52 | 2023-10-26 |  |
@@ -62,10 +62,12 @@
 | [Riptide \(feat\. The Haunted Youth\)](https://open.spotify.com/track/0qLerBz0rNYKARVqBTzLLX) | [King Viktor](https://open.spotify.com/artist/4O8MbCzsOScPb5KzkE1bdI), [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Riptide \(feat\. The Haunted Youth\)](https://open.spotify.com/album/5ooh3g7uYQIFXJCPuV7ff9) | 3:44 | 2023-09-28 | 2023-10-20 |
 | [Run Away With Me](https://open.spotify.com/track/2DUt3aAwcVeeHwcQPjFqLH) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Run Away With Me](https://open.spotify.com/album/17HtJeuxy9kO8agW21ua9I) | 3:12 | 2023-09-28 |  |
 | [Run Run Run](https://open.spotify.com/track/08SkuBh4lrdQTthEc3J1kN) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Run Run Run](https://open.spotify.com/album/6hV5hdmEp1eMTTBeeAiC0K) | 2:53 | 2023-10-12 |  |
+| [Sadie Hawkins Prom](https://open.spotify.com/track/4pcACeh4E6y7UraJbukR5h) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Sadie Hawkins Prom](https://open.spotify.com/album/4wzK5q2gMTURbtmG7mnK0g) | 2:14 | 2023-11-23 |  |
 | [Satanist](https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:50 | 2023-09-28 |  |
 | [Screaming In The Rain Again](https://open.spotify.com/track/0jsh4swhkkj6L4MAnwGWqS) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Screaming In The Rain Again](https://open.spotify.com/album/3jpkNQcDMg94XMxtj4Lk3m) | 3:07 | 2023-09-28 | 2023-10-20 |
 | [Shelter \- Edit](https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Shelter](https://open.spotify.com/album/50xN7YSNYBK1qwRb0pfldN) | 4:26 | 2023-09-28 |  |
 | [Shower Beer](https://open.spotify.com/track/6Kf0pq9FXBBwMkrgEKDT6S) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 3:11 | 2023-09-28 |  |
+| [Silence & Hyperacusis](https://open.spotify.com/track/4L2WqqRjDNJjdTBHnYJryF) | [Exsonvaldes](https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb) | [Maps](https://open.spotify.com/album/3ndQsXHZ7Di5Lq6XDA0mKK) | 3:10 | 2023-11-23 |  |
 | [Skipping Like A Stone \(feat\. Beck\)](https://open.spotify.com/track/7JpclywOpe1Vthr9TPdkj2) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Skipping Like A Stone \(feat\. Beck\)](https://open.spotify.com/album/7nWojjbfKGtHyYeA8vsBXa) | 4:43 | 2023-09-28 |  |
 | [Slipping Away](https://open.spotify.com/track/26u2W9VmoNNDqZMceqrBDs) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Slipping Away](https://open.spotify.com/album/3v2BiLetLp1wWT6lGceWiK) | 3:09 | 2023-10-19 |  |
 | [Sometimes, I Swear](https://open.spotify.com/track/0koN5ovIrxSXrO7QJXQB4Y) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Sometimes, I Swear](https://open.spotify.com/album/64PIFHc0VXzd9sbkbSJfeU) | 3:38 | 2023-11-02 |  |
@@ -77,14 +79,15 @@
 | [Sunday Afternoon](https://open.spotify.com/track/24s5j6ewZVXK460jEVI1h1) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Sunday Afternoon](https://open.spotify.com/album/4rDjI4hbV4w4KLsi7JoMjH) | 4:28 | 2023-11-02 |  |
 | [Sure Enough](https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Sure Enough](https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u) | 2:51 | 2023-09-28 |  |
 | [Sweat](https://open.spotify.com/track/7HwP0lytsnQo4MKdqfVQt2) | [JAWS](https://open.spotify.com/artist/3E3NOIlw2s1ZPU9GRB9jaq) | [Sweat](https://open.spotify.com/album/7BXae87zZyq9Y1nDcHDJjU) | 3:46 | 2023-09-28 | 2023-11-10 |
+| [Talk of the Town](https://open.spotify.com/track/2VmJfurwgQbLO6Gt8uVErO) | [Shed Seven](https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs) | [Talk of the Town](https://open.spotify.com/album/4ev0SQNpjF9nPoB0bkXt8o) | 4:26 | 2023-11-23 |  |
 | [Tethered](https://open.spotify.com/track/0ZRnv9lXrT1kthOFt0llwy) | [Deux Visages](https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR) | [Tethered](https://open.spotify.com/album/2MOOICbNuggNtJU2OZWaA4) | 3:48 | 2023-10-12 |  |
 | [That's Where She Belongs](https://open.spotify.com/track/0sjy1rpDldZ78jofEJqDFa) | [The Coral](https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt) | [That's Where She Belongs](https://open.spotify.com/album/0Sx69EtDhgXRyGD9UPmyLw) | 3:24 | 2023-09-28 | 2023-10-20 |
 | [The Answer](https://open.spotify.com/track/5JEum2oRsF53xQ1YnXaRlY) | [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [Spirit Power: The Best of Johnny Marr](https://open.spotify.com/album/6XXVPKKJmeABsod3Dz9YNU) | 3:29 | 2023-11-02 | 2023-11-17 |
 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 | 2023-09-28 |  |
 | [The Tower](https://open.spotify.com/track/09eApSzdPkFadMVJ8LlA3D) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [The Tower](https://open.spotify.com/album/47RludCGdkS9Um7g0emMUD) | 3:36 | 2023-10-26 |  |
 | [Time Of Your Life](https://open.spotify.com/track/3MANuRQlw4dMMENY8gzcYl) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Time Of Your Life](https://open.spotify.com/album/7o2pbWYW58zhZiSHi6op6b) | 3:07 | 2023-10-19 |  |
-| [Unwanted](https://open.spotify.com/track/4rB5KgmlQ1Zr2qbxh8VRuR) | [Waves](https://open.spotify.com/artist/6OAt6nE577DixeDhfNFVkH) | [Unwanted](https://open.spotify.com/album/5sl41tm6B1uqOx7PB0sAas) | 3:47 | 2023-11-02 |  |
-| [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 | 2023-11-16 |  |
+| [Unwanted](https://open.spotify.com/track/4rB5KgmlQ1Zr2qbxh8VRuR) | [Waves](https://open.spotify.com/artist/6OAt6nE577DixeDhfNFVkH) | [Unwanted](https://open.spotify.com/album/5sl41tm6B1uqOx7PB0sAas) | 3:47 | 2023-11-02 | 2023-11-24 |
+| [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 | 2023-11-16 | 2023-11-24 |
 | [Wasterpiece](https://open.spotify.com/track/0SxY0AzOnS96W8qAvD2dAc) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [Wasterpiece](https://open.spotify.com/album/1OgkglNXgSMZsMzSlDjOAg) | 3:11 | 2023-10-26 |  |
 | [Watercooler](https://open.spotify.com/track/1CLHh77zFhvmgbOG27JyRR) | [Grandaddy](https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk) | [Watercooler](https://open.spotify.com/album/4Y9ZaRX2aRN1JSKOxj7zcc) | 4:26 | 2023-11-02 |  |
 | [Who Would You Be For Me](https://open.spotify.com/track/10QMwOs8ichrT1LIzDnlXD) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Who Would You Be For Me](https://open.spotify.com/album/1PedVMTwt52VHigoA1eqac) | 5:01 | 2023-09-28 |  |

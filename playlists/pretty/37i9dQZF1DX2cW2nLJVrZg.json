@@ -1,12 +1,12 @@
 {
   "description": "Nominees \u2014 and past winners \u2014 from the 95th annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 264823,
+  "num_followers": 264815,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWQzOTgzMTg1Zjk4NGY2OGZmNzc5M2U1NmM5NWNmMTYzYjJiMDMx",
+  "snapshot_id": "MCxhOGZkNjBiMjM3ZDA3MDc3Yzc3NDc2ZmI2MTk0M2Q4ZDFmYzlmNGQ0",
   "tracks": [
     {
       "added_at": "2023-03-13 02:59:21",
@@ -731,26 +731,6 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
-        "name": "Rocketman (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/16iIPsnAjGZea8TeOCzeN8"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Taron Egerton",
-          "url": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
-        }
-      ],
-      "duration_ms": 250773,
-      "name": "(I'm Gonna) Love Me Again",
-      "url": "https://open.spotify.com/track/1q8lLOgfciaGLwXCvOpH6w"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
         "name": "Black Panther (Original Score)",
         "url": "https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 140125,
       "name": "Wakanda",
       "url": "https://open.spotify.com/track/2mjbf9ZvCoYqTi0RZ2FTUJ"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
+        "name": "Rocketman (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/16iIPsnAjGZea8TeOCzeN8"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Taron Egerton",
+          "url": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+        }
+      ],
+      "duration_ms": 250773,
+      "name": "(I'm Gonna) Love Me Again",
+      "url": "https://open.spotify.com/track/1q8lLOgfciaGLwXCvOpH6w"
     },
     {
       "added_at": "2023-03-13 02:59:21",

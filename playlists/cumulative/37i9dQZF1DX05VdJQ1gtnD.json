@@ -664,7 +664,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 158724,
       "name": "Belladonna",
       "url": "https://open.spotify.com/track/2gPEVwlP1aMuUtLKbZXARB"
@@ -878,6 +878,24 @@
       "duration_ms": 157164,
       "name": "Broken Sky",
       "url": "https://open.spotify.com/track/6AIGjxyH4CnUfBXR8LHn0n"
+    },
+    {
+      "album": {
+        "name": "Brooke's Path",
+        "url": "https://open.spotify.com/album/05aFINCNicADeoVTXnMpRh"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Hugh",
+          "url": "https://open.spotify.com/artist/0N9JbcwE2w3f9Qn6M6F3UP"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184343,
+      "name": "Brooke's Path",
+      "url": "https://open.spotify.com/track/6IrsZTFv2PMsRbYLhtpBur"
     },
     {
       "album": {
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 157865,
       "name": "Covered Bridge",
       "url": "https://open.spotify.com/track/5MWuwiaU3fMOuMWfsV3FIz"
@@ -1778,7 +1796,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 233044,
       "name": "Floating Away",
       "url": "https://open.spotify.com/track/5VuYhcVrtRuD32izXcqG0B"
@@ -2744,6 +2762,24 @@
       "duration_ms": 162307,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/527HRQnZDhhXM4fWV3iTga"
+    },
+    {
+      "album": {
+        "name": "Lingering Thoughts",
+        "url": "https://open.spotify.com/album/2D9nlP0XvJVp8TkA9VMqCk"
+      },
+      "artists": [
+        {
+          "name": "Graham Matheson",
+          "url": "https://open.spotify.com/artist/6ueD2UQZleDy48zMyvmt4e"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Lingering Thoughts",
+      "url": "https://open.spotify.com/track/1K6EHDgY0pA4Pz8VUzKF26"
     },
     {
       "album": {
@@ -4581,6 +4617,24 @@
     },
     {
       "album": {
+        "name": "Wetterstein",
+        "url": "https://open.spotify.com/album/0u5TdFB5G2JI6BR5bQQIs5"
+      },
+      "artists": [
+        {
+          "name": "Michael Reiss",
+          "url": "https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248267,
+      "name": "Wetterstein",
+      "url": "https://open.spotify.com/track/6WfdfnyXB4XRHPtdYUtMZw"
+    },
+    {
+      "album": {
         "name": "Somewhere Ahead",
         "url": "https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT"
       },
@@ -4862,7 +4916,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 230452,
       "name": "Zauberblume",
       "url": "https://open.spotify.com/track/0FwDRIMPR7TRC0FQwd7yRQ"

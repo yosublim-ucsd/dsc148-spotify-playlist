@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "A Thought Of You",
+        "url": "https://open.spotify.com/album/0HVBnMRkRn2xnpQ4CLph4z"
+      },
+      "artists": [
+        {
+          "name": "Millie Blue",
+          "url": "https://open.spotify.com/artist/3Z6Jby1DnvCKJMkHjrwg5P"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148872,
+      "name": "A Thought Of You",
+      "url": "https://open.spotify.com/track/2RtX44bwJapdvlQ4BaxyJr"
+    },
+    {
+      "album": {
         "name": "A Time for Love",
         "url": "https://open.spotify.com/album/6Ptv8G7l8cdlc9mvfa3rFw"
       },
@@ -4225,6 +4243,24 @@
     },
     {
       "album": {
+        "name": "Love's Journey",
+        "url": "https://open.spotify.com/album/4NKmB7swj6Fsg2xF2QIE1h"
+      },
+      "artists": [
+        {
+          "name": "Harry Reed",
+          "url": "https://open.spotify.com/artist/1PFJCooFyvogVUkv1abGgu"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Love's Journey",
+      "url": "https://open.spotify.com/track/1iTgYDHG7NvHmPr7uBegFL"
+    },
+    {
+      "album": {
         "name": "Lovely Day",
         "url": "https://open.spotify.com/album/2AXd3f8LGtKWHQGcvIeoQK"
       },
@@ -4542,7 +4578,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 353253,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/56HXBWNHzMHHpY2ye7BnWU"
@@ -5158,6 +5194,24 @@
       "duration_ms": 200678,
       "name": "Old Memories",
       "url": "https://open.spotify.com/track/014RmdPtVLhsjML1WkskCi"
+    },
+    {
+      "album": {
+        "name": "Old-as-life story",
+        "url": "https://open.spotify.com/album/24GlDGQWGZO00lIQF9EA5X"
+      },
+      "artists": [
+        {
+          "name": "Graydon Poole",
+          "url": "https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131555,
+      "name": "Old-as-life story",
+      "url": "https://open.spotify.com/track/2ii2YrGhiSHuXNXdfNhX6U"
     },
     {
       "album": {
@@ -7822,6 +7876,24 @@
       "duration_ms": 157744,
       "name": "Yesterdays",
       "url": "https://open.spotify.com/track/6o5QXX3jRdzZRSS2WLYTWZ"
+    },
+    {
+      "album": {
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/6Iq2usdsUcLgrTBd2cDdOW"
+      },
+      "artists": [
+        {
+          "name": "Mason Olsen",
+          "url": "https://open.spotify.com/artist/6wYWUf5SSJPtK0XAOjPgET"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155069,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/3QF1JAkRF11UY4k64dtQUD"
     },
     {
       "album": {

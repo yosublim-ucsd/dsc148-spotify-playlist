@@ -306,7 +306,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 220405,
       "name": "A.Y.A",
       "url": "https://open.spotify.com/track/69JDZpQd5oHd0BVUh0RDCO"
@@ -1104,6 +1104,24 @@
       "duration_ms": 254000,
       "name": "Beyond the Night",
       "url": "https://open.spotify.com/track/7i45z8apd5WcInB0Ks07NC"
+    },
+    {
+      "album": {
+        "name": "Bibi",
+        "url": "https://open.spotify.com/album/6RTHSt3mVGwyYlc2Q37vNl"
+      },
+      "artists": [
+        {
+          "name": "BAUKHA",
+          "url": "https://open.spotify.com/artist/7MIbS9ds7J2A9rLEaIYLRK"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274015,
+      "name": "Bibi",
+      "url": "https://open.spotify.com/track/2a0jla6CzHQSm5QAyj6aP2"
     },
     {
       "album": {
@@ -2352,6 +2370,24 @@
       "duration_ms": 192213,
       "name": "Dancing",
       "url": "https://open.spotify.com/track/4Aj3dm1ryaip9mVQRbJDXh"
+    },
+    {
+      "album": {
+        "name": "Mutual Mutation",
+        "url": "https://open.spotify.com/album/6Ooa3F2AlDmIdmMkOlewAr"
+      },
+      "artists": [
+        {
+          "name": "Ogawa & Tokoro",
+          "url": "https://open.spotify.com/artist/3RCGDZMRQdOn06awgfwNTA"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469736,
+      "name": "Dancing In The River",
+      "url": "https://open.spotify.com/track/77lbsUYxFbDhSKg4qtanax"
     },
     {
       "album": {
@@ -5639,6 +5675,24 @@
     },
     {
       "album": {
+        "name": "Tour of Japan",
+        "url": "https://open.spotify.com/album/7wGkxUU2BAHk6vPEypdUJ2"
+      },
+      "artists": [
+        {
+          "name": "\u6c11\u8b21\u30af\u30eb\u30bb\u30a4\u30c0\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/6y2mWIw5wZardbauKap0LI"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325026,
+      "name": "Kaigara Bushi",
+      "url": "https://open.spotify.com/track/1h3R8qQQg7XXxJXtXC2K1F"
+    },
+    {
+      "album": {
         "name": "Kaka feat. punipunidenki",
         "url": "https://open.spotify.com/album/6V4s8g2PPSNOBuNT8g517t"
       },
@@ -6354,7 +6408,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 187157,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu"
@@ -15692,7 +15746,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 189066,
       "name": "\u5149\u7dda",
       "url": "https://open.spotify.com/track/42DGm06re0rxSEOM0AhO6p"

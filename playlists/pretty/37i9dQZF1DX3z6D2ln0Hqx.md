@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z6D2ln0Hqx.md) - [plain]
 
 > For Motown, diversity and equality wasn’t just a goal, it was the key to success\. These women brought Motown into the hearts of many.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,109 likes - 22 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,132 likes - 22 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z6D2ln0Hqx.md) - [plain]
 | 21 | [Steelo](https://open.spotify.com/track/5OQO6NEs89flntUWPtXUiG) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [No Doubt](https://open.spotify.com/album/5Zm0jwZc5J4jWk9rLmABKO) | 4:17 |
 | 22 | [I Love Your Smile](https://open.spotify.com/track/2UX4NQt9AEGmwm3WlyOkhV) | [Shanice](https://open.spotify.com/artist/0Ttph0pOZiPNTD3y2wUUb6) | [Hitsville USA, The Motown Collection 1972\-1992](https://open.spotify.com/album/6nrCHETnE3ZWgwL0uYYWGP) | 4:23 |
 
-Snapshot ID: `MCxjZDZlMzVmNDlhODhhZDExZjVkMjE4MDdiOTFhNmQ2NjExOTcxY2M0`
+Snapshot ID: `MCw3ZWM5YzMyNGZmOTNmNjVmYzJmODQwODQxNDA1NmM0NWRkNmRiYjI3`

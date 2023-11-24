@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href=\"spotify:artist:24oVOFAARWAYUb1LaedbI0\">Icy Subzero</a>",
+  "description": "Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href=\"spotify:artist:5Sae4YeLcFZ1P75vhzUDrp\">piazzabologna</a>",
   "name": "RADAR Italia",
   "tracks": [
     {
@@ -378,6 +378,28 @@
       "duration_ms": 181530,
       "name": "Boss (io & te)",
       "url": "https://open.spotify.com/track/5lXDYzI9tKb6Vx6Wg1yq4a"
+    },
+    {
+      "album": {
+        "name": "Buchi ai lobi",
+        "url": "https://open.spotify.com/album/0yBYqUOcJsCNiYRvTv1E5p"
+      },
+      "artists": [
+        {
+          "name": "piazzabologna",
+          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
+        },
+        {
+          "name": "Gorbaciof",
+          "url": "https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146831,
+      "name": "Buchi ai lobi",
+      "url": "https://open.spotify.com/track/1EK9LRcQxtUiZUxXevX1nP"
     },
     {
       "album": {
@@ -2400,6 +2422,24 @@
       "duration_ms": 189696,
       "name": "TSO",
       "url": "https://open.spotify.com/track/361XEjtQol1QjvRNNKZisL"
+    },
+    {
+      "album": {
+        "name": "VENERE",
+        "url": "https://open.spotify.com/album/1xBryxKD1ss7DvPDrjD5ql"
+      },
+      "artists": [
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168095,
+      "name": "VENERE",
+      "url": "https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e"
     },
     {
       "album": {

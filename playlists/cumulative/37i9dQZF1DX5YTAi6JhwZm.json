@@ -833,6 +833,32 @@
     },
     {
       "album": {
+        "name": "Have A Talk With God",
+        "url": "https://open.spotify.com/album/5YWlUw8scbmkvdDQtfYXF3"
+      },
+      "artists": [
+        {
+          "name": "Henrik Gunde",
+          "url": "https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu"
+        },
+        {
+          "name": "Nicolas Kock",
+          "url": "https://open.spotify.com/artist/5hbQEMdQLyp3ncCcI62uPW"
+        },
+        {
+          "name": "Karsten Bagge",
+          "url": "https://open.spotify.com/artist/1eLFONDpKa9ArYaoVjDrKE"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269408,
+      "name": "Have A Talk With God",
+      "url": "https://open.spotify.com/track/0OATJVDdjUIkGnYnccnBEb"
+    },
+    {
+      "album": {
         "name": "H\u00e4ndelse",
         "url": "https://open.spotify.com/album/7qKzuLctXEwic4HiJMDMp4"
       },

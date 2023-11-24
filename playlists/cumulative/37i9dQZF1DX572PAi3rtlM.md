@@ -4,7 +4,7 @@
 
 > Italian funk, disco and jazz, recent and old\. Hand\-picked by actual Italians\. 🌙
 
-286 songs - 22 hr 28 min
+288 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Latin Class](https://open.spotify.com/track/2JzyM6FIS8M6hN5YwRndgk) | [Eamon Harkin](https://open.spotify.com/artist/2Vjxc2icvsiPPgzPz9nQQC) | [People Are All That We Have](https://open.spotify.com/album/05ymzuHJPM2fbhnExw0K4N) | 4:43 | 2021-09-01 | 2022-07-29 |
 | [Let's Break It Down](https://open.spotify.com/track/29HtjUMEeeAS0y2JdsXhO1) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Let's Break It Down](https://open.spotify.com/album/1rTS8SMvq0BXmgV3dk2rTL) | 3:10 | 2023-07-14 | 2023-09-08 |
 | [Let's Get Lost](https://open.spotify.com/track/0UZFhlhUMrYyzzyOHkylM3) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings And Plays \(Remastered 2004\)](https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc) | 3:43 | 2023-09-07 | 2023-10-02 |
+| [Libidine 8](https://open.spotify.com/track/3xiZ0cV7Q50inH4RDYHN4m) | [Nora Orlandi](https://open.spotify.com/artist/3p6nLdwfXNkENb2NplCvyv), [Stelvio Cipriani](https://open.spotify.com/artist/32GAlFg8ZU34WZLFjAUAGQ) | [Libidine \(Orginal Motion Picture Soundtrack\)](https://open.spotify.com/album/4FYs2SbGNF8Di9iAedjuml) | 4:23 | 2023-11-24 |  |
 | [Life Is Bitter & Sweet](https://open.spotify.com/track/3Sy9BBaXSxMHuMSdxlGlDv) | [Next Evidence](https://open.spotify.com/artist/54shj3FK8b7QjT9LpJwhTE), [Karl The Voice](https://open.spotify.com/artist/041ZObcTgCXaXtYikjQmE2) | [Takin' off EP](https://open.spotify.com/album/17GBPshe3FNurh05nw2mw3) | 6:59 | 2021-09-01 | 2022-07-24 |
 | [Like A Fool](https://open.spotify.com/track/511InmWye3UrDWkcE4SmT4) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/3zzkk0n26DWgqVuQkefg0J) | 5:05 | 2021-09-01 | 2022-07-29 |
 | [Like A Fool](https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4) | 5:05 | 2021-09-01 | 2023-09-08 |
@@ -143,6 +144,7 @@
 | [Look Up! \- Remastered](https://open.spotify.com/track/40FbUofNkwKnp74R0ohIZS) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Posh \(Remastered\)](https://open.spotify.com/album/45wverkThQijw67ZCPxuBP) | 3:42 | 2023-02-10 | 2023-07-04 |
 | [Love Endeavor \(Maurice Fulton Remix\) \- Mixed](https://open.spotify.com/track/0oGM4LIuCrXG5aYOAu6ANJ) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw), [Maurice Fulton](https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD) | [Weekends and Beginnings](https://open.spotify.com/album/4TyJKOcgM9gQlbzAGoOy3C) | 5:32 | 2021-09-01 | 2023-09-08 |
 | [Love To The World](https://open.spotify.com/track/7M4L1kiKMhtQZmpyO78DKd) | [L.T.D.](https://open.spotify.com/artist/0H4sfMNK9hoasHItAgD1kJ), [Jeffrey Osborne](https://open.spotify.com/artist/5qUHCOUsvVKUpVrMMmztMK) | [Love To The World](https://open.spotify.com/album/5WzRUGjYSwLljGPn6ceeg0) | 5:03 | 2021-09-01 | 2022-05-08 |
+| [Luna](https://open.spotify.com/track/68yWgMc6jmumSyayv3JHoP) | [D'Arabia](https://open.spotify.com/artist/1c9TqIKK8Ka0sUCqLz7Qa7) | [Luna](https://open.spotify.com/album/5sspKYPshLXmEoAu4RBNwi) | 3:26 | 2023-11-24 |  |
 | [Luna d'agosto \- Con clavicembalo](https://open.spotify.com/track/0zxmdstPI6OHRrplEvdm1C) | [Piero Umiliani](https://open.spotify.com/artist/5sD7Cf3SaTVcrg81GQi1Xk) | [5 Bambole per la luna d'agosto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25VaAxJjmoJUcHnwnG8vOF) | 2:36 | 2023-10-01 |  |
 | [Luna Lù](https://open.spotify.com/track/0vOSUXD0HooDmX1lZdc4xL) | [Antonio Sorrentino](https://open.spotify.com/artist/3bcYSJSQYuSKp5LoYD4VkM) | [Napoli Segreta Vol.2](https://open.spotify.com/album/4OFycCEd9tvzBSXGc3tVaG) | 4:33 | 2023-10-01 |  |
 | [Lunedì cinema](https://open.spotify.com/track/3Kcyw6bUYp2eNzzdCdDZ8n) | [Stadio](https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA) | [12000 lune](https://open.spotify.com/album/3S9Nwspq15hObe5Iegko5s) | 1:25 | 2023-10-01 |  |

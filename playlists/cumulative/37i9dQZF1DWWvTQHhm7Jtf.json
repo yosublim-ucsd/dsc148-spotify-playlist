@@ -932,7 +932,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 234320,
       "name": "Falaise",
       "url": "https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP"
@@ -1134,6 +1134,28 @@
       "duration_ms": 356520,
       "name": "Glass Chattering",
       "url": "https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0"
+    },
+    {
+      "album": {
+        "name": "Goo (Joseph Shabason Remix)",
+        "url": "https://open.spotify.com/album/1IuHXILpwXzjM5sm9LDElB"
+      },
+      "artists": [
+        {
+          "name": "Murmur",
+          "url": "https://open.spotify.com/artist/2XtXQPXn2iPxMm1zyJNlYb"
+        },
+        {
+          "name": "Joseph Shabason",
+          "url": "https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Goo - Joseph Shabason Remix",
+      "url": "https://open.spotify.com/track/5uLvP7lZsXe62sg03Ly2s1"
     },
     {
       "album": {
@@ -2269,6 +2291,24 @@
     },
     {
       "album": {
+        "name": "New Blue Sun",
+        "url": "https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 629853,
+      "name": "That Night In Hawaii When I Turned Into A Panther And Started Making These Low Register Purring Tones That I Couldn't Control ... Sh\u00a5t Was Wild",
+      "url": "https://open.spotify.com/track/7763zdQtsUXNRKMDbahyK5"
+    },
+    {
+      "album": {
         "name": "The Blue of Distance",
         "url": "https://open.spotify.com/album/0l75LSipQXsxxlOAKvI3iW"
       },
@@ -2388,7 +2428,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 254553,
       "name": "The Protester",
       "url": "https://open.spotify.com/track/49HmzyrPC2NBDNFHLDOCqy"

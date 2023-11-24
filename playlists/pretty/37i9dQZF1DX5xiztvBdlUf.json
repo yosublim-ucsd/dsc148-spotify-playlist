@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 608045,
+  "num_followers": 608186,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGMzOGU0MzQzMzRhMDVlNDNkODc3YWJmOGI3YjliZDM3YzU0ZDli",
+  "snapshot_id": "MCxkZTk0ZTVjYjk2YWI0MWQ3YTAzYmYwMGQ4ZDA4Njk1MmNhYTY5YTJh",
   "tracks": [
     {
       "added_at": "2023-11-14 11:01:57",
@@ -55,6 +55,26 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "Milkshake 20 (Alex Wann Remix)",
+        "url": "https://open.spotify.com/album/6x2zv2rhiwUYECd681EisA"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        },
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        }
+      ],
+      "duration_ms": 176949,
+      "name": "Milkshake 20 (Alex Wann Remix)",
+      "url": "https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "Your Voice (Adam Port Remix)",
         "url": "https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da"
       },
@@ -75,26 +95,6 @@
       "duration_ms": 260655,
       "name": "Your Voice - Adam Port Remix",
       "url": "https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
-        "name": "Milkshake 20 (Alex Wann Remix)",
-        "url": "https://open.spotify.com/album/6x2zv2rhiwUYECd681EisA"
-      },
-      "artists": [
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
-        },
-        {
-          "name": "Alex Wann",
-          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
-        }
-      ],
-      "duration_ms": 176949,
-      "name": "Milkshake 20 (Alex Wann Remix)",
-      "url": "https://open.spotify.com/track/49wEdWGkL2CcOrXEKklXtJ"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -547,6 +547,34 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "Ode Ireti (Nitefreak Remix)",
+        "url": "https://open.spotify.com/album/2qqR1bQI6G7jEzK5zALbpL"
+      },
+      "artists": [
+        {
+          "name": "&friends",
+          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
+        },
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "El-Jay",
+          "url": "https://open.spotify.com/artist/6I4x3myd2zhgAIrqkp4D85"
+        },
+        {
+          "name": "Oluwadamvic",
+          "url": "https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly"
+        }
+      ],
+      "duration_ms": 239925,
+      "name": "Ode Ireti - Nitefreak Remix",
+      "url": "https://open.spotify.com/track/40UBIQiUwe6Or8rUKRlG0N"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "Mama Thula",
         "url": "https://open.spotify.com/album/6YMpRJfQ3fnI2v0NPJVwEJ"
       },
@@ -587,34 +615,6 @@
       "duration_ms": 298335,
       "name": "Cenote",
       "url": "https://open.spotify.com/track/6kZOfRM1yZUyLGATRhPTuf"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
-        "name": "Ode Ireti (Nitefreak Remix)",
-        "url": "https://open.spotify.com/album/2qqR1bQI6G7jEzK5zALbpL"
-      },
-      "artists": [
-        {
-          "name": "&friends",
-          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
-        },
-        {
-          "name": "Nitefreak",
-          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
-        },
-        {
-          "name": "El-Jay",
-          "url": "https://open.spotify.com/artist/6I4x3myd2zhgAIrqkp4D85"
-        },
-        {
-          "name": "Oluwadamvic",
-          "url": "https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly"
-        }
-      ],
-      "duration_ms": 239925,
-      "name": "Ode Ireti - Nitefreak Remix",
-      "url": "https://open.spotify.com/track/40UBIQiUwe6Or8rUKRlG0N"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -715,6 +715,26 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        },
+        {
+          "name": "Leo Wood",
+          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
+        }
+      ],
+      "duration_ms": 229523,
+      "name": "What U Doing",
+      "url": "https://open.spotify.com/track/6bU9aYY97cCrzsx1IKdxZG"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "NA NA NA",
         "url": "https://open.spotify.com/album/7IjkeZsYlHbD116c6ZA92P"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 223666,
       "name": "Osama - Edit",
       "url": "https://open.spotify.com/track/5i2gTPIuhhA1mcFQpmD5rf"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        },
-        {
-          "name": "Leo Wood",
-          "url": "https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B"
-        }
-      ],
-      "duration_ms": 229523,
-      "name": "What U Doing",
-      "url": "https://open.spotify.com/track/6bU9aYY97cCrzsx1IKdxZG"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/03mhpyzIJwGvoyJzoij8aN"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        }
-      ],
-      "duration_ms": 214408,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/6B86SlbbHFNhIWusVztXYJ"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
         "name": "Between Two Worlds",
         "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 464026,
       "name": "Between Two Worlds",
       "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/03mhpyzIJwGvoyJzoij8aN"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        }
+      ],
+      "duration_ms": 214408,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/6B86SlbbHFNhIWusVztXYJ"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
-        "name": "Laufen",
-        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
-      },
-      "artists": [
-        {
-          "name": "MonoJack",
-          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
-        },
-        {
-          "name": "Fritz K\u00f6lner",
-          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
-        }
-      ],
-      "duration_ms": 257709,
-      "name": "Laufen",
-      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
         "name": "Speed Of Sound",
         "url": "https://open.spotify.com/album/1AajlZNAhRY0EJ9G98kwIb"
       },
@@ -1051,6 +1031,26 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "Laufen",
+        "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
+      },
+      "artists": [
+        {
+          "name": "MonoJack",
+          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
+        },
+        {
+          "name": "Fritz K\u00f6lner",
+          "url": "https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh"
+        }
+      ],
+      "duration_ms": 257709,
+      "name": "Laufen",
+      "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "Cold Shoulder (Helsloot Remix)",
         "url": "https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st"
       },
@@ -1067,6 +1067,30 @@
       "duration_ms": 246466,
       "name": "Cold Shoulder - Helsloot Remix",
       "url": "https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
+        "name": "Voices Above",
+        "url": "https://open.spotify.com/album/4U7wCpJuheM9IlV53aBLuJ"
+      },
+      "artists": [
+        {
+          "name": "Archila",
+          "url": "https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        }
+      ],
+      "duration_ms": 190942,
+      "name": "Voices Above",
+      "url": "https://open.spotify.com/track/6ME9tv8WUbvUs7be9nt48J"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1111,30 +1135,6 @@
       "duration_ms": 416562,
       "name": "Don't Care Anymore",
       "url": "https://open.spotify.com/track/1Rpo5GI7BxWj2hXLaK39fq"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
-        "name": "Voices Above",
-        "url": "https://open.spotify.com/album/4U7wCpJuheM9IlV53aBLuJ"
-      },
-      "artists": [
-        {
-          "name": "Archila",
-          "url": "https://open.spotify.com/artist/3XAGebwIZIMFUt0ZgnXOwh"
-        },
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Mal\u00f3ne",
-          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
-        }
-      ],
-      "duration_ms": 190942,
-      "name": "Voices Above",
-      "url": "https://open.spotify.com/track/6ME9tv8WUbvUs7be9nt48J"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "Trojan Love (Original Club Mix)",
+        "url": "https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O"
+      },
+      "artists": [
+        {
+          "name": "Definition",
+          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 357283,
+      "name": "Trojan Love - Original Club Mix",
+      "url": "https://open.spotify.com/track/283e2rkf3A78qmcp5xjOTT"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "Body Language, Vol. 24",
         "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 163902,
       "name": "Lost Generation - Edit",
       "url": "https://open.spotify.com/track/4IAQZlLWEiMhrYPfL4btZi"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
-        "name": "Trojan Love (Original Club Mix)",
-        "url": "https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O"
-      },
-      "artists": [
-        {
-          "name": "Definition",
-          "url": "https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C"
-        },
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 357283,
-      "name": "Trojan Love - Original Club Mix",
-      "url": "https://open.spotify.com/track/283e2rkf3A78qmcp5xjOTT"
     },
     {
       "added_at": "2023-11-14 11:01:57",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-11-14 11:01:57",
       "album": {
+        "name": "Kilian",
+        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
+      },
+      "artists": [
+        {
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
+        }
+      ],
+      "duration_ms": 420115,
+      "name": "Kilian",
+      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
+    },
+    {
+      "added_at": "2023-11-14 11:01:57",
+      "album": {
         "name": "Future Memories",
         "url": "https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 315200,
       "name": "Aperol Spiritz",
       "url": "https://open.spotify.com/track/7LHJGgiSJEsa1uaYqubGde"
-    },
-    {
-      "added_at": "2023-11-14 11:01:57",
-      "album": {
-        "name": "Kilian",
-        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
-      },
-      "artists": [
-        {
-          "name": "Rodriguez Jr.",
-          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
-        }
-      ],
-      "duration_ms": 420115,
-      "name": "Kilian",
-      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
     },
     {
       "added_at": "2023-11-14 11:01:57",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwtV5Pv39d.md) - [plain]
 
 > Songs to help your kids establish a productive daily routine, from waking up and brushing their teeth to potty training, cleaning up, taking a bath, and getting to sleep at night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,474 likes - 70 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,471 likes - 70 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVwtV5Pv39d.md) - [plain]
 | 69 | [Tomorrow](https://open.spotify.com/track/30T5lRceVlbzHFSehhv8xb) | [Mister Rogers](https://open.spotify.com/artist/6xC5Ps0Iv2UP4mYJv3nBq4) | [It's Such A Good Feeling: The Best Of Mister Rogers](https://open.spotify.com/album/3nio3A4xg6WLkyGx0lsa1D) | 1:03 |
 | 70 | [Peppa's Lullaby](https://open.spotify.com/track/05mpNCdBnlCFKhXva3ta98) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/6wimrTrnUioq48n0KfUxRn) | 2:46 |
 
-Snapshot ID: `MCw1M2FmMGM2NzViNDUyM2ZiNGJlNWI5YmJhNjgxZmQ5MTRkYWEyZGE3`
+Snapshot ID: `MCwxY2UxNzY4ZTM0ZDk4OGQzMGVkMDgzZGMyYjhmNDc3Mjc3OWE5Nzdj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Lex en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,368 likes - 90 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,384 likes - 90 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,10 +93,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 83 | [In Your Arms](https://open.spotify.com/track/7bCdUjUeJfyYahngq7Bdbc) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [ML3NNON](https://open.spotify.com/artist/1biSrwFYbwHLEzKBLgK7Na), [GeeKan](https://open.spotify.com/artist/75RUOHHM8vVH1EEgeZOMMT) | [In Your Arms](https://open.spotify.com/album/19068iWscfCtBIkmza7Mur) | 2:34 |
 | 84 | [Filosofía](https://open.spotify.com/track/3oD1kN8r6t3UWo4Edxvi6C) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29), [Johan](https://open.spotify.com/artist/07JQJLRsxuHquLwtSV0XyS) | [Filosofía](https://open.spotify.com/album/2GN5rVI2elWcAB3HLwN8np) | 3:00 |
 | 85 | [San Junipero \(Usb Gad Remix\)](https://open.spotify.com/track/3KoOKxythVoYOR08bs3tGg) | [LEX](https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV), [Usb Gad](https://open.spotify.com/artist/5vkRwmJS3T2WTuGF3Lzyj7) | [San Junipero Remixes Vol\. 1](https://open.spotify.com/album/0z6ThqeKVlAuBkjXX0M70x) | 3:15 |
-| 86 | [Inside Out](https://open.spotify.com/track/3kRfmys5Ga7GPDNuSHFF8f) | [Maciel](https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0), [Benlon](https://open.spotify.com/artist/2VD7hi5KkmTgalaFZ8dnls), [Sharpz](https://open.spotify.com/artist/0ljA2i2R8t59sJwmq8SLs4) | [Inside Out](https://open.spotify.com/album/1TQ6tghOuwvsRvanzeoGmF) | 2:54 |
-| 87 | [Galactic Feelings](https://open.spotify.com/track/5UdlBVNbiLgSYJs0mVka5R) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Galactic Feelings](https://open.spotify.com/album/0DOKHmbh2GwQ0Xq6G7uo0X) | 4:10 |
+| 86 | [Galactic Feelings](https://open.spotify.com/track/5UdlBVNbiLgSYJs0mVka5R) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Galactic Feelings](https://open.spotify.com/album/0DOKHmbh2GwQ0Xq6G7uo0X) | 4:10 |
+| 87 | [Inside Out](https://open.spotify.com/track/3kRfmys5Ga7GPDNuSHFF8f) | [Maciel](https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0), [Benlon](https://open.spotify.com/artist/2VD7hi5KkmTgalaFZ8dnls), [Sharpz](https://open.spotify.com/artist/0ljA2i2R8t59sJwmq8SLs4) | [Inside Out](https://open.spotify.com/album/1TQ6tghOuwvsRvanzeoGmF) | 2:54 |
 | 88 | [KARMA](https://open.spotify.com/track/7mmwYkMjErRJrMxemmm2zk) | [Clara Floc](https://open.spotify.com/artist/0e16Li9kILC0goZoA7WR5f), [Light Reaction](https://open.spotify.com/artist/4ImPMY6kcAHp54Zfvc035x), [Gabo Versus](https://open.spotify.com/artist/1N4FEl0zyRocPbZBiWPzJN) | [KARMA](https://open.spotify.com/album/7s7so5vu0eAwu8ArWkKmDr) | 3:34 |
 | 89 | [Empty Words](https://open.spotify.com/track/2MsiOygSrbmia1mSUD8xQn) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [S & L](https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL) | [Empty Words](https://open.spotify.com/album/5y0WVHEW9q3N77kELEyvme) | 2:47 |
-| 90 | [Eunoia](https://open.spotify.com/track/2ki07Ir7ZDaQdJWnmYopFy) | [Leimantour](https://open.spotify.com/artist/23dJcrY31UxUxew6zHi02N) | [Eunoia](https://open.spotify.com/album/6vvIKaVVvt3qHX94edFmmj) | 7:08 |
+| 90 | [Space](https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3) | [NØRBY](https://open.spotify.com/artist/2U3LN7n2HqjV95bmXJ3RLw), [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Space](https://open.spotify.com/album/3r4UauxvbGR8am8API7124) | 2:58 |
 
-Snapshot ID: `MCxmNjk2Mzc0ZWM3ZWFhMjNkOTAyMzRhMzNjOTQwOTFiY2VmYjU1MDc0`
+Snapshot ID: `MCwyMzVhNzNmOGNhMzQxMmUyNGVkMDlhM2Q1ODU4NzMwMjY2ZjNmODBm`

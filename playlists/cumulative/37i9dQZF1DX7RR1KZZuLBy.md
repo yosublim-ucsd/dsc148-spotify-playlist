@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-225 songs - 20 hr 33 min
+226 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Deeper](https://open.spotify.com/track/3uX0W1YKOJHanqyZaNJ81D) | [Living Again](https://open.spotify.com/artist/4wQNGiwWYW2XFrSSPRdpI6) | [Living Again](https://open.spotify.com/album/09LjYLqfVpJaJhVM375rB2) | 4:17 | 2023-10-20 | 2023-11-10 |
 | [Dis net genade](https://open.spotify.com/track/42urV2zj1oB3PvUReuRs8g) | [Christiaan Baartman](https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ) | [Dis net genade](https://open.spotify.com/album/2nol1nx1I6vJLA2FT9ADGs) | 3:49 | 2023-10-13 | 2023-11-03 |
 | [Dit Is Genade](https://open.spotify.com/track/0qrsmFLAFTzRf6Dt7IhESx) | [Charlie Dicks](https://open.spotify.com/artist/3ohWEhMUmqeRGBIpsXjU8C) | [Dit Is Genade](https://open.spotify.com/album/7e9gQ5eaOb9Y4fNXOH9THN) | 2:53 | 2023-05-26 | 2023-06-16 |
-| [Elshadai Adonai Medley \(Live\)](https://open.spotify.com/track/6Cu35kyDyoWUioEWyiYTpS) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Precious Mosotho](https://open.spotify.com/artist/2vQTWpv2T7PVBVomihqmwF) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 7:00 | 2023-11-03 |  |
+| [Elshadai Adonai Medley \(Live\)](https://open.spotify.com/track/6Cu35kyDyoWUioEWyiYTpS) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2), [Precious Mosotho](https://open.spotify.com/artist/2vQTWpv2T7PVBVomihqmwF) | [Spirit of Praise, Vol\. 5 \(Live\)](https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD) | 7:00 | 2023-11-03 | 2023-11-24 |
 | [Elshadai Adonaih](https://open.spotify.com/track/4U2C51nMyJ5OvWIoX2RxuY) | [Benjamin Dube](https://open.spotify.com/artist/2Bjh5lfBvG5Oy6gCtpSGy2) | [Healing in His Presence](https://open.spotify.com/album/0rgq2R2s3q3OPodw81TLol) | 3:01 | 2023-06-23 | 2023-11-10 |
 | [Exit](https://open.spotify.com/track/7uEkbtNgUSECmGBWsHmwjT) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Exit](https://open.spotify.com/album/33IS3ibSQBRCKT5cWkZyBL) | 2:56 | 2023-10-27 | 2023-11-10 |
 | [Fall On Us \(Live\) \(2023 Remastered\)](https://open.spotify.com/track/0PMUHW36HY9AwLVpxagjx9) | [Rivers Worship](https://open.spotify.com/artist/57XcYA50Fcakr6lTthQkaQ) | [Through It All \(Live\)](https://open.spotify.com/album/6RzfT3SisrztoblCGUVtK4) | 6:55 | 2023-05-26 | 2023-11-03 |
@@ -188,6 +188,7 @@
 | [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 | 2019-02-11 |  |
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2023-06-16 |  |
 | [THIS YEAR \(Blessings\) \- Remix](https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[Remix\]](https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U) | 2:40 | 2023-10-14 |  |
+| [Thixo Wamadinga Ethu \(Live\)](https://open.spotify.com/track/5Y0EPmCymKYHOCJD2B04gi) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0yq9apfBkBDmT9I74n0ABX) | 9:49 | 2023-11-24 |  |
 | [To The One](https://open.spotify.com/track/63jFXcyV4O9hxNvguAhXfr) | [Nqubeko Mbatha](https://open.spotify.com/artist/3WGpAjwdlhofFBmbpaWpKP), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [To The One](https://open.spotify.com/album/5qziBnjmCl8ZhpQNEGvLkG) | 9:54 | 2023-06-02 | 2023-11-03 |
 | [Trust In God \(feat\. Chris Brown\)](https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [Trust In God / More Than Able](https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj) | 7:22 | 2023-06-02 |  |
 | [Uhlaleleni Kusizani](https://open.spotify.com/track/06xNSNCV9X5fRm0n5wqVAE) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Uhlaleleni Kusizani](https://open.spotify.com/album/1sDS2OlxaG5j2zrYoA7ODt) | 7:25 | 2023-11-03 | 2023-11-10 |

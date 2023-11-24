@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: HAON(\uae40\ud558\uc628)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 206058,
+  "num_followers": 206158,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWI2ZjU5NWEwMzdlZDQ0MDM1MWVhMzZiMmU0ZjljOTRlNTg2OGM4",
+  "snapshot_id": "MCwxN2E4MjAzMTg0ZjJiZDhiYTJkOTFkYTY5MTJjMGRjMDU3M2IzNmE4",
   "tracks": [
     {
       "added_at": "2023-11-21 09:12:11",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-11-21 09:12:11",
       "album": {
+        "name": "MBT",
+        "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
+      },
+      "artists": [
+        {
+          "name": "Huh",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+        }
+      ],
+      "duration_ms": 142280,
+      "name": "MBT",
+      "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
+    },
+    {
+      "added_at": "2023-11-21 09:12:11",
+      "album": {
         "name": "Metronome",
         "url": "https://open.spotify.com/album/0UFVC9LxBrt7ZJg5SMfm7d"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 163373,
       "name": "Metronome",
       "url": "https://open.spotify.com/track/3XVdGx14tidW0AZKc6PStn"
-    },
-    {
-      "added_at": "2023-11-21 09:12:11",
-      "album": {
-        "name": "MBT",
-        "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
-      },
-      "artists": [
-        {
-          "name": "Huh",
-          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
-        }
-      ],
-      "duration_ms": 142280,
-      "name": "MBT",
-      "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
     },
     {
       "added_at": "2023-11-21 09:12:11",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-11-21 09:12:11",
       "album": {
-        "name": "PROTOTYPE RESEARCH #0063",
-        "url": "https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP"
-      },
-      "artists": [
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "My pleasure Is That You Ride The Bentley",
-      "url": "https://open.spotify.com/track/41HriGdYdajxCJIOMiIBWs"
-    },
-    {
-      "added_at": "2023-11-21 09:12:11",
-      "album": {
         "name": "EVERYWHERE",
         "url": "https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 182300,
       "name": "Sunday (feat. HEIZE, Jay Park)",
       "url": "https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4"
+    },
+    {
+      "added_at": "2023-11-21 09:12:11",
+      "album": {
+        "name": "PROTOTYPE RESEARCH #0063",
+        "url": "https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "My pleasure Is That You Ride The Bentley",
+      "url": "https://open.spotify.com/track/41HriGdYdajxCJIOMiIBWs"
     },
     {
       "added_at": "2023-11-21 09:12:11",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-11-21 09:12:11",
       "album": {
-        "name": "NANGMAN",
-        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 216293,
-      "name": "Vancouver",
-      "url": "https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc"
-    },
-    {
-      "added_at": "2023-11-21 09:12:11",
-      "album": {
         "name": "UNSTEADY",
         "url": "https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 184840,
       "name": "I BE LIKE (Feat. SOLE)",
       "url": "https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ"
+    },
+    {
+      "added_at": "2023-11-21 09:12:11",
+      "album": {
+        "name": "NANGMAN",
+        "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "Vancouver",
+      "url": "https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc"
     },
     {
       "added_at": "2023-11-21 09:12:11",
@@ -1719,54 +1719,6 @@
     {
       "added_at": "2023-11-21 09:12:11",
       "album": {
-        "name": "Movie",
-        "url": "https://open.spotify.com/album/7JI0lmKDgLtLwSDT9qvaBH"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 210870,
-      "name": "Movie",
-      "url": "https://open.spotify.com/track/2IFOq1jRSOmJShJncT9FGn"
-    },
-    {
-      "added_at": "2023-11-21 09:12:11",
-      "album": {
-        "name": "Pressure Makes Diamonds",
-        "url": "https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 137413,
-      "name": "Six Weeks",
-      "url": "https://open.spotify.com/track/12F3kZjxE4LT6XjOvrzbqO"
-    },
-    {
-      "added_at": "2023-11-21 09:12:11",
-      "album": {
-        "name": "OVERDRIVE",
-        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
-      },
-      "artists": [
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "Dumb",
-      "url": "https://open.spotify.com/track/6VUDlCweufWuLEbROnYRUn"
-    },
-    {
-      "added_at": "2023-11-21 09:12:11",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
@@ -1787,6 +1739,38 @@
       "duration_ms": 234839,
       "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
+    },
+    {
+      "added_at": "2023-11-21 09:12:11",
+      "album": {
+        "name": "Pressure Makes Diamonds",
+        "url": "https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 137413,
+      "name": "Six Weeks",
+      "url": "https://open.spotify.com/track/12F3kZjxE4LT6XjOvrzbqO"
+    },
+    {
+      "added_at": "2023-11-21 09:12:11",
+      "album": {
+        "name": "Movie",
+        "url": "https://open.spotify.com/album/7JI0lmKDgLtLwSDT9qvaBH"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 210870,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/2IFOq1jRSOmJShJncT9FGn"
     },
     {
       "added_at": "2023-11-21 09:12:11",
@@ -1815,6 +1799,22 @@
     {
       "added_at": "2023-11-21 09:12:11",
       "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "wish",
+      "url": "https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3"
+    },
+    {
+      "added_at": "2023-11-21 09:12:11",
+      "album": {
         "name": "INEEDYOURLOVE",
         "url": "https://open.spotify.com/album/0OTLAu7ndluaZvEDsUzcmh"
       },
@@ -1831,18 +1831,18 @@
     {
       "added_at": "2023-11-21 09:12:11",
       "album": {
-        "name": "Boyhood",
-        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
       },
       "artists": [
         {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
         }
       ],
-      "duration_ms": 221142,
-      "name": "wish",
-      "url": "https://open.spotify.com/track/2iGE15tDX1YR1uegNyxaB3"
+      "duration_ms": 174040,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/6VUDlCweufWuLEbROnYRUn"
     },
     {
       "added_at": "2023-11-21 09:12:11",

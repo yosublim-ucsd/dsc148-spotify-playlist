@@ -4,7 +4,7 @@
 
 > Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.
 
-61 songs - 4 hr 14 min
+62 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Hipnótico](https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [6](https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj) | 3:39 | 2022-06-07 | 2023-09-21 |
 | [Hoy Como Siempre](https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Camino al Mar](https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G) | 4:12 | 2022-06-07 | 2023-10-07 |
 | [Invocacion \- Original Mix](https://open.spotify.com/track/7lNltzNCgEKUF6hJI7smRW) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Invocacion](https://open.spotify.com/album/5oTeD5VbR7lF9h4FEK8Bs4) | 3:46 | 2023-03-31 |  |
+| [La Murga](https://open.spotify.com/track/2rOhcW4XLwq7qdJDO30xAQ) | [Biomigrant](https://open.spotify.com/artist/5H59BW8KCUmuwDMGVvuatk), [Plu Con Pla](https://open.spotify.com/artist/15OQgyef5dQZArbCVFvOxH), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [La Murga](https://open.spotify.com/album/1ppMnxEDSUANAOOCEpxQpK) | 4:22 | 2023-11-23 |  |
 | [La Niña Grande](https://open.spotify.com/track/0nOay39wPB6N6sNTYnXjrN) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP), [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Escape Plan](https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y) | 3:08 | 2022-06-07 | 2023-11-07 |
 | [Latino & Proud](https://open.spotify.com/track/4Ra5uVAtoj7yVh9IaSl8g4) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Raffolution](https://open.spotify.com/album/5xUHGEzydxmTfZiVEGZgiz) | 3:40 | 2022-06-07 |  |
 | [Levante la Mano \(Tonga Conga Remix\)](https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo), [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU) | [Levante la Mano \(Remixes\)](https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS) | 4:03 | 2022-06-07 |  |
@@ -49,7 +50,7 @@
 | [Mano de Fatima](https://open.spotify.com/track/1823wxCop81BdNRMKcfygg) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Khalil Mounji](https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK) | [La Tercera Vision](https://open.spotify.com/album/0uGchBfeYkbD9NyK3uKm9X) | 3:55 | 2022-06-07 |  |
 | [Mira Bien](https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mira Bien](https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU) | 3:27 | 2022-06-07 |  |
 | [Muy Bien](https://open.spotify.com/track/39fTOnYqGqM00A6xaIqtJn) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N) | [Muy Bien](https://open.spotify.com/album/0YBsUl0SvyfhMBJMg1EGDc) | 6:55 | 2022-06-07 | 2023-11-07 |
-| [Más Profundo](https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt) | [Bruxas](https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7) | [Más Profundo](https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx) | 6:12 | 2022-06-07 |  |
+| [Más Profundo](https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt) | [Bruxas](https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7) | [Más Profundo](https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx) | 6:12 | 2022-06-07 | 2023-11-24 |
 | [Métele \- Cesare Remix](https://open.spotify.com/track/5h5Mc6KAFfrVzsP9ENIH0S) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Cesare](https://open.spotify.com/artist/6I00pP9y2ql2aSsviBmf0r) | [Métele \(Cesare Remix\)](https://open.spotify.com/album/07fJL4eGqxwSzvmuYjdKT3) | 4:44 | 2022-06-07 |  |
 | [Ojos Negros](https://open.spotify.com/track/1vRVJLRaCKiCdTRcfQmDNG) | [Desta French](https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W), [YoSoyMatt](https://open.spotify.com/artist/5ZsRHRaOpGEYw9rjJECXR6) | [Ojos Negros](https://open.spotify.com/album/2TQo6pKbGNMHD8G2NmrhQe) | 3:44 | 2022-06-07 |  |
 | [Pandemia](https://open.spotify.com/track/4kpldaItXUwR1A0KWB4Cz8) | [Casta](https://open.spotify.com/artist/5v304q5NLS1WXeIE6iWziJ) | [Lázaro](https://open.spotify.com/album/3Q6ZXvv9FJib9cNkKBoyVN) | 4:16 | 2022-06-07 |  |

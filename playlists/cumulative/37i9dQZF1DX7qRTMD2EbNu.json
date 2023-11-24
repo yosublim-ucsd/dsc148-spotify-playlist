@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hottest bars coming live from the 233.  Cover:  <a href=\"https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd?si=UrXjvT_oRZSddORHGc3mdw\"> Yaw Tog</a>  ",
+  "description": "Hottest bars coming live from the 233.  Cover:  <a href=\"https://open.spotify.com/artist/05wqlCGQReohsxStVBR052?si=7P7nx9OfTmOxHU1QC3j4IQ\"> Pappy Kojo</a>  ",
   "name": "+233 Bars ",
   "tracks": [
     {
@@ -677,6 +677,28 @@
     },
     {
       "album": {
+        "name": "atross",
+        "url": "https://open.spotify.com/album/2FtQJwvXKtC7dCdWXDelzz"
+      },
+      "artists": [
+        {
+          "name": "Slim Drumz",
+          "url": "https://open.spotify.com/artist/26aYXu5NRqjKJUrDzGxRVT"
+        },
+        {
+          "name": "Kirani Ayat",
+          "url": "https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183600,
+      "name": "atross",
+      "url": "https://open.spotify.com/track/0IY5XAa2sinzz6cGPs3VBo"
+    },
+    {
+      "album": {
         "name": "B.B.B.B",
         "url": "https://open.spotify.com/album/3lMF0eeWGOMzdt7vE0uKok"
       },
@@ -849,6 +871,28 @@
     },
     {
       "album": {
+        "name": "BarCode 9",
+        "url": "https://open.spotify.com/album/52q7G1CJMkyzlab4Bfi8jT"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Joe",
+          "url": "https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg"
+        },
+        {
+          "name": "Kevin Beats",
+          "url": "https://open.spotify.com/artist/1xNTcmdxZlrVvWbLgn745m"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188576,
+      "name": "BarCode 9",
+      "url": "https://open.spotify.com/track/1nL0u9ct9D4C8YhmyV4g5W"
+    },
+    {
+      "album": {
         "name": "Benz (Garri)",
         "url": "https://open.spotify.com/album/32VQcY1YlbfTDDtr4LjPE3"
       },
@@ -1010,6 +1054,54 @@
       "duration_ms": 215510,
       "name": "Brodo",
       "url": "https://open.spotify.com/track/2GHzh4jGjrLb0WYLqpixCd"
+    },
+    {
+      "album": {
+        "name": "BULLET PROOF",
+        "url": "https://open.spotify.com/album/2MxncXFQ4KMYftcWOZWAJj"
+      },
+      "artists": [
+        {
+          "name": "Kwelit",
+          "url": "https://open.spotify.com/artist/3H0hY5Y8gwHixRK5QoQ0wZ"
+        },
+        {
+          "name": "Tyler leigh",
+          "url": "https://open.spotify.com/artist/3D6cM99YIXnMbqLtjvEF7S"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120421,
+      "name": "BULLET PROOF",
+      "url": "https://open.spotify.com/track/0OaJatDVXthF1VDJ5hjunR"
+    },
+    {
+      "album": {
+        "name": "Nautyfication",
+        "url": "https://open.spotify.com/album/75qdnig0jgwa3pf1ySCMmm"
+      },
+      "artists": [
+        {
+          "name": "Nautyca",
+          "url": "https://open.spotify.com/artist/44ch4VtU3Nsp7CNT6CTmAf"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Khapital",
+          "url": "https://open.spotify.com/artist/6XC4IJbWb4FXFUVaXceb9l"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255625,
+      "name": "Bum Bum",
+      "url": "https://open.spotify.com/track/4zqdtPIc97mJNiDn7wGevB"
     },
     {
       "album": {
@@ -2312,6 +2404,28 @@
       "duration_ms": 206654,
       "name": "Find My Way",
       "url": "https://open.spotify.com/track/6mEANMBVUXc5TS996pevl8"
+    },
+    {
+      "album": {
+        "name": "Fine",
+        "url": "https://open.spotify.com/album/2xS0FKkPCvYQuHW2lel1lp"
+      },
+      "artists": [
+        {
+          "name": "$pacely",
+          "url": "https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/59rDOkRxRZgmhAGLCJIKcs"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/5NcUF8EKTsWbhhRkhCAiR9"
     },
     {
       "album": {
@@ -4167,6 +4281,24 @@
     },
     {
       "album": {
+        "name": "Ka Na Wu",
+        "url": "https://open.spotify.com/album/4WjFmcus19qITkG4kvNWj4"
+      },
+      "artists": [
+        {
+          "name": "Pappy Kojo",
+          "url": "https://open.spotify.com/artist/05wqlCGQReohsxStVBR052"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164133,
+      "name": "Mbesiafo (Women)",
+      "url": "https://open.spotify.com/track/4nsaG9UbW5rCYfFwQurZ3V"
+    },
+    {
+      "album": {
         "name": "Meantime",
         "url": "https://open.spotify.com/album/3lHTdBtPn88NOv2cjcwocX"
       },
@@ -4356,7 +4488,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 169757,
       "name": "My Time My Money",
       "url": "https://open.spotify.com/track/2rsc7ktqpXHedRPnXJcJMZ"
@@ -4480,6 +4612,28 @@
       "duration_ms": 178107,
       "name": "No Fugazy",
       "url": "https://open.spotify.com/track/5CtmMSLSf9Y6JCc9RJLxSa"
+    },
+    {
+      "album": {
+        "name": "No Luck",
+        "url": "https://open.spotify.com/album/38JcKfrL4JsWbUIDoafZCN"
+      },
+      "artists": [
+        {
+          "name": "Kwvdwo Pvnch",
+          "url": "https://open.spotify.com/artist/0u9prTI7XmKYiRSR0KcjH9"
+        },
+        {
+          "name": "Emman",
+          "url": "https://open.spotify.com/artist/7nQHvaBA7AKisVxkLQS34d"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140125,
+      "name": "No Luck",
+      "url": "https://open.spotify.com/track/2RVzvB89Lst4inD4pUcnKJ"
     },
     {
       "album": {
@@ -5306,6 +5460,28 @@
       "duration_ms": 188186,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/65UfDLUUQphi0TC8ja46nn"
+    },
+    {
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/1krR6T2Cjea4iwIJqamHwX"
+      },
+      "artists": [
+        {
+          "name": "KooKusi",
+          "url": "https://open.spotify.com/artist/1qRBRlrxzn5JgCwLGKWz8p"
+        },
+        {
+          "name": "R.B.D.",
+          "url": "https://open.spotify.com/artist/5YPzHb8dVwxsEjSbdOU8We"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209673,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/6E6SVPcYjEZ9OIpJta0TAn"
     },
     {
       "album": {
@@ -6153,6 +6329,46 @@
     },
     {
       "album": {
+        "name": "Space Roof",
+        "url": "https://open.spotify.com/album/7oCvqhcoi5BuXuVZSukM9R"
+      },
+      "artists": [
+        {
+          "name": "Juma Mufasa",
+          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
+        },
+        {
+          "name": "Papa Atey",
+          "url": "https://open.spotify.com/artist/0me8eXuhZpWe142kwN8SjB"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229541,
+      "name": "Space Roof",
+      "url": "https://open.spotify.com/track/4ngIqWBpc55oP0F0h0Im9X"
+    },
+    {
+      "album": {
+        "name": "Split Conscience",
+        "url": "https://open.spotify.com/album/2hXJR0wKwfVs5z8Voyvfah"
+      },
+      "artists": [
+        {
+          "name": "Gaga Ranks",
+          "url": "https://open.spotify.com/artist/7utvjdqhdvjjKMEx96KSpt"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "Split Conscience",
+      "url": "https://open.spotify.com/track/0oWlEKQyapkqEJLYRa5BeM"
+    },
+    {
+      "album": {
         "name": "Stand Firm",
         "url": "https://open.spotify.com/album/3sr8Z6gGLvnzOKXnejZs3r"
       },
@@ -6382,6 +6598,32 @@
       "duration_ms": 158093,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/1mobKOhEY1vmPH7LW6BnPm"
+    },
+    {
+      "album": {
+        "name": "Ka Na Wu",
+        "url": "https://open.spotify.com/album/4WjFmcus19qITkG4kvNWj4"
+      },
+      "artists": [
+        {
+          "name": "Pappy Kojo",
+          "url": "https://open.spotify.com/artist/05wqlCGQReohsxStVBR052"
+        },
+        {
+          "name": "Reggie",
+          "url": "https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1"
+        },
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168960,
+      "name": "Tell 'Em To Shut Up (feat. Reggie & Skyface Sdw)",
+      "url": "https://open.spotify.com/track/0yVzC9Bvpi9BhgpP5Nb9dK"
     },
     {
       "album": {
@@ -6700,7 +6942,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 156428,
       "name": "WAGON",
       "url": "https://open.spotify.com/track/5ZKGYRTZAXsX9FBvCXnIEy"

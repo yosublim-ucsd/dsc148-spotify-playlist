@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: VUKOVI",
+  "description": "The UK's biggest rock playlist. Cover: Spiritbox",
   "name": "The Rock List",
   "tracks": [
     {
@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "AI (Save Yourself)",
+        "url": "https://open.spotify.com/album/2PcWCQtSCQea2SDQbJmuqO"
+      },
+      "artists": [
+        {
+          "name": "Kid Bookie",
+          "url": "https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188895,
+      "name": "AI (Save Yourself)",
+      "url": "https://open.spotify.com/track/2MrnJVZSGAzz1IobfPEwHv"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/4GDScUQlslGqyxqFV4KlqF"
       },
@@ -474,7 +492,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 210842,
       "name": "Atomic City",
       "url": "https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M"
@@ -1776,7 +1794,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 179166,
       "name": "Fake As Hell (with Avril Lavigne)",
       "url": "https://open.spotify.com/track/7bbhu051CI6krV0M6lv7tl"
@@ -2277,6 +2295,32 @@
     },
     {
       "album": {
+        "name": "GLOFS (feat. Rou Reynolds of Enter Shikari)",
+        "url": "https://open.spotify.com/album/4DVMNKOHTvzJVVgiHNBPn9"
+      },
+      "artists": [
+        {
+          "name": "Blackout Problems",
+          "url": "https://open.spotify.com/artist/22P5BkhcPUCtDGC9laXpDM"
+        },
+        {
+          "name": "Rou Reynolds",
+          "url": "https://open.spotify.com/artist/39sN02pcMOMbe3kVNajete"
+        },
+        {
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232138,
+      "name": "GLOFS",
+      "url": "https://open.spotify.com/track/35ZQUE0DuUFEptq5LJv6nI"
+    },
+    {
+      "album": {
         "name": "Glorious Sunset",
         "url": "https://open.spotify.com/album/2Wk0YO4JkdqrkMR5GjdAa0"
       },
@@ -2541,6 +2585,24 @@
     },
     {
       "album": {
+        "name": "HATE 2 LUV U",
+        "url": "https://open.spotify.com/album/5exZjAvyfhdDdssxOcWfRj"
+      },
+      "artists": [
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177479,
+      "name": "HATE 2 LUV U",
+      "url": "https://open.spotify.com/track/0cg2EwJcOFj4S7ZDoDhBMc"
+    },
+    {
+      "album": {
         "name": "Heartbreak Kid",
         "url": "https://open.spotify.com/album/6iDURKweXeDCpXnIXcTchM"
       },
@@ -2732,7 +2794,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 167276,
       "name": "HONEY (ARE U COMING?)",
       "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
@@ -3498,6 +3560,24 @@
       "duration_ms": 175767,
       "name": "Landmines",
       "url": "https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7"
+    },
+    {
+      "album": {
+        "name": "Leave Me Behind",
+        "url": "https://open.spotify.com/album/3VrovAT0pPB6YTNN0IDim3"
+      },
+      "artists": [
+        {
+          "name": "HRTLSS",
+          "url": "https://open.spotify.com/artist/3weTDlYKpF9A55JH0XAKkD"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "Leave Me Behind",
+      "url": "https://open.spotify.com/track/3g6LDJkaUphilYZhTMyc1A"
     },
     {
       "album": {
@@ -4431,6 +4511,24 @@
     },
     {
       "album": {
+        "name": "Karaoke Sellouts",
+        "url": "https://open.spotify.com/album/6HinBdxcvcnRmm4QKvDP1d"
+      },
+      "artists": [
+        {
+          "name": "Spyres",
+          "url": "https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Only This Could Happen To Me",
+      "url": "https://open.spotify.com/track/4tkNRCnN7TGV1ukMfIXuaU"
+    },
+    {
+      "album": {
         "name": "Orbit",
         "url": "https://open.spotify.com/album/6eT8wyBSQsTmCk5HGNzPiV"
       },
@@ -4784,7 +4882,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 192500,
       "name": "Punk's Dead",
       "url": "https://open.spotify.com/track/5RFjklYNzWhHH3wZ6c7ngo"
@@ -5274,7 +5372,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 207849,
       "name": "Shiner In The Dark",
       "url": "https://open.spotify.com/track/0zSSanWJnvCX5xHawmMKa9"
@@ -5328,7 +5426,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 209847,
       "name": "silent stranger",
       "url": "https://open.spotify.com/track/7tBbT0mu8TOhDciTPRsOMq"
@@ -5570,6 +5668,24 @@
       "duration_ms": 189579,
       "name": "Still There",
       "url": "https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E"
+    },
+    {
+      "album": {
+        "name": "straight out the oven !",
+        "url": "https://open.spotify.com/album/1xMSlBl1FaPiCJIZ8ppofk"
+      },
+      "artists": [
+        {
+          "name": "SPIDER",
+          "url": "https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184111,
+      "name": "straight out the oven !",
+      "url": "https://open.spotify.com/track/4RNFQj2OhHlaeQK6S3hKac"
     },
     {
       "album": {

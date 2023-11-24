@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,948 likes - 104 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,981 likes - 104 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 103 | [I'll Be Your Baby Tonight](https://open.spotify.com/track/3XtzbjnUGMHUbHpw3yS46L) | [the ORIGINAL SEEKERS](https://open.spotify.com/artist/37uWXC5EdtnuuBUxDvWSoB) | [Back To Our Roots](https://open.spotify.com/album/0Aye9uEvEC6S6ngXg4w7p2) | 3:14 |
 | 104 | [The Times They Are A\-Changin'](https://open.spotify.com/track/4OjNq26zx5GvoBwgljFZ1d) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Back in the High Life Again / The Times They Are A\-Changin'](https://open.spotify.com/album/344tOUpZdZhbZ8K3N7acKg) | 3:49 |
 
-Snapshot ID: `MCw3ZWUzNmRiNmQzZDBmMjU5MzkwMTAxMjcxZjRmMWYxYjI0M2YwOGYx`
+Snapshot ID: `MCw3ODA5OTgzNTNjYzZiNzhkZWMwNmM3MWFhMDQ2OTMwYzQ0M2E4NmU2`

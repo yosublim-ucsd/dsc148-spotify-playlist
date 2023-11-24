@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-844 songs - 1 day 23 hr 35 min
+845 songs - 1 day 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -684,7 +684,7 @@
 | [מזרח פרוע](https://open.spotify.com/track/7LqUeDojg7eFCqwMSsbEzF) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 4:28 | 2021-12-18 | 2021-12-26 |
 | [מחול](https://open.spotify.com/track/7FLWyTcWqdRXgfdfetlkGq) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 2:20 | 2023-02-23 | 2023-03-02 |
 | [מחילה](https://open.spotify.com/track/1XuxoHDc7mFeyhaDcgjYST) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [מחילה](https://open.spotify.com/album/5QIPFeYDdNDVoU7j24YavX) | 3:24 | 2021-08-01 | 2021-12-16 |
-| [מחכה](https://open.spotify.com/track/3cmplhlwMZyQbuTHThyGe7) | [Idan Rafael Haviv](https://open.spotify.com/artist/57PnQxsNvOvG2ZDElDEUjW) | [כל פעם קצת](https://open.spotify.com/album/47608LfOkYM1Sq6WBdGhjy) | 3:31 | 2023-10-13 | 2023-11-22 |
+| [מחכה](https://open.spotify.com/track/3cmplhlwMZyQbuTHThyGe7) | [Idan Rafael Haviv](https://open.spotify.com/artist/57PnQxsNvOvG2ZDElDEUjW) | [כל פעם קצת](https://open.spotify.com/album/47608LfOkYM1Sq6WBdGhjy) | 3:31 | 2023-10-13 |  |
 | [מחכה](https://open.spotify.com/track/05fmjmDag1xjIcIxuissuG) | [Rita](https://open.spotify.com/artist/5pHxqQIoEFTV7nyZPHZtOE) | [רמזים](https://open.spotify.com/album/4Uc7r04sAvgUqAf2W0HZ2p) | 4:07 | 2023-11-11 | 2023-11-13 |
 | [מחרוזת פורים](https://open.spotify.com/track/4Uc70MctKQoDhKtiMfhB8h) | [Itzik Eshel](https://open.spotify.com/artist/2BFlnV6PiwBY8BHMh2sYx5), [מקהלת ילדי ניסים](https://open.spotify.com/artist/6FNiQMnXkl0LMgiLajE5Oz) | [מחרוזת פורים](https://open.spotify.com/album/0xDwhMNCuS6Vr7dvBsO8jy) | 9:05 | 2023-03-08 | 2023-03-10 |
 | [מחרוזת פורים שמח](https://open.spotify.com/track/3r4eFrVAMatMlQzQHG57U1) | [ישראל סוסנה ותזמורתו](https://open.spotify.com/artist/7jNbN2QEbFNb1yc2X2YGqx) | [מחרוזת פורים שמח](https://open.spotify.com/album/2KNJ4aCx6C8cjot1kYFkuD) | 15:33 | 2023-03-08 | 2023-03-10 |
@@ -722,7 +722,7 @@
 | [נפשי](https://open.spotify.com/track/7zA6yuXpK5ctlaQe8EQ1hf) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj), [Motty Steinmetz](https://open.spotify.com/artist/1pZcigV84ihZL3erh8v0gY) | [אלול תשע״ט](https://open.spotify.com/album/3UW2gKQja0vDRfYA7wEGiM) | 4:26 | 2022-10-05 | 2022-10-07 |
 | [נשלים את הכל](https://open.spotify.com/track/3WMH1bPflGgzFjfuI4FYe2) | [Raviv Kaner](https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf) | [נשלים את הכל](https://open.spotify.com/album/0pgYmDRVswjq8DdKYzJdY7) | 2:59 | 2021-07-18 | 2021-12-19 |
 | [נשמה שלי](https://open.spotify.com/track/7606oAr5GqreqTOdIX3uGB) | [Idan Rafael Haviv](https://open.spotify.com/artist/57PnQxsNvOvG2ZDElDEUjW) | [נשמה שלי](https://open.spotify.com/album/7mcMJqFvvNACMp6Zpy0dQQ) | 3:40 | 2021-03-27\* | 2021-07-10 |
-| [נתראה בגלגול הבא](https://open.spotify.com/track/1saT4tObMScARIwT4wTv0W) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [ועכשיו לחלק האומנותי](https://open.spotify.com/album/5q1U43bIDM8jf3yV328e5V) | 3:33 | 2023-01-28 |  |
+| [נתראה בגלגול הבא](https://open.spotify.com/track/1saT4tObMScARIwT4wTv0W) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [ועכשיו לחלק האומנותי](https://open.spotify.com/album/5q1U43bIDM8jf3yV328e5V) | 3:33 | 2023-01-28 | 2023-11-24 |
 | [סביבון סוב סוב סוב](https://open.spotify.com/track/58NBSNdG8s0jSikjPRmdjS) | [Hana Laszlo](https://open.spotify.com/artist/6cp8bVNeuwo43R1Z0eyn7y) | [100 שירים ראשונים \(חלק ב\)](https://open.spotify.com/album/7r5rhny3Cns5TiiHYpOPBl) | 0:43 | 2021-11-30 | 2022-12-21 |
 | [סגול בהיר](https://open.spotify.com/track/7yamSClFVolBatiO4PvCjr) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [סגול בהיר](https://open.spotify.com/album/3Qq9reXVhaAMmsP40r31mq) | 3:36 | 2021-07-10 | 2021-07-11 |
 | [סדר העבודה](https://open.spotify.com/track/4A5lRH29TyKxllsl94BWex) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [אלול תשע״ט](https://open.spotify.com/album/3UW2gKQja0vDRfYA7wEGiM) | 5:50 | 2021-09-17 | 2023-09-27 |
@@ -745,7 +745,7 @@
 | [עד המדבר](https://open.spotify.com/track/7jdvibTKMCbIP2B77ayD8Q) | [דיג'יי אונלי](https://open.spotify.com/artist/21kaSp403FBwhbEwjzymvK), [Talisman](https://open.spotify.com/artist/36SOAT1XBLPGOpya1OaMaQ), [Omri Sabach](https://open.spotify.com/artist/3Mfj0eEUcnEo0fGZ2MTkA1) | [עד המדבר](https://open.spotify.com/album/76faXVVPomerVXe1lmiKYM) | 3:24 | 2022-06-16 | 2022-06-18 |
 | [עד מחר](https://open.spotify.com/track/1ttOlVyZvmnozD2muIxulw) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [לילה כיום יאיר](https://open.spotify.com/album/6MTaG6ouyHqSauq4Xks8E7) | 4:27 | 2022-05-05 | 2023-11-21 |
 | [עד מחר](https://open.spotify.com/track/5dlEgrCOjy9FTcQM1vrrh5) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [לילה כיום יאיר](https://open.spotify.com/album/77bDIhnMVW0L4mcJckkOzN) | 4:27 | 2021-04-16 | 2021-04-17 |
-| [עד שתבואי עד אליי](https://open.spotify.com/track/1Rh5r9vUOumJ1sbPuv3dkO) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [עד שתבואי עד אליי](https://open.spotify.com/album/62COMTujO2mSZgx3fsNzLn) | 3:19 | 2022-11-30 |  |
+| [עד שתבואי עד אליי](https://open.spotify.com/track/1Rh5r9vUOumJ1sbPuv3dkO) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [עד שתבואי עד אליי](https://open.spotify.com/album/62COMTujO2mSZgx3fsNzLn) | 3:19 | 2022-11-30 | 2023-11-24 |
 | [עד שתחזור](https://open.spotify.com/track/0lhjUB7medv0bEiWHEMDy1) | [Yuval Dayan](https://open.spotify.com/artist/4iWsyISSQEYGxdqBNVwqtA) | [לאסוף](https://open.spotify.com/album/7fftXFTewcaOeyqUdDgYVF) | 3:38 | 2023-04-26 | 2023-04-28 |
 | [עוד לא אהבתי די](https://open.spotify.com/track/4rTv0SJDW0lb2Pmpt38U9X) | [Yehoram Gaon](https://open.spotify.com/artist/6iqyqDFoO2sIyAJfA7goTk) | [עוד לא אהבתי די](https://open.spotify.com/album/3B0LyM3OfLAghanuhMXooR) | 2:36 | 2023-04-27 | 2023-04-29 |
 | [עולה על שולחנות](https://open.spotify.com/track/5tNrVA1ySsk7HkV5yg2iXN) | [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [עולה על שולחנות](https://open.spotify.com/album/4Xp9A9xVovEbym6xrXHU21) | 3:16 | 2022-08-13 | 2023-06-13 |
@@ -767,6 +767,7 @@
 | [על מה בנות חושבות בלילה](https://open.spotify.com/track/7LegYLbISvXJFtAr4xDljO) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Doli & Penn](https://open.spotify.com/artist/7hzAtM9sug5TCxGUIR7by3) | [על מה בנות חושבות בלילה](https://open.spotify.com/album/462wpJ2OhZmO2cdcgcwpyq) | 3:14 | 2021-03-27\* | 2021-08-04 |
 | [עם ישראל חי](https://open.spotify.com/track/5oi46p5BbFdvgI0bAeu1rX) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [עם ישראל חי](https://open.spotify.com/album/6I7n9Q1PmQ7zNQEU4DA51N) | 3:30 | 2023-10-20 |  |
 | [ערק](https://open.spotify.com/track/0hOEW1DOcq5pQdoSguJklk) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [ערק](https://open.spotify.com/album/3pT7uVEW2U3A9fKDGihOd8) | 3:21 | 2023-02-03 | 2023-03-05 |
+| [פחד אלוהים](https://open.spotify.com/track/1jCAwxwhHIrtWzGeF6WfJ7) | [Kfir Tsafrir](https://open.spotify.com/artist/7MKSeamhiRpa0xiS4FHGSC) | [פחד אלוהים](https://open.spotify.com/album/4v1hZbW6AmjiTcYuRbXfmB) | 2:49 | 2023-11-23 |  |
 | [פילהרמונית של טירוף](https://open.spotify.com/track/1F3gQQmAhzZOR4iOAikHb9) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [פילהרמונית של טירוף](https://open.spotify.com/album/1lWPBuEHiCHryhj8oGghz9) | 3:22 | 2022-10-15 | 2022-11-03 |
 | [פילטרים יפים](https://open.spotify.com/track/4F5i9rkN4DBMysvhzzEHoh) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt), [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [פילטרים יפים](https://open.spotify.com/album/0uqfFF7ulAju4K9JKP3rnW) | 3:02 | 2021-12-08 | 2022-04-22 |
 | [פלואו של טמבל 2](https://open.spotify.com/track/4PcdcSDUImHuVjoCezSYuC) | [ליעד מאיר](https://open.spotify.com/artist/0pv7p5CElqhjhzyPD4eXpe), [רון חיון](https://open.spotify.com/artist/6ca0SCH3NvU9lEQKW7RM1H) | [פלואו של טמבל](https://open.spotify.com/album/3agcsk8XCke8MXj5hejEtV) | 2:47 | 2023-04-23 | 2023-09-28 |

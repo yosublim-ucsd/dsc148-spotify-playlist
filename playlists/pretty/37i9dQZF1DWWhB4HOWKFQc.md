@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Sal Priadi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,153,807 likes - 77 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,154,931 likes - 77 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 76 | [Cerita Tiba Tiba](https://open.spotify.com/track/6iNfcXYuTkHWarYUaKGnZX) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12) | [Cerita Tiba Tiba](https://open.spotify.com/album/32knHChZrwD05dXjg3Ul1u) | 3:45 |
 | 77 | [Menunggumu](https://open.spotify.com/track/4Pob03jnmgS65WbiM1Jof9) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Second Chance](https://open.spotify.com/album/2QqFeMX7L0PjVPQoYEHJs4) | 3:45 |
 
-Snapshot ID: `MCw5MjMxYzI5N2EwNjg3YWRjY2JiOTQwOWQzMjliMjlhZjljZjI2ZjU1`
+Snapshot ID: `MCxhM2I1NGVkODFkMjQ0ZmFjNWVlYjA1NWI4MjIxNjYzYjUxZGJiMzM3`

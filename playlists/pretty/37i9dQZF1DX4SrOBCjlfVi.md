@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring 2 Chainz, Lil Wayne, Lil Durk, Only The Family and more\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,561 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,649 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Day Old](https://open.spotify.com/track/77rT84Vg6vF9uoIYJ51Tx1) | [PM FRVR](https://open.spotify.com/artist/4SmRyrJ26FTrDKG2OwDr3X) | [Day Old](https://open.spotify.com/album/5KK108UN7lx6whyU0uTwXO) | 2:14 |
 | 50 | [Big Dog \(with Lil Wayne\)](https://open.spotify.com/track/4EKfEZ89t2DzU41RbsyFC6) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Big Dog](https://open.spotify.com/album/5N1Y4h6H1fiS7tIL0fPivM) | 4:13 |
 
-Snapshot ID: `MCw3OTllM2E3OWRlOTk4YTFlOTMyMjExYTJhMWEwOTEyMGFkNjQwODU0`
+Snapshot ID: `MCwzYWJiZjUzY2U5ZjYyYmQzNGJjMzc0OGQxYzYwZjVjYmQwNTk0MDI2`

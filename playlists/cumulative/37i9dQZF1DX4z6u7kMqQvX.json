@@ -1580,7 +1580,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 162410,
       "name": "Cintas Con Vos",
       "url": "https://open.spotify.com/track/1ESzERYkODbzpQqRiG4UwT"
@@ -3516,6 +3516,28 @@
       "duration_ms": 220909,
       "name": "Gris",
       "url": "https://open.spotify.com/track/0GCosxfQOfRgSQBv3KL9RJ"
+    },
+    {
+      "album": {
+        "name": "GUIAME",
+        "url": "https://open.spotify.com/album/057ObaWRT9nY13cHAEggco"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        },
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198676,
+      "name": "GUIAME",
+      "url": "https://open.spotify.com/track/0b37vDgD47kRYes63nKX5v"
     },
     {
       "album": {

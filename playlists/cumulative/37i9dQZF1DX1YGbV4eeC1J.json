@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "Exceptionally vivid Swahili love stories for you and yours. Cover: Barnaba",
+  "description": "Exceptionally vivid Swahili love stories for you and yours. Cover: Wyre",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -1423,6 +1423,24 @@
     },
     {
       "album": {
+        "name": "NEVER LET GO",
+        "url": "https://open.spotify.com/album/6bx36cCR1kDtorGigHyASc"
+      },
+      "artists": [
+        {
+          "name": "Wyre",
+          "url": "https://open.spotify.com/artist/4wnZwHdj9Axyr8ND1Vu8EH"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174863,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/0oo32fZjl0rwWqNTtwSFak"
+    },
+    {
+      "album": {
         "name": "Heart to Hurt",
         "url": "https://open.spotify.com/album/4QEJSaRYujs6FtiF7gpctX"
       },
@@ -2050,7 +2068,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 178290,
       "name": "Umenipata",
       "url": "https://open.spotify.com/track/1LRwzKCREJGQhQJm1XDGMN"

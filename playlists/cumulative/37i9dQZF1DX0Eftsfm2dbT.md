@@ -2,9 +2,9 @@
 
 ### [+81 Connect: J\-Hip Hopの「今」と「その先」](https://open.spotify.com/playlist/37i9dQZF1DX0Eftsfm2dbT)
 
-> J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Only U
+> J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: IO
 
-260 songs - 13 hr 27 min
+263 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [1997](https://open.spotify.com/track/1HvkpFUSpO10BAgWYOb2ZN) | [Gypsy Well](https://open.spotify.com/artist/1VsvKeGxliar6b9Ps7MqGO) | [1997](https://open.spotify.com/album/5bJxaqYY3Nve9ekPeMht83) | 2:19 | 2023-09-26 | 2023-10-18 |
 | [24/7](https://open.spotify.com/track/2gZWVY6eSCALHiDSIb7Kex) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [24/7](https://open.spotify.com/album/5jb4TUEPKohbSuP8mgopYy) | 1:34 | 2023-09-21 | 2023-10-25 |
 | [9's SOUL](https://open.spotify.com/track/4DTk4QENo1c0RtebuhHFPi) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [9's SOUL](https://open.spotify.com/album/1ZIlT9iY0JoCIm02obryyh) | 2:14 | 2023-10-03 | 2023-10-11 |
+| [93 FREESTYLE](https://open.spotify.com/track/4Ko4KObjTuuC7len0DMaCU) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [93 FREESTYLE](https://open.spotify.com/album/4OSLiPFBM0YvTocVBVkr3Q) | 2:30 | 2023-11-23 |  |
 | [95 Project \(Reprise\)](https://open.spotify.com/track/6XY6EHw2syj0We0U0GxCf7) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [95 Project \(Reprise\)](https://open.spotify.com/album/6V8BnI070YFCoWX0T8A60r) | 2:30 | 2023-09-21 | 2023-09-27 |
 | [Aglio e olio](https://open.spotify.com/track/0cw4jePLv2q20Lz9ZdqcvX) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Aglio e olio](https://open.spotify.com/album/5dQPDTfYpbdXOatmVjTaNi) | 2:42 | 2023-09-28 | 2023-09-30 |
 | [Aglio e olio](https://open.spotify.com/track/09aFUqQgJPn0Awn47JGKND) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF) | [Aglio e olio](https://open.spotify.com/album/3jZbozt8tNcg27gMEjPpCT) | 2:45 | 2023-09-28 | 2023-11-22 |
@@ -194,6 +195,7 @@
 | [Popcorn and Coke](https://open.spotify.com/track/7tAOf5J6GJo1KFcszKgQ1c) | [KVGGLV](https://open.spotify.com/artist/5OHEsmlG3h8uYCTi08UktJ) | [Shaped Canvas 3](https://open.spotify.com/album/6Pl3PiHUB4elhbqXPl4Brb) | 2:37 | 2023-10-24 | 2023-11-09 |
 | [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 | 2023-09-21 |  |
 | [Psychedelic](https://open.spotify.com/track/4WcpmNZaCVS3OWNoRehz7b) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [莉子](https://open.spotify.com/album/2P2gIq8l9Rk4EYPErK9KRb) | 3:21 | 2023-10-10 |  |
+| [Puxxy](https://open.spotify.com/track/3Gz1yrLVr3hSHAxH9qoWHK) | [AUDIO RADICAL](https://open.spotify.com/artist/7nBpQt0rbbHHTfQY9bd9d7), [Henny K](https://open.spotify.com/artist/5kHlhiDhgmsqZldMC6hPoL), [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [CROSS OVA](https://open.spotify.com/album/6TYODp2J2aSbnHnEnvTcuN) | 2:10 | 2023-11-23 |  |
 | [RANDO](https://open.spotify.com/track/5fJZDfgIiQgjzTlRxR6Q5G) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [RANDO](https://open.spotify.com/album/4NQ2zVZ53ndO3XCMTuhOj5) | 2:26 | 2023-09-21 |  |
 | [RASEN in OKINAWA](https://open.spotify.com/track/0fMmPHi9En7OQBH08Zqxq9) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Tsubaki](https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 4:49 | 2023-10-19 | 2023-11-01 |
 | [RASEN in OKINAWA](https://open.spotify.com/track/6JDDIx1vSs5GvMZXsy2aR2) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [098RADIO vol.1 Hosted by Awich](https://open.spotify.com/album/6jQI4R1D8sk5YXQnSju44y) | 4:49 | 2023-09-21 | 2023-10-28 |
@@ -230,6 +232,7 @@
 | [The Out of Africa Hypothesis](https://open.spotify.com/track/3WmOEQFLFw6VGvnxm5Fq60) | [audiot909](https://open.spotify.com/artist/3SUTwBU3mSOEsmqb67dks2), [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [荘子it](https://open.spotify.com/artist/0IYObPlIQIfFNFf8P1rE6T) | [The Out of Africa Hypothesis](https://open.spotify.com/album/68f9vnn8h2C7vuvp4bwPU4) | 4:42 | 2023-10-03 | 2023-10-05 |
 | [THE UNION](https://open.spotify.com/track/1qlcGHhGLtcSYqtHFtDIoC) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 3:39 | 2023-10-24 | 2023-11-16 |
 | [Thousand Plate](https://open.spotify.com/track/0MdSwwzx6RvXgKF03sDf0w) | [DJ Nej](https://open.spotify.com/artist/7gQCJSwOhx1ZSbGZLLSrRe), [Ryohu Karma](https://open.spotify.com/artist/5VJ7OaTAu0v6lHMxiB6stc) | [Thousand Plate](https://open.spotify.com/album/0dDzRMRUD5oWtPcgpnhevN) | 2:56 | 2023-10-03 | 2023-10-11 |
+| [Tokyo Freeway](https://open.spotify.com/track/7I80E0p8u05s1O1ZBmDYZS) | [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [four](https://open.spotify.com/album/2JcohoDUq5JPoIh2Zh3epv) | 3:28 | 2023-11-23 |  |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-21 | 2023-10-04 |
 | [True \- rkemishi REMIX](https://open.spotify.com/track/1WNvxSUleRIchRUT7M747c) | [Silent Killa Joint](https://open.spotify.com/artist/1nNfL1cMyGVkyODtqf90wI), [rkemishi](https://open.spotify.com/artist/0p8wb8VQyOYmHkN42xhJ9v) | [SEIJYAKU ASAMAKI \(REMIX\)](https://open.spotify.com/album/5xufxHiHSvm3JN6BZC7G2D) | 3:05 | 2023-10-24 | 2023-11-01 |
 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 | 2023-09-21 |  |

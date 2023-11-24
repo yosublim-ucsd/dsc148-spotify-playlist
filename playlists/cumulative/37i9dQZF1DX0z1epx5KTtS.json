@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "African dance party music from Paris to Abidjan. Photo : Obam's",
+  "description": "African dance party music from Paris to Abidjan. Photo : Dydy Yeman",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -254,6 +254,24 @@
       "duration_ms": 176718,
       "name": "Amour multiprise",
       "url": "https://open.spotify.com/track/4HMcdmSSqmFFKqmASxVjaz"
+    },
+    {
+      "album": {
+        "name": "Avec le c\u0153ur",
+        "url": "https://open.spotify.com/album/5NH1NFBjHk0X9ldAZDHVVi"
+      },
+      "artists": [
+        {
+          "name": "Sarah Liz",
+          "url": "https://open.spotify.com/artist/3mGnigZzxWaPaaBucXbdtT"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Avec le c\u0153ur",
+      "url": "https://open.spotify.com/track/3sjfComvig5HKUYTd82nf8"
     },
     {
       "album": {
@@ -562,7 +580,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 167560,
       "name": "Chauffer le moteur",
       "url": "https://open.spotify.com/track/3S6HETWwfANztUu4Bn5mk9"
@@ -1247,6 +1265,28 @@
     },
     {
       "album": {
+        "name": "Galoper",
+        "url": "https://open.spotify.com/album/6R4VDE6rOcWJX0H0QVUfJR"
+      },
+      "artists": [
+        {
+          "name": "AB LE SUPERMAN",
+          "url": "https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ"
+        },
+        {
+          "name": "Serge Beynaud",
+          "url": "https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Galoper",
+      "url": "https://open.spotify.com/track/20ai8KKeDZt0U0vQpclRI4"
+    },
+    {
+      "album": {
         "name": "Gb\u00eass\u00ea",
         "url": "https://open.spotify.com/album/60ZH03fBOxrVsHuP5VTdee"
       },
@@ -1472,7 +1512,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 212845,
       "name": "Ils Sont O\u00f9?",
       "url": "https://open.spotify.com/track/3uNyP0B7IietcPg91GXqAT"
@@ -1574,10 +1614,28 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 205505,
       "name": "Kabato",
       "url": "https://open.spotify.com/track/5sQ8C2QYSJPtkx4cDperWl"
+    },
+    {
+      "album": {
+        "name": "Kess Moulet",
+        "url": "https://open.spotify.com/album/6lV3QdEjHlAC8jUyJdnlab"
+      },
+      "artists": [
+        {
+          "name": "Dydy Yeman",
+          "url": "https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148933,
+      "name": "Kess Moulet",
+      "url": "https://open.spotify.com/track/3LZGhKB0tbzjNnPixZn29b"
     },
     {
       "album": {
@@ -1968,7 +2026,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 139200,
       "name": "Mademoiselle",
       "url": "https://open.spotify.com/track/3Vt5QZrsmeOESKmpciE4ks"
@@ -1994,6 +2052,28 @@
       "duration_ms": 182000,
       "name": "Mak\u00e9l\u00e9l\u00e9",
       "url": "https://open.spotify.com/track/3NwMIcrPVesx13KiJoPtc3"
+    },
+    {
+      "album": {
+        "name": "Maman match\u00f4tch\u00f4",
+        "url": "https://open.spotify.com/album/4c93TYyTUld4cSQuXJEnFV"
+      },
+      "artists": [
+        {
+          "name": "Peroo",
+          "url": "https://open.spotify.com/artist/5zWvgu0NI3AhsBmkHQ7Cv4"
+        },
+        {
+          "name": "Renard Barakissa",
+          "url": "https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216816,
+      "name": "Maman match\u00f4tch\u00f4",
+      "url": "https://open.spotify.com/track/4K0NpIa9A1vXLg4ZJYUfqo"
     },
     {
       "album": {
@@ -2748,7 +2828,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 182400,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/7fzjepyW5Hdsk3MUqoNNs0"
@@ -2982,6 +3062,32 @@
       "duration_ms": 272706,
       "name": "Yo Pe - Remix",
       "url": "https://open.spotify.com/track/16hivbAazfd7Li5o5WFguM"
+    },
+    {
+      "album": {
+        "name": "Youroukou M\u00e9lang\u00e9",
+        "url": "https://open.spotify.com/album/49Z04lZjYqvbQRvUSk4X8R"
+      },
+      "artists": [
+        {
+          "name": "Safarel Obiang",
+          "url": "https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK"
+        },
+        {
+          "name": "Ulrich Jordan",
+          "url": "https://open.spotify.com/artist/1ukqKaYicuXndWwwhkkHiy"
+        },
+        {
+          "name": "Maa Bio",
+          "url": "https://open.spotify.com/artist/07Zs2joCc5igkrjHAeYAEb"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242600,
+      "name": "Youroukou M\u00e9lang\u00e9",
+      "url": "https://open.spotify.com/track/4ar6OBUWx8WlYq56Z9U0wD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 
 
-252 songs - 12 hr 6 min
+253 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Rätt eller fel](https://open.spotify.com/track/4owIvrzKy4uNuvTpqwvlhF) | [Moment 23](https://open.spotify.com/artist/5QK1ZB27Vlm35TK2hVC1HP) | [Allting kommer tillbaka](https://open.spotify.com/album/0XJkh6t7YDtbYAgQn3Jhl1) | 2:48 | 2021-12-14 | 2022-07-27 |
 | [Rättvisans lotteri](https://open.spotify.com/track/40s5smFUB8DuC9pfidqnnt) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Hobbydiktatorn](https://open.spotify.com/album/1BCAvvVtURz8zlaZZNR3uP) | 2:53 | 2021-12-14 | 2022-02-07 |
 | [Röda stugor med ruttnande knutar](https://open.spotify.com/track/53Rpz0CH9beiCm7n7OaVja) | [Ett Dödens Maskineri](https://open.spotify.com/artist/5OnVR7BCOmGxkkbjZcOQQ7) | [Sveriges Humanitära Ruiner](https://open.spotify.com/album/2l8g1TjEZFsSdPh96Jb6Uo) | 3:08 | 2021-12-14 | 2022-07-28 |
+| [S.O.S](https://open.spotify.com/track/7yNxro22FYcz5HSdfB7Crr) | [SMÅJÄVLAFÖTTER](https://open.spotify.com/artist/2Ml3alZX8KmZYcaVzzgdx5) | [Kapitalismens sista generation](https://open.spotify.com/album/7luX0TYMkpAIVxN4s0hBZs) | 1:35 | 2023-11-23 |  |
 | [SD till Skåne](https://open.spotify.com/track/3ylfjH5EdN4KmYQd5DMxeV) | [Jönzzonligan](https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S) | [Rösta på idioter](https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6) | 1:32 | 2021-12-14 | 2022-07-22 |
 | [Se på dig själv](https://open.spotify.com/track/6eJPUL0vQnyPejEDOVQ1C7) | [Jönzzonligan](https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S) | [Rösta på idioter](https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6) | 0:53 | 2021-12-14 | 2022-07-11 |
 | [Sex Noll Två](https://open.spotify.com/track/2cDhN8iMlxEQPpjkcqCgQP) | [Shuvit](https://open.spotify.com/artist/1ydU8JWvSYgDkNetiiWxgM) | [Sex Noll Två](https://open.spotify.com/album/1RQDWa5oI0JVu5WUq9mxnw) | 3:29 | 2021-12-14 | 2022-07-04 |
@@ -232,7 +233,7 @@
 | [Troll Och Häxor](https://open.spotify.com/track/6ly3rSnZYQqHP6qCVbMuuZ) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Le Som En Fotomodell](https://open.spotify.com/album/1uL0v8dyKzZGeg1gT5QbjV) | 2:10 | 2021-12-14 |  |
 | [Tuffa tjejer](https://open.spotify.com/track/68piTUx7iztTcalFvaXovc) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bara skiten avtar](https://open.spotify.com/album/7oJHyi9KpoJRKH5Ypxarcm) | 2:08 | 2021-12-14 | 2022-07-27 |
 | [Tyst för fan](https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:29 | 2021-12-14 |  |
-| [Tänk negativt](https://open.spotify.com/track/0C8VuNSqfWxkwKmVx8Spl9) | [Attentat](https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n) | [Det blir som det blir](https://open.spotify.com/album/6ejXSnBxHRi9g5HuT1lMfj) | 2:31 | 2023-10-26 |  |
+| [Tänk negativt](https://open.spotify.com/track/0C8VuNSqfWxkwKmVx8Spl9) | [Attentat](https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n) | [Det blir som det blir](https://open.spotify.com/album/6ejXSnBxHRi9g5HuT1lMfj) | 2:31 | 2023-10-26 | 2023-11-24 |
 | [Tänk negativt](https://open.spotify.com/track/49gKIBAd8nsGWGs8Aimouy) | [Attentat](https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n) | [Tänk negativt](https://open.spotify.com/album/0f5LTeksAWDDcPSMzyNZE7) | 2:31 | 2023-09-28 | 2023-11-02 |
 | [Utsugare](https://open.spotify.com/track/5HNtfpuToKHzDKOPwORi6j) | [Slaktkniv](https://open.spotify.com/artist/4TElB6wIyF7PdN7jYbgaaw) | [Powerpunk, Vol\. 2](https://open.spotify.com/album/6gKlAmyFXz9gKXE1sSue99) | 1:58 | 2021-12-14 | 2022-07-12 |
 | [Vad har du gjort?](https://open.spotify.com/track/6wdwI3hB821ni3XJJTZCgO) | [Hårdgnissel](https://open.spotify.com/artist/6go8Hycq8HF9V1g2kgPyyj) | [Vad har du gjort?](https://open.spotify.com/album/5cNCoynkJwR7mEEjiClJA1) | 1:40 | 2021-12-14 | 2022-07-28 |

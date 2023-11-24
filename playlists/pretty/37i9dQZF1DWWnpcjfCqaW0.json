@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 285441,
+  "num_followers": 285494,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTU0YzRmZTg1MDMxOTcyZDhlMmQzYTIyMDQ2ZTZiZGMyNGZjN2E3",
+  "snapshot_id": "MCw5NjI3Y2U0M2Y0YzNkMmVjZGQ2YWJkZTQxZjViZjZmNzEwZGEyM2I5",
   "tracks": [
     {
       "added_at": "2023-01-02 21:32:07",
@@ -831,22 +831,18 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Ramblin\u2019 Man (Undubbed Edition)",
-        "url": "https://open.spotify.com/album/3ZgPZQuoMZM4RM5y5amzUh"
+        "name": "The Complete Capitol Singles: 1957-1966",
+        "url": "https://open.spotify.com/album/1WllgaSsuf3emf53KiMKAy"
       },
       "artists": [
         {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        },
-        {
-          "name": "Drifting Cowboys",
-          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+          "name": "Buck Owens & The Buckaroos",
+          "url": "https://open.spotify.com/artist/41GBMTInlbb2bey1N6VAzV"
         }
       ],
-      "duration_ms": 146333,
-      "name": "Why Don't You Love Me",
-      "url": "https://open.spotify.com/track/5tP3bJn54lflOjlQ8CaTbV"
+      "duration_ms": 164680,
+      "name": "Under Your Spell Again - Mono Single Version",
+      "url": "https://open.spotify.com/track/5Qng3PODaPge1Pn2btusKJ"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -867,18 +863,22 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "The Complete Capitol Singles: 1957-1966",
-        "url": "https://open.spotify.com/album/1WllgaSsuf3emf53KiMKAy"
+        "name": "Ramblin\u2019 Man (Undubbed Edition)",
+        "url": "https://open.spotify.com/album/3ZgPZQuoMZM4RM5y5amzUh"
       },
       "artists": [
         {
-          "name": "Buck Owens & The Buckaroos",
-          "url": "https://open.spotify.com/artist/41GBMTInlbb2bey1N6VAzV"
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        },
+        {
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
         }
       ],
-      "duration_ms": 164680,
-      "name": "Under Your Spell Again - Mono Single Version",
-      "url": "https://open.spotify.com/track/5Qng3PODaPge1Pn2btusKJ"
+      "duration_ms": 146333,
+      "name": "Why Don't You Love Me",
+      "url": "https://open.spotify.com/track/5tP3bJn54lflOjlQ8CaTbV"
     },
     {
       "added_at": "2023-01-02 21:32:07",

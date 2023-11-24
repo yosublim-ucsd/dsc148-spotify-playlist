@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleurs morceaux alternatifs du moment. Photo : Gossip",
+  "description": "Les meilleurs morceaux alternatifs du moment. Photo : Paramore",
   "name": "Hot Alternative",
   "tracks": [
     {
@@ -580,7 +580,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 193761,
       "name": "Her Father and Her",
       "url": "https://open.spotify.com/track/2qZKtduc9kHdWz4Uwp9csE"
@@ -1005,6 +1005,24 @@
     },
     {
       "album": {
+        "name": "Sadie Hawkins Prom",
+        "url": "https://open.spotify.com/album/4wzK5q2gMTURbtmG7mnK0g"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134036,
+      "name": "Sadie Hawkins Prom",
+      "url": "https://open.spotify.com/track/4pcACeh4E6y7UraJbukR5h"
+    },
+    {
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -1086,6 +1104,24 @@
       "duration_ms": 191102,
       "name": "Shower Beer",
       "url": "https://open.spotify.com/track/6Kf0pq9FXBBwMkrgEKDT6S"
+    },
+    {
+      "album": {
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/3ndQsXHZ7Di5Lq6XDA0mKK"
+      },
+      "artists": [
+        {
+          "name": "Exsonvaldes",
+          "url": "https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190402,
+      "name": "Silence & Hyperacusis",
+      "url": "https://open.spotify.com/track/4L2WqqRjDNJjdTBHnYJryF"
     },
     {
       "album": {
@@ -1291,6 +1327,24 @@
     },
     {
       "album": {
+        "name": "Talk of the Town",
+        "url": "https://open.spotify.com/album/4ev0SQNpjF9nPoB0bkXt8o"
+      },
+      "artists": [
+        {
+          "name": "Shed Seven",
+          "url": "https://open.spotify.com/artist/3iejrAcqxYoVgyxp6zkWgs"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266106,
+      "name": "Talk of the Town",
+      "url": "https://open.spotify.com/track/2VmJfurwgQbLO6Gt8uVErO"
+    },
+    {
+      "album": {
         "name": "Tethered",
         "url": "https://open.spotify.com/album/2MOOICbNuggNtJU2OZWaA4"
       },
@@ -1410,7 +1464,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 227742,
       "name": "Unwanted",
       "url": "https://open.spotify.com/track/4rB5KgmlQ1Zr2qbxh8VRuR"
@@ -1428,7 +1482,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 305946,
       "name": "Wall Of Eyes",
       "url": "https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J"

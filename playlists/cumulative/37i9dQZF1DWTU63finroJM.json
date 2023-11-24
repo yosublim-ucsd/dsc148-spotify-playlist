@@ -2547,6 +2547,28 @@
     },
     {
       "album": {
+        "name": "Buchi ai lobi",
+        "url": "https://open.spotify.com/album/0yBYqUOcJsCNiYRvTv1E5p"
+      },
+      "artists": [
+        {
+          "name": "piazzabologna",
+          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
+        },
+        {
+          "name": "Gorbaciof",
+          "url": "https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146831,
+      "name": "Buchi ai lobi",
+      "url": "https://open.spotify.com/track/1EK9LRcQxtUiZUxXevX1nP"
+    },
+    {
+      "album": {
         "name": "Ego Trippin'",
         "url": "https://open.spotify.com/album/5VvZWtDFBXYldTujOYb5xG"
       },
@@ -3130,6 +3152,28 @@
       "duration_ms": 155634,
       "name": "CHING",
       "url": "https://open.spotify.com/track/6ZaGQezHQanrroD0TsgeMz"
+    },
+    {
+      "album": {
+        "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
+        "url": "https://open.spotify.com/album/19bgWVSbdr6hodfxeJd4wU"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130602,
+      "name": "Chispeo ft. Ovy On The Drums - Spotify Singles",
+      "url": "https://open.spotify.com/track/2xfDE32mrcMyk9MpBVfY0F"
     },
     {
       "album": {
@@ -13592,7 +13636,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 148839,
       "name": "PETARDI",
       "url": "https://open.spotify.com/track/6aBkkxEVmDGC1o0DpxQcjM"
@@ -16252,7 +16296,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 162631,
       "name": "STATI MAI",
       "url": "https://open.spotify.com/track/4cSjpoTB6wcnwWeDic6S66"
@@ -16587,6 +16631,24 @@
     },
     {
       "album": {
+        "name": "Tak Bisa Bilang",
+        "url": "https://open.spotify.com/album/6PWcf1Zb6nOjN5XJFIs1gH"
+      },
+      "artists": [
+        {
+          "name": "Awdella",
+          "url": "https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249336,
+      "name": "Tak Bisa Bilang",
+      "url": "https://open.spotify.com/track/2rNMr1l3vFvJcIJh59QVLg"
+    },
+    {
+      "album": {
         "name": "Tak Segampang Itu",
         "url": "https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG"
       },
@@ -16778,7 +16840,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 173642,
       "name": "Tengo Sed",
       "url": "https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA"
@@ -16850,7 +16912,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 237863,
       "name": "Tertawan Hati",
       "url": "https://open.spotify.com/track/0DVCvSb8PhHchIP23JOP9q"
@@ -18314,6 +18376,24 @@
       "duration_ms": 204426,
       "name": "Vanilla",
       "url": "https://open.spotify.com/track/3MJtE5VkJHHTV74E6KIDIv"
+    },
+    {
+      "album": {
+        "name": "VENERE",
+        "url": "https://open.spotify.com/album/1xBryxKD1ss7DvPDrjD5ql"
+      },
+      "artists": [
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168095,
+      "name": "VENERE",
+      "url": "https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: K Motionz, Songer\n",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Netsky\n",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -1046,7 +1046,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 201120,
       "name": "Bittersweet Goodbye - Lens Remix",
       "url": "https://open.spotify.com/track/3wkuynG4GwBd8LLNDeKTE5"
@@ -2508,6 +2508,46 @@
       "duration_ms": 319620,
       "name": "Don't Need You",
       "url": "https://open.spotify.com/track/474XwXdXLuQRxXxLRVr1YP"
+    },
+    {
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176914,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
+    },
+    {
+      "album": {
+        "name": "Double Rum",
+        "url": "https://open.spotify.com/album/3Yj8cWXW4Bxu2AoAPJqrtu"
+      },
+      "artists": [
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        },
+        {
+          "name": "Local",
+          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Double Rum",
+      "url": "https://open.spotify.com/track/6LaMXYSAxWYKMFIELplsph"
     },
     {
       "album": {
@@ -4179,6 +4219,28 @@
     },
     {
       "album": {
+        "name": "Hell In High Heels (feat. Jazmine Johnson)",
+        "url": "https://open.spotify.com/album/3gB2o3pjiNUxKLqUYDqgsX"
+      },
+      "artists": [
+        {
+          "name": "Netsky",
+          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        },
+        {
+          "name": "Jazmine Johnson",
+          "url": "https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "Hell In High Heels (feat. Jazmine Johnson)",
+      "url": "https://open.spotify.com/track/2N1SBksYNigOK3XtGNhp8i"
+    },
+    {
+      "album": {
         "name": "Cognition",
         "url": "https://open.spotify.com/album/4fbTcsvGcoM2OZMC3mPgl0"
       },
@@ -5222,7 +5284,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 236823,
       "name": "Let Me Rise",
       "url": "https://open.spotify.com/track/5VoCTp2QDynXzJRTJlQ69w"
@@ -5514,7 +5576,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 160221,
       "name": "Little Things - Nia Archives Remix",
       "url": "https://open.spotify.com/track/2Fn1fXkRt03hV7uhrKfLh2"
@@ -8070,6 +8132,28 @@
       "duration_ms": 256551,
       "name": "Say It Loud",
       "url": "https://open.spotify.com/track/1ZTrdA4lyX7WJlvGju2lfR"
+    },
+    {
+      "album": {
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/395NFYwauFnfNlzuek2dIi"
+      },
+      "artists": [
+        {
+          "name": "CLIPZ",
+          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+        },
+        {
+          "name": "Obi Franky",
+          "url": "https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124235,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/2CsqSlX0MLd85XZjF9JQqM"
     },
     {
       "album": {
@@ -11032,7 +11116,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 136101,
       "name": "you don't want love (in the club)",
       "url": "https://open.spotify.com/track/38ASpHzf1kXpko2TSlhTof"

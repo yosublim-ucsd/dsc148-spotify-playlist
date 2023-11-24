@@ -1,12 +1,12 @@
 {
   "description": "Despierta poco a poco con la tranquilidad de las notas del piano.",
-  "num_followers": 18621,
+  "num_followers": 18620,
   "original_name": "Piano para Despertar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmJmNDBlZmRlMTEzZTg5OTBiN2YzYzg5ZTUwMGEyMWE5Zjk5NzI4",
+  "snapshot_id": "MCxhNGNlNzJkZDA5YWZjNDFmZTM5YjE3Y2YxMzczM2M5NDYwZjJiMjI2",
   "tracks": [
     {
       "added_at": "2023-09-11 13:52:39",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Innamorarsi",
-        "url": "https://open.spotify.com/album/47kowrH6Cijbzn3xy0FMV6"
-      },
-      "artists": [
-        {
-          "name": "Irene Gaifana",
-          "url": "https://open.spotify.com/artist/6gdy6anlAQAem03BVY6m83"
-        }
-      ],
-      "duration_ms": 152990,
-      "name": "Innamorarsi",
-      "url": "https://open.spotify.com/track/07DOQ7ce43Q5ICTdzG8M97"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Akeleie",
         "url": "https://open.spotify.com/album/4wuBcYPsziuMtuafKDpDlP"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 233000,
       "name": "Akeleie",
       "url": "https://open.spotify.com/track/0UmaYgHfAEEMwxYGHSDMmu"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Innamorarsi",
+        "url": "https://open.spotify.com/album/47kowrH6Cijbzn3xy0FMV6"
+      },
+      "artists": [
+        {
+          "name": "Irene Gaifana",
+          "url": "https://open.spotify.com/artist/6gdy6anlAQAem03BVY6m83"
+        }
+      ],
+      "duration_ms": 152990,
+      "name": "Innamorarsi",
+      "url": "https://open.spotify.com/track/07DOQ7ce43Q5ICTdzG8M97"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "MFWT Vol.1",
-        "url": "https://open.spotify.com/album/2Nj3e0AhYcqRqUd0AV2MmB"
+        "name": "My Soul Is a Strange Country (Solo Piano)",
+        "url": "https://open.spotify.com/album/16DNJgqbmH6wB42u4JKeWS"
       },
       "artists": [
         {
-          "name": "Olim",
-          "url": "https://open.spotify.com/artist/7sgIedcWiWvEZGvIHgABbo"
+          "name": "The Magic Lantern",
+          "url": "https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V"
         }
       ],
-      "duration_ms": 124655,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/1g0Zj4GZ229O647Tt3RPJ2"
+      "duration_ms": 180093,
+      "name": "A Long Goodbye",
+      "url": "https://open.spotify.com/track/4WgPQlt7Pa115gVyoiLTVc"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "My Soul Is a Strange Country (Solo Piano)",
-        "url": "https://open.spotify.com/album/16DNJgqbmH6wB42u4JKeWS"
+        "name": "MFWT Vol.1",
+        "url": "https://open.spotify.com/album/2Nj3e0AhYcqRqUd0AV2MmB"
       },
       "artists": [
         {
-          "name": "The Magic Lantern",
-          "url": "https://open.spotify.com/artist/2jIhiAEbmLrPj69WLM2R3V"
+          "name": "Olim",
+          "url": "https://open.spotify.com/artist/7sgIedcWiWvEZGvIHgABbo"
         }
       ],
-      "duration_ms": 180093,
-      "name": "A Long Goodbye",
-      "url": "https://open.spotify.com/track/4WgPQlt7Pa115gVyoiLTVc"
+      "duration_ms": 124655,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/1g0Zj4GZ229O647Tt3RPJ2"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Fairfield",
-        "url": "https://open.spotify.com/album/0OPzIpVpQ6uYoIOnB7Mwv8"
-      },
-      "artists": [
-        {
-          "name": "Isaac Nash",
-          "url": "https://open.spotify.com/artist/32MlHIPCHJoM3V9IlknCxD"
-        }
-      ],
-      "duration_ms": 128500,
-      "name": "Fairfield",
-      "url": "https://open.spotify.com/track/2sc04X1Z2uVblrt7zqHSYS"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 254500,
       "name": "Glow",
       "url": "https://open.spotify.com/track/7ooM6rULm5upVZNOKwux3B"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Fairfield",
+        "url": "https://open.spotify.com/album/0OPzIpVpQ6uYoIOnB7Mwv8"
+      },
+      "artists": [
+        {
+          "name": "Isaac Nash",
+          "url": "https://open.spotify.com/artist/32MlHIPCHJoM3V9IlknCxD"
+        }
+      ],
+      "duration_ms": 128500,
+      "name": "Fairfield",
+      "url": "https://open.spotify.com/track/2sc04X1Z2uVblrt7zqHSYS"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Reading Life",
-        "url": "https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti"
-      },
-      "artists": [
-        {
-          "name": "Martyn Justice",
-          "url": "https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh"
-        }
-      ],
-      "duration_ms": 164500,
-      "name": "Reading Life",
-      "url": "https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Synchronicities",
         "url": "https://open.spotify.com/album/7bTFxC5zyv0TsCEyu9FB2v"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 166749,
       "name": "Synchronicities",
       "url": "https://open.spotify.com/track/3EzFGVsv6wd9u8ZZx7F7En"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Reading Life",
+        "url": "https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti"
+      },
+      "artists": [
+        {
+          "name": "Martyn Justice",
+          "url": "https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh"
+        }
+      ],
+      "duration_ms": 164500,
+      "name": "Reading Life",
+      "url": "https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Castor / Pollux",
-        "url": "https://open.spotify.com/album/6P0cJjPi0SSUPXX8rv3s9t"
-      },
-      "artists": [
-        {
-          "name": "S.A. Karl",
-          "url": "https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM"
-        }
-      ],
-      "duration_ms": 142379,
-      "name": "Pollux",
-      "url": "https://open.spotify.com/track/3R0TQ0CK1KPse8hizZz476"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Just For Now",
         "url": "https://open.spotify.com/album/0eA9Y4ZuUUFAEySggUBnKV"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 110000,
       "name": "Just For Now",
       "url": "https://open.spotify.com/track/2mmkokfVO72zAHkz9OTRZO"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Castor / Pollux",
+        "url": "https://open.spotify.com/album/6P0cJjPi0SSUPXX8rv3s9t"
+      },
+      "artists": [
+        {
+          "name": "S.A. Karl",
+          "url": "https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM"
+        }
+      ],
+      "duration_ms": 142379,
+      "name": "Pollux",
+      "url": "https://open.spotify.com/track/3R0TQ0CK1KPse8hizZz476"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
+        "name": "Stelle Scure",
+        "url": "https://open.spotify.com/album/3SMfkvTQyWjcz1rXwiKatT"
+      },
+      "artists": [
+        {
+          "name": "Enrico Parente",
+          "url": "https://open.spotify.com/artist/1G3EQC9KtF5LKIzoCIls6f"
+        }
+      ],
+      "duration_ms": 137047,
+      "name": "Stelle Scure",
+      "url": "https://open.spotify.com/track/1K8znXZepqVCcp7Wj07Cy0"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
         "name": "Fylke",
         "url": "https://open.spotify.com/album/1jSCqDW3ZNficEbdHvTD8H"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 135874,
       "name": "Trust",
       "url": "https://open.spotify.com/track/6MV97AqFAH2PLEzfuX5qzS"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
-        "name": "Stelle Scure",
-        "url": "https://open.spotify.com/album/3SMfkvTQyWjcz1rXwiKatT"
-      },
-      "artists": [
-        {
-          "name": "Enrico Parente",
-          "url": "https://open.spotify.com/artist/1G3EQC9KtF5LKIzoCIls6f"
-        }
-      ],
-      "duration_ms": 137047,
-      "name": "Stelle Scure",
-      "url": "https://open.spotify.com/track/1K8znXZepqVCcp7Wj07Cy0"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Desalniettemin",
-        "url": "https://open.spotify.com/album/4gHUVgx7oXpx056ricXMCA"
-      },
-      "artists": [
-        {
-          "name": "Mavis Marchena",
-          "url": "https://open.spotify.com/artist/6MSPdpw1XqfQfFarlvDwhd"
-        }
-      ],
-      "duration_ms": 172374,
-      "name": "Desalniettemin",
-      "url": "https://open.spotify.com/track/3nm9jlY1vOwilh9o1Ap5cI"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Here",
         "url": "https://open.spotify.com/album/6TzBL8Jxr3OjvgBRmOWdce"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 146300,
       "name": "Here",
       "url": "https://open.spotify.com/track/3rLYj3hgyEw9BhGgcJER8O"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Desalniettemin",
+        "url": "https://open.spotify.com/album/4gHUVgx7oXpx056ricXMCA"
+      },
+      "artists": [
+        {
+          "name": "Mavis Marchena",
+          "url": "https://open.spotify.com/artist/6MSPdpw1XqfQfFarlvDwhd"
+        }
+      ],
+      "duration_ms": 172374,
+      "name": "Desalniettemin",
+      "url": "https://open.spotify.com/track/3nm9jlY1vOwilh9o1Ap5cI"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "On Your Side",
-        "url": "https://open.spotify.com/album/6sJJQ0VIYMW3lQLv6zdhPV"
-      },
-      "artists": [
-        {
-          "name": "Ragnar Seaholm",
-          "url": "https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "On Your Side",
-      "url": "https://open.spotify.com/track/12Ha6FmHZqlgVgIJU2kn3o"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 215000,
       "name": "Just Us",
       "url": "https://open.spotify.com/track/1QQUFiArleFKStW1ttUfoN"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "On Your Side",
+        "url": "https://open.spotify.com/album/6sJJQ0VIYMW3lQLv6zdhPV"
+      },
+      "artists": [
+        {
+          "name": "Ragnar Seaholm",
+          "url": "https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "On Your Side",
+      "url": "https://open.spotify.com/track/12Ha6FmHZqlgVgIJU2kn3o"
     }
   ],
   "unique_name": "Piano para Despertar",

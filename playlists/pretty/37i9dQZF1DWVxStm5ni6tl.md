@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Rau\_Ze, Artwork by: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,863 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,883 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 9 | [Passion](https://open.spotify.com/track/7L7lEcylKN2Rqz5fQ5yq4t) | [DJ Rosegold](https://open.spotify.com/artist/25AzYlOR12VRVYdFWcNYfH), [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Passion](https://open.spotify.com/album/4lsaeSEDS4HKkJNiR62uyb) | 3:07 |
 | 10 | [TEN CUIDAO](https://open.spotify.com/track/4JmrZ99iOnO3fqmTPOnrQh) | [Flavia Abadía](https://open.spotify.com/artist/4tP9YbaqL7orJ3w9Bha4QG), [Medylandia](https://open.spotify.com/artist/53pDKdL2WqhQGPOMNdJHaK) | [TEN CUIDAO](https://open.spotify.com/album/6aRmHuJ0OLcaT2DxbByz3M) | 2:12 |
 | 11 | [Fly](https://open.spotify.com/track/6yyvtlZtWfMFiFoCYmzzOB) | [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [Fly](https://open.spotify.com/album/36KysvE4Owk5mOVGepYusC) | 3:36 |
-| 12 | [Flowers on the Fire Escape](https://open.spotify.com/track/1tIFvbrapTX46SYlqH9NGH) | [MOONRIIVR](https://open.spotify.com/artist/7L0DI3wlt7yeY4Hi9I87h8) | [Vol\. 1](https://open.spotify.com/album/5IFhMN34yqdi4VhP63MNSx) | 3:56 |
+| 12 | [Flowers on the Fire Escape](https://open.spotify.com/track/5Sx5LEwv1rkb3foo0WYYm0) | [MOONRIIVR](https://open.spotify.com/artist/7L0DI3wlt7yeY4Hi9I87h8) | [Vol\. 1](https://open.spotify.com/album/2QOpujXPtpuOIbieP3eSS9) | 3:56 |
 | 13 | [Born Losers](https://open.spotify.com/track/0nxcsREBof7PVm4dC0otin) | [Autogramm](https://open.spotify.com/artist/1Yq0GO9ZFd9aK9iKEVNe6D) | [Music That Humans Can Play](https://open.spotify.com/album/0TLkvLCORV3utELe9HUwt9) | 3:49 |
 | 14 | [Warm](https://open.spotify.com/track/3Xb6Kt1n1noW7oxcdX0Ifq) | [Simu Liu](https://open.spotify.com/artist/50cRZOl5AL13akHdLc7nfP) | [ANXIOUS\-AVOIDANT](https://open.spotify.com/album/6N8bqbVtkzhREHZNekayEp) | 2:40 |
 | 15 | [Don't Care](https://open.spotify.com/track/7Dr9Rk7F9dJUHN3GnPfRax) | [Jenna Bennett](https://open.spotify.com/artist/01F4laId5DDuQ2UdV9ihcC) | [Don't Care](https://open.spotify.com/album/7wD8pv570eEtfdSrYJbLI2) | 2:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 74 | [Vespa](https://open.spotify.com/track/1tvofafyM5hEmGf1fNpFcR) | [Chu T](https://open.spotify.com/artist/3gW3eiVlCnRJMKxPThZ1cP), [Loui Grandson](https://open.spotify.com/artist/1mwfJDaLaC3XZPrUuM1HnI) | [Vespa](https://open.spotify.com/album/6mp4LhcAFcBfrLo8FGKbqH) | 3:57 |
 | 75 | [Dopamine](https://open.spotify.com/track/0rBFiJwyHRTp5eSB4VvGtv) | [Drew Now](https://open.spotify.com/artist/2cgMhIxzVBb88R1XVfxnvV) | [Dopamine](https://open.spotify.com/album/3EsOOtKTr2miwR0WUJG2YE) | 2:29 |
 
-Snapshot ID: `MCw4NGZhYWIxY2ZjZmNhNzQxYTk1NjY0MWIxMDExOWVjOTI0ZGZlOTlh`
+Snapshot ID: `MCw3MWE3MjU0MTM1ZTFjYjhiZmI1MmNmNGYxODA0ODBiYjgzMDdmYTQz`

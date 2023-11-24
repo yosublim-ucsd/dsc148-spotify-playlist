@@ -8342,10 +8342,28 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 259760,
       "name": "Planet Express",
       "url": "https://open.spotify.com/track/0XklTT2Yejv5bhbomw5u8r"
+    },
+    {
+      "album": {
+        "name": "Hitchhiker",
+        "url": "https://open.spotify.com/album/32Srim9ACKmJsJvszNNlTe"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2023-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260446,
+      "name": "Planet Express",
+      "url": "https://open.spotify.com/track/7HY0lAbWyJr6JqvKgRQDEL"
     },
     {
       "album": {

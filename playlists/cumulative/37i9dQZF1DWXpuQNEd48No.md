@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Elvish Yadav
 
-136 songs - 7 hr 20 min
+137 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [AAHO](https://open.spotify.com/track/33LN6U5oQa8bHh03oqxajL) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [AAHO](https://open.spotify.com/album/3tP7d652s8J8TitZHGGnZx) | 4:12 | 2023-09-27 | 2023-11-02 |
 | [Ace](https://open.spotify.com/track/42SQxZPBS9pNGDAk5ZRY4V) | [Dikshit Parasher](https://open.spotify.com/artist/0BU9ouBKN5Y55wZ6iNSSL5) | [Ace](https://open.spotify.com/album/00a9Oe7Hayv4refjmwmaBg) | 2:27 | 2023-08-14 | 2023-09-09 |
 | [Ace](https://open.spotify.com/track/1TsvGXzmBCn3AdqJeqTMfm) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [Shiqaari](https://open.spotify.com/artist/6SGlv8rvlA0TfucEWP7Mvh) | [Ace](https://open.spotify.com/album/7AgbNhegpQac8FMASg9oy6) | 3:21 | 2023-03-28 | 2023-11-07 |
-| [Afgan](https://open.spotify.com/track/1wL7PQ8llOmRXdgNLRnm4j) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Afgan](https://open.spotify.com/album/6RuY485BMHDFNkc0FydvNn) | 3:17 | 2023-03-28 |  |
+| [Afgan](https://open.spotify.com/track/1wL7PQ8llOmRXdgNLRnm4j) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Afgan](https://open.spotify.com/album/6RuY485BMHDFNkc0FydvNn) | 3:17 | 2023-03-28 | 2023-11-24 |
 | [Albadi Hood](https://open.spotify.com/track/1pGcsZRZHbGodigDtfTgM1) | [Billa Sonipat Ala](https://open.spotify.com/artist/2meesqiC5l9NfNShrgP8Hf), [Prince Jamba](https://open.spotify.com/artist/6RDhaAavmBlrZKUqJ8YvJy), [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Albadi Hood](https://open.spotify.com/album/287jjIzNyGO25bcSTYJBYx) | 3:21 | 2023-07-24 |  |
 | [Ankhon Ka Kasoor](https://open.spotify.com/track/2Qil9eFB9arcc6DxCCdvX0) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Mann Music](https://open.spotify.com/artist/7Itevk2MnbkjY8KqHyNhI7) | [Ankhon Ka Kasoor](https://open.spotify.com/album/0Tkivn2mOHK6sUPfhgtIpq) | 2:22 | 2023-05-09 | 2023-09-28 |
 | [Antidote](https://open.spotify.com/track/6VJIHzVA2VwW33fgTD0VXe) | [GP JI](https://open.spotify.com/artist/6ywjnb6yFBU9sEvF4onlX5) | [Antidote](https://open.spotify.com/album/2X9avJaTZEJ5uz8AKTubYp) | 3:01 | 2023-09-13 | 2023-10-07 |
@@ -77,6 +77,7 @@
 | [Jaat Warriors](https://open.spotify.com/track/6oWxnsiYG5bj2tqhDcdlRY) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warriors](https://open.spotify.com/album/0XMUkwivt9uRvZtVhrSk4J) | 2:43 | 2023-10-03 |  |
 | [JagPal](https://open.spotify.com/track/3VbmeN9oN1XK8xK8EtWjsE) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [JagPal](https://open.spotify.com/album/067lRvGEDxtt6MwMSJyhpk) | 2:23 | 2023-03-28 | 2023-07-12 |
 | [Jalya Na Karo](https://open.spotify.com/track/2ja8pqhYArF0DmH3JmrCRV) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Jalya Na Karo](https://open.spotify.com/album/2tFI8HNfDtsfses9rm7jQP) | 3:42 | 2023-03-28 | 2023-09-28 |
+| [Jat Clan](https://open.spotify.com/track/3rtxNJ7AOwcOXEbYvUznKy) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Yogi Aulakh](https://open.spotify.com/artist/5J2xmfWX1pR9OgoGb4Zuaz) | [Jat Clan](https://open.spotify.com/album/51MBb7ysU3Uzr3ASUVR3Kk) | 3:26 | 2023-11-22 |  |
 | [Jhotte](https://open.spotify.com/track/5AbkBdjwjALBd3h4rNgJeX) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Jhotte](https://open.spotify.com/album/0UCnUqid4KKnDXIlpwyy4U) | 3:37 | 2023-03-28 |  |
 | [Kaand](https://open.spotify.com/track/202W8cvVBBKZw9uEwTs0BC) | [Kabira](https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa) | [Kaand](https://open.spotify.com/album/1TZLTVAVHYPUsLwskjBHvs) | 3:06 | 2023-09-27 | 2023-11-11 |
 | [KALESHI CHORI](https://open.spotify.com/track/6FrihRowEuYfNehH0zcx0e) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [DARK HORSE](https://open.spotify.com/artist/4v9G79IPGEpwTbgB6TUUaY) | [KALESHI CHORI](https://open.spotify.com/album/0Hgw8x1UFcmeReCtxDW24U) | 3:31 | 2023-03-28 |  |

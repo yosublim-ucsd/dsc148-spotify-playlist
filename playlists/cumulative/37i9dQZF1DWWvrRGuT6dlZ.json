@@ -636,7 +636,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 228346,
       "name": "April",
       "url": "https://open.spotify.com/track/24QSZBkPrq8nP5jC8UsA01"
@@ -920,6 +920,24 @@
       "duration_ms": 173806,
       "name": "Before You Go",
       "url": "https://open.spotify.com/track/1YQSwCx7B6tYrE46rxrRHH"
+    },
+    {
+      "album": {
+        "name": "BEFRIENDS",
+        "url": "https://open.spotify.com/album/5Qx0vFFOZjekXe6yhkzH18"
+      },
+      "artists": [
+        {
+          "name": "Jordan Queka",
+          "url": "https://open.spotify.com/artist/3HedGQ0i6CJuYVmbuDIx3J"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144705,
+      "name": "BEFRIENDS",
+      "url": "https://open.spotify.com/track/0DmMmTcZUByyViYwb3vqfo"
     },
     {
       "album": {
@@ -1713,6 +1731,28 @@
     },
     {
       "album": {
+        "name": "CLOCKS",
+        "url": "https://open.spotify.com/album/4jb5yrzOJ0pDNjXtVGy41D"
+      },
+      "artists": [
+        {
+          "name": "Jazzmi",
+          "url": "https://open.spotify.com/artist/7KrcZwVhhtxpE1HdpTpdz4"
+        },
+        {
+          "name": "Tengku Hadhira",
+          "url": "https://open.spotify.com/artist/1hYVYkpJFZO2rpNFMFfokq"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213013,
+      "name": "CLOCKS",
+      "url": "https://open.spotify.com/track/56CKqn47hCTDrRGHNM1OfG"
+    },
+    {
+      "album": {
         "name": "Close Enough",
         "url": "https://open.spotify.com/album/63ZHJkXV6NuCdW3naAeSXL"
       },
@@ -2485,6 +2525,24 @@
     },
     {
       "album": {
+        "name": "This Is How",
+        "url": "https://open.spotify.com/album/1GWXjVllNp7xMcjtpWqsxq"
+      },
+      "artists": [
+        {
+          "name": "Jaden",
+          "url": "https://open.spotify.com/artist/5806DvaN9TVdiSFPyHjE2W"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207985,
+      "name": "Dirt",
+      "url": "https://open.spotify.com/track/47XTi3teSW9YbSqDk0NJun"
+    },
+    {
+      "album": {
         "name": "Disease",
         "url": "https://open.spotify.com/album/48gJ2lrYUCkEoeTCHovrdC"
       },
@@ -2836,7 +2894,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 241376,
       "name": "Effervescent - Behind Beatific Smiles",
       "url": "https://open.spotify.com/track/4o3ZoEkQx3zVCUNrxXC3P9"
@@ -5003,6 +5061,28 @@
     },
     {
       "album": {
+        "name": "BAKER GIRL",
+        "url": "https://open.spotify.com/album/1eYJ2HxcC3ARpsd3gfcbHo"
+      },
+      "artists": [
+        {
+          "name": "ki mi",
+          "url": "https://open.spotify.com/artist/4d39hDGApIZV3x5obwnVpZ"
+        },
+        {
+          "name": "ziqry",
+          "url": "https://open.spotify.com/artist/0RIhhREfyHbEO50mJZdpxf"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171789,
+      "name": "JULIE",
+      "url": "https://open.spotify.com/track/7IJu14eUOgwReY38GfZlgt"
+    },
+    {
+      "album": {
         "name": "Just Another Minute",
         "url": "https://open.spotify.com/album/4C6UwXY2vG00aX9u5wPIcI"
       },
@@ -5299,6 +5379,24 @@
     },
     {
       "album": {
+        "name": "Liberty",
+        "url": "https://open.spotify.com/album/6afypVfhhIm9GQxodC0bld"
+      },
+      "artists": [
+        {
+          "name": "Khodi",
+          "url": "https://open.spotify.com/artist/2e3lW79sSCTJmE9U5AcYFE"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118588,
+      "name": "Liberty",
+      "url": "https://open.spotify.com/track/2p5AGBhVOF6N4qe2dakE9Q"
+    },
+    {
+      "album": {
         "name": "Lie Again",
         "url": "https://open.spotify.com/album/4EGQoDOmr2zzM3KiRSTY1d"
       },
@@ -5314,6 +5412,24 @@
       "duration_ms": 154004,
       "name": "Lie Again",
       "url": "https://open.spotify.com/track/5ZlievcFzGJmblwONgfXFp"
+    },
+    {
+      "album": {
+        "name": "Lied To Me",
+        "url": "https://open.spotify.com/album/1ljMWgpw8QFQoRBAQsqJ1Q"
+      },
+      "artists": [
+        {
+          "name": "emmarae",
+          "url": "https://open.spotify.com/artist/1eF3L2mTZO8nLUihnoA3Lb"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167836,
+      "name": "Lied To Me",
+      "url": "https://open.spotify.com/track/4ciyesTxrw7CjLhmNV8PW3"
     },
     {
       "album": {
@@ -6158,7 +6274,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 142400,
       "name": "Misunderstood",
       "url": "https://open.spotify.com/track/35oiMCHGf1gwg1KBsy7StC"
@@ -6328,7 +6444,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 201642,
       "name": "Nadia",
       "url": "https://open.spotify.com/track/6QFiYCiXkIt7arRQYsopu9"
@@ -6885,6 +7001,32 @@
     },
     {
       "album": {
+        "name": "Only A Dream",
+        "url": "https://open.spotify.com/album/3mvWSYa3oVzHVXOXXIj2Xr"
+      },
+      "artists": [
+        {
+          "name": "SENNA",
+          "url": "https://open.spotify.com/artist/7y7JSh3skPdhrkXziDTTyL"
+        },
+        {
+          "name": "SonaOne",
+          "url": "https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z"
+        },
+        {
+          "name": "SYA",
+          "url": "https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Only A Dream",
+      "url": "https://open.spotify.com/track/6hzd92DBZ6ffLPvsDwasqo"
+    },
+    {
+      "album": {
         "name": "Only Friends",
         "url": "https://open.spotify.com/album/3MGxYib9VgMATad2oTXSky"
       },
@@ -6896,7 +7038,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 269000,
       "name": "Only Friends",
       "url": "https://open.spotify.com/track/0N8xr3fFwSSClWuoNifoYn"
@@ -6968,7 +7110,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 280000,
       "name": "Orion's Apartment",
       "url": "https://open.spotify.com/track/7vFwfPVcm6s2JfWvhL63AG"
@@ -7222,7 +7364,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 248785,
       "name": "patterns",
       "url": "https://open.spotify.com/track/3tDY2gPHumQcyQc98Rnno5"
@@ -7530,7 +7672,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 217764,
       "name": "Pull Thru",
       "url": "https://open.spotify.com/track/4zRjm49g6qewhPemdUUi0B"
@@ -7762,6 +7904,24 @@
       "duration_ms": 178285,
       "name": "Ride with Me",
       "url": "https://open.spotify.com/track/4RewDJvnH6EEmuJz2LNIEb"
+    },
+    {
+      "album": {
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/5zxw4GVFr7l5ykea8xYOzf"
+      },
+      "artists": [
+        {
+          "name": "Nic Chen",
+          "url": "https://open.spotify.com/artist/3eFoZdba7U7xbYlq780i8C"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183882,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/2dHHiS7eKd6hSxhe4HVaf1"
     },
     {
       "album": {
@@ -8808,7 +8968,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 207336,
       "name": "Stolen",
       "url": "https://open.spotify.com/track/1oSC81BQM0d2Wt3UgoG66Z"
@@ -9232,7 +9392,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 216000,
       "name": "Taxi Fare",
       "url": "https://open.spotify.com/track/62UTUM3McxWoeB3Zo3Abg7"
@@ -9290,7 +9450,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 200454,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6SDOo7eSMVc1DjvXvakhO2"
@@ -10432,7 +10592,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 232274,
       "name": "WANTITALL",
       "url": "https://open.spotify.com/track/20FtCKO56eHvkSdTOkDEMU"

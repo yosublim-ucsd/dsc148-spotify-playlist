@@ -718,7 +718,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 178885,
       "name": "Alo Aleky",
       "url": "https://open.spotify.com/track/0St4yTM6hCeEmguD3Orcrt"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-04",
+      "date_removed": null,
       "duration_ms": 178885,
       "name": "Alo Aleky",
       "url": "https://open.spotify.com/track/0zzrAsIPYKENTWOwZqYjYp"
@@ -2624,7 +2624,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 172263,
       "name": "Diva",
       "url": "https://open.spotify.com/track/45IUYdyKVvCpS7qKykpUpL"
@@ -4394,7 +4394,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 200930,
       "name": "Hatwhashna",
       "url": "https://open.spotify.com/track/3gAYSjeXZ5XbicBFX5G0Ya"
@@ -5382,10 +5382,28 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 169732,
       "name": "Konty 2olely",
       "url": "https://open.spotify.com/track/2BU20kapQkv88hspupjv1V"
+    },
+    {
+      "album": {
+        "name": "Konty Olely",
+        "url": "https://open.spotify.com/album/6drsdm3aNhB40RlKxPjekI"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169732,
+      "name": "Konty Olely",
+      "url": "https://open.spotify.com/track/2BMlZ6PzoAU90qm8yIGWMK"
     },
     {
       "album": {
@@ -10894,7 +10912,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-23",
+      "date_removed": null,
       "duration_ms": 148000,
       "name": "Wahshteeny",
       "url": "https://open.spotify.com/track/1a92SdpdJ77U1sjEOOi5OC"
@@ -13750,7 +13768,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 212000,
       "name": "\u0644\u064a\u0644\u0649 - \u0643\u0627\u064a\u0631\u0648\u0643\u064a \u0645\u0646 \u0627\u0644\u0627\u0633\u062a\u0648\u062f\u064a\u0648",
       "url": "https://open.spotify.com/track/5JtRiVuQRKqoEfueP1FVvU"

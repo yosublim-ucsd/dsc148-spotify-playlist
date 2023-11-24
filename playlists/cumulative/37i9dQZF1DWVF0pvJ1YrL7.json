@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Warhammer 40,000: Darktide (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3Ie6KjbPXKiCTFiEAxNBO0"
+      },
+      "artists": [
+        {
+          "name": "Jesper Kyd",
+          "url": "https://open.spotify.com/artist/3m6alJyeKYSCZ8078ttfaH"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213226,
+      "name": "Disposal Unit (Imperium Mix)",
+      "url": "https://open.spotify.com/track/2BPvUFVjoIphztzsnHJTi2"
+    },
+    {
+      "album": {
         "name": "Dub Protection & The Sportswear Mystics",
         "url": "https://open.spotify.com/album/3Aiy2F3rmjJvgEmbOyDf3e"
       },
@@ -904,6 +922,24 @@
       "duration_ms": 356813,
       "name": "F7",
       "url": "https://open.spotify.com/track/3s8PqUjMSpcJkfPdb2Fucf"
+    },
+    {
+      "album": {
+        "name": "Phocus",
+        "url": "https://open.spotify.com/album/7uQddY2cwsWdH6Oc0uhbwg"
+      },
+      "artists": [
+        {
+          "name": "VHS Head",
+          "url": "https://open.spotify.com/artist/4yeeydDo3JBOENa72J7KdV"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239748,
+      "name": "Fake Sweat",
+      "url": "https://open.spotify.com/track/4Htt6eBXW3Kwby7r81FldQ"
     },
     {
       "album": {
@@ -2008,7 +2044,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 202066,
       "name": "New Planet",
       "url": "https://open.spotify.com/track/1oU8JXQGiir9KBnmC46qX8"
@@ -2334,6 +2370,28 @@
       "duration_ms": 188000,
       "name": "Panspermia",
       "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
+    },
+    {
+      "album": {
+        "name": "Patterns",
+        "url": "https://open.spotify.com/album/5VF24DhApN026eJJMMWrW6"
+      },
+      "artists": [
+        {
+          "name": "Just Bee",
+          "url": "https://open.spotify.com/artist/1bd502sofLQ6fHDPnU5JPx"
+        },
+        {
+          "name": "David Boring",
+          "url": "https://open.spotify.com/artist/3jlBKVMzOyLuwLWxkkiwKj"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231093,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/7hP1frR53QoyVsDnlypOdm"
     },
     {
       "album": {
@@ -3334,7 +3392,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 207232,
       "name": "Unfinished Business",
       "url": "https://open.spotify.com/track/7xB6q501pjADLOIBO55NPp"
@@ -3520,7 +3578,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 204000,
       "name": "Valve",
       "url": "https://open.spotify.com/track/5fkcStZXAKDbJRqZLbJhXJ"

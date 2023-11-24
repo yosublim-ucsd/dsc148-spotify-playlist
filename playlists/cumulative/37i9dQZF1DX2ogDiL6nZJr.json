@@ -788,7 +788,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 202361,
       "name": "Breach",
       "url": "https://open.spotify.com/track/04CmffXO0izW3hyshf25Zj"
@@ -4300,6 +4300,24 @@
       "duration_ms": 200466,
       "name": "Sink In",
       "url": "https://open.spotify.com/track/3cFdJIGdexTsNGuzKfsBV2"
+    },
+    {
+      "album": {
+        "name": "Permanent Way",
+        "url": "https://open.spotify.com/album/2J69Mui7i12K8FNQDDKA9p"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200466,
+      "name": "Sink In",
+      "url": "https://open.spotify.com/track/4mGjKDAKUCovYA1Zzwwlu8"
     },
     {
       "album": {

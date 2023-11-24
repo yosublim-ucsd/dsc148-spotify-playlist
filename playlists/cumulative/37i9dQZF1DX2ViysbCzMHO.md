@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-269 songs - 14 hr 38 min
+270 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Long Time Comin'](https://open.spotify.com/track/5xMxyWRoe37nUlHDk72cSW) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 3:14 | 2021-12-17 | 2022-04-16 |
 | [Love Like I Drink](https://open.spotify.com/track/3w4Lrrr2Gz5TidpwCzhgCR) | [Carter Winter](https://open.spotify.com/artist/2X2dVMgMz4cx8bMwwK6rL3), [Allie Colleen](https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas) | [Love Like I Drink](https://open.spotify.com/album/4HQicLU4xhAT21zfVgVEfl) | 3:15 | 2023-05-19 |  |
 | [Love Like I Drink](https://open.spotify.com/track/6T9waTBwi2sLjXP7TCbM65) | [Carter Winter](https://open.spotify.com/artist/2X2dVMgMz4cx8bMwwK6rL3), [Allie Colleen](https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas) | [Love Like I Drink](https://open.spotify.com/album/24iBC56uoPOCzQVXGupwcH) | 3:15 | 2021-12-17 | 2023-05-18 |
-| [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/track/3nigSojrGL9YcS9RIt8X8U) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/album/75jOuaznH9JpfkrKLt6AmG) | 2:40 | 2023-04-21 |  |
+| [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/track/3nigSojrGL9YcS9RIt8X8U) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/album/75jOuaznH9JpfkrKLt6AmG) | 2:40 | 2023-04-21 | 2023-11-24 |
 | [Love Makes You Blind \- Acoustic Version](https://open.spotify.com/track/2tZxQEeCnDbFfRrquFa6il) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/album/528xcQWw4mL4gYTvHBBNwo) | 2:40 | 2022-02-18 | 2022-10-22 |
 | [Love You a Little Bit \- Acoustic](https://open.spotify.com/track/3US6yXTKKSH0NDTnfNCK13) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY STRIPPED](https://open.spotify.com/album/6NhhLm0vF7Wc4CLMBXpov7) | 3:34 | 2023-10-06 | 2023-10-23 |
 | [Love You Again \- Hey World Sessions](https://open.spotify.com/track/6s9H533OuVIPhQ4dMeZ0Zd) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Love You Again \(Hey World Sessions\)](https://open.spotify.com/album/5nWaaNIGhziGIB8T73Rkgx) | 2:57 | 2023-10-27 |  |
@@ -210,6 +210,7 @@
 | [Stuck in the Middle \- Acoustic](https://open.spotify.com/track/3oTUHoKnvwUriIGbCMFLbR) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Stuck in the Middle \(Acoustic\)](https://open.spotify.com/album/4f8I37V45M7DXWiPoQKBFd) | 2:36 | 2022-07-08 | 2022-07-10 |
 | [Sunrise Tells The Story \- Acoustic](https://open.spotify.com/track/4IXILY7BOCehZjc5axsn1C) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Sunrise Tells The Story \(Acoustic\)](https://open.spotify.com/album/5jrgfI0K2Z8jllFP84V40z) | 3:25 | 2022-01-14 | 2023-04-16 |
 | [Take It Slow \- Acoustic](https://open.spotify.com/track/5JTGEkYHojEAd0ODBAE1qo) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk), [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Take It Slow \(Acoustic\)](https://open.spotify.com/album/2Obkgz1PdZMe3CouNqslwU) | 2:33 | 2022-09-16 |  |
+| [Take My Name \(Wedding Version\)](https://open.spotify.com/track/5Pe59NlkY1rYND0I1wqgv6) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Take My Name \(Wedding Version\)](https://open.spotify.com/album/2gGSvwn3wS3drhrN07fnSC) | 2:54 | 2023-11-10 |  |
 | [Take My Name \- Wedding Version](https://open.spotify.com/track/3fWwTqV6vGnXdAFxVoKKZP) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Take My Name \(Wedding Version\)](https://open.spotify.com/album/6JrC6cQOLVPI2HEykKjk9Z) | 2:54 | 2022-05-20 | 2023-11-05 |
 | [Tell You Everything \- Not Put Together](https://open.spotify.com/track/3cbc8QVHpx4gSHAXNbXPRc) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [The I’m Not Always Put Together EP](https://open.spotify.com/album/4cCjYpkMsvEVpw5kLBlugQ) | 3:08 | 2022-01-07 |  |
 | [Thank God We Broke Up \- Acoustic](https://open.spotify.com/track/3RJIISr228jsDUnhEDRp5S) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Thank God We Broke Up \(Acoustic\)](https://open.spotify.com/album/2X2MMSk8fG4LRmEKy4dyNp) | 2:35 | 2022-06-03 | 2022-07-29 |

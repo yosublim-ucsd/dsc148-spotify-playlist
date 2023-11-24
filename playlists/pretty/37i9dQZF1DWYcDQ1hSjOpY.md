@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,886,489 likes - 338 songs - 16 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,886,646 likes - 338 songs - 16 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,7 +309,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 299 | [Cynefin](https://open.spotify.com/track/1C9e2HhO9qpMYl1FYg5yBZ) | [Chieloka](https://open.spotify.com/artist/3IBhxjT8AiBiz7DpMUEjEj) | [Cynefin](https://open.spotify.com/album/1GeP88hFXR90DgXtU860ov) | 3:23 |
 | 300 | [Vaikne](https://open.spotify.com/track/2vu8kAPw2W0gVKrK68YR5P) | [Eyla Calmes](https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X) | [Vaikne](https://open.spotify.com/album/0iej0wwEJwhbKyUlYEhv5F) | 2:58 |
 | 301 | [Inner Journey](https://open.spotify.com/track/4w3i820SHA0fOpqmtyAPFu) | [Chopade](https://open.spotify.com/artist/4l026BCC3zvPlM1ByCfPgv) | [Inner Journey](https://open.spotify.com/album/3eZwNjKK21LjFeqNqHj33I) | 3:42 |
-| 302 | [Pharīthī](https://open.spotify.com/track/6FAg23nCoYoNOpV7QXc3nb) | [Sami Muni](https://open.spotify.com/artist/2s6Fglo2Tu3BBUFr5Ihcq9) | [Pharīthī](https://open.spotify.com/album/18Wd2srZXYBVVGpUBUqPof) | 2:08 |
+| 302 | [Pharīthī](https://open.spotify.com/track/6FAg23nCoYoNOpV7QXc3nb) | [Sami Muni](https://open.spotify.com/artist/14ysBEpCMcW4sV0CWhiPRe) | [Pharīthī](https://open.spotify.com/album/18Wd2srZXYBVVGpUBUqPof) | 2:08 |
 | 303 | [Stimmung](https://open.spotify.com/track/6mmma8gbZNJcTkG40Nr2vx) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Stimmung](https://open.spotify.com/album/03M9YKu5qpJzxxPKx076fA) | 2:18 |
 | 304 | [Anatomy of Change](https://open.spotify.com/track/1kh6iEcYhNL6jbMr5BVEVG) | [Oto Roth](https://open.spotify.com/artist/0tpBeC4HolBI7fkc5omALQ) | [Anatomy of Change](https://open.spotify.com/album/4MrcKyzpC5XEr21ut3bH69) | 2:24 |
 | 305 | [Bylgjur](https://open.spotify.com/track/1QcZEkKC9yLrt4EWIWVHWS) | [Einingu](https://open.spotify.com/artist/0fiP3M4LPNPJxvfTDizIbw) | [Bylgjur](https://open.spotify.com/album/1I3CUE1uQHtGSA5yVdQbTL) | 2:21 |
@@ -347,4 +347,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 337 | [A Waiting](https://open.spotify.com/track/6eua7DXiCZaYulrVuPI3i7) | [Even Massi](https://open.spotify.com/artist/2u7J0lL8WdlZBR6SqfyGFb) | [Delusion](https://open.spotify.com/album/2ucuXJp8Ym5wSuV6BJJcDX) | 2:13 |
 | 338 | [Deep Dive](https://open.spotify.com/track/5XpGnwCqMlGFi1x4YdlKFE) | [Ambienetic](https://open.spotify.com/artist/68sYM79L5H6v9c3x6IC0XD) | [Deep Dive](https://open.spotify.com/album/5QAkFwDV1ZSsxC1XyVu0sG) | 2:41 |
 
-Snapshot ID: `MCxiZjI5NGQ4NGJlZTY2MTI0NTEzMzdjMzkxYjE3ODI2N2E2MzUwZWU3`
+Snapshot ID: `MCw5MDY3YTlmNDA5NzhhMjkwNDAyMDMwYWIyZmZlYzdlMGEzMTQxOTQw`

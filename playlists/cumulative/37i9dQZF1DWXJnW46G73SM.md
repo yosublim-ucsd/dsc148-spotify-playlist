@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7?si=3qmWiryeQw2ebI\-jOFrEVA"> بهاء سلطان </a>
 
-686 songs - 1 day 14 hr 50 min
+687 songs - 1 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [Haifa Wahby](https://open.spotify.com/track/3bKEBZ4UyMerreiZdEGN4Y) | [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm) | [Haifa Wahby](https://open.spotify.com/album/5dm5CtYPtjzZ4Nc8kHSmTv) | 2:47 | 2023-07-20 | 2023-08-12 |
 | [Hala Beek Ya Medala3](https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Hala Beek Ya Medala3](https://open.spotify.com/album/1aawCrlstBcEGwCpWIaXS6) | 2:47 | 2023-08-07 | 2023-10-11 |
 | [Hala Nafseya](https://open.spotify.com/track/5SXqHZTMpymarvsycHICkf) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Hala Nafseya](https://open.spotify.com/album/6UFbFT90oWax76tyfaV9pk) | 3:00 | 2023-08-10 | 2023-09-22 |
-| [HALALALA](https://open.spotify.com/track/5g2tPXJqnhk1BENvESowkS) | [Jad Shwery](https://open.spotify.com/artist/7MIbUZk7surpxzk94CoeMV) | [HALALALA](https://open.spotify.com/album/17dLwF538qoLMT8v2T1OBc) | 2:30 | 2023-08-23 |  |
+| [HALALALA](https://open.spotify.com/track/5g2tPXJqnhk1BENvESowkS) | [Jad Shwery](https://open.spotify.com/artist/7MIbUZk7surpxzk94CoeMV) | [HALALALA](https://open.spotify.com/album/17dLwF538qoLMT8v2T1OBc) | 2:30 | 2023-08-23 | 2023-11-24 |
 | [Halo](https://open.spotify.com/track/0mQUJSauS5hrMJuoTGqmGe) | [Neveen Ragab](https://open.spotify.com/artist/2Jm92HVUNKUHiVytpozUvT) | [Halo](https://open.spotify.com/album/3GgcE4HqgTP4IDaNJ08z1j) | 3:43 | 2023-03-07 | 2023-05-09 |
 | [Hamoot Men Gherha](https://open.spotify.com/track/2W4rmDnrHNGqT2xlsjmEWX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hamoot Men Gherha](https://open.spotify.com/album/5QLOcBX3uhpTCzmHJl1Oze) | 3:31 | 2021-12-23 | 2022-02-17 |
 | [Hanetabel](https://open.spotify.com/track/5ytdOKZA6wkA6eS7rnDB4p) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Hanetabel](https://open.spotify.com/album/1DK0H8a3CkT6858LBzYURD) | 4:11 | 2023-06-01 | 2023-07-14 |
@@ -523,6 +523,7 @@
 | [اقوي من جرحك](https://open.spotify.com/track/7t8u3kc3aq5SKHRUhcmCYG) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [يا عالمي](https://open.spotify.com/album/5oMj9SZJZAh9JEn1qoqxt0) | 4:25 | 2023-08-03 | 2023-09-22 |
 | [البصة](https://open.spotify.com/track/4kF2FhSmkI8rN3a6OvxThx) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [البصة](https://open.spotify.com/album/5aUdP64reXtlbe21tlu8B6) | 3:13 | 2023-06-01 | 2023-07-14 |
 | [البيت وحش \- من فيلم جروب الماميز](https://open.spotify.com/track/0xywthPv9nCu6lgpU5nMcA) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [البيت وحش \(من فيلم جروب الماميز\)](https://open.spotify.com/album/0N1HRZtaCWRl2vfKE7FJDx) | 2:56 | 2023-02-09 | 2023-03-21 |
+| [الجدعنه](https://open.spotify.com/track/45pq6F78VuQ4niCJXRFbHu) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc), [احمد سعد](https://open.spotify.com/artist/0ONMTwxxQh5MJoIcTN3xld) | [الجدعنه](https://open.spotify.com/album/0kEBjzI9r6jDtMCUd0TgTg) | 5:30 | 2023-11-23 |  |
 | [الجو ولع](https://open.spotify.com/track/0vzm1POq1H0JVHwSOaufio) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [الجو ولع](https://open.spotify.com/album/4fI2rUMGuMonjwntO2YgUW) | 3:34 | 2023-06-27 | 2023-07-28 |
 | [الحب](https://open.spotify.com/track/0EM7yBpi3yoA5Vf6HVScgP) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [الحب](https://open.spotify.com/album/4FDzVLy4DtsuetAHROxJFm) | 3:24 | 2023-06-14 | 2023-07-20 |
 | [الحنين والمعلم](https://open.spotify.com/track/4fcFD3cOSNnyDs1GH97rQS) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [الحنين والمعلم](https://open.spotify.com/album/4UuqcNEutgvA1kKMmh6uye) | 2:33 | 2023-05-11 | 2023-06-30 |

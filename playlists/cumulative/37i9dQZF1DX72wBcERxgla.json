@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "A Thought Of You",
+        "url": "https://open.spotify.com/album/0HVBnMRkRn2xnpQ4CLph4z"
+      },
+      "artists": [
+        {
+          "name": "Millie Blue",
+          "url": "https://open.spotify.com/artist/3Z6Jby1DnvCKJMkHjrwg5P"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148872,
+      "name": "A Thought Of You",
+      "url": "https://open.spotify.com/track/2RtX44bwJapdvlQ4BaxyJr"
+    },
+    {
+      "album": {
         "name": "A Time For Love",
         "url": "https://open.spotify.com/album/41mr23Qo6KR4QmvlJEcJPA"
       },
@@ -3965,6 +3983,24 @@
     },
     {
       "album": {
+        "name": "Love's Journey",
+        "url": "https://open.spotify.com/album/4NKmB7swj6Fsg2xF2QIE1h"
+      },
+      "artists": [
+        {
+          "name": "Harry Reed",
+          "url": "https://open.spotify.com/artist/1PFJCooFyvogVUkv1abGgu"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Love's Journey",
+      "url": "https://open.spotify.com/track/1iTgYDHG7NvHmPr7uBegFL"
+    },
+    {
+      "album": {
         "name": "Lovely Day",
         "url": "https://open.spotify.com/album/2AXd3f8LGtKWHQGcvIeoQK"
       },
@@ -7673,6 +7709,24 @@
     },
     {
       "album": {
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/6Iq2usdsUcLgrTBd2cDdOW"
+      },
+      "artists": [
+        {
+          "name": "Mason Olsen",
+          "url": "https://open.spotify.com/artist/6wYWUf5SSJPtK0XAOjPgET"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155069,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/3QF1JAkRF11UY4k64dtQUD"
+    },
+    {
+      "album": {
         "name": "You Are Too Beautiful",
         "url": "https://open.spotify.com/album/2uG5Jnbvge8kWBxar1TTad"
       },
@@ -7792,7 +7846,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 210581,
       "name": "you must believe in spring",
       "url": "https://open.spotify.com/track/4PfwJAIyn4509emIeIHkGs"

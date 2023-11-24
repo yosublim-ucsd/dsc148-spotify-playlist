@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN?si=rQyegiqmQySZXcK-yI8rEQ\">Caleb Awiti</a>",
+  "description": "Join the global ampiano movement with tracks and artists pushing amapiano on the global stage. Cover: <a href=\"https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh?si=LE_AWnYITxmEyJm2j-RCpQ\">Davido</a>",
   "name": "Amapiano to the World",
   "tracks": [
     {
@@ -446,6 +446,36 @@
       "duration_ms": 134482,
       "name": "Basquiat",
       "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
+    },
+    {
+      "album": {
+        "name": "VIBES GOT NO BORDERS Vol. 1",
+        "url": "https://open.spotify.com/album/1cIQ09uYElQ8c3z8Bbstky"
+      },
+      "artists": [
+        {
+          "name": "Jeune Lio",
+          "url": "https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF"
+        },
+        {
+          "name": "LON\u00cfE",
+          "url": "https://open.spotify.com/artist/26HGTzqKW72SATYQ4YmBcl"
+        },
+        {
+          "name": "Tino Sax",
+          "url": "https://open.spotify.com/artist/1stC5QrkV3FfTh1cS7MAwE"
+        },
+        {
+          "name": "Jahelle Bonee",
+          "url": "https://open.spotify.com/artist/5airoIwqvtssUHBcSXkYYT"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361061,
+      "name": "Bassam, 12PM",
+      "url": "https://open.spotify.com/track/4nIvqi1dzOw3k7bIkCFxpm"
     },
     {
       "album": {
@@ -1119,6 +1149,24 @@
     },
     {
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154512,
+      "name": "FEEL",
+      "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
+    },
+    {
+      "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/3SYYiw2TfVVlau3XAu5NHG"
       },
@@ -1196,7 +1244,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 265714,
       "name": "Gas City",
       "url": "https://open.spotify.com/track/6BplH7R9tKDPu0lVqxGPk7"
@@ -1438,6 +1486,28 @@
       "duration_ms": 198260,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1JK4yUEI1kLQKw424MYoSD"
+    },
+    {
+      "album": {
+        "name": "Hillary Remix (feat. Pabi Cooper)",
+        "url": "https://open.spotify.com/album/53Cs8CxbqCXKA4fan2XSLH"
+      },
+      "artists": [
+        {
+          "name": "Noon Dave",
+          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
+        },
+        {
+          "name": "Pabi Cooper",
+          "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174953,
+      "name": "Hillary Remix (feat. Pabi Cooper)",
+      "url": "https://open.spotify.com/track/2ff14gUetkeu5ybyyPQbOt"
     },
     {
       "album": {
@@ -2281,6 +2351,28 @@
     },
     {
       "album": {
+        "name": "Mambo",
+        "url": "https://open.spotify.com/album/0TyIDqKomocrUepDK60JsZ"
+      },
+      "artists": [
+        {
+          "name": "DJ P2N",
+          "url": "https://open.spotify.com/artist/6JNbpPDLC00W4j3MghVxFN"
+        },
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274868,
+      "name": "Muziko (Remix)",
+      "url": "https://open.spotify.com/track/0myEyvPyNgmMwVTHkWlXwX"
+    },
+    {
+      "album": {
         "name": "Mystery Lady (Scorpion Kings Remix)",
         "url": "https://open.spotify.com/album/4VGeapArZuyjTw7rcIXjmi"
       },
@@ -2448,6 +2540,28 @@
       "duration_ms": 195398,
       "name": "NNEKA (feat. Tekno)",
       "url": "https://open.spotify.com/track/0mYgEZ0CNnEAGBKpxD1fgv"
+    },
+    {
+      "album": {
+        "name": "G\u00e9n\u00e9rations Street",
+        "url": "https://open.spotify.com/album/7qqqHNJa7ILpXnMWjoeXvd"
+      },
+      "artists": [
+        {
+          "name": "Harley",
+          "url": "https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5"
+        },
+        {
+          "name": "G\u00e9n\u00e9rations",
+          "url": "https://open.spotify.com/artist/4oaKWkUkOcOROIPCyBuAod"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129306,
+      "name": "No Collab",
+      "url": "https://open.spotify.com/track/63cRmhV8qvWbpwiEmEp19g"
     },
     {
       "album": {
@@ -2977,6 +3091,32 @@
     },
     {
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231109,
+      "name": "Sensational (feat. Davido & Lojay)",
+      "url": "https://open.spotify.com/track/44G2gUVQvNNZ6w3i05tR4n"
+    },
+    {
+      "album": {
         "name": "Khan",
         "url": "https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO"
       },
@@ -3441,6 +3581,28 @@
     },
     {
       "album": {
+        "name": "VACAY",
+        "url": "https://open.spotify.com/album/67BkeBWZnt6sPINQg9J4Nl"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Kamo Mphela",
+          "url": "https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197389,
+      "name": "VACAY",
+      "url": "https://open.spotify.com/track/6IYWAQtBQ2sDGd0eXmnah4"
+    },
+    {
+      "album": {
         "name": "Wa Kula (Zacaria)",
         "url": "https://open.spotify.com/album/7xQGp5Epz5G2ESwOORmiHh"
       },
@@ -3792,6 +3954,32 @@
       "duration_ms": 161111,
       "name": "Yo Fam!",
       "url": "https://open.spotify.com/track/3bo6O0oUgrE3V2wqdzQKuE"
+    },
+    {
+      "album": {
+        "name": "You're Hired (feat. Ayra Starr) [Legendury Beatz Remix]",
+        "url": "https://open.spotify.com/album/0B3ZuzcrBsPWRkGkm5zZ2C"
+      },
+      "artists": [
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Legendury Beatz",
+          "url": "https://open.spotify.com/artist/69S8nrijE7Lyfac3X8iv8M"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197826,
+      "name": "You're Hired (feat. Ayra Starr) - Legendury Beatz Remix",
+      "url": "https://open.spotify.com/track/5i16HfVleOCQPwDnvUlnyl"
     },
     {
       "album": {

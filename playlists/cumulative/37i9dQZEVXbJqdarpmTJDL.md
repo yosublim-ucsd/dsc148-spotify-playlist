@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,347 songs - 2 day 23 hr 56 min
+1,348 songs - 3 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [Funeral](https://open.spotify.com/track/6KdpZnQirNMGfV7Y4LIwuf) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Chico Beatz](https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY) | [Funeral](https://open.spotify.com/album/1NKzUXndcjJsD4KHUuv8NT) | 3:53 | 2021-10-23 | 2021-10-31 |
 | [Funeral](https://open.spotify.com/track/6LxUxssRORxjir61cJadlt) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Chico Beatz](https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY) | [Prometheus](https://open.spotify.com/album/5gBnMPbN5lduEZZU22lQ1W) | 3:53 | 2021-10-31 | 2022-01-15 |
 | [Funky](https://open.spotify.com/track/45tKbJjhOIrURcjLNfjLye) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Display](https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28) | [Funky](https://open.spotify.com/album/469ap8yEmPY7sRdzZjSuJ8) | 4:15 | 2021-07-11 | 2022-01-23 |
+| [Fyge \- Reworks](https://open.spotify.com/track/3Ooy6ekh20PiZPWW4qSUSY) | [Haris Alexiou](https://open.spotify.com/artist/4cgCxnsmy9kDcl3oA2BYRY), [LEX](https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1) | [Reworks](https://open.spotify.com/album/4DshbpqruJFwXsHF1QiFdF) | 3:51 | 2023-11-23 |  |
 | [G Walk](https://open.spotify.com/track/0cOGWQcGaMe5HsGO9AEw25) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [G Walk](https://open.spotify.com/album/7GVxDeeFP1rDvu47uaYeIb) | 2:54 | 2022-10-21 | 2023-02-20 |
 | [G Walk](https://open.spotify.com/track/73K6ImdHp46q6BfNXBi2MQ) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Traplife](https://open.spotify.com/album/3nTsR92xyAHjKmlz7xNAT3) | 2:54 | 2023-04-29 | 2023-05-03 |
 | [G63](https://open.spotify.com/track/0WvuEJoLBHWUiDg2lsvYH8) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy) | [G63](https://open.spotify.com/album/3KGGiWYENInpJNNaTdSqPT) | 3:24 | 2023-10-13 | 2023-11-12 |
@@ -1310,7 +1311,7 @@
 | [What’s Crackin \(feat\. Takeoff\)](https://open.spotify.com/track/1jbXYNuBFgN0BiNRO2cGov) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:57 | 2021-07-18 | 2021-07-19 |
 | [WHO SHOT YA](https://open.spotify.com/track/7ggKqkQ5niEP8HHkBkalOt) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [WHO SHOT YA](https://open.spotify.com/album/4Id64rMrhI3bBrR39Q8dzr) | 2:41 | 2022-03-18 | 2022-04-03 |
 | [WHO YOU?](https://open.spotify.com/track/1sUJwKbP3Ci9nXeWKID9lc) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [WHO YOU?](https://open.spotify.com/album/4lWvqIPlyxtlYnjATYx4Q3) | 3:01 | 2022-11-26 | 2022-12-03 |
-| [WHO'S NEXT](https://open.spotify.com/track/3ZuF0xpOCCxip47EX4zOmu) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [WHO'S NEXT](https://open.spotify.com/album/1uNMqBsEKwarudlgq75JE2) | 2:25 | 2023-11-04 |  |
+| [WHO'S NEXT](https://open.spotify.com/track/3ZuF0xpOCCxip47EX4zOmu) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [WHO'S NEXT](https://open.spotify.com/album/1uNMqBsEKwarudlgq75JE2) | 2:25 | 2023-11-04 | 2023-11-24 |
 | [Whoopty](https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Loyalty Over Royalty](https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G) | 2:03 | 2021-03-27\* | 2021-05-06 |
 | [Willie Wonka](https://open.spotify.com/track/65E5pMq4njVePLPorQnolb) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Koas](https://open.spotify.com/artist/0tkAO7XjyXcLahiHPTtfqW), [Ortiz](https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR), [Savv](https://open.spotify.com/artist/0OFppp8Z3TaehuqGoC6BD1) | [Kentrodytika](https://open.spotify.com/album/5Bu0bh5LUjTmJjJXffLEMS) | 3:10 | 2021-07-15 | 2021-07-16 |
 | [WKEANOUS](https://open.spotify.com/track/4R2e2aZ1oHB2kZkJTKJtCY) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [WKEANOUS](https://open.spotify.com/album/3ozfHeYk4S4aV11Czfc4Ul) | 2:30 | 2023-07-25 |  |

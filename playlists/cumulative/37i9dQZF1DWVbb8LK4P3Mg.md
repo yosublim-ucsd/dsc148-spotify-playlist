@@ -4,7 +4,7 @@
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists\. \(Cover: DeVita\)
 
-185 songs - 10 hr 55 min
+186 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [One More Christmas \- English Version](https://open.spotify.com/track/0RhSRYfO6hV3MknwZXqfqI) | [Jessica](https://open.spotify.com/artist/1htfe3DR9bbdOq0NeCIE2W) | [One More Christmas](https://open.spotify.com/album/7HtVuZLHiklL7oREgMht8d) | 3:32 | 2021-12-21 | 2022-07-29 |
 | [One More Christmas \- English Version](https://open.spotify.com/track/4WZLM2PrAUoGdPkQajUBkC) | [Jessica](https://open.spotify.com/artist/7jPVuaaHLs4QVSuN561jZt) | [One More Christmas](https://open.spotify.com/album/3lPMJJ43ldTBxyH7chPGsp) | 3:32 | 2021-12-21 |  |
 | [Our Christmas](https://open.spotify.com/track/2WDVWdP70Qnns3npkhFifx) | [Kylie](https://open.spotify.com/artist/27RtTaeXQFUQDLv0END7m2) | [Our Christmas](https://open.spotify.com/album/7gLFBDqORHLD8wZrTSQdih) | 3:36 | 2021-12-21 | 2023-09-27 |
+| [Perfect Night \(Holiday Remix\)](https://open.spotify.com/track/40CJrEAyXS8qe0BBFbYbJO) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night \(Holiday Remix\)](https://open.spotify.com/album/0YaaIvxu7OH0OxUSnM9WFH) | 2:42 | 2023-11-23 |  |
 | [PRESENT](https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [The Present](https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j) | 3:42 | 2022-12-23 |  |
 | [Santa For You](https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [Santa For You](https://open.spotify.com/album/7zmo5Zl70iQSjpgJ2jnJSI) | 3:17 | 2021-12-21 |  |
 | [Santa is Busy](https://open.spotify.com/track/36WLp4oVkESgTBCaR3eiaz) | [The Barberettes](https://open.spotify.com/artist/6dZBjKEpZkglz4Xq5ni0eZ), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [Santa is Busy](https://open.spotify.com/album/3Klxv71LYDsMhQ7wiAbzJF) | 3:34 | 2021-12-21 | 2022-07-29 |
@@ -158,7 +159,7 @@
 | [This Is Your Winter Song](https://open.spotify.com/track/5y7C6vS8d8IjAKZkeTrMRT) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [This Is Your Winter Song](https://open.spotify.com/album/5WWvltjF8gA414aWghDCsy) | 2:44 | 2022-11-23 | 2023-11-22 |
 | [Today and other days \(Feat\. Eily\)](https://open.spotify.com/track/6sBImae6DAAo4vRbHLSgtH) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Eily](https://open.spotify.com/artist/5z23iI1nouNyp7f7HtK005) | [cozy christmas](https://open.spotify.com/album/4gWvzWguilrxXcvU7M9fLH) | 2:03 | 2021-12-21 | 2023-11-07 |
 | [Together Forever!](https://open.spotify.com/track/2n3AfIeXctZeS36akV2mau) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [Together Forever!](https://open.spotify.com/album/3KgPkSxdx8Mj85lkS5l08u) | 4:20 | 2023-01-10 | 2023-10-01 |
-| [Warm wishes on christmas](https://open.spotify.com/track/0w5rkWapNdWfyCbXT8j3cS) | [Beer](https://open.spotify.com/artist/4LAx3JeKnwmbA97OOf4MS2) | [home party](https://open.spotify.com/album/4e3LtVVogcBvfdiaKHIPv0) | 1:46 | 2022-12-09 |  |
+| [Warm wishes on christmas](https://open.spotify.com/track/0w5rkWapNdWfyCbXT8j3cS) | [Beer](https://open.spotify.com/artist/4LAx3JeKnwmbA97OOf4MS2) | [home party](https://open.spotify.com/album/4e3LtVVogcBvfdiaKHIPv0) | 1:46 | 2022-12-09 | 2023-11-24 |
 | [Warm wishes on christmas](https://open.spotify.com/track/1lzqz6Ac9YYAqfYo8076iU) | [Beer](https://open.spotify.com/artist/4LAx3JeKnwmbA97OOf4MS2) | [home party](https://open.spotify.com/album/1W7ehCzsS567jcOlWr9Mdi) | 1:46 | 2021-12-21 | 2022-12-03 |
 | [welove Christmas](https://open.spotify.com/track/4lw7EB0UFAeK0FJHndNOeM) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [WELOVE](https://open.spotify.com/artist/0NBHZ2ja7ejAMkL77afYGI) | [welove Christmas](https://open.spotify.com/album/2ENjIrBqMnvvcuyb8yIEKS) | 2:45 | 2021-12-21 |  |
 | [What I Want For Christmas](https://open.spotify.com/track/1f8y9dfpCSBW7BJRfOjop7) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [For Life \- Winter Special Album, 2016](https://open.spotify.com/album/2c0FB7FpgF1ORH5k5w32Ft) | 3:22 | 2021-12-21 | 2022-07-29 |

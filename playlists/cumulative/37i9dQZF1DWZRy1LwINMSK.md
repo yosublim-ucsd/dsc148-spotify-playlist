@@ -4,7 +4,7 @@
 
 > La casa del trap chileno\. Foto: ITHAN NY.
 
-188 songs - 10 hr 8 min
+189 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [LOUD \(feat\. Piero 47, 3TRIPLE J, JulianoChieff\)](https://open.spotify.com/track/4urZ3ocnvCpgU0Rv1P6Pd5) | [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T), [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB), [3TRIPLE J](https://open.spotify.com/artist/2lvn0dSSamgNsFZPaJPzoR), [JulianoChieff](https://open.spotify.com/artist/1GiKprzvYnLD4hBNxaA50l) | [LOUD \(feat\. Piero 47, 3TRIPLE J, JulianoChieff\)](https://open.spotify.com/album/6FtE6zJfTCiDMh0ju5B8nN) | 5:41 | 2023-06-30 |  |
 | [LoveDrip](https://open.spotify.com/track/31xSuB5yF3w8ZIrdK1TWtt) | [Mob 550](https://open.spotify.com/artist/6S3HYIuX1ncQQqcdHOUFqJ) | [LoveDrip](https://open.spotify.com/album/3S1aENeLvAtwusRPKZCdLf) | 2:24 | 2022-01-20 | 2023-10-28 |
 | [Mafia Chilena: LOS CHICHOS](https://open.spotify.com/track/1xbTJhhQ0zE9qsf4pAtxCe) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [Mafia Chilena: LOS CHICHOS](https://open.spotify.com/album/3gkPtGCboYoObv0k0dvw06) | 2:02 | 2023-10-27 |  |
+| [Mafia Chilena: WHIPPING](https://open.spotify.com/track/30O2NJ4xRG91Y50dI8A6mT) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Piero 47](https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB) | [Mafia Chilena: WHIPPING](https://open.spotify.com/album/2zbI7iT8G0YhWntW7bvFnN) | 3:00 | 2023-11-23 |  |
 | [Make It, Booty Clap](https://open.spotify.com/track/1QlIbbjXAkUJ9uihQEA3aw) | [Pablito Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [Make It, Booty Clap](https://open.spotify.com/album/3seCCQys8oPrvOlfDVakP7) | 2:40 | 2022-01-20 | 2023-07-01 |
 | [MaMa](https://open.spotify.com/track/3bOawk8qClklX3sEhefu96) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [SIN PRONTUARIO](https://open.spotify.com/album/0JhThijVyy7mFSewn2Bkgx) | 2:24 | 2022-08-25 |  |
 | [MaMa](https://open.spotify.com/track/36AOJ35vNMNlWw9OWpwmKe) | [Pekeño 77, Harry Nach](https://open.spotify.com/artist/5vpqWXcT00uzdG9jtwk5fT) | [SIN PRONTUARIO](https://open.spotify.com/album/6Qfbi4ZYbhlQxjcddwg1G0) | 2:24 | 2022-01-20 | 2022-08-27 |

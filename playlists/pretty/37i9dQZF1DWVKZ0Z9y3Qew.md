@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 
 > Pacific Northwest music breaking waves\.  Cover: <a href="spotify:artist:0y55D5fL0ywYdEpIQPbwJC">Livt</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,732 likes - 55 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,753 likes - 55 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 42 | [223](https://open.spotify.com/track/3MMkdjJwXGbVidK2TfZHpa) | [SassieThaCap](https://open.spotify.com/artist/2DUdFYGiNhWcaODXX4xwr9) | [223](https://open.spotify.com/album/2ZOwbDurhmuqwl8gWwZAYK) | 2:27 |
 | 43 | [Glow \- Jersey Club Remix](https://open.spotify.com/track/3bCBOQm3Rnyan376RoDvgL) | [Chanarah](https://open.spotify.com/artist/72QBdMls5ujyjdhIeISI2w), [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5) | [Glow \- Jersey Club Remix](https://open.spotify.com/album/6N1501iAFIlEnXiAxApl3v) | 3:04 |
 | 44 | [Pop Shit](https://open.spotify.com/track/20A2cIgO7E2E3gwCC0LJky) | [Keezy Kay](https://open.spotify.com/artist/0BxreeuwIADVriLOyYSxBK) | [West Coast, Best Coast](https://open.spotify.com/album/5Rvyvv7ZNGO4tVsVlXzLAd) | 2:02 |
-| 45 | [304](https://open.spotify.com/track/2aC9Rx9rAeq7nytRqMsY9h) | [Sin the Slime](https://open.spotify.com/artist/6lqQsGazrr55PUIht4OREF), [BassKids](https://open.spotify.com/artist/39x1DjjNP8ad4zP3h0eW2B) | [304](https://open.spotify.com/album/663ITHxAhw1l3Hlk2RcM9h) | 2:12 |
+| 45 | [304](https://open.spotify.com/track/2aC9Rx9rAeq7nytRqMsY9h) | [Sin the Star](https://open.spotify.com/artist/6fyxySP9LM2opmHXH8pk61), [BassKids](https://open.spotify.com/artist/39x1DjjNP8ad4zP3h0eW2B) | [304](https://open.spotify.com/album/663ITHxAhw1l3Hlk2RcM9h) | 2:12 |
 | 46 | [Bad Side](https://open.spotify.com/track/0ZALAC2GoXiArlX1pdC7Cf) | [Wynne](https://open.spotify.com/artist/3fhz0PcZrd3o3xB8APuoPX), [LiaFromThaP](https://open.spotify.com/artist/6mNFLE8bcHHK0MsBCJfz4B) | [Some Like It Hot](https://open.spotify.com/album/3i47bG7gXG3OurOD0fpIVX) | 2:47 |
 | 47 | [Speculation](https://open.spotify.com/track/0DO2HPtPSfdE3LGFDG6mpp) | [ScooterTheMenace](https://open.spotify.com/artist/4zy9I6HMQfwxA9wzWMLFGT) | [Speculation](https://open.spotify.com/album/4HawsR34T0sv4EjTzrQkJk) | 3:27 |
 | 48 | [Big Bank](https://open.spotify.com/track/666gkLwf0hJ3fu4jI14l3E) | [JiggaCity](https://open.spotify.com/artist/3H9yeV21BotwaV9tmw9S3w), [Maika Million](https://open.spotify.com/artist/550nfGDwq7E0lxtarPhp2j) | [Big Bank](https://open.spotify.com/album/3br08BMCUgzH0n0X0b93gx) | 2:39 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 54 | [DX FREESTYLE](https://open.spotify.com/track/74Ceds2DwoSB3PIZ3xA24B) | [Kid Cambo](https://open.spotify.com/artist/4n9wn5OJVBp96xO2cAqVDf), [SuburbanTrapstar](https://open.spotify.com/artist/467zkq3yEhxHqSaXi6aUfL) | [KC CHRONICLES](https://open.spotify.com/album/4DA0mreqoWOuz0Ma1i3TYs) | 2:38 |
 | 55 | [Nann](https://open.spotify.com/track/1LSR4qQRrDaHVeDHQNi31H) | [Dyrect](https://open.spotify.com/artist/1dhCuRGoNbR8a8bhdY3UUs), [Drae Slapz](https://open.spotify.com/artist/1RKGcbu15VTqYNYMjyisNM), [Scooter Rogers](https://open.spotify.com/artist/6KKQAa1W5yArQ6Q31UFFcG) | [Nann](https://open.spotify.com/album/3EHesZZ4ZqLuc6eyUwo9bR) | 2:42 |
 
-Snapshot ID: `MCwxZGRmOTM0ZTE3N2UwYTdjODJjZjcwYjhhNWJjN2RmMTYxOTYzYjRm`
+Snapshot ID: `MCxhYTdlZDA0MWU0YzdkOWI0ODNlZDdlMDU2MTU5NjAzNDU4ZTcyZTIy`

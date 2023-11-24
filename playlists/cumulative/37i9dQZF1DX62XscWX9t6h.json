@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Racines",
+        "url": "https://open.spotify.com/album/1w1WPKt7ZbZJAgugYNs8bx"
+      },
+      "artists": [
+        {
+          "name": "C'mon Tigre",
+          "url": "https://open.spotify.com/artist/1ntP294de9KGcB3pTfpGfJ"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73880,
+      "name": "As-tu \u00e9t\u00e9 \u00e0 Tahiti?",
+      "url": "https://open.spotify.com/track/3Qp7Pfl0oOsYOQK0N2A1V1"
+    },
+    {
+      "album": {
         "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
         "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
       },
@@ -218,6 +236,24 @@
       "duration_ms": 283398,
       "name": "Badi Sabah Olmadan",
       "url": "https://open.spotify.com/track/69HsibWosA5K8UhyhPZ92t"
+    },
+    {
+      "album": {
+        "name": "The Livelong Day",
+        "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331500,
+      "name": "Bear Creek",
+      "url": "https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76"
     },
     {
       "album": {
@@ -688,10 +724,28 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 235519,
       "name": "Ghibli",
       "url": "https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU"
+    },
+    {
+      "album": {
+        "name": "False Lankum",
+        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518745,
+      "name": "Go Dig My Grave",
+      "url": "https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ"
     },
     {
       "album": {
@@ -967,6 +1021,24 @@
     },
     {
       "album": {
+        "name": "NOIR ANIMA",
+        "url": "https://open.spotify.com/album/2KY2Lb0t4KYC11YDvYeJna"
+      },
+      "artists": [
+        {
+          "name": "Labelle",
+          "url": "https://open.spotify.com/artist/7wF9y3gjWdR3DOtFG5PVFS"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "L'homme f\u00e9lin",
+      "url": "https://open.spotify.com/track/1p8nQ36Vd8akX6JaJJ9UAY"
+    },
+    {
+      "album": {
         "name": "Khun Narin's Electric Phin Band",
         "url": "https://open.spotify.com/album/5jScyP5lgOyDuXwi720t2S"
       },
@@ -1076,7 +1148,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 235418,
       "name": "Mano de Fatima",
       "url": "https://open.spotify.com/track/1823wxCop81BdNRMKcfygg"
@@ -1750,7 +1822,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 212621,
       "name": "Sr. Tigre - French Braids Rework",
       "url": "https://open.spotify.com/track/3u2hfoDnXpCiQQRQkblecj"
@@ -1894,7 +1966,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 296612,
       "name": "Tazidert",
       "url": "https://open.spotify.com/track/2t67B5rLaQljQtXb7121Bp"
@@ -1984,7 +2056,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 342189,
       "name": "Time (You and I)",
       "url": "https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3"
@@ -2336,6 +2408,24 @@
       "duration_ms": 263524,
       "name": "Zerzura Theme II",
       "url": "https://open.spotify.com/track/4I7WbrlfomZlIv4mveJ76x"
+    },
+    {
+      "album": {
+        "name": "\u00caCCLAB\u00d4 DE LIBERT\u00c1",
+        "url": "https://open.spotify.com/album/6fmWNDGvFdcuCamPr4v5Rb"
+      },
+      "artists": [
+        {
+          "name": "Califato \u00be",
+          "url": "https://open.spotify.com/artist/6APnwoSgygJU8HR7EHVSyK"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216443,
+      "name": "\u00caCCLAB\u00d4 DE LIBERT\u00c1",
+      "url": "https://open.spotify.com/track/1LAFKxWo13OB3gt67wkQpR"
     },
     {
       "album": {

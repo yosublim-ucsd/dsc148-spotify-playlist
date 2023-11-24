@@ -4,7 +4,7 @@
 
 > Instrumental guitar for rainy day contemplation.
 
-226 songs - 9 hr 31 min
+229 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [I Wanna Be Yours](https://open.spotify.com/track/6huxjr8XKFnhtXQD02LIJ7) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [I Wanna Be Yours](https://open.spotify.com/album/0wwXoEiDEyHMwS6etJwYbR) | 2:36 | 2023-02-24 | 2023-08-25 |
 | [Impermanence](https://open.spotify.com/track/0TzhOFlRohunMWFyBotAe7) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind \- Vol.4](https://open.spotify.com/album/0cJUIhaY9bkUsCfVnWsH1W) | 3:13 | 2021-12-23 | 2023-04-28 |
 | [in den Bergen](https://open.spotify.com/track/4q2wB8Fkc6R6V03oksaiaI) | [Mikkel Adler](https://open.spotify.com/artist/5m5x5QR8woru1deGCXghUD) | [Batur](https://open.spotify.com/album/7cHyo7vC3GRSFJHgCWs4Gw) | 3:59 | 2021-12-23 |  |
+| [In The Whispers Of My Restless Soul](https://open.spotify.com/track/5dnYVOEx2vLeyG0dvZqkqQ) | [Aurelia](https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA) | [In The Whispers Of My Restless Soul](https://open.spotify.com/album/47zXGMxJ9qHYZ7mbODu5KU) | 3:11 | 2023-11-24 |  |
 | [Into Your Arms](https://open.spotify.com/track/5d09XwfMeUBHzZ2ZBexX9k) | [Oaktree Melodies](https://open.spotify.com/artist/0U0qUcjrya7xDHCxVkXvPV) | [Into Your Arms](https://open.spotify.com/album/4NVq00ICpY2IjkUAxLwoYK) | 2:34 | 2023-10-13 |  |
 | [Just One Step At A Time](https://open.spotify.com/track/7dtIQWNjGxG4s2JoWD0hVD) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [Just One Step At A Time](https://open.spotify.com/album/49pNKyGqE0DIc9vF9XVjGp) | 4:08 | 2022-04-05 |  |
 | [Kebnekajse](https://open.spotify.com/track/1nSMfJWxhkrLIjYyMYiF13) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Kebnekajse](https://open.spotify.com/album/0S5GqtZdI51UY70oXqtPjZ) | 2:42 | 2021-12-23 | 2022-07-22 |
@@ -147,6 +148,7 @@
 | [Mollification](https://open.spotify.com/track/7lPmCMnHc9EqaI6J824B9J) | [Kel Giamo](https://open.spotify.com/artist/0xXalPo0tukcLui85tnDKW) | [Mollification](https://open.spotify.com/album/40o4fe8ElKwZf0MZEsJYQr) | 2:23 | 2023-03-10 |  |
 | [Mondo Piccolo](https://open.spotify.com/track/375O24y2MnIWs0NWBBZOdh) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [Mondo Piccolo](https://open.spotify.com/album/50nZWa8vmigRohNyBfdjn6) | 2:15 | 2023-06-09 |  |
 | [Morongo Basin](https://open.spotify.com/track/2PDKauWWq2aICXQ4jlzA53) | [Carlo Castilla](https://open.spotify.com/artist/3mI0smMNTM9eIfd4EHXYLR) | [Morongo Basin](https://open.spotify.com/album/50yIELzJpSucPRD1OEoDbX) | 2:37 | 2023-08-11 |  |
+| [My Bellido](https://open.spotify.com/track/1RTQc0AKW4wEz7heqPaW0L) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [My Bellido](https://open.spotify.com/album/5AWe4FYLlr2COQ5Ajo4BMt) | 2:43 | 2023-11-24 |  |
 | [My Favorite Memory Of You](https://open.spotify.com/track/7qQi4pHT2tdu32Po9MsrME) | [Derek Shearer](https://open.spotify.com/artist/3W51gb95wAmpctfOfM9no0) | [My Favorite Memory Of You](https://open.spotify.com/album/6E3b4wqXPPhV56yW6vxDia) | 3:42 | 2021-12-23 | 2023-02-25 |
 | [My Garden](https://open.spotify.com/track/7uOpfxCTtdbhWcbq6kzjMH) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [My Garden](https://open.spotify.com/album/2ljfPFQH7EvfBR8jLnzav8) | 2:57 | 2023-03-31 |  |
 | [My Heart In Your Hands](https://open.spotify.com/track/5MxdTIHlQxvk9qMAcuLp7e) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [My Heart In Your Hands](https://open.spotify.com/album/0JNhtB6qvXWnYp1VpKOsLR) | 2:42 | 2021-12-23 | 2023-05-19 |
@@ -199,6 +201,7 @@
 | [Spanish sun rays](https://open.spotify.com/track/6moW6E8JUr3oSWlqx63Rwc) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [Spanish sun rays](https://open.spotify.com/album/196ZLlX03BiqECKqux3VAV) | 1:55 | 2023-09-29 |  |
 | [Sphinx](https://open.spotify.com/track/740LzA4Z4ArwYZGSU61X6S) | [Benito Novelli](https://open.spotify.com/artist/3V3Cv0iaImcAuGxsaESGyC) | [La Massana](https://open.spotify.com/album/5sFOpgxafc8hRzyzADz0q3) | 2:40 | 2021-12-23 | 2023-05-19 |
 | [Stairway to Heaven](https://open.spotify.com/track/52MugsFISb5ACXi5d8Z2kG) | [Payton Howard](https://open.spotify.com/artist/46FYL5s6ojrHCMVeOCMq53) | [Stairway to Heaven](https://open.spotify.com/album/1ASGOuAVrcjnp5x3P4guJP) | 2:43 | 2023-02-24 | 2023-05-19 |
+| [Stellato](https://open.spotify.com/track/4zDJlcLuE1AKv3nG0o0fTN) | [Cindy Woon](https://open.spotify.com/artist/312AU52NUfI9iTdzynazpN) | [Stellato](https://open.spotify.com/album/5GuLxtR0PkUFXDd7JSYjOA) | 2:07 | 2023-11-24 |  |
 | [Sunrise In Altona](https://open.spotify.com/track/14yq883gXycyEjpfU0R5Ol) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Sunrise In Altona](https://open.spotify.com/album/6WpTMJ1M9Sbsp8aj7KNDau) | 2:33 | 2023-06-09 |  |
 | [Syr Darya](https://open.spotify.com/track/5aPyQLy7KhxjIqj5CgNF8w) | [Daniel Murphy](https://open.spotify.com/artist/3U09BkBTECPYMhXsbTuVXD) | [Syr Darya](https://open.spotify.com/album/0dhQLVfDkDJekJAK3Tg6QE) | 3:35 | 2023-02-24 |  |
 | [Tăcere](https://open.spotify.com/track/2GnLadPkZbhaTxoBlpyj1c) | [Simion Alexandrescu](https://open.spotify.com/artist/3pJo8CcTXL3ZPIG8r2XOxl) | [Tăcere](https://open.spotify.com/album/5ZW7vpNnSPtzo09pdS8UuG) | 2:47 | 2021-12-23 |  |

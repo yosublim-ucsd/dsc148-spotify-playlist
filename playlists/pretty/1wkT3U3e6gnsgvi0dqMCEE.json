@@ -6,24 +6,8 @@
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "NDYyLGY0N2FiMGVmYTdmZDMwZDYxMTJhMjhmZjVhMWMyMDZlYzQ3NDliYjE=",
+  "snapshot_id": "NDY1LDg0NzU3ZTZlNGJiZDMzODI2YTNmYTQ0ZTM1Zjc5MTdjZDk2MWE4NjU=",
   "tracks": [
-    {
-      "added_at": "2023-10-16 16:43:24",
-      "album": {
-        "name": "Take Off Your Pants And Jacket",
-        "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "First Date",
-      "url": "https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP"
-    },
     {
       "added_at": "2023-10-16 16:43:24",
       "album": {
@@ -917,7 +901,23 @@
       "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
     },
     {
-      "added_at": "2023-11-16 07:40:37",
+      "added_at": "2023-10-16 16:43:24",
+      "album": {
+        "name": "Take Off Your Pants And Jacket",
+        "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "First Date",
+      "url": "https://open.spotify.com/track/1fJFuvU2ldmeAm5nFIHcPP"
+    },
+    {
+      "added_at": "2023-11-23 07:53:23",
       "album": {
         "name": "Franz Ferdinand",
         "url": "https://open.spotify.com/album/0mUEGMT2YlzCWGeWOJjBKD"

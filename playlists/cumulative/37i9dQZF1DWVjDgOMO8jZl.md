@@ -2,9 +2,9 @@
 
 ### [RADAR Italia](https://open.spotify.com/playlist/37i9dQZF1DWVjDgOMO8jZl)
 
-> Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href="spotify:artist:24oVOFAARWAYUb1LaedbI0">Icy Subzero</a>
+> Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href="spotify:artist:5Sae4YeLcFZ1P75vhzUDrp">piazzabologna</a>
 
-126 songs - 6 hr 7 min
+128 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Bambina](https://open.spotify.com/track/3ConKv3XVOlkcQp0SfaHA3) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Bambina](https://open.spotify.com/album/4RVpMxTNK77CJp8ddQbJjL) | 2:19 | 2022-12-08 | 2023-04-12 |
 | [Bistrot](https://open.spotify.com/track/6BVYZ55BxhxYxOH4Tfid77) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Bistrot](https://open.spotify.com/album/67PCJjaYPG1cUjD9KXpQVm) | 3:17 | 2022-08-31 | 2023-04-12 |
 | [Boss \(io & te\)](https://open.spotify.com/track/5lXDYzI9tKb6Vx6Wg1yq4a) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Boss \(io & te\)](https://open.spotify.com/album/6dQS4H6TAnoFx45RGVrGVy) | 3:01 | 2022-08-31 | 2023-04-12 |
+| [Buchi ai lobi](https://open.spotify.com/track/1EK9LRcQxtUiZUxXevX1nP) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [Buchi ai lobi](https://open.spotify.com/album/0yBYqUOcJsCNiYRvTv1E5p) | 2:26 | 2023-11-23 |  |
 | [CACIARA](https://open.spotify.com/track/1lRWL3L6s6T3EUgcdsFeAl) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [CACIARA](https://open.spotify.com/album/5WCf00AROvypO1CGSnN2YK) | 2:29 | 2023-05-11 |  |
 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 | 2022-08-31 | 2023-04-12 |
 | [Capelli blu \(feat\. ARIETE\)](https://open.spotify.com/track/5sXsXtwDBgINAVwhoX6Ys2) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Capelli blu \(feat\. ARIETE\)](https://open.spotify.com/album/1uAagTn6V0Uy7auhsgOCR5) | 2:44 | 2022-08-31 | 2023-04-12 |
@@ -131,6 +132,7 @@
 | [Tranquillo mai](https://open.spotify.com/track/0fhTCQPc8uFQGQY3iWb0sU) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [La mia stanza \(Deluxe\)](https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q) | 2:39 | 2023-09-28 |  |
 | [Traumi](https://open.spotify.com/track/2LIM6FxHKqRUcz2gP3byUc) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Traumi](https://open.spotify.com/album/6PddgCmogPiR4yyC6X8chF) | 3:04 | 2022-11-03 | 2023-04-12 |
 | [TSO](https://open.spotify.com/track/361XEjtQol1QjvRNNKZisL) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [TSO](https://open.spotify.com/album/2DPY9Y2HcDleJW1LuAlkan) | 3:09 | 2022-08-31 | 2023-04-12 |
+| [VENERE](https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [VENERE](https://open.spotify.com/album/1xBryxKD1ss7DvPDrjD5ql) | 2:48 | 2023-11-23 |  |
 | [Vento](https://open.spotify.com/track/5t5qgKLqicCX7qrbYR3GHM) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5), [Marquis](https://open.spotify.com/artist/085cKKfPPbCCfU5LBPXkuC) | [Vento](https://open.spotify.com/album/0tEm7FepTMZ4JgfloAAQrJ) | 2:33 | 2022-08-31 | 2023-04-12 |
 | [VIDA LOCA \(feat\. Medy\)](https://open.spotify.com/track/12zyH8VBFJiu3SOR1FMiYv) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [VIDA LOCA \(feat\. Medy\)](https://open.spotify.com/album/060HF45et7bfm9rkxtLPBP) | 3:02 | 2023-07-06 |  |
 | [Vorrei che fosse odio](https://open.spotify.com/track/7F5OZLcNPOJHdQ3a9ld96C) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Assurditè](https://open.spotify.com/album/6tZ6zLONbRGUBZPoh0g9ha) | 3:03 | 2023-04-11 |  |

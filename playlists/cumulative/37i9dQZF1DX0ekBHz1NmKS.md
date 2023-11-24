@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-874 songs - 1 day 22 hr 8 min
+875 songs - 1 day 22 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Den sista](https://open.spotify.com/track/6T51Z4ZEUf8dRUvYbEhFuj) | [Annika Norlin](https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1), [Mattias Alkberg](https://open.spotify.com/artist/5p8AjcGi5g19fWNvC2zhqE) | [Darkest Shade of Dark / Den sista](https://open.spotify.com/album/1ieRkdclQMGGYGZJwyJCW9) | 3:14 | 2021-12-16 | 2022-04-02 |
 | [Den sista sången](https://open.spotify.com/track/5KHO2Rsilm7Nq9Wr8TxmnN) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [En annan jag](https://open.spotify.com/album/5IScUyxaPLwT91UoEm4aXn) | 2:45 | 2023-09-14 |  |
 | [Desdemona](https://open.spotify.com/track/04BZvhzMnVcoAk6e6HkFyz) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Desdemona](https://open.spotify.com/album/177I1pOtq136S60hS1XR6A) | 3:16 | 2021-12-16 | 2022-04-02 |
-| [Det gick för fort](https://open.spotify.com/track/2IP86vuYJ7yaEEk0Z6dbI5) | [Lukas Larsson](https://open.spotify.com/artist/3oiT7YsN5cdWj1DppuZ4SA) | [Det gick för fort](https://open.spotify.com/album/1x1zdgftoj6RTOoRvL3ABa) | 2:34 | 2023-11-16 |  |
+| [Det gick för fort](https://open.spotify.com/track/2IP86vuYJ7yaEEk0Z6dbI5) | [Lukas Larsson](https://open.spotify.com/artist/3oiT7YsN5cdWj1DppuZ4SA) | [Det gick för fort](https://open.spotify.com/album/1x1zdgftoj6RTOoRvL3ABa) | 2:34 | 2023-11-16 | 2023-11-24 |
 | [Det kommer bli bra](https://open.spotify.com/track/5U5hlK1E0ozMOtd1cynRnH) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Paradis](https://open.spotify.com/album/5n92UT4wznUdPlFx6sw7Ir) | 2:50 | 2022-09-15 | 2022-09-30 |
 | [Det stora röda huset](https://open.spotify.com/track/7HMjYD6vVNaHpHPQGR2W63) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [En gång i tiden \(del 2\)](https://open.spotify.com/album/2D0NU2s1xrC8wGRkMrJUjP) | 2:58 | 2021-12-16 | 2022-03-11 |
 | [Det var då, det var det](https://open.spotify.com/track/7iR7p8Gop4fQz1bjyOIkla) | [Sveavägen](https://open.spotify.com/artist/4rvYitP1XmElnNQyQPEw9g) | [Det var då, det var det](https://open.spotify.com/album/3KNWjo9bMW6leyuOUFSWo6) | 3:09 | 2021-12-16 | 2022-01-14 |
@@ -787,6 +787,7 @@
 | [Tombola 94](https://open.spotify.com/track/7prx9AfJPjvOMPhmuzgXKI) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dina Ögon](https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF) | 3:57 | 2023-04-01 | 2023-10-20 |
 | [Touch Yourself](https://open.spotify.com/track/4ycqkyaLSmck669TSsYwqf) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Best You've Ever Had](https://open.spotify.com/album/0BpjvQJqOL7eXISjVFdRVe) | 2:58 | 2021-12-16 | 2022-04-02 |
 | [Tracksuit Pants](https://open.spotify.com/track/7HeuUU0RhWiBDslwL8Py6z) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Tracksuit Pants](https://open.spotify.com/album/6ShzJzQ6B0DFHZZkKG4y6G) | 2:59 | 2023-09-21 |  |
+| [TRENCH](https://open.spotify.com/track/3eYJ0WYNccALQAYoTZyidU) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [TRENCH](https://open.spotify.com/album/1nKbVqSp1GqpI3ggyihitK) | 3:13 | 2023-11-23 |  |
 | [Trip](https://open.spotify.com/track/6sQ1IeoCqOF3RjpCitYDWq) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Trip](https://open.spotify.com/album/5qirpX94upVMrdr43t4HYC) | 2:58 | 2022-04-01 | 2022-04-21 |
 | [Träffa andra](https://open.spotify.com/track/12xfklEh742AncfxxkSIzY) | [Sebbe Hauta](https://open.spotify.com/artist/2LEZVqaxPwyaq255gRjO1Z) | [Träffa andra](https://open.spotify.com/album/3dVduJktcL11MXUDkH6I9I) | 2:43 | 2023-10-20 |  |
 | [Tumbling Dice](https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Tumbling Dice](https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO) | 2:55 | 2023-06-22 | 2023-11-10 |

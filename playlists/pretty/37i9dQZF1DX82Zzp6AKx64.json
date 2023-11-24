@@ -1,12 +1,12 @@
 {
   "description": "Emotional and powerful - let your feelings out with these classic power ballads. Cover: Tina Turner",
-  "num_followers": 1154881,
+  "num_followers": 1155030,
   "original_name": "Rock Power Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDk4Yzg3YmIwZjJhMTk0NGI0ZDVhOWJmM2UxN2IyYmU4Y2E5NzFl",
+  "snapshot_id": "MCxhMjBmODU2ZGU0MDhiN2NjOTk2ZWU5NDM2ZTI5ZGI1YWZjMDQ2OGNk",
   "tracks": [
     {
       "added_at": "2023-05-24 19:29:38",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
+        "name": "Theatre of Pain",
+        "url": "https://open.spotify.com/album/3QyCjcfNt3S5wiWGEH0h7D"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 239666,
+      "name": "Home Sweet Home",
+      "url": "https://open.spotify.com/track/1kvq7ksGQWSyRysYYNd6lu"
+    },
+    {
+      "added_at": "2023-05-24 19:29:38",
+      "album": {
         "name": "Damn Yankees",
         "url": "https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 284496,
       "name": "Is This Love - 2018 Remaster",
       "url": "https://open.spotify.com/track/0IhUdJRoolbYeEMPL59XPm"
-    },
-    {
-      "added_at": "2023-05-24 19:29:38",
-      "album": {
-        "name": "Theatre of Pain",
-        "url": "https://open.spotify.com/album/3QyCjcfNt3S5wiWGEH0h7D"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 239666,
-      "name": "Home Sweet Home",
-      "url": "https://open.spotify.com/track/1kvq7ksGQWSyRysYYNd6lu"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Rock & Roll Strategy",
-        "url": "https://open.spotify.com/album/1jCoBw99NDS3xv2KRF7ygX"
+        "name": "Firehouse",
+        "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
       },
       "artists": [
         {
-          "name": "38 Special",
-          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+          "name": "Firehouse",
+          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
         }
       ],
-      "duration_ms": 304693,
-      "name": "Second Chance",
-      "url": "https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj"
+      "duration_ms": 235360,
+      "name": "Don't Treat Me Bad",
+      "url": "https://open.spotify.com/track/4lbhQdbiTpNP7GowZG8KsM"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Firehouse",
-        "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
+        "name": "Rock & Roll Strategy",
+        "url": "https://open.spotify.com/album/1jCoBw99NDS3xv2KRF7ygX"
       },
       "artists": [
         {
-          "name": "Firehouse",
-          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
+          "name": "38 Special",
+          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
         }
       ],
-      "duration_ms": 235360,
-      "name": "Don't Treat Me Bad",
-      "url": "https://open.spotify.com/track/4lbhQdbiTpNP7GowZG8KsM"
+      "duration_ms": 304693,
+      "name": "Second Chance",
+      "url": "https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Wings Of Tomorrow",
-        "url": "https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx"
+        "name": "The Great Radio Controversy",
+        "url": "https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM"
       },
       "artists": [
         {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+          "name": "Tesla",
+          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
         }
       ],
-      "duration_ms": 246733,
-      "name": "Open Your Heart",
-      "url": "https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX"
+      "duration_ms": 323360,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/0vJUdIefT5caKla9H8b1q4"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "The Great Radio Controversy",
-        "url": "https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM"
+        "name": "Wings Of Tomorrow",
+        "url": "https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx"
       },
       "artists": [
         {
-          "name": "Tesla",
-          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
         }
       ],
-      "duration_ms": 323360,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/0vJUdIefT5caKla9H8b1q4"
+      "duration_ms": 246733,
+      "name": "Open Your Heart",
+      "url": "https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "Good Acoustics",
-        "url": "https://open.spotify.com/album/6Ee7BhLDpdOuMuPaJzTJVf"
+        "name": "The Time of the Oath",
+        "url": "https://open.spotify.com/album/1NWq90Tc3ZTnKnpUXT7dTH"
       },
       "artists": [
         {
-          "name": "Firehouse",
-          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
         }
       ],
-      "duration_ms": 261825,
-      "name": "I Live My Life for You",
-      "url": "https://open.spotify.com/track/4vHp893kV7HksfB5FN1Nk5"
+      "duration_ms": 234533,
+      "name": "Forever and One (Neverland)",
+      "url": "https://open.spotify.com/track/1hMT8qwcJyFgbsbMwTBcp5"
     },
     {
       "added_at": "2023-05-24 19:29:38",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2023-05-24 19:29:38",
       "album": {
-        "name": "The Time of the Oath",
-        "url": "https://open.spotify.com/album/1NWq90Tc3ZTnKnpUXT7dTH"
+        "name": "Good Acoustics",
+        "url": "https://open.spotify.com/album/6Ee7BhLDpdOuMuPaJzTJVf"
       },
       "artists": [
         {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+          "name": "Firehouse",
+          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
         }
       ],
-      "duration_ms": 234533,
-      "name": "Forever and One (Neverland)",
-      "url": "https://open.spotify.com/track/1hMT8qwcJyFgbsbMwTBcp5"
+      "duration_ms": 261825,
+      "name": "I Live My Life for You",
+      "url": "https://open.spotify.com/track/4vHp893kV7HksfB5FN1Nk5"
     },
     {
       "added_at": "2023-05-24 19:29:38",

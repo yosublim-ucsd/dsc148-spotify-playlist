@@ -218,7 +218,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 276000,
       "name": "B\u00e0i N\u00e0y Chill Ph\u1ebft",
       "url": "https://open.spotify.com/track/2nR51wakN5K3AJENqGaNg9"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 139813,
       "name": "C\u00e0ng Cua",
       "url": "https://open.spotify.com/track/6zrQLaZG0OlT63oUDwFKri"
@@ -633,6 +633,28 @@
     },
     {
       "album": {
+        "name": "Hai Th\u1eb1ng B\u1ecbp",
+        "url": "https://open.spotify.com/album/1TmlpxqYkDzs8TasWPsMrB"
+      },
+      "artists": [
+        {
+          "name": "RZ Mas",
+          "url": "https://open.spotify.com/artist/39UJlviUwzZGZrA8DiQy31"
+        },
+        {
+          "name": "24k.Right",
+          "url": "https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177454,
+      "name": "Hai Th\u1eb1ng B\u1ecbp",
+      "url": "https://open.spotify.com/track/41mz9gDQLtdaQE02SJsdhS"
+    },
+    {
+      "album": {
         "name": "Hoa Ki\u1ec1u",
         "url": "https://open.spotify.com/album/2Fwe7zdPjBtT7YryfYuXW5"
       },
@@ -688,7 +710,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 244947,
       "name": "Khu Tao S\u1ed1ng",
       "url": "https://open.spotify.com/track/14khFA3ijq29og5P6GJqDP"
@@ -758,7 +780,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 191004,
       "name": "K\u00fd Gi\u1ea5y T\u1edd (prod. Wokeup)",
       "url": "https://open.spotify.com/track/0u9kV2szGMgBiYBrw74DNv"
@@ -1238,7 +1260,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 180000,
       "name": "Sinh Nh\u1eadt C\u1ee7a Xinh Nh\u1ea5t",
       "url": "https://open.spotify.com/track/1W5kZCi3DyAwUu1flTIHdZ"

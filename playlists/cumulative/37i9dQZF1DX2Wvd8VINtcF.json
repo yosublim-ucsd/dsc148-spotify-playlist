@@ -6162,7 +6162,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 196006,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2yxobiDeGo30ftKwde2d5F"
@@ -7344,7 +7344,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 191725,
       "name": "Hand In The Fire - Killen Manjaro Remix",
       "url": "https://open.spotify.com/track/4mr24lt1CSJMQTPFFVj4LS"
@@ -7621,6 +7621,24 @@
     },
     {
       "album": {
+        "name": "Android",
+        "url": "https://open.spotify.com/album/2ZSYedTofYAc6wT1aEM1Ed"
+      },
+      "artists": [
+        {
+          "name": "Yony x Malla",
+          "url": "https://open.spotify.com/artist/6eeNVSWhipIRmCDMal0zRT"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139620,
+      "name": "Helix",
+      "url": "https://open.spotify.com/track/5COA0GM1rhpcZYZQ1FKsHx"
+    },
+    {
+      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV"
       },
@@ -7748,6 +7766,28 @@
       "duration_ms": 196598,
       "name": "Higher Than Ever Before",
       "url": "https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh"
+    },
+    {
+      "album": {
+        "name": "Higher Than Ever Before (Barry Can't Swim Remix)",
+        "url": "https://open.spotify.com/album/1836yEMpqljb7gddjMGyQE"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254313,
+      "name": "Higher Than Ever Before - Barry Can't Swim Remix",
+      "url": "https://open.spotify.com/track/6CZOBFhBZTd8xw004Bj1lC"
     },
     {
       "album": {
@@ -12453,6 +12493,28 @@
     },
     {
       "album": {
+        "name": "Oral",
+        "url": "https://open.spotify.com/album/0Jldmuyjx6v7nMefI7y00r"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222737,
+      "name": "Oral",
+      "url": "https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr"
+    },
+    {
+      "album": {
         "name": "Orange Blossoms",
         "url": "https://open.spotify.com/album/0kpAo6p1USCL3Qmac5s4Ao"
       },
@@ -13000,7 +13062,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 160000,
       "name": "PIXAR",
       "url": "https://open.spotify.com/track/3K2AjofnBXR4IiKdI4jdWP"
@@ -15368,7 +15430,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 289962,
       "name": "Spirit 2.0",
       "url": "https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj"
@@ -17389,6 +17451,24 @@
     },
     {
       "album": {
+        "name": "TRENCH",
+        "url": "https://open.spotify.com/album/1nKbVqSp1GqpI3ggyihitK"
+      },
+      "artists": [
+        {
+          "name": "Elliphant",
+          "url": "https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193777,
+      "name": "TRENCH",
+      "url": "https://open.spotify.com/track/3eYJ0WYNccALQAYoTZyidU"
+    },
+    {
+      "album": {
         "name": "wood tip",
         "url": "https://open.spotify.com/album/2VgvkopYH1hzaHue8eaDYw"
       },
@@ -17638,6 +17718,24 @@
       "duration_ms": 216154,
       "name": "U & I",
       "url": "https://open.spotify.com/track/4jBSQcXXIgmJF0ngkSbPCH"
+    },
+    {
+      "album": {
+        "name": "WITH II EYES",
+        "url": "https://open.spotify.com/album/4q7EnLSTFP5sTadg6lMNc1"
+      },
+      "artists": [
+        {
+          "name": "LUCIIA",
+          "url": "https://open.spotify.com/artist/4wstpJTWcoASedbusTGfjd"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "U FOR A MINUTE",
+      "url": "https://open.spotify.com/track/2GczmDFawjKmIcTwrIq6Lz"
     },
     {
       "album": {
@@ -18038,6 +18136,24 @@
       "duration_ms": 219998,
       "name": "Waiting For You (feat. Naomi Sharon)",
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
+    },
+    {
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220311,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr"
     },
     {
       "album": {
@@ -18553,6 +18669,24 @@
     },
     {
       "album": {
+        "name": "WIPEOUT",
+        "url": "https://open.spotify.com/album/1iIhyI52gixXNM37vbZGZy"
+      },
+      "artists": [
+        {
+          "name": "WHO SHOT SCOTT",
+          "url": "https://open.spotify.com/artist/4INpCNtJho77CQ6ZOfk5lP"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183093,
+      "name": "WIPEOUT",
+      "url": "https://open.spotify.com/track/2RVkDG7uifkLrKD66Z8l5z"
+    },
+    {
+      "album": {
         "name": "wish that i could (Memphis LK Remix)",
         "url": "https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3"
       },
@@ -18666,7 +18800,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 182259,
       "name": "WOOF",
       "url": "https://open.spotify.com/track/2j4Pqly4ClzjDmPHhdJGq3"

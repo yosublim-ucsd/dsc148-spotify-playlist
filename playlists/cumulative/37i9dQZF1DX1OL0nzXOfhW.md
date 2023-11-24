@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover: Lau Heung King
+> 持續發掘世一超新聲！見證DEREK DALI & PetPetShawn 登上Clockenflap！
 
-152 songs - 8 hr 44 min
+154 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Main blanche](https://open.spotify.com/track/70c3xsQzUtUljpiPHbT8NG) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [Micol](https://open.spotify.com/artist/6sjrXwjrI7oTl73bClCKER) | [Main blanche](https://open.spotify.com/album/4X1XI4sACBsLxyYQqQaXeg) | 3:31 | 2023-04-13 |  |
 | [Mask Off](https://open.spotify.com/track/5DWa1yu3YyOooCNOCP88M0) | [Aiden Hung 洪助昇](https://open.spotify.com/artist/7GkuBhIVejk4CThUIuW392) | [Mask Off](https://open.spotify.com/album/7lPukklXy0yedXd8j68rnW) | 3:28 | 2023-04-13 |  |
 | [Never Meant to Hurt You](https://open.spotify.com/track/0ouOoGE1snaFzozJwFwokn) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [Never Meant to Hurt You](https://open.spotify.com/album/2CPfE2n9b4XbtLUQXT7HJs) | 3:16 | 2023-04-13 |  |
+| [Never mind](https://open.spotify.com/track/4QM774WtzXy2KZeed1xe03) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Never mind](https://open.spotify.com/album/2aRPQp8uqMdUBDTIYROVWJ) | 4:11 | 2023-11-23 |  |
 | [Never Say Never](https://open.spotify.com/track/2WhmAUL2A1alXac2uCTBau) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [Never Say Never](https://open.spotify.com/album/54jacCNqvBtQIAgBM6LtKe) | 3:36 | 2023-10-27 |  |
 | [Never\-never Land](https://open.spotify.com/track/2MKENhpdJ8egUGHl6EWG5F) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Never\-never Land](https://open.spotify.com/album/1rMS9dyJwf4mPubmsoGhh4) | 3:32 | 2022-05-26 | 2023-04-14 |
 | [NOISY](https://open.spotify.com/track/6Rt1Bc95ecZQZPdOGtY7fK) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [NOISY](https://open.spotify.com/album/6cl9qpMSPUljRaiAicAQgm) | 3:25 | 2023-05-11 |  |
@@ -129,6 +130,7 @@
 | [憑實力單身](https://open.spotify.com/track/4vTrVuUu1WKna22qQaKgK4) | [Aiden Hung 洪助昇](https://open.spotify.com/artist/7GkuBhIVejk4CThUIuW392) | [憑實力單身](https://open.spotify.com/album/4bvYTZJ2yqZ53ZDFemidF7) | 3:17 | 2023-04-13 |  |
 | [戀人絮語](https://open.spotify.com/track/4ibMCdl61oRFsUxHYic55o) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [戀人絮語](https://open.spotify.com/album/58yIKevLzgQoi1XBDAFCyz) | 3:40 | 2023-05-11 |  |
 | [我啊!一句都聽唔明白!Freestyle](https://open.spotify.com/track/4vJWlKoZMLmWMWrmyRjKwz) | [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [我啊!一句都聽唔明白!Freestyle](https://open.spotify.com/album/2ZwoicOeT63UEyBDpSMsUQ) | 1:17 | 2023-04-13 |  |
+| [我的世界地圖](https://open.spotify.com/track/2n0jP1AyLtWiA4kTGf1uTn) | [Jeffrey 魏浚笙](https://open.spotify.com/artist/0T40tPcAKQ5d3a6VuzjrLf) | [我的世界地圖](https://open.spotify.com/album/0Rlcptg7wuzXIb3roe0irv) | 3:32 | 2023-11-23 |  |
 | [日出的缺口](https://open.spotify.com/track/7ap3XCfO7Wr5iO4K45sqrk) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [日出的缺口](https://open.spotify.com/album/0f2AGfQ2LZwnjUmbvqY9as) | 3:16 | 2022-10-20 | 2023-04-14 |
 | [時間計](https://open.spotify.com/track/5WB57ar8s4gFszp0tBCnn0) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [時間計](https://open.spotify.com/album/2jvVEaHcTs3q3F3WA77RZT) | 3:27 | 2023-01-19 | 2023-05-12 |
 | [東京一轉](https://open.spotify.com/track/3nqgEI17nKvQgSWTZZqS1z) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京一轉](https://open.spotify.com/album/6TPewpYFnJSHsoC2PUMDh0) | 3:46 | 2022-05-26 | 2023-04-14 |

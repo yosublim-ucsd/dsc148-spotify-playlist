@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Marshmello & Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,312 likes - 81 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,361 likes - 81 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 80 | [Girls Just Wanna Have Fun](https://open.spotify.com/track/24XAAZIbQriREBFYshbMxV) | [Carine](https://open.spotify.com/artist/5EADzWzO9nhqVZdNW7hrBi), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/7EIBCfvFJeDwPOIVn1FIq9) | 2:42 |
 | 81 | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Don't Look Down \(feat\. BANKS\)](https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu) | 3:25 |
 
-Snapshot ID: `MCxlMzA2MzdlNmYwYmQ2NjQyOWNlOTBiZWU4OTRhYzAwZGQ2ZjNjZmNh`
+Snapshot ID: `MCwwMmY0MWM3Yjg4NWJlMDQ3ODVhN2NmZjJhODVhZTI2YWYyZjk5MDI0`

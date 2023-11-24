@@ -4,7 +4,7 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-468 songs - 1 day 2 hr 36 min
+469 songs - 1 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Chicas Como Vos](https://open.spotify.com/track/5cziofA7zkn9kXfNKrmOlI) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Chango](https://open.spotify.com/album/7AzXtthlLZjuqonhrl0Wwa) | 3:02 | 2022-01-28 | 2022-07-21 |
 | [Chispa de Amor](https://open.spotify.com/track/3nIKXjHfT2iLbQAgudc7W5) | [Marcos French](https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc), [Joaquín Plada](https://open.spotify.com/artist/1dh1GlSC1Ct1EKaxAO5Y8D) | [Chispa de Amor](https://open.spotify.com/album/5KONHVbEsrkGG6lMUxGcrz) | 2:33 | 2022-01-28 | 2022-07-29 |
 | [Ciclo Lunar](https://open.spotify.com/track/1r7FUVqC9DUSeBmaXAJR3O) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Ciclo Lunar](https://open.spotify.com/album/3raEoOmR4aimfqCMK1hvUl) | 3:33 | 2022-01-07 |  |
-| [Cintas Con Vos](https://open.spotify.com/track/1ESzERYkODbzpQqRiG4UwT) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH), [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Yate](https://open.spotify.com/album/4vRBTsjY9tP0OeOqZNpVwG) | 2:42 | 2022-01-28 |  |
+| [Cintas Con Vos](https://open.spotify.com/track/1ESzERYkODbzpQqRiG4UwT) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH), [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Yate](https://open.spotify.com/album/4vRBTsjY9tP0OeOqZNpVwG) | 2:42 | 2022-01-28 | 2023-11-24 |
 | [Como Quieras](https://open.spotify.com/track/7H1zvsLV2Wt8l6x9WyTqdb) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [Como Quieras](https://open.spotify.com/album/7iVDvrhP6V3JcChZCFJq7H) | 3:08 | 2022-01-28 | 2022-07-25 |
 | [Como un Pez \(feat\. Usted Señalemelo\)](https://open.spotify.com/track/0fcpgW9niaGLg6ECW2fs6f) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Xavier](https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4) | 4:01 | 2022-04-01 | 2022-04-21 |
 | [Conexión de Almas](https://open.spotify.com/track/1FzebSiQU4NqekvmBxmGZF) | [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb) | [Conexión de Almas](https://open.spotify.com/album/2l90GlBhi3FRK5uVcOeVwQ) | 3:15 | 2023-05-26 |  |
@@ -191,6 +191,7 @@
 | [Gol Que No Se Celebra No Vale](https://open.spotify.com/track/2UVL7SvVvLFWN7E1N8mbY0) | [Filgueira](https://open.spotify.com/artist/0DQLzv4MaQ0SbXa3lazZjU), [Catalina Navarro](https://open.spotify.com/artist/6xch6zph3Lgfj4EeEMwjeu) | [Gol Que No Se Celebra No Vale](https://open.spotify.com/album/3oZrx1G4CVEwYwHcvasqcD) | 3:50 | 2022-01-28 | 2022-06-23 |
 | [Goma](https://open.spotify.com/track/6ADV5jQv9nflcA5t4DIlwY) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Goma](https://open.spotify.com/album/0z6pXUmnSyaaZHKYt9SMkC) | 2:29 | 2022-01-07 | 2022-07-28 |
 | [Gris](https://open.spotify.com/track/0GCosxfQOfRgSQBv3KL9RJ) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Gris](https://open.spotify.com/album/0UOsWy1VM2kMRFdBbLrvYs) | 3:40 | 2022-01-07 | 2022-07-26 |
+| [GUIAME](https://open.spotify.com/track/0b37vDgD47kRYes63nKX5v) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [GUIAME](https://open.spotify.com/album/057ObaWRT9nY13cHAEggco) | 3:18 | 2023-11-23 |  |
 | [Guión](https://open.spotify.com/track/25dTfAAai4vdPvxOmNGQbs) | [Adamar](https://open.spotify.com/artist/6p8DYpZeGqkZHRXRehyEuy) | [Guión](https://open.spotify.com/album/2PnRKxA9vUqRa9Xe80VfWB) | 2:11 | 2022-01-28 | 2022-04-19 |
 | [Hablar de Ti](https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 3:25 | 2022-01-07 |  |
 | [Hacedora](https://open.spotify.com/track/3CaqjyISMBli311fJtv44h) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Hacedora](https://open.spotify.com/album/6DhHC7S2KFdOh7yAtawwUk) | 2:07 | 2023-01-20 | 2023-03-03 |

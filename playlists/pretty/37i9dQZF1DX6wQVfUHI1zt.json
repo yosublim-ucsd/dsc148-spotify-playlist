@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 204588,
+  "num_followers": 204644,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODVkZjFkOGEzNGEyMzMwZmY5MmE2YTdmM2EyOTU1YWJmMWViNDM1",
+  "snapshot_id": "MCwxMmFmZTM4NmNlNjBkZWEzMmYzZWE2YTBiNTcxZjhlOThlMGYyNWM0",
   "tracks": [
     {
       "added_at": "2023-03-10 18:44:18",
@@ -235,8 +235,8 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Llegaste A Mi Vida",
-        "url": "https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l"
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 212733,
-      "name": "Le Pedir\u00e9",
-      "url": "https://open.spotify.com/track/0Oon0YwVUvqf8O8KLukfZj"
+      "duration_ms": 180560,
+      "name": "Ojal\u00e1 Te Animes",
+      "url": "https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -315,8 +315,8 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Vive",
-        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
+        "name": "Llegaste A Mi Vida",
+        "url": "https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 180560,
-      "name": "Ojal\u00e1 Te Animes",
-      "url": "https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr"
+      "duration_ms": 212733,
+      "name": "Le Pedir\u00e9",
+      "url": "https://open.spotify.com/track/0Oon0YwVUvqf8O8KLukfZj"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
+        "name": "ANTHOLOGY: BACK IN THE DAY",
+        "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
+      },
+      "artists": [
+        {
+          "name": "Jay P\u00e9rez",
+          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
+        }
+      ],
+      "duration_ms": 167279,
+      "name": "Que Tristeza",
+      "url": "https://open.spotify.com/track/2oM0iRiHYqh7SDzjIKWRap"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
         "name": "Gran Encuentro (20 \u00c9xitos Originales)",
         "url": "https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 206200,
       "name": "Hasta Cuando",
       "url": "https://open.spotify.com/track/6qawPmwCkK6BLcKVwtIfuy"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
-        "name": "ANTHOLOGY: BACK IN THE DAY",
-        "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
-      },
-      "artists": [
-        {
-          "name": "Jay P\u00e9rez",
-          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
-        }
-      ],
-      "duration_ms": 167279,
-      "name": "Que Tristeza",
-      "url": "https://open.spotify.com/track/2oM0iRiHYqh7SDzjIKWRap"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 217426,
-      "name": "Yo No Tengo La Culpa",
-      "url": "https://open.spotify.com/track/6IY64svdCGr1QWFTD4Gkoy"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "Iconic (Remastered)",
         "url": "https://open.spotify.com/album/04QjiAjGtDlaGITJRecZRj"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 224506,
       "name": "Di Algo featuring Edgar Ramirez of Zeri",
       "url": "https://open.spotify.com/track/65othLo1tpzoD8LUT16GTu"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 217426,
+      "name": "Yo No Tengo La Culpa",
+      "url": "https://open.spotify.com/track/6IY64svdCGr1QWFTD4Gkoy"
     },
     {
       "added_at": "2023-03-10 18:44:18",

@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-301 songs - 1 day 3 hr 48 min
+302 songs - 1 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [I'm Glad There Is You](https://open.spotify.com/track/499pC27JxKGMh6mYyuRmlT) | [Bill Mobley](https://open.spotify.com/artist/2RnJnmDsu7HDPmj4UNjmjh), [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh), [Robert Hurst](https://open.spotify.com/artist/398OLP0K6sxmwsYaB7Wnmj), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh) | [MoodScape](https://open.spotify.com/album/5ACA0ncZdwtno9H8jQ9AQk) | 8:04 | 2020-10-09 | 2022-08-30 |
 | [If I Should Lose You](https://open.spotify.com/track/4da36q6VCwrg4f5pIYx4uf) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [If I Should Lose You](https://open.spotify.com/album/2rTHaKAdXTq8B4XHmWjI4d) | 5:27 | 2022-02-24 | 2023-03-22 |
 | [In Memory](https://open.spotify.com/track/4M7Hi6wUOQ7ECOup83DYov) | [Tingvall Trio](https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M) | [Dance](https://open.spotify.com/album/1KDGAEkezlMWQ46iXhVuok) | 5:18 | 2020-10-09 | 2022-09-07 |
+| [In the Wee Small Hours of the Morning](https://open.spotify.com/track/1lvug6DVmu4Wkbqayo3w2O) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA), [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6) | [Friendship](https://open.spotify.com/album/76J9y1fOCLHKZ0lmwsP0vx) | 4:41 | 2023-11-24 |  |
 | [Infant Eyes](https://open.spotify.com/track/6J8Z1UJG7uTS1mhZsgmJCp) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1xf8Ny57YgeCJxNKm2oVDd) | 7:37 | 2020-10-09 | 2022-07-29 |
 | [Infant Eyes](https://open.spotify.com/track/6hz2ZQNQd98q5iQ4dvjSpX) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx) | 7:37 | 2022-06-30 |  |
 | [Isadora](https://open.spotify.com/track/7G9VsVr1m6YzaJgHyRgz4y) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Yesterday You Said Tomorrow](https://open.spotify.com/album/1yEatbNaAycy7doYijdili) | 6:13 | 2022-06-30 | 2023-01-18 |

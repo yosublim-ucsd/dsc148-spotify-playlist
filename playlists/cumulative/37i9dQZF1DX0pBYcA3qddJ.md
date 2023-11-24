@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-600 songs - 1 day 16 hr 33 min
+601 songs - 1 day 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Echo](https://open.spotify.com/track/6dR3WgS89laha38NshaT1s) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Echo](https://open.spotify.com/album/0LBwlH8cZFGRALUzfphhN8) | 4:05 | 2023-01-24 | 2023-03-01 |
 | [Ekstasis](https://open.spotify.com/track/1iX1fnU6tTBfgJhVyaLK4G) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c), [Timo Andres](https://open.spotify.com/artist/6rsUydMSborFpWv0JkQgiz), [Conor Hanick](https://open.spotify.com/artist/1AJdvQXiX8UiSQQb9aILUO) | [Ekstasis](https://open.spotify.com/album/3KJ9BPyuAcyiH4kjIUCjzf) | 3:04 | 2023-04-18 | 2023-06-14 |
 | [Empty](https://open.spotify.com/track/10eTwzipwhgE4mhMS5QhSW) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Empty](https://open.spotify.com/album/5znDXiNSVyecWyA86i0FrN) | 3:02 | 2023-03-16 | 2023-03-29 |
+| [Empty Lake \(feat\. Clara Mann\)](https://open.spotify.com/track/7xmsz7uSxf88gQ1aLtsmqi) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND), [Clara Mann](https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0) | [Empty Lake \(feat\. Clara Mann\)](https://open.spotify.com/album/7mSgfi9tU0a61heEkhyRJi) | 3:16 | 2023-11-23 |  |
 | [empty shell](https://open.spotify.com/track/4uf0quxl3F7gJVqjiOqlRJ) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [empty shell](https://open.spotify.com/album/7MBRu55DHBJOwB8uEsOMjL) | 3:18 | 2023-05-23 | 2023-06-14 |
 | [End roll](https://open.spotify.com/track/21IHn3CtFPf3f5XwstNAep) | [məjə.](https://open.spotify.com/artist/16TbnMYZFXhZBrQRLVQmWG) | [End roll](https://open.spotify.com/album/0OOUzwGwibaqYO0zafMqs7) | 3:42 | 2023-11-07 | 2023-11-22 |
 | [Endless Time](https://open.spotify.com/track/3PfPXfF25Fso2Y3gq5wjZN) | [Classy Moon](https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI) | [Endless Time](https://open.spotify.com/album/7w8IyyO3S6o6L0QKZcOeAQ) | 3:17 | 2023-02-21 | 2023-03-01 |
@@ -505,7 +506,7 @@
 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 | 2022-10-20 | 2023-02-08 |
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-13 |  |
 | [When You Can't Sleep At Night](https://open.spotify.com/track/42i1pGtSyPVXNX71oW8dyg) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [The Flood \(Deluxe Reissue\)](https://open.spotify.com/album/5PLgKITLdSYuh7OWpIC8nC) | 3:32 | 2022-11-23 | 2023-02-08 |
-| [Where Life Comes from and Returns](https://open.spotify.com/track/0fmDTWvkBIjbrRde18ISAS) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [SEASONS](https://open.spotify.com/album/7pd9LjThGVdv2A7QTbk0OD) | 3:55 | 2023-06-29 |  |
+| [Where Life Comes from and Returns](https://open.spotify.com/track/0fmDTWvkBIjbrRde18ISAS) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [SEASONS](https://open.spotify.com/album/7pd9LjThGVdv2A7QTbk0OD) | 3:55 | 2023-06-29 | 2023-11-24 |
 | [Where'd You Put Me](https://open.spotify.com/track/2S0ljxYxpYhRzH6EBVsUJk) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Where'd You Put Me](https://open.spotify.com/album/0AZUt0xHVvjA609ipJEp3j) | 1:12 | 2023-01-12 | 2023-02-21 |
 | [Where'd You Put Me](https://open.spotify.com/track/3UluQekxnRJ32AwobjW1hB) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/0woHX3PSXbPo52iqriVSFa) | 1:12 | 2023-02-16 | 2023-03-01 |
 | [Widmung, S\. 566 \(After R\. Schumann\)](https://open.spotify.com/track/6Lh6zaxc4P4grGdma3cAT0) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Passage](https://open.spotify.com/album/3daO9WSjhyVWc0ZzexB4Ml) | 3:52 | 2023-06-13 | 2023-07-28 |

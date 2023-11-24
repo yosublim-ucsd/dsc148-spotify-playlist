@@ -1,12 +1,12 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 17254,
+  "num_followers": 17266,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODNmYWMzYjEwYWM2OGQ4MDIxYjZkNzkzNGFjMTVkYWNmZjEzNmZk",
+  "snapshot_id": "MCxkMGMzNmQxMWQwYzVkOWUzZTlhY2YyZTMzZDk1ZmEwMjFkM2M4ZGFj",
   "tracks": [
     {
       "added_at": "2021-10-20 18:30:26",
@@ -27,22 +27,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 234320,
-      "name": "Falaise",
-      "url": "https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Melancholia",
         "url": "https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 409066,
       "name": "Melancholia II",
       "url": "https://open.spotify.com/track/243SYVzBHECQf3paZxeHGd"
+    },
+    {
+      "added_at": "2023-11-23 02:41:58",
+      "album": {
+        "name": "New Blue Sun",
+        "url": "https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "duration_ms": 629853,
+      "name": "That Night In Hawaii When I Turned Into A Panther And Started Making These Low Register Purring Tones That I Couldn't Control ... Sh\u00a5t Was Wild",
+      "url": "https://open.spotify.com/track/7763zdQtsUXNRKMDbahyK5"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -173,6 +173,26 @@
       "url": "https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR"
     },
     {
+      "added_at": "2023-11-23 03:05:31",
+      "album": {
+        "name": "Goo (Joseph Shabason Remix)",
+        "url": "https://open.spotify.com/album/1IuHXILpwXzjM5sm9LDElB"
+      },
+      "artists": [
+        {
+          "name": "Murmur",
+          "url": "https://open.spotify.com/artist/2XtXQPXn2iPxMm1zyJNlYb"
+        },
+        {
+          "name": "Joseph Shabason",
+          "url": "https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Goo - Joseph Shabason Remix",
+      "url": "https://open.spotify.com/track/5uLvP7lZsXe62sg03Ly2s1"
+    },
+    {
       "added_at": "2021-10-20 18:30:26",
       "album": {
         "name": "Tower of Silence",
@@ -255,22 +275,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI"
-      },
-      "artists": [
-        {
-          "name": "Wilson Tanner",
-          "url": "https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i"
-        }
-      ],
-      "duration_ms": 130986,
-      "name": "My Gull",
-      "url": "https://open.spotify.com/track/3onLhReyQTuzAERoiEpj2j"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Introspection (Edit)",
         "url": "https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia"
       },
@@ -283,6 +287,22 @@
       "duration_ms": 155411,
       "name": "Introspection - Edit",
       "url": "https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI"
+      },
+      "artists": [
+        {
+          "name": "Wilson Tanner",
+          "url": "https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i"
+        }
+      ],
+      "duration_ms": 130986,
+      "name": "My Gull",
+      "url": "https://open.spotify.com/track/3onLhReyQTuzAERoiEpj2j"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -623,22 +643,18 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Fourth World Vol 1 Possible Musics",
-        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
       },
       "artists": [
         {
           "name": "Jon Hassell",
           "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 209040,
-      "name": "Delta Rain Dream",
-      "url": "https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql"
+      "duration_ms": 229861,
+      "name": "Toucan Ocean",
+      "url": "https://open.spotify.com/track/1an4tDLE2eH2a21bBpuBh5"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -729,6 +745,26 @@
       "url": "https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0"
     },
     {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Fourth World Vol 1 Possible Musics",
+        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Delta Rain Dream",
+      "url": "https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql"
+    },
+    {
       "added_at": "2023-06-07 02:20:45",
       "album": {
         "name": "Intrapersonal Experience",
@@ -743,22 +779,6 @@
       "duration_ms": 336000,
       "name": "Dear",
       "url": "https://open.spotify.com/track/0tAp8Yk3Sa6GLEaNkXRGzJ"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Vernal Equinox (Remastered)",
-        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        }
-      ],
-      "duration_ms": 229861,
-      "name": "Toucan Ocean",
-      "url": "https://open.spotify.com/track/1an4tDLE2eH2a21bBpuBh5"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -911,22 +931,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Oquo",
-        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Omprovo",
-      "url": "https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Children of the Sun",
         "url": "https://open.spotify.com/album/7JqhSihASq4Jl5SWxeUTdV"
       },
@@ -943,18 +947,18 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Sketch for Winter IX: Perlita",
-        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
+        "name": "Oquo",
+        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
       },
       "artists": [
         {
-          "name": "Carmen Villain",
-          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 316214,
-      "name": "Agua Azul",
-      "url": "https://open.spotify.com/track/6ltgJwPbkprpKTUaysPS0i"
+      "duration_ms": 160000,
+      "name": "Omprovo",
+      "url": "https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -989,6 +993,42 @@
       "url": "https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ"
     },
     {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Sketch for Winter IX: Perlita",
+        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
+      },
+      "artists": [
+        {
+          "name": "Carmen Villain",
+          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
+        }
+      ],
+      "duration_ms": 316214,
+      "name": "Agua Azul",
+      "url": "https://open.spotify.com/track/6ltgJwPbkprpKTUaysPS0i"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Fourth World Vol 1 Possible Musics",
+        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 377066,
+      "name": "Ba-benz\u00e9l\u00e9",
+      "url": "https://open.spotify.com/track/3c9lr5HgwAGEJbThGnkp3i"
+    },
+    {
       "added_at": "2022-01-11 00:30:53",
       "album": {
         "name": "The Loss of Wilderness",
@@ -1019,26 +1059,6 @@
       "duration_ms": 278533,
       "name": "Virgin Ice",
       "url": "https://open.spotify.com/track/5CmYgfxDfGjUENk5UKhktc"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Fourth World Vol 1 Possible Musics",
-        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 377066,
-      "name": "Ba-benz\u00e9l\u00e9",
-      "url": "https://open.spotify.com/track/3c9lr5HgwAGEJbThGnkp3i"
     },
     {
       "added_at": "2022-03-17 01:20:50",
@@ -1179,22 +1199,6 @@
       "duration_ms": 563026,
       "name": "Slow Loris Versus Poison Snail",
       "url": "https://open.spotify.com/track/5y7kD1xehhdOzrVA4mODuj"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Island of the Hungry Ghosts (OST)",
-        "url": "https://open.spotify.com/album/668wZYPOGbtEDG0jTCnmQO"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cupples",
-          "url": "https://open.spotify.com/artist/3OGQFxVzdGQPrvPJXozi8h"
-        }
-      ],
-      "duration_ms": 254553,
-      "name": "The Protester",
-      "url": "https://open.spotify.com/track/49HmzyrPC2NBDNFHLDOCqy"
     }
   ],
   "unique_name": "Planetary Soul",

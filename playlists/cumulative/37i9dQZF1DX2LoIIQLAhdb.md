@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Nej
+> Le R&B français, nouvelle ère\. Photo : Franglish
 
-219 songs - 10 hr 37 min
+221 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Déchirer](https://open.spotify.com/track/58n3lagQzx7m6oUYdlhaqz) | [Iliana](https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83) | [Déchirer](https://open.spotify.com/album/7EjSTlxv8BlPWR8hoUhfAL) | 2:57 | 2023-02-23 | 2023-03-18 |
 | [Déchirer](https://open.spotify.com/track/74tVwfr4Hb5Ca6pQQHjg5q) | [Iliana](https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83) | [Déchirer](https://open.spotify.com/album/0CjzyYuYPb82BKKFHGlSIj) | 2:57 | 2023-01-19 | 2023-02-28 |
 | [Délire \(feat\. Tiakola\)](https://open.spotify.com/track/5JzxQS6OW4GEruKqShvUo8) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Délire \(feat\. Tiakola\)](https://open.spotify.com/album/459LQDfdX2DMzsymKkRRfP) | 3:26 | 2023-05-25 |  |
+| [DÉSOLÉ POURQUOI ?](https://open.spotify.com/track/61eXlvoIlXXuO64Nal87VO) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [DÉSOLÉ POURQUOI ?](https://open.spotify.com/album/6bBPLPUc1eRmCJQ8nHpMIc) | 2:18 | 2023-11-23 |  |
 | [Encore](https://open.spotify.com/track/6VCJY8e0hyDFclsuWWN764) | [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok) | [Encore](https://open.spotify.com/album/2vN8NilAhMUK3hW508tdXq) | 2:20 | 2023-09-28 | 2023-11-17 |
 | [Encore là](https://open.spotify.com/track/0yajebaRJVcOQGdh4giqZy) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Encore là](https://open.spotify.com/album/1YEGYqvsrg8fEltkHGc4tx) | 2:59 | 2022-11-24 | 2023-06-02 |
 | [Encorps](https://open.spotify.com/track/1e9uba4Ei8fHrXDYrNTuTN) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/1AV7yqXIK2IhVpLvd5KSfr) | 3:56 | 2023-02-16 | 2023-02-19 |
@@ -152,6 +153,7 @@
 | [On s'en fout](https://open.spotify.com/track/2Rckl4cG3BpVNor01Dp1OQ) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Drama \(Partie II\)](https://open.spotify.com/album/0EsDUFsahyHF3yksO3o5vW) | 2:59 | 2023-01-19 | 2023-02-24 |
 | [On s'fait du mal \(feat\. Dadju\)](https://open.spotify.com/track/0wzYG3c6CaroEAz4wTPNVD) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:02 | 2023-01-19 |  |
 | [On vient de loin](https://open.spotify.com/track/2hsWXtf1kKPubl90gl6PbQ) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [On vient de loin](https://open.spotify.com/album/12fpYUwuFUcvwCplvxNQSV) | 2:32 | 2023-08-24 | 2023-11-10 |
+| [One Shot](https://open.spotify.com/track/0xg5ABhF24UFZ20SUntmMu) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL), [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ), [Marjinal](https://open.spotify.com/artist/2kw3kVYH86s8K0O4Pebofm) | [One Shot](https://open.spotify.com/album/3ckCqfuPbJrufOimBv51mh) | 1:45 | 2023-11-23 |  |
 | [Oublie moi](https://open.spotify.com/track/48WvqemfqbA3dvefYPul7b) | [Nalaa](https://open.spotify.com/artist/5f6QSFbborpKJmzbQFDAMx) | [Oublie moi](https://open.spotify.com/album/2mtjMDpwcyem8ZoIUNtYok) | 2:52 | 2022-11-24 | 2023-01-20 |
 | [Oublie ton ex](https://open.spotify.com/track/1yphWz5bG21tINheF4Ud9R) | [Wilson](https://open.spotify.com/artist/7ndfTr3ku2KUcZY73ZIX6j) | [Oublie ton ex](https://open.spotify.com/album/2u7GuKbKtA2Nf11DcCi7jl) | 2:32 | 2023-09-14 |  |
 | [Oublier \(Music Monday\)](https://open.spotify.com/track/7dx2Fl6o4UqRT6sUNskitx) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Oublier \(Music Monday\)](https://open.spotify.com/album/7FrXZtOcGmHoIqCsh2TD22) | 2:34 | 2022-11-24 | 2023-01-06 |
@@ -181,7 +183,7 @@
 | [Quelqu'un d'autre](https://open.spotify.com/track/1w62sZZvD2ybf1FEeovI84) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Quelqu'un d'autre](https://open.spotify.com/album/5UcLTGrzXoWuhOPsTKVvZI) | 3:01 | 2023-08-10 | 2023-08-19 |
 | [Quelqu'un d'autre](https://open.spotify.com/track/3Ni5MBq60khbNsor0UYlzk) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Quelqu'un d'autre](https://open.spotify.com/album/4fvXVtz9imF8xZlaK7G8ra) | 3:01 | 2023-08-19 | 2023-10-19 |
 | [Quelqu'un d'autre](https://open.spotify.com/track/4e4hmNgPXUzfoANBzZbV9h) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Quelqu'un d'autre](https://open.spotify.com/album/4PtfBRspzSbF2D1Wx0dIxh) | 3:01 | 2023-10-12 |  |
-| [RALENTIS](https://open.spotify.com/track/2czrgYc5DCObCgvuxboSx8) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [RALENTIS](https://open.spotify.com/album/3oRMxvh84xIQUVJJxyDqQM) | 2:12 | 2023-10-19 |  |
+| [RALENTIS](https://open.spotify.com/track/2czrgYc5DCObCgvuxboSx8) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [RALENTIS](https://open.spotify.com/album/3oRMxvh84xIQUVJJxyDqQM) | 2:12 | 2023-10-19 | 2023-11-24 |
 | [Rassure\-toi](https://open.spotify.com/track/5Y4ryOk5BqUVPOXLmiHKF0) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Rassure\-toi](https://open.spotify.com/album/08kXWDkoGFhwlg5NPatEXo) | 2:54 | 2023-08-24 | 2023-10-13 |
 | [Recommencer](https://open.spotify.com/track/6EF6zlUNisqtLfHEvpTsIF) | [AMK](https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi) | [La Vie de Roni](https://open.spotify.com/album/778m8T5Wd138JDqikOE8Ef) | 2:43 | 2023-07-27 | 2023-09-08 |
 | [Roses](https://open.spotify.com/track/6Wt11M63GQsTr4FMR8YyMt) | [Melina](https://open.spotify.com/artist/5Igaoo9WzRGgvEV3pXNuZA) | [Roses](https://open.spotify.com/album/7Lfnq16oFlmwsCTYOXkunW) | 3:36 | 2023-05-11 | 2023-06-23 |

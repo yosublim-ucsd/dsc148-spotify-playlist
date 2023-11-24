@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 
 > Only the tastiest Christmas jams\. Cover: Paul Simon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,743 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,841 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 | 4 | [Hard Candy Christmas](https://open.spotify.com/track/0uTVChzibEWKrXojPaJ9y1) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Once Upon A Christmas](https://open.spotify.com/album/5JWR4pqfxra6JEeUqNMPO7) | 3:37 |
 | 5 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 |
 | 6 | [Rudolph the Red Nosed Reindeer](https://open.spotify.com/track/3vXnnXluEiB3oc62q6QckE) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain Christmas](https://open.spotify.com/album/0T1OPbbHzWErKBMdZrbhCQ) | 1:47 |
-| 7 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 2:24 |
+| 7 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 |
 | 8 | [River](https://open.spotify.com/track/6cASEnba3ti0c2UdzYlx58) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [A Merry Little Christmas](https://open.spotify.com/album/6guYpGmHEbYjv9cRFqFHW1) | 4:08 |
-| 9 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 |
+| 9 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 2:24 |
 | 10 | [Go Tell It On The Mountain](https://open.spotify.com/track/5nRs6WolfuzvTEJjTOyQ5v) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [James Taylor At Christmas \(Bonus Track Version\)](https://open.spotify.com/album/0K3xxBQ1IdjrGGo9qhLIwf) | 3:42 |
 | 11 | [This Christmas](https://open.spotify.com/track/38xhBO2AKrJnjdjVnhJES6) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 3:51 |
 | 12 | [What Christmas Means To Me](https://open.spotify.com/track/1V0qqWBbIWt8hlAjxTZedR) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:28 |
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 | 20 | [Little Drummer Boy \- Remastered 2011](https://open.spotify.com/track/6bwR82xePLfIHQqATJdJNp) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Ultimate Hits: Rock And Roll Never Forgets \(Remastered\)](https://open.spotify.com/album/5HLuIHrmhJ64gTWAFgNj9Z) | 3:32 |
 | 21 | [It Won't Seem Like Christmas \(Without You\)](https://open.spotify.com/track/4rsxx3c7BYGwdp3iOqcxbf) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis Sings the Wonderful World of Christmas](https://open.spotify.com/album/67WNQsweOZ94qxgAUDGXAk) | 2:44 |
 | 22 | [Christmas At Our House](https://open.spotify.com/track/38BQ3pZGq9MMNSguqGKZc5) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Christmas At Our House](https://open.spotify.com/album/5rM65xh4QGfosymiKhjADf) | 2:52 |
-| 23 | [Winterlude](https://open.spotify.com/track/6h8laPks98zPizQ5qahy40) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [New Morning](https://open.spotify.com/album/48efaobqOTbvnlxbETstey) | 2:22 |
+| 23 | [Love Has Come](https://open.spotify.com/track/1vK4GktAHoF73cIA8tGxRI) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [A Christmas Album](https://open.spotify.com/album/2QT0UoFwDjyeg6LcezebJs) | 4:01 |
 | 24 | [White Christmas](https://open.spotify.com/track/7LxsehOTDXTpsuWAMWXe9o) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Merry Christmas Baby / White Christmas](https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp) | 3:02 |
-| 25 | [Love Has Come](https://open.spotify.com/track/1vK4GktAHoF73cIA8tGxRI) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [A Christmas Album](https://open.spotify.com/album/2QT0UoFwDjyeg6LcezebJs) | 4:01 |
-| 26 | [Please Come Home For Christmas](https://open.spotify.com/track/6EHt0F5hYO9HODSyeKjDcy) | [Jon Bon Jovi](https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif) | [A Very Special Christmas \- Essential](https://open.spotify.com/album/3PFnE9aYFIxWzI1INS7lY6) | 2:52 |
-| 27 | [Merry Christmas Baby](https://open.spotify.com/track/44nlugAWj5v56iRyGa4ieE) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 4:32 |
+| 25 | [Winterlude](https://open.spotify.com/track/6h8laPks98zPizQ5qahy40) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [New Morning](https://open.spotify.com/album/48efaobqOTbvnlxbETstey) | 2:22 |
+| 26 | [Merry Christmas Baby](https://open.spotify.com/track/44nlugAWj5v56iRyGa4ieE) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 4:32 |
+| 27 | [Please Come Home For Christmas](https://open.spotify.com/track/6EHt0F5hYO9HODSyeKjDcy) | [Jon Bon Jovi](https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif) | [A Very Special Christmas \- Essential](https://open.spotify.com/album/3PFnE9aYFIxWzI1INS7lY6) | 2:52 |
 | 28 | [Christmas In My Home Town](https://open.spotify.com/track/6g7bSMPsAcO1BYHueLyXQ9) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Christmas In My Hometown \(Expanded Edition\)](https://open.spotify.com/album/0jnOrnjoEhB5tEMOFyzXPz) | 2:04 |
 | 29 | [My Christmas Tree](https://open.spotify.com/track/1x6KtTuPUDLHEpmQHjzzwh) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations' Christmas Card](https://open.spotify.com/album/6I2JnGSREqEgFPnSXkFxlW) | 3:18 |
 | 30 | [Christmas Everyday](https://open.spotify.com/track/4uKM6IhPAkcyUGH0sSSlDN) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [20th Century Masters \- The Best of Smokey Robinson & The Miracles: The Christmas Collection](https://open.spotify.com/album/3R4NS486mXBcQ9CrLUmDhQ) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NvsfzYNmmz.md) - [plain]
 | 49 | [My Grown\-Up Christmas List](https://open.spotify.com/track/0i4l97vplepWtxmJfPdcDn) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [This Christmas](https://open.spotify.com/album/3r8Q53TiFAKYR19SBLYL75) | 5:14 |
 | 50 | [Little Christmas Tree](https://open.spotify.com/track/2xBJS5zxvaTjoDoFT9oNOb) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Christmas with The Jackson 5](https://open.spotify.com/album/0BRTKpudDZbBrZzqPHfijR) | 3:36 |
 
-Snapshot ID: `MCxlYmQyZDYzMzczN2IzNzg2MzQzNjAyZTkxN2JkNjQ0YzA1OTIyM2Jj`
+Snapshot ID: `MCw0NjAwOWY1ZGNmMDJjNzdkYzM0ZjFlNDE3NWFiNDk3ODgxODQ4ZTdi`

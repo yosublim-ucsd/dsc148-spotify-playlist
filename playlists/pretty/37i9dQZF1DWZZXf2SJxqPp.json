@@ -1,12 +1,12 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 130274,
+  "num_followers": 130311,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzcxZjQ4ZDgyMTlmZTcwYmJlNTAxYzExMGU1MTgzM2U4ZmJiNGI2",
+  "snapshot_id": "MCxhMzYxMDVlZGY2MzYzYzkwNjJkZTU4ZjM4NGQ3ZDg5MzZmYzAyYTI3",
   "tracks": [
     {
       "added_at": "2023-08-14 14:58:41",
@@ -239,6 +239,26 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Luv Is Not Enough (Remixes)",
+        "url": "https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        },
+        {
+          "name": "Forrest Mortifee",
+          "url": "https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ"
+        }
+      ],
+      "duration_ms": 197894,
+      "name": "Luv Is Not Enough",
+      "url": "https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Shika Shika / Botanas Series",
         "url": "https://open.spotify.com/album/4B6o0gnr78p6pOuswmStUP"
       },
@@ -259,26 +279,6 @@
       "duration_ms": 250786,
       "name": "Miniyamba",
       "url": "https://open.spotify.com/track/1h6i0ETE1wdClYTi8ppsu6"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Luv Is Not Enough (Remixes)",
-        "url": "https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa"
-      },
-      "artists": [
-        {
-          "name": "Miami Horror",
-          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
-        },
-        {
-          "name": "Forrest Mortifee",
-          "url": "https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ"
-        }
-      ],
-      "duration_ms": 197894,
-      "name": "Luv Is Not Enough",
-      "url": "https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -331,6 +331,26 @@
       "duration_ms": 258399,
       "name": "Okay Okay",
       "url": "https://open.spotify.com/track/6W0PqAtbW7fkTRBtmwOwfM"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Illumination",
+        "url": "https://open.spotify.com/album/37oEeZfUpmbYlJnORF36Zk"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        },
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        }
+      ],
+      "duration_ms": 233229,
+      "name": "I Look to You",
+      "url": "https://open.spotify.com/track/4i7HrBTsaocmoNPoifG7Bd"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -415,26 +435,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Illumination",
-        "url": "https://open.spotify.com/album/37oEeZfUpmbYlJnORF36Zk"
-      },
-      "artists": [
-        {
-          "name": "Miami Horror",
-          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
-        },
-        {
-          "name": "Kimbra",
-          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
-        }
-      ],
-      "duration_ms": 233229,
-      "name": "I Look to You",
-      "url": "https://open.spotify.com/track/4i7HrBTsaocmoNPoifG7Bd"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Starry Night",
         "url": "https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI"
       },
@@ -499,6 +499,30 @@
       "duration_ms": 252360,
       "name": "MOVEMENTS",
       "url": "https://open.spotify.com/track/7Fn5UwylCTDEldF1ZVz1uj"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Luv Is Not Enough (Remixes)",
+        "url": "https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        },
+        {
+          "name": "Forrest Mortifee",
+          "url": "https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ"
+        },
+        {
+          "name": "Cabu",
+          "url": "https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE"
+        }
+      ],
+      "duration_ms": 175259,
+      "name": "Luv Is Not Enough - Cabu Remix",
+      "url": "https://open.spotify.com/track/2RGLP4kZKLmTgxva9QE5Qx"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -607,30 +631,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Luv Is Not Enough (Remixes)",
-        "url": "https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa"
-      },
-      "artists": [
-        {
-          "name": "Miami Horror",
-          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
-        },
-        {
-          "name": "Forrest Mortifee",
-          "url": "https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ"
-        },
-        {
-          "name": "Cabu",
-          "url": "https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE"
-        }
-      ],
-      "duration_ms": 175259,
-      "name": "Luv Is Not Enough - Cabu Remix",
-      "url": "https://open.spotify.com/track/2RGLP4kZKLmTgxva9QE5Qx"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Flash",
         "url": "https://open.spotify.com/album/5ydGen2aXGjy4rawJIKhe5"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 170869,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/5VuJ8ujlsdNV8ZOle0TYfK"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "MOOD",
         "url": "https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl"
       },
@@ -795,6 +779,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 170869,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/5VuJ8ujlsdNV8ZOle0TYfK"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Akousmatikous",
         "url": "https://open.spotify.com/album/2rIjJDL6c2IlN8rrWOhwGD"
       },
@@ -815,26 +815,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "froge.mp3",
-        "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
+        "name": "Nabi (feat. Ohhyuk)",
+        "url": "https://open.spotify.com/album/06LftbqN9jVmaHDFq4eitA"
       },
       "artists": [
         {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         },
         {
-          "name": "Tommy Villiers",
-          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
-        },
-        {
-          "name": "piri & tommy",
-          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
         }
       ],
-      "duration_ms": 195226,
-      "name": "beachin",
-      "url": "https://open.spotify.com/track/3urYUGRvToBI4u87OzsSMZ"
+      "duration_ms": 232914,
+      "name": "Nabi (feat. OHHYUK)",
+      "url": "https://open.spotify.com/track/6zQ24McTYC36rMWRgEfzqC"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -859,22 +855,26 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Nabi (feat. Ohhyuk)",
-        "url": "https://open.spotify.com/album/06LftbqN9jVmaHDFq4eitA"
+        "name": "froge.mp3",
+        "url": "https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7"
       },
       "artists": [
         {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
         },
         {
-          "name": "OHHYUK",
-          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        },
+        {
+          "name": "piri & tommy",
+          "url": "https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65"
         }
       ],
-      "duration_ms": 232914,
-      "name": "Nabi (feat. OHHYUK)",
-      "url": "https://open.spotify.com/track/6zQ24McTYC36rMWRgEfzqC"
+      "duration_ms": 195226,
+      "name": "beachin",
+      "url": "https://open.spotify.com/track/3urYUGRvToBI4u87OzsSMZ"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Juniore",
+        "url": "https://open.spotify.com/album/5LwyECqq41iEKBWgZtsH6k"
+      },
+      "artists": [
+        {
+          "name": "Juniore",
+          "url": "https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "A la plage",
+      "url": "https://open.spotify.com/track/1Z4w6YamUv4sYZCf8nPT8N"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Satingarona, Pt. 2",
         "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 286726,
       "name": "I Want Your Attention",
       "url": "https://open.spotify.com/track/2RU67aiaESQ7t9D1xUJqBu"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Juniore",
-        "url": "https://open.spotify.com/album/5LwyECqq41iEKBWgZtsH6k"
-      },
-      "artists": [
-        {
-          "name": "Juniore",
-          "url": "https://open.spotify.com/artist/1vxsourLLLfobrxyWAcuQH"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "A la plage",
-      "url": "https://open.spotify.com/track/1Z4w6YamUv4sYZCf8nPT8N"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "We Love Dogs!",
+        "url": "https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        },
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 236082,
+      "name": "Hello Hello Hello - Polo & Pan Remix",
+      "url": "https://open.spotify.com/track/4L42hh6L8tpg1KPVwGkUja"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Discoman",
         "url": "https://open.spotify.com/album/0A2nttPiJAdDfjkmt9l2vT"
       },
@@ -1351,26 +1371,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "We Love Dogs!",
-        "url": "https://open.spotify.com/album/1Aus1dFkP2BSyzibCl0HA7"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        },
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 236082,
-      "name": "Hello Hello Hello - Polo & Pan Remix",
-      "url": "https://open.spotify.com/track/4L42hh6L8tpg1KPVwGkUja"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Polydans",
         "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
       },
@@ -1383,6 +1383,22 @@
       "duration_ms": 274716,
       "name": "Feels Right",
       "url": "https://open.spotify.com/track/0LyCSWeijWECQa0rbB35V2"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Moment EP",
+        "url": "https://open.spotify.com/album/13ANf72KYKBlFSwGgiC1Y1"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 401695,
+      "name": "Han Pan",
+      "url": "https://open.spotify.com/track/3KAMgcLxqce9PRkwzbYkHa"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1423,38 +1439,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Moment EP",
-        "url": "https://open.spotify.com/album/13ANf72KYKBlFSwGgiC1Y1"
+        "name": "Du rivage",
+        "url": "https://open.spotify.com/album/1RRsys1mwPSPsA0qbWHIWD"
       },
       "artists": [
         {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+          "name": "Weekend Affair",
+          "url": "https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7"
         }
       ],
-      "duration_ms": 401695,
-      "name": "Han Pan",
-      "url": "https://open.spotify.com/track/3KAMgcLxqce9PRkwzbYkHa"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Voodoo? (Lazywax Remix)",
-        "url": "https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "Lazywax",
-          "url": "https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw"
-        }
-      ],
-      "duration_ms": 386443,
-      "name": "Voodoo? - Lazywax Remix",
-      "url": "https://open.spotify.com/track/2wHeYDrniYngp3did3McYD"
+      "duration_ms": 214733,
+      "name": "Descends",
+      "url": "https://open.spotify.com/track/0z5fkd9sWqGpQd6cr8y0dH"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1475,18 +1471,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Du rivage",
-        "url": "https://open.spotify.com/album/1RRsys1mwPSPsA0qbWHIWD"
+        "name": "Voodoo? (Lazywax Remix)",
+        "url": "https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9"
       },
       "artists": [
         {
-          "name": "Weekend Affair",
-          "url": "https://open.spotify.com/artist/0dZXa7OgcOzv3tNUagbKb7"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Lazywax",
+          "url": "https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw"
         }
       ],
-      "duration_ms": 214733,
-      "name": "Descends",
-      "url": "https://open.spotify.com/track/0z5fkd9sWqGpQd6cr8y0dH"
+      "duration_ms": 386443,
+      "name": "Voodoo? - Lazywax Remix",
+      "url": "https://open.spotify.com/track/2wHeYDrniYngp3did3McYD"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Lost in Music",
-        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
-      },
-      "artists": [
-        {
-          "name": "Maulis\u00e9",
-          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
-        }
-      ],
-      "duration_ms": 208150,
-      "name": "Lost in Music",
-      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Luminous",
         "url": "https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 240000,
       "name": "Through The Night",
       "url": "https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Lost in Music",
+        "url": "https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG"
+      },
+      "artists": [
+        {
+          "name": "Maulis\u00e9",
+          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
+        }
+      ],
+      "duration_ms": 208150,
+      "name": "Lost in Music",
+      "url": "https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Jogar",
-        "url": "https://open.spotify.com/album/3I7vdWnYNdlyvnNnYVQRUJ"
-      },
-      "artists": [
-        {
-          "name": "Souleance",
-          "url": "https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD"
-        }
-      ],
-      "duration_ms": 259750,
-      "name": "Segrados Do Samba",
-      "url": "https://open.spotify.com/track/1QXImka15rUVwpakYivJ70"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Canta",
         "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 275746,
       "name": "Canta",
       "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Jogar",
+        "url": "https://open.spotify.com/album/3I7vdWnYNdlyvnNnYVQRUJ"
+      },
+      "artists": [
+        {
+          "name": "Souleance",
+          "url": "https://open.spotify.com/artist/0HGVduSq54fO1fazKRZnaD"
+        }
+      ],
+      "duration_ms": 259750,
+      "name": "Segrados Do Samba",
+      "url": "https://open.spotify.com/track/1QXImka15rUVwpakYivJ70"
     },
     {
       "added_at": "2023-08-14 14:58:41",

@@ -398,7 +398,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 152000,
       "name": "All Three Eyes",
       "url": "https://open.spotify.com/track/5ZYLuWpHYXDx5NYj21nHrd"
@@ -612,7 +612,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 156029,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/6NTZCq7P6aZRbP6KpJTIvw"
@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 155142,
       "name": "Blacked Out Tint",
       "url": "https://open.spotify.com/track/24rcytWl0Fq9CmC9QU2Hns"
@@ -1797,6 +1797,24 @@
     },
     {
       "album": {
+        "name": "Came Up",
+        "url": "https://open.spotify.com/album/1rqqWU8YhSiZtpgRj4ifIk"
+      },
+      "artists": [
+        {
+          "name": "Tommy Gunn",
+          "url": "https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141897,
+      "name": "Came Up",
+      "url": "https://open.spotify.com/track/2RliZBbqScxl8c9chozCc2"
+    },
+    {
+      "album": {
         "name": "Can't Be Free",
         "url": "https://open.spotify.com/album/1DTZCG8pD8cpDRzwAfitAA"
       },
@@ -2082,6 +2100,28 @@
       "duration_ms": 207960,
       "name": "City Of Gods",
       "url": "https://open.spotify.com/track/4BQgU3gXCoyr78Ti7yPQXq"
+    },
+    {
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/0DJs9ZbmZfELKebEReq8Du"
+      },
+      "artists": [
+        {
+          "name": "SHYY",
+          "url": "https://open.spotify.com/artist/1YwahHQ8EJW7tM6z9hQci3"
+        },
+        {
+          "name": "No Money Enterprise",
+          "url": "https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135813,
+      "name": "Cleopatra",
+      "url": "https://open.spotify.com/track/3Y11Cdb3yQqTlz6FyVmxQN"
     },
     {
       "album": {
@@ -3999,6 +4039,28 @@
     },
     {
       "album": {
+        "name": "GANTZ (feat. EK)",
+        "url": "https://open.spotify.com/album/3LiojQxWIZGce2OhlDp91a"
+      },
+      "artists": [
+        {
+          "name": "1300",
+          "url": "https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P"
+        },
+        {
+          "name": "EK",
+          "url": "https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210369,
+      "name": "GANTZ (feat. EK)",
+      "url": "https://open.spotify.com/track/2NEYKsbrZn7K2eTsdyFU9L"
+    },
+    {
+      "album": {
         "name": "GEEBO",
         "url": "https://open.spotify.com/album/28pMKZUWlE56kSUhuW5i8H"
       },
@@ -4224,6 +4286,24 @@
       "duration_ms": 146060,
       "name": "Going Back",
       "url": "https://open.spotify.com/track/1A2ZIRUtEVHHBj6ElsSysV"
+    },
+    {
+      "album": {
+        "name": "GOLDEN TAN",
+        "url": "https://open.spotify.com/album/0g1TUTFKhCXhjrbRVgD51W"
+      },
+      "artists": [
+        {
+          "name": "Day1",
+          "url": "https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "GOLDEN TAN",
+      "url": "https://open.spotify.com/track/0BGpFyx94bloTixpSc2Fl3"
     },
     {
       "album": {
@@ -5280,6 +5360,24 @@
       "duration_ms": 127585,
       "name": "I'M BABY",
       "url": "https://open.spotify.com/track/59gMRfb6BmxurQ79RCURil"
+    },
+    {
+      "album": {
+        "name": "SPRING",
+        "url": "https://open.spotify.com/album/7daufRMnOOB2v2CP1ev9cN"
+      },
+      "artists": [
+        {
+          "name": "Chandler Jewels",
+          "url": "https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115486,
+      "name": "I'M HIM",
+      "url": "https://open.spotify.com/track/4RORp4ME6jWic4il63VgvY"
     },
     {
       "album": {
@@ -7633,6 +7731,28 @@
     },
     {
       "album": {
+        "name": "NYASH",
+        "url": "https://open.spotify.com/album/4GQqQ1ERrCZrH2SgpwIobc"
+      },
+      "artists": [
+        {
+          "name": "KILY SAFARI",
+          "url": "https://open.spotify.com/artist/67iwxQsW9XSe5FPSq5VJra"
+        },
+        {
+          "name": "MEZMURE",
+          "url": "https://open.spotify.com/artist/661IDpZbes60JtwHMGOOju"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142908,
+      "name": "NYASH",
+      "url": "https://open.spotify.com/track/0vf5Fs3wArIdzWCZ4RlLIw"
+    },
+    {
+      "album": {
         "name": "O.T",
         "url": "https://open.spotify.com/album/2FhzbED5me6JRyW6XhcLoz"
       },
@@ -8630,6 +8750,24 @@
       "duration_ms": 75062,
       "name": "PTSD",
       "url": "https://open.spotify.com/track/1JAXID85pIHbvaFBQgjuLK"
+    },
+    {
+      "album": {
+        "name": "Pull It Up",
+        "url": "https://open.spotify.com/album/33cYFSyck2TiCnEYHFxqk6"
+      },
+      "artists": [
+        {
+          "name": "Gold Fang",
+          "url": "https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154261,
+      "name": "Pull It Up",
+      "url": "https://open.spotify.com/track/4LbTlzMQmQlJJ0ABxBRYsF"
     },
     {
       "album": {
@@ -10296,7 +10434,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 184090,
       "name": "SWEEP",
       "url": "https://open.spotify.com/track/1MF5nqFJTaS7xNVkte77TT"
@@ -10416,7 +10554,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 143661,
       "name": "TALKIN DIS DAT",
       "url": "https://open.spotify.com/track/1NtVBfmd9lCTXOpaW3t9pD"
@@ -11351,6 +11489,24 @@
     },
     {
       "album": {
+        "name": "UH UH",
+        "url": "https://open.spotify.com/album/6Dcnj6vb8Mdbf7bDT1VY2Q"
+      },
+      "artists": [
+        {
+          "name": "Letoa",
+          "url": "https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125070,
+      "name": "UH UH",
+      "url": "https://open.spotify.com/track/6CoSZHbo5BMNY7NKtBvHYX"
+    },
+    {
+      "album": {
         "name": "Underdog",
         "url": "https://open.spotify.com/album/3fOVdOefDN43WjiLi2m7ZF"
       },
@@ -11398,7 +11554,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 166153,
       "name": "UNO (feat. Gold Fang)",
       "url": "https://open.spotify.com/track/5DL1eSQgbJcI9LqO6PnKTY"
@@ -12131,6 +12287,24 @@
     },
     {
       "album": {
+        "name": "XMAS TRAP",
+        "url": "https://open.spotify.com/album/3OuCwKjvGrK5rYEeHus3kZ"
+      },
+      "artists": [
+        {
+          "name": "SkuX",
+          "url": "https://open.spotify.com/artist/4HkdbjrOHNEnAj0wVccCgv"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119183,
+      "name": "XMAS TRAP",
+      "url": "https://open.spotify.com/track/3HQJsvOpRLEFHZzxJHUlYg"
+    },
+    {
+      "album": {
         "name": "DREAMVIEW",
         "url": "https://open.spotify.com/album/6cBcZcxez5xrax7EujLjKZ"
       },
@@ -12280,7 +12454,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 158415,
       "name": "You Tried!",
       "url": "https://open.spotify.com/track/5iE8B0whBgXW0j6Z9O1f3z"

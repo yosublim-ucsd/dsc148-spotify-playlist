@@ -64,7 +64,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 150924,
       "name": "95 Project (Reprise)",
       "url": "https://open.spotify.com/track/6XY6EHw2syj0We0U0GxCf7"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 193946,
       "name": "better off",
       "url": "https://open.spotify.com/track/7bdYxWPCs46dQ0XLwySOyv"
@@ -546,6 +546,24 @@
       "duration_ms": 166594,
       "name": "Better Than Snow",
       "url": "https://open.spotify.com/track/74H6uHl17HLeYWshgDfMrX"
+    },
+    {
+      "album": {
+        "name": "Bibi",
+        "url": "https://open.spotify.com/album/6RTHSt3mVGwyYlc2Q37vNl"
+      },
+      "artists": [
+        {
+          "name": "BAUKHA",
+          "url": "https://open.spotify.com/artist/7MIbS9ds7J2A9rLEaIYLRK"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274015,
+      "name": "Bibi",
+      "url": "https://open.spotify.com/track/2a0jla6CzHQSm5QAyj6aP2"
     },
     {
       "album": {
@@ -1021,6 +1039,32 @@
     },
     {
       "album": {
+        "name": "Closer (feat. Andreya Triana)",
+        "url": "https://open.spotify.com/album/7tE9gx7J5h4NKc4K3hVcmt"
+      },
+      "artists": [
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        },
+        {
+          "name": "Mala",
+          "url": "https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258608,
+      "name": "Closer (feat. Andreya Triana)",
+      "url": "https://open.spotify.com/track/6Qi2kyUmKxlzlYLnOaDnHZ"
+    },
+    {
+      "album": {
         "name": "summer,",
         "url": "https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1"
       },
@@ -1304,6 +1348,28 @@
       "duration_ms": 244285,
       "name": "Don\u2019t Get Too Close",
       "url": "https://open.spotify.com/track/6GYe9bY4looLlWjY1ffJ5Y"
+    },
+    {
+      "album": {
+        "name": "Empty Lake (feat. Clara Mann)",
+        "url": "https://open.spotify.com/album/7mSgfi9tU0a61heEkhyRJi"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        },
+        {
+          "name": "Clara Mann",
+          "url": "https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196725,
+      "name": "Empty Lake (feat. Clara Mann)",
+      "url": "https://open.spotify.com/track/7xmsz7uSxf88gQ1aLtsmqi"
     },
     {
       "album": {
@@ -5016,7 +5082,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 160554,
       "name": "the evidence",
       "url": "https://open.spotify.com/track/4jeT6Z5VHsmx4EEG3kED7n"

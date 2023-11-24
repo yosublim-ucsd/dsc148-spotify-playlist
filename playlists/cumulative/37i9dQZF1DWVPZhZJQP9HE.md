@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Ashwin Vinayagamoorthy
 
-468 songs - 1 day 3 hr 45 min
+469 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,6 +364,7 @@
 | [Puppy Shame](https://open.spotify.com/track/5Iq2CSFEDfRkngMgDfrLMn) | [Shyam Sasikumar](https://open.spotify.com/artist/4UsEnWXfJJrVNNEv4fClaT), [Xwrld](https://open.spotify.com/artist/4j8qTveVETBkm23uFjJv5f), [MD Musiq](https://open.spotify.com/artist/2xTXq78UpppRzJ8br7kFA1) | [Palaya Folder](https://open.spotify.com/album/53ZtBsYjTasQUCmg3Qd8Hz) | 3:02 | 2022-11-28 | 2023-03-09 |
 | [Rain Rain Poi Thola](https://open.spotify.com/track/7Du7gAbZm9g9iyJsFpKLGG) | [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Rain Rain Poi Thola](https://open.spotify.com/album/6YfSHRJ3GMjWTPgPDMVjyR) | 3:28 | 2023-11-14 |  |
 | [Rasathi](https://open.spotify.com/track/0CIPyhEbq7QKzOfDw6tQaQ) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [K.J Iyenar](https://open.spotify.com/artist/48x2n0fDajDy8dejSS83TN) | [Rasathi](https://open.spotify.com/album/6KMJDalW6JJfQjLTUbRbQT) | 4:45 | 2023-01-19 | 2023-02-22 |
+| [Rayil Pogum Idam](https://open.spotify.com/track/2pWUNHtUmNNKfvLGIsSKLN) | [Vijaynarain](https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi) | [Rayil Pogum Idam](https://open.spotify.com/album/3DgXRTUhQVT4mk7xSKwU3i) | 3:07 | 2023-11-23 |  |
 | [Rendu Bottle Vodka \- From "Cosmo Kadhal"](https://open.spotify.com/track/54cWlnscttOqFY0tsNLNLW) | [Josh Vivian](https://open.spotify.com/artist/0C48t0nOfxy7ZymGQVpEP8), [Roe Vincent](https://open.spotify.com/artist/5FP2oei0td30JwMSj5jm2f), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Rendu Bottle Vodka \(From "Cosmo Kadhal"\)](https://open.spotify.com/album/5rXK24JqIrZzCRZZhgpDpQ) | 3:40 | 2022-04-07 | 2022-08-12 |
 | [Rider Fighter](https://open.spotify.com/track/1wMJESbiqngTGJvDNhy4Xi) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI) | [Rider Fighter](https://open.spotify.com/album/5qikTzQxzJT79i2Ng3yhbI) | 3:53 | 2022-02-01 | 2022-07-18 |
 | [Rotoram Pakayila](https://open.spotify.com/track/6A63e8EqB42KzE7VtfAoUW) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Rotoram Pakayila](https://open.spotify.com/album/5M0jTe8qJQ5u4vrI1i2Dq7) | 3:19 | 2023-06-26 |  |

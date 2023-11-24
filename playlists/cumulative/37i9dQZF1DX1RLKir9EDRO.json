@@ -6425,6 +6425,24 @@
     },
     {
       "album": {
+        "name": "SALIYORUM KENDIMI",
+        "url": "https://open.spotify.com/album/0oPOUsC27ibrQdZYT1mEnP"
+      },
+      "artists": [
+        {
+          "name": "orkun ali",
+          "url": "https://open.spotify.com/artist/12J81Ckps37g45ExMM58pz"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "SALIYORUM KENDIMI",
+      "url": "https://open.spotify.com/track/3NGjTQadGoMOCP49wATzbA"
+    },
+    {
+      "album": {
         "name": "Sana G\u00f6re",
         "url": "https://open.spotify.com/album/07BjCVv5cq7U0npxs6yZ3q"
       },

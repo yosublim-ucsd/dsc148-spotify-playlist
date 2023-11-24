@@ -2305,6 +2305,28 @@
     },
     {
       "album": {
+        "name": "Umbra",
+        "url": "https://open.spotify.com/album/4DjALZHUdagEjSO0E53Fzq"
+      },
+      "artists": [
+        {
+          "name": "Cabrita",
+          "url": "https://open.spotify.com/artist/4FVt6BMbyh2PeX0asQ8nMF"
+        },
+        {
+          "name": "LARIE",
+          "url": "https://open.spotify.com/artist/3ghao2yjayK7uaht9Z0bFy"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210760,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/2WqMiwXwjpj3kFcO4ht37Z"
+    },
+    {
+      "album": {
         "name": "Orb II",
         "url": "https://open.spotify.com/album/6k78QLpwnOuAJOIcg6l95f"
       },
@@ -2472,7 +2494,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 209480,
       "name": "Descending To Nowhere",
       "url": "https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF"
@@ -6546,7 +6568,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 204333,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/4Lgp39erLhFmODQ2AnPl2r"
@@ -6956,6 +6978,24 @@
       "duration_ms": 215080,
       "name": "maracuya massage",
       "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
+    },
+    {
+      "album": {
+        "name": "Maragato (Radio Edit)",
+        "url": "https://open.spotify.com/album/38YA6TrQNaJQrzzkAUqCWz"
+      },
+      "artists": [
+        {
+          "name": "Club Makumba",
+          "url": "https://open.spotify.com/artist/0JEcPoUdVr4MDQr7AdMzcJ"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232213,
+      "name": "Maragato - Radio Edit",
+      "url": "https://open.spotify.com/track/4cQ15lnJj2NXRRLkBBbvdi"
     },
     {
       "album": {
@@ -8140,7 +8180,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 222250,
       "name": "Olurmu Dersin",
       "url": "https://open.spotify.com/track/68qlHuj9jmAzXUAI4glkA0"
@@ -10326,6 +10366,24 @@
       "duration_ms": 187166,
       "name": "Taivshral",
       "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
+    },
+    {
+      "album": {
+        "name": "Takahashi Timing",
+        "url": "https://open.spotify.com/album/4FB2v9d5YbuygEMXFFYkfO"
+      },
+      "artists": [
+        {
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324978,
+      "name": "Takahashi Timing",
+      "url": "https://open.spotify.com/track/5fYTGGSAxJz2cSWAAWwGZG"
     },
     {
       "album": {

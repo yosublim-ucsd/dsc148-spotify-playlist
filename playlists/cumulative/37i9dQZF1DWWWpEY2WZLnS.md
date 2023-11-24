@@ -4,7 +4,7 @@
 
 > Los éxitos del Dembow\. Portada: Jey One
 
-317 songs - 16 hr 3 min
+318 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Alta Gama](https://open.spotify.com/track/2nQkw2gz6HyqG4UDtZpDil) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [DEMBOW PEGAO VERANO 2021](https://open.spotify.com/album/1vcQOxtYH1vQHaozkDPVLf) | 2:41 | 2023-02-09 | 2023-02-25 |
 | [Alta Gama](https://open.spotify.com/track/2hfeAtMrCUt0F9zlsRT9JJ) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Alta Gama](https://open.spotify.com/album/1Vtj5n7MDhnUTSwCN1MJ14) | 2:42 | 2021-11-19 | 2023-08-04 |
 | [ALÓ ALÓ](https://open.spotify.com/track/6ReFi3vfEoFCg5HnRlmOZR) | [BK](https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux), [Italian Somali](https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv) | [ALÓ ALÓ](https://open.spotify.com/album/15dVINVh9730rBXttt5smv) | 2:56 | 2022-03-18 | 2022-07-16 |
+| [AQUI TA SMOKE](https://open.spotify.com/track/3SK0dEKhmkhx6EHjZRHm1r) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [EL REY DEL DEMBOW](https://open.spotify.com/album/6JPOiUKS6Ei5Aq43PBQ1El) | 2:54 | 2023-11-23 |  |
 | [Arete](https://open.spotify.com/track/2p5LVvY7ja8NQKJoSaqJL4) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE), [Kaly Ocho](https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD) | [Reencarnaciòn](https://open.spotify.com/album/7sPE3bH9YnLraUfpREGcvr) | 2:16 | 2023-02-09 | 2023-06-23 |
 | [Ay Si Ñiño \(Remix\)](https://open.spotify.com/track/33QRkn2HK18QZA7jZRKWou) | [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk), [Mafeo 13](https://open.spotify.com/artist/6qgOVc7H8dqguJGtvpzeiP), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Ay Si Ñiño \(Remix\)](https://open.spotify.com/album/48IOGtllrXRIdfZdYEfPq3) | 2:22 | 2023-05-26 | 2023-08-04 |
 | [Bagre](https://open.spotify.com/track/12wW9cNLX11umS3lh10xsE) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Imperio Record](https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3) | [Bagre](https://open.spotify.com/album/6xONvAcQS1GBqrMH3O85lU) | 2:40 | 2022-07-22 | 2023-05-27 |
@@ -285,7 +286,7 @@
 | [Tan Quedao](https://open.spotify.com/track/252C5FtbrETqo6ZJE1vmyx) | [Briante](https://open.spotify.com/artist/7lrpjS4SyP3jdyB7i27Yf4), [Onguito Wa](https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F) | [Tan Quedao](https://open.spotify.com/album/3mSxOqShLIxTkePLdEDo8Q) | 2:22 | 2023-02-09 | 2023-05-27 |
 | [TATARA REMIX](https://open.spotify.com/track/3rGXH8BjIWSZgr38faOSNJ) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo), [Papera](https://open.spotify.com/artist/7tRcVlJSQ6F0mB3KOyTVoC), [Alex Roxario](https://open.spotify.com/artist/0Ta0HnBvC1V8dfxjgn5PLw) | [TATARA REMIX](https://open.spotify.com/album/5UvfZwBtCIWUNdDwuCExby) | 2:34 | 2023-11-07 |  |
 | [Te Doblaste](https://open.spotify.com/track/0BXnkc24SFCZQ1XsAJkYIZ) | [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Llegó el Domi](https://open.spotify.com/album/5mVW0Qi7Q66gleL2rgVgaC) | 3:07 | 2022-03-18 | 2023-03-11 |
-| [Te Llenaste](https://open.spotify.com/track/5hXYp960arpKjZw78KgTGE) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [El Fother](https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug) | [TE LLENASTE](https://open.spotify.com/album/2bbsPeybovEKJ1C6rPvamw) | 3:40 | 2023-10-13 |  |
+| [Te Llenaste](https://open.spotify.com/track/5hXYp960arpKjZw78KgTGE) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [El Fother](https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug) | [TE LLENASTE](https://open.spotify.com/album/2bbsPeybovEKJ1C6rPvamw) | 3:40 | 2023-10-13 | 2023-11-24 |
 | [Te Va Dobla](https://open.spotify.com/track/1gG1SjKsKYNbBKFLYns0a9) | [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX) | [Te Va Dobla](https://open.spotify.com/album/4KJJ2OoZuvb5TWSHzxlVsx) | 3:10 | 2022-03-18 | 2023-03-11 |
 | [Teteo \- Remix](https://open.spotify.com/track/0oBE11LSGSaccEBtk4lJEe) | [El Fecho RD](https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e), [You R](https://open.spotify.com/artist/2HPjwOl5k2CHqjHyjtsdDe) | [Teteo \(Remix\)](https://open.spotify.com/album/3Nv39yge8SS2T8ZkdaVsFc) | 3:23 | 2021-11-19 | 2022-04-16 |
 | [Teteo \- Remix](https://open.spotify.com/track/6wB8FE4JA5UTaKEwZzY7It) | [El Fecho RD](https://open.spotify.com/artist/2qHuI4Avg4Dbowhu8whV9e), [You R](https://open.spotify.com/artist/2HPjwOl5k2CHqjHyjtsdDe) | [Teteo \(Remix\)](https://open.spotify.com/album/4YC5fSphrnUQPkROV7phry) | 3:23 | 2023-05-26 | 2023-08-04 |

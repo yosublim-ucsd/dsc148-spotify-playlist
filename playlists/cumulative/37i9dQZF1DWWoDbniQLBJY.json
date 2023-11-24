@@ -840,7 +840,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 207207,
       "name": "Destino - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk"
@@ -1922,7 +1922,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 95000,
       "name": "Mocca",
       "url": "https://open.spotify.com/track/55TZBuEIVVCIAKMmITvrFe"
@@ -2086,8 +2086,8 @@
           "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
         },
         {
-          "name": "Alvaro Paiva-Bimbo",
-          "url": "https://open.spotify.com/artist/6xDnFHAdyxSODNZWkS5jYC"
+          "name": "Alvaro Paiva Bimbo",
+          "url": "https://open.spotify.com/artist/1pj7wwoCIOC5XvGPhDKfdE"
         }
       ],
       "date_added": "2023-11-17",

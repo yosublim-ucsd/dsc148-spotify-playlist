@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Maureen x Mik L",
+  "description": "Les hits zouk du moment. Photo : Fanny J x Nesly",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -24,10 +24,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 157317,
       "name": "Baby Oh",
       "url": "https://open.spotify.com/track/6w08Z9Jgjkh1A4jjbhZKZg"
+    },
+    {
+      "album": {
+        "name": "BB Attends",
+        "url": "https://open.spotify.com/album/3td3goCEmojjxjA7p45X6a"
+      },
+      "artists": [
+        {
+          "name": "T-Stone",
+          "url": "https://open.spotify.com/artist/6PGPB8aKzvdmvrM7kAuNGs"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160075,
+      "name": "BB Attends",
+      "url": "https://open.spotify.com/track/6P7BE1eaTQItkv8EJ0ciGd"
     },
     {
       "album": {
@@ -543,6 +561,24 @@
     },
     {
       "album": {
+        "name": "Madame",
+        "url": "https://open.spotify.com/album/1kzwySJHeTPXZ5Ryqj6fcE"
+      },
+      "artists": [
+        {
+          "name": "Maiko",
+          "url": "https://open.spotify.com/artist/2Q9GRYHW7SsDdDrZghr3Sd"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192989,
+      "name": "Madame",
+      "url": "https://open.spotify.com/track/6RcTLTiuhMr7ufrehTkT47"
+    },
+    {
+      "album": {
         "name": "MAYDAY",
         "url": "https://open.spotify.com/album/0IgWJsKDLI0mffAHWRUhI6"
       },
@@ -846,10 +882,32 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 150933,
       "name": "Pleine Lune",
       "url": "https://open.spotify.com/track/60RHfwL5e8P00ayxuZudbd"
+    },
+    {
+      "album": {
+        "name": "Boss",
+        "url": "https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        },
+        {
+          "name": "Richard Cav\u00e9",
+          "url": "https://open.spotify.com/artist/0FaUMI5rw8I5C7T77ZCNvm"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215294,
+      "name": "Poko",
+      "url": "https://open.spotify.com/track/3qkpKchbHLmzSufzbC0hJF"
     },
     {
       "album": {
@@ -984,7 +1042,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 194823,
       "name": "Stop",
       "url": "https://open.spotify.com/track/2eYCmlVnHxy838TI9LKE05"
@@ -1086,7 +1144,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 176423,
       "name": "Trahison",
       "url": "https://open.spotify.com/track/4KlcmzQslGv5RDpGLEykG9"
@@ -1130,6 +1188,32 @@
       "duration_ms": 179310,
       "name": "Trophy",
       "url": "https://open.spotify.com/track/1mKlQnt4FPb2R4HV5cn5y1"
+    },
+    {
+      "album": {
+        "name": "TU ME TOUCHES",
+        "url": "https://open.spotify.com/album/2INKDIz39NOpEhXTkydqnc"
+      },
+      "artists": [
+        {
+          "name": "Dj Tyson",
+          "url": "https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv"
+        },
+        {
+          "name": "Thayna",
+          "url": "https://open.spotify.com/artist/1TeJHWmFIoKu01utt6n3kR"
+        },
+        {
+          "name": "VARAINE BEN",
+          "url": "https://open.spotify.com/artist/33VRGx12FIZw3TPLU93feY"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212398,
+      "name": "TU ME TOUCHES",
+      "url": "https://open.spotify.com/track/1CMYEMTuKG82siF0FMAlqn"
     },
     {
       "album": {

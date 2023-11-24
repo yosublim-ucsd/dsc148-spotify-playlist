@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-647 songs - 1 day 1 hr 2 min
+648 songs - 1 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Disconnect](https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui) | [A Space for Rent](https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX) | [Disconnect](https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ) | 2:00 | 2023-04-13 |  |
 | [disconnected](https://open.spotify.com/track/52O7lnDIplZ6Q4rfA5NbgK) | [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q) | [belong](https://open.spotify.com/album/5ItayCN8f5Olvy2aargGP6) | 2:47 | 2023-07-17 |  |
 | [Distance](https://open.spotify.com/track/22EUPDSks0pkcJwXJ6CEem) | [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [Distance](https://open.spotify.com/album/7yQtCMYBR5qG1tiuRJT6mW) | 2:12 | 2022-05-20 | 2022-07-08 |
-| [distant dream](https://open.spotify.com/track/2xvVl7QYFnTXq7WMpgfiUd) | [Hetalia](https://open.spotify.com/artist/5eQGoVSiVVTrKejjwVU9hu), [mėlyna](https://open.spotify.com/artist/4YhoGzc2IV6MAn13dwaNOZ) | [distant dream](https://open.spotify.com/album/29kAqBCkD18quyrbBOCdGU) | 2:24 | 2022-12-16 |  |
+| [distant dream](https://open.spotify.com/track/2xvVl7QYFnTXq7WMpgfiUd) | [Hetalia](https://open.spotify.com/artist/5eQGoVSiVVTrKejjwVU9hu), [mėlyna](https://open.spotify.com/artist/4YhoGzc2IV6MAn13dwaNOZ) | [distant dream](https://open.spotify.com/album/29kAqBCkD18quyrbBOCdGU) | 2:24 | 2022-12-16 | 2023-11-24 |
 | [Distante/Presente](https://open.spotify.com/track/3bUbepfa4KVln3mrKZzYMW) | [apollw](https://open.spotify.com/artist/2l6NmomazGa6gMJQPzhcS1) | [Distante/Presente](https://open.spotify.com/album/2y9uPFtAhDcVvVOW2mvsT5) | 2:33 | 2022-07-22 | 2022-09-30 |
 | [do not disturb](https://open.spotify.com/track/4yuWAQTFV7lkWSB8W4V2C5) | [drowsy](https://open.spotify.com/artist/0GlXvaYL6TY3zsZPQBk9sd) | [do not disturb](https://open.spotify.com/album/1aJ8kCdJgdEWEdOKaKtpYh) | 2:03 | 2022-05-20 | 2022-10-14 |
 | [Don't go](https://open.spotify.com/track/0ai7rAd7P9DgfGKQDyqA31) | [Koalres](https://open.spotify.com/artist/1yraXwXFQ7TWljCiHGsA3s), [Anmol Sandhu](https://open.spotify.com/artist/0NHRA8TsuH5i1ZELZm4xdx) | [Tonight's forever](https://open.spotify.com/album/5nMYgw7fgn5lo9g4Lb4BcZ) | 2:25 | 2022-05-20 | 2022-07-15 |
@@ -167,6 +167,7 @@
 | [Dreemin'](https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Dreemin'](https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0) | 2:11 | 2022-05-20 |  |
 | [Drifting away](https://open.spotify.com/track/0hqXJSDSUF6GjJGX0mquB9) | [Charlee Nguyen](https://open.spotify.com/artist/5ffORofXMmNRRtwIeQsyW3), [idylla](https://open.spotify.com/artist/3D7OiZlCToIsRybYCEDvIL) | [Psalms of The Sea](https://open.spotify.com/album/5VADhc1YoZna1R6k8hkTSM) | 2:18 | 2022-09-09 |  |
 | [Drowse](https://open.spotify.com/track/4pvvQqrpb935BRCQlL3YsB) | [sinnr](https://open.spotify.com/artist/4rgy5K4lHDLbaSC1MMuY5m) | [Drowse](https://open.spotify.com/album/3Hqdi5TCOgE2DaazGqFTCS) | 2:36 | 2022-08-05 | 2023-01-20 |
+| [drowsy](https://open.spotify.com/track/3rOFPyk1bBXJG08Uxu8Tg8) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [drowsy](https://open.spotify.com/album/3GP1iikIbwSrTaPfsGmuYH) | 2:22 | 2023-11-24 |  |
 | [Drowsy Delight](https://open.spotify.com/track/7BxIPN6c4yp0aM9BPGDwsq) | [Young Coyotes](https://open.spotify.com/artist/5OnbbH7EDelgJCRQO9BRov) | [Drowsy Delight](https://open.spotify.com/album/3w8L1yP27kRt2j3ccsFnd0) | 2:21 | 2023-09-22 |  |
 | [duplicated](https://open.spotify.com/track/58AWkT7R6szgzK9nin9oUv) | [gamuri shun](https://open.spotify.com/artist/3t8zcW41Vd0F7ddGBwUZ4N) | [duplicated](https://open.spotify.com/album/1M1MJjpxKpr3xC9fCbOATA) | 2:15 | 2023-02-14 |  |
 | [dust](https://open.spotify.com/track/76WzrbAXwASwxE4Ftszx3Q) | [Big Nose](https://open.spotify.com/artist/6ETg05TrMGqIUd30ehlAvx) | [dust](https://open.spotify.com/album/0HBEidWufJ5f4hQZDlhQVA) | 2:54 | 2022-08-19 | 2022-10-08 |

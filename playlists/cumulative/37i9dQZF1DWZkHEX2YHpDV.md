@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt, & more\. Cover: Four Year Strong
 
-1,075 songs - 2 day 8 hr 47 min
+1,076 songs - 2 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Changing of Seasons](https://open.spotify.com/track/3eQJPPAwjrsnJtO0R4A3MK) | [Santa Cruz](https://open.spotify.com/artist/1ZP10xzJoQljzTHiaU2Gri) | [Changing of Seasons](https://open.spotify.com/album/6WAetoimROIvqKjMCpjEzo) | 2:45 | 2022-03-25 | 2022-04-19 |
 | [Checking In](https://open.spotify.com/track/7t2YrgFxbTxTUxkl8bbYHa) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [Checking In](https://open.spotify.com/album/1BSES1gYrSt5nUVPfDunDQ) | 2:59 | 2023-05-12 | 2023-07-10 |
 | [Chemical Drugs](https://open.spotify.com/track/5pgRkSw1elCTQP8EDUaZvs) | [Karma Kids](https://open.spotify.com/artist/2tolFkeeZ90dTrTpuSUTiK) | [Chemical Drugs](https://open.spotify.com/album/7woZ2Lt8fIjmWEBLW77jIG) | 3:24 | 2022-02-04 | 2022-04-18 |
-| [Cherryland](https://open.spotify.com/track/2CP5TuxVJD1IggS5rw0goV) | [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC) | [Cherryland](https://open.spotify.com/album/5RdopBmBV7XPu36hcHbrTX) | 2:34 | 2023-10-27 |  |
+| [Cherryland](https://open.spotify.com/track/2CP5TuxVJD1IggS5rw0goV) | [The Ready Set](https://open.spotify.com/artist/2eRJjYEaWyGZbOBGYFLBoC) | [Cherryland](https://open.spotify.com/album/5RdopBmBV7XPu36hcHbrTX) | 2:34 | 2023-10-27 | 2023-11-24 |
 | [Childhood Eyes](https://open.spotify.com/track/2c6sMF2gvZFgDC6hyjTnXj) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Childhood Eyes](https://open.spotify.com/album/6JNJzsmzwqZ8wBc7VCEeNN) | 3:13 | 2023-06-09 | 2023-07-28 |
 | [Childhood Eyes](https://open.spotify.com/track/2ttWOp5QoqdO6zkIJJ4bFh) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Childhood Eyes](https://open.spotify.com/album/7g4Iij7EeDIraxCXQRQAQo) | 3:13 | 2023-07-14 |  |
 | [Children of The Dark](https://open.spotify.com/track/17bqduRY9LL8WWXtsSE1Kp) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Children of The Dark](https://open.spotify.com/album/78MIA5qaj5wiJgE9pTA9py) | 2:32 | 2021-12-10 | 2023-04-11 |
@@ -390,6 +390,7 @@
 | [Goodbye Forever](https://open.spotify.com/track/2EU2rK3NsjjfbB4r5q8YuM) | [bloom.](https://open.spotify.com/artist/2pe5XkD5nb5nTQeVsPn4uD) | [Withered](https://open.spotify.com/album/0FjBK3l1bTQUfTBb0N1d8Q) | 3:24 | 2022-02-04 | 2022-04-21 |
 | [Got It Bad](https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Got It Bad](https://open.spotify.com/album/6WZd03wQTPEW9drn8GLkDz) | 2:58 | 2023-10-10 |  |
 | [Got Me All Wrong](https://open.spotify.com/track/2d9A8njtdFo4MOI3v17kpw) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Got Me All Wrong](https://open.spotify.com/album/0PqyD9lzmBCY7SfmLqd5BN) | 3:13 | 2023-07-14 | 2023-11-16 |
+| [Got Me All Wrong](https://open.spotify.com/track/7cuViZlN2fB8gKPFqYD7I0) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [More Like A Crash](https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a) | 3:13 | 2023-11-10 |  |
 | [Grape Swisher](https://open.spotify.com/track/6mX89BYM6O0IkHF9FiKzVh) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Grape Swisher](https://open.spotify.com/album/10zmjGyfnY6ypkc9fUzpRc) | 2:25 | 2021-12-10 | 2022-07-26 |
 | [Graves](https://open.spotify.com/track/23HI6qQo4xPqlv61Ewr08E) | [Dear Youth](https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG) | [Graves](https://open.spotify.com/album/2fB7BfvZNouIumHH8GAZcD) | 2:47 | 2023-04-10 | 2023-04-12 |
 | [Green Light](https://open.spotify.com/track/32dLBG6JrsCaq7L6GeIKd7) | [Go For Gold](https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ) | [Green Light](https://open.spotify.com/album/3MLZEG11nd0vXwQolVG8Th) | 2:59 | 2021-12-10 | 2022-05-13 |

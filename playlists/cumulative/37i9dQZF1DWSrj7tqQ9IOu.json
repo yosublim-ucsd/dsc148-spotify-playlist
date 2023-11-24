@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "0 R\u00c9PONSE",
+        "url": "https://open.spotify.com/album/1tp6jz6x6f3bZegK5Dkndq"
+      },
+      "artists": [
+        {
+          "name": "BLOWSOM",
+          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178166,
+      "name": "0 R\u00c9PONSE",
+      "url": "https://open.spotify.com/track/26dbD2N3kzwkTOEjjwqKt2"
+    },
+    {
+      "album": {
         "name": "1964",
         "url": "https://open.spotify.com/album/4OytyyjvGEMOpKLQQcCaRU"
       },
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 189653,
       "name": "Cin\u00e9ma",
       "url": "https://open.spotify.com/track/6KXJymOSI776EMEgY96JbP"
@@ -1420,6 +1438,24 @@
       "duration_ms": 243066,
       "name": "Day & Night",
       "url": "https://open.spotify.com/track/7B2RswVcMbBs70dFyxVGak"
+    },
+    {
+      "album": {
+        "name": "De passage",
+        "url": "https://open.spotify.com/album/7qUUnF1DQdPRJhIeoWd3XB"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Bonjour",
+          "url": "https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186885,
+      "name": "De passage",
+      "url": "https://open.spotify.com/track/4a0upuCaLwcfL7TBYAGfGu"
     },
     {
       "album": {
@@ -2774,7 +2810,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 177272,
       "name": "HOW STRANGE?",
       "url": "https://open.spotify.com/track/4IQw9pS2PfMsYYeTkZ5CGy"

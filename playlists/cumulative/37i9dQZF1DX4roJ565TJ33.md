@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-165 songs - 12 hr 47 min
+167 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [I Fall in Love Too Easily](https://open.spotify.com/track/0a8LOrGltmx7rWvK5ex8Nb) | [Svante Henryson](https://open.spotify.com/artist/5gD2IIwhFa7qrXTWCmvMPn), [Mathias Algotsson](https://open.spotify.com/artist/5cxbLasvz3bRsChqr96Qy6) | [I Fall in Love Too Easily](https://open.spotify.com/album/1ARNBkNhtWFb7hdnBuXcM0) | 5:19 | 2021-11-08 |  |
 | [I Get Along Without You Very Well](https://open.spotify.com/track/7hRQbdvbeRFlrDwc1wDpBC) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb) | [I Get Along Without You Very Well](https://open.spotify.com/album/754b4BY8ZevSpdjl9VAota) | 4:09 | 2023-10-06 |  |
 | [I Like the Sunrise](https://open.spotify.com/track/3MwvAPIcknBKEldIUrWkTd) | [Lina Nyberg](https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv), [Daniel Karlsson](https://open.spotify.com/artist/133ujfci80J2umYb3Oas89) | [I Like the Sunrise](https://open.spotify.com/album/3EWL9JUyxVT46jd2HhIs3v) | 4:46 | 2021-11-08 |  |
+| [I Thought About You](https://open.spotify.com/track/6XUbYAQsDKbMVGCqu9u6G1) | [Lisa Björänge](https://open.spotify.com/artist/0EO1HJaslJl5AEnmrfgQsm), [Fredrik Ljungkvist](https://open.spotify.com/artist/41tgRoG7bdxGN5qbEydB1w) | [Meet\-Up](https://open.spotify.com/album/0EnZ2tIy3khmbX0u7pn2ll) | 7:37 | 2023-11-24 |  |
 | [I'll Be Around](https://open.spotify.com/track/38DaQRDUl2zwvcMRuaT0IX) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm) | [I'll Be Around](https://open.spotify.com/album/2AuA5D2bgvhmL6o527HlWw) | 4:06 | 2021-11-08 | 2022-07-29 |
 | [I'll Be Around](https://open.spotify.com/track/0nmKnxFMPZYQDeUV49HHA9) | [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [A Ballad Moment](https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl) | 4:06 | 2022-06-22 |  |
 | [I'll Remember April](https://open.spotify.com/track/35vyrfyDjMA5Ru6p69tV3y) | [Robert Edman Quartet](https://open.spotify.com/artist/4JQsLyK2wpqlOpkznEM4uB) | [My Inspiration \- Swedish Jazz Legends](https://open.spotify.com/album/6w7jZACnaozB1KCqtpTAEf) | 2:51 | 2021-11-08 |  |
@@ -100,6 +101,7 @@
 | [Min bild](https://open.spotify.com/track/0Mj8pe6EAvO6tm73gLfcCI) | [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj) | [I det lilla händer det mesta](https://open.spotify.com/album/6vWDQSUaFJg9T3LDoE1YMd) | 4:54 | 2021-11-08 |  |
 | [Mjuk grupp](https://open.spotify.com/track/1tDApryJcHjivjt5oLQgKm) | [Hederosgruppen](https://open.spotify.com/artist/0UNiBtRacvAnbospnyiEhw) | [Mjuk grupp](https://open.spotify.com/album/0v5eDxQGFJ9qRFRmyQxYnB) | 6:56 | 2022-10-13 |  |
 | [Most of the Time](https://open.spotify.com/track/7e24GhiKpJF41P3gZLz0GZ) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Most of the Time](https://open.spotify.com/album/6pc1rk5fKEg0RQgFwHKmTz) | 3:49 | 2021-11-08 |  |
+| [Måste inte](https://open.spotify.com/track/534jGZVFl1BZ3fSL2Vvs4O) | [Liselotte Boustedt](https://open.spotify.com/artist/2j85nUcVoaN1OBEGpRtyZt) | [GRÖN TRÅD](https://open.spotify.com/album/5CD60z4soxLQmorJPeXFHQ) | 2:50 | 2023-11-24 |  |
 | [Nadar com tartarugas](https://open.spotify.com/track/4KQ6hCtH5pKk2czUyHOfpN) | [Karin Hammar](https://open.spotify.com/artist/6PpRVXmqjgmgFPg9gEJfWc), [Rita Marcotulli](https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ), [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Fredrik Rundqvist](https://open.spotify.com/artist/5xLLcvi1xnXS9mMKi6PW57) | [Nadar Com Tartarugas](https://open.spotify.com/album/7rpJ3E7TPoVEB9e03imLRo) | 6:28 | 2023-03-16 |  |
 | [New Beginning](https://open.spotify.com/track/3P0ndzQkcubRQr1u2uv7PQ) | [Adam Forkelid](https://open.spotify.com/artist/3WcxxtroBeJy2PPN5s6CRW), [Carl Mörner Ringström](https://open.spotify.com/artist/69e8RvFXfQnels113EADzc), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Daniel Fredriksson](https://open.spotify.com/artist/7hKJYQtmuy2g7QAp5dmTle) | [New Beginning](https://open.spotify.com/album/51YHotVNniiWWCdlHZyCKR) | 5:53 | 2022-02-03 |  |
 | [No Cure](https://open.spotify.com/track/0rKzWTVtKrYBaHzUFsbRA8) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [No Cure](https://open.spotify.com/album/23EyzXYYutdXgXOmYYJ9Xi) | 4:23 | 2023-02-16 |  |

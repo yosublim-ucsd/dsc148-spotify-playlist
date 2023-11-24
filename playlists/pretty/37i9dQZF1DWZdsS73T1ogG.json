@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: IZaak, Luar La L & Omar Courtz.",
-  "num_followers": 521071,
+  "num_followers": 521110,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTYwNmI0ZjUwNDk2MzUwNGE4NDQxOTdjZDZjODViMDE0ZmM1YzI3",
+  "snapshot_id": "MCw0YTU3MzcyMjZkNjg3ZmRkMDBhZTVjNGY5NGNlNzhjNjA0MzExNzQy",
   "tracks": [
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1235,22 +1235,18 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Trajecito XS",
-        "url": "https://open.spotify.com/album/7GBVZbQlOaJzfzxo7kCHQ1"
+        "name": "Te Leo",
+        "url": "https://open.spotify.com/album/64eQsDC3CcmAxkXjkyYhT2"
       },
       "artists": [
         {
           "name": "Alejo",
           "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 220880,
-      "name": "Trajecito XS",
-      "url": "https://open.spotify.com/track/535EyYs5tDynf3kt9niGa4"
+      "duration_ms": 154946,
+      "name": "Te Leo",
+      "url": "https://open.spotify.com/track/342n43KiWAClLsJi1JTvRb"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1447,18 +1443,22 @@
     {
       "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Te Leo",
-        "url": "https://open.spotify.com/album/64eQsDC3CcmAxkXjkyYhT2"
+        "name": "Trajecito XS",
+        "url": "https://open.spotify.com/album/7GBVZbQlOaJzfzxo7kCHQ1"
       },
       "artists": [
         {
           "name": "Alejo",
           "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 154946,
-      "name": "Te Leo",
-      "url": "https://open.spotify.com/track/342n43KiWAClLsJi1JTvRb"
+      "duration_ms": 220880,
+      "name": "Trajecito XS",
+      "url": "https://open.spotify.com/track/535EyYs5tDynf3kt9niGa4"
     },
     {
       "added_at": "2023-11-10 05:00:00",

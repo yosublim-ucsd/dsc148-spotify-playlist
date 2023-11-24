@@ -4,7 +4,7 @@
 
 > コンポーザーのAyase、ボーカルのikuraからなる「小説を音楽にするユニット」、YOASOBIの楽曲をひとつのプレイリストに。
 
-53 songs - 4 hr 10 min
+54 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Romance](https://open.spotify.com/track/0dSPApaBoWn6SA4GKWq9QK) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd) | 2:46 | 2022-11-17 |  |
 | [Romance](https://open.spotify.com/track/6Kh3obD8LG4yeXxQDhr6Vr) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 2:46 | 2022-11-17 |  |
 | [The Blessing](https://open.spotify.com/track/4KFvsGchCp4c7zphBlPxz3) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:12 | 2022-11-17 |  |
+| [The Brave](https://open.spotify.com/track/2C0zR1j4Xd5JVSrMABMFSG) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [The Brave](https://open.spotify.com/album/1LIrHjmcINgiNpzx1NvbhB) | 3:14 | 2023-11-23 |  |
 | [The Swallow \(feat\. Midories\)](https://open.spotify.com/track/6oexafIxFkZaEEcfJCsx4y) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [midories](https://open.spotify.com/artist/71hoL3Rlmuptv4h4g2bJxU) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:37 | 2022-11-17 |  |
 | [Tracing A Dream](https://open.spotify.com/track/4L9Iuupn2JTSCHSn8uVdD6) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE](https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R) | 4:01 | 2022-11-17 |  |
 | [YOASOBI THE BOOK 2 Spotify Edition](https://open.spotify.com/episode/0sPNGPetAt5PP9IXKD6Bko) | [YOASOBI THE BOOK 2 Spotify Edition](https://open.spotify.com/show/5SkUpm1BgQpKmWwP5YkfCn) | [YOASOBI THE BOOK 2 Spotify Edition](https://open.spotify.com/show/5SkUpm1BgQpKmWwP5YkfCn) | 1:06:00 | 2022-11-17 | 2023-01-20 |

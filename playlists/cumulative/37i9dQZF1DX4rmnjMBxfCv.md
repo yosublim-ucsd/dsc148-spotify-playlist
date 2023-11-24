@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the MENA region\. Cover: Alan Walker, Sophie Stray & Zena Emad
 
-179 songs - 11 hr 51 min
+180 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Bel Ahlam \(Remix\)](https://open.spotify.com/track/5jonBF1ctoQZ3vkaTN5VIv) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65), [Always April](https://open.spotify.com/artist/2H7GNVWI7E2oOMkLGUoRsM) | [Bel Ahlam \(Remix\)](https://open.spotify.com/album/7F8KwU004mAZFkyAzzK4qc) | 3:22 | 2022-12-22 |  |
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2023-06-23 |  |
 | [Big FU](https://open.spotify.com/track/2HbTwmup8SWz5tMcKZXFLh) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big FU](https://open.spotify.com/album/6fmQcEPiGQlBlA8LGClYVU) | 2:41 | 2023-10-29 | 2023-11-17 |
+| [Biridak](https://open.spotify.com/track/5Qk6vwcx8mBWo6ZWIsSi0q) | [Ismailovic](https://open.spotify.com/artist/4RB42AM4VqzdHRQiVbzDU1), [Achex](https://open.spotify.com/artist/5lw2JXiEsBgZPSUClzh9pq), [Driss Koyo](https://open.spotify.com/artist/37iFEQE2LvSoGSwy4gYfUd) | [Biridak](https://open.spotify.com/album/3zjSboMVRB4hLJxZ3F9J3N) | 6:28 | 2023-11-24 |  |
 | [Bnt El Chalabyea](https://open.spotify.com/track/7tqxqX5Ee6AEtyfcLAnQeF) | [Moe Turk](https://open.spotify.com/artist/12rv3gD3SpWQRRkswqlwvF) | [Bnt El Chalabyea](https://open.spotify.com/album/4zypeoqTlxujSqK0m7GJFK) | 5:09 | 2023-03-11 | 2023-06-24 |
 | [Body Moving](https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Body Moving](https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K) | 2:34 | 2023-11-17 |  |
 | [Bom Bom Bom](https://open.spotify.com/track/0iZPgfxzGQL0TIqP2twBi3) | [DJ Kantik](https://open.spotify.com/artist/3ojxLRDFTdWKXQDBewrCr4) | [Bom Bom Bom](https://open.spotify.com/album/2aRHgRSxnBHPmnfoc2LgWa) | 3:00 | 2023-08-16 |  |
@@ -85,7 +86,7 @@
 | [Hiya hiya New Distribution](https://open.spotify.com/track/3GDe4ABAWZWP6XKYCPmrhc) | [Mustafa Hussam](https://open.spotify.com/artist/1ZVYNea11w8l7t5pqZUYoM) | [Hiya hiya New Distribution](https://open.spotify.com/album/4iJJ8pkyW3CY41C53B6KVq) | 3:37 | 2022-08-23 | 2022-09-01 |
 | [Hurricane](https://open.spotify.com/track/5RfVafaeEEiqC0Z3LsBaZw) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Hurricane](https://open.spotify.com/album/4cgBeHPgTibGZe8JW4c0lD) | 3:18 | 2023-06-23 | 2023-08-17 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2023-08-29 |  |
-| [IRAQ FOREVER](https://open.spotify.com/track/0lRzw2qxLfIgLmuJJeeYPA) | [NARCY](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg), [Sandhill](https://open.spotify.com/artist/0mREKS2VJxhULYPnh3C8s2) | [IRAQ FOREVER](https://open.spotify.com/album/5wRrxTSwPCCHdeLEFunn2l) | 2:15 | 2023-06-29 |  |
+| [IRAQ FOREVER](https://open.spotify.com/track/0lRzw2qxLfIgLmuJJeeYPA) | [NARCY](https://open.spotify.com/artist/0dkcQCK8GjDBCGrjlUJhlg), [Sandhill](https://open.spotify.com/artist/0mREKS2VJxhULYPnh3C8s2) | [IRAQ FOREVER](https://open.spotify.com/album/5wRrxTSwPCCHdeLEFunn2l) | 2:15 | 2023-06-29 | 2023-11-24 |
 | [Khidni Habibi](https://open.spotify.com/track/2k2vv7Pvl2gYfHkdVRnHZl) | [DJ Carlos B](https://open.spotify.com/artist/6Zc4YkIlrrgNXpcTXoj9M6), [Maher Salame](https://open.spotify.com/artist/2E82x2YXapSBHgdoxplfdP), [Rana Saab](https://open.spotify.com/artist/6ZErECsxugfPTnmJwIbEgA) | [Khidni Habibi](https://open.spotify.com/album/5MSHUA4LGMP1vzGUUjfT22) | 4:52 | 2022-03-30 | 2022-11-26 |
 | [Kindir Suprise](https://open.spotify.com/track/5jjxs06EnkLIUajLPTAdqH) | [Aziz Konkrite](https://open.spotify.com/artist/7s8PJjvTY4nc7BCgCpB4Ok) | [Kindir Surprise](https://open.spotify.com/album/3MO0fz7nWbv0cNybHu6DuM) | 4:48 | 2023-06-23 | 2023-08-17 |
 | [Ksser Essouk](https://open.spotify.com/track/7KvO7oemAp4ZXNawhYCdIF) | [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE), [Salah Hammadi](https://open.spotify.com/artist/18GUnebbbqAkij3dkKCS2T) | [Ksser Essouk](https://open.spotify.com/album/7M417Jdy4vajdT6g3vzZkh) | 5:26 | 2023-03-01 |  |

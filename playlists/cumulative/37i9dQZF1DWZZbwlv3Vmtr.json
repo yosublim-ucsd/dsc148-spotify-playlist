@@ -912,7 +912,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-22",
+      "date_removed": null,
       "duration_ms": 122000,
       "name": "bar on mars",
       "url": "https://open.spotify.com/track/66Hc6Rfa9gckPX9Ixijv6Z"
@@ -1656,7 +1656,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 124000,
       "name": "Calypso's Groove",
       "url": "https://open.spotify.com/track/32CSGiAJ3IJTyIWBG1K2CC"
@@ -2640,7 +2640,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": null,
       "duration_ms": 171428,
       "name": "Dauner",
       "url": "https://open.spotify.com/track/55IGQwHH5bvNuQa24j1Q52"
@@ -3822,7 +3822,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 122790,
       "name": "Feel Something",
       "url": "https://open.spotify.com/track/3zSfNWdoWlvKylST7NXs1Y"
@@ -4112,7 +4112,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 129332,
       "name": "Fly with me to the moon",
       "url": "https://open.spotify.com/track/6ax46rQsYBiZoZS4QDrvvM"
@@ -5156,7 +5156,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 156838,
       "name": "Heaux",
       "url": "https://open.spotify.com/track/2XF3s6ycUXSJQCVMteiERI"
@@ -6502,7 +6502,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 125868,
       "name": "Lastly",
       "url": "https://open.spotify.com/track/4YS0gtYzdEVp2lUfvvnFXS"
@@ -7640,7 +7640,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 133468,
       "name": "MELT YOURSELF DOWN",
       "url": "https://open.spotify.com/track/7gZsCJTQQfqBMraiyvazHn"
@@ -9240,7 +9240,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-20",
+      "date_removed": null,
       "duration_ms": 146379,
       "name": "only you",
       "url": "https://open.spotify.com/track/0FvxLuWx3pVjeAhqMyrKLl"
@@ -10888,7 +10888,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 131152,
       "name": "Rick-O-Sound",
       "url": "https://open.spotify.com/track/1hykmH0Tr8ao62xPybCU23"
@@ -11568,7 +11568,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 108921,
       "name": "Shape",
       "url": "https://open.spotify.com/track/4vctnDV4Kft8buepkkUOI9"
@@ -12414,7 +12414,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 134653,
       "name": "Stagnant",
       "url": "https://open.spotify.com/track/1tr7DYuOJfmscDtKvCmaWa"
@@ -12698,7 +12698,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 120681,
       "name": "Streets",
       "url": "https://open.spotify.com/track/7s5AKPdIFRAKhwNdTdsAcH"
@@ -15230,6 +15230,24 @@
       "duration_ms": 216585,
       "name": "What If",
       "url": "https://open.spotify.com/track/3yOtycmjxt0lO2LAr7h1fI"
+    },
+    {
+      "album": {
+        "name": "Where are we now??",
+        "url": "https://open.spotify.com/album/3qdSszvaFaXLwD58p4mgVi"
+      },
+      "artists": [
+        {
+          "name": "WX//CLTV",
+          "url": "https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70909,
+      "name": "Where are we now??",
+      "url": "https://open.spotify.com/track/0X3VvSa9UXAAc5GkwsPEkS"
     },
     {
       "album": {

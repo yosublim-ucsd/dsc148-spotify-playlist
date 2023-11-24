@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: Vesna
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,279 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,280 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 49 | [Slečna náročná](https://open.spotify.com/track/2RDComs5as7BhVBKbmOeYG) | [Tereza Cernochova](https://open.spotify.com/artist/06brmTzjnAbTARNzukfcYw) | [Slečna náročná](https://open.spotify.com/album/72Vdf2cwN7pCXFeCKdT6KD) | 3:46 |
 | 50 | [JUST](https://open.spotify.com/track/29EsizASwJW4Trv3dtN4Up) | [Lenka Piešová](https://open.spotify.com/artist/5FGpF878Fa50wFrDYPkQV2) | [JUST](https://open.spotify.com/album/2BI0Gp8UAceVUm6BJ0Etz1) | 3:12 |
 
-Snapshot ID: `MCxiNmY2MTcxMGM2OTllZDMzN2U0OWY1OGE3ZDhmMTU1M2U0NTlkYTYw`
+Snapshot ID: `MCwzYjgwYTA5M2EzOWZlYzc5OGI3MGRmMGQyOTA4YjA3YWQ4MzU4OTRm`

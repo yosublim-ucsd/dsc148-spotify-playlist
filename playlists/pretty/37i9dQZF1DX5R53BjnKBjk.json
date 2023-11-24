@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: dad\u00e1 Jo\u00e3ozinho / Arte: Isu Kim",
-  "num_followers": 18638,
+  "num_followers": 18652,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODFmY2JhNTc1NmQwNWY0NWU0NDFmNjg1MDA3ZThjYTgxMDZhZmNj",
+  "snapshot_id": "MCw3MTQ3YjY2NTUzODk5MWM2YTNkMzBiZjViMzFmNDViZDYzYTY3Njkx",
   "tracks": [
     {
       "added_at": "2023-11-17 03:03:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-11-17 03:03:00",
       "album": {
+        "name": "Mete o P\u00e9",
+        "url": "https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        }
+      ],
+      "duration_ms": 142699,
+      "name": "Mete o P\u00e9",
+      "url": "https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF"
+    },
+    {
+      "added_at": "2023-11-17 03:03:00",
+      "album": {
         "name": "Luz Na Madrugada / Late Night Light",
         "url": "https://open.spotify.com/album/5SPqZ8SevS2ZEbgP7T1Haq"
       },
@@ -343,22 +359,6 @@
     {
       "added_at": "2023-11-17 03:03:00",
       "album": {
-        "name": "Mete o P\u00e9",
-        "url": "https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
-        }
-      ],
-      "duration_ms": 142699,
-      "name": "Mete o P\u00e9",
-      "url": "https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF"
-    },
-    {
-      "added_at": "2023-11-17 03:03:00",
-      "album": {
         "name": "Repara",
         "url": "https://open.spotify.com/album/60lO1rsH63Nx57oB1uwfnk"
       },
@@ -371,22 +371,6 @@
       "duration_ms": 154687,
       "name": "Repara",
       "url": "https://open.spotify.com/track/3KSBVHgj03KdPFQ4SMIizC"
-    },
-    {
-      "added_at": "2023-11-17 03:03:00",
-      "album": {
-        "name": "Boca Aberta",
-        "url": "https://open.spotify.com/album/52NxhWVfxwh7i9rw2FxRnl"
-      },
-      "artists": [
-        {
-          "name": "Reolamos",
-          "url": "https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq"
-        }
-      ],
-      "duration_ms": 200086,
-      "name": "Boca Aberta",
-      "url": "https://open.spotify.com/track/3lJtDd3asBoOzNV8hxZ3aF"
     },
     {
       "added_at": "2023-11-17 03:03:00",
@@ -407,6 +391,22 @@
       "duration_ms": 177141,
       "name": "Bate Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3cKNmRGrd77JZ0PQVXPUhN"
+    },
+    {
+      "added_at": "2023-11-17 03:03:00",
+      "album": {
+        "name": "Boca Aberta",
+        "url": "https://open.spotify.com/album/52NxhWVfxwh7i9rw2FxRnl"
+      },
+      "artists": [
+        {
+          "name": "Reolamos",
+          "url": "https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq"
+        }
+      ],
+      "duration_ms": 200086,
+      "name": "Boca Aberta",
+      "url": "https://open.spotify.com/track/3lJtDd3asBoOzNV8hxZ3aF"
     },
     {
       "added_at": "2023-11-17 03:03:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-11-17 03:03:00",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv"
-      },
-      "artists": [
-        {
-          "name": "vicro",
-          "url": "https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF"
-        }
-      ],
-      "duration_ms": 230588,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr"
-    },
-    {
-      "added_at": "2023-11-17 03:03:00",
-      "album": {
         "name": "bem vi",
         "url": "https://open.spotify.com/album/7fMdliOcULUtShWJrBD25a"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 197297,
       "name": "bem vi",
       "url": "https://open.spotify.com/track/3RqLIFBLb0UUSMc7QgA3a7"
+    },
+    {
+      "added_at": "2023-11-17 03:03:00",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/3HGf7CQc2q2LU2MnuW8edv"
+      },
+      "artists": [
+        {
+          "name": "vicro",
+          "url": "https://open.spotify.com/artist/1qJjqP6hPbHi8m1XWZDndF"
+        }
+      ],
+      "duration_ms": 230588,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/3vOvr7KuYrDH0QqqKv0LYr"
     },
     {
       "added_at": "2023-11-17 03:03:00",
@@ -595,26 +595,6 @@
     {
       "added_at": "2023-11-17 03:03:00",
       "album": {
-        "name": "Pe\u00e7o Pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/2r1KTbIu4SQDhlYX2jKSwS"
-      },
-      "artists": [
-        {
-          "name": "Camilla Leonel",
-          "url": "https://open.spotify.com/artist/7gOLPtcQXX082ZRRur3sZx"
-        },
-        {
-          "name": "SCALON",
-          "url": "https://open.spotify.com/artist/1C71ve72DbTuQNcyH8cV0N"
-        }
-      ],
-      "duration_ms": 180440,
-      "name": "Pe\u00e7o Pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/2gHdwywG9tXQrb06feK7NP"
-    },
-    {
-      "added_at": "2023-11-17 03:03:00",
-      "album": {
         "name": "Futurea",
         "url": "https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 166611,
       "name": "Medo de Mim",
       "url": "https://open.spotify.com/track/1YGM6jSDkEPjlT2zDS9Qg0"
+    },
+    {
+      "added_at": "2023-11-17 03:03:00",
+      "album": {
+        "name": "Pe\u00e7o Pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/2r1KTbIu4SQDhlYX2jKSwS"
+      },
+      "artists": [
+        {
+          "name": "Camilla Leonel",
+          "url": "https://open.spotify.com/artist/7gOLPtcQXX082ZRRur3sZx"
+        },
+        {
+          "name": "SCALON",
+          "url": "https://open.spotify.com/artist/1C71ve72DbTuQNcyH8cV0N"
+        }
+      ],
+      "duration_ms": 180440,
+      "name": "Pe\u00e7o Pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/2gHdwywG9tXQrb06feK7NP"
     },
     {
       "added_at": "2023-11-17 03:03:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-11-17 03:03:00",
       "album": {
-        "name": "Poema Suspenso",
-        "url": "https://open.spotify.com/album/2ZrXjPfZUBTSH2ETLKqB0I"
-      },
-      "artists": [
-        {
-          "name": "Rizzih",
-          "url": "https://open.spotify.com/artist/4RU7ivIDDiiEWDxUMfOV64"
-        }
-      ],
-      "duration_ms": 178935,
-      "name": "(((V\u00eanus)))",
-      "url": "https://open.spotify.com/track/7C9Qeb9mC8kbBmOGoWIzFD"
-    },
-    {
-      "added_at": "2023-11-17 03:03:00",
-      "album": {
         "name": "tudo que eu fa\u00e7o",
         "url": "https://open.spotify.com/album/5fj9SAx9TZ6CwSSc8Tg219"
       },
@@ -779,22 +763,34 @@
     {
       "added_at": "2023-11-17 03:03:00",
       "album": {
-        "name": "Queda livre",
-        "url": "https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp"
+        "name": "Poema Suspenso",
+        "url": "https://open.spotify.com/album/2ZrXjPfZUBTSH2ETLKqB0I"
       },
       "artists": [
         {
-          "name": "Playmoboys",
-          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
-        },
-        {
-          "name": "Oh! I Kill",
-          "url": "https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI"
+          "name": "Rizzih",
+          "url": "https://open.spotify.com/artist/4RU7ivIDDiiEWDxUMfOV64"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Queda livre",
-      "url": "https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX"
+      "duration_ms": 178935,
+      "name": "(((V\u00eanus)))",
+      "url": "https://open.spotify.com/track/7C9Qeb9mC8kbBmOGoWIzFD"
+    },
+    {
+      "added_at": "2023-11-17 03:03:00",
+      "album": {
+        "name": "Tarde no Walkiria",
+        "url": "https://open.spotify.com/album/3d9WQ7ir8GSaHmMMog7qfr"
+      },
+      "artists": [
+        {
+          "name": "\u00cdtallo",
+          "url": "https://open.spotify.com/artist/3Z8iiGCNdH9SM2dxr0WZp9"
+        }
+      ],
+      "duration_ms": 239950,
+      "name": "Palavra de Amor",
+      "url": "https://open.spotify.com/track/7z8gTjbcWPazkxjybrwV3K"
     },
     {
       "added_at": "2023-11-17 03:03:00",
@@ -815,18 +811,22 @@
     {
       "added_at": "2023-11-17 03:03:00",
       "album": {
-        "name": "Tarde no Walkiria",
-        "url": "https://open.spotify.com/album/3d9WQ7ir8GSaHmMMog7qfr"
+        "name": "Queda livre",
+        "url": "https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp"
       },
       "artists": [
         {
-          "name": "\u00cdtallo",
-          "url": "https://open.spotify.com/artist/3Z8iiGCNdH9SM2dxr0WZp9"
+          "name": "Playmoboys",
+          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
+        },
+        {
+          "name": "Oh! I Kill",
+          "url": "https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI"
         }
       ],
-      "duration_ms": 239950,
-      "name": "Palavra de Amor",
-      "url": "https://open.spotify.com/track/7z8gTjbcWPazkxjybrwV3K"
+      "duration_ms": 198000,
+      "name": "Queda livre",
+      "url": "https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX"
     },
     {
       "added_at": "2023-11-17 03:03:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-11-17 03:03:00",
       "album": {
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/7nzIvpG7y3ZK197oCc8RME"
+      },
+      "artists": [
+        {
+          "name": "Nevilton",
+          "url": "https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/4ylDsu5lFUMKtI675fAd3x"
+    },
+    {
+      "added_at": "2023-11-17 03:03:00",
+      "album": {
         "name": "V\u00edcio Que C\u00ea Tem Em Mim",
         "url": "https://open.spotify.com/album/6lLhGUbpGSVUuGhlp1BHrg"
       },
@@ -883,22 +899,6 @@
     {
       "added_at": "2023-11-17 03:03:00",
       "album": {
-        "name": "\u00d4 Lulu",
-        "url": "https://open.spotify.com/album/55xxEtIfagPjZR5LcCMJbP"
-      },
-      "artists": [
-        {
-          "name": "dad\u00e1 Jo\u00e3ozinho",
-          "url": "https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X"
-        }
-      ],
-      "duration_ms": 184646,
-      "name": "\u00d4 Lulu",
-      "url": "https://open.spotify.com/track/4zANO1rVIY1EeaDyyI3BN6"
-    },
-    {
-      "added_at": "2023-11-17 03:03:00",
-      "album": {
         "name": "Hortel\u00e3",
         "url": "https://open.spotify.com/album/7xfKJrEeIf1DMT6hCD444y"
       },
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-11-17 03:03:00",
       "album": {
-        "name": "Brisa",
-        "url": "https://open.spotify.com/album/7nzIvpG7y3ZK197oCc8RME"
+        "name": "\u00d4 Lulu",
+        "url": "https://open.spotify.com/album/55xxEtIfagPjZR5LcCMJbP"
       },
       "artists": [
         {
-          "name": "Nevilton",
-          "url": "https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM"
+          "name": "dad\u00e1 Jo\u00e3ozinho",
+          "url": "https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X"
         }
       ],
-      "duration_ms": 211998,
-      "name": "Brisa",
-      "url": "https://open.spotify.com/track/4ylDsu5lFUMKtI675fAd3x"
+      "duration_ms": 184646,
+      "name": "\u00d4 Lulu",
+      "url": "https://open.spotify.com/track/4zANO1rVIY1EeaDyyI3BN6"
     },
     {
       "added_at": "2023-11-17 03:03:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-11-17 03:03:00",
       "album": {
-        "name": "Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/5HAypEsF8YPskC6yB8WpAm"
-      },
-      "artists": [
-        {
-          "name": "Malu Azevedo",
-          "url": "https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R"
-        }
-      ],
-      "duration_ms": 201734,
-      "name": "Ilus\u00e3o",
-      "url": "https://open.spotify.com/track/4JOiydkWmnZcSHZlm9wYMG"
-    },
-    {
-      "added_at": "2023-11-17 03:03:00",
-      "album": {
         "name": "vc \u00e9 uma bagun\u00e7a",
         "url": "https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2023-11-17 03:03:00",
       "album": {
-        "name": "Surrender!",
-        "url": "https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x"
+        "name": "Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/5HAypEsF8YPskC6yB8WpAm"
       },
       "artists": [
         {
-          "name": "Bemti",
-          "url": "https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW"
+          "name": "Malu Azevedo",
+          "url": "https://open.spotify.com/artist/5xpVv42Tp4R3l8diZQHB4R"
         }
       ],
-      "duration_ms": 189030,
-      "name": "Surrender!",
-      "url": "https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ"
+      "duration_ms": 201734,
+      "name": "Ilus\u00e3o",
+      "url": "https://open.spotify.com/track/4JOiydkWmnZcSHZlm9wYMG"
     },
     {
       "added_at": "2023-11-17 03:03:00",
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2023-11-17 03:03:00",
       "album": {
-        "name": "Meu Mantra pra Te Esquecer",
-        "url": "https://open.spotify.com/album/6NHTjbw0reHFYuDdTM60Pn"
+        "name": "Surrender!",
+        "url": "https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x"
       },
       "artists": [
         {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+          "name": "Bemti",
+          "url": "https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW"
         }
       ],
-      "duration_ms": 233019,
-      "name": "Meu Mantra pra Te Esquecer",
-      "url": "https://open.spotify.com/track/09rr23IvslgyUlv6Hlemqo"
+      "duration_ms": 189030,
+      "name": "Surrender!",
+      "url": "https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ"
     },
     {
       "added_at": "2023-11-17 03:03:00",
@@ -1083,22 +1067,6 @@
     {
       "added_at": "2023-11-17 03:03:00",
       "album": {
-        "name": "Esse Jogo",
-        "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
-      },
-      "artists": [
-        {
-          "name": "Thifany Kauany",
-          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
-        }
-      ],
-      "duration_ms": 144742,
-      "name": "Esse Jogo",
-      "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
-    },
-    {
-      "added_at": "2023-11-17 03:03:00",
-      "album": {
         "name": "Jacquemus",
         "url": "https://open.spotify.com/album/7pL7EHos5wHLJPChNacH45"
       },
@@ -1111,6 +1079,38 @@
       "duration_ms": 153559,
       "name": "Jacquemus",
       "url": "https://open.spotify.com/track/3tWYqTOPHZjOdj2BBJjVR6"
+    },
+    {
+      "added_at": "2023-11-17 03:03:00",
+      "album": {
+        "name": "Meu Mantra pra Te Esquecer",
+        "url": "https://open.spotify.com/album/6NHTjbw0reHFYuDdTM60Pn"
+      },
+      "artists": [
+        {
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+        }
+      ],
+      "duration_ms": 233019,
+      "name": "Meu Mantra pra Te Esquecer",
+      "url": "https://open.spotify.com/track/09rr23IvslgyUlv6Hlemqo"
+    },
+    {
+      "added_at": "2023-11-17 03:03:00",
+      "album": {
+        "name": "Esse Jogo",
+        "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
+      },
+      "artists": [
+        {
+          "name": "Thifany Kauany",
+          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
+        }
+      ],
+      "duration_ms": 144742,
+      "name": "Esse Jogo",
+      "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
     },
     {
       "added_at": "2023-11-17 03:03:00",
@@ -1143,6 +1143,22 @@
       "duration_ms": 176398,
       "name": "Me Liga",
       "url": "https://open.spotify.com/track/2MqmSd72GK1oHKJeELAsAk"
+    },
+    {
+      "added_at": "2023-11-17 03:03:00",
+      "album": {
+        "name": "reluz",
+        "url": "https://open.spotify.com/album/4RhsyCCyX1IViJF9P7MBVM"
+      },
+      "artists": [
+        {
+          "name": "As\u00fa",
+          "url": "https://open.spotify.com/artist/33niI54BdTNsMN18d5lLM0"
+        }
+      ],
+      "duration_ms": 193053,
+      "name": "reluz",
+      "url": "https://open.spotify.com/track/2NqY3ZHWi8NxHiz6RlTyqu"
     },
     {
       "added_at": "2023-11-17 03:03:00",
@@ -1207,22 +1223,6 @@
       "duration_ms": 178526,
       "name": "Esquece",
       "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
-    },
-    {
-      "added_at": "2023-11-17 03:03:00",
-      "album": {
-        "name": "reluz",
-        "url": "https://open.spotify.com/album/4RhsyCCyX1IViJF9P7MBVM"
-      },
-      "artists": [
-        {
-          "name": "As\u00fa",
-          "url": "https://open.spotify.com/artist/33niI54BdTNsMN18d5lLM0"
-        }
-      ],
-      "duration_ms": 193053,
-      "name": "reluz",
-      "url": "https://open.spotify.com/track/2NqY3ZHWi8NxHiz6RlTyqu"
     },
     {
       "added_at": "2023-11-17 03:03:00",

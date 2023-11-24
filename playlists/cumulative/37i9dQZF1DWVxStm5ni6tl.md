@@ -4,7 +4,7 @@
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Rau\_Ze, Artwork by: Isu Kim
 
-530 songs - 1 day 3 hr 19 min
+531 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,8 @@
 | [Flashing Lights](https://open.spotify.com/track/4KGk4jxI2Y480ahFIaWxrz) | [David Morin](https://open.spotify.com/artist/24kIGBNAXpwruRnnYjfN2p), [Koyla](https://open.spotify.com/artist/4ZPTXiGXai2aHL3625gokV) | [Flashing Lights](https://open.spotify.com/album/73iutkmcDD95fr0bHFuLzi) | 3:46 | 2023-09-13 | 2023-10-05 |
 | [FLEX](https://open.spotify.com/track/0UUJciUQTEV7tJHNwoQ6ga) | [Evrlove Blake](https://open.spotify.com/artist/2bg0BygaO3zYZbuA4ExCa0) | [FLEX](https://open.spotify.com/album/233Tls33JGHwHIT53qjBs7) | 2:22 | 2023-11-22 |  |
 | [FLOW](https://open.spotify.com/track/2qHaIj2QmVDJZBLRGptfzU) | [DORESSA](https://open.spotify.com/artist/0mrGJjgyeVmhwKCF0KOsdZ) | [FLOW](https://open.spotify.com/album/6IbZd4jTPIwdKv6tmkXVXQ) | 3:38 | 2023-09-27 | 2023-10-12 |
-| [Flowers on the Fire Escape](https://open.spotify.com/track/1tIFvbrapTX46SYlqH9NGH) | [MOONRIIVR](https://open.spotify.com/artist/7L0DI3wlt7yeY4Hi9I87h8) | [Vol\. 1](https://open.spotify.com/album/5IFhMN34yqdi4VhP63MNSx) | 3:56 | 2023-11-15 |  |
+| [Flowers on the Fire Escape](https://open.spotify.com/track/1tIFvbrapTX46SYlqH9NGH) | [MOONRIIVR](https://open.spotify.com/artist/7L0DI3wlt7yeY4Hi9I87h8) | [Vol\. 1](https://open.spotify.com/album/5IFhMN34yqdi4VhP63MNSx) | 3:56 | 2023-11-15 | 2023-11-24 |
+| [Flowers on the Fire Escape](https://open.spotify.com/track/5Sx5LEwv1rkb3foo0WYYm0) | [MOONRIIVR](https://open.spotify.com/artist/7L0DI3wlt7yeY4Hi9I87h8) | [Vol\. 1](https://open.spotify.com/album/2QOpujXPtpuOIbieP3eSS9) | 3:56 | 2023-11-22 |  |
 | [Fly](https://open.spotify.com/track/6yyvtlZtWfMFiFoCYmzzOB) | [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [Fly](https://open.spotify.com/album/36KysvE4Owk5mOVGepYusC) | 3:36 | 2023-11-15 |  |
 | [Fold](https://open.spotify.com/track/325sNEWNzA8q5XvQpX8CxI) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Fold](https://open.spotify.com/album/6Hta8XMZvDB2Tv2DvGFiva) | 2:55 | 2023-10-11 | 2023-11-09 |
 | [FOMO](https://open.spotify.com/track/6ZvgLLci0oIg48UR2TTQ8P) | [James Blonde](https://open.spotify.com/artist/4JFUF9h1Mo98JJ1AnsLyJT) | [Chameleon](https://open.spotify.com/album/1cv08rZVoRLEHAg225iAjq) | 3:03 | 2023-09-13 | 2023-10-05 |

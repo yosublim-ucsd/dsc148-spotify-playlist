@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Majid Jordan
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,306 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,320 likes - 51 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 11 | [PAINFUL PARADISE](https://open.spotify.com/track/3PUMFgRmBuKqGDtNKLBPt6) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [PAINFUL PARADISE](https://open.spotify.com/album/54nuF8VIzj6ZoW5yYFHt9M) | 2:55 |
 | 12 | [House Shoes](https://open.spotify.com/track/7330zPJs9Z3Bb2KcLVDYEP) | [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF), [A'Y](https://open.spotify.com/artist/6TuBlW4LOyXzvg0DdtDRaj) | [Butter](https://open.spotify.com/album/6jdhoZVZfJyRaq6RyQ8flo) | 3:17 |
 | 13 | [Egyptian Wifey](https://open.spotify.com/track/2XBEQM6MEQW0JCEhrsFQp1) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Egyptian Wifey](https://open.spotify.com/album/3OCMyZIbBTWyCYqk7lcI1o) | 2:51 |
-| 14 | [The Pen & The Sword](https://open.spotify.com/track/1VgwKZoRyDjkOvVWlBs0Y9) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [The Pen & The Sword](https://open.spotify.com/album/0701R6QU1xnQFYxy8mVTaW) | 2:55 |
-| 15 | [Ra2i2a](https://open.spotify.com/track/3rVzXNNZqxhwGn0azDDKZm) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Harara](https://open.spotify.com/album/0ZgfIhQcP5ahuAxIGvxnNf) | 2:46 |
+| 14 | [Freedom](https://open.spotify.com/track/2mJi2pmOR0M184tKgIcAOx) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F), [MMKN](https://open.spotify.com/artist/7va2OJ5yHhDGZfBFVyBD7v) | [Freedom](https://open.spotify.com/album/3Gs2YQWFPGkgxYMiwU3UhM) | 1:36 |
+| 15 | [The Pen & The Sword](https://open.spotify.com/track/1VgwKZoRyDjkOvVWlBs0Y9) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [The Pen & The Sword](https://open.spotify.com/album/0701R6QU1xnQFYxy8mVTaW) | 2:55 |
 | 16 | [WORK](https://open.spotify.com/track/72gAZIf8wnbOuz1GqGUtGF) | [Zahraa](https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr) | [WORK](https://open.spotify.com/album/7rFFhUon9lIWtvSSH5XYHy) | 2:44 |
 | 17 | [Seventeenth](https://open.spotify.com/track/4So2mnPsaD3clOoqAWUKKM) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe) | [Seventeenth](https://open.spotify.com/album/7rsjWsaJzIAfYDUGNOWZwg) | 3:51 |
 | 18 | [Good Girl](https://open.spotify.com/track/6kNSoY1EvwNK1O9jBj5KTd) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Good Girl](https://open.spotify.com/album/5tZWQSuWSeW96L59PCll80) | 3:02 |
@@ -39,24 +39,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 29 | [Maradona \(feat\. Freek\)](https://open.spotify.com/track/2MnoGHiqYlj38lzwfnuFy6) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Maradona \(feat\. Freek\)](https://open.spotify.com/album/3lxGjx9wuTvWMbHuGa6eep) | 2:57 |
 | 30 | [Ode to life](https://open.spotify.com/track/2qdDZJm6QkRLQfQ7ZmVCJc) | [Baddou](https://open.spotify.com/artist/3vMxNq3AUuB023zM1le7A9) | [Ode to life](https://open.spotify.com/album/1Drj3fSdeoRcfLOY5vGcQq) | 4:34 |
 | 31 | [ON MY WAY](https://open.spotify.com/track/4ROX1uuhzvVlVAb1JD4QLt) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [ON MY WAY](https://open.spotify.com/album/4vuD3eA8e1R7gLCAcXC4Ut) | 3:32 |
-| 32 | [Show Me](https://open.spotify.com/track/52PJYhZeFDUJD70NR3kYT3) | [Moh Flow](https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p) | [Show Me](https://open.spotify.com/album/400tCk424YR0fhAH3yj29v) | 3:21 |
-| 33 | [Garden](https://open.spotify.com/track/0tfdhbTzWw4S7MMG3Euw50) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Garden](https://open.spotify.com/album/5nF0rJdSzwT2V7iJKFKxtO) | 2:48 |
-| 34 | [RAS L'KHEIT](https://open.spotify.com/track/15D5UNbf9SEnTElZVImhmo) | [Fulan](https://open.spotify.com/artist/4EUpixEhMIiyIPz8TzVpqk) | [RAS L'KHEIT](https://open.spotify.com/album/2BL8Jg0gyzTxoJU5Qn679Y) | 2:48 |
-| 35 | [complicated\_5](https://open.spotify.com/track/1H4mPyCMllISVPsrlpdzqw) | [artistbasm](https://open.spotify.com/artist/4L9VftgkqPPV0KXjzM0SIh) | [complicated\_5](https://open.spotify.com/album/1J5sJ59sMgEGc8idzbj6Ml) | 3:12 |
-| 36 | [OBSESSED](https://open.spotify.com/track/7k2nyUIUCK6lZGeA6zdj8Z) | [Zahraa](https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr) | [OBSESSED](https://open.spotify.com/album/6E9QcKgzS7TYqFmENIBkiG) | 2:54 |
-| 37 | [Remedy](https://open.spotify.com/track/0Vf2mGwLoYXmgv2IxgEPko) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA), [Kar33m](https://open.spotify.com/artist/7320Yw3QnbbDBjOK09tRkP) | [Remedy](https://open.spotify.com/album/1QkDJE5oZHxDdotlGgN9xy) | 3:37 |
-| 38 | [Egyptian Lover](https://open.spotify.com/track/6cXwmgaPgKyLDL0xWiVNyX) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Egyptian Lover](https://open.spotify.com/album/40CEKSB4zJErS8ZFdpuss2) | 1:58 |
-| 39 | [GG Geena](https://open.spotify.com/track/7BCTs4GX9kQ3hvojt5vlLH) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [GG Geena](https://open.spotify.com/album/7Ea8OkBsX5UAw5G2aJ14b4) | 1:59 |
-| 40 | [Outro](https://open.spotify.com/track/3pQuKEIvQD7cEOD6cLobU0) | [Debani](https://open.spotify.com/artist/5YQpqLghmViWnrQUwXM41R) | [Outro](https://open.spotify.com/album/3NTz2FUGdJXdqQo1yDYOyH) | 3:08 |
-| 41 | [From Gaza, With Love](https://open.spotify.com/track/3TzuOUqhDIS7gkKS4oy37V) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [From Gaza, With Love](https://open.spotify.com/album/11w9tokUs0UblHxAGtvND2) | 1:59 |
-| 42 | [Dodi and Diana](https://open.spotify.com/track/2qLXPJKlyq3AdL5BfkPLtJ) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Dodi and Diana](https://open.spotify.com/album/5BDRacsQIb2OfWeyoz1mLi) | 2:18 |
-| 43 | [Queen](https://open.spotify.com/track/75GOJlE9TOU8LeHdMY5gba) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Queen](https://open.spotify.com/album/7d9o63pw979XngrDlHRrey) | 3:05 |
-| 44 | [Heat](https://open.spotify.com/track/42v0E7B6vsNtls6UrzC9ui) | [KATARYA](https://open.spotify.com/artist/0NebVdki9sW4rcxCBnBfaV) | [Heat](https://open.spotify.com/album/2oAyoiJZwHEQWDrltRnJIz) | 2:45 |
-| 45 | [XENA](https://open.spotify.com/track/3RWjhGoGLeJlrPlMWJyHJf) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [XENA](https://open.spotify.com/album/6dIRD8FVDLGmA0AoxYEOeA) | 4:11 |
-| 46 | [Fear Nothing](https://open.spotify.com/track/7LvmSzawlp43aFDK6PddO5) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [INNER WARRIOR](https://open.spotify.com/album/2abEx97wj9sM4Vs81d1rYM) | 3:28 |
-| 47 | [NASTY](https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [NASTY](https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF) | 2:50 |
-| 48 | [POINT OF NO RETURN](https://open.spotify.com/track/4GgFF0xemAwyhyXDbTsXG1) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [POINT OF NO RETURN](https://open.spotify.com/album/1B0A3zeqNO0EsFr3zaQxRq) | 3:34 |
-| 49 | [THANK GOD](https://open.spotify.com/track/1o6JHLSAtNsIj8AgAvDxXX) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [WELCOME TO THE JUNGLE \(Deluxe\)](https://open.spotify.com/album/78c0MqaiVSdxo38fjv0vcp) | 3:30 |
-| 50 | [nVr Mind](https://open.spotify.com/track/6QLlPyH3DqfoCiyzQfdxl2) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [nVr Mind](https://open.spotify.com/album/7Awre3qsiQ0JrUS5XVwW1x) | 2:49 |
+| 32 | [Ra2i2a](https://open.spotify.com/track/3rVzXNNZqxhwGn0azDDKZm) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Harara](https://open.spotify.com/album/0ZgfIhQcP5ahuAxIGvxnNf) | 2:46 |
+| 33 | [Show Me](https://open.spotify.com/track/52PJYhZeFDUJD70NR3kYT3) | [Moh Flow](https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p) | [Show Me](https://open.spotify.com/album/400tCk424YR0fhAH3yj29v) | 3:21 |
+| 34 | [Garden](https://open.spotify.com/track/0tfdhbTzWw4S7MMG3Euw50) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Garden](https://open.spotify.com/album/5nF0rJdSzwT2V7iJKFKxtO) | 2:48 |
+| 35 | [RAS L'KHEIT](https://open.spotify.com/track/15D5UNbf9SEnTElZVImhmo) | [Fulan](https://open.spotify.com/artist/4EUpixEhMIiyIPz8TzVpqk) | [RAS L'KHEIT](https://open.spotify.com/album/2BL8Jg0gyzTxoJU5Qn679Y) | 2:48 |
+| 36 | [complicated\_5](https://open.spotify.com/track/1H4mPyCMllISVPsrlpdzqw) | [artistbasm](https://open.spotify.com/artist/4L9VftgkqPPV0KXjzM0SIh) | [complicated\_5](https://open.spotify.com/album/1J5sJ59sMgEGc8idzbj6Ml) | 3:12 |
+| 37 | [OBSESSED](https://open.spotify.com/track/7k2nyUIUCK6lZGeA6zdj8Z) | [Zahraa](https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr) | [OBSESSED](https://open.spotify.com/album/6E9QcKgzS7TYqFmENIBkiG) | 2:54 |
+| 38 | [Remedy](https://open.spotify.com/track/0Vf2mGwLoYXmgv2IxgEPko) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA), [Kar33m](https://open.spotify.com/artist/7320Yw3QnbbDBjOK09tRkP) | [Remedy](https://open.spotify.com/album/1QkDJE5oZHxDdotlGgN9xy) | 3:37 |
+| 39 | [Egyptian Lover](https://open.spotify.com/track/6cXwmgaPgKyLDL0xWiVNyX) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Egyptian Lover](https://open.spotify.com/album/40CEKSB4zJErS8ZFdpuss2) | 1:58 |
+| 40 | [GG Geena](https://open.spotify.com/track/7BCTs4GX9kQ3hvojt5vlLH) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [GG Geena](https://open.spotify.com/album/7Ea8OkBsX5UAw5G2aJ14b4) | 1:59 |
+| 41 | [Outro](https://open.spotify.com/track/3pQuKEIvQD7cEOD6cLobU0) | [Debani](https://open.spotify.com/artist/5YQpqLghmViWnrQUwXM41R) | [Outro](https://open.spotify.com/album/3NTz2FUGdJXdqQo1yDYOyH) | 3:08 |
+| 42 | [From Gaza, With Love](https://open.spotify.com/track/3TzuOUqhDIS7gkKS4oy37V) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [From Gaza, With Love](https://open.spotify.com/album/11w9tokUs0UblHxAGtvND2) | 1:59 |
+| 43 | [Dodi and Diana](https://open.spotify.com/track/2qLXPJKlyq3AdL5BfkPLtJ) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Dodi and Diana](https://open.spotify.com/album/5BDRacsQIb2OfWeyoz1mLi) | 2:18 |
+| 44 | [Queen](https://open.spotify.com/track/75GOJlE9TOU8LeHdMY5gba) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Queen](https://open.spotify.com/album/7d9o63pw979XngrDlHRrey) | 3:05 |
+| 45 | [Heat](https://open.spotify.com/track/42v0E7B6vsNtls6UrzC9ui) | [KATARYA](https://open.spotify.com/artist/0NebVdki9sW4rcxCBnBfaV) | [Heat](https://open.spotify.com/album/2oAyoiJZwHEQWDrltRnJIz) | 2:45 |
+| 46 | [XENA](https://open.spotify.com/track/3RWjhGoGLeJlrPlMWJyHJf) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [XENA](https://open.spotify.com/album/6dIRD8FVDLGmA0AoxYEOeA) | 4:11 |
+| 47 | [Fear Nothing](https://open.spotify.com/track/7LvmSzawlp43aFDK6PddO5) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [INNER WARRIOR](https://open.spotify.com/album/2abEx97wj9sM4Vs81d1rYM) | 3:28 |
+| 48 | [NASTY](https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [NASTY](https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF) | 2:50 |
+| 49 | [POINT OF NO RETURN](https://open.spotify.com/track/4GgFF0xemAwyhyXDbTsXG1) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [POINT OF NO RETURN](https://open.spotify.com/album/1B0A3zeqNO0EsFr3zaQxRq) | 3:34 |
+| 50 | [THANK GOD](https://open.spotify.com/track/1o6JHLSAtNsIj8AgAvDxXX) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [WELCOME TO THE JUNGLE \(Deluxe\)](https://open.spotify.com/album/78c0MqaiVSdxo38fjv0vcp) | 3:30 |
+| 51 | [nVr Mind](https://open.spotify.com/track/6QLlPyH3DqfoCiyzQfdxl2) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [nVr Mind](https://open.spotify.com/album/7Awre3qsiQ0JrUS5XVwW1x) | 2:49 |
 
-Snapshot ID: `MCwxZDIzNDkyZjJjN2ZmODhjMTU1NmM3NDNlNjI2YjQ4NjAxNzhlYWJi`
+Snapshot ID: `MCwwZGM3MTRmMDI3YzZiNzhhZjNkYjE0MGIzMzZmNGRlZmFmNDFiNjYx`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: bambi",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Paluch",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -99,6 +99,48 @@
     },
     {
       "album": {
+        "name": "GM2L Mixtape",
+        "url": "https://open.spotify.com/album/6yL5hla6R4evgV5kiT9BJe"
+      },
+      "artists": [
+        {
+          "name": "GM2L",
+          "url": "https://open.spotify.com/artist/5a6bf006Dgf5kk2OxvpVYY"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Kazar",
+          "url": "https://open.spotify.com/artist/0GipFkNANMIWjCVTchgErV"
+        },
+        {
+          "name": "Kazior",
+          "url": "https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8"
+        },
+        {
+          "name": "OLEK",
+          "url": "https://open.spotify.com/artist/4nRJJWVfbPAULHZl7VYVE8"
+        },
+        {
+          "name": "Syru",
+          "url": "https://open.spotify.com/artist/3uT7FdWh1z2ATzC6K4UAGT"
+        },
+        {
+          "name": "Swizzy",
+          "url": "https://open.spotify.com/artist/0suD5l3wWM0EdjkhrBfUxk"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131428,
+      "name": "5 gwiazdek",
+      "url": "https://open.spotify.com/track/4RFmKthF8Tu2ybqqKlXqkq"
+    },
+    {
+      "album": {
         "name": "???",
         "url": "https://open.spotify.com/album/6b9nJ7eZHoXbVfIA3KQ6bg"
       },
@@ -148,6 +190,28 @@
       "duration_ms": 158297,
       "name": "ADDERALL",
       "url": "https://open.spotify.com/track/1Ki7FuiF2krk4lD8zjV3Nz"
+    },
+    {
+      "album": {
+        "name": "AEZAKMI",
+        "url": "https://open.spotify.com/album/7qQ4Ecr1Clh3qTHwer5HNw"
+      },
+      "artists": [
+        {
+          "name": "ReTo",
+          "url": "https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli"
+        },
+        {
+          "name": "Wroobel",
+          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139300,
+      "name": "AEZAKMI",
+      "url": "https://open.spotify.com/track/3X5SUT9V4oT3ToYQ8t6Yjf"
     },
     {
       "album": {
@@ -300,7 +364,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 219200,
       "name": "BEZ LOKALIZACJI",
       "url": "https://open.spotify.com/track/2Gikijk4VAPyKTZVhTO4o6"
@@ -528,7 +592,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 194610,
       "name": "Cichosza",
       "url": "https://open.spotify.com/track/3kjMeY6ZgOZYAFRiPHMqmS"
@@ -716,7 +780,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 140307,
       "name": "Dyskoteka",
       "url": "https://open.spotify.com/track/3B3pbYU8NMXYUXkUWDzI0S"
@@ -742,7 +806,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 137068,
       "name": "Eskimos",
       "url": "https://open.spotify.com/track/4LkMaDiEtbaJpCipcOlGdb"
@@ -812,6 +876,28 @@
       "duration_ms": 142205,
       "name": "Fluid",
       "url": "https://open.spotify.com/track/5E6Nv8QZblXpiFDQ8iSfE2"
+    },
+    {
+      "album": {
+        "name": "Freestyle",
+        "url": "https://open.spotify.com/album/6pgZMKPMrzdMQdkdYbEfnV"
+      },
+      "artists": [
+        {
+          "name": "Oliwka Brazil",
+          "url": "https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs"
+        },
+        {
+          "name": "WIKTOR",
+          "url": "https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126514,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/21edHwVjnKC1X2QLjpp5Oi"
     },
     {
       "album": {
@@ -896,6 +982,32 @@
       "duration_ms": 187428,
       "name": "Gratuluj\u0119",
       "url": "https://open.spotify.com/track/3hO0Pvj097dCOl9kSGXMTz"
+    },
+    {
+      "album": {
+        "name": "G\u0141UPIE POMYS\u0141Y",
+        "url": "https://open.spotify.com/album/1StfVw1yKZr0NWGsTrtziA"
+      },
+      "artists": [
+        {
+          "name": "Gedz",
+          "url": "https://open.spotify.com/artist/1MZ1TtfmzMHEYIlynXsr1a"
+        },
+        {
+          "name": "Quebonafide",
+          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194782,
+      "name": "G\u0141UPIE POMYS\u0141Y",
+      "url": "https://open.spotify.com/track/5BGG7LhSsf1WR5T1gNTUZM"
     },
     {
       "album": {
@@ -1514,7 +1626,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 106975,
       "name": "MUSZ\u0118 TO WYKRZYCZE\u0106",
       "url": "https://open.spotify.com/track/6RUbdD23fL9PQYnOMd8L7b"
@@ -1849,6 +1961,32 @@
     },
     {
       "album": {
+        "name": "Przetyrany \u0141eb",
+        "url": "https://open.spotify.com/album/2MSap0EMv3lePmOtTUBj02"
+      },
+      "artists": [
+        {
+          "name": "Bary",
+          "url": "https://open.spotify.com/artist/4JBmVZET2xstezrgS5PsXw"
+        },
+        {
+          "name": "LEENY",
+          "url": "https://open.spotify.com/artist/0JNiE5PtIz3q5dWEeyGsym"
+        },
+        {
+          "name": "White Widow",
+          "url": "https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133200,
+      "name": "Przetyrany \u0141eb",
+      "url": "https://open.spotify.com/track/5ApeRUlpwia4ed8Z1kVdcc"
+    },
+    {
+      "album": {
         "name": "Puff Daddy",
         "url": "https://open.spotify.com/album/1unDpBFUZGTyPR0HKUm8NQ"
       },
@@ -1864,7 +2002,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 153461,
       "name": "Puff Daddy",
       "url": "https://open.spotify.com/track/2smHwbTqnvAMSNjOIlkhYc"
@@ -1950,6 +2088,28 @@
       "duration_ms": 170986,
       "name": "RYSY",
       "url": "https://open.spotify.com/track/6d2W4tWQGGhhnJe4zddAUi"
+    },
+    {
+      "album": {
+        "name": "Klubowe 2",
+        "url": "https://open.spotify.com/album/3RF3Jv9Nr3zROFyy1iMoOr"
+      },
+      "artists": [
+        {
+          "name": "Tymek",
+          "url": "https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh"
+        },
+        {
+          "name": "Distroke",
+          "url": "https://open.spotify.com/artist/0UI674wb5tazVALWDF9l8T"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "R\u00f3\u017cowe s\u0142omki",
+      "url": "https://open.spotify.com/track/42vaWByLiqNRyVyGX3DsCQ"
     },
     {
       "album": {
@@ -2464,7 +2624,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 128000,
       "name": "Walczyk",
       "url": "https://open.spotify.com/track/6TZhDGZQSAEwAlK5hMBtNC"
@@ -2620,6 +2780,36 @@
       "duration_ms": 184982,
       "name": "Zawsze chcia\u0142em",
       "url": "https://open.spotify.com/track/3AmVHFyIPCDYkqzYTfizOt"
+    },
+    {
+      "album": {
+        "name": "ZENIT",
+        "url": "https://open.spotify.com/album/3X5OY1FCwyWY2ZuIF6oOp3"
+      },
+      "artists": [
+        {
+          "name": "Jano Polska Wersja",
+          "url": "https://open.spotify.com/artist/0BBB9DjvskQV0oReJMxTP1"
+        },
+        {
+          "name": "Hinol Polska Wersja",
+          "url": "https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg"
+        },
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "PSR",
+          "url": "https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173271,
+      "name": "ZENIT",
+      "url": "https://open.spotify.com/track/5r2dM2WLKqFmqBYRVRhLav"
     },
     {
       "album": {

@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Welcome To Our Future",
+        "url": "https://open.spotify.com/album/6bSvq46jgueYOXbrjjggs2"
+      },
+      "artists": [
+        {
+          "name": "Afrojazz Quintet",
+          "url": "https://open.spotify.com/artist/2kCBdg9ftIoUvnvSffRz3z"
+        },
+        {
+          "name": "Jimi Tenor",
+          "url": "https://open.spotify.com/artist/69H6uUTI29XBzQXV1d3A7D"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330803,
+      "name": "A Smile In Exile",
+      "url": "https://open.spotify.com/track/2Km22hqTP1oCagWeUhKSVr"
+    },
+    {
+      "album": {
         "name": "What Will We Leave Behind",
         "url": "https://open.spotify.com/album/7cfIfqeymxfXyvt69grQaO"
       },
@@ -334,7 +356,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 331880,
       "name": "Brand New Games",
       "url": "https://open.spotify.com/track/1rbRTcz5o8BrewfMPTLbZk"
@@ -446,7 +468,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 366509,
       "name": "Cameroonian Sky",
       "url": "https://open.spotify.com/track/6IQ5o2ur6q1DXoRUfk2Cb1"
@@ -486,7 +508,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 267173,
       "name": "Chickenhawk",
       "url": "https://open.spotify.com/track/6340Rw7wgSjcJdx8ymzbXG"
@@ -1048,7 +1070,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 187002,
       "name": "Good Woman",
       "url": "https://open.spotify.com/track/0yjKisEQNn4guL4s8HpABJ"
@@ -1084,7 +1106,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 385986,
       "name": "Hiljainen",
       "url": "https://open.spotify.com/track/0zf7oA2yxkY0pf7FqJFBu8"
@@ -1204,7 +1226,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 308712,
       "name": "In Place",
       "url": "https://open.spotify.com/track/2EQ4o9Bxfi9R4Xw9pty8Ae"
@@ -1344,7 +1366,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 263146,
       "name": "Junassa",
       "url": "https://open.spotify.com/track/2hPQcgfs8FPUEtFmqRRqaV"
@@ -1420,7 +1442,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 260398,
       "name": "Karjalan Poikia",
       "url": "https://open.spotify.com/track/1QKRrMtm4qo22TGO5qjMF1"
@@ -1456,7 +1478,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 367741,
       "name": "Ketunnokka",
       "url": "https://open.spotify.com/track/3YvK6bdj8mGao5f2CCVBdz"
@@ -1500,6 +1522,24 @@
       "duration_ms": 328493,
       "name": "Kev\u00e4thuuto",
       "url": "https://open.spotify.com/track/3M7VQWhLMGX1HxnErLvpNs"
+    },
+    {
+      "album": {
+        "name": "Duktus",
+        "url": "https://open.spotify.com/album/1KbvXsQv1uWMF0eZyRhHA8"
+      },
+      "artists": [
+        {
+          "name": "The Stance Brothers",
+          "url": "https://open.spotify.com/artist/1AEh6OX55KCjPJX0Lzkjy1"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226937,
+      "name": "King Cesar",
+      "url": "https://open.spotify.com/track/2bLLd8tlZVAhMqko7pdq0D"
     },
     {
       "album": {
@@ -1850,7 +1890,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 279933,
       "name": "Moon Over Mysore",
       "url": "https://open.spotify.com/track/2ViBKbHDsJuvU2eTireOAY"
@@ -2504,7 +2544,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 273181,
       "name": "Saami Rights",
       "url": "https://open.spotify.com/track/28KzeO7Wres2CmdmMjoXoi"
@@ -2522,7 +2562,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 157500,
       "name": "Sao Paolo",
       "url": "https://open.spotify.com/track/6HmYcMEJQlMDXHjaYRQJF6"
@@ -2952,7 +2992,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 282333,
       "name": "The Day",
       "url": "https://open.spotify.com/track/7MMdO6NliB7AtFjefzFPd4"

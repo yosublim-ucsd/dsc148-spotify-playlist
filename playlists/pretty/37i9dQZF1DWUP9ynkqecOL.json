@@ -1,12 +1,12 @@
 {
   "description": "Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.",
-  "num_followers": 20413,
+  "num_followers": 20446,
   "original_name": "Electro Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmRjODE3NTY5OWMxOWYwZTUwMDc4ZDEyMTllNzRkMmRkMTYwMTJm",
+  "snapshot_id": "MCxmNzExMzFmOTljOGQ3YWY3Njk5ODIyYjZlNTIwZWM0Y2QyZGEzYmUx",
   "tracks": [
     {
       "added_at": "2023-11-10 14:30:24",
@@ -371,8 +371,8 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Los Pasos Labrados",
-        "url": "https://open.spotify.com/album/2wYrnuybn6lICNvZ9uvNIS"
+        "name": "Cantos de la Tierra Sin Mal",
+        "url": "https://open.spotify.com/album/14ceeyAvexxa2oMN2AuOl5"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5"
         }
       ],
-      "duration_ms": 305160,
-      "name": "Zamba para Olvidar",
-      "url": "https://open.spotify.com/track/5TeAvZBPKtmGfWR4uwf5dU"
+      "duration_ms": 304093,
+      "name": "Bienvenidos: Maiche Anawateuo",
+      "url": "https://open.spotify.com/track/3OidV2Umts84YFsvronNGW"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -495,8 +495,8 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Cantos de la Tierra Sin Mal",
-        "url": "https://open.spotify.com/album/14ceeyAvexxa2oMN2AuOl5"
+        "name": "Los Pasos Labrados",
+        "url": "https://open.spotify.com/album/2wYrnuybn6lICNvZ9uvNIS"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5"
         }
       ],
-      "duration_ms": 304093,
-      "name": "Bienvenidos: Maiche Anawateuo",
-      "url": "https://open.spotify.com/track/3OidV2Umts84YFsvronNGW"
+      "duration_ms": 305160,
+      "name": "Zamba para Olvidar",
+      "url": "https://open.spotify.com/track/5TeAvZBPKtmGfWR4uwf5dU"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
+        "name": "Campo",
+        "url": "https://open.spotify.com/album/4Y0RPA1KwN7FER0Zj6qPBw"
+      },
+      "artists": [
+        {
+          "name": "Campo",
+          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
+        }
+      ],
+      "duration_ms": 189030,
+      "name": "Zorzal",
+      "url": "https://open.spotify.com/track/2gpYD4g5gpqHkNgX0my2ra"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
         "name": "Reverdecer (Remix)",
         "url": "https://open.spotify.com/album/5Jdbh1vxLk6vy5D8Uj8yQG"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 181992,
       "name": "Reverdecer - Remix",
       "url": "https://open.spotify.com/track/6dmYVOQHqiFvgZLGExgwcB"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
-        "name": "Campo",
-        "url": "https://open.spotify.com/album/4Y0RPA1KwN7FER0Zj6qPBw"
-      },
-      "artists": [
-        {
-          "name": "Campo",
-          "url": "https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8"
-        }
-      ],
-      "duration_ms": 189030,
-      "name": "Zorzal",
-      "url": "https://open.spotify.com/track/2gpYD4g5gpqHkNgX0my2ra"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -923,22 +923,18 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "El Despertar Del Anfibio (Instrumental)",
-        "url": "https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3"
+        "name": "Vol. 1",
+        "url": "https://open.spotify.com/album/5qtEX6yktv2BXT0s2bI6l8"
       },
       "artists": [
         {
-          "name": "Trickst4",
-          "url": "https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY"
-        },
-        {
-          "name": "Tom\u00e1s Pinkus",
-          "url": "https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr"
+          "name": "Puna",
+          "url": "https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ"
         }
       ],
-      "duration_ms": 383686,
-      "name": "El Despertar Del Anfibio - Instrumental",
-      "url": "https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH"
+      "duration_ms": 379200,
+      "name": "Chilenitas (Orozco / Barrientos) [Remix]",
+      "url": "https://open.spotify.com/track/2EuAmjrBtJaqc46VhizcGs"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -983,18 +979,22 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Vol. 1",
-        "url": "https://open.spotify.com/album/5qtEX6yktv2BXT0s2bI6l8"
+        "name": "El Despertar Del Anfibio (Instrumental)",
+        "url": "https://open.spotify.com/album/4YUsCZuKhHMvO0XJNzgnv3"
       },
       "artists": [
         {
-          "name": "Puna",
-          "url": "https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ"
+          "name": "Trickst4",
+          "url": "https://open.spotify.com/artist/7tLjgV5aXAvycWObtFajEY"
+        },
+        {
+          "name": "Tom\u00e1s Pinkus",
+          "url": "https://open.spotify.com/artist/04J7jSBLZFFw7Pp1u1nABr"
         }
       ],
-      "duration_ms": 379200,
-      "name": "Chilenitas (Orozco / Barrientos) [Remix]",
-      "url": "https://open.spotify.com/track/2EuAmjrBtJaqc46VhizcGs"
+      "duration_ms": 383686,
+      "name": "El Despertar Del Anfibio - Instrumental",
+      "url": "https://open.spotify.com/track/2aYzNRy6XYrmjcmOPkFnMH"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
+        "name": "Vol. 4",
+        "url": "https://open.spotify.com/album/4DaIUxKJQvQmeC3VRONSky"
+      },
+      "artists": [
+        {
+          "name": "Puna",
+          "url": "https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ"
+        },
+        {
+          "name": "Sandra Amaya",
+          "url": "https://open.spotify.com/artist/5blOCUy4Uz4j88SdkakN6v"
+        }
+      ],
+      "duration_ms": 377684,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/2n6or5vQGPtqbTu84CNfdn"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
         "name": "New Latam Beats From Argentina (Disco A)",
         "url": "https://open.spotify.com/album/0xl8eIaxb1yPsyMPNSaS86"
       },
@@ -1111,30 +1131,6 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Dada",
-        "url": "https://open.spotify.com/album/06hkMw0sZJ0g7HSB9xPFyT"
-      },
-      "artists": [
-        {
-          "name": "Gaby Kerpel",
-          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
-        },
-        {
-          "name": "King Coya",
-          "url": "https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy"
-        },
-        {
-          "name": "Nan Que",
-          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Dada",
-      "url": "https://open.spotify.com/track/2E5t5IZSEF6DhbuQathQNi"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
         "name": "La Monta\u00f1a Sin Nombre II",
         "url": "https://open.spotify.com/album/2Avt4J3pvgttxcTfJc4Kvs"
       },
@@ -1155,42 +1151,26 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Vol. 4",
-        "url": "https://open.spotify.com/album/4DaIUxKJQvQmeC3VRONSky"
+        "name": "Dada",
+        "url": "https://open.spotify.com/album/06hkMw0sZJ0g7HSB9xPFyT"
       },
       "artists": [
         {
-          "name": "Puna",
-          "url": "https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ"
+          "name": "Gaby Kerpel",
+          "url": "https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4"
         },
         {
-          "name": "Sandra Amaya",
-          "url": "https://open.spotify.com/artist/5blOCUy4Uz4j88SdkakN6v"
-        }
-      ],
-      "duration_ms": 377684,
-      "name": "Alma",
-      "url": "https://open.spotify.com/track/2n6or5vQGPtqbTu84CNfdn"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
-        "name": "Litoraleza",
-        "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
-      },
-      "artists": [
-        {
-          "name": "Lauphan",
-          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
+          "name": "King Coya",
+          "url": "https://open.spotify.com/artist/0HrREC22dh7WCLLtf5Tewy"
         },
         {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+          "name": "Nan Que",
+          "url": "https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc"
         }
       ],
-      "duration_ms": 192495,
-      "name": "Gurisito Cosmico",
-      "url": "https://open.spotify.com/track/7239VPVBGFouXF8GNTWH4L"
+      "duration_ms": 217333,
+      "name": "Dada",
+      "url": "https://open.spotify.com/track/2E5t5IZSEF6DhbuQathQNi"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1219,6 +1199,26 @@
       "duration_ms": 383979,
       "name": "Cuchi Leguizam\u00f3n yo te amo para siempre",
       "url": "https://open.spotify.com/track/7cr9lcMgO93UQ93BUeIsVh"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
+        "name": "Litoraleza",
+        "url": "https://open.spotify.com/album/28J5VHK9A7T5ooPnZFm7pc"
+      },
+      "artists": [
+        {
+          "name": "Lauphan",
+          "url": "https://open.spotify.com/artist/3WCISvz5htT0JUmdjsHj1I"
+        },
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Gurisito Cosmico",
+      "url": "https://open.spotify.com/track/7239VPVBGFouXF8GNTWH4L"
     },
     {
       "added_at": "2023-11-10 14:30:24",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-11-10 14:30:24",
       "album": {
-        "name": "Patagonia Nature",
-        "url": "https://open.spotify.com/album/7I2AmpCMrqvozljRbFf3Kt"
-      },
-      "artists": [
-        {
-          "name": "Oscar Irustia",
-          "url": "https://open.spotify.com/artist/07UfZCBlpyqwjh9587IYvt"
-        }
-      ],
-      "duration_ms": 182951,
-      "name": "Huayno and Pacha Mama",
-      "url": "https://open.spotify.com/track/5a004HjwSoZrKb8u84FQ29"
-    },
-    {
-      "added_at": "2023-11-10 14:30:24",
-      "album": {
         "name": "Antikuna Anqa",
         "url": "https://open.spotify.com/album/5OjIJkbPTPDdOy8n7Fb2UD"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 456000,
       "name": "Antikuna Anqa",
       "url": "https://open.spotify.com/track/2B9mD5rMhk1WQgs3AM3sgO"
+    },
+    {
+      "added_at": "2023-11-10 14:30:24",
+      "album": {
+        "name": "Patagonia Nature",
+        "url": "https://open.spotify.com/album/7I2AmpCMrqvozljRbFf3Kt"
+      },
+      "artists": [
+        {
+          "name": "Oscar Irustia",
+          "url": "https://open.spotify.com/artist/07UfZCBlpyqwjh9587IYvt"
+        }
+      ],
+      "duration_ms": 182951,
+      "name": "Huayno and Pacha Mama",
+      "url": "https://open.spotify.com/track/5a004HjwSoZrKb8u84FQ29"
     },
     {
       "added_at": "2023-11-10 14:30:24",

@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-417 songs - 17 hr 32 min
+422 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Above](https://open.spotify.com/track/43QbJt2flQ8GsrX3q6Hroq) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Above](https://open.spotify.com/album/533OhwxkT1QLQGn2OY2okt) | 2:16 | 2022-10-28 | 2023-03-10 |
 | [Above](https://open.spotify.com/track/56Ob1mejaKw4RCwlYj3dMw) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Above](https://open.spotify.com/album/6QOcrwQ96kTMC4aOHOHwr4) | 2:16 | 2022-06-17 | 2022-11-05 |
 | [Above the vast forest](https://open.spotify.com/track/4rtMTP9GeyxBF4pykocGoP) | [Matthew Everwood](https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7) | [Above the vast forest](https://open.spotify.com/album/71ZmOMo10LD4o1tWtBoIvI) | 2:13 | 2022-07-08 |  |
+| [Act of Kindness](https://open.spotify.com/track/3Xip9lwNo2DAPADWHdVgyi) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Act of Kindness](https://open.spotify.com/album/6nKme2M8g4OjVWz7v8Ze9W) | 3:05 | 2023-11-24 |  |
 | [Adelita](https://open.spotify.com/track/5AI6zlfccr8OZBUDT996F9) | [Juan Jose Moreno](https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P) | [Adelita](https://open.spotify.com/album/1uPC9jQL9J7q8SsjxuphpP) | 2:04 | 2023-03-10 | 2023-06-23 |
 | [Adjacent](https://open.spotify.com/track/2xfu6IZrsxJmbVRM4slfN9) | [Bill Valentino](https://open.spotify.com/artist/0I1EsNzqgWLBylHYY8kQnN) | [Adjacent](https://open.spotify.com/album/2SnEZhNI9s5vSLsmIvOrRJ) | 3:51 | 2022-10-07 |  |
 | [Aeonian](https://open.spotify.com/track/5t5afa9dRzW41gHbAvUfHQ) | [Ron Well](https://open.spotify.com/artist/3SEmNWyAadupLPO2WOcw0W) | [Aeonian](https://open.spotify.com/album/10TTVSf5z979cewemtMlep) | 2:46 | 2022-06-17 | 2023-03-10 |
@@ -227,7 +228,7 @@
 | [Maine](https://open.spotify.com/track/6HcSIn5EsFz20aillG9Itv) | [Oscar Roland](https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH) | [Maine](https://open.spotify.com/album/3vbEzZqSsm4K9cxkBpw0wa) | 2:44 | 2023-09-29 |  |
 | [Malbec](https://open.spotify.com/track/0Ka6x5F1QFuURlbFwExBv0) | [Sylvia Warren](https://open.spotify.com/artist/0Jvjt5h5TJPxU0hsoTljL7) | [Fond Memories](https://open.spotify.com/album/07HGiPw7kqodscyiFCgKIh) | 2:40 | 2022-06-17 | 2023-04-29 |
 | [Mantra](https://open.spotify.com/track/3IoGXIy7KOBTAS8nA99BAR) | [Karl Vandu](https://open.spotify.com/artist/2fpxu9mnYrt7bX78dBS2R9) | [Laurel Canyon](https://open.spotify.com/album/0XnF6u0NZSdyk16v5cEq7j) | 3:00 | 2022-06-17 |  |
-| [Marbles](https://open.spotify.com/track/4BeC6brIcRPXt6JYFGPLC8) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [Marbles](https://open.spotify.com/album/0fzNxocPUrTdm9k85dNVkH) | 2:23 | 2022-06-17 |  |
+| [Marbles](https://open.spotify.com/track/4BeC6brIcRPXt6JYFGPLC8) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [Marbles](https://open.spotify.com/album/0fzNxocPUrTdm9k85dNVkH) | 2:23 | 2022-06-17 | 2023-11-24 |
 | [Marvel At The Sky](https://open.spotify.com/track/1p0GiIv44pMkVdfHEZhVbM) | [Lullaby Texture](https://open.spotify.com/artist/1nniTSIKfKilcQ0gdDTsvW) | [Marvel At The Sky](https://open.spotify.com/album/3DK195qjIawfQacLtFPFSC) | 2:03 | 2022-06-17 | 2023-05-20 |
 | [Me And You](https://open.spotify.com/track/72mj6r1TJ5nVbhFp7l9Ss9) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Me And You](https://open.spotify.com/album/4IllAL0UmuPn1qGw2fqlBu) | 2:32 | 2023-06-09 |  |
 | [Mediterranean Rain](https://open.spotify.com/track/43jO5gEX6XVcVdQDF2wsbw) | [John A\. Nilson](https://open.spotify.com/artist/0jclSzw2eZAu8huZPEcOJ9) | [Mediterranean Rain](https://open.spotify.com/album/3Im6URgqUPJSxc7qQpsgXc) | 2:41 | 2022-06-17 |  |
@@ -248,6 +249,7 @@
 | [Moment Of Fire](https://open.spotify.com/track/2RGOruedyWCXpsUGlyDKtf) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Moment Of Fire](https://open.spotify.com/album/6K4zOmK82dnt3b4dos3Uuh) | 2:18 | 2022-12-09 |  |
 | [Moments](https://open.spotify.com/track/17Ic3HG8GiER4PpGvB2hIw) | [Dimash B](https://open.spotify.com/artist/1AoOXH2zm8flhCVLaeZPcs) | [Moments](https://open.spotify.com/album/2aWKPMuPxic24SB2RPRyp9) | 1:54 | 2022-06-17 | 2023-09-14 |
 | [Moments](https://open.spotify.com/track/5KscTL4V9Yz0hgH5aiJCLF) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Moments](https://open.spotify.com/album/1pN9aYINmhUNUH1KFVDjHJ) | 1:39 | 2023-05-19 | 2023-09-14 |
+| [Moments with you](https://open.spotify.com/track/3p9wB5uVvsf0BzqY8y0W3X) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Moments with you](https://open.spotify.com/album/6ozrFm4mb8spn0V08f3GHi) | 2:29 | 2023-11-24 |  |
 | [Monte de Fuego](https://open.spotify.com/track/7guIP6Tpq7QYQNapYYpC0K) | [Gerson Lizama](https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL) | [Monte de Fuego](https://open.spotify.com/album/4xPAVzwGR2Z3b6pMkvQVPI) | 3:15 | 2022-06-17 | 2023-06-03 |
 | [Montes Claros](https://open.spotify.com/track/2DwZFuh7xnuEDvNwz4mAMi) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Montes Claros](https://open.spotify.com/album/4xouEO0NJWhJswiV2Qofy8) | 2:45 | 2023-10-13 |  |
 | [Morgensonne](https://open.spotify.com/track/3ozSKHP42w2mYbkmqEnfOq) | [Aurelius Schmidt](https://open.spotify.com/artist/4DRJD1JI9CaeeHH9LrkzbY) | [Sandrina](https://open.spotify.com/album/6Is2bPoXegoPbnYTzVD7nB) | 2:26 | 2022-06-17 |  |
@@ -319,6 +321,7 @@
 | [Salzburger Traum](https://open.spotify.com/track/5tkLBbZH27EVS0OZoYxrtf) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Lange Sommernächte](https://open.spotify.com/album/35b7Gi5InlL6W1mhnBZj5q) | 3:44 | 2022-10-14 |  |
 | [San Sebastian](https://open.spotify.com/track/0QcnlPfVyTyuBEVZeumOUV) | [Henry Auguste](https://open.spotify.com/artist/7BYBlt9RAGjzI4QG0ZapUh) | [San Sebastian](https://open.spotify.com/album/0ov4xgE4lpfucMLPm4twXP) | 1:52 | 2022-06-17 | 2023-09-08 |
 | [San Tropez](https://open.spotify.com/track/2RjR06sl1N1GVii5Vts7TP) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [San Tropez](https://open.spotify.com/album/7hYM36cQRk7nHmb01n54ts) | 2:22 | 2023-02-24 | 2023-06-23 |
+| [Sanremo](https://open.spotify.com/track/242E5RUG5gjHgZa7PjOUNg) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Sanremo](https://open.spotify.com/album/6rgFGj3GbupAuYNeG38r7f) | 2:34 | 2023-11-24 |  |
 | [Santa Fiora](https://open.spotify.com/track/48j6ZrDM8WaO8plMxxc4CO) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Santa Fiora](https://open.spotify.com/album/6k4IDURpsjao81eMH4LcHF) | 2:01 | 2023-03-24 | 2023-06-03 |
 | [Saramjan](https://open.spotify.com/track/1fuyZkRvsGM42RQC8Hs306) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Saramjan](https://open.spotify.com/album/4HDS8pE5Mm1MMA3Gahxt6y) | 2:17 | 2022-06-17 | 2023-09-08 |
 | [Satélite](https://open.spotify.com/track/4bACm2m5ym6bX4QaPbUwYX) | [Marta Fiscovich](https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7) | [Satélite](https://open.spotify.com/album/5Y6HlNBOqKWJEdEohqgcN2) | 2:28 | 2022-10-07 | 2023-05-20 |
@@ -351,7 +354,7 @@
 | [Summer Love](https://open.spotify.com/track/7iGZjJTIxc3nU5KQ3LlCdI) | [Maia](https://open.spotify.com/artist/4RW9d3d203cf98WetcAbIj) | [Summer Love](https://open.spotify.com/album/6cY5l2Q1CiRpJm301q756l) | 2:07 | 2023-08-10 |  |
 | [Sunday Breeze](https://open.spotify.com/track/0F2WP7hiDgw6rbFCxE1eyl) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Sunday Breeze](https://open.spotify.com/album/2fsb3S8QguRHHvLOzHLSLH) | 1:37 | 2022-09-02 | 2023-05-20 |
 | [Sunrise With You](https://open.spotify.com/track/6x3yM2v8pDa91E03LPzcsx) | [Eden Edwards](https://open.spotify.com/artist/0bI0balwE4X0y0ZLKc5H2b) | [Sunrise With You](https://open.spotify.com/album/46nYBbaJZuUpksJMYyfXJP) | 2:00 | 2023-06-09 |  |
-| [Sunset In Alcudia](https://open.spotify.com/track/24LazZmLViVcjOHPCeJikj) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [Sunset In Alcudia](https://open.spotify.com/album/7CjwSRVXRjNBBEaCZHVaR5) | 2:00 | 2022-06-17 |  |
+| [Sunset In Alcudia](https://open.spotify.com/track/24LazZmLViVcjOHPCeJikj) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [Sunset In Alcudia](https://open.spotify.com/album/7CjwSRVXRjNBBEaCZHVaR5) | 2:00 | 2022-06-17 | 2023-11-24 |
 | [Sunshine In Her Hair](https://open.spotify.com/track/6Ji4I94StmYhrkNrubHCeF) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Sunshine In Her Hair](https://open.spotify.com/album/6w6lRqVy3bx8ObKV5mJ11K) | 1:56 | 2022-06-17 | 2023-09-14 |
 | [Sweet Freedom](https://open.spotify.com/track/5qYDw7w2kta0cIAHWLk9Qm) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX) | [Sweet Freedom](https://open.spotify.com/album/1H1dx5HRADoZAn88UcUQhc) | 2:45 | 2022-06-17 | 2022-12-24 |
 | [Sweet Sister](https://open.spotify.com/track/76icnulB17alL2H6B8w7Gq) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Sweet Sister](https://open.spotify.com/album/0hLGvDz6LTn2CBQzVpu36f) | 2:28 | 2022-09-09 |  |
@@ -376,6 +379,7 @@
 | [The Opera House](https://open.spotify.com/track/3dhrGAxAN0i37d64p4bCm1) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [The Opera House](https://open.spotify.com/album/3LqVjTRi1yMlpNsjYEBPMG) | 3:00 | 2023-06-22 |  |
 | [The Spring Bird](https://open.spotify.com/track/1PvZZloPxrC4q2nh3LCj4O) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [The Spring Bird](https://open.spotify.com/album/1zBJdIFX92nSLrv5ek5YqP) | 2:20 | 2022-06-17 | 2023-08-18 |
 | [The Summer House](https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Summer House](https://open.spotify.com/album/5PqyY80r1xYaT5Wkqk4BDH) | 2:02 | 2023-04-28 | 2023-06-23 |
+| [The Time Traveler](https://open.spotify.com/track/0d1TNdaJWOePFAiSIiZJZ3) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [The Time Traveler](https://open.spotify.com/album/60UxszwncrUHrHxI7GJ5vM) | 2:54 | 2023-11-24 |  |
 | [Think Of Me](https://open.spotify.com/track/68UbEFh8VhJqTUfDeIOvtx) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Think Of Me](https://open.spotify.com/album/1wqOvsGdOGypGsgiMnb0HO) | 2:41 | 2023-05-19 |  |
 | [Through Wildflowers](https://open.spotify.com/track/1iZz8nbflA5fifQldcXwb3) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Through Wildflowers](https://open.spotify.com/album/74Y1eBKeQVPlr0RxbeMORi) | 2:00 | 2023-06-09 |  |
 | [Tintern Abbey](https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Tintern Abbey](https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp) | 2:29 | 2023-04-28 | 2023-06-23 |
@@ -422,6 +426,7 @@
 | [Wonder's Pyre](https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Wonder's Pyre](https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V) | 2:49 | 2023-02-24 | 2023-05-20 |
 | [Words In The Air](https://open.spotify.com/track/3gD5AaZDbyTSWkH8MHBQHk) | [河合雄三](https://open.spotify.com/artist/5wv91S4FLYDtqDxRnrnEck) | [Words In The Air](https://open.spotify.com/album/1HEjlhLORqSKlIlTRWso1x) | 2:26 | 2022-06-17 | 2022-07-29 |
 | [Yellow Rain](https://open.spotify.com/track/6c7cIoyBvbLvxgofSU7fnv) | [Thomas Luna](https://open.spotify.com/artist/0YbpJ9AVZbi0ygvFCUmCAd) | [Yellow Rain](https://open.spotify.com/album/63wRciH00bfgm5UoFevFyp) | 2:38 | 2022-06-17 | 2023-02-25 |
+| [Yesteryear](https://open.spotify.com/track/26onATmE5ib4iKkPfvHtnw) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Yesteryear](https://open.spotify.com/album/5Uu6qKT8FsFyUD0tRDIfxZ) | 2:39 | 2023-11-24 |  |
 | [You're Not Alone](https://open.spotify.com/track/4ROmwACfJCiGMBioN6k0m5) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [You're Not Alone](https://open.spotify.com/album/0xDfnkhHwktefc4MmHrXuR) | 2:23 | 2023-05-19 | 2023-06-16 |
 | [Yuunagi](https://open.spotify.com/track/1W0TeWjEOb4ATZH7LlneI2) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Yuunagi](https://open.spotify.com/album/069HopXqHO0E3rbTGspTzh) | 2:00 | 2022-06-17 | 2023-10-27 |
 | [À l'aventure](https://open.spotify.com/track/2iZsCe5DCx13zlHWS19iWm) | [Thibault Cauvin](https://open.spotify.com/artist/6d81rjlV6r9u8qPMAjavRV), [Jordan Cauvin](https://open.spotify.com/artist/6tk4EosXAJ2AVXeELBR3Bf) | [À l'aventure](https://open.spotify.com/album/1TUm0gABYxaE1Mf9WtViRc) | 3:14 | 2022-07-22 | 2022-07-29 |

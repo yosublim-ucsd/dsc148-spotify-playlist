@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,238 songs - 2 day 20 hr 11 min
+1,239 songs - 2 day 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Badi 7efyan](https://open.spotify.com/track/1PBmigvgEtx36XPYGlCh4Z) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Badi 7efyan](https://open.spotify.com/album/0MebtWhPlCLOp39Vid4OJi) | 2:39 | 2022-10-05 | 2022-11-06 |
 | [Baka Baka](https://open.spotify.com/track/06iTnb5otqzyG3Y1wUnIjW) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [360](https://open.spotify.com/album/398Fh5aL7eVdWRNosUR6pm) | 2:47 | 2021-05-23 | 2021-05-26 |
 | [Balader](https://open.spotify.com/track/6PrB4KpvuoYWtwjPC5a44S) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:56 | 2022-07-09 | 2023-01-07 |
-| [Ballad to a Mexican Desert](https://open.spotify.com/track/7LRb64oDLYYDPEoeuLAIVJ) | [Yehezkel Raz](https://open.spotify.com/artist/31klRMTQJ94NrxwIZJwJBY), [Sivan Talmor](https://open.spotify.com/artist/4OuNFhB4UqOVluGG75fiWd) | [Vol\. 4 \- Flying Above the Sun](https://open.spotify.com/album/2ECjH9xkBk4KD3fawcpFEe) | 3:09 | 2023-11-17 |  |
+| [Ballad to a Mexican Desert](https://open.spotify.com/track/7LRb64oDLYYDPEoeuLAIVJ) | [Yehezkel Raz](https://open.spotify.com/artist/31klRMTQJ94NrxwIZJwJBY), [Sivan Talmor](https://open.spotify.com/artist/4OuNFhB4UqOVluGG75fiWd) | [Vol\. 4 \- Flying Above the Sun](https://open.spotify.com/album/2ECjH9xkBk4KD3fawcpFEe) | 3:09 | 2023-11-17 | 2023-11-24 |
 | [Basta Baila](https://open.spotify.com/track/758mC7LTvS4Eqgr06egv9U) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 3:16 | 2021-05-09 | 2021-05-14 |
 | [Batal L3alam](https://open.spotify.com/track/4yEDdEd4N8eIuntHLlg0MF) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Weld Fatima II](https://open.spotify.com/album/6La450FX0EOdrjQzlWuNrF) | 5:49 | 2021-06-23 | 2021-07-30 |
 | [Batard](https://open.spotify.com/track/7wKVfUXSYpxah188rU3Bud) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 2:51 | 2021-10-03 | 2021-10-18 |
@@ -1094,6 +1094,7 @@
 | [Thuga](https://open.spotify.com/track/0AMBhbjYGcMlxCNKzLhz5H) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Weld Fatima II](https://open.spotify.com/album/6La450FX0EOdrjQzlWuNrF) | 2:48 | 2021-06-23 | 2021-06-26 |
 | [Thérapie](https://open.spotify.com/track/1lgnopxGacKgo6iXL8AxGN) | [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo), [SelfMy](https://open.spotify.com/artist/00tPKrb5YhBEcMJGyr9RG5), [Zeronin](https://open.spotify.com/artist/51aJdiDueizdOGSmxOgI3T) | [Rap Khatr](https://open.spotify.com/album/5etSaVfiVKi4SGj55uwALP) | 3:46 | 2021-04-13 | 2021-04-14 |
 | [Tic Tac](https://open.spotify.com/track/3ug3s13DQ6ZNkta9J0SbmY) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Tic Tac](https://open.spotify.com/album/5cSD30sOzxNLGvgrzGs3nN) | 2:04 | 2022-05-07 | 2022-05-08 |
+| [Tigini](https://open.spotify.com/track/6kl4BepuY8tUgCt0FInh2f) | [Kikimoteleba](https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo) | [Tigini](https://open.spotify.com/album/6QNH2dfYJv0pQcwCM14nfG) | 2:52 | 2023-11-23 |  |
 | [Tigini North African Remix](https://open.spotify.com/track/26adxYjTm41LAcuCBS6LxU) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Kikimoteleba](https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo) | [Tigini North African Remix](https://open.spotify.com/album/1686yQJeTTDEuqlPPJZJqh) | 2:54 | 2022-07-09 | 2022-08-21 |
 | [TIKI TAKA \(feat\. BERMUDA\)](https://open.spotify.com/track/6xWACXV3tqLKDZfcsjW1lw) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5), [Bermuda](https://open.spotify.com/artist/662d8kIAJDP4j6zkLF6YLl) | [METAMORPHOSE](https://open.spotify.com/album/7vef7odtEo16WahTWsZSeY) | 2:20 | 2023-02-22 | 2023-03-08 |
 | [Tikitaka](https://open.spotify.com/track/6GRwvxuFVdpbngDYcqprZs) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Colors](https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9) | 2:38 | 2021-10-03 | 2023-02-04 |

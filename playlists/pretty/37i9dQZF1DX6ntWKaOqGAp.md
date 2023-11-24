@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: Chilli Beans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,008 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,088 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [Destruction Sisters](https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s) | 2:30 |
 | 100 | [へっぽこ聖剣士](https://open.spotify.com/track/49iGgcordCDcak4qyUs1q7) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [聖なる交差点](https://open.spotify.com/album/0XLNqMOIIu5XUPMmrmTE2w) | 4:10 |
 
-Snapshot ID: `MCw3MDM3N2ZhM2Y3MTJkZTllNGIwZGM0M2VkMmFlNzBiZjM1NTcyZTA0`
+Snapshot ID: `MCwxMjUxMGE4NTVjNjRhYjA5MDY0YmNiZjM4NzZhZDNkNzYwNjEzYzVi`

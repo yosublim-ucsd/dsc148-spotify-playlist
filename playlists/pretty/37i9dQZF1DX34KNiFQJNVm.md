@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Pocah, Gusttavo Lima, Leo Santana, DJ Matt D e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,920,349 likes - 101 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,920,675 likes - 101 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 100 | [Tirolirole](https://open.spotify.com/track/2xJrDU7mL8LwzCKISGXYPN) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0) | [Tirolirole](https://open.spotify.com/album/127vWtIY7ifAeFWhIhpgPW) | 2:59 |
 | 101 | [Absorvendo Tudo](https://open.spotify.com/track/5Ppn6TF1mFx5hEiRpjxEfY) | [Cruvinel](https://open.spotify.com/artist/2TUCCtskhrTEMAAGyQaBaW) | [ABSORVENDO TUDO](https://open.spotify.com/album/4LE3dTrNjyxSWqk7pHjFZv) | 2:35 |
 
-Snapshot ID: `MCwzYTAzNDRmODk4MjU2MmRiZmQ2NWRlMTZlMzQxYzQ0MDYyZDA4Y2Y2`
+Snapshot ID: `MCw1NWUzNDFjODdjODEzNjk1YmY5MGMwNDdkM2EyM2NlOTVmNjIzMTE2`

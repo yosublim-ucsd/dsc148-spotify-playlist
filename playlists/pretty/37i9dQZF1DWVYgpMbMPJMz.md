@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover: <a href="spotify:artist:48AVv3cw03WdSB5b4qmNCr">Red Rocks Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 986,176 likes - 101 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 986,256 likes - 101 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 100 | [To Be Loved](https://open.spotify.com/track/4hCyhlDZteeEkLzllLq9ur) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [This Is My Local](https://open.spotify.com/album/6mwSaLjGyeZ8FQUXOpW590) | 4:39 |
 | 101 | [Light a Fire](https://open.spotify.com/track/1SLA0ToZqK1uZfBF6HZ2yG) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Light a Fire](https://open.spotify.com/album/7hs4utpVxiSYgJoyM6Pne8) | 4:54 |
 
-Snapshot ID: `MCw1NjEwYjBjNDQwY2VkZjYyMDc0ZGQ3ZmU4ODVhNjEwNzFkZDgyOTlh`
+Snapshot ID: `MCxmOTQzODQ5YzAxMGU1ZGNhZDMwMWJmZmE3MmJmZTA5OTZjOGE0MDll`

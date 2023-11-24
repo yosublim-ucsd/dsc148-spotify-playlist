@@ -1,15 +1,31 @@
 {
   "description": "\u30b3\u30f3\u30dd\u30fc\u30b6\u30fc\u306eAyase\u3001\u30dc\u30fc\u30ab\u30eb\u306eikura\u304b\u3089\u306a\u308b\u300c\u5c0f\u8aac\u3092\u97f3\u697d\u306b\u3059\u308b\u30e6\u30cb\u30c3\u30c8\u300d\u3001YOASOBI\u306e\u697d\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 265735,
+  "num_followers": 265947,
   "original_name": "This Is YOASOBI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTA5ZWExODRmMWZmNWFhYzhjNjVhYmI5MWQ0NTdjNzkzYTZiMGY4",
+  "snapshot_id": "MCxkZjYwZWM4MTFmYWM1ZDRjNGI1ZmZlYmQ3NWY4MjhhODU1Y2Q2YmEz",
   "tracks": [
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
+      "album": {
+        "name": "The Brave",
+        "url": "https://open.spotify.com/album/1LIrHjmcINgiNpzx1NvbhB"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 194423,
+      "name": "The Brave",
+      "url": "https://open.spotify.com/track/2C0zR1j4Xd5JVSrMABMFSG"
+    },
+    {
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "Biri-Biri",
         "url": "https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/3X9N36jB8FtTkzTCkIFi4u"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "THE BOOK 3",
         "url": "https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/0YTM7bCx451c6LQbkddy4Q"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "THE BOOK 3",
         "url": "https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/3wT58LylGS5wfXLBWRsMaZ"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "THE BOOK 3",
         "url": "https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/1VoTe7qVyqyMNLgZpQeugO"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "THE BOOK 3",
         "url": "https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/7Fe2z1doVotACIjPuO0wQI"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "THE BOOK 3",
         "url": "https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl"
@@ -105,7 +121,7 @@
       "url": "https://open.spotify.com/track/08c3tqCZN3PQcLA5VNkXt9"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "THE BOOK 3",
         "url": "https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/3UyBvmAK2MjkCpuJtYzQ40"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "THE BOOK 3",
         "url": "https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl"
@@ -137,7 +153,7 @@
       "url": "https://open.spotify.com/track/1hAloWiinXLPQUJxrJReb1"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "THE BOOK 3",
         "url": "https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl"
@@ -153,7 +169,7 @@
       "url": "https://open.spotify.com/track/62q2gPY4OnQCGnw7T4JWg1"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "THE BOOK 3",
         "url": "https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/5stUI9U3VGp2j4sbqJEiVI"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "THE BOOK 3",
         "url": "https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/5m2m2FUgFbIGQkl9sEoBi4"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "\u305f\u3076\u3093",
         "url": "https://open.spotify.com/album/2882DYZkYy3UOYyWOvbnnl"
@@ -201,7 +217,7 @@
       "url": "https://open.spotify.com/track/62Lv9WcrfzJqhvYDbilJy3"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "\u591c\u306b\u99c6\u3051\u308b",
         "url": "https://open.spotify.com/album/3GzwPyPZCyrqUTaurTaS23"
@@ -217,7 +233,7 @@
       "url": "https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "\u7fa4\u9752",
         "url": "https://open.spotify.com/album/4nLIK2uFzYUJqLAfJZYgLx"
@@ -233,7 +249,7 @@
       "url": "https://open.spotify.com/track/0T4AitQuq8IJhWBWuZwkFA"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "\u3042\u306e\u5922\u3092\u306a\u305e\u3063\u3066",
         "url": "https://open.spotify.com/album/6VtHuuDn351LBXwpxmvZqt"
@@ -249,7 +265,7 @@
       "url": "https://open.spotify.com/track/4BE1OloRc9xwjyqA4wFFuN"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "\u30cf\u30eb\u30b8\u30aa\u30f3",
         "url": "https://open.spotify.com/album/4sKqN5y5RydUVgSSccH13q"
@@ -265,7 +281,7 @@
       "url": "https://open.spotify.com/track/7HneEBTvTra2CRYsxgMOAi"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "\u602a\u7269",
         "url": "https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "\u30cf\u30eb\u30ab",
         "url": "https://open.spotify.com/album/6uq5X6zI466fOyPkzwVYTH"
@@ -297,7 +313,7 @@
       "url": "https://open.spotify.com/track/6wKmxUeMJAoz2GpMrw95z5"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "Idol",
         "url": "https://open.spotify.com/album/2t5eAUqMwN0Kb2JGTxW2w0"
@@ -313,7 +329,7 @@
       "url": "https://open.spotify.com/track/1zVsw1SqQKgtzE4aqmE8nE"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "\u3082\u3046\u5c11\u3057\u3060\u3051",
         "url": "https://open.spotify.com/album/32fJ6KxH53e7buqrMsNH5I"
@@ -329,7 +345,7 @@
       "url": "https://open.spotify.com/track/2pXmohBUnD5Li93sgpbPSg"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "\u512a\u3057\u3044\u5f57\u661f",
         "url": "https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "\u4e09\u539f\u8272",
         "url": "https://open.spotify.com/album/3MeMuzwFRLje0g7fdni41h"
@@ -361,7 +377,7 @@
       "url": "https://open.spotify.com/track/3FUCuf498nFHJXFYR1V9Bd"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "\u30e9\u30d6\u30ec\u30bf\u30fc",
         "url": "https://open.spotify.com/album/6RfHLN2DLnZLAvR5Ogb4jA"
@@ -377,7 +393,7 @@
       "url": "https://open.spotify.com/track/185Wm4Mx09dQG0fUktklDm"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "\u591c\u306b\u99c6\u3051\u308b - From THE FIRST TAKE",
         "url": "https://open.spotify.com/album/1PfkKnSqxKNZhJoFJNlHQX"
@@ -393,7 +409,7 @@
       "url": "https://open.spotify.com/track/2qJnXUokBc5b38TAEOGnUx"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "THE BOOK",
         "url": "https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/465JzFiajJO59sUrDFsxdC"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "\u30c4\u30d0\u30e1 (feat. \u30df\u30c9\u30ea\u30fc\u30ba)",
         "url": "https://open.spotify.com/album/3hLagbbi0Ud7VLJC9AxiTr"
@@ -429,7 +445,7 @@
       "url": "https://open.spotify.com/track/0yzX8MYYJHw7A3PLvgEc7e"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "THE BOOK 2",
         "url": "https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/5WYTSyhKonzQZ3hu14LNr6"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "Into the Night",
         "url": "https://open.spotify.com/album/6MZSQuewUgYmyFGvN5S0rz"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/0JyJVPi4IBCgj2wTRKb0yN"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "THE BOOK 2",
         "url": "https://open.spotify.com/album/5uStDUB4nlmItpz2AYlFtd"
@@ -477,7 +493,7 @@
       "url": "https://open.spotify.com/track/0dSPApaBoWn6SA4GKWq9QK"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/3GUW4WpvJPXgzsOW1hVifv"
@@ -493,7 +509,7 @@
       "url": "https://open.spotify.com/track/7M9lc2hHXKQobbHQ31Yg2v"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/142pAHbasPxFPBKbS5wsb3"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/3eGKvQ0eYpyl28lMo8ZT93"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "E-SIDE 2",
         "url": "https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO"
@@ -525,7 +541,7 @@
       "url": "https://open.spotify.com/track/4KFvsGchCp4c7zphBlPxz3"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "E-SIDE",
         "url": "https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R"
@@ -541,7 +557,7 @@
       "url": "https://open.spotify.com/track/33ALvsldNGJduk3Bqr7VjS"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "E-SIDE 2",
         "url": "https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO"
@@ -557,7 +573,7 @@
       "url": "https://open.spotify.com/track/0jFon5RVg19KlwNVnXVX0s"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "E-SIDE 2",
         "url": "https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO"
@@ -573,7 +589,7 @@
       "url": "https://open.spotify.com/track/5ASNsnnOvreLu9FtvA3jpR"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "E-SIDE",
         "url": "https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R"
@@ -589,7 +605,7 @@
       "url": "https://open.spotify.com/track/4L9Iuupn2JTSCHSn8uVdD6"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "RGB",
         "url": "https://open.spotify.com/album/1lFZcTOrL1ZukflkJg9zX2"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/55O5PJor96At64xOQSWnkc"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "E-SIDE",
         "url": "https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R"
@@ -621,7 +637,7 @@
       "url": "https://open.spotify.com/track/0O0RP8iesLTKxhlEY4MKX6"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "E-SIDE 2",
         "url": "https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/325iR7dCw6hNekr48puGdG"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "E-SIDE 2",
         "url": "https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/6YgWUfKPwZJigKBbSDwu7e"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "E-SIDE",
         "url": "https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R"
@@ -669,7 +685,7 @@
       "url": "https://open.spotify.com/track/7LrT6Lpn0hOQ58pbBP6D2M"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "E-SIDE 2",
         "url": "https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO"
@@ -689,7 +705,7 @@
       "url": "https://open.spotify.com/track/6oexafIxFkZaEEcfJCsx4y"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "E-SIDE 2",
         "url": "https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO"
@@ -705,7 +721,7 @@
       "url": "https://open.spotify.com/track/3UCbRuJbsnEZeGLXefqeow"
     },
     {
-      "added_at": "2023-11-17 15:00:00",
+      "added_at": "2023-11-23 15:00:00",
       "album": {
         "name": "E-SIDE 2",
         "url": "https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO"

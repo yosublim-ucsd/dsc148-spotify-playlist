@@ -4,7 +4,7 @@
 
 > Nacimos para rodar en el asfalto.
 
-137 songs - 9 hr 16 min
+138 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Barracuda](https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Little Queen](https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF) | 4:21 | 2021-07-02 |  |
 | [Black Magic Woman](https://open.spotify.com/track/4nmne9J3YCEdhvjTzwiAgu) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Ultimate Santana](https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx) | 3:15 | 2021-07-02 |  |
 | [Black Night](https://open.spotify.com/track/46VaDtbrBj929FWnUdTQV0) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deepest Purple: The Very Best of Deep Purple](https://open.spotify.com/album/2jm9Vixt3Nn2oE4VtOVUD8) | 3:27 | 2021-07-02 | 2022-07-29 |
-| [Black Night](https://open.spotify.com/track/7yn7rpRvg6XCq10B94etIp) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Very Best of Deep Purple](https://open.spotify.com/album/0I84E9cRfRO8rrT1mTtufq) | 3:27 | 2021-07-02 |  |
+| [Black Night](https://open.spotify.com/track/7yn7rpRvg6XCq10B94etIp) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Very Best of Deep Purple](https://open.spotify.com/album/0I84E9cRfRO8rrT1mTtufq) | 3:27 | 2021-07-02 | 2023-11-24 |
 | [Blame It on the Boom Boom](https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Between the Devil & the Deep Blue Sea \(Special Edition\)](https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H) | 3:09 | 2021-07-02 |  |
 | [Born To Be Wild](https://open.spotify.com/track/1nzcKrYRTWZJEwWzyAU8XM) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [20th Century Masters : The Millennium Collection: Best of Steppenwolf](https://open.spotify.com/album/3SCidZwNmGU6HQUDdnh3bI) | 3:30 | 2021-07-02 | 2022-07-29 |
 | [Born To Be Wild \- Single Version](https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 3:32 | 2021-07-02 |  |
@@ -128,6 +128,7 @@
 | [The Boys Are Back In Town](https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Jailbreak \(Deluxe Edition\)](https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2) | 4:26 | 2021-07-02 |  |
 | [The Passenger](https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 4:43 | 2021-07-02 |  |
 | [The Passenger](https://open.spotify.com/track/3yP0cohcr97BUNJcgvmSVg) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/7ynKEunH8LSit4TR3foMVC) | 4:44 | 2021-07-02 | 2022-07-29 |
+| [Too Fast for Love](https://open.spotify.com/track/4XdLlfscf06Tk1Ny6JQi84) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Too Fast For Love](https://open.spotify.com/album/0UcyqmHNn536yy8boNihhb) | 3:21 | 2023-04-21 |  |
 | [Too Fast For Love](https://open.spotify.com/track/7mJ9n1EaruTwLbgcQC5AGp) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Too Fast For Love \(Deluxe Version\)](https://open.spotify.com/album/6eADUk8en6omoudkkYsnoa) | 3:21 | 2021-07-02 | 2023-11-18 |
 | [Too Fast For Love](https://open.spotify.com/track/4PDNOmMej8sc1mkiZfvW9w) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Too Fast For Love](https://open.spotify.com/album/6fhebW3x8DvrwbdL2aXCbo) | 3:22 | 2021-07-02 | 2022-07-29 |
 | [Vibe Killer](https://open.spotify.com/track/3yim5Y7owft98oR89mcxKH) | [Endless Boogie](https://open.spotify.com/artist/4TxcjvZlQLya9wdPYrjxkc) | [Vibe Killer](https://open.spotify.com/album/5GPltiY4pz517np9dPTsnt) | 8:24 | 2021-07-02 | 2022-07-29 |

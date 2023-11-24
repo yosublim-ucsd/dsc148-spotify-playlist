@@ -1727,6 +1727,28 @@
     },
     {
       "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/3Gs2YQWFPGkgxYMiwU3UhM"
+      },
+      "artists": [
+        {
+          "name": "Felukah",
+          "url": "https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F"
+        },
+        {
+          "name": "MMKN",
+          "url": "https://open.spotify.com/artist/7va2OJ5yHhDGZfBFVyBD7v"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96500,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/2mJi2pmOR0M184tKgIcAOx"
+    },
+    {
+      "album": {
         "name": "Freestyle #1",
         "url": "https://open.spotify.com/album/3Sri5bHFhK6jQWQI5pyCzq"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > New music from your favourite hip\-hop artists! We keep our finger on the pulse so you don’t have to\. Featuring Drake, Kodak Black, 2 Chainz, Lil Wayne and more! Sign up <a href="https://forms.umusic\-online.com/forms/\-MymKGNlc3qqAKkFa\_Hi">here</a> for exclusives, merch &amp; more
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 23,716 likes - 103 songs - 5 hr 12 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 23,714 likes - 103 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

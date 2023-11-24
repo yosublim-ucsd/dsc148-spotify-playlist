@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Feid & Rema",
-  "num_followers": 114957,
+  "num_followers": 114971,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzk0NDI0NzA1ODZhMDVkMjVmMTYxZjFkMWViMDM1ODFiMTJiYThk",
+  "snapshot_id": "MCxjYmUyOTlhMmUwMmY3YjMyZTFiZTA1ZmE0NTliZDllYWY4ZjdiNWIz",
   "tracks": [
     {
       "added_at": "2023-11-08 15:41:14",
@@ -671,6 +671,26 @@
     {
       "added_at": "2023-11-08 15:41:14",
       "album": {
+        "name": "The Prince I Became",
+        "url": "https://open.spotify.com/album/0wCcVlx3DNajtnqVSnFthH"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 196870,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/2sLaOFvIqadkSw8iYlv7SU"
+    },
+    {
+      "added_at": "2023-11-08 15:41:14",
+      "album": {
         "name": "Flavors",
         "url": "https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 176320,
       "name": "Jeje de Whine",
       "url": "https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy"
-    },
-    {
-      "added_at": "2023-11-08 15:41:14",
-      "album": {
-        "name": "The Prince I Became",
-        "url": "https://open.spotify.com/album/0wCcVlx3DNajtnqVSnFthH"
-      },
-      "artists": [
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 196870,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/2sLaOFvIqadkSw8iYlv7SU"
     },
     {
       "added_at": "2023-11-08 15:41:14",

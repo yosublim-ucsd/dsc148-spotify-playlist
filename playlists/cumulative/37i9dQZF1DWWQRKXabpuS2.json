@@ -615,6 +615,24 @@
     },
     {
       "album": {
+        "name": "Al Khozama",
+        "url": "https://open.spotify.com/album/3cBQpRFH2BXpobcFPHoRTz"
+      },
+      "artists": [
+        {
+          "name": "Natasha",
+          "url": "https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279083,
+      "name": "Amer Alabik",
+      "url": "https://open.spotify.com/track/6tV5ez4P7UDIt0BqL223Nq"
+    },
+    {
+      "album": {
         "name": "Amina Haf",
         "url": "https://open.spotify.com/album/4VvptRRpUeGbah9qSN06I0"
       },
@@ -1268,6 +1286,24 @@
       "duration_ms": 253669,
       "name": "El Hob Modha",
       "url": "https://open.spotify.com/track/6onG89rY6ZqA66oDyx7K3X"
+    },
+    {
+      "album": {
+        "name": "El Omor Mara",
+        "url": "https://open.spotify.com/album/5kEZBf2hOVe2UKZ5HgVrwK"
+      },
+      "artists": [
+        {
+          "name": "Talal Salamah",
+          "url": "https://open.spotify.com/artist/2yisgYUsuIfLHOcuCnbNu0"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296525,
+      "name": "El Omor Mara",
+      "url": "https://open.spotify.com/track/38uIJpJ96aL5yMijoGwEtC"
     },
     {
       "album": {
@@ -4576,7 +4612,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 212105,
       "name": "\u0639\u0634\u0642 \u0633\u064a\u062f\u0647",
       "url": "https://open.spotify.com/track/2mPhU96WHlnj19ADPxAq63"

@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-248 songs - 15 hr 52 min
+249 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [All I Really Want Is Love](https://open.spotify.com/track/4EtULbS8K8zZ3apaEX36oI) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6), [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Chambre avec vue](https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB) | 4:08 | 2022-05-13 |  |
 | [All of Me \(Disse alguem\)](https://open.spotify.com/track/0YPurGQSRUDTtIFUX3Nskc) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Brazil](https://open.spotify.com/album/0SVtsd6mAN8xjDFR8NDZRr) | 5:21 | 2022-06-10 |  |
 | [And I Love Him](https://open.spotify.com/track/02y0x44un8HW3zsxrS1oQL) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Travelin' Light](https://open.spotify.com/album/3C1Lr4lVx6EGTiWljHCfSD) | 2:29 | 2022-05-13 |  |
+| [Anita's Dream](https://open.spotify.com/track/6iTbkT0gcl0WglctFiCT2L) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [Anita's Dream](https://open.spotify.com/album/66o8NXX8M2Lc86t4SRA70b) | 3:07 | 2023-11-17 |  |
 | [Aos Pés da Cruz](https://open.spotify.com/track/1G3tT3xLodVLyZV7MQDXin) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilbertos Samba](https://open.spotify.com/album/4CzqCaWsFEzNWWugq0EfUV) | 3:15 | 2022-06-28 |  |
 | [Aos Pés da Cruz](https://open.spotify.com/track/5JpzCoU3507wF3znYcQbFA) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Gilbertos Samba](https://open.spotify.com/album/5aTQQVvZkNcSi0K5R4glLO) | 3:15 | 2022-05-13 | 2022-07-29 |
 | [Aquela Bossa Axé](https://open.spotify.com/track/5G4VEEZXyBTEBw9RCj0L8S) | [Affonsinho](https://open.spotify.com/artist/5WhavPZYFVB6roWZubZMLZ) | [Belê](https://open.spotify.com/album/46rjYly7NZYyQRxgOJULGx) | 4:29 | 2022-05-13 |  |
@@ -40,7 +41,7 @@
 | [Call Me](https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr) | 4:10 | 2022-06-28 |  |
 | [Call Me](https://open.spotify.com/track/1AUwrey3n69snJNwvhzLB7) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY) | 4:10 | 2022-05-13 | 2022-07-29 |
 | [Caminhos Cruzados](https://open.spotify.com/track/1u4Xal8izsdfmuNpmUTNo1) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ), [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Surrender](https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq) | 4:58 | 2022-05-13 | 2022-07-29 |
-| [Caminhos Cruzados](https://open.spotify.com/track/3hHolrvl7uISYbrLMcmL61) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ), [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Surrender](https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo) | 4:58 | 2022-06-28 |  |
+| [Caminhos Cruzados](https://open.spotify.com/track/3hHolrvl7uISYbrLMcmL61) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ), [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Surrender](https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo) | 4:58 | 2022-06-28 | 2023-11-24 |
 | [Can't Help Falling in Love](https://open.spotify.com/track/1syEcdkRqqRFnhrHeA1zFb) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [Can't Help Falling in Love](https://open.spotify.com/album/7BPyCsw6Aj8iieaIYi9tNx) | 4:15 | 2023-01-13 |  |
 | [Cavaquinho](https://open.spotify.com/track/74NnN3kzceUrtu1XgSNwxa) | [Maria Toledo](https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [Braziliana](https://open.spotify.com/album/5DQ6UgivtsZ5T68umwvdST) | 2:13 | 2022-05-13 |  |
 | [Ceora](https://open.spotify.com/track/56IjzoxiY9gC58xawVkMiI) | [Andreas Gidlund Five](https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6) | [Standard Deviations](https://open.spotify.com/album/6LEFehuSSQhReDOW9udTcf) | 4:08 | 2022-11-11 |  |

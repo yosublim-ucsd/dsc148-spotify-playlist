@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-290 songs - 13 hr 8 min
+294 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Arizona Sunsets](https://open.spotify.com/track/3vBZ5BwSoqcDdab0ks2AEx) | [Chris Nordlinger](https://open.spotify.com/artist/7jxfHriBt8rNxGMvvUfJKy) | [Arizona Sunsets](https://open.spotify.com/album/463pBKIsmNYwXgXuWBvSPq) | 2:07 | 2022-07-08 | 2023-04-28 |
 | [Arthur's Seat](https://open.spotify.com/track/5UfjlAF2bBDdlu5AMjAFUu) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Arthur's Seat](https://open.spotify.com/album/0tivgjmanrFMrXzNyvUDXm) | 2:02 | 2023-08-11 |  |
 | [As It Was](https://open.spotify.com/track/0AdUlf7gmrwhuVp8oznsRc) | [Anna Kitkowska](https://open.spotify.com/artist/45Miu8OyhYvkkQBXhn0MfQ) | [As It Was](https://open.spotify.com/album/7yZM712MQzUbnXAKeoAW4H) | 3:30 | 2022-06-10 | 2023-03-31 |
-| [As It Was](https://open.spotify.com/track/1ZAiKDMu90wXjRrVKHMZE7) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Take Me Home Country Roads](https://open.spotify.com/album/6OEnQ0KB5WxipXw6ZtRywI) | 4:25 | 2023-01-06 |  |
+| [As It Was](https://open.spotify.com/track/1ZAiKDMu90wXjRrVKHMZE7) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Take Me Home Country Roads](https://open.spotify.com/album/6OEnQ0KB5WxipXw6ZtRywI) | 4:25 | 2023-01-06 | 2023-11-24 |
 | [As Lovely as You](https://open.spotify.com/track/1DM9o5mLVWg0gigkcHBLHE) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [As Lovely As You](https://open.spotify.com/album/332IMrwRY4IP3srSACnjH4) | 3:07 | 2022-05-13 |  |
 | [Asian Delight](https://open.spotify.com/track/0EQOLN8bCteRj62De3MLSn) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [Asian Delight](https://open.spotify.com/album/3EhfE5X0ILlNI30Yt3trQ2) | 3:28 | 2022-05-13 |  |
 | [At first dawn](https://open.spotify.com/track/7xWZgRtEfN2WYzomtNynes) | [Robert Blanke](https://open.spotify.com/artist/0nXlrKMk6YSm3vN04HaghF) | [At first dawn](https://open.spotify.com/album/2Cv6U6taQMno5m7KMZakLz) | 2:41 | 2022-05-13 | 2022-06-10 |
@@ -47,6 +47,7 @@
 | [Bonfire Blues](https://open.spotify.com/track/75pGTQsLr1M2nQWrNQxBSn) | [James Saunder](https://open.spotify.com/artist/7lJYI82LVMMO0MrbXo1SPB) | [Bonfire Blues](https://open.spotify.com/album/0aYVVLBqWT6v5s7hHk4r5n) | 1:27 | 2022-10-07 | 2023-09-16 |
 | [Broader Perspective](https://open.spotify.com/track/4FFQNhG63aCcAVGSOkTEeR) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Broader Perspective](https://open.spotify.com/album/634j9Sa1Mc5dCBqtYsdjdQ) | 2:24 | 2023-04-28 |  |
 | [Broken Sky](https://open.spotify.com/track/1PeMTLRYStFk5meDRs79Nq) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB), [Andrew York](https://open.spotify.com/artist/5MV6MvG9LFSSmrPqOkpBZQ) | [Broken Sky](https://open.spotify.com/album/30j3xi44993MenSEyDXnGt) | 2:37 | 2022-05-13 | 2022-06-10 |
+| [Brooke's Path](https://open.spotify.com/track/6IrsZTFv2PMsRbYLhtpBur) | [Nathaniel Hugh](https://open.spotify.com/artist/0N9JbcwE2w3f9Qn6M6F3UP) | [Brooke's Path](https://open.spotify.com/album/05aFINCNicADeoVTXnMpRh) | 3:04 | 2023-11-24 |  |
 | [Bryggen](https://open.spotify.com/track/6yCBCG8UJGfcyk70Fdau8j) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [Bryggen](https://open.spotify.com/album/2dKG2i568Thxq3kFgwHiEF) | 2:54 | 2022-05-13 |  |
 | [Butter and Eggs](https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts) | [Julian Lage & Chris Eldridge](https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf) | [Avalon](https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr) | 3:24 | 2022-05-13 | 2022-05-27 |
 | [By Your Side](https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [By Your Side](https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx) | 3:11 | 2022-05-13 | 2023-09-16 |
@@ -153,6 +154,7 @@
 | [Lighthouse](https://open.spotify.com/track/527HRQnZDhhXM4fWV3iTga) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Lighthouse](https://open.spotify.com/album/3AvjxvjZIFayjwENZ5ZFni) | 2:42 | 2022-05-13 |  |
 | [Like no other](https://open.spotify.com/track/4OPE3wPxaqWeUtz0BmBwpW) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Like no other](https://open.spotify.com/album/75k6x2e7p4fOqFTYtkJtQb) | 2:32 | 2023-02-24 |  |
 | [Lilac Morning](https://open.spotify.com/track/3DrBORXqiYfJiL2uwilZGG) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Lilac Morning](https://open.spotify.com/album/2xnOqaHP1YzVvckOvOZeKZ) | 2:41 | 2022-11-18 |  |
+| [Lingering Thoughts](https://open.spotify.com/track/1K6EHDgY0pA4Pz8VUzKF26) | [Graham Matheson](https://open.spotify.com/artist/6ueD2UQZleDy48zMyvmt4e) | [Lingering Thoughts](https://open.spotify.com/album/2D9nlP0XvJVp8TkA9VMqCk) | 2:11 | 2023-11-24 |  |
 | [Little Memories](https://open.spotify.com/track/1GwZ8CJtCKMjR3bZPxMuYX) | [Lance Allen](https://open.spotify.com/artist/5KFXAufcOTSKibMfLnmyYC) | [Little Memories](https://open.spotify.com/album/7zuMQmofglFthbWdpYZec0) | 2:33 | 2022-05-13 | 2022-06-10 |
 | [Loch Lomond](https://open.spotify.com/track/2cAOjBEOihwcAZmrNHVd7v) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Loch Lomond](https://open.spotify.com/album/1uAK1L5V9sG1g3vzbXrTIb) | 1:54 | 2022-08-12 | 2023-09-16 |
 | [Long Ago](https://open.spotify.com/track/660XH9scfuNHY2vU0Ct5lv) | [Peaceful Green](https://open.spotify.com/artist/599IEilpy3m4OmWd2pD3Du) | [Long Ago](https://open.spotify.com/album/7d8B7P8xOr5CNN0w8IEJTE) | 3:22 | 2022-05-13 | 2023-09-01 |
@@ -165,7 +167,7 @@
 | [Make It Work](https://open.spotify.com/track/17Az6X46sOMM3VftW91VFE) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Make It Work](https://open.spotify.com/album/3sFtgLbCMHcBvQCboBM32I) | 3:04 | 2022-05-13 | 2022-06-10 |
 | [Malgré le néant](https://open.spotify.com/track/5V03ziQJGHaoAJcfPIYWWZ) | [Alexia Mathieu](https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA) | [Malgré le néant](https://open.spotify.com/album/325mLRmxCCHqycSkCCvOL5) | 2:46 | 2022-05-13 |  |
 | [Manana](https://open.spotify.com/track/1PMhQP6JaeKbIkzDbILOjk) | [Adriana Aloysius](https://open.spotify.com/artist/0ZvNe5w7GVkxqnX5fXb6Ox) | [Manana](https://open.spotify.com/album/15stE2kemNpwHuDS7EX0sE) | 1:15 | 2022-05-27 | 2023-04-28 |
-| [Masodik](https://open.spotify.com/track/3K6esDtEDOfx9boe94z0Y2) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Masodik](https://open.spotify.com/album/1mImGcb3xJHoHFc9VmXT0I) | 3:07 | 2022-05-13 |  |
+| [Masodik](https://open.spotify.com/track/3K6esDtEDOfx9boe94z0Y2) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Masodik](https://open.spotify.com/album/1mImGcb3xJHoHFc9VmXT0I) | 3:07 | 2022-05-13 | 2023-11-24 |
 | [Matter Of Time](https://open.spotify.com/track/0inCIgjn7rsDDvyFVgMCPl) | [Miller & Bronx](https://open.spotify.com/artist/2qDhaB25EdIZQQ8dF4EBqt) | [Matter Of Time](https://open.spotify.com/album/5oM7hQhVfxOl9pRYIv2zDi) | 1:47 | 2022-07-15 | 2023-09-16 |
 | [Meet Me When I Come](https://open.spotify.com/track/6A4OZEbZdVXcWa79ZhanWN) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Meet Me When I Come](https://open.spotify.com/album/5n6VG1x2YR6D8xVDrpFGaL) | 3:11 | 2023-06-22 |  |
 | [Melrose](https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/6Z1EwaLJ7zU8SaGywp0pSj) | 2:04 | 2022-05-13 | 2022-06-10 |
@@ -173,6 +175,7 @@
 | [Moments](https://open.spotify.com/track/09ABPGLl5mD4XKrSzVhcZh) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Moments](https://open.spotify.com/album/3RWT8s0jYc1lO6J8mlP5CJ) | 2:23 | 2023-03-31 | 2023-06-10 |
 | [Moments](https://open.spotify.com/track/12zsDIcTZiDOhFFSI7UeD4) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Moments](https://open.spotify.com/album/4dOW4Qu0bwy54ArQWj9oga) | 2:23 | 2022-10-28 | 2023-04-13 |
 | [Moments](https://open.spotify.com/track/5nTHryNER0Teyaa4Y6XLa7) | [oakwhisper](https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr) | [Moments](https://open.spotify.com/album/1nVjd0D1TypRpB7Xjet07j) | 2:23 | 2022-07-22 | 2022-11-06 |
+| [Moments with you](https://open.spotify.com/track/3p9wB5uVvsf0BzqY8y0W3X) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Moments with you](https://open.spotify.com/album/6ozrFm4mb8spn0V08f3GHi) | 2:29 | 2023-11-24 |  |
 | [More Than Yesterday](https://open.spotify.com/track/2rdQdrAeQkyO5X6kfwfWO5) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [More Than Yesterday](https://open.spotify.com/album/27MZUFtc98oIebovnNxmVp) | 2:34 | 2022-10-07 |  |
 | [Morgennebel](https://open.spotify.com/track/5YPSO5fyF5nDOrwzCseb4L) | [Vandenberg](https://open.spotify.com/artist/5YCtylTmw5A39uy1jP36Wi) | [Morgennebel](https://open.spotify.com/album/26ILwVN6wmnxHlG19fRrTl) | 2:20 | 2022-05-13 |  |
 | [Morning Mist](https://open.spotify.com/track/3a6sXii4VwApu2WTxYMBtn) | [Staffan Carlén](https://open.spotify.com/artist/1KBpWE9XJDISBwQ0PKkf0g) | [Morning Mist](https://open.spotify.com/album/7j3yVrwdKhzMs1rQIIuHQP) | 2:44 | 2022-05-13 | 2022-06-10 |
@@ -233,7 +236,7 @@
 | [Starting Over](https://open.spotify.com/track/5Nd54oYpiYxUh3bQcT9PtE) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Starting Over](https://open.spotify.com/album/6h8H91TDC4VG1G10ci3zlq) | 1:52 | 2022-05-13 | 2022-06-10 |
 | [Stirling](https://open.spotify.com/track/14I5NCZR2Ml2egUlLPxSKL) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Stirling](https://open.spotify.com/album/7uU6IUooGwe60ajUtMfBy2) | 2:08 | 2022-05-13 | 2023-02-25 |
 | [Strawberry Dreams](https://open.spotify.com/track/6WWPhYyJVAZV4gA38GXmcF) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Strawberry Dreams](https://open.spotify.com/album/1MOCesaJVnxOgVz3iyIzvp) | 2:35 | 2023-06-09 |  |
-| [Stream](https://open.spotify.com/track/0iQJKde2ceeY5iu7zX4b6s) | [Masaaki Kishibe](https://open.spotify.com/artist/4D9ADmnRSSpkyrnofqLa7b) | [Stream](https://open.spotify.com/album/4r9WzvRUBLaFP6qep8wHPE) | 2:41 | 2022-05-13 |  |
+| [Stream](https://open.spotify.com/track/0iQJKde2ceeY5iu7zX4b6s) | [Masaaki Kishibe](https://open.spotify.com/artist/4D9ADmnRSSpkyrnofqLa7b) | [Stream](https://open.spotify.com/album/4r9WzvRUBLaFP6qep8wHPE) | 2:41 | 2022-05-13 | 2023-11-24 |
 | [Sullen Streets](https://open.spotify.com/track/2EQ4Oc2W8iNG9ZpGdl5wpe) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Sullen Streets](https://open.spotify.com/album/09kxEbIQ5Ox5v8hczNkQsW) | 2:22 | 2023-02-24 |  |
 | [Summer Haze](https://open.spotify.com/track/1IrUtiuz3vvVGBrZBURdMh) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Summer Haze](https://open.spotify.com/album/6b5M9uiTVphHivV0LrXWeO) | 1:38 | 2022-05-13 | 2023-09-16 |
 | [Sun over the desert](https://open.spotify.com/track/3wNOEQe2NOlExECcLqVPLG) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [Sun over the desert](https://open.spotify.com/album/3sEZnpkw2WFgCLRTRE5BPV) | 2:08 | 2023-10-27 |  |
@@ -245,7 +248,7 @@
 | [Sunset on the Farmland](https://open.spotify.com/track/5tvM2CxNOcCBY7Z2H9Xa12) | [Tapperstand](https://open.spotify.com/artist/5qiy3uNvNQrZycAMo6dOgH) | [Shapes in the Sky](https://open.spotify.com/album/7sxQpqFUHwHhz9xnUmUKol) | 2:51 | 2022-05-13 |  |
 | [Sweet Disposition](https://open.spotify.com/track/5gNlgxqfMX2G1ptN8hGniT) | [Cody Lane](https://open.spotify.com/artist/5PXw7CZ8v8fcIETkAuHkwJ) | [Ode To The Restless Heart](https://open.spotify.com/album/74hAowWLPfmmeKIxsJF0e1) | 2:40 | 2022-05-13 | 2023-04-28 |
 | [Sweet Sky](https://open.spotify.com/track/2HUz7Vn3QcsmCPrHmJojvi) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Sweet Sky](https://open.spotify.com/album/7M45WfGEysgnjPlcV2Fmud) | 3:00 | 2023-02-24 |  |
-| [Swingset](https://open.spotify.com/track/0OBHK3hxUn0HSRg4TodKsu) | [Antonio y Lola](https://open.spotify.com/artist/744WzucF7FBLg5nkA15b41) | [Swingset](https://open.spotify.com/album/3axglViVIh3CaSZZg8drYA) | 2:06 | 2023-04-28 |  |
+| [Swingset](https://open.spotify.com/track/0OBHK3hxUn0HSRg4TodKsu) | [Antonio y Lola](https://open.spotify.com/artist/744WzucF7FBLg5nkA15b41) | [Swingset](https://open.spotify.com/album/3axglViVIh3CaSZZg8drYA) | 2:06 | 2023-04-28 | 2023-11-24 |
 | [Symphony Road](https://open.spotify.com/track/6wD2btYlsmIi4VrHmsc5kY) | [Ruth Reynolds](https://open.spotify.com/artist/3PYUx4NhsZEBdLIk09FwRI) | [Symphony Road](https://open.spotify.com/album/1bQftBYXBT9z33Mwa4w8yG) | 2:27 | 2022-05-13 |  |
 | [Søngleikur](https://open.spotify.com/track/5BvEzwZJeL2XIvoxT2zaOD) | [Elsa Selma](https://open.spotify.com/artist/6Xah5b0b62n9ozpTFFkvMo) | [Søngleikur](https://open.spotify.com/album/3PQYhV2ozQk3olZYqlFCQL) | 3:09 | 2022-05-13 |  |
 | [Tall Flowers](https://open.spotify.com/track/2Tl1TqpioP2h7A9ynq3HMA) | [Helen Wei](https://open.spotify.com/artist/618kVtXxOEnfAasArnWgvA) | [Tall Flowers](https://open.spotify.com/album/4wRJlTF2NBkJmmQQ7BTstw) | 2:06 | 2023-02-24 |  |
@@ -286,6 +289,7 @@
 | [Weary Traveler](https://open.spotify.com/track/7gLCSVhUt9CNBoCqNRas4R) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Weary Traveler](https://open.spotify.com/album/0uP3ptU1wLEBiIH6qpWoP9) | 3:10 | 2023-01-06 |  |
 | [Weavers](https://open.spotify.com/track/0fwI77XIC0gcpfU6h0il8v) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [Mirror](https://open.spotify.com/album/1eajczC71VdUgRAakjJfw8) | 3:05 | 2022-05-13 | 2022-06-10 |
 | [Wees Hier](https://open.spotify.com/track/3X0udzrbLkU0GHi4zbrMAq) | [Adrianne Mercier](https://open.spotify.com/artist/06urGGaPJJnDlxhUHO0TCn) | [Wees Hier](https://open.spotify.com/album/1HhXKa695uXIITpxVLLk5q) | 1:54 | 2023-02-24 | 2023-09-16 |
+| [Wetterstein](https://open.spotify.com/track/6WfdfnyXB4XRHPtdYUtMZw) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Wetterstein](https://open.spotify.com/album/0u5TdFB5G2JI6BR5bQQIs5) | 4:08 | 2023-11-24 |  |
 | [When I'm With You](https://open.spotify.com/track/2owyKJv6AXPVSnHIPmOLsp) | [Benjamin Waverly](https://open.spotify.com/artist/4IXlJyOpO3xS2Sl7GZMUu7) | [When I'm With You](https://open.spotify.com/album/4jMcDv3EarnmcXRRTmHW3a) | 2:41 | 2022-05-13 | 2023-03-11 |
 | [When Sarah Returned](https://open.spotify.com/track/0Osgo37JsM3e6PKkrRGX77) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 2:36 | 2022-05-13 |  |
 | [While You Waited](https://open.spotify.com/track/6HRH0Y8gia8VPbWC016Om3) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q) | [While You Waited](https://open.spotify.com/album/3NIH1WpZiLV1eQo3UhlM7b) | 1:58 | 2022-05-13 | 2023-09-16 |

@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 373780,
+  "num_followers": 373843,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjY4NWNlOTkzOTJjYTg1ZDAwYzgwMGJlYzM0MTA1ZjhiYjBjYTI2",
+  "snapshot_id": "MCxhYTZiMjkxMWZhYmE5OWEzMjVkNmVmODcyMDM3MmNmNWRiNjgzOWU3",
   "tracks": [
     {
       "added_at": "2023-11-21 21:06:39",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 154466,
+      "name": "Poetry In Motion",
+      "url": "https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
         "name": "Lost Country Hits of the 60s",
         "url": "https://open.spotify.com/album/2Wod7YXHNfXubV7EdP4Lto"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 134786,
       "name": "Just Between You and Me",
       "url": "https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
-        "name": "Streets of Baltimore",
-        "url": "https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp"
-      },
-      "artists": [
-        {
-          "name": "Bobby Bare",
-          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "The Streets of Baltimore",
-      "url": "https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
+        "name": "Streets of Baltimore",
+        "url": "https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "The Streets of Baltimore",
+      "url": "https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
         "name": "Keep On the Sunny Side - June Carter Cash: Her Life In Music",
         "url": "https://open.spotify.com/album/0pSVeCzT60p5pzP3m3iOrN"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 166266,
       "name": "Jackson (with June Carter Cash)",
       "url": "https://open.spotify.com/track/6ekSX8AVzwRSs0mbSlPc0R"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 154466,
-      "name": "Poetry In Motion",
-      "url": "https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "Vintage Collections",
-        "url": "https://open.spotify.com/album/14QyCjfoBHSmq5nxux8OJg"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 168466,
-      "name": "The Bottle Let Me Down",
-      "url": "https://open.spotify.com/track/4zzcta2PO7TIs9YuXZ6G2u"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "Country Heart: 24 Favorite Songs",
         "url": "https://open.spotify.com/album/15HPAnwnYAOmyOOTvQpgjn"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 138000,
       "name": "Walk Through This World With Me",
       "url": "https://open.spotify.com/track/61l4nlG7v1D9V14PfBWz0P"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "Vintage Collections",
+        "url": "https://open.spotify.com/album/14QyCjfoBHSmq5nxux8OJg"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 168466,
+      "name": "The Bottle Let Me Down",
+      "url": "https://open.spotify.com/track/4zzcta2PO7TIs9YuXZ6G2u"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1215,6 +1215,38 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
+        "name": "May the Bird of Paradise Fly Up Your Nose",
+        "url": "https://open.spotify.com/album/0bC3amgMq1cdEOdsTChqIR"
+      },
+      "artists": [
+        {
+          "name": "Little Jimmy Dickens",
+          "url": "https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM"
+        }
+      ],
+      "duration_ms": 151693,
+      "name": "May the Bird of Paradise Fly up Your Nose",
+      "url": "https://open.spotify.com/track/4KRLWRl1bFjnXhY5MgZWrM"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
+        "name": "Country Style",
+        "url": "https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "I'm So Lonesome I Could Cry",
+      "url": "https://open.spotify.com/track/6VpbL35xNjnpFclaWVrR1d"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
         "name": "The Essential George Jones",
         "url": "https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF"
       },
@@ -1235,22 +1267,6 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
-        "name": "May the Bird of Paradise Fly Up Your Nose",
-        "url": "https://open.spotify.com/album/0bC3amgMq1cdEOdsTChqIR"
-      },
-      "artists": [
-        {
-          "name": "Little Jimmy Dickens",
-          "url": "https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM"
-        }
-      ],
-      "duration_ms": 151693,
-      "name": "May the Bird of Paradise Fly up Your Nose",
-      "url": "https://open.spotify.com/track/4KRLWRl1bFjnXhY5MgZWrM"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
         "name": "Right Or Wrong",
         "url": "https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 136293,
       "name": "Stupid Cupid",
       "url": "https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
-        "name": "Country Style",
-        "url": "https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 157600,
-      "name": "I'm So Lonesome I Could Cry",
-      "url": "https://open.spotify.com/track/6VpbL35xNjnpFclaWVrR1d"
     },
     {
       "added_at": "2023-11-21 21:06:39",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-11-21 21:06:39",
       "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/6EMFcjkD4LHxfwqfJlPjsb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 127106,
+      "name": "Why Do I Love You So",
+      "url": "https://open.spotify.com/track/6e63bXWJcCMu8tunixbFa9"
+    },
+    {
+      "added_at": "2023-11-21 21:06:39",
+      "album": {
         "name": "The Cold Hard Facts of Life",
         "url": "https://open.spotify.com/album/1SOXR7PxeVSWUJuWLYi2Ie"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 192946,
       "name": "The Cold Hard Facts of Life",
       "url": "https://open.spotify.com/track/2s2Owv5k5HaXCkvwV8AbsG"
-    },
-    {
-      "added_at": "2023-11-21 21:06:39",
-      "album": {
-        "name": "Best Of The Best",
-        "url": "https://open.spotify.com/album/6Xc0ABtnw2u9mtsdoNFIbQ"
-      },
-      "artists": [
-        {
-          "name": "Hank Thompson",
-          "url": "https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0"
-        }
-      ],
-      "duration_ms": 129240,
-      "name": "A Six Pack To Go",
-      "url": "https://open.spotify.com/track/3hCOH1pgpQmaTWgR58OFS2"
     }
   ],
   "unique_name": "60s Country",

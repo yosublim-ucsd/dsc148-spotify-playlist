@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw?si=zHeqTQBjSlCgMpPiuLyaYQ\"> Quamina MP </a>",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:   <a href=\"https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y?si=onw68QzKQIORrUBZRuPb-w\"> Akwaboah </a>",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -379,6 +379,24 @@
     },
     {
       "album": {
+        "name": "Asantewaa",
+        "url": "https://open.spotify.com/album/05C09QwD1DOhF5K9NdTc7s"
+      },
+      "artists": [
+        {
+          "name": "Epixode",
+          "url": "https://open.spotify.com/artist/4W5GvdMaNMlr78lbnaW2P3"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236885,
+      "name": "Asantewaa",
+      "url": "https://open.spotify.com/track/5EKoM6kwZ5LJdco2iVQ5OA"
+    },
+    {
+      "album": {
         "name": "Ashawo",
         "url": "https://open.spotify.com/album/56jazw4lgbAn1rEyperIPa"
       },
@@ -394,6 +412,28 @@
       "duration_ms": 181700,
       "name": "Ashawo",
       "url": "https://open.spotify.com/track/25VXqB7xRiulkQAvL819Yb"
+    },
+    {
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/1wBVNcu4xaAntWt8vUgGnL"
+      },
+      "artists": [
+        {
+          "name": "Akwaboah",
+          "url": "https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286039,
+      "name": "Asikyire",
+      "url": "https://open.spotify.com/track/1Z7mMnCRKLeXb3qpWXmswA"
     },
     {
       "album": {
@@ -448,7 +488,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 213600,
       "name": "Baby",
       "url": "https://open.spotify.com/track/457g4ZlmoUmZWeA8ysRZ8p"
@@ -1092,7 +1132,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 223157,
       "name": "Confam",
       "url": "https://open.spotify.com/track/5yu4sc1rWJzhMQk3l7SiHi"
@@ -1314,7 +1354,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 189785,
       "name": "Dollar On You",
       "url": "https://open.spotify.com/track/6ftfTiJhWNZskedEv5ZYM0"
@@ -1664,7 +1704,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 139000,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C"
@@ -1704,7 +1744,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 213818,
       "name": "Feel Your Body",
       "url": "https://open.spotify.com/track/7i1IidJjOxCxv9Yq7DKPM5"
@@ -1782,6 +1822,28 @@
       "duration_ms": 230400,
       "name": "Fine Wine (feat. King Promise & Joeboy)",
       "url": "https://open.spotify.com/track/3E3WIVDBt4rX4N2kRrwSah"
+    },
+    {
+      "album": {
+        "name": "Fiona (feat. Lasmid) [Remix]",
+        "url": "https://open.spotify.com/album/3RkNNWfviQ9hnFO2Sn7jXo"
+      },
+      "artists": [
+        {
+          "name": "Fazil",
+          "url": "https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200689,
+      "name": "Fiona (feat. Lasmid) - Remix",
+      "url": "https://open.spotify.com/track/6lcbqARFc6XYGYkHfRUrwo"
     },
     {
       "album": {
@@ -2260,7 +2322,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 233712,
       "name": "Inspector",
       "url": "https://open.spotify.com/track/0MLiCEi33t5Q4rWBOYX7Xp"
@@ -2878,7 +2940,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 208163,
       "name": "Morning Stress",
       "url": "https://open.spotify.com/track/7b1g8V4WA0BEnWBkHv85RW"
@@ -3046,6 +3108,24 @@
       "duration_ms": 192000,
       "name": "NEED ME",
       "url": "https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3"
+    },
+    {
+      "album": {
+        "name": "Unexpected 2",
+        "url": "https://open.spotify.com/album/2gFQctL1EfPUzeVtYaXFVe"
+      },
+      "artists": [
+        {
+          "name": "Dr Cryme",
+          "url": "https://open.spotify.com/artist/26HlCKbXpF27gFP3AEsVhk"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186853,
+      "name": "Nika",
+      "url": "https://open.spotify.com/track/61XOkNNVUQGqNjtrtIIxZ8"
     },
     {
       "album": {
@@ -3830,7 +3910,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 217360,
       "name": "Picture",
       "url": "https://open.spotify.com/track/3A2w2RbkpNnJpYUohOcOEf"
@@ -4905,6 +4985,24 @@
     },
     {
       "album": {
+        "name": "Confetti (EP)",
+        "url": "https://open.spotify.com/album/5dyccxpFr0zuazUQoF7haw"
+      },
+      "artists": [
+        {
+          "name": "Boijake",
+          "url": "https://open.spotify.com/artist/7JwNO91xnzO8mqTn1LYS9h"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148973,
+      "name": "Vacation",
+      "url": "https://open.spotify.com/track/6f5EzS0nN8J68LjqM5yIiE"
+    },
+    {
+      "album": {
         "name": "Vero",
         "url": "https://open.spotify.com/album/7fshzXhS2s2VwC9bvzBFiC"
       },
@@ -4964,7 +5062,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 197134,
       "name": "Vibration",
       "url": "https://open.spotify.com/track/7cZMAQzCnnewnXTYJbajGf"
@@ -5310,7 +5408,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 203773,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH"

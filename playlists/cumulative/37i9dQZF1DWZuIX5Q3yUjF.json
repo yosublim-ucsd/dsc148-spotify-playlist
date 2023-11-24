@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Tho\u00e9",
+  "description": "Il meglio dell'R&B italiano. Cover: RAFFAELLI",
   "name": "anima R&B",
   "tracks": [
     {
@@ -270,7 +270,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 176400,
       "name": "AlzoilVolume",
       "url": "https://open.spotify.com/track/5IQj8IZkF2QbRStHCQwKl3"
@@ -1279,6 +1279,24 @@
     },
     {
       "album": {
+        "name": "Come Fai",
+        "url": "https://open.spotify.com/album/07Vr7ECGAosmpg0uDk0RII"
+      },
+      "artists": [
+        {
+          "name": "Simone Longo",
+          "url": "https://open.spotify.com/artist/0W73ncB8lW5LBdipGF766U"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "Come Fai",
+      "url": "https://open.spotify.com/track/2t6W9WYsPhNaCxZV1XDVmK"
+    },
+    {
+      "album": {
         "name": "come le canzoni stonate",
         "url": "https://open.spotify.com/album/7GpitQPJM57M3jJ8DcxVMb"
       },
@@ -1984,7 +2002,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 186947,
       "name": "DOVE SEI?",
       "url": "https://open.spotify.com/track/3s9POjHrD2s3vgFj02G08R"
@@ -6385,6 +6403,28 @@
     },
     {
       "album": {
+        "name": "SEGRETO (feat. Sina Tekle)",
+        "url": "https://open.spotify.com/album/2GzKVikbqExzxzB6rgXW7b"
+      },
+      "artists": [
+        {
+          "name": "Gojardi",
+          "url": "https://open.spotify.com/artist/2BK1KTuteomgkZ5ta3crjk"
+        },
+        {
+          "name": "Sina Tekle",
+          "url": "https://open.spotify.com/artist/3jhexNp8ak2GP9dEqmRLdv"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "SEGRETO (feat. Sina Tekle)",
+      "url": "https://open.spotify.com/track/0wUqkKIjEdZIMf2eaJiY6p"
+    },
+    {
+      "album": {
         "name": "Sei come il mare",
         "url": "https://open.spotify.com/album/6Z4HDKzevkIIi9OynwpP4s"
       },
@@ -6757,6 +6797,28 @@
     },
     {
       "album": {
+        "name": "sottomarino (feat. GodBless)",
+        "url": "https://open.spotify.com/album/1fHtAd1NEvNiAw6J3Jk3AJ"
+      },
+      "artists": [
+        {
+          "name": "cura",
+          "url": "https://open.spotify.com/artist/4FhcG8ezeSwe8fQpxYrOjx"
+        },
+        {
+          "name": "GodBless",
+          "url": "https://open.spotify.com/artist/2Qc7DEYHG2wELtKECHwSK7"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157709,
+      "name": "sottomarino (feat. GodBless)",
+      "url": "https://open.spotify.com/track/2T7yRcLfO4vYJ01WH25Zat"
+    },
+    {
+      "album": {
         "name": "HOT PARTY BACK TO SCHOOL 2022",
         "url": "https://open.spotify.com/album/1xybf1vMF8lcAQnvC3r2x9"
       },
@@ -6852,6 +6914,24 @@
       "duration_ms": 142906,
       "name": "Specchi",
       "url": "https://open.spotify.com/track/5M4zuk2CV31ataWytyHyul"
+    },
+    {
+      "album": {
+        "name": "Specchio",
+        "url": "https://open.spotify.com/album/609VpTgRMxIjizyhuYeipg"
+      },
+      "artists": [
+        {
+          "name": "Taoma",
+          "url": "https://open.spotify.com/artist/0aLwoMVln0XlsVY3A2UI04"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216688,
+      "name": "Specchio",
+      "url": "https://open.spotify.com/track/3WmVyDDXpxFFR0fEIGTjZg"
     },
     {
       "album": {
@@ -7280,7 +7360,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 178571,
       "name": "TEDESCA",
       "url": "https://open.spotify.com/track/3rpexh5KpmKD7nshRbf0nx"
@@ -8050,7 +8130,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 168042,
       "name": "voragini",
       "url": "https://open.spotify.com/track/2gJs1MMvEYpRuJdSfm0363"

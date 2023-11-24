@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "A Tale of Two Hearts",
+        "url": "https://open.spotify.com/album/2Ph6zLDm9E6PTsKWjMS9Kn"
+      },
+      "artists": [
+        {
+          "name": "Princeton South",
+          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147121,
+      "name": "A Tale of Two Hearts",
+      "url": "https://open.spotify.com/track/7yoW4dkqd6414fRVeCY9bN"
+    },
+    {
+      "album": {
         "name": "Verses, Vol. 1",
         "url": "https://open.spotify.com/album/0lVg5lgO6lof4QoqzZ8jRk"
       },
@@ -569,6 +587,32 @@
     },
     {
       "album": {
+        "name": "Do You Know Jesus?",
+        "url": "https://open.spotify.com/album/7hhYpFCgnlJaSsbuVPHxQq"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Pillar YRR",
+          "url": "https://open.spotify.com/artist/62jRIwQ6eUifptPOGRBHqd"
+        },
+        {
+          "name": "Lekan Salamii",
+          "url": "https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155218,
+      "name": "Do You Know Jesus?",
+      "url": "https://open.spotify.com/track/2cZuuJ61c7qSct57or0h9Y"
+    },
+    {
+      "album": {
         "name": "Doh Doh Doh",
         "url": "https://open.spotify.com/album/5rH09ZUv3nstdF2LtbPvvN"
       },
@@ -708,6 +752,24 @@
       "duration_ms": 121730,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/7rvky1xs7Ewil4rUjtxcSk"
+    },
+    {
+      "album": {
+        "name": "Formula 1",
+        "url": "https://open.spotify.com/album/5tEiXnkdcYcSGZyGPuaDDH"
+      },
+      "artists": [
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158999,
+      "name": "Formula 1",
+      "url": "https://open.spotify.com/track/7qJtU5f9m6yulehi4GjktK"
     },
     {
       "album": {
@@ -1338,6 +1400,24 @@
       "duration_ms": 559267,
       "name": "One Name (Jesus) - Live",
       "url": "https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c"
+    },
+    {
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/5rt15Fv93aObicrRkMB1Z7"
+      },
+      "artists": [
+        {
+          "name": "Rhema Onuoha",
+          "url": "https://open.spotify.com/artist/5nsPtwNBlugfTFBzgSzgVX"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414946,
+      "name": "Overflow",
+      "url": "https://open.spotify.com/track/3ERv48syFEopv0b1Lztn1Z"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "se for pra sofrer, que seja com trilha sonora n\u00e9 n\u00e3o?? ",
-  "num_followers": 536911,
+  "num_followers": 536993,
   "original_name": "Cora\u00e7\u00e3o Partido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTNkMTk1NTBkNDcyZDUzMTJjZTcwZjc4MTJjNGViZDkwN2I4NGY5",
+  "snapshot_id": "MCw0YjYzZmMyYTFjMWVhMzljZThhOGRhYWY4ZjE2MjFmMjg3ZmUyZDhj",
   "tracks": [
     {
       "added_at": "2023-11-10 04:59:40",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-11-10 04:59:40",
       "album": {
-        "name": "The Dutchess",
-        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
-      },
-      "artists": [
-        {
-          "name": "Fergie",
-          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
-        }
-      ],
-      "duration_ms": 268120,
-      "name": "Big Girls Don't Cry (Personal)",
-      "url": "https://open.spotify.com/track/4AniPkv5vgdE1n6VKreiyI"
-    },
-    {
-      "added_at": "2023-11-10 04:59:40",
-      "album": {
         "name": "Sand",
         "url": "https://open.spotify.com/album/6K8VcnG6HUSp59xNOpEJhP"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 219584,
       "name": "Sand",
       "url": "https://open.spotify.com/track/3HYUKa1HkaSRk4C0xK4O5q"
+    },
+    {
+      "added_at": "2023-11-10 04:59:40",
+      "album": {
+        "name": "The Dutchess",
+        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
+      },
+      "artists": [
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        }
+      ],
+      "duration_ms": 268120,
+      "name": "Big Girls Don't Cry (Personal)",
+      "url": "https://open.spotify.com/track/4AniPkv5vgdE1n6VKreiyI"
     },
     {
       "added_at": "2023-11-10 04:59:40",

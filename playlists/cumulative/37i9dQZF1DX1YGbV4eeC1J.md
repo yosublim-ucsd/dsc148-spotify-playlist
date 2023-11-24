@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> Exceptionally vivid Swahili love stories for you and yours\. Cover: Barnaba
+> Exceptionally vivid Swahili love stories for you and yours\. Cover: Wyre
 
-115 songs - 6 hr 35 min
+116 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Napona](https://open.spotify.com/track/0vqWa6py4X96uFeaue6DKv) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Napona](https://open.spotify.com/album/2g6WReKqmaMix2XTl58AI6) | 2:49 | 2022-07-07 | 2023-10-07 |
 | [Nenda](https://open.spotify.com/track/6RpnK5WTfd82wHnJlKcJBS) | [Gabby Rnb](https://open.spotify.com/artist/7qyETqoh8xSHGFFeNfOlmp) | [Nenda](https://open.spotify.com/album/4Bv7f63ScZR7DwLapCeVgk) | 3:18 | 2023-01-12 | 2023-07-07 |
 | [Nenda Lote](https://open.spotify.com/track/66UNdqwxnjpfQdu3cD0lk5) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Midnight Train](https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK) | 4:24 | 2022-05-26 |  |
+| [Never Let Go](https://open.spotify.com/track/0oo32fZjl0rwWqNTtwSFak) | [Wyre](https://open.spotify.com/artist/4wnZwHdj9Axyr8ND1Vu8EH) | [NEVER LET GO](https://open.spotify.com/album/6bx36cCR1kDtorGigHyASc) | 2:54 | 2023-11-23 |  |
 | [Ni We](https://open.spotify.com/track/1xTb97ajiL7Rq3dMBk2UJu) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heart to Hurt](https://open.spotify.com/album/4QEJSaRYujs6FtiF7gpctX) | 2:54 | 2022-05-26 | 2023-03-25 |
 | [Nikilala](https://open.spotify.com/track/6RFGm7BDBsbGM2A4Q332n4) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Nikilala](https://open.spotify.com/album/1cUWkCUttv5J9EyGJutwWL) | 2:30 | 2023-03-10 | 2023-07-07 |
 | [Nikupende](https://open.spotify.com/track/4Nmk8cdKR6XZadYTGVRoIa) | [Elani](https://open.spotify.com/artist/7v4v8ZiBQC6HHeCuA2lQ26) | [Barua ya Dunia](https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z) | 4:24 | 2022-05-26 | 2022-09-23 |
@@ -113,7 +114,7 @@
 | [Two](https://open.spotify.com/track/7L2rH4sJ94uom7MZxNybzr) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Two](https://open.spotify.com/album/1STmmjFUVBLJx2OcAvT5CX) | 3:33 | 2023-03-09 | 2023-09-22 |
 | [U&I](https://open.spotify.com/track/5Cv3HDfY46xvnuotudaSfn) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [U&I](https://open.spotify.com/album/6VATsDRPXpyWz3VEKvlnfZ) | 3:10 | 2022-06-16 | 2023-01-27 |
 | [Umeme](https://open.spotify.com/track/3CxpOg8kGPAJRFG3S0j1kr) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL) | [Umeme](https://open.spotify.com/album/6Jo1JePWZCM5YsSLFH9ppI) | 3:48 | 2023-01-12 |  |
-| [Umenipata](https://open.spotify.com/track/1LRwzKCREJGQhQJm1XDGMN) | [Shetta](https://open.spotify.com/artist/1UaXKMZaYJipBoWQS9XdCT), [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Umenipata](https://open.spotify.com/album/2oJobikik4V1YQ6hr4Wzpi) | 2:58 | 2023-07-20 |  |
+| [Umenipata](https://open.spotify.com/track/1LRwzKCREJGQhQJm1XDGMN) | [Shetta](https://open.spotify.com/artist/1UaXKMZaYJipBoWQS9XdCT), [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Umenipata](https://open.spotify.com/album/2oJobikik4V1YQ6hr4Wzpi) | 2:58 | 2023-07-20 | 2023-11-24 |
 | [Umeniweza](https://open.spotify.com/track/6tPnKaaMMBzCZaiGGflRmR) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Above & Beyond](https://open.spotify.com/album/3ggNsXYLqKEx7Chc0Gl2BM) | 3:49 | 2023-08-03 |  |
 | [Unanifaa](https://open.spotify.com/track/3q81v91aFYkdrEYqJxB5PD) | [Taffa](https://open.spotify.com/artist/44lGZ9vJnHuATkGDWNB9vq) | [Unanifaa](https://open.spotify.com/album/1nTkTNj7XrcLcrGxkos0OG) | 3:16 | 2022-06-30 | 2023-03-03 |
 | [Unavyonipenda](https://open.spotify.com/track/6eAfkVy819EFu8xOdcwkFR) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [Unavyonipenda](https://open.spotify.com/album/7y3gLS4YLeD5i9NhdTxvD6) | 3:44 | 2022-05-26 | 2022-09-30 |

@@ -1,12 +1,12 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 66746,
+  "num_followers": 66782,
   "original_name": "Hard Bop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGNmNGQ5ODlmZGE2MDM1Yzg1YTJlMWVhZTYwYzBkYTAwNDQ4ZDhj",
+  "snapshot_id": "MCwzMmNmNDY2ZDZjZGRiMzNlYzNmNjIwOTA0ZTJiNTEwOGFkMjA1YmEx",
   "tracks": [
     {
       "added_at": "2023-11-16 15:40:02",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-11-16 15:40:02",
       "album": {
-        "name": "Just Coolin'",
-        "url": "https://open.spotify.com/album/7EgjzSVwj5Y8L897m3UiUK"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
-        }
-      ],
-      "duration_ms": 400446,
-      "name": "Hipsippy Blues",
-      "url": "https://open.spotify.com/track/3iFlfQ0CXc9URaAvai8VUe"
-    },
-    {
-      "added_at": "2023-11-16 15:40:02",
-      "album": {
         "name": "The Blues And The Abstract Truth",
         "url": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 281986,
       "name": "Hoe Down",
       "url": "https://open.spotify.com/track/3k7MPapSDy9kSWuhvXxP3c"
+    },
+    {
+      "added_at": "2023-11-16 15:40:02",
+      "album": {
+        "name": "Just Coolin'",
+        "url": "https://open.spotify.com/album/7EgjzSVwj5Y8L897m3UiUK"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "duration_ms": 400446,
+      "name": "Hipsippy Blues",
+      "url": "https://open.spotify.com/track/3iFlfQ0CXc9URaAvai8VUe"
     },
     {
       "added_at": "2023-11-16 15:40:02",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-11-16 15:40:02",
       "album": {
-        "name": "Cool Struttin\u2019",
-        "url": "https://open.spotify.com/album/2yWj7slAmHfBohXn40HKVU"
+        "name": "Caravan [Keepnews Collection]",
+        "url": "https://open.spotify.com/album/35Ml0uRskKkYOFi8nBiGzq"
       },
       "artists": [
         {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+          "name": "Art Blakey",
+          "url": "https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t"
         }
       ],
-      "duration_ms": 617487,
-      "name": "Blue Minor - Remastered",
-      "url": "https://open.spotify.com/track/6xdHoeioMerdgJ5fNDDcYy"
+      "duration_ms": 331600,
+      "name": "Sweet 'n' Sour",
+      "url": "https://open.spotify.com/track/0rSAGnHJjXaWqPDBIJMwOZ"
     },
     {
       "added_at": "2023-11-16 15:40:02",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-11-16 15:40:02",
       "album": {
-        "name": "Caravan [Keepnews Collection]",
-        "url": "https://open.spotify.com/album/35Ml0uRskKkYOFi8nBiGzq"
+        "name": "Cool Struttin\u2019",
+        "url": "https://open.spotify.com/album/2yWj7slAmHfBohXn40HKVU"
       },
       "artists": [
         {
-          "name": "Art Blakey",
-          "url": "https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t"
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
         }
       ],
-      "duration_ms": 331600,
-      "name": "Sweet 'n' Sour",
-      "url": "https://open.spotify.com/track/0rSAGnHJjXaWqPDBIJMwOZ"
+      "duration_ms": 617487,
+      "name": "Blue Minor - Remastered",
+      "url": "https://open.spotify.com/track/6xdHoeioMerdgJ5fNDDcYy"
     },
     {
       "added_at": "2023-11-16 15:40:02",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-11-16 15:40:02",
       "album": {
-        "name": "Dexter Calling (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P"
+        "name": "Back To The Tracks",
+        "url": "https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Tina Brooks",
+          "url": "https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX"
         }
       ],
-      "duration_ms": 465066,
-      "name": "Soul Sister - Rudy Van Gelder Edition/2004 Remaster",
-      "url": "https://open.spotify.com/track/5haDMziNpWpocusp2aLR82"
+      "duration_ms": 483293,
+      "name": "Back To The Tracks",
+      "url": "https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR"
     },
     {
       "added_at": "2023-11-16 15:40:02",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-11-16 15:40:02",
       "album": {
-        "name": "Back To The Tracks",
-        "url": "https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE"
+        "name": "Dexter Calling (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/2y9RZzp36aXMJ5b3mv9X5P"
       },
       "artists": [
         {
-          "name": "Tina Brooks",
-          "url": "https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX"
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 483293,
-      "name": "Back To The Tracks",
-      "url": "https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR"
+      "duration_ms": 465066,
+      "name": "Soul Sister - Rudy Van Gelder Edition/2004 Remaster",
+      "url": "https://open.spotify.com/track/5haDMziNpWpocusp2aLR82"
     },
     {
       "added_at": "2023-11-16 15:40:02",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-11-16 15:40:02",
       "album": {
-        "name": "Clubhouse",
-        "url": "https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 425480,
-      "name": "Devilette",
-      "url": "https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF"
-    },
-    {
-      "added_at": "2023-11-16 15:40:02",
-      "album": {
         "name": "The Turnaround",
         "url": "https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2023-11-16 15:40:02",
       "album": {
-        "name": "My Conception",
-        "url": "https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ"
+        "name": "Clubhouse",
+        "url": "https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo"
       },
       "artists": [
         {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 438000,
-      "name": "Blues Blue",
-      "url": "https://open.spotify.com/track/42s1AW8BjI7Z01BEKEtyD6"
+      "duration_ms": 425480,
+      "name": "Devilette",
+      "url": "https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF"
     },
     {
       "added_at": "2023-11-16 15:40:02",
@@ -923,6 +907,22 @@
       "duration_ms": 729613,
       "name": "Midtown Blues",
       "url": "https://open.spotify.com/track/5vD9Rn0dNz0Iam9jljGjGt"
+    },
+    {
+      "added_at": "2023-11-16 15:40:02",
+      "album": {
+        "name": "My Conception",
+        "url": "https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 438000,
+      "name": "Blues Blue",
+      "url": "https://open.spotify.com/track/42s1AW8BjI7Z01BEKEtyD6"
     },
     {
       "added_at": "2023-11-16 15:40:02",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-11-16 15:40:02",
       "album": {
-        "name": "That's Where It's At",
-        "url": "https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt"
-      },
-      "artists": [
-        {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
-        }
-      ],
-      "duration_ms": 395213,
-      "name": "Light Blue - Remastered",
-      "url": "https://open.spotify.com/track/57gN4EUhMll26FXfYKWVLw"
-    },
-    {
-      "added_at": "2023-11-16 15:40:02",
-      "album": {
         "name": "Benny Golson And The Philadelphians",
         "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 245146,
       "name": "Blues March",
       "url": "https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm"
+    },
+    {
+      "added_at": "2023-11-16 15:40:02",
+      "album": {
+        "name": "That's Where It's At",
+        "url": "https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        }
+      ],
+      "duration_ms": 395213,
+      "name": "Light Blue - Remastered",
+      "url": "https://open.spotify.com/track/57gN4EUhMll26FXfYKWVLw"
     },
     {
       "added_at": "2023-11-16 15:40:02",

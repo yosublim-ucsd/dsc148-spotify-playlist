@@ -6,8 +6,136 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzMzY2MjAsMDAwMDAwMDBiYzk5ODQzMmRmNmU2YTBjZGJmNTIxZTA4NmY4YjFlMg==",
+  "snapshot_id": "MjgzMzY2MjAsMDAwMDAwMDA1OGI3ZTRkMjU5MjNhZjA1ODMyMDIzNGVkZTlhM2RkMg==",
   "tracks": [
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "The Glass",
+        "url": "https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 211190,
+      "name": "The Glass",
+      "url": "https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Trial By Fire",
+        "url": "https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 261014,
+      "name": "Trial By Fire",
+      "url": "https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Mess It Up (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/0L6IypGWr61krz90boqPDD"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 215370,
+      "name": "Mess It Up - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/7wkTF8cHGCurrfNATqvJLc"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 645887,
+      "name": "Free Bird",
+      "url": "https://open.spotify.com/track/2UybVyb3uhTFig2pXXiAja"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Oops! I Did It Again (Metal Version)",
+        "url": "https://open.spotify.com/album/1wjwFVzJuiwvWBC8WVDZ8J"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "duration_ms": 300545,
+      "name": "Oops! I Did It Again (Metal Version)",
+      "url": "https://open.spotify.com/track/1P2OEmqdhETZEkD14C8GFV"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Get Close",
+        "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 171218,
+      "name": "Get Close",
+      "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Time Trickles Away",
+        "url": "https://open.spotify.com/album/6JiBuJJ7odBDXbaiGPtAKS"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "Quicdraw",
+          "url": "https://open.spotify.com/artist/0IyFO6QAx0fT29TuT9AyCQ"
+        }
+      ],
+      "duration_ms": 124107,
+      "name": "Time Trickles Away",
+      "url": "https://open.spotify.com/track/4Pezni8xhuJgg4VZw2yrSD"
+    },
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
@@ -51,22 +179,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Trial By Fire",
-        "url": "https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 261014,
-      "name": "Trial By Fire",
-      "url": "https://open.spotify.com/track/6oIGM95s3TIyPqhHIH2AQ6"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Won\u2019t Give Up",
         "url": "https://open.spotify.com/album/1mbW7KLqK1KYVVhUHerePT"
       },
@@ -91,42 +203,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Oops! I Did It Again (Metal Version)",
-        "url": "https://open.spotify.com/album/1wjwFVzJuiwvWBC8WVDZ8J"
-      },
-      "artists": [
-        {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
-        }
-      ],
-      "duration_ms": 300545,
-      "name": "Oops! I Did It Again (Metal Version)",
-      "url": "https://open.spotify.com/track/1P2OEmqdhETZEkD14C8GFV"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Time Trickles Away",
-        "url": "https://open.spotify.com/album/6JiBuJJ7odBDXbaiGPtAKS"
-      },
-      "artists": [
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        },
-        {
-          "name": "Quicdraw",
-          "url": "https://open.spotify.com/artist/0IyFO6QAx0fT29TuT9AyCQ"
-        }
-      ],
-      "duration_ms": 124107,
-      "name": "Time Trickles Away",
-      "url": "https://open.spotify.com/track/4Pezni8xhuJgg4VZw2yrSD"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Rockin' Around the Christmas Tree",
         "url": "https://open.spotify.com/album/2NI06JGd3C4GHOeM55FXxU"
       },
@@ -139,22 +215,6 @@
       "duration_ms": 132464,
       "name": "Rockin' Around the Christmas Tree",
       "url": "https://open.spotify.com/track/030heL91n8NNvUHZGmAAZy"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Get Close",
-        "url": "https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 171218,
-      "name": "Get Close",
-      "url": "https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -183,6 +243,26 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/69wYSuJ089rfvYPkVYgd12"
+      },
+      "artists": [
+        {
+          "name": "Trippy Ink",
+          "url": "https://open.spotify.com/artist/4LkIdhJGt2ZZ0wLsm5m1Ys"
+        },
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "duration_ms": 277488,
+      "name": "Eye Witness",
+      "url": "https://open.spotify.com/track/1AYvOthT2JbGxmqvGFiNcW"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "sneek",
         "url": "https://open.spotify.com/album/48KwaEx2y9uL0cHJBoKacx"
       },
@@ -203,62 +283,6 @@
       "duration_ms": 193566,
       "name": "Tandem",
       "url": "https://open.spotify.com/track/73ypDYXaKLXgb69ja5J21D"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 645887,
-      "name": "Free Bird",
-      "url": "https://open.spotify.com/track/2UybVyb3uhTFig2pXXiAja"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Mess It Up (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/0L6IypGWr61krz90boqPDD"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 215370,
-      "name": "Mess It Up - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/7wkTF8cHGCurrfNATqvJLc"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Up on the Housetop",
-        "url": "https://open.spotify.com/album/1X9qEFsBIondSzwmT2yPWn"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 170300,
-      "name": "Up on the Housetop",
-      "url": "https://open.spotify.com/track/1z5GlN4nJElIMEBaiy9FyY"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -287,42 +311,34 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Say Less",
-        "url": "https://open.spotify.com/album/69wYSuJ089rfvYPkVYgd12"
+        "name": "Live In Helsinki St. John's Church",
+        "url": "https://open.spotify.com/album/3mlEZOZcTZ6NY0jfFg1EaQ"
       },
       "artists": [
         {
-          "name": "Trippy Ink",
-          "url": "https://open.spotify.com/artist/4LkIdhJGt2ZZ0wLsm5m1Ys"
-        },
-        {
-          "name": "Phish",
-          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
         }
       ],
-      "duration_ms": 277488,
-      "name": "Eye Witness",
-      "url": "https://open.spotify.com/track/1AYvOthT2JbGxmqvGFiNcW"
+      "duration_ms": 235640,
+      "name": "Bittersweet - Live In Helsinki St. John's Church",
+      "url": "https://open.spotify.com/track/0GSBDca01R6z6fUIBDajgn"
     },
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "One In The Chamber EP",
-        "url": "https://open.spotify.com/album/3o2xPwdzfYpyZbudhaNlt1"
+        "name": "Up on the Housetop",
+        "url": "https://open.spotify.com/album/1X9qEFsBIondSzwmT2yPWn"
       },
       "artists": [
         {
-          "name": "Cesar Cipher",
-          "url": "https://open.spotify.com/artist/5LJYR06xMhg81AlQLWYvmE"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
         }
       ],
-      "duration_ms": 206993,
-      "name": "Say Less",
-      "url": "https://open.spotify.com/track/4q5rS6TGJO4PLXZOiliXcA"
+      "duration_ms": 170300,
+      "name": "Up on the Housetop",
+      "url": "https://open.spotify.com/track/1z5GlN4nJElIMEBaiy9FyY"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -351,18 +367,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Live In Helsinki St. John's Church",
-        "url": "https://open.spotify.com/album/3mlEZOZcTZ6NY0jfFg1EaQ"
+        "name": "One In The Chamber EP",
+        "url": "https://open.spotify.com/album/3o2xPwdzfYpyZbudhaNlt1"
       },
       "artists": [
         {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+          "name": "Cesar Cipher",
+          "url": "https://open.spotify.com/artist/5LJYR06xMhg81AlQLWYvmE"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         }
       ],
-      "duration_ms": 235640,
-      "name": "Bittersweet - Live In Helsinki St. John's Church",
-      "url": "https://open.spotify.com/track/0GSBDca01R6z6fUIBDajgn"
+      "duration_ms": 206993,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/4q5rS6TGJO4PLXZOiliXcA"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -379,30 +399,6 @@
       "duration_ms": 198546,
       "name": "Loups et panth\u00e8res, Part. 1",
       "url": "https://open.spotify.com/track/1fDDyryqprRpZoHMritwR6"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/0Qjt1FuHTvP3ox2TkZtuEC"
-      },
-      "artists": [
-        {
-          "name": "Queen Yuhi",
-          "url": "https://open.spotify.com/artist/7uXZo07erP7ACFvnpvaCaD"
-        },
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Berhana",
-          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
-        }
-      ],
-      "duration_ms": 224687,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/2D6T9vUuopqiOzx3IlaN9v"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -447,6 +443,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967",
+        "url": "https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 114133,
+      "name": "Sgt. Pepper's Lonely Hearts Club Band - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
+      "url": "https://open.spotify.com/track/0CuiomH8qVyMjFAyC2pWfN"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "George Stinney Jr.",
         "url": "https://open.spotify.com/album/2IPkyVo7wOhVaOKZoMftrC"
       },
@@ -471,22 +483,6 @@
       "duration_ms": 182047,
       "name": "George Stinney Jr.",
       "url": "https://open.spotify.com/track/3rnuDuBhRwkNYwXtgbQQaH"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Jimi Hendrix Experience: Live At The Hollywood Bowl: August 18, 1967",
-        "url": "https://open.spotify.com/album/0DtRXNeZDS03QOb4TsDVLP"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 260265,
-      "name": "Killing Floor - Live at The Hollywood Bowl, Hollywood, CA - August 18, 1967",
-      "url": "https://open.spotify.com/track/1dlZtNHfWTIv4F7AHeTmbe"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -527,22 +523,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "The Messy EP",
-        "url": "https://open.spotify.com/album/08l5xqoj3C3BhosTQQh50h"
-      },
-      "artists": [
-        {
-          "name": "Margaux Beylier",
-          "url": "https://open.spotify.com/artist/4amsobhlIB2YEtsZAVbODH"
-        }
-      ],
-      "duration_ms": 175074,
-      "name": "Marie-No\u00eblle",
-      "url": "https://open.spotify.com/track/4rhroD6kTLbgvLA4MZ1NBT"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Tech N9ne Presents: NNUTTHOWZE - Siqnaling The Siqly",
         "url": "https://open.spotify.com/album/6vjunWiWVIjEkOeXJIZALU"
       },
@@ -571,22 +551,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Dreamteam",
-        "url": "https://open.spotify.com/album/15YushxelouREDwAN3cdV1"
+        "name": "The Messy EP",
+        "url": "https://open.spotify.com/album/08l5xqoj3C3BhosTQQh50h"
       },
       "artists": [
         {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+          "name": "Margaux Beylier",
+          "url": "https://open.spotify.com/artist/4amsobhlIB2YEtsZAVbODH"
         }
       ],
-      "duration_ms": 181312,
-      "name": "Dreamteam",
-      "url": "https://open.spotify.com/track/1UNYQXk8b0GPbupETN4IHL"
+      "duration_ms": 74571,
+      "name": "six a.m. interlude",
+      "url": "https://open.spotify.com/track/6anqQBrQhql6FVLVAEuE43"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -607,6 +583,26 @@
       "duration_ms": 215682,
       "name": "Only the Young - Steve Perry & Bryce Miller Remix",
       "url": "https://open.spotify.com/track/4qwEhHH34RHH1B16vXj93L"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Dreamteam",
+        "url": "https://open.spotify.com/album/15YushxelouREDwAN3cdV1"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        }
+      ],
+      "duration_ms": 181312,
+      "name": "Dreamteam",
+      "url": "https://open.spotify.com/track/1UNYQXk8b0GPbupETN4IHL"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

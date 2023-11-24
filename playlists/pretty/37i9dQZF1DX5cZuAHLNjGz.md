@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with Diljit Dosanjh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,132,529 likes - 101 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,133,121 likes - 101 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 100 | [Distance Love](https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Distance Love](https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY) | 3:30 |
 | 101 | [Waalian](https://open.spotify.com/track/4hOsYVSWKWP71u3yQbcqZB) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Waalian](https://open.spotify.com/album/3TMR3K620scT4kBTSTMrnb) | 3:26 |
 
-Snapshot ID: `MCxjMDA5NTY4MWMyZDE3MGQ1NWQ5M2NhOWNlYmRjZmRiMWMzMDc5ZTkx`
+Snapshot ID: `MCw5ZWIyNTA5ZGFjOTZjNTZlNjk1ZjkzZjNiNmEwYTBkZmFiZjk5ZGJj`

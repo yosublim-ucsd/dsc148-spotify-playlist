@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > We're back! The newest Hip\-Hop, refreshed weekly\. Cover: Lil Durk
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,949 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,965 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [ALL MY ANGELS](https://open.spotify.com/track/6grOYGZmp0bAdK66MDwNxZ) | [Francesca Wexler](https://open.spotify.com/artist/3Lc7WiR6p26xEQsoV8QZDa) | [ALL MY ANGELS](https://open.spotify.com/album/2EKSfldIsfBfFmPcMKiO7E) | 3:40 |
 | 50 | [All the Bodies](https://open.spotify.com/track/7k3uGY23tBS23OxVldzuzG) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [All the Bodies](https://open.spotify.com/album/0vKnk8vqOGHjVQQPBolhEg) | 3:13 |
 
-Snapshot ID: `MCw5ZGFkMWQ1ODk5OWE5ODExN2M4NDVhOTdhOWI5Mjg0ZjEyNTY2OGVm`
+Snapshot ID: `MCw1OGQ4MjM2ODE4YTM1ZDdiNWI0YzU0NmY3NzM1MzYzOWQ3YzlmN2I2`

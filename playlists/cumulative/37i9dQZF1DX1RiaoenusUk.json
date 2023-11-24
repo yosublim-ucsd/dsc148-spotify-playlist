@@ -400,6 +400,24 @@
     {
       "album": {
         "name": "Family Game",
+        "url": "https://open.spotify.com/album/5ERVTaDTdK8gCSMGH0K0s3"
+      },
+      "artists": [
+        {
+          "name": "De La Rivera",
+          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218045,
+      "name": "B\u00e9sala",
+      "url": "https://open.spotify.com/track/3IPmxzelbMUy6kdhfhSueF"
+    },
+    {
+      "album": {
+        "name": "Family Game",
         "url": "https://open.spotify.com/album/1DrWoE7BIpWmeebhgsTgzq"
       },
       "artists": [
@@ -1688,7 +1706,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 230991,
       "name": "Silver Mule",
       "url": "https://open.spotify.com/track/3PJmsTebOq650PohvoAOny"

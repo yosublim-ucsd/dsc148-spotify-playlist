@@ -6955,6 +6955,24 @@
     },
     {
       "album": {
+        "name": "Obscur Chemin",
+        "url": "https://open.spotify.com/album/055lgvZKUwKdN8LHpXBZJo"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Aubr\u00e9e",
+          "url": "https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134500,
+      "name": "Passage sombre",
+      "url": "https://open.spotify.com/track/5smttO5h6jZ8dQor21hMkE"
+    },
+    {
+      "album": {
         "name": "Paths",
         "url": "https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC"
       },
@@ -10714,7 +10732,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 254386,
       "name": "Without Words",
       "url": "https://open.spotify.com/track/2l1F4LJzRpVgqXXvjFydbT"

@@ -308,7 +308,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 230044,
       "name": "Autumn Letter",
       "url": "https://open.spotify.com/track/6VTBW8fe5SX7qxhhHREKmS"
@@ -454,6 +454,24 @@
       "duration_ms": 176153,
       "name": "Black Lake",
       "url": "https://open.spotify.com/track/0CoSJeJPeotaraesHiqIZE"
+    },
+    {
+      "album": {
+        "name": "Bora Bora",
+        "url": "https://open.spotify.com/album/0DDElz4yORty6Mq6WBR9K3"
+      },
+      "artists": [
+        {
+          "name": "LEPYUTIN",
+          "url": "https://open.spotify.com/artist/0xIHNVToPKLLTMFFpRKFUv"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374373,
+      "name": "Bora Bora",
+      "url": "https://open.spotify.com/track/4m4YHd7kzcJnEMPBJBjqsL"
     },
     {
       "album": {
@@ -1434,6 +1452,28 @@
       "duration_ms": 182898,
       "name": "Empty",
       "url": "https://open.spotify.com/track/10eTwzipwhgE4mhMS5QhSW"
+    },
+    {
+      "album": {
+        "name": "Empty Lake (feat. Clara Mann)",
+        "url": "https://open.spotify.com/album/7mSgfi9tU0a61heEkhyRJi"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        },
+        {
+          "name": "Clara Mann",
+          "url": "https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196725,
+      "name": "Empty Lake (feat. Clara Mann)",
+      "url": "https://open.spotify.com/track/7xmsz7uSxf88gQ1aLtsmqi"
     },
     {
       "album": {
@@ -2432,7 +2472,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 265306,
       "name": "Little Blue (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
@@ -2992,7 +3032,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 229713,
       "name": "Paint My Bedroom Black",
       "url": "https://open.spotify.com/track/7cK2XNWfStvxYg6NOfFLoe"
@@ -3722,6 +3762,24 @@
       "duration_ms": 331200,
       "name": "Summer Lost 2023 - ft. butaji",
       "url": "https://open.spotify.com/track/0UbO2ZCgpNlPRGWGiWQCeP"
+    },
+    {
+      "album": {
+        "name": "ITEIAD Sessions",
+        "url": "https://open.spotify.com/album/49FYWXZPpRXP2wewK6PRhu"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179091,
+      "name": "Super Trouper",
+      "url": "https://open.spotify.com/track/6NDRkX3h4iiyKcJOngaVZ8"
     },
     {
       "album": {

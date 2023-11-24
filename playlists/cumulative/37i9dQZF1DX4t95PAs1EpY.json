@@ -512,7 +512,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 176000,
       "name": "At Peace",
       "url": "https://open.spotify.com/track/3wqiNJYXsMOF2pn7wDUUE5"
@@ -1422,7 +1422,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 137999,
       "name": "Closer",
       "url": "https://open.spotify.com/track/3EdHF4lKiLFX5zxWw33SvH"
@@ -1614,6 +1614,24 @@
       "duration_ms": 118342,
       "name": "cracks",
       "url": "https://open.spotify.com/track/239wmTGRuJt2W2Bmwc3QvJ"
+    },
+    {
+      "album": {
+        "name": "Crudites",
+        "url": "https://open.spotify.com/album/0hQ68tu32Ukgng8fmVJMui"
+      },
+      "artists": [
+        {
+          "name": "Luna Rossa",
+          "url": "https://open.spotify.com/artist/5KM0Pgy2NxMnZrxtOhM9nW"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146118,
+      "name": "Crudites",
+      "url": "https://open.spotify.com/track/2hCbK4MEBZngh6WoDgevzk"
     },
     {
       "album": {
@@ -2274,7 +2292,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 139243,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/0ifMpOXlntHTc8GwMz5F7N"
@@ -8808,7 +8826,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 198007,
       "name": "Wasting Time",
       "url": "https://open.spotify.com/track/0DTdxoRtvMq4Xejvdds1sa"

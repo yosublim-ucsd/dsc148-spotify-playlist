@@ -4,7 +4,7 @@
 
 > The biggest festival songs of 2023\. emotional festival music \- mainstage music \- edm 2023 \- edm hits \- progressive house \- bigroom \- future rave \- techno \- festival music
 
-252 songs - 13 hr 1 min
+253 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Temptations](https://open.spotify.com/track/2ghUUibEkmNJJ1ok7YWhMX) | [Lockdown](https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt) | [Temptations](https://open.spotify.com/album/6jzO9X6p4McJHr8rCLff9c) | 2:52 | 2023-11-02 |  |
 | [That I Know](https://open.spotify.com/track/4zWQ4iwYNZRauECeHhMs0b) | [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A), [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [That I Know](https://open.spotify.com/album/6cUfXHNCqDE16ckQ1vLB9S) | 2:53 | 2022-07-29 | 2023-09-09 |
 | [The Awakening](https://open.spotify.com/track/7576QEEGENWbga7Y6tsz6v) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [The Awakening](https://open.spotify.com/album/1PADBFxzO1PmZk8OQK0AOx) | 3:28 | 2022-07-29 | 2023-08-05 |
+| [The Darkness](https://open.spotify.com/track/4tR8fRaxfqK8cbBTGUW4CV) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [The Darkness](https://open.spotify.com/album/1XWG1uWWEu4ojBEPSNakYK) | 3:01 | 2023-11-23 |  |
 | [The Deal](https://open.spotify.com/track/3WVwBe9JdXuetcnjkcs9oQ) | [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka), [Afterfab](https://open.spotify.com/artist/48VdMxJ3HAgAMmjPoXc28i) | [The Deal](https://open.spotify.com/album/2m1rt9ckFcIfeAMUJwewMF) | 2:53 | 2023-07-07 |  |
 | [The Moment \(Living Like It's Golden\)](https://open.spotify.com/track/0ZSiQQeGZp2ct1qupFtYSw) | [XYNTHESIZE](https://open.spotify.com/artist/5J9yQhiZO5jfcrRJYUiO2d), [KVELL](https://open.spotify.com/artist/5pL9g2lZ8YpZNmoD1zcIL1) | [The Moment \(Living Like It's Golden\)](https://open.spotify.com/album/2Q8Aq4ZZcfoU4dzJbSmdl6) | 3:31 | 2022-12-23 | 2023-02-18 |
 | [The One](https://open.spotify.com/track/71iBDvsM2h1dcTcMTWJ41j) | [Futuristic Polar Bears](https://open.spotify.com/artist/47v4vGA1qCl7hyevSkpRM7), [HAVOQ](https://open.spotify.com/artist/71ujKAKr4j1X7n4Hio2u7C), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [The One](https://open.spotify.com/album/2cdvMdWc7OsyiqJj79vhMk) | 3:03 | 2022-07-29 | 2023-08-11 |

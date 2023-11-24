@@ -146,7 +146,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 281170,
       "name": "Baby Blu",
       "url": "https://open.spotify.com/track/5TLMnMcFTlxa7on9ZltYzz"
@@ -1664,6 +1664,24 @@
       "duration_ms": 148461,
       "name": "Saturday Yawning",
       "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
+    },
+    {
+      "album": {
+        "name": "say your way",
+        "url": "https://open.spotify.com/album/5YLlcvhZZp9hGzRCEMNYE7"
+      },
+      "artists": [
+        {
+          "name": "Mohsin Zaman",
+          "url": "https://open.spotify.com/artist/5bV84EFrcgU2xCZSEuvDAs"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "say your way",
+      "url": "https://open.spotify.com/track/71xOYIx9otfe8g77Lbd6Gx"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: AIRI KANNA(\uc544\uc774\ub9ac \uce78\ub098)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: BIG Naughty(\uc11c\ub3d9\ud604)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -1187,6 +1187,24 @@
     },
     {
       "album": {
+        "name": "CASTAWAY DIVA OST Part.2",
+        "url": "https://open.spotify.com/album/2BNNCPXXFjTBBbRYfHJ4ix"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247906,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/7kAs2Dw6ymVkriLrbjtGDD"
+    },
+    {
+      "album": {
         "name": "Butterfly Effect",
         "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
       },
@@ -1772,7 +1790,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 224784,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/3qvfE7DGsIlkWzKMOS4gAm"
@@ -2108,7 +2126,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 255318,
       "name": "DUNE",
       "url": "https://open.spotify.com/track/1ap1yvWJ6xvkHTBUpUi5wA"
@@ -2372,7 +2390,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 232656,
       "name": "Fading Person, Fading Love",
       "url": "https://open.spotify.com/track/64yMSkIEN5JJWUOhtSd3hl"
@@ -3752,6 +3770,24 @@
       "duration_ms": 222021,
       "name": "I.L.Y.",
       "url": "https://open.spotify.com/track/6dS9qNHAeugVQ8noOOExWW"
+    },
+    {
+      "album": {
+        "name": "ICN > YVR",
+        "url": "https://open.spotify.com/album/4bp6czKexS1MZ5wwKJ27yi"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145706,
+      "name": "ICN > YVR",
+      "url": "https://open.spotify.com/track/3SJuomeDUOX6OAWwhH973s"
     },
     {
       "album": {
@@ -5639,6 +5675,24 @@
     },
     {
       "album": {
+        "name": "[VillainS]",
+        "url": "https://open.spotify.com/album/1GWC45tJrcKctt6qtFQHB7"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176570,
+      "name": "OOTD",
+      "url": "https://open.spotify.com/track/2PSqR2dQWllqSPHeUdCp1S"
+    },
+    {
+      "album": {
         "name": "B Sides of Almost Everything",
         "url": "https://open.spotify.com/album/17I4xcG0j2xTx0elLOk7RK"
       },
@@ -7022,7 +7076,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "She",
       "url": "https://open.spotify.com/track/57rt6Jj7woE21ae3Ml2vw8"
@@ -9876,7 +9930,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 242922,
       "name": "\ub0a1\uc740 \uad34\ub2f4 Cumulus",
       "url": "https://open.spotify.com/track/6SGISb2p5ebnvpRUtIaXlr"

@@ -1,12 +1,12 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 47715,
+  "num_followers": 47742,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzY3ZGRkOWZmNjU1OTU2YzhlMGI2ZDRiN2QxZWUwOWJjY2ViNmE5",
+  "snapshot_id": "MCw2ZWNkOGU5NTYwMmJjZjgzYmIyYjQyZTk3YmYzZWY2MzhiMTkyMjA4",
   "tracks": [
     {
       "added_at": "2022-11-12 17:30:07",
@@ -181,6 +181,30 @@
       "url": "https://open.spotify.com/track/10glJ8ARN1G9ESFF9s00yk"
     },
     {
+      "added_at": "2023-11-23 02:54:21",
+      "album": {
+        "name": "La Murga",
+        "url": "https://open.spotify.com/album/1ppMnxEDSUANAOOCEpxQpK"
+      },
+      "artists": [
+        {
+          "name": "Biomigrant",
+          "url": "https://open.spotify.com/artist/5H59BW8KCUmuwDMGVvuatk"
+        },
+        {
+          "name": "Plu Con Pla",
+          "url": "https://open.spotify.com/artist/15OQgyef5dQZArbCVFvOxH"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 262156,
+      "name": "La Murga",
+      "url": "https://open.spotify.com/track/2rOhcW4XLwq7qdJDO30xAQ"
+    },
+    {
       "added_at": "2022-06-07 16:47:23",
       "album": {
         "name": "Ostriconi",
@@ -245,22 +269,6 @@
       "url": "https://open.spotify.com/track/3SKSAX5IZZzCwbMZRsodvs"
     },
     {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Matanza",
-        "url": "https://open.spotify.com/album/53Ckzqd3sEAJ6inu7Vgozq"
-      },
-      "artists": [
-        {
-          "name": "Matanza",
-          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
-        }
-      ],
-      "duration_ms": 368176,
-      "name": "Canto al Fuego",
-      "url": "https://open.spotify.com/track/3R9l60BDCH4pq8iaR44i0O"
-    },
-    {
       "added_at": "2023-03-31 18:10:31",
       "album": {
         "name": "Atl\u00e1ntida",
@@ -283,38 +291,18 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "M\u00e1s Profundo",
-        "url": "https://open.spotify.com/album/0yQsxixiempTlPvQcITFCx"
+        "name": "Matanza",
+        "url": "https://open.spotify.com/album/53Ckzqd3sEAJ6inu7Vgozq"
       },
       "artists": [
         {
-          "name": "Bruxas",
-          "url": "https://open.spotify.com/artist/5NPL2jGG32a4LCnu4koPL7"
+          "name": "Matanza",
+          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
         }
       ],
-      "duration_ms": 372000,
-      "name": "M\u00e1s Profundo",
-      "url": "https://open.spotify.com/track/30DWdX9NQEdfJ07vfGReOt"
-    },
-    {
-      "added_at": "2023-03-31 18:13:24",
-      "album": {
-        "name": "Dubby Sunday",
-        "url": "https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt"
-      },
-      "artists": [
-        {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        },
-        {
-          "name": "Israel Arteaga",
-          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
-        }
-      ],
-      "duration_ms": 348662,
-      "name": "Dubby Sunday",
-      "url": "https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc"
+      "duration_ms": 368176,
+      "name": "Canto al Fuego",
+      "url": "https://open.spotify.com/track/3R9l60BDCH4pq8iaR44i0O"
     },
     {
       "added_at": "2023-03-23 21:34:53",
@@ -339,6 +327,26 @@
       "duration_ms": 395632,
       "name": "Gato Negro - Daniel Hokum & okuma Remix",
       "url": "https://open.spotify.com/track/4lCjFg06zDoSOSFVxSQyzp"
+    },
+    {
+      "added_at": "2023-03-31 18:13:24",
+      "album": {
+        "name": "Dubby Sunday",
+        "url": "https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Israel Arteaga",
+          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
+        }
+      ],
+      "duration_ms": 348662,
+      "name": "Dubby Sunday",
+      "url": "https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -647,6 +655,26 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Bonito",
+        "url": "https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL"
+      },
+      "artists": [
+        {
+          "name": "Mau Moctezuma",
+          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
+        },
+        {
+          "name": "Pedrina",
+          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "Bonito",
+      "url": "https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Magnetica",
         "url": "https://open.spotify.com/album/4RcIb3FX6H4PLqsjzB9onL"
       },
@@ -687,26 +715,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Bonito",
-        "url": "https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL"
-      },
-      "artists": [
-        {
-          "name": "Mau Moctezuma",
-          "url": "https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q"
-        },
-        {
-          "name": "Pedrina",
-          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Bonito",
-      "url": "https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "Sierra Madre (Remix)",
         "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
       },
@@ -735,6 +743,22 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "El Baile de las Ara\u00f1as",
+        "url": "https://open.spotify.com/album/6BHC6zcjaMC9gilqBS68Tw"
+      },
+      "artists": [
+        {
+          "name": "PAAX (Tulum)",
+          "url": "https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd"
+        }
+      ],
+      "duration_ms": 404351,
+      "name": "Elelu Tomassita",
+      "url": "https://open.spotify.com/track/1RGmt75GiXpnUxM1jYeiCW"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "La Tercera Vision",
         "url": "https://open.spotify.com/album/0uGchBfeYkbD9NyK3uKm9X"
       },
@@ -751,22 +775,6 @@
       "duration_ms": 235418,
       "name": "Mano de Fatima",
       "url": "https://open.spotify.com/track/1823wxCop81BdNRMKcfygg"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "El Baile de las Ara\u00f1as",
-        "url": "https://open.spotify.com/album/6BHC6zcjaMC9gilqBS68Tw"
-      },
-      "artists": [
-        {
-          "name": "PAAX (Tulum)",
-          "url": "https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd"
-        }
-      ],
-      "duration_ms": 404351,
-      "name": "Elelu Tomassita",
-      "url": "https://open.spotify.com/track/1RGmt75GiXpnUxM1jYeiCW"
     },
     {
       "added_at": "2022-06-30 17:42:11",
@@ -787,26 +795,6 @@
       "duration_ms": 197733,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
-    },
-    {
-      "added_at": "2023-03-24 19:41:45",
-      "album": {
-        "name": "Ca\u00f1a Brava",
-        "url": "https://open.spotify.com/album/02aqlW1aBYEyhEC4I6lW42"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "NIKOLA",
-          "url": "https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk"
-        }
-      ],
-      "duration_ms": 181134,
-      "name": "Ca\u00f1a Brava",
-      "url": "https://open.spotify.com/track/0hy6YsimguNescPjjijro0"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -857,6 +845,26 @@
       "url": "https://open.spotify.com/track/19TS1MDtT4FT2I5WO3Vdbz"
     },
     {
+      "added_at": "2023-03-24 19:41:45",
+      "album": {
+        "name": "Ca\u00f1a Brava",
+        "url": "https://open.spotify.com/album/02aqlW1aBYEyhEC4I6lW42"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "NIKOLA",
+          "url": "https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk"
+        }
+      ],
+      "duration_ms": 181134,
+      "name": "Ca\u00f1a Brava",
+      "url": "https://open.spotify.com/track/0hy6YsimguNescPjjijro0"
+    },
+    {
       "added_at": "2022-06-07 16:47:23",
       "album": {
         "name": "Tierra",
@@ -875,6 +883,30 @@
       "duration_ms": 215466,
       "name": "Conexi\u00f3n Total",
       "url": "https://open.spotify.com/track/2NC0w4Z6RuW5j7tGTy73E8"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "Venimos",
+        "url": "https://open.spotify.com/album/6LVxpWNwPBJBfZSIotbjJ1"
+      },
+      "artists": [
+        {
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+        },
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        },
+        {
+          "name": "Carolina Camacho",
+          "url": "https://open.spotify.com/artist/0yIk2w5fMTibMpkEUKaaLA"
+        }
+      ],
+      "duration_ms": 211367,
+      "name": "Venimos",
+      "url": "https://open.spotify.com/track/4RZ6HrfPP5ML2L3D7bsPXW"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -911,30 +943,6 @@
       "duration_ms": 172293,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Venimos",
-        "url": "https://open.spotify.com/album/6LVxpWNwPBJBfZSIotbjJ1"
-      },
-      "artists": [
-        {
-          "name": "PAUZA",
-          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
-        },
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        },
-        {
-          "name": "Carolina Camacho",
-          "url": "https://open.spotify.com/artist/0yIk2w5fMTibMpkEUKaaLA"
-        }
-      ],
-      "duration_ms": 211367,
-      "name": "Venimos",
-      "url": "https://open.spotify.com/track/4RZ6HrfPP5ML2L3D7bsPXW"
     },
     {
       "added_at": "2022-06-07 16:47:23",

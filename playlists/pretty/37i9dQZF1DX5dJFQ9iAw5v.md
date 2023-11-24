@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,543 likes - 76 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,553 likes - 76 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 28 | [Eleanor Rigby](https://open.spotify.com/track/4G9yziRWIvfbrHDAScv4jj) | [Valentino Jazz Bazar](https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm) | [Jazz Bazar II \(feat\. Patán Vidal\)](https://open.spotify.com/album/7zFU0yE4XcMWXWSA2kqGLv) | 3:18 |
 | 29 | [Viernes 3AM](https://open.spotify.com/track/2ceqnIhTZQCxWSq25VNxcq) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Adrián Iaies](https://open.spotify.com/artist/38yosjfq6EXdWuWbLSKulh) | [Cinemateca Finlandesa](https://open.spotify.com/album/647GXy8hpppqSMhMOf0To3) | 4:36 |
 | 30 | [Rusty](https://open.spotify.com/track/06k4d1KJ5iokCdTuzdVjCe) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Malosetti & la Colonia](https://open.spotify.com/album/1jtFefqoWo4iItPmaPhGLH) | 3:35 |
-| 31 | [En Busca de la Tierra Sin Mal](https://open.spotify.com/track/4H97jD3blKiD0tdU4PrjLG) | [Lucio Balduini](https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn) | [El Bosque Brillante](https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg) | 3:52 |
-| 32 | [Lago de Forma Mia](https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI) | [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Camino](https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl) | 3:40 |
+| 31 | [Lago de Forma Mia](https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI) | [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Camino](https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl) | 3:40 |
+| 32 | [En Busca de la Tierra Sin Mal](https://open.spotify.com/track/4H97jD3blKiD0tdU4PrjLG) | [Lucio Balduini](https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn) | [El Bosque Brillante](https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg) | 3:52 |
 | 33 | [Caminando Con Audífonos](https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im) | [Pat Nuño](https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN) | [En Las Afueras](https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my) | 3:50 |
 | 34 | [El Regreso \(feat\. Martin Bejerano\)](https://open.spotify.com/track/35YdBVFv2Oij9ve8P6FP5F) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Martin Bejerano](https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb) | [ONTOLOGY](https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS) | 5:45 |
 | 35 | [I'm Beginning to See the Light](https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC) | [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q) | [Love](https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39) | 2:20 |
@@ -78,11 +78,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 68 | [Cafetin de Buenos Aires](https://open.spotify.com/track/1qMFhxqH3pg4op8TcWqDU6) | [Adrian Iaies Trio](https://open.spotify.com/artist/4MKtvJyVxI69nNamN4wWje) | [Las Tardecitas de Miton's](https://open.spotify.com/album/7lWZcmElRhLDZrLVJqSSC4) | 6:08 |
 | 69 | [Bye Bye Blackbird](https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Bye Bye Blackbird](https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v) | 3:08 |
 | 70 | [Pretos](https://open.spotify.com/track/3qU2fhuzoTAHUkKtdcnz1H) | [Ernesto Amstein](https://open.spotify.com/artist/3RtoD2Lg2AMClwewzI109w), [Gabriel Domenicucci](https://open.spotify.com/artist/0RVTCxjrWgfnzamvKD61G0) | [El Ombligo de un Sueño](https://open.spotify.com/album/5WIyPkKZAMMCnzohJQMxkH) | 5:24 |
-| 71 | [Tatami](https://open.spotify.com/track/2o08Et8AGn8tEusatrFYAJ) | [Esteban Sehinkman](https://open.spotify.com/artist/55CHAcVJ8aB6sOY4TbWDJ6), [Matías Méndez](https://open.spotify.com/artist/4Z4xMf2xHuZ6iXpw6Wkhxg), [Pipi Piazzolla](https://open.spotify.com/artist/6vTHQ1JriYIqa3vWMFoI14) | [El Sapo Argentino de Boca Ancha](https://open.spotify.com/album/5IKVW5aNCv3eyoBUM0qENX) | 6:59 |
-| 72 | [A Bajo y Pa'fuera](https://open.spotify.com/track/1uf0lcsMTfUhTRH26gRRkH) | [Sebastián Tozzola](https://open.spotify.com/artist/7jgPBkRiFn2bXumnpBWR1a) | [A Bajo y Pa'fuera](https://open.spotify.com/album/5Tskwr5ZVRstjoh7tCGK4N) | 2:26 |
+| 71 | [A Bajo y Pa'fuera](https://open.spotify.com/track/1uf0lcsMTfUhTRH26gRRkH) | [Sebastián Tozzola](https://open.spotify.com/artist/7jgPBkRiFn2bXumnpBWR1a) | [A Bajo y Pa'fuera](https://open.spotify.com/album/5Tskwr5ZVRstjoh7tCGK4N) | 2:26 |
+| 72 | [Tatami](https://open.spotify.com/track/2o08Et8AGn8tEusatrFYAJ) | [Esteban Sehinkman](https://open.spotify.com/artist/55CHAcVJ8aB6sOY4TbWDJ6), [Matías Méndez](https://open.spotify.com/artist/4Z4xMf2xHuZ6iXpw6Wkhxg), [Pipi Piazzolla](https://open.spotify.com/artist/6vTHQ1JriYIqa3vWMFoI14) | [El Sapo Argentino de Boca Ancha](https://open.spotify.com/album/5IKVW5aNCv3eyoBUM0qENX) | 6:59 |
 | 73 | [Coplas de Luna Quieta](https://open.spotify.com/track/6wehSI1xwaBBy4U3bUUwZs) | [Ignacio Montoya Carlotto](https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK) | [Inocencia Repetida](https://open.spotify.com/album/1ovII6dFGZDpvYU47qu4fX) | 2:37 |
 | 74 | [Equinox](https://open.spotify.com/track/0dZPiN3FTuvYDJtFyFUdqQ) | [Nestor Astarita](https://open.spotify.com/artist/45y1rWlUfzQmyR3RLCHF3x), [Gato Barbieri](https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm) | [80 Años \- Jazztaríaenbaterita](https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo) | 6:53 |
 | 75 | [Nueva Luna, Mundo Arjo \(feat\. Pedro Aznar\)](https://open.spotify.com/track/3Ybi19qv29GlOHkKoCTZ3P) | [Roxana Amed](https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n), [Pedro Aznar](https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6) | [Nueva Luna, Mundo Arjo \(feat\. Pedro Aznar\)](https://open.spotify.com/album/6Nau4XGTWFFJEURJrD8L0g) | 6:36 |
-| 76 | [Estate](https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N) | [Marta Bellomo](https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm), [Alejandro Moro](https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8) | [Algo Bueno \- Something Good](https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5) | 9:32 |
+| 76 | [I Remember Clifford](https://open.spotify.com/track/71xGulRFIDEs2gqk6fSSz2) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Facundo Canosa](https://open.spotify.com/artist/6MorVkOyr0Yc097YejqTiS) | [I Remember Clifford](https://open.spotify.com/album/19YMIWrZTWuSDYzxlzRIqY) | 3:12 |
 
-Snapshot ID: `MCxmN2M1OGRlY2FkYWNmMDNkMzk5MzkzZTZkOTUxYjFiNTllYTExMDk1`
+Snapshot ID: `MCxhNDQyMGNjMTI2Njc1ZjY5ZDFmNWJlNzU4MDJhMjU1ODYyMGVlZTY5`

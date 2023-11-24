@@ -1622,7 +1622,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 180703,
       "name": "HA! Santa!",
       "url": "https://open.spotify.com/track/45PRMPtQ163u47G79aqFbG"
@@ -1986,7 +1986,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 190398,
       "name": "Hoy es Navidad",
       "url": "https://open.spotify.com/track/49DbI00xJF9moLOaJR6r5I"
@@ -2318,7 +2318,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 151153,
       "name": "It's That Time",
       "url": "https://open.spotify.com/track/7akjfnAd7sYaxqSThguSWl"
@@ -2542,7 +2542,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 133206,
       "name": "Jingle Jawn",
       "url": "https://open.spotify.com/track/17ydJLhjI4Vp2XXj2TkdwH"
@@ -2830,7 +2830,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 162953,
       "name": "Little Christmas",
       "url": "https://open.spotify.com/track/3nI2d49zJFC14GpwTnxoOF"
@@ -2866,7 +2866,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 266666,
       "name": "Lofi Canon in D",
       "url": "https://open.spotify.com/track/1XUdHspnTWkZ8ZVtzkQRGU"
@@ -3104,6 +3104,24 @@
       "duration_ms": 134805,
       "name": "Merry Christmas Everyone",
       "url": "https://open.spotify.com/track/2LseCWmzYc9mNZY7AGZ6Qc"
+    },
+    {
+      "album": {
+        "name": "Merry Happy Xmaz",
+        "url": "https://open.spotify.com/album/1SfoKE5P00sB2qhkoAANd4"
+      },
+      "artists": [
+        {
+          "name": "d'Andy",
+          "url": "https://open.spotify.com/artist/6OBQW4uISzDYrUR5dEYhkb"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Merry Happy Xmaz",
+      "url": "https://open.spotify.com/track/2FthMNqnjqQW7pDWzKPu4k"
     },
     {
       "album": {
@@ -3900,10 +3918,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 216219,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/02L3v2yv0v1UB8lB2xhNXd"
+    },
+    {
+      "album": {
+        "name": "Santa Baby",
+        "url": "https://open.spotify.com/album/5ZnyA6A9KQ6TQMPleWR4i6"
+      },
+      "artists": [
+        {
+          "name": "Holiday Beats",
+          "url": "https://open.spotify.com/artist/2UtVsWvYK223O6g10t5zM3"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146224,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/4uakClJG3d1mGaZSPHvR2e"
     },
     {
       "album": {

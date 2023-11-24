@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Riordan
 
-1,352 songs - 3 day 5 hr 21 min
+1,353 songs - 3 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Another Planet \- Bruno's VIP Mix](https://open.spotify.com/track/6FJtJq6fVyADQJurbdDXBc) | [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd), [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [Another Planet \(Bruno's VIP Mix\)](https://open.spotify.com/album/4YgWh4U4JvmwYBAGxJtmQC) | 5:48 | 2023-08-11 | 2023-11-11 |
 | [Apache](https://open.spotify.com/track/3VqcCBJYupv8mu8pHLXqL1) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Apache](https://open.spotify.com/album/6G1TJ6d0Dm8RbggfWjrAAi) | 2:36 | 2023-08-11 | 2023-11-04 |
 | [Aphrodisiac](https://open.spotify.com/track/1aF44sAhhcCOfizdoCGBrT) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Aphrodisiac](https://open.spotify.com/album/7jJWlYWsbcEcaiNwkJcUmO) | 2:36 | 2022-03-25 | 2022-04-23 |
+| [Are You Feeling This?](https://open.spotify.com/track/4dd5zWyjZqBbXaQ0TMeBCb) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc) | [Are You Feeling This? / Stay Focused](https://open.spotify.com/album/0UXIfC3eMOrEJrDqz7fkpK) | 2:46 | 2023-11-17 |  |
 | [Around Me](https://open.spotify.com/track/3vqCl5emqR14MHKxqQAsXH) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR) | [Around Me](https://open.spotify.com/album/74fhAZahEaM6cLlEmVKbCf) | 3:17 | 2023-07-07 | 2023-09-02 |
 | [Asereje](https://open.spotify.com/track/5uNeepsaxfWN63qmsXkyES) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [Enrico Palermo](https://open.spotify.com/artist/3aR0LAXgMD6d6m6dCMuRxj) | [Asereje](https://open.spotify.com/album/4fUJlmLWhrty63jBdsrMI4) | 2:36 | 2023-03-31 | 2023-08-12 |
 | [Attracted](https://open.spotify.com/track/6q2i1xuJRaqncz3x5gb18t) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Attracted](https://open.spotify.com/album/7j8l735NUQPSJS2JK8uV1b) | 3:46 | 2023-06-23 | 2023-09-26 |
@@ -99,7 +100,7 @@
 | [Bailar Riddim](https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Bailar Riddim](https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx) | 3:31 | 2021-11-26 | 2022-01-06 |
 | [Bamboleo](https://open.spotify.com/track/3oV6BW7m5S4SDfWNC2okT5) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Bamboleo](https://open.spotify.com/album/2A98x1rFHHdj1fuPAaluvC) | 3:00 | 2023-02-10 | 2023-05-20 |
 | [Bamboo Spice](https://open.spotify.com/track/0ACp1nQwmJwxQSxO7QxDEu) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Bamboo Spice](https://open.spotify.com/album/1PjO9mqKKEP5O2yMjmOBvs) | 3:38 | 2022-10-28 | 2023-02-04 |
-| [BARBEE \- On Acid](https://open.spotify.com/track/7Ium6Ib92uNyQAJKqlnv9s) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7) | [BARBEE \(On Acid\)](https://open.spotify.com/album/4afcZIEQNtU404MSb03d0h) | 3:28 | 2023-07-21 |  |
+| [BARBEE \- On Acid](https://open.spotify.com/track/7Ium6Ib92uNyQAJKqlnv9s) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7) | [BARBEE \(On Acid\)](https://open.spotify.com/album/4afcZIEQNtU404MSb03d0h) | 3:28 | 2023-07-21 | 2023-11-24 |
 | [Baseline Happiness](https://open.spotify.com/track/0FF9trm5pWMyUeyfP70ga6) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Baseline Happiness](https://open.spotify.com/album/26d46EFUTm8Yo4Z9pU5l6D) | 3:06 | 2023-03-10 | 2023-04-23 |
 | [Basement](https://open.spotify.com/track/7vHxzcZnozXPfGL38WSTnD) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Basement](https://open.spotify.com/album/5CgVD2Zrx4dzAMU5Sqh35Z) | 3:44 | 2022-03-04 | 2022-05-07 |
 | [Bass Club](https://open.spotify.com/track/08ZXJG3HB3NwmNIx9fVCY1) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [Bass Club](https://open.spotify.com/album/2pebS8n2XSGF3QLRl2BpH3) | 3:06 | 2022-01-07 | 2022-04-23 |

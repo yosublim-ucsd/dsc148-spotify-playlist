@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: Farruko, La Factoria & Eddy Lover. ",
-  "num_followers": 690285,
+  "num_followers": 690257,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzUyOTlkZTAxYWFhMDg0Y2Y4NDI3OGFkOTQ1MmUwOTg2MWRhMWMy",
+  "snapshot_id": "MCxjMjc3MzYxNTZmYzVlMDgwNWM1ZTY2MDVkYjAyZTA2YmZkY2VlNjQ0",
   "tracks": [
     {
       "added_at": "2023-11-17 16:14:25",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-11-17 16:14:25",
       "album": {
+        "name": "Me Gusta Tu Flow",
+        "url": "https://open.spotify.com/album/1625TAr0aacB03dTtcLg5W"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "Me Gusta Tu Flow",
+      "url": "https://open.spotify.com/track/1jeaCBXzfpy9kPBuLSQNmo"
+    },
+    {
+      "added_at": "2023-11-17 16:14:25",
+      "album": {
         "name": "Mi Nena Remix",
         "url": "https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 220000,
       "name": "Mi Nena Remix",
       "url": "https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ"
-    },
-    {
-      "added_at": "2023-11-17 16:14:25",
-      "album": {
-        "name": "Me Gusta Tu Flow",
-        "url": "https://open.spotify.com/album/1625TAr0aacB03dTtcLg5W"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "Me Gusta Tu Flow",
-      "url": "https://open.spotify.com/track/1jeaCBXzfpy9kPBuLSQNmo"
     },
     {
       "added_at": "2023-11-17 16:14:25",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-11-17 16:14:25",
       "album": {
-        "name": "Icy Hot",
-        "url": "https://open.spotify.com/album/2rebo6PvPbmBY3KGYT8KzG"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 233052,
-      "name": "En Nadie",
-      "url": "https://open.spotify.com/track/4GMG57GjObFzq79ScDIi7v"
-    },
-    {
-      "added_at": "2023-11-17 16:14:25",
-      "album": {
         "name": "Tucu",
         "url": "https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 186895,
       "name": "Tucu",
       "url": "https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7"
+    },
+    {
+      "added_at": "2023-11-17 16:14:25",
+      "album": {
+        "name": "Icy Hot",
+        "url": "https://open.spotify.com/album/2rebo6PvPbmBY3KGYT8KzG"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 233052,
+      "name": "En Nadie",
+      "url": "https://open.spotify.com/track/4GMG57GjObFzq79ScDIi7v"
     },
     {
       "added_at": "2023-11-17 16:14:25",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2023-11-17 16:14:25",
       "album": {
-        "name": "La Tormenta",
-        "url": "https://open.spotify.com/album/0UZCLEQ1PqcpUKg2n2hh8w"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Servando",
-          "url": "https://open.spotify.com/artist/4dUTDxayFeWfiZzxJNQfDS"
-        }
-      ],
-      "duration_ms": 146332,
-      "name": "La Tormenta",
-      "url": "https://open.spotify.com/track/5DLVjkvxxLJprV4CcXkG02"
-    },
-    {
-      "added_at": "2023-11-17 16:14:25",
-      "album": {
         "name": "El Father",
         "url": "https://open.spotify.com/album/7IRJnAHKeNS3QNqiALYpPb"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 195873,
       "name": "El Father",
       "url": "https://open.spotify.com/track/3l1KMArNsKOR29ppTBhCzw"
+    },
+    {
+      "added_at": "2023-11-17 16:14:25",
+      "album": {
+        "name": "La Tormenta",
+        "url": "https://open.spotify.com/album/0UZCLEQ1PqcpUKg2n2hh8w"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Servando",
+          "url": "https://open.spotify.com/artist/4dUTDxayFeWfiZzxJNQfDS"
+        }
+      ],
+      "duration_ms": 146332,
+      "name": "La Tormenta",
+      "url": "https://open.spotify.com/track/5DLVjkvxxLJprV4CcXkG02"
     },
     {
       "added_at": "2023-11-17 16:14:25",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-11-17 16:14:25",
       "album": {
-        "name": "LA CANCI\u00d3N",
-        "url": "https://open.spotify.com/album/775HIr3RQ0ZfqLVrHr69aI"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 212297,
-      "name": "LA CANCI\u00d3N",
-      "url": "https://open.spotify.com/track/2wIgWVIyA4bzRW6RmdXMoI"
-    },
-    {
-      "added_at": "2023-11-17 16:14:25",
-      "album": {
         "name": "Sr. Santos",
         "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 189000,
       "name": "Entonces",
       "url": "https://open.spotify.com/track/3kZ6jh67FdUaGxKXb1v8G7"
+    },
+    {
+      "added_at": "2023-11-17 16:14:25",
+      "album": {
+        "name": "LA CANCI\u00d3N",
+        "url": "https://open.spotify.com/album/775HIr3RQ0ZfqLVrHr69aI"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 212297,
+      "name": "LA CANCI\u00d3N",
+      "url": "https://open.spotify.com/track/2wIgWVIyA4bzRW6RmdXMoI"
     },
     {
       "added_at": "2023-11-17 16:14:25",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-11-17 16:14:25",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/12nEDX9e0eG6qu6056EPU5"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 284492,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/3CjxGKDPbeRaO8BLnCddyK"
-    },
-    {
-      "added_at": "2023-11-17 16:14:25",
-      "album": {
         "name": "BeSos aL vIEnTo :(",
         "url": "https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 184800,
       "name": "BeSos aL vIEnTo :(",
       "url": "https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3"
+    },
+    {
+      "added_at": "2023-11-17 16:14:25",
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/12nEDX9e0eG6qu6056EPU5"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 284492,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/3CjxGKDPbeRaO8BLnCddyK"
     },
     {
       "added_at": "2023-11-17 16:14:25",
@@ -1903,18 +1903,26 @@
     {
       "added_at": "2023-11-17 16:14:25",
       "album": {
-        "name": "THICK",
-        "url": "https://open.spotify.com/album/7iFPYMnIrLl33MDiZwyb5o"
+        "name": "Cheers to the Best Memories",
+        "url": "https://open.spotify.com/album/15D9ut0TGWReBDq4YRQoZA"
       },
       "artists": [
         {
-          "name": "Kris Floyd",
-          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 139285,
-      "name": "THICK",
-      "url": "https://open.spotify.com/track/4b14BvhPrVDbbpICnw2P9L"
+      "duration_ms": 176030,
+      "name": "Somebody That You Don't Know (feat. Rauw Alejandro)",
+      "url": "https://open.spotify.com/track/0lljBJMLGcTLm5Zn4KxQBH"
     }
   ],
   "unique_name": "Vibras",

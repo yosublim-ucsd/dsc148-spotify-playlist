@@ -1939,6 +1939,32 @@
     },
     {
       "album": {
+        "name": "Njan Evide",
+        "url": "https://open.spotify.com/album/2qiFRk2E8KfCW4Hb7XCp4v"
+      },
+      "artists": [
+        {
+          "name": "Anurag Vinod",
+          "url": "https://open.spotify.com/artist/1A6anyCbedTpsecKOWxPgy"
+        },
+        {
+          "name": "m.cnan",
+          "url": "https://open.spotify.com/artist/012VXrXmrn0tN8aN8AAc5A"
+        },
+        {
+          "name": "Sinsiha",
+          "url": "https://open.spotify.com/artist/2CYKtGApU77sXioXyfd96E"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Njan Evide",
+      "url": "https://open.spotify.com/track/3fMfhQZIu7uF7Z54VI5ODF"
+    },
+    {
+      "album": {
         "name": "Oblivion",
         "url": "https://open.spotify.com/album/4Cqq8afOI5McMl7hQCKYy5"
       },

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Cardinal Moonlight",
+        "url": "https://open.spotify.com/album/7Ckwv4JpZENq4VywyXBQKo"
+      },
+      "artists": [
+        {
+          "name": "Ivan Bielsa",
+          "url": "https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174180,
+      "name": "A Cardinal Moonlight",
+      "url": "https://open.spotify.com/track/7s46C3yeQvTSOehOgtmSCR"
+    },
+    {
+      "album": {
         "name": "A Quiet Message",
         "url": "https://open.spotify.com/album/2oXytMuBdpnQjKnqnSgqdT"
       },
@@ -88,7 +106,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 126875,
       "name": "Across",
       "url": "https://open.spotify.com/track/01xJAa5YF3Ffnw7VHXvTWf"
@@ -546,6 +564,24 @@
       "duration_ms": 159061,
       "name": "Azores",
       "url": "https://open.spotify.com/track/2YN1AKTAJApNLbTyNXrm6j"
+    },
+    {
+      "album": {
+        "name": "Back in the Village",
+        "url": "https://open.spotify.com/album/201oJA5eb4m9kl57WySUIF"
+      },
+      "artists": [
+        {
+          "name": "Cordell Zoe",
+          "url": "https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134653,
+      "name": "Back in the Village",
+      "url": "https://open.spotify.com/track/1ThpkLTeAScDpOmm7NHSec"
     },
     {
       "album": {
@@ -1246,7 +1282,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 163932,
       "name": "Crimson Heart",
       "url": "https://open.spotify.com/track/1u521i6mDeguA5VEhLMhJB"
@@ -1880,7 +1916,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 157812,
       "name": "Enigma",
       "url": "https://open.spotify.com/track/0Pl2gUFcdxy1WyPTC4BdzF"
@@ -2947,6 +2983,24 @@
     },
     {
       "album": {
+        "name": "Lamento",
+        "url": "https://open.spotify.com/album/6G8qzns0DWKeqOcbpGwl9s"
+      },
+      "artists": [
+        {
+          "name": "Valencia Torres",
+          "url": "https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130337,
+      "name": "Lamento",
+      "url": "https://open.spotify.com/track/5Mtm03KO4lvM4qmVEeRYaY"
+    },
+    {
+      "album": {
         "name": "Wunder der Welt",
         "url": "https://open.spotify.com/album/0KpjPdNUuZ0k3CwzSde3Gg"
       },
@@ -2980,6 +3034,24 @@
       "duration_ms": 124250,
       "name": "Lara",
       "url": "https://open.spotify.com/track/14fXKp1owsmQEzlsHFsC4k"
+    },
+    {
+      "album": {
+        "name": "Las Historias",
+        "url": "https://open.spotify.com/album/2iWXPneka6j0isn1Jlyfu7"
+      },
+      "artists": [
+        {
+          "name": "Xavier Suarez",
+          "url": "https://open.spotify.com/artist/4qxGMBS25xDymfWz3kkKOE"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151546,
+      "name": "Las Historias",
+      "url": "https://open.spotify.com/track/3cxw8PTfMwvIomnigDiRDq"
     },
     {
       "album": {
@@ -3348,7 +3420,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 129207,
       "name": "Lozana",
       "url": "https://open.spotify.com/track/1huCke5q1BjT7VxypUCrc6"
@@ -3615,6 +3687,24 @@
     },
     {
       "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/3HsjYM8Niy1SbE4H7w7HtG"
+      },
+      "artists": [
+        {
+          "name": "Tomas North",
+          "url": "https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181443,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/2W1Wmp3VaJxOXVoE9ZZN6J"
+    },
+    {
+      "album": {
         "name": "Mime",
         "url": "https://open.spotify.com/album/2HVnBQwJ22pUVBeCIPqhF6"
       },
@@ -3741,6 +3831,24 @@
     },
     {
       "album": {
+        "name": "Moments with you",
+        "url": "https://open.spotify.com/album/6ozrFm4mb8spn0V08f3GHi"
+      },
+      "artists": [
+        {
+          "name": "Andreas Horschel",
+          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149422,
+      "name": "Moments with you",
+      "url": "https://open.spotify.com/track/3p9wB5uVvsf0BzqY8y0W3X"
+    },
+    {
+      "album": {
         "name": "Montes Claros",
         "url": "https://open.spotify.com/album/4xouEO0NJWhJswiV2Qofy8"
       },
@@ -3849,6 +3957,24 @@
     },
     {
       "album": {
+        "name": "M\u00e9rtola",
+        "url": "https://open.spotify.com/album/3vx3SZudj0S0aS87AlYcRm"
+      },
+      "artists": [
+        {
+          "name": "Kim Rodgers",
+          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181135,
+      "name": "M\u00e9rtola",
+      "url": "https://open.spotify.com/track/6ht9QNV3O5IZGXzX8QXHI0"
+    },
+    {
+      "album": {
         "name": "Naranjas en Diciembre",
         "url": "https://open.spotify.com/album/39HaNigg9oTEiOKusCWz5V"
       },
@@ -3878,7 +4004,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 169257,
       "name": "Next summer",
       "url": "https://open.spotify.com/track/7dHc4WV8xrFGRgExYLzdAU"
@@ -4066,7 +4192,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 127616,
       "name": "Poemas",
       "url": "https://open.spotify.com/track/5HAGuQKDFNwzBb9DrlhcZi"
@@ -4120,7 +4246,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 125097,
       "name": "Poesia",
       "url": "https://open.spotify.com/track/0NynGB7s6MfjI3hPo5dG8Z"
@@ -4336,7 +4462,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 190691,
       "name": "Really Great To Be Here",
       "url": "https://open.spotify.com/track/1A4WdvncZhXXSYJooxgWYJ"
@@ -4380,7 +4506,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 202934,
       "name": "Red Maple Leaves",
       "url": "https://open.spotify.com/track/0I2PBwHOSV64TRDxqvdBIB"
@@ -4603,6 +4729,24 @@
     },
     {
       "album": {
+        "name": "Sanremo",
+        "url": "https://open.spotify.com/album/6rgFGj3GbupAuYNeG38r7f"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154846,
+      "name": "Sanremo",
+      "url": "https://open.spotify.com/track/242E5RUG5gjHgZa7PjOUNg"
+    },
+    {
+      "album": {
         "name": "Santa Fiora",
         "url": "https://open.spotify.com/album/6k4IDURpsjao81eMH4LcHF"
       },
@@ -4730,7 +4874,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 208827,
       "name": "Septiembre",
       "url": "https://open.spotify.com/track/7ofiCGZYGy4MoSTPUG8j79"
@@ -5223,6 +5367,24 @@
     },
     {
       "album": {
+        "name": "Sunrise Close",
+        "url": "https://open.spotify.com/album/3GXHGgVyHKHSRervon4Rur"
+      },
+      "artists": [
+        {
+          "name": "Twilight Place",
+          "url": "https://open.spotify.com/artist/7c53nfQRh1Q743et6xkq1J"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152791,
+      "name": "Sunrise Close",
+      "url": "https://open.spotify.com/track/1ztpA0KFZH4G5gNrLk4sTx"
+    },
+    {
+      "album": {
         "name": "Sunshine In Her Hair",
         "url": "https://open.spotify.com/album/6w6lRqVy3bx8ObKV5mJ11K"
       },
@@ -5386,7 +5548,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 165245,
       "name": "Tel\u00e9maco",
       "url": "https://open.spotify.com/track/3qvKQpE2OLPDqho3DM19N1"
@@ -5498,6 +5660,42 @@
       "duration_ms": 124000,
       "name": "The Ride",
       "url": "https://open.spotify.com/track/6LWt0Sm7MovGMGDioGYqmB"
+    },
+    {
+      "album": {
+        "name": "The small things in life",
+        "url": "https://open.spotify.com/album/6XJEnO611nb1gGDE2kpUPa"
+      },
+      "artists": [
+        {
+          "name": "Steve D",
+          "url": "https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135652,
+      "name": "The small things in life",
+      "url": "https://open.spotify.com/track/77RRa9i2ITwLznWo4Q9HPv"
+    },
+    {
+      "album": {
+        "name": "The Time Traveler",
+        "url": "https://open.spotify.com/album/60UxszwncrUHrHxI7GJ5vM"
+      },
+      "artists": [
+        {
+          "name": "Leandra Costa",
+          "url": "https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174937,
+      "name": "The Time Traveler",
+      "url": "https://open.spotify.com/track/0d1TNdaJWOePFAiSIiZJZ3"
     },
     {
       "album": {
@@ -5858,7 +6056,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 122817,
       "name": "Vals del Poniente",
       "url": "https://open.spotify.com/track/0qV4MeBsY9MvlMVoIGMXi0"
@@ -6208,6 +6406,24 @@
       "duration_ms": 238792,
       "name": "Words Are Poor",
       "url": "https://open.spotify.com/track/0cplAz2yKmEDkb2raqy6xF"
+    },
+    {
+      "album": {
+        "name": "Yesteryear",
+        "url": "https://open.spotify.com/album/5Uu6qKT8FsFyUD0tRDIfxZ"
+      },
+      "artists": [
+        {
+          "name": "Armand Beck",
+          "url": "https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159242,
+      "name": "Yesteryear",
+      "url": "https://open.spotify.com/track/26onATmE5ib4iKkPfvHtnw"
     },
     {
       "album": {

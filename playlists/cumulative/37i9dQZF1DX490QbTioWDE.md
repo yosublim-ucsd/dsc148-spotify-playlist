@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Abel Pintos & Luck Ra.
 
-376 songs - 1 day 0 hr 3 min
+377 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Hoy Te Vas](https://open.spotify.com/track/5fDX6H3NBKVRMHiA60PjtC) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo) | [Hoy Te Vas](https://open.spotify.com/album/6YFtUyBR2HfdjR5HqxDrXB) | 3:28 | 2022-04-22 | 2022-06-21 |
 | [INAUDITO](https://open.spotify.com/track/30Nu2MaRxo4OtAUlStOzdg) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [INAUDITO](https://open.spotify.com/album/536XUCFywd1uWloYlQeXU9) | 3:29 | 2023-04-14 | 2023-05-13 |
 | [Infiel](https://open.spotify.com/track/1F9RwlKTE0QJtKN97EWtM8) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Creo](https://open.spotify.com/album/4ejIXV4SRUWJD43epruUdi) | 3:24 | 2021-12-24 | 2023-09-21 |
-| [Infiel](https://open.spotify.com/track/39qqJRcvRDFjW5S7kyDHoD) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Creo](https://open.spotify.com/album/0WCnZ9J0MeIm4t9WsdpRpJ) | 3:24 | 2023-10-27 |  |
+| [Infiel](https://open.spotify.com/track/39qqJRcvRDFjW5S7kyDHoD) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Creo](https://open.spotify.com/album/0WCnZ9J0MeIm4t9WsdpRpJ) | 3:24 | 2023-10-27 | 2023-11-24 |
 | [Intento](https://open.spotify.com/track/3JbDQzoT18a9NUIfrsZULv) | [Cuarteto del Bueno](https://open.spotify.com/artist/7H74awb9SCsCk8RqQOwPor) | [Intento](https://open.spotify.com/album/5XjBOezcztKwFjVGYcbX1G) | 3:49 | 2021-12-24 | 2022-07-28 |
 | [Intento](https://open.spotify.com/track/4wN40IP16eyq2csEJhQ8SE) | [Cuarteto del Bueno](https://open.spotify.com/artist/7H74awb9SCsCk8RqQOwPor) | [Cuarteto del Bueno](https://open.spotify.com/album/67RyrSXnNtDANyw4j6yK07) | 3:49 | 2022-07-22 | 2023-04-29 |
 | [Intento](https://open.spotify.com/track/4jycbkcVlL5P7W2zGYcau0) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Soy](https://open.spotify.com/album/3GmKxxyzxNaBJlhmDm64Ac) | 3:53 | 2023-09-15 |  |
@@ -188,6 +188,7 @@
 | [Me Duele Tu Nombre \(En Vivo\)](https://open.spotify.com/track/2wZfOHTas2wzIXyp7hquFE) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Me Duele Tu Nombre \(En Vivo\)](https://open.spotify.com/album/5vvPmtVPa5gMyutIquKVTm) | 3:12 | 2021-12-24 | 2023-11-18 |
 | [Me Encanta / Latidos](https://open.spotify.com/track/3Thxy7NVkqg97PVWLrlt2n) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Me Encanta / Latidos](https://open.spotify.com/album/3wsVKXC06eJiTL43eMgceJ) | 3:50 | 2023-01-13 | 2023-04-12 |
 | [Me Extrañarás](https://open.spotify.com/track/1e4PRJWfSorO7RLgqDRvYR) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Me Extrañarás](https://open.spotify.com/album/366XQK2TfrjoWv17w2B9eD) | 4:17 | 2021-12-24 | 2022-07-29 |
+| [Me levante](https://open.spotify.com/track/0DGJyRo4L8p3AAz1WmUoZ3) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [No me pueden parar](https://open.spotify.com/album/7jwj5GOWFKWl0HNQErZi3N) | 3:28 | 2023-11-17 |  |
 | [Me Levanté](https://open.spotify.com/track/0VyS8re7IhTDbpZmKrKfv2) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Me Levanté](https://open.spotify.com/album/2mHs7EdBXg7dMkFvDMZC9d) | 3:28 | 2022-08-12 | 2023-11-04 |
 | [Me Va Bien Sin Ti](https://open.spotify.com/track/2bblMFEQCjeFbzM4KqKBfr) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Me Va Bien Sin Ti](https://open.spotify.com/album/6tZZNZsTNHmOSrtGtzCtDy) | 3:01 | 2022-06-10 | 2022-12-08 |
 | [Me Voy](https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Me Voy](https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd) | 3:16 | 2021-12-24 | 2023-08-05 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 
 ### [Apéro !](https://open.spotify.com/playlist/37i9dQZF1DWZk2SPZ3bugX)
 
-> La bande\-son de votre apéro\. Santé !
+> 🍾
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,892 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,902 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 | 59 | [In My Head](https://open.spotify.com/track/381x7xMIdqXgCnkpoMX2X7) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [In My Head](https://open.spotify.com/album/1A8aK9FTyjeX0bJU1uOgaG) | 3:13 |
 | 60 | [Fragments of Time \(feat\. Todd Edwards\)](https://open.spotify.com/track/0IedgQjjJ8Ad4B3UDQ5Lyn) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 4:39 |
 
-Snapshot ID: `MCwwOGViYzM1ZjE5N2ZiZDcxNGJlNjZlMDc1ZWVhNjc4MzJhZGE4Mjgw`
+Snapshot ID: `MCxlMDc4YzIwOWFhMGNhNTAyNTlhMjEyNDNiZDVjMjQwOTY1YjVjNTkw`

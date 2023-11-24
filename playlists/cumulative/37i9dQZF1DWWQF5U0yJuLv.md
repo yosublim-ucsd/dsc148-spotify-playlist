@@ -4,7 +4,7 @@
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-157 songs - 11 hr 38 min
+158 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 3:48 | 2023-02-17 |  |
 | [Flim](https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx) | 2:57 | 2023-02-17 |  |
 | [Flutter](https://open.spotify.com/track/5K8WNrf5JvmBE6O0MbSRuJ) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 4:44 | 2023-02-17 |  |
-| [Fol\-de\-rol](https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 3:48 | 2023-02-17 |  |
+| [Fol\-de\-rol](https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 3:48 | 2023-02-17 | 2023-11-24 |
 | [For Marmish](https://open.spotify.com/track/5fxl9rZa5KyzDdw8LDKbTb) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Elaenia](https://open.spotify.com/album/51QBkcL7S3KYdXSSA0zM9R) | 5:46 | 2023-02-17 |  |
 | [From The Seams](https://open.spotify.com/track/1JnBldJPPq06C2OPpapjPz) | [Tristan Arp](https://open.spotify.com/artist/5PvxHyYKtHsyyI5XjdqnD9) | [Sculpturegardening](https://open.spotify.com/album/4emr9Zigmx0ZzqXF2FGEs3) | 4:17 | 2023-02-17 |  |
 | [Good Places](https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Good Places](https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8) | 4:26 | 2023-02-17 |  |
@@ -69,6 +69,7 @@
 | [Haynes Manor](https://open.spotify.com/track/1kcv0g6lPgGBGOPUSofwxq) | [Rich Ruth](https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl) | [Calming Signals](https://open.spotify.com/album/3N2laGpXXnE29bfqpERjsR) | 5:06 | 2023-02-17 |  |
 | [Head Above The Parakeets](https://open.spotify.com/track/1F7wFVvXwazyZdy4jq3Bj8) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/6SJSwXUsU7XAuI32YfX2iC) | 7:16 | 2023-02-17 |  |
 | [Herr Bar](https://open.spotify.com/track/1t86Aqm7uk30h9vVOl5c9h) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Body Riddle](https://open.spotify.com/album/3ofEXRsMidOzWed9dZsqfg) | 3:54 | 2023-02-17 |  |
+| [Honsu](https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay) | [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm), [Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Candid](https://open.spotify.com/album/2dZ4PzloNP6kuApH6WRdK8) | 5:48 | 2023-11-23 |  |
 | [I Can't Die as Well](https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45) | [Fire\-Toolz](https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o) | [I Can't Die as Well](https://open.spotify.com/album/2EnPEXGeSR82AuXVVUA7ok) | 2:25 | 2023-02-17 |  |
 | [I Had Too Much to Dream Last Night](https://open.spotify.com/track/0z8i5oCBPR9MLFrvxO2JpI) | [The Space Lady](https://open.spotify.com/artist/6KUKRy1D49ZxwfSFPcV7WF) | [The Space Lady's Greatest Hits](https://open.spotify.com/album/5jHqrml3maWBldVlyzFjKh) | 4:35 | 2023-02-17 |  |
 | [Ikiru](https://open.spotify.com/track/4DoD7xxnOmsxNyH57jue9y) | [Thoma](https://open.spotify.com/artist/4e8ExN8iJrXnycI51N1Cxb) | [Ikiru](https://open.spotify.com/album/18fNJzLNa7AJfp96UnWZgj) | 3:43 | 2023-02-17 |  |

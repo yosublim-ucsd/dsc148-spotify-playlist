@@ -203,6 +203,28 @@
     },
     {
       "album": {
+        "name": "DIAMONDS & FREAKS (Instrumentals)",
+        "url": "https://open.spotify.com/album/3UMOiCQYUwXsjmHwTjbgP2"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269474,
+      "name": "ADAM & EVE - Instrumental",
+      "url": "https://open.spotify.com/track/3zSLn3yfCLqlcVibx9zqwv"
+    },
+    {
+      "album": {
         "name": "Lonely Girl",
         "url": "https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO"
       },
@@ -5101,6 +5123,24 @@
     },
     {
       "album": {
+        "name": "Love Vibe and Learn",
+        "url": "https://open.spotify.com/album/7esU7PfctSuckvtAz97Gdx"
+      },
+      "artists": [
+        {
+          "name": "Noflik",
+          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132187,
+      "name": "Love Vibe and Learn",
+      "url": "https://open.spotify.com/track/13ErCwuebmVrM0kEyiTmoG"
+    },
+    {
+      "album": {
         "name": "Synchronicty",
         "url": "https://open.spotify.com/album/4QN6IgCdZjGE8SQK63ef7R"
       },
@@ -8112,7 +8152,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 180000,
       "name": "stained glass",
       "url": "https://open.spotify.com/track/1CZGGAMZ8L8K7KixFUvrDS"
@@ -8670,7 +8710,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 91768,
       "name": "The Night I Drank Too Much",
       "url": "https://open.spotify.com/track/3gnc0simp5IpXLUKCcEehE"

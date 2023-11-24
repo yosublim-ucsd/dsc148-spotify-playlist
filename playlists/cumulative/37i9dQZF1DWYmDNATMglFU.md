@@ -2,9 +2,9 @@
 
 ### [The Locker](https://open.spotify.com/playlist/37i9dQZF1DWYmDNATMglFU)
 
-> it's a generation ⛓ ft\. Charlotte Sands
+> it's a generation ⛓ ft\. Towa Bird
 
-675 songs - 1 day 9 hr 51 min
+677 songs - 1 day 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [AFTER THE CLUB](https://open.spotify.com/track/0yxQt41w1nvE7fkK0XWP7U) | [LESANE](https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L) | [AFTER THE CLUB](https://open.spotify.com/album/5mWdrXFRw3baF8VkhnzIab) | 2:23 | 2022-10-13 | 2022-11-18 |
 | [AFTER THERAPY \(feat\. Hot Mulligan\)](https://open.spotify.com/track/5xLv5i7u2e4uT3Ewgvkr8Z) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI), [Extra Large Holiday Card](https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe) | [AFTER THERAPY \(feat\. Hot Mulligan\)](https://open.spotify.com/album/69miU2ZUNDbOpyqUziOHFS) | 2:21 | 2022-03-25 | 2022-05-13 |
 | [AHHHH!](https://open.spotify.com/track/6Pfma5baS7P2EIjn3Htj9q) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [AHHHH!](https://open.spotify.com/album/3c58AoCgrcGD0kF2PAxo1F) | 2:24 | 2022-01-07 | 2022-03-25 |
+| [AI \(Save Yourself\)](https://open.spotify.com/track/2MrnJVZSGAzz1IobfPEwHv) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [AI \(Save Yourself\)](https://open.spotify.com/album/2PcWCQtSCQea2SDQbJmuqO) | 3:08 | 2023-11-24 |  |
 | [Airhead](https://open.spotify.com/track/3Gsn1htwAx5KGY8SRjtIfs) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Retrovision](https://open.spotify.com/album/4IiWkF0yCGFHGudJ98hV7f) | 2:43 | 2023-09-28 |  |
 | [Airhead](https://open.spotify.com/track/5inDa524Pc1x4NJmyrZ5pp) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Airhead](https://open.spotify.com/album/3FIv6ePul9uNwJ8Qs6iY45) | 2:43 | 2023-03-24 | 2023-10-05 |
 | [Alameda County Fair](https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Alameda County Fair](https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P) | 2:27 | 2023-06-29 | 2023-08-04 |
@@ -442,6 +443,7 @@
 | [ONE NATION UNDERDOGS](https://open.spotify.com/track/0rlcL9H8ZJUEDQ3N0tmTZf) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 1: the blueprint](https://open.spotify.com/album/0otIBMv5zMV7ikDvfWCD3r) | 3:32 | 2023-05-25 |  |
 | [ONLY FANS](https://open.spotify.com/track/3k3hPsyEiJovWqmwwQ3nR9) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [3](https://open.spotify.com/album/10LJ6xc4AmjUcXOSKwkFfn) | 1:36 | 2023-03-30 | 2023-06-02 |
 | [ONLY FANS](https://open.spotify.com/track/799apJE8jCPHt96YotvOfI) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [3](https://open.spotify.com/album/1Etoiql9stygnFngHYH0a3) | 1:36 | 2023-03-24 | 2023-04-07 |
+| [Only This Could Happen To Me](https://open.spotify.com/track/4tkNRCnN7TGV1ukMfIXuaU) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Karaoke Sellouts](https://open.spotify.com/album/6HinBdxcvcnRmm4QKvDP1d) | 3:24 | 2023-11-24 |  |
 | [Outlook](https://open.spotify.com/track/0CrmP1WCDoi6nWm0Bn49cy) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Outlook](https://open.spotify.com/album/1cNp3BCSszUndzImSMZw07) | 3:51 | 2023-04-20 | 2023-05-26 |
 | [OVER YOUR DEAD BODY](https://open.spotify.com/track/33SO5use9IdF2g0lrcSj3l) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [A Call To The Void](https://open.spotify.com/album/3zhyT62LXkBpycohrjER5s) | 3:45 | 2023-08-24 |  |
 | [Overdrive](https://open.spotify.com/track/707tiOrq4dd0Ytno2G8rBx) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [follow:noise](https://open.spotify.com/album/4qEoK6TngEPWbVIezdE2JN) | 2:57 | 2023-06-01 | 2023-08-18 |

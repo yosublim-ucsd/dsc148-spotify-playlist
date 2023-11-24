@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Edwin Rosen",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Provinz, ENNIO",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -496,7 +496,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 193979,
       "name": "Alles brennt",
       "url": "https://open.spotify.com/track/5uV6ftXE1C8zCexmCDBVIO"
@@ -590,7 +590,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 157744,
       "name": "Alles unter gro\u00df ist mir zu klein",
       "url": "https://open.spotify.com/track/5H5JWvy5SbbP8vCZzdbW9Y"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 195126,
       "name": "Anfangen Anzufangen",
       "url": "https://open.spotify.com/track/3RDUMFPvbK27yEHavWmn7w"
@@ -662,7 +662,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 181226,
       "name": "Au Revoir",
       "url": "https://open.spotify.com/track/4R1iDijT9onBwaZvWafYy1"
@@ -2138,7 +2138,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 195066,
       "name": "emma",
       "url": "https://open.spotify.com/track/2RvLlxea9woaqb2ZLgAmv7"
@@ -2156,7 +2156,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 181493,
       "name": "Endlich wieder da wo es beginnt",
       "url": "https://open.spotify.com/track/7BGNum6Rn6W1e3sJgHXWPE"
@@ -2196,6 +2196,24 @@
       "duration_ms": 134822,
       "name": "Er oder Sie oder Du",
       "url": "https://open.spotify.com/track/1ojpWs42lG7y9FlB0xQXPk"
+    },
+    {
+      "album": {
+        "name": "Eriesee",
+        "url": "https://open.spotify.com/album/6DMuFFVCGF6nAdrs2X1Yhw"
+      },
+      "artists": [
+        {
+          "name": "ANOKI",
+          "url": "https://open.spotify.com/artist/3EhgyxwXCxedAWunhIwSFx"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187351,
+      "name": "Eriesee",
+      "url": "https://open.spotify.com/track/4rlSGxZkAnnD8nqUusFRyq"
     },
     {
       "album": {
@@ -2424,7 +2442,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 159272,
       "name": "Fenster auf Kipp",
       "url": "https://open.spotify.com/track/06JHBPAAEf3wJmTVAFLxAS"
@@ -2716,7 +2734,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 132613,
       "name": "F\u00fcrdichw\u00fcrdich",
       "url": "https://open.spotify.com/track/2N5okxps0l2aLu01uWYE0H"
@@ -3099,6 +3117,24 @@
     },
     {
       "album": {
+        "name": "Maschinenmensch EP",
+        "url": "https://open.spotify.com/album/0aB1rZ0lKJU3dIea7UkFrf"
+      },
+      "artists": [
+        {
+          "name": "RAR",
+          "url": "https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172888,
+      "name": "Gute Laune",
+      "url": "https://open.spotify.com/track/2U7pU29GBhIGMzifxGcOvV"
+    },
+    {
+      "album": {
         "name": "Gute Wut",
         "url": "https://open.spotify.com/album/2aYNsnZu9hEyStnICEvLl7"
       },
@@ -3372,6 +3408,24 @@
       "duration_ms": 185443,
       "name": "Ich Feier (feat. DISSY)",
       "url": "https://open.spotify.com/track/3PjOhZBUKPJcpDFHM1yVUJ"
+    },
+    {
+      "album": {
+        "name": "ich f\u00fchl nix",
+        "url": "https://open.spotify.com/album/71XURvc8OHrIcyn66mhjbW"
+      },
+      "artists": [
+        {
+          "name": "Trille",
+          "url": "https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136958,
+      "name": "ich f\u00fchl nix",
+      "url": "https://open.spotify.com/track/0mJoSoRUK42lC5OoxS9dcV"
     },
     {
       "album": {
@@ -3750,6 +3804,28 @@
       "duration_ms": 231985,
       "name": "Ist schon ok",
       "url": "https://open.spotify.com/track/2bj4uIB30s0hm9G4d5wo6b"
+    },
+    {
+      "album": {
+        "name": "James Blake",
+        "url": "https://open.spotify.com/album/5PVKyMewYidIhvFGpiGeNW"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        },
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224146,
+      "name": "James Blake",
+      "url": "https://open.spotify.com/track/6wjiWdFdfcyZNikqjqb9vu"
     },
     {
       "album": {
@@ -4635,6 +4711,24 @@
     },
     {
       "album": {
+        "name": "luft holen",
+        "url": "https://open.spotify.com/album/4CIKBFFca7KrnGo1bNmETg"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146346,
+      "name": "luft holen",
+      "url": "https://open.spotify.com/track/4IvZk9sjOkN8cG8kL710GI"
+    },
+    {
+      "album": {
         "name": "mama",
         "url": "https://open.spotify.com/album/0woCQIR6wZrT1AxnTUYdpz"
       },
@@ -4856,7 +4950,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 108111,
       "name": "mir gef\u00e4llt",
       "url": "https://open.spotify.com/track/1j6LYk5ABAgTTswEKDnhn6"
@@ -5109,6 +5203,24 @@
     },
     {
       "album": {
+        "name": "sch\u00f6nheit die in schmerzen liegt",
+        "url": "https://open.spotify.com/album/0VHB5d6cpwtQi6KZ2UZfUB"
+      },
+      "artists": [
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171453,
+      "name": "neue welt",
+      "url": "https://open.spotify.com/track/4BahctFbZ15m6Yw1ZsSOuq"
+    },
+    {
+      "album": {
         "name": "Nicht gern allein",
         "url": "https://open.spotify.com/album/5eBnFfpvZhq0XEnPnm7aZy"
       },
@@ -5164,6 +5276,24 @@
       "duration_ms": 219000,
       "name": "Nichts Macht Mich Kaputt",
       "url": "https://open.spotify.com/track/4apYkUv1eTKQZ3hHuGS8Kh"
+    },
+    {
+      "album": {
+        "name": "Nie Alleine",
+        "url": "https://open.spotify.com/album/2ANwVGIl6ZHIXlR1rHp4Cf"
+      },
+      "artists": [
+        {
+          "name": "Katha Pauer",
+          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139880,
+      "name": "Nie Alleine",
+      "url": "https://open.spotify.com/track/1xDGU2uFva0NWwQwjabhzR"
     },
     {
       "album": {
@@ -5258,7 +5388,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 197618,
       "name": "nie wieder normal",
       "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
@@ -5391,6 +5521,28 @@
     },
     {
       "album": {
+        "name": "Offline",
+        "url": "https://open.spotify.com/album/2tZZnHcwcJsJ7NbSLKLaAd"
+      },
+      "artists": [
+        {
+          "name": "MOA",
+          "url": "https://open.spotify.com/artist/1E7MNGR2FctfNRyFwWLcCY"
+        },
+        {
+          "name": "Juli Gilde",
+          "url": "https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210194,
+      "name": "Offline",
+      "url": "https://open.spotify.com/track/7Jpjui3BOS3fYqKYzddHm4"
+    },
+    {
+      "album": {
         "name": "F\u00dcR IMMER",
         "url": "https://open.spotify.com/album/058sfd5ZUogzHNpujalOXa"
       },
@@ -5428,6 +5580,24 @@
       "duration_ms": 138056,
       "name": "One Call away <3",
       "url": "https://open.spotify.com/track/0c1NsAvtTncDw7TlPB7Nkh"
+    },
+    {
+      "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/3H10cUuEaI4jIxNiZfQAGz"
+      },
+      "artists": [
+        {
+          "name": "KLAN",
+          "url": "https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177248,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/0uLs9eBvzMfs6pjPM251TB"
     },
     {
       "album": {
@@ -6064,7 +6234,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 224591,
       "name": "Rote Flaggen",
       "url": "https://open.spotify.com/track/7bkUa9kDFGxgCC7d36dzFI"
@@ -6144,6 +6314,24 @@
       "duration_ms": 197694,
       "name": "Sch**\u00df Stadt",
       "url": "https://open.spotify.com/track/6SmPXc1DxYdjcSWJQ5Exmx"
+    },
+    {
+      "album": {
+        "name": "Schere Stein Papier",
+        "url": "https://open.spotify.com/album/2wp0GmMLB4NOjQRLySIDR2"
+      },
+      "artists": [
+        {
+          "name": "George JR",
+          "url": "https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165597,
+      "name": "Schere Stein Papier",
+      "url": "https://open.spotify.com/track/35rLzOjaDt0k9L0JwndPYh"
     },
     {
       "album": {
@@ -6803,6 +6991,24 @@
     },
     {
       "album": {
+        "name": "Spaghetti",
+        "url": "https://open.spotify.com/album/3CJpdZXe7e9O52KWkEUFRu"
+      },
+      "artists": [
+        {
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127206,
+      "name": "Spaghetti (bitte k\u00fcss mich)",
+      "url": "https://open.spotify.com/track/14a2h2TpfHk3wj7WZBH91W"
+    },
+    {
+      "album": {
         "name": "Endstation",
         "url": "https://open.spotify.com/album/6xryVW2EPOunePnaCH1NIW"
       },
@@ -7317,6 +7523,24 @@
     },
     {
       "album": {
+        "name": "ultimate team",
+        "url": "https://open.spotify.com/album/2tPPLrYM3yYqUWiiDZqk5p"
+      },
+      "artists": [
+        {
+          "name": "WEIL",
+          "url": "https://open.spotify.com/artist/5heeoV9KT4ygkJRc7BvWcu"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148588,
+      "name": "ultimate team",
+      "url": "https://open.spotify.com/track/3CMpFys8sKu5Y1Wtp1HLis"
+    },
+    {
+      "album": {
         "name": "Unendlichkeit",
         "url": "https://open.spotify.com/album/0DDedQfbStXhO5HzFh4uC3"
       },
@@ -7647,6 +7871,24 @@
     },
     {
       "album": {
+        "name": "wach",
+        "url": "https://open.spotify.com/album/6vjAfMjTD4vrwDgbATh3YF"
+      },
+      "artists": [
+        {
+          "name": "Tiavo",
+          "url": "https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167662,
+      "name": "wach",
+      "url": "https://open.spotify.com/track/2WEjGIRQeAAlHktRdZUjfN"
+    },
+    {
+      "album": {
         "name": "Wahnsinn mich zu lieben",
         "url": "https://open.spotify.com/album/6WFKsMRaWcmwG7SRxYGHmD"
       },
@@ -7712,7 +7954,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 152594,
       "name": "was du brauchst (st.pauli)",
       "url": "https://open.spotify.com/track/0evN6KOmUZVaZue7ca0ce1"
@@ -8073,6 +8315,24 @@
     },
     {
       "album": {
+        "name": "wie gewohnt",
+        "url": "https://open.spotify.com/album/74aqJlOey90kFhlnIOvjYB"
+      },
+      "artists": [
+        {
+          "name": "Vince",
+          "url": "https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190210,
+      "name": "wie gewohnt",
+      "url": "https://open.spotify.com/track/3CqVlTbDzynkn00LO5PgM7"
+    },
+    {
+      "album": {
         "name": "Wie lang",
         "url": "https://open.spotify.com/album/3QLqXwmTBLdIEYPhMzxmvo"
       },
@@ -8110,7 +8370,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 136216,
       "name": "wie papier",
       "url": "https://open.spotify.com/track/6CVik5FWKhct0VwMit0rfr"
@@ -8186,7 +8446,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 202496,
       "name": "wozu",
       "url": "https://open.spotify.com/track/0IotItWNpsM4iuKqxPcJBo"

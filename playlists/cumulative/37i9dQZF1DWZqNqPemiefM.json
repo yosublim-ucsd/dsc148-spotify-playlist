@@ -899,6 +899,24 @@
     },
     {
       "album": {
+        "name": "Birds Behind the Piano",
+        "url": "https://open.spotify.com/album/6qVSLxvS3kikidRcU3bF9P"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193183,
+      "name": "Birds Behind the Piano",
+      "url": "https://open.spotify.com/track/6AlQgRhDyo1LlwBWNxQpzN"
+    },
+    {
+      "album": {
         "name": "Blessing day",
         "url": "https://open.spotify.com/album/6EUviBJfmgJuMzxpsPqWi8"
       },
@@ -1534,7 +1552,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 203040,
       "name": "Contrast",
       "url": "https://open.spotify.com/track/7F5kSxc7LxDdvq0XA9YYid"
@@ -2386,7 +2404,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 136124,
       "name": "Floating",
       "url": "https://open.spotify.com/track/5Zala3EsVj5ZLpQdvlIX2M"
@@ -2548,7 +2566,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 242551,
       "name": "Fragment",
       "url": "https://open.spotify.com/track/2IPgfIisrvoZ9gfjjgIiMo"
@@ -2874,6 +2892,24 @@
       "duration_ms": 503840,
       "name": "Hair Air",
       "url": "https://open.spotify.com/track/62x6xXMy8stPbofzR9zQMb"
+    },
+    {
+      "album": {
+        "name": "all of this music was produced on the airplane",
+        "url": "https://open.spotify.com/album/3Afy6UInF0JzKJBVuKZjOf"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "haneda",
+      "url": "https://open.spotify.com/track/6sdgXmN5ZiCQKxYxvCYgf0"
     },
     {
       "album": {
@@ -3660,7 +3696,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 214727,
       "name": "JJ",
       "url": "https://open.spotify.com/track/5mDMtKrEbFyVwdLMqLS7jO"
@@ -3970,7 +4006,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 145824,
       "name": "lighthouse",
       "url": "https://open.spotify.com/track/75bwkrAjDrR1sI9Cij1fUZ"
@@ -4132,7 +4168,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 193640,
       "name": "Love is a personal thing",
       "url": "https://open.spotify.com/track/0e21dU60bjeKeOntw8Pg1O"
@@ -4334,7 +4370,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-02",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "memory lane",
       "url": "https://open.spotify.com/track/21Bs2xbk1KbbzqIGPnboV9"
@@ -5192,7 +5228,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 160008,
       "name": "pacific oceanap",
       "url": "https://open.spotify.com/track/5n5VPlLd25pZm7MmVeB8NL"
@@ -5308,7 +5344,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 295505,
       "name": "Past From - Rebelski Remix",
       "url": "https://open.spotify.com/track/1pGAxg8f3DBIcXbJE7EvZJ"
@@ -5760,7 +5796,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 439878,
       "name": "Rev.3",
       "url": "https://open.spotify.com/track/24L5wD0DUMyGVk8iJQFg6L"
@@ -6302,7 +6338,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 299200,
       "name": "Selves",
       "url": "https://open.spotify.com/track/5pkvDUPmXkTuzE5eH52dxI"
@@ -6534,6 +6570,24 @@
       "duration_ms": 354466,
       "name": "Sleep, Dream, Optimize",
       "url": "https://open.spotify.com/track/0f27KznlSYrbaTTfbVqItp"
+    },
+    {
+      "album": {
+        "name": "Grinning Cat",
+        "url": "https://open.spotify.com/album/2FbuxPAPLIssaTRB0WCWAH"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164160,
+      "name": "Sleepy Eye",
+      "url": "https://open.spotify.com/track/0oRADajeX8yslHA6lpASTf"
     },
     {
       "album": {
@@ -6804,7 +6858,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 379561,
       "name": "Stars",
       "url": "https://open.spotify.com/track/0k7UbZFOcNSebBda0H52rT"
@@ -6970,7 +7024,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-08",
+      "date_removed": null,
       "duration_ms": 431502,
       "name": "Stratum",
       "url": "https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV"

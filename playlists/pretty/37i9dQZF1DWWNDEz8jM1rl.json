@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 119288,
+  "num_followers": 119319,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWUxM2Q0ZGFlYzAzMjk2MTE4NjZlMjY2YzQwNjc1MjBmMGMzMjBj",
+  "snapshot_id": "MCwyOTk4NmQ4ZGYzMzMzZWM4MjliNTZlNzM4NGFjZGRkMGE1OTVjOGQ5",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Contigo Todo Es Posible",
-        "url": "https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2"
-      },
-      "artists": [
-        {
-          "name": "Redimidos",
-          "url": "https://open.spotify.com/artist/09J01ekgESe5aPS6Dgr2F7"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "Vivo por Cristo",
-      "url": "https://open.spotify.com/track/1uqbbNbQf2vpYEXeLR5W5d"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Alegr\u00eda y Gozo 2020",
         "url": "https://open.spotify.com/album/7eaEia0ipy3eub1E8Gf4Jx"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 229272,
       "name": "Una Se\u00f1al",
       "url": "https://open.spotify.com/track/5l5MmlrPtEGxkhDttuAI8C"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Contigo Todo Es Posible",
+        "url": "https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2"
+      },
+      "artists": [
+        {
+          "name": "Redimidos",
+          "url": "https://open.spotify.com/artist/09J01ekgESe5aPS6Dgr2F7"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "Vivo por Cristo",
+      "url": "https://open.spotify.com/track/1uqbbNbQf2vpYEXeLR5W5d"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Solo Bachata",
-        "url": "https://open.spotify.com/album/3r3NL0WmDLp0gpR8TGifhd"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Rios",
-          "url": "https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl"
-        }
-      ],
-      "duration_ms": 301320,
-      "name": "Cuando Se Acaba El Amor",
-      "url": "https://open.spotify.com/track/2FXKO3yAmNgFE3GcNsuJDd"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Lo Que Dice El Alma",
         "url": "https://open.spotify.com/album/6diQlol7c5bsMCk85RXRgu"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "No Hay Nada Imposible",
-        "url": "https://open.spotify.com/album/3S7tVmHEPScYVF1gflAkI6"
+        "name": "Solo Bachata",
+        "url": "https://open.spotify.com/album/3r3NL0WmDLp0gpR8TGifhd"
       },
       "artists": [
         {
-          "name": "Javier Maldonado",
-          "url": "https://open.spotify.com/artist/773eYjENFwQa4WWsahVm76"
+          "name": "Giovanni Rios",
+          "url": "https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl"
         }
       ],
-      "duration_ms": 295360,
-      "name": "Espiritu De Dios",
-      "url": "https://open.spotify.com/track/3PchABMkZW9CPTrKiS2IOV"
+      "duration_ms": 301320,
+      "name": "Cuando Se Acaba El Amor",
+      "url": "https://open.spotify.com/track/2FXKO3yAmNgFE3GcNsuJDd"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -715,6 +699,22 @@
       "duration_ms": 175455,
       "name": "Armon\u00eda",
       "url": "https://open.spotify.com/track/2y4Hu4zHZIvdfuRd5zdnRM"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "No Hay Nada Imposible",
+        "url": "https://open.spotify.com/album/3S7tVmHEPScYVF1gflAkI6"
+      },
+      "artists": [
+        {
+          "name": "Javier Maldonado",
+          "url": "https://open.spotify.com/artist/773eYjENFwQa4WWsahVm76"
+        }
+      ],
+      "duration_ms": 295360,
+      "name": "Espiritu De Dios",
+      "url": "https://open.spotify.com/track/3PchABMkZW9CPTrKiS2IOV"
     },
     {
       "added_at": "2020-09-18 05:02:00",

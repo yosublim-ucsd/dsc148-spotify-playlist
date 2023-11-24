@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف:<a href="https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52?si=v7EAopWETMqME3LXKcLsdw">  مصطفى حجاج </a>
 
-229 songs - 17 hr 7 min
+230 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Hatgawez Tany](https://open.spotify.com/track/3EdA1dPSjYxVSXEqbUGP1O) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Bosy](https://open.spotify.com/artist/5qLw7iz4Ttj3cR07fE3gBZ) | [Hatgawez Tany](https://open.spotify.com/album/5lL7ZvSulnMBdVCMLsZRrA) | 3:29 | 2021-12-16 | 2022-07-28 |
 | [Haty Bosa Ya Beet](https://open.spotify.com/track/6uGJrcFOMI6Z2PIh1i8F3x) | [Osama Ghaly](https://open.spotify.com/artist/3Qlvqpn3QapW1ZZwbvoAxz) | [Osama Ghaly Collection](https://open.spotify.com/album/4jBwuzCtVOJisHosxBu9oN) | 3:53 | 2021-12-30 | 2023-05-12 |
 | [Hayel](https://open.spotify.com/track/3M6afnLlWJX36aEWnQoRoj) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Hayel](https://open.spotify.com/album/7aNsmE7MTPD6xH4QVCB5NW) | 5:55 | 2021-12-16 | 2022-07-29 |
-| [Hayfout Alek](https://open.spotify.com/track/7hRVdE7Ta0wNiYHIySnUOZ) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Hayfout Alek](https://open.spotify.com/album/6SQj9WllIr9VpJdx4umi6u) | 4:12 | 2021-12-16 |  |
+| [Hayfout Alek](https://open.spotify.com/track/7hRVdE7Ta0wNiYHIySnUOZ) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Hayfout Alek](https://open.spotify.com/album/6SQj9WllIr9VpJdx4umi6u) | 4:12 | 2021-12-16 | 2023-11-24 |
 | [Hob Meen](https://open.spotify.com/track/5pz9YaGFn6iV84WC8Xo4Jw) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Hob Meen](https://open.spotify.com/album/5e5OLpxaXSoDHsRTDjdUZw) | 3:41 | 2022-07-01 | 2023-03-30 |
 | [Hob Meen](https://open.spotify.com/track/7gu14Vuorsw57sz5tHeG57) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Ya Bay](https://open.spotify.com/album/0p4kpGpxg5vjnvMX7ndZGp) | 3:41 | 2023-02-16 | 2023-09-02 |
 | [Ka3by 3aly](https://open.spotify.com/track/5tTt5pPpFdOpD5Gt7NoeXq) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Ka3by 3aly](https://open.spotify.com/album/7CYpwnb7rCR0f7qFug771Y) | 3:25 | 2023-06-15 |  |
@@ -152,6 +152,7 @@
 | [الجدع](https://open.spotify.com/track/65iBEzBlfrnq5bomk0H3Yt) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [الجدع](https://open.spotify.com/album/4uQI74QdNzXydIZjk26zuR) | 3:49 | 2021-12-16 | 2022-07-29 |
 | [الجدع](https://open.spotify.com/track/7oaqaNAe0kXQUe2oBugT8O) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [الجدع](https://open.spotify.com/album/1OXDd4jZ6djLOxHIwOj4s0) | 3:49 | 2022-07-14 | 2023-05-12 |
 | [الجدعنة](https://open.spotify.com/track/20Al2SXH2t2M0hfbQelm8H) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc), [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [الجدعنة](https://open.spotify.com/album/0mEgEkPb9YX5Sd6buu5omT) | 5:30 | 2021-12-16 | 2022-12-21 |
+| [الجدعنه](https://open.spotify.com/track/45pq6F78VuQ4niCJXRFbHu) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc), [احمد سعد](https://open.spotify.com/artist/0ONMTwxxQh5MJoIcTN3xld) | [الجدعنه](https://open.spotify.com/album/0kEBjzI9r6jDtMCUd0TgTg) | 5:30 | 2023-11-23 |  |
 | [الجو ولع](https://open.spotify.com/track/0vzm1POq1H0JVHwSOaufio) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [الجو ولع](https://open.spotify.com/album/4fI2rUMGuMonjwntO2YgUW) | 3:34 | 2023-06-27 |  |
 | [الحنين والمعلم](https://open.spotify.com/track/4fcFD3cOSNnyDs1GH97rQS) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [الحنين والمعلم](https://open.spotify.com/album/4UuqcNEutgvA1kKMmh6uye) | 2:33 | 2023-05-11 |  |
 | [الدنيا زى المرجيحة](https://open.spotify.com/track/1vRKDZtuIgUQvfq1PvtwBY) | [عمرو السعيد](https://open.spotify.com/artist/50uquiqMmLZCaWwyuO84pg) | [الدنيا زى المرجيحة](https://open.spotify.com/album/1d9t3nnfhkQCy8NOMSeMVF) | 4:56 | 2021-12-16 | 2022-07-29 |

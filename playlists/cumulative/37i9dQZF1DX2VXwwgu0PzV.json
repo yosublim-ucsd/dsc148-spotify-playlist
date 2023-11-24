@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover: <a href=\"https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9?si=SVvhxL2sQ5KCcdvThocsrQ\">Marizu</a> ",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover: <a href=\"https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf?si=142KHl8DQJqxey_zQJW4kA\">Pastor Courage</a> ",
   "name": "Youth Service",
   "tracks": [
     {
@@ -50,6 +50,32 @@
       "duration_ms": 172800,
       "name": "123",
       "url": "https://open.spotify.com/track/0ptBqpX6cwm1U0zjwjzg3i"
+    },
+    {
+      "album": {
+        "name": "23SZN",
+        "url": "https://open.spotify.com/album/0Ht7zFCqCiSyglwMeQmhEm"
+      },
+      "artists": [
+        {
+          "name": "WiseJohn",
+          "url": "https://open.spotify.com/artist/6UAoiex2MBHDdhLVr2foQu"
+        },
+        {
+          "name": "Favblings",
+          "url": "https://open.spotify.com/artist/0nUqiVKvYLkuqgYWLVTZSI"
+        },
+        {
+          "name": "Photizo",
+          "url": "https://open.spotify.com/artist/37SQpQ58OXMe2bsqkan9dV"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174064,
+      "name": "23SZN",
+      "url": "https://open.spotify.com/track/1CpYSSYi16s7YVnPozPDtm"
     },
     {
       "album": {
@@ -1369,6 +1395,28 @@
     },
     {
       "album": {
+        "name": "Era Of Light",
+        "url": "https://open.spotify.com/album/1LEMW0mMMJXsIHDTsRfg48"
+      },
+      "artists": [
+        {
+          "name": "Jo Deep",
+          "url": "https://open.spotify.com/artist/6JmdRYb0w7KXprNnxUOj8o"
+        },
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287028,
+      "name": "Christ is Reason - Live",
+      "url": "https://open.spotify.com/track/7eoK6tdL9l3399hjj7HkF9"
+    },
+    {
+      "album": {
         "name": "Clear the Hold Up",
         "url": "https://open.spotify.com/album/1r2URzUCOcvnwE6DZt8zs0"
       },
@@ -2028,6 +2076,54 @@
       "duration_ms": 169285,
       "name": "Dey Play",
       "url": "https://open.spotify.com/track/7ahQayCflONbnl4uD1qjHk"
+    },
+    {
+      "album": {
+        "name": "DITFK (Do it for the King)",
+        "url": "https://open.spotify.com/album/3VQb6OLg5lq1Y7PZotxKrN"
+      },
+      "artists": [
+        {
+          "name": "Shadrach SBS",
+          "url": "https://open.spotify.com/artist/2eKjftX5gKorRAzO2ECBtb"
+        },
+        {
+          "name": "Kidd Lee",
+          "url": "https://open.spotify.com/artist/0M120oS8JMyuyba6YoweKS"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91820,
+      "name": "DITFK (Do it for the King)",
+      "url": "https://open.spotify.com/track/0RhDNxkypORUcETtRzpM3O"
+    },
+    {
+      "album": {
+        "name": "Do You Know Jesus?",
+        "url": "https://open.spotify.com/album/7hhYpFCgnlJaSsbuVPHxQq"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Pillar YRR",
+          "url": "https://open.spotify.com/artist/62jRIwQ6eUifptPOGRBHqd"
+        },
+        {
+          "name": "Lekan Salamii",
+          "url": "https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155218,
+      "name": "Do You Know Jesus?",
+      "url": "https://open.spotify.com/track/2cZuuJ61c7qSct57or0h9Y"
     },
     {
       "album": {
@@ -2874,7 +2970,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 262467,
       "name": "Fear Of God",
       "url": "https://open.spotify.com/track/4suQfEsmdDRFEEGty1KBaq"
@@ -3168,7 +3264,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 142733,
       "name": "For Days",
       "url": "https://open.spotify.com/track/1eAnuw6ZvT4PpI93kwZImV"
@@ -3260,6 +3356,24 @@
       "duration_ms": 153469,
       "name": "For my mind",
       "url": "https://open.spotify.com/track/1ykZVCAmpFWSfpa3ROMd1f"
+    },
+    {
+      "album": {
+        "name": "Formula 1",
+        "url": "https://open.spotify.com/album/5tEiXnkdcYcSGZyGPuaDDH"
+      },
+      "artists": [
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158999,
+      "name": "Formula 1",
+      "url": "https://open.spotify.com/track/7qJtU5f9m6yulehi4GjktK"
     },
     {
       "album": {
@@ -4680,7 +4794,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 170631,
       "name": "I Will Pray",
       "url": "https://open.spotify.com/track/7EeZuxPhKcHu6awLk7s5c0"
@@ -6529,6 +6643,28 @@
     },
     {
       "album": {
+        "name": "My Race",
+        "url": "https://open.spotify.com/album/14sRUUD8WKaINl3E8RKKcq"
+      },
+      "artists": [
+        {
+          "name": "Phrv",
+          "url": "https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq"
+        },
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "My Race",
+      "url": "https://open.spotify.com/track/3avHchHg8ik9FzU5nqoFVd"
+    },
+    {
+      "album": {
         "name": "My Story",
         "url": "https://open.spotify.com/album/23AQ5yGbDMNicVmjP885QD"
       },
@@ -6774,6 +6910,28 @@
       "duration_ms": 154285,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6OLL50q31uu23zvlCc4MtY"
+    },
+    {
+      "album": {
+        "name": "NOBODY",
+        "url": "https://open.spotify.com/album/4Ol0vyjNORjlXdMzS5zNp7"
+      },
+      "artists": [
+        {
+          "name": "LC Beatz",
+          "url": "https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149203,
+      "name": "NOBODY",
+      "url": "https://open.spotify.com/track/5Jf1U7ne9nukbiu3cvJ15B"
     },
     {
       "album": {
@@ -7251,6 +7409,24 @@
     },
     {
       "album": {
+        "name": "One For The Lord",
+        "url": "https://open.spotify.com/album/5i2EM4EzcNUNXGrgs3Olbk"
+      },
+      "artists": [
+        {
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177632,
+      "name": "One For The Lord",
+      "url": "https://open.spotify.com/track/4cbknUhuVwOqKDZ2s4dAbp"
+    },
+    {
+      "album": {
         "name": "One Man",
         "url": "https://open.spotify.com/album/5VuQssebynhavqj4dNefr5"
       },
@@ -7502,6 +7678,28 @@
       "duration_ms": 191180,
       "name": "Plenty",
       "url": "https://open.spotify.com/track/2lhVYASv5dCOhfYSg5AIoE"
+    },
+    {
+      "album": {
+        "name": "Power!",
+        "url": "https://open.spotify.com/album/4pfmAYc826fsTXZFuyjmHN"
+      },
+      "artists": [
+        {
+          "name": "Paul-Emmanuel",
+          "url": "https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3"
+        },
+        {
+          "name": "Monaze",
+          "url": "https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169142,
+      "name": "Power!",
+      "url": "https://open.spotify.com/track/5RaEgWiAidZ9yURGd9FABZ"
     },
     {
       "album": {
@@ -8550,7 +8748,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 152941,
       "name": "Steppin' Again",
       "url": "https://open.spotify.com/track/4sdCEHKxKt6HIoZEgC0Go4"
@@ -8920,7 +9118,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 195882,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/1jSHuG8UuSHITdKR8EqtrE"
@@ -9402,7 +9600,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 201599,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/1RhhWmeGXnBzhgQMvABtVO"

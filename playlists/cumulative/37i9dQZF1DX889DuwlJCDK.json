@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 216517,
       "name": "Identify",
       "url": "https://open.spotify.com/track/7eHQ769Mbys4ALmMnpDE2p"
@@ -1950,7 +1950,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 230898,
       "name": "Peppermint Gum",
       "url": "https://open.spotify.com/track/0ALSxIhd5E0qfXBum5AQCa"
@@ -3376,6 +3376,24 @@
       "duration_ms": 238426,
       "name": "\u30b7\u30e7\u30fc\u30c8\u3082\u30ed\u30f3\u30b0\u3082\u30dc\u30d6\u3082\u597d\u304d",
       "url": "https://open.spotify.com/track/5BUFnbDTtTylcv9vx6pldW"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30ea\u30a6\u30b9",
+        "url": "https://open.spotify.com/album/0plJiPGiUmQK6p6e3aVCZq"
+      },
+      "artists": [
+        {
+          "name": "Lym",
+          "url": "https://open.spotify.com/artist/3SWyAul5G9USA1NNHC39G0"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245589,
+      "name": "\u30b7\u30ea\u30a6\u30b9",
+      "url": "https://open.spotify.com/track/0jVaDhPm3liQS5i3CHORRK"
     },
     {
       "album": {
@@ -4964,6 +4982,24 @@
       "duration_ms": 273160,
       "name": "\u65e5\u5e38\u9769\u547d",
       "url": "https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT"
+    },
+    {
+      "album": {
+        "name": "\u661f\u306b\u9858\u3044\u3092 / \u597d\u304d\u3058\u3083\u306a\u3044",
+        "url": "https://open.spotify.com/album/4ShahhhLaUhLsbkG87LSbv"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30eb\u30b3\u30b5\u30a4\u30c8",
+          "url": "https://open.spotify.com/artist/7hk5b4YhnFsoCX8OFZQ58s"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248900,
+      "name": "\u661f\u306b\u9858\u3044\u3092",
+      "url": "https://open.spotify.com/track/0k7KoX5n7gTNQM1cBU07nx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,029 likes - 360 songs - 15 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,172 likes - 360 songs - 15 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 35 | [Lay All Your Love On Me](https://open.spotify.com/track/3bjM6KcvV1MwkAm7DJQb9O) | [loafers](https://open.spotify.com/artist/4O8EiXZbelscSDs7TgOXHc), [Badjack](https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM), [Maxim Schunk](https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB) | [Lay All Your Love On Me](https://open.spotify.com/album/5JsvDPpSwOB2CgxUxGzy5T) | 2:35 |
 | 36 | [Everytime We Touch](https://open.spotify.com/track/3GHVBPMCBK125Z0g5N8aBz) | [Frank Moody](https://open.spotify.com/artist/0ZL2OZFfHk4BiwnnPKsD3e), [Sam Giancana](https://open.spotify.com/artist/6jJ3jEaGTuUHfBI6ndwAnI), [Round Light](https://open.spotify.com/artist/3Fww7SwFqe9RvMQlfeYhef) | [Everytime We Touch](https://open.spotify.com/album/55Ix923tDdUj2F86APGpoj) | 2:37 |
 | 37 | [Running Up That Hill](https://open.spotify.com/track/19bd9C4chs2pqC5Yvot3V4) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ), [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Running Up That Hill](https://open.spotify.com/album/1dAlYiRKyMXDZDpp99z99c) | 2:18 |
-| 38 | [Worth It](https://open.spotify.com/track/2g5CTJ1G3e8GPG6m0iGtFr) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Nightcore](https://open.spotify.com/artist/4T7P7W7Jp191exHszNy0iz), [Speed Sounds](https://open.spotify.com/artist/0UHwc0fsSqyZSzbVgR8hwm) | [Worth It](https://open.spotify.com/album/74FlFbZ0TVF9sBZm6HIwxi) | 2:20 |
+| 38 | [Worth It](https://open.spotify.com/track/74gxiJiHqw0DqeWskmKJvK) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [KAJAK](https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt) | [Worth It](https://open.spotify.com/album/4NzrSVtldz8w7hEFG39Maz) | 2:20 |
 | 39 | [How You Remind Me](https://open.spotify.com/track/2SqCxbiL0ClhKZgIQxAgK0) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Captain Curtis](https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR) | [How You Remind Me](https://open.spotify.com/album/0W6erefb8fRvnBVvfxCS1P) | 2:28 |
 | 40 | [Another Baby \(feat\. Marion Woodseth\)](https://open.spotify.com/track/1oXJLzqbxQb2IPF2l6q3Mb) | [SMYLES](https://open.spotify.com/artist/7bCRnTi1yDFfLbDFkMqvaS), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Marion Woodseth](https://open.spotify.com/artist/53he6pSbK4fLNP29lfqCwC) | [Another Baby \(feat\. Marion Woodseth\)](https://open.spotify.com/album/4P0Lw8y1ZBHIU2uCcJns3a) | 2:45 |
 | 41 | [Summertime Sadness \(ft\. LoLo Rachelle\)](https://open.spotify.com/track/6xUiHpq8015RRN13lQnxcl) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [LoLo Rachelle](https://open.spotify.com/artist/6n8kKKocJKrqXmDWwHsys4) | [Summertime Sadness \(ft\. LoLo Rachelle\)](https://open.spotify.com/album/34PkkzbeNyMmrmr8MV23Qv) | 2:45 |
@@ -369,4 +369,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 359 | [Never Gonna Give You Up](https://open.spotify.com/track/4dJYjR2lM6SmYfLw2mnHvb) | [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Never Gonna Give You Up](https://open.spotify.com/album/5OFnJusx08l3GHN4Y9VgGj) | 2:45 |
 | 360 | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/track/0Tp3sIeg6YsqDbRyjYWNUu) | [Syzz](https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ) | [Gimme Gimme Gimme \(a man after midnight\)](https://open.spotify.com/album/11ZI2tdT8PX0k93wK434Jb) | 2:32 |
 
-Snapshot ID: `MCwxMWIwYjVjOGRiZjhlMjE1MWVhMTdjNDcyNGFmY2ExZjJkYWI1Njg4`
+Snapshot ID: `MCw4MDdiYmViMjRjODU1ZjlhMzNlY2JiNzNjMjM1MjlmNWI5OGU3M2Fi`

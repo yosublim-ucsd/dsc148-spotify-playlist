@@ -1,12 +1,12 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 10436,
+  "num_followers": 10444,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGY2M2JhNzk1OWFhZjYyZjdjZWM2MDZjNTNiOTJlNzVjYjdiNDMw",
+  "snapshot_id": "MCxmMGRhNDMxOTRmN2RhMzI3ZjIzNjFkN2UyZjRiOGMzZDE2YzAxZjA1",
   "tracks": [
     {
       "added_at": "2023-11-10 03:03:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Nocturnal Fear",
-        "url": "https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP"
-      },
-      "artists": [
-        {
-          "name": "RHR",
-          "url": "https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6"
-        }
-      ],
-      "duration_ms": 336400,
-      "name": "Colapso",
-      "url": "https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Criptogramas",
         "url": "https://open.spotify.com/album/3VcGCItNhMLK3PG6bthKVu"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 333103,
       "name": "Criptogramas",
       "url": "https://open.spotify.com/track/3DDPknKZvBbb98U1zEDN0w"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Nocturnal Fear",
+        "url": "https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP"
+      },
+      "artists": [
+        {
+          "name": "RHR",
+          "url": "https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6"
+        }
+      ],
+      "duration_ms": 336400,
+      "name": "Colapso",
+      "url": "https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Kengaral Eletrohits, Vol. 2",
-        "url": "https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC"
-      },
-      "artists": [
-        {
-          "name": "Diaz",
-          "url": "https://open.spotify.com/artist/0iT0OQnrYcfJ5nCee7jbGX"
-        }
-      ],
-      "duration_ms": 247083,
-      "name": "Passa a Lata de L\u00f3lo",
-      "url": "https://open.spotify.com/track/3j3Qy9Xc8Lpy5xxZ0nwgRq"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Rock The Box",
         "url": "https://open.spotify.com/album/15RTVs764De4RhPcuu03li"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 382204,
       "name": "Rock The Box - Original",
       "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Kengaral Eletrohits, Vol. 2",
+        "url": "https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC"
+      },
+      "artists": [
+        {
+          "name": "Diaz",
+          "url": "https://open.spotify.com/artist/0iT0OQnrYcfJ5nCee7jbGX"
+        }
+      ],
+      "duration_ms": 247083,
+      "name": "Passa a Lata de L\u00f3lo",
+      "url": "https://open.spotify.com/track/3j3Qy9Xc8Lpy5xxZ0nwgRq"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -723,26 +723,18 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Ch\u00e1 de trombeta",
-        "url": "https://open.spotify.com/album/3v6CT4nFEl2aUw0E5CY2Zp"
+        "name": "N\u00f3dulo",
+        "url": "https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb"
       },
       "artists": [
         {
           "name": "Entropia-Entalpia",
           "url": "https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e"
-        },
-        {
-          "name": "Fel C",
-          "url": "https://open.spotify.com/artist/2y6nJKuBcPdakXmgggiGo4"
-        },
-        {
-          "name": "Bica",
-          "url": "https://open.spotify.com/artist/3ZlQplsw3GzQQximvP0vgU"
         }
       ],
-      "duration_ms": 420000,
-      "name": "Ch\u00e1 de trombeta",
-      "url": "https://open.spotify.com/track/1pw1Jq2XPSyQNgdz3xplV5"
+      "duration_ms": 453333,
+      "name": "Sobre Tum Tum Ta",
+      "url": "https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -779,34 +771,18 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "VA IFN 001 - Techno Concept",
-        "url": "https://open.spotify.com/album/4lwp9JmCU7CxpDPp1HF0L6"
+        "name": "Passo",
+        "url": "https://open.spotify.com/album/4JOhes3NGK2zgGx78Pimv5"
       },
       "artists": [
         {
-          "name": "Mau Maioli",
-          "url": "https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS"
+          "name": "Nelson D",
+          "url": "https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof"
         }
       ],
-      "duration_ms": 311129,
-      "name": "Fixity - Original Mix",
-      "url": "https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Bajolo Vol. I",
-        "url": "https://open.spotify.com/album/6fh8K2jIvzokVcWbr7kkhx"
-      },
-      "artists": [
-        {
-          "name": "Carrot Green",
-          "url": "https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY"
-        }
-      ],
-      "duration_ms": 384480,
-      "name": "Vou Pra Longe (Floatin')",
-      "url": "https://open.spotify.com/track/7KxarymbMmEiz8Cae7RwMZ"
+      "duration_ms": 156363,
+      "name": "Passo",
+      "url": "https://open.spotify.com/track/2WORt2lp1EbXTED385XziR"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -835,18 +811,34 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Passo",
-        "url": "https://open.spotify.com/album/4JOhes3NGK2zgGx78Pimv5"
+        "name": "Bajolo Vol. I",
+        "url": "https://open.spotify.com/album/6fh8K2jIvzokVcWbr7kkhx"
       },
       "artists": [
         {
-          "name": "Nelson D",
-          "url": "https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof"
+          "name": "Carrot Green",
+          "url": "https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY"
         }
       ],
-      "duration_ms": 156363,
-      "name": "Passo",
-      "url": "https://open.spotify.com/track/2WORt2lp1EbXTED385XziR"
+      "duration_ms": 384480,
+      "name": "Vou Pra Longe (Floatin')",
+      "url": "https://open.spotify.com/track/7KxarymbMmEiz8Cae7RwMZ"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "VA IFN 001 - Techno Concept",
+        "url": "https://open.spotify.com/album/4lwp9JmCU7CxpDPp1HF0L6"
+      },
+      "artists": [
+        {
+          "name": "Mau Maioli",
+          "url": "https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS"
+        }
+      ],
+      "duration_ms": 311129,
+      "name": "Fixity - Original Mix",
+      "url": "https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -871,18 +863,26 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "N\u00f3dulo",
-        "url": "https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb"
+        "name": "Ch\u00e1 de trombeta",
+        "url": "https://open.spotify.com/album/3v6CT4nFEl2aUw0E5CY2Zp"
       },
       "artists": [
         {
           "name": "Entropia-Entalpia",
           "url": "https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e"
+        },
+        {
+          "name": "Fel C",
+          "url": "https://open.spotify.com/artist/2y6nJKuBcPdakXmgggiGo4"
+        },
+        {
+          "name": "Bica",
+          "url": "https://open.spotify.com/artist/3ZlQplsw3GzQQximvP0vgU"
         }
       ],
-      "duration_ms": 453333,
-      "name": "Sobre Tum Tum Ta",
-      "url": "https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46"
+      "duration_ms": 420000,
+      "name": "Ch\u00e1 de trombeta",
+      "url": "https://open.spotify.com/track/1pw1Jq2XPSyQNgdz3xplV5"
     },
     {
       "added_at": "2023-11-10 03:03:00",

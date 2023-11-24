@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 
 > Disfrutemos del amor en los tiempos del rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,465 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,517 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yaR5d7FkNX.md) - [plain]
 | 99 | [Alto Riesgo](https://open.spotify.com/track/6mBGhOa2l2bltOh12QiHbl) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Alto Riesgo](https://open.spotify.com/album/5gXL83O1KlPQoJRAWkUMM2) | 3:27 |
 | 100 | [Amar No Es Poseer](https://open.spotify.com/track/3MhHgwjIvlWhg64zcwJlhx) | [Sol Flamingo](https://open.spotify.com/artist/2Ya7gUo3eaJQy56EZHOIhr) | [Amar No Es Poseer](https://open.spotify.com/album/2KO7mImTyuul1RLM8XRb1m) | 3:19 |
 
-Snapshot ID: `MCxlMGFhZTBjZjE5Y2MyZWM2ZmJmYTRhNGY4ZTRhYjc2MmNmZmE1ZWNi`
+Snapshot ID: `MCwzMTZmNzc5ODgwZmE3NjMxYjhjNDY1N2Y0NTMwMTJjYzA0NDEwZjhk`

@@ -634,7 +634,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 223347,
       "name": "Cali",
       "url": "https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl"
@@ -3058,6 +3058,24 @@
       "duration_ms": 260711,
       "name": "Rock the Casbah (Ranking Roger)",
       "url": "https://open.spotify.com/track/3BlBgTuUlGKFO9EhhnJZhA"
+    },
+    {
+      "album": {
+        "name": "Theatre of the Absurd presents C'est La Vie",
+        "url": "https://open.spotify.com/album/1EO1QMwEOJQk36fMQFTbvN"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258105,
+      "name": "Round We Go",
+      "url": "https://open.spotify.com/track/6fTchomRuRO8Rtzlgfp6jA"
     },
     {
       "album": {

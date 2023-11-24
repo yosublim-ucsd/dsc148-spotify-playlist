@@ -386,7 +386,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 187500,
       "name": "Belongs to You - EDM Remix",
       "url": "https://open.spotify.com/track/2KCyx1wmIdWUwJPM7LItHS"
@@ -2454,7 +2454,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 185959,
       "name": "Nobody Like You (feat. CalledOut Music) - Radio Edit",
       "url": "https://open.spotify.com/track/69dmysQe6AgLJM4FepdiiJ"
@@ -3450,7 +3450,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 194181,
       "name": "Suo M\u00e9",
       "url": "https://open.spotify.com/track/4ItJnL2F1kAyk1GFiyB8kS"
@@ -3852,6 +3852,32 @@
       "duration_ms": 201599,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/1RhhWmeGXnBzhgQMvABtVO"
+    },
+    {
+      "album": {
+        "name": "What He Says",
+        "url": "https://open.spotify.com/album/1jJ1jrDmtORosDh9Uc3XY9"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        },
+        {
+          "name": "Tjsarx",
+          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131527,
+      "name": "What He Says",
+      "url": "https://open.spotify.com/track/6K5t19OfWRrRTsvBk5u8Od"
     },
     {
       "album": {

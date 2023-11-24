@@ -2141,6 +2141,24 @@
     },
     {
       "album": {
+        "name": "Salvaje Freestyle",
+        "url": "https://open.spotify.com/album/2SfpP4iFulsCAUvNGI3ofg"
+      },
+      "artists": [
+        {
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101142,
+      "name": "Salvaje Freestyle",
+      "url": "https://open.spotify.com/track/4OfPBWngzn8ZXb0LemRhdK"
+    },
+    {
+      "album": {
         "name": "Samokan / Called Ur Bluff",
         "url": "https://open.spotify.com/album/3HBAQ3u2uez5BFfrzyIkzA"
       },

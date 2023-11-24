@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,135 likes - 118 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,132 likes - 118 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 | 18 | [Inno](https://open.spotify.com/track/2exAKnDc96TYgcySwQe5lY) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [Inno](https://open.spotify.com/album/6o8hZNZB0cQKkIqobZWutg) | 2:05 |
 | 19 | [End Of Us](https://open.spotify.com/track/0HzYFF9wRz7CiVfag6yvi2) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Break Of Day](https://open.spotify.com/album/1izp4JeZb5r3bPSIQVCv0o) | 2:52 |
 | 20 | [Le Pavillon de la Reine](https://open.spotify.com/track/6jOdFXJqt6tRo6enDPseg4) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Le Pavillon de la Reine](https://open.spotify.com/album/0PJUpmgSckPipfkFiN8UAI) | 2:30 |
-| 21 | [La vie sans tempête](https://open.spotify.com/track/443UYWttxhi3XVPHaD261k) | [Thaisa Deboys](https://open.spotify.com/artist/1mIbAzEXDPLycJNcDcck5B) | [La vie sans tempête](https://open.spotify.com/album/013YBPhL4svBS05w8IEoNK) | 2:17 |
-| 22 | [A Sweet Portrait](https://open.spotify.com/track/3tWMxyyVYEFZDHhvQa2CtY) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [A Sweet Portrait](https://open.spotify.com/album/1BbCTjpeM7eKKLQwpNUzDl) | 2:27 |
-| 23 | [Fields of nothing](https://open.spotify.com/track/2ITekY6iizrWwOa0mlP8nZ) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Fields of nothing](https://open.spotify.com/album/5ey0j3lFSmX5DjQoHjTeGz) | 2:25 |
-| 24 | [When You Came Along](https://open.spotify.com/track/5ZXGt5CWPJZow2IMyVjGMn) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [When You Came Along](https://open.spotify.com/album/5pJ21xOidRFlu3EPbuiKEJ) | 2:06 |
+| 21 | [A Sweet Portrait](https://open.spotify.com/track/3tWMxyyVYEFZDHhvQa2CtY) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [A Sweet Portrait](https://open.spotify.com/album/1BbCTjpeM7eKKLQwpNUzDl) | 2:27 |
+| 22 | [Fields of nothing](https://open.spotify.com/track/2ITekY6iizrWwOa0mlP8nZ) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Fields of nothing](https://open.spotify.com/album/5ey0j3lFSmX5DjQoHjTeGz) | 2:25 |
+| 23 | [When You Came Along](https://open.spotify.com/track/5ZXGt5CWPJZow2IMyVjGMn) | [Jonnie Snoilsky](https://open.spotify.com/artist/5ycCOf6NSQtvIFdrscOuU4) | [When You Came Along](https://open.spotify.com/album/5pJ21xOidRFlu3EPbuiKEJ) | 2:06 |
+| 24 | [La vie sans tempête](https://open.spotify.com/track/443UYWttxhi3XVPHaD261k) | [Thaisa Deboys](https://open.spotify.com/artist/1mIbAzEXDPLycJNcDcck5B) | [La vie sans tempête](https://open.spotify.com/album/013YBPhL4svBS05w8IEoNK) | 2:17 |
 | 25 | [Luz de la tarde](https://open.spotify.com/track/3DKBcKpkpmPpp9WUjvpPCn) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Luz de la tarde](https://open.spotify.com/album/3MEwyUjJPURTeJqL1RcEas) | 2:02 |
 | 26 | [The Dust Settles](https://open.spotify.com/track/0EVXNRFGjdC9xap72VhV7C) | [Andrei Smirnova](https://open.spotify.com/artist/6wLqG3xZFWS0M5pFimbbyr) | [The Dust Settles](https://open.spotify.com/album/06u42yAuNFUuzO2CLrJWCh) | 2:27 |
 | 27 | [Magic Wind](https://open.spotify.com/track/77ekrhV3OHhwaTO4CNoFo5) | [Al McCain](https://open.spotify.com/artist/1oyb8StNAS9nsBNHOKlqpN) | [Moods](https://open.spotify.com/album/0RAExk1jIs0Q9CSso8uAR8) | 2:02 |
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 | 51 | [A symptom of love](https://open.spotify.com/track/5txD37iFI1bEZAmYg0vr2R) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [A symptom of love](https://open.spotify.com/album/72fvxb5dOABnoE2hVI6qi3) | 2:30 |
 | 52 | [Ewigkeit](https://open.spotify.com/track/5fIrdZt2rk3TSmvogAo8vj) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Ewigkeit](https://open.spotify.com/album/5G2pAHBGgJMnoasJSrxCmW) | 2:40 |
 | 53 | [San Tropez](https://open.spotify.com/track/2RjR06sl1N1GVii5Vts7TP) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [San Tropez](https://open.spotify.com/album/7hYM36cQRk7nHmb01n54ts) | 2:22 |
-| 54 | [You're Not Alone](https://open.spotify.com/track/4ROmwACfJCiGMBioN6k0m5) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [You're Not Alone](https://open.spotify.com/album/0xDfnkhHwktefc4MmHrXuR) | 2:23 |
-| 55 | [Blue Sky Within](https://open.spotify.com/track/3J0KOnk8DvN6eWvNbsqp2w) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [Blue Sky Within](https://open.spotify.com/album/7LqvVXIQHzAu5SrJsrDaWg) | 3:06 |
-| 56 | [luce della città](https://open.spotify.com/track/1CZjaS4Gvcrrd1oH7k5C4k) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [luce della città](https://open.spotify.com/album/15JumhpSCgFxjHOw6xeKA6) | 2:41 |
-| 57 | [In Search of Miracles](https://open.spotify.com/track/1LWBEJpBkLHkrA662BDHNI) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [In Search of Miracles](https://open.spotify.com/album/0nQesqp5e8RV2mPN664mvm) | 2:27 |
-| 58 | [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 |
+| 54 | [Blue Sky Within](https://open.spotify.com/track/3J0KOnk8DvN6eWvNbsqp2w) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [Blue Sky Within](https://open.spotify.com/album/7LqvVXIQHzAu5SrJsrDaWg) | 3:06 |
+| 55 | [luce della città](https://open.spotify.com/track/1CZjaS4Gvcrrd1oH7k5C4k) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [luce della città](https://open.spotify.com/album/15JumhpSCgFxjHOw6xeKA6) | 2:41 |
+| 56 | [In Search of Miracles](https://open.spotify.com/track/1LWBEJpBkLHkrA662BDHNI) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [In Search of Miracles](https://open.spotify.com/album/0nQesqp5e8RV2mPN664mvm) | 2:27 |
+| 57 | [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 |
+| 58 | [You're Not Alone](https://open.spotify.com/track/4ROmwACfJCiGMBioN6k0m5) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [You're Not Alone](https://open.spotify.com/album/0xDfnkhHwktefc4MmHrXuR) | 2:23 |
 | 59 | [Verlust und Gewinn](https://open.spotify.com/track/5yH9OVYpFnHoMrSWJEdFUP) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Verlust und Gewinn](https://open.spotify.com/album/6piwS957ZAnONyTajWSPdB) | 2:25 |
 | 60 | [Breezy](https://open.spotify.com/track/5ufwUZ3FqWHHWEnjO0wBXf) | [Richie Kruz](https://open.spotify.com/artist/1ulbjpM1Xqulg1o3sIhIH5) | [Breezy](https://open.spotify.com/album/3IaLEX2CgHRSci1W90e0Pq) | 2:54 |
 | 61 | [Dois Mundos](https://open.spotify.com/track/4Ls25DZAykE5rhatYaFivp) | [Derek Shearer](https://open.spotify.com/artist/3W51gb95wAmpctfOfM9no0) | [Clinton Hill](https://open.spotify.com/album/6TNK5hsPc9fZbRSnAejZeI) | 2:46 |
@@ -112,19 +112,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 | 102 | [Into The Blue](https://open.spotify.com/track/6Lar44lBB2POrKh3B58qXl) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Into The Blue](https://open.spotify.com/album/7xjfyKbOPYJeLgCQ2LGTy0) | 3:56 |
 | 103 | [Different Ways of Losing You](https://open.spotify.com/track/7kWNxTQ5ZIHhLAkHTllHGO) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Different Ways of Losing You](https://open.spotify.com/album/5uKt8albwbbam6MBWkvhEo) | 2:40 |
 | 104 | [Sol está se pondo](https://open.spotify.com/track/4svcQB6U0H6ECujHIafvwV) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Sol está se pondo](https://open.spotify.com/album/7yE3u8mjqgn2Qt6azXlnyU) | 2:43 |
-| 105 | [Plaisir](https://open.spotify.com/track/5st9nAlvjp9bd7MUq9tidJ) | [Yanis Bernard](https://open.spotify.com/artist/3WCrMlMMPdM3jS5GsWyXlC) | [Plaisir](https://open.spotify.com/album/4WpSzztK6nez8yWy6oKHXo) | 3:04 |
-| 106 | [Night Route](https://open.spotify.com/track/5v2bNil9KFJXcwsBAup9lf) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Night Route](https://open.spotify.com/album/5ExiMJ4mQ24kmLN1Gl9WHJ) | 2:21 |
-| 107 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 |
-| 108 | [Fernweh](https://open.spotify.com/track/5EvFIyS4iMpdXCKFlKRsm4) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Fernweh](https://open.spotify.com/album/17EvasbAWye4fNnIGIkOCI) | 2:31 |
-| 109 | [Calvanda](https://open.spotify.com/track/0TTOjbZ7i9aA0zphN18jBu) | [Patrick Prescott](https://open.spotify.com/artist/4axTAgIeRFIlRTV9EoxLIu) | [Calvanda](https://open.spotify.com/album/6aagZIFwnFJbBnEq0E6csO) | 3:05 |
-| 110 | [The Visitor](https://open.spotify.com/track/10pWsW6PgcElqhHBIRPoea) | [Henry Windon](https://open.spotify.com/artist/6DQOxNdaDC3E2vfbUjpTNH) | [The Visitor](https://open.spotify.com/album/5OMtHhYzhag9BwO9YZ0tRs) | 2:07 |
-| 111 | [Tranquille](https://open.spotify.com/track/2aSvGgyhVRgQYDzhBbWJ51) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Tranquille](https://open.spotify.com/album/6QYtL1c2hj8S0EcBpFbNYP) | 2:50 |
-| 112 | [Voce gentile](https://open.spotify.com/track/64XDCctKb1VkRV6t8V4i4s) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Voce gentile](https://open.spotify.com/album/6qGcaTSZPyed5Lqpk25um6) | 2:48 |
-| 113 | [Green Quartz](https://open.spotify.com/track/5N892EXPu8buGU6DIN1RTM) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Green Quartz](https://open.spotify.com/album/3yrB2eBphHCE475j4v8GWC) | 2:36 |
+| 105 | [Night Route](https://open.spotify.com/track/5v2bNil9KFJXcwsBAup9lf) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Night Route](https://open.spotify.com/album/5ExiMJ4mQ24kmLN1Gl9WHJ) | 2:21 |
+| 106 | [E perto do anoitecer](https://open.spotify.com/track/12JjMTQI1A6Z6cpiuek0z2) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [E perto do anoitecer](https://open.spotify.com/album/2qUsqLtAeAoYKFPUKpR9Qo) | 2:41 |
+| 107 | [Fernweh](https://open.spotify.com/track/5EvFIyS4iMpdXCKFlKRsm4) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Fernweh](https://open.spotify.com/album/17EvasbAWye4fNnIGIkOCI) | 2:31 |
+| 108 | [The Visitor](https://open.spotify.com/track/10pWsW6PgcElqhHBIRPoea) | [Henry Windon](https://open.spotify.com/artist/6DQOxNdaDC3E2vfbUjpTNH) | [The Visitor](https://open.spotify.com/album/5OMtHhYzhag9BwO9YZ0tRs) | 2:07 |
+| 109 | [Plaisir](https://open.spotify.com/track/5st9nAlvjp9bd7MUq9tidJ) | [Yanis Bernard](https://open.spotify.com/artist/3WCrMlMMPdM3jS5GsWyXlC) | [Plaisir](https://open.spotify.com/album/4WpSzztK6nez8yWy6oKHXo) | 3:04 |
+| 110 | [Tranquille](https://open.spotify.com/track/2aSvGgyhVRgQYDzhBbWJ51) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Tranquille](https://open.spotify.com/album/6QYtL1c2hj8S0EcBpFbNYP) | 2:50 |
+| 111 | [Voce gentile](https://open.spotify.com/track/64XDCctKb1VkRV6t8V4i4s) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Voce gentile](https://open.spotify.com/album/6qGcaTSZPyed5Lqpk25um6) | 2:48 |
+| 112 | [Green Quartz](https://open.spotify.com/track/5N892EXPu8buGU6DIN1RTM) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Green Quartz](https://open.spotify.com/album/3yrB2eBphHCE475j4v8GWC) | 2:36 |
+| 113 | [Calvanda](https://open.spotify.com/track/0TTOjbZ7i9aA0zphN18jBu) | [Patrick Prescott](https://open.spotify.com/artist/4axTAgIeRFIlRTV9EoxLIu) | [Calvanda](https://open.spotify.com/album/6aagZIFwnFJbBnEq0E6csO) | 3:05 |
 | 114 | [Linens](https://open.spotify.com/track/0UwvM6Pn8jWh3cNWQunjt0) | [Tapperstand](https://open.spotify.com/artist/5qiy3uNvNQrZycAMo6dOgH) | [Shapes in the Sky](https://open.spotify.com/album/7sxQpqFUHwHhz9xnUmUKol) | 2:56 |
 | 115 | [Where I'm From](https://open.spotify.com/track/4TzxVjpZprvyvOhZUXFizs) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Keep A Secret](https://open.spotify.com/album/4OhHkRhQyMXykmpn8D6PBi) | 3:36 |
 | 116 | [My Own Blue Sky](https://open.spotify.com/track/4MKxJnVZOBoVqTOLm9HIvB) | [Lo Larsen](https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi) | [My Own Blue Sky](https://open.spotify.com/album/1dATMrsJlfFyQebwsQqTYA) | 3:01 |
 | 117 | [Rio De La Plata](https://open.spotify.com/track/1H4v0YFVVKN8uU6nxzmfWt) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Rio De La Plata](https://open.spotify.com/album/4WhBZeA6L71Jy9sNXZm0Cd) | 4:06 |
 | 118 | [La Storia D'Amor](https://open.spotify.com/track/2FNvWhfz1C20qwZaADbkcz) | [Indigo Mazati](https://open.spotify.com/artist/4qJEsoXFek6XB6R2GjJzJw) | [La Storia D'amor](https://open.spotify.com/album/1TlO2EbMobeLY5DQncxm1Q) | 2:50 |
 
-Snapshot ID: `MCwzOGMzNDc2ZjM1YmYwYTk3YTI2ZWMzZDJkYmFiNzlkOGRjMWI5N2Nl`
+Snapshot ID: `MCxiMGI1MmQ5N2UyZTVjNzViNDc3MTlmMDNkZDBhNzE5ZGFmNDczOWYz`

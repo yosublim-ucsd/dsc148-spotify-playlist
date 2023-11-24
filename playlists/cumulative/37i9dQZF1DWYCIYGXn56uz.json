@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Mida",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Petit",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -457,6 +457,24 @@
     },
     {
       "album": {
+        "name": "Autogol",
+        "url": "https://open.spotify.com/album/3YBhgpFuwuRf0APuD4Ff2M"
+      },
+      "artists": [
+        {
+          "name": "Will",
+          "url": "https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Autogol",
+      "url": "https://open.spotify.com/track/5QRvX3WAktD8SIN2fQ99e6"
+    },
+    {
+      "album": {
         "name": "Balla (come la domenica)",
         "url": "https://open.spotify.com/album/5hun2luD1TdLOyNPm33U5Z"
       },
@@ -472,7 +490,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 166056,
       "name": "Balla (come la domenica)",
       "url": "https://open.spotify.com/track/5c5i976D2vDemkPHOMcyDT"
@@ -564,7 +582,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 126730,
       "name": "Bella (ft. Boro)",
       "url": "https://open.spotify.com/track/1yBBuN8zzSXkew8qe12Xlt"
@@ -658,6 +676,28 @@
       "duration_ms": 237606,
       "name": "Bruciasse Il Cielo",
       "url": "https://open.spotify.com/track/6abfPlw55MvGAUEpG56R2y"
+    },
+    {
+      "album": {
+        "name": "Buchi ai lobi",
+        "url": "https://open.spotify.com/album/0yBYqUOcJsCNiYRvTv1E5p"
+      },
+      "artists": [
+        {
+          "name": "piazzabologna",
+          "url": "https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp"
+        },
+        {
+          "name": "Gorbaciof",
+          "url": "https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146831,
+      "name": "Buchi ai lobi",
+      "url": "https://open.spotify.com/track/1EK9LRcQxtUiZUxXevX1nP"
     },
     {
       "album": {
@@ -1362,7 +1402,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 146880,
       "name": "die young",
       "url": "https://open.spotify.com/track/0PB5FBrdJJYJb306JHZazg"
@@ -1580,6 +1620,24 @@
       "duration_ms": 116766,
       "name": "Eden",
       "url": "https://open.spotify.com/track/5g4T5isfIVXluT1waVljLv"
+    },
+    {
+      "album": {
+        "name": "effetto vuoto",
+        "url": "https://open.spotify.com/album/1FJBy3FzaWRdaxjjYPomUz"
+      },
+      "artists": [
+        {
+          "name": "Chakra",
+          "url": "https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185328,
+      "name": "effetto vuoto",
+      "url": "https://open.spotify.com/track/2vX89NuNGOB4jPgstw3TJb"
     },
     {
       "album": {
@@ -2204,6 +2262,28 @@
       "duration_ms": 126746,
       "name": "Io sono qui",
       "url": "https://open.spotify.com/track/3ecm97gYyNfG04buI3MNzx"
+    },
+    {
+      "album": {
+        "name": "Io ti conosco",
+        "url": "https://open.spotify.com/album/0bdyF5AN6DdgwCAEvBrmqW"
+      },
+      "artists": [
+        {
+          "name": "gIANMARIA",
+          "url": "https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1"
+        },
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186852,
+      "name": "Io ti conosco",
+      "url": "https://open.spotify.com/track/7A9fo9j49DRPLPOGnfE2Ud"
     },
     {
       "album": {
@@ -3392,7 +3472,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 153758,
       "name": "ORIGAMI ALL'ALBA - CLARA",
       "url": "https://open.spotify.com/track/3X6QTmtaKukOu5lISJYi4g"
@@ -3898,7 +3978,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 139540,
       "name": "Primavera",
       "url": "https://open.spotify.com/track/67hibObZ6hQ5YGa7ymyqhp"
@@ -4609,6 +4689,24 @@
     },
     {
       "album": {
+        "name": "Stupida Libert\u00e0",
+        "url": "https://open.spotify.com/album/7yEiN9dB700F55cpt1shTh"
+      },
+      "artists": [
+        {
+          "name": "Luigi Strangis",
+          "url": "https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192818,
+      "name": "Stupida Libert\u00e0",
+      "url": "https://open.spotify.com/track/08yqlwXJL84xS3q6iY1S8Y"
+    },
+    {
+      "album": {
         "name": "Stupido",
         "url": "https://open.spotify.com/album/60bOfsjjwd0Pou97omCFhl"
       },
@@ -4660,7 +4758,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 179141,
       "name": "SUMMERSAD 4",
       "url": "https://open.spotify.com/track/153mTpcY4kLe2PBS0wnvMF"
@@ -4718,6 +4816,24 @@
       "duration_ms": 209062,
       "name": "TANGO",
       "url": "https://open.spotify.com/track/7CufDALaisOBzcT0nfeaZF"
+    },
+    {
+      "album": {
+        "name": "Tatta\u00f9",
+        "url": "https://open.spotify.com/album/5dLvo90i3sebbBhPC8p5On"
+      },
+      "artists": [
+        {
+          "name": "Ludwig",
+          "url": "https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143076,
+      "name": "Tatta\u00f9",
+      "url": "https://open.spotify.com/track/06olUq0UU2Uv3JVLD0hYwA"
     },
     {
       "album": {
@@ -5072,7 +5188,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 151500,
       "name": "una canzone al giorno",
       "url": "https://open.spotify.com/track/6y9aoXQMdsJxPg2FIxdmdv"
@@ -5192,6 +5308,24 @@
       "duration_ms": 126666,
       "name": "vedo un mostro o vedo me",
       "url": "https://open.spotify.com/track/4uoK4Y6afYn7ryZ4N6eZgV"
+    },
+    {
+      "album": {
+        "name": "VENERE",
+        "url": "https://open.spotify.com/album/1xBryxKD1ss7DvPDrjD5ql"
+      },
+      "artists": [
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168095,
+      "name": "VENERE",
+      "url": "https://open.spotify.com/track/0fvbaAcjKIjHtdZbtOEL9e"
     },
     {
       "album": {

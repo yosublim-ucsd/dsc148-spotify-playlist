@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo il meglio dello street rap italiano. Cover: Sfera Ebbasta",
+  "description": "Solo il meglio dello street rap italiano. Cover: Digital Astro, Tony Boy, Artie 5ive",
   "name": "Street Culto",
   "tracks": [
     {
@@ -224,6 +224,14 @@
         {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
         }
       ],
       "date_added": "2023-11-17",
@@ -1263,6 +1271,28 @@
     },
     {
       "album": {
+        "name": "1998",
+        "url": "https://open.spotify.com/album/32PGcnp7IuxfO715MOt1Fm"
+      },
+      "artists": [
+        {
+          "name": "Il Ghost",
+          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
+        },
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "BIMBO (feat. Silent Bob)",
+      "url": "https://open.spotify.com/track/4c5wegs9dkCHNhEyHAunBB"
+    },
+    {
+      "album": {
         "name": "BIRKIN (feat. Rondodasosa)",
         "url": "https://open.spotify.com/album/7uXB0wqBqrdSlsf06uHxM6"
       },
@@ -1776,6 +1806,18 @@
         {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
         }
       ],
       "date_added": "2023-11-17",
@@ -1886,6 +1928,32 @@
       "duration_ms": 183174,
       "name": "Caramba",
       "url": "https://open.spotify.com/track/0JxlMKdfoQKuB09keMmALe"
+    },
+    {
+      "album": {
+        "name": "Carne Halal (feat. Baby Gang & Simba La Rue)",
+        "url": "https://open.spotify.com/album/5J3YRgWiaxwdDR1zCJTph6"
+      },
+      "artists": [
+        {
+          "name": "Escomar",
+          "url": "https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244363,
+      "name": "Carne Halal (feat. Baby Gang & Simba La Rue)",
+      "url": "https://open.spotify.com/track/6jiRQs8QM6ozzFxdIDUkm2"
     },
     {
       "album": {
@@ -2032,7 +2100,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 168000,
       "name": "CHALLENGER (feat. Rondodasosa)",
       "url": "https://open.spotify.com/track/50A2O8cyECu8gcIxOkck8p"
@@ -3452,6 +3520,14 @@
         {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         }
       ],
       "date_added": "2023-11-17",
@@ -3602,6 +3678,10 @@
         {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
       "date_added": "2023-11-17",
@@ -4498,7 +4578,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 196444,
       "name": "La Zona (feat. N\u00e9za, ASHE 22 & 3dnan)",
       "url": "https://open.spotify.com/track/2C1jzRQhFgsbYDI4KLsn4O"
@@ -4780,7 +4860,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 164178,
       "name": "Maltempo",
       "url": "https://open.spotify.com/track/7FZicMWhkxtQxIsV6Y9SZk"
@@ -5895,6 +5975,32 @@
     },
     {
       "album": {
+        "name": "Identit\u00e0",
+        "url": "https://open.spotify.com/album/061b4fp721yhJXddgLdmHE"
+      },
+      "artists": [
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Fri2",
+          "url": "https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179220,
+      "name": "Ovetto Frozen (feat. Papa V)",
+      "url": "https://open.spotify.com/track/5fIFDZIWCb4xljatkdsIlY"
+    },
+    {
+      "album": {
         "name": "PADRINO",
         "url": "https://open.spotify.com/album/2jCDnYTAyHXrOc6X4mPXy5"
       },
@@ -6779,6 +6885,28 @@
     },
     {
       "album": {
+        "name": "RED&BLUE",
+        "url": "https://open.spotify.com/album/3aVMMj8FWLf4e5cMZ5JdWC"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207435,
+      "name": "RED&BLUE",
+      "url": "https://open.spotify.com/track/6jxeK8g2wpe2yVLsHcjRhG"
+    },
+    {
+      "album": {
         "name": "RASOI / RIGOR MORTIS",
         "url": "https://open.spotify.com/album/7wcWK3KQdvoZmAbdZKGYhW"
       },
@@ -7020,7 +7148,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 137079,
       "name": "Seconda Generazione",
       "url": "https://open.spotify.com/track/5JynzqA5qFHXs28M078yl6"

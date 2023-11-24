@@ -4,7 +4,7 @@
 
 > We hear you.
 
-640 songs - 1 day 7 hr 43 min
+641 songs - 1 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,7 +443,8 @@
 | [Pieces of Me](https://open.spotify.com/track/0kqFFlVf2fKq0lFanP3fgr) | [beaurial](https://open.spotify.com/artist/3yjsgZ8ouyisGzXyJH4QlL) | [Pieces of Me](https://open.spotify.com/album/0WMacSnf5LyJs4H7S9sLn6) | 1:57 | 2021-04-02 | 2022-04-14 |
 | [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 | 2022-11-18 | 2023-04-27 |
 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 | 2023-02-17 | 2023-04-27 |
-| [Planet Express](https://open.spotify.com/track/0XklTT2Yejv5bhbomw5u8r) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Planet Express](https://open.spotify.com/album/1pFOoKAoqMRWTIAdDdqTnF) | 4:19 | 2023-10-16 |  |
+| [Planet Express](https://open.spotify.com/track/0XklTT2Yejv5bhbomw5u8r) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Planet Express](https://open.spotify.com/album/1pFOoKAoqMRWTIAdDdqTnF) | 4:19 | 2023-10-16 | 2023-11-24 |
+| [Planet Express](https://open.spotify.com/track/7HY0lAbWyJr6JqvKgRQDEL) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Hitchhiker](https://open.spotify.com/album/32Srim9ACKmJsJvszNNlTe) | 4:20 | 2023-10-16 |  |
 | [Plastered](https://open.spotify.com/track/2f4zAnj43xheWJqwUs88n9) | [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [Plastered](https://open.spotify.com/album/6n2IkCkMutHCF8CPkeYCVf) | 2:07 | 2022-01-21 | 2022-04-15 |
 | [play this at my funeral](https://open.spotify.com/track/5gi9n31BVk5OJLu3RZq3F6) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [us/faces](https://open.spotify.com/album/0NygY9X1KPjqhKUvPYyRGD) | 2:21 | 2021-04-02 | 2022-05-25 |
 | [Please Come Back](https://open.spotify.com/track/7zlGyAsvNMOdhTU068f79f) | [Teqkoi](https://open.spotify.com/artist/6fOKLk8GmQ8xKogCRuuAwD), [Ondi Vil](https://open.spotify.com/artist/4ZguwlmrdElUZaO36dRTbn), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo), [Bonjr](https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw) | [Please Come Back](https://open.spotify.com/album/0NZUawtwwZtXvYLaKoQhWZ) | 2:01 | 2021-04-02 | 2022-04-20 |

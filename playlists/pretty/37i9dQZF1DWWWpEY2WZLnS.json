@@ -1,13 +1,29 @@
 {
   "description": "Los \u00e9xitos del Dembow. Portada: Jey One",
-  "num_followers": 400520,
+  "num_followers": 400878,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTIxYThhYWEwZjlhZThiNTYyMTAyMjJjNTJhZjZlMjU1MjFmNTU5",
+  "snapshot_id": "MCw4YjUwZGMzYmM5NzgyZDBmNmQyNDEwY2IwZDI1MDhkMjQ2NDE5MWJj",
   "tracks": [
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Onana",
+        "url": "https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Onana",
+      "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
+    },
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
@@ -27,6 +43,170 @@
       "duration_ms": 139728,
       "name": "Eso E",
       "url": "https://open.spotify.com/track/7f0S484NNC0QAdM7HwRGBX"
+    },
+    {
+      "added_at": "2023-11-23 17:30:46",
+      "album": {
+        "name": "EL REY DEL DEMBOW",
+        "url": "https://open.spotify.com/album/6JPOiUKS6Ei5Aq43PBQ1El"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "AQUI TA SMOKE",
+      "url": "https://open.spotify.com/track/3SK0dEKhmkhx6EHjZRHm1r"
+    },
+    {
+      "added_at": "2023-11-07 16:27:50",
+      "album": {
+        "name": "TATARA REMIX",
+        "url": "https://open.spotify.com/album/5UvfZwBtCIWUNdDwuCExby"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        },
+        {
+          "name": "Papera",
+          "url": "https://open.spotify.com/artist/7tRcVlJSQ6F0mB3KOyTVoC"
+        },
+        {
+          "name": "Alex Roxario",
+          "url": "https://open.spotify.com/artist/0Ta0HnBvC1V8dfxjgn5PLw"
+        }
+      ],
+      "duration_ms": 154083,
+      "name": "TATARA REMIX",
+      "url": "https://open.spotify.com/track/3rGXH8BjIWSZgr38faOSNJ"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Prepotente",
+        "url": "https://open.spotify.com/album/1rsXO7NvbxSVOdcDsrWvt6"
+      },
+      "artists": [
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        },
+        {
+          "name": "Kreizy k",
+          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
+        }
+      ],
+      "duration_ms": 125147,
+      "name": "Prepotente",
+      "url": "https://open.spotify.com/track/47EGifeNL52SJL13TxcvBR"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Boy Boy",
+        "url": "https://open.spotify.com/album/22qAftm8hq6g4pkOJYCF5y"
+      },
+      "artists": [
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        },
+        {
+          "name": "Hansel El De La H",
+          "url": "https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG"
+        }
+      ],
+      "duration_ms": 134565,
+      "name": "Boy Boy",
+      "url": "https://open.spotify.com/track/1eK3kCQnzPvNgvDRy5QP1B"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "LLNM2",
+        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        },
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        }
+      ],
+      "duration_ms": 226165,
+      "name": "Del Kilo",
+      "url": "https://open.spotify.com/track/7qgovmYLU3BUltCBdYUPKg"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Empaquetate",
+        "url": "https://open.spotify.com/album/69AByi6lxeU7xTL1XFRAQa"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        },
+        {
+          "name": "Polojoa",
+          "url": "https://open.spotify.com/artist/5NLrbpvxzozyk0Y315EDPt"
+        }
+      ],
+      "duration_ms": 147457,
+      "name": "Empaquetate",
+      "url": "https://open.spotify.com/track/2FrcdIdoHSyzdgPcAoOEEC"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Si Tu Supieras",
+        "url": "https://open.spotify.com/album/1Ao24bjW2NwYnjUKwUmFVd"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        }
+      ],
+      "duration_ms": 122500,
+      "name": "Si Tu Supieras",
+      "url": "https://open.spotify.com/track/7B85mIyCYzRnPaOJ6nvc1r"
+    },
+    {
+      "added_at": "2023-10-13 04:00:00",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
       "added_at": "2023-11-07 16:25:12",
@@ -63,50 +243,6 @@
       "duration_ms": 158000,
       "name": "La Piedra",
       "url": "https://open.spotify.com/track/1iwkENJTFtLZ0kWKVKtcRb"
-    },
-    {
-      "added_at": "2023-11-07 16:27:50",
-      "album": {
-        "name": "TATARA REMIX",
-        "url": "https://open.spotify.com/album/5UvfZwBtCIWUNdDwuCExby"
-      },
-      "artists": [
-        {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
-        },
-        {
-          "name": "Papera",
-          "url": "https://open.spotify.com/artist/7tRcVlJSQ6F0mB3KOyTVoC"
-        },
-        {
-          "name": "Alex Roxario",
-          "url": "https://open.spotify.com/artist/0Ta0HnBvC1V8dfxjgn5PLw"
-        }
-      ],
-      "duration_ms": 154083,
-      "name": "TATARA REMIX",
-      "url": "https://open.spotify.com/track/3rGXH8BjIWSZgr38faOSNJ"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Boy Boy",
-        "url": "https://open.spotify.com/album/22qAftm8hq6g4pkOJYCF5y"
-      },
-      "artists": [
-        {
-          "name": "Yaisel LM",
-          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
-        },
-        {
-          "name": "Hansel El De La H",
-          "url": "https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG"
-        }
-      ],
-      "duration_ms": 134565,
-      "name": "Boy Boy",
-      "url": "https://open.spotify.com/track/1eK3kCQnzPvNgvDRy5QP1B"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -163,22 +299,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "Onana",
-        "url": "https://open.spotify.com/album/77fNQQR6ppjbsF30EUFEHP"
-      },
-      "artists": [
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Onana",
-      "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "PLEBADA",
         "url": "https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2"
       },
@@ -199,50 +319,6 @@
     {
       "added_at": "2023-10-13 04:00:00",
       "album": {
-        "name": "TE LLENASTE",
-        "url": "https://open.spotify.com/album/2bbsPeybovEKJ1C6rPvamw"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        },
-        {
-          "name": "El Fother",
-          "url": "https://open.spotify.com/artist/0pm4ijsngxgyYEZl0UeXug"
-        }
-      ],
-      "duration_ms": 220862,
-      "name": "Te Llenaste",
-      "url": "https://open.spotify.com/track/5hXYp960arpKjZw78KgTGE"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Prepotente",
-        "url": "https://open.spotify.com/album/1rsXO7NvbxSVOdcDsrWvt6"
-      },
-      "artists": [
-        {
-          "name": "Yaisel LM",
-          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
-        },
-        {
-          "name": "Kreizy k",
-          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
-        }
-      ],
-      "duration_ms": 125147,
-      "name": "Prepotente",
-      "url": "https://open.spotify.com/track/47EGifeNL52SJL13TxcvBR"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
         "name": "La Palida",
         "url": "https://open.spotify.com/album/2fgXaL8kvKFZomRDOQ4tu6"
       },
@@ -255,30 +331,6 @@
       "duration_ms": 127440,
       "name": "La Palida",
       "url": "https://open.spotify.com/track/3QYjhjhR0XerDrQL9S2IO1"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "LLNM2",
-        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Treintisiete",
-          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
-        },
-        {
-          "name": "Yailin la Mas Viral",
-          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
-        }
-      ],
-      "duration_ms": 226165,
-      "name": "Del Kilo",
-      "url": "https://open.spotify.com/track/7qgovmYLU3BUltCBdYUPKg"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -343,26 +395,6 @@
       "duration_ms": 170920,
       "name": "Po Po Po",
       "url": "https://open.spotify.com/track/1dnlWBC8oXaxzDQWtDxies"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Empaquetate",
-        "url": "https://open.spotify.com/album/69AByi6lxeU7xTL1XFRAQa"
-      },
-      "artists": [
-        {
-          "name": "Donaty",
-          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
-        },
-        {
-          "name": "Polojoa",
-          "url": "https://open.spotify.com/artist/5NLrbpvxzozyk0Y315EDPt"
-        }
-      ],
-      "duration_ms": 147457,
-      "name": "Empaquetate",
-      "url": "https://open.spotify.com/track/2FrcdIdoHSyzdgPcAoOEEC"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -591,22 +623,6 @@
       "duration_ms": 136271,
       "name": "Talco",
       "url": "https://open.spotify.com/track/5jNMVx3mv3gj3ShJfJj57g"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Si Tu Supieras",
-        "url": "https://open.spotify.com/album/1Ao24bjW2NwYnjUKwUmFVd"
-      },
-      "artists": [
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        }
-      ],
-      "duration_ms": 122500,
-      "name": "Si Tu Supieras",
-      "url": "https://open.spotify.com/track/7B85mIyCYzRnPaOJ6nvc1r"
     },
     {
       "added_at": "2023-10-13 04:00:00",
@@ -1003,22 +1019,6 @@
       "duration_ms": 127139,
       "name": "Mi Flaca - Remix",
       "url": "https://open.spotify.com/track/3KvshDFG7oEN6MDVQI2NHD"
-    },
-    {
-      "added_at": "2023-10-13 04:00:00",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Tit\u00ed Me Pregunt\u00f3",
-      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
       "added_at": "2023-10-13 04:00:00",

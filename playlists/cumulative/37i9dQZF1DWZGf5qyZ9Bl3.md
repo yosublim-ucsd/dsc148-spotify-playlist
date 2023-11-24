@@ -4,7 +4,7 @@
 
 > chill piano melodies and cozy lofi beats
 
-104 songs - 3 hr 58 min
+106 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Mochi](https://open.spotify.com/track/4kvnA0lfUsVEqJtOyty0iG) | [Mickey Jam](https://open.spotify.com/artist/0QeBXI6ruzIKKQ7EkrDBr9) | [Mochi](https://open.spotify.com/album/1SsGk6aGUXW4M2vefcu2ZF) | 2:52 | 2023-09-22 |  |
 | [Moon Glow](https://open.spotify.com/track/2jMEJa7WpOHCMO9eZVbTVQ) | [Jay Groovi](https://open.spotify.com/artist/2ntoj1OhqFatrjAGvAdlMn) | [Moon Glow](https://open.spotify.com/album/1KmGSUfLkH2bdfFPMKdcZo) | 1:46 | 2023-09-22 |  |
 | [N.Y.](https://open.spotify.com/track/0kQ8yqgEkjHuvhXXqUovPv) | [bripp](https://open.spotify.com/artist/0d3thvBL4aAaPp5bFuHfrt) | [N.Y.](https://open.spotify.com/album/0TR8lEfa1kfhzyUT7LWf3a) | 2:25 | 2023-09-22 |  |
-| [Never Give Up](https://open.spotify.com/track/5us6nhibrqe4bMTPTEOtHs) | [Nivyer G](https://open.spotify.com/artist/1oh4y1bJOM0oUzEm3dZgWv) | [Never Give Up](https://open.spotify.com/album/1foUeI3f0BJyi2FWnxVGXk) | 2:29 | 2023-09-22 |  |
+| [Never Give Up](https://open.spotify.com/track/5us6nhibrqe4bMTPTEOtHs) | [Nivyer G](https://open.spotify.com/artist/1oh4y1bJOM0oUzEm3dZgWv) | [Never Give Up](https://open.spotify.com/album/1foUeI3f0BJyi2FWnxVGXk) | 2:29 | 2023-09-22 | 2023-11-24 |
 | [next to me](https://open.spotify.com/track/3IZcTC5ntPwhjsNIyQygh8) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU) | [next to me](https://open.spotify.com/album/3RAIFftTjeHKcdq8WOr6HT) | 1:48 | 2023-09-22 |  |
 | [Nordic Noir](https://open.spotify.com/track/2WNBXRh0PiCUoFVQNVAPXs) | [Ullis](https://open.spotify.com/artist/3GGTIeWyoM9LCS27Mo2UH2) | [Nordic Noir](https://open.spotify.com/album/5IGLvQzRwTAkKuC8XT5us4) | 2:13 | 2023-09-22 |  |
 | [Paris](https://open.spotify.com/track/7dfiqQg1mpguXK7gNwgQle) | [lofi stu](https://open.spotify.com/artist/42sa3ImS1Gv0LDCNS8jr2E) | [Paris](https://open.spotify.com/album/7mT3it3tSO1fk0aA2ooxS2) | 2:35 | 2023-09-22 |  |
@@ -84,17 +84,18 @@
 | [Sakura Sunset](https://open.spotify.com/track/1X4vIPVvyjPLwoKG6sYKIA) | [Naguro](https://open.spotify.com/artist/2sb7MQ0rQV3QZvrj6Ur4wf) | [Sakura Sunset](https://open.spotify.com/album/4quCoWKk640mavwa0F1Ykj) | 2:22 | 2023-09-22 |  |
 | [Serenity](https://open.spotify.com/track/74EY4R1qANF25iAvTNPGvS) | [alxnd.](https://open.spotify.com/artist/6mv60wWPRPGe2dGphU1z8y) | [Serenity](https://open.spotify.com/album/3j7w2vGxCd8H01GjZsSfrb) | 4:20 | 2023-09-22 |  |
 | [shorea](https://open.spotify.com/track/6XWMUhSPDDieBQJEL8Fkeg) | [mt\. fujitive](https://open.spotify.com/artist/2V9zpugQCHRiu2lPjsUM6d), [oofoe](https://open.spotify.com/artist/6u1oX4NPDuxo0Eo41dgf9O) | [shorea / lumi](https://open.spotify.com/album/01nxPPcAo8tp1otqTdLhXP) | 2:14 | 2023-09-22 |  |
-| [Slow Too Slow](https://open.spotify.com/track/4rxkuhtG4udC2ROwptnKGe) | [Pure Solar](https://open.spotify.com/artist/3hqtmr6HdigDXWl6eGKoQB) | [Oxford](https://open.spotify.com/album/6OjvssIgoMIjSQB8z33Ifw) | 1:49 | 2023-09-22 |  |
+| [Slow Too Slow](https://open.spotify.com/track/4rxkuhtG4udC2ROwptnKGe) | [Pure Solar](https://open.spotify.com/artist/3hqtmr6HdigDXWl6eGKoQB) | [Oxford](https://open.spotify.com/album/6OjvssIgoMIjSQB8z33Ifw) | 1:49 | 2023-09-22 | 2023-11-24 |
 | [Something To Sing About](https://open.spotify.com/track/42nEk1NmYLyftkrv1SNfWs) | [X84](https://open.spotify.com/artist/54gir5f5MoNobdGxTWrNy4) | [Something To Sing About](https://open.spotify.com/album/6ZK7xjavf50MFK7iPg27iG) | 2:44 | 2023-09-22 |  |
 | [square day](https://open.spotify.com/track/6Ay0SySLxHEBY8ju9khpVX) | [Jazzamass](https://open.spotify.com/artist/3gMOdlsYdkbCobRA1i8Bwb) | [square day](https://open.spotify.com/album/3NbMDI4m8ChBSWwfUl9VHO) | 1:42 | 2023-09-22 |  |
 | [Still Trying](https://open.spotify.com/track/1PyTG6VhRlpARtgJT7WNnA) | [Keyser Dope](https://open.spotify.com/artist/0AlQc7m93kmKUb3F0pJx2V) | [Still Trying](https://open.spotify.com/album/2MScI9Tiq8mxugFETQ5pgz) | 2:24 | 2023-09-22 |  |
-| [Stir](https://open.spotify.com/track/5dCziBpQVzbNavB3xhRV5a) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Echo Chamber](https://open.spotify.com/album/0m3RxyaNTgnukZP16gxbVt) | 2:15 | 2023-09-22 |  |
+| [Stir](https://open.spotify.com/track/5dCziBpQVzbNavB3xhRV5a) | [Euphemism](https://open.spotify.com/artist/2LjnVIznJsfd8XzrUqXHTr) | [Echo Chamber](https://open.spotify.com/album/0m3RxyaNTgnukZP16gxbVt) | 2:15 | 2023-09-22 | 2023-11-24 |
 | [Sudden Change](https://open.spotify.com/track/5Afsgt5QEt2aKPRplLfr6T) | [Lonely Joyman](https://open.spotify.com/artist/4UZYBPHjHcnzMuyBFMFaWn) | [A Bit of Colour](https://open.spotify.com/album/0crbtKJilhMawp13NZej5d) | 1:53 | 2023-09-22 |  |
 | [Summer Haze](https://open.spotify.com/track/7uscoXbsRGFkDXhPBay6uq) | [Mwuah](https://open.spotify.com/artist/4JbwJg5Mu77ekuiROGPXdF) | [Summer Haze](https://open.spotify.com/album/4xH8gyM3x1NfQrxab8ip9i) | 2:27 | 2023-09-22 |  |
 | [Sunset Boulevard](https://open.spotify.com/track/7uNB5da4RZLnfWIE8xIQZk) | [Phive O](https://open.spotify.com/artist/3BazVVHaz03CY1JFfedL9L) | [Sunset Boulevard](https://open.spotify.com/album/7nJJah1pdRhcGpQReeDOVb) | 2:15 | 2023-11-17 |  |
 | [Sunshine](https://open.spotify.com/track/7HBhOT7IEZgtsKwbGOpJi8) | [Becky Bowder](https://open.spotify.com/artist/4H2ndjNhOqdmRcrWzvnNEo) | [Sunshine](https://open.spotify.com/album/5t8Bjlsv1UtsMgfHeH4kbf) | 2:22 | 2023-09-22 |  |
 | [telescape](https://open.spotify.com/track/1x2ddqYnVN1GDJWz4MiL8F) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [telescape](https://open.spotify.com/album/7EUmRwjLF90VFKFbrUVtAW) | 1:56 | 2023-09-22 |  |
 | [The Comeback Kid!](https://open.spotify.com/track/6fO3hA8EZ9xlMkuJWFLX2E) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [The Comeback Kid!](https://open.spotify.com/album/6QjDkjlTwBWIYvdHPf94G0) | 2:39 | 2023-09-22 |  |
+| [Thinking Of You](https://open.spotify.com/track/5lTR1HXtYNiOYkZUGJfW4T) | [asanatobi](https://open.spotify.com/artist/6LeJY3URhc2QOx8vPAB2Ou) | [Thinking Of You](https://open.spotify.com/album/49M4f8YLFk6hwcvZCL9NxV) | 2:16 | 2023-11-24 |  |
 | [to float](https://open.spotify.com/track/0mlKE6Ye4DDsmxsraCexcM) | [Gramercy](https://open.spotify.com/artist/7tazsVXyiv13qgBbmDRtHI) | [to float](https://open.spotify.com/album/6r0Gj5Vvbk2S7zyk5E9ZWz) | 2:33 | 2023-09-22 |  |
 | [Tulips](https://open.spotify.com/track/7HdTphbSIaxvCS3rSPnUqA) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Tulips](https://open.spotify.com/album/2E1OnMBa7jtAztSiWHoDnB) | 1:38 | 2023-09-22 |  |
 | [undertheparasol](https://open.spotify.com/track/3UizsFODsw6Jdhwxj8lez4) | [uniqlesse](https://open.spotify.com/artist/4EQ0a6RygiHzb95fmQYc72) | [undertheparasol](https://open.spotify.com/album/7ytiWK7Kjl9xldcXsIEZ5a) | 2:34 | 2023-09-22 |  |
@@ -112,5 +113,6 @@
 | [wonderland](https://open.spotify.com/track/2fP5vQ1GnN9FhbWpPRgQeT) | [Behind Clouds](https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM) | [Broken Clocks And Still Time](https://open.spotify.com/album/3DznMUC2aXorcY7A4i9bAq) | 1:50 | 2023-09-22 |  |
 | [Workit](https://open.spotify.com/track/7GmA2dTy4r4MPxenVVDzMy) | [Netta Inn](https://open.spotify.com/artist/7lF2gpQHWssOuxR1kipNsn) | [Workit](https://open.spotify.com/album/1WSr66Wahw1IvFjmystaxW) | 2:45 | 2023-09-22 |  |
 | [Your Own Path](https://open.spotify.com/track/245r1ee2yxH711FCg5WhSf) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [Your Own Path](https://open.spotify.com/album/70YyDdKO9F2M6lS2fK1QNc) | 2:15 | 2023-09-22 |  |
+| [Yuna](https://open.spotify.com/track/0myPNIeqjElCgxGy1NrnJO) | [Kanisan](https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO), [lost echoes](https://open.spotify.com/artist/4qEfsqgimyar3YYKEUQpWN) | [Yuna](https://open.spotify.com/album/0XrFcg4EQXssbvgGDtwCQZ) | 2:03 | 2023-11-24 |  |
 
 \*This playlist was first scraped on 2023-10-03. Prior content cannot be recovered.

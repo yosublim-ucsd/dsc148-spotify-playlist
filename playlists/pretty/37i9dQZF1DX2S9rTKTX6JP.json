@@ -1,12 +1,12 @@
 {
   "description": "The very best rock covers. Cover: Dolly Parton",
-  "num_followers": 664732,
+  "num_followers": 664824,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmI1OTYyNzM0Y2YzZDdlODRkYTQ5ZGU2NWQ4OWJhYmI0NjY2NTI4",
+  "snapshot_id": "MCxhMmQwNWFmNzU4NWI4NjFiMjllNzgyYzg3MzBhMzAzNjA3MTcxZDVj",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "The Best Of Us For The Rest Of Us",
         "url": "https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 199253,
       "name": "Take On Me",
       "url": "https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/5q021NVGXBp7c9QPpZnijt"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Drunk Enough To Dance",
+        "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "duration_ms": 154680,
+      "name": "I Ran (So Far Away)",
+      "url": "https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Temple of Love (feat. VV)",
         "url": "https://open.spotify.com/album/5c2QMiZp0FZgBLwV9wLioj"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 204759,
       "name": "Temple of Love (feat. VV)",
       "url": "https://open.spotify.com/track/2jif0PZ9YHW8Nn3BlBIHUX"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Drunk Enough To Dance",
-        "url": "https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi"
-      },
-      "artists": [
-        {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
-        }
-      ],
-      "duration_ms": 154680,
-      "name": "I Ran (So Far Away)",
-      "url": "https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "DANSE MACABRE",
-        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 265547,
-      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
-      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Don't Worry About Me",
         "url": "https://open.spotify.com/album/3hltYmpx3K2z2C2nlRLv7N"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 143360,
       "name": "What a Wonderful World",
       "url": "https://open.spotify.com/track/3Kgz8aGqtXJFyihsSuNAWO"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "DANSE MACABRE",
+        "url": "https://open.spotify.com/album/0KisxbRkcWcpSLtjioptif"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 265547,
+      "name": "PSYCHO KILLER (featuring Victoria De Angelis)",
+      "url": "https://open.spotify.com/track/6Kl9rabCEVbBpegNTQfFc6"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/6pRgz5qJcDGpGhVSU1qJiv"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/7uYwtxCDbqPEmhX0UyHq5d"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Goes to the Movies (Expanded Edition)",
         "url": "https://open.spotify.com/album/4ZgrTd5XdnWWwmfXGJMGAV"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 209586,
       "name": "...Baby One More Time",
       "url": "https://open.spotify.com/track/1wb2o0e5qrwSSoDUVIz6WM"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/6pRgz5qJcDGpGhVSU1qJiv"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/7uYwtxCDbqPEmhX0UyHq5d"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Dancing on My Own",
-        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Dancing on My Own",
-      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "At Night We Live",
         "url": "https://open.spotify.com/album/1hHLV0qtV4X9O1iAoVQP3i"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 262746,
       "name": "Pony",
       "url": "https://open.spotify.com/track/108U9FAOtfHOAIGdHG12Fc"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Live & Inspired",
+        "url": "https://open.spotify.com/album/6QOoJkjaJw5mp6FUp6KCkN"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/30KaTTGsHO8z9esyfuJuU6"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Dancing on My Own",
+        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Dancing on My Own",
+      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "The Human Condition (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4ZtEyTG6s7MfPjoEDrxH9C"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 284935,
       "name": "The Only Exception - Spotify Single",
       "url": "https://open.spotify.com/track/3aemIcBosf7udts37BAvXx"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Instant Karma: The Amnesty International Campaign To Save Darfur (Standard Version)",
-        "url": "https://open.spotify.com/album/5hJwAMtrAvp9cGLhR3ZmYN"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 263733,
-      "name": "Working Class Hero",
-      "url": "https://open.spotify.com/track/1rls1uw64JiGI2O7MZABWj"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Instant Karma: The Amnesty International Campaign To Save Darfur (Standard Version)",
+        "url": "https://open.spotify.com/album/5hJwAMtrAvp9cGLhR3ZmYN"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 263733,
+      "name": "Working Class Hero",
+      "url": "https://open.spotify.com/track/1rls1uw64JiGI2O7MZABWj"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "For What It's Worth",
         "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
       },
@@ -2087,22 +2103,6 @@
       "duration_ms": 292040,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Live & Inspired",
-        "url": "https://open.spotify.com/album/6QOoJkjaJw5mp6FUp6KCkN"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 226293,
-      "name": "Come Together",
-      "url": "https://open.spotify.com/track/30KaTTGsHO8z9esyfuJuU6"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Uninvited",
-        "url": "https://open.spotify.com/album/01gQ0OeVj1zV5HZh2Sk5e8"
-      },
-      "artists": [
-        {
-          "name": "Red Sun Rising",
-          "url": "https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX"
-        }
-      ],
-      "duration_ms": 259689,
-      "name": "Uninvited",
-      "url": "https://open.spotify.com/track/735Ge0JqNmz6hKYEB1q7vZ"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 246695,
       "name": "Beds Are Burning (feat. Tim Mcllrath of Rise Against)",
       "url": "https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Uninvited",
+        "url": "https://open.spotify.com/album/01gQ0OeVj1zV5HZh2Sk5e8"
+      },
+      "artists": [
+        {
+          "name": "Red Sun Rising",
+          "url": "https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX"
+        }
+      ],
+      "duration_ms": 259689,
+      "name": "Uninvited",
+      "url": "https://open.spotify.com/track/735Ge0JqNmz6hKYEB1q7vZ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2259,6 +2259,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "The Dirt Soundtrack",
+        "url": "https://open.spotify.com/album/6FLUCOGmzatDd2Ab85FjsO"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 188133,
+      "name": "Like a Virgin",
+      "url": "https://open.spotify.com/track/7zmEtA2x8zcMDiDBr9kT2p"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/6LnhVGmR0JG4boB3NTsE8O"
       },
@@ -2291,22 +2307,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "The Dirt Soundtrack",
-        "url": "https://open.spotify.com/album/6FLUCOGmzatDd2Ab85FjsO"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 188133,
-      "name": "Like a Virgin",
-      "url": "https://open.spotify.com/track/7zmEtA2x8zcMDiDBr9kT2p"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Highway to Hell (feat. Bruce Springsteen & Eddie Vedder)",
         "url": "https://open.spotify.com/album/60qUFi2mJQWWvBONczWFLa"
       },
@@ -2327,6 +2327,22 @@
       "duration_ms": 211616,
       "name": "Highway to Hell (feat. Bruce Springsteen & Eddie Vedder)",
       "url": "https://open.spotify.com/track/30BltpTtw0lEHf34NesoUu"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Wait",
+        "url": "https://open.spotify.com/album/7nI7V6Sc70en38PPnjPAKE"
+      },
+      "artists": [
+        {
+          "name": "The Polyphonic Spree",
+          "url": "https://open.spotify.com/artist/0inqWv3OS4VpWt691ki8yk"
+        }
+      ],
+      "duration_ms": 323666,
+      "name": "Lithium",
+      "url": "https://open.spotify.com/track/4IEn8Os5XMZpIRF9xX74Aj"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2359,22 +2375,6 @@
       "duration_ms": 275146,
       "name": "The Chain",
       "url": "https://open.spotify.com/track/6Y3AzfzJP4NswhfLOpd8aY"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Wait",
-        "url": "https://open.spotify.com/album/7nI7V6Sc70en38PPnjPAKE"
-      },
-      "artists": [
-        {
-          "name": "The Polyphonic Spree",
-          "url": "https://open.spotify.com/artist/0inqWv3OS4VpWt691ki8yk"
-        }
-      ],
-      "duration_ms": 323666,
-      "name": "Lithium",
-      "url": "https://open.spotify.com/track/4IEn8Os5XMZpIRF9xX74Aj"
     },
     {
       "added_at": "2023-11-17 05:00:00",

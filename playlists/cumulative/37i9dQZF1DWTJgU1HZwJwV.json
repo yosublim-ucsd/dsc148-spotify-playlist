@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Act of Kindness",
+        "url": "https://open.spotify.com/album/6nKme2M8g4OjVWz7v8Ze9W"
+      },
+      "artists": [
+        {
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185190,
+      "name": "Act of Kindness",
+      "url": "https://open.spotify.com/track/3Xip9lwNo2DAPADWHdVgyi"
+    },
+    {
+      "album": {
         "name": "Adelita",
         "url": "https://open.spotify.com/album/1uPC9jQL9J7q8SsjxuphpP"
       },
@@ -3990,7 +4008,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 143391,
       "name": "Marbles",
       "url": "https://open.spotify.com/track/4BeC6brIcRPXt6JYFGPLC8"
@@ -4358,6 +4376,24 @@
       "duration_ms": 99069,
       "name": "Moments",
       "url": "https://open.spotify.com/track/5KscTL4V9Yz0hgH5aiJCLF"
+    },
+    {
+      "album": {
+        "name": "Moments with you",
+        "url": "https://open.spotify.com/album/6ozrFm4mb8spn0V08f3GHi"
+      },
+      "artists": [
+        {
+          "name": "Andreas Horschel",
+          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149422,
+      "name": "Moments with you",
+      "url": "https://open.spotify.com/track/3p9wB5uVvsf0BzqY8y0W3X"
     },
     {
       "album": {
@@ -5647,6 +5683,24 @@
     },
     {
       "album": {
+        "name": "Sanremo",
+        "url": "https://open.spotify.com/album/6rgFGj3GbupAuYNeG38r7f"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154846,
+      "name": "Sanremo",
+      "url": "https://open.spotify.com/track/242E5RUG5gjHgZa7PjOUNg"
+    },
+    {
+      "album": {
         "name": "Santa Fiora",
         "url": "https://open.spotify.com/album/6k4IDURpsjao81eMH4LcHF"
       },
@@ -6234,7 +6288,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 120112,
       "name": "Sunset In Alcudia",
       "url": "https://open.spotify.com/track/24LazZmLViVcjOHPCeJikj"
@@ -6674,6 +6728,24 @@
       "duration_ms": 122449,
       "name": "The Summer House",
       "url": "https://open.spotify.com/track/5bc5OxgJbevqYvM1gWXpYg"
+    },
+    {
+      "album": {
+        "name": "The Time Traveler",
+        "url": "https://open.spotify.com/album/60UxszwncrUHrHxI7GJ5vM"
+      },
+      "artists": [
+        {
+          "name": "Leandra Costa",
+          "url": "https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174937,
+      "name": "The Time Traveler",
+      "url": "https://open.spotify.com/track/0d1TNdaJWOePFAiSIiZJZ3"
     },
     {
       "album": {
@@ -7506,6 +7578,24 @@
       "duration_ms": 158000,
       "name": "Yellow Rain",
       "url": "https://open.spotify.com/track/6c7cIoyBvbLvxgofSU7fnv"
+    },
+    {
+      "album": {
+        "name": "Yesteryear",
+        "url": "https://open.spotify.com/album/5Uu6qKT8FsFyUD0tRDIfxZ"
+      },
+      "artists": [
+        {
+          "name": "Armand Beck",
+          "url": "https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159242,
+      "name": "Yesteryear",
+      "url": "https://open.spotify.com/track/26onATmE5ib4iKkPfvHtnw"
     },
     {
       "album": {

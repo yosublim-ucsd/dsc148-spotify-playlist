@@ -4,7 +4,7 @@
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-158 songs - 13 hr 20 min
+159 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Hampus & Anna](https://open.spotify.com/track/42ZlXHwEqXy9ezOEkd3wOx) | [William Soovik Grand Finale](https://open.spotify.com/artist/2VUNVm36k2gAXHp8eGWXRi), [Malin Wättring](https://open.spotify.com/artist/7KLJdGfoqRW7HU9BFgvGbi), [Signe Dahlgreen](https://open.spotify.com/artist/2m9LMkvEcJ3Fc5TdfnEYz1), [Viktor Reuter](https://open.spotify.com/artist/5czCa9acpSUFLbQa7RnSfv), [Joel Fabiansson](https://open.spotify.com/artist/3nID4VwJvkwd8kgC63HHND) | [Major](https://open.spotify.com/album/766C6KZ3N0GAQZCQ2lr7Wz) | 4:33 | 2021-12-17 | 2022-05-04 |
 | [Happiness](https://open.spotify.com/track/2MdVE0AkcaD126zpvs3JPv) | [Stav Goldberg](https://open.spotify.com/artist/5CRwdWuGHFsgGncNfFU3X2) | [Happiness](https://open.spotify.com/album/35CJDMD5vmhwT4ybPlGRHa) | 5:32 | 2022-05-05 | 2022-08-31 |
 | [Happy and the Fall](https://open.spotify.com/track/36FSengmFZRJNe0xaY1GGA) | [Magnus Öström](https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2) | [Searching for Jupiter](https://open.spotify.com/album/31QdNyizKKlLYf8ZSdUOL5) | 5:35 | 2021-12-17 |  |
+| [Have A Talk With God](https://open.spotify.com/track/0OATJVDdjUIkGnYnccnBEb) | [Henrik Gunde](https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu), [Nicolas Kock](https://open.spotify.com/artist/5hbQEMdQLyp3ncCcI62uPW), [Karsten Bagge](https://open.spotify.com/artist/1eLFONDpKa9ArYaoVjDrKE) | [Have A Talk With God](https://open.spotify.com/album/5YWlUw8scbmkvdDQtfYXF3) | 4:29 | 2023-11-24 |  |
 | [Händelse](https://open.spotify.com/track/6DLfsQt62XFWihmhU5NDo5) | [Förnuft och Känsla](https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0) | [Händelse](https://open.spotify.com/album/7qKzuLctXEwic4HiJMDMp4) | 4:39 | 2021-12-17 |  |
 | [Home Cookin' \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/6QzARXbdztTRu42kQigY96) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Stylings Of Silver \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO) | 6:28 | 2021-12-17 |  |
 | [Honey Dripper](https://open.spotify.com/track/0V75nAVrYddcZA41d8MtKn) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 2:22 | 2022-04-13 | 2022-11-17 |

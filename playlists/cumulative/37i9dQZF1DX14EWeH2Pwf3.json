@@ -74,6 +74,10 @@
         {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
       "date_added": "2023-11-20",
@@ -1560,6 +1564,18 @@
         {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
         }
       ],
       "date_added": "2023-11-17",
@@ -1974,6 +1990,10 @@
         {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         }
       ],
       "date_added": "2023-11-17",
@@ -2920,7 +2940,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 182407,
       "name": "FASHION (feat. ANNA, Lazza, Tony Effe & Benny Benassi)",
       "url": "https://open.spotify.com/track/3wld38PU9xGmtSbO5elWSt"
@@ -3204,6 +3224,14 @@
         {
           "name": "Sfera Ebbasta",
           "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         }
       ],
       "date_added": "2023-11-17",
@@ -5224,7 +5252,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 192611,
       "name": "Momenti No",
       "url": "https://open.spotify.com/track/4IxM8LopMS2014C2LTJEYu"
@@ -6971,6 +6999,36 @@
     },
     {
       "album": {
+        "name": "Effetto notte (L'alba)",
+        "url": "https://open.spotify.com/album/1RwNWkA8leLYPXdCjoOdHl"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        },
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184097,
+      "name": "RAY LIOTTA - goodfellas",
+      "url": "https://open.spotify.com/track/2ghK72VHQzKy3olZWsrwQ7"
+    },
+    {
+      "album": {
         "name": "TRENCHES BABY",
         "url": "https://open.spotify.com/album/2hR7F1mFXBaSuGE9dL1B7i"
       },
@@ -7320,6 +7378,24 @@
       "duration_ms": 176426,
       "name": "Seignosse",
       "url": "https://open.spotify.com/track/1aHWdsWQooVkRhZL2oU8m2"
+    },
+    {
+      "album": {
+        "name": "SELE\u00c7AO (prod. MILES) 07.07.23",
+        "url": "https://open.spotify.com/album/5dixIOOyTr0IaF2LVFlGIx"
+      },
+      "artists": [
+        {
+          "name": "yungest Moonstar",
+          "url": "https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141116,
+      "name": "SELE\u00c7AO (prod. MILES) 07.07.23",
+      "url": "https://open.spotify.com/track/20vV3sZSFlDW4JMmJ0HNW7"
     },
     {
       "album": {

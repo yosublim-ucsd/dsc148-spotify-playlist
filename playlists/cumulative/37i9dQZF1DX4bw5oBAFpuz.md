@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-330 songs - 19 hr 13 min
+331 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [Shallow \- Radio Edit](https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:37 | 2023-02-23 | 2023-07-15 |
 | [Shatterproof \- Acoustic](https://open.spotify.com/track/513W9H23o8w42uqAHglMlM) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Shatterproof \(Acoustic\)](https://open.spotify.com/album/21GW5aF4xNYmzMNLjREhZy) | 2:35 | 2023-09-07 |  |
 | [She](https://open.spotify.com/track/5FMbo350dmyodXrct0XxyQ) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [Lean into Me](https://open.spotify.com/album/1qMdxBw10qvEbt7Z7zufTt) | 2:49 | 2023-04-25 |  |
-| [She Doesn't Know \- Radio Edit](https://open.spotify.com/track/0iwXrzdFwTEcf8GR2rm2QB) | [Valerius](https://open.spotify.com/artist/17cWhusbHm4VTSrR8ZK7xg) | [Valerius](https://open.spotify.com/album/2AZbBVLDiQ9Vm52MNe3UaG) | 3:12 | 2023-04-25 |  |
+| [She Doesn't Know \- Radio Edit](https://open.spotify.com/track/0iwXrzdFwTEcf8GR2rm2QB) | [Valerius](https://open.spotify.com/artist/17cWhusbHm4VTSrR8ZK7xg) | [Valerius](https://open.spotify.com/album/2AZbBVLDiQ9Vm52MNe3UaG) | 3:12 | 2023-04-25 | 2023-11-24 |
 | [She Will Be Loved \- Radio Mix](https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:19 | 2023-02-23 | 2023-03-18 |
 | [Silhouette](https://open.spotify.com/track/3tn88WWmoGXnFelINCXRRw) | [Lisa Lois](https://open.spotify.com/artist/1dGsUN9Hwx78H6MdDquxLL) | [Breaking Away \(Deluxe Edition\)](https://open.spotify.com/album/4JwM6rGlSRICnJk0NRgK9o) | 3:36 | 2023-02-23 |  |
 | [Sitting, Waiting, Wishing](https://open.spotify.com/track/5eWOsyHHic4vJP3LjTVhqv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:03 | 2023-02-23 |  |
@@ -284,6 +284,7 @@
 | [Tennessee Whiskey](https://open.spotify.com/track/7qKBw3VBU6dVqK6F8WBIOJ) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Tennessee Whiskey](https://open.spotify.com/album/71KzrFnqFfcPOptYLPboZM) | 4:22 | 2023-02-23 |  |
 | [The Hardest Part](https://open.spotify.com/track/4Tw9JYF9HOuPRyccNWMgwf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:22 | 2023-04-06 |  |
 | [The Heartbreak Bird](https://open.spotify.com/track/5KqmuUNzIBh2iJxluAiqE2) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Filled With Gold](https://open.spotify.com/album/0BQsC0ggLM5IJ4AM8KBIbq) | 3:49 | 2023-04-25 | 2023-11-20 |
+| [The Heartbreak Bird](https://open.spotify.com/track/5zMhcFB8EuJ4WgiaogEeV5) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [Filled With Gold](https://open.spotify.com/album/58Ah5j1LlglDcbbUG7Hpzw) | 3:49 | 2023-11-02 |  |
 | [The Heartbreak Bird](https://open.spotify.com/track/6TVJLKqRFUahnjlySOG1EG) | [Sven Ross](https://open.spotify.com/artist/2WiTb3ZPchkTg0JjH6MlBJ) | [The Heartbreak Bird](https://open.spotify.com/album/6nSOxkunntWjzWUJUDweEh) | 3:49 | 2023-02-23 | 2023-03-30 |
 | [The Light](https://open.spotify.com/track/7hz3BdldMUmj81yy2JjYaj) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [The Light](https://open.spotify.com/album/5YFH2ZhzYhWltkgmMd1mmU) | 3:37 | 2023-04-25 | 2023-11-22 |
 | [The Man Who Can't Be Moved](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:01 | 2023-02-23 |  |

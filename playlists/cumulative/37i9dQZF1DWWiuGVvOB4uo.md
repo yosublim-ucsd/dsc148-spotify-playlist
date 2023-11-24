@@ -4,7 +4,7 @@
 
 > Acoustic covers of all your favourite songs.
 
-289 songs - 15 hr 48 min
+292 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Hey There Delilah](https://open.spotify.com/track/1cwlTB94HAguRS4RRZ7oRW) | [stories](https://open.spotify.com/artist/2TzZg302CB0oW5ZMeTW98p), [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Hey There Delilah](https://open.spotify.com/album/3qsoB2nhBMHwjwns50qDgr) | 3:15 | 2022-12-02 |  |
 | [Hey Ya! \- Acoustic](https://open.spotify.com/track/7id2nRroQIMekiV1KRWzGW) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Hey Ya! \(Acoustic\)](https://open.spotify.com/album/7CRgaJzV0QUPKI423ONdwQ) | 2:27 | 2023-04-14 |  |
 | [High And Dry](https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [The Bends](https://open.spotify.com/album/49222lHU3qAalWzClAabbp) | 3:52 | 2022-08-26 | 2023-02-03 |
-| [Hold On](https://open.spotify.com/track/47GwIvmWNwmzurul1rFyJ2) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Hold On](https://open.spotify.com/album/4UycA6we6inG3usBonCkN5) | 3:37 | 2022-08-26 |  |
+| [Hold On](https://open.spotify.com/track/47GwIvmWNwmzurul1rFyJ2) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Hold On](https://open.spotify.com/album/4UycA6we6inG3usBonCkN5) | 3:37 | 2022-08-26 | 2023-11-24 |
 | [Home / Dirty Paws](https://open.spotify.com/track/0Fqee2fFR57uDmrHQ5389d) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Covers, Vol\. 1](https://open.spotify.com/album/3fGMt0VMIZqH08nfarMzjE) | 2:53 | 2022-08-26 |  |
 | [Home / Dirty Paws](https://open.spotify.com/track/7jeMhsrYnRC4369jwAzWxP) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Home / Dirty Paws](https://open.spotify.com/album/5esnPiLknsgKX8lxt2qjsa) | 2:53 | 2022-10-28 | 2022-11-14 |
 | [How To Love](https://open.spotify.com/track/2RJaWX69GrNwbARQrQYAL2) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [How To Love](https://open.spotify.com/album/0GmJ7gDYpeaGRneIUWt7jC) | 3:32 | 2022-08-26 | 2022-12-10 |
@@ -188,8 +188,9 @@
 | [Lovefool](https://open.spotify.com/track/1ldIioBSlwVI0XOaGhooXW) | [Carla Menezes](https://open.spotify.com/artist/0PubppYseB9KQJFHREadG2) | [Lovefool](https://open.spotify.com/album/33VrjgrxbbZoYuhcXDyUA6) | 3:24 | 2022-08-26 | 2022-12-24 |
 | [Lovely](https://open.spotify.com/track/6jI7yZWYt9xcmF5iDBJnHL) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Lovely](https://open.spotify.com/album/1oGHLQmlnDpmfwntNA5K7M) | 3:09 | 2022-08-26 |  |
 | [Lover](https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5) | [Water and Salt](https://open.spotify.com/artist/2vdvi2jCjTe2W3OLwRGAjv) | [Lover](https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm) | 4:02 | 2022-08-26 |  |
-| [Make You Feel My Love](https://open.spotify.com/track/1NqYdUGNJXl4kgH3ucvo4D) | [Redah](https://open.spotify.com/artist/5IBFJ0Td2NQq2CHUQENsi6), [Eva Nomikou](https://open.spotify.com/artist/0oXZ5BcOpZwezSlgplCRJt) | [Make You Feel My Love](https://open.spotify.com/album/7c1D4N6yGZFpNAbDLUtxbo) | 3:05 | 2022-08-26 |  |
-| [Mama Tried](https://open.spotify.com/track/3rf6VnUNCIgWlujpWL5hlE) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [Mama Tried](https://open.spotify.com/album/1iQ3sSsCp4nvcs4313TKpF) | 2:24 | 2022-08-26 |  |
+| [Make You Feel My Love](https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I) | [Morgan St\. Douglas](https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT) | [Make You Feel My Love](https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L) | 3:09 | 2023-11-24 |  |
+| [Make You Feel My Love](https://open.spotify.com/track/1NqYdUGNJXl4kgH3ucvo4D) | [Redah](https://open.spotify.com/artist/5IBFJ0Td2NQq2CHUQENsi6), [Eva Nomikou](https://open.spotify.com/artist/0oXZ5BcOpZwezSlgplCRJt) | [Make You Feel My Love](https://open.spotify.com/album/7c1D4N6yGZFpNAbDLUtxbo) | 3:05 | 2022-08-26 | 2023-11-24 |
+| [Mama Tried](https://open.spotify.com/track/3rf6VnUNCIgWlujpWL5hlE) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [Mama Tried](https://open.spotify.com/album/1iQ3sSsCp4nvcs4313TKpF) | 2:24 | 2022-08-26 | 2023-11-24 |
 | [Midnight City](https://open.spotify.com/track/2SyCP2ikpNid6yC01Yw4Ul) | [Clementine Duo](https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2) | [Midnight City](https://open.spotify.com/album/6Mt6Fw8XIbuB1GkDT1CSdI) | 3:16 | 2022-10-14 | 2023-01-20 |
 | [Milkshake \(Acoustic\)](https://open.spotify.com/track/7GBJgWf0GLs4RgSlqsSSf3) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [Milkshake \(Acoustic\)](https://open.spotify.com/album/5eCExezuvtFapdTybgDB8H) | 2:28 | 2023-04-14 | 2023-06-23 |
 | [More Than Words \- Spotify Singles](https://open.spotify.com/track/6OOTtXpBTXSJYCgKf6zjae) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Spotify Singles](https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1) | 3:33 | 2022-08-26 | 2023-03-31 |
@@ -214,7 +215,7 @@
 | [Paradise \- Acoustic](https://open.spotify.com/track/6VVi6cadD8WZGfredhpaPw) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Paradise \(Acoustic\)](https://open.spotify.com/album/7weXwUa85fSK2MmtoFyzYZ) | 2:33 | 2022-08-26 | 2022-12-25 |
 | [Pillow Talk \(Acoustic\)](https://open.spotify.com/track/3u1RjvWGVcVWPUMMbhDaA7) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [Pillow Talk \(Acoustic\)](https://open.spotify.com/album/3zmJKO6OA2iy1J2ml9nvGz) | 3:30 | 2022-10-28 |  |
 | [Plowed](https://open.spotify.com/track/3F3fUJdadTQEqO81ZWF5ZK) | [Zoe De La Sera](https://open.spotify.com/artist/4bpDG5rmsYxLQHvRbIhSdx) | [Plowed](https://open.spotify.com/album/6dXn2EYiw4kD1PFwpgdLoM) | 3:18 | 2022-08-26 | 2023-09-01 |
-| [positions \- Acoustic](https://open.spotify.com/track/1Ca0BlORhLRm0Z3F66gh5t) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [positions \(Acoustic\)](https://open.spotify.com/album/0MDeIBghODZkcjb9F3KRSp) | 2:32 | 2022-08-26 |  |
+| [positions \- Acoustic](https://open.spotify.com/track/1Ca0BlORhLRm0Z3F66gh5t) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [positions \(Acoustic\)](https://open.spotify.com/album/0MDeIBghODZkcjb9F3KRSp) | 2:32 | 2022-08-26 | 2023-11-24 |
 | [Pretty Girl \- Acoustic Version](https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL) | [Becca Adams](https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb) | [Pretty Girl \(Acoustic Version\)](https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk) | 3:00 | 2022-08-26 | 2022-12-10 |
 | [Pretty Paper](https://open.spotify.com/track/4Uo9MMLohVxRyD4VPSDdDq) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Pretty Paper](https://open.spotify.com/album/1gPXN9FQn2BD4DLq0UyQwn) | 2:43 | 2022-08-26 | 2023-02-18 |
 | [Promise Me](https://open.spotify.com/track/2MsN67ggzmrJFxZ7xMO0Im) | [Beven Fonseca](https://open.spotify.com/artist/6TrUanZBSzLJ7uFGNdGL4Q), [Sonia Saigal](https://open.spotify.com/artist/19qjec4tsQpCrg4DLFb3oq) | [Promise Me](https://open.spotify.com/album/5BgPTsK8FenE6ioKuuciCL) | 3:09 | 2022-08-26 | 2022-12-10 |
@@ -275,7 +276,8 @@
 | [Torn](https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Torn](https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6) | 3:43 | 2022-08-26 |  |
 | [Use Somebody](https://open.spotify.com/track/3XXaCFZD3dcik18uJYs9fA) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [Use Somebody](https://open.spotify.com/album/1uWEXc1yoSNuS3jfUbNWyC) | 3:08 | 2022-10-14 |  |
 | [Wake Me Up](https://open.spotify.com/track/2nBrIzKacrNdIxs90FlsT1) | [Roses & Frey](https://open.spotify.com/artist/2FyfsZmatt8gWR3LKnQIwE) | [Wake Me Up](https://open.spotify.com/album/3vTe1NISvsM9f1QGjraPsQ) | 3:16 | 2022-08-26 | 2023-01-05 |
-| [Watermelon Sugar \- Acoustic](https://open.spotify.com/track/1TZBg0IBHvqfSAlHvVd8eH) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Watermelon Sugar \(Acoustic\)](https://open.spotify.com/album/4vljiSAPCLIfX03BwIgRhk) | 3:03 | 2022-08-26 |  |
+| [Waterfalls](https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf) | [Tobey Rosen](https://open.spotify.com/artist/7xW6v5mmwGhWtoZ0x2AhLN) | [Waterfalls](https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz) | 2:50 | 2023-11-24 |  |
+| [Watermelon Sugar \- Acoustic](https://open.spotify.com/track/1TZBg0IBHvqfSAlHvVd8eH) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [Watermelon Sugar \(Acoustic\)](https://open.spotify.com/album/4vljiSAPCLIfX03BwIgRhk) | 3:03 | 2022-08-26 | 2023-11-24 |
 | [We Can't Stop \- Acoustic](https://open.spotify.com/track/2nYRexPm8vndayCOHgbovU) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [We Can't Stop \(Acoustic\)](https://open.spotify.com/album/1KfszzDrkQINyxI5oUgCxk) | 2:58 | 2022-08-26 |  |
 | [What About Us \- Acoustic](https://open.spotify.com/track/7e4Pftu2tzDeY0W0690OKQ) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [What About Us \(Acoustic\)](https://open.spotify.com/album/0oqgSmNw05kvsTG9ap2Vv5) | 4:15 | 2022-08-26 | 2023-01-20 |
 | [what if](https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [what if](https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq) | 3:21 | 2023-10-27 |  |
@@ -297,5 +299,6 @@
 | [Wrecking Ball \- Acoustic](https://open.spotify.com/track/161JZ8ANbUaizt4sgI8j21) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Wrecking Ball \(Acoustic\)](https://open.spotify.com/album/2nETuQ5qhW7T4gAiiptjd4) | 3:30 | 2022-08-26 | 2023-02-03 |
 | [Yellow \(Acoustic Cover\)](https://open.spotify.com/track/29eMw0pm8wTSUgnNZiA0rZ) | [Penny Sweet](https://open.spotify.com/artist/0hZthAp1iTcXizd63szbku) | [Yellow \(Acoustic Cover\)](https://open.spotify.com/album/0k9eNBzlFmHoZBHwEQxOeF) | 3:47 | 2023-04-14 |  |
 | [You Get What You Give](https://open.spotify.com/track/7BoCnys48XsoCiJwE6g491) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [You Get What You Give](https://open.spotify.com/album/7eAjW0akqpFZc14QeBj4Gd) | 2:53 | 2022-08-26 | 2023-04-14 |
+| [Your Song](https://open.spotify.com/track/5m8CFxNmVxgIUezNyZ3e6e) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f) | [Your Song](https://open.spotify.com/album/1OaSVhsJ33mQVXQukPItlv) | 2:59 | 2023-11-24 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,370 songs - 2 day 23 hr 16 min
+1,371 songs - 2 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -567,7 +567,7 @@
 | [Home To You \(This Christmas\)](https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Home To You \(This Christmas\)](https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV) | 3:45 | 2021-11-30 | 2022-12-28 |
 | [Honest \(feat\. Don Toliver\)](https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Honest](https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf) | 3:13 | 2022-04-30 | 2022-05-07 |
 | [Honestly](https://open.spotify.com/track/36KK75jbIyYOAyqoB8W064) | [Ulrikke](https://open.spotify.com/artist/5h9tiTx6BP5l5ZCrI7cUYh) | [Honestly](https://open.spotify.com/album/3WXrhTdhPwXaki8g8bmwVm) | 2:57 | 2023-01-10 | 2023-02-15 |
-| [hope ur miserable](https://open.spotify.com/track/4JYijTDaaV48IotViPKOm6) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [hope ur miserable](https://open.spotify.com/album/7CnjqYvhqexT3lRJA3TDQS) | 2:25 | 2023-10-28 |  |
+| [hope ur miserable](https://open.spotify.com/track/4JYijTDaaV48IotViPKOm6) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [hope ur miserable](https://open.spotify.com/album/7CnjqYvhqexT3lRJA3TDQS) | 2:25 | 2023-10-28 | 2023-11-24 |
 | [Hopelessly Hopeless](https://open.spotify.com/track/6Kvo2pdl5JPTvYKgaq5lYm) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Hopelessly Hopeless](https://open.spotify.com/album/6IcKjirOFkykNCjo6O7wD9) | 3:24 | 2022-01-29 | 2022-03-13 |
 | [Hopelessly Hopeless](https://open.spotify.com/track/7esGcqsNB1vSVAeVDfOW1c) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Hopelessly Hopeless](https://open.spotify.com/album/47IT3hOIZeu74pmfsNDaJH) | 3:15 | 2023-01-21 | 2023-04-02 |
 | [Hot Boy Summer \(Daydream 2022\)](https://open.spotify.com/track/4rU71m6Drus4eG3S4AQu3e) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [Hot Boy Summer \(Daydream 2022\)](https://open.spotify.com/album/55OiMlnjge6GQzNwWsBNrR) | 2:23 | 2022-04-10 | 2022-08-09 |
@@ -1319,6 +1319,7 @@
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2023-07-07 | 2023-10-29 |
 | [Voices](https://open.spotify.com/track/5zxZ7M4RgWZUHlMEwac8vt) | [Tusse](https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI) | [Voices](https://open.spotify.com/album/55w4D3r62g4hmMVvpnVkSV) | 3:04 | 2021-05-24 | 2021-06-19 |
 | [Voilà](https://open.spotify.com/track/1uAOCTevGnyKIDbgZdOCnE) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Voilà](https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE) | 2:56 | 2021-05-25 | 2021-06-04 |
+| [Vultures](https://open.spotify.com/track/21vc2kQZMS00cAyNT82a1M) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Bump J](https://open.spotify.com/artist/3L6bhGrHegoci41Jx2nP0V) | [Vultures](https://open.spotify.com/album/4BdfszFenZ1eMrISGvourZ) | 3:57 | 2023-11-23 |  |
 | [Vårrull](https://open.spotify.com/track/4tE2ySKkRFJtT36q5ie1fv) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Vårrull](https://open.spotify.com/album/3weP2oF0T3NhFCDJqXGIbx) | 2:17 | 2023-03-30 | 2023-04-15 |
 | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/track/5J6rTmMjF9DVIAF8G3M9n4) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/album/16ou1Elgll2ElsdnU4LNzn) | 3:09 | 2021-12-05 | 2021-12-06 |
 | [Wasting Angels \(with The Kid LAROI\)](https://open.spotify.com/track/2OcSE0EXzgUuqkM1NIJPHJ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 4:03 | 2022-06-04 | 2022-06-10 |

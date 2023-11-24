@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Carolina Ross en portada.",
-  "num_followers": 99313,
+  "num_followers": 99354,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjU0NTQ5YjRhYTg3ZjFlYjlkZjczNDc0ZTBmMGFiOWM2NDE5ODAy",
+  "snapshot_id": "MCw3Yjk1ODIwN2Y2MGNiMGY3YWIyY2M2NmQ0MjQ1OTZhOGUyY2FiZTgw",
   "tracks": [
     {
       "added_at": "2023-11-17 06:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Jupiter",
-        "url": "https://open.spotify.com/album/0VVF1iLypafNjK0KnvgN5K"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/50NrQCGKrRSQeTQ2IWneLf"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
         "url": "https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 180773,
       "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
       "url": "https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Jupiter",
+        "url": "https://open.spotify.com/album/0VVF1iLypafNjK0KnvgN5K"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/50NrQCGKrRSQeTQ2IWneLf"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Quiero Abrazarte Tanto",
-        "url": "https://open.spotify.com/album/6bSOwQJmOghBp04eohKJL3"
-      },
-      "artists": [
-        {
-          "name": "ROSUL",
-          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
-        }
-      ],
-      "duration_ms": 211741,
-      "name": "Quiero Abrazarte Tanto",
-      "url": "https://open.spotify.com/track/6KOMoZ9OIjxF7pCmZ0ZIXX"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "Quiz\u00e1s Ma\u00f1ana",
         "url": "https://open.spotify.com/album/09JmTJCZF852vM3wsiO5iw"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 275064,
       "name": "Quiz\u00e1s Ma\u00f1ana",
       "url": "https://open.spotify.com/track/4Jze2pgd8QU9XHjzFCIFKL"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Quiero Abrazarte Tanto",
+        "url": "https://open.spotify.com/album/6bSOwQJmOghBp04eohKJL3"
+      },
+      "artists": [
+        {
+          "name": "ROSUL",
+          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
+        }
+      ],
+      "duration_ms": 211741,
+      "name": "Quiero Abrazarte Tanto",
+      "url": "https://open.spotify.com/track/6KOMoZ9OIjxF7pCmZ0ZIXX"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Soy de Parral",
-        "url": "https://open.spotify.com/album/5dxYagkDKD4Ij1fOxm09WE"
-      },
-      "artists": [
-        {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
-        }
-      ],
-      "duration_ms": 205825,
-      "name": "Soy de Parral",
-      "url": "https://open.spotify.com/track/5Rx9uV1CS862Jkqjy4fKqw"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "Volver\u00e9 A Amar",
         "url": "https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 240680,
       "name": "Volver\u00e9 A Amar",
       "url": "https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Soy de Parral",
+        "url": "https://open.spotify.com/album/5dxYagkDKD4Ij1fOxm09WE"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        }
+      ],
+      "duration_ms": 205825,
+      "name": "Soy de Parral",
+      "url": "https://open.spotify.com/track/5Rx9uV1CS862Jkqjy4fKqw"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
-        "name": "Siempre Gabriella",
-        "url": "https://open.spotify.com/album/5dNYwOCnXWUW3G241sdEwt"
-      },
-      "artists": [
-        {
-          "name": "Gabriella",
-          "url": "https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM"
-        }
-      ],
-      "duration_ms": 201428,
-      "name": "C\u00fabreme",
-      "url": "https://open.spotify.com/track/6YCsNv4f9cHSuWRKWZ2Car"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
         "name": "Que Le Vamos A Hacer",
         "url": "https://open.spotify.com/album/70Ma9THR2zNcpYW7pLyaLa"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 203251,
       "name": "Que Le Vamos A Hacer",
       "url": "https://open.spotify.com/track/7lgZKUOlZ0OkKgxQK8SAEJ"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
+        "name": "Siempre Gabriella",
+        "url": "https://open.spotify.com/album/5dNYwOCnXWUW3G241sdEwt"
+      },
+      "artists": [
+        {
+          "name": "Gabriella",
+          "url": "https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM"
+        }
+      ],
+      "duration_ms": 201428,
+      "name": "C\u00fabreme",
+      "url": "https://open.spotify.com/track/6YCsNv4f9cHSuWRKWZ2Car"
     },
     {
       "added_at": "2023-11-17 06:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-11-17 06:00:00",
       "album": {
+        "name": "Con La Mirada",
+        "url": "https://open.spotify.com/album/2boCTrvGLGYoi0CL6oGnHE"
+      },
+      "artists": [
+        {
+          "name": "Gabriella",
+          "url": "https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM"
+        }
+      ],
+      "duration_ms": 232973,
+      "name": "Con La Mirada",
+      "url": "https://open.spotify.com/track/4BCKCpZVirE6JD4X3Hmqzi"
+    },
+    {
+      "added_at": "2023-11-17 06:00:00",
+      "album": {
         "name": "No te quiebres Vidrio (En Vivo)",
         "url": "https://open.spotify.com/album/4rcNLXlByaS7Lh4dPYrrbI"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 231793,
       "name": "Tu Lo Decidiste",
       "url": "https://open.spotify.com/track/7hUTX7fvNLej0G7u2QMWni"
-    },
-    {
-      "added_at": "2023-11-17 06:00:00",
-      "album": {
-        "name": "Con La Mirada",
-        "url": "https://open.spotify.com/album/2boCTrvGLGYoi0CL6oGnHE"
-      },
-      "artists": [
-        {
-          "name": "Gabriella",
-          "url": "https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM"
-        }
-      ],
-      "duration_ms": 232973,
-      "name": "Con La Mirada",
-      "url": "https://open.spotify.com/track/4BCKCpZVirE6JD4X3Hmqzi"
     },
     {
       "added_at": "2023-11-17 06:00:00",

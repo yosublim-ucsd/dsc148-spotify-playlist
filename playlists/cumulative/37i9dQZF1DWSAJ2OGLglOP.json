@@ -278,7 +278,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 207120,
       "name": "Fried Rice",
       "url": "https://open.spotify.com/track/1mE0VuGu21W63oGEnJ7hq2"
@@ -600,6 +600,24 @@
       "duration_ms": 198022,
       "name": "Not The 1975",
       "url": "https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5"
+    },
+    {
+      "album": {
+        "name": "NPC",
+        "url": "https://open.spotify.com/album/0N1V1eecnG4PVnBVEj1f3e"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167540,
+      "name": "NPC",
+      "url": "https://open.spotify.com/track/5XyH6QPOqSMTrXGUp4kBYx"
     },
     {
       "album": {

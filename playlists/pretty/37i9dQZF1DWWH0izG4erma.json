@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS! Cover: The Steel Woods",
-  "num_followers": 570285,
+  "num_followers": 570456,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjRlODk2YjM5OWM5ODVlYjlhMTIxNDE1MWI4NjE0MGJhMmNmNWI0",
+  "snapshot_id": "MCwxZGQ4MjZlNWMyNmVhNTQ2M2JiMzY4NTU1YWY2NWRmNWY1Yzg5YWJi",
   "tracks": [
     {
       "added_at": "2023-11-17 05:00:00",
@@ -191,18 +191,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+        "name": "Oklahoma",
+        "url": "https://open.spotify.com/album/0WiOb4EttRiuPO0C9Ofoxh"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
         }
       ],
-      "duration_ms": 231720,
-      "name": "Devil Always Made Me Think Twice",
-      "url": "https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX"
+      "duration_ms": 236823,
+      "name": "Met the Devil in Oklahoma",
+      "url": "https://open.spotify.com/track/32GtaR8mm14DOmhWzG8Jik"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -223,18 +223,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Oklahoma",
-        "url": "https://open.spotify.com/album/0WiOb4EttRiuPO0C9Ofoxh"
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
       },
       "artists": [
         {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 236823,
-      "name": "Met the Devil in Oklahoma",
-      "url": "https://open.spotify.com/track/32GtaR8mm14DOmhWzG8Jik"
+      "duration_ms": 231720,
+      "name": "Devil Always Made Me Think Twice",
+      "url": "https://open.spotify.com/track/3olGkpomYOWwRZsbFTZqiX"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Kill Me",
+        "url": "https://open.spotify.com/album/3RZlJhazwEhC0GqH4lYHVu"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 163110,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/7en1V1qZzo6DtDDHdXg93z"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Hell Paso",
         "url": "https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 156610,
       "name": "Money Spent",
       "url": "https://open.spotify.com/track/1HxcB2FgfYVhkbqNMCmq1O"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Dirt Road When I Die - EP",
-        "url": "https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM"
-      },
-      "artists": [
-        {
-          "name": "Dylan Marlowe",
-          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
-        }
-      ],
-      "duration_ms": 174280,
-      "name": "Dirt Road When I Die",
-      "url": "https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Kill Me",
-        "url": "https://open.spotify.com/album/3RZlJhazwEhC0GqH4lYHVu"
+        "name": "Dirt Road When I Die - EP",
+        "url": "https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM"
       },
       "artists": [
         {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
         }
       ],
-      "duration_ms": 163110,
-      "name": "Kill Me",
-      "url": "https://open.spotify.com/track/7en1V1qZzo6DtDDHdXg93z"
+      "duration_ms": 174280,
+      "name": "Dirt Road When I Die",
+      "url": "https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -963,6 +963,38 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
+        "name": "Whitsitt Chapel",
+        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "Halfway To Hell",
+      "url": "https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Redneck Rockstar",
+        "url": "https://open.spotify.com/album/4Y7web9v5SP8zapdG8UsYO"
+      },
+      "artists": [
+        {
+          "name": "Royale Lynn",
+          "url": "https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Redneck Rockstar",
+      "url": "https://open.spotify.com/track/5GMTJruaIyRZ14xXn59mfC"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
         "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
         "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
       },
@@ -987,18 +1019,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Redneck Rockstar",
-        "url": "https://open.spotify.com/album/4Y7web9v5SP8zapdG8UsYO"
+        "name": "Young & Hungry",
+        "url": "https://open.spotify.com/album/4vzl6sDzw1y0D0490NvALa"
       },
       "artists": [
         {
-          "name": "Royale Lynn",
-          "url": "https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK"
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Redneck Rockstar",
-      "url": "https://open.spotify.com/track/5GMTJruaIyRZ14xXn59mfC"
+      "duration_ms": 194378,
+      "name": "Young & Hungry",
+      "url": "https://open.spotify.com/track/2PQ81Xf1n16U7HUlPIUdBC"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1019,38 +1051,6 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Young & Hungry",
-        "url": "https://open.spotify.com/album/4vzl6sDzw1y0D0490NvALa"
-      },
-      "artists": [
-        {
-          "name": "The Cadillac Three",
-          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
-        }
-      ],
-      "duration_ms": 194378,
-      "name": "Young & Hungry",
-      "url": "https://open.spotify.com/track/2PQ81Xf1n16U7HUlPIUdBC"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Creeps",
-        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 226309,
-      "name": "Creeps",
-      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
         "name": "Black Motorcycle",
         "url": "https://open.spotify.com/album/3wDgQbUdgEP3CgQOullMeo"
       },
@@ -1067,22 +1067,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Ain't Nothin' to It",
-        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
+        "name": "Creeps",
+        "url": "https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        },
-        {
-          "name": "The Rockin' CJB",
-          "url": "https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 257079,
-      "name": "Long Haired Country Boy (feat. The Rockin' CJB)",
-      "url": "https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ"
+      "duration_ms": 226309,
+      "name": "Creeps",
+      "url": "https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1139,38 +1135,38 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Cottonmouth (Rock Mix) (feat. Spencer Charnas of Ice Nine Kills)",
-        "url": "https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL"
+        "name": "Ain't Nothin' to It",
+        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
       },
       "artists": [
         {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         },
         {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+          "name": "The Rockin' CJB",
+          "url": "https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV"
         }
       ],
-      "duration_ms": 165465,
-      "name": "Cottonmouth (Rock Mix)",
-      "url": "https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp"
+      "duration_ms": 257079,
+      "name": "Long Haired Country Boy (feat. The Rockin' CJB)",
+      "url": "https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Whitsitt Chapel",
-        "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
+        "name": "Like an Arrow",
+        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
       },
       "artists": [
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
         }
       ],
-      "duration_ms": 178440,
-      "name": "Halfway To Hell",
-      "url": "https://open.spotify.com/track/1fAeFPXsX08Ovnn9iV1x27"
+      "duration_ms": 247008,
+      "name": "Waiting for the Thunder",
+      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1191,18 +1187,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Like an Arrow",
-        "url": "https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0"
+        "name": "That Lonesome Song",
+        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
       },
       "artists": [
         {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
         }
       ],
-      "duration_ms": 247008,
-      "name": "Waiting for the Thunder",
-      "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
+      "duration_ms": 251960,
+      "name": "Between Jennings And Jones",
+      "url": "https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1239,18 +1235,22 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "That Lonesome Song",
-        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
+        "name": "Cottonmouth (Rock Mix) (feat. Spencer Charnas of Ice Nine Kills)",
+        "url": "https://open.spotify.com/album/6ddfTbi21HXRpqGNTmswOL"
       },
       "artists": [
         {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
         }
       ],
-      "duration_ms": 251960,
-      "name": "Between Jennings And Jones",
-      "url": "https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d"
+      "duration_ms": 165465,
+      "name": "Cottonmouth (Rock Mix)",
+      "url": "https://open.spotify.com/track/0wCXdCprsEdga0yF9rBuFp"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Greenbroke",
-        "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
+        "name": "Get Rollin'",
+        "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
       },
       "artists": [
         {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 218528,
-      "name": "Trailer Park",
-      "url": "https://open.spotify.com/track/5rUC54BQV0Zhj0iIxcNYne"
+      "duration_ms": 234848,
+      "name": "High Time",
+      "url": "https://open.spotify.com/track/2A5Xy5HWeRWvWjvv7ObIFZ"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Get Rollin'",
-        "url": "https://open.spotify.com/album/5uLm9XqpibzmIaFUz80jLb"
+        "name": "Greenbroke",
+        "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
         }
       ],
-      "duration_ms": 234848,
-      "name": "High Time",
-      "url": "https://open.spotify.com/track/2A5Xy5HWeRWvWjvv7ObIFZ"
+      "duration_ms": 218528,
+      "name": "Trailer Park",
+      "url": "https://open.spotify.com/track/5rUC54BQV0Zhj0iIxcNYne"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "Fire On Wheels",
-        "url": "https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7"
+        "name": "'21",
+        "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
       },
       "artists": [
         {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
         }
       ],
-      "duration_ms": 156973,
-      "name": "Fire On Wheels",
-      "url": "https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO"
+      "duration_ms": 169813,
+      "name": "There's Always Next Year",
+      "url": "https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2023-11-17 05:00:00",
       "album": {
-        "name": "'21",
-        "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
+        "name": "Fire On Wheels",
+        "url": "https://open.spotify.com/album/6FaaYVLUK4mAjSqYykdvv7"
       },
       "artists": [
         {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
         }
       ],
-      "duration_ms": 169813,
-      "name": "There's Always Next Year",
-      "url": "https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8"
+      "duration_ms": 156973,
+      "name": "Fire On Wheels",
+      "url": "https://open.spotify.com/track/2EuSpBqoWsE5ohMBCXXUHO"
     },
     {
       "added_at": "2023-11-17 05:00:00",

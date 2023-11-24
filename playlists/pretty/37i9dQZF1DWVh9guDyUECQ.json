@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 176900,
+  "num_followers": 176946,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjVmMjA4ZmNlNWI5ZWZiYmU4ZGIwNTY3OWZmNGVmNjc0ZTExMGU0",
+  "snapshot_id": "MCw5ZjdlNjQ5NmU1ZWE1M2UwOGJmZjY1YWE1MGQ2ZDY4ZGYwZGM3NGZj",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "La M\u00fasica",
+        "url": "https://open.spotify.com/album/4FVYEZeWI1oCLc9aPEYq7M"
+      },
+      "artists": [
+        {
+          "name": "Harold Velazquez",
+          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "La M\u00fasica",
+      "url": "https://open.spotify.com/track/6ifNopT3pmMhMvALLHKnpx"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "On (Deluxe)",
         "url": "https://open.spotify.com/album/4dzcicWJ4Hb9nhEY0Toz9H"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 206527,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/3WDHbrD3rJ8nKJPEQxPLNK"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "El Hijo del Borracho",
-        "url": "https://open.spotify.com/album/1kTx3gBCYhoOKFPXuyi0S8"
-      },
-      "artists": [
-        {
-          "name": "Arias",
-          "url": "https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15"
-        }
-      ],
-      "duration_ms": 200636,
-      "name": "Ma' Na",
-      "url": "https://open.spotify.com/track/5xzJaxXzxWRNwsyawQpNeE"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -947,18 +947,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "La M\u00fasica",
-        "url": "https://open.spotify.com/album/4FVYEZeWI1oCLc9aPEYq7M"
+        "name": "El Hijo del Borracho",
+        "url": "https://open.spotify.com/album/1kTx3gBCYhoOKFPXuyi0S8"
       },
       "artists": [
         {
-          "name": "Harold Velazquez",
-          "url": "https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj"
+          "name": "Arias",
+          "url": "https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15"
         }
       ],
-      "duration_ms": 254000,
-      "name": "La M\u00fasica",
-      "url": "https://open.spotify.com/track/6ifNopT3pmMhMvALLHKnpx"
+      "duration_ms": 200636,
+      "name": "Ma' Na",
+      "url": "https://open.spotify.com/track/5xzJaxXzxWRNwsyawQpNeE"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Pura Alegr\u00eda",
-        "url": "https://open.spotify.com/album/23Eai7ZatBxVFrZ6P40Jkk"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 186367,
-      "name": "Pura Alegr\u00eda",
-      "url": "https://open.spotify.com/track/0XpqBIUBh4D6ozNkEJQlR7"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Entre Nubes",
         "url": "https://open.spotify.com/album/33365bfVKn4qAztySXLsBm"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 205706,
       "name": "Influencer",
       "url": "https://open.spotify.com/track/26pznrAZY7d4elD4rDbo1c"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Pura Alegr\u00eda",
+        "url": "https://open.spotify.com/album/23Eai7ZatBxVFrZ6P40Jkk"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 186367,
+      "name": "Pura Alegr\u00eda",
+      "url": "https://open.spotify.com/track/0XpqBIUBh4D6ozNkEJQlR7"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "TBT",
-        "url": "https://open.spotify.com/album/4g8Ak1hKyoU9zjQQm6kTzs"
-      },
-      "artists": [
-        {
-          "name": "Artury Pepper",
-          "url": "https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57"
-        },
-        {
-          "name": "Coron3l",
-          "url": "https://open.spotify.com/artist/1Tw9uSXSbqS2LFaYEh6wXg"
-        }
-      ],
-      "duration_ms": 210266,
-      "name": "TBT",
-      "url": "https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Hasta La Eternidad",
         "url": "https://open.spotify.com/album/5CLBYqE42hfdx895RnUXy3"
       },
@@ -1447,6 +1427,22 @@
       "duration_ms": 252571,
       "name": "Hasta La Eternidad",
       "url": "https://open.spotify.com/track/4ZneStpoEsKoFFIrjkBVmO"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Cotizate",
+        "url": "https://open.spotify.com/album/3P6ycIHjLsndBulGxlZhlC"
+      },
+      "artists": [
+        {
+          "name": "Militante Bierd",
+          "url": "https://open.spotify.com/artist/733gVnl0NSCkPdvdGUrH7F"
+        }
+      ],
+      "duration_ms": 192036,
+      "name": "Cotizate",
+      "url": "https://open.spotify.com/track/088VGorNzLe2sYbcmlct0W"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1511,22 +1507,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Gozo Yo Quer\u00eda",
-        "url": "https://open.spotify.com/album/3LDNOqzk1HF7xYhVyUFezN"
+        "name": "TBT",
+        "url": "https://open.spotify.com/album/4g8Ak1hKyoU9zjQQm6kTzs"
       },
       "artists": [
         {
-          "name": "Jinys",
-          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
+          "name": "Artury Pepper",
+          "url": "https://open.spotify.com/artist/00YAB4AxSCscGVzUrSmD57"
         },
         {
-          "name": "Abdi",
-          "url": "https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6"
+          "name": "Coron3l",
+          "url": "https://open.spotify.com/artist/1Tw9uSXSbqS2LFaYEh6wXg"
         }
       ],
-      "duration_ms": 188921,
-      "name": "Gozo Yo Quer\u00eda",
-      "url": "https://open.spotify.com/track/1fzA0uEca3T0aXla9LrEeF"
+      "duration_ms": 210266,
+      "name": "TBT",
+      "url": "https://open.spotify.com/track/1Sy1t8JobvtBRj0XqxeI9Y"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1555,18 +1551,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Cotizate",
-        "url": "https://open.spotify.com/album/3P6ycIHjLsndBulGxlZhlC"
+        "name": "Gozo Yo Quer\u00eda",
+        "url": "https://open.spotify.com/album/3LDNOqzk1HF7xYhVyUFezN"
       },
       "artists": [
         {
-          "name": "Militante Bierd",
-          "url": "https://open.spotify.com/artist/733gVnl0NSCkPdvdGUrH7F"
+          "name": "Jinys",
+          "url": "https://open.spotify.com/artist/4dojzRdnyV83FaWOMcK3ir"
+        },
+        {
+          "name": "Abdi",
+          "url": "https://open.spotify.com/artist/1NFEqe4FKmf4nRScXBKfk6"
         }
       ],
-      "duration_ms": 192036,
-      "name": "Cotizate",
-      "url": "https://open.spotify.com/track/088VGorNzLe2sYbcmlct0W"
+      "duration_ms": 188921,
+      "name": "Gozo Yo Quer\u00eda",
+      "url": "https://open.spotify.com/track/1fzA0uEca3T0aXla9LrEeF"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1907,26 +1907,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Relevantes",
-        "url": "https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF"
-      },
-      "artists": [
-        {
-          "name": "Alex Linares",
-          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
-        },
-        {
-          "name": "Onell Diaz",
-          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
-        }
-      ],
-      "duration_ms": 210370,
-      "name": "Humillado",
-      "url": "https://open.spotify.com/track/4P6jUQtxVR1XFXFwkP3863"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Como Siempre",
         "url": "https://open.spotify.com/album/6JTvSdp2X8Qx6nSpL8dkqh"
       },
@@ -1955,6 +1935,26 @@
       "duration_ms": 341176,
       "name": "Como Siempre",
       "url": "https://open.spotify.com/track/7GJFGUpd6V1LkTrm9hgavK"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Relevantes",
+        "url": "https://open.spotify.com/album/5WRL2HfV2nk8XaD9UC4yKF"
+      },
+      "artists": [
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        },
+        {
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+        }
+      ],
+      "duration_ms": 210370,
+      "name": "Humillado",
+      "url": "https://open.spotify.com/track/4P6jUQtxVR1XFXFwkP3863"
     }
   ],
   "unique_name": "Flow Cristiano",

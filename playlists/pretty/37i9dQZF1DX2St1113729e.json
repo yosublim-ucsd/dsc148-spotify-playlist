@@ -1,12 +1,12 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Fran Laoren",
-  "num_followers": 123491,
+  "num_followers": 123515,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjQxZGRlYTk3Zjk4MWFiMGI1MmQwOWFjNGU1OGRiNGI3MDUzODNm",
+  "snapshot_id": "MCxkYmQ4ZTE0NmZkNTMzOTUwNzM5M2JkYzA1YWY4ZDgwZjFmZTAyZjA1",
   "tracks": [
     {
       "added_at": "2023-11-16 22:59:00",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
+        "name": "La Partida",
+        "url": "https://open.spotify.com/album/5IzKZRlGJmXYuHgnZiGiPn"
+      },
+      "artists": [
+        {
+          "name": "LUNA KI",
+          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
+        }
+      ],
+      "duration_ms": 159805,
+      "name": "La Partida",
+      "url": "https://open.spotify.com/track/43cqOosSPi5Dc4BauWJL16"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
         "name": "INCEL",
         "url": "https://open.spotify.com/album/3eX3K3tfZF6UBaiTubLoWK"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 228456,
       "name": "INCEL",
       "url": "https://open.spotify.com/track/7fhBoPJVNgY859V4nUP7x6"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
-        "name": "La Partida",
-        "url": "https://open.spotify.com/album/5IzKZRlGJmXYuHgnZiGiPn"
-      },
-      "artists": [
-        {
-          "name": "LUNA KI",
-          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
-        }
-      ],
-      "duration_ms": 159805,
-      "name": "La Partida",
-      "url": "https://open.spotify.com/track/43cqOosSPi5Dc4BauWJL16"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
+        "name": "suave",
+        "url": "https://open.spotify.com/album/3AaFB3c8RAVfu0Y6vTXTvv"
+      },
+      "artists": [
+        {
+          "name": "Nina Emocional",
+          "url": "https://open.spotify.com/artist/6Dqvme3Uru6IJaryxBgknz"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "suave",
+      "url": "https://open.spotify.com/track/4cwcXuBuI2K9b3xtv3Reis"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
         "name": "Palante",
         "url": "https://open.spotify.com/album/0sBRsyQk7EbELxvb4nTcrr"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 111552,
       "name": "Palante",
       "url": "https://open.spotify.com/track/2IsaQLwwY53fruOUKyhlw9"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
-        "name": "suave",
-        "url": "https://open.spotify.com/album/3AaFB3c8RAVfu0Y6vTXTvv"
-      },
-      "artists": [
-        {
-          "name": "Nina Emocional",
-          "url": "https://open.spotify.com/artist/6Dqvme3Uru6IJaryxBgknz"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "suave",
-      "url": "https://open.spotify.com/track/4cwcXuBuI2K9b3xtv3Reis"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1087,6 +1087,26 @@
       "duration_ms": 139715,
       "name": "OJITOS ROJOS",
       "url": "https://open.spotify.com/track/58xcliQlKIyd2pZsMFWzSX"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "LA ESKINA DEL ESTANKE",
+        "url": "https://open.spotify.com/album/2VukIjOu9AXoe66SxCFJTF"
+      },
+      "artists": [
+        {
+          "name": "alequi",
+          "url": "https://open.spotify.com/artist/4Rg6w1AZFPOeY8SurpUTPH"
+        },
+        {
+          "name": "cyber666",
+          "url": "https://open.spotify.com/artist/7GXNxwLHUMNNNuu11UiFs6"
+        }
+      ],
+      "duration_ms": 190158,
+      "name": "SONRISAS & L\u00c1GRIMAS",
+      "url": "https://open.spotify.com/track/5iov0X5z1uz67GVrbQswaL"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1163,26 +1183,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "LA ESKINA DEL ESTANKE",
-        "url": "https://open.spotify.com/album/2VukIjOu9AXoe66SxCFJTF"
-      },
-      "artists": [
-        {
-          "name": "alequi",
-          "url": "https://open.spotify.com/artist/4Rg6w1AZFPOeY8SurpUTPH"
-        },
-        {
-          "name": "cyber666",
-          "url": "https://open.spotify.com/artist/7GXNxwLHUMNNNuu11UiFs6"
-        }
-      ],
-      "duration_ms": 190158,
-      "name": "SONRISAS & L\u00c1GRIMAS",
-      "url": "https://open.spotify.com/track/5iov0X5z1uz67GVrbQswaL"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "L\u00aa N\u00aave",
         "url": "https://open.spotify.com/album/2krXsG88F9yuWO0lrw80ar"
       },
@@ -1219,30 +1219,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "Saturday Night",
-        "url": "https://open.spotify.com/album/7nGKhWqDtNum8DutBbFDDC"
-      },
-      "artists": [
-        {
-          "name": "LVL1",
-          "url": "https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ"
-        },
-        {
-          "name": "valverdina",
-          "url": "https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS"
-        },
-        {
-          "name": "TURIAN BOY",
-          "url": "https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Saturday Night",
-      "url": "https://open.spotify.com/track/5LtRnDjLszqe4v8VBhcDeV"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "Coraz\u00f3n Maldito",
         "url": "https://open.spotify.com/album/6MUzxwHh6BbrO19mEvrLfc"
       },
@@ -1263,6 +1239,30 @@
       "duration_ms": 139457,
       "name": "Coraz\u00f3n Maldito",
       "url": "https://open.spotify.com/track/1vF8e1REPMZHL8XstnQFsl"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "Saturday Night",
+        "url": "https://open.spotify.com/album/7nGKhWqDtNum8DutBbFDDC"
+      },
+      "artists": [
+        {
+          "name": "LVL1",
+          "url": "https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ"
+        },
+        {
+          "name": "valverdina",
+          "url": "https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS"
+        },
+        {
+          "name": "TURIAN BOY",
+          "url": "https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/5LtRnDjLszqe4v8VBhcDeV"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "''las cosas no salen tan bien en rosario''",
-        "url": "https://open.spotify.com/album/4vmR9xqphwJA4rHMDJ9Fn7"
-      },
-      "artists": [
-        {
-          "name": "conan kid",
-          "url": "https://open.spotify.com/artist/5MpPZ2g8moHwXhQbp4Xwy7"
-        }
-      ],
-      "duration_ms": 148375,
-      "name": "''las cosas no salen tan bien en rosario''",
-      "url": "https://open.spotify.com/track/7cWQJPHLzDbzx1TV4vVKCD"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "Anesthesia",
         "url": "https://open.spotify.com/album/32Q7r3heHX8qo2DQIisRcN"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 144000,
       "name": "Anesthesia",
       "url": "https://open.spotify.com/track/4bUJAlDGjmIuyJAJbXabPo"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "''las cosas no salen tan bien en rosario''",
+        "url": "https://open.spotify.com/album/4vmR9xqphwJA4rHMDJ9Fn7"
+      },
+      "artists": [
+        {
+          "name": "conan kid",
+          "url": "https://open.spotify.com/artist/5MpPZ2g8moHwXhQbp4Xwy7"
+        }
+      ],
+      "duration_ms": 148375,
+      "name": "''las cosas no salen tan bien en rosario''",
+      "url": "https://open.spotify.com/track/7cWQJPHLzDbzx1TV4vVKCD"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "2035",
-        "url": "https://open.spotify.com/album/7xcHmGc4ctuRjSQn54hZst"
-      },
-      "artists": [
-        {
-          "name": "Hadren",
-          "url": "https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln"
-        },
-        {
-          "name": "Nina Emocional",
-          "url": "https://open.spotify.com/artist/6Dqvme3Uru6IJaryxBgknz"
-        }
-      ],
-      "duration_ms": 112428,
-      "name": "2035",
-      "url": "https://open.spotify.com/track/3nbCRULrZIFo4prDNzOZ75"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "b\u00e1goas de cocodrilo (Galician Army) [Remix]",
         "url": "https://open.spotify.com/album/6ShoJ2YTxOT0mYEVK77MwN"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 277500,
       "name": "b\u00e1goas de cocodrilo (Galician Army) - Remix",
       "url": "https://open.spotify.com/track/5gll3DVfSHPwso3oH0Ummw"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "2035",
+        "url": "https://open.spotify.com/album/7xcHmGc4ctuRjSQn54hZst"
+      },
+      "artists": [
+        {
+          "name": "Hadren",
+          "url": "https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln"
+        },
+        {
+          "name": "Nina Emocional",
+          "url": "https://open.spotify.com/artist/6Dqvme3Uru6IJaryxBgknz"
+        }
+      ],
+      "duration_ms": 112428,
+      "name": "2035",
+      "url": "https://open.spotify.com/track/3nbCRULrZIFo4prDNzOZ75"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "no lo volver\u00e9 a hacer",
-        "url": "https://open.spotify.com/album/6PSAYNmG1mMnHK4R9erHwl"
-      },
-      "artists": [
-        {
-          "name": "Carlo Frio",
-          "url": "https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc"
-        }
-      ],
-      "duration_ms": 120284,
-      "name": "no lo volver\u00e9 a hacer",
-      "url": "https://open.spotify.com/track/61tr8wG7cG1NaB6NQRb7li"
-    },
-    {
-      "added_at": "2023-11-16 22:59:00",
-      "album": {
         "name": "Es Un Placer Conocerte",
         "url": "https://open.spotify.com/album/1AwLP3aCyVDW7WT770AVqz"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 160075,
       "name": "Es Un Placer Conocerte",
       "url": "https://open.spotify.com/track/2M1bRGK3o1VKEFXqQLHceM"
+    },
+    {
+      "added_at": "2023-11-16 22:59:00",
+      "album": {
+        "name": "no lo volver\u00e9 a hacer",
+        "url": "https://open.spotify.com/album/6PSAYNmG1mMnHK4R9erHwl"
+      },
+      "artists": [
+        {
+          "name": "Carlo Frio",
+          "url": "https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc"
+        }
+      ],
+      "duration_ms": 120284,
+      "name": "no lo volver\u00e9 a hacer",
+      "url": "https://open.spotify.com/track/61tr8wG7cG1NaB6NQRb7li"
     },
     {
       "added_at": "2023-11-16 22:59:00",
@@ -1947,34 +1947,42 @@
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "MENTERROTA",
-        "url": "https://open.spotify.com/album/4jl8ZsSkkKx2T5t8HNd2oG"
+        "name": "Nunca Volver\u00e9",
+        "url": "https://open.spotify.com/album/3vxvkDcg2URhGDXisMLlte"
       },
       "artists": [
         {
-          "name": "mario cyrus",
-          "url": "https://open.spotify.com/artist/17SI9H35F9VeNTvLqH1dx5"
+          "name": "Awexa",
+          "url": "https://open.spotify.com/artist/1tv5NHtc4XP7MpNeupdfYa"
+        },
+        {
+          "name": "Garxu",
+          "url": "https://open.spotify.com/artist/1w7YAEnBvrPFjUSzOXKxrV"
+        },
+        {
+          "name": "KidSxnpai",
+          "url": "https://open.spotify.com/artist/4VOPjvICpNc9VTSCyqgUkF"
         }
       ],
-      "duration_ms": 180211,
-      "name": "MENTERROTA",
-      "url": "https://open.spotify.com/track/2MYdg3KPg6xRdHZQmsJk57"
+      "duration_ms": 143816,
+      "name": "Nunca Volver\u00e9",
+      "url": "https://open.spotify.com/track/2PMY1TcOrXGITmbKgwUeoK"
     },
     {
       "added_at": "2023-11-16 22:59:00",
       "album": {
-        "name": "SOLO PIENSO EN TI",
-        "url": "https://open.spotify.com/album/1rOpIJuHiW72vtZSWOFv5g"
+        "name": "tamagotchi",
+        "url": "https://open.spotify.com/album/5tBPoDajcUY3wf4pnBJfMV"
       },
       "artists": [
         {
-          "name": "Roberta Nikita",
-          "url": "https://open.spotify.com/artist/4xetVDWWLeifmMtR9HQKbE"
+          "name": "Lil Zhark",
+          "url": "https://open.spotify.com/artist/3FI7NS91eeSjBP3V0znDuB"
         }
       ],
-      "duration_ms": 165330,
-      "name": "SOLO PIENSO EN TI",
-      "url": "https://open.spotify.com/track/5J99jbR3wtSGDZrHODOpbc"
+      "duration_ms": 105100,
+      "name": "tamagotchi",
+      "url": "https://open.spotify.com/track/72QyKS10NvfMYszzFMYWzj"
     }
   ],
   "unique_name": "helium",

@@ -2,9 +2,9 @@
 
 ### [Banger](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> Ofenbach au top des bangers dance/electro du moment !
+> Tiësto au top des bangers dance/electro du moment !
 
-75 songs - 3 hr 28 min
+76 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Komodo](https://open.spotify.com/track/7xkKZ9TjRm5zE6hJf5CaGC) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Komodo](https://open.spotify.com/album/0kvwytv9p1qqdGdlDzLN0c) | 2:35 | 2023-09-28 |  |
 | [La La La](https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [La La La](https://open.spotify.com/album/1vvIQmbcJHJG1jO1Fn5ZuA) | 2:17 | 2023-09-28 |  |
 | [Living On Video \(feat\. DTale\)](https://open.spotify.com/track/0W6MlHGvHAcSsoRt34pZIt) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [DTale](https://open.spotify.com/artist/6kNzhTpSxGfG0dxqMuraWy) | [Living On Video \(feat\. DTale\) \[Festival Mix\]](https://open.spotify.com/album/3ilMBUiEE7oTOExAPwkV84) | 2:23 | 2023-09-28 |  |
-| [Lose My Mind \- Passion Edit](https://open.spotify.com/track/5eCXYjXDeK1Dtiq8hDnldD) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [Lose My Mind \(Passion Edit\)](https://open.spotify.com/album/2yLv6nYrTXJMrwFLY6uhEe) | 2:23 | 2023-09-28 |  |
+| [Lose My Mind \- Passion Edit](https://open.spotify.com/track/5eCXYjXDeK1Dtiq8hDnldD) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [Lose My Mind \(Passion Edit\)](https://open.spotify.com/album/2yLv6nYrTXJMrwFLY6uhEe) | 2:23 | 2023-09-28 | 2023-11-24 |
 | [Lose This Feeling](https://open.spotify.com/track/1lzIk2EDN5d1gIbxfmu2oF) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Lose This Feeling](https://open.spotify.com/album/57dNlGJ7Kx7pKqBno6Ysr4) | 2:26 | 2023-09-28 |  |
 | [Lose This Feeling](https://open.spotify.com/track/4s53qY7UpU6yrHI5017T3G) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [A State of Trance Radio Top 50 \- 2023, Vol\. 2](https://open.spotify.com/album/2ZuGymmpNiLS8xsNJPQRFi) | 2:26 | 2023-09-28 | 2023-10-06 |
 | [Lucid Dream](https://open.spotify.com/track/3fXy7UkU64qm5ezMBf0CTh) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Lucid Dream](https://open.spotify.com/album/2KTqJJVzXUalakSm6HcTdA) | 3:13 | 2023-09-28 | 2023-11-10 |
@@ -46,8 +46,8 @@
 | [Mas Que Nada \(with Marnik\)](https://open.spotify.com/track/1BNawYa1bUgOfRSSyQQzNe) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [Mas Que Nada \(with Marnik\)](https://open.spotify.com/album/3gAd6B5avXHX8IrOvXEKDO) | 2:47 | 2023-09-28 | 2023-10-20 |
 | [Memories](https://open.spotify.com/track/4r9kj0CqH7RCp6Oxx56SvN) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Memories](https://open.spotify.com/album/5h8OA47knr8723Mc73vVMD) | 2:35 | 2023-10-26 |  |
 | [Miracle \(with Ellie Goulding\) \- David Guetta Remix](https://open.spotify.com/track/4RFlvg9BmFnvlIBIZGg1Dt) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Miracle \(with Ellie Goulding\) \[David Guetta Remix\]](https://open.spotify.com/album/1xF21BZXLDXHuwNfkPojiJ) | 3:02 | 2023-09-28 |  |
-| [Move It](https://open.spotify.com/track/7F7G8FuCtggmPvs51E9fmN) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Move It](https://open.spotify.com/album/1IxDiKZoA2gGfoQMC3EJ4n) | 3:05 | 2023-10-05 | 2023-11-10 |
-| [No Sleep](https://open.spotify.com/track/1Ksr48DhDi60pJSUcZfeUP) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [No Sleep](https://open.spotify.com/album/2Bw2hZirRV4JkOnaMMfUeq) | 3:36 | 2023-09-28 |  |
+| [Move It](https://open.spotify.com/track/7F7G8FuCtggmPvs51E9fmN) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Move It](https://open.spotify.com/album/1IxDiKZoA2gGfoQMC3EJ4n) | 3:05 | 2023-10-05 |  |
+| [No Sleep](https://open.spotify.com/track/1Ksr48DhDi60pJSUcZfeUP) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [No Sleep](https://open.spotify.com/album/2Bw2hZirRV4JkOnaMMfUeq) | 3:36 | 2023-09-28 | 2023-11-24 |
 | [Now Or Never](https://open.spotify.com/track/34xBhUgjCTUxe1BuypLL0X) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Now Or Never](https://open.spotify.com/album/5Z4uXurjwmsYr59E1quhV6) | 3:27 | 2023-09-28 | 2023-10-06 |
 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 | 2023-10-05 | 2023-11-10 |
 | [On & On](https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [On & On](https://open.spotify.com/album/2R1IseXguOsELhULk1H60P) | 2:50 | 2023-09-28 |  |
@@ -83,5 +83,6 @@
 | [Won't Forget You](https://open.spotify.com/track/2fP9aII1LkmZZmzdAiuNVz) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Won't Forget You](https://open.spotify.com/album/2b2p2llc051aP6YlPG5AnK) | 2:33 | 2023-11-09 |  |
 | [Won't Forget You \(Felix Jaehn Remix Edit\)](https://open.spotify.com/track/7yyYtLNqpXY8zY3TQbc9AK) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Won't Forget You \(Remixes\)](https://open.spotify.com/album/1nxh4FIw055vgnjMrbMryD) | 3:04 | 2023-09-28 | 2023-10-27 |
 | [Wrong or Right \(The Riddle\)](https://open.spotify.com/track/78VSoe3vn4gR4pYSTBiAXA) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Wrong or Right \(The Riddle\)](https://open.spotify.com/album/7f9y6wyXMLW9NfHHkMtccm) | 2:34 | 2023-09-28 | 2023-11-03 |
+| [You Keep Me Hangin' On](https://open.spotify.com/track/2B65GgIvpaodTEPWLxUzLz) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [You Keep Me Hangin' On](https://open.spotify.com/album/2LQwEkWtjKtUacX1uaw0PF) | 2:42 | 2023-11-23 |  |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

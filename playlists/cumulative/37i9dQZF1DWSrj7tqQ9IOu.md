@@ -4,11 +4,12 @@
 
 > The best French indie tracks right now\. Cover : Adèle Castillon
 
-420 songs - 23 hr 2 min
+422 songs - 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["CEVICHE"...](https://open.spotify.com/track/0Lhz8qMfRXQFoLYivW36cQ) | [Varnish La Piscine](https://open.spotify.com/artist/17o6H1EQGD90TQxJ4pErIU) | [THIS LAKE IS SUCCESSFUL](https://open.spotify.com/album/4AgoGCem8ILqsZS63YTmo3) | 2:58 | 2023-03-23 | 2023-04-14 |
+| [0 RÉPONSE](https://open.spotify.com/track/26dbD2N3kzwkTOEjjwqKt2) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [0 RÉPONSE](https://open.spotify.com/album/1tp6jz6x6f3bZegK5Dkndq) | 2:58 | 2023-11-23 |  |
 | [1964](https://open.spotify.com/track/2GKjDtUoz2AB3zegkdTUoo) | [Rallye](https://open.spotify.com/artist/36buOdDVz6p3QbVatFi4iX) | [1964](https://open.spotify.com/album/4OytyyjvGEMOpKLQQcCaRU) | 4:18 | 2022-04-28 | 2022-07-08 |
 | [4D](https://open.spotify.com/track/0zBReAArWqGJRftWzmys9V) | [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [4D](https://open.spotify.com/album/6La4e4vpCHGtvCXUbp71BJ) | 2:21 | 2022-04-07 | 2022-06-03 |
 | [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 | 2023-06-08 | 2023-06-15 |
@@ -69,7 +70,7 @@
 | [Chui pu fort](https://open.spotify.com/track/1VkMX6F5GJH2ggI6JFUVjD) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [Chui pu fort](https://open.spotify.com/album/71j1HEoL1pXrWb24SaSNGs) | 2:09 | 2022-05-12 | 2022-06-10 |
 | [Cinecittà](https://open.spotify.com/track/5FBkgVSvJJmdc8FQ7wttXv) | [Fils Cara](https://open.spotify.com/artist/42SznvyZNQon11BUfdPadN) | [Cinecittà](https://open.spotify.com/album/2tYErUP9mEPl64sKkXzure) | 3:37 | 2022-09-01 | 2022-09-03 |
 | [Cinéma](https://open.spotify.com/track/31CfJjcoplMlUpvbp5226g) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [Tao](https://open.spotify.com/artist/3X7X2ZNgwC4TkAUTDLAV9h) | [Cinéma](https://open.spotify.com/album/4RA0vuI5Iay7XIjnX5PanZ) | 3:00 | 2022-07-21 | 2022-09-23 |
-| [Cinéma](https://open.spotify.com/track/6KXJymOSI776EMEgY96JbP) | [Elephanz](https://open.spotify.com/artist/2CD8tl357w6zYA3XYuOJPO), [Zahia Dehar](https://open.spotify.com/artist/5b6Y4VfGSc8rw3XA7PZPDh) | [Rien De Personnel](https://open.spotify.com/album/5kO9QAxCNOKUwSQuvi4KAO) | 3:09 | 2023-10-19 |  |
+| [Cinéma](https://open.spotify.com/track/6KXJymOSI776EMEgY96JbP) | [Elephanz](https://open.spotify.com/artist/2CD8tl357w6zYA3XYuOJPO), [Zahia Dehar](https://open.spotify.com/artist/5b6Y4VfGSc8rw3XA7PZPDh) | [Rien De Personnel](https://open.spotify.com/album/5kO9QAxCNOKUwSQuvi4KAO) | 3:09 | 2023-10-19 | 2023-11-24 |
 | [Club de cœur](https://open.spotify.com/track/4dr17HvQ770Mt1evg83oQd) | [Spider ZED](https://open.spotify.com/artist/4kAzmAcboZ0F6bCCb4jj8I) | [Club de cœur](https://open.spotify.com/album/4iuZaYn8392UjS5rTcPZIY) | 2:38 | 2022-11-10 | 2023-02-10 |
 | [Coco Robot](https://open.spotify.com/track/78uhoLjMr27DWycpKLFaY6) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ) | [Coco Robot](https://open.spotify.com/album/2VwjLt0y3pBxzIHitBWKuV) | 4:00 | 2022-06-02 | 2022-06-24 |
 | [come into my arms](https://open.spotify.com/track/1WbqQUB9ldGb8x3b72RH3Z) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [come into my arms](https://open.spotify.com/album/3dti8UcnsGhwppSO3k4frr) | 2:12 | 2022-07-07 | 2022-08-26 |
@@ -83,6 +84,7 @@
 | [Dans ma tête](https://open.spotify.com/track/1N065mYphUNO3ImHmMpC1t) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Dans ma tête](https://open.spotify.com/album/7cWdOBIkhsd1nYcvXBl22L) | 2:42 | 2023-05-04 |  |
 | [Dans mes rêves](https://open.spotify.com/track/4mVY5qhPe2PWDvf7E2Sn0d) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Dans mes rêves](https://open.spotify.com/album/41ldBOE9Pjc0hWdfNJc0ha) | 3:43 | 2021-12-16 | 2022-03-25 |
 | [Day & Night](https://open.spotify.com/track/7B2RswVcMbBs70dFyxVGak) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Opening Soon](https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb) | 4:03 | 2023-08-31 |  |
+| [De passage](https://open.spotify.com/track/4a0upuCaLwcfL7TBYAGfGu) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [De passage](https://open.spotify.com/album/7qUUnF1DQdPRJhIeoWd3XB) | 3:06 | 2023-11-23 |  |
 | [De ta faute](https://open.spotify.com/track/5oj0j8VDbNscUAfv7acteK) | [Adamé](https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe), [Lili Poli](https://open.spotify.com/artist/0hSW0pdwbtPmPaJTOlBz8a) | [De ta faute](https://open.spotify.com/album/7Ggkx1UE9wCQ0vFu4h80Mo) | 2:53 | 2023-08-24 |  |
 | [Des nuits de ça](https://open.spotify.com/track/4Ns96VeAFjAjtTxYSdSQ2f) | [Since Charles](https://open.spotify.com/artist/7pHGQcurcGNZ2M3018eH8o) | [Des nuits de ça](https://open.spotify.com/album/6l4mLyttDO3ius8bjQN2gy) | 3:22 | 2023-01-26 | 2023-02-24 |
 | [Dessus\-dessous](https://open.spotify.com/track/2TdEBZtsNm1yd6O7zImH9x) | [Mado](https://open.spotify.com/artist/2FDZzdKv337dodxZfRgvXT), [Molitor](https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo) | [Molitor 3](https://open.spotify.com/album/7pLkJhE3XRZEQUTMhAdPS6) | 2:48 | 2022-07-07 | 2022-10-28 |
@@ -153,7 +155,7 @@
 | [Honey Pot](https://open.spotify.com/track/2daydqWuTYcHevpQm0bnYz) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [KESMAR](https://open.spotify.com/artist/3KHK5h7PZYBEfcTsGfkfJW) | [Honey Pot](https://open.spotify.com/album/4k98b6BUFd4WMauM70RI3Z) | 3:21 | 2022-10-27 | 2023-02-10 |
 | [Honnête](https://open.spotify.com/track/38rGEAgvkS19rOmPjV4DPx) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Honnête](https://open.spotify.com/album/5e7f0QJkEgwda9ke50M43K) | 2:59 | 2023-09-14 |  |
 | [Hot Summer](https://open.spotify.com/track/3A8Xv7OLC1IvruefbgEPt2) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hot Summer](https://open.spotify.com/album/2wTNvieUOzmuDGpAuAVHYh) | 2:22 | 2023-02-16 | 2023-03-03 |
-| [HOW STRANGE?](https://open.spotify.com/track/4IQw9pS2PfMsYYeTkZ5CGy) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [HOW STRANGE?](https://open.spotify.com/album/29KjlAdATsp7XF6Pp08fXa) | 2:57 | 2023-10-19 |  |
+| [HOW STRANGE?](https://open.spotify.com/track/4IQw9pS2PfMsYYeTkZ5CGy) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [HOW STRANGE?](https://open.spotify.com/album/29KjlAdATsp7XF6Pp08fXa) | 2:57 | 2023-10-19 | 2023-11-24 |
 | [Humains après tout](https://open.spotify.com/track/1SddnrGqOScznWZNnhWnv8) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Humains après tout](https://open.spotify.com/album/32C0qziCh9lCnOujTtF3gd) | 2:22 | 2022-04-21 | 2022-05-13 |
 | [I Made It](https://open.spotify.com/track/3GGs5TGfMh675Tvg08VjLQ) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Picard Brothers](https://open.spotify.com/artist/1bATQwgDSJlmYJ4obvTFmN) | [I Made It](https://open.spotify.com/album/4EolaFLE1ii1Xw3Lb6lLbj) | 2:40 | 2022-09-22 | 2022-12-09 |
 | [I Will Wait For You](https://open.spotify.com/track/0u53F1Zdk6xsknG1Uie2jL) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [I Will Wait For You](https://open.spotify.com/album/0f2cFqPY4v3WXmHGDyaWD7) | 2:21 | 2022-07-14 | 2022-08-26 |

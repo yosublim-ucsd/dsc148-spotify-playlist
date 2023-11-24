@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Rock sin vueltas. Foto: EMI",
+  "description": "Rock sin vueltas. Foto: Et\u00e9 & Los Problems",
   "name": "La Frecuencia",
   "tracks": [
     {
@@ -296,7 +296,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 257008,
       "name": "Algo Me Dice",
       "url": "https://open.spotify.com/track/78q1JXZIlanqIhzvBotVfM"
@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 269480,
       "name": "Distop\u00eda en Blues - En Vivo",
       "url": "https://open.spotify.com/track/7hkv7nI5rcbZX8slin02aU"
@@ -1464,7 +1464,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 329413,
       "name": "Edge of Seventeen - 2016 Remaster",
       "url": "https://open.spotify.com/track/5LNiqEqpDc8TuqPy79kDBu"
@@ -2731,6 +2731,24 @@
     },
     {
       "album": {
+        "name": "Las Palomas",
+        "url": "https://open.spotify.com/album/08k3nUDklrv3aQOnIsWCjp"
+      },
+      "artists": [
+        {
+          "name": "Et\u00e9 & Los Problems",
+          "url": "https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221843,
+      "name": "Las Palomas",
+      "url": "https://open.spotify.com/track/4qI9iwfb7U9Q14HSylzy0l"
+    },
+    {
+      "album": {
         "name": "Lenguas",
         "url": "https://open.spotify.com/album/4VI6WpQ9DRuySQr14NNhp9"
       },
@@ -3900,7 +3918,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-11-24",
       "duration_ms": 223806,
       "name": "Que Sigas Bien",
       "url": "https://open.spotify.com/track/3BWUc9emQ4e1SglwrkBMtR"
@@ -4668,7 +4686,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 299960,
       "name": "Traicionero",
       "url": "https://open.spotify.com/track/0sOpGWXWkxNDev51Dst3fQ"

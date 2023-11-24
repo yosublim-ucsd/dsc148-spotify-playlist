@@ -4,7 +4,7 @@
 
 > Embrace those happy vibes with these feel\-good hits!
 
-966 songs - 2 day 6 hr 32 min
+968 songs - 2 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Canned Heat](https://open.spotify.com/track/7qMbLZ4RYAQaCgTJs17MWd) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Canned Heat](https://open.spotify.com/album/2nwUkrIzJlPDHzNn5y8k7a) | 5:30 | 2019-07-31 | 2019-08-08 |
 | [Can’t Help Myself](https://open.spotify.com/track/6zvvWWxsMIhEYLMTRcWHfc) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Can’t Help Myself](https://open.spotify.com/album/2eA02NTgjx7GKkU5yhgRIV) | 3:37 | 2020-11-06 | 2022-07-25 |
 | [Capital Letters](https://open.spotify.com/track/3towKHKVOXCCcL1fHv6xFO) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [BloodPop®](https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO) | [Capital Letters \[From "Fifty Shades Freed \(Original Motion Picture Soundtrack\)"\]](https://open.spotify.com/album/2nmhzJgbpV1eJ5lvtZ7Z1c) | 3:39 | 2019-08-02 | 2022-04-12 |
+| [Casanova](https://open.spotify.com/track/4lJLnVBDuYMj6Knll4Wcnc) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Casanova](https://open.spotify.com/album/0XFw2p6US2uootA3nofB65) | 3:38 | 2023-11-24 |  |
 | [Castle on the Hill](https://open.spotify.com/track/6PCUP3dWmTjcTtXY02oFdT) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:21 | 2019-08-08 |  |
 | [Castles](https://open.spotify.com/track/5tZWtGT65sMrDVPB5H444n) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:31 | 2020-02-17 | 2022-04-18 |
 | [Catch My Disease](https://open.spotify.com/track/4vqHz44pzFSfDNIE20QRBu) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf) | [Awake Is the New Sleep](https://open.spotify.com/album/4LiDSTPH86zTRUFnu7tYam) | 4:14 | 2019-08-02 | 2022-04-16 |
@@ -288,7 +289,7 @@
 | [Good Feeling](https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 4:08 | 2019-07-30 | 2019-07-31 |
 | [Good Mood \- Original Song From Paw Patrol: The Movie](https://open.spotify.com/track/4uX1pkSuSidzJxT4eWL7x1) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Good Mood \(Original Song From Paw Patrol: The Movie\)](https://open.spotify.com/album/5YQDkKa0fHnIYnVdfrQLqI) | 3:30 | 2021-08-10 | 2022-07-24 |
 | [Good Thing \(with Kehlani\)](https://open.spotify.com/track/5aUSEPNd3m5xliFK4pn5mU) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Good Thing \(with Kehlani\)](https://open.spotify.com/album/3wpdeV1FZfiEnelZSfAFp4) | 3:30 | 2019-12-08 | 2022-04-21 |
-| [Good Things](https://open.spotify.com/track/4mhwfPRY7ATYVM8WdYn84z) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Good Things](https://open.spotify.com/album/7uzhXoVrdgBYfrd54Yxo6R) | 3:20 | 2023-11-09 |  |
+| [Good Things](https://open.spotify.com/track/4mhwfPRY7ATYVM8WdYn84z) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Good Things](https://open.spotify.com/album/7uzhXoVrdgBYfrd54Yxo6R) | 3:20 | 2023-11-09 | 2023-11-24 |
 | [Good Things](https://open.spotify.com/track/3qlNM15BvRvOmffMI4VPNk) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Good Things](https://open.spotify.com/album/440oB4r9sCDlk3Le7Jzlwe) | 3:01 | 2020-08-21 | 2022-04-14 |
 | [Good Time](https://open.spotify.com/track/5XUirzoMLaO0qsiHZTY3Mo) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Good Time](https://open.spotify.com/album/6dJO0DBV6QxLIHjYytOmzO) | 2:52 | 2023-03-30 | 2023-06-30 |
 | [Good Times](https://open.spotify.com/track/12SMVZgIaoYe4ZVlx8ZLXM) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Good Times](https://open.spotify.com/album/2lrkReAFNQisR1uu3rFyuM) | 3:18 | 2020-12-11 | 2022-06-01 |
@@ -522,6 +523,7 @@
 | [Lovin' Each Day](https://open.spotify.com/track/61fUmn6wYvU7qS62wNvQFN) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Ronan](https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9) | 3:32 | 2021-03-07 | 2022-04-20 |
 | [Loving You Gets Hard](https://open.spotify.com/track/6S3WgBPoKjpcLUzpaZTfl3) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Loving You Gets Hard](https://open.spotify.com/album/6BsHqiwkPMclaivaMUywpU) | 4:03 | 2020-06-12 | 2022-04-19 |
 | [Low Blow](https://open.spotify.com/track/5AMEyWxj1I1pK1exqOAIid) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Low Blow](https://open.spotify.com/album/2sJeUl1oOyYp5j2RrCqVPN) | 3:19 | 2019-08-02 | 2022-04-20 |
+| [Luxury](https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Upside](https://open.spotify.com/album/3DJIsKB1vlhdn0hDAwqiTH) | 3:17 | 2023-11-24 |  |
 | [M.I.A](https://open.spotify.com/track/1xJLd9eJzSZ1wia55GHail) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Kaleidoscope Eyes](https://open.spotify.com/album/1hbuRxQim0K8VP7KQveZPd) | 4:02 | 2021-02-26 | 2022-07-23 |
 | [Mad at You](https://open.spotify.com/track/1paiMpVnmwutk61EXVqG0z) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Mad at You](https://open.spotify.com/album/06NgAMUQP2ATfWViKbymWR) | 2:49 | 2019-12-20 | 2022-04-20 |
 | [Mad Love](https://open.spotify.com/track/79JBjIq90BrQ8Ws0pUhlzD) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Mad Love](https://open.spotify.com/album/6fwNMnwzVoclK4zOwl3ou0) | 2:49 | 2019-08-12 | 2022-04-21 |
@@ -612,7 +614,7 @@
 | [Now That I Found You](https://open.spotify.com/track/3dtp75StyEK5XeKraS5KiI) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated](https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu) | 3:20 | 2020-01-13 | 2022-04-15 |
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2022-07-25 |  |
 | [Oh Caroline](https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:32 | 2022-10-16 | 2023-01-02 |
-| [Oh My](https://open.spotify.com/track/4K1n9wTnjshdk3IOHnwVt3) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Oh My](https://open.spotify.com/album/78B0K7fpzAxJ1BLtU3oKVe) | 3:28 | 2023-11-05 |  |
+| [Oh My](https://open.spotify.com/track/4K1n9wTnjshdk3IOHnwVt3) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Oh My](https://open.spotify.com/album/78B0K7fpzAxJ1BLtU3oKVe) | 3:28 | 2023-11-05 | 2023-11-24 |
 | [OKAY OKAY](https://open.spotify.com/track/1Wds4TjXgP26AW9H8LALtQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [OKAY OKAY](https://open.spotify.com/album/6kQdXSgxiz2zB105BSX6SA) | 2:38 | 2019-10-25 | 2022-04-10 |
 | [OMG \(with Carly Rae Jepsen\)](https://open.spotify.com/track/2j9YmQRxtjuVwb4XN95oT8) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [OMG \(with Carly Rae Jepsen\)](https://open.spotify.com/album/4JkXuSuTgVNPh7hBOhPXjz) | 3:35 | 2019-12-17 | 2022-04-20 |
 | [On & On \- Mixed](https://open.spotify.com/track/56LdO5geVLy9oOezeTT7HW) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Walshy Fire](https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih) | [Walshy Fire Presents: MMMMØ \- The Mix](https://open.spotify.com/album/3iKRdUhmUujuJr9BuINdxd) | 3:30 | 2022-03-25 | 2022-04-17 |

@@ -4,7 +4,7 @@
 
 > New takes on old classics!
 
-451 songs - 20 hr 2 min
+452 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,7 +449,8 @@
 | [Wonderwall](https://open.spotify.com/track/2Z4EdVx2ADMx6aHSBu5PsZ) | [Svniivan](https://open.spotify.com/artist/4Tjvp7fDrim8wlo9fDgqGx), [Sunnie Williams](https://open.spotify.com/artist/0uxG4XmN6UmWwSbjGo7T7K) | [Wonderwall](https://open.spotify.com/album/00AszKF7oWkGoBLmo1b5f9) | 2:11 | 2022-01-13 |  |
 | [Words](https://open.spotify.com/track/3I2ViVcQP1N6x4PiO7c04z) | [FVTM](https://open.spotify.com/artist/6W4T76Wfw2gOGw4irMxFpu), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA) | [Words](https://open.spotify.com/album/3eMihS8Pn9LPHS7eJ2ieCU) | 2:05 | 2022-09-08 |  |
 | [Work from Home](https://open.spotify.com/track/5YNgMxuBxtFsUzPZQACHzy) | [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [HUX](https://open.spotify.com/artist/6L4AbBcjPNpjBo3Y4h4kTO), [Rosewill](https://open.spotify.com/artist/4pfAvcaMcbm3m4Szgg1s3M) | [Work from Home](https://open.spotify.com/album/1Lyw2etBovz3H1rv4BgRRq) | 2:31 | 2022-04-14 |  |
-| [Worth It](https://open.spotify.com/track/2g5CTJ1G3e8GPG6m0iGtFr) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Nightcore](https://open.spotify.com/artist/4T7P7W7Jp191exHszNy0iz), [Speed Sounds](https://open.spotify.com/artist/0UHwc0fsSqyZSzbVgR8hwm) | [Worth It](https://open.spotify.com/album/74FlFbZ0TVF9sBZm6HIwxi) | 2:20 | 2022-09-29 |  |
+| [Worth It](https://open.spotify.com/track/74gxiJiHqw0DqeWskmKJvK) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [KAJAK](https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt) | [Worth It](https://open.spotify.com/album/4NzrSVtldz8w7hEFG39Maz) | 2:20 | 2023-10-27 |  |
+| [Worth It](https://open.spotify.com/track/2g5CTJ1G3e8GPG6m0iGtFr) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Nightcore](https://open.spotify.com/artist/4T7P7W7Jp191exHszNy0iz), [Speed Sounds](https://open.spotify.com/artist/0UHwc0fsSqyZSzbVgR8hwm) | [Worth It](https://open.spotify.com/album/74FlFbZ0TVF9sBZm6HIwxi) | 2:20 | 2022-09-29 | 2023-11-24 |
 | [Yeah](https://open.spotify.com/track/4ZnPoDx5x4iWLz2FXuHKYc) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Pule](https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R), [Marc Kiss](https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO) | [Yeah \(Sterbinszky & MYNEA Remix\)](https://open.spotify.com/album/7nIXwpltUmnFXvAcRe7aKx) | 2:17 | 2023-06-29 | 2023-09-03 |
 | [Yeah](https://open.spotify.com/track/525hCdMwYXzLAY8YVokr0v) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Pule](https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R), [Marc Kiss](https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO), [Joey Diggs Jr.](https://open.spotify.com/artist/1j2YFWbyYy75mQyT7Ej4Bw) | [Yeah](https://open.spotify.com/album/6YL8HIqfvjYdB07BJIsWTS) | 2:17 | 2022-02-24 | 2023-10-30 |
 | [Yeah](https://open.spotify.com/track/53bcMjLxDtrDyiWz4FrcNy) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Pule](https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R), [Marc Kiss](https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO), [Joey Diggs Jr.](https://open.spotify.com/artist/1j2YFWbyYy75mQyT7Ej4Bw) | [Yeah](https://open.spotify.com/album/4TNg97E9XIzyEo4PnyuKYw) | 2:17 | 2023-10-27 |  |

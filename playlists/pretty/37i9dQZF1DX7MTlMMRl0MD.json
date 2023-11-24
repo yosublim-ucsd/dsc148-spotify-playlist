@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Sof\u00eda Reyes & Be\u00e9le",
-  "num_followers": 1904739,
+  "num_followers": 1904871,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjY4ZGRhYmM1YTNjMzliNTMyYTNjYjk0NmQ0ODE4ZjI1ODY0NDRh",
+  "snapshot_id": "MCxjZjdjZjE4MGYxMmNkYTMzMDEwMmQ4OTVjOTQ5MWExMzhjYmRhNmY0",
   "tracks": [
     {
       "added_at": "2023-11-10 00:37:25",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
+        "name": "Que Sera de Mi",
+        "url": "https://open.spotify.com/album/6S2qBQU4NA4ZEOzARrS1QF"
+      },
+      "artists": [
+        {
+          "name": "El Varon de la bachata",
+          "url": "https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV"
+        }
+      ],
+      "duration_ms": 271066,
+      "name": "Que Sera de Mi",
+      "url": "https://open.spotify.com/track/4T7xZSaBTDUmUWjnHtnSvQ"
+    },
+    {
+      "added_at": "2023-11-10 00:37:25",
+      "album": {
         "name": "DLUX",
         "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
       },
@@ -1007,18 +1023,18 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
-        "name": "Que Sera de Mi",
-        "url": "https://open.spotify.com/album/6S2qBQU4NA4ZEOzARrS1QF"
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D"
       },
       "artists": [
         {
-          "name": "El Varon de la bachata",
-          "url": "https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV"
+          "name": "Xtreme",
+          "url": "https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C"
         }
       ],
-      "duration_ms": 271066,
-      "name": "Que Sera de Mi",
-      "url": "https://open.spotify.com/track/4T7xZSaBTDUmUWjnHtnSvQ"
+      "duration_ms": 185333,
+      "name": "Ad\u00f3nde Se Fue ?",
+      "url": "https://open.spotify.com/track/6hj4B44W9LzsFJFNHpmFTw"
     },
     {
       "added_at": "2023-11-10 00:37:25",
@@ -1035,22 +1051,6 @@
       "duration_ms": 290986,
       "name": "Ven T\u00fa",
       "url": "https://open.spotify.com/track/0weK7Rpf3QwOPqTBJM4Hau"
-    },
-    {
-      "added_at": "2023-11-10 00:37:25",
-      "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D"
-      },
-      "artists": [
-        {
-          "name": "Xtreme",
-          "url": "https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C"
-        }
-      ],
-      "duration_ms": 185333,
-      "name": "Ad\u00f3nde Se Fue ?",
-      "url": "https://open.spotify.com/track/6hj4B44W9LzsFJFNHpmFTw"
     },
     {
       "added_at": "2023-11-10 00:37:25",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
-        "name": "Cu\u00e1ndo",
-        "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
-      },
-      "artists": [
-        {
-          "name": "Gusi",
-          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
-        }
-      ],
-      "duration_ms": 206412,
-      "name": "Cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
-    },
-    {
-      "added_at": "2023-11-10 00:37:25",
-      "album": {
         "name": "Veterana",
         "url": "https://open.spotify.com/album/0FscLw84kogJ9EUVNTc65A"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 194599,
       "name": "Veterana",
       "url": "https://open.spotify.com/track/1Gxr5RquVDikoWOruiAdPh"
+    },
+    {
+      "added_at": "2023-11-10 00:37:25",
+      "album": {
+        "name": "Cu\u00e1ndo",
+        "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        }
+      ],
+      "duration_ms": 206412,
+      "name": "Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
     },
     {
       "added_at": "2023-11-10 00:37:25",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
-        "name": "KITSUNE",
-        "url": "https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 169418,
-      "name": "AMNESIA",
-      "url": "https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0"
-    },
-    {
-      "added_at": "2023-11-10 00:37:25",
-      "album": {
         "name": "La Carta",
         "url": "https://open.spotify.com/album/48phjOl7TDFecAVbHfbQZ3"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 183600,
       "name": "La Carta",
       "url": "https://open.spotify.com/track/2mYKWIsHhODugwBho8Mi7y"
+    },
+    {
+      "added_at": "2023-11-10 00:37:25",
+      "album": {
+        "name": "KITSUNE",
+        "url": "https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 169418,
+      "name": "AMNESIA",
+      "url": "https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0"
     },
     {
       "added_at": "2023-11-10 00:37:25",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
-        "name": "Mi Secreto",
-        "url": "https://open.spotify.com/album/78zqrmLSjeNYaebSKuYzA8"
-      },
-      "artists": [
-        {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
-        }
-      ],
-      "duration_ms": 179834,
-      "name": "Mi Secreto",
-      "url": "https://open.spotify.com/track/0EL8nDCstXlfIUONRc8JTj"
-    },
-    {
-      "added_at": "2023-11-10 00:37:25",
-      "album": {
         "name": "Otra Oportunidad",
         "url": "https://open.spotify.com/album/0dBnPH1ZzYfB6gOUfRUJOZ"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 208008,
       "name": "Otra Oportunidad",
       "url": "https://open.spotify.com/track/14P7QoGuWWFe7xxzmyQA4o"
+    },
+    {
+      "added_at": "2023-11-10 00:37:25",
+      "album": {
+        "name": "Mi Secreto",
+        "url": "https://open.spotify.com/album/78zqrmLSjeNYaebSKuYzA8"
+      },
+      "artists": [
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "duration_ms": 179834,
+      "name": "Mi Secreto",
+      "url": "https://open.spotify.com/track/0EL8nDCstXlfIUONRc8JTj"
     },
     {
       "added_at": "2023-11-10 00:37:25",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/51sUzxktVYZSJdt34KR2e9"
+      },
+      "artists": [
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "duration_ms": 184746,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/6hcK1eyxzMGoYbdO8predv"
+    },
+    {
+      "added_at": "2023-11-10 00:37:25",
+      "album": {
         "name": "bellodrama",
         "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 181603,
       "name": "Un Mill\u00f3n de Lunas",
       "url": "https://open.spotify.com/track/34pO51jqhxDyzGcvJbPj8i"
-    },
-    {
-      "added_at": "2023-11-10 00:37:25",
-      "album": {
-        "name": "Perdon",
-        "url": "https://open.spotify.com/album/3ExPJyqjXscTQvzo0UC96u"
-      },
-      "artists": [
-        {
-          "name": "Ronny Dae",
-          "url": "https://open.spotify.com/artist/17HJR2gstJGAQPmpi1svId"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Perdon",
-      "url": "https://open.spotify.com/track/200Xoixz9vIdfvUoB9Lq6I"
     },
     {
       "added_at": "2023-11-10 00:37:25",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/51sUzxktVYZSJdt34KR2e9"
+        "name": "Perdon",
+        "url": "https://open.spotify.com/album/3ExPJyqjXscTQvzo0UC96u"
       },
       "artists": [
         {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+          "name": "Ronny Dae",
+          "url": "https://open.spotify.com/artist/17HJR2gstJGAQPmpi1svId"
         }
       ],
-      "duration_ms": 184746,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/6hcK1eyxzMGoYbdO8predv"
+      "duration_ms": 193333,
+      "name": "Perdon",
+      "url": "https://open.spotify.com/track/200Xoixz9vIdfvUoB9Lq6I"
     },
     {
       "added_at": "2023-11-10 00:37:25",
@@ -1647,8 +1647,8 @@
     {
       "added_at": "2023-11-10 00:37:25",
       "album": {
-        "name": "Johnny Sky",
-        "url": "https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi"
+        "name": "Dime C\u00f3mo Se Siente",
+        "url": "https://open.spotify.com/album/4wMRyvWczYmzYRBU6cacKJ"
       },
       "artists": [
         {
@@ -1656,25 +1656,9 @@
           "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
         }
       ],
-      "duration_ms": 237998,
-      "name": "With or Without You",
-      "url": "https://open.spotify.com/track/4oByhbsmy68c2V7GUEMr22"
-    },
-    {
-      "added_at": "2023-11-10 00:37:25",
-      "album": {
-        "name": "Religi\u00f3n",
-        "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
-      },
-      "artists": [
-        {
-          "name": "Jhoni The Voice",
-          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
-        }
-      ],
-      "duration_ms": 220903,
-      "name": "Religi\u00f3n",
-      "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
+      "duration_ms": 160163,
+      "name": "Dime C\u00f3mo Se Siente",
+      "url": "https://open.spotify.com/track/3EJ6TrlfKKiP1PMZhjuT2r"
     },
     {
       "added_at": "2023-11-10 00:37:25",
@@ -1691,6 +1675,22 @@
       "duration_ms": 257186,
       "name": "Los Infieles",
       "url": "https://open.spotify.com/track/6IBrFNHdmwP244yzpRLetH"
+    },
+    {
+      "added_at": "2023-11-10 00:37:25",
+      "album": {
+        "name": "Religi\u00f3n",
+        "url": "https://open.spotify.com/album/59M5urdBBastXOof10375B"
+      },
+      "artists": [
+        {
+          "name": "Jhoni The Voice",
+          "url": "https://open.spotify.com/artist/6grrtSwMegDAZVtJgUQtJl"
+        }
+      ],
+      "duration_ms": 220903,
+      "name": "Religi\u00f3n",
+      "url": "https://open.spotify.com/track/14q8qADoS0GfBzCyXhdZHy"
     },
     {
       "added_at": "2023-11-10 00:37:25",

@@ -4,7 +4,7 @@
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-163 songs - 11 hr 7 min
+164 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestra Musica](https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE) | 4:28 | 2022-11-25 |  |
 | [No Se Acaba Na' Mix: No Se Acaba Na' / Para Estar De Fiesta / Ya Viene La Nochebuena \- De Navidad](https://open.spotify.com/track/60VHGVgXcbFleSAxUeNMLq) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [No Se Acaba Na' Mix: No Se Acaba Na' / Para Estar De Fiesta / Ya Viene La Nochebuena \(De Navidad\)](https://open.spotify.com/album/1NF6nTsGudRHJLxRd9V3pW) | 4:41 | 2023-08-16 |  |
 | [Noche de Paz \- Cumbia](https://open.spotify.com/track/4hoPjIJDzvzOkgaKywO3f2) | [PAOLO RUBBOLI](https://open.spotify.com/artist/2YTXrgl9NKHgi2Bd4XUsEe) | [Noche de Paz \(Cumbia\)](https://open.spotify.com/album/3nOotXnsDskTlGFtSlz4hD) | 2:40 | 2022-11-25 | 2023-08-17 |
-| [Parranda Navideña](https://open.spotify.com/track/6ltjndHA8EV1SIyaspqWAt) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [10 Grandes Exitos](https://open.spotify.com/album/3fyyvvAPxiWSL9Y7Eo9YLr) | 4:13 | 2023-11-17 |  |
+| [Parranda Navideña](https://open.spotify.com/track/6ltjndHA8EV1SIyaspqWAt) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [10 Grandes Exitos](https://open.spotify.com/album/3fyyvvAPxiWSL9Y7Eo9YLr) | 4:13 | 2023-11-17 | 2023-11-24 |
 | [Parranda Quisqueyana](https://open.spotify.com/track/09JoV9u9sijtmIWY9j0NX6) | [Dimension Dominicana](https://open.spotify.com/artist/2MghxItTMU77qHH5Q7yBCf) | [Navidad Caribeña: Desde Quisqueya y Puerto Rico](https://open.spotify.com/album/0ChiBQiatrvyHDGABY7V68) | 5:02 | 2023-08-16 |  |
 | [Persona Ideal \- Me Tengo Que Ir](https://open.spotify.com/track/4UHRMwbbiZ7tkeEkhyN7iB) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Persona Ideal](https://open.spotify.com/album/3YuzaY1bX9uhlhWR0f19mP) | 4:39 | 2022-11-25 |  |
 | [Pescao \(Popurri Sambao\): Si Se Quema El Monte / Coje El Pandero / Pescao \(Samba\)](https://open.spotify.com/track/7JIeUzAQeuGoED1235Eje9) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño: Vol\. 1 & 2](https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw) | 5:39 | 2022-11-25 | 2022-12-19 |
@@ -163,6 +163,7 @@
 | [Tarjeta de Navidad](https://open.spotify.com/track/72PomDaaCoJnjFN0woEqHq) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Lo Mejor De Gilberto En La Navidad](https://open.spotify.com/album/4lc37RNbpnoKrhBY0EKOjB) | 4:30 | 2022-12-18 |  |
 | [Traicionera](https://open.spotify.com/track/3Dw69iKKgj2U3JzeeftBbx) | [Vallenatos Nativos](https://open.spotify.com/artist/5SdcPt2f884fB3DITvFqok) | [Latin Vallenatos](https://open.spotify.com/album/0uWkTYkohs30DzAhSMIf3D) | 3:34 | 2022-11-25 |  |
 | [Trulla Pa' Ti](https://open.spotify.com/track/5JYJ7UuEoLnTZBtKKXRVN8) | [Danny Rivera](https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL) | [20 Exitos Navideños](https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1) | 3:19 | 2022-12-18 |  |
+| [Tú No Bailas Mas Que Yo](https://open.spotify.com/track/28rpGvE9oOR6ZK9D2Kwj6C) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Tradición Urbana](https://open.spotify.com/album/3gL1JUfwdzStBfmKJQDoPA) | 3:03 | 2023-11-17 |  |
 | [Tú No Bailas Mas Que Yo](https://open.spotify.com/track/2U2xfA3zCdjsLVhAX2rQ3y) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Tú No Bailas Mas Que Yo](https://open.spotify.com/album/4G7Ap84rNIhYgF5NXHmP8q) | 3:03 | 2022-11-25 | 2023-11-18 |
 | [Viejo Año](https://open.spotify.com/track/6gOklqkrjzHcBPSw0oFL9P) | [July Mateo Rasputin](https://open.spotify.com/artist/56zfXx0Uk6du1iFkewDvPi) | [Fiesta en Navidad 35 Exitos](https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU) | 4:22 | 2022-11-25 |  |
 | [Viva la Navidad](https://open.spotify.com/track/785CCbLtt4kGO5o8AkpRuY) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [It's Christmas Time! \(Original Recordings\)](https://open.spotify.com/album/5WlU0sbzRWMlYWwSJobc7I) | 2:24 | 2022-11-25 | 2022-12-19 |

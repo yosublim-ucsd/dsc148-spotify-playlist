@@ -4,7 +4,7 @@
 
 > A pastoral, uplifting pan\-African café sound.
 
-142 songs - 10 hr 20 min
+144 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Guelen](https://open.spotify.com/track/2glWeR2NkywIUE7zzMR6Xb) | [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Djourou](https://open.spotify.com/album/1wqZp9tG65T3FjKAPd5a5u) | 5:32 | 2022-08-05 |  |
 | [hlala](https://open.spotify.com/track/2N52t4ou4Of2eCGxHpPXqq) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [amaXesha](https://open.spotify.com/album/3jakaJqMeF7geMynKw6QWf) | 3:42 | 2023-10-27 |  |
 | [I Met Her By The River](https://open.spotify.com/track/569Ur4YOxQ2OOzE7gtjZmL) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh) | [I Met Her by the River](https://open.spotify.com/album/7GMUq2GDaIzQHaCdsG3nDV) | 4:26 | 2022-08-05 | 2023-03-15 |
-| [Ibaasi](https://open.spotify.com/track/4FFAIsIjrbkA8W7lP64v2y) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Ibaasi](https://open.spotify.com/album/47BT0AkQNjqq5YExNikw43) | 4:33 | 2023-10-27 |  |
+| [Ibaasi](https://open.spotify.com/track/4FFAIsIjrbkA8W7lP64v2y) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Ibaasi](https://open.spotify.com/album/47BT0AkQNjqq5YExNikw43) | 4:33 | 2023-10-27 | 2023-11-24 |
 | [Imbukula](https://open.spotify.com/track/3UMbW5c5Zgg6gqWPFS1T6I) | [Jackson Ingosi](https://open.spotify.com/artist/131MvZBkyG1UPiYBeppPM7) | [I am a child of the 80s](https://open.spotify.com/album/3iAUsJ7jLcWvpn1gUmMTL2) | 4:45 | 2022-08-05 | 2023-09-30 |
 | [Imbukula](https://open.spotify.com/track/49SD731vKkB8DOy1Rqr340) | [Jackson Ingosi](https://open.spotify.com/artist/131MvZBkyG1UPiYBeppPM7) | [Discover Music from Africa](https://open.spotify.com/album/6NzbFxFvkvUCoRn2YmjLXj) | 4:45 | 2022-08-05 |  |
 | [Inigradan](https://open.spotify.com/track/1yoOkwoSLydaiSGT7wEorG) | [Les Filles de Illighadad](https://open.spotify.com/artist/45EoOvcenErsYkaJUnqjJv) | [Les Filles de Illighadad](https://open.spotify.com/album/0rl2xdgHM1Z6jodYVxgHoZ) | 3:16 | 2022-08-05 |  |
@@ -88,6 +88,7 @@
 | [Masikini](https://open.spotify.com/track/2DwmgYmOFim5vpb7rEgLn5) | [Eyuphuro](https://open.spotify.com/artist/3xeIPvs8wpKFuSfcWMl3Yz) | [Rough Guide To Acoustic Africa](https://open.spotify.com/album/2RdS4iINtmF5E6oHc0uUxK) | 5:09 | 2022-08-05 | 2022-11-13 |
 | [Mbog](https://open.spotify.com/track/52UFQ6EwxdzFacdiclDNjG) | [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E) | [Mbog](https://open.spotify.com/album/0itXEXsfQKZnEjNzW1Yptz) | 2:16 | 2022-08-05 |  |
 | [Minmanle?](https://open.spotify.com/track/6dh2Pk67JhkjUof4i3N2ZY) | [Jess Sah Bi](https://open.spotify.com/artist/15aLRR4OIdppLLQ3Kboc95), [Peter One](https://open.spotify.com/artist/0a2PWvcYoeN1ZCzpujQ0qo) | [Our Garden Needs Its Flowers](https://open.spotify.com/album/1jAPqpP7jpLIpZZnXU5Y6u) | 4:07 | 2022-08-05 | 2023-11-17 |
+| [Mmuan Daan](https://open.spotify.com/track/3s5i68yM2uOrvWXxQ5BVHE) | [Muanda](https://open.spotify.com/artist/7FY23WzyHwLPLK7VSHb7gV) | [Mmuan Daan](https://open.spotify.com/album/7pqLfnPiVJGRWFvDXJwTYL) | 3:37 | 2023-11-23 |  |
 | [Mogoya \- Acoustic](https://open.spotify.com/track/4Bpxj43W9tnmjVrOzLn8ln) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Acoustic](https://open.spotify.com/album/3WPGTvO0ryY6LRMhrR6pZE) | 4:43 | 2022-08-05 |  |
 | [Munaya \(Dream\)](https://open.spotify.com/track/3bhui3GTdH3kJ4ic6ubmQS) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 5:46 | 2022-08-05 |  |
 | [Ndule](https://open.spotify.com/track/1z0iOMCfT7b5Wk9P8TR0cG) | [Jaja Bashengezi](https://open.spotify.com/artist/1RQv52rbKYfSKVkPfCvxxw) | [Putumayo Presents African Café](https://open.spotify.com/album/1hbhZdfJFRJsWttOQVlNMD) | 3:42 | 2022-08-05 |  |
@@ -100,6 +101,7 @@
 | [People Talk Too Much](https://open.spotify.com/track/4MBgbO0F3qKav5MuxNpxzm) | [King Ayisoba](https://open.spotify.com/artist/6TQgRLQia206d3QvleDxen) | [People Talk Too Much](https://open.spotify.com/album/2wO8hF43Nb42TrlaDGgSHE) | 3:32 | 2023-03-14 |  |
 | [Pierrette](https://open.spotify.com/track/2oz9cuIJauGZ2HlT9Ei4a5) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/0Byaou7HBAyyOsoSGpp2hI) | 4:12 | 2022-08-05 |  |
 | [Pierrette](https://open.spotify.com/track/46P37n60PWSbtWS4CS7jEC) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mariama](https://open.spotify.com/album/2k0il4VCyt5vL0vbSp1XMb) | 4:12 | 2022-08-05 | 2022-09-24 |
+| [Pieteron](https://open.spotify.com/track/2hT7SV5QUhbO0p8T1dkHS6) | [Fulu Miziki](https://open.spotify.com/artist/5YpOlimBuGWDamh62kx4cu) | [Pieteron](https://open.spotify.com/album/2e1ZMyWJzNs7AYyswMeOsG) | 3:22 | 2023-11-23 |  |
 | [Presenting the King](https://open.spotify.com/track/4625NzdUwBF1lSCnBJkZtr) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh) | [Transitional Times](https://open.spotify.com/album/10yK1rIl0mevzccNi8nlie) | 2:54 | 2022-08-05 |  |
 | [Rwangaguhunga](https://open.spotify.com/track/7vpqMS7jm4j7IoRpTd5wWf) | [John Wizards](https://open.spotify.com/artist/4sPLhyVBoVtdlX0MaetdVK) | [Rwangaguhunga](https://open.spotify.com/album/7HF4HBqqUlGGKYqrE04CNE) | 2:45 | 2022-12-08 |  |
 | [Safari](https://open.spotify.com/track/5ZFMfKOY90FnQYZDMnUguz) | [Liboi](https://open.spotify.com/artist/6HOD1hSjJf0TNjnWmt4nAp) | [Safari](https://open.spotify.com/album/5RwXYwmHb8FwRdnDyc80gm) | 6:05 | 2023-10-27 |  |
@@ -122,7 +124,7 @@
 | [Sonkolon](https://open.spotify.com/track/30fDVObwlcnIxC5WWlaKh2) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fatou](https://open.spotify.com/album/0AkYV0mq8RuPYk07G8221P) | 3:30 | 2023-10-27 |  |
 | [Sonkolon](https://open.spotify.com/track/7kwh4OBLLGc0Fvp5ENu7hm) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Fatou](https://open.spotify.com/album/2jdSj8ZhRoGvKFD9r22BtT) | 3:30 | 2022-08-05 | 2023-11-05 |
 | [Speak Low](https://open.spotify.com/track/2E5ekqXKBEWFCgOzvSsHhT) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 4:21 | 2022-08-05 | 2023-03-15 |
-| [Sutu Kun](https://open.spotify.com/track/2apsDSuPwQ4OklRmplb6gV) | [Vieux Diop](https://open.spotify.com/artist/4eb4nhTKc0HeQmbtM7rIUo) | [Vieux Diop \(Via Jo\)](https://open.spotify.com/album/1GZJUcQ1L3KXGhquWVilzP) | 6:21 | 2022-08-05 |  |
+| [Sutu Kun](https://open.spotify.com/track/2apsDSuPwQ4OklRmplb6gV) | [Vieux Diop](https://open.spotify.com/artist/4eb4nhTKc0HeQmbtM7rIUo) | [Vieux Diop \(Via Jo\)](https://open.spotify.com/album/1GZJUcQ1L3KXGhquWVilzP) | 6:21 | 2022-08-05 | 2023-11-24 |
 | [Tanya](https://open.spotify.com/track/3a8TSMd9ZVUyltsnS1Ahi1) | [Kasumai](https://open.spotify.com/artist/1iSZ7PhPo0z6a8ufDAzopv) | [Senegal Urban Rhythms](https://open.spotify.com/album/7mRh3KBsnccgY39OLezlVs) | 2:25 | 2022-08-05 | 2023-03-15 |
 | [Tara](https://open.spotify.com/track/3BjfQ2umqNOTCtjv8d4JQU) | [Sourakata Koité](https://open.spotify.com/artist/1aEXvBo9XF1pXQJwKbg0aX) | [Kora](https://open.spotify.com/album/2lKpNUGOdijNQMmLxR64MN) | 3:57 | 2022-08-05 |  |
 | [thula](https://open.spotify.com/track/0MfonO7Ip7SypONglF78pO) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [amaXesha](https://open.spotify.com/album/3jakaJqMeF7geMynKw6QWf) | 4:00 | 2023-10-27 |  |

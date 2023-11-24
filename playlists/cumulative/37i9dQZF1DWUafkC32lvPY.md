@@ -4,7 +4,7 @@
 
 > lofi beats by Latinxs.
 
-85 songs - 3 hr 24 min
+86 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Géminis](https://open.spotify.com/track/0wJ2hkKwN39pvyi2hTN1xy) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1) | [Ascendentes](https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm) | 3:17 | 2023-06-26 |  |
 | [Happiness](https://open.spotify.com/track/5SBRYk2CBIozhelV45ACN4) | [Dj 113](https://open.spotify.com/artist/4HSmtHHiNWzGZRxxvk7nPG) | [Sosiego](https://open.spotify.com/album/4mIrk8lk1woldQ7n5Gp0DV) | 1:48 | 2023-06-26 |  |
 | [Happy To Help](https://open.spotify.com/track/6daTLzt1uhoximZNMKoqlG) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Orange Stick](https://open.spotify.com/artist/2Ie3P7oklbSFxfrGtrkT9W) | [Happy To Help](https://open.spotify.com/album/4EZ4dKI2uWAZgF7Gf21rfp) | 1:52 | 2023-06-26 |  |
+| [Helado de Mango \(Remix\)](https://open.spotify.com/track/4cxQZLuYb1HLB3g6PpvBMK) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [neptune kid](https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA), [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn) | [Helado de Mango \(Remix\)](https://open.spotify.com/album/34FM4pGswRvn6l3uHyFMS3) | 2:21 | 2023-11-03 |  |
 | [Hotel Lounge in Havana](https://open.spotify.com/track/0WzNm5OrMqWzVZ84QdwJSS) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8), [93Alekk](https://open.spotify.com/artist/6e0UHI8nGl5Y5DtYPrdaHu), [Lipoov](https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t) | [Hotel Lounge in Havana](https://open.spotify.com/album/7i9DSwLtAO2lcgOH2BAwBK) | 1:55 | 2023-06-26 |  |
 | [Ipanema Sunset](https://open.spotify.com/track/5ZShelOhRxEpV21NiTYQsK) | [Praia Sur](https://open.spotify.com/artist/1rAf2WavxUwfhaeBHUreyf), [LaidSisters](https://open.spotify.com/artist/5Cn511T4oZ0eQO3IddTPRj), [Müx](https://open.spotify.com/artist/7IGyY5whYR8PVM72XO07yo) | [Ipanema Sunset](https://open.spotify.com/album/2fq3PU3vTiKdUyDsRKc8L7) | 2:02 | 2023-09-14 |  |
 | [La Belleza de lo Cotidiano](https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n), [Lofi Soul](https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn) | [La Belleza de lo Cotidiano](https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC) | 2:08 | 2023-07-14 |  |
@@ -84,7 +85,7 @@
 | [Shemomedjamo](https://open.spotify.com/track/26HbFJdrkXgWrME5kLrk8r) | [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [100% Barztep](https://open.spotify.com/album/16c3Y70tMv9USOwiQ2lO91) | 3:30 | 2023-09-14 | 2023-11-16 |
 | [soltarte \(instrumental\)](https://open.spotify.com/track/1xD7fo4OF6bcULBMbIgwzd) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2), [BRXWS](https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT) | [soltarte \(instrumental\)](https://open.spotify.com/album/5HyAL7Dc0sgIurgdN1swr9) | 2:56 | 2023-09-14 |  |
 | [spirits](https://open.spotify.com/track/19AiqwcVZDgbivDpLwZtG3) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [spirits](https://open.spotify.com/album/1ZRT7cfPl8hIcOoALNiuBm) | 2:17 | 2023-06-26 |  |
-| [Sunset on Vallarta](https://open.spotify.com/track/5ZNrrgjATjnKl5z1urH5Eg) | [Jouta](https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd) | [Sunset on Vallarta](https://open.spotify.com/album/0zst4Hkj5ewPQQXhJRNbbh) | 2:25 | 2023-09-14 |  |
+| [Sunset on Vallarta](https://open.spotify.com/track/5ZNrrgjATjnKl5z1urH5Eg) | [Jouta](https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd) | [Sunset on Vallarta](https://open.spotify.com/album/0zst4Hkj5ewPQQXhJRNbbh) | 2:25 | 2023-09-14 | 2023-11-24 |
 | [Te Adoro](https://open.spotify.com/track/1sagWkuNSjjj1juUOTQNRF) | [Carabide](https://open.spotify.com/artist/0wNoA8QqgWPT80bU8sVrJS), [9T7](https://open.spotify.com/artist/6FUrvlop2OuQ4v0NLgkaKD), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Te Adoro](https://open.spotify.com/album/6YpkDFutK6pQfAdSQiwwp5) | 2:04 | 2023-06-26 |  |
 | [Todo Tranqui](https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M) | [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Todo Tranqui](https://open.spotify.com/album/6PwymJ9ctOXcJubwsSoBbP) | 1:40 | 2023-06-26 |  |
 | [Trust](https://open.spotify.com/track/3YHEsLhBbJJ0PZIagVW29j) | [Baskito](https://open.spotify.com/artist/1XGcG27KZwolBSLtg3wg6v) | [Quiet Process](https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc) | 2:48 | 2023-06-26 |  |
